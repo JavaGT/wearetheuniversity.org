@@ -1,9 +1,12 @@
 ---
 slug: interactive-advertising-that-follows-you-around
-title: "Interactive advertising that follows you around"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/BU0911/S00016/interactive-advertising-that-follows-you-around.htm
+title: Interactive advertising that follows you around
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00016/interactive-advertising-that-follows-you-around.htm
 author: university-of-waikato
+permalink: /archive/2009/11/02/interactive-advertising-that-follows-you-around/index.html
+layout: layout.njk
 ---
 Interactive advertising that follows you around
 ===============================================

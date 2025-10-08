@@ -1,9 +1,13 @@
 ---
 slug: immigration-and-the-future-in-super-diverse-auckland
-title: "Immigration and the future in super-diverse Auckland"
-date: 2017-05-30
-source-url: https://www.scoop.co.nz/stories/PO1705/S00470/immigration-and-the-future-in-super-diverse-auckland.htm
+title: Immigration and the future in super-diverse Auckland
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00470/immigration-and-the-future-in-super-diverse-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/30/immigration-and-the-future-in-super-diverse-auckland/index.html
+layout: layout.njk
 ---
 Immigration and the future in super-diverse Auckland
 ====================================================

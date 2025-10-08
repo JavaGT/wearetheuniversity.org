@@ -1,9 +1,12 @@
 ---
 slug: government-releases-tertiary-education-strategy
-title: "Government releases tertiary education strategy"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/ED0910/S00045/government-releases-tertiary-education-strategy.htm
+title: Government releases tertiary education strategy
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00045/government-releases-tertiary-education-strategy.htm
 author: salient
+permalink: /archive/2009/10/09/government-releases-tertiary-education-strategy/index.html
+layout: layout.njk
 ---
 Government releases tertiary education strategy
 ===============================================

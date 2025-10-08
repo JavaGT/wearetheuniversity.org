@@ -1,9 +1,11 @@
 ---
 slug: the-prodigy-returns
-title: "The prodigy returns"
-date: 2014-06-30
+title: The prodigy returns
+date: 2014-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1406/S00416/the-prodigy-returns.htm
 author: university-of-waikato
+permalink: /archive/2014/06/30/the-prodigy-returns/index.html
+layout: layout.njk
 ---
 The prodigy returns
 ===================

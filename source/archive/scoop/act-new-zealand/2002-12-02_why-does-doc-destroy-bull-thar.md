@@ -1,9 +1,12 @@
 ---
 slug: why-does-doc-destroy-bull-thar
-title: "Why Does DoC Destroy Bull Thar?"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00032/why-does-doc-destroy-bull-thar.htm
+title: Why Does DoC Destroy Bull Thar?
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00032/why-does-doc-destroy-bull-thar.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/why-does-doc-destroy-bull-thar/index.html
+layout: layout.njk
 ---
 Why Does DoC Destroy Bull Thar?
 ===============================

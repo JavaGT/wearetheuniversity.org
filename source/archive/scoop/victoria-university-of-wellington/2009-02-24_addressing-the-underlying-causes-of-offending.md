@@ -1,9 +1,12 @@
 ---
 slug: addressing-the-underlying-causes-of-offending
-title: "Addressing the underlying causes of offending"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/PO0902/S00273/addressing-the-underlying-causes-of-offending.htm
+title: Addressing the underlying causes of offending
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00273/addressing-the-underlying-causes-of-offending.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/24/addressing-the-underlying-causes-of-offending/index.html
+layout: layout.njk
 ---
 Addressing the underlying causes of offending
 =============================================

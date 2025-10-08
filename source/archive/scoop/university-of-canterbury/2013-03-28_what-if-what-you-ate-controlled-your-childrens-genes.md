@@ -1,9 +1,13 @@
 ---
 slug: what-if-what-you-ate-controlled-your-childrens-genes
-title: "What if what you ate controlled your children's genes?"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/SC1303/S00047/what-if-what-you-ate-controlled-your-childrens-genes.htm
+title: What if what you ate controlled your children's genes?
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00047/what-if-what-you-ate-controlled-your-childrens-genes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/28/what-if-what-you-ate-controlled-your-childrens-genes/index.html
+layout: layout.njk
 ---
 What if what you ate controlled your children's genes?
 ======================================================

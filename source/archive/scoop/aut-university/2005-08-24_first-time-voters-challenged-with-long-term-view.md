@@ -1,9 +1,13 @@
 ---
 slug: first-time-voters-challenged-with-long-term-view
-title: "First-time voters challenged with long-term view"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/ED0508/S00101/first-time-voters-challenged-with-long-term-view.htm
+title: First-time voters challenged with long-term view
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00101/first-time-voters-challenged-with-long-term-view.htm
 author: aut-university
+permalink: >-
+  /archive/2005/08/24/first-time-voters-challenged-with-long-term-view/index.html
+layout: layout.njk
 ---
 First-time voters challenged with long-term view
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: experts-to-lead-new-retirement-policy-centre
-title: "Experts to lead new Retirement Policy Centre"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/ED0605/S00033/experts-to-lead-new-retirement-policy-centre.htm
+title: Experts to lead new Retirement Policy Centre
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00033/experts-to-lead-new-retirement-policy-centre.htm
 author: university-of-auckland-business-school
+permalink: /archive/2006/05/09/experts-to-lead-new-retirement-policy-centre/index.html
+layout: layout.njk
 ---
 Experts to lead new Retirement Policy Centre
 ============================================

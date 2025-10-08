@@ -1,9 +1,12 @@
 ---
 slug: move-to-strike-off-compulsory-student-union
-title: "Move to strike off compulsory student union"
-date: 2010-08-23
-source-url: https://www.scoop.co.nz/stories/PO1008/S00269/move-to-strike-off-compulsory-student-union.htm
+title: Move to strike off compulsory student union
+date: 2010-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00269/move-to-strike-off-compulsory-student-union.htm
 author: student-choice
+permalink: /archive/2010/08/23/move-to-strike-off-compulsory-student-union/index.html
+layout: layout.njk
 ---
 Move to strike off compulsory student union
 ===========================================

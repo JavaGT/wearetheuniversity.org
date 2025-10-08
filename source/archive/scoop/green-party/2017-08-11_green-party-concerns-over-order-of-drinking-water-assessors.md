@@ -1,9 +1,13 @@
 ---
 slug: green-party-concerns-over-order-of-drinking-water-assessors
-title: "Green Party Concerns Over Order of Drinking Water Assessors"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PO1708/S00244/green-party-concerns-over-order-of-drinking-water-assessors.htm
+title: Green Party Concerns Over Order of Drinking Water Assessors
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00244/green-party-concerns-over-order-of-drinking-water-assessors.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/11/green-party-concerns-over-order-of-drinking-water-assessors/index.html
+layout: layout.njk
 ---
 Green Party Concerns Over Order of Drinking Water Assessors
 ===========================================================

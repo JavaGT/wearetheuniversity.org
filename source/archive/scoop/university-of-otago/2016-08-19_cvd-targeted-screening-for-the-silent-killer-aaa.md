@@ -1,9 +1,13 @@
 ---
 slug: cvd-targeted-screening-for-the-silent-killer-aaa
-title: "CVD-targeted screening for the \"silent killer\" AAA"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/SC1608/S00065/cvd-targeted-screening-for-the-silent-killer-aaa.htm
+title: CVD-targeted screening for the "silent killer" AAA
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00065/cvd-targeted-screening-for-the-silent-killer-aaa.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/19/cvd-targeted-screening-for-the-silent-killer-aaa/index.html
+layout: layout.njk
 ---
 CVD-targeted screening for the “silent killer” AAA
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: agreement-to-build-better-nz-indonesian-relations
-title: "Agreement to build better NZ/Indonesian relations"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/ED0707/S00069/agreement-to-build-better-nzindonesian-relations.htm
+title: Agreement to build better NZ/Indonesian relations
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00069/agreement-to-build-better-nzindonesian-relations.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/07/20/agreement-to-build-better-nz-indonesian-relations/index.html
+layout: layout.njk
 ---
 Agreement to build better NZ/Indonesian relations
 =================================================

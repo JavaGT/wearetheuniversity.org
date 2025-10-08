@@ -1,9 +1,12 @@
 ---
 slug: hurunui-moratorium-should-cover-other-waterways
-title: "Hurunui moratorium should cover other waterways"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PA1007/S00330/hurunui-moratorium-should-cover-other-waterways.htm
+title: Hurunui moratorium should cover other waterways
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00330/hurunui-moratorium-should-cover-other-waterways.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/21/hurunui-moratorium-should-cover-other-waterways/index.html
+layout: layout.njk
 ---
 Hurunui moratorium should cover other waterways
 ===============================================

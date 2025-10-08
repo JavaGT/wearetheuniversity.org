@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-column-a-crumbling-society
-title: "Muriel Newman Column - A Crumbling Society"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/PA0307/S00223/muriel-newman-column-a-crumbling-society.htm
+title: Muriel Newman Column - A Crumbling Society
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00223/muriel-newman-column-a-crumbling-society.htm
 author: act-new-zealand
+permalink: /archive/2003/07/11/muriel-newman-column-a-crumbling-society/index.html
+layout: layout.njk
 ---
 Muriel Newman Column - A Crumbling Society
 ==========================================

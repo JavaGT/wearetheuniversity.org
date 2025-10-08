@@ -1,9 +1,12 @@
 ---
 slug: keeping-ratanas-message-alive-for-maori
-title: "Keeping Ratana's Message Alive For Maori"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/PA1401/S00128/keeping-ratanas-message-alive-for-maori.htm
+title: Keeping Ratana's Message Alive For Maori
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00128/keeping-ratanas-message-alive-for-maori.htm
 author: new-zealand-first-party
+permalink: /archive/2014/01/24/keeping-ratanas-message-alive-for-maori/index.html
+layout: layout.njk
 ---
 Keeping Ratana's Message Alive For Maori
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: rail-shambles-unacceptable-says-brown
-title: "Rail Shambles Unacceptable Says Brown"
-date: 2003-02-21
-source-url: https://www.scoop.co.nz/stories/PA0302/S00393/rail-shambles-unacceptable-says-brown.htm
+title: Rail Shambles Unacceptable Says Brown
+date: 2003-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00393/rail-shambles-unacceptable-says-brown.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/21/rail-shambles-unacceptable-says-brown/index.html
+layout: layout.njk
 ---
 Rail Shambles Unacceptable Says Brown
 =====================================

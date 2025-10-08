@@ -1,9 +1,13 @@
 ---
 slug: alcohol-outlet-density-related-to-binge-drinking
-title: "Alcohol Outlet Density Related To Binge Drinking"
-date: 2010-10-31
-source-url: https://www.scoop.co.nz/stories/GE1010/S00128/alcohol-outlet-density-related-to-binge-drinking.htm
+title: Alcohol Outlet Density Related To Binge Drinking
+date: 2010-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00128/alcohol-outlet-density-related-to-binge-drinking.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/10/31/alcohol-outlet-density-related-to-binge-drinking/index.html
+layout: layout.njk
 ---
 Alcohol Outlet Density Related To Binge Drinking
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: taxation-(gst-and-remedial-matters)-bill
-title: "Taxation (GST And Remedial Matters) Bill"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/PA1011/S00532/taxation-gst-and-remedial-matters-bill.htm
+title: Taxation (GST And Remedial Matters) Bill
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00532/taxation-gst-and-remedial-matters-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/11/26/taxation-/index.html
+layout: layout.njk
 ---
 Taxation (GST And Remedial Matters) Bill
 ========================================

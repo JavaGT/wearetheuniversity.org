@@ -1,9 +1,12 @@
 ---
 slug: university-protest-against-holocaust-denier
-title: "University Protest Against Holocaust Denier"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/ED0005/S00016/university-protest-against-holocaust-denier.htm
+title: University Protest Against Holocaust Denier
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00016/university-protest-against-holocaust-denier.htm
 author: fightback
+permalink: /archive/2000/05/11/university-protest-against-holocaust-denier/index.html
+layout: layout.njk
 ---
 University Protest Against Holocaust Denier
 ===========================================

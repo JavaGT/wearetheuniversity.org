@@ -1,9 +1,11 @@
 ---
 slug: national-celebrates-82-years
-title: "National celebrates 82 years"
-date: 2018-05-13
+title: National celebrates 82 years
+date: 2018-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1805/S00157/national-celebrates-82-years.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/13/national-celebrates-82-years/index.html
+layout: layout.njk
 ---
 National celebrates 82 years
 ============================

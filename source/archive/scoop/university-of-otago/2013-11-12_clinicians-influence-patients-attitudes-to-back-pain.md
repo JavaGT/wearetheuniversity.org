@@ -1,9 +1,13 @@
 ---
 slug: clinicians-influence-patients-attitudes-to-back-pain
-title: "Clinicians influence patients’ attitudes to back pain"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/SC1311/S00040/clinicians-influence-patients-attitudes-to-back-pain.htm
+title: Clinicians influence patients’ attitudes to back pain
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00040/clinicians-influence-patients-attitudes-to-back-pain.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/12/clinicians-influence-patients-attitudes-to-back-pain/index.html
+layout: layout.njk
 ---
 Clinicians influence patients’ attitudes to back pain
 =====================================================

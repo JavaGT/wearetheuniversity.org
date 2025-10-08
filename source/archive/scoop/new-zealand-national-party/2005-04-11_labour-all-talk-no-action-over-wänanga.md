@@ -1,9 +1,12 @@
 ---
 slug: labour-all-talk-no-action-over-wänanga
-title: "Labour all talk, no action over Wänanga"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/PA0504/S00218/labour-all-talk-no-action-over-wananga.htm
+title: Labour all talk, no action over Wänanga
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00218/labour-all-talk-no-action-over-wananga.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/11/labour-all-talk-no-action-over-w/index.html
+layout: layout.njk
 ---
 Labour all talk, no action over Wänanga
 =======================================

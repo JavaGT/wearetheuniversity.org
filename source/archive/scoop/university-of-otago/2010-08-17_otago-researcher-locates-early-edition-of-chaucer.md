@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-locates-early-edition-of-chaucer
-title: "Otago researcher locates early edition of Chaucer"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/CU1008/S00237/otago-researcher-locates-early-edition-of-chaucer.htm
+title: Otago researcher locates early edition of Chaucer
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00237/otago-researcher-locates-early-edition-of-chaucer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/08/17/otago-researcher-locates-early-edition-of-chaucer/index.html
+layout: layout.njk
 ---
 Otago researcher locates early edition of Chaucer
 =================================================

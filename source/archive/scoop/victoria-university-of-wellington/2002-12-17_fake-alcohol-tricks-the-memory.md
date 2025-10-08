@@ -1,9 +1,12 @@
 ---
 slug: fake-alcohol-tricks-the-memory
-title: "Fake Alcohol Tricks the Memory"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/SC0212/S00033/fake-alcohol-tricks-the-memory.htm
+title: Fake Alcohol Tricks the Memory
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0212/S00033/fake-alcohol-tricks-the-memory.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/12/17/fake-alcohol-tricks-the-memory/index.html
+layout: layout.njk
 ---
 Fake Alcohol Tricks the Memory
 ==============================

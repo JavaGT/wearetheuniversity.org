@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-ideally-positioned-for-food-science-leadership
-title: "New Zealand ‘ideally positioned’ for food science leadership"
-date: 2011-12-20
-source-url: https://www.scoop.co.nz/stories/ED1112/S00105/new-zealand-ideally-positioned-for-food-science-leadership.htm
+title: New Zealand ‘ideally positioned’ for food science leadership
+date: 2011-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00105/new-zealand-ideally-positioned-for-food-science-leadership.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/12/20/new-zealand-ideally-positioned-for-food-science-leadership/index.html
+layout: layout.njk
 ---
 New Zealand ‘ideally positioned’ for food science leadership
 ============================================================

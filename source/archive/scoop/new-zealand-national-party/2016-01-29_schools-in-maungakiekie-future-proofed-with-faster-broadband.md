@@ -1,9 +1,13 @@
 ---
 slug: schools-in-maungakiekie-future-proofed-with-faster-broadband
-title: "Schools in Maungakiekie Future-Proofed with Faster Broadband"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/PA1601/S00176/schools-in-maungakiekie-future-proofed-with-faster-broadband.htm
+title: Schools in Maungakiekie Future-Proofed with Faster Broadband
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00176/schools-in-maungakiekie-future-proofed-with-faster-broadband.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/01/29/schools-in-maungakiekie-future-proofed-with-faster-broadband/index.html
+layout: layout.njk
 ---
 Schools in Maungakiekie Future-Proofed with Faster Broadband
 ============================================================

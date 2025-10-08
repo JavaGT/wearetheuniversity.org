@@ -1,9 +1,12 @@
 ---
 slug: more-frontline-health-services-to-be-cut
-title: "More frontline health services to be cut"
-date: 2010-01-28
-source-url: https://www.scoop.co.nz/stories/PA1001/S00144/more-frontline-health-services-to-be-cut.htm
+title: More frontline health services to be cut
+date: 2010-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00144/more-frontline-health-services-to-be-cut.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/28/more-frontline-health-services-to-be-cut/index.html
+layout: layout.njk
 ---
 More frontline health services to be cut
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: impacts-of-increased-cultural-diversity
-title: "Impacts of increased cultural diversity"
-date: 2014-01-13
-source-url: https://www.scoop.co.nz/stories/CU1401/S00172/impacts-of-increased-cultural-diversity.htm
+title: Impacts of increased cultural diversity
+date: 2014-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00172/impacts-of-increased-cultural-diversity.htm
 author: university-of-canterbury
+permalink: /archive/2014/01/13/impacts-of-increased-cultural-diversity/index.html
+layout: layout.njk
 ---
 Impacts of increased cultural diversity
 =======================================

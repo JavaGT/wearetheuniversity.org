@@ -1,9 +1,12 @@
 ---
 slug: maori-develop-through-market-not-government
-title: "Maori Develop through Market, not Government"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00264/maori-develop-through-market-not-government.htm
+title: Maori Develop through Market, not Government
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00264/maori-develop-through-market-not-government.htm
 author: act-new-zealand
+permalink: /archive/2009/12/16/maori-develop-through-market-not-government/index.html
+layout: layout.njk
 ---
 Maori Develop through Market, not Government
 ============================================

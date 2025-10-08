@@ -1,9 +1,12 @@
 ---
 slug: sorry-shouldnt-be-the-hardest-word
-title: "Sorry shouldn’t be the hardest word"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/PA1202/S00204/sorry-shouldnt-be-the-hardest-word.htm
+title: Sorry shouldn’t be the hardest word
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00204/sorry-shouldnt-be-the-hardest-word.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/16/sorry-shouldnt-be-the-hardest-word/index.html
+layout: layout.njk
 ---
 Sorry shouldn’t be the hardest word
 ===================================

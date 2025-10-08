@@ -1,9 +1,13 @@
 ---
 slug: arthritis-research-boosted-at-university-of-otago
-title: "Arthritis research boosted at University of Otago"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/ED1203/S00057/arthritis-research-boosted-at-university-of-otago.htm
+title: Arthritis research boosted at University of Otago
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00057/arthritis-research-boosted-at-university-of-otago.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/03/13/arthritis-research-boosted-at-university-of-otago/index.html
+layout: layout.njk
 ---
 Arthritis research boosted at University of Otago
 =================================================

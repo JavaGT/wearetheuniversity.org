@@ -1,9 +1,12 @@
 ---
 slug: ed-stays-decreased-but-with-strings-attached
-title: "ED stays decreased but with strings attached"
-date: 2017-10-04
-source-url: https://www.scoop.co.nz/stories/GE1710/S00029/ed-stays-decreased-but-with-strings-attached.htm
+title: ED stays decreased but with strings attached
+date: 2017-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00029/ed-stays-decreased-but-with-strings-attached.htm
 author: auckland-university
+permalink: /archive/2017/10/04/ed-stays-decreased-but-with-strings-attached/index.html
+layout: layout.njk
 ---
 ED stays decreased but with strings attached
 ============================================

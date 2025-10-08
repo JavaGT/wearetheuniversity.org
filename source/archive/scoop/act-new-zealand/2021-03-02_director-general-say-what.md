@@ -1,9 +1,11 @@
 ---
 slug: director-general-say-what
-title: "Director General Say What?"
-date: 2021-03-02
+title: Director General Say What?
+date: 2021-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2103/S00011/director-general-say-what.htm
 author: act-new-zealand
+permalink: /archive/2021/03/02/director-general-say-what/index.html
+layout: layout.njk
 ---
 Director General Say What?
 ==========================

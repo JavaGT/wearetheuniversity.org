@@ -1,9 +1,12 @@
 ---
 slug: transition-to-a-better-future
-title: "Transition to a better future"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PO1708/S00336/transition-to-a-better-future.htm
+title: Transition to a better future
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00336/transition-to-a-better-future.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/16/transition-to-a-better-future/index.html
+layout: layout.njk
 ---
 Transition to a better future
 =============================

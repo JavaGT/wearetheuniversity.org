@@ -1,9 +1,12 @@
 ---
 slug: immimgration-policy-that-works
-title: "Immimgration Policy That Works"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/PA0809/S00470/immimgration-policy-that-works.htm
+title: Immimgration Policy That Works
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00470/immimgration-policy-that-works.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/23/immimgration-policy-that-works/index.html
+layout: layout.njk
 ---
 Immimgration Policy That Works
 ==============================

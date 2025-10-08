@@ -1,9 +1,12 @@
 ---
 slug: stick-men-may-be-rendered-obsolete-in-insects
-title: "‘Stick men’ may be rendered obsolete in insects"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/SC1003/S00071/stick-men-may-be-rendered-obsolete-in-insects.htm
+title: ‘Stick men’ may be rendered obsolete in insects
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1003/S00071/stick-men-may-be-rendered-obsolete-in-insects.htm
 author: massey-university
+permalink: /archive/2010/03/25/stick-men-may-be-rendered-obsolete-in-insects/index.html
+layout: layout.njk
 ---
 ‘Stick men’ may be rendered obsolete in insects
 ===============================================

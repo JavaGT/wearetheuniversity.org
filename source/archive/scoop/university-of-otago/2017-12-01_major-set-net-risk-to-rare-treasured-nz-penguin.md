@@ -1,9 +1,12 @@
 ---
 slug: major-set-net-risk-to-rare-treasured-nz-penguin
-title: "Major set net risk to rare, treasured NZ penguin"
-date: 2017-12-01
-source-url: https://www.scoop.co.nz/stories/AK1712/S00016/major-set-net-risk-to-rare-treasured-nz-penguin.htm
+title: Major set net risk to rare, treasured NZ penguin
+date: 2017-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1712/S00016/major-set-net-risk-to-rare-treasured-nz-penguin.htm
 author: university-of-otago
+permalink: /archive/2017/12/01/major-set-net-risk-to-rare-treasured-nz-penguin/index.html
+layout: layout.njk
 ---
 Major set net risk to rare, treasured NZ penguin
 ================================================

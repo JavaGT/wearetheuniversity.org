@@ -1,9 +1,12 @@
 ---
 slug: the-green-party-pays-tribute-to-sir-don-beavan
-title: "The Green Party pays tribute to Sir Don Beavan"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/PA0911/S00079/the-green-party-pays-tribute-to-sir-don-beavan.htm
+title: The Green Party pays tribute to Sir Don Beavan
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00079/the-green-party-pays-tribute-to-sir-don-beavan.htm
 author: green-party
+permalink: /archive/2009/11/05/the-green-party-pays-tribute-to-sir-don-beavan/index.html
+layout: layout.njk
 ---
 The Green Party pays tribute to Sir Don Beavan
 ==============================================

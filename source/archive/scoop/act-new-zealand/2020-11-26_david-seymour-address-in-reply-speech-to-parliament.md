@@ -1,9 +1,13 @@
 ---
 slug: david-seymour-address-in-reply-speech-to-parliament
-title: "David Seymour Address In Reply Speech To Parliament"
-date: 2020-11-26
-source-url: https://www.scoop.co.nz/stories/PA2011/S00089/david-seymour-address-in-reply-speech-to-parliament.htm
+title: David Seymour Address In Reply Speech To Parliament
+date: 2020-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00089/david-seymour-address-in-reply-speech-to-parliament.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/11/26/david-seymour-address-in-reply-speech-to-parliament/index.html
+layout: layout.njk
 ---
 David Seymour Address In Reply Speech To Parliament
 ===================================================

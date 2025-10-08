@@ -1,9 +1,12 @@
 ---
 slug: the-impending-tsunami-of-the-digital-download
-title: "The impending tsunami of the digital download"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/CU1007/S00303/the-impending-tsunami-of-the-digital-download.htm
+title: The impending tsunami of the digital download
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00303/the-impending-tsunami-of-the-digital-download.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/22/the-impending-tsunami-of-the-digital-download/index.html
+layout: layout.njk
 ---
 The impending tsunami of the digital download
 =============================================

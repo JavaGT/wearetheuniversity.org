@@ -1,9 +1,12 @@
 ---
 slug: labour-announces-manurewa-&-te-atatu-selection-dates
-title: "Labour announces Manurewa & Te Atatu selection dates"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/PA1012/S00023/labour-announces-manurewa-te-atatu-selection-dates.htm
+title: Labour announces Manurewa & Te Atatu selection dates
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00023/labour-announces-manurewa-te-atatu-selection-dates.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/02/labour-announces-manurewa-/index.html
+layout: layout.njk
 ---
 Labour announces Manurewa & Te Atatu selection dates
 ====================================================

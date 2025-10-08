@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-students-face-fee-increases-today
-title: "Auckland Uni Students face fee increases today"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/ED0410/S00068/auckland-uni-students-face-fee-increases-today.htm
+title: Auckland Uni Students face fee increases today
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00068/auckland-uni-students-face-fee-increases-today.htm
 author: auckland-university-students-association
+permalink: /archive/2004/10/18/auckland-uni-students-face-fee-increases-today/index.html
+layout: layout.njk
 ---
 Auckland Uni Students face fee increases today
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: fiji-national-university-review-of-teacher-education-programmes
-title: "Fiji National University Review Of Teacher Education Programmes"
-date: 2020-05-22
-source-url: https://www.scoop.co.nz/stories/ED2005/S00056/fiji-national-university-review-of-teacher-education-programmes.htm
+title: Fiji National University Review Of Teacher Education Programmes
+date: 2020-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00056/fiji-national-university-review-of-teacher-education-programmes.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2020/05/22/fiji-national-university-review-of-teacher-education-programmes/index.html
+layout: layout.njk
 ---
 Fiji National University Review Of Teacher Education Programmes
 ===============================================================

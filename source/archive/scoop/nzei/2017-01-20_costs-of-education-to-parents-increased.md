@@ -1,9 +1,12 @@
 ---
 slug: costs-of-education-to-parents-increased
-title: "Costs of education to parents increased"
-date: 2017-01-20
-source-url: https://www.scoop.co.nz/stories/PO1701/S00129/costs-of-education-to-parents-increased.htm
+title: Costs of education to parents increased
+date: 2017-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1701/S00129/costs-of-education-to-parents-increased.htm
 author: nzei
+permalink: /archive/2017/01/20/costs-of-education-to-parents-increased/index.html
+layout: layout.njk
 ---
 Costs of education to parents increased
 =======================================

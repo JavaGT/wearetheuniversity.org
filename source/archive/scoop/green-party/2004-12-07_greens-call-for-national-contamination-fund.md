@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-national-contamination-fund
-title: "Greens call for national contamination fund"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/PA0412/S00165/greens-call-for-national-contamination-fund.htm
+title: Greens call for national contamination fund
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00165/greens-call-for-national-contamination-fund.htm
 author: green-party
+permalink: /archive/2004/12/07/greens-call-for-national-contamination-fund/index.html
+layout: layout.njk
 ---
 Greens call for national contamination fund
 ===========================================

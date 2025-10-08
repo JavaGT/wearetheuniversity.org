@@ -1,9 +1,12 @@
 ---
 slug: farmers-shown-massive-potential-of-organics
-title: "Farmers shown massive potential of organics"
-date: 2001-10-11
-source-url: https://www.scoop.co.nz/stories/PA0110/S00247/farmers-shown-massive-potential-of-organics.htm
+title: Farmers shown massive potential of organics
+date: 2001-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00247/farmers-shown-massive-potential-of-organics.htm
 author: green-party
+permalink: /archive/2001/10/11/farmers-shown-massive-potential-of-organics/index.html
+layout: layout.njk
 ---
 Farmers shown massive potential of organics
 ===========================================

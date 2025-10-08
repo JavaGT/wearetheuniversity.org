@@ -1,9 +1,12 @@
 ---
 slug: waikato-research-capacity-gets-$1-3-million-boost
-title: "Waikato Research Capacity Gets $1.3 Million Boost"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/ED0408/S00099/waikato-research-capacity-gets-13-million-boost.htm
+title: Waikato Research Capacity Gets $1.3 Million Boost
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00099/waikato-research-capacity-gets-13-million-boost.htm
 author: waikato-university
+permalink: /archive/2004/08/24/waikato-research-capacity-gets-/index.html
+layout: layout.njk
 ---
 Waikato Research Capacity Gets $1.3 Million Boost
 =================================================

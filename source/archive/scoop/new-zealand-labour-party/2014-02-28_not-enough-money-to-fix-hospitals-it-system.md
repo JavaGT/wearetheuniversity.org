@@ -1,9 +1,12 @@
 ---
 slug: not-enough-money-to-fix-hospitals-it-system
-title: "Not enough money to fix hospital’s IT system"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/PA1402/S00412/not-enough-money-to-fix-hospitals-it-system.htm
+title: Not enough money to fix hospital’s IT system
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00412/not-enough-money-to-fix-hospitals-it-system.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/28/not-enough-money-to-fix-hospitals-it-system/index.html
+layout: layout.njk
 ---
 Not enough money to fix hospital’s IT system
 ============================================

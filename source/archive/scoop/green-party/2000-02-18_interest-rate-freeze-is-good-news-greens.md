@@ -1,9 +1,12 @@
 ---
 slug: interest-rate-freeze-is-good-news-greens
-title: "Interest Rate Freeze Is Good News - Greens"
-date: 2000-02-18
-source-url: https://www.scoop.co.nz/stories/PO0002/S00066/interest-rate-freeze-is-good-news-greens.htm
+title: Interest Rate Freeze Is Good News - Greens
+date: 2000-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00066/interest-rate-freeze-is-good-news-greens.htm
 author: green-party
+permalink: /archive/2000/02/18/interest-rate-freeze-is-good-news-greens/index.html
+layout: layout.njk
 ---
 Interest Rate Freeze Is Good News - Greens
 ==========================================

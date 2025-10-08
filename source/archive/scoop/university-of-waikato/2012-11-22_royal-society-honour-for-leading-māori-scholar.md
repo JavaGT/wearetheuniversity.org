@@ -1,9 +1,12 @@
 ---
 slug: royal-society-honour-for-leading-māori-scholar
-title: "Royal Society honour for leading Māori scholar"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/ED1211/S00159/royal-society-honour-for-leading-maori-scholar.htm
+title: Royal Society honour for leading Māori scholar
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00159/royal-society-honour-for-leading-maori-scholar.htm
 author: university-of-waikato
+permalink: /archive/2012/11/22/royal-society-honour-for-leading-m/index.html
+layout: layout.njk
 ---
 Royal Society honour for leading Māori scholar
 ==============================================

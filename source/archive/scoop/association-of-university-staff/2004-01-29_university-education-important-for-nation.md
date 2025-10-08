@@ -1,9 +1,12 @@
 ---
 slug: university-education-important-for-nation
-title: "University education important for nation"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/ED0401/S00047/university-education-important-for-nation.htm
+title: University education important for nation
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00047/university-education-important-for-nation.htm
 author: association-of-university-staff
+permalink: /archive/2004/01/29/university-education-important-for-nation/index.html
+layout: layout.njk
 ---
 University education important for nation
 =========================================

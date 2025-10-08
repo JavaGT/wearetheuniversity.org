@@ -1,9 +1,11 @@
 ---
 slug: deep-sea-diving-from-home
-title: "Deep sea diving - from home"
-date: 2004-09-01
+title: Deep sea diving - from home
+date: 2004-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0409/S00004/deep-sea-diving-from-home.htm
 author: waikato-university
+permalink: /archive/2004/09/01/deep-sea-diving-from-home/index.html
+layout: layout.njk
 ---
 Deep sea diving - from home
 ===========================

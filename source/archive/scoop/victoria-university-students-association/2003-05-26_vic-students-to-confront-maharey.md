@@ -1,9 +1,12 @@
 ---
 slug: vic-students-to-confront-maharey
-title: "Vic students to confront Maharey"
-date: 2003-05-26
-source-url: https://www.scoop.co.nz/stories/ED0305/S00086/vic-students-to-confront-maharey.htm
+title: Vic students to confront Maharey
+date: 2003-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00086/vic-students-to-confront-maharey.htm
 author: victoria-university-students-association
+permalink: /archive/2003/05/26/vic-students-to-confront-maharey/index.html
+layout: layout.njk
 ---
 Vic students to confront Maharey
 ================================

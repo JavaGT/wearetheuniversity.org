@@ -1,9 +1,12 @@
 ---
 slug: peters-new-zealand-first-annual-convention
-title: "Peters: New Zealand First Annual Convention"
-date: 2005-11-21
-source-url: https://www.scoop.co.nz/stories/PA0511/S00290/peters-new-zealand-first-annual-convention.htm
+title: 'Peters: New Zealand First Annual Convention'
+date: 2005-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00290/peters-new-zealand-first-annual-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2005/11/21/peters-new-zealand-first-annual-convention/index.html
+layout: layout.njk
 ---
 Peters: New Zealand First Annual Convention
 ===========================================

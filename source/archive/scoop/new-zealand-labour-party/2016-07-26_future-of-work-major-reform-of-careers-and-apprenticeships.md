@@ -1,9 +1,13 @@
 ---
 slug: future-of-work-major-reform-of-careers-and-apprenticeships
-title: "Future of Work: Major reform of careers and apprenticeships"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00361/future-of-work-major-reform-of-careers-and-apprenticeships.htm
+title: 'Future of Work: Major reform of careers and apprenticeships'
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00361/future-of-work-major-reform-of-careers-and-apprenticeships.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/26/future-of-work-major-reform-of-careers-and-apprenticeships/index.html
+layout: layout.njk
 ---
 Future of Work: Major reform of careers and apprenticeships
 ===========================================================

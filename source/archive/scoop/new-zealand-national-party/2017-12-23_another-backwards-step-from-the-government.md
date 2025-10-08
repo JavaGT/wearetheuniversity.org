@@ -1,9 +1,12 @@
 ---
 slug: another-backwards-step-from-the-government
-title: "Another backwards step from the Government"
-date: 2017-12-23
-source-url: https://www.scoop.co.nz/stories/PA1712/S00264/another-backwards-step-from-the-government.htm
+title: Another backwards step from the Government
+date: 2017-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00264/another-backwards-step-from-the-government.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/23/another-backwards-step-from-the-government/index.html
+layout: layout.njk
 ---
 Another backwards step from the Government
 ==========================================

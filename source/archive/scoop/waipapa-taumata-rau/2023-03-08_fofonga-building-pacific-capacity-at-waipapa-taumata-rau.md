@@ -1,9 +1,13 @@
 ---
 slug: fofonga-building-pacific-capacity-at-waipapa-taumata-rau
-title: "Fofonga - Building Pacific Capacity At Waipapa Taumata Rau"
-date: 2023-03-08
-source-url: https://www.scoop.co.nz/stories/ED2303/S00009/fofonga-building-pacific-capacity-at-waipapa-taumata-rau.htm
+title: Fofonga - Building Pacific Capacity At Waipapa Taumata Rau
+date: 2023-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00009/fofonga-building-pacific-capacity-at-waipapa-taumata-rau.htm
 author: waipapa-taumata-rau
+permalink: >-
+  /archive/2023/03/08/fofonga-building-pacific-capacity-at-waipapa-taumata-rau/index.html
+layout: layout.njk
 ---
 Fofonga - Building Pacific Capacity At Waipapa Taumata Rau
 ==========================================================

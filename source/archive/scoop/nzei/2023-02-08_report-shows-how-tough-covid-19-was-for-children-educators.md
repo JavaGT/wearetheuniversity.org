@@ -1,9 +1,13 @@
 ---
 slug: report-shows-how-tough-covid-19-was-for-children-educators
-title: "Report Shows How Tough COVID-19 Was For Children, Educators"
-date: 2023-02-08
-source-url: https://www.scoop.co.nz/stories/ED2302/S00010/report-shows-how-tough-covid-19-was-for-children-educators.htm
+title: Report Shows How Tough COVID-19 Was For Children, Educators
+date: 2023-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00010/report-shows-how-tough-covid-19-was-for-children-educators.htm
 author: nzei
+permalink: >-
+  /archive/2023/02/08/report-shows-how-tough-covid-19-was-for-children-educators/index.html
+layout: layout.njk
 ---
 Report Shows How Tough COVID-19 Was For Children, Educators
 ===========================================================

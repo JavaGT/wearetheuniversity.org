@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-flies-high-in-new-partnership
-title: "University of Canterbury flies high in new partnership"
-date: 2017-04-21
-source-url: https://www.scoop.co.nz/stories/BU1704/S00561/university-of-canterbury-flies-high-in-new-partnership.htm
+title: University of Canterbury flies high in new partnership
+date: 2017-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1704/S00561/university-of-canterbury-flies-high-in-new-partnership.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/21/university-of-canterbury-flies-high-in-new-partnership/index.html
+layout: layout.njk
 ---
 University of Canterbury flies high in new partnership
 ======================================================

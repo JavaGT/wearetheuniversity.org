@@ -1,9 +1,12 @@
 ---
 slug: uc-student-numbers-increase-for-2018
-title: "UC student numbers increase for 2018"
-date: 2018-03-01
-source-url: https://www.scoop.co.nz/stories/ED1803/S00007/uc-student-numbers-increase-for-2018.htm
+title: UC student numbers increase for 2018
+date: 2018-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00007/uc-student-numbers-increase-for-2018.htm
 author: university-of-canterbury
+permalink: /archive/2018/03/01/uc-student-numbers-increase-for-2018/index.html
+layout: layout.njk
 ---
 UC student numbers increase for 2018
 ====================================

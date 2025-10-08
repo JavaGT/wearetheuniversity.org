@@ -1,9 +1,12 @@
 ---
 slug: supreme-court-bill-analysis-of-groups
-title: "Supreme Court Bill: Analysis of Groups"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/BU0309/S00143/supreme-court-bill-analysis-of-groups.htm
+title: 'Supreme Court Bill: Analysis of Groups'
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0309/S00143/supreme-court-bill-analysis-of-groups.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/09/15/supreme-court-bill-analysis-of-groups/index.html
+layout: layout.njk
 ---
 Supreme Court Bill: Analysis of Groups
 ======================================

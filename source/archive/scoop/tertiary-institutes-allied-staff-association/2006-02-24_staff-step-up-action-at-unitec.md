@@ -1,9 +1,12 @@
 ---
 slug: staff-step-up-action-at-unitec
-title: "Staff Step Up Action at UNITEC"
-date: 2006-02-24
-source-url: https://www.scoop.co.nz/stories/ED0602/S00073/staff-step-up-action-at-unitec.htm
+title: Staff Step Up Action at UNITEC
+date: 2006-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00073/staff-step-up-action-at-unitec.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2006/02/24/staff-step-up-action-at-unitec/index.html
+layout: layout.njk
 ---
 Staff Step Up Action at UNITEC
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: charities-bill-spells-disaster-for-sport
-title: "Charities Bill spells disaster for sport"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/PA0409/S00062/charities-bill-spells-disaster-for-sport.htm
+title: Charities Bill spells disaster for sport
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00062/charities-bill-spells-disaster-for-sport.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/02/charities-bill-spells-disaster-for-sport/index.html
+layout: layout.njk
 ---
 Charities Bill spells disaster for sport
 ========================================

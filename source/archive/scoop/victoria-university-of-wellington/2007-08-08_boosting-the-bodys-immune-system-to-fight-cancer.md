@@ -1,9 +1,13 @@
 ---
 slug: boosting-the-bodys-immune-system-to-fight-cancer
-title: "Boosting the body's immune system to fight cancer"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/GE0708/S00042/boosting-the-bodys-immune-system-to-fight-cancer.htm
+title: Boosting the body's immune system to fight cancer
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00042/boosting-the-bodys-immune-system-to-fight-cancer.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/08/08/boosting-the-bodys-immune-system-to-fight-cancer/index.html
+layout: layout.njk
 ---
 Boosting the body's immune system to fight cancer
 =================================================

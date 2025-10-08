@@ -1,9 +1,12 @@
 ---
 slug: earthquake-emergency-update-monday-13-june-2011
-title: "Earthquake: Emergency update - Monday 13 June 2011"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/ED1106/S00050/earthquake-emergency-update-monday-13-june-2011.htm
+title: 'Earthquake: Emergency update - Monday 13 June 2011'
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00050/earthquake-emergency-update-monday-13-june-2011.htm
 author: university-of-canterbury
+permalink: /archive/2011/06/13/earthquake-emergency-update-monday-13-june-2011/index.html
+layout: layout.njk
 ---
 Earthquake: Emergency update - Monday 13 June 2011
 ==================================================

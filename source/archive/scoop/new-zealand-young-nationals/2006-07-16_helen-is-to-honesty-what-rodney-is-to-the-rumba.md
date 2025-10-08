@@ -1,9 +1,12 @@
 ---
 slug: helen-is-to-honesty-what-rodney-is-to-the-rumba
-title: "Helen Is To Honesty What Rodney Is To The Rumba"
-date: 2006-07-16
-source-url: https://www.scoop.co.nz/stories/PO0607/S00150/helen-is-to-honesty-what-rodney-is-to-the-rumba.htm
+title: Helen Is To Honesty What Rodney Is To The Rumba
+date: 2006-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00150/helen-is-to-honesty-what-rodney-is-to-the-rumba.htm
 author: new-zealand-young-nationals
+permalink: /archive/2006/07/16/helen-is-to-honesty-what-rodney-is-to-the-rumba/index.html
+layout: layout.njk
 ---
 Helen Is To Honesty What Rodney Is To The Rumba
 ===============================================

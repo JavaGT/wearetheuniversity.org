@@ -1,9 +1,13 @@
 ---
 slug: distinguished-former-student-returns-from-across-the-tasman
-title: "Distinguished former student returns from across the Tasman"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/ED1511/S00024/distinguished-former-student-returns-from-across-the-tasman.htm
+title: Distinguished former student returns from across the Tasman
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00024/distinguished-former-student-returns-from-across-the-tasman.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/11/05/distinguished-former-student-returns-from-across-the-tasman/index.html
+layout: layout.njk
 ---
 Distinguished former student returns from across the Tasman
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: why-is-there-no-signal-from-joyce-over-xt-outages
-title: "Why is There No Signal From Joyce Over XT Outages?"
-date: 2010-02-19
-source-url: https://www.scoop.co.nz/stories/PA1002/S00273/why-is-there-no-signal-from-joyce-over-xt-outages.htm
+title: Why is There No Signal From Joyce Over XT Outages?
+date: 2010-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00273/why-is-there-no-signal-from-joyce-over-xt-outages.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/19/why-is-there-no-signal-from-joyce-over-xt-outages/index.html
+layout: layout.njk
 ---
 Why is There No Signal From Joyce Over XT Outages?
 ==================================================

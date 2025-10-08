@@ -1,9 +1,12 @@
 ---
 slug: new-tools-probe-mysteries-of-the-brain
-title: "New tools probe mysteries of the brain"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/SC1503/S00034/new-tools-probe-mysteries-of-the-brain.htm
+title: New tools probe mysteries of the brain
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00034/new-tools-probe-mysteries-of-the-brain.htm
 author: university-of-otago
+permalink: /archive/2015/03/06/new-tools-probe-mysteries-of-the-brain/index.html
+layout: layout.njk
 ---
 New tools probe mysteries of the brain
 ======================================

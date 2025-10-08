@@ -1,9 +1,13 @@
 ---
 slug: pms-back-pedalling-highlights-class-size-blunder
-title: "PM’s Back-Pedalling Highlights Class Size Blunder"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/PA1205/S00519/pms-back-pedalling-highlights-class-size-blunder.htm
+title: PM’s Back-Pedalling Highlights Class Size Blunder
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00519/pms-back-pedalling-highlights-class-size-blunder.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/29/pms-back-pedalling-highlights-class-size-blunder/index.html
+layout: layout.njk
 ---
 PM’s Back-Pedalling Highlights Class Size Blunder
 =================================================

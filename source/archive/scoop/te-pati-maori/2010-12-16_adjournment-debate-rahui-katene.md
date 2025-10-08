@@ -1,9 +1,12 @@
 ---
 slug: adjournment-debate-rahui-katene
-title: "Adjournment Debate - Rahui Katene"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/PA1012/S00312/adjournment-debate-rahui-katene.htm
+title: Adjournment Debate - Rahui Katene
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00312/adjournment-debate-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2010/12/16/adjournment-debate-rahui-katene/index.html
+layout: layout.njk
 ---
 Adjournment Debate - Rahui Katene
 =================================

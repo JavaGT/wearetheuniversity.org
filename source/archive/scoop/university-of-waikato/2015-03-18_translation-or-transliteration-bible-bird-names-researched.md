@@ -1,9 +1,13 @@
 ---
 slug: translation-or-transliteration-bible-bird-names-researched
-title: "Translation or transliteration? Bible bird names researched"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/ED1503/S00081/translation-or-transliteration-bible-bird-names-researched.htm
+title: Translation or transliteration? Bible bird names researched
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00081/translation-or-transliteration-bible-bird-names-researched.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/03/18/translation-or-transliteration-bible-bird-names-researched/index.html
+layout: layout.njk
 ---
 Translation or transliteration? Bible bird names researched
 ===========================================================

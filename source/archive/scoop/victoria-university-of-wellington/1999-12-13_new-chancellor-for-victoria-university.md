@@ -1,9 +1,12 @@
 ---
 slug: new-chancellor-for-victoria-university
-title: "New Chancellor for Victoria University"
-date: 1999-12-13
-source-url: https://www.scoop.co.nz/stories/ED9912/S00008/new-chancellor-for-victoria-university.htm
+title: New Chancellor for Victoria University
+date: 1999-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00008/new-chancellor-for-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/1999/12/13/new-chancellor-for-victoria-university/index.html
+layout: layout.njk
 ---
 New Chancellor for Victoria University
 ======================================

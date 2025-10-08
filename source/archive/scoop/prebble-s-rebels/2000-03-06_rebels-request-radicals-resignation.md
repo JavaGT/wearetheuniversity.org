@@ -1,9 +1,12 @@
 ---
 slug: rebels-request-radicals-resignation
-title: "Rebels Request Radical's Resignation"
-date: 2000-03-06
-source-url: https://www.scoop.co.nz/stories/PO0003/S00016/rebels-request-radicals-resignation.htm
+title: Rebels Request Radical's Resignation
+date: 2000-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00016/rebels-request-radicals-resignation.htm
 author: prebble-s-rebels
+permalink: /archive/2000/03/06/rebels-request-radicals-resignation/index.html
+layout: layout.njk
 ---
 Rebels Request Radical's Resignation
 ====================================

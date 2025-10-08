@@ -1,9 +1,12 @@
 ---
 slug: waikato-ensemble-wins-music-scholarship-contest
-title: "Waikato ensemble wins music scholarship contest"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/CU0911/S00448/waikato-ensemble-wins-music-scholarship-contest.htm
+title: Waikato ensemble wins music scholarship contest
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0911/S00448/waikato-ensemble-wins-music-scholarship-contest.htm
 author: university-of-waikato
+permalink: /archive/2009/11/27/waikato-ensemble-wins-music-scholarship-contest/index.html
+layout: layout.njk
 ---
 Waikato ensemble wins music scholarship contest
 ===============================================

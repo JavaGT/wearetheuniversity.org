@@ -1,9 +1,16 @@
 ---
-slug: sweet-deals-of-extra-cash-and-freebies-raise-suspicions-canterbury-led-study-shows
-title: "Sweet Deals of Extra Cash And Freebies Raise Suspicions, Canterbury-led Study Shows"
-date: 2024-04-16
-source-url: https://www.scoop.co.nz/stories/BU2404/S00205/sweet-deals-of-extra-cash-and-freebies-raise-suspicions-canterbury-led-study-shows.htm
+slug: >-
+  sweet-deals-of-extra-cash-and-freebies-raise-suspicions-canterbury-led-study-shows
+title: >-
+  Sweet Deals of Extra Cash And Freebies Raise Suspicions, Canterbury-led Study
+  Shows
+date: 2024-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2404/S00205/sweet-deals-of-extra-cash-and-freebies-raise-suspicions-canterbury-led-study-shows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/04/16/sweet-deals-of-extra-cash-and-freebies-raise-suspicions-canterbury-led-study-shows/index.html
+layout: layout.njk
 ---
 Sweet Deals of Extra Cash And Freebies Raise Suspicions, Canterbury-led Study Shows
 ===================================================================================

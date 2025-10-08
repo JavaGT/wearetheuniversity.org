@@ -1,9 +1,12 @@
 ---
 slug: victoria-staff-strike-unconscionable
-title: "Victoria Staff Strike \"Unconscionable\""
-date: 1999-10-11
-source-url: https://www.scoop.co.nz/stories/PO9910/S00043/victoria-staff-strike-unconscionable.htm
+title: Victoria Staff Strike "Unconscionable"
+date: 1999-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00043/victoria-staff-strike-unconscionable.htm
 author: prebble-s-rebels
+permalink: /archive/1999/10/11/victoria-staff-strike-unconscionable/index.html
+layout: layout.njk
 ---
 Victoria Staff Strike \"Unconscionable"
 ======================================

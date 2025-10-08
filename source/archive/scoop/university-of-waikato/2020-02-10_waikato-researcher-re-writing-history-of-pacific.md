@@ -1,9 +1,13 @@
 ---
 slug: waikato-researcher-re-writing-history-of-pacific
-title: "Waikato researcher re-writing history of Pacific"
-date: 2020-02-10
-source-url: https://www.scoop.co.nz/stories/SC2002/S00017/waikato-researcher-re-writing-history-of-pacific.htm
+title: Waikato researcher re-writing history of Pacific
+date: 2020-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2002/S00017/waikato-researcher-re-writing-history-of-pacific.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/02/10/waikato-researcher-re-writing-history-of-pacific/index.html
+layout: layout.njk
 ---
 Waikato researcher re-writing history of Pacific
 ================================================

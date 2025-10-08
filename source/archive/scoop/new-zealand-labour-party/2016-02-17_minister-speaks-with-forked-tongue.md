@@ -1,9 +1,12 @@
 ---
 slug: minister-speaks-with-forked-tongue
-title: "Minister speaks with forked tongue"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PA1602/S00228/minister-speaks-with-forked-tongue.htm
+title: Minister speaks with forked tongue
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00228/minister-speaks-with-forked-tongue.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/17/minister-speaks-with-forked-tongue/index.html
+layout: layout.njk
 ---
 Minister speaks with forked tongue
 ==================================

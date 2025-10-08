@@ -1,9 +1,13 @@
 ---
 slug: government-inconsistent-on-bulk-funding-policies
-title: "Government Inconsistent on Bulk Funding Policies"
-date: 2000-03-28
-source-url: https://www.scoop.co.nz/stories/PA0003/S00474/government-inconsistent-on-bulk-funding-policies.htm
+title: Government Inconsistent on Bulk Funding Policies
+date: 2000-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00474/government-inconsistent-on-bulk-funding-policies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/03/28/government-inconsistent-on-bulk-funding-policies/index.html
+layout: layout.njk
 ---
 Government Inconsistent on Bulk Funding Policies
 ================================================

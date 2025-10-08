@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-awarded-allaboutthestory-com-media-scholarship
-title: "UC graduate awarded Allaboutthestory.com Media Scholarship"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/ED1102/S00014/uc-graduate-awarded-allaboutthestorycom-media-scholarship.htm
+title: UC graduate awarded Allaboutthestory.com Media Scholarship
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00014/uc-graduate-awarded-allaboutthestorycom-media-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/02/04/uc-graduate-awarded-allaboutthestory-com-media-scholarship/index.html
+layout: layout.njk
 ---
 UC graduate awarded Allaboutthestory.com Media Scholarship
 ==========================================================

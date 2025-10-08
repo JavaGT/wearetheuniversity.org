@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-official-information-bill
-title: "Dr Pita Sharples: Official Information Bill"
-date: 2007-08-16
-source-url: https://www.scoop.co.nz/stories/PA0708/S00274/dr-pita-sharples-official-information-bill.htm
+title: 'Dr Pita Sharples: Official Information Bill'
+date: 2007-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00274/dr-pita-sharples-official-information-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/08/16/dr-pita-sharples-official-information-bill/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples: Official Information Bill
 ===========================================

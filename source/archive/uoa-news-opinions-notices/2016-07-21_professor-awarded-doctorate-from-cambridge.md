@@ -1,8 +1,11 @@
 ---
 slug: professor-awarded-doctorate-from-cambridge
-title: "Professor awarded Doctorate from Cambridge"
-date: 2016-07-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/professor-awarded-doctorate-from-cambridge-.html
+title: Professor awarded Doctorate from Cambridge
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/professor-awarded-doctorate-from-cambridge-.html
+permalink: /archive/2016/07/21/professor-awarded-doctorate-from-cambridge/index.html
+layout: layout.njk
 ---
 Professor awarded Doctorate from Cambridge
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: quotas-must-be-seen-and-heard
-title: "Quotas Must Be Seen And Heard"
-date: 2002-03-27
-source-url: https://www.scoop.co.nz/stories/PA0203/S00492/quotas-must-be-seen-and-heard.htm
+title: Quotas Must Be Seen And Heard
+date: 2002-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00492/quotas-must-be-seen-and-heard.htm
 author: green-party
+permalink: /archive/2002/03/27/quotas-must-be-seen-and-heard/index.html
+layout: layout.njk
 ---
 Quotas Must Be Seen And Heard
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: immigrants-hit-paradise;-ordinary-kiwis-suffer
-title: "Immigrants Hit Paradise; Ordinary Kiwis Suffer"
-date: 2017-01-31
-source-url: https://www.scoop.co.nz/stories/PA1701/S00156/immigrants-hit-paradise-ordinary-kiwis-suffer.htm
+title: Immigrants Hit Paradise; Ordinary Kiwis Suffer
+date: 2017-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00156/immigrants-hit-paradise-ordinary-kiwis-suffer.htm
 author: new-zealand-first-party
+permalink: /archive/2017/01/31/immigrants-hit-paradise/index.html
+layout: layout.njk
 ---
 Immigrants Hit Paradise; Ordinary Kiwis Suffer
 ==============================================

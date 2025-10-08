@@ -1,9 +1,13 @@
 ---
 slug: freemasons-scholarships-awarded-to-waikato-students
-title: "Freemasons Scholarships awarded to Waikato Students"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/ED1405/S00130/freemasons-scholarships-awarded-to-waikato-students.htm
+title: Freemasons Scholarships awarded to Waikato Students
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00130/freemasons-scholarships-awarded-to-waikato-students.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/26/freemasons-scholarships-awarded-to-waikato-students/index.html
+layout: layout.njk
 ---
 Freemasons Scholarships awarded to Waikato Students
 ===================================================

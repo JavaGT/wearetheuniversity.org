@@ -1,9 +1,12 @@
 ---
 slug: gambling-think-tank-debating-technologys-role
-title: "Gambling think tank debating technology's role"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/GE1002/S00085/gambling-think-tank-debating-technologys-role.htm
+title: Gambling think tank debating technology's role
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1002/S00085/gambling-think-tank-debating-technologys-role.htm
 author: aut-university
+permalink: /archive/2010/02/22/gambling-think-tank-debating-technologys-role/index.html
+layout: layout.njk
 ---
 Gambling think tank debating technology's role
 ==============================================

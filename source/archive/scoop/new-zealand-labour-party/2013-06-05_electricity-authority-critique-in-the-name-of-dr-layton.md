@@ -1,9 +1,13 @@
 ---
 slug: electricity-authority-critique-in-the-name-of-dr-layton
-title: "Electricity Authority critique in the name of Dr Layton"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/PA1306/S00064/electricity-authority-critique-in-the-name-of-dr-layton.htm
+title: Electricity Authority critique in the name of Dr Layton
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00064/electricity-authority-critique-in-the-name-of-dr-layton.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/05/electricity-authority-critique-in-the-name-of-dr-layton/index.html
+layout: layout.njk
 ---
 Electricity Authority critique in the name of Dr Layton
 =======================================================

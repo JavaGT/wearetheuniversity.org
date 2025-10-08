@@ -1,9 +1,12 @@
 ---
 slug: social-housing-need-a-ticking-time-bomb
-title: "Social Housing need – A ticking time bomb"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/PA1205/S00282/social-housing-need-a-ticking-time-bomb.htm
+title: Social Housing need – A ticking time bomb
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00282/social-housing-need-a-ticking-time-bomb.htm
 author: green-party
+permalink: /archive/2012/05/16/social-housing-need-a-ticking-time-bomb/index.html
+layout: layout.njk
 ---
 Social Housing need – A ticking time bomb
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: apchi-conference-starts-tomorrow
-title: "APCHI conference starts tomorrow"
-date: 2004-06-29
-source-url: https://www.scoop.co.nz/stories/SC0406/S00068/apchi-conference-starts-tomorrow.htm
+title: APCHI conference starts tomorrow
+date: 2004-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0406/S00068/apchi-conference-starts-tomorrow.htm
 author: waikato-university
+permalink: /archive/2004/06/29/apchi-conference-starts-tomorrow/index.html
+layout: layout.njk
 ---
 APCHI conference starts tomorrow
 ================================

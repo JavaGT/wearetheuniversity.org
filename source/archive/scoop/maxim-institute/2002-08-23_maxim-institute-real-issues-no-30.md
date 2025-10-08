@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-30
-title: "Maxim Institute - real issues - No. 30"
-date: 2002-08-23
-source-url: https://www.scoop.co.nz/stories/PO0208/S00085/maxim-institute-real-issues-no-30.htm
+title: Maxim Institute - real issues - No. 30
+date: 2002-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00085/maxim-institute-real-issues-no-30.htm
 author: maxim-institute
+permalink: /archive/2002/08/23/maxim-institute-real-issues-no-30/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 30
 ======================================

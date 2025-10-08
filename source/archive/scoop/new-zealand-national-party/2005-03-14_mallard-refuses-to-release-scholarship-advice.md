@@ -1,9 +1,12 @@
 ---
 slug: mallard-refuses-to-release-scholarship-advice
-title: "Mallard refuses to release scholarship advice"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00268/mallard-refuses-to-release-scholarship-advice.htm
+title: Mallard refuses to release scholarship advice
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00268/mallard-refuses-to-release-scholarship-advice.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/14/mallard-refuses-to-release-scholarship-advice/index.html
+layout: layout.njk
 ---
 Mallard refuses to release scholarship advice
 =============================================

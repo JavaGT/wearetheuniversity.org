@@ -1,9 +1,11 @@
 ---
 slug: music-but-not-as-you-know-it
-title: "Music, but not as you know it"
-date: 2019-05-03
+title: Music, but not as you know it
+date: 2019-05-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1905/S00041/music-but-not-as-you-know-it.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/03/music-but-not-as-you-know-it/index.html
+layout: layout.njk
 ---
 Music, but not as you know it
 =============================

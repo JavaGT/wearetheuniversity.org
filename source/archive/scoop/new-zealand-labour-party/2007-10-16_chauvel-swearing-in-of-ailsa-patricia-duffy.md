@@ -1,9 +1,12 @@
 ---
 slug: chauvel-swearing-in-of-ailsa-patricia-duffy
-title: "Chauvel - Swearing-In Of Ailsa Patricia Duffy"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/PA0710/S00290/chauvel-swearing-in-of-ailsa-patricia-duffy.htm
+title: Chauvel - Swearing-In Of Ailsa Patricia Duffy
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00290/chauvel-swearing-in-of-ailsa-patricia-duffy.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/10/16/chauvel-swearing-in-of-ailsa-patricia-duffy/index.html
+layout: layout.njk
 ---
 Chauvel - Swearing-In Of Ailsa Patricia Duffy
 =============================================

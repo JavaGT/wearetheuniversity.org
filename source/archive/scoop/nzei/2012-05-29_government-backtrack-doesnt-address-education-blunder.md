@@ -1,9 +1,13 @@
 ---
 slug: government-backtrack-doesnt-address-education-blunder
-title: "Government backtrack doesn’t address education blunder"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/ED1205/S00142/government-backtrack-doesnt-address-education-blunder.htm
+title: Government backtrack doesn’t address education blunder
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00142/government-backtrack-doesnt-address-education-blunder.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/29/government-backtrack-doesnt-address-education-blunder/index.html
+layout: layout.njk
 ---
 Government backtrack doesn’t address education blunder
 ======================================================

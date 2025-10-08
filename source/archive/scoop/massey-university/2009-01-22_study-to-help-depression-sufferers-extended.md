@@ -1,9 +1,12 @@
 ---
 slug: study-to-help-depression-sufferers-extended
-title: "Study to help depression sufferers extended"
-date: 2009-01-22
-source-url: https://www.scoop.co.nz/stories/GE0901/S00047/study-to-help-depression-sufferers-extended.htm
+title: Study to help depression sufferers extended
+date: 2009-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0901/S00047/study-to-help-depression-sufferers-extended.htm
 author: massey-university
+permalink: /archive/2009/01/22/study-to-help-depression-sufferers-extended/index.html
+layout: layout.njk
 ---
 Study to help depression sufferers extended
 ===========================================

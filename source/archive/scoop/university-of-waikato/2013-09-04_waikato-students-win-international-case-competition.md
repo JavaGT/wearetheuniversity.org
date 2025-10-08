@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-win-international-case-competition
-title: "Waikato students win international case competition"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/ED1309/S00022/waikato-students-win-international-case-competition.htm
+title: Waikato students win international case competition
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00022/waikato-students-win-international-case-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/04/waikato-students-win-international-case-competition/index.html
+layout: layout.njk
 ---
 Waikato students win international case competition
 ===================================================

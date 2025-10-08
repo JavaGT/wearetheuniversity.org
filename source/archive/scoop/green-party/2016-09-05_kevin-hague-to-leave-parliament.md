@@ -1,9 +1,12 @@
 ---
 slug: kevin-hague-to-leave-parliament
-title: "Kevin Hague to leave Parliament"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/PA1609/S00076/kevin-hague-to-leave-parliament.htm
+title: Kevin Hague to leave Parliament
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00076/kevin-hague-to-leave-parliament.htm
 author: green-party
+permalink: /archive/2016/09/05/kevin-hague-to-leave-parliament/index.html
+layout: layout.njk
 ---
 Kevin Hague to leave Parliament
 ===============================

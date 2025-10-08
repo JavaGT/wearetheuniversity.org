@@ -1,9 +1,12 @@
 ---
 slug: greens-applaud-nat-support-of-maori-rights
-title: "Greens applaud Nat support of Maori rights"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/PA0502/S00113/greens-applaud-nat-support-of-maori-rights.htm
+title: Greens applaud Nat support of Maori rights
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00113/greens-applaud-nat-support-of-maori-rights.htm
 author: green-party
+permalink: /archive/2005/02/04/greens-applaud-nat-support-of-maori-rights/index.html
+layout: layout.njk
 ---
 Greens applaud Nat support of Maori rights
 ==========================================

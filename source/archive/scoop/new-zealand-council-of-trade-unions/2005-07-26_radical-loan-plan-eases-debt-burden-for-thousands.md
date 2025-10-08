@@ -1,9 +1,13 @@
 ---
 slug: radical-loan-plan-eases-debt-burden-for-thousands
-title: "Radical Loan Plan Eases Debt Burden for Thousands"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PO0507/S00280/radical-loan-plan-eases-debt-burden-for-thousands.htm
+title: Radical Loan Plan Eases Debt Burden for Thousands
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00280/radical-loan-plan-eases-debt-burden-for-thousands.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/07/26/radical-loan-plan-eases-debt-burden-for-thousands/index.html
+layout: layout.njk
 ---
 Radical Loan Plan Eases Debt Burden for Thousands
 =================================================

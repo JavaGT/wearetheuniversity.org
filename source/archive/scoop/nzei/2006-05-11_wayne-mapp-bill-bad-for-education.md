@@ -1,9 +1,12 @@
 ---
 slug: wayne-mapp-bill-bad-for-education
-title: "Wayne Mapp Bill Bad for Education"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/ED0605/S00041/wayne-mapp-bill-bad-for-education.htm
+title: Wayne Mapp Bill Bad for Education
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00041/wayne-mapp-bill-bad-for-education.htm
 author: nzei
+permalink: /archive/2006/05/11/wayne-mapp-bill-bad-for-education/index.html
+layout: layout.njk
 ---
 Wayne Mapp Bill Bad for Education
 =================================

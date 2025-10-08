@@ -1,9 +1,12 @@
 ---
 slug: novopay-=-holiday-from-hell-for-teachers
-title: "Novopay = Holiday From Hell For Teachers"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/PA1212/S00388/novopay-holiday-from-hell-for-teachers.htm
+title: Novopay = Holiday From Hell For Teachers
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00388/novopay-holiday-from-hell-for-teachers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/21/novopay-/index.html
+layout: layout.njk
 ---
 Novopay = Holiday From Hell For Teachers
 ========================================

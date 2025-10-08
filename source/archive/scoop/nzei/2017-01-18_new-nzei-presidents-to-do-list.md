@@ -1,9 +1,12 @@
 ---
 slug: new-nzei-presidents-to-do-list
-title: "New NZEI President’s \"to do\" list"
-date: 2017-01-18
-source-url: https://www.scoop.co.nz/stories/ED1701/S00021/new-nzei-presidents-to-do-list.htm
+title: New NZEI President’s "to do" list
+date: 2017-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00021/new-nzei-presidents-to-do-list.htm
 author: nzei
+permalink: /archive/2017/01/18/new-nzei-presidents-to-do-list/index.html
+layout: layout.njk
 ---
 New NZEI President’s “to do” list
 =================================

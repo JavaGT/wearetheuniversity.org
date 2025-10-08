@@ -1,9 +1,12 @@
 ---
 slug: uc-hits-record-number-of-doctoral-students
-title: "UC hits record number of Doctoral students"
-date: 2016-08-08
-source-url: https://www.scoop.co.nz/stories/ED1608/S00013/uc-hits-record-number-of-doctoral-students.htm
+title: UC hits record number of Doctoral students
+date: 2016-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00013/uc-hits-record-number-of-doctoral-students.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/08/uc-hits-record-number-of-doctoral-students/index.html
+layout: layout.njk
 ---
 UC hits record number of Doctoral students
 ==========================================

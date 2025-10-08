@@ -1,9 +1,11 @@
 ---
 slug: many-risks-in-mobie
-title: "Many Risks In MoBIE"
-date: 2012-04-24
+title: Many Risks In MoBIE
+date: 2012-04-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1204/S00279/many-risks-in-mobie.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/04/24/many-risks-in-mobie/index.html
+layout: layout.njk
 ---
 Many Risks In MoBIE
 ===================

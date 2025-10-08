@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-a-boost-for-engineering
-title: "New scholarships a boost for engineering"
-date: 2010-05-10
-source-url: https://www.scoop.co.nz/stories/ED1005/S00033/new-scholarships-a-boost-for-engineering.htm
+title: New scholarships a boost for engineering
+date: 2010-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00033/new-scholarships-a-boost-for-engineering.htm
 author: university-of-waikato
+permalink: /archive/2010/05/10/new-scholarships-a-boost-for-engineering/index.html
+layout: layout.njk
 ---
 New scholarships a boost for engineering
 ========================================

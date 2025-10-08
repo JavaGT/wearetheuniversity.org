@@ -1,9 +1,12 @@
 ---
 slug: university-staff-claim-$5000-salary-boost
-title: "University staff claim $5,000 salary boost"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/BU0807/S00047/university-staff-claim-5000-salary-boost.htm
+title: University staff claim $5,000 salary boost
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0807/S00047/university-staff-claim-5000-salary-boost.htm
 author: association-of-university-staff
+permalink: /archive/2008/07/03/university-staff-claim-/index.html
+layout: layout.njk
 ---
 University staff claim $5,000 salary boost
 ==========================================

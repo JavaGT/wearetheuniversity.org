@@ -1,9 +1,12 @@
 ---
 slug: truancy-prosecution-rates-pathetic
-title: "Truancy prosecution rates pathetic"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/PA0703/S00289/truancy-prosecution-rates-pathetic.htm
+title: Truancy prosecution rates pathetic
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00289/truancy-prosecution-rates-pathetic.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/15/truancy-prosecution-rates-pathetic/index.html
+layout: layout.njk
 ---
 Truancy prosecution rates pathetic
 ==================================

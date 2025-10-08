@@ -1,9 +1,13 @@
 ---
 slug: tram-passengers-to-see-uc-designed-views-of-pre-quake-chch
-title: "Tram passengers to see UC-designed views of pre-quake Chch"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/AK1311/S00621/tram-passengers-to-see-uc-designed-views-of-pre-quake-chch.htm
+title: Tram passengers to see UC-designed views of pre-quake Chch
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00621/tram-passengers-to-see-uc-designed-views-of-pre-quake-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/21/tram-passengers-to-see-uc-designed-views-of-pre-quake-chch/index.html
+layout: layout.njk
 ---
 Tram passengers to see UC-designed views of pre-quake Chch
 ==========================================================

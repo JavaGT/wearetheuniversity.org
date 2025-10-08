@@ -1,9 +1,12 @@
 ---
 slug: teacher-wins-national-technology-award
-title: "Teacher Wins National Technology Award"
-date: 2007-11-20
-source-url: https://www.scoop.co.nz/stories/ED0711/S00094/teacher-wins-national-technology-award.htm
+title: Teacher Wins National Technology Award
+date: 2007-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00094/teacher-wins-national-technology-award.htm
 author: waikato-university
+permalink: /archive/2007/11/20/teacher-wins-national-technology-award/index.html
+layout: layout.njk
 ---
 Teacher Wins National Technology Award
 ======================================

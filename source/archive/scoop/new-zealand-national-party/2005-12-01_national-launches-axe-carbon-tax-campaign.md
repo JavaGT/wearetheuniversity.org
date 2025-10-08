@@ -1,9 +1,12 @@
 ---
 slug: national-launches-axe-carbon-tax-campaign
-title: "National launches ‘axe carbon tax’ campaign"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/PA0512/S00009/national-launches-axe-carbon-tax-campaign.htm
+title: National launches ‘axe carbon tax’ campaign
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00009/national-launches-axe-carbon-tax-campaign.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/01/national-launches-axe-carbon-tax-campaign/index.html
+layout: layout.njk
 ---
 National launches ‘axe carbon tax’ campaign
 ===========================================

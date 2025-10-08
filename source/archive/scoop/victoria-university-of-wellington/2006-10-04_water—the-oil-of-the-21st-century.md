@@ -1,9 +1,12 @@
 ---
 slug: water—the-oil-of-the-21st-century
-title: "Water—the ‘oil’ of the 21st Century?"
-date: 2006-10-04
-source-url: https://www.scoop.co.nz/stories/ED0610/S00006/water-the-oil-of-the-21st-century.htm
+title: Water—the ‘oil’ of the 21st Century?
+date: 2006-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00006/water-the-oil-of-the-21st-century.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/04/water/index.html
+layout: layout.njk
 ---
 Water—the ‘oil’ of the 21st Century?
 ====================================

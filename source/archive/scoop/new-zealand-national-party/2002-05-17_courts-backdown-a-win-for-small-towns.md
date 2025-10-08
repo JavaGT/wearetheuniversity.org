@@ -1,9 +1,12 @@
 ---
 slug: courts-backdown-a-win-for-small-towns
-title: "Courts Backdown A Win For Small Towns"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/PA0205/S00358/courts-backdown-a-win-for-small-towns.htm
+title: Courts Backdown A Win For Small Towns
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00358/courts-backdown-a-win-for-small-towns.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/17/courts-backdown-a-win-for-small-towns/index.html
+layout: layout.njk
 ---
 Courts Backdown A Win For Small Towns
 =====================================

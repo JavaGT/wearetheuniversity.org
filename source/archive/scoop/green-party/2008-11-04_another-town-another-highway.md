@@ -1,9 +1,11 @@
 ---
 slug: another-town-another-highway
-title: "Another town, another highway"
-date: 2008-11-04
+title: Another town, another highway
+date: 2008-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0811/S00068/another-town-another-highway.htm
 author: green-party
+permalink: /archive/2008/11/04/another-town-another-highway/index.html
+layout: layout.njk
 ---
 Another town, another highway
 =============================

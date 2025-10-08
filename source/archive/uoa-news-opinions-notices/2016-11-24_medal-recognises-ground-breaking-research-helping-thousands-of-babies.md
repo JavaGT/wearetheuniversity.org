@@ -1,8 +1,12 @@
 ---
 slug: medal-recognises-ground-breaking-research-helping-thousands-of-babies
-title: "Medal recognises ground-breaking research helping thousands of babies"
-date: 2016-11-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/jane-harding-beaven-medal-2016.html
+title: Medal recognises ground-breaking research helping thousands of babies
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/jane-harding-beaven-medal-2016.html
+permalink: >-
+  /archive/2016/11/24/medal-recognises-ground-breaking-research-helping-thousands-of-babies/index.html
+layout: layout.njk
 ---
 Medal recognises ground-breaking research helping thousands of babies
 =====================================================================

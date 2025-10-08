@@ -1,9 +1,12 @@
 ---
 slug: cautious-welcome-for-new-tec-head
-title: "Cautious Welcome for new TEC Head"
-date: 2001-08-07
-source-url: https://www.scoop.co.nz/stories/ED0108/S00023/cautious-welcome-for-new-tec-head.htm
+title: Cautious Welcome for new TEC Head
+date: 2001-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00023/cautious-welcome-for-new-tec-head.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/07/cautious-welcome-for-new-tec-head/index.html
+layout: layout.njk
 ---
 Cautious Welcome for new TEC Head
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: students-fear-fee-increases-of-more-than-20%
-title: "Students Fear Fee Increases of more than 20%"
-date: 2001-05-03
-source-url: https://www.scoop.co.nz/stories/ED0105/S00003/students-fear-fee-increases-of-more-than-20.htm
+title: Students Fear Fee Increases of more than 20%
+date: 2001-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00003/students-fear-fee-increases-of-more-than-20.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2001/05/03/students-fear-fee-increases-of-more-than-20/index.html
+layout: layout.njk
 ---
 Students Fear Fee Increases of more than 20%
 ============================================

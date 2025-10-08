@@ -1,9 +1,12 @@
 ---
 slug: combating-earthquakes-and-tsunamis
-title: "Combating Earthquakes and Tsunamis"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/ED0511/S00009/combating-earthquakes-and-tsunamis.htm
+title: Combating Earthquakes and Tsunamis
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00009/combating-earthquakes-and-tsunamis.htm
 author: auckland-university
+permalink: /archive/2005/11/02/combating-earthquakes-and-tsunamis/index.html
+layout: layout.njk
 ---
 Combating Earthquakes and Tsunamis
 ==================================

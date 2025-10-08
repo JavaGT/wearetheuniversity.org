@@ -1,9 +1,12 @@
 ---
 slug: radical-approach-to-fighting-obesity-needed
-title: "Radical approach to fighting obesity needed"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/PA0408/S00395/radical-approach-to-fighting-obesity-needed.htm
+title: Radical approach to fighting obesity needed
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00395/radical-approach-to-fighting-obesity-needed.htm
 author: green-party
+permalink: /archive/2004/08/24/radical-approach-to-fighting-obesity-needed/index.html
+layout: layout.njk
 ---
 Radical approach to fighting obesity needed
 ===========================================

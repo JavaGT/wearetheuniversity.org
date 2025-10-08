@@ -1,9 +1,12 @@
 ---
 slug: public-procession-for-dame-te-atairangikaahu
-title: "Public procession for Dame Te Atairangikaahu"
-date: 2006-08-18
-source-url: https://www.scoop.co.nz/stories/PA0608/S00327/public-procession-for-dame-te-atairangikaahu.htm
+title: Public procession for Dame Te Atairangikaahu
+date: 2006-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00327/public-procession-for-dame-te-atairangikaahu.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/08/18/public-procession-for-dame-te-atairangikaahu/index.html
+layout: layout.njk
 ---
 Public procession for Dame Te Atairangikaahu
 ============================================

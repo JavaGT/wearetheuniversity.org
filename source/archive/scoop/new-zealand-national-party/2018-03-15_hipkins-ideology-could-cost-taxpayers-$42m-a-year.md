@@ -1,9 +1,12 @@
 ---
 slug: hipkins-ideology-could-cost-taxpayers-$42m-a-year
-title: "Hipkins’ ideology could cost taxpayers $42m a year"
-date: 2018-03-15
-source-url: https://www.scoop.co.nz/stories/PA1803/S00154/hipkins-ideology-could-cost-taxpayers-42m-a-year.htm
+title: Hipkins’ ideology could cost taxpayers $42m a year
+date: 2018-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00154/hipkins-ideology-could-cost-taxpayers-42m-a-year.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/15/hipkins-ideology-could-cost-taxpayers-/index.html
+layout: layout.njk
 ---
 Hipkins’ ideology could cost taxpayers $42m a year
 ==================================================

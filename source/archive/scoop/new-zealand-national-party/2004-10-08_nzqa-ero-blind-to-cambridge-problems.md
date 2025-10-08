@@ -1,9 +1,12 @@
 ---
 slug: nzqa-ero-blind-to-cambridge-problems
-title: "NZQA, ERO blind to Cambridge problems?"
-date: 2004-10-08
-source-url: https://www.scoop.co.nz/stories/PA0410/S00137/nzqa-ero-blind-to-cambridge-problems.htm
+title: NZQA, ERO blind to Cambridge problems?
+date: 2004-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00137/nzqa-ero-blind-to-cambridge-problems.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/08/nzqa-ero-blind-to-cambridge-problems/index.html
+layout: layout.njk
 ---
 NZQA, ERO blind to Cambridge problems?
 ======================================

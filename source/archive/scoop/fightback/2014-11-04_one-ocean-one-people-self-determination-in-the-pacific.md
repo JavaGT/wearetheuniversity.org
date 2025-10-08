@@ -1,9 +1,13 @@
 ---
 slug: one-ocean-one-people-self-determination-in-the-pacific
-title: "\"One ocean, one people\" – self-determination in the Pacific"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/HL1411/S00007/one-ocean-one-people-self-determination-in-the-pacific.htm
+title: '"One ocean, one people" – self-determination in the Pacific'
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1411/S00007/one-ocean-one-people-self-determination-in-the-pacific.htm
 author: fightback
+permalink: >-
+  /archive/2014/11/04/one-ocean-one-people-self-determination-in-the-pacific/index.html
+layout: layout.njk
 ---
 “One ocean, one people” – self-determination in the Pacific
 ===========================================================

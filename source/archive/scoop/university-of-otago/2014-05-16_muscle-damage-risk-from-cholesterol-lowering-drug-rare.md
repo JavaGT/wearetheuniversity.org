@@ -1,9 +1,13 @@
 ---
 slug: muscle-damage-risk-from-cholesterol-lowering-drug-rare
-title: "Muscle damage risk from cholesterol-lowering drug rare"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/GE1405/S00091/muscle-damage-risk-from-cholesterol-lowering-drug-rare.htm
+title: Muscle damage risk from cholesterol-lowering drug rare
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00091/muscle-damage-risk-from-cholesterol-lowering-drug-rare.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/16/muscle-damage-risk-from-cholesterol-lowering-drug-rare/index.html
+layout: layout.njk
 ---
 Muscle damage risk from cholesterol-lowering drug rare
 ======================================================

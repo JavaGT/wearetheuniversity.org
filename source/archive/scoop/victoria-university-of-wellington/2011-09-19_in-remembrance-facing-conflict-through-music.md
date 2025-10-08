@@ -1,9 +1,12 @@
 ---
 slug: in-remembrance-facing-conflict-through-music
-title: "In Remembrance – facing conflict through music"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/ED1109/S00076/in-remembrance-facing-conflict-through-music.htm
+title: In Remembrance – facing conflict through music
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00076/in-remembrance-facing-conflict-through-music.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/19/in-remembrance-facing-conflict-through-music/index.html
+layout: layout.njk
 ---
 In Remembrance – facing conflict through music
 ==============================================

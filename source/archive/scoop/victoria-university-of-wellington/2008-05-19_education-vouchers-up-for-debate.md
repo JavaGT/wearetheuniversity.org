@@ -1,9 +1,12 @@
 ---
 slug: education-vouchers-up-for-debate
-title: "Education vouchers up for debate"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/ED0805/S00057/education-vouchers-up-for-debate.htm
+title: Education vouchers up for debate
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00057/education-vouchers-up-for-debate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/19/education-vouchers-up-for-debate/index.html
+layout: layout.njk
 ---
 Education vouchers up for debate
 ================================

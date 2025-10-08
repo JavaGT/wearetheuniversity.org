@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-breaches-united-nations-obligations
-title: "New Zealand Breaches United Nations Obligations"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00010/new-zealand-breaches-united-nations-obligations.htm
+title: New Zealand Breaches United Nations Obligations
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00010/new-zealand-breaches-united-nations-obligations.htm
 author: act-new-zealand
+permalink: /archive/2001/10/01/new-zealand-breaches-united-nations-obligations/index.html
+layout: layout.njk
 ---
 New Zealand Breaches United Nations Obligations
 ===============================================

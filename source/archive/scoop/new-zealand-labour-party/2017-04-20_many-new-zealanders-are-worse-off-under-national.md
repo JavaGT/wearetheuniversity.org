@@ -1,9 +1,13 @@
 ---
 slug: many-new-zealanders-are-worse-off-under-national
-title: "Many New Zealanders are worse off under National"
-date: 2017-04-20
-source-url: https://www.scoop.co.nz/stories/PA1704/S00257/many-new-zealanders-are-worse-off-under-national.htm
+title: Many New Zealanders are worse off under National
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00257/many-new-zealanders-are-worse-off-under-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/20/many-new-zealanders-are-worse-off-under-national/index.html
+layout: layout.njk
 ---
 Many New Zealanders are worse off under National
 ================================================

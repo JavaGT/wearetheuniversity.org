@@ -1,9 +1,12 @@
 ---
 slug: public-invited-to-balance-the-books
-title: "Public invited to balance the books"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/BU1307/S00548/public-invited-to-balance-the-books.htm
+title: Public invited to balance the books
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00548/public-invited-to-balance-the-books.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/15/public-invited-to-balance-the-books/index.html
+layout: layout.njk
 ---
 Public invited to balance the books
 ===================================

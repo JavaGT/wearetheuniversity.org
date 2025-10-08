@@ -1,9 +1,12 @@
 ---
 slug: scrap-first-year-fees-free-to-pay-teachers-more
-title: "Scrap First Year Fees-Free To Pay Teachers More"
-date: 2018-10-03
-source-url: https://www.scoop.co.nz/stories/PA1810/S00024/scrap-first-year-fees-free-to-pay-teachers-more.htm
+title: Scrap First Year Fees-Free To Pay Teachers More
+date: 2018-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00024/scrap-first-year-fees-free-to-pay-teachers-more.htm
 author: act-new-zealand
+permalink: /archive/2018/10/03/scrap-first-year-fees-free-to-pay-teachers-more/index.html
+layout: layout.njk
 ---
 Scrap First Year Fees-Free To Pay Teachers More
 ===============================================

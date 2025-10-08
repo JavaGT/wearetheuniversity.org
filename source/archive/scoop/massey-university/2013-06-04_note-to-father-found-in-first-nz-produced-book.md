@@ -1,9 +1,12 @@
 ---
 slug: note-to-father-found-in-first-nz-produced-book
-title: "Note to father found in first NZ-produced book"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/CU1306/S00010/note-to-father-found-in-first-nz-produced-book.htm
+title: Note to father found in first NZ-produced book
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00010/note-to-father-found-in-first-nz-produced-book.htm
 author: massey-university
+permalink: /archive/2013/06/04/note-to-father-found-in-first-nz-produced-book/index.html
+layout: layout.njk
 ---
 Note to father found in first NZ-produced book
 ==============================================

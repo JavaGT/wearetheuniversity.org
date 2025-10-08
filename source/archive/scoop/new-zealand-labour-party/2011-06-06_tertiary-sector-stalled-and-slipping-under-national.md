@@ -1,9 +1,13 @@
 ---
 slug: tertiary-sector-stalled-and-slipping-under-national
-title: "Tertiary sector stalled and slipping under National"
-date: 2011-06-06
-source-url: https://www.scoop.co.nz/stories/PA1106/S00090/tertiary-sector-stalled-and-slipping-under-national.htm
+title: Tertiary sector stalled and slipping under National
+date: 2011-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00090/tertiary-sector-stalled-and-slipping-under-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/06/06/tertiary-sector-stalled-and-slipping-under-national/index.html
+layout: layout.njk
 ---
 Tertiary sector stalled and slipping under National
 ===================================================

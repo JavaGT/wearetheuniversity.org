@@ -1,9 +1,12 @@
 ---
 slug: govt-response-to-youth-crime-policy-is-weak
-title: "Govt Response To Youth Crime Policy Is Weak"
-date: 2022-11-22
-source-url: https://www.scoop.co.nz/stories/PA2211/S00177/govt-response-to-youth-crime-policy-is-weak.htm
+title: Govt Response To Youth Crime Policy Is Weak
+date: 2022-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00177/govt-response-to-youth-crime-policy-is-weak.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/22/govt-response-to-youth-crime-policy-is-weak/index.html
+layout: layout.njk
 ---
 Govt Response To Youth Crime Policy Is Weak
 ===========================================

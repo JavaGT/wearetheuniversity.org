@@ -1,9 +1,12 @@
 ---
 slug: e-whakanui-ana-te-pāti-māori-i-te-wiki-o-te-reo-māori
-title: "E whakanui ana Te Pāti Māori i Te Wiki o Te Reo Māori"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/PA1407/S00385/e-whakanui-ana-te-pati-maori-i-te-wiki-o-te-reo-maori.htm
+title: E whakanui ana Te Pāti Māori i Te Wiki o Te Reo Māori
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00385/e-whakanui-ana-te-pati-maori-i-te-wiki-o-te-reo-maori.htm
 author: te-pati-maori
+permalink: /archive/2014/07/21/e-whakanui-ana-te-p/index.html
+layout: layout.njk
 ---
 E whakanui ana Te Pāti Māori i Te Wiki o Te Reo Māori
 =====================================================

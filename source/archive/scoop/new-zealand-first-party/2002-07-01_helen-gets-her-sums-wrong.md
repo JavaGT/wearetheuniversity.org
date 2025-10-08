@@ -1,9 +1,11 @@
 ---
 slug: helen-gets-her-sums-wrong
-title: "Helen Gets Her Sums Wrong"
-date: 2002-07-01
+title: Helen Gets Her Sums Wrong
+date: 2002-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00002/helen-gets-her-sums-wrong.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/01/helen-gets-her-sums-wrong/index.html
+layout: layout.njk
 ---
 Helen Gets Her Sums Wrong
 =========================

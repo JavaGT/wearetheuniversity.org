@@ -1,9 +1,13 @@
 ---
 slug: maxim-institute-support-critique-of-earthquake-act
-title: "Maxim Institute Support Critique Of Earthquake Act"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/PO1009/S00345/maxim-institute-support-critique-of-earthquake-act.htm
+title: Maxim Institute Support Critique Of Earthquake Act
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00345/maxim-institute-support-critique-of-earthquake-act.htm
 author: maxim-institute
+permalink: >-
+  /archive/2010/09/28/maxim-institute-support-critique-of-earthquake-act/index.html
+layout: layout.njk
 ---
 Maxim Institute Support Critique Of Earthquake Act
 ==================================================

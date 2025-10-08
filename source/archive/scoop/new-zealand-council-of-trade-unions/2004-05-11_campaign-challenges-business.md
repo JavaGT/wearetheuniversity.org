@@ -1,9 +1,11 @@
 ---
 slug: campaign-challenges-business
-title: "Campaign Challenges Business"
-date: 2004-05-11
+title: Campaign Challenges Business
+date: 2004-05-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0405/S00095/campaign-challenges-business.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/05/11/campaign-challenges-business/index.html
+layout: layout.njk
 ---
 Campaign Challenges Business
 ============================

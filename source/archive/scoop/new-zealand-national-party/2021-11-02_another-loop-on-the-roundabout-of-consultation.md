@@ -1,9 +1,12 @@
 ---
 slug: another-loop-on-the-roundabout-of-consultation
-title: "Another Loop On The Roundabout Of Consultation"
-date: 2021-11-02
-source-url: https://www.scoop.co.nz/stories/PA2111/S00021/another-loop-on-the-roundabout-of-consultation.htm
+title: Another Loop On The Roundabout Of Consultation
+date: 2021-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00021/another-loop-on-the-roundabout-of-consultation.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/02/another-loop-on-the-roundabout-of-consultation/index.html
+layout: layout.njk
 ---
 Another Loop On The Roundabout Of Consultation
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: jobs-that-work-for-you
-title: "Jobs That Work For You"
-date: 2012-10-18
+title: Jobs That Work For You
+date: 2012-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1210/S00330/jobs-that-work-for-you.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/18/jobs-that-work-for-you/index.html
+layout: layout.njk
 ---
 Jobs That Work For You
 ======================

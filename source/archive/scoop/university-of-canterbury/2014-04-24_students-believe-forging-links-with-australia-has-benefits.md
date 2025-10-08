@@ -1,9 +1,13 @@
 ---
 slug: students-believe-forging-links-with-australia-has-benefits
-title: "Students believe forging links with Australia has benefits"
-date: 2014-04-24
-source-url: https://www.scoop.co.nz/stories/PO1404/S00346/students-believe-forging-links-with-australia-has-benefits.htm
+title: Students believe forging links with Australia has benefits
+date: 2014-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00346/students-believe-forging-links-with-australia-has-benefits.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/24/students-believe-forging-links-with-australia-has-benefits/index.html
+layout: layout.njk
 ---
 Students believe forging links with Australia has benefits
 ==========================================================

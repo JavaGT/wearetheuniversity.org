@@ -1,9 +1,13 @@
 ---
 slug: students-win-engineering-prize-for-adventure-tourism-design
-title: "Students win engineering prize for adventure tourism design"
-date: 2015-03-15
-source-url: https://www.scoop.co.nz/stories/SC1503/S00054/students-win-engineering-prize-for-adventure-tourism-design.htm
+title: Students win engineering prize for adventure tourism design
+date: 2015-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00054/students-win-engineering-prize-for-adventure-tourism-design.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/15/students-win-engineering-prize-for-adventure-tourism-design/index.html
+layout: layout.njk
 ---
 Students win engineering prize for adventure tourism design
 ===========================================================

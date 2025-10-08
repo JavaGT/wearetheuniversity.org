@@ -1,9 +1,11 @@
 ---
 slug: students-corner-key
-title: "Students Corner Key"
-date: 2015-03-05
+title: Students Corner Key
+date: 2015-03-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1503/S00065/students-corner-key.htm
 author: reclaim-uoa
+permalink: /archive/2015/03/05/students-corner-key/index.html
+layout: layout.njk
 ---
 Students Corner Key
 ===================

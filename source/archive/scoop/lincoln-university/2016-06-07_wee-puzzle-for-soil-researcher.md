@@ -1,9 +1,12 @@
 ---
 slug: wee-puzzle-for-soil-researcher
-title: "Wee puzzle for soil researcher"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/SC1606/S00014/wee-puzzle-for-soil-researcher.htm
+title: Wee puzzle for soil researcher
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00014/wee-puzzle-for-soil-researcher.htm
 author: lincoln-university
+permalink: /archive/2016/06/07/wee-puzzle-for-soil-researcher/index.html
+layout: layout.njk
 ---
 Wee puzzle for soil researcher
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: leading-māori-playwright-comes-to-victoria
-title: "Leading Māori Playwright Comes to Victoria"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/CU1011/S00218/leading-maori-playwright-comes-to-victoria.htm
+title: Leading Māori Playwright Comes to Victoria
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1011/S00218/leading-maori-playwright-comes-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/15/leading-m/index.html
+layout: layout.njk
 ---
 Leading Māori Playwright Comes to Victoria
 ==========================================

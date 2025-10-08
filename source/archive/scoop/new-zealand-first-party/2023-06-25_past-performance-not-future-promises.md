@@ -1,9 +1,12 @@
 ---
 slug: past-performance-not-future-promises
-title: "'Past Performance Not Future Promises'"
-date: 2023-06-25
-source-url: https://www.scoop.co.nz/stories/PA2306/S00161/past-performance-not-future-promises.htm
+title: '''Past Performance Not Future Promises'''
+date: 2023-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00161/past-performance-not-future-promises.htm
 author: new-zealand-first-party
+permalink: /archive/2023/06/25/past-performance-not-future-promises/index.html
+layout: layout.njk
 ---
 'Past Performance Not Future Promises'
 ======================================

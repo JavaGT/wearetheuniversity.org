@@ -1,9 +1,12 @@
 ---
 slug: nz-needs-stronger-mad-cow-disease-measures
-title: "NZ needs stronger mad cow disease measures"
-date: 2003-05-22
-source-url: https://www.scoop.co.nz/stories/PA0305/S00567/nz-needs-stronger-mad-cow-disease-measures.htm
+title: NZ needs stronger mad cow disease measures
+date: 2003-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00567/nz-needs-stronger-mad-cow-disease-measures.htm
 author: green-party
+permalink: /archive/2003/05/22/nz-needs-stronger-mad-cow-disease-measures/index.html
+layout: layout.njk
 ---
 NZ needs stronger mad cow disease measures
 ==========================================

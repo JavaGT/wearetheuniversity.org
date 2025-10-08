@@ -1,9 +1,12 @@
 ---
 slug: call-for-calm-after-school-incident
-title: "Call for calm after school incident"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/PA1406/S00365/call-for-calm-after-school-incident.htm
+title: Call for calm after school incident
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00365/call-for-calm-after-school-incident.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/24/call-for-calm-after-school-incident/index.html
+layout: layout.njk
 ---
 Call for calm after school incident
 ===================================

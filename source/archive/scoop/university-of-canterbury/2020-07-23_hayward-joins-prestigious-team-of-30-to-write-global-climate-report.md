@@ -1,9 +1,13 @@
 ---
 slug: hayward-joins-prestigious-team-of-30-to-write-global-climate-report
-title: "Hayward Joins Prestigious Team Of 30 To Write Global Climate Report"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/SC2007/S00044/hayward-joins-prestigious-team-of-30-to-write-global-climate-report.htm
+title: Hayward Joins Prestigious Team Of 30 To Write Global Climate Report
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2007/S00044/hayward-joins-prestigious-team-of-30-to-write-global-climate-report.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/23/hayward-joins-prestigious-team-of-30-to-write-global-climate-report/index.html
+layout: layout.njk
 ---
 Hayward Joins Prestigious Team Of 30 To Write Global Climate Report
 ===================================================================

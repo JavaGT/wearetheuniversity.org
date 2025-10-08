@@ -1,9 +1,11 @@
 ---
 slug: celebrating-our-graduands
-title: "Celebrating our graduands"
-date: 2006-12-12
+title: Celebrating our graduands
+date: 2006-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0612/S00035/celebrating-our-graduands.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/12/celebrating-our-graduands/index.html
+layout: layout.njk
 ---
 Celebrating our graduands
 =========================

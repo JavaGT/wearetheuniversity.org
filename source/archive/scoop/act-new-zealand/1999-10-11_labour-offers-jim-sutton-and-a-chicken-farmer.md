@@ -1,9 +1,12 @@
 ---
 slug: labour-offers-jim-sutton-and-a-chicken-farmer
-title: "Labour offers Jim Sutton and a chicken farmer"
-date: 1999-10-11
-source-url: https://www.scoop.co.nz/stories/PA9910/S00186/labour-offers-jim-sutton-and-a-chicken-farmer.htm
+title: Labour offers Jim Sutton and a chicken farmer
+date: 1999-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00186/labour-offers-jim-sutton-and-a-chicken-farmer.htm
 author: act-new-zealand
+permalink: /archive/1999/10/11/labour-offers-jim-sutton-and-a-chicken-farmer/index.html
+layout: layout.njk
 ---
 Labour offers Jim Sutton and a chicken farmer
 =============================================

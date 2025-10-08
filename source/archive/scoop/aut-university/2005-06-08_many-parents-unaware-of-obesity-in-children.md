@@ -1,9 +1,12 @@
 ---
 slug: many-parents-unaware-of-obesity-in-children
-title: "Many parents unaware of obesity in children"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/GE0506/S00032/many-parents-unaware-of-obesity-in-children.htm
+title: Many parents unaware of obesity in children
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00032/many-parents-unaware-of-obesity-in-children.htm
 author: aut-university
+permalink: /archive/2005/06/08/many-parents-unaware-of-obesity-in-children/index.html
+layout: layout.njk
 ---
 Many parents unaware of obesity in children
 ===========================================

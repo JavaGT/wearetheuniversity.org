@@ -1,9 +1,12 @@
 ---
 slug: students-will-pay-if-bill-gets-his-way
-title: "Students Will Pay if Bill Gets His Way"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/ED0207/S00009/students-will-pay-if-bill-gets-his-way.htm
+title: Students Will Pay if Bill Gets His Way
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00009/students-will-pay-if-bill-gets-his-way.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/08/students-will-pay-if-bill-gets-his-way/index.html
+layout: layout.njk
 ---
 Students Will Pay if Bill Gets His Way
 ======================================

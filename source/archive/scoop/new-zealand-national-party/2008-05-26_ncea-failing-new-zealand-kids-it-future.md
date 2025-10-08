@@ -1,9 +1,12 @@
 ---
 slug: ncea-failing-new-zealand-kids-it-future
-title: "NCEA failing New Zealand kids’ IT future"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/PA0805/S00506/ncea-failing-new-zealand-kids-it-future.htm
+title: NCEA failing New Zealand kids’ IT future
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00506/ncea-failing-new-zealand-kids-it-future.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/26/ncea-failing-new-zealand-kids-it-future/index.html
+layout: layout.njk
 ---
 NCEA failing New Zealand kids’ IT future
 ========================================

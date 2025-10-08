@@ -1,9 +1,12 @@
 ---
 slug: students-in-auckland-to-stage-rally
-title: "Students in Auckland to stage rally"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/PO1109/S00373/students-in-auckland-to-stage-rally.htm
+title: Students in Auckland to stage rally
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00373/students-in-auckland-to-stage-rally.htm
 author: we-are-the-university
+permalink: /archive/2011/09/26/students-in-auckland-to-stage-rally/index.html
+layout: layout.njk
 ---
 Students in Auckland to stage rally
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-student-overwhelmed-by-aimes-award-win
-title: "Massey student overwhelmed by AIMES Award win"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/ED1511/S00094/massey-student-overwhelmed-by-aimes-award-win.htm
+title: Massey student overwhelmed by AIMES Award win
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00094/massey-student-overwhelmed-by-aimes-award-win.htm
 author: massey-university
+permalink: /archive/2015/11/18/massey-student-overwhelmed-by-aimes-award-win/index.html
+layout: layout.njk
 ---
 Massey student overwhelmed by AIMES Award win
 =============================================

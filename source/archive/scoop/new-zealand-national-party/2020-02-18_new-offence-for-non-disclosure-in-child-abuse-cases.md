@@ -1,9 +1,13 @@
 ---
 slug: new-offence-for-non-disclosure-in-child-abuse-cases
-title: "New Offence For Non-disclosure In Child Abuse Cases"
-date: 2020-02-18
-source-url: https://www.scoop.co.nz/stories/PA2002/S00103/new-offence-for-non-disclosure-in-child-abuse-cases.htm
+title: New Offence For Non-disclosure In Child Abuse Cases
+date: 2020-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00103/new-offence-for-non-disclosure-in-child-abuse-cases.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/02/18/new-offence-for-non-disclosure-in-child-abuse-cases/index.html
+layout: layout.njk
 ---
 New Offence For Non-disclosure In Child Abuse Cases
 ===================================================

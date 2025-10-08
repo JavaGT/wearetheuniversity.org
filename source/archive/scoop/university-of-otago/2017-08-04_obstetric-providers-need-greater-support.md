@@ -1,9 +1,12 @@
 ---
 slug: obstetric-providers-need-greater-support
-title: "Obstetric providers need greater support"
-date: 2017-08-04
-source-url: https://www.scoop.co.nz/stories/GE1708/S00023/obstetric-providers-need-greater-support.htm
+title: Obstetric providers need greater support
+date: 2017-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00023/obstetric-providers-need-greater-support.htm
 author: university-of-otago
+permalink: /archive/2017/08/04/obstetric-providers-need-greater-support/index.html
+layout: layout.njk
 ---
 Obstetric providers need greater support
 ========================================

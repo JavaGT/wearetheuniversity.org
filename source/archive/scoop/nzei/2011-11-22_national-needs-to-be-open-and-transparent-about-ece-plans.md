@@ -1,9 +1,13 @@
 ---
 slug: national-needs-to-be-open-and-transparent-about-ece-plans
-title: "National needs to be open and transparent about ECE plans"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/ED1111/S00135/national-needs-to-be-open-and-transparent-about-ece-plans.htm
+title: National needs to be open and transparent about ECE plans
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00135/national-needs-to-be-open-and-transparent-about-ece-plans.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/22/national-needs-to-be-open-and-transparent-about-ece-plans/index.html
+layout: layout.njk
 ---
 National needs to be open and transparent about ECE plans
 =========================================================

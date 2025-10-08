@@ -1,9 +1,12 @@
 ---
 slug: kings-waiting-list-rage-returns-to-haunt-her
-title: "King's Waiting List Rage Returns To Haunt Her"
-date: 2004-11-08
-source-url: https://www.scoop.co.nz/stories/PA0411/S00179/kings-waiting-list-rage-returns-to-haunt-her.htm
+title: King's Waiting List Rage Returns To Haunt Her
+date: 2004-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00179/kings-waiting-list-rage-returns-to-haunt-her.htm
 author: act-new-zealand
+permalink: /archive/2004/11/08/kings-waiting-list-rage-returns-to-haunt-her/index.html
+layout: layout.njk
 ---
 King's Waiting List Rage Returns To Haunt Her
 =============================================

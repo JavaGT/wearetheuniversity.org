@@ -1,9 +1,12 @@
 ---
 slug: welfare-reforms-given-big-thumbs-down
-title: "Welfare reforms given big thumbs down"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/PA1211/S00531/welfare-reforms-given-big-thumbs-down.htm
+title: Welfare reforms given big thumbs down
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00531/welfare-reforms-given-big-thumbs-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/30/welfare-reforms-given-big-thumbs-down/index.html
+layout: layout.njk
 ---
 Welfare reforms given big thumbs down
 =====================================

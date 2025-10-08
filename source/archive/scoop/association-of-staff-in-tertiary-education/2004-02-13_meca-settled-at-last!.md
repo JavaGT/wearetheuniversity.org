@@ -1,9 +1,11 @@
 ---
 slug: meca-settled-at-last!
-title: "MECA Settled at last!"
-date: 2004-02-13
+title: MECA Settled at last!
+date: 2004-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0402/S00032/meca-settled-at-last.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2004/02/13/meca-settled-at-last/index.html
+layout: layout.njk
 ---
 MECA Settled at last!
 =====================

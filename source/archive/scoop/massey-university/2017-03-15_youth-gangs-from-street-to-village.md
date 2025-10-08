@@ -1,9 +1,12 @@
 ---
 slug: youth-gangs-from-street-to-village
-title: "Youth gangs - from street to village"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/AK1703/S00485/youth-gangs-from-street-to-village.htm
+title: Youth gangs - from street to village
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00485/youth-gangs-from-street-to-village.htm
 author: massey-university
+permalink: /archive/2017/03/15/youth-gangs-from-street-to-village/index.html
+layout: layout.njk
 ---
 Youth gangs - from street to village
 ====================================

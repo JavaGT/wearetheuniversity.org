@@ -1,9 +1,12 @@
 ---
 slug: 73-days-wait-for-special-education-support
-title: "73 days wait for special education support"
-date: 2016-10-21
-source-url: https://www.scoop.co.nz/stories/PA1610/S00357/73-days-wait-for-special-education-support.htm
+title: 73 days wait for special education support
+date: 2016-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00357/73-days-wait-for-special-education-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/21/73-days-wait-for-special-education-support/index.html
+layout: layout.njk
 ---
 73 days wait for special education support
 ==========================================

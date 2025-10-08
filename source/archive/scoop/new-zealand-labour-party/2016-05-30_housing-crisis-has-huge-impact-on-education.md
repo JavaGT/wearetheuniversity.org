@@ -1,9 +1,12 @@
 ---
 slug: housing-crisis-has-huge-impact-on-education
-title: "Housing crisis has huge impact on education"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00620/housing-crisis-has-huge-impact-on-education.htm
+title: Housing crisis has huge impact on education
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00620/housing-crisis-has-huge-impact-on-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/30/housing-crisis-has-huge-impact-on-education/index.html
+layout: layout.njk
 ---
 Housing crisis has huge impact on education
 ===========================================

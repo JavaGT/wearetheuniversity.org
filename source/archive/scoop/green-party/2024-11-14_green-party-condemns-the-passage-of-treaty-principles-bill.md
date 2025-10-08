@@ -1,9 +1,13 @@
 ---
 slug: green-party-condemns-the-passage-of-treaty-principles-bill
-title: "Green Party Condemns The Passage Of Treaty Principles Bill"
-date: 2024-11-14
-source-url: https://www.scoop.co.nz/stories/PA2411/S00108/green-party-condemns-the-passage-of-treaty-principles-bill.htm
+title: Green Party Condemns The Passage Of Treaty Principles Bill
+date: 2024-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00108/green-party-condemns-the-passage-of-treaty-principles-bill.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/14/green-party-condemns-the-passage-of-treaty-principles-bill/index.html
+layout: layout.njk
 ---
 Green Party Condemns The Passage Of Treaty Principles Bill
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: student-wins-halls-scholarship-with-satirical-video
-title: "Student wins halls scholarship with satirical video"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/ED1502/S00046/student-wins-halls-scholarship-with-satirical-video.htm
+title: Student wins halls scholarship with satirical video
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00046/student-wins-halls-scholarship-with-satirical-video.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/13/student-wins-halls-scholarship-with-satirical-video/index.html
+layout: layout.njk
 ---
 Student wins halls scholarship with satirical video
 ===================================================

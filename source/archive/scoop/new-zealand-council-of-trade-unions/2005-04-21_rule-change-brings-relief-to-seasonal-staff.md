@@ -1,9 +1,12 @@
 ---
 slug: rule-change-brings-relief-to-seasonal-staff
-title: "Rule Change Brings Relief to Seasonal Staff"
-date: 2005-04-21
-source-url: https://www.scoop.co.nz/stories/PO0504/S00265/rule-change-brings-relief-to-seasonal-staff.htm
+title: Rule Change Brings Relief to Seasonal Staff
+date: 2005-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00265/rule-change-brings-relief-to-seasonal-staff.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/21/rule-change-brings-relief-to-seasonal-staff/index.html
+layout: layout.njk
 ---
 Rule Change Brings Relief to Seasonal Staff
 ===========================================

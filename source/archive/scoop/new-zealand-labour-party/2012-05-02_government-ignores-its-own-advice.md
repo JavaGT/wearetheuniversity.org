@@ -1,9 +1,12 @@
 ---
 slug: government-ignores-its-own-advice
-title: "Government ignores its own advice"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PA1205/S00048/government-ignores-its-own-advice.htm
+title: Government ignores its own advice
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00048/government-ignores-its-own-advice.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/02/government-ignores-its-own-advice/index.html
+layout: layout.njk
 ---
 Government ignores its own advice
 =================================

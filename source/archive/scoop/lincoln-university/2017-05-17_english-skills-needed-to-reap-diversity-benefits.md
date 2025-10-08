@@ -1,9 +1,13 @@
 ---
 slug: english-skills-needed-to-reap-diversity-benefits
-title: "English skills needed to reap diversity benefits"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/BU1705/S00597/english-skills-needed-to-reap-diversity-benefits.htm
+title: English skills needed to reap diversity benefits
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1705/S00597/english-skills-needed-to-reap-diversity-benefits.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/05/17/english-skills-needed-to-reap-diversity-benefits/index.html
+layout: layout.njk
 ---
 English skills needed to reap diversity benefits
 ================================================

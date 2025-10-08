@@ -1,9 +1,12 @@
 ---
 slug: māori-party-welcomes-trade-training-initiative
-title: "Māori Party welcomes Trade Training initiative"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/PA1203/S00099/maori-party-welcomes-trade-training-initiative.htm
+title: Māori Party welcomes Trade Training initiative
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00099/maori-party-welcomes-trade-training-initiative.htm
 author: te-pati-maori
+permalink: /archive/2012/03/07/m/index.html
+layout: layout.njk
 ---
 Māori Party welcomes Trade Training initiative
 ==============================================

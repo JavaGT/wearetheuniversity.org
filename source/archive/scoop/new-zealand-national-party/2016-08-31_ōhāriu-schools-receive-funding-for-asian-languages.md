@@ -1,9 +1,13 @@
 ---
 slug: ōhāriu-schools-receive-funding-for-asian-languages
-title: "Ōhāriu schools receive funding for Asian languages"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PA1608/S00549/ohariu-schools-receive-funding-for-asian-languages.htm
+title: Ōhāriu schools receive funding for Asian languages
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00549/ohariu-schools-receive-funding-for-asian-languages.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/08/31/h-riu-schools-receive-funding-for-asian-languages/index.html
+layout: layout.njk
 ---
 Ōhāriu schools receive funding for Asian languages
 ==================================================

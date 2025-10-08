@@ -1,9 +1,13 @@
 ---
 slug: catherine-delahunty-to-speak-at-bottled-water-rally
-title: "Catherine Delahunty to speak at bottled water rally"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/PA1604/S00271/catherine-delahunty-to-speak-at-bottled-water-rally.htm
+title: Catherine Delahunty to speak at bottled water rally
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00271/catherine-delahunty-to-speak-at-bottled-water-rally.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/15/catherine-delahunty-to-speak-at-bottled-water-rally/index.html
+layout: layout.njk
 ---
 Catherine Delahunty to speak at bottled water rally
 ===================================================

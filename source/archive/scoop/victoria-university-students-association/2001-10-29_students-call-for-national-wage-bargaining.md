@@ -1,9 +1,12 @@
 ---
 slug: students-call-for-national-wage-bargaining
-title: "Students Call For National Wage Bargaining"
-date: 2001-10-29
-source-url: https://www.scoop.co.nz/stories/ED0110/S00033/students-call-for-national-wage-bargaining.htm
+title: Students Call For National Wage Bargaining
+date: 2001-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00033/students-call-for-national-wage-bargaining.htm
 author: victoria-university-students-association
+permalink: /archive/2001/10/29/students-call-for-national-wage-bargaining/index.html
+layout: layout.njk
 ---
 Students Call For National Wage Bargaining
 ==========================================

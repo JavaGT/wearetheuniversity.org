@@ -1,9 +1,12 @@
 ---
 slug: time-to-review-funding-arrangements
-title: "Time to review funding arrangements"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/ED0803/S00016/time-to-review-funding-arrangements.htm
+title: Time to review funding arrangements
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00016/time-to-review-funding-arrangements.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/06/time-to-review-funding-arrangements/index.html
+layout: layout.njk
 ---
 Time to review funding arrangements
 ===================================

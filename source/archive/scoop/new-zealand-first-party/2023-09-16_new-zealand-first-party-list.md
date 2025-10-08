@@ -1,9 +1,11 @@
 ---
 slug: new-zealand-first-party-list
-title: "New Zealand First Party List"
-date: 2023-09-16
+title: New Zealand First Party List
+date: 2023-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2309/S00120/new-zealand-first-party-list.htm
 author: new-zealand-first-party
+permalink: /archive/2023/09/16/new-zealand-first-party-list/index.html
+layout: layout.njk
 ---
 New Zealand First Party List
 ============================

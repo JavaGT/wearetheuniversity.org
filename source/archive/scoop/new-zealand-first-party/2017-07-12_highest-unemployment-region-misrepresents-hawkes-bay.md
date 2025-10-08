@@ -1,9 +1,13 @@
 ---
 slug: highest-unemployment-region-misrepresents-hawkes-bay
-title: "Highest unemployment region misrepresents Hawke’s Bay"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/PA1707/S00183/highest-unemployment-region-misrepresents-hawkes-bay.htm
+title: Highest unemployment region misrepresents Hawke’s Bay
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00183/highest-unemployment-region-misrepresents-hawkes-bay.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/12/highest-unemployment-region-misrepresents-hawkes-bay/index.html
+layout: layout.njk
 ---
 Highest unemployment region misrepresents Hawke’s Bay
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: school-wins-biotechnology-and-inventor-funding
-title: "School Wins Biotechnology And Inventor Funding"
-date: 2002-08-13
-source-url: https://www.scoop.co.nz/stories/ED0208/S00014/school-wins-biotechnology-and-inventor-funding.htm
+title: School Wins Biotechnology And Inventor Funding
+date: 2002-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00014/school-wins-biotechnology-and-inventor-funding.htm
 author: auckland-university
+permalink: /archive/2002/08/13/school-wins-biotechnology-and-inventor-funding/index.html
+layout: layout.njk
 ---
 School Wins Biotechnology And Inventor Funding
 ==============================================

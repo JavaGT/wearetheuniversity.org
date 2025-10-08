@@ -1,9 +1,12 @@
 ---
 slug: brash-nationals-better-path-for-health
-title: "Brash: National's better path for health"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PA0509/S00139/brash-nationals-better-path-for-health.htm
+title: 'Brash: National''s better path for health'
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00139/brash-nationals-better-path-for-health.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/06/brash-nationals-better-path-for-health/index.html
+layout: layout.njk
 ---
 Brash: National's better path for health
 ========================================

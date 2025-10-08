@@ -1,9 +1,13 @@
 ---
 slug: government-flouts-high-court-ruling-over-salisbury-school
-title: "Government Flouts High Court Ruling Over Salisbury School"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/PA1303/S00458/government-flouts-high-court-ruling-over-salisbury-school.htm
+title: Government Flouts High Court Ruling Over Salisbury School
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00458/government-flouts-high-court-ruling-over-salisbury-school.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/27/government-flouts-high-court-ruling-over-salisbury-school/index.html
+layout: layout.njk
 ---
 Government Flouts High Court Ruling Over Salisbury School
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: strong-water-quality-rules-needed
-title: "Strong water quality rules needed"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/PA1401/S00081/strong-water-quality-rules-needed.htm
+title: Strong water quality rules needed
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00081/strong-water-quality-rules-needed.htm
 author: green-party
+permalink: /archive/2014/01/21/strong-water-quality-rules-needed/index.html
+layout: layout.njk
 ---
 Strong water quality rules needed
 =================================

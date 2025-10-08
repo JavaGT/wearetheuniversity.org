@@ -1,9 +1,12 @@
 ---
 slug: language-trees-provide-window-into-the-past
-title: "Language \"trees\" provide window into the past"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/SC0411/S00052/language-trees-provide-window-into-the-past.htm
+title: Language "trees" provide window into the past
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00052/language-trees-provide-window-into-the-past.htm
 author: auckland-university
+permalink: /archive/2004/11/18/language-trees-provide-window-into-the-past/index.html
+layout: layout.njk
 ---
 Language "trees" provide window into the past
 =============================================

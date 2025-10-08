@@ -1,9 +1,13 @@
 ---
 slug: foreign-policy-conference-tackles-forced-migration-borders
-title: "Foreign Policy conference tackles forced migration, borders"
-date: 2017-06-26
-source-url: https://www.scoop.co.nz/stories/PO1706/S00350/foreign-policy-conference-tackles-forced-migration-borders.htm
+title: Foreign Policy conference tackles forced migration, borders
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00350/foreign-policy-conference-tackles-forced-migration-borders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/26/foreign-policy-conference-tackles-forced-migration-borders/index.html
+layout: layout.njk
 ---
 Foreign Policy conference tackles forced migration, borders
 ===========================================================

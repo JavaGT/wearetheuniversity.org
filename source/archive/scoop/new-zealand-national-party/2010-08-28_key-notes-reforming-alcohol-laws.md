@@ -1,9 +1,12 @@
 ---
 slug: key-notes-reforming-alcohol-laws
-title: "Key Notes: Reforming Alcohol Laws"
-date: 2010-08-28
-source-url: https://www.scoop.co.nz/stories/PA1008/S00452/key-notes-reforming-alcohol-laws.htm
+title: 'Key Notes: Reforming Alcohol Laws'
+date: 2010-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00452/key-notes-reforming-alcohol-laws.htm
 author: new-zealand-national-party
+permalink: /archive/2010/08/28/key-notes-reforming-alcohol-laws/index.html
+layout: layout.njk
 ---
 Key Notes: Reforming Alcohol Laws
 =================================

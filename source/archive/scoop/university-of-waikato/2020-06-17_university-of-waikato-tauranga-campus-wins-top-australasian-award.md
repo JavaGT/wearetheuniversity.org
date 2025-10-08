@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-tauranga-campus-wins-top-australasian-award
-title: "University Of Waikato Tauranga Campus Wins Top Australasian Award"
-date: 2020-06-17
-source-url: https://www.scoop.co.nz/stories/ED2006/S00021/university-of-waikato-tauranga-campus-wins-top-australasian-award.htm
+title: University Of Waikato Tauranga Campus Wins Top Australasian Award
+date: 2020-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00021/university-of-waikato-tauranga-campus-wins-top-australasian-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/06/17/university-of-waikato-tauranga-campus-wins-top-australasian-award/index.html
+layout: layout.njk
 ---
 University Of Waikato Tauranga Campus Wins Top Australasian Award
 =================================================================

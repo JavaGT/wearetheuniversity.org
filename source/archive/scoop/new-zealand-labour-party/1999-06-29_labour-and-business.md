@@ -1,9 +1,11 @@
 ---
 slug: labour-and-business
-title: "Labour and business"
-date: 1999-06-29
+title: Labour and business
+date: 1999-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9906/S00303/labour-and-business.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/29/labour-and-business/index.html
+layout: layout.njk
 ---
 Labour and business
 ===================

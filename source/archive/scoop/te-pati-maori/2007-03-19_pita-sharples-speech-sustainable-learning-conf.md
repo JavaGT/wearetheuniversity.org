@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-speech-sustainable-learning-conf
-title: "Pita Sharples Speech: Sustainable Learning Conf."
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/PA0703/S00351/pita-sharples-speech-sustainable-learning-conf.htm
+title: 'Pita Sharples Speech: Sustainable Learning Conf.'
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00351/pita-sharples-speech-sustainable-learning-conf.htm
 author: te-pati-maori
+permalink: /archive/2007/03/19/pita-sharples-speech-sustainable-learning-conf/index.html
+layout: layout.njk
 ---
 Pita Sharples Speech: Sustainable Learning Conf.
 ================================================

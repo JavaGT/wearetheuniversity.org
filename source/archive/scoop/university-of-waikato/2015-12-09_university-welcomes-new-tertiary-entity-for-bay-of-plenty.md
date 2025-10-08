@@ -1,9 +1,13 @@
 ---
 slug: university-welcomes-new-tertiary-entity-for-bay-of-plenty
-title: "University welcomes new tertiary entity for Bay of Plenty"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/AK1512/S00264/university-welcomes-new-tertiary-entity-for-bay-of-plenty.htm
+title: University welcomes new tertiary entity for Bay of Plenty
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1512/S00264/university-welcomes-new-tertiary-entity-for-bay-of-plenty.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/12/09/university-welcomes-new-tertiary-entity-for-bay-of-plenty/index.html
+layout: layout.njk
 ---
 University welcomes new tertiary entity for Bay of Plenty
 =========================================================

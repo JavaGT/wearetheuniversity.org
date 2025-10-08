@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-the-govt-student-loan-bonus
-title: "Students welcome the Govt Student Loan Bonus"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/ED0903/S00086/students-welcome-the-govt-student-loan-bonus.htm
+title: Students welcome the Govt Student Loan Bonus
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00086/students-welcome-the-govt-student-loan-bonus.htm
 author: new-zealand-young-nationals
+permalink: /archive/2009/03/24/students-welcome-the-govt-student-loan-bonus/index.html
+layout: layout.njk
 ---
 Students welcome the Govt Student Loan Bonus
 ============================================

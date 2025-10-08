@@ -1,9 +1,13 @@
 ---
 slug: labour-entrenching-welfare-dependency-with-benefit-increases
-title: "Labour Entrenching Welfare Dependency With Benefit Increases"
-date: 2022-03-30
-source-url: https://www.scoop.co.nz/stories/PA2203/S00242/labour-entrenching-welfare-dependency-with-benefit-increases.htm
+title: Labour Entrenching Welfare Dependency With Benefit Increases
+date: 2022-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00242/labour-entrenching-welfare-dependency-with-benefit-increases.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/03/30/labour-entrenching-welfare-dependency-with-benefit-increases/index.html
+layout: layout.njk
 ---
 Labour Entrenching Welfare Dependency With Benefit Increases
 ============================================================

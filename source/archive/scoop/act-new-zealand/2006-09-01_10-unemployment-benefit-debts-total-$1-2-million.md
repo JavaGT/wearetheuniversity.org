@@ -1,9 +1,12 @@
 ---
 slug: 10-unemployment-benefit-debts-total-$1-2-million
-title: "10 Unemployment Benefit Debts Total $1.2 Million"
-date: 2006-09-01
-source-url: https://www.scoop.co.nz/stories/PA0609/S00008/10-unemployment-benefit-debts-total-12-million.htm
+title: 10 Unemployment Benefit Debts Total $1.2 Million
+date: 2006-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00008/10-unemployment-benefit-debts-total-12-million.htm
 author: act-new-zealand
+permalink: /archive/2006/09/01/10-unemployment-benefit-debts-total-/index.html
+layout: layout.njk
 ---
 10 Unemployment Benefit Debts Total $1.2 Million
 ================================================

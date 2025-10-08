@@ -1,9 +1,13 @@
 ---
 slug: act-tertiary-report-election-year-window-dressing
-title: "ACT: Tertiary report election-year window dressing"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PA0507/S00358/act-tertiary-report-election-year-window-dressing.htm
+title: 'ACT: Tertiary report election-year window dressing'
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00358/act-tertiary-report-election-year-window-dressing.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/07/18/act-tertiary-report-election-year-window-dressing/index.html
+layout: layout.njk
 ---
 ACT: Tertiary report election-year window dressing
 ==================================================

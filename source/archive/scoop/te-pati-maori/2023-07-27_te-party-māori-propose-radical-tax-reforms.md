@@ -1,9 +1,12 @@
 ---
 slug: te-party-māori-propose-radical-tax-reforms
-title: "Te Party Māori Propose Radical Tax Reforms"
-date: 2023-07-27
-source-url: https://www.scoop.co.nz/stories/PA2307/S00151/te-party-maori-propose-radical-tax-reforms.htm
+title: Te Party Māori Propose Radical Tax Reforms
+date: 2023-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00151/te-party-maori-propose-radical-tax-reforms.htm
 author: te-pati-maori
+permalink: /archive/2023/07/27/te-party-m/index.html
+layout: layout.njk
 ---
 Te Party Māori Propose Radical Tax Reforms
 ==========================================

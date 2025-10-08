@@ -1,9 +1,13 @@
 ---
 slug: phil-goff-economic-policy-speech-to-ctu-conference
-title: "Phil Goff Economic Policy Speech To CTU Conference"
-date: 2011-08-19
-source-url: https://www.scoop.co.nz/stories/PA1108/S00412/phil-goff-economic-policy-speech-to-ctu-conference.htm
+title: Phil Goff Economic Policy Speech To CTU Conference
+date: 2011-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00412/phil-goff-economic-policy-speech-to-ctu-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/19/phil-goff-economic-policy-speech-to-ctu-conference/index.html
+layout: layout.njk
 ---
 Phil Goff Economic Policy Speech To CTU Conference
 ==================================================

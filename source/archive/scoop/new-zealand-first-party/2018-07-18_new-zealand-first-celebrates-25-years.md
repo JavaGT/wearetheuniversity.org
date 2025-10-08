@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-celebrates-25-years
-title: "New Zealand First Celebrates 25 Years"
-date: 2018-07-18
-source-url: https://www.scoop.co.nz/stories/PA1807/S00148/new-zealand-first-celebrates-25-years.htm
+title: New Zealand First Celebrates 25 Years
+date: 2018-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00148/new-zealand-first-celebrates-25-years.htm
 author: new-zealand-first-party
+permalink: /archive/2018/07/18/new-zealand-first-celebrates-25-years/index.html
+layout: layout.njk
 ---
 New Zealand First Celebrates 25 Years
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: education-undermined-in-short-sighted-budget
-title: "Education Undermined in Short-Sighted Budget"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PO1105/S00307/education-undermined-in-short-sighted-budget.htm
+title: Education Undermined in Short-Sighted Budget
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00307/education-undermined-in-short-sighted-budget.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/05/19/education-undermined-in-short-sighted-budget/index.html
+layout: layout.njk
 ---
 Education Undermined in Short-Sighted Budget
 ============================================

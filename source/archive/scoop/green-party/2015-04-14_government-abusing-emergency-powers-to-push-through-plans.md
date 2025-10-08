@@ -1,9 +1,13 @@
 ---
 slug: government-abusing-emergency-powers-to-push-through-plans
-title: "Government abusing emergency powers to push through plans"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/PA1504/S00163/government-abusing-emergency-powers-to-push-through-plans.htm
+title: Government abusing emergency powers to push through plans
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00163/government-abusing-emergency-powers-to-push-through-plans.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/14/government-abusing-emergency-powers-to-push-through-plans/index.html
+layout: layout.njk
 ---
 Government abusing emergency powers to push through plans
 =========================================================

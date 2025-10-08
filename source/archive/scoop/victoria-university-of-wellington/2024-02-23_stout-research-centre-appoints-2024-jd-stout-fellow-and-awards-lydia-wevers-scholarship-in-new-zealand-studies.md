@@ -1,9 +1,16 @@
 ---
-slug: stout-research-centre-appoints-2024-jd-stout-fellow-and-awards-lydia-wevers-scholarship-in-new-zealand-studies
-title: "Stout Research Centre Appoints 2024 JD Stout Fellow And Awards Lydia Wevers Scholarship In New Zealand Studies"
-date: 2024-02-23
-source-url: https://www.scoop.co.nz/stories/ED2402/S00027/stout-research-centre-appoints-2024-jd-stout-fellow-and-awards-lydia-wevers-scholarship-in-new-zealand-studies.htm
+slug: >-
+  stout-research-centre-appoints-2024-jd-stout-fellow-and-awards-lydia-wevers-scholarship-in-new-zealand-studies
+title: >-
+  Stout Research Centre Appoints 2024 JD Stout Fellow And Awards Lydia Wevers
+  Scholarship In New Zealand Studies
+date: 2024-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00027/stout-research-centre-appoints-2024-jd-stout-fellow-and-awards-lydia-wevers-scholarship-in-new-zealand-studies.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/02/23/stout-research-centre-appoints-2024-jd-stout-fellow-and-awards-lydia-wevers-scholarship-in-new-zealand-studies/index.html
+layout: layout.njk
 ---
 Stout Research Centre Appoints 2024 JD Stout Fellow And Awards Lydia Wevers Scholarship In New Zealand Studies
 ==============================================================================================================

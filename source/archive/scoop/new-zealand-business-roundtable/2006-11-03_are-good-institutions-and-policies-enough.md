@@ -1,9 +1,12 @@
 ---
 slug: are-good-institutions-and-policies-enough
-title: "Are Good Institutions and Policies Enough?"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/BU0611/S00085/are-good-institutions-and-policies-enough.htm
+title: Are Good Institutions and Policies Enough?
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0611/S00085/are-good-institutions-and-policies-enough.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/11/03/are-good-institutions-and-policies-enough/index.html
+layout: layout.njk
 ---
 Are Good Institutions and Policies Enough?
 ==========================================

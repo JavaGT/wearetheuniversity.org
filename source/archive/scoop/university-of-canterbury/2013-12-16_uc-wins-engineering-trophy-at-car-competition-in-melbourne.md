@@ -1,9 +1,13 @@
 ---
 slug: uc-wins-engineering-trophy-at-car-competition-in-melbourne
-title: "UC wins engineering trophy at car competition in Melbourne"
-date: 2013-12-16
-source-url: https://www.scoop.co.nz/stories/ED1312/S00102/uc-wins-engineering-trophy-at-car-competition-in-melbourne.htm
+title: UC wins engineering trophy at car competition in Melbourne
+date: 2013-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00102/uc-wins-engineering-trophy-at-car-competition-in-melbourne.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/16/uc-wins-engineering-trophy-at-car-competition-in-melbourne/index.html
+layout: layout.njk
 ---
 UC wins engineering trophy at car competition in Melbourne
 ==========================================================

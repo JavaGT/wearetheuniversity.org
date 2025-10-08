@@ -1,9 +1,13 @@
 ---
 slug: australians-smoke-less-in-cars-than-new-zealanders
-title: "Australians smoke less in cars than New Zealanders"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/GE1303/S00016/australians-smoke-less-in-cars-than-new-zealanders.htm
+title: Australians smoke less in cars than New Zealanders
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00016/australians-smoke-less-in-cars-than-new-zealanders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/04/australians-smoke-less-in-cars-than-new-zealanders/index.html
+layout: layout.njk
 ---
 Australians smoke less in cars than New Zealanders
 ==================================================

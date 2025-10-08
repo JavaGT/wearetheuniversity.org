@@ -1,9 +1,12 @@
 ---
 slug: industrial-unrest-is-affecting-students
-title: "Industrial Unrest is Affecting Students"
-date: 2005-08-03
-source-url: https://www.scoop.co.nz/stories/ED0508/S00019/industrial-unrest-is-affecting-students.htm
+title: Industrial Unrest is Affecting Students
+date: 2005-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00019/industrial-unrest-is-affecting-students.htm
 author: lincoln-university-students-association
+permalink: /archive/2005/08/03/industrial-unrest-is-affecting-students/index.html
+layout: layout.njk
 ---
 Industrial Unrest is Affecting Students
 =======================================

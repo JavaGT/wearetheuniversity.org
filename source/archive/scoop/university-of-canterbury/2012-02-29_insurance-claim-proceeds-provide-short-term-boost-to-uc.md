@@ -1,9 +1,13 @@
 ---
 slug: insurance-claim-proceeds-provide-short-term-boost-to-uc
-title: "Insurance claim proceeds provide short-term boost to UC"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/ED1202/S00139/insurance-claim-proceeds-provide-short-term-boost-to-uc.htm
+title: Insurance claim proceeds provide short-term boost to UC
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00139/insurance-claim-proceeds-provide-short-term-boost-to-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/02/29/insurance-claim-proceeds-provide-short-term-boost-to-uc/index.html
+layout: layout.njk
 ---
 Insurance claim proceeds provide short-term boost to UC
 =======================================================

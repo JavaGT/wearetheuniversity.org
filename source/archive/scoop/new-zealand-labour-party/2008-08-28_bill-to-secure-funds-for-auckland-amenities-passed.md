@@ -1,9 +1,13 @@
 ---
 slug: bill-to-secure-funds-for-auckland-amenities-passed
-title: "Bill to secure funds for Auckland Amenities passed"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/PA0808/S00446/bill-to-secure-funds-for-auckland-amenities-passed.htm
+title: Bill to secure funds for Auckland Amenities passed
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00446/bill-to-secure-funds-for-auckland-amenities-passed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/08/28/bill-to-secure-funds-for-auckland-amenities-passed/index.html
+layout: layout.njk
 ---
 Bill to secure funds for Auckland Amenities passed
 ==================================================

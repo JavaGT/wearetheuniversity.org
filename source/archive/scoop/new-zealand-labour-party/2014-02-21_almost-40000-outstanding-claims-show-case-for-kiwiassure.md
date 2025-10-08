@@ -1,9 +1,13 @@
 ---
 slug: almost-40000-outstanding-claims-show-case-for-kiwiassure
-title: "Almost 40,000 outstanding claims show case for KiwiAssure"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/PA1402/S00311/almost-40000-outstanding-claims-show-case-for-kiwiassure.htm
+title: Almost 40,000 outstanding claims show case for KiwiAssure
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00311/almost-40000-outstanding-claims-show-case-for-kiwiassure.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/21/almost-40000-outstanding-claims-show-case-for-kiwiassure/index.html
+layout: layout.njk
 ---
 Almost 40,000 outstanding claims show case for KiwiAssure
 =========================================================

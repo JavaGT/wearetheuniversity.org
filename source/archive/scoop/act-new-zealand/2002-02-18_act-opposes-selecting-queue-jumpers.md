@@ -1,9 +1,12 @@
 ---
 slug: act-opposes-selecting-queue-jumpers
-title: "ACT Opposes Selecting Queue Jumpers"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/PA0202/S00235/act-opposes-selecting-queue-jumpers.htm
+title: ACT Opposes Selecting Queue Jumpers
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00235/act-opposes-selecting-queue-jumpers.htm
 author: act-new-zealand
+permalink: /archive/2002/02/18/act-opposes-selecting-queue-jumpers/index.html
+layout: layout.njk
 ---
 ACT Opposes Selecting Queue Jumpers
 ===================================

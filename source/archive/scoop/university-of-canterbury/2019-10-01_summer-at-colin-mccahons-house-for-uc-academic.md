@@ -1,9 +1,12 @@
 ---
 slug: summer-at-colin-mccahons-house-for-uc-academic
-title: "Summer at Colin McCahon’s House for UC academic"
-date: 2019-10-01
-source-url: https://www.scoop.co.nz/stories/ED1910/S00001/summer-at-colin-mccahons-house-for-uc-academic.htm
+title: Summer at Colin McCahon’s House for UC academic
+date: 2019-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00001/summer-at-colin-mccahons-house-for-uc-academic.htm
 author: university-of-canterbury
+permalink: /archive/2019/10/01/summer-at-colin-mccahons-house-for-uc-academic/index.html
+layout: layout.njk
 ---
 Summer at Colin McCahon’s House for UC academic
 ===============================================

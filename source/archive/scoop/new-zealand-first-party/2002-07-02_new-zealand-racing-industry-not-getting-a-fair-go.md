@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-racing-industry-not-getting-a-fair-go
-title: "New Zealand Racing Industry Not Getting A Fair Go"
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/PA0207/S00046/new-zealand-racing-industry-not-getting-a-fair-go.htm
+title: New Zealand Racing Industry Not Getting A Fair Go
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00046/new-zealand-racing-industry-not-getting-a-fair-go.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/07/02/new-zealand-racing-industry-not-getting-a-fair-go/index.html
+layout: layout.njk
 ---
 New Zealand Racing Industry Not Getting A Fair Go
 =================================================

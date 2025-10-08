@@ -1,9 +1,12 @@
 ---
 slug: local-government-reform-myopic-researcher
-title: "Local government reform ‘myopic’ - researcher"
-date: 2012-03-20
-source-url: https://www.scoop.co.nz/stories/PO1203/S00243/local-government-reform-myopic-researcher.htm
+title: Local government reform ‘myopic’ - researcher
+date: 2012-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00243/local-government-reform-myopic-researcher.htm
 author: massey-university
+permalink: /archive/2012/03/20/local-government-reform-myopic-researcher/index.html
+layout: layout.njk
 ---
 Local government reform ‘myopic’ - researcher
 =============================================

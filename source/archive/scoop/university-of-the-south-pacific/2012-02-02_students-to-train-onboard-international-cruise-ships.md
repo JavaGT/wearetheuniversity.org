@@ -1,9 +1,13 @@
 ---
 slug: students-to-train-onboard-international-cruise-ships
-title: "Students To Train Onboard International Cruise Ships"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/WO1202/S00044/students-to-train-onboard-international-cruise-ships.htm
+title: Students To Train Onboard International Cruise Ships
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00044/students-to-train-onboard-international-cruise-ships.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2012/02/02/students-to-train-onboard-international-cruise-ships/index.html
+layout: layout.njk
 ---
 Students To Train Onboard International Cruise Ships
 ====================================================

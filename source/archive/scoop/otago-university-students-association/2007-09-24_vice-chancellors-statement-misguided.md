@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellors-statement-misguided
-title: "Vice-Chancellor’s Statement Misguided"
-date: 2007-09-24
-source-url: https://www.scoop.co.nz/stories/ED0709/S00078/vice-chancellors-statement-misguided.htm
+title: Vice-Chancellor’s Statement Misguided
+date: 2007-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00078/vice-chancellors-statement-misguided.htm
 author: otago-university-students-association
+permalink: /archive/2007/09/24/vice-chancellors-statement-misguided/index.html
+layout: layout.njk
 ---
 Vice-Chancellor’s Statement Misguided
 =====================================

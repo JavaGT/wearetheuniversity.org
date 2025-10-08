@@ -1,9 +1,12 @@
 ---
 slug: victoria-its-celebrates-server-room-upgrade
-title: "Victoria ITS celebrates server room upgrade"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/ED0510/S00066/victoria-its-celebrates-server-room-upgrade.htm
+title: Victoria ITS celebrates server room upgrade
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00066/victoria-its-celebrates-server-room-upgrade.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/20/victoria-its-celebrates-server-room-upgrade/index.html
+layout: layout.njk
 ---
 Victoria ITS celebrates server room upgrade
 ===========================================

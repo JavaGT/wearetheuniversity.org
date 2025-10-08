@@ -1,9 +1,12 @@
 ---
 slug: successful-summit-expert-engagement
-title: "Successful Summit – Expert Engagement"
-date: 2009-05-25
-source-url: https://www.scoop.co.nz/stories/PO0905/S00331/successful-summit-expert-engagement.htm
+title: Successful Summit – Expert Engagement
+date: 2009-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00331/successful-summit-expert-engagement.htm
 author: young-labour
+permalink: /archive/2009/05/25/successful-summit-expert-engagement/index.html
+layout: layout.njk
 ---
 Successful Summit – Expert Engagement
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: mourning-loss-of-distinctive-distinguished-leader
-title: "Mourning Loss of Distinctive, Distinguished Leader"
-date: 2006-09-19
-source-url: https://www.scoop.co.nz/stories/PA0609/S00430/mourning-loss-of-distinctive-distinguished-leader.htm
+title: Mourning Loss of Distinctive, Distinguished Leader
+date: 2006-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00430/mourning-loss-of-distinctive-distinguished-leader.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/09/19/mourning-loss-of-distinctive-distinguished-leader/index.html
+layout: layout.njk
 ---
 Mourning Loss of Distinctive, Distinguished Leader
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: its-getting-better-all-the-time
-title: "It's Getting Better All the Time"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/BU0703/S00177/its-getting-better-all-the-time.htm
+title: It's Getting Better All the Time
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0703/S00177/its-getting-better-all-the-time.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/03/09/its-getting-better-all-the-time/index.html
+layout: layout.njk
 ---
 It's Getting Better All the Time
 ================================

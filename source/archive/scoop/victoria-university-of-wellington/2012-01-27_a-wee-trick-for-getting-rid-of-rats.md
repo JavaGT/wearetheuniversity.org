@@ -1,9 +1,12 @@
 ---
 slug: a-wee-trick-for-getting-rid-of-rats
-title: "A wee trick for getting rid of rats"
-date: 2012-01-27
-source-url: https://www.scoop.co.nz/stories/SC1201/S00028/a-wee-trick-for-getting-rid-of-rats.htm
+title: A wee trick for getting rid of rats
+date: 2012-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1201/S00028/a-wee-trick-for-getting-rid-of-rats.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/27/a-wee-trick-for-getting-rid-of-rats/index.html
+layout: layout.njk
 ---
 A wee trick for getting rid of rats
 ===================================

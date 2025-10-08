@@ -1,9 +1,13 @@
 ---
 slug: glenfield-police-station-closure-just-the-beginnin
-title: "Glenfield police station closure just the beginnin"
-date: 2002-08-23
-source-url: https://www.scoop.co.nz/stories/PA0208/S00203/glenfield-police-station-closure-just-the-beginnin.htm
+title: Glenfield police station closure just the beginnin
+date: 2002-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00203/glenfield-police-station-closure-just-the-beginnin.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/08/23/glenfield-police-station-closure-just-the-beginnin/index.html
+layout: layout.njk
 ---
 Glenfield police station closure just the beginnin
 ==================================================

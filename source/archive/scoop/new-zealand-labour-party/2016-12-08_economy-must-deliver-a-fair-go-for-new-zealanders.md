@@ -1,9 +1,13 @@
 ---
 slug: economy-must-deliver-a-fair-go-for-new-zealanders
-title: "Economy must deliver a fair go for New Zealanders"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/PA1612/S00156/economy-must-deliver-a-fair-go-for-new-zealanders.htm
+title: Economy must deliver a fair go for New Zealanders
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00156/economy-must-deliver-a-fair-go-for-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/08/economy-must-deliver-a-fair-go-for-new-zealanders/index.html
+layout: layout.njk
 ---
 Economy must deliver a fair go for New Zealanders
 =================================================

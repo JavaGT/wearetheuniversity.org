@@ -1,9 +1,13 @@
 ---
 slug: tuition-fee-elimination-is-good-enough-for-austria
-title: "Tuition fee elimination is good enough for Austria"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/ED1209/S00131/tuition-fee-elimination-is-good-enough-for-austria.htm
+title: Tuition fee elimination is good enough for Austria
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00131/tuition-fee-elimination-is-good-enough-for-austria.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/09/18/tuition-fee-elimination-is-good-enough-for-austria/index.html
+layout: layout.njk
 ---
 Tuition fee elimination is good enough for Austria
 ==================================================

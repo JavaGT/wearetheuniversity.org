@@ -1,9 +1,12 @@
 ---
 slug: act-nz-investigating-ge-inquiry-legal-action
-title: "ACT NZ Investigating GE Inquiry Legal Action"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00464/act-nz-investigating-ge-inquiry-legal-action.htm
+title: ACT NZ Investigating GE Inquiry Legal Action
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00464/act-nz-investigating-ge-inquiry-legal-action.htm
 author: act-new-zealand
+permalink: /archive/2000/08/24/act-nz-investigating-ge-inquiry-legal-action/index.html
+layout: layout.njk
 ---
 ACT NZ Investigating GE Inquiry Legal Action
 ============================================

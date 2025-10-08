@@ -1,9 +1,13 @@
 ---
 slug: immigration-con-by-national-after-years-of-denials
-title: "Immigration Con by National After Years of Denials"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/PA1704/S00227/immigration-con-by-national-after-years-of-denials.htm
+title: Immigration Con by National After Years of Denials
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00227/immigration-con-by-national-after-years-of-denials.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/19/immigration-con-by-national-after-years-of-denials/index.html
+layout: layout.njk
 ---
 Immigration Con by National After Years of Denials
 ==================================================

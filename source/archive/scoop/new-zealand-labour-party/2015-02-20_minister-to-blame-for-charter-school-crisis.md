@@ -1,9 +1,12 @@
 ---
 slug: minister-to-blame-for-charter-school-crisis
-title: "Minister to blame for charter school crisis"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/PA1502/S00246/minister-to-blame-for-charter-school-crisis.htm
+title: Minister to blame for charter school crisis
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00246/minister-to-blame-for-charter-school-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/20/minister-to-blame-for-charter-school-crisis/index.html
+layout: layout.njk
 ---
 Minister to blame for charter school crisis
 ===========================================

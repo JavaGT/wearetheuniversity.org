@@ -1,9 +1,11 @@
 ---
 slug: king-putting-children-first
-title: "King: Putting Children First"
-date: 2010-10-16
+title: 'King: Putting Children First'
+date: 2010-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1010/S00274/king-putting-children-first.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/16/king-putting-children-first/index.html
+layout: layout.njk
 ---
 King: Putting Children First
 ============================

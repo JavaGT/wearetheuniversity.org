@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-face-new-motorway-tax-of-up-to-$2500-a-year
-title: "Aucklanders face new motorway tax of up to $2500 a year"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PA1606/S00376/aucklanders-face-new-motorway-tax-of-up-to-2500-a-year.htm
+title: Aucklanders face new motorway tax of up to $2500 a year
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00376/aucklanders-face-new-motorway-tax-of-up-to-2500-a-year.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/22/aucklanders-face-new-motorway-tax-of-up-to-/index.html
+layout: layout.njk
 ---
 Aucklanders face new motorway tax of up to $2500 a year
 =======================================================

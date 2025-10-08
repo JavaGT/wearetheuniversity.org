@@ -1,9 +1,12 @@
 ---
 slug: fightback-to-challenge-steve-maharey-today
-title: "Fightback To Challenge Steve Maharey Today"
-date: 2000-04-12
-source-url: https://www.scoop.co.nz/stories/ED0004/S00012/fightback-to-challenge-steve-maharey-today.htm
+title: Fightback To Challenge Steve Maharey Today
+date: 2000-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00012/fightback-to-challenge-steve-maharey-today.htm
 author: fightback
+permalink: /archive/2000/04/12/fightback-to-challenge-steve-maharey-today/index.html
+layout: layout.njk
 ---
 Fightback To Challenge Steve Maharey Today
 ==========================================

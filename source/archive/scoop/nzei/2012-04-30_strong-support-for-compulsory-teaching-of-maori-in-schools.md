@@ -1,9 +1,13 @@
 ---
 slug: strong-support-for-compulsory-teaching-of-maori-in-schools
-title: "Strong Support for Compulsory Teaching of Maori in Schools"
-date: 2012-04-30
-source-url: https://www.scoop.co.nz/stories/ED1204/S00115/strong-support-for-compulsory-teaching-of-maori-in-schools.htm
+title: Strong Support for Compulsory Teaching of Maori in Schools
+date: 2012-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00115/strong-support-for-compulsory-teaching-of-maori-in-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/04/30/strong-support-for-compulsory-teaching-of-maori-in-schools/index.html
+layout: layout.njk
 ---
 Strong Support for Compulsory Teaching of Maori in Schools
 ==========================================================

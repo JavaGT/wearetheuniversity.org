@@ -1,9 +1,12 @@
 ---
 slug: donation-makes-big-difference-to-tongan-school
-title: "Donation makes big difference to Tongan school"
-date: 2015-07-27
-source-url: https://www.scoop.co.nz/stories/ED1507/S00115/donation-makes-big-difference-to-tongan-school.htm
+title: Donation makes big difference to Tongan school
+date: 2015-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00115/donation-makes-big-difference-to-tongan-school.htm
 author: lincoln-university
+permalink: /archive/2015/07/27/donation-makes-big-difference-to-tongan-school/index.html
+layout: layout.njk
 ---
 Donation makes big difference to Tongan school
 ==============================================

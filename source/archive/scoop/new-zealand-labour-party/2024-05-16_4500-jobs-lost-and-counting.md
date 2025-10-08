@@ -1,9 +1,11 @@
 ---
 slug: 4500-jobs-lost-and-counting
-title: "4,500 Jobs Lost – And Counting"
-date: 2024-05-16
+title: 4,500 Jobs Lost – And Counting
+date: 2024-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2405/S00120/4500-jobs-lost-and-counting.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/05/16/4500-jobs-lost-and-counting/index.html
+layout: layout.njk
 ---
 4,500 Jobs Lost – And Counting
 ==============================

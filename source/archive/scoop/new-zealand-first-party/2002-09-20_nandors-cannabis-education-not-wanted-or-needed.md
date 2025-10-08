@@ -1,9 +1,12 @@
 ---
 slug: nandors-cannabis-education-not-wanted-or-needed
-title: "Nandor's cannabis education not wanted or needed"
-date: 2002-09-20
-source-url: https://www.scoop.co.nz/stories/PA0209/S00357/nandors-cannabis-education-not-wanted-or-needed.htm
+title: Nandor's cannabis education not wanted or needed
+date: 2002-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00357/nandors-cannabis-education-not-wanted-or-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2002/09/20/nandors-cannabis-education-not-wanted-or-needed/index.html
+layout: layout.njk
 ---
 Nandor's cannabis education not wanted or needed
 ================================================

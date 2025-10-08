@@ -1,9 +1,12 @@
 ---
 slug: bridges-stop-crowing-and-start-funding
-title: "Bridges: stop crowing and start funding"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/PA1310/S00069/bridges-stop-crowing-and-start-funding.htm
+title: 'Bridges: stop crowing and start funding'
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00069/bridges-stop-crowing-and-start-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/03/bridges-stop-crowing-and-start-funding/index.html
+layout: layout.njk
 ---
 Bridges: stop crowing and start funding
 =======================================

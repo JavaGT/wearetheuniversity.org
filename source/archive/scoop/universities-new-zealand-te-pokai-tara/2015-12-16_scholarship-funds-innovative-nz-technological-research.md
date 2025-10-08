@@ -1,9 +1,13 @@
 ---
 slug: scholarship-funds-innovative-nz-technological-research
-title: "Scholarship funds innovative NZ technological research"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/ED1512/S00075/scholarship-funds-innovative-nz-technological-research.htm
+title: Scholarship funds innovative NZ technological research
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00075/scholarship-funds-innovative-nz-technological-research.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/12/16/scholarship-funds-innovative-nz-technological-research/index.html
+layout: layout.njk
 ---
 Scholarship funds innovative NZ technological research
 ======================================================

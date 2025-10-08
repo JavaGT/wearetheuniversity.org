@@ -1,9 +1,12 @@
 ---
 slug: sun-and-sea-new-books-from-v-u-press
-title: "Sun and Sea - new books from V.U Press"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/CU0702/S00078/sun-and-sea-new-books-from-vu-press.htm
+title: Sun and Sea - new books from V.U Press
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0702/S00078/sun-and-sea-new-books-from-vu-press.htm
 author: victoria-university-press
+permalink: /archive/2007/02/08/sun-and-sea-new-books-from-v-u-press/index.html
+layout: layout.njk
 ---
 Sun and Sea - new books from V.U Press
 ======================================

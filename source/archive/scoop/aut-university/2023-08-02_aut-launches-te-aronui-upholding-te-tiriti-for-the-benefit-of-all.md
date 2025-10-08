@@ -1,9 +1,13 @@
 ---
 slug: aut-launches-te-aronui-upholding-te-tiriti-for-the-benefit-of-all
-title: "AUT Launches Te Aronui - Upholding Te Tiriti For The Benefit Of All"
-date: 2023-08-02
-source-url: https://www.scoop.co.nz/stories/ED2308/S00005/aut-launches-te-aronui-upholding-te-tiriti-for-the-benefit-of-all.htm
+title: AUT Launches Te Aronui - Upholding Te Tiriti For The Benefit Of All
+date: 2023-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00005/aut-launches-te-aronui-upholding-te-tiriti-for-the-benefit-of-all.htm
 author: aut-university
+permalink: >-
+  /archive/2023/08/02/aut-launches-te-aronui-upholding-te-tiriti-for-the-benefit-of-all/index.html
+layout: layout.njk
 ---
 AUT Launches Te Aronui - Upholding Te Tiriti For The Benefit Of All
 ===================================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-backs-down-and-consults-on-tahr-cull
-title: "Govt backs down and consults on tahr cull"
-date: 2018-10-02
-source-url: https://www.scoop.co.nz/stories/PA1810/S00011/govt-backs-down-and-consults-on-tahr-cull.htm
+title: Govt backs down and consults on tahr cull
+date: 2018-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00011/govt-backs-down-and-consults-on-tahr-cull.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/02/govt-backs-down-and-consults-on-tahr-cull/index.html
+layout: layout.njk
 ---
 Govt backs down and consults on tahr cull
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-plants-historic-gallipoli-pine-to-mark-anzac-centenary
-title: "UC plants historic Gallipoli pine to mark Anzac centenary"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/AK1604/S00473/uc-plants-historic-gallipoli-pine-to-mark-anzac-centenary.htm
+title: UC plants historic Gallipoli pine to mark Anzac centenary
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1604/S00473/uc-plants-historic-gallipoli-pine-to-mark-anzac-centenary.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/21/uc-plants-historic-gallipoli-pine-to-mark-anzac-centenary/index.html
+layout: layout.njk
 ---
 UC plants historic Gallipoli pine to mark Anzac centenary
 =========================================================

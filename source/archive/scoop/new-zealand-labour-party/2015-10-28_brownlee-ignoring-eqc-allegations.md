@@ -1,9 +1,12 @@
 ---
 slug: brownlee-ignoring-eqc-allegations
-title: "Brownlee ignoring EQC allegations"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/PA1510/S00478/brownlee-ignoring-eqc-allegations.htm
+title: Brownlee ignoring EQC allegations
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00478/brownlee-ignoring-eqc-allegations.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/28/brownlee-ignoring-eqc-allegations/index.html
+layout: layout.njk
 ---
 Brownlee ignoring EQC allegations
 =================================

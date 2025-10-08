@@ -1,9 +1,12 @@
 ---
 slug: time-to-break-the-cycle-of-madness
-title: "\"Time to Break the Cycle of Madness\""
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/PO1108/S00139/time-to-break-the-cycle-of-madness.htm
+title: '"Time to Break the Cycle of Madness"'
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00139/time-to-break-the-cycle-of-madness.htm
 author: new-zealand-first-party
+permalink: /archive/2011/08/10/time-to-break-the-cycle-of-madness/index.html
+layout: layout.njk
 ---
 “Time to Break the Cycle of Madness”
 ====================================

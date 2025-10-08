@@ -1,9 +1,12 @@
 ---
 slug: seymour-address-to-act-annual-conference-2017
-title: "Seymour: Address to ACT Annual Conference 2017"
-date: 2017-02-27
-source-url: https://www.scoop.co.nz/stories/PA1702/S00374/seymour-address-to-act-annual-conference-2017.htm
+title: 'Seymour: Address to ACT Annual Conference 2017'
+date: 2017-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00374/seymour-address-to-act-annual-conference-2017.htm
 author: act-new-zealand
+permalink: /archive/2017/02/27/seymour-address-to-act-annual-conference-2017/index.html
+layout: layout.njk
 ---
 Seymour: Address to ACT Annual Conference 2017
 ==============================================

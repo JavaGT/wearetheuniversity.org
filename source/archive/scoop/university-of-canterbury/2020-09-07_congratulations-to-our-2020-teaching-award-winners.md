@@ -1,9 +1,13 @@
 ---
 slug: congratulations-to-our-2020-teaching-award-winners
-title: "Congratulations To Our 2020 Teaching Award Winners"
-date: 2020-09-07
-source-url: https://www.scoop.co.nz/stories/ED2009/S00006/congratulations-to-our-2020-teaching-award-winners.htm
+title: Congratulations To Our 2020 Teaching Award Winners
+date: 2020-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00006/congratulations-to-our-2020-teaching-award-winners.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/07/congratulations-to-our-2020-teaching-award-winners/index.html
+layout: layout.njk
 ---
 Congratulations To Our 2020 Teaching Award Winners
 ==================================================

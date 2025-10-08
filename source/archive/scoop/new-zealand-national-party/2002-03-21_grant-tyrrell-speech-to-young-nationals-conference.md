@@ -1,9 +1,13 @@
 ---
 slug: grant-tyrrell-speech-to-young-nationals-conference
-title: "Grant Tyrrell Speech To Young Nationals Conference"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/PO0203/S00108/grant-tyrrell-speech-to-young-nationals-conference.htm
+title: Grant Tyrrell Speech To Young Nationals Conference
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00108/grant-tyrrell-speech-to-young-nationals-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/03/21/grant-tyrrell-speech-to-young-nationals-conference/index.html
+layout: layout.njk
 ---
 Grant Tyrrell Speech To Young Nationals Conference
 ==================================================

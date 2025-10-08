@@ -1,9 +1,12 @@
 ---
 slug: there-is-no-plan-for-fortress-new-zealand
-title: "There Is No Plan For Fortress New Zealand"
-date: 2021-02-25
-source-url: https://www.scoop.co.nz/stories/PO2102/S00211/there-is-no-plan-for-fortress-new-zealand.htm
+title: There Is No Plan For Fortress New Zealand
+date: 2021-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2102/S00211/there-is-no-plan-for-fortress-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2021/02/25/there-is-no-plan-for-fortress-new-zealand/index.html
+layout: layout.njk
 ---
 There Is No Plan For Fortress New Zealand
 =========================================

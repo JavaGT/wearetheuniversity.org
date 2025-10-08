@@ -1,9 +1,12 @@
 ---
 slug: uc-resurgence-to-exceed-pre-quake-levels
-title: "UC resurgence to exceed pre-quake levels"
-date: 2018-03-28
-source-url: https://www.scoop.co.nz/stories/ED1803/S00086/uc-resurgence-to-exceed-pre-quake-levels.htm
+title: UC resurgence to exceed pre-quake levels
+date: 2018-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00086/uc-resurgence-to-exceed-pre-quake-levels.htm
 author: university-of-canterbury
+permalink: /archive/2018/03/28/uc-resurgence-to-exceed-pre-quake-levels/index.html
+layout: layout.njk
 ---
 UC resurgence to exceed pre-quake levels
 ========================================

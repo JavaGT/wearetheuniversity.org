@@ -1,9 +1,12 @@
 ---
 slug: national-ethnic-affairs-spokesperson
-title: "National Ethnic Affairs Spokesperson"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/PA0305/S00545/national-ethnic-affairs-spokesperson.htm
+title: National Ethnic Affairs Spokesperson
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00545/national-ethnic-affairs-spokesperson.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/21/national-ethnic-affairs-spokesperson/index.html
+layout: layout.njk
 ---
 National Ethnic Affairs Spokesperson
 ====================================

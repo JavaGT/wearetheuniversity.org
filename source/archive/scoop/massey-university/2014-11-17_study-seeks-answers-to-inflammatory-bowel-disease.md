@@ -1,9 +1,13 @@
 ---
 slug: study-seeks-answers-to-inflammatory-bowel-disease
-title: "Study seeks answers to Inflammatory Bowel Disease"
-date: 2014-11-17
-source-url: https://www.scoop.co.nz/stories/ED1411/S00106/study-seeks-answers-to-inflammatory-bowel-disease.htm
+title: Study seeks answers to Inflammatory Bowel Disease
+date: 2014-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00106/study-seeks-answers-to-inflammatory-bowel-disease.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/17/study-seeks-answers-to-inflammatory-bowel-disease/index.html
+layout: layout.njk
 ---
 Study seeks answers to Inflammatory Bowel Disease
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: council-abuses-people-and-their-property-rights
-title: "Council Abuses People And Their Property Rights"
-date: 2000-07-11
-source-url: https://www.scoop.co.nz/stories/PA0007/S00165/council-abuses-people-and-their-property-rights.htm
+title: Council Abuses People And Their Property Rights
+date: 2000-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00165/council-abuses-people-and-their-property-rights.htm
 author: act-new-zealand
+permalink: /archive/2000/07/11/council-abuses-people-and-their-property-rights/index.html
+layout: layout.njk
 ---
 Council Abuses People And Their Property Rights
 ===============================================

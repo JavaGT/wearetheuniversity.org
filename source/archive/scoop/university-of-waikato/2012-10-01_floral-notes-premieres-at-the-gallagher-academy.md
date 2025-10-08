@@ -1,9 +1,12 @@
 ---
 slug: floral-notes-premieres-at-the-gallagher-academy
-title: "Floral Notes premieres at the Gallagher Academy"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/AK1210/S00010/floral-notes-premieres-at-the-gallagher-academy.htm
+title: Floral Notes premieres at the Gallagher Academy
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00010/floral-notes-premieres-at-the-gallagher-academy.htm
 author: university-of-waikato
+permalink: /archive/2012/10/01/floral-notes-premieres-at-the-gallagher-academy/index.html
+layout: layout.njk
 ---
 Floral Notes premieres at the Gallagher Academy
 ===============================================

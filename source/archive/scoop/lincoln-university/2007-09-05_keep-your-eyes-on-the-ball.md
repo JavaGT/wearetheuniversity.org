@@ -1,9 +1,11 @@
 ---
 slug: keep-your-eyes-on-the-ball
-title: "Keep your eyes on the ball"
-date: 2007-09-05
+title: Keep your eyes on the ball
+date: 2007-09-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0709/S00015/keep-your-eyes-on-the-ball.htm
 author: lincoln-university
+permalink: /archive/2007/09/05/keep-your-eyes-on-the-ball/index.html
+layout: layout.njk
 ---
 Keep your eyes on the ball
 ==========================

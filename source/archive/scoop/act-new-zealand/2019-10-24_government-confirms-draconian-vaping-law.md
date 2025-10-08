@@ -1,9 +1,12 @@
 ---
 slug: government-confirms-draconian-vaping-law
-title: "Government confirms draconian vaping law"
-date: 2019-10-24
-source-url: https://www.scoop.co.nz/stories/PA1910/S00202/government-confirms-draconian-vaping-law.htm
+title: Government confirms draconian vaping law
+date: 2019-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00202/government-confirms-draconian-vaping-law.htm
 author: act-new-zealand
+permalink: /archive/2019/10/24/government-confirms-draconian-vaping-law/index.html
+layout: layout.njk
 ---
 Government confirms draconian vaping law
 ========================================

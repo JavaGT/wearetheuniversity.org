@@ -1,9 +1,11 @@
 ---
 slug: ctu-appoints-new-economist
-title: "CTU appoints new economist"
-date: 2009-04-02
+title: CTU appoints new economist
+date: 2009-04-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0904/S00019/ctu-appoints-new-economist.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/04/02/ctu-appoints-new-economist/index.html
+layout: layout.njk
 ---
 CTU appoints new economist
 ==========================

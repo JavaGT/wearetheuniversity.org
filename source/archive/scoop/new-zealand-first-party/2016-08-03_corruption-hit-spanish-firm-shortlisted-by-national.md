@@ -1,9 +1,13 @@
 ---
 slug: corruption-hit-spanish-firm-shortlisted-by-national
-title: "Corruption Hit Spanish Firm Shortlisted by National"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/PA1608/S00061/corruption-hit-spanish-firm-shortlisted-by-national.htm
+title: Corruption Hit Spanish Firm Shortlisted by National
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00061/corruption-hit-spanish-firm-shortlisted-by-national.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/03/corruption-hit-spanish-firm-shortlisted-by-national/index.html
+layout: layout.njk
 ---
 Corruption Hit Spanish Firm Shortlisted by National
 ===================================================

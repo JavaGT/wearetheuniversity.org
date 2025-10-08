@@ -1,9 +1,12 @@
 ---
 slug: geoff-cochrane-wins-janet-frame-poetry-award
-title: "Geoff Cochrane Wins Janet Frame Poetry Award"
-date: 2009-08-28
-source-url: https://www.scoop.co.nz/stories/CU0908/S00453/geoff-cochrane-wins-janet-frame-poetry-award.htm
+title: Geoff Cochrane Wins Janet Frame Poetry Award
+date: 2009-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00453/geoff-cochrane-wins-janet-frame-poetry-award.htm
 author: victoria-university-press
+permalink: /archive/2009/08/28/geoff-cochrane-wins-janet-frame-poetry-award/index.html
+layout: layout.njk
 ---
 Geoff Cochrane Wins Janet Frame Poetry Award
 ============================================

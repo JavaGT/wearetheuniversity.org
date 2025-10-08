@@ -1,9 +1,12 @@
 ---
 slug: gangs-and-organised-crime-bill-third-reading
-title: "Gangs and Organised Crime Bill : Third Reading"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/PA0910/S00422/gangs-and-organised-crime-bill-third-reading.htm
+title: 'Gangs and Organised Crime Bill : Third Reading'
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00422/gangs-and-organised-crime-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2009/10/28/gangs-and-organised-crime-bill-third-reading/index.html
+layout: layout.njk
 ---
 Gangs and Organised Crime Bill : Third Reading
 ==============================================

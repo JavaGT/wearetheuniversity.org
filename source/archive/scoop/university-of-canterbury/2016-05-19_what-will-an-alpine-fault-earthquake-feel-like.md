@@ -1,9 +1,12 @@
 ---
 slug: what-will-an-alpine-fault-earthquake-feel-like
-title: "What will an Alpine Fault earthquake feel like?"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/ED1605/S00079/what-will-an-alpine-fault-earthquake-feel-like.htm
+title: What will an Alpine Fault earthquake feel like?
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00079/what-will-an-alpine-fault-earthquake-feel-like.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/19/what-will-an-alpine-fault-earthquake-feel-like/index.html
+layout: layout.njk
 ---
 What will an Alpine Fault earthquake feel like?
 ===============================================

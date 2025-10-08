@@ -1,9 +1,12 @@
 ---
 slug: alcohol-use-common-in-tv-music-videos
-title: "Alcohol use common in TV music videos"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/ED1206/S00081/alcohol-use-common-in-tv-music-videos.htm
+title: Alcohol use common in TV music videos
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00081/alcohol-use-common-in-tv-music-videos.htm
 author: university-of-otago
+permalink: /archive/2012/06/19/alcohol-use-common-in-tv-music-videos/index.html
+layout: layout.njk
 ---
 Alcohol use common in TV music videos
 =====================================

@@ -1,8 +1,12 @@
 ---
 slug: tiring-the-legs-also-tires-the-eyes-the-remedy-is-caffeine
-title: "Tiring the legs also tires the eyes – the remedy is caffeine"
-date: 2016-05-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/tiring-the-legs-also-tires-the-eyes-the-remedy-is-caffeine.html
+title: Tiring the legs also tires the eyes – the remedy is caffeine
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/tiring-the-legs-also-tires-the-eyes-the-remedy-is-caffeine.html
+permalink: >-
+  /archive/2016/05/26/tiring-the-legs-also-tires-the-eyes-the-remedy-is-caffeine/index.html
+layout: layout.njk
 ---
 Tiring the legs also tires the eyes – the remedy is caffeine
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-convene-for-next-steps
-title: "Student leaders convene for next steps"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/ED1009/S00130/student-leaders-convene-for-next-steps.htm
+title: Student leaders convene for next steps
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00130/student-leaders-convene-for-next-steps.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/09/28/student-leaders-convene-for-next-steps/index.html
+layout: layout.njk
 ---
 Student leaders convene for next steps
 ======================================

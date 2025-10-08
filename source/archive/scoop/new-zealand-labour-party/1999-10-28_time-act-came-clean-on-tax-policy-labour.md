@@ -1,9 +1,12 @@
 ---
 slug: time-act-came-clean-on-tax-policy-labour
-title: "Time Act came clean on tax policy - Labour"
-date: 1999-10-28
-source-url: https://www.scoop.co.nz/stories/PA9910/S00649/time-act-came-clean-on-tax-policy-labour.htm
+title: Time Act came clean on tax policy - Labour
+date: 1999-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00649/time-act-came-clean-on-tax-policy-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/28/time-act-came-clean-on-tax-policy-labour/index.html
+layout: layout.njk
 ---
 Time Act came clean on tax policy - Labour
 ==========================================

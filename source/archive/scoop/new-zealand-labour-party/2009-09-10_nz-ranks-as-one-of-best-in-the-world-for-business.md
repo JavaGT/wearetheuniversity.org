@@ -1,9 +1,13 @@
 ---
 slug: nz-ranks-as-one-of-best-in-the-world-for-business
-title: "NZ ranks as one of best in the world  for business"
-date: 2009-09-10
-source-url: https://www.scoop.co.nz/stories/PA0909/S00129/nz-ranks-as-one-of-best-in-the-world-for-business.htm
+title: NZ ranks as one of best in the world  for business
+date: 2009-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00129/nz-ranks-as-one-of-best-in-the-world-for-business.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/10/nz-ranks-as-one-of-best-in-the-world-for-business/index.html
+layout: layout.njk
 ---
 NZ ranks as one of best in the world for business
 =================================================

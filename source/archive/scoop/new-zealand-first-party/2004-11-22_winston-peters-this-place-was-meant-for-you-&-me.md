@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-this-place-was-meant-for-you-&-me
-title: "Winston Peters: This place was meant for you & me"
-date: 2004-11-22
-source-url: https://www.scoop.co.nz/stories/PA0411/S00456/winston-peters-this-place-was-meant-for-you-me.htm
+title: 'Winston Peters: This place was meant for you & me'
+date: 2004-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00456/winston-peters-this-place-was-meant-for-you-me.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/22/winston-peters-this-place-was-meant-for-you-/index.html
+layout: layout.njk
 ---
 Winston Peters: This place was meant for you & me
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: reason-trumps-charter-schools-rhetoric
-title: "Reason trumps charter schools rhetoric"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/PA1304/S00350/reason-trumps-charter-schools-rhetoric.htm
+title: Reason trumps charter schools rhetoric
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00350/reason-trumps-charter-schools-rhetoric.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/18/reason-trumps-charter-schools-rhetoric/index.html
+layout: layout.njk
 ---
 Reason trumps charter schools rhetoric
 ======================================

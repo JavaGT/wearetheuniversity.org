@@ -1,9 +1,12 @@
 ---
 slug: time-to-focus-on-local-issues
-title: "Time to focus on local issues"
-date: 2009-05-21
-source-url: https://www.scoop.co.nz/stories/PA0905/S00370/time-to-focus-on-local-issues.htm
+title: Time to focus on local issues
+date: 2009-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00370/time-to-focus-on-local-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/21/time-to-focus-on-local-issues/index.html
+layout: layout.njk
 ---
 Time to focus on local issues
 =============================

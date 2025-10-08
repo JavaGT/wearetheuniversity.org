@@ -1,9 +1,11 @@
 ---
 slug: 10th-by-2010-richard-prebble
-title: "10th by 2010  --- Richard Prebble"
-date: 2001-03-12
+title: 10th by 2010  --- Richard Prebble
+date: 2001-03-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0103/S00159/10th-by-2010-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2001/03/12/10th-by-2010-richard-prebble/index.html
+layout: layout.njk
 ---
 10th by 2010 --- Richard Prebble
 ================================

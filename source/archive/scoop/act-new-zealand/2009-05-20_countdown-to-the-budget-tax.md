@@ -1,9 +1,11 @@
 ---
 slug: countdown-to-the-budget-tax
-title: "Countdown To The Budget - Tax"
-date: 2009-05-20
+title: Countdown To The Budget - Tax
+date: 2009-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00367/countdown-to-the-budget-tax.htm
 author: act-new-zealand
+permalink: /archive/2009/05/20/countdown-to-the-budget-tax/index.html
+layout: layout.njk
 ---
 Countdown To The Budget - Tax
 =============================

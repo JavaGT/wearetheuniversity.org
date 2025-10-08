@@ -1,9 +1,12 @@
 ---
 slug: nz-childrens-iodine-status-still-far-from-ideal
-title: "NZ children’s iodine status still far from ideal"
-date: 2012-08-07
-source-url: https://www.scoop.co.nz/stories/GE1208/S00026/nz-childrens-iodine-status-still-far-from-ideal.htm
+title: NZ children’s iodine status still far from ideal
+date: 2012-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1208/S00026/nz-childrens-iodine-status-still-far-from-ideal.htm
 author: university-of-otago
+permalink: /archive/2012/08/07/nz-childrens-iodine-status-still-far-from-ideal/index.html
+layout: layout.njk
 ---
 NZ children’s iodine status still far from ideal
 ================================================

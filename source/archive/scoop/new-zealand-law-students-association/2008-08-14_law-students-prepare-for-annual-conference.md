@@ -1,9 +1,12 @@
 ---
 slug: law-students-prepare-for-annual-conference
-title: "Law Students Prepare For Annual Conference"
-date: 2008-08-14
-source-url: https://www.scoop.co.nz/stories/ED0808/S00030/law-students-prepare-for-annual-conference.htm
+title: Law Students Prepare For Annual Conference
+date: 2008-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00030/law-students-prepare-for-annual-conference.htm
 author: new-zealand-law-students-association
+permalink: /archive/2008/08/14/law-students-prepare-for-annual-conference/index.html
+layout: layout.njk
 ---
 Law Students Prepare For Annual Conference
 ==========================================

@@ -1,9 +1,16 @@
 ---
-slug: massey-university-students-re-engineered-drugtesting-kit-invention-through-to-the-final-heat-of-james-dyson-award
-title: "Massey University Student’s Re-engineered DrugTesting Kit Invention Through To The Final Heat Of  James Dyson Award"
-date: 2023-10-18
-source-url: https://www.scoop.co.nz/stories/SC2310/S00031/massey-university-students-re-engineered-drugtesting-kit-invention-through-to-the-final-heat-of-james-dyson-award.htm
+slug: >-
+  massey-university-students-re-engineered-drugtesting-kit-invention-through-to-the-final-heat-of-james-dyson-award
+title: >-
+  Massey University Student’s Re-engineered DrugTesting Kit Invention Through To
+  The Final Heat Of  James Dyson Award
+date: 2023-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2310/S00031/massey-university-students-re-engineered-drugtesting-kit-invention-through-to-the-final-heat-of-james-dyson-award.htm
 author: massey-university
+permalink: >-
+  /archive/2023/10/18/massey-university-students-re-engineered-drugtesting-kit-invention-through-to-the-final-heat-of-james-dyson-award/index.html
+layout: layout.njk
 ---
 Massey University Student’s Re-engineered DrugTesting Kit Invention Through To The Final Heat Of James Dyson Award
 ==================================================================================================================

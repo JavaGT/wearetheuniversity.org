@@ -1,9 +1,12 @@
 ---
 slug: minister-responsible-for-waiver-of-standards
-title: "Minister Responsible For Waiver Of Standards"
-date: 2002-01-31
-source-url: https://www.scoop.co.nz/stories/PA0201/S00235/minister-responsible-for-waiver-of-standards.htm
+title: Minister Responsible For Waiver Of Standards
+date: 2002-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00235/minister-responsible-for-waiver-of-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/31/minister-responsible-for-waiver-of-standards/index.html
+layout: layout.njk
 ---
 Minister Responsible For Waiver Of Standards
 ============================================

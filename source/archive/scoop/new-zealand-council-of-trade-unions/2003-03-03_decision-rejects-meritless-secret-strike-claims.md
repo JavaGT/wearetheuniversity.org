@@ -1,9 +1,12 @@
 ---
 slug: decision-rejects-meritless-secret-strike-claims
-title: "Decision Rejects Meritless \"Secret Strike\" Claims"
-date: 2003-03-03
-source-url: https://www.scoop.co.nz/stories/PO0303/S00007/decision-rejects-meritless-secret-strike-claims.htm
+title: Decision Rejects Meritless "Secret Strike" Claims
+date: 2003-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00007/decision-rejects-meritless-secret-strike-claims.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/03/03/decision-rejects-meritless-secret-strike-claims/index.html
+layout: layout.njk
 ---
 Decision Rejects Meritless “Secret Strike” Claims
 =================================================

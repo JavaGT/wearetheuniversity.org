@@ -1,9 +1,12 @@
 ---
 slug: national-education-30-august-2006
-title: "National Education - 30 August 2006"
-date: 2006-09-01
-source-url: https://www.scoop.co.nz/stories/PA0609/S00028/national-education-30-august-2006.htm
+title: National Education - 30 August 2006
+date: 2006-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00028/national-education-30-august-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/01/national-education-30-august-2006/index.html
+layout: layout.njk
 ---
 National Education - 30 August 2006
 ===================================

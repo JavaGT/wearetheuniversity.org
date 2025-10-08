@@ -1,9 +1,13 @@
 ---
 slug: challenge-to-accelerate-innovation-in-the-food-fibre-and-agritech-sector
-title: "Challenge To Accelerate Innovation In The Food, Fibre And Agritech Sector"
-date: 2020-11-30
-source-url: https://www.scoop.co.nz/stories/SC2011/S00054/challenge-to-accelerate-innovation-in-the-food-fibre-and-agritech-sector.htm
+title: Challenge To Accelerate Innovation In The Food, Fibre And Agritech Sector
+date: 2020-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00054/challenge-to-accelerate-innovation-in-the-food-fibre-and-agritech-sector.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/30/challenge-to-accelerate-innovation-in-the-food-fibre-and-agritech-sector/index.html
+layout: layout.njk
 ---
 Challenge To Accelerate Innovation In The Food, Fibre And Agritech Sector
 =========================================================================

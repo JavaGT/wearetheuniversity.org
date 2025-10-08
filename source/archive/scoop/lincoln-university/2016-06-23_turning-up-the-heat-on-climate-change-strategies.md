@@ -1,9 +1,13 @@
 ---
 slug: turning-up-the-heat-on-climate-change-strategies
-title: "Turning up the heat on climate change strategies"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PO1606/S00279/turning-up-the-heat-on-climate-change-strategies.htm
+title: Turning up the heat on climate change strategies
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00279/turning-up-the-heat-on-climate-change-strategies.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/06/23/turning-up-the-heat-on-climate-change-strategies/index.html
+layout: layout.njk
 ---
 Turning up the heat on climate change strategies
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-awareness-needed-of-risks-of-concussion
-title: "More awareness needed of risks of concussion"
-date: 2006-06-15
-source-url: https://www.scoop.co.nz/stories/GE0606/S00065/more-awareness-needed-of-risks-of-concussion.htm
+title: More awareness needed of risks of concussion
+date: 2006-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0606/S00065/more-awareness-needed-of-risks-of-concussion.htm
 author: massey-university
+permalink: /archive/2006/06/15/more-awareness-needed-of-risks-of-concussion/index.html
+layout: layout.njk
 ---
 More awareness needed of risks of concussion
 ============================================

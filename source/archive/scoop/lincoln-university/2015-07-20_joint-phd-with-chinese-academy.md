@@ -1,9 +1,12 @@
 ---
 slug: joint-phd-with-chinese-academy
-title: "Joint PhD with Chinese Academy"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/ED1507/S00086/joint-phd-with-chinese-academy.htm
+title: Joint PhD with Chinese Academy
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00086/joint-phd-with-chinese-academy.htm
 author: lincoln-university
+permalink: /archive/2015/07/20/joint-phd-with-chinese-academy/index.html
+layout: layout.njk
 ---
 Joint PhD with Chinese Academy
 ==============================

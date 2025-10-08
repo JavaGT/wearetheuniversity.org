@@ -1,9 +1,12 @@
 ---
 slug: keeping-wellington-on-the-small-screen
-title: "Keeping Wellington on the small screen"
-date: 2003-10-28
-source-url: https://www.scoop.co.nz/stories/ED0310/S00106/keeping-wellington-on-the-small-screen.htm
+title: Keeping Wellington on the small screen
+date: 2003-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00106/keeping-wellington-on-the-small-screen.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/28/keeping-wellington-on-the-small-screen/index.html
+layout: layout.njk
 ---
 Keeping Wellington on the small screen
 ======================================

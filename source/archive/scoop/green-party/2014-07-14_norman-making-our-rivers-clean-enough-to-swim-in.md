@@ -1,9 +1,13 @@
 ---
 slug: norman-making-our-rivers-clean-enough-to-swim-in
-title: "Norman: Making our rivers clean enough to swim in"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00249/norman-making-our-rivers-clean-enough-to-swim-in.htm
+title: 'Norman: Making our rivers clean enough to swim in'
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00249/norman-making-our-rivers-clean-enough-to-swim-in.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/14/norman-making-our-rivers-clean-enough-to-swim-in/index.html
+layout: layout.njk
 ---
 Norman: Making our rivers clean enough to swim in
 =================================================

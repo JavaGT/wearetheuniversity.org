@@ -1,9 +1,12 @@
 ---
 slug: vsm-will-free-students-from-being-held-hostage
-title: "VSM Will Free Students From Being Held Hostage"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/PA1011/S00205/vsm-will-free-students-from-being-held-hostage.htm
+title: VSM Will Free Students From Being Held Hostage
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00205/vsm-will-free-students-from-being-held-hostage.htm
 author: act-new-zealand
+permalink: /archive/2010/11/11/vsm-will-free-students-from-being-held-hostage/index.html
+layout: layout.njk
 ---
 VSM Will Free Students From Being Held Hostage
 ==============================================

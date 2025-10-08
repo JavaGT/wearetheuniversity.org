@@ -1,9 +1,12 @@
 ---
 slug: fbt-reality-bites-small-businesses
-title: "FBT Reality Bites Small Businesses"
-date: 2000-07-19
-source-url: https://www.scoop.co.nz/stories/PA0007/S00302/fbt-reality-bites-small-businesses.htm
+title: FBT Reality Bites Small Businesses
+date: 2000-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00302/fbt-reality-bites-small-businesses.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/19/fbt-reality-bites-small-businesses/index.html
+layout: layout.njk
 ---
 FBT Reality Bites Small Businesses
 ==================================

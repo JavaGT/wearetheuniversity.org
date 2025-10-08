@@ -1,9 +1,12 @@
 ---
 slug: time-to-revisit-fairness-in-nz-health-system
-title: "Time To Revisit Fairness In NZ Health System"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/GE0905/S00101/time-to-revisit-fairness-in-nz-health-system.htm
+title: Time To Revisit Fairness In NZ Health System
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0905/S00101/time-to-revisit-fairness-in-nz-health-system.htm
 author: university-of-otago
+permalink: /archive/2009/05/13/time-to-revisit-fairness-in-nz-health-system/index.html
+layout: layout.njk
 ---
 Time To Revisit Fairness In NZ Health System
 ============================================

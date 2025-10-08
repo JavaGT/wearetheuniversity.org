@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-to-maori-law-students-association
-title: "Turia Speech to Maori Law Students' Association"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PA1009/S00433/turia-speech-to-maori-law-students-association.htm
+title: Turia Speech to Maori Law Students' Association
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00433/turia-speech-to-maori-law-students-association.htm
 author: te-pati-maori
+permalink: /archive/2010/09/29/turia-speech-to-maori-law-students-association/index.html
+layout: layout.njk
 ---
 Turia Speech to Maori Law Students' Association
 ===============================================

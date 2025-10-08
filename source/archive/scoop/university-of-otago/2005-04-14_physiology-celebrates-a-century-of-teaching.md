@@ -1,9 +1,12 @@
 ---
 slug: physiology-celebrates-a-century-of-teaching
-title: "Physiology celebrates a century of teaching"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/SC0504/S00047/physiology-celebrates-a-century-of-teaching.htm
+title: Physiology celebrates a century of teaching
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0504/S00047/physiology-celebrates-a-century-of-teaching.htm
 author: university-of-otago
+permalink: /archive/2005/04/14/physiology-celebrates-a-century-of-teaching/index.html
+layout: layout.njk
 ---
 Physiology celebrates a century of teaching
 ===========================================

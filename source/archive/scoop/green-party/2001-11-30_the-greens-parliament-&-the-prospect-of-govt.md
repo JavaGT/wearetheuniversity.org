@@ -1,9 +1,12 @@
 ---
 slug: the-greens-parliament-&-the-prospect-of-govt
-title: "The Greens, Parliament & The Prospect Of Govt"
-date: 2001-11-30
-source-url: https://www.scoop.co.nz/stories/PA0111/S00524/the-greens-parliament-the-prospect-of-govt.htm
+title: The Greens, Parliament & The Prospect Of Govt
+date: 2001-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00524/the-greens-parliament-the-prospect-of-govt.htm
 author: green-party
+permalink: /archive/2001/11/30/the-greens-parliament-/index.html
+layout: layout.njk
 ---
 The Greens, Parliament & The Prospect Of Govt
 =============================================

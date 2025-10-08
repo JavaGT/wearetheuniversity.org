@@ -1,9 +1,12 @@
 ---
 slug: devil-lurks-in-the-educational-detail-nz-first
-title: "Devil Lurks in the Educational Detail – NZ First"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/PA1205/S00273/devil-lurks-in-the-educational-detail-nz-first.htm
+title: Devil Lurks in the Educational Detail – NZ First
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00273/devil-lurks-in-the-educational-detail-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/16/devil-lurks-in-the-educational-detail-nz-first/index.html
+layout: layout.njk
 ---
 Devil Lurks in the Educational Detail – NZ First
 ================================================

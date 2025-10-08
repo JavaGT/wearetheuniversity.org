@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-art-on-the-streets-of-christchurch
-title: "UC research into art on the streets of Christchurch"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/AK1304/S00127/uc-research-into-art-on-the-streets-of-christchurch.htm
+title: UC research into art on the streets of Christchurch
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1304/S00127/uc-research-into-art-on-the-streets-of-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/05/uc-research-into-art-on-the-streets-of-christchurch/index.html
+layout: layout.njk
 ---
 UC research into art on the streets of Christchurch
 ===================================================

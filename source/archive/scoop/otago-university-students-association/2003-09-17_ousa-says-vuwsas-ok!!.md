@@ -1,9 +1,11 @@
 ---
 slug: ousa-says-vuwsas-ok!!
-title: "OUSA says VUWSA's OK!!"
-date: 2003-09-17
+title: OUSA says VUWSA's OK!!
+date: 2003-09-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00069/ousa-says-vuwsas-ok.htm
 author: otago-university-students-association
+permalink: /archive/2003/09/17/ousa-says-vuwsas-ok/index.html
+layout: layout.njk
 ---
 OUSA says VUWSA's OK!!
 ======================

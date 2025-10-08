@@ -1,9 +1,16 @@
 ---
-slug: branko-marcetic-labours-pay-freeze-isnt-just-a-betrayal-of-workers-its-a-rejection-of-mainstream-economic-thinking
-title: "Branko Marcetic: Labour’s Pay Freeze Isn’t Just A Betrayal Of Workers – It’s A Rejection Of Mainstream Economic Thinking"
-date: 2021-05-10
-source-url: https://www.scoop.co.nz/stories/AK2105/S00197/branko-marcetic-labours-pay-freeze-isnt-just-a-betrayal-of-workers-its-a-rejection-of-mainstream-economic-thinking.htm
+slug: >-
+  branko-marcetic-labours-pay-freeze-isnt-just-a-betrayal-of-workers-its-a-rejection-of-mainstream-economic-thinking
+title: >-
+  Branko Marcetic: Labour’s Pay Freeze Isn’t Just A Betrayal Of Workers – It’s A
+  Rejection Of Mainstream Economic Thinking
+date: 2021-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2105/S00197/branko-marcetic-labours-pay-freeze-isnt-just-a-betrayal-of-workers-its-a-rejection-of-mainstream-economic-thinking.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2021/05/10/branko-marcetic-labours-pay-freeze-isnt-just-a-betrayal-of-workers-its-a-rejection-of-mainstream-economic-thinking/index.html
+layout: layout.njk
 ---
 Branko Marcetic: Labour’s Pay Freeze Isn’t Just A Betrayal Of Workers – It’s A Rejection Of Mainstream Economic Thinking
 ========================================================================================================================

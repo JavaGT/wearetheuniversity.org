@@ -1,9 +1,13 @@
 ---
 slug: national-will-rewrite-the-curriculum-to-set-kids-up-for-success
-title: "National Will Rewrite The Curriculum To Set Kids Up For Success"
-date: 2023-03-22
-source-url: https://www.scoop.co.nz/stories/PA2303/S00183/national-will-rewrite-the-curriculum-to-set-kids-up-for-success.htm
+title: National Will Rewrite The Curriculum To Set Kids Up For Success
+date: 2023-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00183/national-will-rewrite-the-curriculum-to-set-kids-up-for-success.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/22/national-will-rewrite-the-curriculum-to-set-kids-up-for-success/index.html
+layout: layout.njk
 ---
 National Will Rewrite The Curriculum To Set Kids Up For Success
 ===============================================================

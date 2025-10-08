@@ -1,9 +1,13 @@
 ---
 slug: study-pods-and-more-for-albany-library-extension
-title: "Study pods and more for Albany library extension"
-date: 2009-09-18
-source-url: https://www.scoop.co.nz/stories/ED0909/S00066/study-pods-and-more-for-albany-library-extension.htm
+title: Study pods and more for Albany library extension
+date: 2009-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00066/study-pods-and-more-for-albany-library-extension.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/18/study-pods-and-more-for-albany-library-extension/index.html
+layout: layout.njk
 ---
 Study pods and more for Albany library extension
 ================================================

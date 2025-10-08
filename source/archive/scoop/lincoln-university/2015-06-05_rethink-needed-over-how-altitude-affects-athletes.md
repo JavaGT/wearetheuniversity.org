@@ -1,9 +1,13 @@
 ---
 slug: rethink-needed-over-how-altitude-affects-athletes
-title: "Rethink needed over how altitude affects athletes"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/SC1506/S00026/rethink-needed-over-how-altitude-affects-athletes.htm
+title: Rethink needed over how altitude affects athletes
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00026/rethink-needed-over-how-altitude-affects-athletes.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/06/05/rethink-needed-over-how-altitude-affects-athletes/index.html
+layout: layout.njk
 ---
 Rethink needed over how altitude affects athletes
 =================================================

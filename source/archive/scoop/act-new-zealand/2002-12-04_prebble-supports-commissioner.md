@@ -1,9 +1,12 @@
 ---
 slug: prebble-supports-commissioner
-title: "Prebble Supports Commissioner"
-date: 2002-12-04
-source-url: https://www.scoop.co.nz/stories/PA0212/S00099/prebble-supports-commissioner.htm
+title: Prebble Supports Commissioner
+date: 2002-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00099/prebble-supports-commissioner.htm
 author: act-new-zealand
+permalink: /archive/2002/12/04/prebble-supports-commissioner/index.html
+layout: layout.njk
 ---
 Prebble Supports Commissioner
 =============================

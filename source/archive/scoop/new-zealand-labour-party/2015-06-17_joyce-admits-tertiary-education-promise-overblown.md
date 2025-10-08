@@ -1,9 +1,13 @@
 ---
 slug: joyce-admits-tertiary-education-promise-overblown
-title: "Joyce admits tertiary education promise overblown"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00286/joyce-admits-tertiary-education-promise-overblown.htm
+title: Joyce admits tertiary education promise overblown
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00286/joyce-admits-tertiary-education-promise-overblown.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/17/joyce-admits-tertiary-education-promise-overblown/index.html
+layout: layout.njk
 ---
 Joyce admits tertiary education promise overblown
 =================================================

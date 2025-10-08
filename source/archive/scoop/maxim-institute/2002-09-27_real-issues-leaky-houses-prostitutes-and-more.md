@@ -1,9 +1,12 @@
 ---
 slug: real-issues-leaky-houses-prostitutes-and-more
-title: "Real Issues: leaky houses - prostitutes and more.."
-date: 2002-09-27
-source-url: https://www.scoop.co.nz/stories/PO0209/S00160/real-issues-leaky-houses-prostitutes-and-more.htm
+title: 'Real Issues: leaky houses - prostitutes and more..'
+date: 2002-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0209/S00160/real-issues-leaky-houses-prostitutes-and-more.htm
 author: maxim-institute
+permalink: /archive/2002/09/27/real-issues-leaky-houses-prostitutes-and-more/index.html
+layout: layout.njk
 ---
 Real Issues: leaky houses - prostitutes and more..
 ==================================================

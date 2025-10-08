@@ -1,9 +1,13 @@
 ---
 slug: hydro-spills-prove-need-for-extra-storage-expert
-title: "Hydro spills prove need for extra storage - expert"
-date: 2009-01-09
-source-url: https://www.scoop.co.nz/stories/ED0901/S00009/hydro-spills-prove-need-for-extra-storage-expert.htm
+title: Hydro spills prove need for extra storage - expert
+date: 2009-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00009/hydro-spills-prove-need-for-extra-storage-expert.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/01/09/hydro-spills-prove-need-for-extra-storage-expert/index.html
+layout: layout.njk
 ---
 Hydro spills prove need for extra storage - expert
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-quadcopter-helping-in-the-christchurch-rebuild
-title: "UC quadcopter helping in the Christchurch rebuild"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/AK1402/S00677/uc-quadcopter-helping-in-the-christchurch-rebuild.htm
+title: UC quadcopter helping in the Christchurch rebuild
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00677/uc-quadcopter-helping-in-the-christchurch-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/28/uc-quadcopter-helping-in-the-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 UC quadcopter helping in the Christchurch rebuild
 =================================================

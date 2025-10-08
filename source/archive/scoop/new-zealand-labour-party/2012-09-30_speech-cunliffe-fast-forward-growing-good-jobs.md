@@ -1,9 +1,12 @@
 ---
 slug: speech-cunliffe-fast-forward-growing-good-jobs
-title: "Speech: Cunliffe - Fast Forward: Growing Good Jobs"
-date: 2012-09-30
-source-url: https://www.scoop.co.nz/stories/PA1209/S00472/speech-cunliffe-fast-forward-growing-good-jobs.htm
+title: 'Speech: Cunliffe - Fast Forward: Growing Good Jobs'
+date: 2012-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00472/speech-cunliffe-fast-forward-growing-good-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/30/speech-cunliffe-fast-forward-growing-good-jobs/index.html
+layout: layout.njk
 ---
 Speech: Cunliffe - Fast Forward: Growing Good Jobs
 ==================================================

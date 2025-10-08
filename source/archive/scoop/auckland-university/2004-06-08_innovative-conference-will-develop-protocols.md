@@ -1,9 +1,12 @@
 ---
 slug: innovative-conference-will-develop-protocols
-title: "Innovative conference will develop protocols"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00035/innovative-conference-will-develop-protocols.htm
+title: Innovative conference will develop protocols
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00035/innovative-conference-will-develop-protocols.htm
 author: auckland-university
+permalink: /archive/2004/06/08/innovative-conference-will-develop-protocols/index.html
+layout: layout.njk
 ---
 Innovative conference will develop protocols
 ============================================

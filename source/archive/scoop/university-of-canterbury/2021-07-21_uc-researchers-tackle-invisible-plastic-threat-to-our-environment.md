@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-tackle-invisible-plastic-threat-to-our-environment
-title: "UC Researchers Tackle ‘invisible’ Plastic Threat To Our Environment"
-date: 2021-07-21
-source-url: https://www.scoop.co.nz/stories/SC2107/S00058/uc-researchers-tackle-invisible-plastic-threat-to-our-environment.htm
+title: UC Researchers Tackle ‘invisible’ Plastic Threat To Our Environment
+date: 2021-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00058/uc-researchers-tackle-invisible-plastic-threat-to-our-environment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/21/uc-researchers-tackle-invisible-plastic-threat-to-our-environment/index.html
+layout: layout.njk
 ---
 UC Researchers Tackle ‘invisible’ Plastic Threat To Our Environment
 ===================================================================

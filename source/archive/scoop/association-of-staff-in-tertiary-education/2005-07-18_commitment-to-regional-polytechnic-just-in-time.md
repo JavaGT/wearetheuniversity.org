@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-regional-polytechnic-just-in-time
-title: "Commitment to Regional Polytechnic \"Just in Time\""
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/ED0507/S00064/commitment-to-regional-polytechnic-just-in-time.htm
+title: Commitment to Regional Polytechnic "Just in Time"
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00064/commitment-to-regional-polytechnic-just-in-time.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/07/18/commitment-to-regional-polytechnic-just-in-time/index.html
+layout: layout.njk
 ---
 Commitment to Regional Polytechnic “Just in Time”
 =================================================

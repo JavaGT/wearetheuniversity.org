@@ -1,9 +1,12 @@
 ---
 slug: immigrant-holidays-at-taxpayers-expense
-title: "Immigrant Holidays At Taxpayers’ Expense"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/PA0309/S00431/immigrant-holidays-at-taxpayers-expense.htm
+title: Immigrant Holidays At Taxpayers’ Expense
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00431/immigrant-holidays-at-taxpayers-expense.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/18/immigrant-holidays-at-taxpayers-expense/index.html
+layout: layout.njk
 ---
 Immigrant Holidays At Taxpayers’ Expense
 ========================================

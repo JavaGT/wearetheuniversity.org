@@ -1,9 +1,13 @@
 ---
 slug: selling-our-dairy-cows-to-china-is-economic-treason
-title: "Selling our dairy cows to China is economic treason"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/PA1608/S00335/selling-our-dairy-cows-to-china-is-economic-treason.htm
+title: Selling our dairy cows to China is economic treason
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00335/selling-our-dairy-cows-to-china-is-economic-treason.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/18/selling-our-dairy-cows-to-china-is-economic-treason/index.html
+layout: layout.njk
 ---
 Selling our dairy cows to China is economic treason
 ===================================================

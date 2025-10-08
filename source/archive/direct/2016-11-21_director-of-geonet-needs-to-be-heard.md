@@ -1,11 +1,13 @@
 ---
-title: "Director of GeoNet needs to be heard"
+title: Director of GeoNet needs to be heard
 slug: director-of-geonet-needs-to-be-heard
-date: 2016-11-21
+date: 2016-11-21T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2016/11/21/director-of-geonet-needs-to-be-heard/index.html
+layout: layout.njk
 ---
 
 The New Zealand Association of Scientists (Inc.)

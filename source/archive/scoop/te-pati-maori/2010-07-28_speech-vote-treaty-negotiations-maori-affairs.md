@@ -1,9 +1,12 @@
 ---
 slug: speech-vote-treaty-negotiations-maori-affairs
-title: "Speech: Vote Treaty Negotiations – Maori Affairs"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/PA1007/S00449/speech-vote-treaty-negotiations-maori-affairs.htm
+title: 'Speech: Vote Treaty Negotiations – Maori Affairs'
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00449/speech-vote-treaty-negotiations-maori-affairs.htm
 author: te-pati-maori
+permalink: /archive/2010/07/28/speech-vote-treaty-negotiations-maori-affairs/index.html
+layout: layout.njk
 ---
 Speech: Vote Treaty Negotiations – Maori Affairs
 ================================================

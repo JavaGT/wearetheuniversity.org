@@ -1,9 +1,13 @@
 ---
 slug: starter-for-10-uc-aims-to-retake-university-challenge
-title: "Starter for 10: UC aims to retake University Challenge"
-date: 2016-12-05
-source-url: https://www.scoop.co.nz/stories/ED1612/S00015/starter-for-10-uc-aims-to-retake-university-challenge.htm
+title: 'Starter for 10: UC aims to retake University Challenge'
+date: 2016-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00015/starter-for-10-uc-aims-to-retake-university-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/12/05/starter-for-10-uc-aims-to-retake-university-challenge/index.html
+layout: layout.njk
 ---
 Starter for 10: UC aims to retake University Challenge
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: report-proves-troubled-school-shouldnt-have-opened
-title: "Report proves troubled school shouldn’t have opened"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PA1502/S00298/report-proves-troubled-school-shouldnt-have-opened.htm
+title: Report proves troubled school shouldn’t have opened
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00298/report-proves-troubled-school-shouldnt-have-opened.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/02/24/report-proves-troubled-school-shouldnt-have-opened/index.html
+layout: layout.njk
 ---
 Report proves troubled school shouldn’t have opened
 ===================================================

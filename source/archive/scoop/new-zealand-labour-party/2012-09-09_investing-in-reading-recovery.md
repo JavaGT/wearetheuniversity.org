@@ -1,9 +1,12 @@
 ---
 slug: investing-in-reading-recovery
-title: "Investing in Reading Recovery"
-date: 2012-09-09
-source-url: https://www.scoop.co.nz/stories/PA1209/S00108/investing-in-reading-recovery.htm
+title: Investing in Reading Recovery
+date: 2012-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00108/investing-in-reading-recovery.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/09/investing-in-reading-recovery/index.html
+layout: layout.njk
 ---
 Investing in Reading Recovery
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: government-creates-lack-of-grunt-in-nz-economy-peters
-title: "Government Creates ‘Lack of Grunt’ in NZ Economy – Peters"
-date: 2012-05-21
-source-url: https://www.scoop.co.nz/stories/PA1205/S00333/government-creates-lack-of-grunt-in-nz-economy-peters.htm
+title: Government Creates ‘Lack of Grunt’ in NZ Economy – Peters
+date: 2012-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00333/government-creates-lack-of-grunt-in-nz-economy-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/21/government-creates-lack-of-grunt-in-nz-economy-peters/index.html
+layout: layout.njk
 ---
 Government Creates ‘Lack of Grunt’ in NZ Economy – Peters
 =========================================================

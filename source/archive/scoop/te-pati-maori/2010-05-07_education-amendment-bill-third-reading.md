@@ -1,9 +1,12 @@
 ---
 slug: education-amendment-bill-third-reading
-title: "Education Amendment Bill – Third Reading"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/PA1005/S00131/education-amendment-bill-third-reading.htm
+title: Education Amendment Bill – Third Reading
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00131/education-amendment-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/05/07/education-amendment-bill-third-reading/index.html
+layout: layout.njk
 ---
 Education Amendment Bill – Third Reading
 ========================================

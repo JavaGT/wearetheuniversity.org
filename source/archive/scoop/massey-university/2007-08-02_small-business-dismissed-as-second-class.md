@@ -1,9 +1,12 @@
 ---
 slug: small-business-dismissed-as-second-class
-title: "Small business dismissed as second-class"
-date: 2007-08-02
-source-url: https://www.scoop.co.nz/stories/BU0708/S00059/small-business-dismissed-as-second-class.htm
+title: Small business dismissed as second-class
+date: 2007-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00059/small-business-dismissed-as-second-class.htm
 author: massey-university
+permalink: /archive/2007/08/02/small-business-dismissed-as-second-class/index.html
+layout: layout.njk
 ---
 Small business dismissed as second-class
 ========================================

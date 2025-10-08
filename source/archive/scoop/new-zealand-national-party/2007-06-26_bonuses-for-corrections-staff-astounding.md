@@ -1,9 +1,12 @@
 ---
 slug: bonuses-for-corrections-staff-astounding
-title: "Bonuses for Corrections staff astounding"
-date: 2007-06-26
-source-url: https://www.scoop.co.nz/stories/PA0706/S00515/bonuses-for-corrections-staff-astounding.htm
+title: Bonuses for Corrections staff astounding
+date: 2007-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00515/bonuses-for-corrections-staff-astounding.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/26/bonuses-for-corrections-staff-astounding/index.html
+layout: layout.njk
 ---
 Bonuses for Corrections staff astounding
 ========================================

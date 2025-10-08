@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-landmark-commitments-from-health-sector-for-adhd-progress
-title: "Green Party Welcomes Landmark Commitments From Health Sector For ADHD Progress"
-date: 2022-09-18
-source-url: https://www.scoop.co.nz/stories/PO2209/S00117/green-party-welcomes-landmark-commitments-from-health-sector-for-adhd-progress.htm
+title: Green Party Welcomes Landmark Commitments From Health Sector For ADHD Progress
+date: 2022-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00117/green-party-welcomes-landmark-commitments-from-health-sector-for-adhd-progress.htm
 author: green-party
+permalink: >-
+  /archive/2022/09/18/green-party-welcomes-landmark-commitments-from-health-sector-for-adhd-progress/index.html
+layout: layout.njk
 ---
 Green Party Welcomes Landmark Commitments From Health Sector For ADHD Progress
 ==============================================================================

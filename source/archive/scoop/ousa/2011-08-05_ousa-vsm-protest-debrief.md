@@ -1,9 +1,11 @@
 ---
 slug: ousa-vsm-protest-debrief
-title: "OUSA VSM Protest Debrief"
-date: 2011-08-05
+title: OUSA VSM Protest Debrief
+date: 2011-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1108/S00088/ousa-vsm-protest-debrief.htm
 author: ousa
+permalink: /archive/2011/08/05/ousa-vsm-protest-debrief/index.html
+layout: layout.njk
 ---
 OUSA VSM Protest Debrief
 ========================

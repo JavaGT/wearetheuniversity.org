@@ -1,9 +1,12 @@
 ---
 slug: whats-labour-ever-done-for-teachers
-title: "What's Labour Ever Done For Teachers?"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/PA0404/S00298/whats-labour-ever-done-for-teachers.htm
+title: What's Labour Ever Done For Teachers?
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00298/whats-labour-ever-done-for-teachers.htm
 author: act-new-zealand
+permalink: /archive/2004/04/20/whats-labour-ever-done-for-teachers/index.html
+layout: layout.njk
 ---
 What's Labour Ever Done For Teachers?
 =====================================

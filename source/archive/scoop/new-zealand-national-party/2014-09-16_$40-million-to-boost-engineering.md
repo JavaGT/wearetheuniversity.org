@@ -1,9 +1,12 @@
 ---
 slug: $40-million-to-boost-engineering
-title: "$40 million to boost engineering"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/PA1409/S00240/40-million-to-boost-engineering.htm
+title: $40 million to boost engineering
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00240/40-million-to-boost-engineering.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/16/40-million-to-boost-engineering/index.html
+layout: layout.njk
 ---
 $40 million to boost engineering
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-the-economic-experiment
-title: "Speech: Peters - The economic experiment?"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/PO0911/S00015/speech-peters-the-economic-experiment.htm
+title: 'Speech: Peters - The economic experiment?'
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00015/speech-peters-the-economic-experiment.htm
 author: new-zealand-first-party
+permalink: /archive/2009/11/02/speech-peters-the-economic-experiment/index.html
+layout: layout.njk
 ---
 Speech: Peters - The economic experiment?
 =========================================

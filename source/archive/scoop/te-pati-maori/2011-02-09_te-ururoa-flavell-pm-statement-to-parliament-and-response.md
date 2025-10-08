@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-pm-statement-to-parliament-and-response
-title: "Te Ururoa Flavell: PM Statement to Parliament - and Response"
-date: 2011-02-09
-source-url: https://www.scoop.co.nz/stories/PA1102/S00119/te-ururoa-flavell-pm-statement-to-parliament-and-response.htm
+title: 'Te Ururoa Flavell: PM Statement to Parliament - and Response'
+date: 2011-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00119/te-ururoa-flavell-pm-statement-to-parliament-and-response.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/02/09/te-ururoa-flavell-pm-statement-to-parliament-and-response/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: PM Statement to Parliament - and Response
 ============================================================

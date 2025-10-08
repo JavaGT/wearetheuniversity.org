@@ -1,9 +1,12 @@
 ---
 slug: govt-puts-council-between-rock-and-hard-place
-title: "Govt puts Council between rock and hard place"
-date: 2014-12-06
-source-url: https://www.scoop.co.nz/stories/PA1412/S00148/govt-puts-council-between-rock-and-hard-place.htm
+title: Govt puts Council between rock and hard place
+date: 2014-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00148/govt-puts-council-between-rock-and-hard-place.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/06/govt-puts-council-between-rock-and-hard-place/index.html
+layout: layout.njk
 ---
 Govt puts Council between rock and hard place
 =============================================

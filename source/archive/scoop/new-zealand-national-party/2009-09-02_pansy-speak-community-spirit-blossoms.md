@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-community-spirit-blossoms
-title: "Pansy Speak - Community spirit blossoms"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/PA0909/S00016/pansy-speak-community-spirit-blossoms.htm
+title: Pansy Speak - Community spirit blossoms
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00016/pansy-speak-community-spirit-blossoms.htm
 author: new-zealand-national-party
+permalink: /archive/2009/09/02/pansy-speak-community-spirit-blossoms/index.html
+layout: layout.njk
 ---
 Pansy Speak - Community spirit blossoms
 =======================================

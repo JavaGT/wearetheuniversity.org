@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-279-exams-youth-crime-holyoake
-title: "Real Issues No. 279 - Exams, Youth Crime, Holyoake"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/PO0711/S00270/real-issues-no-279-exams-youth-crime-holyoake.htm
+title: Real Issues No. 279 - Exams, Youth Crime, Holyoake
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00270/real-issues-no-279-exams-youth-crime-holyoake.htm
 author: maxim-institute
+permalink: /archive/2007/11/16/real-issues-no-279-exams-youth-crime-holyoake/index.html
+layout: layout.njk
 ---
 Real Issues No. 279 - Exams, Youth Crime, Holyoake
 ==================================================

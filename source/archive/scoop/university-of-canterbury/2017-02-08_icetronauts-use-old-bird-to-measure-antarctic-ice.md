@@ -1,9 +1,13 @@
 ---
 slug: icetronauts-use-old-bird-to-measure-antarctic-ice
-title: "Icetronauts use old bird to measure Antarctic ice"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/CU1702/S00156/icetronauts-use-old-bird-to-measure-antarctic-ice.htm
+title: Icetronauts use old bird to measure Antarctic ice
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00156/icetronauts-use-old-bird-to-measure-antarctic-ice.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/02/08/icetronauts-use-old-bird-to-measure-antarctic-ice/index.html
+layout: layout.njk
 ---
 Icetronauts use old bird to measure Antarctic ice
 =================================================

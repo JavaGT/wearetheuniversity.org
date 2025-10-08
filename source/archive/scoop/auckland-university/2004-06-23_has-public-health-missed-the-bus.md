@@ -1,9 +1,12 @@
 ---
 slug: has-public-health-missed-the-bus
-title: "Has public health missed the bus?"
-date: 2004-06-23
-source-url: https://www.scoop.co.nz/stories/ED0406/S00082/has-public-health-missed-the-bus.htm
+title: Has public health missed the bus?
+date: 2004-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00082/has-public-health-missed-the-bus.htm
 author: auckland-university
+permalink: /archive/2004/06/23/has-public-health-missed-the-bus/index.html
+layout: layout.njk
 ---
 Has public health missed the bus?
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: come-clean-on-pasifika-education-centre
-title: "Come clean on Pasifika education centre"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/PA1508/S00368/come-clean-on-pasifika-education-centre.htm
+title: Come clean on Pasifika education centre
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00368/come-clean-on-pasifika-education-centre.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/21/come-clean-on-pasifika-education-centre/index.html
+layout: layout.njk
 ---
 Come clean on Pasifika education centre
 =======================================

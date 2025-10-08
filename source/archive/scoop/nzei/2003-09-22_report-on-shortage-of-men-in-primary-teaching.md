@@ -1,9 +1,12 @@
 ---
 slug: report-on-shortage-of-men-in-primary-teaching
-title: "Report On Shortage Of Men In Primary Teaching"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00099/report-on-shortage-of-men-in-primary-teaching.htm
+title: Report On Shortage Of Men In Primary Teaching
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00099/report-on-shortage-of-men-in-primary-teaching.htm
 author: nzei
+permalink: /archive/2003/09/22/report-on-shortage-of-men-in-primary-teaching/index.html
+layout: layout.njk
 ---
 Report On Shortage Of Men In Primary Teaching
 =============================================

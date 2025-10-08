@@ -1,9 +1,12 @@
 ---
 slug: agenda-for-children-is-hypocritical
-title: "Agenda For Children Is Hypocritical"
-date: 2002-06-13
-source-url: https://www.scoop.co.nz/stories/PA0206/S00203/agenda-for-children-is-hypocritical.htm
+title: Agenda For Children Is Hypocritical
+date: 2002-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00203/agenda-for-children-is-hypocritical.htm
 author: act-new-zealand
+permalink: /archive/2002/06/13/agenda-for-children-is-hypocritical/index.html
+layout: layout.njk
 ---
 Agenda For Children Is Hypocritical
 ===================================

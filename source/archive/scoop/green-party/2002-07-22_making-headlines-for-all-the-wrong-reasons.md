@@ -1,9 +1,12 @@
 ---
 slug: making-headlines-for-all-the-wrong-reasons
-title: "Making Headlines For All The Wrong Reasons"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/PA0207/S00568/making-headlines-for-all-the-wrong-reasons.htm
+title: Making Headlines For All The Wrong Reasons
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00568/making-headlines-for-all-the-wrong-reasons.htm
 author: green-party
+permalink: /archive/2002/07/22/making-headlines-for-all-the-wrong-reasons/index.html
+layout: layout.njk
 ---
 Making Headlines For All The Wrong Reasons
 ==========================================

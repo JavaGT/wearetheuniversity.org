@@ -1,9 +1,13 @@
 ---
 slug: national-shouldnt-stop-the-will-of-the-people-on-mmp
-title: "National shouldn’t stop the will of the people on MMP"
-date: 2019-03-05
-source-url: https://www.scoop.co.nz/stories/PA1903/S00026/national-shouldnt-stop-the-will-of-the-people-on-mmp.htm
+title: National shouldn’t stop the will of the people on MMP
+date: 2019-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00026/national-shouldnt-stop-the-will-of-the-people-on-mmp.htm
 author: green-party
+permalink: >-
+  /archive/2019/03/05/national-shouldnt-stop-the-will-of-the-people-on-mmp/index.html
+layout: layout.njk
 ---
 National shouldn’t stop the will of the people on MMP
 =====================================================

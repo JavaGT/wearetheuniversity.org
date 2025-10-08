@@ -1,9 +1,12 @@
 ---
 slug: good-water-second-place-in-world-competition
-title: "Good Water Second Place In World Competition"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/ED1004/S00041/good-water-second-place-in-world-competition.htm
+title: Good Water Second Place In World Competition
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00041/good-water-second-place-in-world-competition.htm
 author: university-of-waikato
+permalink: /archive/2010/04/19/good-water-second-place-in-world-competition/index.html
+layout: layout.njk
 ---
 Good Water Second Place In World Competition
 ============================================

@@ -1,9 +1,16 @@
 ---
-slug: new-uc-technology-doubling-ventilator-capacity-could-save-thousands-of-covid-19-patients
-title: "New UC Technology Doubling Ventilator Capacity Could Save Thousands Of Covid-19 Patients"
-date: 2020-05-20
-source-url: https://www.scoop.co.nz/stories/GE2005/S00131/new-uc-technology-doubling-ventilator-capacity-could-save-thousands-of-covid-19-patients.htm
+slug: >-
+  new-uc-technology-doubling-ventilator-capacity-could-save-thousands-of-covid-19-patients
+title: >-
+  New UC Technology Doubling Ventilator Capacity Could Save Thousands Of
+  Covid-19 Patients
+date: 2020-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2005/S00131/new-uc-technology-doubling-ventilator-capacity-could-save-thousands-of-covid-19-patients.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/20/new-uc-technology-doubling-ventilator-capacity-could-save-thousands-of-covid-19-patients/index.html
+layout: layout.njk
 ---
 New UC Technology Doubling Ventilator Capacity Could Save Thousands Of Covid-19 Patients
 ========================================================================================

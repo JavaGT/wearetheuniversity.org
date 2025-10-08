@@ -1,9 +1,12 @@
 ---
 slug: public-relations-students-win-national-award
-title: "Public relations students win national award"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/ED0711/S00019/public-relations-students-win-national-award.htm
+title: Public relations students win national award
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00019/public-relations-students-win-national-award.htm
 author: massey-university
+permalink: /archive/2007/11/05/public-relations-students-win-national-award/index.html
+layout: layout.njk
 ---
 Public relations students win national award
 ============================================

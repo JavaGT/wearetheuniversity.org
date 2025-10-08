@@ -1,9 +1,13 @@
 ---
 slug: four-uc-scientists-honoured-on-nz-space-pioneers-stamps
-title: "Four UC scientists honoured on NZ Space Pioneers stamps"
-date: 2019-05-20
-source-url: https://www.scoop.co.nz/stories/CU1905/S00216/four-uc-scientists-honoured-on-nz-space-pioneers-stamps.htm
+title: Four UC scientists honoured on NZ Space Pioneers stamps
+date: 2019-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1905/S00216/four-uc-scientists-honoured-on-nz-space-pioneers-stamps.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/20/four-uc-scientists-honoured-on-nz-space-pioneers-stamps/index.html
+layout: layout.njk
 ---
 Four UC scientists honoured on NZ Space Pioneers stamps
 =======================================================

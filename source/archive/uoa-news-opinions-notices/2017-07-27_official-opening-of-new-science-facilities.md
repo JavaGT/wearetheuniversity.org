@@ -1,8 +1,11 @@
 ---
 slug: official-opening-of-new-science-facilities
-title: "Official opening of new science facilities"
-date: 2017-07-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/official-opening-of-new-science-facilities.html
+title: Official opening of new science facilities
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/official-opening-of-new-science-facilities.html
+permalink: /archive/2017/07/27/official-opening-of-new-science-facilities/index.html
+layout: layout.njk
 ---
 Official opening of new science facilities
 ==========================================

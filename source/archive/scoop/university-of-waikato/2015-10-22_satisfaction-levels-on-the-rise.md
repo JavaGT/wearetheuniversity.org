@@ -1,9 +1,12 @@
 ---
 slug: satisfaction-levels-on-the-rise
-title: "Satisfaction levels on the rise"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00113/satisfaction-levels-on-the-rise.htm
+title: Satisfaction levels on the rise
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00113/satisfaction-levels-on-the-rise.htm
 author: university-of-waikato
+permalink: /archive/2015/10/22/satisfaction-levels-on-the-rise/index.html
+layout: layout.njk
 ---
 Satisfaction levels on the rise
 ===============================

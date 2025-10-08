@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-labours-tertiary-education-announcement
-title: "Students welcome Labour’s tertiary education announcement"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PO1708/S00576/students-welcome-labours-tertiary-education-announcement.htm
+title: Students welcome Labour’s tertiary education announcement
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00576/students-welcome-labours-tertiary-education-announcement.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/08/29/students-welcome-labours-tertiary-education-announcement/index.html
+layout: layout.njk
 ---
 Students welcome Labour’s tertiary education announcement
 =========================================================

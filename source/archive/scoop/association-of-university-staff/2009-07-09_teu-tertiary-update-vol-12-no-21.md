@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-21
-title: "TEU Tertiary Update Vol 12 No 21"
-date: 2009-07-09
-source-url: https://www.scoop.co.nz/stories/ED0907/S00039/teu-tertiary-update-vol-12-no-21.htm
+title: TEU Tertiary Update Vol 12 No 21
+date: 2009-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00039/teu-tertiary-update-vol-12-no-21.htm
 author: association-of-university-staff
+permalink: /archive/2009/07/09/teu-tertiary-update-vol-12-no-21/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 21
 ================================

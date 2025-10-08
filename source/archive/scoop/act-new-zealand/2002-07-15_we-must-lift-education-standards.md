@@ -1,9 +1,12 @@
 ---
 slug: we-must-lift-education-standards
-title: "We Must Lift Education Standards"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00391/we-must-lift-education-standards.htm
+title: We Must Lift Education Standards
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00391/we-must-lift-education-standards.htm
 author: act-new-zealand
+permalink: /archive/2002/07/15/we-must-lift-education-standards/index.html
+layout: layout.njk
 ---
 We Must Lift Education Standards
 ================================

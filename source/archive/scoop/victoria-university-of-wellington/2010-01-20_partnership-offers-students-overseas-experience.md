@@ -1,9 +1,12 @@
 ---
 slug: partnership-offers-students-overseas-experience
-title: "Partnership offers students overseas experience"
-date: 2010-01-20
-source-url: https://www.scoop.co.nz/stories/ED1001/S00021/partnership-offers-students-overseas-experience.htm
+title: Partnership offers students overseas experience
+date: 2010-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00021/partnership-offers-students-overseas-experience.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/20/partnership-offers-students-overseas-experience/index.html
+layout: layout.njk
 ---
 Partnership offers students overseas experience
 ===============================================

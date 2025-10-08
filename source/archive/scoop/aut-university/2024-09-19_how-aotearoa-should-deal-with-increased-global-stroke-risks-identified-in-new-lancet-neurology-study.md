@@ -1,9 +1,16 @@
 ---
-slug: how-aotearoa-should-deal-with-increased-global-stroke-risks-identified-in-new-lancet-neurology-study
-title: "How Aotearoa Should Deal With Increased Global Stroke Risks Identified In New Lancet Neurology Study"
-date: 2024-09-19
-source-url: https://www.scoop.co.nz/stories/GE2409/S00084/how-aotearoa-should-deal-with-increased-global-stroke-risks-identified-in-new-lancet-neurology-study.htm
+slug: >-
+  how-aotearoa-should-deal-with-increased-global-stroke-risks-identified-in-new-lancet-neurology-study
+title: >-
+  How Aotearoa Should Deal With Increased Global Stroke Risks Identified In New
+  Lancet Neurology Study
+date: 2024-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2409/S00084/how-aotearoa-should-deal-with-increased-global-stroke-risks-identified-in-new-lancet-neurology-study.htm
 author: aut-university
+permalink: >-
+  /archive/2024/09/19/how-aotearoa-should-deal-with-increased-global-stroke-risks-identified-in-new-lancet-neurology-study/index.html
+layout: layout.njk
 ---
 How Aotearoa Should Deal With Increased Global Stroke Risks Identified In New Lancet Neurology Study
 ====================================================================================================

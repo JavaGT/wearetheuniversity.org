@@ -1,9 +1,12 @@
 ---
 slug: school-of-aviation-marks-silver-jubilee
-title: "School of Aviation marks Silver Jubilee"
-date: 2012-02-01
-source-url: https://www.scoop.co.nz/stories/ED1202/S00006/school-of-aviation-marks-silver-jubilee.htm
+title: School of Aviation marks Silver Jubilee
+date: 2012-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00006/school-of-aviation-marks-silver-jubilee.htm
 author: massey-university
+permalink: /archive/2012/02/01/school-of-aviation-marks-silver-jubilee/index.html
+layout: layout.njk
 ---
 School of Aviation marks Silver Jubilee
 =======================================

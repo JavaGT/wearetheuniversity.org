@@ -1,9 +1,12 @@
 ---
 slug: ministers-own-figures-show-ecan-dumping-wrong
-title: "Minister’s own figures show ECAN dumping  wrong"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/PA1109/S00576/ministers-own-figures-show-ecan-dumping-wrong.htm
+title: Minister’s own figures show ECAN dumping  wrong
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00576/ministers-own-figures-show-ecan-dumping-wrong.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/29/ministers-own-figures-show-ecan-dumping-wrong/index.html
+layout: layout.njk
 ---
 Minister’s own figures show ECAN dumping wrong
 ==============================================

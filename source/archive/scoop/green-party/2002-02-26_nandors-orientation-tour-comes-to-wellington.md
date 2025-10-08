@@ -1,9 +1,12 @@
 ---
 slug: nandors-orientation-tour-comes-to-wellington
-title: "Nandor's Orientation Tour Comes To Wellington"
-date: 2002-02-26
-source-url: https://www.scoop.co.nz/stories/PA0202/S00390/nandors-orientation-tour-comes-to-wellington.htm
+title: Nandor's Orientation Tour Comes To Wellington
+date: 2002-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00390/nandors-orientation-tour-comes-to-wellington.htm
 author: green-party
+permalink: /archive/2002/02/26/nandors-orientation-tour-comes-to-wellington/index.html
+layout: layout.njk
 ---
 Nandor's Orientation Tour Comes To Wellington
 =============================================

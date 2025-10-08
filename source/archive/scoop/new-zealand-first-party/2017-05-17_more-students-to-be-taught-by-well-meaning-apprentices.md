@@ -1,9 +1,13 @@
 ---
 slug: more-students-to-be-taught-by-well-meaning-apprentices
-title: "More Students to Be Taught by Well-Meaning Apprentices"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/PA1705/S00372/more-students-to-be-taught-by-well-meaning-apprentices.htm
+title: More Students to Be Taught by Well-Meaning Apprentices
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00372/more-students-to-be-taught-by-well-meaning-apprentices.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/17/more-students-to-be-taught-by-well-meaning-apprentices/index.html
+layout: layout.njk
 ---
 More Students to Be Taught by Well-Meaning Apprentices
 ======================================================

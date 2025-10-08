@@ -1,9 +1,12 @@
 ---
 slug: nats-offer-government-numbers-on-gm
-title: "Nats offer Government numbers on GM"
-date: 2001-10-17
-source-url: https://www.scoop.co.nz/stories/PA0110/S00323/nats-offer-government-numbers-on-gm.htm
+title: Nats offer Government numbers on GM
+date: 2001-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00323/nats-offer-government-numbers-on-gm.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/17/nats-offer-government-numbers-on-gm/index.html
+layout: layout.njk
 ---
 Nats offer Government numbers on GM
 ===================================

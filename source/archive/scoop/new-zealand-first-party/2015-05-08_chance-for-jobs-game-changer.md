@@ -1,9 +1,11 @@
 ---
 slug: chance-for-jobs-game-changer
-title: "Chance for Jobs Game Changer"
-date: 2015-05-08
+title: Chance for Jobs Game Changer
+date: 2015-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1505/S00141/chance-for-jobs-game-changer.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/08/chance-for-jobs-game-changer/index.html
+layout: layout.njk
 ---
 Chance for Jobs Game Changer
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: small-newspapers-at-risk-from-agency-closure
-title: "Small newspapers at risk from agency closure"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/ED1104/S00030/small-newspapers-at-risk-from-agency-closure.htm
+title: Small newspapers at risk from agency closure
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00030/small-newspapers-at-risk-from-agency-closure.htm
 author: massey-university
+permalink: /archive/2011/04/08/small-newspapers-at-risk-from-agency-closure/index.html
+layout: layout.njk
 ---
 Small newspapers at risk from agency closure
 ============================================

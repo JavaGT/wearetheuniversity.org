@@ -1,9 +1,12 @@
 ---
 slug: private-consulting-and-public-interest
-title: "Private consulting and public interest"
-date: 2006-11-20
-source-url: https://www.scoop.co.nz/stories/ED0611/S00077/private-consulting-and-public-interest.htm
+title: Private consulting and public interest
+date: 2006-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00077/private-consulting-and-public-interest.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/20/private-consulting-and-public-interest/index.html
+layout: layout.njk
 ---
 Private consulting and public interest
 ======================================

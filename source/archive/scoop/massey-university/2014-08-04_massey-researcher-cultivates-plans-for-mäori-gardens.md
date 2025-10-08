@@ -1,9 +1,12 @@
 ---
 slug: massey-researcher-cultivates-plans-for-mäori-gardens
-title: "Massey researcher cultivates plans for Mäori gardens"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/SC1408/S00006/massey-researcher-cultivates-plans-for-maori-gardens.htm
+title: Massey researcher cultivates plans for Mäori gardens
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00006/massey-researcher-cultivates-plans-for-maori-gardens.htm
 author: massey-university
+permalink: /archive/2014/08/04/massey-researcher-cultivates-plans-for-m/index.html
+layout: layout.njk
 ---
 Massey researcher cultivates plans for Mäori gardens
 ====================================================

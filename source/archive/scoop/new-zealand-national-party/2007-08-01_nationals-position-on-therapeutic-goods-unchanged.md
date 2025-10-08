@@ -1,9 +1,13 @@
 ---
 slug: nationals-position-on-therapeutic-goods-unchanged
-title: "National’s position on therapeutic goods unchanged"
-date: 2007-08-01
-source-url: https://www.scoop.co.nz/stories/PA0708/S00008/nationals-position-on-therapeutic-goods-unchanged.htm
+title: National’s position on therapeutic goods unchanged
+date: 2007-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00008/nationals-position-on-therapeutic-goods-unchanged.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/08/01/nationals-position-on-therapeutic-goods-unchanged/index.html
+layout: layout.njk
 ---
 National’s position on therapeutic goods unchanged
 ==================================================

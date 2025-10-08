@@ -1,9 +1,13 @@
 ---
 slug: problem-gambling-expert-commends-mayors-rethink-on-skycity
-title: "Problem gambling expert commends Mayor’s rethink on SkyCity"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/PO1204/S00239/problem-gambling-expert-commends-mayors-rethink-on-skycity.htm
+title: Problem gambling expert commends Mayor’s rethink on SkyCity
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00239/problem-gambling-expert-commends-mayors-rethink-on-skycity.htm
 author: aut-university
+permalink: >-
+  /archive/2012/04/20/problem-gambling-expert-commends-mayors-rethink-on-skycity/index.html
+layout: layout.njk
 ---
 Problem gambling expert commends Mayor’s rethink on SkyCity
 ===========================================================

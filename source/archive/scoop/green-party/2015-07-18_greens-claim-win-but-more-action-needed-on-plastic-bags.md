@@ -1,9 +1,13 @@
 ---
 slug: greens-claim-win-but-more-action-needed-on-plastic-bags
-title: "Greens claim win but more action needed on plastic bags"
-date: 2015-07-18
-source-url: https://www.scoop.co.nz/stories/PA1507/S00296/greens-claim-win-but-more-action-needed-on-plastic-bags.htm
+title: Greens claim win but more action needed on plastic bags
+date: 2015-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00296/greens-claim-win-but-more-action-needed-on-plastic-bags.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/18/greens-claim-win-but-more-action-needed-on-plastic-bags/index.html
+layout: layout.njk
 ---
 Greens claim win but more action needed on plastic bags
 =======================================================

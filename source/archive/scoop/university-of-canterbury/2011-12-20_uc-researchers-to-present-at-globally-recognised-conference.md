@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-to-present-at-globally-recognised-conference
-title: "UC researchers to present at globally-recognised conference"
-date: 2011-12-20
-source-url: https://www.scoop.co.nz/stories/ED1112/S00106/uc-researchers-to-present-at-globally-recognised-conference.htm
+title: UC researchers to present at globally-recognised conference
+date: 2011-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00106/uc-researchers-to-present-at-globally-recognised-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/20/uc-researchers-to-present-at-globally-recognised-conference/index.html
+layout: layout.njk
 ---
 UC researchers to present at globally-recognised conference
 ===========================================================

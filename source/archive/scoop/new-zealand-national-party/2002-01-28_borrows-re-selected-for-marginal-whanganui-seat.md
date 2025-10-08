@@ -1,9 +1,12 @@
 ---
 slug: borrows-re-selected-for-marginal-whanganui-seat
-title: "Borrows Re-Selected For Marginal Whanganui Seat"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/PA0201/S00174/borrows-re-selected-for-marginal-whanganui-seat.htm
+title: Borrows Re-Selected For Marginal Whanganui Seat
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00174/borrows-re-selected-for-marginal-whanganui-seat.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/28/borrows-re-selected-for-marginal-whanganui-seat/index.html
+layout: layout.njk
 ---
 Borrows Re-Selected For Marginal Whanganui Seat
 ===============================================

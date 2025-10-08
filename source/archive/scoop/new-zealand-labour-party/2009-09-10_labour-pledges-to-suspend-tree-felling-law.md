@@ -1,9 +1,12 @@
 ---
 slug: labour-pledges-to-suspend-tree-felling-law
-title: "Labour pledges to suspend tree felling law"
-date: 2009-09-10
-source-url: https://www.scoop.co.nz/stories/PA0909/S00130/labour-pledges-to-suspend-tree-felling-law.htm
+title: Labour pledges to suspend tree felling law
+date: 2009-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00130/labour-pledges-to-suspend-tree-felling-law.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/10/labour-pledges-to-suspend-tree-felling-law/index.html
+layout: layout.njk
 ---
 Labour pledges to suspend tree felling law
 ==========================================

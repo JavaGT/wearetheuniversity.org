@@ -1,9 +1,12 @@
 ---
 slug: uc-leads-research-in-palliative-care-services
-title: "UC leads research in palliative care services"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/GE1212/S00013/uc-leads-research-in-palliative-care-services.htm
+title: UC leads research in palliative care services
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1212/S00013/uc-leads-research-in-palliative-care-services.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/05/uc-leads-research-in-palliative-care-services/index.html
+layout: layout.njk
 ---
 UC leads research in palliative care services
 =============================================

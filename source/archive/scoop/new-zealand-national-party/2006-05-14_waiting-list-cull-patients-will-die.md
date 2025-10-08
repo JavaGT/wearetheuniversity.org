@@ -1,9 +1,12 @@
 ---
 slug: waiting-list-cull-patients-will-die
-title: "Waiting list cull patients ‘will die’"
-date: 2006-05-14
-source-url: https://www.scoop.co.nz/stories/PA0605/S00314/waiting-list-cull-patients-will-die.htm
+title: Waiting list cull patients ‘will die’
+date: 2006-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00314/waiting-list-cull-patients-will-die.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/14/waiting-list-cull-patients-will-die/index.html
+layout: layout.njk
 ---
 Waiting list cull patients ‘will die’
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-must-set-the-ethical-standard-on-kiwisaver-investments
-title: "Govt must set the ethical standard on KiwiSaver investments"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/PA1608/S00317/govt-must-set-the-ethical-standard-on-kiwisaver-investments.htm
+title: Govt must set the ethical standard on KiwiSaver investments
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00317/govt-must-set-the-ethical-standard-on-kiwisaver-investments.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/18/govt-must-set-the-ethical-standard-on-kiwisaver-investments/index.html
+layout: layout.njk
 ---
 Govt must set the ethical standard on KiwiSaver investments
 ===========================================================

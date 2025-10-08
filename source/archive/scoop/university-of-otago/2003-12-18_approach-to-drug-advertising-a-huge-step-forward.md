@@ -1,9 +1,13 @@
 ---
 slug: approach-to-drug-advertising-a-huge-step-forward
-title: "Approach To Drug Advertising A Huge Step Forward"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/GE0312/S00079/approach-to-drug-advertising-a-huge-step-forward.htm
+title: Approach To Drug Advertising A Huge Step Forward
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0312/S00079/approach-to-drug-advertising-a-huge-step-forward.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/12/18/approach-to-drug-advertising-a-huge-step-forward/index.html
+layout: layout.njk
 ---
 Approach To Drug Advertising A Huge Step Forward
 ================================================

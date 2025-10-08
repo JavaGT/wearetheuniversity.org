@@ -1,9 +1,12 @@
 ---
 slug: nuclear-veterans-should-be-compensated
-title: "Nuclear Veterans should be compensated"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00340/nuclear-veterans-should-be-compensated.htm
+title: Nuclear Veterans should be compensated
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00340/nuclear-veterans-should-be-compensated.htm
 author: green-party
+permalink: /archive/2007/05/14/nuclear-veterans-should-be-compensated/index.html
+layout: layout.njk
 ---
 Nuclear Veterans should be compensated
 ======================================

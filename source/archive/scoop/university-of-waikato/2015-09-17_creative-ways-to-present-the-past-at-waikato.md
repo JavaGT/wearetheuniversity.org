@@ -1,9 +1,12 @@
 ---
 slug: creative-ways-to-present-the-past-at-waikato
-title: "Creative ways to present the past at Waikato"
-date: 2015-09-17
-source-url: https://www.scoop.co.nz/stories/ED1509/S00101/creative-ways-to-present-the-past-at-waikato.htm
+title: Creative ways to present the past at Waikato
+date: 2015-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00101/creative-ways-to-present-the-past-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2015/09/17/creative-ways-to-present-the-past-at-waikato/index.html
+layout: layout.njk
 ---
 Creative ways to present the past at Waikato
 ============================================

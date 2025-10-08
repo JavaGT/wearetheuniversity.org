@@ -1,9 +1,12 @@
 ---
 slug: how-views-have-moved-on-euthanasia-and-cannabis
-title: "How Views Have Moved On Euthanasia And Cannabis"
-date: 2020-07-16
-source-url: https://www.scoop.co.nz/stories/PO2007/S00216/how-views-have-moved-on-euthanasia-and-cannabis.htm
+title: How Views Have Moved On Euthanasia And Cannabis
+date: 2020-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00216/how-views-have-moved-on-euthanasia-and-cannabis.htm
 author: aut-university
+permalink: /archive/2020/07/16/how-views-have-moved-on-euthanasia-and-cannabis/index.html
+layout: layout.njk
 ---
 How Views Have Moved On Euthanasia And Cannabis
 ===============================================

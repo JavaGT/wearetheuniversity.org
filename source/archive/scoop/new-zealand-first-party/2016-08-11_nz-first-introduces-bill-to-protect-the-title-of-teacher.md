@@ -1,9 +1,13 @@
 ---
 slug: nz-first-introduces-bill-to-protect-the-title-of-teacher
-title: "NZ First Introduces Bill to Protect the Title of Teacher"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00174/nz-first-introduces-bill-to-protect-the-title-of-teacher.htm
+title: NZ First Introduces Bill to Protect the Title of Teacher
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00174/nz-first-introduces-bill-to-protect-the-title-of-teacher.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/11/nz-first-introduces-bill-to-protect-the-title-of-teacher/index.html
+layout: layout.njk
 ---
 NZ First Introduces Bill to Protect the Title of Teacher
 ========================================================

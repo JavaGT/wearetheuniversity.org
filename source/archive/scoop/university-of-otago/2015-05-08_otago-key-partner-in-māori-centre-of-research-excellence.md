@@ -1,9 +1,12 @@
 ---
 slug: otago-key-partner-in-māori-centre-of-research-excellence
-title: "Otago key partner in Māori Centre of Research Excellence"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/ED1505/S00044/otago-key-partner-in-maori-centre-of-research-excellence.htm
+title: Otago key partner in Māori Centre of Research Excellence
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00044/otago-key-partner-in-maori-centre-of-research-excellence.htm
 author: university-of-otago
+permalink: /archive/2015/05/08/otago-key-partner-in-m/index.html
+layout: layout.njk
 ---
 Otago key partner in Māori Centre of Research Excellence
 ========================================================

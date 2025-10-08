@@ -1,9 +1,13 @@
 ---
 slug: otago-finding-new-ways-to-beat-an-old-and-enduring-enemy-tb
-title: "Otago finding new ways to beat an old and enduring enemy: TB"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/GE1707/S00093/otago-finding-new-ways-to-beat-an-old-and-enduring-enemy-tb.htm
+title: 'Otago finding new ways to beat an old and enduring enemy: TB'
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1707/S00093/otago-finding-new-ways-to-beat-an-old-and-enduring-enemy-tb.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/07/31/otago-finding-new-ways-to-beat-an-old-and-enduring-enemy-tb/index.html
+layout: layout.njk
 ---
 Otago finding new ways to beat an old and enduring enemy: TB
 ============================================================

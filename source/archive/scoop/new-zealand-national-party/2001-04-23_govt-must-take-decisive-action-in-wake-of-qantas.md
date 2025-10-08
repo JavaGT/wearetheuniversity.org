@@ -1,9 +1,13 @@
 ---
 slug: govt-must-take-decisive-action-in-wake-of-qantas
-title: "Govt must take decisive action in wake of Qantas"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00315/govt-must-take-decisive-action-in-wake-of-qantas.htm
+title: Govt must take decisive action in wake of Qantas
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00315/govt-must-take-decisive-action-in-wake-of-qantas.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/04/23/govt-must-take-decisive-action-in-wake-of-qantas/index.html
+layout: layout.njk
 ---
 Govt must take decisive action in wake of Qantas
 ================================================

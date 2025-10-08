@@ -1,9 +1,12 @@
 ---
 slug: putting-new-zealands-co-op-economy-on-the-map
-title: "Putting New Zealand’s Co-Op Economy on the Map"
-date: 2016-03-04
-source-url: https://www.scoop.co.nz/stories/ED1603/S00022/putting-new-zealands-co-op-economy-on-the-map.htm
+title: Putting New Zealand’s Co-Op Economy on the Map
+date: 2016-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00022/putting-new-zealands-co-op-economy-on-the-map.htm
 author: massey-university
+permalink: /archive/2016/03/04/putting-new-zealands-co-op-economy-on-the-map/index.html
+layout: layout.njk
 ---
 Putting New Zealand’s Co-Op Economy on the Map
 ==============================================

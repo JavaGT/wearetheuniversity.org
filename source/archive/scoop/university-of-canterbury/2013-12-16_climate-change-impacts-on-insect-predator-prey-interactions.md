@@ -1,9 +1,13 @@
 ---
 slug: climate-change-impacts-on-insect-predator-prey-interactions
-title: "Climate change impacts on insect predator-prey interactions"
-date: 2013-12-16
-source-url: https://www.scoop.co.nz/stories/SC1312/S00039/climate-change-impacts-on-insect-predator-prey-interactions.htm
+title: Climate change impacts on insect predator-prey interactions
+date: 2013-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00039/climate-change-impacts-on-insect-predator-prey-interactions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/16/climate-change-impacts-on-insect-predator-prey-interactions/index.html
+layout: layout.njk
 ---
 Climate change impacts on insect predator-prey interactions
 ===========================================================

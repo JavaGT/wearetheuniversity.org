@@ -1,9 +1,13 @@
 ---
 slug: polytechnic-provocative-action-suspending-workers
-title: "Polytechnic Provocative Action  Suspending Workers"
-date: 2003-11-14
-source-url: https://www.scoop.co.nz/stories/ED0311/S00051/polytechnic-provocative-action-suspending-workers.htm
+title: Polytechnic Provocative Action  Suspending Workers
+date: 2003-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00051/polytechnic-provocative-action-suspending-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2003/11/14/polytechnic-provocative-action-suspending-workers/index.html
+layout: layout.njk
 ---
 Polytechnic Provocative Action Suspending Workers
 =================================================

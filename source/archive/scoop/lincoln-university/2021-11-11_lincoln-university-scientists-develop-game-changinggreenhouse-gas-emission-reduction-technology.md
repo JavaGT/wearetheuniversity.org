@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-scientists-develop-game-changinggreenhouse-gas-emission-reduction-technology
-title: "Lincoln University Scientists Develop Game Changinggreenhouse Gas Emission Reduction Technology"
-date: 2021-11-11
-source-url: https://www.scoop.co.nz/stories/SC2111/S00037/lincoln-university-scientists-develop-game-changinggreenhouse-gas-emission-reduction-technology.htm
+slug: >-
+  lincoln-university-scientists-develop-game-changinggreenhouse-gas-emission-reduction-technology
+title: >-
+  Lincoln University Scientists Develop Game Changinggreenhouse Gas Emission
+  Reduction Technology
+date: 2021-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2111/S00037/lincoln-university-scientists-develop-game-changinggreenhouse-gas-emission-reduction-technology.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/11/11/lincoln-university-scientists-develop-game-changinggreenhouse-gas-emission-reduction-technology/index.html
+layout: layout.njk
 ---
 Lincoln University Scientists Develop Game Changinggreenhouse Gas Emission Reduction Technology
 ===============================================================================================

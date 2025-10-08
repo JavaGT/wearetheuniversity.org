@@ -1,9 +1,13 @@
 ---
 slug: freedom-to-flourish-david-seymours-speech-at-acts-change-makers-rally
-title: "Freedom To Flourish - David Seymour's Speech at ACT's 'Change Makers' Rally"
-date: 2024-06-09
-source-url: https://www.scoop.co.nz/stories/PA2406/S00047/freedom-to-flourish-david-seymours-speech-at-acts-change-makers-rally.htm
+title: Freedom To Flourish - David Seymour's Speech at ACT's 'Change Makers' Rally
+date: 2024-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00047/freedom-to-flourish-david-seymours-speech-at-acts-change-makers-rally.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/06/09/freedom-to-flourish-david-seymours-speech-at-acts-change-makers-rally/index.html
+layout: layout.njk
 ---
 Freedom To Flourish - David Seymour's Speech at ACT's 'Change Makers' Rally
 ===========================================================================

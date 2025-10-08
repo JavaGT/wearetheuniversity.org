@@ -1,9 +1,12 @@
 ---
 slug: nz-tree-intel-in-your-pocket-even-offline
-title: "NZ Tree Intel In Your Pocket, Even Offline"
-date: 2022-03-16
-source-url: https://www.scoop.co.nz/stories/SC2203/S00029/nz-tree-intel-in-your-pocket-even-offline.htm
+title: NZ Tree Intel In Your Pocket, Even Offline
+date: 2022-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00029/nz-tree-intel-in-your-pocket-even-offline.htm
 author: aut-university
+permalink: /archive/2022/03/16/nz-tree-intel-in-your-pocket-even-offline/index.html
+layout: layout.njk
 ---
 NZ Tree Intel In Your Pocket, Even Offline
 ==========================================

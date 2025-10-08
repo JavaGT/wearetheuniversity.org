@@ -1,9 +1,12 @@
 ---
 slug: dunedin-teen-parents-dont-have-turias-support
-title: "Dunedin teen parents don't have Turia's support"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/PA1003/S00134/dunedin-teen-parents-dont-have-turias-support.htm
+title: Dunedin teen parents don't have Turia's support
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00134/dunedin-teen-parents-dont-have-turias-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/10/dunedin-teen-parents-dont-have-turias-support/index.html
+layout: layout.njk
 ---
 Dunedin teen parents don't have Turia's support
 ===============================================

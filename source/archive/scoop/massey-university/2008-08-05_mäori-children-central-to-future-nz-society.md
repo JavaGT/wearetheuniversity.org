@@ -1,9 +1,12 @@
 ---
 slug: mäori-children-central-to-future-nz-society
-title: "Mäori children central to future NZ  society"
-date: 2008-08-05
-source-url: https://www.scoop.co.nz/stories/ED0808/S00009/maori-children-central-to-future-nz-society.htm
+title: Mäori children central to future NZ  society
+date: 2008-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00009/maori-children-central-to-future-nz-society.htm
 author: massey-university
+permalink: /archive/2008/08/05/m/index.html
+layout: layout.njk
 ---
 Mäori children central to future NZ society
 ===========================================

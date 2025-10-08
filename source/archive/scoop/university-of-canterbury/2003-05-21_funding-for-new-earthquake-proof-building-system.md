@@ -1,9 +1,13 @@
 ---
 slug: funding-for-new-earthquake-proof-building-system
-title: "Funding  for new earthquake-proof building system"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00071/funding-for-new-earthquake-proof-building-system.htm
+title: Funding  for new earthquake-proof building system
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00071/funding-for-new-earthquake-proof-building-system.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2003/05/21/funding-for-new-earthquake-proof-building-system/index.html
+layout: layout.njk
 ---
 Funding for new earthquake-proof building system
 ================================================

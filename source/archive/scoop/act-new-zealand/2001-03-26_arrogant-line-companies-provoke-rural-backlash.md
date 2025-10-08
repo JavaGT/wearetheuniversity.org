@@ -1,9 +1,12 @@
 ---
 slug: arrogant-line-companies-provoke-rural-backlash
-title: "Arrogant Line Companies Provoke Rural  Backlash"
-date: 2001-03-26
-source-url: https://www.scoop.co.nz/stories/PA0103/S00425/arrogant-line-companies-provoke-rural-backlash.htm
+title: Arrogant Line Companies Provoke Rural  Backlash
+date: 2001-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00425/arrogant-line-companies-provoke-rural-backlash.htm
 author: act-new-zealand
+permalink: /archive/2001/03/26/arrogant-line-companies-provoke-rural-backlash/index.html
+layout: layout.njk
 ---
 Arrogant Line Companies Provoke Rural Backlash
 ==============================================

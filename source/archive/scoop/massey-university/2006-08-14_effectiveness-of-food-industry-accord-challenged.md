@@ -1,9 +1,13 @@
 ---
 slug: effectiveness-of-food-industry-accord-challenged
-title: "Effectiveness of food industry accord challenged"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/GE0608/S00050/effectiveness-of-food-industry-accord-challenged.htm
+title: Effectiveness of food industry accord challenged
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0608/S00050/effectiveness-of-food-industry-accord-challenged.htm
 author: massey-university
+permalink: >-
+  /archive/2006/08/14/effectiveness-of-food-industry-accord-challenged/index.html
+layout: layout.njk
 ---
 Effectiveness of food industry accord challenged
 ================================================

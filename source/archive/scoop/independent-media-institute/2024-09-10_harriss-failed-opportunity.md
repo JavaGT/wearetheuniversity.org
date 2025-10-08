@@ -1,9 +1,11 @@
 ---
 slug: harriss-failed-opportunity
-title: "Harris’s Failed Opportunity?"
-date: 2024-09-10
+title: Harris’s Failed Opportunity?
+date: 2024-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/WO2409/S00001/harriss-failed-opportunity.htm
 author: independent-media-institute
+permalink: /archive/2024/09/10/harriss-failed-opportunity/index.html
+layout: layout.njk
 ---
 Harris’s Failed Opportunity?
 ============================

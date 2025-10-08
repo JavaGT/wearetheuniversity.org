@@ -1,9 +1,12 @@
 ---
 slug: overloaded-hospitals-reach-crisis-point
-title: "Overloaded hospitals reach crisis point"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/PA1705/S00476/overloaded-hospitals-reach-crisis-point.htm
+title: Overloaded hospitals reach crisis point
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00476/overloaded-hospitals-reach-crisis-point.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/24/overloaded-hospitals-reach-crisis-point/index.html
+layout: layout.njk
 ---
 Overloaded hospitals reach crisis point
 =======================================

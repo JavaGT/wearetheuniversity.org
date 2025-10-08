@@ -1,9 +1,12 @@
 ---
 slug: brains-more-important-than-tongues-nandor
-title: "Brains More Important Than Tongues - Nandor"
-date: 2002-03-15
-source-url: https://www.scoop.co.nz/stories/PA0203/S00275/brains-more-important-than-tongues-nandor.htm
+title: Brains More Important Than Tongues - Nandor
+date: 2002-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00275/brains-more-important-than-tongues-nandor.htm
 author: green-party
+permalink: /archive/2002/03/15/brains-more-important-than-tongues-nandor/index.html
+layout: layout.njk
 ---
 Brains More Important Than Tongues - Nandor
 ===========================================

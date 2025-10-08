@@ -1,9 +1,12 @@
 ---
 slug: oil-prospects-no-substitute-for-action
-title: "Oil prospects no substitute for action"
-date: 2007-07-16
-source-url: https://www.scoop.co.nz/stories/PA0707/S00223/oil-prospects-no-substitute-for-action.htm
+title: Oil prospects no substitute for action
+date: 2007-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00223/oil-prospects-no-substitute-for-action.htm
 author: green-party
+permalink: /archive/2007/07/16/oil-prospects-no-substitute-for-action/index.html
+layout: layout.njk
 ---
 Oil prospects no substitute for action
 ======================================

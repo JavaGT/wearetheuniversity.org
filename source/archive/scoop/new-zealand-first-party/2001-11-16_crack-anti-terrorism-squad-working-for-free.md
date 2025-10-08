@@ -1,9 +1,12 @@
 ---
 slug: crack-anti-terrorism-squad-working-for-free
-title: "Crack Anti-Terrorism Squad Working For Free."
-date: 2001-11-16
-source-url: https://www.scoop.co.nz/stories/PA0111/S00320/crack-anti-terrorism-squad-working-for-free.htm
+title: Crack Anti-Terrorism Squad Working For Free.
+date: 2001-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00320/crack-anti-terrorism-squad-working-for-free.htm
 author: new-zealand-first-party
+permalink: /archive/2001/11/16/crack-anti-terrorism-squad-working-for-free/index.html
+layout: layout.njk
 ---
 Crack Anti-Terrorism Squad Working For Free.
 ============================================

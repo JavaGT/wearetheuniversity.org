@@ -1,9 +1,13 @@
 ---
 slug: peter-hughes-appointed-victorias-head-of-school-of-governme
-title: "Peter Hughes appointed Victoria’s Head of School of Governme"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/ED1106/S00030/peter-hughes-appointed-victorias-head-of-school-of-governme.htm
+title: Peter Hughes appointed Victoria’s Head of School of Governme
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00030/peter-hughes-appointed-victorias-head-of-school-of-governme.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/03/peter-hughes-appointed-victorias-head-of-school-of-governme/index.html
+layout: layout.njk
 ---
 Peter Hughes appointed Victoria’s Head of School of Governme
 ============================================================

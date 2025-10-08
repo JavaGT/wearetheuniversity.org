@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-canterbury-regional-council-bill
-title: "Rahui Katene: Canterbury Regional Council Bill"
-date: 2010-04-01
-source-url: https://www.scoop.co.nz/stories/PA1004/S00008/rahui-katene-canterbury-regional-council-bill.htm
+title: 'Rahui Katene: Canterbury Regional Council Bill'
+date: 2010-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00008/rahui-katene-canterbury-regional-council-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/04/01/rahui-katene-canterbury-regional-council-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene: Canterbury Regional Council Bill
 ==============================================

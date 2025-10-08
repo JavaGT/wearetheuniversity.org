@@ -1,9 +1,12 @@
 ---
 slug: what-if-becoming-a-teenage-parent-saved-a-life
-title: "What if becoming a teenage parent saved a life?"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/ED1306/S00112/what-if-becoming-a-teenage-parent-saved-a-life.htm
+title: What if becoming a teenage parent saved a life?
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00112/what-if-becoming-a-teenage-parent-saved-a-life.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/20/what-if-becoming-a-teenage-parent-saved-a-life/index.html
+layout: layout.njk
 ---
 What if becoming a teenage parent saved a life?
 ===============================================

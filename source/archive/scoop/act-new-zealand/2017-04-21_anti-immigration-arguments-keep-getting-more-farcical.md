@@ -1,9 +1,13 @@
 ---
 slug: anti-immigration-arguments-keep-getting-more-farcical
-title: "Anti-immigration arguments keep getting more farcical"
-date: 2017-04-21
-source-url: https://www.scoop.co.nz/stories/PA1704/S00272/anti-immigration-arguments-keep-getting-more-farcical.htm
+title: Anti-immigration arguments keep getting more farcical
+date: 2017-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00272/anti-immigration-arguments-keep-getting-more-farcical.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/04/21/anti-immigration-arguments-keep-getting-more-farcical/index.html
+layout: layout.njk
 ---
 Anti-immigration arguments keep getting more farcical
 =====================================================

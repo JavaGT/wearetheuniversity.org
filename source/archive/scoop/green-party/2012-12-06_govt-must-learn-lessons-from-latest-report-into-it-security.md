@@ -1,9 +1,13 @@
 ---
 slug: govt-must-learn-lessons-from-latest-report-into-it-security
-title: "Govt must learn lessons from latest report into IT security"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/PA1212/S00106/govt-must-learn-lessons-from-latest-report-into-it-security.htm
+title: Govt must learn lessons from latest report into IT security
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00106/govt-must-learn-lessons-from-latest-report-into-it-security.htm
 author: green-party
+permalink: >-
+  /archive/2012/12/06/govt-must-learn-lessons-from-latest-report-into-it-security/index.html
+layout: layout.njk
 ---
 Govt must learn lessons from latest report into IT security
 ===========================================================

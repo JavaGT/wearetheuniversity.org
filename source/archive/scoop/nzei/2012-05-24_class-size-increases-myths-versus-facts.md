@@ -1,9 +1,12 @@
 ---
 slug: class-size-increases-myths-versus-facts
-title: "Class size increases: Myths versus Facts"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00109/class-size-increases-myths-versus-facts.htm
+title: 'Class size increases: Myths versus Facts'
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00109/class-size-increases-myths-versus-facts.htm
 author: nzei
+permalink: /archive/2012/05/24/class-size-increases-myths-versus-facts/index.html
+layout: layout.njk
 ---
 Class size increases: Myths versus Facts
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: may-12-celebrates-international-nurses-day
-title: "May 12 celebrates International Nurses’ Day"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/CU1505/S00203/may-12-celebrates-international-nurses-day.htm
+title: May 12 celebrates International Nurses’ Day
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00203/may-12-celebrates-international-nurses-day.htm
 author: massey-university
+permalink: /archive/2015/05/12/may-12-celebrates-international-nurses-day/index.html
+layout: layout.njk
 ---
 May 12 celebrates International Nurses’ Day
 ===========================================

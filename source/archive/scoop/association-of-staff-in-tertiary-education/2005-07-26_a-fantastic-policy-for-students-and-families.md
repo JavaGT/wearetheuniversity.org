@@ -1,9 +1,12 @@
 ---
 slug: a-fantastic-policy-for-students-and-families
-title: "A \"fantastic\" policy for students and families"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00107/a-fantastic-policy-for-students-and-families.htm
+title: A "fantastic" policy for students and families
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00107/a-fantastic-policy-for-students-and-families.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/07/26/a-fantastic-policy-for-students-and-families/index.html
+layout: layout.njk
 ---
 A “fantastic” policy for students and families
 ==============================================

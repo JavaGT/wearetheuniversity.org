@@ -1,9 +1,11 @@
 ---
 slug: prime-ministers-debate
-title: "Prime Minister’s Debate"
-date: 2010-02-10
+title: Prime Minister’s Debate
+date: 2010-02-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1002/S00103/prime-ministers-debate.htm
 author: te-pati-maori
+permalink: /archive/2010/02/10/prime-ministers-debate/index.html
+layout: layout.njk
 ---
 Prime Minister’s Debate
 =======================

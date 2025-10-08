@@ -1,9 +1,12 @@
 ---
 slug: former-vice-chancellor-sir-ian-axford-dies
-title: "Former Vice-Chancellor Sir Ian Axford dies"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/ED1003/S00079/former-vice-chancellor-sir-ian-axford-dies.htm
+title: Former Vice-Chancellor Sir Ian Axford dies
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00079/former-vice-chancellor-sir-ian-axford-dies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/17/former-vice-chancellor-sir-ian-axford-dies/index.html
+layout: layout.njk
 ---
 Former Vice-Chancellor Sir Ian Axford dies
 ==========================================

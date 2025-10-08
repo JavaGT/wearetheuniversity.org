@@ -1,9 +1,12 @@
 ---
 slug: true-bliss-success-illustrates-point
-title: "True Bliss success illustrates point"
-date: 1999-06-24
-source-url: https://www.scoop.co.nz/stories/PA9906/S00222/true-bliss-success-illustrates-point.htm
+title: True Bliss success illustrates point
+date: 1999-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00222/true-bliss-success-illustrates-point.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/24/true-bliss-success-illustrates-point/index.html
+layout: layout.njk
 ---
 True Bliss success illustrates point
 ====================================

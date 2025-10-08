@@ -1,9 +1,13 @@
 ---
 slug: on-historic-day-greens-call-on-aotearoa-to-step-up-for-oceans
-title: "On Historic Day, Greens Call On Aotearoa To Step Up For Oceans"
-date: 2023-06-20
-source-url: https://www.scoop.co.nz/stories/PA2306/S00126/on-historic-day-greens-call-on-aotearoa-to-step-up-for-oceans.htm
+title: On Historic Day, Greens Call On Aotearoa To Step Up For Oceans
+date: 2023-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00126/on-historic-day-greens-call-on-aotearoa-to-step-up-for-oceans.htm
 author: green-party
+permalink: >-
+  /archive/2023/06/20/on-historic-day-greens-call-on-aotearoa-to-step-up-for-oceans/index.html
+layout: layout.njk
 ---
 On Historic Day, Greens Call On Aotearoa To Step Up For Oceans
 ==============================================================

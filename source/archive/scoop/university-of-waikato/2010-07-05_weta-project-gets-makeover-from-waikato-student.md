@@ -1,9 +1,12 @@
 ---
 slug: weta-project-gets-makeover-from-waikato-student
-title: "Weta project gets makeover from Waikato student"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/SC1007/S00007/weta-project-gets-makeover-from-waikato-student.htm
+title: Weta project gets makeover from Waikato student
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1007/S00007/weta-project-gets-makeover-from-waikato-student.htm
 author: university-of-waikato
+permalink: /archive/2010/07/05/weta-project-gets-makeover-from-waikato-student/index.html
+layout: layout.njk
 ---
 Weta project gets makeover from Waikato student
 ===============================================

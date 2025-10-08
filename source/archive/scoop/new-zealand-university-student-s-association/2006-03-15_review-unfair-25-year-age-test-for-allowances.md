@@ -1,9 +1,12 @@
 ---
 slug: review-unfair-25-year-age-test-for-allowances
-title: "Review unfair 25 year age test for allowances"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/ED0603/S00038/review-unfair-25-year-age-test-for-allowances.htm
+title: Review unfair 25 year age test for allowances
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00038/review-unfair-25-year-age-test-for-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/03/15/review-unfair-25-year-age-test-for-allowances/index.html
+layout: layout.njk
 ---
 Review unfair 25 year age test for allowances
 =============================================

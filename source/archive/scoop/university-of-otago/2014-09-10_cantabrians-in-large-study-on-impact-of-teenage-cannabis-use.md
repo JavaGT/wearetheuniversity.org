@@ -1,9 +1,13 @@
 ---
 slug: cantabrians-in-large-study-on-impact-of-teenage-cannabis-use
-title: "Cantabrians in large study on impact of teenage cannabis use"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/GE1409/S00059/cantabrians-in-large-study-on-impact-of-teenage-cannabis-use.htm
+title: Cantabrians in large study on impact of teenage cannabis use
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00059/cantabrians-in-large-study-on-impact-of-teenage-cannabis-use.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/10/cantabrians-in-large-study-on-impact-of-teenage-cannabis-use/index.html
+layout: layout.njk
 ---
 Cantabrians in large study on impact of teenage cannabis use
 ============================================================

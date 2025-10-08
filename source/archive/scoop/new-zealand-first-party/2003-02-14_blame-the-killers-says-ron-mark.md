@@ -1,9 +1,12 @@
 ---
 slug: blame-the-killers-says-ron-mark
-title: "Blame The Killers Says Ron Mark"
-date: 2003-02-14
-source-url: https://www.scoop.co.nz/stories/PA0302/S00246/blame-the-killers-says-ron-mark.htm
+title: Blame The Killers Says Ron Mark
+date: 2003-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00246/blame-the-killers-says-ron-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/14/blame-the-killers-says-ron-mark/index.html
+layout: layout.njk
 ---
 Blame The Killers Says Ron Mark
 ===============================

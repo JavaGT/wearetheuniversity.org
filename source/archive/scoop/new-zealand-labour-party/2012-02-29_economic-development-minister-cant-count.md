@@ -1,9 +1,12 @@
 ---
 slug: economic-development-minister-cant-count
-title: "Economic Development Minister can’t count"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/PA1202/S00344/economic-development-minister-cant-count.htm
+title: Economic Development Minister can’t count
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00344/economic-development-minister-cant-count.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/29/economic-development-minister-cant-count/index.html
+layout: layout.njk
 ---
 Economic Development Minister can’t count
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-misled-parliament-on-housing
-title: "Minister misled Parliament on housing"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/PA1403/S00341/minister-misled-parliament-on-housing.htm
+title: Minister misled Parliament on housing
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00341/minister-misled-parliament-on-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/18/minister-misled-parliament-on-housing/index.html
+layout: layout.njk
 ---
 Minister misled Parliament on housing
 =====================================

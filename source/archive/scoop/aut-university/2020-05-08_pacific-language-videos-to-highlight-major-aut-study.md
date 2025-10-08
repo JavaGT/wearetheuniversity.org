@@ -1,9 +1,13 @@
 ---
 slug: pacific-language-videos-to-highlight-major-aut-study
-title: "Pacific Language Videos To Highlight Major AUT Study"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/PO2005/S00107/pacific-language-videos-to-highlight-major-aut-study.htm
+title: Pacific Language Videos To Highlight Major AUT Study
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00107/pacific-language-videos-to-highlight-major-aut-study.htm
 author: aut-university
+permalink: >-
+  /archive/2020/05/08/pacific-language-videos-to-highlight-major-aut-study/index.html
+layout: layout.njk
 ---
 Pacific Language Videos To Highlight Major AUT Study
 ====================================================

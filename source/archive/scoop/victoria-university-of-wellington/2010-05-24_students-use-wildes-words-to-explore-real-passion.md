@@ -1,9 +1,13 @@
 ---
 slug: students-use-wildes-words-to-explore-real-passion
-title: "Students use Wilde’s words to explore real passion"
-date: 2010-05-24
-source-url: https://www.scoop.co.nz/stories/CU1005/S00255/students-use-wildes-words-to-explore-real-passion.htm
+title: Students use Wilde’s words to explore real passion
+date: 2010-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1005/S00255/students-use-wildes-words-to-explore-real-passion.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/05/24/students-use-wildes-words-to-explore-real-passion/index.html
+layout: layout.njk
 ---
 Students use Wilde’s words to explore real passion
 ==================================================

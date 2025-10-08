@@ -1,9 +1,12 @@
 ---
 slug: massey-university-staff-vote-to-strike!
-title: "Massey University staff vote to strike!"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/ED0507/S00075/massey-university-staff-vote-to-strike.htm
+title: Massey University staff vote to strike!
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00075/massey-university-staff-vote-to-strike.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/07/20/massey-university-staff-vote-to-strike/index.html
+layout: layout.njk
 ---
 Massey University staff vote to strike!
 =======================================

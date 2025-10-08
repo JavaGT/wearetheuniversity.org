@@ -1,9 +1,13 @@
 ---
 slug: back-to-asia-for-ryan-on-prime-ministers-scholarship
-title: "Back to Asia for Ryan on Prime Minister’s Scholarship"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/ED1406/S00082/back-to-asia-for-ryan-on-prime-ministers-scholarship.htm
+title: Back to Asia for Ryan on Prime Minister’s Scholarship
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00082/back-to-asia-for-ryan-on-prime-ministers-scholarship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/17/back-to-asia-for-ryan-on-prime-ministers-scholarship/index.html
+layout: layout.njk
 ---
 Back to Asia for Ryan on Prime Minister’s Scholarship
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: damaging-school-funding-plan-highlighted
-title: "Damaging school funding plan highlighted"
-date: 2016-07-03
-source-url: https://www.scoop.co.nz/stories/PO1607/S00018/damaging-school-funding-plan-highlighted.htm
+title: Damaging school funding plan highlighted
+date: 2016-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00018/damaging-school-funding-plan-highlighted.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/03/damaging-school-funding-plan-highlighted/index.html
+layout: layout.njk
 ---
 Damaging school funding plan highlighted
 ========================================

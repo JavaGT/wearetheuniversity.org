@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-writer-in-residence-2021-michalia-arathimos
-title: "University Of Waikato Writer In Residence 2021 - Michalia Arathimos"
-date: 2021-01-15
-source-url: https://www.scoop.co.nz/stories/CU2101/S00057/university-of-waikato-writer-in-residence-2021-michalia-arathimos.htm
+title: University Of Waikato Writer In Residence 2021 - Michalia Arathimos
+date: 2021-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2101/S00057/university-of-waikato-writer-in-residence-2021-michalia-arathimos.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/01/15/university-of-waikato-writer-in-residence-2021-michalia-arathimos/index.html
+layout: layout.njk
 ---
 University Of Waikato Writer In Residence 2021 - Michalia Arathimos
 ===================================================================

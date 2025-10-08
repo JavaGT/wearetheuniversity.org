@@ -1,9 +1,12 @@
 ---
 slug: 53344-people-say-no-to-night-class-cuts
-title: "53,344 people say no to night class cuts"
-date: 2009-10-20
-source-url: https://www.scoop.co.nz/stories/PA0910/S00267/53344-people-say-no-to-night-class-cuts.htm
+title: 53,344 people say no to night class cuts
+date: 2009-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00267/53344-people-say-no-to-night-class-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/20/53344-people-say-no-to-night-class-cuts/index.html
+layout: layout.njk
 ---
 53,344 people say no to night class cuts
 ========================================

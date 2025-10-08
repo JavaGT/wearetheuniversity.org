@@ -1,9 +1,12 @@
 ---
 slug: funding-system-tops-nzei-new-year-wish-list
-title: "Funding System Tops NZEI New Year Wish List"
-date: 2004-12-29
-source-url: https://www.scoop.co.nz/stories/ED0412/S00082/funding-system-tops-nzei-new-year-wish-list.htm
+title: Funding System Tops NZEI New Year Wish List
+date: 2004-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00082/funding-system-tops-nzei-new-year-wish-list.htm
 author: nzei
+permalink: /archive/2004/12/29/funding-system-tops-nzei-new-year-wish-list/index.html
+layout: layout.njk
 ---
 Funding System Tops NZEI New Year Wish List
 ===========================================

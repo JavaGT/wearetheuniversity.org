@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-defends-its-graduates
-title: "Victoria University defends its graduates"
-date: 2004-02-20
-source-url: https://www.scoop.co.nz/stories/ED0402/S00053/victoria-university-defends-its-graduates.htm
+title: Victoria University defends its graduates
+date: 2004-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00053/victoria-university-defends-its-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/02/20/victoria-university-defends-its-graduates/index.html
+layout: layout.njk
 ---
 Victoria University defends its graduates
 =========================================

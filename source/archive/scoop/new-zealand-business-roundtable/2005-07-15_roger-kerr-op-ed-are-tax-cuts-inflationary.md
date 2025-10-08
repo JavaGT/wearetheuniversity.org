@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-op-ed-are-tax-cuts-inflationary
-title: "Roger Kerr Op-Ed: Are Tax Cuts Inflationary?"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/BU0507/S00214/roger-kerr-op-ed-are-tax-cuts-inflationary.htm
+title: 'Roger Kerr Op-Ed: Are Tax Cuts Inflationary?'
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00214/roger-kerr-op-ed-are-tax-cuts-inflationary.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/07/15/roger-kerr-op-ed-are-tax-cuts-inflationary/index.html
+layout: layout.njk
 ---
 Roger Kerr Op-Ed: Are Tax Cuts Inflationary?
 ============================================

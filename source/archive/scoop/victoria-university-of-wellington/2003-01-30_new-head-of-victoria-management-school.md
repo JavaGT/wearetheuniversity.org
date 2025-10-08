@@ -1,9 +1,12 @@
 ---
 slug: new-head-of-victoria-management-school
-title: "New Head of Victoria Management School"
-date: 2003-01-30
-source-url: https://www.scoop.co.nz/stories/ED0301/S00025/new-head-of-victoria-management-school.htm
+title: New Head of Victoria Management School
+date: 2003-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00025/new-head-of-victoria-management-school.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/01/30/new-head-of-victoria-management-school/index.html
+layout: layout.njk
 ---
 New Head of Victoria Management School
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: no-compassion-for-kiwis-with-cancer
-title: "No compassion for kiwis with cancer"
-date: 2015-10-19
-source-url: https://www.scoop.co.nz/stories/PA1510/S00307/no-compassion-for-kiwis-with-cancer.htm
+title: No compassion for kiwis with cancer
+date: 2015-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00307/no-compassion-for-kiwis-with-cancer.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/19/no-compassion-for-kiwis-with-cancer/index.html
+layout: layout.njk
 ---
 No compassion for kiwis with cancer
 ===================================

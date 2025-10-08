@@ -1,9 +1,13 @@
 ---
 slug: investigations-into-tertiary-institutions-overdue
-title: "Investigations into tertiary institutions overdue"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/PA1605/S00257/investigations-into-tertiary-institutions-overdue.htm
+title: Investigations into tertiary institutions overdue
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00257/investigations-into-tertiary-institutions-overdue.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/13/investigations-into-tertiary-institutions-overdue/index.html
+layout: layout.njk
 ---
 Investigations into tertiary institutions overdue
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: $46000-to-help-palmerston-north-boys-and-girls-high-schools
-title: "$46,000 to help Palmerston North Boys and Girls High Schools"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/PA1506/S00327/46000-to-help-palmerston-north-boys-and-girls-high-schools.htm
+title: $46,000 to help Palmerston North Boys and Girls High Schools
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00327/46000-to-help-palmerston-north-boys-and-girls-high-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/18/46-000-to-help-palmerston-north-boys-and-girls-high-schools/index.html
+layout: layout.njk
 ---
 $46,000 to help Palmerston North Boys and Girls High Schools
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: will-private-schools-asset-strip-state-schools
-title: "Will private schools \"asset strip\" state schools?"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/PA0902/S00236/will-private-schools-asset-strip-state-schools.htm
+title: Will private schools "asset strip" state schools?
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00236/will-private-schools-asset-strip-state-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/17/will-private-schools-asset-strip-state-schools/index.html
+layout: layout.njk
 ---
 Will private schools "asset strip" state schools?
 =================================================

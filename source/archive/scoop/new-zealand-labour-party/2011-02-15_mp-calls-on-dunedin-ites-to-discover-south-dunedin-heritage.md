@@ -1,9 +1,13 @@
 ---
 slug: mp-calls-on-dunedin-ites-to-discover-south-dunedin-heritage
-title: "MP calls on Dunedin-ites to Discover South Dunedin Heritage"
-date: 2011-02-15
-source-url: https://www.scoop.co.nz/stories/PA1102/S00203/mp-calls-on-dunedin-ites-to-discover-south-dunedin-heritage.htm
+title: MP calls on Dunedin-ites to Discover South Dunedin Heritage
+date: 2011-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00203/mp-calls-on-dunedin-ites-to-discover-south-dunedin-heritage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/15/mp-calls-on-dunedin-ites-to-discover-south-dunedin-heritage/index.html
+layout: layout.njk
 ---
 MP calls on Dunedin-ites to Discover South Dunedin Heritage
 ===========================================================

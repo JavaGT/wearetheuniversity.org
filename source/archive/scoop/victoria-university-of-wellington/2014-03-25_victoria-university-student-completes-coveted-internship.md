@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-student-completes-coveted-internship
-title: "Victoria University Student Completes Coveted Internship"
-date: 2014-03-25
-source-url: https://www.scoop.co.nz/stories/WO1403/S00309/victoria-university-student-completes-coveted-internship.htm
+title: Victoria University Student Completes Coveted Internship
+date: 2014-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1403/S00309/victoria-university-student-completes-coveted-internship.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/03/25/victoria-university-student-completes-coveted-internship/index.html
+layout: layout.njk
 ---
 Victoria University Student Completes Coveted Internship
 ========================================================

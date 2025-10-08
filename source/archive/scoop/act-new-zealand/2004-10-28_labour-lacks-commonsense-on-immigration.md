@@ -1,9 +1,12 @@
 ---
 slug: labour-lacks-commonsense-on-immigration
-title: "Labour Lacks Commonsense On Immigration"
-date: 2004-10-28
-source-url: https://www.scoop.co.nz/stories/PA0410/S00479/labour-lacks-commonsense-on-immigration.htm
+title: Labour Lacks Commonsense On Immigration
+date: 2004-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00479/labour-lacks-commonsense-on-immigration.htm
 author: act-new-zealand
+permalink: /archive/2004/10/28/labour-lacks-commonsense-on-immigration/index.html
+layout: layout.njk
 ---
 Labour Lacks Commonsense On Immigration
 =======================================

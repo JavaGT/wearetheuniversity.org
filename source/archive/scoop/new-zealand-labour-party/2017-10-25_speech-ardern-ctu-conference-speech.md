@@ -1,9 +1,12 @@
 ---
 slug: speech-ardern-ctu-conference-speech
-title: "Speech: Ardern - CTU conference speech"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/PA1710/S00066/speech-ardern-ctu-conference-speech.htm
+title: 'Speech: Ardern - CTU conference speech'
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00066/speech-ardern-ctu-conference-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/10/25/speech-ardern-ctu-conference-speech/index.html
+layout: layout.njk
 ---
 Speech: Ardern - CTU conference speech
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: mallard-must-step-in-over-exam-row-says-act
-title: "Mallard Must Step In Over Exam Row, Says ACT"
-date: 2004-07-28
-source-url: https://www.scoop.co.nz/stories/PA0407/S00448/mallard-must-step-in-over-exam-row-says-act.htm
+title: Mallard Must Step In Over Exam Row, Says ACT
+date: 2004-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00448/mallard-must-step-in-over-exam-row-says-act.htm
 author: act-new-zealand
+permalink: /archive/2004/07/28/mallard-must-step-in-over-exam-row-says-act/index.html
+layout: layout.njk
 ---
 Mallard Must Step In Over Exam Row, Says ACT
 ============================================

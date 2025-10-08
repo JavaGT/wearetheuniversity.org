@@ -1,9 +1,12 @@
 ---
 slug: symposium-to-discuss-māori-economic-development
-title: "Symposium to discuss Māori Economic Development"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/ED1111/S00007/symposium-to-discuss-maori-economic-development.htm
+title: Symposium to discuss Māori Economic Development
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00007/symposium-to-discuss-maori-economic-development.htm
 author: auckland-university
+permalink: /archive/2011/11/01/symposium-to-discuss-m/index.html
+layout: layout.njk
 ---
 Symposium to discuss Māori Economic Development
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: wellington-students-to-protest-against-education-cuts
-title: "Wellington students to protest against education cuts"
-date: 2012-06-08
-source-url: https://www.scoop.co.nz/stories/PO1206/S00090/wellington-students-to-protest-against-education-cuts.htm
+title: Wellington students to protest against education cuts
+date: 2012-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00090/wellington-students-to-protest-against-education-cuts.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/06/08/wellington-students-to-protest-against-education-cuts/index.html
+layout: layout.njk
 ---
 Wellington students to protest against education cuts
 =====================================================

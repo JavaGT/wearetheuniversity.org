@@ -1,9 +1,13 @@
 ---
 slug: its-about-growth-and-disciplined-spending-not-borrow-borrow-borrow
-title: "It’s About Growth And Disciplined Spending, Not Borrow, Borrow, Borrow"
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/PA2007/S00231/its-about-growth-and-disciplined-spending-not-borrow-borrow-borrow.htm
+title: It’s About Growth And Disciplined Spending, Not Borrow, Borrow, Borrow
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00231/its-about-growth-and-disciplined-spending-not-borrow-borrow-borrow.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/24/its-about-growth-and-disciplined-spending-not-borrow-borrow-borrow/index.html
+layout: layout.njk
 ---
 It’s About Growth And Disciplined Spending, Not Borrow, Borrow, Borrow
 ======================================================================

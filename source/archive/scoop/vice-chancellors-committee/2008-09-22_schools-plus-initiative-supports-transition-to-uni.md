@@ -1,9 +1,13 @@
 ---
 slug: schools-plus-initiative-supports-transition-to-uni
-title: "Schools Plus Initiative Supports Transition To Uni"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/ED0809/S00061/schools-plus-initiative-supports-transition-to-uni.htm
+title: Schools Plus Initiative Supports Transition To Uni
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00061/schools-plus-initiative-supports-transition-to-uni.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2008/09/22/schools-plus-initiative-supports-transition-to-uni/index.html
+layout: layout.njk
 ---
 Schools Plus Initiative Supports Transition To Uni
 ==================================================

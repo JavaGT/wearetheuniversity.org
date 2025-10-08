@@ -1,9 +1,13 @@
 ---
 slug: love-food-hate-waste-advocate-wins-research-award
-title: "‘Love Food, Hate Waste’ Advocate Wins Research Award"
-date: 2023-11-27
-source-url: https://www.scoop.co.nz/stories/SC2311/S00033/love-food-hate-waste-advocate-wins-research-award.htm
+title: ‘Love Food, Hate Waste’ Advocate Wins Research Award
+date: 2023-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2311/S00033/love-food-hate-waste-advocate-wins-research-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/11/27/love-food-hate-waste-advocate-wins-research-award/index.html
+layout: layout.njk
 ---
 ‘Love Food, Hate Waste’ Advocate Wins Research Award
 ====================================================

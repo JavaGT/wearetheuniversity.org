@@ -1,9 +1,12 @@
 ---
 slug: is-silver-fern-farms-to-close-fairton
-title: "Is Silver Fern Farms to Close Fairton?"
-date: 2017-05-12
-source-url: https://www.scoop.co.nz/stories/PA1705/S00274/is-silver-fern-farms-to-close-fairton.htm
+title: Is Silver Fern Farms to Close Fairton?
+date: 2017-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00274/is-silver-fern-farms-to-close-fairton.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/12/is-silver-fern-farms-to-close-fairton/index.html
+layout: layout.njk
 ---
 Is Silver Fern Farms to Close Fairton?
 ======================================

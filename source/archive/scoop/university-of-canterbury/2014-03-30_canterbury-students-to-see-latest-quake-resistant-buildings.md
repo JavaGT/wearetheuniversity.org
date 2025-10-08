@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-to-see-latest-quake-resistant-buildings
-title: "Canterbury students to see latest quake-resistant buildings"
-date: 2014-03-30
-source-url: https://www.scoop.co.nz/stories/AK1403/S00727/canterbury-students-to-see-latest-quake-resistant-buildings.htm
+title: Canterbury students to see latest quake-resistant buildings
+date: 2014-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00727/canterbury-students-to-see-latest-quake-resistant-buildings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/30/canterbury-students-to-see-latest-quake-resistant-buildings/index.html
+layout: layout.njk
 ---
 Canterbury students to see latest quake-resistant buildings
 ===========================================================

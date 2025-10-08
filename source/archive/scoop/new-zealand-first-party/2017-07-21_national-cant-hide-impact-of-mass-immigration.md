@@ -1,9 +1,12 @@
 ---
 slug: national-cant-hide-impact-of-mass-immigration
-title: "National Can’t Hide Impact of Mass Immigration"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PA1707/S00323/national-cant-hide-impact-of-mass-immigration.htm
+title: National Can’t Hide Impact of Mass Immigration
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00323/national-cant-hide-impact-of-mass-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/21/national-cant-hide-impact-of-mass-immigration/index.html
+layout: layout.njk
 ---
 National Can’t Hide Impact of Mass Immigration
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: higher-blood-clot-risk-for-newer-unsubsidised-pill
-title: "Higher blood clot risk for newer unsubsidised pill"
-date: 2011-04-22
-source-url: https://www.scoop.co.nz/stories/GE1104/S00069/higher-blood-clot-risk-for-newer-unsubsidised-pill.htm
+title: Higher blood clot risk for newer unsubsidised pill
+date: 2011-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1104/S00069/higher-blood-clot-risk-for-newer-unsubsidised-pill.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/22/higher-blood-clot-risk-for-newer-unsubsidised-pill/index.html
+layout: layout.njk
 ---
 Higher blood clot risk for newer unsubsidised pill
 ==================================================

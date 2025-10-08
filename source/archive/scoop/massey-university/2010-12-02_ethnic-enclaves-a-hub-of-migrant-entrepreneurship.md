@@ -1,9 +1,13 @@
 ---
 slug: ethnic-enclaves-a-hub-of-migrant-entrepreneurship
-title: "Ethnic enclaves a hub of migrant entrepreneurship"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/ED1012/S00017/ethnic-enclaves-a-hub-of-migrant-entrepreneurship.htm
+title: Ethnic enclaves a hub of migrant entrepreneurship
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00017/ethnic-enclaves-a-hub-of-migrant-entrepreneurship.htm
 author: massey-university
+permalink: >-
+  /archive/2010/12/02/ethnic-enclaves-a-hub-of-migrant-entrepreneurship/index.html
+layout: layout.njk
 ---
 Ethnic enclaves a hub of migrant entrepreneurship
 =================================================

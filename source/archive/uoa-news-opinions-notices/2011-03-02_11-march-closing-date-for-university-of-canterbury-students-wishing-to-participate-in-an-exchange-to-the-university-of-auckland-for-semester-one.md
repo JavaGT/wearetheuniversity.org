@@ -1,8 +1,15 @@
 ---
-slug: 11-march-closing-date-for-university-of-canterbury-students-wishing-to-participate-in-an-exchange-to-the-university-of-auckland-for-semester-one
-title: "11 March closing date for University of Canterbury students wishing to participate in an exchange to The University of Auckland for semester one"
-date: 2011-03-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/02/11-March-closing-date-for-University-of-Canterbury-students-wishing-to-participate-in-an-exchange-to-The-University-of-Auckland-for-semester-one.html
+slug: >-
+  11-march-closing-date-for-university-of-canterbury-students-wishing-to-participate-in-an-exchange-to-the-university-of-auckland-for-semester-one
+title: >-
+  11 March closing date for University of Canterbury students wishing to
+  participate in an exchange to The University of Auckland for semester one
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/02/11-March-closing-date-for-University-of-Canterbury-students-wishing-to-participate-in-an-exchange-to-The-University-of-Auckland-for-semester-one.html
+permalink: >-
+  /archive/2011/03/02/11-march-closing-date-for-university-of-canterbury-students-wishing-to-participate-in-an-exchange-to-the-university-of-auckland-for-semester-one/index.html
+layout: layout.njk
 ---
 11 March closing date for University of Canterbury students wishing to participate in an exchange to The University of Auckland for semester one
 ================================================================================================================================================

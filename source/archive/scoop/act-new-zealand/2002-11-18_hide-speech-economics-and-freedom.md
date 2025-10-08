@@ -1,9 +1,12 @@
 ---
 slug: hide-speech-economics-and-freedom
-title: "Hide Speech: Economics and Freedom"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/PA0211/S00384/hide-speech-economics-and-freedom.htm
+title: 'Hide Speech: Economics and Freedom'
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00384/hide-speech-economics-and-freedom.htm
 author: act-new-zealand
+permalink: /archive/2002/11/18/hide-speech-economics-and-freedom/index.html
+layout: layout.njk
 ---
 Hide Speech: Economics and Freedom
 ==================================

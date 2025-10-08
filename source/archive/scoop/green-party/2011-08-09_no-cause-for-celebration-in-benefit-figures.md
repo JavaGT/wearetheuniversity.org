@@ -1,9 +1,12 @@
 ---
 slug: no-cause-for-celebration-in-benefit-figures
-title: "No cause for celebration in benefit figures"
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/PA1108/S00158/no-cause-for-celebration-in-benefit-figures.htm
+title: No cause for celebration in benefit figures
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00158/no-cause-for-celebration-in-benefit-figures.htm
 author: green-party
+permalink: /archive/2011/08/09/no-cause-for-celebration-in-benefit-figures/index.html
+layout: layout.njk
 ---
 No cause for celebration in benefit figures
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: coddingtons-liberty-belle
-title: "Coddington’s Liberty Belle"
-date: 2004-09-20
+title: Coddington’s Liberty Belle
+date: 2004-09-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00392/coddingtons-liberty-belle.htm
 author: act-new-zealand
+permalink: /archive/2004/09/20/coddingtons-liberty-belle/index.html
+layout: layout.njk
 ---
 Coddington’s Liberty Belle
 ==========================

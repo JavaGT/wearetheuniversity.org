@@ -1,9 +1,12 @@
 ---
 slug: kiwis-to-have-their-say-on-asset-sales
-title: "Kiwis to have their say on asset sales"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/PA1309/S00537/kiwis-to-have-their-say-on-asset-sales.htm
+title: Kiwis to have their say on asset sales
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00537/kiwis-to-have-their-say-on-asset-sales.htm
 author: green-party
+permalink: /archive/2013/09/30/kiwis-to-have-their-say-on-asset-sales/index.html
+layout: layout.njk
 ---
 Kiwis to have their say on asset sales
 ======================================

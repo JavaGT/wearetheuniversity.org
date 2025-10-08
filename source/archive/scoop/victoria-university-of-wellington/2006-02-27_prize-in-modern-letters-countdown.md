@@ -1,9 +1,12 @@
 ---
 slug: prize-in-modern-letters-countdown
-title: "Prize in Modern Letters countdown"
-date: 2006-02-27
-source-url: https://www.scoop.co.nz/stories/ED0602/S00074/prize-in-modern-letters-countdown.htm
+title: Prize in Modern Letters countdown
+date: 2006-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00074/prize-in-modern-letters-countdown.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/02/27/prize-in-modern-letters-countdown/index.html
+layout: layout.njk
 ---
 Prize in Modern Letters countdown
 =================================

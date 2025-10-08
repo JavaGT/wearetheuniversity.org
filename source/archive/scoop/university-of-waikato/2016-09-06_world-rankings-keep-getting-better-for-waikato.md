@@ -1,9 +1,12 @@
 ---
 slug: world-rankings-keep-getting-better-for-waikato
-title: "World rankings keep getting better for Waikato"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00028/world-rankings-keep-getting-better-for-waikato.htm
+title: World rankings keep getting better for Waikato
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00028/world-rankings-keep-getting-better-for-waikato.htm
 author: university-of-waikato
+permalink: /archive/2016/09/06/world-rankings-keep-getting-better-for-waikato/index.html
+layout: layout.njk
 ---
 World rankings keep getting better for Waikato
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: yoga-breathing-changes-brain-activity
-title: "Yoga Breathing Changes Brain Activity"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/GE2202/S00085/yoga-breathing-changes-brain-activity.htm
+title: Yoga Breathing Changes Brain Activity
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2202/S00085/yoga-breathing-changes-brain-activity.htm
 author: aut-university
+permalink: /archive/2022/02/23/yoga-breathing-changes-brain-activity/index.html
+layout: layout.njk
 ---
 Yoga Breathing Changes Brain Activity
 =====================================

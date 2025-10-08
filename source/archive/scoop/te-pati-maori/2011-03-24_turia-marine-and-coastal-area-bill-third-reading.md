@@ -1,9 +1,13 @@
 ---
 slug: turia-marine-and-coastal-area-bill-third-reading
-title: "Turia: Marine and Coastal Area Bill: Third reading"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/PA1103/S00415/turia-marine-and-coastal-area-bill-third-reading.htm
+title: 'Turia: Marine and Coastal Area Bill: Third reading'
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00415/turia-marine-and-coastal-area-bill-third-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/24/turia-marine-and-coastal-area-bill-third-reading/index.html
+layout: layout.njk
 ---
 Turia: Marine and Coastal Area Bill: Third reading
 ==================================================

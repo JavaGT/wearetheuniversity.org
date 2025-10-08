@@ -1,9 +1,12 @@
 ---
 slug: 99-percent-of-principals-back-pay-claim
-title: "99 Percent of Principals Back Pay Claim"
-date: 2007-07-04
-source-url: https://www.scoop.co.nz/stories/ED0707/S00017/99-percent-of-principals-back-pay-claim.htm
+title: 99 Percent of Principals Back Pay Claim
+date: 2007-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00017/99-percent-of-principals-back-pay-claim.htm
 author: nzei
+permalink: /archive/2007/07/04/99-percent-of-principals-back-pay-claim/index.html
+layout: layout.njk
 ---
 99 Percent of Principals Back Pay Claim
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: polytechnics-will-struggle-to-embody-communities
-title: "Polytechnics Will Struggle To Embody Communities"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PA1004/S00152/polytechnics-will-struggle-to-embody-communities.htm
+title: Polytechnics Will Struggle To Embody Communities
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00152/polytechnics-will-struggle-to-embody-communities.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/15/polytechnics-will-struggle-to-embody-communities/index.html
+layout: layout.njk
 ---
 Polytechnics Will Struggle To Embody Communities
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: milk-payout-drop-govt-must-take-action-on-economy
-title: "Milk payout drop: Govt must take action on economy"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00139/milk-payout-drop-govt-must-take-action-on-economy.htm
+title: 'Milk payout drop: Govt must take action on economy'
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00139/milk-payout-drop-govt-must-take-action-on-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/01/28/milk-payout-drop-govt-must-take-action-on-economy/index.html
+layout: layout.njk
 ---
 Milk payout drop: Govt must take action on economy
 ==================================================

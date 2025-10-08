@@ -1,9 +1,12 @@
 ---
 slug: marsden-fund-boosts-victoria-research
-title: "Marsden Fund boosts Victoria research"
-date: 2004-09-13
-source-url: https://www.scoop.co.nz/stories/ED0409/S00049/marsden-fund-boosts-victoria-research.htm
+title: Marsden Fund boosts Victoria research
+date: 2004-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00049/marsden-fund-boosts-victoria-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/13/marsden-fund-boosts-victoria-research/index.html
+layout: layout.njk
 ---
 Marsden Fund boosts Victoria research
 =====================================

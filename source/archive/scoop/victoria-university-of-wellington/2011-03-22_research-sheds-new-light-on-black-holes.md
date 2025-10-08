@@ -1,9 +1,12 @@
 ---
 slug: research-sheds-new-light-on-black-holes
-title: "Research sheds new light on black holes"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/SC1103/S00073/research-sheds-new-light-on-black-holes.htm
+title: Research sheds new light on black holes
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00073/research-sheds-new-light-on-black-holes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/22/research-sheds-new-light-on-black-holes/index.html
+layout: layout.njk
 ---
 Research sheds new light on black holes
 =======================================

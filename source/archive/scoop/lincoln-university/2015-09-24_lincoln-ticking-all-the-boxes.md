@@ -1,9 +1,12 @@
 ---
 slug: lincoln-ticking-all-the-boxes
-title: "Lincoln ticking all the boxes"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/ED1509/S00145/lincoln-ticking-all-the-boxes.htm
+title: Lincoln ticking all the boxes
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00145/lincoln-ticking-all-the-boxes.htm
 author: lincoln-university
+permalink: /archive/2015/09/24/lincoln-ticking-all-the-boxes/index.html
+layout: layout.njk
 ---
 Lincoln ticking all the boxes
 =============================

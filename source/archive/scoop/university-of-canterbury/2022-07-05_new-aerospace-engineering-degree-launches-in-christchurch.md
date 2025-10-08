@@ -1,9 +1,13 @@
 ---
 slug: new-aerospace-engineering-degree-launches-in-christchurch
-title: "New Aerospace Engineering Degree Launches In Christchurch"
-date: 2022-07-05
-source-url: https://www.scoop.co.nz/stories/ED2207/S00005/new-aerospace-engineering-degree-launches-in-christchurch.htm
+title: New Aerospace Engineering Degree Launches In Christchurch
+date: 2022-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00005/new-aerospace-engineering-degree-launches-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/07/05/new-aerospace-engineering-degree-launches-in-christchurch/index.html
+layout: layout.njk
 ---
 New Aerospace Engineering Degree Launches In Christchurch
 =========================================================

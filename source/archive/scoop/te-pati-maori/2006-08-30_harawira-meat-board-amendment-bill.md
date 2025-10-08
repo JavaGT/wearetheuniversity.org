@@ -1,9 +1,12 @@
 ---
 slug: harawira-meat-board-amendment-bill
-title: "Harawira: Meat Board Amendment Bill"
-date: 2006-08-30
-source-url: https://www.scoop.co.nz/stories/PA0608/S00523/harawira-meat-board-amendment-bill.htm
+title: 'Harawira: Meat Board Amendment Bill'
+date: 2006-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00523/harawira-meat-board-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/08/30/harawira-meat-board-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Meat Board Amendment Bill
 ===================================

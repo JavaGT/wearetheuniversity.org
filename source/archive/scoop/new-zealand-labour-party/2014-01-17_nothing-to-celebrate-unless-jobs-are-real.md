@@ -1,9 +1,12 @@
 ---
 slug: nothing-to-celebrate-unless-jobs-are-real
-title: "Nothing to celebrate unless jobs are real"
-date: 2014-01-17
-source-url: https://www.scoop.co.nz/stories/PA1401/S00070/nothing-to-celebrate-unless-jobs-are-real.htm
+title: Nothing to celebrate unless jobs are real
+date: 2014-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00070/nothing-to-celebrate-unless-jobs-are-real.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/17/nothing-to-celebrate-unless-jobs-are-real/index.html
+layout: layout.njk
 ---
 Nothing to celebrate unless jobs are real
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: corporate-reputations-in-the-spotlight-at-course
-title: "Corporate reputations in the spotlight at course"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/ED1404/S00020/corporate-reputations-in-the-spotlight-at-course.htm
+title: Corporate reputations in the spotlight at course
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00020/corporate-reputations-in-the-spotlight-at-course.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/03/corporate-reputations-in-the-spotlight-at-course/index.html
+layout: layout.njk
 ---
 Corporate reputations in the spotlight at course
 ================================================

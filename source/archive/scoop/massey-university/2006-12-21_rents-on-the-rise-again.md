@@ -1,9 +1,11 @@
 ---
 slug: rents-on-the-rise-again
-title: "Rents on the rise again"
-date: 2006-12-21
+title: Rents on the rise again
+date: 2006-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0612/S00424/rents-on-the-rise-again.htm
 author: massey-university
+permalink: /archive/2006/12/21/rents-on-the-rise-again/index.html
+layout: layout.njk
 ---
 Rents on the rise again
 =======================

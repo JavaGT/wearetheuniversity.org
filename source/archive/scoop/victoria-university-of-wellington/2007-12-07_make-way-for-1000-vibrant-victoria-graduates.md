@@ -1,9 +1,12 @@
 ---
 slug: make-way-for-1000-vibrant-victoria-graduates
-title: "Make Way For 1000 Vibrant Victoria Graduates"
-date: 2007-12-07
-source-url: https://www.scoop.co.nz/stories/ED0712/S00031/make-way-for-1000-vibrant-victoria-graduates.htm
+title: Make Way For 1000 Vibrant Victoria Graduates
+date: 2007-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00031/make-way-for-1000-vibrant-victoria-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/07/make-way-for-1000-vibrant-victoria-graduates/index.html
+layout: layout.njk
 ---
 Make Way For 1000 Vibrant Victoria Graduates
 ============================================

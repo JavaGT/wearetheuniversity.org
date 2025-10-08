@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-mita-mohi
-title: "POROPOROAKI: Mita Mohi"
-date: 2016-11-21
+title: 'POROPOROAKI: Mita Mohi'
+date: 2016-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1611/S00369/poroporoaki-mita-mohi.htm
 author: te-pati-maori
+permalink: /archive/2016/11/21/poroporoaki-mita-mohi/index.html
+layout: layout.njk
 ---
 POROPOROAKI: Mita Mohi
 ======================

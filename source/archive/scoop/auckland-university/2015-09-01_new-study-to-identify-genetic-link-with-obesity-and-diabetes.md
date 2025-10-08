@@ -1,9 +1,13 @@
 ---
 slug: new-study-to-identify-genetic-link-with-obesity-and-diabetes
-title: "New study to identify genetic link with obesity and diabetes"
-date: 2015-09-01
-source-url: https://www.scoop.co.nz/stories/GE1509/S00002/new-study-to-identify-genetic-link-with-obesity-and-diabetes.htm
+title: New study to identify genetic link with obesity and diabetes
+date: 2015-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1509/S00002/new-study-to-identify-genetic-link-with-obesity-and-diabetes.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/09/01/new-study-to-identify-genetic-link-with-obesity-and-diabetes/index.html
+layout: layout.njk
 ---
 New study to identify genetic link with obesity and diabetes
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-tells-aussies-the-gc-is-a-load-of-rubbish
-title: "Winston Peters Tells Aussies the GC is a Load of Rubbish"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00195/winston-peters-tells-aussies-the-gc-is-a-load-of-rubbish.htm
+title: Winston Peters Tells Aussies the GC is a Load of Rubbish
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00195/winston-peters-tells-aussies-the-gc-is-a-load-of-rubbish.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/10/winston-peters-tells-aussies-the-gc-is-a-load-of-rubbish/index.html
+layout: layout.njk
 ---
 Winston Peters Tells Aussies the GC is a Load of Rubbish
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: singing-of-anthem-proud-moment-for-cricket-scholar
-title: "Singing of anthem proud moment for cricket scholar"
-date: 2018-01-26
-source-url: https://www.scoop.co.nz/stories/ED1801/S00029/singing-of-anthem-proud-moment-for-cricket-scholar.htm
+title: Singing of anthem proud moment for cricket scholar
+date: 2018-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00029/singing-of-anthem-proud-moment-for-cricket-scholar.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/01/26/singing-of-anthem-proud-moment-for-cricket-scholar/index.html
+layout: layout.njk
 ---
 Singing of anthem proud moment for cricket scholar
 ==================================================

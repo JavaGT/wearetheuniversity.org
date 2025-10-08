@@ -1,9 +1,12 @@
 ---
 slug: names-dont-matter-loss-of-democracy-does
-title: "Names don’t matter --- loss of democracy does"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00285/names-dont-matter-loss-of-democracy-does.htm
+title: Names don’t matter --- loss of democracy does
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00285/names-dont-matter-loss-of-democracy-does.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/22/names-dont-matter-loss-of-democracy-does/index.html
+layout: layout.njk
 ---
 Names don’t matter --- loss of democracy does
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: transformation-&-activism-at-indigenous-research-conference
-title: "Transformation & Activism at Indigenous Research Conference"
-date: 2013-06-10
-source-url: https://www.scoop.co.nz/stories/ED1306/S00046/transformation-activism-at-indigenous-research-conference.htm
+title: Transformation & Activism at Indigenous Research Conference
+date: 2013-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00046/transformation-activism-at-indigenous-research-conference.htm
 author: university-of-waikato
+permalink: /archive/2013/06/10/transformation-/index.html
+layout: layout.njk
 ---
 Transformation & Activism at Indigenous Research Conference
 ===========================================================

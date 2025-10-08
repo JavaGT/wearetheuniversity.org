@@ -1,9 +1,11 @@
 ---
 slug: binge-drinking-and-sexuality
-title: "Binge drinking and sexuality"
-date: 2012-11-12
+title: Binge drinking and sexuality
+date: 2012-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1211/S00214/binge-drinking-and-sexuality.htm
 author: university-of-otago
+permalink: /archive/2012/11/12/binge-drinking-and-sexuality/index.html
+layout: layout.njk
 ---
 Binge drinking and sexuality
 ============================

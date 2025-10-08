@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-sets-sights-on-anzac-day
-title: "Student Volunteer Army Sets Sights on Anzac Day"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/PO1604/S00147/student-volunteer-army-sets-sights-on-anzac-day.htm
+title: Student Volunteer Army Sets Sights on Anzac Day
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00147/student-volunteer-army-sets-sights-on-anzac-day.htm
 author: student-volunteer-army
+permalink: /archive/2016/04/12/student-volunteer-army-sets-sights-on-anzac-day/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Sets Sights on Anzac Day
 ===============================================

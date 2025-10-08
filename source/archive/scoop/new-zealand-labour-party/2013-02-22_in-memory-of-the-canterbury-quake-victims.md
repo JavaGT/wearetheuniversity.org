@@ -1,9 +1,12 @@
 ---
 slug: in-memory-of-the-canterbury-quake-victims
-title: "In memory of the Canterbury quake victims"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/PA1302/S00345/in-memory-of-the-canterbury-quake-victims.htm
+title: In memory of the Canterbury quake victims
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00345/in-memory-of-the-canterbury-quake-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/22/in-memory-of-the-canterbury-quake-victims/index.html
+layout: layout.njk
 ---
 In memory of the Canterbury quake victims
 =========================================

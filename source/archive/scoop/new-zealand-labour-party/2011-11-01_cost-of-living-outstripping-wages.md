@@ -1,9 +1,12 @@
 ---
 slug: cost-of-living-outstripping-wages
-title: "Cost of living outstripping wages"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/PA1111/S00006/cost-of-living-outstripping-wages.htm
+title: Cost of living outstripping wages
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00006/cost-of-living-outstripping-wages.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/01/cost-of-living-outstripping-wages/index.html
+layout: layout.njk
 ---
 Cost of living outstripping wages
 =================================

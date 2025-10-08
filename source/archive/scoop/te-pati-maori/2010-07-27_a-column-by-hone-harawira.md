@@ -1,9 +1,11 @@
 ---
 slug: a-column-by-hone-harawira
-title: "A Column By Hone Harawira"
-date: 2010-07-27
+title: A Column By Hone Harawira
+date: 2010-07-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1007/S00337/a-column-by-hone-harawira.htm
 author: te-pati-maori
+permalink: /archive/2010/07/27/a-column-by-hone-harawira/index.html
+layout: layout.njk
 ---
 A Column By Hone Harawira
 =========================

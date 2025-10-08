@@ -1,9 +1,12 @@
 ---
 slug: federated-farmers-abandons-political-neutrality
-title: "Federated Farmers abandons political neutrality"
-date: 2015-12-31
-source-url: https://www.scoop.co.nz/stories/PA1512/S00444/federated-farmers-abandons-political-neutrality.htm
+title: Federated Farmers abandons political neutrality
+date: 2015-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00444/federated-farmers-abandons-political-neutrality.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/31/federated-farmers-abandons-political-neutrality/index.html
+layout: layout.njk
 ---
 Federated Farmers abandons political neutrality
 ===============================================

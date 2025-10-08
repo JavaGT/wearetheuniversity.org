@@ -1,9 +1,12 @@
 ---
 slug: pay-settlement-at-victoria-university
-title: "Pay settlement at Victoria University"
-date: 2004-07-02
-source-url: https://www.scoop.co.nz/stories/ED0407/S00007/pay-settlement-at-victoria-university.htm
+title: Pay settlement at Victoria University
+date: 2004-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00007/pay-settlement-at-victoria-university.htm
 author: association-of-university-staff
+permalink: /archive/2004/07/02/pay-settlement-at-victoria-university/index.html
+layout: layout.njk
 ---
 Pay settlement at Victoria University
 =====================================

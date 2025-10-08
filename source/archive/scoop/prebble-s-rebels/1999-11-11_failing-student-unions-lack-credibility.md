@@ -1,9 +1,12 @@
 ---
 slug: failing-student-unions-lack-credibility
-title: "Failing Student Unions Lack Credibility"
-date: 1999-11-11
-source-url: https://www.scoop.co.nz/stories/PO9911/S00072/failing-student-unions-lack-credibility.htm
+title: Failing Student Unions Lack Credibility
+date: 1999-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00072/failing-student-unions-lack-credibility.htm
 author: prebble-s-rebels
+permalink: /archive/1999/11/11/failing-student-unions-lack-credibility/index.html
+layout: layout.njk
 ---
 Failing Student Unions Lack Credibility
 =======================================

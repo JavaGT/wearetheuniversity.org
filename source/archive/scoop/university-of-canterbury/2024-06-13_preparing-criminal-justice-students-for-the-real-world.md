@@ -1,9 +1,13 @@
 ---
 slug: preparing-criminal-justice-students-for-the-real-world
-title: "Preparing Criminal Justice Students For The Real-world"
-date: 2024-06-13
-source-url: https://www.scoop.co.nz/stories/ED2406/S00031/preparing-criminal-justice-students-for-the-real-world.htm
+title: Preparing Criminal Justice Students For The Real-world
+date: 2024-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00031/preparing-criminal-justice-students-for-the-real-world.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/13/preparing-criminal-justice-students-for-the-real-world/index.html
+layout: layout.njk
 ---
 Preparing Criminal Justice Students For The Real-world
 ======================================================

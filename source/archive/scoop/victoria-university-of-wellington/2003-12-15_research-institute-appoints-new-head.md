@@ -1,9 +1,12 @@
 ---
 slug: research-institute-appoints-new-head
-title: "Research institute appoints new head"
-date: 2003-12-15
-source-url: https://www.scoop.co.nz/stories/ED0312/S00064/research-institute-appoints-new-head.htm
+title: Research institute appoints new head
+date: 2003-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00064/research-institute-appoints-new-head.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/12/15/research-institute-appoints-new-head/index.html
+layout: layout.njk
 ---
 Research institute appoints new head
 ====================================

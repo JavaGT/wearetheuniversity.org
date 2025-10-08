@@ -1,9 +1,12 @@
 ---
 slug: dont-settle-until-iwi-have-clean-hands
-title: "Don't Settle Until Iwi Have 'Clean Hands'"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/PA0305/S00488/dont-settle-until-iwi-have-clean-hands.htm
+title: Don't Settle Until Iwi Have 'Clean Hands'
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00488/dont-settle-until-iwi-have-clean-hands.htm
 author: act-new-zealand
+permalink: /archive/2003/05/19/dont-settle-until-iwi-have-clean-hands/index.html
+layout: layout.njk
 ---
 Don't Settle Until Iwi Have 'Clean Hands'
 =========================================

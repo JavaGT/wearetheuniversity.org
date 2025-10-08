@@ -1,9 +1,13 @@
 ---
 slug: more-support-needed-in-schools-to-address-effects-of-poverty
-title: "More support needed in schools to address effects of poverty"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PO1412/S00031/more-support-needed-in-schools-to-address-effects-of-poverty.htm
+title: More support needed in schools to address effects of poverty
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00031/more-support-needed-in-schools-to-address-effects-of-poverty.htm
 author: nzei
+permalink: >-
+  /archive/2014/12/02/more-support-needed-in-schools-to-address-effects-of-poverty/index.html
+layout: layout.njk
 ---
 More support needed in schools to address effects of poverty
 ============================================================

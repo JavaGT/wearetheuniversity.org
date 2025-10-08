@@ -1,9 +1,12 @@
 ---
 slug: former-principal-appointed-dean-of-education
-title: "Former principal appointed Dean of Education"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/ED0611/S00021/former-principal-appointed-dean-of-education.htm
+title: Former principal appointed Dean of Education
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00021/former-principal-appointed-dean-of-education.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/06/former-principal-appointed-dean-of-education/index.html
+layout: layout.njk
 ---
 Former principal appointed Dean of Education
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: accident-compensation-ombudsman-urgently-needed-at-acc
-title: "Accident Compensation Ombudsman Urgently Needed at ACC"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PA1507/S00428/accident-compensation-ombudsman-urgently-needed-at-acc.htm
+title: Accident Compensation Ombudsman Urgently Needed at ACC
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00428/accident-compensation-ombudsman-urgently-needed-at-acc.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/24/accident-compensation-ombudsman-urgently-needed-at-acc/index.html
+layout: layout.njk
 ---
 Accident Compensation Ombudsman Urgently Needed at ACC
 ======================================================

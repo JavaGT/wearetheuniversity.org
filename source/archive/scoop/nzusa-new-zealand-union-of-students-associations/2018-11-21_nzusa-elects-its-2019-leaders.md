@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-its-2019-leaders
-title: "NZUSA elects its 2019 leaders"
-date: 2018-11-21
-source-url: https://www.scoop.co.nz/stories/ED1811/S00060/nzusa-elects-its-2019-leaders.htm
+title: NZUSA elects its 2019 leaders
+date: 2018-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00060/nzusa-elects-its-2019-leaders.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/11/21/nzusa-elects-its-2019-leaders/index.html
+layout: layout.njk
 ---
 NZUSA elects its 2019 leaders
 =============================

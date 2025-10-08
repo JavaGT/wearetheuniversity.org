@@ -1,9 +1,13 @@
 ---
 slug: designing-an-inclusive-citizenship-model-guided-by-te-tiriti-o-waitangi
-title: "Designing An Inclusive Citizenship Model Guided By Te Tiriti O Waitangi"
-date: 2023-11-27
-source-url: https://www.scoop.co.nz/stories/PO2311/S00178/designing-an-inclusive-citizenship-model-guided-by-te-tiriti-o-waitangi.htm
+title: Designing An Inclusive Citizenship Model Guided By Te Tiriti O Waitangi
+date: 2023-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00178/designing-an-inclusive-citizenship-model-guided-by-te-tiriti-o-waitangi.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/11/27/designing-an-inclusive-citizenship-model-guided-by-te-tiriti-o-waitangi/index.html
+layout: layout.njk
 ---
 Designing An Inclusive Citizenship Model Guided By Te Tiriti O Waitangi
 =======================================================================

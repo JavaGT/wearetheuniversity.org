@@ -1,9 +1,12 @@
 ---
 slug: emergency-staff-at-breaking-point
-title: "Emergency staff at breaking point"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PA1408/S00203/emergency-staff-at-breaking-point.htm
+title: Emergency staff at breaking point
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00203/emergency-staff-at-breaking-point.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/13/emergency-staff-at-breaking-point/index.html
+layout: layout.njk
 ---
 Emergency staff at breaking point
 =================================

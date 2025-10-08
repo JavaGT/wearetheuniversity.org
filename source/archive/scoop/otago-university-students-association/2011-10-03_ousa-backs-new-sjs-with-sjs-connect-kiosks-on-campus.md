@@ -1,9 +1,13 @@
 ---
 slug: ousa-backs-new-sjs-with-sjs-connect-kiosks-on-campus
-title: "OUSA backs new SJS with ‘SJS Connect’ Kiosks on campus"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/ED1110/S00008/ousa-backs-new-sjs-with-sjs-connect-kiosks-on-campus.htm
+title: OUSA backs new SJS with ‘SJS Connect’ Kiosks on campus
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00008/ousa-backs-new-sjs-with-sjs-connect-kiosks-on-campus.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2011/10/03/ousa-backs-new-sjs-with-sjs-connect-kiosks-on-campus/index.html
+layout: layout.njk
 ---
 OUSA backs new SJS with ‘SJS Connect’ Kiosks on campus
 ======================================================

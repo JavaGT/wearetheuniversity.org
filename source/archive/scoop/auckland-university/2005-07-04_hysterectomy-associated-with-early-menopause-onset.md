@@ -1,9 +1,13 @@
 ---
 slug: hysterectomy-associated-with-early-menopause-onset
-title: "Hysterectomy associated with early menopause onset"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/ED0507/S00011/hysterectomy-associated-with-early-menopause-onset.htm
+title: Hysterectomy associated with early menopause onset
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00011/hysterectomy-associated-with-early-menopause-onset.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/07/04/hysterectomy-associated-with-early-menopause-onset/index.html
+layout: layout.njk
 ---
 Hysterectomy associated with early menopause onset
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: study-shows-strong-link-between-covid-19-and-worsening-mental-health
-title: "Study Shows Strong Link Between COVID-19 And Worsening Mental Health"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/GE2206/S00024/study-shows-strong-link-between-covid-19-and-worsening-mental-health.htm
+title: Study Shows Strong Link Between COVID-19 And Worsening Mental Health
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2206/S00024/study-shows-strong-link-between-covid-19-and-worsening-mental-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/06/08/study-shows-strong-link-between-covid-19-and-worsening-mental-health/index.html
+layout: layout.njk
 ---
 Study Shows Strong Link Between COVID-19 And Worsening Mental Health
 ====================================================================

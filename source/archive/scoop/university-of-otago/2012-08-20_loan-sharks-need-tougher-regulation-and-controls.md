@@ -1,9 +1,13 @@
 ---
 slug: loan-sharks-need-tougher-regulation-and-controls
-title: "‘Loan sharks’ need tougher regulation and controls"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/PO1208/S00285/loan-sharks-need-tougher-regulation-and-controls.htm
+title: ‘Loan sharks’ need tougher regulation and controls
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00285/loan-sharks-need-tougher-regulation-and-controls.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/20/loan-sharks-need-tougher-regulation-and-controls/index.html
+layout: layout.njk
 ---
 ‘Loan sharks’ need tougher regulation and controls
 ==================================================

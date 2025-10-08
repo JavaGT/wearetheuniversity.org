@@ -1,9 +1,13 @@
 ---
 slug: ge-medicine-derived-from-human-mouse-hybrid-gene
-title: "GE medicine derived from human/mouse hybrid gene"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/PA0603/S00360/ge-medicine-derived-from-humanmouse-hybrid-gene.htm
+title: GE medicine derived from human/mouse hybrid gene
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00360/ge-medicine-derived-from-humanmouse-hybrid-gene.htm
 author: green-party
+permalink: >-
+  /archive/2006/03/22/ge-medicine-derived-from-human-mouse-hybrid-gene/index.html
+layout: layout.njk
 ---
 GE medicine derived from human/mouse hybrid gene
 ================================================

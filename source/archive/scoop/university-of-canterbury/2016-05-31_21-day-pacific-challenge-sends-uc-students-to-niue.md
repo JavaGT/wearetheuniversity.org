@@ -1,9 +1,13 @@
 ---
 slug: 21-day-pacific-challenge-sends-uc-students-to-niue
-title: "21 Day Pacific Challenge sends UC students to Niue"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/ED1605/S00136/21-day-pacific-challenge-sends-uc-students-to-niue.htm
+title: 21 Day Pacific Challenge sends UC students to Niue
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00136/21-day-pacific-challenge-sends-uc-students-to-niue.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/31/21-day-pacific-challenge-sends-uc-students-to-niue/index.html
+layout: layout.njk
 ---
 21 Day Pacific Challenge sends UC students to Niue
 ==================================================

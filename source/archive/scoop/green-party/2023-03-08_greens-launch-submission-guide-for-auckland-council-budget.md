@@ -1,9 +1,13 @@
 ---
 slug: greens-launch-submission-guide-for-auckland-council-budget
-title: "Greens Launch Submission Guide For Auckland Council Budget"
-date: 2023-03-08
-source-url: https://www.scoop.co.nz/stories/PA2303/S00061/greens-launch-submission-guide-for-auckland-council-budget.htm
+title: Greens Launch Submission Guide For Auckland Council Budget
+date: 2023-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00061/greens-launch-submission-guide-for-auckland-council-budget.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/08/greens-launch-submission-guide-for-auckland-council-budget/index.html
+layout: layout.njk
 ---
 Greens Launch Submission Guide For Auckland Council Budget
 ==========================================================

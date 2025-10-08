@@ -1,9 +1,13 @@
 ---
 slug: mediator-needed-urgently-for-education-pay-dispute
-title: "Mediator Needed Urgently for Education Pay Dispute"
-date: 2001-10-30
-source-url: https://www.scoop.co.nz/stories/PA0110/S00501/mediator-needed-urgently-for-education-pay-dispute.htm
+title: Mediator Needed Urgently for Education Pay Dispute
+date: 2001-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00501/mediator-needed-urgently-for-education-pay-dispute.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/30/mediator-needed-urgently-for-education-pay-dispute/index.html
+layout: layout.njk
 ---
 Mediator Needed Urgently for Education Pay Dispute
 ==================================================

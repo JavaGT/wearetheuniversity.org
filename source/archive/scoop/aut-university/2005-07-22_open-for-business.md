@@ -1,9 +1,11 @@
 ---
 slug: open-for-business
-title: "Open for business"
-date: 2005-07-22
+title: Open for business
+date: 2005-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00088/open-for-business.htm
 author: aut-university
+permalink: /archive/2005/07/22/open-for-business/index.html
+layout: layout.njk
 ---
 Open for business
 =================

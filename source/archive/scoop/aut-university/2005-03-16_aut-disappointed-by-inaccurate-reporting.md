@@ -1,9 +1,12 @@
 ---
 slug: aut-disappointed-by-inaccurate-reporting
-title: "AUT Disappointed by Inaccurate Reporting"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/ED0503/S00051/aut-disappointed-by-inaccurate-reporting.htm
+title: AUT Disappointed by Inaccurate Reporting
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00051/aut-disappointed-by-inaccurate-reporting.htm
 author: aut-university
+permalink: /archive/2005/03/16/aut-disappointed-by-inaccurate-reporting/index.html
+layout: layout.njk
 ---
 AUT Disappointed by Inaccurate Reporting
 ========================================

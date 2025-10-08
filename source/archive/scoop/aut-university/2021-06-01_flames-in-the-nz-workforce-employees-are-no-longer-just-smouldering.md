@@ -1,9 +1,13 @@
 ---
 slug: flames-in-the-nz-workforce-employees-are-no-longer-just-smouldering
-title: "Flames In The NZ Workforce: Employees Are No Longer Just ‘Smouldering’"
-date: 2021-06-01
-source-url: https://www.scoop.co.nz/stories/BU2106/S00003/flames-in-the-nz-workforce-employees-are-no-longer-just-smouldering.htm
+title: 'Flames In The NZ Workforce: Employees Are No Longer Just ‘Smouldering’'
+date: 2021-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2106/S00003/flames-in-the-nz-workforce-employees-are-no-longer-just-smouldering.htm
 author: aut-university
+permalink: >-
+  /archive/2021/06/01/flames-in-the-nz-workforce-employees-are-no-longer-just-smouldering/index.html
+layout: layout.njk
 ---
 Flames In The NZ Workforce: Employees Are No Longer Just ‘Smouldering’
 ======================================================================

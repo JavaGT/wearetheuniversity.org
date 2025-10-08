@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-on-complex-workplace-interactions
-title: "Public lecture on complex workplace interactions"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00078/public-lecture-on-complex-workplace-interactions.htm
+title: Public lecture on complex workplace interactions
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00078/public-lecture-on-complex-workplace-interactions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/12/public-lecture-on-complex-workplace-interactions/index.html
+layout: layout.njk
 ---
 Public lecture on complex workplace interactions
 ================================================

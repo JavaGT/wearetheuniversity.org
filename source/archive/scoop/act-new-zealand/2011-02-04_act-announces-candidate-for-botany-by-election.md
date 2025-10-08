@@ -1,9 +1,12 @@
 ---
 slug: act-announces-candidate-for-botany-by-election
-title: "ACT Announces Candidate for Botany By-Election"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/PO1102/S00044/act-announces-candidate-for-botany-by-election.htm
+title: ACT Announces Candidate for Botany By-Election
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00044/act-announces-candidate-for-botany-by-election.htm
 author: act-new-zealand
+permalink: /archive/2011/02/04/act-announces-candidate-for-botany-by-election/index.html
+layout: layout.njk
 ---
 ACT Announces Candidate for Botany By-Election
 ==============================================

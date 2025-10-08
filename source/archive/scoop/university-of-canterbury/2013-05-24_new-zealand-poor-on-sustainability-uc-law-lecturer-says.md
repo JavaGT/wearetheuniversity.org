@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-poor-on-sustainability-uc-law-lecturer-says
-title: "New Zealand poor on sustainability, UC law lecturer says"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/SC1305/S00078/new-zealand-poor-on-sustainability-uc-law-lecturer-says.htm
+title: New Zealand poor on sustainability, UC law lecturer says
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00078/new-zealand-poor-on-sustainability-uc-law-lecturer-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/24/new-zealand-poor-on-sustainability-uc-law-lecturer-says/index.html
+layout: layout.njk
 ---
 New Zealand poor on sustainability, UC law lecturer says
 ========================================================

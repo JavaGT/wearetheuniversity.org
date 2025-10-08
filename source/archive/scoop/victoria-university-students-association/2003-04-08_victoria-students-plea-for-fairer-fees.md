@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-plea-for-fairer-fees
-title: "Victoria students plea for fairer fees"
-date: 2003-04-08
-source-url: https://www.scoop.co.nz/stories/ED0304/S00018/victoria-students-plea-for-fairer-fees.htm
+title: Victoria students plea for fairer fees
+date: 2003-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00018/victoria-students-plea-for-fairer-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2003/04/08/victoria-students-plea-for-fairer-fees/index.html
+layout: layout.njk
 ---
 Victoria students plea for fairer fees
 ======================================

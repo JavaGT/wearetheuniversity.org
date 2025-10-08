@@ -1,9 +1,11 @@
 ---
 slug: poets-on-ice
-title: "Poets on Ice"
-date: 2005-02-09
+title: Poets on Ice
+date: 2005-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0502/S00032/poets-on-ice.htm
 author: victoria-university-press
+permalink: /archive/2005/02/09/poets-on-ice/index.html
+layout: layout.njk
 ---
 Poets on Ice
 ============

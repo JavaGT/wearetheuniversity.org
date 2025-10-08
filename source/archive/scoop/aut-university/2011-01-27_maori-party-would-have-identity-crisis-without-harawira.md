@@ -1,9 +1,13 @@
 ---
 slug: maori-party-would-have-identity-crisis-without-harawira
-title: "Maori Party would have \"identity crisis\" without Harawira"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PO1101/S00111/maori-party-would-have-identity-crisis-without-harawira.htm
+title: Maori Party would have "identity crisis" without Harawira
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00111/maori-party-would-have-identity-crisis-without-harawira.htm
 author: aut-university
+permalink: >-
+  /archive/2011/01/27/maori-party-would-have-identity-crisis-without-harawira/index.html
+layout: layout.njk
 ---
 Maori Party would have “identity crisis” without Harawira
 =========================================================

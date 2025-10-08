@@ -1,9 +1,13 @@
 ---
 slug: mike-moss-speech-at-green-party-smart-farming-launch
-title: "Mike Moss’ Speech at Green Party Smart Farming Launch"
-date: 2014-09-07
-source-url: https://www.scoop.co.nz/stories/BU1409/S00240/mike-moss-speech-at-green-party-smart-farming-launch.htm
+title: Mike Moss’ Speech at Green Party Smart Farming Launch
+date: 2014-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00240/mike-moss-speech-at-green-party-smart-farming-launch.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/07/mike-moss-speech-at-green-party-smart-farming-launch/index.html
+layout: layout.njk
 ---
 Mike Moss’ Speech at Green Party Smart Farming Launch
 =====================================================

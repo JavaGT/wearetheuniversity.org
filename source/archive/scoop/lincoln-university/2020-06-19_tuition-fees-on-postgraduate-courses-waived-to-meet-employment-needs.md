@@ -1,9 +1,13 @@
 ---
 slug: tuition-fees-on-postgraduate-courses-waived-to-meet-employment-needs
-title: "Tuition Fees On Postgraduate Courses Waived To Meet Employment Needs"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/ED2006/S00026/tuition-fees-on-postgraduate-courses-waived-to-meet-employment-needs.htm
+title: Tuition Fees On Postgraduate Courses Waived To Meet Employment Needs
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00026/tuition-fees-on-postgraduate-courses-waived-to-meet-employment-needs.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/06/19/tuition-fees-on-postgraduate-courses-waived-to-meet-employment-needs/index.html
+layout: layout.njk
 ---
 Tuition Fees On Postgraduate Courses Waived To Meet Employment Needs
 ====================================================================

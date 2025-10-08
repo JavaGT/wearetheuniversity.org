@@ -1,9 +1,12 @@
 ---
 slug: ponds-removal-improves-manukau-water-quality
-title: "Ponds’ removal improves Manukau water quality"
-date: 2005-06-22
-source-url: https://www.scoop.co.nz/stories/AK0506/S00164/ponds-removal-improves-manukau-water-quality.htm
+title: Ponds’ removal improves Manukau water quality
+date: 2005-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0506/S00164/ponds-removal-improves-manukau-water-quality.htm
 author: aut-university
+permalink: /archive/2005/06/22/ponds-removal-improves-manukau-water-quality/index.html
+layout: layout.njk
 ---
 Ponds’ removal improves Manukau water quality
 =============================================

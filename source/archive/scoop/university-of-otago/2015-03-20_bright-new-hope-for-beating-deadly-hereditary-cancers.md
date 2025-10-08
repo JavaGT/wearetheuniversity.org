@@ -1,9 +1,13 @@
 ---
 slug: bright-new-hope-for-beating-deadly-hereditary-cancers
-title: "Bright new hope for beating deadly hereditary cancers"
-date: 2015-03-20
-source-url: https://www.scoop.co.nz/stories/SC1503/S00077/bright-new-hope-for-beating-deadly-hereditary-cancers.htm
+title: Bright new hope for beating deadly hereditary cancers
+date: 2015-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00077/bright-new-hope-for-beating-deadly-hereditary-cancers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/20/bright-new-hope-for-beating-deadly-hereditary-cancers/index.html
+layout: layout.njk
 ---
 Bright new hope for beating deadly hereditary cancers
 =====================================================

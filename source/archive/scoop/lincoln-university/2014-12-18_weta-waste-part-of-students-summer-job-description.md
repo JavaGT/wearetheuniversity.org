@@ -1,9 +1,13 @@
 ---
 slug: weta-waste-part-of-students-summer-job-description
-title: "Weta waste part of student's summer job description"
-date: 2014-12-18
-source-url: https://www.scoop.co.nz/stories/ED1412/S00122/weta-waste-part-of-students-summer-job-description.htm
+title: Weta waste part of student's summer job description
+date: 2014-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00122/weta-waste-part-of-students-summer-job-description.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/12/18/weta-waste-part-of-students-summer-job-description/index.html
+layout: layout.njk
 ---
 Weta waste part of student's summer job description
 ===================================================

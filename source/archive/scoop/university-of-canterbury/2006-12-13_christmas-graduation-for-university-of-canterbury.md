@@ -1,9 +1,13 @@
 ---
 slug: christmas-graduation-for-university-of-canterbury
-title: "Christmas graduation for University of Canterbury"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/ED0612/S00038/christmas-graduation-for-university-of-canterbury.htm
+title: Christmas graduation for University of Canterbury
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00038/christmas-graduation-for-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/12/13/christmas-graduation-for-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Christmas graduation for University of Canterbury
 =================================================

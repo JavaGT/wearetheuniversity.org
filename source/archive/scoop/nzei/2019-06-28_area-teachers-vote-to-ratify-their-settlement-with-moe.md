@@ -1,9 +1,13 @@
 ---
 slug: area-teachers-vote-to-ratify-their-settlement-with-moe
-title: "Area teachers vote to ratify their settlement with MoE"
-date: 2019-06-28
-source-url: https://www.scoop.co.nz/stories/PO1906/S00373/area-teachers-vote-to-ratify-their-settlement-with-moe.htm
+title: Area teachers vote to ratify their settlement with MoE
+date: 2019-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00373/area-teachers-vote-to-ratify-their-settlement-with-moe.htm
 author: nzei
+permalink: >-
+  /archive/2019/06/28/area-teachers-vote-to-ratify-their-settlement-with-moe/index.html
+layout: layout.njk
 ---
 Area teachers vote to ratify their settlement with MoE
 ======================================================

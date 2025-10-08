@@ -1,9 +1,12 @@
 ---
 slug: kiwis-mourn-the-loss-of-sir-wilson-whineray
-title: "Kiwis Mourn The Loss Of Sir Wilson Whineray"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/PA1210/S00370/kiwis-mourn-the-loss-of-sir-wilson-whineray.htm
+title: Kiwis Mourn The Loss Of Sir Wilson Whineray
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00370/kiwis-mourn-the-loss-of-sir-wilson-whineray.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/23/kiwis-mourn-the-loss-of-sir-wilson-whineray/index.html
+layout: layout.njk
 ---
 Kiwis Mourn The Loss Of Sir Wilson Whineray
 ===========================================

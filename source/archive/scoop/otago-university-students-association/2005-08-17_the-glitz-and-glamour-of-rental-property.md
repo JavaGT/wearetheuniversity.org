@@ -1,9 +1,12 @@
 ---
 slug: the-glitz-and-glamour-of-rental-property
-title: "The Glitz and Glamour of Rental Property"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/ED0508/S00082/the-glitz-and-glamour-of-rental-property.htm
+title: The Glitz and Glamour of Rental Property
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00082/the-glitz-and-glamour-of-rental-property.htm
 author: otago-university-students-association
+permalink: /archive/2005/08/17/the-glitz-and-glamour-of-rental-property/index.html
+layout: layout.njk
 ---
 The Glitz and Glamour of Rental Property
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-plans-fee-hikes-and-increased-debt
-title: "National plans fee hikes and increased debt"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/ED0710/S00009/national-plans-fee-hikes-and-increased-debt.htm
+title: National plans fee hikes and increased debt
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00009/national-plans-fee-hikes-and-increased-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/10/02/national-plans-fee-hikes-and-increased-debt/index.html
+layout: layout.njk
 ---
 National plans fee hikes and increased debt
 ===========================================

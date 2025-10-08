@@ -1,9 +1,12 @@
 ---
 slug: bill-english-launch-of-nationals-schools-policy
-title: "Bill English: Launch of National’s Schools Policy"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/PA0507/S00016/bill-english-launch-of-nationals-schools-policy.htm
+title: 'Bill English: Launch of National’s Schools Policy'
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00016/bill-english-launch-of-nationals-schools-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/01/bill-english-launch-of-nationals-schools-policy/index.html
+layout: layout.njk
 ---
 Bill English: Launch of National’s Schools Policy
 =================================================

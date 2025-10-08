@@ -1,9 +1,12 @@
 ---
 slug: novopay-errors-running-down-schools-funds
-title: "Novopay Errors Running Down Schools Funds"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/ED1302/S00009/novopay-errors-running-down-schools-funds.htm
+title: Novopay Errors Running Down Schools Funds
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00009/novopay-errors-running-down-schools-funds.htm
 author: nzei
+permalink: /archive/2013/02/01/novopay-errors-running-down-schools-funds/index.html
+layout: layout.njk
 ---
 Novopay Errors Running Down Schools Funds
 =========================================

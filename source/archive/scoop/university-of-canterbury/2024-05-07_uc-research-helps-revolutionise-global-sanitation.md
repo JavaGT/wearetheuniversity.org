@@ -1,9 +1,13 @@
 ---
 slug: uc-research-helps-revolutionise-global-sanitation
-title: "UC Research Helps Revolutionise Global Sanitation"
-date: 2024-05-07
-source-url: https://www.scoop.co.nz/stories/SC2405/S00020/uc-research-helps-revolutionise-global-sanitation.htm
+title: UC Research Helps Revolutionise Global Sanitation
+date: 2024-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00020/uc-research-helps-revolutionise-global-sanitation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/07/uc-research-helps-revolutionise-global-sanitation/index.html
+layout: layout.njk
 ---
 UC Research Helps Revolutionise Global Sanitation
 =================================================

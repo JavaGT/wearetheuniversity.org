@@ -1,9 +1,13 @@
 ---
 slug: nurses-celebrate-government-decision-to-make-nz-smokefree
-title: "Nurses celebrate Government decision to make NZ smokefree ."
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/GE1103/S00067/nurses-celebrate-government-decision-to-make-nz-smokefree.htm
+title: Nurses celebrate Government decision to make NZ smokefree .
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1103/S00067/nurses-celebrate-government-decision-to-make-nz-smokefree.htm
 author: aut-university
+permalink: >-
+  /archive/2011/03/17/nurses-celebrate-government-decision-to-make-nz-smokefree/index.html
+layout: layout.njk
 ---
 Nurses celebrate Government decision to make NZ smokefree .
 ===========================================================

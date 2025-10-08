@@ -1,9 +1,12 @@
 ---
 slug: education-(tertiary-reforms)-amendment-bill
-title: "Education (Tertiary Reforms) Amendment Bill"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00243/education-tertiary-reforms-amendment-bill.htm
+title: Education (Tertiary Reforms) Amendment Bill
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00243/education-tertiary-reforms-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/05/10/education-/index.html
+layout: layout.njk
 ---
 Education (Tertiary Reforms) Amendment Bill
 ===========================================

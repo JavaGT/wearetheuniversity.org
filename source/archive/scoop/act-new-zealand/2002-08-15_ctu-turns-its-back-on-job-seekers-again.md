@@ -1,9 +1,12 @@
 ---
 slug: ctu-turns-its-back-on-job-seekers-again
-title: "CTU Turns Its Back on Job Seekers - Again"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/PA0208/S00117/ctu-turns-its-back-on-job-seekers-again.htm
+title: CTU Turns Its Back on Job Seekers - Again
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00117/ctu-turns-its-back-on-job-seekers-again.htm
 author: act-new-zealand
+permalink: /archive/2002/08/15/ctu-turns-its-back-on-job-seekers-again/index.html
+layout: layout.njk
 ---
 CTU Turns Its Back on Job Seekers - Again
 =========================================

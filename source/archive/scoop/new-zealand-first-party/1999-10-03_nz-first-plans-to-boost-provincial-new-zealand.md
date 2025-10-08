@@ -1,9 +1,12 @@
 ---
 slug: nz-first-plans-to-boost-provincial-new-zealand
-title: "NZ First Plans To Boost Provincial New Zealand"
-date: 1999-10-03
-source-url: https://www.scoop.co.nz/stories/PA9910/S00027/nz-first-plans-to-boost-provincial-new-zealand.htm
+title: NZ First Plans To Boost Provincial New Zealand
+date: 1999-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00027/nz-first-plans-to-boost-provincial-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/03/nz-first-plans-to-boost-provincial-new-zealand/index.html
+layout: layout.njk
 ---
 NZ First Plans To Boost Provincial New Zealand
 ==============================================

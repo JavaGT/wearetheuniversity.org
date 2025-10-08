@@ -1,9 +1,12 @@
 ---
 slug: social-engineers-economic-mismanagers!
-title: "Social Engineers - Economic Mismanagers!"
-date: 2003-06-26
-source-url: https://www.scoop.co.nz/stories/PA0306/S00486/social-engineers-economic-mismanagers.htm
+title: Social Engineers - Economic Mismanagers!
+date: 2003-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00486/social-engineers-economic-mismanagers.htm
 author: new-zealand-first-party
+permalink: /archive/2003/06/26/social-engineers-economic-mismanagers/index.html
+layout: layout.njk
 ---
 Social Engineers - Economic Mismanagers!
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: show-us-where-the-money-has-gone-dr-cullen
-title: "Show us where the money has gone Dr Cullen"
-date: 2007-05-15
-source-url: https://www.scoop.co.nz/stories/PA0705/S00343/show-us-where-the-money-has-gone-dr-cullen.htm
+title: Show us where the money has gone Dr Cullen
+date: 2007-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00343/show-us-where-the-money-has-gone-dr-cullen.htm
 author: act-new-zealand
+permalink: /archive/2007/05/15/show-us-where-the-money-has-gone-dr-cullen/index.html
+layout: layout.njk
 ---
 Show us where the money has gone Dr Cullen
 ==========================================

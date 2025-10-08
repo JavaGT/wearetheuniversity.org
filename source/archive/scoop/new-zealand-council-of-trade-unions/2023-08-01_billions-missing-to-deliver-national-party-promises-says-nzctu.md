@@ -1,9 +1,13 @@
 ---
 slug: billions-missing-to-deliver-national-party-promises-says-nzctu
-title: "Billions Missing To Deliver National Party Promises, Says NZCTU"
-date: 2023-08-01
-source-url: https://www.scoop.co.nz/stories/PO2308/S00010/billions-missing-to-deliver-national-party-promises-says-nzctu.htm
+title: Billions Missing To Deliver National Party Promises, Says NZCTU
+date: 2023-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00010/billions-missing-to-deliver-national-party-promises-says-nzctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/08/01/billions-missing-to-deliver-national-party-promises-says-nzctu/index.html
+layout: layout.njk
 ---
 Billions Missing To Deliver National Party Promises, Says NZCTU
 ===============================================================

@@ -1,9 +1,13 @@
 ---
 slug: overwhelming-mandate-for-university-strike-action
-title: "Overwhelming mandate for university strike action"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/NM0404/S00006/overwhelming-mandate-for-university-strike-action.htm
+title: Overwhelming mandate for university strike action
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/NM0404/S00006/overwhelming-mandate-for-university-strike-action.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/04/08/overwhelming-mandate-for-university-strike-action/index.html
+layout: layout.njk
 ---
 Overwhelming mandate for university strike action
 =================================================

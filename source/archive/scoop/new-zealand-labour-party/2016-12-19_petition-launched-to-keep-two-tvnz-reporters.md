@@ -1,9 +1,12 @@
 ---
 slug: petition-launched-to-keep-two-tvnz-reporters
-title: "Petition launched to keep two TVNZ reporters"
-date: 2016-12-19
-source-url: https://www.scoop.co.nz/stories/PA1612/S00312/petition-launched-to-keep-two-tvnz-reporters.htm
+title: Petition launched to keep two TVNZ reporters
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00312/petition-launched-to-keep-two-tvnz-reporters.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/19/petition-launched-to-keep-two-tvnz-reporters/index.html
+layout: layout.njk
 ---
 Petition launched to keep two TVNZ reporters
 ============================================

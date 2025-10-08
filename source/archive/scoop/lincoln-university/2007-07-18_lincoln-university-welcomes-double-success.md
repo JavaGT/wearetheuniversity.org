@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-welcomes-double-success
-title: "Lincoln University Welcomes Double Success"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/ED0707/S00056/lincoln-university-welcomes-double-success.htm
+title: Lincoln University Welcomes Double Success
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00056/lincoln-university-welcomes-double-success.htm
 author: lincoln-university
+permalink: /archive/2007/07/18/lincoln-university-welcomes-double-success/index.html
+layout: layout.njk
 ---
 Lincoln University Welcomes Double Success
 ==========================================

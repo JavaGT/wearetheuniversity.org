@@ -1,9 +1,12 @@
 ---
 slug: margaret-mahy-to-announce-schools-poetry-winner
-title: "Margaret Mahy to Announce Schools Poetry Winner"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/ED0406/S00034/margaret-mahy-to-announce-schools-poetry-winner.htm
+title: Margaret Mahy to Announce Schools Poetry Winner
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00034/margaret-mahy-to-announce-schools-poetry-winner.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/08/margaret-mahy-to-announce-schools-poetry-winner/index.html
+layout: layout.njk
 ---
 Margaret Mahy to Announce Schools Poetry Winner
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-winston-peters-mmp-the-inside-story
-title: "Speech: Winston Peters \"MMP - The Inside Story\""
-date: 2010-01-29
-source-url: https://www.scoop.co.nz/stories/PO1001/S00116/speech-winston-peters-mmp-the-inside-story.htm
+title: 'Speech: Winston Peters "MMP - The Inside Story"'
+date: 2010-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1001/S00116/speech-winston-peters-mmp-the-inside-story.htm
 author: new-zealand-first-party
+permalink: /archive/2010/01/29/speech-winston-peters-mmp-the-inside-story/index.html
+layout: layout.njk
 ---
 Speech: Winston Peters \"MMP - The Inside Story"
 ===============================================

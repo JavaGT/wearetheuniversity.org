@@ -1,9 +1,12 @@
 ---
 slug: speaker-of-house-returns-to-waikato-university
-title: "Speaker of House returns to Waikato University"
-date: 2008-09-24
-source-url: https://www.scoop.co.nz/stories/PA0809/S00510/speaker-of-house-returns-to-waikato-university.htm
+title: Speaker of House returns to Waikato University
+date: 2008-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00510/speaker-of-house-returns-to-waikato-university.htm
 author: university-of-waikato
+permalink: /archive/2008/09/24/speaker-of-house-returns-to-waikato-university/index.html
+layout: layout.njk
 ---
 Speaker of House returns to Waikato University
 ==============================================

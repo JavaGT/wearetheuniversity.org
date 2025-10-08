@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-now-part-of-online-sign-language-dictionary
-title: "Te reo Māori now part of online sign language dictionary"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/GE1305/S00088/te-reo-maori-now-part-of-online-sign-language-dictionary.htm
+title: Te reo Māori now part of online sign language dictionary
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00088/te-reo-maori-now-part-of-online-sign-language-dictionary.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/14/te-reo-m/index.html
+layout: layout.njk
 ---
 Te reo Māori now part of online sign language dictionary
 ========================================================

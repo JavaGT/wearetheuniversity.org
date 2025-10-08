@@ -1,9 +1,11 @@
 ---
 slug: maharey-returns-to-massey
-title: "Maharey returns to Massey"
-date: 2007-10-19
+title: Maharey returns to Massey
+date: 2007-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0710/S00061/maharey-returns-to-massey.htm
 author: massey-university
+permalink: /archive/2007/10/19/maharey-returns-to-massey/index.html
+layout: layout.njk
 ---
 Maharey returns to Massey
 =========================

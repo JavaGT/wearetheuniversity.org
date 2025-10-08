@@ -1,9 +1,12 @@
 ---
 slug: usu-hosts-fourth-kids-day-out
-title: "USU  hosts fourth Kids' Day Out"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/CU1003/S00161/usu-hosts-fourth-kids-day-out.htm
+title: USU  hosts fourth Kids' Day Out
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00161/usu-hosts-fourth-kids-day-out.htm
 author: usu.-student-association-at-unitec
+permalink: /archive/2010/03/10/usu-hosts-fourth-kids-day-out/index.html
+layout: layout.njk
 ---
 USU hosts fourth Kids' Day Out
 ==============================

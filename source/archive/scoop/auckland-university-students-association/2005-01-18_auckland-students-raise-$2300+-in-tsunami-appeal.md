@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-raise-$2300+-in-tsunami-appeal
-title: "Auckland Students raise $2300+ in Tsunami Appeal"
-date: 2005-01-18
-source-url: https://www.scoop.co.nz/stories/PO0501/S00130/auckland-students-raise-2300-in-tsunami-appeal.htm
+title: Auckland Students raise $2300+ in Tsunami Appeal
+date: 2005-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0501/S00130/auckland-students-raise-2300-in-tsunami-appeal.htm
 author: auckland-university-students-association
+permalink: /archive/2005/01/18/auckland-students-raise-/index.html
+layout: layout.njk
 ---
 Auckland Students raise $2300+ in Tsunami Appeal
 ================================================

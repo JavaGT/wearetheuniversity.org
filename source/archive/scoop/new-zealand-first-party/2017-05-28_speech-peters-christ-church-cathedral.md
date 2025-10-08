@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-christ-church-cathedral
-title: "Speech: Peters - Christ Church Cathedral"
-date: 2017-05-28
-source-url: https://www.scoop.co.nz/stories/PA1705/S00599/speech-peters-christ-church-cathedral.htm
+title: 'Speech: Peters - Christ Church Cathedral'
+date: 2017-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00599/speech-peters-christ-church-cathedral.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/28/speech-peters-christ-church-cathedral/index.html
+layout: layout.njk
 ---
 Speech: Peters - Christ Church Cathedral
 ========================================

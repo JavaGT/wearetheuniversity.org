@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-happiness-pleasure-engagement-in-life
-title: "UC researching happiness, pleasure, engagement in life"
-date: 2012-11-12
-source-url: https://www.scoop.co.nz/stories/CU1211/S00212/uc-researching-happiness-pleasure-engagement-in-life.htm
+title: UC researching happiness, pleasure, engagement in life
+date: 2012-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00212/uc-researching-happiness-pleasure-engagement-in-life.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/12/uc-researching-happiness-pleasure-engagement-in-life/index.html
+layout: layout.njk
 ---
 UC researching happiness, pleasure, engagement in life
 ======================================================

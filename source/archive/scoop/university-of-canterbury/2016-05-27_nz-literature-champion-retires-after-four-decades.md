@@ -1,9 +1,13 @@
 ---
 slug: nz-literature-champion-retires-after-four-decades
-title: "NZ literature champion retires after four decades"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/ED1605/S00119/nz-literature-champion-retires-after-four-decades.htm
+title: NZ literature champion retires after four decades
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00119/nz-literature-champion-retires-after-four-decades.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/27/nz-literature-champion-retires-after-four-decades/index.html
+layout: layout.njk
 ---
 NZ literature champion retires after four decades
 =================================================

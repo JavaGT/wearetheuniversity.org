@@ -1,9 +1,12 @@
 ---
 slug: emergency-housing-bill-hits-$1-billion
-title: "Emergency Housing Bill Hits $1 Billion"
-date: 2022-06-29
-source-url: https://www.scoop.co.nz/stories/PA2206/S00234/emergency-housing-bill-hits-1-billion.htm
+title: Emergency Housing Bill Hits $1 Billion
+date: 2022-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00234/emergency-housing-bill-hits-1-billion.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/29/emergency-housing-bill-hits-/index.html
+layout: layout.njk
 ---
 Emergency Housing Bill Hits $1 Billion
 ======================================

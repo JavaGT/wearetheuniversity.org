@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-new-director-of-development
-title: "University appoints new director of development"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/ED0706/S00113/university-appoints-new-director-of-development.htm
+title: University appoints new director of development
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00113/university-appoints-new-director-of-development.htm
 author: university-of-waikato
+permalink: /archive/2007/06/29/university-appoints-new-director-of-development/index.html
+layout: layout.njk
 ---
 University appoints new director of development
 ===============================================

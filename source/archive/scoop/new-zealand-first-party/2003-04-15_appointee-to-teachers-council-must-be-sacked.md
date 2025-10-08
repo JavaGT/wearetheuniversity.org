@@ -1,9 +1,12 @@
 ---
 slug: appointee-to-teachers-council-must-be-sacked
-title: "Appointee To Teachers Council Must Be Sacked"
-date: 2003-04-15
-source-url: https://www.scoop.co.nz/stories/PA0304/S00309/appointee-to-teachers-council-must-be-sacked.htm
+title: Appointee To Teachers Council Must Be Sacked
+date: 2003-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00309/appointee-to-teachers-council-must-be-sacked.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/15/appointee-to-teachers-council-must-be-sacked/index.html
+layout: layout.njk
 ---
 Appointee To Teachers Council Must Be Sacked
 ============================================

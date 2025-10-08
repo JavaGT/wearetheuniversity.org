@@ -1,9 +1,12 @@
 ---
 slug: young-nats-support-current-drinking-age
-title: "Young Nats support current drinking age"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/PA0408/S00103/young-nats-support-current-drinking-age.htm
+title: Young Nats support current drinking age
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00103/young-nats-support-current-drinking-age.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/05/young-nats-support-current-drinking-age/index.html
+layout: layout.njk
 ---
 Young Nats support current drinking age
 =======================================

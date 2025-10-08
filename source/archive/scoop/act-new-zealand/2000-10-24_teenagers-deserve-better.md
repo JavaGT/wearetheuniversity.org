@@ -1,9 +1,11 @@
 ---
 slug: teenagers-deserve-better
-title: "Teenagers Deserve Better"
-date: 2000-10-24
+title: Teenagers Deserve Better
+date: 2000-10-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0010/S00425/teenagers-deserve-better.htm
 author: act-new-zealand
+permalink: /archive/2000/10/24/teenagers-deserve-better/index.html
+layout: layout.njk
 ---
 Teenagers Deserve Better
 ========================

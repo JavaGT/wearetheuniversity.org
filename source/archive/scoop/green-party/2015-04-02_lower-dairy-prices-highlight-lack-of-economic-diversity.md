@@ -1,9 +1,13 @@
 ---
 slug: lower-dairy-prices-highlight-lack-of-economic-diversity
-title: "Lower dairy prices highlight lack of economic diversity"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/PA1504/S00037/lower-dairy-prices-highlight-lack-of-economic-diversity.htm
+title: Lower dairy prices highlight lack of economic diversity
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00037/lower-dairy-prices-highlight-lack-of-economic-diversity.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/02/lower-dairy-prices-highlight-lack-of-economic-diversity/index.html
+layout: layout.njk
 ---
 Lower dairy prices highlight lack of economic diversity
 =======================================================

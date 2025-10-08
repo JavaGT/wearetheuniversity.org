@@ -1,9 +1,12 @@
 ---
 slug: houses-more-affordable-in-central-otago-lakes
-title: "Houses more affordable in Central Otago Lakes"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/BU1807/S00269/houses-more-affordable-in-central-otago-lakes.htm
+title: Houses more affordable in Central Otago Lakes
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1807/S00269/houses-more-affordable-in-central-otago-lakes.htm
 author: massey-university
+permalink: /archive/2018/07/11/houses-more-affordable-in-central-otago-lakes/index.html
+layout: layout.njk
 ---
 Houses more affordable in Central Otago Lakes
 =============================================

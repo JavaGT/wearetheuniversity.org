@@ -1,9 +1,12 @@
 ---
 slug: turia-report-of-the-special-rapporteur
-title: "Turia: Report of the Special Rapporteur"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/PA0604/S00090/turia-report-of-the-special-rapporteur.htm
+title: 'Turia: Report of the Special Rapporteur'
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00090/turia-report-of-the-special-rapporteur.htm
 author: te-pati-maori
+permalink: /archive/2006/04/05/turia-report-of-the-special-rapporteur/index.html
+layout: layout.njk
 ---
 Turia: Report of the Special Rapporteur
 =======================================

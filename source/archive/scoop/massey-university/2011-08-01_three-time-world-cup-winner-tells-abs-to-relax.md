@@ -1,9 +1,12 @@
 ---
 slug: three-time-world-cup-winner-tells-abs-to-relax
-title: "Three-time World Cup winner tells ABs to relax"
-date: 2011-08-01
-source-url: https://www.scoop.co.nz/stories/ED1108/S00003/three-time-world-cup-winner-tells-abs-to-relax.htm
+title: Three-time World Cup winner tells ABs to relax
+date: 2011-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00003/three-time-world-cup-winner-tells-abs-to-relax.htm
 author: massey-university
+permalink: /archive/2011/08/01/three-time-world-cup-winner-tells-abs-to-relax/index.html
+layout: layout.njk
 ---
 Three-time World Cup winner tells ABs to relax
 ==============================================

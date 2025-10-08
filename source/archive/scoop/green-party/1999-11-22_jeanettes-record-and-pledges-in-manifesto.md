@@ -1,9 +1,12 @@
 ---
 slug: jeanettes-record-and-pledges-in-manifesto
-title: "Jeanette's record, and pledges, in manifesto"
-date: 1999-11-22
-source-url: https://www.scoop.co.nz/stories/PA9911/S00494/jeanettes-record-and-pledges-in-manifesto.htm
+title: Jeanette's record, and pledges, in manifesto
+date: 1999-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00494/jeanettes-record-and-pledges-in-manifesto.htm
 author: green-party
+permalink: /archive/1999/11/22/jeanettes-record-and-pledges-in-manifesto/index.html
+layout: layout.njk
 ---
 Jeanette's record, and pledges, in manifesto
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: research-tackles-attitudes-to-concussion
-title: "Research tackles attitudes to concussion"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/GE1207/S00086/research-tackles-attitudes-to-concussion.htm
+title: Research tackles attitudes to concussion
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1207/S00086/research-tackles-attitudes-to-concussion.htm
 author: massey-university
+permalink: /archive/2012/07/26/research-tackles-attitudes-to-concussion/index.html
+layout: layout.njk
 ---
 Research tackles attitudes to concussion
 ========================================

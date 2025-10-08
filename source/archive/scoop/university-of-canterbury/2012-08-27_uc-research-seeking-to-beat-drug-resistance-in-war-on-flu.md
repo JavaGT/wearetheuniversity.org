@@ -1,9 +1,13 @@
 ---
 slug: uc-research-seeking-to-beat-drug-resistance-in-war-on-flu
-title: "UC research seeking to beat drug-resistance in war on flu"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/SC1208/S00069/uc-research-seeking-to-beat-drug-resistance-in-war-on-flu.htm
+title: UC research seeking to beat drug-resistance in war on flu
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00069/uc-research-seeking-to-beat-drug-resistance-in-war-on-flu.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/27/uc-research-seeking-to-beat-drug-resistance-in-war-on-flu/index.html
+layout: layout.njk
 ---
 UC research seeking to beat drug-resistance in war on flu
 =========================================================

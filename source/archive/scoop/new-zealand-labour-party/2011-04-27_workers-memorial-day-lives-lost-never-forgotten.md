@@ -1,9 +1,12 @@
 ---
 slug: workers-memorial-day-lives-lost-never-forgotten
-title: "Workers’ Memorial Day- lives lost never forgotten"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/PA1104/S00498/workers-memorial-day-lives-lost-never-forgotten.htm
+title: Workers’ Memorial Day- lives lost never forgotten
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00498/workers-memorial-day-lives-lost-never-forgotten.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/27/workers-memorial-day-lives-lost-never-forgotten/index.html
+layout: layout.njk
 ---
 Workers’ Memorial Day- lives lost never forgotten
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: student-wins-sir-peter-blake-youth-ambassador-scholarship
-title: "Student wins Sir Peter Blake youth ambassador scholarship"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/SC1409/S00057/student-wins-sir-peter-blake-youth-ambassador-scholarship.htm
+title: Student wins Sir Peter Blake youth ambassador scholarship
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00057/student-wins-sir-peter-blake-youth-ambassador-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/15/student-wins-sir-peter-blake-youth-ambassador-scholarship/index.html
+layout: layout.njk
 ---
 Student wins Sir Peter Blake youth ambassador scholarship
 =========================================================

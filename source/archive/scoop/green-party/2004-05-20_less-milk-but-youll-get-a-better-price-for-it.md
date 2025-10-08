@@ -1,9 +1,12 @@
 ---
 slug: less-milk-but-youll-get-a-better-price-for-it
-title: "Less milk, but you'll get a better price for it"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/PA0405/S00447/less-milk-but-youll-get-a-better-price-for-it.htm
+title: Less milk, but you'll get a better price for it
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00447/less-milk-but-youll-get-a-better-price-for-it.htm
 author: green-party
+permalink: /archive/2004/05/20/less-milk-but-youll-get-a-better-price-for-it/index.html
+layout: layout.njk
 ---
 Less milk, but you'll get a better price for it
 ===============================================

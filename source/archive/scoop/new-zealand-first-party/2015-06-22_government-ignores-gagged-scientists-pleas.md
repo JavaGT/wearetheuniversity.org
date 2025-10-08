@@ -1,9 +1,12 @@
 ---
 slug: government-ignores-gagged-scientists-pleas
-title: "Government Ignores Gagged Scientists Pleas"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/PA1506/S00394/government-ignores-gagged-scientists-pleas.htm
+title: Government Ignores Gagged Scientists Pleas
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00394/government-ignores-gagged-scientists-pleas.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/22/government-ignores-gagged-scientists-pleas/index.html
+layout: layout.njk
 ---
 Government Ignores Gagged Scientists Pleas
 ==========================================

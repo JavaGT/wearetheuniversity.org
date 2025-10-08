@@ -1,9 +1,13 @@
 ---
 slug: beyond-victims-and-saviours-sustainability-in-the-pacific
-title: "Beyond Victims And Saviours – Sustainability In The Pacific"
-date: 2021-06-15
-source-url: https://www.scoop.co.nz/stories/SC2106/S00033/beyond-victims-and-saviours-sustainability-in-the-pacific.htm
+title: Beyond Victims And Saviours – Sustainability In The Pacific
+date: 2021-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00033/beyond-victims-and-saviours-sustainability-in-the-pacific.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/15/beyond-victims-and-saviours-sustainability-in-the-pacific/index.html
+layout: layout.njk
 ---
 Beyond Victims And Saviours – Sustainability In The Pacific
 ===========================================================

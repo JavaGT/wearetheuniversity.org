@@ -1,9 +1,12 @@
 ---
 slug: four-lanes-crucial-to-canterbury-growth
-title: "Four lanes crucial to Canterbury growth"
-date: 2018-01-10
-source-url: https://www.scoop.co.nz/stories/PA1801/S00012/four-lanes-crucial-to-canterbury-growth.htm
+title: Four lanes crucial to Canterbury growth
+date: 2018-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00012/four-lanes-crucial-to-canterbury-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/10/four-lanes-crucial-to-canterbury-growth/index.html
+layout: layout.njk
 ---
 Four lanes crucial to Canterbury growth
 =======================================

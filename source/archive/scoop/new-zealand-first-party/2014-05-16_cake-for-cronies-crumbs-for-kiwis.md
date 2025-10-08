@@ -1,9 +1,12 @@
 ---
 slug: cake-for-cronies-crumbs-for-kiwis
-title: "\"Cake for Cronies  - Crumbs for Kiwis\""
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PA1405/S00298/cake-for-cronies-crumbs-for-kiwis.htm
+title: '"Cake for Cronies  - Crumbs for Kiwis"'
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00298/cake-for-cronies-crumbs-for-kiwis.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/16/cake-for-cronies-crumbs-for-kiwis/index.html
+layout: layout.njk
 ---
 “Cake for Cronies - Crumbs for Kiwis”
 =====================================

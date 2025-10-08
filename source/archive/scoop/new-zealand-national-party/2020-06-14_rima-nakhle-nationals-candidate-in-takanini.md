@@ -1,9 +1,12 @@
 ---
 slug: rima-nakhle-nationals-candidate-in-takanini
-title: "Rima Nakhle National’s Candidate In Takanini"
-date: 2020-06-14
-source-url: https://www.scoop.co.nz/stories/PA2006/S00121/rima-nakhle-nationals-candidate-in-takanini.htm
+title: Rima Nakhle National’s Candidate In Takanini
+date: 2020-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00121/rima-nakhle-nationals-candidate-in-takanini.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/14/rima-nakhle-nationals-candidate-in-takanini/index.html
+layout: layout.njk
 ---
 Rima Nakhle National’s Candidate In Takanini
 ============================================

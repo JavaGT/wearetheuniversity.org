@@ -1,9 +1,13 @@
 ---
 slug: government-should-upskill-kiwi-workers-to-rebuild-chch
-title: "Government Should Upskill Kiwi Workers To Rebuild Chch"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/PA1209/S00424/government-should-upskill-kiwi-workers-to-rebuild-chch.htm
+title: Government Should Upskill Kiwi Workers To Rebuild Chch
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00424/government-should-upskill-kiwi-workers-to-rebuild-chch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/27/government-should-upskill-kiwi-workers-to-rebuild-chch/index.html
+layout: layout.njk
 ---
 Government Should Upskill Kiwi Workers To Rebuild Chch
 ======================================================

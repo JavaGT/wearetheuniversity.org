@@ -1,9 +1,13 @@
 ---
 slug: open-day-to-help-students-make-educated-decisions
-title: "Open Day to help students make educated decisions"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/ED1605/S00032/open-day-to-help-students-make-educated-decisions.htm
+title: Open Day to help students make educated decisions
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00032/open-day-to-help-students-make-educated-decisions.htm
 author: aut-university
+permalink: >-
+  /archive/2016/05/10/open-day-to-help-students-make-educated-decisions/index.html
+layout: layout.njk
 ---
 Open Day to help students make educated decisions
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-choose-calm-over-panic
-title: "Winston Peters Speech: Choose Calm Over Panic"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00464/winston-peters-speech-choose-calm-over-panic.htm
+title: 'Winston Peters Speech: Choose Calm Over Panic'
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00464/winston-peters-speech-choose-calm-over-panic.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/23/winston-peters-speech-choose-calm-over-panic/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: Choose Calm Over Panic
 =============================================

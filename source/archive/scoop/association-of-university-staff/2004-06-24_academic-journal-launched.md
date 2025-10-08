@@ -1,9 +1,11 @@
 ---
 slug: academic-journal-launched
-title: "Academic journal launched"
-date: 2004-06-24
+title: Academic journal launched
+date: 2004-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0406/S00086/academic-journal-launched.htm
 author: association-of-university-staff
+permalink: /archive/2004/06/24/academic-journal-launched/index.html
+layout: layout.njk
 ---
 Academic journal launched
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: debate-on-child-abuse-&-schizophrenia-repeated
-title: "Debate On Child Abuse & Schizophrenia Repeated"
-date: 2006-07-11
-source-url: https://www.scoop.co.nz/stories/GE0607/S00044/debate-on-child-abuse-schizophrenia-repeated.htm
+title: Debate On Child Abuse & Schizophrenia Repeated
+date: 2006-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00044/debate-on-child-abuse-schizophrenia-repeated.htm
 author: auckland-university
+permalink: /archive/2006/07/11/debate-on-child-abuse-/index.html
+layout: layout.njk
 ---
 Debate On Child Abuse & Schizophrenia Repeated
 ==============================================

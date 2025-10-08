@@ -1,9 +1,13 @@
 ---
 slug: waikato-mba-students-take-smartphone-messaging-to-next-level
-title: "Waikato MBA students take smartphone messaging to next level"
-date: 2012-07-31
-source-url: https://www.scoop.co.nz/stories/BU1207/S01068/waikato-mba-students-take-smartphone-messaging-to-next-level.htm
+title: Waikato MBA students take smartphone messaging to next level
+date: 2012-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1207/S01068/waikato-mba-students-take-smartphone-messaging-to-next-level.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/31/waikato-mba-students-take-smartphone-messaging-to-next-level/index.html
+layout: layout.njk
 ---
 Waikato MBA students take smartphone messaging to next level
 ============================================================

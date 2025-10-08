@@ -1,9 +1,12 @@
 ---
 slug: new-post-for-public-health-director
-title: "New post for public health director"
-date: 2008-10-22
-source-url: https://www.scoop.co.nz/stories/ED0810/S00095/new-post-for-public-health-director.htm
+title: New post for public health director
+date: 2008-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00095/new-post-for-public-health-director.htm
 author: massey-university
+permalink: /archive/2008/10/22/new-post-for-public-health-director/index.html
+layout: layout.njk
 ---
 New post for public health director
 ===================================

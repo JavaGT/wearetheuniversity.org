@@ -1,9 +1,13 @@
 ---
 slug: us-poet-joy-harjo-to-bring-storytelling-magic-to-wellington
-title: "US poet Joy Harjo to bring storytelling magic to Wellington"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/CU1108/S00177/us-poet-joy-harjo-to-bring-storytelling-magic-to-wellington.htm
+title: US poet Joy Harjo to bring storytelling magic to Wellington
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00177/us-poet-joy-harjo-to-bring-storytelling-magic-to-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/11/us-poet-joy-harjo-to-bring-storytelling-magic-to-wellington/index.html
+layout: layout.njk
 ---
 US poet Joy Harjo to bring storytelling magic to Wellington
 ===========================================================

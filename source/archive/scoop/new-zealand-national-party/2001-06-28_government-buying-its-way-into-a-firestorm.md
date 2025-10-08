@@ -1,9 +1,12 @@
 ---
 slug: government-buying-its-way-into-a-firestorm
-title: "Government Buying Its Way Into A Firestorm"
-date: 2001-06-28
-source-url: https://www.scoop.co.nz/stories/PA0106/S00427/government-buying-its-way-into-a-firestorm.htm
+title: Government Buying Its Way Into A Firestorm
+date: 2001-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00427/government-buying-its-way-into-a-firestorm.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/28/government-buying-its-way-into-a-firestorm/index.html
+layout: layout.njk
 ---
 Government Buying Its Way Into A Firestorm
 ==========================================

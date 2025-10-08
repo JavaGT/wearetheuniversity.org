@@ -1,9 +1,13 @@
 ---
 slug: brain-injury-researchers-turn-attention-to-young-people
-title: "Brain injury researchers turn attention to young people"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/ED1106/S00027/brain-injury-researchers-turn-attention-to-young-people.htm
+title: Brain injury researchers turn attention to young people
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00027/brain-injury-researchers-turn-attention-to-young-people.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/06/03/brain-injury-researchers-turn-attention-to-young-people/index.html
+layout: layout.njk
 ---
 Brain injury researchers turn attention to young people
 =======================================================

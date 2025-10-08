@@ -1,9 +1,12 @@
 ---
 slug: rattled-pm-looks-to-change-the-rules
-title: "Rattled PM looks to change the rules"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/PA0403/S00296/rattled-pm-looks-to-change-the-rules.htm
+title: Rattled PM looks to change the rules
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00296/rattled-pm-looks-to-change-the-rules.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/15/rattled-pm-looks-to-change-the-rules/index.html
+layout: layout.njk
 ---
 Rattled PM looks to change the rules
 ====================================

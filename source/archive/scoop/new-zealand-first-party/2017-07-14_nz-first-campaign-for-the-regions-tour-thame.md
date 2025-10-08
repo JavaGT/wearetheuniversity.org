@@ -1,9 +1,12 @@
 ---
 slug: nz-first-campaign-for-the-regions-tour-thame
-title: "NZ First Campaign for The Regions Tour – Thame"
-date: 2017-07-14
-source-url: https://www.scoop.co.nz/stories/PO1707/S00193/nz-first-campaign-for-the-regions-tour-thame.htm
+title: NZ First Campaign for The Regions Tour – Thame
+date: 2017-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00193/nz-first-campaign-for-the-regions-tour-thame.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/14/nz-first-campaign-for-the-regions-tour-thame/index.html
+layout: layout.njk
 ---
 NZ First Campaign for The Regions Tour – Thame
 ==============================================

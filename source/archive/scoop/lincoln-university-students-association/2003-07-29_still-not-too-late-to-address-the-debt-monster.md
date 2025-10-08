@@ -1,9 +1,12 @@
 ---
 slug: still-not-too-late-to-address-the-debt-monster
-title: "Still not too late to address the debt monster"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/ED0307/S00072/still-not-too-late-to-address-the-debt-monster.htm
+title: Still not too late to address the debt monster
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00072/still-not-too-late-to-address-the-debt-monster.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/07/29/still-not-too-late-to-address-the-debt-monster/index.html
+layout: layout.njk
 ---
 Still not too late to address the debt monster
 ==============================================

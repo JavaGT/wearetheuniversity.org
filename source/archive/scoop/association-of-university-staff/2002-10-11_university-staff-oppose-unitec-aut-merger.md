@@ -1,9 +1,12 @@
 ---
 slug: university-staff-oppose-unitec-aut-merger
-title: "University staff oppose Unitec-AUT merger"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/ED0210/S00033/university-staff-oppose-unitec-aut-merger.htm
+title: University staff oppose Unitec-AUT merger
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00033/university-staff-oppose-unitec-aut-merger.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/11/university-staff-oppose-unitec-aut-merger/index.html
+layout: layout.njk
 ---
 University staff oppose Unitec-AUT merger
 =========================================

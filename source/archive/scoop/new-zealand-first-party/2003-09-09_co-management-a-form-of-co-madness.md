@@ -1,9 +1,12 @@
 ---
 slug: co-management-a-form-of-co-madness
-title: "Co-Management A Form Of Co-Madness"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/PA0309/S00185/co-management-a-form-of-co-madness.htm
+title: Co-Management A Form Of Co-Madness
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00185/co-management-a-form-of-co-madness.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/09/co-management-a-form-of-co-madness/index.html
+layout: layout.njk
 ---
 Co-Management A Form Of Co-Madness
 ==================================

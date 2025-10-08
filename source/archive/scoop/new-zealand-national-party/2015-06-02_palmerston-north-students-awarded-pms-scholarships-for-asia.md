@@ -1,9 +1,13 @@
 ---
 slug: palmerston-north-students-awarded-pms-scholarships-for-asia
-title: "Palmerston North students awarded PM’s Scholarships for Asia"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/PA1506/S00019/palmerston-north-students-awarded-pms-scholarships-for-asia.htm
+title: Palmerston North students awarded PM’s Scholarships for Asia
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00019/palmerston-north-students-awarded-pms-scholarships-for-asia.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/02/palmerston-north-students-awarded-pms-scholarships-for-asia/index.html
+layout: layout.njk
 ---
 Palmerston North students awarded PM’s Scholarships for Asia
 ============================================================

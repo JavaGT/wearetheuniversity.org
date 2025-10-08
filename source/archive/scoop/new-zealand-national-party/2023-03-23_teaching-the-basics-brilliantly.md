@@ -1,9 +1,12 @@
 ---
 slug: teaching-the-basics-brilliantly
-title: "Teaching The Basics Brilliantly"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PA2303/S00196/teaching-the-basics-brilliantly.htm
+title: Teaching The Basics Brilliantly
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00196/teaching-the-basics-brilliantly.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/23/teaching-the-basics-brilliantly/index.html
+layout: layout.njk
 ---
 Teaching The Basics Brilliantly
 ===============================

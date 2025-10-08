@@ -1,9 +1,12 @@
 ---
 slug: peters-alliance-sold-soul-for-plastic-promises
-title: "Peters - Alliance Sold Soul For Plastic Promises"
-date: 1999-09-14
-source-url: https://www.scoop.co.nz/stories/PA9909/S00296/peters-alliance-sold-soul-for-plastic-promises.htm
+title: Peters - Alliance Sold Soul For Plastic Promises
+date: 1999-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00296/peters-alliance-sold-soul-for-plastic-promises.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/14/peters-alliance-sold-soul-for-plastic-promises/index.html
+layout: layout.njk
 ---
 Peters - Alliance Sold Soul For Plastic Promises
 ================================================

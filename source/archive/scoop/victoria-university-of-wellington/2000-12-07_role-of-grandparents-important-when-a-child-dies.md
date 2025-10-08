@@ -1,9 +1,13 @@
 ---
 slug: role-of-grandparents-important-when-a-child-dies
-title: "Role of grandparents important when a child dies"
-date: 2000-12-07
-source-url: https://www.scoop.co.nz/stories/GE0012/S00009/role-of-grandparents-important-when-a-child-dies.htm
+title: Role of grandparents important when a child dies
+date: 2000-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0012/S00009/role-of-grandparents-important-when-a-child-dies.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/12/07/role-of-grandparents-important-when-a-child-dies/index.html
+layout: layout.njk
 ---
 Role of grandparents important when a child dies
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: katene-urges-whanau-to-start-planning
-title: "Katene urges whanau to start planning"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/PA1103/S00026/katene-urges-whanau-to-start-planning.htm
+title: Katene urges whanau to start planning
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00026/katene-urges-whanau-to-start-planning.htm
 author: te-pati-maori
+permalink: /archive/2011/03/02/katene-urges-whanau-to-start-planning/index.html
+layout: layout.njk
 ---
 Katene urges whanau to start planning
 =====================================

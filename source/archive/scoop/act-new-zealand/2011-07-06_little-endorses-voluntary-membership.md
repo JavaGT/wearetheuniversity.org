@@ -1,9 +1,12 @@
 ---
 slug: little-endorses-voluntary-membership
-title: "Little Endorses Voluntary Membership"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00085/little-endorses-voluntary-membership.htm
+title: Little Endorses Voluntary Membership
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00085/little-endorses-voluntary-membership.htm
 author: act-new-zealand
+permalink: /archive/2011/07/06/little-endorses-voluntary-membership/index.html
+layout: layout.njk
 ---
 Little Endorses Voluntary Membership
 ====================================

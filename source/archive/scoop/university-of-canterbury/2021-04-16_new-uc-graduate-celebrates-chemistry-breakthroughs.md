@@ -1,9 +1,13 @@
 ---
 slug: new-uc-graduate-celebrates-chemistry-breakthroughs
-title: "New UC Graduate Celebrates Chemistry Breakthroughs"
-date: 2021-04-16
-source-url: https://www.scoop.co.nz/stories/ED2104/S00017/new-uc-graduate-celebrates-chemistry-breakthroughs.htm
+title: New UC Graduate Celebrates Chemistry Breakthroughs
+date: 2021-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00017/new-uc-graduate-celebrates-chemistry-breakthroughs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/04/16/new-uc-graduate-celebrates-chemistry-breakthroughs/index.html
+layout: layout.njk
 ---
 New UC Graduate Celebrates Chemistry Breakthroughs
 ==================================================

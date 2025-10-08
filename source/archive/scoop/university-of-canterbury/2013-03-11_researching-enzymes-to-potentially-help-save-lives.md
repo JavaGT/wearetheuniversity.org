@@ -1,9 +1,13 @@
 ---
 slug: researching-enzymes-to-potentially-help-save-lives
-title: "Researching enzymes to potentially help save lives"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/ED1303/S00063/researching-enzymes-to-potentially-help-save-lives.htm
+title: Researching enzymes to potentially help save lives
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00063/researching-enzymes-to-potentially-help-save-lives.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/11/researching-enzymes-to-potentially-help-save-lives/index.html
+layout: layout.njk
 ---
 Researching enzymes to potentially help save lives
 ==================================================

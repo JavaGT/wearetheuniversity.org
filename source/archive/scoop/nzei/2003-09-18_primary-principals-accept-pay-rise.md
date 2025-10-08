@@ -1,9 +1,12 @@
 ---
 slug: primary-principals-accept-pay-rise
-title: "Primary Principals Accept Pay Rise"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/ED0309/S00072/primary-principals-accept-pay-rise.htm
+title: Primary Principals Accept Pay Rise
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00072/primary-principals-accept-pay-rise.htm
 author: nzei
+permalink: /archive/2003/09/18/primary-principals-accept-pay-rise/index.html
+layout: layout.njk
 ---
 Primary Principals Accept Pay Rise
 ==================================

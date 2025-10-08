@@ -1,9 +1,12 @@
 ---
 slug: uc-cce-merger-goes-to-next-stage
-title: "UC/CCE merger goes to next stage"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/ED0506/S00008/uccce-merger-goes-to-next-stage.htm
+title: UC/CCE merger goes to next stage
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00008/uccce-merger-goes-to-next-stage.htm
 author: university-of-canterbury
+permalink: /archive/2005/06/02/uc-cce-merger-goes-to-next-stage/index.html
+layout: layout.njk
 ---
 UC/CCE merger goes to next stage
 ================================

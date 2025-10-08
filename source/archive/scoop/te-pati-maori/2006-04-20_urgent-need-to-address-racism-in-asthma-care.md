@@ -1,9 +1,12 @@
 ---
 slug: urgent-need-to-address-racism-in-asthma-care
-title: "Urgent need to address racism in asthma care"
-date: 2006-04-20
-source-url: https://www.scoop.co.nz/stories/PA0604/S00309/urgent-need-to-address-racism-in-asthma-care.htm
+title: Urgent need to address racism in asthma care
+date: 2006-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00309/urgent-need-to-address-racism-in-asthma-care.htm
 author: te-pati-maori
+permalink: /archive/2006/04/20/urgent-need-to-address-racism-in-asthma-care/index.html
+layout: layout.njk
 ---
 Urgent need to address racism in asthma care
 ============================================

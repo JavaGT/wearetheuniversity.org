@@ -1,9 +1,13 @@
 ---
 slug: pacific-people-continue-to-go-backwards-under-national
-title: "Pacific people continue to go backwards under National"
-date: 2014-08-22
-source-url: https://www.scoop.co.nz/stories/PA1408/S00351/pacific-people-continue-to-go-backwards-under-national.htm
+title: Pacific people continue to go backwards under National
+date: 2014-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00351/pacific-people-continue-to-go-backwards-under-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/22/pacific-people-continue-to-go-backwards-under-national/index.html
+layout: layout.njk
 ---
 Pacific people continue to go backwards under National
 ======================================================

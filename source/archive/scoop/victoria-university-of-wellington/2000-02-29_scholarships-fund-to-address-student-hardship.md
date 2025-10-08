@@ -1,9 +1,12 @@
 ---
 slug: scholarships-fund-to-address-student-hardship
-title: "Scholarships fund to address student hardship"
-date: 2000-02-29
-source-url: https://www.scoop.co.nz/stories/ED0002/S00043/scholarships-fund-to-address-student-hardship.htm
+title: Scholarships fund to address student hardship
+date: 2000-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00043/scholarships-fund-to-address-student-hardship.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/29/scholarships-fund-to-address-student-hardship/index.html
+layout: layout.njk
 ---
 Scholarships fund to address student hardship
 =============================================

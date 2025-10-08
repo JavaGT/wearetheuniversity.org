@@ -1,9 +1,13 @@
 ---
 slug: survey-shows-many-international-students-plan-to-stay-in-nz
-title: "Survey shows many international students plan to stay in NZ"
-date: 2017-06-13
-source-url: https://www.scoop.co.nz/stories/PA1706/S00209/survey-shows-many-international-students-plan-to-stay-in-nz.htm
+title: Survey shows many international students plan to stay in NZ
+date: 2017-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00209/survey-shows-many-international-students-plan-to-stay-in-nz.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/13/survey-shows-many-international-students-plan-to-stay-in-nz/index.html
+layout: layout.njk
 ---
 Survey shows many international students plan to stay in NZ
 ===========================================================

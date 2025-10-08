@@ -1,9 +1,12 @@
 ---
 slug: uc-college-of-arts-final-implementation-plan
-title: "UC College of Arts Final Implementation Plan"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/ED0805/S00132/uc-college-of-arts-final-implementation-plan.htm
+title: UC College of Arts Final Implementation Plan
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00132/uc-college-of-arts-final-implementation-plan.htm
 author: university-of-canterbury
+permalink: /archive/2008/05/29/uc-college-of-arts-final-implementation-plan/index.html
+layout: layout.njk
 ---
 UC College of Arts Final Implementation Plan
 ============================================

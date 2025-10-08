@@ -1,9 +1,12 @@
 ---
 slug: royal-retreat-or-sovereign-sanctuary
-title: "Royal retreat or sovereign sanctuary?"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/HL1003/S00268/royal-retreat-or-sovereign-sanctuary.htm
+title: Royal retreat or sovereign sanctuary?
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1003/S00268/royal-retreat-or-sovereign-sanctuary.htm
 author: salient
+permalink: /archive/2010/03/24/royal-retreat-or-sovereign-sanctuary/index.html
+layout: layout.njk
 ---
 Royal retreat or sovereign sanctuary?
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: industrial-action-at-victoria-university
-title: "Industrial Action at Victoria University:"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/ED0204/S00029/industrial-action-at-victoria-university.htm
+title: 'Industrial Action at Victoria University:'
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00029/industrial-action-at-victoria-university.htm
 author: association-of-university-staff
+permalink: /archive/2002/04/19/industrial-action-at-victoria-university/index.html
+layout: layout.njk
 ---
 Industrial Action at Victoria University:
 =========================================

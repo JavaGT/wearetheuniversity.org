@@ -1,9 +1,13 @@
 ---
 slug: attempt-to-bring-openness-to-treaty-negotiations-shot-down
-title: "Attempt to Bring Openness to Treaty Negotiations Shot Down"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00225/attempt-to-bring-openness-to-treaty-negotiations-shot-down.htm
+title: Attempt to Bring Openness to Treaty Negotiations Shot Down
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00225/attempt-to-bring-openness-to-treaty-negotiations-shot-down.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/15/attempt-to-bring-openness-to-treaty-negotiations-shot-down/index.html
+layout: layout.njk
 ---
 Attempt to Bring Openness to Treaty Negotiations Shot Down
 ==========================================================

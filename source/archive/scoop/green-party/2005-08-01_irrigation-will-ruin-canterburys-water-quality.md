@@ -1,9 +1,12 @@
 ---
 slug: irrigation-will-ruin-canterburys-water-quality
-title: "Irrigation will ruin Canterbury's water quality"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00010/irrigation-will-ruin-canterburys-water-quality.htm
+title: Irrigation will ruin Canterbury's water quality
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00010/irrigation-will-ruin-canterburys-water-quality.htm
 author: green-party
+permalink: /archive/2005/08/01/irrigation-will-ruin-canterburys-water-quality/index.html
+layout: layout.njk
 ---
 Irrigation will ruin Canterbury's water quality
 ===============================================

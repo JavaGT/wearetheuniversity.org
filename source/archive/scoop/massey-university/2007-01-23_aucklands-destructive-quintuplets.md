@@ -1,9 +1,12 @@
 ---
 slug: aucklands-destructive-quintuplets
-title: "Auckland’s Destructive Quintuplets"
-date: 2007-01-23
-source-url: https://www.scoop.co.nz/stories/SC0701/S00044/aucklands-destructive-quintuplets.htm
+title: Auckland’s Destructive Quintuplets
+date: 2007-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0701/S00044/aucklands-destructive-quintuplets.htm
 author: massey-university
+permalink: /archive/2007/01/23/aucklands-destructive-quintuplets/index.html
+layout: layout.njk
 ---
 Auckland’s Destructive Quintuplets
 ==================================

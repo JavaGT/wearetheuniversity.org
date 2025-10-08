@@ -1,9 +1,12 @@
 ---
 slug: scholarship-winner-environmental-enthusiast
-title: "Scholarship Winner Environmental Enthusiast"
-date: 2017-07-18
-source-url: https://www.scoop.co.nz/stories/ED1707/S00060/scholarship-winner-environmental-enthusiast.htm
+title: Scholarship Winner Environmental Enthusiast
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00060/scholarship-winner-environmental-enthusiast.htm
 author: lincoln-university
+permalink: /archive/2017/07/18/scholarship-winner-environmental-enthusiast/index.html
+layout: layout.njk
 ---
 Scholarship Winner Environmental Enthusiast
 ===========================================

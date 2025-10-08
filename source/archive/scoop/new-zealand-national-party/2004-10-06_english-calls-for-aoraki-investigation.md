@@ -1,9 +1,12 @@
 ---
 slug: english-calls-for-aoraki-investigation
-title: "English calls for Aoraki investigation"
-date: 2004-10-06
-source-url: https://www.scoop.co.nz/stories/PA0410/S00101/english-calls-for-aoraki-investigation.htm
+title: English calls for Aoraki investigation
+date: 2004-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00101/english-calls-for-aoraki-investigation.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/06/english-calls-for-aoraki-investigation/index.html
+layout: layout.njk
 ---
 English calls for Aoraki investigation
 ======================================

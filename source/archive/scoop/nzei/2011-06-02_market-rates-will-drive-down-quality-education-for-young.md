@@ -1,9 +1,13 @@
 ---
 slug: market-rates-will-drive-down-quality-education-for-young
-title: "Market rates will drive down quality education for young"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/ED1106/S00018/market-rates-will-drive-down-quality-education-for-young.htm
+title: Market rates will drive down quality education for young
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00018/market-rates-will-drive-down-quality-education-for-young.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/02/market-rates-will-drive-down-quality-education-for-young/index.html
+layout: layout.njk
 ---
 Market rates will drive down quality education for young
 ========================================================

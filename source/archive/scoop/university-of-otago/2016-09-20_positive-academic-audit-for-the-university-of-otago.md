@@ -1,9 +1,13 @@
 ---
 slug: positive-academic-audit-for-the-university-of-otago
-title: "Positive Academic Audit for the University of Otago"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/ED1609/S00094/positive-academic-audit-for-the-university-of-otago.htm
+title: Positive Academic Audit for the University of Otago
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00094/positive-academic-audit-for-the-university-of-otago.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/20/positive-academic-audit-for-the-university-of-otago/index.html
+layout: layout.njk
 ---
 Positive Academic Audit for the University of Otago
 ===================================================

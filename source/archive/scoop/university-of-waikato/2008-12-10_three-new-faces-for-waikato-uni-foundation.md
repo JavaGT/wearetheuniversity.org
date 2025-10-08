@@ -1,9 +1,12 @@
 ---
 slug: three-new-faces-for-waikato-uni-foundation
-title: "Three new faces for Waikato Uni foundation"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/CU0812/S00105/three-new-faces-for-waikato-uni-foundation.htm
+title: Three new faces for Waikato Uni foundation
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0812/S00105/three-new-faces-for-waikato-uni-foundation.htm
 author: university-of-waikato
+permalink: /archive/2008/12/10/three-new-faces-for-waikato-uni-foundation/index.html
+layout: layout.njk
 ---
 Three new faces for Waikato Uni foundation
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-hosts-nzs-largest-maths-conference
-title: "Victoria hosts NZ’s largest maths conference"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/ED0712/S00055/victoria-hosts-nzs-largest-maths-conference.htm
+title: Victoria hosts NZ’s largest maths conference
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00055/victoria-hosts-nzs-largest-maths-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/13/victoria-hosts-nzs-largest-maths-conference/index.html
+layout: layout.njk
 ---
 Victoria hosts NZ’s largest maths conference
 ============================================

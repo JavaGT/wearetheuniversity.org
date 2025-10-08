@@ -1,9 +1,12 @@
 ---
 slug: māori-language-programme-celebrates-30-years
-title: "Māori language programme celebrates 30 years"
-date: 2021-09-13
-source-url: https://www.scoop.co.nz/stories/ED2109/S00023/maori-language-programme-celebrates-30-years.htm
+title: Māori language programme celebrates 30 years
+date: 2021-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00023/maori-language-programme-celebrates-30-years.htm
 author: university-of-waikato
+permalink: /archive/2021/09/13/m/index.html
+layout: layout.njk
 ---
 Māori language programme celebrates 30 years
 ============================================

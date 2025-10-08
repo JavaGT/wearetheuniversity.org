@@ -1,9 +1,12 @@
 ---
 slug: why-they-dont-want-nz-first-in-opposition
-title: "Why They Don’t Want NZ First In Opposition"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PO1111/S00642/why-they-dont-want-nz-first-in-opposition.htm
+title: Why They Don’t Want NZ First In Opposition
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00642/why-they-dont-want-nz-first-in-opposition.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/23/why-they-dont-want-nz-first-in-opposition/index.html
+layout: layout.njk
 ---
 Why They Don’t Want NZ First In Opposition
 ==========================================

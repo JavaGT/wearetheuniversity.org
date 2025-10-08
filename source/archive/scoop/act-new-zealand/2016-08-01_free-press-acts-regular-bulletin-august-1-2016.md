@@ -1,9 +1,12 @@
 ---
 slug: free-press-acts-regular-bulletin-august-1-2016
-title: "Free Press:ACT’s regular bulletin August 1 2016"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/PA1608/S00015/free-pressacts-regular-bulletin-august-1-2016.htm
+title: Free Press:ACT’s regular bulletin August 1 2016
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00015/free-pressacts-regular-bulletin-august-1-2016.htm
 author: act-new-zealand
+permalink: /archive/2016/08/01/free-press-acts-regular-bulletin-august-1-2016/index.html
+layout: layout.njk
 ---
 Free Press:ACT’s regular bulletin August 1 2016
 ===============================================

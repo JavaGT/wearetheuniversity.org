@@ -1,9 +1,12 @@
 ---
 slug: montana-new-zealand-poetry-day
-title: "Montana New Zealand Poetry Day"
-date: 2001-07-20
-source-url: https://www.scoop.co.nz/stories/CU0107/S00067/montana-new-zealand-poetry-day.htm
+title: Montana New Zealand Poetry Day
+date: 2001-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0107/S00067/montana-new-zealand-poetry-day.htm
 author: auckland-university-press
+permalink: /archive/2001/07/20/montana-new-zealand-poetry-day/index.html
+layout: layout.njk
 ---
 Montana New Zealand Poetry Day
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-specialist-land-based-focus-confirmed
-title: "Lincoln University’s specialist land-based focus confirmed"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00058/lincoln-universitys-specialist-land-based-focus-confirmed.htm
+title: Lincoln University’s specialist land-based focus confirmed
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00058/lincoln-universitys-specialist-land-based-focus-confirmed.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/04/11/lincoln-universitys-specialist-land-based-focus-confirmed/index.html
+layout: layout.njk
 ---
 Lincoln University’s specialist land-based focus confirmed
 ==========================================================

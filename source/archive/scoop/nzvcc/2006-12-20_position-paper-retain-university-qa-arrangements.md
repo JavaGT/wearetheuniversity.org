@@ -1,9 +1,13 @@
 ---
 slug: position-paper-retain-university-qa-arrangements
-title: "Position paper: retain university QA arrangements"
-date: 2006-12-20
-source-url: https://www.scoop.co.nz/stories/ED0612/S00064/position-paper-retain-university-qa-arrangements.htm
+title: 'Position paper: retain university QA arrangements'
+date: 2006-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00064/position-paper-retain-university-qa-arrangements.htm
 author: nzvcc
+permalink: >-
+  /archive/2006/12/20/position-paper-retain-university-qa-arrangements/index.html
+layout: layout.njk
 ---
 Position paper: retain university QA arrangements
 =================================================

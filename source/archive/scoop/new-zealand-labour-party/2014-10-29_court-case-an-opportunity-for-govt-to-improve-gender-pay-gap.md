@@ -1,9 +1,13 @@
 ---
 slug: court-case-an-opportunity-for-govt-to-improve-gender-pay-gap
-title: "Court case an opportunity for Govt to improve gender pay gap"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PA1410/S00208/court-case-an-opportunity-for-govt-to-improve-gender-pay-gap.htm
+title: Court case an opportunity for Govt to improve gender pay gap
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00208/court-case-an-opportunity-for-govt-to-improve-gender-pay-gap.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/10/29/court-case-an-opportunity-for-govt-to-improve-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Court case an opportunity for Govt to improve gender pay gap
 ============================================================

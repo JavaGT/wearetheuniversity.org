@@ -1,9 +1,12 @@
 ---
 slug: hour-of-the-dead-protest-continues-against-cuts
-title: "Hour of the dead protest continues against cuts"
-date: 2008-04-28
-source-url: https://www.scoop.co.nz/stories/ED0804/S00077/hour-of-the-dead-protest-continues-against-cuts.htm
+title: Hour of the dead protest continues against cuts
+date: 2008-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00077/hour-of-the-dead-protest-continues-against-cuts.htm
 author: association-of-university-staff
+permalink: /archive/2008/04/28/hour-of-the-dead-protest-continues-against-cuts/index.html
+layout: layout.njk
 ---
 Hour of the dead protest continues against cuts
 ===============================================

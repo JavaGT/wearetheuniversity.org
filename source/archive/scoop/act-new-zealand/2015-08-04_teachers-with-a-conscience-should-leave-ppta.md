@@ -1,9 +1,12 @@
 ---
 slug: teachers-with-a-conscience-should-leave-ppta
-title: "Teachers with a conscience should leave PPTA"
-date: 2015-08-04
-source-url: https://www.scoop.co.nz/stories/PA1508/S00037/teachers-with-a-conscience-should-leave-ppta.htm
+title: Teachers with a conscience should leave PPTA
+date: 2015-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00037/teachers-with-a-conscience-should-leave-ppta.htm
 author: act-new-zealand
+permalink: /archive/2015/08/04/teachers-with-a-conscience-should-leave-ppta/index.html
+layout: layout.njk
 ---
 Teachers with a conscience should leave PPTA
 ============================================

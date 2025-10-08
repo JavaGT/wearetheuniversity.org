@@ -1,9 +1,12 @@
 ---
 slug: nation-builders-in-the-spotlight-on-13-june
-title: "Nation Builders In The Spotlight On 13 June"
-date: 2001-06-07
-source-url: https://www.scoop.co.nz/stories/CU0106/S00013/nation-builders-in-the-spotlight-on-13-june.htm
+title: Nation Builders In The Spotlight On 13 June
+date: 2001-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0106/S00013/nation-builders-in-the-spotlight-on-13-june.htm
 author: auckland-university-press
+permalink: /archive/2001/06/07/nation-builders-in-the-spotlight-on-13-june/index.html
+layout: layout.njk
 ---
 Nation Builders In The Spotlight On 13 June
 ===========================================

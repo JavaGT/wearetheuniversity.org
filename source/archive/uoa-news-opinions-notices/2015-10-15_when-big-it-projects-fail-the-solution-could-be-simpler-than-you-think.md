@@ -1,8 +1,12 @@
 ---
 slug: when-big-it-projects-fail-the-solution-could-be-simpler-than-you-think
-title: "When big IT projects fail: the solution could be simpler than you think"
-date: 2015-10-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/when-big-it-projects-fail--the-solution-could-be-simpler-than-yo.html
+title: 'When big IT projects fail: the solution could be simpler than you think'
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/when-big-it-projects-fail--the-solution-could-be-simpler-than-yo.html
+permalink: >-
+  /archive/2015/10/15/when-big-it-projects-fail-the-solution-could-be-simpler-than-you-think/index.html
+layout: layout.njk
 ---
 When big IT projects fail: the solution could be simpler than you think
 =======================================================================

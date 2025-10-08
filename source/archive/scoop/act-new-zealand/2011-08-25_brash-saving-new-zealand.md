@@ -1,9 +1,11 @@
 ---
 slug: brash-saving-new-zealand
-title: "Brash: Saving New Zealand"
-date: 2011-08-25
+title: 'Brash: Saving New Zealand'
+date: 2011-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1108/S00512/brash-saving-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2011/08/25/brash-saving-new-zealand/index.html
+layout: layout.njk
 ---
 Brash: Saving New Zealand
 =========================

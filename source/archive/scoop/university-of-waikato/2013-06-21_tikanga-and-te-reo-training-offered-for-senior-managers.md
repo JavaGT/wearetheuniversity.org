@@ -1,9 +1,13 @@
 ---
 slug: tikanga-and-te-reo-training-offered-for-senior-managers
-title: "Tikanga and te reo training offered for senior managers"
-date: 2013-06-21
-source-url: https://www.scoop.co.nz/stories/ED1306/S00119/tikanga-and-te-reo-training-offered-for-senior-managers.htm
+title: Tikanga and te reo training offered for senior managers
+date: 2013-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00119/tikanga-and-te-reo-training-offered-for-senior-managers.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/21/tikanga-and-te-reo-training-offered-for-senior-managers/index.html
+layout: layout.njk
 ---
 Tikanga and te reo training offered for senior managers
 =======================================================

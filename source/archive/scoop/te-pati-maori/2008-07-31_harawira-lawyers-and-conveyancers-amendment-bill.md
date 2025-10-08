@@ -1,9 +1,13 @@
 ---
 slug: harawira-lawyers-and-conveyancers-amendment-bill
-title: "Harawira: Lawyers and Conveyancers Amendment Bill"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/PA0807/S00590/harawira-lawyers-and-conveyancers-amendment-bill.htm
+title: 'Harawira: Lawyers and Conveyancers Amendment Bill'
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00590/harawira-lawyers-and-conveyancers-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/07/31/harawira-lawyers-and-conveyancers-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Lawyers and Conveyancers Amendment Bill
 =================================================

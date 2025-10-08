@@ -1,9 +1,12 @@
 ---
 slug: english-applauds-hood-criticism-of-the-tec
-title: "English applauds Hood criticism of the TEC"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/PA0404/S00355/english-applauds-hood-criticism-of-the-tec.htm
+title: English applauds Hood criticism of the TEC
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00355/english-applauds-hood-criticism-of-the-tec.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/23/english-applauds-hood-criticism-of-the-tec/index.html
+layout: layout.njk
 ---
 English applauds Hood criticism of the TEC
 ==========================================

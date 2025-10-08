@@ -1,9 +1,12 @@
 ---
 slug: timaru-doctors-strike-a-milestone-for-labour
-title: "Timaru doctors' strike a milestone for Labour"
-date: 2003-02-03
-source-url: https://www.scoop.co.nz/stories/PA0302/S00008/timaru-doctors-strike-a-milestone-for-labour.htm
+title: Timaru doctors' strike a milestone for Labour
+date: 2003-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00008/timaru-doctors-strike-a-milestone-for-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/03/timaru-doctors-strike-a-milestone-for-labour/index.html
+layout: layout.njk
 ---
 Timaru doctors' strike a milestone for Labour
 =============================================

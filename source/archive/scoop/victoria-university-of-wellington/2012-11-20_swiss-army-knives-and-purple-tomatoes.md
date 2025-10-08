@@ -1,9 +1,12 @@
 ---
 slug: swiss-army-knives-and-purple-tomatoes
-title: "Swiss Army Knives And Purple Tomatoes"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00136/swiss-army-knives-and-purple-tomatoes.htm
+title: Swiss Army Knives And Purple Tomatoes
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00136/swiss-army-knives-and-purple-tomatoes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/11/20/swiss-army-knives-and-purple-tomatoes/index.html
+layout: layout.njk
 ---
 Swiss Army Knives And Purple Tomatoes
 =====================================

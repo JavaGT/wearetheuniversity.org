@@ -1,9 +1,12 @@
 ---
 slug: truancy-announcement-is-that-it
-title: "Truancy Announcement – Is That It?"
-date: 2023-02-21
-source-url: https://www.scoop.co.nz/stories/PA2302/S00096/truancy-announcement-is-that-it.htm
+title: Truancy Announcement – Is That It?
+date: 2023-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00096/truancy-announcement-is-that-it.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/21/truancy-announcement-is-that-it/index.html
+layout: layout.njk
 ---
 Truancy Announcement – Is That It?
 ==================================

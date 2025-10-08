@@ -1,9 +1,12 @@
 ---
 slug: science-space-nominated-for-international-award
-title: "Science space nominated for international award"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/SC1404/S00013/science-space-nominated-for-international-award.htm
+title: Science space nominated for international award
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00013/science-space-nominated-for-international-award.htm
 author: massey-university
+permalink: /archive/2014/04/02/science-space-nominated-for-international-award/index.html
+layout: layout.njk
 ---
 Science space nominated for international award
 ===============================================

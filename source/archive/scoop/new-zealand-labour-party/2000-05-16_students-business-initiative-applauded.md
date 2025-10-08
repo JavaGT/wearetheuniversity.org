@@ -1,9 +1,12 @@
 ---
 slug: students-business-initiative-applauded
-title: "Students Business Initiative Applauded"
-date: 2000-05-16
-source-url: https://www.scoop.co.nz/stories/PA0005/S00330/students-business-initiative-applauded.htm
+title: Students Business Initiative Applauded
+date: 2000-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00330/students-business-initiative-applauded.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/05/16/students-business-initiative-applauded/index.html
+layout: layout.njk
 ---
 Students Business Initiative Applauded
 ======================================

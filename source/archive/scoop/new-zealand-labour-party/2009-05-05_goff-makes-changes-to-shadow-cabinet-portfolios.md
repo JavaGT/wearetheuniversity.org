@@ -1,9 +1,12 @@
 ---
 slug: goff-makes-changes-to-shadow-cabinet-portfolios
-title: "Goff makes changes to shadow Cabinet, portfolios"
-date: 2009-05-05
-source-url: https://www.scoop.co.nz/stories/PA0905/S00067/goff-makes-changes-to-shadow-cabinet-portfolios.htm
+title: Goff makes changes to shadow Cabinet, portfolios
+date: 2009-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00067/goff-makes-changes-to-shadow-cabinet-portfolios.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/05/goff-makes-changes-to-shadow-cabinet-portfolios/index.html
+layout: layout.njk
 ---
 Goff makes changes to shadow Cabinet, portfolios
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: big-year-for-zealds-youthful-ceo
-title: "Big Year For Zeald’s Youthful CEO"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00101/big-year-for-zealds-youthful-ceo.htm
+title: Big Year For Zeald’s Youthful CEO
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00101/big-year-for-zealds-youthful-ceo.htm
 author: massey-university
+permalink: /archive/2013/03/14/big-year-for-zealds-youthful-ceo/index.html
+layout: layout.njk
 ---
 Big Year For Zeald’s Youthful CEO
 =================================

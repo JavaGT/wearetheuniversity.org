@@ -1,9 +1,13 @@
 ---
 slug: online-learning-with-private-companies-will-harm-learning
-title: "Online learning with private companies will harm learning"
-date: 2016-08-23
-source-url: https://www.scoop.co.nz/stories/ED1608/S00074/online-learning-with-private-companies-will-harm-learning.htm
+title: Online learning with private companies will harm learning
+date: 2016-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00074/online-learning-with-private-companies-will-harm-learning.htm
 author: nzei
+permalink: >-
+  /archive/2016/08/23/online-learning-with-private-companies-will-harm-learning/index.html
+layout: layout.njk
 ---
 Online learning with private companies will harm learning
 =========================================================

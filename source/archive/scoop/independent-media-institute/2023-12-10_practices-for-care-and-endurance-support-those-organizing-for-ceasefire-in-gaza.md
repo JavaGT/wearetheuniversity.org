@@ -1,9 +1,16 @@
 ---
-slug: practices-for-care-and-endurance-support-those-organizing-for-ceasefire-in-gaza
-title: "‘Practices For Care And Endurance’ Support Those Organizing For Ceasefire In Gaza"
-date: 2023-12-10
-source-url: https://www.scoop.co.nz/stories/WO2312/S00059/practices-for-care-and-endurance-support-those-organizing-for-ceasefire-in-gaza.htm
+slug: >-
+  practices-for-care-and-endurance-support-those-organizing-for-ceasefire-in-gaza
+title: >-
+  ‘Practices For Care And Endurance’ Support Those Organizing For Ceasefire In
+  Gaza
+date: 2023-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2312/S00059/practices-for-care-and-endurance-support-those-organizing-for-ceasefire-in-gaza.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2023/12/10/practices-for-care-and-endurance-support-those-organizing-for-ceasefire-in-gaza/index.html
+layout: layout.njk
 ---
 ‘Practices For Care And Endurance’ Support Those Organizing For Ceasefire In Gaza
 =================================================================================

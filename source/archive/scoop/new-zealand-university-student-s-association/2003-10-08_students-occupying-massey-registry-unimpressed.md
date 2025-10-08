@@ -1,9 +1,12 @@
 ---
 slug: students-occupying-massey-registry-unimpressed
-title: "Students occupying Massey Registry unimpressed"
-date: 2003-10-08
-source-url: https://www.scoop.co.nz/stories/ED0310/S00026/students-occupying-massey-registry-unimpressed.htm
+title: Students occupying Massey Registry unimpressed
+date: 2003-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00026/students-occupying-massey-registry-unimpressed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/10/08/students-occupying-massey-registry-unimpressed/index.html
+layout: layout.njk
 ---
 Students occupying Massey Registry unimpressed
 ==============================================

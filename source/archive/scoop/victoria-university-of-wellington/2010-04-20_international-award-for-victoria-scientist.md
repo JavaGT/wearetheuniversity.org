@@ -1,9 +1,12 @@
 ---
 slug: international-award-for-victoria-scientist
-title: "International Award For Victoria Scientist"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/ED1004/S00049/international-award-for-victoria-scientist.htm
+title: International Award For Victoria Scientist
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00049/international-award-for-victoria-scientist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/04/20/international-award-for-victoria-scientist/index.html
+layout: layout.njk
 ---
 International Award For Victoria Scientist
 ==========================================

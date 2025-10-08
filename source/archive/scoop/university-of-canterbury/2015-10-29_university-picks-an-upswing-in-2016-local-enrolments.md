@@ -1,9 +1,13 @@
 ---
 slug: university-picks-an-upswing-in-2016-local-enrolments
-title: "University picks an upswing in 2016 local enrolments"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/ED1510/S00136/university-picks-an-upswing-in-2016-local-enrolments.htm
+title: University picks an upswing in 2016 local enrolments
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00136/university-picks-an-upswing-in-2016-local-enrolments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/10/29/university-picks-an-upswing-in-2016-local-enrolments/index.html
+layout: layout.njk
 ---
 University picks an upswing in 2016 local enrolments
 ====================================================

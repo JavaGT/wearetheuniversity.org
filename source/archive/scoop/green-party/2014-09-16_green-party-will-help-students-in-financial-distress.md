@@ -1,9 +1,13 @@
 ---
 slug: green-party-will-help-students-in-financial-distress
-title: "Green Party will help students in financial distress"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/PA1409/S00243/green-party-will-help-students-in-financial-distress.htm
+title: Green Party will help students in financial distress
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00243/green-party-will-help-students-in-financial-distress.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/16/green-party-will-help-students-in-financial-distress/index.html
+layout: layout.njk
 ---
 Green Party will help students in financial distress
 ====================================================

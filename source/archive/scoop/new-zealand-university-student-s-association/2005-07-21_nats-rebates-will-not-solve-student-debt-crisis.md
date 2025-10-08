@@ -1,9 +1,12 @@
 ---
 slug: nats-rebates-will-not-solve-student-debt-crisis
-title: "Nats rebates will not solve student debt crisis"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/ED0507/S00079/nats-rebates-will-not-solve-student-debt-crisis.htm
+title: Nats rebates will not solve student debt crisis
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00079/nats-rebates-will-not-solve-student-debt-crisis.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/07/21/nats-rebates-will-not-solve-student-debt-crisis/index.html
+layout: layout.njk
 ---
 Nats rebates will not solve student debt crisis
 ===============================================

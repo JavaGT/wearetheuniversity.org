@@ -1,9 +1,11 @@
 ---
 slug: hekia-parata-must-be-sacked
-title: "Hekia Parata must be sacked"
-date: 2012-12-12
+title: Hekia Parata must be sacked
+date: 2012-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1212/S00224/hekia-parata-must-be-sacked.htm
 author: green-party
+permalink: /archive/2012/12/12/hekia-parata-must-be-sacked/index.html
+layout: layout.njk
 ---
 Hekia Parata must be sacked
 ===========================

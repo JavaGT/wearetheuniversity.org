@@ -1,9 +1,12 @@
 ---
 slug: christchurch-schools-consultation-a-sham
-title: "Christchurch schools consultation a sham"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PA1209/S00413/christchurch-schools-consultation-a-sham.htm
+title: Christchurch schools consultation a sham
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00413/christchurch-schools-consultation-a-sham.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/26/christchurch-schools-consultation-a-sham/index.html
+layout: layout.njk
 ---
 Christchurch schools consultation a sham
 ========================================

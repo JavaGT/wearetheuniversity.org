@@ -1,9 +1,12 @@
 ---
 slug: counting-sheep-dreaming-of-future-technologies
-title: "Counting sheep, dreaming of future technologies"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/SC1405/S00032/counting-sheep-dreaming-of-future-technologies.htm
+title: Counting sheep, dreaming of future technologies
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00032/counting-sheep-dreaming-of-future-technologies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/12/counting-sheep-dreaming-of-future-technologies/index.html
+layout: layout.njk
 ---
 Counting sheep, dreaming of future technologies
 ===============================================

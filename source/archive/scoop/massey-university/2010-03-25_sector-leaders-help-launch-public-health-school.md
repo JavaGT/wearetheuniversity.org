@@ -1,9 +1,12 @@
 ---
 slug: sector-leaders-help-launch-public-health-school
-title: "Sector leaders help launch public health school"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/ED1003/S00118/sector-leaders-help-launch-public-health-school.htm
+title: Sector leaders help launch public health school
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00118/sector-leaders-help-launch-public-health-school.htm
 author: massey-university
+permalink: /archive/2010/03/25/sector-leaders-help-launch-public-health-school/index.html
+layout: layout.njk
 ---
 Sector leaders help launch public health school
 ===============================================

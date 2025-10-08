@@ -1,9 +1,13 @@
 ---
 slug: aut-uni-logo-blkscientists-to-tackle-traumatic-brain-injury
-title: "AUT UNI Logo blkScientists to tackle traumatic brain injury"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/SC1310/S00027/aut-uni-logo-blkscientists-to-tackle-traumatic-brain-injury.htm
+title: AUT UNI Logo blkScientists to tackle traumatic brain injury
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00027/aut-uni-logo-blkscientists-to-tackle-traumatic-brain-injury.htm
 author: aut-university
+permalink: >-
+  /archive/2013/10/14/aut-uni-logo-blkscientists-to-tackle-traumatic-brain-injury/index.html
+layout: layout.njk
 ---
 AUT UNI Logo blkScientists to tackle traumatic brain injury
 ===========================================================

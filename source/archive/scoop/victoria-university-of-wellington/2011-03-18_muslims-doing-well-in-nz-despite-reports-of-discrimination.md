@@ -1,9 +1,13 @@
 ---
 slug: muslims-doing-well-in-nz-despite-reports-of-discrimination
-title: "Muslims doing well in NZ despite reports of discrimination"
-date: 2011-03-18
-source-url: https://www.scoop.co.nz/stories/AK1103/S00736/muslims-doing-well-in-nz-despite-reports-of-discrimination.htm
+title: Muslims doing well in NZ despite reports of discrimination
+date: 2011-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00736/muslims-doing-well-in-nz-despite-reports-of-discrimination.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/03/18/muslims-doing-well-in-nz-despite-reports-of-discrimination/index.html
+layout: layout.njk
 ---
 Muslims doing well in NZ despite reports of discrimination
 ==========================================================

@@ -1,9 +1,16 @@
 ---
-slug: greens-call-for-bottom-trawling-ban-and-call-out-minister-for-lacklustre-response
-title: "Greens Call For Bottom Trawling Ban And Call Out Minister For Lacklustre Response"
-date: 2024-11-01
-source-url: https://www.scoop.co.nz/stories/PA2411/S00006/greens-call-for-bottom-trawling-ban-and-call-out-minister-for-lacklustre-response.htm
+slug: >-
+  greens-call-for-bottom-trawling-ban-and-call-out-minister-for-lacklustre-response
+title: >-
+  Greens Call For Bottom Trawling Ban And Call Out Minister For Lacklustre
+  Response
+date: 2024-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00006/greens-call-for-bottom-trawling-ban-and-call-out-minister-for-lacklustre-response.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/01/greens-call-for-bottom-trawling-ban-and-call-out-minister-for-lacklustre-response/index.html
+layout: layout.njk
 ---
 Greens Call For Bottom Trawling Ban And Call Out Minister For Lacklustre Response
 =================================================================================

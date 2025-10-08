@@ -1,9 +1,12 @@
 ---
 slug: family-focus-of-new-research-centre
-title: "Family Focus of new Research Centre"
-date: 2003-02-17
-source-url: https://www.scoop.co.nz/stories/ED0302/S00026/family-focus-of-new-research-centre.htm
+title: Family Focus of new Research Centre
+date: 2003-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00026/family-focus-of-new-research-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/02/17/family-focus-of-new-research-centre/index.html
+layout: layout.njk
 ---
 Family Focus of new Research Centre
 ===================================

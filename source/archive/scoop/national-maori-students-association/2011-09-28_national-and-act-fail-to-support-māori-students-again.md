@@ -1,9 +1,12 @@
 ---
 slug: national-and-act-fail-to-support-māori-students-again
-title: "National and ACT fail to support Māori Students, again."
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00417/national-and-act-fail-to-support-maori-students-again.htm
+title: National and ACT fail to support Māori Students, again.
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00417/national-and-act-fail-to-support-maori-students-again.htm
 author: national-maori-students-association
+permalink: /archive/2011/09/28/national-and-act-fail-to-support-m/index.html
+layout: layout.njk
 ---
 National and ACT fail to support Māori Students, again.
 =======================================================

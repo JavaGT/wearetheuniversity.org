@@ -1,9 +1,12 @@
 ---
 slug: traffic-lights-still-not-ready-to-go
-title: "Traffic Lights Still Not Ready To Go"
-date: 2021-12-01
-source-url: https://www.scoop.co.nz/stories/PA2112/S00013/traffic-lights-still-not-ready-to-go.htm
+title: Traffic Lights Still Not Ready To Go
+date: 2021-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00013/traffic-lights-still-not-ready-to-go.htm
 author: new-zealand-national-party
+permalink: /archive/2021/12/01/traffic-lights-still-not-ready-to-go/index.html
+layout: layout.njk
 ---
 Traffic Lights Still Not Ready To Go
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: logical-methods-to-interpret-evidence-in-the-courtroom
-title: "Logical methods to interpret evidence in the courtroom"
-date: 2016-09-21
-source-url: https://www.scoop.co.nz/stories/PO1609/S00259/logical-methods-to-interpret-evidence-in-the-courtroom.htm
+title: Logical methods to interpret evidence in the courtroom
+date: 2016-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00259/logical-methods-to-interpret-evidence-in-the-courtroom.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/21/logical-methods-to-interpret-evidence-in-the-courtroom/index.html
+layout: layout.njk
 ---
 Logical methods to interpret evidence in the courtroom
 ======================================================

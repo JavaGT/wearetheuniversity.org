@@ -1,9 +1,12 @@
 ---
 slug: student-protest-once-again-misses-the-mark
-title: "Student Protest Once Again Misses The Mark"
-date: 1999-09-14
-source-url: https://www.scoop.co.nz/stories/ED9909/S00013/student-protest-once-again-misses-the-mark.htm
+title: Student Protest Once Again Misses The Mark
+date: 1999-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00013/student-protest-once-again-misses-the-mark.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/14/student-protest-once-again-misses-the-mark/index.html
+layout: layout.njk
 ---
 Student Protest Once Again Misses The Mark
 ==========================================

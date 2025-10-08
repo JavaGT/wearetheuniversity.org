@@ -1,9 +1,13 @@
 ---
 slug: new-medical-device-for-brain-monitoring-at-the-bedside
-title: "New Medical Device For Brain Monitoring At The Bedside"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/GE1709/S00085/new-medical-device-for-brain-monitoring-at-the-bedside.htm
+title: New Medical Device For Brain Monitoring At The Bedside
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1709/S00085/new-medical-device-for-brain-monitoring-at-the-bedside.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/18/new-medical-device-for-brain-monitoring-at-the-bedside/index.html
+layout: layout.njk
 ---
 New Medical Device For Brain Monitoring At The Bedside
 ======================================================

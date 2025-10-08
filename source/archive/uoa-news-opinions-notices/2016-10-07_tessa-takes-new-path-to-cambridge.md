@@ -1,8 +1,11 @@
 ---
 slug: tessa-takes-new-path-to-cambridge
-title: "Tessa takes new path to Cambridge"
-date: 2016-10-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/tessa-takes-new-path-to-cambridge.html
+title: Tessa takes new path to Cambridge
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/tessa-takes-new-path-to-cambridge.html
+permalink: /archive/2016/10/07/tessa-takes-new-path-to-cambridge/index.html
+layout: layout.njk
 ---
 Tessa takes new path to Cambridge
 =================================

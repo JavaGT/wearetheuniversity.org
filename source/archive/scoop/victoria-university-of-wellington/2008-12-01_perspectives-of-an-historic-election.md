@@ -1,9 +1,12 @@
 ---
 slug: perspectives-of-an-historic-election
-title: "Perspectives of an historic election"
-date: 2008-12-01
-source-url: https://www.scoop.co.nz/stories/PO0812/S00002/perspectives-of-an-historic-election.htm
+title: Perspectives of an historic election
+date: 2008-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0812/S00002/perspectives-of-an-historic-election.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/12/01/perspectives-of-an-historic-election/index.html
+layout: layout.njk
 ---
 Perspectives of an historic election
 ====================================

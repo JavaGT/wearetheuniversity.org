@@ -1,9 +1,12 @@
 ---
 slug: staff-union-welcomes-tec-appointment
-title: "Staff union welcomes TEC appointment"
-date: 2008-05-02
-source-url: https://www.scoop.co.nz/stories/BU0805/S00034/staff-union-welcomes-tec-appointment.htm
+title: Staff union welcomes TEC appointment
+date: 2008-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00034/staff-union-welcomes-tec-appointment.htm
 author: association-of-university-staff
+permalink: /archive/2008/05/02/staff-union-welcomes-tec-appointment/index.html
+layout: layout.njk
 ---
 Staff union welcomes TEC appointment
 ====================================

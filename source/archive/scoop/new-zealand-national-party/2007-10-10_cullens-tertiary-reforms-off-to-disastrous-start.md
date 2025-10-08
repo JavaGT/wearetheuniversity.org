@@ -1,9 +1,13 @@
 ---
 slug: cullens-tertiary-reforms-off-to-disastrous-start
-title: "Cullen's tertiary reforms off to disastrous start"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/PA0710/S00183/cullens-tertiary-reforms-off-to-disastrous-start.htm
+title: Cullen's tertiary reforms off to disastrous start
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00183/cullens-tertiary-reforms-off-to-disastrous-start.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/10/10/cullens-tertiary-reforms-off-to-disastrous-start/index.html
+layout: layout.njk
 ---
 Cullen's tertiary reforms off to disastrous start
 =================================================

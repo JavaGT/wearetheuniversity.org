@@ -1,9 +1,13 @@
 ---
 slug: proposal-to-reduce-number-of-universities-opposed
-title: "Proposal to reduce number of universities opposed"
-date: 2000-03-30
-source-url: https://www.scoop.co.nz/stories/ED0003/S00067/proposal-to-reduce-number-of-universities-opposed.htm
+title: Proposal to reduce number of universities opposed
+date: 2000-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00067/proposal-to-reduce-number-of-universities-opposed.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/03/30/proposal-to-reduce-number-of-universities-opposed/index.html
+layout: layout.njk
 ---
 Proposal to reduce number of universities opposed
 =================================================

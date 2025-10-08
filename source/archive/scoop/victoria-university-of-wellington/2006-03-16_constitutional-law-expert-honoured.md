@@ -1,9 +1,12 @@
 ---
 slug: constitutional-law-expert-honoured
-title: "Constitutional law expert honoured"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/ED0603/S00039/constitutional-law-expert-honoured.htm
+title: Constitutional law expert honoured
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00039/constitutional-law-expert-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/03/16/constitutional-law-expert-honoured/index.html
+layout: layout.njk
 ---
 Constitutional law expert honoured
 ==================================

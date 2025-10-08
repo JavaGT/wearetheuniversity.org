@@ -1,9 +1,12 @@
 ---
 slug: government-must-pull-finger-on-mānuka
-title: "Government Must ‘Pull Finger’ On Mānuka"
-date: 2017-02-06
-source-url: https://www.scoop.co.nz/stories/PA1702/S00073/government-must-pull-finger-on-manuka.htm
+title: Government Must ‘Pull Finger’ On Mānuka
+date: 2017-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00073/government-must-pull-finger-on-manuka.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/06/government-must-pull-finger-on-m/index.html
+layout: layout.njk
 ---
 Government Must ‘Pull Finger’ On Mānuka
 =======================================

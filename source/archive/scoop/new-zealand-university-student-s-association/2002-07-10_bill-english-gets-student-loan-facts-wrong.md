@@ -1,9 +1,12 @@
 ---
 slug: bill-english-gets-student-loan-facts-wrong
-title: "Bill English Gets Student Loan Facts Wrong"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/ED0207/S00016/bill-english-gets-student-loan-facts-wrong.htm
+title: Bill English Gets Student Loan Facts Wrong
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00016/bill-english-gets-student-loan-facts-wrong.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/10/bill-english-gets-student-loan-facts-wrong/index.html
+layout: layout.njk
 ---
 Bill English Gets Student Loan Facts Wrong
 ==========================================

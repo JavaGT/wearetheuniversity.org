@@ -1,9 +1,12 @@
 ---
 slug: $3-8m-for-researchers-to-tackle-big-issues
-title: "$3.8m for researchers to tackle big issues"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/ED1208/S00136/38m-for-researchers-to-tackle-big-issues.htm
+title: $3.8m for researchers to tackle big issues
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00136/38m-for-researchers-to-tackle-big-issues.htm
 author: massey-university
+permalink: /archive/2012/08/24/3-8m-for-researchers-to-tackle-big-issues/index.html
+layout: layout.njk
 ---
 $3.8m for researchers to tackle big issues
 ==========================================

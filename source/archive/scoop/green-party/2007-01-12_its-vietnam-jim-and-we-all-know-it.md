@@ -1,9 +1,12 @@
 ---
 slug: its-vietnam-jim-and-we-all-know-it
-title: "It's Vietnam, Jim - and we all know it"
-date: 2007-01-12
-source-url: https://www.scoop.co.nz/stories/PA0701/S00050/its-vietnam-jim-and-we-all-know-it.htm
+title: It's Vietnam, Jim - and we all know it
+date: 2007-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00050/its-vietnam-jim-and-we-all-know-it.htm
 author: green-party
+permalink: /archive/2007/01/12/its-vietnam-jim-and-we-all-know-it/index.html
+layout: layout.njk
 ---
 It's Vietnam, Jim - and we all know it
 ======================================

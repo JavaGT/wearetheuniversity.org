@@ -1,9 +1,11 @@
 ---
 slug: choose-a-party-you-can-trust
-title: "'Choose a Party you can Trust?'"
-date: 2008-10-31
+title: '''Choose a Party you can Trust?'''
+date: 2008-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00686/choose-a-party-you-can-trust.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/31/choose-a-party-you-can-trust/index.html
+layout: layout.njk
 ---
 'Choose a Party you can Trust?'
 ===============================

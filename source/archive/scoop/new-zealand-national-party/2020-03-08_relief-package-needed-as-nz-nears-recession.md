@@ -1,9 +1,12 @@
 ---
 slug: relief-package-needed-as-nz-nears-recession
-title: "Relief Package Needed As NZ Nears Recession"
-date: 2020-03-08
-source-url: https://www.scoop.co.nz/stories/PA2003/S00060/relief-package-needed-as-nz-nears-recession.htm
+title: Relief Package Needed As NZ Nears Recession
+date: 2020-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00060/relief-package-needed-as-nz-nears-recession.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/08/relief-package-needed-as-nz-nears-recession/index.html
+layout: layout.njk
 ---
 Relief Package Needed As NZ Nears Recession
 ===========================================

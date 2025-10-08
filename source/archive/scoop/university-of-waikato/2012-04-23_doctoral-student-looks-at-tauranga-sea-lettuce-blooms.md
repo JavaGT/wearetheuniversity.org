@@ -1,9 +1,13 @@
 ---
 slug: doctoral-student-looks-at-tauranga-sea-lettuce-blooms
-title: "Doctoral student looks at Tauranga sea lettuce blooms"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/SC1204/S00031/doctoral-student-looks-at-tauranga-sea-lettuce-blooms.htm
+title: Doctoral student looks at Tauranga sea lettuce blooms
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1204/S00031/doctoral-student-looks-at-tauranga-sea-lettuce-blooms.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/04/23/doctoral-student-looks-at-tauranga-sea-lettuce-blooms/index.html
+layout: layout.njk
 ---
 Doctoral student looks at Tauranga sea lettuce blooms
 =====================================================

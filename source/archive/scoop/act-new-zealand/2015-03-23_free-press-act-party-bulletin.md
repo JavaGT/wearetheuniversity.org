@@ -1,9 +1,12 @@
 ---
 slug: free-press-act-party-bulletin
-title: "Free Press: Act Party Bulletin"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/PO1503/S00284/free-press-act-party-bulletin.htm
+title: 'Free Press: Act Party Bulletin'
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00284/free-press-act-party-bulletin.htm
 author: act-new-zealand
+permalink: /archive/2015/03/23/free-press-act-party-bulletin/index.html
+layout: layout.njk
 ---
 Free Press: Act Party Bulletin
 ==============================

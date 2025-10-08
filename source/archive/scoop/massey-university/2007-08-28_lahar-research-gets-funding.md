@@ -1,9 +1,11 @@
 ---
 slug: lahar-research-gets-funding
-title: "Lahar research gets funding"
-date: 2007-08-28
+title: Lahar research gets funding
+date: 2007-08-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0708/S00068/lahar-research-gets-funding.htm
 author: massey-university
+permalink: /archive/2007/08/28/lahar-research-gets-funding/index.html
+layout: layout.njk
 ---
 Lahar research gets funding
 ===========================

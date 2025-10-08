@@ -1,9 +1,12 @@
 ---
 slug: vuw-domestic-fee-setting-today
-title: "VUW Domestic Fee Setting Today"
-date: 2005-10-31
-source-url: https://www.scoop.co.nz/stories/ED0510/S00086/vuw-domestic-fee-setting-today.htm
+title: VUW Domestic Fee Setting Today
+date: 2005-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00086/vuw-domestic-fee-setting-today.htm
 author: victoria-university-students-association
+permalink: /archive/2005/10/31/vuw-domestic-fee-setting-today/index.html
+layout: layout.njk
 ---
 VUW Domestic Fee Setting Today
 ==============================

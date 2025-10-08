@@ -1,9 +1,12 @@
 ---
 slug: māori-party-exhilarated-by-the-vote-for-the-future
-title: "Māori Party exhilarated by the vote for the future"
-date: 2019-10-13
-source-url: https://www.scoop.co.nz/stories/PO1910/S00136/maori-party-exhilarated-by-the-vote-for-the-future.htm
+title: Māori Party exhilarated by the vote for the future
+date: 2019-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00136/maori-party-exhilarated-by-the-vote-for-the-future.htm
 author: te-pati-maori
+permalink: /archive/2019/10/13/m/index.html
+layout: layout.njk
 ---
 Māori Party exhilarated by the vote for the future
 ==================================================

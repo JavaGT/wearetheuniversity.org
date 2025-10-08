@@ -1,9 +1,11 @@
 ---
 slug: young-nats-on-the-rise
-title: "\"Young Nat’s On The Rise\""
-date: 2000-02-07
+title: '"Young Nat’s On The Rise"'
+date: 2000-02-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0002/S00021/young-nats-on-the-rise.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/02/07/young-nats-on-the-rise/index.html
+layout: layout.njk
 ---
 “Young Nat’s On The Rise”
 =========================

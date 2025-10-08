@@ -1,9 +1,12 @@
 ---
 slug: building-relations-common-unity
-title: "Building Relations – Common Unity"
-date: 2010-05-14
-source-url: https://www.scoop.co.nz/stories/PA1005/S00220/building-relations-common-unity.htm
+title: Building Relations – Common Unity
+date: 2010-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00220/building-relations-common-unity.htm
 author: te-pati-maori
+permalink: /archive/2010/05/14/building-relations-common-unity/index.html
+layout: layout.njk
 ---
 Building Relations – Common Unity
 =================================

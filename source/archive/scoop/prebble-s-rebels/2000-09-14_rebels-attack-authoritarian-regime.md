@@ -1,9 +1,12 @@
 ---
 slug: rebels-attack-authoritarian-regime
-title: "Rebels Attack \"Authoritarian Regime\""
-date: 2000-09-14
-source-url: https://www.scoop.co.nz/stories/ED0009/S00033/rebels-attack-authoritarian-regime.htm
+title: Rebels Attack "Authoritarian Regime"
+date: 2000-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00033/rebels-attack-authoritarian-regime.htm
 author: prebble-s-rebels
+permalink: /archive/2000/09/14/rebels-attack-authoritarian-regime/index.html
+layout: layout.njk
 ---
 Rebels Attack \"Authoritarian Regime"
 ====================================

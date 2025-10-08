@@ -1,9 +1,13 @@
 ---
 slug: study-shows-electric-cars-bring-environmental-benefits
-title: "Study shows electric cars bring environmental benefits"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/ED1405/S00070/study-shows-electric-cars-bring-environmental-benefits.htm
+title: Study shows electric cars bring environmental benefits
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00070/study-shows-electric-cars-bring-environmental-benefits.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/14/study-shows-electric-cars-bring-environmental-benefits/index.html
+layout: layout.njk
 ---
 Study shows electric cars bring environmental benefits
 ======================================================

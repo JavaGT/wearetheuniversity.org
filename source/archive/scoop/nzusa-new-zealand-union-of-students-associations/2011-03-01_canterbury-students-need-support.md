@@ -1,9 +1,12 @@
 ---
 slug: canterbury-students-need-support
-title: "Canterbury Students Need Support"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/ED1103/S00008/canterbury-students-need-support.htm
+title: Canterbury Students Need Support
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00008/canterbury-students-need-support.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/03/01/canterbury-students-need-support/index.html
+layout: layout.njk
 ---
 Canterbury Students Need Support
 ================================

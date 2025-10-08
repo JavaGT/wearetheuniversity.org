@@ -1,9 +1,11 @@
 ---
 slug: act-sets-campaign-strategy
-title: "ACT Sets Campaign Strategy"
-date: 2002-02-08
+title: ACT Sets Campaign Strategy
+date: 2002-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0202/S00088/act-sets-campaign-strategy.htm
 author: act-new-zealand
+permalink: /archive/2002/02/08/act-sets-campaign-strategy/index.html
+layout: layout.njk
 ---
 ACT Sets Campaign Strategy
 ==========================

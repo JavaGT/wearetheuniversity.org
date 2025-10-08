@@ -1,9 +1,13 @@
 ---
 slug: students-urged-to-vote-for-centre-left-coalition
-title: "Students Urged to Vote For Centre Left Coalition"
-date: 2002-07-26
-source-url: https://www.scoop.co.nz/stories/PO0207/S00268/students-urged-to-vote-for-centre-left-coalition.htm
+title: Students Urged to Vote For Centre Left Coalition
+date: 2002-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00268/students-urged-to-vote-for-centre-left-coalition.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/07/26/students-urged-to-vote-for-centre-left-coalition/index.html
+layout: layout.njk
 ---
 Students Urged to Vote For Centre Left Coalition
 ================================================

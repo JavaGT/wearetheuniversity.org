@@ -1,8 +1,11 @@
 ---
 slug: dairy-intolerance-real-not-in-peoples-heads
-title: "Dairy intolerance real - \"not in people’s heads\""
-date: 2017-08-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/dairy-intolerance-real.html
+title: Dairy intolerance real - "not in people’s heads"
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/dairy-intolerance-real.html
+permalink: /archive/2017/08/14/dairy-intolerance-real-not-in-peoples-heads/index.html
+layout: layout.njk
 ---
 Dairy intolerance real - “not in people’s heads”
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-celebration-of-mâori-academic-excellence
-title: "A Celebration of Mâori Academic Excellence"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/ED0311/S00066/a-celebration-of-maori-academic-excellence.htm
+title: A Celebration of Mâori Academic Excellence
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00066/a-celebration-of-maori-academic-excellence.htm
 author: waikato-university
+permalink: /archive/2003/11/20/a-celebration-of-m/index.html
+layout: layout.njk
 ---
 A Celebration of Mâori Academic Excellence
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: nationwide-poll-confirms-loan-interest-too-high
-title: "Nationwide poll confirms loan interest too high"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/ED0508/S00100/nationwide-poll-confirms-loan-interest-too-high.htm
+title: Nationwide poll confirms loan interest too high
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00100/nationwide-poll-confirms-loan-interest-too-high.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/08/24/nationwide-poll-confirms-loan-interest-too-high/index.html
+layout: layout.njk
 ---
 Nationwide poll confirms loan interest too high
 ===============================================

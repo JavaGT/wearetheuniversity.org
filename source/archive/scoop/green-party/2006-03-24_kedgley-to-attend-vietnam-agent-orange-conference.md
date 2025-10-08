@@ -1,9 +1,13 @@
 ---
 slug: kedgley-to-attend-vietnam-agent-orange-conference
-title: "Kedgley to attend Vietnam Agent Orange conference"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/PA0603/S00427/kedgley-to-attend-vietnam-agent-orange-conference.htm
+title: Kedgley to attend Vietnam Agent Orange conference
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00427/kedgley-to-attend-vietnam-agent-orange-conference.htm
 author: green-party
+permalink: >-
+  /archive/2006/03/24/kedgley-to-attend-vietnam-agent-orange-conference/index.html
+layout: layout.njk
 ---
 Kedgley to attend Vietnam Agent Orange conference
 =================================================

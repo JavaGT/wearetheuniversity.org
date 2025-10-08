@@ -1,9 +1,12 @@
 ---
 slug: make-n95-masks-free-for-everyone
-title: "Make N95 Masks Free For Everyone"
-date: 2022-07-08
-source-url: https://www.scoop.co.nz/stories/PA2207/S00054/make-n95-masks-free-for-everyone.htm
+title: Make N95 Masks Free For Everyone
+date: 2022-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00054/make-n95-masks-free-for-everyone.htm
 author: green-party
+permalink: /archive/2022/07/08/make-n95-masks-free-for-everyone/index.html
+layout: layout.njk
 ---
 Make N95 Masks Free For Everyone
 ================================

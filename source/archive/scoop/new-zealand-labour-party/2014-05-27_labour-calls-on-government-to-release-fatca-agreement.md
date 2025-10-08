@@ -1,9 +1,13 @@
 ---
 slug: labour-calls-on-government-to-release-fatca-agreement
-title: "Labour calls on Government to release FATCA agreement"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/PA1405/S00510/labour-calls-on-government-to-release-fatca-agreement.htm
+title: Labour calls on Government to release FATCA agreement
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00510/labour-calls-on-government-to-release-fatca-agreement.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/27/labour-calls-on-government-to-release-fatca-agreement/index.html
+layout: layout.njk
 ---
 Labour calls on Government to release FATCA agreement
 =====================================================

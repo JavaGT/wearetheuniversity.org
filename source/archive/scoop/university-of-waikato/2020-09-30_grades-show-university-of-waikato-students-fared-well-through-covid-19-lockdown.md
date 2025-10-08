@@ -1,9 +1,16 @@
 ---
-slug: grades-show-university-of-waikato-students-fared-well-through-covid-19-lockdown
-title: "Grades Show University Of Waikato Students Fared Well Through Covid-19 Lockdown"
-date: 2020-09-30
-source-url: https://www.scoop.co.nz/stories/ED2009/S00064/grades-show-university-of-waikato-students-fared-well-through-covid-19-lockdown.htm
+slug: >-
+  grades-show-university-of-waikato-students-fared-well-through-covid-19-lockdown
+title: >-
+  Grades Show University Of Waikato Students Fared Well Through Covid-19
+  Lockdown
+date: 2020-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00064/grades-show-university-of-waikato-students-fared-well-through-covid-19-lockdown.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/09/30/grades-show-university-of-waikato-students-fared-well-through-covid-19-lockdown/index.html
+layout: layout.njk
 ---
 Grades Show University Of Waikato Students Fared Well Through Covid-19 Lockdown
 ===============================================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-measures-required-to-tackle-diabetes
-title: "More Measures Required To Tackle Diabetes"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/PA1303/S00014/more-measures-required-to-tackle-diabetes.htm
+title: More Measures Required To Tackle Diabetes
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00014/more-measures-required-to-tackle-diabetes.htm
 author: new-zealand-first-party
+permalink: /archive/2013/03/01/more-measures-required-to-tackle-diabetes/index.html
+layout: layout.njk
 ---
 More Measures Required To Tackle Diabetes
 =========================================

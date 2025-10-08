@@ -1,9 +1,12 @@
 ---
 slug: list-mp-congratulates-scholarship-award-winners
-title: "List MP congratulates scholarship award winners"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/PA1302/S00221/list-mp-congratulates-scholarship-award-winners.htm
+title: List MP congratulates scholarship award winners
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00221/list-mp-congratulates-scholarship-award-winners.htm
 author: new-zealand-national-party
+permalink: /archive/2013/02/15/list-mp-congratulates-scholarship-award-winners/index.html
+layout: layout.njk
 ---
 List MP congratulates scholarship award winners
 ===============================================

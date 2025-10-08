@@ -1,9 +1,13 @@
 ---
 slug: gallipolis-dunkirk-overlooked-in-ww100-celebrations
-title: "Gallipoli’s \"Dunkirk\" Overlooked in WW100 Celebrations"
-date: 2015-12-19
-source-url: https://www.scoop.co.nz/stories/PA1512/S00412/gallipolis-dunkirk-overlooked-in-ww100-celebrations.htm
+title: Gallipoli’s "Dunkirk" Overlooked in WW100 Celebrations
+date: 2015-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00412/gallipolis-dunkirk-overlooked-in-ww100-celebrations.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/19/gallipolis-dunkirk-overlooked-in-ww100-celebrations/index.html
+layout: layout.njk
 ---
 Gallipoli’s “Dunkirk” Overlooked in WW100 Celebrations
 ======================================================

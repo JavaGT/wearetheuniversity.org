@@ -1,9 +1,12 @@
 ---
 slug: exhibition-offers-full-exposure-for-students
-title: "Exhibition offers full Exposure for students"
-date: 2017-11-01
-source-url: https://www.scoop.co.nz/stories/ED1711/S00002/exhibition-offers-full-exposure-for-students.htm
+title: Exhibition offers full Exposure for students
+date: 2017-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00002/exhibition-offers-full-exposure-for-students.htm
 author: massey-university
+permalink: /archive/2017/11/01/exhibition-offers-full-exposure-for-students/index.html
+layout: layout.njk
 ---
 Exhibition offers full Exposure for students
 ============================================

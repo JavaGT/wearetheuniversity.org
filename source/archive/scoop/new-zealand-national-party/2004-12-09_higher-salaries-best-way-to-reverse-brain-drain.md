@@ -1,9 +1,12 @@
 ---
 slug: higher-salaries-best-way-to-reverse-brain-drain
-title: "Higher salaries best way to reverse brain drain"
-date: 2004-12-09
-source-url: https://www.scoop.co.nz/stories/PA0412/S00222/higher-salaries-best-way-to-reverse-brain-drain.htm
+title: Higher salaries best way to reverse brain drain
+date: 2004-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00222/higher-salaries-best-way-to-reverse-brain-drain.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/09/higher-salaries-best-way-to-reverse-brain-drain/index.html
+layout: layout.njk
 ---
 Higher salaries best way to reverse brain drain
 ===============================================

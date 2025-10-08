@@ -1,9 +1,12 @@
 ---
 slug: new-research-shows-more-debt-for-more-students
-title: "New research shows more debt for more students"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/ED0201/S00009/new-research-shows-more-debt-for-more-students.htm
+title: New research shows more debt for more students
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00009/new-research-shows-more-debt-for-more-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/01/28/new-research-shows-more-debt-for-more-students/index.html
+layout: layout.njk
 ---
 New research shows more debt for more students
 ==============================================

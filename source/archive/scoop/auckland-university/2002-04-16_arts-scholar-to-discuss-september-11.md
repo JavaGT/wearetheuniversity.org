@@ -1,9 +1,12 @@
 ---
 slug: arts-scholar-to-discuss-september-11
-title: "Arts Scholar To Discuss September 11"
-date: 2002-04-16
-source-url: https://www.scoop.co.nz/stories/CU0204/S00037/arts-scholar-to-discuss-september-11.htm
+title: Arts Scholar To Discuss September 11
+date: 2002-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0204/S00037/arts-scholar-to-discuss-september-11.htm
 author: auckland-university
+permalink: /archive/2002/04/16/arts-scholar-to-discuss-september-11/index.html
+layout: layout.njk
 ---
 Arts Scholar To Discuss September 11
 ====================================

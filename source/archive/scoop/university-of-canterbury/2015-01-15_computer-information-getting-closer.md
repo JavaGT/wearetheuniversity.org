@@ -1,9 +1,12 @@
 ---
 slug: computer-information-getting-closer
-title: "Computer information getting closer"
-date: 2015-01-15
-source-url: https://www.scoop.co.nz/stories/ED1501/S00032/computer-information-getting-closer.htm
+title: Computer information getting closer
+date: 2015-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00032/computer-information-getting-closer.htm
 author: university-of-canterbury
+permalink: /archive/2015/01/15/computer-information-getting-closer/index.html
+layout: layout.njk
 ---
 Computer information getting closer
 ===================================

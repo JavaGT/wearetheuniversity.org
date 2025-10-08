@@ -1,9 +1,13 @@
 ---
 slug: aut-business-dean-wins-auckland-central-business-leadership
-title: "AUT Business Dean wins Auckland Central Business Leadership"
-date: 2012-11-03
-source-url: https://www.scoop.co.nz/stories/ED1211/S00027/aut-business-dean-wins-auckland-central-business-leadership.htm
+title: AUT Business Dean wins Auckland Central Business Leadership
+date: 2012-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00027/aut-business-dean-wins-auckland-central-business-leadership.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/03/aut-business-dean-wins-auckland-central-business-leadership/index.html
+layout: layout.njk
 ---
 AUT Business Dean wins Auckland Central Business Leadership
 ===========================================================

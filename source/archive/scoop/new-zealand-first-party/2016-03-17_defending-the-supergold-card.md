@@ -1,9 +1,11 @@
 ---
 slug: defending-the-supergold-card
-title: "Defending the SuperGold Card"
-date: 2016-03-17
+title: Defending the SuperGold Card
+date: 2016-03-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00311/defending-the-supergold-card.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/17/defending-the-supergold-card/index.html
+layout: layout.njk
 ---
 Defending the SuperGold Card
 ============================

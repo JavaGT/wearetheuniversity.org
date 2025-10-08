@@ -1,9 +1,11 @@
 ---
 slug: shock-over-joyce-admissions
-title: "Shock over Joyce admissions"
-date: 2015-06-17
+title: Shock over Joyce admissions
+date: 2015-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1506/S00085/shock-over-joyce-admissions.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/06/17/shock-over-joyce-admissions/index.html
+layout: layout.njk
 ---
 Shock over Joyce admissions
 ===========================

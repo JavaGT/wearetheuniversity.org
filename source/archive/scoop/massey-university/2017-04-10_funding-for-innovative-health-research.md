@@ -1,9 +1,12 @@
 ---
 slug: funding-for-innovative-health-research
-title: "Funding for innovative health research"
-date: 2017-04-10
-source-url: https://www.scoop.co.nz/stories/GE1704/S00044/funding-for-innovative-health-research.htm
+title: Funding for innovative health research
+date: 2017-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00044/funding-for-innovative-health-research.htm
 author: massey-university
+permalink: /archive/2017/04/10/funding-for-innovative-health-research/index.html
+layout: layout.njk
 ---
 Funding for innovative health research
 ======================================

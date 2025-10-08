@@ -1,9 +1,13 @@
 ---
 slug: the-only-one-denying-you-the-right-to-vote-is-you
-title: "The only one denying you the right to vote is you"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PA1608/S00145/the-only-one-denying-you-the-right-to-vote-is-you.htm
+title: The only one denying you the right to vote is you
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00145/the-only-one-denying-you-the-right-to-vote-is-you.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/10/the-only-one-denying-you-the-right-to-vote-is-you/index.html
+layout: layout.njk
 ---
 The only one denying you the right to vote is you
 =================================================

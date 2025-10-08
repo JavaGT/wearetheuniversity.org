@@ -1,9 +1,12 @@
 ---
 slug: dental-students-and-university-settle-with-govt
-title: "Dental students and University settle with Govt"
-date: 2002-12-20
-source-url: https://www.scoop.co.nz/stories/PO0212/S00194/dental-students-and-university-settle-with-govt.htm
+title: Dental students and University settle with Govt
+date: 2002-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0212/S00194/dental-students-and-university-settle-with-govt.htm
 author: otago-university-students-association
+permalink: /archive/2002/12/20/dental-students-and-university-settle-with-govt/index.html
+layout: layout.njk
 ---
 Dental students and University settle with Govt
 ===============================================

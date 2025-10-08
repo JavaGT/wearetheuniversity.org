@@ -1,9 +1,12 @@
 ---
 slug: send-problem-japanese-students-home-says-peters
-title: "Send Problem Japanese Students Home Says Peters"
-date: 2003-02-28
-source-url: https://www.scoop.co.nz/stories/PA0302/S00527/send-problem-japanese-students-home-says-peters.htm
+title: Send Problem Japanese Students Home Says Peters
+date: 2003-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00527/send-problem-japanese-students-home-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/28/send-problem-japanese-students-home-says-peters/index.html
+layout: layout.njk
 ---
 Send Problem Japanese Students Home Says Peters
 ===============================================

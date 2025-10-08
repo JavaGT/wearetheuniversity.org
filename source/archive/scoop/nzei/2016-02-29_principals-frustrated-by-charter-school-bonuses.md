@@ -1,9 +1,12 @@
 ---
 slug: principals-frustrated-by-charter-school-bonuses
-title: "Principals frustrated by charter school bonuses"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/ED1602/S00088/principals-frustrated-by-charter-school-bonuses.htm
+title: Principals frustrated by charter school bonuses
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00088/principals-frustrated-by-charter-school-bonuses.htm
 author: nzei
+permalink: /archive/2016/02/29/principals-frustrated-by-charter-school-bonuses/index.html
+layout: layout.njk
 ---
 Principals frustrated by charter school bonuses
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: 65-wellington-region-schools-to-serve-kickstart-breakfasts
-title: "65 Wellington Region schools to serve KickStart Breakfasts"
-date: 2016-02-04
-source-url: https://www.scoop.co.nz/stories/PA1602/S00049/65-wellington-region-schools-to-serve-kickstart-breakfasts.htm
+title: 65 Wellington Region schools to serve KickStart Breakfasts
+date: 2016-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00049/65-wellington-region-schools-to-serve-kickstart-breakfasts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/02/04/65-wellington-region-schools-to-serve-kickstart-breakfasts/index.html
+layout: layout.njk
 ---
 65 Wellington Region schools to serve KickStart Breakfasts
 ==========================================================

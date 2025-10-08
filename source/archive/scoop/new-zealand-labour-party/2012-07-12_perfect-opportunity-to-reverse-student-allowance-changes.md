@@ -1,9 +1,13 @@
 ---
 slug: perfect-opportunity-to-reverse-student-allowance-changes
-title: "Perfect Opportunity To Reverse Student Allowance Changes"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/PA1207/S00145/perfect-opportunity-to-reverse-student-allowance-changes.htm
+title: Perfect Opportunity To Reverse Student Allowance Changes
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00145/perfect-opportunity-to-reverse-student-allowance-changes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/12/perfect-opportunity-to-reverse-student-allowance-changes/index.html
+layout: layout.njk
 ---
 Perfect Opportunity To Reverse Student Allowance Changes
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-a-world-without-violence
-title: "Tariana Turia Speech: A world without violence"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PA0511/S00153/tariana-turia-speech-a-world-without-violence.htm
+title: 'Tariana Turia Speech: A world without violence'
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00153/tariana-turia-speech-a-world-without-violence.htm
 author: te-pati-maori
+permalink: /archive/2005/11/14/tariana-turia-speech-a-world-without-violence/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech: A world without violence
 ==============================================

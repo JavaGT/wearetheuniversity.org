@@ -1,9 +1,12 @@
 ---
 slug: abolishing-privy-council-dangerous-says-prebble
-title: "Abolishing Privy Council Dangerous, Says Prebble"
-date: 2000-04-11
-source-url: https://www.scoop.co.nz/stories/PA0004/S00145/abolishing-privy-council-dangerous-says-prebble.htm
+title: Abolishing Privy Council Dangerous, Says Prebble
+date: 2000-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00145/abolishing-privy-council-dangerous-says-prebble.htm
 author: act-new-zealand
+permalink: /archive/2000/04/11/abolishing-privy-council-dangerous-says-prebble/index.html
+layout: layout.njk
 ---
 Abolishing Privy Council Dangerous, Says Prebble
 ================================================

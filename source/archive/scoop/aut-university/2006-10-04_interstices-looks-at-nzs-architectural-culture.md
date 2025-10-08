@@ -1,9 +1,12 @@
 ---
 slug: interstices-looks-at-nzs-architectural-culture
-title: "Interstices looks at NZ's architectural culture"
-date: 2006-10-04
-source-url: https://www.scoop.co.nz/stories/ED0610/S00012/interstices-looks-at-nzs-architectural-culture.htm
+title: Interstices looks at NZ's architectural culture
+date: 2006-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00012/interstices-looks-at-nzs-architectural-culture.htm
 author: aut-university
+permalink: /archive/2006/10/04/interstices-looks-at-nzs-architectural-culture/index.html
+layout: layout.njk
 ---
 Interstices looks at NZ's architectural culture
 ===============================================

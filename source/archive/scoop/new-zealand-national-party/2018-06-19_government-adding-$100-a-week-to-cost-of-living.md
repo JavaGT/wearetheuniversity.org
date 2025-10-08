@@ -1,9 +1,12 @@
 ---
 slug: government-adding-$100-a-week-to-cost-of-living
-title: "Government adding $100 a week to cost of living"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/PA1806/S00190/government-adding-100-a-week-to-cost-of-living.htm
+title: Government adding $100 a week to cost of living
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00190/government-adding-100-a-week-to-cost-of-living.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/19/government-adding-/index.html
+layout: layout.njk
 ---
 Government adding $100 a week to cost of living
 ===============================================

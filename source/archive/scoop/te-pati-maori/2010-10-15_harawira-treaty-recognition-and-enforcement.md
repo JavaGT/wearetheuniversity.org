@@ -1,9 +1,12 @@
 ---
 slug: harawira-treaty-recognition-and-enforcement
-title: "Harawira: Treaty recognition and enforcement"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00267/harawira-treaty-recognition-and-enforcement.htm
+title: 'Harawira: Treaty recognition and enforcement'
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00267/harawira-treaty-recognition-and-enforcement.htm
 author: te-pati-maori
+permalink: /archive/2010/10/15/harawira-treaty-recognition-and-enforcement/index.html
+layout: layout.njk
 ---
 Harawira: Treaty recognition and enforcement
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-canterbury-postgrad-school-could-hold-the-key-to-food-sustainability
-title: "New Canterbury Postgrad School Could Hold The Key To Food Sustainability"
-date: 2020-11-19
-source-url: https://www.scoop.co.nz/stories/ED2011/S00038/new-canterbury-postgrad-school-could-hold-the-key-to-food-sustainability.htm
+title: New Canterbury Postgrad School Could Hold The Key To Food Sustainability
+date: 2020-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00038/new-canterbury-postgrad-school-could-hold-the-key-to-food-sustainability.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/19/new-canterbury-postgrad-school-could-hold-the-key-to-food-sustainability/index.html
+layout: layout.njk
 ---
 New Canterbury Postgrad School Could Hold The Key To Food Sustainability
 ========================================================================

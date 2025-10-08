@@ -1,9 +1,12 @@
 ---
 slug: students-protest-2012-black-budget
-title: "Students protest 2012 \"Black Budget\""
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PO1205/S00390/students-protest-2012-black-budget.htm
+title: Students protest 2012 "Black Budget"
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00390/students-protest-2012-black-budget.htm
 author: ausa
+permalink: /archive/2012/05/24/students-protest-2012-black-budget/index.html
+layout: layout.njk
 ---
 Students protest 2012 \"Black Budget"
 ====================================

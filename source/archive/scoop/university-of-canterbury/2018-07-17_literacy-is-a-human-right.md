@@ -1,9 +1,11 @@
 ---
 slug: literacy-is-a-human-right
-title: "Literacy is a human right"
-date: 2018-07-17
+title: Literacy is a human right
+date: 2018-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1807/S00045/literacy-is-a-human-right.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/17/literacy-is-a-human-right/index.html
+layout: layout.njk
 ---
 Literacy is a human right
 =========================

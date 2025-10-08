@@ -1,9 +1,12 @@
 ---
 slug: inspiring-panel-discussion-featuring-nz-artist
-title: "Inspiring Panel Discussion Featuring NZ Artist"
-date: 2015-08-03
-source-url: https://www.scoop.co.nz/stories/CU1508/S00012/inspiring-panel-discussion-featuring-nz-artist.htm
+title: Inspiring Panel Discussion Featuring NZ Artist
+date: 2015-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00012/inspiring-panel-discussion-featuring-nz-artist.htm
 author: waikato-university
+permalink: /archive/2015/08/03/inspiring-panel-discussion-featuring-nz-artist/index.html
+layout: layout.njk
 ---
 Inspiring Panel Discussion Featuring NZ Artist
 ==============================================

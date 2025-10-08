@@ -1,9 +1,12 @@
 ---
 slug: cold-snack-wins-2008-montana-poetry-award
-title: "cold snack wins 2008 Montana Poetry Award"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/CU0807/S00171/cold-snack-wins-2008-montana-poetry-award.htm
+title: cold snack wins 2008 Montana Poetry Award
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00171/cold-snack-wins-2008-montana-poetry-award.htm
 author: auckland-university-press
+permalink: /archive/2008/07/18/cold-snack-wins-2008-montana-poetry-award/index.html
+layout: layout.njk
 ---
 cold snack wins 2008 Montana Poetry Award
 =========================================

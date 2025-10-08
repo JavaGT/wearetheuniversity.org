@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-school-quals-debacle-needed
-title: "Inquiry Into School Qual’s Debacle Needed"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/PA0210/S00115/inquiry-into-school-quals-debacle-needed.htm
+title: Inquiry Into School Qual’s Debacle Needed
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00115/inquiry-into-school-quals-debacle-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/07/inquiry-into-school-quals-debacle-needed/index.html
+layout: layout.njk
 ---
 Inquiry Into School Qual’s Debacle Needed
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: sedition-laws-belong-in-the-dustbin-of-history
-title: "Sedition laws belong in the dustbin of history"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PA0704/S00133/sedition-laws-belong-in-the-dustbin-of-history.htm
+title: Sedition laws belong in the dustbin of history
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00133/sedition-laws-belong-in-the-dustbin-of-history.htm
 author: green-party
+permalink: /archive/2007/04/05/sedition-laws-belong-in-the-dustbin-of-history/index.html
+layout: layout.njk
 ---
 Sedition laws belong in the dustbin of history
 ==============================================

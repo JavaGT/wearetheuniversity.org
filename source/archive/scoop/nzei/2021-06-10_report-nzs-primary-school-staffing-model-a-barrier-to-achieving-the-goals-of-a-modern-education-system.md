@@ -1,9 +1,16 @@
 ---
-slug: report-nzs-primary-school-staffing-model-a-barrier-to-achieving-the-goals-of-a-modern-education-system
-title: "Report: NZ's Primary School Staffing Model \"a Barrier To Achieving The Goals Of A Modern Education System\""
-date: 2021-06-10
-source-url: https://www.scoop.co.nz/stories/ED2106/S00022/report-nzs-primary-school-staffing-model-a-barrier-to-achieving-the-goals-of-a-modern-education-system.htm
+slug: >-
+  report-nzs-primary-school-staffing-model-a-barrier-to-achieving-the-goals-of-a-modern-education-system
+title: >-
+  Report: NZ's Primary School Staffing Model "a Barrier To Achieving The Goals
+  Of A Modern Education System"
+date: 2021-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00022/report-nzs-primary-school-staffing-model-a-barrier-to-achieving-the-goals-of-a-modern-education-system.htm
 author: nzei
+permalink: >-
+  /archive/2021/06/10/report-nzs-primary-school-staffing-model-a-barrier-to-achieving-the-goals-of-a-modern-education-system/index.html
+layout: layout.njk
 ---
 Report: NZ's Primary School Staffing Model \"a Barrier To Achieving The Goals Of A Modern Education System"
 ==========================================================================================================

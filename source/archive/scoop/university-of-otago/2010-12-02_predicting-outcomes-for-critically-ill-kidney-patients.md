@@ -1,9 +1,13 @@
 ---
 slug: predicting-outcomes-for-critically-ill-kidney-patients
-title: "Predicting outcomes for critically-ill kidney patients"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/GE1012/S00005/predicting-outcomes-for-critically-ill-kidney-patients.htm
+title: Predicting outcomes for critically-ill kidney patients
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00005/predicting-outcomes-for-critically-ill-kidney-patients.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/02/predicting-outcomes-for-critically-ill-kidney-patients/index.html
+layout: layout.njk
 ---
 Predicting outcomes for critically-ill kidney patients
 ======================================================

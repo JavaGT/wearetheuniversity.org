@@ -1,9 +1,12 @@
 ---
 slug: ctu-critique-nationals-acc-policy
-title: "CTU Critique: National’s ACC Policy"
-date: 2008-07-17
-source-url: https://www.scoop.co.nz/stories/PO0807/S00226/ctu-critique-nationals-acc-policy.htm
+title: 'CTU Critique: National’s ACC Policy'
+date: 2008-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00226/ctu-critique-nationals-acc-policy.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/07/17/ctu-critique-nationals-acc-policy/index.html
+layout: layout.njk
 ---
 CTU Critique: National’s ACC Policy
 ===================================

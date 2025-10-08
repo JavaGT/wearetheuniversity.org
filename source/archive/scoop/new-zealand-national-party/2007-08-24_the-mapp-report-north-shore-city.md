@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-north-shore-city
-title: "The Mapp Report: North Shore City"
-date: 2007-08-24
-source-url: https://www.scoop.co.nz/stories/PA0708/S00433/the-mapp-report-north-shore-city.htm
+title: 'The Mapp Report: North Shore City'
+date: 2007-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00433/the-mapp-report-north-shore-city.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/24/the-mapp-report-north-shore-city/index.html
+layout: layout.njk
 ---
 The Mapp Report: North Shore City
 =================================

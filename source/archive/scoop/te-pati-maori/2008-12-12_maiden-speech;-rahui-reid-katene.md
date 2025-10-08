@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech;-rahui-reid-katene
-title: "Maiden Speech; Rahui Reid Katene"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/PA0812/S00131/maiden-speech-rahui-reid-katene.htm
+title: Maiden Speech; Rahui Reid Katene
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00131/maiden-speech-rahui-reid-katene.htm
 author: te-pati-maori
+permalink: /archive/2008/12/12/maiden-speech/index.html
+layout: layout.njk
 ---
 Maiden Speech; Rahui Reid Katene
 ================================

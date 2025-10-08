@@ -1,9 +1,12 @@
 ---
 slug: high-expectations-for-education-budget
-title: "High expectations for education budget"
-date: 2018-05-16
-source-url: https://www.scoop.co.nz/stories/PA1805/S00202/high-expectations-for-education-budget.htm
+title: High expectations for education budget
+date: 2018-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00202/high-expectations-for-education-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/16/high-expectations-for-education-budget/index.html
+layout: layout.njk
 ---
 High expectations for education budget
 ======================================

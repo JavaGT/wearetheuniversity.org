@@ -1,9 +1,12 @@
 ---
 slug: exhibition-sure-to-spark-interest
-title: "Exhibition sure to SPARK interest"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/ED1506/S00144/exhibition-sure-to-spark-interest.htm
+title: Exhibition sure to SPARK interest
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00144/exhibition-sure-to-spark-interest.htm
 author: waikato-university
+permalink: /archive/2015/06/30/exhibition-sure-to-spark-interest/index.html
+layout: layout.njk
 ---
 Exhibition sure to SPARK interest
 =================================

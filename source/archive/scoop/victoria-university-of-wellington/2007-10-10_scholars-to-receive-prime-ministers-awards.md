@@ -1,9 +1,12 @@
 ---
 slug: scholars-to-receive-prime-ministers-awards
-title: "Scholars to receive Prime Minister's awards"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/ED0710/S00035/scholars-to-receive-prime-ministers-awards.htm
+title: Scholars to receive Prime Minister's awards
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00035/scholars-to-receive-prime-ministers-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/10/scholars-to-receive-prime-ministers-awards/index.html
+layout: layout.njk
 ---
 Scholars to receive Prime Minister's awards
 ===========================================

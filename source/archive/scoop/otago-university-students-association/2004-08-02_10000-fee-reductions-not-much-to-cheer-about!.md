@@ -1,9 +1,12 @@
 ---
 slug: 10000-fee-reductions-not-much-to-cheer-about!
-title: "10,000 Fee Reductions not much to Cheer about!"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/ED0408/S00005/10000-fee-reductions-not-much-to-cheer-about.htm
+title: 10,000 Fee Reductions not much to Cheer about!
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00005/10000-fee-reductions-not-much-to-cheer-about.htm
 author: otago-university-students-association
+permalink: /archive/2004/08/02/10000-fee-reductions-not-much-to-cheer-about/index.html
+layout: layout.njk
 ---
 10,000 Fee Reductions not much to Cheer about!
 ==============================================

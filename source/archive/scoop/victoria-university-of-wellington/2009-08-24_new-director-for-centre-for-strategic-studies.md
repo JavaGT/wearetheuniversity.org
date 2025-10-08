@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-centre-for-strategic-studies
-title: "New Director for Centre for Strategic Studies"
-date: 2009-08-24
-source-url: https://www.scoop.co.nz/stories/ED0908/S00085/new-director-for-centre-for-strategic-studies.htm
+title: New Director for Centre for Strategic Studies
+date: 2009-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00085/new-director-for-centre-for-strategic-studies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/24/new-director-for-centre-for-strategic-studies/index.html
+layout: layout.njk
 ---
 New Director for Centre for Strategic Studies
 =============================================

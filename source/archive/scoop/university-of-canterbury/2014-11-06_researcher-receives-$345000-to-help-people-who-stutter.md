@@ -1,9 +1,12 @@
 ---
 slug: researcher-receives-$345000-to-help-people-who-stutter
-title: "Researcher receives $345,000 to help people who stutter"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/SC1411/S00012/researcher-receives-345000-to-help-people-who-stutter.htm
+title: Researcher receives $345,000 to help people who stutter
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00012/researcher-receives-345000-to-help-people-who-stutter.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/06/researcher-receives-/index.html
+layout: layout.njk
 ---
 Researcher receives $345,000 to help people who stutter
 =======================================================

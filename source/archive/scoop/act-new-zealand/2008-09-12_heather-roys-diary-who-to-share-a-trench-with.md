@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-who-to-share-a-trench-with
-title: "Heather Roy's Diary: Who To Share A Trench With?"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PA0809/S00293/heather-roys-diary-who-to-share-a-trench-with.htm
+title: 'Heather Roy''s Diary: Who To Share A Trench With?'
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00293/heather-roys-diary-who-to-share-a-trench-with.htm
 author: act-new-zealand
+permalink: /archive/2008/09/12/heather-roys-diary-who-to-share-a-trench-with/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Who To Share A Trench With?
 ================================================

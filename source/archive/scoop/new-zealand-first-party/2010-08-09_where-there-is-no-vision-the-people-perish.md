@@ -1,9 +1,12 @@
 ---
 slug: where-there-is-no-vision-the-people-perish
-title: "Where There Is No Vision The People Perish"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/PO1008/S00102/where-there-is-no-vision-the-people-perish.htm
+title: Where There Is No Vision The People Perish
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00102/where-there-is-no-vision-the-people-perish.htm
 author: new-zealand-first-party
+permalink: /archive/2010/08/09/where-there-is-no-vision-the-people-perish/index.html
+layout: layout.njk
 ---
 Where There Is No Vision The People Perish
 ==========================================

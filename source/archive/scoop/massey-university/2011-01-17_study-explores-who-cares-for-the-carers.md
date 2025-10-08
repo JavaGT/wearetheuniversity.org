@@ -1,9 +1,12 @@
 ---
 slug: study-explores-who-cares-for-the-carers
-title: "Study explores who cares for the carers"
-date: 2011-01-17
-source-url: https://www.scoop.co.nz/stories/GE1101/S00035/study-explores-who-cares-for-the-carers.htm
+title: Study explores who cares for the carers
+date: 2011-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1101/S00035/study-explores-who-cares-for-the-carers.htm
 author: massey-university
+permalink: /archive/2011/01/17/study-explores-who-cares-for-the-carers/index.html
+layout: layout.njk
 ---
 Study explores who cares for the carers
 =======================================

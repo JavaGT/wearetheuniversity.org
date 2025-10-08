@@ -1,9 +1,11 @@
 ---
 slug: national-education
-title: "National Education"
-date: 2005-05-27
+title: National Education
+date: 2005-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00688/national-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/27/national-education/index.html
+layout: layout.njk
 ---
 National Education
 ==================

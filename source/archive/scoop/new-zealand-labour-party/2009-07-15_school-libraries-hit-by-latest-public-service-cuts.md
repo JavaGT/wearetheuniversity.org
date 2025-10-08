@@ -1,9 +1,13 @@
 ---
 slug: school-libraries-hit-by-latest-public-service-cuts
-title: "School libraries hit by latest public service cuts"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/PA0907/S00174/school-libraries-hit-by-latest-public-service-cuts.htm
+title: School libraries hit by latest public service cuts
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00174/school-libraries-hit-by-latest-public-service-cuts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/07/15/school-libraries-hit-by-latest-public-service-cuts/index.html
+layout: layout.njk
 ---
 School libraries hit by latest public service cuts
 ==================================================

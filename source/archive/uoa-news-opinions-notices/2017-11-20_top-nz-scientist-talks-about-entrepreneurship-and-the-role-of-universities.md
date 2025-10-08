@@ -1,8 +1,12 @@
 ---
 slug: top-nz-scientist-talks-about-entrepreneurship-and-the-role-of-universities
-title: "Top NZ scientist talks about entrepreneurship and the role of universities"
-date: 2017-11-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/top-nz-scientist-talks-about-entrepreneurship.html
+title: Top NZ scientist talks about entrepreneurship and the role of universities
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/top-nz-scientist-talks-about-entrepreneurship.html
+permalink: >-
+  /archive/2017/11/20/top-nz-scientist-talks-about-entrepreneurship-and-the-role-of-universities/index.html
+layout: layout.njk
 ---
 Top NZ scientist talks about entrepreneurship and the role of universities
 ==========================================================================

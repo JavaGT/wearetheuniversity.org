@@ -1,9 +1,12 @@
 ---
 slug: fear-cant-be-allowed-to-compromise-safety
-title: "Fear can’t be allowed to compromise safety"
-date: 2012-02-22
-source-url: https://www.scoop.co.nz/stories/PA1202/S00256/fear-cant-be-allowed-to-compromise-safety.htm
+title: Fear can’t be allowed to compromise safety
+date: 2012-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00256/fear-cant-be-allowed-to-compromise-safety.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/22/fear-cant-be-allowed-to-compromise-safety/index.html
+layout: layout.njk
 ---
 Fear can’t be allowed to compromise safety
 ==========================================

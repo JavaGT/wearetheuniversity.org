@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-statement
-title: "Jeanette Fitzsimons Statement"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/PA0902/S00337/jeanette-fitzsimons-statement.htm
+title: Jeanette Fitzsimons Statement
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00337/jeanette-fitzsimons-statement.htm
 author: green-party
+permalink: /archive/2009/02/23/jeanette-fitzsimons-statement/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons Statement
 =============================

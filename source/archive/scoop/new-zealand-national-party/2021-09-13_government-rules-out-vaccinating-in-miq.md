@@ -1,9 +1,12 @@
 ---
 slug: government-rules-out-vaccinating-in-miq
-title: "Government rules out vaccinating in MIQ"
-date: 2021-09-13
-source-url: https://www.scoop.co.nz/stories/PA2109/S00115/government-rules-out-vaccinating-in-miq.htm
+title: Government rules out vaccinating in MIQ
+date: 2021-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00115/government-rules-out-vaccinating-in-miq.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/13/government-rules-out-vaccinating-in-miq/index.html
+layout: layout.njk
 ---
 Government rules out vaccinating in MIQ
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: study-on-causes-of-rheumatic-fever-gets-underway-in-auckland
-title: "Study on causes of rheumatic fever gets underway in Auckland"
-date: 2014-09-01
-source-url: https://www.scoop.co.nz/stories/SC1409/S00001/study-on-causes-of-rheumatic-fever-gets-underway-in-auckland.htm
+title: Study on causes of rheumatic fever gets underway in Auckland
+date: 2014-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00001/study-on-causes-of-rheumatic-fever-gets-underway-in-auckland.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/01/study-on-causes-of-rheumatic-fever-gets-underway-in-auckland/index.html
+layout: layout.njk
 ---
 Study on causes of rheumatic fever gets underway in Auckland
 ============================================================

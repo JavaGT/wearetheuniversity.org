@@ -1,9 +1,13 @@
 ---
 slug: govt-must-listen-to-experiences-of-abuse-survivors
-title: "Govt Must Listen To Experiences Of Abuse Survivors"
-date: 2024-07-24
-source-url: https://www.scoop.co.nz/stories/PA2407/S00149/govt-must-listen-to-experiences-of-abuse-survivors.htm
+title: Govt Must Listen To Experiences Of Abuse Survivors
+date: 2024-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00149/govt-must-listen-to-experiences-of-abuse-survivors.htm
 author: green-party
+permalink: >-
+  /archive/2024/07/24/govt-must-listen-to-experiences-of-abuse-survivors/index.html
+layout: layout.njk
 ---
 Govt Must Listen To Experiences Of Abuse Survivors
 ==================================================

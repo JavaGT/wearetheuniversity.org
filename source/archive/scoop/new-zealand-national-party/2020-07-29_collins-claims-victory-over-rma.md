@@ -1,9 +1,12 @@
 ---
 slug: collins-claims-victory-over-rma
-title: "Collins Claims Victory Over RMA"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00283/collins-claims-victory-over-rma.htm
+title: Collins Claims Victory Over RMA
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00283/collins-claims-victory-over-rma.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/29/collins-claims-victory-over-rma/index.html
+layout: layout.njk
 ---
 Collins Claims Victory Over RMA
 ===============================

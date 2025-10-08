@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-visiting-waimakariri-electorate
-title: "Prime Minister Visiting Waimakariri Electorate"
-date: 2001-07-16
-source-url: https://www.scoop.co.nz/stories/PA0107/S00253/prime-minister-visiting-waimakariri-electorate.htm
+title: Prime Minister Visiting Waimakariri Electorate
+date: 2001-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00253/prime-minister-visiting-waimakariri-electorate.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/07/16/prime-minister-visiting-waimakariri-electorate/index.html
+layout: layout.njk
 ---
 Prime Minister Visiting Waimakariri Electorate
 ==============================================

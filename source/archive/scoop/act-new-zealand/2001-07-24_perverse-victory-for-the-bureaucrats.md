@@ -1,9 +1,12 @@
 ---
 slug: perverse-victory-for-the-bureaucrats
-title: "Perverse Victory for the Bureaucrats"
-date: 2001-07-24
-source-url: https://www.scoop.co.nz/stories/PA0107/S00407/perverse-victory-for-the-bureaucrats.htm
+title: Perverse Victory for the Bureaucrats
+date: 2001-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00407/perverse-victory-for-the-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2001/07/24/perverse-victory-for-the-bureaucrats/index.html
+layout: layout.njk
 ---
 Perverse Victory for the Bureaucrats
 ====================================

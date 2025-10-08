@@ -1,9 +1,13 @@
 ---
 slug: aut-business-dean-recognised-for-excellent-leadership
-title: "AUT Business Dean recognised for excellent leadership"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/ED1208/S00172/aut-business-dean-recognised-for-excellent-leadership.htm
+title: AUT Business Dean recognised for excellent leadership
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00172/aut-business-dean-recognised-for-excellent-leadership.htm
 author: aut-university
+permalink: >-
+  /archive/2012/08/30/aut-business-dean-recognised-for-excellent-leadership/index.html
+layout: layout.njk
 ---
 AUT Business Dean recognised for excellent leadership
 =====================================================

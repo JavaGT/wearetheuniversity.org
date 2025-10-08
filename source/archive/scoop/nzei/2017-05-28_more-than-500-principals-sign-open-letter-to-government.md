@@ -1,9 +1,13 @@
 ---
 slug: more-than-500-principals-sign-open-letter-to-government
-title: "More than 500 principals sign open letter to Government"
-date: 2017-05-28
-source-url: https://www.scoop.co.nz/stories/PO1705/S00427/more-than-500-principals-sign-open-letter-to-government.htm
+title: More than 500 principals sign open letter to Government
+date: 2017-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00427/more-than-500-principals-sign-open-letter-to-government.htm
 author: nzei
+permalink: >-
+  /archive/2017/05/28/more-than-500-principals-sign-open-letter-to-government/index.html
+layout: layout.njk
 ---
 More than 500 principals sign open letter to Government
 =======================================================

@@ -1,9 +1,11 @@
 ---
 slug: students-vent-anger-at-winz
-title: "Students Vent Anger At WINZ"
-date: 2000-03-16
+title: Students Vent Anger At WINZ
+date: 2000-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0003/S00031/students-vent-anger-at-winz.htm
 author: otago-university-students-association
+permalink: /archive/2000/03/16/students-vent-anger-at-winz/index.html
+layout: layout.njk
 ---
 Students Vent Anger At WINZ
 ===========================

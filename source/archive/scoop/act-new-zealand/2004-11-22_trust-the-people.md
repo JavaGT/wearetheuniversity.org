@@ -1,9 +1,11 @@
 ---
 slug: trust-the-people
-title: "Trust The People"
-date: 2004-11-22
+title: Trust The People
+date: 2004-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0411/S00466/trust-the-people.htm
 author: act-new-zealand
+permalink: /archive/2004/11/22/trust-the-people/index.html
+layout: layout.njk
 ---
 Trust The People
 ================

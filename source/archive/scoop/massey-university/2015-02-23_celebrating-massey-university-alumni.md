@@ -1,9 +1,12 @@
 ---
 slug: celebrating-massey-university-alumni
-title: "Celebrating Massey University alumni"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/ED1502/S00086/celebrating-massey-university-alumni.htm
+title: Celebrating Massey University alumni
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00086/celebrating-massey-university-alumni.htm
 author: massey-university
+permalink: /archive/2015/02/23/celebrating-massey-university-alumni/index.html
+layout: layout.njk
 ---
 Celebrating Massey University alumni
 ====================================

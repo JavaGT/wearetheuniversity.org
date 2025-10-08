@@ -1,9 +1,12 @@
 ---
 slug: government-paying-lipservice-to-sustainability
-title: "Government Paying Lipservice to Sustainability"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/PA0706/S00105/government-paying-lipservice-to-sustainability.htm
+title: Government Paying Lipservice to Sustainability
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00105/government-paying-lipservice-to-sustainability.htm
 author: te-pati-maori
+permalink: /archive/2007/06/07/government-paying-lipservice-to-sustainability/index.html
+layout: layout.njk
 ---
 Government Paying Lipservice to Sustainability
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: swedish-pm-to-speak-at-victoria-university
-title: "Swedish PM to speak at Victoria University"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/PO0502/S00115/swedish-pm-to-speak-at-victoria-university.htm
+title: Swedish PM to speak at Victoria University
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0502/S00115/swedish-pm-to-speak-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/02/11/swedish-pm-to-speak-at-victoria-university/index.html
+layout: layout.njk
 ---
 Swedish PM to speak at Victoria University
 ==========================================

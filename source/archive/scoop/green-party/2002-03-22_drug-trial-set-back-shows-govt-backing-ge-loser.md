@@ -1,9 +1,12 @@
 ---
 slug: drug-trial-set-back-shows-govt-backing-ge-loser
-title: "Drug Trial Set-Back Shows Gov't Backing GE Loser"
-date: 2002-03-22
-source-url: https://www.scoop.co.nz/stories/PA0203/S00435/drug-trial-set-back-shows-govt-backing-ge-loser.htm
+title: Drug Trial Set-Back Shows Gov't Backing GE Loser
+date: 2002-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00435/drug-trial-set-back-shows-govt-backing-ge-loser.htm
 author: green-party
+permalink: /archive/2002/03/22/drug-trial-set-back-shows-govt-backing-ge-loser/index.html
+layout: layout.njk
 ---
 Drug Trial Set-Back Shows Gov't Backing GE Loser
 ================================================

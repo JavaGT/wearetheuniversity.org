@@ -1,9 +1,12 @@
 ---
 slug: economic-sovereignty-and-dignity
-title: "Economic Sovereignty and Dignity"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/PA1009/S00014/economic-sovereignty-and-dignity.htm
+title: Economic Sovereignty and Dignity
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00014/economic-sovereignty-and-dignity.htm
 author: green-party
+permalink: /archive/2010/09/01/economic-sovereignty-and-dignity/index.html
+layout: layout.njk
 ---
 Economic Sovereignty and Dignity
 ================================

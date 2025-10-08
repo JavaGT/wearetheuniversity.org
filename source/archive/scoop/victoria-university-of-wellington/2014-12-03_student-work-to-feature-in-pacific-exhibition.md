@@ -1,9 +1,12 @@
 ---
 slug: student-work-to-feature-in-pacific-exhibition
-title: "Student work to feature in Pacific exhibition"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/CU1412/S00085/student-work-to-feature-in-pacific-exhibition.htm
+title: Student work to feature in Pacific exhibition
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00085/student-work-to-feature-in-pacific-exhibition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/03/student-work-to-feature-in-pacific-exhibition/index.html
+layout: layout.njk
 ---
 Student work to feature in Pacific exhibition
 =============================================

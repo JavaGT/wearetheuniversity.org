@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-institute-of-policy-studies
-title: "New Director for Institute of Policy Studies"
-date: 2003-01-21
-source-url: https://www.scoop.co.nz/stories/ED0301/S00006/new-director-for-institute-of-policy-studies.htm
+title: New Director for Institute of Policy Studies
+date: 2003-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00006/new-director-for-institute-of-policy-studies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/01/21/new-director-for-institute-of-policy-studies/index.html
+layout: layout.njk
 ---
 New Director for Institute of Policy Studies
 ============================================

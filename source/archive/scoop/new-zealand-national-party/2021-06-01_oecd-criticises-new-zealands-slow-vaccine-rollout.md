@@ -1,9 +1,13 @@
 ---
 slug: oecd-criticises-new-zealands-slow-vaccine-rollout
-title: "OECD Criticises New Zealand’s Slow Vaccine Rollout"
-date: 2021-06-01
-source-url: https://www.scoop.co.nz/stories/PA2106/S00007/oecd-criticises-new-zealands-slow-vaccine-rollout.htm
+title: OECD Criticises New Zealand’s Slow Vaccine Rollout
+date: 2021-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00007/oecd-criticises-new-zealands-slow-vaccine-rollout.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/06/01/oecd-criticises-new-zealands-slow-vaccine-rollout/index.html
+layout: layout.njk
 ---
 OECD Criticises New Zealand’s Slow Vaccine Rollout
 ==================================================

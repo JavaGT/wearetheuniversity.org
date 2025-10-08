@@ -1,9 +1,13 @@
 ---
 slug: $2m-fund-establishes-chair-in-paediatric-research
-title: "$2m Fund Establishes Chair in Paediatric Research"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/ED0709/S00073/2m-fund-establishes-chair-in-paediatric-research.htm
+title: $2m Fund Establishes Chair in Paediatric Research
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00073/2m-fund-establishes-chair-in-paediatric-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/09/21/2m-fund-establishes-chair-in-paediatric-research/index.html
+layout: layout.njk
 ---
 $2m Fund Establishes Chair in Paediatric Research
 =================================================

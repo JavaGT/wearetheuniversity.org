@@ -1,9 +1,12 @@
 ---
 slug: sports-clubs-charity-grants-must-be-guaranteed
-title: "Sports clubs' charity grants must be guaranteed"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/PA0909/S00308/sports-clubs-charity-grants-must-be-guaranteed.htm
+title: Sports clubs' charity grants must be guaranteed
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00308/sports-clubs-charity-grants-must-be-guaranteed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/22/sports-clubs-charity-grants-must-be-guaranteed/index.html
+layout: layout.njk
 ---
 Sports clubs' charity grants must be guaranteed
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: biggest-and-best-orientation-for-a-generation
-title: "Biggest and Best Orientation for a Generation"
-date: 2012-02-26
-source-url: https://www.scoop.co.nz/stories/ED1202/S00115/biggest-and-best-orientation-for-a-generation.htm
+title: Biggest and Best Orientation for a Generation
+date: 2012-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00115/biggest-and-best-orientation-for-a-generation.htm
 author: otago-university-students-association
+permalink: /archive/2012/02/26/biggest-and-best-orientation-for-a-generation/index.html
+layout: layout.njk
 ---
 Biggest and Best Orientation for a Generation
 =============================================

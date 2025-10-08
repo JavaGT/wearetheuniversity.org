@@ -1,9 +1,11 @@
 ---
 slug: youth-transitions-fact-sheet
-title: "Youth Transitions - Fact Sheet"
-date: 2005-08-30
+title: Youth Transitions - Fact Sheet
+date: 2005-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00770/youth-transitions-fact-sheet.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/30/youth-transitions-fact-sheet/index.html
+layout: layout.njk
 ---
 Youth Transitions - Fact Sheet
 ==============================

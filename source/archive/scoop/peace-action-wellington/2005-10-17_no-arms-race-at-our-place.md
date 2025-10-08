@@ -1,9 +1,11 @@
 ---
 slug: no-arms-race-at-our-place
-title: "No arms race at 'Our Place'"
-date: 2005-10-17
+title: No arms race at 'Our Place'
+date: 2005-10-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0510/S00136/no-arms-race-at-our-place.htm
 author: peace-action-wellington
+permalink: /archive/2005/10/17/no-arms-race-at-our-place/index.html
+layout: layout.njk
 ---
 No arms race at 'Our Place'
 ===========================

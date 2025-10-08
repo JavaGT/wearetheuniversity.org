@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-74-3-april-2006
-title: "Don Brash Writes - No. 74, 3 April 2006"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/PA0604/S00042/don-brash-writes-no-74-3-april-2006.htm
+title: Don Brash Writes - No. 74, 3 April 2006
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00042/don-brash-writes-no-74-3-april-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/04/don-brash-writes-no-74-3-april-2006/index.html
+layout: layout.njk
 ---
 Don Brash Writes - No. 74, 3 April 2006
 =======================================

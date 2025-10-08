@@ -1,9 +1,13 @@
 ---
 slug: independent-report-contradicts-government-power-claims
-title: "Independent report contradicts Government power claims"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00275/independent-report-contradicts-government-power-claims.htm
+title: Independent report contradicts Government power claims
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00275/independent-report-contradicts-government-power-claims.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/20/independent-report-contradicts-government-power-claims/index.html
+layout: layout.njk
 ---
 Independent report contradicts Government power claims
 ======================================================

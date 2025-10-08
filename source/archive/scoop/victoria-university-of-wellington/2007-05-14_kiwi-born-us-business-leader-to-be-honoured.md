@@ -1,9 +1,12 @@
 ---
 slug: kiwi-born-us-business-leader-to-be-honoured
-title: "Kiwi-born US business leader to be honoured"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/ED0705/S00055/kiwi-born-us-business-leader-to-be-honoured.htm
+title: Kiwi-born US business leader to be honoured
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00055/kiwi-born-us-business-leader-to-be-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/14/kiwi-born-us-business-leader-to-be-honoured/index.html
+layout: layout.njk
 ---
 Kiwi-born US business leader to be honoured
 ===========================================

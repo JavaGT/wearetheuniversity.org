@@ -1,9 +1,12 @@
 ---
 slug: concern-about-vitamin-d-in-children
-title: "Concern about vitamin D in children"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/SC1009/S00035/concern-about-vitamin-d-in-children.htm
+title: Concern about vitamin D in children
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00035/concern-about-vitamin-d-in-children.htm
 author: massey-university
+permalink: /archive/2010/09/27/concern-about-vitamin-d-in-children/index.html
+layout: layout.njk
 ---
 Concern about vitamin D in children
 ===================================

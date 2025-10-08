@@ -1,9 +1,12 @@
 ---
 slug: silicon-valley-and-the-pursuit-of-immortality
-title: "Silicon Valley and the pursuit of immortality"
-date: 2019-07-22
-source-url: https://www.scoop.co.nz/stories/SC1907/S00049/silicon-valley-and-the-pursuit-of-immortality.htm
+title: Silicon Valley and the pursuit of immortality
+date: 2019-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1907/S00049/silicon-valley-and-the-pursuit-of-immortality.htm
 author: university-of-canterbury
+permalink: /archive/2019/07/22/silicon-valley-and-the-pursuit-of-immortality/index.html
+layout: layout.njk
 ---
 Silicon Valley and the pursuit of immortality
 =============================================

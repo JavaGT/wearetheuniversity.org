@@ -1,9 +1,12 @@
 ---
 slug: speech-cunliffe-labour-election-launch
-title: "Speech: Cunliffe - Labour Election Launch"
-date: 2014-08-10
-source-url: https://www.scoop.co.nz/stories/PA1408/S00166/speech-cunliffe-labour-election-launch.htm
+title: 'Speech: Cunliffe - Labour Election Launch'
+date: 2014-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00166/speech-cunliffe-labour-election-launch.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/10/speech-cunliffe-labour-election-launch/index.html
+layout: layout.njk
 ---
 Speech: Cunliffe - Labour Election Launch
 =========================================

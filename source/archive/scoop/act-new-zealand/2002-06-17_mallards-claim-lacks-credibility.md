@@ -1,9 +1,12 @@
 ---
 slug: mallards-claim-lacks-credibility
-title: "Mallard's Claim Lacks Credibility"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00272/mallards-claim-lacks-credibility.htm
+title: Mallard's Claim Lacks Credibility
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00272/mallards-claim-lacks-credibility.htm
 author: act-new-zealand
+permalink: /archive/2002/06/17/mallards-claim-lacks-credibility/index.html
+layout: layout.njk
 ---
 Mallard's Claim Lacks Credibility
 =================================

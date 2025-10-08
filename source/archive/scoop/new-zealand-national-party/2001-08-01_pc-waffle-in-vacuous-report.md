@@ -1,9 +1,11 @@
 ---
 slug: pc-waffle-in-vacuous-report
-title: "PC Waffle In Vacuous Report"
-date: 2001-08-01
+title: PC Waffle In Vacuous Report
+date: 2001-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0108/S00032/pc-waffle-in-vacuous-report.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/01/pc-waffle-in-vacuous-report/index.html
+layout: layout.njk
 ---
 PC Waffle In Vacuous Report
 ===========================

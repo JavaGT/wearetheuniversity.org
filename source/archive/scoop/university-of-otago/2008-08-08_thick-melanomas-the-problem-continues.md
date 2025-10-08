@@ -1,9 +1,12 @@
 ---
 slug: thick-melanomas-the-problem-continues
-title: "Thick melanomas: the problem continues"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/GE0808/S00042/thick-melanomas-the-problem-continues.htm
+title: 'Thick melanomas: the problem continues'
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00042/thick-melanomas-the-problem-continues.htm
 author: university-of-otago
+permalink: /archive/2008/08/08/thick-melanomas-the-problem-continues/index.html
+layout: layout.njk
 ---
 Thick melanomas: the problem continues
 ======================================

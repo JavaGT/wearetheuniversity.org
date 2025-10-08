@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-wants-more-school-children-to-learn-sign-language
-title: "UC Expert Wants More School Children to Learn Sign Language"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/SC1305/S00047/uc-expert-wants-more-school-children-to-learn-sign-language.htm
+title: UC Expert Wants More School Children to Learn Sign Language
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00047/uc-expert-wants-more-school-children-to-learn-sign-language.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/10/uc-expert-wants-more-school-children-to-learn-sign-language/index.html
+layout: layout.njk
 ---
 UC Expert Wants More School Children to Learn Sign Language
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: fog-bound-vet-takes-road-trip-for-graduation
-title: "Fog-bound vet takes road trip for graduation"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/ED0805/S00058/fog-bound-vet-takes-road-trip-for-graduation.htm
+title: Fog-bound vet takes road trip for graduation
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00058/fog-bound-vet-takes-road-trip-for-graduation.htm
 author: massey-university
+permalink: /archive/2008/05/19/fog-bound-vet-takes-road-trip-for-graduation/index.html
+layout: layout.njk
 ---
 Fog-bound vet takes road trip for graduation
 ============================================

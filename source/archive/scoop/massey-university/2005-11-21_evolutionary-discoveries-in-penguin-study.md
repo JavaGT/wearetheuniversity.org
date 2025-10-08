@@ -1,9 +1,12 @@
 ---
 slug: evolutionary-discoveries-in-penguin-study
-title: "Evolutionary discoveries in penguin study"
-date: 2005-11-21
-source-url: https://www.scoop.co.nz/stories/SC0511/S00044/evolutionary-discoveries-in-penguin-study.htm
+title: Evolutionary discoveries in penguin study
+date: 2005-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0511/S00044/evolutionary-discoveries-in-penguin-study.htm
 author: massey-university
+permalink: /archive/2005/11/21/evolutionary-discoveries-in-penguin-study/index.html
+layout: layout.njk
 ---
 Evolutionary discoveries in penguin study
 =========================================

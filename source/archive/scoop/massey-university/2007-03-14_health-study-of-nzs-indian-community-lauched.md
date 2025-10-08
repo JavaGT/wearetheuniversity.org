@@ -1,9 +1,12 @@
 ---
 slug: health-study-of-nzs-indian-community-lauched
-title: "Health study of NZ’s Indian community lauched"
-date: 2007-03-14
-source-url: https://www.scoop.co.nz/stories/GE0703/S00042/health-study-of-nzs-indian-community-lauched.htm
+title: Health study of NZ’s Indian community lauched
+date: 2007-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00042/health-study-of-nzs-indian-community-lauched.htm
 author: massey-university
+permalink: /archive/2007/03/14/health-study-of-nzs-indian-community-lauched/index.html
+layout: layout.njk
 ---
 Health study of NZ’s Indian community lauched
 =============================================

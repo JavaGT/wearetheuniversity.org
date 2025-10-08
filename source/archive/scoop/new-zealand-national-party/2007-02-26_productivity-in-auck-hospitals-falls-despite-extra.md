@@ -1,9 +1,13 @@
 ---
 slug: productivity-in-auck-hospitals-falls-despite-extra
-title: "Productivity in Auck hospitals falls despite extra"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/PA0702/S00466/productivity-in-auck-hospitals-falls-despite-extra.htm
+title: Productivity in Auck hospitals falls despite extra
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00466/productivity-in-auck-hospitals-falls-despite-extra.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/02/26/productivity-in-auck-hospitals-falls-despite-extra/index.html
+layout: layout.njk
 ---
 Productivity in Auck hospitals falls despite extra
 ==================================================

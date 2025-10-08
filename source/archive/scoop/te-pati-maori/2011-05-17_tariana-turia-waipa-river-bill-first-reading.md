@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-waipa-river-bill-first-reading
-title: "Tariana Turia - Waipa River Bill First Reading"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PA1105/S00344/tariana-turia-waipa-river-bill-first-reading.htm
+title: Tariana Turia - Waipa River Bill First Reading
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00344/tariana-turia-waipa-river-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2011/05/17/tariana-turia-waipa-river-bill-first-reading/index.html
+layout: layout.njk
 ---
 Tariana Turia - Waipa River Bill First Reading
 ==============================================

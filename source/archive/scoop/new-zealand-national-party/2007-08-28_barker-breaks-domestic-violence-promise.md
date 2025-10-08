@@ -1,9 +1,12 @@
 ---
 slug: barker-breaks-domestic-violence-promise
-title: "Barker breaks domestic violence promise"
-date: 2007-08-28
-source-url: https://www.scoop.co.nz/stories/PA0708/S00469/barker-breaks-domestic-violence-promise.htm
+title: Barker breaks domestic violence promise
+date: 2007-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00469/barker-breaks-domestic-violence-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/28/barker-breaks-domestic-violence-promise/index.html
+layout: layout.njk
 ---
 Barker breaks domestic violence promise
 =======================================

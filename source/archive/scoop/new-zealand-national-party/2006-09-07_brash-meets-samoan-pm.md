@@ -1,9 +1,11 @@
 ---
 slug: brash-meets-samoan-pm
-title: "Brash meets Samoan PM"
-date: 2006-09-07
+title: Brash meets Samoan PM
+date: 2006-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00169/brash-meets-samoan-pm.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/07/brash-meets-samoan-pm/index.html
+layout: layout.njk
 ---
 Brash meets Samoan PM
 =====================

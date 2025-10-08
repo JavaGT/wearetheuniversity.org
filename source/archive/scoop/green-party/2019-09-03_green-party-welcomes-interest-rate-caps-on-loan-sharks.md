@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-interest-rate-caps-on-loan-sharks
-title: "Green Party welcomes interest rate caps on loan sharks"
-date: 2019-09-03
-source-url: https://www.scoop.co.nz/stories/PA1909/S00016/green-party-welcomes-interest-rate-caps-on-loan-sharks.htm
+title: Green Party welcomes interest rate caps on loan sharks
+date: 2019-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00016/green-party-welcomes-interest-rate-caps-on-loan-sharks.htm
 author: green-party
+permalink: >-
+  /archive/2019/09/03/green-party-welcomes-interest-rate-caps-on-loan-sharks/index.html
+layout: layout.njk
 ---
 Green Party welcomes interest rate caps on loan sharks
 ======================================================

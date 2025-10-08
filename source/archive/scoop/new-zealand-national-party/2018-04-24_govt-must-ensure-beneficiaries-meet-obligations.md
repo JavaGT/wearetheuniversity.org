@@ -1,9 +1,12 @@
 ---
 slug: govt-must-ensure-beneficiaries-meet-obligations
-title: "Govt must ensure beneficiaries meet obligations"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/PA1804/S00259/govt-must-ensure-beneficiaries-meet-obligations.htm
+title: Govt must ensure beneficiaries meet obligations
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00259/govt-must-ensure-beneficiaries-meet-obligations.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/24/govt-must-ensure-beneficiaries-meet-obligations/index.html
+layout: layout.njk
 ---
 Govt must ensure beneficiaries meet obligations
 ===============================================

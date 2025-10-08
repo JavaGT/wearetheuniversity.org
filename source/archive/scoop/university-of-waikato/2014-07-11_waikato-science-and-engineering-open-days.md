@@ -1,9 +1,12 @@
 ---
 slug: waikato-science-and-engineering-open-days
-title: "Waikato Science and Engineering Open Days"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/ED1407/S00070/waikato-science-and-engineering-open-days.htm
+title: Waikato Science and Engineering Open Days
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00070/waikato-science-and-engineering-open-days.htm
 author: university-of-waikato
+permalink: /archive/2014/07/11/waikato-science-and-engineering-open-days/index.html
+layout: layout.njk
 ---
 Waikato Science and Engineering Open Days
 =========================================

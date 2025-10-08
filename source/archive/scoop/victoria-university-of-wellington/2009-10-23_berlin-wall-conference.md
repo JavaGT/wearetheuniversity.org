@@ -1,9 +1,11 @@
 ---
 slug: berlin-wall-conference
-title: "Berlin Wall conference"
-date: 2009-10-23
+title: Berlin Wall conference
+date: 2009-10-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0910/S00110/berlin-wall-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/23/berlin-wall-conference/index.html
+layout: layout.njk
 ---
 Berlin Wall conference
 ======================

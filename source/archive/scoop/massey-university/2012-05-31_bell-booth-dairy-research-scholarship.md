@@ -1,9 +1,12 @@
 ---
 slug: bell-booth-dairy-research-scholarship
-title: "Bell-Booth Dairy Research Scholarship"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/ED1205/S00157/bell-booth-dairy-research-scholarship.htm
+title: Bell-Booth Dairy Research Scholarship
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00157/bell-booth-dairy-research-scholarship.htm
 author: massey-university
+permalink: /archive/2012/05/31/bell-booth-dairy-research-scholarship/index.html
+layout: layout.njk
 ---
 Bell-Booth Dairy Research Scholarship
 =====================================

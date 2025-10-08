@@ -1,9 +1,13 @@
 ---
 slug: act-speech-to-waikato-conference-race-has-no-place-in-law
-title: "ACT Speech to Waikato Conference: Race has no place in law"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/PO1407/S00465/act-speech-to-waikato-conference-race-has-no-place-in-law.htm
+title: 'ACT Speech to Waikato Conference: Race has no place in law'
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00465/act-speech-to-waikato-conference-race-has-no-place-in-law.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/07/29/act-speech-to-waikato-conference-race-has-no-place-in-law/index.html
+layout: layout.njk
 ---
 ACT Speech to Waikato Conference: Race has no place in law
 ==========================================================

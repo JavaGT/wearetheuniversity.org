@@ -1,9 +1,12 @@
 ---
 slug: occupy-auckland-university-to-negotiate-demands
-title: "Occupy Auckland University to negotiate demands"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/ED1110/S00072/occupy-auckland-university-to-negotiate-demands.htm
+title: Occupy Auckland University to negotiate demands
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00072/occupy-auckland-university-to-negotiate-demands.htm
 author: we-are-the-university
+permalink: /archive/2011/10/17/occupy-auckland-university-to-negotiate-demands/index.html
+layout: layout.njk
 ---
 Occupy Auckland University to negotiate demands
 ===============================================

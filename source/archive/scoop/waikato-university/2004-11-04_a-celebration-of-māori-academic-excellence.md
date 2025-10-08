@@ -1,9 +1,12 @@
 ---
-slug: a-celebration-of-māori-academic-excellence
-title: "A Celebration of Māori Academic Excellence"
-date: 2004-11-04
-source-url: https://www.scoop.co.nz/stories/ED0411/S00013/a-celebration-of-maori-academic-excellence.htm
+slug: a-celebration-of-m-2āori-academic-excellence
+title: A Celebration of Māori Academic Excellence
+date: 2004-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00013/a-celebration-of-maori-academic-excellence.htm
 author: waikato-university
+permalink: /archive/2004/11/04/a-celebration-of-m-2/index.html
+layout: layout.njk
 ---
 A Celebration of Māori Academic Excellence
 ==========================================

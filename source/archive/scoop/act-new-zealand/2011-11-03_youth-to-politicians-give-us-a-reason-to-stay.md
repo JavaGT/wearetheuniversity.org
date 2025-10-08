@@ -1,9 +1,12 @@
 ---
 slug: youth-to-politicians-give-us-a-reason-to-stay
-title: "Youth To Politicians: Give Us A Reason To Stay"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/PO1111/S00096/youth-to-politicians-give-us-a-reason-to-stay.htm
+title: 'Youth To Politicians: Give Us A Reason To Stay'
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00096/youth-to-politicians-give-us-a-reason-to-stay.htm
 author: act-new-zealand
+permalink: /archive/2011/11/03/youth-to-politicians-give-us-a-reason-to-stay/index.html
+layout: layout.njk
 ---
 Youth To Politicians: Give Us A Reason To Stay
 ==============================================

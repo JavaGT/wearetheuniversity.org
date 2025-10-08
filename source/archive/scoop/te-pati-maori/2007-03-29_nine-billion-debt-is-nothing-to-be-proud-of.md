@@ -1,9 +1,12 @@
 ---
 slug: nine-billion-debt-is-nothing-to-be-proud-of
-title: "Nine Billion Debt is nothing to be proud of"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00600/nine-billion-debt-is-nothing-to-be-proud-of.htm
+title: Nine Billion Debt is nothing to be proud of
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00600/nine-billion-debt-is-nothing-to-be-proud-of.htm
 author: te-pati-maori
+permalink: /archive/2007/03/29/nine-billion-debt-is-nothing-to-be-proud-of/index.html
+layout: layout.njk
 ---
 Nine Billion Debt is nothing to be proud of
 ===========================================

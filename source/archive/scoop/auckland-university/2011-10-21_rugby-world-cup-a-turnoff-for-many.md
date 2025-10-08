@@ -1,9 +1,12 @@
 ---
 slug: rugby-world-cup-a-turnoff-for-many
-title: "Rugby World Cup a turnoff for many"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00099/rugby-world-cup-a-turnoff-for-many.htm
+title: Rugby World Cup a turnoff for many
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00099/rugby-world-cup-a-turnoff-for-many.htm
 author: auckland-university
+permalink: /archive/2011/10/21/rugby-world-cup-a-turnoff-for-many/index.html
+layout: layout.njk
 ---
 Rugby World Cup a turnoff for many
 ==================================

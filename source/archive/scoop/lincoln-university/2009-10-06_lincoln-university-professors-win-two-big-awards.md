@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-professors-win-two-big-awards
-title: "Lincoln University Professors Win Two Big Awards"
-date: 2009-10-06
-source-url: https://www.scoop.co.nz/stories/ED0910/S00020/lincoln-university-professors-win-two-big-awards.htm
+title: Lincoln University Professors Win Two Big Awards
+date: 2009-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00020/lincoln-university-professors-win-two-big-awards.htm
 author: lincoln-university
+permalink: >-
+  /archive/2009/10/06/lincoln-university-professors-win-two-big-awards/index.html
+layout: layout.njk
 ---
 Lincoln University Professors Win Two Big Awards
 ================================================

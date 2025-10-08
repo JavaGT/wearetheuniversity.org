@@ -1,9 +1,12 @@
 ---
 slug: universities-committed-to-driving-innovation
-title: "Universities Committed To Driving Innovation"
-date: 2009-07-29
-source-url: https://www.scoop.co.nz/stories/ED0907/S00104/universities-committed-to-driving-innovation.htm
+title: Universities Committed To Driving Innovation
+date: 2009-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00104/universities-committed-to-driving-innovation.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/07/29/universities-committed-to-driving-innovation/index.html
+layout: layout.njk
 ---
 Universities Committed To Driving Innovation
 ============================================

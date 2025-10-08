@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-more-lunacy-sightings
-title: "Liberty Belle: More Lunacy Sightings"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/PA0502/S00580/liberty-belle-more-lunacy-sightings.htm
+title: 'Liberty Belle: More Lunacy Sightings'
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00580/liberty-belle-more-lunacy-sightings.htm
 author: act-new-zealand
+permalink: /archive/2005/02/28/liberty-belle-more-lunacy-sightings/index.html
+layout: layout.njk
 ---
 Liberty Belle: More Lunacy Sightings
 ====================================

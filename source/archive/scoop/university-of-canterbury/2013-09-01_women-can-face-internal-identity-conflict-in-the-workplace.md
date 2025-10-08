@@ -1,9 +1,13 @@
 ---
 slug: women-can-face-internal-identity-conflict-in-the-workplace
-title: "Women can face internal identity conflict in the workplace"
-date: 2013-09-01
-source-url: https://www.scoop.co.nz/stories/ED1309/S00001/women-can-face-internal-identity-conflict-in-the-workplace.htm
+title: Women can face internal identity conflict in the workplace
+date: 2013-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00001/women-can-face-internal-identity-conflict-in-the-workplace.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/01/women-can-face-internal-identity-conflict-in-the-workplace/index.html
+layout: layout.njk
 ---
 Women can face internal identity conflict in the workplace
 ==========================================================

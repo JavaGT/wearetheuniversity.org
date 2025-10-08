@@ -1,9 +1,13 @@
 ---
 slug: uc-helping-high-country-station-to-convert-farm-vehicles
-title: "UC helping high country station to convert farm vehicles"
-date: 2014-03-09
-source-url: https://www.scoop.co.nz/stories/AK1403/S00224/uc-helping-high-country-station-to-convert-farm-vehicles.htm
+title: UC helping high country station to convert farm vehicles
+date: 2014-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00224/uc-helping-high-country-station-to-convert-farm-vehicles.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/09/uc-helping-high-country-station-to-convert-farm-vehicles/index.html
+layout: layout.njk
 ---
 UC helping high country station to convert farm vehicles
 ========================================================

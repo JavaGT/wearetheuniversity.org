@@ -1,9 +1,13 @@
 ---
 slug: rising-house-prices-shut-more-first-home-buyers-out
-title: "Rising house prices shut more first-home buyers out"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/PA1607/S00239/rising-house-prices-shut-more-first-home-buyers-out.htm
+title: Rising house prices shut more first-home buyers out
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00239/rising-house-prices-shut-more-first-home-buyers-out.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/15/rising-house-prices-shut-more-first-home-buyers-out/index.html
+layout: layout.njk
 ---
 Rising house prices shut more first-home buyers out
 ===================================================

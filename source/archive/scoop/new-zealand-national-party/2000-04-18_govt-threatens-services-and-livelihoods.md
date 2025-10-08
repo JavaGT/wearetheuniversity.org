@@ -1,9 +1,12 @@
 ---
 slug: govt-threatens-services-and-livelihoods
-title: "Govt. threatens services and livelihoods"
-date: 2000-04-18
-source-url: https://www.scoop.co.nz/stories/PA0004/S00243/govt-threatens-services-and-livelihoods.htm
+title: Govt. threatens services and livelihoods
+date: 2000-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00243/govt-threatens-services-and-livelihoods.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/18/govt-threatens-services-and-livelihoods/index.html
+layout: layout.njk
 ---
 Govt. threatens services and livelihoods
 ========================================

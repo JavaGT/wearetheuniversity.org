@@ -1,9 +1,12 @@
 ---
 slug: maori-party-seeks-answers-in-masterton
-title: "Maori Party Seeks Answers in Masterton"
-date: 2008-07-16
-source-url: https://www.scoop.co.nz/stories/PA0807/S00287/maori-party-seeks-answers-in-masterton.htm
+title: Maori Party Seeks Answers in Masterton
+date: 2008-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00287/maori-party-seeks-answers-in-masterton.htm
 author: te-pati-maori
+permalink: /archive/2008/07/16/maori-party-seeks-answers-in-masterton/index.html
+layout: layout.njk
 ---
 Maori Party Seeks Answers in Masterton
 ======================================

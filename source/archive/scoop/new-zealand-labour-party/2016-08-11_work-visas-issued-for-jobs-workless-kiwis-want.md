@@ -1,9 +1,12 @@
 ---
 slug: work-visas-issued-for-jobs-workless-kiwis-want
-title: "Work visas issued for jobs workless Kiwis want"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00197/work-visas-issued-for-jobs-workless-kiwis-want.htm
+title: Work visas issued for jobs workless Kiwis want
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00197/work-visas-issued-for-jobs-workless-kiwis-want.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/11/work-visas-issued-for-jobs-workless-kiwis-want/index.html
+layout: layout.njk
 ---
 Work visas issued for jobs workless Kiwis want
 ==============================================

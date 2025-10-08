@@ -1,9 +1,13 @@
 ---
 slug: nz-first-student-loan-policy-a-welcome-contribution
-title: "NZ First student loan policy a welcome contribution"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/ED1108/S00009/nz-first-student-loan-policy-a-welcome-contribution.htm
+title: NZ First student loan policy a welcome contribution
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00009/nz-first-student-loan-policy-a-welcome-contribution.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/08/02/nz-first-student-loan-policy-a-welcome-contribution/index.html
+layout: layout.njk
 ---
 NZ First student loan policy a welcome contribution
 ===================================================

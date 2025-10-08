@@ -1,9 +1,11 @@
 ---
 slug: denise-roche-maiden-speech
-title: "Denise Roche - maiden speech"
-date: 2012-02-15
+title: Denise Roche - maiden speech
+date: 2012-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00174/denise-roche-maiden-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/15/denise-roche-maiden-speech/index.html
+layout: layout.njk
 ---
 Denise Roche - maiden speech
 ============================

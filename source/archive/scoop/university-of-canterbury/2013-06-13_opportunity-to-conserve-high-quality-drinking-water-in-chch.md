@@ -1,9 +1,13 @@
 ---
 slug: opportunity-to-conserve-high-quality-drinking-water-in-chch
-title: "Opportunity to conserve high quality drinking water in Chch"
-date: 2013-06-13
-source-url: https://www.scoop.co.nz/stories/AK1306/S00264/opportunity-to-conserve-high-quality-drinking-water-in-chch.htm
+title: Opportunity to conserve high quality drinking water in Chch
+date: 2013-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00264/opportunity-to-conserve-high-quality-drinking-water-in-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/13/opportunity-to-conserve-high-quality-drinking-water-in-chch/index.html
+layout: layout.njk
 ---
 Opportunity to conserve high quality drinking water in Chch
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: nats-must-reveal-real-intentions-for-ets
-title: "Nats must reveal real intentions for ETS"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PA0810/S00385/nats-must-reveal-real-intentions-for-ets.htm
+title: Nats must reveal real intentions for ETS
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00385/nats-must-reveal-real-intentions-for-ets.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/16/nats-must-reveal-real-intentions-for-ets/index.html
+layout: layout.njk
 ---
 Nats must reveal real intentions for ETS
 ========================================

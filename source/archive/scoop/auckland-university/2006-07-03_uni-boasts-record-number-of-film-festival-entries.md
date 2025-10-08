@@ -1,9 +1,13 @@
 ---
 slug: uni-boasts-record-number-of-film-festival-entries
-title: "Uni. boasts record number of film festival entries"
-date: 2006-07-03
-source-url: https://www.scoop.co.nz/stories/CU0607/S00018/uni-boasts-record-number-of-film-festival-entries.htm
+title: Uni. boasts record number of film festival entries
+date: 2006-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0607/S00018/uni-boasts-record-number-of-film-festival-entries.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/07/03/uni-boasts-record-number-of-film-festival-entries/index.html
+layout: layout.njk
 ---
 Uni. boasts record number of film festival entries
 ==================================================

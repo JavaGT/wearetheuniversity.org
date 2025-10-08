@@ -1,9 +1,12 @@
 ---
 slug: former-otago-uni-student-on-forbes-list
-title: "Former Otago Uni Student on Forbes list"
-date: 2018-03-29
-source-url: https://www.scoop.co.nz/stories/ED1803/S00092/former-otago-uni-student-on-forbes-list.htm
+title: Former Otago Uni Student on Forbes list
+date: 2018-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00092/former-otago-uni-student-on-forbes-list.htm
 author: university-of-otago
+permalink: /archive/2018/03/29/former-otago-uni-student-on-forbes-list/index.html
+layout: layout.njk
 ---
 Former Otago Uni Student on Forbes list
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: renowned-economist-wins-university-of-waikato-award
-title: "Renowned economist wins University of Waikato award"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/ED1408/S00130/renowned-economist-wins-university-of-waikato-award.htm
+title: Renowned economist wins University of Waikato award
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00130/renowned-economist-wins-university-of-waikato-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/25/renowned-economist-wins-university-of-waikato-award/index.html
+layout: layout.njk
 ---
 Renowned economist wins University of Waikato award
 ===================================================

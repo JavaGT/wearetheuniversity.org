@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-weather-tight-homes-bill
-title: "Hone Harawira - Weather Tight Homes Bill"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/PA0707/S00330/hone-harawira-weather-tight-homes-bill.htm
+title: Hone Harawira - Weather Tight Homes Bill
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00330/hone-harawira-weather-tight-homes-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/07/20/hone-harawira-weather-tight-homes-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira - Weather Tight Homes Bill
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: tauranga-harbour-ecology-survey-underway
-title: "Tauranga Harbour ecology survey underway"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/AK1112/S00173/tauranga-harbour-ecology-survey-underway.htm
+title: Tauranga Harbour ecology survey underway
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1112/S00173/tauranga-harbour-ecology-survey-underway.htm
 author: massey-university
+permalink: /archive/2011/12/08/tauranga-harbour-ecology-survey-underway/index.html
+layout: layout.njk
 ---
 Tauranga Harbour ecology survey underway
 ========================================

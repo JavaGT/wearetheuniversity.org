@@ -1,9 +1,12 @@
 ---
 slug: lack-of-government-investment-blamed
-title: "Lack of Government investment blamed"
-date: 2005-11-01
-source-url: https://www.scoop.co.nz/stories/ED0511/S00003/lack-of-government-investment-blamed.htm
+title: Lack of Government investment blamed
+date: 2005-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00003/lack-of-government-investment-blamed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/01/lack-of-government-investment-blamed/index.html
+layout: layout.njk
 ---
 Lack of Government investment blamed
 ====================================

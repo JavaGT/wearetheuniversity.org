@@ -1,9 +1,13 @@
 ---
 slug: education-symposium-to-discuss-national-standards
-title: "Education symposium to discuss national standards"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/ED1108/S00157/education-symposium-to-discuss-national-standards.htm
+title: Education symposium to discuss national standards
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00157/education-symposium-to-discuss-national-standards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/30/education-symposium-to-discuss-national-standards/index.html
+layout: layout.njk
 ---
 Education symposium to discuss national standards
 =================================================

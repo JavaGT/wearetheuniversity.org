@@ -1,4 +1,4 @@
----
+permalink: "/games/index.html"
 slug: 'games'
 title: 'Games'
 ---

@@ -1,9 +1,12 @@
 ---
 slug: labours-immigration-policy-consolidates-gains
-title: "Labour's Immigration Policy Consolidates Gains"
-date: 2005-08-27
-source-url: https://www.scoop.co.nz/stories/PA0508/S00722/labours-immigration-policy-consolidates-gains.htm
+title: Labour's Immigration Policy Consolidates Gains
+date: 2005-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00722/labours-immigration-policy-consolidates-gains.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/27/labours-immigration-policy-consolidates-gains/index.html
+layout: layout.njk
 ---
 Labour's Immigration Policy Consolidates Gains
 ==============================================

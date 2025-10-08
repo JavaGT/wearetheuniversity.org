@@ -1,9 +1,12 @@
 ---
 slug: christchurch-doctor-finds-much-needed-answers
-title: "Christchurch doctor finds much-needed answers"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/SC1505/S00068/christchurch-doctor-finds-much-needed-answers.htm
+title: Christchurch doctor finds much-needed answers
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00068/christchurch-doctor-finds-much-needed-answers.htm
 author: university-of-otago
+permalink: /archive/2015/05/22/christchurch-doctor-finds-much-needed-answers/index.html
+layout: layout.njk
 ---
 Christchurch doctor finds much-needed answers
 =============================================

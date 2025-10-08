@@ -1,9 +1,11 @@
 ---
 slug: time-for-kiwis-to-come-home
-title: "Time for Kiwis to Come Home"
-date: 2012-05-22
+title: Time for Kiwis to Come Home
+date: 2012-05-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00354/time-for-kiwis-to-come-home.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/22/time-for-kiwis-to-come-home/index.html
+layout: layout.njk
 ---
 Time for Kiwis to Come Home
 ===========================

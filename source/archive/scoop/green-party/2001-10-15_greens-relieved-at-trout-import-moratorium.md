@@ -1,9 +1,12 @@
 ---
 slug: greens-relieved-at-trout-import-moratorium
-title: "Greens relieved at trout import moratorium"
-date: 2001-10-15
-source-url: https://www.scoop.co.nz/stories/PA0110/S00289/greens-relieved-at-trout-import-moratorium.htm
+title: Greens relieved at trout import moratorium
+date: 2001-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00289/greens-relieved-at-trout-import-moratorium.htm
 author: green-party
+permalink: /archive/2001/10/15/greens-relieved-at-trout-import-moratorium/index.html
+layout: layout.njk
 ---
 Greens relieved at trout import moratorium
 ==========================================

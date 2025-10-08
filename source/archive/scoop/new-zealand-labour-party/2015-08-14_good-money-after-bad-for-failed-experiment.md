@@ -1,9 +1,12 @@
 ---
 slug: good-money-after-bad-for-failed-experiment
-title: "Good money after bad for failed experiment"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/PA1508/S00242/good-money-after-bad-for-failed-experiment.htm
+title: Good money after bad for failed experiment
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00242/good-money-after-bad-for-failed-experiment.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/14/good-money-after-bad-for-failed-experiment/index.html
+layout: layout.njk
 ---
 Good money after bad for failed experiment
 ==========================================

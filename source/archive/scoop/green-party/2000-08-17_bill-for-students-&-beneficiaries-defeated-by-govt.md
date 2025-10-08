@@ -1,9 +1,12 @@
 ---
 slug: bill-for-students-&-beneficiaries-defeated-by-govt
-title: "Bill for students & beneficiaries defeated by Govt"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/PA0008/S00320/bill-for-students-beneficiaries-defeated-by-govt.htm
+title: Bill for students & beneficiaries defeated by Govt
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00320/bill-for-students-beneficiaries-defeated-by-govt.htm
 author: green-party
+permalink: /archive/2000/08/17/bill-for-students-/index.html
+layout: layout.njk
 ---
 Bill for students & beneficiaries defeated by Govt
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: numbers-down-as-polytech-reforms-loom
-title: "Numbers down as polytech reforms loom"
-date: 2019-12-19
-source-url: https://www.scoop.co.nz/stories/PA1912/S00188/numbers-down-as-polytech-reforms-loom.htm
+title: Numbers down as polytech reforms loom
+date: 2019-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00188/numbers-down-as-polytech-reforms-loom.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/19/numbers-down-as-polytech-reforms-loom/index.html
+layout: layout.njk
 ---
 Numbers down as polytech reforms loom
 =====================================

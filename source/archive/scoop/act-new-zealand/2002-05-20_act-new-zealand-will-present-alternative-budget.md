@@ -1,9 +1,12 @@
 ---
 slug: act-new-zealand-will-present-alternative-budget
-title: "ACT New Zealand Will Present Alternative Budget"
-date: 2002-05-20
-source-url: https://www.scoop.co.nz/stories/PA0205/S00377/act-new-zealand-will-present-alternative-budget.htm
+title: ACT New Zealand Will Present Alternative Budget
+date: 2002-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00377/act-new-zealand-will-present-alternative-budget.htm
 author: act-new-zealand
+permalink: /archive/2002/05/20/act-new-zealand-will-present-alternative-budget/index.html
+layout: layout.njk
 ---
 ACT New Zealand Will Present Alternative Budget
 ===============================================

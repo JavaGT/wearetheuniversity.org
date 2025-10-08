@@ -1,9 +1,12 @@
 ---
 slug: the-labour-governments-socialist-agenda
-title: "The Labour Government's Socialist Agenda"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/PA0508/S00519/the-labour-governments-socialist-agenda.htm
+title: The Labour Government's Socialist Agenda
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00519/the-labour-governments-socialist-agenda.htm
 author: act-new-zealand
+permalink: /archive/2005/08/19/the-labour-governments-socialist-agenda/index.html
+layout: layout.njk
 ---
 The Labour Government's Socialist Agenda
 ========================================

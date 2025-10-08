@@ -1,9 +1,12 @@
 ---
 slug: education-vote-estimates-2012-13
-title: "Education Vote – Estimates 2012/13"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/PA1208/S00187/education-vote-estimates-201213.htm
+title: Education Vote – Estimates 2012/13
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00187/education-vote-estimates-201213.htm
 author: te-pati-maori
+permalink: /archive/2012/08/15/education-vote-estimates-2012-13/index.html
+layout: layout.njk
 ---
 Education Vote – Estimates 2012/13
 ==================================

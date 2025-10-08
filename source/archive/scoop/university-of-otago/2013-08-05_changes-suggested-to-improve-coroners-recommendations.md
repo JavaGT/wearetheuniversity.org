@@ -1,9 +1,13 @@
 ---
 slug: changes-suggested-to-improve-coroners-recommendations
-title: "Changes suggested to improve Coroners’ recommendations"
-date: 2013-08-05
-source-url: https://www.scoop.co.nz/stories/GE1308/S00018/changes-suggested-to-improve-coroners-recommendations.htm
+title: Changes suggested to improve Coroners’ recommendations
+date: 2013-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00018/changes-suggested-to-improve-coroners-recommendations.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/05/changes-suggested-to-improve-coroners-recommendations/index.html
+layout: layout.njk
 ---
 Changes suggested to improve Coroners’ recommendations
 ======================================================

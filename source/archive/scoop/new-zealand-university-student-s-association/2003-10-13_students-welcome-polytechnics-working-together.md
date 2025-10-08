@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-polytechnics-working-together
-title: "Students welcome polytechnics working together"
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/ED0310/S00054/students-welcome-polytechnics-working-together.htm
+title: Students welcome polytechnics working together
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00054/students-welcome-polytechnics-working-together.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/10/13/students-welcome-polytechnics-working-together/index.html
+layout: layout.njk
 ---
 Students welcome polytechnics working together
 ==============================================

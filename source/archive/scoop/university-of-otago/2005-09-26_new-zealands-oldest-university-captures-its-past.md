@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-oldest-university-captures-its-past
-title: "New Zealand’s Oldest University Captures its Past"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00084/new-zealands-oldest-university-captures-its-past.htm
+title: New Zealand’s Oldest University Captures its Past
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00084/new-zealands-oldest-university-captures-its-past.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/09/26/new-zealands-oldest-university-captures-its-past/index.html
+layout: layout.njk
 ---
 New Zealand’s Oldest University Captures its Past
 =================================================

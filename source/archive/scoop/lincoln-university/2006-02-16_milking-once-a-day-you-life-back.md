@@ -1,9 +1,12 @@
 ---
 slug: milking-once-a-day-you-life-back
-title: "Milking once a day - you life back?"
-date: 2006-02-16
-source-url: https://www.scoop.co.nz/stories/ED0602/S00042/milking-once-a-day-you-life-back.htm
+title: Milking once a day - you life back?
+date: 2006-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00042/milking-once-a-day-you-life-back.htm
 author: lincoln-university
+permalink: /archive/2006/02/16/milking-once-a-day-you-life-back/index.html
+layout: layout.njk
 ---
 Milking once a day - you life back?
 ===================================

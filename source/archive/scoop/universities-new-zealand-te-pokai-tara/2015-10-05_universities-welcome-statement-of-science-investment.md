@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-statement-of-science-investment
-title: "Universities welcome Statement of Science Investment"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00022/universities-welcome-statement-of-science-investment.htm
+title: Universities welcome Statement of Science Investment
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00022/universities-welcome-statement-of-science-investment.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/10/05/universities-welcome-statement-of-science-investment/index.html
+layout: layout.njk
 ---
 Universities welcome Statement of Science Investment
 ====================================================

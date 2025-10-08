@@ -1,9 +1,12 @@
 ---
 slug: improving-babies-sleep-during-weaning
-title: "Improving babies’ sleep during weaning"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/GE1512/S00017/improving-babies-sleep-during-weaning.htm
+title: Improving babies’ sleep during weaning
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1512/S00017/improving-babies-sleep-during-weaning.htm
 author: university-of-otago
+permalink: /archive/2015/12/03/improving-babies-sleep-during-weaning/index.html
+layout: layout.njk
 ---
 Improving babies’ sleep during weaning
 ======================================

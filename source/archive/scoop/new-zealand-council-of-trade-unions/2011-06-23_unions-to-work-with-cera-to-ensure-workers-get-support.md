@@ -1,9 +1,13 @@
 ---
 slug: unions-to-work-with-cera-to-ensure-workers-get-support
-title: "Unions to Work with CERA To Ensure Workers Get Support"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PO1106/S00287/unions-to-work-with-cera-to-ensure-workers-get-support.htm
+title: Unions to Work with CERA To Ensure Workers Get Support
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00287/unions-to-work-with-cera-to-ensure-workers-get-support.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/06/23/unions-to-work-with-cera-to-ensure-workers-get-support/index.html
+layout: layout.njk
 ---
 Unions to Work with CERA To Ensure Workers Get Support
 ======================================================

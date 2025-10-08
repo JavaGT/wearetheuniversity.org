@@ -1,9 +1,12 @@
 ---
 slug: national-slashing-frontline-services
-title: "National slashing frontline services"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00090/national-slashing-frontline-services.htm
+title: National slashing frontline services
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00090/national-slashing-frontline-services.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/05/national-slashing-frontline-services/index.html
+layout: layout.njk
 ---
 National slashing frontline services
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: new-figures-show-new-zealands-attendance-crisis
-title: "New Figures Show New Zealand’s Attendance Crisis"
-date: 2021-03-30
-source-url: https://www.scoop.co.nz/stories/PA2103/S00232/new-figures-show-new-zealands-attendance-crisis.htm
+title: New Figures Show New Zealand’s Attendance Crisis
+date: 2021-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00232/new-figures-show-new-zealands-attendance-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/30/new-figures-show-new-zealands-attendance-crisis/index.html
+layout: layout.njk
 ---
 New Figures Show New Zealand’s Attendance Crisis
 ================================================

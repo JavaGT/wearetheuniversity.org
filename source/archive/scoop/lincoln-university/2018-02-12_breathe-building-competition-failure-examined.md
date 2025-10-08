@@ -1,9 +1,12 @@
 ---
 slug: breathe-building-competition-failure-examined
-title: "Breathe building competition failure examined"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/AK1802/S00314/breathe-building-competition-failure-examined.htm
+title: Breathe building competition failure examined
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1802/S00314/breathe-building-competition-failure-examined.htm
 author: lincoln-university
+permalink: /archive/2018/02/12/breathe-building-competition-failure-examined/index.html
+layout: layout.njk
 ---
 Breathe building competition failure examined
 =============================================

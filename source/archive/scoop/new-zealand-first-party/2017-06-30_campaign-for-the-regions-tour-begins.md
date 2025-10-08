@@ -1,9 +1,12 @@
 ---
 slug: campaign-for-the-regions-tour-begins
-title: "Campaign for the Regions Tour Begins"
-date: 2017-06-30
-source-url: https://www.scoop.co.nz/stories/PA1706/S00549/campaign-for-the-regions-tour-begins.htm
+title: Campaign for the Regions Tour Begins
+date: 2017-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00549/campaign-for-the-regions-tour-begins.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/30/campaign-for-the-regions-tour-begins/index.html
+layout: layout.njk
 ---
 Campaign for the Regions Tour Begins
 ====================================

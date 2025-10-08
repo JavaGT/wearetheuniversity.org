@@ -1,9 +1,12 @@
 ---
 slug: 3500-teen-parents-losing-chance-to-study
-title: "3500 Teen Parents Losing Chance to Study"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/PA1505/S00235/3500-teen-parents-losing-chance-to-study.htm
+title: 3500 Teen Parents Losing Chance to Study
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00235/3500-teen-parents-losing-chance-to-study.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/15/3500-teen-parents-losing-chance-to-study/index.html
+layout: layout.njk
 ---
 3500 Teen Parents Losing Chance to Study
 ========================================

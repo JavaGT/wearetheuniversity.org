@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-embraces-new-zealand-musical-treasure
-title: "Victoria University embraces New Zealand musical treasure"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/ED1307/S00086/victoria-university-embraces-new-zealand-musical-treasure.htm
+title: Victoria University embraces New Zealand musical treasure
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00086/victoria-university-embraces-new-zealand-musical-treasure.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/15/victoria-university-embraces-new-zealand-musical-treasure/index.html
+layout: layout.njk
 ---
 Victoria University embraces New Zealand musical treasure
 =========================================================

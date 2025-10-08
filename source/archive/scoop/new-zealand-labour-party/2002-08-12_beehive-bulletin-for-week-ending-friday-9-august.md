@@ -1,9 +1,13 @@
 ---
 slug: beehive-bulletin-for-week-ending-friday-9-august
-title: "Beehive Bulletin For Week Ending - Friday 9 August"
-date: 2002-08-12
-source-url: https://www.scoop.co.nz/stories/PA0208/S00074/beehive-bulletin-for-week-ending-friday-9-august.htm
+title: Beehive Bulletin For Week Ending - Friday 9 August
+date: 2002-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00074/beehive-bulletin-for-week-ending-friday-9-august.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2002/08/12/beehive-bulletin-for-week-ending-friday-9-august/index.html
+layout: layout.njk
 ---
 Beehive Bulletin For Week Ending - Friday 9 August
 ==================================================

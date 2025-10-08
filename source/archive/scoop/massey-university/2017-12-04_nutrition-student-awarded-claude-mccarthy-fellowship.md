@@ -1,9 +1,13 @@
 ---
 slug: nutrition-student-awarded-claude-mccarthy-fellowship
-title: "Nutrition student awarded Claude McCarthy Fellowship"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/ED1712/S00009/nutrition-student-awarded-claude-mccarthy-fellowship.htm
+title: Nutrition student awarded Claude McCarthy Fellowship
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00009/nutrition-student-awarded-claude-mccarthy-fellowship.htm
 author: massey-university
+permalink: >-
+  /archive/2017/12/04/nutrition-student-awarded-claude-mccarthy-fellowship/index.html
+layout: layout.njk
 ---
 Nutrition student awarded Claude McCarthy Fellowship
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: top-students-uncomfortable-being-identified-as-gifted
-title: "Top Students Uncomfortable Being Identified As Gifted"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/ED1302/S00098/top-students-uncomfortable-being-identified-as-gifted.htm
+title: Top Students Uncomfortable Being Identified As Gifted
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00098/top-students-uncomfortable-being-identified-as-gifted.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/19/top-students-uncomfortable-being-identified-as-gifted/index.html
+layout: layout.njk
 ---
 Top Students Uncomfortable Being Identified As Gifted
 =====================================================

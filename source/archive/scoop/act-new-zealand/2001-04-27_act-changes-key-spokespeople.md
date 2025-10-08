@@ -1,9 +1,11 @@
 ---
 slug: act-changes-key-spokespeople
-title: "ACT Changes  Key Spokespeople"
-date: 2001-04-27
+title: ACT Changes  Key Spokespeople
+date: 2001-04-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0104/S00412/act-changes-key-spokespeople.htm
 author: act-new-zealand
+permalink: /archive/2001/04/27/act-changes-key-spokespeople/index.html
+layout: layout.njk
 ---
 ACT Changes Key Spokespeople
 ============================

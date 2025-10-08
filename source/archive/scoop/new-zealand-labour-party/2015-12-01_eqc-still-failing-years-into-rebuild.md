@@ -1,9 +1,12 @@
 ---
 slug: eqc-still-failing-years-into-rebuild
-title: "EQC still failing years into rebuild"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PA1512/S00025/eqc-still-failing-years-into-rebuild.htm
+title: EQC still failing years into rebuild
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00025/eqc-still-failing-years-into-rebuild.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/01/eqc-still-failing-years-into-rebuild/index.html
+layout: layout.njk
 ---
 EQC still failing years into rebuild
 ====================================

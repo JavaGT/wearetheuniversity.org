@@ -1,9 +1,13 @@
 ---
 slug: mps-pay-tribute-to-28th-maori-battalion-veterans
-title: "MPs pay tribute to 28th Maori Battalion veterans"
-date: 2009-02-20
-source-url: https://www.scoop.co.nz/stories/PA0902/S00320/mps-pay-tribute-to-28th-maori-battalion-veterans.htm
+title: MPs pay tribute to 28th Maori Battalion veterans
+date: 2009-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00320/mps-pay-tribute-to-28th-maori-battalion-veterans.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/02/20/mps-pay-tribute-to-28th-maori-battalion-veterans/index.html
+layout: layout.njk
 ---
 MPs pay tribute to 28th Maori Battalion veterans
 ================================================

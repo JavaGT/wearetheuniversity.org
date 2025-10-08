@@ -1,9 +1,12 @@
 ---
 slug: ethnic-engineering-frightening-says-peters
-title: "Ethnic Engineering \"Frightening\" Says Peters"
-date: 2002-10-22
-source-url: https://www.scoop.co.nz/stories/PA0210/S00445/ethnic-engineering-frightening-says-peters.htm
+title: Ethnic Engineering "Frightening" Says Peters
+date: 2002-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00445/ethnic-engineering-frightening-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/22/ethnic-engineering-frightening-says-peters/index.html
+layout: layout.njk
 ---
 Ethnic Engineering “Frightening” Says Peters
 ============================================

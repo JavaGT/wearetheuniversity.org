@@ -1,9 +1,13 @@
 ---
 slug: three-years-free-education-for-the-21st-century-economy
-title: "Three years free education for the 21st century economy"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/PA1602/S00001/three-years-free-education-for-the-21st-century-economy.htm
+title: Three years free education for the 21st century economy
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00001/three-years-free-education-for-the-21st-century-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/01/three-years-free-education-for-the-21st-century-economy/index.html
+layout: layout.njk
 ---
 Three years free education for the 21st century economy
 =======================================================

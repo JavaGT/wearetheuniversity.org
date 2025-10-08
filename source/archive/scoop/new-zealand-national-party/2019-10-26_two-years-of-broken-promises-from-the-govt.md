@@ -1,9 +1,12 @@
 ---
 slug: two-years-of-broken-promises-from-the-govt
-title: "Two years of broken promises from the Govt"
-date: 2019-10-26
-source-url: https://www.scoop.co.nz/stories/PA1910/S00216/two-years-of-broken-promises-from-the-govt.htm
+title: Two years of broken promises from the Govt
+date: 2019-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00216/two-years-of-broken-promises-from-the-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/26/two-years-of-broken-promises-from-the-govt/index.html
+layout: layout.njk
 ---
 Two years of broken promises from the Govt
 ==========================================

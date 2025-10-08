@@ -1,9 +1,12 @@
 ---
 slug: a-welfare-system-for-the-truly-needy
-title: "A welfare system for the truly needy"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/PA0506/S00588/a-welfare-system-for-the-truly-needy.htm
+title: A welfare system for the truly needy
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00588/a-welfare-system-for-the-truly-needy.htm
 author: act-new-zealand
+permalink: /archive/2005/06/24/a-welfare-system-for-the-truly-needy/index.html
+layout: layout.njk
 ---
 A welfare system for the truly needy
 ====================================

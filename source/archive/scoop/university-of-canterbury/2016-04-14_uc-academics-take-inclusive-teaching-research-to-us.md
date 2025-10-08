@@ -1,9 +1,13 @@
 ---
 slug: uc-academics-take-inclusive-teaching-research-to-us
-title: "UC academics take inclusive teaching research to US"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00042/uc-academics-take-inclusive-teaching-research-to-us.htm
+title: UC academics take inclusive teaching research to US
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00042/uc-academics-take-inclusive-teaching-research-to-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/14/uc-academics-take-inclusive-teaching-research-to-us/index.html
+layout: layout.njk
 ---
 UC academics take inclusive teaching research to US
 ===================================================

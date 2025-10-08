@@ -1,9 +1,12 @@
 ---
 slug: moving-on-up-easier-said-than-done
-title: "‘Moving On Up’ Easier Said Than Done"
-date: 2013-01-23
-source-url: https://www.scoop.co.nz/stories/ED1301/S00055/moving-on-up-easier-said-than-done.htm
+title: ‘Moving On Up’ Easier Said Than Done
+date: 2013-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00055/moving-on-up-easier-said-than-done.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/01/23/moving-on-up-easier-said-than-done/index.html
+layout: layout.njk
 ---
 ‘Moving On Up’ Easier Said Than Done
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-to-celebrate-99th-rātana-commemoration
-title: "Māori Party to celebrate 99th Rātana Commemoration"
-date: 2017-01-23
-source-url: https://www.scoop.co.nz/stories/PA1701/S00076/maori-party-to-celebrate-99th-ratana-commemoration.htm
+title: Māori Party to celebrate 99th Rātana Commemoration
+date: 2017-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00076/maori-party-to-celebrate-99th-ratana-commemoration.htm
 author: te-pati-maori
+permalink: /archive/2017/01/23/m/index.html
+layout: layout.njk
 ---
 Māori Party to celebrate 99th Rātana Commemoration
 ==================================================

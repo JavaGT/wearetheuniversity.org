@@ -1,9 +1,12 @@
 ---
 slug: tiaki-could-attract-more-responsible-visitors
-title: "Tiaki could attract more responsible visitors"
-date: 2019-11-08
-source-url: https://www.scoop.co.nz/stories/BU1911/S00179/tiaki-could-attract-more-responsible-visitors.htm
+title: Tiaki could attract more responsible visitors
+date: 2019-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1911/S00179/tiaki-could-attract-more-responsible-visitors.htm
 author: university-of-otago
+permalink: /archive/2019/11/08/tiaki-could-attract-more-responsible-visitors/index.html
+layout: layout.njk
 ---
 Tiaki could attract more responsible visitors
 =============================================

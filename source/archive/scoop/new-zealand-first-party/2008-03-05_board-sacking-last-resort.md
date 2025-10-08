@@ -1,9 +1,11 @@
 ---
 slug: board-sacking-last-resort
-title: "Board Sacking Last Resort"
-date: 2008-03-05
+title: Board Sacking Last Resort
+date: 2008-03-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0803/S00054/board-sacking-last-resort.htm
 author: new-zealand-first-party
+permalink: /archive/2008/03/05/board-sacking-last-resort/index.html
+layout: layout.njk
 ---
 Board Sacking Last Resort
 =========================

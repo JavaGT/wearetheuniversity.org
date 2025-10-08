@@ -1,9 +1,13 @@
 ---
 slug: the-business-of-using-ai-in-medicine-for-a-faster-cure
-title: "The Business Of Using AI In Medicine For A Faster Cure"
-date: 2021-01-27
-source-url: https://www.scoop.co.nz/stories/SC2101/S00030/the-business-of-using-ai-in-medicine-for-a-faster-cure.htm
+title: The Business Of Using AI In Medicine For A Faster Cure
+date: 2021-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2101/S00030/the-business-of-using-ai-in-medicine-for-a-faster-cure.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/01/27/the-business-of-using-ai-in-medicine-for-a-faster-cure/index.html
+layout: layout.njk
 ---
 The Business Of Using AI In Medicine For A Faster Cure
 ======================================================

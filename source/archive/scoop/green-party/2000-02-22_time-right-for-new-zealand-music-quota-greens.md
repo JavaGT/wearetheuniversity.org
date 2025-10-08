@@ -1,9 +1,12 @@
 ---
 slug: time-right-for-new-zealand-music-quota-greens
-title: "Time Right For New Zealand Music Quota - Greens"
-date: 2000-02-22
-source-url: https://www.scoop.co.nz/stories/PA0002/S00287/time-right-for-new-zealand-music-quota-greens.htm
+title: Time Right For New Zealand Music Quota - Greens
+date: 2000-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00287/time-right-for-new-zealand-music-quota-greens.htm
 author: green-party
+permalink: /archive/2000/02/22/time-right-for-new-zealand-music-quota-greens/index.html
+layout: layout.njk
 ---
 Time Right For New Zealand Music Quota - Greens
 ===============================================

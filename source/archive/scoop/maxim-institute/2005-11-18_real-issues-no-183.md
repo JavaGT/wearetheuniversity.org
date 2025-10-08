@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-183
-title: "Real Issues No. 183"
-date: 2005-11-18
+title: Real Issues No. 183
+date: 2005-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0511/S00142/real-issues-no-183.htm
 author: maxim-institute
+permalink: /archive/2005/11/18/real-issues-no-183/index.html
+layout: layout.njk
 ---
 Real Issues No. 183
 ===================

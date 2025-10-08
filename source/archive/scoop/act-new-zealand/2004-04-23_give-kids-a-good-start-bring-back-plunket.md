@@ -1,9 +1,12 @@
 ---
 slug: give-kids-a-good-start-bring-back-plunket
-title: "Give Kids A Good Start - Bring Back Plunket"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/PA0404/S00362/give-kids-a-good-start-bring-back-plunket.htm
+title: Give Kids A Good Start - Bring Back Plunket
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00362/give-kids-a-good-start-bring-back-plunket.htm
 author: act-new-zealand
+permalink: /archive/2004/04/23/give-kids-a-good-start-bring-back-plunket/index.html
+layout: layout.njk
 ---
 Give Kids A Good Start - Bring Back Plunket
 ===========================================

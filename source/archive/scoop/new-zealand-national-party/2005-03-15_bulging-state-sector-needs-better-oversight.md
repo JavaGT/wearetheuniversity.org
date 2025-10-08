@@ -1,9 +1,12 @@
 ---
 slug: bulging-state-sector-needs-better-oversight
-title: "Bulging state sector needs better oversight"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00309/bulging-state-sector-needs-better-oversight.htm
+title: Bulging state sector needs better oversight
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00309/bulging-state-sector-needs-better-oversight.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/15/bulging-state-sector-needs-better-oversight/index.html
+layout: layout.njk
 ---
 Bulging state sector needs better oversight
 ===========================================

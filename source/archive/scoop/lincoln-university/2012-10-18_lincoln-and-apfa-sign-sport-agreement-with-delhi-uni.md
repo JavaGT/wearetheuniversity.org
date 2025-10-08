@@ -1,9 +1,13 @@
 ---
 slug: lincoln-and-apfa-sign-sport-agreement-with-delhi-uni
-title: "Lincoln and APFA sign sport agreement with Delhi Uni"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/ED1210/S00112/lincoln-and-apfa-sign-sport-agreement-with-delhi-uni.htm
+title: Lincoln and APFA sign sport agreement with Delhi Uni
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00112/lincoln-and-apfa-sign-sport-agreement-with-delhi-uni.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/18/lincoln-and-apfa-sign-sport-agreement-with-delhi-uni/index.html
+layout: layout.njk
 ---
 Lincoln and APFA sign sport agreement with Delhi Uni
 ====================================================

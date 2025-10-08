@@ -1,8 +1,15 @@
 ---
-slug: university-of-auckland-is-most-innovative-university-in-australasia-in-new-rankings
-title: "University of Auckland is most innovative university in Australasia in new rankings"
-date: 2016-08-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/university-of-auckland-most-innovative-in-australasia.html
+slug: >-
+  university-of-auckland-is-most-innovative-university-in-australasia-in-new-rankings
+title: >-
+  University of Auckland is most innovative university in Australasia in new
+  rankings
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/university-of-auckland-most-innovative-in-australasia.html
+permalink: >-
+  /archive/2016/08/31/university-of-auckland-is-most-innovative-university-in-australasia-in-new-rankings/index.html
+layout: layout.njk
 ---
 University of Auckland is most innovative university in Australasia in new rankings
 ===================================================================================

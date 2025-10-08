@@ -1,9 +1,13 @@
 ---
 slug: education-talk-fest-ignores-charter-school-success
-title: "Education talk-fest ignores charter school success"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/PA1804/S00252/education-talk-fest-ignores-charter-school-success.htm
+title: Education talk-fest ignores charter school success
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00252/education-talk-fest-ignores-charter-school-success.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/04/24/education-talk-fest-ignores-charter-school-success/index.html
+layout: layout.njk
 ---
 Education talk-fest ignores charter school success
 ==================================================

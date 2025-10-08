@@ -1,9 +1,12 @@
 ---
 slug: student-loan-repayment-times-figures
-title: "Student Loan Repayment Times - Figures"
-date: 2002-08-18
-source-url: https://www.scoop.co.nz/stories/ED0208/S00023/student-loan-repayment-times-figures.htm
+title: Student Loan Repayment Times - Figures
+date: 2002-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00023/student-loan-repayment-times-figures.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/08/18/student-loan-repayment-times-figures/index.html
+layout: layout.njk
 ---
 Student Loan Repayment Times - Figures
 ======================================

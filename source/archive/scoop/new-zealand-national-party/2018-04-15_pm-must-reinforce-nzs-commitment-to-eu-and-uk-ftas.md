@@ -1,9 +1,13 @@
 ---
 slug: pm-must-reinforce-nzs-commitment-to-eu-and-uk-ftas
-title: "PM must reinforce NZ’s commitment to EU and UK FTAs"
-date: 2018-04-15
-source-url: https://www.scoop.co.nz/stories/PA1804/S00176/pm-must-reinforce-nzs-commitment-to-eu-and-uk-ftas.htm
+title: PM must reinforce NZ’s commitment to EU and UK FTAs
+date: 2018-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00176/pm-must-reinforce-nzs-commitment-to-eu-and-uk-ftas.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/15/pm-must-reinforce-nzs-commitment-to-eu-and-uk-ftas/index.html
+layout: layout.njk
 ---
 PM must reinforce NZ’s commitment to EU and UK FTAs
 ===================================================

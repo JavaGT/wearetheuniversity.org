@@ -1,9 +1,12 @@
 ---
 slug: pm-finally-admits-lees-galloway-got-it-wrong
-title: "PM finally admits Lees-Galloway got it wrong"
-date: 2018-11-29
-source-url: https://www.scoop.co.nz/stories/PA1811/S00317/pm-finally-admits-lees-galloway-got-it-wrong.htm
+title: PM finally admits Lees-Galloway got it wrong
+date: 2018-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00317/pm-finally-admits-lees-galloway-got-it-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/29/pm-finally-admits-lees-galloway-got-it-wrong/index.html
+layout: layout.njk
 ---
 PM finally admits Lees-Galloway got it wrong
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: physicist-pushing-boundaries-of-time-&-space
-title: "Physicist Pushing Boundaries of Time & Space"
-date: 2002-08-09
-source-url: https://www.scoop.co.nz/stories/SC0208/S00018/physicist-pushing-boundaries-of-time-space.htm
+title: Physicist Pushing Boundaries of Time & Space
+date: 2002-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0208/S00018/physicist-pushing-boundaries-of-time-space.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/08/09/physicist-pushing-boundaries-of-time-/index.html
+layout: layout.njk
 ---
 Physicist Pushing Boundaries of Time & Space
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: car-seat-inserts-could-save-babies-lives
-title: "Car-seat inserts could save babies’ lives"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/ED0909/S00046/car-seat-inserts-could-save-babies-lives.htm
+title: Car-seat inserts could save babies’ lives
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00046/car-seat-inserts-could-save-babies-lives.htm
 author: auckland-university
+permalink: /archive/2009/09/14/car-seat-inserts-could-save-babies-lives/index.html
+layout: layout.njk
 ---
 Car-seat inserts could save babies’ lives
 =========================================

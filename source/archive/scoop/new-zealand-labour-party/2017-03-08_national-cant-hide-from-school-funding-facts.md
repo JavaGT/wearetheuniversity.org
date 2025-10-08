@@ -1,9 +1,12 @@
 ---
 slug: national-cant-hide-from-school-funding-facts
-title: "National can’t hide from school funding facts"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/PA1703/S00140/national-cant-hide-from-school-funding-facts.htm
+title: National can’t hide from school funding facts
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00140/national-cant-hide-from-school-funding-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/08/national-cant-hide-from-school-funding-facts/index.html
+layout: layout.njk
 ---
 National can’t hide from school funding facts
 =============================================

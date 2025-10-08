@@ -1,9 +1,13 @@
 ---
 slug: national-selects-jonathan-fletcher-as-rimutaka-candidate
-title: "National Selects Jonathan Fletcher as Rimutaka Candidate"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/PO1103/S00202/national-selects-jonathan-fletcher-as-rimutaka-candidate.htm
+title: National Selects Jonathan Fletcher as Rimutaka Candidate
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00202/national-selects-jonathan-fletcher-as-rimutaka-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/03/22/national-selects-jonathan-fletcher-as-rimutaka-candidate/index.html
+layout: layout.njk
 ---
 National Selects Jonathan Fletcher as Rimutaka Candidate
 ========================================================

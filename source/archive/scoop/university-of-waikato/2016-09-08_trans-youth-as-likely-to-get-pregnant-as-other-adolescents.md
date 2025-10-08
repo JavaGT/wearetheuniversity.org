@@ -1,9 +1,13 @@
 ---
 slug: trans-youth-as-likely-to-get-pregnant-as-other-adolescents
-title: "Trans youth as likely to get pregnant as other adolescents"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/GE1609/S00036/trans-youth-as-likely-to-get-pregnant-as-other-adolescents.htm
+title: Trans youth as likely to get pregnant as other adolescents
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1609/S00036/trans-youth-as-likely-to-get-pregnant-as-other-adolescents.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/09/08/trans-youth-as-likely-to-get-pregnant-as-other-adolescents/index.html
+layout: layout.njk
 ---
 Trans youth as likely to get pregnant as other adolescents
 ==========================================================

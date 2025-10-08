@@ -1,9 +1,11 @@
 ---
 slug: hold-back-the-diggers-john
-title: "Hold back the diggers John"
-date: 2013-11-12
+title: Hold back the diggers John
+date: 2013-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1311/S00204/hold-back-the-diggers-john.htm
 author: green-party
+permalink: /archive/2013/11/12/hold-back-the-diggers-john/index.html
+layout: layout.njk
 ---
 Hold back the diggers John
 ==========================

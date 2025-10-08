@@ -1,9 +1,12 @@
 ---
 slug: vet-students-gather-on-campus
-title: "Vet students gather on campus"
-date: 2011-01-31
-source-url: https://www.scoop.co.nz/stories/ED1101/S00054/vet-students-gather-on-campus.htm
+title: Vet students gather on campus
+date: 2011-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00054/vet-students-gather-on-campus.htm
 author: massey-university
+permalink: /archive/2011/01/31/vet-students-gather-on-campus/index.html
+layout: layout.njk
 ---
 Vet students gather on campus
 =============================

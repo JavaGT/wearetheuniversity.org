@@ -1,9 +1,11 @@
 ---
 slug: lectures-shed-light-on-light
-title: "Lectures shed light on light"
-date: 2015-06-26
+title: Lectures shed light on light
+date: 2015-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1506/S00132/lectures-shed-light-on-light.htm
 author: waikato-university
+permalink: /archive/2015/06/26/lectures-shed-light-on-light/index.html
+layout: layout.njk
 ---
 Lectures shed light on light
 ============================

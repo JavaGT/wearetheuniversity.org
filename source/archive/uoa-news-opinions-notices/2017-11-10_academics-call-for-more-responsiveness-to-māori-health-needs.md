@@ -1,8 +1,11 @@
 ---
 slug: academics-call-for-more-responsiveness-to-māori-health-needs
-title: "Academics call for more responsiveness to Māori health needs"
-date: 2017-11-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academics-call-for-more-responsiveness-to-maaori-health-needs.html
+title: Academics call for more responsiveness to Māori health needs
+date: 2017-11-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academics-call-for-more-responsiveness-to-maaori-health-needs.html
+permalink: /archive/2017/11/10/academics-call-for-more-responsiveness-to-m/index.html
+layout: layout.njk
 ---
 Academics call for more responsiveness to Māori health needs
 ============================================================

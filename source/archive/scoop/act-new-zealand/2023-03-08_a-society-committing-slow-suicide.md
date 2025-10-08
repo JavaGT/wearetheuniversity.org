@@ -1,9 +1,12 @@
 ---
 slug: a-society-committing-slow-suicide
-title: "A Society Committing Slow Suicide"
-date: 2023-03-08
-source-url: https://www.scoop.co.nz/stories/PA2303/S00053/a-society-committing-slow-suicide.htm
+title: A Society Committing Slow Suicide
+date: 2023-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00053/a-society-committing-slow-suicide.htm
 author: act-new-zealand
+permalink: /archive/2023/03/08/a-society-committing-slow-suicide/index.html
+layout: layout.njk
 ---
 A Society Committing Slow Suicide
 =================================

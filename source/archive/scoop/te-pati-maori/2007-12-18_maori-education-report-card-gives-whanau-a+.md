@@ -1,9 +1,12 @@
 ---
 slug: maori-education-report-card-gives-whanau-a+
-title: "Maori Education Report Card Gives Whanau A+"
-date: 2007-12-18
-source-url: https://www.scoop.co.nz/stories/PA0712/S00390/maori-education-report-card-gives-whanau-a.htm
+title: Maori Education Report Card Gives Whanau A+
+date: 2007-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00390/maori-education-report-card-gives-whanau-a.htm
 author: te-pati-maori
+permalink: /archive/2007/12/18/maori-education-report-card-gives-whanau-a/index.html
+layout: layout.njk
 ---
 Maori Education Report Card Gives Whanau A+
 ===========================================

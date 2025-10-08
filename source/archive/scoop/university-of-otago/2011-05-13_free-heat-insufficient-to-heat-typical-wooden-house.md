@@ -1,9 +1,13 @@
 ---
 slug: free-heat-insufficient-to-heat-typical-wooden-house
-title: "\"Free heat\" insufficient to heat typical wooden house"
-date: 2011-05-13
-source-url: https://www.scoop.co.nz/stories/SC1105/S00034/free-heat-insufficient-to-heat-typical-wooden-house.htm
+title: '"Free heat" insufficient to heat typical wooden house'
+date: 2011-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00034/free-heat-insufficient-to-heat-typical-wooden-house.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/13/free-heat-insufficient-to-heat-typical-wooden-house/index.html
+layout: layout.njk
 ---
 “Free heat” insufficient to heat typical wooden house
 =====================================================

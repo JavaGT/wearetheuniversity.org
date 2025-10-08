@@ -1,9 +1,13 @@
 ---
 slug: complementary-health-response-disappoints-kedgley
-title: "Complementary health response disappoints Kedgley"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/PA0412/S00446/complementary-health-response-disappoints-kedgley.htm
+title: Complementary health response disappoints Kedgley
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00446/complementary-health-response-disappoints-kedgley.htm
 author: green-party
+permalink: >-
+  /archive/2004/12/17/complementary-health-response-disappoints-kedgley/index.html
+layout: layout.njk
 ---
 Complementary health response disappoints Kedgley
 =================================================

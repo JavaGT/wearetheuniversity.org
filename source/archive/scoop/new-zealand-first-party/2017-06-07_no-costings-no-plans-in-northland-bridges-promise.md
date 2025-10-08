@@ -1,9 +1,13 @@
 ---
 slug: no-costings-no-plans-in-northland-bridges-promise
-title: "No Costings, No Plans in Northland Bridges Promise"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/PA1706/S00118/no-costings-no-plans-in-northland-bridges-promise.htm
+title: No Costings, No Plans in Northland Bridges Promise
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00118/no-costings-no-plans-in-northland-bridges-promise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/07/no-costings-no-plans-in-northland-bridges-promise/index.html
+layout: layout.njk
 ---
 No Costings, No Plans in Northland Bridges Promise
 ==================================================

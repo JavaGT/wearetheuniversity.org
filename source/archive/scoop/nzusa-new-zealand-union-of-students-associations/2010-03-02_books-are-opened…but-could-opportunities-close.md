@@ -1,9 +1,12 @@
 ---
 slug: books-are-opened…but-could-opportunities-close
-title: "Books are opened…but could opportunities close?"
-date: 2010-03-02
-source-url: https://www.scoop.co.nz/stories/PO1003/S00012/books-are-openedbut-could-opportunities-close.htm
+title: Books are opened…but could opportunities close?
+date: 2010-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00012/books-are-openedbut-could-opportunities-close.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/02/books-are-opened/index.html
+layout: layout.njk
 ---
 Books are opened…but could opportunities close?
 ===============================================

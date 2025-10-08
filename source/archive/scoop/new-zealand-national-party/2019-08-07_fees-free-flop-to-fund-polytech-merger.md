@@ -1,9 +1,12 @@
 ---
 slug: fees-free-flop-to-fund-polytech-merger
-title: "Fees-free flop to fund polytech merger"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/PA1908/S00086/fees-free-flop-to-fund-polytech-merger.htm
+title: Fees-free flop to fund polytech merger
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00086/fees-free-flop-to-fund-polytech-merger.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/07/fees-free-flop-to-fund-polytech-merger/index.html
+layout: layout.njk
 ---
 Fees-free flop to fund polytech merger
 ======================================

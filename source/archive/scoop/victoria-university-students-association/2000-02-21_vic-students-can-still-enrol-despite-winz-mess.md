@@ -1,9 +1,12 @@
 ---
 slug: vic-students-can-still-enrol-despite-winz-mess
-title: "Vic Students Can Still Enrol Despite WINZ Mess"
-date: 2000-02-21
-source-url: https://www.scoop.co.nz/stories/ED0002/S00029/vic-students-can-still-enrol-despite-winz-mess.htm
+title: Vic Students Can Still Enrol Despite WINZ Mess
+date: 2000-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00029/vic-students-can-still-enrol-despite-winz-mess.htm
 author: victoria-university-students-association
+permalink: /archive/2000/02/21/vic-students-can-still-enrol-despite-winz-mess/index.html
+layout: layout.njk
 ---
 Vic Students Can Still Enrol Despite WINZ Mess
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: national-goes-against-98%-of-submitters
-title: "National goes against 98% of submitters"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/PO1010/S00222/national-goes-against-98-of-submitters.htm
+title: National goes against 98% of submitters
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00222/national-goes-against-98-of-submitters.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/10/21/national-goes-against-98/index.html
+layout: layout.njk
 ---
 National goes against 98% of submitters
 =======================================

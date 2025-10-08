@@ -1,9 +1,13 @@
 ---
 slug: nats-billion-dollar-bungle-hid-20000-kids-in-poverty
-title: "Nats’ billion dollar bungle hid 20,000 kids in poverty"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/PA1402/S00398/nats-billion-dollar-bungle-hid-20000-kids-in-poverty.htm
+title: Nats’ billion dollar bungle hid 20,000 kids in poverty
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00398/nats-billion-dollar-bungle-hid-20000-kids-in-poverty.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/27/nats-billion-dollar-bungle-hid-20000-kids-in-poverty/index.html
+layout: layout.njk
 ---
 Nats’ billion dollar bungle hid 20,000 kids in poverty
 ======================================================

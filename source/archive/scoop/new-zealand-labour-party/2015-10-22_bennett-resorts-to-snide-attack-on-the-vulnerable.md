@@ -1,9 +1,13 @@
 ---
 slug: bennett-resorts-to-snide-attack-on-the-vulnerable
-title: "Bennett resorts to snide attack on the vulnerable"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00410/bennett-resorts-to-snide-attack-on-the-vulnerable.htm
+title: Bennett resorts to snide attack on the vulnerable
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00410/bennett-resorts-to-snide-attack-on-the-vulnerable.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/22/bennett-resorts-to-snide-attack-on-the-vulnerable/index.html
+layout: layout.njk
 ---
 Bennett resorts to snide attack on the vulnerable
 =================================================

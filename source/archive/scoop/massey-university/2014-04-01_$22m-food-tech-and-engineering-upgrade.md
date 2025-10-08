@@ -1,9 +1,12 @@
 ---
 slug: $22m-food-tech-and-engineering-upgrade
-title: "$22m food tech and engineering upgrade"
-date: 2014-04-01
-source-url: https://www.scoop.co.nz/stories/ED1404/S00002/22m-food-tech-and-engineering-upgrade.htm
+title: $22m food tech and engineering upgrade
+date: 2014-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00002/22m-food-tech-and-engineering-upgrade.htm
 author: massey-university
+permalink: /archive/2014/04/01/22m-food-tech-and-engineering-upgrade/index.html
+layout: layout.njk
 ---
 $22m food tech and engineering upgrade
 ======================================

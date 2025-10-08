@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-paula-gillon-for-northcote
-title: "Labour selects Paula Gillon for Northcote"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/PO1008/S00113/labour-selects-paula-gillon-for-northcote.htm
+title: Labour selects Paula Gillon for Northcote
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00113/labour-selects-paula-gillon-for-northcote.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/10/labour-selects-paula-gillon-for-northcote/index.html
+layout: layout.njk
 ---
 Labour selects Paula Gillon for Northcote
 =========================================

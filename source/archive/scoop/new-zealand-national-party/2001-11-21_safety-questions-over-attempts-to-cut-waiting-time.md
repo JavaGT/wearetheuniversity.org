@@ -1,9 +1,13 @@
 ---
 slug: safety-questions-over-attempts-to-cut-waiting-time
-title: "Safety questions over attempts to cut waiting time"
-date: 2001-11-21
-source-url: https://www.scoop.co.nz/stories/PA0111/S00367/safety-questions-over-attempts-to-cut-waiting-time.htm
+title: Safety questions over attempts to cut waiting time
+date: 2001-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00367/safety-questions-over-attempts-to-cut-waiting-time.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/11/21/safety-questions-over-attempts-to-cut-waiting-time/index.html
+layout: layout.njk
 ---
 Safety questions over attempts to cut waiting time
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: sustainability-conference-aims-to-separate-fact-from-fiction
-title: "Sustainability conference aims to separate fact from fiction"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/PO1311/S00043/sustainability-conference-aims-to-separate-fact-from-fiction.htm
+title: Sustainability conference aims to separate fact from fiction
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00043/sustainability-conference-aims-to-separate-fact-from-fiction.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/05/sustainability-conference-aims-to-separate-fact-from-fiction/index.html
+layout: layout.njk
 ---
 Sustainability conference aims to separate fact from fiction
 ============================================================

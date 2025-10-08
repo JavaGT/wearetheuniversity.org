@@ -1,9 +1,13 @@
 ---
 slug: open-polytech-finalists-in-pms-education-excellence-awards
-title: "Open Polytech finalists in PM’s Education Excellence Awards"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/PA1505/S00187/open-polytech-finalists-in-pms-education-excellence-awards.htm
+title: Open Polytech finalists in PM’s Education Excellence Awards
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00187/open-polytech-finalists-in-pms-education-excellence-awards.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/05/12/open-polytech-finalists-in-pms-education-excellence-awards/index.html
+layout: layout.njk
 ---
 Open Polytech finalists in PM’s Education Excellence Awards
 ===========================================================

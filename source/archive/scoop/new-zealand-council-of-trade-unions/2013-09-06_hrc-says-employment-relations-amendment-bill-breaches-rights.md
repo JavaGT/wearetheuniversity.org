@@ -1,9 +1,13 @@
 ---
 slug: hrc-says-employment-relations-amendment-bill-breaches-rights
-title: "HRC says Employment Relations Amendment Bill breaches rights"
-date: 2013-09-06
-source-url: https://www.scoop.co.nz/stories/PO1309/S00071/hrc-says-employment-relations-amendment-bill-breaches-rights.htm
+title: HRC says Employment Relations Amendment Bill breaches rights
+date: 2013-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00071/hrc-says-employment-relations-amendment-bill-breaches-rights.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/09/06/hrc-says-employment-relations-amendment-bill-breaches-rights/index.html
+layout: layout.njk
 ---
 HRC says Employment Relations Amendment Bill breaches rights
 ============================================================

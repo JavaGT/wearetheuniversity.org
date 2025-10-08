@@ -1,9 +1,13 @@
 ---
 slug: lead-poisoning-in-children-associated-with-lead-based-paint
-title: "Lead poisoning in children associated with lead-based paint"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/SC1602/S00010/lead-poisoning-in-children-associated-with-lead-based-paint.htm
+title: Lead poisoning in children associated with lead-based paint
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00010/lead-poisoning-in-children-associated-with-lead-based-paint.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/03/lead-poisoning-in-children-associated-with-lead-based-paint/index.html
+layout: layout.njk
 ---
 Lead poisoning in children associated with lead-based paint
 ===========================================================

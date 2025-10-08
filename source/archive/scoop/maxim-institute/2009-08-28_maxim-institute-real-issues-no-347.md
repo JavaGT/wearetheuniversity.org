@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-347
-title: "Maxim Institute - Real Issues - No. 347"
-date: 2009-08-28
-source-url: https://www.scoop.co.nz/stories/PO0908/S00381/maxim-institute-real-issues-no-347.htm
+title: Maxim Institute - Real Issues - No. 347
+date: 2009-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00381/maxim-institute-real-issues-no-347.htm
 author: maxim-institute
+permalink: /archive/2009/08/28/maxim-institute-real-issues-no-347/index.html
+layout: layout.njk
 ---
 Maxim Institute - Real Issues - No. 347
 =======================================

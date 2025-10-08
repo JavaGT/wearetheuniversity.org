@@ -1,9 +1,12 @@
 ---
 slug: new-tool-to-classify-severity-of-salmonella
-title: "New tool to classify severity of Salmonella"
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/SC1805/S00026/new-tool-to-classify-severity-of-salmonella.htm
+title: New tool to classify severity of Salmonella
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00026/new-tool-to-classify-severity-of-salmonella.htm
 author: university-of-otago
+permalink: /archive/2018/05/09/new-tool-to-classify-severity-of-salmonella/index.html
+layout: layout.njk
 ---
 New tool to classify severity of Salmonella
 ===========================================

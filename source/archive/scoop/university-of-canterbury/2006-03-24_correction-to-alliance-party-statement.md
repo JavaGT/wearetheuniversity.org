@@ -1,9 +1,12 @@
 ---
 slug: correction-to-alliance-party-statement
-title: "Correction to Alliance Party Statement"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00068/correction-to-alliance-party-statement.htm
+title: Correction to Alliance Party Statement
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00068/correction-to-alliance-party-statement.htm
 author: university-of-canterbury
+permalink: /archive/2006/03/24/correction-to-alliance-party-statement/index.html
+layout: layout.njk
 ---
 Correction to Alliance Party Statement
 ======================================

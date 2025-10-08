@@ -1,9 +1,12 @@
 ---
 slug: canterbury-summer-student-numbers-surging
-title: "Canterbury summer student numbers surging"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/ED1412/S00063/canterbury-summer-student-numbers-surging.htm
+title: Canterbury summer student numbers surging
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00063/canterbury-summer-student-numbers-surging.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/10/canterbury-summer-student-numbers-surging/index.html
+layout: layout.njk
 ---
 Canterbury summer student numbers surging
 =========================================

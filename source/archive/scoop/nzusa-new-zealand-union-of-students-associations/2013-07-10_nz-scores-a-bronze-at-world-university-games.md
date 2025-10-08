@@ -1,9 +1,12 @@
 ---
 slug: nz-scores-a-bronze-at-world-university-games
-title: "NZ scores a Bronze at World University Games"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/CU1307/S00193/nz-scores-a-bronze-at-world-university-games.htm
+title: NZ scores a Bronze at World University Games
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00193/nz-scores-a-bronze-at-world-university-games.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/07/10/nz-scores-a-bronze-at-world-university-games/index.html
+layout: layout.njk
 ---
 NZ scores a Bronze at World University Games
 ============================================

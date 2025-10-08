@@ -1,9 +1,13 @@
 ---
 slug: nz-photographer-to-receive-prestigious-french-honour
-title: "NZ photographer to receive prestigious French Honour"
-date: 2016-05-02
-source-url: https://www.scoop.co.nz/stories/CU1605/S00012/nz-photographer-to-receive-prestigious-french-honour.htm
+title: NZ photographer to receive prestigious French Honour
+date: 2016-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00012/nz-photographer-to-receive-prestigious-french-honour.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2016/05/02/nz-photographer-to-receive-prestigious-french-honour/index.html
+layout: layout.njk
 ---
 NZ photographer to receive prestigious French Honour
 ====================================================

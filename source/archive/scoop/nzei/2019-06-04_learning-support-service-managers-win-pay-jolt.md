@@ -1,9 +1,12 @@
 ---
 slug: learning-support-service-managers-win-pay-jolt
-title: "Learning Support Service Managers win pay jolt"
-date: 2019-06-04
-source-url: https://www.scoop.co.nz/stories/PO1906/S00029/learning-support-service-managers-win-pay-jolt.htm
+title: Learning Support Service Managers win pay jolt
+date: 2019-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00029/learning-support-service-managers-win-pay-jolt.htm
 author: nzei
+permalink: /archive/2019/06/04/learning-support-service-managers-win-pay-jolt/index.html
+layout: layout.njk
 ---
 Learning Support Service Managers win pay jolt
 ==============================================

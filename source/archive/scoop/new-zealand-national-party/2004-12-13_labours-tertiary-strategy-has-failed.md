@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-strategy-has-failed
-title: "Labour’s tertiary strategy has failed"
-date: 2004-12-13
-source-url: https://www.scoop.co.nz/stories/PA0412/S00286/labours-tertiary-strategy-has-failed.htm
+title: Labour’s tertiary strategy has failed
+date: 2004-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00286/labours-tertiary-strategy-has-failed.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/13/labours-tertiary-strategy-has-failed/index.html
+layout: layout.njk
 ---
 Labour’s tertiary strategy has failed
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: declining-home-affordability-is-now-business-as-usual
-title: "Declining home affordability is now ‘business as usual’"
-date: 2018-01-26
-source-url: https://www.scoop.co.nz/stories/PO1801/S00133/declining-home-affordability-is-now-business-as-usual.htm
+title: Declining home affordability is now ‘business as usual’
+date: 2018-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1801/S00133/declining-home-affordability-is-now-business-as-usual.htm
 author: massey-university
+permalink: >-
+  /archive/2018/01/26/declining-home-affordability-is-now-business-as-usual/index.html
+layout: layout.njk
 ---
 Declining home affordability is now ‘business as usual’
 =======================================================

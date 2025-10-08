@@ -1,9 +1,12 @@
 ---
 slug: passing-of-dame-kāterina-te-heikōkō-mataira
-title: "Passing of Dame Kāterina Te Heikōkō Mataira"
-date: 2011-07-16
-source-url: https://www.scoop.co.nz/stories/PA1107/S00302/passing-of-dame-katerina-te-heikoko-mataira.htm
+title: Passing of Dame Kāterina Te Heikōkō Mataira
+date: 2011-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00302/passing-of-dame-katerina-te-heikoko-mataira.htm
 author: te-pati-maori
+permalink: /archive/2011/07/16/passing-of-dame-k/index.html
+layout: layout.njk
 ---
 Passing of Dame Kāterina Te Heikōkō Mataira
 ===========================================

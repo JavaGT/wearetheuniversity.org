@@ -1,9 +1,12 @@
 ---
 slug: students-express-dismay-at-censorship
-title: "Students express dismay at censorship"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/ED0501/S00057/students-express-dismay-at-censorship.htm
+title: Students express dismay at censorship
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00057/students-express-dismay-at-censorship.htm
 author: student-choice
+permalink: /archive/2005/01/27/students-express-dismay-at-censorship/index.html
+layout: layout.njk
 ---
 Students express dismay at censorship
 =====================================

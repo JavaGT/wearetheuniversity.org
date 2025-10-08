@@ -1,9 +1,13 @@
 ---
 slug: turia-international-council-of-thirteen-indigenous-grandmothers
-title: "Turia: International Council of Thirteen Indigenous Grandmothers"
-date: 2013-12-05
-source-url: https://www.scoop.co.nz/stories/PA1312/S00138/turia-international-council-of-thirteen-indigenous-grandmothers.htm
+title: 'Turia: International Council of Thirteen Indigenous Grandmothers'
+date: 2013-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00138/turia-international-council-of-thirteen-indigenous-grandmothers.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/12/05/turia-international-council-of-thirteen-indigenous-grandmothers/index.html
+layout: layout.njk
 ---
 Turia: International Council of Thirteen Indigenous Grandmothers
 ================================================================

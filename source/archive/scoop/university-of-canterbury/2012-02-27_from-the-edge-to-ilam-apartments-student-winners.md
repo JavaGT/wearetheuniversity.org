@@ -1,9 +1,13 @@
 ---
 slug: from-the-edge-to-ilam-apartments-student-winners
-title: "From the Edge to Ilam Apartments - Student Winners"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/ED1202/S00120/from-the-edge-to-ilam-apartments-student-winners.htm
+title: From the Edge to Ilam Apartments - Student Winners
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00120/from-the-edge-to-ilam-apartments-student-winners.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/02/27/from-the-edge-to-ilam-apartments-student-winners/index.html
+layout: layout.njk
 ---
 From the Edge to Ilam Apartments - Student Winners
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: maurice-paykel-postdoctoral-fellowships
-title: "Maurice Paykel Postdoctoral Fellowships"
-date: 2003-04-09
-source-url: https://www.scoop.co.nz/stories/ED0304/S00028/maurice-paykel-postdoctoral-fellowships.htm
+title: Maurice Paykel Postdoctoral Fellowships
+date: 2003-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00028/maurice-paykel-postdoctoral-fellowships.htm
 author: auckland-university
+permalink: /archive/2003/04/09/maurice-paykel-postdoctoral-fellowships/index.html
+layout: layout.njk
 ---
 Maurice Paykel Postdoctoral Fellowships
 =======================================

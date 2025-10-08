@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-launching-let-parents-choose
-title: "Liberty Belle: Launching \"Let Parents Choose\""
-date: 2003-10-10
-source-url: https://www.scoop.co.nz/stories/PA0310/S00226/liberty-belle-launching-let-parents-choose.htm
+title: 'Liberty Belle: Launching "Let Parents Choose"'
+date: 2003-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00226/liberty-belle-launching-let-parents-choose.htm
 author: act-new-zealand
+permalink: /archive/2003/10/10/liberty-belle-launching-let-parents-choose/index.html
+layout: layout.njk
 ---
 Liberty Belle: Launching \"Let Parents Choose"
 =============================================

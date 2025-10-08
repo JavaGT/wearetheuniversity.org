@@ -1,9 +1,12 @@
 ---
 slug: national-adopts-four-act-policies
-title: "National adopts four ACT policies"
-date: 2019-01-30
-source-url: https://www.scoop.co.nz/stories/PA1901/S00093/national-adopts-four-act-policies.htm
+title: National adopts four ACT policies
+date: 2019-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00093/national-adopts-four-act-policies.htm
 author: act-new-zealand
+permalink: /archive/2019/01/30/national-adopts-four-act-policies/index.html
+layout: layout.njk
 ---
 National adopts four ACT policies
 =================================

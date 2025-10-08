@@ -1,9 +1,12 @@
 ---
 slug: social-equity-vital-to-education-new-director
-title: "Social equity vital to education: new director"
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/ED1408/S00075/social-equity-vital-to-education-new-director.htm
+title: 'Social equity vital to education: new director'
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00075/social-equity-vital-to-education-new-director.htm
 author: massey-university
+permalink: /archive/2014/08/14/social-equity-vital-to-education-new-director/index.html
+layout: layout.njk
 ---
 Social equity vital to education: new director
 ==============================================

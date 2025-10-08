@@ -1,9 +1,12 @@
 ---
 slug: no-success-for-students-living-on-couches
-title: "No ‘success’ for students living on couches"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/PA1703/S00052/no-success-for-students-living-on-couches.htm
+title: No ‘success’ for students living on couches
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00052/no-success-for-students-living-on-couches.htm
 author: act-new-zealand
+permalink: /archive/2017/03/03/no-success-for-students-living-on-couches/index.html
+layout: layout.njk
 ---
 No ‘success’ for students living on couches
 ===========================================

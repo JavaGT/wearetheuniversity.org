@@ -1,9 +1,12 @@
 ---
 slug: compulsion-puts-bogus-student-reps-on-tec
-title: "Compulsion Puts Bogus Student Reps On TEC"
-date: 2002-12-12
-source-url: https://www.scoop.co.nz/stories/ED0212/S00024/compulsion-puts-bogus-student-reps-on-tec.htm
+title: Compulsion Puts Bogus Student Reps On TEC
+date: 2002-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00024/compulsion-puts-bogus-student-reps-on-tec.htm
 author: student-choice
+permalink: /archive/2002/12/12/compulsion-puts-bogus-student-reps-on-tec/index.html
+layout: layout.njk
 ---
 Compulsion Puts Bogus Student Reps On TEC
 =========================================

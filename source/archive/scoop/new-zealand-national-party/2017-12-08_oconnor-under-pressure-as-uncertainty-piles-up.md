@@ -1,9 +1,12 @@
 ---
 slug: oconnor-under-pressure-as-uncertainty-piles-up
-title: "O’Connor under pressure as uncertainty piles up"
-date: 2017-12-08
-source-url: https://www.scoop.co.nz/stories/PA1712/S00091/oconnor-under-pressure-as-uncertainty-piles-up.htm
+title: O’Connor under pressure as uncertainty piles up
+date: 2017-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00091/oconnor-under-pressure-as-uncertainty-piles-up.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/08/oconnor-under-pressure-as-uncertainty-piles-up/index.html
+layout: layout.njk
 ---
 O’Connor under pressure as uncertainty piles up
 ===============================================

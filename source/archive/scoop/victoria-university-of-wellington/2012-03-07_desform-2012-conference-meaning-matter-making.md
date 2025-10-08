@@ -1,9 +1,12 @@
 ---
 slug: desform-2012-conference-meaning-matter-making
-title: "DeSForM 2012 Conference: Meaning Matter Making"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/CU1203/S00131/desform-2012-conference-meaning-matter-making.htm
+title: 'DeSForM 2012 Conference: Meaning Matter Making'
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00131/desform-2012-conference-meaning-matter-making.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/03/07/desform-2012-conference-meaning-matter-making/index.html
+layout: layout.njk
 ---
 DeSForM 2012 Conference: Meaning Matter Making
 ==============================================

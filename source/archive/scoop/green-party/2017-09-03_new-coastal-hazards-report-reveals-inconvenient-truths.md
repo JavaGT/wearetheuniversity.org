@@ -1,9 +1,13 @@
 ---
 slug: new-coastal-hazards-report-reveals-inconvenient-truths
-title: "New coastal hazards report reveals inconvenient truths"
-date: 2017-09-03
-source-url: https://www.scoop.co.nz/stories/PA1709/S00023/new-coastal-hazards-report-reveals-inconvenient-truths.htm
+title: New coastal hazards report reveals inconvenient truths
+date: 2017-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00023/new-coastal-hazards-report-reveals-inconvenient-truths.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/03/new-coastal-hazards-report-reveals-inconvenient-truths/index.html
+layout: layout.njk
 ---
 New coastal hazards report reveals inconvenient truths
 ======================================================

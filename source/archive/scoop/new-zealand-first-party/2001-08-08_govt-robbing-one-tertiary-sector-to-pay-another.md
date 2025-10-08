@@ -1,9 +1,12 @@
 ---
 slug: govt-robbing-one-tertiary-sector-to-pay-another
-title: "Govt Robbing One Tertiary Sector To Pay Another"
-date: 2001-08-08
-source-url: https://www.scoop.co.nz/stories/PA0108/S00160/govt-robbing-one-tertiary-sector-to-pay-another.htm
+title: Govt Robbing One Tertiary Sector To Pay Another
+date: 2001-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00160/govt-robbing-one-tertiary-sector-to-pay-another.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/08/govt-robbing-one-tertiary-sector-to-pay-another/index.html
+layout: layout.njk
 ---
 Govt Robbing One Tertiary Sector To Pay Another
 ===============================================

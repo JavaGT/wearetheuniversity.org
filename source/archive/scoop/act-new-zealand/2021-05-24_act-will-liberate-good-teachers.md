@@ -1,9 +1,12 @@
 ---
 slug: act-will-liberate-good-teachers
-title: "ACT Will Liberate Good Teachers"
-date: 2021-05-24
-source-url: https://www.scoop.co.nz/stories/PA2105/S00207/act-will-liberate-good-teachers.htm
+title: ACT Will Liberate Good Teachers
+date: 2021-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00207/act-will-liberate-good-teachers.htm
 author: act-new-zealand
+permalink: /archive/2021/05/24/act-will-liberate-good-teachers/index.html
+layout: layout.njk
 ---
 ACT Will Liberate Good Teachers
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: conscience-vote-a-smokescreen
-title: "Conscience vote a smokescreen"
-date: 2003-07-07
-source-url: https://www.scoop.co.nz/stories/PA0307/S00140/conscience-vote-a-smokescreen.htm
+title: Conscience vote a smokescreen
+date: 2003-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00140/conscience-vote-a-smokescreen.htm
 author: green-party
+permalink: /archive/2003/07/07/conscience-vote-a-smokescreen/index.html
+layout: layout.njk
 ---
 Conscience vote a smokescreen
 =============================

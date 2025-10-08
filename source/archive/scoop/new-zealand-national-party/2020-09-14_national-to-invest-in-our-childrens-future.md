@@ -1,9 +1,12 @@
 ---
 slug: national-to-invest-in-our-childrens-future
-title: "National To Invest In Our Children’s Future"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/PA2009/S00122/national-to-invest-in-our-childrens-future.htm
+title: National To Invest In Our Children’s Future
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00122/national-to-invest-in-our-childrens-future.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/14/national-to-invest-in-our-childrens-future/index.html
+layout: layout.njk
 ---
 National To Invest In Our Children’s Future
 ===========================================

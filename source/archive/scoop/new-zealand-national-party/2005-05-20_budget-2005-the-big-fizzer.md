@@ -1,9 +1,11 @@
 ---
 slug: budget-2005-the-big-fizzer
-title: "Budget 2005 - the Big Fizzer"
-date: 2005-05-20
+title: Budget 2005 - the Big Fizzer
+date: 2005-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00569/budget-2005-the-big-fizzer.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/20/budget-2005-the-big-fizzer/index.html
+layout: layout.njk
 ---
 Budget 2005 - the Big Fizzer
 ============================

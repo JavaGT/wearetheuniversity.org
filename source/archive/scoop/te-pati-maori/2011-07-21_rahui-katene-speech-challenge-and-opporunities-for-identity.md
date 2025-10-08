@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-speech-challenge-and-opporunities-for-identity
-title: "Rahui Katene Speech: Challenge and opporunities for identity"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/PA1107/S00353/rahui-katene-speech-challenge-and-opporunities-for-identity.htm
+title: 'Rahui Katene Speech: Challenge and opporunities for identity'
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00353/rahui-katene-speech-challenge-and-opporunities-for-identity.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/21/rahui-katene-speech-challenge-and-opporunities-for-identity/index.html
+layout: layout.njk
 ---
 Rahui Katene Speech: Challenge and opporunities for identity
 ============================================================

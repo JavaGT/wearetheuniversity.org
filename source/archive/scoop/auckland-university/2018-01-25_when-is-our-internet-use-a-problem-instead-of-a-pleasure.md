@@ -1,9 +1,13 @@
 ---
 slug: when-is-our-internet-use-a-problem-instead-of-a-pleasure
-title: "When is our Internet use a problem instead of a pleasure?"
-date: 2018-01-25
-source-url: https://www.scoop.co.nz/stories/CU1801/S00225/when-is-our-internet-use-a-problem-instead-of-a-pleasure.htm
+title: When is our Internet use a problem instead of a pleasure?
+date: 2018-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1801/S00225/when-is-our-internet-use-a-problem-instead-of-a-pleasure.htm
 author: auckland-university
+permalink: >-
+  /archive/2018/01/25/when-is-our-internet-use-a-problem-instead-of-a-pleasure/index.html
+layout: layout.njk
 ---
 When is our Internet use a problem instead of a pleasure?
 =========================================================

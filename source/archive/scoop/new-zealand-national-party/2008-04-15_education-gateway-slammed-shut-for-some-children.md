@@ -1,9 +1,13 @@
 ---
 slug: education-gateway-slammed-shut-for-some-children
-title: "Education gateway slammed shut for some children"
-date: 2008-04-15
-source-url: https://www.scoop.co.nz/stories/PA0804/S00379/education-gateway-slammed-shut-for-some-children.htm
+title: Education gateway slammed shut for some children
+date: 2008-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00379/education-gateway-slammed-shut-for-some-children.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/04/15/education-gateway-slammed-shut-for-some-children/index.html
+layout: layout.njk
 ---
 Education gateway slammed shut for some children
 ================================================

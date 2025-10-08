@@ -1,9 +1,12 @@
 ---
 slug: hon-roger-sowry-announces-retirement
-title: "Hon Roger Sowry Announces Retirement"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/PA0407/S00221/hon-roger-sowry-announces-retirement.htm
+title: Hon Roger Sowry Announces Retirement
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00221/hon-roger-sowry-announces-retirement.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/13/hon-roger-sowry-announces-retirement/index.html
+layout: layout.njk
 ---
 Hon Roger Sowry Announces Retirement
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: open-entry-for-maori-part-of-overall-strategy
-title: "Open entry for Maori part of overall strategy"
-date: 2009-06-18
-source-url: https://www.scoop.co.nz/stories/ED0906/S00057/open-entry-for-maori-part-of-overall-strategy.htm
+title: Open entry for Maori part of overall strategy
+date: 2009-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00057/open-entry-for-maori-part-of-overall-strategy.htm
 author: massey-university
+permalink: /archive/2009/06/18/open-entry-for-maori-part-of-overall-strategy/index.html
+layout: layout.njk
 ---
 Open entry for Maori part of overall strategy
 =============================================

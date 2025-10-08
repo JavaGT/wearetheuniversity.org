@@ -1,9 +1,12 @@
 ---
 slug: health-boards-have-to-make-$120m-cuts
-title: "Health boards have to make $120m cuts"
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/PA0205/S00577/health-boards-have-to-make-120m-cuts.htm
+title: Health boards have to make $120m cuts
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00577/health-boards-have-to-make-120m-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/24/health-boards-have-to-make-/index.html
+layout: layout.njk
 ---
 Health boards have to make $120m cuts
 =====================================

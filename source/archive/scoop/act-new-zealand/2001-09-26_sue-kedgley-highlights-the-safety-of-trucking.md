@@ -1,9 +1,12 @@
 ---
 slug: sue-kedgley-highlights-the-safety-of-trucking
-title: "Sue Kedgley Highlights the Safety of Trucking"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/PA0109/S00408/sue-kedgley-highlights-the-safety-of-trucking.htm
+title: Sue Kedgley Highlights the Safety of Trucking
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00408/sue-kedgley-highlights-the-safety-of-trucking.htm
 author: act-new-zealand
+permalink: /archive/2001/09/26/sue-kedgley-highlights-the-safety-of-trucking/index.html
+layout: layout.njk
 ---
 Sue Kedgley Highlights the Safety of Trucking
 =============================================

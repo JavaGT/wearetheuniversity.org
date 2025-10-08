@@ -1,9 +1,12 @@
 ---
 slug: paul-comrie-thomson-a-generational-divide
-title: "Paul Comrie-Thomson: A Generational Divide"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/HL1003/S00267/paul-comrie-thomson-a-generational-divide.htm
+title: 'Paul Comrie-Thomson: A Generational Divide'
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1003/S00267/paul-comrie-thomson-a-generational-divide.htm
 author: salient
+permalink: /archive/2010/03/24/paul-comrie-thomson-a-generational-divide/index.html
+layout: layout.njk
 ---
 Paul Comrie-Thomson: A Generational Divide
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: post-election-whats-going-wong
-title: "Post Election What's Going Wong"
-date: 2005-09-30
-source-url: https://www.scoop.co.nz/stories/PA0509/S00509/post-election-whats-going-wong.htm
+title: Post Election What's Going Wong
+date: 2005-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00509/post-election-whats-going-wong.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/30/post-election-whats-going-wong/index.html
+layout: layout.njk
 ---
 Post Election What's Going Wong
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: labours-maori-policy-loses-focus
-title: "Labour's Maori policy loses focus"
-date: 2005-08-27
-source-url: https://www.scoop.co.nz/stories/PA0508/S00719/labours-maori-policy-loses-focus.htm
+title: Labour's Maori policy loses focus
+date: 2005-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00719/labours-maori-policy-loses-focus.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/27/labours-maori-policy-loses-focus/index.html
+layout: layout.njk
 ---
 Labour's Maori policy loses focus
 =================================

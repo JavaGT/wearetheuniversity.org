@@ -1,9 +1,13 @@
 ---
 slug: new-supercapacitor-surge-protector-hits-the-market
-title: "New supercapacitor surge protector hits the market"
-date: 2015-02-16
-source-url: https://www.scoop.co.nz/stories/SC1502/S00028/new-supercapacitor-surge-protector-hits-the-market.htm
+title: New supercapacitor surge protector hits the market
+date: 2015-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00028/new-supercapacitor-surge-protector-hits-the-market.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/16/new-supercapacitor-surge-protector-hits-the-market/index.html
+layout: layout.njk
 ---
 New supercapacitor surge protector hits the market
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-student-heads-off-to-take-up-rhodes-scholarship-at-oxford
-title: "UC student heads off to take up Rhodes scholarship at Oxford"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/ED1308/S00065/uc-student-heads-off-to-take-up-rhodes-scholarship-at-oxford.htm
+title: UC student heads off to take up Rhodes scholarship at Oxford
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00065/uc-student-heads-off-to-take-up-rhodes-scholarship-at-oxford.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/14/uc-student-heads-off-to-take-up-rhodes-scholarship-at-oxford/index.html
+layout: layout.njk
 ---
 UC student heads off to take up Rhodes scholarship at Oxford
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: education-its-all-about-trust
-title: "Education - It’s All About Trust"
-date: 2020-09-15
-source-url: https://www.scoop.co.nz/stories/PA2009/S00135/education-its-all-about-trust.htm
+title: Education - It’s All About Trust
+date: 2020-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00135/education-its-all-about-trust.htm
 author: new-zealand-first-party
+permalink: /archive/2020/09/15/education-its-all-about-trust/index.html
+layout: layout.njk
 ---
 Education - It’s All About Trust
 ================================

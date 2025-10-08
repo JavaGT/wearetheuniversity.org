@@ -1,9 +1,12 @@
 ---
 slug: stannard-to-head-new-school-of-sport
-title: "Stannard To Head New School Of Sport"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/ED1004/S00053/stannard-to-head-new-school-of-sport.htm
+title: Stannard To Head New School Of Sport
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00053/stannard-to-head-new-school-of-sport.htm
 author: massey-university
+permalink: /archive/2010/04/20/stannard-to-head-new-school-of-sport/index.html
+layout: layout.njk
 ---
 Stannard To Head New School Of Sport
 ====================================

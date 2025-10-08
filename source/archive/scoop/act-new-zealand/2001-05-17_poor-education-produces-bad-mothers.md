@@ -1,9 +1,12 @@
 ---
 slug: poor-education-produces-bad-mothers
-title: "Poor Education Produces Bad Mothers"
-date: 2001-05-17
-source-url: https://www.scoop.co.nz/stories/PA0105/S00361/poor-education-produces-bad-mothers.htm
+title: Poor Education Produces Bad Mothers
+date: 2001-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00361/poor-education-produces-bad-mothers.htm
 author: act-new-zealand
+permalink: /archive/2001/05/17/poor-education-produces-bad-mothers/index.html
+layout: layout.njk
 ---
 Poor Education Produces Bad Mothers
 ===================================

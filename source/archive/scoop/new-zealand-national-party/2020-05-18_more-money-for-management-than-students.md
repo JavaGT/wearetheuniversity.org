@@ -1,9 +1,12 @@
 ---
 slug: more-money-for-management-than-students
-title: "More Money For Management Than Students"
-date: 2020-05-18
-source-url: https://www.scoop.co.nz/stories/PA2005/S00168/more-money-for-management-than-students.htm
+title: More Money For Management Than Students
+date: 2020-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00168/more-money-for-management-than-students.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/18/more-money-for-management-than-students/index.html
+layout: layout.njk
 ---
 More Money For Management Than Students
 =======================================

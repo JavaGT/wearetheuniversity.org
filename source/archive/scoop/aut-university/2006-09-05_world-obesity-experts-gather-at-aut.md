@@ -1,9 +1,12 @@
 ---
 slug: world-obesity-experts-gather-at-aut
-title: "World obesity experts gather at AUT"
-date: 2006-09-05
-source-url: https://www.scoop.co.nz/stories/GE0609/S00017/world-obesity-experts-gather-at-aut.htm
+title: World obesity experts gather at AUT
+date: 2006-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0609/S00017/world-obesity-experts-gather-at-aut.htm
 author: aut-university
+permalink: /archive/2006/09/05/world-obesity-experts-gather-at-aut/index.html
+layout: layout.njk
 ---
 World obesity experts gather at AUT
 ===================================

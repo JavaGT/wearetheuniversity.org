@@ -1,9 +1,12 @@
 ---
 slug: economists-back-nats-on-inflation
-title: "Economists back Nats on inflation"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00530/economists-back-nats-on-inflation.htm
+title: Economists back Nats on inflation
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00530/economists-back-nats-on-inflation.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/22/economists-back-nats-on-inflation/index.html
+layout: layout.njk
 ---
 Economists back Nats on inflation
 =================================

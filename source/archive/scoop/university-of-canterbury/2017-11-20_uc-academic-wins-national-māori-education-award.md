@@ -1,9 +1,12 @@
 ---
 slug: uc-academic-wins-national-māori-education-award
-title: "UC academic wins national Māori education award"
-date: 2017-11-20
-source-url: https://www.scoop.co.nz/stories/ED1711/S00070/uc-academic-wins-national-maori-education-award.htm
+title: UC academic wins national Māori education award
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00070/uc-academic-wins-national-maori-education-award.htm
 author: university-of-canterbury
+permalink: /archive/2017/11/20/uc-academic-wins-national-m/index.html
+layout: layout.njk
 ---
 UC academic wins national Māori education award
 ===============================================

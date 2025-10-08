@@ -1,9 +1,12 @@
 ---
 slug: tell-the-government-dont-cut-our-future!-budget-2011
-title: "Tell the Government: Don’t Cut Our Future! Budget 2011"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PO1105/S00258/tell-the-government-dont-cut-our-future-budget-2011.htm
+title: 'Tell the Government: Don’t Cut Our Future! Budget 2011'
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00258/tell-the-government-dont-cut-our-future-budget-2011.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/18/tell-the-government-dont-cut-our-future/index.html
+layout: layout.njk
 ---
 Tell the Government: Don’t Cut Our Future! Budget 2011
 ======================================================

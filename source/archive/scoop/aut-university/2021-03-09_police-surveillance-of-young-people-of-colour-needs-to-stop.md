@@ -1,9 +1,13 @@
 ---
 slug: police-surveillance-of-young-people-of-colour-needs-to-stop
-title: "Police Surveillance Of Young People Of Colour Needs To Stop"
-date: 2021-03-09
-source-url: https://www.scoop.co.nz/stories/AK2103/S00219/police-surveillance-of-young-people-of-colour-needs-to-stop.htm
+title: Police Surveillance Of Young People Of Colour Needs To Stop
+date: 2021-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2103/S00219/police-surveillance-of-young-people-of-colour-needs-to-stop.htm
 author: aut-university
+permalink: >-
+  /archive/2021/03/09/police-surveillance-of-young-people-of-colour-needs-to-stop/index.html
+layout: layout.njk
 ---
 Police Surveillance Of Young People Of Colour Needs To Stop
 ===========================================================

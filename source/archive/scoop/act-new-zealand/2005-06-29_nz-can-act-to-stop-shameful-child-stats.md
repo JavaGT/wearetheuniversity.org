@@ -1,9 +1,12 @@
 ---
 slug: nz-can-act-to-stop-shameful-child-stats
-title: "NZ can ACT to stop shameful child stats"
-date: 2005-06-29
-source-url: https://www.scoop.co.nz/stories/PA0506/S00692/nz-can-act-to-stop-shameful-child-stats.htm
+title: NZ can ACT to stop shameful child stats
+date: 2005-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00692/nz-can-act-to-stop-shameful-child-stats.htm
 author: act-new-zealand
+permalink: /archive/2005/06/29/nz-can-act-to-stop-shameful-child-stats/index.html
+layout: layout.njk
 ---
 NZ can ACT to stop shameful child stats
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: government-spending-money-on-lawyers-instead-of-fixing-homes
-title: "Government spending money on lawyers instead of fixing homes"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00342/government-spending-money-on-lawyers-instead-of-fixing-homes.htm
+title: Government spending money on lawyers instead of fixing homes
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00342/government-spending-money-on-lawyers-instead-of-fixing-homes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/16/government-spending-money-on-lawyers-instead-of-fixing-homes/index.html
+layout: layout.njk
 ---
 Government spending money on lawyers instead of fixing homes
 ============================================================

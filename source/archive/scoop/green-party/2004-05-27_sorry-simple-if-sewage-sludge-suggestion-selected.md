@@ -1,9 +1,13 @@
 ---
 slug: sorry-simple-if-sewage-sludge-suggestion-selected
-title: "Sorry simple if sewage sludge suggestion selected"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00578/sorry-simple-if-sewage-sludge-suggestion-selected.htm
+title: Sorry simple if sewage sludge suggestion selected
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00578/sorry-simple-if-sewage-sludge-suggestion-selected.htm
 author: green-party
+permalink: >-
+  /archive/2004/05/27/sorry-simple-if-sewage-sludge-suggestion-selected/index.html
+layout: layout.njk
 ---
 Sorry simple if sewage sludge suggestion selected
 =================================================

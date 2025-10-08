@@ -1,9 +1,12 @@
 ---
 slug: maharey-makes-a-mockery-of-school-secrecy
-title: "Maharey makes a mockery of school secrecy"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/PA0603/S00371/maharey-makes-a-mockery-of-school-secrecy.htm
+title: Maharey makes a mockery of school secrecy
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00371/maharey-makes-a-mockery-of-school-secrecy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/22/maharey-makes-a-mockery-of-school-secrecy/index.html
+layout: layout.njk
 ---
 Maharey makes a mockery of school secrecy
 =========================================

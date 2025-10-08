@@ -1,9 +1,12 @@
 ---
 slug: kids-should-be-safe-at-school
-title: "Kids should be safe at school"
-date: 2007-03-06
-source-url: https://www.scoop.co.nz/stories/PA0703/S00086/kids-should-be-safe-at-school.htm
+title: Kids should be safe at school
+date: 2007-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00086/kids-should-be-safe-at-school.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/06/kids-should-be-safe-at-school/index.html
+layout: layout.njk
 ---
 Kids should be safe at school
 =============================

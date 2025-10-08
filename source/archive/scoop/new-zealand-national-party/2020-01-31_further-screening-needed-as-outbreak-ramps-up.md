@@ -1,9 +1,12 @@
 ---
 slug: further-screening-needed-as-outbreak-ramps-up
-title: "Further screening needed as outbreak ramps up"
-date: 2020-01-31
-source-url: https://www.scoop.co.nz/stories/PA2001/S00136/further-screening-needed-as-outbreak-ramps-up.htm
+title: Further screening needed as outbreak ramps up
+date: 2020-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00136/further-screening-needed-as-outbreak-ramps-up.htm
 author: new-zealand-national-party
+permalink: /archive/2020/01/31/further-screening-needed-as-outbreak-ramps-up/index.html
+layout: layout.njk
 ---
 Further screening needed as outbreak ramps up
 =============================================

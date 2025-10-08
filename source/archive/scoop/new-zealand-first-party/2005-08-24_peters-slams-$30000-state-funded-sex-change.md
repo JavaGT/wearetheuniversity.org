@@ -1,9 +1,12 @@
 ---
 slug: peters-slams-$30000-state-funded-sex-change
-title: "Peters Slams $30,000 State Funded Sex Change"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00625/peters-slams-30000-state-funded-sex-change.htm
+title: Peters Slams $30,000 State Funded Sex Change
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00625/peters-slams-30000-state-funded-sex-change.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/24/peters-slams-/index.html
+layout: layout.njk
 ---
 Peters Slams $30,000 State Funded Sex Change
 ============================================

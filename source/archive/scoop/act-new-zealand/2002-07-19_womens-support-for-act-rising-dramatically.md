@@ -1,9 +1,12 @@
 ---
 slug: womens-support-for-act-rising-dramatically
-title: "Women's Support for ACT Rising Dramatically"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PO0207/S00197/womens-support-for-act-rising-dramatically.htm
+title: Women's Support for ACT Rising Dramatically
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00197/womens-support-for-act-rising-dramatically.htm
 author: act-new-zealand
+permalink: /archive/2002/07/19/womens-support-for-act-rising-dramatically/index.html
+layout: layout.njk
 ---
 Women's Support for ACT Rising Dramatically
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: rugby-world-cup-generates-legacy-for-volunteering
-title: "Rugby World Cup generates legacy for volunteering"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00032/rugby-world-cup-generates-legacy-for-volunteering.htm
+title: Rugby World Cup generates legacy for volunteering
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00032/rugby-world-cup-generates-legacy-for-volunteering.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/12/04/rugby-world-cup-generates-legacy-for-volunteering/index.html
+layout: layout.njk
 ---
 Rugby World Cup generates legacy for volunteering
 =================================================

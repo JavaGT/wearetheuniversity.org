@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-defence-white-paper-under-the-microscope
-title: "New Zealand Defence White Paper under the microscope"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PO1606/S00268/new-zealand-defence-white-paper-under-the-microscope.htm
+title: New Zealand Defence White Paper under the microscope
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00268/new-zealand-defence-white-paper-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/06/22/new-zealand-defence-white-paper-under-the-microscope/index.html
+layout: layout.njk
 ---
 New Zealand Defence White Paper under the microscope
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: sombreros-off-for-mexico-business-strategy
-title: "Sombreros off for Mexico business strategy"
-date: 2015-10-19
-source-url: https://www.scoop.co.nz/stories/ED1510/S00095/sombreros-off-for-mexico-business-strategy.htm
+title: Sombreros off for Mexico business strategy
+date: 2015-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00095/sombreros-off-for-mexico-business-strategy.htm
 author: university-of-waikato
+permalink: /archive/2015/10/19/sombreros-off-for-mexico-business-strategy/index.html
+layout: layout.njk
 ---
 Sombreros off for Mexico business strategy
 ==========================================

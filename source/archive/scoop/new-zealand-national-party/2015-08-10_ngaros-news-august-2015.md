@@ -1,9 +1,11 @@
 ---
 slug: ngaros-news-august-2015
-title: "Ngaro's News: August 2015"
-date: 2015-08-10
+title: 'Ngaro''s News: August 2015'
+date: 2015-08-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1508/S00120/ngaros-news-august-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/08/10/ngaros-news-august-2015/index.html
+layout: layout.njk
 ---
 Ngaro's News: August 2015
 =========================

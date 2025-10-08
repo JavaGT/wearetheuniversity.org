@@ -1,9 +1,13 @@
 ---
 slug: public-services-targets-to-continue-without-govt
-title: "Public services targets to continue, without Govt"
-date: 2018-01-29
-source-url: https://www.scoop.co.nz/stories/PA1801/S00084/public-services-targets-to-continue-without-govt.htm
+title: Public services targets to continue, without Govt
+date: 2018-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00084/public-services-targets-to-continue-without-govt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/01/29/public-services-targets-to-continue-without-govt/index.html
+layout: layout.njk
 ---
 Public services targets to continue, without Govt
 =================================================

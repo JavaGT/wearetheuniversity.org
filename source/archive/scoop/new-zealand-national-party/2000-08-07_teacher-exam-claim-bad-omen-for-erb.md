@@ -1,9 +1,12 @@
 ---
 slug: teacher-exam-claim-bad-omen-for-erb
-title: "Teacher Exam Claim Bad Omen For ERB"
-date: 2000-08-07
-source-url: https://www.scoop.co.nz/stories/PA0008/S00120/teacher-exam-claim-bad-omen-for-erb.htm
+title: Teacher Exam Claim Bad Omen For ERB
+date: 2000-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00120/teacher-exam-claim-bad-omen-for-erb.htm
 author: new-zealand-national-party
+permalink: /archive/2000/08/07/teacher-exam-claim-bad-omen-for-erb/index.html
+layout: layout.njk
 ---
 Teacher Exam Claim Bad Omen For ERB
 ===================================

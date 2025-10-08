@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-4-may-2007
-title: "www.mccully.co.nz - 4 May 2007"
-date: 2007-05-04
+title: www.mccully.co.nz - 4 May 2007
+date: 2007-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00124/wwwmccullyconz-4-may-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/04/www-mccully-co-nz-4-may-2007/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 4 May 2007
 ==============================

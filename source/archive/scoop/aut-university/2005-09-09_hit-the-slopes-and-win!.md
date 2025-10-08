@@ -1,9 +1,11 @@
 ---
 slug: hit-the-slopes-and-win!
-title: "Hit the slopes and win!"
-date: 2005-09-09
+title: Hit the slopes and win!
+date: 2005-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0509/S00059/hit-the-slopes-and-win.htm
 author: aut-university
+permalink: /archive/2005/09/09/hit-the-slopes-and-win/index.html
+layout: layout.njk
 ---
 Hit the slopes and win!
 =======================

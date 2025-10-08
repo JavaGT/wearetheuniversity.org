@@ -1,9 +1,12 @@
 ---
 slug: risk-of-foreign-ownership-with-finance-collapse
-title: "Risk of foreign ownership with finance collapse"
-date: 2010-08-30
-source-url: https://www.scoop.co.nz/stories/PA1008/S00468/risk-of-foreign-ownership-with-finance-collapse.htm
+title: Risk of foreign ownership with finance collapse
+date: 2010-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00468/risk-of-foreign-ownership-with-finance-collapse.htm
 author: green-party
+permalink: /archive/2010/08/30/risk-of-foreign-ownership-with-finance-collapse/index.html
+layout: layout.njk
 ---
 Risk of foreign ownership with finance collapse
 ===============================================

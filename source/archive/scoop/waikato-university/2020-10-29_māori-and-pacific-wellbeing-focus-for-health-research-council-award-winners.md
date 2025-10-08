@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pacific-wellbeing-focus-for-health-research-council-award-winners
-title: "Māori And Pacific Wellbeing Focus For Health Research Council Award Winners"
-date: 2020-10-29
-source-url: https://www.scoop.co.nz/stories/GE2010/S00151/maori-and-pacific-wellbeing-focus-for-health-research-council-award-winners.htm
+title: Māori And Pacific Wellbeing Focus For Health Research Council Award Winners
+date: 2020-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2010/S00151/maori-and-pacific-wellbeing-focus-for-health-research-council-award-winners.htm
 author: waikato-university
+permalink: /archive/2020/10/29/m/index.html
+layout: layout.njk
 ---
 Māori And Pacific Wellbeing Focus For Health Research Council Award Winners
 ===========================================================================

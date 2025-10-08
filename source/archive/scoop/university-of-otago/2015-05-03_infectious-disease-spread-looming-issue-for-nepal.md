@@ -1,9 +1,13 @@
 ---
 slug: infectious-disease-spread-looming-issue-for-nepal
-title: "Infectious disease spread looming issue for Nepal"
-date: 2015-05-03
-source-url: https://www.scoop.co.nz/stories/ED1505/S00009/infectious-disease-spread-looming-issue-for-nepal.htm
+title: Infectious disease spread looming issue for Nepal
+date: 2015-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00009/infectious-disease-spread-looming-issue-for-nepal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/03/infectious-disease-spread-looming-issue-for-nepal/index.html
+layout: layout.njk
 ---
 Infectious disease spread looming issue for Nepal
 =================================================

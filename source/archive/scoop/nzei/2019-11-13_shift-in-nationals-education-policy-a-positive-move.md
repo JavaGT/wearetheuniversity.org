@@ -1,9 +1,13 @@
 ---
 slug: shift-in-nationals-education-policy-a-positive-move
-title: "Shift in National's education policy a positive move"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/ED1911/S00034/shift-in-nationals-education-policy-a-positive-move.htm
+title: Shift in National's education policy a positive move
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00034/shift-in-nationals-education-policy-a-positive-move.htm
 author: nzei
+permalink: >-
+  /archive/2019/11/13/shift-in-nationals-education-policy-a-positive-move/index.html
+layout: layout.njk
 ---
 Shift in National's education policy a positive move
 ====================================================

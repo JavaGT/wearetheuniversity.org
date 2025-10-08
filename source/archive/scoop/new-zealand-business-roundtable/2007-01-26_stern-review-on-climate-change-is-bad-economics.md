@@ -1,9 +1,12 @@
 ---
 slug: stern-review-on-climate-change-is-bad-economics
-title: "Stern Review on Climate Change is Bad Economics"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/BU0701/S00231/stern-review-on-climate-change-is-bad-economics.htm
+title: Stern Review on Climate Change is Bad Economics
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0701/S00231/stern-review-on-climate-change-is-bad-economics.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/01/26/stern-review-on-climate-change-is-bad-economics/index.html
+layout: layout.njk
 ---
 Stern Review on Climate Change is Bad Economics
 ===============================================

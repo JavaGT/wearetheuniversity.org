@@ -1,9 +1,11 @@
 ---
 slug: bills-diaspora-data-disaster
-title: "Bill’s Diaspora Data Disaster"
-date: 2012-08-02
+title: Bill’s Diaspora Data Disaster
+date: 2012-08-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1208/S00043/bills-diaspora-data-disaster.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/02/bills-diaspora-data-disaster/index.html
+layout: layout.njk
 ---
 Bill’s Diaspora Data Disaster
 =============================

@@ -1,9 +1,11 @@
 ---
 slug: how-enzymes-can-help-farmers
-title: "How enzymes can help farmers"
-date: 2012-06-08
+title: How enzymes can help farmers
+date: 2012-06-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1206/S00025/how-enzymes-can-help-farmers.htm
 author: waikato-university
+permalink: /archive/2012/06/08/how-enzymes-can-help-farmers/index.html
+layout: layout.njk
 ---
 How enzymes can help farmers
 ============================

@@ -1,9 +1,16 @@
 ---
-slug: local-girl-stands-up-to-be-counted-dr-emily-henderson-is-labour-candidate-for-whangarei
-title: "Local Girl Stands Up To Be Counted: Dr Emily Henderson Is Labour Candidate For Whangarei"
-date: 2020-05-28
-source-url: https://www.scoop.co.nz/stories/PO2005/S00357/local-girl-stands-up-to-be-counted-dr-emily-henderson-is-labour-candidate-for-whangarei.htm
+slug: >-
+  local-girl-stands-up-to-be-counted-dr-emily-henderson-is-labour-candidate-for-whangarei
+title: >-
+  Local Girl Stands Up To Be Counted: Dr Emily Henderson Is Labour Candidate For
+  Whangarei
+date: 2020-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00357/local-girl-stands-up-to-be-counted-dr-emily-henderson-is-labour-candidate-for-whangarei.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/05/28/local-girl-stands-up-to-be-counted-dr-emily-henderson-is-labour-candidate-for-whangarei/index.html
+layout: layout.njk
 ---
 Local Girl Stands Up To Be Counted: Dr Emily Henderson Is Labour Candidate For Whangarei
 ========================================================================================

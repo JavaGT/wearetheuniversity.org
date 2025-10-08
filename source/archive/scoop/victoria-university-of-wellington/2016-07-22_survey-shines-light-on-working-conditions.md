@@ -1,9 +1,12 @@
 ---
 slug: survey-shines-light-on-working-conditions
-title: "Survey shines light on working conditions"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/BU1607/S00687/survey-shines-light-on-working-conditions.htm
+title: Survey shines light on working conditions
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1607/S00687/survey-shines-light-on-working-conditions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/07/22/survey-shines-light-on-working-conditions/index.html
+layout: layout.njk
 ---
 Survey shines light on working conditions
 =========================================

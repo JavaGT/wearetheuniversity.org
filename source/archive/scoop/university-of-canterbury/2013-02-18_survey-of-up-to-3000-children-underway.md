@@ -1,9 +1,12 @@
 ---
 slug: survey-of-up-to-3000-children-underway
-title: "Survey of up to 3000 children underway"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00084/survey-of-up-to-3000-children-underway.htm
+title: Survey of up to 3000 children underway
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00084/survey-of-up-to-3000-children-underway.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/18/survey-of-up-to-3000-children-underway/index.html
+layout: layout.njk
 ---
 Survey of up to 3000 children underway
 ======================================

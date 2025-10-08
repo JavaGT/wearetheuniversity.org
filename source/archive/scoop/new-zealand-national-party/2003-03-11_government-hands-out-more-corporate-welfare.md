@@ -1,9 +1,12 @@
 ---
 slug: government-hands-out-more-corporate-welfare
-title: "Government hands out more corporate welfare"
-date: 2003-03-11
-source-url: https://www.scoop.co.nz/stories/PA0303/S00171/government-hands-out-more-corporate-welfare.htm
+title: Government hands out more corporate welfare
+date: 2003-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00171/government-hands-out-more-corporate-welfare.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/11/government-hands-out-more-corporate-welfare/index.html
+layout: layout.njk
 ---
 Government hands out more corporate welfare
 ===========================================

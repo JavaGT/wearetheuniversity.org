@@ -1,9 +1,13 @@
 ---
 slug: government-cuts-threaten-progress-for-pasifika-students
-title: "Government cuts threaten progress for Pasifika students"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00034/government-cuts-threaten-progress-for-pasifika-students.htm
+title: Government cuts threaten progress for Pasifika students
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00034/government-cuts-threaten-progress-for-pasifika-students.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/04/government-cuts-threaten-progress-for-pasifika-students/index.html
+layout: layout.njk
 ---
 Government cuts threaten progress for Pasifika students
 =======================================================

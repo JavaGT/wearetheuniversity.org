@@ -1,9 +1,12 @@
 ---
 slug: national-adamant-about-student-exams
-title: "National Adamant About Student Exams"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/PA0105/S00132/national-adamant-about-student-exams.htm
+title: National Adamant About Student Exams
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00132/national-adamant-about-student-exams.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/07/national-adamant-about-student-exams/index.html
+layout: layout.njk
 ---
 National Adamant About Student Exams
 ====================================

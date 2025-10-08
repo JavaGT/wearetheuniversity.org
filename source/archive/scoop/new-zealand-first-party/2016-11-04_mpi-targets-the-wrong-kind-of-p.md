@@ -1,9 +1,12 @@
 ---
 slug: mpi-targets-the-wrong-kind-of-p
-title: "MPI Targets the Wrong Kind of ‘P’"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/PA1611/S00086/mpi-targets-the-wrong-kind-of-p.htm
+title: MPI Targets the Wrong Kind of ‘P’
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00086/mpi-targets-the-wrong-kind-of-p.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/04/mpi-targets-the-wrong-kind-of-p/index.html
+layout: layout.njk
 ---
 MPI Targets the Wrong Kind of ‘P’
 =================================

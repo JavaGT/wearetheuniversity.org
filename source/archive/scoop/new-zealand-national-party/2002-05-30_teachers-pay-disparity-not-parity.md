@@ -1,9 +1,12 @@
 ---
 slug: teachers-pay-disparity-not-parity
-title: "Teachers' Pay Disparity, Not Parity"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/PA0205/S00680/teachers-pay-disparity-not-parity.htm
+title: Teachers' Pay Disparity, Not Parity
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00680/teachers-pay-disparity-not-parity.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/30/teachers-pay-disparity-not-parity/index.html
+layout: layout.njk
 ---
 Teachers' Pay Disparity, Not Parity
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: human-replicant-helps-prevent-bodies-cooking
-title: "Human Replicant Helps Prevent Bodies Cooking"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/SC1410/S00021/human-replicant-helps-prevent-bodies-cooking.htm
+title: Human Replicant Helps Prevent Bodies Cooking
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00021/human-replicant-helps-prevent-bodies-cooking.htm
 author: university-of-waikato
+permalink: /archive/2014/10/06/human-replicant-helps-prevent-bodies-cooking/index.html
+layout: layout.njk
 ---
 Human Replicant Helps Prevent Bodies Cooking
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-research-quality-rewarded-at-soil-science-conference
-title: "Waikato research quality rewarded at soil science conference"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/SC1412/S00036/waikato-research-quality-rewarded-at-soil-science-conference.htm
+title: Waikato research quality rewarded at soil science conference
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00036/waikato-research-quality-rewarded-at-soil-science-conference.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/10/waikato-research-quality-rewarded-at-soil-science-conference/index.html
+layout: layout.njk
 ---
 Waikato research quality rewarded at soil science conference
 ============================================================

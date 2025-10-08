@@ -1,9 +1,12 @@
 ---
 slug: meridian-price-hikes-show-market-failing
-title: "Meridian Price Hikes Show Market Failing"
-date: 2002-02-20
-source-url: https://www.scoop.co.nz/stories/PA0202/S00292/meridian-price-hikes-show-market-failing.htm
+title: Meridian Price Hikes Show Market Failing
+date: 2002-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00292/meridian-price-hikes-show-market-failing.htm
 author: green-party
+permalink: /archive/2002/02/20/meridian-price-hikes-show-market-failing/index.html
+layout: layout.njk
 ---
 Meridian Price Hikes Show Market Failing
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: australian-public-education-under-attack
-title: "Australian Public Education Under Attack"
-date: 2005-09-28
-source-url: https://www.scoop.co.nz/stories/ED0509/S00088/australian-public-education-under-attack.htm
+title: Australian Public Education Under Attack
+date: 2005-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00088/australian-public-education-under-attack.htm
 author: nzei
+permalink: /archive/2005/09/28/australian-public-education-under-attack/index.html
+layout: layout.njk
 ---
 Australian Public Education Under Attack
 ========================================

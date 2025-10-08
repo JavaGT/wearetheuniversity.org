@@ -1,9 +1,12 @@
 ---
 slug: govt-creates-$200k-job-to-get-rid-of-mp
-title: "Govt Creates $200k Job To Get Rid Of MP"
-date: 2022-05-03
-source-url: https://www.scoop.co.nz/stories/PA2205/S00027/govt-creates-200k-job-to-get-rid-of-mp.htm
+title: Govt Creates $200k Job To Get Rid Of MP
+date: 2022-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00027/govt-creates-200k-job-to-get-rid-of-mp.htm
 author: act-new-zealand
+permalink: /archive/2022/05/03/govt-creates-/index.html
+layout: layout.njk
 ---
 Govt Creates $200k Job To Get Rid Of MP
 =======================================

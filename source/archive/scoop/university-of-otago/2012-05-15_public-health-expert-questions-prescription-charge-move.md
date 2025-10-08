@@ -1,9 +1,13 @@
 ---
 slug: public-health-expert-questions-prescription-charge-move
-title: "Public health expert questions prescription charge move"
-date: 2012-05-15
-source-url: https://www.scoop.co.nz/stories/PO1205/S00225/public-health-expert-questions-prescription-charge-move.htm
+title: Public health expert questions prescription charge move
+date: 2012-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00225/public-health-expert-questions-prescription-charge-move.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/15/public-health-expert-questions-prescription-charge-move/index.html
+layout: layout.njk
 ---
 Public health expert questions prescription charge move
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: the-government-gives-freedom-of-choice-back-to-students
-title: "The Government gives freedom of choice back to students"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/ED1109/S00127/the-government-gives-freedom-of-choice-back-to-students.htm
+title: The Government gives freedom of choice back to students
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00127/the-government-gives-freedom-of-choice-back-to-students.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2011/09/28/the-government-gives-freedom-of-choice-back-to-students/index.html
+layout: layout.njk
 ---
 The Government gives freedom of choice back to students
 =======================================================

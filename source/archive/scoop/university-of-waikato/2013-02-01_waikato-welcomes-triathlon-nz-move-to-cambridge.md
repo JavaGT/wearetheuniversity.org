@@ -1,9 +1,12 @@
 ---
 slug: waikato-welcomes-triathlon-nz-move-to-cambridge
-title: "Waikato welcomes Triathlon NZ Move to Cambridge"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/ED1302/S00008/waikato-welcomes-triathlon-nz-move-to-cambridge.htm
+title: Waikato welcomes Triathlon NZ Move to Cambridge
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00008/waikato-welcomes-triathlon-nz-move-to-cambridge.htm
 author: university-of-waikato
+permalink: /archive/2013/02/01/waikato-welcomes-triathlon-nz-move-to-cambridge/index.html
+layout: layout.njk
 ---
 Waikato welcomes Triathlon NZ Move to Cambridge
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: traditional-pacific-lifestyle-inspiration-for-healthy-living
-title: "Traditional Pacific lifestyle inspiration for healthy living"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/GE1105/S00100/traditional-pacific-lifestyle-inspiration-for-healthy-living.htm
+title: Traditional Pacific lifestyle inspiration for healthy living
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00100/traditional-pacific-lifestyle-inspiration-for-healthy-living.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/17/traditional-pacific-lifestyle-inspiration-for-healthy-living/index.html
+layout: layout.njk
 ---
 Traditional Pacific lifestyle inspiration for healthy living
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: symposium-for-improving-health-care-for-inmates-and-whānau
-title: "Symposium for improving health care for inmates and whānau"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PO1206/S00072/symposium-for-improving-health-care-for-inmates-and-whanau.htm
+title: Symposium for improving health care for inmates and whānau
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00072/symposium-for-improving-health-care-for-inmates-and-whanau.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/07/symposium-for-improving-health-care-for-inmates-and-wh/index.html
+layout: layout.njk
 ---
 Symposium for improving health care for inmates and whānau
 ==========================================================

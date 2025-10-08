@@ -1,9 +1,13 @@
 ---
 slug: agreement-brings-nz-closer-to-mega-science-project
-title: "Agreement brings NZ closer to mega-science project"
-date: 2008-05-15
-source-url: https://www.scoop.co.nz/stories/SC0805/S00036/agreement-brings-nz-closer-to-mega-science-project.htm
+title: Agreement brings NZ closer to mega-science project
+date: 2008-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0805/S00036/agreement-brings-nz-closer-to-mega-science-project.htm
 author: aut-university
+permalink: >-
+  /archive/2008/05/15/agreement-brings-nz-closer-to-mega-science-project/index.html
+layout: layout.njk
 ---
 Agreement brings NZ closer to mega-science project
 ==================================================

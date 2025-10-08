@@ -1,9 +1,12 @@
 ---
 slug: firearms-licencing-amendment-on-the-way
-title: "Firearms Licencing Amendment On The Way"
-date: 2022-09-14
-source-url: https://www.scoop.co.nz/stories/PA2209/S00072/firearms-licencing-amendment-on-the-way.htm
+title: Firearms Licencing Amendment On The Way
+date: 2022-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00072/firearms-licencing-amendment-on-the-way.htm
 author: act-new-zealand
+permalink: /archive/2022/09/14/firearms-licencing-amendment-on-the-way/index.html
+layout: layout.njk
 ---
 Firearms Licencing Amendment On The Way
 =======================================

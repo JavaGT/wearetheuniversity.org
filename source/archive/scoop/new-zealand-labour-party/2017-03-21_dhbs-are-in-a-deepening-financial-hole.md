@@ -1,9 +1,12 @@
 ---
 slug: dhbs-are-in-a-deepening-financial-hole
-title: "DHBs are in a deepening financial hole"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00339/dhbs-are-in-a-deepening-financial-hole.htm
+title: DHBs are in a deepening financial hole
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00339/dhbs-are-in-a-deepening-financial-hole.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/21/dhbs-are-in-a-deepening-financial-hole/index.html
+layout: layout.njk
 ---
 DHBs are in a deepening financial hole
 ======================================

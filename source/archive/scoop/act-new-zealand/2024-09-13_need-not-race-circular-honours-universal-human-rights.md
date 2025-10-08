@@ -1,9 +1,13 @@
 ---
 slug: need-not-race-circular-honours-universal-human-rights
-title: "\"Need, Not Race\" Circular Honours Universal Human Rights"
-date: 2024-09-13
-source-url: https://www.scoop.co.nz/stories/PA2409/S00020/need-not-race-circular-honours-universal-human-rights.htm
+title: '"Need, Not Race" Circular Honours Universal Human Rights'
+date: 2024-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00020/need-not-race-circular-honours-universal-human-rights.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/09/13/need-not-race-circular-honours-universal-human-rights/index.html
+layout: layout.njk
 ---
 "Need, Not Race” Circular Honours Universal Human Rights
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: first-business-students-in-2+2-programme
-title: "First business students in '2+2' programme"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/ED0807/S00028/first-business-students-in-22-programme.htm
+title: First business students in '2+2' programme
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00028/first-business-students-in-22-programme.htm
 author: massey-university
+permalink: /archive/2008/07/10/first-business-students-in-2/index.html
+layout: layout.njk
 ---
 First business students in '2+2' programme
 ==========================================

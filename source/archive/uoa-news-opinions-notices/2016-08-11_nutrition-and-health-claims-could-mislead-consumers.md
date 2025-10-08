@@ -1,8 +1,12 @@
 ---
 slug: nutrition-and-health-claims-could-mislead-consumers
-title: "Nutrition and health claims could mislead consumers"
-date: 2016-08-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/nutrition-and-health-claims-could-mislead-consumers.html
+title: Nutrition and health claims could mislead consumers
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/nutrition-and-health-claims-could-mislead-consumers.html
+permalink: >-
+  /archive/2016/08/11/nutrition-and-health-claims-could-mislead-consumers/index.html
+layout: layout.njk
 ---
 Nutrition and health claims could mislead consumers
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: tolleys-chopper-tour-hardly-value-for-money
-title: "Tolley’s chopper tour hardly value for money"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/PA0904/S00104/tolleys-chopper-tour-hardly-value-for-money.htm
+title: Tolley’s chopper tour hardly value for money
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00104/tolleys-chopper-tour-hardly-value-for-money.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/07/tolleys-chopper-tour-hardly-value-for-money/index.html
+layout: layout.njk
 ---
 Tolley’s chopper tour hardly value for money
 ============================================

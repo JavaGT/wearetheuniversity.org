@@ -1,9 +1,12 @@
 ---
 slug: massey-poets-in-the-running-for-montreal-prize
-title: "Massey poets in the running for Montreal prize"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/CU1508/S00142/massey-poets-in-the-running-for-montreal-prize.htm
+title: Massey poets in the running for Montreal prize
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00142/massey-poets-in-the-running-for-montreal-prize.htm
 author: massey-university
+permalink: /archive/2015/08/10/massey-poets-in-the-running-for-montreal-prize/index.html
+layout: layout.njk
 ---
 Massey poets in the running for Montreal prize
 ==============================================

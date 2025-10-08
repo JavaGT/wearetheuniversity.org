@@ -1,9 +1,12 @@
 ---
 slug: governor-general-visits-lincoln-university
-title: "Governor-General visits Lincoln University"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00135/governor-general-visits-lincoln-university.htm
+title: Governor-General visits Lincoln University
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00135/governor-general-visits-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2013/08/27/governor-general-visits-lincoln-university/index.html
+layout: layout.njk
 ---
 Governor-General visits Lincoln University
 ==========================================

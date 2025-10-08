@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-liberty-belle
-title: "Deborah Coddington's Liberty Belle"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/PA0406/S00166/deborah-coddingtons-liberty-belle.htm
+title: Deborah Coddington's Liberty Belle
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00166/deborah-coddingtons-liberty-belle.htm
 author: act-new-zealand
+permalink: /archive/2004/06/11/deborah-coddingtons-liberty-belle/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle
 ==================================

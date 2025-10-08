@@ -1,9 +1,12 @@
 ---
 slug: acts-tertiary-policy-puts-money-before-merit
-title: "ACT’s Tertiary Policy Puts Money Before Merit"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00125/acts-tertiary-policy-puts-money-before-merit.htm
+title: ACT’s Tertiary Policy Puts Money Before Merit
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00125/acts-tertiary-policy-puts-money-before-merit.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/07/acts-tertiary-policy-puts-money-before-merit/index.html
+layout: layout.njk
 ---
 ACT’s Tertiary Policy Puts Money Before Merit
 =============================================

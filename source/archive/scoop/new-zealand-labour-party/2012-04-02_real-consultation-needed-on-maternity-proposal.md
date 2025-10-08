@@ -1,9 +1,12 @@
 ---
 slug: real-consultation-needed-on-maternity-proposal
-title: "Real Consultation Needed on Maternity Proposal"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/PA1204/S00003/real-consultation-needed-on-maternity-proposal.htm
+title: Real Consultation Needed on Maternity Proposal
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00003/real-consultation-needed-on-maternity-proposal.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/02/real-consultation-needed-on-maternity-proposal/index.html
+layout: layout.njk
 ---
 Real Consultation Needed on Maternity Proposal
 ==============================================

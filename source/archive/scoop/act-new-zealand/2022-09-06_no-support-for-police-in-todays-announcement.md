@@ -1,9 +1,12 @@
 ---
 slug: no-support-for-police-in-todays-announcement
-title: "No Support For Police In Today’s Announcement"
-date: 2022-09-06
-source-url: https://www.scoop.co.nz/stories/PA2209/S00027/no-support-for-police-in-todays-announcement.htm
+title: No Support For Police In Today’s Announcement
+date: 2022-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00027/no-support-for-police-in-todays-announcement.htm
 author: act-new-zealand
+permalink: /archive/2022/09/06/no-support-for-police-in-todays-announcement/index.html
+layout: layout.njk
 ---
 No Support For Police In Today’s Announcement
 =============================================

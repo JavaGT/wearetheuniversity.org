@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-hard-fought-piki-announcement
-title: "Students welcome hard fought Piki announcement"
-date: 2019-05-06
-source-url: https://www.scoop.co.nz/stories/GE1905/S00022/students-welcome-hard-fought-piki-announcement.htm
+title: Students welcome hard fought Piki announcement
+date: 2019-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1905/S00022/students-welcome-hard-fought-piki-announcement.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2019/05/06/students-welcome-hard-fought-piki-announcement/index.html
+layout: layout.njk
 ---
 Students welcome hard fought Piki announcement
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-students-rally-against-voluntary-membership-bill
-title: "Auckland students rally against Voluntary Membership Bill"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/ED1108/S00095/auckland-students-rally-against-voluntary-membership-bill.htm
+title: Auckland students rally against Voluntary Membership Bill
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00095/auckland-students-rally-against-voluntary-membership-bill.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2011/08/17/auckland-students-rally-against-voluntary-membership-bill/index.html
+layout: layout.njk
 ---
 Auckland students rally against Voluntary Membership Bill
 =========================================================

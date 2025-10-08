@@ -1,9 +1,12 @@
 ---
 slug: record-60000-migrants-hitting-kiwi-job-seekers
-title: "Record 60,000 migrants hitting kiwi job seekers"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/PA1509/S00359/record-60000-migrants-hitting-kiwi-job-seekers.htm
+title: Record 60,000 migrants hitting kiwi job seekers
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00359/record-60000-migrants-hitting-kiwi-job-seekers.htm
 author: new-zealand-first-party
+permalink: /archive/2015/09/21/record-60000-migrants-hitting-kiwi-job-seekers/index.html
+layout: layout.njk
 ---
 Record 60,000 migrants hitting kiwi job seekers
 ===============================================

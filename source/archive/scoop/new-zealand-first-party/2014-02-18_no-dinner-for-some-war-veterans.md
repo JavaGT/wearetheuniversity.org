@@ -1,9 +1,12 @@
 ---
 slug: no-dinner-for-some-war-veterans
-title: "No Dinner For Some War Veterans"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/PA1402/S00223/no-dinner-for-some-war-veterans.htm
+title: No Dinner For Some War Veterans
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00223/no-dinner-for-some-war-veterans.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/18/no-dinner-for-some-war-veterans/index.html
+layout: layout.njk
 ---
 No Dinner For Some War Veterans
 ===============================

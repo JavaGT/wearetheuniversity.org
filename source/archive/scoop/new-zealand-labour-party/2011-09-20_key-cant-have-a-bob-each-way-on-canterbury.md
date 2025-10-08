@@ -1,9 +1,12 @@
 ---
 slug: key-cant-have-a-bob-each-way-on-canterbury
-title: "Key can't have a bob each way on Canterbury"
-date: 2011-09-20
-source-url: https://www.scoop.co.nz/stories/PA1109/S00383/key-cant-have-a-bob-each-way-on-canterbury.htm
+title: Key can't have a bob each way on Canterbury
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00383/key-cant-have-a-bob-each-way-on-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/20/key-cant-have-a-bob-each-way-on-canterbury/index.html
+layout: layout.njk
 ---
 Key can't have a bob each way on Canterbury
 ===========================================

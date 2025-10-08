@@ -1,9 +1,13 @@
 ---
 slug: national-breaks-another-promise-over-paid-parental-leave
-title: "National breaks another promise over paid parental leave"
-date: 2015-09-08
-source-url: https://www.scoop.co.nz/stories/PA1509/S00128/national-breaks-another-promise-over-paid-parental-leave.htm
+title: National breaks another promise over paid parental leave
+date: 2015-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00128/national-breaks-another-promise-over-paid-parental-leave.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/08/national-breaks-another-promise-over-paid-parental-leave/index.html
+layout: layout.njk
 ---
 National breaks another promise over paid parental leave
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: flying-dreamers-to-fighting-pilots-in-battle-of-britain
-title: "Flying dreamers to fighting pilots in Battle of Britain"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00115/flying-dreamers-to-fighting-pilots-in-battle-of-britain.htm
+title: Flying dreamers to fighting pilots in Battle of Britain
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00115/flying-dreamers-to-fighting-pilots-in-battle-of-britain.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/15/flying-dreamers-to-fighting-pilots-in-battle-of-britain/index.html
+layout: layout.njk
 ---
 Flying dreamers to fighting pilots in Battle of Britain
 =======================================================

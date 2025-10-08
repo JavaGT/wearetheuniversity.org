@@ -1,9 +1,12 @@
 ---
 slug: inaugural-elman-poole-travelling-fellowship
-title: "Inaugural Elman Poole Travelling Fellowship"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/ED0504/S00014/inaugural-elman-poole-travelling-fellowship.htm
+title: Inaugural Elman Poole Travelling Fellowship
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00014/inaugural-elman-poole-travelling-fellowship.htm
 author: university-of-otago
+permalink: /archive/2005/04/07/inaugural-elman-poole-travelling-fellowship/index.html
+layout: layout.njk
 ---
 Inaugural Elman Poole Travelling Fellowship
 ===========================================

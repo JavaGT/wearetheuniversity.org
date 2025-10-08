@@ -1,9 +1,12 @@
 ---
 slug: perspectives-no-83-on-education
-title: "Perspectives No. 83 - On Education"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/BU0702/S00043/perspectives-no-83-on-education.htm
+title: Perspectives No. 83 - On Education
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0702/S00043/perspectives-no-83-on-education.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/02/02/perspectives-no-83-on-education/index.html
+layout: layout.njk
 ---
 Perspectives No. 83 - On Education
 ==================================

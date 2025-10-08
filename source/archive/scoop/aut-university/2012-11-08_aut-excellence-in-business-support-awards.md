@@ -1,9 +1,12 @@
 ---
 slug: aut-excellence-in-business-support-awards
-title: "AUT Excellence in Business Support Awards"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/BU1211/S00311/aut-excellence-in-business-support-awards.htm
+title: AUT Excellence in Business Support Awards
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00311/aut-excellence-in-business-support-awards.htm
 author: aut-university
+permalink: /archive/2012/11/08/aut-excellence-in-business-support-awards/index.html
+layout: layout.njk
 ---
 AUT Excellence in Business Support Awards
 =========================================

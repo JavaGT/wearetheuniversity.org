@@ -1,9 +1,12 @@
 ---
 slug: children-may-be-at-risk-from-additives-in-food
-title: "Children may be at risk from additives in food"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/PA0508/S00379/children-may-be-at-risk-from-additives-in-food.htm
+title: Children may be at risk from additives in food
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00379/children-may-be-at-risk-from-additives-in-food.htm
 author: green-party
+permalink: /archive/2005/08/15/children-may-be-at-risk-from-additives-in-food/index.html
+layout: layout.njk
 ---
 Children may be at risk from additives in food
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: special-education-staff-suspend-industrial-action
-title: "Special Education Staff Suspend Industrial Action"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/ED0310/S00061/special-education-staff-suspend-industrial-action.htm
+title: Special Education Staff Suspend Industrial Action
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00061/special-education-staff-suspend-industrial-action.htm
 author: nzei
+permalink: >-
+  /archive/2003/10/14/special-education-staff-suspend-industrial-action/index.html
+layout: layout.njk
 ---
 Special Education Staff Suspend Industrial Action
 =================================================

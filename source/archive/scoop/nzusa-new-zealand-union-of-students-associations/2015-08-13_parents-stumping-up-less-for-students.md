@@ -1,9 +1,12 @@
 ---
 slug: parents-stumping-up-less-for-students
-title: "Parents stumping up less for students"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00052/parents-stumping-up-less-for-students.htm
+title: Parents stumping up less for students
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00052/parents-stumping-up-less-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/08/13/parents-stumping-up-less-for-students/index.html
+layout: layout.njk
 ---
 Parents stumping up less for students
 =====================================

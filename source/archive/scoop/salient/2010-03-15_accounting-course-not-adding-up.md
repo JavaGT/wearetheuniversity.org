@@ -1,9 +1,12 @@
 ---
 slug: accounting-course-not-adding-up
-title: "Accounting Course Not Adding Up"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/ED1003/S00062/accounting-course-not-adding-up.htm
+title: Accounting Course Not Adding Up
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00062/accounting-course-not-adding-up.htm
 author: salient
+permalink: /archive/2010/03/15/accounting-course-not-adding-up/index.html
+layout: layout.njk
 ---
 Accounting Course Not Adding Up
 ===============================

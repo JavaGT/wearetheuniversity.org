@@ -1,9 +1,13 @@
 ---
 slug: lower-interest-rates-from-banks-than-loan-scheme
-title: "Lower Interest Rates From Banks Than Loan Scheme"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/ED0402/S00072/lower-interest-rates-from-banks-than-loan-scheme.htm
+title: Lower Interest Rates From Banks Than Loan Scheme
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00072/lower-interest-rates-from-banks-than-loan-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/02/24/lower-interest-rates-from-banks-than-loan-scheme/index.html
+layout: layout.njk
 ---
 Lower Interest Rates From Banks Than Loan Scheme
 ================================================

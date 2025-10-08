@@ -1,9 +1,13 @@
 ---
 slug: govt-wrongly-uses-bor-to-cut-student-entitlements
-title: "Govt wrongly uses BOR To Cut Student entitlements"
-date: 2004-12-27
-source-url: https://www.scoop.co.nz/stories/ED0412/S00077/govt-wrongly-uses-bor-to-cut-student-entitlements.htm
+title: Govt wrongly uses BOR To Cut Student entitlements
+date: 2004-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00077/govt-wrongly-uses-bor-to-cut-student-entitlements.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/12/27/govt-wrongly-uses-bor-to-cut-student-entitlements/index.html
+layout: layout.njk
 ---
 Govt wrongly uses BOR To Cut Student entitlements
 =================================================

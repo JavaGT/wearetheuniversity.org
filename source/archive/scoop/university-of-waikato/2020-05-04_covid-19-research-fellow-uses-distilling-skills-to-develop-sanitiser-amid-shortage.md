@@ -1,9 +1,16 @@
 ---
-slug: covid-19-research-fellow-uses-distilling-skills-to-develop-sanitiser-amid-shortage
-title: "Covid-19: Research Fellow Uses Distilling Skills To Develop Sanitiser Amid Shortage"
-date: 2020-05-04
-source-url: https://www.scoop.co.nz/stories/SC2005/S00006/covid-19-research-fellow-uses-distilling-skills-to-develop-sanitiser-amid-shortage.htm
+slug: >-
+  covid-19-research-fellow-uses-distilling-skills-to-develop-sanitiser-amid-shortage
+title: >-
+  Covid-19: Research Fellow Uses Distilling Skills To Develop Sanitiser Amid
+  Shortage
+date: 2020-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00006/covid-19-research-fellow-uses-distilling-skills-to-develop-sanitiser-amid-shortage.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/04/covid-19-research-fellow-uses-distilling-skills-to-develop-sanitiser-amid-shortage/index.html
+layout: layout.njk
 ---
 Covid-19: Research Fellow Uses Distilling Skills To Develop Sanitiser Amid Shortage
 ===================================================================================

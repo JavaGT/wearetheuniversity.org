@@ -1,9 +1,13 @@
 ---
 slug: deaf-and-hearing-theatre-working-together-on-stage
-title: "Deaf and hearing theatre working together on stage"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/CU1504/S00391/deaf-and-hearing-theatre-working-together-on-stage.htm
+title: Deaf and hearing theatre working together on stage
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00391/deaf-and-hearing-theatre-working-together-on-stage.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/04/22/deaf-and-hearing-theatre-working-together-on-stage/index.html
+layout: layout.njk
 ---
 Deaf and hearing theatre working together on stage
 ==================================================

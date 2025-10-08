@@ -1,9 +1,12 @@
 ---
 slug: sharples-priceless-document-impossible-to-value
-title: "Sharples: Priceless document impossible to value"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00267/sharples-priceless-document-impossible-to-value.htm
+title: 'Sharples: Priceless document impossible to value'
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00267/sharples-priceless-document-impossible-to-value.htm
 author: te-pati-maori
+permalink: /archive/2006/12/13/sharples-priceless-document-impossible-to-value/index.html
+layout: layout.njk
 ---
 Sharples: Priceless document impossible to value
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-will-stop-destructive-sea-bed-mining-in-whale-habitat
-title: "Greens will stop destructive sea-bed mining in whale habitat"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PA1708/S00202/greens-will-stop-destructive-sea-bed-mining-in-whale-habitat.htm
+title: Greens will stop destructive sea-bed mining in whale habitat
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00202/greens-will-stop-destructive-sea-bed-mining-in-whale-habitat.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/10/greens-will-stop-destructive-sea-bed-mining-in-whale-habitat/index.html
+layout: layout.njk
 ---
 Greens will stop destructive sea-bed mining in whale habitat
 ============================================================

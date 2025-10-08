@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-chooses-spin-meeting-over-farmers
-title: "Prime Minister Chooses Spin Meeting Over Farmers"
-date: 2021-10-30
-source-url: https://www.scoop.co.nz/stories/PA2110/S00313/prime-minister-chooses-spin-meeting-over-farmers.htm
+title: Prime Minister Chooses Spin Meeting Over Farmers
+date: 2021-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00313/prime-minister-chooses-spin-meeting-over-farmers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/10/30/prime-minister-chooses-spin-meeting-over-farmers/index.html
+layout: layout.njk
 ---
 Prime Minister Chooses Spin Meeting Over Farmers
 ================================================

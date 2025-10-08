@@ -1,9 +1,12 @@
 ---
 slug: phillipstown-school-hopeful-of-staying-open
-title: "Phillipstown School hopeful of staying open"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/ED1305/S00081/phillipstown-school-hopeful-of-staying-open.htm
+title: Phillipstown School hopeful of staying open
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00081/phillipstown-school-hopeful-of-staying-open.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/14/phillipstown-school-hopeful-of-staying-open/index.html
+layout: layout.njk
 ---
 Phillipstown School hopeful of staying open
 ===========================================

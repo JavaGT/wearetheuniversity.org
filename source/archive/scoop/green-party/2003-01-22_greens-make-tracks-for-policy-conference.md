@@ -1,9 +1,12 @@
 ---
 slug: greens-make-tracks-for-policy-conference
-title: "Greens make tracks for policy conference"
-date: 2003-01-22
-source-url: https://www.scoop.co.nz/stories/PA0301/S00167/greens-make-tracks-for-policy-conference.htm
+title: Greens make tracks for policy conference
+date: 2003-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00167/greens-make-tracks-for-policy-conference.htm
 author: green-party
+permalink: /archive/2003/01/22/greens-make-tracks-for-policy-conference/index.html
+layout: layout.njk
 ---
 Greens make tracks for policy conference
 ========================================

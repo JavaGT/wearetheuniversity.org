@@ -1,9 +1,11 @@
 ---
 slug: act-sets-the-agenda
-title: "ACT Sets the Agenda"
-date: 2017-03-14
+title: ACT Sets the Agenda
+date: 2017-03-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1703/S00206/act-sets-the-agenda.htm
 author: act-new-zealand
+permalink: /archive/2017/03/14/act-sets-the-agenda/index.html
+layout: layout.njk
 ---
 ACT Sets the Agenda
 ===================

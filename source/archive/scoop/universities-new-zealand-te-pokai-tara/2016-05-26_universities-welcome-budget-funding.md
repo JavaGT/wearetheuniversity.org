@@ -1,9 +1,12 @@
 ---
 slug: universities-welcome-budget-funding
-title: "Universities welcome Budget funding"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PO1605/S00395/universities-welcome-budget-funding.htm
+title: Universities welcome Budget funding
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00395/universities-welcome-budget-funding.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/05/26/universities-welcome-budget-funding/index.html
+layout: layout.njk
 ---
 Universities welcome Budget funding
 ===================================

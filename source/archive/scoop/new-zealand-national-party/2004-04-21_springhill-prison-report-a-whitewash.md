@@ -1,9 +1,12 @@
 ---
 slug: springhill-prison-report-a-whitewash
-title: "Springhill Prison report a whitewash"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/PA0404/S00329/springhill-prison-report-a-whitewash.htm
+title: Springhill Prison report a whitewash
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00329/springhill-prison-report-a-whitewash.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/21/springhill-prison-report-a-whitewash/index.html
+layout: layout.njk
 ---
 Springhill Prison report a whitewash
 ====================================

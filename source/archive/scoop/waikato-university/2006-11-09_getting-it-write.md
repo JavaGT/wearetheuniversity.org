@@ -1,9 +1,11 @@
 ---
 slug: getting-it-write
-title: "Getting it Write"
-date: 2006-11-09
+title: Getting it Write
+date: 2006-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0611/S00039/getting-it-write.htm
 author: waikato-university
+permalink: /archive/2006/11/09/getting-it-write/index.html
+layout: layout.njk
 ---
 Getting it Write
 ================

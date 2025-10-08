@@ -1,9 +1,13 @@
 ---
 slug: hamilton-labour-office-to-be-targetted-by-students
-title: "Hamilton Labour Office to be targetted by students"
-date: 2000-05-30
-source-url: https://www.scoop.co.nz/stories/ED0005/S00046/hamilton-labour-office-to-be-targetted-by-students.htm
+title: Hamilton Labour Office to be targetted by students
+date: 2000-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00046/hamilton-labour-office-to-be-targetted-by-students.htm
 author: fightback
+permalink: >-
+  /archive/2000/05/30/hamilton-labour-office-to-be-targetted-by-students/index.html
+layout: layout.njk
 ---
 Hamilton Labour Office to be targetted by students
 ==================================================

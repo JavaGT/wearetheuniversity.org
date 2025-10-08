@@ -1,9 +1,12 @@
 ---
 slug: katene-statutes-amendment-bill
-title: "Katene: Statutes Amendment Bill"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/PA1104/S00270/katene-statutes-amendment-bill.htm
+title: 'Katene: Statutes Amendment Bill'
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00270/katene-statutes-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/04/13/katene-statutes-amendment-bill/index.html
+layout: layout.njk
 ---
 Katene: Statutes Amendment Bill
 ===============================

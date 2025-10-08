@@ -1,9 +1,12 @@
 ---
 slug: the-importance-of-bulk-funding
-title: "The importance of bulk funding"
-date: 2000-02-18
-source-url: https://www.scoop.co.nz/stories/PA0002/S00265/the-importance-of-bulk-funding.htm
+title: The importance of bulk funding
+date: 2000-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00265/the-importance-of-bulk-funding.htm
 author: act-new-zealand
+permalink: /archive/2000/02/18/the-importance-of-bulk-funding/index.html
+layout: layout.njk
 ---
 The importance of bulk funding
 ==============================

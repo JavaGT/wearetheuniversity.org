@@ -1,9 +1,12 @@
 ---
 slug: mallards-decision-will-affect-generations
-title: "Mallard's Decision Will Affect Generations"
-date: 2001-11-09
-source-url: https://www.scoop.co.nz/stories/PA0111/S00182/mallards-decision-will-affect-generations.htm
+title: Mallard's Decision Will Affect Generations
+date: 2001-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00182/mallards-decision-will-affect-generations.htm
 author: act-new-zealand
+permalink: /archive/2001/11/09/mallards-decision-will-affect-generations/index.html
+layout: layout.njk
 ---
 Mallard's Decision Will Affect Generations
 ==========================================

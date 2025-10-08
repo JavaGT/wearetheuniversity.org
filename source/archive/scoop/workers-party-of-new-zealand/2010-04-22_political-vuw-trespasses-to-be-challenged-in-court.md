@@ -1,9 +1,13 @@
 ---
 slug: political-vuw-trespasses-to-be-challenged-in-court
-title: "Political VUW Trespasses to be Challenged in Court"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PO1004/S00231/political-vuw-trespasses-to-be-challenged-in-court.htm
+title: Political VUW Trespasses to be Challenged in Court
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00231/political-vuw-trespasses-to-be-challenged-in-court.htm
 author: workers-party-of-new-zealand
+permalink: >-
+  /archive/2010/04/22/political-vuw-trespasses-to-be-challenged-in-court/index.html
+layout: layout.njk
 ---
 Political VUW Trespasses to be Challenged in Court
 ==================================================

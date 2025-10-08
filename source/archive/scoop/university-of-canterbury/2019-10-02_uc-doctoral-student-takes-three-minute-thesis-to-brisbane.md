@@ -1,9 +1,13 @@
 ---
 slug: uc-doctoral-student-takes-three-minute-thesis-to-brisbane
-title: "UC doctoral student takes three minute thesis to Brisbane"
-date: 2019-10-02
-source-url: https://www.scoop.co.nz/stories/SC1910/S00003/uc-doctoral-student-takes-three-minute-thesis-to-brisbane.htm
+title: UC doctoral student takes three minute thesis to Brisbane
+date: 2019-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00003/uc-doctoral-student-takes-three-minute-thesis-to-brisbane.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/02/uc-doctoral-student-takes-three-minute-thesis-to-brisbane/index.html
+layout: layout.njk
 ---
 UC doctoral student takes three minute thesis to Brisbane
 =========================================================

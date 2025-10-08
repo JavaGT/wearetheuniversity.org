@@ -1,9 +1,16 @@
 ---
-slug: speech-to-newmarket-rotary-25-february-2020-challenges-and-choices-in-the-20s-david-seymour
-title: "Speech To Newmarket Rotary, 25 February 2020: \"Challenges And Choices In The 20s\" - David Seymour"
-date: 2020-02-27
-source-url: https://www.scoop.co.nz/stories/PA2002/S00174/speech-to-newmarket-rotary-25-february-2020-challenges-and-choices-in-the-20s-david-seymour.htm
+slug: >-
+  speech-to-newmarket-rotary-25-february-2020-challenges-and-choices-in-the-20s-david-seymour
+title: >-
+  Speech To Newmarket Rotary, 25 February 2020: "Challenges And Choices In The
+  20s" - David Seymour
+date: 2020-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00174/speech-to-newmarket-rotary-25-february-2020-challenges-and-choices-in-the-20s-david-seymour.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/02/27/speech-to-newmarket-rotary-25-february-2020-challenges-and-choices-in-the-20s-david-seymour/index.html
+layout: layout.njk
 ---
 Speech To Newmarket Rotary, 25 February 2020: "Challenges And Choices In The 20s" - David Seymour
 =================================================================================================

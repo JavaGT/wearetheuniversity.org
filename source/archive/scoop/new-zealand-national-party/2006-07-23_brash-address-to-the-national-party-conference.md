@@ -1,9 +1,12 @@
 ---
 slug: brash-address-to-the-national-party-conference
-title: "Brash: Address to the National Party Conference"
-date: 2006-07-23
-source-url: https://www.scoop.co.nz/stories/PA0607/S00363/brash-address-to-the-national-party-conference.htm
+title: 'Brash: Address to the National Party Conference'
+date: 2006-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00363/brash-address-to-the-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/brash-address-to-the-national-party-conference/index.html
+layout: layout.njk
 ---
 Brash: Address to the National Party Conference
 ===============================================

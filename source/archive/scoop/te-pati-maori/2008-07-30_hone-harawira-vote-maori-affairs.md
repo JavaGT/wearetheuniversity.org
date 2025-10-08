@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-vote-maori-affairs
-title: "Hone Harawira: Vote Maori Affairs"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PA0807/S00534/hone-harawira-vote-maori-affairs.htm
+title: 'Hone Harawira: Vote Maori Affairs'
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00534/hone-harawira-vote-maori-affairs.htm
 author: te-pati-maori
+permalink: /archive/2008/07/30/hone-harawira-vote-maori-affairs/index.html
+layout: layout.njk
 ---
 Hone Harawira: Vote Maori Affairs
 =================================

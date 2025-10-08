@@ -1,9 +1,12 @@
 ---
 slug: ncea-moratorium-will-be-debated
-title: "NCEA Moratorium will be Debated"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/PA0212/S00138/ncea-moratorium-will-be-debated.htm
+title: NCEA Moratorium will be Debated
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00138/ncea-moratorium-will-be-debated.htm
 author: act-new-zealand
+permalink: /archive/2002/12/05/ncea-moratorium-will-be-debated/index.html
+layout: layout.njk
 ---
 NCEA Moratorium will be Debated
 ===============================

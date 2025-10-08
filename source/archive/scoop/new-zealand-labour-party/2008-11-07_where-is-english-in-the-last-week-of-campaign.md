@@ -1,9 +1,12 @@
 ---
 slug: where-is-english-in-the-last-week-of-campaign
-title: "Where Is English In The last Week Of Campaign?"
-date: 2008-11-07
-source-url: https://www.scoop.co.nz/stories/PA0811/S00138/where-is-english-in-the-last-week-of-campaign.htm
+title: Where Is English In The last Week Of Campaign?
+date: 2008-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00138/where-is-english-in-the-last-week-of-campaign.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/07/where-is-english-in-the-last-week-of-campaign/index.html
+layout: layout.njk
 ---
 Where Is English In The last Week Of Campaign?
 ==============================================

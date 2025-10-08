@@ -1,9 +1,12 @@
 ---
 slug: counting-crime-in-new-zealand-public-lecture
-title: "Counting Crime in New Zealand – Public Lecture"
-date: 2003-08-26
-source-url: https://www.scoop.co.nz/stories/ED0308/S00089/counting-crime-in-new-zealand-public-lecture.htm
+title: Counting Crime in New Zealand – Public Lecture
+date: 2003-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00089/counting-crime-in-new-zealand-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/26/counting-crime-in-new-zealand-public-lecture/index.html
+layout: layout.njk
 ---
 Counting Crime in New Zealand – Public Lecture
 ==============================================

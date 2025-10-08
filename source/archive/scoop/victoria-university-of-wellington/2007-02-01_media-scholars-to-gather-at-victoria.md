@@ -1,9 +1,12 @@
 ---
 slug: media-scholars-to-gather-at-victoria
-title: "Media scholars to gather at Victoria"
-date: 2007-02-01
-source-url: https://www.scoop.co.nz/stories/ED0702/S00004/media-scholars-to-gather-at-victoria.htm
+title: Media scholars to gather at Victoria
+date: 2007-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00004/media-scholars-to-gather-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/01/media-scholars-to-gather-at-victoria/index.html
+layout: layout.njk
 ---
 Media scholars to gather at Victoria
 ====================================

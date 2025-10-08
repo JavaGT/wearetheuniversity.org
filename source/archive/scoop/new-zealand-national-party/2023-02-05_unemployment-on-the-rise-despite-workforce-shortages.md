@@ -1,9 +1,13 @@
 ---
 slug: unemployment-on-the-rise-despite-workforce-shortages
-title: "Unemployment On The Rise Despite Workforce Shortages"
-date: 2023-02-05
-source-url: https://www.scoop.co.nz/stories/PA2302/S00035/unemployment-on-the-rise-despite-workforce-shortages.htm
+title: Unemployment On The Rise Despite Workforce Shortages
+date: 2023-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00035/unemployment-on-the-rise-despite-workforce-shortages.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/05/unemployment-on-the-rise-despite-workforce-shortages/index.html
+layout: layout.njk
 ---
 Unemployment On The Rise Despite Workforce Shortages
 ====================================================

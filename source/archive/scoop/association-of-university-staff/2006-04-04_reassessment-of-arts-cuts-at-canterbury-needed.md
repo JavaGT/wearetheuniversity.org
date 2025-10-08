@@ -1,9 +1,12 @@
 ---
 slug: reassessment-of-arts-cuts-at-canterbury-needed
-title: "Reassessment of Arts Cuts at Canterbury Needed"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00005/reassessment-of-arts-cuts-at-canterbury-needed.htm
+title: Reassessment of Arts Cuts at Canterbury Needed
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00005/reassessment-of-arts-cuts-at-canterbury-needed.htm
 author: association-of-university-staff
+permalink: /archive/2006/04/04/reassessment-of-arts-cuts-at-canterbury-needed/index.html
+layout: layout.njk
 ---
 Reassessment of Arts Cuts at Canterbury Needed
 ==============================================

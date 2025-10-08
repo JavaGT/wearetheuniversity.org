@@ -1,9 +1,12 @@
 ---
 slug: green-party-foreign-policy-launch
-title: "Green Party Foreign Policy launch"
-date: 2008-09-17
-source-url: https://www.scoop.co.nz/stories/PA0809/S00382/green-party-foreign-policy-launch.htm
+title: Green Party Foreign Policy launch
+date: 2008-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00382/green-party-foreign-policy-launch.htm
 author: green-party
+permalink: /archive/2008/09/17/green-party-foreign-policy-launch/index.html
+layout: layout.njk
 ---
 Green Party Foreign Policy launch
 =================================

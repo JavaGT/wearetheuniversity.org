@@ -1,9 +1,12 @@
 ---
 slug: hudson-congratulates-youth-mp
-title: "Hudson congratulates Youth MP"
-date: 2016-10-18
-source-url: https://www.scoop.co.nz/stories/PA1610/S00254/hudson-congratulates-youth-mp.htm
+title: Hudson congratulates Youth MP
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00254/hudson-congratulates-youth-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2016/10/18/hudson-congratulates-youth-mp/index.html
+layout: layout.njk
 ---
 Hudson congratulates Youth MP
 =============================

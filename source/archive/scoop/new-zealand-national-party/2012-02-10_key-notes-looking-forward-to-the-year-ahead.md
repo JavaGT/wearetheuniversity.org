@@ -1,9 +1,12 @@
 ---
 slug: key-notes-looking-forward-to-the-year-ahead
-title: "Key Notes: Looking forward to the year ahead"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/PA1202/S00133/key-notes-looking-forward-to-the-year-ahead.htm
+title: 'Key Notes: Looking forward to the year ahead'
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00133/key-notes-looking-forward-to-the-year-ahead.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/10/key-notes-looking-forward-to-the-year-ahead/index.html
+layout: layout.njk
 ---
 Key Notes: Looking forward to the year ahead
 ============================================

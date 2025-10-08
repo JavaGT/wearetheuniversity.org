@@ -1,9 +1,12 @@
 ---
 slug: dominion-rd-aucklands-chinatown-study-suggests
-title: "Dominion Rd Auckland’s Chinatown, Study Suggests"
-date: 2011-06-20
-source-url: https://www.scoop.co.nz/stories/AK1106/S00540/dominion-rd-aucklands-chinatown-study-suggests.htm
+title: Dominion Rd Auckland’s Chinatown, Study Suggests
+date: 2011-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1106/S00540/dominion-rd-aucklands-chinatown-study-suggests.htm
 author: massey-university
+permalink: /archive/2011/06/20/dominion-rd-aucklands-chinatown-study-suggests/index.html
+layout: layout.njk
 ---
 Dominion Rd Auckland’s Chinatown, Study Suggests
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-2-september-2005
-title: "Beehive Bulletin 2 September 2005"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00061/beehive-bulletin-2-september-2005.htm
+title: Beehive Bulletin 2 September 2005
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00061/beehive-bulletin-2-september-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/02/beehive-bulletin-2-september-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin 2 September 2005
 =================================

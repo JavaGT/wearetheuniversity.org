@@ -1,9 +1,12 @@
 ---
 slug: response-to-anti-vivisection-campaign-group
-title: "Response to anti-vivisection campaign group"
-date: 2009-07-27
-source-url: https://www.scoop.co.nz/stories/SC0907/S00047/response-to-anti-vivisection-campaign-group.htm
+title: Response to anti-vivisection campaign group
+date: 2009-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00047/response-to-anti-vivisection-campaign-group.htm
 author: massey-university
+permalink: /archive/2009/07/27/response-to-anti-vivisection-campaign-group/index.html
+layout: layout.njk
 ---
 Response to anti-vivisection campaign group
 ===========================================

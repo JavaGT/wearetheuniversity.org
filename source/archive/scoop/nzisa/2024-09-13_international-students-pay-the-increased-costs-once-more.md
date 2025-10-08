@@ -1,9 +1,13 @@
 ---
 slug: international-students-pay-the-increased-costs-once-more
-title: "International Students Pay The Increased Costs Once More"
-date: 2024-09-13
-source-url: https://www.scoop.co.nz/stories/ED2409/S00005/international-students-pay-the-increased-costs-once-more.htm
+title: International Students Pay The Increased Costs Once More
+date: 2024-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00005/international-students-pay-the-increased-costs-once-more.htm
 author: nzisa
+permalink: >-
+  /archive/2024/09/13/international-students-pay-the-increased-costs-once-more/index.html
+layout: layout.njk
 ---
 International Students Pay The Increased Costs Once More
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: legal-practice-invaluable-sir-geoffrey-palmer
-title: "Legal practice invaluable - Sir Geoffrey Palmer"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/HL0910/S00040/legal-practice-invaluable-sir-geoffrey-palmer.htm
+title: Legal practice invaluable - Sir Geoffrey Palmer
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0910/S00040/legal-practice-invaluable-sir-geoffrey-palmer.htm
 author: salient
+permalink: /archive/2009/10/05/legal-practice-invaluable-sir-geoffrey-palmer/index.html
+layout: layout.njk
 ---
 Legal practice invaluable - Sir Geoffrey Palmer
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: more-support-needed-for-maori-boarding-schools
-title: "More Support Needed for Maori Boarding Schools"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/PA1509/S00181/more-support-needed-for-maori-boarding-schools.htm
+title: More Support Needed for Maori Boarding Schools
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00181/more-support-needed-for-maori-boarding-schools.htm
 author: new-zealand-first-party
+permalink: /archive/2015/09/10/more-support-needed-for-maori-boarding-schools/index.html
+layout: layout.njk
 ---
 More Support Needed for Maori Boarding Schools
 ==============================================

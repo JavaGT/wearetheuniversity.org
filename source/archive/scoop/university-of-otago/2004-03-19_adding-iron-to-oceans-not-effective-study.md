@@ -1,9 +1,12 @@
 ---
 slug: adding-iron-to-oceans-not-effective-study
-title: "Adding Iron To Oceans Not Effective - Study"
-date: 2004-03-19
-source-url: https://www.scoop.co.nz/stories/SC0403/S00073/adding-iron-to-oceans-not-effective-study.htm
+title: Adding Iron To Oceans Not Effective - Study
+date: 2004-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0403/S00073/adding-iron-to-oceans-not-effective-study.htm
 author: university-of-otago
+permalink: /archive/2004/03/19/adding-iron-to-oceans-not-effective-study/index.html
+layout: layout.njk
 ---
 Adding Iron To Oceans Not Effective - Study
 ===========================================

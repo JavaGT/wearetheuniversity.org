@@ -1,9 +1,12 @@
 ---
 slug: crumbs-from-the-property-speculators-table
-title: "Crumbs From The Property Speculator’s Table"
-date: 2023-08-30
-source-url: https://www.scoop.co.nz/stories/PA2308/S00196/crumbs-from-the-property-speculators-table.htm
+title: Crumbs From The Property Speculator’s Table
+date: 2023-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00196/crumbs-from-the-property-speculators-table.htm
 author: green-party
+permalink: /archive/2023/08/30/crumbs-from-the-property-speculators-table/index.html
+layout: layout.njk
 ---
 Crumbs From The Property Speculator’s Table
 ===========================================

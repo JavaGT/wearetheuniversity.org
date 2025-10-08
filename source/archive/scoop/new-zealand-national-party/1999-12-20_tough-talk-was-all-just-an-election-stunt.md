@@ -1,9 +1,12 @@
 ---
 slug: tough-talk-was-all-just-an-election-stunt
-title: "Tough Talk Was All Just An Election Stunt"
-date: 1999-12-20
-source-url: https://www.scoop.co.nz/stories/PA9912/S00084/tough-talk-was-all-just-an-election-stunt.htm
+title: Tough Talk Was All Just An Election Stunt
+date: 1999-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00084/tough-talk-was-all-just-an-election-stunt.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/20/tough-talk-was-all-just-an-election-stunt/index.html
+layout: layout.njk
 ---
 Tough Talk Was All Just An Election Stunt
 =========================================

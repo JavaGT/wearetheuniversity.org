@@ -1,9 +1,11 @@
 ---
 slug: denise-lee-mp-maiden-speech
-title: "Denise Lee MP: Maiden speech"
-date: 2017-11-14
+title: 'Denise Lee MP: Maiden speech'
+date: 2017-11-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1711/S00080/denise-lee-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/denise-lee-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Denise Lee MP: Maiden speech
 ============================

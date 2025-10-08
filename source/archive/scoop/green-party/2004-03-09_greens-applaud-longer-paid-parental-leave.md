@@ -1,9 +1,12 @@
 ---
 slug: greens-applaud-longer-paid-parental-leave
-title: "Greens applaud longer paid parental leave"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00182/greens-applaud-longer-paid-parental-leave.htm
+title: Greens applaud longer paid parental leave
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00182/greens-applaud-longer-paid-parental-leave.htm
 author: green-party
+permalink: /archive/2004/03/09/greens-applaud-longer-paid-parental-leave/index.html
+layout: layout.njk
 ---
 Greens applaud longer paid parental leave
 =========================================

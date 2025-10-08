@@ -1,9 +1,12 @@
 ---
 slug: committee-represents-broad-cross-section-of-nz
-title: "Committee Represents Broad Cross Section Of NZ"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/PO0105/S00143/committee-represents-broad-cross-section-of-nz.htm
+title: Committee Represents Broad Cross Section Of NZ
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0105/S00143/committee-represents-broad-cross-section-of-nz.htm
 author: auckland-university
+permalink: /archive/2001/05/31/committee-represents-broad-cross-section-of-nz/index.html
+layout: layout.njk
 ---
 Committee Represents Broad Cross Section Of NZ
 ==============================================

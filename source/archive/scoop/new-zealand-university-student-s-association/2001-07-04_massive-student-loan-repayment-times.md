@@ -1,9 +1,12 @@
 ---
 slug: massive-student-loan-repayment-times
-title: "Massive Student Loan Repayment Times"
-date: 2001-07-04
-source-url: https://www.scoop.co.nz/stories/ED0107/S00004/massive-student-loan-repayment-times.htm
+title: Massive Student Loan Repayment Times
+date: 2001-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00004/massive-student-loan-repayment-times.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/04/massive-student-loan-repayment-times/index.html
+layout: layout.njk
 ---
 Massive Student Loan Repayment Times
 ====================================

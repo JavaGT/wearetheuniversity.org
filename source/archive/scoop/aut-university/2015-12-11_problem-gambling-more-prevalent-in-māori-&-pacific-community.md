@@ -1,9 +1,12 @@
 ---
 slug: problem-gambling-more-prevalent-in-māori-&-pacific-community
-title: "Problem gambling more prevalent in Māori & Pacific community"
-date: 2015-12-11
-source-url: https://www.scoop.co.nz/stories/PO1512/S00157/problem-gambling-more-prevalent-in-maori-pacific-community.htm
+title: Problem gambling more prevalent in Māori & Pacific community
+date: 2015-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00157/problem-gambling-more-prevalent-in-maori-pacific-community.htm
 author: aut-university
+permalink: /archive/2015/12/11/problem-gambling-more-prevalent-in-m/index.html
+layout: layout.njk
 ---
 Problem gambling more prevalent in Māori & Pacific community
 ============================================================

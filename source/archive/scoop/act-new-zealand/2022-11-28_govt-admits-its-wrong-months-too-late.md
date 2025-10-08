@@ -1,9 +1,12 @@
 ---
 slug: govt-admits-its-wrong-months-too-late
-title: "Govt Admits It’s Wrong – Months Too Late"
-date: 2022-11-28
-source-url: https://www.scoop.co.nz/stories/PA2211/S00240/govt-admits-its-wrong-months-too-late.htm
+title: Govt Admits It’s Wrong – Months Too Late
+date: 2022-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00240/govt-admits-its-wrong-months-too-late.htm
 author: act-new-zealand
+permalink: /archive/2022/11/28/govt-admits-its-wrong-months-too-late/index.html
+layout: layout.njk
 ---
 Govt Admits It’s Wrong – Months Too Late
 ========================================

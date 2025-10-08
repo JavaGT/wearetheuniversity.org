@@ -1,9 +1,13 @@
 ---
 slug: law-does-not-have-effective-probationary-periods
-title: "Law does not have effective probationary periods"
-date: 2006-07-02
-source-url: https://www.scoop.co.nz/stories/PA0607/S00007/law-does-not-have-effective-probationary-periods.htm
+title: Law does not have effective probationary periods
+date: 2006-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00007/law-does-not-have-effective-probationary-periods.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/07/02/law-does-not-have-effective-probationary-periods/index.html
+layout: layout.njk
 ---
 Law does not have effective probationary periods
 ================================================

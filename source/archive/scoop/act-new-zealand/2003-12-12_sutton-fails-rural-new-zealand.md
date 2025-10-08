@@ -1,9 +1,12 @@
 ---
 slug: sutton-fails-rural-new-zealand
-title: "Sutton Fails Rural New Zealand"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/PA0312/S00302/sutton-fails-rural-new-zealand.htm
+title: Sutton Fails Rural New Zealand
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00302/sutton-fails-rural-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2003/12/12/sutton-fails-rural-new-zealand/index.html
+layout: layout.njk
 ---
 Sutton Fails Rural New Zealand
 ==============================

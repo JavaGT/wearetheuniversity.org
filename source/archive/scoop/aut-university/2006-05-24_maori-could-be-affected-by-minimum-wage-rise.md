@@ -1,9 +1,12 @@
 ---
 slug: maori-could-be-affected-by-minimum-wage-rise
-title: "Maori could be affected by minimum wage rise"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/ED0605/S00092/maori-could-be-affected-by-minimum-wage-rise.htm
+title: Maori could be affected by minimum wage rise
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00092/maori-could-be-affected-by-minimum-wage-rise.htm
 author: aut-university
+permalink: /archive/2006/05/24/maori-could-be-affected-by-minimum-wage-rise/index.html
+layout: layout.njk
 ---
 Maori could be affected by minimum wage rise
 ============================================

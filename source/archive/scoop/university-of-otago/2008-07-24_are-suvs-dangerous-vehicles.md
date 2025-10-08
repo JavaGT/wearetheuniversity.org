@@ -1,9 +1,11 @@
 ---
 slug: are-suvs-dangerous-vehicles
-title: "Are SUVs Dangerous Vehicles?"
-date: 2008-07-24
+title: Are SUVs Dangerous Vehicles?
+date: 2008-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0807/S00127/are-suvs-dangerous-vehicles.htm
 author: university-of-otago
+permalink: /archive/2008/07/24/are-suvs-dangerous-vehicles/index.html
+layout: layout.njk
 ---
 Are SUVs Dangerous Vehicles?
 ============================

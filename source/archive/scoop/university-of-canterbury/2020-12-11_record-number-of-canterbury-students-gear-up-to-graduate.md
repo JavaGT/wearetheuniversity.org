@@ -1,9 +1,13 @@
 ---
 slug: record-number-of-canterbury-students-gear-up-to-graduate
-title: "Record Number Of Canterbury Students Gear Up To Graduate"
-date: 2020-12-11
-source-url: https://www.scoop.co.nz/stories/ED2012/S00024/record-number-of-canterbury-students-gear-up-to-graduate.htm
+title: Record Number Of Canterbury Students Gear Up To Graduate
+date: 2020-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00024/record-number-of-canterbury-students-gear-up-to-graduate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/11/record-number-of-canterbury-students-gear-up-to-graduate/index.html
+layout: layout.njk
 ---
 Record Number Of Canterbury Students Gear Up To Graduate
 ========================================================

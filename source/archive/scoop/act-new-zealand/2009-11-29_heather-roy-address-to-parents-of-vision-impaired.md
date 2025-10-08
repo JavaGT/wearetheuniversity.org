@@ -1,9 +1,13 @@
 ---
 slug: heather-roy-address-to-parents-of-vision-impaired
-title: "Heather Roy address to  Parents of Vision Impaired"
-date: 2009-11-29
-source-url: https://www.scoop.co.nz/stories/PA0911/S00458/heather-roy-address-to-parents-of-vision-impaired.htm
+title: Heather Roy address to  Parents of Vision Impaired
+date: 2009-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00458/heather-roy-address-to-parents-of-vision-impaired.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2009/11/29/heather-roy-address-to-parents-of-vision-impaired/index.html
+layout: layout.njk
 ---
 Heather Roy address to Parents of Vision Impaired
 =================================================

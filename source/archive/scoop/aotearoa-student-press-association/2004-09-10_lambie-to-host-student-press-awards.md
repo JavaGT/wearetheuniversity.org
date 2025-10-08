@@ -1,9 +1,12 @@
 ---
 slug: lambie-to-host-student-press-awards
-title: "Lambie to host student press awards"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00037/lambie-to-host-student-press-awards.htm
+title: Lambie to host student press awards
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00037/lambie-to-host-student-press-awards.htm
 author: aotearoa-student-press-association
+permalink: /archive/2004/09/10/lambie-to-host-student-press-awards/index.html
+layout: layout.njk
 ---
 Lambie to host student press awards
 ===================================

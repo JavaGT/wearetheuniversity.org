@@ -1,9 +1,13 @@
 ---
 slug: mike-williams-address-to-the-labour-party-congress
-title: "Mike Williams Address to the Labour Party Congress"
-date: 2002-05-20
-source-url: https://www.scoop.co.nz/stories/PO0205/S00183/mike-williams-address-to-the-labour-party-congress.htm
+title: Mike Williams Address to the Labour Party Congress
+date: 2002-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00183/mike-williams-address-to-the-labour-party-congress.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2002/05/20/mike-williams-address-to-the-labour-party-congress/index.html
+layout: layout.njk
 ---
 Mike Williams Address to the Labour Party Congress
 ==================================================

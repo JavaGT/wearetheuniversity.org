@@ -1,9 +1,13 @@
 ---
 slug: study-provides-individual-risk-estimates-for-stomach-cancer
-title: "Study provides individual risk estimates for stomach cancer"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/SC1502/S00023/study-provides-individual-risk-estimates-for-stomach-cancer.htm
+title: Study provides individual risk estimates for stomach cancer
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1502/S00023/study-provides-individual-risk-estimates-for-stomach-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/13/study-provides-individual-risk-estimates-for-stomach-cancer/index.html
+layout: layout.njk
 ---
 Study provides individual risk estimates for stomach cancer
 ===========================================================

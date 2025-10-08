@@ -1,9 +1,13 @@
 ---
 slug: professor-of-animal-welfare-gains-top-fellowship
-title: "Professor of animal welfare gains top fellowship"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/SC1008/S00036/professor-of-animal-welfare-gains-top-fellowship.htm
+title: Professor of animal welfare gains top fellowship
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00036/professor-of-animal-welfare-gains-top-fellowship.htm
 author: massey-university
+permalink: >-
+  /archive/2010/08/17/professor-of-animal-welfare-gains-top-fellowship/index.html
+layout: layout.njk
 ---
 Professor of animal welfare gains top fellowship
 ================================================

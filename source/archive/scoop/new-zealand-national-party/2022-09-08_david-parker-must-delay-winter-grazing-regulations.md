@@ -1,9 +1,13 @@
 ---
 slug: david-parker-must-delay-winter-grazing-regulations
-title: "David Parker Must Delay Winter Grazing Regulations"
-date: 2022-09-08
-source-url: https://www.scoop.co.nz/stories/PA2209/S00047/david-parker-must-delay-winter-grazing-regulations.htm
+title: David Parker Must Delay Winter Grazing Regulations
+date: 2022-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00047/david-parker-must-delay-winter-grazing-regulations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/09/08/david-parker-must-delay-winter-grazing-regulations/index.html
+layout: layout.njk
 ---
 David Parker Must Delay Winter Grazing Regulations
 ==================================================

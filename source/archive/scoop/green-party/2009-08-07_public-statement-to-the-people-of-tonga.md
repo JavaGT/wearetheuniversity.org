@@ -1,9 +1,12 @@
 ---
 slug: public-statement-to-the-people-of-tonga
-title: "Public statement to the People of Tonga"
-date: 2009-08-07
-source-url: https://www.scoop.co.nz/stories/PA0908/S00112/public-statement-to-the-people-of-tonga.htm
+title: Public statement to the People of Tonga
+date: 2009-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00112/public-statement-to-the-people-of-tonga.htm
 author: green-party
+permalink: /archive/2009/08/07/public-statement-to-the-people-of-tonga/index.html
+layout: layout.njk
 ---
 Public statement to the People of Tonga
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: healthy-housing-study-reduces-asthma-severity
-title: "Healthy housing study reduces asthma severity"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/GE0705/S00018/healthy-housing-study-reduces-asthma-severity.htm
+title: Healthy housing study reduces asthma severity
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00018/healthy-housing-study-reduces-asthma-severity.htm
 author: university-of-otago
+permalink: /archive/2007/05/02/healthy-housing-study-reduces-asthma-severity/index.html
+layout: layout.njk
 ---
 Healthy housing study reduces asthma severity
 =============================================

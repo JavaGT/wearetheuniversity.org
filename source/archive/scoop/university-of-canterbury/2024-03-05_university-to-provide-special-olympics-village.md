@@ -1,9 +1,12 @@
 ---
 slug: university-to-provide-special-olympics-village
-title: "University To Provide Special Olympics Village"
-date: 2024-03-05
-source-url: https://www.scoop.co.nz/stories/ED2403/S00004/university-to-provide-special-olympics-village.htm
+title: University To Provide Special Olympics Village
+date: 2024-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00004/university-to-provide-special-olympics-village.htm
 author: university-of-canterbury
+permalink: /archive/2024/03/05/university-to-provide-special-olympics-village/index.html
+layout: layout.njk
 ---
 University To Provide Special Olympics Village
 ==============================================

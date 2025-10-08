@@ -1,9 +1,13 @@
 ---
 slug: investors-need-not-lose-sleep-over-daylight-saving
-title: "Investors need not lose sleep over daylight saving"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/BU0909/S00677/investors-need-not-lose-sleep-over-daylight-saving.htm
+title: Investors need not lose sleep over daylight saving
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0909/S00677/investors-need-not-lose-sleep-over-daylight-saving.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/24/investors-need-not-lose-sleep-over-daylight-saving/index.html
+layout: layout.njk
 ---
 Investors need not lose sleep over daylight saving
 ==================================================

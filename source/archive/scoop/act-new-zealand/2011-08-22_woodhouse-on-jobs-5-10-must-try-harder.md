@@ -1,9 +1,12 @@
 ---
 slug: woodhouse-on-jobs-5-10-must-try-harder
-title: "Woodhouse On Jobs: 5/10. Must Try Harder"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/PA1108/S00461/woodhouse-on-jobs-510-must-try-harder.htm
+title: 'Woodhouse On Jobs: 5/10. Must Try Harder'
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00461/woodhouse-on-jobs-510-must-try-harder.htm
 author: act-new-zealand
+permalink: /archive/2011/08/22/woodhouse-on-jobs-5-10-must-try-harder/index.html
+layout: layout.njk
 ---
 Woodhouse On Jobs: 5/10. Must Try Harder
 ========================================

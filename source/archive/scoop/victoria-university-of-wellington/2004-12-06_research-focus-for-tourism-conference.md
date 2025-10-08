@@ -1,9 +1,12 @@
 ---
 slug: research-focus-for-tourism-conference
-title: "Research focus for tourism conference"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/ED0412/S00018/research-focus-for-tourism-conference.htm
+title: Research focus for tourism conference
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00018/research-focus-for-tourism-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/12/06/research-focus-for-tourism-conference/index.html
+layout: layout.njk
 ---
 Research focus for tourism conference
 =====================================

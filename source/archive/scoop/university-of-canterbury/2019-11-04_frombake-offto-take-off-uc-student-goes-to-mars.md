@@ -1,9 +1,12 @@
 ---
 slug: frombake-offto-take-off-uc-student-goes-to-mars
-title: "FromBake-offto take-off: UC student goes to ‘Mars’"
-date: 2019-11-04
-source-url: https://www.scoop.co.nz/stories/ED1911/S00006/frombake-offto-take-off-uc-student-goes-to-mars.htm
+title: 'FromBake-offto take-off: UC student goes to ‘Mars’'
+date: 2019-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00006/frombake-offto-take-off-uc-student-goes-to-mars.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/04/frombake-offto-take-off-uc-student-goes-to-mars/index.html
+layout: layout.njk
 ---
 FromBake-offto take-off: UC student goes to ‘Mars’
 ==================================================

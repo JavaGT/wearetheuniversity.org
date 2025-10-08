@@ -1,9 +1,12 @@
 ---
 slug: man-meets-machine-human-computer-interaction
-title: "Man meets Machine - Human-Computer Interaction"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/SC1504/S00065/man-meets-machine-human-computer-interaction.htm
+title: Man meets Machine - Human-Computer Interaction
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00065/man-meets-machine-human-computer-interaction.htm
 author: auckland-university
+permalink: /archive/2015/04/22/man-meets-machine-human-computer-interaction/index.html
+layout: layout.njk
 ---
 Man meets Machine - Human-Computer Interaction
 ==============================================

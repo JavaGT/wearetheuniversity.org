@@ -1,9 +1,12 @@
 ---
 slug: productivity-commission-chair-awarded
-title: "Productivity Commission chair awarded"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/PO1207/S00391/productivity-commission-chair-awarded.htm
+title: Productivity Commission chair awarded
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00391/productivity-commission-chair-awarded.htm
 author: university-of-waikato
+permalink: /archive/2012/07/30/productivity-commission-chair-awarded/index.html
+layout: layout.njk
 ---
 Productivity Commission chair awarded
 =====================================

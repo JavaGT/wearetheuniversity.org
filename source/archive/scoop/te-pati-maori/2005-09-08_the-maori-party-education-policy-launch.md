@@ -1,9 +1,12 @@
 ---
 slug: the-maori-party-education-policy-launch
-title: "The Maori Party: Education Policy Launch"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00222/the-maori-party-education-policy-launch.htm
+title: 'The Maori Party: Education Policy Launch'
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00222/the-maori-party-education-policy-launch.htm
 author: te-pati-maori
+permalink: /archive/2005/09/08/the-maori-party-education-policy-launch/index.html
+layout: layout.njk
 ---
 The Maori Party: Education Policy Launch
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: growing-interest-rates-strangling-economy
-title: "Growing Interest Rates Strangling Economy"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/PA0409/S00187/growing-interest-rates-strangling-economy.htm
+title: Growing Interest Rates Strangling Economy
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00187/growing-interest-rates-strangling-economy.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/09/growing-interest-rates-strangling-economy/index.html
+layout: layout.njk
 ---
 Growing Interest Rates Strangling Economy
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: exceptional-students-dreams-to-advance-asian-development
-title: "Exceptional student’s dreams to advance Asian development"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/ED1404/S00016/exceptional-students-dreams-to-advance-asian-development.htm
+title: Exceptional student’s dreams to advance Asian development
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00016/exceptional-students-dreams-to-advance-asian-development.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/04/03/exceptional-students-dreams-to-advance-asian-development/index.html
+layout: layout.njk
 ---
 Exceptional student’s dreams to advance Asian development
 =========================================================

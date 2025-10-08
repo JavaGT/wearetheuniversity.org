@@ -1,9 +1,13 @@
 ---
 slug: labour-running-out-of-foreign-excuses-for-inflation
-title: "Labour Running Out Of Foreign Excuses For Inflation"
-date: 2022-10-18
-source-url: https://www.scoop.co.nz/stories/PA2210/S00115/labour-running-out-of-foreign-excuses-for-inflation.htm
+title: Labour Running Out Of Foreign Excuses For Inflation
+date: 2022-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00115/labour-running-out-of-foreign-excuses-for-inflation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/18/labour-running-out-of-foreign-excuses-for-inflation/index.html
+layout: layout.njk
 ---
 Labour Running Out Of Foreign Excuses For Inflation
 ===================================================

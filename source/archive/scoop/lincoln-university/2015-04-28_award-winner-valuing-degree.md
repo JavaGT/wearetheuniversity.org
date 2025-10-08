@@ -1,9 +1,11 @@
 ---
 slug: award-winner-valuing-degree
-title: "Award winner valuing degree"
-date: 2015-04-28
+title: Award winner valuing degree
+date: 2015-04-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1504/S00616/award-winner-valuing-degree.htm
 author: lincoln-university
+permalink: /archive/2015/04/28/award-winner-valuing-degree/index.html
+layout: layout.njk
 ---
 Award winner valuing degree
 ===========================

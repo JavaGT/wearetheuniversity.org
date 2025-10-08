@@ -1,9 +1,12 @@
 ---
 slug: flexibility-must-not-compromise-quality-in-ece
-title: "Flexibility Must Not Compromise Quality In ECE"
-date: 2008-10-03
-source-url: https://www.scoop.co.nz/stories/ED0810/S00012/flexibility-must-not-compromise-quality-in-ece.htm
+title: Flexibility Must Not Compromise Quality In ECE
+date: 2008-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00012/flexibility-must-not-compromise-quality-in-ece.htm
 author: nzei
+permalink: /archive/2008/10/03/flexibility-must-not-compromise-quality-in-ece/index.html
+layout: layout.njk
 ---
 Flexibility Must Not Compromise Quality In ECE
 ==============================================

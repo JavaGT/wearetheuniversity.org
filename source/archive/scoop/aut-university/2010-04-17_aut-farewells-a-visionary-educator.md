@@ -1,9 +1,12 @@
 ---
 slug: aut-farewells-a-visionary-educator
-title: "AUT Farewells A Visionary Educator"
-date: 2010-04-17
-source-url: https://www.scoop.co.nz/stories/ED1004/S00038/aut-farewells-a-visionary-educator.htm
+title: AUT Farewells A Visionary Educator
+date: 2010-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00038/aut-farewells-a-visionary-educator.htm
 author: aut-university
+permalink: /archive/2010/04/17/aut-farewells-a-visionary-educator/index.html
+layout: layout.njk
 ---
 AUT Farewells A Visionary Educator
 ==================================

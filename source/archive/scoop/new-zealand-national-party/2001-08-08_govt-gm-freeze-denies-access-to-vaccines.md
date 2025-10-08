@@ -1,9 +1,12 @@
 ---
 slug: govt-gm-freeze-denies-access-to-vaccines
-title: "Govt GM Freeze Denies Access To Vaccines"
-date: 2001-08-08
-source-url: https://www.scoop.co.nz/stories/PA0108/S00176/govt-gm-freeze-denies-access-to-vaccines.htm
+title: Govt GM Freeze Denies Access To Vaccines
+date: 2001-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00176/govt-gm-freeze-denies-access-to-vaccines.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/08/govt-gm-freeze-denies-access-to-vaccines/index.html
+layout: layout.njk
 ---
 Govt GM Freeze Denies Access To Vaccines
 ========================================

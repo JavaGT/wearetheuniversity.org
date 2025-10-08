@@ -1,9 +1,12 @@
 ---
 slug: mallard-talks-the-talk-walks-away
-title: "Mallard Talks The Talk, Walks ... Away?"
-date: 2003-11-19
-source-url: https://www.scoop.co.nz/stories/PA0311/S00397/mallard-talks-the-talk-walks-away.htm
+title: Mallard Talks The Talk, Walks ... Away?
+date: 2003-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00397/mallard-talks-the-talk-walks-away.htm
 author: act-new-zealand
+permalink: /archive/2003/11/19/mallard-talks-the-talk-walks-away/index.html
+layout: layout.njk
 ---
 Mallard Talks The Talk, Walks ... Away?
 =======================================

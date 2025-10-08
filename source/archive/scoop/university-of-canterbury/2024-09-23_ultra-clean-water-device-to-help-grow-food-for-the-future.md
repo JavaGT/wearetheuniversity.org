@@ -1,9 +1,13 @@
 ---
 slug: ultra-clean-water-device-to-help-grow-food-for-the-future
-title: "Ultra-clean Water Device To Help Grow Food For The Future"
-date: 2024-09-23
-source-url: https://www.scoop.co.nz/stories/ED2409/S00048/ultra-clean-water-device-to-help-grow-food-for-the-future.htm
+title: Ultra-clean Water Device To Help Grow Food For The Future
+date: 2024-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00048/ultra-clean-water-device-to-help-grow-food-for-the-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/23/ultra-clean-water-device-to-help-grow-food-for-the-future/index.html
+layout: layout.njk
 ---
 Ultra-clean Water Device To Help Grow Food For The Future
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: fairness-rallies-the-start-more-to-come
-title: "Fairness rallies the start – more to come"
-date: 2010-08-22
-source-url: https://www.scoop.co.nz/stories/PO1008/S00257/fairness-rallies-the-start-more-to-come.htm
+title: Fairness rallies the start – more to come
+date: 2010-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00257/fairness-rallies-the-start-more-to-come.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/22/fairness-rallies-the-start-more-to-come/index.html
+layout: layout.njk
 ---
 Fairness rallies the start – more to come
 =========================================

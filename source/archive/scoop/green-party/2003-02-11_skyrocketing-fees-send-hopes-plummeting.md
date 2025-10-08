@@ -1,9 +1,12 @@
 ---
 slug: skyrocketing-fees-send-hopes-plummeting
-title: "Skyrocketing fees send hopes plummeting"
-date: 2003-02-11
-source-url: https://www.scoop.co.nz/stories/PA0302/S00119/skyrocketing-fees-send-hopes-plummeting.htm
+title: Skyrocketing fees send hopes plummeting
+date: 2003-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00119/skyrocketing-fees-send-hopes-plummeting.htm
 author: green-party
+permalink: /archive/2003/02/11/skyrocketing-fees-send-hopes-plummeting/index.html
+layout: layout.njk
 ---
 Skyrocketing fees send hopes plummeting
 =======================================

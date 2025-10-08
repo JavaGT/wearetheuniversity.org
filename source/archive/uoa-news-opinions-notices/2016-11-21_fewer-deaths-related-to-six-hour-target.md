@@ -1,8 +1,11 @@
 ---
 slug: fewer-deaths-related-to-six-hour-target
-title: "Fewer deaths related to six-hour target"
-date: 2016-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/fewer-deaths-related-to-six-hour-target.html
+title: Fewer deaths related to six-hour target
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/fewer-deaths-related-to-six-hour-target.html
+permalink: /archive/2016/11/21/fewer-deaths-related-to-six-hour-target/index.html
+layout: layout.njk
 ---
 Fewer deaths related to six-hour target
 =======================================

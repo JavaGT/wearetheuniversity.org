@@ -1,9 +1,12 @@
 ---
 slug: government-continues-with-maori-bashing-agenda
-title: "Government continues with Maori-bashing agenda"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/PO0506/S00272/government-continues-with-maori-bashing-agenda.htm
+title: Government continues with Maori-bashing agenda
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00272/government-continues-with-maori-bashing-agenda.htm
 author: te-mana-akonga
+permalink: /archive/2005/06/24/government-continues-with-maori-bashing-agenda/index.html
+layout: layout.njk
 ---
 Government continues with Maori-bashing agenda
 ==============================================

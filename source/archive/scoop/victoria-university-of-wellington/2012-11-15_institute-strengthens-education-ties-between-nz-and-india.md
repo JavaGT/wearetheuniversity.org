@@ -1,9 +1,13 @@
 ---
 slug: institute-strengthens-education-ties-between-nz-and-india
-title: "Institute Strengthens Education Ties between NZ and India"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00110/institute-strengthens-education-ties-between-nz-and-india.htm
+title: Institute Strengthens Education Ties between NZ and India
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00110/institute-strengthens-education-ties-between-nz-and-india.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/11/15/institute-strengthens-education-ties-between-nz-and-india/index.html
+layout: layout.njk
 ---
 Institute Strengthens Education Ties between NZ and India
 =========================================================

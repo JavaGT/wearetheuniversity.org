@@ -1,9 +1,12 @@
 ---
 slug: aus-sees-positive-developments-from-the-budget
-title: "AUS sees positive developments from the Budget"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00045/aus-sees-positive-developments-from-the-budget.htm
+title: AUS sees positive developments from the Budget
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00045/aus-sees-positive-developments-from-the-budget.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/23/aus-sees-positive-developments-from-the-budget/index.html
+layout: layout.njk
 ---
 AUS sees positive developments from the Budget
 ==============================================

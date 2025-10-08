@@ -1,9 +1,12 @@
 ---
 slug: govt-must-negotiate-with-teachers-in-good-faith
-title: "Govt must negotiate with teachers in good faith"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/ED1009/S00066/govt-must-negotiate-with-teachers-in-good-faith.htm
+title: Govt must negotiate with teachers in good faith
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00066/govt-must-negotiate-with-teachers-in-good-faith.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/09/14/govt-must-negotiate-with-teachers-in-good-faith/index.html
+layout: layout.njk
 ---
 Govt must negotiate with teachers in good faith
 ===============================================

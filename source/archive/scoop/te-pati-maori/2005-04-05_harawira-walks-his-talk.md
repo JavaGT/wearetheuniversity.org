@@ -1,9 +1,11 @@
 ---
 slug: harawira-walks-his-talk
-title: "Harawira Walks His Talk"
-date: 2005-04-05
+title: Harawira Walks His Talk
+date: 2005-04-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0504/S00071/harawira-walks-his-talk.htm
 author: te-pati-maori
+permalink: /archive/2005/04/05/harawira-walks-his-talk/index.html
+layout: layout.njk
 ---
 Harawira Walks His Talk
 =======================

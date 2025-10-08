@@ -1,9 +1,12 @@
 ---
 slug: smoking-increases-risk-of-depression
-title: "Smoking increases risk of depression"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/GE1006/S00002/smoking-increases-risk-of-depression.htm
+title: Smoking increases risk of depression
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00002/smoking-increases-risk-of-depression.htm
 author: university-of-otago
+permalink: /archive/2010/06/01/smoking-increases-risk-of-depression/index.html
+layout: layout.njk
 ---
 Smoking increases risk of depression
 ====================================

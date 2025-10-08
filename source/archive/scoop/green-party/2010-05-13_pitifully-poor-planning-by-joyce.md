@@ -1,9 +1,12 @@
 ---
 slug: pitifully-poor-planning-by-joyce
-title: "Pitifully-poor planning by Joyce"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/PA1005/S00196/pitifully-poor-planning-by-joyce.htm
+title: Pitifully-poor planning by Joyce
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00196/pitifully-poor-planning-by-joyce.htm
 author: green-party
+permalink: /archive/2010/05/13/pitifully-poor-planning-by-joyce/index.html
+layout: layout.njk
 ---
 Pitifully-poor planning by Joyce
 ================================

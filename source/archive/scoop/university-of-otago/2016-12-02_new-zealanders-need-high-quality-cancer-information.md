@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-need-high-quality-cancer-information
-title: "New Zealanders need high quality cancer information"
-date: 2016-12-02
-source-url: https://www.scoop.co.nz/stories/GE1612/S00016/new-zealanders-need-high-quality-cancer-information.htm
+title: New Zealanders need high quality cancer information
+date: 2016-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00016/new-zealanders-need-high-quality-cancer-information.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/02/new-zealanders-need-high-quality-cancer-information/index.html
+layout: layout.njk
 ---
 New Zealanders need high quality cancer information
 ===================================================

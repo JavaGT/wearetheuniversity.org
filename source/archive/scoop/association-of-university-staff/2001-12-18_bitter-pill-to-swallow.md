@@ -1,9 +1,11 @@
 ---
 slug: bitter-pill-to-swallow
-title: "\"Bitter pill to swallow.\""
-date: 2001-12-18
+title: '"Bitter pill to swallow."'
+date: 2001-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0112/S00022/bitter-pill-to-swallow.htm
 author: association-of-university-staff
+permalink: /archive/2001/12/18/bitter-pill-to-swallow/index.html
+layout: layout.njk
 ---
 “Bitter pill to swallow.”
 =========================

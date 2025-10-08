@@ -1,9 +1,16 @@
 ---
-slug: air-pollution-is-killing-millions-and-rising-exponentially—a-shift-in-agriculture-can-solve-it
-title: "Air Pollution Is Killing Millions And Rising Exponentially—A Shift In Agriculture Can Solve It"
-date: 2024-06-25
-source-url: https://www.scoop.co.nz/stories/WO2406/S00282/air-pollution-is-killing-millions-and-rising-exponentially-a-shift-in-agriculture-can-solve-it.htm
+slug: >-
+  air-pollution-is-killing-millions-and-rising-exponentially—a-shift-in-agriculture-can-solve-it
+title: >-
+  Air Pollution Is Killing Millions And Rising Exponentially—A Shift In
+  Agriculture Can Solve It
+date: 2024-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2406/S00282/air-pollution-is-killing-millions-and-rising-exponentially-a-shift-in-agriculture-can-solve-it.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/06/25/air-pollution-is-killing-millions-and-rising-exponentially/index.html
+layout: layout.njk
 ---
 Air Pollution Is Killing Millions And Rising Exponentially—A Shift In Agriculture Can Solve It
 ==============================================================================================

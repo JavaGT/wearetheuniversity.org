@@ -1,9 +1,13 @@
 ---
 slug: aucklands-old-brick-buildings-are-on-shaky-ground
-title: "Auckland’s old brick buildings are on shaky ground"
-date: 2007-05-23
-source-url: https://www.scoop.co.nz/stories/ED0705/S00097/aucklands-old-brick-buildings-are-on-shaky-ground.htm
+title: Auckland’s old brick buildings are on shaky ground
+date: 2007-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00097/aucklands-old-brick-buildings-are-on-shaky-ground.htm
 author: auckland-university
+permalink: >-
+  /archive/2007/05/23/aucklands-old-brick-buildings-are-on-shaky-ground/index.html
+layout: layout.njk
 ---
 Auckland’s old brick buildings are on shaky ground
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-shows-no-interest-in-pacific-unemployment
-title: "Minister shows no interest in Pacific unemployment"
-date: 2010-02-12
-source-url: https://www.scoop.co.nz/stories/PA1002/S00153/minister-shows-no-interest-in-pacific-unemployment.htm
+title: Minister shows no interest in Pacific unemployment
+date: 2010-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00153/minister-shows-no-interest-in-pacific-unemployment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/12/minister-shows-no-interest-in-pacific-unemployment/index.html
+layout: layout.njk
 ---
 Minister shows no interest in Pacific unemployment
 ==================================================

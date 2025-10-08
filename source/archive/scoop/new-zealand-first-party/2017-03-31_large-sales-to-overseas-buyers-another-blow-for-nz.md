@@ -1,9 +1,13 @@
 ---
 slug: large-sales-to-overseas-buyers-another-blow-for-nz
-title: "Large Sales to Overseas Buyers Another Blow for NZ"
-date: 2017-03-31
-source-url: https://www.scoop.co.nz/stories/PA1703/S00541/large-sales-to-overseas-buyers-another-blow-for-nz.htm
+title: Large Sales to Overseas Buyers Another Blow for NZ
+date: 2017-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00541/large-sales-to-overseas-buyers-another-blow-for-nz.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/31/large-sales-to-overseas-buyers-another-blow-for-nz/index.html
+layout: layout.njk
 ---
 Large Sales to Overseas Buyers Another Blow for NZ
 ==================================================

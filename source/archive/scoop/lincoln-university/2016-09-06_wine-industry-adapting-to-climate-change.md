@@ -1,9 +1,12 @@
 ---
 slug: wine-industry-adapting-to-climate-change
-title: "Wine industry adapting to climate change"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00032/wine-industry-adapting-to-climate-change.htm
+title: Wine industry adapting to climate change
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00032/wine-industry-adapting-to-climate-change.htm
 author: lincoln-university
+permalink: /archive/2016/09/06/wine-industry-adapting-to-climate-change/index.html
+layout: layout.njk
 ---
 Wine industry adapting to climate change
 ========================================

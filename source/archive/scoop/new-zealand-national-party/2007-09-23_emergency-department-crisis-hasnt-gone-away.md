@@ -1,9 +1,12 @@
 ---
 slug: emergency-department-crisis-hasnt-gone-away
-title: "Emergency Department crisis hasn't gone away"
-date: 2007-09-23
-source-url: https://www.scoop.co.nz/stories/PA0709/S00402/emergency-department-crisis-hasnt-gone-away.htm
+title: Emergency Department crisis hasn't gone away
+date: 2007-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00402/emergency-department-crisis-hasnt-gone-away.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/23/emergency-department-crisis-hasnt-gone-away/index.html
+layout: layout.njk
 ---
 Emergency Department crisis hasn't gone away
 ============================================

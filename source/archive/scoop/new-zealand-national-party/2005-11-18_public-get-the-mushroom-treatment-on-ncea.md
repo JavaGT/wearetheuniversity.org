@@ -1,9 +1,12 @@
 ---
 slug: public-get-the-mushroom-treatment-on-ncea
-title: "Public get the mushroom treatment on NCEA"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/PA0511/S00254/public-get-the-mushroom-treatment-on-ncea.htm
+title: Public get the mushroom treatment on NCEA
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00254/public-get-the-mushroom-treatment-on-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/18/public-get-the-mushroom-treatment-on-ncea/index.html
+layout: layout.njk
 ---
 Public get the mushroom treatment on NCEA
 =========================================

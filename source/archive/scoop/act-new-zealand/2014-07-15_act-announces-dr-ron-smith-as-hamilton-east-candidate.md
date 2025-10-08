@@ -1,9 +1,13 @@
 ---
 slug: act-announces-dr-ron-smith-as-hamilton-east-candidate
-title: "ACT announces Dr Ron Smith as Hamilton East candidate"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/PO1407/S00246/act-announces-dr-ron-smith-as-hamilton-east-candidate.htm
+title: ACT announces Dr Ron Smith as Hamilton East candidate
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00246/act-announces-dr-ron-smith-as-hamilton-east-candidate.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/07/15/act-announces-dr-ron-smith-as-hamilton-east-candidate/index.html
+layout: layout.njk
 ---
 ACT announces Dr Ron Smith as Hamilton East candidate
 =====================================================

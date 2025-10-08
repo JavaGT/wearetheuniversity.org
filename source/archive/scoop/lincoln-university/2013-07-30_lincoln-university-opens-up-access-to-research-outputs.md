@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-opens-up-access-to-research-outputs
-title: "Lincoln University opens up access to research outputs"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/ED1307/S00153/lincoln-university-opens-up-access-to-research-outputs.htm
+title: Lincoln University opens up access to research outputs
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00153/lincoln-university-opens-up-access-to-research-outputs.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/07/30/lincoln-university-opens-up-access-to-research-outputs/index.html
+layout: layout.njk
 ---
 Lincoln University opens up access to research outputs
 ======================================================

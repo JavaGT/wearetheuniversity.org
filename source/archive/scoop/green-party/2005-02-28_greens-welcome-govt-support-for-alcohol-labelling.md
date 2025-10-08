@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-govt-support-for-alcohol-labelling
-title: "Greens welcome Govt support for alcohol labelling"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/PA0502/S00586/greens-welcome-govt-support-for-alcohol-labelling.htm
+title: Greens welcome Govt support for alcohol labelling
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00586/greens-welcome-govt-support-for-alcohol-labelling.htm
 author: green-party
+permalink: >-
+  /archive/2005/02/28/greens-welcome-govt-support-for-alcohol-labelling/index.html
+layout: layout.njk
 ---
 Greens welcome Govt support for alcohol labelling
 =================================================

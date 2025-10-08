@@ -1,9 +1,13 @@
 ---
 slug: victoria-offers-fellowships-to-chilean-scientists
-title: "Victoria Offers Fellowships To Chilean Scientists"
-date: 2010-05-24
-source-url: https://www.scoop.co.nz/stories/ED1005/S00108/victoria-offers-fellowships-to-chilean-scientists.htm
+title: Victoria Offers Fellowships To Chilean Scientists
+date: 2010-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00108/victoria-offers-fellowships-to-chilean-scientists.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/05/24/victoria-offers-fellowships-to-chilean-scientists/index.html
+layout: layout.njk
 ---
 Victoria Offers Fellowships To Chilean Scientists
 =================================================

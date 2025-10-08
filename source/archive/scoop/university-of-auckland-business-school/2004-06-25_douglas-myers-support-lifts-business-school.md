@@ -1,9 +1,12 @@
 ---
 slug: douglas-myers-support-lifts-business-school
-title: "Douglas Myers Support Lifts Business School"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/ED0406/S00091/douglas-myers-support-lifts-business-school.htm
+title: Douglas Myers Support Lifts Business School
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00091/douglas-myers-support-lifts-business-school.htm
 author: university-of-auckland-business-school
+permalink: /archive/2004/06/25/douglas-myers-support-lifts-business-school/index.html
+layout: layout.njk
 ---
 Douglas Myers Support Lifts Business School
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-hau-taki-haere-vol-12-no-24
-title: "TEU Tertiary Update - Hau Taki Haere, Vol 12 No 24"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/ED0907/S00107/teu-tertiary-update-hau-taki-haere-vol-12-no-24.htm
+title: TEU Tertiary Update - Hau Taki Haere, Vol 12 No 24
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00107/teu-tertiary-update-hau-taki-haere-vol-12-no-24.htm
 author: association-of-university-staff
+permalink: /archive/2009/07/30/teu-tertiary-update-hau-taki-haere-vol-12-no-24/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update - Hau Taki Haere, Vol 12 No 24
 ==================================================

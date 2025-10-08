@@ -1,9 +1,12 @@
 ---
 slug: govt-must-do-more-to-promote-growth
-title: "Govt must do more to promote growth"
-date: 2019-05-08
-source-url: https://www.scoop.co.nz/stories/PA1905/S00079/govt-must-do-more-to-promote-growth.htm
+title: Govt must do more to promote growth
+date: 2019-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00079/govt-must-do-more-to-promote-growth.htm
 author: act-new-zealand
+permalink: /archive/2019/05/08/govt-must-do-more-to-promote-growth/index.html
+layout: layout.njk
 ---
 Govt must do more to promote growth
 ===================================

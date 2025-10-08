@@ -1,9 +1,13 @@
 ---
 slug: labours-winter-plan-excludes-half-of-new-zealand
-title: "Labour’s Winter Plan Excludes Half Of New Zealand"
-date: 2023-06-09
-source-url: https://www.scoop.co.nz/stories/PA2306/S00050/labours-winter-plan-excludes-half-of-new-zealand.htm
+title: Labour’s Winter Plan Excludes Half Of New Zealand
+date: 2023-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00050/labours-winter-plan-excludes-half-of-new-zealand.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/09/labours-winter-plan-excludes-half-of-new-zealand/index.html
+layout: layout.njk
 ---
 Labour’s Winter Plan Excludes Half Of New Zealand
 =================================================

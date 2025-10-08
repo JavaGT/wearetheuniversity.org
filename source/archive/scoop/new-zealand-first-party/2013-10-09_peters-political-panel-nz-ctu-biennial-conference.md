@@ -1,9 +1,13 @@
 ---
 slug: peters-political-panel-nz-ctu-biennial-conference
-title: "Peters: Political Panel - NZ CTU Biennial Conference"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/PA1310/S00157/peters-political-panel-nz-ctu-biennial-conference.htm
+title: 'Peters: Political Panel - NZ CTU Biennial Conference'
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00157/peters-political-panel-nz-ctu-biennial-conference.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/10/09/peters-political-panel-nz-ctu-biennial-conference/index.html
+layout: layout.njk
 ---
 Peters: Political Panel - NZ CTU Biennial Conference
 ====================================================

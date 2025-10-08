@@ -1,9 +1,11 @@
 ---
 slug: underfunding-not-our-future!
-title: "Underfunding? Not our Future!"
-date: 2010-08-04
+title: Underfunding? Not our Future!
+date: 2010-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1008/S00015/underfunding-not-our-future.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/08/04/underfunding-not-our-future/index.html
+layout: layout.njk
 ---
 Underfunding? Not our Future!
 =============================

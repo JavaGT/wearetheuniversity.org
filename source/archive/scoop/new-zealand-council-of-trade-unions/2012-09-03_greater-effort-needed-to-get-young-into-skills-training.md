@@ -1,9 +1,13 @@
 ---
 slug: greater-effort-needed-to-get-young-into-skills-training
-title: "Greater effort needed to get young into skills training"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/PO1209/S00024/greater-effort-needed-to-get-young-into-skills-training.htm
+title: Greater effort needed to get young into skills training
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00024/greater-effort-needed-to-get-young-into-skills-training.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/09/03/greater-effort-needed-to-get-young-into-skills-training/index.html
+layout: layout.njk
 ---
 Greater effort needed to get young into skills training
 =======================================================

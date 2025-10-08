@@ -1,9 +1,12 @@
 ---
 slug: prisoner-compo-law-must-be-retrospective
-title: "Prisoner compo law must be retrospective"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/PA0410/S00061/prisoner-compo-law-must-be-retrospective.htm
+title: Prisoner compo law must be retrospective
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00061/prisoner-compo-law-must-be-retrospective.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/04/prisoner-compo-law-must-be-retrospective/index.html
+layout: layout.njk
 ---
 Prisoner compo law must be retrospective
 ========================================

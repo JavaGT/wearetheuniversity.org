@@ -1,9 +1,12 @@
 ---
 slug: extending-science-with-the-synchrotron
-title: "Extending science with the synchrotron"
-date: 2007-02-01
-source-url: https://www.scoop.co.nz/stories/SC0702/S00001/extending-science-with-the-synchrotron.htm
+title: Extending science with the synchrotron
+date: 2007-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00001/extending-science-with-the-synchrotron.htm
 author: massey-university
+permalink: /archive/2007/02/01/extending-science-with-the-synchrotron/index.html
+layout: layout.njk
 ---
 Extending science with the synchrotron
 ======================================

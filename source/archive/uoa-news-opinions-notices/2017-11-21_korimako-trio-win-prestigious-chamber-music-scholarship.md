@@ -1,8 +1,12 @@
 ---
 slug: korimako-trio-win-prestigious-chamber-music-scholarship
-title: "Korimako Trio win prestigious chamber music scholarship"
-date: 2017-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/korimako-trio-win-prestigious-chamber-music-scholarship.html
+title: Korimako Trio win prestigious chamber music scholarship
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/korimako-trio-win-prestigious-chamber-music-scholarship.html
+permalink: >-
+  /archive/2017/11/21/korimako-trio-win-prestigious-chamber-music-scholarship/index.html
+layout: layout.njk
 ---
 Korimako Trio win prestigious chamber music scholarship
 =======================================================

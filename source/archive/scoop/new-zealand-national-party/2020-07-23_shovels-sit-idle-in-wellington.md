@@ -1,9 +1,12 @@
 ---
 slug: shovels-sit-idle-in-wellington
-title: "Shovels Sit Idle In Wellington"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/PA2007/S00222/shovels-sit-idle-in-wellington.htm
+title: Shovels Sit Idle In Wellington
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00222/shovels-sit-idle-in-wellington.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/23/shovels-sit-idle-in-wellington/index.html
+layout: layout.njk
 ---
 Shovels Sit Idle In Wellington
 ==============================

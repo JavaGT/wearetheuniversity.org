@@ -1,9 +1,12 @@
 ---
 slug: professor-paints-a-gloomy-global-picture
-title: "Professor paints a gloomy global picture"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/SC1409/S00042/professor-paints-a-gloomy-global-picture.htm
+title: Professor paints a gloomy global picture
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00042/professor-paints-a-gloomy-global-picture.htm
 author: lincoln-university
+permalink: /archive/2014/09/11/professor-paints-a-gloomy-global-picture/index.html
+layout: layout.njk
 ---
 Professor paints a gloomy global picture
 ========================================

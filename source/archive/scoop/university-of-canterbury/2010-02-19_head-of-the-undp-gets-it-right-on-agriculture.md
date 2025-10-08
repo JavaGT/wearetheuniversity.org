@@ -1,9 +1,12 @@
 ---
 slug: head-of-the-undp-gets-it-right-on-agriculture
-title: "Head of the UNDP gets it right on agriculture"
-date: 2010-02-19
-source-url: https://www.scoop.co.nz/stories/SC1002/S00058/head-of-the-undp-gets-it-right-on-agriculture.htm
+title: Head of the UNDP gets it right on agriculture
+date: 2010-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1002/S00058/head-of-the-undp-gets-it-right-on-agriculture.htm
 author: university-of-canterbury
+permalink: /archive/2010/02/19/head-of-the-undp-gets-it-right-on-agriculture/index.html
+layout: layout.njk
 ---
 Head of the UNDP gets it right on agriculture
 =============================================

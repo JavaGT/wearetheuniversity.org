@@ -1,9 +1,13 @@
 ---
 slug: keeping-it-18-allows-real-problems-to-be-addressed
-title: "Keeping it 18 allows real problems to be addressed"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/PA0611/S00169/keeping-it-18-allows-real-problems-to-be-addressed.htm
+title: Keeping it 18 allows real problems to be addressed
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00169/keeping-it-18-allows-real-problems-to-be-addressed.htm
 author: green-party
+permalink: >-
+  /archive/2006/11/09/keeping-it-18-allows-real-problems-to-be-addressed/index.html
+layout: layout.njk
 ---
 Keeping it 18 allows real problems to be addressed
 ==================================================

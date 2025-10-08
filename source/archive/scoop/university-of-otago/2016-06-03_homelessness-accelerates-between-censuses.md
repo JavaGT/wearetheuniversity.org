@@ -1,9 +1,12 @@
 ---
 slug: homelessness-accelerates-between-censuses
-title: "Homelessness accelerates between censuses"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/GE1606/S00009/homelessness-accelerates-between-censuses.htm
+title: Homelessness accelerates between censuses
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1606/S00009/homelessness-accelerates-between-censuses.htm
 author: university-of-otago
+permalink: /archive/2016/06/03/homelessness-accelerates-between-censuses/index.html
+layout: layout.njk
 ---
 Homelessness accelerates between censuses
 =========================================

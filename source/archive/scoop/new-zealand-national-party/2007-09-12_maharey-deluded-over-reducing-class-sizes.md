@@ -1,9 +1,12 @@
 ---
 slug: maharey-deluded-over-reducing-class-sizes
-title: "Maharey deluded over reducing class sizes"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PA0709/S00217/maharey-deluded-over-reducing-class-sizes.htm
+title: Maharey deluded over reducing class sizes
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00217/maharey-deluded-over-reducing-class-sizes.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/12/maharey-deluded-over-reducing-class-sizes/index.html
+layout: layout.njk
 ---
 Maharey deluded over reducing class sizes
 =========================================

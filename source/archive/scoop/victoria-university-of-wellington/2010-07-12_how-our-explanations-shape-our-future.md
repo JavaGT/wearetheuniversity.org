@@ -1,9 +1,12 @@
 ---
 slug: how-our-explanations-shape-our-future
-title: "How our explanations shape our future"
-date: 2010-07-12
-source-url: https://www.scoop.co.nz/stories/ED1007/S00041/how-our-explanations-shape-our-future.htm
+title: How our explanations shape our future
+date: 2010-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00041/how-our-explanations-shape-our-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/12/how-our-explanations-shape-our-future/index.html
+layout: layout.njk
 ---
 How our explanations shape our future
 =====================================

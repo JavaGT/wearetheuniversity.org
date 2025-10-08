@@ -1,9 +1,12 @@
 ---
 slug: ousa-election-results-hail-to-the-chong
-title: "OUSA Election Results: Hail to the Chong"
-date: 2005-09-30
-source-url: https://www.scoop.co.nz/stories/ED0509/S00094/ousa-election-results-hail-to-the-chong.htm
+title: 'OUSA Election Results: Hail to the Chong'
+date: 2005-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00094/ousa-election-results-hail-to-the-chong.htm
 author: otago-university-students-association
+permalink: /archive/2005/09/30/ousa-election-results-hail-to-the-chong/index.html
+layout: layout.njk
 ---
 OUSA Election Results: Hail to the Chong
 ========================================

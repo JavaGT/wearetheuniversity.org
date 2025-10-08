@@ -1,9 +1,11 @@
 ---
 slug: vote-act-to-dump-ncea
-title: "Vote ACT to dump NCEA"
-date: 2005-02-16
+title: Vote ACT to dump NCEA
+date: 2005-02-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00368/vote-act-to-dump-ncea.htm
 author: act-new-zealand
+permalink: /archive/2005/02/16/vote-act-to-dump-ncea/index.html
+layout: layout.njk
 ---
 Vote ACT to dump NCEA
 =====================

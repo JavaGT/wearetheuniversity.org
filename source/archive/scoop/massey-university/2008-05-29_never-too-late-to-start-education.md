@@ -1,9 +1,12 @@
 ---
 slug: never-too-late-to-start-education
-title: "‘Never too late’ to start education"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/ED0805/S00129/never-too-late-to-start-education.htm
+title: ‘Never too late’ to start education
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00129/never-too-late-to-start-education.htm
 author: massey-university
+permalink: /archive/2008/05/29/never-too-late-to-start-education/index.html
+layout: layout.njk
 ---
 ‘Never too late’ to start education
 ===================================

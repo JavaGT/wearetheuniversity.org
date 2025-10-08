@@ -1,9 +1,12 @@
 ---
 slug: still-no-joy-for-students-this-summer
-title: "Still No Joy For Students This Summer"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00446/still-no-joy-for-students-this-summer.htm
+title: Still No Joy For Students This Summer
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00446/still-no-joy-for-students-this-summer.htm
 author: green-party
+permalink: /archive/2000/08/23/still-no-joy-for-students-this-summer/index.html
+layout: layout.njk
 ---
 Still No Joy For Students This Summer
 =====================================

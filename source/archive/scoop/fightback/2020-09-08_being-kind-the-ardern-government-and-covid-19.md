@@ -1,9 +1,12 @@
 ---
 slug: being-kind-the-ardern-government-and-covid-19
-title: "Being Kind? The Ardern Government And COVID-19"
-date: 2020-09-08
-source-url: https://www.scoop.co.nz/stories/HL2009/S00039/being-kind-the-ardern-government-and-covid-19.htm
+title: Being Kind? The Ardern Government And COVID-19
+date: 2020-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2009/S00039/being-kind-the-ardern-government-and-covid-19.htm
 author: fightback
+permalink: /archive/2020/09/08/being-kind-the-ardern-government-and-covid-19/index.html
+layout: layout.njk
 ---
 Being Kind? The Ardern Government And COVID-19
 ==============================================

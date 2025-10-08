@@ -1,9 +1,13 @@
 ---
 slug: law-empowers-minister-to-sort-out-health-dispute
-title: "Law empowers Minister to sort out health dispute"
-date: 2002-10-30
-source-url: https://www.scoop.co.nz/stories/PA0210/S00576/law-empowers-minister-to-sort-out-health-dispute.htm
+title: Law empowers Minister to sort out health dispute
+date: 2002-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00576/law-empowers-minister-to-sort-out-health-dispute.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/30/law-empowers-minister-to-sort-out-health-dispute/index.html
+layout: layout.njk
 ---
 Law empowers Minister to sort out health dispute
 ================================================

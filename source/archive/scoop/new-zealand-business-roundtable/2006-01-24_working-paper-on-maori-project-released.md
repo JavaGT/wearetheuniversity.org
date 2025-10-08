@@ -1,9 +1,12 @@
 ---
 slug: working-paper-on-maori-project-released
-title: "Working Paper on Maori Project Released"
-date: 2006-01-24
-source-url: https://www.scoop.co.nz/stories/BU0601/S00149/working-paper-on-maori-project-released.htm
+title: Working Paper on Maori Project Released
+date: 2006-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0601/S00149/working-paper-on-maori-project-released.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/01/24/working-paper-on-maori-project-released/index.html
+layout: layout.njk
 ---
 Working Paper on Maori Project Released
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: students-businesses-and-education-in-sync-in-china
-title: "Students, businesses and education in sync in China"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/ED1602/S00061/students-businesses-and-education-in-sync-in-china.htm
+title: Students, businesses and education in sync in China
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00061/students-businesses-and-education-in-sync-in-china.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/02/18/students-businesses-and-education-in-sync-in-china/index.html
+layout: layout.njk
 ---
 Students, businesses and education in sync in China
 ===================================================

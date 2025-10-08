@@ -1,9 +1,13 @@
 ---
 slug: study-on-support-for-approaches-to-cannabis-reform
-title: "Study on support for approaches to cannabis reform"
-date: 2019-01-21
-source-url: https://www.scoop.co.nz/stories/PO1901/S00079/study-on-support-for-approaches-to-cannabis-reform.htm
+title: Study on support for approaches to cannabis reform
+date: 2019-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1901/S00079/study-on-support-for-approaches-to-cannabis-reform.htm
 author: massey-university
+permalink: >-
+  /archive/2019/01/21/study-on-support-for-approaches-to-cannabis-reform/index.html
+layout: layout.njk
 ---
 Study on support for approaches to cannabis reform
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: 2011-budget-is-solid-but-unimaginative
-title: "2011 Budget Is Solid But Unimaginative"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PO1105/S00339/2011-budget-is-solid-but-unimaginative.htm
+title: 2011 Budget Is Solid But Unimaginative
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00339/2011-budget-is-solid-but-unimaginative.htm
 author: maxim-institute
+permalink: /archive/2011/05/20/2011-budget-is-solid-but-unimaginative/index.html
+layout: layout.njk
 ---
 2011 Budget Is Solid But Unimaginative
 ======================================

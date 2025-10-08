@@ -1,9 +1,13 @@
 ---
 slug: industrial-strength-award-for-massey-mathematician
-title: "Industrial-strength award for Massey mathematician"
-date: 2012-02-07
-source-url: https://www.scoop.co.nz/stories/ED1202/S00027/industrial-strength-award-for-massey-mathematician.htm
+title: Industrial-strength award for Massey mathematician
+date: 2012-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00027/industrial-strength-award-for-massey-mathematician.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/07/industrial-strength-award-for-massey-mathematician/index.html
+layout: layout.njk
 ---
 Industrial-strength award for Massey mathematician
 ==================================================

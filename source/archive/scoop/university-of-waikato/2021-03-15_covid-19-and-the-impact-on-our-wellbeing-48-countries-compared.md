@@ -1,9 +1,13 @@
 ---
 slug: covid-19-and-the-impact-on-our-wellbeing-48-countries-compared
-title: "Covid-19 And The Impact On Our Wellbeing - 48 Countries Compared"
-date: 2021-03-15
-source-url: https://www.scoop.co.nz/stories/WO2103/S00198/covid-19-and-the-impact-on-our-wellbeing-48-countries-compared.htm
+title: Covid-19 And The Impact On Our Wellbeing - 48 Countries Compared
+date: 2021-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2103/S00198/covid-19-and-the-impact-on-our-wellbeing-48-countries-compared.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/03/15/covid-19-and-the-impact-on-our-wellbeing-48-countries-compared/index.html
+layout: layout.njk
 ---
 Covid-19 And The Impact On Our Wellbeing - 48 Countries Compared
 ================================================================

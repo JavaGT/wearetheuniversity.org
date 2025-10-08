@@ -1,9 +1,13 @@
 ---
 slug: government-must-build-more-public-houses-not-find-excuses-to-sell-them
-title: "Government Must Build More Public Houses, Not Find Excuses To Sell Them"
-date: 2024-05-20
-source-url: https://www.scoop.co.nz/stories/PA2405/S00137/government-must-build-more-public-houses-not-find-excuses-to-sell-them.htm
+title: Government Must Build More Public Houses, Not Find Excuses To Sell Them
+date: 2024-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00137/government-must-build-more-public-houses-not-find-excuses-to-sell-them.htm
 author: green-party
+permalink: >-
+  /archive/2024/05/20/government-must-build-more-public-houses-not-find-excuses-to-sell-them/index.html
+layout: layout.njk
 ---
 Government Must Build More Public Houses, Not Find Excuses To Sell Them
 =======================================================================

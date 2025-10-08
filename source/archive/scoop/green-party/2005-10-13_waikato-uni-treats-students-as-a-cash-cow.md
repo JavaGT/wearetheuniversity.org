@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-treats-students-as-a-cash-cow
-title: "Waikato Uni treats students as a cash cow"
-date: 2005-10-13
-source-url: https://www.scoop.co.nz/stories/PA0510/S00066/waikato-uni-treats-students-as-a-cash-cow.htm
+title: Waikato Uni treats students as a cash cow
+date: 2005-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00066/waikato-uni-treats-students-as-a-cash-cow.htm
 author: green-party
+permalink: /archive/2005/10/13/waikato-uni-treats-students-as-a-cash-cow/index.html
+layout: layout.njk
 ---
 Waikato Uni treats students as a cash cow
 =========================================

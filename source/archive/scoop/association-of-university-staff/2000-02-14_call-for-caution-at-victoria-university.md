@@ -1,9 +1,12 @@
 ---
 slug: call-for-caution-at-victoria-university
-title: "Call for caution at Victoria University"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00016/call-for-caution-at-victoria-university.htm
+title: Call for caution at Victoria University
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00016/call-for-caution-at-victoria-university.htm
 author: association-of-university-staff
+permalink: /archive/2000/02/14/call-for-caution-at-victoria-university/index.html
+layout: layout.njk
 ---
 Call for caution at Victoria University
 =======================================

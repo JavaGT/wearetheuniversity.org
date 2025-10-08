@@ -1,9 +1,13 @@
 ---
 slug: study-examines-older-chinese-migrant-mental-health
-title: "Study Examines Older Chinese Migrant Mental Health"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/ED0409/S00072/study-examines-older-chinese-migrant-mental-health.htm
+title: Study Examines Older Chinese Migrant Mental Health
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00072/study-examines-older-chinese-migrant-mental-health.htm
 author: aut-university
+permalink: >-
+  /archive/2004/09/17/study-examines-older-chinese-migrant-mental-health/index.html
+layout: layout.njk
 ---
 Study Examines Older Chinese Migrant Mental Health
 ==================================================

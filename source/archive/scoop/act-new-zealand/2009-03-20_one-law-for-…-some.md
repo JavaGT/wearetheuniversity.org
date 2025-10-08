@@ -1,9 +1,11 @@
 ---
 slug: one-law-for-…-some
-title: "One Law For … Some"
-date: 2009-03-20
+title: One Law For … Some
+date: 2009-03-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0903/S00315/one-law-for-some.htm
 author: act-new-zealand
+permalink: /archive/2009/03/20/one-law-for-/index.html
+layout: layout.njk
 ---
 One Law For … Some
 ==================

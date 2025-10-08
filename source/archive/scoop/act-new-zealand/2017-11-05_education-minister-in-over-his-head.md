@@ -1,9 +1,12 @@
 ---
 slug: education-minister-in-over-his-head
-title: "Education Minister in Over His Head"
-date: 2017-11-05
-source-url: https://www.scoop.co.nz/stories/PA1711/S00023/education-minister-in-over-his-head.htm
+title: Education Minister in Over His Head
+date: 2017-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00023/education-minister-in-over-his-head.htm
 author: act-new-zealand
+permalink: /archive/2017/11/05/education-minister-in-over-his-head/index.html
+layout: layout.njk
 ---
 Education Minister in Over His Head
 ===================================

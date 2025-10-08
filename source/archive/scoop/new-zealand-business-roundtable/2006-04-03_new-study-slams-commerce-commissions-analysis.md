@@ -1,9 +1,12 @@
 ---
 slug: new-study-slams-commerce-commissions-analysis
-title: "New Study Slams Commerce Commission's Analysis"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/BU0604/S00031/new-study-slams-commerce-commissions-analysis.htm
+title: New Study Slams Commerce Commission's Analysis
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00031/new-study-slams-commerce-commissions-analysis.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/04/03/new-study-slams-commerce-commissions-analysis/index.html
+layout: layout.njk
 ---
 New Study Slams Commerce Commission's Analysis
 ==============================================

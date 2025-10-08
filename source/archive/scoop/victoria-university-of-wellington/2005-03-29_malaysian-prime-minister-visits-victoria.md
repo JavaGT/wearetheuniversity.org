@@ -1,9 +1,12 @@
 ---
 slug: malaysian-prime-minister-visits-victoria
-title: "Malaysian Prime Minister visits Victoria"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/ED0503/S00091/malaysian-prime-minister-visits-victoria.htm
+title: Malaysian Prime Minister visits Victoria
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00091/malaysian-prime-minister-visits-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/03/29/malaysian-prime-minister-visits-victoria/index.html
+layout: layout.njk
 ---
 Malaysian Prime Minister visits Victoria
 ========================================

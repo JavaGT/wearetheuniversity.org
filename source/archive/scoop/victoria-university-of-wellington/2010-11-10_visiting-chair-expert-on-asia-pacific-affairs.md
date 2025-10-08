@@ -1,9 +1,12 @@
 ---
 slug: visiting-chair-expert-on-asia-pacific-affairs
-title: "Visiting Chair expert on Asia-Pacific affairs"
-date: 2010-11-10
-source-url: https://www.scoop.co.nz/stories/ED1011/S00034/visiting-chair-expert-on-asia-pacific-affairs.htm
+title: Visiting Chair expert on Asia-Pacific affairs
+date: 2010-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00034/visiting-chair-expert-on-asia-pacific-affairs.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/10/visiting-chair-expert-on-asia-pacific-affairs/index.html
+layout: layout.njk
 ---
 Visiting Chair expert on Asia-Pacific affairs
 =============================================

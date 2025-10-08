@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-new-professor-of-education
-title: "Otago Appoints New Professor of Education"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/ED0503/S00082/otago-appoints-new-professor-of-education.htm
+title: Otago Appoints New Professor of Education
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00082/otago-appoints-new-professor-of-education.htm
 author: university-of-otago
+permalink: /archive/2005/03/23/otago-appoints-new-professor-of-education/index.html
+layout: layout.njk
 ---
 Otago Appoints New Professor of Education
 =========================================

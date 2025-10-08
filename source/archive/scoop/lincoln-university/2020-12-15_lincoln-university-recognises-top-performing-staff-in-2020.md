@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-recognises-top-performing-staff-in-2020
-title: "Lincoln University Recognises Top-performing Staff In 2020"
-date: 2020-12-15
-source-url: https://www.scoop.co.nz/stories/ED2012/S00030/lincoln-university-recognises-top-performing-staff-in-2020.htm
+title: Lincoln University Recognises Top-performing Staff In 2020
+date: 2020-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00030/lincoln-university-recognises-top-performing-staff-in-2020.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/12/15/lincoln-university-recognises-top-performing-staff-in-2020/index.html
+layout: layout.njk
 ---
 Lincoln University Recognises Top-performing Staff In 2020
 ==========================================================

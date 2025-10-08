@@ -1,9 +1,12 @@
 ---
 slug: dates-and-places-for-nandors-campus-tour
-title: "Dates and places for Nandor's campus tour"
-date: 2000-02-16
-source-url: https://www.scoop.co.nz/stories/PA0002/S00212/dates-and-places-for-nandors-campus-tour.htm
+title: Dates and places for Nandor's campus tour
+date: 2000-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00212/dates-and-places-for-nandors-campus-tour.htm
 author: green-party
+permalink: /archive/2000/02/16/dates-and-places-for-nandors-campus-tour/index.html
+layout: layout.njk
 ---
 Dates and places for Nandor's campus tour
 =========================================

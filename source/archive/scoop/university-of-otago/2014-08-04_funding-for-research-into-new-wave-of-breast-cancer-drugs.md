@@ -1,9 +1,13 @@
 ---
 slug: funding-for-research-into-new-wave-of-breast-cancer-drugs
-title: "Funding for research into new wave of breast cancer drugs"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/GE1408/S00013/funding-for-research-into-new-wave-of-breast-cancer-drugs.htm
+title: Funding for research into new wave of breast cancer drugs
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00013/funding-for-research-into-new-wave-of-breast-cancer-drugs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/04/funding-for-research-into-new-wave-of-breast-cancer-drugs/index.html
+layout: layout.njk
 ---
 Funding for research into new wave of breast cancer drugs
 =========================================================

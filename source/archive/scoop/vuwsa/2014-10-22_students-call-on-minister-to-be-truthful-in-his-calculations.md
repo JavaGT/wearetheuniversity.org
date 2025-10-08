@@ -1,9 +1,13 @@
 ---
 slug: students-call-on-minister-to-be-truthful-in-his-calculations
-title: "Students Call on Minister to be truthful in his calculations"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/ED1410/S00120/students-call-on-minister-to-be-truthful-in-his-calculations.htm
+title: Students Call on Minister to be truthful in his calculations
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00120/students-call-on-minister-to-be-truthful-in-his-calculations.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/10/22/students-call-on-minister-to-be-truthful-in-his-calculations/index.html
+layout: layout.njk
 ---
 Students Call on Minister to be truthful in his calculations
 ============================================================

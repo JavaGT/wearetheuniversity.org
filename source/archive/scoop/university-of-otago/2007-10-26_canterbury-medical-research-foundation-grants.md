@@ -1,9 +1,12 @@
 ---
 slug: canterbury-medical-research-foundation-grants
-title: "Canterbury Medical Research Foundation grants"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/GE0710/S00107/canterbury-medical-research-foundation-grants.htm
+title: Canterbury Medical Research Foundation grants
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0710/S00107/canterbury-medical-research-foundation-grants.htm
 author: university-of-otago
+permalink: /archive/2007/10/26/canterbury-medical-research-foundation-grants/index.html
+layout: layout.njk
 ---
 Canterbury Medical Research Foundation grants
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: health-funds-misdirected-while-sufferers-wait
-title: "Health funds misdirected while sufferers wait"
-date: 2001-03-04
-source-url: https://www.scoop.co.nz/stories/PA0103/S00053/health-funds-misdirected-while-sufferers-wait.htm
+title: Health funds misdirected while sufferers wait
+date: 2001-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00053/health-funds-misdirected-while-sufferers-wait.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/04/health-funds-misdirected-while-sufferers-wait/index.html
+layout: layout.njk
 ---
 Health funds misdirected while sufferers wait
 =============================================

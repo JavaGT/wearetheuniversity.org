@@ -1,9 +1,12 @@
 ---
 slug: dry-valley-researcher-named-kudos-finalist
-title: "Dry Valley researcher named Kudos finalist"
-date: 2011-09-09
-source-url: https://www.scoop.co.nz/stories/SC1109/S00015/dry-valley-researcher-named-kudos-finalist.htm
+title: Dry Valley researcher named Kudos finalist
+date: 2011-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00015/dry-valley-researcher-named-kudos-finalist.htm
 author: university-of-waikato
+permalink: /archive/2011/09/09/dry-valley-researcher-named-kudos-finalist/index.html
+layout: layout.njk
 ---
 Dry Valley researcher named Kudos finalist
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: stop-motion-animation-komaneko-screens-in-april
-title: "Stop-motion animation KOMANEKO screens in April"
-date: 2015-04-09
-source-url: https://www.scoop.co.nz/stories/ED1504/S00023/stop-motion-animation-komaneko-screens-in-april.htm
+title: Stop-motion animation KOMANEKO screens in April
+date: 2015-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00023/stop-motion-animation-komaneko-screens-in-april.htm
 author: massey-university
+permalink: /archive/2015/04/09/stop-motion-animation-komaneko-screens-in-april/index.html
+layout: layout.njk
 ---
 Stop-motion animation KOMANEKO screens in April
 ===============================================

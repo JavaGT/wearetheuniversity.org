@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-nz-needs-to-be-careful-to-avoid-a-grenfell
-title: "Speech: Peters - NZ needs to be careful to avoid a Grenfell"
-date: 2017-06-25
-source-url: https://www.scoop.co.nz/stories/PA1706/S00416/speech-peters-nz-needs-to-be-careful-to-avoid-a-grenfell.htm
+title: 'Speech: Peters - NZ needs to be careful to avoid a Grenfell'
+date: 2017-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00416/speech-peters-nz-needs-to-be-careful-to-avoid-a-grenfell.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/25/speech-peters-nz-needs-to-be-careful-to-avoid-a-grenfell/index.html
+layout: layout.njk
 ---
 Speech: Peters - NZ needs to be careful to avoid a Grenfell
 ===========================================================

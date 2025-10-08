@@ -1,9 +1,12 @@
 ---
 slug: big-questions-about-vaccine-contracts
-title: "Big Questions About Vaccine Contracts"
-date: 2021-01-18
-source-url: https://www.scoop.co.nz/stories/PA2101/S00035/big-questions-about-vaccine-contracts.htm
+title: Big Questions About Vaccine Contracts
+date: 2021-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00035/big-questions-about-vaccine-contracts.htm
 author: act-new-zealand
+permalink: /archive/2021/01/18/big-questions-about-vaccine-contracts/index.html
+layout: layout.njk
 ---
 Big Questions About Vaccine Contracts
 =====================================

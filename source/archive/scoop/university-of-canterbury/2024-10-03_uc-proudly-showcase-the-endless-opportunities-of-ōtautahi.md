@@ -1,9 +1,13 @@
 ---
 slug: uc-proudly-showcase-the-endless-opportunities-of-ōtautahi
-title: "UC Proudly Showcase The Endless Opportunities Of Ōtautahi"
-date: 2024-10-03
-source-url: https://www.scoop.co.nz/stories/ED2410/S00006/uc-proudly-showcase-the-endless-opportunities-of-otautahi.htm
+title: UC Proudly Showcase The Endless Opportunities Of Ōtautahi
+date: 2024-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00006/uc-proudly-showcase-the-endless-opportunities-of-otautahi.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/03/uc-proudly-showcase-the-endless-opportunities-of-/index.html
+layout: layout.njk
 ---
 UC Proudly Showcase The Endless Opportunities Of Ōtautahi
 =========================================================

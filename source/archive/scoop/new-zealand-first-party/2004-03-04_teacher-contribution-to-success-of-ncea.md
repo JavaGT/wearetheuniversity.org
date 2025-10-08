@@ -1,9 +1,12 @@
 ---
 slug: teacher-contribution-to-success-of-ncea
-title: "Teacher Contribution To Success Of NCEA"
-date: 2004-03-04
-source-url: https://www.scoop.co.nz/stories/PA0403/S00104/teacher-contribution-to-success-of-ncea.htm
+title: Teacher Contribution To Success Of NCEA
+date: 2004-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00104/teacher-contribution-to-success-of-ncea.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/04/teacher-contribution-to-success-of-ncea/index.html
+layout: layout.njk
 ---
 Teacher Contribution To Success Of NCEA
 =======================================

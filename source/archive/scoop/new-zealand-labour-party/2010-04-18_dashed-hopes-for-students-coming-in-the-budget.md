@@ -1,9 +1,12 @@
 ---
 slug: dashed-hopes-for-students-coming-in-the-budget
-title: "Dashed Hopes For Students Coming In The Budget"
-date: 2010-04-18
-source-url: https://www.scoop.co.nz/stories/PA1004/S00183/dashed-hopes-for-students-coming-in-the-budget.htm
+title: Dashed Hopes For Students Coming In The Budget
+date: 2010-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00183/dashed-hopes-for-students-coming-in-the-budget.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/18/dashed-hopes-for-students-coming-in-the-budget/index.html
+layout: layout.njk
 ---
 Dashed Hopes For Students Coming In The Budget
 ==============================================

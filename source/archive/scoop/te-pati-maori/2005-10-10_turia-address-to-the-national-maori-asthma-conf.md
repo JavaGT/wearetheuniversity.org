@@ -1,9 +1,12 @@
 ---
 slug: turia-address-to-the-national-maori-asthma-conf
-title: "Turia: Address to the National Maori Asthma Conf."
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/PA0510/S00038/turia-address-to-the-national-maori-asthma-conf.htm
+title: 'Turia: Address to the National Maori Asthma Conf.'
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00038/turia-address-to-the-national-maori-asthma-conf.htm
 author: te-pati-maori
+permalink: /archive/2005/10/10/turia-address-to-the-national-maori-asthma-conf/index.html
+layout: layout.njk
 ---
 Turia: Address to the National Maori Asthma Conf.
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: welfare-changes-wont-solve-problems-peters
-title: "Welfare Changes Wont Solve Problems – Peters"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/PA1202/S00309/welfare-changes-wont-solve-problems-peters.htm
+title: Welfare Changes Wont Solve Problems – Peters
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00309/welfare-changes-wont-solve-problems-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/27/welfare-changes-wont-solve-problems-peters/index.html
+layout: layout.njk
 ---
 Welfare Changes Wont Solve Problems – Peters
 ============================================

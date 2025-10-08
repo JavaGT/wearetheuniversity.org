@@ -1,9 +1,13 @@
 ---
 slug: victorias-creative-talent-takes-international-stage
-title: "Victoria’s creative talent takes international stage"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/AK1109/S00253/victorias-creative-talent-takes-international-stage.htm
+title: Victoria’s creative talent takes international stage
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1109/S00253/victorias-creative-talent-takes-international-stage.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/08/victorias-creative-talent-takes-international-stage/index.html
+layout: layout.njk
 ---
 Victoria’s creative talent takes international stage
 ====================================================

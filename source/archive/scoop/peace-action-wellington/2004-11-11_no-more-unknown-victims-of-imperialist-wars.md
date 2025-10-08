@@ -1,9 +1,12 @@
 ---
 slug: no-more-unknown-victims-of-imperialist-wars
-title: "No More Unknown Victims Of Imperialist Wars"
-date: 2004-11-11
-source-url: https://www.scoop.co.nz/stories/PO0411/S00103/no-more-unknown-victims-of-imperialist-wars.htm
+title: No More Unknown Victims Of Imperialist Wars
+date: 2004-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00103/no-more-unknown-victims-of-imperialist-wars.htm
 author: peace-action-wellington
+permalink: /archive/2004/11/11/no-more-unknown-victims-of-imperialist-wars/index.html
+layout: layout.njk
 ---
 No More Unknown Victims Of Imperialist Wars
 ===========================================

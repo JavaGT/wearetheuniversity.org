@@ -1,9 +1,12 @@
 ---
 slug: the-2025-taskforce-report-and-the-media
-title: "The 2025 Taskforce Report and the Media"
-date: 2009-12-18
-source-url: https://www.scoop.co.nz/stories/PO0912/S00245/the-2025-taskforce-report-and-the-media.htm
+title: The 2025 Taskforce Report and the Media
+date: 2009-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00245/the-2025-taskforce-report-and-the-media.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/12/18/the-2025-taskforce-report-and-the-media/index.html
+layout: layout.njk
 ---
 The 2025 Taskforce Report and the Media
 =======================================

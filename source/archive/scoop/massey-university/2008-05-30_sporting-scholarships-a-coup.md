@@ -1,9 +1,11 @@
 ---
 slug: sporting-scholarships-a-coup
-title: "Sporting scholarships a coup"
-date: 2008-05-30
+title: Sporting scholarships a coup
+date: 2008-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0805/S00138/sporting-scholarships-a-coup.htm
 author: massey-university
+permalink: /archive/2008/05/30/sporting-scholarships-a-coup/index.html
+layout: layout.njk
 ---
 Sporting scholarships a coup
 ============================

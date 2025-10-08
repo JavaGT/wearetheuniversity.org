@@ -1,9 +1,12 @@
 ---
 slug: poroporoāki-mo-vapnierka-(vapi)-kupenga
-title: "Poroporoāki mo Vapnierka (Vapi) Kupenga"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/PA1310/S00474/poroporoaki-mo-vapnierka-vapi-kupenga.htm
+title: Poroporoāki mo Vapnierka (Vapi) Kupenga
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00474/poroporoaki-mo-vapnierka-vapi-kupenga.htm
 author: te-pati-maori
+permalink: /archive/2013/10/30/poroporo/index.html
+layout: layout.njk
 ---
 Poroporoāki mo Vapnierka (Vapi) Kupenga
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: school-pupils-compete-to-solve-economic-woes
-title: "School pupils compete to solve economic woes"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/ED0908/S00010/school-pupils-compete-to-solve-economic-woes.htm
+title: School pupils compete to solve economic woes
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00010/school-pupils-compete-to-solve-economic-woes.htm
 author: massey-university
+permalink: /archive/2009/08/04/school-pupils-compete-to-solve-economic-woes/index.html
+layout: layout.njk
 ---
 School pupils compete to solve economic woes
 ============================================

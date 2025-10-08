@@ -1,9 +1,13 @@
 ---
 slug: global-study-raises-grave-concerns-for-reef-sharks
-title: "Global Study Raises Grave Concerns For Reef Sharks"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/ED2007/S00033/global-study-raises-grave-concerns-for-reef-sharks.htm
+title: Global Study Raises Grave Concerns For Reef Sharks
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00033/global-study-raises-grave-concerns-for-reef-sharks.htm
 author: massey-university
+permalink: >-
+  /archive/2020/07/23/global-study-raises-grave-concerns-for-reef-sharks/index.html
+layout: layout.njk
 ---
 Global Study Raises Grave Concerns For Reef Sharks
 ==================================================

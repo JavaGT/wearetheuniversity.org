@@ -1,9 +1,12 @@
 ---
 slug: money-problems-drive-gambling-habits
-title: "Money Problems Drive Gambling Habits"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/ED0502/S00076/money-problems-drive-gambling-habits.htm
+title: Money Problems Drive Gambling Habits
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00076/money-problems-drive-gambling-habits.htm
 author: auckland-university
+permalink: /archive/2005/02/23/money-problems-drive-gambling-habits/index.html
+layout: layout.njk
 ---
 Money Problems Drive Gambling Habits
 ====================================

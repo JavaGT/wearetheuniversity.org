@@ -1,9 +1,13 @@
 ---
 slug: young-ecologists-win-international-photography-prizes
-title: "Young Ecologists Win International Photography Prizes"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00131/young-ecologists-win-international-photography-prizes.htm
+title: Young Ecologists Win International Photography Prizes
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00131/young-ecologists-win-international-photography-prizes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/27/young-ecologists-win-international-photography-prizes/index.html
+layout: layout.njk
 ---
 Young Ecologists Win International Photography Prizes
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-326-family-breakdown
-title: "Real Issues No. 326 - Family Breakdown"
-date: 2008-11-07
-source-url: https://www.scoop.co.nz/stories/PO0811/S00128/real-issues-no-326-family-breakdown.htm
+title: Real Issues No. 326 - Family Breakdown
+date: 2008-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00128/real-issues-no-326-family-breakdown.htm
 author: maxim-institute
+permalink: /archive/2008/11/07/real-issues-no-326-family-breakdown/index.html
+layout: layout.njk
 ---
 Real Issues No. 326 - Family Breakdown
 ======================================

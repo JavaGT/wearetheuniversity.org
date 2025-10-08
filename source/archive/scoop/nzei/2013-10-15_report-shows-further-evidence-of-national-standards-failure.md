@@ -1,9 +1,13 @@
 ---
 slug: report-shows-further-evidence-of-national-standards-failure
-title: "Report shows further evidence of National Standards failure"
-date: 2013-10-15
-source-url: https://www.scoop.co.nz/stories/ED1310/S00098/report-shows-further-evidence-of-national-standards-failure.htm
+title: Report shows further evidence of National Standards failure
+date: 2013-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00098/report-shows-further-evidence-of-national-standards-failure.htm
 author: nzei
+permalink: >-
+  /archive/2013/10/15/report-shows-further-evidence-of-national-standards-failure/index.html
+layout: layout.njk
 ---
 Report shows further evidence of National Standards failure
 ===========================================================

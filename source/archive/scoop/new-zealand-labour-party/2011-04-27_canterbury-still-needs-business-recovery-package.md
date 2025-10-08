@@ -1,9 +1,13 @@
 ---
 slug: canterbury-still-needs-business-recovery-package
-title: "Canterbury still needs business recovery package"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/PA1104/S00491/canterbury-still-needs-business-recovery-package.htm
+title: Canterbury still needs business recovery package
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00491/canterbury-still-needs-business-recovery-package.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/27/canterbury-still-needs-business-recovery-package/index.html
+layout: layout.njk
 ---
 Canterbury still needs business recovery package
 ================================================

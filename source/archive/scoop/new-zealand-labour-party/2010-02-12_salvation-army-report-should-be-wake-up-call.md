@@ -1,9 +1,12 @@
 ---
 slug: salvation-army-report-should-be-wake-up-call
-title: "Salvation Army Report Should Be Wake-Up Call"
-date: 2010-02-12
-source-url: https://www.scoop.co.nz/stories/PA1002/S00168/salvation-army-report-should-be-wake-up-call.htm
+title: Salvation Army Report Should Be Wake-Up Call
+date: 2010-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00168/salvation-army-report-should-be-wake-up-call.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/12/salvation-army-report-should-be-wake-up-call/index.html
+layout: layout.njk
 ---
 Salvation Army Report Should Be Wake-Up Call
 ============================================

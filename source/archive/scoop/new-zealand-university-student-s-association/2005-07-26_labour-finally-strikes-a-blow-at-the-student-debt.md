@@ -1,9 +1,13 @@
 ---
 slug: labour-finally-strikes-a-blow-at-the-student-debt
-title: "Labour finally strikes a blow at the student debt"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00096/labour-finally-strikes-a-blow-at-the-student-debt.htm
+title: Labour finally strikes a blow at the student debt
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00096/labour-finally-strikes-a-blow-at-the-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/07/26/labour-finally-strikes-a-blow-at-the-student-debt/index.html
+layout: layout.njk
 ---
 Labour finally strikes a blow at the student debt
 =================================================

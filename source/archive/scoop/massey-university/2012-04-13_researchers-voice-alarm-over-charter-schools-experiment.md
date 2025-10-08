@@ -1,9 +1,13 @@
 ---
 slug: researchers-voice-alarm-over-charter-schools-experiment
-title: "Researchers voice alarm over charter schools ‘experiment’"
-date: 2012-04-13
-source-url: https://www.scoop.co.nz/stories/ED1204/S00047/researchers-voice-alarm-over-charter-schools-experiment.htm
+title: Researchers voice alarm over charter schools ‘experiment’
+date: 2012-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00047/researchers-voice-alarm-over-charter-schools-experiment.htm
 author: massey-university
+permalink: >-
+  /archive/2012/04/13/researchers-voice-alarm-over-charter-schools-experiment/index.html
+layout: layout.njk
 ---
 Researchers voice alarm over charter schools ‘experiment’
 =========================================================

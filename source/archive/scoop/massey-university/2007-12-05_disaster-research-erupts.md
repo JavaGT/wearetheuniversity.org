@@ -1,9 +1,11 @@
 ---
 slug: disaster-research-erupts
-title: "Disaster research erupts"
-date: 2007-12-05
+title: Disaster research erupts
+date: 2007-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0712/S00013/disaster-research-erupts.htm
 author: massey-university
+permalink: /archive/2007/12/05/disaster-research-erupts/index.html
+layout: layout.njk
 ---
 Disaster research erupts
 ========================

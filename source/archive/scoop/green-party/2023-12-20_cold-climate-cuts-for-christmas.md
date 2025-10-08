@@ -1,9 +1,12 @@
 ---
 slug: cold-climate-cuts-for-christmas
-title: "Cold Climate Cuts For Christmas"
-date: 2023-12-20
-source-url: https://www.scoop.co.nz/stories/PA2312/S00072/cold-climate-cuts-for-christmas.htm
+title: Cold Climate Cuts For Christmas
+date: 2023-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00072/cold-climate-cuts-for-christmas.htm
 author: green-party
+permalink: /archive/2023/12/20/cold-climate-cuts-for-christmas/index.html
+layout: layout.njk
 ---
 Cold Climate Cuts For Christmas
 ===============================

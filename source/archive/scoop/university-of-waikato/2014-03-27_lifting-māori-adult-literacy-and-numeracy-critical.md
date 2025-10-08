@@ -1,9 +1,12 @@
 ---
 slug: lifting-māori-adult-literacy-and-numeracy-critical
-title: "Lifting Māori adult literacy and numeracy critical"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/ED1403/S00166/lifting-maori-adult-literacy-and-numeracy-critical.htm
+title: Lifting Māori adult literacy and numeracy critical
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00166/lifting-maori-adult-literacy-and-numeracy-critical.htm
 author: university-of-waikato
+permalink: /archive/2014/03/27/lifting-m/index.html
+layout: layout.njk
 ---
 Lifting Māori adult literacy and numeracy critical
 ==================================================

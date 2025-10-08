@@ -1,9 +1,13 @@
 ---
 slug: study-finds-plant-life-affected-by-declining-bird-numbers
-title: "Study finds plant life affected by declining bird numbers"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/SC1102/S00008/study-finds-plant-life-affected-by-declining-bird-numbers.htm
+title: Study finds plant life affected by declining bird numbers
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00008/study-finds-plant-life-affected-by-declining-bird-numbers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/02/04/study-finds-plant-life-affected-by-declining-bird-numbers/index.html
+layout: layout.njk
 ---
 Study finds plant life affected by declining bird numbers
 =========================================================

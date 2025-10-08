@@ -1,9 +1,12 @@
 ---
 slug: government-shows-its-true-colours-on-gangs
-title: "Government Shows Its True Colours On Gangs"
-date: 2021-05-02
-source-url: https://www.scoop.co.nz/stories/PA2105/S00002/government-shows-its-true-colours-on-gangs.htm
+title: Government Shows Its True Colours On Gangs
+date: 2021-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00002/government-shows-its-true-colours-on-gangs.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/02/government-shows-its-true-colours-on-gangs/index.html
+layout: layout.njk
 ---
 Government Shows Its True Colours On Gangs
 ==========================================

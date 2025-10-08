@@ -1,9 +1,11 @@
 ---
 slug: show-us-your-path-to-surplus
-title: "Show Us Your Path To Surplus"
-date: 2020-09-01
+title: Show Us Your Path To Surplus
+date: 2020-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2009/S00001/show-us-your-path-to-surplus.htm
 author: act-new-zealand
+permalink: /archive/2020/09/01/show-us-your-path-to-surplus/index.html
+layout: layout.njk
 ---
 Show Us Your Path To Surplus
 ============================

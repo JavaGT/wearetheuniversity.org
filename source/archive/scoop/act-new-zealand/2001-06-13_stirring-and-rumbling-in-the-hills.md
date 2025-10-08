@@ -1,9 +1,12 @@
 ---
 slug: stirring-and-rumbling-in-the-hills
-title: "Stirring And Rumbling In The Hills"
-date: 2001-06-13
-source-url: https://www.scoop.co.nz/stories/PA0106/S00166/stirring-and-rumbling-in-the-hills.htm
+title: Stirring And Rumbling In The Hills
+date: 2001-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00166/stirring-and-rumbling-in-the-hills.htm
 author: act-new-zealand
+permalink: /archive/2001/06/13/stirring-and-rumbling-in-the-hills/index.html
+layout: layout.njk
 ---
 Stirring And Rumbling In The Hills
 ==================================

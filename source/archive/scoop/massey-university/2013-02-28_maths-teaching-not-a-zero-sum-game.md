@@ -1,9 +1,12 @@
 ---
 slug: maths-teaching-not-a-zero-sum-game
-title: "Maths teaching not a zero-sum game"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/ED1302/S00160/maths-teaching-not-a-zero-sum-game.htm
+title: Maths teaching not a zero-sum game
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00160/maths-teaching-not-a-zero-sum-game.htm
 author: massey-university
+permalink: /archive/2013/02/28/maths-teaching-not-a-zero-sum-game/index.html
+layout: layout.njk
 ---
 Maths teaching not a zero-sum game
 ==================================

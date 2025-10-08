@@ -1,9 +1,13 @@
 ---
 slug: parental-leave-policy-leaves-kids-in-need-behind
-title: "Parental leave policy leaves kids in need behind"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PO1708/S00595/parental-leave-policy-leaves-kids-in-need-behind.htm
+title: Parental leave policy leaves kids in need behind
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00595/parental-leave-policy-leaves-kids-in-need-behind.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/29/parental-leave-policy-leaves-kids-in-need-behind/index.html
+layout: layout.njk
 ---
 Parental leave policy leaves kids in need behind
 ================================================

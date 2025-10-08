@@ -1,9 +1,12 @@
 ---
 slug: cullen-must-clear-mortgage-confusion
-title: "Cullen must clear mortgage confusion"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/PA0511/S00139/cullen-must-clear-mortgage-confusion.htm
+title: Cullen must clear mortgage confusion
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00139/cullen-must-clear-mortgage-confusion.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/11/cullen-must-clear-mortgage-confusion/index.html
+layout: layout.njk
 ---
 Cullen must clear mortgage confusion
 ====================================

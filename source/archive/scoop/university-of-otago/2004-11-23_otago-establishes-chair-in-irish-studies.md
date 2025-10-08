@@ -1,9 +1,12 @@
 ---
 slug: otago-establishes-chair-in-irish-studies
-title: "Otago Establishes Chair In Irish Studies"
-date: 2004-11-23
-source-url: https://www.scoop.co.nz/stories/ED0411/S00068/otago-establishes-chair-in-irish-studies.htm
+title: Otago Establishes Chair In Irish Studies
+date: 2004-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00068/otago-establishes-chair-in-irish-studies.htm
 author: university-of-otago
+permalink: /archive/2004/11/23/otago-establishes-chair-in-irish-studies/index.html
+layout: layout.njk
 ---
 Otago Establishes Chair In Irish Studies
 ========================================

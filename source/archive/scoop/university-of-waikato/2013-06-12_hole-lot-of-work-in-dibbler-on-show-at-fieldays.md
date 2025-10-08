@@ -1,9 +1,12 @@
 ---
 slug: hole-lot-of-work-in-dibbler-on-show-at-fieldays
-title: "Hole lot of work in dibbler on show at Fieldays"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/AK1306/S00210/hole-lot-of-work-in-dibbler-on-show-at-fieldays.htm
+title: Hole lot of work in dibbler on show at Fieldays
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00210/hole-lot-of-work-in-dibbler-on-show-at-fieldays.htm
 author: university-of-waikato
+permalink: /archive/2013/06/12/hole-lot-of-work-in-dibbler-on-show-at-fieldays/index.html
+layout: layout.njk
 ---
 Hole lot of work in dibbler on show at Fieldays
 ===============================================

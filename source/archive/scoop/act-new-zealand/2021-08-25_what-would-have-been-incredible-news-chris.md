@@ -1,9 +1,12 @@
 ---
 slug: what-would-have-been-incredible-news-chris
-title: "What would have been ‘incredible news’, Chris"
-date: 2021-08-25
-source-url: https://www.scoop.co.nz/stories/PA2108/S00215/what-would-have-been-incredible-news-chris.htm
+title: What would have been ‘incredible news’, Chris
+date: 2021-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00215/what-would-have-been-incredible-news-chris.htm
 author: act-new-zealand
+permalink: /archive/2021/08/25/what-would-have-been-incredible-news-chris/index.html
+layout: layout.njk
 ---
 What would have been ‘incredible news’, Chris
 =============================================

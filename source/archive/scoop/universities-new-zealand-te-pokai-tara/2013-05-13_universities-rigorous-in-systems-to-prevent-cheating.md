@@ -1,9 +1,13 @@
 ---
 slug: universities-rigorous-in-systems-to-prevent-cheating
-title: "Universities rigorous in systems to prevent cheating"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/ED1305/S00079/universities-rigorous-in-systems-to-prevent-cheating.htm
+title: Universities rigorous in systems to prevent cheating
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00079/universities-rigorous-in-systems-to-prevent-cheating.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/05/13/universities-rigorous-in-systems-to-prevent-cheating/index.html
+layout: layout.njk
 ---
 Universities rigorous in systems to prevent cheating
 ====================================================

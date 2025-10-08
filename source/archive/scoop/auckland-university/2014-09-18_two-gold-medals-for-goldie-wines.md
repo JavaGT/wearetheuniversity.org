@@ -1,9 +1,12 @@
 ---
 slug: two-gold-medals-for-goldie-wines
-title: "Two gold medals for Goldie Wines"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/BU1409/S00646/two-gold-medals-for-goldie-wines.htm
+title: Two gold medals for Goldie Wines
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00646/two-gold-medals-for-goldie-wines.htm
 author: auckland-university
+permalink: /archive/2014/09/18/two-gold-medals-for-goldie-wines/index.html
+layout: layout.njk
 ---
 Two gold medals for Goldie Wines
 ================================

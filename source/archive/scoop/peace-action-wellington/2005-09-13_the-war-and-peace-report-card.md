@@ -1,9 +1,12 @@
 ---
 slug: the-war-and-peace-report-card
-title: "The war and peace report card"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PO0509/S00159/the-war-and-peace-report-card.htm
+title: The war and peace report card
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00159/the-war-and-peace-report-card.htm
 author: peace-action-wellington
+permalink: /archive/2005/09/13/the-war-and-peace-report-card/index.html
+layout: layout.njk
 ---
 The war and peace report card
 =============================

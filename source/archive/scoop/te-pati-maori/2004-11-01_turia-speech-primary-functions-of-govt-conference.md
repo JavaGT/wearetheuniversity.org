@@ -1,9 +1,13 @@
 ---
 slug: turia-speech-primary-functions-of-govt-conference
-title: "Turia Speech: Primary Functions of Govt Conference"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00007/turia-speech-primary-functions-of-govt-conference.htm
+title: 'Turia Speech: Primary Functions of Govt Conference'
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00007/turia-speech-primary-functions-of-govt-conference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/11/01/turia-speech-primary-functions-of-govt-conference/index.html
+layout: layout.njk
 ---
 Turia Speech: Primary Functions of Govt Conference
 ==================================================

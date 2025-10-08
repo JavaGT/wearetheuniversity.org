@@ -1,9 +1,13 @@
 ---
 slug: record-international-student-numbers-at-victoria
-title: "Record international student numbers at Victoria"
-date: 2001-04-20
-source-url: https://www.scoop.co.nz/stories/ED0104/S00016/record-international-student-numbers-at-victoria.htm
+title: Record international student numbers at Victoria
+date: 2001-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00016/record-international-student-numbers-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/04/20/record-international-student-numbers-at-victoria/index.html
+layout: layout.njk
 ---
 Record international student numbers at Victoria
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-sport-coaching-tutor-named-nz-u23-basketball-coach
-title: "UC Sport Coaching tutor named NZ U23 basketball coach"
-date: 2019-09-05
-source-url: https://www.scoop.co.nz/stories/CU1909/S00075/uc-sport-coaching-tutor-named-nz-u23-basketball-coach.htm
+title: UC Sport Coaching tutor named NZ U23 basketball coach
+date: 2019-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1909/S00075/uc-sport-coaching-tutor-named-nz-u23-basketball-coach.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/05/uc-sport-coaching-tutor-named-nz-u23-basketball-coach/index.html
+layout: layout.njk
 ---
 UC Sport Coaching tutor named NZ U23 basketball coach
 =====================================================

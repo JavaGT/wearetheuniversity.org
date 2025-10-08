@@ -1,9 +1,12 @@
 ---
 slug: want-to-learn-how-to-charm-a-worm
-title: "Want to learn how to charm a worm?"
-date: 2012-01-31
-source-url: https://www.scoop.co.nz/stories/ED1201/S00069/want-to-learn-how-to-charm-a-worm.htm
+title: Want to learn how to charm a worm?
+date: 2012-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00069/want-to-learn-how-to-charm-a-worm.htm
 author: lincoln-university
+permalink: /archive/2012/01/31/want-to-learn-how-to-charm-a-worm/index.html
+layout: layout.njk
 ---
 Want to learn how to charm a worm?
 ==================================

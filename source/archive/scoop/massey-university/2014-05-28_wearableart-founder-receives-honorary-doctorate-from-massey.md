@@ -1,9 +1,13 @@
 ---
 slug: wearableart-founder-receives-honorary-doctorate-from-massey
-title: "WearableArt founder receives Honorary Doctorate from Massey"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/ED1405/S00140/wearableart-founder-receives-honorary-doctorate-from-massey.htm
+title: WearableArt founder receives Honorary Doctorate from Massey
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00140/wearableart-founder-receives-honorary-doctorate-from-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/28/wearableart-founder-receives-honorary-doctorate-from-massey/index.html
+layout: layout.njk
 ---
 WearableArt founder receives Honorary Doctorate from Massey
 ===========================================================

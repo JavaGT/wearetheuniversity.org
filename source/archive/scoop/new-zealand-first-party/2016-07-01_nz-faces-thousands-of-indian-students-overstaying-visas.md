@@ -1,9 +1,13 @@
 ---
 slug: nz-faces-thousands-of-indian-students-overstaying-visas
-title: "NZ Faces Thousands Of Indian Students Overstaying Visas"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/PA1607/S00020/nz-faces-thousands-of-indian-students-overstaying-visas.htm
+title: NZ Faces Thousands Of Indian Students Overstaying Visas
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00020/nz-faces-thousands-of-indian-students-overstaying-visas.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/01/nz-faces-thousands-of-indian-students-overstaying-visas/index.html
+layout: layout.njk
 ---
 NZ Faces Thousands Of Indian Students Overstaying Visas
 =======================================================

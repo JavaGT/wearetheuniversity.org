@@ -1,9 +1,12 @@
 ---
 slug: labour-buries-number-of-waiting-list-dead
-title: "Labour buries number of waiting list dead"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00289/labour-buries-number-of-waiting-list-dead.htm
+title: Labour buries number of waiting list dead
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00289/labour-buries-number-of-waiting-list-dead.htm
 author: act-new-zealand
+permalink: /archive/2005/09/12/labour-buries-number-of-waiting-list-dead/index.html
+layout: layout.njk
 ---
 Labour buries number of waiting list dead
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: support-staff-endorse-physical-contact-guidelines
-title: "Support Staff Endorse Physical Contact Guidelines"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00102/support-staff-endorse-physical-contact-guidelines.htm
+title: Support Staff Endorse Physical Contact Guidelines
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00102/support-staff-endorse-physical-contact-guidelines.htm
 author: nzei
+permalink: >-
+  /archive/2006/09/27/support-staff-endorse-physical-contact-guidelines/index.html
+layout: layout.njk
 ---
 Support Staff Endorse Physical Contact Guidelines
 =================================================

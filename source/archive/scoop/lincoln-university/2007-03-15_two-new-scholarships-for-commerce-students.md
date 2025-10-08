@@ -1,9 +1,12 @@
 ---
 slug: two-new-scholarships-for-commerce-students
-title: "Two New Scholarships for Commerce Students"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/ED0703/S00048/two-new-scholarships-for-commerce-students.htm
+title: Two New Scholarships for Commerce Students
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00048/two-new-scholarships-for-commerce-students.htm
 author: lincoln-university
+permalink: /archive/2007/03/15/two-new-scholarships-for-commerce-students/index.html
+layout: layout.njk
 ---
 Two New Scholarships for Commerce Students
 ==========================================

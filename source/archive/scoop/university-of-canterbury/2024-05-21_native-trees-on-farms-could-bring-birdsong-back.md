@@ -1,9 +1,12 @@
 ---
 slug: native-trees-on-farms-could-bring-birdsong-back
-title: "Native Trees On Farms Could Bring Birdsong Back"
-date: 2024-05-21
-source-url: https://www.scoop.co.nz/stories/SC2405/S00063/native-trees-on-farms-could-bring-birdsong-back.htm
+title: Native Trees On Farms Could Bring Birdsong Back
+date: 2024-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00063/native-trees-on-farms-could-bring-birdsong-back.htm
 author: university-of-canterbury
+permalink: /archive/2024/05/21/native-trees-on-farms-could-bring-birdsong-back/index.html
+layout: layout.njk
 ---
 Native Trees On Farms Could Bring Birdsong Back
 ===============================================

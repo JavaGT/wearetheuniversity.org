@@ -1,9 +1,12 @@
 ---
 slug: oecd-critical-of-labour-roadblocks
-title: "OECD critical of Labour roadblocks"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/PA0507/S00081/oecd-critical-of-labour-roadblocks.htm
+title: OECD critical of Labour roadblocks
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00081/oecd-critical-of-labour-roadblocks.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/05/oecd-critical-of-labour-roadblocks/index.html
+layout: layout.njk
 ---
 OECD critical of Labour roadblocks
 ==================================

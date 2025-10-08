@@ -1,9 +1,11 @@
 ---
 slug: journal-breaks-new-ice
-title: "Journal breaks new ice"
-date: 2010-08-03
+title: Journal breaks new ice
+date: 2010-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1008/S00010/journal-breaks-new-ice.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/03/journal-breaks-new-ice/index.html
+layout: layout.njk
 ---
 Journal breaks new ice
 ======================

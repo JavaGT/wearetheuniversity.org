@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-41
-title: "TEU Tertiary Update Vol 13 No 41"
-date: 2010-10-28
-source-url: https://www.scoop.co.nz/stories/ED1010/S00100/teu-tertiary-update-vol-13-no-41.htm
+title: TEU Tertiary Update Vol 13 No 41
+date: 2010-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00100/teu-tertiary-update-vol-13-no-41.htm
 author: association-of-university-staff
+permalink: /archive/2010/10/28/teu-tertiary-update-vol-13-no-41/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 41
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: government-in-denial-over-state-of-manufacturing
-title: "Government in denial over state of manufacturing"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/PA1306/S00306/government-in-denial-over-state-of-manufacturing.htm
+title: Government in denial over state of manufacturing
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00306/government-in-denial-over-state-of-manufacturing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/18/government-in-denial-over-state-of-manufacturing/index.html
+layout: layout.njk
 ---
 Government in denial over state of manufacturing
 ================================================

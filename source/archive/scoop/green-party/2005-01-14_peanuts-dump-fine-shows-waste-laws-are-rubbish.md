@@ -1,9 +1,12 @@
 ---
 slug: peanuts-dump-fine-shows-waste-laws-are-rubbish
-title: "\"Peanuts\" dump fine shows waste laws are rubbish"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/PA0501/S00099/peanuts-dump-fine-shows-waste-laws-are-rubbish.htm
+title: '"Peanuts" dump fine shows waste laws are rubbish'
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00099/peanuts-dump-fine-shows-waste-laws-are-rubbish.htm
 author: green-party
+permalink: /archive/2005/01/14/peanuts-dump-fine-shows-waste-laws-are-rubbish/index.html
+layout: layout.njk
 ---
 “Peanuts” dump fine shows waste laws are rubbish
 ================================================

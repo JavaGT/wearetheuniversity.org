@@ -1,9 +1,13 @@
 ---
 slug: fulbright-new-zealand-2017-grantees-include-seven-from-uc
-title: "Fulbright New Zealand 2017 grantees include seven from UC"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/ED1706/S00081/fulbright-new-zealand-2017-grantees-include-seven-from-uc.htm
+title: Fulbright New Zealand 2017 grantees include seven from UC
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00081/fulbright-new-zealand-2017-grantees-include-seven-from-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/22/fulbright-new-zealand-2017-grantees-include-seven-from-uc/index.html
+layout: layout.njk
 ---
 Fulbright New Zealand 2017 grantees include seven from UC
 =========================================================

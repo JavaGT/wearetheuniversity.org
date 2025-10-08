@@ -1,9 +1,11 @@
 ---
 slug: recipe-for-dirty-water
-title: "Recipe for Dirty Water"
-date: 2016-02-20
+title: Recipe for Dirty Water
+date: 2016-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1602/S00270/recipe-for-dirty-water.htm
 author: green-party
+permalink: /archive/2016/02/20/recipe-for-dirty-water/index.html
+layout: layout.njk
 ---
 Recipe for Dirty Water
 ======================

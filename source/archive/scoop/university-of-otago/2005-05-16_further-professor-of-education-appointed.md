@@ -1,9 +1,12 @@
 ---
 slug: further-professor-of-education-appointed
-title: "Further Professor of Education appointed"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/ED0505/S00060/further-professor-of-education-appointed.htm
+title: Further Professor of Education appointed
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00060/further-professor-of-education-appointed.htm
 author: university-of-otago
+permalink: /archive/2005/05/16/further-professor-of-education-appointed/index.html
+layout: layout.njk
 ---
 Further Professor of Education appointed
 ========================================

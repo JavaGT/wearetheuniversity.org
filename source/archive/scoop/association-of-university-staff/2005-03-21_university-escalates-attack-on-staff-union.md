@@ -1,9 +1,12 @@
 ---
 slug: university-escalates-attack-on-staff-union
-title: "University escalates attack on staff union"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00074/university-escalates-attack-on-staff-union.htm
+title: University escalates attack on staff union
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00074/university-escalates-attack-on-staff-union.htm
 author: association-of-university-staff
+permalink: /archive/2005/03/21/university-escalates-attack-on-staff-union/index.html
+layout: layout.njk
 ---
 University escalates attack on staff union
 ==========================================

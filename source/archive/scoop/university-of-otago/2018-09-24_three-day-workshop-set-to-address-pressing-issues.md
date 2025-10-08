@@ -1,9 +1,13 @@
 ---
 slug: three-day-workshop-set-to-address-pressing-issues
-title: "Three-day workshop set to address pressing issues"
-date: 2018-09-24
-source-url: https://www.scoop.co.nz/stories/PO1809/S00292/three-day-workshop-set-to-address-pressing-issues.htm
+title: Three-day workshop set to address pressing issues
+date: 2018-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00292/three-day-workshop-set-to-address-pressing-issues.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/24/three-day-workshop-set-to-address-pressing-issues/index.html
+layout: layout.njk
 ---
 Three-day workshop set to address pressing issues
 =================================================

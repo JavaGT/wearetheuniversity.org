@@ -1,9 +1,13 @@
 ---
 slug: monitoring-networking-sites-could-prevent-suicide
-title: "Monitoring  networking sites could prevent suicide"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/PO0910/S00189/monitoring-networking-sites-could-prevent-suicide.htm
+title: Monitoring  networking sites could prevent suicide
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00189/monitoring-networking-sites-could-prevent-suicide.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/10/14/monitoring-networking-sites-could-prevent-suicide/index.html
+layout: layout.njk
 ---
 Monitoring networking sites could prevent suicide
 =================================================

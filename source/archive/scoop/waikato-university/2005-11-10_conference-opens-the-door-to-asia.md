@@ -1,9 +1,12 @@
 ---
 slug: conference-opens-the-door-to-asia
-title: "Conference opens the door to Asia"
-date: 2005-11-10
-source-url: https://www.scoop.co.nz/stories/ED0511/S00047/conference-opens-the-door-to-asia.htm
+title: Conference opens the door to Asia
+date: 2005-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00047/conference-opens-the-door-to-asia.htm
 author: waikato-university
+permalink: /archive/2005/11/10/conference-opens-the-door-to-asia/index.html
+layout: layout.njk
 ---
 Conference opens the door to Asia
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: free-condoms-to-be-commended-not-condemned
-title: "Free condoms to be commended, not condemned"
-date: 2004-06-29
-source-url: https://www.scoop.co.nz/stories/PA0406/S00467/free-condoms-to-be-commended-not-condemned.htm
+title: Free condoms to be commended, not condemned
+date: 2004-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00467/free-condoms-to-be-commended-not-condemned.htm
 author: green-party
+permalink: /archive/2004/06/29/free-condoms-to-be-commended-not-condemned/index.html
+layout: layout.njk
 ---
 Free condoms to be commended, not condemned
 ===========================================

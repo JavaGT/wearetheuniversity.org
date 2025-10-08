@@ -1,9 +1,13 @@
 ---
 slug: new-challenges-for-new-zealands-ageing-indian-pop
-title: "New challenges for New Zealand’s ageing Indian pop"
-date: 2010-02-16
-source-url: https://www.scoop.co.nz/stories/ED1002/S00053/new-challenges-for-new-zealands-ageing-indian-pop.htm
+title: New challenges for New Zealand’s ageing Indian pop
+date: 2010-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00053/new-challenges-for-new-zealands-ageing-indian-pop.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/02/16/new-challenges-for-new-zealands-ageing-indian-pop/index.html
+layout: layout.njk
 ---
 New challenges for New Zealand’s ageing Indian pop
 ==================================================

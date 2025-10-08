@@ -1,9 +1,13 @@
 ---
 slug: student-and-all-blacks-captain-coping-well-with-studies
-title: "Student and All Blacks captain coping well with studies"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/ED1405/S00089/student-and-all-blacks-captain-coping-well-with-studies.htm
+title: Student and All Blacks captain coping well with studies
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00089/student-and-all-blacks-captain-coping-well-with-studies.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/16/student-and-all-blacks-captain-coping-well-with-studies/index.html
+layout: layout.njk
 ---
 Student and All Blacks captain coping well with studies
 =======================================================

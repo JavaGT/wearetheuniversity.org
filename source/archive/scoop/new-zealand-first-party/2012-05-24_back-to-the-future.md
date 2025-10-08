@@ -1,9 +1,11 @@
 ---
 slug: back-to-the-future
-title: "\"Back to the Future\""
-date: 2012-05-24
+title: '"Back to the Future"'
+date: 2012-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00446/back-to-the-future.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/24/back-to-the-future/index.html
+layout: layout.njk
 ---
 “Back to the Future”
 ====================

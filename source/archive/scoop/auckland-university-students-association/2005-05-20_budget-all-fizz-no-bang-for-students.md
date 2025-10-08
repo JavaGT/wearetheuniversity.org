@@ -1,9 +1,12 @@
 ---
 slug: budget-all-fizz-no-bang-for-students
-title: "Budget all Fizz, No Bang for Students"
-date: 2005-05-20
-source-url: https://www.scoop.co.nz/stories/ED0505/S00096/budget-all-fizz-no-bang-for-students.htm
+title: Budget all Fizz, No Bang for Students
+date: 2005-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00096/budget-all-fizz-no-bang-for-students.htm
 author: auckland-university-students-association
+permalink: /archive/2005/05/20/budget-all-fizz-no-bang-for-students/index.html
+layout: layout.njk
 ---
 Budget all Fizz, No Bang for Students
 =====================================

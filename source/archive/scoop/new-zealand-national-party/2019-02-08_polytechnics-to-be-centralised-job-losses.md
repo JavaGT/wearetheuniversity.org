@@ -1,9 +1,12 @@
 ---
 slug: polytechnics-to-be-centralised-job-losses
-title: "Polytechnics to be centralised – job losses"
-date: 2019-02-08
-source-url: https://www.scoop.co.nz/stories/PA1902/S00062/polytechnics-to-be-centralised-job-losses.htm
+title: Polytechnics to be centralised – job losses
+date: 2019-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00062/polytechnics-to-be-centralised-job-losses.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/08/polytechnics-to-be-centralised-job-losses/index.html
+layout: layout.njk
 ---
 Polytechnics to be centralised – job losses
 ===========================================

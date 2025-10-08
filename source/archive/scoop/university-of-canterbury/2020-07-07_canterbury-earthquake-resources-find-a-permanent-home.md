@@ -1,9 +1,13 @@
 ---
 slug: canterbury-earthquake-resources-find-a-permanent-home
-title: "Canterbury Earthquake Resources Find A Permanent Home"
-date: 2020-07-07
-source-url: https://www.scoop.co.nz/stories/ED2007/S00006/canterbury-earthquake-resources-find-a-permanent-home.htm
+title: Canterbury Earthquake Resources Find A Permanent Home
+date: 2020-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00006/canterbury-earthquake-resources-find-a-permanent-home.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/07/canterbury-earthquake-resources-find-a-permanent-home/index.html
+layout: layout.njk
 ---
 Canterbury Earthquake Resources Find A Permanent Home
 =====================================================

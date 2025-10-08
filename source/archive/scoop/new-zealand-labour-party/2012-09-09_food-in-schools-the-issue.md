@@ -1,9 +1,11 @@
 ---
 slug: food-in-schools-the-issue
-title: "Food in Schools - The Issue"
-date: 2012-09-09
+title: Food in Schools - The Issue
+date: 2012-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1209/S00107/food-in-schools-the-issue.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/09/food-in-schools-the-issue/index.html
+layout: layout.njk
 ---
 Food in Schools - The Issue
 ===========================

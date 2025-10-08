@@ -1,9 +1,11 @@
 ---
 slug: breaking-the-ice
-title: "Breaking The Ice"
-date: 2007-06-29
+title: Breaking The Ice
+date: 2007-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0706/S00311/breaking-the-ice.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/29/breaking-the-ice/index.html
+layout: layout.njk
 ---
 Breaking The Ice
 ================

@@ -1,9 +1,12 @@
 ---
 slug: student-needs-must-come-first
-title: "Student Needs Must Come First"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/ED0005/S00022/student-needs-must-come-first.htm
+title: Student Needs Must Come First
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00022/student-needs-must-come-first.htm
 author: victoria-university-students-association
+permalink: /archive/2000/05/15/student-needs-must-come-first/index.html
+layout: layout.njk
 ---
 Student Needs Must Come First
 =============================

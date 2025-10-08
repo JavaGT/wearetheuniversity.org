@@ -1,9 +1,12 @@
 ---
 slug: heavy-rains-lead-to-preventable-pollution
-title: "Heavy rains lead to preventable pollution"
-date: 2010-10-01
-source-url: https://www.scoop.co.nz/stories/PA1010/S00018/heavy-rains-lead-to-preventable-pollution.htm
+title: Heavy rains lead to preventable pollution
+date: 2010-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00018/heavy-rains-lead-to-preventable-pollution.htm
 author: green-party
+permalink: /archive/2010/10/01/heavy-rains-lead-to-preventable-pollution/index.html
+layout: layout.njk
 ---
 Heavy rains lead to preventable pollution
 =========================================

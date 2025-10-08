@@ -1,9 +1,12 @@
 ---
 slug: greensill-supports-our-tertiary-warriors
-title: "Greensill Supports our Tertiary Warriors"
-date: 2008-09-24
-source-url: https://www.scoop.co.nz/stories/PO0809/S00332/greensill-supports-our-tertiary-warriors.htm
+title: Greensill Supports our Tertiary Warriors
+date: 2008-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00332/greensill-supports-our-tertiary-warriors.htm
 author: te-pati-maori
+permalink: /archive/2008/09/24/greensill-supports-our-tertiary-warriors/index.html
+layout: layout.njk
 ---
 Greensill Supports our Tertiary Warriors
 ========================================

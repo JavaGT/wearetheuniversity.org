@@ -1,9 +1,12 @@
 ---
 slug: tolleys-calls-essential-programmes-hobby-course
-title: "Tolley’s calls essential programmes \"hobby\" course"
-date: 2009-06-03
-source-url: https://www.scoop.co.nz/stories/PA0906/S00045/tolleys-calls-essential-programmes-hobby-course.htm
+title: Tolley’s calls essential programmes "hobby" course
+date: 2009-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00045/tolleys-calls-essential-programmes-hobby-course.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/03/tolleys-calls-essential-programmes-hobby-course/index.html
+layout: layout.njk
 ---
 Tolley’s calls essential programmes “hobby” course
 ==================================================

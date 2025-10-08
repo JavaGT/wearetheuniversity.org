@@ -1,9 +1,12 @@
 ---
 slug: new-schools-students-given-the-run-around
-title: "New schools: students given the run-around"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/PA0406/S00370/new-schools-students-given-the-run-around.htm
+title: 'New schools: students given the run-around'
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00370/new-schools-students-given-the-run-around.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/24/new-schools-students-given-the-run-around/index.html
+layout: layout.njk
 ---
 New schools: students given the run-around
 ==========================================

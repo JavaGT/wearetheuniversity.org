@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-6-may-2005
-title: "Gerry in The House - 6 May 2005"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00168/gerry-in-the-house-6-may-2005.htm
+title: Gerry in The House - 6 May 2005
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00168/gerry-in-the-house-6-may-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/06/gerry-in-the-house-6-may-2005/index.html
+layout: layout.njk
 ---
 Gerry in The House - 6 May 2005
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: universities-must-respond-to-segregation-accusations
-title: "Universities Must Respond To Segregation Accusations"
-date: 2024-03-26
-source-url: https://www.scoop.co.nz/stories/PA2403/S00153/universities-must-respond-to-segregation-accusations.htm
+title: Universities Must Respond To Segregation Accusations
+date: 2024-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00153/universities-must-respond-to-segregation-accusations.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/03/26/universities-must-respond-to-segregation-accusations/index.html
+layout: layout.njk
 ---
 Universities Must Respond To Segregation Accusations
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: journalism-student-earns-place-in-jakarta
-title: "Journalism student earns place in Jakarta"
-date: 2007-09-24
-source-url: https://www.scoop.co.nz/stories/ED0709/S00077/journalism-student-earns-place-in-jakarta.htm
+title: Journalism student earns place in Jakarta
+date: 2007-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00077/journalism-student-earns-place-in-jakarta.htm
 author: massey-university
+permalink: /archive/2007/09/24/journalism-student-earns-place-in-jakarta/index.html
+layout: layout.njk
 ---
 Journalism student earns place in Jakarta
 =========================================

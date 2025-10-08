@@ -1,9 +1,12 @@
 ---
 slug: labours-student-policy-cause-for-celebration
-title: "Labour's Student Policy Cause for Celebration"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00100/labours-student-policy-cause-for-celebration.htm
+title: Labour's Student Policy Cause for Celebration
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00100/labours-student-policy-cause-for-celebration.htm
 author: otago-university-students-association
+permalink: /archive/2005/07/26/labours-student-policy-cause-for-celebration/index.html
+layout: layout.njk
 ---
 Labour's Student Policy Cause for Celebration
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-agreement-with-national-party
-title: "Maori Party welcomes agreement with National Party"
-date: 2008-11-17
-source-url: https://www.scoop.co.nz/stories/PA0811/S00182/maori-party-welcomes-agreement-with-national-party.htm
+title: Maori Party welcomes agreement with National Party
+date: 2008-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00182/maori-party-welcomes-agreement-with-national-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/11/17/maori-party-welcomes-agreement-with-national-party/index.html
+layout: layout.njk
 ---
 Maori Party welcomes agreement with National Party
 ==================================================

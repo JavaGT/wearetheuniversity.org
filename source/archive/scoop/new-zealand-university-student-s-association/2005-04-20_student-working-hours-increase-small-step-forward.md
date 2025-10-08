@@ -1,9 +1,13 @@
 ---
 slug: student-working-hours-increase-small-step-forward
-title: "Student working hours increase small step forward"
-date: 2005-04-20
-source-url: https://www.scoop.co.nz/stories/ED0504/S00074/student-working-hours-increase-small-step-forward.htm
+title: Student working hours increase small step forward
+date: 2005-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00074/student-working-hours-increase-small-step-forward.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/04/20/student-working-hours-increase-small-step-forward/index.html
+layout: layout.njk
 ---
 Student working hours increase small step forward
 =================================================

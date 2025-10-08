@@ -1,9 +1,12 @@
 ---
 slug: call-for-education-to-be-excluded-from-gats
-title: "Call for education to be excluded from GATS"
-date: 2003-02-11
-source-url: https://www.scoop.co.nz/stories/GE0302/S00011/call-for-education-to-be-excluded-from-gats.htm
+title: Call for education to be excluded from GATS
+date: 2003-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0302/S00011/call-for-education-to-be-excluded-from-gats.htm
 author: association-of-university-staff
+permalink: /archive/2003/02/11/call-for-education-to-be-excluded-from-gats/index.html
+layout: layout.njk
 ---
 Call for education to be excluded from GATS
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-simon-upton-national-identity
-title: "Speech Simon Upton - National Identity"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/PA0005/S00310/speech-simon-upton-national-identity.htm
+title: Speech Simon Upton - National Identity
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00310/speech-simon-upton-national-identity.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/15/speech-simon-upton-national-identity/index.html
+layout: layout.njk
 ---
 Speech Simon Upton - National Identity
 ======================================

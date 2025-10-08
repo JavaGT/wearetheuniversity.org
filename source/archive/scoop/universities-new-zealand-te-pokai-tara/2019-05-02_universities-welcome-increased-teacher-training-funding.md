@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-increased-teacher-training-funding
-title: "Universities welcome increased teacher training funding"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/ED1905/S00013/universities-welcome-increased-teacher-training-funding.htm
+title: Universities welcome increased teacher training funding
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00013/universities-welcome-increased-teacher-training-funding.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/05/02/universities-welcome-increased-teacher-training-funding/index.html
+layout: layout.njk
 ---
 Universities welcome increased teacher training funding
 =======================================================

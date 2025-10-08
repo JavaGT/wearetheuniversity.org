@@ -1,9 +1,12 @@
 ---
 slug: aut-professor-takes-out-nzier-economics-award
-title: "AUT Professor Takes Out NZIER Economics Award"
-date: 2018-08-29
-source-url: https://www.scoop.co.nz/stories/BU1808/S00932/aut-professor-takes-out-nzier-economics-award.htm
+title: AUT Professor Takes Out NZIER Economics Award
+date: 2018-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1808/S00932/aut-professor-takes-out-nzier-economics-award.htm
 author: aut-university
+permalink: /archive/2018/08/29/aut-professor-takes-out-nzier-economics-award/index.html
+layout: layout.njk
 ---
 AUT Professor Takes Out NZIER Economics Award
 =============================================

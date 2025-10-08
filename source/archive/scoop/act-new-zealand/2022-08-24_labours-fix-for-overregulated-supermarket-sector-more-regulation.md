@@ -1,9 +1,13 @@
 ---
 slug: labours-fix-for-overregulated-supermarket-sector-more-regulation
-title: "Labour’s Fix For Overregulated Supermarket Sector – More Regulation"
-date: 2022-08-24
-source-url: https://www.scoop.co.nz/stories/BU2208/S00315/labours-fix-for-overregulated-supermarket-sector-more-regulation.htm
+title: Labour’s Fix For Overregulated Supermarket Sector – More Regulation
+date: 2022-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2208/S00315/labours-fix-for-overregulated-supermarket-sector-more-regulation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/24/labours-fix-for-overregulated-supermarket-sector-more-regulation/index.html
+layout: layout.njk
 ---
 Labour’s Fix For Overregulated Supermarket Sector – More Regulation
 ===================================================================

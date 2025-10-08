@@ -1,9 +1,12 @@
 ---
 slug: us-embassy-protest-over-war-crimes-in-fallujah
-title: "US Embassy Protest Over War Crimes in Fallujah"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/PO0412/S00168/us-embassy-protest-over-war-crimes-in-fallujah.htm
+title: US Embassy Protest Over War Crimes in Fallujah
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00168/us-embassy-protest-over-war-crimes-in-fallujah.htm
 author: peace-action-wellington
+permalink: /archive/2004/12/15/us-embassy-protest-over-war-crimes-in-fallujah/index.html
+layout: layout.njk
 ---
 US Embassy Protest Over War Crimes in Fallujah
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: st-peters-and-lincoln-demonstration-dairy-farm-for-waikato
-title: "St Peter’s and Lincoln demonstration dairy farm for Waikato"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/ED1406/S00052/st-peters-and-lincoln-demonstration-dairy-farm-for-waikato.htm
+title: St Peter’s and Lincoln demonstration dairy farm for Waikato
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00052/st-peters-and-lincoln-demonstration-dairy-farm-for-waikato.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/06/10/st-peters-and-lincoln-demonstration-dairy-farm-for-waikato/index.html
+layout: layout.njk
 ---
 St Peter’s and Lincoln demonstration dairy farm for Waikato
 ===========================================================

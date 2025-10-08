@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-again-ranked-amongst-worlds-best
-title: "NZ universities again ranked amongst world’s best"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/ED1609/S00102/nz-universities-again-ranked-amongst-worlds-best.htm
+title: NZ universities again ranked amongst world’s best
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00102/nz-universities-again-ranked-amongst-worlds-best.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/09/22/nz-universities-again-ranked-amongst-worlds-best/index.html
+layout: layout.njk
 ---
 NZ universities again ranked amongst world’s best
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: equine-root-canal-a-new-zealand-first
-title: "Equine root canal a New Zealand first"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/ED0610/S00021/equine-root-canal-a-new-zealand-first.htm
+title: Equine root canal a New Zealand first
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00021/equine-root-canal-a-new-zealand-first.htm
 author: massey-university
+permalink: /archive/2006/10/06/equine-root-canal-a-new-zealand-first/index.html
+layout: layout.njk
 ---
 Equine root canal a New Zealand first
 =====================================

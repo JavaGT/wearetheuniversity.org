@@ -1,9 +1,13 @@
 ---
 slug: medical-students-commend-move-to-extend-loan-limit
-title: "Medical students commend move to extend loan limit"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/ED1512/S00005/medical-students-commend-move-to-extend-loan-limit.htm
+title: Medical students commend move to extend loan limit
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00005/medical-students-commend-move-to-extend-loan-limit.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2015/12/01/medical-students-commend-move-to-extend-loan-limit/index.html
+layout: layout.njk
 ---
 Medical students commend move to extend loan limit
 ==================================================

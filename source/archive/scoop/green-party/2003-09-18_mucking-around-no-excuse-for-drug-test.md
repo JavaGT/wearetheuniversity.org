@@ -1,9 +1,12 @@
 ---
 slug: mucking-around-no-excuse-for-drug-test
-title: "\"Mucking around\" no excuse for drug-test"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/PA0309/S00422/mucking-around-no-excuse-for-drug-test.htm
+title: '"Mucking around" no excuse for drug-test'
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00422/mucking-around-no-excuse-for-drug-test.htm
 author: green-party
+permalink: /archive/2003/09/18/mucking-around-no-excuse-for-drug-test/index.html
+layout: layout.njk
 ---
 "Mucking around" no excuse for drug-test
 ========================================

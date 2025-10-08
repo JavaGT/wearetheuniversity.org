@@ -1,9 +1,13 @@
 ---
 slug: sit-paying-the-price-for-the-govts-tertiary-reforms
-title: "SIT Paying The Price For The Govt’s Tertiary Reforms"
-date: 2021-02-18
-source-url: https://www.scoop.co.nz/stories/PA2102/S00098/sit-paying-the-price-for-the-govts-tertiary-reforms.htm
+title: SIT Paying The Price For The Govt’s Tertiary Reforms
+date: 2021-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00098/sit-paying-the-price-for-the-govts-tertiary-reforms.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/02/18/sit-paying-the-price-for-the-govts-tertiary-reforms/index.html
+layout: layout.njk
 ---
 SIT Paying The Price For The Govt’s Tertiary Reforms
 ====================================================

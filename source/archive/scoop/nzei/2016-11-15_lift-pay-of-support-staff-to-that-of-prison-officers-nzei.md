@@ -1,9 +1,13 @@
 ---
 slug: lift-pay-of-support-staff-to-that-of-prison-officers-nzei
-title: "Lift pay of support staff to that of prison officers - NZEI"
-date: 2016-11-15
-source-url: https://www.scoop.co.nz/stories/PO1611/S00204/lift-pay-of-support-staff-to-that-of-prison-officers-nzei.htm
+title: Lift pay of support staff to that of prison officers - NZEI
+date: 2016-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00204/lift-pay-of-support-staff-to-that-of-prison-officers-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2016/11/15/lift-pay-of-support-staff-to-that-of-prison-officers-nzei/index.html
+layout: layout.njk
 ---
 Lift pay of support staff to that of prison officers - NZEI
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: smaller-class-sizes-will-be-a-big-boost-to-student-learning
-title: "Smaller class sizes will be a big boost to student learning"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00034/smaller-class-sizes-will-be-a-big-boost-to-student-learning.htm
+title: Smaller class sizes will be a big boost to student learning
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00034/smaller-class-sizes-will-be-a-big-boost-to-student-learning.htm
 author: nzei
+permalink: >-
+  /archive/2014/07/07/smaller-class-sizes-will-be-a-big-boost-to-student-learning/index.html
+layout: layout.njk
 ---
 Smaller class sizes will be a big boost to student learning
 ===========================================================

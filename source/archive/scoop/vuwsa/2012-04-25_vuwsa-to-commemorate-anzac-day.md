@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-to-commemorate-anzac-day
-title: "VUWSA to commemorate ANZAC Day"
-date: 2012-04-25
-source-url: https://www.scoop.co.nz/stories/ED1204/S00098/vuwsa-to-commemorate-anzac-day.htm
+title: VUWSA to commemorate ANZAC Day
+date: 2012-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00098/vuwsa-to-commemorate-anzac-day.htm
 author: vuwsa
+permalink: /archive/2012/04/25/vuwsa-to-commemorate-anzac-day/index.html
+layout: layout.njk
 ---
 VUWSA to commemorate ANZAC Day
 ==============================

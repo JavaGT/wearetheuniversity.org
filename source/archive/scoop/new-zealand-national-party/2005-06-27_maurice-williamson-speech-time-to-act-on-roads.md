@@ -1,9 +1,12 @@
 ---
 slug: maurice-williamson-speech-time-to-act-on-roads
-title: "Maurice Williamson Speech: Time to act on roads"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00624/maurice-williamson-speech-time-to-act-on-roads.htm
+title: 'Maurice Williamson Speech: Time to act on roads'
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00624/maurice-williamson-speech-time-to-act-on-roads.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/maurice-williamson-speech-time-to-act-on-roads/index.html
+layout: layout.njk
 ---
 Maurice Williamson Speech: Time to act on roads
 ===============================================

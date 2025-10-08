@@ -1,9 +1,11 @@
 ---
 slug: whos-checking-the-checkers
-title: "Who’s Checking The Checkers?"
-date: 2021-02-23
+title: Who’s Checking The Checkers?
+date: 2021-02-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2102/S00127/whos-checking-the-checkers.htm
 author: act-new-zealand
+permalink: /archive/2021/02/23/whos-checking-the-checkers/index.html
+layout: layout.njk
 ---
 Who’s Checking The Checkers?
 ============================

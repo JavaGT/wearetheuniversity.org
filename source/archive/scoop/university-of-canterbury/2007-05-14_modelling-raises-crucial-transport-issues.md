@@ -1,9 +1,12 @@
 ---
 slug: modelling-raises-crucial-transport-issues
-title: "Modelling raises crucial transport issues"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/SC0705/S00033/modelling-raises-crucial-transport-issues.htm
+title: Modelling raises crucial transport issues
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0705/S00033/modelling-raises-crucial-transport-issues.htm
 author: university-of-canterbury
+permalink: /archive/2007/05/14/modelling-raises-crucial-transport-issues/index.html
+layout: layout.njk
 ---
 Modelling raises crucial transport issues
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-buy-covid-treatments-now
-title: "Government Must Buy Covid Treatments Now"
-date: 2021-10-05
-source-url: https://www.scoop.co.nz/stories/PA2110/S00046/government-must-buy-covid-treatments-now.htm
+title: Government Must Buy Covid Treatments Now
+date: 2021-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00046/government-must-buy-covid-treatments-now.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/05/government-must-buy-covid-treatments-now/index.html
+layout: layout.njk
 ---
 Government Must Buy Covid Treatments Now
 ========================================

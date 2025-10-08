@@ -1,9 +1,12 @@
 ---
 slug: university-rescue-package-called-for
-title: "University rescue package called for"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/ED0006/S00029/university-rescue-package-called-for.htm
+title: University rescue package called for
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00029/university-rescue-package-called-for.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/20/university-rescue-package-called-for/index.html
+layout: layout.njk
 ---
 University rescue package called for
 ====================================

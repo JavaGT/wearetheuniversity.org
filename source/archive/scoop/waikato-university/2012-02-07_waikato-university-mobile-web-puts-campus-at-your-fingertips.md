@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-mobile-web-puts-campus-at-your-fingertips
-title: "Waikato University mobile web puts campus at your fingertips"
-date: 2012-02-07
-source-url: https://www.scoop.co.nz/stories/ED1202/S00029/waikato-university-mobile-web-puts-campus-at-your-fingertips.htm
+title: Waikato University mobile web puts campus at your fingertips
+date: 2012-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00029/waikato-university-mobile-web-puts-campus-at-your-fingertips.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/02/07/waikato-university-mobile-web-puts-campus-at-your-fingertips/index.html
+layout: layout.njk
 ---
 Waikato University mobile web puts campus at your fingertips
 ============================================================

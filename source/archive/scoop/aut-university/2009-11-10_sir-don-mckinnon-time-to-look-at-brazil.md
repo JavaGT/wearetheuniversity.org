@@ -1,9 +1,12 @@
 ---
 slug: sir-don-mckinnon-time-to-look-at-brazil
-title: "Sir Don McKinnon: Time to look at Brazil"
-date: 2009-11-10
-source-url: https://www.scoop.co.nz/stories/BU0911/S00295/sir-don-mckinnon-time-to-look-at-brazil.htm
+title: 'Sir Don McKinnon: Time to look at Brazil'
+date: 2009-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00295/sir-don-mckinnon-time-to-look-at-brazil.htm
 author: aut-university
+permalink: /archive/2009/11/10/sir-don-mckinnon-time-to-look-at-brazil/index.html
+layout: layout.njk
 ---
 Sir Don McKinnon: Time to look at Brazil
 ========================================

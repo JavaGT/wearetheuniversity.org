@@ -1,9 +1,13 @@
 ---
 slug: uc-phd-students-entering-their-world-first-geothermal-game
-title: "UC PhD students entering their world-first geothermal game"
-date: 2012-08-31
-source-url: https://www.scoop.co.nz/stories/SC1208/S00085/uc-phd-students-entering-their-world-first-geothermal-game.htm
+title: UC PhD students entering their world-first geothermal game
+date: 2012-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00085/uc-phd-students-entering-their-world-first-geothermal-game.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/31/uc-phd-students-entering-their-world-first-geothermal-game/index.html
+layout: layout.njk
 ---
 UC PhD students entering their world-first geothermal game
 ==========================================================

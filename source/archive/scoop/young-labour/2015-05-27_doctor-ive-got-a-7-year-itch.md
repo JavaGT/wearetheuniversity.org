@@ -1,9 +1,11 @@
 ---
 slug: doctor-ive-got-a-7-year-itch
-title: "Doctor, I’ve got a 7 year itch"
-date: 2015-05-27
+title: Doctor, I’ve got a 7 year itch
+date: 2015-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1505/S00371/doctor-ive-got-a-7-year-itch.htm
 author: young-labour
+permalink: /archive/2015/05/27/doctor-ive-got-a-7-year-itch/index.html
+layout: layout.njk
 ---
 Doctor, I’ve got a 7 year itch
 ==============================

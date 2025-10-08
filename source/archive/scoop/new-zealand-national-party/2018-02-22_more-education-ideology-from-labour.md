@@ -1,9 +1,12 @@
 ---
 slug: more-education-ideology-from-labour
-title: "More education ideology from Labour"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00204/more-education-ideology-from-labour.htm
+title: More education ideology from Labour
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00204/more-education-ideology-from-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/22/more-education-ideology-from-labour/index.html
+layout: layout.njk
 ---
 More education ideology from Labour
 ===================================

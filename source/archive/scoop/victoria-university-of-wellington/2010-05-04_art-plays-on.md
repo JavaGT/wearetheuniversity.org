@@ -1,9 +1,11 @@
 ---
 slug: art-plays-on
-title: "Art plays on"
-date: 2010-05-04
+title: Art plays on
+date: 2010-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1005/S00020/art-plays-on.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/04/art-plays-on/index.html
+layout: layout.njk
 ---
 Art plays on
 ============

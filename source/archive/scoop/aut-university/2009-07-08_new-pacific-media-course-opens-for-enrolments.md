@@ -1,9 +1,12 @@
 ---
 slug: new-pacific-media-course-opens-for-enrolments
-title: "New Pacific Media Course Opens For Enrolments"
-date: 2009-07-08
-source-url: https://www.scoop.co.nz/stories/ED0907/S00035/new-pacific-media-course-opens-for-enrolments.htm
+title: New Pacific Media Course Opens For Enrolments
+date: 2009-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00035/new-pacific-media-course-opens-for-enrolments.htm
 author: aut-university
+permalink: /archive/2009/07/08/new-pacific-media-course-opens-for-enrolments/index.html
+layout: layout.njk
 ---
 New Pacific Media Course Opens For Enrolments
 =============================================

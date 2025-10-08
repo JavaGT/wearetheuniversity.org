@@ -1,9 +1,13 @@
 ---
 slug: time-to-lift-veil-of-secrecy-on-animal-experiments
-title: "Time to lift veil of secrecy on animal experiments"
-date: 2002-10-04
-source-url: https://www.scoop.co.nz/stories/PA0210/S00113/time-to-lift-veil-of-secrecy-on-animal-experiments.htm
+title: Time to lift veil of secrecy on animal experiments
+date: 2002-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00113/time-to-lift-veil-of-secrecy-on-animal-experiments.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/04/time-to-lift-veil-of-secrecy-on-animal-experiments/index.html
+layout: layout.njk
 ---
 Time to lift veil of secrecy on animal experiments
 ==================================================

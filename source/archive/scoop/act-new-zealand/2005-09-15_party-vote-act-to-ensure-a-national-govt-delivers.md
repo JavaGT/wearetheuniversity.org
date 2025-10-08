@@ -1,9 +1,13 @@
 ---
 slug: party-vote-act-to-ensure-a-national-govt-delivers
-title: "Party Vote ACT to ensure a National govt delivers"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00427/party-vote-act-to-ensure-a-national-govt-delivers.htm
+title: Party Vote ACT to ensure a National govt delivers
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00427/party-vote-act-to-ensure-a-national-govt-delivers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/09/15/party-vote-act-to-ensure-a-national-govt-delivers/index.html
+layout: layout.njk
 ---
 Party Vote ACT to ensure a National govt delivers
 =================================================

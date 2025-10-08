@@ -1,9 +1,13 @@
 ---
 slug: four-new-partnership-schools-cancelled-without-telling-them
-title: "Four new partnership schools cancelled without telling them"
-date: 2017-11-04
-source-url: https://www.scoop.co.nz/stories/PA1711/S00022/four-new-partnership-schools-cancelled-without-telling-them.htm
+title: Four new partnership schools cancelled without telling them
+date: 2017-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00022/four-new-partnership-schools-cancelled-without-telling-them.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/04/four-new-partnership-schools-cancelled-without-telling-them/index.html
+layout: layout.njk
 ---
 Four new partnership schools cancelled without telling them
 ===========================================================

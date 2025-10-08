@@ -1,9 +1,11 @@
 ---
 slug: sounds-korean
-title: "Sounds Korean"
-date: 2004-03-22
+title: Sounds Korean
+date: 2004-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0403/S00131/sounds-korean.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/22/sounds-korean/index.html
+layout: layout.njk
 ---
 Sounds Korean
 =============

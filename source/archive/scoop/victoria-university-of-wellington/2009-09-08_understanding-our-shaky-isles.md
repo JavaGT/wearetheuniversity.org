@@ -1,9 +1,12 @@
 ---
 slug: understanding-our-shaky-isles
-title: "Understanding our Shaky Isles"
-date: 2009-09-08
-source-url: https://www.scoop.co.nz/stories/SC0909/S00021/understanding-our-shaky-isles.htm
+title: Understanding our Shaky Isles
+date: 2009-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00021/understanding-our-shaky-isles.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/08/understanding-our-shaky-isles/index.html
+layout: layout.njk
 ---
 Understanding our Shaky Isles
 =============================

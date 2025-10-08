@@ -1,9 +1,12 @@
 ---
 slug: volcanologists-have-eye-on-the-sky
-title: "Volcanologists have eye on the sky"
-date: 2011-04-11
-source-url: https://www.scoop.co.nz/stories/SC1104/S00019/volcanologists-have-eye-on-the-sky.htm
+title: Volcanologists have eye on the sky
+date: 2011-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00019/volcanologists-have-eye-on-the-sky.htm
 author: massey-university
+permalink: /archive/2011/04/11/volcanologists-have-eye-on-the-sky/index.html
+layout: layout.njk
 ---
 Volcanologists have eye on the sky
 ==================================

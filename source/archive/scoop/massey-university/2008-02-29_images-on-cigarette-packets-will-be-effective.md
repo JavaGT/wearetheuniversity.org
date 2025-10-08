@@ -1,9 +1,12 @@
 ---
 slug: images-on-cigarette-packets-will-be-effective
-title: "Images on cigarette packets 'will be effective'"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/ED0802/S00075/images-on-cigarette-packets-will-be-effective.htm
+title: Images on cigarette packets 'will be effective'
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00075/images-on-cigarette-packets-will-be-effective.htm
 author: massey-university
+permalink: /archive/2008/02/29/images-on-cigarette-packets-will-be-effective/index.html
+layout: layout.njk
 ---
 Images on cigarette packets 'will be effective'
 ===============================================

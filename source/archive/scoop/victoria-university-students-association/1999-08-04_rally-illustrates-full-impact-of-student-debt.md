@@ -1,9 +1,12 @@
 ---
 slug: rally-illustrates-full-impact-of-student-debt
-title: "Rally Illustrates Full Impact Of Student Debt"
-date: 1999-08-04
-source-url: https://www.scoop.co.nz/stories/ED9908/S00001/rally-illustrates-full-impact-of-student-debt.htm
+title: Rally Illustrates Full Impact Of Student Debt
+date: 1999-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9908/S00001/rally-illustrates-full-impact-of-student-debt.htm
 author: victoria-university-students-association
+permalink: /archive/1999/08/04/rally-illustrates-full-impact-of-student-debt/index.html
+layout: layout.njk
 ---
 Rally Illustrates Full Impact Of Student Debt
 =============================================

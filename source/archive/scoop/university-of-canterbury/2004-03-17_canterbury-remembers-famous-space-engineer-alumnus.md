@@ -1,9 +1,13 @@
 ---
 slug: canterbury-remembers-famous-space-engineer-alumnus
-title: "Canterbury remembers famous space engineer alumnus"
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/ED0403/S00072/canterbury-remembers-famous-space-engineer-alumnus.htm
+title: Canterbury remembers famous space engineer alumnus
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00072/canterbury-remembers-famous-space-engineer-alumnus.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/03/17/canterbury-remembers-famous-space-engineer-alumnus/index.html
+layout: layout.njk
 ---
 Canterbury remembers famous space engineer alumnus
 ==================================================

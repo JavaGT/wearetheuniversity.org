@@ -1,9 +1,13 @@
 ---
 slug: pharmac-keeps-head-down-over-important-public-concerns
-title: "Pharmac Keeps Head Down Over Important Public Concerns"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/PA1212/S00248/pharmac-keeps-head-down-over-important-public-concerns.htm
+title: Pharmac Keeps Head Down Over Important Public Concerns
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00248/pharmac-keeps-head-down-over-important-public-concerns.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/12/pharmac-keeps-head-down-over-important-public-concerns/index.html
+layout: layout.njk
 ---
 Pharmac Keeps Head Down Over Important Public Concerns
 ======================================================

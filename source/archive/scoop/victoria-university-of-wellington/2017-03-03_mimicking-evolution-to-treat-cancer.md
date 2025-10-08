@@ -1,9 +1,12 @@
 ---
 slug: mimicking-evolution-to-treat-cancer
-title: "Mimicking evolution to treat cancer"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/SC1703/S00009/mimicking-evolution-to-treat-cancer.htm
+title: Mimicking evolution to treat cancer
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00009/mimicking-evolution-to-treat-cancer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/03/03/mimicking-evolution-to-treat-cancer/index.html
+layout: layout.njk
 ---
 Mimicking evolution to treat cancer
 ===================================

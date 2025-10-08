@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-press-writers-win-awards
-title: "Victoria University Press writers win awards"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/CU1407/S00232/victoria-university-press-writers-win-awards.htm
+title: Victoria University Press writers win awards
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00232/victoria-university-press-writers-win-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/16/victoria-university-press-writers-win-awards/index.html
+layout: layout.njk
 ---
 Victoria University Press writers win awards
 ============================================

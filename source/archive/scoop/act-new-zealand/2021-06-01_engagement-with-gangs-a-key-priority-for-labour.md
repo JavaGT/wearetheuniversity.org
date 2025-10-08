@@ -1,9 +1,12 @@
 ---
 slug: engagement-with-gangs-a-key-priority-for-labour
-title: "Engagement With Gangs A Key Priority For Labour"
-date: 2021-06-01
-source-url: https://www.scoop.co.nz/stories/PA2106/S00001/engagement-with-gangs-a-key-priority-for-labour.htm
+title: Engagement With Gangs A Key Priority For Labour
+date: 2021-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00001/engagement-with-gangs-a-key-priority-for-labour.htm
 author: act-new-zealand
+permalink: /archive/2021/06/01/engagement-with-gangs-a-key-priority-for-labour/index.html
+layout: layout.njk
 ---
 Engagement With Gangs A Key Priority For Labour
 ===============================================

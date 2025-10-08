@@ -1,8 +1,12 @@
 ---
 slug: teen-mum-off-to-geneva-to-speak-on-ending-obesity
-title: "Teen mum off to Geneva to speak on ending obesity"
-date: 2016-05-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/teen-mum-off-to-geneva-to-speak-on-ending-obesity.html
+title: Teen mum off to Geneva to speak on ending obesity
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/teen-mum-off-to-geneva-to-speak-on-ending-obesity.html
+permalink: >-
+  /archive/2016/05/13/teen-mum-off-to-geneva-to-speak-on-ending-obesity/index.html
+layout: layout.njk
 ---
 Teen mum off to Geneva to speak on ending obesity
 =================================================

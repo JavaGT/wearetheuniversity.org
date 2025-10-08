@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-all-over-the-world-to-change-it
-title: "Future Lefts: All over the world. To change it."
-date: 2000-10-06
-source-url: https://www.scoop.co.nz/stories/PO0010/S00028/future-lefts-all-over-the-world-to-change-it.htm
+title: 'Future Lefts: All over the world. To change it.'
+date: 2000-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0010/S00028/future-lefts-all-over-the-world-to-change-it.htm
 author: young-labour
+permalink: /archive/2000/10/06/future-lefts-all-over-the-world-to-change-it/index.html
+layout: layout.njk
 ---
 Future Lefts: All over the world. To change it.
 ===============================================

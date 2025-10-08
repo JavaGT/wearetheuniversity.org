@@ -1,9 +1,12 @@
 ---
 slug: uni-of-otago-agresearch-centre-head-appointed
-title: "Uni of Otago – AgResearch Centre Head Appointed"
-date: 2007-12-21
-source-url: https://www.scoop.co.nz/stories/SC0712/S00061/uni-of-otago-agresearch-centre-head-appointed.htm
+title: Uni of Otago – AgResearch Centre Head Appointed
+date: 2007-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0712/S00061/uni-of-otago-agresearch-centre-head-appointed.htm
 author: university-of-otago
+permalink: /archive/2007/12/21/uni-of-otago-agresearch-centre-head-appointed/index.html
+layout: layout.njk
 ---
 Uni of Otago – AgResearch Centre Head Appointed
 ===============================================

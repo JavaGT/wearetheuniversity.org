@@ -1,9 +1,12 @@
 ---
 slug: green-economics-and-how-it-might-work
-title: "Green Economics and how it might work"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/HL0907/S00214/green-economics-and-how-it-might-work.htm
+title: Green Economics and how it might work
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0907/S00214/green-economics-and-how-it-might-work.htm
 author: salient
+permalink: /archive/2009/07/20/green-economics-and-how-it-might-work/index.html
+layout: layout.njk
 ---
 Green Economics and how it might work
 =====================================

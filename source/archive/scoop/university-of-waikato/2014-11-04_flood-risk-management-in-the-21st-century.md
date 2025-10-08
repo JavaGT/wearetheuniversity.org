@@ -1,9 +1,12 @@
 ---
 slug: flood-risk-management-in-the-21st-century
-title: "Flood risk management in the 21st century"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00007/flood-risk-management-in-the-21st-century.htm
+title: Flood risk management in the 21st century
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00007/flood-risk-management-in-the-21st-century.htm
 author: university-of-waikato
+permalink: /archive/2014/11/04/flood-risk-management-in-the-21st-century/index.html
+layout: layout.njk
 ---
 Flood risk management in the 21st century
 =========================================

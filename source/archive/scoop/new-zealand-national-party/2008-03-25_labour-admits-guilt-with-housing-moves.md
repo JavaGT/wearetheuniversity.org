@@ -1,9 +1,12 @@
 ---
 slug: labour-admits-guilt-with-housing-moves
-title: "Labour admits guilt with housing moves"
-date: 2008-03-25
-source-url: https://www.scoop.co.nz/stories/PA0803/S00409/labour-admits-guilt-with-housing-moves.htm
+title: Labour admits guilt with housing moves
+date: 2008-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00409/labour-admits-guilt-with-housing-moves.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/25/labour-admits-guilt-with-housing-moves/index.html
+layout: layout.njk
 ---
 Labour admits guilt with housing moves
 ======================================

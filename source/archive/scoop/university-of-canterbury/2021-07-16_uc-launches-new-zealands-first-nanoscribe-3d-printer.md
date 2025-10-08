@@ -1,9 +1,13 @@
 ---
 slug: uc-launches-new-zealands-first-nanoscribe-3d-printer
-title: "UC Launches New Zealand’s First Nanoscribe 3D Printer"
-date: 2021-07-16
-source-url: https://www.scoop.co.nz/stories/SC2107/S00046/uc-launches-new-zealands-first-nanoscribe-3d-printer.htm
+title: UC Launches New Zealand’s First Nanoscribe 3D Printer
+date: 2021-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00046/uc-launches-new-zealands-first-nanoscribe-3d-printer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/16/uc-launches-new-zealands-first-nanoscribe-3d-printer/index.html
+layout: layout.njk
 ---
 UC Launches New Zealand’s First Nanoscribe 3D Printer
 =====================================================

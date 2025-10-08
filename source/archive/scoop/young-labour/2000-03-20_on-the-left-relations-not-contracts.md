@@ -1,9 +1,12 @@
 ---
 slug: on-the-left-relations-not-contracts
-title: "On The Left - Relations, not contracts"
-date: 2000-03-20
-source-url: https://www.scoop.co.nz/stories/PO0003/S00081/on-the-left-relations-not-contracts.htm
+title: On The Left - Relations, not contracts
+date: 2000-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00081/on-the-left-relations-not-contracts.htm
 author: young-labour
+permalink: /archive/2000/03/20/on-the-left-relations-not-contracts/index.html
+layout: layout.njk
 ---
 On The Left - Relations, not contracts
 ======================================

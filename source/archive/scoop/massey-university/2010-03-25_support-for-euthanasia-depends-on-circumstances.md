@@ -1,9 +1,12 @@
 ---
 slug: support-for-euthanasia-depends-on-circumstances
-title: "Support for Euthanasia Depends on Circumstances"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/PO1003/S00389/support-for-euthanasia-depends-on-circumstances.htm
+title: Support for Euthanasia Depends on Circumstances
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00389/support-for-euthanasia-depends-on-circumstances.htm
 author: massey-university
+permalink: /archive/2010/03/25/support-for-euthanasia-depends-on-circumstances/index.html
+layout: layout.njk
 ---
 Support for Euthanasia Depends on Circumstances
 ===============================================

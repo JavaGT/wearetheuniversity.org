@@ -1,9 +1,12 @@
 ---
 slug: peoples-procession-is-coming-to-hauraki-waikato
-title: "Peoples Procession is coming to Hauraki-Waikato"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PO0809/S00277/peoples-procession-is-coming-to-hauraki-waikato.htm
+title: Peoples Procession is coming to Hauraki-Waikato
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00277/peoples-procession-is-coming-to-hauraki-waikato.htm
 author: te-pati-maori
+permalink: /archive/2008/09/19/peoples-procession-is-coming-to-hauraki-waikato/index.html
+layout: layout.njk
 ---
 Peoples Procession is coming to Hauraki-Waikato
 ===============================================

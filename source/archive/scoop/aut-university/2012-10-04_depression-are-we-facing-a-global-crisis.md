@@ -1,9 +1,12 @@
 ---
 slug: depression-are-we-facing-a-global-crisis
-title: "Depression – are we facing a global crisis?"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/GE1210/S00032/depression-are-we-facing-a-global-crisis.htm
+title: Depression – are we facing a global crisis?
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00032/depression-are-we-facing-a-global-crisis.htm
 author: aut-university
+permalink: /archive/2012/10/04/depression-are-we-facing-a-global-crisis/index.html
+layout: layout.njk
 ---
 Depression – are we facing a global crisis?
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: key-achievements-for-mäori
-title: "Key Achievements For Mäori"
-date: 2005-08-26
+title: Key Achievements For Mäori
+date: 2005-08-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00705/key-achievements-for-maori.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/26/key-achievements-for-m/index.html
+layout: layout.njk
 ---
 Key Achievements For Mäori
 ==========================

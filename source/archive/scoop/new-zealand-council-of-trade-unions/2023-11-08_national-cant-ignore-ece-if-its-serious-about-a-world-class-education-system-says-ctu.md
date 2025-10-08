@@ -1,9 +1,16 @@
 ---
-slug: national-cant-ignore-ece-if-its-serious-about-a-world-class-education-system-says-ctu
-title: "National Can’t Ignore ECE If It’s Serious About A World-class Education System Says CTU"
-date: 2023-11-08
-source-url: https://www.scoop.co.nz/stories/PO2311/S00047/national-cant-ignore-ece-if-its-serious-about-a-world-class-education-system-says-ctu.htm
+slug: >-
+  national-cant-ignore-ece-if-its-serious-about-a-world-class-education-system-says-ctu
+title: >-
+  National Can’t Ignore ECE If It’s Serious About A World-class Education System
+  Says CTU
+date: 2023-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00047/national-cant-ignore-ece-if-its-serious-about-a-world-class-education-system-says-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/11/08/national-cant-ignore-ece-if-its-serious-about-a-world-class-education-system-says-ctu/index.html
+layout: layout.njk
 ---
 National Can’t Ignore ECE If It’s Serious About A World-class Education System Says CTU
 =======================================================================================

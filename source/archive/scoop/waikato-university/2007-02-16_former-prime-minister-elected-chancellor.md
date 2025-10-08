@@ -1,9 +1,12 @@
 ---
 slug: former-prime-minister-elected-chancellor
-title: "Former Prime Minister elected Chancellor"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/ED0702/S00064/former-prime-minister-elected-chancellor.htm
+title: Former Prime Minister elected Chancellor
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00064/former-prime-minister-elected-chancellor.htm
 author: waikato-university
+permalink: /archive/2007/02/16/former-prime-minister-elected-chancellor/index.html
+layout: layout.njk
 ---
 Former Prime Minister elected Chancellor
 ========================================

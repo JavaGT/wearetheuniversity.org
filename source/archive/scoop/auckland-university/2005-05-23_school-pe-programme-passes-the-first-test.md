@@ -1,9 +1,12 @@
 ---
 slug: school-pe-programme-passes-the-first-test
-title: "School PE programme passes the first test"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/ED0505/S00107/school-pe-programme-passes-the-first-test.htm
+title: School PE programme passes the first test
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00107/school-pe-programme-passes-the-first-test.htm
 author: auckland-university
+permalink: /archive/2005/05/23/school-pe-programme-passes-the-first-test/index.html
+layout: layout.njk
 ---
 School PE programme passes the first test
 =========================================

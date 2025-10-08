@@ -1,9 +1,12 @@
 ---
 slug: students-fees-protest-brings-success
-title: "Students Fees Protest Brings Success"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/ED0607/S00097/students-fees-protest-brings-success.htm
+title: Students Fees Protest Brings Success
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00097/students-fees-protest-brings-success.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/07/28/students-fees-protest-brings-success/index.html
+layout: layout.njk
 ---
 Students Fees Protest Brings Success
 ====================================

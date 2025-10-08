@@ -1,9 +1,12 @@
 ---
 slug: save-the-sign-campaign-takes-off
-title: "Save the Sign campaign takes off"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/PO0311/S00037/save-the-sign-campaign-takes-off.htm
+title: Save the Sign campaign takes off
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00037/save-the-sign-campaign-takes-off.htm
 author: peace-action-wellington
+permalink: /archive/2003/11/06/save-the-sign-campaign-takes-off/index.html
+layout: layout.njk
 ---
 Save the Sign campaign takes off
 ================================

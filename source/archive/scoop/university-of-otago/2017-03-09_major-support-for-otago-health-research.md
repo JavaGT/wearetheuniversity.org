@@ -1,9 +1,12 @@
 ---
 slug: major-support-for-otago-health-research
-title: "Major support for Otago health research"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/ED1703/S00043/major-support-for-otago-health-research.htm
+title: Major support for Otago health research
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00043/major-support-for-otago-health-research.htm
 author: university-of-otago
+permalink: /archive/2017/03/09/major-support-for-otago-health-research/index.html
+layout: layout.njk
 ---
 Major support for Otago health research
 =======================================

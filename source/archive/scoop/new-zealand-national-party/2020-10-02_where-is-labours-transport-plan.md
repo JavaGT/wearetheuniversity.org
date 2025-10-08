@@ -1,9 +1,12 @@
 ---
 slug: where-is-labours-transport-plan
-title: "Where Is Labour’s Transport Plan?"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/PA2010/S00030/where-is-labours-transport-plan.htm
+title: Where Is Labour’s Transport Plan?
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00030/where-is-labours-transport-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/02/where-is-labours-transport-plan/index.html
+layout: layout.njk
 ---
 Where Is Labour’s Transport Plan?
 =================================

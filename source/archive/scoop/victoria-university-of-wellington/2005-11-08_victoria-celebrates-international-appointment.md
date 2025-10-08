@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrates-international-appointment
-title: "Victoria celebrates international appointment"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/ED0511/S00034/victoria-celebrates-international-appointment.htm
+title: Victoria celebrates international appointment
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00034/victoria-celebrates-international-appointment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/08/victoria-celebrates-international-appointment/index.html
+layout: layout.njk
 ---
 Victoria celebrates international appointment
 =============================================

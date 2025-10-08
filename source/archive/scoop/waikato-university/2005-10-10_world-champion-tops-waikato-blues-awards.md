@@ -1,9 +1,12 @@
 ---
 slug: world-champion-tops-waikato-blues-awards
-title: "World Champion tops Waikato Blues Awards"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/ED0510/S00028/world-champion-tops-waikato-blues-awards.htm
+title: World Champion tops Waikato Blues Awards
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00028/world-champion-tops-waikato-blues-awards.htm
 author: waikato-university
+permalink: /archive/2005/10/10/world-champion-tops-waikato-blues-awards/index.html
+layout: layout.njk
 ---
 World Champion tops Waikato Blues Awards
 ========================================

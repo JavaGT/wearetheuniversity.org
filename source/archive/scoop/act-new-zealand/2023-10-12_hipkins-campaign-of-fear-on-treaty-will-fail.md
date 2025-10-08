@@ -1,9 +1,12 @@
 ---
 slug: hipkins-campaign-of-fear-on-treaty-will-fail
-title: "Hipkins’ Campaign Of Fear On Treaty Will Fail"
-date: 2023-10-12
-source-url: https://www.scoop.co.nz/stories/PA2310/S00081/hipkins-campaign-of-fear-on-treaty-will-fail.htm
+title: Hipkins’ Campaign Of Fear On Treaty Will Fail
+date: 2023-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00081/hipkins-campaign-of-fear-on-treaty-will-fail.htm
 author: act-new-zealand
+permalink: /archive/2023/10/12/hipkins-campaign-of-fear-on-treaty-will-fail/index.html
+layout: layout.njk
 ---
 Hipkins’ Campaign Of Fear On Treaty Will Fail
 =============================================

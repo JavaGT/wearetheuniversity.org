@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-architecture-honoured
-title: "Lincoln University Architecture Honoured"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/ED0910/S00102/lincoln-university-architecture-honoured.htm
+title: Lincoln University Architecture Honoured
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00102/lincoln-university-architecture-honoured.htm
 author: lincoln-university
+permalink: /archive/2009/10/23/lincoln-university-architecture-honoured/index.html
+layout: layout.njk
 ---
 Lincoln University Architecture Honoured
 ========================================

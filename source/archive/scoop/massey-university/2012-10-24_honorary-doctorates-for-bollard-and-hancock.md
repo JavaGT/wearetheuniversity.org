@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorates-for-bollard-and-hancock
-title: "Honorary doctorates for Bollard and Hancock"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/CU1210/S00443/honorary-doctorates-for-bollard-and-hancock.htm
+title: Honorary doctorates for Bollard and Hancock
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00443/honorary-doctorates-for-bollard-and-hancock.htm
 author: massey-university
+permalink: /archive/2012/10/24/honorary-doctorates-for-bollard-and-hancock/index.html
+layout: layout.njk
 ---
 Honorary doctorates for Bollard and Hancock
 ===========================================

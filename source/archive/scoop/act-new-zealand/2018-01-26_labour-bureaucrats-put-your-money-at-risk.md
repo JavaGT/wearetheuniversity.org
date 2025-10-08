@@ -1,9 +1,12 @@
 ---
 slug: labour-bureaucrats-put-your-money-at-risk
-title: "Labour, Bureaucrats Put Your Money At Risk"
-date: 2018-01-26
-source-url: https://www.scoop.co.nz/stories/PA1801/S00077/labour-bureaucrats-put-your-money-at-risk.htm
+title: Labour, Bureaucrats Put Your Money At Risk
+date: 2018-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00077/labour-bureaucrats-put-your-money-at-risk.htm
 author: act-new-zealand
+permalink: /archive/2018/01/26/labour-bureaucrats-put-your-money-at-risk/index.html
+layout: layout.njk
 ---
 Labour, Bureaucrats Put Your Money At Risk
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: food-quality-specialist-for-otago-professorship
-title: "Food quality specialist for Otago professorship"
-date: 2009-07-09
-source-url: https://www.scoop.co.nz/stories/AK0907/S00129/food-quality-specialist-for-otago-professorship.htm
+title: Food quality specialist for Otago professorship
+date: 2009-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00129/food-quality-specialist-for-otago-professorship.htm
 author: university-of-otago
+permalink: /archive/2009/07/09/food-quality-specialist-for-otago-professorship/index.html
+layout: layout.njk
 ---
 Food quality specialist for Otago professorship
 ===============================================

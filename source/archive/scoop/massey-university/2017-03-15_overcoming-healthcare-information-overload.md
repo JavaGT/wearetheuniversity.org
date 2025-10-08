@@ -1,9 +1,12 @@
 ---
 slug: overcoming-healthcare-information-overload
-title: "Overcoming healthcare information overload"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/GE1703/S00041/overcoming-healthcare-information-overload.htm
+title: Overcoming healthcare information overload
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00041/overcoming-healthcare-information-overload.htm
 author: massey-university
+permalink: /archive/2017/03/15/overcoming-healthcare-information-overload/index.html
+layout: layout.njk
 ---
 Overcoming healthcare information overload
 ==========================================

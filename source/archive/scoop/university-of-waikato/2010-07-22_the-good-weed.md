@@ -1,9 +1,11 @@
 ---
 slug: the-good-weed
-title: "The good weed?"
-date: 2010-07-22
+title: The good weed?
+date: 2010-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1007/S00042/the-good-weed.htm
 author: university-of-waikato
+permalink: /archive/2010/07/22/the-good-weed/index.html
+layout: layout.njk
 ---
 The good weed?
 ==============

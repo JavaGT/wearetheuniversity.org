@@ -1,9 +1,13 @@
 ---
 slug: national-standards-timeline-a-victory-for-commonse
-title: "National Standards Timeline A Victory For Commonse"
-date: 2009-08-05
-source-url: https://www.scoop.co.nz/stories/ED0908/S00021/national-standards-timeline-a-victory-for-commonse.htm
+title: National Standards Timeline A Victory For Commonse
+date: 2009-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00021/national-standards-timeline-a-victory-for-commonse.htm
 author: nzei
+permalink: >-
+  /archive/2009/08/05/national-standards-timeline-a-victory-for-commonse/index.html
+layout: layout.njk
 ---
 National Standards Timeline A Victory For Commonse
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-must-increase-access-to-student-allowances
-title: "Labour must increase access to Student Allowances"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/ED0505/S00006/labour-must-increase-access-to-student-allowances.htm
+title: Labour must increase access to Student Allowances
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00006/labour-must-increase-access-to-student-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/05/02/labour-must-increase-access-to-student-allowances/index.html
+layout: layout.njk
 ---
 Labour must increase access to Student Allowances
 =================================================

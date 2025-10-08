@@ -1,9 +1,11 @@
 ---
 slug: ousas-re-orientation-is-back!
-title: "OUSA’s Re-Orientation is Back!"
-date: 2010-06-15
+title: OUSA’s Re-Orientation is Back!
+date: 2010-06-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1006/S00054/ousas-re-orientation-is-back.htm
 author: otago-university-students-association
+permalink: /archive/2010/06/15/ousas-re-orientation-is-back/index.html
+layout: layout.njk
 ---
 OUSA’s Re-Orientation is Back!
 ==============================

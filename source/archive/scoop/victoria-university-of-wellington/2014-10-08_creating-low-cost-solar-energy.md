@@ -1,9 +1,12 @@
 ---
 slug: creating-low-cost-solar-energy
-title: "Creating low-cost solar energy"
-date: 2014-10-08
-source-url: https://www.scoop.co.nz/stories/SC1410/S00027/creating-low-cost-solar-energy.htm
+title: Creating low-cost solar energy
+date: 2014-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00027/creating-low-cost-solar-energy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/08/creating-low-cost-solar-energy/index.html
+layout: layout.njk
 ---
 Creating low-cost solar energy
 ==============================

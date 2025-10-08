@@ -1,9 +1,12 @@
 ---
 slug: more-support-needed-for-schools-and-ece
-title: "More Support Needed For Schools And ECE"
-date: 2020-04-20
-source-url: https://www.scoop.co.nz/stories/PA2004/S00115/more-support-needed-for-schools-and-ece.htm
+title: More Support Needed For Schools And ECE
+date: 2020-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00115/more-support-needed-for-schools-and-ece.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/20/more-support-needed-for-schools-and-ece/index.html
+layout: layout.njk
 ---
 More Support Needed For Schools And ECE
 =======================================

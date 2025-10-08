@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-speech-to-milford-rotary-club
-title: "David Seymour, Speech To Milford Rotary Club"
-date: 2022-03-24
-source-url: https://www.scoop.co.nz/stories/PA2203/S00203/david-seymour-speech-to-milford-rotary-club.htm
+title: David Seymour, Speech To Milford Rotary Club
+date: 2022-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00203/david-seymour-speech-to-milford-rotary-club.htm
 author: act-new-zealand
+permalink: /archive/2022/03/24/david-seymour-speech-to-milford-rotary-club/index.html
+layout: layout.njk
 ---
 David Seymour, Speech To Milford Rotary Club
 ============================================

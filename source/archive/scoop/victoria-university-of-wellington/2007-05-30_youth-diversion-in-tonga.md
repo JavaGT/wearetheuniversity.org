@@ -1,9 +1,11 @@
 ---
 slug: youth-diversion-in-tonga
-title: "Youth Diversion in Tonga"
-date: 2007-05-30
+title: Youth Diversion in Tonga
+date: 2007-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0705/S00551/youth-diversion-in-tonga.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/30/youth-diversion-in-tonga/index.html
+layout: layout.njk
 ---
 Youth Diversion in Tonga
 ========================

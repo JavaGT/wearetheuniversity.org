@@ -1,9 +1,12 @@
 ---
 slug: locke-to-receive-peace-petition-at-parliament
-title: "Locke to receive peace petition at Parliament"
-date: 2003-02-19
-source-url: https://www.scoop.co.nz/stories/PA0302/S00331/locke-to-receive-peace-petition-at-parliament.htm
+title: Locke to receive peace petition at Parliament
+date: 2003-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00331/locke-to-receive-peace-petition-at-parliament.htm
 author: green-party
+permalink: /archive/2003/02/19/locke-to-receive-peace-petition-at-parliament/index.html
+layout: layout.njk
 ---
 Locke to receive peace petition at Parliament
 =============================================

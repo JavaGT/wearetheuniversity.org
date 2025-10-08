@@ -1,9 +1,13 @@
 ---
 slug: stockmarket-not-a-safe-place-for-our-super-savings
-title: "Stockmarket Not A Safe Place For Our Super Savings"
-date: 2001-09-20
-source-url: https://www.scoop.co.nz/stories/PA0109/S00317/stockmarket-not-a-safe-place-for-our-super-savings.htm
+title: Stockmarket Not A Safe Place For Our Super Savings
+date: 2001-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00317/stockmarket-not-a-safe-place-for-our-super-savings.htm
 author: green-party
+permalink: >-
+  /archive/2001/09/20/stockmarket-not-a-safe-place-for-our-super-savings/index.html
+layout: layout.njk
 ---
 Stockmarket Not A Safe Place For Our Super Savings
 ==================================================

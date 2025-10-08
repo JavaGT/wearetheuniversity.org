@@ -1,9 +1,12 @@
 ---
 slug: maharey-minister-of-double-standards
-title: "Maharey Minister of Double Standards"
-date: 2001-11-23
-source-url: https://www.scoop.co.nz/stories/PA0111/S00404/maharey-minister-of-double-standards.htm
+title: Maharey Minister of Double Standards
+date: 2001-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00404/maharey-minister-of-double-standards.htm
 author: act-new-zealand
+permalink: /archive/2001/11/23/maharey-minister-of-double-standards/index.html
+layout: layout.njk
 ---
 Maharey Minister of Double Standards
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: redundancy-pay-rebate-bad-tax-policy
-title: "Redundancy Pay Rebate Bad Tax Policy"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/BU0712/S00235/redundancy-pay-rebate-bad-tax-policy.htm
+title: Redundancy Pay Rebate Bad Tax Policy
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0712/S00235/redundancy-pay-rebate-bad-tax-policy.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/12/13/redundancy-pay-rebate-bad-tax-policy/index.html
+layout: layout.njk
 ---
 Redundancy Pay Rebate Bad Tax Policy
 ====================================

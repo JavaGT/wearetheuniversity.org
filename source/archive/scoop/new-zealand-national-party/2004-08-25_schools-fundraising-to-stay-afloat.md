@@ -1,9 +1,12 @@
 ---
 slug: schools-fundraising-to-stay-afloat
-title: "Schools Fundraising To Stay Afloat"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/PA0408/S00424/schools-fundraising-to-stay-afloat.htm
+title: Schools Fundraising To Stay Afloat
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00424/schools-fundraising-to-stay-afloat.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/25/schools-fundraising-to-stay-afloat/index.html
+layout: layout.njk
 ---
 Schools Fundraising To Stay Afloat
 ==================================

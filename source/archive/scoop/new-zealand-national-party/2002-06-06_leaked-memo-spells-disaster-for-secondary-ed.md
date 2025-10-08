@@ -1,9 +1,12 @@
 ---
 slug: leaked-memo-spells-disaster-for-secondary-ed
-title: "Leaked memo spells disaster for secondary ed."
-date: 2002-06-06
-source-url: https://www.scoop.co.nz/stories/PA0206/S00076/leaked-memo-spells-disaster-for-secondary-ed.htm
+title: Leaked memo spells disaster for secondary ed.
+date: 2002-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00076/leaked-memo-spells-disaster-for-secondary-ed.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/06/leaked-memo-spells-disaster-for-secondary-ed/index.html
+layout: layout.njk
 ---
 Leaked memo spells disaster for secondary ed.
 =============================================

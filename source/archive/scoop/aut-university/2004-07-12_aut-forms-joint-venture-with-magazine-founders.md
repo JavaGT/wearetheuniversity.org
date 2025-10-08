@@ -1,9 +1,12 @@
 ---
 slug: aut-forms-joint-venture-with-magazine-founders
-title: "AUT Forms Joint Venture With Magazine Founders"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/ED0407/S00038/aut-forms-joint-venture-with-magazine-founders.htm
+title: AUT Forms Joint Venture With Magazine Founders
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00038/aut-forms-joint-venture-with-magazine-founders.htm
 author: aut-university
+permalink: /archive/2004/07/12/aut-forms-joint-venture-with-magazine-founders/index.html
+layout: layout.njk
 ---
 AUT Forms Joint Venture With Magazine Founders
 ==============================================

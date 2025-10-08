@@ -1,9 +1,12 @@
 ---
 slug: love-&-learning-big-debates-in-early-childhood-education
-title: "Love & learning: Big debates in early childhood education"
-date: 2012-07-17
-source-url: https://www.scoop.co.nz/stories/ED1207/S00062/love-learning-big-debates-in-early-childhood-education.htm
+title: 'Love & learning: Big debates in early childhood education'
+date: 2012-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00062/love-learning-big-debates-in-early-childhood-education.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/17/love-/index.html
+layout: layout.njk
 ---
 Love & learning: Big debates in early childhood education
 =========================================================

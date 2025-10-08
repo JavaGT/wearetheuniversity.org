@@ -1,9 +1,13 @@
 ---
 slug: no-hiding-another-tertiary-provider-going-belly-up
-title: "No hiding another tertiary provider going belly up"
-date: 2015-10-27
-source-url: https://www.scoop.co.nz/stories/PA1510/S00459/no-hiding-another-tertiary-provider-going-belly-up.htm
+title: No hiding another tertiary provider going belly up
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00459/no-hiding-another-tertiary-provider-going-belly-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/27/no-hiding-another-tertiary-provider-going-belly-up/index.html
+layout: layout.njk
 ---
 No hiding another tertiary provider going belly up
 ==================================================

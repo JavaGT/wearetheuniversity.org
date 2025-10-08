@@ -1,9 +1,13 @@
 ---
 slug: rhodes-scholar-motivated-by-impact-of-government-support
-title: "Rhodes Scholar motivated by impact of Government support"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/SC1311/S00003/rhodes-scholar-motivated-by-impact-of-government-support.htm
+title: Rhodes Scholar motivated by impact of Government support
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00003/rhodes-scholar-motivated-by-impact-of-government-support.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/01/rhodes-scholar-motivated-by-impact-of-government-support/index.html
+layout: layout.njk
 ---
 Rhodes Scholar motivated by impact of Government support
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-pipeline-must-be-reviewed
-title: "Waikato Pipeline Must Be Reviewed"
-date: 2002-03-22
-source-url: https://www.scoop.co.nz/stories/PA0203/S00431/waikato-pipeline-must-be-reviewed.htm
+title: Waikato Pipeline Must Be Reviewed
+date: 2002-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00431/waikato-pipeline-must-be-reviewed.htm
 author: green-party
+permalink: /archive/2002/03/22/waikato-pipeline-must-be-reviewed/index.html
+layout: layout.njk
 ---
 Waikato Pipeline Must Be Reviewed
 =================================

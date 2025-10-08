@@ -1,9 +1,13 @@
 ---
 slug: aucklander-wins-international-neuroscience-award
-title: "Aucklander wins international neuroscience award"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/SC0510/S00039/aucklander-wins-international-neuroscience-award.htm
+title: Aucklander wins international neuroscience award
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00039/aucklander-wins-international-neuroscience-award.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/10/19/aucklander-wins-international-neuroscience-award/index.html
+layout: layout.njk
 ---
 Aucklander wins international neuroscience award
 ================================================

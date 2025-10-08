@@ -1,9 +1,13 @@
 ---
 slug: stroke-app-provides-hope-in-the-face-of-concerning-stats
-title: "Stroke app provides hope in the face of concerning stats"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/SC1404/S00044/stroke-app-provides-hope-in-the-face-of-concerning-stats.htm
+title: Stroke app provides hope in the face of concerning stats
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00044/stroke-app-provides-hope-in-the-face-of-concerning-stats.htm
 author: aut-university
+permalink: >-
+  /archive/2014/04/10/stroke-app-provides-hope-in-the-face-of-concerning-stats/index.html
+layout: layout.njk
 ---
 Stroke app provides hope in the face of concerning stats
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: vaping-helps-reverse-smoking-harm-asthma-expert
-title: "Vaping helps reverse smoking harm - asthma expert"
-date: 2017-11-20
-source-url: https://www.scoop.co.nz/stories/ED1711/S00073/vaping-helps-reverse-smoking-harm-asthma-expert.htm
+title: Vaping helps reverse smoking harm - asthma expert
+date: 2017-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00073/vaping-helps-reverse-smoking-harm-asthma-expert.htm
 author: massey-university
+permalink: /archive/2017/11/20/vaping-helps-reverse-smoking-harm-asthma-expert/index.html
+layout: layout.njk
 ---
 Vaping helps reverse smoking harm - asthma expert
 =================================================

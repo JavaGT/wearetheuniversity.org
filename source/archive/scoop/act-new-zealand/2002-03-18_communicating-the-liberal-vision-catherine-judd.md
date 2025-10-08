@@ -1,9 +1,12 @@
 ---
 slug: communicating-the-liberal-vision-catherine-judd
-title: "Communicating the Liberal Vision – Catherine Judd"
-date: 2002-03-18
-source-url: https://www.scoop.co.nz/stories/PO0203/S00093/communicating-the-liberal-vision-catherine-judd.htm
+title: Communicating the Liberal Vision – Catherine Judd
+date: 2002-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00093/communicating-the-liberal-vision-catherine-judd.htm
 author: act-new-zealand
+permalink: /archive/2002/03/18/communicating-the-liberal-vision-catherine-judd/index.html
+layout: layout.njk
 ---
 Communicating the Liberal Vision – Catherine Judd
 =================================================

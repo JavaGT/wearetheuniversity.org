@@ -1,9 +1,13 @@
 ---
 slug: nz-designed-structural-systems-will-help-in-the-rebuild
-title: "NZ designed structural systems will help in the rebuild"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/AK1302/S00425/nz-designed-structural-systems-will-help-in-the-rebuild.htm
+title: NZ designed structural systems will help in the rebuild
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00425/nz-designed-structural-systems-will-help-in-the-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/20/nz-designed-structural-systems-will-help-in-the-rebuild/index.html
+layout: layout.njk
 ---
 NZ designed structural systems will help in the rebuild
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: teachnz-scholarships-questioned
-title: "TeachNZ scholarships questioned"
-date: 2007-04-11
-source-url: https://www.scoop.co.nz/stories/PA0704/S00179/teachnz-scholarships-questioned.htm
+title: TeachNZ scholarships questioned
+date: 2007-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00179/teachnz-scholarships-questioned.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/11/teachnz-scholarships-questioned/index.html
+layout: layout.njk
 ---
 TeachNZ scholarships questioned
 ===============================

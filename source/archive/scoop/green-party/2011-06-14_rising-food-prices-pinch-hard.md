@@ -1,9 +1,12 @@
 ---
 slug: rising-food-prices-pinch-hard
-title: "Rising food prices pinch hard"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00209/rising-food-prices-pinch-hard.htm
+title: Rising food prices pinch hard
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00209/rising-food-prices-pinch-hard.htm
 author: green-party
+permalink: /archive/2011/06/14/rising-food-prices-pinch-hard/index.html
+layout: layout.njk
 ---
 Rising food prices pinch hard
 =============================

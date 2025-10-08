@@ -1,9 +1,12 @@
 ---
 slug: new-biotechnology-management-course
-title: "New Biotechnology Management Course"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/ED0604/S00043/new-biotechnology-management-course.htm
+title: New Biotechnology Management Course
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00043/new-biotechnology-management-course.htm
 author: university-of-otago
+permalink: /archive/2006/04/12/new-biotechnology-management-course/index.html
+layout: layout.njk
 ---
 New Biotechnology Management Course
 ===================================

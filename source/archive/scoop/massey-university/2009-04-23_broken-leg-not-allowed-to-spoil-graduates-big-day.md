@@ -1,9 +1,13 @@
 ---
 slug: broken-leg-not-allowed-to-spoil-graduates-big-day
-title: "Broken leg not allowed to spoil graduate's big day"
-date: 2009-04-23
-source-url: https://www.scoop.co.nz/stories/ED0904/S00051/broken-leg-not-allowed-to-spoil-graduates-big-day.htm
+title: Broken leg not allowed to spoil graduate's big day
+date: 2009-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00051/broken-leg-not-allowed-to-spoil-graduates-big-day.htm
 author: massey-university
+permalink: >-
+  /archive/2009/04/23/broken-leg-not-allowed-to-spoil-graduates-big-day/index.html
+layout: layout.njk
 ---
 Broken leg not allowed to spoil graduate's big day
 ==================================================

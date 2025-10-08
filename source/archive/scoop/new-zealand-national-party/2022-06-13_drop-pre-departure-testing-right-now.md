@@ -1,9 +1,12 @@
 ---
 slug: drop-pre-departure-testing-right-now
-title: "Drop Pre-departure Testing Right Now"
-date: 2022-06-13
-source-url: https://www.scoop.co.nz/stories/PA2206/S00098/drop-pre-departure-testing-right-now.htm
+title: Drop Pre-departure Testing Right Now
+date: 2022-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00098/drop-pre-departure-testing-right-now.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/13/drop-pre-departure-testing-right-now/index.html
+layout: layout.njk
 ---
 Drop Pre-departure Testing Right Now
 ====================================

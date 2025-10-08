@@ -1,9 +1,12 @@
 ---
 slug: landmark-destruction-must-stop
-title: "Landmark destruction must stop"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/PA1112/S00012/landmark-destruction-must-stop.htm
+title: Landmark destruction must stop
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00012/landmark-destruction-must-stop.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/02/landmark-destruction-must-stop/index.html
+layout: layout.njk
 ---
 Landmark destruction must stop
 ==============================

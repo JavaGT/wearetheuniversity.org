@@ -1,9 +1,12 @@
 ---
 slug: govt-finances-foreshadow-budget-disappointment
-title: "Govt finances foreshadow Budget disappointment"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PA1505/S00166/govt-finances-foreshadow-budget-disappointment.htm
+title: Govt finances foreshadow Budget disappointment
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00166/govt-finances-foreshadow-budget-disappointment.htm
 author: green-party
+permalink: /archive/2015/05/11/govt-finances-foreshadow-budget-disappointment/index.html
+layout: layout.njk
 ---
 Govt finances foreshadow Budget disappointment
 ==============================================

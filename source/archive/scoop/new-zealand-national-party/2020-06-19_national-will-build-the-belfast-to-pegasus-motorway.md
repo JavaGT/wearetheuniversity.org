@@ -1,9 +1,13 @@
 ---
 slug: national-will-build-the-belfast-to-pegasus-motorway
-title: "National Will Build The Belfast To Pegasus Motorway"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/PA2006/S00185/national-will-build-the-belfast-to-pegasus-motorway.htm
+title: National Will Build The Belfast To Pegasus Motorway
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00185/national-will-build-the-belfast-to-pegasus-motorway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/19/national-will-build-the-belfast-to-pegasus-motorway/index.html
+layout: layout.njk
 ---
 National Will Build The Belfast To Pegasus Motorway
 ===================================================

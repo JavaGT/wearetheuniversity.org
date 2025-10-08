@@ -1,9 +1,11 @@
 ---
 slug: union-membership-up-again
-title: "Union Membership Up Again"
-date: 2007-12-17
+title: Union Membership Up Again
+date: 2007-12-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0712/S00213/union-membership-up-again.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/12/17/union-membership-up-again/index.html
+layout: layout.njk
 ---
 Union Membership Up Again
 =========================

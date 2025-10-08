@@ -1,9 +1,13 @@
 ---
 slug: wheres-the-attorney-general-on-judicial-activism
-title: "Where's the Attorney-General On Judicial Activism?"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/PA0407/S00396/wheres-the-attorney-general-on-judicial-activism.htm
+title: Where's the Attorney-General On Judicial Activism?
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00396/wheres-the-attorney-general-on-judicial-activism.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/07/26/wheres-the-attorney-general-on-judicial-activism/index.html
+layout: layout.njk
 ---
 Where's the Attorney-General On Judicial Activism?
 ==================================================

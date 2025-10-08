@@ -1,9 +1,13 @@
 ---
 slug: collins-needs-to-explain-three-escapes-in-six-days
-title: "Collins needs to explain three escapes in six days"
-date: 2009-01-22
-source-url: https://www.scoop.co.nz/stories/PA0901/S00082/collins-needs-to-explain-three-escapes-in-six-days.htm
+title: Collins needs to explain three escapes in six days
+date: 2009-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00082/collins-needs-to-explain-three-escapes-in-six-days.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/01/22/collins-needs-to-explain-three-escapes-in-six-days/index.html
+layout: layout.njk
 ---
 Collins needs to explain three escapes in six days
 ==================================================

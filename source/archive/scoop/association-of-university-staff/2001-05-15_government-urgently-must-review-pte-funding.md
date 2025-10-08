@@ -1,9 +1,12 @@
 ---
 slug: government-urgently-must-review-pte-funding
-title: "Government urgently must review PTE funding"
-date: 2001-05-15
-source-url: https://www.scoop.co.nz/stories/ED0105/S00023/government-urgently-must-review-pte-funding.htm
+title: Government urgently must review PTE funding
+date: 2001-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00023/government-urgently-must-review-pte-funding.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/15/government-urgently-must-review-pte-funding/index.html
+layout: layout.njk
 ---
 Government urgently must review PTE funding
 ===========================================

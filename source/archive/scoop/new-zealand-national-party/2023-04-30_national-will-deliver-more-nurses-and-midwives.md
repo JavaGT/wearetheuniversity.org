@@ -1,9 +1,12 @@
 ---
 slug: national-will-deliver-more-nurses-and-midwives
-title: "National Will Deliver More Nurses And Midwives"
-date: 2023-04-30
-source-url: https://www.scoop.co.nz/stories/PA2304/S00191/national-will-deliver-more-nurses-and-midwives.htm
+title: National Will Deliver More Nurses And Midwives
+date: 2023-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00191/national-will-deliver-more-nurses-and-midwives.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/30/national-will-deliver-more-nurses-and-midwives/index.html
+layout: layout.njk
 ---
 National Will Deliver More Nurses And Midwives
 ==============================================

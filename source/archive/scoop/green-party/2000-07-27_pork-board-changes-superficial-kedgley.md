@@ -1,9 +1,12 @@
 ---
 slug: pork-board-changes-superficial-kedgley
-title: "Pork Board 'changes' superficial - Kedgley"
-date: 2000-07-27
-source-url: https://www.scoop.co.nz/stories/PA0007/S00455/pork-board-changes-superficial-kedgley.htm
+title: Pork Board 'changes' superficial - Kedgley
+date: 2000-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00455/pork-board-changes-superficial-kedgley.htm
 author: green-party
+permalink: /archive/2000/07/27/pork-board-changes-superficial-kedgley/index.html
+layout: layout.njk
 ---
 Pork Board 'changes' superficial - Kedgley
 ==========================================

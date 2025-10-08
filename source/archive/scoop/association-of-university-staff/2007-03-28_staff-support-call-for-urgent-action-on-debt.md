@@ -1,9 +1,12 @@
 ---
 slug: staff-support-call-for-urgent-action-on-debt
-title: "Staff support call for urgent action on debt"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00107/staff-support-call-for-urgent-action-on-debt.htm
+title: Staff support call for urgent action on debt
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00107/staff-support-call-for-urgent-action-on-debt.htm
 author: association-of-university-staff
+permalink: /archive/2007/03/28/staff-support-call-for-urgent-action-on-debt/index.html
+layout: layout.njk
 ---
 Staff support call for urgent action on debt
 ============================================

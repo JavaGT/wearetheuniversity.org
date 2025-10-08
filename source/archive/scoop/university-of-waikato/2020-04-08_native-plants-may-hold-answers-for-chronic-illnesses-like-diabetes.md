@@ -1,9 +1,13 @@
 ---
 slug: native-plants-may-hold-answers-for-chronic-illnesses-like-diabetes
-title: "Native Plants May Hold Answers For Chronic Illnesses Like Diabetes"
-date: 2020-04-08
-source-url: https://www.scoop.co.nz/stories/SC2004/S00014/native-plants-may-hold-answers-for-chronic-illnesses-like-diabetes.htm
+title: Native Plants May Hold Answers For Chronic Illnesses Like Diabetes
+date: 2020-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2004/S00014/native-plants-may-hold-answers-for-chronic-illnesses-like-diabetes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/04/08/native-plants-may-hold-answers-for-chronic-illnesses-like-diabetes/index.html
+layout: layout.njk
 ---
 Native Plants May Hold Answers For Chronic Illnesses Like Diabetes
 ==================================================================

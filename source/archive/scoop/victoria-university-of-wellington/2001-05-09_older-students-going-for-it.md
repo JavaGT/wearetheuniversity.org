@@ -1,9 +1,11 @@
 ---
 slug: older-students-going-for-it
-title: "Older students 'going for it'"
-date: 2001-05-09
+title: Older students 'going for it'
+date: 2001-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0105/S00017/older-students-going-for-it.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/05/09/older-students-going-for-it/index.html
+layout: layout.njk
 ---
 Older students 'going for it'
 =============================

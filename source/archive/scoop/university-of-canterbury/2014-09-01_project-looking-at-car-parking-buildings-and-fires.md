@@ -1,9 +1,13 @@
 ---
 slug: project-looking-at-car-parking-buildings-and-fires
-title: "Project looking at car parking buildings and fires"
-date: 2014-09-01
-source-url: https://www.scoop.co.nz/stories/CU1409/S00002/project-looking-at-car-parking-buildings-and-fires.htm
+title: Project looking at car parking buildings and fires
+date: 2014-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00002/project-looking-at-car-parking-buildings-and-fires.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/01/project-looking-at-car-parking-buildings-and-fires/index.html
+layout: layout.njk
 ---
 Project looking at car parking buildings and fires
 ==================================================

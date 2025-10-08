@@ -1,9 +1,12 @@
 ---
 slug: new-professor-aut-business-faculty
-title: "New Professor AUT Business Faculty"
-date: 2003-09-24
-source-url: https://www.scoop.co.nz/stories/ED0309/S00115/new-professor-aut-business-faculty.htm
+title: New Professor AUT Business Faculty
+date: 2003-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00115/new-professor-aut-business-faculty.htm
 author: aut-university
+permalink: /archive/2003/09/24/new-professor-aut-business-faculty/index.html
+layout: layout.njk
 ---
 New Professor AUT Business Faculty
 ==================================

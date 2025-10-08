@@ -1,9 +1,11 @@
 ---
 slug: newsworthy-17-november-2006
-title: "NewsWorthy - 17 November 2006"
-date: 2006-11-17
+title: NewsWorthy - 17 November 2006
+date: 2006-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00343/newsworthy-17-november-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/17/newsworthy-17-november-2006/index.html
+layout: layout.njk
 ---
 NewsWorthy - 17 November 2006
 =============================

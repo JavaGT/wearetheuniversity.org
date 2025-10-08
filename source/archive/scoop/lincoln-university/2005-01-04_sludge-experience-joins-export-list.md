@@ -1,9 +1,12 @@
 ---
 slug: sludge-experience-joins-export-list
-title: "Sludge experience joins export list"
-date: 2005-01-04
-source-url: https://www.scoop.co.nz/stories/ED0501/S00003/sludge-experience-joins-export-list.htm
+title: Sludge experience joins export list
+date: 2005-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00003/sludge-experience-joins-export-list.htm
 author: lincoln-university
+permalink: /archive/2005/01/04/sludge-experience-joins-export-list/index.html
+layout: layout.njk
 ---
 Sludge experience joins export list
 ===================================

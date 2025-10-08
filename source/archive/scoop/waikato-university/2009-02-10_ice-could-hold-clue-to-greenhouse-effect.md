@@ -1,9 +1,12 @@
 ---
 slug: ice-could-hold-clue-to-greenhouse-effect
-title: "Ice could hold clue to greenhouse effect"
-date: 2009-02-10
-source-url: https://www.scoop.co.nz/stories/SC0902/S00026/ice-could-hold-clue-to-greenhouse-effect.htm
+title: Ice could hold clue to greenhouse effect
+date: 2009-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00026/ice-could-hold-clue-to-greenhouse-effect.htm
 author: waikato-university
+permalink: /archive/2009/02/10/ice-could-hold-clue-to-greenhouse-effect/index.html
+layout: layout.njk
 ---
 Ice could hold clue to greenhouse effect
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: aut-university-announces-new-chancellor
-title: "AUT University Announces New Chancellor"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00151/aut-university-announces-new-chancellor.htm
+title: AUT University Announces New Chancellor
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00151/aut-university-announces-new-chancellor.htm
 author: aut-university
+permalink: /archive/2012/03/29/aut-university-announces-new-chancellor/index.html
+layout: layout.njk
 ---
 AUT University Announces New Chancellor
 =======================================

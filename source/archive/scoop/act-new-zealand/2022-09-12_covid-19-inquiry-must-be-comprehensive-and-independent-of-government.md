@@ -1,9 +1,13 @@
 ---
 slug: covid-19-inquiry-must-be-comprehensive-and-independent-of-government
-title: "COVID-19 Inquiry Must Be Comprehensive And Independent Of Government"
-date: 2022-09-12
-source-url: https://www.scoop.co.nz/stories/PA2209/S00063/covid-19-inquiry-must-be-comprehensive-and-independent-of-government.htm
+title: COVID-19 Inquiry Must Be Comprehensive And Independent Of Government
+date: 2022-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00063/covid-19-inquiry-must-be-comprehensive-and-independent-of-government.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/09/12/covid-19-inquiry-must-be-comprehensive-and-independent-of-government/index.html
+layout: layout.njk
 ---
 COVID-19 Inquiry Must Be Comprehensive And Independent Of Government
 ====================================================================

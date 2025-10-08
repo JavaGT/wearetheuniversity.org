@@ -1,9 +1,12 @@
 ---
 slug: flavell-limited-partnerships-bill
-title: "Flavell: Limited Partnerships Bill"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/BU0708/S00416/flavell-limited-partnerships-bill.htm
+title: 'Flavell: Limited Partnerships Bill'
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00416/flavell-limited-partnerships-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/08/22/flavell-limited-partnerships-bill/index.html
+layout: layout.njk
 ---
 Flavell: Limited Partnerships Bill
 ==================================

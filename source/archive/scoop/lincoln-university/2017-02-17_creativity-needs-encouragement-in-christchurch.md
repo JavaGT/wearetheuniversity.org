@@ -1,9 +1,12 @@
 ---
 slug: creativity-needs-encouragement-in-christchurch
-title: "Creativity needs encouragement in Christchurch"
-date: 2017-02-17
-source-url: https://www.scoop.co.nz/stories/AK1702/S00541/creativity-needs-encouragement-in-christchurch.htm
+title: Creativity needs encouragement in Christchurch
+date: 2017-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1702/S00541/creativity-needs-encouragement-in-christchurch.htm
 author: lincoln-university
+permalink: /archive/2017/02/17/creativity-needs-encouragement-in-christchurch/index.html
+layout: layout.njk
 ---
 Creativity needs encouragement in Christchurch
 ==============================================

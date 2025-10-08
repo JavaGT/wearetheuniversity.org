@@ -1,9 +1,12 @@
 ---
 slug: harawira-kiwi-saver-bill-second-reading
-title: "Harawira: Kiwi Saver Bill  - Second Reading"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/PA0608/S00436/harawira-kiwi-saver-bill-second-reading.htm
+title: 'Harawira: Kiwi Saver Bill  - Second Reading'
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00436/harawira-kiwi-saver-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/08/24/harawira-kiwi-saver-bill-second-reading/index.html
+layout: layout.njk
 ---
 Harawira: Kiwi Saver Bill - Second Reading
 ==========================================

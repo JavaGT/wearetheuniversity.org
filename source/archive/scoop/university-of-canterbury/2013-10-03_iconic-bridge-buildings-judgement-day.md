@@ -1,9 +1,12 @@
 ---
 slug: iconic-bridge-buildings-judgement-day
-title: "Iconic bridge building’s judgement day"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/AK1310/S00114/iconic-bridge-buildings-judgement-day.htm
+title: Iconic bridge building’s judgement day
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00114/iconic-bridge-buildings-judgement-day.htm
 author: university-of-canterbury
+permalink: /archive/2013/10/03/iconic-bridge-buildings-judgement-day/index.html
+layout: layout.njk
 ---
 Iconic bridge building’s judgement day
 ======================================

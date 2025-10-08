@@ -1,9 +1,12 @@
 ---
 slug: promoting-health-through-waka-ama
-title: "Promoting health through waka ama"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/GE1810/S00120/promoting-health-through-waka-ama.htm
+title: Promoting health through waka ama
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00120/promoting-health-through-waka-ama.htm
 author: massey-university
+permalink: /archive/2018/10/29/promoting-health-through-waka-ama/index.html
+layout: layout.njk
 ---
 Promoting health through waka ama
 =================================

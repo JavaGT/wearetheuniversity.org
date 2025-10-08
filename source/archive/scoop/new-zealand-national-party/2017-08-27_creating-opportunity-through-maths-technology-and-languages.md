@@ -1,9 +1,13 @@
 ---
 slug: creating-opportunity-through-maths-technology-and-languages
-title: "Creating opportunity through maths, technology and languages"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00494/creating-opportunity-through-maths-technology-and-languages.htm
+title: Creating opportunity through maths, technology and languages
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00494/creating-opportunity-through-maths-technology-and-languages.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/08/27/creating-opportunity-through-maths-technology-and-languages/index.html
+layout: layout.njk
 ---
 Creating opportunity through maths, technology and languages
 ============================================================

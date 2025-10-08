@@ -1,9 +1,15 @@
 ---
-slug: innovative-$2-4m-research-into-microplastics-antarctic-predators-respiratory-function
-title: "Innovative $2.4m Research Into Microplastics, Antarctic Predators, Respiratory Function"
-date: 2022-10-27
-source-url: https://www.scoop.co.nz/stories/SC2210/S00051/innovative-24m-research-into-microplastics-antarctic-predators-respiratory-function.htm
+slug: >-
+  innovative-$2-4m-research-into-microplastics-antarctic-predators-respiratory-function
+title: >-
+  Innovative $2.4m Research Into Microplastics, Antarctic Predators, Respiratory
+  Function
+date: 2022-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00051/innovative-24m-research-into-microplastics-antarctic-predators-respiratory-function.htm
 author: university-of-canterbury
+permalink: /archive/2022/10/27/innovative-/index.html
+layout: layout.njk
 ---
 Innovative $2.4m Research Into Microplastics, Antarctic Predators, Respiratory Function
 =======================================================================================

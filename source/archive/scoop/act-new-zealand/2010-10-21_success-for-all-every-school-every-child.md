@@ -1,9 +1,12 @@
 ---
 slug: success-for-all-every-school-every-child
-title: "'Success for All - Every School, Every Child"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/PA1010/S00365/success-for-all-every-school-every-child.htm
+title: '''Success for All - Every School, Every Child'
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00365/success-for-all-every-school-every-child.htm
 author: act-new-zealand
+permalink: /archive/2010/10/21/success-for-all-every-school-every-child/index.html
+layout: layout.njk
 ---
 'Success for All - Every School, Every Child
 ============================================

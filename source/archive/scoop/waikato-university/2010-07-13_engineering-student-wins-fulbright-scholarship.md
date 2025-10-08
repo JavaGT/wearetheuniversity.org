@@ -1,9 +1,12 @@
 ---
 slug: engineering-student-wins-fulbright-scholarship
-title: "Engineering Student Wins Fulbright Scholarship"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/ED1007/S00046/engineering-student-wins-fulbright-scholarship.htm
+title: Engineering Student Wins Fulbright Scholarship
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00046/engineering-student-wins-fulbright-scholarship.htm
 author: waikato-university
+permalink: /archive/2010/07/13/engineering-student-wins-fulbright-scholarship/index.html
+layout: layout.njk
 ---
 Engineering Student Wins Fulbright Scholarship
 ==============================================

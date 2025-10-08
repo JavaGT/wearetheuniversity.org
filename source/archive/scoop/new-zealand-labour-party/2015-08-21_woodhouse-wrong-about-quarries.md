@@ -1,9 +1,12 @@
 ---
 slug: woodhouse-wrong-about-quarries
-title: "Woodhouse wrong about quarries"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/PA1508/S00362/woodhouse-wrong-about-quarries.htm
+title: Woodhouse wrong about quarries
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00362/woodhouse-wrong-about-quarries.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/21/woodhouse-wrong-about-quarries/index.html
+layout: layout.njk
 ---
 Woodhouse wrong about quarries
 ==============================

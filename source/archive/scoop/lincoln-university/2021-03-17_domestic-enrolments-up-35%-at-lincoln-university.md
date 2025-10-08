@@ -1,9 +1,12 @@
 ---
 slug: domestic-enrolments-up-35%-at-lincoln-university
-title: "Domestic Enrolments Up 35% At Lincoln University"
-date: 2021-03-17
-source-url: https://www.scoop.co.nz/stories/ED2103/S00032/domestic-enrolments-up-35-at-lincoln-university.htm
+title: Domestic Enrolments Up 35% At Lincoln University
+date: 2021-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00032/domestic-enrolments-up-35-at-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2021/03/17/domestic-enrolments-up-35/index.html
+layout: layout.njk
 ---
 Domestic Enrolments Up 35% At Lincoln University
 ================================================

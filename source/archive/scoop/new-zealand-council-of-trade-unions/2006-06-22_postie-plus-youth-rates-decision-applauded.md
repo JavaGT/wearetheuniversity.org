@@ -1,9 +1,12 @@
 ---
 slug: postie-plus-youth-rates-decision-applauded
-title: "Postie Plus Youth Rates Decision Applauded"
-date: 2006-06-22
-source-url: https://www.scoop.co.nz/stories/PO0606/S00215/postie-plus-youth-rates-decision-applauded.htm
+title: Postie Plus Youth Rates Decision Applauded
+date: 2006-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00215/postie-plus-youth-rates-decision-applauded.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/06/22/postie-plus-youth-rates-decision-applauded/index.html
+layout: layout.njk
 ---
 Postie Plus Youth Rates Decision Applauded
 ==========================================

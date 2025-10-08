@@ -1,9 +1,12 @@
 ---
 slug: report-highlights-govt-economic-contradictions
-title: "Report highlights Govt economic contradictions"
-date: 2012-03-03
-source-url: https://www.scoop.co.nz/stories/PA1203/S00039/report-highlights-govt-economic-contradictions.htm
+title: Report highlights Govt economic contradictions
+date: 2012-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00039/report-highlights-govt-economic-contradictions.htm
 author: green-party
+permalink: /archive/2012/03/03/report-highlights-govt-economic-contradictions/index.html
+layout: layout.njk
 ---
 Report highlights Govt economic contradictions
 ==============================================

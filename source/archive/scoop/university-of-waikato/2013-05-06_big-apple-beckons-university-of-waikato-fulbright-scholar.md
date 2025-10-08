@@ -1,9 +1,13 @@
 ---
 slug: big-apple-beckons-university-of-waikato-fulbright-scholar
-title: "Big Apple beckons University of Waikato Fulbright scholar"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/ED1305/S00026/big-apple-beckons-university-of-waikato-fulbright-scholar.htm
+title: Big Apple beckons University of Waikato Fulbright scholar
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00026/big-apple-beckons-university-of-waikato-fulbright-scholar.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/05/06/big-apple-beckons-university-of-waikato-fulbright-scholar/index.html
+layout: layout.njk
 ---
 Big Apple beckons University of Waikato Fulbright scholar
 =========================================================

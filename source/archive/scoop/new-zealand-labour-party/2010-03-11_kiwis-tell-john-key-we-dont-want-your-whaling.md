@@ -1,9 +1,12 @@
 ---
 slug: kiwis-tell-john-key-we-dont-want-your-whaling
-title: "Kiwis tell John Key: We don’t want your whaling"
-date: 2010-03-11
-source-url: https://www.scoop.co.nz/stories/PA1003/S00156/kiwis-tell-john-key-we-dont-want-your-whaling.htm
+title: 'Kiwis tell John Key: We don’t want your whaling'
+date: 2010-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00156/kiwis-tell-john-key-we-dont-want-your-whaling.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/11/kiwis-tell-john-key-we-dont-want-your-whaling/index.html
+layout: layout.njk
 ---
 Kiwis tell John Key: We don’t want your whaling
 ===============================================

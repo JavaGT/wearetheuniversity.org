@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-wayne-mapp
-title: "The Mapp Report - Wayne Mapp"
-date: 2008-11-22
+title: The Mapp Report - Wayne Mapp
+date: 2008-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0811/S00200/the-mapp-report-wayne-mapp.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/22/the-mapp-report-wayne-mapp/index.html
+layout: layout.njk
 ---
 The Mapp Report - Wayne Mapp
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: shewan-review-gets-it-right-says-academic
-title: "Shewan review gets it right, says academic"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/ED1606/S00100/shewan-review-gets-it-right-says-academic.htm
+title: Shewan review gets it right, says academic
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00100/shewan-review-gets-it-right-says-academic.htm
 author: massey-university
+permalink: /archive/2016/06/27/shewan-review-gets-it-right-says-academic/index.html
+layout: layout.njk
 ---
 Shewan review gets it right, says academic
 ==========================================

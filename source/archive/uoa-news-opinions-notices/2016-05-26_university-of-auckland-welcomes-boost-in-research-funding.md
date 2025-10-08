@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-welcomes-boost-in-research-funding
-title: "University of Auckland welcomes boost in research funding"
-date: 2016-05-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/uoa-welcome-boost-in-research-funding.html
+title: University of Auckland welcomes boost in research funding
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/uoa-welcome-boost-in-research-funding.html
+permalink: >-
+  /archive/2016/05/26/university-of-auckland-welcomes-boost-in-research-funding/index.html
+layout: layout.njk
 ---
 University of Auckland welcomes boost in research funding
 =========================================================

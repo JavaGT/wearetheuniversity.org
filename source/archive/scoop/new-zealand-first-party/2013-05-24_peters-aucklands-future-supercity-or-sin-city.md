@@ -1,9 +1,12 @@
 ---
 slug: peters-aucklands-future-supercity-or-sin-city
-title: "Peters: \"Auckland’s Future – SuperCity or Sin City?\""
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/PA1305/S00497/peters-aucklands-future-supercity-or-sin-city.htm
+title: 'Peters: "Auckland’s Future – SuperCity or Sin City?"'
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00497/peters-aucklands-future-supercity-or-sin-city.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/24/peters-aucklands-future-supercity-or-sin-city/index.html
+layout: layout.njk
 ---
 Peters: “Auckland’s Future – SuperCity or Sin City?”
 ====================================================

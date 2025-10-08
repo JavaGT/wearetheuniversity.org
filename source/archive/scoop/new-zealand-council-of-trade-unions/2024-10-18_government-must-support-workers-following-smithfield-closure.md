@@ -1,9 +1,13 @@
 ---
 slug: government-must-support-workers-following-smithfield-closure
-title: "Government Must Support Workers Following Smithfield Closure"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/PO2410/S00105/government-must-support-workers-following-smithfield-closure.htm
+title: Government Must Support Workers Following Smithfield Closure
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2410/S00105/government-must-support-workers-following-smithfield-closure.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/10/18/government-must-support-workers-following-smithfield-closure/index.html
+layout: layout.njk
 ---
 Government Must Support Workers Following Smithfield Closure
 ============================================================

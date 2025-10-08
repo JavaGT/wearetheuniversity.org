@@ -1,9 +1,12 @@
 ---
 slug: rapid-testing-should-be-used-at-auckland-border
-title: "Rapid testing should be used at Auckland border"
-date: 2021-09-16
-source-url: https://www.scoop.co.nz/stories/PA2109/S00145/rapid-testing-should-be-used-at-auckland-border.htm
+title: Rapid testing should be used at Auckland border
+date: 2021-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00145/rapid-testing-should-be-used-at-auckland-border.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/16/rapid-testing-should-be-used-at-auckland-border/index.html
+layout: layout.njk
 ---
 Rapid testing should be used at Auckland border
 ===============================================

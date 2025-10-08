@@ -1,9 +1,12 @@
 ---
 slug: govt-must-ditch-discriminatory-law
-title: "Govt must ditch discriminatory law"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00273/govt-must-ditch-discriminatory-law.htm
+title: Govt must ditch discriminatory law
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00273/govt-must-ditch-discriminatory-law.htm
 author: green-party
+permalink: /archive/2005/03/14/govt-must-ditch-discriminatory-law/index.html
+layout: layout.njk
 ---
 Govt must ditch discriminatory law
 ==================================

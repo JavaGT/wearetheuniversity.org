@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-pioneers-online-credentials-to-support-student-mobility
-title: "University of Auckland pioneers online credentials to support student mobility"
-date: 2017-05-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/university-of-auckland-pioneers-online-credentials-to-support-st.html
+title: University of Auckland pioneers online credentials to support student mobility
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/university-of-auckland-pioneers-online-credentials-to-support-st.html
+permalink: >-
+  /archive/2017/05/11/university-of-auckland-pioneers-online-credentials-to-support-student-mobility/index.html
+layout: layout.njk
 ---
 University of Auckland pioneers online credentials to support student mobility
 ==============================================================================

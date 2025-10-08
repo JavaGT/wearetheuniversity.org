@@ -1,9 +1,13 @@
 ---
 slug: industrial-action-escalates-as-national-twiddles-its-thumbs
-title: "Industrial action escalates as National twiddles its thumbs"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/PA1203/S00084/industrial-action-escalates-as-national-twiddles-its-thumbs.htm
+title: Industrial action escalates as National twiddles its thumbs
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00084/industrial-action-escalates-as-national-twiddles-its-thumbs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/07/industrial-action-escalates-as-national-twiddles-its-thumbs/index.html
+layout: layout.njk
 ---
 Industrial action escalates as National twiddles its thumbs
 ===========================================================

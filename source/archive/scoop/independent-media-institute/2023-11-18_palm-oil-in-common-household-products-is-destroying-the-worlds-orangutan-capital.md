@@ -1,9 +1,16 @@
 ---
-slug: palm-oil-in-common-household-products-is-destroying-the-worlds-orangutan-capital
-title: "Palm Oil In Common Household Products Is Destroying The World’s ‘Orangutan Capital’"
-date: 2023-11-18
-source-url: https://www.scoop.co.nz/stories/WO2311/S00131/palm-oil-in-common-household-products-is-destroying-the-worlds-orangutan-capital.htm
+slug: >-
+  palm-oil-in-common-household-products-is-destroying-the-worlds-orangutan-capital
+title: >-
+  Palm Oil In Common Household Products Is Destroying The World’s ‘Orangutan
+  Capital’
+date: 2023-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2311/S00131/palm-oil-in-common-household-products-is-destroying-the-worlds-orangutan-capital.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2023/11/18/palm-oil-in-common-household-products-is-destroying-the-worlds-orangutan-capital/index.html
+layout: layout.njk
 ---
 Palm Oil In Common Household Products Is Destroying The World’s ‘Orangutan Capital’
 ===================================================================================

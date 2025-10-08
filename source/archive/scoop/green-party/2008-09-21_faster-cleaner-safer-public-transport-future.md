@@ -1,9 +1,12 @@
 ---
 slug: faster-cleaner-safer-public-transport-future
-title: "Faster, cleaner, safer - public transport future"
-date: 2008-09-21
-source-url: https://www.scoop.co.nz/stories/PA0809/S00439/faster-cleaner-safer-public-transport-future.htm
+title: Faster, cleaner, safer - public transport future
+date: 2008-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00439/faster-cleaner-safer-public-transport-future.htm
 author: green-party
+permalink: /archive/2008/09/21/faster-cleaner-safer-public-transport-future/index.html
+layout: layout.njk
 ---
 Faster, cleaner, safer - public transport future
 ================================================

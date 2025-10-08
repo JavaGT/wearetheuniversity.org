@@ -1,9 +1,13 @@
 ---
 slug: minister-needs-to-end-bay-of-plenty-merger-uncertainty
-title: "Minister needs to end Bay of Plenty merger uncertainty"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/PO1512/S00082/minister-needs-to-end-bay-of-plenty-merger-uncertainty.htm
+title: Minister needs to end Bay of Plenty merger uncertainty
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00082/minister-needs-to-end-bay-of-plenty-merger-uncertainty.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/12/07/minister-needs-to-end-bay-of-plenty-merger-uncertainty/index.html
+layout: layout.njk
 ---
 Minister needs to end Bay of Plenty merger uncertainty
 ======================================================

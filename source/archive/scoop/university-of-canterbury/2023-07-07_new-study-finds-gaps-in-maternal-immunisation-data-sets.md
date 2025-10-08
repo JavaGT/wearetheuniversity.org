@@ -1,9 +1,13 @@
 ---
 slug: new-study-finds-gaps-in-maternal-immunisation-data-sets
-title: "New Study Finds Gaps In Maternal Immunisation Data Sets"
-date: 2023-07-07
-source-url: https://www.scoop.co.nz/stories/GE2307/S00021/new-study-finds-gaps-in-maternal-immunisation-data-sets.htm
+title: New Study Finds Gaps In Maternal Immunisation Data Sets
+date: 2023-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2307/S00021/new-study-finds-gaps-in-maternal-immunisation-data-sets.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/07/07/new-study-finds-gaps-in-maternal-immunisation-data-sets/index.html
+layout: layout.njk
 ---
 New Study Finds Gaps In Maternal Immunisation Data Sets
 =======================================================

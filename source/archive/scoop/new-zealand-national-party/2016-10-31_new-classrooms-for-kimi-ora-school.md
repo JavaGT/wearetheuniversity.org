@@ -1,9 +1,12 @@
 ---
 slug: new-classrooms-for-kimi-ora-school
-title: "New classrooms for Kimi Ora School"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/PA1610/S00457/new-classrooms-for-kimi-ora-school.htm
+title: New classrooms for Kimi Ora School
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00457/new-classrooms-for-kimi-ora-school.htm
 author: new-zealand-national-party
+permalink: /archive/2016/10/31/new-classrooms-for-kimi-ora-school/index.html
+layout: layout.njk
 ---
 New classrooms for Kimi Ora School
 ==================================

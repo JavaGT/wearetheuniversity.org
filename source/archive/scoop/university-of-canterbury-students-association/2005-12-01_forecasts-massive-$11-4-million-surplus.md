@@ -1,9 +1,12 @@
 ---
 slug: forecasts-massive-$11-4-million-surplus
-title: "Forecasts Massive $11.4 Million Surplus"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/ED0512/S00001/forecasts-massive-114-million-surplus.htm
+title: Forecasts Massive $11.4 Million Surplus
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00001/forecasts-massive-114-million-surplus.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2005/12/01/forecasts-massive-/index.html
+layout: layout.njk
 ---
 Forecasts Massive $11.4 Million Surplus
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: tomlinson-ucs-4th-student-in-4-years-to-win-rhodes
-title: "Tomlinson UC’s 4th Student in 4 years to win Rhodes"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/ED1311/S00079/tomlinson-ucs-4th-student-in-4-years-to-win-rhodes.htm
+title: Tomlinson UC’s 4th Student in 4 years to win Rhodes
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00079/tomlinson-ucs-4th-student-in-4-years-to-win-rhodes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/12/tomlinson-ucs-4th-student-in-4-years-to-win-rhodes/index.html
+layout: layout.njk
 ---
 Tomlinson UC’s 4th Student in 4 years to win Rhodes
 ===================================================

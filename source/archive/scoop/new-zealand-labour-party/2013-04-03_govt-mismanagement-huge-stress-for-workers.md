@@ -1,9 +1,12 @@
 ---
 slug: govt-mismanagement-huge-stress-for-workers
-title: "Govt mismanagement huge stress for workers"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/PA1304/S00037/govt-mismanagement-huge-stress-for-workers.htm
+title: Govt mismanagement huge stress for workers
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00037/govt-mismanagement-huge-stress-for-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/03/govt-mismanagement-huge-stress-for-workers/index.html
+layout: layout.njk
 ---
 Govt mismanagement huge stress for workers
 ==========================================

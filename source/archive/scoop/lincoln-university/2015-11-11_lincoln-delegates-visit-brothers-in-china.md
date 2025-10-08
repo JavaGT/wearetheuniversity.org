@@ -1,9 +1,12 @@
 ---
 slug: lincoln-delegates-visit-brothers-in-china
-title: "Lincoln delegates visit ‘brothers’ in China"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/ED1511/S00070/lincoln-delegates-visit-brothers-in-china.htm
+title: Lincoln delegates visit ‘brothers’ in China
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00070/lincoln-delegates-visit-brothers-in-china.htm
 author: lincoln-university
+permalink: /archive/2015/11/11/lincoln-delegates-visit-brothers-in-china/index.html
+layout: layout.njk
 ---
 Lincoln delegates visit ‘brothers’ in China
 ===========================================

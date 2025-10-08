@@ -1,9 +1,12 @@
 ---
 slug: green-party-mps-not-seeking-re-election
-title: "Green Party MPs not seeking re-election"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/PA1612/S00261/green-party-mps-not-seeking-re-election.htm
+title: Green Party MPs not seeking re-election
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00261/green-party-mps-not-seeking-re-election.htm
 author: green-party
+permalink: /archive/2016/12/15/green-party-mps-not-seeking-re-election/index.html
+layout: layout.njk
 ---
 Green Party MPs not seeking re-election
 =======================================

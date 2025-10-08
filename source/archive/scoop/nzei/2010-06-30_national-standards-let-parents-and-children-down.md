@@ -1,9 +1,13 @@
 ---
 slug: national-standards-let-parents-and-children-down
-title: "National Standards Let Parents and Children Down"
-date: 2010-06-30
-source-url: https://www.scoop.co.nz/stories/ED1006/S00116/national-standards-let-parents-and-children-down.htm
+title: National Standards Let Parents and Children Down
+date: 2010-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00116/national-standards-let-parents-and-children-down.htm
 author: nzei
+permalink: >-
+  /archive/2010/06/30/national-standards-let-parents-and-children-down/index.html
+layout: layout.njk
 ---
 National Standards Let Parents and Children Down
 ================================================

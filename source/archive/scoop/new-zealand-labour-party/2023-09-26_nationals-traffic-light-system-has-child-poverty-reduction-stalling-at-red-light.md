@@ -1,9 +1,16 @@
 ---
-slug: nationals-traffic-light-system-has-child-poverty-reduction-stalling-at-red-light
-title: "National’s Traffic Light System Has Child Poverty Reduction Stalling At Red Light"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/PA2309/S00149/nationals-traffic-light-system-has-child-poverty-reduction-stalling-at-red-light.htm
+slug: >-
+  nationals-traffic-light-system-has-child-poverty-reduction-stalling-at-red-light
+title: >-
+  National’s Traffic Light System Has Child Poverty Reduction Stalling At Red
+  Light
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00149/nationals-traffic-light-system-has-child-poverty-reduction-stalling-at-red-light.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/09/26/nationals-traffic-light-system-has-child-poverty-reduction-stalling-at-red-light/index.html
+layout: layout.njk
 ---
 National’s Traffic Light System Has Child Poverty Reduction Stalling At Red Light
 =================================================================================

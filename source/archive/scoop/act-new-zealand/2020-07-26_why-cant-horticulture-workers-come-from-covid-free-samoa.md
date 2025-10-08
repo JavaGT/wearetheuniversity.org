@@ -1,9 +1,13 @@
 ---
 slug: why-cant-horticulture-workers-come-from-covid-free-samoa
-title: "Why Can’t Horticulture Workers Come From COVID-free Samoa?"
-date: 2020-07-26
-source-url: https://www.scoop.co.nz/stories/PO2007/S00337/why-cant-horticulture-workers-come-from-covid-free-samoa.htm
+title: Why Can’t Horticulture Workers Come From COVID-free Samoa?
+date: 2020-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00337/why-cant-horticulture-workers-come-from-covid-free-samoa.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/26/why-cant-horticulture-workers-come-from-covid-free-samoa/index.html
+layout: layout.njk
 ---
 Why Can’t Horticulture Workers Come From COVID-free Samoa?
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: $50000-critic-and-conscience-of-society-award-2023-opens-for-applications
-title: "$50,000 Critic And Conscience Of Society Award 2023 Opens For Applications"
-date: 2022-11-14
-source-url: https://www.scoop.co.nz/stories/ED2211/S00035/50000-critic-and-conscience-of-society-award-2023-opens-for-applications.htm
+title: $50,000 Critic And Conscience Of Society Award 2023 Opens For Applications
+date: 2022-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00035/50000-critic-and-conscience-of-society-award-2023-opens-for-applications.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/11/14/50-000-critic-and-conscience-of-society-award-2023-opens-for-applications/index.html
+layout: layout.njk
 ---
 $50,000 Critic And Conscience Of Society Award 2023 Opens For Applications
 ==========================================================================

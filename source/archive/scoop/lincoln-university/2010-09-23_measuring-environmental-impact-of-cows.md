@@ -1,9 +1,12 @@
 ---
 slug: measuring-environmental-impact-of-cows
-title: "Measuring environmental impact of cows"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/ED1009/S00110/measuring-environmental-impact-of-cows.htm
+title: Measuring environmental impact of cows
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00110/measuring-environmental-impact-of-cows.htm
 author: lincoln-university
+permalink: /archive/2010/09/23/measuring-environmental-impact-of-cows/index.html
+layout: layout.njk
 ---
 Measuring environmental impact of cows
 ======================================

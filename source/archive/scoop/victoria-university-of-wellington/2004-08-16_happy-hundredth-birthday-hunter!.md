@@ -1,9 +1,12 @@
 ---
 slug: happy-hundredth-birthday-hunter!
-title: "Happy Hundredth Birthday Hunter!"
-date: 2004-08-16
-source-url: https://www.scoop.co.nz/stories/ED0408/S00067/happy-hundredth-birthday-hunter.htm
+title: Happy Hundredth Birthday Hunter!
+date: 2004-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00067/happy-hundredth-birthday-hunter.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/16/happy-hundredth-birthday-hunter/index.html
+layout: layout.njk
 ---
 Happy Hundredth Birthday Hunter!
 ================================

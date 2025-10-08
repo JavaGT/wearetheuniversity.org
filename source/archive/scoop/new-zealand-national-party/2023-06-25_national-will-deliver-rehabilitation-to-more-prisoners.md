@@ -1,9 +1,13 @@
 ---
 slug: national-will-deliver-rehabilitation-to-more-prisoners
-title: "National Will Deliver Rehabilitation To More Prisoners"
-date: 2023-06-25
-source-url: https://www.scoop.co.nz/stories/PA2306/S00159/national-will-deliver-rehabilitation-to-more-prisoners.htm
+title: National Will Deliver Rehabilitation To More Prisoners
+date: 2023-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00159/national-will-deliver-rehabilitation-to-more-prisoners.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/25/national-will-deliver-rehabilitation-to-more-prisoners/index.html
+layout: layout.njk
 ---
 National Will Deliver Rehabilitation To More Prisoners
 ======================================================

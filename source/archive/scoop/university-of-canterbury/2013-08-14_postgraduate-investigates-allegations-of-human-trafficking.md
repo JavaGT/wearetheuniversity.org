@@ -1,9 +1,13 @@
 ---
 slug: postgraduate-investigates-allegations-of-human-trafficking
-title: "Postgraduate investigates allegations of human trafficking"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/BU1308/S00507/postgraduate-investigates-allegations-of-human-trafficking.htm
+title: Postgraduate investigates allegations of human trafficking
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00507/postgraduate-investigates-allegations-of-human-trafficking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/14/postgraduate-investigates-allegations-of-human-trafficking/index.html
+layout: layout.njk
 ---
 Postgraduate investigates allegations of human trafficking
 ==========================================================

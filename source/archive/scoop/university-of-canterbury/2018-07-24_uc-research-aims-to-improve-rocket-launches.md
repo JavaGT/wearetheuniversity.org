@@ -1,9 +1,12 @@
 ---
 slug: uc-research-aims-to-improve-rocket-launches
-title: "UC research aims to improve rocket launches"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/SC1807/S00054/uc-research-aims-to-improve-rocket-launches.htm
+title: UC research aims to improve rocket launches
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00054/uc-research-aims-to-improve-rocket-launches.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/24/uc-research-aims-to-improve-rocket-launches/index.html
+layout: layout.njk
 ---
 UC research aims to improve rocket launches
 ===========================================

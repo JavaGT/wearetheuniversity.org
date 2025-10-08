@@ -1,9 +1,12 @@
 ---
 slug: eqc-privacy-breach-affects-67000-people
-title: "EQC privacy breach affects 67,000 people"
-date: 2013-03-25
-source-url: https://www.scoop.co.nz/stories/PA1303/S00424/eqc-privacy-breach-affects-67000-people.htm
+title: EQC privacy breach affects 67,000 people
+date: 2013-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00424/eqc-privacy-breach-affects-67000-people.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/25/eqc-privacy-breach-affects-67000-people/index.html
+layout: layout.njk
 ---
 EQC privacy breach affects 67,000 people
 ========================================

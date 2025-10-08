@@ -1,9 +1,12 @@
 ---
 slug: kirk-address-to-national-party-conference
-title: "Kirk Address to National Party Conference"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/PA0307/S00243/kirk-address-to-national-party-conference.htm
+title: Kirk Address to National Party Conference
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00243/kirk-address-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/14/kirk-address-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Kirk Address to National Party Conference
 =========================================

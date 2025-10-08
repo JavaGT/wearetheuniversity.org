@@ -1,9 +1,13 @@
 ---
 slug: cosmetics-to-candidates-critical-thinking-a-must
-title: "Cosmetics to Candidates - Critical Thinking a Must"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/CU1711/S00251/cosmetics-to-candidates-critical-thinking-a-must.htm
+title: Cosmetics to Candidates - Critical Thinking a Must
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00251/cosmetics-to-candidates-critical-thinking-a-must.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/15/cosmetics-to-candidates-critical-thinking-a-must/index.html
+layout: layout.njk
 ---
 Cosmetics to Candidates - Critical Thinking a Must
 ==================================================

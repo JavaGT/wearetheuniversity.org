@@ -1,9 +1,12 @@
 ---
 slug: author-needed-for-nzs-wwi-medical-history
-title: "Author needed for NZ’s WWI medical history"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/ED1510/S00048/author-needed-for-nzs-wwi-medical-history.htm
+title: Author needed for NZ’s WWI medical history
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00048/author-needed-for-nzs-wwi-medical-history.htm
 author: massey-university
+permalink: /archive/2015/10/09/author-needed-for-nzs-wwi-medical-history/index.html
+layout: layout.njk
 ---
 Author needed for NZ’s WWI medical history
 ==========================================

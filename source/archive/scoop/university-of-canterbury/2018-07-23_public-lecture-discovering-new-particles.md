@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-discovering-new-particles
-title: "Public lecture: Discovering New Particles"
-date: 2018-07-23
-source-url: https://www.scoop.co.nz/stories/SC1807/S00050/public-lecture-discovering-new-particles.htm
+title: 'Public lecture: Discovering New Particles'
+date: 2018-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00050/public-lecture-discovering-new-particles.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/23/public-lecture-discovering-new-particles/index.html
+layout: layout.njk
 ---
 Public lecture: Discovering New Particles
 =========================================

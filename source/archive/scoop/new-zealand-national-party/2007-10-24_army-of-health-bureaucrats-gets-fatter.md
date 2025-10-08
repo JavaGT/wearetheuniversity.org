@@ -1,9 +1,12 @@
 ---
 slug: army-of-health-bureaucrats-gets-fatter
-title: "Army of health bureaucrats gets fatter"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/PA0710/S00433/army-of-health-bureaucrats-gets-fatter.htm
+title: Army of health bureaucrats gets fatter
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00433/army-of-health-bureaucrats-gets-fatter.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/24/army-of-health-bureaucrats-gets-fatter/index.html
+layout: layout.njk
 ---
 Army of health bureaucrats gets fatter
 ======================================

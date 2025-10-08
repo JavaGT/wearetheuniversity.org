@@ -1,9 +1,12 @@
 ---
 slug: greens-support-rainbow-diversity-in-our-schools
-title: "Greens support rainbow diversity in our schools"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00123/greens-support-rainbow-diversity-in-our-schools.htm
+title: Greens support rainbow diversity in our schools
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00123/greens-support-rainbow-diversity-in-our-schools.htm
 author: green-party
+permalink: /archive/2017/09/12/greens-support-rainbow-diversity-in-our-schools/index.html
+layout: layout.njk
 ---
 Greens support rainbow diversity in our schools
 ===============================================

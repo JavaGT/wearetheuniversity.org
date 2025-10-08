@@ -1,9 +1,12 @@
 ---
 slug: nz-votes-the-general-election-of-2002
-title: "NZ Votes: The General Election of 2002"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/PO0312/S00078/nz-votes-the-general-election-of-2002.htm
+title: 'NZ Votes: The General Election of 2002'
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0312/S00078/nz-votes-the-general-election-of-2002.htm
 author: victoria-university-press
+permalink: /archive/2003/12/09/nz-votes-the-general-election-of-2002/index.html
+layout: layout.njk
 ---
 NZ Votes: The General Election of 2002
 ======================================

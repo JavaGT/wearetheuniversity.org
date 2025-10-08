@@ -1,9 +1,12 @@
 ---
 slug: families-of-nz-conscientious-objectors-sought
-title: "Families of NZ conscientious objectors sought"
-date: 2016-03-10
-source-url: https://www.scoop.co.nz/stories/CU1603/S00227/families-of-nz-conscientious-objectors-sought.htm
+title: Families of NZ conscientious objectors sought
+date: 2016-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00227/families-of-nz-conscientious-objectors-sought.htm
 author: university-of-otago
+permalink: /archive/2016/03/10/families-of-nz-conscientious-objectors-sought/index.html
+layout: layout.njk
 ---
 Families of NZ conscientious objectors sought
 =============================================

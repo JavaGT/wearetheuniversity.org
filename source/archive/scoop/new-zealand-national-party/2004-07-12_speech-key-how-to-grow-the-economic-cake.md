@@ -1,9 +1,12 @@
 ---
 slug: speech-key-how-to-grow-the-economic-cake
-title: "Speech: Key - How to grow the economic cake"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/PA0407/S00184/speech-key-how-to-grow-the-economic-cake.htm
+title: 'Speech: Key - How to grow the economic cake'
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00184/speech-key-how-to-grow-the-economic-cake.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/12/speech-key-how-to-grow-the-economic-cake/index.html
+layout: layout.njk
 ---
 Speech: Key - How to grow the economic cake
 ===========================================

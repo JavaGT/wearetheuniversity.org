@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-reveal-performance-pay-model
-title: "Govt needs to reveal performance pay model"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/PA1205/S00285/govt-needs-to-reveal-performance-pay-model.htm
+title: Govt needs to reveal performance pay model
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00285/govt-needs-to-reveal-performance-pay-model.htm
 author: green-party
+permalink: /archive/2012/05/17/govt-needs-to-reveal-performance-pay-model/index.html
+layout: layout.njk
 ---
 Govt needs to reveal performance pay model
 ==========================================

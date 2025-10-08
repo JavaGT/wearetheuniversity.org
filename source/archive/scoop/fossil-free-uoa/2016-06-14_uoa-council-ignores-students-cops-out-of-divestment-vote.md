@@ -1,9 +1,13 @@
 ---
 slug: uoa-council-ignores-students-cops-out-of-divestment-vote
-title: "UOA Council ignores students, cops out of divestment vote"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/ED1606/S00037/uoa-council-ignores-students-cops-out-of-divestment-vote.htm
+title: UOA Council ignores students, cops out of divestment vote
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00037/uoa-council-ignores-students-cops-out-of-divestment-vote.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2016/06/14/uoa-council-ignores-students-cops-out-of-divestment-vote/index.html
+layout: layout.njk
 ---
 UOA Council ignores students, cops out of divestment vote
 =========================================================

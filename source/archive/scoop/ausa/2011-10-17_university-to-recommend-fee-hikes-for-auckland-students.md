@@ -1,9 +1,13 @@
 ---
 slug: university-to-recommend-fee-hikes-for-auckland-students
-title: "University to recommend fee hikes for Auckland students"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/ED1110/S00065/university-to-recommend-fee-hikes-for-auckland-students.htm
+title: University to recommend fee hikes for Auckland students
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00065/university-to-recommend-fee-hikes-for-auckland-students.htm
 author: ausa
+permalink: >-
+  /archive/2011/10/17/university-to-recommend-fee-hikes-for-auckland-students/index.html
+layout: layout.njk
 ---
 University to recommend fee hikes for Auckland students
 =======================================================

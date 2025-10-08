@@ -1,9 +1,12 @@
 ---
 slug: new-bill-announced-to-boost-build-to-rent-in-nz
-title: "New Bill Announced To Boost Build-to-Rent In NZ"
-date: 2021-10-24
-source-url: https://www.scoop.co.nz/stories/PA2110/S00244/new-bill-announced-to-boost-build-to-rent-in-nz.htm
+title: New Bill Announced To Boost Build-to-Rent In NZ
+date: 2021-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00244/new-bill-announced-to-boost-build-to-rent-in-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/24/new-bill-announced-to-boost-build-to-rent-in-nz/index.html
+layout: layout.njk
 ---
 New Bill Announced To Boost Build-to-Rent In NZ
 ===============================================

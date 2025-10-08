@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-awarded-prestigious-fellowships
-title: "UC researchers awarded prestigious fellowships"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/ED1109/S00026/uc-researchers-awarded-prestigious-fellowships.htm
+title: UC researchers awarded prestigious fellowships
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00026/uc-researchers-awarded-prestigious-fellowships.htm
 author: university-of-canterbury
+permalink: /archive/2011/09/08/uc-researchers-awarded-prestigious-fellowships/index.html
+layout: layout.njk
 ---
 UC researchers awarded prestigious fellowships
 ==============================================

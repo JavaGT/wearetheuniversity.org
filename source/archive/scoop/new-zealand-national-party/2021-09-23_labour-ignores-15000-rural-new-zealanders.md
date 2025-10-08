@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-15000-rural-new-zealanders
-title: "Labour Ignores 15,000 Rural New Zealanders"
-date: 2021-09-23
-source-url: https://www.scoop.co.nz/stories/PA2109/S00213/labour-ignores-15000-rural-new-zealanders.htm
+title: Labour Ignores 15,000 Rural New Zealanders
+date: 2021-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00213/labour-ignores-15000-rural-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/23/labour-ignores-15000-rural-new-zealanders/index.html
+layout: layout.njk
 ---
 Labour Ignores 15,000 Rural New Zealanders
 ==========================================

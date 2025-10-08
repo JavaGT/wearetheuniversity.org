@@ -1,9 +1,12 @@
 ---
 slug: exhibition-toasts-longest-running-school-of-art
-title: "Exhibition Toasts Longest Running School Of Art"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/CU0710/S00115/exhibition-toasts-longest-running-school-of-art.htm
+title: Exhibition Toasts Longest Running School Of Art
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00115/exhibition-toasts-longest-running-school-of-art.htm
 author: university-of-canterbury
+permalink: /archive/2007/10/09/exhibition-toasts-longest-running-school-of-art/index.html
+layout: layout.njk
 ---
 Exhibition Toasts Longest Running School Of Art
 ===============================================

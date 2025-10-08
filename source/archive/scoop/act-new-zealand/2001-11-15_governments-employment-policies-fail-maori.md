@@ -1,9 +1,12 @@
 ---
 slug: governments-employment-policies-fail-maori
-title: "Governments Employment Policies Fail Maori"
-date: 2001-11-15
-source-url: https://www.scoop.co.nz/stories/PA0111/S00303/governments-employment-policies-fail-maori.htm
+title: Governments Employment Policies Fail Maori
+date: 2001-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00303/governments-employment-policies-fail-maori.htm
 author: act-new-zealand
+permalink: /archive/2001/11/15/governments-employment-policies-fail-maori/index.html
+layout: layout.njk
 ---
 Governments Employment Policies Fail Maori
 ==========================================

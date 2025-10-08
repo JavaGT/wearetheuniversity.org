@@ -1,9 +1,12 @@
 ---
 slug: boffins-arrive-in-nz-for-nanotech-networking
-title: "Boffins arrive in NZ for nanotech networking"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/ED0502/S00014/boffins-arrive-in-nz-for-nanotech-networking.htm
+title: Boffins arrive in NZ for nanotech networking
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00014/boffins-arrive-in-nz-for-nanotech-networking.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/02/02/boffins-arrive-in-nz-for-nanotech-networking/index.html
+layout: layout.njk
 ---
 Boffins arrive in NZ for nanotech networking
 ============================================

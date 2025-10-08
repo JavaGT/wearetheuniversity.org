@@ -1,9 +1,12 @@
 ---
 slug: mister-hamilton-by-john-dickson
-title: "Mister Hamilton by John Dickson"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/CU1607/S00203/mister-hamilton-by-john-dickson.htm
+title: Mister Hamilton by John Dickson
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1607/S00203/mister-hamilton-by-john-dickson.htm
 author: auckland-university-press
+permalink: /archive/2016/07/18/mister-hamilton-by-john-dickson/index.html
+layout: layout.njk
 ---
 Mister Hamilton by John Dickson
 ===============================

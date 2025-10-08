@@ -1,9 +1,12 @@
 ---
 slug: taking-the-guess-work-out-of-spinal-surgery
-title: "Taking The Guess Work Out Of Spinal Surgery"
-date: 2023-09-13
-source-url: https://www.scoop.co.nz/stories/GE2309/S00046/taking-the-guess-work-out-of-spinal-surgery.htm
+title: Taking The Guess Work Out Of Spinal Surgery
+date: 2023-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2309/S00046/taking-the-guess-work-out-of-spinal-surgery.htm
 author: university-of-canterbury
+permalink: /archive/2023/09/13/taking-the-guess-work-out-of-spinal-surgery/index.html
+layout: layout.njk
 ---
 Taking The Guess Work Out Of Spinal Surgery
 ===========================================

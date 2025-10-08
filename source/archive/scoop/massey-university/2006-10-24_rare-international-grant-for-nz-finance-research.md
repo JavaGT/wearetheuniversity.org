@@ -1,9 +1,13 @@
 ---
 slug: rare-international-grant-for-nz-finance-research
-title: "Rare international grant for NZ Finance research"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/BU0610/S00445/rare-international-grant-for-nz-finance-research.htm
+title: Rare international grant for NZ Finance research
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0610/S00445/rare-international-grant-for-nz-finance-research.htm
 author: massey-university
+permalink: >-
+  /archive/2006/10/24/rare-international-grant-for-nz-finance-research/index.html
+layout: layout.njk
 ---
 Rare international grant for NZ Finance research
 ================================================

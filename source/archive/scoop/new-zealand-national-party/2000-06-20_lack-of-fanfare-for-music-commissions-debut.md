@@ -1,9 +1,12 @@
 ---
 slug: lack-of-fanfare-for-music-commissions-debut
-title: "Lack of fanfare for Music Commissions debut"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/PA0006/S00471/lack-of-fanfare-for-music-commissions-debut.htm
+title: Lack of fanfare for Music Commissions debut
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00471/lack-of-fanfare-for-music-commissions-debut.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/20/lack-of-fanfare-for-music-commissions-debut/index.html
+layout: layout.njk
 ---
 Lack of fanfare for Music Commissions debut
 ===========================================

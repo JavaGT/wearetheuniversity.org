@@ -1,9 +1,11 @@
 ---
 slug: from-fat-to-fit-at-what-cost
-title: "From fat to fit – at what cost?"
-date: 2016-08-01
+title: From fat to fit – at what cost?
+date: 2016-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1608/S00006/from-fat-to-fit-at-what-cost.htm
 author: massey-university
+permalink: /archive/2016/08/01/from-fat-to-fit-at-what-cost/index.html
+layout: layout.njk
 ---
 From fat to fit – at what cost?
 ===============================

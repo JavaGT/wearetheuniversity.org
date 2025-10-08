@@ -1,9 +1,12 @@
 ---
 slug: confidence-in-ngā-whanaketanga-highlights-flaws
-title: "Confidence in Ngā Whanaketanga Highlights Flaws"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/ED1012/S00054/confidence-in-nga-whanaketanga-highlights-flaws.htm
+title: Confidence in Ngā Whanaketanga Highlights Flaws
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00054/confidence-in-nga-whanaketanga-highlights-flaws.htm
 author: nzei
+permalink: /archive/2010/12/10/confidence-in-ng/index.html
+layout: layout.njk
 ---
 Confidence in Ngā Whanaketanga Highlights Flaws
 ===============================================

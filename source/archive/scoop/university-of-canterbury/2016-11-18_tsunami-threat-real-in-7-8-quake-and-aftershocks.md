@@ -1,9 +1,13 @@
 ---
 slug: tsunami-threat-real-in-7-8-quake-and-aftershocks
-title: "Tsunami threat real in 7.8 quake and aftershocks"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/AK1611/S00548/tsunami-threat-real-in-78-quake-and-aftershocks.htm
+title: Tsunami threat real in 7.8 quake and aftershocks
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1611/S00548/tsunami-threat-real-in-78-quake-and-aftershocks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/11/18/tsunami-threat-real-in-7-8-quake-and-aftershocks/index.html
+layout: layout.njk
 ---
 Tsunami threat real in 7.8 quake and aftershocks
 ================================================

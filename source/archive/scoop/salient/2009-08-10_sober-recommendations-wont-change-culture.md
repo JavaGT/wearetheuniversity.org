@@ -1,9 +1,12 @@
 ---
 slug: sober-recommendations-wont-change-culture
-title: "Sober recommendations won’t change culture"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/ED0908/S00033/sober-recommendations-wont-change-culture.htm
+title: Sober recommendations won’t change culture
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00033/sober-recommendations-wont-change-culture.htm
 author: salient
+permalink: /archive/2009/08/10/sober-recommendations-wont-change-culture/index.html
+layout: layout.njk
 ---
 Sober recommendations won’t change culture
 ==========================================

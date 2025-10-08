@@ -1,9 +1,13 @@
 ---
 slug: uc-considering-showcasing-annual-bridge-building-in-the-city
-title: "UC considering showcasing annual bridge building in the city"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/AK1310/S00380/uc-considering-showcasing-annual-bridge-building-in-the-city.htm
+title: UC considering showcasing annual bridge building in the city
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00380/uc-considering-showcasing-annual-bridge-building-in-the-city.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/09/uc-considering-showcasing-annual-bridge-building-in-the-city/index.html
+layout: layout.njk
 ---
 UC considering showcasing annual bridge building in the city
 ============================================================

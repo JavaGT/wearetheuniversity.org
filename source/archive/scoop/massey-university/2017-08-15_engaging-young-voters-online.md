@@ -1,9 +1,11 @@
 ---
 slug: engaging-young-voters-online
-title: "Engaging Young Voters Online"
-date: 2017-08-15
+title: Engaging Young Voters Online
+date: 2017-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1708/S00051/engaging-young-voters-online.htm
 author: massey-university
+permalink: /archive/2017/08/15/engaging-young-voters-online/index.html
+layout: layout.njk
 ---
 Engaging Young Voters Online
 ============================

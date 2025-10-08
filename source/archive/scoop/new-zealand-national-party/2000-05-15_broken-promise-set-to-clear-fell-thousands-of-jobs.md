@@ -1,9 +1,13 @@
 ---
 slug: broken-promise-set-to-clear-fell-thousands-of-jobs
-title: "Broken promise set to clear-fell thousands of jobs"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/PA0005/S00313/broken-promise-set-to-clear-fell-thousands-of-jobs.htm
+title: Broken promise set to clear-fell thousands of jobs
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00313/broken-promise-set-to-clear-fell-thousands-of-jobs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/05/15/broken-promise-set-to-clear-fell-thousands-of-jobs/index.html
+layout: layout.njk
 ---
 Broken promise set to clear-fell thousands of jobs
 ==================================================

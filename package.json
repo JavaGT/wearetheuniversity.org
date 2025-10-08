@@ -1,18 +1,22 @@
 {
+  "name": "wearetheuniversity.org2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "reset-eml-md": "find ./source/archive ./source/blog -type f -name '*.eml' -print0 | xargs -0 -I{} sh -c 'md=\"{}\"; md=\"${md%.eml}.md\"; rm -f \"$md\"'",
+  "build": "node ./build/archive-and-blog.mjs && npx eleventy",
+  "serve": "node ./build/archive-and-blog.mjs && npx eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
   "dependencies": {
-    "better-sqlite3": "^11.8.1",
-    "cssnano": "^7.0.6",
-    "diff": "^7.0.0",
-    "front-matter": "^4.0.2",
-    "html-minifier": "^4.0.0",
-    "mailparser": "^3.7.2",
-    "marked": "^15.0.4",
-    "node-html-parser": "^7.0.1",
-    "postcss": "^8.4.49",
-    "pug": "^3.0.3",
-    "sanitize-filename": "^1.6.3",
-    "turndown": "^7.2.0",
-    "winston": "^3.17.0",
-    "xml-js": "^1.6.11"
+    "mailparser": "^3.7.4"
   }
 }

@@ -1,9 +1,12 @@
 ---
 slug: nursing-workforce-study-wins-funding
-title: "Nursing workforce study wins funding"
-date: 2006-12-21
-source-url: https://www.scoop.co.nz/stories/GE0612/S00106/nursing-workforce-study-wins-funding.htm
+title: Nursing workforce study wins funding
+date: 2006-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0612/S00106/nursing-workforce-study-wins-funding.htm
 author: massey-university
+permalink: /archive/2006/12/21/nursing-workforce-study-wins-funding/index.html
+layout: layout.njk
 ---
 Nursing workforce study wins funding
 ====================================

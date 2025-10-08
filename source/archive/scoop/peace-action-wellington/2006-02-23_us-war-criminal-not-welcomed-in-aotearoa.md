@@ -1,9 +1,12 @@
 ---
 slug: us-war-criminal-not-welcomed-in-aotearoa
-title: "US War Criminal NOT welcomed in Aotearoa"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/PO0602/S00154/us-war-criminal-not-welcomed-in-aotearoa.htm
+title: US War Criminal NOT welcomed in Aotearoa
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0602/S00154/us-war-criminal-not-welcomed-in-aotearoa.htm
 author: peace-action-wellington
+permalink: /archive/2006/02/23/us-war-criminal-not-welcomed-in-aotearoa/index.html
+layout: layout.njk
 ---
 US War Criminal NOT welcomed in Aotearoa
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: another-gravy-train-exposed-winston-peters
-title: "Another Gravy Train Exposed - Winston Peters"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00241/another-gravy-train-exposed-winston-peters.htm
+title: Another Gravy Train Exposed - Winston Peters
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00241/another-gravy-train-exposed-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/08/another-gravy-train-exposed-winston-peters/index.html
+layout: layout.njk
 ---
 Another Gravy Train Exposed - Winston Peters
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-seeks-protection-of-ancestral-land
-title: "Maori Party Seeks Protection of Ancestral Land"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00077/maori-party-seeks-protection-of-ancestral-land.htm
+title: Maori Party Seeks Protection of Ancestral Land
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00077/maori-party-seeks-protection-of-ancestral-land.htm
 author: te-pati-maori
+permalink: /archive/2011/04/05/maori-party-seeks-protection-of-ancestral-land/index.html
+layout: layout.njk
 ---
 Maori Party Seeks Protection of Ancestral Land
 ==============================================

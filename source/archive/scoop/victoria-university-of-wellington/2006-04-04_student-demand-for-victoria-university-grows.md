@@ -1,9 +1,12 @@
 ---
 slug: student-demand-for-victoria-university-grows
-title: "Student demand for Victoria University grows"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00009/student-demand-for-victoria-university-grows.htm
+title: Student demand for Victoria University grows
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00009/student-demand-for-victoria-university-grows.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/04/student-demand-for-victoria-university-grows/index.html
+layout: layout.njk
 ---
 Student demand for Victoria University grows
 ============================================

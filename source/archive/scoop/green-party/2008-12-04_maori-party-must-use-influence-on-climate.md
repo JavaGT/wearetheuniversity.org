@@ -1,9 +1,12 @@
 ---
 slug: maori-party-must-use-influence-on-climate
-title: "Maori Party must use influence on climate"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/PA0812/S00037/maori-party-must-use-influence-on-climate.htm
+title: Maori Party must use influence on climate
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00037/maori-party-must-use-influence-on-climate.htm
 author: green-party
+permalink: /archive/2008/12/04/maori-party-must-use-influence-on-climate/index.html
+layout: layout.njk
 ---
 Maori Party must use influence on climate
 =========================================

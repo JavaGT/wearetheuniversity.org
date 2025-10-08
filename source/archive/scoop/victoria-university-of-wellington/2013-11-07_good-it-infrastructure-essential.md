@@ -1,9 +1,12 @@
 ---
 slug: good-it-infrastructure-essential
-title: "Good IT infrastructure essential"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/SC1311/S00020/good-it-infrastructure-essential.htm
+title: Good IT infrastructure essential
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00020/good-it-infrastructure-essential.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/07/good-it-infrastructure-essential/index.html
+layout: layout.njk
 ---
 Good IT infrastructure essential
 ================================

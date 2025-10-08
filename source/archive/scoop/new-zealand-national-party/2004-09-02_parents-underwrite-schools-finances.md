@@ -1,9 +1,12 @@
 ---
 slug: parents-underwrite-schools-finances
-title: "Parents underwrite schools' finances"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/PA0409/S00045/parents-underwrite-schools-finances.htm
+title: Parents underwrite schools' finances
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00045/parents-underwrite-schools-finances.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/02/parents-underwrite-schools-finances/index.html
+layout: layout.njk
 ---
 Parents underwrite schools' finances
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: alcohol-report-a-public-policy-fiasco
-title: "Alcohol Report a Public Policy Fiasco"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/BU1005/S00192/alcohol-report-a-public-policy-fiasco.htm
+title: Alcohol Report a Public Policy Fiasco
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1005/S00192/alcohol-report-a-public-policy-fiasco.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/05/07/alcohol-report-a-public-policy-fiasco/index.html
+layout: layout.njk
 ---
 Alcohol Report a Public Policy Fiasco
 =====================================

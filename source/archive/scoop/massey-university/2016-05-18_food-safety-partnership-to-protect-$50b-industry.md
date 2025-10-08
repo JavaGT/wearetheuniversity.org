@@ -1,9 +1,12 @@
 ---
 slug: food-safety-partnership-to-protect-$50b-industry
-title: "Food safety partnership to protect $50b industry"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/GE1605/S00095/food-safety-partnership-to-protect-50b-industry.htm
+title: Food safety partnership to protect $50b industry
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00095/food-safety-partnership-to-protect-50b-industry.htm
 author: massey-university
+permalink: /archive/2016/05/18/food-safety-partnership-to-protect-/index.html
+layout: layout.njk
 ---
 Food safety partnership to protect $50b industry
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-writer-in-residence-for-victoria-university
-title: "New Writer in Residence for Victoria University"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/ED1410/S00154/new-writer-in-residence-for-victoria-university.htm
+title: New Writer in Residence for Victoria University
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00154/new-writer-in-residence-for-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/29/new-writer-in-residence-for-victoria-university/index.html
+layout: layout.njk
 ---
 New Writer in Residence for Victoria University
 ===============================================

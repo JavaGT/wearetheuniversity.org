@@ -1,9 +1,12 @@
 ---
 slug: cullen-plays-race-card-of-his-own
-title: "Cullen plays race card of his own"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/PA0307/S00520/cullen-plays-race-card-of-his-own.htm
+title: Cullen plays race card of his own
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00520/cullen-plays-race-card-of-his-own.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/29/cullen-plays-race-card-of-his-own/index.html
+layout: layout.njk
 ---
 Cullen plays race card of his own
 =================================

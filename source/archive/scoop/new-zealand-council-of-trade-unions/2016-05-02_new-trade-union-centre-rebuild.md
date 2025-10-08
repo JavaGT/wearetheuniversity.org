@@ -1,9 +1,12 @@
 ---
 slug: new-trade-union-centre-rebuild
-title: "New Trade Union Centre Rebuild"
-date: 2016-05-02
-source-url: https://www.scoop.co.nz/stories/AK1605/S00011/new-trade-union-centre-rebuild.htm
+title: New Trade Union Centre Rebuild
+date: 2016-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00011/new-trade-union-centre-rebuild.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2016/05/02/new-trade-union-centre-rebuild/index.html
+layout: layout.njk
 ---
 New Trade Union Centre Rebuild
 ==============================

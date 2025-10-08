@@ -1,9 +1,13 @@
 ---
 slug: pregnant-women-offer-insights-for-asthma-research
-title: "Pregnant women offer insights for asthma research"
-date: 2007-06-27
-source-url: https://www.scoop.co.nz/stories/GE0706/S00094/pregnant-women-offer-insights-for-asthma-research.htm
+title: Pregnant women offer insights for asthma research
+date: 2007-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00094/pregnant-women-offer-insights-for-asthma-research.htm
 author: massey-university
+permalink: >-
+  /archive/2007/06/27/pregnant-women-offer-insights-for-asthma-research/index.html
+layout: layout.njk
 ---
 Pregnant women offer insights for asthma research
 =================================================

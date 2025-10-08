@@ -1,9 +1,12 @@
 ---
 slug: working-together-to-develop-great-teachers
-title: "Working Together to Develop Great Teachers"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00138/working-together-to-develop-great-teachers.htm
+title: Working Together to Develop Great Teachers
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00138/working-together-to-develop-great-teachers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/30/working-together-to-develop-great-teachers/index.html
+layout: layout.njk
 ---
 Working Together to Develop Great Teachers
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: sport-for-young-kiwis
-title: "Sport For Young Kiwis"
-date: 2008-07-05
+title: Sport For Young Kiwis
+date: 2008-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0807/S00048/sport-for-young-kiwis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/05/sport-for-young-kiwis/index.html
+layout: layout.njk
 ---
 Sport For Young Kiwis
 =====================

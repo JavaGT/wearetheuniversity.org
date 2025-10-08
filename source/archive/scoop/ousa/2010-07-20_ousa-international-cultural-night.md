@@ -1,9 +1,12 @@
 ---
 slug: ousa-international-cultural-night
-title: "OUSA International Cultural Night"
-date: 2010-07-20
-source-url: https://www.scoop.co.nz/stories/CU1007/S00270/ousa-international-cultural-night.htm
+title: OUSA International Cultural Night
+date: 2010-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00270/ousa-international-cultural-night.htm
 author: ousa
+permalink: /archive/2010/07/20/ousa-international-cultural-night/index.html
+layout: layout.njk
 ---
 OUSA International Cultural Night
 =================================

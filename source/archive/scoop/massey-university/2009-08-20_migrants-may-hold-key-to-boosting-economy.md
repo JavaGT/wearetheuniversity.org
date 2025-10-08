@@ -1,9 +1,12 @@
 ---
 slug: migrants-may-hold-key-to-boosting-economy
-title: "Migrants may hold key to boosting economy"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/BU0908/S00510/migrants-may-hold-key-to-boosting-economy.htm
+title: Migrants may hold key to boosting economy
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0908/S00510/migrants-may-hold-key-to-boosting-economy.htm
 author: massey-university
+permalink: /archive/2009/08/20/migrants-may-hold-key-to-boosting-economy/index.html
+layout: layout.njk
 ---
 Migrants may hold key to boosting economy
 =========================================

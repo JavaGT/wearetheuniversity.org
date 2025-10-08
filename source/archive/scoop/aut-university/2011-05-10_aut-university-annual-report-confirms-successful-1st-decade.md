@@ -1,9 +1,13 @@
 ---
 slug: aut-university-annual-report-confirms-successful-1st-decade
-title: "AUT University Annual Report Confirms Successful 1st Decade"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/BU1105/S00338/aut-university-annual-report-confirms-successful-1st-decade.htm
+title: AUT University Annual Report Confirms Successful 1st Decade
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1105/S00338/aut-university-annual-report-confirms-successful-1st-decade.htm
 author: aut-university
+permalink: >-
+  /archive/2011/05/10/aut-university-annual-report-confirms-successful-1st-decade/index.html
+layout: layout.njk
 ---
 AUT University Annual Report Confirms Successful 1st Decade
 ===========================================================

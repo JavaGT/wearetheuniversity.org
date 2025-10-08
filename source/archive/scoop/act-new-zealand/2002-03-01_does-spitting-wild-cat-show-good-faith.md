@@ -1,9 +1,12 @@
 ---
 slug: does-spitting-wild-cat-show-good-faith
-title: "Does Spitting Wild Cat Show Good Faith?"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00040/does-spitting-wild-cat-show-good-faith.htm
+title: Does Spitting Wild Cat Show Good Faith?
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00040/does-spitting-wild-cat-show-good-faith.htm
 author: act-new-zealand
+permalink: /archive/2002/03/01/does-spitting-wild-cat-show-good-faith/index.html
+layout: layout.njk
 ---
 Does Spitting Wild Cat Show Good Faith?
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-appoints-new-creative-writing-director
-title: "Victoria appoints new creative writing Director"
-date: 2012-07-16
-source-url: https://www.scoop.co.nz/stories/ED1207/S00055/victoria-appoints-new-creative-writing-director.htm
+title: Victoria appoints new creative writing Director
+date: 2012-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00055/victoria-appoints-new-creative-writing-director.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/16/victoria-appoints-new-creative-writing-director/index.html
+layout: layout.njk
 ---
 Victoria appoints new creative writing Director
 ===============================================

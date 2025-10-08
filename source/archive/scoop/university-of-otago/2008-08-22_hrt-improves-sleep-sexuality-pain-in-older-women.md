@@ -1,9 +1,13 @@
 ---
 slug: hrt-improves-sleep-sexuality-pain-in-older-women
-title: "HRT improves sleep, sexuality, pain in older women"
-date: 2008-08-22
-source-url: https://www.scoop.co.nz/stories/GE0808/S00112/hrt-improves-sleep-sexuality-pain-in-older-women.htm
+title: HRT improves sleep, sexuality, pain in older women
+date: 2008-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00112/hrt-improves-sleep-sexuality-pain-in-older-women.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/08/22/hrt-improves-sleep-sexuality-pain-in-older-women/index.html
+layout: layout.njk
 ---
 HRT improves sleep, sexuality, pain in older women
 ==================================================

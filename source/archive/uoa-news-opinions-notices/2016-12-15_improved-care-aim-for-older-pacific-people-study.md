@@ -1,8 +1,12 @@
 ---
 slug: improved-care-aim-for-older-pacific-people-study
-title: "Improved care aim for older Pacific people study"
-date: 2016-12-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/improved-care-aim-for-older-pacific-people-study.html
+title: Improved care aim for older Pacific people study
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/improved-care-aim-for-older-pacific-people-study.html
+permalink: >-
+  /archive/2016/12/15/improved-care-aim-for-older-pacific-people-study/index.html
+layout: layout.njk
 ---
 Improved care aim for older Pacific people study
 ================================================

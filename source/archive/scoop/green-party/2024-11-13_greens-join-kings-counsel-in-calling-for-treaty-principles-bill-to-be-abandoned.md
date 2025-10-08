@@ -1,9 +1,16 @@
 ---
-slug: greens-join-kings-counsel-in-calling-for-treaty-principles-bill-to-be-abandoned
-title: "Greens Join King’s Counsel In Calling For Treaty Principles Bill To Be Abandoned"
-date: 2024-11-13
-source-url: https://www.scoop.co.nz/stories/PA2411/S00098/greens-join-kings-counsel-in-calling-for-treaty-principles-bill-to-be-abandoned.htm
+slug: >-
+  greens-join-kings-counsel-in-calling-for-treaty-principles-bill-to-be-abandoned
+title: >-
+  Greens Join King’s Counsel In Calling For Treaty Principles Bill To Be
+  Abandoned
+date: 2024-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00098/greens-join-kings-counsel-in-calling-for-treaty-principles-bill-to-be-abandoned.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/13/greens-join-kings-counsel-in-calling-for-treaty-principles-bill-to-be-abandoned/index.html
+layout: layout.njk
 ---
 Greens Join King’s Counsel In Calling For Treaty Principles Bill To Be Abandoned
 ================================================================================

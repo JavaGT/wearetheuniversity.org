@@ -1,9 +1,12 @@
 ---
 slug: new-deal-hopes-to-increase-ivf-success
-title: "New deal hopes to increase IVF success"
-date: 2006-05-28
-source-url: https://www.scoop.co.nz/stories/GE0605/S00181/new-deal-hopes-to-increase-ivf-success.htm
+title: New deal hopes to increase IVF success
+date: 2006-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00181/new-deal-hopes-to-increase-ivf-success.htm
 author: aut-university
+permalink: /archive/2006/05/28/new-deal-hopes-to-increase-ivf-success/index.html
+layout: layout.njk
 ---
 New deal hopes to increase IVF success
 ======================================

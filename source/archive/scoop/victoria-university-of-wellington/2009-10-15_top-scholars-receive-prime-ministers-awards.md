@@ -1,9 +1,12 @@
 ---
 slug: top-scholars-receive-prime-ministers-awards
-title: "Top scholars receive Prime Minister's awards"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/ED0910/S00061/top-scholars-receive-prime-ministers-awards.htm
+title: Top scholars receive Prime Minister's awards
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00061/top-scholars-receive-prime-ministers-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/15/top-scholars-receive-prime-ministers-awards/index.html
+layout: layout.njk
 ---
 Top scholars receive Prime Minister's awards
 ============================================

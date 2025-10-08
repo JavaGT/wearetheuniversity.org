@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-treaty-amendment-bill
-title: "Hone Harawira: Treaty Amendment Bill"
-date: 2008-06-19
-source-url: https://www.scoop.co.nz/stories/PA0806/S00283/hone-harawira-treaty-amendment-bill.htm
+title: 'Hone Harawira: Treaty Amendment Bill'
+date: 2008-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00283/hone-harawira-treaty-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/06/19/hone-harawira-treaty-amendment-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Treaty Amendment Bill
 ====================================

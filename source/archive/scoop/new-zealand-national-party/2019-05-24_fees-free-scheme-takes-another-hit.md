@@ -1,9 +1,12 @@
 ---
 slug: fees-free-scheme-takes-another-hit
-title: "Fees-free scheme takes another hit"
-date: 2019-05-24
-source-url: https://www.scoop.co.nz/stories/PA1905/S00248/fees-free-scheme-takes-another-hit.htm
+title: Fees-free scheme takes another hit
+date: 2019-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00248/fees-free-scheme-takes-another-hit.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/24/fees-free-scheme-takes-another-hit/index.html
+layout: layout.njk
 ---
 Fees-free scheme takes another hit
 ==================================

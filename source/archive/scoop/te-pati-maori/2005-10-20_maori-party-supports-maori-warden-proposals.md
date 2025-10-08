@@ -1,9 +1,12 @@
 ---
 slug: maori-party-supports-maori-warden-proposals
-title: "Maori Party Supports Maori Warden Proposals"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/PA0510/S00126/maori-party-supports-maori-warden-proposals.htm
+title: Maori Party Supports Maori Warden Proposals
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00126/maori-party-supports-maori-warden-proposals.htm
 author: te-pati-maori
+permalink: /archive/2005/10/20/maori-party-supports-maori-warden-proposals/index.html
+layout: layout.njk
 ---
 Maori Party Supports Maori Warden Proposals
 ===========================================

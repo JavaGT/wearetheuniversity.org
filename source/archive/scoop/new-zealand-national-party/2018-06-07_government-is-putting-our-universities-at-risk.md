@@ -1,9 +1,12 @@
 ---
 slug: government-is-putting-our-universities-at-risk
-title: "Government is putting our universities at risk"
-date: 2018-06-07
-source-url: https://www.scoop.co.nz/stories/PA1806/S00073/government-is-putting-our-universities-at-risk.htm
+title: Government is putting our universities at risk
+date: 2018-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00073/government-is-putting-our-universities-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/07/government-is-putting-our-universities-at-risk/index.html
+layout: layout.njk
 ---
 Government is putting our universities at risk
 ==============================================

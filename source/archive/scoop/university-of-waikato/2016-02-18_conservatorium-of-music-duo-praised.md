@@ -1,9 +1,12 @@
 ---
 slug: conservatorium-of-music-duo-praised
-title: "Conservatorium of Music Duo Praised"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/CU1602/S00370/conservatorium-of-music-duo-praised.htm
+title: Conservatorium of Music Duo Praised
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1602/S00370/conservatorium-of-music-duo-praised.htm
 author: university-of-waikato
+permalink: /archive/2016/02/18/conservatorium-of-music-duo-praised/index.html
+layout: layout.njk
 ---
 Conservatorium of Music Duo Praised
 ===================================

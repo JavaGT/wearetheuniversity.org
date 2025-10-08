@@ -1,9 +1,13 @@
 ---
 slug: ucs-roy-kerr-heads-to-europe-to-receive-the-einstein-medal
-title: "UC’s Roy Kerr heads to Europe to receive the Einstein Medal"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/SC1305/S00054/ucs-roy-kerr-heads-to-europe-to-receive-the-einstein-medal.htm
+title: UC’s Roy Kerr heads to Europe to receive the Einstein Medal
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00054/ucs-roy-kerr-heads-to-europe-to-receive-the-einstein-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/16/ucs-roy-kerr-heads-to-europe-to-receive-the-einstein-medal/index.html
+layout: layout.njk
 ---
 UC’s Roy Kerr heads to Europe to receive the Einstein Medal
 ===========================================================

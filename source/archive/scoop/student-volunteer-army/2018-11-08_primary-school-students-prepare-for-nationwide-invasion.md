@@ -1,9 +1,13 @@
 ---
 slug: primary-school-students-prepare-for-nationwide-invasion
-title: "Primary School Students Prepare for Nationwide Invasion"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/AK1811/S00207/primary-school-students-prepare-for-nationwide-invasion.htm
+title: Primary School Students Prepare for Nationwide Invasion
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1811/S00207/primary-school-students-prepare-for-nationwide-invasion.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2018/11/08/primary-school-students-prepare-for-nationwide-invasion/index.html
+layout: layout.njk
 ---
 Primary School Students Prepare for Nationwide Invasion
 =======================================================

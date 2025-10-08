@@ -1,9 +1,12 @@
 ---
 slug: labour-moves-to-shut-down-ncea-debate
-title: "Labour moves to shut down NCEA debate"
-date: 2005-02-15
-source-url: https://www.scoop.co.nz/stories/PA0502/S00333/labour-moves-to-shut-down-ncea-debate.htm
+title: Labour moves to shut down NCEA debate
+date: 2005-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00333/labour-moves-to-shut-down-ncea-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/15/labour-moves-to-shut-down-ncea-debate/index.html
+layout: layout.njk
 ---
 Labour moves to shut down NCEA debate
 =====================================

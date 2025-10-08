@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-speech-int-trade-and-nzs-place-in-it
-title: "Roger Kerr Speech: INt. Trade And NZ's Place In It"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/BU0409/S00116/roger-kerr-speech-int-trade-and-nzs-place-in-it.htm
+title: 'Roger Kerr Speech: INt. Trade And NZ''s Place In It'
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0409/S00116/roger-kerr-speech-int-trade-and-nzs-place-in-it.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/09/09/roger-kerr-speech-int-trade-and-nzs-place-in-it/index.html
+layout: layout.njk
 ---
 Roger Kerr Speech: INt. Trade And NZ's Place In It
 ==================================================

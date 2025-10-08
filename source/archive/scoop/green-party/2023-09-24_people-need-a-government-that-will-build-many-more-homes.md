@@ -1,9 +1,13 @@
 ---
 slug: people-need-a-government-that-will-build-many-more-homes
-title: "People Need A Government That Will Build Many More Homes"
-date: 2023-09-24
-source-url: https://www.scoop.co.nz/stories/PA2309/S00133/people-need-a-government-that-will-build-many-more-homes.htm
+title: People Need A Government That Will Build Many More Homes
+date: 2023-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00133/people-need-a-government-that-will-build-many-more-homes.htm
 author: green-party
+permalink: >-
+  /archive/2023/09/24/people-need-a-government-that-will-build-many-more-homes/index.html
+layout: layout.njk
 ---
 People Need A Government That Will Build Many More Homes
 ========================================================

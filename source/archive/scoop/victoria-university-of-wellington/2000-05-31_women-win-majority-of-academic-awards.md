@@ -1,9 +1,12 @@
 ---
 slug: women-win-majority-of-academic-awards
-title: "Women win majority of academic awards"
-date: 2000-05-31
-source-url: https://www.scoop.co.nz/stories/ED0005/S00056/women-win-majority-of-academic-awards.htm
+title: Women win majority of academic awards
+date: 2000-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00056/women-win-majority-of-academic-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/31/women-win-majority-of-academic-awards/index.html
+layout: layout.njk
 ---
 Women win majority of academic awards
 =====================================

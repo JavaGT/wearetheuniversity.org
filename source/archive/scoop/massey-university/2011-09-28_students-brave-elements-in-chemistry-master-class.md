@@ -1,9 +1,13 @@
 ---
 slug: students-brave-elements-in-chemistry-master-class
-title: "Students brave elements in chemistry master class"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/ED1109/S00124/students-brave-elements-in-chemistry-master-class.htm
+title: Students brave elements in chemistry master class
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00124/students-brave-elements-in-chemistry-master-class.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/28/students-brave-elements-in-chemistry-master-class/index.html
+layout: layout.njk
 ---
 Students brave elements in chemistry master class
 =================================================

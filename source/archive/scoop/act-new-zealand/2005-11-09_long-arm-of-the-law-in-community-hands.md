@@ -1,9 +1,12 @@
 ---
 slug: long-arm-of-the-law-in-community-hands
-title: "Long Arm of the Law in Community Hands"
-date: 2005-11-09
-source-url: https://www.scoop.co.nz/stories/PA0511/S00113/long-arm-of-the-law-in-community-hands.htm
+title: Long Arm of the Law in Community Hands
+date: 2005-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00113/long-arm-of-the-law-in-community-hands.htm
 author: act-new-zealand
+permalink: /archive/2005/11/09/long-arm-of-the-law-in-community-hands/index.html
+layout: layout.njk
 ---
 Long Arm of the Law in Community Hands
 ======================================

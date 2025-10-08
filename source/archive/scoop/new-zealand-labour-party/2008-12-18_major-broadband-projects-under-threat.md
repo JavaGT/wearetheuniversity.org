@@ -1,9 +1,12 @@
 ---
 slug: major-broadband-projects-under-threat
-title: "Major broadband projects under threat"
-date: 2008-12-18
-source-url: https://www.scoop.co.nz/stories/PA0812/S00225/major-broadband-projects-under-threat.htm
+title: Major broadband projects under threat
+date: 2008-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00225/major-broadband-projects-under-threat.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/18/major-broadband-projects-under-threat/index.html
+layout: layout.njk
 ---
 Major broadband projects under threat
 =====================================

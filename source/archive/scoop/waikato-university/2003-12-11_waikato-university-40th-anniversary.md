@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-40th-anniversary
-title: "Waikato University 40th Anniversary"
-date: 2003-12-11
-source-url: https://www.scoop.co.nz/stories/ED0312/S00051/waikato-university-40th-anniversary.htm
+title: Waikato University 40th Anniversary
+date: 2003-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00051/waikato-university-40th-anniversary.htm
 author: waikato-university
+permalink: /archive/2003/12/11/waikato-university-40th-anniversary/index.html
+layout: layout.njk
 ---
 Waikato University 40th Anniversary
 ===================================

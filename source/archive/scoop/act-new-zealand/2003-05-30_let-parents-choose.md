@@ -1,9 +1,11 @@
 ---
 slug: let-parents-choose
-title: "Let Parents Choose"
-date: 2003-05-30
+title: Let Parents Choose
+date: 2003-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00755/let-parents-choose.htm
 author: act-new-zealand
+permalink: /archive/2003/05/30/let-parents-choose/index.html
+layout: layout.njk
 ---
 Let Parents Choose
 ==================

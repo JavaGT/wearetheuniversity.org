@@ -1,9 +1,13 @@
 ---
 slug: disability-high-amongst-non-hospitalised-injury-victims
-title: "Disability high amongst non-hospitalised injury victims"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/GE1210/S00012/disability-high-amongst-non-hospitalised-injury-victims.htm
+title: Disability high amongst non-hospitalised injury victims
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00012/disability-high-amongst-non-hospitalised-injury-victims.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/02/disability-high-amongst-non-hospitalised-injury-victims/index.html
+layout: layout.njk
 ---
 Disability high amongst non-hospitalised injury victims
 =======================================================

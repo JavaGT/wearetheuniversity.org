@@ -1,9 +1,12 @@
 ---
 slug: täne-and-rehua-at-centre-of-new-exhibition
-title: "Täne and Rehua at centre of new exhibition"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/CU0810/S00017/tane-and-rehua-at-centre-of-new-exhibition.htm
+title: Täne and Rehua at centre of new exhibition
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00017/tane-and-rehua-at-centre-of-new-exhibition.htm
 author: massey-university
+permalink: /archive/2008/10/02/t/index.html
+layout: layout.njk
 ---
 Täne and Rehua at centre of new exhibition
 ==========================================

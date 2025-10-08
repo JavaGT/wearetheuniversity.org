@@ -1,9 +1,13 @@
 ---
 slug: nutritional-supplements-help-during-and-after-earthquakes
-title: "Nutritional supplements help during and after earthquakes"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/GE1208/S00047/nutritional-supplements-help-during-and-after-earthquakes.htm
+title: Nutritional supplements help during and after earthquakes
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1208/S00047/nutritional-supplements-help-during-and-after-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/09/nutritional-supplements-help-during-and-after-earthquakes/index.html
+layout: layout.njk
 ---
 Nutritional supplements help during and after earthquakes
 =========================================================

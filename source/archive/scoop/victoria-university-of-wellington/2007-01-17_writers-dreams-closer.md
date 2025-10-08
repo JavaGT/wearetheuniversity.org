@@ -1,9 +1,11 @@
 ---
 slug: writers-dreams-closer
-title: "Writers’ dreams closer"
-date: 2007-01-17
+title: Writers’ dreams closer
+date: 2007-01-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0701/S00086/writers-dreams-closer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/01/17/writers-dreams-closer/index.html
+layout: layout.njk
 ---
 Writers’ dreams closer
 ======================

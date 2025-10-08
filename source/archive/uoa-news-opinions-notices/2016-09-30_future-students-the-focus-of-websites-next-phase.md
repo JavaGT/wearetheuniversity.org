@@ -1,8 +1,12 @@
 ---
 slug: future-students-the-focus-of-websites-next-phase
-title: "Future students the focus of website’s next phase"
-date: 2016-09-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/future-students-the-focus-of-websites-next-phase.html
+title: Future students the focus of website’s next phase
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/future-students-the-focus-of-websites-next-phase.html
+permalink: >-
+  /archive/2016/09/30/future-students-the-focus-of-websites-next-phase/index.html
+layout: layout.njk
 ---
 Future students the focus of website’s next phase
 =================================================

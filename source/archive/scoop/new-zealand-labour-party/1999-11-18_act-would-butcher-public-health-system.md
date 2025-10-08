@@ -1,9 +1,12 @@
 ---
 slug: act-would-butcher-public-health-system
-title: "Act would butcher public health system"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PA9911/S00446/act-would-butcher-public-health-system.htm
+title: Act would butcher public health system
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00446/act-would-butcher-public-health-system.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/18/act-would-butcher-public-health-system/index.html
+layout: layout.njk
 ---
 Act would butcher public health system
 ======================================

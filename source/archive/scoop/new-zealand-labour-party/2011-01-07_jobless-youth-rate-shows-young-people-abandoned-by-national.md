@@ -1,9 +1,13 @@
 ---
 slug: jobless-youth-rate-shows-young-people-abandoned-by-national
-title: "Jobless youth rate shows young people abandoned by National"
-date: 2011-01-07
-source-url: https://www.scoop.co.nz/stories/PA1101/S00010/jobless-youth-rate-shows-young-people-abandoned-by-national.htm
+title: Jobless youth rate shows young people abandoned by National
+date: 2011-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00010/jobless-youth-rate-shows-young-people-abandoned-by-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/01/07/jobless-youth-rate-shows-young-people-abandoned-by-national/index.html
+layout: layout.njk
 ---
 Jobless youth rate shows young people abandoned by National
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: border-disputes-over-copyright
-title: "Border disputes over copyright"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/BU1209/S00681/border-disputes-over-copyright.htm
+title: Border disputes over copyright
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1209/S00681/border-disputes-over-copyright.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/19/border-disputes-over-copyright/index.html
+layout: layout.njk
 ---
 Border disputes over copyright
 ==============================

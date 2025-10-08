@@ -1,9 +1,13 @@
 ---
 slug: living-lab-a-fresh-approach-to-sustainable-research
-title: "Living Lab a fresh approach to sustainable research"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00014/living-lab-a-fresh-approach-to-sustainable-research.htm
+title: Living Lab a fresh approach to sustainable research
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00014/living-lab-a-fresh-approach-to-sustainable-research.htm
 author: massey-university
+permalink: >-
+  /archive/2013/05/02/living-lab-a-fresh-approach-to-sustainable-research/index.html
+layout: layout.njk
 ---
 Living Lab a fresh approach to sustainable research
 ===================================================

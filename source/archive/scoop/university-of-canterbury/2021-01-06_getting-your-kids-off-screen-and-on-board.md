@@ -1,9 +1,12 @@
 ---
 slug: getting-your-kids-off-screen-and-on-board
-title: "Getting Your Kids Off Screen And On Board"
-date: 2021-01-06
-source-url: https://www.scoop.co.nz/stories/ED2101/S00002/getting-your-kids-off-screen-and-on-board.htm
+title: Getting Your Kids Off Screen And On Board
+date: 2021-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2101/S00002/getting-your-kids-off-screen-and-on-board.htm
 author: university-of-canterbury
+permalink: /archive/2021/01/06/getting-your-kids-off-screen-and-on-board/index.html
+layout: layout.njk
 ---
 Getting Your Kids Off Screen And On Board
 =========================================

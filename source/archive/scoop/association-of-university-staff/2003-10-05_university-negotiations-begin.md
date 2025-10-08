@@ -1,9 +1,12 @@
 ---
 slug: university-negotiations-begin
-title: "University negotiations begin"
-date: 2003-10-05
-source-url: https://www.scoop.co.nz/stories/ED0310/S00013/university-negotiations-begin.htm
+title: University negotiations begin
+date: 2003-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00013/university-negotiations-begin.htm
 author: association-of-university-staff
+permalink: /archive/2003/10/05/university-negotiations-begin/index.html
+layout: layout.njk
 ---
 University negotiations begin
 =============================

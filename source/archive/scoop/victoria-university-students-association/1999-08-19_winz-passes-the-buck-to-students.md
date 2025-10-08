@@ -1,9 +1,12 @@
 ---
 slug: winz-passes-the-buck-to-students
-title: "WINZ passes the buck to students?"
-date: 1999-08-19
-source-url: https://www.scoop.co.nz/stories/ED9908/S00015/winz-passes-the-buck-to-students.htm
+title: WINZ passes the buck to students?
+date: 1999-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9908/S00015/winz-passes-the-buck-to-students.htm
 author: victoria-university-students-association
+permalink: /archive/1999/08/19/winz-passes-the-buck-to-students/index.html
+layout: layout.njk
 ---
 WINZ passes the buck to students?
 =================================

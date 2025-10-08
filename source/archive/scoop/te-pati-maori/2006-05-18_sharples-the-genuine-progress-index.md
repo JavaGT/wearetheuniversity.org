@@ -1,9 +1,12 @@
 ---
 slug: sharples-the-genuine-progress-index
-title: "Sharples: The Genuine Progress Index"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00398/sharples-the-genuine-progress-index.htm
+title: 'Sharples: The Genuine Progress Index'
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00398/sharples-the-genuine-progress-index.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/sharples-the-genuine-progress-index/index.html
+layout: layout.njk
 ---
 Sharples: The Genuine Progress Index
 ====================================

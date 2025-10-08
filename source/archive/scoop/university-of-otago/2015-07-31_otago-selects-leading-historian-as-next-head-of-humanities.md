@@ -1,9 +1,13 @@
 ---
 slug: otago-selects-leading-historian-as-next-head-of-humanities
-title: "Otago selects leading historian as next Head of Humanities"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/GE1507/S00138/otago-selects-leading-historian-as-next-head-of-humanities.htm
+title: Otago selects leading historian as next Head of Humanities
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1507/S00138/otago-selects-leading-historian-as-next-head-of-humanities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/31/otago-selects-leading-historian-as-next-head-of-humanities/index.html
+layout: layout.njk
 ---
 Otago selects leading historian as next Head of Humanities
 ==========================================================

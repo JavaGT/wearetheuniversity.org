@@ -1,9 +1,13 @@
 ---
 slug: national-will-let-kiwisaver-be-used-for-rent-bonds
-title: "National Will Let KiwiSaver Be Used For Rent Bonds"
-date: 2023-07-17
-source-url: https://www.scoop.co.nz/stories/PA2307/S00076/national-will-let-kiwisaver-be-used-for-rent-bonds.htm
+title: National Will Let KiwiSaver Be Used For Rent Bonds
+date: 2023-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00076/national-will-let-kiwisaver-be-used-for-rent-bonds.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/17/national-will-let-kiwisaver-be-used-for-rent-bonds/index.html
+layout: layout.njk
 ---
 National Will Let KiwiSaver Be Used For Rent Bonds
 ==================================================

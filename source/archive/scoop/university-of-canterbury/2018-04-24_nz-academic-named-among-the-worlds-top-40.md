@@ -1,9 +1,12 @@
 ---
 slug: nz-academic-named-among-the-worlds-top-40
-title: "NZ academic named among the world’s Top 40"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/ED1804/S00060/nz-academic-named-among-the-worlds-top-40.htm
+title: NZ academic named among the world’s Top 40
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00060/nz-academic-named-among-the-worlds-top-40.htm
 author: university-of-canterbury
+permalink: /archive/2018/04/24/nz-academic-named-among-the-worlds-top-40/index.html
+layout: layout.njk
 ---
 NZ academic named among the world’s Top 40
 ==========================================

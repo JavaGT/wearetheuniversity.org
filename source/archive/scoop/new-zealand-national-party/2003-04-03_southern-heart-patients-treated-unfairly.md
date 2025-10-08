@@ -1,9 +1,12 @@
 ---
 slug: southern-heart-patients-treated-unfairly
-title: "Southern heart patients treated unfairly"
-date: 2003-04-03
-source-url: https://www.scoop.co.nz/stories/PA0304/S00074/southern-heart-patients-treated-unfairly.htm
+title: Southern heart patients treated unfairly
+date: 2003-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00074/southern-heart-patients-treated-unfairly.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/03/southern-heart-patients-treated-unfairly/index.html
+layout: layout.njk
 ---
 Southern heart patients treated unfairly
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-study-on-kava-drink-driving-shows-impact-on-brain-function
-title: "New Study On Kava Drink-driving Shows Impact On Brain Function"
-date: 2021-09-21
-source-url: https://www.scoop.co.nz/stories/SC2109/S00050/new-study-on-kava-drink-driving-shows-impact-on-brain-function.htm
+title: New Study On Kava Drink-driving Shows Impact On Brain Function
+date: 2021-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00050/new-study-on-kava-drink-driving-shows-impact-on-brain-function.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/09/21/new-study-on-kava-drink-driving-shows-impact-on-brain-function/index.html
+layout: layout.njk
 ---
 New Study On Kava Drink-driving Shows Impact On Brain Function
 ==============================================================

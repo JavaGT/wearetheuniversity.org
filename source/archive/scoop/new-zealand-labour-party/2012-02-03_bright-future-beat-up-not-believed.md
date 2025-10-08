@@ -1,9 +1,12 @@
 ---
 slug: bright-future-beat-up-not-believed
-title: "Bright future beat-up not believed"
-date: 2012-02-03
-source-url: https://www.scoop.co.nz/stories/PA1202/S00041/bright-future-beat-up-not-believed.htm
+title: Bright future beat-up not believed
+date: 2012-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00041/bright-future-beat-up-not-believed.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/03/bright-future-beat-up-not-believed/index.html
+layout: layout.njk
 ---
 Bright future beat-up not believed
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: gerry-eckhoff-anzac-day-lest-we-forget
-title: "Gerry Eckhoff: Anzac Day: Lest We Forget"
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/PA0404/S00386/gerry-eckhoff-anzac-day-lest-we-forget.htm
+title: 'Gerry Eckhoff: Anzac Day: Lest We Forget'
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00386/gerry-eckhoff-anzac-day-lest-we-forget.htm
 author: act-new-zealand
+permalink: /archive/2004/04/26/gerry-eckhoff-anzac-day-lest-we-forget/index.html
+layout: layout.njk
 ---
 Gerry Eckhoff: Anzac Day: Lest We Forget
 ========================================

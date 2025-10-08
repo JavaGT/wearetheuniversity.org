@@ -1,9 +1,12 @@
 ---
 slug: olympics-may-contribute-to-obesity-in-china
-title: "Olympics may contribute to obesity in China"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/WO0506/S00048/olympics-may-contribute-to-obesity-in-china.htm
+title: Olympics may contribute to obesity in China
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0506/S00048/olympics-may-contribute-to-obesity-in-china.htm
 author: aut-university
+permalink: /archive/2005/06/02/olympics-may-contribute-to-obesity-in-china/index.html
+layout: layout.njk
 ---
 Olympics may contribute to obesity in China
 ===========================================

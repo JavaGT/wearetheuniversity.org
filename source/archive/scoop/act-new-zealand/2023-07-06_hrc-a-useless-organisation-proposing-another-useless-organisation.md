@@ -1,9 +1,13 @@
 ---
 slug: hrc-a-useless-organisation-proposing-another-useless-organisation
-title: "HRC – A Useless Organisation Proposing Another Useless Organisation"
-date: 2023-07-06
-source-url: https://www.scoop.co.nz/stories/PA2307/S00025/hrc-a-useless-organisation-proposing-another-useless-organisation.htm
+title: HRC – A Useless Organisation Proposing Another Useless Organisation
+date: 2023-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00025/hrc-a-useless-organisation-proposing-another-useless-organisation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/07/06/hrc-a-useless-organisation-proposing-another-useless-organisation/index.html
+layout: layout.njk
 ---
 HRC – A Useless Organisation Proposing Another Useless Organisation
 ===================================================================

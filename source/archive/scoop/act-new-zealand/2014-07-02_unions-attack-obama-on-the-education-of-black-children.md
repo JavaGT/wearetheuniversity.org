@@ -1,9 +1,13 @@
 ---
 slug: unions-attack-obama-on-the-education-of-black-children
-title: "Unions Attack  Obama on the Education of Black Children"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/PO1407/S00022/unions-attack-obama-on-the-education-of-black-children.htm
+title: Unions Attack  Obama on the Education of Black Children
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00022/unions-attack-obama-on-the-education-of-black-children.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/07/02/unions-attack-obama-on-the-education-of-black-children/index.html
+layout: layout.njk
 ---
 Unions Attack Obama on the Education of Black Children
 ======================================================

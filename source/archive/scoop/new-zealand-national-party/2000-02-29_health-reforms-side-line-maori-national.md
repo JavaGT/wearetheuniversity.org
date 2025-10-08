@@ -1,9 +1,12 @@
 ---
 slug: health-reforms-side-line-maori-national
-title: "Health reforms side-line Maori - National"
-date: 2000-02-29
-source-url: https://www.scoop.co.nz/stories/PA0002/S00386/health-reforms-side-line-maori-national.htm
+title: Health reforms side-line Maori - National
+date: 2000-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00386/health-reforms-side-line-maori-national.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/29/health-reforms-side-line-maori-national/index.html
+layout: layout.njk
 ---
 Health reforms side-line Maori - National
 =========================================

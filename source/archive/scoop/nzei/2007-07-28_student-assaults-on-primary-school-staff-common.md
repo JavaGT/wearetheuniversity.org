@@ -1,9 +1,12 @@
 ---
 slug: student-assaults-on-primary-school-staff-common
-title: "Student Assaults On Primary School Staff Common"
-date: 2007-07-28
-source-url: https://www.scoop.co.nz/stories/PO0707/S00349/student-assaults-on-primary-school-staff-common.htm
+title: Student Assaults On Primary School Staff Common
+date: 2007-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00349/student-assaults-on-primary-school-staff-common.htm
 author: nzei
+permalink: /archive/2007/07/28/student-assaults-on-primary-school-staff-common/index.html
+layout: layout.njk
 ---
 Student Assaults On Primary School Staff Common
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: congress-to-draw-international-scholars
-title: "Congress to draw international scholars"
-date: 2008-06-09
-source-url: https://www.scoop.co.nz/stories/ED0806/S00021/congress-to-draw-international-scholars.htm
+title: Congress to draw international scholars
+date: 2008-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00021/congress-to-draw-international-scholars.htm
 author: auckland-university
+permalink: /archive/2008/06/09/congress-to-draw-international-scholars/index.html
+layout: layout.njk
 ---
 Congress to draw international scholars
 =======================================

@@ -1,9 +1,16 @@
 ---
-slug: greens-ask-auckland-mps-across-party-lines-to-speak-up-on-council-budget-proposals
-title: "Greens Ask Auckland MPs Across Party Lines To Speak Up On Council Budget Proposals"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PA2303/S00191/greens-ask-auckland-mps-across-party-lines-to-speak-up-on-council-budget-proposals.htm
+slug: >-
+  greens-ask-auckland-mps-across-party-lines-to-speak-up-on-council-budget-proposals
+title: >-
+  Greens Ask Auckland MPs Across Party Lines To Speak Up On Council Budget
+  Proposals
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00191/greens-ask-auckland-mps-across-party-lines-to-speak-up-on-council-budget-proposals.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/23/greens-ask-auckland-mps-across-party-lines-to-speak-up-on-council-budget-proposals/index.html
+layout: layout.njk
 ---
 Greens Ask Auckland MPs Across Party Lines To Speak Up On Council Budget Proposals
 ==================================================================================

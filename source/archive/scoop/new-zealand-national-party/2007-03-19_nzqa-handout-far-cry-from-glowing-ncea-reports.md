@@ -1,9 +1,12 @@
 ---
 slug: nzqa-handout-far-cry-from-glowing-ncea-reports
-title: "NZQA handout far cry from glowing NCEA reports"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/PA0703/S00368/nzqa-handout-far-cry-from-glowing-ncea-reports.htm
+title: NZQA handout far cry from glowing NCEA reports
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00368/nzqa-handout-far-cry-from-glowing-ncea-reports.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/19/nzqa-handout-far-cry-from-glowing-ncea-reports/index.html
+layout: layout.njk
 ---
 NZQA handout far cry from glowing NCEA reports
 ==============================================

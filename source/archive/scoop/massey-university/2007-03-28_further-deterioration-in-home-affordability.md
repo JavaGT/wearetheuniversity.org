@@ -1,9 +1,12 @@
 ---
 slug: further-deterioration-in-home-affordability
-title: "Further deterioration in home affordability"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00108/further-deterioration-in-home-affordability.htm
+title: Further deterioration in home affordability
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00108/further-deterioration-in-home-affordability.htm
 author: massey-university
+permalink: /archive/2007/03/28/further-deterioration-in-home-affordability/index.html
+layout: layout.njk
 ---
 Further deterioration in home affordability
 ===========================================

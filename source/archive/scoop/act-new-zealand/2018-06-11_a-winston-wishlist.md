@@ -1,9 +1,11 @@
 ---
 slug: a-winston-wishlist
-title: "A Winston wishlist"
-date: 2018-06-11
+title: A Winston wishlist
+date: 2018-06-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1806/S00092/a-winston-wishlist.htm
 author: act-new-zealand
+permalink: /archive/2018/06/11/a-winston-wishlist/index.html
+layout: layout.njk
 ---
 A Winston wishlist
 ==================

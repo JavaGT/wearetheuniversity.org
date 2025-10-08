@@ -1,9 +1,12 @@
 ---
 slug: court-closures-couldnt-come-at-worse-time
-title: "Court closures couldn’t come at worse time"
-date: 2011-12-01
-source-url: https://www.scoop.co.nz/stories/PA1112/S00005/court-closures-couldnt-come-at-worse-time.htm
+title: Court closures couldn’t come at worse time
+date: 2011-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00005/court-closures-couldnt-come-at-worse-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/01/court-closures-couldnt-come-at-worse-time/index.html
+layout: layout.njk
 ---
 Court closures couldn’t come at worse time
 ==========================================

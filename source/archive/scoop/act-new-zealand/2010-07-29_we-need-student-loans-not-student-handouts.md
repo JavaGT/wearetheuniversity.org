@@ -1,9 +1,12 @@
 ---
 slug: we-need-student-loans-not-student-handouts
-title: "We Need Student Loans, Not Student Handouts"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00451/we-need-student-loans-not-student-handouts.htm
+title: We Need Student Loans, Not Student Handouts
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00451/we-need-student-loans-not-student-handouts.htm
 author: act-new-zealand
+permalink: /archive/2010/07/29/we-need-student-loans-not-student-handouts/index.html
+layout: layout.njk
 ---
 We Need Student Loans, Not Student Handouts
 ===========================================

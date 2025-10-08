@@ -1,9 +1,12 @@
 ---
 slug: james-shaw-announces-resignation
-title: "James Shaw Announces Resignation"
-date: 2024-01-30
-source-url: https://www.scoop.co.nz/stories/PA2401/S00041/james-shaw-announces-resignation.htm
+title: James Shaw Announces Resignation
+date: 2024-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00041/james-shaw-announces-resignation.htm
 author: green-party
+permalink: /archive/2024/01/30/james-shaw-announces-resignation/index.html
+layout: layout.njk
 ---
 James Shaw Announces Resignation
 ================================

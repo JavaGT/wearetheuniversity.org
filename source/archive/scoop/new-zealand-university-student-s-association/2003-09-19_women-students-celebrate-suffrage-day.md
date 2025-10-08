@@ -1,9 +1,12 @@
 ---
 slug: women-students-celebrate-suffrage-day
-title: "Women Students Celebrate Suffrage Day"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/ED0309/S00079/women-students-celebrate-suffrage-day.htm
+title: Women Students Celebrate Suffrage Day
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00079/women-students-celebrate-suffrage-day.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/09/19/women-students-celebrate-suffrage-day/index.html
+layout: layout.njk
 ---
 Women Students Celebrate Suffrage Day
 =====================================

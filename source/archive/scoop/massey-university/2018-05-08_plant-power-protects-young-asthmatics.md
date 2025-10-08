@@ -1,9 +1,12 @@
 ---
 slug: plant-power-protects-young-asthmatics
-title: "Plant power protects young asthmatics"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/GE1805/S00035/plant-power-protects-young-asthmatics.htm
+title: Plant power protects young asthmatics
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00035/plant-power-protects-young-asthmatics.htm
 author: massey-university
+permalink: /archive/2018/05/08/plant-power-protects-young-asthmatics/index.html
+layout: layout.njk
 ---
 Plant power protects young asthmatics
 =====================================

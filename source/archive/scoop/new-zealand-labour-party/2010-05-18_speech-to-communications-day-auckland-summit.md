@@ -1,9 +1,12 @@
 ---
 slug: speech-to-communications-day-auckland-summit
-title: "Speech to Communications Day Auckland Summit"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/PA1005/S00245/speech-to-communications-day-auckland-summit.htm
+title: Speech to Communications Day Auckland Summit
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00245/speech-to-communications-day-auckland-summit.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/18/speech-to-communications-day-auckland-summit/index.html
+layout: layout.njk
 ---
 Speech to Communications Day Auckland Summit
 ============================================

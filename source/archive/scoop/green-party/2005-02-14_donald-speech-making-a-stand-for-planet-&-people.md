@@ -1,9 +1,12 @@
 ---
 slug: donald-speech-making-a-stand-for-planet-&-people
-title: "Donald Speech: Making a Stand for Planet & People"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/PA0502/S00293/donald-speech-making-a-stand-for-planet-people.htm
+title: 'Donald Speech: Making a Stand for Planet & People'
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00293/donald-speech-making-a-stand-for-planet-people.htm
 author: green-party
+permalink: /archive/2005/02/14/donald-speech-making-a-stand-for-planet-/index.html
+layout: layout.njk
 ---
 Donald Speech: Making a Stand for Planet & People
 =================================================

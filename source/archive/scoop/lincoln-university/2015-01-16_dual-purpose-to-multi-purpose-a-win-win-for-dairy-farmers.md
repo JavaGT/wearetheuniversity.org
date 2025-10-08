@@ -1,9 +1,13 @@
 ---
 slug: dual-purpose-to-multi-purpose-a-win-win-for-dairy-farmers
-title: "Dual purpose to multi-purpose: a win-win for dairy farmers"
-date: 2015-01-16
-source-url: https://www.scoop.co.nz/stories/BU1501/S00238/dual-purpose-to-multi-purpose-a-win-win-for-dairy-farmers.htm
+title: 'Dual purpose to multi-purpose: a win-win for dairy farmers'
+date: 2015-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1501/S00238/dual-purpose-to-multi-purpose-a-win-win-for-dairy-farmers.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/01/16/dual-purpose-to-multi-purpose-a-win-win-for-dairy-farmers/index.html
+layout: layout.njk
 ---
 Dual purpose to multi-purpose: a win-win for dairy farmers
 ==========================================================

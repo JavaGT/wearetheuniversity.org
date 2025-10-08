@@ -1,9 +1,16 @@
 ---
-slug: thousands-submit-to-law-commission-consultation-in-just-24-hours-saying-no-to-speech-laws
-title: "Thousands Submit To Law Commission Consultation In Just 24 Hours, Saying ‘No’ To Speech Laws"
-date: 2024-07-30
-source-url: https://www.scoop.co.nz/stories/PO2407/S00186/thousands-submit-to-law-commission-consultation-in-just-24-hours-saying-no-to-speech-laws.htm
+slug: >-
+  thousands-submit-to-law-commission-consultation-in-just-24-hours-saying-no-to-speech-laws
+title: >-
+  Thousands Submit To Law Commission Consultation In Just 24 Hours, Saying ‘No’
+  To Speech Laws
+date: 2024-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00186/thousands-submit-to-law-commission-consultation-in-just-24-hours-saying-no-to-speech-laws.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/07/30/thousands-submit-to-law-commission-consultation-in-just-24-hours-saying-no-to-speech-laws/index.html
+layout: layout.njk
 ---
 Thousands Submit To Law Commission Consultation In Just 24 Hours, Saying ‘No’ To Speech Laws
 ============================================================================================

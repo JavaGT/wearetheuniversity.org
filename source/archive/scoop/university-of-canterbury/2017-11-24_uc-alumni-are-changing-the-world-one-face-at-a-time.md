@@ -1,9 +1,13 @@
 ---
 slug: uc-alumni-are-changing-the-world-one-face-at-a-time
-title: "UC alumni are changing the world, one face at a time"
-date: 2017-11-24
-source-url: https://www.scoop.co.nz/stories/BU1711/S00814/uc-alumni-are-changing-the-world-one-face-at-a-time.htm
+title: UC alumni are changing the world, one face at a time
+date: 2017-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1711/S00814/uc-alumni-are-changing-the-world-one-face-at-a-time.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/24/uc-alumni-are-changing-the-world-one-face-at-a-time/index.html
+layout: layout.njk
 ---
 UC alumni are changing the world, one face at a time
 ====================================================

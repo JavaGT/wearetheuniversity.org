@@ -1,9 +1,13 @@
 ---
 slug: world-authority-on-digital-humanitarian-issues-to-give-talk
-title: "World authority on digital humanitarian issues to give talk"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/PO1503/S00297/world-authority-on-digital-humanitarian-issues-to-give-talk.htm
+title: World authority on digital humanitarian issues to give talk
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00297/world-authority-on-digital-humanitarian-issues-to-give-talk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/25/world-authority-on-digital-humanitarian-issues-to-give-talk/index.html
+layout: layout.njk
 ---
 World authority on digital humanitarian issues to give talk
 ===========================================================

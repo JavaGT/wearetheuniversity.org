@@ -1,9 +1,13 @@
 ---
 slug: uc-increases-summer-post-grad-scholarship-offers-for-2012
-title: "UC Increases summer/ post-grad scholarship offers for 2012"
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/ED1108/S00058/uc-increases-summer-post-grad-scholarship-offers-for-2012.htm
+title: UC Increases summer/ post-grad scholarship offers for 2012
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00058/uc-increases-summer-post-grad-scholarship-offers-for-2012.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/08/09/uc-increases-summer-post-grad-scholarship-offers-for-2012/index.html
+layout: layout.njk
 ---
 UC Increases summer/ post-grad scholarship offers for 2012
 ==========================================================

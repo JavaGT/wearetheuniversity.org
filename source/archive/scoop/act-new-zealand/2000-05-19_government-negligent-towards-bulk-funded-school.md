@@ -1,9 +1,12 @@
 ---
 slug: government-negligent-towards-bulk-funded-school
-title: "Government  ‘Negligent’ Towards Bulk-Funded School"
-date: 2000-05-19
-source-url: https://www.scoop.co.nz/stories/PA0005/S00438/government-negligent-towards-bulk-funded-school.htm
+title: Government  ‘Negligent’ Towards Bulk-Funded School
+date: 2000-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00438/government-negligent-towards-bulk-funded-school.htm
 author: act-new-zealand
+permalink: /archive/2000/05/19/government-negligent-towards-bulk-funded-school/index.html
+layout: layout.njk
 ---
 Government ‘Negligent’ Towards Bulk-Funded School
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: prison-estimates-20-months-after-construction
-title: "Prison 'estimates' 20 months after construction"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/PA0608/S00169/prison-estimates-20-months-after-construction.htm
+title: Prison 'estimates' 20 months after construction
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00169/prison-estimates-20-months-after-construction.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/10/prison-estimates-20-months-after-construction/index.html
+layout: layout.njk
 ---
 Prison 'estimates' 20 months after construction
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-research-tackles-safety-issue-in-rugby
-title: "New Research Tackles Safety Issue In Rugby"
-date: 2022-01-31
-source-url: https://www.scoop.co.nz/stories/CU2201/S00183/new-research-tackles-safety-issue-in-rugby.htm
+title: New Research Tackles Safety Issue In Rugby
+date: 2022-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2201/S00183/new-research-tackles-safety-issue-in-rugby.htm
 author: lincoln-university
+permalink: /archive/2022/01/31/new-research-tackles-safety-issue-in-rugby/index.html
+layout: layout.njk
 ---
 New Research Tackles Safety Issue In Rugby
 ==========================================

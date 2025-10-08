@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-column-crime-wave
-title: "Muriel Newman Column: Crime Wave"
-date: 2002-09-01
-source-url: https://www.scoop.co.nz/stories/PA0209/S00004/muriel-newman-column-crime-wave.htm
+title: 'Muriel Newman Column: Crime Wave'
+date: 2002-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00004/muriel-newman-column-crime-wave.htm
 author: act-new-zealand
+permalink: /archive/2002/09/01/muriel-newman-column-crime-wave/index.html
+layout: layout.njk
 ---
 Muriel Newman Column: Crime Wave
 ================================

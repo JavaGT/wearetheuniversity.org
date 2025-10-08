@@ -1,9 +1,11 @@
 ---
 slug: nationals-state-housing-lie
-title: "National's state housing lie"
-date: 2005-09-07
+title: National's state housing lie
+date: 2005-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00179/nationals-state-housing-lie.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/07/nationals-state-housing-lie/index.html
+layout: layout.njk
 ---
 National's state housing lie
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: cadburys-about-turn-highlights-consumer-power
-title: "Cadbury’s about-turn highlights consumer power"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/PA0908/S00214/cadburys-about-turn-highlights-consumer-power.htm
+title: Cadbury’s about-turn highlights consumer power
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00214/cadburys-about-turn-highlights-consumer-power.htm
 author: green-party
+permalink: /archive/2009/08/17/cadburys-about-turn-highlights-consumer-power/index.html
+layout: layout.njk
 ---
 Cadbury’s about-turn highlights consumer power
 ==============================================

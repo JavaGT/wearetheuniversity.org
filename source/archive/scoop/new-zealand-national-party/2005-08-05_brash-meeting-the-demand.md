@@ -1,9 +1,11 @@
 ---
 slug: brash-meeting-the-demand
-title: "Brash: Meeting the Demand"
-date: 2005-08-05
+title: 'Brash: Meeting the Demand'
+date: 2005-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00175/brash-meeting-the-demand.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/05/brash-meeting-the-demand/index.html
+layout: layout.njk
 ---
 Brash: Meeting the Demand
 =========================

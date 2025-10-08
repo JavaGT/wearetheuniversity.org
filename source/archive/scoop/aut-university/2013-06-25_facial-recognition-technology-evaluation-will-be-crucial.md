@@ -1,9 +1,13 @@
 ---
 slug: facial-recognition-technology-evaluation-will-be-crucial
-title: "Facial recognition technology: evaluation will be crucial"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/PO1306/S00311/facial-recognition-technology-evaluation-will-be-crucial.htm
+title: 'Facial recognition technology: evaluation will be crucial'
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00311/facial-recognition-technology-evaluation-will-be-crucial.htm
 author: aut-university
+permalink: >-
+  /archive/2013/06/25/facial-recognition-technology-evaluation-will-be-crucial/index.html
+layout: layout.njk
 ---
 Facial recognition technology: evaluation will be crucial
 =========================================================

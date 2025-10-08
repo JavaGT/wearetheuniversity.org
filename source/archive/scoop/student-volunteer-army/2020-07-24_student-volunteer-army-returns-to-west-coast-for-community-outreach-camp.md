@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-returns-to-west-coast-for-community-outreach-camp
-title: "Student Volunteer Army Returns To West Coast For Community Outreach Camp"
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/AK2007/S00495/student-volunteer-army-returns-to-west-coast-for-community-outreach-camp.htm
+title: Student Volunteer Army Returns To West Coast For Community Outreach Camp
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2007/S00495/student-volunteer-army-returns-to-west-coast-for-community-outreach-camp.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2020/07/24/student-volunteer-army-returns-to-west-coast-for-community-outreach-camp/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Returns To West Coast For Community Outreach Camp
 ========================================================================

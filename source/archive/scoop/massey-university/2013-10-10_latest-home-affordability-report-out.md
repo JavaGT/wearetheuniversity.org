@@ -1,9 +1,12 @@
 ---
 slug: latest-home-affordability-report-out
-title: "Latest Home Affordability Report Out"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/BU1310/S00361/latest-home-affordability-report-out.htm
+title: Latest Home Affordability Report Out
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1310/S00361/latest-home-affordability-report-out.htm
 author: massey-university
+permalink: /archive/2013/10/10/latest-home-affordability-report-out/index.html
+layout: layout.njk
 ---
 Latest Home Affordability Report Out
 ====================================

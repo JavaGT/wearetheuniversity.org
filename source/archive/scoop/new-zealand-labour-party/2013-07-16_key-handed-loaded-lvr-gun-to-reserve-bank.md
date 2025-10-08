@@ -1,9 +1,12 @@
 ---
 slug: key-handed-loaded-lvr-gun-to-reserve-bank
-title: "Key handed loaded LVR gun to Reserve Bank"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/PA1307/S00256/key-handed-loaded-lvr-gun-to-reserve-bank.htm
+title: Key handed loaded LVR gun to Reserve Bank
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00256/key-handed-loaded-lvr-gun-to-reserve-bank.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/16/key-handed-loaded-lvr-gun-to-reserve-bank/index.html
+layout: layout.njk
 ---
 Key handed loaded LVR gun to Reserve Bank
 =========================================

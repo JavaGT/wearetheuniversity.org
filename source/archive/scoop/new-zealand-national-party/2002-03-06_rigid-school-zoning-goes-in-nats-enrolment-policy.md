@@ -1,9 +1,13 @@
 ---
 slug: rigid-school-zoning-goes-in-nats-enrolment-policy
-title: "Rigid School Zoning Goes In Nats Enrolment Policy"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00105/rigid-school-zoning-goes-in-nats-enrolment-policy.htm
+title: Rigid School Zoning Goes In Nats Enrolment Policy
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00105/rigid-school-zoning-goes-in-nats-enrolment-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/03/06/rigid-school-zoning-goes-in-nats-enrolment-policy/index.html
+layout: layout.njk
 ---
 Rigid School Zoning Goes In Nats Enrolment Policy
 =================================================

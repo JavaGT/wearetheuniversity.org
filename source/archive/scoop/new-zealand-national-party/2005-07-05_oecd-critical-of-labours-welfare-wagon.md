@@ -1,9 +1,12 @@
 ---
 slug: oecd-critical-of-labours-welfare-wagon
-title: "OECD critical of Labour's welfare wagon"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/PA0507/S00113/oecd-critical-of-labours-welfare-wagon.htm
+title: OECD critical of Labour's welfare wagon
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00113/oecd-critical-of-labours-welfare-wagon.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/05/oecd-critical-of-labours-welfare-wagon/index.html
+layout: layout.njk
 ---
 OECD critical of Labour's welfare wagon
 =======================================

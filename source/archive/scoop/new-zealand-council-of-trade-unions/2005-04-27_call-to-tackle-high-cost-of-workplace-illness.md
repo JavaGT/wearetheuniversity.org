@@ -1,9 +1,12 @@
 ---
 slug: call-to-tackle-high-cost-of-workplace-illness
-title: "Call to Tackle High Cost of Workplace Illness"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/PO0504/S00306/call-to-tackle-high-cost-of-workplace-illness.htm
+title: Call to Tackle High Cost of Workplace Illness
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00306/call-to-tackle-high-cost-of-workplace-illness.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/04/27/call-to-tackle-high-cost-of-workplace-illness/index.html
+layout: layout.njk
 ---
 Call to Tackle High Cost of Workplace Illness
 =============================================

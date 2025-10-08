@@ -1,9 +1,13 @@
 ---
 slug: uc-scholar-starts-own-company-following-research-into-war
-title: "UC  Scholar starts own company following research into war"
-date: 2013-03-12
-source-url: https://www.scoop.co.nz/stories/BU1303/S00420/uc-scholar-starts-own-company-following-research-into-war.htm
+title: UC  Scholar starts own company following research into war
+date: 2013-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1303/S00420/uc-scholar-starts-own-company-following-research-into-war.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/12/uc-scholar-starts-own-company-following-research-into-war/index.html
+layout: layout.njk
 ---
 UC Scholar starts own company following research into war
 =========================================================

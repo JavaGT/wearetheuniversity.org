@@ -1,9 +1,16 @@
 ---
-slug: leaked-university-of-auckland-survey-confirms-again-academic-freedom-is-under-fire
-title: "Leaked University Of Auckland Survey Confirms Again, Academic Freedom Is Under Fire"
-date: 2023-10-02
-source-url: https://www.scoop.co.nz/stories/ED2310/S00001/leaked-university-of-auckland-survey-confirms-again-academic-freedom-is-under-fire.htm
+slug: >-
+  leaked-university-of-auckland-survey-confirms-again-academic-freedom-is-under-fire
+title: >-
+  Leaked University Of Auckland Survey Confirms Again, Academic Freedom Is Under
+  Fire
+date: 2023-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00001/leaked-university-of-auckland-survey-confirms-again-academic-freedom-is-under-fire.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/10/02/leaked-university-of-auckland-survey-confirms-again-academic-freedom-is-under-fire/index.html
+layout: layout.njk
 ---
 Leaked University Of Auckland Survey Confirms Again, Academic Freedom Is Under Fire
 ===================================================================================

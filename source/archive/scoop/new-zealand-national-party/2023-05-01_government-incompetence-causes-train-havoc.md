@@ -1,9 +1,12 @@
 ---
 slug: government-incompetence-causes-train-havoc
-title: "Government Incompetence Causes Train Havoc"
-date: 2023-05-01
-source-url: https://www.scoop.co.nz/stories/PA2305/S00002/government-incompetence-causes-train-havoc.htm
+title: Government Incompetence Causes Train Havoc
+date: 2023-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00002/government-incompetence-causes-train-havoc.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/01/government-incompetence-causes-train-havoc/index.html
+layout: layout.njk
 ---
 Government Incompetence Causes Train Havoc
 ==========================================

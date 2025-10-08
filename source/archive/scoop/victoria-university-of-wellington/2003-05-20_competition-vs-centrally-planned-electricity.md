@@ -1,9 +1,12 @@
 ---
 slug: competition-vs-centrally-planned-electricity
-title: "Competition Vs Centrally Planned Electricity"
-date: 2003-05-20
-source-url: https://www.scoop.co.nz/stories/ED0305/S00062/competition-vs-centrally-planned-electricity.htm
+title: Competition Vs Centrally Planned Electricity
+date: 2003-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00062/competition-vs-centrally-planned-electricity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/20/competition-vs-centrally-planned-electricity/index.html
+layout: layout.njk
 ---
 Competition Vs Centrally Planned Electricity
 ============================================

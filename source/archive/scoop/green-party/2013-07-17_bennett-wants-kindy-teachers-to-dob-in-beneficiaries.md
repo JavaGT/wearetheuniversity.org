@@ -1,9 +1,13 @@
 ---
 slug: bennett-wants-kindy-teachers-to-dob-in-beneficiaries
-title: "Bennett wants kindy teachers to dob in beneficiaries"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PA1307/S00274/bennett-wants-kindy-teachers-to-dob-in-beneficiaries.htm
+title: Bennett wants kindy teachers to dob in beneficiaries
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00274/bennett-wants-kindy-teachers-to-dob-in-beneficiaries.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/17/bennett-wants-kindy-teachers-to-dob-in-beneficiaries/index.html
+layout: layout.njk
 ---
 Bennett wants kindy teachers to dob in beneficiaries
 ====================================================

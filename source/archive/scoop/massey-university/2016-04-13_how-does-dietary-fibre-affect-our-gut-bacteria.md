@@ -1,9 +1,12 @@
 ---
 slug: how-does-dietary-fibre-affect-our-gut-bacteria
-title: "How does dietary fibre affect our gut bacteria?"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/SC1604/S00023/how-does-dietary-fibre-affect-our-gut-bacteria.htm
+title: How does dietary fibre affect our gut bacteria?
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00023/how-does-dietary-fibre-affect-our-gut-bacteria.htm
 author: massey-university
+permalink: /archive/2016/04/13/how-does-dietary-fibre-affect-our-gut-bacteria/index.html
+layout: layout.njk
 ---
 How does dietary fibre affect our gut bacteria?
 ===============================================

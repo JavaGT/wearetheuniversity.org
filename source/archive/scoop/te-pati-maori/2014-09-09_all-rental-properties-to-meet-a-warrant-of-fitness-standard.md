@@ -1,9 +1,13 @@
 ---
 slug: all-rental-properties-to-meet-a-warrant-of-fitness-standard
-title: "All Rental properties to meet a warrant of fitness standard"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/PO1409/S00174/all-rental-properties-to-meet-a-warrant-of-fitness-standard.htm
+title: All Rental properties to meet a warrant of fitness standard
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00174/all-rental-properties-to-meet-a-warrant-of-fitness-standard.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/09/09/all-rental-properties-to-meet-a-warrant-of-fitness-standard/index.html
+layout: layout.njk
 ---
 All Rental properties to meet a warrant of fitness standard
 ===========================================================

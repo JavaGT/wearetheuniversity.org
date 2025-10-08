@@ -1,9 +1,11 @@
 ---
 slug: failing-phil-fails-yet-again
-title: "Failing Phil fails yet again"
-date: 2019-02-27
+title: Failing Phil fails yet again
+date: 2019-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1902/S00222/failing-phil-fails-yet-again.htm
 author: act-new-zealand
+permalink: /archive/2019/02/27/failing-phil-fails-yet-again/index.html
+layout: layout.njk
 ---
 Failing Phil fails yet again
 ============================

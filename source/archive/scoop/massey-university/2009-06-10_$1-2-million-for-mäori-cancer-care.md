@@ -1,9 +1,12 @@
 ---
 slug: $1-2-million-for-mäori-cancer-care
-title: "$1.2 million for Mäori cancer care"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/GE0906/S00048/12-million-for-maori-cancer-care.htm
+title: $1.2 million for Mäori cancer care
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0906/S00048/12-million-for-maori-cancer-care.htm
 author: massey-university
+permalink: /archive/2009/06/10/1-2-million-for-m-ori-cancer-care/index.html
+layout: layout.njk
 ---
 $1.2 million for Mäori cancer care
 ==================================

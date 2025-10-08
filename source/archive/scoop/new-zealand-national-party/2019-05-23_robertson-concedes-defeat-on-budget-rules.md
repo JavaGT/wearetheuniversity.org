@@ -1,9 +1,12 @@
 ---
 slug: robertson-concedes-defeat-on-budget-rules
-title: "Robertson concedes defeat on budget rules"
-date: 2019-05-23
-source-url: https://www.scoop.co.nz/stories/PA1905/S00230/robertson-concedes-defeat-on-budget-rules.htm
+title: Robertson concedes defeat on budget rules
+date: 2019-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00230/robertson-concedes-defeat-on-budget-rules.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/23/robertson-concedes-defeat-on-budget-rules/index.html
+layout: layout.njk
 ---
 Robertson concedes defeat on budget rules
 =========================================

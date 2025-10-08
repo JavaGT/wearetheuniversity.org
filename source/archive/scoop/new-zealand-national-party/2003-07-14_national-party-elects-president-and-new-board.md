@@ -1,9 +1,12 @@
 ---
 slug: national-party-elects-president-and-new-board
-title: "National Party elects President and new board"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/PA0307/S00240/national-party-elects-president-and-new-board.htm
+title: National Party elects President and new board
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00240/national-party-elects-president-and-new-board.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/14/national-party-elects-president-and-new-board/index.html
+layout: layout.njk
 ---
 National Party elects President and new board
 =============================================

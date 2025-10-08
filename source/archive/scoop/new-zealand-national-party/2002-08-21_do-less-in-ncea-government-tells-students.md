@@ -1,9 +1,12 @@
 ---
 slug: do-less-in-ncea-government-tells-students
-title: "Do less in NCEA, Government tells students"
-date: 2002-08-21
-source-url: https://www.scoop.co.nz/stories/PA0208/S00172/do-less-in-ncea-government-tells-students.htm
+title: Do less in NCEA, Government tells students
+date: 2002-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00172/do-less-in-ncea-government-tells-students.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/21/do-less-in-ncea-government-tells-students/index.html
+layout: layout.njk
 ---
 Do less in NCEA, Government tells students
 ==========================================

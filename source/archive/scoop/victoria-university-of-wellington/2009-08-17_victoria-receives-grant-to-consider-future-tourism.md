@@ -1,9 +1,13 @@
 ---
 slug: victoria-receives-grant-to-consider-future-tourism
-title: "Victoria receives grant to consider future tourism"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/CU0908/S00270/victoria-receives-grant-to-consider-future-tourism.htm
+title: Victoria receives grant to consider future tourism
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00270/victoria-receives-grant-to-consider-future-tourism.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/08/17/victoria-receives-grant-to-consider-future-tourism/index.html
+layout: layout.njk
 ---
 Victoria receives grant to consider future tourism
 ==================================================

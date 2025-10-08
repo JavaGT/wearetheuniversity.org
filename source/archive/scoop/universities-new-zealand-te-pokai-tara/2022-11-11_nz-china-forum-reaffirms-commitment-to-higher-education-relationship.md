@@ -1,9 +1,13 @@
 ---
 slug: nz-china-forum-reaffirms-commitment-to-higher-education-relationship
-title: "NZ-China Forum Reaffirms Commitment To Higher Education Relationship"
-date: 2022-11-11
-source-url: https://www.scoop.co.nz/stories/ED2211/S00031/nz-china-forum-reaffirms-commitment-to-higher-education-relationship.htm
+title: NZ-China Forum Reaffirms Commitment To Higher Education Relationship
+date: 2022-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00031/nz-china-forum-reaffirms-commitment-to-higher-education-relationship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/11/11/nz-china-forum-reaffirms-commitment-to-higher-education-relationship/index.html
+layout: layout.njk
 ---
 NZ-China Forum Reaffirms Commitment To Higher Education Relationship
 ====================================================================

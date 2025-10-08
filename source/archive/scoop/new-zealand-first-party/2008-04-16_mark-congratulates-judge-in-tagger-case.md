@@ -1,9 +1,12 @@
 ---
 slug: mark-congratulates-judge-in-tagger-case
-title: "Mark Congratulates Judge in Tagger Case"
-date: 2008-04-16
-source-url: https://www.scoop.co.nz/stories/PA0804/S00393/mark-congratulates-judge-in-tagger-case.htm
+title: Mark Congratulates Judge in Tagger Case
+date: 2008-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00393/mark-congratulates-judge-in-tagger-case.htm
 author: new-zealand-first-party
+permalink: /archive/2008/04/16/mark-congratulates-judge-in-tagger-case/index.html
+layout: layout.njk
 ---
 Mark Congratulates Judge in Tagger Case
 =======================================

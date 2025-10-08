@@ -1,9 +1,12 @@
 ---
 slug: its-not-too-late-to-enrol-at-uc
-title: "It’s not too late to enrol at UC"
-date: 2012-01-30
-source-url: https://www.scoop.co.nz/stories/ED1201/S00063/its-not-too-late-to-enrol-at-uc.htm
+title: It’s not too late to enrol at UC
+date: 2012-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00063/its-not-too-late-to-enrol-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2012/01/30/its-not-too-late-to-enrol-at-uc/index.html
+layout: layout.njk
 ---
 It’s not too late to enrol at UC
 ================================

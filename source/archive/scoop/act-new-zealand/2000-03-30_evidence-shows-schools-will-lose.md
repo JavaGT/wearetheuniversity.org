@@ -1,9 +1,12 @@
 ---
 slug: evidence-shows-schools-will-lose
-title: "Evidence Shows Schools Will Lose"
-date: 2000-03-30
-source-url: https://www.scoop.co.nz/stories/PA0003/S00551/evidence-shows-schools-will-lose.htm
+title: Evidence Shows Schools Will Lose
+date: 2000-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00551/evidence-shows-schools-will-lose.htm
 author: act-new-zealand
+permalink: /archive/2000/03/30/evidence-shows-schools-will-lose/index.html
+layout: layout.njk
 ---
 Evidence Shows Schools Will Lose
 ================================

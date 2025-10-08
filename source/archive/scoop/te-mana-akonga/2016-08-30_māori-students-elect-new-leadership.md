@@ -1,9 +1,12 @@
 ---
 slug: māori-students-elect-new-leadership
-title: "Māori students elect new leadership"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/PO1608/S00346/maori-students-elect-new-leadership.htm
+title: Māori students elect new leadership
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00346/maori-students-elect-new-leadership.htm
 author: te-mana-akonga
+permalink: /archive/2016/08/30/m/index.html
+layout: layout.njk
 ---
 Māori students elect new leadership
 ===================================

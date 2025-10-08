@@ -1,9 +1,12 @@
 ---
 slug: a-big-tick-for-massey-business-from-the-tec
-title: "A big tick for Massey business from the TEC"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/ED0605/S00034/a-big-tick-for-massey-business-from-the-tec.htm
+title: A big tick for Massey business from the TEC
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00034/a-big-tick-for-massey-business-from-the-tec.htm
 author: massey-university
+permalink: /archive/2006/05/09/a-big-tick-for-massey-business-from-the-tec/index.html
+layout: layout.njk
 ---
 A big tick for Massey business from the TEC
 ===========================================

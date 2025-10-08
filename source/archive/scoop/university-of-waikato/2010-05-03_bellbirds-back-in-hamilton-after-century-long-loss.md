@@ -1,9 +1,13 @@
 ---
 slug: bellbirds-back-in-hamilton-after-century-long-loss
-title: "Bellbirds back in Hamilton after century-long loss"
-date: 2010-05-03
-source-url: https://www.scoop.co.nz/stories/AK1005/S00014/bellbirds-back-in-hamilton-after-century-long-loss.htm
+title: Bellbirds back in Hamilton after century-long loss
+date: 2010-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1005/S00014/bellbirds-back-in-hamilton-after-century-long-loss.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/05/03/bellbirds-back-in-hamilton-after-century-long-loss/index.html
+layout: layout.njk
 ---
 Bellbirds back in Hamilton after century-long loss
 ==================================================

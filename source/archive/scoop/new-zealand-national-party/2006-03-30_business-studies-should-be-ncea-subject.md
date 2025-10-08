@@ -1,9 +1,12 @@
 ---
 slug: business-studies-should-be-ncea-subject
-title: "Business studies should be NCEA subject"
-date: 2006-03-30
-source-url: https://www.scoop.co.nz/stories/PA0603/S00553/business-studies-should-be-ncea-subject.htm
+title: Business studies should be NCEA subject
+date: 2006-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00553/business-studies-should-be-ncea-subject.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/30/business-studies-should-be-ncea-subject/index.html
+layout: layout.njk
 ---
 Business studies should be NCEA subject
 =======================================

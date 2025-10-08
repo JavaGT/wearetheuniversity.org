@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-largest-literary-prize-established
-title: "New Zealand's largest literary prize established"
-date: 2001-03-15
-source-url: https://www.scoop.co.nz/stories/CU0103/S00036/new-zealands-largest-literary-prize-established.htm
+title: New Zealand's largest literary prize established
+date: 2001-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0103/S00036/new-zealands-largest-literary-prize-established.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/03/15/new-zealands-largest-literary-prize-established/index.html
+layout: layout.njk
 ---
 New Zealand's largest literary prize established
 ================================================

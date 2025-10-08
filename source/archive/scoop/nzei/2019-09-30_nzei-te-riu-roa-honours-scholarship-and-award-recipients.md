@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-honours-scholarship-and-award-recipients
-title: "NZEI Te Riu Roa honours scholarship and award recipients"
-date: 2019-09-30
-source-url: https://www.scoop.co.nz/stories/ED1909/S00088/nzei-te-riu-roa-honours-scholarship-and-award-recipients.htm
+title: NZEI Te Riu Roa honours scholarship and award recipients
+date: 2019-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00088/nzei-te-riu-roa-honours-scholarship-and-award-recipients.htm
 author: nzei
+permalink: >-
+  /archive/2019/09/30/nzei-te-riu-roa-honours-scholarship-and-award-recipients/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa honours scholarship and award recipients
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: ministerial-veto-destroys-rma-credibility
-title: "Ministerial veto destroys RMA credibility"
-date: 2006-03-07
-source-url: https://www.scoop.co.nz/stories/PA0603/S00125/ministerial-veto-destroys-rma-credibility.htm
+title: Ministerial veto destroys RMA credibility
+date: 2006-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00125/ministerial-veto-destroys-rma-credibility.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/07/ministerial-veto-destroys-rma-credibility/index.html
+layout: layout.njk
 ---
 Ministerial veto destroys RMA credibility
 =========================================

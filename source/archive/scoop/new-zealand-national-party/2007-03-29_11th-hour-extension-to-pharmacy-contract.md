@@ -1,9 +1,12 @@
 ---
 slug: 11th-hour-extension-to-pharmacy-contract
-title: "11th hour extension to Pharmacy contract"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00617/11th-hour-extension-to-pharmacy-contract.htm
+title: 11th hour extension to Pharmacy contract
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00617/11th-hour-extension-to-pharmacy-contract.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/29/11th-hour-extension-to-pharmacy-contract/index.html
+layout: layout.njk
 ---
 11th hour extension to Pharmacy contract
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: education-race-based-funding-alive-&-well
-title: "Education race-based funding alive & well"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/PA0412/S00451/education-race-based-funding-alive-well.htm
+title: Education race-based funding alive & well
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00451/education-race-based-funding-alive-well.htm
 author: act-new-zealand
+permalink: /archive/2004/12/17/education-race-based-funding-alive-/index.html
+layout: layout.njk
 ---
 Education race-based funding alive & well
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: nationwide-commemorations-of-workers-memorial-day
-title: "Nationwide commemorations of Workers’ Memorial Day"
-date: 2024-04-26
-source-url: https://www.scoop.co.nz/stories/AK2404/S00635/nationwide-commemorations-of-workers-memorial-day.htm
+title: Nationwide commemorations of Workers’ Memorial Day
+date: 2024-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2404/S00635/nationwide-commemorations-of-workers-memorial-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/04/26/nationwide-commemorations-of-workers-memorial-day/index.html
+layout: layout.njk
 ---
 Nationwide commemorations of Workers’ Memorial Day
 ==================================================

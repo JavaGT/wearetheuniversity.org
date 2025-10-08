@@ -1,9 +1,12 @@
 ---
 slug: historical-poster-collection-goes-online
-title: "Historical poster collection goes online"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/ED1309/S00155/historical-poster-collection-goes-online.htm
+title: Historical poster collection goes online
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00155/historical-poster-collection-goes-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/26/historical-poster-collection-goes-online/index.html
+layout: layout.njk
 ---
 Historical poster collection goes online
 ========================================

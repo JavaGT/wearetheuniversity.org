@@ -1,9 +1,12 @@
 ---
 slug: managers-completely-out-of-touch-with-the-world
-title: "Managers \"completely out of touch with the world\""
-date: 2006-03-21
-source-url: https://www.scoop.co.nz/stories/ED0603/S00050/managers-completely-out-of-touch-with-the-world.htm
+title: Managers "completely out of touch with the world"
+date: 2006-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00050/managers-completely-out-of-touch-with-the-world.htm
 author: association-of-university-staff
+permalink: /archive/2006/03/21/managers-completely-out-of-touch-with-the-world/index.html
+layout: layout.njk
 ---
 Managers \"completely out of touch with the world"
 =================================================

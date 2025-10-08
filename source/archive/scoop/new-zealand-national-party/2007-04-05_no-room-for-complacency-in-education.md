@@ -1,9 +1,12 @@
 ---
 slug: no-room-for-complacency-in-education
-title: "No room for complacency in education"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PA0704/S00122/no-room-for-complacency-in-education.htm
+title: No room for complacency in education
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00122/no-room-for-complacency-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/05/no-room-for-complacency-in-education/index.html
+layout: layout.njk
 ---
 No room for complacency in education
 ====================================

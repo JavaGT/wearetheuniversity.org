@@ -1,9 +1,13 @@
 ---
 slug: submission-on-budget-policy-statement-06-released
-title: "Submission on Budget Policy Statement 06 Released"
-date: 2006-02-15
-source-url: https://www.scoop.co.nz/stories/BU0602/S00186/submission-on-budget-policy-statement-06-released.htm
+title: Submission on Budget Policy Statement 06 Released
+date: 2006-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0602/S00186/submission-on-budget-policy-statement-06-released.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2006/02/15/submission-on-budget-policy-statement-06-released/index.html
+layout: layout.njk
 ---
 Submission on Budget Policy Statement 06 Released
 =================================================

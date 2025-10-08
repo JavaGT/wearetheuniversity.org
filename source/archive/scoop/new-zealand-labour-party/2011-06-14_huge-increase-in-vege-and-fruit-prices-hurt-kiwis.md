@@ -1,9 +1,13 @@
 ---
 slug: huge-increase-in-vege-and-fruit-prices-hurt-kiwis
-title: "Huge increase in vege and fruit prices hurt Kiwis"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00207/huge-increase-in-vege-and-fruit-prices-hurt-kiwis.htm
+title: Huge increase in vege and fruit prices hurt Kiwis
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00207/huge-increase-in-vege-and-fruit-prices-hurt-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/06/14/huge-increase-in-vege-and-fruit-prices-hurt-kiwis/index.html
+layout: layout.njk
 ---
 Huge increase in vege and fruit prices hurt Kiwis
 =================================================

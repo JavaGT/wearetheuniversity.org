@@ -1,9 +1,12 @@
 ---
 slug: vic-student-wins-big-at-wow-awards
-title: "Vic student wins big at WOW Awards"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/ED0910/S00046/vic-student-wins-big-at-wow-awards.htm
+title: Vic student wins big at WOW Awards
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00046/vic-student-wins-big-at-wow-awards.htm
 author: salient
+permalink: /archive/2009/10/09/vic-student-wins-big-at-wow-awards/index.html
+layout: layout.njk
 ---
 Vic student wins big at WOW Awards
 ==================================

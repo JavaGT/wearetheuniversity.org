@@ -1,9 +1,12 @@
 ---
 slug: shadbolt-right-tec-wrong-on-tertiary-reforms
-title: "Shadbolt right, TEC wrong on tertiary reforms"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00268/shadbolt-right-tec-wrong-on-tertiary-reforms.htm
+title: Shadbolt right, TEC wrong on tertiary reforms
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00268/shadbolt-right-tec-wrong-on-tertiary-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/13/shadbolt-right-tec-wrong-on-tertiary-reforms/index.html
+layout: layout.njk
 ---
 Shadbolt right, TEC wrong on tertiary reforms
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: te-kohanga-reo-national-trust-board-offices-wellington
-title: "Te Kohanga Reo National Trust Board offices, Wellington"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00508/te-kohanga-reo-national-trust-board-offices-wellington.htm
+title: Te Kohanga Reo National Trust Board offices, Wellington
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00508/te-kohanga-reo-national-trust-board-offices-wellington.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/28/te-kohanga-reo-national-trust-board-offices-wellington/index.html
+layout: layout.njk
 ---
 Te Kohanga Reo National Trust Board offices, Wellington
 =======================================================

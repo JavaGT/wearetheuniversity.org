@@ -1,9 +1,12 @@
 ---
 slug: $4m-in-funding-for-massey-health-researchers
-title: "$4m in funding for Massey health researchers"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/GE1506/S00043/4m-in-funding-for-massey-health-researchers.htm
+title: $4m in funding for Massey health researchers
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00043/4m-in-funding-for-massey-health-researchers.htm
 author: massey-university
+permalink: /archive/2015/06/09/4m-in-funding-for-massey-health-researchers/index.html
+layout: layout.njk
 ---
 $4m in funding for Massey health researchers
 ============================================

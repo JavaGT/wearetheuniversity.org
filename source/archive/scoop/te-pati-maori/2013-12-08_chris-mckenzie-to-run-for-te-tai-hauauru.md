@@ -1,9 +1,12 @@
 ---
 slug: chris-mckenzie-to-run-for-te-tai-hauauru
-title: "Chris McKenzie to run for Te Tai Hauauru"
-date: 2013-12-08
-source-url: https://www.scoop.co.nz/stories/PO1312/S00101/chris-mckenzie-to-run-for-te-tai-hauauru.htm
+title: Chris McKenzie to run for Te Tai Hauauru
+date: 2013-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00101/chris-mckenzie-to-run-for-te-tai-hauauru.htm
 author: te-pati-maori
+permalink: /archive/2013/12/08/chris-mckenzie-to-run-for-te-tai-hauauru/index.html
+layout: layout.njk
 ---
 Chris McKenzie to run for Te Tai Hauauru
 ========================================

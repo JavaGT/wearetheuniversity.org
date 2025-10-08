@@ -1,9 +1,12 @@
 ---
 slug: māori-party-celebrates-the-courage-of-the-hīkoi
-title: "Māori Party Celebrates the Courage of the Hīkoi"
-date: 2014-04-22
-source-url: https://www.scoop.co.nz/stories/PA1404/S00356/maori-party-celebrates-the-courage-of-the-hikoi.htm
+title: Māori Party Celebrates the Courage of the Hīkoi
+date: 2014-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00356/maori-party-celebrates-the-courage-of-the-hikoi.htm
 author: te-pati-maori
+permalink: /archive/2014/04/22/m/index.html
+layout: layout.njk
 ---
 Māori Party Celebrates the Courage of the Hīkoi
 ===============================================

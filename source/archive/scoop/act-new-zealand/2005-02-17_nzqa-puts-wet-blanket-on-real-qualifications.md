@@ -1,9 +1,12 @@
 ---
 slug: nzqa-puts-wet-blanket-on-real-qualifications
-title: "NZQA puts wet blanket on real qualifications"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00380/nzqa-puts-wet-blanket-on-real-qualifications.htm
+title: NZQA puts wet blanket on real qualifications
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00380/nzqa-puts-wet-blanket-on-real-qualifications.htm
 author: act-new-zealand
+permalink: /archive/2005/02/17/nzqa-puts-wet-blanket-on-real-qualifications/index.html
+layout: layout.njk
 ---
 NZQA puts wet blanket on real qualifications
 ============================================

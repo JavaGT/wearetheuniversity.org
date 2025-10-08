@@ -1,9 +1,13 @@
 ---
 slug: new-exhibition-beyond-the-grave-death-in-ancient-times
-title: "New exhibition – Beyond the Grave: Death in Ancient Times"
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/CU1805/S00097/new-exhibition-beyond-the-grave-death-in-ancient-times.htm
+title: 'New exhibition – Beyond the Grave: Death in Ancient Times'
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1805/S00097/new-exhibition-beyond-the-grave-death-in-ancient-times.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/05/09/new-exhibition-beyond-the-grave-death-in-ancient-times/index.html
+layout: layout.njk
 ---
 New exhibition – Beyond the Grave: Death in Ancient Times
 =========================================================

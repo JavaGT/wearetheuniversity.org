@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-17-august-2006
-title: "Collins Comments - 17 August 2006"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/PA0608/S00305/collins-comments-17-august-2006.htm
+title: Collins Comments - 17 August 2006
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00305/collins-comments-17-august-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/17/collins-comments-17-august-2006/index.html
+layout: layout.njk
 ---
 Collins Comments - 17 August 2006
 =================================

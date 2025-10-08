@@ -1,9 +1,13 @@
 ---
 slug: labour-alerts-justice-ministry-to-gaping-security-hole
-title: "Labour alerts Justice Ministry to gaping security hole"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/PA1304/S00122/labour-alerts-justice-ministry-to-gaping-security-hole.htm
+title: Labour alerts Justice Ministry to gaping security hole
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00122/labour-alerts-justice-ministry-to-gaping-security-hole.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/04/09/labour-alerts-justice-ministry-to-gaping-security-hole/index.html
+layout: layout.njk
 ---
 Labour alerts Justice Ministry to gaping security hole
 ======================================================

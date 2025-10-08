@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-10-11-june-2003
-title: "Don Brash Writes... No. 10, 11 June 2003"
-date: 2003-06-11
-source-url: https://www.scoop.co.nz/stories/PA0306/S00172/don-brash-writes-no-10-11-june-2003.htm
+title: Don Brash Writes... No. 10, 11 June 2003
+date: 2003-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00172/don-brash-writes-no-10-11-june-2003.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/11/don-brash-writes-no-10-11-june-2003/index.html
+layout: layout.njk
 ---
 Don Brash Writes... No. 10, 11 June 2003
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: more-bad-news-for-families-as-food-prices-rise-again
-title: "More bad news for families as food prices rise again"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PA1107/S00219/more-bad-news-for-families-as-food-prices-rise-again.htm
+title: More bad news for families as food prices rise again
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00219/more-bad-news-for-families-as-food-prices-rise-again.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/13/more-bad-news-for-families-as-food-prices-rise-again/index.html
+layout: layout.njk
 ---
 More bad news for families as food prices rise again
 ====================================================

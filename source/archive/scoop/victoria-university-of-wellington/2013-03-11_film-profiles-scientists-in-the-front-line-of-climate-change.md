@@ -1,9 +1,13 @@
 ---
 slug: film-profiles-scientists-in-the-front-line-of-climate-change
-title: "Film profiles scientists in the front line of climate change"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/SC1303/S00012/film-profiles-scientists-in-the-front-line-of-climate-change.htm
+title: Film profiles scientists in the front line of climate change
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00012/film-profiles-scientists-in-the-front-line-of-climate-change.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/11/film-profiles-scientists-in-the-front-line-of-climate-change/index.html
+layout: layout.njk
 ---
 Film profiles scientists in the front line of climate change
 ============================================================

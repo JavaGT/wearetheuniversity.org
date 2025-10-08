@@ -1,9 +1,13 @@
 ---
 slug: research-shows-hospital-bullying-cases-rarely-resolved
-title: "Research shows hospital bullying cases rarely resolved"
-date: 2016-04-18
-source-url: https://www.scoop.co.nz/stories/GE1604/S00062/research-shows-hospital-bullying-cases-rarely-resolved.htm
+title: Research shows hospital bullying cases rarely resolved
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00062/research-shows-hospital-bullying-cases-rarely-resolved.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/18/research-shows-hospital-bullying-cases-rarely-resolved/index.html
+layout: layout.njk
 ---
 Research shows hospital bullying cases rarely resolved
 ======================================================

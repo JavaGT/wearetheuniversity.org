@@ -1,9 +1,12 @@
 ---
 slug: minister-must-make-cancer-records-consistent
-title: "Minister Must Make Cancer Records Consistent"
-date: 2002-08-20
-source-url: https://www.scoop.co.nz/stories/PA0208/S00148/minister-must-make-cancer-records-consistent.htm
+title: Minister Must Make Cancer Records Consistent
+date: 2002-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00148/minister-must-make-cancer-records-consistent.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/20/minister-must-make-cancer-records-consistent/index.html
+layout: layout.njk
 ---
 Minister Must Make Cancer Records Consistent
 ============================================

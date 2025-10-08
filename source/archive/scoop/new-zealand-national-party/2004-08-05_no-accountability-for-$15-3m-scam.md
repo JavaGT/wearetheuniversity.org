@@ -1,9 +1,12 @@
 ---
 slug: no-accountability-for-$15-3m-scam
-title: "No accountability for $15.3m scam"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/PA0408/S00099/no-accountability-for-153m-scam.htm
+title: No accountability for $15.3m scam
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00099/no-accountability-for-153m-scam.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/05/no-accountability-for-/index.html
+layout: layout.njk
 ---
 No accountability for $15.3m scam
 =================================

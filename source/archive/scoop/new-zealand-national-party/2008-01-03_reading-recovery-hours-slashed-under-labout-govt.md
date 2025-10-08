@@ -1,9 +1,13 @@
 ---
 slug: reading-recovery-hours-slashed-under-labout-govt
-title: "Reading Recovery Hours Slashed Under Labout Govt"
-date: 2008-01-03
-source-url: https://www.scoop.co.nz/stories/PA0801/S00013/reading-recovery-hours-slashed-under-labout-govt.htm
+title: Reading Recovery Hours Slashed Under Labout Govt
+date: 2008-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00013/reading-recovery-hours-slashed-under-labout-govt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/01/03/reading-recovery-hours-slashed-under-labout-govt/index.html
+layout: layout.njk
 ---
 Reading Recovery Hours Slashed Under Labout Govt
 ================================================

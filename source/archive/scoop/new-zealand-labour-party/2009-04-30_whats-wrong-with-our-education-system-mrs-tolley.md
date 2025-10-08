@@ -1,9 +1,13 @@
 ---
 slug: whats-wrong-with-our-education-system-mrs-tolley
-title: "What's wrong with our Education System Mrs Tolley?"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00380/whats-wrong-with-our-education-system-mrs-tolley.htm
+title: What's wrong with our Education System Mrs Tolley?
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00380/whats-wrong-with-our-education-system-mrs-tolley.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/04/30/whats-wrong-with-our-education-system-mrs-tolley/index.html
+layout: layout.njk
 ---
 What's wrong with our Education System Mrs Tolley?
 ==================================================

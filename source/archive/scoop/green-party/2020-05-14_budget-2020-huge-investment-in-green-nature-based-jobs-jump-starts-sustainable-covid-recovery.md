@@ -1,9 +1,16 @@
 ---
-slug: budget-2020-huge-investment-in-green-nature-based-jobs-jump-starts-sustainable-covid-recovery
-title: "Budget 2020: Huge Investment In Green Nature Based Jobs Jump Starts Sustainable COVID Recovery"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00117/budget-2020-huge-investment-in-green-nature-based-jobs-jump-starts-sustainable-covid-recovery.htm
+slug: >-
+  budget-2020-huge-investment-in-green-nature-based-jobs-jump-starts-sustainable-covid-recovery
+title: >-
+  Budget 2020: Huge Investment In Green Nature Based Jobs Jump Starts
+  Sustainable COVID Recovery
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00117/budget-2020-huge-investment-in-green-nature-based-jobs-jump-starts-sustainable-covid-recovery.htm
 author: green-party
+permalink: >-
+  /archive/2020/05/14/budget-2020-huge-investment-in-green-nature-based-jobs-jump-starts-sustainable-covid-recovery/index.html
+layout: layout.njk
 ---
 Budget 2020: Huge Investment In Green Nature Based Jobs Jump Starts Sustainable COVID Recovery
 ==============================================================================================

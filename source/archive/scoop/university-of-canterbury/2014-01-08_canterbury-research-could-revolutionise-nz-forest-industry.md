@@ -1,9 +1,13 @@
 ---
 slug: canterbury-research-could-revolutionise-nz-forest-industry
-title: "Canterbury research could revolutionise NZ forest industry"
-date: 2014-01-08
-source-url: https://www.scoop.co.nz/stories/SC1401/S00012/canterbury-research-could-revolutionise-nz-forest-industry.htm
+title: Canterbury research could revolutionise NZ forest industry
+date: 2014-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00012/canterbury-research-could-revolutionise-nz-forest-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/08/canterbury-research-could-revolutionise-nz-forest-industry/index.html
+layout: layout.njk
 ---
 Canterbury research could revolutionise NZ forest industry
 ==========================================================

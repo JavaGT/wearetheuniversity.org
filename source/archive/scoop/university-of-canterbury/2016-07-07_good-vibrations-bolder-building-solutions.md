@@ -1,9 +1,12 @@
 ---
 slug: good-vibrations-bolder-building-solutions
-title: "Good vibrations: bolder building solutions"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/SC1607/S00024/good-vibrations-bolder-building-solutions.htm
+title: 'Good vibrations: bolder building solutions'
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00024/good-vibrations-bolder-building-solutions.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/07/good-vibrations-bolder-building-solutions/index.html
+layout: layout.njk
 ---
 Good vibrations: bolder building solutions
 ==========================================

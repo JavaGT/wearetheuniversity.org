@@ -1,9 +1,12 @@
 ---
 slug: dame-kiri-to-receive-victoria-university-honour
-title: "Dame Kiri to receive Victoria University honour"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/CU0608/S00049/dame-kiri-to-receive-victoria-university-honour.htm
+title: Dame Kiri to receive Victoria University honour
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00049/dame-kiri-to-receive-victoria-university-honour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/04/dame-kiri-to-receive-victoria-university-honour/index.html
+layout: layout.njk
 ---
 Dame Kiri to receive Victoria University honour
 ===============================================

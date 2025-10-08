@@ -1,9 +1,12 @@
 ---
 slug: firearms-licencing-still-taking-too-long
-title: "Firearms Licencing Still Taking Too Long"
-date: 2021-04-26
-source-url: https://www.scoop.co.nz/stories/PO2104/S00199/firearms-licencing-still-taking-too-long.htm
+title: Firearms Licencing Still Taking Too Long
+date: 2021-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2104/S00199/firearms-licencing-still-taking-too-long.htm
 author: act-new-zealand
+permalink: /archive/2021/04/26/firearms-licencing-still-taking-too-long/index.html
+layout: layout.njk
 ---
 Firearms Licencing Still Taking Too Long
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: infectious-diseases-expert-awarded-universitys-highest-honour
-title: "Infectious Diseases Expert Awarded University’s Highest Honour"
-date: 2020-08-20
-source-url: https://www.scoop.co.nz/stories/SC2008/S00043/infectious-diseases-expert-awarded-universitys-highest-honour.htm
+title: Infectious Diseases Expert Awarded University’s Highest Honour
+date: 2020-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00043/infectious-diseases-expert-awarded-universitys-highest-honour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/08/20/infectious-diseases-expert-awarded-universitys-highest-honour/index.html
+layout: layout.njk
 ---
 Infectious Diseases Expert Awarded University’s Highest Honour
 ==============================================================

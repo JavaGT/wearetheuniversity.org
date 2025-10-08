@@ -1,9 +1,12 @@
 ---
 slug: canterbury-health-services-to-get-boost
-title: "Canterbury health services to get boost"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/PA1406/S00468/canterbury-health-services-to-get-boost.htm
+title: Canterbury health services to get boost
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00468/canterbury-health-services-to-get-boost.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/30/canterbury-health-services-to-get-boost/index.html
+layout: layout.njk
 ---
 Canterbury health services to get boost
 =======================================

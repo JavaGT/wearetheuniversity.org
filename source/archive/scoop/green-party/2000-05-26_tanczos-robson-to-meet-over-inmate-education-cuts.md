@@ -1,9 +1,13 @@
 ---
 slug: tanczos-robson-to-meet-over-inmate-education-cuts
-title: "Tanczos, Robson to meet over inmate education cuts"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/PA0005/S00579/tanczos-robson-to-meet-over-inmate-education-cuts.htm
+title: Tanczos, Robson to meet over inmate education cuts
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00579/tanczos-robson-to-meet-over-inmate-education-cuts.htm
 author: green-party
+permalink: >-
+  /archive/2000/05/26/tanczos-robson-to-meet-over-inmate-education-cuts/index.html
+layout: layout.njk
 ---
 Tanczos, Robson to meet over inmate education cuts
 ==================================================

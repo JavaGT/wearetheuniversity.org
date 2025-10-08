@@ -1,9 +1,12 @@
 ---
 slug: luddite-labour-ignores-gm-commission-findings
-title: "Luddite Labour Ignores GM Commission Findings"
-date: 2002-03-28
-source-url: https://www.scoop.co.nz/stories/PA0203/S00561/luddite-labour-ignores-gm-commission-findings.htm
+title: Luddite Labour Ignores GM Commission Findings
+date: 2002-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00561/luddite-labour-ignores-gm-commission-findings.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/28/luddite-labour-ignores-gm-commission-findings/index.html
+layout: layout.njk
 ---
 Luddite Labour Ignores GM Commission Findings
 =============================================

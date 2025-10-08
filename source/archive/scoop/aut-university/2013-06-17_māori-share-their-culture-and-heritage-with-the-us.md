@@ -1,9 +1,12 @@
 ---
 slug: māori-share-their-culture-and-heritage-with-the-us
-title: "Māori Share Their Culture and Heritage with the US"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/CU1306/S00206/maori-share-their-culture-and-heritage-with-the-us.htm
+title: Māori Share Their Culture and Heritage with the US
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00206/maori-share-their-culture-and-heritage-with-the-us.htm
 author: aut-university
+permalink: /archive/2013/06/17/m/index.html
+layout: layout.njk
 ---
 Māori Share Their Culture and Heritage with the US
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-manukau-graffiti-bill
-title: "Flavell: Manukau Graffiti Bill"
-date: 2008-04-17
-source-url: https://www.scoop.co.nz/stories/PA0804/S00426/flavell-manukau-graffiti-bill.htm
+title: 'Flavell: Manukau Graffiti Bill'
+date: 2008-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00426/flavell-manukau-graffiti-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/04/17/flavell-manukau-graffiti-bill/index.html
+layout: layout.njk
 ---
 Flavell: Manukau Graffiti Bill
 ==============================

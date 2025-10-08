@@ -1,9 +1,12 @@
 ---
 slug: prebbles-state-of-the-nation-2003-speech
-title: "Prebble’s State of the Nation 2003 Speech"
-date: 2003-01-29
-source-url: https://www.scoop.co.nz/stories/PA0301/S00272/prebbles-state-of-the-nation-2003-speech.htm
+title: Prebble’s State of the Nation 2003 Speech
+date: 2003-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00272/prebbles-state-of-the-nation-2003-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/01/29/prebbles-state-of-the-nation-2003-speech/index.html
+layout: layout.njk
 ---
 Prebble’s State of the Nation 2003 Speech
 =========================================

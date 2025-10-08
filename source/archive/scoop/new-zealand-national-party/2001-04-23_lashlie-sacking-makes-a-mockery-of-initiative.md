@@ -1,9 +1,12 @@
 ---
 slug: lashlie-sacking-makes-a-mockery-of-initiative
-title: "Lashlie sacking makes a mockery of initiative"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00318/lashlie-sacking-makes-a-mockery-of-initiative.htm
+title: Lashlie sacking makes a mockery of initiative
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00318/lashlie-sacking-makes-a-mockery-of-initiative.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/23/lashlie-sacking-makes-a-mockery-of-initiative/index.html
+layout: layout.njk
 ---
 Lashlie sacking makes a mockery of initiative
 =============================================

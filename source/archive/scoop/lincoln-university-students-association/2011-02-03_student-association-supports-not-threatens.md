@@ -1,9 +1,12 @@
 ---
 slug: student-association-supports-not-threatens
-title: "\"Student Association Supports - Not Threatens\""
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/ED1102/S00012/student-association-supports-not-threatens.htm
+title: '"Student Association Supports - Not Threatens"'
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00012/student-association-supports-not-threatens.htm
 author: lincoln-university-students-association
+permalink: /archive/2011/02/03/student-association-supports-not-threatens/index.html
+layout: layout.njk
 ---
 “Student Association Supports - Not Threatens”
 ==============================================

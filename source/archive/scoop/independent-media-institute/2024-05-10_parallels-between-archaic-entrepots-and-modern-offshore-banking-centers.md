@@ -1,9 +1,13 @@
 ---
 slug: parallels-between-archaic-entrepots-and-modern-offshore-banking-centers
-title: "Parallels Between Archaic Entrepots And Modern Offshore Banking Centers"
-date: 2024-05-10
-source-url: https://www.scoop.co.nz/stories/BU2405/S00161/parallels-between-archaic-entrepots-and-modern-offshore-banking-centers.htm
+title: Parallels Between Archaic Entrepots And Modern Offshore Banking Centers
+date: 2024-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2405/S00161/parallels-between-archaic-entrepots-and-modern-offshore-banking-centers.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/05/10/parallels-between-archaic-entrepots-and-modern-offshore-banking-centers/index.html
+layout: layout.njk
 ---
 Parallels Between Archaic Entrepots And Modern Offshore Banking Centers
 =======================================================================

@@ -1,9 +1,13 @@
 ---
 slug: ianz-plays-crucial-role-in-the-kiwi-economy-says-nzier
-title: "IANZ Plays Crucial Role in the Kiwi Economy, Says NZIER"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/BU1708/S00271/ianz-plays-crucial-role-in-the-kiwi-economy-says-nzier.htm
+title: IANZ Plays Crucial Role in the Kiwi Economy, Says NZIER
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1708/S00271/ianz-plays-crucial-role-in-the-kiwi-economy-says-nzier.htm
 author: new-zealand-institute-of-economic-research
+permalink: >-
+  /archive/2017/08/09/ianz-plays-crucial-role-in-the-kiwi-economy-says-nzier/index.html
+layout: layout.njk
 ---
 IANZ Plays Crucial Role in the Kiwi Economy, Says NZIER
 =======================================================

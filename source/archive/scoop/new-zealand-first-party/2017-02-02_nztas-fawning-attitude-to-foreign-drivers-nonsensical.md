@@ -1,9 +1,13 @@
 ---
 slug: nztas-fawning-attitude-to-foreign-drivers-nonsensical
-title: "NZTA’S Fawning Attitude to Foreign Drivers Nonsensical"
-date: 2017-02-02
-source-url: https://www.scoop.co.nz/stories/PA1702/S00022/nztas-fawning-attitude-to-foreign-drivers-nonsensical.htm
+title: NZTA’S Fawning Attitude to Foreign Drivers Nonsensical
+date: 2017-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00022/nztas-fawning-attitude-to-foreign-drivers-nonsensical.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/02/nztas-fawning-attitude-to-foreign-drivers-nonsensical/index.html
+layout: layout.njk
 ---
 NZTA’S Fawning Attitude to Foreign Drivers Nonsensical
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: eu-butter-bans-are-more-than-technical
-title: "EU butter bans are more than technical"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PO0607/S00159/eu-butter-bans-are-more-than-technical.htm
+title: EU butter bans are more than technical
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00159/eu-butter-bans-are-more-than-technical.htm
 author: lincoln-university
+permalink: /archive/2006/07/17/eu-butter-bans-are-more-than-technical/index.html
+layout: layout.njk
 ---
 EU butter bans are more than technical
 ======================================

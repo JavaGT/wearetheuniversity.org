@@ -1,9 +1,12 @@
 ---
 slug: top-structural-engineering-lecturer-steps-down
-title: "Top structural engineering lecturer steps down"
-date: 2018-11-15
-source-url: https://www.scoop.co.nz/stories/ED1811/S00038/top-structural-engineering-lecturer-steps-down.htm
+title: Top structural engineering lecturer steps down
+date: 2018-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00038/top-structural-engineering-lecturer-steps-down.htm
 author: university-of-canterbury
+permalink: /archive/2018/11/15/top-structural-engineering-lecturer-steps-down/index.html
+layout: layout.njk
 ---
 Top structural engineering lecturer steps down
 ==============================================

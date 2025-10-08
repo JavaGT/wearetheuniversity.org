@@ -1,9 +1,12 @@
 ---
 slug: minister-slow-to-get-into-the-driving-seat
-title: "Minister Slow to Get into the Driving Seat"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/PA1410/S00190/minister-slow-to-get-into-the-driving-seat.htm
+title: Minister Slow to Get into the Driving Seat
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00190/minister-slow-to-get-into-the-driving-seat.htm
 author: new-zealand-first-party
+permalink: /archive/2014/10/28/minister-slow-to-get-into-the-driving-seat/index.html
+layout: layout.njk
 ---
 Minister Slow to Get into the Driving Seat
 ==========================================

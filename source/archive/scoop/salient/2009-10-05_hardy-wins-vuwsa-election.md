@@ -1,9 +1,11 @@
 ---
 slug: hardy-wins-vuwsa-election
-title: "Hardy wins VUWSA election"
-date: 2009-10-05
+title: Hardy wins VUWSA election
+date: 2009-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0910/S00038/hardy-wins-vuwsa-election.htm
 author: salient
+permalink: /archive/2009/10/05/hardy-wins-vuwsa-election/index.html
+layout: layout.njk
 ---
 Hardy wins VUWSA election
 =========================

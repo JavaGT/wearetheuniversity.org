@@ -1,9 +1,12 @@
 ---
 slug: principals-forced-to-slash-teacher-aide-hours
-title: "Principals forced to slash teacher aide hours"
-date: 2017-12-12
-source-url: https://www.scoop.co.nz/stories/ED1712/S00039/principals-forced-to-slash-teacher-aide-hours.htm
+title: Principals forced to slash teacher aide hours
+date: 2017-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00039/principals-forced-to-slash-teacher-aide-hours.htm
 author: nzei
+permalink: /archive/2017/12/12/principals-forced-to-slash-teacher-aide-hours/index.html
+layout: layout.njk
 ---
 Principals forced to slash teacher aide hours
 =============================================

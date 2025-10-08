@@ -1,9 +1,12 @@
 ---
 slug: classical-comedy-rocks-contemporary-morality
-title: "Classical Comedy Rocks Contemporary Morality"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/CU0506/S00204/classical-comedy-rocks-contemporary-morality.htm
+title: Classical Comedy Rocks Contemporary Morality
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00204/classical-comedy-rocks-contemporary-morality.htm
 author: university-of-canterbury
+permalink: /archive/2005/06/23/classical-comedy-rocks-contemporary-morality/index.html
+layout: layout.njk
 ---
 Classical Comedy Rocks Contemporary Morality
 ============================================

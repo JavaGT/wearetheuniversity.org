@@ -1,9 +1,12 @@
 ---
 slug: art-competition-winners-announced
-title: "Art Competition Winners Announced"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00155/art-competition-winners-announced.htm
+title: Art Competition Winners Announced
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00155/art-competition-winners-announced.htm
 author: nzei
+permalink: /archive/2012/10/25/art-competition-winners-announced/index.html
+layout: layout.njk
 ---
 Art Competition Winners Announced
 =================================

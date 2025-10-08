@@ -1,9 +1,13 @@
 ---
 slug: minister-of-health-asked-to-consider-dhb-boundary
-title: "Minister of Health asked to consider DHB boundary"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/PA0504/S00204/minister-of-health-asked-to-consider-dhb-boundary.htm
+title: Minister of Health asked to consider DHB boundary
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00204/minister-of-health-asked-to-consider-dhb-boundary.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/04/11/minister-of-health-asked-to-consider-dhb-boundary/index.html
+layout: layout.njk
 ---
 Minister of Health asked to consider DHB boundary
 =================================================

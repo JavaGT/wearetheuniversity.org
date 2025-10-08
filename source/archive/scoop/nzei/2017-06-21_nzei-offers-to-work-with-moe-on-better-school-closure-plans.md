@@ -1,9 +1,13 @@
 ---
 slug: nzei-offers-to-work-with-moe-on-better-school-closure-plans
-title: "NZEI offers to work with MOE on better school closure plans"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/ED1706/S00074/nzei-offers-to-work-with-moe-on-better-school-closure-plans.htm
+title: NZEI offers to work with MOE on better school closure plans
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00074/nzei-offers-to-work-with-moe-on-better-school-closure-plans.htm
 author: nzei
+permalink: >-
+  /archive/2017/06/21/nzei-offers-to-work-with-moe-on-better-school-closure-plans/index.html
+layout: layout.njk
 ---
 NZEI offers to work with MOE on better school closure plans
 ===========================================================

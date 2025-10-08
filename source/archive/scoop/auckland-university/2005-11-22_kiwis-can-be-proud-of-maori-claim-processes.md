@@ -1,9 +1,12 @@
 ---
 slug: kiwis-can-be-proud-of-maori-claim-processes
-title: "Kiwis Can Be Proud of  Maori Claim Processes"
-date: 2005-11-22
-source-url: https://www.scoop.co.nz/stories/ED0511/S00076/kiwis-can-be-proud-of-maori-claim-processes.htm
+title: Kiwis Can Be Proud of  Maori Claim Processes
+date: 2005-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00076/kiwis-can-be-proud-of-maori-claim-processes.htm
 author: auckland-university
+permalink: /archive/2005/11/22/kiwis-can-be-proud-of-maori-claim-processes/index.html
+layout: layout.njk
 ---
 Kiwis Can Be Proud of Maori Claim Processes
 ===========================================

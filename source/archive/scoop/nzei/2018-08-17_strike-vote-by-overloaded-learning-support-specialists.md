@@ -1,9 +1,13 @@
 ---
 slug: strike-vote-by-overloaded-learning-support-specialists
-title: "Strike vote by overloaded Learning Support specialists"
-date: 2018-08-17
-source-url: https://www.scoop.co.nz/stories/PO1808/S00232/strike-vote-by-overloaded-learning-support-specialists.htm
+title: Strike vote by overloaded Learning Support specialists
+date: 2018-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00232/strike-vote-by-overloaded-learning-support-specialists.htm
 author: nzei
+permalink: >-
+  /archive/2018/08/17/strike-vote-by-overloaded-learning-support-specialists/index.html
+layout: layout.njk
 ---
 Strike vote by overloaded Learning Support specialists
 ======================================================

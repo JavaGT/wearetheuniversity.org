@@ -1,9 +1,12 @@
 ---
 slug: keeping-pre-school-kids-moving
-title: "Keeping pre-school kids moving"
-date: 2017-07-04
-source-url: https://www.scoop.co.nz/stories/ED1707/S00010/keeping-pre-school-kids-moving.htm
+title: Keeping pre-school kids moving
+date: 2017-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00010/keeping-pre-school-kids-moving.htm
 author: massey-university
+permalink: /archive/2017/07/04/keeping-pre-school-kids-moving/index.html
+layout: layout.njk
 ---
 Keeping pre-school kids moving
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: internet-party-insults-students
-title: "Internet Party Insults Students"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PO1409/S00296/internet-party-insults-students.htm
+title: Internet Party Insults Students
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00296/internet-party-insults-students.htm
 author: act-new-zealand
+permalink: /archive/2014/09/12/internet-party-insults-students/index.html
+layout: layout.njk
 ---
 Internet Party Insults Students
 ===============================

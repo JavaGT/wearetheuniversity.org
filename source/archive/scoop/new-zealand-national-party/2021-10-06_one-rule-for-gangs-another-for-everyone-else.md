@@ -1,9 +1,12 @@
 ---
 slug: one-rule-for-gangs-another-for-everyone-else
-title: "One Rule For Gangs, Another For Everyone Else"
-date: 2021-10-06
-source-url: https://www.scoop.co.nz/stories/PA2110/S00057/one-rule-for-gangs-another-for-everyone-else.htm
+title: One Rule For Gangs, Another For Everyone Else
+date: 2021-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00057/one-rule-for-gangs-another-for-everyone-else.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/06/one-rule-for-gangs-another-for-everyone-else/index.html
+layout: layout.njk
 ---
 One Rule For Gangs, Another For Everyone Else
 =============================================

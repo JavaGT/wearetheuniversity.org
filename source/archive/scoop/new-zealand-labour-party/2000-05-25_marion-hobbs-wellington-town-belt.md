@@ -1,9 +1,12 @@
 ---
 slug: marion-hobbs-wellington-town-belt
-title: "Marion Hobbs - Wellington Town Belt"
-date: 2000-05-25
-source-url: https://www.scoop.co.nz/stories/PA0005/S00529/marion-hobbs-wellington-town-belt.htm
+title: Marion Hobbs - Wellington Town Belt
+date: 2000-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00529/marion-hobbs-wellington-town-belt.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/05/25/marion-hobbs-wellington-town-belt/index.html
+layout: layout.njk
 ---
 Marion Hobbs - Wellington Town Belt
 ===================================

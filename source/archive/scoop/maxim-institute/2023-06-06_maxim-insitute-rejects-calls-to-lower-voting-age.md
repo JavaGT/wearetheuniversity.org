@@ -1,9 +1,13 @@
 ---
 slug: maxim-insitute-rejects-calls-to-lower-voting-age
-title: "Maxim Insitute Rejects Calls To Lower Voting Age"
-date: 2023-06-06
-source-url: https://www.scoop.co.nz/stories/PO2306/S00044/maxim-insitute-rejects-calls-to-lower-voting-age.htm
+title: Maxim Insitute Rejects Calls To Lower Voting Age
+date: 2023-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00044/maxim-insitute-rejects-calls-to-lower-voting-age.htm
 author: maxim-institute
+permalink: >-
+  /archive/2023/06/06/maxim-insitute-rejects-calls-to-lower-voting-age/index.html
+layout: layout.njk
 ---
 Maxim Insitute Rejects Calls To Lower Voting Age
 ================================================

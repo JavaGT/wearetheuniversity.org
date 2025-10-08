@@ -1,9 +1,12 @@
 ---
 slug: medical-leaders-agree-with-new-zealand-first
-title: "Medical Leaders Agree With New Zealand First"
-date: 2005-04-28
-source-url: https://www.scoop.co.nz/stories/PA0504/S00569/medical-leaders-agree-with-new-zealand-first.htm
+title: Medical Leaders Agree With New Zealand First
+date: 2005-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00569/medical-leaders-agree-with-new-zealand-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/28/medical-leaders-agree-with-new-zealand-first/index.html
+layout: layout.njk
 ---
 Medical Leaders Agree With New Zealand First
 ============================================

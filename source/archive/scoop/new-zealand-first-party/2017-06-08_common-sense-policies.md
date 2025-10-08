@@ -1,9 +1,11 @@
 ---
 slug: common-sense-policies
-title: "Common Sense Policies"
-date: 2017-06-08
+title: Common Sense Policies
+date: 2017-06-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1706/S00141/common-sense-policies.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/08/common-sense-policies/index.html
+layout: layout.njk
 ---
 Common Sense Policies
 =====================

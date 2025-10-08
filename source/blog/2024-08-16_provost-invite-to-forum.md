@@ -1,11 +1,19 @@
 ---
+layout: layout.njk
 title: Provost Invite To Forum
 slug: provost-invite-to-forum
-date: 2024-08-16
+date: 2024-08-16T00:00:00.000Z
 source: https://burn-it.github.io/Disorientation/small-classes/resources/
 author: We Are The University (formerly Concerned Students)
 author-url: https://burn-it.github.io/Disorientation/small-classes
 author-slug: we-are-the-university
+permalink: /blog/2024/08/16/provost-invite-to-forum/index.html
+excerpt: >-
+  16 August 2024 Professor Valerie Linton, Provost CC: Professor Dawn
+  Freshwater, ViceChancellor Waipapa Taumata Rau – University of Auckland 22
+  Princes Street, Auckland CBD, Auckland 1010 Subject: Course cutting student
+  forum, 22nd August 2:30 pm, HSB B201 Foyer Tēnā koe Valerie, As students at
+  Waipapa Taumata Rau – University of...
 ---
 16 August 2024
 Professor Valerie Linton, Provost

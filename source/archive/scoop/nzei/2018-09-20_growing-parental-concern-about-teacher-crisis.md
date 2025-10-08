@@ -1,9 +1,12 @@
 ---
 slug: growing-parental-concern-about-teacher-crisis
-title: "Growing parental concern about teacher crisis"
-date: 2018-09-20
-source-url: https://www.scoop.co.nz/stories/ED1809/S00053/growing-parental-concern-about-teacher-crisis.htm
+title: Growing parental concern about teacher crisis
+date: 2018-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00053/growing-parental-concern-about-teacher-crisis.htm
 author: nzei
+permalink: /archive/2018/09/20/growing-parental-concern-about-teacher-crisis/index.html
+layout: layout.njk
 ---
 Growing parental concern about teacher crisis
 =============================================

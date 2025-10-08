@@ -1,9 +1,13 @@
 ---
 slug: foreign-ownership-of-nz-homes-needs-new-regulations
-title: "Foreign Ownership of NZ Homes Needs New Regulations"
-date: 2012-11-25
-source-url: https://www.scoop.co.nz/stories/PA1211/S00421/foreign-ownership-of-nz-homes-needs-new-regulations.htm
+title: Foreign Ownership of NZ Homes Needs New Regulations
+date: 2012-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00421/foreign-ownership-of-nz-homes-needs-new-regulations.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/11/25/foreign-ownership-of-nz-homes-needs-new-regulations/index.html
+layout: layout.njk
 ---
 Foreign Ownership of NZ Homes Needs New Regulations
 ===================================================

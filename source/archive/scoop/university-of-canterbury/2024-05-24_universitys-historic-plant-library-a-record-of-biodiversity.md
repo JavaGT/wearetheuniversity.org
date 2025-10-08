@@ -1,9 +1,13 @@
 ---
 slug: universitys-historic-plant-library-a-record-of-biodiversity
-title: "University’s Historic Plant Library A Record Of Biodiversity"
-date: 2024-05-24
-source-url: https://www.scoop.co.nz/stories/SC2405/S00072/universitys-historic-plant-library-a-record-of-biodiversity.htm
+title: University’s Historic Plant Library A Record Of Biodiversity
+date: 2024-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00072/universitys-historic-plant-library-a-record-of-biodiversity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/24/universitys-historic-plant-library-a-record-of-biodiversity/index.html
+layout: layout.njk
 ---
 University’s Historic Plant Library A Record Of Biodiversity
 ============================================================

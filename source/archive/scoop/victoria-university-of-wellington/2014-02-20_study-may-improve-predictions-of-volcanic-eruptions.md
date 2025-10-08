@@ -1,9 +1,13 @@
 ---
 slug: study-may-improve-predictions-of-volcanic-eruptions
-title: "Study may improve predictions of volcanic eruptions"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/SC1402/S00044/study-may-improve-predictions-of-volcanic-eruptions.htm
+title: Study may improve predictions of volcanic eruptions
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00044/study-may-improve-predictions-of-volcanic-eruptions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/20/study-may-improve-predictions-of-volcanic-eruptions/index.html
+layout: layout.njk
 ---
 Study may improve predictions of volcanic eruptions
 ===================================================

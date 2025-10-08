@@ -1,9 +1,13 @@
 ---
 slug: waikato-holds-a-code-camp-to-teach-future-programmers
-title: "Waikato holds a Code Camp to teach future programmers"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/ED1301/S00025/waikato-holds-a-code-camp-to-teach-future-programmers.htm
+title: Waikato holds a Code Camp to teach future programmers
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00025/waikato-holds-a-code-camp-to-teach-future-programmers.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/01/16/waikato-holds-a-code-camp-to-teach-future-programmers/index.html
+layout: layout.njk
 ---
 Waikato holds a Code Camp to teach future programmers
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: anti-discrimination-day-disgrace
-title: "Anti-Discrimination Day Disgrace"
-date: 2003-03-21
-source-url: https://www.scoop.co.nz/stories/PA0303/S00401/anti-discrimination-day-disgrace.htm
+title: Anti-Discrimination Day Disgrace
+date: 2003-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00401/anti-discrimination-day-disgrace.htm
 author: act-new-zealand
+permalink: /archive/2003/03/21/anti-discrimination-day-disgrace/index.html
+layout: layout.njk
 ---
 Anti-Discrimination Day Disgrace
 ================================

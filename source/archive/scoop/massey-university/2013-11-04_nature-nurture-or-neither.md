@@ -1,9 +1,11 @@
 ---
 slug: nature-nurture-or-neither
-title: "Nature, Nurture Or Neither?"
-date: 2013-11-04
+title: Nature, Nurture Or Neither?
+date: 2013-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1311/S00006/nature-nurture-or-neither.htm
 author: massey-university
+permalink: /archive/2013/11/04/nature-nurture-or-neither/index.html
+layout: layout.njk
 ---
 Nature, Nurture Or Neither?
 ===========================

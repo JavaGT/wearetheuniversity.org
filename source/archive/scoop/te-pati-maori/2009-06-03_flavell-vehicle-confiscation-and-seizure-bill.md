@@ -1,9 +1,12 @@
 ---
 slug: flavell-vehicle-confiscation-and-seizure-bill
-title: "Flavell: Vehicle Confiscation and Seizure Bill"
-date: 2009-06-03
-source-url: https://www.scoop.co.nz/stories/PA0906/S00043/flavell-vehicle-confiscation-and-seizure-bill.htm
+title: 'Flavell: Vehicle Confiscation and Seizure Bill'
+date: 2009-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00043/flavell-vehicle-confiscation-and-seizure-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/06/03/flavell-vehicle-confiscation-and-seizure-bill/index.html
+layout: layout.njk
 ---
 Flavell: Vehicle Confiscation and Seizure Bill
 ==============================================

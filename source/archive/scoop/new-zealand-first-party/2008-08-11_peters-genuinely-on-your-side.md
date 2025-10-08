@@ -1,9 +1,12 @@
 ---
 slug: peters-genuinely-on-your-side
-title: "Peters - \"Genuinely On Your Side\""
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/PA0808/S00182/peters-genuinely-on-your-side.htm
+title: Peters - "Genuinely On Your Side"
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00182/peters-genuinely-on-your-side.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/11/peters-genuinely-on-your-side/index.html
+layout: layout.njk
 ---
 Peters - “Genuinely On Your Side”
 =================================

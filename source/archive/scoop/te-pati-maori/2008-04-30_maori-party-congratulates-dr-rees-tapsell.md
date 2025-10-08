@@ -1,9 +1,12 @@
 ---
 slug: maori-party-congratulates-dr-rees-tapsell
-title: "Maori Party Congratulates Dr Rees Tapsell"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/PA0804/S00656/maori-party-congratulates-dr-rees-tapsell.htm
+title: Maori Party Congratulates Dr Rees Tapsell
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00656/maori-party-congratulates-dr-rees-tapsell.htm
 author: te-pati-maori
+permalink: /archive/2008/04/30/maori-party-congratulates-dr-rees-tapsell/index.html
+layout: layout.njk
 ---
 Maori Party Congratulates Dr Rees Tapsell
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: distinguished-research-medal-awarded-to-otago-parasitologist
-title: "Distinguished Research Medal awarded to Otago parasitologist"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/SC1307/S00057/distinguished-research-medal-awarded-to-otago-parasitologist.htm
+title: Distinguished Research Medal awarded to Otago parasitologist
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00057/distinguished-research-medal-awarded-to-otago-parasitologist.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/22/distinguished-research-medal-awarded-to-otago-parasitologist/index.html
+layout: layout.njk
 ---
 Distinguished Research Medal awarded to Otago parasitologist
 ============================================================

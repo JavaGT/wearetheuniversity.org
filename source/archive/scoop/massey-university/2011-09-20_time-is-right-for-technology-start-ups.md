@@ -1,9 +1,12 @@
 ---
 slug: time-is-right-for-technology-start-ups
-title: "Time is right for technology start-ups"
-date: 2011-09-20
-source-url: https://www.scoop.co.nz/stories/BU1109/S00583/time-is-right-for-technology-start-ups.htm
+title: Time is right for technology start-ups
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00583/time-is-right-for-technology-start-ups.htm
 author: massey-university
+permalink: /archive/2011/09/20/time-is-right-for-technology-start-ups/index.html
+layout: layout.njk
 ---
 Time is right for technology start-ups
 ======================================

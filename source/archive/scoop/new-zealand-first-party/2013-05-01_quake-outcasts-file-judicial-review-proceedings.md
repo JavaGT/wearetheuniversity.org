@@ -1,9 +1,12 @@
 ---
 slug: quake-outcasts-file-judicial-review-proceedings
-title: "Quake Outcasts File Judicial Review Proceedings"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/PA1305/S00013/quake-outcasts-file-judicial-review-proceedings.htm
+title: Quake Outcasts File Judicial Review Proceedings
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00013/quake-outcasts-file-judicial-review-proceedings.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/01/quake-outcasts-file-judicial-review-proceedings/index.html
+layout: layout.njk
 ---
 Quake Outcasts File Judicial Review Proceedings
 ===============================================

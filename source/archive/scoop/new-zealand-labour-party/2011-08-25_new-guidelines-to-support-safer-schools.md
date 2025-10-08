@@ -1,9 +1,12 @@
 ---
 slug: new-guidelines-to-support-safer-schools
-title: "New guidelines to support safer schools"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/PA1108/S00509/new-guidelines-to-support-safer-schools.htm
+title: New guidelines to support safer schools
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00509/new-guidelines-to-support-safer-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/25/new-guidelines-to-support-safer-schools/index.html
+layout: layout.njk
 ---
 New guidelines to support safer schools
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: stories-of-family-past-investigated
-title: "Stories of family past investigated"
-date: 2014-10-09
-source-url: https://www.scoop.co.nz/stories/CU1410/S00206/stories-of-family-past-investigated.htm
+title: Stories of family past investigated
+date: 2014-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00206/stories-of-family-past-investigated.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/09/stories-of-family-past-investigated/index.html
+layout: layout.njk
 ---
 Stories of family past investigated
 ===================================

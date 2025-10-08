@@ -1,9 +1,11 @@
 ---
 slug: botany-pansy-speak
-title: "Botany Pansy Speak"
-date: 2010-07-24
+title: Botany Pansy Speak
+date: 2010-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1007/S00386/botany-pansy-speak.htm
 author: new-zealand-national-party
+permalink: /archive/2010/07/24/botany-pansy-speak/index.html
+layout: layout.njk
 ---
 Botany Pansy Speak
 ==================

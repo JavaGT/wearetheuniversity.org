@@ -1,9 +1,13 @@
 ---
 slug: vitamin-d-important-to-protect-against-bowel-diseases
-title: "Vitamin D important to protect against bowel diseases"
-date: 2015-08-28
-source-url: https://www.scoop.co.nz/stories/GE1508/S00114/vitamin-d-important-to-protect-against-bowel-diseases.htm
+title: Vitamin D important to protect against bowel diseases
+date: 2015-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00114/vitamin-d-important-to-protect-against-bowel-diseases.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/08/28/vitamin-d-important-to-protect-against-bowel-diseases/index.html
+layout: layout.njk
 ---
 Vitamin D important to protect against bowel diseases
 =====================================================

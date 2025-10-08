@@ -1,9 +1,13 @@
 ---
 slug: govt-ece-cuts-put-pressure-on-parents-and-children
-title: "Govt ECE cuts put pressure on parents and children"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/PA1011/S00441/govt-ece-cuts-put-pressure-on-parents-and-children.htm
+title: Govt ECE cuts put pressure on parents and children
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00441/govt-ece-cuts-put-pressure-on-parents-and-children.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/22/govt-ece-cuts-put-pressure-on-parents-and-children/index.html
+layout: layout.njk
 ---
 Govt ECE cuts put pressure on parents and children
 ==================================================

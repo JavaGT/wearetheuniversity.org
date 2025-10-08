@@ -1,9 +1,12 @@
 ---
 slug: john-key-must-stand-up-for-kiwis-in-australia
-title: "John Key must stand up for Kiwis in Australia"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/PA1602/S00240/john-key-must-stand-up-for-kiwis-in-australia.htm
+title: John Key must stand up for Kiwis in Australia
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00240/john-key-must-stand-up-for-kiwis-in-australia.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/18/john-key-must-stand-up-for-kiwis-in-australia/index.html
+layout: layout.njk
 ---
 John Key must stand up for Kiwis in Australia
 =============================================

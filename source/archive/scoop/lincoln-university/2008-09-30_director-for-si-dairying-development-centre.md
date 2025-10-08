@@ -1,9 +1,12 @@
 ---
 slug: director-for-si-dairying-development-centre
-title: "Director for  SI Dairying Development Centre"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/BU0809/S00607/director-for-si-dairying-development-centre.htm
+title: Director for  SI Dairying Development Centre
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0809/S00607/director-for-si-dairying-development-centre.htm
 author: lincoln-university
+permalink: /archive/2008/09/30/director-for-si-dairying-development-centre/index.html
+layout: layout.njk
 ---
 Director for SI Dairying Development Centre
 ===========================================

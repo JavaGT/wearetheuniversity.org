@@ -1,9 +1,13 @@
 ---
 slug: aut-professor-heading-to-london-as-olympic-coach
-title: "AUT Professor Heading to London as Olympic Coach"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/ED1205/S00011/aut-professor-heading-to-london-as-olympic-coach.htm
+title: AUT Professor Heading to London as Olympic Coach
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00011/aut-professor-heading-to-london-as-olympic-coach.htm
 author: aut-university
+permalink: >-
+  /archive/2012/05/02/aut-professor-heading-to-london-as-olympic-coach/index.html
+layout: layout.njk
 ---
 AUT Professor Heading to London as Olympic Coach
 ================================================

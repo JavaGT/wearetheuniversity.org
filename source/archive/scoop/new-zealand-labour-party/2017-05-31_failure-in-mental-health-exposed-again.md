@@ -1,9 +1,12 @@
 ---
 slug: failure-in-mental-health-exposed-again
-title: "Failure in mental health exposed again"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00658/failure-in-mental-health-exposed-again.htm
+title: Failure in mental health exposed again
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00658/failure-in-mental-health-exposed-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/31/failure-in-mental-health-exposed-again/index.html
+layout: layout.njk
 ---
 Failure in mental health exposed again
 ======================================

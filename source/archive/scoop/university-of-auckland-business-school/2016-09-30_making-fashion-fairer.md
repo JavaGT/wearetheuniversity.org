@@ -1,9 +1,11 @@
 ---
 slug: making-fashion-fairer
-title: "Making fashion fairer"
-date: 2016-09-30
+title: Making fashion fairer
+date: 2016-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1609/S00385/making-fashion-fairer.htm
 author: university-of-auckland-business-school
+permalink: /archive/2016/09/30/making-fashion-fairer/index.html
+layout: layout.njk
 ---
 Making fashion fairer
 =====================

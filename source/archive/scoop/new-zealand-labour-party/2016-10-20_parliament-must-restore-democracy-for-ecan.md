@@ -1,9 +1,12 @@
 ---
 slug: parliament-must-restore-democracy-for-ecan
-title: "Parliament must restore democracy for Ecan"
-date: 2016-10-20
-source-url: https://www.scoop.co.nz/stories/PA1610/S00319/parliament-must-restore-democracy-for-ecan.htm
+title: Parliament must restore democracy for Ecan
+date: 2016-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00319/parliament-must-restore-democracy-for-ecan.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/20/parliament-must-restore-democracy-for-ecan/index.html
+layout: layout.njk
 ---
 Parliament must restore democracy for Ecan
 ==========================================

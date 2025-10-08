@@ -1,9 +1,13 @@
 ---
 slug: commissioner-sexing-up-propaganda-but-it-falls-flat
-title: "Commissioner ‘Sexing Up’ Propaganda But It Falls Flat"
-date: 2016-12-14
-source-url: https://www.scoop.co.nz/stories/PA1612/S00240/commissioner-sexing-up-propaganda-but-it-falls-flat.htm
+title: Commissioner ‘Sexing Up’ Propaganda But It Falls Flat
+date: 2016-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00240/commissioner-sexing-up-propaganda-but-it-falls-flat.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/12/14/commissioner-sexing-up-propaganda-but-it-falls-flat/index.html
+layout: layout.njk
 ---
 Commissioner ‘Sexing Up’ Propaganda But It Falls Flat
 =====================================================

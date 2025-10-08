@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>The search for alien life – here on earth – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>The search for alien life – here on earth</h2><h3><span></span></h3><p>Wed Oct 21 2015 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>The search for alien life – here on earth</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The search for alien life – here on earth</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>The search for alien life – here on earth</h1>
 <p>21 October 2015</p>
 <p>The oldest rocks and most hostile landscapes on Earth are vital clues that may one day help us discover life on other planets or in other solar systems, says a leading astrobiologist from the University of Auckland.</p>
 <p>Kathy Campbell, Professor of Earth Science at the University’s School of Environment, gives her inaugural lecture this month on how unlocking the mystery of the origin and evolution of life on Earth provides a guide in the search for alien life.</p>
@@ -9,6 +33,27 @@
 <p>“Geologists love rocks, they tell us about the past and even about what might happen with Earth’s changing environment into the future. We can read their layers like pages in a book and give us a sense of our place in the Universe.”</p>
 <p>If people were as interested in Earth Sciences as they are in their mobile phones, the world’s future might be more secure, she says.</p>
 <p>“If you understand that humans have been here in what we can think of as the geological blink of an eye, then you also understand what it takes to make the resources we use every day. We are only stewards of this planet and we need to look after it.”</p>
-<p>This free public lecture_, Life on the Edge: A Journey of Discovery in Earth Science_, will be held on Wednesday 28 October at 5pm in the Owen G Glenn Building, 12 Grafton Rd, OGGB5 Lecture Theatre (260-051).  </p>
+<p>This free public lecture_, Life on the Edge: A Journey of Discovery in Earth Science_, will be held on Wednesday 28 October at 5pm in the Owen G Glenn Building, 12 Grafton Rd, OGGB5 Lecture Theatre (260-051).</p>
 <p>For media enquiries, please contact Anne Beston - <a href="mailto:a.beston@auckland.ac.nz">a.beston@auckland.ac.nz</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

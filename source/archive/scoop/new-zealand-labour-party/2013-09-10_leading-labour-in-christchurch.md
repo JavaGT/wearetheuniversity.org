@@ -1,9 +1,12 @@
 ---
 slug: leading-labour-in-christchurch
-title: "Leading Labour in Christchurch"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/PA1309/S00193/leading-labour-in-christchurch.htm
+title: Leading Labour in Christchurch
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00193/leading-labour-in-christchurch.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/10/leading-labour-in-christchurch/index.html
+layout: layout.njk
 ---
 Leading Labour in Christchurch
 ==============================

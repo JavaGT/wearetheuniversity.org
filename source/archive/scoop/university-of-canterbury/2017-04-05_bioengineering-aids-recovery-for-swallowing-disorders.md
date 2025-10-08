@@ -1,9 +1,13 @@
 ---
 slug: bioengineering-aids-recovery-for-swallowing-disorders
-title: "Bioengineering aids recovery for swallowing disorders"
-date: 2017-04-05
-source-url: https://www.scoop.co.nz/stories/SC1704/S00019/bioengineering-aids-recovery-for-swallowing-disorders.htm
+title: Bioengineering aids recovery for swallowing disorders
+date: 2017-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00019/bioengineering-aids-recovery-for-swallowing-disorders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/05/bioengineering-aids-recovery-for-swallowing-disorders/index.html
+layout: layout.njk
 ---
 Bioengineering aids recovery for swallowing disorders
 =====================================================

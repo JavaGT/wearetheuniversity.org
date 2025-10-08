@@ -1,9 +1,12 @@
 ---
 slug: lego-robot-making-conversation
-title: "LEGO robot making conversation"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/SC1506/S00003/lego-robot-making-conversation.htm
+title: LEGO robot making conversation
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00003/lego-robot-making-conversation.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/02/lego-robot-making-conversation/index.html
+layout: layout.njk
 ---
 LEGO robot making conversation
 ==============================

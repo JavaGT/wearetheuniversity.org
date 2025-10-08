@@ -1,9 +1,12 @@
 ---
 slug: study-finds-double-standard-for-womens-drinking
-title: "Study finds double standard for women's drinking"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/ED0609/S00024/study-finds-double-standard-for-womens-drinking.htm
+title: Study finds double standard for women's drinking
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00024/study-finds-double-standard-for-womens-drinking.htm
 author: massey-university
+permalink: /archive/2006/09/07/study-finds-double-standard-for-womens-drinking/index.html
+layout: layout.njk
 ---
 Study finds double standard for women's drinking
 ================================================

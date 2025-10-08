@@ -1,9 +1,11 @@
 ---
 slug: no-spine-for-privatising-acc
-title: "No spine for Privatising ACC"
-date: 2008-07-04
+title: No spine for Privatising ACC
+date: 2008-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0807/S00056/no-spine-for-privatising-acc.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/07/04/no-spine-for-privatising-acc/index.html
+layout: layout.njk
 ---
 No spine for Privatising ACC
 ============================

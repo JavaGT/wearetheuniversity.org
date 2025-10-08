@@ -1,8 +1,12 @@
 ---
 slug: is-narcissism-on-the-rise-do-millennials-really-feel-more-entitled
-title: "Is narcissism on the rise? Do millennials really feel more entitled?"
-date: 2017-11-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/is-narcissism-on-the-rise-do-millennials-really-feel-more-entitled.html
+title: Is narcissism on the rise? Do millennials really feel more entitled?
+date: 2017-11-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/is-narcissism-on-the-rise-do-millennials-really-feel-more-entitled.html
+permalink: >-
+  /archive/2017/11/01/is-narcissism-on-the-rise-do-millennials-really-feel-more-entitled/index.html
+layout: layout.njk
 ---
 Is narcissism on the rise? Do millennials really feel more entitled?
 ====================================================================

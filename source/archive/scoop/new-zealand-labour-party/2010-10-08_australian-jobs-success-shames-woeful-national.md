@@ -1,9 +1,12 @@
 ---
 slug: australian-jobs-success-shames-woeful-national
-title: "Australian jobs success shames woeful National"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/PA1010/S00097/australian-jobs-success-shames-woeful-national.htm
+title: Australian jobs success shames woeful National
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00097/australian-jobs-success-shames-woeful-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/08/australian-jobs-success-shames-woeful-national/index.html
+layout: layout.njk
 ---
 Australian jobs success shames woeful National
 ==============================================

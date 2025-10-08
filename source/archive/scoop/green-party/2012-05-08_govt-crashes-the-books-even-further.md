@@ -1,9 +1,12 @@
 ---
 slug: govt-crashes-the-books-even-further
-title: "Govt. crashes the books even further"
-date: 2012-05-08
-source-url: https://www.scoop.co.nz/stories/PA1205/S00116/govt-crashes-the-books-even-further.htm
+title: Govt. crashes the books even further
+date: 2012-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00116/govt-crashes-the-books-even-further.htm
 author: green-party
+permalink: /archive/2012/05/08/govt-crashes-the-books-even-further/index.html
+layout: layout.njk
 ---
 Govt. crashes the books even further
 ====================================

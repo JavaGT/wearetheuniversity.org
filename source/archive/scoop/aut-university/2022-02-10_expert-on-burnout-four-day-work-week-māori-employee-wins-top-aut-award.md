@@ -1,9 +1,12 @@
 ---
 slug: expert-on-burnout-four-day-work-week-māori-employee-wins-top-aut-award
-title: "Expert On Burnout, Four-day Work Week, Māori Employee Wins Top AUT Award"
-date: 2022-02-10
-source-url: https://www.scoop.co.nz/stories/ED2202/S00018/expert-on-burnout-four-day-work-week-maori-employee-wins-top-aut-award.htm
+title: Expert On Burnout, Four-day Work Week, Māori Employee Wins Top AUT Award
+date: 2022-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00018/expert-on-burnout-four-day-work-week-maori-employee-wins-top-aut-award.htm
 author: aut-university
+permalink: /archive/2022/02/10/expert-on-burnout-four-day-work-week-m/index.html
+layout: layout.njk
 ---
 Expert On Burnout, Four-day Work Week, Māori Employee Wins Top AUT Award
 ========================================================================

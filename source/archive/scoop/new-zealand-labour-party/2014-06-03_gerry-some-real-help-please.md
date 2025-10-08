@@ -1,9 +1,11 @@
 ---
 slug: gerry-some-real-help-please
-title: "Gerry some real help please"
-date: 2014-06-03
+title: Gerry some real help please
+date: 2014-06-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1406/S00023/gerry-some-real-help-please.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/03/gerry-some-real-help-please/index.html
+layout: layout.njk
 ---
 Gerry some real help please
 ===========================

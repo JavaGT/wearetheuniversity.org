@@ -1,9 +1,12 @@
 ---
 slug: healthy-choices-critical-for-healthy-lifestyle
-title: "Healthy choices critical for healthy lifestyle"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/SC1403/S00014/healthy-choices-critical-for-healthy-lifestyle.htm
+title: Healthy choices critical for healthy lifestyle
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00014/healthy-choices-critical-for-healthy-lifestyle.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/06/healthy-choices-critical-for-healthy-lifestyle/index.html
+layout: layout.njk
 ---
 Healthy choices critical for healthy lifestyle
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: pressing-population-issues-focus-of-forums
-title: "Pressing population issues focus of forums"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/ED1411/S00144/pressing-population-issues-focus-of-forums.htm
+title: Pressing population issues focus of forums
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00144/pressing-population-issues-focus-of-forums.htm
 author: massey-university
+permalink: /archive/2014/11/24/pressing-population-issues-focus-of-forums/index.html
+layout: layout.njk
 ---
 Pressing population issues focus of forums
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-minister-needs-to-tackle-housing-go-slow
-title: "New Minister needs to tackle housing go-slow"
-date: 2013-01-23
-source-url: https://www.scoop.co.nz/stories/PA1301/S00081/new-minister-needs-to-tackle-housing-go-slow.htm
+title: New Minister needs to tackle housing go-slow
+date: 2013-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00081/new-minister-needs-to-tackle-housing-go-slow.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/23/new-minister-needs-to-tackle-housing-go-slow/index.html
+layout: layout.njk
 ---
 New Minister needs to tackle housing go-slow
 ============================================

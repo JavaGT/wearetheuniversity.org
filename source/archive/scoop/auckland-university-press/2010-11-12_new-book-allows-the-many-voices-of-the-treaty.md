@@ -1,9 +1,12 @@
 ---
 slug: new-book-allows-the-many-voices-of-the-treaty
-title: "New book allows the ‘many voices’ of the Treaty"
-date: 2010-11-12
-source-url: https://www.scoop.co.nz/stories/CU1011/S00198/new-book-allows-the-many-voices-of-the-treaty.htm
+title: New book allows the ‘many voices’ of the Treaty
+date: 2010-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1011/S00198/new-book-allows-the-many-voices-of-the-treaty.htm
 author: auckland-university-press
+permalink: /archive/2010/11/12/new-book-allows-the-many-voices-of-the-treaty/index.html
+layout: layout.njk
 ---
 New book allows the ‘many voices’ of the Treaty
 ===============================================

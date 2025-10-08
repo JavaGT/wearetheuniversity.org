@@ -1,9 +1,13 @@
 ---
 slug: otago-scientists-work-to-help-reinstate-local-communities-as
-title: "Otago scientists work to help reinstate local communities as"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/SC1409/S00075/otago-scientists-work-to-help-reinstate-local-communities-as.htm
+title: Otago scientists work to help reinstate local communities as
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00075/otago-scientists-work-to-help-reinstate-local-communities-as.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/19/otago-scientists-work-to-help-reinstate-local-communities-as/index.html
+layout: layout.njk
 ---
 Otago scientists work to help reinstate local communities as
 ============================================================

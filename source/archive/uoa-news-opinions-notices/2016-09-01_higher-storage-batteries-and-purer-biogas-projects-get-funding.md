@@ -1,8 +1,12 @@
 ---
 slug: higher-storage-batteries-and-purer-biogas-projects-get-funding
-title: "Higher-storage batteries and purer biogas projects get funding"
-date: 2016-09-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/higher-storage-batteries-and-purer-biogas-projects-get-funding.html
+title: Higher-storage batteries and purer biogas projects get funding
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/higher-storage-batteries-and-purer-biogas-projects-get-funding.html
+permalink: >-
+  /archive/2016/09/01/higher-storage-batteries-and-purer-biogas-projects-get-funding/index.html
+layout: layout.njk
 ---
 Higher-storage batteries and purer biogas projects get funding
 ==============================================================

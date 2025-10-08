@@ -1,9 +1,12 @@
 ---
 slug: ncea-dissatisfaction-highlights-need-for-choice
-title: "NCEA dissatisfaction highlights need for choice"
-date: 2004-12-21
-source-url: https://www.scoop.co.nz/stories/PA0412/S00508/ncea-dissatisfaction-highlights-need-for-choice.htm
+title: NCEA dissatisfaction highlights need for choice
+date: 2004-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00508/ncea-dissatisfaction-highlights-need-for-choice.htm
 author: act-new-zealand
+permalink: /archive/2004/12/21/ncea-dissatisfaction-highlights-need-for-choice/index.html
+layout: layout.njk
 ---
 NCEA dissatisfaction highlights need for choice
 ===============================================

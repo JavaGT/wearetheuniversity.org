@@ -1,9 +1,12 @@
 ---
 slug: aut-answers-councillors-qs-on-manukau-campus
-title: "AUT Answers Councillor's Qs on Manukau Campus"
-date: 2007-12-22
-source-url: https://www.scoop.co.nz/stories/ED0712/S00090/aut-answers-councillors-qs-on-manukau-campus.htm
+title: AUT Answers Councillor's Qs on Manukau Campus
+date: 2007-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00090/aut-answers-councillors-qs-on-manukau-campus.htm
 author: aut-university
+permalink: /archive/2007/12/22/aut-answers-councillors-qs-on-manukau-campus/index.html
+layout: layout.njk
 ---
 AUT Answers Councillor's Qs on Manukau Campus
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-students-stance-bizarre-says-jones
-title: "Maori Students’ Stance  Bizarre Says Jones"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/PA0408/S00213/maori-students-stance-bizarre-says-jones.htm
+title: Maori Students’ Stance  Bizarre Says Jones
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00213/maori-students-stance-bizarre-says-jones.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/11/maori-students-stance-bizarre-says-jones/index.html
+layout: layout.njk
 ---
 Maori Students’ Stance Bizarre Says Jones
 =========================================

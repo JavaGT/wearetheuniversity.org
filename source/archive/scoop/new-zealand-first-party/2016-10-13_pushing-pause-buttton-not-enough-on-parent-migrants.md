@@ -1,9 +1,13 @@
 ---
 slug: pushing-pause-buttton-not-enough-on-parent-migrants
-title: "Pushing Pause Buttton Not Enough on Parent Migrants"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/PA1610/S00174/pushing-pause-buttton-not-enough-on-parent-migrants.htm
+title: Pushing Pause Buttton Not Enough on Parent Migrants
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00174/pushing-pause-buttton-not-enough-on-parent-migrants.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/10/13/pushing-pause-buttton-not-enough-on-parent-migrants/index.html
+layout: layout.njk
 ---
 Pushing Pause Buttton Not Enough on Parent Migrants
 ===================================================

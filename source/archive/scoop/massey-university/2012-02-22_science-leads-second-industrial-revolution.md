@@ -1,9 +1,12 @@
 ---
 slug: science-leads-second-industrial-revolution
-title: "Science leads 'second industrial revolution'"
-date: 2012-02-22
-source-url: https://www.scoop.co.nz/stories/SC1202/S00042/science-leads-second-industrial-revolution.htm
+title: Science leads 'second industrial revolution'
+date: 2012-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00042/science-leads-second-industrial-revolution.htm
 author: massey-university
+permalink: /archive/2012/02/22/science-leads-second-industrial-revolution/index.html
+layout: layout.njk
 ---
 Science leads 'second industrial revolution'
 ============================================

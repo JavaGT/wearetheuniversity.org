@@ -1,9 +1,12 @@
 ---
 slug: labour-is-writing-cheques-it-cant-cash
-title: "Labour is writing cheques it can’t cash"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00289/labour-is-writing-cheques-it-cant-cash.htm
+title: Labour is writing cheques it can’t cash
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00289/labour-is-writing-cheques-it-cant-cash.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/14/labour-is-writing-cheques-it-cant-cash/index.html
+layout: layout.njk
 ---
 Labour is writing cheques it can’t cash
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: pasifika-education-given-short-shrift
-title: "Pasifika education given short shrift"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/PA1205/S00150/pasifika-education-given-short-shrift.htm
+title: Pasifika education given short shrift
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00150/pasifika-education-given-short-shrift.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/09/pasifika-education-given-short-shrift/index.html
+layout: layout.njk
 ---
 Pasifika education given short shrift
 =====================================

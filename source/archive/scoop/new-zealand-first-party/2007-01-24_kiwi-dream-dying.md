@@ -1,9 +1,11 @@
 ---
 slug: kiwi-dream-dying
-title: "Kiwi Dream Dying"
-date: 2007-01-24
+title: Kiwi Dream Dying
+date: 2007-01-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0701/S00123/kiwi-dream-dying.htm
 author: new-zealand-first-party
+permalink: /archive/2007/01/24/kiwi-dream-dying/index.html
+layout: layout.njk
 ---
 Kiwi Dream Dying
 ================

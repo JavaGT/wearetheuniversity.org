@@ -1,9 +1,11 @@
 ---
 slug: fees-maxima-f*#ks-students
-title: "Fees Maxima F*#ks Students"
-date: 2003-05-15
+title: Fees Maxima F*#ks Students
+date: 2003-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0305/S00046/fees-maxima-fks-students.htm
 author: otago-university-students-association
+permalink: /archive/2003/05/15/fees-maxima-f/index.html
+layout: layout.njk
 ---
 Fees Maxima F\*#ks Students
 ===========================

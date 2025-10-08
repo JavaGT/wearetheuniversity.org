@@ -1,9 +1,13 @@
 ---
 slug: students-recognise-excellence-in-teaching-and-support
-title: "Students Recognise Excellence in Teaching and Support"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/ED1112/S00015/students-recognise-excellence-in-teaching-and-support.htm
+title: Students Recognise Excellence in Teaching and Support
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00015/students-recognise-excellence-in-teaching-and-support.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/02/students-recognise-excellence-in-teaching-and-support/index.html
+layout: layout.njk
 ---
 Students Recognise Excellence in Teaching and Support
 =====================================================

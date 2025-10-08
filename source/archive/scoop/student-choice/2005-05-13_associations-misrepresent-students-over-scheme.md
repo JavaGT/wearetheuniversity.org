@@ -1,9 +1,12 @@
 ---
 slug: associations-misrepresent-students-over-scheme
-title: "Associations Misrepresent Students Over Scheme"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/ED0505/S00052/associations-misrepresent-students-over-scheme.htm
+title: Associations Misrepresent Students Over Scheme
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00052/associations-misrepresent-students-over-scheme.htm
 author: student-choice
+permalink: /archive/2005/05/13/associations-misrepresent-students-over-scheme/index.html
+layout: layout.njk
 ---
 Associations Misrepresent Students Over Scheme
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: whats-coming-up-at-vic
-title: "What's Coming Up At Vic?"
-date: 2001-08-14
+title: What's Coming Up At Vic?
+date: 2001-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00040/whats-coming-up-at-vic.htm
 author: victoria-university-students-association
+permalink: /archive/2001/08/14/whats-coming-up-at-vic/index.html
+layout: layout.njk
 ---
 What's Coming Up At Vic?
 ========================

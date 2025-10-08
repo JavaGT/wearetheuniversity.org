@@ -1,9 +1,12 @@
 ---
 slug: green-budget-package-far-reaching
-title: "Green Budget Package far reaching"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00292/green-budget-package-far-reaching.htm
+title: Green Budget Package far reaching
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00292/green-budget-package-far-reaching.htm
 author: green-party
+permalink: /archive/2000/06/15/green-budget-package-far-reaching/index.html
+layout: layout.njk
 ---
 Green Budget Package far reaching
 =================================

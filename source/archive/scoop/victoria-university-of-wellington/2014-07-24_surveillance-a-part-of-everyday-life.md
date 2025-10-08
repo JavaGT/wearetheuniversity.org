@@ -1,9 +1,12 @@
 ---
 slug: surveillance-a-part-of-everyday-life
-title: "Surveillance a part of everyday life"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/ED1407/S00115/surveillance-a-part-of-everyday-life.htm
+title: Surveillance a part of everyday life
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00115/surveillance-a-part-of-everyday-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/24/surveillance-a-part-of-everyday-life/index.html
+layout: layout.njk
 ---
 Surveillance a part of everyday life
 ====================================

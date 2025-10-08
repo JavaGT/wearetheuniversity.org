@@ -1,9 +1,13 @@
 ---
 slug: responding-to-emergencies-from-management-to-leadership
-title: "Responding to Emergencies - from Management to Leadership"
-date: 2012-10-19
-source-url: https://www.scoop.co.nz/stories/PA1210/S00352/responding-to-emergencies-from-management-to-leadership.htm
+title: Responding to Emergencies - from Management to Leadership
+date: 2012-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00352/responding-to-emergencies-from-management-to-leadership.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/19/responding-to-emergencies-from-management-to-leadership/index.html
+layout: layout.njk
 ---
 Responding to Emergencies - from Management to Leadership
 =========================================================

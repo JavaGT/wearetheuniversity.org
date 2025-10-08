@@ -1,9 +1,12 @@
 ---
 slug: brownlee-must-reassure-over-asbestos
-title: "Brownlee must reassure over asbestos"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PA1405/S00532/brownlee-must-reassure-over-asbestos.htm
+title: Brownlee must reassure over asbestos
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00532/brownlee-must-reassure-over-asbestos.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/28/brownlee-must-reassure-over-asbestos/index.html
+layout: layout.njk
 ---
 Brownlee must reassure over asbestos
 ====================================

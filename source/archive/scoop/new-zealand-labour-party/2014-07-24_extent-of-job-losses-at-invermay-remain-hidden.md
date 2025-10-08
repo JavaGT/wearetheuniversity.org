@@ -1,9 +1,12 @@
 ---
 slug: extent-of-job-losses-at-invermay-remain-hidden
-title: "Extent of job losses at Invermay remain hidden"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PA1407/S00480/extent-of-job-losses-at-invermay-remain-hidden.htm
+title: Extent of job losses at Invermay remain hidden
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00480/extent-of-job-losses-at-invermay-remain-hidden.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/24/extent-of-job-losses-at-invermay-remain-hidden/index.html
+layout: layout.njk
 ---
 Extent of job losses at Invermay remain hidden
 ==============================================

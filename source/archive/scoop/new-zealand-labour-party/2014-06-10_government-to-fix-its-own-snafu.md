@@ -1,9 +1,12 @@
 ---
 slug: government-to-fix-its-own-snafu
-title: "Government to fix its own SNAFU"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/PA1406/S00121/government-to-fix-its-own-snafu.htm
+title: Government to fix its own SNAFU
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00121/government-to-fix-its-own-snafu.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/10/government-to-fix-its-own-snafu/index.html
+layout: layout.njk
 ---
 Government to fix its own SNAFU
 ===============================

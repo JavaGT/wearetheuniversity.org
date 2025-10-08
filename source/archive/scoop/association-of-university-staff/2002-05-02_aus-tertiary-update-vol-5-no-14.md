@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-14
-title: "AUS Tertiary Update  Vol. 5  No. 14"
-date: 2002-05-02
-source-url: https://www.scoop.co.nz/stories/ED0205/S00006/aus-tertiary-update-vol-5-no-14.htm
+title: AUS Tertiary Update  Vol. 5  No. 14
+date: 2002-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00006/aus-tertiary-update-vol-5-no-14.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/02/aus-tertiary-update-vol-5-no-14/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 14
 =================================

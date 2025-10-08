@@ -1,9 +1,12 @@
 ---
 slug: funeral-celebrates-the-life-of-sonja-davies
-title: "Funeral Celebrates the Life of Sonja Davies"
-date: 2005-06-17
-source-url: https://www.scoop.co.nz/stories/CU0506/S00140/funeral-celebrates-the-life-of-sonja-davies.htm
+title: Funeral Celebrates the Life of Sonja Davies
+date: 2005-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00140/funeral-celebrates-the-life-of-sonja-davies.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/06/17/funeral-celebrates-the-life-of-sonja-davies/index.html
+layout: layout.njk
 ---
 Funeral Celebrates the Life of Sonja Davies
 ===========================================

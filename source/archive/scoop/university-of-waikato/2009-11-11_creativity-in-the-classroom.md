@@ -1,9 +1,11 @@
 ---
 slug: creativity-in-the-classroom
-title: "Creativity in the classroom"
-date: 2009-11-11
+title: Creativity in the classroom
+date: 2009-11-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0911/S00042/creativity-in-the-classroom.htm
 author: university-of-waikato
+permalink: /archive/2009/11/11/creativity-in-the-classroom/index.html
+layout: layout.njk
 ---
 Creativity in the classroom
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: rail-safety-award-for-helen-clark
-title: "Rail Safety Award For Helen Clark"
-date: 2013-10-29
-source-url: https://www.scoop.co.nz/stories/ED1310/S00180/rail-safety-award-for-helen-clark.htm
+title: Rail Safety Award For Helen Clark
+date: 2013-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00180/rail-safety-award-for-helen-clark.htm
 author: university-of-waikato
+permalink: /archive/2013/10/29/rail-safety-award-for-helen-clark/index.html
+layout: layout.njk
 ---
 Rail Safety Award For Helen Clark
 =================================

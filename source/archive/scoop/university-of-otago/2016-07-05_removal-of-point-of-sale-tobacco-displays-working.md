@@ -1,9 +1,13 @@
 ---
 slug: removal-of-point-of-sale-tobacco-displays-working
-title: "Removal of point-of-sale tobacco displays working"
-date: 2016-07-05
-source-url: https://www.scoop.co.nz/stories/GE1607/S00019/removal-of-point-of-sale-tobacco-displays-working.htm
+title: Removal of point-of-sale tobacco displays working
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00019/removal-of-point-of-sale-tobacco-displays-working.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/05/removal-of-point-of-sale-tobacco-displays-working/index.html
+layout: layout.njk
 ---
 Removal of point-of-sale tobacco displays working
 =================================================

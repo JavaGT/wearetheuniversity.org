@@ -1,9 +1,12 @@
 ---
 slug: nz$-plummets-again-cullen-must-step-aside
-title: "NZ$ Plummets Again, Cullen Must Step Aside"
-date: 2000-09-07
-source-url: https://www.scoop.co.nz/stories/PA0009/S00118/nz-plummets-again-cullen-must-step-aside.htm
+title: NZ$ Plummets Again, Cullen Must Step Aside
+date: 2000-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00118/nz-plummets-again-cullen-must-step-aside.htm
 author: act-new-zealand
+permalink: /archive/2000/09/07/nz/index.html
+layout: layout.njk
 ---
 NZ$ Plummets Again, Cullen Must Step Aside
 ==========================================

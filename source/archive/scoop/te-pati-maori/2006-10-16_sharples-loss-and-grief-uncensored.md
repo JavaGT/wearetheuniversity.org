@@ -1,9 +1,12 @@
 ---
 slug: sharples-loss-and-grief-uncensored
-title: "Sharples: Loss and Grief - Uncensored"
-date: 2006-10-16
-source-url: https://www.scoop.co.nz/stories/PA0610/S00280/sharples-loss-and-grief-uncensored.htm
+title: 'Sharples: Loss and Grief - Uncensored'
+date: 2006-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00280/sharples-loss-and-grief-uncensored.htm
 author: te-pati-maori
+permalink: /archive/2006/10/16/sharples-loss-and-grief-uncensored/index.html
+layout: layout.njk
 ---
 Sharples: Loss and Grief - Uncensored
 =====================================

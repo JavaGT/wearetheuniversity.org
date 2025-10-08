@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-paying-for-mr-twyfords-mistakes
-title: "Taxpayers paying for Mr Twyford’s mistakes"
-date: 2019-03-14
-source-url: https://www.scoop.co.nz/stories/PA1903/S00099/taxpayers-paying-for-mr-twyfords-mistakes.htm
+title: Taxpayers paying for Mr Twyford’s mistakes
+date: 2019-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00099/taxpayers-paying-for-mr-twyfords-mistakes.htm
 author: new-zealand-national-party
+permalink: /archive/2019/03/14/taxpayers-paying-for-mr-twyfords-mistakes/index.html
+layout: layout.njk
 ---
 Taxpayers paying for Mr Twyford’s mistakes
 ==========================================

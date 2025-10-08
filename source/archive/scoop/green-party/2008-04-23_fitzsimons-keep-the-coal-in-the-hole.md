@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-keep-the-coal-in-the-hole
-title: "Fitzsimons: Keep the Coal in the Hole"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/PA0804/S00539/fitzsimons-keep-the-coal-in-the-hole.htm
+title: 'Fitzsimons: Keep the Coal in the Hole'
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00539/fitzsimons-keep-the-coal-in-the-hole.htm
 author: green-party
+permalink: /archive/2008/04/23/fitzsimons-keep-the-coal-in-the-hole/index.html
+layout: layout.njk
 ---
 Fitzsimons: Keep the Coal in the Hole
 =====================================

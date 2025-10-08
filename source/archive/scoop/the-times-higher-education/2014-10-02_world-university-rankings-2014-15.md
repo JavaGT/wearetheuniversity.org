@@ -1,9 +1,12 @@
 ---
 slug: world-university-rankings-2014-15
-title: "World University Rankings 2014-15"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00020/world-university-rankings-2014-15.htm
+title: World University Rankings 2014-15
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00020/world-university-rankings-2014-15.htm
 author: the-times-higher-education
+permalink: /archive/2014/10/02/world-university-rankings-2014-15/index.html
+layout: layout.njk
 ---
 World University Rankings 2014-15
 =================================

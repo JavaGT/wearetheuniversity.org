@@ -1,9 +1,13 @@
 ---
 slug: high-level-of-hiv-diagnoses-in-new-zealand-persists-in-2015
-title: "High level of HIV diagnoses in New Zealand persists in 2015"
-date: 2016-05-24
-source-url: https://www.scoop.co.nz/stories/GE1605/S00113/high-level-of-hiv-diagnoses-in-new-zealand-persists-in-2015.htm
+title: High level of HIV diagnoses in New Zealand persists in 2015
+date: 2016-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00113/high-level-of-hiv-diagnoses-in-new-zealand-persists-in-2015.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/24/high-level-of-hiv-diagnoses-in-new-zealand-persists-in-2015/index.html
+layout: layout.njk
 ---
 High level of HIV diagnoses in New Zealand persists in 2015
 ===========================================================

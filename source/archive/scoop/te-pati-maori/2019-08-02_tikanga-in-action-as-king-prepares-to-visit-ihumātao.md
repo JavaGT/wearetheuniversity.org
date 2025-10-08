@@ -1,9 +1,13 @@
 ---
 slug: tikanga-in-action-as-king-prepares-to-visit-ihumātao
-title: "Tikanga in action as King prepares to visit Ihumātao"
-date: 2019-08-02
-source-url: https://www.scoop.co.nz/stories/PO1908/S00034/tikanga-in-action-as-king-prepares-to-visit-ihumatao.htm
+title: Tikanga in action as King prepares to visit Ihumātao
+date: 2019-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00034/tikanga-in-action-as-king-prepares-to-visit-ihumatao.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2019/08/02/tikanga-in-action-as-king-prepares-to-visit-ihum/index.html
+layout: layout.njk
 ---
 Tikanga in action as King prepares to visit Ihumātao
 ====================================================

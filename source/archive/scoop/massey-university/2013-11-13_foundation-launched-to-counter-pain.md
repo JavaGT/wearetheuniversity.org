@@ -1,9 +1,12 @@
 ---
 slug: foundation-launched-to-counter-pain
-title: "Foundation launched to counter pain"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/GE1311/S00065/foundation-launched-to-counter-pain.htm
+title: Foundation launched to counter pain
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00065/foundation-launched-to-counter-pain.htm
 author: massey-university
+permalink: /archive/2013/11/13/foundation-launched-to-counter-pain/index.html
+layout: layout.njk
 ---
 Foundation launched to counter pain
 ===================================

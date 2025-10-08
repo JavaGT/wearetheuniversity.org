@@ -1,9 +1,11 @@
 ---
 slug: researching-a-new-audience
-title: "Researching a new audience"
-date: 2009-04-20
+title: Researching a new audience
+date: 2009-04-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0904/S00252/researching-a-new-audience.htm
 author: massey-university
+permalink: /archive/2009/04/20/researching-a-new-audience/index.html
+layout: layout.njk
 ---
 Researching a new audience
 ==========================

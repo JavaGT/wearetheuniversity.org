@@ -1,9 +1,12 @@
 ---
 slug: tinetti-absent-on-attendance-details
-title: "Tinetti Absent On Attendance Details"
-date: 2023-02-21
-source-url: https://www.scoop.co.nz/stories/PA2302/S00095/tinetti-absent-on-attendance-details.htm
+title: Tinetti Absent On Attendance Details
+date: 2023-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00095/tinetti-absent-on-attendance-details.htm
 author: act-new-zealand
+permalink: /archive/2023/02/21/tinetti-absent-on-attendance-details/index.html
+layout: layout.njk
 ---
 Tinetti Absent On Attendance Details
 ====================================

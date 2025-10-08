@@ -1,9 +1,13 @@
 ---
 slug: dynamic-business-high-school-mired-in-bureaucracy
-title: "Dynamic Business High School Mired in Bureaucracy"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/PO0508/S00127/dynamic-business-high-school-mired-in-bureaucracy.htm
+title: Dynamic Business High School Mired in Bureaucracy
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00127/dynamic-business-high-school-mired-in-bureaucracy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/08/11/dynamic-business-high-school-mired-in-bureaucracy/index.html
+layout: layout.njk
 ---
 Dynamic Business High School Mired in Bureaucracy
 =================================================

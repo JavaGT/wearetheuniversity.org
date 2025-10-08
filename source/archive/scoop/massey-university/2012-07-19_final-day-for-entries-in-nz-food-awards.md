@@ -1,9 +1,12 @@
 ---
 slug: final-day-for-entries-in-nz-food-awards
-title: "Final day for entries in NZ Food Awards"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/CU1207/S00330/final-day-for-entries-in-nz-food-awards.htm
+title: Final day for entries in NZ Food Awards
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00330/final-day-for-entries-in-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2012/07/19/final-day-for-entries-in-nz-food-awards/index.html
+layout: layout.njk
 ---
 Final day for entries in NZ Food Awards
 =======================================

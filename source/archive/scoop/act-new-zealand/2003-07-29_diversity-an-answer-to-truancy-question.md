@@ -1,9 +1,12 @@
 ---
 slug: diversity-an-answer-to-truancy-question
-title: "Diversity An Answer To Truancy Question"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/PA0307/S00511/diversity-an-answer-to-truancy-question.htm
+title: Diversity An Answer To Truancy Question
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00511/diversity-an-answer-to-truancy-question.htm
 author: act-new-zealand
+permalink: /archive/2003/07/29/diversity-an-answer-to-truancy-question/index.html
+layout: layout.njk
 ---
 Diversity An Answer To Truancy Question
 =======================================

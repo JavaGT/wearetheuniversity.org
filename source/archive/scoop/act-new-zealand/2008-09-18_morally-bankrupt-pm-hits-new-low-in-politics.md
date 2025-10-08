@@ -1,9 +1,12 @@
 ---
 slug: morally-bankrupt-pm-hits-new-low-in-politics
-title: "Morally Bankrupt PM Hits New Low In Politics"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/PA0809/S00387/morally-bankrupt-pm-hits-new-low-in-politics.htm
+title: Morally Bankrupt PM Hits New Low In Politics
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00387/morally-bankrupt-pm-hits-new-low-in-politics.htm
 author: act-new-zealand
+permalink: /archive/2008/09/18/morally-bankrupt-pm-hits-new-low-in-politics/index.html
+layout: layout.njk
 ---
 Morally Bankrupt PM Hits New Low In Politics
 ============================================

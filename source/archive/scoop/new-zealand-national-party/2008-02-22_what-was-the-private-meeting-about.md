@@ -1,9 +1,12 @@
 ---
 slug: what-was-the-private-meeting-about
-title: "What was the private meeting about?"
-date: 2008-02-22
-source-url: https://www.scoop.co.nz/stories/PA0802/S00375/what-was-the-private-meeting-about.htm
+title: What was the private meeting about?
+date: 2008-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00375/what-was-the-private-meeting-about.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/22/what-was-the-private-meeting-about/index.html
+layout: layout.njk
 ---
 What was the private meeting about?
 ===================================

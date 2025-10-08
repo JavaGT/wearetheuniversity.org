@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-psa-delegates
-title: "Cullen: Address to PSA Delegates"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00210/cullen-address-to-psa-delegates.htm
+title: 'Cullen: Address to PSA Delegates'
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00210/cullen-address-to-psa-delegates.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/08/cullen-address-to-psa-delegates/index.html
+layout: layout.njk
 ---
 Cullen: Address to PSA Delegates
 ================================

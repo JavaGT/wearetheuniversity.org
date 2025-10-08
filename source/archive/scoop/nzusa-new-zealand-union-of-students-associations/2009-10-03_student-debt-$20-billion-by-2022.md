@@ -1,9 +1,12 @@
 ---
 slug: student-debt-$20-billion-by-2022
-title: "Student Debt:  $20 Billion by 2022"
-date: 2009-10-03
-source-url: https://www.scoop.co.nz/stories/PO0910/S00054/student-debt-20-billion-by-2022.htm
+title: 'Student Debt:  $20 Billion by 2022'
+date: 2009-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00054/student-debt-20-billion-by-2022.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/10/03/student-debt-/index.html
+layout: layout.njk
 ---
 Student Debt: $20 Billion by 2022
 =================================

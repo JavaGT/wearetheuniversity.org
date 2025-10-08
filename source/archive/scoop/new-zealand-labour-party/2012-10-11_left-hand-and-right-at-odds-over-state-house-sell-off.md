@@ -1,9 +1,13 @@
 ---
 slug: left-hand-and-right-at-odds-over-state-house-sell-off
-title: "Left hand and right at odds over State house sell-off"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PA1210/S00202/left-hand-and-right-at-odds-over-state-house-sell-off.htm
+title: Left hand and right at odds over State house sell-off
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00202/left-hand-and-right-at-odds-over-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/11/left-hand-and-right-at-odds-over-state-house-sell-off/index.html
+layout: layout.njk
 ---
 Left hand and right at odds over State house sell-off
 =====================================================

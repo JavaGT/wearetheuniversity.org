@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-opens-coastal-research-field-station
-title: "University of Waikato opens coastal research field station"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/ED1112/S00046/university-of-waikato-opens-coastal-research-field-station.htm
+title: University of Waikato opens coastal research field station
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00046/university-of-waikato-opens-coastal-research-field-station.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/12/08/university-of-waikato-opens-coastal-research-field-station/index.html
+layout: layout.njk
 ---
 University of Waikato opens coastal research field station
 ==========================================================

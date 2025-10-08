@@ -1,9 +1,13 @@
 ---
 slug: rocket-lab-uc-collaborating-to-educate-aerospace-engineers
-title: "Rocket Lab - UC collaborating to educate aerospace engineers"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/ED1505/S00071/rocket-lab-uc-collaborating-to-educate-aerospace-engineers.htm
+title: Rocket Lab - UC collaborating to educate aerospace engineers
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00071/rocket-lab-uc-collaborating-to-educate-aerospace-engineers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/15/rocket-lab-uc-collaborating-to-educate-aerospace-engineers/index.html
+layout: layout.njk
 ---
 Rocket Lab - UC collaborating to educate aerospace engineers
 ============================================================

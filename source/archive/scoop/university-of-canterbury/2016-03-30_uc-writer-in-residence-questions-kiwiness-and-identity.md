@@ -1,9 +1,13 @@
 ---
 slug: uc-writer-in-residence-questions-kiwiness-and-identity
-title: "UC writer in residence questions ‘kiwiness’ and identity"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/CU1603/S00516/uc-writer-in-residence-questions-kiwiness-and-identity.htm
+title: UC writer in residence questions ‘kiwiness’ and identity
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00516/uc-writer-in-residence-questions-kiwiness-and-identity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/30/uc-writer-in-residence-questions-kiwiness-and-identity/index.html
+layout: layout.njk
 ---
 UC writer in residence questions ‘kiwiness’ and identity
 ========================================================

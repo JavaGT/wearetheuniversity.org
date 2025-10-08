@@ -1,9 +1,12 @@
 ---
 slug: massey-spending-millions-on-capital-expenditure
-title: "Massey spending millions on capital expenditure"
-date: 2000-09-04
-source-url: https://www.scoop.co.nz/stories/ED0009/S00004/massey-spending-millions-on-capital-expenditure.htm
+title: Massey spending millions on capital expenditure
+date: 2000-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00004/massey-spending-millions-on-capital-expenditure.htm
 author: association-of-university-staff
+permalink: /archive/2000/09/04/massey-spending-millions-on-capital-expenditure/index.html
+layout: layout.njk
 ---
 Massey spending millions on capital expenditure
 ===============================================

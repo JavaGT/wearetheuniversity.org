@@ -1,9 +1,13 @@
 ---
 slug: small-mustelids-in-new-zealand-predator-invasion-ecology
-title: "Small mustelids in New Zealand: Predator invasion ecology"
-date: 2016-10-06
-source-url: https://www.scoop.co.nz/stories/SC1610/S00016/small-mustelids-in-new-zealand-predator-invasion-ecology.htm
+title: 'Small mustelids in New Zealand: Predator invasion ecology'
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00016/small-mustelids-in-new-zealand-predator-invasion-ecology.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/06/small-mustelids-in-new-zealand-predator-invasion-ecology/index.html
+layout: layout.njk
 ---
 Small mustelids in New Zealand: Predator invasion ecology
 =========================================================

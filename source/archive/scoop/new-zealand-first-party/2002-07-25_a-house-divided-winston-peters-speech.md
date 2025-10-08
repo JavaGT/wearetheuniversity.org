@@ -1,9 +1,12 @@
 ---
 slug: a-house-divided-winston-peters-speech
-title: "A House Divided - Winston Peters Speech"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/PA0207/S00673/a-house-divided-winston-peters-speech.htm
+title: A House Divided - Winston Peters Speech
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00673/a-house-divided-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/25/a-house-divided-winston-peters-speech/index.html
+layout: layout.njk
 ---
 A House Divided - Winston Peters Speech
 =======================================

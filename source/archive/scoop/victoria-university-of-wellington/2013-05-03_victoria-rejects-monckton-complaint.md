@@ -1,9 +1,12 @@
 ---
 slug: victoria-rejects-monckton-complaint
-title: "Victoria rejects Monckton complaint"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/ED1305/S00022/victoria-rejects-monckton-complaint.htm
+title: Victoria rejects Monckton complaint
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00022/victoria-rejects-monckton-complaint.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/03/victoria-rejects-monckton-complaint/index.html
+layout: layout.njk
 ---
 Victoria rejects Monckton complaint
 ===================================

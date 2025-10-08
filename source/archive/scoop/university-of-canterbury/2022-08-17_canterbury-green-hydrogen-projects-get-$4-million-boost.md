@@ -1,9 +1,12 @@
 ---
 slug: canterbury-green-hydrogen-projects-get-$4-million-boost
-title: "Canterbury Green Hydrogen Projects Get $4 Million Boost"
-date: 2022-08-17
-source-url: https://www.scoop.co.nz/stories/ED2208/S00028/canterbury-green-hydrogen-projects-get-4-million-boost.htm
+title: Canterbury Green Hydrogen Projects Get $4 Million Boost
+date: 2022-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00028/canterbury-green-hydrogen-projects-get-4-million-boost.htm
 author: university-of-canterbury
+permalink: /archive/2022/08/17/canterbury-green-hydrogen-projects-get-/index.html
+layout: layout.njk
 ---
 Canterbury Green Hydrogen Projects Get $4 Million Boost
 =======================================================

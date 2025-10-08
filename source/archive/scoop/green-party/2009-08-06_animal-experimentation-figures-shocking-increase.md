@@ -1,9 +1,13 @@
 ---
 slug: animal-experimentation-figures-shocking-increase
-title: "Animal experimentation figures - shocking increase"
-date: 2009-08-06
-source-url: https://www.scoop.co.nz/stories/PA0908/S00081/animal-experimentation-figures-shocking-increase.htm
+title: Animal experimentation figures - shocking increase
+date: 2009-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00081/animal-experimentation-figures-shocking-increase.htm
 author: green-party
+permalink: >-
+  /archive/2009/08/06/animal-experimentation-figures-shocking-increase/index.html
+layout: layout.njk
 ---
 Animal experimentation figures - shocking increase
 ==================================================

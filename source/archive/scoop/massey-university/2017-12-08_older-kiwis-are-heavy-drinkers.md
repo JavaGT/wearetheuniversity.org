@@ -1,9 +1,12 @@
 ---
 slug: older-kiwis-are-heavy-drinkers
-title: "Older Kiwis are heavy drinkers"
-date: 2017-12-08
-source-url: https://www.scoop.co.nz/stories/GE1712/S00029/older-kiwis-are-heavy-drinkers.htm
+title: Older Kiwis are heavy drinkers
+date: 2017-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1712/S00029/older-kiwis-are-heavy-drinkers.htm
 author: massey-university
+permalink: /archive/2017/12/08/older-kiwis-are-heavy-drinkers/index.html
+layout: layout.njk
 ---
 Older Kiwis are heavy drinkers
 ==============================

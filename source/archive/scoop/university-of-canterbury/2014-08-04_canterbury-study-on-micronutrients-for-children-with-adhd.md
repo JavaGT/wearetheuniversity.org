@@ -1,9 +1,13 @@
 ---
 slug: canterbury-study-on-micronutrients-for-children-with-adhd
-title: "Canterbury study on micronutrients for children with ADHD"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/ED1408/S00010/canterbury-study-on-micronutrients-for-children-with-adhd.htm
+title: Canterbury study on micronutrients for children with ADHD
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00010/canterbury-study-on-micronutrients-for-children-with-adhd.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/04/canterbury-study-on-micronutrients-for-children-with-adhd/index.html
+layout: layout.njk
 ---
 Canterbury study on micronutrients for children with ADHD
 =========================================================

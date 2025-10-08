@@ -1,9 +1,12 @@
 ---
 slug: electronic-monitoring-weaknesses-exposed
-title: "Electronic Monitoring Weaknesses Exposed"
-date: 2023-08-27
-source-url: https://www.scoop.co.nz/stories/PO2308/S00254/electronic-monitoring-weaknesses-exposed.htm
+title: Electronic Monitoring Weaknesses Exposed
+date: 2023-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00254/electronic-monitoring-weaknesses-exposed.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/27/electronic-monitoring-weaknesses-exposed/index.html
+layout: layout.njk
 ---
 Electronic Monitoring Weaknesses Exposed
 ========================================

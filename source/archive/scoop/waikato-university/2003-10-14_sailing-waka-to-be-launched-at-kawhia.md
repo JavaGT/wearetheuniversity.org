@@ -1,9 +1,12 @@
 ---
 slug: sailing-waka-to-be-launched-at-kawhia
-title: "Sailing Waka To Be Launched At Kawhia"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/ED0310/S00059/sailing-waka-to-be-launched-at-kawhia.htm
+title: Sailing Waka To Be Launched At Kawhia
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00059/sailing-waka-to-be-launched-at-kawhia.htm
 author: waikato-university
+permalink: /archive/2003/10/14/sailing-waka-to-be-launched-at-kawhia/index.html
+layout: layout.njk
 ---
 Sailing Waka To Be Launched At Kawhia
 =====================================

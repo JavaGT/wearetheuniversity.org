@@ -1,9 +1,12 @@
 ---
 slug: speech-to-nelson-chamber-of-commerce
-title: "Speech to Nelson Chamber of Commerce"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/PA1204/S00241/speech-to-nelson-chamber-of-commerce.htm
+title: Speech to Nelson Chamber of Commerce
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00241/speech-to-nelson-chamber-of-commerce.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/19/speech-to-nelson-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Speech to Nelson Chamber of Commerce
 ====================================

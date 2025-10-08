@@ -1,9 +1,12 @@
 ---
 slug: living-lab-takes-a-fresh-look-at-sustainability
-title: "Living Lab takes a fresh look at sustainability"
-date: 2012-06-26
-source-url: https://www.scoop.co.nz/stories/ED1206/S00118/living-lab-takes-a-fresh-look-at-sustainability.htm
+title: Living Lab takes a fresh look at sustainability
+date: 2012-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00118/living-lab-takes-a-fresh-look-at-sustainability.htm
 author: massey-university
+permalink: /archive/2012/06/26/living-lab-takes-a-fresh-look-at-sustainability/index.html
+layout: layout.njk
 ---
 Living Lab takes a fresh look at sustainability
 ===============================================

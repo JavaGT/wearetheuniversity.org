@@ -1,9 +1,12 @@
 ---
 slug: nzta-should-stay-out-of-housing-development
-title: "NZTA Should Stay Out Of Housing Development"
-date: 2023-08-11
-source-url: https://www.scoop.co.nz/stories/PA2308/S00071/nzta-should-stay-out-of-housing-development.htm
+title: NZTA Should Stay Out Of Housing Development
+date: 2023-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00071/nzta-should-stay-out-of-housing-development.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/11/nzta-should-stay-out-of-housing-development/index.html
+layout: layout.njk
 ---
 NZTA Should Stay Out Of Housing Development
 ===========================================

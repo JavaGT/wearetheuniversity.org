@@ -1,9 +1,12 @@
 ---
 slug: education-(freedom-of-association)-amendment-bill
-title: "Education (Freedom of Association) Amendment Bill"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/PA1102/S00251/education-freedom-of-association-amendment-bill.htm
+title: Education (Freedom of Association) Amendment Bill
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00251/education-freedom-of-association-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/02/17/education-/index.html
+layout: layout.njk
 ---
 Education (Freedom of Association) Amendment Bill
 =================================================

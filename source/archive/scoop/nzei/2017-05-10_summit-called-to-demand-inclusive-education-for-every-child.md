@@ -1,9 +1,13 @@
 ---
 slug: summit-called-to-demand-inclusive-education-for-every-child
-title: "Summit called to demand inclusive education for every child"
-date: 2017-05-10
-source-url: https://www.scoop.co.nz/stories/ED1705/S00048/summit-called-to-demand-inclusive-education-for-every-child.htm
+title: Summit called to demand inclusive education for every child
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00048/summit-called-to-demand-inclusive-education-for-every-child.htm
 author: nzei
+permalink: >-
+  /archive/2017/05/10/summit-called-to-demand-inclusive-education-for-every-child/index.html
+layout: layout.njk
 ---
 Summit called to demand inclusive education for every child
 ===========================================================

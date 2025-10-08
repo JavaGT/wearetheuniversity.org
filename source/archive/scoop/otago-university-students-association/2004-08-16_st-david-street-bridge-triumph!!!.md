@@ -1,9 +1,12 @@
 ---
 slug: st-david-street-bridge-triumph!!!
-title: "St David Street Bridge – TRIUMPH!!!"
-date: 2004-08-16
-source-url: https://www.scoop.co.nz/stories/ED0408/S00066/st-david-street-bridge-triumph.htm
+title: St David Street Bridge – TRIUMPH!!!
+date: 2004-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00066/st-david-street-bridge-triumph.htm
 author: otago-university-students-association
+permalink: /archive/2004/08/16/st-david-street-bridge-triumph/index.html
+layout: layout.njk
 ---
 St David Street Bridge – TRIUMPH!!!
 ===================================

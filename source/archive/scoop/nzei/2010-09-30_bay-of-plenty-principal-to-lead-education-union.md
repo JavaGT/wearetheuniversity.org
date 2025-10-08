@@ -1,9 +1,12 @@
 ---
 slug: bay-of-plenty-principal-to-lead-education-union
-title: "Bay of Plenty Principal to Lead Education Union"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/ED1009/S00149/bay-of-plenty-principal-to-lead-education-union.htm
+title: Bay of Plenty Principal to Lead Education Union
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00149/bay-of-plenty-principal-to-lead-education-union.htm
 author: nzei
+permalink: /archive/2010/09/30/bay-of-plenty-principal-to-lead-education-union/index.html
+layout: layout.njk
 ---
 Bay of Plenty Principal to Lead Education Union
 ===============================================

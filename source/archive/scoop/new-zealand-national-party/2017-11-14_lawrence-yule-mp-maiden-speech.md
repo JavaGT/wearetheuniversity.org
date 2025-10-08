@@ -1,9 +1,12 @@
 ---
 slug: lawrence-yule-mp-maiden-speech
-title: "Lawrence Yule MP: Maiden Speech"
-date: 2017-11-14
-source-url: https://www.scoop.co.nz/stories/PA1711/S00085/lawrence-yule-mp-maiden-speech.htm
+title: 'Lawrence Yule MP: Maiden Speech'
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00085/lawrence-yule-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/lawrence-yule-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Lawrence Yule MP: Maiden Speech
 ===============================

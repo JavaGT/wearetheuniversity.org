@@ -1,9 +1,12 @@
 ---
 slug: when-mark-twain-meets-the-tuataras
-title: "When Mark Twain meets the Tuataras"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/ED0712/S00022/when-mark-twain-meets-the-tuataras.htm
+title: When Mark Twain meets the Tuataras
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00022/when-mark-twain-meets-the-tuataras.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/06/when-mark-twain-meets-the-tuataras/index.html
+layout: layout.njk
 ---
 When Mark Twain meets the Tuataras
 ==================================

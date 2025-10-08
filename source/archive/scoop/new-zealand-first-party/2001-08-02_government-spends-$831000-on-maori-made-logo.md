@@ -1,9 +1,12 @@
 ---
 slug: government-spends-$831000-on-maori-made-logo
-title: "Government Spends $831,000 On Maori-Made Logo"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/PA0108/S00061/government-spends-831000-on-maori-made-logo.htm
+title: Government Spends $831,000 On Maori-Made Logo
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00061/government-spends-831000-on-maori-made-logo.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/02/government-spends-/index.html
+layout: layout.njk
 ---
 Government Spends $831,000 On Maori-Made Logo
 =============================================

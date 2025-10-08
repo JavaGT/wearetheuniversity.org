@@ -1,9 +1,12 @@
 ---
 slug: wellington-collaboratorium-an-imaginary-archive
-title: "Wellington Collaboratorium: An Imaginary Archive"
-date: 2010-06-08
-source-url: https://www.scoop.co.nz/stories/CU1006/S00075/wellington-collaboratorium-an-imaginary-archive.htm
+title: 'Wellington Collaboratorium: An Imaginary Archive'
+date: 2010-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00075/wellington-collaboratorium-an-imaginary-archive.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/06/08/wellington-collaboratorium-an-imaginary-archive/index.html
+layout: layout.njk
 ---
 Wellington Collaboratorium: An Imaginary Archive
 ================================================

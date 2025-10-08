@@ -1,9 +1,12 @@
 ---
 slug: labour-confirms-korean-trade-deal-at-risk
-title: "Labour confirms Korean trade deal at risk"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00129/labour-confirms-korean-trade-deal-at-risk.htm
+title: Labour confirms Korean trade deal at risk
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00129/labour-confirms-korean-trade-deal-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/12/labour-confirms-korean-trade-deal-at-risk/index.html
+layout: layout.njk
 ---
 Labour confirms Korean trade deal at risk
 =========================================

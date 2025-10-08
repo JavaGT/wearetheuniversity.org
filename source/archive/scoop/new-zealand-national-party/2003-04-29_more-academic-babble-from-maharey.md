@@ -1,9 +1,12 @@
 ---
 slug: more-academic-babble-from-maharey
-title: "More academic babble from Maharey"
-date: 2003-04-29
-source-url: https://www.scoop.co.nz/stories/PA0304/S00531/more-academic-babble-from-maharey.htm
+title: More academic babble from Maharey
+date: 2003-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00531/more-academic-babble-from-maharey.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/29/more-academic-babble-from-maharey/index.html
+layout: layout.njk
 ---
 More academic babble from Maharey
 =================================

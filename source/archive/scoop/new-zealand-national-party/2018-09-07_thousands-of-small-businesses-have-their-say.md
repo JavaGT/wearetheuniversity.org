@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-small-businesses-have-their-say
-title: "Thousands of small businesses have their say"
-date: 2018-09-07
-source-url: https://www.scoop.co.nz/stories/PA1809/S00087/thousands-of-small-businesses-have-their-say.htm
+title: Thousands of small businesses have their say
+date: 2018-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00087/thousands-of-small-businesses-have-their-say.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/07/thousands-of-small-businesses-have-their-say/index.html
+layout: layout.njk
 ---
 Thousands of small businesses have their say
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-back-down-on-student-ban
-title: "Time To Back Down On Student Ban"
-date: 2022-04-15
-source-url: https://www.scoop.co.nz/stories/PA2204/S00124/time-to-back-down-on-student-ban.htm
+title: Time To Back Down On Student Ban
+date: 2022-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00124/time-to-back-down-on-student-ban.htm
 author: act-new-zealand
+permalink: /archive/2022/04/15/time-to-back-down-on-student-ban/index.html
+layout: layout.njk
 ---
 Time To Back Down On Student Ban
 ================================

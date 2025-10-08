@@ -1,9 +1,12 @@
 ---
 slug: nga-moteatea-launch;-waipapa-marae
-title: "Nga Moteatea Launch; Waipapa Marae"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/CU0707/S00208/nga-moteatea-launch-waipapa-marae.htm
+title: Nga Moteatea Launch; Waipapa Marae
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00208/nga-moteatea-launch-waipapa-marae.htm
 author: te-pati-maori
+permalink: /archive/2007/07/20/nga-moteatea-launch/index.html
+layout: layout.njk
 ---
 Nga Moteatea Launch; Waipapa Marae
 ==================================

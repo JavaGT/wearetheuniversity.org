@@ -1,9 +1,12 @@
 ---
 slug: massey-university-latin-american-film-fest-@-albany-campus
-title: "Massey University - Latin American Film Fest @ Albany campus"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/AK1309/S00351/massey-university-latin-american-film-fest-albany-campus.htm
+title: Massey University - Latin American Film Fest @ Albany campus
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00351/massey-university-latin-american-film-fest-albany-campus.htm
 author: massey-university
+permalink: /archive/2013/09/11/massey-university-latin-american-film-fest-/index.html
+layout: layout.njk
 ---
 Massey University - Latin American Film Fest @ Albany campus
 ============================================================

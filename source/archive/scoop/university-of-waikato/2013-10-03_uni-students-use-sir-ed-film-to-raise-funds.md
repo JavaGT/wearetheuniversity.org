@@ -1,9 +1,12 @@
 ---
 slug: uni-students-use-sir-ed-film-to-raise-funds
-title: "Uni students use Sir Ed film to raise funds"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/ED1310/S00039/uni-students-use-sir-ed-film-to-raise-funds.htm
+title: Uni students use Sir Ed film to raise funds
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00039/uni-students-use-sir-ed-film-to-raise-funds.htm
 author: university-of-waikato
+permalink: /archive/2013/10/03/uni-students-use-sir-ed-film-to-raise-funds/index.html
+layout: layout.njk
 ---
 Uni students use Sir Ed film to raise funds
 ===========================================

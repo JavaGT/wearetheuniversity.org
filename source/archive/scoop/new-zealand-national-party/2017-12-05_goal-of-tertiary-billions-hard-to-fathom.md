@@ -1,9 +1,12 @@
 ---
 slug: goal-of-tertiary-billions-hard-to-fathom
-title: "Goal of tertiary billions hard to fathom"
-date: 2017-12-05
-source-url: https://www.scoop.co.nz/stories/PA1712/S00034/goal-of-tertiary-billions-hard-to-fathom.htm
+title: Goal of tertiary billions hard to fathom
+date: 2017-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00034/goal-of-tertiary-billions-hard-to-fathom.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/05/goal-of-tertiary-billions-hard-to-fathom/index.html
+layout: layout.njk
 ---
 Goal of tertiary billions hard to fathom
 ========================================

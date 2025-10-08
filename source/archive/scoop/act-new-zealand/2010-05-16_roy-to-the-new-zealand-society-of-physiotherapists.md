@@ -1,9 +1,13 @@
 ---
 slug: roy-to-the-new-zealand-society-of-physiotherapists
-title: "Roy To The New Zealand Society Of Physiotherapists"
-date: 2010-05-16
-source-url: https://www.scoop.co.nz/stories/PA1005/S00224/roy-to-the-new-zealand-society-of-physiotherapists.htm
+title: Roy To The New Zealand Society Of Physiotherapists
+date: 2010-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00224/roy-to-the-new-zealand-society-of-physiotherapists.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2010/05/16/roy-to-the-new-zealand-society-of-physiotherapists/index.html
+layout: layout.njk
 ---
 Roy To The New Zealand Society Of Physiotherapists
 ==================================================

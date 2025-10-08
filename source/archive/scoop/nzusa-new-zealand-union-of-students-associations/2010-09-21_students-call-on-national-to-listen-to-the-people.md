@@ -1,9 +1,13 @@
 ---
 slug: students-call-on-national-to-listen-to-the-people
-title: "Students call on National to listen to the people"
-date: 2010-09-21
-source-url: https://www.scoop.co.nz/stories/ED1009/S00097/students-call-on-national-to-listen-to-the-people.htm
+title: Students call on National to listen to the people
+date: 2010-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00097/students-call-on-national-to-listen-to-the-people.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/09/21/students-call-on-national-to-listen-to-the-people/index.html
+layout: layout.njk
 ---
 Students call on National to listen to the people
 =================================================

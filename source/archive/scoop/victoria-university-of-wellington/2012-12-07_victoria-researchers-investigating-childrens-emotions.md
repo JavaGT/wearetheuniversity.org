@@ -1,9 +1,13 @@
 ---
 slug: victoria-researchers-investigating-childrens-emotions
-title: "Victoria researchers investigating children’s emotions"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/SC1212/S00017/victoria-researchers-investigating-childrens-emotions.htm
+title: Victoria researchers investigating children’s emotions
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00017/victoria-researchers-investigating-childrens-emotions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/12/07/victoria-researchers-investigating-childrens-emotions/index.html
+layout: layout.njk
 ---
 Victoria researchers investigating children’s emotions
 ======================================================

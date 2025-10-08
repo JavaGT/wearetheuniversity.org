@@ -1,9 +1,12 @@
 ---
 slug: no-price-high-enough-for-doc-land-grab
-title: "No price high enough for DOC land grab"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/PA0406/S00030/no-price-high-enough-for-doc-land-grab.htm
+title: No price high enough for DOC land grab
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00030/no-price-high-enough-for-doc-land-grab.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/02/no-price-high-enough-for-doc-land-grab/index.html
+layout: layout.njk
 ---
 No price high enough for DOC land grab
 ======================================

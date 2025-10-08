@@ -1,9 +1,12 @@
 ---
 slug: community-service-goes-hand-in-hand-with-study
-title: "Community service goes hand-in-hand with study"
-date: 2008-04-22
-source-url: https://www.scoop.co.nz/stories/ED0804/S00063/community-service-goes-hand-in-hand-with-study.htm
+title: Community service goes hand-in-hand with study
+date: 2008-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00063/community-service-goes-hand-in-hand-with-study.htm
 author: massey-university
+permalink: /archive/2008/04/22/community-service-goes-hand-in-hand-with-study/index.html
+layout: layout.njk
 ---
 Community service goes hand-in-hand with study
 ==============================================

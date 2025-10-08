@@ -1,9 +1,13 @@
 ---
 slug: aut-hosts-youthline-fono-to-look-at-health-issues
-title: "AUT hosts Youthline Fono to look at health issues"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/CU1103/S00556/aut-hosts-youthline-fono-to-look-at-health-issues.htm
+title: AUT hosts Youthline Fono to look at health issues
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1103/S00556/aut-hosts-youthline-fono-to-look-at-health-issues.htm
 author: aut-university
+permalink: >-
+  /archive/2011/03/30/aut-hosts-youthline-fono-to-look-at-health-issues/index.html
+layout: layout.njk
 ---
 AUT hosts Youthline Fono to look at health issues
 =================================================

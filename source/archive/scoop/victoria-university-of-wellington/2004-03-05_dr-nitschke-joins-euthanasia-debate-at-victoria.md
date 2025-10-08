@@ -1,9 +1,12 @@
 ---
 slug: dr-nitschke-joins-euthanasia-debate-at-victoria
-title: "Dr Nitschke joins euthanasia debate at Victoria"
-date: 2004-03-05
-source-url: https://www.scoop.co.nz/stories/GE0403/S00033/dr-nitschke-joins-euthanasia-debate-at-victoria.htm
+title: Dr Nitschke joins euthanasia debate at Victoria
+date: 2004-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0403/S00033/dr-nitschke-joins-euthanasia-debate-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/05/dr-nitschke-joins-euthanasia-debate-at-victoria/index.html
+layout: layout.njk
 ---
 Dr Nitschke joins euthanasia debate at Victoria
 ===============================================

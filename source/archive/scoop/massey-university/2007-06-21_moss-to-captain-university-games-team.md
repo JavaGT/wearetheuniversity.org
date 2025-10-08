@@ -1,9 +1,12 @@
 ---
 slug: moss-to-captain-university-games-team
-title: "Moss to captain university games team"
-date: 2007-06-21
-source-url: https://www.scoop.co.nz/stories/ED0706/S00089/moss-to-captain-university-games-team.htm
+title: Moss to captain university games team
+date: 2007-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00089/moss-to-captain-university-games-team.htm
 author: massey-university
+permalink: /archive/2007/06/21/moss-to-captain-university-games-team/index.html
+layout: layout.njk
 ---
 Moss to captain university games team
 =====================================

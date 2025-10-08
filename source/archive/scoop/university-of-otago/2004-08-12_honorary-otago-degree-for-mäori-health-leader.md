@@ -1,9 +1,12 @@
 ---
 slug: honorary-otago-degree-for-mäori-health-leader
-title: "Honorary Otago Degree For Mäori Health Leader"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/ED0408/S00056/honorary-otago-degree-for-maori-health-leader.htm
+title: Honorary Otago Degree For Mäori Health Leader
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00056/honorary-otago-degree-for-maori-health-leader.htm
 author: university-of-otago
+permalink: /archive/2004/08/12/honorary-otago-degree-for-m/index.html
+layout: layout.njk
 ---
 Honorary Otago Degree For Mäori Health Leader
 =============================================

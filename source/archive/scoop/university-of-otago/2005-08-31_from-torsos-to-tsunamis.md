@@ -1,9 +1,11 @@
 ---
 slug: from-torsos-to-tsunamis
-title: "From Torsos To Tsunamis"
-date: 2005-08-31
+title: From Torsos To Tsunamis
+date: 2005-08-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0508/S00120/from-torsos-to-tsunamis.htm
 author: university-of-otago
+permalink: /archive/2005/08/31/from-torsos-to-tsunamis/index.html
+layout: layout.njk
 ---
 From Torsos To Tsunamis
 =======================

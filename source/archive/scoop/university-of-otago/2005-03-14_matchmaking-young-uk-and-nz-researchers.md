@@ -1,9 +1,12 @@
 ---
 slug: matchmaking-young-uk-and-nz-researchers
-title: "Matchmaking Young UK And NZ Researchers"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/ED0503/S00040/matchmaking-young-uk-and-nz-researchers.htm
+title: Matchmaking Young UK And NZ Researchers
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00040/matchmaking-young-uk-and-nz-researchers.htm
 author: university-of-otago
+permalink: /archive/2005/03/14/matchmaking-young-uk-and-nz-researchers/index.html
+layout: layout.njk
 ---
 Matchmaking Young UK And NZ Researchers
 =======================================

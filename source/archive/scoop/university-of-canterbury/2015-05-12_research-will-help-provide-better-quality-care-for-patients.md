@@ -1,9 +1,13 @@
 ---
 slug: research-will-help-provide-better-quality-care-for-patients
-title: "Research will help provide better quality care for patients"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/SC1505/S00033/research-will-help-provide-better-quality-care-for-patients.htm
+title: Research will help provide better quality care for patients
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00033/research-will-help-provide-better-quality-care-for-patients.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/12/research-will-help-provide-better-quality-care-for-patients/index.html
+layout: layout.njk
 ---
 Research will help provide better quality care for patients
 ===========================================================

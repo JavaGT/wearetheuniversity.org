@@ -1,9 +1,13 @@
 ---
 slug: unite-against-poverty-wages-interview-with-heleyni-pratley
-title: "Unite against poverty wages: Interview with Heleyni Pratley"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/HL1408/S00003/unite-against-poverty-wages-interview-with-heleyni-pratley.htm
+title: 'Unite against poverty wages: Interview with Heleyni Pratley'
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1408/S00003/unite-against-poverty-wages-interview-with-heleyni-pratley.htm
 author: fightback
+permalink: >-
+  /archive/2014/08/01/unite-against-poverty-wages-interview-with-heleyni-pratley/index.html
+layout: layout.njk
 ---
 Unite against poverty wages: Interview with Heleyni Pratley
 ===========================================================

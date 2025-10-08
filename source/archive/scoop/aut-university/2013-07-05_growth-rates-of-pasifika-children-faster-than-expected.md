@@ -1,9 +1,13 @@
 ---
 slug: growth-rates-of-pasifika-children-faster-than-expected
-title: "Growth rates of Pasifika children faster than expected"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/SC1307/S00017/growth-rates-of-pasifika-children-faster-than-expected.htm
+title: Growth rates of Pasifika children faster than expected
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00017/growth-rates-of-pasifika-children-faster-than-expected.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/05/growth-rates-of-pasifika-children-faster-than-expected/index.html
+layout: layout.njk
 ---
 Growth rates of Pasifika children faster than expected
 ======================================================

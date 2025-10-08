@@ -1,9 +1,13 @@
 ---
 slug: loan-changes-welcomed-by-university-students-assoc
-title: "Loan Changes Welcomed By University Students Assoc"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00012/loan-changes-welcomed-by-university-students-assoc.htm
+title: Loan Changes Welcomed By University Students Assoc
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00012/loan-changes-welcomed-by-university-students-assoc.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/02/14/loan-changes-welcomed-by-university-students-assoc/index.html
+layout: layout.njk
 ---
 Loan Changes Welcomed By University Students Assoc
 ==================================================

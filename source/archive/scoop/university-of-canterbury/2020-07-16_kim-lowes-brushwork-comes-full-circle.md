@@ -1,9 +1,12 @@
 ---
 slug: kim-lowes-brushwork-comes-full-circle
-title: "Kim Lowe’s Brushwork Comes Full Circle"
-date: 2020-07-16
-source-url: https://www.scoop.co.nz/stories/CU2007/S00101/kim-lowes-brushwork-comes-full-circle.htm
+title: Kim Lowe’s Brushwork Comes Full Circle
+date: 2020-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2007/S00101/kim-lowes-brushwork-comes-full-circle.htm
 author: university-of-canterbury
+permalink: /archive/2020/07/16/kim-lowes-brushwork-comes-full-circle/index.html
+layout: layout.njk
 ---
 Kim Lowe’s Brushwork Comes Full Circle
 ======================================

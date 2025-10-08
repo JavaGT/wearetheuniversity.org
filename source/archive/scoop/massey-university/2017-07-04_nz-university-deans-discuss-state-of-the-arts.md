@@ -1,9 +1,12 @@
 ---
 slug: nz-university-deans-discuss-state-of-the-arts
-title: "NZ university deans discuss state of the arts"
-date: 2017-07-04
-source-url: https://www.scoop.co.nz/stories/ED1707/S00009/nz-university-deans-discuss-state-of-the-arts.htm
+title: NZ university deans discuss state of the arts
+date: 2017-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00009/nz-university-deans-discuss-state-of-the-arts.htm
 author: massey-university
+permalink: /archive/2017/07/04/nz-university-deans-discuss-state-of-the-arts/index.html
+layout: layout.njk
 ---
 NZ university deans discuss state of the arts
 =============================================

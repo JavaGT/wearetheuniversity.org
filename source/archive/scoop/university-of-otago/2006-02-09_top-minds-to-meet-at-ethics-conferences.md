@@ -1,9 +1,12 @@
 ---
 slug: top-minds-to-meet-at-ethics-conferences
-title: "Top minds to meet at ethics conferences"
-date: 2006-02-09
-source-url: https://www.scoop.co.nz/stories/ED0602/S00020/top-minds-to-meet-at-ethics-conferences.htm
+title: Top minds to meet at ethics conferences
+date: 2006-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00020/top-minds-to-meet-at-ethics-conferences.htm
 author: university-of-otago
+permalink: /archive/2006/02/09/top-minds-to-meet-at-ethics-conferences/index.html
+layout: layout.njk
 ---
 Top minds to meet at ethics conferences
 =======================================

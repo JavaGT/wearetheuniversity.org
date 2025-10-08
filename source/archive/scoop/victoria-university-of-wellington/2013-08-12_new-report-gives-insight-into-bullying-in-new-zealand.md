@@ -1,9 +1,13 @@
 ---
 slug: new-report-gives-insight-into-bullying-in-new-zealand
-title: "New report gives insight into bullying in New Zealand"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/PO1308/S00166/new-report-gives-insight-into-bullying-in-new-zealand.htm
+title: New report gives insight into bullying in New Zealand
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00166/new-report-gives-insight-into-bullying-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/12/new-report-gives-insight-into-bullying-in-new-zealand/index.html
+layout: layout.njk
 ---
 New report gives insight into bullying in New Zealand
 =====================================================

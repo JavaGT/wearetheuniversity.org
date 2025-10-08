@@ -1,9 +1,11 @@
 ---
 slug: iconic-book-now-online
-title: "Iconic book now online"
-date: 2007-02-02
+title: Iconic book now online
+date: 2007-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0702/S00006/iconic-book-now-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/02/iconic-book-now-online/index.html
+layout: layout.njk
 ---
 Iconic book now online
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: extremely-unsafe-environment-no-place-for-kids
-title: "'Extremely unsafe environment' no place for kids"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00517/extremely-unsafe-environment-no-place-for-kids.htm
+title: '''Extremely unsafe environment'' no place for kids'
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00517/extremely-unsafe-environment-no-place-for-kids.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/24/extremely-unsafe-environment-no-place-for-kids/index.html
+layout: layout.njk
 ---
 'Extremely unsafe environment' no place for kids
 ================================================

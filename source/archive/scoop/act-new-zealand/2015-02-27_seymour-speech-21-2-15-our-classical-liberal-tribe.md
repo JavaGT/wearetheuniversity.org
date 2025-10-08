@@ -1,9 +1,13 @@
 ---
 slug: seymour-speech-21-2-15-our-classical-liberal-tribe
-title: "Seymour Speech [21/2/15]: Our classical liberal tribe"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/PA1502/S00371/seymour-speech-21215-our-classical-liberal-tribe.htm
+title: 'Seymour Speech [21/2/15]: Our classical liberal tribe'
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00371/seymour-speech-21215-our-classical-liberal-tribe.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/02/27/seymour-speech-21-2-15-our-classical-liberal-tribe/index.html
+layout: layout.njk
 ---
 Seymour Speech \[21/2/15\]: Our classical liberal tribe
 =======================================================

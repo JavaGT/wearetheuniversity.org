@@ -1,9 +1,13 @@
 ---
 slug: nz-academics-create-game-changing-3d-printed-heat-exchangers
-title: "NZ academics create game-changing 3D-printed heat exchangers"
-date: 2018-01-05
-source-url: https://www.scoop.co.nz/stories/ED1801/S00003/nz-academics-create-game-changing-3d-printed-heat-exchangers.htm
+title: NZ academics create game-changing 3D-printed heat exchangers
+date: 2018-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00003/nz-academics-create-game-changing-3d-printed-heat-exchangers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/05/nz-academics-create-game-changing-3d-printed-heat-exchangers/index.html
+layout: layout.njk
 ---
 NZ academics create game-changing 3D-printed heat exchangers
 ============================================================

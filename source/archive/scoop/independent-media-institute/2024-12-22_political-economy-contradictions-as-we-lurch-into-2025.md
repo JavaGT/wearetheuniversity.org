@@ -1,9 +1,13 @@
 ---
 slug: political-economy-contradictions-as-we-lurch-into-2025
-title: "Political Economy Contradictions As We Lurch Into 2025"
-date: 2024-12-22
-source-url: https://www.scoop.co.nz/stories/WO2412/S00255/political-economy-contradictions-as-we-lurch-into-2025.htm
+title: Political Economy Contradictions As We Lurch Into 2025
+date: 2024-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2412/S00255/political-economy-contradictions-as-we-lurch-into-2025.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/12/22/political-economy-contradictions-as-we-lurch-into-2025/index.html
+layout: layout.njk
 ---
 Political Economy Contradictions As We Lurch Into 2025
 ======================================================

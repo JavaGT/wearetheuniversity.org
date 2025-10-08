@@ -1,9 +1,12 @@
 ---
 slug: history-of-extra-staff-for-large-electorates
-title: "History of Extra Staff for Large Electorates"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/PO0903/S00174/history-of-extra-staff-for-large-electorates.htm
+title: History of Extra Staff for Large Electorates
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00174/history-of-extra-staff-for-large-electorates.htm
 author: te-pati-maori
+permalink: /archive/2009/03/17/history-of-extra-staff-for-large-electorates/index.html
+layout: layout.njk
 ---
 History of Extra Staff for Large Electorates
 ============================================

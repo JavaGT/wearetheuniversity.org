@@ -1,9 +1,12 @@
 ---
 slug: brash-saving-a-generation-of-young-people
-title: "Brash: Saving a generation of young people"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00426/brash-saving-a-generation-of-young-people.htm
+title: 'Brash: Saving a generation of young people'
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00426/brash-saving-a-generation-of-young-people.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/21/brash-saving-a-generation-of-young-people/index.html
+layout: layout.njk
 ---
 Brash: Saving a generation of young people
 ==========================================

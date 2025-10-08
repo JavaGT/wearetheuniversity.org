@@ -1,9 +1,12 @@
 ---
 slug: new-professor-an-expert-on-ritalin-drug-abuse
-title: "New Professor an expert on Ritalin, drug abuse"
-date: 2000-07-05
-source-url: https://www.scoop.co.nz/stories/ED0007/S00002/new-professor-an-expert-on-ritalin-drug-abuse.htm
+title: New Professor an expert on Ritalin, drug abuse
+date: 2000-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00002/new-professor-an-expert-on-ritalin-drug-abuse.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/05/new-professor-an-expert-on-ritalin-drug-abuse/index.html
+layout: layout.njk
 ---
 New Professor an expert on Ritalin, drug abuse
 ==============================================

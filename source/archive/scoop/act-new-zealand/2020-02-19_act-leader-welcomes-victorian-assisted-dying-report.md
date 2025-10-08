@@ -1,9 +1,13 @@
 ---
 slug: act-leader-welcomes-victorian-assisted-dying-report
-title: "ACT Leader Welcomes Victorian Assisted Dying Report"
-date: 2020-02-19
-source-url: https://www.scoop.co.nz/stories/PA2002/S00119/act-leader-welcomes-victorian-assisted-dying-report.htm
+title: ACT Leader Welcomes Victorian Assisted Dying Report
+date: 2020-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00119/act-leader-welcomes-victorian-assisted-dying-report.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/02/19/act-leader-welcomes-victorian-assisted-dying-report/index.html
+layout: layout.njk
 ---
 ACT Leader Welcomes Victorian Assisted Dying Report
 ===================================================

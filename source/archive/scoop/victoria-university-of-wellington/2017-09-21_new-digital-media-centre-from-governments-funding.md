@@ -1,9 +1,13 @@
 ---
 slug: new-digital-media-centre-from-governments-funding
-title: "New digital media centre from Government’s funding"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/ED1709/S00085/new-digital-media-centre-from-governments-funding.htm
+title: New digital media centre from Government’s funding
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00085/new-digital-media-centre-from-governments-funding.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/09/21/new-digital-media-centre-from-governments-funding/index.html
+layout: layout.njk
 ---
 New digital media centre from Government’s funding
 ==================================================

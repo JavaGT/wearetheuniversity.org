@@ -1,9 +1,12 @@
 ---
 slug: green-economy-in-the-spotlight
-title: "Green economy in the spotlight"
-date: 2013-07-26
-source-url: https://www.scoop.co.nz/stories/AK1307/S00700/green-economy-in-the-spotlight.htm
+title: Green economy in the spotlight
+date: 2013-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00700/green-economy-in-the-spotlight.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/26/green-economy-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Green economy in the spotlight
 ==============================

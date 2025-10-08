@@ -1,9 +1,13 @@
 ---
 slug: canterburys-seismic-lessons-ripple-across-the-globe
-title: "Canterbury’s seismic lessons ripple across the globe"
-date: 2017-09-27
-source-url: https://www.scoop.co.nz/stories/ED1709/S00114/canterburys-seismic-lessons-ripple-across-the-globe.htm
+title: Canterbury’s seismic lessons ripple across the globe
+date: 2017-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00114/canterburys-seismic-lessons-ripple-across-the-globe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/27/canterburys-seismic-lessons-ripple-across-the-globe/index.html
+layout: layout.njk
 ---
 Canterbury’s seismic lessons ripple across the globe
 ====================================================

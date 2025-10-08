@@ -1,9 +1,12 @@
 ---
 slug: affordable-housing-enabling-authorities-bill
-title: "Affordable Housing: Enabling Authorities Bill"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00324/affordable-housing-enabling-authorities-bill.htm
+title: 'Affordable Housing: Enabling Authorities Bill'
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00324/affordable-housing-enabling-authorities-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/14/affordable-housing-enabling-authorities-bill/index.html
+layout: layout.njk
 ---
 Affordable Housing: Enabling Authorities Bill
 =============================================

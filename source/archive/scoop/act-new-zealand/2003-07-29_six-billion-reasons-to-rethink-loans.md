@@ -1,9 +1,12 @@
 ---
 slug: six-billion-reasons-to-rethink-loans
-title: "Six Billion Reasons To Rethink Loans"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/PA0307/S00530/six-billion-reasons-to-rethink-loans.htm
+title: Six Billion Reasons To Rethink Loans
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00530/six-billion-reasons-to-rethink-loans.htm
 author: act-new-zealand
+permalink: /archive/2003/07/29/six-billion-reasons-to-rethink-loans/index.html
+layout: layout.njk
 ---
 Six Billion Reasons To Rethink Loans
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: auckland-border-should-remain-in-place-for-now
-title: "Auckland Border Should Remain In Place For Now"
-date: 2021-11-17
-source-url: https://www.scoop.co.nz/stories/PA2111/S00198/auckland-border-should-remain-in-place-for-now.htm
+title: Auckland Border Should Remain In Place For Now
+date: 2021-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00198/auckland-border-should-remain-in-place-for-now.htm
 author: green-party
+permalink: /archive/2021/11/17/auckland-border-should-remain-in-place-for-now/index.html
+layout: layout.njk
 ---
 Auckland Border Should Remain In Place For Now
 ==============================================

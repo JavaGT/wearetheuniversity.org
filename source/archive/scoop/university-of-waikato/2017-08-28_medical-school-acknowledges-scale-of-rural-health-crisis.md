@@ -1,9 +1,13 @@
 ---
 slug: medical-school-acknowledges-scale-of-rural-health-crisis
-title: "Medical School acknowledges scale of rural health crisis"
-date: 2017-08-28
-source-url: https://www.scoop.co.nz/stories/GE1708/S00124/medical-school-acknowledges-scale-of-rural-health-crisis.htm
+title: Medical School acknowledges scale of rural health crisis
+date: 2017-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00124/medical-school-acknowledges-scale-of-rural-health-crisis.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/08/28/medical-school-acknowledges-scale-of-rural-health-crisis/index.html
+layout: layout.njk
 ---
 Medical School acknowledges scale of rural health crisis
 ========================================================

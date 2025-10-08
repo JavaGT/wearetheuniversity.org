@@ -1,9 +1,13 @@
 ---
 slug: livestock-and-sustainability-challenges-and-opportunities
-title: "Livestock and sustainability – challenges and opportunities"
-date: 2016-07-06
-source-url: https://www.scoop.co.nz/stories/PO1607/S00066/livestock-and-sustainability-challenges-and-opportunities.htm
+title: Livestock and sustainability – challenges and opportunities
+date: 2016-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00066/livestock-and-sustainability-challenges-and-opportunities.htm
 author: massey-university
+permalink: >-
+  /archive/2016/07/06/livestock-and-sustainability-challenges-and-opportunities/index.html
+layout: layout.njk
 ---
 Livestock and sustainability – challenges and opportunities
 ===========================================================

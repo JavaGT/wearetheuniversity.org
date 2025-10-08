@@ -1,9 +1,12 @@
 ---
 slug: beneficiary-beat-up-no-cure-for-unemployment
-title: "Beneficiary beat-up no cure for unemployment"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PO1003/S00368/beneficiary-beat-up-no-cure-for-unemployment.htm
+title: Beneficiary beat-up no cure for unemployment
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00368/beneficiary-beat-up-no-cure-for-unemployment.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/03/24/beneficiary-beat-up-no-cure-for-unemployment/index.html
+layout: layout.njk
 ---
 Beneficiary beat-up no cure for unemployment
 ============================================

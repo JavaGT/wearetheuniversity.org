@@ -1,9 +1,13 @@
 ---
 slug: smell-of-success-insect-pests-avoid-boosted-pasture-grasses
-title: "Smell of success: insect pests avoid boosted pasture grasses"
-date: 2014-12-17
-source-url: https://www.scoop.co.nz/stories/SC1412/S00055/smell-of-success-insect-pests-avoid-boosted-pasture-grasses.htm
+title: 'Smell of success: insect pests avoid boosted pasture grasses'
+date: 2014-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00055/smell-of-success-insect-pests-avoid-boosted-pasture-grasses.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/12/17/smell-of-success-insect-pests-avoid-boosted-pasture-grasses/index.html
+layout: layout.njk
 ---
 Smell of success: insect pests avoid boosted pasture grasses
 ============================================================

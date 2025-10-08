@@ -1,9 +1,12 @@
 ---
 slug: manawatū-to-mark-international-dance-day
-title: "Manawatū to mark International Dance Day"
-date: 2016-04-27
-source-url: https://www.scoop.co.nz/stories/CU1604/S00323/manawatu-to-mark-international-dance-day.htm
+title: Manawatū to mark International Dance Day
+date: 2016-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1604/S00323/manawatu-to-mark-international-dance-day.htm
 author: massey-university
+permalink: /archive/2016/04/27/manawat/index.html
+layout: layout.njk
 ---
 Manawatū to mark International Dance Day
 ========================================

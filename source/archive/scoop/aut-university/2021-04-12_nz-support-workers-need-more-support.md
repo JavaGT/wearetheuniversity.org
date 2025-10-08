@@ -1,9 +1,12 @@
 ---
 slug: nz-support-workers-need-more-support
-title: "NZ Support Workers Need More Support"
-date: 2021-04-12
-source-url: https://www.scoop.co.nz/stories/BU2104/S00147/nz-support-workers-need-more-support.htm
+title: NZ Support Workers Need More Support
+date: 2021-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2104/S00147/nz-support-workers-need-more-support.htm
 author: aut-university
+permalink: /archive/2021/04/12/nz-support-workers-need-more-support/index.html
+layout: layout.njk
 ---
 NZ Support Workers Need More Support
 ====================================

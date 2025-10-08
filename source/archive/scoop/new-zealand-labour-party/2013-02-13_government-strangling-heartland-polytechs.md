@@ -1,9 +1,12 @@
 ---
 slug: government-strangling-heartland-polytechs
-title: "Government Strangling Heartland Polytechs"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00144/government-strangling-heartland-polytechs.htm
+title: Government Strangling Heartland Polytechs
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00144/government-strangling-heartland-polytechs.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/13/government-strangling-heartland-polytechs/index.html
+layout: layout.njk
 ---
 Government Strangling Heartland Polytechs
 =========================================

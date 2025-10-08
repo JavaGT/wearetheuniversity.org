@@ -1,9 +1,12 @@
 ---
 slug: hamilton-student-enjoys-uni-life
-title: "Hamilton student enjoys uni life"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/ED1405/S00127/hamilton-student-enjoys-uni-life.htm
+title: Hamilton student enjoys uni life
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00127/hamilton-student-enjoys-uni-life.htm
 author: university-of-waikato
+permalink: /archive/2014/05/26/hamilton-student-enjoys-uni-life/index.html
+layout: layout.njk
 ---
 Hamilton student enjoys uni life
 ================================

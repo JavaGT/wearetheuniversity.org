@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-supports-research-into-veterans-health
-title: "University of Otago supports research into veterans’ health"
-date: 2012-02-22
-source-url: https://www.scoop.co.nz/stories/ED1202/S00097/university-of-otago-supports-research-into-veterans-health.htm
+title: University of Otago supports research into veterans’ health
+date: 2012-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00097/university-of-otago-supports-research-into-veterans-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/22/university-of-otago-supports-research-into-veterans-health/index.html
+layout: layout.njk
 ---
 University of Otago supports research into veterans’ health
 ===========================================================

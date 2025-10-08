@@ -1,9 +1,13 @@
 ---
 slug: breastfeeding-women-call-for-more-support-at-work
-title: "Breastfeeding women call for more support at work"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/ED0608/S00019/breastfeeding-women-call-for-more-support-at-work.htm
+title: Breastfeeding women call for more support at work
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00019/breastfeeding-women-call-for-more-support-at-work.htm
 author: aut-university
+permalink: >-
+  /archive/2006/08/04/breastfeeding-women-call-for-more-support-at-work/index.html
+layout: layout.njk
 ---
 Breastfeeding women call for more support at work
 =================================================

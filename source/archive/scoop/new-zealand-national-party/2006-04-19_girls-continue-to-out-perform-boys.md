@@ -1,9 +1,12 @@
 ---
 slug: girls-continue-to-out-perform-boys
-title: "Girls continue to out-perform boys"
-date: 2006-04-19
-source-url: https://www.scoop.co.nz/stories/PA0604/S00306/girls-continue-to-out-perform-boys.htm
+title: Girls continue to out-perform boys
+date: 2006-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00306/girls-continue-to-out-perform-boys.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/19/girls-continue-to-out-perform-boys/index.html
+layout: layout.njk
 ---
 Girls continue to out-perform boys
 ==================================

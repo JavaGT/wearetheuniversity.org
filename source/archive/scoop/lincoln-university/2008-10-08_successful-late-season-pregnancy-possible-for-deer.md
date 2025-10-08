@@ -1,9 +1,13 @@
 ---
 slug: successful-late-season-pregnancy-possible-for-deer
-title: "Successful late season pregnancy possible for deer"
-date: 2008-10-08
-source-url: https://www.scoop.co.nz/stories/ED0810/S00027/successful-late-season-pregnancy-possible-for-deer.htm
+title: Successful late season pregnancy possible for deer
+date: 2008-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00027/successful-late-season-pregnancy-possible-for-deer.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/10/08/successful-late-season-pregnancy-possible-for-deer/index.html
+layout: layout.njk
 ---
 Successful late season pregnancy possible for deer
 ==================================================

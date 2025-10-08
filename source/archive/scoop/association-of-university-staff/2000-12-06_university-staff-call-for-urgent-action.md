@@ -1,9 +1,12 @@
 ---
 slug: university-staff-call-for-urgent-action
-title: "University staff call for urgent action"
-date: 2000-12-06
-source-url: https://www.scoop.co.nz/stories/ED0012/S00003/university-staff-call-for-urgent-action.htm
+title: University staff call for urgent action
+date: 2000-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00003/university-staff-call-for-urgent-action.htm
 author: association-of-university-staff
+permalink: /archive/2000/12/06/university-staff-call-for-urgent-action/index.html
+layout: layout.njk
 ---
 University staff call for urgent action
 =======================================

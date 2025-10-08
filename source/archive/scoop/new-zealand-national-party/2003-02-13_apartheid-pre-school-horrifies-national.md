@@ -1,9 +1,12 @@
 ---
 slug: apartheid-pre-school-horrifies-national
-title: "Apartheid pre-school horrifies National"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00218/apartheid-pre-school-horrifies-national.htm
+title: Apartheid pre-school horrifies National
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00218/apartheid-pre-school-horrifies-national.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/13/apartheid-pre-school-horrifies-national/index.html
+layout: layout.njk
 ---
 Apartheid pre-school horrifies National
 =======================================

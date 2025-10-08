@@ -1,9 +1,12 @@
 ---
 slug: reality-of-tertiary-students-mental-health
-title: "Reality of tertiary students’ mental health"
-date: 2018-07-10
-source-url: https://www.scoop.co.nz/stories/GE1807/S00035/reality-of-tertiary-students-mental-health.htm
+title: Reality of tertiary students’ mental health
+date: 2018-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00035/reality-of-tertiary-students-mental-health.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/07/10/reality-of-tertiary-students-mental-health/index.html
+layout: layout.njk
 ---
 Reality of tertiary students’ mental health
 ===========================================

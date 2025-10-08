@@ -1,9 +1,12 @@
 ---
 slug: inaugural-head-of-school-of-govt-appointed
-title: "Inaugural Head of School of Govt appointed"
-date: 2002-12-13
-source-url: https://www.scoop.co.nz/stories/ED0212/S00025/inaugural-head-of-school-of-govt-appointed.htm
+title: Inaugural Head of School of Govt appointed
+date: 2002-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00025/inaugural-head-of-school-of-govt-appointed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/12/13/inaugural-head-of-school-of-govt-appointed/index.html
+layout: layout.njk
 ---
 Inaugural Head of School of Govt appointed
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: mäori-lullabies-subject-of-phd-research
-title: "Mäori lullabies subject of PhD research"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/ED0807/S00065/maori-lullabies-subject-of-phd-research.htm
+title: Mäori lullabies subject of PhD research
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00065/maori-lullabies-subject-of-phd-research.htm
 author: massey-university
+permalink: /archive/2008/07/21/m/index.html
+layout: layout.njk
 ---
 Mäori lullabies subject of PhD research
 =======================================

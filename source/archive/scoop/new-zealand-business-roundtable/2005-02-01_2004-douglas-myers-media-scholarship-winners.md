@@ -1,9 +1,12 @@
 ---
 slug: 2004-douglas-myers-media-scholarship-winners
-title: "2004 Douglas Myers Media Scholarship Winners"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/BU0502/S00001/2004-douglas-myers-media-scholarship-winners.htm
+title: 2004 Douglas Myers Media Scholarship Winners
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0502/S00001/2004-douglas-myers-media-scholarship-winners.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/02/01/2004-douglas-myers-media-scholarship-winners/index.html
+layout: layout.njk
 ---
 2004 Douglas Myers Media Scholarship Winners
 ============================================

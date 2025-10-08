@@ -1,9 +1,11 @@
 ---
 slug: labours-murder-case-scandal
-title: "Labour's Murder Case Scandal"
-date: 2004-09-08
+title: Labour's Murder Case Scandal
+date: 2004-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00167/labours-murder-case-scandal.htm
 author: act-new-zealand
+permalink: /archive/2004/09/08/labours-murder-case-scandal/index.html
+layout: layout.njk
 ---
 Labour's Murder Case Scandal
 ============================

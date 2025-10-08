@@ -1,9 +1,11 @@
 ---
 slug: government-concedes-on-ncea
-title: "Government Concedes On NCEA"
-date: 2001-03-22
+title: Government Concedes On NCEA
+date: 2001-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0103/S00366/government-concedes-on-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/22/government-concedes-on-ncea/index.html
+layout: layout.njk
 ---
 Government Concedes On NCEA
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: labour-leadership-candidates-in-dunedin
-title: "Labour leadership candidates in Dunedin"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PO1410/S00277/labour-leadership-candidates-in-dunedin.htm
+title: Labour leadership candidates in Dunedin
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00277/labour-leadership-candidates-in-dunedin.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/29/labour-leadership-candidates-in-dunedin/index.html
+layout: layout.njk
 ---
 Labour leadership candidates in Dunedin
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: scientist-warns-of-antarctic-ice-melt-sea-rise
-title: "Scientist warns of Antarctic ice melt, sea rise"
-date: 2009-07-02
-source-url: https://www.scoop.co.nz/stories/SC0907/S00004/scientist-warns-of-antarctic-ice-melt-sea-rise.htm
+title: Scientist warns of Antarctic ice melt, sea rise
+date: 2009-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00004/scientist-warns-of-antarctic-ice-melt-sea-rise.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/02/scientist-warns-of-antarctic-ice-melt-sea-rise/index.html
+layout: layout.njk
 ---
 Scientist warns of Antarctic ice melt, sea rise
 ===============================================

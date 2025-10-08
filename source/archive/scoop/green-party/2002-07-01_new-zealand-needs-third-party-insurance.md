@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-needs-third-party-insurance
-title: "New Zealand Needs Third Party Insurance"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PA0207/S00022/new-zealand-needs-third-party-insurance.htm
+title: New Zealand Needs Third Party Insurance
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00022/new-zealand-needs-third-party-insurance.htm
 author: green-party
+permalink: /archive/2002/07/01/new-zealand-needs-third-party-insurance/index.html
+layout: layout.njk
 ---
 New Zealand Needs Third Party Insurance
 =======================================

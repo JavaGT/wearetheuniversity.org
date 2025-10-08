@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-wont-lessen-lure-of-australia
-title: "Tax cuts won’t lessen lure of Australia"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/PO1005/S00206/tax-cuts-wont-lessen-lure-of-australia.htm
+title: Tax cuts won’t lessen lure of Australia
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00206/tax-cuts-wont-lessen-lure-of-australia.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/05/20/tax-cuts-wont-lessen-lure-of-australia/index.html
+layout: layout.njk
 ---
 Tax cuts won’t lessen lure of Australia
 =======================================

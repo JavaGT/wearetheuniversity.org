@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-supports-national-on-benson-pope
-title: "Prime Minister supports National on Benson-Pope"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/PA0603/S00051/prime-minister-supports-national-on-benson-pope.htm
+title: Prime Minister supports National on Benson-Pope
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00051/prime-minister-supports-national-on-benson-pope.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/02/prime-minister-supports-national-on-benson-pope/index.html
+layout: layout.njk
 ---
 Prime Minister supports National on Benson-Pope
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: sir-collin-tukuitonga-appointed-to-who-strategic-and-advisory-group
-title: "Sir Collin Tukuitonga Appointed To WHO Strategic And Advisory Group"
-date: 2024-06-11
-source-url: https://www.scoop.co.nz/stories/GE2406/S00050/sir-collin-tukuitonga-appointed-to-who-strategic-and-advisory-group.htm
+title: Sir Collin Tukuitonga Appointed To WHO Strategic And Advisory Group
+date: 2024-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00050/sir-collin-tukuitonga-appointed-to-who-strategic-and-advisory-group.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/11/sir-collin-tukuitonga-appointed-to-who-strategic-and-advisory-group/index.html
+layout: layout.njk
 ---
 Sir Collin Tukuitonga Appointed To WHO Strategic And Advisory Group
 ===================================================================

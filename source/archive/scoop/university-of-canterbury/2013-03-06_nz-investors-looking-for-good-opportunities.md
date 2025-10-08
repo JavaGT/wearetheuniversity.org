@@ -1,9 +1,12 @@
 ---
 slug: nz-investors-looking-for-good-opportunities
-title: "NZ investors looking for good opportunities"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/PO1303/S00068/nz-investors-looking-for-good-opportunities.htm
+title: NZ investors looking for good opportunities
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00068/nz-investors-looking-for-good-opportunities.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/06/nz-investors-looking-for-good-opportunities/index.html
+layout: layout.njk
 ---
 NZ investors looking for good opportunities
 ===========================================

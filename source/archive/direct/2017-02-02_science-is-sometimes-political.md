@@ -1,11 +1,13 @@
 ---
-title: "Science is, sometimes, political"
-date: 2017-02-02
+title: Science is, sometimes, political
+date: 2017-02-02T00:00:00.000Z
 slug: science-is-sometimes-political
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2017/02/02/science-is-sometimes-political/index.html
+layout: layout.njk
 ---
 
 The New Zealand Association of Scientists (Inc.)

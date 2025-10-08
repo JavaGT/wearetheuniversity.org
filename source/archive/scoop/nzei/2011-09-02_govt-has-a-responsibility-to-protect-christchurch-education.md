@@ -1,9 +1,13 @@
 ---
 slug: govt-has-a-responsibility-to-protect-christchurch-education
-title: "Govt has a responsibility to protect Christchurch education"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PO1109/S00050/govt-has-a-responsibility-to-protect-christchurch-education.htm
+title: Govt has a responsibility to protect Christchurch education
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00050/govt-has-a-responsibility-to-protect-christchurch-education.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/02/govt-has-a-responsibility-to-protect-christchurch-education/index.html
+layout: layout.njk
 ---
 Govt has a responsibility to protect Christchurch education
 ===========================================================

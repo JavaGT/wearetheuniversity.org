@@ -1,9 +1,12 @@
 ---
 slug: women-support-change-to-loan-scheme
-title: "Women support change to loan scheme"
-date: 2004-05-13
-source-url: https://www.scoop.co.nz/stories/ED0405/S00057/women-support-change-to-loan-scheme.htm
+title: Women support change to loan scheme
+date: 2004-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00057/women-support-change-to-loan-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/13/women-support-change-to-loan-scheme/index.html
+layout: layout.njk
 ---
 Women support change to loan scheme
 ===================================

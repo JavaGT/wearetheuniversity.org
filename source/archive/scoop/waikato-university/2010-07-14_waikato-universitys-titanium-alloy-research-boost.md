@@ -1,9 +1,13 @@
 ---
 slug: waikato-universitys-titanium-alloy-research-boost
-title: "Waikato University’s titanium alloy research boost"
-date: 2010-07-14
-source-url: https://www.scoop.co.nz/stories/ED1007/S00049/waikato-universitys-titanium-alloy-research-boost.htm
+title: Waikato University’s titanium alloy research boost
+date: 2010-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00049/waikato-universitys-titanium-alloy-research-boost.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/07/14/waikato-universitys-titanium-alloy-research-boost/index.html
+layout: layout.njk
 ---
 Waikato University’s titanium alloy research boost
 ==================================================

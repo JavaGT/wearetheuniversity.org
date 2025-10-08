@@ -1,9 +1,12 @@
 ---
 slug: digital-preservation-of-earthquake-images
-title: "Digital preservation of earthquake images"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/AK1502/S00472/digital-preservation-of-earthquake-images.htm
+title: Digital preservation of earthquake images
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00472/digital-preservation-of-earthquake-images.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/20/digital-preservation-of-earthquake-images/index.html
+layout: layout.njk
 ---
 Digital preservation of earthquake images
 =========================================

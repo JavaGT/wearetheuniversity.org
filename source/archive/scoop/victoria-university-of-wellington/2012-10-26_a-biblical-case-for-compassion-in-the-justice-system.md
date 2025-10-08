@@ -1,9 +1,13 @@
 ---
 slug: a-biblical-case-for-compassion-in-the-justice-system
-title: "A biblical case for compassion in the justice system"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/PO1210/S00412/a-biblical-case-for-compassion-in-the-justice-system.htm
+title: A biblical case for compassion in the justice system
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00412/a-biblical-case-for-compassion-in-the-justice-system.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/10/26/a-biblical-case-for-compassion-in-the-justice-system/index.html
+layout: layout.njk
 ---
 A biblical case for compassion in the justice system
 ====================================================

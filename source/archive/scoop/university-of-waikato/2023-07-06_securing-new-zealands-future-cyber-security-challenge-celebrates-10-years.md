@@ -1,9 +1,13 @@
 ---
 slug: securing-new-zealands-future-cyber-security-challenge-celebrates-10-years
-title: "Securing New Zealand’s Future: Cyber Security Challenge Celebrates 10 Years"
-date: 2023-07-06
-source-url: https://www.scoop.co.nz/stories/ED2307/S00010/securing-new-zealands-future-cyber-security-challenge-celebrates-10-years.htm
+title: 'Securing New Zealand’s Future: Cyber Security Challenge Celebrates 10 Years'
+date: 2023-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00010/securing-new-zealands-future-cyber-security-challenge-celebrates-10-years.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/07/06/securing-new-zealands-future-cyber-security-challenge-celebrates-10-years/index.html
+layout: layout.njk
 ---
 Securing New Zealand’s Future: Cyber Security Challenge Celebrates 10 Years
 ===========================================================================

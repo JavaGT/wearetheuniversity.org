@@ -1,9 +1,13 @@
 ---
 slug: uc-research-finds-astroenteritis-following-2011-earthquake
-title: "UC research finds astroenteritis following 2011 earthquake"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/SC1311/S00045/uc-research-finds-astroenteritis-following-2011-earthquake.htm
+title: UC research finds astroenteritis following 2011 earthquake
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00045/uc-research-finds-astroenteritis-following-2011-earthquake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/13/uc-research-finds-astroenteritis-following-2011-earthquake/index.html
+layout: layout.njk
 ---
 UC research finds astroenteritis following 2011 earthquake
 ==========================================================

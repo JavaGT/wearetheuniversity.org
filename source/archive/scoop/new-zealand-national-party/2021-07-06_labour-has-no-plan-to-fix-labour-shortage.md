@@ -1,9 +1,12 @@
 ---
 slug: labour-has-no-plan-to-fix-labour-shortage
-title: "Labour Has No Plan To Fix Labour Shortage"
-date: 2021-07-06
-source-url: https://www.scoop.co.nz/stories/PA2107/S00049/labour-has-no-plan-to-fix-labour-shortage.htm
+title: Labour Has No Plan To Fix Labour Shortage
+date: 2021-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00049/labour-has-no-plan-to-fix-labour-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/06/labour-has-no-plan-to-fix-labour-shortage/index.html
+layout: layout.njk
 ---
 Labour Has No Plan To Fix Labour Shortage
 =========================================

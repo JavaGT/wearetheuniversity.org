@@ -1,9 +1,13 @@
 ---
 slug: reconsider-costly-wellington-health-lab-contract
-title: "Reconsider Costly Wellington Health Lab Contract"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00424/reconsider-costly-wellington-health-lab-contract.htm
+title: Reconsider Costly Wellington Health Lab Contract
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00424/reconsider-costly-wellington-health-lab-contract.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2006/06/21/reconsider-costly-wellington-health-lab-contract/index.html
+layout: layout.njk
 ---
 Reconsider Costly Wellington Health Lab Contract
 ================================================

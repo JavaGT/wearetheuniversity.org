@@ -1,9 +1,13 @@
 ---
 slug: dunedin-study-tv-documentary-wins-prestigious-award
-title: "Dunedin Study TV documentary wins prestigious award"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/CU1604/S00281/dunedin-study-tv-documentary-wins-prestigious-award.htm
+title: Dunedin Study TV documentary wins prestigious award
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1604/S00281/dunedin-study-tv-documentary-wins-prestigious-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/22/dunedin-study-tv-documentary-wins-prestigious-award/index.html
+layout: layout.njk
 ---
 Dunedin Study TV documentary wins prestigious award
 ===================================================

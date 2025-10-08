@@ -1,9 +1,12 @@
 ---
 slug: students-applaud-tai-poutinis-zero-fee-scheme
-title: "Students applaud Tai Poutini’s zero fee scheme"
-date: 2004-07-05
-source-url: https://www.scoop.co.nz/stories/ED0407/S00015/students-applaud-tai-poutinis-zero-fee-scheme.htm
+title: Students applaud Tai Poutini’s zero fee scheme
+date: 2004-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00015/students-applaud-tai-poutinis-zero-fee-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/07/05/students-applaud-tai-poutinis-zero-fee-scheme/index.html
+layout: layout.njk
 ---
 Students applaud Tai Poutini’s zero fee scheme
 ==============================================

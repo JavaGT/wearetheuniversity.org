@@ -1,9 +1,12 @@
 ---
 slug: strong-support-for-lincoln-industrial-campaign
-title: "Strong Support for Lincoln Industrial Campaign"
-date: 2001-11-06
-source-url: https://www.scoop.co.nz/stories/ED0111/S00011/strong-support-for-lincoln-industrial-campaign.htm
+title: Strong Support for Lincoln Industrial Campaign
+date: 2001-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00011/strong-support-for-lincoln-industrial-campaign.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/06/strong-support-for-lincoln-industrial-campaign/index.html
+layout: layout.njk
 ---
 Strong Support for Lincoln Industrial Campaign
 ==============================================

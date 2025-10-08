@@ -1,9 +1,13 @@
 ---
 slug: uc-students-help-preserve-architectural-heritage
-title: "UC students help preserve architectural heritage"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/CU1603/S00252/uc-students-help-preserve-architectural-heritage.htm
+title: UC students help preserve architectural heritage
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00252/uc-students-help-preserve-architectural-heritage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/11/uc-students-help-preserve-architectural-heritage/index.html
+layout: layout.njk
 ---
 UC students help preserve architectural heritage
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-river-arsenic-shows-pipeline-stupidity
-title: "Waikato River arsenic shows pipeline 'stupidity'"
-date: 2003-06-09
-source-url: https://www.scoop.co.nz/stories/PA0306/S00125/waikato-river-arsenic-shows-pipeline-stupidity.htm
+title: Waikato River arsenic shows pipeline 'stupidity'
+date: 2003-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00125/waikato-river-arsenic-shows-pipeline-stupidity.htm
 author: green-party
+permalink: /archive/2003/06/09/waikato-river-arsenic-shows-pipeline-stupidity/index.html
+layout: layout.njk
 ---
 Waikato River arsenic shows pipeline 'stupidity'
 ================================================

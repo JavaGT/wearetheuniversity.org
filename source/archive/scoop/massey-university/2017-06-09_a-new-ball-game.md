@@ -1,9 +1,11 @@
 ---
 slug: a-new-ball-game
-title: "A New Ball Game?"
-date: 2017-06-09
+title: A New Ball Game?
+date: 2017-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1706/S00164/a-new-ball-game.htm
 author: massey-university
+permalink: /archive/2017/06/09/a-new-ball-game/index.html
+layout: layout.njk
 ---
 A New Ball Game?
 ================

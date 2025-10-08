@@ -1,9 +1,12 @@
 ---
 slug: cool-heads-still-needed-on-global-warming
-title: "Cool Heads Still Needed on Global Warming"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/BU0907/S00797/cool-heads-still-needed-on-global-warming.htm
+title: Cool Heads Still Needed on Global Warming
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00797/cool-heads-still-needed-on-global-warming.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/07/30/cool-heads-still-needed-on-global-warming/index.html
+layout: layout.njk
 ---
 Cool Heads Still Needed on Global Warming
 =========================================

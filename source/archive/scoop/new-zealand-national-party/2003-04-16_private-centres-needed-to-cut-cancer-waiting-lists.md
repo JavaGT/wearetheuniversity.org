@@ -1,9 +1,13 @@
 ---
 slug: private-centres-needed-to-cut-cancer-waiting-lists
-title: "Private centres needed to cut cancer waiting lists"
-date: 2003-04-16
-source-url: https://www.scoop.co.nz/stories/PA0304/S00329/private-centres-needed-to-cut-cancer-waiting-lists.htm
+title: Private centres needed to cut cancer waiting lists
+date: 2003-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00329/private-centres-needed-to-cut-cancer-waiting-lists.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/04/16/private-centres-needed-to-cut-cancer-waiting-lists/index.html
+layout: layout.njk
 ---
 Private centres needed to cut cancer waiting lists
 ==================================================

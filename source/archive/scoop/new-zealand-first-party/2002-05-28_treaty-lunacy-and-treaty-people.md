@@ -1,9 +1,12 @@
 ---
 slug: treaty-lunacy-and-treaty-people
-title: "Treaty Lunacy And Treaty People"
-date: 2002-05-28
-source-url: https://www.scoop.co.nz/stories/PA0205/S00640/treaty-lunacy-and-treaty-people.htm
+title: Treaty Lunacy And Treaty People
+date: 2002-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00640/treaty-lunacy-and-treaty-people.htm
 author: new-zealand-first-party
+permalink: /archive/2002/05/28/treaty-lunacy-and-treaty-people/index.html
+layout: layout.njk
 ---
 Treaty Lunacy And Treaty People
 ===============================

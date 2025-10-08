@@ -1,9 +1,13 @@
 ---
 slug: otago-cycle-trail-funding-boost-great-news-for-otago
-title: "Otago Cycle Trail Funding Boost Great News for Otago"
-date: 2019-05-24
-source-url: https://www.scoop.co.nz/stories/PA1905/S00245/otago-cycle-trail-funding-boost-great-news-for-otago.htm
+title: Otago Cycle Trail Funding Boost Great News for Otago
+date: 2019-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00245/otago-cycle-trail-funding-boost-great-news-for-otago.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/05/24/otago-cycle-trail-funding-boost-great-news-for-otago/index.html
+layout: layout.njk
 ---
 Otago Cycle Trail Funding Boost Great News for Otago
 ====================================================

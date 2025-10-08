@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-speech-hamilton-grey-power-on-the-economy
-title: "Winston Peters Speech: Hamilton Grey Power On The Economy"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/PO1105/S00369/winston-peters-speech-hamilton-grey-power-on-the-economy.htm
+title: 'Winston Peters Speech: Hamilton Grey Power On The Economy'
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00369/winston-peters-speech-hamilton-grey-power-on-the-economy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/05/23/winston-peters-speech-hamilton-grey-power-on-the-economy/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: Hamilton Grey Power On The Economy
 =========================================================

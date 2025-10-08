@@ -1,9 +1,16 @@
 ---
-slug: usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme
-title: "USP To Serve As Regional Hub For The Newly Launched King’s Commonwealth Fellowships Programme"
-date: 2024-10-24
-source-url: https://www.scoop.co.nz/stories/ED2410/S00036/usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme.htm
+slug: >-
+  usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme
+title: >-
+  USP To Serve As Regional Hub For The Newly Launched King’s Commonwealth
+  Fellowships Programme
+date: 2024-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00036/usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/10/24/usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme/index.html
+layout: layout.njk
 ---
 USP To Serve As Regional Hub For The Newly Launched King’s Commonwealth Fellowships Programme
 =============================================================================================

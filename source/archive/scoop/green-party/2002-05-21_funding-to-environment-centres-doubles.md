@@ -1,9 +1,12 @@
 ---
 slug: funding-to-environment-centres-doubles
-title: "Funding To Environment Centres Doubles"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00422/funding-to-environment-centres-doubles.htm
+title: Funding To Environment Centres Doubles
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00422/funding-to-environment-centres-doubles.htm
 author: green-party
+permalink: /archive/2002/05/21/funding-to-environment-centres-doubles/index.html
+layout: layout.njk
 ---
 Funding To Environment Centres Doubles
 ======================================

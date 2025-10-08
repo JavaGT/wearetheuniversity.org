@@ -1,9 +1,12 @@
 ---
 slug: internet-call-is-an-open-source-opportunity
-title: "Internet call is an 'Open Source' opportunity"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00072/internet-call-is-an-open-source-opportunity.htm
+title: Internet call is an 'Open Source' opportunity
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00072/internet-call-is-an-open-source-opportunity.htm
 author: green-party
+permalink: /archive/2004/08/04/internet-call-is-an-open-source-opportunity/index.html
+layout: layout.njk
 ---
 Internet call is an 'Open Source' opportunity
 =============================================

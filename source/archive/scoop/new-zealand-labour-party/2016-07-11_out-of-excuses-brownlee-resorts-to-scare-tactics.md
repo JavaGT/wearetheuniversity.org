@@ -1,9 +1,13 @@
 ---
 slug: out-of-excuses-brownlee-resorts-to-scare-tactics
-title: "Out of excuses, Brownlee resorts to scare tactics"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PA1607/S00172/out-of-excuses-brownlee-resorts-to-scare-tactics.htm
+title: Out of excuses, Brownlee resorts to scare tactics
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00172/out-of-excuses-brownlee-resorts-to-scare-tactics.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/11/out-of-excuses-brownlee-resorts-to-scare-tactics/index.html
+layout: layout.njk
 ---
 Out of excuses, Brownlee resorts to scare tactics
 =================================================

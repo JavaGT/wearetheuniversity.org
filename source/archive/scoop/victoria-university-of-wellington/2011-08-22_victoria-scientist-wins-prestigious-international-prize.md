@@ -1,9 +1,13 @@
 ---
 slug: victoria-scientist-wins-prestigious-international-prize
-title: "Victoria scientist wins prestigious international prize"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/ED1108/S00117/victoria-scientist-wins-prestigious-international-prize.htm
+title: Victoria scientist wins prestigious international prize
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00117/victoria-scientist-wins-prestigious-international-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/22/victoria-scientist-wins-prestigious-international-prize/index.html
+layout: layout.njk
 ---
 Victoria scientist wins prestigious international prize
 =======================================================

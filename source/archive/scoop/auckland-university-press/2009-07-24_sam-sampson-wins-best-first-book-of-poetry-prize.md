@@ -1,9 +1,13 @@
 ---
 slug: sam-sampson-wins-best-first-book-of-poetry-prize
-title: "Sam Sampson Wins Best First Book of Poetry Prize"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/CU0907/S00336/sam-sampson-wins-best-first-book-of-poetry-prize.htm
+title: Sam Sampson Wins Best First Book of Poetry Prize
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00336/sam-sampson-wins-best-first-book-of-poetry-prize.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2009/07/24/sam-sampson-wins-best-first-book-of-poetry-prize/index.html
+layout: layout.njk
 ---
 Sam Sampson Wins Best First Book of Poetry Prize
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-calls-for-surplus-to-be-invested-in-staff
-title: "AUS calls for surplus to be invested in staff"
-date: 2003-03-06
-source-url: https://www.scoop.co.nz/stories/ED0303/S00011/aus-calls-for-surplus-to-be-invested-in-staff.htm
+title: AUS calls for surplus to be invested in staff
+date: 2003-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00011/aus-calls-for-surplus-to-be-invested-in-staff.htm
 author: association-of-university-staff
+permalink: /archive/2003/03/06/aus-calls-for-surplus-to-be-invested-in-staff/index.html
+layout: layout.njk
 ---
 AUS calls for surplus to be invested in staff
 =============================================

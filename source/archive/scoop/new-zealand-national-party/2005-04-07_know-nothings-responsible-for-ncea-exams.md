@@ -1,9 +1,12 @@
 ---
 slug: know-nothings-responsible-for-ncea-exams
-title: "Know-nothings responsible for NCEA exams"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/PA0504/S00146/know-nothings-responsible-for-ncea-exams.htm
+title: Know-nothings responsible for NCEA exams
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00146/know-nothings-responsible-for-ncea-exams.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/07/know-nothings-responsible-for-ncea-exams/index.html
+layout: layout.njk
 ---
 Know-nothings responsible for NCEA exams
 ========================================

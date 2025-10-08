@@ -1,9 +1,13 @@
 ---
 slug: increasing-mistakes-compromise-coronavirus-safety
-title: "Increasing Mistakes Compromise Coronavirus Safety"
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/PA2007/S00247/increasing-mistakes-compromise-coronavirus-safety.htm
+title: Increasing Mistakes Compromise Coronavirus Safety
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00247/increasing-mistakes-compromise-coronavirus-safety.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/24/increasing-mistakes-compromise-coronavirus-safety/index.html
+layout: layout.njk
 ---
 Increasing Mistakes Compromise Coronavirus Safety
 =================================================

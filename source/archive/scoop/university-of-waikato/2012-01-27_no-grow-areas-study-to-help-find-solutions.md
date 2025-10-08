@@ -1,9 +1,12 @@
 ---
 slug: no-grow-areas-study-to-help-find-solutions
-title: "No grow areas – study to help find solutions"
-date: 2012-01-27
-source-url: https://www.scoop.co.nz/stories/ED1201/S00061/no-grow-areas-study-to-help-find-solutions.htm
+title: No grow areas – study to help find solutions
+date: 2012-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00061/no-grow-areas-study-to-help-find-solutions.htm
 author: university-of-waikato
+permalink: /archive/2012/01/27/no-grow-areas-study-to-help-find-solutions/index.html
+layout: layout.njk
 ---
 No grow areas – study to help find solutions
 ============================================

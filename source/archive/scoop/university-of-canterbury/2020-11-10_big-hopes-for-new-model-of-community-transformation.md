@@ -1,9 +1,13 @@
 ---
 slug: big-hopes-for-new-model-of-community-transformation
-title: "Big Hopes For New Model Of Community Transformation"
-date: 2020-11-10
-source-url: https://www.scoop.co.nz/stories/ED2011/S00020/big-hopes-for-new-model-of-community-transformation.htm
+title: Big Hopes For New Model Of Community Transformation
+date: 2020-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00020/big-hopes-for-new-model-of-community-transformation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/10/big-hopes-for-new-model-of-community-transformation/index.html
+layout: layout.njk
 ---
 Big Hopes For New Model Of Community Transformation
 ===================================================

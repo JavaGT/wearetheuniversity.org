@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-worth-nearly-$1bn-nationally
-title: "Waikato University worth nearly $1bn nationally"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/ED0905/S00049/waikato-university-worth-nearly-1bn-nationally.htm
+title: Waikato University worth nearly $1bn nationally
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00049/waikato-university-worth-nearly-1bn-nationally.htm
 author: university-of-waikato
+permalink: /archive/2009/05/13/waikato-university-worth-nearly-/index.html
+layout: layout.njk
 ---
 Waikato University worth nearly $1bn nationally
 ===============================================

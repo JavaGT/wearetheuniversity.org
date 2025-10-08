@@ -1,9 +1,12 @@
 ---
 slug: minister-waffles-renters-in-the-cold
-title: "Minister Waffles, Renters In The Cold"
-date: 2021-02-18
-source-url: https://www.scoop.co.nz/stories/PA2102/S00105/minister-waffles-renters-in-the-cold.htm
+title: Minister Waffles, Renters In The Cold
+date: 2021-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00105/minister-waffles-renters-in-the-cold.htm
 author: act-new-zealand
+permalink: /archive/2021/02/18/minister-waffles-renters-in-the-cold/index.html
+layout: layout.njk
 ---
 Minister Waffles, Renters In The Cold
 =====================================

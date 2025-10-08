@@ -1,9 +1,12 @@
 ---
 slug: release-tvnz-protocols-mccully
-title: "Release TVNZ Protocols - Mccully"
-date: 2002-04-09
-source-url: https://www.scoop.co.nz/stories/PA0204/S00111/release-tvnz-protocols-mccully.htm
+title: Release TVNZ Protocols - Mccully
+date: 2002-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00111/release-tvnz-protocols-mccully.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/09/release-tvnz-protocols-mccully/index.html
+layout: layout.njk
 ---
 Release TVNZ Protocols - Mccully
 ================================

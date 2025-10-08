@@ -1,9 +1,12 @@
 ---
 slug: winter-lecture-series-to-look-to-the-future
-title: "Winter Lecture Series to look to the future"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/ED1406/S00093/winter-lecture-series-to-look-to-the-future.htm
+title: Winter Lecture Series to look to the future
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00093/winter-lecture-series-to-look-to-the-future.htm
 author: university-of-waikato
+permalink: /archive/2014/06/18/winter-lecture-series-to-look-to-the-future/index.html
+layout: layout.njk
 ---
 Winter Lecture Series to look to the future
 ===========================================

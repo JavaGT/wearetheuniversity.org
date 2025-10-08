@@ -1,9 +1,12 @@
 ---
 slug: sex-education-urgently-needed
-title: "Sex Education Urgently Needed"
-date: 2004-03-22
-source-url: https://www.scoop.co.nz/stories/PA0403/S00470/sex-education-urgently-needed.htm
+title: Sex Education Urgently Needed
+date: 2004-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00470/sex-education-urgently-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/22/sex-education-urgently-needed/index.html
+layout: layout.njk
 ---
 Sex Education Urgently Needed
 =============================

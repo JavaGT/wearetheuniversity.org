@@ -1,8 +1,11 @@
 ---
 slug: elam-artists-on-display
-title: "Elam artists on display"
-date: 2017-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/elam-artists-on-display-.html
+title: Elam artists on display
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/elam-artists-on-display-.html
+permalink: /archive/2017/11/21/elam-artists-on-display/index.html
+layout: layout.njk
 ---
 Elam artists on display
 =======================

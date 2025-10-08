@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-benjamin-doyle-as-candidate-for-hamilton-west
-title: "Green Party Announces Benjamin Doyle As Candidate For Hamilton West"
-date: 2023-03-24
-source-url: https://www.scoop.co.nz/stories/PA2303/S00204/green-party-announces-benjamin-doyle-as-candidate-for-hamilton-west.htm
+title: Green Party Announces Benjamin Doyle As Candidate For Hamilton West
+date: 2023-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00204/green-party-announces-benjamin-doyle-as-candidate-for-hamilton-west.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/24/green-party-announces-benjamin-doyle-as-candidate-for-hamilton-west/index.html
+layout: layout.njk
 ---
 Green Party Announces Benjamin Doyle As Candidate For Hamilton West
 ===================================================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-health-researchers-honoured
-title: "Victoria University health researchers honoured"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/GE1608/S00093/victoria-university-health-researchers-honoured.htm
+title: Victoria University health researchers honoured
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00093/victoria-university-health-researchers-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/08/19/victoria-university-health-researchers-honoured/index.html
+layout: layout.njk
 ---
 Victoria University health researchers honoured
 ===============================================

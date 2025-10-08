@@ -1,9 +1,12 @@
 ---
 slug: uc-physicists-take-a-(nano)chip-off-the-old-block
-title: "UC physicists take a (nano)chip off the old block"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/SC1702/S00067/uc-physicists-take-a-nanochip-off-the-old-block.htm
+title: UC physicists take a (nano)chip off the old block
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00067/uc-physicists-take-a-nanochip-off-the-old-block.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/22/uc-physicists-take-a-/index.html
+layout: layout.njk
 ---
 UC physicists take a (nano)chip off the old block
 =================================================

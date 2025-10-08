@@ -1,9 +1,12 @@
 ---
 slug: setting-the-scene-for-a-sustainable-future
-title: "Setting the scene for a sustainable future"
-date: 2007-11-23
-source-url: https://www.scoop.co.nz/stories/ED0711/S00101/setting-the-scene-for-a-sustainable-future.htm
+title: Setting the scene for a sustainable future
+date: 2007-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00101/setting-the-scene-for-a-sustainable-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/23/setting-the-scene-for-a-sustainable-future/index.html
+layout: layout.njk
 ---
 Setting the scene for a sustainable future
 ==========================================

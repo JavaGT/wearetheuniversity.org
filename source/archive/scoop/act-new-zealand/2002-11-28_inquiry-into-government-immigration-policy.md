@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-government-immigration-policy
-title: "Inquiry into Government Immigration Policy"
-date: 2002-11-28
-source-url: https://www.scoop.co.nz/stories/PA0211/S00649/inquiry-into-government-immigration-policy.htm
+title: Inquiry into Government Immigration Policy
+date: 2002-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00649/inquiry-into-government-immigration-policy.htm
 author: act-new-zealand
+permalink: /archive/2002/11/28/inquiry-into-government-immigration-policy/index.html
+layout: layout.njk
 ---
 Inquiry into Government Immigration Policy
 ==========================================

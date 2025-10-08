@@ -1,9 +1,13 @@
 ---
 slug: researcher-examines-link-between-viruses-and-breast-cancer
-title: "Researcher examines link between viruses and breast cancer"
-date: 2018-06-20
-source-url: https://www.scoop.co.nz/stories/SC1806/S00053/researcher-examines-link-between-viruses-and-breast-cancer.htm
+title: Researcher examines link between viruses and breast cancer
+date: 2018-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00053/researcher-examines-link-between-viruses-and-breast-cancer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/20/researcher-examines-link-between-viruses-and-breast-cancer/index.html
+layout: layout.njk
 ---
 Researcher examines link between viruses and breast cancer
 ==========================================================

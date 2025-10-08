@@ -1,9 +1,12 @@
 ---
 slug: victoria-cross-a-symbol-of-nzsas-valuable-work
-title: "Victoria Cross A Symbol Of NZSAS' Valuable Work"
-date: 2007-07-02
-source-url: https://www.scoop.co.nz/stories/PA0707/S00021/victoria-cross-a-symbol-of-nzsas-valuable-work.htm
+title: Victoria Cross A Symbol Of NZSAS' Valuable Work
+date: 2007-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00021/victoria-cross-a-symbol-of-nzsas-valuable-work.htm
 author: new-zealand-first-party
+permalink: /archive/2007/07/02/victoria-cross-a-symbol-of-nzsas-valuable-work/index.html
+layout: layout.njk
 ---
 Victoria Cross A Symbol Of NZSAS' Valuable Work
 ===============================================

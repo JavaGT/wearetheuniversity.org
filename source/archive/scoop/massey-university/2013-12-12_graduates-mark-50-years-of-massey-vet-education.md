@@ -1,9 +1,12 @@
 ---
 slug: graduates-mark-50-years-of-massey-vet-education
-title: "Graduates mark 50 years of Massey vet education"
-date: 2013-12-12
-source-url: https://www.scoop.co.nz/stories/ED1312/S00081/graduates-mark-50-years-of-massey-vet-education.htm
+title: Graduates mark 50 years of Massey vet education
+date: 2013-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00081/graduates-mark-50-years-of-massey-vet-education.htm
 author: massey-university
+permalink: /archive/2013/12/12/graduates-mark-50-years-of-massey-vet-education/index.html
+layout: layout.njk
 ---
 Graduates mark 50 years of Massey vet education
 ===============================================

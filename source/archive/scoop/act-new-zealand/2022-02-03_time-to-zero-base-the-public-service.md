@@ -1,9 +1,12 @@
 ---
 slug: time-to-zero-base-the-public-service
-title: "Time To Zero-base The Public Service"
-date: 2022-02-03
-source-url: https://www.scoop.co.nz/stories/PA2202/S00032/time-to-zero-base-the-public-service.htm
+title: Time To Zero-base The Public Service
+date: 2022-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00032/time-to-zero-base-the-public-service.htm
 author: act-new-zealand
+permalink: /archive/2022/02/03/time-to-zero-base-the-public-service/index.html
+layout: layout.njk
 ---
 Time To Zero-base The Public Service
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: fijis-russian-arms-deal-a-wake-up-call-for-nz
-title: "Fiji’s Russian arms deal a wake-up call for NZ"
-date: 2016-07-29
-source-url: https://www.scoop.co.nz/stories/WO1607/S00080/fijis-russian-arms-deal-a-wake-up-call-for-nz.htm
+title: Fiji’s Russian arms deal a wake-up call for NZ
+date: 2016-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1607/S00080/fijis-russian-arms-deal-a-wake-up-call-for-nz.htm
 author: massey-university
+permalink: /archive/2016/07/29/fijis-russian-arms-deal-a-wake-up-call-for-nz/index.html
+layout: layout.njk
 ---
 Fiji’s Russian arms deal a wake-up call for NZ
 ==============================================

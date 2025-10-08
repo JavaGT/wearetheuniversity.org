@@ -1,9 +1,11 @@
 ---
 slug: act-criticises-rata-critic
-title: "ACT Criticises Rata Critic"
-date: 2004-07-27
+title: ACT Criticises Rata Critic
+date: 2004-07-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00436/act-criticises-rata-critic.htm
 author: act-new-zealand
+permalink: /archive/2004/07/27/act-criticises-rata-critic/index.html
+layout: layout.njk
 ---
 ACT Criticises Rata Critic
 ==========================

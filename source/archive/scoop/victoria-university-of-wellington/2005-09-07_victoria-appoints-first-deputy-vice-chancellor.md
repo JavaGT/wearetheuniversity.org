@@ -1,9 +1,12 @@
 ---
 slug: victoria-appoints-first-deputy-vice-chancellor
-title: "Victoria appoints first Deputy Vice-Chancellor"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/ED0509/S00014/victoria-appoints-first-deputy-vice-chancellor.htm
+title: Victoria appoints first Deputy Vice-Chancellor
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00014/victoria-appoints-first-deputy-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/07/victoria-appoints-first-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 Victoria appoints first Deputy Vice-Chancellor
 ==============================================

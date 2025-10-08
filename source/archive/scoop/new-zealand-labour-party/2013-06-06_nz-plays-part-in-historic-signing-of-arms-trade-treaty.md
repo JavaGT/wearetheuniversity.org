@@ -1,9 +1,13 @@
 ---
 slug: nz-plays-part-in-historic-signing-of-arms-trade-treaty
-title: "NZ Plays Part In Historic Signing of Arms Trade Treaty"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PA1306/S00083/nz-plays-part-in-historic-signing-of-arms-trade-treaty.htm
+title: NZ Plays Part In Historic Signing of Arms Trade Treaty
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00083/nz-plays-part-in-historic-signing-of-arms-trade-treaty.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/06/nz-plays-part-in-historic-signing-of-arms-trade-treaty/index.html
+layout: layout.njk
 ---
 NZ Plays Part In Historic Signing of Arms Trade Treaty
 ======================================================

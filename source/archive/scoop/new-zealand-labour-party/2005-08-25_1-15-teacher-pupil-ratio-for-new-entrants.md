@@ -1,9 +1,12 @@
 ---
 slug: 1-15-teacher-pupil-ratio-for-new-entrants
-title: "1:15 teacher-pupil ratio for new entrants"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00654/115-teacher-pupil-ratio-for-new-entrants.htm
+title: 1:15 teacher-pupil ratio for new entrants
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00654/115-teacher-pupil-ratio-for-new-entrants.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/25/1-15-teacher-pupil-ratio-for-new-entrants/index.html
+layout: layout.njk
 ---
 1:15 teacher-pupil ratio for new entrants
 =========================================

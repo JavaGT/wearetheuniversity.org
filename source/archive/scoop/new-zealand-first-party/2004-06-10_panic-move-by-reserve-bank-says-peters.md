@@ -1,9 +1,12 @@
 ---
 slug: panic-move-by-reserve-bank-says-peters
-title: "Panic Move By Reserve Bank Says Peters"
-date: 2004-06-10
-source-url: https://www.scoop.co.nz/stories/PA0406/S00146/panic-move-by-reserve-bank-says-peters.htm
+title: Panic Move By Reserve Bank Says Peters
+date: 2004-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00146/panic-move-by-reserve-bank-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/10/panic-move-by-reserve-bank-says-peters/index.html
+layout: layout.njk
 ---
 Panic Move By Reserve Bank Says Peters
 ======================================

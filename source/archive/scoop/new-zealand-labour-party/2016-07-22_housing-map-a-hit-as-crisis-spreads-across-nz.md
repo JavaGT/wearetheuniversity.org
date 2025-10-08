@@ -1,9 +1,12 @@
 ---
 slug: housing-map-a-hit-as-crisis-spreads-across-nz
-title: "Housing map a hit as crisis spreads across NZ"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/PA1607/S00318/housing-map-a-hit-as-crisis-spreads-across-nz.htm
+title: Housing map a hit as crisis spreads across NZ
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00318/housing-map-a-hit-as-crisis-spreads-across-nz.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/22/housing-map-a-hit-as-crisis-spreads-across-nz/index.html
+layout: layout.njk
 ---
 Housing map a hit as crisis spreads across NZ
 =============================================

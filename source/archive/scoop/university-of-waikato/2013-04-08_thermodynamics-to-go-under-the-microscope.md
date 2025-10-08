@@ -1,9 +1,12 @@
 ---
 slug: thermodynamics-to-go-under-the-microscope
-title: "Thermodynamics to go under the microscope"
-date: 2013-04-08
-source-url: https://www.scoop.co.nz/stories/SC1304/S00015/thermodynamics-to-go-under-the-microscope.htm
+title: Thermodynamics to go under the microscope
+date: 2013-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00015/thermodynamics-to-go-under-the-microscope.htm
 author: university-of-waikato
+permalink: /archive/2013/04/08/thermodynamics-to-go-under-the-microscope/index.html
+layout: layout.njk
 ---
 Thermodynamics to go under the microscope
 =========================================

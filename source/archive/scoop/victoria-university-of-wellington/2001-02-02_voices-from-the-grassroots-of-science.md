@@ -1,9 +1,12 @@
 ---
 slug: voices-from-the-grassroots-of-science
-title: "Voices from the Grassroots of Science"
-date: 2001-02-02
-source-url: https://www.scoop.co.nz/stories/SC0102/S00007/voices-from-the-grassroots-of-science.htm
+title: Voices from the Grassroots of Science
+date: 2001-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0102/S00007/voices-from-the-grassroots-of-science.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/02/02/voices-from-the-grassroots-of-science/index.html
+layout: layout.njk
 ---
 Voices from the Grassroots of Science
 =====================================

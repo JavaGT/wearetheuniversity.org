@@ -1,9 +1,13 @@
 ---
 slug: nationals-plan-does-not-add-up-and-will-make-life-harder-for-kiwis
-title: "National’s Plan Does Not Add Up And Will Make Life Harder For Kiwis"
-date: 2023-08-30
-source-url: https://www.scoop.co.nz/stories/PA2308/S00198/nationals-plan-does-not-add-up-and-will-make-life-harder-for-kiwis.htm
+title: National’s Plan Does Not Add Up And Will Make Life Harder For Kiwis
+date: 2023-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00198/nationals-plan-does-not-add-up-and-will-make-life-harder-for-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/08/30/nationals-plan-does-not-add-up-and-will-make-life-harder-for-kiwis/index.html
+layout: layout.njk
 ---
 National’s Plan Does Not Add Up And Will Make Life Harder For Kiwis
 ===================================================================

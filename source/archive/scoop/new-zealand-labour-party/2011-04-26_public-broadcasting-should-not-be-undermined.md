@@ -1,9 +1,12 @@
 ---
 slug: public-broadcasting-should-not-be-undermined
-title: "Public broadcasting should not be undermined"
-date: 2011-04-26
-source-url: https://www.scoop.co.nz/stories/PA1104/S00474/public-broadcasting-should-not-be-undermined.htm
+title: Public broadcasting should not be undermined
+date: 2011-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00474/public-broadcasting-should-not-be-undermined.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/26/public-broadcasting-should-not-be-undermined/index.html
+layout: layout.njk
 ---
 Public broadcasting should not be undermined
 ============================================

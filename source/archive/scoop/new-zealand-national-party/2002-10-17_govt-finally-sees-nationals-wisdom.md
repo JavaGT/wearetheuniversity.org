@@ -1,9 +1,12 @@
 ---
 slug: govt-finally-sees-nationals-wisdom
-title: "Govt finally sees National’s wisdom"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/PA0210/S00381/govt-finally-sees-nationals-wisdom.htm
+title: Govt finally sees National’s wisdom
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00381/govt-finally-sees-nationals-wisdom.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/17/govt-finally-sees-nationals-wisdom/index.html
+layout: layout.njk
 ---
 Govt finally sees National’s wisdom
 ===================================

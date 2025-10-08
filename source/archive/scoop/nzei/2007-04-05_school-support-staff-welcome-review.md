@@ -1,9 +1,12 @@
 ---
 slug: school-support-staff-welcome-review
-title: "School Support Staff Welcome Review"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/ED0704/S00022/school-support-staff-welcome-review.htm
+title: School Support Staff Welcome Review
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00022/school-support-staff-welcome-review.htm
 author: nzei
+permalink: /archive/2007/04/05/school-support-staff-welcome-review/index.html
+layout: layout.njk
 ---
 School Support Staff Welcome Review
 ===================================

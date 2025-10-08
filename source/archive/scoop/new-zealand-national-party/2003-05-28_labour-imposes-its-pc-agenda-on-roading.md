@@ -1,9 +1,12 @@
 ---
 slug: labour-imposes-its-pc-agenda-on-roading
-title: "Labour imposes its PC agenda on roading"
-date: 2003-05-28
-source-url: https://www.scoop.co.nz/stories/PA0305/S00716/labour-imposes-its-pc-agenda-on-roading.htm
+title: Labour imposes its PC agenda on roading
+date: 2003-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00716/labour-imposes-its-pc-agenda-on-roading.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/28/labour-imposes-its-pc-agenda-on-roading/index.html
+layout: layout.njk
 ---
 Labour imposes its PC agenda on roading
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: shifting-the-goal-posts-a-saga-of-recent-budgets
-title: "Shifting The Goal Posts: A Saga of Recent Budgets"
-date: 2008-02-08
-source-url: https://www.scoop.co.nz/stories/BU0802/S00110/shifting-the-goal-posts-a-saga-of-recent-budgets.htm
+title: 'Shifting The Goal Posts: A Saga of Recent Budgets'
+date: 2008-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0802/S00110/shifting-the-goal-posts-a-saga-of-recent-budgets.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2008/02/08/shifting-the-goal-posts-a-saga-of-recent-budgets/index.html
+layout: layout.njk
 ---
 Shifting The Goal Posts: A Saga of Recent Budgets
 =================================================

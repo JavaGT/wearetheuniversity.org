@@ -1,9 +1,12 @@
 ---
 slug: socialism-key-to-sustainability
-title: "Socialism key to sustainability"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/PO0810/S00448/socialism-key-to-sustainability.htm
+title: Socialism key to sustainability
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00448/socialism-key-to-sustainability.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2008/10/28/socialism-key-to-sustainability/index.html
+layout: layout.njk
 ---
 Socialism key to sustainability
 ===============================

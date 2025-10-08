@@ -1,9 +1,13 @@
 ---
 slug: job-loss-figures-reveal-grim-reality-of-covid-lockdown
-title: "Job Loss Figures Reveal Grim Reality Of Covid Lockdown"
-date: 2020-09-08
-source-url: https://www.scoop.co.nz/stories/PA2009/S00064/job-loss-figures-reveal-grim-reality-of-covid-lockdown.htm
+title: Job Loss Figures Reveal Grim Reality Of Covid Lockdown
+date: 2020-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00064/job-loss-figures-reveal-grim-reality-of-covid-lockdown.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/08/job-loss-figures-reveal-grim-reality-of-covid-lockdown/index.html
+layout: layout.njk
 ---
 Job Loss Figures Reveal Grim Reality Of Covid Lockdown
 ======================================================

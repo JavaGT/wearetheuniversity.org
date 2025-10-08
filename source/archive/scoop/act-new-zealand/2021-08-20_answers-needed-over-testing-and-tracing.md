@@ -1,9 +1,12 @@
 ---
 slug: answers-needed-over-testing-and-tracing
-title: "Answers needed over testing and tracing"
-date: 2021-08-20
-source-url: https://www.scoop.co.nz/stories/PA2108/S00167/answers-needed-over-testing-and-tracing.htm
+title: Answers needed over testing and tracing
+date: 2021-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00167/answers-needed-over-testing-and-tracing.htm
 author: act-new-zealand
+permalink: /archive/2021/08/20/answers-needed-over-testing-and-tracing/index.html
+layout: layout.njk
 ---
 Answers needed over testing and tracing
 =======================================

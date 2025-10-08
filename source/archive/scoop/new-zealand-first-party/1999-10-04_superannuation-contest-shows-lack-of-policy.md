@@ -1,9 +1,12 @@
 ---
 slug: superannuation-contest-shows-lack-of-policy
-title: "Superannuation contest shows lack of policy"
-date: 1999-10-04
-source-url: https://www.scoop.co.nz/stories/PA9910/S00052/superannuation-contest-shows-lack-of-policy.htm
+title: Superannuation contest shows lack of policy
+date: 1999-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00052/superannuation-contest-shows-lack-of-policy.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/04/superannuation-contest-shows-lack-of-policy/index.html
+layout: layout.njk
 ---
 Superannuation contest shows lack of policy
 ===========================================

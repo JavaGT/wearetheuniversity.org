@@ -1,9 +1,13 @@
 ---
 slug: national-selects-emma-mellow-as-auckland-central-candidate
-title: "National Selects Emma Mellow As Auckland Central Candidate"
-date: 2020-08-10
-source-url: https://www.scoop.co.nz/stories/PO2008/S00120/national-selects-emma-mellow-as-auckland-central-candidate.htm
+title: National Selects Emma Mellow As Auckland Central Candidate
+date: 2020-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00120/national-selects-emma-mellow-as-auckland-central-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/10/national-selects-emma-mellow-as-auckland-central-candidate/index.html
+layout: layout.njk
 ---
 National Selects Emma Mellow As Auckland Central Candidate
 ==========================================================

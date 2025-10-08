@@ -1,9 +1,12 @@
 ---
 slug: nats-hysteria-wont-bring-down-power-bills
-title: "Nats Hysteria Won’t Bring Down Power Bills"
-date: 2013-04-22
-source-url: https://www.scoop.co.nz/stories/PA1304/S00428/nats-hysteria-wont-bring-down-power-bills.htm
+title: Nats Hysteria Won’t Bring Down Power Bills
+date: 2013-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00428/nats-hysteria-wont-bring-down-power-bills.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/22/nats-hysteria-wont-bring-down-power-bills/index.html
+layout: layout.njk
 ---
 Nats Hysteria Won’t Bring Down Power Bills
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: act-calls-for-government-assistance-for-alexandra
-title: "ACT calls for Government Assistance for Alexandra."
-date: 1999-11-21
-source-url: https://www.scoop.co.nz/stories/PO9911/S00127/act-calls-for-government-assistance-for-alexandra.htm
+title: ACT calls for Government Assistance for Alexandra.
+date: 1999-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00127/act-calls-for-government-assistance-for-alexandra.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/11/21/act-calls-for-government-assistance-for-alexandra/index.html
+layout: layout.njk
 ---
 ACT calls for Government Assistance for Alexandra.
 ==================================================

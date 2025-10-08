@@ -1,9 +1,12 @@
 ---
 slug: students-step-in-the-ring-steve
-title: "Students: Step In The Ring Steve"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PO0205/S00073/students-step-in-the-ring-steve.htm
+title: 'Students: Step In The Ring Steve'
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00073/students-step-in-the-ring-steve.htm
 author: auckland-university-students-association
+permalink: /archive/2002/05/07/students-step-in-the-ring-steve/index.html
+layout: layout.njk
 ---
 Students: Step In The Ring Steve
 ================================

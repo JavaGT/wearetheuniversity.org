@@ -1,9 +1,12 @@
 ---
 slug: gdp-falls-government-needs-to-rethink
-title: "GDP falls - Government needs to rethink"
-date: 2010-12-23
-source-url: https://www.scoop.co.nz/stories/PO1012/S00237/gdp-falls-government-needs-to-rethink.htm
+title: GDP falls - Government needs to rethink
+date: 2010-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00237/gdp-falls-government-needs-to-rethink.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/12/23/gdp-falls-government-needs-to-rethink/index.html
+layout: layout.njk
 ---
 GDP falls - Government needs to rethink
 =======================================

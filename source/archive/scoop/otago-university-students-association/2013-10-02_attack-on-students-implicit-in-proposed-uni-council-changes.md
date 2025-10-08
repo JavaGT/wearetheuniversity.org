@@ -1,9 +1,13 @@
 ---
 slug: attack-on-students-implicit-in-proposed-uni-council-changes
-title: "Attack on students implicit in proposed uni council changes"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00023/attack-on-students-implicit-in-proposed-uni-council-changes.htm
+title: Attack on students implicit in proposed uni council changes
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00023/attack-on-students-implicit-in-proposed-uni-council-changes.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2013/10/02/attack-on-students-implicit-in-proposed-uni-council-changes/index.html
+layout: layout.njk
 ---
 Attack on students implicit in proposed uni council changes
 ===========================================================

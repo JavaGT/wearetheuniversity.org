@@ -1,9 +1,12 @@
 ---
 slug: cup-book-design-made-of-the-write-stuff
-title: "CUP book design made of the write stuff"
-date: 2018-07-27
-source-url: https://www.scoop.co.nz/stories/CU1807/S00281/cup-book-design-made-of-the-write-stuff.htm
+title: CUP book design made of the write stuff
+date: 2018-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1807/S00281/cup-book-design-made-of-the-write-stuff.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/27/cup-book-design-made-of-the-write-stuff/index.html
+layout: layout.njk
 ---
 CUP book design made of the write stuff
 =======================================

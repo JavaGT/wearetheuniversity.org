@@ -1,9 +1,12 @@
 ---
 slug: uc-research-helps-identify-growth-of-stroke-&-heart-disease
-title: "UC research helps identify growth of stroke & heart disease"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/GE1309/S00065/uc-research-helps-identify-growth-of-stroke-heart-disease.htm
+title: UC research helps identify growth of stroke & heart disease
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00065/uc-research-helps-identify-growth-of-stroke-heart-disease.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/13/uc-research-helps-identify-growth-of-stroke-/index.html
+layout: layout.njk
 ---
 UC research helps identify growth of stroke & heart disease
 ===========================================================

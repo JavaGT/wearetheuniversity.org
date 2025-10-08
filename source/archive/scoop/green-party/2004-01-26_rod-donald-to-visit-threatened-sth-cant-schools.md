@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-to-visit-threatened-sth-cant-schools
-title: "Rod Donald to visit threatened Sth Cant. schools"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PA0401/S00199/rod-donald-to-visit-threatened-sth-cant-schools.htm
+title: Rod Donald to visit threatened Sth Cant. schools
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00199/rod-donald-to-visit-threatened-sth-cant-schools.htm
 author: green-party
+permalink: /archive/2004/01/26/rod-donald-to-visit-threatened-sth-cant-schools/index.html
+layout: layout.njk
 ---
 Rod Donald to visit threatened Sth Cant. schools
 ================================================

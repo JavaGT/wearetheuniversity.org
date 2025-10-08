@@ -1,9 +1,13 @@
 ---
 slug: 2000-more-boys-leave-school-without-qualification
-title: "2,000 more boys leave school without qualification"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/PA0609/S00229/2000-more-boys-leave-school-without-qualification.htm
+title: 2,000 more boys leave school without qualification
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00229/2000-more-boys-leave-school-without-qualification.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/11/2000-more-boys-leave-school-without-qualification/index.html
+layout: layout.njk
 ---
 2,000 more boys leave school without qualification
 ==================================================

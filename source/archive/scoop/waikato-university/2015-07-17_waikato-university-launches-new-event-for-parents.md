@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-launches-new-event-for-parents
-title: "Waikato University launches new event for parents"
-date: 2015-07-17
-source-url: https://www.scoop.co.nz/stories/ED1507/S00083/waikato-university-launches-new-event-for-parents.htm
+title: Waikato University launches new event for parents
+date: 2015-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00083/waikato-university-launches-new-event-for-parents.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/17/waikato-university-launches-new-event-for-parents/index.html
+layout: layout.njk
 ---
 Waikato University launches new event for parents
 =================================================

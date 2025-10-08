@@ -1,9 +1,13 @@
 ---
 slug: psa-kiwifruit-bacteria-entered-nz-from-china-says-expert
-title: "PSA Kiwifruit Bacteria Entered NZ From China Says Expert"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/PA1302/S00438/psa-kiwifruit-bacteria-entered-nz-from-china-says-expert.htm
+title: PSA Kiwifruit Bacteria Entered NZ From China Says Expert
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00438/psa-kiwifruit-bacteria-entered-nz-from-china-says-expert.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/02/27/psa-kiwifruit-bacteria-entered-nz-from-china-says-expert/index.html
+layout: layout.njk
 ---
 PSA Kiwifruit Bacteria Entered NZ From China Says Expert
 ========================================================

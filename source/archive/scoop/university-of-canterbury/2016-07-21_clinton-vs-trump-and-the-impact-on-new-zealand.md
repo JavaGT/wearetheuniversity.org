@@ -1,9 +1,12 @@
 ---
 slug: clinton-vs-trump-and-the-impact-on-new-zealand
-title: "Clinton vs. Trump and the impact on New Zealand"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/PO1607/S00237/clinton-vs-trump-and-the-impact-on-new-zealand.htm
+title: Clinton vs. Trump and the impact on New Zealand
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00237/clinton-vs-trump-and-the-impact-on-new-zealand.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/21/clinton-vs-trump-and-the-impact-on-new-zealand/index.html
+layout: layout.njk
 ---
 Clinton vs. Trump and the impact on New Zealand
 ===============================================

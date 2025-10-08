@@ -1,9 +1,16 @@
 ---
-slug: the-ministry-of-education-must-adopt-new-tool-for-measuring-school-performance-objectively-&-fairly
-title: "The Ministry Of Education Must Adopt New Tool For Measuring School Performance Objectively & Fairly"
-date: 2020-03-09
-source-url: https://www.scoop.co.nz/stories/ED2003/S00014/the-ministry-of-education-must-adopt-new-tool-for-measuring-school-performance-objectively-fairly.htm
+slug: >-
+  the-ministry-of-education-must-adopt-new-tool-for-measuring-school-performance-objectively-&-fairly
+title: >-
+  The Ministry Of Education Must Adopt New Tool For Measuring School Performance
+  Objectively & Fairly
+date: 2020-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2003/S00014/the-ministry-of-education-must-adopt-new-tool-for-measuring-school-performance-objectively-fairly.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2020/03/09/the-ministry-of-education-must-adopt-new-tool-for-measuring-school-performance-objectively-/index.html
+layout: layout.njk
 ---
 The Ministry Of Education Must Adopt New Tool For Measuring School Performance Objectively & Fairly
 ===================================================================================================

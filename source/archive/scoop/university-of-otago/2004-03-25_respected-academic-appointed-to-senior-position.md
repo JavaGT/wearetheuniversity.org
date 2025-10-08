@@ -1,9 +1,12 @@
 ---
 slug: respected-academic-appointed-to-senior-position
-title: "Respected Academic Appointed To Senior Position"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/ED0403/S00106/respected-academic-appointed-to-senior-position.htm
+title: Respected Academic Appointed To Senior Position
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00106/respected-academic-appointed-to-senior-position.htm
 author: university-of-otago
+permalink: /archive/2004/03/25/respected-academic-appointed-to-senior-position/index.html
+layout: layout.njk
 ---
 Respected Academic Appointed To Senior Position
 ===============================================

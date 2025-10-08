@@ -1,9 +1,12 @@
 ---
 slug: data-working-group-will-do-little-to-help-nzers
-title: "Data working group will do little to help NZers"
-date: 2018-05-07
-source-url: https://www.scoop.co.nz/stories/PA1805/S00079/data-working-group-will-do-little-to-help-nzers.htm
+title: Data working group will do little to help NZers
+date: 2018-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00079/data-working-group-will-do-little-to-help-nzers.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/07/data-working-group-will-do-little-to-help-nzers/index.html
+layout: layout.njk
 ---
 Data working group will do little to help NZers
 ===============================================

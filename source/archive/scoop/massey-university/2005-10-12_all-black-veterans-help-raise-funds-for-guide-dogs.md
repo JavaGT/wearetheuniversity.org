@@ -1,9 +1,13 @@
 ---
 slug: all-black-veterans-help-raise-funds-for-guide-dogs
-title: "All Black veterans help raise funds for guide dogs"
-date: 2005-10-12
-source-url: https://www.scoop.co.nz/stories/CU0510/S00087/all-black-veterans-help-raise-funds-for-guide-dogs.htm
+title: All Black veterans help raise funds for guide dogs
+date: 2005-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0510/S00087/all-black-veterans-help-raise-funds-for-guide-dogs.htm
 author: massey-university
+permalink: >-
+  /archive/2005/10/12/all-black-veterans-help-raise-funds-for-guide-dogs/index.html
+layout: layout.njk
 ---
 All Black veterans help raise funds for guide dogs
 ==================================================

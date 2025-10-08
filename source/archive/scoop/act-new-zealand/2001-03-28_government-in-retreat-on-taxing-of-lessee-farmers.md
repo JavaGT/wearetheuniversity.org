@@ -1,9 +1,13 @@
 ---
 slug: government-in-retreat-on-taxing-of-lessee-farmers
-title: "Government in Retreat on Taxing of Lessee Farmers"
-date: 2001-03-28
-source-url: https://www.scoop.co.nz/stories/PA0103/S00502/government-in-retreat-on-taxing-of-lessee-farmers.htm
+title: Government in Retreat on Taxing of Lessee Farmers
+date: 2001-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00502/government-in-retreat-on-taxing-of-lessee-farmers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/03/28/government-in-retreat-on-taxing-of-lessee-farmers/index.html
+layout: layout.njk
 ---
 Government in Retreat on Taxing of Lessee Farmers
 =================================================

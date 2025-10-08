@@ -1,9 +1,13 @@
 ---
 slug: bill-is-beginning-of-the-end-for-cold-and-mould-in-flats
-title: "Bill is beginning of the end for cold and mould in flats"
-date: 2016-05-05
-source-url: https://www.scoop.co.nz/stories/PO1605/S00060/bill-is-beginning-of-the-end-for-cold-and-mould-in-flats.htm
+title: Bill is beginning of the end for cold and mould in flats
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00060/bill-is-beginning-of-the-end-for-cold-and-mould-in-flats.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/05/05/bill-is-beginning-of-the-end-for-cold-and-mould-in-flats/index.html
+layout: layout.njk
 ---
 Bill is beginning of the end for cold and mould in flats
 ========================================================

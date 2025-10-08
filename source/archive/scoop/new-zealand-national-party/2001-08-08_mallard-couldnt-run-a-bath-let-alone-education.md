@@ -1,9 +1,12 @@
 ---
 slug: mallard-couldnt-run-a-bath-let-alone-education
-title: "Mallard Couldn't Run A Bath Let Alone Education"
-date: 2001-08-08
-source-url: https://www.scoop.co.nz/stories/PA0108/S00180/mallard-couldnt-run-a-bath-let-alone-education.htm
+title: Mallard Couldn't Run A Bath Let Alone Education
+date: 2001-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00180/mallard-couldnt-run-a-bath-let-alone-education.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/08/mallard-couldnt-run-a-bath-let-alone-education/index.html
+layout: layout.njk
 ---
 Mallard Couldn't Run A Bath Let Alone Education
 ===============================================

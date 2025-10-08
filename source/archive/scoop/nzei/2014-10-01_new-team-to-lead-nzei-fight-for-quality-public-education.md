@@ -1,9 +1,13 @@
 ---
 slug: new-team-to-lead-nzei-fight-for-quality-public-education
-title: "New team to lead NZEI fight for quality public education"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/ED1410/S00009/new-team-to-lead-nzei-fight-for-quality-public-education.htm
+title: New team to lead NZEI fight for quality public education
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00009/new-team-to-lead-nzei-fight-for-quality-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2014/10/01/new-team-to-lead-nzei-fight-for-quality-public-education/index.html
+layout: layout.njk
 ---
 New team to lead NZEI fight for quality public education
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: stage-one-was-a-placeholder-for-no-plan
-title: "Stage One Was A Placeholder For No Plan"
-date: 2022-02-14
-source-url: https://www.scoop.co.nz/stories/PA2202/S00091/stage-one-was-a-placeholder-for-no-plan.htm
+title: Stage One Was A Placeholder For No Plan
+date: 2022-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00091/stage-one-was-a-placeholder-for-no-plan.htm
 author: act-new-zealand
+permalink: /archive/2022/02/14/stage-one-was-a-placeholder-for-no-plan/index.html
+layout: layout.njk
 ---
 Stage One Was A Placeholder For No Plan
 =======================================

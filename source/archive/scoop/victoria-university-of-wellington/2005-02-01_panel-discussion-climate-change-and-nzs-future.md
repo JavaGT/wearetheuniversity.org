@@ -1,9 +1,12 @@
 ---
 slug: panel-discussion-climate-change-and-nzs-future
-title: "Panel Discussion: Climate Change And NZ's Future"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/SC0502/S00001/panel-discussion-climate-change-and-nzs-future.htm
+title: 'Panel Discussion: Climate Change And NZ''s Future'
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00001/panel-discussion-climate-change-and-nzs-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/02/01/panel-discussion-climate-change-and-nzs-future/index.html
+layout: layout.njk
 ---
 Panel Discussion: Climate Change And NZ's Future
 ================================================

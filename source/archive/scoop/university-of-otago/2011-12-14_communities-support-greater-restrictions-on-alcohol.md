@@ -1,9 +1,13 @@
 ---
 slug: communities-support-greater-restrictions-on-alcohol
-title: "Communities support greater restrictions on alcohol"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/ED1112/S00074/communities-support-greater-restrictions-on-alcohol.htm
+title: Communities support greater restrictions on alcohol
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00074/communities-support-greater-restrictions-on-alcohol.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/14/communities-support-greater-restrictions-on-alcohol/index.html
+layout: layout.njk
 ---
 Communities support greater restrictions on alcohol
 ===================================================

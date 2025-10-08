@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-speech-freedom-of-camping-bill
-title: "Rahui Katene Speech: Freedom of Camping Bill"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/PA1108/S00249/rahui-katene-speech-freedom-of-camping-bill.htm
+title: 'Rahui Katene Speech: Freedom of Camping Bill'
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00249/rahui-katene-speech-freedom-of-camping-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/08/12/rahui-katene-speech-freedom-of-camping-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene Speech: Freedom of Camping Bill
 ============================================

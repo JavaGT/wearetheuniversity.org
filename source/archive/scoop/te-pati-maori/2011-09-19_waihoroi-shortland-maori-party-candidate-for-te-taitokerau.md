@@ -1,9 +1,13 @@
 ---
 slug: waihoroi-shortland-maori-party-candidate-for-te-taitokerau
-title: "Waihoroi Shortland, Maori Party Candidate for Te Taitokerau"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/PO1109/S00251/waihoroi-shortland-maori-party-candidate-for-te-taitokerau.htm
+title: Waihoroi Shortland, Maori Party Candidate for Te Taitokerau
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00251/waihoroi-shortland-maori-party-candidate-for-te-taitokerau.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/19/waihoroi-shortland-maori-party-candidate-for-te-taitokerau/index.html
+layout: layout.njk
 ---
 Waihoroi Shortland, Maori Party Candidate for Te Taitokerau
 ===========================================================

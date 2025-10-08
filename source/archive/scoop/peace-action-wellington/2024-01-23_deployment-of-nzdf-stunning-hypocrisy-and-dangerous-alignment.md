@@ -1,9 +1,13 @@
 ---
 slug: deployment-of-nzdf-stunning-hypocrisy-and-dangerous-alignment
-title: "Deployment Of NZDF Stunning Hypocrisy And Dangerous Alignment"
-date: 2024-01-23
-source-url: https://www.scoop.co.nz/stories/PO2401/S00047/deployment-of-nzdf-stunning-hypocrisy-and-dangerous-alignment.htm
+title: Deployment Of NZDF Stunning Hypocrisy And Dangerous Alignment
+date: 2024-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2401/S00047/deployment-of-nzdf-stunning-hypocrisy-and-dangerous-alignment.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/01/23/deployment-of-nzdf-stunning-hypocrisy-and-dangerous-alignment/index.html
+layout: layout.njk
 ---
 Deployment Of NZDF Stunning Hypocrisy And Dangerous Alignment
 =============================================================

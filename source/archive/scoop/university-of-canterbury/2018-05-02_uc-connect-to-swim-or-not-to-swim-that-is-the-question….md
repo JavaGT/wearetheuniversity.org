@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-to-swim-or-not-to-swim-that-is-the-question…
-title: "UC Connect: To swim or not to swim? That is the question…"
-date: 2018-05-02
-source-url: https://www.scoop.co.nz/stories/PO1805/S00018/uc-connect-to-swim-or-not-to-swim-that-is-the-question.htm
+title: 'UC Connect: To swim or not to swim? That is the question…'
+date: 2018-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00018/uc-connect-to-swim-or-not-to-swim-that-is-the-question.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/05/02/uc-connect-to-swim-or-not-to-swim-that-is-the-question/index.html
+layout: layout.njk
 ---
 UC Connect: To swim or not to swim? That is the question…
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: vulnerable-to-shoulder-costs-of-poor-economic-management
-title: "Vulnerable to shoulder costs of poor economic management"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/PA1105/S00230/vulnerable-to-shoulder-costs-of-poor-economic-management.htm
+title: Vulnerable to shoulder costs of poor economic management
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00230/vulnerable-to-shoulder-costs-of-poor-economic-management.htm
 author: green-party
+permalink: >-
+  /archive/2011/05/11/vulnerable-to-shoulder-costs-of-poor-economic-management/index.html
+layout: layout.njk
 ---
 Vulnerable to shoulder costs of poor economic management
 ========================================================

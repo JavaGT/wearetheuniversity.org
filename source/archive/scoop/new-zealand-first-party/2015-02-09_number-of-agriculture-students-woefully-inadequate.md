@@ -1,9 +1,13 @@
 ---
 slug: number-of-agriculture-students-woefully-inadequate
-title: "Number of Agriculture Students Woefully Inadequate"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/PA1502/S00064/number-of-agriculture-students-woefully-inadequate.htm
+title: Number of Agriculture Students Woefully Inadequate
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00064/number-of-agriculture-students-woefully-inadequate.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/09/number-of-agriculture-students-woefully-inadequate/index.html
+layout: layout.njk
 ---
 Number of Agriculture Students Woefully Inadequate
 ==================================================

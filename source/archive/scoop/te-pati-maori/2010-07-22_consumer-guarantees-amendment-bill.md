@@ -1,9 +1,12 @@
 ---
 slug: consumer-guarantees-amendment-bill
-title: "Consumer Guarantees Amendment Bill"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/PA1007/S00344/consumer-guarantees-amendment-bill.htm
+title: Consumer Guarantees Amendment Bill
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00344/consumer-guarantees-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/07/22/consumer-guarantees-amendment-bill/index.html
+layout: layout.njk
 ---
 Consumer Guarantees Amendment Bill
 ==================================

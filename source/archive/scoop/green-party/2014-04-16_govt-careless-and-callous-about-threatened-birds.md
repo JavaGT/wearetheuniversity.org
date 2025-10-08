@@ -1,9 +1,13 @@
 ---
 slug: govt-careless-and-callous-about-threatened-birds
-title: "Govt careless and callous about threatened birds"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/PA1404/S00295/govt-careless-and-callous-about-threatened-birds.htm
+title: Govt careless and callous about threatened birds
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00295/govt-careless-and-callous-about-threatened-birds.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/16/govt-careless-and-callous-about-threatened-birds/index.html
+layout: layout.njk
 ---
 Govt careless and callous about threatened birds
 ================================================

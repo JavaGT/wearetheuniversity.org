@@ -1,9 +1,13 @@
 ---
 slug: minister-must-widen-polytech-slush-fund-scrutiny
-title: "Minister must widen polytech slush fund scrutiny"
-date: 2004-08-06
-source-url: https://www.scoop.co.nz/stories/PA0408/S00127/minister-must-widen-polytech-slush-fund-scrutiny.htm
+title: Minister must widen polytech slush fund scrutiny
+date: 2004-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00127/minister-must-widen-polytech-slush-fund-scrutiny.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/08/06/minister-must-widen-polytech-slush-fund-scrutiny/index.html
+layout: layout.njk
 ---
 Minister must widen polytech slush fund scrutiny
 ================================================

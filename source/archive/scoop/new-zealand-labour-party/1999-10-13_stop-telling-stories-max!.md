@@ -1,9 +1,11 @@
 ---
 slug: stop-telling-stories-max!
-title: "Stop telling stories Max!"
-date: 1999-10-13
+title: Stop telling stories Max!
+date: 1999-10-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00261/stop-telling-stories-max.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/13/stop-telling-stories-max/index.html
+layout: layout.njk
 ---
 Stop telling stories Max!
 =========================

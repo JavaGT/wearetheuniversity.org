@@ -1,9 +1,12 @@
 ---
 slug: uc-students-moore-and-harding-win-annual-entre-$75000
-title: "UC students Moore and Harding win annual entre $75,000"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/ED1210/S00065/uc-students-moore-and-harding-win-annual-entre-75000.htm
+title: UC students Moore and Harding win annual entre $75,000
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00065/uc-students-moore-and-harding-win-annual-entre-75000.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/09/uc-students-moore-and-harding-win-annual-entre-/index.html
+layout: layout.njk
 ---
 UC students Moore and Harding win annual entre $75,000
 ======================================================

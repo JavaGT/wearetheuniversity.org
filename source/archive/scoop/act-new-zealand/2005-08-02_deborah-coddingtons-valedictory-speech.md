@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-valedictory-speech
-title: "Deborah Coddington's valedictory speech"
-date: 2005-08-02
-source-url: https://www.scoop.co.nz/stories/PA0508/S00059/deborah-coddingtons-valedictory-speech.htm
+title: Deborah Coddington's valedictory speech
+date: 2005-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00059/deborah-coddingtons-valedictory-speech.htm
 author: act-new-zealand
+permalink: /archive/2005/08/02/deborah-coddingtons-valedictory-speech/index.html
+layout: layout.njk
 ---
 Deborah Coddington's valedictory speech
 =======================================

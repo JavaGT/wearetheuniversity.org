@@ -1,9 +1,12 @@
 ---
 slug: green-party-campaign-wraps-up
-title: "Green Party campaign wraps up"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PA1111/S00487/green-party-campaign-wraps-up.htm
+title: Green Party campaign wraps up
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00487/green-party-campaign-wraps-up.htm
 author: green-party
+permalink: /archive/2011/11/24/green-party-campaign-wraps-up/index.html
+layout: layout.njk
 ---
 Green Party campaign wraps up
 =============================

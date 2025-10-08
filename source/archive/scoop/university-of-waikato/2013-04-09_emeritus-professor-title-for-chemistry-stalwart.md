@@ -1,9 +1,12 @@
 ---
 slug: emeritus-professor-title-for-chemistry-stalwart
-title: "Emeritus Professor title for Chemistry stalwart"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/SC1304/S00020/emeritus-professor-title-for-chemistry-stalwart.htm
+title: Emeritus Professor title for Chemistry stalwart
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00020/emeritus-professor-title-for-chemistry-stalwart.htm
 author: university-of-waikato
+permalink: /archive/2013/04/09/emeritus-professor-title-for-chemistry-stalwart/index.html
+layout: layout.njk
 ---
 Emeritus Professor title for Chemistry stalwart
 ===============================================

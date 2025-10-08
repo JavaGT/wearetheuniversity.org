@@ -1,9 +1,12 @@
 ---
 slug: massey-lecturer-awarded-top-science-prize
-title: "Massey Lecturer Awarded Top Science Prize"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/SC0510/S00016/massey-lecturer-awarded-top-science-prize.htm
+title: Massey Lecturer Awarded Top Science Prize
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00016/massey-lecturer-awarded-top-science-prize.htm
 author: massey-university
+permalink: /archive/2005/10/10/massey-lecturer-awarded-top-science-prize/index.html
+layout: layout.njk
 ---
 Massey Lecturer Awarded Top Science Prize
 =========================================

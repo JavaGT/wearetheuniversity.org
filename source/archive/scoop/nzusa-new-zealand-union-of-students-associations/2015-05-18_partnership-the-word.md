@@ -1,9 +1,11 @@
 ---
 slug: partnership-the-word
-title: "Partnership the word"
-date: 2015-05-18
+title: Partnership the word
+date: 2015-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1505/S00074/partnership-the-word.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/18/partnership-the-word/index.html
+layout: layout.njk
 ---
 Partnership the word
 ====================

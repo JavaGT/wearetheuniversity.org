@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-physical-activity-education
-title: "NZEI welcomes physical activity education"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/ED0410/S00015/nzei-welcomes-physical-activity-education.htm
+title: NZEI welcomes physical activity education
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00015/nzei-welcomes-physical-activity-education.htm
 author: nzei
+permalink: /archive/2004/10/05/nzei-welcomes-physical-activity-education/index.html
+layout: layout.njk
 ---
 NZEI welcomes physical activity education
 =========================================

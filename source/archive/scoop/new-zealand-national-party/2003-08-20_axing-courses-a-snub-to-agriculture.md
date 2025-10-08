@@ -1,9 +1,12 @@
 ---
 slug: axing-courses-a-snub-to-agriculture
-title: "Axing courses a snub to agriculture"
-date: 2003-08-20
-source-url: https://www.scoop.co.nz/stories/PA0308/S00392/axing-courses-a-snub-to-agriculture.htm
+title: Axing courses a snub to agriculture
+date: 2003-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00392/axing-courses-a-snub-to-agriculture.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/20/axing-courses-a-snub-to-agriculture/index.html
+layout: layout.njk
 ---
 Axing courses a snub to agriculture
 ===================================

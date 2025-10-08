@@ -1,9 +1,13 @@
 ---
 slug: select-committee-misses-chance-to-require-healthy-homes
-title: "Select Committee Misses Chance to Require Healthy Homes"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/PO1604/S00168/select-committee-misses-chance-to-require-healthy-homes.htm
+title: Select Committee Misses Chance to Require Healthy Homes
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00168/select-committee-misses-chance-to-require-healthy-homes.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/04/13/select-committee-misses-chance-to-require-healthy-homes/index.html
+layout: layout.njk
 ---
 Select Committee Misses Chance to Require Healthy Homes
 =======================================================

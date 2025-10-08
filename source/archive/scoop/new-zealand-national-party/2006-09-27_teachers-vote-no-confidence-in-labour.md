@@ -1,9 +1,12 @@
 ---
 slug: teachers-vote-no-confidence-in-labour
-title: "Teachers vote no confidence in Labour"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/PA0609/S00583/teachers-vote-no-confidence-in-labour.htm
+title: Teachers vote no confidence in Labour
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00583/teachers-vote-no-confidence-in-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/27/teachers-vote-no-confidence-in-labour/index.html
+layout: layout.njk
 ---
 Teachers vote no confidence in Labour
 =====================================

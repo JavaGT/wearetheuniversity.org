@@ -1,9 +1,12 @@
 ---
 slug: budget-must-address-holes-in-biosecurity-policy
-title: "Budget must address holes in biosecurity policy"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/PA0404/S00176/budget-must-address-holes-in-biosecurity-policy.htm
+title: Budget must address holes in biosecurity policy
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00176/budget-must-address-holes-in-biosecurity-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/08/budget-must-address-holes-in-biosecurity-policy/index.html
+layout: layout.njk
 ---
 Budget must address holes in biosecurity policy
 ===============================================

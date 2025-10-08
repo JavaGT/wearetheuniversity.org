@@ -1,9 +1,12 @@
 ---
 slug: log-on-and-sign-up-to-keep-7s-in-the-capital
-title: "Log on and sign up to keep 7’s in the capital"
-date: 2010-02-08
-source-url: https://www.scoop.co.nz/stories/PA1002/S00089/log-on-and-sign-up-to-keep-7s-in-the-capital.htm
+title: Log on and sign up to keep 7’s in the capital
+date: 2010-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00089/log-on-and-sign-up-to-keep-7s-in-the-capital.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/08/log-on-and-sign-up-to-keep-7s-in-the-capital/index.html
+layout: layout.njk
 ---
 Log on and sign up to keep 7’s in the capital
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: $20-million-ict-centre-of-excellence
-title: "$20 million ICT Centre of Excellence"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/ED0508/S00063/20-million-ict-centre-of-excellence.htm
+title: $20 million ICT Centre of Excellence
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00063/20-million-ict-centre-of-excellence.htm
 author: university-of-canterbury
+permalink: /archive/2005/08/12/20-million-ict-centre-of-excellence/index.html
+layout: layout.njk
 ---
 $20 million ICT Centre of Excellence
 ====================================

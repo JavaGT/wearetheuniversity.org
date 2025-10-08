@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-is-the-big-loser-in-the-budget
-title: "Tertiary education is the big loser in the budget"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/PA1005/S00344/tertiary-education-is-the-big-loser-in-the-budget.htm
+title: Tertiary education is the big loser in the budget
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00344/tertiary-education-is-the-big-loser-in-the-budget.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/05/21/tertiary-education-is-the-big-loser-in-the-budget/index.html
+layout: layout.njk
 ---
 Tertiary education is the big loser in the budget
 =================================================

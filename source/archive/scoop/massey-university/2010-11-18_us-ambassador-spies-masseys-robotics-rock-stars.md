@@ -1,9 +1,12 @@
 ---
 slug: us-ambassador-spies-masseys-robotics-rock-stars
-title: "US Ambassador spies Massey's robotics 'rock stars'"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/ED1011/S00077/us-ambassador-spies-masseys-robotics-rock-stars.htm
+title: US Ambassador spies Massey's robotics 'rock stars'
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00077/us-ambassador-spies-masseys-robotics-rock-stars.htm
 author: massey-university
+permalink: /archive/2010/11/18/us-ambassador-spies-masseys-robotics-rock-stars/index.html
+layout: layout.njk
 ---
 US Ambassador spies Massey's robotics 'rock stars'
 ==================================================

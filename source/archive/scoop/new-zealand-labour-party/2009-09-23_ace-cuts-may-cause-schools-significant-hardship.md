@@ -1,9 +1,12 @@
 ---
 slug: ace-cuts-may-cause-schools-significant-hardship
-title: "ACE cuts may cause schools significant hardship"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00338/ace-cuts-may-cause-schools-significant-hardship.htm
+title: ACE cuts may cause schools significant hardship
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00338/ace-cuts-may-cause-schools-significant-hardship.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/23/ace-cuts-may-cause-schools-significant-hardship/index.html
+layout: layout.njk
 ---
 ACE cuts may cause schools significant hardship
 ===============================================

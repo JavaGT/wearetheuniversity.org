@@ -1,9 +1,12 @@
 ---
 slug: nationals-tax-cuts-with-strings-attached
-title: "National's tax cuts with strings attached"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/PA0507/S00132/nationals-tax-cuts-with-strings-attached.htm
+title: National's tax cuts with strings attached
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00132/nationals-tax-cuts-with-strings-attached.htm
 author: act-new-zealand
+permalink: /archive/2005/07/06/nationals-tax-cuts-with-strings-attached/index.html
+layout: layout.njk
 ---
 National's tax cuts with strings attached
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: winz-the-target-of-student-anger
-title: "WINZ The Target Of Student Anger"
-date: 2000-03-17
-source-url: https://www.scoop.co.nz/stories/ED0003/S00035/winz-the-target-of-student-anger.htm
+title: WINZ The Target Of Student Anger
+date: 2000-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00035/winz-the-target-of-student-anger.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/03/17/winz-the-target-of-student-anger/index.html
+layout: layout.njk
 ---
 WINZ The Target Of Student Anger
 ================================

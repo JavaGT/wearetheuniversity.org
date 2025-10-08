@@ -1,9 +1,12 @@
 ---
 slug: researchers-welcome-new-equipment
-title: "Researchers Welcome New Equipment"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/ED0503/S00035/researchers-welcome-new-equipment.htm
+title: Researchers Welcome New Equipment
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00035/researchers-welcome-new-equipment.htm
 author: auckland-university
+permalink: /archive/2005/03/10/researchers-welcome-new-equipment/index.html
+layout: layout.njk
 ---
 Researchers Welcome New Equipment
 =================================

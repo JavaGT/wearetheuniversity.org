@@ -1,9 +1,12 @@
 ---
 slug: new-twist-in-state-house-sell-off-saga
-title: "New twist in state house sell-off saga"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/PA1507/S00006/new-twist-in-state-house-sell-off-saga.htm
+title: New twist in state house sell-off saga
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00006/new-twist-in-state-house-sell-off-saga.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/01/new-twist-in-state-house-sell-off-saga/index.html
+layout: layout.njk
 ---
 New twist in state house sell-off saga
 ======================================

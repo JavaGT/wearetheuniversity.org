@@ -1,9 +1,12 @@
 ---
 slug: kiwi-greens-relieved-bob-brown-will-stand-tall
-title: "Kiwi Greens relieved Bob Brown will stand tall"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/PA0906/S00155/kiwi-greens-relieved-bob-brown-will-stand-tall.htm
+title: Kiwi Greens relieved Bob Brown will stand tall
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00155/kiwi-greens-relieved-bob-brown-will-stand-tall.htm
 author: green-party
+permalink: /archive/2009/06/11/kiwi-greens-relieved-bob-brown-will-stand-tall/index.html
+layout: layout.njk
 ---
 Kiwi Greens relieved Bob Brown will stand tall
 ==============================================

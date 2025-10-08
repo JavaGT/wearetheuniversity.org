@@ -1,9 +1,13 @@
 ---
 slug: ian-gordon-fellow-expert-on-english-language-teaching
-title: "Ian Gordon Fellow expert on English language teaching"
-date: 2011-07-15
-source-url: https://www.scoop.co.nz/stories/ED1107/S00061/ian-gordon-fellow-expert-on-english-language-teaching.htm
+title: Ian Gordon Fellow expert on English language teaching
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00061/ian-gordon-fellow-expert-on-english-language-teaching.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/07/15/ian-gordon-fellow-expert-on-english-language-teaching/index.html
+layout: layout.njk
 ---
 Ian Gordon Fellow expert on English language teaching
 =====================================================

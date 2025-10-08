@@ -1,9 +1,12 @@
 ---
 slug: new-research-shows-student-debt-and-fees-rise
-title: "New research shows student debt and fees rise"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/ED0502/S00006/new-research-shows-student-debt-and-fees-rise.htm
+title: New research shows student debt and fees rise
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00006/new-research-shows-student-debt-and-fees-rise.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/02/01/new-research-shows-student-debt-and-fees-rise/index.html
+layout: layout.njk
 ---
 New research shows student debt and fees rise
 =============================================

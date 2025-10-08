@@ -1,9 +1,12 @@
 ---
 slug: free-fares-for-total-mobility-card-holders
-title: "Free Fares For Total Mobility Card Holders"
-date: 2022-04-28
-source-url: https://www.scoop.co.nz/stories/PO2204/S00132/free-fares-for-total-mobility-card-holders.htm
+title: Free Fares For Total Mobility Card Holders
+date: 2022-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2204/S00132/free-fares-for-total-mobility-card-holders.htm
 author: free-fares-nz
+permalink: /archive/2022/04/28/free-fares-for-total-mobility-card-holders/index.html
+layout: layout.njk
 ---
 Free Fares For Total Mobility Card Holders
 ==========================================

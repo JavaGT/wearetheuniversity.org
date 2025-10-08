@@ -1,9 +1,12 @@
 ---
 slug: textile-design-lab-opens-doors-to-industry
-title: "Textile design lab opens doors to industry"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/ED0611/S00020/textile-design-lab-opens-doors-to-industry.htm
+title: Textile design lab opens doors to industry
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00020/textile-design-lab-opens-doors-to-industry.htm
 author: aut-university
+permalink: /archive/2006/11/06/textile-design-lab-opens-doors-to-industry/index.html
+layout: layout.njk
 ---
 Textile design lab opens doors to industry
 ==========================================

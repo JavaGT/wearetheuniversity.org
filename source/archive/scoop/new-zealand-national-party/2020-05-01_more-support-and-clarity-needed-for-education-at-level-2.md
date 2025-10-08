@@ -1,9 +1,13 @@
 ---
 slug: more-support-and-clarity-needed-for-education-at-level-2
-title: "More Support And Clarity Needed For Education At Level 2"
-date: 2020-05-01
-source-url: https://www.scoop.co.nz/stories/PA2005/S00003/more-support-and-clarity-needed-for-education-at-level-2.htm
+title: More Support And Clarity Needed For Education At Level 2
+date: 2020-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00003/more-support-and-clarity-needed-for-education-at-level-2.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/01/more-support-and-clarity-needed-for-education-at-level-2/index.html
+layout: layout.njk
 ---
 More Support And Clarity Needed For Education At Level 2
 ========================================================

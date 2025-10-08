@@ -1,9 +1,12 @@
 ---
 slug: kids-must-come-first-in-enrolment-debate
-title: "Kids must come first in enrolment debate"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/PA1705/S00156/kids-must-come-first-in-enrolment-debate.htm
+title: Kids must come first in enrolment debate
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00156/kids-must-come-first-in-enrolment-debate.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/09/kids-must-come-first-in-enrolment-debate/index.html
+layout: layout.njk
 ---
 Kids must come first in enrolment debate
 ========================================

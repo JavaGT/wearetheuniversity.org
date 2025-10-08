@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-youth-mp-wanted
-title: "Heather Roy's Diary - Youth MP Wanted"
-date: 2007-03-02
-source-url: https://www.scoop.co.nz/stories/PA0703/S00057/heather-roys-diary-youth-mp-wanted.htm
+title: Heather Roy's Diary - Youth MP Wanted
+date: 2007-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00057/heather-roys-diary-youth-mp-wanted.htm
 author: act-new-zealand
+permalink: /archive/2007/03/02/heather-roys-diary-youth-mp-wanted/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Youth MP Wanted
 =====================================

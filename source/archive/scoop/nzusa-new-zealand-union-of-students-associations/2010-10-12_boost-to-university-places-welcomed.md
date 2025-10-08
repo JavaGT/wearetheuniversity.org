@@ -1,9 +1,12 @@
 ---
 slug: boost-to-university-places-welcomed
-title: "Boost to university places welcomed"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/ED1010/S00037/boost-to-university-places-welcomed.htm
+title: Boost to university places welcomed
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00037/boost-to-university-places-welcomed.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/10/12/boost-to-university-places-welcomed/index.html
+layout: layout.njk
 ---
 Boost to university places welcomed
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: green-party-to-create-plan-for-universal-te-reo-māori
-title: "Green Party to create plan for universal te reo Māori"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/PA1702/S00004/green-party-to-create-plan-for-universal-te-reo-maori.htm
+title: Green Party to create plan for universal te reo Māori
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00004/green-party-to-create-plan-for-universal-te-reo-maori.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/01/green-party-to-create-plan-for-universal-te-reo-m/index.html
+layout: layout.njk
 ---
 Green Party to create plan for universal te reo Māori
 =====================================================

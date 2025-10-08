@@ -1,9 +1,12 @@
 ---
 slug: by-election-bonanza-coming-to-an-end
-title: "By-Election bonanza coming to an end"
-date: 2009-09-15
-source-url: https://www.scoop.co.nz/stories/PO0909/S00168/by-election-bonanza-coming-to-an-end.htm
+title: By-Election bonanza coming to an end
+date: 2009-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00168/by-election-bonanza-coming-to-an-end.htm
 author: salient
+permalink: /archive/2009/09/15/by-election-bonanza-coming-to-an-end/index.html
+layout: layout.njk
 ---
 By-Election bonanza coming to an end
 ====================================

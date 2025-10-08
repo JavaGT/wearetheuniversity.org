@@ -1,9 +1,13 @@
 ---
 slug: slash-and-burn-not-the-solution-to-economic-recovery
-title: "Slash and burn not the solution to economic recovery"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/PA1103/S00003/slash-and-burn-not-the-solution-to-economic-recovery.htm
+title: Slash and burn not the solution to economic recovery
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00003/slash-and-burn-not-the-solution-to-economic-recovery.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/01/slash-and-burn-not-the-solution-to-economic-recovery/index.html
+layout: layout.njk
 ---
 Slash and burn not the solution to economic recovery
 ====================================================

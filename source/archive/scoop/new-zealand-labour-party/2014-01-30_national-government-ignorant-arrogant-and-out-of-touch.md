@@ -1,9 +1,13 @@
 ---
 slug: national-government-ignorant-arrogant-and-out-of-touch
-title: "National Government ignorant, arrogant and out of touch"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/PA1401/S00220/national-government-ignorant-arrogant-and-out-of-touch.htm
+title: National Government ignorant, arrogant and out of touch
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00220/national-government-ignorant-arrogant-and-out-of-touch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/30/national-government-ignorant-arrogant-and-out-of-touch/index.html
+layout: layout.njk
 ---
 National Government ignorant, arrogant and out of touch
 =======================================================

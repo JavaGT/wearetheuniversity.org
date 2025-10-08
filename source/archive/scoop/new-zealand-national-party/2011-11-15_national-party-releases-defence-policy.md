@@ -1,9 +1,12 @@
 ---
 slug: national-party-releases-defence-policy
-title: "National Party releases Defence policy"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/PA1111/S00296/national-party-releases-defence-policy.htm
+title: National Party releases Defence policy
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00296/national-party-releases-defence-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/15/national-party-releases-defence-policy/index.html
+layout: layout.njk
 ---
 National Party releases Defence policy
 ======================================

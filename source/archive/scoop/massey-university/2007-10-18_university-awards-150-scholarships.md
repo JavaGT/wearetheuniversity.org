@@ -1,9 +1,12 @@
 ---
 slug: university-awards-150-scholarships
-title: "University awards 150 scholarships"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/ED0710/S00056/university-awards-150-scholarships.htm
+title: University awards 150 scholarships
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00056/university-awards-150-scholarships.htm
 author: massey-university
+permalink: /archive/2007/10/18/university-awards-150-scholarships/index.html
+layout: layout.njk
 ---
 University awards 150 scholarships
 ==================================

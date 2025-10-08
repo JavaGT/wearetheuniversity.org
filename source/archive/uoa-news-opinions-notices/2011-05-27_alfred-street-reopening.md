@@ -1,8 +1,11 @@
 ---
 slug: alfred-street-reopening
-title: "Alfred Street reopening"
-date: 2011-05-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/05/27/Alfred-Street-reopening.html
+title: Alfred Street reopening
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/05/27/Alfred-Street-reopening.html
+permalink: /archive/2011/05/27/alfred-street-reopening/index.html
+layout: layout.njk
 ---
 Alfred Street reopening
 =======================

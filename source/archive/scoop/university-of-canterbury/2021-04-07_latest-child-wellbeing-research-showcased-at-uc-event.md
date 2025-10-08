@@ -1,9 +1,13 @@
 ---
 slug: latest-child-wellbeing-research-showcased-at-uc-event
-title: "Latest Child Wellbeing Research Showcased At UC Event"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/GE2104/S00015/latest-child-wellbeing-research-showcased-at-uc-event.htm
+title: Latest Child Wellbeing Research Showcased At UC Event
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2104/S00015/latest-child-wellbeing-research-showcased-at-uc-event.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/04/07/latest-child-wellbeing-research-showcased-at-uc-event/index.html
+layout: layout.njk
 ---
 Latest Child Wellbeing Research Showcased At UC Event
 =====================================================

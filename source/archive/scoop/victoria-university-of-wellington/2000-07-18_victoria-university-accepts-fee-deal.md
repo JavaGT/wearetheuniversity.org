@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-accepts-fee-deal
-title: "Victoria University accepts fee deal"
-date: 2000-07-18
-source-url: https://www.scoop.co.nz/stories/ED0007/S00024/victoria-university-accepts-fee-deal.htm
+title: Victoria University accepts fee deal
+date: 2000-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00024/victoria-university-accepts-fee-deal.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/18/victoria-university-accepts-fee-deal/index.html
+layout: layout.njk
 ---
 Victoria University accepts fee deal
 ====================================

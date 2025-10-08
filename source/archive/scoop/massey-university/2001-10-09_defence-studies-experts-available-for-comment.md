@@ -1,9 +1,12 @@
 ---
 slug: defence-studies-experts-available-for-comment
-title: "Defence Studies Experts available for Comment"
-date: 2001-10-09
-source-url: https://www.scoop.co.nz/stories/WO0110/S00041/defence-studies-experts-available-for-comment.htm
+title: Defence Studies Experts available for Comment
+date: 2001-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0110/S00041/defence-studies-experts-available-for-comment.htm
 author: massey-university
+permalink: /archive/2001/10/09/defence-studies-experts-available-for-comment/index.html
+layout: layout.njk
 ---
 Defence Studies Experts available for Comment
 =============================================

@@ -1,8 +1,11 @@
 ---
 slug: measuring-pelvic-floor-muscles-via-smartphone
-title: "Measuring pelvic floor muscles via smartphone"
-date: 2017-04-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/jenny-kruger-s-research-funding.html
+title: Measuring pelvic floor muscles via smartphone
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/jenny-kruger-s-research-funding.html
+permalink: /archive/2017/04/11/measuring-pelvic-floor-muscles-via-smartphone/index.html
+layout: layout.njk
 ---
 Measuring pelvic floor muscles via smartphone
 =============================================

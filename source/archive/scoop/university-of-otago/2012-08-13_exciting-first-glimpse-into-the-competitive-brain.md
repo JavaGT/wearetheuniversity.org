@@ -1,9 +1,13 @@
 ---
 slug: exciting-first-glimpse-into-the-competitive-brain
-title: "Exciting first glimpse into the competitive brain"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/SC1208/S00033/exciting-first-glimpse-into-the-competitive-brain.htm
+title: Exciting first glimpse into the competitive brain
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00033/exciting-first-glimpse-into-the-competitive-brain.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/13/exciting-first-glimpse-into-the-competitive-brain/index.html
+layout: layout.njk
 ---
 Exciting first glimpse into the competitive brain
 =================================================

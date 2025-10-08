@@ -1,9 +1,13 @@
 ---
 slug: labour-mps-join-youth-to-take-part-in-40-hour-famine
-title: "Labour MPs join youth to take part in 40 hour famine"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PA1505/S00423/labour-mps-join-youth-to-take-part-in-40-hour-famine.htm
+title: Labour MPs join youth to take part in 40 hour famine
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00423/labour-mps-join-youth-to-take-part-in-40-hour-famine.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/05/22/labour-mps-join-youth-to-take-part-in-40-hour-famine/index.html
+layout: layout.njk
 ---
 Labour MPs join youth to take part in 40 hour famine
 ====================================================

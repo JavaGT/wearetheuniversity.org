@@ -1,9 +1,13 @@
 ---
 slug: us-congress-beckons-to-university-of-canterbury-law-students
-title: "US Congress beckons to University of Canterbury law students"
-date: 2012-06-14
-source-url: https://www.scoop.co.nz/stories/ED1206/S00066/us-congress-beckons-to-university-of-canterbury-law-students.htm
+title: US Congress beckons to University of Canterbury law students
+date: 2012-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00066/us-congress-beckons-to-university-of-canterbury-law-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/06/14/us-congress-beckons-to-university-of-canterbury-law-students/index.html
+layout: layout.njk
 ---
 US Congress beckons to University of Canterbury law students
 ============================================================

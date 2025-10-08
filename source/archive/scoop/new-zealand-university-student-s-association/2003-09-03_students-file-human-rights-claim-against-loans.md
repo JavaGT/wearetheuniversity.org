@@ -1,9 +1,12 @@
 ---
 slug: students-file-human-rights-claim-against-loans
-title: "Students file human rights claim against loans"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/ED0309/S00007/students-file-human-rights-claim-against-loans.htm
+title: Students file human rights claim against loans
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00007/students-file-human-rights-claim-against-loans.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/09/03/students-file-human-rights-claim-against-loans/index.html
+layout: layout.njk
 ---
 Students file human rights claim against loans
 ==============================================

@@ -1,8 +1,12 @@
 ---
 slug: simulation-training-to-improve-treatment-injury-prevention
-title: "Simulation training to improve treatment injury prevention"
-date: 2015-12-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/simulation-training-to-improve-treatment-injury-prevention.html
+title: Simulation training to improve treatment injury prevention
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/simulation-training-to-improve-treatment-injury-prevention.html
+permalink: >-
+  /archive/2015/12/15/simulation-training-to-improve-treatment-injury-prevention/index.html
+layout: layout.njk
 ---
 Simulation training to improve treatment injury prevention
 ==========================================================

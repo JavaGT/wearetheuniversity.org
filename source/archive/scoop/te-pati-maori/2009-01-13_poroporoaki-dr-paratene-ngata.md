@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-dr-paratene-ngata
-title: "Poroporoaki: Dr Paratene Ngata"
-date: 2009-01-13
-source-url: https://www.scoop.co.nz/stories/PA0901/S00033/poroporoaki-dr-paratene-ngata.htm
+title: 'Poroporoaki: Dr Paratene Ngata'
+date: 2009-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00033/poroporoaki-dr-paratene-ngata.htm
 author: te-pati-maori
+permalink: /archive/2009/01/13/poroporoaki-dr-paratene-ngata/index.html
+layout: layout.njk
 ---
 Poroporoaki: Dr Paratene Ngata
 ==============================

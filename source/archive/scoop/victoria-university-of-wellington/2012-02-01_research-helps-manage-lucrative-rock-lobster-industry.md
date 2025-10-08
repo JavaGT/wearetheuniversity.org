@@ -1,9 +1,13 @@
 ---
 slug: research-helps-manage-lucrative-rock-lobster-industry
-title: "Research helps manage lucrative rock lobster industry"
-date: 2012-02-01
-source-url: https://www.scoop.co.nz/stories/ED1202/S00002/research-helps-manage-lucrative-rock-lobster-industry.htm
+title: Research helps manage lucrative rock lobster industry
+date: 2012-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00002/research-helps-manage-lucrative-rock-lobster-industry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/02/01/research-helps-manage-lucrative-rock-lobster-industry/index.html
+layout: layout.njk
 ---
 Research helps manage lucrative rock lobster industry
 =====================================================

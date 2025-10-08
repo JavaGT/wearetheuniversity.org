@@ -1,9 +1,12 @@
 ---
 slug: work-disease-and-child-mobility-studies-get-$3-9m
-title: "Work disease and child mobility studies get $3.9m"
-date: 2010-06-10
-source-url: https://www.scoop.co.nz/stories/GE1006/S00044/work-disease-and-child-mobility-studies-get-39m.htm
+title: Work disease and child mobility studies get $3.9m
+date: 2010-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00044/work-disease-and-child-mobility-studies-get-39m.htm
 author: massey-university
+permalink: /archive/2010/06/10/work-disease-and-child-mobility-studies-get-/index.html
+layout: layout.njk
 ---
 Work disease and child mobility studies get $3.9m
 =================================================

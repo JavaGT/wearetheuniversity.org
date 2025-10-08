@@ -1,9 +1,11 @@
 ---
 slug: monkey-madness
-title: "Monkey Madness"
-date: 2001-09-26
+title: Monkey Madness
+date: 2001-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0109/S00010/monkey-madness.htm
 author: otago-university-students-association
+permalink: /archive/2001/09/26/monkey-madness/index.html
+layout: layout.njk
 ---
 Monkey Madness
 ==============

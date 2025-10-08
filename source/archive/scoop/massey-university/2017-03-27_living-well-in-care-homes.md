@@ -1,9 +1,11 @@
 ---
 slug: living-well-in-care-homes
-title: "Living well in care homes"
-date: 2017-03-27
+title: Living well in care homes
+date: 2017-03-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1703/S00116/living-well-in-care-homes.htm
 author: massey-university
+permalink: /archive/2017/03/27/living-well-in-care-homes/index.html
+layout: layout.njk
 ---
 Living well in care homes
 =========================

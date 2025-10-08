@@ -1,9 +1,13 @@
 ---
 slug: use-of-competitive-intelligence-cause-for-concern
-title: "Use of Competitive Intelligence Cause for Concern"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/BU0505/S00007/use-of-competitive-intelligence-cause-for-concern.htm
+title: Use of Competitive Intelligence Cause for Concern
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0505/S00007/use-of-competitive-intelligence-cause-for-concern.htm
 author: aut-university
+permalink: >-
+  /archive/2005/05/02/use-of-competitive-intelligence-cause-for-concern/index.html
+layout: layout.njk
 ---
 Use of Competitive Intelligence Cause for Concern
 =================================================

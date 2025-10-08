@@ -1,9 +1,12 @@
 ---
 slug: tauhere-uc-connect-talk-medieval-history-in-ōtautahi
-title: "Tauhere UC Connect Talk: Medieval History In Ōtautahi"
-date: 2023-10-09
-source-url: https://www.scoop.co.nz/stories/ED2310/S00011/tauhere-uc-connect-talk-medieval-history-in-otautahi.htm
+title: 'Tauhere UC Connect Talk: Medieval History In Ōtautahi'
+date: 2023-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00011/tauhere-uc-connect-talk-medieval-history-in-otautahi.htm
 author: university-of-canterbury
+permalink: /archive/2023/10/09/tauhere-uc-connect-talk-medieval-history-in-/index.html
+layout: layout.njk
 ---
 Tauhere UC Connect Talk: Medieval History In Ōtautahi
 =====================================================

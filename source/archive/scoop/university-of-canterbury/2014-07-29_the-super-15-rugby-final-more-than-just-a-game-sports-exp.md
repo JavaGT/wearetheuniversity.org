@@ -1,9 +1,13 @@
 ---
 slug: the-super-15-rugby-final-more-than-just-a-game-sports-exp
-title: "The Super 15 rugby final – more than just a game, sports exp"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/CU1407/S00467/the-super-15-rugby-final-more-than-just-a-game-sports-exp.htm
+title: The Super 15 rugby final – more than just a game, sports exp
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00467/the-super-15-rugby-final-more-than-just-a-game-sports-exp.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/29/the-super-15-rugby-final-more-than-just-a-game-sports-exp/index.html
+layout: layout.njk
 ---
 The Super 15 rugby final – more than just a game, sports exp
 ============================================================

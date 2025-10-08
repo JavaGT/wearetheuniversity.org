@@ -1,9 +1,12 @@
 ---
 slug: aut-student-makes-global-badass-women-list
-title: "AUT student makes global Badass Women list"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/ED1907/S00029/aut-student-makes-global-badass-women-list.htm
+title: AUT student makes global Badass Women list
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00029/aut-student-makes-global-badass-women-list.htm
 author: aut-university
+permalink: /archive/2019/07/16/aut-student-makes-global-badass-women-list/index.html
+layout: layout.njk
 ---
 AUT student makes global Badass Women list
 ==========================================

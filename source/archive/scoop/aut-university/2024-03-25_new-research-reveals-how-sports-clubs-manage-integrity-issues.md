@@ -1,9 +1,13 @@
 ---
 slug: new-research-reveals-how-sports-clubs-manage-integrity-issues
-title: "New Research Reveals How Sports Clubs Manage Integrity Issues"
-date: 2024-03-25
-source-url: https://www.scoop.co.nz/stories/CU2403/S00225/new-research-reveals-how-sports-clubs-manage-integrity-issues.htm
+title: New Research Reveals How Sports Clubs Manage Integrity Issues
+date: 2024-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2403/S00225/new-research-reveals-how-sports-clubs-manage-integrity-issues.htm
 author: aut-university
+permalink: >-
+  /archive/2024/03/25/new-research-reveals-how-sports-clubs-manage-integrity-issues/index.html
+layout: layout.njk
 ---
 New Research Reveals How Sports Clubs Manage Integrity Issues
 =============================================================

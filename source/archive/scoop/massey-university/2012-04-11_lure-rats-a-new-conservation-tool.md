@@ -1,9 +1,12 @@
 ---
 slug: lure-rats-a-new-conservation-tool
-title: "Lure Rats: A New Conservation Tool"
-date: 2012-04-11
-source-url: https://www.scoop.co.nz/stories/ED1204/S00041/lure-rats-a-new-conservation-tool.htm
+title: 'Lure Rats: A New Conservation Tool'
+date: 2012-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00041/lure-rats-a-new-conservation-tool.htm
 author: massey-university
+permalink: /archive/2012/04/11/lure-rats-a-new-conservation-tool/index.html
+layout: layout.njk
 ---
 Lure Rats: A New Conservation Tool
 ==================================

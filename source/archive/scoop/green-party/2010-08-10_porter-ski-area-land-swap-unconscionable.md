@@ -1,9 +1,12 @@
 ---
 slug: porter-ski-area-land-swap-unconscionable
-title: "Porter Ski Area Land Swap Unconscionable"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/PO1008/S00122/porter-ski-area-land-swap-unconscionable.htm
+title: Porter Ski Area Land Swap Unconscionable
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00122/porter-ski-area-land-swap-unconscionable.htm
 author: green-party
+permalink: /archive/2010/08/10/porter-ski-area-land-swap-unconscionable/index.html
+layout: layout.njk
 ---
 Porter Ski Area Land Swap Unconscionable
 ========================================

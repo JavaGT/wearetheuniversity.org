@@ -1,9 +1,11 @@
 ---
 slug: dancing-ahead
-title: "Dancing ahead"
-date: 2014-05-09
+title: Dancing ahead
+date: 2014-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1405/S00144/dancing-ahead.htm
 author: auckland-university
+permalink: /archive/2014/05/09/dancing-ahead/index.html
+layout: layout.njk
 ---
 Dancing ahead
 =============

@@ -1,9 +1,13 @@
 ---
 slug: deliberate-self-harm-higher-in-female-adolescents
-title: "Deliberate self harm higher in female adolescents"
-date: 2008-02-26
-source-url: https://www.scoop.co.nz/stories/GE0802/S00103/deliberate-self-harm-higher-in-female-adolescents.htm
+title: Deliberate self harm higher in female adolescents
+date: 2008-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0802/S00103/deliberate-self-harm-higher-in-female-adolescents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/02/26/deliberate-self-harm-higher-in-female-adolescents/index.html
+layout: layout.njk
 ---
 Deliberate self harm higher in female adolescents
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-commends-25-years-since-hlra
-title: "NZUSA commends 25 years since HLRA"
-date: 2011-07-09
-source-url: https://www.scoop.co.nz/stories/PO1107/S00093/nzusa-commends-25-years-since-hlra.htm
+title: NZUSA commends 25 years since HLRA
+date: 2011-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00093/nzusa-commends-25-years-since-hlra.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/07/09/nzusa-commends-25-years-since-hlra/index.html
+layout: layout.njk
 ---
 NZUSA commends 25 years since HLRA
 ==================================

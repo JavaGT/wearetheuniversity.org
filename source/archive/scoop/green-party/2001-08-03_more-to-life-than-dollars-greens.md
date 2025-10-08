@@ -1,9 +1,12 @@
 ---
 slug: more-to-life-than-dollars-greens
-title: "More To Life Than Dollars - Greens"
-date: 2001-08-03
-source-url: https://www.scoop.co.nz/stories/PA0108/S00079/more-to-life-than-dollars-greens.htm
+title: More To Life Than Dollars - Greens
+date: 2001-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00079/more-to-life-than-dollars-greens.htm
 author: green-party
+permalink: /archive/2001/08/03/more-to-life-than-dollars-greens/index.html
+layout: layout.njk
 ---
 More To Life Than Dollars - Greens
 ==================================

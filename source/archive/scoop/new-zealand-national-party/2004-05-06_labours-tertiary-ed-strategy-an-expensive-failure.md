@@ -1,9 +1,13 @@
 ---
 slug: labours-tertiary-ed-strategy-an-expensive-failure
-title: "Labour's tertiary ed strategy an expensive failure"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/PA0405/S00085/labours-tertiary-ed-strategy-an-expensive-failure.htm
+title: Labour's tertiary ed strategy an expensive failure
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00085/labours-tertiary-ed-strategy-an-expensive-failure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/05/06/labours-tertiary-ed-strategy-an-expensive-failure/index.html
+layout: layout.njk
 ---
 Labour's tertiary ed strategy an expensive failure
 ==================================================

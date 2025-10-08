@@ -1,9 +1,12 @@
 ---
 slug: mps-must-avoid-turning-the-clock-back
-title: "MPs must avoid turning the clock back"
-date: 2010-04-28
-source-url: https://www.scoop.co.nz/stories/PO1004/S00342/mps-must-avoid-turning-the-clock-back.htm
+title: MPs must avoid turning the clock back
+date: 2010-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00342/mps-must-avoid-turning-the-clock-back.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/04/28/mps-must-avoid-turning-the-clock-back/index.html
+layout: layout.njk
 ---
 MPs must avoid turning the clock back
 =====================================

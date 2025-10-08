@@ -1,9 +1,13 @@
 ---
 slug: budget-2011-a-missed-opportunity-hon-john-boscawen
-title: "Budget 2011 A Missed Opportunity - Hon John Boscawen"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PA1105/S00468/budget-2011-a-missed-opportunity-hon-john-boscawen.htm
+title: Budget 2011 A Missed Opportunity - Hon John Boscawen
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00468/budget-2011-a-missed-opportunity-hon-john-boscawen.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/05/20/budget-2011-a-missed-opportunity-hon-john-boscawen/index.html
+layout: layout.njk
 ---
 Budget 2011 A Missed Opportunity - Hon John Boscawen
 ====================================================

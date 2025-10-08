@@ -1,9 +1,12 @@
 ---
 slug: mallard-creates-another-smokescreen
-title: "Mallard creates another smokescreen"
-date: 2004-11-12
-source-url: https://www.scoop.co.nz/stories/PA0411/S00294/mallard-creates-another-smokescreen.htm
+title: Mallard creates another smokescreen
+date: 2004-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00294/mallard-creates-another-smokescreen.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/12/mallard-creates-another-smokescreen/index.html
+layout: layout.njk
 ---
 Mallard creates another smokescreen
 ===================================

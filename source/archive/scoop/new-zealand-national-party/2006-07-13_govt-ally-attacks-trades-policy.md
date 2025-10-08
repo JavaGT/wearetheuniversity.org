@@ -1,9 +1,12 @@
 ---
 slug: govt-ally-attacks-trades-policy
-title: "Govt ally attacks trades policy"
-date: 2006-07-13
-source-url: https://www.scoop.co.nz/stories/PA0607/S00188/govt-ally-attacks-trades-policy.htm
+title: Govt ally attacks trades policy
+date: 2006-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00188/govt-ally-attacks-trades-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/13/govt-ally-attacks-trades-policy/index.html
+layout: layout.njk
 ---
 Govt ally attacks trades policy
 ===============================

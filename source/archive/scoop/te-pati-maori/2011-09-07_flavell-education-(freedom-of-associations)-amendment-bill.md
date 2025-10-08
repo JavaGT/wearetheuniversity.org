@@ -1,9 +1,12 @@
 ---
 slug: flavell-education-(freedom-of-associations)-amendment-bill
-title: "Flavell: Education (Freedom of Associations) Amendment Bill"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00160/flavell-education-freedom-of-associations-amendment-bill.htm
+title: 'Flavell: Education (Freedom of Associations) Amendment Bill'
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00160/flavell-education-freedom-of-associations-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/09/07/flavell-education-/index.html
+layout: layout.njk
 ---
 Flavell: Education (Freedom of Associations) Amendment Bill
 ===========================================================

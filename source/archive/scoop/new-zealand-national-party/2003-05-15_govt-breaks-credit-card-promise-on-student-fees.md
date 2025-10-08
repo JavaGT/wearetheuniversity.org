@@ -1,9 +1,12 @@
 ---
 slug: govt-breaks-credit-card-promise-on-student-fees
-title: "Govt breaks credit card promise on student fees"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00400/govt-breaks-credit-card-promise-on-student-fees.htm
+title: Govt breaks credit card promise on student fees
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00400/govt-breaks-credit-card-promise-on-student-fees.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/15/govt-breaks-credit-card-promise-on-student-fees/index.html
+layout: layout.njk
 ---
 Govt breaks credit card promise on student fees
 ===============================================

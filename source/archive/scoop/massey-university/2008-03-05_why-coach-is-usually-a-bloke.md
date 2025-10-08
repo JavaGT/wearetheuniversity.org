@@ -1,9 +1,11 @@
 ---
 slug: why-coach-is-usually-a-bloke
-title: "Why 'Coach' is usually a bloke"
-date: 2008-03-05
+title: Why 'Coach' is usually a bloke
+date: 2008-03-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0803/S00051/why-coach-is-usually-a-bloke.htm
 author: massey-university
+permalink: /archive/2008/03/05/why-coach-is-usually-a-bloke/index.html
+layout: layout.njk
 ---
 Why 'Coach' is usually a bloke
 ==============================

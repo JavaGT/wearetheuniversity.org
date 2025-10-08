@@ -1,9 +1,12 @@
 ---
 slug: government-confirms-less-cash-for-1-2m-kiwis
-title: "Government confirms less cash for 1.2m Kiwis"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/PA1712/S00153/government-confirms-less-cash-for-12m-kiwis.htm
+title: Government confirms less cash for 1.2m Kiwis
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00153/government-confirms-less-cash-for-12m-kiwis.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/14/government-confirms-less-cash-for-1-2m-kiwis/index.html
+layout: layout.njk
 ---
 Government confirms less cash for 1.2m Kiwis
 ============================================

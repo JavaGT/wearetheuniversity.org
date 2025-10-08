@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-child-support-amendment-bill-no-4
-title: "Tariana Turia: Child Support Amendment Bill [no 4]"
-date: 2006-06-16
-source-url: https://www.scoop.co.nz/stories/PA0606/S00308/tariana-turia-child-support-amendment-bill-no-4.htm
+title: 'Tariana Turia: Child Support Amendment Bill [no 4]'
+date: 2006-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00308/tariana-turia-child-support-amendment-bill-no-4.htm
 author: te-pati-maori
+permalink: /archive/2006/06/16/tariana-turia-child-support-amendment-bill-no-4/index.html
+layout: layout.njk
 ---
 Tariana Turia: Child Support Amendment Bill \[no 4\]
 ====================================================

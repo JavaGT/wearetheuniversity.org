@@ -1,9 +1,12 @@
 ---
 slug: govt-leaves-expats-out-of-team-of-five-million
-title: "Govt leaves expats out of team of five million"
-date: 2021-09-20
-source-url: https://www.scoop.co.nz/stories/PA2109/S00167/govt-leaves-expats-out-of-team-of-five-million.htm
+title: Govt leaves expats out of team of five million
+date: 2021-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00167/govt-leaves-expats-out-of-team-of-five-million.htm
 author: act-new-zealand
+permalink: /archive/2021/09/20/govt-leaves-expats-out-of-team-of-five-million/index.html
+layout: layout.njk
 ---
 Govt leaves expats out of team of five million
 ==============================================

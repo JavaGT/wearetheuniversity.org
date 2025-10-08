@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-clarify-dhb-funding-formula
-title: "Otago researchers clarify DHB funding formula"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/PO1206/S00003/otago-researchers-clarify-dhb-funding-formula.htm
+title: Otago researchers clarify DHB funding formula
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00003/otago-researchers-clarify-dhb-funding-formula.htm
 author: university-of-otago
+permalink: /archive/2012/06/01/otago-researchers-clarify-dhb-funding-formula/index.html
+layout: layout.njk
 ---
 Otago researchers clarify DHB funding formula
 =============================================

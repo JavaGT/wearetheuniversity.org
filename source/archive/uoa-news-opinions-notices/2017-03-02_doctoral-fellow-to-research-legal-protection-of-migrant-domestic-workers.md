@@ -1,8 +1,12 @@
 ---
 slug: doctoral-fellow-to-research-legal-protection-of-migrant-domestic-workers
-title: "Doctoral Fellow to research legal protection of migrant domestic workers"
-date: 2017-03-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/doctoral-fellow-to-research-legal-protection-of-migrant--domesti.html
+title: Doctoral Fellow to research legal protection of migrant domestic workers
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/doctoral-fellow-to-research-legal-protection-of-migrant--domesti.html
+permalink: >-
+  /archive/2017/03/02/doctoral-fellow-to-research-legal-protection-of-migrant-domestic-workers/index.html
+layout: layout.njk
 ---
 Doctoral Fellow to research legal protection of migrant domestic workers
 ========================================================================

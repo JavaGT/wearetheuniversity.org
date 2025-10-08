@@ -1,9 +1,11 @@
 ---
 slug: empowering-pasifika-youth
-title: "Empowering Pasifika youth"
-date: 2016-06-23
+title: Empowering Pasifika youth
+date: 2016-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1606/S00084/empowering-pasifika-youth.htm
 author: massey-university
+permalink: /archive/2016/06/23/empowering-pasifika-youth/index.html
+layout: layout.njk
 ---
 Empowering Pasifika youth
 =========================

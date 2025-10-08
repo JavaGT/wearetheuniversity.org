@@ -1,9 +1,12 @@
 ---
 slug: uc-to-stage-a-meet-the-candidates-night
-title: "UC to stage a meet the candidates’ night"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/AK1309/S00274/uc-to-stage-a-meet-the-candidates-night.htm
+title: UC to stage a meet the candidates’ night
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00274/uc-to-stage-a-meet-the-candidates-night.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/10/uc-to-stage-a-meet-the-candidates-night/index.html
+layout: layout.njk
 ---
 UC to stage a meet the candidates’ night
 ========================================

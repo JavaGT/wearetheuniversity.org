@@ -1,9 +1,12 @@
 ---
 slug: more-cops-needed-to-get-p-off-our-streets
-title: "More cops needed to get P off our streets"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/PA1611/S00435/more-cops-needed-to-get-p-off-our-streets.htm
+title: More cops needed to get P off our streets
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00435/more-cops-needed-to-get-p-off-our-streets.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/23/more-cops-needed-to-get-p-off-our-streets/index.html
+layout: layout.njk
 ---
 More cops needed to get P off our streets
 =========================================

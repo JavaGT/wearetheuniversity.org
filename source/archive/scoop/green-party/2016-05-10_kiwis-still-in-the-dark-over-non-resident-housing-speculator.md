@@ -1,9 +1,13 @@
 ---
 slug: kiwis-still-in-the-dark-over-non-resident-housing-speculator
-title: "Kiwis still in the dark over non-resident housing speculator"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/PA1605/S00175/kiwis-still-in-the-dark-over-non-resident-housing-speculator.htm
+title: Kiwis still in the dark over non-resident housing speculator
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00175/kiwis-still-in-the-dark-over-non-resident-housing-speculator.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/10/kiwis-still-in-the-dark-over-non-resident-housing-speculator/index.html
+layout: layout.njk
 ---
 Kiwis still in the dark over non-resident housing speculator
 ============================================================

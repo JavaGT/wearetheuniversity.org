@@ -1,9 +1,13 @@
 ---
 slug: behrouz-boochani-to-become-research-fellow-at-uc
-title: "Behrouz Boochani To Become Research Fellow At UC"
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/ED2007/S00036/behrouz-boochani-to-become-research-fellow-at-uc.htm
+title: Behrouz Boochani To Become Research Fellow At UC
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00036/behrouz-boochani-to-become-research-fellow-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/24/behrouz-boochani-to-become-research-fellow-at-uc/index.html
+layout: layout.njk
 ---
 Behrouz Boochani To Become Research Fellow At UC
 ================================================

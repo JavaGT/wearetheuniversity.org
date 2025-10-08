@@ -1,9 +1,12 @@
 ---
 slug: simon-bridges-speech-on-new-zealand-economy
-title: "Simon Bridges - Speech on New Zealand economy"
-date: 2018-04-30
-source-url: https://www.scoop.co.nz/stories/PA1804/S00302/simon-bridges-speech-on-new-zealand-economy.htm
+title: Simon Bridges - Speech on New Zealand economy
+date: 2018-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00302/simon-bridges-speech-on-new-zealand-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/30/simon-bridges-speech-on-new-zealand-economy/index.html
+layout: layout.njk
 ---
 Simon Bridges - Speech on New Zealand economy
 =============================================

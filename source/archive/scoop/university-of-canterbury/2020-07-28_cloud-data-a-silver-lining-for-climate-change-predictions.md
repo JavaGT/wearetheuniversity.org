@@ -1,9 +1,13 @@
 ---
 slug: cloud-data-a-silver-lining-for-climate-change-predictions
-title: "Cloud Data A Silver Lining For Climate Change Predictions"
-date: 2020-07-28
-source-url: https://www.scoop.co.nz/stories/SC2007/S00054/cloud-data-a-silver-lining-for-climate-change-predictions.htm
+title: Cloud Data A Silver Lining For Climate Change Predictions
+date: 2020-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2007/S00054/cloud-data-a-silver-lining-for-climate-change-predictions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/28/cloud-data-a-silver-lining-for-climate-change-predictions/index.html
+layout: layout.njk
 ---
 Cloud Data A Silver Lining For Climate Change Predictions
 =========================================================

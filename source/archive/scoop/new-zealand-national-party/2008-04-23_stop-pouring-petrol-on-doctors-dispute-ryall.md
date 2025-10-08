@@ -1,9 +1,12 @@
 ---
 slug: stop-pouring-petrol-on-doctors-dispute-ryall
-title: "Stop pouring petrol on doctors’ dispute: Ryall"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/PA0804/S00538/stop-pouring-petrol-on-doctors-dispute-ryall.htm
+title: 'Stop pouring petrol on doctors’ dispute: Ryall'
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00538/stop-pouring-petrol-on-doctors-dispute-ryall.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/23/stop-pouring-petrol-on-doctors-dispute-ryall/index.html
+layout: layout.njk
 ---
 Stop pouring petrol on doctors’ dispute: Ryall
 ==============================================

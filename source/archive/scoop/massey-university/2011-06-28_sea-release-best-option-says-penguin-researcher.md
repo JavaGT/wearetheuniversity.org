@@ -1,9 +1,12 @@
 ---
 slug: sea-release-best-option-says-penguin-researcher
-title: "Sea release best option, says penguin researcher"
-date: 2011-06-28
-source-url: https://www.scoop.co.nz/stories/SC1106/S00077/sea-release-best-option-says-penguin-researcher.htm
+title: Sea release best option, says penguin researcher
+date: 2011-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00077/sea-release-best-option-says-penguin-researcher.htm
 author: massey-university
+permalink: /archive/2011/06/28/sea-release-best-option-says-penguin-researcher/index.html
+layout: layout.njk
 ---
 Sea release best option, says penguin researcher
 ================================================

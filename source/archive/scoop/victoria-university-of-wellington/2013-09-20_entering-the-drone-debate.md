@@ -1,9 +1,11 @@
 ---
 slug: entering-the-drone-debate
-title: "Entering the drone debate"
-date: 2013-09-20
+title: Entering the drone debate
+date: 2013-09-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1309/S00696/entering-the-drone-debate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/20/entering-the-drone-debate/index.html
+layout: layout.njk
 ---
 Entering the drone debate
 =========================

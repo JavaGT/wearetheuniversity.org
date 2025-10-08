@@ -1,9 +1,12 @@
 ---
 slug: quote-of-the-year-opens-for-voting
-title: "Quote Of The Year Opens For Voting"
-date: 2024-12-13
-source-url: https://www.scoop.co.nz/stories/CU2412/S00137/quote-of-the-year-opens-for-voting.htm
+title: Quote Of The Year Opens For Voting
+date: 2024-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2412/S00137/quote-of-the-year-opens-for-voting.htm
 author: massey-university
+permalink: /archive/2024/12/13/quote-of-the-year-opens-for-voting/index.html
+layout: layout.njk
 ---
 Quote Of The Year Opens For Voting
 ==================================

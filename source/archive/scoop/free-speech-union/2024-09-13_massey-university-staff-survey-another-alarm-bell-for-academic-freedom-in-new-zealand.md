@@ -1,9 +1,16 @@
 ---
-slug: massey-university-staff-survey-another-alarm-bell-for-academic-freedom-in-new-zealand
-title: "Massey University Staff Survey Another Alarm Bell For Academic Freedom In New Zealand"
-date: 2024-09-13
-source-url: https://www.scoop.co.nz/stories/ED2409/S00003/massey-university-staff-survey-another-alarm-bell-for-academic-freedom-in-new-zealand.htm
+slug: >-
+  massey-university-staff-survey-another-alarm-bell-for-academic-freedom-in-new-zealand
+title: >-
+  Massey University Staff Survey Another Alarm Bell For Academic Freedom In New
+  Zealand
+date: 2024-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00003/massey-university-staff-survey-another-alarm-bell-for-academic-freedom-in-new-zealand.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/09/13/massey-university-staff-survey-another-alarm-bell-for-academic-freedom-in-new-zealand/index.html
+layout: layout.njk
 ---
 Massey University Staff Survey Another Alarm Bell For Academic Freedom In New Zealand
 =====================================================================================

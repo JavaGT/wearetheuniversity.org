@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-in-safe-hands
-title: "Lincoln University in safe hands"
-date: 2018-11-28
-source-url: https://www.scoop.co.nz/stories/ED1811/S00069/lincoln-university-in-safe-hands.htm
+title: Lincoln University in safe hands
+date: 2018-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00069/lincoln-university-in-safe-hands.htm
 author: lincoln-university
+permalink: /archive/2018/11/28/lincoln-university-in-safe-hands/index.html
+layout: layout.njk
 ---
 Lincoln University in safe hands
 ================================

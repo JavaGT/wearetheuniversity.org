@@ -1,9 +1,12 @@
 ---
 slug: education-ministry-heading-for-bankruptcy
-title: "\"Education Ministry heading for bankruptcy\""
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/PA0702/S00172/education-ministry-heading-for-bankruptcy.htm
+title: '"Education Ministry heading for bankruptcy"'
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00172/education-ministry-heading-for-bankruptcy.htm
 author: te-pati-maori
+permalink: /archive/2007/02/12/education-ministry-heading-for-bankruptcy/index.html
+layout: layout.njk
 ---
 “Education Ministry heading for bankruptcy”
 ===========================================

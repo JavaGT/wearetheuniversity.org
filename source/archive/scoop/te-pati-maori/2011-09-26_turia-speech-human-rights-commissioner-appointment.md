@@ -1,9 +1,13 @@
 ---
 slug: turia-speech-human-rights-commissioner-appointment
-title: "Turia Speech: Human Rights Commissioner  Appointment"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/PA1109/S00455/turia-speech-human-rights-commissioner-appointment.htm
+title: 'Turia Speech: Human Rights Commissioner  Appointment'
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00455/turia-speech-human-rights-commissioner-appointment.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/26/turia-speech-human-rights-commissioner-appointment/index.html
+layout: layout.njk
 ---
 Turia Speech: Human Rights Commissioner Appointment
 ===================================================

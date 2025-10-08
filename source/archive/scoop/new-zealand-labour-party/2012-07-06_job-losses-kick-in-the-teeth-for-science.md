@@ -1,9 +1,12 @@
 ---
 slug: job-losses-kick-in-the-teeth-for-science
-title: "Job losses kick in the teeth for science"
-date: 2012-07-06
-source-url: https://www.scoop.co.nz/stories/PA1207/S00092/job-losses-kick-in-the-teeth-for-science.htm
+title: Job losses kick in the teeth for science
+date: 2012-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00092/job-losses-kick-in-the-teeth-for-science.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/06/job-losses-kick-in-the-teeth-for-science/index.html
+layout: layout.njk
 ---
 Job losses kick in the teeth for science
 ========================================

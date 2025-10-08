@@ -1,9 +1,12 @@
 ---
 slug: harawira-treaty-of-waitangi-amendment-bill
-title: "Harawira: Treaty of Waitangi Amendment Bill"
-date: 2008-06-23
-source-url: https://www.scoop.co.nz/stories/PA0806/S00355/harawira-treaty-of-waitangi-amendment-bill.htm
+title: 'Harawira: Treaty of Waitangi Amendment Bill'
+date: 2008-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00355/harawira-treaty-of-waitangi-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/06/23/harawira-treaty-of-waitangi-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Treaty of Waitangi Amendment Bill
 ===========================================

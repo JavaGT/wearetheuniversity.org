@@ -1,9 +1,12 @@
 ---
 slug: would-the-minister-of-health-please-stand-up
-title: "Would The Minister Of Health Please Stand Up?"
-date: 2002-01-14
-source-url: https://www.scoop.co.nz/stories/PA0201/S00040/would-the-minister-of-health-please-stand-up.htm
+title: Would The Minister Of Health Please Stand Up?
+date: 2002-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00040/would-the-minister-of-health-please-stand-up.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/14/would-the-minister-of-health-please-stand-up/index.html
+layout: layout.njk
 ---
 Would The Minister Of Health Please Stand Up?
 =============================================

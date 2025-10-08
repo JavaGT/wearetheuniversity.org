@@ -1,9 +1,12 @@
 ---
 slug: mangere-to-hold-national-on-community-issues
-title: "Mangere To Hold National on Community Issues"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PA0902/S00189/mangere-to-hold-national-on-community-issues.htm
+title: Mangere To Hold National on Community Issues
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00189/mangere-to-hold-national-on-community-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/12/mangere-to-hold-national-on-community-issues/index.html
+layout: layout.njk
 ---
 Mangere To Hold National on Community Issues
 ============================================

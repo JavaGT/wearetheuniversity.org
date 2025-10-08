@@ -1,9 +1,13 @@
 ---
 slug: broken-housing-market-at-the-heart-of-unbalanced-economy
-title: "Broken housing market at the heart of unbalanced economy"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00076/broken-housing-market-at-the-heart-of-unbalanced-economy.htm
+title: Broken housing market at the heart of unbalanced economy
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00076/broken-housing-market-at-the-heart-of-unbalanced-economy.htm
 author: green-party
+permalink: >-
+  /archive/2017/05/04/broken-housing-market-at-the-heart-of-unbalanced-economy/index.html
+layout: layout.njk
 ---
 Broken housing market at the heart of unbalanced economy
 ========================================================

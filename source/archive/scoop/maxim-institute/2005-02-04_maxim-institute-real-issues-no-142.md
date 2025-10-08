@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-142
-title: "Maxim Institute real issues - No. 142"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/PO0502/S00041/maxim-institute-real-issues-no-142.htm
+title: Maxim Institute real issues - No. 142
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0502/S00041/maxim-institute-real-issues-no-142.htm
 author: maxim-institute
+permalink: /archive/2005/02/04/maxim-institute-real-issues-no-142/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues - No. 142
 =====================================

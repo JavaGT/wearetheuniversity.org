@@ -1,9 +1,13 @@
 ---
 slug: report-continues-to-highlight-the-disparities-for-pacific-pe
-title: "Report continues to highlight the disparities for Pacific pe"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/PA1405/S00484/report-continues-to-highlight-the-disparities-for-pacific-pe.htm
+title: Report continues to highlight the disparities for Pacific pe
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00484/report-continues-to-highlight-the-disparities-for-pacific-pe.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/26/report-continues-to-highlight-the-disparities-for-pacific-pe/index.html
+layout: layout.njk
 ---
 Report continues to highlight the disparities for Pacific pe
 ============================================================

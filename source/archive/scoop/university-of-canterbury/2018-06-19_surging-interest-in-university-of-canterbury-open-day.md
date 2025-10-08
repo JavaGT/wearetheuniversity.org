@@ -1,9 +1,13 @@
 ---
 slug: surging-interest-in-university-of-canterbury-open-day
-title: "Surging interest in University of Canterbury Open Day"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/ED1806/S00060/surging-interest-in-university-of-canterbury-open-day.htm
+title: Surging interest in University of Canterbury Open Day
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00060/surging-interest-in-university-of-canterbury-open-day.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/19/surging-interest-in-university-of-canterbury-open-day/index.html
+layout: layout.njk
 ---
 Surging interest in University of Canterbury Open Day
 =====================================================

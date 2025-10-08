@@ -1,9 +1,13 @@
 ---
 slug: predator-free-2050-has-major-benefits-for-human-health
-title: "Predator Free 2050 has major benefits for human health"
-date: 2018-01-15
-source-url: https://www.scoop.co.nz/stories/GE1801/S00017/predator-free-2050-has-major-benefits-for-human-health.htm
+title: Predator Free 2050 has major benefits for human health
+date: 2018-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00017/predator-free-2050-has-major-benefits-for-human-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/01/15/predator-free-2050-has-major-benefits-for-human-health/index.html
+layout: layout.njk
 ---
 Predator Free 2050 has major benefits for human health
 ======================================================

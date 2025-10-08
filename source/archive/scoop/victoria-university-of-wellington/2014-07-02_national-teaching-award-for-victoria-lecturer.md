@@ -1,9 +1,12 @@
 ---
 slug: national-teaching-award-for-victoria-lecturer
-title: "National teaching award for Victoria lecturer"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/ED1407/S00012/national-teaching-award-for-victoria-lecturer.htm
+title: National teaching award for Victoria lecturer
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00012/national-teaching-award-for-victoria-lecturer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/02/national-teaching-award-for-victoria-lecturer/index.html
+layout: layout.njk
 ---
 National teaching award for Victoria lecturer
 =============================================

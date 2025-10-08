@@ -1,9 +1,13 @@
 ---
 slug: wine-tourism-industries-should-keep-eye-on-china
-title: "Wine, tourism industries should keep eye on China"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/BU1505/S00764/wine-tourism-industries-should-keep-eye-on-china.htm
+title: Wine, tourism industries should keep eye on China
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1505/S00764/wine-tourism-industries-should-keep-eye-on-china.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/25/wine-tourism-industries-should-keep-eye-on-china/index.html
+layout: layout.njk
 ---
 Wine, tourism industries should keep eye on China
 =================================================

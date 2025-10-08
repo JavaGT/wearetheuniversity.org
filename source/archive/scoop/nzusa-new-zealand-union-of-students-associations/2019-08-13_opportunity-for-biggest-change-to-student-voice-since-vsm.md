@@ -1,9 +1,13 @@
 ---
 slug: opportunity-for-biggest-change-to-student-voice-since-vsm
-title: "Opportunity for biggest change to student voice since VSM"
-date: 2019-08-13
-source-url: https://www.scoop.co.nz/stories/PO1908/S00184/opportunity-for-biggest-change-to-student-voice-since-vsm.htm
+title: Opportunity for biggest change to student voice since VSM
+date: 2019-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00184/opportunity-for-biggest-change-to-student-voice-since-vsm.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/08/13/opportunity-for-biggest-change-to-student-voice-since-vsm/index.html
+layout: layout.njk
 ---
 Opportunity for biggest change to student voice since VSM
 =========================================================

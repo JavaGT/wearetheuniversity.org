@@ -1,9 +1,12 @@
 ---
 slug: helen-cant-decide-an-election-date
-title: "Helen Can't Decide an Election Date"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/PA0505/S00196/helen-cant-decide-an-election-date.htm
+title: Helen Can't Decide an Election Date
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00196/helen-cant-decide-an-election-date.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/09/helen-cant-decide-an-election-date/index.html
+layout: layout.njk
 ---
 Helen Can't Decide an Election Date
 ===================================

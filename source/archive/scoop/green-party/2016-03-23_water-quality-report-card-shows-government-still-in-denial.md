@@ -1,9 +1,13 @@
 ---
 slug: water-quality-report-card-shows-government-still-in-denial
-title: "Water quality report card shows Government still in denial"
-date: 2016-03-23
-source-url: https://www.scoop.co.nz/stories/PA1603/S00391/water-quality-report-card-shows-government-still-in-denial.htm
+title: Water quality report card shows Government still in denial
+date: 2016-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00391/water-quality-report-card-shows-government-still-in-denial.htm
 author: green-party
+permalink: >-
+  /archive/2016/03/23/water-quality-report-card-shows-government-still-in-denial/index.html
+layout: layout.njk
 ---
 Water quality report card shows Government still in denial
 ==========================================================

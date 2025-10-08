@@ -1,9 +1,12 @@
 ---
 slug: education-minister-fails-comprehension
-title: "Education Minister fails comprehension"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PA0810/S00042/education-minister-fails-comprehension.htm
+title: Education Minister fails comprehension
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00042/education-minister-fails-comprehension.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/01/education-minister-fails-comprehension/index.html
+layout: layout.njk
 ---
 Education Minister fails comprehension
 ======================================

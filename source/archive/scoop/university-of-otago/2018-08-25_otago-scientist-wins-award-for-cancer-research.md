@@ -1,9 +1,12 @@
 ---
 slug: otago-scientist-wins-award-for-cancer-research
-title: "Otago scientist wins award for cancer research"
-date: 2018-08-25
-source-url: https://www.scoop.co.nz/stories/GE1808/S00074/otago-scientist-wins-award-for-cancer-research.htm
+title: Otago scientist wins award for cancer research
+date: 2018-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00074/otago-scientist-wins-award-for-cancer-research.htm
 author: university-of-otago
+permalink: /archive/2018/08/25/otago-scientist-wins-award-for-cancer-research/index.html
+layout: layout.njk
 ---
 Otago scientist wins award for cancer research
 ==============================================

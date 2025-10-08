@@ -1,9 +1,12 @@
 ---
 slug: mâori-students-thrilled-by-labours-proposal
-title: "Mâori students thrilled by Labours proposal"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/ED0507/S00130/maori-students-thrilled-by-labours-proposal.htm
+title: Mâori students thrilled by Labours proposal
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00130/maori-students-thrilled-by-labours-proposal.htm
 author: te-mana-akonga
+permalink: /archive/2005/07/29/m/index.html
+layout: layout.njk
 ---
 Mâori students thrilled by Labours proposal
 ===========================================

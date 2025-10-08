@@ -1,9 +1,12 @@
 ---
 slug: key-security-players-for-massey-advisory-board
-title: "Key Security Players For Massey Advisory Board"
-date: 2012-04-26
-source-url: https://www.scoop.co.nz/stories/ED1204/S00106/key-security-players-for-massey-advisory-board.htm
+title: Key Security Players For Massey Advisory Board
+date: 2012-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00106/key-security-players-for-massey-advisory-board.htm
 author: massey-university
+permalink: /archive/2012/04/26/key-security-players-for-massey-advisory-board/index.html
+layout: layout.njk
 ---
 Key Security Players For Massey Advisory Board
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pacific-medical-student-numbers-skyrocket
-title: "Māori and Pacific medical student numbers skyrocket"
-date: 2018-06-08
-source-url: https://www.scoop.co.nz/stories/ED1806/S00027/maori-and-pacific-medical-student-numbers-skyrocket.htm
+title: Māori and Pacific medical student numbers skyrocket
+date: 2018-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00027/maori-and-pacific-medical-student-numbers-skyrocket.htm
 author: university-of-otago
+permalink: /archive/2018/06/08/m/index.html
+layout: layout.njk
 ---
 Māori and Pacific medical student numbers skyrocket
 ===================================================

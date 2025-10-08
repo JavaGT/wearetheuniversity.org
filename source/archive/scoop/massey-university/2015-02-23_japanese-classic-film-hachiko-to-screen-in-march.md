@@ -1,9 +1,13 @@
 ---
 slug: japanese-classic-film-hachiko-to-screen-in-march
-title: "Japanese classic film 'Hachiko' to screen in March"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/CU1502/S00476/japanese-classic-film-hachiko-to-screen-in-march.htm
+title: Japanese classic film 'Hachiko' to screen in March
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00476/japanese-classic-film-hachiko-to-screen-in-march.htm
 author: massey-university
+permalink: >-
+  /archive/2015/02/23/japanese-classic-film-hachiko-to-screen-in-march/index.html
+layout: layout.njk
 ---
 Japanese classic film 'Hachiko' to screen in March
 ==================================================

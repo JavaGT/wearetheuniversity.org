@@ -1,9 +1,12 @@
 ---
 slug: acc-levy-part-timers-all-liars
-title: "ACC levy: part-timers all liars"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00426/acc-levy-part-timers-all-liars.htm
+title: 'ACC levy: part-timers all liars'
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00426/acc-levy-part-timers-all-liars.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/21/acc-levy-part-timers-all-liars/index.html
+layout: layout.njk
 ---
 ACC levy: part-timers all liars
 ===============================

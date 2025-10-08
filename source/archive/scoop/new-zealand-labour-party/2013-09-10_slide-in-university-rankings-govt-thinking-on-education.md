@@ -1,9 +1,13 @@
 ---
 slug: slide-in-university-rankings-govt-thinking-on-education
-title: "Slide in university rankings - Govt thinking on education"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/PA1309/S00184/slide-in-university-rankings-govt-thinking-on-education.htm
+title: Slide in university rankings - Govt thinking on education
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00184/slide-in-university-rankings-govt-thinking-on-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/10/slide-in-university-rankings-govt-thinking-on-education/index.html
+layout: layout.njk
 ---
 Slide in university rankings - Govt thinking on education
 =========================================================

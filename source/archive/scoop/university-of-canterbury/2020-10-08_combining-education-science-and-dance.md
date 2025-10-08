@@ -1,9 +1,12 @@
 ---
 slug: combining-education-science-and-dance
-title: "Combining Education, Science And Dance"
-date: 2020-10-08
-source-url: https://www.scoop.co.nz/stories/ED2010/S00015/combining-education-science-and-dance.htm
+title: Combining Education, Science And Dance
+date: 2020-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00015/combining-education-science-and-dance.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/08/combining-education-science-and-dance/index.html
+layout: layout.njk
 ---
 Combining Education, Science And Dance
 ======================================

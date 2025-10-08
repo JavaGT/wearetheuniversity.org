@@ -1,9 +1,12 @@
 ---
 slug: by-gully-popular-course-returns
-title: "By gully – popular course returns"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/ED0903/S00026/by-gully-popular-course-returns.htm
+title: By gully – popular course returns
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00026/by-gully-popular-course-returns.htm
 author: university-of-waikato
+permalink: /archive/2009/03/09/by-gully-popular-course-returns/index.html
+layout: layout.njk
 ---
 By gully – popular course returns
 =================================

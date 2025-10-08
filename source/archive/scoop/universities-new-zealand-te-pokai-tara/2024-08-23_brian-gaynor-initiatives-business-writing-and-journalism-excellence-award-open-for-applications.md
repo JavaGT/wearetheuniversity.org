@@ -1,9 +1,16 @@
 ---
-slug: brian-gaynor-initiatives-business-writing-and-journalism-excellence-award-open-for-applications
-title: "Brian Gaynor Initiatives - Business Writing And Journalism Excellence Award Open For Applications"
-date: 2024-08-23
-source-url: https://www.scoop.co.nz/stories/ED2408/S00051/brian-gaynor-initiatives-business-writing-and-journalism-excellence-award-open-for-applications.htm
+slug: >-
+  brian-gaynor-initiatives-business-writing-and-journalism-excellence-award-open-for-applications
+title: >-
+  Brian Gaynor Initiatives - Business Writing And Journalism Excellence Award
+  Open For Applications
+date: 2024-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00051/brian-gaynor-initiatives-business-writing-and-journalism-excellence-award-open-for-applications.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/08/23/brian-gaynor-initiatives-business-writing-and-journalism-excellence-award-open-for-applications/index.html
+layout: layout.njk
 ---
 Brian Gaynor Initiatives - Business Writing And Journalism Excellence Award Open For Applications
 =================================================================================================

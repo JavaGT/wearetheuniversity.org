@@ -1,9 +1,11 @@
 ---
 slug: hnz-lets-tenant-debt-soar
-title: "HNZ lets tenant debt soar"
-date: 2007-04-16
+title: HNZ lets tenant debt soar
+date: 2007-04-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0704/S00260/hnz-lets-tenant-debt-soar.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/16/hnz-lets-tenant-debt-soar/index.html
+layout: layout.njk
 ---
 HNZ lets tenant debt soar
 =========================

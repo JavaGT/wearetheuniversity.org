@@ -1,9 +1,12 @@
 ---
 slug: brash-address-to-the-nz-chamber-of-commerce
-title: "Brash - Address to the NZ Chamber of Commerce"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00175/brash-address-to-the-nz-chamber-of-commerce.htm
+title: Brash - Address to the NZ Chamber of Commerce
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00175/brash-address-to-the-nz-chamber-of-commerce.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/10/brash-address-to-the-nz-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Brash - Address to the NZ Chamber of Commerce
 =============================================

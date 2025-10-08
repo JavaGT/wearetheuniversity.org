@@ -1,9 +1,12 @@
 ---
 slug: city-transport-plan-lacks-courage
-title: "City transport Plan lacks courage"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/AK0809/S00084/city-transport-plan-lacks-courage.htm
+title: City transport Plan lacks courage
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0809/S00084/city-transport-plan-lacks-courage.htm
 author: green-party
+permalink: /archive/2008/09/08/city-transport-plan-lacks-courage/index.html
+layout: layout.njk
 ---
 City transport Plan lacks courage
 =================================

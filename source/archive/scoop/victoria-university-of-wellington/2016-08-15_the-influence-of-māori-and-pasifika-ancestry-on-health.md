@@ -1,9 +1,12 @@
 ---
 slug: the-influence-of-māori-and-pasifika-ancestry-on-health
-title: "The influence of Māori and Pasifika ancestry on health"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/GE1608/S00054/the-influence-of-maori-and-pasifika-ancestry-on-health.htm
+title: The influence of Māori and Pasifika ancestry on health
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00054/the-influence-of-maori-and-pasifika-ancestry-on-health.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/08/15/the-influence-of-m/index.html
+layout: layout.njk
 ---
 The influence of Māori and Pasifika ancestry on health
 ======================================================

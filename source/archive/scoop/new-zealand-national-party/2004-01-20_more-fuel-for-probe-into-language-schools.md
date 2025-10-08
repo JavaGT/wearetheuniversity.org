@@ -1,9 +1,12 @@
 ---
 slug: more-fuel-for-probe-into-language-schools
-title: "More fuel for probe into language schools"
-date: 2004-01-20
-source-url: https://www.scoop.co.nz/stories/PA0401/S00117/more-fuel-for-probe-into-language-schools.htm
+title: More fuel for probe into language schools
+date: 2004-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00117/more-fuel-for-probe-into-language-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/20/more-fuel-for-probe-into-language-schools/index.html
+layout: layout.njk
 ---
 More fuel for probe into language schools
 =========================================

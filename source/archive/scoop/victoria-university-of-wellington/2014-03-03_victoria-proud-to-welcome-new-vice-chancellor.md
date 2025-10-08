@@ -1,9 +1,12 @@
 ---
 slug: victoria-proud-to-welcome-new-vice-chancellor
-title: "Victoria proud to welcome new Vice-Chancellor"
-date: 2014-03-03
-source-url: https://www.scoop.co.nz/stories/ED1403/S00010/victoria-proud-to-welcome-new-vice-chancellor.htm
+title: Victoria proud to welcome new Vice-Chancellor
+date: 2014-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00010/victoria-proud-to-welcome-new-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/03/victoria-proud-to-welcome-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Victoria proud to welcome new Vice-Chancellor
 =============================================

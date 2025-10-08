@@ -1,8 +1,11 @@
 ---
 slug: ncea-students-important-message
-title: "NCEA students – important message"
-date: 2014-01-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/ncea-students-_-important-message-.html
+title: NCEA students – important message
+date: 2014-01-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/ncea-students-_-important-message-.html
+permalink: /archive/2014/01/15/ncea-students-important-message/index.html
+layout: layout.njk
 ---
 NCEA students – important message
 =================================

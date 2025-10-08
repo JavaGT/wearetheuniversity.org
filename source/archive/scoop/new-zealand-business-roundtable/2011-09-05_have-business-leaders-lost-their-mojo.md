@@ -1,9 +1,12 @@
 ---
 slug: have-business-leaders-lost-their-mojo
-title: "Have Business Leaders Lost their Mojo?"
-date: 2011-09-05
-source-url: https://www.scoop.co.nz/stories/BU1109/S00143/have-business-leaders-lost-their-mojo.htm
+title: Have Business Leaders Lost their Mojo?
+date: 2011-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00143/have-business-leaders-lost-their-mojo.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/09/05/have-business-leaders-lost-their-mojo/index.html
+layout: layout.njk
 ---
 Have Business Leaders Lost their Mojo?
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: women-on-the-cutting-edge-of-engineering
-title: "Women on the cutting edge of engineering"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/ED1908/S00002/women-on-the-cutting-edge-of-engineering.htm
+title: Women on the cutting edge of engineering
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00002/women-on-the-cutting-edge-of-engineering.htm
 author: university-of-canterbury
+permalink: /archive/2019/08/01/women-on-the-cutting-edge-of-engineering/index.html
+layout: layout.njk
 ---
 Women on the cutting edge of engineering
 ========================================

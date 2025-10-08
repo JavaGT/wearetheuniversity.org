@@ -1,9 +1,12 @@
 ---
 slug: top-scholarship-for-heavy-vehicle-researcher
-title: "Top scholarship for heavy vehicle researcher"
-date: 2009-09-10
-source-url: https://www.scoop.co.nz/stories/ED0909/S00036/top-scholarship-for-heavy-vehicle-researcher.htm
+title: Top scholarship for heavy vehicle researcher
+date: 2009-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00036/top-scholarship-for-heavy-vehicle-researcher.htm
 author: university-of-waikato
+permalink: /archive/2009/09/10/top-scholarship-for-heavy-vehicle-researcher/index.html
+layout: layout.njk
 ---
 Top scholarship for heavy vehicle researcher
 ============================================

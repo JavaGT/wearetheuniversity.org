@@ -1,9 +1,13 @@
 ---
 slug: education-crusade-is-no-knight-in-shining-armour
-title: "Education Crusade Is No Knight In Shining Armour"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00041/education-crusade-is-no-knight-in-shining-armour.htm
+title: Education Crusade Is No Knight In Shining Armour
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00041/education-crusade-is-no-knight-in-shining-armour.htm
 author: nzei
+permalink: >-
+  /archive/2008/10/13/education-crusade-is-no-knight-in-shining-armour/index.html
+layout: layout.njk
 ---
 Education Crusade Is No Knight In Shining Armour
 ================================================

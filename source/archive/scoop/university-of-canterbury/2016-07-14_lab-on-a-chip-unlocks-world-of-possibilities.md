@@ -1,9 +1,12 @@
 ---
 slug: lab-on-a-chip-unlocks-world-of-possibilities
-title: "Lab-on-a-chip unlocks world of possibilities"
-date: 2016-07-14
-source-url: https://www.scoop.co.nz/stories/SC1607/S00040/lab-on-a-chip-unlocks-world-of-possibilities.htm
+title: Lab-on-a-chip unlocks world of possibilities
+date: 2016-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00040/lab-on-a-chip-unlocks-world-of-possibilities.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/14/lab-on-a-chip-unlocks-world-of-possibilities/index.html
+layout: layout.njk
 ---
 Lab-on-a-chip unlocks world of possibilities
 ============================================

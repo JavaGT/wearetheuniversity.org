@@ -1,9 +1,12 @@
 ---
 slug: foolish-policies-hobbling-new-zealands-future
-title: "Foolish Policies Hobbling New Zealand's Future"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PA1408/S00443/foolish-policies-hobbling-new-zealands-future.htm
+title: Foolish Policies Hobbling New Zealand's Future
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00443/foolish-policies-hobbling-new-zealands-future.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/29/foolish-policies-hobbling-new-zealands-future/index.html
+layout: layout.njk
 ---
 Foolish Policies Hobbling New Zealand's Future
 ==============================================

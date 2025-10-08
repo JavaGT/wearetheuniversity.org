@@ -1,9 +1,12 @@
 ---
 slug: education-for-all-including-waitresses
-title: "Education for all – including ‘waitresses’"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/PA1602/S00017/education-for-all-including-waitresses.htm
+title: Education for all – including ‘waitresses’
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00017/education-for-all-including-waitresses.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/02/education-for-all-including-waitresses/index.html
+layout: layout.njk
 ---
 Education for all – including ‘waitresses’
 ==========================================

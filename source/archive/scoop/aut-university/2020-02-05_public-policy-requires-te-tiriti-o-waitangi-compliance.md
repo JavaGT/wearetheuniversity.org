@@ -1,9 +1,13 @@
 ---
 slug: public-policy-requires-te-tiriti-o-waitangi-compliance
-title: "Public policy requires te Tiriti o Waitangi compliance"
-date: 2020-02-05
-source-url: https://www.scoop.co.nz/stories/ED2002/S00004/public-policy-requires-te-tiriti-o-waitangi-compliance.htm
+title: Public policy requires te Tiriti o Waitangi compliance
+date: 2020-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2002/S00004/public-policy-requires-te-tiriti-o-waitangi-compliance.htm
 author: aut-university
+permalink: >-
+  /archive/2020/02/05/public-policy-requires-te-tiriti-o-waitangi-compliance/index.html
+layout: layout.njk
 ---
 Public policy requires te Tiriti o Waitangi compliance
 ======================================================

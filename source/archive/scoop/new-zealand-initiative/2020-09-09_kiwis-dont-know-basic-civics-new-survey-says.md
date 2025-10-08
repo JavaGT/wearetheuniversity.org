@@ -1,9 +1,12 @@
 ---
 slug: kiwis-dont-know-basic-civics-new-survey-says
-title: "Kiwis Don’t Know Basic Civics, New Survey Says"
-date: 2020-09-09
-source-url: https://www.scoop.co.nz/stories/PO2009/S00082/kiwis-dont-know-basic-civics-new-survey-says.htm
+title: Kiwis Don’t Know Basic Civics, New Survey Says
+date: 2020-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00082/kiwis-dont-know-basic-civics-new-survey-says.htm
 author: new-zealand-initiative
+permalink: /archive/2020/09/09/kiwis-dont-know-basic-civics-new-survey-says/index.html
+layout: layout.njk
 ---
 Kiwis Don’t Know Basic Civics, New Survey Says
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: fat-surplus-no-comfort-for-lean-students
-title: "Fat surplus no comfort for lean students"
-date: 2004-01-30
-source-url: https://www.scoop.co.nz/stories/PA0401/S00304/fat-surplus-no-comfort-for-lean-students.htm
+title: Fat surplus no comfort for lean students
+date: 2004-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00304/fat-surplus-no-comfort-for-lean-students.htm
 author: green-party
+permalink: /archive/2004/01/30/fat-surplus-no-comfort-for-lean-students/index.html
+layout: layout.njk
 ---
 Fat surplus no comfort for lean students
 ========================================

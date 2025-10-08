@@ -1,9 +1,12 @@
 ---
 slug: john-keys-mining-plans-100%-dumb
-title: "John Key’s mining plans - 100% Dumb"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00329/john-keys-mining-plans-100-dumb.htm
+title: John Key’s mining plans - 100% Dumb
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00329/john-keys-mining-plans-100-dumb.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/23/john-keys-mining-plans-100/index.html
+layout: layout.njk
 ---
 John Key’s mining plans - 100% Dumb
 ===================================

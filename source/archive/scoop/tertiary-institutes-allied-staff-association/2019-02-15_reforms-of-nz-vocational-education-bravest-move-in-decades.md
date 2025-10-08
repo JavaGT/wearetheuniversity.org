@@ -1,9 +1,13 @@
 ---
 slug: reforms-of-nz-vocational-education-bravest-move-in-decades
-title: "Reforms of NZ vocational education \"bravest move in decades\""
-date: 2019-02-15
-source-url: https://www.scoop.co.nz/stories/ED1902/S00049/reforms-of-nz-vocational-education-bravest-move-in-decades.htm
+title: Reforms of NZ vocational education "bravest move in decades"
+date: 2019-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00049/reforms-of-nz-vocational-education-bravest-move-in-decades.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2019/02/15/reforms-of-nz-vocational-education-bravest-move-in-decades/index.html
+layout: layout.njk
 ---
 Reforms of NZ vocational education “bravest move in decades"
 ============================================================

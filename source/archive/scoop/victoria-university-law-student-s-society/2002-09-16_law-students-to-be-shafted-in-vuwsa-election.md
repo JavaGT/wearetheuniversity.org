@@ -1,9 +1,12 @@
 ---
 slug: law-students-to-be-shafted-in-vuwsa-election
-title: "Law Students to be shafted in VUWSA Election"
-date: 2002-09-16
-source-url: https://www.scoop.co.nz/stories/ED0209/S00023/law-students-to-be-shafted-in-vuwsa-election.htm
+title: Law Students to be shafted in VUWSA Election
+date: 2002-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00023/law-students-to-be-shafted-in-vuwsa-election.htm
 author: victoria-university-law-student-s-society
+permalink: /archive/2002/09/16/law-students-to-be-shafted-in-vuwsa-election/index.html
+layout: layout.njk
 ---
 Law Students to be shafted in VUWSA Election
 ============================================

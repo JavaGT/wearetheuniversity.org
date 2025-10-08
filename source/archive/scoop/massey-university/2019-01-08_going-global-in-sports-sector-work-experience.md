@@ -1,9 +1,12 @@
 ---
 slug: going-global-in-sports-sector-work-experience
-title: "Going global in sports’ sector work experience"
-date: 2019-01-08
-source-url: https://www.scoop.co.nz/stories/ED1901/S00003/going-global-in-sports-sector-work-experience.htm
+title: Going global in sports’ sector work experience
+date: 2019-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1901/S00003/going-global-in-sports-sector-work-experience.htm
 author: massey-university
+permalink: /archive/2019/01/08/going-global-in-sports-sector-work-experience/index.html
+layout: layout.njk
 ---
 Going global in sports’ sector work experience
 ==============================================

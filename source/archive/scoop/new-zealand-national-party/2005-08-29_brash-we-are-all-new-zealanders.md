@@ -1,9 +1,12 @@
 ---
 slug: brash-we-are-all-new-zealanders
-title: "Brash: We Are All New Zealanders"
-date: 2005-08-29
-source-url: https://www.scoop.co.nz/stories/PA0508/S00745/brash-we-are-all-new-zealanders.htm
+title: 'Brash: We Are All New Zealanders'
+date: 2005-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00745/brash-we-are-all-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/29/brash-we-are-all-new-zealanders/index.html
+layout: layout.njk
 ---
 Brash: We Are All New Zealanders
 ================================

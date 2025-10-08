@@ -1,9 +1,12 @@
 ---
 slug: the-luminaries-winner-gives-away-riches
-title: "The Luminaries winner gives away riches"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/CU1408/S00512/the-luminaries-winner-gives-away-riches.htm
+title: The Luminaries winner gives away riches
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00512/the-luminaries-winner-gives-away-riches.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/28/the-luminaries-winner-gives-away-riches/index.html
+layout: layout.njk
 ---
 The Luminaries winner gives away riches
 =======================================

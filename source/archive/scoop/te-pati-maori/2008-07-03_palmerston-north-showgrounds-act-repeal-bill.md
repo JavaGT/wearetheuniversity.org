@@ -1,9 +1,12 @@
 ---
 slug: palmerston-north-showgrounds-act-repeal-bill
-title: "Palmerston North Showgrounds Act Repeal Bill"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00072/palmerston-north-showgrounds-act-repeal-bill.htm
+title: Palmerston North Showgrounds Act Repeal Bill
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00072/palmerston-north-showgrounds-act-repeal-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/07/03/palmerston-north-showgrounds-act-repeal-bill/index.html
+layout: layout.njk
 ---
 Palmerston North Showgrounds Act Repeal Bill
 ============================================

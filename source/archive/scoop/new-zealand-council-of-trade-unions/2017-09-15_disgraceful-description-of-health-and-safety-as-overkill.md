@@ -1,9 +1,13 @@
 ---
 slug: disgraceful-description-of-health-and-safety-as-overkill
-title: "Disgraceful description of health and safety as \"overkill\""
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PO1709/S00288/disgraceful-description-of-health-and-safety-as-overkill.htm
+title: Disgraceful description of health and safety as "overkill"
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00288/disgraceful-description-of-health-and-safety-as-overkill.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2017/09/15/disgraceful-description-of-health-and-safety-as-overkill/index.html
+layout: layout.njk
 ---
 Disgraceful description of health and safety as \"overkill"
 ==========================================================

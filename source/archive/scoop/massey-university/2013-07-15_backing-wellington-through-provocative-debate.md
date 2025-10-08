@@ -1,9 +1,12 @@
 ---
 slug: backing-wellington-through-provocative-debate
-title: "Backing Wellington through provocative debate"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/AK1307/S00393/backing-wellington-through-provocative-debate.htm
+title: Backing Wellington through provocative debate
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00393/backing-wellington-through-provocative-debate.htm
 author: massey-university
+permalink: /archive/2013/07/15/backing-wellington-through-provocative-debate/index.html
+layout: layout.njk
 ---
 Backing Wellington through provocative debate
 =============================================

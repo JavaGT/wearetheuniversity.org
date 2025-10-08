@@ -1,9 +1,13 @@
 ---
 slug: dont-make-christchurch-kids-charter-school-guinea-pigs
-title: "Don’t make Christchurch kids charter school guinea pigs"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PA1210/S00177/dont-make-christchurch-kids-charter-school-guinea-pigs.htm
+title: Don’t make Christchurch kids charter school guinea pigs
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00177/dont-make-christchurch-kids-charter-school-guinea-pigs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/10/dont-make-christchurch-kids-charter-school-guinea-pigs/index.html
+layout: layout.njk
 ---
 Don’t make Christchurch kids charter school guinea pigs
 =======================================================

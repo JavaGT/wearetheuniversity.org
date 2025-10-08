@@ -1,9 +1,12 @@
 ---
 slug: escalating-prison-costs-salt-in-the-wound
-title: "Escalating prison costs salt in the wound"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00500/escalating-prison-costs-salt-in-the-wound.htm
+title: Escalating prison costs salt in the wound
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00500/escalating-prison-costs-salt-in-the-wound.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/24/escalating-prison-costs-salt-in-the-wound/index.html
+layout: layout.njk
 ---
 Escalating prison costs salt in the wound
 =========================================

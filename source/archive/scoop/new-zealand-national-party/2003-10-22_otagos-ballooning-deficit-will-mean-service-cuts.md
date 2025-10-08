@@ -1,9 +1,13 @@
 ---
 slug: otagos-ballooning-deficit-will-mean-service-cuts
-title: "Otago's ballooning deficit will mean service cuts"
-date: 2003-10-22
-source-url: https://www.scoop.co.nz/stories/PA0310/S00520/otagos-ballooning-deficit-will-mean-service-cuts.htm
+title: Otago's ballooning deficit will mean service cuts
+date: 2003-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00520/otagos-ballooning-deficit-will-mean-service-cuts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/10/22/otagos-ballooning-deficit-will-mean-service-cuts/index.html
+layout: layout.njk
 ---
 Otago's ballooning deficit will mean service cuts
 =================================================

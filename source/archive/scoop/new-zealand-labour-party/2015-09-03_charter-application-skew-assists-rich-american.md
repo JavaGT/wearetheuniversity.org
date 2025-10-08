@@ -1,9 +1,12 @@
 ---
 slug: charter-application-skew-assists-rich-american
-title: "Charter application skew assists rich American"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/PA1509/S00058/charter-application-skew-assists-rich-american.htm
+title: Charter application skew assists rich American
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00058/charter-application-skew-assists-rich-american.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/03/charter-application-skew-assists-rich-american/index.html
+layout: layout.njk
 ---
 Charter application skew assists rich American
 ==============================================

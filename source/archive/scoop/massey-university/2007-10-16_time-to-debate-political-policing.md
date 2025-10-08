@@ -1,9 +1,12 @@
 ---
 slug: time-to-debate-political-policing
-title: "Time to debate political policing"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/PO0710/S00239/time-to-debate-political-policing.htm
+title: Time to debate political policing
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00239/time-to-debate-political-policing.htm
 author: massey-university
+permalink: /archive/2007/10/16/time-to-debate-political-policing/index.html
+layout: layout.njk
 ---
 Time to debate political policing
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: act-party-moves-to-rekindle-its-liberal-vision
-title: "ACT Party Moves to Rekindle Its 'Liberal' Vision"
-date: 2001-11-01
-source-url: https://www.scoop.co.nz/stories/PO0111/S00007/act-party-moves-to-rekindle-its-liberal-vision.htm
+title: ACT Party Moves to Rekindle Its 'Liberal' Vision
+date: 2001-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0111/S00007/act-party-moves-to-rekindle-its-liberal-vision.htm
 author: act-new-zealand
+permalink: /archive/2001/11/01/act-party-moves-to-rekindle-its-liberal-vision/index.html
+layout: layout.njk
 ---
 ACT Party Moves to Rekindle Its 'Liberal' Vision
 ================================================

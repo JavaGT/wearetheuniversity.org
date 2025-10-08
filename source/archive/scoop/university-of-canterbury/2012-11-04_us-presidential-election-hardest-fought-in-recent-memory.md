@@ -1,9 +1,13 @@
 ---
 slug: us-presidential-election-hardest-fought-in-recent-memory
-title: "US presidential election hardest fought in recent memory"
-date: 2012-11-04
-source-url: https://www.scoop.co.nz/stories/WO1211/S00030/us-presidential-election-hardest-fought-in-recent-memory.htm
+title: US presidential election hardest fought in recent memory
+date: 2012-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1211/S00030/us-presidential-election-hardest-fought-in-recent-memory.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/04/us-presidential-election-hardest-fought-in-recent-memory/index.html
+layout: layout.njk
 ---
 US presidential election hardest fought in recent memory
 ========================================================

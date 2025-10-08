@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-forensic-issues-to-help-court-processes
-title: "UC researching forensic issues to help court processes"
-date: 2013-11-06
-source-url: https://www.scoop.co.nz/stories/SC1311/S00014/uc-researching-forensic-issues-to-help-court-processes.htm
+title: UC researching forensic issues to help court processes
+date: 2013-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00014/uc-researching-forensic-issues-to-help-court-processes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/06/uc-researching-forensic-issues-to-help-court-processes/index.html
+layout: layout.njk
 ---
 UC researching forensic issues to help court processes
 ======================================================

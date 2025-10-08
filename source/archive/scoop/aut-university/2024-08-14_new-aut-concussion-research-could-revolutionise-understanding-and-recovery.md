@@ -1,9 +1,13 @@
 ---
 slug: new-aut-concussion-research-could-revolutionise-understanding-and-recovery
-title: "New AUT Concussion Research Could Revolutionise Understanding And Recovery"
-date: 2024-08-14
-source-url: https://www.scoop.co.nz/stories/ED2408/S00028/new-aut-concussion-research-could-revolutionise-understanding-and-recovery.htm
+title: New AUT Concussion Research Could Revolutionise Understanding And Recovery
+date: 2024-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00028/new-aut-concussion-research-could-revolutionise-understanding-and-recovery.htm
 author: aut-university
+permalink: >-
+  /archive/2024/08/14/new-aut-concussion-research-could-revolutionise-understanding-and-recovery/index.html
+layout: layout.njk
 ---
 New AUT Concussion Research Could Revolutionise Understanding And Recovery
 ==========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-nominees-for-asia-pacific-peace-prize
-title: "Call for nominees for Asia Pacific Peace Prize"
-date: 2006-05-23
-source-url: https://www.scoop.co.nz/stories/ED0605/S00089/call-for-nominees-for-asia-pacific-peace-prize.htm
+title: Call for nominees for Asia Pacific Peace Prize
+date: 2006-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00089/call-for-nominees-for-asia-pacific-peace-prize.htm
 author: university-of-the-south-pacific
+permalink: /archive/2006/05/23/call-for-nominees-for-asia-pacific-peace-prize/index.html
+layout: layout.njk
 ---
 Call for nominees for Asia Pacific Peace Prize
 ==============================================

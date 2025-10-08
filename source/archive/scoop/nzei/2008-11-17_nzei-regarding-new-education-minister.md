@@ -1,9 +1,12 @@
 ---
 slug: nzei-regarding-new-education-minister
-title: "NZEI - Regarding New Education Minister"
-date: 2008-11-17
-source-url: https://www.scoop.co.nz/stories/PO0811/S00215/nzei-regarding-new-education-minister.htm
+title: NZEI - Regarding New Education Minister
+date: 2008-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00215/nzei-regarding-new-education-minister.htm
 author: nzei
+permalink: /archive/2008/11/17/nzei-regarding-new-education-minister/index.html
+layout: layout.njk
 ---
 NZEI - Regarding New Education Minister
 =======================================

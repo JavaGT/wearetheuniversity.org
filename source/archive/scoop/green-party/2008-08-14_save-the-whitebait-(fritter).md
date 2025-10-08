@@ -1,9 +1,11 @@
 ---
 slug: save-the-whitebait-(fritter)
-title: "Save the Whitebait (fritter)"
-date: 2008-08-14
+title: Save the Whitebait (fritter)
+date: 2008-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00245/save-the-whitebait-fritter.htm
 author: green-party
+permalink: /archive/2008/08/14/save-the-whitebait-/index.html
+layout: layout.njk
 ---
 Save the Whitebait (fritter)
 ============================

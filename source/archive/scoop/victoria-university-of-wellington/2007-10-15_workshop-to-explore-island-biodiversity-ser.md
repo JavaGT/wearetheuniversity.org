@@ -1,9 +1,12 @@
 ---
 slug: workshop-to-explore-island-biodiversity-ser
-title: "Workshop to explore island biodiversity ser"
-date: 2007-10-15
-source-url: https://www.scoop.co.nz/stories/SC0710/S00024/workshop-to-explore-island-biodiversity-ser.htm
+title: Workshop to explore island biodiversity ser
+date: 2007-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0710/S00024/workshop-to-explore-island-biodiversity-ser.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/15/workshop-to-explore-island-biodiversity-ser/index.html
+layout: layout.njk
 ---
 Workshop to explore island biodiversity ser
 ===========================================

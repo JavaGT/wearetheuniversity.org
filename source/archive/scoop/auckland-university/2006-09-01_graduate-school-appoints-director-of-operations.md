@@ -1,9 +1,12 @@
 ---
 slug: graduate-school-appoints-director-of-operations
-title: "Graduate School appoints Director of Operations"
-date: 2006-09-01
-source-url: https://www.scoop.co.nz/stories/ED0609/S00001/graduate-school-appoints-director-of-operations.htm
+title: Graduate School appoints Director of Operations
+date: 2006-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00001/graduate-school-appoints-director-of-operations.htm
 author: auckland-university
+permalink: /archive/2006/09/01/graduate-school-appoints-director-of-operations/index.html
+layout: layout.njk
 ---
 Graduate School appoints Director of Operations
 ===============================================

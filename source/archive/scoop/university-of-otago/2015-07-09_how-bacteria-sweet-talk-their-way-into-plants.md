@@ -1,9 +1,12 @@
 ---
 slug: how-bacteria-sweet-talk-their-way-into-plants
-title: "How bacteria sweet-talk their way into plants"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/SC1507/S00026/how-bacteria-sweet-talk-their-way-into-plants.htm
+title: How bacteria sweet-talk their way into plants
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00026/how-bacteria-sweet-talk-their-way-into-plants.htm
 author: university-of-otago
+permalink: /archive/2015/07/09/how-bacteria-sweet-talk-their-way-into-plants/index.html
+layout: layout.njk
 ---
 How bacteria sweet-talk their way into plants
 =============================================

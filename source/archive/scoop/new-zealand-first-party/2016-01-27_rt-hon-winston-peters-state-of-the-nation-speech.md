@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peters-state-of-the-nation-speech
-title: "Rt Hon Winston Peters: State of the Nation Speech"
-date: 2016-01-27
-source-url: https://www.scoop.co.nz/stories/PA1601/S00115/rt-hon-winston-peters-state-of-the-nation-speech.htm
+title: 'Rt Hon Winston Peters: State of the Nation Speech'
+date: 2016-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00115/rt-hon-winston-peters-state-of-the-nation-speech.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/01/27/rt-hon-winston-peters-state-of-the-nation-speech/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters: State of the Nation Speech
 =================================================

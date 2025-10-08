@@ -1,9 +1,13 @@
 ---
 slug: new-power-plant-makes-mockery-of-climate-change-goals
-title: "New power plant makes mockery of climate change goals"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00100/new-power-plant-makes-mockery-of-climate-change-goals.htm
+title: New power plant makes mockery of climate change goals
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00100/new-power-plant-makes-mockery-of-climate-change-goals.htm
 author: green-party
+permalink: >-
+  /archive/2017/05/04/new-power-plant-makes-mockery-of-climate-change-goals/index.html
+layout: layout.njk
 ---
 New power plant makes mockery of climate change goals
 =====================================================

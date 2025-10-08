@@ -1,9 +1,13 @@
 ---
 slug: uc-students-win-national-engineering-prize-for-10th-time
-title: "UC students win national engineering prize for 10th time"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/ED1603/S00081/uc-students-win-national-engineering-prize-for-10th-time.htm
+title: UC students win national engineering prize for 10th time
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00081/uc-students-win-national-engineering-prize-for-10th-time.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/22/uc-students-win-national-engineering-prize-for-10th-time/index.html
+layout: layout.njk
 ---
 UC students win national engineering prize for 10th time
 ========================================================

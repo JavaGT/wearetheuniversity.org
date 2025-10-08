@@ -1,9 +1,13 @@
 ---
 slug: conservatorium-of-music-presents-the-marriage-of-figaro
-title: "Conservatorium of Music Presents the Marriage of Figaro"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/AK1606/S00211/conservatorium-of-music-presents-the-marriage-of-figaro.htm
+title: Conservatorium of Music Presents the Marriage of Figaro
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1606/S00211/conservatorium-of-music-presents-the-marriage-of-figaro.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/08/conservatorium-of-music-presents-the-marriage-of-figaro/index.html
+layout: layout.njk
 ---
 Conservatorium of Music Presents the Marriage of Figaro
 =======================================================

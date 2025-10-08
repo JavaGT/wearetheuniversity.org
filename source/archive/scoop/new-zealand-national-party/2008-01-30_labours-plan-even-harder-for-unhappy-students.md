@@ -1,9 +1,12 @@
 ---
 slug: labours-plan-even-harder-for-unhappy-students
-title: "Labour’s plan – even harder for unhappy students"
-date: 2008-01-30
-source-url: https://www.scoop.co.nz/stories/PA0801/S00233/labours-plan-even-harder-for-unhappy-students.htm
+title: Labour’s plan – even harder for unhappy students
+date: 2008-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00233/labours-plan-even-harder-for-unhappy-students.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/30/labours-plan-even-harder-for-unhappy-students/index.html
+layout: layout.njk
 ---
 Labour’s plan – even harder for unhappy students
 ================================================

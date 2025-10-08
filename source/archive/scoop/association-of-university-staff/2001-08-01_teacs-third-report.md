@@ -1,9 +1,11 @@
 ---
 slug: teacs-third-report
-title: "TEAC's third report"
-date: 2001-08-01
+title: TEAC's third report
+date: 2001-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00007/teacs-third-report.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/01/teacs-third-report/index.html
+layout: layout.njk
 ---
 TEAC's third report
 ===================

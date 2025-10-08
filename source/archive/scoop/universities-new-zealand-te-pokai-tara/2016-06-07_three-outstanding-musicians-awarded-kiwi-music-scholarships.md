@@ -1,9 +1,13 @@
 ---
 slug: three-outstanding-musicians-awarded-kiwi-music-scholarships
-title: "Three outstanding musicians awarded Kiwi music scholarships"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/PO1606/S00052/three-outstanding-musicians-awarded-kiwi-music-scholarships.htm
+title: Three outstanding musicians awarded Kiwi music scholarships
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00052/three-outstanding-musicians-awarded-kiwi-music-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/06/07/three-outstanding-musicians-awarded-kiwi-music-scholarships/index.html
+layout: layout.njk
 ---
 Three outstanding musicians awarded Kiwi music scholarships
 ===========================================================

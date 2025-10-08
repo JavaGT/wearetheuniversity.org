@@ -1,9 +1,12 @@
 ---
 slug: nationals-record-undermining-education
-title: "National’s Record: Undermining Education"
-date: 2012-09-09
-source-url: https://www.scoop.co.nz/stories/PA1209/S00106/nationals-record-undermining-education.htm
+title: 'National’s Record: Undermining Education'
+date: 2012-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00106/nationals-record-undermining-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/09/nationals-record-undermining-education/index.html
+layout: layout.njk
 ---
 National’s Record: Undermining Education
 ========================================

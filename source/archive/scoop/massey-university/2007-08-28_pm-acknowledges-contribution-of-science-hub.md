@@ -1,9 +1,12 @@
 ---
 slug: pm-acknowledges-contribution-of-science-hub
-title: "PM acknowledges contribution of science hub"
-date: 2007-08-28
-source-url: https://www.scoop.co.nz/stories/ED0708/S00091/pm-acknowledges-contribution-of-science-hub.htm
+title: PM acknowledges contribution of science hub
+date: 2007-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00091/pm-acknowledges-contribution-of-science-hub.htm
 author: massey-university
+permalink: /archive/2007/08/28/pm-acknowledges-contribution-of-science-hub/index.html
+layout: layout.njk
 ---
 PM acknowledges contribution of science hub
 ===========================================

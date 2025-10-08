@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-265-child-abuse
-title: "Real Issues No. 265 – Child Abuse"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/PO0708/S00149/real-issues-no-265-child-abuse.htm
+title: Real Issues No. 265 – Child Abuse
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0708/S00149/real-issues-no-265-child-abuse.htm
 author: maxim-institute
+permalink: /archive/2007/08/10/real-issues-no-265-child-abuse/index.html
+layout: layout.njk
 ---
 Real Issues No. 265 – Child Abuse
 =================================

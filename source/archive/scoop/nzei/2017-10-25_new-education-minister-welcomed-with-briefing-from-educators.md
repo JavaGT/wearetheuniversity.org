@@ -1,9 +1,13 @@
 ---
 slug: new-education-minister-welcomed-with-briefing-from-educators
-title: "New Education Minister Welcomed with Briefing from Educators"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/ED1710/S00073/new-education-minister-welcomed-with-briefing-from-educators.htm
+title: New Education Minister Welcomed with Briefing from Educators
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00073/new-education-minister-welcomed-with-briefing-from-educators.htm
 author: nzei
+permalink: >-
+  /archive/2017/10/25/new-education-minister-welcomed-with-briefing-from-educators/index.html
+layout: layout.njk
 ---
 New Education Minister Welcomed with Briefing from Educators
 ============================================================

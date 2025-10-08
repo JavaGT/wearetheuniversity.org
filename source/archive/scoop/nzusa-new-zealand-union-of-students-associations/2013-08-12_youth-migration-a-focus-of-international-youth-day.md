@@ -1,9 +1,13 @@
 ---
 slug: youth-migration-a-focus-of-international-youth-day
-title: "Youth migration a focus of International Youth Day"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/ED1308/S00054/youth-migration-a-focus-of-international-youth-day.htm
+title: Youth migration a focus of International Youth Day
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00054/youth-migration-a-focus-of-international-youth-day.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/08/12/youth-migration-a-focus-of-international-youth-day/index.html
+layout: layout.njk
 ---
 Youth migration a focus of International Youth Day
 ==================================================

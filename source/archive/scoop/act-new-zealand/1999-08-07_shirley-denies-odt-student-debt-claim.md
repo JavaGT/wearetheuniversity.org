@@ -1,9 +1,12 @@
 ---
 slug: shirley-denies-odt-student-debt-claim
-title: "Shirley Denies ODT Student Debt Claim"
-date: 1999-08-07
-source-url: https://www.scoop.co.nz/stories/PA9908/S00123/shirley-denies-odt-student-debt-claim.htm
+title: Shirley Denies ODT Student Debt Claim
+date: 1999-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00123/shirley-denies-odt-student-debt-claim.htm
 author: act-new-zealand
+permalink: /archive/1999/08/07/shirley-denies-odt-student-debt-claim/index.html
+layout: layout.njk
 ---
 Shirley Denies ODT Student Debt Claim
 =====================================

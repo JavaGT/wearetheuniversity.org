@@ -1,9 +1,13 @@
 ---
 slug: alcohol-action-is-suicide-prevention-mps-must-act
-title: "Alcohol Action Is Suicide Prevention - MPs Must Act"
-date: 2022-07-15
-source-url: https://www.scoop.co.nz/stories/PA2207/S00104/alcohol-action-is-suicide-prevention-mps-must-act.htm
+title: Alcohol Action Is Suicide Prevention - MPs Must Act
+date: 2022-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00104/alcohol-action-is-suicide-prevention-mps-must-act.htm
 author: green-party
+permalink: >-
+  /archive/2022/07/15/alcohol-action-is-suicide-prevention-mps-must-act/index.html
+layout: layout.njk
 ---
 Alcohol Action Is Suicide Prevention - MPs Must Act
 ===================================================

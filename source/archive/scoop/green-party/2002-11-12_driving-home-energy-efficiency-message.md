@@ -1,9 +1,12 @@
 ---
 slug: driving-home-energy-efficiency-message
-title: "Driving home energy efficiency message"
-date: 2002-11-12
-source-url: https://www.scoop.co.nz/stories/PA0211/S00267/driving-home-energy-efficiency-message.htm
+title: Driving home energy efficiency message
+date: 2002-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00267/driving-home-energy-efficiency-message.htm
 author: green-party
+permalink: /archive/2002/11/12/driving-home-energy-efficiency-message/index.html
+layout: layout.njk
 ---
 Driving home energy efficiency message
 ======================================

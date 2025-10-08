@@ -1,9 +1,13 @@
 ---
 slug: labour-greens-want-voluntary-student-associations-to-fail
-title: "Labour/Greens want voluntary student associations to fail"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/PO1105/S00078/labourgreens-want-voluntary-student-associations-to-fail.htm
+title: Labour/Greens want voluntary student associations to fail
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00078/labourgreens-want-voluntary-student-associations-to-fail.htm
 author: student-choice
+permalink: >-
+  /archive/2011/05/06/labour-greens-want-voluntary-student-associations-to-fail/index.html
+layout: layout.njk
 ---
 Labour/Greens want voluntary student associations to fail
 =========================================================

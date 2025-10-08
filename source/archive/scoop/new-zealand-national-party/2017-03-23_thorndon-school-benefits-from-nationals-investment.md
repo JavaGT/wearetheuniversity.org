@@ -1,9 +1,13 @@
 ---
 slug: thorndon-school-benefits-from-nationals-investment
-title: "Thorndon School benefits from National’s investment"
-date: 2017-03-23
-source-url: https://www.scoop.co.nz/stories/PA1703/S00403/thorndon-school-benefits-from-nationals-investment.htm
+title: Thorndon School benefits from National’s investment
+date: 2017-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00403/thorndon-school-benefits-from-nationals-investment.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/03/23/thorndon-school-benefits-from-nationals-investment/index.html
+layout: layout.njk
 ---
 Thorndon School benefits from National’s investment
 ===================================================

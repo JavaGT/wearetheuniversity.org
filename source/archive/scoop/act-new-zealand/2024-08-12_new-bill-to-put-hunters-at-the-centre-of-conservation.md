@@ -1,9 +1,13 @@
 ---
 slug: new-bill-to-put-hunters-at-the-centre-of-conservation
-title: "New Bill To Put Hunters At The Centre Of Conservation"
-date: 2024-08-12
-source-url: https://www.scoop.co.nz/stories/PA2408/S00072/new-bill-to-put-hunters-at-the-centre-of-conservation.htm
+title: New Bill To Put Hunters At The Centre Of Conservation
+date: 2024-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00072/new-bill-to-put-hunters-at-the-centre-of-conservation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/08/12/new-bill-to-put-hunters-at-the-centre-of-conservation/index.html
+layout: layout.njk
 ---
 New Bill To Put Hunters At The Centre Of Conservation
 =====================================================

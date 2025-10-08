@@ -1,9 +1,16 @@
 ---
-slug: pop-up-vaccination-centre-a-shot-in-the-arm-for-lincoln-university-campus-community
-title: "Pop-up Vaccination Centre A ‘shot In The Arm’ For Lincoln University Campus Community"
-date: 2021-10-15
-source-url: https://www.scoop.co.nz/stories/AK2110/S00309/pop-up-vaccination-centre-a-shot-in-the-arm-for-lincoln-university-campus-community.htm
+slug: >-
+  pop-up-vaccination-centre-a-shot-in-the-arm-for-lincoln-university-campus-community
+title: >-
+  Pop-up Vaccination Centre A ‘shot In The Arm’ For Lincoln University Campus
+  Community
+date: 2021-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2110/S00309/pop-up-vaccination-centre-a-shot-in-the-arm-for-lincoln-university-campus-community.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/10/15/pop-up-vaccination-centre-a-shot-in-the-arm-for-lincoln-university-campus-community/index.html
+layout: layout.njk
 ---
 Pop-up Vaccination Centre A ‘shot In The Arm’ For Lincoln University Campus Community
 =====================================================================================

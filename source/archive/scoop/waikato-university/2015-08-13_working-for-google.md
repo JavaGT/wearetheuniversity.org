@@ -1,9 +1,11 @@
 ---
 slug: working-for-google
-title: "Working for Google"
-date: 2015-08-13
+title: Working for Google
+date: 2015-08-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1508/S00058/working-for-google.htm
 author: waikato-university
+permalink: /archive/2015/08/13/working-for-google/index.html
+layout: layout.njk
 ---
 Working for Google
 ==================

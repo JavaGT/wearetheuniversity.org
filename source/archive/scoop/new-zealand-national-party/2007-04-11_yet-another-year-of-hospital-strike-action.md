@@ -1,9 +1,12 @@
 ---
 slug: yet-another-year-of-hospital-strike-action
-title: "Yet another year of hospital strike action?"
-date: 2007-04-11
-source-url: https://www.scoop.co.nz/stories/PA0704/S00175/yet-another-year-of-hospital-strike-action.htm
+title: Yet another year of hospital strike action?
+date: 2007-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00175/yet-another-year-of-hospital-strike-action.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/11/yet-another-year-of-hospital-strike-action/index.html
+layout: layout.njk
 ---
 Yet another year of hospital strike action?
 ===========================================

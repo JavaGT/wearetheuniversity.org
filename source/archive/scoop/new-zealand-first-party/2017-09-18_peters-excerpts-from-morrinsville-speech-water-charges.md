@@ -1,9 +1,13 @@
 ---
 slug: peters-excerpts-from-morrinsville-speech-water-charges
-title: "Peters: Excerpts From Morrinsville Speech - Water Charges"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/PA1709/S00212/peters-excerpts-from-morrinsville-speech-water-charges.htm
+title: 'Peters: Excerpts From Morrinsville Speech - Water Charges'
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00212/peters-excerpts-from-morrinsville-speech-water-charges.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/18/peters-excerpts-from-morrinsville-speech-water-charges/index.html
+layout: layout.njk
 ---
 Peters: Excerpts From Morrinsville Speech - Water Charges
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-role-combines-cancer-research-teaching
-title: "New role combines cancer research, teaching"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/GE1009/S00005/new-role-combines-cancer-research-teaching.htm
+title: New role combines cancer research, teaching
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00005/new-role-combines-cancer-research-teaching.htm
 author: university-of-otago
+permalink: /archive/2010/09/01/new-role-combines-cancer-research-teaching/index.html
+layout: layout.njk
 ---
 New role combines cancer research, teaching
 ===========================================

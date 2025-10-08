@@ -1,9 +1,12 @@
 ---
 slug: maharey-the-big-loser-in-the-budget
-title: "Maharey The Big Loser In The Budget"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00306/maharey-the-big-loser-in-the-budget.htm
+title: Maharey The Big Loser In The Budget
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00306/maharey-the-big-loser-in-the-budget.htm
 author: act-new-zealand
+permalink: /archive/2000/06/15/maharey-the-big-loser-in-the-budget/index.html
+layout: layout.njk
 ---
 Maharey The Big Loser In The Budget
 ===================================

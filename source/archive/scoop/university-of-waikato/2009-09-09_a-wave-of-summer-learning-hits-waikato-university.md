@@ -1,9 +1,13 @@
 ---
 slug: a-wave-of-summer-learning-hits-waikato-university
-title: "A wave of summer learning hits Waikato University"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/ED0909/S00028/a-wave-of-summer-learning-hits-waikato-university.htm
+title: A wave of summer learning hits Waikato University
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00028/a-wave-of-summer-learning-hits-waikato-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/09/09/a-wave-of-summer-learning-hits-waikato-university/index.html
+layout: layout.njk
 ---
 A wave of summer learning hits Waikato University
 =================================================

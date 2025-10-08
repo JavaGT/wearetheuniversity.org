@@ -1,9 +1,11 @@
 ---
 slug: peters-a-generation-at-risk
-title: "Peters: A Generation At Risk"
-date: 2008-08-21
+title: 'Peters: A Generation At Risk'
+date: 2008-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00309/peters-a-generation-at-risk.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/21/peters-a-generation-at-risk/index.html
+layout: layout.njk
 ---
 Peters: A Generation At Risk
 ============================

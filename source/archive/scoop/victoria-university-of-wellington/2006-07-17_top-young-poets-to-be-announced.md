@@ -1,9 +1,12 @@
 ---
 slug: top-young-poets-to-be-announced
-title: "Top Young Poets to be Announced"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/CU0607/S00129/top-young-poets-to-be-announced.htm
+title: Top Young Poets to be Announced
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0607/S00129/top-young-poets-to-be-announced.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/17/top-young-poets-to-be-announced/index.html
+layout: layout.njk
 ---
 Top Young Poets to be Announced
 ===============================

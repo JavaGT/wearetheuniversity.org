@@ -1,9 +1,13 @@
 ---
 slug: academic-not-surprised-owners-docking-worker-wages
-title: "Academic not surprised owners docking worker wages"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00140/academic-not-surprised-owners-docking-worker-wages.htm
+title: Academic not surprised owners docking worker wages
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00140/academic-not-surprised-owners-docking-worker-wages.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/21/academic-not-surprised-owners-docking-worker-wages/index.html
+layout: layout.njk
 ---
 Academic not surprised owners docking worker wages
 ==================================================

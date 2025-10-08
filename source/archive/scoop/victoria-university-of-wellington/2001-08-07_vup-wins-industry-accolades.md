@@ -1,9 +1,11 @@
 ---
 slug: vup-wins-industry-accolades
-title: "VUP wins industry accolades"
-date: 2001-08-07
+title: VUP wins industry accolades
+date: 2001-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0108/S00021/vup-wins-industry-accolades.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/08/07/vup-wins-industry-accolades/index.html
+layout: layout.njk
 ---
 VUP wins industry accolades
 ===========================

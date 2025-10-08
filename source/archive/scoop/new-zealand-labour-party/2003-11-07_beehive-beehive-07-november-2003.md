@@ -1,9 +1,12 @@
 ---
 slug: beehive-beehive-07-november-2003
-title: "Beehive Beehive - 07 November 2003"
-date: 2003-11-07
-source-url: https://www.scoop.co.nz/stories/PA0311/S00153/beehive-beehive-07-november-2003.htm
+title: Beehive Beehive - 07 November 2003
+date: 2003-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00153/beehive-beehive-07-november-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/11/07/beehive-beehive-07-november-2003/index.html
+layout: layout.njk
 ---
 Beehive Beehive - 07 November 2003
 ==================================

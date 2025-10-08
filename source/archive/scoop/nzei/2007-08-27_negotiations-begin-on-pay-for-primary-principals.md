@@ -1,9 +1,13 @@
 ---
 slug: negotiations-begin-on-pay-for-primary-principals
-title: "Negotiations begin on pay for primary principals"
-date: 2007-08-27
-source-url: https://www.scoop.co.nz/stories/ED0708/S00080/negotiations-begin-on-pay-for-primary-principals.htm
+title: Negotiations begin on pay for primary principals
+date: 2007-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00080/negotiations-begin-on-pay-for-primary-principals.htm
 author: nzei
+permalink: >-
+  /archive/2007/08/27/negotiations-begin-on-pay-for-primary-principals/index.html
+layout: layout.njk
 ---
 Negotiations begin on pay for primary principals
 ================================================

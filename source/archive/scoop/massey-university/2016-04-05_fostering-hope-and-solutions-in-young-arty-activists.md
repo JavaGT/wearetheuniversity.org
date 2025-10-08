@@ -1,9 +1,13 @@
 ---
 slug: fostering-hope-and-solutions-in-young-arty-activists
-title: "Fostering hope and solutions in young arty activists"
-date: 2016-04-05
-source-url: https://www.scoop.co.nz/stories/PO1604/S00047/fostering-hope-and-solutions-in-young-arty-activists.htm
+title: Fostering hope and solutions in young arty activists
+date: 2016-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00047/fostering-hope-and-solutions-in-young-arty-activists.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/05/fostering-hope-and-solutions-in-young-arty-activists/index.html
+layout: layout.njk
 ---
 Fostering hope and solutions in young arty activists
 ====================================================

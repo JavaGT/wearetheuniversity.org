@@ -1,9 +1,12 @@
 ---
 slug: joint-study-into-tūtaepatu-lagoon-water-quality-research
-title: "Joint study into Tūtaepatu lagoon water quality research"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/AK1706/S00486/joint-study-into-tutaepatu-lagoon-water-quality-research.htm
+title: Joint study into Tūtaepatu lagoon water quality research
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1706/S00486/joint-study-into-tutaepatu-lagoon-water-quality-research.htm
 author: university-of-canterbury
+permalink: /archive/2017/06/21/joint-study-into-t/index.html
+layout: layout.njk
 ---
 Joint study into Tūtaepatu lagoon water quality research
 ========================================================

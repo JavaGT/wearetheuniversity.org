@@ -1,9 +1,13 @@
 ---
 slug: serious-skin-infection-rates-double-in-children-since-1990
-title: "Serious skin infection rates double in children since 1990"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/GE1104/S00076/serious-skin-infection-rates-double-in-children-since-1990.htm
+title: Serious skin infection rates double in children since 1990
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1104/S00076/serious-skin-infection-rates-double-in-children-since-1990.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/27/serious-skin-infection-rates-double-in-children-since-1990/index.html
+layout: layout.njk
 ---
 Serious skin infection rates double in children since 1990
 ==========================================================

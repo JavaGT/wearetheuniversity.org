@@ -1,9 +1,12 @@
 ---
 slug: best-film-scripts-awarded-prizes-at-victoria
-title: "Best film scripts awarded prizes at Victoria"
-date: 2014-12-11
-source-url: https://www.scoop.co.nz/stories/CU1412/S00241/best-film-scripts-awarded-prizes-at-victoria.htm
+title: Best film scripts awarded prizes at Victoria
+date: 2014-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00241/best-film-scripts-awarded-prizes-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/11/best-film-scripts-awarded-prizes-at-victoria/index.html
+layout: layout.njk
 ---
 Best film scripts awarded prizes at Victoria
 ============================================

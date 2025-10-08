@@ -1,9 +1,12 @@
 ---
 slug: tax-freedom-day-richard-prebble-speech
-title: "Tax Freedom Day - Richard Prebble Speech"
-date: 2001-05-03
-source-url: https://www.scoop.co.nz/stories/PA0105/S00069/tax-freedom-day-richard-prebble-speech.htm
+title: Tax Freedom Day - Richard Prebble Speech
+date: 2001-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00069/tax-freedom-day-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2001/05/03/tax-freedom-day-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 Tax Freedom Day - Richard Prebble Speech
 ========================================

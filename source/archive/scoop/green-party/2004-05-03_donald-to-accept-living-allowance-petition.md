@@ -1,9 +1,12 @@
 ---
 slug: donald-to-accept-living-allowance-petition
-title: "Donald to accept living allowance petition"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00033/donald-to-accept-living-allowance-petition.htm
+title: Donald to accept living allowance petition
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00033/donald-to-accept-living-allowance-petition.htm
 author: green-party
+permalink: /archive/2004/05/03/donald-to-accept-living-allowance-petition/index.html
+layout: layout.njk
 ---
 Donald to accept living allowance petition
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: power-disconnections-stay-at-record-highs
-title: "Power disconnections stay at record highs"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/PA1405/S00209/power-disconnections-stay-at-record-highs.htm
+title: Power disconnections stay at record highs
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00209/power-disconnections-stay-at-record-highs.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/14/power-disconnections-stay-at-record-highs/index.html
+layout: layout.njk
 ---
 Power disconnections stay at record highs
 =========================================

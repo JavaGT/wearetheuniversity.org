@@ -1,9 +1,12 @@
 ---
 slug: cathedral-argy-bargy-over-now-time-for-action
-title: "Cathedral argy-bargy over, now time for action"
-date: 2015-12-23
-source-url: https://www.scoop.co.nz/stories/PA1512/S00436/cathedral-argy-bargy-over-now-time-for-action.htm
+title: Cathedral argy-bargy over, now time for action
+date: 2015-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00436/cathedral-argy-bargy-over-now-time-for-action.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/23/cathedral-argy-bargy-over-now-time-for-action/index.html
+layout: layout.njk
 ---
 Cathedral argy-bargy over, now time for action
 ==============================================

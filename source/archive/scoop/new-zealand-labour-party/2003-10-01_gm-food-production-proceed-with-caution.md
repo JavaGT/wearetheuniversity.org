@@ -1,9 +1,12 @@
 ---
 slug: gm-food-production-proceed-with-caution
-title: "GM Food Production: Proceed with Caution"
-date: 2003-10-01
-source-url: https://www.scoop.co.nz/stories/PA0310/S00018/gm-food-production-proceed-with-caution.htm
+title: 'GM Food Production: Proceed with Caution'
+date: 2003-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00018/gm-food-production-proceed-with-caution.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/10/01/gm-food-production-proceed-with-caution/index.html
+layout: layout.njk
 ---
 GM Food Production: Proceed with Caution
 ========================================

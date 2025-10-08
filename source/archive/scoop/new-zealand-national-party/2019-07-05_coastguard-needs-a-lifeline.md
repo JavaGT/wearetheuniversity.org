@@ -1,9 +1,11 @@
 ---
 slug: coastguard-needs-a-lifeline
-title: "Coastguard needs a lifeline"
-date: 2019-07-05
+title: Coastguard needs a lifeline
+date: 2019-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1907/S00044/coastguard-needs-a-lifeline.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/05/coastguard-needs-a-lifeline/index.html
+layout: layout.njk
 ---
 Coastguard needs a lifeline
 ===========================

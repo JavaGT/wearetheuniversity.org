@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-whitestreaming-must-stop
-title: "Tertiary education \"whitestreaming\" must stop"
-date: 2016-03-16
-source-url: https://www.scoop.co.nz/stories/ED1603/S00060/tertiary-education-whitestreaming-must-stop.htm
+title: Tertiary education "whitestreaming" must stop
+date: 2016-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00060/tertiary-education-whitestreaming-must-stop.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/16/tertiary-education-whitestreaming-must-stop/index.html
+layout: layout.njk
 ---
 Tertiary education “whitestreaming” must stop
 =============================================

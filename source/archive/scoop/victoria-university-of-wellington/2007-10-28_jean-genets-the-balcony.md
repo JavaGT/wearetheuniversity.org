@@ -1,9 +1,11 @@
 ---
 slug: jean-genets-the-balcony
-title: "Jean Genet’s - The Balcony"
-date: 2007-10-28
+title: Jean Genet’s - The Balcony
+date: 2007-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0710/S00275/jean-genets-the-balcony.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/28/jean-genets-the-balcony/index.html
+layout: layout.njk
 ---
 Jean Genet’s - The Balcony
 ==========================

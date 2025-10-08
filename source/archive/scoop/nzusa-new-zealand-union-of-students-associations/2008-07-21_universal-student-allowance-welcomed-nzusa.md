@@ -1,9 +1,12 @@
 ---
 slug: universal-student-allowance-welcomed-nzusa
-title: "Universal student allowance welcomed - NZUSA"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/ED0807/S00069/universal-student-allowance-welcomed-nzusa.htm
+title: Universal student allowance welcomed - NZUSA
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00069/universal-student-allowance-welcomed-nzusa.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/21/universal-student-allowance-welcomed-nzusa/index.html
+layout: layout.njk
 ---
 Universal student allowance welcomed - NZUSA
 ============================================

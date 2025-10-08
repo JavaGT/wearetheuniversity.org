@@ -1,9 +1,12 @@
 ---
 slug: another-immigration-scam-in-paradise
-title: "Another Immigration Scam In Paradise"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/PA0311/S00277/another-immigration-scam-in-paradise.htm
+title: Another Immigration Scam In Paradise
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00277/another-immigration-scam-in-paradise.htm
 author: new-zealand-first-party
+permalink: /archive/2003/11/12/another-immigration-scam-in-paradise/index.html
+layout: layout.njk
 ---
 Another Immigration Scam In Paradise
 ====================================

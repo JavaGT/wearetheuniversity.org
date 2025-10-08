@@ -1,9 +1,12 @@
 ---
 slug: joyce-ignores-future-labour-force-needs
-title: "Joyce ignores future labour force needs"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/PA1004/S00240/joyce-ignores-future-labour-force-needs.htm
+title: Joyce ignores future labour force needs
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00240/joyce-ignores-future-labour-force-needs.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/21/joyce-ignores-future-labour-force-needs/index.html
+layout: layout.njk
 ---
 Joyce ignores future labour force needs
 =======================================

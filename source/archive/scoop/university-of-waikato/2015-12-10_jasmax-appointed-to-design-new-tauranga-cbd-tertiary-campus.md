@@ -1,9 +1,13 @@
 ---
 slug: jasmax-appointed-to-design-new-tauranga-cbd-tertiary-campus
-title: "Jasmax appointed to design new Tauranga CBD tertiary campus"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/ED1512/S00046/jasmax-appointed-to-design-new-tauranga-cbd-tertiary-campus.htm
+title: Jasmax appointed to design new Tauranga CBD tertiary campus
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00046/jasmax-appointed-to-design-new-tauranga-cbd-tertiary-campus.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/12/10/jasmax-appointed-to-design-new-tauranga-cbd-tertiary-campus/index.html
+layout: layout.njk
 ---
 Jasmax appointed to design new Tauranga CBD tertiary campus
 ===========================================================

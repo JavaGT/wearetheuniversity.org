@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-research-into-climate-resilient-plant-production-receives-government-funding
-title: "Lincoln University Research Into Climate-resilient Plant Production Receives Government Funding"
-date: 2022-09-13
-source-url: https://www.scoop.co.nz/stories/SC2209/S00019/lincoln-university-research-into-climate-resilient-plant-production-receives-government-funding.htm
+slug: >-
+  lincoln-university-research-into-climate-resilient-plant-production-receives-government-funding
+title: >-
+  Lincoln University Research Into Climate-resilient Plant Production Receives
+  Government Funding
+date: 2022-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2209/S00019/lincoln-university-research-into-climate-resilient-plant-production-receives-government-funding.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/09/13/lincoln-university-research-into-climate-resilient-plant-production-receives-government-funding/index.html
+layout: layout.njk
 ---
 Lincoln University Research Into Climate-resilient Plant Production Receives Government Funding
 ===============================================================================================

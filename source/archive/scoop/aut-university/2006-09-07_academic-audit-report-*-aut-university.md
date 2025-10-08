@@ -1,9 +1,12 @@
 ---
 slug: academic-audit-report-*-aut-university
-title: "Academic Audit report * AUT University"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/ED0609/S00029/academic-audit-report-aut-university.htm
+title: Academic Audit report * AUT University
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00029/academic-audit-report-aut-university.htm
 author: aut-university
+permalink: /archive/2006/09/07/academic-audit-report-/index.html
+layout: layout.njk
 ---
 Academic Audit report \* AUT University
 =======================================

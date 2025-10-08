@@ -1,9 +1,13 @@
 ---
 slug: award-winning-autism-book-offers-help-for-teachers
-title: "Award-winning autism book offers help for teachers"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/ED1611/S00130/award-winning-autism-book-offers-help-for-teachers.htm
+title: Award-winning autism book offers help for teachers
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00130/award-winning-autism-book-offers-help-for-teachers.htm
 author: massey-university
+permalink: >-
+  /archive/2016/11/30/award-winning-autism-book-offers-help-for-teachers/index.html
+layout: layout.njk
 ---
 Award-winning autism book offers help for teachers
 ==================================================

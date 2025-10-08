@@ -1,9 +1,12 @@
 ---
 slug: rural-otago-crime-stats-disgraceful-eckhoff
-title: "Rural Otago Crime Stats Disgraceful: Eckhoff"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/PA0408/S00486/rural-otago-crime-stats-disgraceful-eckhoff.htm
+title: 'Rural Otago Crime Stats Disgraceful: Eckhoff'
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00486/rural-otago-crime-stats-disgraceful-eckhoff.htm
 author: act-new-zealand
+permalink: /archive/2004/08/26/rural-otago-crime-stats-disgraceful-eckhoff/index.html
+layout: layout.njk
 ---
 Rural Otago Crime Stats Disgraceful: Eckhoff
 ============================================

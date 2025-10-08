@@ -1,9 +1,13 @@
 ---
 slug: phd-in-art-history-inspires-student-into-teaching
-title: "PhD in Art History inspires student into teaching"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/CU1505/S00057/phd-in-art-history-inspires-student-into-teaching.htm
+title: PhD in Art History inspires student into teaching
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00057/phd-in-art-history-inspires-student-into-teaching.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/05/04/phd-in-art-history-inspires-student-into-teaching/index.html
+layout: layout.njk
 ---
 PhD in Art History inspires student into teaching
 =================================================

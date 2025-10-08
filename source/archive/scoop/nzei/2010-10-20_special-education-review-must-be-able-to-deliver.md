@@ -1,9 +1,13 @@
 ---
 slug: special-education-review-must-be-able-to-deliver
-title: "Special Education Review Must Be Able to Deliver"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/ED1010/S00077/special-education-review-must-be-able-to-deliver.htm
+title: Special Education Review Must Be Able to Deliver
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00077/special-education-review-must-be-able-to-deliver.htm
 author: nzei
+permalink: >-
+  /archive/2010/10/20/special-education-review-must-be-able-to-deliver/index.html
+layout: layout.njk
 ---
 Special Education Review Must Be Able to Deliver
 ================================================

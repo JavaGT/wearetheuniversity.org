@@ -1,9 +1,13 @@
 ---
 slug: new-aut-research-shows-online-gaming-a-predictor-of-gambling-harm
-title: "New AUT Research Shows Online Gaming A Predictor Of Gambling Harm"
-date: 2024-11-14
-source-url: https://www.scoop.co.nz/stories/SC2411/S00025/new-aut-research-shows-online-gaming-a-predictor-of-gambling-harm.htm
+title: New AUT Research Shows Online Gaming A Predictor Of Gambling Harm
+date: 2024-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2411/S00025/new-aut-research-shows-online-gaming-a-predictor-of-gambling-harm.htm
 author: aut-university
+permalink: >-
+  /archive/2024/11/14/new-aut-research-shows-online-gaming-a-predictor-of-gambling-harm/index.html
+layout: layout.njk
 ---
 New AUT Research Shows Online Gaming A Predictor Of Gambling Harm
 =================================================================

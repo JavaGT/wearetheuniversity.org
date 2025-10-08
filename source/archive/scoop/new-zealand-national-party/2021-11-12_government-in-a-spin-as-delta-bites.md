@@ -1,9 +1,12 @@
 ---
 slug: government-in-a-spin-as-delta-bites
-title: "Government In A Spin As Delta Bites"
-date: 2021-11-12
-source-url: https://www.scoop.co.nz/stories/PA2111/S00141/government-in-a-spin-as-delta-bites.htm
+title: Government In A Spin As Delta Bites
+date: 2021-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00141/government-in-a-spin-as-delta-bites.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/12/government-in-a-spin-as-delta-bites/index.html
+layout: layout.njk
 ---
 Government In A Spin As Delta Bites
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwi-savings-at-risk-as-national-fiddles
-title: "Kiwi Savings at Risk as National Fiddles"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PA1410/S00222/kiwi-savings-at-risk-as-national-fiddles.htm
+title: Kiwi Savings at Risk as National Fiddles
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00222/kiwi-savings-at-risk-as-national-fiddles.htm
 author: new-zealand-first-party
+permalink: /archive/2014/10/29/kiwi-savings-at-risk-as-national-fiddles/index.html
+layout: layout.njk
 ---
 Kiwi Savings at Risk as National Fiddles
 ========================================

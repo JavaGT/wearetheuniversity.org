@@ -1,9 +1,11 @@
 ---
 slug: wekas-winning-ways
-title: "Weka’s Winning Ways"
-date: 2005-07-12
+title: Weka’s Winning Ways
+date: 2005-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0507/S00027/wekas-winning-ways.htm
 author: waikato-university
+permalink: /archive/2005/07/12/wekas-winning-ways/index.html
+layout: layout.njk
 ---
 Weka’s Winning Ways
 ===================

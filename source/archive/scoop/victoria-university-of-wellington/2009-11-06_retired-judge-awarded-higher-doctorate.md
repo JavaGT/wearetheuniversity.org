@@ -1,9 +1,12 @@
 ---
 slug: retired-judge-awarded-higher-doctorate
-title: "Retired Judge awarded Higher Doctorate"
-date: 2009-11-06
-source-url: https://www.scoop.co.nz/stories/ED0911/S00030/retired-judge-awarded-higher-doctorate.htm
+title: Retired Judge awarded Higher Doctorate
+date: 2009-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00030/retired-judge-awarded-higher-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/06/retired-judge-awarded-higher-doctorate/index.html
+layout: layout.njk
 ---
 Retired Judge awarded Higher Doctorate
 ======================================

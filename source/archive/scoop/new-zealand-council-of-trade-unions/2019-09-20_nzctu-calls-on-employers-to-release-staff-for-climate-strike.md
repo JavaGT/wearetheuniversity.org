@@ -1,9 +1,13 @@
 ---
 slug: nzctu-calls-on-employers-to-release-staff-for-climate-strike
-title: "NZCTU calls on employers to release staff for Climate Strike"
-date: 2019-09-20
-source-url: https://www.scoop.co.nz/stories/BU1909/S00544/nzctu-calls-on-employers-to-release-staff-for-climate-strike.htm
+title: NZCTU calls on employers to release staff for Climate Strike
+date: 2019-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1909/S00544/nzctu-calls-on-employers-to-release-staff-for-climate-strike.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2019/09/20/nzctu-calls-on-employers-to-release-staff-for-climate-strike/index.html
+layout: layout.njk
 ---
 NZCTU calls on employers to release staff for Climate Strike
 ============================================================

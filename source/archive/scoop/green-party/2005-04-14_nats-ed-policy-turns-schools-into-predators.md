@@ -1,9 +1,12 @@
 ---
 slug: nats-ed-policy-turns-schools-into-predators
-title: "Nats' ed policy turns schools into predators"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/PA0504/S00320/nats-ed-policy-turns-schools-into-predators.htm
+title: Nats' ed policy turns schools into predators
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00320/nats-ed-policy-turns-schools-into-predators.htm
 author: green-party
+permalink: /archive/2005/04/14/nats-ed-policy-turns-schools-into-predators/index.html
+layout: layout.njk
 ---
 Nats' ed policy turns schools into predators
 ============================================

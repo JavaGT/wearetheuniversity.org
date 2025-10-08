@@ -1,9 +1,12 @@
 ---
 slug: first-world-war-history-project-to-be-launched
-title: "First World War History project to be launched"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/ED1112/S00068/first-world-war-history-project-to-be-launched.htm
+title: First World War History project to be launched
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00068/first-world-war-history-project-to-be-launched.htm
 author: massey-university
+permalink: /archive/2011/12/14/first-world-war-history-project-to-be-launched/index.html
+layout: layout.njk
 ---
 First World War History project to be launched
 ==============================================

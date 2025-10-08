@@ -1,9 +1,13 @@
 ---
 slug: no-excuses-minister-we-need-mandatory-pay-gap-reporting-right-now
-title: "No Excuses, Minister: We Need Mandatory Pay Gap Reporting Right Now"
-date: 2022-09-22
-source-url: https://www.scoop.co.nz/stories/PA2209/S00117/no-excuses-minister-we-need-mandatory-pay-gap-reporting-right-now.htm
+title: 'No Excuses, Minister: We Need Mandatory Pay Gap Reporting Right Now'
+date: 2022-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00117/no-excuses-minister-we-need-mandatory-pay-gap-reporting-right-now.htm
 author: green-party
+permalink: >-
+  /archive/2022/09/22/no-excuses-minister-we-need-mandatory-pay-gap-reporting-right-now/index.html
+layout: layout.njk
 ---
 No Excuses, Minister: We Need Mandatory Pay Gap Reporting Right Now
 ===================================================================

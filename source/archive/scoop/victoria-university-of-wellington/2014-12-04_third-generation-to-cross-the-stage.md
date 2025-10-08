@@ -1,9 +1,12 @@
 ---
 slug: third-generation-to-cross-the-stage
-title: "Third generation to cross the stage"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/ED1412/S00028/third-generation-to-cross-the-stage.htm
+title: Third generation to cross the stage
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00028/third-generation-to-cross-the-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/04/third-generation-to-cross-the-stage/index.html
+layout: layout.njk
 ---
 Third generation to cross the stage
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: fighting-cyber-crime-one-app-at-a-time
-title: "Fighting cyber-crime one app at a time"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/ED1410/S00121/fighting-cyber-crime-one-app-at-a-time.htm
+title: Fighting cyber-crime one app at a time
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00121/fighting-cyber-crime-one-app-at-a-time.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/22/fighting-cyber-crime-one-app-at-a-time/index.html
+layout: layout.njk
 ---
 Fighting cyber-crime one app at a time
 ======================================

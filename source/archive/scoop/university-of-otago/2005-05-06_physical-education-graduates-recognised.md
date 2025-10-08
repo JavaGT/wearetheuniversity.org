@@ -1,9 +1,12 @@
 ---
 slug: physical-education-graduates-recognised
-title: "Physical Education graduates recognised"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/ED0505/S00028/physical-education-graduates-recognised.htm
+title: Physical Education graduates recognised
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00028/physical-education-graduates-recognised.htm
 author: university-of-otago
+permalink: /archive/2005/05/06/physical-education-graduates-recognised/index.html
+layout: layout.njk
 ---
 Physical Education graduates recognised
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-turia-general-debate
-title: "Speech: Turia - General Debate"
-date: 2009-04-01
+title: 'Speech: Turia - General Debate'
+date: 2009-04-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0904/S00028/speech-turia-general-debate.htm
 author: te-pati-maori
+permalink: /archive/2009/04/01/speech-turia-general-debate/index.html
+layout: layout.njk
 ---
 Speech: Turia - General Debate
 ==============================

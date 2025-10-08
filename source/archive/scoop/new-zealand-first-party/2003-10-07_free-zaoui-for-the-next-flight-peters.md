@@ -1,9 +1,12 @@
 ---
 slug: free-zaoui-for-the-next-flight-peters
-title: "Free Zaoui For The Next Flight - Peters"
-date: 2003-10-07
-source-url: https://www.scoop.co.nz/stories/PA0310/S00106/free-zaoui-for-the-next-flight-peters.htm
+title: Free Zaoui For The Next Flight - Peters
+date: 2003-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00106/free-zaoui-for-the-next-flight-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/07/free-zaoui-for-the-next-flight-peters/index.html
+layout: layout.njk
 ---
 Free Zaoui For The Next Flight - Peters
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwifruit-daily-can-improve-mood-and-energy
-title: "Kiwifruit Daily Can Improve Mood and Energy"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/SC1308/S00053/kiwifruit-daily-can-improve-mood-and-energy.htm
+title: Kiwifruit Daily Can Improve Mood and Energy
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00053/kiwifruit-daily-can-improve-mood-and-energy.htm
 author: university-of-otago
+permalink: /archive/2013/08/23/kiwifruit-daily-can-improve-mood-and-energy/index.html
+layout: layout.njk
 ---
 Kiwifruit Daily Can Improve Mood and Energy
 ===========================================

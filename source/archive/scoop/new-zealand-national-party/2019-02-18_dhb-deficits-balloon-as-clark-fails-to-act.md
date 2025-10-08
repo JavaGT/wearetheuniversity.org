@@ -1,9 +1,12 @@
 ---
 slug: dhb-deficits-balloon-as-clark-fails-to-act
-title: "DHB deficits balloon as Clark fails to act"
-date: 2019-02-18
-source-url: https://www.scoop.co.nz/stories/PA1902/S00143/dhb-deficits-balloon-as-clark-fails-to-act.htm
+title: DHB deficits balloon as Clark fails to act
+date: 2019-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00143/dhb-deficits-balloon-as-clark-fails-to-act.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/18/dhb-deficits-balloon-as-clark-fails-to-act/index.html
+layout: layout.njk
 ---
 DHB deficits balloon as Clark fails to act
 ==========================================

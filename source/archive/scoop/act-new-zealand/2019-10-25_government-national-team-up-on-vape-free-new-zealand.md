@@ -1,9 +1,13 @@
 ---
 slug: government-national-team-up-on-vape-free-new-zealand
-title: "Government, National team up on Vape-Free New Zealand"
-date: 2019-10-25
-source-url: https://www.scoop.co.nz/stories/PA1910/S00208/government-national-team-up-on-vape-free-new-zealand.htm
+title: Government, National team up on Vape-Free New Zealand
+date: 2019-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00208/government-national-team-up-on-vape-free-new-zealand.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/25/government-national-team-up-on-vape-free-new-zealand/index.html
+layout: layout.njk
 ---
 Government, National team up on Vape-Free New Zealand
 =====================================================

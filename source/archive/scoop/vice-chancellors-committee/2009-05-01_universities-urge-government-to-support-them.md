@@ -1,9 +1,12 @@
 ---
 slug: universities-urge-government-to-support-them
-title: "Universities Urge Government To Support Them"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/ED0905/S00006/universities-urge-government-to-support-them.htm
+title: Universities Urge Government To Support Them
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00006/universities-urge-government-to-support-them.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/05/01/universities-urge-government-to-support-them/index.html
+layout: layout.njk
 ---
 Universities Urge Government To Support Them
 ============================================

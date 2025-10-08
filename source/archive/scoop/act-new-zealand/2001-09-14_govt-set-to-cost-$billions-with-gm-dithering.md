@@ -1,9 +1,12 @@
 ---
 slug: govt-set-to-cost-$billions-with-gm-dithering
-title: "Govt Set to Cost $Billions with GM Dithering"
-date: 2001-09-14
-source-url: https://www.scoop.co.nz/stories/PA0109/S00235/govt-set-to-cost-billions-with-gm-dithering.htm
+title: Govt Set to Cost $Billions with GM Dithering
+date: 2001-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00235/govt-set-to-cost-billions-with-gm-dithering.htm
 author: act-new-zealand
+permalink: /archive/2001/09/14/govt-set-to-cost-/index.html
+layout: layout.njk
 ---
 Govt Set to Cost $Billions with GM Dithering
 ============================================

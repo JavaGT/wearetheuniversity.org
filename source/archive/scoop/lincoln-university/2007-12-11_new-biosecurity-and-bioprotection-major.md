@@ -1,9 +1,12 @@
 ---
 slug: new-biosecurity-and-bioprotection-major
-title: "New Biosecurity and Bioprotection Major"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/ED0712/S00044/new-biosecurity-and-bioprotection-major.htm
+title: New Biosecurity and Bioprotection Major
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00044/new-biosecurity-and-bioprotection-major.htm
 author: lincoln-university
+permalink: /archive/2007/12/11/new-biosecurity-and-bioprotection-major/index.html
+layout: layout.njk
 ---
 New Biosecurity and Bioprotection Major
 =======================================

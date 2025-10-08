@@ -1,9 +1,13 @@
 ---
 slug: prebble-speech-why-labour-will-lose-next-election
-title: "Prebble Speech: Why Labour Will Lose Next Election"
-date: 2003-05-29
-source-url: https://www.scoop.co.nz/stories/PA0305/S00736/prebble-speech-why-labour-will-lose-next-election.htm
+title: 'Prebble Speech: Why Labour Will Lose Next Election'
+date: 2003-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00736/prebble-speech-why-labour-will-lose-next-election.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/05/29/prebble-speech-why-labour-will-lose-next-election/index.html
+layout: layout.njk
 ---
 Prebble Speech: Why Labour Will Lose Next Election
 ==================================================

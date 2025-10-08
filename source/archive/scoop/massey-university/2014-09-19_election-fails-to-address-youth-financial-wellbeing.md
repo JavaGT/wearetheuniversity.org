@@ -1,9 +1,13 @@
 ---
 slug: election-fails-to-address-youth-financial-wellbeing
-title: "Election fails to address youth financial wellbeing"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/PO1409/S00450/election-fails-to-address-youth-financial-wellbeing.htm
+title: Election fails to address youth financial wellbeing
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00450/election-fails-to-address-youth-financial-wellbeing.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/19/election-fails-to-address-youth-financial-wellbeing/index.html
+layout: layout.njk
 ---
 Election fails to address youth financial wellbeing
 ===================================================

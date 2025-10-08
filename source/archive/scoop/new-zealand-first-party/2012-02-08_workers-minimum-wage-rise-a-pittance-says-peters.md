@@ -1,9 +1,13 @@
 ---
 slug: workers-minimum-wage-rise-a-pittance-says-peters
-title: "Workers Minimum Wage Rise A Pittance, says Peters"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00075/workers-minimum-wage-rise-a-pittance-says-peters.htm
+title: Workers Minimum Wage Rise A Pittance, says Peters
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00075/workers-minimum-wage-rise-a-pittance-says-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/02/08/workers-minimum-wage-rise-a-pittance-says-peters/index.html
+layout: layout.njk
 ---
 Workers Minimum Wage Rise A Pittance, says Peters
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-christs-college-(canty)-amendment-bill
-title: "Flavell: Christ’s College (Cant'y) Amendment Bill"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/PA1003/S00315/flavell-christs-college-canty-amendment-bill.htm
+title: 'Flavell: Christ’s College (Cant''y) Amendment Bill'
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00315/flavell-christs-college-canty-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/03/22/flavell-christs-college-/index.html
+layout: layout.njk
 ---
 Flavell: Christ’s College (Cant'y) Amendment Bill
 =================================================

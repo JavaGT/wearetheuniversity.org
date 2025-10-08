@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-need-to-learn-more-about-caring-for-the-envir
-title: "New Zealanders need to learn more about caring for the envir"
-date: 2012-12-22
-source-url: https://www.scoop.co.nz/stories/SC1212/S00045/new-zealanders-need-to-learn-more-about-caring-for-the-envir.htm
+title: New Zealanders need to learn more about caring for the envir
+date: 2012-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00045/new-zealanders-need-to-learn-more-about-caring-for-the-envir.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/22/new-zealanders-need-to-learn-more-about-caring-for-the-envir/index.html
+layout: layout.njk
 ---
 New Zealanders need to learn more about caring for the envir
 ============================================================

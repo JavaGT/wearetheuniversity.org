@@ -1,9 +1,12 @@
 ---
 slug: sisters-receive-inaugural-scholarships
-title: "Sisters receive inaugural scholarships"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/ED1401/S00031/sisters-receive-inaugural-scholarships.htm
+title: Sisters receive inaugural scholarships
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00031/sisters-receive-inaugural-scholarships.htm
 author: university-of-waikato
+permalink: /archive/2014/01/24/sisters-receive-inaugural-scholarships/index.html
+layout: layout.njk
 ---
 Sisters receive inaugural scholarships
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-doing-nothing-to-reduce-gender-pay-gap
-title: "Govt doing nothing to reduce gender pay gap"
-date: 2010-07-01
-source-url: https://www.scoop.co.nz/stories/PA1007/S00001/govt-doing-nothing-to-reduce-gender-pay-gap.htm
+title: Govt doing nothing to reduce gender pay gap
+date: 2010-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00001/govt-doing-nothing-to-reduce-gender-pay-gap.htm
 author: green-party
+permalink: /archive/2010/07/01/govt-doing-nothing-to-reduce-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Govt doing nothing to reduce gender pay gap
 ===========================================

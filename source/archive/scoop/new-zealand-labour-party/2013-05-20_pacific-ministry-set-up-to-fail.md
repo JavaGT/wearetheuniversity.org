@@ -1,9 +1,12 @@
 ---
 slug: pacific-ministry-set-up-to-fail
-title: "Pacific Ministry Set Up to Fail"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/PA1305/S00400/pacific-ministry-set-up-to-fail.htm
+title: Pacific Ministry Set Up to Fail
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00400/pacific-ministry-set-up-to-fail.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/20/pacific-ministry-set-up-to-fail/index.html
+layout: layout.njk
 ---
 Pacific Ministry Set Up to Fail
 ===============================

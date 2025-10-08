@@ -1,9 +1,12 @@
 ---
 slug: new-massey-repositioning-proposals-cold-comfort
-title: "New Massey 'repositioning' proposals cold comfort"
-date: 2000-07-13
-source-url: https://www.scoop.co.nz/stories/ED0007/S00012/new-massey-repositioning-proposals-cold-comfort.htm
+title: New Massey 'repositioning' proposals cold comfort
+date: 2000-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00012/new-massey-repositioning-proposals-cold-comfort.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/13/new-massey-repositioning-proposals-cold-comfort/index.html
+layout: layout.njk
 ---
 New Massey 'repositioning' proposals cold comfort
 =================================================

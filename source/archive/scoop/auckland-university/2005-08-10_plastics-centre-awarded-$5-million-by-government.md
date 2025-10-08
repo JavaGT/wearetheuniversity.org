@@ -1,9 +1,12 @@
 ---
 slug: plastics-centre-awarded-$5-million-by-government
-title: "Plastics Centre Awarded $5 Million By Government"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00048/plastics-centre-awarded-5-million-by-government.htm
+title: Plastics Centre Awarded $5 Million By Government
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00048/plastics-centre-awarded-5-million-by-government.htm
 author: auckland-university
+permalink: /archive/2005/08/10/plastics-centre-awarded-/index.html
+layout: layout.njk
 ---
 Plastics Centre Awarded $5 Million By Government
 ================================================

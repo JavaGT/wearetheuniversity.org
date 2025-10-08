@@ -1,9 +1,13 @@
 ---
 slug: us-expert-back-in-christchurch-to-share-ideas-over-cathedral
-title: "US expert back in Christchurch to share ideas over cathedral"
-date: 2012-07-06
-source-url: https://www.scoop.co.nz/stories/AK1207/S00114/us-expert-back-in-christchurch-to-share-ideas-over-cathedral.htm
+title: US expert back in Christchurch to share ideas over cathedral
+date: 2012-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00114/us-expert-back-in-christchurch-to-share-ideas-over-cathedral.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/07/06/us-expert-back-in-christchurch-to-share-ideas-over-cathedral/index.html
+layout: layout.njk
 ---
 US expert back in Christchurch to share ideas over cathedral
 ============================================================

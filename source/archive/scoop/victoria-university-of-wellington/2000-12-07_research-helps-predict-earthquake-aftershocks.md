@@ -1,9 +1,12 @@
 ---
 slug: research-helps-predict-earthquake-aftershocks
-title: "Research helps predict earthquake aftershocks"
-date: 2000-12-07
-source-url: https://www.scoop.co.nz/stories/SC0012/S00034/research-helps-predict-earthquake-aftershocks.htm
+title: Research helps predict earthquake aftershocks
+date: 2000-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0012/S00034/research-helps-predict-earthquake-aftershocks.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/12/07/research-helps-predict-earthquake-aftershocks/index.html
+layout: layout.njk
 ---
 Research helps predict earthquake aftershocks
 =============================================

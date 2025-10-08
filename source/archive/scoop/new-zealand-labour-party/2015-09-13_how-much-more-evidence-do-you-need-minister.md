@@ -1,9 +1,12 @@
 ---
 slug: how-much-more-evidence-do-you-need-minister
-title: "How much more evidence do you need Minister?"
-date: 2015-09-13
-source-url: https://www.scoop.co.nz/stories/PA1509/S00217/how-much-more-evidence-do-you-need-minister.htm
+title: How much more evidence do you need Minister?
+date: 2015-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00217/how-much-more-evidence-do-you-need-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/13/how-much-more-evidence-do-you-need-minister/index.html
+layout: layout.njk
 ---
 How much more evidence do you need Minister?
 ============================================

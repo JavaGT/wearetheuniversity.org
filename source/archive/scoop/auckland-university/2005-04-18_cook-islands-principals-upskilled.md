@@ -1,9 +1,12 @@
 ---
 slug: cook-islands-principals-upskilled
-title: "Cook Islands principals upskilled"
-date: 2005-04-18
-source-url: https://www.scoop.co.nz/stories/ED0504/S00066/cook-islands-principals-upskilled.htm
+title: Cook Islands principals upskilled
+date: 2005-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00066/cook-islands-principals-upskilled.htm
 author: auckland-university
+permalink: /archive/2005/04/18/cook-islands-principals-upskilled/index.html
+layout: layout.njk
 ---
 Cook Islands principals upskilled
 =================================

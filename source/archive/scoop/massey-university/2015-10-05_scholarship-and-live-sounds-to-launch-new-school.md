@@ -1,9 +1,13 @@
 ---
 slug: scholarship-and-live-sounds-to-launch-new-school
-title: "Scholarship and live sounds to launch new school"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00029/scholarship-and-live-sounds-to-launch-new-school.htm
+title: Scholarship and live sounds to launch new school
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00029/scholarship-and-live-sounds-to-launch-new-school.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/05/scholarship-and-live-sounds-to-launch-new-school/index.html
+layout: layout.njk
 ---
 Scholarship and live sounds to launch new school
 ================================================

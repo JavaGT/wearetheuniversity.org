@@ -1,9 +1,13 @@
 ---
 slug: need-for-more-equity-funding-for-low-decile-schools
-title: "Need for more equity funding for low decile schools"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/ED1607/S00050/need-for-more-equity-funding-for-low-decile-schools.htm
+title: Need for more equity funding for low decile schools
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00050/need-for-more-equity-funding-for-low-decile-schools.htm
 author: nzei
+permalink: >-
+  /archive/2016/07/12/need-for-more-equity-funding-for-low-decile-schools/index.html
+layout: layout.njk
 ---
 Need for more equity funding for low decile schools
 ===================================================

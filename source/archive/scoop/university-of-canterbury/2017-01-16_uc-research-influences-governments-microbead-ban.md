@@ -1,9 +1,13 @@
 ---
 slug: uc-research-influences-governments-microbead-ban
-title: "UC research influences Government’s microbead ban"
-date: 2017-01-16
-source-url: https://www.scoop.co.nz/stories/ED1701/S00013/uc-research-influences-governments-microbead-ban.htm
+title: UC research influences Government’s microbead ban
+date: 2017-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00013/uc-research-influences-governments-microbead-ban.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/01/16/uc-research-influences-governments-microbead-ban/index.html
+layout: layout.njk
 ---
 UC research influences Government’s microbead ban
 =================================================

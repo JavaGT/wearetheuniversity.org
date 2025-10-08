@@ -1,9 +1,12 @@
 ---
 slug: zoning-still-major-frustration-for-parents
-title: "Zoning still major frustration for parents"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PO0405/S00320/zoning-still-major-frustration-for-parents.htm
+title: Zoning still major frustration for parents
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00320/zoning-still-major-frustration-for-parents.htm
 author: maxim-institute
+permalink: /archive/2004/05/31/zoning-still-major-frustration-for-parents/index.html
+layout: layout.njk
 ---
 Zoning still major frustration for parents
 ==========================================

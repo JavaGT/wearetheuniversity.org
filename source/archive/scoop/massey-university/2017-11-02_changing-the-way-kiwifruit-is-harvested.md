@@ -1,9 +1,12 @@
 ---
 slug: changing-the-way-kiwifruit-is-harvested
-title: "Changing the way kiwifruit is harvested"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/ED1711/S00012/changing-the-way-kiwifruit-is-harvested.htm
+title: Changing the way kiwifruit is harvested
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00012/changing-the-way-kiwifruit-is-harvested.htm
 author: massey-university
+permalink: /archive/2017/11/02/changing-the-way-kiwifruit-is-harvested/index.html
+layout: layout.njk
 ---
 Changing the way kiwifruit is harvested
 =======================================

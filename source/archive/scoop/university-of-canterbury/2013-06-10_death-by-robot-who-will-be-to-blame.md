@@ -1,9 +1,12 @@
 ---
 slug: death-by-robot-who-will-be-to-blame
-title: "Death By Robot - Who Will Be to Blame?"
-date: 2013-06-10
-source-url: https://www.scoop.co.nz/stories/SC1306/S00028/death-by-robot-who-will-be-to-blame.htm
+title: Death By Robot - Who Will Be to Blame?
+date: 2013-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00028/death-by-robot-who-will-be-to-blame.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/10/death-by-robot-who-will-be-to-blame/index.html
+layout: layout.njk
 ---
 Death By Robot - Who Will Be to Blame?
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-school-choice-support-welcome-but-it-shouldnt-be-political
-title: "Greens’ School Choice Support Welcome, But It Shouldn’t Be Political"
-date: 2020-08-27
-source-url: https://www.scoop.co.nz/stories/PO2008/S00314/greens-school-choice-support-welcome-but-it-shouldnt-be-political.htm
+title: Greens’ School Choice Support Welcome, But It Shouldn’t Be Political
+date: 2020-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00314/greens-school-choice-support-welcome-but-it-shouldnt-be-political.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/27/greens-school-choice-support-welcome-but-it-shouldnt-be-political/index.html
+layout: layout.njk
 ---
 Greens’ School Choice Support Welcome, But It Shouldn’t Be Political
 ====================================================================

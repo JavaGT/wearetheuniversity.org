@@ -1,9 +1,12 @@
 ---
 slug: american-e-learning-expert-to-visit-nz-in-april
-title: "American E-learning expert to visit NZ in April"
-date: 2016-03-15
-source-url: https://www.scoop.co.nz/stories/ED1603/S00056/american-e-learning-expert-to-visit-nz-in-april.htm
+title: American E-learning expert to visit NZ in April
+date: 2016-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00056/american-e-learning-expert-to-visit-nz-in-april.htm
 author: university-of-waikato
+permalink: /archive/2016/03/15/american-e-learning-expert-to-visit-nz-in-april/index.html
+layout: layout.njk
 ---
 American E-learning expert to visit NZ in April
 ===============================================

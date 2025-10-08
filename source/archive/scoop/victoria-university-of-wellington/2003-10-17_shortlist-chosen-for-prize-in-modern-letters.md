@@ -1,9 +1,12 @@
 ---
 slug: shortlist-chosen-for-prize-in-modern-letters
-title: "Shortlist chosen for Prize in Modern Letters"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/CU0310/S00090/shortlist-chosen-for-prize-in-modern-letters.htm
+title: Shortlist chosen for Prize in Modern Letters
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0310/S00090/shortlist-chosen-for-prize-in-modern-letters.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/17/shortlist-chosen-for-prize-in-modern-letters/index.html
+layout: layout.njk
 ---
 Shortlist chosen for Prize in Modern Letters
 ============================================

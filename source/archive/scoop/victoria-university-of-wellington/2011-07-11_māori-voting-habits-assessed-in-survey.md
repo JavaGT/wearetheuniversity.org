@@ -1,9 +1,12 @@
 ---
 slug: māori-voting-habits-assessed-in-survey
-title: "Māori voting habits assessed in survey"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/PO1107/S00107/maori-voting-habits-assessed-in-survey.htm
+title: Māori voting habits assessed in survey
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00107/maori-voting-habits-assessed-in-survey.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/07/11/m/index.html
+layout: layout.njk
 ---
 Māori voting habits assessed in survey
 ======================================

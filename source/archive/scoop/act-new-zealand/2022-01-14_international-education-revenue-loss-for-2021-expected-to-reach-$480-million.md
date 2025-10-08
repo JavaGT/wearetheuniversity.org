@@ -1,9 +1,13 @@
 ---
 slug: international-education-revenue-loss-for-2021-expected-to-reach-$480-million
-title: "International Education Revenue Loss For 2021 Expected To Reach $480 Million"
-date: 2022-01-14
-source-url: https://www.scoop.co.nz/stories/PA2201/S00038/international-education-revenue-loss-for-2021-expected-to-reach-480-million.htm
+title: International Education Revenue Loss For 2021 Expected To Reach $480 Million
+date: 2022-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00038/international-education-revenue-loss-for-2021-expected-to-reach-480-million.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/01/14/international-education-revenue-loss-for-2021-expected-to-reach-/index.html
+layout: layout.njk
 ---
 International Education Revenue Loss For 2021 Expected To Reach $480 Million
 ============================================================================

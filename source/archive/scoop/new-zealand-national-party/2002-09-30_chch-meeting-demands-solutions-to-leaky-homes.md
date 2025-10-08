@@ -1,9 +1,12 @@
 ---
 slug: chch-meeting-demands-solutions-to-leaky-homes
-title: "ChCh meeting demands solutions to leaky homes"
-date: 2002-09-30
-source-url: https://www.scoop.co.nz/stories/PA0209/S00475/chch-meeting-demands-solutions-to-leaky-homes.htm
+title: ChCh meeting demands solutions to leaky homes
+date: 2002-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00475/chch-meeting-demands-solutions-to-leaky-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/30/chch-meeting-demands-solutions-to-leaky-homes/index.html
+layout: layout.njk
 ---
 ChCh meeting demands solutions to leaky homes
 =============================================

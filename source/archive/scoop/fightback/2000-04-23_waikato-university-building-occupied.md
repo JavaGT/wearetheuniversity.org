@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-building-occupied
-title: "Waikato University Building Occupied"
-date: 2000-04-23
-source-url: https://www.scoop.co.nz/stories/ED0004/S00028/waikato-university-building-occupied.htm
+title: Waikato University Building Occupied
+date: 2000-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00028/waikato-university-building-occupied.htm
 author: fightback
+permalink: /archive/2000/04/23/waikato-university-building-occupied/index.html
+layout: layout.njk
 ---
 Waikato University Building Occupied
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: students-protest-victoria-university-investments-in-israel
-title: "Students Protest Victoria University Investments In Israel"
-date: 2024-08-06
-source-url: https://www.scoop.co.nz/stories/PO2408/S00021/students-protest-victoria-university-investments-in-israel.htm
+title: Students Protest Victoria University Investments In Israel
+date: 2024-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2408/S00021/students-protest-victoria-university-investments-in-israel.htm
 author: student-justice-for-palestine-poneke
+permalink: >-
+  /archive/2024/08/06/students-protest-victoria-university-investments-in-israel/index.html
+layout: layout.njk
 ---
 Students Protest Victoria University Investments In Israel
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: how-many-miq-spaces-are-being-used-by-essential-workers
-title: "How Many MIQ Spaces Are Being Used By Essential Workers?"
-date: 2020-08-03
-source-url: https://www.scoop.co.nz/stories/PA2008/S00013/how-many-miq-spaces-are-being-used-by-essential-workers.htm
+title: How Many MIQ Spaces Are Being Used By Essential Workers?
+date: 2020-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00013/how-many-miq-spaces-are-being-used-by-essential-workers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/03/how-many-miq-spaces-are-being-used-by-essential-workers/index.html
+layout: layout.njk
 ---
 How Many MIQ Spaces Are Being Used By Essential Workers?
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-intern-finds-support-for-limiting-food-outlets-in-chch
-title: "UC intern finds support for limiting food outlets in Chch"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/AK1307/S00080/uc-intern-finds-support-for-limiting-food-outlets-in-chch.htm
+title: UC intern finds support for limiting food outlets in Chch
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00080/uc-intern-finds-support-for-limiting-food-outlets-in-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/02/uc-intern-finds-support-for-limiting-food-outlets-in-chch/index.html
+layout: layout.njk
 ---
 UC intern finds support for limiting food outlets in Chch
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-management-school-to-host-global-leaders-forum
-title: "Waikato Management School to Host Global Leaders Forum"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/ED1403/S00088/waikato-management-school-to-host-global-leaders-forum.htm
+title: Waikato Management School to Host Global Leaders Forum
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00088/waikato-management-school-to-host-global-leaders-forum.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/17/waikato-management-school-to-host-global-leaders-forum/index.html
+layout: layout.njk
 ---
 Waikato Management School to Host Global Leaders Forum
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: leadership-lessons-for-the-next-generation-of-leaders
-title: "Leadership lessons for the next generation of leaders"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/ED1707/S00021/leadership-lessons-for-the-next-generation-of-leaders.htm
+title: Leadership lessons for the next generation of leaders
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00021/leadership-lessons-for-the-next-generation-of-leaders.htm
 author: aut-university
+permalink: >-
+  /archive/2017/07/06/leadership-lessons-for-the-next-generation-of-leaders/index.html
+layout: layout.njk
 ---
 Leadership lessons for the next generation of leaders
 =====================================================

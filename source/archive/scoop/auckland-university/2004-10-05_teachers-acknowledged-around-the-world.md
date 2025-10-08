@@ -1,9 +1,12 @@
 ---
 slug: teachers-acknowledged-around-the-world
-title: "Teachers acknowledged around the world"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/ED0410/S00013/teachers-acknowledged-around-the-world.htm
+title: Teachers acknowledged around the world
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00013/teachers-acknowledged-around-the-world.htm
 author: auckland-university
+permalink: /archive/2004/10/05/teachers-acknowledged-around-the-world/index.html
+layout: layout.njk
 ---
 Teachers acknowledged around the world
 ======================================

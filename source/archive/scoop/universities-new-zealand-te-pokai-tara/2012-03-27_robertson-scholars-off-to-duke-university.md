@@ -1,9 +1,12 @@
 ---
 slug: robertson-scholars-off-to-duke-university
-title: "Robertson Scholars Off To Duke University"
-date: 2012-03-27
-source-url: https://www.scoop.co.nz/stories/ED1203/S00127/robertson-scholars-off-to-duke-university.htm
+title: Robertson Scholars Off To Duke University
+date: 2012-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00127/robertson-scholars-off-to-duke-university.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2012/03/27/robertson-scholars-off-to-duke-university/index.html
+layout: layout.njk
 ---
 Robertson Scholars Off To Duke University
 =========================================

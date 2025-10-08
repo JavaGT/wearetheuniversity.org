@@ -1,9 +1,12 @@
 ---
 slug: regions-hit-with-budget-band-aid
-title: "Regions hit with budget band aid"
-date: 2015-01-05
-source-url: https://www.scoop.co.nz/stories/PA1501/S00010/regions-hit-with-budget-band-aid.htm
+title: Regions hit with budget band aid
+date: 2015-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00010/regions-hit-with-budget-band-aid.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/05/regions-hit-with-budget-band-aid/index.html
+layout: layout.njk
 ---
 Regions hit with budget band aid
 ================================

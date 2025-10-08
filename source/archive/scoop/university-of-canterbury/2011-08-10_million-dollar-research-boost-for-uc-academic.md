@@ -1,9 +1,12 @@
 ---
 slug: million-dollar-research-boost-for-uc-academic
-title: "Million dollar research boost for UC academic"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/ED1108/S00062/million-dollar-research-boost-for-uc-academic.htm
+title: Million dollar research boost for UC academic
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00062/million-dollar-research-boost-for-uc-academic.htm
 author: university-of-canterbury
+permalink: /archive/2011/08/10/million-dollar-research-boost-for-uc-academic/index.html
+layout: layout.njk
 ---
 Million dollar research boost for UC academic
 =============================================

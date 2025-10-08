@@ -1,9 +1,13 @@
 ---
 slug: a-professor-on-authorities-who-order-police-to-crush-student-protests
-title: "A Professor On \"Authorities\" Who Order Police To Crush Student Protests"
-date: 2024-05-30
-source-url: https://www.scoop.co.nz/stories/WO2405/S00360/a-professor-on-authorities-who-order-police-to-crush-student-protests.htm
+title: A Professor On "Authorities" Who Order Police To Crush Student Protests
+date: 2024-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2405/S00360/a-professor-on-authorities-who-order-police-to-crush-student-protests.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/05/30/a-professor-on-authorities-who-order-police-to-crush-student-protests/index.html
+layout: layout.njk
 ---
 A Professor On “Authorities” Who Order Police To Crush Student Protests
 =======================================================================

@@ -1,9 +1,12 @@
 ---
 slug: religion-and-consumerism-can-go-hand-in-hand
-title: "Religion and consumerism can go hand in hand"
-date: 2011-04-24
-source-url: https://www.scoop.co.nz/stories/BU1104/S00713/religion-and-consumerism-can-go-hand-in-hand.htm
+title: Religion and consumerism can go hand in hand
+date: 2011-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00713/religion-and-consumerism-can-go-hand-in-hand.htm
 author: university-of-canterbury
+permalink: /archive/2011/04/24/religion-and-consumerism-can-go-hand-in-hand/index.html
+layout: layout.njk
 ---
 Religion and consumerism can go hand in hand
 ============================================

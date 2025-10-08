@@ -1,9 +1,12 @@
 ---
 slug: is-the-team-of-5-million-well-governed
-title: "Is The ‘Team Of 5 Million’ Well Governed?"
-date: 2021-11-29
-source-url: https://www.scoop.co.nz/stories/PO2111/S00264/is-the-team-of-5-million-well-governed.htm
+title: Is The ‘Team Of 5 Million’ Well Governed?
+date: 2021-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00264/is-the-team-of-5-million-well-governed.htm
 author: university-of-canterbury
+permalink: /archive/2021/11/29/is-the-team-of-5-million-well-governed/index.html
+layout: layout.njk
 ---
 Is The ‘Team Of 5 Million’ Well Governed?
 =========================================

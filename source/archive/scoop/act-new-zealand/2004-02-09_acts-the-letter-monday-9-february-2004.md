@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-9-february-2004
-title: "ACT's The Letter  - Monday 9 February 2004"
-date: 2004-02-09
-source-url: https://www.scoop.co.nz/stories/PA0402/S00108/acts-the-letter-monday-9-february-2004.htm
+title: ACT's The Letter  - Monday 9 February 2004
+date: 2004-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00108/acts-the-letter-monday-9-february-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/02/09/acts-the-letter-monday-9-february-2004/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday 9 February 2004
 =========================================

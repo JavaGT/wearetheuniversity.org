@@ -1,9 +1,13 @@
 ---
 slug: nz-needs-to-recognise-and-invest-in-school-leaders
-title: "NZ Needs to Recognise And Invest in School Leaders"
-date: 2014-10-27
-source-url: https://www.scoop.co.nz/stories/ED1410/S00141/nz-needs-to-recognise-and-invest-in-school-leaders.htm
+title: NZ Needs to Recognise And Invest in School Leaders
+date: 2014-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00141/nz-needs-to-recognise-and-invest-in-school-leaders.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2014/10/27/nz-needs-to-recognise-and-invest-in-school-leaders/index.html
+layout: layout.njk
 ---
 NZ Needs to Recognise And Invest in School Leaders
 ==================================================

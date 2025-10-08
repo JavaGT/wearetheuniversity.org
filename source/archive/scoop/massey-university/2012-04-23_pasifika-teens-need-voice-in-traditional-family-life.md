@@ -1,9 +1,13 @@
 ---
 slug: pasifika-teens-need-voice-in-traditional-family-life
-title: "Pasifika teens need voice in traditional family life"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00081/pasifika-teens-need-voice-in-traditional-family-life.htm
+title: Pasifika teens need voice in traditional family life
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00081/pasifika-teens-need-voice-in-traditional-family-life.htm
 author: massey-university
+permalink: >-
+  /archive/2012/04/23/pasifika-teens-need-voice-in-traditional-family-life/index.html
+layout: layout.njk
 ---
 Pasifika teens need voice in traditional family life
 ====================================================

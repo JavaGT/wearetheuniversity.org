@@ -1,9 +1,12 @@
 ---
 slug: non-hires-result-of-budget-shortfalls
-title: "Non-hires result of budget shortfalls"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/PA1309/S00252/non-hires-result-of-budget-shortfalls.htm
+title: Non-hires result of budget shortfalls
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00252/non-hires-result-of-budget-shortfalls.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/13/non-hires-result-of-budget-shortfalls/index.html
+layout: layout.njk
 ---
 Non-hires result of budget shortfalls
 =====================================

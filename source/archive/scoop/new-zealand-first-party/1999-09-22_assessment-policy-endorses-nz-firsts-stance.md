@@ -1,9 +1,12 @@
 ---
 slug: assessment-policy-endorses-nz-firsts-stance
-title: "Assessment Policy Endorses NZ First's Stance"
-date: 1999-09-22
-source-url: https://www.scoop.co.nz/stories/PA9909/S00478/assessment-policy-endorses-nz-firsts-stance.htm
+title: Assessment Policy Endorses NZ First's Stance
+date: 1999-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00478/assessment-policy-endorses-nz-firsts-stance.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/22/assessment-policy-endorses-nz-firsts-stance/index.html
+layout: layout.njk
 ---
 Assessment Policy Endorses NZ First's Stance
 ============================================

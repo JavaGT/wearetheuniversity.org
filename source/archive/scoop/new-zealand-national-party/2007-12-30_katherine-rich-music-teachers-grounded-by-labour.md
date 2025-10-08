@@ -1,9 +1,13 @@
 ---
 slug: katherine-rich-music-teachers-grounded-by-labour
-title: "Katherine Rich: Music Teachers Grounded By Labour"
-date: 2007-12-30
-source-url: https://www.scoop.co.nz/stories/PA0712/S00537/katherine-rich-music-teachers-grounded-by-labour.htm
+title: 'Katherine Rich: Music Teachers Grounded By Labour'
+date: 2007-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00537/katherine-rich-music-teachers-grounded-by-labour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/12/30/katherine-rich-music-teachers-grounded-by-labour/index.html
+layout: layout.njk
 ---
 Katherine Rich: Music Teachers Grounded By Labour
 =================================================

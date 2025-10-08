@@ -1,9 +1,13 @@
 ---
 slug: university-develops-new-programme-to-become-a-midwife
-title: "University Develops New Programme To Become A Midwife"
-date: 2024-05-05
-source-url: https://www.scoop.co.nz/stories/ED2405/S00021/university-develops-new-programme-to-become-a-midwife.htm
+title: University Develops New Programme To Become A Midwife
+date: 2024-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00021/university-develops-new-programme-to-become-a-midwife.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/05/05/university-develops-new-programme-to-become-a-midwife/index.html
+layout: layout.njk
 ---
 University Develops New Programme To Become A Midwife
 =====================================================

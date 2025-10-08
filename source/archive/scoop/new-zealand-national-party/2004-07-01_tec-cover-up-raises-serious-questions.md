@@ -1,9 +1,12 @@
 ---
 slug: tec-cover-up-raises-serious-questions
-title: "TEC cover-up raises serious questions"
-date: 2004-07-01
-source-url: https://www.scoop.co.nz/stories/PA0407/S00027/tec-cover-up-raises-serious-questions.htm
+title: TEC cover-up raises serious questions
+date: 2004-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00027/tec-cover-up-raises-serious-questions.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/01/tec-cover-up-raises-serious-questions/index.html
+layout: layout.njk
 ---
 TEC cover-up raises serious questions
 =====================================

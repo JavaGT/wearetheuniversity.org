@@ -1,9 +1,13 @@
 ---
 slug: little-speech-to-labour-party-special-conference
-title: "Little: Speech to Labour Party Special Conference"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PA1607/S00165/little-speech-to-labour-party-special-conference.htm
+title: 'Little: Speech to Labour Party Special Conference'
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00165/little-speech-to-labour-party-special-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/11/little-speech-to-labour-party-special-conference/index.html
+layout: layout.njk
 ---
 Little: Speech to Labour Party Special Conference
 =================================================

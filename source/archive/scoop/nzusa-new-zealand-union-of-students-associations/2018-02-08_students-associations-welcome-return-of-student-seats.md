@@ -1,9 +1,13 @@
 ---
 slug: students-associations-welcome-return-of-student-seats
-title: "Students’ associations welcome return of student seats"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/PO1802/S00068/students-associations-welcome-return-of-student-seats.htm
+title: Students’ associations welcome return of student seats
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00068/students-associations-welcome-return-of-student-seats.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/02/08/students-associations-welcome-return-of-student-seats/index.html
+layout: layout.njk
 ---
 Students’ associations welcome return of student seats
 ======================================================

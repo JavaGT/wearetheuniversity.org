@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-ranked-in-top-50-worldwide
-title: "University of Waikato ranked in Top 50 worldwide"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/ED1306/S00108/university-of-waikato-ranked-in-top-50-worldwide.htm
+title: University of Waikato ranked in Top 50 worldwide
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00108/university-of-waikato-ranked-in-top-50-worldwide.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/20/university-of-waikato-ranked-in-top-50-worldwide/index.html
+layout: layout.njk
 ---
 University of Waikato ranked in Top 50 worldwide
 ================================================

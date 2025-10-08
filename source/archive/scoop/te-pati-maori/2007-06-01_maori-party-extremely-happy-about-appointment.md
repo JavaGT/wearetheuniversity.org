@@ -1,9 +1,12 @@
 ---
 slug: maori-party-extremely-happy-about-appointment
-title: "Maori Party Extremely Happy about Appointment"
-date: 2007-06-01
-source-url: https://www.scoop.co.nz/stories/PA0706/S00028/maori-party-extremely-happy-about-appointment.htm
+title: Maori Party Extremely Happy about Appointment
+date: 2007-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00028/maori-party-extremely-happy-about-appointment.htm
 author: te-pati-maori
+permalink: /archive/2007/06/01/maori-party-extremely-happy-about-appointment/index.html
+layout: layout.njk
 ---
 Maori Party Extremely Happy about Appointment
 =============================================

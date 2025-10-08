@@ -1,9 +1,12 @@
 ---
 slug: living-wage-campaign;-time-for-political-discussion
-title: "Living wage campaign; time for political discussion"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00375/living-wage-campaign-time-for-political-discussion.htm
+title: Living wage campaign; time for political discussion
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00375/living-wage-campaign-time-for-political-discussion.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/23/living-wage-campaign/index.html
+layout: layout.njk
 ---
 Living wage campaign; time for political discussion
 ===================================================

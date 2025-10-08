@@ -1,9 +1,13 @@
 ---
 slug: co-leader-of-the-maori-party-to-step-down-in-2014
-title: "Co-leader of the Maori Party to step down in 2014"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/PA1212/S00279/co-leader-of-the-maori-party-to-step-down-in-2014.htm
+title: Co-leader of the Maori Party to step down in 2014
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00279/co-leader-of-the-maori-party-to-step-down-in-2014.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/12/14/co-leader-of-the-maori-party-to-step-down-in-2014/index.html
+layout: layout.njk
 ---
 Co-leader of the Maori Party to step down in 2014
 =================================================

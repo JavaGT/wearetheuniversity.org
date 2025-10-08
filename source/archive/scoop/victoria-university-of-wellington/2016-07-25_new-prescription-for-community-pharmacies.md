@@ -1,9 +1,12 @@
 ---
 slug: new-prescription-for-community-pharmacies
-title: "New prescription for community pharmacies"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/GE1607/S00078/new-prescription-for-community-pharmacies.htm
+title: New prescription for community pharmacies
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00078/new-prescription-for-community-pharmacies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/07/25/new-prescription-for-community-pharmacies/index.html
+layout: layout.njk
 ---
 New prescription for community pharmacies
 =========================================

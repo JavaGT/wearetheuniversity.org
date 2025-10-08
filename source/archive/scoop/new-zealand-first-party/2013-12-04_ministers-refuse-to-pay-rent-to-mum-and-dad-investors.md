@@ -1,9 +1,13 @@
 ---
 slug: ministers-refuse-to-pay-rent-to-mum-and-dad-investors
-title: "Ministers Refuse To Pay Rent to \"Mum and Dad\" Investors"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/PA1312/S00087/ministers-refuse-to-pay-rent-to-mum-and-dad-investors.htm
+title: Ministers Refuse To Pay Rent to "Mum and Dad" Investors
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00087/ministers-refuse-to-pay-rent-to-mum-and-dad-investors.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/12/04/ministers-refuse-to-pay-rent-to-mum-and-dad-investors/index.html
+layout: layout.njk
 ---
 Ministers Refuse To Pay Rent to “Mum and Dad” Investors
 =======================================================

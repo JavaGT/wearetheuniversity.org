@@ -1,9 +1,12 @@
 ---
 slug: unlocking-big-data-medical-information
-title: "Unlocking ‘Big Data’ medical information"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/GE1509/S00091/unlocking-big-data-medical-information.htm
+title: Unlocking ‘Big Data’ medical information
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1509/S00091/unlocking-big-data-medical-information.htm
 author: university-of-otago
+permalink: /archive/2015/09/16/unlocking-big-data-medical-information/index.html
+layout: layout.njk
 ---
 Unlocking ‘Big Data’ medical information
 ========================================

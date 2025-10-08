@@ -1,9 +1,11 @@
 ---
 slug: aus-cancels-nbr-subscription
-title: "AUS Cancels NBR subscription"
-date: 2000-05-12
+title: AUS Cancels NBR subscription
+date: 2000-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0005/S00034/aus-cancels-nbr-subscription.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/12/aus-cancels-nbr-subscription/index.html
+layout: layout.njk
 ---
 AUS Cancels NBR subscription
 ============================

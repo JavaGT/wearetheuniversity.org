@@ -1,9 +1,12 @@
 ---
 slug: citys-youth-to-contribute-to-social-research
-title: "City’s youth to contribute to social research"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/ED0410/S00026/citys-youth-to-contribute-to-social-research.htm
+title: City’s youth to contribute to social research
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00026/citys-youth-to-contribute-to-social-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/07/citys-youth-to-contribute-to-social-research/index.html
+layout: layout.njk
 ---
 City’s youth to contribute to social research
 =============================================

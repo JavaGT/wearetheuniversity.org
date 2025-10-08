@@ -1,9 +1,11 @@
 ---
 slug: pay-settlement-at-vuw
-title: "Pay settlement at VUW"
-date: 2004-07-01
+title: Pay settlement at VUW
+date: 2004-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00005/pay-settlement-at-vuw.htm
 author: association-of-university-staff
+permalink: /archive/2004/07/01/pay-settlement-at-vuw/index.html
+layout: layout.njk
 ---
 Pay settlement at VUW
 =====================

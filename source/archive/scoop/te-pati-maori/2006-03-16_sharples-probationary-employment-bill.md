@@ -1,9 +1,12 @@
 ---
 slug: sharples-probationary-employment-bill
-title: "Sharples - Probationary Employment Bill"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/PA0603/S00258/sharples-probationary-employment-bill.htm
+title: Sharples - Probationary Employment Bill
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00258/sharples-probationary-employment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/16/sharples-probationary-employment-bill/index.html
+layout: layout.njk
 ---
 Sharples - Probationary Employment Bill
 =======================================

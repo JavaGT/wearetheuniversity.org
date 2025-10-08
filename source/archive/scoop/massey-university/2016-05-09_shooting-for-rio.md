@@ -1,9 +1,11 @@
 ---
 slug: shooting-for-rio
-title: "Shooting for Rio"
-date: 2016-05-09
+title: Shooting for Rio
+date: 2016-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1605/S00101/shooting-for-rio.htm
 author: massey-university
+permalink: /archive/2016/05/09/shooting-for-rio/index.html
+layout: layout.njk
 ---
 Shooting for Rio
 ================

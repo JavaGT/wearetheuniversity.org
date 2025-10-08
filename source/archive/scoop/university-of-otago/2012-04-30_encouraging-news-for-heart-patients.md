@@ -1,9 +1,12 @@
 ---
 slug: encouraging-news-for-heart-patients
-title: "Encouraging news for heart patients"
-date: 2012-04-30
-source-url: https://www.scoop.co.nz/stories/SC1204/S00041/encouraging-news-for-heart-patients.htm
+title: Encouraging news for heart patients
+date: 2012-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1204/S00041/encouraging-news-for-heart-patients.htm
 author: university-of-otago
+permalink: /archive/2012/04/30/encouraging-news-for-heart-patients/index.html
+layout: layout.njk
 ---
 Encouraging news for heart patients
 ===================================

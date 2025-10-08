@@ -1,9 +1,13 @@
 ---
 slug: 27-positions-to-be-axed-from-college-of-education
-title: "27 positions to be axed from College of Education"
-date: 2008-06-24
-source-url: https://www.scoop.co.nz/stories/ED0806/S00067/27-positions-to-be-axed-from-college-of-education.htm
+title: 27 positions to be axed from College of Education
+date: 2008-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00067/27-positions-to-be-axed-from-college-of-education.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/06/24/27-positions-to-be-axed-from-college-of-education/index.html
+layout: layout.njk
 ---
 27 positions to be axed from College of Education
 =================================================

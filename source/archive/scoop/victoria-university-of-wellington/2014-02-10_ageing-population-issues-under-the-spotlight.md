@@ -1,9 +1,12 @@
 ---
 slug: ageing-population-issues-under-the-spotlight
-title: "Ageing population issues under the spotlight"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/AK1402/S00176/ageing-population-issues-under-the-spotlight.htm
+title: Ageing population issues under the spotlight
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00176/ageing-population-issues-under-the-spotlight.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/10/ageing-population-issues-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Ageing population issues under the spotlight
 ============================================

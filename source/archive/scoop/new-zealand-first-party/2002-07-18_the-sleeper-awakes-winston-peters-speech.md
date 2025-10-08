@@ -1,9 +1,12 @@
 ---
 slug: the-sleeper-awakes-winston-peters-speech
-title: "The Sleeper Awakes - Winston Peters Speech"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/PA0207/S00509/the-sleeper-awakes-winston-peters-speech.htm
+title: The Sleeper Awakes - Winston Peters Speech
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00509/the-sleeper-awakes-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/18/the-sleeper-awakes-winston-peters-speech/index.html
+layout: layout.njk
 ---
 The Sleeper Awakes - Winston Peters Speech
 ==========================================

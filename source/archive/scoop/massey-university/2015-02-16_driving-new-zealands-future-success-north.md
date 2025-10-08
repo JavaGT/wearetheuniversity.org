@@ -1,9 +1,12 @@
 ---
 slug: driving-new-zealands-future-success-north
-title: "Driving New Zealand’s future success north"
-date: 2015-02-16
-source-url: https://www.scoop.co.nz/stories/ED1502/S00052/driving-new-zealands-future-success-north.htm
+title: Driving New Zealand’s future success north
+date: 2015-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00052/driving-new-zealands-future-success-north.htm
 author: massey-university
+permalink: /archive/2015/02/16/driving-new-zealands-future-success-north/index.html
+layout: layout.njk
 ---
 Driving New Zealand’s future success north
 ==========================================

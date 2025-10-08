@@ -1,9 +1,12 @@
 ---
 slug: aus-welcomes-pbrf-reports-release
-title: "AUS welcomes PBRF report’s release"
-date: 2008-08-22
-source-url: https://www.scoop.co.nz/stories/ED0808/S00061/aus-welcomes-pbrf-reports-release.htm
+title: AUS welcomes PBRF report’s release
+date: 2008-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00061/aus-welcomes-pbrf-reports-release.htm
 author: association-of-university-staff
+permalink: /archive/2008/08/22/aus-welcomes-pbrf-reports-release/index.html
+layout: layout.njk
 ---
 AUS welcomes PBRF report’s release
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: leading-american-academic-economist-to-give-public-lecture
-title: "Leading American academic economist to give public lecture"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/ED1407/S00003/leading-american-academic-economist-to-give-public-lecture.htm
+title: Leading American academic economist to give public lecture
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00003/leading-american-academic-economist-to-give-public-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/01/leading-american-academic-economist-to-give-public-lecture/index.html
+layout: layout.njk
 ---
 Leading American academic economist to give public lecture
 ==========================================================

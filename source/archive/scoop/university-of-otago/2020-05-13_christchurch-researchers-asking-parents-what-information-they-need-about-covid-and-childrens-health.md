@@ -1,9 +1,16 @@
 ---
-slug: christchurch-researchers-asking-parents-what-information-they-need-about-covid-and-childrens-health
-title: "Christchurch Researchers Asking Parents What Information They Need About COVID And Children’s Health"
-date: 2020-05-13
-source-url: https://www.scoop.co.nz/stories/GE2005/S00083/christchurch-researchers-asking-parents-what-information-they-need-about-covid-and-childrens-health.htm
+slug: >-
+  christchurch-researchers-asking-parents-what-information-they-need-about-covid-and-childrens-health
+title: >-
+  Christchurch Researchers Asking Parents What Information They Need About COVID
+  And Children’s Health
+date: 2020-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2005/S00083/christchurch-researchers-asking-parents-what-information-they-need-about-covid-and-childrens-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/05/13/christchurch-researchers-asking-parents-what-information-they-need-about-covid-and-childrens-health/index.html
+layout: layout.njk
 ---
 Christchurch Researchers Asking Parents What Information They Need About COVID And Children’s Health
 ====================================================================================================

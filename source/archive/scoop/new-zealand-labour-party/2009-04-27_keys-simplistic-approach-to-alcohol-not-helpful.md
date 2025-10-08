@@ -1,9 +1,12 @@
 ---
 slug: keys-simplistic-approach-to-alcohol-not-helpful
-title: "Key’s Simplistic Approach to Alcohol Not Helpful"
-date: 2009-04-27
-source-url: https://www.scoop.co.nz/stories/PA0904/S00328/keys-simplistic-approach-to-alcohol-not-helpful.htm
+title: Key’s Simplistic Approach to Alcohol Not Helpful
+date: 2009-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00328/keys-simplistic-approach-to-alcohol-not-helpful.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/27/keys-simplistic-approach-to-alcohol-not-helpful/index.html
+layout: layout.njk
 ---
 Key’s Simplistic Approach to Alcohol Not Helpful
 ================================================

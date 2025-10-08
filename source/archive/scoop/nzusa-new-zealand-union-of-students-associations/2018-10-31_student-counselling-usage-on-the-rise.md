@@ -1,9 +1,12 @@
 ---
 slug: student-counselling-usage-on-the-rise
-title: "Student counselling usage on the rise"
-date: 2018-10-31
-source-url: https://www.scoop.co.nz/stories/PO1810/S00426/student-counselling-usage-on-the-rise.htm
+title: Student counselling usage on the rise
+date: 2018-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00426/student-counselling-usage-on-the-rise.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/10/31/student-counselling-usage-on-the-rise/index.html
+layout: layout.njk
 ---
 Student counselling usage on the rise
 =====================================

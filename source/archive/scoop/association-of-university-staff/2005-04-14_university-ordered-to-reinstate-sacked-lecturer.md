@@ -1,9 +1,12 @@
 ---
 slug: university-ordered-to-reinstate-sacked-lecturer
-title: "University ordered to reinstate sacked lecturer"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/ED0504/S00051/university-ordered-to-reinstate-sacked-lecturer.htm
+title: University ordered to reinstate sacked lecturer
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00051/university-ordered-to-reinstate-sacked-lecturer.htm
 author: association-of-university-staff
+permalink: /archive/2005/04/14/university-ordered-to-reinstate-sacked-lecturer/index.html
+layout: layout.njk
 ---
 University ordered to reinstate sacked lecturer
 ===============================================

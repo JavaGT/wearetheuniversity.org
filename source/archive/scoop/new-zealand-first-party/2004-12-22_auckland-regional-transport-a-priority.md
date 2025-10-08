@@ -1,9 +1,12 @@
 ---
 slug: auckland-regional-transport-a-priority
-title: "Auckland Regional Transport A Priority"
-date: 2004-12-22
-source-url: https://www.scoop.co.nz/stories/PA0412/S00565/auckland-regional-transport-a-priority.htm
+title: Auckland Regional Transport A Priority
+date: 2004-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00565/auckland-regional-transport-a-priority.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/22/auckland-regional-transport-a-priority/index.html
+layout: layout.njk
 ---
 Auckland Regional Transport A Priority
 ======================================

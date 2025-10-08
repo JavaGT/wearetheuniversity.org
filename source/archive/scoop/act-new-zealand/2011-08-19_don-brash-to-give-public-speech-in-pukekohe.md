@@ -1,9 +1,12 @@
 ---
 slug: don-brash-to-give-public-speech-in-pukekohe
-title: "Don Brash to Give Public Speech in Pukekohe"
-date: 2011-08-19
-source-url: https://www.scoop.co.nz/stories/PA1108/S00420/don-brash-to-give-public-speech-in-pukekohe.htm
+title: Don Brash to Give Public Speech in Pukekohe
+date: 2011-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00420/don-brash-to-give-public-speech-in-pukekohe.htm
 author: act-new-zealand
+permalink: /archive/2011/08/19/don-brash-to-give-public-speech-in-pukekohe/index.html
+layout: layout.njk
 ---
 Don Brash to Give Public Speech in Pukekohe
 ===========================================

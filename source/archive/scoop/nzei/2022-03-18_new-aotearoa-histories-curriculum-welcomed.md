@@ -1,9 +1,12 @@
 ---
 slug: new-aotearoa-histories-curriculum-welcomed
-title: "New Aotearoa Histories Curriculum Welcomed"
-date: 2022-03-18
-source-url: https://www.scoop.co.nz/stories/ED2203/S00025/new-aotearoa-histories-curriculum-welcomed.htm
+title: New Aotearoa Histories Curriculum Welcomed
+date: 2022-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00025/new-aotearoa-histories-curriculum-welcomed.htm
 author: nzei
+permalink: /archive/2022/03/18/new-aotearoa-histories-curriculum-welcomed/index.html
+layout: layout.njk
 ---
 New Aotearoa Histories Curriculum Welcomed
 ==========================================

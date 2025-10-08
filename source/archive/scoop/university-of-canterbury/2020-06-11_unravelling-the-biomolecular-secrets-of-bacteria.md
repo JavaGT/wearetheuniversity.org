@@ -1,9 +1,13 @@
 ---
 slug: unravelling-the-biomolecular-secrets-of-bacteria
-title: "Unravelling The Biomolecular Secrets Of Bacteria"
-date: 2020-06-11
-source-url: https://www.scoop.co.nz/stories/SC2006/S00031/unravelling-the-biomolecular-secrets-of-bacteria.htm
+title: Unravelling The Biomolecular Secrets Of Bacteria
+date: 2020-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00031/unravelling-the-biomolecular-secrets-of-bacteria.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/11/unravelling-the-biomolecular-secrets-of-bacteria/index.html
+layout: layout.njk
 ---
 Unravelling The Biomolecular Secrets Of Bacteria
 ================================================

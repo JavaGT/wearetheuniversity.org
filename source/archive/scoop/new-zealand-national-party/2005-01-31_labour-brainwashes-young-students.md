@@ -1,9 +1,12 @@
 ---
 slug: labour-brainwashes-young-students
-title: "Labour Brainwashes Young Students"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PA0501/S00288/labour-brainwashes-young-students.htm
+title: Labour Brainwashes Young Students
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00288/labour-brainwashes-young-students.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/31/labour-brainwashes-young-students/index.html
+layout: layout.njk
 ---
 Labour Brainwashes Young Students
 =================================

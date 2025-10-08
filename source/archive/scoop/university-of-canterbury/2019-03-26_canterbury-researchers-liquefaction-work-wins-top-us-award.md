@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researchers-liquefaction-work-wins-top-us-award
-title: "Canterbury researcher’s liquefaction work wins top US award"
-date: 2019-03-26
-source-url: https://www.scoop.co.nz/stories/SC1903/S00041/canterbury-researchers-liquefaction-work-wins-top-us-award.htm
+title: Canterbury researcher’s liquefaction work wins top US award
+date: 2019-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1903/S00041/canterbury-researchers-liquefaction-work-wins-top-us-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/03/26/canterbury-researchers-liquefaction-work-wins-top-us-award/index.html
+layout: layout.njk
 ---
 Canterbury researcher’s liquefaction work wins top US award
 ===========================================================

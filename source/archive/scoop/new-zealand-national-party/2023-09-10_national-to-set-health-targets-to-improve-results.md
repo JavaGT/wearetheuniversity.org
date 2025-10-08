@@ -1,9 +1,13 @@
 ---
 slug: national-to-set-health-targets-to-improve-results
-title: "National To Set Health Targets To Improve Results"
-date: 2023-09-10
-source-url: https://www.scoop.co.nz/stories/PA2309/S00056/national-to-set-health-targets-to-improve-results.htm
+title: National To Set Health Targets To Improve Results
+date: 2023-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00056/national-to-set-health-targets-to-improve-results.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/10/national-to-set-health-targets-to-improve-results/index.html
+layout: layout.njk
 ---
 National To Set Health Targets To Improve Results
 =================================================

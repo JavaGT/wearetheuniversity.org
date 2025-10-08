@@ -1,9 +1,12 @@
 ---
 slug: student-team-to-take-on-the-world
-title: "Student team to take on the world"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/SC1108/S00066/student-team-to-take-on-the-world.htm
+title: Student team to take on the world
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00066/student-team-to-take-on-the-world.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/08/24/student-team-to-take-on-the-world/index.html
+layout: layout.njk
 ---
 Student team to take on the world
 =================================

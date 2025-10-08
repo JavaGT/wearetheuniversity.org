@@ -1,9 +1,13 @@
 ---
 slug: work-continues-on-national-music-centre-in-capital-city
-title: "Work Continues On National Music Centre In Capital City"
-date: 2024-06-24
-source-url: https://www.scoop.co.nz/stories/BU2406/S00417/work-continues-on-national-music-centre-in-capital-city.htm
+title: Work Continues On National Music Centre In Capital City
+date: 2024-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2406/S00417/work-continues-on-national-music-centre-in-capital-city.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/06/24/work-continues-on-national-music-centre-in-capital-city/index.html
+layout: layout.njk
 ---
 Work Continues On National Music Centre In Capital City
 =======================================================

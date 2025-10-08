@@ -1,9 +1,13 @@
 ---
 slug: canterbury-designed-trampoline-wins-international-award
-title: "Canterbury designed trampoline wins international award"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/ED1404/S00007/canterbury-designed-trampoline-wins-international-award.htm
+title: Canterbury designed trampoline wins international award
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00007/canterbury-designed-trampoline-wins-international-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/02/canterbury-designed-trampoline-wins-international-award/index.html
+layout: layout.njk
 ---
 Canterbury designed trampoline wins international award
 =======================================================

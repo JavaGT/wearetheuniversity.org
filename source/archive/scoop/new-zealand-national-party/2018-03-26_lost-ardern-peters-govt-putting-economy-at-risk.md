@@ -1,9 +1,12 @@
 ---
 slug: lost-ardern-peters-govt-putting-economy-at-risk
-title: "Lost Ardern-Peters Govt putting economy at risk"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/PA1803/S00274/lost-ardern-peters-govt-putting-economy-at-risk.htm
+title: Lost Ardern-Peters Govt putting economy at risk
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00274/lost-ardern-peters-govt-putting-economy-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/26/lost-ardern-peters-govt-putting-economy-at-risk/index.html
+layout: layout.njk
 ---
 Lost Ardern-Peters Govt putting economy at risk
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: adelaide-engineering-students-to-learn-about-chch-quakes
-title: "Adelaide engineering students to learn about Chch quakes"
-date: 2014-07-09
-source-url: https://www.scoop.co.nz/stories/ED1407/S00058/adelaide-engineering-students-to-learn-about-chch-quakes.htm
+title: Adelaide engineering students to learn about Chch quakes
+date: 2014-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00058/adelaide-engineering-students-to-learn-about-chch-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/09/adelaide-engineering-students-to-learn-about-chch-quakes/index.html
+layout: layout.njk
 ---
 Adelaide engineering students to learn about Chch quakes
 ========================================================

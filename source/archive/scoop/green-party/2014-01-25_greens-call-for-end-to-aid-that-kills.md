@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-end-to-aid-that-kills
-title: "Greens call for end to ‘Aid that Kills’"
-date: 2014-01-25
-source-url: https://www.scoop.co.nz/stories/PA1401/S00133/greens-call-for-end-to-aid-that-kills.htm
+title: Greens call for end to ‘Aid that Kills’
+date: 2014-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00133/greens-call-for-end-to-aid-that-kills.htm
 author: green-party
+permalink: /archive/2014/01/25/greens-call-for-end-to-aid-that-kills/index.html
+layout: layout.njk
 ---
 Greens call for end to ‘Aid that Kills’
 =======================================

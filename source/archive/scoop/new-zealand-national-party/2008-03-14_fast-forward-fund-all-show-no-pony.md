@@ -1,9 +1,12 @@
 ---
 slug: fast-forward-fund-all-show-no-pony
-title: "'Fast-forward' fund - all show, no pony"
-date: 2008-03-14
-source-url: https://www.scoop.co.nz/stories/PA0803/S00273/fast-forward-fund-all-show-no-pony.htm
+title: '''Fast-forward'' fund - all show, no pony'
+date: 2008-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00273/fast-forward-fund-all-show-no-pony.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/14/fast-forward-fund-all-show-no-pony/index.html
+layout: layout.njk
 ---
 'Fast-forward' fund - all show, no pony
 =======================================

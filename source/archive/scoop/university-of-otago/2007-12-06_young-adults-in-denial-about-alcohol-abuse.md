@@ -1,9 +1,12 @@
 ---
 slug: young-adults-in-denial-about-alcohol-abuse
-title: "Young adults in denial about alcohol abuse"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/GE0712/S00025/young-adults-in-denial-about-alcohol-abuse.htm
+title: Young adults in denial about alcohol abuse
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0712/S00025/young-adults-in-denial-about-alcohol-abuse.htm
 author: university-of-otago
+permalink: /archive/2007/12/06/young-adults-in-denial-about-alcohol-abuse/index.html
+layout: layout.njk
 ---
 Young adults in denial about alcohol abuse
 ==========================================

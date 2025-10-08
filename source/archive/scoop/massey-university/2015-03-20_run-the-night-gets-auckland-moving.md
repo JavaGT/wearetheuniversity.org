@@ -1,9 +1,12 @@
 ---
 slug: run-the-night-gets-auckland-moving
-title: "Run the Night gets Auckland moving"
-date: 2015-03-20
-source-url: https://www.scoop.co.nz/stories/AK1503/S00587/run-the-night-gets-auckland-moving.htm
+title: Run the Night gets Auckland moving
+date: 2015-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00587/run-the-night-gets-auckland-moving.htm
 author: massey-university
+permalink: /archive/2015/03/20/run-the-night-gets-auckland-moving/index.html
+layout: layout.njk
 ---
 Run the Night gets Auckland moving
 ==================================

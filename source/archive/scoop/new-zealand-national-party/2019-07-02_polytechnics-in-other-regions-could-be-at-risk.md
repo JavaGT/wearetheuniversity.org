@@ -1,9 +1,12 @@
 ---
 slug: polytechnics-in-other-regions-could-be-at-risk
-title: "Polytechnics in other regions could be at risk"
-date: 2019-07-02
-source-url: https://www.scoop.co.nz/stories/PA1907/S00009/polytechnics-in-other-regions-could-be-at-risk.htm
+title: Polytechnics in other regions could be at risk
+date: 2019-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00009/polytechnics-in-other-regions-could-be-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/02/polytechnics-in-other-regions-could-be-at-risk/index.html
+layout: layout.njk
 ---
 Polytechnics in other regions could be at risk
 ==============================================

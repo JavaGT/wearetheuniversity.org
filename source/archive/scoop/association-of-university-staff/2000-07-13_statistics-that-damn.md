@@ -1,9 +1,11 @@
 ---
 slug: statistics-that-damn
-title: "Statistics that damn."
-date: 2000-07-13
+title: Statistics that damn.
+date: 2000-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0007/S00013/statistics-that-damn.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/13/statistics-that-damn/index.html
+layout: layout.njk
 ---
 Statistics that damn.
 =====================

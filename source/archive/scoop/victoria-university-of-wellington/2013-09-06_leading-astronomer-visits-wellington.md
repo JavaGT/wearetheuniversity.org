@@ -1,9 +1,12 @@
 ---
 slug: leading-astronomer-visits-wellington
-title: "Leading astronomer visits Wellington"
-date: 2013-09-06
-source-url: https://www.scoop.co.nz/stories/SC1309/S00014/leading-astronomer-visits-wellington.htm
+title: Leading astronomer visits Wellington
+date: 2013-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00014/leading-astronomer-visits-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/06/leading-astronomer-visits-wellington/index.html
+layout: layout.njk
 ---
 Leading astronomer visits Wellington
 ====================================

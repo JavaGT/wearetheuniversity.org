@@ -1,8 +1,34 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Planet earth and human health – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Planet earth and human health</h2><h3><span></span></h3><p>Fri Feb 17 2017 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>Planet earth and human health</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planet earth and human health</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Planet earth and human health</h1>
 <p>17 February 2017</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/planet-earth-and-human-health/_jcr_content/par/textimage/image.img.jpg/1487281532965.jpg" alt="Alistair-Woodward" title="Alistair-Woodward"></p>
 <p>Professor Alistair Woodward, HOD Epidemiology and Biostatistics</p>
-<p><strong>Climate Change and the Health of Nations<br>By Anthony McMichael with Alistair Woodward and Cameron Muir<br>Published by Oxford University Press on 23 February</strong></p>
+<p><strong>Climate Change and the Health of Nations<br>
+By Anthony McMichael with Alistair Woodward and Cameron Muir<br>
+Published by Oxford University Press on 23 February</strong></p>
 <p>A better understanding of the close relationship between the life-support systems of our planet with human health and disease, is the focus of a new book by pioneering Australian epidemiologist, Tony McMichael.</p>
 <p>Professor McMichael, from the Australian National University, died unexpectedly in 2014, before the book was completed.</p>
 <p>His wife, Dr Judith Healy, asked Professor Alistair Woodward (Head of Epidemiology &amp; Biostatistics at the University of Auckland) to pick up the project and bring the book to publication.</p>
@@ -26,4 +52,25 @@
 <p>The book was widely endorsed by top international public health experts including the leaders of the London School of Hygiene and Tropical Medicine, the Dean of the University of Washington’s School of Public Health, and the Director of Public Health for the World Health Organisation.</p>
 <p>It was launched this month in Canberra and will be available to the public from 23 February.</p>
 <p><strong>For media enquiries <a href="mailto:s.phillips@auckland.ac.nz">email Suzi Phillips</a>, Media Advisor Medical and Health Sciences.</strong></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

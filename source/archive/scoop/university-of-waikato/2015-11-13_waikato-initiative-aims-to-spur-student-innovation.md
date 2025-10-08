@@ -1,9 +1,13 @@
 ---
 slug: waikato-initiative-aims-to-spur-student-innovation
-title: "Waikato initiative aims to spur student innovation"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/ED1511/S00076/waikato-initiative-aims-to-spur-student-innovation.htm
+title: Waikato initiative aims to spur student innovation
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00076/waikato-initiative-aims-to-spur-student-innovation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/11/13/waikato-initiative-aims-to-spur-student-innovation/index.html
+layout: layout.njk
 ---
 Waikato initiative aims to spur student innovation
 ==================================================

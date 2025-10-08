@@ -1,9 +1,12 @@
 ---
 slug: labours-anti-business-stance-creates-$20000-bill
-title: "Labour's Anti-Business Stance Creates $20,000 Bill"
-date: 2001-05-16
-source-url: https://www.scoop.co.nz/stories/PA0105/S00339/labours-anti-business-stance-creates-20000-bill.htm
+title: Labour's Anti-Business Stance Creates $20,000 Bill
+date: 2001-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00339/labours-anti-business-stance-creates-20000-bill.htm
 author: act-new-zealand
+permalink: /archive/2001/05/16/labours-anti-business-stance-creates-/index.html
+layout: layout.njk
 ---
 Labour's Anti-Business Stance Creates $20,000 Bill
 ==================================================

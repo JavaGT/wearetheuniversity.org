@@ -1,9 +1,12 @@
 ---
 slug: new-research-into-stroke-recovery
-title: "New research into stroke recovery"
-date: 2009-04-06
-source-url: https://www.scoop.co.nz/stories/GE0904/S00015/new-research-into-stroke-recovery.htm
+title: New research into stroke recovery
+date: 2009-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0904/S00015/new-research-into-stroke-recovery.htm
 author: university-of-waikato
+permalink: /archive/2009/04/06/new-research-into-stroke-recovery/index.html
+layout: layout.njk
 ---
 New research into stroke recovery
 =================================

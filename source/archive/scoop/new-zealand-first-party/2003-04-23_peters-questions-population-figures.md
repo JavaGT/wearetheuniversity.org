@@ -1,9 +1,12 @@
 ---
 slug: peters-questions-population-figures
-title: "Peters Questions Population Figures"
-date: 2003-04-23
-source-url: https://www.scoop.co.nz/stories/PA0304/S00434/peters-questions-population-figures.htm
+title: Peters Questions Population Figures
+date: 2003-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00434/peters-questions-population-figures.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/23/peters-questions-population-figures/index.html
+layout: layout.njk
 ---
 Peters Questions Population Figures
 ===================================

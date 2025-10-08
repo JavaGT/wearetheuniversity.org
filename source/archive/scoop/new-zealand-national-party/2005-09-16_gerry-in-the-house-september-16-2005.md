@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-september-16-2005
-title: "Gerry In The House September 16 2005"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/PA0509/S00448/gerry-in-the-house-september-16-2005.htm
+title: Gerry In The House September 16 2005
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00448/gerry-in-the-house-september-16-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/16/gerry-in-the-house-september-16-2005/index.html
+layout: layout.njk
 ---
 Gerry In The House September 16 2005
 ====================================

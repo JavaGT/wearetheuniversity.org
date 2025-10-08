@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-hon-dr-pita-sharples
-title: "Māori Party congratulates Hon Dr Pita Sharples"
-date: 2015-06-01
-source-url: https://www.scoop.co.nz/stories/PA1506/S00004/maori-party-congratulates-hon-dr-pita-sharples.htm
+title: Māori Party congratulates Hon Dr Pita Sharples
+date: 2015-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00004/maori-party-congratulates-hon-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2015/06/01/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates Hon Dr Pita Sharples
 ==============================================

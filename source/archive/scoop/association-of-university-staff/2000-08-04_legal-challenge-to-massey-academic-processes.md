@@ -1,9 +1,12 @@
 ---
 slug: legal-challenge-to-massey-academic-processes
-title: "Legal Challenge to Massey Academic Processes"
-date: 2000-08-04
-source-url: https://www.scoop.co.nz/stories/ED0008/S00014/legal-challenge-to-massey-academic-processes.htm
+title: Legal Challenge to Massey Academic Processes
+date: 2000-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00014/legal-challenge-to-massey-academic-processes.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/04/legal-challenge-to-massey-academic-processes/index.html
+layout: layout.njk
 ---
 Legal Challenge to Massey Academic Processes
 ============================================

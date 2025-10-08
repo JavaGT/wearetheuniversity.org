@@ -1,9 +1,12 @@
 ---
 slug: new-leader-for-victoria-management-school
-title: "New leader for Victoria Management School"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/ED0502/S00003/new-leader-for-victoria-management-school.htm
+title: New leader for Victoria Management School
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00003/new-leader-for-victoria-management-school.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/02/01/new-leader-for-victoria-management-school/index.html
+layout: layout.njk
 ---
 New leader for Victoria Management School
 =========================================

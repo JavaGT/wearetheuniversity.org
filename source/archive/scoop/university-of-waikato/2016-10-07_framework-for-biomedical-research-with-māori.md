@@ -1,9 +1,12 @@
 ---
 slug: framework-for-biomedical-research-with-māori
-title: "Framework for biomedical research with Māori"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/SC1610/S00020/framework-for-biomedical-research-with-maori.htm
+title: Framework for biomedical research with Māori
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00020/framework-for-biomedical-research-with-maori.htm
 author: university-of-waikato
+permalink: /archive/2016/10/07/framework-for-biomedical-research-with-m/index.html
+layout: layout.njk
 ---
 Framework for biomedical research with Māori
 ============================================

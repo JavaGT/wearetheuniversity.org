@@ -1,9 +1,12 @@
 ---
 slug: buy-local-bouquets-and-brickbats-to-councils
-title: "'Buy Local' Bouquets And Brickbats To Councils"
-date: 2001-08-27
-source-url: https://www.scoop.co.nz/stories/PA0108/S00498/buy-local-bouquets-and-brickbats-to-councils.htm
+title: '''Buy Local'' Bouquets And Brickbats To Councils'
+date: 2001-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00498/buy-local-bouquets-and-brickbats-to-councils.htm
 author: green-party
+permalink: /archive/2001/08/27/buy-local-bouquets-and-brickbats-to-councils/index.html
+layout: layout.njk
 ---
 'Buy Local' Bouquets And Brickbats To Councils
 ==============================================

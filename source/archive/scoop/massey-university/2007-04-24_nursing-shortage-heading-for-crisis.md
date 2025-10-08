@@ -1,9 +1,12 @@
 ---
 slug: nursing-shortage-heading-for-crisis
-title: "Nursing shortage heading for crisis"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/PO0704/S00308/nursing-shortage-heading-for-crisis.htm
+title: Nursing shortage heading for crisis
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00308/nursing-shortage-heading-for-crisis.htm
 author: massey-university
+permalink: /archive/2007/04/24/nursing-shortage-heading-for-crisis/index.html
+layout: layout.njk
 ---
 Nursing shortage heading for crisis
 ===================================

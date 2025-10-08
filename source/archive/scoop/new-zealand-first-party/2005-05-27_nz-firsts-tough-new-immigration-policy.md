@@ -1,9 +1,12 @@
 ---
 slug: nz-firsts-tough-new-immigration-policy
-title: "Nz First's Tough New Immigration Policy"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/PA0505/S00701/nz-firsts-tough-new-immigration-policy.htm
+title: Nz First's Tough New Immigration Policy
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00701/nz-firsts-tough-new-immigration-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/27/nz-firsts-tough-new-immigration-policy/index.html
+layout: layout.njk
 ---
 Nz First's Tough New Immigration Policy
 =======================================

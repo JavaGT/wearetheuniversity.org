@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-speech-does-policy-matter
-title: "Roger Kerr Speech - Does Policy Matter?"
-date: 2003-07-16
-source-url: https://www.scoop.co.nz/stories/BU0307/S00155/roger-kerr-speech-does-policy-matter.htm
+title: Roger Kerr Speech - Does Policy Matter?
+date: 2003-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0307/S00155/roger-kerr-speech-does-policy-matter.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/07/16/roger-kerr-speech-does-policy-matter/index.html
+layout: layout.njk
 ---
 Roger Kerr Speech - Does Policy Matter?
 =======================================

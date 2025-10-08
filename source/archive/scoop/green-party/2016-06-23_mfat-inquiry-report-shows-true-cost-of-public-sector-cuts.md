@@ -1,9 +1,13 @@
 ---
 slug: mfat-inquiry-report-shows-true-cost-of-public-sector-cuts
-title: "MFAT inquiry report shows true cost of public sector cuts"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00400/mfat-inquiry-report-shows-true-cost-of-public-sector-cuts.htm
+title: MFAT inquiry report shows true cost of public sector cuts
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00400/mfat-inquiry-report-shows-true-cost-of-public-sector-cuts.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/23/mfat-inquiry-report-shows-true-cost-of-public-sector-cuts/index.html
+layout: layout.njk
 ---
 MFAT inquiry report shows true cost of public sector cuts
 =========================================================

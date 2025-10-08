@@ -1,9 +1,13 @@
 ---
 slug: nz-must-support-inquiry-on-sri-lanka-war-crimes-allegations
-title: "NZ must support inquiry on Sri Lanka war crimes allegations"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/PA1403/S00190/nz-must-support-inquiry-on-sri-lanka-war-crimes-allegations.htm
+title: NZ must support inquiry on Sri Lanka war crimes allegations
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00190/nz-must-support-inquiry-on-sri-lanka-war-crimes-allegations.htm
 author: green-party
+permalink: >-
+  /archive/2014/03/11/nz-must-support-inquiry-on-sri-lanka-war-crimes-allegations/index.html
+layout: layout.njk
 ---
 NZ must support inquiry on Sri Lanka war crimes allegations
 ===========================================================

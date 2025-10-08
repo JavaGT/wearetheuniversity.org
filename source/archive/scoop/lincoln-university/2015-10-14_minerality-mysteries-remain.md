@@ -1,9 +1,11 @@
 ---
 slug: minerality-mysteries-remain
-title: "Minerality mysteries remain"
-date: 2015-10-14
+title: Minerality mysteries remain
+date: 2015-10-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1510/S00070/minerality-mysteries-remain.htm
 author: lincoln-university
+permalink: /archive/2015/10/14/minerality-mysteries-remain/index.html
+layout: layout.njk
 ---
 Minerality mysteries remain
 ===========================

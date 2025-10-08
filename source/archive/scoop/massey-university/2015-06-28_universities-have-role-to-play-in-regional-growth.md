@@ -1,9 +1,13 @@
 ---
 slug: universities-have-role-to-play-in-regional-growth
-title: "Universities have role to play in regional growth"
-date: 2015-06-28
-source-url: https://www.scoop.co.nz/stories/ED1506/S00137/universities-have-role-to-play-in-regional-growth.htm
+title: Universities have role to play in regional growth
+date: 2015-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00137/universities-have-role-to-play-in-regional-growth.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/28/universities-have-role-to-play-in-regional-growth/index.html
+layout: layout.njk
 ---
 Universities have role to play in regional growth
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: rheumatic-fever-programme-misses-the-mark
-title: "Rheumatic fever programme misses the mark"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/PA1109/S00423/rheumatic-fever-programme-misses-the-mark.htm
+title: Rheumatic fever programme misses the mark
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00423/rheumatic-fever-programme-misses-the-mark.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/22/rheumatic-fever-programme-misses-the-mark/index.html
+layout: layout.njk
 ---
 Rheumatic fever programme misses the mark
 =========================================

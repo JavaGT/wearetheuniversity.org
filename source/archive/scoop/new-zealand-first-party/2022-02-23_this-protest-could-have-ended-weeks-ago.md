@@ -1,9 +1,12 @@
 ---
 slug: this-protest-could-have-ended-weeks-ago
-title: "This Protest Could Have Ended Weeks Ago"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/PA2202/S00174/this-protest-could-have-ended-weeks-ago.htm
+title: This Protest Could Have Ended Weeks Ago
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00174/this-protest-could-have-ended-weeks-ago.htm
 author: new-zealand-first-party
+permalink: /archive/2022/02/23/this-protest-could-have-ended-weeks-ago/index.html
+layout: layout.njk
 ---
 This Protest Could Have Ended Weeks Ago
 =======================================

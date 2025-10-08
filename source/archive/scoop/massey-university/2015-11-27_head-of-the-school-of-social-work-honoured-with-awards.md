@@ -1,9 +1,13 @@
 ---
 slug: head-of-the-school-of-social-work-honoured-with-awards
-title: "Head of the School of Social Work honoured with awards"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/ED1511/S00135/head-of-the-school-of-social-work-honoured-with-awards.htm
+title: Head of the School of Social Work honoured with awards
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00135/head-of-the-school-of-social-work-honoured-with-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/27/head-of-the-school-of-social-work-honoured-with-awards/index.html
+layout: layout.njk
 ---
 Head of the School of Social Work honoured with awards
 ======================================================

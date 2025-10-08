@@ -1,9 +1,13 @@
 ---
 slug: instability-and-insecurity-shaky-foundation-for-families
-title: "Instability and insecurity shaky foundation for families"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/PA1107/S00065/instability-and-insecurity-shaky-foundation-for-families.htm
+title: Instability and insecurity shaky foundation for families
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00065/instability-and-insecurity-shaky-foundation-for-families.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/07/05/instability-and-insecurity-shaky-foundation-for-families/index.html
+layout: layout.njk
 ---
 Instability and insecurity shaky foundation for families
 ========================================================

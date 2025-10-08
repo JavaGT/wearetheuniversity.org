@@ -1,9 +1,13 @@
 ---
 slug: pioneering-biochemistry-researcher-awarded-emeritus-professo
-title: "Pioneering biochemistry researcher awarded Emeritus Professo"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/ED1309/S00113/pioneering-biochemistry-researcher-awarded-emeritus-professo.htm
+title: Pioneering biochemistry researcher awarded Emeritus Professo
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00113/pioneering-biochemistry-researcher-awarded-emeritus-professo.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/19/pioneering-biochemistry-researcher-awarded-emeritus-professo/index.html
+layout: layout.njk
 ---
 Pioneering biochemistry researcher awarded Emeritus Professo
 ============================================================

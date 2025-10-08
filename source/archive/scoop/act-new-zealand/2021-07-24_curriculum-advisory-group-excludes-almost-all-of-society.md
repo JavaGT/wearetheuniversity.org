@@ -1,9 +1,13 @@
 ---
 slug: curriculum-advisory-group-excludes-almost-all-of-society
-title: "Curriculum Advisory Group Excludes Almost All Of Society"
-date: 2021-07-24
-source-url: https://www.scoop.co.nz/stories/PA2107/S00180/curriculum-advisory-group-excludes-almost-all-of-society.htm
+title: Curriculum Advisory Group Excludes Almost All Of Society
+date: 2021-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00180/curriculum-advisory-group-excludes-almost-all-of-society.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/24/curriculum-advisory-group-excludes-almost-all-of-society/index.html
+layout: layout.njk
 ---
 Curriculum Advisory Group Excludes Almost All Of Society
 ========================================================

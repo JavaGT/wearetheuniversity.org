@@ -1,9 +1,13 @@
 ---
 slug: university-blows-compulsory-levy-out-of-the-water
-title: "University Blows Compulsory Levy Out of the Water"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/PA0211/S00397/university-blows-compulsory-levy-out-of-the-water.htm
+title: University Blows Compulsory Levy Out of the Water
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00397/university-blows-compulsory-levy-out-of-the-water.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/11/18/university-blows-compulsory-levy-out-of-the-water/index.html
+layout: layout.njk
 ---
 University Blows Compulsory Levy Out of the Water
 =================================================

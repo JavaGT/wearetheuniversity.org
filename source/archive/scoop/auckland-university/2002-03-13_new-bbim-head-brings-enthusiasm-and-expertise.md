@@ -1,9 +1,12 @@
 ---
 slug: new-bbim-head-brings-enthusiasm-and-expertise
-title: "New BBIM Head Brings Enthusiasm And Expertise"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/ED0203/S00030/new-bbim-head-brings-enthusiasm-and-expertise.htm
+title: New BBIM Head Brings Enthusiasm And Expertise
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00030/new-bbim-head-brings-enthusiasm-and-expertise.htm
 author: auckland-university
+permalink: /archive/2002/03/13/new-bbim-head-brings-enthusiasm-and-expertise/index.html
+layout: layout.njk
 ---
 New BBIM Head Brings Enthusiasm And Expertise
 =============================================

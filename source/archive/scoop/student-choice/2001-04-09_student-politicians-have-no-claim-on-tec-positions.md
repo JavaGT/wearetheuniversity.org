@@ -1,9 +1,13 @@
 ---
 slug: student-politicians-have-no-claim-on-tec-positions
-title: "Student Politicians Have No Claim On TEC Positions"
-date: 2001-04-09
-source-url: https://www.scoop.co.nz/stories/ED0104/S00006/student-politicians-have-no-claim-on-tec-positions.htm
+title: Student Politicians Have No Claim On TEC Positions
+date: 2001-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00006/student-politicians-have-no-claim-on-tec-positions.htm
 author: student-choice
+permalink: >-
+  /archive/2001/04/09/student-politicians-have-no-claim-on-tec-positions/index.html
+layout: layout.njk
 ---
 Student Politicians Have No Claim On TEC Positions
 ==================================================

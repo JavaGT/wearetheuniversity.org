@@ -1,9 +1,13 @@
 ---
 slug: commissioner-advises-against-extra-loan-repayment
-title: "Commissioner advises against extra loan repayment"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/PA0604/S00017/commissioner-advises-against-extra-loan-repayment.htm
+title: Commissioner advises against extra loan repayment
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00017/commissioner-advises-against-extra-loan-repayment.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/04/03/commissioner-advises-against-extra-loan-repayment/index.html
+layout: layout.njk
 ---
 Commissioner advises against extra loan repayment
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: ministers-ran-roughshod-over-nztas-transport-plan
-title: "Ministers ran roughshod over NZTA’s transport plan"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PA1908/S00303/ministers-ran-roughshod-over-nztas-transport-plan.htm
+title: Ministers ran roughshod over NZTA’s transport plan
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00303/ministers-ran-roughshod-over-nztas-transport-plan.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/08/29/ministers-ran-roughshod-over-nztas-transport-plan/index.html
+layout: layout.njk
 ---
 Ministers ran roughshod over NZTA’s transport plan
 ==================================================

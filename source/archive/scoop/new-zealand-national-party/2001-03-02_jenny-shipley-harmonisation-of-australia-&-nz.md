@@ -1,9 +1,12 @@
 ---
 slug: jenny-shipley-harmonisation-of-australia-&-nz
-title: "Jenny Shipley: Harmonisation of Australia & NZ"
-date: 2001-03-02
-source-url: https://www.scoop.co.nz/stories/PA0103/S00038/jenny-shipley-harmonisation-of-australia-nz.htm
+title: 'Jenny Shipley: Harmonisation of Australia & NZ'
+date: 2001-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00038/jenny-shipley-harmonisation-of-australia-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/02/jenny-shipley-harmonisation-of-australia-/index.html
+layout: layout.njk
 ---
 Jenny Shipley: Harmonisation of Australia & NZ
 ==============================================

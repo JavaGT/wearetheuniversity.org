@@ -1,9 +1,13 @@
 ---
 slug: kiwis-still-out-of-pocket-for-over-14000-miq-stays
-title: "Kiwis Still Out Of Pocket For Over 14,000 MIQ Stays"
-date: 2021-11-16
-source-url: https://www.scoop.co.nz/stories/PA2111/S00177/kiwis-still-out-of-pocket-for-over-14000-miq-stays.htm
+title: Kiwis Still Out Of Pocket For Over 14,000 MIQ Stays
+date: 2021-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00177/kiwis-still-out-of-pocket-for-over-14000-miq-stays.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/16/kiwis-still-out-of-pocket-for-over-14000-miq-stays/index.html
+layout: layout.njk
 ---
 Kiwis Still Out Of Pocket For Over 14,000 MIQ Stays
 ===================================================

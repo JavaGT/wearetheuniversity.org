@@ -1,9 +1,12 @@
 ---
 slug: working-for-families-roll-out-poorly-planned
-title: "Working For Families roll-out poorly planned"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/PA0602/S00265/working-for-families-roll-out-poorly-planned.htm
+title: Working For Families roll-out poorly planned
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00265/working-for-families-roll-out-poorly-planned.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/20/working-for-families-roll-out-poorly-planned/index.html
+layout: layout.njk
 ---
 Working For Families roll-out poorly planned
 ============================================

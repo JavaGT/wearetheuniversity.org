@@ -1,9 +1,13 @@
 ---
 slug: no-confidence-in-a-budget-that-steals-our-future
-title: "No confidence in a budget that steals our future"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00366/no-confidence-in-a-budget-that-steals-our-future.htm
+title: No confidence in a budget that steals our future
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00366/no-confidence-in-a-budget-that-steals-our-future.htm
 author: green-party
+permalink: >-
+  /archive/2003/05/15/no-confidence-in-a-budget-that-steals-our-future/index.html
+layout: layout.njk
 ---
 No confidence in a budget that steals our future
 ================================================

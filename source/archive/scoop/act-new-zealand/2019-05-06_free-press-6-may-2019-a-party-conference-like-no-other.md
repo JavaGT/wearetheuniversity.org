@@ -1,9 +1,13 @@
 ---
 slug: free-press-6-may-2019-a-party-conference-like-no-other
-title: "Free Press, 6 May 2019 - A Party Conference Like No Other"
-date: 2019-05-06
-source-url: https://www.scoop.co.nz/stories/PO1905/S00075/free-press-6-may-2019-a-party-conference-like-no-other.htm
+title: Free Press, 6 May 2019 - A Party Conference Like No Other
+date: 2019-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00075/free-press-6-may-2019-a-party-conference-like-no-other.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/05/06/free-press-6-may-2019-a-party-conference-like-no-other/index.html
+layout: layout.njk
 ---
 Free Press, 6 May 2019 - A Party Conference Like No Other
 =========================================================

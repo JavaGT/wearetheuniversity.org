@@ -1,9 +1,16 @@
 ---
-slug: governments-disability-spending-changes-endangering-lives-of-children-and-health-of-parents
-title: "Government’s Disability Spending Changes Endangering Lives Of Children And Health Of Parents"
-date: 2024-03-28
-source-url: https://www.scoop.co.nz/stories/PO2403/S00244/governments-disability-spending-changes-endangering-lives-of-children-and-health-of-parents.htm
+slug: >-
+  governments-disability-spending-changes-endangering-lives-of-children-and-health-of-parents
+title: >-
+  Government’s Disability Spending Changes Endangering Lives Of Children And
+  Health Of Parents
+date: 2024-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00244/governments-disability-spending-changes-endangering-lives-of-children-and-health-of-parents.htm
 author: aut-university
+permalink: >-
+  /archive/2024/03/28/governments-disability-spending-changes-endangering-lives-of-children-and-health-of-parents/index.html
+layout: layout.njk
 ---
 Government’s Disability Spending Changes Endangering Lives Of Children And Health Of Parents
 ============================================================================================

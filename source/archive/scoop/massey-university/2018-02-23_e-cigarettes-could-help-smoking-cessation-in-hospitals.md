@@ -1,9 +1,13 @@
 ---
 slug: e-cigarettes-could-help-smoking-cessation-in-hospitals
-title: "E-cigarettes could help smoking cessation in hospitals"
-date: 2018-02-23
-source-url: https://www.scoop.co.nz/stories/GE1802/S00079/e-cigarettes-could-help-smoking-cessation-in-hospitals.htm
+title: E-cigarettes could help smoking cessation in hospitals
+date: 2018-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00079/e-cigarettes-could-help-smoking-cessation-in-hospitals.htm
 author: massey-university
+permalink: >-
+  /archive/2018/02/23/e-cigarettes-could-help-smoking-cessation-in-hospitals/index.html
+layout: layout.njk
 ---
 E-cigarettes could help smoking cessation in hospitals
 ======================================================

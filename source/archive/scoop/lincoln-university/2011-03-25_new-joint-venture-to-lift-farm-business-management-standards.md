@@ -1,9 +1,13 @@
 ---
 slug: new-joint-venture-to-lift-farm-business-management-standards
-title: "New Joint Venture to Lift Farm Business Management Standards"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/BU1103/S00823/new-joint-venture-to-lift-farm-business-management-standards.htm
+title: New Joint Venture to Lift Farm Business Management Standards
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00823/new-joint-venture-to-lift-farm-business-management-standards.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/03/25/new-joint-venture-to-lift-farm-business-management-standards/index.html
+layout: layout.njk
 ---
 New Joint Venture to Lift Farm Business Management Standards
 ============================================================

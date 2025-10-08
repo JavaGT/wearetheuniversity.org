@@ -1,9 +1,12 @@
 ---
 slug: an-olympian-gathering-of-poets
-title: "An Olympian Gathering Of Poets"
-date: 2012-06-26
-source-url: https://www.scoop.co.nz/stories/CU1206/S00374/an-olympian-gathering-of-poets.htm
+title: An Olympian Gathering Of Poets
+date: 2012-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00374/an-olympian-gathering-of-poets.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/06/26/an-olympian-gathering-of-poets/index.html
+layout: layout.njk
 ---
 An Olympian Gathering Of Poets
 ==============================

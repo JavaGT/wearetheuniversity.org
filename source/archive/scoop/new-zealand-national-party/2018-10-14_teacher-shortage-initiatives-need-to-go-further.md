@@ -1,9 +1,12 @@
 ---
 slug: teacher-shortage-initiatives-need-to-go-further
-title: "Teacher shortage initiatives need to go further"
-date: 2018-10-14
-source-url: https://www.scoop.co.nz/stories/PA1810/S00121/teacher-shortage-initiatives-need-to-go-further.htm
+title: Teacher shortage initiatives need to go further
+date: 2018-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00121/teacher-shortage-initiatives-need-to-go-further.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/14/teacher-shortage-initiatives-need-to-go-further/index.html
+layout: layout.njk
 ---
 Teacher shortage initiatives need to go further
 ===============================================

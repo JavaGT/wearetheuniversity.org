@@ -1,9 +1,13 @@
 ---
 slug: miss-having-a-world-class-education-system-we-hear-ya!
-title: "Miss Having A World Class Education System? We Hear Ya!"
-date: 2023-01-17
-source-url: https://www.scoop.co.nz/stories/PA2301/S00033/miss-having-a-world-class-education-system-we-hear-ya.htm
+title: Miss Having A World Class Education System? We Hear Ya!
+date: 2023-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00033/miss-having-a-world-class-education-system-we-hear-ya.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/01/17/miss-having-a-world-class-education-system-we-hear-ya/index.html
+layout: layout.njk
 ---
 Miss Having A World Class Education System? We Hear Ya!
 =======================================================

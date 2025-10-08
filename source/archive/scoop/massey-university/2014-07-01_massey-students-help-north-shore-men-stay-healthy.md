@@ -1,9 +1,13 @@
 ---
 slug: massey-students-help-north-shore-men-stay-healthy
-title: "Massey students help North Shore men stay healthy"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/GE1407/S00002/massey-students-help-north-shore-men-stay-healthy.htm
+title: Massey students help North Shore men stay healthy
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00002/massey-students-help-north-shore-men-stay-healthy.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/01/massey-students-help-north-shore-men-stay-healthy/index.html
+layout: layout.njk
 ---
 Massey students help North Shore men stay healthy
 =================================================

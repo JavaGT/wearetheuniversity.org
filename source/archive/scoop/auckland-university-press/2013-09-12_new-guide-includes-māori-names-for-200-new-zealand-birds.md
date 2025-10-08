@@ -1,9 +1,12 @@
 ---
 slug: new-guide-includes-māori-names-for-200-new-zealand-birds
-title: "New guide includes Māori names for 200 New Zealand birds"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/CU1309/S00237/new-guide-includes-maori-names-for-200-new-zealand-birds.htm
+title: New guide includes Māori names for 200 New Zealand birds
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00237/new-guide-includes-maori-names-for-200-new-zealand-birds.htm
 author: auckland-university-press
+permalink: /archive/2013/09/12/new-guide-includes-m/index.html
+layout: layout.njk
 ---
 New guide includes Māori names for 200 New Zealand birds
 ========================================================

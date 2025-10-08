@@ -1,9 +1,12 @@
 ---
 slug: stay-of-execution-just-temporary
-title: "Stay of execution just temporary"
-date: 2016-04-05
-source-url: https://www.scoop.co.nz/stories/PA1604/S00067/stay-of-execution-just-temporary.htm
+title: Stay of execution just temporary
+date: 2016-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00067/stay-of-execution-just-temporary.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/05/stay-of-execution-just-temporary/index.html
+layout: layout.njk
 ---
 Stay of execution just temporary
 ================================

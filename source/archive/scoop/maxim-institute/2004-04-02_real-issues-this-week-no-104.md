@@ -1,9 +1,11 @@
 ---
 slug: real-issues-this-week-no-104
-title: "real issues. this week: No. 104"
-date: 2004-04-02
+title: 'real issues. this week: No. 104'
+date: 2004-04-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0404/S00013/real-issues-this-week-no-104.htm
 author: maxim-institute
+permalink: /archive/2004/04/02/real-issues-this-week-no-104/index.html
+layout: layout.njk
 ---
 real issues. this week: No. 104
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: six-month-crime-spree-highlights-failed-policies
-title: "Six Month Crime Spree Highlights Failed Policies"
-date: 2002-10-21
-source-url: https://www.scoop.co.nz/stories/PA0210/S00427/six-month-crime-spree-highlights-failed-policies.htm
+title: Six Month Crime Spree Highlights Failed Policies
+date: 2002-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00427/six-month-crime-spree-highlights-failed-policies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/10/21/six-month-crime-spree-highlights-failed-policies/index.html
+layout: layout.njk
 ---
 Six Month Crime Spree Highlights Failed Policies
 ================================================

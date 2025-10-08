@@ -1,9 +1,12 @@
 ---
 slug: public-lectures-considering-big-health-issues
-title: "Public lectures: Considering big health issues"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/GE1802/S00012/public-lectures-considering-big-health-issues.htm
+title: 'Public lectures: Considering big health issues'
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00012/public-lectures-considering-big-health-issues.htm
 author: university-of-otago
+permalink: /archive/2018/02/02/public-lectures-considering-big-health-issues/index.html
+layout: layout.njk
 ---
 Public lectures: Considering big health issues
 ==============================================

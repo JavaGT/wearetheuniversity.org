@@ -1,9 +1,12 @@
 ---
 slug: the-challenge-of-china-transforming-new-zealand
-title: "The Challenge of China: transforming New Zealand"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PO0505/S00305/the-challenge-of-china-transforming-new-zealand.htm
+title: 'The Challenge of China: transforming New Zealand'
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00305/the-challenge-of-china-transforming-new-zealand.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/05/30/the-challenge-of-china-transforming-new-zealand/index.html
+layout: layout.njk
 ---
 The Challenge of China: transforming New Zealand
 ================================================

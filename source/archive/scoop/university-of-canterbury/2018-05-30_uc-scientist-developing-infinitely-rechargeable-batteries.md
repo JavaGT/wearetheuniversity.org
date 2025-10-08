@@ -1,9 +1,13 @@
 ---
 slug: uc-scientist-developing-infinitely-rechargeable-batteries
-title: "UC scientist developing infinitely rechargeable batteries"
-date: 2018-05-30
-source-url: https://www.scoop.co.nz/stories/SC1805/S00078/uc-scientist-developing-infinitely-rechargeable-batteries.htm
+title: UC scientist developing infinitely rechargeable batteries
+date: 2018-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00078/uc-scientist-developing-infinitely-rechargeable-batteries.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/05/30/uc-scientist-developing-infinitely-rechargeable-batteries/index.html
+layout: layout.njk
 ---
 UC scientist developing infinitely rechargeable batteries
 =========================================================

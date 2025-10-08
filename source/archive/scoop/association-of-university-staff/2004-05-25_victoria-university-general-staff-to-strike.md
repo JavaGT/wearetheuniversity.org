@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-general-staff-to-strike
-title: "Victoria University general staff to strike"
-date: 2004-05-25
-source-url: https://www.scoop.co.nz/stories/ED0405/S00091/victoria-university-general-staff-to-strike.htm
+title: Victoria University general staff to strike
+date: 2004-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00091/victoria-university-general-staff-to-strike.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/25/victoria-university-general-staff-to-strike/index.html
+layout: layout.njk
 ---
 Victoria University general staff to strike
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: cancer-patients-facing-treatment-crisis
-title: "Cancer Patients Facing Treatment Crisis"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00079/cancer-patients-facing-treatment-crisis.htm
+title: Cancer Patients Facing Treatment Crisis
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00079/cancer-patients-facing-treatment-crisis.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/04/cancer-patients-facing-treatment-crisis/index.html
+layout: layout.njk
 ---
 Cancer Patients Facing Treatment Crisis
 =======================================

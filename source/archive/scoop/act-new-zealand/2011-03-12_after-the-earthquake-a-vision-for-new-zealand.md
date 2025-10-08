@@ -1,9 +1,12 @@
 ---
 slug: after-the-earthquake-a-vision-for-new-zealand
-title: "After The Earthquake – A Vision For New Zealand"
-date: 2011-03-12
-source-url: https://www.scoop.co.nz/stories/PA1103/S00185/after-the-earthquake-a-vision-for-new-zealand.htm
+title: After The Earthquake – A Vision For New Zealand
+date: 2011-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00185/after-the-earthquake-a-vision-for-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2011/03/12/after-the-earthquake-a-vision-for-new-zealand/index.html
+layout: layout.njk
 ---
 After The Earthquake – A Vision For New Zealand
 ===============================================

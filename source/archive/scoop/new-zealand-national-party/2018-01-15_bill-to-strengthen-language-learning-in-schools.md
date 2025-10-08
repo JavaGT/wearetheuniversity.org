@@ -1,9 +1,12 @@
 ---
 slug: bill-to-strengthen-language-learning-in-schools
-title: "Bill to strengthen language learning in schools"
-date: 2018-01-15
-source-url: https://www.scoop.co.nz/stories/PA1801/S00021/bill-to-strengthen-language-learning-in-schools.htm
+title: Bill to strengthen language learning in schools
+date: 2018-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00021/bill-to-strengthen-language-learning-in-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/15/bill-to-strengthen-language-learning-in-schools/index.html
+layout: layout.njk
 ---
 Bill to strengthen language learning in schools
 ===============================================

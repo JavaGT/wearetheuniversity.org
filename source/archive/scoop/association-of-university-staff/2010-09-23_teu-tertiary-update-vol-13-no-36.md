@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-36
-title: "TEU Tertiary Update Vol 13 No 36"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/ED1009/S00111/teu-tertiary-update-vol-13-no-36.htm
+title: TEU Tertiary Update Vol 13 No 36
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00111/teu-tertiary-update-vol-13-no-36.htm
 author: association-of-university-staff
+permalink: /archive/2010/09/23/teu-tertiary-update-vol-13-no-36/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 36
 ================================

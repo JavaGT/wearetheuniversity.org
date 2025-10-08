@@ -1,9 +1,12 @@
 ---
 slug: get-the-jump-on-the-future-of-ag-tech
-title: "Get the jump on the future of ag-tech"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/ED1602/S00084/get-the-jump-on-the-future-of-ag-tech.htm
+title: Get the jump on the future of ag-tech
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00084/get-the-jump-on-the-future-of-ag-tech.htm
 author: university-of-waikato
+permalink: /archive/2016/02/26/get-the-jump-on-the-future-of-ag-tech/index.html
+layout: layout.njk
 ---
 Get the jump on the future of ag-tech
 =====================================

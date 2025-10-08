@@ -1,9 +1,12 @@
 ---
 slug: nzei-school-house-essential-for-rural-schools
-title: "NZEI: School House Essential For Rural Schools"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/ED0308/S00005/nzei-school-house-essential-for-rural-schools.htm
+title: 'NZEI: School House Essential For Rural Schools'
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00005/nzei-school-house-essential-for-rural-schools.htm
 author: nzei
+permalink: /archive/2003/08/01/nzei-school-house-essential-for-rural-schools/index.html
+layout: layout.njk
 ---
 NZEI: School House Essential For Rural Schools
 ==============================================

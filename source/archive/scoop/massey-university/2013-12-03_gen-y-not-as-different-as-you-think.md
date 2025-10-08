@@ -1,9 +1,12 @@
 ---
 slug: gen-y-not-as-different-as-you-think
-title: "Gen Y not as different as you think"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/ED1312/S00012/gen-y-not-as-different-as-you-think.htm
+title: Gen Y not as different as you think
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00012/gen-y-not-as-different-as-you-think.htm
 author: massey-university
+permalink: /archive/2013/12/03/gen-y-not-as-different-as-you-think/index.html
+layout: layout.njk
 ---
 Gen Y not as different as you think
 ===================================

@@ -1,9 +1,11 @@
 ---
 slug: te-ururoa-flavell-mp-speech
-title: "Te Ururoa Flavell MP:Speech"
-date: 2006-06-29
+title: Te Ururoa Flavell MP:Speech
+date: 2006-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00572/te-ururoa-flavell-mpspeech.htm
 author: te-pati-maori
+permalink: /archive/2006/06/29/te-ururoa-flavell-mp-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell MP:Speech
 ===========================

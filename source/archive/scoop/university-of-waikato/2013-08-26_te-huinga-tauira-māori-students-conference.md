@@ -1,9 +1,12 @@
 ---
 slug: te-huinga-tauira-māori-students-conference
-title: "Te Huinga Tauira Māori Students’ Conference"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/ED1308/S00122/te-huinga-tauira-maori-students-conference.htm
+title: Te Huinga Tauira Māori Students’ Conference
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00122/te-huinga-tauira-maori-students-conference.htm
 author: university-of-waikato
+permalink: /archive/2013/08/26/te-huinga-tauira-m/index.html
+layout: layout.njk
 ---
 Te Huinga Tauira Māori Students’ Conference
 ===========================================

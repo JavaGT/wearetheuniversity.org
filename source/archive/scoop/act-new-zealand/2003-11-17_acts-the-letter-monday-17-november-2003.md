@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-17-november-2003
-title: "ACT's The Letter - Monday 17 November 2003"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/PA0311/S00341/acts-the-letter-monday-17-november-2003.htm
+title: ACT's The Letter - Monday 17 November 2003
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00341/acts-the-letter-monday-17-november-2003.htm
 author: act-new-zealand
+permalink: /archive/2003/11/17/acts-the-letter-monday-17-november-2003/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday 17 November 2003
 ==========================================

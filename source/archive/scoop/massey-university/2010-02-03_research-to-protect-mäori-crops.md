@@ -1,9 +1,12 @@
 ---
 slug: research-to-protect-mäori-crops
-title: "Research to protect Mäori crops"
-date: 2010-02-03
-source-url: https://www.scoop.co.nz/stories/SC1002/S00017/research-to-protect-maori-crops.htm
+title: Research to protect Mäori crops
+date: 2010-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1002/S00017/research-to-protect-maori-crops.htm
 author: massey-university
+permalink: /archive/2010/02/03/research-to-protect-m/index.html
+layout: layout.njk
 ---
 Research to protect Mäori crops
 ===============================

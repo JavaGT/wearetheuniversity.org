@@ -1,9 +1,12 @@
 ---
 slug: nzs-loss-is-australias-gain-as-gas-ban-looms
-title: "NZ’s loss is Australia’s gain as gas ban looms"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/PA1810/S00274/nzs-loss-is-australias-gain-as-gas-ban-looms.htm
+title: NZ’s loss is Australia’s gain as gas ban looms
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00274/nzs-loss-is-australias-gain-as-gas-ban-looms.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/29/nzs-loss-is-australias-gain-as-gas-ban-looms/index.html
+layout: layout.njk
 ---
 NZ’s loss is Australia’s gain as gas ban looms
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: student-support-needs-radical-surgery
-title: "Student support needs radical surgery"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/ED0805/S00116/student-support-needs-radical-surgery.htm
+title: Student support needs radical surgery
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00116/student-support-needs-radical-surgery.htm
 author: auckland-university-students-association
+permalink: /archive/2008/05/27/student-support-needs-radical-surgery/index.html
+layout: layout.njk
 ---
 Student support needs radical surgery
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-terisa-ngobi-for-otaki
-title: "Labour Selects Terisa Ngobi For Otaki"
-date: 2020-03-08
-source-url: https://www.scoop.co.nz/stories/PO2003/S00072/labour-selects-terisa-ngobi-for-otaki.htm
+title: Labour Selects Terisa Ngobi For Otaki
+date: 2020-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00072/labour-selects-terisa-ngobi-for-otaki.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/03/08/labour-selects-terisa-ngobi-for-otaki/index.html
+layout: layout.njk
 ---
 Labour Selects Terisa Ngobi For Otaki
 =====================================

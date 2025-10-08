@@ -1,9 +1,13 @@
 ---
 slug: technology-supported-by-people-is-the-new-business-model
-title: "Technology supported by people’ is the new business model"
-date: 2018-10-31
-source-url: https://www.scoop.co.nz/stories/BU1810/S00887/technology-supported-by-people-is-the-new-business-model.htm
+title: Technology supported by people’ is the new business model
+date: 2018-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00887/technology-supported-by-people-is-the-new-business-model.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2018/10/31/technology-supported-by-people-is-the-new-business-model/index.html
+layout: layout.njk
 ---
 Technology supported by people’ is the new business model
 =========================================================

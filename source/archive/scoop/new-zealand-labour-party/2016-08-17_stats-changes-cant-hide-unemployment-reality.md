@@ -1,9 +1,12 @@
 ---
 slug: stats-changes-cant-hide-unemployment-reality
-title: "Stats changes can't hide unemployment reality"
-date: 2016-08-17
-source-url: https://www.scoop.co.nz/stories/PA1608/S00291/stats-changes-cant-hide-unemployment-reality.htm
+title: Stats changes can't hide unemployment reality
+date: 2016-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00291/stats-changes-cant-hide-unemployment-reality.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/17/stats-changes-cant-hide-unemployment-reality/index.html
+layout: layout.njk
 ---
 Stats changes can't hide unemployment reality
 =============================================

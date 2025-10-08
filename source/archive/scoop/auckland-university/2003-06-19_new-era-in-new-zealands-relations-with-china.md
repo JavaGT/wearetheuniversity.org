@@ -1,9 +1,12 @@
 ---
 slug: new-era-in-new-zealands-relations-with-china
-title: "New Era In New Zealand's Relations With China"
-date: 2003-06-19
-source-url: https://www.scoop.co.nz/stories/BU0306/S00210/new-era-in-new-zealands-relations-with-china.htm
+title: New Era In New Zealand's Relations With China
+date: 2003-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0306/S00210/new-era-in-new-zealands-relations-with-china.htm
 author: auckland-university
+permalink: /archive/2003/06/19/new-era-in-new-zealands-relations-with-china/index.html
+layout: layout.njk
 ---
 New Era In New Zealand's Relations With China
 =============================================

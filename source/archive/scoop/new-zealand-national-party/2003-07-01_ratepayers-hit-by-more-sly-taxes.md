@@ -1,9 +1,12 @@
 ---
 slug: ratepayers-hit-by-more-sly-taxes
-title: "Ratepayers hit by more 'sly taxes'"
-date: 2003-07-01
-source-url: https://www.scoop.co.nz/stories/PA0307/S00019/ratepayers-hit-by-more-sly-taxes.htm
+title: Ratepayers hit by more 'sly taxes'
+date: 2003-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00019/ratepayers-hit-by-more-sly-taxes.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/01/ratepayers-hit-by-more-sly-taxes/index.html
+layout: layout.njk
 ---
 Ratepayers hit by more 'sly taxes'
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: top-uc-accolade-for-renowned-philosopher
-title: "Top UC accolade for renowned philosopher"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/ED1012/S00064/top-uc-accolade-for-renowned-philosopher.htm
+title: Top UC accolade for renowned philosopher
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00064/top-uc-accolade-for-renowned-philosopher.htm
 author: university-of-canterbury
+permalink: /archive/2010/12/14/top-uc-accolade-for-renowned-philosopher/index.html
+layout: layout.njk
 ---
 Top UC accolade for renowned philosopher
 ========================================

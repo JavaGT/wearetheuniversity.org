@@ -1,9 +1,12 @@
 ---
 slug: crown-should-appeal-high-country-ruling
-title: "Crown should appeal high country ruling"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/PA0908/S00189/crown-should-appeal-high-country-ruling.htm
+title: Crown should appeal high country ruling
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00189/crown-should-appeal-high-country-ruling.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/14/crown-should-appeal-high-country-ruling/index.html
+layout: layout.njk
 ---
 Crown should appeal high country ruling
 =======================================

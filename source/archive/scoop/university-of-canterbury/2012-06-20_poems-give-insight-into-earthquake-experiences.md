@@ -1,9 +1,12 @@
 ---
 slug: poems-give-insight-into-earthquake-experiences
-title: "Poems give insight into earthquake experiences"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/CU1206/S00258/poems-give-insight-into-earthquake-experiences.htm
+title: Poems give insight into earthquake experiences
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00258/poems-give-insight-into-earthquake-experiences.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/20/poems-give-insight-into-earthquake-experiences/index.html
+layout: layout.njk
 ---
 Poems give insight into earthquake experiences
 ==============================================

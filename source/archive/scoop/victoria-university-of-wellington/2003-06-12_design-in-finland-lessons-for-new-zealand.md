@@ -1,9 +1,12 @@
 ---
 slug: design-in-finland-lessons-for-new-zealand
-title: "Design in Finland:  Lessons for New Zealand"
-date: 2003-06-12
-source-url: https://www.scoop.co.nz/stories/ED0306/S00017/design-in-finland-lessons-for-new-zealand.htm
+title: 'Design in Finland:  Lessons for New Zealand'
+date: 2003-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00017/design-in-finland-lessons-for-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/12/design-in-finland-lessons-for-new-zealand/index.html
+layout: layout.njk
 ---
 Design in Finland: Lessons for New Zealand
 ==========================================

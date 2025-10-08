@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-to-host-historical-garden-tours
-title: "Waikato University to host historical garden tours"
-date: 2014-10-17
-source-url: https://www.scoop.co.nz/stories/CU1410/S00379/waikato-university-to-host-historical-garden-tours.htm
+title: Waikato University to host historical garden tours
+date: 2014-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00379/waikato-university-to-host-historical-garden-tours.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/10/17/waikato-university-to-host-historical-garden-tours/index.html
+layout: layout.njk
 ---
 Waikato University to host historical garden tours
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: environment-centres-acknowledged-in-green-budget
-title: "Environment Centres acknowledged in Green budget"
-date: 2000-06-16
-source-url: https://www.scoop.co.nz/stories/PA0006/S00325/environment-centres-acknowledged-in-green-budget.htm
+title: Environment Centres acknowledged in Green budget
+date: 2000-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00325/environment-centres-acknowledged-in-green-budget.htm
 author: green-party
+permalink: >-
+  /archive/2000/06/16/environment-centres-acknowledged-in-green-budget/index.html
+layout: layout.njk
 ---
 Environment Centres acknowledged in Green budget
 ================================================

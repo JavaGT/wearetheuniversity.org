@@ -1,9 +1,12 @@
 ---
 slug: proposals-for-second-language-learning-welcomed
-title: "Proposals for second language learning welcomed"
-date: 2006-08-03
-source-url: https://www.scoop.co.nz/stories/ED0608/S00015/proposals-for-second-language-learning-welcomed.htm
+title: Proposals for second language learning welcomed
+date: 2006-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00015/proposals-for-second-language-learning-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2006/08/03/proposals-for-second-language-learning-welcomed/index.html
+layout: layout.njk
 ---
 Proposals for second language learning welcomed
 ===============================================

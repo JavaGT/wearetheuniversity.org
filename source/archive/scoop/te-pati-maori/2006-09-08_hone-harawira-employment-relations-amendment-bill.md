@@ -1,9 +1,13 @@
 ---
 slug: hone-harawira-employment-relations-amendment-bill
-title: "Hone Harawira: Employment Relations Amendment Bill"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/PA0609/S00192/hone-harawira-employment-relations-amendment-bill.htm
+title: 'Hone Harawira: Employment Relations Amendment Bill'
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00192/hone-harawira-employment-relations-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/09/08/hone-harawira-employment-relations-amendment-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Employment Relations Amendment Bill
 ==================================================

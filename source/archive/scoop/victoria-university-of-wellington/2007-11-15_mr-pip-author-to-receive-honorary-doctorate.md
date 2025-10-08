@@ -1,9 +1,12 @@
 ---
 slug: mr-pip-author-to-receive-honorary-doctorate
-title: "Mr Pip  author to receive honorary doctorate"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/ED0711/S00079/mr-pip-author-to-receive-honorary-doctorate.htm
+title: Mr Pip  author to receive honorary doctorate
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00079/mr-pip-author-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/15/mr-pip-author-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Mr Pip author to receive honorary doctorate
 ===========================================

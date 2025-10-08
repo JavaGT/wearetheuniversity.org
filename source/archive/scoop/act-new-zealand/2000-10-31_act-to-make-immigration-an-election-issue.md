@@ -1,9 +1,12 @@
 ---
 slug: act-to-make-immigration-an-election-issue
-title: "ACT To Make Immigration An Election Issue"
-date: 2000-10-31
-source-url: https://www.scoop.co.nz/stories/PA0010/S00543/act-to-make-immigration-an-election-issue.htm
+title: ACT To Make Immigration An Election Issue
+date: 2000-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00543/act-to-make-immigration-an-election-issue.htm
 author: act-new-zealand
+permalink: /archive/2000/10/31/act-to-make-immigration-an-election-issue/index.html
+layout: layout.njk
 ---
 ACT To Make Immigration An Election Issue
 =========================================

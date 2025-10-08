@@ -1,9 +1,12 @@
 ---
 slug: harawira-child-support-amendment-bill
-title: "Harawira: Child Support Amendment Bill"
-date: 2006-09-13
-source-url: https://www.scoop.co.nz/stories/PA0609/S00284/harawira-child-support-amendment-bill.htm
+title: 'Harawira: Child Support Amendment Bill'
+date: 2006-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00284/harawira-child-support-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/09/13/harawira-child-support-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Child Support Amendment Bill
 ======================================

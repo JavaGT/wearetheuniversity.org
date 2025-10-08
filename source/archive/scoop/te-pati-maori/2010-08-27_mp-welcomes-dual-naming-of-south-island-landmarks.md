@@ -1,9 +1,13 @@
 ---
 slug: mp-welcomes-dual-naming-of-south-island-landmarks
-title: "MP welcomes dual naming of South Island landmarks"
-date: 2010-08-27
-source-url: https://www.scoop.co.nz/stories/PA1008/S00430/mp-welcomes-dual-naming-of-south-island-landmarks.htm
+title: MP welcomes dual naming of South Island landmarks
+date: 2010-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00430/mp-welcomes-dual-naming-of-south-island-landmarks.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/08/27/mp-welcomes-dual-naming-of-south-island-landmarks/index.html
+layout: layout.njk
 ---
 MP welcomes dual naming of South Island landmarks
 =================================================

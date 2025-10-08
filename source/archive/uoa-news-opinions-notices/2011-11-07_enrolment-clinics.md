@@ -1,8 +1,11 @@
 ---
 slug: enrolment-clinics
-title: "Enrolment clinics"
-date: 2011-11-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/11/07/Enrolment-clinics.html
+title: Enrolment clinics
+date: 2011-11-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/11/07/Enrolment-clinics.html
+permalink: /archive/2011/11/07/enrolment-clinics/index.html
+layout: layout.njk
 ---
 Enrolment clinics
 =================

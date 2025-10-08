@@ -1,9 +1,12 @@
 ---
 slug: govt-must-answer-questions-about-boochani
-title: "Govt must answer questions about Boochani"
-date: 2019-12-20
-source-url: https://www.scoop.co.nz/stories/PA1912/S00199/govt-must-answer-questions-about-boochani.htm
+title: Govt must answer questions about Boochani
+date: 2019-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00199/govt-must-answer-questions-about-boochani.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/20/govt-must-answer-questions-about-boochani/index.html
+layout: layout.njk
 ---
 Govt must answer questions about Boochani
 =========================================

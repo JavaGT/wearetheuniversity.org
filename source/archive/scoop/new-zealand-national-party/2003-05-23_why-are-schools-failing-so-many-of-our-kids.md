@@ -1,9 +1,12 @@
 ---
 slug: why-are-schools-failing-so-many-of-our-kids
-title: "Why Are Schools Failing So Many Of Our Kids?"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/PA0305/S00606/why-are-schools-failing-so-many-of-our-kids.htm
+title: Why Are Schools Failing So Many Of Our Kids?
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00606/why-are-schools-failing-so-many-of-our-kids.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/23/why-are-schools-failing-so-many-of-our-kids/index.html
+layout: layout.njk
 ---
 Why Are Schools Failing So Many Of Our Kids?
 ============================================

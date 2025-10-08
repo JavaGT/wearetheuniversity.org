@@ -1,9 +1,13 @@
 ---
 slug: waikato-psychologists-receive-international-honours
-title: "Waikato Psychologists Receive International Honours"
-date: 2021-03-24
-source-url: https://www.scoop.co.nz/stories/ED2103/S00045/waikato-psychologists-receive-international-honours.htm
+title: Waikato Psychologists Receive International Honours
+date: 2021-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00045/waikato-psychologists-receive-international-honours.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/03/24/waikato-psychologists-receive-international-honours/index.html
+layout: layout.njk
 ---
 Waikato Psychologists Receive International Honours
 ===================================================

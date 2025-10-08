@@ -1,9 +1,12 @@
 ---
 slug: first-māori-social-scientists-academic-conference
-title: "First Māori social scientists academic conference"
-date: 2008-05-30
-source-url: https://www.scoop.co.nz/stories/ED0805/S00135/first-maori-social-scientists-academic-conference.htm
+title: First Māori social scientists academic conference
+date: 2008-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00135/first-maori-social-scientists-academic-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/30/first-m/index.html
+layout: layout.njk
 ---
 First Māori social scientists academic conference
 =================================================

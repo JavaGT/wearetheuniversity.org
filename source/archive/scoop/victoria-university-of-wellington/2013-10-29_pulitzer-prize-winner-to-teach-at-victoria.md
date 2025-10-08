@@ -1,9 +1,12 @@
 ---
 slug: pulitzer-prize-winner-to-teach-at-victoria
-title: "Pulitzer Prize winner to teach at Victoria"
-date: 2013-10-29
-source-url: https://www.scoop.co.nz/stories/SC1310/S00073/pulitzer-prize-winner-to-teach-at-victoria.htm
+title: Pulitzer Prize winner to teach at Victoria
+date: 2013-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00073/pulitzer-prize-winner-to-teach-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/29/pulitzer-prize-winner-to-teach-at-victoria/index.html
+layout: layout.njk
 ---
 Pulitzer Prize winner to teach at Victoria
 ==========================================

@@ -1,8 +1,12 @@
 ---
 slug: college-students-sent-unwanted-sexually-explicit-material
-title: "College students sent unwanted sexually explicit material"
-date: 2016-08-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/college-students-sent-unwanted-sexually-explicit-material--.html
+title: College students sent unwanted sexually explicit material
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/college-students-sent-unwanted-sexually-explicit-material--.html
+permalink: >-
+  /archive/2016/08/15/college-students-sent-unwanted-sexually-explicit-material/index.html
+layout: layout.njk
 ---
 College students sent unwanted sexually explicit material
 =========================================================

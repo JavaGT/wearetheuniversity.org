@@ -1,9 +1,11 @@
 ---
 slug: business-briefs
-title: "Business Briefs"
-date: 2006-09-04
+title: Business Briefs
+date: 2006-09-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0609/S00014/business-briefs.htm
 author: massey-university
+permalink: /archive/2006/09/04/business-briefs/index.html
+layout: layout.njk
 ---
 Business Briefs
 ===============

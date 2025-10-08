@@ -1,9 +1,13 @@
 ---
 slug: researchers-look-at-impacts-of-prejudiced-comments-on-line
-title: "Researchers look at impacts of prejudiced comments on line"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00198/researchers-look-at-impacts-of-prejudiced-comments-on-line.htm
+title: Researchers look at impacts of prejudiced comments on line
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00198/researchers-look-at-impacts-of-prejudiced-comments-on-line.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/14/researchers-look-at-impacts-of-prejudiced-comments-on-line/index.html
+layout: layout.njk
 ---
 Researchers look at impacts of prejudiced comments on line
 ==========================================================

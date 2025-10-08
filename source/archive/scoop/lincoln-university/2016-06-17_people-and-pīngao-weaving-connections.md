@@ -1,9 +1,12 @@
 ---
 slug: people-and-pīngao-weaving-connections
-title: "People and pīngao weaving connections"
-date: 2016-06-17
-source-url: https://www.scoop.co.nz/stories/SC1606/S00028/people-and-pingao-weaving-connections.htm
+title: People and pīngao weaving connections
+date: 2016-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00028/people-and-pingao-weaving-connections.htm
 author: lincoln-university
+permalink: /archive/2016/06/17/people-and-p/index.html
+layout: layout.njk
 ---
 People and pīngao weaving connections
 =====================================

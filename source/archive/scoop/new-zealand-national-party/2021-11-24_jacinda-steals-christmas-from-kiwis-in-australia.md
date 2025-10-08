@@ -1,9 +1,13 @@
 ---
 slug: jacinda-steals-christmas-from-kiwis-in-australia
-title: "Jacinda Steals Christmas From Kiwis In Australia"
-date: 2021-11-24
-source-url: https://www.scoop.co.nz/stories/PA2111/S00270/jacinda-steals-christmas-from-kiwis-in-australia.htm
+title: Jacinda Steals Christmas From Kiwis In Australia
+date: 2021-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00270/jacinda-steals-christmas-from-kiwis-in-australia.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/24/jacinda-steals-christmas-from-kiwis-in-australia/index.html
+layout: layout.njk
 ---
 Jacinda Steals Christmas From Kiwis In Australia
 ================================================

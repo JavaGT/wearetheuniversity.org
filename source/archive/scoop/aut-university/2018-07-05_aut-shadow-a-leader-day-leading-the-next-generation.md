@@ -1,9 +1,13 @@
 ---
 slug: aut-shadow-a-leader-day-leading-the-next-generation
-title: "AUT Shadow a Leader Day – Leading the Next Generation"
-date: 2018-07-05
-source-url: https://www.scoop.co.nz/stories/ED1807/S00019/aut-shadow-a-leader-day-leading-the-next-generation.htm
+title: AUT Shadow a Leader Day – Leading the Next Generation
+date: 2018-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00019/aut-shadow-a-leader-day-leading-the-next-generation.htm
 author: aut-university
+permalink: >-
+  /archive/2018/07/05/aut-shadow-a-leader-day-leading-the-next-generation/index.html
+layout: layout.njk
 ---
 AUT Shadow a Leader Day – Leading the Next Generation
 =====================================================

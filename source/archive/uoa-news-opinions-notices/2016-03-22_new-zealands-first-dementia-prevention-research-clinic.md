@@ -1,8 +1,12 @@
 ---
 slug: new-zealands-first-dementia-prevention-research-clinic
-title: "New Zealand's first dementia prevention research clinic"
-date: 2016-03-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/new-zealand-s-first-dementia-prevention-research-clinic.html
+title: New Zealand's first dementia prevention research clinic
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/new-zealand-s-first-dementia-prevention-research-clinic.html
+permalink: >-
+  /archive/2016/03/22/new-zealands-first-dementia-prevention-research-clinic/index.html
+layout: layout.njk
 ---
 New Zealand's first dementia prevention research clinic
 =======================================================

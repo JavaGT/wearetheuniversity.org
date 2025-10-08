@@ -1,9 +1,13 @@
 ---
 slug: uc-blade-runner-already-focused-on-rio-de-janeiro-games
-title: "UC blade runner already focused on Rio de Janeiro Games"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/CU1310/S00448/uc-blade-runner-already-focused-on-rio-de-janeiro-games.htm
+title: UC blade runner already focused on Rio de Janeiro Games
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00448/uc-blade-runner-already-focused-on-rio-de-janeiro-games.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/22/uc-blade-runner-already-focused-on-rio-de-janeiro-games/index.html
+layout: layout.njk
 ---
 UC blade runner already focused on Rio de Janeiro Games
 =======================================================

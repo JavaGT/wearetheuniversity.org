@@ -1,8 +1,11 @@
 ---
 slug: university-to-fund-starpath-in-2016-2017
-title: "University to fund Starpath in 2016-2017"
-date: 2015-10-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/university-to-fund-starpath-in-2016-2017.html
+title: University to fund Starpath in 2016-2017
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/university-to-fund-starpath-in-2016-2017.html
+permalink: /archive/2015/10/22/university-to-fund-starpath-in-2016-2017/index.html
+layout: layout.njk
 ---
 University to fund Starpath in 2016-2017
 ========================================

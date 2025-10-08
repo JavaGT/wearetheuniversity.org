@@ -1,9 +1,12 @@
 ---
 slug: maharey-to-students-i-know-best
-title: "Maharey To Students: I Know Best"
-date: 2000-11-27
-source-url: https://www.scoop.co.nz/stories/ED0011/S00034/maharey-to-students-i-know-best.htm
+title: 'Maharey To Students: I Know Best'
+date: 2000-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00034/maharey-to-students-i-know-best.htm
 author: student-choice
+permalink: /archive/2000/11/27/maharey-to-students-i-know-best/index.html
+layout: layout.njk
 ---
 Maharey To Students: I Know Best
 ================================

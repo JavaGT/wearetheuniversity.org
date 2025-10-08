@@ -1,9 +1,13 @@
 ---
 slug: medical-research-foundations-laurenson-awards-announced
-title: "Medical Research Foundation’s Laurenson Awards announced"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/GE1012/S00090/medical-research-foundations-laurenson-awards-announced.htm
+title: Medical Research Foundation’s Laurenson Awards announced
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00090/medical-research-foundations-laurenson-awards-announced.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/17/medical-research-foundations-laurenson-awards-announced/index.html
+layout: layout.njk
 ---
 Medical Research Foundation’s Laurenson Awards announced
 ========================================================

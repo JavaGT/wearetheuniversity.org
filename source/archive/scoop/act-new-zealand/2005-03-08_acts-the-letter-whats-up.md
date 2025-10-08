@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter-whats-up
-title: "ACT's The Letter - WHAT'S UP"
-date: 2005-03-08
+title: ACT's The Letter - WHAT'S UP
+date: 2005-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00148/acts-the-letter-whats-up.htm
 author: act-new-zealand
+permalink: /archive/2005/03/08/acts-the-letter-whats-up/index.html
+layout: layout.njk
 ---
 ACT's The Letter - WHAT'S UP
 ============================

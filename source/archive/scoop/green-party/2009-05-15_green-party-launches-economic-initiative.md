@@ -1,9 +1,12 @@
 ---
 slug: green-party-launches-economic-initiative
-title: "Green Party Launches Economic Initiative"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/PA0905/S00280/green-party-launches-economic-initiative.htm
+title: Green Party Launches Economic Initiative
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00280/green-party-launches-economic-initiative.htm
 author: green-party
+permalink: /archive/2009/05/15/green-party-launches-economic-initiative/index.html
+layout: layout.njk
 ---
 Green Party Launches Economic Initiative
 ========================================

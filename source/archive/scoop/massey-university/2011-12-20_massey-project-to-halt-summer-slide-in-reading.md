@@ -1,9 +1,12 @@
 ---
 slug: massey-project-to-halt-summer-slide-in-reading
-title: "Massey project to halt ‘summer slide’ in reading"
-date: 2011-12-20
-source-url: https://www.scoop.co.nz/stories/ED1112/S00108/massey-project-to-halt-summer-slide-in-reading.htm
+title: Massey project to halt ‘summer slide’ in reading
+date: 2011-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00108/massey-project-to-halt-summer-slide-in-reading.htm
 author: massey-university
+permalink: /archive/2011/12/20/massey-project-to-halt-summer-slide-in-reading/index.html
+layout: layout.njk
 ---
 Massey project to halt ‘summer slide’ in reading
 ================================================

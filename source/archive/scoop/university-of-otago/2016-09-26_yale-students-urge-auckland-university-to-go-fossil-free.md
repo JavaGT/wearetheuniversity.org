@@ -1,9 +1,13 @@
 ---
 slug: yale-students-urge-auckland-university-to-go-fossil-free
-title: "Yale Students Urge Auckland University to go Fossil Free"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00124/yale-students-urge-auckland-university-to-go-fossil-free.htm
+title: Yale Students Urge Auckland University to go Fossil Free
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00124/yale-students-urge-auckland-university-to-go-fossil-free.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/26/yale-students-urge-auckland-university-to-go-fossil-free/index.html
+layout: layout.njk
 ---
 Yale Students Urge Auckland University to go Fossil Free
 ========================================================

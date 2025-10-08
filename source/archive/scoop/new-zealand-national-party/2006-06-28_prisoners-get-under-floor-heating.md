@@ -1,9 +1,12 @@
 ---
 slug: prisoners-get-under-floor-heating
-title: "Prisoners get under-floor heating"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/PA0606/S00564/prisoners-get-under-floor-heating.htm
+title: Prisoners get under-floor heating
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00564/prisoners-get-under-floor-heating.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/28/prisoners-get-under-floor-heating/index.html
+layout: layout.njk
 ---
 Prisoners get under-floor heating
 =================================

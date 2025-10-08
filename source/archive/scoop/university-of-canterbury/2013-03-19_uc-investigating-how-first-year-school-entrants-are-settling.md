@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-how-first-year-school-entrants-are-settling
-title: "UC Investigating How First Year School Entrants Are Settling"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/ED1303/S00126/uc-investigating-how-first-year-school-entrants-are-settling.htm
+title: UC Investigating How First Year School Entrants Are Settling
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00126/uc-investigating-how-first-year-school-entrants-are-settling.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/19/uc-investigating-how-first-year-school-entrants-are-settling/index.html
+layout: layout.njk
 ---
 UC Investigating How First Year School Entrants Are Settling
 ============================================================

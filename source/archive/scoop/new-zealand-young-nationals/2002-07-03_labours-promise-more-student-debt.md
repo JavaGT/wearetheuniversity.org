@@ -1,9 +1,12 @@
 ---
 slug: labours-promise-more-student-debt
-title: "Labour's Promise: More Student Debt"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PO0207/S00027/labours-promise-more-student-debt.htm
+title: 'Labour''s Promise: More Student Debt'
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00027/labours-promise-more-student-debt.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/07/03/labours-promise-more-student-debt/index.html
+layout: layout.njk
 ---
 Labour's Promise: More Student Debt
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-concoctions-and-contradictions
-title: "Peters: \"Concoctions and Contradictions\""
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/PA1112/S00165/peters-concoctions-and-contradictions.htm
+title: 'Peters: "Concoctions and Contradictions"'
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00165/peters-concoctions-and-contradictions.htm
 author: new-zealand-first-party
+permalink: /archive/2011/12/21/peters-concoctions-and-contradictions/index.html
+layout: layout.njk
 ---
 Peters: “Concoctions and Contradictions”
 ========================================

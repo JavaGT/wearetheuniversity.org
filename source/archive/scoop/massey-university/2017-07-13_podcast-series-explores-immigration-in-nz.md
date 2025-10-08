@@ -1,9 +1,12 @@
 ---
 slug: podcast-series-explores-immigration-in-nz
-title: "Podcast series explores immigration in NZ"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/ED1707/S00051/podcast-series-explores-immigration-in-nz.htm
+title: Podcast series explores immigration in NZ
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00051/podcast-series-explores-immigration-in-nz.htm
 author: massey-university
+permalink: /archive/2017/07/13/podcast-series-explores-immigration-in-nz/index.html
+layout: layout.njk
 ---
 Podcast series explores immigration in NZ
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-warn-access-must-not-be-compromised
-title: "Students warn: access must not be compromised"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/ED0507/S00065/students-warn-access-must-not-be-compromised.htm
+title: 'Students warn: access must not be compromised'
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00065/students-warn-access-must-not-be-compromised.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/07/18/students-warn-access-must-not-be-compromised/index.html
+layout: layout.njk
 ---
 Students warn: access must not be compromised
 =============================================

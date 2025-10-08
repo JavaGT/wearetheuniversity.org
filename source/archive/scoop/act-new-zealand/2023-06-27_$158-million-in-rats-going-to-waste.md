@@ -1,9 +1,12 @@
 ---
 slug: $158-million-in-rats-going-to-waste
-title: "$158 Million In RATs Going To Waste"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00170/158-million-in-rats-going-to-waste.htm
+title: $158 Million In RATs Going To Waste
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00170/158-million-in-rats-going-to-waste.htm
 author: act-new-zealand
+permalink: /archive/2023/06/27/158-million-in-rats-going-to-waste/index.html
+layout: layout.njk
 ---
 $158 Million In RATs Going To Waste
 ===================================

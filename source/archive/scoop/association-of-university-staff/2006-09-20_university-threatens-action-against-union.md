@@ -1,9 +1,12 @@
 ---
 slug: university-threatens-action-against-union
-title: "University threatens action against union"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/ED0609/S00083/university-threatens-action-against-union.htm
+title: University threatens action against union
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00083/university-threatens-action-against-union.htm
 author: association-of-university-staff
+permalink: /archive/2006/09/20/university-threatens-action-against-union/index.html
+layout: layout.njk
 ---
 University threatens action against union
 =========================================

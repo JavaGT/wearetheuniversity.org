@@ -1,9 +1,12 @@
 ---
 slug: what-killed-alexander-the-great
-title: "What Killed Alexander The Great?"
-date: 2003-10-16
-source-url: https://www.scoop.co.nz/stories/SC0310/S00060/what-killed-alexander-the-great.htm
+title: What Killed Alexander The Great?
+date: 2003-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0310/S00060/what-killed-alexander-the-great.htm
 author: university-of-otago
+permalink: /archive/2003/10/16/what-killed-alexander-the-great/index.html
+layout: layout.njk
 ---
 What Killed Alexander The Great?
 ================================

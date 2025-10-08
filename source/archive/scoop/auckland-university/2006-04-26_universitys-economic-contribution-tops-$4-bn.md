@@ -1,9 +1,12 @@
 ---
 slug: universitys-economic-contribution-tops-$4-bn
-title: "University’s Economic Contribution Tops $4 Bn"
-date: 2006-04-26
-source-url: https://www.scoop.co.nz/stories/ED0604/S00082/universitys-economic-contribution-tops-4-bn.htm
+title: University’s Economic Contribution Tops $4 Bn
+date: 2006-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00082/universitys-economic-contribution-tops-4-bn.htm
 author: auckland-university
+permalink: /archive/2006/04/26/universitys-economic-contribution-tops-/index.html
+layout: layout.njk
 ---
 University’s Economic Contribution Tops $4 Bn
 =============================================

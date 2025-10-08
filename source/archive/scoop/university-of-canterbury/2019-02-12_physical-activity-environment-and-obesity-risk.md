@@ -1,9 +1,12 @@
 ---
 slug: physical-activity-environment-and-obesity-risk
-title: "Physical activity environment and obesity risk"
-date: 2019-02-12
-source-url: https://www.scoop.co.nz/stories/ED1902/S00029/physical-activity-environment-and-obesity-risk.htm
+title: Physical activity environment and obesity risk
+date: 2019-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00029/physical-activity-environment-and-obesity-risk.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/12/physical-activity-environment-and-obesity-risk/index.html
+layout: layout.njk
 ---
 Physical activity environment and obesity risk
 ==============================================

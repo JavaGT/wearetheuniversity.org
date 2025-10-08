@@ -1,9 +1,12 @@
 ---
 slug: unseen-university-unveiled-in-open-christchurch
-title: "Unseen University Unveiled In Open Christchurch"
-date: 2021-04-29
-source-url: https://www.scoop.co.nz/stories/AK2104/S00496/unseen-university-unveiled-in-open-christchurch.htm
+title: Unseen University Unveiled In Open Christchurch
+date: 2021-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2104/S00496/unseen-university-unveiled-in-open-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2021/04/29/unseen-university-unveiled-in-open-christchurch/index.html
+layout: layout.njk
 ---
 Unseen University Unveiled In Open Christchurch
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: our-schools-need-more-money
-title: "Our Schools Need More Money"
-date: 2005-03-11
+title: Our Schools Need More Money
+date: 2005-03-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00252/our-schools-need-more-money.htm
 author: green-party
+permalink: /archive/2005/03/11/our-schools-need-more-money/index.html
+layout: layout.njk
 ---
 Our Schools Need More Money
 ===========================

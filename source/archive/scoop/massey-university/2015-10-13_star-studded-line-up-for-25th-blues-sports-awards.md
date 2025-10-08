@@ -1,9 +1,13 @@
 ---
 slug: star-studded-line-up-for-25th-blues-sports-awards
-title: "Star studded line-up for 25th Blues Sports Awards"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/ED1510/S00064/star-studded-line-up-for-25th-blues-sports-awards.htm
+title: Star studded line-up for 25th Blues Sports Awards
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00064/star-studded-line-up-for-25th-blues-sports-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/13/star-studded-line-up-for-25th-blues-sports-awards/index.html
+layout: layout.njk
 ---
 Star studded line-up for 25th Blues Sports Awards
 =================================================

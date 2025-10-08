@@ -1,9 +1,13 @@
 ---
 slug: sharples-lawyers-strengthening-maori-communities
-title: "Sharples: Lawyers strengthening Maori communities"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PA0709/S00129/sharples-lawyers-strengthening-maori-communities.htm
+title: 'Sharples: Lawyers strengthening Maori communities'
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00129/sharples-lawyers-strengthening-maori-communities.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/09/07/sharples-lawyers-strengthening-maori-communities/index.html
+layout: layout.njk
 ---
 Sharples: Lawyers strengthening Maori communities
 =================================================

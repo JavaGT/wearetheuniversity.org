@@ -1,9 +1,13 @@
 ---
 slug: novel-approach-to-get-farmers-to-trust-their-gut
-title: "Novel approach to get farmers to trust their gut"
-date: 2016-02-25
-source-url: https://www.scoop.co.nz/stories/BU1602/S00852/novel-approach-to-get-farmers-to-trust-their-gut.htm
+title: Novel approach to get farmers to trust their gut
+date: 2016-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1602/S00852/novel-approach-to-get-farmers-to-trust-their-gut.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/02/25/novel-approach-to-get-farmers-to-trust-their-gut/index.html
+layout: layout.njk
 ---
 Novel approach to get farmers to trust their gut
 ================================================

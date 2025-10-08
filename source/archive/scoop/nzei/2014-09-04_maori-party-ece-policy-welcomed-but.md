@@ -1,9 +1,12 @@
 ---
 slug: maori-party-ece-policy-welcomed-but
-title: "Maori Party ECE policy welcomed, but ..."
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00109/maori-party-ece-policy-welcomed-but.htm
+title: Maori Party ECE policy welcomed, but ...
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00109/maori-party-ece-policy-welcomed-but.htm
 author: nzei
+permalink: /archive/2014/09/04/maori-party-ece-policy-welcomed-but/index.html
+layout: layout.njk
 ---
 Maori Party ECE policy welcomed, but ...
 ========================================

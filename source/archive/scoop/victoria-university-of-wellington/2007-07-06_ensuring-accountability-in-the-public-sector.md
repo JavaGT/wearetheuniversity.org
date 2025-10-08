@@ -1,9 +1,12 @@
 ---
 slug: ensuring-accountability-in-the-public-sector
-title: "Ensuring accountability in the public sector"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PO0707/S00058/ensuring-accountability-in-the-public-sector.htm
+title: Ensuring accountability in the public sector
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00058/ensuring-accountability-in-the-public-sector.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/06/ensuring-accountability-in-the-public-sector/index.html
+layout: layout.njk
 ---
 Ensuring accountability in the public sector
 ============================================

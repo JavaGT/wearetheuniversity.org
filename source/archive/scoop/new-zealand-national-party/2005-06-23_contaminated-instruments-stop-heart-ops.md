@@ -1,9 +1,12 @@
 ---
 slug: contaminated-instruments-stop-heart-ops
-title: "Contaminated instruments stop heart ops"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/PA0506/S00569/contaminated-instruments-stop-heart-ops.htm
+title: Contaminated instruments stop heart ops
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00569/contaminated-instruments-stop-heart-ops.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/23/contaminated-instruments-stop-heart-ops/index.html
+layout: layout.njk
 ---
 Contaminated instruments stop heart ops
 =======================================

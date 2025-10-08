@@ -1,9 +1,11 @@
 ---
 slug: backing-the-black-sticks
-title: "Backing the Black Sticks"
-date: 2016-07-25
+title: Backing the Black Sticks
+date: 2016-07-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1607/S00299/backing-the-black-sticks.htm
 author: massey-university
+permalink: /archive/2016/07/25/backing-the-black-sticks/index.html
+layout: layout.njk
 ---
 Backing the Black Sticks
 ========================

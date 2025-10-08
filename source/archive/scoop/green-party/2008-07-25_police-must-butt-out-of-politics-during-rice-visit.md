@@ -1,9 +1,13 @@
 ---
 slug: police-must-butt-out-of-politics-during-rice-visit
-title: "Police must butt out of politics during Rice visit"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/PA0807/S00478/police-must-butt-out-of-politics-during-rice-visit.htm
+title: Police must butt out of politics during Rice visit
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00478/police-must-butt-out-of-politics-during-rice-visit.htm
 author: green-party
+permalink: >-
+  /archive/2008/07/25/police-must-butt-out-of-politics-during-rice-visit/index.html
+layout: layout.njk
 ---
 Police must butt out of politics during Rice visit
 ==================================================

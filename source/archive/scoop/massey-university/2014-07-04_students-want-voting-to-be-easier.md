@@ -1,9 +1,12 @@
 ---
 slug: students-want-voting-to-be-easier
-title: "Students want voting to be easier"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PO1407/S00082/students-want-voting-to-be-easier.htm
+title: Students want voting to be easier
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00082/students-want-voting-to-be-easier.htm
 author: massey-university
+permalink: /archive/2014/07/04/students-want-voting-to-be-easier/index.html
+layout: layout.njk
 ---
 Students want voting to be easier
 =================================

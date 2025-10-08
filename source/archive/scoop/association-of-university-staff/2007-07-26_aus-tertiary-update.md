@@ -1,9 +1,11 @@
 ---
 slug: aus-tertiary-update
-title: "AUS Tertiary Update"
-date: 2007-07-26
+title: AUS Tertiary Update
+date: 2007-07-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0707/S00082/aus-tertiary-update.htm
 author: association-of-university-staff
+permalink: /archive/2007/07/26/aus-tertiary-update/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update
 ===================

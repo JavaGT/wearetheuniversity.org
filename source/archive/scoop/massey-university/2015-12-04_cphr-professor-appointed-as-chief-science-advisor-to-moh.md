@@ -1,9 +1,13 @@
 ---
 slug: cphr-professor-appointed-as-chief-science-advisor-to-moh
-title: "CPHR Professor appointed as Chief Science Advisor to MoH"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/SC1512/S00032/cphr-professor-appointed-as-chief-science-advisor-to-moh.htm
+title: CPHR Professor appointed as Chief Science Advisor to MoH
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00032/cphr-professor-appointed-as-chief-science-advisor-to-moh.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/04/cphr-professor-appointed-as-chief-science-advisor-to-moh/index.html
+layout: layout.njk
 ---
 CPHR Professor appointed as Chief Science Advisor to MoH
 ========================================================

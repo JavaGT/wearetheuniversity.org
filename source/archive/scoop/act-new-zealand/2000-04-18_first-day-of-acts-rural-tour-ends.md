@@ -1,9 +1,12 @@
 ---
 slug: first-day-of-acts-rural-tour-ends
-title: "First Day of ACT’s Rural Tour Ends"
-date: 2000-04-18
-source-url: https://www.scoop.co.nz/stories/PA0004/S00245/first-day-of-acts-rural-tour-ends.htm
+title: First Day of ACT’s Rural Tour Ends
+date: 2000-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00245/first-day-of-acts-rural-tour-ends.htm
 author: act-new-zealand
+permalink: /archive/2000/04/18/first-day-of-acts-rural-tour-ends/index.html
+layout: layout.njk
 ---
 First Day of ACT’s Rural Tour Ends
 ==================================

@@ -1,9 +1,16 @@
 ---
-slug: nzers-in-international-study-of-covids-impact-on-depression-and-other-mood-disorders
-title: "NZers In International Study Of COVID’s Impact On Depression And Other Mood Disorders"
-date: 2020-05-06
-source-url: https://www.scoop.co.nz/stories/ED2005/S00010/nzers-in-international-study-of-covids-impact-on-depression-and-other-mood-disorders.htm
+slug: >-
+  nzers-in-international-study-of-covids-impact-on-depression-and-other-mood-disorders
+title: >-
+  NZers In International Study Of COVID’s Impact On Depression And Other Mood
+  Disorders
+date: 2020-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00010/nzers-in-international-study-of-covids-impact-on-depression-and-other-mood-disorders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/05/06/nzers-in-international-study-of-covids-impact-on-depression-and-other-mood-disorders/index.html
+layout: layout.njk
 ---
 NZers In International Study Of COVID’s Impact On Depression And Other Mood Disorders
 =====================================================================================

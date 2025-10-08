@@ -1,9 +1,13 @@
 ---
 slug: educators-welcome-input-on-digital-fluency-package-in-school
-title: "Educators welcome input on digital fluency package in school"
-date: 2017-06-28
-source-url: https://www.scoop.co.nz/stories/ED1706/S00097/educators-welcome-input-on-digital-fluency-package-in-school.htm
+title: Educators welcome input on digital fluency package in school
+date: 2017-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00097/educators-welcome-input-on-digital-fluency-package-in-school.htm
 author: nzei
+permalink: >-
+  /archive/2017/06/28/educators-welcome-input-on-digital-fluency-package-in-school/index.html
+layout: layout.njk
 ---
 Educators welcome input on digital fluency package in school
 ============================================================

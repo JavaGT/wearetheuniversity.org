@@ -1,9 +1,12 @@
 ---
 slug: drone-assassination-awareness-week
-title: "Drone Assassination Awareness Week"
-date: 2017-02-27
-source-url: https://www.scoop.co.nz/stories/PO1702/S00297/drone-assassination-awareness-week.htm
+title: Drone Assassination Awareness Week
+date: 2017-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00297/drone-assassination-awareness-week.htm
 author: peace-action-wellington
+permalink: /archive/2017/02/27/drone-assassination-awareness-week/index.html
+layout: layout.njk
 ---
 Drone Assassination Awareness Week
 ==================================

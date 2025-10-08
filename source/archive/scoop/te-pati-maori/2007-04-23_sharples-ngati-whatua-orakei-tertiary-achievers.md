@@ -1,9 +1,12 @@
 ---
 slug: sharples-ngati-whatua-orakei-tertiary-achievers
-title: "Sharples: Ngati Whatua Orakei Tertiary Achievers"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/PA0704/S00369/sharples-ngati-whatua-orakei-tertiary-achievers.htm
+title: 'Sharples: Ngati Whatua Orakei Tertiary Achievers'
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00369/sharples-ngati-whatua-orakei-tertiary-achievers.htm
 author: te-pati-maori
+permalink: /archive/2007/04/23/sharples-ngati-whatua-orakei-tertiary-achievers/index.html
+layout: layout.njk
 ---
 Sharples: Ngati Whatua Orakei Tertiary Achievers
 ================================================

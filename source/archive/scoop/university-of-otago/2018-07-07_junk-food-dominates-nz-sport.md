@@ -1,9 +1,11 @@
 ---
 slug: junk-food-dominates-nz-sport
-title: "Junk food dominates NZ sport"
-date: 2018-07-07
+title: Junk food dominates NZ sport
+date: 2018-07-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1807/S00028/junk-food-dominates-nz-sport.htm
 author: university-of-otago
+permalink: /archive/2018/07/07/junk-food-dominates-nz-sport/index.html
+layout: layout.njk
 ---
 Junk food dominates NZ sport
 ============================

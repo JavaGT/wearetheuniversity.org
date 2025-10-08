@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-mark-wellington-10th
-title: "New scholarships mark Wellington 10th"
-date: 2009-07-29
-source-url: https://www.scoop.co.nz/stories/ED0907/S00101/new-scholarships-mark-wellington-10th.htm
+title: New scholarships mark Wellington 10th
+date: 2009-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00101/new-scholarships-mark-wellington-10th.htm
 author: massey-university
+permalink: /archive/2009/07/29/new-scholarships-mark-wellington-10th/index.html
+layout: layout.njk
 ---
 New scholarships mark Wellington 10th
 =====================================

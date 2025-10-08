@@ -1,9 +1,11 @@
 ---
 slug: 2009-aspa-awards-results
-title: "2009 ASPA Awards results"
-date: 2009-09-13
+title: 2009 ASPA Awards results
+date: 2009-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0909/S00167/2009-aspa-awards-results.htm
 author: aotearoa-student-press-association
+permalink: /archive/2009/09/13/2009-aspa-awards-results/index.html
+layout: layout.njk
 ---
 2009 ASPA Awards results
 ========================

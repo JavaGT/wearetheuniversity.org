@@ -1,9 +1,12 @@
 ---
 slug: calendar-boost-for-childrens-cancer-research
-title: "Calendar Boost For Children’s Cancer Research"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/ED0409/S00120/calendar-boost-for-childrens-cancer-research.htm
+title: Calendar Boost For Children’s Cancer Research
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00120/calendar-boost-for-childrens-cancer-research.htm
 author: university-of-otago
+permalink: /archive/2004/09/27/calendar-boost-for-childrens-cancer-research/index.html
+layout: layout.njk
 ---
 Calendar Boost For Children’s Cancer Research
 =============================================

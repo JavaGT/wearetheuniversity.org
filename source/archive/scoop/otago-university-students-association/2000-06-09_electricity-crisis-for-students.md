@@ -1,9 +1,12 @@
 ---
 slug: electricity-crisis-for-students
-title: "Electricity Crisis for Students"
-date: 2000-06-09
-source-url: https://www.scoop.co.nz/stories/ED0006/S00011/electricity-crisis-for-students.htm
+title: Electricity Crisis for Students
+date: 2000-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00011/electricity-crisis-for-students.htm
 author: otago-university-students-association
+permalink: /archive/2000/06/09/electricity-crisis-for-students/index.html
+layout: layout.njk
 ---
 Electricity Crisis for Students
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: parents-denied-chance-to-hear-school-plan
-title: "Parents denied chance to hear school plan"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/PA0401/S00209/parents-denied-chance-to-hear-school-plan.htm
+title: Parents denied chance to hear school plan
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00209/parents-denied-chance-to-hear-school-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/27/parents-denied-chance-to-hear-school-plan/index.html
+layout: layout.njk
 ---
 Parents denied chance to hear school plan
 =========================================

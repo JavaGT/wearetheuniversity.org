@@ -1,9 +1,12 @@
 ---
 slug: take-education-out-of-gats-teachers-urge
-title: "\"Take education out of GATS\", teachers urge"
-date: 2005-12-15
-source-url: https://www.scoop.co.nz/stories/PO0512/S00128/take-education-out-of-gats-teachers-urge.htm
+title: '"Take education out of GATS", teachers urge'
+date: 2005-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0512/S00128/take-education-out-of-gats-teachers-urge.htm
 author: association-of-university-staff
+permalink: /archive/2005/12/15/take-education-out-of-gats-teachers-urge/index.html
+layout: layout.njk
 ---
 "Take education out of GATS", teachers urge
 ===========================================

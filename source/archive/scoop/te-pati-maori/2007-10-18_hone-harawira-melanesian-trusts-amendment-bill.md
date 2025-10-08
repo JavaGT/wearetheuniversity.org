@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-melanesian-trusts-amendment-bill
-title: "Hone Harawira: Melanesian Trusts Amendment Bill"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00341/hone-harawira-melanesian-trusts-amendment-bill.htm
+title: 'Hone Harawira: Melanesian Trusts Amendment Bill'
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00341/hone-harawira-melanesian-trusts-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/10/18/hone-harawira-melanesian-trusts-amendment-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Melanesian Trusts Amendment Bill
 ===============================================

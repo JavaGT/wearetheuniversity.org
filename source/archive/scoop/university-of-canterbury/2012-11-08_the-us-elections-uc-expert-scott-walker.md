@@ -1,9 +1,12 @@
 ---
 slug: the-us-elections-uc-expert-scott-walker
-title: "The US elections, UC expert Scott Walker"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/WO1211/S00074/the-us-elections-uc-expert-scott-walker.htm
+title: The US elections, UC expert Scott Walker
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1211/S00074/the-us-elections-uc-expert-scott-walker.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/08/the-us-elections-uc-expert-scott-walker/index.html
+layout: layout.njk
 ---
 The US elections, UC expert Scott Walker
 ========================================

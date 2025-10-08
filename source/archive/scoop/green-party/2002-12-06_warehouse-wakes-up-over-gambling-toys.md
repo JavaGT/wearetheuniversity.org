@@ -1,9 +1,12 @@
 ---
 slug: warehouse-wakes-up-over-gambling-toys
-title: "Warehouse wakes up over gambling toys"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/PA0212/S00180/warehouse-wakes-up-over-gambling-toys.htm
+title: Warehouse wakes up over gambling toys
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00180/warehouse-wakes-up-over-gambling-toys.htm
 author: green-party
+permalink: /archive/2002/12/06/warehouse-wakes-up-over-gambling-toys/index.html
+layout: layout.njk
 ---
 Warehouse wakes up over gambling toys
 =====================================

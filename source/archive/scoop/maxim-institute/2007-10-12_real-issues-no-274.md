@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-274
-title: "Real Issues No. 274"
-date: 2007-10-12
+title: Real Issues No. 274
+date: 2007-10-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0710/S00175/real-issues-no-274.htm
 author: maxim-institute
+permalink: /archive/2007/10/12/real-issues-no-274/index.html
+layout: layout.njk
 ---
 Real Issues No. 274
 ===================

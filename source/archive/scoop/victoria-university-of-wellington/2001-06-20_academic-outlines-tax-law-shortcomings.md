@@ -1,9 +1,12 @@
 ---
 slug: academic-outlines-tax-law-shortcomings
-title: "Academic outlines tax law shortcomings"
-date: 2001-06-20
-source-url: https://www.scoop.co.nz/stories/BU0106/S00183/academic-outlines-tax-law-shortcomings.htm
+title: Academic outlines tax law shortcomings
+date: 2001-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0106/S00183/academic-outlines-tax-law-shortcomings.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/06/20/academic-outlines-tax-law-shortcomings/index.html
+layout: layout.njk
 ---
 Academic outlines tax law shortcomings
 ======================================

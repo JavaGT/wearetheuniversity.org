@@ -1,9 +1,12 @@
 ---
 slug: kids-suffering-under-mental-health-strain
-title: "Kids suffering under mental health strain"
-date: 2017-02-21
-source-url: https://www.scoop.co.nz/stories/PA1702/S00277/kids-suffering-under-mental-health-strain.htm
+title: Kids suffering under mental health strain
+date: 2017-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00277/kids-suffering-under-mental-health-strain.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/21/kids-suffering-under-mental-health-strain/index.html
+layout: layout.njk
 ---
 Kids suffering under mental health strain
 =========================================

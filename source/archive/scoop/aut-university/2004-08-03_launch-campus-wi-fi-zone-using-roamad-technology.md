@@ -1,9 +1,13 @@
 ---
 slug: launch-campus-wi-fi-zone-using-roamad-technology
-title: "Launch: Campus Wi-Fi Zone Using RoamAD Technology"
-date: 2004-08-03
-source-url: https://www.scoop.co.nz/stories/SC0408/S00007/launch-campus-wi-fi-zone-using-roamad-technology.htm
+title: 'Launch: Campus Wi-Fi Zone Using RoamAD Technology'
+date: 2004-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0408/S00007/launch-campus-wi-fi-zone-using-roamad-technology.htm
 author: aut-university
+permalink: >-
+  /archive/2004/08/03/launch-campus-wi-fi-zone-using-roamad-technology/index.html
+layout: layout.njk
 ---
 Launch: Campus Wi-Fi Zone Using RoamAD Technology
 =================================================

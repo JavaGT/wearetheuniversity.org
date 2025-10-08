@@ -1,9 +1,12 @@
 ---
 slug: housing-too-important-for-brashs-secret-agenda
-title: "Housing too important for Brash's secret agenda"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PA0509/S00155/housing-too-important-for-brashs-secret-agenda.htm
+title: Housing too important for Brash's secret agenda
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00155/housing-too-important-for-brashs-secret-agenda.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/06/housing-too-important-for-brashs-secret-agenda/index.html
+layout: layout.njk
 ---
 Housing too important for Brash's secret agenda
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: biofuels-joins-climate-change-debacles
-title: "Biofuels joins climate change debacles"
-date: 2008-04-08
-source-url: https://www.scoop.co.nz/stories/PA0804/S00227/biofuels-joins-climate-change-debacles.htm
+title: Biofuels joins climate change debacles
+date: 2008-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00227/biofuels-joins-climate-change-debacles.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/08/biofuels-joins-climate-change-debacles/index.html
+layout: layout.njk
 ---
 Biofuels joins climate change debacles
 ======================================

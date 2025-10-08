@@ -1,9 +1,13 @@
 ---
 slug: bill-to-help-young-people-into-home-ownership-launched
-title: "Bill to help young people into home ownership launched"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/PA1611/S00488/bill-to-help-young-people-into-home-ownership-launched.htm
+title: Bill to help young people into home ownership launched
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00488/bill-to-help-young-people-into-home-ownership-launched.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/25/bill-to-help-young-people-into-home-ownership-launched/index.html
+layout: layout.njk
 ---
 Bill to help young people into home ownership launched
 ======================================================

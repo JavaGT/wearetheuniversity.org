@@ -1,9 +1,12 @@
 ---
 slug: labour-finished-over-loans-deceit
-title: "Labour finished over loans deceit"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00390/labour-finished-over-loans-deceit.htm
+title: Labour finished over loans deceit
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00390/labour-finished-over-loans-deceit.htm
 author: act-new-zealand
+permalink: /archive/2005/09/14/labour-finished-over-loans-deceit/index.html
+layout: layout.njk
 ---
 Labour finished over loans deceit
 =================================

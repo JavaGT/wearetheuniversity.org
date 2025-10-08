@@ -1,9 +1,13 @@
 ---
 slug: drowning-toll-makes-school-pools-more-important-than-ever
-title: "Drowning Toll Makes School Pools More Important than Ever"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00154/drowning-toll-makes-school-pools-more-important-than-ever.htm
+title: Drowning Toll Makes School Pools More Important than Ever
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00154/drowning-toll-makes-school-pools-more-important-than-ever.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/01/28/drowning-toll-makes-school-pools-more-important-than-ever/index.html
+layout: layout.njk
 ---
 Drowning Toll Makes School Pools More Important than Ever
 =========================================================

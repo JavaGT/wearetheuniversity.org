@@ -1,9 +1,12 @@
 ---
 slug: connecting-with-china-by-degrees
-title: "Connecting with China by degrees"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/ED1402/S00040/connecting-with-china-by-degrees.htm
+title: Connecting with China by degrees
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00040/connecting-with-china-by-degrees.htm
 author: massey-university
+permalink: /archive/2014/02/12/connecting-with-china-by-degrees/index.html
+layout: layout.njk
 ---
 Connecting with China by degrees
 ================================

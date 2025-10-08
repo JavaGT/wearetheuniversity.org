@@ -1,9 +1,12 @@
 ---
 slug: brownlee-tripped-up-by-rule-of-law
-title: "Brownlee tripped up by rule of law"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/PA1212/S00385/brownlee-tripped-up-by-rule-of-law.htm
+title: Brownlee tripped up by rule of law
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00385/brownlee-tripped-up-by-rule-of-law.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/20/brownlee-tripped-up-by-rule-of-law/index.html
+layout: layout.njk
 ---
 Brownlee tripped up by rule of law
 ==================================

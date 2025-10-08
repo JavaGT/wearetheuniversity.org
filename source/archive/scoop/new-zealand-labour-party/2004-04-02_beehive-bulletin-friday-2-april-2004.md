@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-2-april-2004
-title: "Beehive Bulletin Friday, 2 April 2004"
-date: 2004-04-02
-source-url: https://www.scoop.co.nz/stories/PA0404/S00075/beehive-bulletin-friday-2-april-2004.htm
+title: Beehive Bulletin Friday, 2 April 2004
+date: 2004-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00075/beehive-bulletin-friday-2-april-2004.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/04/02/beehive-bulletin-friday-2-april-2004/index.html
+layout: layout.njk
 ---
 Beehive Bulletin Friday, 2 April 2004
 =====================================

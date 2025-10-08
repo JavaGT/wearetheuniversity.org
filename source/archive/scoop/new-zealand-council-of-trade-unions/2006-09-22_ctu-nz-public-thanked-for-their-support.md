@@ -1,9 +1,12 @@
 ---
 slug: ctu-nz-public-thanked-for-their-support
-title: "CTU: NZ Public Thanked For Their Support"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PO0609/S00271/ctu-nz-public-thanked-for-their-support.htm
+title: 'CTU: NZ Public Thanked For Their Support'
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00271/ctu-nz-public-thanked-for-their-support.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/09/22/ctu-nz-public-thanked-for-their-support/index.html
+layout: layout.njk
 ---
 CTU: NZ Public Thanked For Their Support
 ========================================

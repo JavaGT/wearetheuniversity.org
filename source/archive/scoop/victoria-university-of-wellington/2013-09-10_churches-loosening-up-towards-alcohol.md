@@ -1,9 +1,12 @@
 ---
 slug: churches-loosening-up-towards-alcohol
-title: "Churches loosening up towards alcohol"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/AK1309/S00279/churches-loosening-up-towards-alcohol.htm
+title: Churches loosening up towards alcohol
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00279/churches-loosening-up-towards-alcohol.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/10/churches-loosening-up-towards-alcohol/index.html
+layout: layout.njk
 ---
 Churches loosening up towards alcohol
 =====================================

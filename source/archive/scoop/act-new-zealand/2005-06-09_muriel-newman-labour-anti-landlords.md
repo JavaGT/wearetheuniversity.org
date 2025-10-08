@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-labour-anti-landlords
-title: "Muriel Newman  - Labour Anti-Landlords"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00156/muriel-newman-labour-anti-landlords.htm
+title: Muriel Newman  - Labour Anti-Landlords
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00156/muriel-newman-labour-anti-landlords.htm
 author: act-new-zealand
+permalink: /archive/2005/06/09/muriel-newman-labour-anti-landlords/index.html
+layout: layout.njk
 ---
 Muriel Newman - Labour Anti-Landlords
 =====================================

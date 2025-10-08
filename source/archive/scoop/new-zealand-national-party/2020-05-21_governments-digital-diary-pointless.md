@@ -1,9 +1,12 @@
 ---
 slug: governments-digital-diary-pointless
-title: "Government’s \"digital Diary\" Pointless"
-date: 2020-05-21
-source-url: https://www.scoop.co.nz/stories/PA2005/S00188/governments-digital-diary-pointless.htm
+title: Government’s "digital Diary" Pointless
+date: 2020-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00188/governments-digital-diary-pointless.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/21/governments-digital-diary-pointless/index.html
+layout: layout.njk
 ---
 Government’s “digital Diary” Pointless
 ======================================

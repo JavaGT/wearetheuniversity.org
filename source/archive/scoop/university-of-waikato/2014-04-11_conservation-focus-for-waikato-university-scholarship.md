@@ -1,9 +1,13 @@
 ---
 slug: conservation-focus-for-waikato-university-scholarship
-title: "Conservation focus for Waikato University scholarship"
-date: 2014-04-11
-source-url: https://www.scoop.co.nz/stories/SC1404/S00047/conservation-focus-for-waikato-university-scholarship.htm
+title: Conservation focus for Waikato University scholarship
+date: 2014-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00047/conservation-focus-for-waikato-university-scholarship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/11/conservation-focus-for-waikato-university-scholarship/index.html
+layout: layout.njk
 ---
 Conservation focus for Waikato University scholarship
 =====================================================

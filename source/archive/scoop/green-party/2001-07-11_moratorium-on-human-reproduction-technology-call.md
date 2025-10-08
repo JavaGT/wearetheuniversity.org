@@ -1,9 +1,13 @@
 ---
 slug: moratorium-on-human-reproduction-technology-call
-title: "Moratorium On Human Reproduction Technology Call"
-date: 2001-07-11
-source-url: https://www.scoop.co.nz/stories/PA0107/S00177/moratorium-on-human-reproduction-technology-call.htm
+title: Moratorium On Human Reproduction Technology Call
+date: 2001-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00177/moratorium-on-human-reproduction-technology-call.htm
 author: green-party
+permalink: >-
+  /archive/2001/07/11/moratorium-on-human-reproduction-technology-call/index.html
+layout: layout.njk
 ---
 Moratorium On Human Reproduction Technology Call
 ================================================

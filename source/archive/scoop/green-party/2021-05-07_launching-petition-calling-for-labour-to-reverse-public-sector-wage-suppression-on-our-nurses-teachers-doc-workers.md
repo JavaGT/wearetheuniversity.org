@@ -1,9 +1,16 @@
 ---
-slug: launching-petition-calling-for-labour-to-reverse-public-sector-wage-suppression-on-our-nurses-teachers-doc-workers
-title: "Launching Petition Calling For Labour To Reverse Public Sector Wage Suppression On Our Nurses, Teachers, DOC Workers"
-date: 2021-05-07
-source-url: https://www.scoop.co.nz/stories/PA2105/S00058/launching-petition-calling-for-labour-to-reverse-public-sector-wage-suppression-on-our-nurses-teachers-doc-workers.htm
+slug: >-
+  launching-petition-calling-for-labour-to-reverse-public-sector-wage-suppression-on-our-nurses-teachers-doc-workers
+title: >-
+  Launching Petition Calling For Labour To Reverse Public Sector Wage
+  Suppression On Our Nurses, Teachers, DOC Workers
+date: 2021-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00058/launching-petition-calling-for-labour-to-reverse-public-sector-wage-suppression-on-our-nurses-teachers-doc-workers.htm
 author: green-party
+permalink: >-
+  /archive/2021/05/07/launching-petition-calling-for-labour-to-reverse-public-sector-wage-suppression-on-our-nurses-teachers-doc-workers/index.html
+layout: layout.njk
 ---
 Launching Petition Calling For Labour To Reverse Public Sector Wage Suppression On Our Nurses, Teachers, DOC Workers
 ====================================================================================================================

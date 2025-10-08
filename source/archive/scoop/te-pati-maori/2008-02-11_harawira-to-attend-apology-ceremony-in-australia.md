@@ -1,9 +1,13 @@
 ---
 slug: harawira-to-attend-apology-ceremony-in-australia
-title: "Harawira to attend apology ceremony in Australia"
-date: 2008-02-11
-source-url: https://www.scoop.co.nz/stories/PA0802/S00109/harawira-to-attend-apology-ceremony-in-australia.htm
+title: Harawira to attend apology ceremony in Australia
+date: 2008-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00109/harawira-to-attend-apology-ceremony-in-australia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/02/11/harawira-to-attend-apology-ceremony-in-australia/index.html
+layout: layout.njk
 ---
 Harawira to attend apology ceremony in Australia
 ================================================

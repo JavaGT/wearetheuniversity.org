@@ -1,9 +1,13 @@
 ---
 slug: councils-bill-an-opportunity-to-restore-student-voice
-title: "Councils bill an opportunity to restore student voice"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PO1510/S00264/councils-bill-an-opportunity-to-restore-student-voice.htm
+title: Councils bill an opportunity to restore student voice
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00264/councils-bill-an-opportunity-to-restore-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/10/15/councils-bill-an-opportunity-to-restore-student-voice/index.html
+layout: layout.njk
 ---
 Councils bill an opportunity to restore student voice
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: sponsorship-fact-of-life-says-uc-lecturer
-title: "Sponsorship fact of life says UC lecturer"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PO1210/S00215/sponsorship-fact-of-life-says-uc-lecturer.htm
+title: Sponsorship fact of life says UC lecturer
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00215/sponsorship-fact-of-life-says-uc-lecturer.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/15/sponsorship-fact-of-life-says-uc-lecturer/index.html
+layout: layout.njk
 ---
 Sponsorship fact of life says UC lecturer
 =========================================

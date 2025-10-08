@@ -1,9 +1,12 @@
 ---
 slug: outsourcing-new-zealand-nationals-economic-plan!
-title: "\"Outsourcing New Zealand – National’s Economic Plan!\""
-date: 2011-06-24
-source-url: https://www.scoop.co.nz/stories/PO1106/S00306/outsourcing-new-zealand-nationals-economic-plan.htm
+title: '"Outsourcing New Zealand – National’s Economic Plan!"'
+date: 2011-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00306/outsourcing-new-zealand-nationals-economic-plan.htm
 author: new-zealand-first-party
+permalink: /archive/2011/06/24/outsourcing-new-zealand-nationals-economic-plan/index.html
+layout: layout.njk
 ---
 “Outsourcing New Zealand – National’s Economic Plan!”
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-three-minute-thesis-competition
-title: "The Three Minute Thesis Competition"
-date: 2010-08-12
-source-url: https://www.scoop.co.nz/stories/CU1008/S00170/the-three-minute-thesis-competition.htm
+title: The Three Minute Thesis Competition
+date: 2010-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00170/the-three-minute-thesis-competition.htm
 author: university-of-auckland-business-school
+permalink: /archive/2010/08/12/the-three-minute-thesis-competition/index.html
+layout: layout.njk
 ---
 The Three Minute Thesis Competition
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: olives-a-new-solution-to-an-old-problem
-title: "Olives: a new solution to an old problem?"
-date: 2008-07-29
-source-url: https://www.scoop.co.nz/stories/SC0807/S00066/olives-a-new-solution-to-an-old-problem.htm
+title: 'Olives: a new solution to an old problem?'
+date: 2008-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0807/S00066/olives-a-new-solution-to-an-old-problem.htm
 author: lincoln-university
+permalink: /archive/2008/07/29/olives-a-new-solution-to-an-old-problem/index.html
+layout: layout.njk
 ---
 Olives: a new solution to an old problem?
 =========================================

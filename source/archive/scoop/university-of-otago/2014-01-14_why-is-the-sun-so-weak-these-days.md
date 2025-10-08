@@ -1,7 +1,10 @@
 ---
 slug: why-is-the-sun-so-weak-these-days
-title: "Why is the sun so weak these days?"
-date: 2014-01-14
-source-url: https://www.scoop.co.nz/stories/SC1401/S00026/why-is-the-sun-so-weak-these-days.htm
+title: Why is the sun so weak these days?
+date: 2014-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00026/why-is-the-sun-so-weak-these-days.htm
 author: university-of-otago
+permalink: /archive/2014/01/14/why-is-the-sun-so-weak-these-days/index.html
+layout: layout.njk
 ---

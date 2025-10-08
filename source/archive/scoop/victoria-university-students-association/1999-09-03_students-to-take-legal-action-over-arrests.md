@@ -1,9 +1,12 @@
 ---
 slug: students-to-take-legal-action-over-arrests
-title: "Students To Take Legal Action Over Arrests"
-date: 1999-09-03
-source-url: https://www.scoop.co.nz/stories/ED9909/S00004/students-to-take-legal-action-over-arrests.htm
+title: Students To Take Legal Action Over Arrests
+date: 1999-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00004/students-to-take-legal-action-over-arrests.htm
 author: victoria-university-students-association
+permalink: /archive/1999/09/03/students-to-take-legal-action-over-arrests/index.html
+layout: layout.njk
 ---
 Students To Take Legal Action Over Arrests
 ==========================================

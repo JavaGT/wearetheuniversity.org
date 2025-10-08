@@ -1,9 +1,12 @@
 ---
 slug: outrage-over-plan-to-wipe-child-support-debt
-title: "Outrage Over Plan To Wipe Child Support Debt"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/PA0312/S00073/outrage-over-plan-to-wipe-child-support-debt.htm
+title: Outrage Over Plan To Wipe Child Support Debt
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00073/outrage-over-plan-to-wipe-child-support-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/04/outrage-over-plan-to-wipe-child-support-debt/index.html
+layout: layout.njk
 ---
 Outrage Over Plan To Wipe Child Support Debt
 ============================================

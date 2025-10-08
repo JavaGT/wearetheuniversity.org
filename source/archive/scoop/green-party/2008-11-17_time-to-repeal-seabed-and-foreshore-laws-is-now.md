@@ -1,9 +1,12 @@
 ---
 slug: time-to-repeal-seabed-and-foreshore-laws-is-now
-title: "Time to repeal seabed and foreshore laws is now"
-date: 2008-11-17
-source-url: https://www.scoop.co.nz/stories/PA0811/S00183/time-to-repeal-seabed-and-foreshore-laws-is-now.htm
+title: Time to repeal seabed and foreshore laws is now
+date: 2008-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00183/time-to-repeal-seabed-and-foreshore-laws-is-now.htm
 author: green-party
+permalink: /archive/2008/11/17/time-to-repeal-seabed-and-foreshore-laws-is-now/index.html
+layout: layout.njk
 ---
 Time to repeal seabed and foreshore laws is now
 ===============================================

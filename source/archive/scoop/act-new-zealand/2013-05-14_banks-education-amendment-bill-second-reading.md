@@ -1,9 +1,12 @@
 ---
 slug: banks-education-amendment-bill-second-reading
-title: "Banks: Education Amendment Bill, Second Reading"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/PA1305/S00223/banks-education-amendment-bill-second-reading.htm
+title: 'Banks: Education Amendment Bill, Second Reading'
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00223/banks-education-amendment-bill-second-reading.htm
 author: act-new-zealand
+permalink: /archive/2013/05/14/banks-education-amendment-bill-second-reading/index.html
+layout: layout.njk
 ---
 Banks: Education Amendment Bill, Second Reading
 ===============================================

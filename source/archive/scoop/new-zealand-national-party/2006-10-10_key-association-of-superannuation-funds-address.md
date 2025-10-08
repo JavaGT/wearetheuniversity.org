@@ -1,9 +1,12 @@
 ---
 slug: key-association-of-superannuation-funds-address
-title: "Key: Association of Superannuation Funds Address"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/PA0610/S00140/key-association-of-superannuation-funds-address.htm
+title: 'Key: Association of Superannuation Funds Address'
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00140/key-association-of-superannuation-funds-address.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/10/key-association-of-superannuation-funds-address/index.html
+layout: layout.njk
 ---
 Key: Association of Superannuation Funds Address
 ================================================

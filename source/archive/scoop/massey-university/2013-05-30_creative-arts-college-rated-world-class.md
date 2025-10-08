@@ -1,9 +1,12 @@
 ---
 slug: creative-arts-college-rated-world-class
-title: "Creative arts college rated world class"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/ED1305/S00196/creative-arts-college-rated-world-class.htm
+title: Creative arts college rated world class
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00196/creative-arts-college-rated-world-class.htm
 author: massey-university
+permalink: /archive/2013/05/30/creative-arts-college-rated-world-class/index.html
+layout: layout.njk
 ---
 Creative arts college rated world class
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-motion-on-iran-passes
-title: "Green Party Motion on Iran Passes"
-date: 2009-06-24
-source-url: https://www.scoop.co.nz/stories/PA0906/S00330/green-party-motion-on-iran-passes.htm
+title: Green Party Motion on Iran Passes
+date: 2009-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00330/green-party-motion-on-iran-passes.htm
 author: green-party
+permalink: /archive/2009/06/24/green-party-motion-on-iran-passes/index.html
+layout: layout.njk
 ---
 Green Party Motion on Iran Passes
 =================================

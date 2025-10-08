@@ -1,9 +1,12 @@
 ---
 slug: ryall-in-denial-over-staffing-shortages
-title: "Ryall in denial over staffing shortages"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/PA1403/S00556/ryall-in-denial-over-staffing-shortages.htm
+title: Ryall in denial over staffing shortages
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00556/ryall-in-denial-over-staffing-shortages.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/28/ryall-in-denial-over-staffing-shortages/index.html
+layout: layout.njk
 ---
 Ryall in denial over staffing shortages
 =======================================

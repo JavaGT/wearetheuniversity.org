@@ -1,8 +1,12 @@
 ---
 slug: older-peoples-unmet-needs-result-in-lower-quality-of-life
-title: "Older peoples’ unmet needs result in lower quality of life"
-date: 2016-09-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/older-peoples_-unmet-needs-result-in-lower-quality-of-life.html
+title: Older peoples’ unmet needs result in lower quality of life
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/older-peoples_-unmet-needs-result-in-lower-quality-of-life.html
+permalink: >-
+  /archive/2016/09/09/older-peoples-unmet-needs-result-in-lower-quality-of-life/index.html
+layout: layout.njk
 ---
 Older peoples’ unmet needs result in lower quality of life
 ==========================================================

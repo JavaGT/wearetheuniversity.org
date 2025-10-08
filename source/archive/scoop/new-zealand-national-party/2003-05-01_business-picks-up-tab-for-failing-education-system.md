@@ -1,9 +1,13 @@
 ---
 slug: business-picks-up-tab-for-failing-education-system
-title: "Business picks up tab for failing education system"
-date: 2003-05-01
-source-url: https://www.scoop.co.nz/stories/PA0305/S00016/business-picks-up-tab-for-failing-education-system.htm
+title: Business picks up tab for failing education system
+date: 2003-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00016/business-picks-up-tab-for-failing-education-system.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/05/01/business-picks-up-tab-for-failing-education-system/index.html
+layout: layout.njk
 ---
 Business picks up tab for failing education system
 ==================================================

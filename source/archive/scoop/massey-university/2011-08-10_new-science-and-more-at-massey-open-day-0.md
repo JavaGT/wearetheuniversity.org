@@ -1,9 +1,12 @@
 ---
 slug: new-science-and-more-at-massey-open-day-0
-title: "New science and more at Massey Open Day 0"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/SC1108/S00033/new-science-and-more-at-massey-open-day-0.htm
+title: New science and more at Massey Open Day 0
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00033/new-science-and-more-at-massey-open-day-0.htm
 author: massey-university
+permalink: /archive/2011/08/10/new-science-and-more-at-massey-open-day-0/index.html
+layout: layout.njk
 ---
 New science and more at Massey Open Day 0
 =========================================

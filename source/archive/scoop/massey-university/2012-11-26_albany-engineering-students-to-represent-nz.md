@@ -1,9 +1,12 @@
 ---
 slug: albany-engineering-students-to-represent-nz
-title: "Albany Engineering Students to represent NZ"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/ED1211/S00192/albany-engineering-students-to-represent-nz.htm
+title: Albany Engineering Students to represent NZ
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00192/albany-engineering-students-to-represent-nz.htm
 author: massey-university
+permalink: /archive/2012/11/26/albany-engineering-students-to-represent-nz/index.html
+layout: layout.njk
 ---
 Albany Engineering Students to represent NZ
 ===========================================

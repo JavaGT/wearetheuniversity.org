@@ -1,9 +1,12 @@
 ---
 slug: keeping-otago-rugby-alive-and-kicking
-title: "Keeping Otago rugby alive and kicking"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/PA1202/S00329/keeping-otago-rugby-alive-and-kicking.htm
+title: Keeping Otago rugby alive and kicking
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00329/keeping-otago-rugby-alive-and-kicking.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/28/keeping-otago-rugby-alive-and-kicking/index.html
+layout: layout.njk
 ---
 Keeping Otago rugby alive and kicking
 =====================================

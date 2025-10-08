@@ -1,9 +1,11 @@
 ---
 slug: getting-auckland-moving
-title: "Getting Auckland Moving"
-date: 2005-12-16
+title: Getting Auckland Moving
+date: 2005-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0512/S00114/getting-auckland-moving.htm
 author: aut-university
+permalink: /archive/2005/12/16/getting-auckland-moving/index.html
+layout: layout.njk
 ---
 Getting Auckland Moving
 =======================

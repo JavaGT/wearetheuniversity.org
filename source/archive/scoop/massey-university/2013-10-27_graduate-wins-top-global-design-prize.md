@@ -1,9 +1,12 @@
 ---
 slug: graduate-wins-top-global-design-prize
-title: "Graduate wins top global design prize"
-date: 2013-10-27
-source-url: https://www.scoop.co.nz/stories/ED1310/S00171/graduate-wins-top-global-design-prize.htm
+title: Graduate wins top global design prize
+date: 2013-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00171/graduate-wins-top-global-design-prize.htm
 author: massey-university
+permalink: /archive/2013/10/27/graduate-wins-top-global-design-prize/index.html
+layout: layout.njk
 ---
 Graduate wins top global design prize
 =====================================

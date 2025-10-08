@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-business-law-reform-bill
-title: "Dr Pita Sharples - Business Law Reform Bill"
-date: 2006-07-20
-source-url: https://www.scoop.co.nz/stories/PA0607/S00301/dr-pita-sharples-business-law-reform-bill.htm
+title: Dr Pita Sharples - Business Law Reform Bill
+date: 2006-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00301/dr-pita-sharples-business-law-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/07/20/dr-pita-sharples-business-law-reform-bill/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples - Business Law Reform Bill
 ===========================================

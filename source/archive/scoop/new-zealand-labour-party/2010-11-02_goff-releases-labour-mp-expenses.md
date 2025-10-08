@@ -1,9 +1,12 @@
 ---
 slug: goff-releases-labour-mp-expenses
-title: "Goff releases Labour MP expenses"
-date: 2010-11-02
-source-url: https://www.scoop.co.nz/stories/PA1011/S00037/goff-releases-labour-mp-expenses.htm
+title: Goff releases Labour MP expenses
+date: 2010-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00037/goff-releases-labour-mp-expenses.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/02/goff-releases-labour-mp-expenses/index.html
+layout: layout.njk
 ---
 Goff releases Labour MP expenses
 ================================

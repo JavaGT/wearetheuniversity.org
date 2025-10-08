@@ -1,9 +1,12 @@
 ---
 slug: knowledge-gap-restricting-opportunity-for-māori-business
-title: "Knowledge gap restricting opportunity for Māori business"
-date: 2019-03-29
-source-url: https://www.scoop.co.nz/stories/BU1903/S00753/knowledge-gap-restricting-opportunity-for-maori-business.htm
+title: Knowledge gap restricting opportunity for Māori business
+date: 2019-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1903/S00753/knowledge-gap-restricting-opportunity-for-maori-business.htm
 author: massey-university
+permalink: /archive/2019/03/29/knowledge-gap-restricting-opportunity-for-m/index.html
+layout: layout.njk
 ---
 Knowledge gap restricting opportunity for Māori business
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: inspiring-students-to-change-the-world
-title: "Inspiring students to change the world"
-date: 2019-09-24
-source-url: https://www.scoop.co.nz/stories/ED1909/S00063/inspiring-students-to-change-the-world.htm
+title: Inspiring students to change the world
+date: 2019-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00063/inspiring-students-to-change-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/24/inspiring-students-to-change-the-world/index.html
+layout: layout.njk
 ---
 Inspiring students to change the world
 ======================================

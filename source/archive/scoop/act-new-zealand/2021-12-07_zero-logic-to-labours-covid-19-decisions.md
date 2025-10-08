@@ -1,9 +1,12 @@
 ---
 slug: zero-logic-to-labours-covid-19-decisions
-title: "Zero Logic To Labour’s COVID-19 Decisions"
-date: 2021-12-07
-source-url: https://www.scoop.co.nz/stories/PA2112/S00048/zero-logic-to-labours-covid-19-decisions.htm
+title: Zero Logic To Labour’s COVID-19 Decisions
+date: 2021-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00048/zero-logic-to-labours-covid-19-decisions.htm
 author: act-new-zealand
+permalink: /archive/2021/12/07/zero-logic-to-labours-covid-19-decisions/index.html
+layout: layout.njk
 ---
 Zero Logic To Labour’s COVID-19 Decisions
 =========================================

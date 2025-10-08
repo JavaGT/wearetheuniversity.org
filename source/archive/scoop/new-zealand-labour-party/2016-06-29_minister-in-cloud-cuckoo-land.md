@@ -1,9 +1,12 @@
 ---
 slug: minister-in-cloud-cuckoo-land
-title: "Minister in cloud cuckoo land"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00497/minister-in-cloud-cuckoo-land.htm
+title: Minister in cloud cuckoo land
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00497/minister-in-cloud-cuckoo-land.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/29/minister-in-cloud-cuckoo-land/index.html
+layout: layout.njk
 ---
 Minister in cloud cuckoo land
 =============================

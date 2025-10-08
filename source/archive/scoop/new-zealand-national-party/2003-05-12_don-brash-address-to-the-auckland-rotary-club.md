@@ -1,9 +1,12 @@
 ---
 slug: don-brash-address-to-the-auckland-rotary-club
-title: "Don Brash Address to the Auckland Rotary Club"
-date: 2003-05-12
-source-url: https://www.scoop.co.nz/stories/PA0305/S00266/don-brash-address-to-the-auckland-rotary-club.htm
+title: Don Brash Address to the Auckland Rotary Club
+date: 2003-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00266/don-brash-address-to-the-auckland-rotary-club.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/12/don-brash-address-to-the-auckland-rotary-club/index.html
+layout: layout.njk
 ---
 Don Brash Address to the Auckland Rotary Club
 =============================================

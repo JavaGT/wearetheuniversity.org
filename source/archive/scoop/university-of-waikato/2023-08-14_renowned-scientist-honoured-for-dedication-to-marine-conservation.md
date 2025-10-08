@@ -1,9 +1,13 @@
 ---
 slug: renowned-scientist-honoured-for-dedication-to-marine-conservation
-title: "Renowned Scientist Honoured For Dedication To Marine Conservation"
-date: 2023-08-14
-source-url: https://www.scoop.co.nz/stories/SC2308/S00026/renowned-scientist-honoured-for-dedication-to-marine-conservation.htm
+title: Renowned Scientist Honoured For Dedication To Marine Conservation
+date: 2023-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2308/S00026/renowned-scientist-honoured-for-dedication-to-marine-conservation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/08/14/renowned-scientist-honoured-for-dedication-to-marine-conservation/index.html
+layout: layout.njk
 ---
 Renowned Scientist Honoured For Dedication To Marine Conservation
 =================================================================

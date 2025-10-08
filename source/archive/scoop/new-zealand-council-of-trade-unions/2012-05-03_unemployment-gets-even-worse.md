@@ -1,9 +1,11 @@
 ---
 slug: unemployment-gets-even-worse
-title: "Unemployment gets even worse"
-date: 2012-05-03
+title: Unemployment gets even worse
+date: 2012-05-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1205/S00048/unemployment-gets-even-worse.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/05/03/unemployment-gets-even-worse/index.html
+layout: layout.njk
 ---
 Unemployment gets even worse
 ============================

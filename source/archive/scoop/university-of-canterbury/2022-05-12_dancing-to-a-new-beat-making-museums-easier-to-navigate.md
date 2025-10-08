@@ -1,9 +1,13 @@
 ---
 slug: dancing-to-a-new-beat-making-museums-easier-to-navigate
-title: "Dancing To A New Beat, Making Museums Easier To Navigate"
-date: 2022-05-12
-source-url: https://www.scoop.co.nz/stories/ED2205/S00024/dancing-to-a-new-beat-making-museums-easier-to-navigate.htm
+title: Dancing To A New Beat, Making Museums Easier To Navigate
+date: 2022-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00024/dancing-to-a-new-beat-making-museums-easier-to-navigate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/12/dancing-to-a-new-beat-making-museums-easier-to-navigate/index.html
+layout: layout.njk
 ---
 Dancing To A New Beat, Making Museums Easier To Navigate
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-hon-dr-nick-smith-valedictory
-title: "SPEECH: Hon Dr Nick Smith - Valedictory"
-date: 2021-06-10
-source-url: https://www.scoop.co.nz/stories/PA2106/S00081/speech-hon-dr-nick-smith-valedictory.htm
+title: 'SPEECH: Hon Dr Nick Smith - Valedictory'
+date: 2021-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00081/speech-hon-dr-nick-smith-valedictory.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/10/speech-hon-dr-nick-smith-valedictory/index.html
+layout: layout.njk
 ---
 SPEECH: Hon Dr Nick Smith - Valedictory
 =======================================

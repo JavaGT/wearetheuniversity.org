@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-1-october-2004
-title: "News Worthy - 1 October 2004"
-date: 2004-10-01
+title: News Worthy - 1 October 2004
+date: 2004-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0410/S00006/news-worthy-1-october-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/01/news-worthy-1-october-2004/index.html
+layout: layout.njk
 ---
 News Worthy - 1 October 2004
 ============================

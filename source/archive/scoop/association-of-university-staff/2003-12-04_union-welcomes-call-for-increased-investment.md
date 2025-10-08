@@ -1,9 +1,12 @@
 ---
 slug: union-welcomes-call-for-increased-investment
-title: "Union Welcomes Call For Increased Investment"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/ED0312/S00031/union-welcomes-call-for-increased-investment.htm
+title: Union Welcomes Call For Increased Investment
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00031/union-welcomes-call-for-increased-investment.htm
 author: association-of-university-staff
+permalink: /archive/2003/12/04/union-welcomes-call-for-increased-investment/index.html
+layout: layout.njk
 ---
 Union Welcomes Call For Increased Investment
 ============================================

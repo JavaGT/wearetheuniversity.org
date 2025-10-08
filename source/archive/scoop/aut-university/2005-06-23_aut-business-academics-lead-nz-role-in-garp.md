@@ -1,9 +1,12 @@
 ---
 slug: aut-business-academics-lead-nz-role-in-garp
-title: "AUT business academics lead NZ role in GARP"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/ED0506/S00066/aut-business-academics-lead-nz-role-in-garp.htm
+title: AUT business academics lead NZ role in GARP
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00066/aut-business-academics-lead-nz-role-in-garp.htm
 author: aut-university
+permalink: /archive/2005/06/23/aut-business-academics-lead-nz-role-in-garp/index.html
+layout: layout.njk
 ---
 AUT business academics lead NZ role in GARP
 ===========================================

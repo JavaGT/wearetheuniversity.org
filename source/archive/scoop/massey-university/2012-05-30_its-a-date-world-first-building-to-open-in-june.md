@@ -1,9 +1,12 @@
 ---
 slug: its-a-date-world-first-building-to-open-in-june
-title: "It’s A Date: World-First Building To Open In June"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/ED1205/S00154/its-a-date-world-first-building-to-open-in-june.htm
+title: 'It’s A Date: World-First Building To Open In June'
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00154/its-a-date-world-first-building-to-open-in-june.htm
 author: massey-university
+permalink: /archive/2012/05/30/its-a-date-world-first-building-to-open-in-june/index.html
+layout: layout.njk
 ---
 It’s A Date: World-First Building To Open In June
 =================================================

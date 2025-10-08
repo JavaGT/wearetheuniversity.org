@@ -1,9 +1,13 @@
 ---
 slug: dealing-with-the-long-tail-of-covid-our-economic-road-ahead
-title: "Dealing With The Long Tail Of Covid: Our Economic Road Ahead"
-date: 2022-02-22
-source-url: https://www.scoop.co.nz/stories/PO2202/S00182/dealing-with-the-long-tail-of-covid-our-economic-road-ahead.htm
+title: 'Dealing With The Long Tail Of Covid: Our Economic Road Ahead'
+date: 2022-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00182/dealing-with-the-long-tail-of-covid-our-economic-road-ahead.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/02/22/dealing-with-the-long-tail-of-covid-our-economic-road-ahead/index.html
+layout: layout.njk
 ---
 Dealing With The Long Tail Of Covid: Our Economic Road Ahead
 ============================================================

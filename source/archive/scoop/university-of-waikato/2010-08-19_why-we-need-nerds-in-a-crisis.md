@@ -1,9 +1,12 @@
 ---
 slug: why-we-need-nerds-in-a-crisis
-title: "Why we need nerds in a crisis"
-date: 2010-08-19
-source-url: https://www.scoop.co.nz/stories/ED1008/S00076/why-we-need-nerds-in-a-crisis.htm
+title: Why we need nerds in a crisis
+date: 2010-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00076/why-we-need-nerds-in-a-crisis.htm
 author: university-of-waikato
+permalink: /archive/2010/08/19/why-we-need-nerds-in-a-crisis/index.html
+layout: layout.njk
 ---
 Why we need nerds in a crisis
 =============================

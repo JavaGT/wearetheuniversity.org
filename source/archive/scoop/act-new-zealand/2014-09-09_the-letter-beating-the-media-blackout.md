@@ -1,9 +1,12 @@
 ---
 slug: the-letter-beating-the-media-blackout
-title: "The Letter: Beating the media blackout"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/PO1409/S00178/the-letter-beating-the-media-blackout.htm
+title: 'The Letter: Beating the media blackout'
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00178/the-letter-beating-the-media-blackout.htm
 author: act-new-zealand
+permalink: /archive/2014/09/09/the-letter-beating-the-media-blackout/index.html
+layout: layout.njk
 ---
 The Letter: Beating the media blackout
 ======================================

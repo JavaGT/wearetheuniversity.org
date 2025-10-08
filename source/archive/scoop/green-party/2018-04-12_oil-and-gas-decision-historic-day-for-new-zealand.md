@@ -1,9 +1,13 @@
 ---
 slug: oil-and-gas-decision-historic-day-for-new-zealand
-title: "Oil and gas decision historic day for New Zealand"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00134/oil-and-gas-decision-historic-day-for-new-zealand.htm
+title: Oil and gas decision historic day for New Zealand
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00134/oil-and-gas-decision-historic-day-for-new-zealand.htm
 author: green-party
+permalink: >-
+  /archive/2018/04/12/oil-and-gas-decision-historic-day-for-new-zealand/index.html
+layout: layout.njk
 ---
 Oil and gas decision historic day for New Zealand
 =================================================

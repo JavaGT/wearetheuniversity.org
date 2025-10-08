@@ -1,9 +1,12 @@
 ---
 slug: lessons-from-us-civil-rights-movement-for-maori
-title: "Lessons From US Civil Rights Movement for Maori"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/PA1608/S00481/lessons-from-us-civil-rights-movement-for-maori.htm
+title: Lessons From US Civil Rights Movement for Maori
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00481/lessons-from-us-civil-rights-movement-for-maori.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/26/lessons-from-us-civil-rights-movement-for-maori/index.html
+layout: layout.njk
 ---
 Lessons From US Civil Rights Movement for Maori
 ===============================================

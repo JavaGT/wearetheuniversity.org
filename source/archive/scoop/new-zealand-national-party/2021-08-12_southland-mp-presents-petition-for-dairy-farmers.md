@@ -1,9 +1,13 @@
 ---
 slug: southland-mp-presents-petition-for-dairy-farmers
-title: "Southland MP Presents Petition For Dairy Farmers"
-date: 2021-08-12
-source-url: https://www.scoop.co.nz/stories/PA2108/S00126/southland-mp-presents-petition-for-dairy-farmers.htm
+title: Southland MP Presents Petition For Dairy Farmers
+date: 2021-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00126/southland-mp-presents-petition-for-dairy-farmers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/12/southland-mp-presents-petition-for-dairy-farmers/index.html
+layout: layout.njk
 ---
 Southland MP Presents Petition For Dairy Farmers
 ================================================

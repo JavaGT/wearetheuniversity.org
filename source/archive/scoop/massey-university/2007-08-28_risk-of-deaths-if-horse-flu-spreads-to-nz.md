@@ -1,9 +1,12 @@
 ---
 slug: risk-of-deaths-if-horse-flu-spreads-to-nz
-title: "Risk of deaths if horse flu spreads to NZ"
-date: 2007-08-28
-source-url: https://www.scoop.co.nz/stories/SC0708/S00067/risk-of-deaths-if-horse-flu-spreads-to-nz.htm
+title: Risk of deaths if horse flu spreads to NZ
+date: 2007-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0708/S00067/risk-of-deaths-if-horse-flu-spreads-to-nz.htm
 author: massey-university
+permalink: /archive/2007/08/28/risk-of-deaths-if-horse-flu-spreads-to-nz/index.html
+layout: layout.njk
 ---
 Risk of deaths if horse flu spreads to NZ
 =========================================

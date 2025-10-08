@@ -1,9 +1,12 @@
 ---
 slug: $16m-of-research-grants-to-three-massey-projects
-title: "$16m of research grants to three Massey projects"
-date: 2009-07-16
-source-url: https://www.scoop.co.nz/stories/ED0907/S00070/16m-of-research-grants-to-three-massey-projects.htm
+title: $16m of research grants to three Massey projects
+date: 2009-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00070/16m-of-research-grants-to-three-massey-projects.htm
 author: massey-university
+permalink: /archive/2009/07/16/16m-of-research-grants-to-three-massey-projects/index.html
+layout: layout.njk
 ---
 $16m of research grants to three Massey projects
 ================================================

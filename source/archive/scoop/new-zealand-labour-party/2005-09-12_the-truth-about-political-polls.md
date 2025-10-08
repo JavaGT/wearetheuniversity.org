@@ -1,9 +1,12 @@
 ---
 slug: the-truth-about-political-polls
-title: "The Truth About Political Polls"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PO0509/S00138/the-truth-about-political-polls.htm
+title: The Truth About Political Polls
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00138/the-truth-about-political-polls.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/12/the-truth-about-political-polls/index.html
+layout: layout.njk
 ---
 The Truth About Political Polls
 ===============================

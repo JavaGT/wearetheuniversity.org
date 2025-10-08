@@ -1,9 +1,12 @@
 ---
 slug: steven-shifts-support-away-from-students
-title: "Steven Shifts Support Away From Students"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/ED1405/S00088/steven-shifts-support-away-from-students.htm
+title: Steven Shifts Support Away From Students
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00088/steven-shifts-support-away-from-students.htm
 author: victoria-university-students-association
+permalink: /archive/2014/05/16/steven-shifts-support-away-from-students/index.html
+layout: layout.njk
 ---
 Steven Shifts Support Away From Students
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-supports-campaign-to-save-student-services
-title: "Labour supports campaign to save student services"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/PA1003/S00075/labour-supports-campaign-to-save-student-services.htm
+title: Labour supports campaign to save student services
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00075/labour-supports-campaign-to-save-student-services.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/04/labour-supports-campaign-to-save-student-services/index.html
+layout: layout.njk
 ---
 Labour supports campaign to save student services
 =================================================

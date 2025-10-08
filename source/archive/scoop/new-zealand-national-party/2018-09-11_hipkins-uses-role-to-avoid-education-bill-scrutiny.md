@@ -1,9 +1,13 @@
 ---
 slug: hipkins-uses-role-to-avoid-education-bill-scrutiny
-title: "Hipkins uses role to avoid Education Bill scrutiny"
-date: 2018-09-11
-source-url: https://www.scoop.co.nz/stories/PA1809/S00136/hipkins-uses-role-to-avoid-education-bill-scrutiny.htm
+title: Hipkins uses role to avoid Education Bill scrutiny
+date: 2018-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00136/hipkins-uses-role-to-avoid-education-bill-scrutiny.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/09/11/hipkins-uses-role-to-avoid-education-bill-scrutiny/index.html
+layout: layout.njk
 ---
 Hipkins uses role to avoid Education Bill scrutiny
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: its-all-coming-up-clover
-title: "It's all coming up clover"
-date: 2011-07-04
+title: It's all coming up clover
+date: 2011-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1107/S00007/its-all-coming-up-clover.htm
 author: lincoln-university
+permalink: /archive/2011/07/04/its-all-coming-up-clover/index.html
+layout: layout.njk
 ---
 It's all coming up clover
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: from-world-war-ii-to-wellywood
-title: "From World War II to Wellywood"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/CU1007/S00043/from-world-war-ii-to-wellywood.htm
+title: From World War II to Wellywood
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00043/from-world-war-ii-to-wellywood.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/05/from-world-war-ii-to-wellywood/index.html
+layout: layout.njk
 ---
 From World War II to Wellywood
 ==============================

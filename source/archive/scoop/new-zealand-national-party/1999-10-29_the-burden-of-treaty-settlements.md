@@ -1,9 +1,12 @@
 ---
 slug: the-burden-of-treaty-settlements
-title: "The Burden Of Treaty Settlements"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PO9910/S00125/the-burden-of-treaty-settlements.htm
+title: The Burden Of Treaty Settlements
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00125/the-burden-of-treaty-settlements.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/29/the-burden-of-treaty-settlements/index.html
+layout: layout.njk
 ---
 The Burden Of Treaty Settlements
 ================================

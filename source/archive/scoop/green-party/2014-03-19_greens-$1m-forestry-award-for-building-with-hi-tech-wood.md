@@ -1,9 +1,12 @@
 ---
 slug: greens-$1m-forestry-award-for-building-with-hi-tech-wood
-title: "Greens: $1m forestry award for building with hi-tech wood"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/PA1403/S00358/greens-1m-forestry-award-for-building-with-hi-tech-wood.htm
+title: 'Greens: $1m forestry award for building with hi-tech wood'
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00358/greens-1m-forestry-award-for-building-with-hi-tech-wood.htm
 author: green-party
+permalink: /archive/2014/03/19/greens-/index.html
+layout: layout.njk
 ---
 Greens: $1m forestry award for building with hi-tech wood
 =========================================================

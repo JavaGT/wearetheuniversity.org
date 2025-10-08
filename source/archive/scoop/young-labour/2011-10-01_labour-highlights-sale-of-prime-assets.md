@@ -1,9 +1,12 @@
 ---
 slug: labour-highlights-sale-of-prime-assets
-title: "Labour Highlights Sale of Prime Assets"
-date: 2011-10-01
-source-url: https://www.scoop.co.nz/stories/PO1110/S00002/labour-highlights-sale-of-prime-assets.htm
+title: Labour Highlights Sale of Prime Assets
+date: 2011-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00002/labour-highlights-sale-of-prime-assets.htm
 author: young-labour
+permalink: /archive/2011/10/01/labour-highlights-sale-of-prime-assets/index.html
+layout: layout.njk
 ---
 Labour Highlights Sale of Prime Assets
 ======================================

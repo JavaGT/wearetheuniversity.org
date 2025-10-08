@@ -1,9 +1,12 @@
 ---
 slug: get-with-the-programme-mr-key
-title: "Get with the programme Mr Key"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/PA1402/S00089/get-with-the-programme-mr-key.htm
+title: Get with the programme Mr Key
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00089/get-with-the-programme-mr-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/10/get-with-the-programme-mr-key/index.html
+layout: layout.njk
 ---
 Get with the programme Mr Key
 =============================

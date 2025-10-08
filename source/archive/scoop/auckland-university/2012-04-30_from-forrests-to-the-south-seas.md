@@ -1,9 +1,12 @@
 ---
 slug: from-forrests-to-the-south-seas
-title: "From Forrests to the South Seas"
-date: 2012-04-30
-source-url: https://www.scoop.co.nz/stories/CU1204/S00479/from-forrests-to-the-south-seas.htm
+title: From Forrests to the South Seas
+date: 2012-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1204/S00479/from-forrests-to-the-south-seas.htm
 author: auckland-university
+permalink: /archive/2012/04/30/from-forrests-to-the-south-seas/index.html
+layout: layout.njk
 ---
 From Forrests to the South Seas
 ===============================

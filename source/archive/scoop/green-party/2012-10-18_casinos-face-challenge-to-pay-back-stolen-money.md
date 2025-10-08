@@ -1,9 +1,12 @@
 ---
 slug: casinos-face-challenge-to-pay-back-stolen-money
-title: "Casinos face challenge to pay back stolen money"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00328/casinos-face-challenge-to-pay-back-stolen-money.htm
+title: Casinos face challenge to pay back stolen money
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00328/casinos-face-challenge-to-pay-back-stolen-money.htm
 author: green-party
+permalink: /archive/2012/10/18/casinos-face-challenge-to-pay-back-stolen-money/index.html
+layout: layout.njk
 ---
 Casinos face challenge to pay back stolen money
 ===============================================

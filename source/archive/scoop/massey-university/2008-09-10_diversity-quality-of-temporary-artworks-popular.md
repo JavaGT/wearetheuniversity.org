@@ -1,9 +1,12 @@
 ---
 slug: diversity-quality-of-temporary-artworks-popular
-title: "Diversity, quality of temporary artworks popular"
-date: 2008-09-10
-source-url: https://www.scoop.co.nz/stories/CU0809/S00143/diversity-quality-of-temporary-artworks-popular.htm
+title: Diversity, quality of temporary artworks popular
+date: 2008-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00143/diversity-quality-of-temporary-artworks-popular.htm
 author: massey-university
+permalink: /archive/2008/09/10/diversity-quality-of-temporary-artworks-popular/index.html
+layout: layout.njk
 ---
 Diversity, quality of temporary artworks popular
 ================================================

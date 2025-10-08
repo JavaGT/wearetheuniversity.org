@@ -1,9 +1,12 @@
 ---
 slug: crown-land-sold-at-bargain-basement-prices
-title: "Crown land sold at bargain basement prices"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00047/crown-land-sold-at-bargain-basement-prices.htm
+title: Crown land sold at bargain basement prices
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00047/crown-land-sold-at-bargain-basement-prices.htm
 author: green-party
+permalink: /archive/2015/07/02/crown-land-sold-at-bargain-basement-prices/index.html
+layout: layout.njk
 ---
 Crown land sold at bargain basement prices
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: assistant-vice-chancellor-(maori)-appointed-at-vuw
-title: "Assistant Vice-Chancellor (Maori) appointed at VUW"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/ED0005/S00037/assistant-vice-chancellor-maori-appointed-at-vuw.htm
+title: Assistant Vice-Chancellor (Maori) appointed at VUW
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00037/assistant-vice-chancellor-maori-appointed-at-vuw.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/26/assistant-vice-chancellor-/index.html
+layout: layout.njk
 ---
 Assistant Vice-Chancellor (Maori) appointed at VUW
 ==================================================

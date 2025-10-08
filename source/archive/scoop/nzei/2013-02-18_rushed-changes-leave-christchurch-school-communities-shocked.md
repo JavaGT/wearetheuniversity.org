@@ -1,9 +1,13 @@
 ---
 slug: rushed-changes-leave-christchurch-school-communities-shocked
-title: "Rushed changes leave Christchurch school communities shocked"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00089/rushed-changes-leave-christchurch-school-communities-shocked.htm
+title: Rushed changes leave Christchurch school communities shocked
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00089/rushed-changes-leave-christchurch-school-communities-shocked.htm
 author: nzei
+permalink: >-
+  /archive/2013/02/18/rushed-changes-leave-christchurch-school-communities-shocked/index.html
+layout: layout.njk
 ---
 Rushed changes leave Christchurch school communities shocked
 ============================================================

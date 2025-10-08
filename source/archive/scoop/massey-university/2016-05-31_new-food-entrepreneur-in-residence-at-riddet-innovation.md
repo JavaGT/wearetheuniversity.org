@@ -1,9 +1,13 @@
 ---
 slug: new-food-entrepreneur-in-residence-at-riddet-innovation
-title: "New food entrepreneur in residence at Riddet Innovation"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/ED1605/S00133/new-food-entrepreneur-in-residence-at-riddet-innovation.htm
+title: New food entrepreneur in residence at Riddet Innovation
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00133/new-food-entrepreneur-in-residence-at-riddet-innovation.htm
 author: massey-university
+permalink: >-
+  /archive/2016/05/31/new-food-entrepreneur-in-residence-at-riddet-innovation/index.html
+layout: layout.njk
 ---
 New food entrepreneur in residence at Riddet Innovation
 =======================================================

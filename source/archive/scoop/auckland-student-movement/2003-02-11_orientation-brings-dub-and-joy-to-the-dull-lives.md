@@ -1,9 +1,13 @@
 ---
 slug: orientation-brings-dub-and-joy-to-the-dull-lives
-title: "Orientation brings dub and joy to the dull lives"
-date: 2003-02-11
-source-url: https://www.scoop.co.nz/stories/ED0302/S00012/orientation-brings-dub-and-joy-to-the-dull-lives.htm
+title: Orientation brings dub and joy to the dull lives
+date: 2003-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00012/orientation-brings-dub-and-joy-to-the-dull-lives.htm
 author: auckland-student-movement
+permalink: >-
+  /archive/2003/02/11/orientation-brings-dub-and-joy-to-the-dull-lives/index.html
+layout: layout.njk
 ---
 Orientation brings dub and joy to the dull lives
 ================================================

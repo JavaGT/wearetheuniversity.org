@@ -1,9 +1,12 @@
 ---
 slug: nzei-simply-wrong-on-charter-school-facts
-title: "NZEI Simply Wrong On Charter School Facts"
-date: 2018-02-09
-source-url: https://www.scoop.co.nz/stories/PA1802/S00072/nzei-simply-wrong-on-charter-school-facts.htm
+title: NZEI Simply Wrong On Charter School Facts
+date: 2018-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00072/nzei-simply-wrong-on-charter-school-facts.htm
 author: act-new-zealand
+permalink: /archive/2018/02/09/nzei-simply-wrong-on-charter-school-facts/index.html
+layout: layout.njk
 ---
 NZEI Simply Wrong On Charter School Facts
 =========================================

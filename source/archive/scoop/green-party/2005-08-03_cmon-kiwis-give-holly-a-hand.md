@@ -1,9 +1,11 @@
 ---
 slug: cmon-kiwis-give-holly-a-hand
-title: "C'mon Kiwis, give Holly a hand"
-date: 2005-08-03
+title: C'mon Kiwis, give Holly a hand
+date: 2005-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00090/cmon-kiwis-give-holly-a-hand.htm
 author: green-party
+permalink: /archive/2005/08/03/cmon-kiwis-give-holly-a-hand/index.html
+layout: layout.njk
 ---
 C'mon Kiwis, give Holly a hand
 ==============================

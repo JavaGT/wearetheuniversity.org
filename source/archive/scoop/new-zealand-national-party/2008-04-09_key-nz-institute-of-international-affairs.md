@@ -1,9 +1,12 @@
 ---
 slug: key-nz-institute-of-international-affairs
-title: "Key: NZ Institute of International Affairs"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PA0804/S00230/key-nz-institute-of-international-affairs.htm
+title: 'Key: NZ Institute of International Affairs'
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00230/key-nz-institute-of-international-affairs.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/09/key-nz-institute-of-international-affairs/index.html
+layout: layout.njk
 ---
 Key: NZ Institute of International Affairs
 ==========================================

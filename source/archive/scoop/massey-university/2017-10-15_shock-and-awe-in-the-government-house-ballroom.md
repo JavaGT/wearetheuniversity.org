@@ -1,9 +1,12 @@
 ---
 slug: shock-and-awe-in-the-government-house-ballroom
-title: "Shock and awe in the Government House Ballroom"
-date: 2017-10-15
-source-url: https://www.scoop.co.nz/stories/ED1710/S00042/shock-and-awe-in-the-government-house-ballroom.htm
+title: Shock and awe in the Government House Ballroom
+date: 2017-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00042/shock-and-awe-in-the-government-house-ballroom.htm
 author: massey-university
+permalink: /archive/2017/10/15/shock-and-awe-in-the-government-house-ballroom/index.html
+layout: layout.njk
 ---
 Shock and awe in the Government House Ballroom
 ==============================================

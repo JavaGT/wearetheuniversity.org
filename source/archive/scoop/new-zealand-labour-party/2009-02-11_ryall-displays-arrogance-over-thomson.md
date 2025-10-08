@@ -1,9 +1,12 @@
 ---
 slug: ryall-displays-arrogance-over-thomson
-title: "Ryall displays arrogance - over Thomson"
-date: 2009-02-11
-source-url: https://www.scoop.co.nz/stories/PA0902/S00166/ryall-displays-arrogance-over-thomson.htm
+title: Ryall displays arrogance - over Thomson
+date: 2009-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00166/ryall-displays-arrogance-over-thomson.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/11/ryall-displays-arrogance-over-thomson/index.html
+layout: layout.njk
 ---
 Ryall displays arrogance - over Thomson
 =======================================

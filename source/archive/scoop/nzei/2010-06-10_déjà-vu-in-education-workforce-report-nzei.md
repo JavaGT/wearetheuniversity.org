@@ -1,9 +1,12 @@
 ---
 slug: déjà-vu-in-education-workforce-report-nzei
-title: "Déjà Vu in Education Workforce Report - NZEI"
-date: 2010-06-10
-source-url: https://www.scoop.co.nz/stories/ED1006/S00036/deja-vu-in-education-workforce-report-nzei.htm
+title: Déjà Vu in Education Workforce Report - NZEI
+date: 2010-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00036/deja-vu-in-education-workforce-report-nzei.htm
 author: nzei
+permalink: /archive/2010/06/10/d/index.html
+layout: layout.njk
 ---
 Déjà Vu in Education Workforce Report - NZEI
 ============================================

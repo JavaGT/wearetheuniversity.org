@@ -1,9 +1,12 @@
 ---
 slug: large-increase-in-new-zealand-sunbed-services
-title: "Large increase in New Zealand sunbed services"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/GE0808/S00105/large-increase-in-new-zealand-sunbed-services.htm
+title: Large increase in New Zealand sunbed services
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00105/large-increase-in-new-zealand-sunbed-services.htm
 author: university-of-otago
+permalink: /archive/2008/08/21/large-increase-in-new-zealand-sunbed-services/index.html
+layout: layout.njk
 ---
 Large increase in New Zealand sunbed services
 =============================================

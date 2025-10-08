@@ -1,9 +1,12 @@
 ---
 slug: scholarship-for-oil-rock-research
-title: "Scholarship for oil rock research"
-date: 2009-01-30
-source-url: https://www.scoop.co.nz/stories/ED0901/S00045/scholarship-for-oil-rock-research.htm
+title: Scholarship for oil rock research
+date: 2009-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00045/scholarship-for-oil-rock-research.htm
 author: university-of-waikato
+permalink: /archive/2009/01/30/scholarship-for-oil-rock-research/index.html
+layout: layout.njk
 ---
 Scholarship for oil rock research
 =================================

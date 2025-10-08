@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-victoria-fee-decision
-title: "Students Welcome Victoria Fee Decision"
-date: 2006-09-06
-source-url: https://www.scoop.co.nz/stories/ED0609/S00018/students-welcome-victoria-fee-decision.htm
+title: Students Welcome Victoria Fee Decision
+date: 2006-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00018/students-welcome-victoria-fee-decision.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/09/06/students-welcome-victoria-fee-decision/index.html
+layout: layout.njk
 ---
 Students Welcome Victoria Fee Decision
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: inability-to-sustain-a-deployment-a-national-disgrace
-title: "Inability to sustain a deployment a National disgrace"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/PA1406/S00434/inability-to-sustain-a-deployment-a-national-disgrace.htm
+title: Inability to sustain a deployment a National disgrace
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00434/inability-to-sustain-a-deployment-a-national-disgrace.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/06/27/inability-to-sustain-a-deployment-a-national-disgrace/index.html
+layout: layout.njk
 ---
 Inability to sustain a deployment a National disgrace
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-hits-low-income-earners-again
-title: "Government Hits Low Income Earners Again"
-date: 2001-05-03
-source-url: https://www.scoop.co.nz/stories/ED0105/S00002/government-hits-low-income-earners-again.htm
+title: Government Hits Low Income Earners Again
+date: 2001-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00002/government-hits-low-income-earners-again.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/03/government-hits-low-income-earners-again/index.html
+layout: layout.njk
 ---
 Government Hits Low Income Earners Again
 ========================================

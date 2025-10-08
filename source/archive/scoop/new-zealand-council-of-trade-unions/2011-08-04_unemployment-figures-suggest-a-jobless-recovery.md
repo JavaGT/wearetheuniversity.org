@@ -1,9 +1,12 @@
 ---
 slug: unemployment-figures-suggest-a-jobless-recovery
-title: "Unemployment Figures Suggest a Jobless Recovery"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00046/unemployment-figures-suggest-a-jobless-recovery.htm
+title: Unemployment Figures Suggest a Jobless Recovery
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00046/unemployment-figures-suggest-a-jobless-recovery.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/08/04/unemployment-figures-suggest-a-jobless-recovery/index.html
+layout: layout.njk
 ---
 Unemployment Figures Suggest a Jobless Recovery
 ===============================================

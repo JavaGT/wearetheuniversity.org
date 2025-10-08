@@ -1,9 +1,12 @@
 ---
 slug: false-tb-results-show-change-is-needed
-title: "False TB Results Show Change is Needed"
-date: 2015-06-13
-source-url: https://www.scoop.co.nz/stories/PA1506/S00220/false-tb-results-show-change-is-needed.htm
+title: False TB Results Show Change is Needed
+date: 2015-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00220/false-tb-results-show-change-is-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/13/false-tb-results-show-change-is-needed/index.html
+layout: layout.njk
 ---
 False TB Results Show Change is Needed
 ======================================

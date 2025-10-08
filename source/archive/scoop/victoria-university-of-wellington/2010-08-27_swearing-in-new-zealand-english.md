@@ -1,9 +1,12 @@
 ---
 slug: swearing-in-new-zealand-english
-title: "Swearing in New Zealand English"
-date: 2010-08-27
-source-url: https://www.scoop.co.nz/stories/CU1008/S00381/swearing-in-new-zealand-english.htm
+title: Swearing in New Zealand English
+date: 2010-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00381/swearing-in-new-zealand-english.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/08/27/swearing-in-new-zealand-english/index.html
+layout: layout.njk
 ---
 Swearing in New Zealand English
 ===============================

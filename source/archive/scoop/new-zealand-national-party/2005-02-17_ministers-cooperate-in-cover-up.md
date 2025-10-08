@@ -1,9 +1,12 @@
 ---
 slug: ministers-cooperate-in-cover-up
-title: "Ministers cooperate in cover-up"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00400/ministers-cooperate-in-cover-up.htm
+title: Ministers cooperate in cover-up
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00400/ministers-cooperate-in-cover-up.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/17/ministers-cooperate-in-cover-up/index.html
+layout: layout.njk
 ---
 Ministers cooperate in cover-up
 ===============================

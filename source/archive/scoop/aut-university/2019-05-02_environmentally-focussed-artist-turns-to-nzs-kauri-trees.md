@@ -1,9 +1,13 @@
 ---
 slug: environmentally-focussed-artist-turns-to-nzs-kauri-trees
-title: "Environmentally focussed artist turns to NZ’s Kauri trees"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/CU1905/S00019/environmentally-focussed-artist-turns-to-nzs-kauri-trees.htm
+title: Environmentally focussed artist turns to NZ’s Kauri trees
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1905/S00019/environmentally-focussed-artist-turns-to-nzs-kauri-trees.htm
 author: aut-university
+permalink: >-
+  /archive/2019/05/02/environmentally-focussed-artist-turns-to-nzs-kauri-trees/index.html
+layout: layout.njk
 ---
 Environmentally focussed artist turns to NZ’s Kauri trees
 =========================================================

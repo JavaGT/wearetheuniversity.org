@@ -1,9 +1,12 @@
 ---
 slug: nzier-backs-midwives-call-for-pay-equity
-title: "NZIER Backs Midwives Call For Pay Equity"
-date: 2020-03-06
-source-url: https://www.scoop.co.nz/stories/PO2003/S00060/nzier-backs-midwives-call-for-pay-equity.htm
+title: NZIER Backs Midwives Call For Pay Equity
+date: 2020-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00060/nzier-backs-midwives-call-for-pay-equity.htm
 author: nzier
+permalink: /archive/2020/03/06/nzier-backs-midwives-call-for-pay-equity/index.html
+layout: layout.njk
 ---
 NZIER Backs Midwives Call For Pay Equity
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: national-should-stop-sending-conflicting-messages
-title: "National Should Stop Sending Conflicting Messages"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/ED0810/S00057/national-should-stop-sending-conflicting-messages.htm
+title: National Should Stop Sending Conflicting Messages
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00057/national-should-stop-sending-conflicting-messages.htm
 author: nzei
+permalink: >-
+  /archive/2008/10/15/national-should-stop-sending-conflicting-messages/index.html
+layout: layout.njk
 ---
 National Should Stop Sending Conflicting Messages
 =================================================

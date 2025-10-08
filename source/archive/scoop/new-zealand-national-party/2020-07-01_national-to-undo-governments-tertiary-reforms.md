@@ -1,9 +1,12 @@
 ---
 slug: national-to-undo-governments-tertiary-reforms
-title: "National To Undo Government’s Tertiary Reforms"
-date: 2020-07-01
-source-url: https://www.scoop.co.nz/stories/PA2007/S00005/national-to-undo-governments-tertiary-reforms.htm
+title: National To Undo Government’s Tertiary Reforms
+date: 2020-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00005/national-to-undo-governments-tertiary-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/01/national-to-undo-governments-tertiary-reforms/index.html
+layout: layout.njk
 ---
 National To Undo Government’s Tertiary Reforms
 ==============================================

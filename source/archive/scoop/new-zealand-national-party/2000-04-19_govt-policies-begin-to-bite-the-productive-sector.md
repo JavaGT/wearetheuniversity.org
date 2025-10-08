@@ -1,9 +1,13 @@
 ---
 slug: govt-policies-begin-to-bite-the-productive-sector
-title: "Govt. policies begin to bite the productive sector"
-date: 2000-04-19
-source-url: https://www.scoop.co.nz/stories/PA0004/S00263/govt-policies-begin-to-bite-the-productive-sector.htm
+title: Govt. policies begin to bite the productive sector
+date: 2000-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00263/govt-policies-begin-to-bite-the-productive-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/04/19/govt-policies-begin-to-bite-the-productive-sector/index.html
+layout: layout.njk
 ---
 Govt. policies begin to bite the productive sector
 ==================================================

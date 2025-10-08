@@ -1,9 +1,12 @@
 ---
 slug: a-10-day-party-in-the-garden-city
-title: "A 10 day party in the Garden City."
-date: 2010-02-12
-source-url: https://www.scoop.co.nz/stories/CU1002/S00263/a-10-day-party-in-the-garden-city.htm
+title: A 10 day party in the Garden City.
+date: 2010-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1002/S00263/a-10-day-party-in-the-garden-city.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2010/02/12/a-10-day-party-in-the-garden-city/index.html
+layout: layout.njk
 ---
 A 10 day party in the Garden City.
 ==================================

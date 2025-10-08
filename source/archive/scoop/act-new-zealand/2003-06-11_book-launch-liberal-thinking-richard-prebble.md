@@ -1,9 +1,12 @@
 ---
 slug: book-launch-liberal-thinking-richard-prebble
-title: "Book Launch Liberal Thinking -- Richard Prebble"
-date: 2003-06-11
-source-url: https://www.scoop.co.nz/stories/PA0306/S00167/book-launch-liberal-thinking-richard-prebble.htm
+title: Book Launch Liberal Thinking -- Richard Prebble
+date: 2003-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00167/book-launch-liberal-thinking-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2003/06/11/book-launch-liberal-thinking-richard-prebble/index.html
+layout: layout.njk
 ---
 Book Launch Liberal Thinking -- Richard Prebble
 ===============================================

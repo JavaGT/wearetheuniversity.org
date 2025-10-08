@@ -1,9 +1,11 @@
 ---
 slug: appropriation-debate
-title: "Appropriation Debate"
-date: 2010-08-03
+title: Appropriation Debate
+date: 2010-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1008/S00035/appropriation-debate.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/03/appropriation-debate/index.html
+layout: layout.njk
 ---
 Appropriation Debate
 ====================

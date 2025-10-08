@@ -1,9 +1,13 @@
 ---
 slug: scholarly-favourites-researching-in-special-collections
-title: "Scholarly Favourites. Researching in Special Collections"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/ED1605/S00130/scholarly-favourites-researching-in-special-collections.htm
+title: Scholarly Favourites. Researching in Special Collections
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00130/scholarly-favourites-researching-in-special-collections.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/31/scholarly-favourites-researching-in-special-collections/index.html
+layout: layout.njk
 ---
 Scholarly Favourites. Researching in Special Collections
 ========================================================

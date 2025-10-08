@@ -1,9 +1,13 @@
 ---
 slug: young-women-in-rugby-join-canterbury-concussion-study
-title: "Young Women In Rugby Join Canterbury Concussion Study"
-date: 2021-11-29
-source-url: https://www.scoop.co.nz/stories/GE2111/S00202/young-women-in-rugby-join-canterbury-concussion-study.htm
+title: Young Women In Rugby Join Canterbury Concussion Study
+date: 2021-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2111/S00202/young-women-in-rugby-join-canterbury-concussion-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/29/young-women-in-rugby-join-canterbury-concussion-study/index.html
+layout: layout.njk
 ---
 Young Women In Rugby Join Canterbury Concussion Study
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: deportation-of-indian-students-shows-need-for-a-rule-change
-title: "Deportation of Indian students shows need for a rule change"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PO1807/S00042/deportation-of-indian-students-shows-need-for-a-rule-change.htm
+title: Deportation of Indian students shows need for a rule change
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00042/deportation-of-indian-students-shows-need-for-a-rule-change.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/07/03/deportation-of-indian-students-shows-need-for-a-rule-change/index.html
+layout: layout.njk
 ---
 Deportation of Indian students shows need for a rule change
 ===========================================================

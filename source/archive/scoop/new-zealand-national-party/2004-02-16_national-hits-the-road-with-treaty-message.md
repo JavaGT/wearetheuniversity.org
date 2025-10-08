@@ -1,9 +1,12 @@
 ---
 slug: national-hits-the-road-with-treaty-message
-title: "National hits the road with Treaty message"
-date: 2004-02-16
-source-url: https://www.scoop.co.nz/stories/PA0402/S00240/national-hits-the-road-with-treaty-message.htm
+title: National hits the road with Treaty message
+date: 2004-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00240/national-hits-the-road-with-treaty-message.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/16/national-hits-the-road-with-treaty-message/index.html
+layout: layout.njk
 ---
 National hits the road with Treaty message
 ==========================================

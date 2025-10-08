@@ -1,9 +1,13 @@
 ---
 slug: children-celebrate-graduation-at-christchurch-town-hall
-title: "Children Celebrate ‘graduation’ At Christchurch Town Hall"
-date: 2023-12-01
-source-url: https://www.scoop.co.nz/stories/ED2312/S00001/children-celebrate-graduation-at-christchurch-town-hall.htm
+title: Children Celebrate ‘graduation’ At Christchurch Town Hall
+date: 2023-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00001/children-celebrate-graduation-at-christchurch-town-hall.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/12/01/children-celebrate-graduation-at-christchurch-town-hall/index.html
+layout: layout.njk
 ---
 Children Celebrate ‘graduation’ At Christchurch Town Hall
 =========================================================

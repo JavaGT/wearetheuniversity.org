@@ -1,9 +1,11 @@
 ---
 slug: free-press-august-6-2018
-title: "Free Press -  August 6 2018"
-date: 2018-08-06
+title: Free Press -  August 6 2018
+date: 2018-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1808/S00057/free-press-august-6-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/08/06/free-press-august-6-2018/index.html
+layout: layout.njk
 ---
 Free Press - August 6 2018
 ==========================

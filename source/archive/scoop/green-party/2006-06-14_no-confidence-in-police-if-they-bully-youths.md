@@ -1,9 +1,12 @@
 ---
 slug: no-confidence-in-police-if-they-bully-youths
-title: "No confidence in police if they bully youths"
-date: 2006-06-14
-source-url: https://www.scoop.co.nz/stories/PA0606/S00224/no-confidence-in-police-if-they-bully-youths.htm
+title: No confidence in police if they bully youths
+date: 2006-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00224/no-confidence-in-police-if-they-bully-youths.htm
 author: green-party
+permalink: /archive/2006/06/14/no-confidence-in-police-if-they-bully-youths/index.html
+layout: layout.njk
 ---
 No confidence in police if they bully youths
 ============================================

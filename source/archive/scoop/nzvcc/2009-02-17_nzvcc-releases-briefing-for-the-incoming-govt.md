@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-releases-briefing-for-the-incoming-govt
-title: "NZVCC releases Briefing for the Incoming Govt"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/ED0902/S00058/nzvcc-releases-briefing-for-the-incoming-govt.htm
+title: NZVCC releases Briefing for the Incoming Govt
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00058/nzvcc-releases-briefing-for-the-incoming-govt.htm
 author: nzvcc
+permalink: /archive/2009/02/17/nzvcc-releases-briefing-for-the-incoming-govt/index.html
+layout: layout.njk
 ---
 NZVCC releases Briefing for the Incoming Govt
 =============================================

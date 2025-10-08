@@ -1,9 +1,12 @@
 ---
 slug: brownlee-speech-a-great-time-to-be-in-national
-title: "Brownlee Speech: A great time to be in National"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00418/brownlee-speech-a-great-time-to-be-in-national.htm
+title: 'Brownlee Speech: A great time to be in National'
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00418/brownlee-speech-a-great-time-to-be-in-national.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/21/brownlee-speech-a-great-time-to-be-in-national/index.html
+layout: layout.njk
 ---
 Brownlee Speech: A great time to be in National
 ===============================================

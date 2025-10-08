@@ -1,9 +1,12 @@
 ---
 slug: uc-launches-free-global-online-short-courses
-title: "UC Launches Free Global Online Short Courses"
-date: 2020-10-21
-source-url: https://www.scoop.co.nz/stories/ED2010/S00032/uc-launches-free-global-online-short-courses.htm
+title: UC Launches Free Global Online Short Courses
+date: 2020-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00032/uc-launches-free-global-online-short-courses.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/21/uc-launches-free-global-online-short-courses/index.html
+layout: layout.njk
 ---
 UC Launches Free Global Online Short Courses
 ============================================

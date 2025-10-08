@@ -1,9 +1,12 @@
 ---
 slug: ctu-releases-alternative-economic-strategy
-title: "CTU releases Alternative Economic Strategy"
-date: 2010-10-11
-source-url: https://www.scoop.co.nz/stories/BU1010/S00293/ctu-releases-alternative-economic-strategy.htm
+title: CTU releases Alternative Economic Strategy
+date: 2010-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1010/S00293/ctu-releases-alternative-economic-strategy.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/11/ctu-releases-alternative-economic-strategy/index.html
+layout: layout.njk
 ---
 CTU releases Alternative Economic Strategy
 ==========================================

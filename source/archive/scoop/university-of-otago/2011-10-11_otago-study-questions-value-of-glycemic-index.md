@@ -1,9 +1,12 @@
 ---
 slug: otago-study-questions-value-of-glycemic-index
-title: "Otago study questions value of glycemic index"
-date: 2011-10-11
-source-url: https://www.scoop.co.nz/stories/SC1110/S00030/otago-study-questions-value-of-glycemic-index.htm
+title: Otago study questions value of glycemic index
+date: 2011-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00030/otago-study-questions-value-of-glycemic-index.htm
 author: university-of-otago
+permalink: /archive/2011/10/11/otago-study-questions-value-of-glycemic-index/index.html
+layout: layout.njk
 ---
 Otago study questions value of glycemic index
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: popular-movies-with-subtitles-helping-children-learn
-title: "Popular movies with subtitles helping children learn"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/ED1305/S00117/popular-movies-with-subtitles-helping-children-learn.htm
+title: Popular movies with subtitles helping children learn
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00117/popular-movies-with-subtitles-helping-children-learn.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/17/popular-movies-with-subtitles-helping-children-learn/index.html
+layout: layout.njk
 ---
 Popular movies with subtitles helping children learn
 ====================================================

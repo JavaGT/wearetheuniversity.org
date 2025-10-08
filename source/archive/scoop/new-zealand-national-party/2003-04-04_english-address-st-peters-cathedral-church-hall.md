@@ -1,9 +1,12 @@
 ---
 slug: english-address-st-peters-cathedral-church-hall
-title: "English Address: St Peters Cathedral Church Hall"
-date: 2003-04-04
-source-url: https://www.scoop.co.nz/stories/PA0304/S00096/english-address-st-peters-cathedral-church-hall.htm
+title: 'English Address: St Peters Cathedral Church Hall'
+date: 2003-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00096/english-address-st-peters-cathedral-church-hall.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/04/english-address-st-peters-cathedral-church-hall/index.html
+layout: layout.njk
 ---
 English Address: St Peters Cathedral Church Hall
 ================================================

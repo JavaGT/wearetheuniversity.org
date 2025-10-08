@@ -1,9 +1,12 @@
 ---
 slug: greens-meeting-marks-west-coast-logging-end
-title: "Greens' Meeting Marks West Coast Logging End"
-date: 1999-09-13
-source-url: https://www.scoop.co.nz/stories/PA9909/S00277/greens-meeting-marks-west-coast-logging-end.htm
+title: Greens' Meeting Marks West Coast Logging End
+date: 1999-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00277/greens-meeting-marks-west-coast-logging-end.htm
 author: green-party
+permalink: /archive/1999/09/13/greens-meeting-marks-west-coast-logging-end/index.html
+layout: layout.njk
 ---
 Greens' Meeting Marks West Coast Logging End
 ============================================

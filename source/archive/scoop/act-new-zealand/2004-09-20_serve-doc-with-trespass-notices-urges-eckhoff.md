@@ -1,9 +1,12 @@
 ---
 slug: serve-doc-with-trespass-notices-urges-eckhoff
-title: "Serve DoC With Trespass Notices, Urges Eckhoff"
-date: 2004-09-20
-source-url: https://www.scoop.co.nz/stories/PA0409/S00408/serve-doc-with-trespass-notices-urges-eckhoff.htm
+title: Serve DoC With Trespass Notices, Urges Eckhoff
+date: 2004-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00408/serve-doc-with-trespass-notices-urges-eckhoff.htm
 author: act-new-zealand
+permalink: /archive/2004/09/20/serve-doc-with-trespass-notices-urges-eckhoff/index.html
+layout: layout.njk
 ---
 Serve DoC With Trespass Notices, Urges Eckhoff
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: charter-school-experiment-turns-into-shambles
-title: "Charter school experiment turns into shambles"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/PA1507/S00337/charter-school-experiment-turns-into-shambles.htm
+title: Charter school experiment turns into shambles
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00337/charter-school-experiment-turns-into-shambles.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/22/charter-school-experiment-turns-into-shambles/index.html
+layout: layout.njk
 ---
 Charter school experiment turns into shambles
 =============================================

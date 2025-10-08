@@ -1,9 +1,12 @@
 ---
 slug: distribution-key-to-building-brands
-title: "Distribution key to building brands"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/BU0906/S00166/distribution-key-to-building-brands.htm
+title: Distribution key to building brands
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00166/distribution-key-to-building-brands.htm
 author: waikato-university
+permalink: /archive/2009/06/08/distribution-key-to-building-brands/index.html
+layout: layout.njk
 ---
 Distribution key to building brands
 ===================================

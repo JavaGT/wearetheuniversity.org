@@ -1,9 +1,12 @@
 ---
 slug: music-therapy-benefits-special-needs-children
-title: "Music therapy benefits special needs children"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/GE1012/S00049/music-therapy-benefits-special-needs-children.htm
+title: Music therapy benefits special needs children
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00049/music-therapy-benefits-special-needs-children.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/10/music-therapy-benefits-special-needs-children/index.html
+layout: layout.njk
 ---
 Music therapy benefits special needs children
 =============================================

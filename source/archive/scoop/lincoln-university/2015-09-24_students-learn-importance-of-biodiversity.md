@@ -1,9 +1,12 @@
 ---
 slug: students-learn-importance-of-biodiversity
-title: "Students learn importance of biodiversity"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/ED1509/S00141/students-learn-importance-of-biodiversity.htm
+title: Students learn importance of biodiversity
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00141/students-learn-importance-of-biodiversity.htm
 author: lincoln-university
+permalink: /archive/2015/09/24/students-learn-importance-of-biodiversity/index.html
+layout: layout.njk
 ---
 Students learn importance of biodiversity
 =========================================

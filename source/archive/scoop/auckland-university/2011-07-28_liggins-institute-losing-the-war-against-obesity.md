@@ -1,9 +1,13 @@
 ---
 slug: liggins-institute-losing-the-war-against-obesity
-title: "Liggins Institute \"Losing the war against obesity\""
-date: 2011-07-28
-source-url: https://www.scoop.co.nz/stories/SC1107/S00060/liggins-institute-losing-the-war-against-obesity.htm
+title: Liggins Institute "Losing the war against obesity"
+date: 2011-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00060/liggins-institute-losing-the-war-against-obesity.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/07/28/liggins-institute-losing-the-war-against-obesity/index.html
+layout: layout.njk
 ---
 Liggins Institute \"Losing the war against obesity"
 ==================================================

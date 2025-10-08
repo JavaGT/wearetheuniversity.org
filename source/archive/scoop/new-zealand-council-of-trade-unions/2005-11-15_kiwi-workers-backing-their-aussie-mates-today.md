@@ -1,9 +1,12 @@
 ---
 slug: kiwi-workers-backing-their-aussie-mates-today
-title: "Kiwi workers backing their Aussie mates today"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/PO0511/S00113/kiwi-workers-backing-their-aussie-mates-today.htm
+title: Kiwi workers backing their Aussie mates today
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00113/kiwi-workers-backing-their-aussie-mates-today.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/11/15/kiwi-workers-backing-their-aussie-mates-today/index.html
+layout: layout.njk
 ---
 Kiwi workers backing their Aussie mates today
 =============================================

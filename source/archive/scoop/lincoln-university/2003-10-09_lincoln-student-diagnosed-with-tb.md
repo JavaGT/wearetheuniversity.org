@@ -1,9 +1,12 @@
 ---
 slug: lincoln-student-diagnosed-with-tb
-title: "Lincoln Student Diagnosed With TB"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00039/lincoln-student-diagnosed-with-tb.htm
+title: Lincoln Student Diagnosed With TB
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00039/lincoln-student-diagnosed-with-tb.htm
 author: lincoln-university
+permalink: /archive/2003/10/09/lincoln-student-diagnosed-with-tb/index.html
+layout: layout.njk
 ---
 Lincoln Student Diagnosed With TB
 =================================

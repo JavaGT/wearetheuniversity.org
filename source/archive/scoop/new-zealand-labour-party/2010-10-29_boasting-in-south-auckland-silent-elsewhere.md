@@ -1,9 +1,12 @@
 ---
 slug: boasting-in-south-auckland-silent-elsewhere
-title: "Boasting in South Auckland, silent elsewhere"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/PA1010/S00523/boasting-in-south-auckland-silent-elsewhere.htm
+title: Boasting in South Auckland, silent elsewhere
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00523/boasting-in-south-auckland-silent-elsewhere.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/29/boasting-in-south-auckland-silent-elsewhere/index.html
+layout: layout.njk
 ---
 Boasting in South Auckland, silent elsewhere
 ============================================

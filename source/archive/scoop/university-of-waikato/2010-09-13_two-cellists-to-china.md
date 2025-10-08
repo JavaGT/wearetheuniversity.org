@@ -1,9 +1,11 @@
 ---
 slug: two-cellists-to-china
-title: "Two cellists to China"
-date: 2010-09-13
+title: Two cellists to China
+date: 2010-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1009/S00104/two-cellists-to-china.htm
 author: university-of-waikato
+permalink: /archive/2010/09/13/two-cellists-to-china/index.html
+layout: layout.njk
 ---
 Two cellists to China
 =====================

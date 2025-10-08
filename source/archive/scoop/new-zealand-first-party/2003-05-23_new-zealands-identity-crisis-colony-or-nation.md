@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-identity-crisis-colony-or-nation
-title: "New Zealand’s Identity Crisis – Colony Or Nation?"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/PA0305/S00614/new-zealands-identity-crisis-colony-or-nation.htm
+title: New Zealand’s Identity Crisis – Colony Or Nation?
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00614/new-zealands-identity-crisis-colony-or-nation.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/23/new-zealands-identity-crisis-colony-or-nation/index.html
+layout: layout.njk
 ---
 New Zealand’s Identity Crisis – Colony Or Nation?
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: wins-for-some-students-poverty-for-others
-title: "Wins For Some Students, Poverty For Others"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/ED2105/S00042/wins-for-some-students-poverty-for-others.htm
+title: Wins For Some Students, Poverty For Others
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00042/wins-for-some-students-poverty-for-others.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2021/05/20/wins-for-some-students-poverty-for-others/index.html
+layout: layout.njk
 ---
 Wins For Some Students, Poverty For Others
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: govts-borrowing-tricks-show-debt-target-is-bogus
-title: "Govt’s borrowing tricks show debt target is bogus"
-date: 2018-08-31
-source-url: https://www.scoop.co.nz/stories/PA1808/S00365/govts-borrowing-tricks-show-debt-target-is-bogus.htm
+title: Govt’s borrowing tricks show debt target is bogus
+date: 2018-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00365/govts-borrowing-tricks-show-debt-target-is-bogus.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/31/govts-borrowing-tricks-show-debt-target-is-bogus/index.html
+layout: layout.njk
 ---
 Govt’s borrowing tricks show debt target is bogus
 =================================================

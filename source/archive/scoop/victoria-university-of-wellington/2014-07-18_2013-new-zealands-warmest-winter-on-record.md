@@ -1,9 +1,12 @@
 ---
 slug: 2013-new-zealands-warmest-winter-on-record
-title: "2013 New Zealand’s warmest winter on record"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/SC1407/S00045/2013-new-zealands-warmest-winter-on-record.htm
+title: 2013 New Zealand’s warmest winter on record
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00045/2013-new-zealands-warmest-winter-on-record.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/18/2013-new-zealands-warmest-winter-on-record/index.html
+layout: layout.njk
 ---
 2013 New Zealand’s warmest winter on record
 ===========================================

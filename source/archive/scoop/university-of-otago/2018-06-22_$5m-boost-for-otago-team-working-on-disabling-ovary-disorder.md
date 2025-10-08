@@ -1,9 +1,13 @@
 ---
 slug: $5m-boost-for-otago-team-working-on-disabling-ovary-disorder
-title: "$5m boost for Otago team working on disabling ovary disorder"
-date: 2018-06-22
-source-url: https://www.scoop.co.nz/stories/SC1806/S00058/5m-boost-for-otago-team-working-on-disabling-ovary-disorder.htm
+title: $5m boost for Otago team working on disabling ovary disorder
+date: 2018-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00058/5m-boost-for-otago-team-working-on-disabling-ovary-disorder.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/22/5m-boost-for-otago-team-working-on-disabling-ovary-disorder/index.html
+layout: layout.njk
 ---
 $5m boost for Otago team working on disabling ovary disorder
 ============================================================

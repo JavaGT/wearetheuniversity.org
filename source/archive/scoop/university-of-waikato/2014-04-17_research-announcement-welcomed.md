@@ -1,9 +1,12 @@
 ---
 slug: research-announcement-welcomed
-title: "Research announcement welcomed"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/PO1404/S00278/research-announcement-welcomed.htm
+title: Research announcement welcomed
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00278/research-announcement-welcomed.htm
 author: university-of-waikato
+permalink: /archive/2014/04/17/research-announcement-welcomed/index.html
+layout: layout.njk
 ---
 Research announcement welcomed
 ==============================

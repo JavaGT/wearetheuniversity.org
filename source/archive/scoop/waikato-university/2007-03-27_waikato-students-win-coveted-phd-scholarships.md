@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-win-coveted-phd-scholarships
-title: "Waikato students win coveted PhD scholarships"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00098/waikato-students-win-coveted-phd-scholarships.htm
+title: Waikato students win coveted PhD scholarships
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00098/waikato-students-win-coveted-phd-scholarships.htm
 author: waikato-university
+permalink: /archive/2007/03/27/waikato-students-win-coveted-phd-scholarships/index.html
+layout: layout.njk
 ---
 Waikato students win coveted PhD scholarships
 =============================================

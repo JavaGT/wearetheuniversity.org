@@ -1,9 +1,12 @@
 ---
 slug: enough-is-enough-time-for-a-review
-title: "Enough is Enough – Time for a Review"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/PA1611/S00476/enough-is-enough-time-for-a-review.htm
+title: Enough is Enough – Time for a Review
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00476/enough-is-enough-time-for-a-review.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/24/enough-is-enough-time-for-a-review/index.html
+layout: layout.njk
 ---
 Enough is Enough – Time for a Review
 ====================================

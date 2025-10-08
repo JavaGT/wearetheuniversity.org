@@ -1,9 +1,13 @@
 ---
 slug: adding-plantain-to-the-diet-makes-a-positive-impact
-title: "Adding plantain to the diet makes a positive impact"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/SC1602/S00032/adding-plantain-to-the-diet-makes-a-positive-impact.htm
+title: Adding plantain to the diet makes a positive impact
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00032/adding-plantain-to-the-diet-makes-a-positive-impact.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/02/11/adding-plantain-to-the-diet-makes-a-positive-impact/index.html
+layout: layout.njk
 ---
 Adding plantain to the diet makes a positive impact
 ===================================================

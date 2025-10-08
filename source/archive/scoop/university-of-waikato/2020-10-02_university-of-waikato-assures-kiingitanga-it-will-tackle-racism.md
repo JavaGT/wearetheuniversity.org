@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-assures-kiingitanga-it-will-tackle-racism
-title: "University Of Waikato Assures Kiingitanga It Will Tackle Racism"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/ED2010/S00004/university-of-waikato-assures-kiingitanga-it-will-tackle-racism.htm
+title: University Of Waikato Assures Kiingitanga It Will Tackle Racism
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00004/university-of-waikato-assures-kiingitanga-it-will-tackle-racism.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/10/02/university-of-waikato-assures-kiingitanga-it-will-tackle-racism/index.html
+layout: layout.njk
 ---
 University Of Waikato Assures Kiingitanga It Will Tackle Racism
 ===============================================================

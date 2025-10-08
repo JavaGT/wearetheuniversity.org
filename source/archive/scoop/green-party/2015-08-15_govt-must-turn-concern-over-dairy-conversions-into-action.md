@@ -1,9 +1,13 @@
 ---
 slug: govt-must-turn-concern-over-dairy-conversions-into-action
-title: "Govt must turn concern over dairy conversions into action"
-date: 2015-08-15
-source-url: https://www.scoop.co.nz/stories/PA1508/S00257/govt-must-turn-concern-over-dairy-conversions-into-action.htm
+title: Govt must turn concern over dairy conversions into action
+date: 2015-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00257/govt-must-turn-concern-over-dairy-conversions-into-action.htm
 author: green-party
+permalink: >-
+  /archive/2015/08/15/govt-must-turn-concern-over-dairy-conversions-into-action/index.html
+layout: layout.njk
 ---
 Govt must turn concern over dairy conversions into action
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-plunders-victims-money
-title: "Labour plunders victims' money"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/PA0409/S00054/labour-plunders-victims-money.htm
+title: Labour plunders victims' money
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00054/labour-plunders-victims-money.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/02/labour-plunders-victims-money/index.html
+layout: layout.njk
 ---
 Labour plunders victims' money
 ==============================

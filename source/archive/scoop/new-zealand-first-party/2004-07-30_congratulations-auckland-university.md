@@ -1,9 +1,12 @@
 ---
 slug: congratulations-auckland-university
-title: "Congratulations Auckland University"
-date: 2004-07-30
-source-url: https://www.scoop.co.nz/stories/PA0407/S00539/congratulations-auckland-university.htm
+title: Congratulations Auckland University
+date: 2004-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00539/congratulations-auckland-university.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/30/congratulations-auckland-university/index.html
+layout: layout.njk
 ---
 Congratulations Auckland University
 ===================================

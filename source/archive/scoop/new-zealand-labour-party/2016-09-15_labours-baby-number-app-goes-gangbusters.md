@@ -1,9 +1,12 @@
 ---
 slug: labours-baby-number-app-goes-gangbusters
-title: "Labour’s baby number app goes gangbusters"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/PA1609/S00277/labours-baby-number-app-goes-gangbusters.htm
+title: Labour’s baby number app goes gangbusters
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00277/labours-baby-number-app-goes-gangbusters.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/15/labours-baby-number-app-goes-gangbusters/index.html
+layout: layout.njk
 ---
 Labour’s baby number app goes gangbusters
 =========================================

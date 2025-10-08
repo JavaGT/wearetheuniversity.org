@@ -1,9 +1,12 @@
 ---
 slug: collins-recognising-all-kiwis-potential
-title: "Collins: Recognising all Kiwis’ potential"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/PA0703/S00530/collins-recognising-all-kiwis-potential.htm
+title: 'Collins: Recognising all Kiwis’ potential'
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00530/collins-recognising-all-kiwis-potential.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/26/collins-recognising-all-kiwis-potential/index.html
+layout: layout.njk
 ---
 Collins: Recognising all Kiwis’ potential
 =========================================

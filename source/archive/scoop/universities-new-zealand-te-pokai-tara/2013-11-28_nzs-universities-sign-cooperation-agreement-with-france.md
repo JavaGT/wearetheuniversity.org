@@ -1,9 +1,13 @@
 ---
 slug: nzs-universities-sign-cooperation-agreement-with-france
-title: "NZ’s Universities Sign Cooperation Agreement with France"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/ED1311/S00197/nzs-universities-sign-cooperation-agreement-with-france.htm
+title: NZ’s Universities Sign Cooperation Agreement with France
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00197/nzs-universities-sign-cooperation-agreement-with-france.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/11/28/nzs-universities-sign-cooperation-agreement-with-france/index.html
+layout: layout.njk
 ---
 NZ’s Universities Sign Cooperation Agreement with France
 ========================================================

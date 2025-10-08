@@ -1,9 +1,12 @@
 ---
 slug: govts-criminal-justice-summit-simply-a-pr-tool
-title: "Govt’s Criminal Justice Summit simply a PR tool"
-date: 2018-07-12
-source-url: https://www.scoop.co.nz/stories/PA1807/S00117/govts-criminal-justice-summit-simply-a-pr-tool.htm
+title: Govt’s Criminal Justice Summit simply a PR tool
+date: 2018-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00117/govts-criminal-justice-summit-simply-a-pr-tool.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/12/govts-criminal-justice-summit-simply-a-pr-tool/index.html
+layout: layout.njk
 ---
 Govt’s Criminal Justice Summit simply a PR tool
 ===============================================

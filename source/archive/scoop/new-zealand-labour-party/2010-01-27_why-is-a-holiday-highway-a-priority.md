@@ -1,9 +1,12 @@
 ---
 slug: why-is-a-holiday-highway-a-priority
-title: "Why is a Holiday Highway a priority?"
-date: 2010-01-27
-source-url: https://www.scoop.co.nz/stories/PA1001/S00131/why-is-a-holiday-highway-a-priority.htm
+title: Why is a Holiday Highway a priority?
+date: 2010-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00131/why-is-a-holiday-highway-a-priority.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/27/why-is-a-holiday-highway-a-priority/index.html
+layout: layout.njk
 ---
 Why is a Holiday Highway a priority?
 ====================================

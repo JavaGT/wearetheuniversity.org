@@ -1,9 +1,12 @@
 ---
 slug: ncea-must-go-challenge-to-mallard
-title: "NCEA Must Go - Challenge to Mallard"
-date: 2002-08-21
-source-url: https://www.scoop.co.nz/stories/PA0208/S00158/ncea-must-go-challenge-to-mallard.htm
+title: NCEA Must Go - Challenge to Mallard
+date: 2002-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00158/ncea-must-go-challenge-to-mallard.htm
 author: act-new-zealand
+permalink: /archive/2002/08/21/ncea-must-go-challenge-to-mallard/index.html
+layout: layout.njk
 ---
 NCEA Must Go - Challenge to Mallard
 ===================================

@@ -1,9 +1,11 @@
 ---
 slug: playing-the-interview-game
-title: "Playing the interview game"
-date: 2013-12-09
+title: Playing the interview game
+date: 2013-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1312/S00057/playing-the-interview-game.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/09/playing-the-interview-game/index.html
+layout: layout.njk
 ---
 Playing the interview game
 ==========================

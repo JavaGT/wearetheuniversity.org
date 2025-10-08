@@ -1,9 +1,13 @@
 ---
 slug: pasifika-graduate-blends-design-and-dance-passions
-title: "Pasifika graduate blends design and dance passions"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/ED1005/S00133/pasifika-graduate-blends-design-and-dance-passions.htm
+title: Pasifika graduate blends design and dance passions
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00133/pasifika-graduate-blends-design-and-dance-passions.htm
 author: massey-university
+permalink: >-
+  /archive/2010/05/28/pasifika-graduate-blends-design-and-dance-passions/index.html
+layout: layout.njk
 ---
 Pasifika graduate blends design and dance passions
 ==================================================

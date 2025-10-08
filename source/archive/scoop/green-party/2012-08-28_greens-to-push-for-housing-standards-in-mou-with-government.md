@@ -1,9 +1,13 @@
 ---
 slug: greens-to-push-for-housing-standards-in-mou-with-government
-title: "Greens to push for housing standards in MOU with Government"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/PA1208/S00408/greens-to-push-for-housing-standards-in-mou-with-government.htm
+title: Greens to push for housing standards in MOU with Government
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00408/greens-to-push-for-housing-standards-in-mou-with-government.htm
 author: green-party
+permalink: >-
+  /archive/2012/08/28/greens-to-push-for-housing-standards-in-mou-with-government/index.html
+layout: layout.njk
 ---
 Greens to push for housing standards in MOU with Government
 ===========================================================

@@ -1,8 +1,12 @@
 ---
 slug: from-charity-to-social-enterprise-when-making-money-is-doing-good
-title: "From charity to social enterprise: when making money is doing good"
-date: 2017-10-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/from-charity-to-social-enterprise.html
+title: 'From charity to social enterprise: when making money is doing good'
+date: 2017-10-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/from-charity-to-social-enterprise.html
+permalink: >-
+  /archive/2017/10/02/from-charity-to-social-enterprise-when-making-money-is-doing-good/index.html
+layout: layout.njk
 ---
 From charity to social enterprise: when making money is doing good
 ==================================================================

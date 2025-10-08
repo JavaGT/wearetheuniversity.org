@@ -1,9 +1,13 @@
 ---
 slug: groser-misleads-on-climate-costs-to-justify-lack-of-ambition
-title: "Groser misleads on climate costs to justify lack of ambition"
-date: 2015-11-23
-source-url: https://www.scoop.co.nz/stories/PA1511/S00419/groser-misleads-on-climate-costs-to-justify-lack-of-ambition.htm
+title: Groser misleads on climate costs to justify lack of ambition
+date: 2015-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00419/groser-misleads-on-climate-costs-to-justify-lack-of-ambition.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/23/groser-misleads-on-climate-costs-to-justify-lack-of-ambition/index.html
+layout: layout.njk
 ---
 Groser misleads on climate costs to justify lack of ambition
 ============================================================

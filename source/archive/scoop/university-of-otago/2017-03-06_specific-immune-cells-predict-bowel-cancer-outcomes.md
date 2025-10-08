@@ -1,9 +1,13 @@
 ---
 slug: specific-immune-cells-predict-bowel-cancer-outcomes
-title: "Specific immune cells predict bowel cancer outcomes"
-date: 2017-03-06
-source-url: https://www.scoop.co.nz/stories/SC1703/S00015/specific-immune-cells-predict-bowel-cancer-outcomes.htm
+title: Specific immune cells predict bowel cancer outcomes
+date: 2017-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00015/specific-immune-cells-predict-bowel-cancer-outcomes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/06/specific-immune-cells-predict-bowel-cancer-outcomes/index.html
+layout: layout.njk
 ---
 Specific immune cells predict bowel cancer outcomes
 ===================================================

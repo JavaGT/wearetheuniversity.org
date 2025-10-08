@@ -1,9 +1,13 @@
 ---
 slug: nats-answer-1-new-affordable-house-per-100-new-aucklanders
-title: "Nat’s answer: 1 new affordable house per 100 new Aucklanders"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/PA1705/S00360/nats-answer-1-new-affordable-house-per-100-new-aucklanders.htm
+title: 'Nat’s answer: 1 new affordable house per 100 new Aucklanders'
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00360/nats-answer-1-new-affordable-house-per-100-new-aucklanders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/17/nats-answer-1-new-affordable-house-per-100-new-aucklanders/index.html
+layout: layout.njk
 ---
 Nat’s answer: 1 new affordable house per 100 new Aucklanders
 ============================================================

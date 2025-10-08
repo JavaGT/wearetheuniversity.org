@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-134-28-october
-title: "Maxim Institute real issues. No. 134,  28 OCTOBER"
-date: 2004-10-29
-source-url: https://www.scoop.co.nz/stories/PO0410/S00281/maxim-institute-real-issues-no-134-28-october.htm
+title: Maxim Institute real issues. No. 134,  28 OCTOBER
+date: 2004-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00281/maxim-institute-real-issues-no-134-28-october.htm
 author: maxim-institute
+permalink: /archive/2004/10/29/maxim-institute-real-issues-no-134-28-october/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues. No. 134, 28 OCTOBER
 ================================================

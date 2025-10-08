@@ -1,9 +1,13 @@
 ---
 slug: benefits-of-20-years-of-tobacco-tax-increases-modelled
-title: "Benefits of 20 years of tobacco tax increases modelled"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/PO1507/S00280/benefits-of-20-years-of-tobacco-tax-increases-modelled.htm
+title: Benefits of 20 years of tobacco tax increases modelled
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00280/benefits-of-20-years-of-tobacco-tax-increases-modelled.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/29/benefits-of-20-years-of-tobacco-tax-increases-modelled/index.html
+layout: layout.njk
 ---
 Benefits of 20 years of tobacco tax increases modelled
 ======================================================

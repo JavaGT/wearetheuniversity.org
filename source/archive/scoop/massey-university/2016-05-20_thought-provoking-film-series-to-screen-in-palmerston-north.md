@@ -1,9 +1,13 @@
 ---
 slug: thought-provoking-film-series-to-screen-in-palmerston-north
-title: "Thought-provoking film series to screen in Palmerston North"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/AK1605/S00650/thought-provoking-film-series-to-screen-in-palmerston-north.htm
+title: Thought-provoking film series to screen in Palmerston North
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00650/thought-provoking-film-series-to-screen-in-palmerston-north.htm
 author: massey-university
+permalink: >-
+  /archive/2016/05/20/thought-provoking-film-series-to-screen-in-palmerston-north/index.html
+layout: layout.njk
 ---
 Thought-provoking film series to screen in Palmerston North
 ===========================================================

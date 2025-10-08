@@ -1,9 +1,12 @@
 ---
 slug: reform-of-the-residential-tenancies-act
-title: "Reform Of The Residential Tenancies Act"
-date: 2020-02-18
-source-url: https://www.scoop.co.nz/stories/PO2002/S00153/reform-of-the-residential-tenancies-act.htm
+title: Reform Of The Residential Tenancies Act
+date: 2020-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00153/reform-of-the-residential-tenancies-act.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/02/18/reform-of-the-residential-tenancies-act/index.html
+layout: layout.njk
 ---
 Reform Of The Residential Tenancies Act
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: inflation-needs-better-balanced-control
-title: "Inflation needs better, balanced control"
-date: 2006-02-03
-source-url: https://www.scoop.co.nz/stories/ED0602/S00009/inflation-needs-better-balanced-control.htm
+title: Inflation needs better, balanced control
+date: 2006-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00009/inflation-needs-better-balanced-control.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/02/03/inflation-needs-better-balanced-control/index.html
+layout: layout.njk
 ---
 Inflation needs better, balanced control
 ========================================

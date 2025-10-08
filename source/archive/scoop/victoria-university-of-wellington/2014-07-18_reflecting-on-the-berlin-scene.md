@@ -1,9 +1,12 @@
 ---
 slug: reflecting-on-the-berlin-scene
-title: "Reflecting on the Berlin scene"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/CU1407/S00270/reflecting-on-the-berlin-scene.htm
+title: Reflecting on the Berlin scene
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00270/reflecting-on-the-berlin-scene.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/18/reflecting-on-the-berlin-scene/index.html
+layout: layout.njk
 ---
 Reflecting on the Berlin scene
 ==============================

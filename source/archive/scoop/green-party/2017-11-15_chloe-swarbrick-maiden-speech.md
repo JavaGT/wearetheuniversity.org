@@ -1,9 +1,12 @@
 ---
 slug: chloe-swarbrick-maiden-speech
-title: "Chloe Swarbrick maiden speech"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/PA1711/S00099/chloe-swarbrick-maiden-speech.htm
+title: Chloe Swarbrick maiden speech
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00099/chloe-swarbrick-maiden-speech.htm
 author: green-party
+permalink: /archive/2017/11/15/chloe-swarbrick-maiden-speech/index.html
+layout: layout.njk
 ---
 Chloe Swarbrick maiden speech
 =============================

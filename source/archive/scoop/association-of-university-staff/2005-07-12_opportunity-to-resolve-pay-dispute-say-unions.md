@@ -1,9 +1,12 @@
 ---
 slug: opportunity-to-resolve-pay-dispute-say-unions
-title: "Opportunity to resolve pay dispute say unions"
-date: 2005-07-12
-source-url: https://www.scoop.co.nz/stories/ED0507/S00046/opportunity-to-resolve-pay-dispute-say-unions.htm
+title: Opportunity to resolve pay dispute say unions
+date: 2005-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00046/opportunity-to-resolve-pay-dispute-say-unions.htm
 author: association-of-university-staff
+permalink: /archive/2005/07/12/opportunity-to-resolve-pay-dispute-say-unions/index.html
+layout: layout.njk
 ---
 Opportunity to resolve pay dispute say unions
 =============================================

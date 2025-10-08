@@ -1,9 +1,13 @@
 ---
 slug: education-and-steeper-fines-needed-to-get-stock-out-of-water
-title: "Education and steeper fines needed to get stock out of water"
-date: 2016-01-27
-source-url: https://www.scoop.co.nz/stories/PA1601/S00120/education-and-steeper-fines-needed-to-get-stock-out-of-water.htm
+title: Education and steeper fines needed to get stock out of water
+date: 2016-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00120/education-and-steeper-fines-needed-to-get-stock-out-of-water.htm
 author: green-party
+permalink: >-
+  /archive/2016/01/27/education-and-steeper-fines-needed-to-get-stock-out-of-water/index.html
+layout: layout.njk
 ---
 Education and steeper fines needed to get stock out of water
 ============================================================

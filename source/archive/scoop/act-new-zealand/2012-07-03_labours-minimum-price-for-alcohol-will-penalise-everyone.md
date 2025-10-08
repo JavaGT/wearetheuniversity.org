@@ -1,9 +1,13 @@
 ---
 slug: labours-minimum-price-for-alcohol-will-penalise-everyone
-title: "Labour’s Minimum Price for Alcohol Will Penalise Everyone"
-date: 2012-07-03
-source-url: https://www.scoop.co.nz/stories/PA1207/S00030/labours-minimum-price-for-alcohol-will-penalise-everyone.htm
+title: Labour’s Minimum Price for Alcohol Will Penalise Everyone
+date: 2012-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00030/labours-minimum-price-for-alcohol-will-penalise-everyone.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2012/07/03/labours-minimum-price-for-alcohol-will-penalise-everyone/index.html
+layout: layout.njk
 ---
 Labour’s Minimum Price for Alcohol Will Penalise Everyone
 =========================================================

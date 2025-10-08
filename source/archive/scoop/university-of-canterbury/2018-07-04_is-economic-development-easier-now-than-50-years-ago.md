@@ -1,9 +1,13 @@
 ---
 slug: is-economic-development-easier-now-than-50-years-ago
-title: "Is economic development easier now than 50 years ago?"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PO1807/S00050/is-economic-development-easier-now-than-50-years-ago.htm
+title: Is economic development easier now than 50 years ago?
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00050/is-economic-development-easier-now-than-50-years-ago.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/07/04/is-economic-development-easier-now-than-50-years-ago/index.html
+layout: layout.njk
 ---
 Is economic development easier now than 50 years ago?
 =====================================================

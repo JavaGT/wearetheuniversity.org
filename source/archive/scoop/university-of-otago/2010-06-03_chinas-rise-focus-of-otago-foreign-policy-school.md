@@ -1,9 +1,13 @@
 ---
 slug: chinas-rise-focus-of-otago-foreign-policy-school
-title: "China’s Rise:  focus of Otago Foreign Policy School"
-date: 2010-06-03
-source-url: https://www.scoop.co.nz/stories/ED1006/S00021/chinas-rise-focus-of-otago-foreign-policy-school.htm
+title: 'China’s Rise:  focus of Otago Foreign Policy School'
+date: 2010-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00021/chinas-rise-focus-of-otago-foreign-policy-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/06/03/chinas-rise-focus-of-otago-foreign-policy-school/index.html
+layout: layout.njk
 ---
 China’s Rise: focus of Otago Foreign Policy School
 ==================================================

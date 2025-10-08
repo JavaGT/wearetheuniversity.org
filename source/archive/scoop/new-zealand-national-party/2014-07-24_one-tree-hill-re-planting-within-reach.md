@@ -1,9 +1,12 @@
 ---
 slug: one-tree-hill-re-planting-within-reach
-title: "One Tree Hill re-planting within reach"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/AK1407/S00495/one-tree-hill-re-planting-within-reach.htm
+title: One Tree Hill re-planting within reach
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00495/one-tree-hill-re-planting-within-reach.htm
 author: new-zealand-national-party
+permalink: /archive/2014/07/24/one-tree-hill-re-planting-within-reach/index.html
+layout: layout.njk
 ---
 One Tree Hill re-planting within reach
 ======================================

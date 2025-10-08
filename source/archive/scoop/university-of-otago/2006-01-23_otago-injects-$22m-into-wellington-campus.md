@@ -1,9 +1,12 @@
 ---
 slug: otago-injects-$22m-into-wellington-campus
-title: "Otago Injects $22m Into Wellington Campus"
-date: 2006-01-23
-source-url: https://www.scoop.co.nz/stories/ED0601/S00015/otago-injects-22m-into-wellington-campus.htm
+title: Otago Injects $22m Into Wellington Campus
+date: 2006-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00015/otago-injects-22m-into-wellington-campus.htm
 author: university-of-otago
+permalink: /archive/2006/01/23/otago-injects-/index.html
+layout: layout.njk
 ---
 Otago Injects $22m Into Wellington Campus
 =========================================

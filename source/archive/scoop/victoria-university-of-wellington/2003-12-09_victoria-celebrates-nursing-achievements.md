@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrates-nursing-achievements
-title: "Victoria celebrates nursing achievements"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/ED0312/S00041/victoria-celebrates-nursing-achievements.htm
+title: Victoria celebrates nursing achievements
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00041/victoria-celebrates-nursing-achievements.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/12/09/victoria-celebrates-nursing-achievements/index.html
+layout: layout.njk
 ---
 Victoria celebrates nursing achievements
 ========================================

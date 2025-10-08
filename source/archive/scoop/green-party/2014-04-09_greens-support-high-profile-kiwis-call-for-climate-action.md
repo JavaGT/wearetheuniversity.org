@@ -1,9 +1,13 @@
 ---
 slug: greens-support-high-profile-kiwis-call-for-climate-action
-title: "Greens support high profile Kiwis’ call for climate action"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00144/greens-support-high-profile-kiwis-call-for-climate-action.htm
+title: Greens support high profile Kiwis’ call for climate action
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00144/greens-support-high-profile-kiwis-call-for-climate-action.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/09/greens-support-high-profile-kiwis-call-for-climate-action/index.html
+layout: layout.njk
 ---
 Greens support high profile Kiwis’ call for climate action
 ==========================================================

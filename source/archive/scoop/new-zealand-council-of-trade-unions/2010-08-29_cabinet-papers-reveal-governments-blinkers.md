@@ -1,9 +1,12 @@
 ---
 slug: cabinet-papers-reveal-governments-blinkers
-title: "Cabinet Papers Reveal Government’s Blinkers"
-date: 2010-08-29
-source-url: https://www.scoop.co.nz/stories/PO1008/S00348/cabinet-papers-reveal-governments-blinkers.htm
+title: Cabinet Papers Reveal Government’s Blinkers
+date: 2010-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00348/cabinet-papers-reveal-governments-blinkers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/29/cabinet-papers-reveal-governments-blinkers/index.html
+layout: layout.njk
 ---
 Cabinet Papers Reveal Government’s Blinkers
 ===========================================

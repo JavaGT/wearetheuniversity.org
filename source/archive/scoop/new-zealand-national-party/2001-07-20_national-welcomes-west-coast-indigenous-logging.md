@@ -1,9 +1,12 @@
 ---
 slug: national-welcomes-west-coast-indigenous-logging
-title: "National welcomes West Coast indigenous logging"
-date: 2001-07-20
-source-url: https://www.scoop.co.nz/stories/PA0107/S00321/national-welcomes-west-coast-indigenous-logging.htm
+title: National welcomes West Coast indigenous logging
+date: 2001-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00321/national-welcomes-west-coast-indigenous-logging.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/20/national-welcomes-west-coast-indigenous-logging/index.html
+layout: layout.njk
 ---
 National welcomes West Coast indigenous logging
 ===============================================

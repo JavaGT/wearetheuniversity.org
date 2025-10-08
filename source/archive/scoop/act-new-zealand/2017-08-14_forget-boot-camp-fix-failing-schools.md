@@ -1,9 +1,12 @@
 ---
 slug: forget-boot-camp-fix-failing-schools
-title: "Forget boot camp, fix failing schools"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/PA1708/S00262/forget-boot-camp-fix-failing-schools.htm
+title: Forget boot camp, fix failing schools
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00262/forget-boot-camp-fix-failing-schools.htm
 author: act-new-zealand
+permalink: /archive/2017/08/14/forget-boot-camp-fix-failing-schools/index.html
+layout: layout.njk
 ---
 Forget boot camp, fix failing schools
 =====================================

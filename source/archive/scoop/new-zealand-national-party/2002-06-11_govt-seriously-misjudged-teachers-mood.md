@@ -1,9 +1,12 @@
 ---
 slug: govt-seriously-misjudged-teachers-mood
-title: "Govt. Seriously Misjudged Teachers' Mood"
-date: 2002-06-11
-source-url: https://www.scoop.co.nz/stories/PA0206/S00125/govt-seriously-misjudged-teachers-mood.htm
+title: Govt. Seriously Misjudged Teachers' Mood
+date: 2002-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00125/govt-seriously-misjudged-teachers-mood.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/11/govt-seriously-misjudged-teachers-mood/index.html
+layout: layout.njk
 ---
 Govt. Seriously Misjudged Teachers' Mood
 ========================================

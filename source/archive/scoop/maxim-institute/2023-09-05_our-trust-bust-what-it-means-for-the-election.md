@@ -1,9 +1,12 @@
 ---
 slug: our-trust-bust-what-it-means-for-the-election
-title: "Our Trust Bust: What It Means For The Election"
-date: 2023-09-05
-source-url: https://www.scoop.co.nz/stories/PO2309/S00022/our-trust-bust-what-it-means-for-the-election.htm
+title: 'Our Trust Bust: What It Means For The Election'
+date: 2023-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00022/our-trust-bust-what-it-means-for-the-election.htm
 author: maxim-institute
+permalink: /archive/2023/09/05/our-trust-bust-what-it-means-for-the-election/index.html
+layout: layout.njk
 ---
 Our Trust Bust: What It Means For The Election
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: students-encouraged-by-proposed-tertiary-changes
-title: "Students encouraged by proposed tertiary changes"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/ED0604/S00017/students-encouraged-by-proposed-tertiary-changes.htm
+title: Students encouraged by proposed tertiary changes
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00017/students-encouraged-by-proposed-tertiary-changes.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2006/04/05/students-encouraged-by-proposed-tertiary-changes/index.html
+layout: layout.njk
 ---
 Students encouraged by proposed tertiary changes
 ================================================

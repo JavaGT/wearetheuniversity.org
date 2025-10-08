@@ -1,9 +1,12 @@
 ---
 slug: a-danger-lurking-in-wait-for-the-holiday-season
-title: "A danger lurking in wait for the holiday season"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/CU1211/S00484/a-danger-lurking-in-wait-for-the-holiday-season.htm
+title: A danger lurking in wait for the holiday season
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00484/a-danger-lurking-in-wait-for-the-holiday-season.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/23/a-danger-lurking-in-wait-for-the-holiday-season/index.html
+layout: layout.njk
 ---
 A danger lurking in wait for the holiday season
 ===============================================

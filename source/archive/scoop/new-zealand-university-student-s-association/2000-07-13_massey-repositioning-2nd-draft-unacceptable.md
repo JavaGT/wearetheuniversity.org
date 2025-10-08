@@ -1,9 +1,12 @@
 ---
 slug: massey-repositioning-2nd-draft-unacceptable
-title: "Massey 'repositioning' 2nd draft unacceptable"
-date: 2000-07-13
-source-url: https://www.scoop.co.nz/stories/ED0007/S00011/massey-repositioning-2nd-draft-unacceptable.htm
+title: Massey 'repositioning' 2nd draft unacceptable
+date: 2000-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00011/massey-repositioning-2nd-draft-unacceptable.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/07/13/massey-repositioning-2nd-draft-unacceptable/index.html
+layout: layout.njk
 ---
 Massey 'repositioning' 2nd draft unacceptable
 =============================================

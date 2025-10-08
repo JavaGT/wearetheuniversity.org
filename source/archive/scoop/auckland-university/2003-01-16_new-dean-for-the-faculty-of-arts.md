@@ -1,9 +1,12 @@
 ---
 slug: new-dean-for-the-faculty-of-arts
-title: "New Dean For The Faculty Of Arts"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/ED0301/S00004/new-dean-for-the-faculty-of-arts.htm
+title: New Dean For The Faculty Of Arts
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00004/new-dean-for-the-faculty-of-arts.htm
 author: auckland-university
+permalink: /archive/2003/01/16/new-dean-for-the-faculty-of-arts/index.html
+layout: layout.njk
 ---
 New Dean For The Faculty Of Arts
 ================================

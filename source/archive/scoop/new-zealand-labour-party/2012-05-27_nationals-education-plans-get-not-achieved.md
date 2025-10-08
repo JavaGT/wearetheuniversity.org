@@ -1,9 +1,12 @@
 ---
 slug: nationals-education-plans-get-not-achieved
-title: "National’s Education Plans Get ‘Not Achieved’"
-date: 2012-05-27
-source-url: https://www.scoop.co.nz/stories/PA1205/S00482/nationals-education-plans-get-not-achieved.htm
+title: National’s Education Plans Get ‘Not Achieved’
+date: 2012-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00482/nationals-education-plans-get-not-achieved.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/27/nationals-education-plans-get-not-achieved/index.html
+layout: layout.njk
 ---
 National’s Education Plans Get ‘Not Achieved’
 =============================================

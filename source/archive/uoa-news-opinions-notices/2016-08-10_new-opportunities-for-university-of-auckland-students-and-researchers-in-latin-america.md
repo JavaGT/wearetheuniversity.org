@@ -1,8 +1,15 @@
 ---
-slug: new-opportunities-for-university-of-auckland-students-and-researchers-in-latin-america
-title: "New opportunities for University of Auckland students and researchers in Latin America."
-date: 2016-08-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/new-opportunities-for-university-students-researchers-latin-america.html
+slug: >-
+  new-opportunities-for-university-of-auckland-students-and-researchers-in-latin-america
+title: >-
+  New opportunities for University of Auckland students and researchers in Latin
+  America.
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/new-opportunities-for-university-students-researchers-latin-america.html
+permalink: >-
+  /archive/2016/08/10/new-opportunities-for-university-of-auckland-students-and-researchers-in-latin-america/index.html
+layout: layout.njk
 ---
 New opportunities for University of Auckland students and researchers in Latin America.
 =======================================================================================

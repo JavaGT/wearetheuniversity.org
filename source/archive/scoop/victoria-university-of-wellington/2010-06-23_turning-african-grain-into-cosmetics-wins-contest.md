@@ -1,9 +1,13 @@
 ---
 slug: turning-african-grain-into-cosmetics-wins-contest
-title: "Turning African grain into cosmetics wins contest"
-date: 2010-06-23
-source-url: https://www.scoop.co.nz/stories/ED1006/S00077/turning-african-grain-into-cosmetics-wins-contest.htm
+title: Turning African grain into cosmetics wins contest
+date: 2010-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00077/turning-african-grain-into-cosmetics-wins-contest.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/06/23/turning-african-grain-into-cosmetics-wins-contest/index.html
+layout: layout.njk
 ---
 Turning African grain into cosmetics wins contest
 =================================================

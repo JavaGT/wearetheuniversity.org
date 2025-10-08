@@ -1,9 +1,13 @@
 ---
 slug: report-highlights-need-to-invest-in-universities
-title: "Report Highlights Need To Invest In Universities"
-date: 2008-09-11
-source-url: https://www.scoop.co.nz/stories/ED0809/S00033/report-highlights-need-to-invest-in-universities.htm
+title: Report Highlights Need To Invest In Universities
+date: 2008-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00033/report-highlights-need-to-invest-in-universities.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2008/09/11/report-highlights-need-to-invest-in-universities/index.html
+layout: layout.njk
 ---
 Report Highlights Need To Invest In Universities
 ================================================

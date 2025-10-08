@@ -1,9 +1,12 @@
 ---
 slug: dumb-and-desperate-pay-to-stay
-title: "Dumb And Desperate: Pay To Stay"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/PA0207/S00297/dumb-and-desperate-pay-to-stay.htm
+title: 'Dumb And Desperate: Pay To Stay'
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00297/dumb-and-desperate-pay-to-stay.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/10/dumb-and-desperate-pay-to-stay/index.html
+layout: layout.njk
 ---
 Dumb And Desperate: Pay To Stay
 ===============================

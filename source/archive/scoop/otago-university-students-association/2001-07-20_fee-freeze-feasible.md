@@ -1,9 +1,11 @@
 ---
 slug: fee-freeze-feasible
-title: "Fee Freeze Feasible"
-date: 2001-07-20
+title: Fee Freeze Feasible
+date: 2001-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0107/S00029/fee-freeze-feasible.htm
 author: otago-university-students-association
+permalink: /archive/2001/07/20/fee-freeze-feasible/index.html
+layout: layout.njk
 ---
 Fee Freeze Feasible
 ===================

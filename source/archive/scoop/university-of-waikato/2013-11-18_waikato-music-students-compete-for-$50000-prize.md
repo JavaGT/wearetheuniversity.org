@@ -1,9 +1,12 @@
 ---
 slug: waikato-music-students-compete-for-$50000-prize
-title: "Waikato music students compete for $50,000 prize"
-date: 2013-11-18
-source-url: https://www.scoop.co.nz/stories/CU1311/S00369/waikato-music-students-compete-for-50000-prize.htm
+title: Waikato music students compete for $50,000 prize
+date: 2013-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00369/waikato-music-students-compete-for-50000-prize.htm
 author: university-of-waikato
+permalink: /archive/2013/11/18/waikato-music-students-compete-for-/index.html
+layout: layout.njk
 ---
 Waikato music students compete for $50,000 prize
 ================================================

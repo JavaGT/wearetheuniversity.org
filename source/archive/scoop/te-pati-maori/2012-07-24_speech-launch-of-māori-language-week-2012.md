@@ -1,9 +1,12 @@
 ---
 slug: speech-launch-of-māori-language-week-2012
-title: "Speech - Launch of Māori Language Week 2012"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/CU1207/S00376/speech-launch-of-maori-language-week-2012.htm
+title: Speech - Launch of Māori Language Week 2012
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00376/speech-launch-of-maori-language-week-2012.htm
 author: te-pati-maori
+permalink: /archive/2012/07/24/speech-launch-of-m/index.html
+layout: layout.njk
 ---
 Speech - Launch of Māori Language Week 2012
 ===========================================

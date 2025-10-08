@@ -1,9 +1,12 @@
 ---
 slug: child-study-highlights-household-safety-issues
-title: "Child Study Highlights Household Safety Issues"
-date: 2017-07-28
-source-url: https://www.scoop.co.nz/stories/GE1707/S00084/child-study-highlights-household-safety-issues.htm
+title: Child Study Highlights Household Safety Issues
+date: 2017-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1707/S00084/child-study-highlights-household-safety-issues.htm
 author: auckland-university
+permalink: /archive/2017/07/28/child-study-highlights-household-safety-issues/index.html
+layout: layout.njk
 ---
 Child Study Highlights Household Safety Issues
 ==============================================

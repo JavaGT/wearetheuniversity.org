@@ -1,9 +1,13 @@
 ---
 slug: 2-year-moratorium-on-govt-regulations-needed-as-business-closures-spiral
-title: "2-year Moratorium On Govt Regulations Needed As Business Closures Spiral"
-date: 2021-03-28
-source-url: https://www.scoop.co.nz/stories/PA2103/S00219/2-year-moratorium-on-govt-regulations-needed-as-business-closures-spiral.htm
+title: 2-year Moratorium On Govt Regulations Needed As Business Closures Spiral
+date: 2021-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00219/2-year-moratorium-on-govt-regulations-needed-as-business-closures-spiral.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/28/2-year-moratorium-on-govt-regulations-needed-as-business-closures-spiral/index.html
+layout: layout.njk
 ---
 2-year Moratorium On Govt Regulations Needed As Business Closures Spiral
 ========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: northland-prison-decision-shows-common-sense
-title: "Northland Prison Decision Shows Common Sense"
-date: 2001-03-15
-source-url: https://www.scoop.co.nz/stories/PA0103/S00267/northland-prison-decision-shows-common-sense.htm
+title: Northland Prison Decision Shows Common Sense
+date: 2001-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00267/northland-prison-decision-shows-common-sense.htm
 author: act-new-zealand
+permalink: /archive/2001/03/15/northland-prison-decision-shows-common-sense/index.html
+layout: layout.njk
 ---
 Northland Prison Decision Shows Common Sense
 ============================================

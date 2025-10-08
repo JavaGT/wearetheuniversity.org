@@ -1,9 +1,13 @@
 ---
 slug: prestigious-marsden-fund-backs-world-class-otago-research
-title: "Prestigious Marsden Fund backs world-class Otago research"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00008/prestigious-marsden-fund-backs-world-class-otago-research.htm
+title: Prestigious Marsden Fund backs world-class Otago research
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00008/prestigious-marsden-fund-backs-world-class-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/04/prestigious-marsden-fund-backs-world-class-otago-research/index.html
+layout: layout.njk
 ---
 Prestigious Marsden Fund backs world-class Otago research
 =========================================================

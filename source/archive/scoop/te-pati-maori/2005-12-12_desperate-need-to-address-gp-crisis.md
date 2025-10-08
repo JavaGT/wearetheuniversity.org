@@ -1,9 +1,12 @@
 ---
 slug: desperate-need-to-address-gp-crisis
-title: "Desperate Need to Address GP Crisis"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00174/desperate-need-to-address-gp-crisis.htm
+title: Desperate Need to Address GP Crisis
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00174/desperate-need-to-address-gp-crisis.htm
 author: te-pati-maori
+permalink: /archive/2005/12/12/desperate-need-to-address-gp-crisis/index.html
+layout: layout.njk
 ---
 Desperate Need to Address GP Crisis
 ===================================

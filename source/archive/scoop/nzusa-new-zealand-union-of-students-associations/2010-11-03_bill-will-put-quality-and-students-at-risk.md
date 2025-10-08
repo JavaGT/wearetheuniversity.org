@@ -1,9 +1,12 @@
 ---
 slug: bill-will-put-quality-and-students-at-risk
-title: "Bill will put quality and students at risk"
-date: 2010-11-03
-source-url: https://www.scoop.co.nz/stories/PO1011/S00047/bill-will-put-quality-and-students-at-risk.htm
+title: Bill will put quality and students at risk
+date: 2010-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00047/bill-will-put-quality-and-students-at-risk.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/11/03/bill-will-put-quality-and-students-at-risk/index.html
+layout: layout.njk
 ---
 Bill will put quality and students at risk
 ==========================================

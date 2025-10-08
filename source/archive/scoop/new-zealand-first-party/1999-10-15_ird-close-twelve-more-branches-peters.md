@@ -1,9 +1,12 @@
 ---
 slug: ird-close-twelve-more-branches-peters
-title: "IRD Close Twelve More Branches-Peters."
-date: 1999-10-15
-source-url: https://www.scoop.co.nz/stories/PA9910/S00327/ird-close-twelve-more-branches-peters.htm
+title: IRD Close Twelve More Branches-Peters.
+date: 1999-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00327/ird-close-twelve-more-branches-peters.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/15/ird-close-twelve-more-branches-peters/index.html
+layout: layout.njk
 ---
 IRD Close Twelve More Branches-Peters.
 ======================================

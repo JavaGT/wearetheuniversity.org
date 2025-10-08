@@ -1,9 +1,12 @@
 ---
 slug: labour-list-for-the-2014-election-announced
-title: "Labour List for the 2014 Election Announced"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/PO1406/S00372/labour-list-for-the-2014-election-announced.htm
+title: Labour List for the 2014 Election Announced
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00372/labour-list-for-the-2014-election-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/23/labour-list-for-the-2014-election-announced/index.html
+layout: layout.njk
 ---
 Labour List for the 2014 Election Announced
 ===========================================

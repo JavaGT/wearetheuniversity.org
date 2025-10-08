@@ -1,9 +1,12 @@
 ---
 slug: more-toilet-cleaners-or-more-tradespeople
-title: "More toilet cleaners or more tradespeople?"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/PA1609/S00489/more-toilet-cleaners-or-more-tradespeople.htm
+title: More toilet cleaners or more tradespeople?
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00489/more-toilet-cleaners-or-more-tradespeople.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/28/more-toilet-cleaners-or-more-tradespeople/index.html
+layout: layout.njk
 ---
 More toilet cleaners or more tradespeople?
 ==========================================

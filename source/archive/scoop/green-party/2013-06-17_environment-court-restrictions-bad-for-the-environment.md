@@ -1,9 +1,13 @@
 ---
 slug: environment-court-restrictions-bad-for-the-environment
-title: "Environment Court restrictions bad for the environment"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/PA1306/S00274/environment-court-restrictions-bad-for-the-environment.htm
+title: Environment Court restrictions bad for the environment
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00274/environment-court-restrictions-bad-for-the-environment.htm
 author: green-party
+permalink: >-
+  /archive/2013/06/17/environment-court-restrictions-bad-for-the-environment/index.html
+layout: layout.njk
 ---
 Environment Court restrictions bad for the environment
 ======================================================

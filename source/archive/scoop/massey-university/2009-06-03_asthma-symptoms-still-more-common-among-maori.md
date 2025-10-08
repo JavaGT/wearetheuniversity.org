@@ -1,9 +1,12 @@
 ---
 slug: asthma-symptoms-still-more-common-among-maori
-title: "Asthma symptoms still more common among Maori"
-date: 2009-06-03
-source-url: https://www.scoop.co.nz/stories/GE0906/S00012/asthma-symptoms-still-more-common-among-maori.htm
+title: Asthma symptoms still more common among Maori
+date: 2009-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0906/S00012/asthma-symptoms-still-more-common-among-maori.htm
 author: massey-university
+permalink: /archive/2009/06/03/asthma-symptoms-still-more-common-among-maori/index.html
+layout: layout.njk
 ---
 Asthma symptoms still more common among Maori
 =============================================

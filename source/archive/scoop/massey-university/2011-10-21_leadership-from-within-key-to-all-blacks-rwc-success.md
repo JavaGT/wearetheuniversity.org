@@ -1,9 +1,13 @@
 ---
 slug: leadership-from-within-key-to-all-blacks-rwc-success
-title: "Leadership from within key to All Blacks' RWC success"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00100/leadership-from-within-key-to-all-blacks-rwc-success.htm
+title: Leadership from within key to All Blacks' RWC success
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00100/leadership-from-within-key-to-all-blacks-rwc-success.htm
 author: massey-university
+permalink: >-
+  /archive/2011/10/21/leadership-from-within-key-to-all-blacks-rwc-success/index.html
+layout: layout.njk
 ---
 Leadership from within key to All Blacks' RWC success
 =====================================================

@@ -1,8 +1,11 @@
 ---
 slug: conservation-silver-bullet
-title: "Conservation silver bullet?"
-date: 2016-03-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/conservation-silver-bullet--.html
+title: Conservation silver bullet?
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/conservation-silver-bullet--.html
+permalink: /archive/2016/03/22/conservation-silver-bullet/index.html
+layout: layout.njk
 ---
 Conservation silver bullet?
 ===========================

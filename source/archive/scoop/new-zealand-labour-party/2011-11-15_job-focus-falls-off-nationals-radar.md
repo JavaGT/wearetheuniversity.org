@@ -1,9 +1,12 @@
 ---
 slug: job-focus-falls-off-nationals-radar
-title: "Job focus falls off National's radar"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/PA1111/S00279/job-focus-falls-off-nationals-radar.htm
+title: Job focus falls off National's radar
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00279/job-focus-falls-off-nationals-radar.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/15/job-focus-falls-off-nationals-radar/index.html
+layout: layout.njk
 ---
 Job focus falls off National's radar
 ====================================

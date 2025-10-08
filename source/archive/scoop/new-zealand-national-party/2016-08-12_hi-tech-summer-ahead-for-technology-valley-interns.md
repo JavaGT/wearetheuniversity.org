@@ -1,9 +1,13 @@
 ---
 slug: hi-tech-summer-ahead-for-technology-valley-interns
-title: "Hi-tech summer ahead for Technology Valley interns"
-date: 2016-08-12
-source-url: https://www.scoop.co.nz/stories/PA1608/S00205/hi-tech-summer-ahead-for-technology-valley-interns.htm
+title: Hi-tech summer ahead for Technology Valley interns
+date: 2016-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00205/hi-tech-summer-ahead-for-technology-valley-interns.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/08/12/hi-tech-summer-ahead-for-technology-valley-interns/index.html
+layout: layout.njk
 ---
 Hi-tech summer ahead for Technology Valley interns
 ==================================================

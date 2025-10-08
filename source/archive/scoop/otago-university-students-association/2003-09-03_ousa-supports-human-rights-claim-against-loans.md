@@ -1,9 +1,12 @@
 ---
 slug: ousa-supports-human-rights-claim-against-loans
-title: "OUSA supports Human Rights claim against loans"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/ED0309/S00008/ousa-supports-human-rights-claim-against-loans.htm
+title: OUSA supports Human Rights claim against loans
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00008/ousa-supports-human-rights-claim-against-loans.htm
 author: otago-university-students-association
+permalink: /archive/2003/09/03/ousa-supports-human-rights-claim-against-loans/index.html
+layout: layout.njk
 ---
 OUSA supports Human Rights claim against loans
 ==============================================

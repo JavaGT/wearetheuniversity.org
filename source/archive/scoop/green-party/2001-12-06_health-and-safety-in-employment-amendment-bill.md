@@ -1,9 +1,12 @@
 ---
 slug: health-and-safety-in-employment-amendment-bill
-title: "Health and Safety in Employment Amendment Bill"
-date: 2001-12-06
-source-url: https://www.scoop.co.nz/stories/PA0112/S00081/health-and-safety-in-employment-amendment-bill.htm
+title: Health and Safety in Employment Amendment Bill
+date: 2001-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00081/health-and-safety-in-employment-amendment-bill.htm
 author: green-party
+permalink: /archive/2001/12/06/health-and-safety-in-employment-amendment-bill/index.html
+layout: layout.njk
 ---
 Health and Safety in Employment Amendment Bill
 ==============================================

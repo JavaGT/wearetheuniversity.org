@@ -1,9 +1,12 @@
 ---
 slug: people-perceive-robots-as-humans-not-objects
-title: "People perceive robots as humans not objects"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/SC1210/S00055/people-perceive-robots-as-humans-not-objects.htm
+title: People perceive robots as humans not objects
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00055/people-perceive-robots-as-humans-not-objects.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/29/people-perceive-robots-as-humans-not-objects/index.html
+layout: layout.njk
 ---
 People perceive robots as humans not objects
 ============================================

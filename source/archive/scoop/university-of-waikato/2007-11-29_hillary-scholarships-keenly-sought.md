@@ -1,9 +1,12 @@
 ---
 slug: hillary-scholarships-keenly-sought
-title: "Hillary Scholarships keenly sought"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/ED0711/S00123/hillary-scholarships-keenly-sought.htm
+title: Hillary Scholarships keenly sought
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00123/hillary-scholarships-keenly-sought.htm
 author: university-of-waikato
+permalink: /archive/2007/11/29/hillary-scholarships-keenly-sought/index.html
+layout: layout.njk
 ---
 Hillary Scholarships keenly sought
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: some-facts-about-labour
-title: "Some 'Facts' about Labour"
-date: 2011-11-16
+title: Some 'Facts' about Labour
+date: 2011-11-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00326/some-facts-about-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/16/some-facts-about-labour/index.html
+layout: layout.njk
 ---
 Some 'Facts' about Labour
 =========================

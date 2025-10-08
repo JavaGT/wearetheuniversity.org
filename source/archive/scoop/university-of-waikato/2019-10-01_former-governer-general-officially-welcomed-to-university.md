@@ -1,9 +1,13 @@
 ---
 slug: former-governer-general-officially-welcomed-to-university
-title: "Former Governer-General officially welcomed to University"
-date: 2019-10-01
-source-url: https://www.scoop.co.nz/stories/ED1910/S00004/former-governer-general-officially-welcomed-to-university.htm
+title: Former Governer-General officially welcomed to University
+date: 2019-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00004/former-governer-general-officially-welcomed-to-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/10/01/former-governer-general-officially-welcomed-to-university/index.html
+layout: layout.njk
 ---
 Former Governer-General officially welcomed to University
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: biosecurity-cuts-break-nats-frontline-promise
-title: "Biosecurity cuts break Nat’s frontline promise"
-date: 2009-09-10
-source-url: https://www.scoop.co.nz/stories/PA0909/S00128/biosecurity-cuts-break-nats-frontline-promise.htm
+title: Biosecurity cuts break Nat’s frontline promise
+date: 2009-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00128/biosecurity-cuts-break-nats-frontline-promise.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/10/biosecurity-cuts-break-nats-frontline-promise/index.html
+layout: layout.njk
 ---
 Biosecurity cuts break Nat’s frontline promise
 ==============================================

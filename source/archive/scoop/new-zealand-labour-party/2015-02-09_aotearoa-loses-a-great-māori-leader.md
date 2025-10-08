@@ -1,9 +1,12 @@
 ---
 slug: aotearoa-loses-a-great-māori-leader
-title: "Aotearoa loses a great Māori leader"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/PA1502/S00072/aotearoa-loses-a-great-maori-leader.htm
+title: Aotearoa loses a great Māori leader
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00072/aotearoa-loses-a-great-maori-leader.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/09/aotearoa-loses-a-great-m/index.html
+layout: layout.njk
 ---
 Aotearoa loses a great Māori leader
 ===================================

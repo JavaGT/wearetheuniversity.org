@@ -1,9 +1,12 @@
 ---
 slug: tax-relief-for-thousands-more-working-families
-title: "Tax relief for thousands more working families"
-date: 2005-08-18
-source-url: https://www.scoop.co.nz/stories/PA0508/S00473/tax-relief-for-thousands-more-working-families.htm
+title: Tax relief for thousands more working families
+date: 2005-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00473/tax-relief-for-thousands-more-working-families.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/18/tax-relief-for-thousands-more-working-families/index.html
+layout: layout.njk
 ---
 Tax relief for thousands more working families
 ==============================================

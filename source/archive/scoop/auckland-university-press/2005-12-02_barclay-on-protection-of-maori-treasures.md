@@ -1,9 +1,12 @@
 ---
 slug: barclay-on-protection-of-maori-treasures
-title: "Barclay on Protection of Maori Treasures"
-date: 2005-12-02
-source-url: https://www.scoop.co.nz/stories/CU0512/S00016/barclay-on-protection-of-maori-treasures.htm
+title: Barclay on Protection of Maori Treasures
+date: 2005-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0512/S00016/barclay-on-protection-of-maori-treasures.htm
 author: auckland-university-press
+permalink: /archive/2005/12/02/barclay-on-protection-of-maori-treasures/index.html
+layout: layout.njk
 ---
 Barclay on Protection of Maori Treasures
 ========================================

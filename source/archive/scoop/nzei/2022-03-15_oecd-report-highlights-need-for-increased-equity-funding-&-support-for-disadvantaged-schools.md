@@ -1,9 +1,16 @@
 ---
-slug: oecd-report-highlights-need-for-increased-equity-funding-&-support-for-disadvantaged-schools
-title: "OECD Report Highlights Need For Increased Equity Funding & Support For Disadvantaged Schools"
-date: 2022-03-15
-source-url: https://www.scoop.co.nz/stories/ED2203/S00020/oecd-report-highlights-need-for-increased-equity-funding-support-for-disadvantaged-schools.htm
+slug: >-
+  oecd-report-highlights-need-for-increased-equity-funding-&-support-for-disadvantaged-schools
+title: >-
+  OECD Report Highlights Need For Increased Equity Funding & Support For
+  Disadvantaged Schools
+date: 2022-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00020/oecd-report-highlights-need-for-increased-equity-funding-support-for-disadvantaged-schools.htm
 author: nzei
+permalink: >-
+  /archive/2022/03/15/oecd-report-highlights-need-for-increased-equity-funding-/index.html
+layout: layout.njk
 ---
 OECD Report Highlights Need For Increased Equity Funding & Support For Disadvantaged Schools
 ============================================================================================

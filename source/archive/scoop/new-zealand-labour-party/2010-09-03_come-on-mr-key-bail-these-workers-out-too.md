@@ -1,9 +1,12 @@
 ---
 slug: come-on-mr-key-bail-these-workers-out-too
-title: "Come on Mr Key – bail these workers out too"
-date: 2010-09-03
-source-url: https://www.scoop.co.nz/stories/PA1009/S00065/come-on-mr-key-bail-these-workers-out-too.htm
+title: Come on Mr Key – bail these workers out too
+date: 2010-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00065/come-on-mr-key-bail-these-workers-out-too.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/03/come-on-mr-key-bail-these-workers-out-too/index.html
+layout: layout.njk
 ---
 Come on Mr Key – bail these workers out too
 ===========================================

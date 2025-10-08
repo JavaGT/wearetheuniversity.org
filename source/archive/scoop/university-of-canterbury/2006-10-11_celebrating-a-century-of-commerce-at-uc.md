@@ -1,9 +1,12 @@
 ---
 slug: celebrating-a-century-of-commerce-at-uc
-title: "Celebrating a century of commerce at UC"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/PA0610/S00181/celebrating-a-century-of-commerce-at-uc.htm
+title: Celebrating a century of commerce at UC
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00181/celebrating-a-century-of-commerce-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2006/10/11/celebrating-a-century-of-commerce-at-uc/index.html
+layout: layout.njk
 ---
 Celebrating a century of commerce at UC
 =======================================

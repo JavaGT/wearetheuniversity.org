@@ -1,9 +1,12 @@
 ---
 slug: ncea-students-need-transparency
-title: "NCEA: students need transparency"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/PA0511/S00098/ncea-students-need-transparency.htm
+title: 'NCEA: students need transparency'
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00098/ncea-students-need-transparency.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/08/ncea-students-need-transparency/index.html
+layout: layout.njk
 ---
 NCEA: students need transparency
 ================================

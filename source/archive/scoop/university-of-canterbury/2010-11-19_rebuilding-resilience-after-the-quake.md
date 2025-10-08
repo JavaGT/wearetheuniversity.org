@@ -1,9 +1,12 @@
 ---
 slug: rebuilding-resilience-after-the-quake
-title: "Rebuilding resilience after the quake"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/AK1011/S00364/rebuilding-resilience-after-the-quake.htm
+title: Rebuilding resilience after the quake
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00364/rebuilding-resilience-after-the-quake.htm
 author: university-of-canterbury
+permalink: /archive/2010/11/19/rebuilding-resilience-after-the-quake/index.html
+layout: layout.njk
 ---
 Rebuilding resilience after the quake
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: students-win-complaint-against-sexist-advertising
-title: "Students win complaint against sexist advertising"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PO0405/S00180/students-win-complaint-against-sexist-advertising.htm
+title: Students win complaint against sexist advertising
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00180/students-win-complaint-against-sexist-advertising.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/05/18/students-win-complaint-against-sexist-advertising/index.html
+layout: layout.njk
 ---
 Students win complaint against sexist advertising
 =================================================

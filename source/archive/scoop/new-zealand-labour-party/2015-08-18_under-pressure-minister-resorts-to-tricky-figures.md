@@ -1,9 +1,13 @@
 ---
 slug: under-pressure-minister-resorts-to-tricky-figures
-title: "Under Pressure Minister Resorts to Tricky Figures"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/PA1508/S00288/under-pressure-minister-resorts-to-tricky-figures.htm
+title: Under Pressure Minister Resorts to Tricky Figures
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00288/under-pressure-minister-resorts-to-tricky-figures.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/18/under-pressure-minister-resorts-to-tricky-figures/index.html
+layout: layout.njk
 ---
 Under Pressure Minister Resorts to Tricky Figures
 =================================================

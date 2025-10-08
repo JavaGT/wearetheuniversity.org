@@ -1,9 +1,12 @@
 ---
 slug: usp-development-partners-forum-a-success
-title: "USP Development Partners Forum - a success"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/ED1511/S00099/usp-development-partners-forum-a-success.htm
+title: USP Development Partners Forum - a success
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00099/usp-development-partners-forum-a-success.htm
 author: university-of-the-south-pacific
+permalink: /archive/2015/11/20/usp-development-partners-forum-a-success/index.html
+layout: layout.njk
 ---
 USP Development Partners Forum - a success
 ==========================================

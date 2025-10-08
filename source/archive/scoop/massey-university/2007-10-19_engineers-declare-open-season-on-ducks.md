@@ -1,9 +1,12 @@
 ---
 slug: engineers-declare-open-season-on-ducks
-title: "Engineers declare open season on ducks"
-date: 2007-10-19
-source-url: https://www.scoop.co.nz/stories/ED0710/S00065/engineers-declare-open-season-on-ducks.htm
+title: Engineers declare open season on ducks
+date: 2007-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00065/engineers-declare-open-season-on-ducks.htm
 author: massey-university
+permalink: /archive/2007/10/19/engineers-declare-open-season-on-ducks/index.html
+layout: layout.njk
 ---
 Engineers declare open season on ducks
 ======================================

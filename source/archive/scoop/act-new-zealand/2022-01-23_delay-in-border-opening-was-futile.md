@@ -1,9 +1,12 @@
 ---
 slug: delay-in-border-opening-was-futile
-title: "Delay In Border Opening Was Futile"
-date: 2022-01-23
-source-url: https://www.scoop.co.nz/stories/PA2201/S00077/delay-in-border-opening-was-futile.htm
+title: Delay In Border Opening Was Futile
+date: 2022-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00077/delay-in-border-opening-was-futile.htm
 author: act-new-zealand
+permalink: /archive/2022/01/23/delay-in-border-opening-was-futile/index.html
+layout: layout.njk
 ---
 Delay In Border Opening Was Futile
 ==================================

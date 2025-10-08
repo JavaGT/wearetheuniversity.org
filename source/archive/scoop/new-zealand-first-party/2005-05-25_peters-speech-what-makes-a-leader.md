@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-what-makes-a-leader
-title: "Peters Speech: \"What Makes a Leader?\""
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/PA0505/S00654/peters-speech-what-makes-a-leader.htm
+title: 'Peters Speech: "What Makes a Leader?"'
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00654/peters-speech-what-makes-a-leader.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/25/peters-speech-what-makes-a-leader/index.html
+layout: layout.njk
 ---
 Peters Speech: “What Makes a Leader?”
 =====================================

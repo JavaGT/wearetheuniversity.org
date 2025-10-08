@@ -1,9 +1,13 @@
 ---
 slug: clarion-tour-to-deliver-young-labour-from-north-to-south
-title: "Clarion Tour to deliver \"young labour\" from North to South"
-date: 2011-01-13
-source-url: https://www.scoop.co.nz/stories/PO1101/S00020/clarion-tour-to-deliver-young-labour-from-north-to-south.htm
+title: Clarion Tour to deliver "young labour" from North to South
+date: 2011-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00020/clarion-tour-to-deliver-young-labour-from-north-to-south.htm
 author: young-labour
+permalink: >-
+  /archive/2011/01/13/clarion-tour-to-deliver-young-labour-from-north-to-south/index.html
+layout: layout.njk
 ---
 Clarion Tour to deliver "young labour" from North to South
 ==========================================================

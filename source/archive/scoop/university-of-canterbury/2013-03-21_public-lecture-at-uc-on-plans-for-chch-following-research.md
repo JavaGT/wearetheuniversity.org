@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-at-uc-on-plans-for-chch-following-research
-title: "Public Lecture At UC On Plans For Chch Following Research"
-date: 2013-03-21
-source-url: https://www.scoop.co.nz/stories/ED1303/S00145/public-lecture-at-uc-on-plans-for-chch-following-research.htm
+title: Public Lecture At UC On Plans For Chch Following Research
+date: 2013-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00145/public-lecture-at-uc-on-plans-for-chch-following-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/21/public-lecture-at-uc-on-plans-for-chch-following-research/index.html
+layout: layout.njk
 ---
 Public Lecture At UC On Plans For Chch Following Research
 =========================================================

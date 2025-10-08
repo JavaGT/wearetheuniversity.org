@@ -1,9 +1,13 @@
 ---
 slug: moral-distress-in-nurses-shows-crisis-in-health-sector
-title: "‘Moral distress’ in nurses shows crisis in health sector"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/PA1208/S00188/moral-distress-in-nurses-shows-crisis-in-health-sector.htm
+title: ‘Moral distress’ in nurses shows crisis in health sector
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00188/moral-distress-in-nurses-shows-crisis-in-health-sector.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/15/moral-distress-in-nurses-shows-crisis-in-health-sector/index.html
+layout: layout.njk
 ---
 ‘Moral distress’ in nurses shows crisis in health sector
 ========================================================

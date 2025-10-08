@@ -1,9 +1,12 @@
 ---
 slug: skycity-played-national-for-a-fool
-title: "SkyCity played National for a fool"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PA1307/S00293/skycity-played-national-for-a-fool.htm
+title: SkyCity played National for a fool
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00293/skycity-played-national-for-a-fool.htm
 author: green-party
+permalink: /archive/2013/07/17/skycity-played-national-for-a-fool/index.html
+layout: layout.njk
 ---
 SkyCity played National for a fool
 ==================================

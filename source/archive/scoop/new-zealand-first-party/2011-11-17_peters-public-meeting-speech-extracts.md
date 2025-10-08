@@ -1,9 +1,12 @@
 ---
 slug: peters-public-meeting-speech-extracts
-title: "Peters: Public Meeting Speech Extracts"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/PO1111/S00446/peters-public-meeting-speech-extracts.htm
+title: 'Peters: Public Meeting Speech Extracts'
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00446/peters-public-meeting-speech-extracts.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/17/peters-public-meeting-speech-extracts/index.html
+layout: layout.njk
 ---
 Peters: Public Meeting Speech Extracts
 ======================================

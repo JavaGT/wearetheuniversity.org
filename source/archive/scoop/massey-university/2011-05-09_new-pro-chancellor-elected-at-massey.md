@@ -1,9 +1,12 @@
 ---
 slug: new-pro-chancellor-elected-at-massey
-title: "New Pro-Chancellor elected at Massey"
-date: 2011-05-09
-source-url: https://www.scoop.co.nz/stories/ED1105/S00029/new-pro-chancellor-elected-at-massey.htm
+title: New Pro-Chancellor elected at Massey
+date: 2011-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00029/new-pro-chancellor-elected-at-massey.htm
 author: massey-university
+permalink: /archive/2011/05/09/new-pro-chancellor-elected-at-massey/index.html
+layout: layout.njk
 ---
 New Pro-Chancellor elected at Massey
 ====================================

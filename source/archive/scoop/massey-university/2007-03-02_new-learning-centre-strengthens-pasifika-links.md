@@ -1,9 +1,12 @@
 ---
 slug: new-learning-centre-strengthens-pasifika-links
-title: "New learning centre strengthens Pasifika links"
-date: 2007-03-02
-source-url: https://www.scoop.co.nz/stories/ED0703/S00012/new-learning-centre-strengthens-pasifika-links.htm
+title: New learning centre strengthens Pasifika links
+date: 2007-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00012/new-learning-centre-strengthens-pasifika-links.htm
 author: massey-university
+permalink: /archive/2007/03/02/new-learning-centre-strengthens-pasifika-links/index.html
+layout: layout.njk
 ---
 New learning centre strengthens Pasifika links
 ==============================================

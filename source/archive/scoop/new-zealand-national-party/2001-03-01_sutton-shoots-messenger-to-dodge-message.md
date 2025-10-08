@@ -1,9 +1,12 @@
 ---
 slug: sutton-shoots-messenger-to-dodge-message
-title: "Sutton shoots messenger to dodge message"
-date: 2001-03-01
-source-url: https://www.scoop.co.nz/stories/PA0103/S00032/sutton-shoots-messenger-to-dodge-message.htm
+title: Sutton shoots messenger to dodge message
+date: 2001-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00032/sutton-shoots-messenger-to-dodge-message.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/01/sutton-shoots-messenger-to-dodge-message/index.html
+layout: layout.njk
 ---
 Sutton shoots messenger to dodge message
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: ports-of-auckland—does-outsourcing-improve-productivity
-title: "Ports of Auckland—does outsourcing improve productivity?"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PO1202/S00067/ports-of-auckland-does-outsourcing-improve-productivity.htm
+title: Ports of Auckland—does outsourcing improve productivity?
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00067/ports-of-auckland-does-outsourcing-improve-productivity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/02/08/ports-of-auckland/index.html
+layout: layout.njk
 ---
 Ports of Auckland—does outsourcing improve productivity?
 ========================================================

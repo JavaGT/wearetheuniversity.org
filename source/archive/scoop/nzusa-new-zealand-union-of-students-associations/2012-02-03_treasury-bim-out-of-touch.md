@@ -1,9 +1,11 @@
 ---
 slug: treasury-bim-out-of-touch
-title: "Treasury BiM out of touch"
-date: 2012-02-03
+title: Treasury BiM out of touch
+date: 2012-02-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1202/S00038/treasury-bim-out-of-touch.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/02/03/treasury-bim-out-of-touch/index.html
+layout: layout.njk
 ---
 Treasury BiM out of touch
 =========================

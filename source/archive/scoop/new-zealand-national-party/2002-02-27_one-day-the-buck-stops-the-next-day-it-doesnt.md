@@ -1,9 +1,12 @@
 ---
 slug: one-day-the-buck-stops-the-next-day-it-doesnt
-title: "One day the buck stops, the next day it doesn't"
-date: 2002-02-27
-source-url: https://www.scoop.co.nz/stories/PA0202/S00426/one-day-the-buck-stops-the-next-day-it-doesnt.htm
+title: One day the buck stops, the next day it doesn't
+date: 2002-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00426/one-day-the-buck-stops-the-next-day-it-doesnt.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/27/one-day-the-buck-stops-the-next-day-it-doesnt/index.html
+layout: layout.njk
 ---
 One day the buck stops, the next day it doesn't
 ===============================================

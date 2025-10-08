@@ -1,9 +1,12 @@
 ---
 slug: market-study-welcome-but-govt-can-act-now
-title: "Market Study Welcome, But Govt Can Act Now"
-date: 2023-06-20
-source-url: https://www.scoop.co.nz/stories/PA2306/S00130/market-study-welcome-but-govt-can-act-now.htm
+title: Market Study Welcome, But Govt Can Act Now
+date: 2023-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00130/market-study-welcome-but-govt-can-act-now.htm
 author: green-party
+permalink: /archive/2023/06/20/market-study-welcome-but-govt-can-act-now/index.html
+layout: layout.njk
 ---
 Market Study Welcome, But Govt Can Act Now
 ==========================================

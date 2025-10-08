@@ -1,9 +1,12 @@
 ---
 slug: michael-cullen-speech-to-labour-conference
-title: "Michael Cullen Speech To Labour Conference"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00187/michael-cullen-speech-to-labour-conference.htm
+title: Michael Cullen Speech To Labour Conference
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00187/michael-cullen-speech-to-labour-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/11/10/michael-cullen-speech-to-labour-conference/index.html
+layout: layout.njk
 ---
 Michael Cullen Speech To Labour Conference
 ==========================================

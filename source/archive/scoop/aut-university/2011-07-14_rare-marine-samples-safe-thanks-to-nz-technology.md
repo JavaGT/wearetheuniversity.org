@@ -1,9 +1,13 @@
 ---
 slug: rare-marine-samples-safe-thanks-to-nz-technology
-title: "Rare Marine Samples Safe Thanks To NZ Technology"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/SC1107/S00033/rare-marine-samples-safe-thanks-to-nz-technology.htm
+title: Rare Marine Samples Safe Thanks To NZ Technology
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00033/rare-marine-samples-safe-thanks-to-nz-technology.htm
 author: aut-university
+permalink: >-
+  /archive/2011/07/14/rare-marine-samples-safe-thanks-to-nz-technology/index.html
+layout: layout.njk
 ---
 Rare Marine Samples Safe Thanks To NZ Technology
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-needs-to-front-on-electoral-changes
-title: "Minister Needs To Front On Electoral Changes"
-date: 2022-06-18
-source-url: https://www.scoop.co.nz/stories/PA2206/S00146/minister-needs-to-front-on-electoral-changes.htm
+title: Minister Needs To Front On Electoral Changes
+date: 2022-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00146/minister-needs-to-front-on-electoral-changes.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/18/minister-needs-to-front-on-electoral-changes/index.html
+layout: layout.njk
 ---
 Minister Needs To Front On Electoral Changes
 ============================================

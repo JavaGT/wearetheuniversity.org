@@ -1,9 +1,12 @@
 ---
 slug: a-chance-to-return-but-at-what-cost
-title: "A Chance To Return, But At What Cost?"
-date: 2021-01-16
-source-url: https://www.scoop.co.nz/stories/ED2101/S00009/a-chance-to-return-but-at-what-cost.htm
+title: A Chance To Return, But At What Cost?
+date: 2021-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2101/S00009/a-chance-to-return-but-at-what-cost.htm
 author: nzisa
+permalink: /archive/2021/01/16/a-chance-to-return-but-at-what-cost/index.html
+layout: layout.njk
 ---
 A Chance To Return, But At What Cost?
 =====================================

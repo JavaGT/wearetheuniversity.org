@@ -1,9 +1,12 @@
 ---
 slug: tribe-footing-the-bill-for-maori-party
-title: "Tribe footing the bill for Maori Party?"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/PA1609/S00179/tribe-footing-the-bill-for-maori-party.htm
+title: Tribe footing the bill for Maori Party?
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00179/tribe-footing-the-bill-for-maori-party.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/09/tribe-footing-the-bill-for-maori-party/index.html
+layout: layout.njk
 ---
 Tribe footing the bill for Maori Party?
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-signals-fee-rises-labours-broken-promise
-title: "Budget signals fee rises Labour’s broken promise"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/ED0305/S00045/budget-signals-fee-rises-labours-broken-promise.htm
+title: Budget signals fee rises Labour’s broken promise
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00045/budget-signals-fee-rises-labours-broken-promise.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/05/15/budget-signals-fee-rises-labours-broken-promise/index.html
+layout: layout.njk
 ---
 Budget signals fee rises Labour’s broken promise
 ================================================

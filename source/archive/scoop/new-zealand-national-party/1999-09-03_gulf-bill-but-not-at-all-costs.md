@@ -1,9 +1,12 @@
 ---
 slug: gulf-bill-but-not-at-all-costs
-title: "Gulf Bill But Not At All Costs"
-date: 1999-09-03
-source-url: https://www.scoop.co.nz/stories/PA9909/S00082/gulf-bill-but-not-at-all-costs.htm
+title: Gulf Bill But Not At All Costs
+date: 1999-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00082/gulf-bill-but-not-at-all-costs.htm
 author: new-zealand-national-party
+permalink: /archive/1999/09/03/gulf-bill-but-not-at-all-costs/index.html
+layout: layout.njk
 ---
 Gulf Bill But Not At All Costs
 ==============================

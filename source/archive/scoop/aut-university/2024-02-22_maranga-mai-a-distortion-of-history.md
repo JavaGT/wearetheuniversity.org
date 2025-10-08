@@ -1,9 +1,12 @@
 ---
 slug: maranga-mai-a-distortion-of-history
-title: "Maranga Mai A 'Distortion Of History'"
-date: 2024-02-22
-source-url: https://www.scoop.co.nz/stories/PO2402/S00136/maranga-mai-a-distortion-of-history.htm
+title: Maranga Mai A 'Distortion Of History'
+date: 2024-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00136/maranga-mai-a-distortion-of-history.htm
 author: aut-university
+permalink: /archive/2024/02/22/maranga-mai-a-distortion-of-history/index.html
+layout: layout.njk
 ---
 Maranga Mai A 'Distortion Of History'
 =====================================

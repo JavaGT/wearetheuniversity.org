@@ -1,9 +1,12 @@
 ---
 slug: massey-graduation-ceremonies-at-wellington
-title: "Massey graduation ceremonies at Wellington"
-date: 2018-05-28
-source-url: https://www.scoop.co.nz/stories/ED1805/S00064/massey-graduation-ceremonies-at-wellington.htm
+title: Massey graduation ceremonies at Wellington
+date: 2018-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00064/massey-graduation-ceremonies-at-wellington.htm
 author: massey-university
+permalink: /archive/2018/05/28/massey-graduation-ceremonies-at-wellington/index.html
+layout: layout.njk
 ---
 Massey graduation ceremonies at Wellington
 ==========================================

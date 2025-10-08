@@ -1,9 +1,12 @@
 ---
 slug: joys-of-letter-writing-alive-and-well
-title: "Joys of letter-writing alive and well"
-date: 2007-12-20
-source-url: https://www.scoop.co.nz/stories/CU0712/S00270/joys-of-letter-writing-alive-and-well.htm
+title: Joys of letter-writing alive and well
+date: 2007-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0712/S00270/joys-of-letter-writing-alive-and-well.htm
 author: massey-university
+permalink: /archive/2007/12/20/joys-of-letter-writing-alive-and-well/index.html
+layout: layout.njk
 ---
 Joys of letter-writing alive and well
 =====================================

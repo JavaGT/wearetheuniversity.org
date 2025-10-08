@@ -1,9 +1,12 @@
 ---
 slug: national-launches-schools-policy
-title: "National launches schools policy"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/PA0507/S00014/national-launches-schools-policy.htm
+title: National launches schools policy
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00014/national-launches-schools-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/01/national-launches-schools-policy/index.html
+layout: layout.njk
 ---
 National launches schools policy
 ================================

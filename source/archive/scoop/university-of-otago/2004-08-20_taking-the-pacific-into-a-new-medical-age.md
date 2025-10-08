@@ -1,9 +1,12 @@
 ---
 slug: taking-the-pacific-into-a-new-medical-age
-title: "Taking The Pacific Into A New Medical Age"
-date: 2004-08-20
-source-url: https://www.scoop.co.nz/stories/ED0408/S00091/taking-the-pacific-into-a-new-medical-age.htm
+title: Taking The Pacific Into A New Medical Age
+date: 2004-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00091/taking-the-pacific-into-a-new-medical-age.htm
 author: university-of-otago
+permalink: /archive/2004/08/20/taking-the-pacific-into-a-new-medical-age/index.html
+layout: layout.njk
 ---
 Taking The Pacific Into A New Medical Age
 =========================================

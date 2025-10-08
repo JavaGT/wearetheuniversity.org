@@ -1,9 +1,12 @@
 ---
 slug: govt-stuck-in-mud-over-register-for-toxic-sites
-title: "Govt stuck in mud over register for toxic sites"
-date: 2003-06-06
-source-url: https://www.scoop.co.nz/stories/PA0306/S00086/govt-stuck-in-mud-over-register-for-toxic-sites.htm
+title: Govt stuck in mud over register for toxic sites
+date: 2003-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00086/govt-stuck-in-mud-over-register-for-toxic-sites.htm
 author: green-party
+permalink: /archive/2003/06/06/govt-stuck-in-mud-over-register-for-toxic-sites/index.html
+layout: layout.njk
 ---
 Govt stuck in mud over register for toxic sites
 ===============================================

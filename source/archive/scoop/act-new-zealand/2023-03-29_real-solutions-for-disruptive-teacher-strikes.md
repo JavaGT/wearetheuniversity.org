@@ -1,9 +1,12 @@
 ---
 slug: real-solutions-for-disruptive-teacher-strikes
-title: "Real Solutions For Disruptive Teacher Strikes"
-date: 2023-03-29
-source-url: https://www.scoop.co.nz/stories/PO2303/S00225/real-solutions-for-disruptive-teacher-strikes.htm
+title: Real Solutions For Disruptive Teacher Strikes
+date: 2023-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00225/real-solutions-for-disruptive-teacher-strikes.htm
 author: act-new-zealand
+permalink: /archive/2023/03/29/real-solutions-for-disruptive-teacher-strikes/index.html
+layout: layout.njk
 ---
 Real Solutions For Disruptive Teacher Strikes
 =============================================

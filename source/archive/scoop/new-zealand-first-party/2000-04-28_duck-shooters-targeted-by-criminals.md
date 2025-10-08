@@ -1,9 +1,12 @@
 ---
 slug: duck-shooters-targeted-by-criminals
-title: "Duck Shooters Targeted By Criminals"
-date: 2000-04-28
-source-url: https://www.scoop.co.nz/stories/PA0004/S00367/duck-shooters-targeted-by-criminals.htm
+title: Duck Shooters Targeted By Criminals
+date: 2000-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00367/duck-shooters-targeted-by-criminals.htm
 author: new-zealand-first-party
+permalink: /archive/2000/04/28/duck-shooters-targeted-by-criminals/index.html
+layout: layout.njk
 ---
 Duck Shooters Targeted By Criminals
 ===================================

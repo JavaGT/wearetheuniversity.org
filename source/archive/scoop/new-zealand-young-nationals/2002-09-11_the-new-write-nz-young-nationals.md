@@ -1,9 +1,12 @@
 ---
 slug: the-new-write-nz-young-nationals
-title: "The New Write - NZ Young Nationals"
-date: 2002-09-11
-source-url: https://www.scoop.co.nz/stories/PO0209/S00050/the-new-write-nz-young-nationals.htm
+title: The New Write - NZ Young Nationals
+date: 2002-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0209/S00050/the-new-write-nz-young-nationals.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/09/11/the-new-write-nz-young-nationals/index.html
+layout: layout.njk
 ---
 The New Write - NZ Young Nationals
 ==================================

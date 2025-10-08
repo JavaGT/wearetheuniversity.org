@@ -1,9 +1,13 @@
 ---
 slug: raihania-praises-celebration-of-whakatu-25-years-on
-title: "Raihania Praises Celebration of Whakatu 25 years on"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/PA1110/S00200/raihania-praises-celebration-of-whakatu-25-years-on.htm
+title: Raihania Praises Celebration of Whakatu 25 years on
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00200/raihania-praises-celebration-of-whakatu-25-years-on.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/10/10/raihania-praises-celebration-of-whakatu-25-years-on/index.html
+layout: layout.njk
 ---
 Raihania Praises Celebration of Whakatu 25 years on
 ===================================================

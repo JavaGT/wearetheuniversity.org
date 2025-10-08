@@ -1,9 +1,13 @@
 ---
 slug: education-has-leading-role-in-building-asian-links
-title: "Education has leading role in building Asian links"
-date: 2003-11-26
-source-url: https://www.scoop.co.nz/stories/ED0311/S00087/education-has-leading-role-in-building-asian-links.htm
+title: Education has leading role in building Asian links
+date: 2003-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00087/education-has-leading-role-in-building-asian-links.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/11/26/education-has-leading-role-in-building-asian-links/index.html
+layout: layout.njk
 ---
 Education has leading role in building Asian links
 ==================================================

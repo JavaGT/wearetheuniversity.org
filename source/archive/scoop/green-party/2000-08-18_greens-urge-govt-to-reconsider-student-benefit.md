@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-govt-to-reconsider-student-benefit
-title: "Greens urge Govt to reconsider student benefit"
-date: 2000-08-18
-source-url: https://www.scoop.co.nz/stories/PA0008/S00366/greens-urge-govt-to-reconsider-student-benefit.htm
+title: Greens urge Govt to reconsider student benefit
+date: 2000-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00366/greens-urge-govt-to-reconsider-student-benefit.htm
 author: green-party
+permalink: /archive/2000/08/18/greens-urge-govt-to-reconsider-student-benefit/index.html
+layout: layout.njk
 ---
 Greens urge Govt to reconsider student benefit
 ==============================================

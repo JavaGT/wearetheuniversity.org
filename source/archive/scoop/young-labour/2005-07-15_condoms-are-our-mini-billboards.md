@@ -1,9 +1,12 @@
 ---
 slug: condoms-are-our-mini-billboards
-title: "Condoms are our 'mini billboards'"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/PO0507/S00141/condoms-are-our-mini-billboards.htm
+title: Condoms are our 'mini billboards'
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00141/condoms-are-our-mini-billboards.htm
 author: young-labour
+permalink: /archive/2005/07/15/condoms-are-our-mini-billboards/index.html
+layout: layout.njk
 ---
 Condoms are our 'mini billboards'
 =================================

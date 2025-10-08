@@ -1,9 +1,12 @@
 ---
 slug: brash-to-announce-core-economic-policies
-title: "Brash to Announce Core Economic Policies"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/PA1108/S00493/brash-to-announce-core-economic-policies.htm
+title: Brash to Announce Core Economic Policies
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00493/brash-to-announce-core-economic-policies.htm
 author: act-new-zealand
+permalink: /archive/2011/08/24/brash-to-announce-core-economic-policies/index.html
+layout: layout.njk
 ---
 Brash to Announce Core Economic Policies
 ========================================

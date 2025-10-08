@@ -1,9 +1,12 @@
 ---
 slug: locke-chosen-as-green-candidate-for-epsom
-title: "Locke Chosen As Green Candidate For Epsom"
-date: 2002-04-16
-source-url: https://www.scoop.co.nz/stories/PA0204/S00221/locke-chosen-as-green-candidate-for-epsom.htm
+title: Locke Chosen As Green Candidate For Epsom
+date: 2002-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00221/locke-chosen-as-green-candidate-for-epsom.htm
 author: green-party
+permalink: /archive/2002/04/16/locke-chosen-as-green-candidate-for-epsom/index.html
+layout: layout.njk
 ---
 Locke Chosen As Green Candidate For Epsom
 =========================================

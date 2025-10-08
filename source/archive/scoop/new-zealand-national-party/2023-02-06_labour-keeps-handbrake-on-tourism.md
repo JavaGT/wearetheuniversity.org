@@ -1,9 +1,12 @@
 ---
 slug: labour-keeps-handbrake-on-tourism
-title: "Labour Keeps Handbrake On Tourism"
-date: 2023-02-06
-source-url: https://www.scoop.co.nz/stories/PA2302/S00036/labour-keeps-handbrake-on-tourism.htm
+title: Labour Keeps Handbrake On Tourism
+date: 2023-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00036/labour-keeps-handbrake-on-tourism.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/06/labour-keeps-handbrake-on-tourism/index.html
+layout: layout.njk
 ---
 Labour Keeps Handbrake On Tourism
 =================================

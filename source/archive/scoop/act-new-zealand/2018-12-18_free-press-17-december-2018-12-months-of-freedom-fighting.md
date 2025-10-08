@@ -1,9 +1,13 @@
 ---
 slug: free-press-17-december-2018-12-months-of-freedom-fighting
-title: "Free Press, 17 December 2018 - 12 Months of Freedom Fighting"
-date: 2018-12-18
-source-url: https://www.scoop.co.nz/stories/PA1812/S00217/free-press-17-december-2018-12-months-of-freedom-fighting.htm
+title: Free Press, 17 December 2018 - 12 Months of Freedom Fighting
+date: 2018-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00217/free-press-17-december-2018-12-months-of-freedom-fighting.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/12/18/free-press-17-december-2018-12-months-of-freedom-fighting/index.html
+layout: layout.njk
 ---
 Free Press, 17 December 2018 - 12 Months of Freedom Fighting
 ============================================================

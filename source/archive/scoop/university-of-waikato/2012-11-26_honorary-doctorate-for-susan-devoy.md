@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-susan-devoy
-title: "Honorary doctorate for Susan Devoy"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/CU1211/S00521/honorary-doctorate-for-susan-devoy.htm
+title: Honorary doctorate for Susan Devoy
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00521/honorary-doctorate-for-susan-devoy.htm
 author: university-of-waikato
+permalink: /archive/2012/11/26/honorary-doctorate-for-susan-devoy/index.html
+layout: layout.njk
 ---
 Honorary doctorate for Susan Devoy
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: reserve-bank-action-shows-govt-out-of-touch-and-out-of-ideas
-title: "Reserve Bank action shows Govt out of touch and out of ideas"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/PA1505/S00200/reserve-bank-action-shows-govt-out-of-touch-and-out-of-ideas.htm
+title: Reserve Bank action shows Govt out of touch and out of ideas
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00200/reserve-bank-action-shows-govt-out-of-touch-and-out-of-ideas.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/05/13/reserve-bank-action-shows-govt-out-of-touch-and-out-of-ideas/index.html
+layout: layout.njk
 ---
 Reserve Bank action shows Govt out of touch and out of ideas
 ============================================================

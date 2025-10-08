@@ -1,9 +1,13 @@
 ---
 slug: study-highlights-complexity-of-same-sex-identity
-title: "Study Highlights Complexity Of Same Sex Identity"
-date: 2010-07-23
-source-url: https://www.scoop.co.nz/stories/ED1007/S00084/study-highlights-complexity-of-same-sex-identity.htm
+title: Study Highlights Complexity Of Same Sex Identity
+date: 2010-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00084/study-highlights-complexity-of-same-sex-identity.htm
 author: massey-university
+permalink: >-
+  /archive/2010/07/23/study-highlights-complexity-of-same-sex-identity/index.html
+layout: layout.njk
 ---
 Study Highlights Complexity Of Same Sex Identity
 ================================================

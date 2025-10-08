@@ -1,9 +1,13 @@
 ---
 slug: going-soft-on-student-loan-defaulters-a-bad-idea
-title: "Going soft on student loan defaulters a bad idea"
-date: 2017-12-21
-source-url: https://www.scoop.co.nz/stories/PA1712/S00244/going-soft-on-student-loan-defaulters-a-bad-idea.htm
+title: Going soft on student loan defaulters a bad idea
+date: 2017-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00244/going-soft-on-student-loan-defaulters-a-bad-idea.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/21/going-soft-on-student-loan-defaulters-a-bad-idea/index.html
+layout: layout.njk
 ---
 Going soft on student loan defaulters a bad idea
 ================================================

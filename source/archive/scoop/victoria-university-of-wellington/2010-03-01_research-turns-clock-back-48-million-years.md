@@ -1,9 +1,12 @@
 ---
 slug: research-turns-clock-back-48-million-years
-title: "Research Turns Clock Back 48 Million Years"
-date: 2010-03-01
-source-url: https://www.scoop.co.nz/stories/SC1003/S00001/research-turns-clock-back-48-million-years.htm
+title: Research Turns Clock Back 48 Million Years
+date: 2010-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1003/S00001/research-turns-clock-back-48-million-years.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/01/research-turns-clock-back-48-million-years/index.html
+layout: layout.njk
 ---
 Research Turns Clock Back 48 Million Years
 ==========================================

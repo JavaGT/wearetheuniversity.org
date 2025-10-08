@@ -1,9 +1,12 @@
 ---
 slug: minister-tells-nzei-reorganisations-are-over
-title: "Minister Tells NZEI Reorganisations Are Over"
-date: 2005-09-28
-source-url: https://www.scoop.co.nz/stories/ED0509/S00090/minister-tells-nzei-reorganisations-are-over.htm
+title: Minister Tells NZEI Reorganisations Are Over
+date: 2005-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00090/minister-tells-nzei-reorganisations-are-over.htm
 author: nzei
+permalink: /archive/2005/09/28/minister-tells-nzei-reorganisations-are-over/index.html
+layout: layout.njk
 ---
 Minister Tells NZEI Reorganisations Are Over
 ============================================

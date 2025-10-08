@@ -1,9 +1,12 @@
 ---
 slug: maf-wont-pay-the-bill-for-making-teachers-ill
-title: "MAF won't pay the bill for making teachers ill"
-date: 2004-07-19
-source-url: https://www.scoop.co.nz/stories/PA0407/S00301/maf-wont-pay-the-bill-for-making-teachers-ill.htm
+title: MAF won't pay the bill for making teachers ill
+date: 2004-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00301/maf-wont-pay-the-bill-for-making-teachers-ill.htm
 author: green-party
+permalink: /archive/2004/07/19/maf-wont-pay-the-bill-for-making-teachers-ill/index.html
+layout: layout.njk
 ---
 MAF won't pay the bill for making teachers ill
 ==============================================

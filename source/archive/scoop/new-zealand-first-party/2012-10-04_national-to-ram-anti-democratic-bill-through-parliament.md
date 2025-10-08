@@ -1,9 +1,13 @@
 ---
 slug: national-to-ram-anti-democratic-bill-through-parliament
-title: "National to Ram Anti-Democratic Bill through Parliament"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/PA1210/S00084/national-to-ram-anti-democratic-bill-through-parliament.htm
+title: National to Ram Anti-Democratic Bill through Parliament
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00084/national-to-ram-anti-democratic-bill-through-parliament.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/10/04/national-to-ram-anti-democratic-bill-through-parliament/index.html
+layout: layout.njk
 ---
 National to Ram Anti-Democratic Bill through Parliament
 =======================================================

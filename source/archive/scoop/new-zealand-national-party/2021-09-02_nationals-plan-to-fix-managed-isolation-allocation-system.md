@@ -1,9 +1,13 @@
 ---
 slug: nationals-plan-to-fix-managed-isolation-allocation-system
-title: "National’s plan to fix managed isolation allocation system"
-date: 2021-09-02
-source-url: https://www.scoop.co.nz/stories/PA2109/S00010/nationals-plan-to-fix-managed-isolation-allocation-system.htm
+title: National’s plan to fix managed isolation allocation system
+date: 2021-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00010/nationals-plan-to-fix-managed-isolation-allocation-system.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/02/nationals-plan-to-fix-managed-isolation-allocation-system/index.html
+layout: layout.njk
 ---
 National’s plan to fix managed isolation allocation system
 ==========================================================

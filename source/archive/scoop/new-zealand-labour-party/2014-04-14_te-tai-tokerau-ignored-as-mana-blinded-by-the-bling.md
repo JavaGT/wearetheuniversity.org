@@ -1,9 +1,13 @@
 ---
 slug: te-tai-tokerau-ignored-as-mana-blinded-by-the-bling
-title: "Te Tai Tokerau Ignored as Mana Blinded by the Bling"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00217/te-tai-tokerau-ignored-as-mana-blinded-by-the-bling.htm
+title: Te Tai Tokerau Ignored as Mana Blinded by the Bling
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00217/te-tai-tokerau-ignored-as-mana-blinded-by-the-bling.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/14/te-tai-tokerau-ignored-as-mana-blinded-by-the-bling/index.html
+layout: layout.njk
 ---
 Te Tai Tokerau Ignored as Mana Blinded by the Bling
 ===================================================

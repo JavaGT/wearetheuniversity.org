@@ -1,9 +1,12 @@
 ---
 slug: when-an-official-language-isnt-official
-title: "When an official language, isn't official"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/PA0606/S00486/when-an-official-language-isnt-official.htm
+title: When an official language, isn't official
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00486/when-an-official-language-isnt-official.htm
 author: te-pati-maori
+permalink: /archive/2006/06/23/when-an-official-language-isnt-official/index.html
+layout: layout.njk
 ---
 When an official language, isn't official
 =========================================

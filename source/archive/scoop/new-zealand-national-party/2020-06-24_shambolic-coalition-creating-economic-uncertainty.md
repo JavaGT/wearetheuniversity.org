@@ -1,9 +1,13 @@
 ---
 slug: shambolic-coalition-creating-economic-uncertainty
-title: "Shambolic Coalition Creating Economic Uncertainty"
-date: 2020-06-24
-source-url: https://www.scoop.co.nz/stories/PA2006/S00234/shambolic-coalition-creating-economic-uncertainty.htm
+title: Shambolic Coalition Creating Economic Uncertainty
+date: 2020-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00234/shambolic-coalition-creating-economic-uncertainty.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/24/shambolic-coalition-creating-economic-uncertainty/index.html
+layout: layout.njk
 ---
 Shambolic Coalition Creating Economic Uncertainty
 =================================================

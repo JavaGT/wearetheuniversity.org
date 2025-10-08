@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-the-leaders-view-20-august-200
-title: "The Right Talk, The Leader's View  - 20 August 200"
-date: 2003-08-20
-source-url: https://www.scoop.co.nz/stories/PA0308/S00403/the-right-talk-the-leaders-view-20-august-200.htm
+title: The Right Talk, The Leader's View  - 20 August 200
+date: 2003-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00403/the-right-talk-the-leaders-view-20-august-200.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/20/the-right-talk-the-leaders-view-20-august-200/index.html
+layout: layout.njk
 ---
 The Right Talk, The Leader's View - 20 August 200
 =================================================

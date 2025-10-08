@@ -1,9 +1,12 @@
 ---
 slug: statement-from-tim-van-de-molen
-title: "Statement From Tim Van De Molen"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/PA2202/S00168/statement-from-tim-van-de-molen.htm
+title: Statement From Tim Van De Molen
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00168/statement-from-tim-van-de-molen.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/23/statement-from-tim-van-de-molen/index.html
+layout: layout.njk
 ---
 Statement From Tim Van De Molen
 ===============================

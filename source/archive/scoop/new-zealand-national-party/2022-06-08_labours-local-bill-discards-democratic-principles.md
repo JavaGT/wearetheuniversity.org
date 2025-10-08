@@ -1,9 +1,13 @@
 ---
 slug: labours-local-bill-discards-democratic-principles
-title: "Labour’s Local Bill Discards Democratic Principles"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/PA2206/S00065/labours-local-bill-discards-democratic-principles.htm
+title: Labour’s Local Bill Discards Democratic Principles
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00065/labours-local-bill-discards-democratic-principles.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/06/08/labours-local-bill-discards-democratic-principles/index.html
+layout: layout.njk
 ---
 Labour’s Local Bill Discards Democratic Principles
 ==================================================

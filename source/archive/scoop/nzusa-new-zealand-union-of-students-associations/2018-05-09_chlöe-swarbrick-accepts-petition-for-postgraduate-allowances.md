@@ -1,9 +1,12 @@
 ---
 slug: chlöe-swarbrick-accepts-petition-for-postgraduate-allowances
-title: "Chlöe Swarbrick accepts petition for postgraduate allowances"
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/PO1805/S00090/chloe-swarbrick-accepts-petition-for-postgraduate-allowances.htm
+title: Chlöe Swarbrick accepts petition for postgraduate allowances
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00090/chloe-swarbrick-accepts-petition-for-postgraduate-allowances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/05/09/chl/index.html
+layout: layout.njk
 ---
 Chlöe Swarbrick accepts petition for postgraduate allowances
 ============================================================

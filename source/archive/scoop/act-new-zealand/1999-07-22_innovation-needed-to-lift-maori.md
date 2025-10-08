@@ -1,9 +1,12 @@
 ---
 slug: innovation-needed-to-lift-maori
-title: "Innovation Needed To Lift Maori"
-date: 1999-07-22
-source-url: https://www.scoop.co.nz/stories/PA9907/S00398/innovation-needed-to-lift-maori.htm
+title: Innovation Needed To Lift Maori
+date: 1999-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00398/innovation-needed-to-lift-maori.htm
 author: act-new-zealand
+permalink: /archive/1999/07/22/innovation-needed-to-lift-maori/index.html
+layout: layout.njk
 ---
 Innovation Needed To Lift Maori
 ===============================

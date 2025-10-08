@@ -1,9 +1,12 @@
 ---
 slug: greens-write-to-pm-to-call-for-rent-controls
-title: "Greens Write To PM To Call For Rent Controls"
-date: 2022-04-07
-source-url: https://www.scoop.co.nz/stories/PA2204/S00055/greens-write-to-pm-to-call-for-rent-controls.htm
+title: Greens Write To PM To Call For Rent Controls
+date: 2022-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00055/greens-write-to-pm-to-call-for-rent-controls.htm
 author: green-party
+permalink: /archive/2022/04/07/greens-write-to-pm-to-call-for-rent-controls/index.html
+layout: layout.njk
 ---
 Greens Write To PM To Call For Rent Controls
 ============================================

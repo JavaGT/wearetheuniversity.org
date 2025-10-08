@@ -1,9 +1,13 @@
 ---
 slug: kiwi-expertise-leading-the-world-on-emissions-trading
-title: "Kiwi expertise leading the world on emissions trading"
-date: 2016-03-09
-source-url: https://www.scoop.co.nz/stories/PO1603/S00144/kiwi-expertise-leading-the-world-on-emissions-trading.htm
+title: Kiwi expertise leading the world on emissions trading
+date: 2016-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00144/kiwi-expertise-leading-the-world-on-emissions-trading.htm
 author: motu
+permalink: >-
+  /archive/2016/03/09/kiwi-expertise-leading-the-world-on-emissions-trading/index.html
+layout: layout.njk
 ---
 Kiwi expertise leading the world on emissions trading
 =====================================================

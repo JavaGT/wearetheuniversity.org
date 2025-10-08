@@ -1,9 +1,13 @@
 ---
 slug: green-pressure-helps-keep-check-on-commercial-fishing
-title: "Green Pressure Helps Keep Check On Commercial Fishing"
-date: 2022-10-25
-source-url: https://www.scoop.co.nz/stories/PA2210/S00180/green-pressure-helps-keep-check-on-commercial-fishing.htm
+title: Green Pressure Helps Keep Check On Commercial Fishing
+date: 2022-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00180/green-pressure-helps-keep-check-on-commercial-fishing.htm
 author: green-party
+permalink: >-
+  /archive/2022/10/25/green-pressure-helps-keep-check-on-commercial-fishing/index.html
+layout: layout.njk
 ---
 Green Pressure Helps Keep Check On Commercial Fishing
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-to-be-new-home-of-large-nz-sculpture
-title: "University to be new home of large NZ sculpture"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/AK1408/S00072/university-to-be-new-home-of-large-nz-sculpture.htm
+title: University to be new home of large NZ sculpture
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00072/university-to-be-new-home-of-large-nz-sculpture.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/05/university-to-be-new-home-of-large-nz-sculpture/index.html
+layout: layout.njk
 ---
 University to be new home of large NZ sculpture
 ===============================================

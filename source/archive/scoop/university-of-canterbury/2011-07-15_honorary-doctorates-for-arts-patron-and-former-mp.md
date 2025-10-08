@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-arts-patron-and-former-mp
-title: "Honorary doctorates for arts patron and former MP"
-date: 2011-07-15
-source-url: https://www.scoop.co.nz/stories/ED1107/S00063/honorary-doctorates-for-arts-patron-and-former-mp.htm
+title: Honorary doctorates for arts patron and former MP
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00063/honorary-doctorates-for-arts-patron-and-former-mp.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/07/15/honorary-doctorates-for-arts-patron-and-former-mp/index.html
+layout: layout.njk
 ---
 Honorary doctorates for arts patron and former MP
 =================================================

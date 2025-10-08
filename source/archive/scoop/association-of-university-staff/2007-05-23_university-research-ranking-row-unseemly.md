@@ -1,9 +1,12 @@
 ---
 slug: university-research-ranking-row-unseemly
-title: "University research ranking row \"unseemly\""
-date: 2007-05-23
-source-url: https://www.scoop.co.nz/stories/ED0705/S00098/university-research-ranking-row-unseemly.htm
+title: University research ranking row "unseemly"
+date: 2007-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00098/university-research-ranking-row-unseemly.htm
 author: association-of-university-staff
+permalink: /archive/2007/05/23/university-research-ranking-row-unseemly/index.html
+layout: layout.njk
 ---
 University research ranking row “unseemly”
 ==========================================

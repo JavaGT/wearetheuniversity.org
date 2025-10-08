@@ -1,9 +1,12 @@
 ---
 slug: participants-needed-for-infertility-study
-title: "Participants Needed for Infertility study"
-date: 2005-06-20
-source-url: https://www.scoop.co.nz/stories/GE0506/S00094/participants-needed-for-infertility-study.htm
+title: Participants Needed for Infertility study
+date: 2005-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00094/participants-needed-for-infertility-study.htm
 author: auckland-university
+permalink: /archive/2005/06/20/participants-needed-for-infertility-study/index.html
+layout: layout.njk
 ---
 Participants Needed for Infertility study
 =========================================

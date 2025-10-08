@@ -1,9 +1,13 @@
 ---
 slug: talented-young-achievers-receive-2015-sports-scholarships
-title: "Talented young achievers receive 2015 sports scholarships"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/AK1502/S00528/talented-young-achievers-receive-2015-sports-scholarships.htm
+title: Talented young achievers receive 2015 sports scholarships
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00528/talented-young-achievers-receive-2015-sports-scholarships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/23/talented-young-achievers-receive-2015-sports-scholarships/index.html
+layout: layout.njk
 ---
 Talented young achievers receive 2015 sports scholarships
 =========================================================

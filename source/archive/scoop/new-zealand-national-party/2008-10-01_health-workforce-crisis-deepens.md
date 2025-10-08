@@ -1,9 +1,12 @@
 ---
 slug: health-workforce-crisis-deepens
-title: "Health workforce crisis deepens"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PA0810/S00019/health-workforce-crisis-deepens.htm
+title: Health workforce crisis deepens
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00019/health-workforce-crisis-deepens.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/01/health-workforce-crisis-deepens/index.html
+layout: layout.njk
 ---
 Health workforce crisis deepens
 ===============================

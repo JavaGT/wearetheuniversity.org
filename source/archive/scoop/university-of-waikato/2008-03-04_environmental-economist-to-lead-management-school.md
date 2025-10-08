@@ -1,9 +1,13 @@
 ---
 slug: environmental-economist-to-lead-management-school
-title: "Environmental economist to lead Management School"
-date: 2008-03-04
-source-url: https://www.scoop.co.nz/stories/BU0803/S00047/environmental-economist-to-lead-management-school.htm
+title: Environmental economist to lead Management School
+date: 2008-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0803/S00047/environmental-economist-to-lead-management-school.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2008/03/04/environmental-economist-to-lead-management-school/index.html
+layout: layout.njk
 ---
 Environmental economist to lead Management School
 =================================================

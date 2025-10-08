@@ -1,9 +1,13 @@
 ---
 slug: health-research-features-at-parliamentary-presentations
-title: "Health Research Features At Parliamentary Presentations"
-date: 2012-07-31
-source-url: https://www.scoop.co.nz/stories/GE1207/S00111/health-research-features-at-parliamentary-presentations.htm
+title: Health Research Features At Parliamentary Presentations
+date: 2012-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1207/S00111/health-research-features-at-parliamentary-presentations.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/31/health-research-features-at-parliamentary-presentations/index.html
+layout: layout.njk
 ---
 Health Research Features At Parliamentary Presentations
 =======================================================

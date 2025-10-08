@@ -1,9 +1,13 @@
 ---
 slug: deafening-silence-from-govt-on-details-of-fees-free
-title: "Deafening silence from Govt on details of fees-free"
-date: 2017-12-03
-source-url: https://www.scoop.co.nz/stories/PA1712/S00015/deafening-silence-from-govt-on-details-of-fees-free.htm
+title: Deafening silence from Govt on details of fees-free
+date: 2017-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00015/deafening-silence-from-govt-on-details-of-fees-free.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/03/deafening-silence-from-govt-on-details-of-fees-free/index.html
+layout: layout.njk
 ---
 Deafening silence from Govt on details of fees-free
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-deserts-the-poorer-poor
-title: "Labour Deserts the ‘Poorer Poor’"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00311/labour-deserts-the-poorer-poor.htm
+title: Labour Deserts the ‘Poorer Poor’
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00311/labour-deserts-the-poorer-poor.htm
 author: te-pati-maori
+permalink: /archive/2007/07/19/labour-deserts-the-poorer-poor/index.html
+layout: layout.njk
 ---
 Labour Deserts the ‘Poorer Poor’
 ================================

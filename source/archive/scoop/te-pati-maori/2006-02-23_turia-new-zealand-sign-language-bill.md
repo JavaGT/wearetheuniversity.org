@@ -1,9 +1,12 @@
 ---
 slug: turia-new-zealand-sign-language-bill
-title: "Turia  - New Zealand Sign Language Bill"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/PA0602/S00376/turia-new-zealand-sign-language-bill.htm
+title: Turia  - New Zealand Sign Language Bill
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00376/turia-new-zealand-sign-language-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/02/23/turia-new-zealand-sign-language-bill/index.html
+layout: layout.njk
 ---
 Turia - New Zealand Sign Language Bill
 ======================================

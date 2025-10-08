@@ -1,9 +1,12 @@
 ---
 slug: a-reformist-program-on-immigration
-title: "A Reformist Program On Immigration"
-date: 2024-11-26
-source-url: https://www.scoop.co.nz/stories/WO2411/S00261/a-reformist-program-on-immigration.htm
+title: A Reformist Program On Immigration
+date: 2024-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2411/S00261/a-reformist-program-on-immigration.htm
 author: independent-media-institute
+permalink: /archive/2024/11/26/a-reformist-program-on-immigration/index.html
+layout: layout.njk
 ---
 A Reformist Program On Immigration
 ==================================

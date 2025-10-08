@@ -1,9 +1,13 @@
 ---
 slug: evidence-supports-roll-out-of-home-safety-measures
-title: "Evidence supports roll-out of home safety measures"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PO1703/S00258/evidence-supports-roll-out-of-home-safety-measures.htm
+title: Evidence supports roll-out of home safety measures
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00258/evidence-supports-roll-out-of-home-safety-measures.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/21/evidence-supports-roll-out-of-home-safety-measures/index.html
+layout: layout.njk
 ---
 Evidence supports roll-out of home safety measures
 ==================================================

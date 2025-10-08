@@ -1,9 +1,12 @@
 ---
 slug: sham-decision-in-a-shambolic-process
-title: "\"Sham decision in a shambolic process\""
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/ED0008/S00031/sham-decision-in-a-shambolic-process.htm
+title: '"Sham decision in a shambolic process"'
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00031/sham-decision-in-a-shambolic-process.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/17/sham-decision-in-a-shambolic-process/index.html
+layout: layout.njk
 ---
 \"Sham decision in a shambolic process"
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-lancaster-park-land-vesting-bill
-title: "Flavell: Lancaster Park Land Vesting Bill"
-date: 2008-04-17
-source-url: https://www.scoop.co.nz/stories/PA0804/S00427/flavell-lancaster-park-land-vesting-bill.htm
+title: 'Flavell: Lancaster Park Land Vesting Bill'
+date: 2008-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00427/flavell-lancaster-park-land-vesting-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/04/17/flavell-lancaster-park-land-vesting-bill/index.html
+layout: layout.njk
 ---
 Flavell: Lancaster Park Land Vesting Bill
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: thar-still-under-sentence-of-death
-title: "Thar Still Under Sentence of Death"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PA0209/S00219/thar-still-under-sentence-of-death.htm
+title: Thar Still Under Sentence of Death
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00219/thar-still-under-sentence-of-death.htm
 author: act-new-zealand
+permalink: /archive/2002/09/12/thar-still-under-sentence-of-death/index.html
+layout: layout.njk
 ---
 Thar Still Under Sentence of Death
 ==================================

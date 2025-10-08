@@ -1,9 +1,12 @@
 ---
 slug: waikato-young-graduate-off-to-oxford
-title: "Waikato: Young graduate off to Oxford"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/ED1110/S00016/waikato-young-graduate-off-to-oxford.htm
+title: 'Waikato: Young graduate off to Oxford'
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00016/waikato-young-graduate-off-to-oxford.htm
 author: waikato-university
+permalink: /archive/2011/10/05/waikato-young-graduate-off-to-oxford/index.html
+layout: layout.njk
 ---
 Waikato: Young graduate off to Oxford
 =====================================

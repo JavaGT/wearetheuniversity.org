@@ -1,9 +1,12 @@
 ---
 slug: students-are-encouraged-to-enrol-to-vote
-title: "Students are encouraged to enrol to vote"
-date: 2005-05-02
-source-url: https://www.scoop.co.nz/stories/ED0505/S00002/students-are-encouraged-to-enrol-to-vote.htm
+title: Students are encouraged to enrol to vote
+date: 2005-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00002/students-are-encouraged-to-enrol-to-vote.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/05/02/students-are-encouraged-to-enrol-to-vote/index.html
+layout: layout.njk
 ---
 Students are encouraged to enrol to vote
 ========================================

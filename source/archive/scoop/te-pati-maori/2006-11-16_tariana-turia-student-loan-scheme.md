@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-student-loan-scheme
-title: "Tariana Turia: Student Loan Scheme"
-date: 2006-11-16
-source-url: https://www.scoop.co.nz/stories/PA0611/S00325/tariana-turia-student-loan-scheme.htm
+title: 'Tariana Turia: Student Loan Scheme'
+date: 2006-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00325/tariana-turia-student-loan-scheme.htm
 author: te-pati-maori
+permalink: /archive/2006/11/16/tariana-turia-student-loan-scheme/index.html
+layout: layout.njk
 ---
 Tariana Turia: Student Loan Scheme
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: steering-group-to-include-lusa-president
-title: "Steering group to include LUSA President"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/ED1302/S00006/steering-group-to-include-lusa-president.htm
+title: Steering group to include LUSA President
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00006/steering-group-to-include-lusa-president.htm
 author: lusa-lincoln-university-students
+permalink: /archive/2013/02/01/steering-group-to-include-lusa-president/index.html
+layout: layout.njk
 ---
 Steering group to include LUSA President
 ========================================

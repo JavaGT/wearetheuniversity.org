@@ -1,9 +1,12 @@
 ---
 slug: students-to-write-off-car-as-an-attack-on-debt
-title: "Students To Write Off Car As An Attack On Debt"
-date: 2002-03-25
-source-url: https://www.scoop.co.nz/stories/ED0203/S00048/students-to-write-off-car-as-an-attack-on-debt.htm
+title: Students To Write Off Car As An Attack On Debt
+date: 2002-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00048/students-to-write-off-car-as-an-attack-on-debt.htm
 author: otago-university-students-association
+permalink: /archive/2002/03/25/students-to-write-off-car-as-an-attack-on-debt/index.html
+layout: layout.njk
 ---
 Students To Write Off Car As An Attack On Debt
 ==============================================

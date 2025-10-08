@@ -1,9 +1,13 @@
 ---
 slug: kiwi-designer-a-finalist-in-pentagon-memorial-comp
-title: "Kiwi designer a finalist in Pentagon Memorial Comp"
-date: 2002-10-21
-source-url: https://www.scoop.co.nz/stories/CU0210/S00146/kiwi-designer-a-finalist-in-pentagon-memorial-comp.htm
+title: Kiwi designer a finalist in Pentagon Memorial Comp
+date: 2002-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0210/S00146/kiwi-designer-a-finalist-in-pentagon-memorial-comp.htm
 author: lincoln-university
+permalink: >-
+  /archive/2002/10/21/kiwi-designer-a-finalist-in-pentagon-memorial-comp/index.html
+layout: layout.njk
 ---
 Kiwi designer a finalist in Pentagon Memorial Comp
 ==================================================

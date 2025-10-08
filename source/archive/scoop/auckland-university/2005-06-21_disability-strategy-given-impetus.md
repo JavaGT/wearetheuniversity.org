@@ -1,9 +1,12 @@
 ---
 slug: disability-strategy-given-impetus
-title: "Disability Strategy given impetus"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/GE0506/S00101/disability-strategy-given-impetus.htm
+title: Disability Strategy given impetus
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00101/disability-strategy-given-impetus.htm
 author: auckland-university
+permalink: /archive/2005/06/21/disability-strategy-given-impetus/index.html
+layout: layout.njk
 ---
 Disability Strategy given impetus
 =================================

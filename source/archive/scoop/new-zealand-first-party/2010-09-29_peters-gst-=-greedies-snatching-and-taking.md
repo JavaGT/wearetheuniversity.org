@@ -1,9 +1,12 @@
 ---
 slug: peters-gst-=-greedies-snatching-and-taking
-title: "Peters: \"GST = Greedies Snatching And Taking\""
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PO1009/S00354/peters-gst-greedies-snatching-and-taking.htm
+title: 'Peters: "GST = Greedies Snatching And Taking"'
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00354/peters-gst-greedies-snatching-and-taking.htm
 author: new-zealand-first-party
+permalink: /archive/2010/09/29/peters-gst-/index.html
+layout: layout.njk
 ---
 Peters: “GST = Greedies Snatching And Taking”
 =============================================

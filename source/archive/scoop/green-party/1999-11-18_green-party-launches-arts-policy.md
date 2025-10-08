@@ -1,9 +1,12 @@
 ---
 slug: green-party-launches-arts-policy
-title: "Green Party launches arts policy"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PA9911/S00426/green-party-launches-arts-policy.htm
+title: Green Party launches arts policy
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00426/green-party-launches-arts-policy.htm
 author: green-party
+permalink: /archive/1999/11/18/green-party-launches-arts-policy/index.html
+layout: layout.njk
 ---
 Green Party launches arts policy
 ================================

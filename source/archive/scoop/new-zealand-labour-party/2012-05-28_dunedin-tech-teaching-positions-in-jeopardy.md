@@ -1,9 +1,12 @@
 ---
 slug: dunedin-tech-teaching-positions-in-jeopardy
-title: "Dunedin Tech Teaching Positions in Jeopardy"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/ED1205/S00139/dunedin-tech-teaching-positions-in-jeopardy.htm
+title: Dunedin Tech Teaching Positions in Jeopardy
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00139/dunedin-tech-teaching-positions-in-jeopardy.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/28/dunedin-tech-teaching-positions-in-jeopardy/index.html
+layout: layout.njk
 ---
 Dunedin Tech Teaching Positions in Jeopardy
 ===========================================

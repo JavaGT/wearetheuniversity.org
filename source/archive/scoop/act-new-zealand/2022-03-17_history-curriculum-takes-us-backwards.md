@@ -1,9 +1,12 @@
 ---
 slug: history-curriculum-takes-us-backwards
-title: "History Curriculum Takes Us Backwards"
-date: 2022-03-17
-source-url: https://www.scoop.co.nz/stories/PA2203/S00139/history-curriculum-takes-us-backwards.htm
+title: History Curriculum Takes Us Backwards
+date: 2022-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00139/history-curriculum-takes-us-backwards.htm
 author: act-new-zealand
+permalink: /archive/2022/03/17/history-curriculum-takes-us-backwards/index.html
+layout: layout.njk
 ---
 History Curriculum Takes Us Backwards
 =====================================

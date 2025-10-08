@@ -1,9 +1,12 @@
 ---
 slug: legal-neglect-has-eroded-marriage
-title: "Legal Neglect Has Eroded Marriage"
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/PO0303/S00134/legal-neglect-has-eroded-marriage.htm
+title: Legal Neglect Has Eroded Marriage
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00134/legal-neglect-has-eroded-marriage.htm
 author: maxim-institute
+permalink: /archive/2003/03/17/legal-neglect-has-eroded-marriage/index.html
+layout: layout.njk
 ---
 Legal Neglect Has Eroded Marriage
 =================================

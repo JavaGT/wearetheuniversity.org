@@ -1,9 +1,13 @@
 ---
 slug: cambridge-a-springboard-for-international-career
-title: "Cambridge A Springboard For International Career"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/ED0903/S00089/cambridge-a-springboard-for-international-career.htm
+title: Cambridge A Springboard For International Career
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00089/cambridge-a-springboard-for-international-career.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/03/26/cambridge-a-springboard-for-international-career/index.html
+layout: layout.njk
 ---
 Cambridge A Springboard For International Career
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: another-international-honour-for-distinguished-professor
-title: "Another international honour for Distinguished Professor"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/SC1504/S00058/another-international-honour-for-distinguished-professor.htm
+title: Another international honour for Distinguished Professor
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00058/another-international-honour-for-distinguished-professor.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/21/another-international-honour-for-distinguished-professor/index.html
+layout: layout.njk
 ---
 Another international honour for Distinguished Professor
 ========================================================

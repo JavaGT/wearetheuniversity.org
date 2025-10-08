@@ -1,9 +1,12 @@
 ---
 slug: taking-the-burden-off-our-health-care-system
-title: "Taking the Burden Off Our Health Care System"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00225/taking-the-burden-off-our-health-care-system.htm
+title: Taking the Burden Off Our Health Care System
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00225/taking-the-burden-off-our-health-care-system.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/13/taking-the-burden-off-our-health-care-system/index.html
+layout: layout.njk
 ---
 Taking the Burden Off Our Health Care System
 ============================================

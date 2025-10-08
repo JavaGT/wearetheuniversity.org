@@ -1,9 +1,12 @@
 ---
 slug: taranaki-teachers-call-for-mergers-not-closures
-title: "Taranaki Teachers Call For Mergers Not Closures"
-date: 2003-04-09
-source-url: https://www.scoop.co.nz/stories/ED0304/S00026/taranaki-teachers-call-for-mergers-not-closures.htm
+title: Taranaki Teachers Call For Mergers Not Closures
+date: 2003-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00026/taranaki-teachers-call-for-mergers-not-closures.htm
 author: nzei
+permalink: /archive/2003/04/09/taranaki-teachers-call-for-mergers-not-closures/index.html
+layout: layout.njk
 ---
 Taranaki Teachers Call For Mergers Not Closures
 ===============================================

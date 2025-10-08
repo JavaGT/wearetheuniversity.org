@@ -1,9 +1,12 @@
 ---
 slug: building-and-construction-spokesman
-title: "Building and Construction spokesman"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/PA0503/S00213/building-and-construction-spokesman.htm
+title: Building and Construction spokesman
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00213/building-and-construction-spokesman.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/10/building-and-construction-spokesman/index.html
+layout: layout.njk
 ---
 Building and Construction spokesman
 ===================================

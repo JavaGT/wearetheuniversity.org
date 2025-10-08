@@ -1,9 +1,13 @@
 ---
 slug: ancient-artefacts-gifted-to-universitys-logie-collection
-title: "Ancient artefacts gifted to university’s Logie Collection"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/CU1407/S00276/ancient-artefacts-gifted-to-universitys-logie-collection.htm
+title: Ancient artefacts gifted to university’s Logie Collection
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00276/ancient-artefacts-gifted-to-universitys-logie-collection.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/18/ancient-artefacts-gifted-to-universitys-logie-collection/index.html
+layout: layout.njk
 ---
 Ancient artefacts gifted to university’s Logie Collection
 =========================================================

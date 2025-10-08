@@ -1,9 +1,12 @@
 ---
 slug: nandor-on-three-day-drug-education-tour-in-chch
-title: "Nandor On Three Day Drug Education Tour In ChCh"
-date: 2001-02-22
-source-url: https://www.scoop.co.nz/stories/PA0102/S00349/nandor-on-three-day-drug-education-tour-in-chch.htm
+title: Nandor On Three Day Drug Education Tour In ChCh
+date: 2001-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00349/nandor-on-three-day-drug-education-tour-in-chch.htm
 author: green-party
+permalink: /archive/2001/02/22/nandor-on-three-day-drug-education-tour-in-chch/index.html
+layout: layout.njk
 ---
 Nandor On Three Day Drug Education Tour In ChCh
 ===============================================

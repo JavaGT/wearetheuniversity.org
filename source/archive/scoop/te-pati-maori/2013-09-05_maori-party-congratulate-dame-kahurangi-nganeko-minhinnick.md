@@ -1,9 +1,13 @@
 ---
 slug: maori-party-congratulate-dame-kahurangi-nganeko-minhinnick
-title: "Maori Party congratulate Dame Kahurangi Nganeko Minhinnick"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/PA1309/S00123/maori-party-congratulate-dame-kahurangi-nganeko-minhinnick.htm
+title: Maori Party congratulate Dame Kahurangi Nganeko Minhinnick
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00123/maori-party-congratulate-dame-kahurangi-nganeko-minhinnick.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/09/05/maori-party-congratulate-dame-kahurangi-nganeko-minhinnick/index.html
+layout: layout.njk
 ---
 Maori Party congratulate Dame Kahurangi Nganeko Minhinnick
 ==========================================================

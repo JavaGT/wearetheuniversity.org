@@ -1,9 +1,11 @@
 ---
 slug: desirability-index-desirable
-title: "Desirability Index Desirable"
-date: 2001-08-01
+title: Desirability Index Desirable
+date: 2001-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0108/S00021/desirability-index-desirable.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/01/desirability-index-desirable/index.html
+layout: layout.njk
 ---
 Desirability Index Desirable
 ============================

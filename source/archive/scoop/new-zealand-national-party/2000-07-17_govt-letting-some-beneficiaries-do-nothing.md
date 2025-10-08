@@ -1,9 +1,12 @@
 ---
 slug: govt-letting-some-beneficiaries-do-nothing
-title: "Govt. letting some beneficiaries do nothing"
-date: 2000-07-17
-source-url: https://www.scoop.co.nz/stories/PA0007/S00248/govt-letting-some-beneficiaries-do-nothing.htm
+title: Govt. letting some beneficiaries do nothing
+date: 2000-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00248/govt-letting-some-beneficiaries-do-nothing.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/17/govt-letting-some-beneficiaries-do-nothing/index.html
+layout: layout.njk
 ---
 Govt. letting some beneficiaries do nothing
 ===========================================

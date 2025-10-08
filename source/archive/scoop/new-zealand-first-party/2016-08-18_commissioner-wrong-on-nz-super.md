@@ -1,9 +1,12 @@
 ---
 slug: commissioner-wrong-on-nz-super
-title: "Commissioner Wrong on NZ Super"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/PA1608/S00325/commissioner-wrong-on-nz-super.htm
+title: Commissioner Wrong on NZ Super
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00325/commissioner-wrong-on-nz-super.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/18/commissioner-wrong-on-nz-super/index.html
+layout: layout.njk
 ---
 Commissioner Wrong on NZ Super
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: peters-nz-first-law-and-order-intiatives
-title: "Peters: NZ First Law And Order Intiatives"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/PO1111/S00069/peters-nz-first-law-and-order-intiatives.htm
+title: 'Peters: NZ First Law And Order Intiatives'
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00069/peters-nz-first-law-and-order-intiatives.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/02/peters-nz-first-law-and-order-intiatives/index.html
+layout: layout.njk
 ---
 Peters: NZ First Law And Order Intiatives
 =========================================

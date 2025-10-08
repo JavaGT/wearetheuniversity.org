@@ -1,9 +1,13 @@
 ---
 slug: adequacy-of-central-otago-flood-package-to-be-seen
-title: "Adequacy of Central Otago flood package to be seen"
-date: 2000-09-07
-source-url: https://www.scoop.co.nz/stories/PA0009/S00116/adequacy-of-central-otago-flood-package-to-be-seen.htm
+title: Adequacy of Central Otago flood package to be seen
+date: 2000-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00116/adequacy-of-central-otago-flood-package-to-be-seen.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/09/07/adequacy-of-central-otago-flood-package-to-be-seen/index.html
+layout: layout.njk
 ---
 Adequacy of Central Otago flood package to be seen
 ==================================================

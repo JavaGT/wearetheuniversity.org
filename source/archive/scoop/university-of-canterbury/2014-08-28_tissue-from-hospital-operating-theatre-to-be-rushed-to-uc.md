@@ -1,9 +1,13 @@
 ---
 slug: tissue-from-hospital-operating-theatre-to-be-rushed-to-uc
-title: "Tissue from hospital operating theatre to be rushed to UC"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/SC1408/S00082/tissue-from-hospital-operating-theatre-to-be-rushed-to-uc.htm
+title: Tissue from hospital operating theatre to be rushed to UC
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00082/tissue-from-hospital-operating-theatre-to-be-rushed-to-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/28/tissue-from-hospital-operating-theatre-to-be-rushed-to-uc/index.html
+layout: layout.njk
 ---
 Tissue from hospital operating theatre to be rushed to UC
 =========================================================

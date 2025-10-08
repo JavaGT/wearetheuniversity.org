@@ -1,9 +1,12 @@
 ---
 slug: contemporary-japanese-architecture-on-display
-title: "Contemporary Japanese Architecture on Display"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/ED0207/S00065/contemporary-japanese-architecture-on-display.htm
+title: Contemporary Japanese Architecture on Display
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00065/contemporary-japanese-architecture-on-display.htm
 author: auckland-university
+permalink: /archive/2002/07/25/contemporary-japanese-architecture-on-display/index.html
+layout: layout.njk
 ---
 Contemporary Japanese Architecture on Display
 =============================================

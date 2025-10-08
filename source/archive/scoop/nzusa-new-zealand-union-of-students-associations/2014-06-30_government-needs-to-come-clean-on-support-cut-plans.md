@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-come-clean-on-support-cut-plans
-title: "Government needs to come clean on support cut plans"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/ED1406/S00161/government-needs-to-come-clean-on-support-cut-plans.htm
+title: Government needs to come clean on support cut plans
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00161/government-needs-to-come-clean-on-support-cut-plans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/06/30/government-needs-to-come-clean-on-support-cut-plans/index.html
+layout: layout.njk
 ---
 Government needs to come clean on support cut plans
 ===================================================

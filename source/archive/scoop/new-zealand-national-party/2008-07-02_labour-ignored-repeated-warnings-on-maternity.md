@@ -1,9 +1,12 @@
 ---
 slug: labour-ignored-repeated-warnings-on-maternity
-title: "Labour ignored repeated warnings on maternity"
-date: 2008-07-02
-source-url: https://www.scoop.co.nz/stories/PA0807/S00040/labour-ignored-repeated-warnings-on-maternity.htm
+title: Labour ignored repeated warnings on maternity
+date: 2008-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00040/labour-ignored-repeated-warnings-on-maternity.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/02/labour-ignored-repeated-warnings-on-maternity/index.html
+layout: layout.njk
 ---
 Labour ignored repeated warnings on maternity
 =============================================

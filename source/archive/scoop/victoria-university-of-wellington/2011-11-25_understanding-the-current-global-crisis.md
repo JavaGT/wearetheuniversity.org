@@ -1,9 +1,12 @@
 ---
 slug: understanding-the-current-global-crisis
-title: "Understanding the current global crisis"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/ED1111/S00188/understanding-the-current-global-crisis.htm
+title: Understanding the current global crisis
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00188/understanding-the-current-global-crisis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/11/25/understanding-the-current-global-crisis/index.html
+layout: layout.njk
 ---
 Understanding the current global crisis
 =======================================

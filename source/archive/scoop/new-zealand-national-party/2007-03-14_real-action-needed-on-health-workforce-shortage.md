@@ -1,9 +1,12 @@
 ---
 slug: real-action-needed-on-health-workforce-shortage
-title: "Real action needed on health workforce shortage"
-date: 2007-03-14
-source-url: https://www.scoop.co.nz/stories/PA0703/S00267/real-action-needed-on-health-workforce-shortage.htm
+title: Real action needed on health workforce shortage
+date: 2007-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00267/real-action-needed-on-health-workforce-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/14/real-action-needed-on-health-workforce-shortage/index.html
+layout: layout.njk
 ---
 Real action needed on health workforce shortage
 ===============================================

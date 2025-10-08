@@ -1,9 +1,12 @@
 ---
 slug: new-initiatives-and-new-hope-pansy-wong
-title: "New initiatives and new hope - Pansy Wong"
-date: 2008-02-01
-source-url: https://www.scoop.co.nz/stories/PA0802/S00005/new-initiatives-and-new-hope-pansy-wong.htm
+title: New initiatives and new hope - Pansy Wong
+date: 2008-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00005/new-initiatives-and-new-hope-pansy-wong.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/01/new-initiatives-and-new-hope-pansy-wong/index.html
+layout: layout.njk
 ---
 New initiatives and new hope - Pansy Wong
 =========================================

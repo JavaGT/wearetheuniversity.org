@@ -1,9 +1,12 @@
 ---
 slug: pay-equity-petition-pushed-forward
-title: "Pay Equity Petition Pushed Forward"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/PA0905/S00267/pay-equity-petition-pushed-forward.htm
+title: Pay Equity Petition Pushed Forward
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00267/pay-equity-petition-pushed-forward.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/14/pay-equity-petition-pushed-forward/index.html
+layout: layout.njk
 ---
 Pay Equity Petition Pushed Forward
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: flavell-budget-debate
-title: "Flavell: Budget Debate"
-date: 2008-05-28
+title: 'Flavell: Budget Debate'
+date: 2008-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00556/flavell-budget-debate.htm
 author: te-pati-maori
+permalink: /archive/2008/05/28/flavell-budget-debate/index.html
+layout: layout.njk
 ---
 Flavell: Budget Debate
 ======================

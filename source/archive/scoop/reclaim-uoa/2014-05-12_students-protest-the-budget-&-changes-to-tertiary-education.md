@@ -1,9 +1,12 @@
 ---
 slug: students-protest-the-budget-&-changes-to-tertiary-education
-title: "Students Protest the Budget & Changes to Tertiary Education"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/PO1405/S00178/students-protest-the-budget-changes-to-tertiary-education.htm
+title: Students Protest the Budget & Changes to Tertiary Education
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00178/students-protest-the-budget-changes-to-tertiary-education.htm
 author: reclaim-uoa
+permalink: /archive/2014/05/12/students-protest-the-budget-/index.html
+layout: layout.njk
 ---
 Students Protest the Budget & Changes to Tertiary Education
 ===========================================================

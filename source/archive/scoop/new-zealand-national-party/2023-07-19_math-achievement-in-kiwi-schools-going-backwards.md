@@ -1,9 +1,13 @@
 ---
 slug: math-achievement-in-kiwi-schools-going-backwards
-title: "Math Achievement In Kiwi Schools Going Backwards"
-date: 2023-07-19
-source-url: https://www.scoop.co.nz/stories/PA2307/S00102/math-achievement-in-kiwi-schools-going-backwards.htm
+title: Math Achievement In Kiwi Schools Going Backwards
+date: 2023-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00102/math-achievement-in-kiwi-schools-going-backwards.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/19/math-achievement-in-kiwi-schools-going-backwards/index.html
+layout: layout.njk
 ---
 Math Achievement In Kiwi Schools Going Backwards
 ================================================

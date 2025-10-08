@@ -1,9 +1,12 @@
 ---
 slug: culture-and-diversity-theme-timely-aut
-title: "Culture and diversity theme timely - AUT"
-date: 2007-10-08
-source-url: https://www.scoop.co.nz/stories/ED0710/S00024/culture-and-diversity-theme-timely-aut.htm
+title: Culture and diversity theme timely - AUT
+date: 2007-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00024/culture-and-diversity-theme-timely-aut.htm
 author: aut-university
+permalink: /archive/2007/10/08/culture-and-diversity-theme-timely-aut/index.html
+layout: layout.njk
 ---
 Culture and diversity theme timely - AUT
 ========================================

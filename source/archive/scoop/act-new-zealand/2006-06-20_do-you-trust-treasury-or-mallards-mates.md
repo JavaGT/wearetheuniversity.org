@@ -1,9 +1,12 @@
 ---
 slug: do-you-trust-treasury-or-mallards-mates
-title: "Do You Trust Treasury, Or Mallard's Mates?"
-date: 2006-06-20
-source-url: https://www.scoop.co.nz/stories/PA0606/S00381/do-you-trust-treasury-or-mallards-mates.htm
+title: Do You Trust Treasury, Or Mallard's Mates?
+date: 2006-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00381/do-you-trust-treasury-or-mallards-mates.htm
 author: act-new-zealand
+permalink: /archive/2006/06/20/do-you-trust-treasury-or-mallards-mates/index.html
+layout: layout.njk
 ---
 Do You Trust Treasury, Or Mallard's Mates?
 ==========================================

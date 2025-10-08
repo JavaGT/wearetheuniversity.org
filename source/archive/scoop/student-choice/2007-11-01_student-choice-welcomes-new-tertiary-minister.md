@@ -1,9 +1,12 @@
 ---
 slug: student-choice-welcomes-new-tertiary-minister
-title: "Student Choice Welcomes New Tertiary Minister"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/ED0711/S00007/student-choice-welcomes-new-tertiary-minister.htm
+title: Student Choice Welcomes New Tertiary Minister
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00007/student-choice-welcomes-new-tertiary-minister.htm
 author: student-choice
+permalink: /archive/2007/11/01/student-choice-welcomes-new-tertiary-minister/index.html
+layout: layout.njk
 ---
 Student Choice Welcomes New Tertiary Minister
 =============================================

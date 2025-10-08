@@ -1,9 +1,12 @@
 ---
 slug: continued-pressure-at-heart-of-sacking
-title: "Continued pressure at heart of sacking"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00298/continued-pressure-at-heart-of-sacking.htm
+title: Continued pressure at heart of sacking
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00298/continued-pressure-at-heart-of-sacking.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/17/continued-pressure-at-heart-of-sacking/index.html
+layout: layout.njk
 ---
 Continued pressure at heart of sacking
 ======================================

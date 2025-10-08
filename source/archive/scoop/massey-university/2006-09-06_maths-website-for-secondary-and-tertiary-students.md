@@ -1,9 +1,13 @@
 ---
 slug: maths-website-for-secondary-and-tertiary-students
-title: "Maths website for secondary and tertiary students"
-date: 2006-09-06
-source-url: https://www.scoop.co.nz/stories/ED0609/S00019/maths-website-for-secondary-and-tertiary-students.htm
+title: Maths website for secondary and tertiary students
+date: 2006-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00019/maths-website-for-secondary-and-tertiary-students.htm
 author: massey-university
+permalink: >-
+  /archive/2006/09/06/maths-website-for-secondary-and-tertiary-students/index.html
+layout: layout.njk
 ---
 Maths website for secondary and tertiary students
 =================================================

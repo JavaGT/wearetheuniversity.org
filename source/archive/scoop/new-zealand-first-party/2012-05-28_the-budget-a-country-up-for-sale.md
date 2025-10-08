@@ -1,9 +1,12 @@
 ---
 slug: the-budget-a-country-up-for-sale
-title: "The Budget- a Country up For Sale"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PA1205/S00498/the-budget-a-country-up-for-sale.htm
+title: The Budget- a Country up For Sale
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00498/the-budget-a-country-up-for-sale.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/28/the-budget-a-country-up-for-sale/index.html
+layout: layout.njk
 ---
 The Budget- a Country up For Sale
 =================================

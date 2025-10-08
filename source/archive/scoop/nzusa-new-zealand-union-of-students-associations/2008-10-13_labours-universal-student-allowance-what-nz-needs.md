@@ -1,9 +1,13 @@
 ---
 slug: labours-universal-student-allowance-what-nz-needs
-title: "Labour’s universal student allowance what NZ needs"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00040/labours-universal-student-allowance-what-nz-needs.htm
+title: Labour’s universal student allowance what NZ needs
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00040/labours-universal-student-allowance-what-nz-needs.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2008/10/13/labours-universal-student-allowance-what-nz-needs/index.html
+layout: layout.njk
 ---
 Labour’s universal student allowance what NZ needs
 ==================================================

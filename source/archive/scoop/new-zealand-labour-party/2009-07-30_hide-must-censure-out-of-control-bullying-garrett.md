@@ -1,9 +1,13 @@
 ---
 slug: hide-must-censure-out-of-control-bullying-garrett
-title: "Hide must censure out-of-control, bullying Garrett"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PA0907/S00371/hide-must-censure-out-of-control-bullying-garrett.htm
+title: Hide must censure out-of-control, bullying Garrett
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00371/hide-must-censure-out-of-control-bullying-garrett.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/07/30/hide-must-censure-out-of-control-bullying-garrett/index.html
+layout: layout.njk
 ---
 Hide must censure out-of-control, bullying Garrett
 ==================================================

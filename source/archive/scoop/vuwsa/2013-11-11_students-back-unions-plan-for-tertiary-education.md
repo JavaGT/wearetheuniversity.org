@@ -1,9 +1,13 @@
 ---
 slug: students-back-unions-plan-for-tertiary-education
-title: "Students back union's plan for tertiary education"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00078/students-back-unions-plan-for-tertiary-education.htm
+title: Students back union's plan for tertiary education
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00078/students-back-unions-plan-for-tertiary-education.htm
 author: vuwsa
+permalink: >-
+  /archive/2013/11/11/students-back-unions-plan-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Students back union's plan for tertiary education
 =================================================

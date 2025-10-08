@@ -1,9 +1,12 @@
 ---
 slug: sheppards-classic-phd-columbia-fun-time
-title: "Sheppard’s Classic PhD Columbia fun time"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/ED0908/S00034/sheppards-classic-phd-columbia-fun-time.htm
+title: Sheppard’s Classic PhD Columbia fun time
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00034/sheppards-classic-phd-columbia-fun-time.htm
 author: salient
+permalink: /archive/2009/08/10/sheppards-classic-phd-columbia-fun-time/index.html
+layout: layout.njk
 ---
 Sheppard’s Classic PhD Columbia fun time
 ========================================

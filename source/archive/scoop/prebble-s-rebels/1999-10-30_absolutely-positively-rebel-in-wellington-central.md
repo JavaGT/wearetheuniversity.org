@@ -1,9 +1,13 @@
 ---
 slug: absolutely-positively-rebel-in-wellington-central
-title: "Absolutely Positively Rebel In Wellington Central"
-date: 1999-10-30
-source-url: https://www.scoop.co.nz/stories/PO9910/S00131/absolutely-positively-rebel-in-wellington-central.htm
+title: Absolutely Positively Rebel In Wellington Central
+date: 1999-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00131/absolutely-positively-rebel-in-wellington-central.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/1999/10/30/absolutely-positively-rebel-in-wellington-central/index.html
+layout: layout.njk
 ---
 Absolutely Positively Rebel In Wellington Central
 =================================================

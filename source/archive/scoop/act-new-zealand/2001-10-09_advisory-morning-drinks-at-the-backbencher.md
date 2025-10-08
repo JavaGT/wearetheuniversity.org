@@ -1,9 +1,12 @@
 ---
 slug: advisory-morning-drinks-at-the-backbencher
-title: "Advisory: 'Morning Drinks at the Backbencher'"
-date: 2001-10-09
-source-url: https://www.scoop.co.nz/stories/PA0110/S00197/advisory-morning-drinks-at-the-backbencher.htm
+title: 'Advisory: ''Morning Drinks at the Backbencher'''
+date: 2001-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00197/advisory-morning-drinks-at-the-backbencher.htm
 author: act-new-zealand
+permalink: /archive/2001/10/09/advisory-morning-drinks-at-the-backbencher/index.html
+layout: layout.njk
 ---
 Advisory: 'Morning Drinks at the Backbencher'
 =============================================

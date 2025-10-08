@@ -1,9 +1,13 @@
 ---
 slug: te-panikiretanga-o-te-reo-whaia-te-iti-kahurangi
-title: "Te Panikiretanga o te Reo: Whaia te iti kahurangi"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/PA1109/S00229/te-panikiretanga-o-te-reo-whaia-te-iti-kahurangi.htm
+title: 'Te Panikiretanga o te Reo: Whaia te iti kahurangi'
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00229/te-panikiretanga-o-te-reo-whaia-te-iti-kahurangi.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/12/te-panikiretanga-o-te-reo-whaia-te-iti-kahurangi/index.html
+layout: layout.njk
 ---
 Te Panikiretanga o te Reo: Whaia te iti kahurangi
 =================================================

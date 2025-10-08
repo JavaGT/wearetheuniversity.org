@@ -1,9 +1,12 @@
 ---
 slug: national-selects-mt-roskill-candidate
-title: "National selects Mt Roskill candidate"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/PO1610/S00293/national-selects-mt-roskill-candidate.htm
+title: National selects Mt Roskill candidate
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00293/national-selects-mt-roskill-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2016/10/19/national-selects-mt-roskill-candidate/index.html
+layout: layout.njk
 ---
 National selects Mt Roskill candidate
 =====================================

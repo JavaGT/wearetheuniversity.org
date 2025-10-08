@@ -1,9 +1,12 @@
 ---
 slug: extra-funds-a-boost-for-rimutaka-kiwi
-title: "Extra funds a boost for Rimutaka kiwi"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/PO1407/S00298/extra-funds-a-boost-for-rimutaka-kiwi.htm
+title: Extra funds a boost for Rimutaka kiwi
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00298/extra-funds-a-boost-for-rimutaka-kiwi.htm
 author: new-zealand-national-party
+permalink: /archive/2014/07/18/extra-funds-a-boost-for-rimutaka-kiwi/index.html
+layout: layout.njk
 ---
 Extra funds a boost for Rimutaka kiwi
 =====================================

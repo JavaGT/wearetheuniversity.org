@@ -1,9 +1,13 @@
 ---
 slug: education-critical-for-the-development-of-the-pacific-region
-title: "Education Critical for the Development of the Pacific Region"
-date: 2018-06-06
-source-url: https://www.scoop.co.nz/stories/ED1806/S00019/education-critical-for-the-development-of-the-pacific-region.htm
+title: Education Critical for the Development of the Pacific Region
+date: 2018-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00019/education-critical-for-the-development-of-the-pacific-region.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2018/06/06/education-critical-for-the-development-of-the-pacific-region/index.html
+layout: layout.njk
 ---
 Education Critical for the Development of the Pacific Region
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: its-time-for-a-student-revolt
-title: "It's time for a STUDENT REVOLT"
-date: 2000-08-07
-source-url: https://www.scoop.co.nz/stories/ED0008/S00016/its-time-for-a-student-revolt.htm
+title: It's time for a STUDENT REVOLT
+date: 2000-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00016/its-time-for-a-student-revolt.htm
 author: fightback
+permalink: /archive/2000/08/07/its-time-for-a-student-revolt/index.html
+layout: layout.njk
 ---
 It's time for a STUDENT REVOLT
 ==============================

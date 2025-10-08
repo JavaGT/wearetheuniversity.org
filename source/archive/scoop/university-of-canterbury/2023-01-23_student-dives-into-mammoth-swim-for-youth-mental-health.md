@@ -1,9 +1,13 @@
 ---
 slug: student-dives-into-mammoth-swim-for-youth-mental-health
-title: "Student Dives Into Mammoth Swim For Youth Mental Health"
-date: 2023-01-23
-source-url: https://www.scoop.co.nz/stories/AK2301/S00317/student-dives-into-mammoth-swim-for-youth-mental-health.htm
+title: Student Dives Into Mammoth Swim For Youth Mental Health
+date: 2023-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2301/S00317/student-dives-into-mammoth-swim-for-youth-mental-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/01/23/student-dives-into-mammoth-swim-for-youth-mental-health/index.html
+layout: layout.njk
 ---
 Student Dives Into Mammoth Swim For Youth Mental Health
 =======================================================

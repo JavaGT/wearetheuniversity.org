@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-approves-smaller-fee-rise
-title: "University of Canterbury approves smaller fee rise"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/HL9910/S00023/university-of-canterbury-approves-smaller-fee-rise.htm
+title: University of Canterbury approves smaller fee rise
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL9910/S00023/university-of-canterbury-approves-smaller-fee-rise.htm
 author: matthew-thomas
+permalink: >-
+  /archive/1999/10/06/university-of-canterbury-approves-smaller-fee-rise/index.html
+layout: layout.njk
 ---
 University of Canterbury approves smaller fee rise
 ==================================================

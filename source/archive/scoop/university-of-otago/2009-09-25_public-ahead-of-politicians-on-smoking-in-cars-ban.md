@@ -1,9 +1,13 @@
 ---
 slug: public-ahead-of-politicians-on-smoking-in-cars-ban
-title: "Public ahead of politicians on smoking in cars ban"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/GE0909/S00126/public-ahead-of-politicians-on-smoking-in-cars-ban.htm
+title: Public ahead of politicians on smoking in cars ban
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0909/S00126/public-ahead-of-politicians-on-smoking-in-cars-ban.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/09/25/public-ahead-of-politicians-on-smoking-in-cars-ban/index.html
+layout: layout.njk
 ---
 Public ahead of politicians on smoking in cars ban
 ==================================================

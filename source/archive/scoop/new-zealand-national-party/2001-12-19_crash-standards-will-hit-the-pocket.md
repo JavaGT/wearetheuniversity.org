@@ -1,9 +1,12 @@
 ---
 slug: crash-standards-will-hit-the-pocket
-title: "Crash Standards Will Hit The Pocket"
-date: 2001-12-19
-source-url: https://www.scoop.co.nz/stories/PA0112/S00367/crash-standards-will-hit-the-pocket.htm
+title: Crash Standards Will Hit The Pocket
+date: 2001-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00367/crash-standards-will-hit-the-pocket.htm
 author: new-zealand-national-party
+permalink: /archive/2001/12/19/crash-standards-will-hit-the-pocket/index.html
+layout: layout.njk
 ---
 Crash Standards Will Hit The Pocket
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: young-autistic-children-like-to-communicate-via-computers
-title: "Young Autistic Children Like To Communicate Via Computers"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/ED1302/S00149/young-autistic-children-like-to-communicate-via-computers.htm
+title: Young Autistic Children Like To Communicate Via Computers
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00149/young-autistic-children-like-to-communicate-via-computers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/27/young-autistic-children-like-to-communicate-via-computers/index.html
+layout: layout.njk
 ---
 Young Autistic Children Like To Communicate Via Computers
 =========================================================

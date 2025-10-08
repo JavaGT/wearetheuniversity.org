@@ -1,9 +1,13 @@
 ---
 slug: law-is-the-closest-we-get-to-applying-philosophy
-title: "Law is the closest we get to applying philosophy"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/ED1409/S00008/law-is-the-closest-we-get-to-applying-philosophy.htm
+title: Law is the closest we get to applying philosophy
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00008/law-is-the-closest-we-get-to-applying-philosophy.htm
 author: aut-university
+permalink: >-
+  /archive/2014/09/02/law-is-the-closest-we-get-to-applying-philosophy/index.html
+layout: layout.njk
 ---
 Law is the closest we get to applying philosophy
 ================================================

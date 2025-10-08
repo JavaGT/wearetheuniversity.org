@@ -1,9 +1,13 @@
 ---
 slug: will-a-south-island-company-win-the-2014-nz-food-awards
-title: "Will a South Island company win the 2014 NZ Food Awards?"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/CU1407/S00301/will-a-south-island-company-win-the-2014-nz-food-awards.htm
+title: Will a South Island company win the 2014 NZ Food Awards?
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00301/will-a-south-island-company-win-the-2014-nz-food-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/21/will-a-south-island-company-win-the-2014-nz-food-awards/index.html
+layout: layout.njk
 ---
 Will a South Island company win the 2014 NZ Food Awards?
 ========================================================

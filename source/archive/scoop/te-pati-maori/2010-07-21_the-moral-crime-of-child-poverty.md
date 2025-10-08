@@ -1,9 +1,12 @@
 ---
 slug: the-moral-crime-of-child-poverty
-title: "The Moral Crime of Child Poverty"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PA1007/S00331/the-moral-crime-of-child-poverty.htm
+title: The Moral Crime of Child Poverty
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00331/the-moral-crime-of-child-poverty.htm
 author: te-pati-maori
+permalink: /archive/2010/07/21/the-moral-crime-of-child-poverty/index.html
+layout: layout.njk
 ---
 The Moral Crime of Child Poverty
 ================================

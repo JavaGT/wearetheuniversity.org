@@ -1,9 +1,12 @@
 ---
 slug: service-gaps-create-barriers-for-māori-with-prostate-cancer
-title: "Service Gaps Create Barriers For Māori With Prostate Cancer"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/PO2110/S00222/service-gaps-create-barriers-for-maori-with-prostate-cancer.htm
+title: Service Gaps Create Barriers For Māori With Prostate Cancer
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00222/service-gaps-create-barriers-for-maori-with-prostate-cancer.htm
 author: aut-university
+permalink: /archive/2021/10/26/service-gaps-create-barriers-for-m/index.html
+layout: layout.njk
 ---
 Service Gaps Create Barriers For Māori With Prostate Cancer
 ===========================================================

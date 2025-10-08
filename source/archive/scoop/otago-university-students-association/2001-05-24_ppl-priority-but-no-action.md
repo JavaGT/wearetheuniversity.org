@@ -1,9 +1,11 @@
 ---
 slug: ppl-priority-but-no-action
-title: "PPL \"Priority\" But No Action"
-date: 2001-05-24
+title: PPL "Priority" But No Action
+date: 2001-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0105/S00049/ppl-priority-but-no-action.htm
 author: otago-university-students-association
+permalink: /archive/2001/05/24/ppl-priority-but-no-action/index.html
+layout: layout.njk
 ---
 PPL “Priority” But No Action
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: national-supports-mates-but-not-if-youre-from-wrong-side
-title: "National Supports Mates, But Not If You're From Wrong Side"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PA1606/S00304/national-supports-mates-but-not-if-youre-from-wrong-side.htm
+title: National Supports Mates, But Not If You're From Wrong Side
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00304/national-supports-mates-but-not-if-youre-from-wrong-side.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/16/national-supports-mates-but-not-if-youre-from-wrong-side/index.html
+layout: layout.njk
 ---
 National Supports Mates, But Not If You're From Wrong Side
 ==========================================================

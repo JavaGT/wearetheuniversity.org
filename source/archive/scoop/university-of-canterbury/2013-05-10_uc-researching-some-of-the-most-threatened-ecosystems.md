@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-some-of-the-most-threatened-ecosystems
-title: "UC Researching Some of the Most Threatened Ecosystems"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/SC1305/S00046/uc-researching-some-of-the-most-threatened-ecosystems.htm
+title: UC Researching Some of the Most Threatened Ecosystems
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00046/uc-researching-some-of-the-most-threatened-ecosystems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/10/uc-researching-some-of-the-most-threatened-ecosystems/index.html
+layout: layout.njk
 ---
 UC Researching Some of the Most Threatened Ecosystems
 =====================================================

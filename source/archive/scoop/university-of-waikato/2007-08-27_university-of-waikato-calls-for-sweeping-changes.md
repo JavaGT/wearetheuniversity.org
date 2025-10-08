@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-calls-for-sweeping-changes
-title: "University of Waikato calls for sweeping changes"
-date: 2007-08-27
-source-url: https://www.scoop.co.nz/stories/ED0708/S00083/university-of-waikato-calls-for-sweeping-changes.htm
+title: University of Waikato calls for sweeping changes
+date: 2007-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00083/university-of-waikato-calls-for-sweeping-changes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/08/27/university-of-waikato-calls-for-sweeping-changes/index.html
+layout: layout.njk
 ---
 University of Waikato calls for sweeping changes
 ================================================

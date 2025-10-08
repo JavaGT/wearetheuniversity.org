@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-through-the-eyes-of-a-child
-title: "Fitzsimons: Through the Eyes of a Child"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PA0810/S00104/fitzsimons-through-the-eyes-of-a-child.htm
+title: 'Fitzsimons: Through the Eyes of a Child'
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00104/fitzsimons-through-the-eyes-of-a-child.htm
 author: green-party
+permalink: /archive/2008/10/06/fitzsimons-through-the-eyes-of-a-child/index.html
+layout: layout.njk
 ---
 Fitzsimons: Through the Eyes of a Child
 =======================================

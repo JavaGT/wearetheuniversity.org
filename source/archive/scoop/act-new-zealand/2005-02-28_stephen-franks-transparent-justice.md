@@ -1,9 +1,12 @@
 ---
 slug: stephen-franks-transparent-justice
-title: "Stephen Franks -Transparent Justice"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/PA0502/S00579/stephen-franks-transparent-justice.htm
+title: Stephen Franks -Transparent Justice
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00579/stephen-franks-transparent-justice.htm
 author: act-new-zealand
+permalink: /archive/2005/02/28/stephen-franks-transparent-justice/index.html
+layout: layout.njk
 ---
 Stephen Franks -Transparent Justice
 ===================================

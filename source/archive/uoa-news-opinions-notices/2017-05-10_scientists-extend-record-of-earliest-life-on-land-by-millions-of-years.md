@@ -1,8 +1,12 @@
 ---
 slug: scientists-extend-record-of-earliest-life-on-land-by-millions-of-years
-title: "Scientists extend record of earliest life on land by millions of years"
-date: 2017-05-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/scientists-extend-record-of-earliest-land-life-by-millions-of-years.html
+title: Scientists extend record of earliest life on land by millions of years
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/scientists-extend-record-of-earliest-land-life-by-millions-of-years.html
+permalink: >-
+  /archive/2017/05/10/scientists-extend-record-of-earliest-life-on-land-by-millions-of-years/index.html
+layout: layout.njk
 ---
 Scientists extend record of earliest life on land by millions of years
 ======================================================================

@@ -1,9 +1,12 @@
 ---
 slug: jacinda-ardern-talks-about-life-as-an-mp
-title: "Jacinda Ardern talks about life as an MP"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/PO1408/S00300/jacinda-ardern-talks-about-life-as-an-mp.htm
+title: Jacinda Ardern talks about life as an MP
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00300/jacinda-ardern-talks-about-life-as-an-mp.htm
 author: massey-university
+permalink: /archive/2014/08/19/jacinda-ardern-talks-about-life-as-an-mp/index.html
+layout: layout.njk
 ---
 Jacinda Ardern talks about life as an MP
 ========================================

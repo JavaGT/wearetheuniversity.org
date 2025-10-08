@@ -1,9 +1,12 @@
 ---
 slug: ctus-helen-kelly-speech-to-labour-congress
-title: "CTU's Helen Kelly Speech To LAbour Congress"
-date: 2008-04-14
-source-url: https://www.scoop.co.nz/stories/PO0804/S00208/ctus-helen-kelly-speech-to-labour-congress.htm
+title: CTU's Helen Kelly Speech To LAbour Congress
+date: 2008-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00208/ctus-helen-kelly-speech-to-labour-congress.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/04/14/ctus-helen-kelly-speech-to-labour-congress/index.html
+layout: layout.njk
 ---
 CTU's Helen Kelly Speech To LAbour Congress
 ===========================================

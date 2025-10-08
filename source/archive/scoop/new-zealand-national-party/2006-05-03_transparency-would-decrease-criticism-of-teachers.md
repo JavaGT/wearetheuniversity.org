@@ -1,9 +1,13 @@
 ---
 slug: transparency-would-decrease-criticism-of-teachers
-title: "Transparency would decrease criticism of teachers"
-date: 2006-05-03
-source-url: https://www.scoop.co.nz/stories/PA0605/S00073/transparency-would-decrease-criticism-of-teachers.htm
+title: Transparency would decrease criticism of teachers
+date: 2006-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00073/transparency-would-decrease-criticism-of-teachers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/05/03/transparency-would-decrease-criticism-of-teachers/index.html
+layout: layout.njk
 ---
 Transparency would decrease criticism of teachers
 =================================================

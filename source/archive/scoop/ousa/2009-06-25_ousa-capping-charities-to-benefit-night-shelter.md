@@ -1,9 +1,12 @@
 ---
 slug: ousa-capping-charities-to-benefit-night-shelter
-title: "OUSA Capping Charities To Benefit Night Shelter"
-date: 2009-06-25
-source-url: https://www.scoop.co.nz/stories/CU0906/S00275/ousa-capping-charities-to-benefit-night-shelter.htm
+title: OUSA Capping Charities To Benefit Night Shelter
+date: 2009-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0906/S00275/ousa-capping-charities-to-benefit-night-shelter.htm
 author: ousa
+permalink: /archive/2009/06/25/ousa-capping-charities-to-benefit-night-shelter/index.html
+layout: layout.njk
 ---
 OUSA Capping Charities To Benefit Night Shelter
 ===============================================

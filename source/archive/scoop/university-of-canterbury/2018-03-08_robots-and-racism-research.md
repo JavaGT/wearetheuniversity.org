@@ -1,9 +1,11 @@
 ---
 slug: robots-and-racism-research
-title: "Robots and racism research"
-date: 2018-03-08
+title: Robots and racism research
+date: 2018-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1803/S00013/robots-and-racism-research.htm
 author: university-of-canterbury
+permalink: /archive/2018/03/08/robots-and-racism-research/index.html
+layout: layout.njk
 ---
 Robots and racism research
 ==========================

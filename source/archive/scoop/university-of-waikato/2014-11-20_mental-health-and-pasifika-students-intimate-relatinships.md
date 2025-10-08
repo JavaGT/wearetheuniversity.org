@@ -1,9 +1,13 @@
 ---
 slug: mental-health-and-pasifika-students-intimate-relatinships
-title: "Mental health and Pasifika students’ intimate relatinships"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/ED1411/S00132/mental-health-and-pasifika-students-intimate-relatinships.htm
+title: Mental health and Pasifika students’ intimate relatinships
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00132/mental-health-and-pasifika-students-intimate-relatinships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/20/mental-health-and-pasifika-students-intimate-relatinships/index.html
+layout: layout.njk
 ---
 Mental health and Pasifika students’ intimate relatinships
 ==========================================================

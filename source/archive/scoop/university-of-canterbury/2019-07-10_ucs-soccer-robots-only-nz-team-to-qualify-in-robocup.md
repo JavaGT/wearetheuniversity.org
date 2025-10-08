@@ -1,9 +1,13 @@
 ---
 slug: ucs-soccer-robots-only-nz-team-to-qualify-in-robocup
-title: "UC’s soccer robots only NZ team to qualify in RoboCup"
-date: 2019-07-10
-source-url: https://www.scoop.co.nz/stories/CU1907/S00108/ucs-soccer-robots-only-nz-team-to-qualify-in-robocup.htm
+title: UC’s soccer robots only NZ team to qualify in RoboCup
+date: 2019-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1907/S00108/ucs-soccer-robots-only-nz-team-to-qualify-in-robocup.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/07/10/ucs-soccer-robots-only-nz-team-to-qualify-in-robocup/index.html
+layout: layout.njk
 ---
 UC’s soccer robots only NZ team to qualify in RoboCup
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: jones-is-rodney-hide-pushing-drugs-to-youth
-title: "Jones: Is Rodney Hide pushing drugs to youth?"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/PA0803/S00363/jones-is-rodney-hide-pushing-drugs-to-youth.htm
+title: 'Jones: Is Rodney Hide pushing drugs to youth?'
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00363/jones-is-rodney-hide-pushing-drugs-to-youth.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/03/20/jones-is-rodney-hide-pushing-drugs-to-youth/index.html
+layout: layout.njk
 ---
 Jones: Is Rodney Hide pushing drugs to youth?
 =============================================

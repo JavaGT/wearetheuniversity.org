@@ -1,9 +1,13 @@
 ---
 slug: national-muddying-waters-and-needs-to-come-clean
-title: "National muddying waters and needs to come clean"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00261/national-muddying-waters-and-needs-to-come-clean.htm
+title: National muddying waters and needs to come clean
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00261/national-muddying-waters-and-needs-to-come-clean.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/14/national-muddying-waters-and-needs-to-come-clean/index.html
+layout: layout.njk
 ---
 National muddying waters and needs to come clean
 ================================================

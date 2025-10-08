@@ -1,9 +1,13 @@
 ---
 slug: brett-hudson-welcomes-new-funding-for-churton-park-school
-title: "Brett Hudson welcomes new funding for Churton Park School"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/PA1612/S00273/brett-hudson-welcomes-new-funding-for-churton-park-school.htm
+title: Brett Hudson welcomes new funding for Churton Park School
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00273/brett-hudson-welcomes-new-funding-for-churton-park-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/12/15/brett-hudson-welcomes-new-funding-for-churton-park-school/index.html
+layout: layout.njk
 ---
 Brett Hudson welcomes new funding for Churton Park School
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-2013-enrolments
-title: "University Of Canterbury 2013 Enrolments"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/ED1303/S00059/university-of-canterbury-2013-enrolments.htm
+title: University Of Canterbury 2013 Enrolments
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00059/university-of-canterbury-2013-enrolments.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/08/university-of-canterbury-2013-enrolments/index.html
+layout: layout.njk
 ---
 University Of Canterbury 2013 Enrolments
 ========================================

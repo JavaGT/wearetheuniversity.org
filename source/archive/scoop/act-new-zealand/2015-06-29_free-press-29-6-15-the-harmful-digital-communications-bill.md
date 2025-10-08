@@ -1,9 +1,13 @@
 ---
 slug: free-press-29-6-15-the-harmful-digital-communications-bill
-title: "Free Press 29/6/15: The Harmful Digital Communications Bill"
-date: 2015-06-29
-source-url: https://www.scoop.co.nz/stories/PO1506/S00304/free-press-29615-the-harmful-digital-communications-bill.htm
+title: 'Free Press 29/6/15: The Harmful Digital Communications Bill'
+date: 2015-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1506/S00304/free-press-29615-the-harmful-digital-communications-bill.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/06/29/free-press-29-6-15-the-harmful-digital-communications-bill/index.html
+layout: layout.njk
 ---
 Free Press 29/6/15: The Harmful Digital Communications Bill
 ===========================================================

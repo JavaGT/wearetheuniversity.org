@@ -1,9 +1,13 @@
 ---
 slug: christchurch-best-place-in-the-world-to-be-a-civil-engineer
-title: "Christchurch best place in the world to be a civil engineer"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/AK1210/S00457/christchurch-best-place-in-the-world-to-be-a-civil-engineer.htm
+title: Christchurch best place in the world to be a civil engineer
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00457/christchurch-best-place-in-the-world-to-be-a-civil-engineer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/17/christchurch-best-place-in-the-world-to-be-a-civil-engineer/index.html
+layout: layout.njk
 ---
 Christchurch best place in the world to be a civil engineer
 ===========================================================

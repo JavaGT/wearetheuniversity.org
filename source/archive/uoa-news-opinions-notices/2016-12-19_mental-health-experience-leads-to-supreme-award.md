@@ -1,8 +1,11 @@
 ---
 slug: mental-health-experience-leads-to-supreme-award
-title: "Mental health experience leads to Supreme Award"
-date: 2016-12-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/mental-health-experience-leads-to-supreme-award.html
+title: Mental health experience leads to Supreme Award
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/mental-health-experience-leads-to-supreme-award.html
+permalink: /archive/2016/12/19/mental-health-experience-leads-to-supreme-award/index.html
+layout: layout.njk
 ---
 Mental health experience leads to Supreme Award
 ===============================================

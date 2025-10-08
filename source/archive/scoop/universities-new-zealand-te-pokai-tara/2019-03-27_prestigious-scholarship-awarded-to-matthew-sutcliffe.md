@@ -1,9 +1,13 @@
 ---
 slug: prestigious-scholarship-awarded-to-matthew-sutcliffe
-title: "Prestigious Scholarship awarded to Matthew Sutcliffe"
-date: 2019-03-27
-source-url: https://www.scoop.co.nz/stories/ED1903/S00057/prestigious-scholarship-awarded-to-matthew-sutcliffe.htm
+title: Prestigious Scholarship awarded to Matthew Sutcliffe
+date: 2019-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00057/prestigious-scholarship-awarded-to-matthew-sutcliffe.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/03/27/prestigious-scholarship-awarded-to-matthew-sutcliffe/index.html
+layout: layout.njk
 ---
 Prestigious Scholarship awarded to Matthew Sutcliffe
 ====================================================

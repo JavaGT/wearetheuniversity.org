@@ -1,9 +1,12 @@
 ---
 slug: fitzsimmons-greening-government-the-scorecard
-title: "Fitzsimmons: Greening Government - The Scorecard"
-date: 2001-06-05
-source-url: https://www.scoop.co.nz/stories/PA0106/S00036/fitzsimmons-greening-government-the-scorecard.htm
+title: 'Fitzsimmons: Greening Government - The Scorecard'
+date: 2001-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00036/fitzsimmons-greening-government-the-scorecard.htm
 author: green-party
+permalink: /archive/2001/06/05/fitzsimmons-greening-government-the-scorecard/index.html
+layout: layout.njk
 ---
 Fitzsimmons: Greening Government - The Scorecard
 ================================================

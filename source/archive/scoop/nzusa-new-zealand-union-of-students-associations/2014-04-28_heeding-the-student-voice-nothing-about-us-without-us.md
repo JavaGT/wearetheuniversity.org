@@ -1,9 +1,13 @@
 ---
 slug: heeding-the-student-voice-nothing-about-us-without-us
-title: "Heeding the Student Voice – Nothing About Us Without Us"
-date: 2014-04-28
-source-url: https://www.scoop.co.nz/stories/PO1404/S00392/heeding-the-student-voice-nothing-about-us-without-us.htm
+title: Heeding the Student Voice – Nothing About Us Without Us
+date: 2014-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00392/heeding-the-student-voice-nothing-about-us-without-us.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/04/28/heeding-the-student-voice-nothing-about-us-without-us/index.html
+layout: layout.njk
 ---
 Heeding the Student Voice – Nothing About Us Without Us
 =======================================================

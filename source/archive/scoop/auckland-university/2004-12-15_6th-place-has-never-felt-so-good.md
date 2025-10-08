@@ -1,9 +1,12 @@
 ---
 slug: 6th-place-has-never-felt-so-good
-title: "6th Place Has Never Felt So Good"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/CU0412/S00084/6th-place-has-never-felt-so-good.htm
+title: 6th Place Has Never Felt So Good
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0412/S00084/6th-place-has-never-felt-so-good.htm
 author: auckland-university
+permalink: /archive/2004/12/15/6th-place-has-never-felt-so-good/index.html
+layout: layout.njk
 ---
 6th Place Has Never Felt So Good
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-trashing-nature-for-its-industry-mates
-title: "Govt Trashing Nature For Its Industry Mates"
-date: 2023-12-20
-source-url: https://www.scoop.co.nz/stories/PA2312/S00076/govt-trashing-nature-for-its-industry-mates.htm
+title: Govt Trashing Nature For Its Industry Mates
+date: 2023-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00076/govt-trashing-nature-for-its-industry-mates.htm
 author: green-party
+permalink: /archive/2023/12/20/govt-trashing-nature-for-its-industry-mates/index.html
+layout: layout.njk
 ---
 Govt Trashing Nature For Its Industry Mates
 ===========================================

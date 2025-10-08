@@ -1,9 +1,12 @@
 ---
 slug: what-else-could-feilding-high-school-do
-title: "What else could Feilding High School do?"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00235/what-else-could-feilding-high-school-do.htm
+title: What else could Feilding High School do?
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00235/what-else-could-feilding-high-school-do.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/what-else-could-feilding-high-school-do/index.html
+layout: layout.njk
 ---
 What else could Feilding High School do?
 ========================================

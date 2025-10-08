@@ -1,9 +1,12 @@
 ---
 slug: northcote-mp-offers-to-meet-teachers
-title: "Northcote MP offers to meet teachers"
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/PA0205/S00569/northcote-mp-offers-to-meet-teachers.htm
+title: Northcote MP offers to meet teachers
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00569/northcote-mp-offers-to-meet-teachers.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/05/24/northcote-mp-offers-to-meet-teachers/index.html
+layout: layout.njk
 ---
 Northcote MP offers to meet teachers
 ====================================

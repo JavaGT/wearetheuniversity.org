@@ -1,9 +1,12 @@
 ---
 slug: race-policy-review-prevarication
-title: "Race Policy Review Prevarication"
-date: 2004-03-26
-source-url: https://www.scoop.co.nz/stories/PA0403/S00587/race-policy-review-prevarication.htm
+title: Race Policy Review Prevarication
+date: 2004-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00587/race-policy-review-prevarication.htm
 author: act-new-zealand
+permalink: /archive/2004/03/26/race-policy-review-prevarication/index.html
+layout: layout.njk
 ---
 Race Policy Review Prevarication
 ================================

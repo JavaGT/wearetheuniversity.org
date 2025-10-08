@@ -1,9 +1,12 @@
 ---
 slug: poor-return-for-extra-government-spending
-title: "Poor return for extra Government spending"
-date: 2020-02-07
-source-url: https://www.scoop.co.nz/stories/PA2002/S00044/poor-return-for-extra-government-spending.htm
+title: Poor return for extra Government spending
+date: 2020-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00044/poor-return-for-extra-government-spending.htm
 author: new-zealand-national-party
+permalink: /archive/2020/02/07/poor-return-for-extra-government-spending/index.html
+layout: layout.njk
 ---
 Poor return for extra Government spending
 =========================================

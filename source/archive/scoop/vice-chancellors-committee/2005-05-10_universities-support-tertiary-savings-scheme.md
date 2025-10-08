@@ -1,9 +1,12 @@
 ---
 slug: universities-support-tertiary-savings-scheme
-title: "Universities Support Tertiary Savings Scheme"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/ED0505/S00036/universities-support-tertiary-savings-scheme.htm
+title: Universities Support Tertiary Savings Scheme
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00036/universities-support-tertiary-savings-scheme.htm
 author: vice-chancellors-committee
+permalink: /archive/2005/05/10/universities-support-tertiary-savings-scheme/index.html
+layout: layout.njk
 ---
 Universities Support Tertiary Savings Scheme
 ============================================

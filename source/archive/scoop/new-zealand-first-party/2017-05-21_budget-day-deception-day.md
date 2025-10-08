@@ -1,9 +1,11 @@
 ---
 slug: budget-day-deception-day
-title: "Budget day/deception day"
-date: 2017-05-21
+title: Budget day/deception day
+date: 2017-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1705/S00425/budget-daydeception-day.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/21/budget-day-deception-day/index.html
+layout: layout.njk
 ---
 Budget day/deception day
 ========================

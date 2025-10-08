@@ -1,9 +1,12 @@
 ---
 slug: victim-continues-to-wait-for-reparation
-title: "Victim continues to wait for reparation"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/PA0611/S00474/victim-continues-to-wait-for-reparation.htm
+title: Victim continues to wait for reparation
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00474/victim-continues-to-wait-for-reparation.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/24/victim-continues-to-wait-for-reparation/index.html
+layout: layout.njk
 ---
 Victim continues to wait for reparation
 =======================================

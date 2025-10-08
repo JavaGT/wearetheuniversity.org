@@ -1,9 +1,13 @@
 ---
 slug: announcing-the-inaugural-winners-of-the-acc-scholarship
-title: "Announcing The Inaugural Winners Of The ACC Scholarship"
-date: 2024-11-18
-source-url: https://www.scoop.co.nz/stories/ED2411/S00035/announcing-the-inaugural-winners-of-the-acc-scholarship.htm
+title: Announcing The Inaugural Winners Of The ACC Scholarship
+date: 2024-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00035/announcing-the-inaugural-winners-of-the-acc-scholarship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/11/18/announcing-the-inaugural-winners-of-the-acc-scholarship/index.html
+layout: layout.njk
 ---
 Announcing The Inaugural Winners Of The ACC Scholarship
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: tarawera-study-could-help-save-rotorua-lakes
-title: "Tarawera study could help save Rotorua lakes"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/ED0405/S00020/tarawera-study-could-help-save-rotorua-lakes.htm
+title: Tarawera study could help save Rotorua lakes
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00020/tarawera-study-could-help-save-rotorua-lakes.htm
 author: waikato-university
+permalink: /archive/2004/05/05/tarawera-study-could-help-save-rotorua-lakes/index.html
+layout: layout.njk
 ---
 Tarawera study could help save Rotorua lakes
 ============================================

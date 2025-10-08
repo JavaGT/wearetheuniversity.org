@@ -1,9 +1,12 @@
 ---
 slug: kiwibank-kiwisaver-now-kiwifuture
-title: "KiwiBank, KiwiSaver now KiwiFuture"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PO0810/S00188/kiwibank-kiwisaver-now-kiwifuture.htm
+title: KiwiBank, KiwiSaver now KiwiFuture
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00188/kiwibank-kiwisaver-now-kiwifuture.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/13/kiwibank-kiwisaver-now-kiwifuture/index.html
+layout: layout.njk
 ---
 KiwiBank, KiwiSaver now KiwiFuture
 ==================================

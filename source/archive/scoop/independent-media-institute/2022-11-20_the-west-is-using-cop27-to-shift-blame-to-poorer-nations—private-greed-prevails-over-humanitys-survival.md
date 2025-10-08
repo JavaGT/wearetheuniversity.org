@@ -1,9 +1,16 @@
 ---
-slug: the-west-is-using-cop27-to-shift-blame-to-poorer-nations—private-greed-prevails-over-humanitys-survival
-title: "The West Is Using COP27 To Shift Blame To Poorer Nations—Private Greed Prevails Over Humanity’s Survival"
-date: 2022-11-20
-source-url: https://www.scoop.co.nz/stories/WO2211/S00143/the-west-is-using-cop27-to-shift-blame-to-poorer-nations-private-greed-prevails-over-humanitys-survival.htm
+slug: >-
+  the-west-is-using-cop27-to-shift-blame-to-poorer-nations—private-greed-prevails-over-humanitys-survival
+title: >-
+  The West Is Using COP27 To Shift Blame To Poorer Nations—Private Greed
+  Prevails Over Humanity’s Survival
+date: 2022-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2211/S00143/the-west-is-using-cop27-to-shift-blame-to-poorer-nations-private-greed-prevails-over-humanitys-survival.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2022/11/20/the-west-is-using-cop27-to-shift-blame-to-poorer-nations/index.html
+layout: layout.njk
 ---
 The West Is Using COP27 To Shift Blame To Poorer Nations—Private Greed Prevails Over Humanity’s Survival
 ========================================================================================================

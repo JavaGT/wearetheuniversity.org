@@ -1,9 +1,13 @@
 ---
 slug: prison-contract-appalling-risk-with-public-money
-title: "Prison contract ‘appalling risk’ with public money"
-date: 2007-01-16
-source-url: https://www.scoop.co.nz/stories/PA0701/S00067/prison-contract-appalling-risk-with-public-money.htm
+title: Prison contract ‘appalling risk’ with public money
+date: 2007-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00067/prison-contract-appalling-risk-with-public-money.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/01/16/prison-contract-appalling-risk-with-public-money/index.html
+layout: layout.njk
 ---
 Prison contract ‘appalling risk’ with public money
 ==================================================

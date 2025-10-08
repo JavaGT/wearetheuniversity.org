@@ -1,9 +1,13 @@
 ---
 slug: what-do-we-vote-for-political-cliques-or-policies
-title: "What do we vote for? Political cliques or Policies"
-date: 1999-11-02
-source-url: https://www.scoop.co.nz/stories/PA9911/S00056/what-do-we-vote-for-political-cliques-or-policies.htm
+title: What do we vote for? Political cliques or Policies
+date: 1999-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00056/what-do-we-vote-for-political-cliques-or-policies.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/1999/11/02/what-do-we-vote-for-political-cliques-or-policies/index.html
+layout: layout.njk
 ---
 What do we vote for? Political cliques or Policies
 ==================================================

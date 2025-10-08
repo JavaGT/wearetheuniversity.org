@@ -1,9 +1,12 @@
 ---
 slug: labour-portfolios-and-rankings
-title: "Labour Portfolios And Rankings"
-date: 2013-02-25
-source-url: https://www.scoop.co.nz/stories/PA1302/S00372/labour-portfolios-and-rankings.htm
+title: Labour Portfolios And Rankings
+date: 2013-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00372/labour-portfolios-and-rankings.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/25/labour-portfolios-and-rankings/index.html
+layout: layout.njk
 ---
 Labour Portfolios And Rankings
 ==============================

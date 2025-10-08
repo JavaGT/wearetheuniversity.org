@@ -1,9 +1,12 @@
 ---
 slug: first-surplus-a-blip-on-radar-screen-of-debt
-title: "First surplus a blip on radar screen of debt"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00216/first-surplus-a-blip-on-radar-screen-of-debt.htm
+title: First surplus a blip on radar screen of debt
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00216/first-surplus-a-blip-on-radar-screen-of-debt.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/14/first-surplus-a-blip-on-radar-screen-of-debt/index.html
+layout: layout.njk
 ---
 First surplus a blip on radar screen of debt
 ============================================

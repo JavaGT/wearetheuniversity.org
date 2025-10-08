@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-address-to-regional-conference
-title: "Judy Kirk: Address To Regional Conference"
-date: 2007-05-13
-source-url: https://www.scoop.co.nz/stories/PA0705/S00310/judy-kirk-address-to-regional-conference.htm
+title: 'Judy Kirk: Address To Regional Conference'
+date: 2007-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00310/judy-kirk-address-to-regional-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/13/judy-kirk-address-to-regional-conference/index.html
+layout: layout.njk
 ---
 Judy Kirk: Address To Regional Conference
 =========================================

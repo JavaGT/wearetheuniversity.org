@@ -1,9 +1,12 @@
 ---
 slug: harawira-misuse-of-drugs-(classification-of-bzp)
-title: "Harawira: Misuse of Drugs (Classification of BZP)"
-date: 2008-03-14
-source-url: https://www.scoop.co.nz/stories/PA0803/S00249/harawira-misuse-of-drugs-classification-of-bzp.htm
+title: 'Harawira: Misuse of Drugs (Classification of BZP)'
+date: 2008-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00249/harawira-misuse-of-drugs-classification-of-bzp.htm
 author: te-pati-maori
+permalink: /archive/2008/03/14/harawira-misuse-of-drugs-/index.html
+layout: layout.njk
 ---
 Harawira: Misuse of Drugs (Classification of BZP)
 =================================================

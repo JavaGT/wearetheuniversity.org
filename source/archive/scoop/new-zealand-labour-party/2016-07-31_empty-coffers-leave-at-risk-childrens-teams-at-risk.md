@@ -1,9 +1,13 @@
 ---
 slug: empty-coffers-leave-at-risk-childrens-teams-at-risk
-title: "Empty coffers leave at risk children’s teams at risk"
-date: 2016-07-31
-source-url: https://www.scoop.co.nz/stories/PA1607/S00438/empty-coffers-leave-at-risk-childrens-teams-at-risk.htm
+title: Empty coffers leave at risk children’s teams at risk
+date: 2016-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00438/empty-coffers-leave-at-risk-childrens-teams-at-risk.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/07/31/empty-coffers-leave-at-risk-childrens-teams-at-risk/index.html
+layout: layout.njk
 ---
 Empty coffers leave at risk children’s teams at risk
 ====================================================

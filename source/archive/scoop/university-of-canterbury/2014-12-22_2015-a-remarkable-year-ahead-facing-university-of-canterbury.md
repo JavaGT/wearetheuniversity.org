@@ -1,9 +1,13 @@
 ---
 slug: 2015-a-remarkable-year-ahead-facing-university-of-canterbury
-title: "2015 a remarkable year ahead facing University of Canterbury"
-date: 2014-12-22
-source-url: https://www.scoop.co.nz/stories/ED1412/S00134/2015-a-remarkable-year-ahead-facing-university-of-canterbury.htm
+title: 2015 a remarkable year ahead facing University of Canterbury
+date: 2014-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00134/2015-a-remarkable-year-ahead-facing-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/22/2015-a-remarkable-year-ahead-facing-university-of-canterbury/index.html
+layout: layout.njk
 ---
 2015 a remarkable year ahead facing University of Canterbury
 ============================================================

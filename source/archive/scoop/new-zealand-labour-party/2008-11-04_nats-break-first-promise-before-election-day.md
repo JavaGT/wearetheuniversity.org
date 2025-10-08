@@ -1,9 +1,12 @@
 ---
 slug: nats-break-first-promise-before-election-day
-title: "Nats break first promise before Election Day"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00077/nats-break-first-promise-before-election-day.htm
+title: Nats break first promise before Election Day
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00077/nats-break-first-promise-before-election-day.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/04/nats-break-first-promise-before-election-day/index.html
+layout: layout.njk
 ---
 Nats break first promise before Election Day
 ============================================

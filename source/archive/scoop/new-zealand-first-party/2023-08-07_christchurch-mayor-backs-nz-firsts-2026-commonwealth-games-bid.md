@@ -1,9 +1,13 @@
 ---
 slug: christchurch-mayor-backs-nz-firsts-2026-commonwealth-games-bid
-title: "Christchurch Mayor Backs NZ First’s 2026 Commonwealth Games Bid"
-date: 2023-08-07
-source-url: https://www.scoop.co.nz/stories/PO2308/S00066/christchurch-mayor-backs-nz-firsts-2026-commonwealth-games-bid.htm
+title: Christchurch Mayor Backs NZ First’s 2026 Commonwealth Games Bid
+date: 2023-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00066/christchurch-mayor-backs-nz-firsts-2026-commonwealth-games-bid.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2023/08/07/christchurch-mayor-backs-nz-firsts-2026-commonwealth-games-bid/index.html
+layout: layout.njk
 ---
 Christchurch Mayor Backs NZ First’s 2026 Commonwealth Games Bid
 ===============================================================

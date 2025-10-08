@@ -1,9 +1,13 @@
 ---
 slug: labour-promises-to-restore-democracy-in-canterbury
-title: "Labour promises to restore democracy in Canterbury"
-date: 2015-03-17
-source-url: https://www.scoop.co.nz/stories/PA1503/S00247/labour-promises-to-restore-democracy-in-canterbury.htm
+title: Labour promises to restore democracy in Canterbury
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00247/labour-promises-to-restore-democracy-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/17/labour-promises-to-restore-democracy-in-canterbury/index.html
+layout: layout.njk
 ---
 Labour promises to restore democracy in Canterbury
 ==================================================

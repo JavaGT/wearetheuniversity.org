@@ -1,9 +1,12 @@
 ---
 slug: interested-journalists-invited-to-seminar
-title: "Interested journalists invited to seminar"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/ED0210/S00019/interested-journalists-invited-to-seminar.htm
+title: Interested journalists invited to seminar
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00019/interested-journalists-invited-to-seminar.htm
 author: auckland-university
+permalink: /archive/2002/10/07/interested-journalists-invited-to-seminar/index.html
+layout: layout.njk
 ---
 Interested journalists invited to seminar
 =========================================

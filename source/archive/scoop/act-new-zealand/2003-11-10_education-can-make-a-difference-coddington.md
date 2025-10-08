@@ -1,9 +1,12 @@
 ---
 slug: education-can-make-a-difference-coddington
-title: "Education Can Make A Difference - Coddington"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00170/education-can-make-a-difference-coddington.htm
+title: Education Can Make A Difference - Coddington
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00170/education-can-make-a-difference-coddington.htm
 author: act-new-zealand
+permalink: /archive/2003/11/10/education-can-make-a-difference-coddington/index.html
+layout: layout.njk
 ---
 Education Can Make A Difference - Coddington
 ============================================

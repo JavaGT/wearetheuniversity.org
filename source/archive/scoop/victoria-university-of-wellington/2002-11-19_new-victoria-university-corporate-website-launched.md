@@ -1,9 +1,13 @@
 ---
 slug: new-victoria-university-corporate-website-launched
-title: "New Victoria University corporate website launched"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/ED0211/S00043/new-victoria-university-corporate-website-launched.htm
+title: New Victoria University corporate website launched
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00043/new-victoria-university-corporate-website-launched.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/11/19/new-victoria-university-corporate-website-launched/index.html
+layout: layout.njk
 ---
 New Victoria University corporate website launched
 ==================================================

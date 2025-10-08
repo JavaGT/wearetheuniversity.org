@@ -1,9 +1,12 @@
 ---
 slug: uc-biochemist-named-one-of-nzs-top-teachers
-title: "UC biochemist named one of NZ’s top teachers"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00028/uc-biochemist-named-one-of-nzs-top-teachers.htm
+title: UC biochemist named one of NZ’s top teachers
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00028/uc-biochemist-named-one-of-nzs-top-teachers.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/05/uc-biochemist-named-one-of-nzs-top-teachers/index.html
+layout: layout.njk
 ---
 UC biochemist named one of NZ’s top teachers
 ============================================

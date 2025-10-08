@@ -1,9 +1,13 @@
 ---
 slug: record-level-of-investors-as-first-homebuyers-squeezed-out
-title: "Record level of investors as first homebuyers squeezed out"
-date: 2017-03-26
-source-url: https://www.scoop.co.nz/stories/PA1703/S00447/record-level-of-investors-as-first-homebuyers-squeezed-out.htm
+title: Record level of investors as first homebuyers squeezed out
+date: 2017-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00447/record-level-of-investors-as-first-homebuyers-squeezed-out.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/26/record-level-of-investors-as-first-homebuyers-squeezed-out/index.html
+layout: layout.njk
 ---
 Record level of investors as first homebuyers squeezed out
 ==========================================================

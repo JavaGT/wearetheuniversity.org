@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-gain-funding-for-projects
-title: "Otago researchers gain funding for projects"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/ED0910/S00029/otago-researchers-gain-funding-for-projects.htm
+title: Otago researchers gain funding for projects
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00029/otago-researchers-gain-funding-for-projects.htm
 author: university-of-otago
+permalink: /archive/2009/10/08/otago-researchers-gain-funding-for-projects/index.html
+layout: layout.njk
 ---
 Otago researchers gain funding for projects
 ===========================================

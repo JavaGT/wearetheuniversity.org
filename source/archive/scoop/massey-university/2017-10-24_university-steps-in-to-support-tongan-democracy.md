@@ -1,9 +1,12 @@
 ---
 slug: university-steps-in-to-support-tongan-democracy
-title: "University steps in to support Tongan democracy"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/ED1710/S00066/university-steps-in-to-support-tongan-democracy.htm
+title: University steps in to support Tongan democracy
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00066/university-steps-in-to-support-tongan-democracy.htm
 author: massey-university
+permalink: /archive/2017/10/24/university-steps-in-to-support-tongan-democracy/index.html
+layout: layout.njk
 ---
 University steps in to support Tongan democracy
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: with-tourists-arriving-are-we-still-serious-about-seven-day-iso
-title: "With Tourists Arriving, Are We Still Serious About Seven Day Iso?"
-date: 2022-04-14
-source-url: https://www.scoop.co.nz/stories/PA2204/S00112/with-tourists-arriving-are-we-still-serious-about-seven-day-iso.htm
+title: With Tourists Arriving, Are We Still Serious About Seven Day Iso?
+date: 2022-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00112/with-tourists-arriving-are-we-still-serious-about-seven-day-iso.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/04/14/with-tourists-arriving-are-we-still-serious-about-seven-day-iso/index.html
+layout: layout.njk
 ---
 With Tourists Arriving, Are We Still Serious About Seven Day Iso?
 =================================================================

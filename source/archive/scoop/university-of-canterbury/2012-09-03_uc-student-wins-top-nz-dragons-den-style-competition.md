@@ -1,9 +1,13 @@
 ---
 slug: uc-student-wins-top-nz-dragons-den-style-competition
-title: "UC student wins top NZ Dragon’s Den style competition"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/ED1209/S00003/uc-student-wins-top-nz-dragons-den-style-competition.htm
+title: UC student wins top NZ Dragon’s Den style competition
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00003/uc-student-wins-top-nz-dragons-den-style-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/03/uc-student-wins-top-nz-dragons-den-style-competition/index.html
+layout: layout.njk
 ---
 UC student wins top NZ Dragon’s Den style competition
 =====================================================

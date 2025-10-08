@@ -1,9 +1,12 @@
 ---
 slug: new-initiative-to-increase-and-support-māori-and-pasifika-midwifery-students
-title: "New Initiative To Increase And Support Māori And Pasifika Midwifery Students"
-date: 2021-03-30
-source-url: https://www.scoop.co.nz/stories/ED2103/S00058/new-initiative-to-increase-and-support-maori-and-pasifika-midwifery-students.htm
+title: New Initiative To Increase And Support Māori And Pasifika Midwifery Students
+date: 2021-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00058/new-initiative-to-increase-and-support-maori-and-pasifika-midwifery-students.htm
 author: aut-university
+permalink: /archive/2021/03/30/new-initiative-to-increase-and-support-m/index.html
+layout: layout.njk
 ---
 New Initiative To Increase And Support Māori And Pasifika Midwifery Students
 ============================================================================

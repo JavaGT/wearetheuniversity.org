@@ -1,9 +1,12 @@
 ---
 slug: student-debt-sweet-$16-billion
-title: "Student debt - Sweet $16 billion"
-date: 2020-01-30
-source-url: https://www.scoop.co.nz/stories/PO2001/S00156/student-debt-sweet-16-billion.htm
+title: Student debt - Sweet $16 billion
+date: 2020-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2001/S00156/student-debt-sweet-16-billion.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/01/30/student-debt-sweet-/index.html
+layout: layout.njk
 ---
 Student debt - Sweet $16 billion
 ================================

@@ -1,9 +1,11 @@
 ---
 slug: youth-beds-urgently-needed
-title: "Youth beds urgently needed"
-date: 2006-05-29
+title: Youth beds urgently needed
+date: 2006-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00674/youth-beds-urgently-needed.htm
 author: green-party
+permalink: /archive/2006/05/29/youth-beds-urgently-needed/index.html
+layout: layout.njk
 ---
 Youth beds urgently needed
 ==========================

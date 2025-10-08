@@ -1,9 +1,12 @@
 ---
 slug: plenty-of-options-asset-sales-not-one-of-them
-title: "Plenty of options, asset sales not one of them"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/PA1408/S00008/plenty-of-options-asset-sales-not-one-of-them.htm
+title: Plenty of options, asset sales not one of them
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00008/plenty-of-options-asset-sales-not-one-of-them.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/01/plenty-of-options-asset-sales-not-one-of-them/index.html
+layout: layout.njk
 ---
 Plenty of options, asset sales not one of them
 ==============================================

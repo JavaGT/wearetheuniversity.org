@@ -1,9 +1,12 @@
 ---
 slug: nandors-bill-solution-to-prohibition-crisis
-title: "Nandor's Bill solution to prohibition crisis"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/PA0507/S00379/nandors-bill-solution-to-prohibition-crisis.htm
+title: Nandor's Bill solution to prohibition crisis
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00379/nandors-bill-solution-to-prohibition-crisis.htm
 author: green-party
+permalink: /archive/2005/07/19/nandors-bill-solution-to-prohibition-crisis/index.html
+layout: layout.njk
 ---
 Nandor's Bill solution to prohibition crisis
 ============================================

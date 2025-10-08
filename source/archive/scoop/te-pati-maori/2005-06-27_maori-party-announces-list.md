@@ -1,9 +1,11 @@
 ---
 slug: maori-party-announces-list
-title: "Maori Party Announces List"
-date: 2005-06-27
+title: Maori Party Announces List
+date: 2005-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0506/S00285/maori-party-announces-list.htm
 author: te-pati-maori
+permalink: /archive/2005/06/27/maori-party-announces-list/index.html
+layout: layout.njk
 ---
 Maori Party Announces List
 ==========================

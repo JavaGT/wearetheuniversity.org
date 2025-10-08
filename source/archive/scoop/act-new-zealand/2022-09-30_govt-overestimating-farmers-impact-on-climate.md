@@ -1,9 +1,12 @@
 ---
 slug: govt-overestimating-farmers-impact-on-climate
-title: "Govt Overestimating Farmers’ Impact On Climate"
-date: 2022-09-30
-source-url: https://www.scoop.co.nz/stories/PA2209/S00180/govt-overestimating-farmers-impact-on-climate.htm
+title: Govt Overestimating Farmers’ Impact On Climate
+date: 2022-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00180/govt-overestimating-farmers-impact-on-climate.htm
 author: act-new-zealand
+permalink: /archive/2022/09/30/govt-overestimating-farmers-impact-on-climate/index.html
+layout: layout.njk
 ---
 Govt Overestimating Farmers’ Impact On Climate
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-2003-a-disappointment-for-students
-title: "Budget 2003 a disappointment for students"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/ED0305/S00047/budget-2003-a-disappointment-for-students.htm
+title: Budget 2003 a disappointment for students
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00047/budget-2003-a-disappointment-for-students.htm
 author: victoria-university-students-association
+permalink: /archive/2003/05/15/budget-2003-a-disappointment-for-students/index.html
+layout: layout.njk
 ---
 Budget 2003 a disappointment for students
 =========================================

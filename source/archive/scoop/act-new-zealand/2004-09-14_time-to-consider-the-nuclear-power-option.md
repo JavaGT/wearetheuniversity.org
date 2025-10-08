@@ -1,9 +1,12 @@
 ---
 slug: time-to-consider-the-nuclear-power-option
-title: "Time To Consider The Nuclear Power Option"
-date: 2004-09-14
-source-url: https://www.scoop.co.nz/stories/PA0409/S00269/time-to-consider-the-nuclear-power-option.htm
+title: Time To Consider The Nuclear Power Option
+date: 2004-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00269/time-to-consider-the-nuclear-power-option.htm
 author: act-new-zealand
+permalink: /archive/2004/09/14/time-to-consider-the-nuclear-power-option/index.html
+layout: layout.njk
 ---
 Time To Consider The Nuclear Power Option
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-lyttleton-marina-disaster
-title: "Inquiry into Lyttleton marina disaster"
-date: 2000-10-15
-source-url: https://www.scoop.co.nz/stories/PA0010/S00301/inquiry-into-lyttleton-marina-disaster.htm
+title: Inquiry into Lyttleton marina disaster
+date: 2000-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00301/inquiry-into-lyttleton-marina-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/15/inquiry-into-lyttleton-marina-disaster/index.html
+layout: layout.njk
 ---
 Inquiry into Lyttleton marina disaster
 ======================================

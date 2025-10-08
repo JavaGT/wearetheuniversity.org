@@ -1,9 +1,13 @@
 ---
 slug: shades-of-north-korea-spying-on-quake-repair-work
-title: "Shades of North Korea Spying on Quake Repair Work"
-date: 2017-05-12
-source-url: https://www.scoop.co.nz/stories/PA1705/S00273/shades-of-north-korea-spying-on-quake-repair-work.htm
+title: Shades of North Korea Spying on Quake Repair Work
+date: 2017-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00273/shades-of-north-korea-spying-on-quake-repair-work.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/12/shades-of-north-korea-spying-on-quake-repair-work/index.html
+layout: layout.njk
 ---
 Shades of North Korea Spying on Quake Repair Work
 =================================================

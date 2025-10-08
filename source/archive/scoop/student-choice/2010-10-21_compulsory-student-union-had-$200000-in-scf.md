@@ -1,9 +1,12 @@
 ---
 slug: compulsory-student-union-had-$200000-in-scf
-title: "Compulsory student union had $200,000 in SCF"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/ED1010/S00079/compulsory-student-union-had-200000-in-scf.htm
+title: Compulsory student union had $200,000 in SCF
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00079/compulsory-student-union-had-200000-in-scf.htm
 author: student-choice
+permalink: /archive/2010/10/21/compulsory-student-union-had-/index.html
+layout: layout.njk
 ---
 Compulsory student union had $200,000 in SCF
 ============================================

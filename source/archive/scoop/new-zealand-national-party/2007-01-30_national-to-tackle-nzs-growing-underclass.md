@@ -1,9 +1,12 @@
 ---
 slug: national-to-tackle-nzs-growing-underclass
-title: "National to tackle NZ’s growing underclass"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/PA0701/S00196/national-to-tackle-nzs-growing-underclass.htm
+title: National to tackle NZ’s growing underclass
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00196/national-to-tackle-nzs-growing-underclass.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/30/national-to-tackle-nzs-growing-underclass/index.html
+layout: layout.njk
 ---
 National to tackle NZ’s growing underclass
 ==========================================

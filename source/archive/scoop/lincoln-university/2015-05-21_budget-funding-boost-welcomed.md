@@ -1,9 +1,12 @@
 ---
 slug: budget-funding-boost-welcomed
-title: "Budget funding boost welcomed"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/ED1505/S00083/budget-funding-boost-welcomed.htm
+title: Budget funding boost welcomed
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00083/budget-funding-boost-welcomed.htm
 author: lincoln-university
+permalink: /archive/2015/05/21/budget-funding-boost-welcomed/index.html
+layout: layout.njk
 ---
 Budget funding boost welcomed
 =============================

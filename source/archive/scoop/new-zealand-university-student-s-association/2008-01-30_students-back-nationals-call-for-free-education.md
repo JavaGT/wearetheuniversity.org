@@ -1,9 +1,12 @@
 ---
 slug: students-back-nationals-call-for-free-education
-title: "Students back National’s call for free education"
-date: 2008-01-30
-source-url: https://www.scoop.co.nz/stories/ED0801/S00047/students-back-nationals-call-for-free-education.htm
+title: Students back National’s call for free education
+date: 2008-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00047/students-back-nationals-call-for-free-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2008/01/30/students-back-nationals-call-for-free-education/index.html
+layout: layout.njk
 ---
 Students back National’s call for free education
 ================================================

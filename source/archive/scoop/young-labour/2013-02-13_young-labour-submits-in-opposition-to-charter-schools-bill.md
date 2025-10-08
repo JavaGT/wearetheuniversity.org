@@ -1,9 +1,13 @@
 ---
 slug: young-labour-submits-in-opposition-to-charter-schools-bill
-title: "Young Labour Submits in Opposition to Charter Schools Bill"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PO1302/S00110/young-labour-submits-in-opposition-to-charter-schools-bill.htm
+title: Young Labour Submits in Opposition to Charter Schools Bill
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00110/young-labour-submits-in-opposition-to-charter-schools-bill.htm
 author: young-labour
+permalink: >-
+  /archive/2013/02/13/young-labour-submits-in-opposition-to-charter-schools-bill/index.html
+layout: layout.njk
 ---
 Young Labour Submits in Opposition to Charter Schools Bill
 ==========================================================

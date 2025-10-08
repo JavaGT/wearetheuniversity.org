@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-scientists-aid-search-for-pink-&-white-terraces
-title: "Waikato Uni scientists aid search for Pink & White Terraces"
-date: 2011-01-18
-source-url: https://www.scoop.co.nz/stories/SC1101/S00034/waikato-uni-scientists-aid-search-for-pink-white-terraces.htm
+title: Waikato Uni scientists aid search for Pink & White Terraces
+date: 2011-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00034/waikato-uni-scientists-aid-search-for-pink-white-terraces.htm
 author: university-of-waikato
+permalink: /archive/2011/01/18/waikato-uni-scientists-aid-search-for-pink-/index.html
+layout: layout.njk
 ---
 Waikato Uni scientists aid search for Pink & White Terraces
 ===========================================================

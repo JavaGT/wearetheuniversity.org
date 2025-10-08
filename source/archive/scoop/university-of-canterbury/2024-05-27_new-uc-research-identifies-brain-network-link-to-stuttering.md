@@ -1,9 +1,13 @@
 ---
 slug: new-uc-research-identifies-brain-network-link-to-stuttering
-title: "New UC Research Identifies Brain Network Link To Stuttering"
-date: 2024-05-27
-source-url: https://www.scoop.co.nz/stories/ED2405/S00088/new-uc-research-identifies-brain-network-link-to-stuttering.htm
+title: New UC Research Identifies Brain Network Link To Stuttering
+date: 2024-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00088/new-uc-research-identifies-brain-network-link-to-stuttering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/27/new-uc-research-identifies-brain-network-link-to-stuttering/index.html
+layout: layout.njk
 ---
 New UC Research Identifies Brain Network Link To Stuttering
 ===========================================================
@@ -22,14 +26,7 @@ _Associate Professor Catherine Theys is the lead author of a new study published
 “Stuttering affects approximately 1% of adults and can result in significant communication problems and social anxiety, yet the cause of stuttering is still unknown,” says Associate Professor Theys. “It most often occurs as a developmental disorder but can also be caused by focal brain damage following a stroke or other neurological conditions. While most research treats these different types of stuttering as separate conditions, this study takes a unique approach by combining datasets to see if we can identify a common link.”
 
 The multidisciplinary study, in collaboration with researchers from the University of Turku (Finland), University of Toronto, Boston University, and Brigham and Women’s Hospital at Harvard Medical School, used three independent datasets: case reports from published literature of acquired neurogenic stuttering following stroke; a clinical single study cohort with acquired neurogenic stuttering following stroke; and adults with persistent developmental stuttering.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> While previous research has looked at specific brain lesion locations to try to find out how the brain works, Associate Professor Theys says this research uses a new technique that looks at the brain networks affected by lesions and whether there might be a common hub.
+While previous research has looked at specific brain lesion locations to try to find out how the brain works, Associate Professor Theys says this research uses a new technique that looks at the brain networks affected by lesions and whether there might be a common hub.
 
 “We used the first two datasets and lesion network mapping to test whether lesions causing acquired stuttering map to a common brain network. We then used the third dataset to test whether this lesion-based network was relevant to developmental stuttering.
 

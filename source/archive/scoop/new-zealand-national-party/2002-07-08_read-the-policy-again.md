@@ -1,9 +1,11 @@
 ---
 slug: read-the-policy-again
-title: "Read the policy again"
-date: 2002-07-08
+title: Read the policy again
+date: 2002-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00219/read-the-policy-again.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/read-the-policy-again/index.html
+layout: layout.njk
 ---
 Read the policy again
 =====================

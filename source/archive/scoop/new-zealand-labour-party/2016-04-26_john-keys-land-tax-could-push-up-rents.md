@@ -1,9 +1,12 @@
 ---
 slug: john-keys-land-tax-could-push-up-rents
-title: "John Key’s land tax could push up rents"
-date: 2016-04-26
-source-url: https://www.scoop.co.nz/stories/PA1604/S00411/john-keys-land-tax-could-push-up-rents.htm
+title: John Key’s land tax could push up rents
+date: 2016-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00411/john-keys-land-tax-could-push-up-rents.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/26/john-keys-land-tax-could-push-up-rents/index.html
+layout: layout.njk
 ---
 John Key’s land tax could push up rents
 =======================================

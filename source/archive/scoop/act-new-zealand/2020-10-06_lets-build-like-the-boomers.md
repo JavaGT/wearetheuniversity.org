@@ -1,9 +1,11 @@
 ---
 slug: lets-build-like-the-boomers
-title: "Let’s Build Like The Boomers"
-date: 2020-10-06
+title: Let’s Build Like The Boomers
+date: 2020-10-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2010/S00047/lets-build-like-the-boomers.htm
 author: act-new-zealand
+permalink: /archive/2020/10/06/lets-build-like-the-boomers/index.html
+layout: layout.njk
 ---
 Let’s Build Like The Boomers
 ============================

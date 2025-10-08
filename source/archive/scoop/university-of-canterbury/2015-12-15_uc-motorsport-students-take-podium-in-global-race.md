@@ -1,9 +1,13 @@
 ---
 slug: uc-motorsport-students-take-podium-in-global-race
-title: "UC Motorsport students take podium in global race"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/ED1512/S00068/uc-motorsport-students-take-podium-in-global-race.htm
+title: UC Motorsport students take podium in global race
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00068/uc-motorsport-students-take-podium-in-global-race.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/15/uc-motorsport-students-take-podium-in-global-race/index.html
+layout: layout.njk
 ---
 UC Motorsport students take podium in global race
 =================================================

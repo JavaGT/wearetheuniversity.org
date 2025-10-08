@@ -1,9 +1,13 @@
 ---
 slug: benson-pope-makes-up-student-debt-repayment-figure
-title: "Benson-Pope makes up student debt repayment figure"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/ED0504/S00094/benson-pope-makes-up-student-debt-repayment-figure.htm
+title: Benson-Pope makes up student debt repayment figure
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00094/benson-pope-makes-up-student-debt-repayment-figure.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/04/29/benson-pope-makes-up-student-debt-repayment-figure/index.html
+layout: layout.njk
 ---
 Benson-Pope makes up student debt repayment figure
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: dale-aotea-stephens-selected-as-nationals-christchurch-central-candidate
-title: "Dale Aotea Stephens Selected As National’s Christchurch Central Candidate"
-date: 2022-12-11
-source-url: https://www.scoop.co.nz/stories/PO2212/S00079/dale-aotea-stephens-selected-as-nationals-christchurch-central-candidate.htm
+title: Dale Aotea Stephens Selected As National’s Christchurch Central Candidate
+date: 2022-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00079/dale-aotea-stephens-selected-as-nationals-christchurch-central-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/12/11/dale-aotea-stephens-selected-as-nationals-christchurch-central-candidate/index.html
+layout: layout.njk
 ---
 Dale Aotea Stephens Selected As National’s Christchurch Central Candidate
 =========================================================================

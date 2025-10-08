@@ -1,9 +1,13 @@
 ---
 slug: uc-research-calculates-popularity-of-national-flag-colours
-title: "UC research calculates popularity of national flag colours"
-date: 2013-12-31
-source-url: https://www.scoop.co.nz/stories/ED1312/S00129/uc-research-calculates-popularity-of-national-flag-colours.htm
+title: UC research calculates popularity of national flag colours
+date: 2013-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00129/uc-research-calculates-popularity-of-national-flag-colours.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/31/uc-research-calculates-popularity-of-national-flag-colours/index.html
+layout: layout.njk
 ---
 UC research calculates popularity of national flag colours
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: examining-new-zealands-relationship-with-china
-title: "Examining New Zealand’s relationship with China"
-date: 2012-08-31
-source-url: https://www.scoop.co.nz/stories/PO1208/S00524/examining-new-zealands-relationship-with-china.htm
+title: Examining New Zealand’s relationship with China
+date: 2012-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00524/examining-new-zealands-relationship-with-china.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/31/examining-new-zealands-relationship-with-china/index.html
+layout: layout.njk
 ---
 Examining New Zealand’s relationship with China
 ===============================================

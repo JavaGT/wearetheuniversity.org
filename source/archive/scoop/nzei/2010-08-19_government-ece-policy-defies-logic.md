@@ -1,9 +1,12 @@
 ---
 slug: government-ece-policy-defies-logic
-title: "Government ECE Policy Defies Logic"
-date: 2010-08-19
-source-url: https://www.scoop.co.nz/stories/ED1008/S00077/government-ece-policy-defies-logic.htm
+title: Government ECE Policy Defies Logic
+date: 2010-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00077/government-ece-policy-defies-logic.htm
 author: nzei
+permalink: /archive/2010/08/19/government-ece-policy-defies-logic/index.html
+layout: layout.njk
 ---
 Government ECE Policy Defies Logic
 ==================================

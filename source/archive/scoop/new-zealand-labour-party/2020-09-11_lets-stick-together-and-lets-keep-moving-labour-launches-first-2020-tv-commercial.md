@@ -1,9 +1,16 @@
 ---
-slug: lets-stick-together-and-lets-keep-moving-labour-launches-first-2020-tv-commercial
-title: "Let's Stick Together And Let’s Keep Moving - Labour Launches First 2020 TV Commercial"
-date: 2020-09-11
-source-url: https://www.scoop.co.nz/stories/PO2009/S00132/lets-stick-together-and-lets-keep-moving-labour-launches-first-2020-tv-commercial.htm
+slug: >-
+  lets-stick-together-and-lets-keep-moving-labour-launches-first-2020-tv-commercial
+title: >-
+  Let's Stick Together And Let’s Keep Moving - Labour Launches First 2020 TV
+  Commercial
+date: 2020-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00132/lets-stick-together-and-lets-keep-moving-labour-launches-first-2020-tv-commercial.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/09/11/lets-stick-together-and-lets-keep-moving-labour-launches-first-2020-tv-commercial/index.html
+layout: layout.njk
 ---
 Let's Stick Together And Let’s Keep Moving - Labour Launches First 2020 TV Commercial
 =====================================================================================

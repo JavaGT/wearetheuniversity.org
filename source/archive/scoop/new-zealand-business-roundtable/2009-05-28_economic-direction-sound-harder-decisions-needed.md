@@ -1,9 +1,13 @@
 ---
 slug: economic-direction-sound-harder-decisions-needed
-title: "Economic Direction Sound, Harder Decisions Needed"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/BU0905/S00800/economic-direction-sound-harder-decisions-needed.htm
+title: Economic Direction Sound, Harder Decisions Needed
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00800/economic-direction-sound-harder-decisions-needed.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2009/05/28/economic-direction-sound-harder-decisions-needed/index.html
+layout: layout.njk
 ---
 Economic Direction Sound, Harder Decisions Needed
 =================================================

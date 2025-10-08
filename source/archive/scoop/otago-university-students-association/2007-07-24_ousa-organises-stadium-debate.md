@@ -1,9 +1,12 @@
 ---
 slug: ousa-organises-stadium-debate
-title: "OUSA Organises Stadium Debate"
-date: 2007-07-24
-source-url: https://www.scoop.co.nz/stories/CU0707/S00247/ousa-organises-stadium-debate.htm
+title: OUSA Organises Stadium Debate
+date: 2007-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00247/ousa-organises-stadium-debate.htm
 author: otago-university-students-association
+permalink: /archive/2007/07/24/ousa-organises-stadium-debate/index.html
+layout: layout.njk
 ---
 OUSA Organises Stadium Debate
 =============================

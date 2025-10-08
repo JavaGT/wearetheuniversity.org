@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-international-health-research-head
-title: "Otago appoints international health research head"
-date: 2008-02-20
-source-url: https://www.scoop.co.nz/stories/ED0802/S00044/otago-appoints-international-health-research-head.htm
+title: Otago appoints international health research head
+date: 2008-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00044/otago-appoints-international-health-research-head.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/02/20/otago-appoints-international-health-research-head/index.html
+layout: layout.njk
 ---
 Otago appoints international health research head
 =================================================

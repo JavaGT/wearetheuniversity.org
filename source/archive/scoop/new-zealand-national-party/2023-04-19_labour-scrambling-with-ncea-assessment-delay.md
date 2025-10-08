@@ -1,9 +1,12 @@
 ---
 slug: labour-scrambling-with-ncea-assessment-delay
-title: "Labour Scrambling With NCEA Assessment Delay"
-date: 2023-04-19
-source-url: https://www.scoop.co.nz/stories/PA2304/S00124/labour-scrambling-with-ncea-assessment-delay.htm
+title: Labour Scrambling With NCEA Assessment Delay
+date: 2023-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00124/labour-scrambling-with-ncea-assessment-delay.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/19/labour-scrambling-with-ncea-assessment-delay/index.html
+layout: layout.njk
 ---
 Labour Scrambling With NCEA Assessment Delay
 ============================================

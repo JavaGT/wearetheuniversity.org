@@ -1,9 +1,12 @@
 ---
 slug: skycity-profits-from-proceeds-of-crime
-title: "SkyCity Profits From Proceeds Of Crime"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/PA1204/S00178/skycity-profits-from-proceeds-of-crime.htm
+title: SkyCity Profits From Proceeds Of Crime
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00178/skycity-profits-from-proceeds-of-crime.htm
 author: green-party
+permalink: /archive/2012/04/16/skycity-profits-from-proceeds-of-crime/index.html
+layout: layout.njk
 ---
 SkyCity Profits From Proceeds Of Crime
 ======================================

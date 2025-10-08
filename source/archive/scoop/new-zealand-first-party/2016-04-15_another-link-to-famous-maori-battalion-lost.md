@@ -1,9 +1,12 @@
 ---
 slug: another-link-to-famous-maori-battalion-lost
-title: "Another Link to Famous Maori Battalion Lost"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/PA1604/S00273/another-link-to-famous-maori-battalion-lost.htm
+title: Another Link to Famous Maori Battalion Lost
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00273/another-link-to-famous-maori-battalion-lost.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/15/another-link-to-famous-maori-battalion-lost/index.html
+layout: layout.njk
 ---
 Another Link to Famous Maori Battalion Lost
 ===========================================

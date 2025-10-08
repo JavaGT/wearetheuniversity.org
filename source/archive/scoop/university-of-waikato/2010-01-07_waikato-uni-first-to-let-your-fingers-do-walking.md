@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-first-to-let-your-fingers-do-walking
-title: "Waikato Uni first to let your fingers do walking"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/ED1001/S00005/waikato-uni-first-to-let-your-fingers-do-walking.htm
+title: Waikato Uni first to let your fingers do walking
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00005/waikato-uni-first-to-let-your-fingers-do-walking.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/01/07/waikato-uni-first-to-let-your-fingers-do-walking/index.html
+layout: layout.njk
 ---
 Waikato Uni first to let your fingers do walking
 ================================================

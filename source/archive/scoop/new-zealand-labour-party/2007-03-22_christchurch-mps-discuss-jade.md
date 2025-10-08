@@ -1,9 +1,12 @@
 ---
 slug: christchurch-mps-discuss-jade
-title: "Christchurch MPs discuss Jade"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/PA0703/S00464/christchurch-mps-discuss-jade.htm
+title: Christchurch MPs discuss Jade
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00464/christchurch-mps-discuss-jade.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/03/22/christchurch-mps-discuss-jade/index.html
+layout: layout.njk
 ---
 Christchurch MPs discuss Jade
 =============================

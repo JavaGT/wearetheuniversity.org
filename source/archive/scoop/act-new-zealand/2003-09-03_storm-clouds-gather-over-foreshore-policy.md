@@ -1,9 +1,12 @@
 ---
 slug: storm-clouds-gather-over-foreshore-policy
-title: "Storm Clouds Gather Over Foreshore Policy"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/PA0309/S00059/storm-clouds-gather-over-foreshore-policy.htm
+title: Storm Clouds Gather Over Foreshore Policy
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00059/storm-clouds-gather-over-foreshore-policy.htm
 author: act-new-zealand
+permalink: /archive/2003/09/03/storm-clouds-gather-over-foreshore-policy/index.html
+layout: layout.njk
 ---
 Storm Clouds Gather Over Foreshore Policy
 =========================================

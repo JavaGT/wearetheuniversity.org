@@ -1,8 +1,11 @@
 ---
 slug: spark-$100k-challenge
-title: "Spark $100k Challenge"
-date: 2011-07-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/07/15/Spark-100k-Challenge.html
+title: Spark $100k Challenge
+date: 2011-07-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/07/15/Spark-100k-Challenge.html
+permalink: /archive/2011/07/15/spark-/index.html
+layout: layout.njk
 ---
 Spark $100k Challenge
 =====================

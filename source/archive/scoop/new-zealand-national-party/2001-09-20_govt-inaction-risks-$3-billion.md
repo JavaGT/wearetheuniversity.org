@@ -1,9 +1,12 @@
 ---
 slug: govt-inaction-risks-$3-billion
-title: "Govt Inaction Risks $3 Billion"
-date: 2001-09-20
-source-url: https://www.scoop.co.nz/stories/PA0109/S00314/govt-inaction-risks-3-billion.htm
+title: Govt Inaction Risks $3 Billion
+date: 2001-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00314/govt-inaction-risks-3-billion.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/20/govt-inaction-risks-/index.html
+layout: layout.njk
 ---
 Govt Inaction Risks $3 Billion
 ==============================

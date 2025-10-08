@@ -1,9 +1,13 @@
 ---
 slug: new-agri-tech-initiatives-from-university-of-waikato
-title: "New agri-tech initiatives from University of Waikato"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/ED1406/S00056/new-agri-tech-initiatives-from-university-of-waikato.htm
+title: New agri-tech initiatives from University of Waikato
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00056/new-agri-tech-initiatives-from-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/11/new-agri-tech-initiatives-from-university-of-waikato/index.html
+layout: layout.njk
 ---
 New agri-tech initiatives from University of Waikato
 ====================================================

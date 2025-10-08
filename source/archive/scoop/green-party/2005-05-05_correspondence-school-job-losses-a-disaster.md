@@ -1,9 +1,12 @@
 ---
 slug: correspondence-school-job-losses-a-disaster
-title: "Correspondence School job losses a disaster"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00109/correspondence-school-job-losses-a-disaster.htm
+title: Correspondence School job losses a disaster
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00109/correspondence-school-job-losses-a-disaster.htm
 author: green-party
+permalink: /archive/2005/05/05/correspondence-school-job-losses-a-disaster/index.html
+layout: layout.njk
 ---
 Correspondence School job losses a disaster
 ===========================================

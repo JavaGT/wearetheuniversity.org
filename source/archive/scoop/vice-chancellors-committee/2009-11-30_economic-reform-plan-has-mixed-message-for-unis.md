@@ -1,9 +1,12 @@
 ---
 slug: economic-reform-plan-has-mixed-message-for-unis
-title: "Economic Reform Plan Has Mixed Message for Unis"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/ED0911/S00126/economic-reform-plan-has-mixed-message-for-unis.htm
+title: Economic Reform Plan Has Mixed Message for Unis
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00126/economic-reform-plan-has-mixed-message-for-unis.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/11/30/economic-reform-plan-has-mixed-message-for-unis/index.html
+layout: layout.njk
 ---
 Economic Reform Plan Has Mixed Message for Unis
 ===============================================

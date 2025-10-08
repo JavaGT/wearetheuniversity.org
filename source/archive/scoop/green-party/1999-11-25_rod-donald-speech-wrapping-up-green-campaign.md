@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-speech-wrapping-up-green-campaign
-title: "Rod Donald Speech - Wrapping Up Green Campaign"
-date: 1999-11-25
-source-url: https://www.scoop.co.nz/stories/PA9911/S00581/rod-donald-speech-wrapping-up-green-campaign.htm
+title: Rod Donald Speech - Wrapping Up Green Campaign
+date: 1999-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00581/rod-donald-speech-wrapping-up-green-campaign.htm
 author: green-party
+permalink: /archive/1999/11/25/rod-donald-speech-wrapping-up-green-campaign/index.html
+layout: layout.njk
 ---
 Rod Donald Speech - Wrapping Up Green Campaign
 ==============================================

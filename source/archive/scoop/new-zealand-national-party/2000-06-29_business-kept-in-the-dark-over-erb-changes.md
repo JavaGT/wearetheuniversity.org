@@ -1,9 +1,12 @@
 ---
 slug: business-kept-in-the-dark-over-erb-changes
-title: "Business Kept In The Dark Over ERB Changes"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/PA0006/S00639/business-kept-in-the-dark-over-erb-changes.htm
+title: Business Kept In The Dark Over ERB Changes
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00639/business-kept-in-the-dark-over-erb-changes.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/29/business-kept-in-the-dark-over-erb-changes/index.html
+layout: layout.njk
 ---
 Business Kept In The Dark Over ERB Changes
 ==========================================

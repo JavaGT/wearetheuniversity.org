@@ -1,9 +1,12 @@
 ---
 slug: nzei-says-quals-ruling-undermines-teaching
-title: "Nzei Says Quals Ruling Undermines Teaching"
-date: 2003-02-14
-source-url: https://www.scoop.co.nz/stories/ED0302/S00022/nzei-says-quals-ruling-undermines-teaching.htm
+title: Nzei Says Quals Ruling Undermines Teaching
+date: 2003-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00022/nzei-says-quals-ruling-undermines-teaching.htm
 author: nzei
+permalink: /archive/2003/02/14/nzei-says-quals-ruling-undermines-teaching/index.html
+layout: layout.njk
 ---
 Nzei Says Quals Ruling Undermines Teaching
 ==========================================

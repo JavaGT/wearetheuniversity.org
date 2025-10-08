@@ -1,9 +1,13 @@
 ---
 slug: pigeons-have-quite-a-way-with-words-otago-research
-title: "Pigeons have quite a way with words: Otago research"
-date: 2016-09-19
-source-url: https://www.scoop.co.nz/stories/SC1609/S00055/pigeons-have-quite-a-way-with-words-otago-research.htm
+title: 'Pigeons have quite a way with words: Otago research'
+date: 2016-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00055/pigeons-have-quite-a-way-with-words-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/19/pigeons-have-quite-a-way-with-words-otago-research/index.html
+layout: layout.njk
 ---
 Pigeons have quite a way with words: Otago research
 ===================================================

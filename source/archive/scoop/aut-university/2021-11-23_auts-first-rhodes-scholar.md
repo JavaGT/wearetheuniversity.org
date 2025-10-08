@@ -1,9 +1,11 @@
 ---
 slug: auts-first-rhodes-scholar
-title: "AUT’s First Rhodes Scholar"
-date: 2021-11-23
+title: AUT’s First Rhodes Scholar
+date: 2021-11-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2111/S00048/auts-first-rhodes-scholar.htm
 author: aut-university
+permalink: /archive/2021/11/23/auts-first-rhodes-scholar/index.html
+layout: layout.njk
 ---
 AUT’s First Rhodes Scholar
 ==========================

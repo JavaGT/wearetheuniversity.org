@@ -1,9 +1,13 @@
 ---
 slug: world-ranked-smit-on-starters-hooter-for-uc-tower-race
-title: "World-ranked Smit on starter’s hooter for UC Tower Race"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/ED1403/S00055/world-ranked-smit-on-starters-hooter-for-uc-tower-race.htm
+title: World-ranked Smit on starter’s hooter for UC Tower Race
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00055/world-ranked-smit-on-starters-hooter-for-uc-tower-race.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/11/world-ranked-smit-on-starters-hooter-for-uc-tower-race/index.html
+layout: layout.njk
 ---
 World-ranked Smit on starter’s hooter for UC Tower Race
 =======================================================

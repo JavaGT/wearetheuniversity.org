@@ -1,9 +1,13 @@
 ---
 slug: insulating-houses-keeps-children-out-of-hospital
-title: "Insulating houses keeps children out of hospital"
-date: 2016-04-27
-source-url: https://www.scoop.co.nz/stories/GE1604/S00096/insulating-houses-keeps-children-out-of-hospital.htm
+title: Insulating houses keeps children out of hospital
+date: 2016-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00096/insulating-houses-keeps-children-out-of-hospital.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/27/insulating-houses-keeps-children-out-of-hospital/index.html
+layout: layout.njk
 ---
 Insulating houses keeps children out of hospital
 ================================================

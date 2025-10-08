@@ -1,9 +1,12 @@
 ---
 slug: physical-punishment-of-nz-children-common
-title: "Physical Punishment of NZ Children Common"
-date: 2006-01-27
-source-url: https://www.scoop.co.nz/stories/ED0601/S00028/physical-punishment-of-nz-children-common.htm
+title: Physical Punishment of NZ Children Common
+date: 2006-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00028/physical-punishment-of-nz-children-common.htm
 author: university-of-otago
+permalink: /archive/2006/01/27/physical-punishment-of-nz-children-common/index.html
+layout: layout.njk
 ---
 Physical Punishment of NZ Children Common
 =========================================

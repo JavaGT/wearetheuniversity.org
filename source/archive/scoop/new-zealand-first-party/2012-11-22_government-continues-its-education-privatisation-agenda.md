@@ -1,9 +1,13 @@
 ---
 slug: government-continues-its-education-privatisation-agenda
-title: "Government Continues Its Education Privatisation Agenda"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00383/government-continues-its-education-privatisation-agenda.htm
+title: Government Continues Its Education Privatisation Agenda
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00383/government-continues-its-education-privatisation-agenda.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/11/22/government-continues-its-education-privatisation-agenda/index.html
+layout: layout.njk
 ---
 Government Continues Its Education Privatisation Agenda
 =======================================================

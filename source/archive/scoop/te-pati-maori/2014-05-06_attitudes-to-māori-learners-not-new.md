@@ -1,9 +1,12 @@
 ---
 slug: attitudes-to-māori-learners-not-new
-title: "Attitudes to Māori learners not new"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/PA1405/S00084/attitudes-to-maori-learners-not-new.htm
+title: Attitudes to Māori learners not new
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00084/attitudes-to-maori-learners-not-new.htm
 author: te-pati-maori
+permalink: /archive/2014/05/06/attitudes-to-m/index.html
+layout: layout.njk
 ---
 Attitudes to Māori learners not new
 ===================================

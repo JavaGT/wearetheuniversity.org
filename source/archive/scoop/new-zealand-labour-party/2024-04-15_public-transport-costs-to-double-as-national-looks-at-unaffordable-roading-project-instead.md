@@ -1,9 +1,16 @@
 ---
-slug: public-transport-costs-to-double-as-national-looks-at-unaffordable-roading-project-instead
-title: "Public Transport Costs To Double As National Looks At Unaffordable Roading Project Instead"
-date: 2024-04-15
-source-url: https://www.scoop.co.nz/stories/PA2404/S00091/public-transport-costs-to-double-as-national-looks-at-unaffordable-roading-project-instead.htm
+slug: >-
+  public-transport-costs-to-double-as-national-looks-at-unaffordable-roading-project-instead
+title: >-
+  Public Transport Costs To Double As National Looks At Unaffordable Roading
+  Project Instead
+date: 2024-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00091/public-transport-costs-to-double-as-national-looks-at-unaffordable-roading-project-instead.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/04/15/public-transport-costs-to-double-as-national-looks-at-unaffordable-roading-project-instead/index.html
+layout: layout.njk
 ---
 Public Transport Costs To Double As National Looks At Unaffordable Roading Project Instead
 ==========================================================================================

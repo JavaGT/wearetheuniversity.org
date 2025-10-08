@@ -1,9 +1,12 @@
 ---
 slug: nz-student-associations-alive-and-kicking
-title: "NZ Student Associations alive and kicking"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/ED1209/S00219/nz-student-associations-alive-and-kicking.htm
+title: NZ Student Associations alive and kicking
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00219/nz-student-associations-alive-and-kicking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/09/28/nz-student-associations-alive-and-kicking/index.html
+layout: layout.njk
 ---
 NZ Student Associations alive and kicking
 =========================================

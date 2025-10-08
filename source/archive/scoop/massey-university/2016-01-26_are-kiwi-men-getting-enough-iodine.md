@@ -1,9 +1,12 @@
 ---
 slug: are-kiwi-men-getting-enough-iodine
-title: "Are Kiwi men getting enough iodine?"
-date: 2016-01-26
-source-url: https://www.scoop.co.nz/stories/SC1601/S00049/are-kiwi-men-getting-enough-iodine.htm
+title: Are Kiwi men getting enough iodine?
+date: 2016-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00049/are-kiwi-men-getting-enough-iodine.htm
 author: massey-university
+permalink: /archive/2016/01/26/are-kiwi-men-getting-enough-iodine/index.html
+layout: layout.njk
 ---
 Are Kiwi men getting enough iodine?
 ===================================

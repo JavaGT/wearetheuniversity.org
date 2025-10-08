@@ -1,9 +1,12 @@
 ---
 slug: key-notes-no-34-valuing-families
-title: "Key Notes No.34: Valuing Families"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/PA0807/S00460/key-notes-no34-valuing-families.htm
+title: 'Key Notes No.34: Valuing Families'
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00460/key-notes-no34-valuing-families.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/25/key-notes-no-34-valuing-families/index.html
+layout: layout.njk
 ---
 Key Notes No.34: Valuing Families
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: university-hosts-hamilton-city-council-for-breakfast
-title: "University hosts Hamilton City Council for breakfast"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/ED1207/S00042/university-hosts-hamilton-city-council-for-breakfast.htm
+title: University hosts Hamilton City Council for breakfast
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00042/university-hosts-hamilton-city-council-for-breakfast.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/11/university-hosts-hamilton-city-council-for-breakfast/index.html
+layout: layout.njk
 ---
 University hosts Hamilton City Council for breakfast
 ====================================================

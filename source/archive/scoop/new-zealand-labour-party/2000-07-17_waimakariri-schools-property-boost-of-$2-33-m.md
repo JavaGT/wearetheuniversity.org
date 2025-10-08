@@ -1,9 +1,12 @@
 ---
 slug: waimakariri-schools-property-boost-of-$2-33-m
-title: "Waimakariri schools property boost of $2.33 M"
-date: 2000-07-17
-source-url: https://www.scoop.co.nz/stories/PA0007/S00241/waimakariri-schools-property-boost-of-233-m.htm
+title: Waimakariri schools property boost of $2.33 M
+date: 2000-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00241/waimakariri-schools-property-boost-of-233-m.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/07/17/waimakariri-schools-property-boost-of-/index.html
+layout: layout.njk
 ---
 Waimakariri schools property boost of $2.33 M
 =============================================

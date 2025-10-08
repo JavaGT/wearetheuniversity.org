@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-not-re-opening-today
-title: "University of Canterbury Not Re-Opening Today"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/AK1206/S00135/university-of-canterbury-not-re-opening-today.htm
+title: University of Canterbury Not Re-Opening Today
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1206/S00135/university-of-canterbury-not-re-opening-today.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/07/university-of-canterbury-not-re-opening-today/index.html
+layout: layout.njk
 ---
 University of Canterbury Not Re-Opening Today
 =============================================

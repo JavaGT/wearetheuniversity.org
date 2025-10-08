@@ -1,9 +1,12 @@
 ---
 slug: decide-plan-and-act-for-success
-title: "Decide, plan and act for success"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/ED1006/S00006/decide-plan-and-act-for-success.htm
+title: Decide, plan and act for success
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00006/decide-plan-and-act-for-success.htm
 author: massey-university
+permalink: /archive/2010/06/01/decide-plan-and-act-for-success/index.html
+layout: layout.njk
 ---
 Decide, plan and act for success
 ================================

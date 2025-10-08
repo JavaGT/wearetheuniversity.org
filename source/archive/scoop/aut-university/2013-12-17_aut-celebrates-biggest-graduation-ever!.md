@@ -1,9 +1,12 @@
 ---
 slug: aut-celebrates-biggest-graduation-ever!
-title: "AUT celebrates biggest graduation ever!"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/ED1312/S00111/aut-celebrates-biggest-graduation-ever.htm
+title: AUT celebrates biggest graduation ever!
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00111/aut-celebrates-biggest-graduation-ever.htm
 author: aut-university
+permalink: /archive/2013/12/17/aut-celebrates-biggest-graduation-ever/index.html
+layout: layout.njk
 ---
 AUT celebrates biggest graduation ever!
 =======================================

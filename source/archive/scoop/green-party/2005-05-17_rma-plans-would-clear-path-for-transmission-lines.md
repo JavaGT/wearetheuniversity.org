@@ -1,9 +1,13 @@
 ---
 slug: rma-plans-would-clear-path-for-transmission-lines
-title: "RMA plans would clear path for transmission lines"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/PA0505/S00392/rma-plans-would-clear-path-for-transmission-lines.htm
+title: RMA plans would clear path for transmission lines
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00392/rma-plans-would-clear-path-for-transmission-lines.htm
 author: green-party
+permalink: >-
+  /archive/2005/05/17/rma-plans-would-clear-path-for-transmission-lines/index.html
+layout: layout.njk
 ---
 RMA plans would clear path for transmission lines
 =================================================

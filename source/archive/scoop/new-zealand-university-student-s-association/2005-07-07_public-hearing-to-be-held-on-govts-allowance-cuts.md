@@ -1,9 +1,13 @@
 ---
 slug: public-hearing-to-be-held-on-govts-allowance-cuts
-title: "Public hearing to be held on Govt’s allowance cuts"
-date: 2005-07-07
-source-url: https://www.scoop.co.nz/stories/ED0507/S00025/public-hearing-to-be-held-on-govts-allowance-cuts.htm
+title: Public hearing to be held on Govt’s allowance cuts
+date: 2005-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00025/public-hearing-to-be-held-on-govts-allowance-cuts.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/07/07/public-hearing-to-be-held-on-govts-allowance-cuts/index.html
+layout: layout.njk
 ---
 Public hearing to be held on Govt’s allowance cuts
 ==================================================

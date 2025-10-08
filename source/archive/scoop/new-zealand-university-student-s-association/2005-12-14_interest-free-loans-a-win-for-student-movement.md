@@ -1,9 +1,12 @@
 ---
 slug: interest-free-loans-a-win-for-student-movement
-title: "Interest free loans a win for student movement"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/ED0512/S00065/interest-free-loans-a-win-for-student-movement.htm
+title: Interest free loans a win for student movement
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00065/interest-free-loans-a-win-for-student-movement.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/12/14/interest-free-loans-a-win-for-student-movement/index.html
+layout: layout.njk
 ---
 Interest free loans a win for student movement
 ==============================================

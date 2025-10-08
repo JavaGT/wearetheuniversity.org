@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-22-27-june-2002
-title: "AUS Tertiary Update Vol. 5  No. 22,  27 June 2002"
-date: 2002-06-27
-source-url: https://www.scoop.co.nz/stories/ED0206/S00076/aus-tertiary-update-vol-5-no-22-27-june-2002.htm
+title: AUS Tertiary Update Vol. 5  No. 22,  27 June 2002
+date: 2002-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00076/aus-tertiary-update-vol-5-no-22-27-june-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/06/27/aus-tertiary-update-vol-5-no-22-27-june-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 22, 27 June 2002
 ===============================================

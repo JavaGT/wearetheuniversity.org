@@ -1,9 +1,11 @@
 ---
 slug: hold-them-all-acountable
-title: "Hold Them ALL Acountable"
-date: 2020-09-27
+title: Hold Them ALL Acountable
+date: 2020-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2009/S00397/hold-them-all-acountable.htm
 author: act-new-zealand
+permalink: /archive/2020/09/27/hold-them-all-acountable/index.html
+layout: layout.njk
 ---
 Hold Them ALL Acountable
 ========================

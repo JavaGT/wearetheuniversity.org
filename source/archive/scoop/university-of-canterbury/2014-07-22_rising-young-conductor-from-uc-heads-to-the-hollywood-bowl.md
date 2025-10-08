@@ -1,9 +1,13 @@
 ---
 slug: rising-young-conductor-from-uc-heads-to-the-hollywood-bowl
-title: "Rising young conductor from UC heads to the Hollywood Bowl"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/CU1407/S00328/rising-young-conductor-from-uc-heads-to-the-hollywood-bowl.htm
+title: Rising young conductor from UC heads to the Hollywood Bowl
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00328/rising-young-conductor-from-uc-heads-to-the-hollywood-bowl.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/22/rising-young-conductor-from-uc-heads-to-the-hollywood-bowl/index.html
+layout: layout.njk
 ---
 Rising young conductor from UC heads to the Hollywood Bowl
 ==========================================================

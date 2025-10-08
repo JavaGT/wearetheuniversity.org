@@ -1,9 +1,13 @@
 ---
 slug: education-and-science-select-committee-report-disappoints
-title: "Education and Science Select Committee report disappoints"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/ED1407/S00081/education-and-science-select-committee-report-disappoints.htm
+title: Education and Science Select Committee report disappoints
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00081/education-and-science-select-committee-report-disappoints.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/07/16/education-and-science-select-committee-report-disappoints/index.html
+layout: layout.njk
 ---
 Education and Science Select Committee report disappoints
 =========================================================

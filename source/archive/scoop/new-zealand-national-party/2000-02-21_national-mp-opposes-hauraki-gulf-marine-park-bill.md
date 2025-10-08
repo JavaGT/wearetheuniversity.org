@@ -1,9 +1,13 @@
 ---
 slug: national-mp-opposes-hauraki-gulf-marine-park-bill
-title: "National MP opposes Hauraki Gulf Marine Park Bill"
-date: 2000-02-21
-source-url: https://www.scoop.co.nz/stories/PA0002/S00279/national-mp-opposes-hauraki-gulf-marine-park-bill.htm
+title: National MP opposes Hauraki Gulf Marine Park Bill
+date: 2000-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00279/national-mp-opposes-hauraki-gulf-marine-park-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/02/21/national-mp-opposes-hauraki-gulf-marine-park-bill/index.html
+layout: layout.njk
 ---
 National MP opposes Hauraki Gulf Marine Park Bill
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-thinking-on-sustainability
-title: "New thinking on sustainability"
-date: 2014-01-31
-source-url: https://www.scoop.co.nz/stories/PO1401/S00159/new-thinking-on-sustainability.htm
+title: New thinking on sustainability
+date: 2014-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00159/new-thinking-on-sustainability.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/01/31/new-thinking-on-sustainability/index.html
+layout: layout.njk
 ---
 New thinking on sustainability
 ==============================

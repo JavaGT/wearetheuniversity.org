@@ -1,9 +1,12 @@
 ---
 slug: a-man-walks-into-a-bar-talks-to-a-uni-student
-title: "A man walks into a bar. Talks to a uni student."
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/CU1312/S00209/a-man-walks-into-a-bar-talks-to-a-uni-student.htm
+title: A man walks into a bar. Talks to a uni student.
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00209/a-man-walks-into-a-bar-talks-to-a-uni-student.htm
 author: university-of-waikato
+permalink: /archive/2013/12/11/a-man-walks-into-a-bar-talks-to-a-uni-student/index.html
+layout: layout.njk
 ---
 A man walks into a bar. Talks to a uni student.
 ===============================================

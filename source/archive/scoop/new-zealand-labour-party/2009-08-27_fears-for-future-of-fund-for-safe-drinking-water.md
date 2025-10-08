@@ -1,9 +1,13 @@
 ---
 slug: fears-for-future-of-fund-for-safe-drinking-water
-title: "Fears for future of fund for safe drinking water"
-date: 2009-08-27
-source-url: https://www.scoop.co.nz/stories/PA0908/S00413/fears-for-future-of-fund-for-safe-drinking-water.htm
+title: Fears for future of fund for safe drinking water
+date: 2009-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00413/fears-for-future-of-fund-for-safe-drinking-water.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/08/27/fears-for-future-of-fund-for-safe-drinking-water/index.html
+layout: layout.njk
 ---
 Fears for future of fund for safe drinking water
 ================================================

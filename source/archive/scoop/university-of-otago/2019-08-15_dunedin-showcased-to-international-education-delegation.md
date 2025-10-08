@@ -1,9 +1,13 @@
 ---
 slug: dunedin-showcased-to-international-education-delegation
-title: "Dunedin showcased to international education delegation"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/ED1908/S00034/dunedin-showcased-to-international-education-delegation.htm
+title: Dunedin showcased to international education delegation
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00034/dunedin-showcased-to-international-education-delegation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/08/15/dunedin-showcased-to-international-education-delegation/index.html
+layout: layout.njk
 ---
 Dunedin showcased to international education delegation
 =======================================================

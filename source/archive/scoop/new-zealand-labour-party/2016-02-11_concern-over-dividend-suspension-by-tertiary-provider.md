@@ -1,9 +1,13 @@
 ---
 slug: concern-over-dividend-suspension-by-tertiary-provider
-title: "Concern over dividend suspension by tertiary provider"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PA1602/S00142/concern-over-dividend-suspension-by-tertiary-provider.htm
+title: Concern over dividend suspension by tertiary provider
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00142/concern-over-dividend-suspension-by-tertiary-provider.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/11/concern-over-dividend-suspension-by-tertiary-provider/index.html
+layout: layout.njk
 ---
 Concern over dividend suspension by tertiary provider
 =====================================================

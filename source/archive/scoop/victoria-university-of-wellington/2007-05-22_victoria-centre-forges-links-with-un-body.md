@@ -1,9 +1,12 @@
 ---
 slug: victoria-centre-forges-links-with-un-body
-title: "Victoria Centre forges links with UN body"
-date: 2007-05-22
-source-url: https://www.scoop.co.nz/stories/ED0705/S00091/victoria-centre-forges-links-with-un-body.htm
+title: Victoria Centre forges links with UN body
+date: 2007-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00091/victoria-centre-forges-links-with-un-body.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/22/victoria-centre-forges-links-with-un-body/index.html
+layout: layout.njk
 ---
 Victoria Centre forges links with UN body
 =========================================

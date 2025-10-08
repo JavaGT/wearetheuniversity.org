@@ -1,9 +1,13 @@
 ---
 slug: otago-uni-annual-report-reflects-on-excellent-year
-title: "Otago Uni annual report reflects on excellent year"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/ED0504/S00060/otago-uni-annual-report-reflects-on-excellent-year.htm
+title: Otago Uni annual report reflects on excellent year
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00060/otago-uni-annual-report-reflects-on-excellent-year.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/04/15/otago-uni-annual-report-reflects-on-excellent-year/index.html
+layout: layout.njk
 ---
 Otago Uni annual report reflects on excellent year
 ==================================================

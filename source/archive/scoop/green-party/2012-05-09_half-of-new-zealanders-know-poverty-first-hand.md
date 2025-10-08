@@ -1,9 +1,12 @@
 ---
 slug: half-of-new-zealanders-know-poverty-first-hand
-title: "Half of New Zealanders know poverty first hand"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/PA1205/S00143/half-of-new-zealanders-know-poverty-first-hand.htm
+title: Half of New Zealanders know poverty first hand
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00143/half-of-new-zealanders-know-poverty-first-hand.htm
 author: green-party
+permalink: /archive/2012/05/09/half-of-new-zealanders-know-poverty-first-hand/index.html
+layout: layout.njk
 ---
 Half of New Zealanders know poverty first hand
 ==============================================

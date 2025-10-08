@@ -1,9 +1,12 @@
 ---
 slug: great-ideas-turned-into-business-success
-title: "Great Ideas Turned Into Business Success"
-date: 2003-04-28
-source-url: https://www.scoop.co.nz/stories/ED0304/S00051/great-ideas-turned-into-business-success.htm
+title: Great Ideas Turned Into Business Success
+date: 2003-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00051/great-ideas-turned-into-business-success.htm
 author: auckland-university
+permalink: /archive/2003/04/28/great-ideas-turned-into-business-success/index.html
+layout: layout.njk
 ---
 Great Ideas Turned Into Business Success
 ========================================

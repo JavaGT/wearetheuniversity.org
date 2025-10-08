@@ -1,9 +1,13 @@
 ---
 slug: cash-for-access-deals-run-with-help-of-pms-office
-title: "Cash for access deals run with help of PM’s office"
-date: 2014-05-10
-source-url: https://www.scoop.co.nz/stories/PA1405/S00177/cash-for-access-deals-run-with-help-of-pms-office.htm
+title: Cash for access deals run with help of PM’s office
+date: 2014-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00177/cash-for-access-deals-run-with-help-of-pms-office.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/10/cash-for-access-deals-run-with-help-of-pms-office/index.html
+layout: layout.njk
 ---
 Cash for access deals run with help of PM’s office
 ==================================================

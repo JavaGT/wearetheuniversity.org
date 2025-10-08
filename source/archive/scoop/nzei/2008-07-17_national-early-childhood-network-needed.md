@@ -1,9 +1,12 @@
 ---
 slug: national-early-childhood-network-needed
-title: "National Early Childhood Network Needed"
-date: 2008-07-17
-source-url: https://www.scoop.co.nz/stories/ED0807/S00054/national-early-childhood-network-needed.htm
+title: National Early Childhood Network Needed
+date: 2008-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00054/national-early-childhood-network-needed.htm
 author: nzei
+permalink: /archive/2008/07/17/national-early-childhood-network-needed/index.html
+layout: layout.njk
 ---
 National Early Childhood Network Needed
 =======================================

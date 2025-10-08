@@ -1,9 +1,12 @@
 ---
 slug: greens-release-input-to-job-summit
-title: "Greens release input to Job Summit"
-date: 2009-02-25
-source-url: https://www.scoop.co.nz/stories/PA0902/S00373/greens-release-input-to-job-summit.htm
+title: Greens release input to Job Summit
+date: 2009-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00373/greens-release-input-to-job-summit.htm
 author: green-party
+permalink: /archive/2009/02/25/greens-release-input-to-job-summit/index.html
+layout: layout.njk
 ---
 Greens release input to Job Summit
 ==================================

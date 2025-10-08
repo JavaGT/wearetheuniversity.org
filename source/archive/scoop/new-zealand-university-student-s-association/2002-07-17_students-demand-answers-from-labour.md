@@ -1,9 +1,12 @@
 ---
 slug: students-demand-answers-from-labour
-title: "Students Demand Answers from Labour"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/ED0207/S00036/students-demand-answers-from-labour.htm
+title: Students Demand Answers from Labour
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00036/students-demand-answers-from-labour.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/17/students-demand-answers-from-labour/index.html
+layout: layout.njk
 ---
 Students Demand Answers from Labour
 ===================================

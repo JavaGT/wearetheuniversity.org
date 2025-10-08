@@ -1,9 +1,12 @@
 ---
 slug: second-free-earthquake-lecture
-title: "Second Free Earthquake Lecture"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/ED1010/S00095/second-free-earthquake-lecture.htm
+title: Second Free Earthquake Lecture
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00095/second-free-earthquake-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2010/10/27/second-free-earthquake-lecture/index.html
+layout: layout.njk
 ---
 Second Free Earthquake Lecture
 ==============================

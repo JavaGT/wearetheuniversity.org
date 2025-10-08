@@ -1,9 +1,12 @@
 ---
 slug: juditch-collins-column-collins-comments
-title: "Juditch Collins' Column - Collins Comments"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/PA1103/S00366/juditch-collins-column-collins-comments.htm
+title: Juditch Collins' Column - Collins Comments
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00366/juditch-collins-column-collins-comments.htm
 author: new-zealand-national-party
+permalink: /archive/2011/03/23/juditch-collins-column-collins-comments/index.html
+layout: layout.njk
 ---
 Juditch Collins' Column - Collins Comments
 ==========================================

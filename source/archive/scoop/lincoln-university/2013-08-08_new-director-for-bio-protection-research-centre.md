@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-bio-protection-research-centre
-title: "New Director for Bio-Protection Research Centre"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/SC1308/S00015/new-director-for-bio-protection-research-centre.htm
+title: New Director for Bio-Protection Research Centre
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00015/new-director-for-bio-protection-research-centre.htm
 author: lincoln-university
+permalink: /archive/2013/08/08/new-director-for-bio-protection-research-centre/index.html
+layout: layout.njk
 ---
 New Director for Bio-Protection Research Centre
 ===============================================

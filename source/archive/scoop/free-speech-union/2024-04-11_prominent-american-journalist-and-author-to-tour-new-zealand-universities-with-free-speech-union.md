@@ -1,9 +1,16 @@
 ---
-slug: prominent-american-journalist-and-author-to-tour-new-zealand-universities-with-free-speech-union
-title: "Prominent American Journalist And Author To Tour New Zealand Universities With Free Speech Union"
-date: 2024-04-11
-source-url: https://www.scoop.co.nz/stories/PO2404/S00072/prominent-american-journalist-and-author-to-tour-new-zealand-universities-with-free-speech-union.htm
+slug: >-
+  prominent-american-journalist-and-author-to-tour-new-zealand-universities-with-free-speech-union
+title: >-
+  Prominent American Journalist And Author To Tour New Zealand Universities With
+  Free Speech Union
+date: 2024-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2404/S00072/prominent-american-journalist-and-author-to-tour-new-zealand-universities-with-free-speech-union.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/04/11/prominent-american-journalist-and-author-to-tour-new-zealand-universities-with-free-speech-union/index.html
+layout: layout.njk
 ---
 Prominent American Journalist And Author To Tour New Zealand Universities With Free Speech Union
 ================================================================================================

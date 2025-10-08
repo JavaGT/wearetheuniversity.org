@@ -1,9 +1,12 @@
 ---
 slug: bill-signals-much-wider-insidious-programme
-title: "Bill Signals Much Wider, Insidious Programme"
-date: 2000-05-01
-source-url: https://www.scoop.co.nz/stories/PA0005/S00003/bill-signals-much-wider-insidious-programme.htm
+title: Bill Signals Much Wider, Insidious Programme
+date: 2000-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00003/bill-signals-much-wider-insidious-programme.htm
 author: act-new-zealand
+permalink: /archive/2000/05/01/bill-signals-much-wider-insidious-programme/index.html
+layout: layout.njk
 ---
 Bill Signals Much Wider, Insidious Programme
 ============================================

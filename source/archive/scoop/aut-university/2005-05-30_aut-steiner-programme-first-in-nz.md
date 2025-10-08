@@ -1,9 +1,12 @@
 ---
 slug: aut-steiner-programme-first-in-nz
-title: "AUT Steiner programme first in NZ"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/ED0505/S00133/aut-steiner-programme-first-in-nz.htm
+title: AUT Steiner programme first in NZ
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00133/aut-steiner-programme-first-in-nz.htm
 author: aut-university
+permalink: /archive/2005/05/30/aut-steiner-programme-first-in-nz/index.html
+layout: layout.njk
 ---
 AUT Steiner programme first in NZ
 =================================

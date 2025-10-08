@@ -1,9 +1,13 @@
 ---
 slug: waffle-and-words-wont-increase-skills-and-knowledge
-title: "Waffle and words won’t increase skills and knowledge"
-date: 2012-06-25
-source-url: https://www.scoop.co.nz/stories/PA1206/S00370/waffle-and-words-wont-increase-skills-and-knowledge.htm
+title: Waffle and words won’t increase skills and knowledge
+date: 2012-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00370/waffle-and-words-wont-increase-skills-and-knowledge.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/25/waffle-and-words-wont-increase-skills-and-knowledge/index.html
+layout: layout.njk
 ---
 Waffle and words won’t increase skills and knowledge
 ====================================================

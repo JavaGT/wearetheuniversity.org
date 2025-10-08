@@ -1,9 +1,16 @@
 ---
-slug: university-of-waikato-researchers-to-lead-seaweed-farming-trials-in-hauraki-gulf-and-bay-of-plenty
-title: "University Of Waikato Researchers To Lead Seaweed Farming Trials In Hauraki Gulf And Bay Of Plenty"
-date: 2021-12-13
-source-url: https://www.scoop.co.nz/stories/SC2112/S00036/university-of-waikato-researchers-to-lead-seaweed-farming-trials-in-hauraki-gulf-and-bay-of-plenty.htm
+slug: >-
+  university-of-waikato-researchers-to-lead-seaweed-farming-trials-in-hauraki-gulf-and-bay-of-plenty
+title: >-
+  University Of Waikato Researchers To Lead Seaweed Farming Trials In Hauraki
+  Gulf And Bay Of Plenty
+date: 2021-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2112/S00036/university-of-waikato-researchers-to-lead-seaweed-farming-trials-in-hauraki-gulf-and-bay-of-plenty.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/12/13/university-of-waikato-researchers-to-lead-seaweed-farming-trials-in-hauraki-gulf-and-bay-of-plenty/index.html
+layout: layout.njk
 ---
 University Of Waikato Researchers To Lead Seaweed Farming Trials In Hauraki Gulf And Bay Of Plenty
 ==================================================================================================

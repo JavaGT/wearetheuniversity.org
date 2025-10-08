@@ -1,9 +1,12 @@
 ---
 slug: diplomat-to-receive-honorary-doctorate
-title: "Diplomat to receive honorary doctorate"
-date: 2005-09-29
-source-url: https://www.scoop.co.nz/stories/ED0509/S00092/diplomat-to-receive-honorary-doctorate.htm
+title: Diplomat to receive honorary doctorate
+date: 2005-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00092/diplomat-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/29/diplomat-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Diplomat to receive honorary doctorate
 ======================================

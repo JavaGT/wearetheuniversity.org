@@ -1,9 +1,13 @@
 ---
 slug: cost-of-living-in-auckland-discourages-northern-maori-youth
-title: "Cost of living in Auckland discourages northern Maori youth"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00493/cost-of-living-in-auckland-discourages-northern-maori-youth.htm
+title: Cost of living in Auckland discourages northern Maori youth
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00493/cost-of-living-in-auckland-discourages-northern-maori-youth.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/28/cost-of-living-in-auckland-discourages-northern-maori-youth/index.html
+layout: layout.njk
 ---
 Cost of living in Auckland discourages northern Maori youth
 ===========================================================

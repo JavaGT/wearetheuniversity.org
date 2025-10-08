@@ -1,9 +1,13 @@
 ---
 slug: urbanisation-and-climate-change-may-increase-mosquitoes
-title: "Urbanisation and climate change may increase mosquitoes"
-date: 2018-03-29
-source-url: https://www.scoop.co.nz/stories/SC1803/S00065/urbanisation-and-climate-change-may-increase-mosquitoes.htm
+title: Urbanisation and climate change may increase mosquitoes
+date: 2018-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00065/urbanisation-and-climate-change-may-increase-mosquitoes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/29/urbanisation-and-climate-change-may-increase-mosquitoes/index.html
+layout: layout.njk
 ---
 Urbanisation and climate change may increase mosquitoes
 =======================================================

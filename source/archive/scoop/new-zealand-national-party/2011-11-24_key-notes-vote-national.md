@@ -1,9 +1,11 @@
 ---
 slug: key-notes-vote-national
-title: "Key Notes: Vote National"
-date: 2011-11-24
+title: 'Key Notes: Vote National'
+date: 2011-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00499/key-notes-vote-national.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/24/key-notes-vote-national/index.html
+layout: layout.njk
 ---
 Key Notes: Vote National
 ========================

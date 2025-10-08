@@ -1,9 +1,12 @@
 ---
 slug: massey-historian-pens-100-year-red-cross-story
-title: "Massey historian pens 100-year Red Cross story"
-date: 2015-10-21
-source-url: https://www.scoop.co.nz/stories/ED1510/S00105/massey-historian-pens-100-year-red-cross-story.htm
+title: Massey historian pens 100-year Red Cross story
+date: 2015-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00105/massey-historian-pens-100-year-red-cross-story.htm
 author: massey-university
+permalink: /archive/2015/10/21/massey-historian-pens-100-year-red-cross-story/index.html
+layout: layout.njk
 ---
 Massey historian pens 100-year Red Cross story
 ==============================================

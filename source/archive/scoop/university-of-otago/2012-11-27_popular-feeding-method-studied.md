@@ -1,9 +1,12 @@
 ---
 slug: popular-feeding-method-studied
-title: "Popular Feeding Method Studied"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/SC1211/S00073/popular-feeding-method-studied.htm
+title: Popular Feeding Method Studied
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00073/popular-feeding-method-studied.htm
 author: university-of-otago
+permalink: /archive/2012/11/27/popular-feeding-method-studied/index.html
+layout: layout.njk
 ---
 Popular Feeding Method Studied
 ==============================

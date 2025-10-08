@@ -1,9 +1,12 @@
 ---
 slug: funding-review-the-medicine-for-ailing-salaries
-title: "Funding review the medicine for ailing salaries"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/ED0602/S00064/funding-review-the-medicine-for-ailing-salaries.htm
+title: Funding review the medicine for ailing salaries
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00064/funding-review-the-medicine-for-ailing-salaries.htm
 author: association-of-university-staff
+permalink: /archive/2006/02/23/funding-review-the-medicine-for-ailing-salaries/index.html
+layout: layout.njk
 ---
 Funding review the medicine for ailing salaries
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: from-troubled-teen-to-study-queen
-title: "From troubled teen to study queen"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/ED0309/S00031/from-troubled-teen-to-study-queen.htm
+title: From troubled teen to study queen
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00031/from-troubled-teen-to-study-queen.htm
 author: waikato-university
+permalink: /archive/2003/09/09/from-troubled-teen-to-study-queen/index.html
+layout: layout.njk
 ---
 From troubled teen to study queen
 =================================

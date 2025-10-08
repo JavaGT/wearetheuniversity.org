@@ -1,9 +1,13 @@
 ---
 slug: family-donation-supports-otago-university-research-on-world-bipolar-day
-title: "Family Donation Supports Otago University Research On World Bipolar Day"
-date: 2022-03-30
-source-url: https://www.scoop.co.nz/stories/SC2203/S00050/family-donation-supports-otago-university-research-on-world-bipolar-day.htm
+title: Family Donation Supports Otago University Research On World Bipolar Day
+date: 2022-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00050/family-donation-supports-otago-university-research-on-world-bipolar-day.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/03/30/family-donation-supports-otago-university-research-on-world-bipolar-day/index.html
+layout: layout.njk
 ---
 Family Donation Supports Otago University Research On World Bipolar Day
 =======================================================================

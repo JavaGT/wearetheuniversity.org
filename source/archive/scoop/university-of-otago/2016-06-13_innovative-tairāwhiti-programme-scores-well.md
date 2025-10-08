@@ -1,9 +1,12 @@
 ---
 slug: innovative-tairāwhiti-programme-scores-well
-title: "Innovative Tairāwhiti programme scores well"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/GE1606/S00048/innovative-tairawhiti-programme-scores-well.htm
+title: Innovative Tairāwhiti programme scores well
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1606/S00048/innovative-tairawhiti-programme-scores-well.htm
 author: university-of-otago
+permalink: /archive/2016/06/13/innovative-tair/index.html
+layout: layout.njk
 ---
 Innovative Tairāwhiti programme scores well
 ===========================================

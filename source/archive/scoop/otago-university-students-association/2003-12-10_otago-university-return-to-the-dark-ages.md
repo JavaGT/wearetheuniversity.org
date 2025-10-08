@@ -1,9 +1,12 @@
 ---
 slug: otago-university-return-to-the-dark-ages
-title: "Otago University - Return to the Dark Ages"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/ED0312/S00046/otago-university-return-to-the-dark-ages.htm
+title: Otago University - Return to the Dark Ages
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00046/otago-university-return-to-the-dark-ages.htm
 author: otago-university-students-association
+permalink: /archive/2003/12/10/otago-university-return-to-the-dark-ages/index.html
+layout: layout.njk
 ---
 Otago University - Return to the Dark Ages
 ==========================================

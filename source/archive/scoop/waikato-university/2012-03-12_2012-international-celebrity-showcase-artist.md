@@ -1,9 +1,12 @@
 ---
 slug: 2012-international-celebrity-showcase-artist
-title: "2012 International Celebrity Showcase artist"
-date: 2012-03-12
-source-url: https://www.scoop.co.nz/stories/CU1203/S00177/2012-international-celebrity-showcase-artist.htm
+title: 2012 International Celebrity Showcase artist
+date: 2012-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00177/2012-international-celebrity-showcase-artist.htm
 author: waikato-university
+permalink: /archive/2012/03/12/2012-international-celebrity-showcase-artist/index.html
+layout: layout.njk
 ---
 2012 International Celebrity Showcase artist
 ============================================

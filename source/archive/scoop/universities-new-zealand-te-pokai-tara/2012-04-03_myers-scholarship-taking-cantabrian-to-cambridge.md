@@ -1,9 +1,13 @@
 ---
 slug: myers-scholarship-taking-cantabrian-to-cambridge
-title: "Myers Scholarship Taking Cantabrian To Cambridge"
-date: 2012-04-03
-source-url: https://www.scoop.co.nz/stories/ED1204/S00017/myers-scholarship-taking-cantabrian-to-cambridge.htm
+title: Myers Scholarship Taking Cantabrian To Cambridge
+date: 2012-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00017/myers-scholarship-taking-cantabrian-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/04/03/myers-scholarship-taking-cantabrian-to-cambridge/index.html
+layout: layout.njk
 ---
 Myers Scholarship Taking Cantabrian To Cambridge
 ================================================

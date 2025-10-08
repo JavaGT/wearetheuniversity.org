@@ -1,9 +1,13 @@
 ---
 slug: student-researching-graphene-to-help-store-renewable-energy
-title: "Student researching graphene to help store renewable energy"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/ED1408/S00127/student-researching-graphene-to-help-store-renewable-energy.htm
+title: Student researching graphene to help store renewable energy
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00127/student-researching-graphene-to-help-store-renewable-energy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/25/student-researching-graphene-to-help-store-renewable-energy/index.html
+layout: layout.njk
 ---
 Student researching graphene to help store renewable energy
 ===========================================================

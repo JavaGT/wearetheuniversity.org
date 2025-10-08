@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-work-commission
-title: "The Future of Work Commission"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00126/the-future-of-work-commission.htm
+title: The Future of Work Commission
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00126/the-future-of-work-commission.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/28/the-future-of-work-commission/index.html
+layout: layout.njk
 ---
 The Future of Work Commission
 =============================

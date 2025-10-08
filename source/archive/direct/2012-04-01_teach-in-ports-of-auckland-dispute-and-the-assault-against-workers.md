@@ -1,10 +1,13 @@
 ---
-title: "Teach-in: Ports of Auckland Dispute and the Assault Against Workers"
+title: 'Teach-in: Ports of Auckland Dispute and the Assault Against Workers'
 slug: teach-in-ports-of-auckland-dispute-and-the-assault-against-workers
-date: 2012-04-01
+date: 2012-04-01T00:00:00.000Z
 source: https://www.facebook.com/events/268430969909652/
 author: Jai Bentley-Payne
 author-slug: jai-bentley-payne
+permalink: >-
+  /archive/2012/04/01/teach-in-ports-of-auckland-dispute-and-the-assault-against-workers/index.html
+layout: layout.njk
 ---
 
 # Teach-in: Ports of Auckland Dispute and the Assault Against Workers

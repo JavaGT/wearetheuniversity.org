@@ -1,9 +1,13 @@
 ---
 slug: conference-charts-pathways-to-changing-populations
-title: "Conference charts pathways to changing populations"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00121/conference-charts-pathways-to-changing-populations.htm
+title: Conference charts pathways to changing populations
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00121/conference-charts-pathways-to-changing-populations.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/18/conference-charts-pathways-to-changing-populations/index.html
+layout: layout.njk
 ---
 Conference charts pathways to changing populations
 ==================================================

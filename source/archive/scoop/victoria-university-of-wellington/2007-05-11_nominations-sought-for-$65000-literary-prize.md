@@ -1,9 +1,12 @@
 ---
 slug: nominations-sought-for-$65000-literary-prize
-title: "Nominations sought for $65,000 literary prize"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/ED0705/S00054/nominations-sought-for-65000-literary-prize.htm
+title: Nominations sought for $65,000 literary prize
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00054/nominations-sought-for-65000-literary-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/11/nominations-sought-for-/index.html
+layout: layout.njk
 ---
 Nominations sought for $65,000 literary prize
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: a-stroll-through-history-heroes-and-rogues-of-accounting
-title: "A stroll through history: Heroes and rogues of accounting"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/ED1611/S00003/a-stroll-through-history-heroes-and-rogues-of-accounting.htm
+title: 'A stroll through history: Heroes and rogues of accounting'
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00003/a-stroll-through-history-heroes-and-rogues-of-accounting.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/11/01/a-stroll-through-history-heroes-and-rogues-of-accounting/index.html
+layout: layout.njk
 ---
 A stroll through history: Heroes and rogues of accounting
 =========================================================

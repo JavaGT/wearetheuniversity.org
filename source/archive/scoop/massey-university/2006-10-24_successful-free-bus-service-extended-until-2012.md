@@ -1,9 +1,12 @@
 ---
 slug: successful-free-bus-service-extended-until-2012
-title: "Successful free bus service extended until 2012"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/ED0610/S00087/successful-free-bus-service-extended-until-2012.htm
+title: Successful free bus service extended until 2012
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00087/successful-free-bus-service-extended-until-2012.htm
 author: massey-university
+permalink: /archive/2006/10/24/successful-free-bus-service-extended-until-2012/index.html
+layout: layout.njk
 ---
 Successful free bus service extended until 2012
 ===============================================

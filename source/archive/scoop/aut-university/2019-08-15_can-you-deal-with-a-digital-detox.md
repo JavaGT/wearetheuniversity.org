@@ -1,9 +1,12 @@
 ---
 slug: can-you-deal-with-a-digital-detox
-title: "Can you deal with a digital detox?"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/SC1908/S00042/can-you-deal-with-a-digital-detox.htm
+title: Can you deal with a digital detox?
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00042/can-you-deal-with-a-digital-detox.htm
 author: aut-university
+permalink: /archive/2019/08/15/can-you-deal-with-a-digital-detox/index.html
+layout: layout.njk
 ---
 Can you deal with a digital detox?
 ==================================

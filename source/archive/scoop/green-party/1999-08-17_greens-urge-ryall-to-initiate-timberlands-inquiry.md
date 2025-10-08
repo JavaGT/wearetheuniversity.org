@@ -1,9 +1,13 @@
 ---
 slug: greens-urge-ryall-to-initiate-timberlands-inquiry
-title: "Greens Urge Ryall To Initiate Timberlands Inquiry"
-date: 1999-08-17
-source-url: https://www.scoop.co.nz/stories/PA9908/S00275/greens-urge-ryall-to-initiate-timberlands-inquiry.htm
+title: Greens Urge Ryall To Initiate Timberlands Inquiry
+date: 1999-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00275/greens-urge-ryall-to-initiate-timberlands-inquiry.htm
 author: green-party
+permalink: >-
+  /archive/1999/08/17/greens-urge-ryall-to-initiate-timberlands-inquiry/index.html
+layout: layout.njk
 ---
 Greens Urge Ryall To Initiate Timberlands Inquiry
 =================================================

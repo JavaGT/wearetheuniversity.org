@@ -1,9 +1,12 @@
 ---
 slug: general-debate-dr-pita-sharples
-title: "General Debate : Dr Pita Sharples"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00391/general-debate-dr-pita-sharples.htm
+title: 'General Debate : Dr Pita Sharples'
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00391/general-debate-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/general-debate-dr-pita-sharples/index.html
+layout: layout.njk
 ---
 General Debate : Dr Pita Sharples
 =================================

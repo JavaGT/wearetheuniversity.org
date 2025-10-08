@@ -1,9 +1,12 @@
 ---
 slug: students-vote-for-safer-drinking-environments
-title: "Students vote for safer drinking environments"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00054/students-vote-for-safer-drinking-environments.htm
+title: Students vote for safer drinking environments
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00054/students-vote-for-safer-drinking-environments.htm
 author: otago-university-students-association
+permalink: /archive/2014/11/07/students-vote-for-safer-drinking-environments/index.html
+layout: layout.njk
 ---
 Students vote for safer drinking environments
 =============================================

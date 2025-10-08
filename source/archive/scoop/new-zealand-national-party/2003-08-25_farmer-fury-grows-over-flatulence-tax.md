@@ -1,9 +1,12 @@
 ---
 slug: farmer-fury-grows-over-flatulence-tax
-title: "Farmer fury grows over flatulence tax"
-date: 2003-08-25
-source-url: https://www.scoop.co.nz/stories/PA0308/S00460/farmer-fury-grows-over-flatulence-tax.htm
+title: Farmer fury grows over flatulence tax
+date: 2003-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00460/farmer-fury-grows-over-flatulence-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/25/farmer-fury-grows-over-flatulence-tax/index.html
+layout: layout.njk
 ---
 Farmer fury grows over flatulence tax
 =====================================

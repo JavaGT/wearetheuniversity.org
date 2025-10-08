@@ -1,9 +1,12 @@
 ---
 slug: labour-admits-failure-in-education
-title: "Labour admits failure in education"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PA0809/S00431/labour-admits-failure-in-education.htm
+title: Labour admits failure in education
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00431/labour-admits-failure-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/19/labour-admits-failure-in-education/index.html
+layout: layout.njk
 ---
 Labour admits failure in education
 ==================================

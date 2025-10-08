@@ -1,9 +1,12 @@
 ---
 slug: hillary-scholar-to-tour-with-hayley-westenra
-title: "Hillary Scholar to tour with Hayley Westenra"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/ED1110/S00041/hillary-scholar-to-tour-with-hayley-westenra.htm
+title: Hillary Scholar to tour with Hayley Westenra
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00041/hillary-scholar-to-tour-with-hayley-westenra.htm
 author: waikato-university
+permalink: /archive/2011/10/12/hillary-scholar-to-tour-with-hayley-westenra/index.html
+layout: layout.njk
 ---
 Hillary Scholar to tour with Hayley Westenra
 ============================================

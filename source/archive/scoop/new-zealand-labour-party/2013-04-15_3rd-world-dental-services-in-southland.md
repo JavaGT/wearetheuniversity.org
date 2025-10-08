@@ -1,9 +1,12 @@
 ---
 slug: 3rd-world-dental-services-in-southland
-title: "3rd World Dental Services in Southland"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/PA1304/S00271/3rd-world-dental-services-in-southland.htm
+title: 3rd World Dental Services in Southland
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00271/3rd-world-dental-services-in-southland.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/15/3rd-world-dental-services-in-southland/index.html
+layout: layout.njk
 ---
 3rd World Dental Services in Southland
 ======================================

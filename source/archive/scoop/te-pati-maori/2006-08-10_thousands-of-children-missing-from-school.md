@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-children-missing-from-school
-title: "Thousands of Children Missing From School"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/PA0608/S00179/thousands-of-children-missing-from-school.htm
+title: Thousands of Children Missing From School
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00179/thousands-of-children-missing-from-school.htm
 author: te-pati-maori
+permalink: /archive/2006/08/10/thousands-of-children-missing-from-school/index.html
+layout: layout.njk
 ---
 Thousands of Children Missing From School
 =========================================

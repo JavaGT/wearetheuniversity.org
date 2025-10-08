@@ -1,9 +1,12 @@
 ---
 slug: university-staff-reject-secret-offer
-title: "University staff reject secret offer"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/ED0203/S00013/university-staff-reject-secret-offer.htm
+title: University staff reject secret offer
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00013/university-staff-reject-secret-offer.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/06/university-staff-reject-secret-offer/index.html
+layout: layout.njk
 ---
 University staff reject secret offer
 ====================================

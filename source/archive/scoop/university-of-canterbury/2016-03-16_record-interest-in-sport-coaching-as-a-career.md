@@ -1,9 +1,12 @@
 ---
 slug: record-interest-in-sport-coaching-as-a-career
-title: "Record interest in Sport Coaching as a career"
-date: 2016-03-16
-source-url: https://www.scoop.co.nz/stories/ED1603/S00061/record-interest-in-sport-coaching-as-a-career.htm
+title: Record interest in Sport Coaching as a career
+date: 2016-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00061/record-interest-in-sport-coaching-as-a-career.htm
 author: university-of-canterbury
+permalink: /archive/2016/03/16/record-interest-in-sport-coaching-as-a-career/index.html
+layout: layout.njk
 ---
 Record interest in Sport Coaching as a career
 =============================================

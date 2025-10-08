@@ -1,9 +1,12 @@
 ---
 slug: canterbury-loses-frontline-community-policing
-title: "Canterbury loses frontline community policing"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/PA0910/S00097/canterbury-loses-frontline-community-policing.htm
+title: Canterbury loses frontline community policing
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00097/canterbury-loses-frontline-community-policing.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/08/canterbury-loses-frontline-community-policing/index.html
+layout: layout.njk
 ---
 Canterbury loses frontline community policing
 =============================================

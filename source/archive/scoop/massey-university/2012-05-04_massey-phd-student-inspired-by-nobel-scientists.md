@@ -1,9 +1,12 @@
 ---
 slug: massey-phd-student-inspired-by-nobel-scientists
-title: "Massey PhD student inspired by Nobel scientists"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/SC1205/S00008/massey-phd-student-inspired-by-nobel-scientists.htm
+title: Massey PhD student inspired by Nobel scientists
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00008/massey-phd-student-inspired-by-nobel-scientists.htm
 author: massey-university
+permalink: /archive/2012/05/04/massey-phd-student-inspired-by-nobel-scientists/index.html
+layout: layout.njk
 ---
 Massey PhD student inspired by Nobel scientists
 ===============================================

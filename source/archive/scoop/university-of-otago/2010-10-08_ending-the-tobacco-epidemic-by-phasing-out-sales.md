@@ -1,9 +1,13 @@
 ---
 slug: ending-the-tobacco-epidemic-by-phasing-out-sales
-title: "Ending the tobacco epidemic by phasing out sales"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/GE1010/S00037/ending-the-tobacco-epidemic-by-phasing-out-sales.htm
+title: Ending the tobacco epidemic by phasing out sales
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00037/ending-the-tobacco-epidemic-by-phasing-out-sales.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/10/08/ending-the-tobacco-epidemic-by-phasing-out-sales/index.html
+layout: layout.njk
 ---
 Ending the tobacco epidemic by phasing out sales
 ================================================

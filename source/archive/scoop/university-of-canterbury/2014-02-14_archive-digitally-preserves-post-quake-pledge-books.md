@@ -1,9 +1,13 @@
 ---
 slug: archive-digitally-preserves-post-quake-pledge-books
-title: "Archive digitally preserves post-quake Pledge books"
-date: 2014-02-14
-source-url: https://www.scoop.co.nz/stories/AK1402/S00284/archive-digitally-preserves-post-quake-pledge-books.htm
+title: Archive digitally preserves post-quake Pledge books
+date: 2014-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00284/archive-digitally-preserves-post-quake-pledge-books.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/14/archive-digitally-preserves-post-quake-pledge-books/index.html
+layout: layout.njk
 ---
 Archive digitally preserves post-quake Pledge books
 ===================================================

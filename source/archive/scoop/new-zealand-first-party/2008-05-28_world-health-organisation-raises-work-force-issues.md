@@ -1,9 +1,13 @@
 ---
 slug: world-health-organisation-raises-work-force-issues
-title: "World Health Organisation Raises Work Force Issues"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/PA0805/S00573/world-health-organisation-raises-work-force-issues.htm
+title: World Health Organisation Raises Work Force Issues
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00573/world-health-organisation-raises-work-force-issues.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2008/05/28/world-health-organisation-raises-work-force-issues/index.html
+layout: layout.njk
 ---
 World Health Organisation Raises Work Force Issues
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: adding-another-dimension-computer-graphic-design
-title: "Adding another dimension: computer graphic design"
-date: 2010-11-08
-source-url: https://www.scoop.co.nz/stories/ED1011/S00026/adding-another-dimension-computer-graphic-design.htm
+title: 'Adding another dimension: computer graphic design'
+date: 2010-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00026/adding-another-dimension-computer-graphic-design.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/11/08/adding-another-dimension-computer-graphic-design/index.html
+layout: layout.njk
 ---
 Adding another dimension: computer graphic design
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-11-march-2005
-title: "Beehive Bulletin - Friday, 11 March 2005"
-date: 2005-03-11
-source-url: https://www.scoop.co.nz/stories/PA0503/S00253/beehive-bulletin-friday-11-march-2005.htm
+title: Beehive Bulletin - Friday, 11 March 2005
+date: 2005-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00253/beehive-bulletin-friday-11-march-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/03/11/beehive-bulletin-friday-11-march-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday, 11 March 2005
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: quitline-is-good-value-for-money-new-study
-title: "Quitline is good value-for-money – new study"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/BU1708/S00656/quitline-is-good-value-for-money-new-study.htm
+title: Quitline is good value-for-money – new study
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1708/S00656/quitline-is-good-value-for-money-new-study.htm
 author: university-of-otago
+permalink: /archive/2017/08/21/quitline-is-good-value-for-money-new-study/index.html
+layout: layout.njk
 ---
 Quitline is good value-for-money – new study
 ============================================

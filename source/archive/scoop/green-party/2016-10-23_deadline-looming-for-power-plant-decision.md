@@ -1,9 +1,12 @@
 ---
 slug: deadline-looming-for-power-plant-decision
-title: "Deadline looming for power plant decision"
-date: 2016-10-23
-source-url: https://www.scoop.co.nz/stories/PA1610/S00368/deadline-looming-for-power-plant-decision.htm
+title: Deadline looming for power plant decision
+date: 2016-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00368/deadline-looming-for-power-plant-decision.htm
 author: green-party
+permalink: /archive/2016/10/23/deadline-looming-for-power-plant-decision/index.html
+layout: layout.njk
 ---
 Deadline looming for power plant decision
 =========================================

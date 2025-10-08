@@ -1,9 +1,11 @@
 ---
 slug: sharples-te-takawaenga-maori
-title: "Sharples: Te Takawaenga Maori"
-date: 2008-04-17
+title: 'Sharples: Te Takawaenga Maori'
+date: 2008-04-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00429/sharples-te-takawaenga-maori.htm
 author: te-pati-maori
+permalink: /archive/2008/04/17/sharples-te-takawaenga-maori/index.html
+layout: layout.njk
 ---
 Sharples: Te Takawaenga Maori
 =============================

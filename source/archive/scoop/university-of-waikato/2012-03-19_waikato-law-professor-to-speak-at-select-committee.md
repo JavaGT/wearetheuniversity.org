@@ -1,9 +1,13 @@
 ---
 slug: waikato-law-professor-to-speak-at-select-committee
-title: "Waikato Law Professor To Speak At Select Committee"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/PO1203/S00231/waikato-law-professor-to-speak-at-select-committee.htm
+title: Waikato Law Professor To Speak At Select Committee
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00231/waikato-law-professor-to-speak-at-select-committee.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/19/waikato-law-professor-to-speak-at-select-committee/index.html
+layout: layout.njk
 ---
 Waikato Law Professor To Speak At Select Committee
 ==================================================

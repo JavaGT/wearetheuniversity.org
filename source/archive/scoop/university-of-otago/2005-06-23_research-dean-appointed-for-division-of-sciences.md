@@ -1,9 +1,13 @@
 ---
 slug: research-dean-appointed-for-division-of-sciences
-title: "Research Dean appointed for Division of Sciences"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/ED0506/S00064/research-dean-appointed-for-division-of-sciences.htm
+title: Research Dean appointed for Division of Sciences
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00064/research-dean-appointed-for-division-of-sciences.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/06/23/research-dean-appointed-for-division-of-sciences/index.html
+layout: layout.njk
 ---
 Research Dean appointed for Division of Sciences
 ================================================

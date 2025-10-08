@@ -1,9 +1,13 @@
 ---
 slug: waikato-takes-the-campus-to-the-city-with-new-finance-course
-title: "Waikato takes the campus to the city with new finance course"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/ED1208/S00018/waikato-takes-the-campus-to-the-city-with-new-finance-course.htm
+title: Waikato takes the campus to the city with new finance course
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00018/waikato-takes-the-campus-to-the-city-with-new-finance-course.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/08/02/waikato-takes-the-campus-to-the-city-with-new-finance-course/index.html
+layout: layout.njk
 ---
 Waikato takes the campus to the city with new finance course
 ============================================================

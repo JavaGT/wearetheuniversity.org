@@ -1,9 +1,12 @@
 ---
 slug: high-performance-initiative-earns-high-praise
-title: "High performance initiative earns high praise"
-date: 2010-10-07
-source-url: https://www.scoop.co.nz/stories/PO1010/S00068/high-performance-initiative-earns-high-praise.htm
+title: High performance initiative earns high praise
+date: 2010-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00068/high-performance-initiative-earns-high-praise.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/07/high-performance-initiative-earns-high-praise/index.html
+layout: layout.njk
 ---
 High performance initiative earns high praise
 =============================================

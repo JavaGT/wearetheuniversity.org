@@ -1,9 +1,13 @@
 ---
 slug: nzmsa-supports-dr-lance-osullivan-vaccines-save-lives
-title: "NZMSA Supports Dr. Lance O’Sullivan: Vaccines Save Lives"
-date: 2017-05-26
-source-url: https://www.scoop.co.nz/stories/GE1705/S00175/nzmsa-supports-dr-lance-osullivan-vaccines-save-lives.htm
+title: 'NZMSA Supports Dr. Lance O’Sullivan: Vaccines Save Lives'
+date: 2017-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00175/nzmsa-supports-dr-lance-osullivan-vaccines-save-lives.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2017/05/26/nzmsa-supports-dr-lance-osullivan-vaccines-save-lives/index.html
+layout: layout.njk
 ---
 NZMSA Supports Dr. Lance O’Sullivan: Vaccines Save Lives
 ========================================================

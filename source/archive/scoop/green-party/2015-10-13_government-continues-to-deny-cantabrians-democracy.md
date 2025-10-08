@@ -1,9 +1,13 @@
 ---
 slug: government-continues-to-deny-cantabrians-democracy
-title: "Government continues to deny Cantabrians democracy"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00184/government-continues-to-deny-cantabrians-democracy.htm
+title: Government continues to deny Cantabrians democracy
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00184/government-continues-to-deny-cantabrians-democracy.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/13/government-continues-to-deny-cantabrians-democracy/index.html
+layout: layout.njk
 ---
 Government continues to deny Cantabrians democracy
 ==================================================

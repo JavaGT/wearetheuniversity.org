@@ -1,9 +1,12 @@
 ---
 slug: smiths-water-quality-con-falling-apart
-title: "Smith’s water quality con falling apart"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/PA1702/S00334/smiths-water-quality-con-falling-apart.htm
+title: Smith’s water quality con falling apart
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00334/smiths-water-quality-con-falling-apart.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/24/smiths-water-quality-con-falling-apart/index.html
+layout: layout.njk
 ---
 Smith’s water quality con falling apart
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: te-tai-tonga-poll-a-tohu-for-maori-party
-title: "Te Tai Tonga Poll a Tohu for Maori Party"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PO1111/S00584/te-tai-tonga-poll-a-tohu-for-maori-party.htm
+title: Te Tai Tonga Poll a Tohu for Maori Party
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00584/te-tai-tonga-poll-a-tohu-for-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2011/11/22/te-tai-tonga-poll-a-tohu-for-maori-party/index.html
+layout: layout.njk
 ---
 Te Tai Tonga Poll a Tohu for Maori Party
 ========================================

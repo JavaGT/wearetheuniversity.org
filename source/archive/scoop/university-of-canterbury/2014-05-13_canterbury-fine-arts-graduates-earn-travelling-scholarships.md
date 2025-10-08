@@ -1,9 +1,13 @@
 ---
 slug: canterbury-fine-arts-graduates-earn-travelling-scholarships
-title: "Canterbury fine arts graduates earn travelling scholarships"
-date: 2014-05-13
-source-url: https://www.scoop.co.nz/stories/ED1405/S00066/canterbury-fine-arts-graduates-earn-travelling-scholarships.htm
+title: Canterbury fine arts graduates earn travelling scholarships
+date: 2014-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00066/canterbury-fine-arts-graduates-earn-travelling-scholarships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/13/canterbury-fine-arts-graduates-earn-travelling-scholarships/index.html
+layout: layout.njk
 ---
 Canterbury fine arts graduates earn travelling scholarships
 ===========================================================

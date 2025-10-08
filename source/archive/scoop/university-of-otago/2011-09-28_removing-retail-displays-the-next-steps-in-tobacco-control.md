@@ -1,9 +1,13 @@
 ---
 slug: removing-retail-displays-the-next-steps-in-tobacco-control
-title: "Removing retail displays: the next steps in tobacco control"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00411/removing-retail-displays-the-next-steps-in-tobacco-control.htm
+title: 'Removing retail displays: the next steps in tobacco control'
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00411/removing-retail-displays-the-next-steps-in-tobacco-control.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/28/removing-retail-displays-the-next-steps-in-tobacco-control/index.html
+layout: layout.njk
 ---
 Removing retail displays: the next steps in tobacco control
 ===========================================================

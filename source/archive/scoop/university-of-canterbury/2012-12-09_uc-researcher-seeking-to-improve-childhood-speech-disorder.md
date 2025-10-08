@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-seeking-to-improve-childhood-speech-disorder
-title: "UC researcher seeking to improve childhood speech disorder"
-date: 2012-12-09
-source-url: https://www.scoop.co.nz/stories/ED1212/S00052/uc-researcher-seeking-to-improve-childhood-speech-disorder.htm
+title: UC researcher seeking to improve childhood speech disorder
+date: 2012-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00052/uc-researcher-seeking-to-improve-childhood-speech-disorder.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/09/uc-researcher-seeking-to-improve-childhood-speech-disorder/index.html
+layout: layout.njk
 ---
 UC researcher seeking to improve childhood speech disorder
 ==========================================================

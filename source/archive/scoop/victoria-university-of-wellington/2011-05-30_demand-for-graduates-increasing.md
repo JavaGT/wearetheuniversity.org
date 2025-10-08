@@ -1,9 +1,12 @@
 ---
 slug: demand-for-graduates-increasing
-title: "Demand for graduates increasing"
-date: 2011-05-30
-source-url: https://www.scoop.co.nz/stories/ED1105/S00126/demand-for-graduates-increasing.htm
+title: Demand for graduates increasing
+date: 2011-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00126/demand-for-graduates-increasing.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/30/demand-for-graduates-increasing/index.html
+layout: layout.njk
 ---
 Demand for graduates increasing
 ===============================

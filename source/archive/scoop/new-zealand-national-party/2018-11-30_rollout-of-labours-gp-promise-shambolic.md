@@ -1,9 +1,12 @@
 ---
 slug: rollout-of-labours-gp-promise-shambolic
-title: "Rollout of Labour’s GP promise shambolic"
-date: 2018-11-30
-source-url: https://www.scoop.co.nz/stories/PA1811/S00330/rollout-of-labours-gp-promise-shambolic.htm
+title: Rollout of Labour’s GP promise shambolic
+date: 2018-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00330/rollout-of-labours-gp-promise-shambolic.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/30/rollout-of-labours-gp-promise-shambolic/index.html
+layout: layout.njk
 ---
 Rollout of Labour’s GP promise shambolic
 ========================================

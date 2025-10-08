@@ -1,9 +1,12 @@
 ---
 slug: ousa-creaming-john-key-and-our-presidents-plea
-title: "OUSA creaming John Key and our Presidents plea"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PO1108/S00218/ousa-creaming-john-key-and-our-presidents-plea.htm
+title: OUSA creaming John Key and our Presidents plea
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00218/ousa-creaming-john-key-and-our-presidents-plea.htm
 author: ousa
+permalink: /archive/2011/08/15/ousa-creaming-john-key-and-our-presidents-plea/index.html
+layout: layout.njk
 ---
 OUSA creaming John Key and our Presidents plea
 ==============================================

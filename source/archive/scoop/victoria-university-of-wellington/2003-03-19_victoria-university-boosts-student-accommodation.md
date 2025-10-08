@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-boosts-student-accommodation
-title: "Victoria University boosts student accommodation"
-date: 2003-03-19
-source-url: https://www.scoop.co.nz/stories/ED0303/S00033/victoria-university-boosts-student-accommodation.htm
+title: Victoria University boosts student accommodation
+date: 2003-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00033/victoria-university-boosts-student-accommodation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/03/19/victoria-university-boosts-student-accommodation/index.html
+layout: layout.njk
 ---
 Victoria University boosts student accommodation
 ================================================

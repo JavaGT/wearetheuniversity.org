@@ -1,9 +1,12 @@
 ---
 slug: ctu-supports-striking-unitec-staff-members
-title: "CTU supports striking Unitec staff members"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/ED0602/S00068/ctu-supports-striking-unitec-staff-members.htm
+title: CTU supports striking Unitec staff members
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00068/ctu-supports-striking-unitec-staff-members.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/02/23/ctu-supports-striking-unitec-staff-members/index.html
+layout: layout.njk
 ---
 CTU supports striking Unitec staff members
 ==========================================

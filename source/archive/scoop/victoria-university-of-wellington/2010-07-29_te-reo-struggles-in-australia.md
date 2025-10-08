@@ -1,9 +1,12 @@
 ---
 slug: te-reo-struggles-in-australia
-title: "Te reo struggles in Australia"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/CU1007/S00414/te-reo-struggles-in-australia.htm
+title: Te reo struggles in Australia
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00414/te-reo-struggles-in-australia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/29/te-reo-struggles-in-australia/index.html
+layout: layout.njk
 ---
 Te reo struggles in Australia
 =============================

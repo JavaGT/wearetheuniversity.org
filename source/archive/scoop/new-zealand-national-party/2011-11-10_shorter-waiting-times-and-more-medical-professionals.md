@@ -1,9 +1,13 @@
 ---
 slug: shorter-waiting-times-and-more-medical-professionals
-title: "Shorter waiting times and more medical professionals"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/PA1111/S00198/shorter-waiting-times-and-more-medical-professionals.htm
+title: Shorter waiting times and more medical professionals
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00198/shorter-waiting-times-and-more-medical-professionals.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/11/10/shorter-waiting-times-and-more-medical-professionals/index.html
+layout: layout.njk
 ---
 Shorter waiting times and more medical professionals
 ====================================================

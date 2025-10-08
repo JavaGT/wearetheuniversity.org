@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-kicks-out-students-for-anti-war-protest
-title: "Vic Uni kicks out students for anti-war protest"
-date: 2009-05-21
-source-url: https://www.scoop.co.nz/stories/ED0905/S00091/vic-uni-kicks-out-students-for-anti-war-protest.htm
+title: Vic Uni kicks out students for anti-war protest
+date: 2009-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00091/vic-uni-kicks-out-students-for-anti-war-protest.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/05/21/vic-uni-kicks-out-students-for-anti-war-protest/index.html
+layout: layout.njk
 ---
 Vic Uni kicks out students for anti-war protest
 ===============================================

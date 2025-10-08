@@ -1,9 +1,12 @@
 ---
 slug: turia-compensation-amendment-bill
-title: "Turia: Compensation Amendment Bill"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/PA0610/S00443/turia-compensation-amendment-bill.htm
+title: 'Turia: Compensation Amendment Bill'
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00443/turia-compensation-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/24/turia-compensation-amendment-bill/index.html
+layout: layout.njk
 ---
 Turia: Compensation Amendment Bill
 ==================================

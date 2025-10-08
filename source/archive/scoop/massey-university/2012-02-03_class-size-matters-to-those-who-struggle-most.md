@@ -1,9 +1,12 @@
 ---
 slug: class-size-matters-to-those-who-struggle-most
-title: "Class size matters to those who struggle most"
-date: 2012-02-03
-source-url: https://www.scoop.co.nz/stories/ED1202/S00025/class-size-matters-to-those-who-struggle-most.htm
+title: Class size matters to those who struggle most
+date: 2012-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00025/class-size-matters-to-those-who-struggle-most.htm
 author: massey-university
+permalink: /archive/2012/02/03/class-size-matters-to-those-who-struggle-most/index.html
+layout: layout.njk
 ---
 Class size matters to those who struggle most
 =============================================

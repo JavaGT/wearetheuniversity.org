@@ -1,9 +1,11 @@
 ---
 slug: act-perkbusters-love-perks
-title: "Act Perkbusters Love Perks"
-date: 2003-04-16
+title: Act Perkbusters Love Perks
+date: 2003-04-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0304/S00343/act-perkbusters-love-perks.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/16/act-perkbusters-love-perks/index.html
+layout: layout.njk
 ---
 Act Perkbusters Love Perks
 ==========================

@@ -1,9 +1,15 @@
 ---
 slug: protecting-nzs-children-from-the-impacts-of-some-of-worlds-highest-screen-time
-title: "Protecting NZ’s Children From The Impacts Of Some Of World’s Highest Screen Time"
-date: 2024-05-21
-source-url: https://www.scoop.co.nz/stories/ED2405/S00075/protecting-nzs-children-from-the-impacts-of-some-of-worlds-highest-screen-time.htm
+title: >-
+  Protecting NZ’s Children From The Impacts Of Some Of World’s Highest Screen
+  Time
+date: 2024-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00075/protecting-nzs-children-from-the-impacts-of-some-of-worlds-highest-screen-time.htm
 author: aut-university
+permalink: >-
+  /archive/2024/05/21/protecting-nzs-children-from-the-impacts-of-some-of-worlds-highest-screen-time/index.html
+layout: layout.njk
 ---
 Protecting NZ’s Children From The Impacts Of Some Of World’s Highest Screen Time
 ================================================================================

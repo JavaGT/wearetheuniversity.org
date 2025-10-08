@@ -1,9 +1,12 @@
 ---
 slug: he-aitua-hone-tuwhare-no-ordinary-icon
-title: "He Aitua - Hone Tuwhare: 'No Ordinary Icon'"
-date: 2008-01-17
-source-url: https://www.scoop.co.nz/stories/PA0801/S00113/he-aitua-hone-tuwhare-no-ordinary-icon.htm
+title: 'He Aitua - Hone Tuwhare: ''No Ordinary Icon'''
+date: 2008-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00113/he-aitua-hone-tuwhare-no-ordinary-icon.htm
 author: te-pati-maori
+permalink: /archive/2008/01/17/he-aitua-hone-tuwhare-no-ordinary-icon/index.html
+layout: layout.njk
 ---
 He Aitua - Hone Tuwhare: 'No Ordinary Icon'
 ===========================================

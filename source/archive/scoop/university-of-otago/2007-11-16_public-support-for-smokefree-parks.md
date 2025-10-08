@@ -1,9 +1,12 @@
 ---
 slug: public-support-for-smokefree-parks
-title: "Public Support For Smokefree Parks"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/GE0711/S00083/public-support-for-smokefree-parks.htm
+title: Public Support For Smokefree Parks
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00083/public-support-for-smokefree-parks.htm
 author: university-of-otago
+permalink: /archive/2007/11/16/public-support-for-smokefree-parks/index.html
+layout: layout.njk
 ---
 Public Support For Smokefree Parks
 ==================================

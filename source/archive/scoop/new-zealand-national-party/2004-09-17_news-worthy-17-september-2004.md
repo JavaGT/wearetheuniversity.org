@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-17-september-2004
-title: "News Worthy - 17 September 2004"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/PA0409/S00365/news-worthy-17-september-2004.htm
+title: News Worthy - 17 September 2004
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00365/news-worthy-17-september-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/17/news-worthy-17-september-2004/index.html
+layout: layout.njk
 ---
 News Worthy - 17 September 2004
 ===============================

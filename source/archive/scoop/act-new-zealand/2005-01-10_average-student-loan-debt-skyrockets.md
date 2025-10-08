@@ -1,9 +1,12 @@
 ---
 slug: average-student-loan-debt-skyrockets
-title: "Average student loan debt skyrockets"
-date: 2005-01-10
-source-url: https://www.scoop.co.nz/stories/PA0501/S00037/average-student-loan-debt-skyrockets.htm
+title: Average student loan debt skyrockets
+date: 2005-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00037/average-student-loan-debt-skyrockets.htm
 author: act-new-zealand
+permalink: /archive/2005/01/10/average-student-loan-debt-skyrockets/index.html
+layout: layout.njk
 ---
 Average student loan debt skyrockets
 ====================================

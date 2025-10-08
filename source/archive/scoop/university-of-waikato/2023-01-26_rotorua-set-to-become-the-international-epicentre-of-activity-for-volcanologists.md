@@ -1,9 +1,16 @@
 ---
-slug: rotorua-set-to-become-the-international-epicentre-of-activity-for-volcanologists
-title: "Rotorua Set To Become The International Epicentre Of Activity For Volcanologists"
-date: 2023-01-26
-source-url: https://www.scoop.co.nz/stories/SC2301/S00023/rotorua-set-to-become-the-international-epicentre-of-activity-for-volcanologists.htm
+slug: >-
+  rotorua-set-to-become-the-international-epicentre-of-activity-for-volcanologists
+title: >-
+  Rotorua Set To Become The International Epicentre Of Activity For
+  Volcanologists
+date: 2023-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2301/S00023/rotorua-set-to-become-the-international-epicentre-of-activity-for-volcanologists.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/01/26/rotorua-set-to-become-the-international-epicentre-of-activity-for-volcanologists/index.html
+layout: layout.njk
 ---
 Rotorua Set To Become The International Epicentre Of Activity For Volcanologists
 ================================================================================

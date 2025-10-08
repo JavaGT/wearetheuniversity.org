@@ -1,9 +1,13 @@
 ---
 slug: government-cover-up-of-victoria-unis-pike-river-robot
-title: "Government Cover-up of Victoria Uni’s Pike River Robot"
-date: 2017-09-17
-source-url: https://www.scoop.co.nz/stories/PA1709/S00203/government-cover-up-of-victoria-unis-pike-river-robot.htm
+title: Government Cover-up of Victoria Uni’s Pike River Robot
+date: 2017-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00203/government-cover-up-of-victoria-unis-pike-river-robot.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/17/government-cover-up-of-victoria-unis-pike-river-robot/index.html
+layout: layout.njk
 ---
 Government Cover-up of Victoria Uni’s Pike River Robot
 ======================================================

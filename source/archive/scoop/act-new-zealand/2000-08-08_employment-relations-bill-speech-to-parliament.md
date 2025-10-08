@@ -1,9 +1,12 @@
 ---
 slug: employment-relations-bill-speech-to-parliament
-title: "Employment Relations Bill  Speech to Parliament"
-date: 2000-08-08
-source-url: https://www.scoop.co.nz/stories/PA0008/S00142/employment-relations-bill-speech-to-parliament.htm
+title: Employment Relations Bill  Speech to Parliament
+date: 2000-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00142/employment-relations-bill-speech-to-parliament.htm
 author: act-new-zealand
+permalink: /archive/2000/08/08/employment-relations-bill-speech-to-parliament/index.html
+layout: layout.njk
 ---
 Employment Relations Bill Speech to Parliament
 ==============================================

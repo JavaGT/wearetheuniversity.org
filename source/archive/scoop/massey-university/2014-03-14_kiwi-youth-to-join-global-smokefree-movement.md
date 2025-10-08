@@ -1,9 +1,12 @@
 ---
 slug: kiwi-youth-to-join-global-smokefree-movement
-title: "Kiwi youth to join global smokefree movement"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/ED1403/S00080/kiwi-youth-to-join-global-smokefree-movement.htm
+title: Kiwi youth to join global smokefree movement
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00080/kiwi-youth-to-join-global-smokefree-movement.htm
 author: massey-university
+permalink: /archive/2014/03/14/kiwi-youth-to-join-global-smokefree-movement/index.html
+layout: layout.njk
 ---
 Kiwi youth to join global smokefree movement
 ============================================

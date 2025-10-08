@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-hillary-scholars-in-under-23-rowing-squad
-title: "Waikato University Hillary scholars in Under 23 Rowing squad"
-date: 2012-03-27
-source-url: https://www.scoop.co.nz/stories/ED1203/S00133/waikato-university-hillary-scholars-in-under-23-rowing-squad.htm
+title: Waikato University Hillary scholars in Under 23 Rowing squad
+date: 2012-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00133/waikato-university-hillary-scholars-in-under-23-rowing-squad.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/27/waikato-university-hillary-scholars-in-under-23-rowing-squad/index.html
+layout: layout.njk
 ---
 Waikato University Hillary scholars in Under 23 Rowing squad
 ============================================================

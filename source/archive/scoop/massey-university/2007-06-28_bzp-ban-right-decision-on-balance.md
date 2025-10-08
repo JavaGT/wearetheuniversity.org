@@ -1,9 +1,12 @@
 ---
 slug: bzp-ban-right-decision-on-balance
-title: "BZP ban right decision on balance"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/GE0706/S00104/bzp-ban-right-decision-on-balance.htm
+title: BZP ban right decision on balance
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00104/bzp-ban-right-decision-on-balance.htm
 author: massey-university
+permalink: /archive/2007/06/28/bzp-ban-right-decision-on-balance/index.html
+layout: layout.njk
 ---
 BZP ban right decision on balance
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: new-understanding-of-sensory-overload-in-autism
-title: "New understanding of sensory overload in autism"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/SC1505/S00016/new-understanding-of-sensory-overload-in-autism.htm
+title: New understanding of sensory overload in autism
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00016/new-understanding-of-sensory-overload-in-autism.htm
 author: auckland-university
+permalink: /archive/2015/05/06/new-understanding-of-sensory-overload-in-autism/index.html
+layout: layout.njk
 ---
 New understanding of sensory overload in autism
 ===============================================

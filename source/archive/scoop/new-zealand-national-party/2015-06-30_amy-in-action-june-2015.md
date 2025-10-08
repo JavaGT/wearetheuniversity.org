@@ -1,9 +1,11 @@
 ---
 slug: amy-in-action-june-2015
-title: "Amy in Action: June 2015"
-date: 2015-06-30
+title: 'Amy in Action: June 2015'
+date: 2015-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1506/S00542/amy-in-action-june-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/06/30/amy-in-action-june-2015/index.html
+layout: layout.njk
 ---
 Amy in Action: June 2015
 ========================

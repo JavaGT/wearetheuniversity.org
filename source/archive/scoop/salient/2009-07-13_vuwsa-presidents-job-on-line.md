@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-presidents-job-on-line
-title: "VUWSA President’s Job on Line"
-date: 2009-07-13
+title: VUWSA President’s Job on Line
+date: 2009-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00052/vuwsa-presidents-job-on-line.htm
 author: salient
+permalink: /archive/2009/07/13/vuwsa-presidents-job-on-line/index.html
+layout: layout.njk
 ---
 VUWSA President’s Job on Line
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: teaching-excellence-at-lincoln-uni-acknowledged
-title: "Teaching excellence at Lincoln Uni acknowledged"
-date: 2007-12-21
-source-url: https://www.scoop.co.nz/stories/ED0712/S00088/teaching-excellence-at-lincoln-uni-acknowledged.htm
+title: Teaching excellence at Lincoln Uni acknowledged
+date: 2007-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00088/teaching-excellence-at-lincoln-uni-acknowledged.htm
 author: lincoln-university
+permalink: /archive/2007/12/21/teaching-excellence-at-lincoln-uni-acknowledged/index.html
+layout: layout.njk
 ---
 Teaching excellence at Lincoln Uni acknowledged
 ===============================================

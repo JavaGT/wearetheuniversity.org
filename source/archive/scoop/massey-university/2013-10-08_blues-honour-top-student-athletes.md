@@ -1,9 +1,12 @@
 ---
 slug: blues-honour-top-student-athletes
-title: "Blues honour top student-athletes"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/ED1310/S00064/blues-honour-top-student-athletes.htm
+title: Blues honour top student-athletes
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00064/blues-honour-top-student-athletes.htm
 author: massey-university
+permalink: /archive/2013/10/08/blues-honour-top-student-athletes/index.html
+layout: layout.njk
 ---
 Blues honour top student-athletes
 =================================

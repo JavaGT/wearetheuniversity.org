@@ -1,9 +1,16 @@
 ---
-slug: waikato-university-research-identifies-crucial-role-of-primary-care-in-improving-outcomes-for-cancer-patients
-title: "Waikato University Research Identifies Crucial Role Of Primary Care In Improving Outcomes For Cancer Patients"
-date: 2021-03-05
-source-url: https://www.scoop.co.nz/stories/GE2103/S00030/waikato-university-research-identifies-crucial-role-of-primary-care-in-improving-outcomes-for-cancer-patients.htm
+slug: >-
+  waikato-university-research-identifies-crucial-role-of-primary-care-in-improving-outcomes-for-cancer-patients
+title: >-
+  Waikato University Research Identifies Crucial Role Of Primary Care In
+  Improving Outcomes For Cancer Patients
+date: 2021-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2103/S00030/waikato-university-research-identifies-crucial-role-of-primary-care-in-improving-outcomes-for-cancer-patients.htm
 author: waikato-university
+permalink: >-
+  /archive/2021/03/05/waikato-university-research-identifies-crucial-role-of-primary-care-in-improving-outcomes-for-cancer-patients/index.html
+layout: layout.njk
 ---
 Waikato University Research Identifies Crucial Role Of Primary Care In Improving Outcomes For Cancer Patients
 =============================================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: 175-years-on-treaty-of-waitangi-now-and-in-future
-title: "175 years on – Treaty of Waitangi now and in future?"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/CU1506/S00105/175-years-on-treaty-of-waitangi-now-and-in-future.htm
+title: 175 years on – Treaty of Waitangi now and in future?
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1506/S00105/175-years-on-treaty-of-waitangi-now-and-in-future.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/05/175-years-on-treaty-of-waitangi-now-and-in-future/index.html
+layout: layout.njk
 ---
 175 years on – Treaty of Waitangi now and in future?
 ====================================================

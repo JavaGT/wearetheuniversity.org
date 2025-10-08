@@ -1,9 +1,11 @@
 ---
 slug: a-racial-divide
-title: "A Racial Divide?"
-date: 2001-07-13
+title: A Racial Divide?
+date: 2001-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0107/S00236/a-racial-divide.htm
 author: act-new-zealand
+permalink: /archive/2001/07/13/a-racial-divide/index.html
+layout: layout.njk
 ---
 A Racial Divide?
 ================

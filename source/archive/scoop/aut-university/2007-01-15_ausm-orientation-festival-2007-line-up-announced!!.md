@@ -1,9 +1,13 @@
 ---
 slug: ausm-orientation-festival-2007-line-up-announced!!
-title: "AuSM Orientation Festival 2007 line up announced!!"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/CU0701/S00063/ausm-orientation-festival-2007-line-up-announced.htm
+title: AuSM Orientation Festival 2007 line up announced!!
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00063/ausm-orientation-festival-2007-line-up-announced.htm
 author: aut-university
+permalink: >-
+  /archive/2007/01/15/ausm-orientation-festival-2007-line-up-announced/index.html
+layout: layout.njk
 ---
 AuSM Orientation Festival 2007 line up announced!!
 ==================================================

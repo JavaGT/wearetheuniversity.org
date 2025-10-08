@@ -1,9 +1,13 @@
 ---
 slug: cases-of-foreign-student-fraud-just-tip-of-iceberg
-title: "Cases of Foreign Student Fraud Just Tip of Iceberg"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/PA1708/S00168/cases-of-foreign-student-fraud-just-tip-of-iceberg.htm
+title: Cases of Foreign Student Fraud Just Tip of Iceberg
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00168/cases-of-foreign-student-fraud-just-tip-of-iceberg.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/09/cases-of-foreign-student-fraud-just-tip-of-iceberg/index.html
+layout: layout.njk
 ---
 Cases of Foreign Student Fraud Just Tip of Iceberg
 ==================================================

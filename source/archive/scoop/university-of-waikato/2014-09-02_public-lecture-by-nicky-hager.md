@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-by-nicky-hager
-title: "Public Lecture by Nicky Hager"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/ED1409/S00010/public-lecture-by-nicky-hager.htm
+title: Public Lecture by Nicky Hager
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00010/public-lecture-by-nicky-hager.htm
 author: university-of-waikato
+permalink: /archive/2014/09/02/public-lecture-by-nicky-hager/index.html
+layout: layout.njk
 ---
 Public Lecture by Nicky Hager
 =============================

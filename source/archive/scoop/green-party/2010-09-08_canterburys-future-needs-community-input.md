@@ -1,9 +1,12 @@
 ---
 slug: canterburys-future-needs-community-input
-title: "Canterbury’s future needs community input"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/PA1009/S00117/canterburys-future-needs-community-input.htm
+title: Canterbury’s future needs community input
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00117/canterburys-future-needs-community-input.htm
 author: green-party
+permalink: /archive/2010/09/08/canterburys-future-needs-community-input/index.html
+layout: layout.njk
 ---
 Canterbury’s future needs community input
 =========================================

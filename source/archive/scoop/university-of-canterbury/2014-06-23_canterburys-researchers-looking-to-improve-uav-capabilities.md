@@ -1,9 +1,13 @@
 ---
 slug: canterburys-researchers-looking-to-improve-uav-capabilities
-title: "Canterbury’s researchers looking to improve UAV capabilities"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/SC1406/S00057/canterburys-researchers-looking-to-improve-uav-capabilities.htm
+title: Canterbury’s researchers looking to improve UAV capabilities
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00057/canterburys-researchers-looking-to-improve-uav-capabilities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/23/canterburys-researchers-looking-to-improve-uav-capabilities/index.html
+layout: layout.njk
 ---
 Canterbury’s researchers looking to improve UAV capabilities
 ============================================================

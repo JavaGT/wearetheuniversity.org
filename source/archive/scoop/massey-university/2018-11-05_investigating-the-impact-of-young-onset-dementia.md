@@ -1,9 +1,13 @@
 ---
 slug: investigating-the-impact-of-young-onset-dementia
-title: "Investigating the impact of young onset dementia"
-date: 2018-11-05
-source-url: https://www.scoop.co.nz/stories/GE1811/S00013/investigating-the-impact-of-young-onset-dementia.htm
+title: Investigating the impact of young onset dementia
+date: 2018-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00013/investigating-the-impact-of-young-onset-dementia.htm
 author: massey-university
+permalink: >-
+  /archive/2018/11/05/investigating-the-impact-of-young-onset-dementia/index.html
+layout: layout.njk
 ---
 Investigating the impact of young onset dementia
 ================================================

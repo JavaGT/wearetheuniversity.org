@@ -1,9 +1,12 @@
 ---
 slug: aut-university-support-for-displaced-students
-title: "AUT University support for displaced students"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/AK1103/S00179/aut-university-support-for-displaced-students.htm
+title: AUT University support for displaced students
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00179/aut-university-support-for-displaced-students.htm
 author: aut-university
+permalink: /archive/2011/03/03/aut-university-support-for-displaced-students/index.html
+layout: layout.njk
 ---
 AUT University support for displaced students
 =============================================

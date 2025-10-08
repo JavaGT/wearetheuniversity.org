@@ -1,9 +1,12 @@
 ---
 slug: economic-development-under-the-spotlight
-title: "Economic Development Under the Spotlight"
-date: 2003-12-22
-source-url: https://www.scoop.co.nz/stories/BU0312/S00277/economic-development-under-the-spotlight.htm
+title: Economic Development Under the Spotlight
+date: 2003-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0312/S00277/economic-development-under-the-spotlight.htm
 author: aut-university
+permalink: /archive/2003/12/22/economic-development-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Economic Development Under the Spotlight
 ========================================

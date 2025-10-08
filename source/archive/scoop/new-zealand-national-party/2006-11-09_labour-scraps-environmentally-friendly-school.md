@@ -1,9 +1,12 @@
 ---
 slug: labour-scraps-environmentally-friendly-school
-title: "Labour scraps environmentally friendly school"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/PA0611/S00160/labour-scraps-environmentally-friendly-school.htm
+title: Labour scraps environmentally friendly school
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00160/labour-scraps-environmentally-friendly-school.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/09/labour-scraps-environmentally-friendly-school/index.html
+layout: layout.njk
 ---
 Labour scraps environmentally friendly school
 =============================================

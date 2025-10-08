@@ -1,9 +1,13 @@
 ---
 slug: kiwi-parents-educational-views-ignored-by-the-government
-title: "Kiwi Parents Educational Views Ignored By The Government"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/ED1210/S00108/kiwi-parents-educational-views-ignored-by-the-government.htm
+title: Kiwi Parents Educational Views Ignored By The Government
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00108/kiwi-parents-educational-views-ignored-by-the-government.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/10/18/kiwi-parents-educational-views-ignored-by-the-government/index.html
+layout: layout.njk
 ---
 Kiwi Parents Educational Views Ignored By The Government
 ========================================================

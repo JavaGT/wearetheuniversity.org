@@ -1,9 +1,13 @@
 ---
 slug: sponges-potential-winners-in-the-face-of-climate-change
-title: "Sponges potential ‘winners’ in the face of climate change"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/ED1609/S00154/sponges-potential-winners-in-the-face-of-climate-change.htm
+title: Sponges potential ‘winners’ in the face of climate change
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00154/sponges-potential-winners-in-the-face-of-climate-change.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/29/sponges-potential-winners-in-the-face-of-climate-change/index.html
+layout: layout.njk
 ---
 Sponges potential ‘winners’ in the face of climate change
 =========================================================

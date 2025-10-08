@@ -1,9 +1,11 @@
 ---
 slug: food-a-key-to-learning
-title: "Food A Key To Learning"
-date: 2004-05-28
+title: Food A Key To Learning
+date: 2004-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00664/food-a-key-to-learning.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/28/food-a-key-to-learning/index.html
+layout: layout.njk
 ---
 Food A Key To Learning
 ======================

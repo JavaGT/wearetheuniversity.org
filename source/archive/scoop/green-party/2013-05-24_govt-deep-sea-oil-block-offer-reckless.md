@@ -1,9 +1,12 @@
 ---
 slug: govt-deep-sea-oil-block-offer-reckless
-title: "Govt deep sea oil block offer reckless"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/PA1305/S00493/govt-deep-sea-oil-block-offer-reckless.htm
+title: Govt deep sea oil block offer reckless
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00493/govt-deep-sea-oil-block-offer-reckless.htm
 author: green-party
+permalink: /archive/2013/05/24/govt-deep-sea-oil-block-offer-reckless/index.html
+layout: layout.njk
 ---
 Govt deep sea oil block offer reckless
 ======================================

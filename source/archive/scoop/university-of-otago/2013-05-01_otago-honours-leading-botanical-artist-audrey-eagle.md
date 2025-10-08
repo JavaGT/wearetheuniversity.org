@@ -1,9 +1,13 @@
 ---
 slug: otago-honours-leading-botanical-artist-audrey-eagle
-title: "Otago honours leading botanical artist Audrey Eagle"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/ED1305/S00007/otago-honours-leading-botanical-artist-audrey-eagle.htm
+title: Otago honours leading botanical artist Audrey Eagle
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00007/otago-honours-leading-botanical-artist-audrey-eagle.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/01/otago-honours-leading-botanical-artist-audrey-eagle/index.html
+layout: layout.njk
 ---
 Otago honours leading botanical artist Audrey Eagle
 ===================================================

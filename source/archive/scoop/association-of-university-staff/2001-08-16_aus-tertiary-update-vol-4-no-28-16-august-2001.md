@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-28-16-august-2001
-title: "AUS Tertiary Update Vol.4 No.28, 16 August 2001"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/ED0108/S00046/aus-tertiary-update-vol4-no28-16-august-2001.htm
+title: AUS Tertiary Update Vol.4 No.28, 16 August 2001
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00046/aus-tertiary-update-vol4-no28-16-august-2001.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/16/aus-tertiary-update-vol-4-no-28-16-august-2001/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.4 No.28, 16 August 2001
 ===============================================

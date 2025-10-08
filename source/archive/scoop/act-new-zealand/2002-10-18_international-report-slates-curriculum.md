@@ -1,9 +1,12 @@
 ---
 slug: international-report-slates-curriculum
-title: "International Report Slates Curriculum"
-date: 2002-10-18
-source-url: https://www.scoop.co.nz/stories/PA0210/S00409/international-report-slates-curriculum.htm
+title: International Report Slates Curriculum
+date: 2002-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00409/international-report-slates-curriculum.htm
 author: act-new-zealand
+permalink: /archive/2002/10/18/international-report-slates-curriculum/index.html
+layout: layout.njk
 ---
 International Report Slates Curriculum
 ======================================

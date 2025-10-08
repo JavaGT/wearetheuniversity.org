@@ -1,9 +1,12 @@
 ---
 slug: improving-spread-of-skills-investment-across-nz
-title: "Improving spread of skills, investment across NZ"
-date: 2015-07-26
-source-url: https://www.scoop.co.nz/stories/PA1507/S00447/improving-spread-of-skills-investment-across-nz.htm
+title: Improving spread of skills, investment across NZ
+date: 2015-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00447/improving-spread-of-skills-investment-across-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/26/improving-spread-of-skills-investment-across-nz/index.html
+layout: layout.njk
 ---
 Improving spread of skills, investment across NZ
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-announce-40th-anniversary-scholarships
-title: "University announce 40th anniversary scholarships"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/ED0309/S00017/university-announce-40th-anniversary-scholarships.htm
+title: University announce 40th anniversary scholarships
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00017/university-announce-40th-anniversary-scholarships.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/09/08/university-announce-40th-anniversary-scholarships/index.html
+layout: layout.njk
 ---
 University announce 40th anniversary scholarships
 =================================================

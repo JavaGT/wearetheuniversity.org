@@ -1,9 +1,12 @@
 ---
 slug: statement-from-rangitata-mp-andrew-falloon
-title: "Statement From Rangitata MP Andrew Falloon"
-date: 2020-07-20
-source-url: https://www.scoop.co.nz/stories/PA2007/S00180/statement-from-rangitata-mp-andrew-falloon.htm
+title: Statement From Rangitata MP Andrew Falloon
+date: 2020-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00180/statement-from-rangitata-mp-andrew-falloon.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/20/statement-from-rangitata-mp-andrew-falloon/index.html
+layout: layout.njk
 ---
 Statement From Rangitata MP Andrew Falloon
 ==========================================

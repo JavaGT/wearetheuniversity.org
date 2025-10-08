@@ -1,9 +1,16 @@
 ---
-slug: ten-grim-climate-scenarios-when-global-temperatures-rise-above-1-5-degrees-celsius
-title: "Ten Grim Climate Scenarios When Global Temperatures Rise Above 1.5 Degrees Celsius"
-date: 2024-08-23
-source-url: https://www.scoop.co.nz/stories/WO2408/S00197/ten-grim-climate-scenarios-when-global-temperatures-rise-above-15-degrees-celsius.htm
+slug: >-
+  ten-grim-climate-scenarios-when-global-temperatures-rise-above-1-5-degrees-celsius
+title: >-
+  Ten Grim Climate Scenarios When Global Temperatures Rise Above 1.5 Degrees
+  Celsius
+date: 2024-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00197/ten-grim-climate-scenarios-when-global-temperatures-rise-above-15-degrees-celsius.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/08/23/ten-grim-climate-scenarios-when-global-temperatures-rise-above-1-5-degrees-celsius/index.html
+layout: layout.njk
 ---
 Ten Grim Climate Scenarios When Global Temperatures Rise Above 1.5 Degrees Celsius
 ==================================================================================

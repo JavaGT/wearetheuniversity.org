@@ -1,9 +1,12 @@
 ---
 slug: disability-funding-increase-is-just-another-cut
-title: "Disability funding increase is just another cut"
-date: 2010-03-02
-source-url: https://www.scoop.co.nz/stories/PA1003/S00029/disability-funding-increase-is-just-another-cut.htm
+title: Disability funding increase is just another cut
+date: 2010-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00029/disability-funding-increase-is-just-another-cut.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/02/disability-funding-increase-is-just-another-cut/index.html
+layout: layout.njk
 ---
 Disability funding increase is just another cut
 ===============================================

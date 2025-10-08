@@ -1,9 +1,12 @@
 ---
 slug: government-failed-to-listen-on-meal-breaks-bill
-title: "Government failed to listen on meal breaks bill"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/PA1009/S00366/government-failed-to-listen-on-meal-breaks-bill.htm
+title: Government failed to listen on meal breaks bill
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00366/government-failed-to-listen-on-meal-breaks-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/24/government-failed-to-listen-on-meal-breaks-bill/index.html
+layout: layout.njk
 ---
 Government failed to listen on meal breaks bill
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: ban-smoking-in-public-places-uc-researcher-says
-title: "Ban Smoking In Public Places, UC Researcher Says"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/GE1305/S00126/ban-smoking-in-public-places-uc-researcher-says.htm
+title: Ban Smoking In Public Places, UC Researcher Says
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00126/ban-smoking-in-public-places-uc-researcher-says.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/22/ban-smoking-in-public-places-uc-researcher-says/index.html
+layout: layout.njk
 ---
 Ban Smoking In Public Places, UC Researcher Says
 ================================================

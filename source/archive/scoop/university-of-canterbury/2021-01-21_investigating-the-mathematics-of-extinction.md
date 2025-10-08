@@ -1,9 +1,12 @@
 ---
 slug: investigating-the-mathematics-of-extinction
-title: "Investigating The Mathematics Of Extinction"
-date: 2021-01-21
-source-url: https://www.scoop.co.nz/stories/SC2101/S00020/investigating-the-mathematics-of-extinction.htm
+title: Investigating The Mathematics Of Extinction
+date: 2021-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2101/S00020/investigating-the-mathematics-of-extinction.htm
 author: university-of-canterbury
+permalink: /archive/2021/01/21/investigating-the-mathematics-of-extinction/index.html
+layout: layout.njk
 ---
 Investigating The Mathematics Of Extinction
 ===========================================

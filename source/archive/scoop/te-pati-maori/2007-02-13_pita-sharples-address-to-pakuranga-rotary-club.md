@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-address-to-pakuranga-rotary-club
-title: "Pita Sharples Address to Pakuranga Rotary Club"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/PA0702/S00187/pita-sharples-address-to-pakuranga-rotary-club.htm
+title: Pita Sharples Address to Pakuranga Rotary Club
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00187/pita-sharples-address-to-pakuranga-rotary-club.htm
 author: te-pati-maori
+permalink: /archive/2007/02/13/pita-sharples-address-to-pakuranga-rotary-club/index.html
+layout: layout.njk
 ---
 Pita Sharples Address to Pakuranga Rotary Club
 ==============================================

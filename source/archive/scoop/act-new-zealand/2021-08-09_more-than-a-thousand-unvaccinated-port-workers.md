@@ -1,9 +1,12 @@
 ---
 slug: more-than-a-thousand-unvaccinated-port-workers
-title: "More Than A Thousand Unvaccinated Port Workers"
-date: 2021-08-09
-source-url: https://www.scoop.co.nz/stories/PA2108/S00086/more-than-a-thousand-unvaccinated-port-workers.htm
+title: More Than A Thousand Unvaccinated Port Workers
+date: 2021-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00086/more-than-a-thousand-unvaccinated-port-workers.htm
 author: act-new-zealand
+permalink: /archive/2021/08/09/more-than-a-thousand-unvaccinated-port-workers/index.html
+layout: layout.njk
 ---
 More Than A Thousand Unvaccinated Port Workers
 ==============================================

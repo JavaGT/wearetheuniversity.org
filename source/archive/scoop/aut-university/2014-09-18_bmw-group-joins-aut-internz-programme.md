@@ -1,9 +1,12 @@
 ---
 slug: bmw-group-joins-aut-internz-programme
-title: "BMW Group joins AUT InterNZ Programme"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/ED1409/S00110/bmw-group-joins-aut-internz-programme.htm
+title: BMW Group joins AUT InterNZ Programme
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00110/bmw-group-joins-aut-internz-programme.htm
 author: aut-university
+permalink: /archive/2014/09/18/bmw-group-joins-aut-internz-programme/index.html
+layout: layout.njk
 ---
 BMW Group joins AUT InterNZ Programme
 =====================================

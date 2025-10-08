@@ -1,9 +1,13 @@
 ---
 slug: romantic-voyagers-voyage-romantics-at-literature-conference
-title: "Romantic voyagers voyage Romantics at literature conference"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/ED1209/S00064/romantic-voyagers-voyage-romantics-at-literature-conference.htm
+title: Romantic voyagers voyage Romantics at literature conference
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00064/romantic-voyagers-voyage-romantics-at-literature-conference.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/09/10/romantic-voyagers-voyage-romantics-at-literature-conference/index.html
+layout: layout.njk
 ---
 Romantic voyagers voyage Romantics at literature conference
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-mourns-loss-of-sir-geoffrey-henry
-title: "Labour mourns loss of Sir Geoffrey Henry"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00184/labour-mourns-loss-of-sir-geoffrey-henry.htm
+title: Labour mourns loss of Sir Geoffrey Henry
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00184/labour-mourns-loss-of-sir-geoffrey-henry.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/10/labour-mourns-loss-of-sir-geoffrey-henry/index.html
+layout: layout.njk
 ---
 Labour mourns loss of Sir Geoffrey Henry
 ========================================

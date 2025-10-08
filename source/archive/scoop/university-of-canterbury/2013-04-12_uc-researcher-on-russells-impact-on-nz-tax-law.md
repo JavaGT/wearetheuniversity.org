@@ -1,9 +1,12 @@
 ---
 slug: uc-researcher-on-russells-impact-on-nz-tax-law
-title: "UC Researcher on Russell’s Impact on NZ Tax Law"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00074/uc-researcher-on-russells-impact-on-nz-tax-law.htm
+title: UC Researcher on Russell’s Impact on NZ Tax Law
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00074/uc-researcher-on-russells-impact-on-nz-tax-law.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/12/uc-researcher-on-russells-impact-on-nz-tax-law/index.html
+layout: layout.njk
 ---
 UC Researcher on Russell’s Impact on NZ Tax Law
 ===============================================

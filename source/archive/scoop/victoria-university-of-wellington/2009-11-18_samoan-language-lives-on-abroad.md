@@ -1,9 +1,12 @@
 ---
 slug: samoan-language-lives-on-abroad
-title: "Samoan language lives on abroad"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/CU0911/S00300/samoan-language-lives-on-abroad.htm
+title: Samoan language lives on abroad
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0911/S00300/samoan-language-lives-on-abroad.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/18/samoan-language-lives-on-abroad/index.html
+layout: layout.njk
 ---
 Samoan language lives on abroad
 ===============================

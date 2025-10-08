@@ -1,9 +1,12 @@
 ---
 slug: flavell-poroporoaki-sir-howard-morrison
-title: "Flavell - Poroporoaki  : Sir Howard Morrison"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/PA0909/S00359/flavell-poroporoaki-sir-howard-morrison.htm
+title: 'Flavell - Poroporoaki  : Sir Howard Morrison'
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00359/flavell-poroporoaki-sir-howard-morrison.htm
 author: te-pati-maori
+permalink: /archive/2009/09/24/flavell-poroporoaki-sir-howard-morrison/index.html
+layout: layout.njk
 ---
 Flavell - Poroporoaki : Sir Howard Morrison
 ===========================================

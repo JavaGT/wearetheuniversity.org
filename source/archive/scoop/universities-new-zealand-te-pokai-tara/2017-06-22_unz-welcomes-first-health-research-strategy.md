@@ -1,9 +1,12 @@
 ---
 slug: unz-welcomes-first-health-research-strategy
-title: "UNZ welcomes first Health Research Strategy"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/GE1706/S00087/unz-welcomes-first-health-research-strategy.htm
+title: UNZ welcomes first Health Research Strategy
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00087/unz-welcomes-first-health-research-strategy.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/06/22/unz-welcomes-first-health-research-strategy/index.html
+layout: layout.njk
 ---
 UNZ welcomes first Health Research Strategy
 ===========================================

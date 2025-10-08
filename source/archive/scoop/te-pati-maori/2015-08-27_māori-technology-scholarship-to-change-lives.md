@@ -1,9 +1,12 @@
 ---
 slug: māori-technology-scholarship-to-change-lives
-title: "Māori Technology Scholarship to change lives"
-date: 2015-08-27
-source-url: https://www.scoop.co.nz/stories/PA1508/S00469/maori-technology-scholarship-to-change-lives.htm
+title: Māori Technology Scholarship to change lives
+date: 2015-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00469/maori-technology-scholarship-to-change-lives.htm
 author: te-pati-maori
+permalink: /archive/2015/08/27/m/index.html
+layout: layout.njk
 ---
 Māori Technology Scholarship to change lives
 ============================================

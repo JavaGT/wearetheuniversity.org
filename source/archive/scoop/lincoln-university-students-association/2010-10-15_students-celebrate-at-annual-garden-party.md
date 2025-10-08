@@ -1,9 +1,12 @@
 ---
 slug: students-celebrate-at-annual-garden-party
-title: "Students Celebrate at Annual Garden Party"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/CU1010/S00231/students-celebrate-at-annual-garden-party.htm
+title: Students Celebrate at Annual Garden Party
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00231/students-celebrate-at-annual-garden-party.htm
 author: lincoln-university-students-association
+permalink: /archive/2010/10/15/students-celebrate-at-annual-garden-party/index.html
+layout: layout.njk
 ---
 Students Celebrate at Annual Garden Party
 =========================================

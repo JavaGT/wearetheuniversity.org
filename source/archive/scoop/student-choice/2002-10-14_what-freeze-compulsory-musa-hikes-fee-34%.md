@@ -1,9 +1,12 @@
 ---
 slug: what-freeze-compulsory-musa-hikes-fee-34%
-title: "What Freeze?  Compulsory Musa Hikes Fee 34%"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/ED0210/S00039/what-freeze-compulsory-musa-hikes-fee-34.htm
+title: What Freeze?  Compulsory Musa Hikes Fee 34%
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00039/what-freeze-compulsory-musa-hikes-fee-34.htm
 author: student-choice
+permalink: /archive/2002/10/14/what-freeze-compulsory-musa-hikes-fee-34/index.html
+layout: layout.njk
 ---
 What Freeze? Compulsory Musa Hikes Fee 34%
 ==========================================

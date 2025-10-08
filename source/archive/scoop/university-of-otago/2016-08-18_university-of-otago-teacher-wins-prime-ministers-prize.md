@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-teacher-wins-prime-ministers-prize
-title: "University of Otago teacher wins Prime Minister’s prize"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/ED1608/S00046/university-of-otago-teacher-wins-prime-ministers-prize.htm
+title: University of Otago teacher wins Prime Minister’s prize
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00046/university-of-otago-teacher-wins-prime-ministers-prize.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/18/university-of-otago-teacher-wins-prime-ministers-prize/index.html
+layout: layout.njk
 ---
 University of Otago teacher wins Prime Minister’s prize
 =======================================================

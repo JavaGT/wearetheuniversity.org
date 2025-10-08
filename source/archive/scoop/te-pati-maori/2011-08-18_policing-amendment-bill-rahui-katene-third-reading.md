@@ -1,9 +1,13 @@
 ---
 slug: policing-amendment-bill-rahui-katene-third-reading
-title: "Policing Amendment Bill - Rahui Katene - Third Reading"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00396/policing-amendment-bill-rahui-katene-third-reading.htm
+title: Policing Amendment Bill - Rahui Katene - Third Reading
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00396/policing-amendment-bill-rahui-katene-third-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/18/policing-amendment-bill-rahui-katene-third-reading/index.html
+layout: layout.njk
 ---
 Policing Amendment Bill - Rahui Katene - Third Reading
 ======================================================

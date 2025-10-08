@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-quash-rumours-on-student-loan-change
-title: "Govt needs to quash rumours on student loan change"
-date: 2009-05-08
-source-url: https://www.scoop.co.nz/stories/ED0905/S00041/govt-needs-to-quash-rumours-on-student-loan-change.htm
+title: Govt needs to quash rumours on student loan change
+date: 2009-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00041/govt-needs-to-quash-rumours-on-student-loan-change.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/05/08/govt-needs-to-quash-rumours-on-student-loan-change/index.html
+layout: layout.njk
 ---
 Govt needs to quash rumours on student loan change
 ==================================================

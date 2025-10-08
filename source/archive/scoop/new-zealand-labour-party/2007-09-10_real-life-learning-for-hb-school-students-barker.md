@@ -1,9 +1,13 @@
 ---
 slug: real-life-learning-for-hb-school-students-barker
-title: "Real-life learning for HB school students - Barker"
-date: 2007-09-10
-source-url: https://www.scoop.co.nz/stories/PA0709/S00150/real-life-learning-for-hb-school-students-barker.htm
+title: Real-life learning for HB school students - Barker
+date: 2007-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00150/real-life-learning-for-hb-school-students-barker.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2007/09/10/real-life-learning-for-hb-school-students-barker/index.html
+layout: layout.njk
 ---
 Real-life learning for HB school students - Barker
 ==================================================

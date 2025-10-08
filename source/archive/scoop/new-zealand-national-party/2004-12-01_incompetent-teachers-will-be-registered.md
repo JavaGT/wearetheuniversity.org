@@ -1,9 +1,12 @@
 ---
 slug: incompetent-teachers-will-be-registered
-title: "Incompetent teachers will be registered"
-date: 2004-12-01
-source-url: https://www.scoop.co.nz/stories/PA0412/S00027/incompetent-teachers-will-be-registered.htm
+title: Incompetent teachers will be registered
+date: 2004-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00027/incompetent-teachers-will-be-registered.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/01/incompetent-teachers-will-be-registered/index.html
+layout: layout.njk
 ---
 Incompetent teachers will be registered
 =======================================

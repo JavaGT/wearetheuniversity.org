@@ -1,9 +1,12 @@
 ---
 slug: prestigious-backing-for-marine-research
-title: "Prestigious Backing for Marine Research"
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/SC0502/S00027/prestigious-backing-for-marine-research.htm
+title: Prestigious Backing for Marine Research
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00027/prestigious-backing-for-marine-research.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/08/prestigious-backing-for-marine-research/index.html
+layout: layout.njk
 ---
 Prestigious Backing for Marine Research
 =======================================

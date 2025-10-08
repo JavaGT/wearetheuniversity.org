@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-13-26-may-2000
-title: "AUS Tertiary Update Vol. 3 No. 13, 26 May 2000"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/ED0005/S00041/aus-tertiary-update-vol-3-no-13-26-may-2000.htm
+title: AUS Tertiary Update Vol. 3 No. 13, 26 May 2000
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00041/aus-tertiary-update-vol-3-no-13-26-may-2000.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/26/aus-tertiary-update-vol-3-no-13-26-may-2000/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 3 No. 13, 26 May 2000
 ==============================================

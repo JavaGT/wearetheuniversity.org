@@ -1,9 +1,12 @@
 ---
 slug: governments-sad-birthday-gift-for-plunketline
-title: "Government's Sad Birthday Gift For Plunketline"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/PA0604/S00208/governments-sad-birthday-gift-for-plunketline.htm
+title: Government's Sad Birthday Gift For Plunketline
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00208/governments-sad-birthday-gift-for-plunketline.htm
 author: act-new-zealand
+permalink: /archive/2006/04/11/governments-sad-birthday-gift-for-plunketline/index.html
+layout: layout.njk
 ---
 Government's Sad Birthday Gift For Plunketline
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-must-mediate-eqc-lawsuit
-title: "Minister must mediate EQC lawsuit"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/PA1509/S00170/minister-must-mediate-eqc-lawsuit.htm
+title: Minister must mediate EQC lawsuit
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00170/minister-must-mediate-eqc-lawsuit.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/09/minister-must-mediate-eqc-lawsuit/index.html
+layout: layout.njk
 ---
 Minister must mediate EQC lawsuit
 =================================

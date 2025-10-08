@@ -1,8 +1,11 @@
 ---
 slug: shining-a-light-on-new-zealands-medical-history
-title: "Shining a light on New Zealand's medical history"
-date: 2017-05-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/sining-a-light-on-new-zealand-s-medical-history.html
+title: Shining a light on New Zealand's medical history
+date: 2017-05-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/sining-a-light-on-new-zealand-s-medical-history.html
+permalink: /archive/2017/05/22/shining-a-light-on-new-zealands-medical-history/index.html
+layout: layout.njk
 ---
 Shining a light on New Zealand's medical history
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: export-year-gives-boost-to-bop-exporters
-title: "Export Year Gives Boost to BOP Exporters"
-date: 2007-06-08
-source-url: https://www.scoop.co.nz/stories/PA0706/S00151/export-year-gives-boost-to-bop-exporters.htm
+title: Export Year Gives Boost to BOP Exporters
+date: 2007-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00151/export-year-gives-boost-to-bop-exporters.htm
 author: new-zealand-first-party
+permalink: /archive/2007/06/08/export-year-gives-boost-to-bop-exporters/index.html
+layout: layout.njk
 ---
 Export Year Gives Boost to BOP Exporters
 ========================================

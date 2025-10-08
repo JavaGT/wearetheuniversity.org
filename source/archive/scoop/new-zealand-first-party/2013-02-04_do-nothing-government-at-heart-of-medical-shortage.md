@@ -1,9 +1,13 @@
 ---
 slug: do-nothing-government-at-heart-of-medical-shortage
-title: "‘Do Nothing’ Government at Heart of Medical Shortage"
-date: 2013-02-04
-source-url: https://www.scoop.co.nz/stories/PA1302/S00031/do-nothing-government-at-heart-of-medical-shortage.htm
+title: ‘Do Nothing’ Government at Heart of Medical Shortage
+date: 2013-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00031/do-nothing-government-at-heart-of-medical-shortage.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/02/04/do-nothing-government-at-heart-of-medical-shortage/index.html
+layout: layout.njk
 ---
 ‘Do Nothing’ Government at Heart of Medical Shortage
 ====================================================

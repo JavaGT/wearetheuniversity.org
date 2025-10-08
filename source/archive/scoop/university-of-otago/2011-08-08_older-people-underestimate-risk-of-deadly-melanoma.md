@@ -1,9 +1,13 @@
 ---
 slug: older-people-underestimate-risk-of-deadly-melanoma
-title: "Older people underestimate risk of deadly melanoma"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/GE1108/S00036/older-people-underestimate-risk-of-deadly-melanoma.htm
+title: Older people underestimate risk of deadly melanoma
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1108/S00036/older-people-underestimate-risk-of-deadly-melanoma.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/08/older-people-underestimate-risk-of-deadly-melanoma/index.html
+layout: layout.njk
 ---
 Older people underestimate risk of deadly melanoma
 ==================================================

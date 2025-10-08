@@ -1,9 +1,12 @@
 ---
 slug: waikato-economist-named-economist-of-the-year
-title: "Waikato economist named Economist of the Year"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/BU0809/S00067/waikato-economist-named-economist-of-the-year.htm
+title: Waikato economist named Economist of the Year
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0809/S00067/waikato-economist-named-economist-of-the-year.htm
 author: university-of-waikato
+permalink: /archive/2008/09/03/waikato-economist-named-economist-of-the-year/index.html
+layout: layout.njk
 ---
 Waikato economist named Economist of the Year
 =============================================

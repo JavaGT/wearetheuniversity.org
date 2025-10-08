@@ -1,9 +1,12 @@
 ---
 slug: prime-ministers-outright-falsehood-on-democracy
-title: "Prime Minister’s Outright Falsehood On Democracy"
-date: 2023-04-18
-source-url: https://www.scoop.co.nz/stories/PA2304/S00110/prime-ministers-outright-falsehood-on-democracy.htm
+title: Prime Minister’s Outright Falsehood On Democracy
+date: 2023-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00110/prime-ministers-outright-falsehood-on-democracy.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/18/prime-ministers-outright-falsehood-on-democracy/index.html
+layout: layout.njk
 ---
 Prime Minister’s Outright Falsehood On Democracy
 ================================================

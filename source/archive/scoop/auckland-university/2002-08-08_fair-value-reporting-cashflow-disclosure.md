@@ -1,9 +1,12 @@
 ---
 slug: fair-value-reporting-cashflow-disclosure
-title: "Fair-Value Reporting - Cashflow  Disclosure"
-date: 2002-08-08
-source-url: https://www.scoop.co.nz/stories/BU0208/S00058/fair-value-reporting-cashflow-disclosure.htm
+title: Fair-Value Reporting - Cashflow  Disclosure
+date: 2002-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0208/S00058/fair-value-reporting-cashflow-disclosure.htm
 author: auckland-university
+permalink: /archive/2002/08/08/fair-value-reporting-cashflow-disclosure/index.html
+layout: layout.njk
 ---
 Fair-Value Reporting - Cashflow Disclosure
 ==========================================

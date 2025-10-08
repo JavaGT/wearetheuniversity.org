@@ -1,9 +1,13 @@
 ---
 slug: grants-for-research-into-arthritis-and-depression
-title: "Grants for Research Into Arthritis and Depression"
-date: 2006-12-05
-source-url: https://www.scoop.co.nz/stories/ED0612/S00010/grants-for-research-into-arthritis-and-depression.htm
+title: Grants for Research Into Arthritis and Depression
+date: 2006-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00010/grants-for-research-into-arthritis-and-depression.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/12/05/grants-for-research-into-arthritis-and-depression/index.html
+layout: layout.njk
 ---
 Grants for Research Into Arthritis and Depression
 =================================================

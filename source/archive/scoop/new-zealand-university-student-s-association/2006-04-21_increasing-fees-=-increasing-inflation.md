@@ -1,9 +1,12 @@
 ---
 slug: increasing-fees-=-increasing-inflation
-title: "Increasing fees = increasing inflation"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/ED0604/S00072/increasing-fees-increasing-inflation.htm
+title: Increasing fees = increasing inflation
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00072/increasing-fees-increasing-inflation.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/04/21/increasing-fees-/index.html
+layout: layout.njk
 ---
 Increasing fees = increasing inflation
 ======================================

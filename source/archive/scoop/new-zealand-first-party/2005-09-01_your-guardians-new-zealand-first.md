@@ -1,9 +1,12 @@
 ---
 slug: your-guardians-new-zealand-first
-title: "Your Guardians – New Zealand First"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00009/your-guardians-new-zealand-first.htm
+title: Your Guardians – New Zealand First
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00009/your-guardians-new-zealand-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/09/01/your-guardians-new-zealand-first/index.html
+layout: layout.njk
 ---
 Your Guardians – New Zealand First
 ==================================

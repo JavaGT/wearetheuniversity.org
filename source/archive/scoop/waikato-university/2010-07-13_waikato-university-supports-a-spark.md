@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-supports-a-spark
-title: "Waikato University supports a Spark"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/ED1007/S00042/waikato-university-supports-a-spark.htm
+title: Waikato University supports a Spark
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00042/waikato-university-supports-a-spark.htm
 author: waikato-university
+permalink: /archive/2010/07/13/waikato-university-supports-a-spark/index.html
+layout: layout.njk
 ---
 Waikato University supports a Spark
 ===================================

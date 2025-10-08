@@ -1,9 +1,13 @@
 ---
 slug: greens-release-mp-portfolios-for-50th-parliament
-title: "Greens release MP portfolios for 50th Parliament"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/PA1112/S00098/greens-release-mp-portfolios-for-50th-parliament.htm
+title: Greens release MP portfolios for 50th Parliament
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00098/greens-release-mp-portfolios-for-50th-parliament.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/14/greens-release-mp-portfolios-for-50th-parliament/index.html
+layout: layout.njk
 ---
 Greens release MP portfolios for 50th Parliament
 ================================================

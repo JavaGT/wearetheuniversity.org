@@ -1,9 +1,12 @@
 ---
 slug: students-flourishing-on-uc-operated-programmes
-title: "Students flourishing on UC-operated programmes"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/ED1110/S00075/students-flourishing-on-uc-operated-programmes.htm
+title: Students flourishing on UC-operated programmes
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00075/students-flourishing-on-uc-operated-programmes.htm
 author: university-of-canterbury
+permalink: /archive/2011/10/18/students-flourishing-on-uc-operated-programmes/index.html
+layout: layout.njk
 ---
 Students flourishing on UC-operated programmes
 ==============================================

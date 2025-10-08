@@ -1,9 +1,13 @@
 ---
 slug: national-backs-race-based-water-taxes-had-enough
-title: "National Backs Race-Based Water Taxes.  Had Enough?"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/PA1708/S00275/national-backs-race-based-water-taxes-had-enough.htm
+title: National Backs Race-Based Water Taxes.  Had Enough?
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00275/national-backs-race-based-water-taxes-had-enough.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/14/national-backs-race-based-water-taxes-had-enough/index.html
+layout: layout.njk
 ---
 National Backs Race-Based Water Taxes. Had Enough?
 ==================================================

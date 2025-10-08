@@ -1,9 +1,12 @@
 ---
 slug: australian-political-delegation-visits-lincoln
-title: "Australian Political Delegation Visits Lincoln"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/ED0909/S00068/australian-political-delegation-visits-lincoln.htm
+title: Australian Political Delegation Visits Lincoln
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00068/australian-political-delegation-visits-lincoln.htm
 author: lincoln-university
+permalink: /archive/2009/09/21/australian-political-delegation-visits-lincoln/index.html
+layout: layout.njk
 ---
 Australian Political Delegation Visits Lincoln
 ==============================================

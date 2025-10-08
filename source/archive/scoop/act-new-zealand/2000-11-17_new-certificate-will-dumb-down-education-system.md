@@ -1,9 +1,12 @@
 ---
 slug: new-certificate-will-dumb-down-education-system
-title: "New Certificate Will 'Dumb Down' Education System"
-date: 2000-11-17
-source-url: https://www.scoop.co.nz/stories/PA0011/S00309/new-certificate-will-dumb-down-education-system.htm
+title: New Certificate Will 'Dumb Down' Education System
+date: 2000-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00309/new-certificate-will-dumb-down-education-system.htm
 author: act-new-zealand
+permalink: /archive/2000/11/17/new-certificate-will-dumb-down-education-system/index.html
+layout: layout.njk
 ---
 New Certificate Will 'Dumb Down' Education System
 =================================================

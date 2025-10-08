@@ -1,9 +1,12 @@
 ---
 slug: fresh-produce-an-emerging-food-safety-challenge
-title: "Fresh produce an emerging food safety challenge"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/GE1705/S00028/fresh-produce-an-emerging-food-safety-challenge.htm
+title: Fresh produce an emerging food safety challenge
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00028/fresh-produce-an-emerging-food-safety-challenge.htm
 author: lincoln-university
+permalink: /archive/2017/05/03/fresh-produce-an-emerging-food-safety-challenge/index.html
+layout: layout.njk
 ---
 Fresh produce an emerging food safety challenge
 ===============================================

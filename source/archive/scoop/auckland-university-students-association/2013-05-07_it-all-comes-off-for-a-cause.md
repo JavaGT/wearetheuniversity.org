@@ -1,9 +1,11 @@
 ---
 slug: it-all-comes-off-for-a-cause
-title: "It All Comes Off for a Cause"
-date: 2013-05-07
+title: It All Comes Off for a Cause
+date: 2013-05-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1305/S00039/it-all-comes-off-for-a-cause.htm
 author: auckland-university-students-association
+permalink: /archive/2013/05/07/it-all-comes-off-for-a-cause/index.html
+layout: layout.njk
 ---
 It All Comes Off for a Cause
 ============================

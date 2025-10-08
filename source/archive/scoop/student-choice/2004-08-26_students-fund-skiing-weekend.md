@@ -1,9 +1,11 @@
 ---
 slug: students-fund-skiing-weekend
-title: "Students fund skiing weekend"
-date: 2004-08-26
+title: Students fund skiing weekend
+date: 2004-08-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0408/S00120/students-fund-skiing-weekend.htm
 author: student-choice
+permalink: /archive/2004/08/26/students-fund-skiing-weekend/index.html
+layout: layout.njk
 ---
 Students fund skiing weekend
 ============================

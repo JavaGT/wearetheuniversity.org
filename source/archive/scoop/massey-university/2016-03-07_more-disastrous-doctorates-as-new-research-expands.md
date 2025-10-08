@@ -1,9 +1,13 @@
 ---
 slug: more-disastrous-doctorates-as-new-research-expands
-title: "More ‘disastrous doctorates’ as new research expands"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/ED1603/S00028/more-disastrous-doctorates-as-new-research-expands.htm
+title: More ‘disastrous doctorates’ as new research expands
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00028/more-disastrous-doctorates-as-new-research-expands.htm
 author: massey-university
+permalink: >-
+  /archive/2016/03/07/more-disastrous-doctorates-as-new-research-expands/index.html
+layout: layout.njk
 ---
 More ‘disastrous doctorates’ as new research expands
 ====================================================

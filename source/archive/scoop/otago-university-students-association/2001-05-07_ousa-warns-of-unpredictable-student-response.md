@@ -1,9 +1,12 @@
 ---
 slug: ousa-warns-of-unpredictable-student-response
-title: "OUSA Warns of Unpredictable Student Response"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/ED0105/S00007/ousa-warns-of-unpredictable-student-response.htm
+title: OUSA Warns of Unpredictable Student Response
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00007/ousa-warns-of-unpredictable-student-response.htm
 author: otago-university-students-association
+permalink: /archive/2001/05/07/ousa-warns-of-unpredictable-student-response/index.html
+layout: layout.njk
 ---
 OUSA Warns of Unpredictable Student Response
 ============================================

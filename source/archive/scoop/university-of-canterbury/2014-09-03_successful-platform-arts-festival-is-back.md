@@ -1,9 +1,12 @@
 ---
 slug: successful-platform-arts-festival-is-back
-title: "Successful Platform Arts Festival is back"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/CU1409/S00067/successful-platform-arts-festival-is-back.htm
+title: Successful Platform Arts Festival is back
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00067/successful-platform-arts-festival-is-back.htm
 author: university-of-canterbury
+permalink: /archive/2014/09/03/successful-platform-arts-festival-is-back/index.html
+layout: layout.njk
 ---
 Successful Platform Arts Festival is back
 =========================================

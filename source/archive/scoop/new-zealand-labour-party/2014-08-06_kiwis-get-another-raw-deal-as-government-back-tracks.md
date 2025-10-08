@@ -1,9 +1,13 @@
 ---
 slug: kiwis-get-another-raw-deal-as-government-back-tracks
-title: "Kiwis get another raw deal as Government  back tracks"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PA1408/S00083/kiwis-get-another-raw-deal-as-government-back-tracks.htm
+title: Kiwis get another raw deal as Government  back tracks
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00083/kiwis-get-another-raw-deal-as-government-back-tracks.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/06/kiwis-get-another-raw-deal-as-government-back-tracks/index.html
+layout: layout.njk
 ---
 Kiwis get another raw deal as Government back tracks
 ====================================================

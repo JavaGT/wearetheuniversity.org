@@ -1,9 +1,13 @@
 ---
 slug: warning-on-plastic-bottles-must-be-heeded-greens
-title: "Warning on plastic bottles must be heeded - Greens"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00495/warning-on-plastic-bottles-must-be-heeded-greens.htm
+title: Warning on plastic bottles must be heeded - Greens
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00495/warning-on-plastic-bottles-must-be-heeded-greens.htm
 author: green-party
+permalink: >-
+  /archive/2008/02/29/warning-on-plastic-bottles-must-be-heeded-greens/index.html
+layout: layout.njk
 ---
 Warning on plastic bottles must be heeded - Greens
 ==================================================

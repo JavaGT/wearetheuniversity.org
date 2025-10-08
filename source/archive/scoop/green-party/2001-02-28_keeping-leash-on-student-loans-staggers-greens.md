@@ -1,9 +1,12 @@
 ---
 slug: keeping-leash-on-student-loans-staggers-greens
-title: "'Keeping Leash On Student loans' Staggers Greens"
-date: 2001-02-28
-source-url: https://www.scoop.co.nz/stories/PA0102/S00436/keeping-leash-on-student-loans-staggers-greens.htm
+title: '''Keeping Leash On Student loans'' Staggers Greens'
+date: 2001-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00436/keeping-leash-on-student-loans-staggers-greens.htm
 author: green-party
+permalink: /archive/2001/02/28/keeping-leash-on-student-loans-staggers-greens/index.html
+layout: layout.njk
 ---
 'Keeping Leash On Student loans' Staggers Greens
 ================================================

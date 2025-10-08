@@ -1,9 +1,12 @@
 ---
 slug: students-apologies-essence-of-real-justice
-title: "Students' apologies essence of real justice"
-date: 2001-10-16
-source-url: https://www.scoop.co.nz/stories/PA0110/S00314/students-apologies-essence-of-real-justice.htm
+title: Students' apologies essence of real justice
+date: 2001-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00314/students-apologies-essence-of-real-justice.htm
 author: green-party
+permalink: /archive/2001/10/16/students-apologies-essence-of-real-justice/index.html
+layout: layout.njk
 ---
 Students' apologies essence of real justice
 ===========================================

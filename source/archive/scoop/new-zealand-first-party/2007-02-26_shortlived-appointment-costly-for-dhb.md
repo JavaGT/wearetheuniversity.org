@@ -1,9 +1,12 @@
 ---
 slug: shortlived-appointment-costly-for-dhb
-title: "Shortlived Appointment Costly for DHB"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/PA0702/S00474/shortlived-appointment-costly-for-dhb.htm
+title: Shortlived Appointment Costly for DHB
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00474/shortlived-appointment-costly-for-dhb.htm
 author: new-zealand-first-party
+permalink: /archive/2007/02/26/shortlived-appointment-costly-for-dhb/index.html
+layout: layout.njk
 ---
 Shortlived Appointment Costly for DHB
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: national-standards-a-debacle-like-novopay
-title: "National Standards – a Debacle Like Novopay?"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/ED1305/S00016/national-standards-a-debacle-like-novopay.htm
+title: National Standards – a Debacle Like Novopay?
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00016/national-standards-a-debacle-like-novopay.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/03/national-standards-a-debacle-like-novopay/index.html
+layout: layout.njk
 ---
 National Standards – a Debacle Like Novopay?
 ============================================

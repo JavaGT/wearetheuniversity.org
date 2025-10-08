@@ -1,9 +1,12 @@
 ---
 slug: genetic-influence-in-depression-and-addiction
-title: "Genetic influence in depression and addiction"
-date: 2010-11-01
-source-url: https://www.scoop.co.nz/stories/SC1011/S00002/genetic-influence-in-depression-and-addiction.htm
+title: Genetic influence in depression and addiction
+date: 2010-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00002/genetic-influence-in-depression-and-addiction.htm
 author: university-of-otago
+permalink: /archive/2010/11/01/genetic-influence-in-depression-and-addiction/index.html
+layout: layout.njk
 ---
 Genetic influence in depression and addiction
 =============================================

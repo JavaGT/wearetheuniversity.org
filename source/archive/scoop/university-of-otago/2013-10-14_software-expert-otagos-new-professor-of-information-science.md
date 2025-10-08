@@ -1,9 +1,13 @@
 ---
 slug: software-expert-otagos-new-professor-of-information-science
-title: "Software expert Otago’s new Professor of Information Science"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/ED1310/S00094/software-expert-otagos-new-professor-of-information-science.htm
+title: Software expert Otago’s new Professor of Information Science
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00094/software-expert-otagos-new-professor-of-information-science.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/14/software-expert-otagos-new-professor-of-information-science/index.html
+layout: layout.njk
 ---
 Software expert Otago’s new Professor of Information Science
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: support-for-our-part-in-peace-keeping-role
-title: "Support For Our Part In Peace Keeping Role"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/PA1204/S00306/support-for-our-part-in-peace-keeping-role.htm
+title: Support For Our Part In Peace Keeping Role
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00306/support-for-our-part-in-peace-keeping-role.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/24/support-for-our-part-in-peace-keeping-role/index.html
+layout: layout.njk
 ---
 Support For Our Part In Peace Keeping Role
 ==========================================

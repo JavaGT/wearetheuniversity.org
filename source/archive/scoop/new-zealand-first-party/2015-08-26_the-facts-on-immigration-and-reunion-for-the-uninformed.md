@@ -1,9 +1,13 @@
 ---
 slug: the-facts-on-immigration-and-reunion-for-the-uninformed
-title: "The Facts on Immigration And Reunion for the Uninformed"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/PA1508/S00447/the-facts-on-immigration-and-reunion-for-the-uninformed.htm
+title: The Facts on Immigration And Reunion for the Uninformed
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00447/the-facts-on-immigration-and-reunion-for-the-uninformed.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/26/the-facts-on-immigration-and-reunion-for-the-uninformed/index.html
+layout: layout.njk
 ---
 The Facts on Immigration And Reunion for the Uninformed
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: chch-experiences-more-flooding-because-of-the-earthquakes
-title: "Chch experiences more flooding because of the earthquakes"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/AK1403/S00106/chch-experiences-more-flooding-because-of-the-earthquakes.htm
+title: Chch experiences more flooding because of the earthquakes
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00106/chch-experiences-more-flooding-because-of-the-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/05/chch-experiences-more-flooding-because-of-the-earthquakes/index.html
+layout: layout.njk
 ---
 Chch experiences more flooding because of the earthquakes
 =========================================================

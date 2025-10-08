@@ -1,9 +1,13 @@
 ---
 slug: nzs-cyber-borders-under-siege-again-on-labours-watch
-title: "NZ’s cyber borders under siege again on Labour’s watch"
-date: 2021-09-03
-source-url: https://www.scoop.co.nz/stories/PA2109/S00030/nzs-cyber-borders-under-siege-again-on-labours-watch.htm
+title: NZ’s cyber borders under siege again on Labour’s watch
+date: 2021-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00030/nzs-cyber-borders-under-siege-again-on-labours-watch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/03/nzs-cyber-borders-under-siege-again-on-labours-watch/index.html
+layout: layout.njk
 ---
 NZ’s cyber borders under siege again on Labour’s watch
 ======================================================

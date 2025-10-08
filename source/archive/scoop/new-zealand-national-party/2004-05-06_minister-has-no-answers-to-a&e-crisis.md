@@ -1,9 +1,12 @@
 ---
 slug: minister-has-no-answers-to-a&e-crisis
-title: "Minister has no answers to A&E crisis"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/PA0405/S00117/minister-has-no-answers-to-ae-crisis.htm
+title: Minister has no answers to A&E crisis
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00117/minister-has-no-answers-to-ae-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/06/minister-has-no-answers-to-a/index.html
+layout: layout.njk
 ---
 Minister has no answers to A&E crisis
 =====================================

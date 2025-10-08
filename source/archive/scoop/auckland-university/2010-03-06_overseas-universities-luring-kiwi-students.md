@@ -1,9 +1,12 @@
 ---
 slug: overseas-universities-luring-kiwi-students
-title: "Overseas Universities Luring Kiwi Students"
-date: 2010-03-06
-source-url: https://www.scoop.co.nz/stories/ED1003/S00030/overseas-universities-luring-kiwi-students.htm
+title: Overseas Universities Luring Kiwi Students
+date: 2010-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00030/overseas-universities-luring-kiwi-students.htm
 author: auckland-university
+permalink: /archive/2010/03/06/overseas-universities-luring-kiwi-students/index.html
+layout: layout.njk
 ---
 Overseas Universities Luring Kiwi Students
 ==========================================

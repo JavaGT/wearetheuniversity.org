@@ -1,9 +1,12 @@
 ---
 slug: notice-of-motion-australian-fires
-title: "Notice of Motion: Australian fires"
-date: 2009-02-10
-source-url: https://www.scoop.co.nz/stories/PA0902/S00121/notice-of-motion-australian-fires.htm
+title: 'Notice of Motion: Australian fires'
+date: 2009-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00121/notice-of-motion-australian-fires.htm
 author: te-pati-maori
+permalink: /archive/2009/02/10/notice-of-motion-australian-fires/index.html
+layout: layout.njk
 ---
 Notice of Motion: Australian fires
 ==================================

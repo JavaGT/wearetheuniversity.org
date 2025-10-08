@@ -1,9 +1,11 @@
 ---
 slug: new-windows-on-the-universe
-title: "New windows on the Universe"
-date: 2016-02-13
+title: New windows on the Universe
+date: 2016-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL1602/S00035/new-windows-on-the-universe.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/13/new-windows-on-the-universe/index.html
+layout: layout.njk
 ---
 New windows on the Universe
 ===========================

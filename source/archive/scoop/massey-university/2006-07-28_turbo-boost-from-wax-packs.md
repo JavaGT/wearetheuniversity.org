@@ -1,9 +1,11 @@
 ---
 slug: turbo-boost-from-wax-packs
-title: "Turbo-boost from wax packs"
-date: 2006-07-28
+title: Turbo-boost from wax packs
+date: 2006-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0607/S00095/turbo-boost-from-wax-packs.htm
 author: massey-university
+permalink: /archive/2006/07/28/turbo-boost-from-wax-packs/index.html
+layout: layout.njk
 ---
 Turbo-boost from wax packs
 ==========================

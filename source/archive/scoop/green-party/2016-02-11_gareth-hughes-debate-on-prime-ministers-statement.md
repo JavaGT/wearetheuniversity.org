@@ -1,9 +1,13 @@
 ---
 slug: gareth-hughes-debate-on-prime-ministers-statement
-title: "Gareth Hughes: Debate on Prime Minister's Statement"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/HL1602/S00033/gareth-hughes-debate-on-prime-ministers-statement.htm
+title: 'Gareth Hughes: Debate on Prime Minister''s Statement'
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1602/S00033/gareth-hughes-debate-on-prime-ministers-statement.htm
 author: green-party
+permalink: >-
+  /archive/2016/02/11/gareth-hughes-debate-on-prime-ministers-statement/index.html
+layout: layout.njk
 ---
 Gareth Hughes: Debate on Prime Minister's Statement
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: union-movement-wants-nzers-to-act-like-sheep
-title: "Union Movement Wants NZers To Act Like Sheep"
-date: 2000-07-24
-source-url: https://www.scoop.co.nz/stories/PA0007/S00365/union-movement-wants-nzers-to-act-like-sheep.htm
+title: Union Movement Wants NZers To Act Like Sheep
+date: 2000-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00365/union-movement-wants-nzers-to-act-like-sheep.htm
 author: new-zealand-first-party
+permalink: /archive/2000/07/24/union-movement-wants-nzers-to-act-like-sheep/index.html
+layout: layout.njk
 ---
 Union Movement Wants NZers To Act Like Sheep
 ============================================

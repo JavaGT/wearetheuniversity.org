@@ -1,9 +1,13 @@
 ---
 slug: eu-security-union-commissioner-on-hate-crime-terrorism
-title: "EU Security Union Commissioner on hate crime, terrorism"
-date: 2019-06-20
-source-url: https://www.scoop.co.nz/stories/PO1906/S00242/eu-security-union-commissioner-on-hate-crime-terrorism.htm
+title: EU Security Union Commissioner on hate crime, terrorism
+date: 2019-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00242/eu-security-union-commissioner-on-hate-crime-terrorism.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/20/eu-security-union-commissioner-on-hate-crime-terrorism/index.html
+layout: layout.njk
 ---
 EU Security Union Commissioner on hate crime, terrorism
 =======================================================

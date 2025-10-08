@@ -1,9 +1,13 @@
 ---
 slug: labour-only-has-itself-to-blame-for-teachers-strikes
-title: "Labour only has itself to blame for teachers strikes"
-date: 2018-08-01
-source-url: https://www.scoop.co.nz/stories/PA1808/S00010/labour-only-has-itself-to-blame-for-teachers-strikes.htm
+title: Labour only has itself to blame for teachers strikes
+date: 2018-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00010/labour-only-has-itself-to-blame-for-teachers-strikes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/01/labour-only-has-itself-to-blame-for-teachers-strikes/index.html
+layout: layout.njk
 ---
 Labour only has itself to blame for teachers strikes
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-to-launch-revolution-on-queens-birthday
-title: "Greens to launch revolution on Queen's Birthday"
-date: 2004-06-04
-source-url: https://www.scoop.co.nz/stories/PA0406/S00089/greens-to-launch-revolution-on-queens-birthday.htm
+title: Greens to launch revolution on Queen's Birthday
+date: 2004-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00089/greens-to-launch-revolution-on-queens-birthday.htm
 author: green-party
+permalink: /archive/2004/06/04/greens-to-launch-revolution-on-queens-birthday/index.html
+layout: layout.njk
 ---
 Greens to launch revolution on Queen's Birthday
 ===============================================

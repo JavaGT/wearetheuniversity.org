@@ -1,9 +1,13 @@
 ---
 slug: health-sector-leader-to-chair-university-initiative
-title: "Health sector leader to chair University initiative"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/GE1508/S00035/health-sector-leader-to-chair-university-initiative.htm
+title: Health sector leader to chair University initiative
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00035/health-sector-leader-to-chair-university-initiative.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/08/10/health-sector-leader-to-chair-university-initiative/index.html
+layout: layout.njk
 ---
 Health sector leader to chair University initiative
 ===================================================

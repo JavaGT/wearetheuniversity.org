@@ -1,9 +1,12 @@
 ---
 slug: govt-must-do-more-to-close-the-digital-divide
-title: "Govt must do more to close the digital divide"
-date: 2015-02-03
-source-url: https://www.scoop.co.nz/stories/PA1502/S00019/govt-must-do-more-to-close-the-digital-divide.htm
+title: Govt must do more to close the digital divide
+date: 2015-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00019/govt-must-do-more-to-close-the-digital-divide.htm
 author: green-party
+permalink: /archive/2015/02/03/govt-must-do-more-to-close-the-digital-divide/index.html
+layout: layout.njk
 ---
 Govt must do more to close the digital divide
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: key-notes-supporting-canterbury
-title: "Key Notes: Supporting Canterbury"
-date: 2011-06-17
-source-url: https://www.scoop.co.nz/stories/PA1106/S00301/key-notes-supporting-canterbury.htm
+title: 'Key Notes: Supporting Canterbury'
+date: 2011-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00301/key-notes-supporting-canterbury.htm
 author: new-zealand-national-party
+permalink: /archive/2011/06/17/key-notes-supporting-canterbury/index.html
+layout: layout.njk
 ---
 Key Notes: Supporting Canterbury
 ================================

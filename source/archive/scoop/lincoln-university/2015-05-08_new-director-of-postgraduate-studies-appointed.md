@@ -1,9 +1,12 @@
 ---
 slug: new-director-of-postgraduate-studies-appointed
-title: "New Director of Postgraduate Studies appointed"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/ED1505/S00041/new-director-of-postgraduate-studies-appointed.htm
+title: New Director of Postgraduate Studies appointed
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00041/new-director-of-postgraduate-studies-appointed.htm
 author: lincoln-university
+permalink: /archive/2015/05/08/new-director-of-postgraduate-studies-appointed/index.html
+layout: layout.njk
 ---
 New Director of Postgraduate Studies appointed
 ==============================================

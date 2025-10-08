@@ -1,9 +1,16 @@
 ---
-slug: $12-5m-project-to-reduce-greenhouse-gas-emissions-using-digital-twin-technology
-title: "$12.5m Project To Reduce Greenhouse Gas Emissions Using ‘digital Twin’ Technology"
-date: 2020-09-16
-source-url: https://www.scoop.co.nz/stories/SC2009/S00026/125m-project-to-reduce-greenhouse-gas-emissions-using-digital-twin-technology.htm
+slug: >-
+  $12-5m-project-to-reduce-greenhouse-gas-emissions-using-digital-twin-technology
+title: >-
+  $12.5m Project To Reduce Greenhouse Gas Emissions Using ‘digital Twin’
+  Technology
+date: 2020-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2009/S00026/125m-project-to-reduce-greenhouse-gas-emissions-using-digital-twin-technology.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/09/16/12-5m-project-to-reduce-greenhouse-gas-emissions-using-digital-twin-technology/index.html
+layout: layout.njk
 ---
 $12.5m Project To Reduce Greenhouse Gas Emissions Using ‘digital Twin’ Technology
 =================================================================================

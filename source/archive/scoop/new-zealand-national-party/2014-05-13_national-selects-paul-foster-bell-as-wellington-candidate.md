@@ -1,9 +1,13 @@
 ---
 slug: national-selects-paul-foster-bell-as-wellington-candidate
-title: "National selects Paul Foster-Bell as Wellington candidate"
-date: 2014-05-13
-source-url: https://www.scoop.co.nz/stories/PO1405/S00185/national-selects-paul-foster-bell-as-wellington-candidate.htm
+title: National selects Paul Foster-Bell as Wellington candidate
+date: 2014-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00185/national-selects-paul-foster-bell-as-wellington-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/13/national-selects-paul-foster-bell-as-wellington-candidate/index.html
+layout: layout.njk
 ---
 National selects Paul Foster-Bell as Wellington candidate
 =========================================================

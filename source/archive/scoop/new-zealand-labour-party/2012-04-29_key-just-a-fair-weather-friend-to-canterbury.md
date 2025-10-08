@@ -1,9 +1,12 @@
 ---
 slug: key-just-a-fair-weather-friend-to-canterbury
-title: "Key Just a Fair-Weather Friend to Canterbury"
-date: 2012-04-29
-source-url: https://www.scoop.co.nz/stories/PA1204/S00360/key-just-a-fair-weather-friend-to-canterbury.htm
+title: Key Just a Fair-Weather Friend to Canterbury
+date: 2012-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00360/key-just-a-fair-weather-friend-to-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/29/key-just-a-fair-weather-friend-to-canterbury/index.html
+layout: layout.njk
 ---
 Key Just a Fair-Weather Friend to Canterbury
 ============================================

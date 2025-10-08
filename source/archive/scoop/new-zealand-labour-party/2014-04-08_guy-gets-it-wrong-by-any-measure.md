@@ -1,9 +1,12 @@
 ---
 slug: guy-gets-it-wrong-by-any-measure
-title: "Guy gets it wrong by any measure"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/PA1404/S00128/guy-gets-it-wrong-by-any-measure.htm
+title: Guy gets it wrong by any measure
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00128/guy-gets-it-wrong-by-any-measure.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/08/guy-gets-it-wrong-by-any-measure/index.html
+layout: layout.njk
 ---
 Guy gets it wrong by any measure
 ================================

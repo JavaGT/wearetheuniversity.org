@@ -1,9 +1,13 @@
 ---
 slug: promising-signs-in-uc-research-into-treating-ovarian-cancer
-title: "Promising signs in UC research into treating ovarian cancer"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/SC1210/S00033/promising-signs-in-uc-research-into-treating-ovarian-cancer.htm
+title: Promising signs in UC research into treating ovarian cancer
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00033/promising-signs-in-uc-research-into-treating-ovarian-cancer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/17/promising-signs-in-uc-research-into-treating-ovarian-cancer/index.html
+layout: layout.njk
 ---
 Promising signs in UC research into treating ovarian cancer
 ===========================================================

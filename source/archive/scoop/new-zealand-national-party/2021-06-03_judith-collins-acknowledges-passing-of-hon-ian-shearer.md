@@ -1,9 +1,13 @@
 ---
 slug: judith-collins-acknowledges-passing-of-hon-ian-shearer
-title: "Judith Collins Acknowledges Passing Of Hon Ian Shearer"
-date: 2021-06-03
-source-url: https://www.scoop.co.nz/stories/PA2106/S00026/judith-collins-acknowledges-passing-of-hon-ian-shearer.htm
+title: Judith Collins Acknowledges Passing Of Hon Ian Shearer
+date: 2021-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00026/judith-collins-acknowledges-passing-of-hon-ian-shearer.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/06/03/judith-collins-acknowledges-passing-of-hon-ian-shearer/index.html
+layout: layout.njk
 ---
 Judith Collins Acknowledges Passing Of Hon Ian Shearer
 ======================================================

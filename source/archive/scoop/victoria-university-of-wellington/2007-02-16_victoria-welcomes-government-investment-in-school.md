@@ -1,9 +1,13 @@
 ---
 slug: victoria-welcomes-government-investment-in-school
-title: "Victoria welcomes Government investment in School"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/ED0702/S00066/victoria-welcomes-government-investment-in-school.htm
+title: Victoria welcomes Government investment in School
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00066/victoria-welcomes-government-investment-in-school.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/02/16/victoria-welcomes-government-investment-in-school/index.html
+layout: layout.njk
 ---
 Victoria welcomes Government investment in School
 =================================================

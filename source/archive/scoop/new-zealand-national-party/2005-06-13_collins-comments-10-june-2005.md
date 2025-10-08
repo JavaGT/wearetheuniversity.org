@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-10-june-2005
-title: "Collins Comments 10 June 2005"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/PA0506/S00257/collins-comments-10-june-2005.htm
+title: Collins Comments 10 June 2005
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00257/collins-comments-10-june-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/13/collins-comments-10-june-2005/index.html
+layout: layout.njk
 ---
 Collins Comments 10 June 2005
 =============================

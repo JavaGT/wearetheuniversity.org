@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-researchers-team-up-with-zealandia
-title: "Victoria University researchers team up with ZEALANDIA"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/SC1105/S00031/victoria-university-researchers-team-up-with-zealandia.htm
+title: Victoria University researchers team up with ZEALANDIA
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00031/victoria-university-researchers-team-up-with-zealandia.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/11/victoria-university-researchers-team-up-with-zealandia/index.html
+layout: layout.njk
 ---
 Victoria University researchers team up with ZEALANDIA
 ======================================================

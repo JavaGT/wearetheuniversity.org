@@ -1,9 +1,12 @@
 ---
 slug: students-congratulate-world-ranked-universities
-title: "Students congratulate world-ranked universities"
-date: 2015-04-30
-source-url: https://www.scoop.co.nz/stories/ED1504/S00085/students-congratulate-world-ranked-universities.htm
+title: Students congratulate world-ranked universities
+date: 2015-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00085/students-congratulate-world-ranked-universities.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/04/30/students-congratulate-world-ranked-universities/index.html
+layout: layout.njk
 ---
 Students congratulate world-ranked universities
 ===============================================

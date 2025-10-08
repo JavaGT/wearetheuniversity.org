@@ -1,9 +1,12 @@
 ---
 slug: accountants-value-work-life-balance
-title: "Accountants value work-life balance"
-date: 2010-06-29
-source-url: https://www.scoop.co.nz/stories/ED1006/S00107/accountants-value-work-life-balance.htm
+title: Accountants value work-life balance
+date: 2010-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00107/accountants-value-work-life-balance.htm
 author: university-of-waikato
+permalink: /archive/2010/06/29/accountants-value-work-life-balance/index.html
+layout: layout.njk
 ---
 Accountants value work-life balance
 ===================================

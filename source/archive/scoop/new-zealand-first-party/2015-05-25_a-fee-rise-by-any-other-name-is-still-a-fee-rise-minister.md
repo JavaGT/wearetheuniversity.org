@@ -1,9 +1,13 @@
 ---
 slug: a-fee-rise-by-any-other-name-is-still-a-fee-rise-minister
-title: "A Fee Rise by Any Other Name is Still a Fee Rise Minister"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/PA1505/S00445/a-fee-rise-by-any-other-name-is-still-a-fee-rise-minister.htm
+title: A Fee Rise by Any Other Name is Still a Fee Rise Minister
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00445/a-fee-rise-by-any-other-name-is-still-a-fee-rise-minister.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/25/a-fee-rise-by-any-other-name-is-still-a-fee-rise-minister/index.html
+layout: layout.njk
 ---
 A Fee Rise by Any Other Name is Still a Fee Rise Minister
 =========================================================

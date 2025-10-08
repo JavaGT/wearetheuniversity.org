@@ -1,8 +1,12 @@
 ---
 slug: canterbury-earthquake-vice-chancellors-message-to-staff-and-students
-title: "Canterbury earthquake - Vice-Chancellor’s message to staff and students"
-date: 2011-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/Canterbury-earthquake-Vice-Chancellors-message-to-staff-and-students.html
+title: Canterbury earthquake - Vice-Chancellor’s message to staff and students
+date: 2011-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/Canterbury-earthquake-Vice-Chancellors-message-to-staff-and-students.html
+permalink: >-
+  /archive/2011/02/23/canterbury-earthquake-vice-chancellors-message-to-staff-and-students/index.html
+layout: layout.njk
 ---
 Canterbury earthquake - Vice-Chancellor’s message to staff and students
 =======================================================================

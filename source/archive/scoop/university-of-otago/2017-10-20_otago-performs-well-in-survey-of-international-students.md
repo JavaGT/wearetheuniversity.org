@@ -1,9 +1,13 @@
 ---
 slug: otago-performs-well-in-survey-of-international-students
-title: "Otago performs well in survey of international students"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/ED1710/S00062/otago-performs-well-in-survey-of-international-students.htm
+title: Otago performs well in survey of international students
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00062/otago-performs-well-in-survey-of-international-students.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/20/otago-performs-well-in-survey-of-international-students/index.html
+layout: layout.njk
 ---
 Otago performs well in survey of international students
 =======================================================

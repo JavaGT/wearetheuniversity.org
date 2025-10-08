@@ -1,9 +1,13 @@
 ---
 slug: didymo-directly-affects-freshwater-fish-new-study
-title: "Didymo directly affects freshwater fish: new study"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/SC1608/S00055/didymo-directly-affects-freshwater-fish-new-study.htm
+title: 'Didymo directly affects freshwater fish: new study'
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00055/didymo-directly-affects-freshwater-fish-new-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/08/16/didymo-directly-affects-freshwater-fish-new-study/index.html
+layout: layout.njk
 ---
 Didymo directly affects freshwater fish: new study
 ==================================================

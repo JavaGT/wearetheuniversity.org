@@ -1,9 +1,12 @@
 ---
 slug: support-of-nzusa-student-loan-campaign
-title: "Support of NZUSA Student loan campaign"
-date: 2008-02-27
-source-url: https://www.scoop.co.nz/stories/ED0802/S00065/support-of-nzusa-student-loan-campaign.htm
+title: Support of NZUSA Student loan campaign
+date: 2008-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00065/support-of-nzusa-student-loan-campaign.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/02/27/support-of-nzusa-student-loan-campaign/index.html
+layout: layout.njk
 ---
 Support of NZUSA Student loan campaign
 ======================================

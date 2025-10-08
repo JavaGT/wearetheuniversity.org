@@ -1,9 +1,12 @@
 ---
 slug: assistance-dog-worth-her-weight-in-gold
-title: "Assistance dog worth her weight in gold"
-date: 2016-02-15
-source-url: https://www.scoop.co.nz/stories/GE1602/S00047/assistance-dog-worth-her-weight-in-gold.htm
+title: Assistance dog worth her weight in gold
+date: 2016-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00047/assistance-dog-worth-her-weight-in-gold.htm
 author: massey-university
+permalink: /archive/2016/02/15/assistance-dog-worth-her-weight-in-gold/index.html
+layout: layout.njk
 ---
 Assistance dog worth her weight in gold
 =======================================

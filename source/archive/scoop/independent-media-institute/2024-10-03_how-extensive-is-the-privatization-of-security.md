@@ -1,9 +1,12 @@
 ---
 slug: how-extensive-is-the-privatization-of-security
-title: "How Extensive Is The Privatization Of Security?"
-date: 2024-10-03
-source-url: https://www.scoop.co.nz/stories/WO2410/S00036/how-extensive-is-the-privatization-of-security.htm
+title: How Extensive Is The Privatization Of Security?
+date: 2024-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00036/how-extensive-is-the-privatization-of-security.htm
 author: independent-media-institute
+permalink: /archive/2024/10/03/how-extensive-is-the-privatization-of-security/index.html
+layout: layout.njk
 ---
 How Extensive Is The Privatization Of Security?
 ===============================================

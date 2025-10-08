@@ -1,9 +1,12 @@
 ---
 slug: more-transit-of-mercury-photos
-title: "More transit of mercury photos"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/SC0611/S00025/more-transit-of-mercury-photos.htm
+title: More transit of mercury photos
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0611/S00025/more-transit-of-mercury-photos.htm
 author: university-of-canterbury
+permalink: /archive/2006/11/09/more-transit-of-mercury-photos/index.html
+layout: layout.njk
 ---
 More transit of mercury photos
 ==============================

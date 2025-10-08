@@ -1,9 +1,12 @@
 ---
 slug: budget-2001-good-bad-and-ugly-for-universities
-title: "BUDGET 2001 – GOOD, BAD AND UGLY FOR UNIVERSITIES"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00053/budget-2001-good-bad-and-ugly-for-universities.htm
+title: BUDGET 2001 – GOOD, BAD AND UGLY FOR UNIVERSITIES
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00053/budget-2001-good-bad-and-ugly-for-universities.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/24/budget-2001-good-bad-and-ugly-for-universities/index.html
+layout: layout.njk
 ---
 BUDGET 2001 – GOOD, BAD AND UGLY FOR UNIVERSITIES
 =================================================

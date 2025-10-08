@@ -1,9 +1,13 @@
 ---
 slug: comprehensive-protection-required-to-save-hectors-dolphin
-title: "Comprehensive protection required to save Hector’s dolphin"
-date: 2013-04-08
-source-url: https://www.scoop.co.nz/stories/SC1304/S00016/comprehensive-protection-required-to-save-hectors-dolphin.htm
+title: Comprehensive protection required to save Hector’s dolphin
+date: 2013-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00016/comprehensive-protection-required-to-save-hectors-dolphin.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/08/comprehensive-protection-required-to-save-hectors-dolphin/index.html
+layout: layout.njk
 ---
 Comprehensive protection required to save Hector’s dolphin
 ==========================================================

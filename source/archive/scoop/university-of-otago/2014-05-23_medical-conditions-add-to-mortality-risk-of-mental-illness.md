@@ -1,9 +1,13 @@
 ---
 slug: medical-conditions-add-to-mortality-risk-of-mental-illness
-title: "Medical conditions add to mortality risk of mental illness"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/GE1405/S00134/medical-conditions-add-to-mortality-risk-of-mental-illness.htm
+title: Medical conditions add to mortality risk of mental illness
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00134/medical-conditions-add-to-mortality-risk-of-mental-illness.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/23/medical-conditions-add-to-mortality-risk-of-mental-illness/index.html
+layout: layout.njk
 ---
 Medical conditions add to mortality risk of mental illness
 ==========================================================

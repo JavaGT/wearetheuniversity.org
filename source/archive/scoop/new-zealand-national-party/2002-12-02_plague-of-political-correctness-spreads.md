@@ -1,9 +1,12 @@
 ---
 slug: plague-of-political-correctness-spreads
-title: "Plague of Political Correctness Spreads"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00028/plague-of-political-correctness-spreads.htm
+title: Plague of Political Correctness Spreads
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00028/plague-of-political-correctness-spreads.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/02/plague-of-political-correctness-spreads/index.html
+layout: layout.njk
 ---
 Plague of Political Correctness Spreads
 =======================================

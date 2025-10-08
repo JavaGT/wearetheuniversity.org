@@ -1,9 +1,12 @@
 ---
 slug: international-enrolments-flourish-at-victoria
-title: "International enrolments flourish at Victoria"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/ED0308/S00046/international-enrolments-flourish-at-victoria.htm
+title: International enrolments flourish at Victoria
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00046/international-enrolments-flourish-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/14/international-enrolments-flourish-at-victoria/index.html
+layout: layout.njk
 ---
 International enrolments flourish at Victoria
 =============================================

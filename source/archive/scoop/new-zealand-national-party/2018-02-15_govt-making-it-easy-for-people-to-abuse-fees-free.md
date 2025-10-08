@@ -1,9 +1,13 @@
 ---
 slug: govt-making-it-easy-for-people-to-abuse-fees-free
-title: "Govt making it easy for people to abuse fees-free"
-date: 2018-02-15
-source-url: https://www.scoop.co.nz/stories/PA1802/S00142/govt-making-it-easy-for-people-to-abuse-fees-free.htm
+title: Govt making it easy for people to abuse fees-free
+date: 2018-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00142/govt-making-it-easy-for-people-to-abuse-fees-free.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/15/govt-making-it-easy-for-people-to-abuse-fees-free/index.html
+layout: layout.njk
 ---
 Govt making it easy for people to abuse fees-free
 =================================================

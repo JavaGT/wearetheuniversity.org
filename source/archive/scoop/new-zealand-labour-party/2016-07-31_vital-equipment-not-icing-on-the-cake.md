@@ -1,9 +1,12 @@
 ---
 slug: vital-equipment-not-icing-on-the-cake
-title: "Vital equipment, not icing on the cake"
-date: 2016-07-31
-source-url: https://www.scoop.co.nz/stories/PA1607/S00441/vital-equipment-not-icing-on-the-cake.htm
+title: Vital equipment, not icing on the cake
+date: 2016-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00441/vital-equipment-not-icing-on-the-cake.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/31/vital-equipment-not-icing-on-the-cake/index.html
+layout: layout.njk
 ---
 Vital equipment, not icing on the cake
 ======================================

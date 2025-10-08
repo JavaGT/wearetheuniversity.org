@@ -1,9 +1,12 @@
 ---
 slug: green-party-school-lunch-survey-(details)
-title: "Green Party School Lunch Survey (details)"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00165/green-party-school-lunch-survey-details.htm
+title: Green Party School Lunch Survey (details)
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00165/green-party-school-lunch-survey-details.htm
 author: green-party
+permalink: /archive/2005/05/06/green-party-school-lunch-survey-/index.html
+layout: layout.njk
 ---
 Green Party School Lunch Survey (details)
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: young-labour-welcomes-universal-student-allowance
-title: "Young Labour Welcomes Universal Student Allowance"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PO0810/S00208/young-labour-welcomes-universal-student-allowance.htm
+title: Young Labour Welcomes Universal Student Allowance
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00208/young-labour-welcomes-universal-student-allowance.htm
 author: young-labour
+permalink: >-
+  /archive/2008/10/14/young-labour-welcomes-universal-student-allowance/index.html
+layout: layout.njk
 ---
 Young Labour Welcomes Universal Student Allowance
 =================================================

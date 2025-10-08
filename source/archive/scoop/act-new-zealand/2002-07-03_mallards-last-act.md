@@ -1,9 +1,11 @@
 ---
 slug: mallards-last-act
-title: "Mallard's Last Act"
-date: 2002-07-03
+title: Mallard's Last Act
+date: 2002-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00107/mallards-last-act.htm
 author: act-new-zealand
+permalink: /archive/2002/07/03/mallards-last-act/index.html
+layout: layout.njk
 ---
 Mallard's Last Act
 ==================

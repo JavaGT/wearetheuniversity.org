@@ -1,9 +1,13 @@
 ---
 slug: canterbury-kids-get-more-support-for-mental-health
-title: "Canterbury kids get more support for mental health"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PA1708/S00312/canterbury-kids-get-more-support-for-mental-health.htm
+title: Canterbury kids get more support for mental health
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00312/canterbury-kids-get-more-support-for-mental-health.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/16/canterbury-kids-get-more-support-for-mental-health/index.html
+layout: layout.njk
 ---
 Canterbury kids get more support for mental health
 ==================================================

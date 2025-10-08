@@ -1,9 +1,12 @@
 ---
 slug: schools-can-choose-own-extra-curricular-spaces
-title: "Schools Can Choose Own Extra-Curricular Spaces"
-date: 2004-03-05
-source-url: https://www.scoop.co.nz/stories/PA0403/S00129/schools-can-choose-own-extra-curricular-spaces.htm
+title: Schools Can Choose Own Extra-Curricular Spaces
+date: 2004-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00129/schools-can-choose-own-extra-curricular-spaces.htm
 author: green-party
+permalink: /archive/2004/03/05/schools-can-choose-own-extra-curricular-spaces/index.html
+layout: layout.njk
 ---
 Schools Can Choose Own Extra-Curricular Spaces
 ==============================================

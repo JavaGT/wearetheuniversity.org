@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-on-us-today-show-among-other-phd-models
-title: "Canterbury student on US Today Show among other PhD models"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/ED1405/S00006/canterbury-student-on-us-today-show-among-other-phd-models.htm
+title: Canterbury student on US Today Show among other PhD models
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00006/canterbury-student-on-us-today-show-among-other-phd-models.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/01/canterbury-student-on-us-today-show-among-other-phd-models/index.html
+layout: layout.njk
 ---
 Canterbury student on US Today Show among other PhD models
 ==========================================================

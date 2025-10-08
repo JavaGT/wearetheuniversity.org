@@ -1,9 +1,13 @@
 ---
 slug: kiwi-scientists-revolutionising-x-ray-scanning-technology
-title: "Kiwi scientists revolutionising x-ray scanning technology"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/SC1804/S00004/kiwi-scientists-revolutionising-x-ray-scanning-technology.htm
+title: Kiwi scientists revolutionising x-ray scanning technology
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1804/S00004/kiwi-scientists-revolutionising-x-ray-scanning-technology.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/04/05/kiwi-scientists-revolutionising-x-ray-scanning-technology/index.html
+layout: layout.njk
 ---
 Kiwi scientists revolutionising x-ray scanning technology
 =========================================================

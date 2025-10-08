@@ -1,9 +1,12 @@
 ---
 slug: education-officials-must-act-on-concerns
-title: "Education officials must act on concerns"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/PA0703/S00455/education-officials-must-act-on-concerns.htm
+title: Education officials must act on concerns
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00455/education-officials-must-act-on-concerns.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/22/education-officials-must-act-on-concerns/index.html
+layout: layout.njk
 ---
 Education officials must act on concerns
 ========================================

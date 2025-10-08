@@ -1,9 +1,13 @@
 ---
 slug: uc-research-identifies-patterns-leading-to-terrorist-attacks
-title: "UC Research Identifies Patterns Leading to Terrorist Attacks"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/SC1305/S00044/uc-research-identifies-patterns-leading-to-terrorist-attacks.htm
+title: UC Research Identifies Patterns Leading to Terrorist Attacks
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00044/uc-research-identifies-patterns-leading-to-terrorist-attacks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/09/uc-research-identifies-patterns-leading-to-terrorist-attacks/index.html
+layout: layout.njk
 ---
 UC Research Identifies Patterns Leading to Terrorist Attacks
 ============================================================

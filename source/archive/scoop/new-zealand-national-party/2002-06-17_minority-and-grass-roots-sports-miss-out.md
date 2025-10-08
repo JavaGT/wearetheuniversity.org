@@ -1,9 +1,12 @@
 ---
 slug: minority-and-grass-roots-sports-miss-out
-title: "Minority and grass roots sports miss out"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00249/minority-and-grass-roots-sports-miss-out.htm
+title: Minority and grass roots sports miss out
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00249/minority-and-grass-roots-sports-miss-out.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/17/minority-and-grass-roots-sports-miss-out/index.html
+layout: layout.njk
 ---
 Minority and grass roots sports miss out
 ========================================

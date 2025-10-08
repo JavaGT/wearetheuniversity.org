@@ -1,9 +1,13 @@
 ---
 slug: an-attempt-to-ramp-up-support-with-a-set-of-dodgy-data
-title: "An attempt to ramp up support with a set of dodgy data"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/ED1209/S00215/an-attempt-to-ramp-up-support-with-a-set-of-dodgy-data.htm
+title: An attempt to ramp up support with a set of dodgy data
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00215/an-attempt-to-ramp-up-support-with-a-set-of-dodgy-data.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/28/an-attempt-to-ramp-up-support-with-a-set-of-dodgy-data/index.html
+layout: layout.njk
 ---
 An attempt to ramp up support with a set of dodgy data
 ======================================================

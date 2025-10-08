@@ -1,9 +1,12 @@
 ---
 slug: uc-research-into-moving-old-people-huge-issue
-title: "UC research into moving old people – huge issue"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/CU1208/S00444/uc-research-into-moving-old-people-huge-issue.htm
+title: UC research into moving old people – huge issue
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00444/uc-research-into-moving-old-people-huge-issue.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/27/uc-research-into-moving-old-people-huge-issue/index.html
+layout: layout.njk
 ---
 UC research into moving old people – huge issue
 ===============================================

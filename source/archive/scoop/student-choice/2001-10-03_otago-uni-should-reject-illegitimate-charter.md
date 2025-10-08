@@ -1,9 +1,12 @@
 ---
 slug: otago-uni-should-reject-illegitimate-charter
-title: "Otago Uni. Should Reject Illegitimate Charter"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/ED0110/S00003/otago-uni-should-reject-illegitimate-charter.htm
+title: Otago Uni. Should Reject Illegitimate Charter
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00003/otago-uni-should-reject-illegitimate-charter.htm
 author: student-choice
+permalink: /archive/2001/10/03/otago-uni-should-reject-illegitimate-charter/index.html
+layout: layout.njk
 ---
 Otago Uni. Should Reject Illegitimate Charter
 =============================================

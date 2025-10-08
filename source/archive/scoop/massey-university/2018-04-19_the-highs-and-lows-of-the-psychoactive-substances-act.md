@@ -1,9 +1,13 @@
 ---
 slug: the-highs-and-lows-of-the-psychoactive-substances-act
-title: "The highs and lows of the Psychoactive Substances Act"
-date: 2018-04-19
-source-url: https://www.scoop.co.nz/stories/ED1804/S00048/the-highs-and-lows-of-the-psychoactive-substances-act.htm
+title: The highs and lows of the Psychoactive Substances Act
+date: 2018-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00048/the-highs-and-lows-of-the-psychoactive-substances-act.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/19/the-highs-and-lows-of-the-psychoactive-substances-act/index.html
+layout: layout.njk
 ---
 The highs and lows of the Psychoactive Substances Act
 =====================================================

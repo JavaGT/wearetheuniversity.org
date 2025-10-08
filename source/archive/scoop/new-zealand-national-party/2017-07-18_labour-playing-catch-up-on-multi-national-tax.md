@@ -1,9 +1,12 @@
 ---
 slug: labour-playing-catch-up-on-multi-national-tax
-title: "Labour playing catch-up on multi-national tax"
-date: 2017-07-18
-source-url: https://www.scoop.co.nz/stories/PA1707/S00252/labour-playing-catch-up-on-multi-national-tax.htm
+title: Labour playing catch-up on multi-national tax
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00252/labour-playing-catch-up-on-multi-national-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2017/07/18/labour-playing-catch-up-on-multi-national-tax/index.html
+layout: layout.njk
 ---
 Labour playing catch-up on multi-national tax
 =============================================

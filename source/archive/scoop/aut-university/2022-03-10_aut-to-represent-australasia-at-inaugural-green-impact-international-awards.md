@@ -1,9 +1,13 @@
 ---
 slug: aut-to-represent-australasia-at-inaugural-green-impact-international-awards
-title: "AUT To Represent Australasia At Inaugural Green Impact International Awards"
-date: 2022-03-10
-source-url: https://www.scoop.co.nz/stories/ED2203/S00017/aut-to-represent-australasia-at-inaugural-green-impact-international-awards.htm
+title: AUT To Represent Australasia At Inaugural Green Impact International Awards
+date: 2022-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00017/aut-to-represent-australasia-at-inaugural-green-impact-international-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2022/03/10/aut-to-represent-australasia-at-inaugural-green-impact-international-awards/index.html
+layout: layout.njk
 ---
 AUT To Represent Australasia At Inaugural Green Impact International Awards
 ===========================================================================

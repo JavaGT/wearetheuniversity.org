@@ -1,9 +1,12 @@
 ---
 slug: bailey-junior-was-hidden-by-education-minister
-title: "Bailey Junior was Hidden by Education Minister"
-date: 2002-09-17
-source-url: https://www.scoop.co.nz/stories/PA0209/S00277/bailey-junior-was-hidden-by-education-minister.htm
+title: Bailey Junior was Hidden by Education Minister
+date: 2002-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00277/bailey-junior-was-hidden-by-education-minister.htm
 author: act-new-zealand
+permalink: /archive/2002/09/17/bailey-junior-was-hidden-by-education-minister/index.html
+layout: layout.njk
 ---
 Bailey Junior was Hidden by Education Minister
 ==============================================

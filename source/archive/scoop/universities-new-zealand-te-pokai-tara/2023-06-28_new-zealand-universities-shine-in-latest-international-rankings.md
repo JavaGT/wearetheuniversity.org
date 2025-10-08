@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-universities-shine-in-latest-international-rankings
-title: "New Zealand Universities Shine In Latest International Rankings"
-date: 2023-06-28
-source-url: https://www.scoop.co.nz/stories/ED2306/S00036/new-zealand-universities-shine-in-latest-international-rankings.htm
+title: New Zealand Universities Shine In Latest International Rankings
+date: 2023-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00036/new-zealand-universities-shine-in-latest-international-rankings.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/06/28/new-zealand-universities-shine-in-latest-international-rankings/index.html
+layout: layout.njk
 ---
 New Zealand Universities Shine In Latest International Rankings
 ===============================================================

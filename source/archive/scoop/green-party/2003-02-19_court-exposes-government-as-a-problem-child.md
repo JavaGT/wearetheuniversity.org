@@ -1,9 +1,12 @@
 ---
 slug: court-exposes-government-as-a-problem-child
-title: "Court exposes government as a problem child"
-date: 2003-02-19
-source-url: https://www.scoop.co.nz/stories/PA0302/S00343/court-exposes-government-as-a-problem-child.htm
+title: Court exposes government as a problem child
+date: 2003-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00343/court-exposes-government-as-a-problem-child.htm
 author: green-party
+permalink: /archive/2003/02/19/court-exposes-government-as-a-problem-child/index.html
+layout: layout.njk
 ---
 Court exposes government as a problem child
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: nzqa-research-worthless-says-university-staff
-title: "NZQA research worthless, says university staff"
-date: 2006-04-20
-source-url: https://www.scoop.co.nz/stories/ED0604/S00069/nzqa-research-worthless-says-university-staff.htm
+title: NZQA research worthless, says university staff
+date: 2006-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00069/nzqa-research-worthless-says-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2006/04/20/nzqa-research-worthless-says-university-staff/index.html
+layout: layout.njk
 ---
 NZQA research worthless, says university staff
 ==============================================

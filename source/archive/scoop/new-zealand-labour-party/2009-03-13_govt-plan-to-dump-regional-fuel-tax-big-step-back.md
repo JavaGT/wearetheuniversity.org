@@ -1,9 +1,13 @@
 ---
 slug: govt-plan-to-dump-regional-fuel-tax-big-step-back
-title: "Govt plan to dump regional fuel tax big step back"
-date: 2009-03-13
-source-url: https://www.scoop.co.nz/stories/PA0903/S00212/govt-plan-to-dump-regional-fuel-tax-big-step-back.htm
+title: Govt plan to dump regional fuel tax big step back
+date: 2009-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00212/govt-plan-to-dump-regional-fuel-tax-big-step-back.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/13/govt-plan-to-dump-regional-fuel-tax-big-step-back/index.html
+layout: layout.njk
 ---
 Govt plan to dump regional fuel tax big step back
 =================================================

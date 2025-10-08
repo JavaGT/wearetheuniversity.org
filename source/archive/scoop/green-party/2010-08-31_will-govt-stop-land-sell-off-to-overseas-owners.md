@@ -1,9 +1,12 @@
 ---
 slug: will-govt-stop-land-sell-off-to-overseas-owners
-title: "Will Govt. stop land sell-off to overseas owners?"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/PA1008/S00495/will-govt-stop-land-sell-off-to-overseas-owners.htm
+title: Will Govt. stop land sell-off to overseas owners?
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00495/will-govt-stop-land-sell-off-to-overseas-owners.htm
 author: green-party
+permalink: /archive/2010/08/31/will-govt-stop-land-sell-off-to-overseas-owners/index.html
+layout: layout.njk
 ---
 Will Govt. stop land sell-off to overseas owners?
 =================================================

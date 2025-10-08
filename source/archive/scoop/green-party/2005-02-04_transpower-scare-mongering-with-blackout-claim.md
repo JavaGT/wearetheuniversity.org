@@ -1,9 +1,12 @@
 ---
 slug: transpower-scare-mongering-with-blackout-claim
-title: "Transpower Scare Mongering With Blackout Claim"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/PA0502/S00120/transpower-scare-mongering-with-blackout-claim.htm
+title: Transpower Scare Mongering With Blackout Claim
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00120/transpower-scare-mongering-with-blackout-claim.htm
 author: green-party
+permalink: /archive/2005/02/04/transpower-scare-mongering-with-blackout-claim/index.html
+layout: layout.njk
 ---
 Transpower Scare Mongering With Blackout Claim
 ==============================================

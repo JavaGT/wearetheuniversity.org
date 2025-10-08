@@ -1,9 +1,13 @@
 ---
 slug: bigger-emphasis-on-tertiary-education-needed-in-hrc-agenda
-title: "Bigger emphasis on tertiary education needed in HRC agenda"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/PO1211/S00443/bigger-emphasis-on-tertiary-education-needed-in-hrc-agenda.htm
+title: Bigger emphasis on tertiary education needed in HRC agenda
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00443/bigger-emphasis-on-tertiary-education-needed-in-hrc-agenda.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/11/30/bigger-emphasis-on-tertiary-education-needed-in-hrc-agenda/index.html
+layout: layout.njk
 ---
 Bigger emphasis on tertiary education needed in HRC agenda
 ==========================================================

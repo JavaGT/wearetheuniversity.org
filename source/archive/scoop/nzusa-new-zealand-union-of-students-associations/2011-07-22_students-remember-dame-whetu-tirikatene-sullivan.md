@@ -1,9 +1,13 @@
 ---
 slug: students-remember-dame-whetu-tirikatene-sullivan
-title: "Students remember Dame Whetu Tirikatene-Sullivan"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/PO1107/S00263/students-remember-dame-whetu-tirikatene-sullivan.htm
+title: Students remember Dame Whetu Tirikatene-Sullivan
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00263/students-remember-dame-whetu-tirikatene-sullivan.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/07/22/students-remember-dame-whetu-tirikatene-sullivan/index.html
+layout: layout.njk
 ---
 Students remember Dame Whetu Tirikatene-Sullivan
 ================================================

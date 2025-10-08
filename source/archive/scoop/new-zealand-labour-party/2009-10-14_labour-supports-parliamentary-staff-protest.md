@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-parliamentary-staff-protest
-title: "Labour supports Parliamentary staff protest"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/PA0910/S00161/labour-supports-parliamentary-staff-protest.htm
+title: Labour supports Parliamentary staff protest
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00161/labour-supports-parliamentary-staff-protest.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/14/labour-supports-parliamentary-staff-protest/index.html
+layout: layout.njk
 ---
 Labour supports Parliamentary staff protest
 ===========================================

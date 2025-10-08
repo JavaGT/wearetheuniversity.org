@@ -1,9 +1,12 @@
 ---
 slug: canterbury-disaster-response-knowledge-shared
-title: "Canterbury disaster response knowledge shared"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/PO1709/S00395/canterbury-disaster-response-knowledge-shared.htm
+title: Canterbury disaster response knowledge shared
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00395/canterbury-disaster-response-knowledge-shared.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/21/canterbury-disaster-response-knowledge-shared/index.html
+layout: layout.njk
 ---
 Canterbury disaster response knowledge shared
 =============================================

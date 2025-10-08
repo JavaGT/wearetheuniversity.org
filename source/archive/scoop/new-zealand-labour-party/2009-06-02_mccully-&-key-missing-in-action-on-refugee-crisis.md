@@ -1,9 +1,12 @@
 ---
 slug: mccully-&-key-missing-in-action-on-refugee-crisis
-title: "McCully & Key missing in action on refugee crisis"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/PA0906/S00015/mccully-key-missing-in-action-on-refugee-crisis.htm
+title: McCully & Key missing in action on refugee crisis
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00015/mccully-key-missing-in-action-on-refugee-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/02/mccully-/index.html
+layout: layout.njk
 ---
 McCully & Key missing in action on refugee crisis
 =================================================

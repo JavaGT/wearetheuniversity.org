@@ -1,9 +1,13 @@
 ---
 slug: changes-to-constitution-of-the-university-of-waikato-council
-title: "Changes to Constitution of the University of Waikato Council"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/ED1506/S00002/changes-to-constitution-of-the-university-of-waikato-council.htm
+title: Changes to Constitution of the University of Waikato Council
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00002/changes-to-constitution-of-the-university-of-waikato-council.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/06/02/changes-to-constitution-of-the-university-of-waikato-council/index.html
+layout: layout.njk
 ---
 Changes to Constitution of the University of Waikato Council
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: stomach-cancer-likely-cause-of-dolphin-death
-title: "Stomach cancer likely cause of dolphin death"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/SC0809/S00046/stomach-cancer-likely-cause-of-dolphin-death.htm
+title: Stomach cancer likely cause of dolphin death
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0809/S00046/stomach-cancer-likely-cause-of-dolphin-death.htm
 author: massey-university
+permalink: /archive/2008/09/12/stomach-cancer-likely-cause-of-dolphin-death/index.html
+layout: layout.njk
 ---
 Stomach cancer likely cause of dolphin death
 ============================================

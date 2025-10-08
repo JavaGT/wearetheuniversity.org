@@ -1,9 +1,11 @@
 ---
 slug: 24-hours-for-$10-billion
-title: "24 hours for $10 Billion"
-date: 2008-04-08
+title: 24 hours for $10 Billion
+date: 2008-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0804/S00018/24-hours-for-10-billion.htm
 author: auckland-university-students-association
+permalink: /archive/2008/04/08/24-hours-for-/index.html
+layout: layout.njk
 ---
 24 hours for $10 Billion
 ========================

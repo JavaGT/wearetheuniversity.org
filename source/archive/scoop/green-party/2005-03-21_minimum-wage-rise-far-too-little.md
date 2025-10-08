@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-rise-far-too-little
-title: "Minimum wage rise far too little"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00427/minimum-wage-rise-far-too-little.htm
+title: Minimum wage rise far too little
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00427/minimum-wage-rise-far-too-little.htm
 author: green-party
+permalink: /archive/2005/03/21/minimum-wage-rise-far-too-little/index.html
+layout: layout.njk
 ---
 Minimum wage rise far too little
 ================================

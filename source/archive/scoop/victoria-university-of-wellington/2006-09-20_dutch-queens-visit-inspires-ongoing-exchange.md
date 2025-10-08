@@ -1,9 +1,12 @@
 ---
 slug: dutch-queens-visit-inspires-ongoing-exchange
-title: "Dutch Queen's visit inspires ongoing exchange"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/ED0609/S00081/dutch-queens-visit-inspires-ongoing-exchange.htm
+title: Dutch Queen's visit inspires ongoing exchange
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00081/dutch-queens-visit-inspires-ongoing-exchange.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/20/dutch-queens-visit-inspires-ongoing-exchange/index.html
+layout: layout.njk
 ---
 Dutch Queen's visit inspires ongoing exchange
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: preparing-for-a-disaster
-title: "Preparing for a Disaster"
-date: 2016-02-19
+title: Preparing for a Disaster
+date: 2016-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1602/S00504/preparing-for-a-disaster.htm
 author: massey-university
+permalink: /archive/2016/02/19/preparing-for-a-disaster/index.html
+layout: layout.njk
 ---
 Preparing for a Disaster
 ========================

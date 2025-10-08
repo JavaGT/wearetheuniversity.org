@@ -1,9 +1,12 @@
 ---
 slug: hon-jo-goodhew-in-focus-28-january-2016
-title: "Hon Jo Goodhew: In Focus: 28 January 2016"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00160/hon-jo-goodhew-in-focus-28-january-2016.htm
+title: 'Hon Jo Goodhew: In Focus: 28 January 2016'
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00160/hon-jo-goodhew-in-focus-28-january-2016.htm
 author: new-zealand-national-party
+permalink: /archive/2016/01/28/hon-jo-goodhew-in-focus-28-january-2016/index.html
+layout: layout.njk
 ---
 Hon Jo Goodhew: In Focus: 28 January 2016
 =========================================

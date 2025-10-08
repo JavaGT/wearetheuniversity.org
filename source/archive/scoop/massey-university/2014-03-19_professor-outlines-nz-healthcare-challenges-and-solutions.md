@@ -1,9 +1,13 @@
 ---
 slug: professor-outlines-nz-healthcare-challenges-and-solutions
-title: "Professor outlines NZ healthcare challenges and solutions"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/GE1403/S00094/professor-outlines-nz-healthcare-challenges-and-solutions.htm
+title: Professor outlines NZ healthcare challenges and solutions
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00094/professor-outlines-nz-healthcare-challenges-and-solutions.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/19/professor-outlines-nz-healthcare-challenges-and-solutions/index.html
+layout: layout.njk
 ---
 Professor outlines NZ healthcare challenges and solutions
 =========================================================

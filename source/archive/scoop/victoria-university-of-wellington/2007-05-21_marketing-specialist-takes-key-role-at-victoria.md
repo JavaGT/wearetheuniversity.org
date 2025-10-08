@@ -1,9 +1,12 @@
 ---
 slug: marketing-specialist-takes-key-role-at-victoria
-title: "Marketing specialist takes key role at Victoria"
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/ED0705/S00084/marketing-specialist-takes-key-role-at-victoria.htm
+title: Marketing specialist takes key role at Victoria
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00084/marketing-specialist-takes-key-role-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/21/marketing-specialist-takes-key-role-at-victoria/index.html
+layout: layout.njk
 ---
 Marketing specialist takes key role at Victoria
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: electronic-banking-frustrating-for-customers
-title: "Electronic banking frustrating for customers"
-date: 2011-06-10
-source-url: https://www.scoop.co.nz/stories/ED1106/S00048/electronic-banking-frustrating-for-customers.htm
+title: Electronic banking frustrating for customers
+date: 2011-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00048/electronic-banking-frustrating-for-customers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/10/electronic-banking-frustrating-for-customers/index.html
+layout: layout.njk
 ---
 Electronic banking frustrating for customers
 ============================================

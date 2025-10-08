@@ -1,9 +1,12 @@
 ---
 slug: poems-reveal-inner-life-of-a-new-settler
-title: "Poems Reveal Inner Life of a New Settler"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/CU1504/S00249/poems-reveal-inner-life-of-a-new-settler.htm
+title: Poems Reveal Inner Life of a New Settler
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00249/poems-reveal-inner-life-of-a-new-settler.htm
 author: massey-university
+permalink: /archive/2015/04/15/poems-reveal-inner-life-of-a-new-settler/index.html
+layout: layout.njk
 ---
 Poems Reveal Inner Life of a New Settler
 ========================================

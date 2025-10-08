@@ -1,9 +1,13 @@
 ---
 slug: east-side-stories-a-survey-of-two-contrasting-suburbs-uc
-title: "East Side Stories: A Survey Of Two Contrasting Suburbs – UC"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/ED1301/S00093/east-side-stories-a-survey-of-two-contrasting-suburbs-uc.htm
+title: 'East Side Stories: A Survey Of Two Contrasting Suburbs – UC'
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00093/east-side-stories-a-survey-of-two-contrasting-suburbs-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/29/east-side-stories-a-survey-of-two-contrasting-suburbs-uc/index.html
+layout: layout.njk
 ---
 East Side Stories: A Survey Of Two Contrasting Suburbs – UC
 ===========================================================

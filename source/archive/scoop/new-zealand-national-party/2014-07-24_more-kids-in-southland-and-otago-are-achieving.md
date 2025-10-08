@@ -1,9 +1,12 @@
 ---
 slug: more-kids-in-southland-and-otago-are-achieving
-title: "More kids in Southland and Otago are achieving"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PO1407/S00397/more-kids-in-southland-and-otago-are-achieving.htm
+title: More kids in Southland and Otago are achieving
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00397/more-kids-in-southland-and-otago-are-achieving.htm
 author: new-zealand-national-party
+permalink: /archive/2014/07/24/more-kids-in-southland-and-otago-are-achieving/index.html
+layout: layout.njk
 ---
 More kids in Southland and Otago are achieving
 ==============================================

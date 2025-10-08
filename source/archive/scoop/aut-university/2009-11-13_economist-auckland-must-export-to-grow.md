@@ -1,9 +1,12 @@
 ---
 slug: economist-auckland-must-export-to-grow
-title: "Economist: Auckland Must Export to Grow"
-date: 2009-11-13
-source-url: https://www.scoop.co.nz/stories/BU0911/S00427/economist-auckland-must-export-to-grow.htm
+title: 'Economist: Auckland Must Export to Grow'
+date: 2009-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00427/economist-auckland-must-export-to-grow.htm
 author: aut-university
+permalink: /archive/2009/11/13/economist-auckland-must-export-to-grow/index.html
+layout: layout.njk
 ---
 Economist: Auckland Must Export to Grow
 =======================================

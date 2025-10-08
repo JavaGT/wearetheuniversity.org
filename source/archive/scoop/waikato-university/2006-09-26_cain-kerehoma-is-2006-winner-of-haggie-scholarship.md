@@ -1,9 +1,13 @@
 ---
 slug: cain-kerehoma-is-2006-winner-of-haggie-scholarship
-title: "Cain Kerehoma is 2006 winner of Haggie Scholarship"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/ED0609/S00099/cain-kerehoma-is-2006-winner-of-haggie-scholarship.htm
+title: Cain Kerehoma is 2006 winner of Haggie Scholarship
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00099/cain-kerehoma-is-2006-winner-of-haggie-scholarship.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/09/26/cain-kerehoma-is-2006-winner-of-haggie-scholarship/index.html
+layout: layout.njk
 ---
 Cain Kerehoma is 2006 winner of Haggie Scholarship
 ==================================================

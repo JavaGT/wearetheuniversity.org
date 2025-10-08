@@ -1,9 +1,13 @@
 ---
 slug: labour-blocks-inquiry-into-mental-health-facilities
-title: "Labour Blocks Inquiry Into Mental Health Facilities"
-date: 2021-07-07
-source-url: https://www.scoop.co.nz/stories/PA2107/S00065/labour-blocks-inquiry-into-mental-health-facilities.htm
+title: Labour Blocks Inquiry Into Mental Health Facilities
+date: 2021-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00065/labour-blocks-inquiry-into-mental-health-facilities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/07/labour-blocks-inquiry-into-mental-health-facilities/index.html
+layout: layout.njk
 ---
 Labour Blocks Inquiry Into Mental Health Facilities
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: second-māori-language-learning-app-developed-for-beginners
-title: "Second Māori language learning app developed for beginners"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/ED1502/S00045/second-maori-language-learning-app-developed-for-beginners.htm
+title: Second Māori language learning app developed for beginners
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00045/second-maori-language-learning-app-developed-for-beginners.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/02/13/second-m/index.html
+layout: layout.njk
 ---
 Second Māori language learning app developed for beginners
 ==========================================================

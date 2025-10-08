@@ -1,9 +1,12 @@
 ---
 slug: court-injunction-casts-doubt-over-rankings
-title: "Court injunction casts doubt over rankings"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/PA0403/S00417/court-injunction-casts-doubt-over-rankings.htm
+title: Court injunction casts doubt over rankings
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00417/court-injunction-casts-doubt-over-rankings.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/18/court-injunction-casts-doubt-over-rankings/index.html
+layout: layout.njk
 ---
 Court injunction casts doubt over rankings
 ==========================================

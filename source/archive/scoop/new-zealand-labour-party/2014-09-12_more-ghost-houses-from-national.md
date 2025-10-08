@@ -1,9 +1,12 @@
 ---
 slug: more-ghost-houses-from-national
-title: "More ghost houses from National"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PA1409/S00185/more-ghost-houses-from-national.htm
+title: More ghost houses from National
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00185/more-ghost-houses-from-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/12/more-ghost-houses-from-national/index.html
+layout: layout.njk
 ---
 More ghost houses from National
 ===============================

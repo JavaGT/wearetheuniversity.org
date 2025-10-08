@@ -1,9 +1,12 @@
 ---
 slug: nationals-plan-allows-for-vaccinated-travel
-title: "National’s Plan Allows For Vaccinated Travel"
-date: 2021-09-29
-source-url: https://www.scoop.co.nz/stories/PA2109/S00264/nationals-plan-allows-for-vaccinated-travel.htm
+title: National’s Plan Allows For Vaccinated Travel
+date: 2021-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00264/nationals-plan-allows-for-vaccinated-travel.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/29/nationals-plan-allows-for-vaccinated-travel/index.html
+layout: layout.njk
 ---
 National’s Plan Allows For Vaccinated Travel
 ============================================

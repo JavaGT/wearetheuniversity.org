@@ -1,9 +1,12 @@
 ---
 slug: parkinsons-diseases-and-brain-disorders
-title: "Parkinson’s Diseases And Brain Disorders"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/GE0505/S00169/parkinsons-diseases-and-brain-disorders.htm
+title: Parkinson’s Diseases And Brain Disorders
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0505/S00169/parkinsons-diseases-and-brain-disorders.htm
 author: university-of-otago
+permalink: /archive/2005/05/23/parkinsons-diseases-and-brain-disorders/index.html
+layout: layout.njk
 ---
 Parkinson’s Diseases And Brain Disorders
 ========================================

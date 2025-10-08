@@ -1,9 +1,13 @@
 ---
 slug: mental-health-the-focus-of-three-major-conferences
-title: "Mental Health The Focus Of Three Major Conferences"
-date: 2003-12-01
-source-url: https://www.scoop.co.nz/stories/ED0312/S00001/mental-health-the-focus-of-three-major-conferences.htm
+title: Mental Health The Focus Of Three Major Conferences
+date: 2003-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00001/mental-health-the-focus-of-three-major-conferences.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/12/01/mental-health-the-focus-of-three-major-conferences/index.html
+layout: layout.njk
 ---
 Mental Health The Focus Of Three Major Conferences
 ==================================================

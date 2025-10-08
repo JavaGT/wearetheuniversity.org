@@ -1,9 +1,12 @@
 ---
 slug: act-free-press-the-bcs-prime-minister
-title: "ACT Free Press -The BCS Prime Minister"
-date: 2018-09-17
-source-url: https://www.scoop.co.nz/stories/PO1809/S00182/act-free-press-the-bcs-prime-minister.htm
+title: ACT Free Press -The BCS Prime Minister
+date: 2018-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00182/act-free-press-the-bcs-prime-minister.htm
 author: act-new-zealand
+permalink: /archive/2018/09/17/act-free-press-the-bcs-prime-minister/index.html
+layout: layout.njk
 ---
 ACT Free Press -The BCS Prime Minister
 ======================================

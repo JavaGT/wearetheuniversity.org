@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-melodrama-and-auckld-airport
-title: "Heather Roy's Diary: Melodrama And Auckld Airport"
-date: 2008-03-07
-source-url: https://www.scoop.co.nz/stories/PA0803/S00131/heather-roys-diary-melodrama-and-auckld-airport.htm
+title: 'Heather Roy''s Diary: Melodrama And Auckld Airport'
+date: 2008-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00131/heather-roys-diary-melodrama-and-auckld-airport.htm
 author: act-new-zealand
+permalink: /archive/2008/03/07/heather-roys-diary-melodrama-and-auckld-airport/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Melodrama And Auckld Airport
 =================================================

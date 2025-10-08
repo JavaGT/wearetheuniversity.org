@@ -1,9 +1,12 @@
 ---
 slug: safe-sleeping-for-newborn-babies
-title: "Safe Sleeping for Newborn Babies"
-date: 2011-02-09
-source-url: https://www.scoop.co.nz/stories/GE1102/S00043/safe-sleeping-for-newborn-babies.htm
+title: Safe Sleeping for Newborn Babies
+date: 2011-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1102/S00043/safe-sleeping-for-newborn-babies.htm
 author: auckland-university
+permalink: /archive/2011/02/09/safe-sleeping-for-newborn-babies/index.html
+layout: layout.njk
 ---
 Safe Sleeping for Newborn Babies
 ================================

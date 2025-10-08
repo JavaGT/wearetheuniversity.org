@@ -1,9 +1,13 @@
 ---
 slug: proposal-to-make-honey-from-mangroves-wins-competition
-title: "Proposal to make honey from mangroves wins competition"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/ED1105/S00069/proposal-to-make-honey-from-mangroves-wins-competition.htm
+title: Proposal to make honey from mangroves wins competition
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00069/proposal-to-make-honey-from-mangroves-wins-competition.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/18/proposal-to-make-honey-from-mangroves-wins-competition/index.html
+layout: layout.njk
 ---
 Proposal to make honey from mangroves wins competition
 ======================================================

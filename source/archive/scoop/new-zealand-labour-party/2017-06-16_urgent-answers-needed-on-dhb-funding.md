@@ -1,9 +1,12 @@
 ---
 slug: urgent-answers-needed-on-dhb-funding
-title: "Urgent answers needed on DHB funding"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/PA1706/S00276/urgent-answers-needed-on-dhb-funding.htm
+title: Urgent answers needed on DHB funding
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00276/urgent-answers-needed-on-dhb-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/16/urgent-answers-needed-on-dhb-funding/index.html
+layout: layout.njk
 ---
 Urgent answers needed on DHB funding
 ====================================

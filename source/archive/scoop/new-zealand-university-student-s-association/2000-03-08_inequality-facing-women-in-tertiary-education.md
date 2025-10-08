@@ -1,9 +1,12 @@
 ---
 slug: inequality-facing-women-in-tertiary-education
-title: "Inequality Facing Women In Tertiary Education"
-date: 2000-03-08
-source-url: https://www.scoop.co.nz/stories/ED0003/S00014/inequality-facing-women-in-tertiary-education.htm
+title: Inequality Facing Women In Tertiary Education
+date: 2000-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00014/inequality-facing-women-in-tertiary-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/03/08/inequality-facing-women-in-tertiary-education/index.html
+layout: layout.njk
 ---
 Inequality Facing Women In Tertiary Education
 =============================================

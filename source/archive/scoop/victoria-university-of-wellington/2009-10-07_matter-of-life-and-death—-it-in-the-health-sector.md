@@ -1,9 +1,12 @@
 ---
 slug: matter-of-life-and-death—-it-in-the-health-sector
-title: "Matter of life and death— IT in the health sector"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/ED0910/S00023/matter-of-life-and-death-it-in-the-health-sector.htm
+title: Matter of life and death— IT in the health sector
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00023/matter-of-life-and-death-it-in-the-health-sector.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/07/matter-of-life-and-death/index.html
+layout: layout.njk
 ---
 Matter of life and death— IT in the health sector
 =================================================

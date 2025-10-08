@@ -1,9 +1,12 @@
 ---
 slug: largest-study-of-older-persons-care-launched
-title: "Largest Study of Older Person’s Care Launched"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/ED0309/S00074/largest-study-of-older-persons-care-launched.htm
+title: Largest Study of Older Person’s Care Launched
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00074/largest-study-of-older-persons-care-launched.htm
 author: auckland-university
+permalink: /archive/2003/09/18/largest-study-of-older-persons-care-launched/index.html
+layout: layout.njk
 ---
 Largest Study of Older Person’s Care Launched
 =============================================

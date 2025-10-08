@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-social-media-study-to-monitor-2023-election-campaign
-title: "New Zealand Social Media Study To Monitor 2023 Election Campaign"
-date: 2023-09-20
-source-url: https://www.scoop.co.nz/stories/PO2309/S00161/new-zealand-social-media-study-to-monitor-2023-election-campaign.htm
+title: New Zealand Social Media Study To Monitor 2023 Election Campaign
+date: 2023-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00161/new-zealand-social-media-study-to-monitor-2023-election-campaign.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/09/20/new-zealand-social-media-study-to-monitor-2023-election-campaign/index.html
+layout: layout.njk
 ---
 New Zealand Social Media Study To Monitor 2023 Election Campaign
 ================================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-pleased-at-call-in-decision
-title: "National pleased at call-in decision"
-date: 2007-08-09
-source-url: https://www.scoop.co.nz/stories/PA0708/S00164/national-pleased-at-call-in-decision.htm
+title: National pleased at call-in decision
+date: 2007-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00164/national-pleased-at-call-in-decision.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/09/national-pleased-at-call-in-decision/index.html
+layout: layout.njk
 ---
 National pleased at call-in decision
 ====================================

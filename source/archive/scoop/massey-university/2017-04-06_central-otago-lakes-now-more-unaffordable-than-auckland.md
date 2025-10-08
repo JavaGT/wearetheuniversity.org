@@ -1,9 +1,13 @@
 ---
 slug: central-otago-lakes-now-more-unaffordable-than-auckland
-title: "Central Otago Lakes now more unaffordable than Auckland"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/AK1704/S00167/central-otago-lakes-now-more-unaffordable-than-auckland.htm
+title: Central Otago Lakes now more unaffordable than Auckland
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1704/S00167/central-otago-lakes-now-more-unaffordable-than-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2017/04/06/central-otago-lakes-now-more-unaffordable-than-auckland/index.html
+layout: layout.njk
 ---
 Central Otago Lakes now more unaffordable than Auckland
 =======================================================

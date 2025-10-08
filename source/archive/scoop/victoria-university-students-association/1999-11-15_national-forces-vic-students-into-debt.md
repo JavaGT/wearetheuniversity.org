@@ -1,9 +1,12 @@
 ---
 slug: national-forces-vic-students-into-debt
-title: "National Forces Vic Students Into Debt"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PO9911/S00092/national-forces-vic-students-into-debt.htm
+title: National Forces Vic Students Into Debt
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00092/national-forces-vic-students-into-debt.htm
 author: victoria-university-students-association
+permalink: /archive/1999/11/15/national-forces-vic-students-into-debt/index.html
+layout: layout.njk
 ---
 National Forces Vic Students Into Debt
 ======================================

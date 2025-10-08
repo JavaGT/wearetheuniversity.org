@@ -1,9 +1,13 @@
 ---
 slug: nz-journal-of-tertiary-education-policy-launched
-title: "NZ Journal of Tertiary Education Policy Launched"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/ED0406/S00094/nz-journal-of-tertiary-education-policy-launched.htm
+title: NZ Journal of Tertiary Education Policy Launched
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00094/nz-journal-of-tertiary-education-policy-launched.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/06/25/nz-journal-of-tertiary-education-policy-launched/index.html
+layout: layout.njk
 ---
 NZ Journal of Tertiary Education Policy Launched
 ================================================

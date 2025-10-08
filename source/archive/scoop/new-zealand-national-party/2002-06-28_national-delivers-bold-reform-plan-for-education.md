@@ -1,9 +1,13 @@
 ---
 slug: national-delivers-bold-reform-plan-for-education
-title: "National delivers bold reform plan  for education"
-date: 2002-06-28
-source-url: https://www.scoop.co.nz/stories/PA0206/S00509/national-delivers-bold-reform-plan-for-education.htm
+title: National delivers bold reform plan  for education
+date: 2002-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00509/national-delivers-bold-reform-plan-for-education.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/06/28/national-delivers-bold-reform-plan-for-education/index.html
+layout: layout.njk
 ---
 National delivers bold reform plan for education
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: salad-bar-reaches-top-three-in-competition
-title: "Salad bar reaches top three in competition"
-date: 2009-03-31
-source-url: https://www.scoop.co.nz/stories/BU0903/S00713/salad-bar-reaches-top-three-in-competition.htm
+title: Salad bar reaches top three in competition
+date: 2009-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0903/S00713/salad-bar-reaches-top-three-in-competition.htm
 author: university-of-waikato
+permalink: /archive/2009/03/31/salad-bar-reaches-top-three-in-competition/index.html
+layout: layout.njk
 ---
 Salad bar reaches top three in competition
 ==========================================

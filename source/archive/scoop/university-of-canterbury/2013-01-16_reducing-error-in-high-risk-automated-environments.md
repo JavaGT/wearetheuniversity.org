@@ -1,9 +1,13 @@
 ---
 slug: reducing-error-in-high-risk-automated-environments
-title: "Reducing error in high-risk automated environments"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/SC1301/S00023/reducing-error-in-high-risk-automated-environments.htm
+title: Reducing error in high-risk automated environments
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00023/reducing-error-in-high-risk-automated-environments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/16/reducing-error-in-high-risk-automated-environments/index.html
+layout: layout.njk
 ---
 Reducing error in high-risk automated environments
 ==================================================

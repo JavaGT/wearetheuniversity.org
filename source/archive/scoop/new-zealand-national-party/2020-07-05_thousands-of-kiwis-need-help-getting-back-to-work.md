@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-kiwis-need-help-getting-back-to-work
-title: "Thousands Of Kiwis Need Help Getting Back To Work"
-date: 2020-07-05
-source-url: https://www.scoop.co.nz/stories/PA2007/S00052/thousands-of-kiwis-need-help-getting-back-to-work.htm
+title: Thousands Of Kiwis Need Help Getting Back To Work
+date: 2020-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00052/thousands-of-kiwis-need-help-getting-back-to-work.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/05/thousands-of-kiwis-need-help-getting-back-to-work/index.html
+layout: layout.njk
 ---
 Thousands Of Kiwis Need Help Getting Back To Work
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: harawira-affordable-housing-bill
-title: "Harawira: Affordable Housing Bill"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00263/harawira-affordable-housing-bill.htm
+title: 'Harawira: Affordable Housing Bill'
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00263/harawira-affordable-housing-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/13/harawira-affordable-housing-bill/index.html
+layout: layout.njk
 ---
 Harawira: Affordable Housing Bill
 =================================

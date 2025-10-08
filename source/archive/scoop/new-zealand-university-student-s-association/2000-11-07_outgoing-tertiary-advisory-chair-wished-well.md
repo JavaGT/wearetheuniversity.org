@@ -1,9 +1,12 @@
 ---
 slug: outgoing-tertiary-advisory-chair-wished-well
-title: "Outgoing Tertiary Advisory Chair Wished Well"
-date: 2000-11-07
-source-url: https://www.scoop.co.nz/stories/ED0011/S00015/outgoing-tertiary-advisory-chair-wished-well.htm
+title: Outgoing Tertiary Advisory Chair Wished Well
+date: 2000-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00015/outgoing-tertiary-advisory-chair-wished-well.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/11/07/outgoing-tertiary-advisory-chair-wished-well/index.html
+layout: layout.njk
 ---
 Outgoing Tertiary Advisory Chair Wished Well
 ============================================

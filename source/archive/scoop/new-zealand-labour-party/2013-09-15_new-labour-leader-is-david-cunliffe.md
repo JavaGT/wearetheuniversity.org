@@ -1,9 +1,12 @@
 ---
 slug: new-labour-leader-is-david-cunliffe
-title: "New Labour leader is David Cunliffe"
-date: 2013-09-15
-source-url: https://www.scoop.co.nz/stories/PO1309/S00151/new-labour-leader-is-david-cunliffe.htm
+title: New Labour leader is David Cunliffe
+date: 2013-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00151/new-labour-leader-is-david-cunliffe.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/15/new-labour-leader-is-david-cunliffe/index.html
+layout: layout.njk
 ---
 New Labour leader is David Cunliffe
 ===================================

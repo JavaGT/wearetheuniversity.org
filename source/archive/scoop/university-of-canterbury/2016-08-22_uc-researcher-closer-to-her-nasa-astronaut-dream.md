@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-closer-to-her-nasa-astronaut-dream
-title: "UC researcher closer to her NASA astronaut dream"
-date: 2016-08-22
-source-url: https://www.scoop.co.nz/stories/ED1608/S00061/uc-researcher-closer-to-her-nasa-astronaut-dream.htm
+title: UC researcher closer to her NASA astronaut dream
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00061/uc-researcher-closer-to-her-nasa-astronaut-dream.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/08/22/uc-researcher-closer-to-her-nasa-astronaut-dream/index.html
+layout: layout.njk
 ---
 UC researcher closer to her NASA astronaut dream
 ================================================

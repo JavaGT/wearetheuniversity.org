@@ -1,9 +1,12 @@
 ---
 slug: government-should-buy-up-troubled-abc-centres
-title: "Government Should Buy Up Troubled ABC Centres"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/ED0802/S00071/government-should-buy-up-troubled-abc-centres.htm
+title: Government Should Buy Up Troubled ABC Centres
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00071/government-should-buy-up-troubled-abc-centres.htm
 author: nzei
+permalink: /archive/2008/02/29/government-should-buy-up-troubled-abc-centres/index.html
+layout: layout.njk
 ---
 Government Should Buy Up Troubled ABC Centres
 =============================================

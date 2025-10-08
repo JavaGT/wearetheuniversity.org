@@ -1,9 +1,12 @@
 ---
 slug: waikato-mba-students-face-dragons-den
-title: "Waikato MBA students face Dragon’s Den"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00155/waikato-mba-students-face-dragons-den.htm
+title: Waikato MBA students face Dragon’s Den
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00155/waikato-mba-students-face-dragons-den.htm
 author: waikato-university
+permalink: /archive/2012/03/29/waikato-mba-students-face-dragons-den/index.html
+layout: layout.njk
 ---
 Waikato MBA students face Dragon’s Den
 ======================================

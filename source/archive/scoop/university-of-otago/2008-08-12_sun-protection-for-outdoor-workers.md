@@ -1,9 +1,12 @@
 ---
 slug: sun-protection-for-outdoor-workers
-title: "Sun protection for outdoor workers"
-date: 2008-08-12
-source-url: https://www.scoop.co.nz/stories/GE0808/S00068/sun-protection-for-outdoor-workers.htm
+title: Sun protection for outdoor workers
+date: 2008-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00068/sun-protection-for-outdoor-workers.htm
 author: university-of-otago
+permalink: /archive/2008/08/12/sun-protection-for-outdoor-workers/index.html
+layout: layout.njk
 ---
 Sun protection for outdoor workers
 ==================================

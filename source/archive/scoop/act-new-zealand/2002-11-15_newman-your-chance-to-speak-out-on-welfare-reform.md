@@ -1,9 +1,13 @@
 ---
 slug: newman-your-chance-to-speak-out-on-welfare-reform
-title: "Newman: Your Chance to Speak out on Welfare Reform"
-date: 2002-11-15
-source-url: https://www.scoop.co.nz/stories/PA0211/S00361/newman-your-chance-to-speak-out-on-welfare-reform.htm
+title: 'Newman: Your Chance to Speak out on Welfare Reform'
+date: 2002-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00361/newman-your-chance-to-speak-out-on-welfare-reform.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/11/15/newman-your-chance-to-speak-out-on-welfare-reform/index.html
+layout: layout.njk
 ---
 Newman: Your Chance to Speak out on Welfare Reform
 ==================================================

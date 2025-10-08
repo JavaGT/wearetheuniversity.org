@@ -1,9 +1,12 @@
 ---
 slug: is-community-water-fluoridation-cost-effective
-title: "Is community water fluoridation cost effective?"
-date: 2016-01-12
-source-url: https://www.scoop.co.nz/stories/SC1601/S00020/is-community-water-fluoridation-cost-effective.htm
+title: Is community water fluoridation cost effective?
+date: 2016-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00020/is-community-water-fluoridation-cost-effective.htm
 author: massey-university
+permalink: /archive/2016/01/12/is-community-water-fluoridation-cost-effective/index.html
+layout: layout.njk
 ---
 Is community water fluoridation cost effective?
 ===============================================

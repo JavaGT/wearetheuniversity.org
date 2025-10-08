@@ -1,9 +1,12 @@
 ---
 slug: government-must-accept-tobacco-report-challenge
-title: "Government must accept tobacco report challenge"
-date: 2010-11-03
-source-url: https://www.scoop.co.nz/stories/PA1011/S00060/government-must-accept-tobacco-report-challenge.htm
+title: Government must accept tobacco report challenge
+date: 2010-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00060/government-must-accept-tobacco-report-challenge.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/03/government-must-accept-tobacco-report-challenge/index.html
+layout: layout.njk
 ---
 Government must accept tobacco report challenge
 ===============================================

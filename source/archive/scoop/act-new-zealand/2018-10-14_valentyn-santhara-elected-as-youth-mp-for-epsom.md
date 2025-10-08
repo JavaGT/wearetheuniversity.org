@@ -1,9 +1,12 @@
 ---
 slug: valentyn-santhara-elected-as-youth-mp-for-epsom
-title: "Valentyn Santhara Elected as Youth MP for Epsom"
-date: 2018-10-14
-source-url: https://www.scoop.co.nz/stories/PA1810/S00120/valentyn-santhara-elected-as-youth-mp-for-epsom.htm
+title: Valentyn Santhara Elected as Youth MP for Epsom
+date: 2018-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00120/valentyn-santhara-elected-as-youth-mp-for-epsom.htm
 author: act-new-zealand
+permalink: /archive/2018/10/14/valentyn-santhara-elected-as-youth-mp-for-epsom/index.html
+layout: layout.njk
 ---
 Valentyn Santhara Elected as Youth MP for Epsom
 ===============================================

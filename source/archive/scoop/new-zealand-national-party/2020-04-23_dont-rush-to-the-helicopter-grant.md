@@ -1,9 +1,12 @@
 ---
 slug: dont-rush-to-the-helicopter-grant
-title: "Don’t Rush To The Helicopter, Grant"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/PA2004/S00128/dont-rush-to-the-helicopter-grant.htm
+title: Don’t Rush To The Helicopter, Grant
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00128/dont-rush-to-the-helicopter-grant.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/23/dont-rush-to-the-helicopter-grant/index.html
+layout: layout.njk
 ---
 Don’t Rush To The Helicopter, Grant
 ===================================

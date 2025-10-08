@@ -1,9 +1,12 @@
 ---
 slug: government-fails-on-police-targets
-title: "Government fails on Police targets"
-date: 2019-04-23
-source-url: https://www.scoop.co.nz/stories/PA1904/S00185/government-fails-on-police-targets.htm
+title: Government fails on Police targets
+date: 2019-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00185/government-fails-on-police-targets.htm
 author: new-zealand-national-party
+permalink: /archive/2019/04/23/government-fails-on-police-targets/index.html
+layout: layout.njk
 ---
 Government fails on Police targets
 ==================================

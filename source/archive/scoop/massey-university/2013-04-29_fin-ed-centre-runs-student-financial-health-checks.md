@@ -1,9 +1,13 @@
 ---
 slug: fin-ed-centre-runs-student-financial-health-checks
-title: "Fin-Ed Centre runs student financial health checks"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/ED1304/S00153/fin-ed-centre-runs-student-financial-health-checks.htm
+title: Fin-Ed Centre runs student financial health checks
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00153/fin-ed-centre-runs-student-financial-health-checks.htm
 author: massey-university
+permalink: >-
+  /archive/2013/04/29/fin-ed-centre-runs-student-financial-health-checks/index.html
+layout: layout.njk
 ---
 Fin-Ed Centre runs student financial health checks
 ==================================================

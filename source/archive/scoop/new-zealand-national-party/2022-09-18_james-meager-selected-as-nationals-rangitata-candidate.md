@@ -1,9 +1,13 @@
 ---
 slug: james-meager-selected-as-nationals-rangitata-candidate
-title: "James Meager Selected As National’s Rangitata Candidate"
-date: 2022-09-18
-source-url: https://www.scoop.co.nz/stories/PA2209/S00095/james-meager-selected-as-nationals-rangitata-candidate.htm
+title: James Meager Selected As National’s Rangitata Candidate
+date: 2022-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00095/james-meager-selected-as-nationals-rangitata-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/09/18/james-meager-selected-as-nationals-rangitata-candidate/index.html
+layout: layout.njk
 ---
 James Meager Selected As National’s Rangitata Candidate
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: factory-closure-end-of-an-era-for-hamilton
-title: "Factory closure end of an era for Hamilton"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/PA1403/S00543/factory-closure-end-of-an-era-for-hamilton.htm
+title: Factory closure end of an era for Hamilton
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00543/factory-closure-end-of-an-era-for-hamilton.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/28/factory-closure-end-of-an-era-for-hamilton/index.html
+layout: layout.njk
 ---
 Factory closure end of an era for Hamilton
 ==========================================

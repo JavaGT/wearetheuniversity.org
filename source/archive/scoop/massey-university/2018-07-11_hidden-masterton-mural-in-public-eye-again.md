@@ -1,9 +1,12 @@
 ---
 slug: hidden-masterton-mural-in-public-eye-again
-title: "Hidden Masterton mural in public eye again"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/CU1807/S00127/hidden-masterton-mural-in-public-eye-again.htm
+title: Hidden Masterton mural in public eye again
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1807/S00127/hidden-masterton-mural-in-public-eye-again.htm
 author: massey-university
+permalink: /archive/2018/07/11/hidden-masterton-mural-in-public-eye-again/index.html
+layout: layout.njk
 ---
 Hidden Masterton mural in public eye again
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: community-vindicated-in-land-victory
-title: "Community vindicated in land victory"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/PA1308/S00414/community-vindicated-in-land-victory.htm
+title: Community vindicated in land victory
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00414/community-vindicated-in-land-victory.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/26/community-vindicated-in-land-victory/index.html
+layout: layout.njk
 ---
 Community vindicated in land victory
 ====================================

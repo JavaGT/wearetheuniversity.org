@@ -1,9 +1,12 @@
 ---
 slug: how-come-the-ousa-fee-increase-was-ok
-title: "How Come The OUSA Fee Increase Was OK?"
-date: 2001-07-04
-source-url: https://www.scoop.co.nz/stories/ED0107/S00005/how-come-the-ousa-fee-increase-was-ok.htm
+title: How Come The OUSA Fee Increase Was OK?
+date: 2001-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00005/how-come-the-ousa-fee-increase-was-ok.htm
 author: student-choice
+permalink: /archive/2001/07/04/how-come-the-ousa-fee-increase-was-ok/index.html
+layout: layout.njk
 ---
 How Come The OUSA Fee Increase Was OK?
 ======================================

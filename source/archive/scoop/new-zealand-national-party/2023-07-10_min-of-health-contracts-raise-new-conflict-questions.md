@@ -1,9 +1,13 @@
 ---
 slug: min-of-health-contracts-raise-new-conflict-questions
-title: "Min Of Health Contracts Raise New Conflict Questions"
-date: 2023-07-10
-source-url: https://www.scoop.co.nz/stories/PA2307/S00042/min-of-health-contracts-raise-new-conflict-questions.htm
+title: Min Of Health Contracts Raise New Conflict Questions
+date: 2023-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00042/min-of-health-contracts-raise-new-conflict-questions.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/10/min-of-health-contracts-raise-new-conflict-questions/index.html
+layout: layout.njk
 ---
 Min Of Health Contracts Raise New Conflict Questions
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-to-public-meeting-taupo
-title: "Peters Speech To Public Meeting - Taupo"
-date: 1999-08-16
-source-url: https://www.scoop.co.nz/stories/PA9908/S00254/peters-speech-to-public-meeting-taupo.htm
+title: Peters Speech To Public Meeting - Taupo
+date: 1999-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00254/peters-speech-to-public-meeting-taupo.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/16/peters-speech-to-public-meeting-taupo/index.html
+layout: layout.njk
 ---
 Peters Speech To Public Meeting - Taupo
 =======================================

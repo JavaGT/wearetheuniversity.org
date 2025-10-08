@@ -1,9 +1,13 @@
 ---
 slug: christchurch-quake-indicates-need-for-workplace-flexibility
-title: "Christchurch quake indicates need for workplace flexibility"
-date: 2014-09-24
-source-url: https://www.scoop.co.nz/stories/BU1409/S00822/christchurch-quake-indicates-need-for-workplace-flexibility.htm
+title: Christchurch quake indicates need for workplace flexibility
+date: 2014-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00822/christchurch-quake-indicates-need-for-workplace-flexibility.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/24/christchurch-quake-indicates-need-for-workplace-flexibility/index.html
+layout: layout.njk
 ---
 Christchurch quake indicates need for workplace flexibility
 ===========================================================

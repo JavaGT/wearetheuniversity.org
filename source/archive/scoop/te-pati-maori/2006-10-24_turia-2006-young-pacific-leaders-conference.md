@@ -1,9 +1,12 @@
 ---
 slug: turia-2006-young-pacific-leaders-conference
-title: "Turia: 2006 Young Pacific Leaders Conference"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/PA0610/S00430/turia-2006-young-pacific-leaders-conference.htm
+title: 'Turia: 2006 Young Pacific Leaders Conference'
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00430/turia-2006-young-pacific-leaders-conference.htm
 author: te-pati-maori
+permalink: /archive/2006/10/24/turia-2006-young-pacific-leaders-conference/index.html
+layout: layout.njk
 ---
 Turia: 2006 Young Pacific Leaders Conference
 ============================================

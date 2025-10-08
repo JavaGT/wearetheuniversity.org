@@ -1,9 +1,12 @@
 ---
 slug: bennett-to-retire-at-the-next-election
-title: "Bennett To Retire At The Next Election"
-date: 2022-07-26
-source-url: https://www.scoop.co.nz/stories/PA2207/S00167/bennett-to-retire-at-the-next-election.htm
+title: Bennett To Retire At The Next Election
+date: 2022-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00167/bennett-to-retire-at-the-next-election.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/26/bennett-to-retire-at-the-next-election/index.html
+layout: layout.njk
 ---
 Bennett To Retire At The Next Election
 ======================================

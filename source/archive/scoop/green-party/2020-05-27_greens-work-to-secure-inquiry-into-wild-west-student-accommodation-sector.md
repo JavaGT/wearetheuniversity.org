@@ -1,9 +1,13 @@
 ---
 slug: greens-work-to-secure-inquiry-into-wild-west-student-accommodation-sector
-title: "Greens Work To Secure Inquiry Into Wild West Student Accommodation Sector"
-date: 2020-05-27
-source-url: https://www.scoop.co.nz/stories/PA2005/S00219/greens-work-to-secure-inquiry-into-wild-west-student-accommodation-sector.htm
+title: Greens Work To Secure Inquiry Into Wild West Student Accommodation Sector
+date: 2020-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00219/greens-work-to-secure-inquiry-into-wild-west-student-accommodation-sector.htm
 author: green-party
+permalink: >-
+  /archive/2020/05/27/greens-work-to-secure-inquiry-into-wild-west-student-accommodation-sector/index.html
+layout: layout.njk
 ---
 Greens Work To Secure Inquiry Into Wild West Student Accommodation Sector
 =========================================================================

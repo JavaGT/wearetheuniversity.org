@@ -1,9 +1,12 @@
 ---
 slug: pbrf-report-shows-postgrad-students-missing-out
-title: "PBRF report shows Postgrad students missing out"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/PO1304/S00145/pbrf-report-shows-postgrad-students-missing-out.htm
+title: PBRF report shows Postgrad students missing out
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00145/pbrf-report-shows-postgrad-students-missing-out.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/04/12/pbrf-report-shows-postgrad-students-missing-out/index.html
+layout: layout.njk
 ---
 PBRF report shows Postgrad students missing out
 ===============================================

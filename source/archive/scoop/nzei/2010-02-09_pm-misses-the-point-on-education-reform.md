@@ -1,9 +1,12 @@
 ---
 slug: pm-misses-the-point-on-education-reform
-title: "PM Misses the Point on Education Reform"
-date: 2010-02-09
-source-url: https://www.scoop.co.nz/stories/ED1002/S00033/pm-misses-the-point-on-education-reform.htm
+title: PM Misses the Point on Education Reform
+date: 2010-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00033/pm-misses-the-point-on-education-reform.htm
 author: nzei
+permalink: /archive/2010/02/09/pm-misses-the-point-on-education-reform/index.html
+layout: layout.njk
 ---
 PM Misses the Point on Education Reform
 =======================================

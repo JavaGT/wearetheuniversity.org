@@ -1,9 +1,12 @@
 ---
 slug: speech-to-the-australia-nz-leadership-forum
-title: "Speech To The Australia NZ Leadership Forum"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/PA1311/S00510/speech-to-the-australia-nz-leadership-forum.htm
+title: Speech To The Australia NZ Leadership Forum
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00510/speech-to-the-australia-nz-leadership-forum.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/27/speech-to-the-australia-nz-leadership-forum/index.html
+layout: layout.njk
 ---
 Speech To The Australia NZ Leadership Forum
 ===========================================

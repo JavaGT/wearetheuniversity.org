@@ -1,9 +1,13 @@
 ---
 slug: over-20000-people-support-medical-students-to-finish-training
-title: "Over 20,000 people support medical students to finish training"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/ED1512/S00004/over-20000-people-support-medical-students-to-finish-training.htm
+title: Over 20,000 people support medical students to finish training
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00004/over-20000-people-support-medical-students-to-finish-training.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2015/12/01/over-20000-people-support-medical-students-to-finish-training/index.html
+layout: layout.njk
 ---
 Over 20,000 people support medical students to finish training
 ==============================================================

@@ -1,9 +1,12 @@
 ---
 slug: oecd-gives-labour-an-f-for-failure
-title: "OECD gives Labour an ‘F’ for failure"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/PA0507/S00087/oecd-gives-labour-an-f-for-failure.htm
+title: OECD gives Labour an ‘F’ for failure
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00087/oecd-gives-labour-an-f-for-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/05/oecd-gives-labour-an-f-for-failure/index.html
+layout: layout.njk
 ---
 OECD gives Labour an ‘F’ for failure
 ====================================

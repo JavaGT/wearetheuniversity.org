@@ -1,9 +1,12 @@
 ---
 slug: student-loan-scheme-not-a-pretty-picture-report
-title: "Student loan scheme not a pretty picture: report"
-date: 2005-11-09
-source-url: https://www.scoop.co.nz/stories/ED0511/S00038/student-loan-scheme-not-a-pretty-picture-report.htm
+title: 'Student loan scheme not a pretty picture: report'
+date: 2005-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00038/student-loan-scheme-not-a-pretty-picture-report.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/11/09/student-loan-scheme-not-a-pretty-picture-report/index.html
+layout: layout.njk
 ---
 Student loan scheme not a pretty picture: report
 ================================================

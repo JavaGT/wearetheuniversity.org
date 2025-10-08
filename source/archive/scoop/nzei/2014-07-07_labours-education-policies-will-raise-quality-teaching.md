@@ -1,9 +1,13 @@
 ---
 slug: labours-education-policies-will-raise-quality-teaching
-title: "Labour’s education policies will raise quality teaching"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00040/labours-education-policies-will-raise-quality-teaching.htm
+title: Labour’s education policies will raise quality teaching
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00040/labours-education-policies-will-raise-quality-teaching.htm
 author: nzei
+permalink: >-
+  /archive/2014/07/07/labours-education-policies-will-raise-quality-teaching/index.html
+layout: layout.njk
 ---
 Labour’s education policies will raise quality teaching
 =======================================================

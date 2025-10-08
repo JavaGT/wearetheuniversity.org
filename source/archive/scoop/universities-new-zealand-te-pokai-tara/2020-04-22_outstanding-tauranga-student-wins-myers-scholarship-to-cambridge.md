@@ -1,9 +1,13 @@
 ---
 slug: outstanding-tauranga-student-wins-myers-scholarship-to-cambridge
-title: "Outstanding Tauranga Student Wins Myers Scholarship To Cambridge"
-date: 2020-04-22
-source-url: https://www.scoop.co.nz/stories/ED2004/S00045/outstanding-tauranga-student-wins-myers-scholarship-to-cambridge.htm
+title: Outstanding Tauranga Student Wins Myers Scholarship To Cambridge
+date: 2020-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00045/outstanding-tauranga-student-wins-myers-scholarship-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/04/22/outstanding-tauranga-student-wins-myers-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Outstanding Tauranga Student Wins Myers Scholarship To Cambridge
 ================================================================

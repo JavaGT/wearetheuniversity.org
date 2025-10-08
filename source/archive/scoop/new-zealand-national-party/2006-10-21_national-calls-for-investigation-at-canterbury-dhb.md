@@ -1,9 +1,13 @@
 ---
 slug: national-calls-for-investigation-at-canterbury-dhb
-title: "National calls for investigation at Canterbury DHB"
-date: 2006-10-21
-source-url: https://www.scoop.co.nz/stories/PA0610/S00418/national-calls-for-investigation-at-canterbury-dhb.htm
+title: National calls for investigation at Canterbury DHB
+date: 2006-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00418/national-calls-for-investigation-at-canterbury-dhb.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/10/21/national-calls-for-investigation-at-canterbury-dhb/index.html
+layout: layout.njk
 ---
 National calls for investigation at Canterbury DHB
 ==================================================

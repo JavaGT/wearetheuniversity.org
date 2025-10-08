@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-shines-in-national-and-int-rankings
-title: "University of Otago shines in national and int. rankings"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/ED1108/S00129/university-of-otago-shines-in-national-and-int-rankings.htm
+title: University of Otago shines in national and int. rankings
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00129/university-of-otago-shines-in-national-and-int-rankings.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/25/university-of-otago-shines-in-national-and-int-rankings/index.html
+layout: layout.njk
 ---
 University of Otago shines in national and int. rankings
 ========================================================

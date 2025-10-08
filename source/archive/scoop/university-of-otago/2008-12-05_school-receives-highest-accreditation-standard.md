@@ -1,9 +1,12 @@
 ---
 slug: school-receives-highest-accreditation-standard
-title: "School receives highest accreditation standard"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/ED0812/S00019/school-receives-highest-accreditation-standard.htm
+title: School receives highest accreditation standard
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00019/school-receives-highest-accreditation-standard.htm
 author: university-of-otago
+permalink: /archive/2008/12/05/school-receives-highest-accreditation-standard/index.html
+layout: layout.njk
 ---
 School receives highest accreditation standard
 ==============================================

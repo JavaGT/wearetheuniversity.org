@@ -1,9 +1,13 @@
 ---
 slug: peace-groups-will-remember-civilians-at-anzac-day-events
-title: "Peace groups will remember civilians at Anzac day events"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/PO1804/S00257/peace-groups-will-remember-civilians-at-anzac-day-events.htm
+title: Peace groups will remember civilians at Anzac day events
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00257/peace-groups-will-remember-civilians-at-anzac-day-events.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2018/04/24/peace-groups-will-remember-civilians-at-anzac-day-events/index.html
+layout: layout.njk
 ---
 Peace groups will remember civilians at Anzac day events
 ========================================================

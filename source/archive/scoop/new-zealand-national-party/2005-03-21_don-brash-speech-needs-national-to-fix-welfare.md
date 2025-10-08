@@ -1,9 +1,12 @@
 ---
 slug: don-brash-speech-needs-national-to-fix-welfare
-title: "Don Brash Speech: needs National to fix welfare"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00417/don-brash-speech-needs-national-to-fix-welfare.htm
+title: 'Don Brash Speech: needs National to fix welfare'
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00417/don-brash-speech-needs-national-to-fix-welfare.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/21/don-brash-speech-needs-national-to-fix-welfare/index.html
+layout: layout.njk
 ---
 Don Brash Speech: needs National to fix welfare
 ===============================================

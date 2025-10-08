@@ -1,9 +1,11 @@
 ---
 slug: a-great-day-for-justice
-title: "A great day for justice"
-date: 2004-11-25
+title: A great day for justice
+date: 2004-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0411/S00557/a-great-day-for-justice.htm
 author: green-party
+permalink: /archive/2004/11/25/a-great-day-for-justice/index.html
+layout: layout.njk
 ---
 A great day for justice
 =======================

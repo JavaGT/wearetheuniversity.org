@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-how-to-thrive-in-a-famine
-title: "Speech: Katene - How to Thrive in a Famine"
-date: 2009-06-16
-source-url: https://www.scoop.co.nz/stories/PA0906/S00201/speech-katene-how-to-thrive-in-a-famine.htm
+title: 'Speech: Katene - How to Thrive in a Famine'
+date: 2009-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00201/speech-katene-how-to-thrive-in-a-famine.htm
 author: te-pati-maori
+permalink: /archive/2009/06/16/speech-katene-how-to-thrive-in-a-famine/index.html
+layout: layout.njk
 ---
 Speech: Katene - How to Thrive in a Famine
 ==========================================

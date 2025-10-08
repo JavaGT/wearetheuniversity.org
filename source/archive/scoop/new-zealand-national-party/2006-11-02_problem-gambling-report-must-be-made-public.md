@@ -1,9 +1,12 @@
 ---
 slug: problem-gambling-report-must-be-made-public
-title: "Problem gambling report must be made public"
-date: 2006-11-02
-source-url: https://www.scoop.co.nz/stories/PA0611/S00059/problem-gambling-report-must-be-made-public.htm
+title: Problem gambling report must be made public
+date: 2006-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00059/problem-gambling-report-must-be-made-public.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/02/problem-gambling-report-must-be-made-public/index.html
+layout: layout.njk
 ---
 Problem gambling report must be made public
 ===========================================

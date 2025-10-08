@@ -1,9 +1,13 @@
 ---
 slug: top-young-race-and-rally-drivers-put-through-paces
-title: "Top young race and rally drivers put through paces"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/ED0506/S00065/top-young-race-and-rally-drivers-put-through-paces.htm
+title: Top young race and rally drivers put through paces
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00065/top-young-race-and-rally-drivers-put-through-paces.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/06/23/top-young-race-and-rally-drivers-put-through-paces/index.html
+layout: layout.njk
 ---
 Top young race and rally drivers put through paces
 ==================================================

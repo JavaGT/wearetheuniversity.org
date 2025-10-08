@@ -1,9 +1,13 @@
 ---
 slug: smarter-priorities-for-transport-budget-than-holiday-highway
-title: "Smarter priorities for transport budget than Holiday Highway"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/PA1304/S00175/smarter-priorities-for-transport-budget-than-holiday-highway.htm
+title: Smarter priorities for transport budget than Holiday Highway
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00175/smarter-priorities-for-transport-budget-than-holiday-highway.htm
 author: green-party
+permalink: >-
+  /archive/2013/04/10/smarter-priorities-for-transport-budget-than-holiday-highway/index.html
+layout: layout.njk
 ---
 Smarter priorities for transport budget than Holiday Highway
 ============================================================

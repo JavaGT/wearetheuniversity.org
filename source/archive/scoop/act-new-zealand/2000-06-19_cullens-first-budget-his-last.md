@@ -1,9 +1,12 @@
 ---
 slug: cullens-first-budget-his-last
-title: "Cullen’s first Budget his last?"
-date: 2000-06-19
-source-url: https://www.scoop.co.nz/stories/PA0006/S00412/cullens-first-budget-his-last.htm
+title: Cullen’s first Budget his last?
+date: 2000-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00412/cullens-first-budget-his-last.htm
 author: act-new-zealand
+permalink: /archive/2000/06/19/cullens-first-budget-his-last/index.html
+layout: layout.njk
 ---
 Cullen’s first Budget his last?
 ===============================

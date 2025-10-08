@@ -1,9 +1,13 @@
 ---
 slug: govt-must-not-hand-state-housing-to-developer-mates
-title: "Govt must not hand state housing to developer mates"
-date: 2013-05-12
-source-url: https://www.scoop.co.nz/stories/PA1305/S00184/govt-must-not-hand-state-housing-to-developer-mates.htm
+title: Govt must not hand state housing to developer mates
+date: 2013-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00184/govt-must-not-hand-state-housing-to-developer-mates.htm
 author: green-party
+permalink: >-
+  /archive/2013/05/12/govt-must-not-hand-state-housing-to-developer-mates/index.html
+layout: layout.njk
 ---
 Govt must not hand state housing to developer mates
 ===================================================

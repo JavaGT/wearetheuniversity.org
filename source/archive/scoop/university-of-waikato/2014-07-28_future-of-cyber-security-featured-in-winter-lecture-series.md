@@ -1,9 +1,13 @@
 ---
 slug: future-of-cyber-security-featured-in-winter-lecture-series
-title: "Future of cyber security featured in Winter Lecture Series"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/ED1407/S00131/future-of-cyber-security-featured-in-winter-lecture-series.htm
+title: Future of cyber security featured in Winter Lecture Series
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00131/future-of-cyber-security-featured-in-winter-lecture-series.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/28/future-of-cyber-security-featured-in-winter-lecture-series/index.html
+layout: layout.njk
 ---
 Future of cyber security featured in Winter Lecture Series
 ==========================================================

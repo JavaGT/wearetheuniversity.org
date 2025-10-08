@@ -1,9 +1,12 @@
 ---
 slug: educating-gael-(#1)-representation-and-legitimacy
-title: "Educating Gael: (#1) Representation And Legitimacy"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/ED0309/S00060/educating-gael-1-representation-and-legitimacy.htm
+title: 'Educating Gael: (#1) Representation And Legitimacy'
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00060/educating-gael-1-representation-and-legitimacy.htm
 author: student-choice
+permalink: /archive/2003/09/15/educating-gael-/index.html
+layout: layout.njk
 ---
 Educating Gael: (#1) Representation And Legitimacy
 ==================================================

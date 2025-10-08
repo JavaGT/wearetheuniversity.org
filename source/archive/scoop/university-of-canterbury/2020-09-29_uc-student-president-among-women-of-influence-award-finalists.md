@@ -1,9 +1,13 @@
 ---
 slug: uc-student-president-among-women-of-influence-award-finalists
-title: "UC Student President Among Women Of Influence Award Finalists"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/ED2009/S00060/uc-student-president-among-women-of-influence-award-finalists.htm
+title: UC Student President Among Women Of Influence Award Finalists
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00060/uc-student-president-among-women-of-influence-award-finalists.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/29/uc-student-president-among-women-of-influence-award-finalists/index.html
+layout: layout.njk
 ---
 UC Student President Among Women Of Influence Award Finalists
 =============================================================

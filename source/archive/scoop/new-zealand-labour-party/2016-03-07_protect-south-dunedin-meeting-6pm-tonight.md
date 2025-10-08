@@ -1,9 +1,12 @@
 ---
 slug: protect-south-dunedin-meeting-6pm-tonight
-title: "Protect South Dunedin meeting 6pm tonight"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/PA1603/S00101/protect-south-dunedin-meeting-6pm-tonight.htm
+title: Protect South Dunedin meeting 6pm tonight
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00101/protect-south-dunedin-meeting-6pm-tonight.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/07/protect-south-dunedin-meeting-6pm-tonight/index.html
+layout: layout.njk
 ---
 Protect South Dunedin meeting 6pm tonight
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: 1080-threat-will-not-harm-trade-but-ongoing-issues-a-concern
-title: "1080 threat will not harm trade but ongoing issues a concern"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/BU1503/S00417/1080-threat-will-not-harm-trade-but-ongoing-issues-a-concern.htm
+title: 1080 threat will not harm trade but ongoing issues a concern
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1503/S00417/1080-threat-will-not-harm-trade-but-ongoing-issues-a-concern.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/12/1080-threat-will-not-harm-trade-but-ongoing-issues-a-concern/index.html
+layout: layout.njk
 ---
 1080 threat will not harm trade but ongoing issues a concern
 ============================================================

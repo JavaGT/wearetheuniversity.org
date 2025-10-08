@@ -1,9 +1,12 @@
 ---
 slug: the-wool-spin-all-is-not-solved
-title: "The Wool Spin: All Is Not Solved"
-date: 2000-08-22
-source-url: https://www.scoop.co.nz/stories/PA0008/S00404/the-wool-spin-all-is-not-solved.htm
+title: 'The Wool Spin: All Is Not Solved'
+date: 2000-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00404/the-wool-spin-all-is-not-solved.htm
 author: act-new-zealand
+permalink: /archive/2000/08/22/the-wool-spin-all-is-not-solved/index.html
+layout: layout.njk
 ---
 The Wool Spin: All Is Not Solved
 ================================

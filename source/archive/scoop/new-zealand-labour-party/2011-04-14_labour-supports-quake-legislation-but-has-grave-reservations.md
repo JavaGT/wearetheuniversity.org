@@ -1,9 +1,13 @@
 ---
 slug: labour-supports-quake-legislation-but-has-grave-reservations
-title: "Labour supports quake legislation but has grave reservations"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00332/labour-supports-quake-legislation-but-has-grave-reservations.htm
+title: Labour supports quake legislation but has grave reservations
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00332/labour-supports-quake-legislation-but-has-grave-reservations.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/14/labour-supports-quake-legislation-but-has-grave-reservations/index.html
+layout: layout.njk
 ---
 Labour supports quake legislation but has grave reservations
 ============================================================

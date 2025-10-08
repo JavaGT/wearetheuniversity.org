@@ -1,9 +1,12 @@
 ---
 slug: new-executive-in-residence-dr-alan-jackson
-title: "New Executive In Residence Dr Alan Jackson"
-date: 2003-07-21
-source-url: https://www.scoop.co.nz/stories/ED0307/S00050/new-executive-in-residence-dr-alan-jackson.htm
+title: New Executive In Residence Dr Alan Jackson
+date: 2003-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00050/new-executive-in-residence-dr-alan-jackson.htm
 author: auckland-university
+permalink: /archive/2003/07/21/new-executive-in-residence-dr-alan-jackson/index.html
+layout: layout.njk
 ---
 New Executive In Residence Dr Alan Jackson
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: free-fares-coalition-welcomes-extension-of-half-price-public-transport
-title: "Free Fares Coalition Welcomes Extension Of Half-price Public Transport"
-date: 2023-02-01
-source-url: https://www.scoop.co.nz/stories/PO2302/S00002/free-fares-coalition-welcomes-extension-of-half-price-public-transport.htm
+title: Free Fares Coalition Welcomes Extension Of Half-price Public Transport
+date: 2023-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00002/free-fares-coalition-welcomes-extension-of-half-price-public-transport.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/02/01/free-fares-coalition-welcomes-extension-of-half-price-public-transport/index.html
+layout: layout.njk
 ---
 Free Fares Coalition Welcomes Extension Of Half-price Public Transport
 ======================================================================

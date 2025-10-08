@@ -1,9 +1,11 @@
 ---
 slug: another-mallard-u-turn
-title: "Another Mallard U-Turn"
-date: 2004-12-03
+title: Another Mallard U-Turn
+date: 2004-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00108/another-mallard-u-turn.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/03/another-mallard-u-turn/index.html
+layout: layout.njk
 ---
 Another Mallard U-Turn
 ======================

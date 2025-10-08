@@ -1,9 +1,12 @@
 ---
 slug: the-nz-workforce-burnt-out-or-just-smouldering
-title: "The NZ Workforce: Burnt Out Or Just Smouldering?"
-date: 2021-04-28
-source-url: https://www.scoop.co.nz/stories/BU2104/S00424/the-nz-workforce-burnt-out-or-just-smouldering.htm
+title: 'The NZ Workforce: Burnt Out Or Just Smouldering?'
+date: 2021-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2104/S00424/the-nz-workforce-burnt-out-or-just-smouldering.htm
 author: aut-university
+permalink: /archive/2021/04/28/the-nz-workforce-burnt-out-or-just-smouldering/index.html
+layout: layout.njk
 ---
 The NZ Workforce: Burnt Out Or Just Smouldering?
 ================================================

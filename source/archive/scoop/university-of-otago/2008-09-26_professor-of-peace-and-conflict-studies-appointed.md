@@ -1,9 +1,13 @@
 ---
 slug: professor-of-peace-and-conflict-studies-appointed
-title: "Professor of Peace and Conflict Studies Appointed"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/ED0809/S00087/professor-of-peace-and-conflict-studies-appointed.htm
+title: Professor of Peace and Conflict Studies Appointed
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00087/professor-of-peace-and-conflict-studies-appointed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/09/26/professor-of-peace-and-conflict-studies-appointed/index.html
+layout: layout.njk
 ---
 Professor of Peace and Conflict Studies Appointed
 =================================================

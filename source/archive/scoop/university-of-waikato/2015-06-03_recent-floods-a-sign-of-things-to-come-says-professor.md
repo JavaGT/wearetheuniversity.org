@@ -1,9 +1,13 @@
 ---
 slug: recent-floods-a-sign-of-things-to-come-says-professor
-title: "Recent Floods a Sign of Things to Come says Professor"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/SC1506/S00013/recent-floods-a-sign-of-things-to-come-says-professor.htm
+title: Recent Floods a Sign of Things to Come says Professor
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00013/recent-floods-a-sign-of-things-to-come-says-professor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/06/03/recent-floods-a-sign-of-things-to-come-says-professor/index.html
+layout: layout.njk
 ---
 Recent Floods a Sign of Things to Come says Professor
 =====================================================

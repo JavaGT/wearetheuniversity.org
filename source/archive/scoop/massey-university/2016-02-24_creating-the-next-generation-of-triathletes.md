@@ -1,9 +1,12 @@
 ---
 slug: creating-the-next-generation-of-triathletes
-title: "Creating the next generation of triathletes"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/CU1602/S00474/creating-the-next-generation-of-triathletes.htm
+title: Creating the next generation of triathletes
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1602/S00474/creating-the-next-generation-of-triathletes.htm
 author: massey-university
+permalink: /archive/2016/02/24/creating-the-next-generation-of-triathletes/index.html
+layout: layout.njk
 ---
 Creating the next generation of triathletes
 ===========================================

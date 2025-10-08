@@ -1,8 +1,12 @@
 ---
 slug: food-industry-tactics-shape-public-food-policies
-title: "Food industry tactics shape public food policies"
-date: 2017-01-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/food-industry-tactics-shape-public-food-policies.html
+title: Food industry tactics shape public food policies
+date: 2017-01-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/food-industry-tactics-shape-public-food-policies.html
+permalink: >-
+  /archive/2017/01/24/food-industry-tactics-shape-public-food-policies/index.html
+layout: layout.njk
 ---
 Food industry tactics shape public food policies
 ================================================

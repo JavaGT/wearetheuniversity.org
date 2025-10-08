@@ -1,9 +1,12 @@
 ---
 slug: massey-gains-third-place-in-tertiary-challenge
-title: "Massey gains third place in Tertiary Challenge"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/ED0908/S00041/massey-gains-third-place-in-tertiary-challenge.htm
+title: Massey gains third place in Tertiary Challenge
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00041/massey-gains-third-place-in-tertiary-challenge.htm
 author: massey-university
+permalink: /archive/2009/08/10/massey-gains-third-place-in-tertiary-challenge/index.html
+layout: layout.njk
 ---
 Massey gains third place in Tertiary Challenge
 ==============================================

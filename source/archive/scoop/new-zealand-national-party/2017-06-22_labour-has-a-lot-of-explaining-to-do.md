@@ -1,9 +1,12 @@
 ---
 slug: labour-has-a-lot-of-explaining-to-do
-title: "Labour has a lot of explaining to do"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/PA1706/S00371/labour-has-a-lot-of-explaining-to-do.htm
+title: Labour has a lot of explaining to do
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00371/labour-has-a-lot-of-explaining-to-do.htm
 author: new-zealand-national-party
+permalink: /archive/2017/06/22/labour-has-a-lot-of-explaining-to-do/index.html
+layout: layout.njk
 ---
 Labour has a lot of explaining to do
 ====================================

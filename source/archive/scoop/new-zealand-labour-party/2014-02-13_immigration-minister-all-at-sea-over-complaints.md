@@ -1,9 +1,12 @@
 ---
 slug: immigration-minister-all-at-sea-over-complaints
-title: "Immigration Minister all at sea over complaints"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/PA1402/S00171/immigration-minister-all-at-sea-over-complaints.htm
+title: Immigration Minister all at sea over complaints
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00171/immigration-minister-all-at-sea-over-complaints.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/13/immigration-minister-all-at-sea-over-complaints/index.html
+layout: layout.njk
 ---
 Immigration Minister all at sea over complaints
 ===============================================

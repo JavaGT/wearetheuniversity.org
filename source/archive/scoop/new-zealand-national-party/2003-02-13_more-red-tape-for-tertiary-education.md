@@ -1,9 +1,12 @@
 ---
 slug: more-red-tape-for-tertiary-education
-title: "More red tape for tertiary education"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00219/more-red-tape-for-tertiary-education.htm
+title: More red tape for tertiary education
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00219/more-red-tape-for-tertiary-education.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/13/more-red-tape-for-tertiary-education/index.html
+layout: layout.njk
 ---
 More red tape for tertiary education
 ====================================

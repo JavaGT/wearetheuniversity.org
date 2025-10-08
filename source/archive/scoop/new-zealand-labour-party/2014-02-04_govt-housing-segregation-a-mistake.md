@@ -1,9 +1,12 @@
 ---
 slug: govt-housing-segregation-a-mistake
-title: "Govt housing segregation a mistake"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/PA1402/S00032/govt-housing-segregation-a-mistake.htm
+title: Govt housing segregation a mistake
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00032/govt-housing-segregation-a-mistake.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/04/govt-housing-segregation-a-mistake/index.html
+layout: layout.njk
 ---
 Govt housing segregation a mistake
 ==================================

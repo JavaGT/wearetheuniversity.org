@@ -1,9 +1,13 @@
 ---
 slug: former-environ-bay-of-plenty-ceo-awarded-doctorate
-title: "Former Environ.Bay of Plenty CEO awarded doctorate"
-date: 2006-03-03
-source-url: https://www.scoop.co.nz/stories/ED0603/S00012/former-environbay-of-plenty-ceo-awarded-doctorate.htm
+title: Former Environ.Bay of Plenty CEO awarded doctorate
+date: 2006-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00012/former-environbay-of-plenty-ceo-awarded-doctorate.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/03/03/former-environ-bay-of-plenty-ceo-awarded-doctorate/index.html
+layout: layout.njk
 ---
 Former Environ.Bay of Plenty CEO awarded doctorate
 ==================================================

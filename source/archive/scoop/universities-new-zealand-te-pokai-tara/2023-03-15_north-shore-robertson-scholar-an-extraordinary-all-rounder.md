@@ -1,9 +1,13 @@
 ---
 slug: north-shore-robertson-scholar-an-extraordinary-all-rounder
-title: "North Shore Robertson Scholar An Extraordinary All-rounder"
-date: 2023-03-15
-source-url: https://www.scoop.co.nz/stories/ED2303/S00023/north-shore-robertson-scholar-an-extraordinary-all-rounder.htm
+title: North Shore Robertson Scholar An Extraordinary All-rounder
+date: 2023-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00023/north-shore-robertson-scholar-an-extraordinary-all-rounder.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/03/15/north-shore-robertson-scholar-an-extraordinary-all-rounder/index.html
+layout: layout.njk
 ---
 North Shore Robertson Scholar An Extraordinary All-rounder
 ==========================================================

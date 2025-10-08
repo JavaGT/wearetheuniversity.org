@@ -1,9 +1,12 @@
 ---
 slug: whats-the-story-with-plunketline
-title: "What's the story with Plunketline?"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/PA0503/S00081/whats-the-story-with-plunketline.htm
+title: What's the story with Plunketline?
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00081/whats-the-story-with-plunketline.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/03/whats-the-story-with-plunketline/index.html
+layout: layout.njk
 ---
 What's the story with Plunketline?
 ==================================

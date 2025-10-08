@@ -1,9 +1,13 @@
 ---
 slug: problems-not-increased-since-lowering-the-drinking-age
-title: "Problems not increased since lowering the drinking age"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/PO1208/S00458/problems-not-increased-since-lowering-the-drinking-age.htm
+title: Problems not increased since lowering the drinking age
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00458/problems-not-increased-since-lowering-the-drinking-age.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/29/problems-not-increased-since-lowering-the-drinking-age/index.html
+layout: layout.njk
 ---
 Problems not increased since lowering the drinking age
 ======================================================

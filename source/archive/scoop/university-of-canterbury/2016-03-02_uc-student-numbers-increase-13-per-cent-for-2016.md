@@ -1,9 +1,13 @@
 ---
 slug: uc-student-numbers-increase-13-per-cent-for-2016
-title: "UC student numbers increase 13 per cent for 2016"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/ED1603/S00010/uc-student-numbers-increase-13-per-cent-for-2016.htm
+title: UC student numbers increase 13 per cent for 2016
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00010/uc-student-numbers-increase-13-per-cent-for-2016.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/02/uc-student-numbers-increase-13-per-cent-for-2016/index.html
+layout: layout.njk
 ---
 UC student numbers increase 13 per cent for 2016
 ================================================

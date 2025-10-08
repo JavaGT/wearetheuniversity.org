@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-and-primary-principals-to-host-job-expo
-title: "University of Auckland and primary principals to host job expo"
-date: 2017-08-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/university-of-auckland-and-primary-principals-to-host-job-expo.html
+title: University of Auckland and primary principals to host job expo
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/university-of-auckland-and-primary-principals-to-host-job-expo.html
+permalink: >-
+  /archive/2017/08/21/university-of-auckland-and-primary-principals-to-host-job-expo/index.html
+layout: layout.njk
 ---
 University of Auckland and primary principals to host job expo
 ==============================================================

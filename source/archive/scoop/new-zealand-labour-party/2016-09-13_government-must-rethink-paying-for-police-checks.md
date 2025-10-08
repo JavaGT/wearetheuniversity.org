@@ -1,9 +1,13 @@
 ---
 slug: government-must-rethink-paying-for-police-checks
-title: "Government must rethink paying for police checks"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/PA1609/S00214/government-must-rethink-paying-for-police-checks.htm
+title: Government must rethink paying for police checks
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00214/government-must-rethink-paying-for-police-checks.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/13/government-must-rethink-paying-for-police-checks/index.html
+layout: layout.njk
 ---
 Government must rethink paying for police checks
 ================================================

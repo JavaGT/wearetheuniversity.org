@@ -1,9 +1,12 @@
 ---
 slug: frank-sargeson-lecture-by-elizabeth-knox
-title: "Frank Sargeson Lecture by Elizabeth Knox"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/CU1610/S00091/frank-sargeson-lecture-by-elizabeth-knox.htm
+title: Frank Sargeson Lecture by Elizabeth Knox
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00091/frank-sargeson-lecture-by-elizabeth-knox.htm
 author: university-of-waikato
+permalink: /archive/2016/10/07/frank-sargeson-lecture-by-elizabeth-knox/index.html
+layout: layout.njk
 ---
 Frank Sargeson Lecture by Elizabeth Knox
 ========================================

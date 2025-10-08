@@ -1,9 +1,12 @@
 ---
 slug: zoning-turns-schools-into-spies
-title: "Zoning Turns Schools into Spies"
-date: 2003-01-31
-source-url: https://www.scoop.co.nz/stories/PA0301/S00309/zoning-turns-schools-into-spies.htm
+title: Zoning Turns Schools into Spies
+date: 2003-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00309/zoning-turns-schools-into-spies.htm
 author: act-new-zealand
+permalink: /archive/2003/01/31/zoning-turns-schools-into-spies/index.html
+layout: layout.njk
 ---
 Zoning Turns Schools into Spies
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: the-latest-news-from-american-advertising-comes-to-nz
-title: "The Latest News from American Advertising Comes To NZ"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/ED1310/S00070/the-latest-news-from-american-advertising-comes-to-nz.htm
+title: The Latest News from American Advertising Comes To NZ
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00070/the-latest-news-from-american-advertising-comes-to-nz.htm
 author: aut-university
+permalink: >-
+  /archive/2013/10/09/the-latest-news-from-american-advertising-comes-to-nz/index.html
+layout: layout.njk
 ---
 The Latest News from American Advertising Comes To NZ
 =====================================================

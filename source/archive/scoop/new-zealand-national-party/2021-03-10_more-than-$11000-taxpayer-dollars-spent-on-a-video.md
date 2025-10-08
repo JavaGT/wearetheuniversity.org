@@ -1,9 +1,12 @@
 ---
 slug: more-than-$11000-taxpayer-dollars-spent-on-a-video
-title: "More Than $11,000 Taxpayer Dollars Spent On A Video"
-date: 2021-03-10
-source-url: https://www.scoop.co.nz/stories/PA2103/S00064/more-than-11000-taxpayer-dollars-spent-on-a-video.htm
+title: More Than $11,000 Taxpayer Dollars Spent On A Video
+date: 2021-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00064/more-than-11000-taxpayer-dollars-spent-on-a-video.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/10/more-than-/index.html
+layout: layout.njk
 ---
 More Than $11,000 Taxpayer Dollars Spent On A Video
 ===================================================

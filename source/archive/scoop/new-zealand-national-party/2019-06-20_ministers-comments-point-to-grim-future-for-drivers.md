@@ -1,9 +1,13 @@
 ---
 slug: ministers-comments-point-to-grim-future-for-drivers
-title: "Minister’s comments point to grim future for drivers"
-date: 2019-06-20
-source-url: https://www.scoop.co.nz/stories/PA1906/S00181/ministers-comments-point-to-grim-future-for-drivers.htm
+title: Minister’s comments point to grim future for drivers
+date: 2019-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00181/ministers-comments-point-to-grim-future-for-drivers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/06/20/ministers-comments-point-to-grim-future-for-drivers/index.html
+layout: layout.njk
 ---
 Minister’s comments point to grim future for drivers
 ====================================================

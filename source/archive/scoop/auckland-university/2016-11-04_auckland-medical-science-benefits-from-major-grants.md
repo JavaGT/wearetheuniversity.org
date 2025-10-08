@@ -1,9 +1,13 @@
 ---
 slug: auckland-medical-science-benefits-from-major-grants
-title: "Auckland medical science benefits from major grants"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/ED1611/S00022/auckland-medical-science-benefits-from-major-grants.htm
+title: Auckland medical science benefits from major grants
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00022/auckland-medical-science-benefits-from-major-grants.htm
 author: auckland-university
+permalink: >-
+  /archive/2016/11/04/auckland-medical-science-benefits-from-major-grants/index.html
+layout: layout.njk
 ---
 Auckland medical science benefits from major grants
 ===================================================

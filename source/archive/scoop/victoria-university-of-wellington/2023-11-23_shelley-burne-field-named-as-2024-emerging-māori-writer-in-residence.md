@@ -1,9 +1,12 @@
 ---
 slug: shelley-burne-field-named-as-2024-emerging-māori-writer-in-residence
-title: "Shelley Burne-Field Named As 2024 Emerging Māori Writer In Residence"
-date: 2023-11-23
-source-url: https://www.scoop.co.nz/stories/CU2311/S00191/shelley-burne-field-named-as-2024-emerging-maori-writer-in-residence.htm
+title: Shelley Burne-Field Named As 2024 Emerging Māori Writer In Residence
+date: 2023-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2311/S00191/shelley-burne-field-named-as-2024-emerging-maori-writer-in-residence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2023/11/23/shelley-burne-field-named-as-2024-emerging-m/index.html
+layout: layout.njk
 ---
 Shelley Burne-Field Named As 2024 Emerging Māori Writer In Residence
 ====================================================================

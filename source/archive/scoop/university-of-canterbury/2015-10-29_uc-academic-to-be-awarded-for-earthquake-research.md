@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-to-be-awarded-for-earthquake-research
-title: "UC academic to be awarded for earthquake research"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/SC1510/S00085/uc-academic-to-be-awarded-for-earthquake-research.htm
+title: UC academic to be awarded for earthquake research
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00085/uc-academic-to-be-awarded-for-earthquake-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/10/29/uc-academic-to-be-awarded-for-earthquake-research/index.html
+layout: layout.njk
 ---
 UC academic to be awarded for earthquake research
 =================================================

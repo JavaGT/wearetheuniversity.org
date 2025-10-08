@@ -1,9 +1,12 @@
 ---
 slug: ecan-failing-canterburys-rivers-and-lakes
-title: "ECan failing Canterbury’s rivers and lakes"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/AK1605/S00374/ecan-failing-canterburys-rivers-and-lakes.htm
+title: ECan failing Canterbury’s rivers and lakes
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00374/ecan-failing-canterburys-rivers-and-lakes.htm
 author: green-party
+permalink: /archive/2016/05/13/ecan-failing-canterburys-rivers-and-lakes/index.html
+layout: layout.njk
 ---
 ECan failing Canterbury’s rivers and lakes
 ==========================================

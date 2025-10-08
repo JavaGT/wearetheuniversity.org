@@ -1,9 +1,13 @@
 ---
 slug: coalition-calls-for-free-public-transport-to-counter-rising-living-costs
-title: "Coalition Calls For Free Public Transport To Counter Rising Living Costs"
-date: 2022-02-10
-source-url: https://www.scoop.co.nz/stories/PO2202/S00070/coalition-calls-for-free-public-transport-to-counter-rising-living-costs.htm
+title: Coalition Calls For Free Public Transport To Counter Rising Living Costs
+date: 2022-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00070/coalition-calls-for-free-public-transport-to-counter-rising-living-costs.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/02/10/coalition-calls-for-free-public-transport-to-counter-rising-living-costs/index.html
+layout: layout.njk
 ---
 Coalition Calls For Free Public Transport To Counter Rising Living Costs
 ========================================================================

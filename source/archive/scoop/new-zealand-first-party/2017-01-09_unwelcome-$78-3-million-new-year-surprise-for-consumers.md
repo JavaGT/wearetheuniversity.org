@@ -1,9 +1,12 @@
 ---
 slug: unwelcome-$78-3-million-new-year-surprise-for-consumers
-title: "Unwelcome $78.3 Million New Year Surprise for Consumers"
-date: 2017-01-09
-source-url: https://www.scoop.co.nz/stories/PA1701/S00010/unwelcome-783-million-new-year-surprise-for-consumers.htm
+title: Unwelcome $78.3 Million New Year Surprise for Consumers
+date: 2017-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00010/unwelcome-783-million-new-year-surprise-for-consumers.htm
 author: new-zealand-first-party
+permalink: /archive/2017/01/09/unwelcome-/index.html
+layout: layout.njk
 ---
 Unwelcome $78.3 Million New Year Surprise for Consumers
 =======================================================

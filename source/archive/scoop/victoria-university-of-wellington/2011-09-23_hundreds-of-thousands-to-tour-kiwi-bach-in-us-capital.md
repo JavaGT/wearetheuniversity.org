@@ -1,9 +1,13 @@
 ---
 slug: hundreds-of-thousands-to-tour-kiwi-bach-in-us-capital
-title: "Hundreds of thousands to tour Kiwi bach in US capital"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/ED1109/S00106/hundreds-of-thousands-to-tour-kiwi-bach-in-us-capital.htm
+title: Hundreds of thousands to tour Kiwi bach in US capital
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00106/hundreds-of-thousands-to-tour-kiwi-bach-in-us-capital.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/23/hundreds-of-thousands-to-tour-kiwi-bach-in-us-capital/index.html
+layout: layout.njk
 ---
 Hundreds of thousands to tour Kiwi bach in US capital
 =====================================================

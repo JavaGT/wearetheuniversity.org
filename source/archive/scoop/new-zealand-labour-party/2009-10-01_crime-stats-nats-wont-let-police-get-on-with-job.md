@@ -1,9 +1,13 @@
 ---
 slug: crime-stats-nats-wont-let-police-get-on-with-job
-title: "Crime stats: Nats won't let police get on with job"
-date: 2009-10-01
-source-url: https://www.scoop.co.nz/stories/PA0910/S00012/crime-stats-nats-wont-let-police-get-on-with-job.htm
+title: 'Crime stats: Nats won''t let police get on with job'
+date: 2009-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00012/crime-stats-nats-wont-let-police-get-on-with-job.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/01/crime-stats-nats-wont-let-police-get-on-with-job/index.html
+layout: layout.njk
 ---
 Crime stats: Nats won't let police get on with job
 ==================================================

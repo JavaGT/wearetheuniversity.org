@@ -1,9 +1,13 @@
 ---
 slug: counting-sheep-opens-students-eyes-to-statistics
-title: "Counting sheep opens students’ eyes to statistics"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/ED1009/S00099/counting-sheep-opens-students-eyes-to-statistics.htm
+title: Counting sheep opens students’ eyes to statistics
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00099/counting-sheep-opens-students-eyes-to-statistics.htm
 author: massey-university
+permalink: >-
+  /archive/2010/09/22/counting-sheep-opens-students-eyes-to-statistics/index.html
+layout: layout.njk
 ---
 Counting sheep opens students’ eyes to statistics
 =================================================

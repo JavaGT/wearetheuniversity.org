@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-appoints-director-international
-title: "University of Otago appoints Director, International"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/ED1509/S00073/university-of-otago-appoints-director-international.htm
+title: University of Otago appoints Director, International
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00073/university-of-otago-appoints-director-international.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/09/11/university-of-otago-appoints-director-international/index.html
+layout: layout.njk
 ---
 University of Otago appoints Director, International
 ====================================================

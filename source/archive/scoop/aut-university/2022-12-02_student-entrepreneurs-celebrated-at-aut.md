@@ -1,9 +1,12 @@
 ---
 slug: student-entrepreneurs-celebrated-at-aut
-title: "Student Entrepreneurs Celebrated At Aut"
-date: 2022-12-02
-source-url: https://www.scoop.co.nz/stories/SC2212/S00008/student-entrepreneurs-celebrated-at-aut.htm
+title: Student Entrepreneurs Celebrated At Aut
+date: 2022-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2212/S00008/student-entrepreneurs-celebrated-at-aut.htm
 author: aut-university
+permalink: /archive/2022/12/02/student-entrepreneurs-celebrated-at-aut/index.html
+layout: layout.njk
 ---
 Student Entrepreneurs Celebrated At Aut
 =======================================

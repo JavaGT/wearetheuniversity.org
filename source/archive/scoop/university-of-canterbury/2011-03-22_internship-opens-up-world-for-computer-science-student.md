@@ -1,9 +1,13 @@
 ---
 slug: internship-opens-up-world-for-computer-science-student
-title: "Internship opens up world for computer science student"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/ED1103/S00088/internship-opens-up-world-for-computer-science-student.htm
+title: Internship opens up world for computer science student
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00088/internship-opens-up-world-for-computer-science-student.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/22/internship-opens-up-world-for-computer-science-student/index.html
+layout: layout.njk
 ---
 Internship opens up world for computer science student
 ======================================================

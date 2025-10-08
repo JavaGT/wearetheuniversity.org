@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcome-paid-parental-leave
-title: "University staff welcome paid parental leave"
-date: 2001-11-08
-source-url: https://www.scoop.co.nz/stories/ED0111/S00028/university-staff-welcome-paid-parental-leave.htm
+title: University staff welcome paid parental leave
+date: 2001-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00028/university-staff-welcome-paid-parental-leave.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/08/university-staff-welcome-paid-parental-leave/index.html
+layout: layout.njk
 ---
 University staff welcome paid parental leave
 ============================================

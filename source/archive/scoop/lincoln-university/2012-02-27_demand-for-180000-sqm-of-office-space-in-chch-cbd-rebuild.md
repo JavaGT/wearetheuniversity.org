@@ -1,9 +1,13 @@
 ---
 slug: demand-for-180000-sqm-of-office-space-in-chch-cbd-rebuild
-title: "Demand for 180,000 SQm of Office Space in Chch CBD Rebuild"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/BU1202/S00901/demand-for-180000-sqm-of-office-space-in-chch-cbd-rebuild.htm
+title: Demand for 180,000 SQm of Office Space in Chch CBD Rebuild
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1202/S00901/demand-for-180000-sqm-of-office-space-in-chch-cbd-rebuild.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/02/27/demand-for-180000-sqm-of-office-space-in-chch-cbd-rebuild/index.html
+layout: layout.njk
 ---
 Demand for 180,000 SQm of Office Space in Chch CBD Rebuild
 ==========================================================

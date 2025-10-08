@@ -1,9 +1,12 @@
 ---
 slug: great-barrier-is-arts-and-heritage-village-open
-title: "Great Barrier Is Arts and Heritage Village open"
-date: 2009-12-17
-source-url: https://www.scoop.co.nz/stories/PA0912/S00318/great-barrier-is-arts-and-heritage-village-open.htm
+title: Great Barrier Is Arts and Heritage Village open
+date: 2009-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00318/great-barrier-is-arts-and-heritage-village-open.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/17/great-barrier-is-arts-and-heritage-village-open/index.html
+layout: layout.njk
 ---
 Great Barrier Is Arts and Heritage Village open
 ===============================================

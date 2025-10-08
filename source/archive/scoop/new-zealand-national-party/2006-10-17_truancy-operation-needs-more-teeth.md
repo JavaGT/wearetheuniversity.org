@@ -1,9 +1,12 @@
 ---
 slug: truancy-operation-needs-more-teeth
-title: "Truancy operation needs more teeth"
-date: 2006-10-17
-source-url: https://www.scoop.co.nz/stories/PA0610/S00320/truancy-operation-needs-more-teeth.htm
+title: Truancy operation needs more teeth
+date: 2006-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00320/truancy-operation-needs-more-teeth.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/17/truancy-operation-needs-more-teeth/index.html
+layout: layout.njk
 ---
 Truancy operation needs more teeth
 ==================================

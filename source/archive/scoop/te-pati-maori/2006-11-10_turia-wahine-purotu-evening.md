@@ -1,9 +1,11 @@
 ---
 slug: turia-wahine-purotu-evening
-title: "Turia: Wahine Purotu Evening"
-date: 2006-11-10
+title: 'Turia: Wahine Purotu Evening'
+date: 2006-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00192/turia-wahine-purotu-evening.htm
 author: te-pati-maori
+permalink: /archive/2006/11/10/turia-wahine-purotu-evening/index.html
+layout: layout.njk
 ---
 Turia: Wahine Purotu Evening
 ============================

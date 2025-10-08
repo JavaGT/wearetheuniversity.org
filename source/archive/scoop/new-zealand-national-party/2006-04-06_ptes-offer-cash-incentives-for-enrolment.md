@@ -1,9 +1,12 @@
 ---
 slug: ptes-offer-cash-incentives-for-enrolment
-title: "PTEs offer cash incentives for enrolment"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/PA0604/S00134/ptes-offer-cash-incentives-for-enrolment.htm
+title: PTEs offer cash incentives for enrolment
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00134/ptes-offer-cash-incentives-for-enrolment.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/06/ptes-offer-cash-incentives-for-enrolment/index.html
+layout: layout.njk
 ---
 PTEs offer cash incentives for enrolment
 ========================================

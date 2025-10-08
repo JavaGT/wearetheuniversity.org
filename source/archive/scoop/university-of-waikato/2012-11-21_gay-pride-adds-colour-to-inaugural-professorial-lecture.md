@@ -1,9 +1,13 @@
 ---
 slug: gay-pride-adds-colour-to-inaugural-professorial-lecture
-title: "Gay pride adds colour to inaugural professorial lecture"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/ED1211/S00157/gay-pride-adds-colour-to-inaugural-professorial-lecture.htm
+title: Gay pride adds colour to inaugural professorial lecture
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00157/gay-pride-adds-colour-to-inaugural-professorial-lecture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/21/gay-pride-adds-colour-to-inaugural-professorial-lecture/index.html
+layout: layout.njk
 ---
 Gay pride adds colour to inaugural professorial lecture
 =======================================================

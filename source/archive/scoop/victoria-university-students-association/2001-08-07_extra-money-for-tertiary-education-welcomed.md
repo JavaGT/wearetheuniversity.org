@@ -1,9 +1,12 @@
 ---
 slug: extra-money-for-tertiary-education-welcomed
-title: "Extra Money for Tertiary Education Welcomed"
-date: 2001-08-07
-source-url: https://www.scoop.co.nz/stories/ED0108/S00029/extra-money-for-tertiary-education-welcomed.htm
+title: Extra Money for Tertiary Education Welcomed
+date: 2001-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00029/extra-money-for-tertiary-education-welcomed.htm
 author: victoria-university-students-association
+permalink: /archive/2001/08/07/extra-money-for-tertiary-education-welcomed/index.html
+layout: layout.njk
 ---
 Extra Money for Tertiary Education Welcomed
 ===========================================

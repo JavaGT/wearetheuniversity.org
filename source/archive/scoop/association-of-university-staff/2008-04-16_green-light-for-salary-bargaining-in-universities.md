@@ -1,9 +1,13 @@
 ---
 slug: green-light-for-salary-bargaining-in-universities
-title: "Green light for salary bargaining in universities"
-date: 2008-04-16
-source-url: https://www.scoop.co.nz/stories/ED0804/S00045/green-light-for-salary-bargaining-in-universities.htm
+title: Green light for salary bargaining in universities
+date: 2008-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00045/green-light-for-salary-bargaining-in-universities.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/04/16/green-light-for-salary-bargaining-in-universities/index.html
+layout: layout.njk
 ---
 Green light for salary bargaining in universities
 =================================================

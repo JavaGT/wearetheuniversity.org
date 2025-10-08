@@ -1,9 +1,13 @@
 ---
 slug: men-issues-summit-to-focus-on-embattled-kiwi-male
-title: "Men Issues Summit to focus on embattled Kiwi male"
-date: 2005-05-03
-source-url: https://www.scoop.co.nz/stories/ED0505/S00010/men-issues-summit-to-focus-on-embattled-kiwi-male.htm
+title: Men Issues Summit to focus on embattled Kiwi male
+date: 2005-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00010/men-issues-summit-to-focus-on-embattled-kiwi-male.htm
 author: aut-university
+permalink: >-
+  /archive/2005/05/03/men-issues-summit-to-focus-on-embattled-kiwi-male/index.html
+layout: layout.njk
 ---
 Men Issues Summit to focus on embattled Kiwi male
 =================================================

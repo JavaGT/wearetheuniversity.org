@@ -1,9 +1,13 @@
 ---
 slug: new-research-on-self-harm-among-wellington-youth
-title: "New research on self-harm among Wellington youth"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/GE1012/S00076/new-research-on-self-harm-among-wellington-youth.htm
+title: New research on self-harm among Wellington youth
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00076/new-research-on-self-harm-among-wellington-youth.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/16/new-research-on-self-harm-among-wellington-youth/index.html
+layout: layout.njk
 ---
 New research on self-harm among Wellington youth
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-student-allowance-policy-rejected
-title: "Labour's student allowance policy rejected"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00043/labours-student-allowance-policy-rejected.htm
+title: Labour's student allowance policy rejected
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00043/labours-student-allowance-policy-rejected.htm
 author: act-on-campus
+permalink: /archive/2008/10/13/labours-student-allowance-policy-rejected/index.html
+layout: layout.njk
 ---
 Labour's student allowance policy rejected
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: international-students-deserve-better
-title: "International students deserve better"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/PA0608/S00414/international-students-deserve-better.htm
+title: International students deserve better
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00414/international-students-deserve-better.htm
 author: green-party
+permalink: /archive/2006/08/24/international-students-deserve-better/index.html
+layout: layout.njk
 ---
 International students deserve better
 =====================================

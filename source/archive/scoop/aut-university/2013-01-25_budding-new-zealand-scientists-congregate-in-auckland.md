@@ -1,9 +1,13 @@
 ---
 slug: budding-new-zealand-scientists-congregate-in-auckland
-title: "Budding New Zealand scientists congregate in Auckland"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/ED1301/S00085/budding-new-zealand-scientists-congregate-in-auckland.htm
+title: Budding New Zealand scientists congregate in Auckland
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00085/budding-new-zealand-scientists-congregate-in-auckland.htm
 author: aut-university
+permalink: >-
+  /archive/2013/01/25/budding-new-zealand-scientists-congregate-in-auckland/index.html
+layout: layout.njk
 ---
 Budding New Zealand scientists congregate in Auckland
 =====================================================

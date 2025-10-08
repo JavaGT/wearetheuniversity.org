@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-wins-aid-funding-for-east-timor
-title: "Waikato University wins aid funding for East Timor"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00041/waikato-university-wins-aid-funding-for-east-timor.htm
+title: Waikato University wins aid funding for East Timor
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00041/waikato-university-wins-aid-funding-for-east-timor.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/09/08/waikato-university-wins-aid-funding-for-east-timor/index.html
+layout: layout.njk
 ---
 Waikato University wins aid funding for East Timor
 ==================================================

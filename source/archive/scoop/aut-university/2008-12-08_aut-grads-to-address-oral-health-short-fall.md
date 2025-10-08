@@ -1,9 +1,12 @@
 ---
 slug: aut-grads-to-address-oral-health-short-fall
-title: "AUT grads to address oral health short-fall"
-date: 2008-12-08
-source-url: https://www.scoop.co.nz/stories/ED0812/S00025/aut-grads-to-address-oral-health-short-fall.htm
+title: AUT grads to address oral health short-fall
+date: 2008-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00025/aut-grads-to-address-oral-health-short-fall.htm
 author: aut-university
+permalink: /archive/2008/12/08/aut-grads-to-address-oral-health-short-fall/index.html
+layout: layout.njk
 ---
 AUT grads to address oral health short-fall
 ===========================================

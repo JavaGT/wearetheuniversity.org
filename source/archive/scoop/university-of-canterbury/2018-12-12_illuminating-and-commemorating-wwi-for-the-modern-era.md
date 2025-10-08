@@ -1,9 +1,13 @@
 ---
 slug: illuminating-and-commemorating-wwi-for-the-modern-era
-title: "Illuminating and commemorating WWI for the modern era"
-date: 2018-12-12
-source-url: https://www.scoop.co.nz/stories/CU1812/S00094/illuminating-and-commemorating-wwi-for-the-modern-era.htm
+title: Illuminating and commemorating WWI for the modern era
+date: 2018-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1812/S00094/illuminating-and-commemorating-wwi-for-the-modern-era.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/12/12/illuminating-and-commemorating-wwi-for-the-modern-era/index.html
+layout: layout.njk
 ---
 Illuminating and commemorating WWI for the modern era
 =====================================================

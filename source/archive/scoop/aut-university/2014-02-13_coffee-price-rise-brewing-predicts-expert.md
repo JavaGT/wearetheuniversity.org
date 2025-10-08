@@ -1,9 +1,12 @@
 ---
 slug: coffee-price-rise-brewing-predicts-expert
-title: "Coffee price-rise brewing predicts expert"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/ED1402/S00053/coffee-price-rise-brewing-predicts-expert.htm
+title: Coffee price-rise brewing predicts expert
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00053/coffee-price-rise-brewing-predicts-expert.htm
 author: aut-university
+permalink: /archive/2014/02/13/coffee-price-rise-brewing-predicts-expert/index.html
+layout: layout.njk
 ---
 Coffee price-rise brewing predicts expert
 =========================================

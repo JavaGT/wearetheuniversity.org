@@ -1,9 +1,11 @@
 ---
 slug: innocence
-title: "Innocence"
-date: 2009-08-17
+title: Innocence
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0908/S00126/innocence.htm
 author: salient
+permalink: /archive/2009/08/17/innocence/index.html
+layout: layout.njk
 ---
 Innocence
 =========

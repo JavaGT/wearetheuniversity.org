@@ -1,9 +1,12 @@
 ---
 slug: plain-english-how-is-the-nation-doing
-title: "Plain English: How is the Nation Doing?"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00052/plain-english-how-is-the-nation-doing.htm
+title: 'Plain English: How is the Nation Doing?'
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00052/plain-english-how-is-the-nation-doing.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/plain-english-how-is-the-nation-doing/index.html
+layout: layout.njk
 ---
 Plain English: How is the Nation Doing?
 =======================================

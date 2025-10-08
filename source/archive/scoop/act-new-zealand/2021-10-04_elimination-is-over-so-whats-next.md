@@ -1,9 +1,12 @@
 ---
 slug: elimination-is-over-so-whats-next
-title: "Elimination Is Over, So What’s Next?"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/PA2110/S00031/elimination-is-over-so-whats-next.htm
+title: Elimination Is Over, So What’s Next?
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00031/elimination-is-over-so-whats-next.htm
 author: act-new-zealand
+permalink: /archive/2021/10/04/elimination-is-over-so-whats-next/index.html
+layout: layout.njk
 ---
 Elimination Is Over, So What’s Next?
 ====================================

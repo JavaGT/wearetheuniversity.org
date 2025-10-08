@@ -1,9 +1,13 @@
 ---
 slug: call-for-inquiry-peter-dunne-and-northern-wellington-trust
-title: "Call for inquiry: Peter Dunne and Northern Wellington Trust"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/PA1404/S00191/call-for-inquiry-peter-dunne-and-northern-wellington-trust.htm
+title: 'Call for inquiry: Peter Dunne and Northern Wellington Trust'
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00191/call-for-inquiry-peter-dunne-and-northern-wellington-trust.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/10/call-for-inquiry-peter-dunne-and-northern-wellington-trust/index.html
+layout: layout.njk
 ---
 Call for inquiry: Peter Dunne and Northern Wellington Trust
 ===========================================================

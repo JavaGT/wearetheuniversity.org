@@ -1,9 +1,13 @@
 ---
 slug: free-online-learning-venture-to-go-live-next-week
-title: "Free online learning venture to go live next week"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00014/free-online-learning-venture-to-go-live-next-week.htm
+title: Free online learning venture to go live next week
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00014/free-online-learning-venture-to-go-live-next-week.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/02/free-online-learning-venture-to-go-live-next-week/index.html
+layout: layout.njk
 ---
 Free online learning venture to go live next week
 =================================================

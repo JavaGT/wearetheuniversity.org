@@ -1,9 +1,12 @@
 ---
 slug: uc-first-to-receive-international-5-star-rating
-title: "UC first to receive international 5-star rating"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/ED1109/S00102/uc-first-to-receive-international-5-star-rating.htm
+title: UC first to receive international 5-star rating
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00102/uc-first-to-receive-international-5-star-rating.htm
 author: university-of-canterbury
+permalink: /archive/2011/09/23/uc-first-to-receive-international-5-star-rating/index.html
+layout: layout.njk
 ---
 UC first to receive international 5-star rating
 ===============================================

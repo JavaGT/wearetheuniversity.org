@@ -1,9 +1,12 @@
 ---
 slug: grandmothers-graduation-triumph-of-human-spirit
-title: "grandmother’s graduation triumph of human spirit"
-date: 2004-04-07
-source-url: https://www.scoop.co.nz/stories/ED0404/S00023/grandmothers-graduation-triumph-of-human-spirit.htm
+title: grandmother’s graduation triumph of human spirit
+date: 2004-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00023/grandmothers-graduation-triumph-of-human-spirit.htm
 author: university-of-canterbury
+permalink: /archive/2004/04/07/grandmothers-graduation-triumph-of-human-spirit/index.html
+layout: layout.njk
 ---
 grandmother’s graduation triumph of human spirit
 ================================================

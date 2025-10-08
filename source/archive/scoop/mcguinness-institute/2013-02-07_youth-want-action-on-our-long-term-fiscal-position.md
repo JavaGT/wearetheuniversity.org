@@ -1,9 +1,13 @@
 ---
 slug: youth-want-action-on-our-long-term-fiscal-position
-title: "Youth want action on our long-term fiscal position"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/PO1302/S00048/youth-want-action-on-our-long-term-fiscal-position.htm
+title: Youth want action on our long-term fiscal position
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00048/youth-want-action-on-our-long-term-fiscal-position.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2013/02/07/youth-want-action-on-our-long-term-fiscal-position/index.html
+layout: layout.njk
 ---
 Youth want action on our long-term fiscal position
 ==================================================

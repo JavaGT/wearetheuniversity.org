@@ -1,9 +1,13 @@
 ---
 slug: time-for-maori-leaders-to-stand-up-and-be-counted
-title: "Time for Maori Leaders to stand up and be counted"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/PO0409/S00249/time-for-maori-leaders-to-stand-up-and-be-counted.htm
+title: Time for Maori Leaders to stand up and be counted
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0409/S00249/time-for-maori-leaders-to-stand-up-and-be-counted.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/09/27/time-for-maori-leaders-to-stand-up-and-be-counted/index.html
+layout: layout.njk
 ---
 Time for Maori Leaders to stand up and be counted
 =================================================

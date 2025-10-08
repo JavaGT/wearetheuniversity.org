@@ -1,9 +1,13 @@
 ---
 slug: foolish-rejection-of-commuter-rail-carries-nationals-hallma
-title: "Foolish Rejection of Commuter Rail Carries National’s Hallma"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PA1407/S00446/foolish-rejection-of-commuter-rail-carries-nationals-hallma.htm
+title: Foolish Rejection of Commuter Rail Carries National’s Hallma
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00446/foolish-rejection-of-commuter-rail-carries-nationals-hallma.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/07/23/foolish-rejection-of-commuter-rail-carries-nationals-hallma/index.html
+layout: layout.njk
 ---
 Foolish Rejection of Commuter Rail Carries National’s Hallma
 ============================================================

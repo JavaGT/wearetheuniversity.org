@@ -1,9 +1,13 @@
 ---
 slug: better-preparation-could-reduce-need-for-search-and-rescue
-title: "Better preparation could reduce need for search and rescue"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/CU1406/S00277/better-preparation-could-reduce-need-for-search-and-rescue.htm
+title: Better preparation could reduce need for search and rescue
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00277/better-preparation-could-reduce-need-for-search-and-rescue.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/20/better-preparation-could-reduce-need-for-search-and-rescue/index.html
+layout: layout.njk
 ---
 Better preparation could reduce need for search and rescue
 ==========================================================

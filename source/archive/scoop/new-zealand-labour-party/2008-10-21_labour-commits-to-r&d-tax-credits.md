@@ -1,9 +1,12 @@
 ---
 slug: labour-commits-to-r&d-tax-credits
-title: "Labour commits to R&D tax credits"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/PA0810/S00474/labour-commits-to-rd-tax-credits.htm
+title: Labour commits to R&D tax credits
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00474/labour-commits-to-rd-tax-credits.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/21/labour-commits-to-r/index.html
+layout: layout.njk
 ---
 Labour commits to R&D tax credits
 =================================

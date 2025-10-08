@@ -1,9 +1,12 @@
 ---
 slug: strongest-worker-support-since-era
-title: "Strongest Worker Support Since ERA"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PO0203/S00013/strongest-worker-support-since-era.htm
+title: Strongest Worker Support Since ERA
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00013/strongest-worker-support-since-era.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/03/01/strongest-worker-support-since-era/index.html
+layout: layout.njk
 ---
 Strongest Worker Support Since ERA
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: prehistoric-earthquakes-and-snail-shells-may-give-future-insights
-title: "Prehistoric Earthquakes And Snail Shells May Give Future Insights"
-date: 2022-05-09
-source-url: https://www.scoop.co.nz/stories/SC2205/S00013/prehistoric-earthquakes-and-snail-shells-may-give-future-insights.htm
+title: Prehistoric Earthquakes And Snail Shells May Give Future Insights
+date: 2022-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00013/prehistoric-earthquakes-and-snail-shells-may-give-future-insights.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/09/prehistoric-earthquakes-and-snail-shells-may-give-future-insights/index.html
+layout: layout.njk
 ---
 Prehistoric Earthquakes And Snail Shells May Give Future Insights
 =================================================================

@@ -1,9 +1,11 @@
 ---
 slug: teachers-can-feel-miffed
-title: "Teachers Can Feel ‘Miffed’"
-date: 2017-08-21
+title: Teachers Can Feel ‘Miffed’
+date: 2017-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1708/S00418/teachers-can-feel-miffed.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/21/teachers-can-feel-miffed/index.html
+layout: layout.njk
 ---
 Teachers Can Feel ‘Miffed’
 ==========================

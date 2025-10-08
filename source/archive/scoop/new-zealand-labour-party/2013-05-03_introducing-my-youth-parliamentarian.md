@@ -1,9 +1,12 @@
 ---
 slug: introducing-my-youth-parliamentarian
-title: "Introducing my Youth Parliamentarian"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/PA1305/S00036/introducing-my-youth-parliamentarian.htm
+title: Introducing my Youth Parliamentarian
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00036/introducing-my-youth-parliamentarian.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/03/introducing-my-youth-parliamentarian/index.html
+layout: layout.njk
 ---
 Introducing my Youth Parliamentarian
 ====================================

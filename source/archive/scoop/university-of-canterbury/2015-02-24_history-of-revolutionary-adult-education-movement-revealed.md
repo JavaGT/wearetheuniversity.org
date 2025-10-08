@@ -1,9 +1,13 @@
 ---
 slug: history-of-revolutionary-adult-education-movement-revealed
-title: "History of revolutionary adult education movement revealed"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/CU1502/S00492/history-of-revolutionary-adult-education-movement-revealed.htm
+title: History of revolutionary adult education movement revealed
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00492/history-of-revolutionary-adult-education-movement-revealed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/24/history-of-revolutionary-adult-education-movement-revealed/index.html
+layout: layout.njk
 ---
 History of revolutionary adult education movement revealed
 ==========================================================

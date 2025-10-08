@@ -1,9 +1,12 @@
 ---
 slug: fifty-years-from-the-woodhouse-report
-title: "Fifty Years From the Woodhouse Report"
-date: 2017-12-08
-source-url: https://www.scoop.co.nz/stories/PO1712/S00084/fifty-years-from-the-woodhouse-report.htm
+title: Fifty Years From the Woodhouse Report
+date: 2017-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1712/S00084/fifty-years-from-the-woodhouse-report.htm
 author: aut-university
+permalink: /archive/2017/12/08/fifty-years-from-the-woodhouse-report/index.html
+layout: layout.njk
 ---
 Fifty Years From the Woodhouse Report
 =====================================

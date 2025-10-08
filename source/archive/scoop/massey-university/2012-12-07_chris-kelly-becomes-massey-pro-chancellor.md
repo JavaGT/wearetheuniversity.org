@@ -1,9 +1,12 @@
 ---
 slug: chris-kelly-becomes-massey-pro-chancellor
-title: "Chris Kelly becomes Massey Pro Chancellor"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/ED1212/S00047/chris-kelly-becomes-massey-pro-chancellor.htm
+title: Chris Kelly becomes Massey Pro Chancellor
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00047/chris-kelly-becomes-massey-pro-chancellor.htm
 author: massey-university
+permalink: /archive/2012/12/07/chris-kelly-becomes-massey-pro-chancellor/index.html
+layout: layout.njk
 ---
 Chris Kelly becomes Massey Pro Chancellor
 =========================================

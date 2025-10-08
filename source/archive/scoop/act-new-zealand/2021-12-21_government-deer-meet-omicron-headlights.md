@@ -1,9 +1,12 @@
 ---
 slug: government-deer-meet-omicron-headlights
-title: "Government Deer, Meet Omicron Headlights"
-date: 2021-12-21
-source-url: https://www.scoop.co.nz/stories/PA2112/S00170/government-deer-meet-omicron-headlights.htm
+title: Government Deer, Meet Omicron Headlights
+date: 2021-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00170/government-deer-meet-omicron-headlights.htm
 author: act-new-zealand
+permalink: /archive/2021/12/21/government-deer-meet-omicron-headlights/index.html
+layout: layout.njk
 ---
 Government Deer, Meet Omicron Headlights
 ========================================

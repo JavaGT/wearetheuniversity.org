@@ -1,9 +1,12 @@
 ---
 slug: power-failure-highlights-grids-fragility
-title: "Power failure highlights grid's fragility"
-date: 2006-06-12
-source-url: https://www.scoop.co.nz/stories/PA0606/S00173/power-failure-highlights-grids-fragility.htm
+title: Power failure highlights grid's fragility
+date: 2006-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00173/power-failure-highlights-grids-fragility.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/12/power-failure-highlights-grids-fragility/index.html
+layout: layout.njk
 ---
 Power failure highlights grid's fragility
 =========================================

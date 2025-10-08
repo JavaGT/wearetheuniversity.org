@@ -1,9 +1,12 @@
 ---
 slug: sos-summer-of-starvation-demonstration
-title: "SOS: Summer of Starvation demonstration"
-date: 2000-08-18
-source-url: https://www.scoop.co.nz/stories/PO0008/S00130/sos-summer-of-starvation-demonstration.htm
+title: 'SOS: Summer of Starvation demonstration'
+date: 2000-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00130/sos-summer-of-starvation-demonstration.htm
 author: fightback
+permalink: /archive/2000/08/18/sos-summer-of-starvation-demonstration/index.html
+layout: layout.njk
 ---
 SOS: Summer of Starvation demonstration
 =======================================

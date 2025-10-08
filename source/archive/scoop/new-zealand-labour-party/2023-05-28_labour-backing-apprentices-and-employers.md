@@ -1,9 +1,12 @@
 ---
 slug: labour-backing-apprentices-and-employers
-title: "Labour Backing Apprentices And Employers"
-date: 2023-05-28
-source-url: https://www.scoop.co.nz/stories/PO2305/S00202/labour-backing-apprentices-and-employers.htm
+title: Labour Backing Apprentices And Employers
+date: 2023-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00202/labour-backing-apprentices-and-employers.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/05/28/labour-backing-apprentices-and-employers/index.html
+layout: layout.njk
 ---
 Labour Backing Apprentices And Employers
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: assessments-for-dyslexia-should-be-state-funded
-title: "Assessments for dyslexia should be state funded"
-date: 2016-03-14
-source-url: https://www.scoop.co.nz/stories/PA1603/S00224/assessments-for-dyslexia-should-be-state-funded.htm
+title: Assessments for dyslexia should be state funded
+date: 2016-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00224/assessments-for-dyslexia-should-be-state-funded.htm
 author: green-party
+permalink: /archive/2016/03/14/assessments-for-dyslexia-should-be-state-funded/index.html
+layout: layout.njk
 ---
 Assessments for dyslexia should be state funded
 ===============================================

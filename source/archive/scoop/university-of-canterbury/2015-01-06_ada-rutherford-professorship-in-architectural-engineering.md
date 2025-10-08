@@ -1,9 +1,13 @@
 ---
 slug: ada-rutherford-professorship-in-architectural-engineering
-title: "Ada Rutherford professorship in architectural engineering"
-date: 2015-01-06
-source-url: https://www.scoop.co.nz/stories/ED1501/S00007/ada-rutherford-professorship-in-architectural-engineering.htm
+title: Ada Rutherford professorship in architectural engineering
+date: 2015-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00007/ada-rutherford-professorship-in-architectural-engineering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/06/ada-rutherford-professorship-in-architectural-engineering/index.html
+layout: layout.njk
 ---
 Ada Rutherford professorship in architectural engineering
 =========================================================

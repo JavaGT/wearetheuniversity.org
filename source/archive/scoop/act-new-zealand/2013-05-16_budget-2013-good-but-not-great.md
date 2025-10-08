@@ -1,9 +1,12 @@
 ---
 slug: budget-2013-good-but-not-great
-title: "Budget 2013: Good - But Not Great"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00342/budget-2013-good-but-not-great.htm
+title: 'Budget 2013: Good - But Not Great'
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00342/budget-2013-good-but-not-great.htm
 author: act-new-zealand
+permalink: /archive/2013/05/16/budget-2013-good-but-not-great/index.html
+layout: layout.njk
 ---
 Budget 2013: Good - But Not Great
 =================================

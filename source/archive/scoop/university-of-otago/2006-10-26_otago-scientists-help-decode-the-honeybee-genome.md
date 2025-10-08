@@ -1,9 +1,13 @@
 ---
 slug: otago-scientists-help-decode-the-honeybee-genome
-title: "Otago Scientists help decode the Honeybee Genome"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/SC0610/S00060/otago-scientists-help-decode-the-honeybee-genome.htm
+title: Otago Scientists help decode the Honeybee Genome
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0610/S00060/otago-scientists-help-decode-the-honeybee-genome.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/10/26/otago-scientists-help-decode-the-honeybee-genome/index.html
+layout: layout.njk
 ---
 Otago Scientists help decode the Honeybee Genome
 ================================================

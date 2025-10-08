@@ -1,9 +1,13 @@
 ---
 slug: students-aim-for-world-speed-record-in-custom-built-electric-car
-title: "Students Aim For World Speed Record In Custom-built Electric Car"
-date: 2022-11-22
-source-url: https://www.scoop.co.nz/stories/ED2211/S00039/students-aim-for-world-speed-record-in-custom-built-electric-car.htm
+title: Students Aim For World Speed Record In Custom-built Electric Car
+date: 2022-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00039/students-aim-for-world-speed-record-in-custom-built-electric-car.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/22/students-aim-for-world-speed-record-in-custom-built-electric-car/index.html
+layout: layout.njk
 ---
 Students Aim For World Speed Record In Custom-built Electric Car
 ================================================================

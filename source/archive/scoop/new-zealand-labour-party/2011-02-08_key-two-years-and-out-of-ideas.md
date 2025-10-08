@@ -1,9 +1,12 @@
 ---
 slug: key-two-years-and-out-of-ideas
-title: "Key: Two years and out of ideas"
-date: 2011-02-08
-source-url: https://www.scoop.co.nz/stories/PA1102/S00101/key-two-years-and-out-of-ideas.htm
+title: 'Key: Two years and out of ideas'
+date: 2011-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00101/key-two-years-and-out-of-ideas.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/08/key-two-years-and-out-of-ideas/index.html
+layout: layout.njk
 ---
 Key: Two years and out of ideas
 ===============================

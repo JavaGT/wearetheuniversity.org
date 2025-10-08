@@ -1,9 +1,12 @@
 ---
 slug: strong-tertiary-education-vital-for-our-future
-title: "Strong tertiary education vital for our future"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/PA1110/S00164/strong-tertiary-education-vital-for-our-future.htm
+title: Strong tertiary education vital for our future
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00164/strong-tertiary-education-vital-for-our-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/07/strong-tertiary-education-vital-for-our-future/index.html
+layout: layout.njk
 ---
 Strong tertiary education vital for our future
 ==============================================

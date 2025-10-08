@@ -1,9 +1,12 @@
 ---
 slug: govt-fails-to-trust-cantabrians-with-democracy
-title: "Govt fails to trust Cantabrians with democracy"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/PA1507/S00154/govt-fails-to-trust-cantabrians-with-democracy.htm
+title: Govt fails to trust Cantabrians with democracy
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00154/govt-fails-to-trust-cantabrians-with-democracy.htm
 author: green-party
+permalink: /archive/2015/07/08/govt-fails-to-trust-cantabrians-with-democracy/index.html
+layout: layout.njk
 ---
 Govt fails to trust Cantabrians with democracy
 ==============================================

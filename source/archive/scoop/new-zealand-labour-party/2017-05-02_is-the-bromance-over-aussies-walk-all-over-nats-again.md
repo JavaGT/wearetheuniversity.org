@@ -1,9 +1,13 @@
 ---
 slug: is-the-bromance-over-aussies-walk-all-over-nats-again
-title: "Is the bromance over? Aussies walk all over Nats again"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PA1705/S00024/is-the-bromance-over-aussies-walk-all-over-nats-again.htm
+title: Is the bromance over? Aussies walk all over Nats again
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00024/is-the-bromance-over-aussies-walk-all-over-nats-again.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/02/is-the-bromance-over-aussies-walk-all-over-nats-again/index.html
+layout: layout.njk
 ---
 Is the bromance over? Aussies walk all over Nats again
 ======================================================

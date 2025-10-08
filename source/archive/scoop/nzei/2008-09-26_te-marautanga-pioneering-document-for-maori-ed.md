@@ -1,9 +1,12 @@
 ---
 slug: te-marautanga-pioneering-document-for-maori-ed
-title: "Te Marautanga Pioneering Document For Maori Ed"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/ED0809/S00092/te-marautanga-pioneering-document-for-maori-ed.htm
+title: Te Marautanga Pioneering Document For Maori Ed
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00092/te-marautanga-pioneering-document-for-maori-ed.htm
 author: nzei
+permalink: /archive/2008/09/26/te-marautanga-pioneering-document-for-maori-ed/index.html
+layout: layout.njk
 ---
 Te Marautanga Pioneering Document For Maori Ed
 ==============================================

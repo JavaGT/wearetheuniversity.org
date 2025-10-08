@@ -1,9 +1,12 @@
 ---
 slug: tolleys-talk-not-matched-by-actions
-title: "Tolley’s talk not matched by actions"
-date: 2009-10-01
-source-url: https://www.scoop.co.nz/stories/PA0910/S00005/tolleys-talk-not-matched-by-actions.htm
+title: Tolley’s talk not matched by actions
+date: 2009-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00005/tolleys-talk-not-matched-by-actions.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/01/tolleys-talk-not-matched-by-actions/index.html
+layout: layout.njk
 ---
 Tolley’s talk not matched by actions
 ====================================

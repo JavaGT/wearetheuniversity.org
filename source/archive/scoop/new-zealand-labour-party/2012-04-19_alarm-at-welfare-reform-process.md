@@ -1,9 +1,12 @@
 ---
 slug: alarm-at-welfare-reform-process
-title: "Alarm at welfare reform process"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/PA1204/S00251/alarm-at-welfare-reform-process.htm
+title: Alarm at welfare reform process
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00251/alarm-at-welfare-reform-process.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/19/alarm-at-welfare-reform-process/index.html
+layout: layout.njk
 ---
 Alarm at welfare reform process
 ===============================

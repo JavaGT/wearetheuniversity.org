@@ -1,9 +1,13 @@
 ---
 slug: research-freedom-threatened-by-commercialisation
-title: "Research freedom threatened by commercialisation"
-date: 2000-04-13
-source-url: https://www.scoop.co.nz/stories/ED0004/S00014/research-freedom-threatened-by-commercialisation.htm
+title: Research freedom threatened by commercialisation
+date: 2000-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00014/research-freedom-threatened-by-commercialisation.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/04/13/research-freedom-threatened-by-commercialisation/index.html
+layout: layout.njk
 ---
 Research freedom threatened by commercialisation
 ================================================

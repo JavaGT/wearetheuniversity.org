@@ -1,9 +1,11 @@
 ---
 slug: flavell-ngati-mutunga
-title: "Flavell: Ngati Mutunga"
-date: 2006-07-27
+title: 'Flavell: Ngati Mutunga'
+date: 2006-07-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00483/flavell-ngati-mutunga.htm
 author: te-pati-maori
+permalink: /archive/2006/07/27/flavell-ngati-mutunga/index.html
+layout: layout.njk
 ---
 Flavell: Ngati Mutunga
 ======================

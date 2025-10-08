@@ -1,9 +1,13 @@
 ---
 slug: uc-quakebox-opens-to-record-earthquake-experiences
-title: "UC QuakeBox opens to record earthquake experiences"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/AK1204/S00492/uc-quakebox-opens-to-record-earthquake-experiences.htm
+title: UC QuakeBox opens to record earthquake experiences
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1204/S00492/uc-quakebox-opens-to-record-earthquake-experiences.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/04/20/uc-quakebox-opens-to-record-earthquake-experiences/index.html
+layout: layout.njk
 ---
 UC QuakeBox opens to record earthquake experiences
 ==================================================

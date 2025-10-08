@@ -1,9 +1,13 @@
 ---
 slug: nicola-willis-restoring-discipline-to-government-policy
-title: "Nicola Willis - Restoring Discipline To Government Policy"
-date: 2022-05-10
-source-url: https://www.scoop.co.nz/stories/PO2205/S00071/nicola-willis-restoring-discipline-to-government-policy.htm
+title: Nicola Willis - Restoring Discipline To Government Policy
+date: 2022-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00071/nicola-willis-restoring-discipline-to-government-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/05/10/nicola-willis-restoring-discipline-to-government-policy/index.html
+layout: layout.njk
 ---
 Nicola Willis - Restoring Discipline To Government Policy
 =========================================================

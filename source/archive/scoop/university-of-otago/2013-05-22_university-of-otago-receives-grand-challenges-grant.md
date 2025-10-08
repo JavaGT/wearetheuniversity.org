@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-receives-grand-challenges-grant
-title: "University of Otago receives Grand Challenges Grant"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/GE1305/S00125/university-of-otago-receives-grand-challenges-grant.htm
+title: University of Otago receives Grand Challenges Grant
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00125/university-of-otago-receives-grand-challenges-grant.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/22/university-of-otago-receives-grand-challenges-grant/index.html
+layout: layout.njk
 ---
 University of Otago receives Grand Challenges Grant
 ===================================================

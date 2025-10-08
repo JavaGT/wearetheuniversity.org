@@ -1,9 +1,12 @@
 ---
 slug: steve-should-not-forget-pre-election-pledge
-title: "Steve Should Not Forget Pre-Election Pledge"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/ED0105/S00012/steve-should-not-forget-pre-election-pledge.htm
+title: Steve Should Not Forget Pre-Election Pledge
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00012/steve-should-not-forget-pre-election-pledge.htm
 author: victoria-university-students-association
+permalink: /archive/2001/05/07/steve-should-not-forget-pre-election-pledge/index.html
+layout: layout.njk
 ---
 Steve Should Not Forget Pre-Election Pledge
 ===========================================

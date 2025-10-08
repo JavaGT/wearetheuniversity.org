@@ -1,9 +1,13 @@
 ---
 slug: vote-for-strike-at-otago-university-overwhelming
-title: "Vote for strike at Otago University 'Overwhelming'"
-date: 2002-08-30
-source-url: https://www.scoop.co.nz/stories/ED0208/S00046/vote-for-strike-at-otago-university-overwhelming.htm
+title: Vote for strike at Otago University 'Overwhelming'
+date: 2002-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00046/vote-for-strike-at-otago-university-overwhelming.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/08/30/vote-for-strike-at-otago-university-overwhelming/index.html
+layout: layout.njk
 ---
 Vote for strike at Otago University 'Overwhelming'
 ==================================================

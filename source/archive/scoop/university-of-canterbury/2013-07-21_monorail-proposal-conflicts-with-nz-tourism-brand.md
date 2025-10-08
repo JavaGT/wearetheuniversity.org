@@ -1,9 +1,13 @@
 ---
 slug: monorail-proposal-conflicts-with-nz-tourism-brand
-title: "Monorail proposal conflicts with NZ tourism brand"
-date: 2013-07-21
-source-url: https://www.scoop.co.nz/stories/AK1307/S00540/monorail-proposal-conflicts-with-nz-tourism-brand.htm
+title: Monorail proposal conflicts with NZ tourism brand
+date: 2013-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00540/monorail-proposal-conflicts-with-nz-tourism-brand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/21/monorail-proposal-conflicts-with-nz-tourism-brand/index.html
+layout: layout.njk
 ---
 Monorail proposal conflicts with NZ tourism brand
 =================================================

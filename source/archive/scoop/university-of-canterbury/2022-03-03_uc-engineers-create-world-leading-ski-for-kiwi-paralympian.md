@@ -1,9 +1,13 @@
 ---
 slug: uc-engineers-create-world-leading-ski-for-kiwi-paralympian
-title: "UC Engineers Create World-leading Ski For Kiwi Paralympian"
-date: 2022-03-03
-source-url: https://www.scoop.co.nz/stories/SC2203/S00009/uc-engineers-create-world-leading-ski-for-kiwi-paralympian.htm
+title: UC Engineers Create World-leading Ski For Kiwi Paralympian
+date: 2022-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00009/uc-engineers-create-world-leading-ski-for-kiwi-paralympian.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/03/uc-engineers-create-world-leading-ski-for-kiwi-paralympian/index.html
+layout: layout.njk
 ---
 UC Engineers Create World-leading Ski For Kiwi Paralympian
 ==========================================================

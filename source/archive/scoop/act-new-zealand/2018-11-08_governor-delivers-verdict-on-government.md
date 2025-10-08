@@ -1,9 +1,12 @@
 ---
 slug: governor-delivers-verdict-on-government
-title: "Governor delivers verdict on Government"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/PA1811/S00092/governor-delivers-verdict-on-government.htm
+title: Governor delivers verdict on Government
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00092/governor-delivers-verdict-on-government.htm
 author: act-new-zealand
+permalink: /archive/2018/11/08/governor-delivers-verdict-on-government/index.html
+layout: layout.njk
 ---
 Governor delivers verdict on Government
 =======================================

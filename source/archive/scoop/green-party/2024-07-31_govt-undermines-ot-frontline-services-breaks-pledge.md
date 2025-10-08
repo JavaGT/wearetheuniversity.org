@@ -1,9 +1,13 @@
 ---
 slug: govt-undermines-ot-frontline-services-breaks-pledge
-title: "Govt Undermines OT Frontline Services, Breaks Pledge"
-date: 2024-07-31
-source-url: https://www.scoop.co.nz/stories/PA2407/S00202/govt-undermines-ot-frontline-services-breaks-pledge.htm
+title: Govt Undermines OT Frontline Services, Breaks Pledge
+date: 2024-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00202/govt-undermines-ot-frontline-services-breaks-pledge.htm
 author: green-party
+permalink: >-
+  /archive/2024/07/31/govt-undermines-ot-frontline-services-breaks-pledge/index.html
+layout: layout.njk
 ---
 Govt Undermines OT Frontline Services, Breaks Pledge
 ====================================================

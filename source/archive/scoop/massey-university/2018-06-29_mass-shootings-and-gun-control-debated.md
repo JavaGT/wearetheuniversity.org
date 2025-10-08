@@ -1,9 +1,12 @@
 ---
 slug: mass-shootings-and-gun-control-debated
-title: "Mass shootings and gun control debated"
-date: 2018-06-29
-source-url: https://www.scoop.co.nz/stories/PO1806/S00338/mass-shootings-and-gun-control-debated.htm
+title: Mass shootings and gun control debated
+date: 2018-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00338/mass-shootings-and-gun-control-debated.htm
 author: massey-university
+permalink: /archive/2018/06/29/mass-shootings-and-gun-control-debated/index.html
+layout: layout.njk
 ---
 Mass shootings and gun control debated
 ======================================

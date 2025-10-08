@@ -1,9 +1,13 @@
 ---
 slug: book-reveals-the-full-story-of-the-2005-election
-title: "Book Reveals the Full Story of the 2005 Election"
-date: 2007-03-07
-source-url: https://www.scoop.co.nz/stories/PO0703/S00082/book-reveals-the-full-story-of-the-2005-election.htm
+title: Book Reveals the Full Story of the 2005 Election
+date: 2007-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00082/book-reveals-the-full-story-of-the-2005-election.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2007/03/07/book-reveals-the-full-story-of-the-2005-election/index.html
+layout: layout.njk
 ---
 Book Reveals the Full Story of the 2005 Election
 ================================================

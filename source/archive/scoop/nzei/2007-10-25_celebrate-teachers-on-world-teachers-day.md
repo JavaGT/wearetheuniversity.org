@@ -1,9 +1,12 @@
 ---
 slug: celebrate-teachers-on-world-teachers-day
-title: "Celebrate Teachers On World Teachers' Day"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/ED0710/S00078/celebrate-teachers-on-world-teachers-day.htm
+title: Celebrate Teachers On World Teachers' Day
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00078/celebrate-teachers-on-world-teachers-day.htm
 author: nzei
+permalink: /archive/2007/10/25/celebrate-teachers-on-world-teachers-day/index.html
+layout: layout.njk
 ---
 Celebrate Teachers On World Teachers' Day
 =========================================

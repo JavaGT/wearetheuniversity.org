@@ -1,9 +1,13 @@
 ---
 slug: focus-on-business-opportunities-in-latin-america
-title: "Focus on business opportunities in Latin America"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/ED0507/S00017/focus-on-business-opportunities-in-latin-america.htm
+title: Focus on business opportunities in Latin America
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00017/focus-on-business-opportunities-in-latin-america.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/07/06/focus-on-business-opportunities-in-latin-america/index.html
+layout: layout.njk
 ---
 Focus on business opportunities in Latin America
 ================================================

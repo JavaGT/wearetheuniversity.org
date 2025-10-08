@@ -1,9 +1,12 @@
 ---
 slug: new-broom-or-cover-up-carpet-for-tmp
-title: "New Broom, Or Cover-Up Carpet For TMP?"
-date: 2003-05-30
-source-url: https://www.scoop.co.nz/stories/PA0305/S00752/new-broom-or-cover-up-carpet-for-tmp.htm
+title: New Broom, Or Cover-Up Carpet For TMP?
+date: 2003-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00752/new-broom-or-cover-up-carpet-for-tmp.htm
 author: act-new-zealand
+permalink: /archive/2003/05/30/new-broom-or-cover-up-carpet-for-tmp/index.html
+layout: layout.njk
 ---
 New Broom, Or Cover-Up Carpet For TMP?
 ======================================

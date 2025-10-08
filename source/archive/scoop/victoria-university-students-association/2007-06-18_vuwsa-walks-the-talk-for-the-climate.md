@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-walks-the-talk-for-the-climate
-title: "VUWSA Walks the Talk for the Climate,"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/ED0706/S00076/vuwsa-walks-the-talk-for-the-climate.htm
+title: VUWSA Walks the Talk for the Climate,
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00076/vuwsa-walks-the-talk-for-the-climate.htm
 author: victoria-university-students-association
+permalink: /archive/2007/06/18/vuwsa-walks-the-talk-for-the-climate/index.html
+layout: layout.njk
 ---
 VUWSA Walks the Talk for the Climate,
 =====================================

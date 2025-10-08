@@ -1,9 +1,12 @@
 ---
 slug: $14-billion-for-a-tram-is-economic-lunacy
-title: "$14 Billion For A Tram Is Economic Lunacy"
-date: 2021-10-29
-source-url: https://www.scoop.co.nz/stories/PA2110/S00307/14-billion-for-a-tram-is-economic-lunacy.htm
+title: $14 Billion For A Tram Is Economic Lunacy
+date: 2021-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00307/14-billion-for-a-tram-is-economic-lunacy.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/29/14-billion-for-a-tram-is-economic-lunacy/index.html
+layout: layout.njk
 ---
 $14 Billion For A Tram Is Economic Lunacy
 =========================================

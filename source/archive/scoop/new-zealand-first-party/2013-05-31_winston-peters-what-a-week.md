@@ -1,9 +1,11 @@
 ---
 slug: winston-peters-what-a-week
-title: "Winston Peters - What a Week"
-date: 2013-05-31
+title: Winston Peters - What a Week
+date: 2013-05-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1305/S00623/winston-peters-what-a-week.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/31/winston-peters-what-a-week/index.html
+layout: layout.njk
 ---
 Winston Peters - What a Week
 ============================

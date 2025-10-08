@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-student-loan-scheme-bill;-2nd-reading
-title: "Rahui Katene: Student Loan Scheme Bill; 2nd reading"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/PA1108/S00346/rahui-katene-student-loan-scheme-bill-2nd-reading.htm
+title: 'Rahui Katene: Student Loan Scheme Bill; 2nd reading'
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00346/rahui-katene-student-loan-scheme-bill-2nd-reading.htm
 author: te-pati-maori
+permalink: /archive/2011/08/17/rahui-katene-student-loan-scheme-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene: Student Loan Scheme Bill; 2nd reading
 ===================================================

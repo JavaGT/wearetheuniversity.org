@@ -1,9 +1,12 @@
 ---
 slug: sharples-business-law-reform-bill
-title: "Sharples: Business Law Reform Bill"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/PA0610/S00509/sharples-business-law-reform-bill.htm
+title: 'Sharples: Business Law Reform Bill'
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00509/sharples-business-law-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/26/sharples-business-law-reform-bill/index.html
+layout: layout.njk
 ---
 Sharples: Business Law Reform Bill
 ==================================

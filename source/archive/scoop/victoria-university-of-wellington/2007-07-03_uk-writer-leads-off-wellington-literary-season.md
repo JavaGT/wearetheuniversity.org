@@ -1,9 +1,12 @@
 ---
 slug: uk-writer-leads-off-wellington-literary-season
-title: "UK writer leads off Wellington literary season"
-date: 2007-07-03
-source-url: https://www.scoop.co.nz/stories/CU0707/S00028/uk-writer-leads-off-wellington-literary-season.htm
+title: UK writer leads off Wellington literary season
+date: 2007-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00028/uk-writer-leads-off-wellington-literary-season.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/03/uk-writer-leads-off-wellington-literary-season/index.html
+layout: layout.njk
 ---
 UK writer leads off Wellington literary season
 ==============================================

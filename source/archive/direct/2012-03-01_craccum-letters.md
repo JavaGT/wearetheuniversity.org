@@ -1,10 +1,13 @@
 ---
 title: Craccum Letters
 slug: craccum-letters
-date: 2012-03-01
-source: https://web.archive.org/web/20130210042854/http://craccum.ausa.auckland.ac.nz/?p=82
+date: 2012-03-01T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130210042854/http://craccum.ausa.auckland.ac.nz/?p=82
 author: Anonymous
 author-slug: anonymous
+permalink: /archive/2012/03/01/craccum-letters/index.html
+layout: layout.njk
 ---
 
 Dear Craccum,

@@ -1,9 +1,12 @@
 ---
 slug: innovative-otago-health-research-gains-funding
-title: "Innovative Otago health research gains funding"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/SC1405/S00029/innovative-otago-health-research-gains-funding.htm
+title: Innovative Otago health research gains funding
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00029/innovative-otago-health-research-gains-funding.htm
 author: university-of-otago
+permalink: /archive/2014/05/12/innovative-otago-health-research-gains-funding/index.html
+layout: layout.njk
 ---
 Innovative Otago health research gains funding
 ==============================================

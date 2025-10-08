@@ -1,9 +1,12 @@
 ---
 slug: north-shore-hospital-concerns-continue
-title: "North Shore Hospital Concerns Continue"
-date: 2008-03-10
-source-url: https://www.scoop.co.nz/stories/PA0803/S00159/north-shore-hospital-concerns-continue.htm
+title: North Shore Hospital Concerns Continue
+date: 2008-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00159/north-shore-hospital-concerns-continue.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/10/north-shore-hospital-concerns-continue/index.html
+layout: layout.njk
 ---
 North Shore Hospital Concerns Continue
 ======================================

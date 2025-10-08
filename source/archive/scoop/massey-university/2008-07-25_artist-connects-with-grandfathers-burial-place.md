@@ -1,9 +1,12 @@
 ---
 slug: artist-connects-with-grandfathers-burial-place
-title: "Artist connects with grandfather’s burial place"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/ED0807/S00084/artist-connects-with-grandfathers-burial-place.htm
+title: Artist connects with grandfather’s burial place
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00084/artist-connects-with-grandfathers-burial-place.htm
 author: massey-university
+permalink: /archive/2008/07/25/artist-connects-with-grandfathers-burial-place/index.html
+layout: layout.njk
 ---
 Artist connects with grandfather’s burial place
 ===============================================

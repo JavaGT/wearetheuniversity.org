@@ -1,9 +1,13 @@
 ---
 slug: student-researching-co-governance-between-iwi-and-crown
-title: "Student researching co-governance between iwi and crown"
-date: 2013-08-22
-source-url: https://www.scoop.co.nz/stories/AK1308/S00672/student-researching-co-governance-between-iwi-and-crown.htm
+title: Student researching co-governance between iwi and crown
+date: 2013-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00672/student-researching-co-governance-between-iwi-and-crown.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/22/student-researching-co-governance-between-iwi-and-crown/index.html
+layout: layout.njk
 ---
 Student researching co-governance between iwi and crown
 =======================================================

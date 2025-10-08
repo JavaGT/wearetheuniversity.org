@@ -1,9 +1,12 @@
 ---
 slug: lifting-standards-and-closing-the-gaps
-title: "Lifting standards and closing the gaps"
-date: 1999-07-26
-source-url: https://www.scoop.co.nz/stories/PA9907/S00480/lifting-standards-and-closing-the-gaps.htm
+title: Lifting standards and closing the gaps
+date: 1999-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00480/lifting-standards-and-closing-the-gaps.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/26/lifting-standards-and-closing-the-gaps/index.html
+layout: layout.njk
 ---
 Lifting standards and closing the gaps
 ======================================

@@ -1,9 +1,11 @@
 ---
 slug: the-carter-code-cracked
-title: "The Carter code cracked"
-date: 2010-04-29
+title: The Carter code cracked
+date: 2010-04-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1004/S00396/the-carter-code-cracked.htm
 author: green-party
+permalink: /archive/2010/04/29/the-carter-code-cracked/index.html
+layout: layout.njk
 ---
 The Carter code cracked
 =======================

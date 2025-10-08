@@ -1,9 +1,12 @@
 ---
 slug: uc-leading-the-way-for-blind-students
-title: "UC leading the way for blind students"
-date: 2008-04-17
-source-url: https://www.scoop.co.nz/stories/ED0804/S00051/uc-leading-the-way-for-blind-students.htm
+title: UC leading the way for blind students
+date: 2008-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00051/uc-leading-the-way-for-blind-students.htm
 author: university-of-canterbury
+permalink: /archive/2008/04/17/uc-leading-the-way-for-blind-students/index.html
+layout: layout.njk
 ---
 UC leading the way for blind students
 =====================================

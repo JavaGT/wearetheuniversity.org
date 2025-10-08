@@ -1,9 +1,13 @@
 ---
 slug: better-to-protect-rather-than-cover-up-nzs-greatest-asset
-title: "Better to protect rather than cover up NZ’s greatest asset"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/PO1211/S00399/better-to-protect-rather-than-cover-up-nzs-greatest-asset.htm
+title: Better to protect rather than cover up NZ’s greatest asset
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00399/better-to-protect-rather-than-cover-up-nzs-greatest-asset.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/28/better-to-protect-rather-than-cover-up-nzs-greatest-asset/index.html
+layout: layout.njk
 ---
 Better to protect rather than cover up NZ’s greatest asset
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-van-to-be-sold
-title: "VUWSA van to be sold"
-date: 2010-06-01
+title: VUWSA van to be sold
+date: 2010-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1006/S00003/vuwsa-van-to-be-sold.htm
 author: salient
+permalink: /archive/2010/06/01/vuwsa-van-to-be-sold/index.html
+layout: layout.njk
 ---
 VUWSA van to be sold
 ====================

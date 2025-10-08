@@ -1,9 +1,13 @@
 ---
 slug: government-no-show-an-insult-to-south-canterbury
-title: "Government no-show an insult to  South Canterbury"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/PA1109/S00435/government-no-show-an-insult-to-south-canterbury.htm
+title: Government no-show an insult to  South Canterbury
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00435/government-no-show-an-insult-to-south-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/23/government-no-show-an-insult-to-south-canterbury/index.html
+layout: layout.njk
 ---
 Government no-show an insult to South Canterbury
 ================================================

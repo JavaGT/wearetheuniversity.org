@@ -1,9 +1,12 @@
 ---
 slug: lab-to-create-magic-with-renowned-nz-author
-title: "Lab to create magic with renowned NZ author"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/ED0305/S00016/lab-to-create-magic-with-renowned-nz-author.htm
+title: Lab to create magic with renowned NZ author
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00016/lab-to-create-magic-with-renowned-nz-author.htm
 author: university-of-canterbury
+permalink: /archive/2003/05/05/lab-to-create-magic-with-renowned-nz-author/index.html
+layout: layout.njk
 ---
 Lab to create magic with renowned NZ author
 ===========================================

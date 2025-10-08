@@ -1,9 +1,12 @@
 ---
 slug: fiscal-update-shows-winston-effect
-title: "Fiscal Update Shows Winston Effect"
-date: 1999-10-21
-source-url: https://www.scoop.co.nz/stories/PA9910/S00506/fiscal-update-shows-winston-effect.htm
+title: Fiscal Update Shows Winston Effect
+date: 1999-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00506/fiscal-update-shows-winston-effect.htm
 author: act-new-zealand
+permalink: /archive/1999/10/21/fiscal-update-shows-winston-effect/index.html
+layout: layout.njk
 ---
 Fiscal Update Shows Winston Effect
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: breastfeeding-lullaby-a-hit-with-the-kids
-title: "Breastfeeding Lullaby A Hit With The Kids"
-date: 2011-07-28
-source-url: https://www.scoop.co.nz/stories/AK1107/S00736/breastfeeding-lullaby-a-hit-with-the-kids.htm
+title: Breastfeeding Lullaby A Hit With The Kids
+date: 2011-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1107/S00736/breastfeeding-lullaby-a-hit-with-the-kids.htm
 author: auckland-university
+permalink: /archive/2011/07/28/breastfeeding-lullaby-a-hit-with-the-kids/index.html
+layout: layout.njk
 ---
 Breastfeeding Lullaby A Hit With The Kids
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-funding-for-university-of-waikato-antarctic-research
-title: "New funding for University of Waikato Antarctic research"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/SC1306/S00041/new-funding-for-university-of-waikato-antarctic-research.htm
+title: New funding for University of Waikato Antarctic research
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00041/new-funding-for-university-of-waikato-antarctic-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/14/new-funding-for-university-of-waikato-antarctic-research/index.html
+layout: layout.njk
 ---
 New funding for University of Waikato Antarctic research
 ========================================================

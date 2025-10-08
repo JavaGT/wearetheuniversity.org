@@ -1,8 +1,11 @@
 ---
 slug: city-campus-closed-on-auckland-anniversary-day
-title: "City Campus closed on Auckland Anniversary Day"
-date: 2017-01-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/01/city-campus-closed-auckland-anniversary-day.html
+title: City Campus closed on Auckland Anniversary Day
+date: 2017-01-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/01/city-campus-closed-auckland-anniversary-day.html
+permalink: /archive/2017/01/17/city-campus-closed-on-auckland-anniversary-day/index.html
+layout: layout.njk
 ---
 City Campus closed on Auckland Anniversary Day
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: origin-of-a-species
-title: "Origin of a Species"
-date: 2014-05-22
+title: Origin of a Species
+date: 2014-05-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1405/S00052/origin-of-a-species.htm
 author: university-of-waikato
+permalink: /archive/2014/05/22/origin-of-a-species/index.html
+layout: layout.njk
 ---
 Origin of a Species
 ===================

@@ -1,9 +1,13 @@
 ---
 slug: waikatos-class-of-2023-to-graduate-on-campus-for-the-first-time
-title: "Waikato’s Class Of 2023 To Graduate On Campus For The First Time"
-date: 2023-10-11
-source-url: https://www.scoop.co.nz/stories/ED2310/S00014/waikatos-class-of-2023-to-graduate-on-campus-for-the-first-time.htm
+title: Waikato’s Class Of 2023 To Graduate On Campus For The First Time
+date: 2023-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00014/waikatos-class-of-2023-to-graduate-on-campus-for-the-first-time.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/10/11/waikatos-class-of-2023-to-graduate-on-campus-for-the-first-time/index.html
+layout: layout.njk
 ---
 Waikato’s Class Of 2023 To Graduate On Campus For The First Time
 ================================================================

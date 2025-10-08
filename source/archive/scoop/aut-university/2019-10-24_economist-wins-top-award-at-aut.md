@@ -1,9 +1,12 @@
 ---
 slug: economist-wins-top-award-at-aut
-title: "Economist Wins Top Award at AUT"
-date: 2019-10-24
-source-url: https://www.scoop.co.nz/stories/ED1910/S00054/economist-wins-top-award-at-aut.htm
+title: Economist Wins Top Award at AUT
+date: 2019-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00054/economist-wins-top-award-at-aut.htm
 author: aut-university
+permalink: /archive/2019/10/24/economist-wins-top-award-at-aut/index.html
+layout: layout.njk
 ---
 Economist Wins Top Award at AUT
 ===============================

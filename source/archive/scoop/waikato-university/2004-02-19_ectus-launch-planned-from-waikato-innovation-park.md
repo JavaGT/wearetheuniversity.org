@@ -1,9 +1,13 @@
 ---
 slug: ectus-launch-planned-from-waikato-innovation-park
-title: "ECTUS Launch Planned From Waikato Innovation Park"
-date: 2004-02-19
-source-url: https://www.scoop.co.nz/stories/ED0402/S00050/ectus-launch-planned-from-waikato-innovation-park.htm
+title: ECTUS Launch Planned From Waikato Innovation Park
+date: 2004-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00050/ectus-launch-planned-from-waikato-innovation-park.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/02/19/ectus-launch-planned-from-waikato-innovation-park/index.html
+layout: layout.njk
 ---
 ECTUS Launch Planned From Waikato Innovation Park
 =================================================

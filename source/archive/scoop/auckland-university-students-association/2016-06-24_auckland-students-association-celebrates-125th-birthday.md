@@ -1,9 +1,13 @@
 ---
 slug: auckland-students-association-celebrates-125th-birthday
-title: "Auckland Students’ Association celebrates 125th birthday"
-date: 2016-06-24
-source-url: https://www.scoop.co.nz/stories/PO1606/S00294/auckland-students-association-celebrates-125th-birthday.htm
+title: Auckland Students’ Association celebrates 125th birthday
+date: 2016-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00294/auckland-students-association-celebrates-125th-birthday.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2016/06/24/auckland-students-association-celebrates-125th-birthday/index.html
+layout: layout.njk
 ---
 Auckland Students’ Association celebrates 125th birthday
 ========================================================

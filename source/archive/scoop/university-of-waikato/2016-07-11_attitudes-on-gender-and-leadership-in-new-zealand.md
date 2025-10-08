@@ -1,9 +1,13 @@
 ---
 slug: attitudes-on-gender-and-leadership-in-new-zealand
-title: "Attitudes on gender and leadership in New Zealand"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PO1607/S00128/attitudes-on-gender-and-leadership-in-new-zealand.htm
+title: Attitudes on gender and leadership in New Zealand
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00128/attitudes-on-gender-and-leadership-in-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/07/11/attitudes-on-gender-and-leadership-in-new-zealand/index.html
+layout: layout.njk
 ---
 Attitudes on gender and leadership in New Zealand
 =================================================

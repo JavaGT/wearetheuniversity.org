@@ -1,9 +1,13 @@
 ---
 slug: uc-and-museum-making-christchurchs-heritage-available
-title: "UC and museum making Christchurch’s heritage available"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/AK1210/S00424/uc-and-museum-making-christchurchs-heritage-available.htm
+title: UC and museum making Christchurch’s heritage available
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00424/uc-and-museum-making-christchurchs-heritage-available.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/16/uc-and-museum-making-christchurchs-heritage-available/index.html
+layout: layout.njk
 ---
 UC and museum making Christchurch’s heritage available
 ======================================================

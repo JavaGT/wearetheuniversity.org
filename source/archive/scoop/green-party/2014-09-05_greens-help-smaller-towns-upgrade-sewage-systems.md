@@ -1,9 +1,13 @@
 ---
 slug: greens-help-smaller-towns-upgrade-sewage-systems
-title: "Greens help smaller towns upgrade sewage systems"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/PA1409/S00083/greens-help-smaller-towns-upgrade-sewage-systems.htm
+title: Greens help smaller towns upgrade sewage systems
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00083/greens-help-smaller-towns-upgrade-sewage-systems.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/05/greens-help-smaller-towns-upgrade-sewage-systems/index.html
+layout: layout.njk
 ---
 Greens help smaller towns upgrade sewage systems
 ================================================

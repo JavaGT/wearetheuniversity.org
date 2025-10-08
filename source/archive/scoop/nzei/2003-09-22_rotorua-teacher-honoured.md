@@ -1,9 +1,11 @@
 ---
 slug: rotorua-teacher-honoured
-title: "Rotorua Teacher Honoured"
-date: 2003-09-22
+title: Rotorua Teacher Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00086/rotorua-teacher-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/rotorua-teacher-honoured/index.html
+layout: layout.njk
 ---
 Rotorua Teacher Honoured
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: abolish-yourself-act-tells-mayors-taskforce
-title: "Abolish Yourself, ACT Tells Mayors’ Taskforce"
-date: 2011-06-16
-source-url: https://www.scoop.co.nz/stories/PA1106/S00285/abolish-yourself-act-tells-mayors-taskforce.htm
+title: Abolish Yourself, ACT Tells Mayors’ Taskforce
+date: 2011-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00285/abolish-yourself-act-tells-mayors-taskforce.htm
 author: act-new-zealand
+permalink: /archive/2011/06/16/abolish-yourself-act-tells-mayors-taskforce/index.html
+layout: layout.njk
 ---
 Abolish Yourself, ACT Tells Mayors’ Taskforce
 =============================================

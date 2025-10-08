@@ -1,9 +1,13 @@
 ---
 slug: universities-sign-cooperation-arrangement-with-spain
-title: "Universities Sign Cooperation Arrangement with Spain"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/ED1304/S00139/universities-sign-cooperation-arrangement-with-spain.htm
+title: Universities Sign Cooperation Arrangement with Spain
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00139/universities-sign-cooperation-arrangement-with-spain.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/04/23/universities-sign-cooperation-arrangement-with-spain/index.html
+layout: layout.njk
 ---
 Universities Sign Cooperation Arrangement with Spain
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: a-living-wage-the-difference-your-pay-rate-makes
-title: "A living wage – the difference your pay rate makes"
-date: 2017-11-06
-source-url: https://www.scoop.co.nz/stories/ED1711/S00023/a-living-wage-the-difference-your-pay-rate-makes.htm
+title: A living wage – the difference your pay rate makes
+date: 2017-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00023/a-living-wage-the-difference-your-pay-rate-makes.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/06/a-living-wage-the-difference-your-pay-rate-makes/index.html
+layout: layout.njk
 ---
 A living wage – the difference your pay rate makes
 ==================================================

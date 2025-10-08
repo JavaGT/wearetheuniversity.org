@@ -1,9 +1,11 @@
 ---
 slug: plain-english-25-nov-2005
-title: "Plain English - 25 Nov 2005"
-date: 2005-11-25
+title: Plain English - 25 Nov 2005
+date: 2005-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00379/plain-english-25-nov-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/25/plain-english-25-nov-2005/index.html
+layout: layout.njk
 ---
 Plain English - 25 Nov 2005
 ===========================

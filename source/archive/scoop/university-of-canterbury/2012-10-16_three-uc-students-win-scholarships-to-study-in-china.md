@@ -1,9 +1,13 @@
 ---
 slug: three-uc-students-win-scholarships-to-study-in-china
-title: "Three UC students win scholarships to study in China"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/ED1210/S00090/three-uc-students-win-scholarships-to-study-in-china.htm
+title: Three UC students win scholarships to study in China
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00090/three-uc-students-win-scholarships-to-study-in-china.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/16/three-uc-students-win-scholarships-to-study-in-china/index.html
+layout: layout.njk
 ---
 Three UC students win scholarships to study in China
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-selects-parmjeet-parmar-as-mt-roskill-candidate
-title: "National selects Parmjeet Parmar as Mt Roskill candidate"
-date: 2014-06-14
-source-url: https://www.scoop.co.nz/stories/PO1406/S00189/national-selects-parmjeet-parmar-as-mt-roskill-candidate.htm
+title: National selects Parmjeet Parmar as Mt Roskill candidate
+date: 2014-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00189/national-selects-parmjeet-parmar-as-mt-roskill-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/14/national-selects-parmjeet-parmar-as-mt-roskill-candidate/index.html
+layout: layout.njk
 ---
 National selects Parmjeet Parmar as Mt Roskill candidate
 ========================================================

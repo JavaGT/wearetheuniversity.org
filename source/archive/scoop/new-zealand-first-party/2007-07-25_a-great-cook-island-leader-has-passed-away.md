@@ -1,9 +1,12 @@
 ---
 slug: a-great-cook-island-leader-has-passed-away
-title: "A Great Cook Island Leader Has Passed Away"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PA0707/S00418/a-great-cook-island-leader-has-passed-away.htm
+title: A Great Cook Island Leader Has Passed Away
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00418/a-great-cook-island-leader-has-passed-away.htm
 author: new-zealand-first-party
+permalink: /archive/2007/07/25/a-great-cook-island-leader-has-passed-away/index.html
+layout: layout.njk
 ---
 A Great Cook Island Leader Has Passed Away
 ==========================================

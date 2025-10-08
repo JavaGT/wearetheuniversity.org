@@ -1,9 +1,12 @@
 ---
 slug: improving-the-lives-of-all-new-zealanders
-title: "Improving the lives of all New Zealanders"
-date: 2010-05-25
-source-url: https://www.scoop.co.nz/stories/PA1005/S00414/improving-the-lives-of-all-new-zealanders.htm
+title: Improving the lives of all New Zealanders
+date: 2010-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00414/improving-the-lives-of-all-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2010/05/25/improving-the-lives-of-all-new-zealanders/index.html
+layout: layout.njk
 ---
 Improving the lives of all New Zealanders
 =========================================

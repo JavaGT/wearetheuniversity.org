@@ -1,9 +1,12 @@
 ---
 slug: sorrow-for-pacific-and-indonesian-neighbours
-title: "Sorrow for Pacific and Indonesian neighbours"
-date: 2009-10-01
-source-url: https://www.scoop.co.nz/stories/PA0910/S00006/sorrow-for-pacific-and-indonesian-neighbours.htm
+title: Sorrow for Pacific and Indonesian neighbours
+date: 2009-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00006/sorrow-for-pacific-and-indonesian-neighbours.htm
 author: te-pati-maori
+permalink: /archive/2009/10/01/sorrow-for-pacific-and-indonesian-neighbours/index.html
+layout: layout.njk
 ---
 Sorrow for Pacific and Indonesian neighbours
 ============================================

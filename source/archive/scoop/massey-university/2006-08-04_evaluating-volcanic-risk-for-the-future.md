@@ -1,9 +1,12 @@
 ---
 slug: evaluating-volcanic-risk-for-the-future
-title: "Evaluating volcanic risk for the future"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/SC0608/S00016/evaluating-volcanic-risk-for-the-future.htm
+title: Evaluating volcanic risk for the future
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00016/evaluating-volcanic-risk-for-the-future.htm
 author: massey-university
+permalink: /archive/2006/08/04/evaluating-volcanic-risk-for-the-future/index.html
+layout: layout.njk
 ---
 Evaluating volcanic risk for the future
 =======================================

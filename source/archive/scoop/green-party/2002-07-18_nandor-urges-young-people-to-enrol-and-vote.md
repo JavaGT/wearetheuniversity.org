@@ -1,9 +1,12 @@
 ---
 slug: nandor-urges-young-people-to-enrol-and-vote
-title: "Nandor urges young people to enrol and vote"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/PA0207/S00517/nandor-urges-young-people-to-enrol-and-vote.htm
+title: Nandor urges young people to enrol and vote
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00517/nandor-urges-young-people-to-enrol-and-vote.htm
 author: green-party
+permalink: /archive/2002/07/18/nandor-urges-young-people-to-enrol-and-vote/index.html
+layout: layout.njk
 ---
 Nandor urges young people to enrol and vote
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-congratulates-albert-wendt
-title: "Maori Party congratulates Albert Wendt"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/PA1309/S00089/maori-party-congratulates-albert-wendt.htm
+title: Maori Party congratulates Albert Wendt
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00089/maori-party-congratulates-albert-wendt.htm
 author: te-pati-maori
+permalink: /archive/2013/09/04/maori-party-congratulates-albert-wendt/index.html
+layout: layout.njk
 ---
 Maori Party congratulates Albert Wendt
 ======================================

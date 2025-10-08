@@ -1,9 +1,12 @@
 ---
 slug: opportunity-to-get-a-taste-of-university-study
-title: "Opportunity to get a taste of university study"
-date: 2004-02-04
-source-url: https://www.scoop.co.nz/stories/ED0402/S00005/opportunity-to-get-a-taste-of-university-study.htm
+title: Opportunity to get a taste of university study
+date: 2004-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00005/opportunity-to-get-a-taste-of-university-study.htm
 author: university-of-canterbury
+permalink: /archive/2004/02/04/opportunity-to-get-a-taste-of-university-study/index.html
+layout: layout.njk
 ---
 Opportunity to get a taste of university study
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-turn-creative-lens-on-dementia
-title: "Students turn creative lens on dementia"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/ED1506/S00031/students-turn-creative-lens-on-dementia.htm
+title: Students turn creative lens on dementia
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00031/students-turn-creative-lens-on-dementia.htm
 author: massey-university
+permalink: /archive/2015/06/05/students-turn-creative-lens-on-dementia/index.html
+layout: layout.njk
 ---
 Students turn creative lens on dementia
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: dire-predictions-in-palestinian-politics-parsons
-title: "Dire Predictions In Palestinian Politics - Parsons"
-date: 2007-06-15
-source-url: https://www.scoop.co.nz/stories/WO0706/S00285/dire-predictions-in-palestinian-politics-parsons.htm
+title: Dire Predictions In Palestinian Politics - Parsons
+date: 2007-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0706/S00285/dire-predictions-in-palestinian-politics-parsons.htm
 author: massey-university
+permalink: >-
+  /archive/2007/06/15/dire-predictions-in-palestinian-politics-parsons/index.html
+layout: layout.njk
 ---
 Dire Predictions In Palestinian Politics - Parsons
 ==================================================

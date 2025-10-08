@@ -1,9 +1,11 @@
 ---
 slug: forensic-science
-title: "Forensic Science"
-date: 2009-08-17
+title: Forensic Science
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0908/S00125/forensic-science.htm
 author: salient
+permalink: /archive/2009/08/17/forensic-science/index.html
+layout: layout.njk
 ---
 Forensic Science
 ================

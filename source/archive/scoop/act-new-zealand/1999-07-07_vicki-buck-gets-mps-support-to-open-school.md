@@ -1,9 +1,12 @@
 ---
 slug: vicki-buck-gets-mps-support-to-open-school
-title: "Vicki Buck Gets MP's Support To Open School"
-date: 1999-07-07
-source-url: https://www.scoop.co.nz/stories/PA9907/S00092/vicki-buck-gets-mps-support-to-open-school.htm
+title: Vicki Buck Gets MP's Support To Open School
+date: 1999-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00092/vicki-buck-gets-mps-support-to-open-school.htm
 author: act-new-zealand
+permalink: /archive/1999/07/07/vicki-buck-gets-mps-support-to-open-school/index.html
+layout: layout.njk
 ---
 Vicki Buck Gets MP's Support To Open School
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: students-support-recent-study-calling-for-rental-wof
-title: "Students support recent study calling for Rental WoF"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/PO1604/S00373/students-support-recent-study-calling-for-rental-wof.htm
+title: Students support recent study calling for Rental WoF
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00373/students-support-recent-study-calling-for-rental-wof.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/04/28/students-support-recent-study-calling-for-rental-wof/index.html
+layout: layout.njk
 ---
 Students support recent study calling for Rental WoF
 ====================================================

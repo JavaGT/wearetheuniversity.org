@@ -1,9 +1,13 @@
 ---
 slug: government-right-to-protect-free-speech-from-foreign-actors
-title: "Government right to protect free speech from foreign actors"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/PO1908/S00103/government-right-to-protect-free-speech-from-foreign-actors.htm
+title: Government right to protect free speech from foreign actors
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00103/government-right-to-protect-free-speech-from-foreign-actors.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2019/08/07/government-right-to-protect-free-speech-from-foreign-actors/index.html
+layout: layout.njk
 ---
 Government right to protect free speech from foreign actors
 ===========================================================

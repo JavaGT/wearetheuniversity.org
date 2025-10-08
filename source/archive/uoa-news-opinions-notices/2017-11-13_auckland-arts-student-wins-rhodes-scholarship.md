@@ -1,8 +1,11 @@
 ---
 slug: auckland-arts-student-wins-rhodes-scholarship
-title: "Auckland Arts student wins Rhodes scholarship"
-date: 2017-11-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/auckland-arts-student-wins-rhodes-scholarship.html
+title: Auckland Arts student wins Rhodes scholarship
+date: 2017-11-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/auckland-arts-student-wins-rhodes-scholarship.html
+permalink: /archive/2017/11/13/auckland-arts-student-wins-rhodes-scholarship/index.html
+layout: layout.njk
 ---
 Auckland Arts student wins Rhodes scholarship
 =============================================

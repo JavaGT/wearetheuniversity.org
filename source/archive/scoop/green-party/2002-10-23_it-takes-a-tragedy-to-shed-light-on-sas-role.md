@@ -1,9 +1,12 @@
 ---
 slug: it-takes-a-tragedy-to-shed-light-on-sas-role
-title: "It takes a tragedy to shed light on SAS role"
-date: 2002-10-23
-source-url: https://www.scoop.co.nz/stories/PA0210/S00496/it-takes-a-tragedy-to-shed-light-on-sas-role.htm
+title: It takes a tragedy to shed light on SAS role
+date: 2002-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00496/it-takes-a-tragedy-to-shed-light-on-sas-role.htm
 author: green-party
+permalink: /archive/2002/10/23/it-takes-a-tragedy-to-shed-light-on-sas-role/index.html
+layout: layout.njk
 ---
 It takes a tragedy to shed light on SAS role
 ============================================

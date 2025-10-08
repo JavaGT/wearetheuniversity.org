@@ -1,8 +1,12 @@
 ---
 slug: the-shorter-the-mother-the-higher-the-odds-of-having-a-premature-baby-study
-title: "The shorter the mother, the higher the odds of having a premature baby: study"
-date: 2016-04-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-shorter-the-mother--the-higher-the-odds-of-having-a-prematur.html
+title: 'The shorter the mother, the higher the odds of having a premature baby: study'
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-shorter-the-mother--the-higher-the-odds-of-having-a-prematur.html
+permalink: >-
+  /archive/2016/04/22/the-shorter-the-mother-the-higher-the-odds-of-having-a-premature-baby-study/index.html
+layout: layout.njk
 ---
 The shorter the mother, the higher the odds of having a premature baby: study
 =============================================================================

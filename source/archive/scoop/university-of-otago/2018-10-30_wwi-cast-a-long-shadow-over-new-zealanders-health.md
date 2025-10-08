@@ -1,9 +1,13 @@
 ---
 slug: wwi-cast-a-long-shadow-over-new-zealanders-health
-title: "WWI cast a long shadow over New Zealanders’ health"
-date: 2018-10-30
-source-url: https://www.scoop.co.nz/stories/GE1810/S00122/wwi-cast-a-long-shadow-over-new-zealanders-health.htm
+title: WWI cast a long shadow over New Zealanders’ health
+date: 2018-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00122/wwi-cast-a-long-shadow-over-new-zealanders-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/30/wwi-cast-a-long-shadow-over-new-zealanders-health/index.html
+layout: layout.njk
 ---
 WWI cast a long shadow over New Zealanders’ health
 ==================================================

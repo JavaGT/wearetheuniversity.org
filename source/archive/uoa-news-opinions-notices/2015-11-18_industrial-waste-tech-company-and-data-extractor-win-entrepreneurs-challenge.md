@@ -1,8 +1,12 @@
 ---
 slug: industrial-waste-tech-company-and-data-extractor-win-entrepreneurs-challenge
-title: "Industrial waste tech company and data extractor win Entrepreneurs’ Challenge"
-date: 2015-11-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/industrial-waste-tech-company-and-data-extractor-win-entrepreneu.html
+title: Industrial waste tech company and data extractor win Entrepreneurs’ Challenge
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/industrial-waste-tech-company-and-data-extractor-win-entrepreneu.html
+permalink: >-
+  /archive/2015/11/18/industrial-waste-tech-company-and-data-extractor-win-entrepreneurs-challenge/index.html
+layout: layout.njk
 ---
 Industrial waste tech company and data extractor win Entrepreneurs’ Challenge
 =============================================================================

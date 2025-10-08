@@ -1,9 +1,13 @@
 ---
 slug: educators-union-supports-tamariki-striking-for-climate-action
-title: "Educators' Union Supports Tamariki Striking For Climate Action"
-date: 2021-04-09
-source-url: https://www.scoop.co.nz/stories/PO2104/S00063/educators-union-supports-tamariki-striking-for-climate-action.htm
+title: Educators' Union Supports Tamariki Striking For Climate Action
+date: 2021-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2104/S00063/educators-union-supports-tamariki-striking-for-climate-action.htm
 author: nzei
+permalink: >-
+  /archive/2021/04/09/educators-union-supports-tamariki-striking-for-climate-action/index.html
+layout: layout.njk
 ---
 Educators' Union Supports Tamariki Striking For Climate Action
 ==============================================================

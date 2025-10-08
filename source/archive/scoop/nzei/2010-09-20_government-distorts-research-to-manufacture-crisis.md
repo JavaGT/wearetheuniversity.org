@@ -1,9 +1,13 @@
 ---
 slug: government-distorts-research-to-manufacture-crisis
-title: "Government Distorts Research to Manufacture Crisis"
-date: 2010-09-20
-source-url: https://www.scoop.co.nz/stories/ED1009/S00090/government-distorts-research-to-manufacture-crisis.htm
+title: Government Distorts Research to Manufacture Crisis
+date: 2010-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00090/government-distorts-research-to-manufacture-crisis.htm
 author: nzei
+permalink: >-
+  /archive/2010/09/20/government-distorts-research-to-manufacture-crisis/index.html
+layout: layout.njk
 ---
 Government Distorts Research to Manufacture Crisis
 ==================================================

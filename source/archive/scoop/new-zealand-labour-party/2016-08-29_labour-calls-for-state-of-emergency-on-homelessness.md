@@ -1,9 +1,13 @@
 ---
 slug: labour-calls-for-state-of-emergency-on-homelessness
-title: "Labour calls for state of emergency on homelessness"
-date: 2016-08-29
-source-url: https://www.scoop.co.nz/stories/PA1608/S00508/labour-calls-for-state-of-emergency-on-homelessness.htm
+title: Labour calls for state of emergency on homelessness
+date: 2016-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00508/labour-calls-for-state-of-emergency-on-homelessness.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/29/labour-calls-for-state-of-emergency-on-homelessness/index.html
+layout: layout.njk
 ---
 Labour calls for state of emergency on homelessness
 ===================================================

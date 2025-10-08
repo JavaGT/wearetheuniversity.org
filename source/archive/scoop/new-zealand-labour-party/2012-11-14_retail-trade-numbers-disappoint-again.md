@@ -1,9 +1,12 @@
 ---
 slug: retail-trade-numbers-disappoint-again
-title: "Retail trade numbers disappoint again"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PA1211/S00226/retail-trade-numbers-disappoint-again.htm
+title: Retail trade numbers disappoint again
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00226/retail-trade-numbers-disappoint-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/14/retail-trade-numbers-disappoint-again/index.html
+layout: layout.njk
 ---
 Retail trade numbers disappoint again
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: non-invasive-joint-implant-diagnostics-the-missing-link
-title: "Non-invasive joint implant diagnostics – the missing link"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/GE1704/S00101/non-invasive-joint-implant-diagnostics-the-missing-link.htm
+title: Non-invasive joint implant diagnostics – the missing link
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00101/non-invasive-joint-implant-diagnostics-the-missing-link.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/28/non-invasive-joint-implant-diagnostics-the-missing-link/index.html
+layout: layout.njk
 ---
 Non-invasive joint implant diagnostics – the missing link
 =========================================================

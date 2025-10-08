@@ -1,9 +1,12 @@
 ---
 slug: transforming-games-teaching-and-coaching
-title: "Transforming games teaching and coaching"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/ED1511/S00082/transforming-games-teaching-and-coaching.htm
+title: Transforming games teaching and coaching
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00082/transforming-games-teaching-and-coaching.htm
 author: massey-university
+permalink: /archive/2015/11/16/transforming-games-teaching-and-coaching/index.html
+layout: layout.njk
 ---
 Transforming games teaching and coaching
 ========================================

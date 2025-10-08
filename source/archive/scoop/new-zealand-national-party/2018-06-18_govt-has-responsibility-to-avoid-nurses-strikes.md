@@ -1,9 +1,12 @@
 ---
 slug: govt-has-responsibility-to-avoid-nurses-strikes
-title: "Govt has responsibility to avoid nurses strikes"
-date: 2018-06-18
-source-url: https://www.scoop.co.nz/stories/PA1806/S00181/govt-has-responsibility-to-avoid-nurses-strikes.htm
+title: Govt has responsibility to avoid nurses strikes
+date: 2018-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00181/govt-has-responsibility-to-avoid-nurses-strikes.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/18/govt-has-responsibility-to-avoid-nurses-strikes/index.html
+layout: layout.njk
 ---
 Govt has responsibility to avoid nurses strikes
 ===============================================

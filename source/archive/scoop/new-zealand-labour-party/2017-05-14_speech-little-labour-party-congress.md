@@ -1,9 +1,12 @@
 ---
 slug: speech-little-labour-party-congress
-title: "Speech: Little - Labour Party Congress"
-date: 2017-05-14
-source-url: https://www.scoop.co.nz/stories/PA1705/S00299/speech-little-labour-party-congress.htm
+title: 'Speech: Little - Labour Party Congress'
+date: 2017-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00299/speech-little-labour-party-congress.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/14/speech-little-labour-party-congress/index.html
+layout: layout.njk
 ---
 Speech: Little - Labour Party Congress
 ======================================

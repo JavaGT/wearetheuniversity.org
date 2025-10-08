@@ -1,9 +1,12 @@
 ---
 slug: nationals-coffers-point-to-a-pre-campaign-blitz
-title: "National’s coffers point to a pre-campaign blitz"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/PA1008/S00315/nationals-coffers-point-to-a-pre-campaign-blitz.htm
+title: National’s coffers point to a pre-campaign blitz
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00315/nationals-coffers-point-to-a-pre-campaign-blitz.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/20/nationals-coffers-point-to-a-pre-campaign-blitz/index.html
+layout: layout.njk
 ---
 National’s coffers point to a pre-campaign blitz
 ================================================

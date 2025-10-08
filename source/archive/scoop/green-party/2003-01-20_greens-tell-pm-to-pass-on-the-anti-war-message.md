@@ -1,9 +1,12 @@
 ---
 slug: greens-tell-pm-to-pass-on-the-anti-war-message
-title: "Greens tell PM to pass-on the anti-war message"
-date: 2003-01-20
-source-url: https://www.scoop.co.nz/stories/PA0301/S00132/greens-tell-pm-to-pass-on-the-anti-war-message.htm
+title: Greens tell PM to pass-on the anti-war message
+date: 2003-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00132/greens-tell-pm-to-pass-on-the-anti-war-message.htm
 author: green-party
+permalink: /archive/2003/01/20/greens-tell-pm-to-pass-on-the-anti-war-message/index.html
+layout: layout.njk
 ---
 Greens tell PM to pass-on the anti-war message
 ==============================================

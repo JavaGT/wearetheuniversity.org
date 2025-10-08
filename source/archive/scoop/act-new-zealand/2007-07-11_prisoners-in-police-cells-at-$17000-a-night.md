@@ -1,9 +1,12 @@
 ---
 slug: prisoners-in-police-cells-at-$17000-a-night
-title: "Prisoners In Police Cells At $17,000 A Night"
-date: 2007-07-11
-source-url: https://www.scoop.co.nz/stories/PA0707/S00168/prisoners-in-police-cells-at-17000-a-night.htm
+title: Prisoners In Police Cells At $17,000 A Night
+date: 2007-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00168/prisoners-in-police-cells-at-17000-a-night.htm
 author: act-new-zealand
+permalink: /archive/2007/07/11/prisoners-in-police-cells-at-/index.html
+layout: layout.njk
 ---
 Prisoners In Police Cells At $17,000 A Night
 ============================================

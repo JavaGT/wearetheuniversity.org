@@ -1,9 +1,13 @@
 ---
 slug: google-internship-in-new-york-for-waikato-uni-student
-title: "Google internship in New York for Waikato uni student"
-date: 2014-01-13
-source-url: https://www.scoop.co.nz/stories/AK1401/S00228/google-internship-in-new-york-for-waikato-uni-student.htm
+title: Google internship in New York for Waikato uni student
+date: 2014-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00228/google-internship-in-new-york-for-waikato-uni-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/01/13/google-internship-in-new-york-for-waikato-uni-student/index.html
+layout: layout.njk
 ---
 Google internship in New York for Waikato uni student
 =====================================================

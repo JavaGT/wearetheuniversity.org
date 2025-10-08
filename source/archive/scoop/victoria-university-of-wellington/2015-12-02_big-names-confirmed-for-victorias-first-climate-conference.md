@@ -1,9 +1,13 @@
 ---
 slug: big-names-confirmed-for-victorias-first-climate-conference
-title: "Big names confirmed for Victoria’s first climate conference"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/SC1512/S00013/big-names-confirmed-for-victorias-first-climate-conference.htm
+title: Big names confirmed for Victoria’s first climate conference
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00013/big-names-confirmed-for-victorias-first-climate-conference.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/12/02/big-names-confirmed-for-victorias-first-climate-conference/index.html
+layout: layout.njk
 ---
 Big names confirmed for Victoria’s first climate conference
 ===========================================================

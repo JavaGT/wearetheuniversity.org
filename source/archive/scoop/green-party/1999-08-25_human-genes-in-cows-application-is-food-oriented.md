@@ -1,9 +1,13 @@
 ---
 slug: human-genes-in-cows-application-is-food-oriented
-title: "Human-Genes-In-Cows Application Is Food-Oriented"
-date: 1999-08-25
-source-url: https://www.scoop.co.nz/stories/PA9908/S00418/human-genes-in-cows-application-is-food-oriented.htm
+title: Human-Genes-In-Cows Application Is Food-Oriented
+date: 1999-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00418/human-genes-in-cows-application-is-food-oriented.htm
 author: green-party
+permalink: >-
+  /archive/1999/08/25/human-genes-in-cows-application-is-food-oriented/index.html
+layout: layout.njk
 ---
 Human-Genes-In-Cows Application Is Food-Oriented
 ================================================

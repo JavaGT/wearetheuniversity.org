@@ -1,9 +1,12 @@
 ---
 slug: gg-to-launch-womens-health-research-centre
-title: "GG To Launch Women’s Health Research Centre"
-date: 2005-11-03
-source-url: https://www.scoop.co.nz/stories/GE0511/S00009/gg-to-launch-womens-health-research-centre.htm
+title: GG To Launch Women’s Health Research Centre
+date: 2005-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0511/S00009/gg-to-launch-womens-health-research-centre.htm
 author: university-of-otago
+permalink: /archive/2005/11/03/gg-to-launch-womens-health-research-centre/index.html
+layout: layout.njk
 ---
 GG To Launch Women’s Health Research Centre
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-praises-public-health-champion
-title: "Maori Party Praises Public Health Champion"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00125/maori-party-praises-public-health-champion.htm
+title: Maori Party Praises Public Health Champion
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00125/maori-party-praises-public-health-champion.htm
 author: te-pati-maori
+permalink: /archive/2007/07/06/maori-party-praises-public-health-champion/index.html
+layout: layout.njk
 ---
 Maori Party Praises Public Health Champion
 ==========================================

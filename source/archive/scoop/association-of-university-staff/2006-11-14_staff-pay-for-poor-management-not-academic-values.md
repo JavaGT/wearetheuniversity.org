@@ -1,9 +1,13 @@
 ---
 slug: staff-pay-for-poor-management-not-academic-values
-title: "Staff pay for poor management, not academic values"
-date: 2006-11-14
-source-url: https://www.scoop.co.nz/stories/ED0611/S00055/staff-pay-for-poor-management-not-academic-values.htm
+title: Staff pay for poor management, not academic values
+date: 2006-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00055/staff-pay-for-poor-management-not-academic-values.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2006/11/14/staff-pay-for-poor-management-not-academic-values/index.html
+layout: layout.njk
 ---
 Staff pay for poor management, not academic values
 ==================================================

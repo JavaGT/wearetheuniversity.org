@@ -1,9 +1,13 @@
 ---
 slug: new-uc-bridge-construction-techniques-will-speed-up-repairs
-title: "New UC bridge construction techniques will speed up repairs"
-date: 2013-09-16
-source-url: https://www.scoop.co.nz/stories/SC1309/S00042/new-uc-bridge-construction-techniques-will-speed-up-repairs.htm
+title: New UC bridge construction techniques will speed up repairs
+date: 2013-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00042/new-uc-bridge-construction-techniques-will-speed-up-repairs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/16/new-uc-bridge-construction-techniques-will-speed-up-repairs/index.html
+layout: layout.njk
 ---
 New UC bridge construction techniques will speed up repairs
 ===========================================================

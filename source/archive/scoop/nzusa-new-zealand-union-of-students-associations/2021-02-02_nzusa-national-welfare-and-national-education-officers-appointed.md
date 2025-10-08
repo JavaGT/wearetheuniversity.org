@@ -1,9 +1,13 @@
 ---
 slug: nzusa-national-welfare-and-national-education-officers-appointed
-title: "NZUSA National Welfare And National Education Officers Appointed"
-date: 2021-02-02
-source-url: https://www.scoop.co.nz/stories/ED2102/S00003/nzusa-national-welfare-and-national-education-officers-appointed.htm
+title: NZUSA National Welfare And National Education Officers Appointed
+date: 2021-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00003/nzusa-national-welfare-and-national-education-officers-appointed.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/02/02/nzusa-national-welfare-and-national-education-officers-appointed/index.html
+layout: layout.njk
 ---
 NZUSA National Welfare And National Education Officers Appointed
 ================================================================

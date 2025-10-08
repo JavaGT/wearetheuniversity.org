@@ -1,9 +1,12 @@
 ---
 slug: labour-will-protect-homes-from-rockfall
-title: "Labour will protect homes from rockfall"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/PA1406/S00200/labour-will-protect-homes-from-rockfall.htm
+title: Labour will protect homes from rockfall
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00200/labour-will-protect-homes-from-rockfall.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/16/labour-will-protect-homes-from-rockfall/index.html
+layout: layout.njk
 ---
 Labour will protect homes from rockfall
 =======================================

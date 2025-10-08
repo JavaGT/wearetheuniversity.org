@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-employment-law-weakness
-title: "Survey Shows Employment Law Weakness"
-date: 2004-06-15
-source-url: https://www.scoop.co.nz/stories/PO0406/S00147/survey-shows-employment-law-weakness.htm
+title: Survey Shows Employment Law Weakness
+date: 2004-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00147/survey-shows-employment-law-weakness.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/06/15/survey-shows-employment-law-weakness/index.html
+layout: layout.njk
 ---
 Survey Shows Employment Law Weakness
 ====================================

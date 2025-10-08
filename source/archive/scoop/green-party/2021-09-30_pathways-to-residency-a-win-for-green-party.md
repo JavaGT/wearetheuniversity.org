@@ -1,9 +1,12 @@
 ---
 slug: pathways-to-residency-a-win-for-green-party
-title: "Pathways To Residency A Win For Green Party"
-date: 2021-09-30
-source-url: https://www.scoop.co.nz/stories/PA2109/S00280/pathways-to-residency-a-win-for-green-party.htm
+title: Pathways To Residency A Win For Green Party
+date: 2021-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00280/pathways-to-residency-a-win-for-green-party.htm
 author: green-party
+permalink: /archive/2021/09/30/pathways-to-residency-a-win-for-green-party/index.html
+layout: layout.njk
 ---
 Pathways To Residency A Win For Green Party
 ===========================================

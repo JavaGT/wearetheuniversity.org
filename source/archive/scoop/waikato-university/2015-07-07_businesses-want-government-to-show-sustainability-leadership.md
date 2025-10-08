@@ -1,9 +1,13 @@
 ---
 slug: businesses-want-government-to-show-sustainability-leadership
-title: "Businesses want government to show sustainability leadership"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/ED1507/S00040/businesses-want-government-to-show-sustainability-leadership.htm
+title: Businesses want government to show sustainability leadership
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00040/businesses-want-government-to-show-sustainability-leadership.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/07/businesses-want-government-to-show-sustainability-leadership/index.html
+layout: layout.njk
 ---
 Businesses want government to show sustainability leadership
 ============================================================

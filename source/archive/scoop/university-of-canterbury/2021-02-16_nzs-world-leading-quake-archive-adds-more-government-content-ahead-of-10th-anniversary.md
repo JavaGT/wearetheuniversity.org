@@ -1,9 +1,16 @@
 ---
-slug: nzs-world-leading-quake-archive-adds-more-government-content-ahead-of-10th-anniversary
-title: "NZ’s World-leading Quake Archive Adds More Government Content Ahead Of 10th Anniversary"
-date: 2021-02-16
-source-url: https://www.scoop.co.nz/stories/ED2102/S00022/nzs-world-leading-quake-archive-adds-more-government-content-ahead-of-10th-anniversary.htm
+slug: >-
+  nzs-world-leading-quake-archive-adds-more-government-content-ahead-of-10th-anniversary
+title: >-
+  NZ’s World-leading Quake Archive Adds More Government Content Ahead Of 10th
+  Anniversary
+date: 2021-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00022/nzs-world-leading-quake-archive-adds-more-government-content-ahead-of-10th-anniversary.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/02/16/nzs-world-leading-quake-archive-adds-more-government-content-ahead-of-10th-anniversary/index.html
+layout: layout.njk
 ---
 NZ’s World-leading Quake Archive Adds More Government Content Ahead Of 10th Anniversary
 =======================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: high-level-of-smoking-around-others-at-bus-stops-study
-title: "High level of smoking around others at bus stops - study"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/GE1403/S00014/high-level-of-smoking-around-others-at-bus-stops-study.htm
+title: High level of smoking around others at bus stops - study
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00014/high-level-of-smoking-around-others-at-bus-stops-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/05/high-level-of-smoking-around-others-at-bus-stops-study/index.html
+layout: layout.njk
 ---
 High level of smoking around others at bus stops - study
 ========================================================

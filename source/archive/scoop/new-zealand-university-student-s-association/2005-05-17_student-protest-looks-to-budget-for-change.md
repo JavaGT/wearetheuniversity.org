@@ -1,9 +1,12 @@
 ---
 slug: student-protest-looks-to-budget-for-change
-title: "Student protest looks to Budget for change"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00064/student-protest-looks-to-budget-for-change.htm
+title: Student protest looks to Budget for change
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00064/student-protest-looks-to-budget-for-change.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/05/17/student-protest-looks-to-budget-for-change/index.html
+layout: layout.njk
 ---
 Student protest looks to Budget for change
 ==========================================

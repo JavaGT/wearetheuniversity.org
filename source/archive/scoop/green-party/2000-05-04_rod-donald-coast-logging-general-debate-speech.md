@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-coast-logging-general-debate-speech
-title: "Rod Donald Coast Logging General Debate Speech"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PA0005/S00090/rod-donald-coast-logging-general-debate-speech.htm
+title: Rod Donald Coast Logging General Debate Speech
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00090/rod-donald-coast-logging-general-debate-speech.htm
 author: green-party
+permalink: /archive/2000/05/04/rod-donald-coast-logging-general-debate-speech/index.html
+layout: layout.njk
 ---
 Rod Donald Coast Logging General Debate Speech
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-institutions-splash-out-on-ads
-title: "Tertiary Institutions Splash Out On Ads"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PA0002/S00157/tertiary-institutions-splash-out-on-ads.htm
+title: Tertiary Institutions Splash Out On Ads
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00157/tertiary-institutions-splash-out-on-ads.htm
 author: green-party
+permalink: /archive/2000/02/14/tertiary-institutions-splash-out-on-ads/index.html
+layout: layout.njk
 ---
 Tertiary Institutions Splash Out On Ads
 =======================================

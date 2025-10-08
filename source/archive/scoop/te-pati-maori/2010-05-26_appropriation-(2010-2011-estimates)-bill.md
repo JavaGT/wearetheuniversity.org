@@ -1,9 +1,12 @@
 ---
 slug: appropriation-(2010-2011-estimates)-bill
-title: "Appropriation (2010/2011 Estimates) Bill"
-date: 2010-05-26
-source-url: https://www.scoop.co.nz/stories/PA1005/S00441/appropriation-20102011-estimates-bill.htm
+title: Appropriation (2010/2011 Estimates) Bill
+date: 2010-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00441/appropriation-20102011-estimates-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/05/26/appropriation-/index.html
+layout: layout.njk
 ---
 Appropriation (2010/2011 Estimates) Bill
 ========================================

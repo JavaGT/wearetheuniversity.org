@@ -1,9 +1,12 @@
 ---
 slug: green-party-comment-on-nationals-costings
-title: "Green Party comment on National's costings"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PA1111/S00446/green-party-comment-on-nationals-costings.htm
+title: Green Party comment on National's costings
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00446/green-party-comment-on-nationals-costings.htm
 author: green-party
+permalink: /archive/2011/11/22/green-party-comment-on-nationals-costings/index.html
+layout: layout.njk
 ---
 Green Party comment on National's costings
 ==========================================

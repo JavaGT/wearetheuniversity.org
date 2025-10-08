@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-12-december-2005
-title: "ACT's The Letter - 12 December 2005"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00168/acts-the-letter-12-december-2005.htm
+title: ACT's The Letter - 12 December 2005
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00168/acts-the-letter-12-december-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/12/12/acts-the-letter-12-december-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter - 12 December 2005
 ===================================

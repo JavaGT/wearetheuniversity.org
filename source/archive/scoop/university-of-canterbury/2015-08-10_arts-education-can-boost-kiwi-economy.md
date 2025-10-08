@@ -1,9 +1,12 @@
 ---
 slug: arts-education-can-boost-kiwi-economy
-title: "Arts education can boost Kiwi economy"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/CU1508/S00135/arts-education-can-boost-kiwi-economy.htm
+title: Arts education can boost Kiwi economy
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00135/arts-education-can-boost-kiwi-economy.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/10/arts-education-can-boost-kiwi-economy/index.html
+layout: layout.njk
 ---
 Arts education can boost Kiwi economy
 =====================================

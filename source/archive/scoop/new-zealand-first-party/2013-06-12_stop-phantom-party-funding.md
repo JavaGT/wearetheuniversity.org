@@ -1,9 +1,11 @@
 ---
 slug: stop-phantom-party-funding
-title: "Stop Phantom Party Funding"
-date: 2013-06-12
+title: Stop Phantom Party Funding
+date: 2013-06-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1306/S00192/stop-phantom-party-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2013/06/12/stop-phantom-party-funding/index.html
+layout: layout.njk
 ---
 Stop Phantom Party Funding
 ==========================

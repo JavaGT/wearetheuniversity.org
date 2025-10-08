@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-further-details-on-fees-free-eligibility
-title: "Students Welcome Further Details on Fees-Free Eligibility"
-date: 2017-12-05
-source-url: https://www.scoop.co.nz/stories/ED1712/S00011/students-welcome-further-details-on-fees-free-eligibility.htm
+title: Students Welcome Further Details on Fees-Free Eligibility
+date: 2017-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00011/students-welcome-further-details-on-fees-free-eligibility.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/12/05/students-welcome-further-details-on-fees-free-eligibility/index.html
+layout: layout.njk
 ---
 Students Welcome Further Details on Fees-Free Eligibility
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: ending-offshore-exploration-is-lose-lose
-title: "Ending offshore exploration is lose-lose"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00133/ending-offshore-exploration-is-lose-lose.htm
+title: Ending offshore exploration is lose-lose
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00133/ending-offshore-exploration-is-lose-lose.htm
 author: act-new-zealand
+permalink: /archive/2018/04/12/ending-offshore-exploration-is-lose-lose/index.html
+layout: layout.njk
 ---
 Ending offshore exploration is lose-lose
 ========================================

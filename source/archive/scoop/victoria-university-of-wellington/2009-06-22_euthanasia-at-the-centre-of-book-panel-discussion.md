@@ -1,9 +1,13 @@
 ---
 slug: euthanasia-at-the-centre-of-book-panel-discussion
-title: "Euthanasia at the centre of book, panel discussion"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/PO0906/S00241/euthanasia-at-the-centre-of-book-panel-discussion.htm
+title: Euthanasia at the centre of book, panel discussion
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00241/euthanasia-at-the-centre-of-book-panel-discussion.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/06/22/euthanasia-at-the-centre-of-book-panel-discussion/index.html
+layout: layout.njk
 ---
 Euthanasia at the centre of book, panel discussion
 ==================================================

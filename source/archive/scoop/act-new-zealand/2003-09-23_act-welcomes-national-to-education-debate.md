@@ -1,9 +1,12 @@
 ---
 slug: act-welcomes-national-to-education-debate
-title: "ACT Welcomes National To Education Debate"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/PA0309/S00491/act-welcomes-national-to-education-debate.htm
+title: ACT Welcomes National To Education Debate
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00491/act-welcomes-national-to-education-debate.htm
 author: act-new-zealand
+permalink: /archive/2003/09/23/act-welcomes-national-to-education-debate/index.html
+layout: layout.njk
 ---
 ACT Welcomes National To Education Debate
 =========================================

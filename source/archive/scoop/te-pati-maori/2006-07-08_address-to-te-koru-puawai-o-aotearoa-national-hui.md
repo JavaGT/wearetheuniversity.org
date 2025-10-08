@@ -1,9 +1,13 @@
 ---
 slug: address-to-te-koru-puawai-o-aotearoa-national-hui
-title: "Address to Te Koru Puawai o Aotearoa National Hui"
-date: 2006-07-08
-source-url: https://www.scoop.co.nz/stories/PA0607/S00113/address-to-te-koru-puawai-o-aotearoa-national-hui.htm
+title: Address to Te Koru Puawai o Aotearoa National Hui
+date: 2006-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00113/address-to-te-koru-puawai-o-aotearoa-national-hui.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/07/08/address-to-te-koru-puawai-o-aotearoa-national-hui/index.html
+layout: layout.njk
 ---
 Address to Te Koru Puawai o Aotearoa National Hui
 =================================================

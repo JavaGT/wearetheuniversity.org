@@ -1,9 +1,12 @@
 ---
 slug: key-breaks-valentines-promise
-title: "Key breaks Valentine’s promise"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/PA1210/S00332/key-breaks-valentines-promise.htm
+title: Key breaks Valentine’s promise
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00332/key-breaks-valentines-promise.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/18/key-breaks-valentines-promise/index.html
+layout: layout.njk
 ---
 Key breaks Valentine’s promise
 ==============================

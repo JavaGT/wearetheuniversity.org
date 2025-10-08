@@ -1,9 +1,11 @@
 ---
 slug: sharples-budget-speech
-title: "Sharples: Budget Speech"
-date: 2007-05-17
+title: 'Sharples: Budget Speech'
+date: 2007-05-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00461/sharples-budget-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/05/17/sharples-budget-speech/index.html
+layout: layout.njk
 ---
 Sharples: Budget Speech
 =======================

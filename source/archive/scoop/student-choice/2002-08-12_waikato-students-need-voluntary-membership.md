@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-need-voluntary-membership
-title: "Waikato Students Need Voluntary Membership"
-date: 2002-08-12
-source-url: https://www.scoop.co.nz/stories/ED0208/S00011/waikato-students-need-voluntary-membership.htm
+title: Waikato Students Need Voluntary Membership
+date: 2002-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00011/waikato-students-need-voluntary-membership.htm
 author: student-choice
+permalink: /archive/2002/08/12/waikato-students-need-voluntary-membership/index.html
+layout: layout.njk
 ---
 Waikato Students Need Voluntary Membership
 ==========================================

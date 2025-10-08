@@ -1,9 +1,13 @@
 ---
 slug: more-tinkering-no-leadership-from-nats-on-immigration
-title: "More tinkering, no leadership from Nats on immigration"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/PA1704/S00230/more-tinkering-no-leadership-from-nats-on-immigration.htm
+title: More tinkering, no leadership from Nats on immigration
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00230/more-tinkering-no-leadership-from-nats-on-immigration.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/19/more-tinkering-no-leadership-from-nats-on-immigration/index.html
+layout: layout.njk
 ---
 More tinkering, no leadership from Nats on immigration
 ======================================================

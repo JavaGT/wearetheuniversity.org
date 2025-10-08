@@ -1,9 +1,13 @@
 ---
 slug: shortland-delighted-at-breakthrough-for-moerewa-school
-title: "Shortland delighted at breakthrough for Moerewa School"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PO1111/S00588/shortland-delighted-at-breakthrough-for-moerewa-school.htm
+title: Shortland delighted at breakthrough for Moerewa School
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00588/shortland-delighted-at-breakthrough-for-moerewa-school.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/11/22/shortland-delighted-at-breakthrough-for-moerewa-school/index.html
+layout: layout.njk
 ---
 Shortland delighted at breakthrough for Moerewa School
 ======================================================

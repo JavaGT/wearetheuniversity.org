@@ -1,9 +1,12 @@
 ---
 slug: auckland-north-commits-to-innovation-strategy
-title: "Auckland North commits to innovation strategy"
-date: 2016-05-25
-source-url: https://www.scoop.co.nz/stories/ED1605/S00101/auckland-north-commits-to-innovation-strategy.htm
+title: Auckland North commits to innovation strategy
+date: 2016-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00101/auckland-north-commits-to-innovation-strategy.htm
 author: massey-university
+permalink: /archive/2016/05/25/auckland-north-commits-to-innovation-strategy/index.html
+layout: layout.njk
 ---
 Auckland North commits to innovation strategy
 =============================================

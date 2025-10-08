@@ -1,9 +1,12 @@
 ---
 slug: usp-new-zealand-hlc-a-success
-title: "USP-New Zealand HLC, a success"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PO1705/S00030/usp-new-zealand-hlc-a-success.htm
+title: USP-New Zealand HLC, a success
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00030/usp-new-zealand-hlc-a-success.htm
 author: university-of-the-south-pacific
+permalink: /archive/2017/05/02/usp-new-zealand-hlc-a-success/index.html
+layout: layout.njk
 ---
 USP-New Zealand HLC, a success
 ==============================

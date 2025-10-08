@@ -1,9 +1,12 @@
 ---
 slug: dog-owners-should-pay-higher-price-for-attacks
-title: "Dog owners should pay higher price for attacks"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/PA0301/S00092/dog-owners-should-pay-higher-price-for-attacks.htm
+title: Dog owners should pay higher price for attacks
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00092/dog-owners-should-pay-higher-price-for-attacks.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/16/dog-owners-should-pay-higher-price-for-attacks/index.html
+layout: layout.njk
 ---
 Dog owners should pay higher price for attacks
 ==============================================

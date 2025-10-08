@@ -1,8 +1,12 @@
 ---
 slug: three-in-ten-rat-offspring-die-after-mothers-fed-oxidised-fish-oil-study
-title: "Three in ten rat offspring die after mothers fed oxidised fish oil: study"
-date: 2016-07-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/rat-babies-die-oxidised-fish-oil-pregnancy.html
+title: 'Three in ten rat offspring die after mothers fed oxidised fish oil: study'
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/rat-babies-die-oxidised-fish-oil-pregnancy.html
+permalink: >-
+  /archive/2016/07/22/three-in-ten-rat-offspring-die-after-mothers-fed-oxidised-fish-oil-study/index.html
+layout: layout.njk
 ---
 Three in ten rat offspring die after mothers fed oxidised fish oil: study
 =========================================================================

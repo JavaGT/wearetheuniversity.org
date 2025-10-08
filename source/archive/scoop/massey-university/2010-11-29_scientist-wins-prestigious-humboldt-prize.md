@@ -1,9 +1,12 @@
 ---
 slug: scientist-wins-prestigious-humboldt-prize
-title: "Scientist wins prestigious Humboldt Prize"
-date: 2010-11-29
-source-url: https://www.scoop.co.nz/stories/ED1011/S00117/scientist-wins-prestigious-humboldt-prize.htm
+title: Scientist wins prestigious Humboldt Prize
+date: 2010-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00117/scientist-wins-prestigious-humboldt-prize.htm
 author: massey-university
+permalink: /archive/2010/11/29/scientist-wins-prestigious-humboldt-prize/index.html
+layout: layout.njk
 ---
 Scientist wins prestigious Humboldt Prize
 =========================================

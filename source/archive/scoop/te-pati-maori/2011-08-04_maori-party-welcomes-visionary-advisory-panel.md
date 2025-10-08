@@ -1,9 +1,12 @@
 ---
 slug: maori-party-welcomes-visionary-advisory-panel
-title: "Maori Party welcomes ‘visionary’ Advisory Panel"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PA1108/S00095/maori-party-welcomes-visionary-advisory-panel.htm
+title: Maori Party welcomes ‘visionary’ Advisory Panel
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00095/maori-party-welcomes-visionary-advisory-panel.htm
 author: te-pati-maori
+permalink: /archive/2011/08/04/maori-party-welcomes-visionary-advisory-panel/index.html
+layout: layout.njk
 ---
 Maori Party welcomes ‘visionary’ Advisory Panel
 ===============================================

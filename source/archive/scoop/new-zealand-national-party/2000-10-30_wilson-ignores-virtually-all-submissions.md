@@ -1,9 +1,12 @@
 ---
 slug: wilson-ignores-virtually-all-submissions
-title: "Wilson Ignores Virtually All Submissions"
-date: 2000-10-30
-source-url: https://www.scoop.co.nz/stories/PA0010/S00527/wilson-ignores-virtually-all-submissions.htm
+title: Wilson Ignores Virtually All Submissions
+date: 2000-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00527/wilson-ignores-virtually-all-submissions.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/30/wilson-ignores-virtually-all-submissions/index.html
+layout: layout.njk
 ---
 Wilson Ignores Virtually All Submissions
 ========================================

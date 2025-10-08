@@ -1,9 +1,12 @@
 ---
 slug: law-student-wins-energy-scholarship
-title: "Law student wins energy scholarship"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00078/law-student-wins-energy-scholarship.htm
+title: Law student wins energy scholarship
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00078/law-student-wins-energy-scholarship.htm
 author: waikato-university
+permalink: /archive/2009/10/19/law-student-wins-energy-scholarship/index.html
+layout: layout.njk
 ---
 Law student wins energy scholarship
 ===================================

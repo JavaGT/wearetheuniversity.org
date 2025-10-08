@@ -1,9 +1,11 @@
 ---
 slug: greens-say-no-to-tasers
-title: "Greens say no to tasers"
-date: 2008-08-27
+title: Greens say no to tasers
+date: 2008-08-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00427/greens-say-no-to-tasers.htm
 author: green-party
+permalink: /archive/2008/08/27/greens-say-no-to-tasers/index.html
+layout: layout.njk
 ---
 Greens say no to tasers
 =======================

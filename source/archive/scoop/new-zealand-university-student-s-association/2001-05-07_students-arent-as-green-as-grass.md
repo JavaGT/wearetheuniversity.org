@@ -1,9 +1,12 @@
 ---
 slug: students-arent-as-green-as-grass
-title: "Students aren’t as green as grass"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/ED0105/S00008/students-arent-as-green-as-grass.htm
+title: Students aren’t as green as grass
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00008/students-arent-as-green-as-grass.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/07/students-arent-as-green-as-grass/index.html
+layout: layout.njk
 ---
 Students aren’t as green as grass
 =================================

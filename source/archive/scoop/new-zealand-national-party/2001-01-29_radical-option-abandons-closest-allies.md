@@ -1,9 +1,12 @@
 ---
 slug: radical-option-abandons-closest-allies
-title: "Radical Option Abandons Closest Allies"
-date: 2001-01-29
-source-url: https://www.scoop.co.nz/stories/PA0101/S00143/radical-option-abandons-closest-allies.htm
+title: Radical Option Abandons Closest Allies
+date: 2001-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00143/radical-option-abandons-closest-allies.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/29/radical-option-abandons-closest-allies/index.html
+layout: layout.njk
 ---
 Radical Option Abandons Closest Allies
 ======================================

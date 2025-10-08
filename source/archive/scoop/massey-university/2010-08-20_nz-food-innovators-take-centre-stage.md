@@ -1,9 +1,12 @@
 ---
 slug: nz-food-innovators-take-centre-stage
-title: "NZ food innovators take centre stage"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/ED1008/S00084/nz-food-innovators-take-centre-stage.htm
+title: NZ food innovators take centre stage
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00084/nz-food-innovators-take-centre-stage.htm
 author: massey-university
+permalink: /archive/2010/08/20/nz-food-innovators-take-centre-stage/index.html
+layout: layout.njk
 ---
 NZ food innovators take centre stage
 ====================================

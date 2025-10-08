@@ -1,9 +1,13 @@
 ---
 slug: health-education-compromised-by-school-fundraising
-title: "Health Education Compromised By School Fundraising"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/ED0508/S00041/health-education-compromised-by-school-fundraising.htm
+title: Health Education Compromised By School Fundraising
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00041/health-education-compromised-by-school-fundraising.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/08/09/health-education-compromised-by-school-fundraising/index.html
+layout: layout.njk
 ---
 Health Education Compromised By School Fundraising
 ==================================================

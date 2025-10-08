@@ -1,9 +1,12 @@
 ---
 slug: alliance-tertiary-policy-a-positive-first-step
-title: "Alliance Tertiary Policy - A Positive First Step"
-date: 1999-09-10
-source-url: https://www.scoop.co.nz/stories/ED9909/S00010/alliance-tertiary-policy-a-positive-first-step.htm
+title: Alliance Tertiary Policy - A Positive First Step
+date: 1999-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00010/alliance-tertiary-policy-a-positive-first-step.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/10/alliance-tertiary-policy-a-positive-first-step/index.html
+layout: layout.njk
 ---
 Alliance Tertiary Policy - A Positive First Step
 ================================================

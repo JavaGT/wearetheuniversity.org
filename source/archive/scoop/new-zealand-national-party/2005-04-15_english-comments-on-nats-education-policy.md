@@ -1,9 +1,12 @@
 ---
 slug: english-comments-on-nats-education-policy
-title: "English Comments On Nat's Education Policy"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/PA0504/S00360/english-comments-on-nats-education-policy.htm
+title: English Comments On Nat's Education Policy
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00360/english-comments-on-nats-education-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/15/english-comments-on-nats-education-policy/index.html
+layout: layout.njk
 ---
 English Comments On Nat's Education Policy
 ==========================================

@@ -1,9 +1,16 @@
 ---
-slug: council-candidates-report-released-by-free-speech-union-outlining-which-local-candidates-stand-for-free-speech
-title: "Council Candidates Report Released By Free Speech Union Outlining Which Local Candidates Stand For Free Speech"
-date: 2022-09-19
-source-url: https://www.scoop.co.nz/stories/PO2209/S00121/council-candidates-report-released-by-free-speech-union-outlining-which-local-candidates-stand-for-free-speech.htm
+slug: >-
+  council-candidates-report-released-by-free-speech-union-outlining-which-local-candidates-stand-for-free-speech
+title: >-
+  Council Candidates Report Released By Free Speech Union Outlining Which Local
+  Candidates Stand For Free Speech
+date: 2022-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00121/council-candidates-report-released-by-free-speech-union-outlining-which-local-candidates-stand-for-free-speech.htm
 author: free-speech-union
+permalink: >-
+  /archive/2022/09/19/council-candidates-report-released-by-free-speech-union-outlining-which-local-candidates-stand-for-free-speech/index.html
+layout: layout.njk
 ---
 Council Candidates Report Released By Free Speech Union Outlining Which Local Candidates Stand For Free Speech
 ==============================================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: postal-workers-unions-calls-for-censorship-must-be-challenged
-title: "Postal Workers Union’s Calls For Censorship Must Be Challenged"
-date: 2024-08-27
-source-url: https://www.scoop.co.nz/stories/PO2408/S00135/postal-workers-unions-calls-for-censorship-must-be-challenged.htm
+title: Postal Workers Union’s Calls For Censorship Must Be Challenged
+date: 2024-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2408/S00135/postal-workers-unions-calls-for-censorship-must-be-challenged.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/08/27/postal-workers-unions-calls-for-censorship-must-be-challenged/index.html
+layout: layout.njk
 ---
 Postal Workers Union’s Calls For Censorship Must Be Challenged
 ==============================================================

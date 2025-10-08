@@ -1,9 +1,11 @@
 ---
 slug: salon-event-for-readers
-title: "Salon event for readers"
-date: 2015-05-21
+title: Salon event for readers
+date: 2015-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1505/S00395/salon-event-for-readers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/05/21/salon-event-for-readers/index.html
+layout: layout.njk
 ---
 Salon event for readers
 =======================

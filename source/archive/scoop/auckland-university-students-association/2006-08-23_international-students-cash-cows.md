@@ -1,9 +1,12 @@
 ---
 slug: international-students-cash-cows
-title: "International Students \"Cash Cows\""
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/ED0608/S00070/international-students-cash-cows.htm
+title: International Students "Cash Cows"
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00070/international-students-cash-cows.htm
 author: auckland-university-students-association
+permalink: /archive/2006/08/23/international-students-cash-cows/index.html
+layout: layout.njk
 ---
 International Students “Cash Cows”
 ==================================

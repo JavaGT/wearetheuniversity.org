@@ -1,9 +1,12 @@
 ---
 slug: students-behind-in-maths-could-earn-$320000-less
-title: "Students Behind In Maths Could Earn $320,000 Less"
-date: 2023-08-08
-source-url: https://www.scoop.co.nz/stories/PA2308/S00048/students-behind-in-maths-could-earn-320000-less.htm
+title: Students Behind In Maths Could Earn $320,000 Less
+date: 2023-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00048/students-behind-in-maths-could-earn-320000-less.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/08/students-behind-in-maths-could-earn-/index.html
+layout: layout.njk
 ---
 Students Behind In Maths Could Earn $320,000 Less
 =================================================

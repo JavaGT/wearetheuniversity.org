@@ -1,9 +1,12 @@
 ---
 slug: new-data-highlights-chainsaw-massacre
-title: "New data highlights chainsaw massacre"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/PA0705/S00685/new-data-highlights-chainsaw-massacre.htm
+title: New data highlights chainsaw massacre
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00685/new-data-highlights-chainsaw-massacre.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/25/new-data-highlights-chainsaw-massacre/index.html
+layout: layout.njk
 ---
 New data highlights chainsaw massacre
 =====================================

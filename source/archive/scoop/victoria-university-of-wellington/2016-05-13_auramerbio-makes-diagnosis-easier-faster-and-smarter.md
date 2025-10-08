@@ -1,9 +1,13 @@
 ---
 slug: auramerbio-makes-diagnosis-easier-faster-and-smarter
-title: "AuramerBio makes diagnosis easier, faster and smarter"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/GE1605/S00069/auramerbio-makes-diagnosis-easier-faster-and-smarter.htm
+title: AuramerBio makes diagnosis easier, faster and smarter
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00069/auramerbio-makes-diagnosis-easier-faster-and-smarter.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/13/auramerbio-makes-diagnosis-easier-faster-and-smarter/index.html
+layout: layout.njk
 ---
 AuramerBio makes diagnosis easier, faster and smarter
 =====================================================

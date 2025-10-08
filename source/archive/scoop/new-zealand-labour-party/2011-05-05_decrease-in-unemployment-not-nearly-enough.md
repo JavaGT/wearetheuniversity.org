@@ -1,9 +1,12 @@
 ---
 slug: decrease-in-unemployment-not-nearly-enough
-title: "Decrease in unemployment not nearly enough"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PA1105/S00111/decrease-in-unemployment-not-nearly-enough.htm
+title: Decrease in unemployment not nearly enough
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00111/decrease-in-unemployment-not-nearly-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/05/decrease-in-unemployment-not-nearly-enough/index.html
+layout: layout.njk
 ---
 Decrease in unemployment not nearly enough
 ==========================================

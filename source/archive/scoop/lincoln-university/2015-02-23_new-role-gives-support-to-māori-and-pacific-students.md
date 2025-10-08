@@ -1,9 +1,12 @@
 ---
 slug: new-role-gives-support-to-māori-and-pacific-students
-title: "New role gives support to Māori and Pacific students"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/ED1502/S00084/new-role-gives-support-to-maori-and-pacific-students.htm
+title: New role gives support to Māori and Pacific students
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00084/new-role-gives-support-to-maori-and-pacific-students.htm
 author: lincoln-university
+permalink: /archive/2015/02/23/new-role-gives-support-to-m/index.html
+layout: layout.njk
 ---
 New role gives support to Māori and Pacific students
 ====================================================

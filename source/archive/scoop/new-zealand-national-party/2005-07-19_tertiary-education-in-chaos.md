@@ -1,9 +1,11 @@
 ---
 slug: tertiary-education-in-chaos
-title: "Tertiary education in chaos"
-date: 2005-07-19
+title: Tertiary education in chaos
+date: 2005-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00393/tertiary-education-in-chaos.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/19/tertiary-education-in-chaos/index.html
+layout: layout.njk
 ---
 Tertiary education in chaos
 ===========================

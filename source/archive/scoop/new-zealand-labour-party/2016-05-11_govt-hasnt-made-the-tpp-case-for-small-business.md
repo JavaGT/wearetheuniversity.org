@@ -1,9 +1,12 @@
 ---
 slug: govt-hasnt-made-the-tpp-case-for-small-business
-title: "Govt hasn’t made the TPP case for small business"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/PA1605/S00199/govt-hasnt-made-the-tpp-case-for-small-business.htm
+title: Govt hasn’t made the TPP case for small business
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00199/govt-hasnt-made-the-tpp-case-for-small-business.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/11/govt-hasnt-made-the-tpp-case-for-small-business/index.html
+layout: layout.njk
 ---
 Govt hasn’t made the TPP case for small business
 ================================================

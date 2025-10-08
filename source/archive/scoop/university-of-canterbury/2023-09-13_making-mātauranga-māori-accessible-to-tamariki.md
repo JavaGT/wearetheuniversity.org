@@ -1,9 +1,12 @@
 ---
 slug: making-mātauranga-māori-accessible-to-tamariki
-title: "Making Mātauranga Māori Accessible To Tamariki"
-date: 2023-09-13
-source-url: https://www.scoop.co.nz/stories/ED2309/S00028/making-matauranga-maori-accessible-to-tamariki.htm
+title: Making Mātauranga Māori Accessible To Tamariki
+date: 2023-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00028/making-matauranga-maori-accessible-to-tamariki.htm
 author: university-of-canterbury
+permalink: /archive/2023/09/13/making-m/index.html
+layout: layout.njk
 ---
 Making Mātauranga Māori Accessible To Tamariki
 ==============================================

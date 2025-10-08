@@ -1,9 +1,13 @@
 ---
 slug: promising-alzheimers-research-takes-a-step-forward
-title: "Promising Alzheimer’s research takes a step forward"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/SC1608/S00001/promising-alzheimers-research-takes-a-step-forward.htm
+title: Promising Alzheimer’s research takes a step forward
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00001/promising-alzheimers-research-takes-a-step-forward.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/08/01/promising-alzheimers-research-takes-a-step-forward/index.html
+layout: layout.njk
 ---
 Promising Alzheimer’s research takes a step forward
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-doc-threatens-high-country-farming
-title: "Brash Speech - DoC threatens high country farming"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00330/brash-speech-doc-threatens-high-country-farming.htm
+title: Brash Speech - DoC threatens high country farming
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00330/brash-speech-doc-threatens-high-country-farming.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/16/brash-speech-doc-threatens-high-country-farming/index.html
+layout: layout.njk
 ---
 Brash Speech - DoC threatens high country farming
 =================================================

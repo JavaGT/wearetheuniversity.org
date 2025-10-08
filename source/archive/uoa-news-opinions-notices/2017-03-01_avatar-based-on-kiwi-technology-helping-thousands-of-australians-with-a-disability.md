@@ -1,8 +1,15 @@
 ---
-slug: avatar-based-on-kiwi-technology-helping-thousands-of-australians-with-a-disability
-title: "Avatar based on kiwi technology helping thousands of Australians with a disability"
-date: 2017-03-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/meet-nadia--the-australian-avatar-based-on-kiwi-technology.html
+slug: >-
+  avatar-based-on-kiwi-technology-helping-thousands-of-australians-with-a-disability
+title: >-
+  Avatar based on kiwi technology helping thousands of Australians with a
+  disability
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/meet-nadia--the-australian-avatar-based-on-kiwi-technology.html
+permalink: >-
+  /archive/2017/03/01/avatar-based-on-kiwi-technology-helping-thousands-of-australians-with-a-disability/index.html
+layout: layout.njk
 ---
 Avatar based on kiwi technology helping thousands of Australians with a disability
 ==================================================================================

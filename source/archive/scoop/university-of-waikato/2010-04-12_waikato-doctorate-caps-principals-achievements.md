@@ -1,9 +1,12 @@
 ---
 slug: waikato-doctorate-caps-principals-achievements
-title: "Waikato Doctorate Caps Principal’s Achievements"
-date: 2010-04-12
-source-url: https://www.scoop.co.nz/stories/ED1004/S00017/waikato-doctorate-caps-principals-achievements.htm
+title: Waikato Doctorate Caps Principal’s Achievements
+date: 2010-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00017/waikato-doctorate-caps-principals-achievements.htm
 author: university-of-waikato
+permalink: /archive/2010/04/12/waikato-doctorate-caps-principals-achievements/index.html
+layout: layout.njk
 ---
 Waikato Doctorate Caps Principal’s Achievements
 ===============================================

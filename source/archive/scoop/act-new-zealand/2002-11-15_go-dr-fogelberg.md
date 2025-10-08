@@ -1,9 +1,11 @@
 ---
 slug: go-dr-fogelberg
-title: "Go Dr Fogelberg"
-date: 2002-11-15
+title: Go Dr Fogelberg
+date: 2002-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0211/S00370/go-dr-fogelberg.htm
 author: act-new-zealand
+permalink: /archive/2002/11/15/go-dr-fogelberg/index.html
+layout: layout.njk
 ---
 Go Dr Fogelberg
 ===============

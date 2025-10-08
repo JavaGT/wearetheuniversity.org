@@ -1,9 +1,12 @@
 ---
 slug: will-eating-cake-give-me-cancer
-title: "Will eating cake give me cancer?"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/SC1604/S00017/will-eating-cake-give-me-cancer.htm
+title: Will eating cake give me cancer?
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00017/will-eating-cake-give-me-cancer.htm
 author: university-of-otago
+permalink: /archive/2016/04/11/will-eating-cake-give-me-cancer/index.html
+layout: layout.njk
 ---
 Will eating cake give me cancer?
 ================================

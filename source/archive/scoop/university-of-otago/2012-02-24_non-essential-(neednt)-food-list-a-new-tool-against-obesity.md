@@ -1,9 +1,12 @@
 ---
 slug: non-essential-(neednt)-food-list-a-new-tool-against-obesity
-title: "Non-essential (NEEDNT) food list a new tool against obesity"
-date: 2012-02-24
-source-url: https://www.scoop.co.nz/stories/GE1202/S00092/non-essential-neednt-food-list-a-new-tool-against-obesity.htm
+title: Non-essential (NEEDNT) food list a new tool against obesity
+date: 2012-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00092/non-essential-neednt-food-list-a-new-tool-against-obesity.htm
 author: university-of-otago
+permalink: /archive/2012/02/24/non-essential-/index.html
+layout: layout.njk
 ---
 Non-essential (NEEDNT) food list a new tool against obesity
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-criticises-financial-waste-on-litigation
-title: "AUS Criticises Financial Waste on Litigation"
-date: 2003-03-03
-source-url: https://www.scoop.co.nz/stories/ED0303/S00004/aus-criticises-financial-waste-on-litigation.htm
+title: AUS Criticises Financial Waste on Litigation
+date: 2003-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00004/aus-criticises-financial-waste-on-litigation.htm
 author: association-of-university-staff
+permalink: /archive/2003/03/03/aus-criticises-financial-waste-on-litigation/index.html
+layout: layout.njk
 ---
 AUS Criticises Financial Waste on Litigation
 ============================================

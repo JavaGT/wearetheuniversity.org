@@ -1,9 +1,12 @@
 ---
 slug: best-security-is-tenanted-houses
-title: "Best security is tenanted houses"
-date: 2013-01-03
-source-url: https://www.scoop.co.nz/stories/PA1301/S00004/best-security-is-tenanted-houses.htm
+title: Best security is tenanted houses
+date: 2013-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00004/best-security-is-tenanted-houses.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/03/best-security-is-tenanted-houses/index.html
+layout: layout.njk
 ---
 Best security is tenanted houses
 ================================

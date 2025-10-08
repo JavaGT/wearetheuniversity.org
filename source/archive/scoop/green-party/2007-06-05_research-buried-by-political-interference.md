@@ -1,9 +1,12 @@
 ---
 slug: research-buried-by-political-interference
-title: "Research buried by political interference"
-date: 2007-06-05
-source-url: https://www.scoop.co.nz/stories/PA0706/S00051/research-buried-by-political-interference.htm
+title: Research buried by political interference
+date: 2007-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00051/research-buried-by-political-interference.htm
 author: green-party
+permalink: /archive/2007/06/05/research-buried-by-political-interference/index.html
+layout: layout.njk
 ---
 Research buried by political interference
 =========================================

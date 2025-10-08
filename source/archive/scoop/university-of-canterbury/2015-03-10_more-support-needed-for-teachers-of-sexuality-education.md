@@ -1,9 +1,13 @@
 ---
 slug: more-support-needed-for-teachers-of-sexuality-education
-title: "More support needed for teachers of sexuality education"
-date: 2015-03-10
-source-url: https://www.scoop.co.nz/stories/ED1503/S00041/more-support-needed-for-teachers-of-sexuality-education.htm
+title: More support needed for teachers of sexuality education
+date: 2015-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00041/more-support-needed-for-teachers-of-sexuality-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/10/more-support-needed-for-teachers-of-sexuality-education/index.html
+layout: layout.njk
 ---
 More support needed for teachers of sexuality education
 =======================================================

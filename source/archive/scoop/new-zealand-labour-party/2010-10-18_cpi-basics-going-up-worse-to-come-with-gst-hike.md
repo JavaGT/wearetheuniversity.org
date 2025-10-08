@@ -1,9 +1,12 @@
 ---
 slug: cpi-basics-going-up-worse-to-come-with-gst-hike
-title: "CPI: Basics going up, worse to come with GST hike"
-date: 2010-10-18
-source-url: https://www.scoop.co.nz/stories/PA1010/S00291/cpi-basics-going-up-worse-to-come-with-gst-hike.htm
+title: 'CPI: Basics going up, worse to come with GST hike'
+date: 2010-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00291/cpi-basics-going-up-worse-to-come-with-gst-hike.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/18/cpi-basics-going-up-worse-to-come-with-gst-hike/index.html
+layout: layout.njk
 ---
 CPI: Basics going up, worse to come with GST hike
 =================================================

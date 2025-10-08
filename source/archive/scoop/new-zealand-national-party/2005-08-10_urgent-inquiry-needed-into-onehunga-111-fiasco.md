@@ -1,9 +1,12 @@
 ---
 slug: urgent-inquiry-needed-into-onehunga-111-fiasco
-title: "Urgent inquiry needed into Onehunga 111 fiasco"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00264/urgent-inquiry-needed-into-onehunga-111-fiasco.htm
+title: Urgent inquiry needed into Onehunga 111 fiasco
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00264/urgent-inquiry-needed-into-onehunga-111-fiasco.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/10/urgent-inquiry-needed-into-onehunga-111-fiasco/index.html
+layout: layout.njk
 ---
 Urgent inquiry needed into Onehunga 111 fiasco
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: backdoor-benefit-cuts-will-hurt-kids
-title: "Backdoor benefit cuts will hurt kids"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/PA1102/S00338/backdoor-benefit-cuts-will-hurt-kids.htm
+title: Backdoor benefit cuts will hurt kids
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00338/backdoor-benefit-cuts-will-hurt-kids.htm
 author: green-party
+permalink: /archive/2011/02/22/backdoor-benefit-cuts-will-hurt-kids/index.html
+layout: layout.njk
 ---
 Backdoor benefit cuts will hurt kids
 ====================================

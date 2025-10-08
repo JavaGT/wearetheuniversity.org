@@ -1,9 +1,13 @@
 ---
 slug: green-party-selects-philippa-stevenson-as-waikato-candidate
-title: "Green Party selects Philippa Stevenson as Waikato candidate"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/PO1704/S00122/green-party-selects-philippa-stevenson-as-waikato-candidate.htm
+title: Green Party selects Philippa Stevenson as Waikato candidate
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00122/green-party-selects-philippa-stevenson-as-waikato-candidate.htm
 author: green-party
+permalink: >-
+  /archive/2017/04/11/green-party-selects-philippa-stevenson-as-waikato-candidate/index.html
+layout: layout.njk
 ---
 Green Party selects Philippa Stevenson as Waikato candidate
 ===========================================================

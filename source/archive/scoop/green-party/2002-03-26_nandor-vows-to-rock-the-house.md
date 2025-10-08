@@ -1,9 +1,12 @@
 ---
 slug: nandor-vows-to-rock-the-house
-title: "Nandor Vows To Rock The House"
-date: 2002-03-26
-source-url: https://www.scoop.co.nz/stories/PA0203/S00490/nandor-vows-to-rock-the-house.htm
+title: Nandor Vows To Rock The House
+date: 2002-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00490/nandor-vows-to-rock-the-house.htm
 author: green-party
+permalink: /archive/2002/03/26/nandor-vows-to-rock-the-house/index.html
+layout: layout.njk
 ---
 Nandor Vows To Rock The House
 =============================

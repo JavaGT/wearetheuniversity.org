@@ -1,9 +1,13 @@
 ---
 slug: annual-nzusa-training-workshops-kick-off-in-wellington
-title: "Annual NZUSA training workshops kick off in Wellington"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/ED1202/S00040/annual-nzusa-training-workshops-kick-off-in-wellington.htm
+title: Annual NZUSA training workshops kick off in Wellington
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00040/annual-nzusa-training-workshops-kick-off-in-wellington.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/02/09/annual-nzusa-training-workshops-kick-off-in-wellington/index.html
+layout: layout.njk
 ---
 Annual NZUSA training workshops kick off in Wellington
 ======================================================

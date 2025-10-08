@@ -1,9 +1,12 @@
 ---
 slug: digital-disruption-a-wellington-case-study
-title: "Digital disruption: a Wellington case study"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/AK1609/S00418/digital-disruption-a-wellington-case-study.htm
+title: 'Digital disruption: a Wellington case study'
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00418/digital-disruption-a-wellington-case-study.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/09/14/digital-disruption-a-wellington-case-study/index.html
+layout: layout.njk
 ---
 Digital disruption: a Wellington case study
 ===========================================

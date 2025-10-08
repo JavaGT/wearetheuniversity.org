@@ -1,9 +1,12 @@
 ---
 slug: john-key-fast-and-loose-with-numbers-last-night
-title: "John Key – fast and loose with numbers last night"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PA0810/S00324/john-key-fast-and-loose-with-numbers-last-night.htm
+title: John Key – fast and loose with numbers last night
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00324/john-key-fast-and-loose-with-numbers-last-night.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/15/john-key-fast-and-loose-with-numbers-last-night/index.html
+layout: layout.njk
 ---
 John Key – fast and loose with numbers last night
 =================================================

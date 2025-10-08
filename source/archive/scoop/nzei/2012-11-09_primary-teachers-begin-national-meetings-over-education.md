@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-begin-national-meetings-over-education
-title: "Primary Teachers Begin National Meetings Over Education"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/ED1211/S00078/primary-teachers-begin-national-meetings-over-education.htm
+title: Primary Teachers Begin National Meetings Over Education
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00078/primary-teachers-begin-national-meetings-over-education.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/09/primary-teachers-begin-national-meetings-over-education/index.html
+layout: layout.njk
 ---
 Primary Teachers Begin National Meetings Over Education
 =======================================================

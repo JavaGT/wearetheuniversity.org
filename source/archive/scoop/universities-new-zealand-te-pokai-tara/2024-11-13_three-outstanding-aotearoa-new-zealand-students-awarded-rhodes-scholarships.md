@@ -1,9 +1,13 @@
 ---
 slug: three-outstanding-aotearoa-new-zealand-students-awarded-rhodes-scholarships
-title: "Three Outstanding Aotearoa New Zealand Students Awarded Rhodes Scholarships"
-date: 2024-11-13
-source-url: https://www.scoop.co.nz/stories/ED2411/S00029/three-outstanding-aotearoa-new-zealand-students-awarded-rhodes-scholarships.htm
+title: Three Outstanding Aotearoa New Zealand Students Awarded Rhodes Scholarships
+date: 2024-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00029/three-outstanding-aotearoa-new-zealand-students-awarded-rhodes-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/11/13/three-outstanding-aotearoa-new-zealand-students-awarded-rhodes-scholarships/index.html
+layout: layout.njk
 ---
 Three Outstanding Aotearoa New Zealand Students Awarded Rhodes Scholarships
 ===========================================================================
@@ -26,14 +30,7 @@ The Rhodes Trust is proud of the diversity of its Scholars in terms of backgroun
 Brittany Dick from Nelson recently graduated with a Bachelor of Arts in Historical Forces, Arts and Literature from Minerva University, San Francisco. As a Rhodes Scholar Brittany will complete a Master of Philosophy in the History of Science, Medicine, and Technology at the University of Oxford.
 
 While researching her undergraduate dissertation about Māori pregnancy and childbirth traditions and the colonial forces that disrupted them, Brittany resolved to bring to light the untold and painful stories of the past. She says, “I reflected on what I wanted future generations to be born into and became determined to ensure that our pasts are addressed and accessible.”
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> Brittany has been active in her community from a very early age, including working as a Youth Advisor to the Office of the Children’s Commissioner on issues concerning Māori tamariki, and her recent work as Taituarā for Māori Hauora Services, where she helped develop procedures for organising and running vaccination clinics to vaccinate hard-to-reach Māori whānau in Te Tau Ihu.
+Brittany has been active in her community from a very early age, including working as a Youth Advisor to the Office of the Children’s Commissioner on issues concerning Māori tamariki, and her recent work as Taituarā for Māori Hauora Services, where she helped develop procedures for organising and running vaccination clinics to vaccinate hard-to-reach Māori whānau in Te Tau Ihu.
 
 Her referees and mentors describe her as “a credit to Aotearoa” and “a natural leader with sensitivity, wit, drive, and intellectual adroitness”, “a rare talent” and “an obvious star in the making”.
 

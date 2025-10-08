@@ -1,9 +1,12 @@
 ---
 slug: act-state-of-the-nation-speech-david-seymour
-title: "ACT State Of The Nation Speech: David Seymour"
-date: 2022-02-03
-source-url: https://www.scoop.co.nz/stories/PA2202/S00031/act-state-of-the-nation-speech-david-seymour.htm
+title: 'ACT State Of The Nation Speech: David Seymour'
+date: 2022-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00031/act-state-of-the-nation-speech-david-seymour.htm
 author: act-new-zealand
+permalink: /archive/2022/02/03/act-state-of-the-nation-speech-david-seymour/index.html
+layout: layout.njk
 ---
 ACT State Of The Nation Speech: David Seymour
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: plunket-lines-problems-entirely-predictable
-title: "Plunket Line's problems entirely predictable"
-date: 2005-01-10
-source-url: https://www.scoop.co.nz/stories/PA0501/S00031/plunket-lines-problems-entirely-predictable.htm
+title: Plunket Line's problems entirely predictable
+date: 2005-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00031/plunket-lines-problems-entirely-predictable.htm
 author: act-new-zealand
+permalink: /archive/2005/01/10/plunket-lines-problems-entirely-predictable/index.html
+layout: layout.njk
 ---
 Plunket Line's problems entirely predictable
 ============================================

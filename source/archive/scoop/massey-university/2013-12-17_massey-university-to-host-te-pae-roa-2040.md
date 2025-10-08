@@ -1,9 +1,12 @@
 ---
 slug: massey-university-to-host-te-pae-roa-2040
-title: "Massey University to Host Te Pae Roa 2040"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/ED1312/S00112/massey-university-to-host-te-pae-roa-2040.htm
+title: Massey University to Host Te Pae Roa 2040
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00112/massey-university-to-host-te-pae-roa-2040.htm
 author: massey-university
+permalink: /archive/2013/12/17/massey-university-to-host-te-pae-roa-2040/index.html
+layout: layout.njk
 ---
 Massey University to Host Te Pae Roa 2040
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: importance-of-intuition-in-farm-decisions-revealed
-title: "Importance of intuition in farm decisions revealed"
-date: 2018-01-16
-source-url: https://www.scoop.co.nz/stories/BU1801/S00195/importance-of-intuition-in-farm-decisions-revealed.htm
+title: Importance of intuition in farm decisions revealed
+date: 2018-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1801/S00195/importance-of-intuition-in-farm-decisions-revealed.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/01/16/importance-of-intuition-in-farm-decisions-revealed/index.html
+layout: layout.njk
 ---
 Importance of intuition in farm decisions revealed
 ==================================================

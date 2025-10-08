@@ -1,9 +1,12 @@
 ---
 slug: greens-relieved-by-sensible-mine-decision
-title: "Greens Relieved By Sensible Mine Decision"
-date: 2001-08-20
-source-url: https://www.scoop.co.nz/stories/PA0108/S00378/greens-relieved-by-sensible-mine-decision.htm
+title: Greens Relieved By Sensible Mine Decision
+date: 2001-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00378/greens-relieved-by-sensible-mine-decision.htm
 author: green-party
+permalink: /archive/2001/08/20/greens-relieved-by-sensible-mine-decision/index.html
+layout: layout.njk
 ---
 Greens Relieved By Sensible Mine Decision
 =========================================

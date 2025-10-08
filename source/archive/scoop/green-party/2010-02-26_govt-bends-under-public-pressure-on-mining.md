@@ -1,9 +1,12 @@
 ---
 slug: govt-bends-under-public-pressure-on-mining
-title: "Govt bends under public pressure on mining"
-date: 2010-02-26
-source-url: https://www.scoop.co.nz/stories/PA1002/S00376/govt-bends-under-public-pressure-on-mining.htm
+title: Govt bends under public pressure on mining
+date: 2010-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00376/govt-bends-under-public-pressure-on-mining.htm
 author: green-party
+permalink: /archive/2010/02/26/govt-bends-under-public-pressure-on-mining/index.html
+layout: layout.njk
 ---
 Govt bends under public pressure on mining
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: robertson-scholarship-winner-excels-in-sport-and-music-as-well-as-studies
-title: "Robertson Scholarship Winner Excels In Sport And Music As Well As Studies"
-date: 2022-03-08
-source-url: https://www.scoop.co.nz/stories/ED2203/S00012/robertson-scholarship-winner-excels-in-sport-and-music-as-well-as-studies.htm
+title: Robertson Scholarship Winner Excels In Sport And Music As Well As Studies
+date: 2022-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00012/robertson-scholarship-winner-excels-in-sport-and-music-as-well-as-studies.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/03/08/robertson-scholarship-winner-excels-in-sport-and-music-as-well-as-studies/index.html
+layout: layout.njk
 ---
 Robertson Scholarship Winner Excels In Sport And Music As Well As Studies
 =========================================================================

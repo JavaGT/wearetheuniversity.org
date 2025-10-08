@@ -1,9 +1,12 @@
 ---
 slug: law-alumna-to-dive-into-fresh-water-regulation
-title: "Law alumna to dive into fresh water regulation"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/ED1205/S00098/law-alumna-to-dive-into-fresh-water-regulation.htm
+title: Law alumna to dive into fresh water regulation
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00098/law-alumna-to-dive-into-fresh-water-regulation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/05/23/law-alumna-to-dive-into-fresh-water-regulation/index.html
+layout: layout.njk
 ---
 Law alumna to dive into fresh water regulation
 ==============================================

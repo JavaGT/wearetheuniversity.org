@@ -1,9 +1,12 @@
 ---
 slug: feeding-native-ecosystems-with-waste
-title: "Feeding Native Ecosystems With Waste"
-date: 2024-05-17
-source-url: https://www.scoop.co.nz/stories/ED2405/S00070/feeding-native-ecosystems-with-waste.htm
+title: Feeding Native Ecosystems With Waste
+date: 2024-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00070/feeding-native-ecosystems-with-waste.htm
 author: university-of-canterbury
+permalink: /archive/2024/05/17/feeding-native-ecosystems-with-waste/index.html
+layout: layout.njk
 ---
 Feeding Native Ecosystems With Waste
 ====================================

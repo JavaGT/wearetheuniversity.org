@@ -1,9 +1,13 @@
 ---
 slug: the-government-is-ripping-off-children-with-special-needs
-title: "The Government is ripping off children with special needs"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/PA1602/S00090/the-government-is-ripping-off-children-with-special-needs.htm
+title: The Government is ripping off children with special needs
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00090/the-government-is-ripping-off-children-with-special-needs.htm
 author: green-party
+permalink: >-
+  /archive/2016/02/09/the-government-is-ripping-off-children-with-special-needs/index.html
+layout: layout.njk
 ---
 The Government is ripping off children with special needs
 =========================================================

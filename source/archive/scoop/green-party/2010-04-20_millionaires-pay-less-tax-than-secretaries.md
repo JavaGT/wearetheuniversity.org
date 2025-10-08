@@ -1,9 +1,12 @@
 ---
 slug: millionaires-pay-less-tax-than-secretaries
-title: "Millionaires pay less tax than secretaries"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/PA1004/S00209/millionaires-pay-less-tax-than-secretaries.htm
+title: Millionaires pay less tax than secretaries
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00209/millionaires-pay-less-tax-than-secretaries.htm
 author: green-party
+permalink: /archive/2010/04/20/millionaires-pay-less-tax-than-secretaries/index.html
+layout: layout.njk
 ---
 Millionaires pay less tax than secretaries
 ==========================================

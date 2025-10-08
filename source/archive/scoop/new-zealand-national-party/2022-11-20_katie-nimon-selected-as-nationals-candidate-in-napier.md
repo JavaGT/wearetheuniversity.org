@@ -1,9 +1,13 @@
 ---
 slug: katie-nimon-selected-as-nationals-candidate-in-napier
-title: "Katie Nimon Selected As National’s Candidate In Napier"
-date: 2022-11-20
-source-url: https://www.scoop.co.nz/stories/PA2211/S00164/katie-nimon-selected-as-nationals-candidate-in-napier.htm
+title: Katie Nimon Selected As National’s Candidate In Napier
+date: 2022-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00164/katie-nimon-selected-as-nationals-candidate-in-napier.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/20/katie-nimon-selected-as-nationals-candidate-in-napier/index.html
+layout: layout.njk
 ---
 Katie Nimon Selected As National’s Candidate In Napier
 ======================================================

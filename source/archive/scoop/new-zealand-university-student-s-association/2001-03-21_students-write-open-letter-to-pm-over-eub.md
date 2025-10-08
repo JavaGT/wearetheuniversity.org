@@ -1,9 +1,12 @@
 ---
 slug: students-write-open-letter-to-pm-over-eub
-title: "Students write open letter to PM over EUB"
-date: 2001-03-21
-source-url: https://www.scoop.co.nz/stories/ED0103/S00037/students-write-open-letter-to-pm-over-eub.htm
+title: Students write open letter to PM over EUB
+date: 2001-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00037/students-write-open-letter-to-pm-over-eub.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/21/students-write-open-letter-to-pm-over-eub/index.html
+layout: layout.njk
 ---
 Students write open letter to PM over EUB
 =========================================

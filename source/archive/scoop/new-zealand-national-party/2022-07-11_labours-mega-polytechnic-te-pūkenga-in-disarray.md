@@ -1,9 +1,12 @@
 ---
 slug: labours-mega-polytechnic-te-pūkenga-in-disarray
-title: "Labour’s Mega Polytechnic Te Pūkenga In Disarray"
-date: 2022-07-11
-source-url: https://www.scoop.co.nz/stories/PA2207/S00074/labours-mega-polytechnic-te-pukenga-in-disarray.htm
+title: Labour’s Mega Polytechnic Te Pūkenga In Disarray
+date: 2022-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00074/labours-mega-polytechnic-te-pukenga-in-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/11/labours-mega-polytechnic-te-p/index.html
+layout: layout.njk
 ---
 Labour’s Mega Polytechnic Te Pūkenga In Disarray
 ================================================

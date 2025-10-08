@@ -1,9 +1,13 @@
 ---
 slug: canterbury-law-students-to-help-prepare-prosecution-cases
-title: "Canterbury law students to help prepare prosecution cases"
-date: 2014-06-04
-source-url: https://www.scoop.co.nz/stories/ED1406/S00016/canterbury-law-students-to-help-prepare-prosecution-cases.htm
+title: Canterbury law students to help prepare prosecution cases
+date: 2014-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00016/canterbury-law-students-to-help-prepare-prosecution-cases.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/04/canterbury-law-students-to-help-prepare-prosecution-cases/index.html
+layout: layout.njk
 ---
 Canterbury law students to help prepare prosecution cases
 =========================================================

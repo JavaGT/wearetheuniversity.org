@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-dump-negative-policies-must-stay
-title: "Commitment to Dump Negative Policies Must Stay"
-date: 2008-02-13
-source-url: https://www.scoop.co.nz/stories/ED0802/S00024/commitment-to-dump-negative-policies-must-stay.htm
+title: Commitment to Dump Negative Policies Must Stay
+date: 2008-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00024/commitment-to-dump-negative-policies-must-stay.htm
 author: nzei
+permalink: /archive/2008/02/13/commitment-to-dump-negative-policies-must-stay/index.html
+layout: layout.njk
 ---
 Commitment to Dump Negative Policies Must Stay
 ==============================================

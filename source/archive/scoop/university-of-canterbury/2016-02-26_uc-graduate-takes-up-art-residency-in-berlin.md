@@ -1,9 +1,12 @@
 ---
 slug: uc-graduate-takes-up-art-residency-in-berlin
-title: "UC graduate takes up art residency in Berlin"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/ED1602/S00082/uc-graduate-takes-up-art-residency-in-berlin.htm
+title: UC graduate takes up art residency in Berlin
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00082/uc-graduate-takes-up-art-residency-in-berlin.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/26/uc-graduate-takes-up-art-residency-in-berlin/index.html
+layout: layout.njk
 ---
 UC graduate takes up art residency in Berlin
 ============================================

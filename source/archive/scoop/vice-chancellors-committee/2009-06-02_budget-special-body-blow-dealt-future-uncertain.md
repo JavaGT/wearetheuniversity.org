@@ -1,9 +1,12 @@
 ---
 slug: budget-special-body-blow-dealt-future-uncertain
-title: "Budget Special:  Body blow dealt, future uncertain"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/ED0906/S00008/budget-special-body-blow-dealt-future-uncertain.htm
+title: 'Budget Special:  Body blow dealt, future uncertain'
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00008/budget-special-body-blow-dealt-future-uncertain.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/06/02/budget-special-body-blow-dealt-future-uncertain/index.html
+layout: layout.njk
 ---
 Budget Special: Body blow dealt, future uncertain
 =================================================

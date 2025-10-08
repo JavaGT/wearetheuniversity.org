@@ -1,9 +1,13 @@
 ---
 slug: lack-of-support-for-science-teaching-decline-in-confidence
-title: "Lack of support for science teaching - decline in confidence"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/ED1311/S00187/lack-of-support-for-science-teaching-decline-in-confidence.htm
+title: Lack of support for science teaching - decline in confidence
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00187/lack-of-support-for-science-teaching-decline-in-confidence.htm
 author: nzei
+permalink: >-
+  /archive/2013/11/27/lack-of-support-for-science-teaching-decline-in-confidence/index.html
+layout: layout.njk
 ---
 Lack of support for science teaching - decline in confidence
 ============================================================

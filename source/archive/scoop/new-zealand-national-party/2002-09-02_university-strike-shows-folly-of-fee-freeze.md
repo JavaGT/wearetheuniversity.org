@@ -1,9 +1,12 @@
 ---
 slug: university-strike-shows-folly-of-fee-freeze
-title: "University Strike Shows Folly Of Fee Freeze"
-date: 2002-09-02
-source-url: https://www.scoop.co.nz/stories/PA0209/S00011/university-strike-shows-folly-of-fee-freeze.htm
+title: University Strike Shows Folly Of Fee Freeze
+date: 2002-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00011/university-strike-shows-folly-of-fee-freeze.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/02/university-strike-shows-folly-of-fee-freeze/index.html
+layout: layout.njk
 ---
 University Strike Shows Folly Of Fee Freeze
 ===========================================

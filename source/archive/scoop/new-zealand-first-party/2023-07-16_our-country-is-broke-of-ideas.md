@@ -1,9 +1,12 @@
 ---
 slug: our-country-is-broke-of-ideas
-title: "\"Our Country Is Broke - Of Ideas\""
-date: 2023-07-16
-source-url: https://www.scoop.co.nz/stories/PO2307/S00094/our-country-is-broke-of-ideas.htm
+title: '"Our Country Is Broke - Of Ideas"'
+date: 2023-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00094/our-country-is-broke-of-ideas.htm
 author: new-zealand-first-party
+permalink: /archive/2023/07/16/our-country-is-broke-of-ideas/index.html
+layout: layout.njk
 ---
 “Our Country Is Broke - Of Ideas”
 =================================

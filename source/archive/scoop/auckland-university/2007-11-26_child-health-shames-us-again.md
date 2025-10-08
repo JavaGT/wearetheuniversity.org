@@ -1,9 +1,11 @@
 ---
 slug: child-health-shames-us-again
-title: "Child health shames us again"
-date: 2007-11-26
+title: Child health shames us again
+date: 2007-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0711/S00125/child-health-shames-us-again.htm
 author: auckland-university
+permalink: /archive/2007/11/26/child-health-shames-us-again/index.html
+layout: layout.njk
 ---
 Child health shames us again
 ============================

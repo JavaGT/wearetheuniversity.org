@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-invent-storminator-weapon
-title: "UC researchers invent Storminator™ weapon"
-date: 2018-05-21
-source-url: https://www.scoop.co.nz/stories/ED1805/S00048/uc-researchers-invent-storminator-weapon.htm
+title: UC researchers invent Storminator™ weapon
+date: 2018-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00048/uc-researchers-invent-storminator-weapon.htm
 author: university-of-canterbury
+permalink: /archive/2018/05/21/uc-researchers-invent-storminator-weapon/index.html
+layout: layout.njk
 ---
 UC researchers invent Storminator™ weapon
 =========================================

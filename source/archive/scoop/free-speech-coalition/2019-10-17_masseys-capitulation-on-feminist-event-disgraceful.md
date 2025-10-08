@@ -1,9 +1,13 @@
 ---
 slug: masseys-capitulation-on-feminist-event-disgraceful
 title: \"Massey’s capitulation on feminist event disgraceful\""
-date: 2019-10-17
-source-url: https://www.scoop.co.nz/stories/PO1910/S00179/masseys-capitulation-on-feminist-event-disgraceful.htm
+date: 2019-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00179/masseys-capitulation-on-feminist-event-disgraceful.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2019/10/17/masseys-capitulation-on-feminist-event-disgraceful/index.html
+layout: layout.njk
 ---
 Massey’s capitulation on feminist event disgraceful"
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: pacific-skills-partnership-commits-to-skills-development
-title: "Pacific Skills Partnership commits to skills development"
-date: 2018-09-05
-source-url: https://www.scoop.co.nz/stories/WO1809/S00029/pacific-skills-partnership-commits-to-skills-development.htm
+title: Pacific Skills Partnership commits to skills development
+date: 2018-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1809/S00029/pacific-skills-partnership-commits-to-skills-development.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2018/09/05/pacific-skills-partnership-commits-to-skills-development/index.html
+layout: layout.njk
 ---
 Pacific Skills Partnership commits to skills development
 ========================================================

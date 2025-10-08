@@ -1,8 +1,11 @@
 ---
 slug: public-want-sugary-drinks-tax
-title: "Public want sugary drinks tax"
-date: 2015-09-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/public-want-sugary-drinks-tax.html
+title: Public want sugary drinks tax
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/public-want-sugary-drinks-tax.html
+permalink: /archive/2015/09/25/public-want-sugary-drinks-tax/index.html
+layout: layout.njk
 ---
 Public want sugary drinks tax
 =============================

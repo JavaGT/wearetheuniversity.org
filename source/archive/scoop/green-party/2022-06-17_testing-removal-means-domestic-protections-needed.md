@@ -1,9 +1,13 @@
 ---
 slug: testing-removal-means-domestic-protections-needed
-title: "Testing Removal Means Domestic Protections Needed"
-date: 2022-06-17
-source-url: https://www.scoop.co.nz/stories/PO2206/S00148/testing-removal-means-domestic-protections-needed.htm
+title: Testing Removal Means Domestic Protections Needed
+date: 2022-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2206/S00148/testing-removal-means-domestic-protections-needed.htm
 author: green-party
+permalink: >-
+  /archive/2022/06/17/testing-removal-means-domestic-protections-needed/index.html
+layout: layout.njk
 ---
 Testing Removal Means Domestic Protections Needed
 =================================================

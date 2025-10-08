@@ -1,9 +1,13 @@
 ---
 slug: tourism-surviving-natural-disasters-preparedness
-title: "Tourism surviving natural disasters: Preparedness"
-date: 2014-11-23
-source-url: https://www.scoop.co.nz/stories/AK1411/S00541/tourism-surviving-natural-disasters-preparedness.htm
+title: 'Tourism surviving natural disasters: Preparedness'
+date: 2014-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00541/tourism-surviving-natural-disasters-preparedness.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/23/tourism-surviving-natural-disasters-preparedness/index.html
+layout: layout.njk
 ---
 Tourism surviving natural disasters: Preparedness
 =================================================

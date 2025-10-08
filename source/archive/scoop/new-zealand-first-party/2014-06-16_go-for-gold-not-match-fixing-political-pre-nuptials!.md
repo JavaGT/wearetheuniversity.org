@@ -1,9 +1,13 @@
 ---
 slug: go-for-gold-not-match-fixing-political-pre-nuptials!
-title: "Go for Gold – Not Match Fixing Political Pre Nuptials!"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/PA1406/S00202/go-for-gold-not-match-fixing-political-pre-nuptials.htm
+title: Go for Gold – Not Match Fixing Political Pre Nuptials!
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00202/go-for-gold-not-match-fixing-political-pre-nuptials.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/06/16/go-for-gold-not-match-fixing-political-pre-nuptials/index.html
+layout: layout.njk
 ---
 Go for Gold – Not Match Fixing Political Pre Nuptials!
 ======================================================

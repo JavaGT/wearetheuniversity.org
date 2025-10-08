@@ -1,9 +1,13 @@
 ---
 slug: the-rehearsal-takes-centre-stage-with-adam-prize
-title: "The Rehearsal takes centre stage with Adam Prize"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/CU0712/S00160/the-rehearsal-takes-centre-stage-with-adam-prize.htm
+title: The Rehearsal takes centre stage with Adam Prize
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0712/S00160/the-rehearsal-takes-centre-stage-with-adam-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/12/13/the-rehearsal-takes-centre-stage-with-adam-prize/index.html
+layout: layout.njk
 ---
 The Rehearsal takes centre stage with Adam Prize
 ================================================

@@ -1,9 +1,15 @@
 ---
 slug: more-homes-faster-why-canterbury-is-outperforming-many-regions-in-new-zealand
-title: "More Homes, Faster: Why Canterbury Is Outperforming Many Regions In New Zealand"
-date: 2024-03-07
-source-url: https://www.scoop.co.nz/stories/PO2403/S00042/more-homes-faster-why-canterbury-is-outperforming-many-regions-in-new-zealand.htm
+title: >-
+  More Homes, Faster: Why Canterbury Is Outperforming Many Regions In New
+  Zealand
+date: 2024-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00042/more-homes-faster-why-canterbury-is-outperforming-many-regions-in-new-zealand.htm
 author: nzier
+permalink: >-
+  /archive/2024/03/07/more-homes-faster-why-canterbury-is-outperforming-many-regions-in-new-zealand/index.html
+layout: layout.njk
 ---
 More Homes, Faster: Why Canterbury Is Outperforming Many Regions In New Zealand
 ===============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: dean-chinese-tourism-opportunities-for-central-otago
-title: "Dean – Chinese tourism opportunities for Central Otago"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/PA1506/S00374/dean-chinese-tourism-opportunities-for-central-otago.htm
+title: Dean – Chinese tourism opportunities for Central Otago
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00374/dean-chinese-tourism-opportunities-for-central-otago.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/22/dean-chinese-tourism-opportunities-for-central-otago/index.html
+layout: layout.njk
 ---
 Dean – Chinese tourism opportunities for Central Otago
 ======================================================

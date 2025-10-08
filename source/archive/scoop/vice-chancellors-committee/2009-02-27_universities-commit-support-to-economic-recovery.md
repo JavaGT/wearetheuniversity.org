@@ -1,9 +1,13 @@
 ---
 slug: universities-commit-support-to-economic-recovery
-title: "Universities Commit Support To Economic Recovery"
-date: 2009-02-27
-source-url: https://www.scoop.co.nz/stories/PO0902/S00323/universities-commit-support-to-economic-recovery.htm
+title: Universities Commit Support To Economic Recovery
+date: 2009-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00323/universities-commit-support-to-economic-recovery.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/02/27/universities-commit-support-to-economic-recovery/index.html
+layout: layout.njk
 ---
 Universities Commit Support To Economic Recovery
 ================================================

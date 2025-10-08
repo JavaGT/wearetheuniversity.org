@@ -1,9 +1,13 @@
 ---
 slug: helping-teachers-and-children-engage-with-science
-title: "Helping teachers and children engage with science"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/ED1410/S00088/helping-teachers-and-children-engage-with-science.htm
+title: Helping teachers and children engage with science
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00088/helping-teachers-and-children-engage-with-science.htm
 author: nzei
+permalink: >-
+  /archive/2014/10/15/helping-teachers-and-children-engage-with-science/index.html
+layout: layout.njk
 ---
 Helping teachers and children engage with science
 =================================================

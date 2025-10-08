@@ -1,9 +1,12 @@
 ---
 slug: fellow-poets-new-work-on-show-at-uc
-title: "Fellow poets’ new work on show at UC"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/CU1908/S00154/fellow-poets-new-work-on-show-at-uc.htm
+title: Fellow poets’ new work on show at UC
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1908/S00154/fellow-poets-new-work-on-show-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2019/08/15/fellow-poets-new-work-on-show-at-uc/index.html
+layout: layout.njk
 ---
 Fellow poets’ new work on show at UC
 ====================================

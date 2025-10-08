@@ -1,9 +1,12 @@
 ---
 slug: maori-party-roadshow-in-te-wai-pounamu
-title: "Maori Party Roadshow in Te Wai Pounamu"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PO0808/S00314/maori-party-roadshow-in-te-wai-pounamu.htm
+title: Maori Party Roadshow in Te Wai Pounamu
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00314/maori-party-roadshow-in-te-wai-pounamu.htm
 author: te-pati-maori
+permalink: /archive/2008/08/26/maori-party-roadshow-in-te-wai-pounamu/index.html
+layout: layout.njk
 ---
 Maori Party Roadshow in Te Wai Pounamu
 ======================================

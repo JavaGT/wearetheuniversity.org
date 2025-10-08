@@ -1,9 +1,12 @@
 ---
 slug: massey-robot-predicts-wallabies-win
-title: "Massey robot predicts Wallabies win"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/CU1110/S00220/massey-robot-predicts-wallabies-win.htm
+title: Massey robot predicts Wallabies win
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00220/massey-robot-predicts-wallabies-win.htm
 author: massey-university
+permalink: /archive/2011/10/14/massey-robot-predicts-wallabies-win/index.html
+layout: layout.njk
 ---
 Massey robot predicts Wallabies win
 ===================================

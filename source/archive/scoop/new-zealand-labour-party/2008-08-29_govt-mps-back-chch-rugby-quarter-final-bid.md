@@ -1,9 +1,12 @@
 ---
 slug: govt-mps-back-chch-rugby-quarter-final-bid
-title: "Govt MPs back Chch rugby quarter final bid"
-date: 2008-08-29
-source-url: https://www.scoop.co.nz/stories/PA0808/S00483/govt-mps-back-chch-rugby-quarter-final-bid.htm
+title: Govt MPs back Chch rugby quarter final bid
+date: 2008-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00483/govt-mps-back-chch-rugby-quarter-final-bid.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/08/29/govt-mps-back-chch-rugby-quarter-final-bid/index.html
+layout: layout.njk
 ---
 Govt MPs back Chch rugby quarter final bid
 ==========================================

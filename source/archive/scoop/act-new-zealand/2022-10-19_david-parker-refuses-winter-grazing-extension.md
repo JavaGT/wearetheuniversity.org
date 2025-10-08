@@ -1,9 +1,12 @@
 ---
 slug: david-parker-refuses-winter-grazing-extension
-title: "David Parker Refuses Winter Grazing Extension"
-date: 2022-10-19
-source-url: https://www.scoop.co.nz/stories/PA2210/S00137/david-parker-refuses-winter-grazing-extension.htm
+title: David Parker Refuses Winter Grazing Extension
+date: 2022-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00137/david-parker-refuses-winter-grazing-extension.htm
 author: act-new-zealand
+permalink: /archive/2022/10/19/david-parker-refuses-winter-grazing-extension/index.html
+layout: layout.njk
 ---
 David Parker Refuses Winter Grazing Extension
 =============================================

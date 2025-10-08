@@ -1,9 +1,13 @@
 ---
 slug: peter-hughes-appointed-as-chair-of-advisory-board
-title: "Peter Hughes appointed as chair of advisory board"
-date: 2008-05-07
-source-url: https://www.scoop.co.nz/stories/ED0805/S00021/peter-hughes-appointed-as-chair-of-advisory-board.htm
+title: Peter Hughes appointed as chair of advisory board
+date: 2008-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00021/peter-hughes-appointed-as-chair-of-advisory-board.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/05/07/peter-hughes-appointed-as-chair-of-advisory-board/index.html
+layout: layout.njk
 ---
 Peter Hughes appointed as chair of advisory board
 =================================================

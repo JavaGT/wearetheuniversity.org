@@ -1,9 +1,12 @@
 ---
 slug: campus-tour-ends-concerns-grow
-title: "Campus Tour Ends, Concerns Grow"
-date: 2002-03-12
-source-url: https://www.scoop.co.nz/stories/PA0203/S00185/campus-tour-ends-concerns-grow.htm
+title: Campus Tour Ends, Concerns Grow
+date: 2002-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00185/campus-tour-ends-concerns-grow.htm
 author: green-party
+permalink: /archive/2002/03/12/campus-tour-ends-concerns-grow/index.html
+layout: layout.njk
 ---
 Campus Tour Ends, Concerns Grow
 ===============================

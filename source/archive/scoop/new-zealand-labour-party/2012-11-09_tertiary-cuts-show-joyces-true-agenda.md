@@ -1,9 +1,12 @@
 ---
 slug: tertiary-cuts-show-joyces-true-agenda
-title: "Tertiary Cuts Show Joyce’s True Agenda"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/PA1211/S00159/tertiary-cuts-show-joyces-true-agenda.htm
+title: Tertiary Cuts Show Joyce’s True Agenda
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00159/tertiary-cuts-show-joyces-true-agenda.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/09/tertiary-cuts-show-joyces-true-agenda/index.html
+layout: layout.njk
 ---
 Tertiary Cuts Show Joyce’s True Agenda
 ======================================

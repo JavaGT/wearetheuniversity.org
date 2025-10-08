@@ -1,9 +1,12 @@
 ---
 slug: health-minister-abandons-patients
-title: "Health Minister abandons patients"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/PA0305/S00325/health-minister-abandons-patients.htm
+title: Health Minister abandons patients
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00325/health-minister-abandons-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/14/health-minister-abandons-patients/index.html
+layout: layout.njk
 ---
 Health Minister abandons patients
 =================================

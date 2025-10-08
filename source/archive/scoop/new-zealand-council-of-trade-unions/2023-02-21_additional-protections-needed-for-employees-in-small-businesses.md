@@ -1,9 +1,13 @@
 ---
 slug: additional-protections-needed-for-employees-in-small-businesses
-title: "Additional Protections Needed For Employees In Small Businesses"
-date: 2023-02-21
-source-url: https://www.scoop.co.nz/stories/BU2302/S00275/additional-protections-needed-for-employees-in-small-businesses.htm
+title: Additional Protections Needed For Employees In Small Businesses
+date: 2023-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2302/S00275/additional-protections-needed-for-employees-in-small-businesses.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/02/21/additional-protections-needed-for-employees-in-small-businesses/index.html
+layout: layout.njk
 ---
 Additional Protections Needed For Employees In Small Businesses
 ===============================================================

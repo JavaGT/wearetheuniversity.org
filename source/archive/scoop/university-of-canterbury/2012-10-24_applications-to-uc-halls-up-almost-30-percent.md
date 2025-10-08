@@ -1,9 +1,12 @@
 ---
 slug: applications-to-uc-halls-up-almost-30-percent
-title: "Applications to UC halls up almost 30 percent"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/ED1210/S00132/applications-to-uc-halls-up-almost-30-percent.htm
+title: Applications to UC halls up almost 30 percent
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00132/applications-to-uc-halls-up-almost-30-percent.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/24/applications-to-uc-halls-up-almost-30-percent/index.html
+layout: layout.njk
 ---
 Applications to UC halls up almost 30 percent
 =============================================

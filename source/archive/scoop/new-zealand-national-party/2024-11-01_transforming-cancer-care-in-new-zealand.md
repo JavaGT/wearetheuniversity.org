@@ -1,9 +1,12 @@
 ---
 slug: transforming-cancer-care-in-new-zealand
-title: "Transforming Cancer Care In New Zealand"
-date: 2024-11-01
-source-url: https://www.scoop.co.nz/stories/PA2411/S00003/transforming-cancer-care-in-new-zealand.htm
+title: Transforming Cancer Care In New Zealand
+date: 2024-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00003/transforming-cancer-care-in-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2024/11/01/transforming-cancer-care-in-new-zealand/index.html
+layout: layout.njk
 ---
 Transforming Cancer Care In New Zealand
 =======================================

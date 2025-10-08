@@ -1,9 +1,12 @@
 ---
 slug: young-people-asked-what-it-means-to-be-human
-title: "Young People Asked What It Means To Be Human"
-date: 2001-09-20
-source-url: https://www.scoop.co.nz/stories/PA0109/S00326/young-people-asked-what-it-means-to-be-human.htm
+title: Young People Asked What It Means To Be Human
+date: 2001-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00326/young-people-asked-what-it-means-to-be-human.htm
 author: green-party
+permalink: /archive/2001/09/20/young-people-asked-what-it-means-to-be-human/index.html
+layout: layout.njk
 ---
 Young People Asked What It Means To Be Human
 ============================================

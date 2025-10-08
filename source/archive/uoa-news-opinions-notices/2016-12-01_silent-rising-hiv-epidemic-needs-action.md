@@ -1,8 +1,11 @@
 ---
 slug: silent-rising-hiv-epidemic-needs-action
-title: "Silent rising HIV epidemic needs action"
-date: 2016-12-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/silent-rising-hiv-epidemic-needs-action.html
+title: Silent rising HIV epidemic needs action
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/silent-rising-hiv-epidemic-needs-action.html
+permalink: /archive/2016/12/01/silent-rising-hiv-epidemic-needs-action/index.html
+layout: layout.njk
 ---
 Silent rising HIV epidemic needs action
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: pbrf-contains-hidden-race-based-funding
-title: "PBRF Contains Hidden Race-based Funding"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/PA0404/S00359/pbrf-contains-hidden-race-based-funding.htm
+title: PBRF Contains Hidden Race-based Funding
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00359/pbrf-contains-hidden-race-based-funding.htm
 author: act-new-zealand
+permalink: /archive/2004/04/23/pbrf-contains-hidden-race-based-funding/index.html
+layout: layout.njk
 ---
 PBRF Contains Hidden Race-based Funding
 =======================================

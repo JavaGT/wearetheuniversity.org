@@ -1,9 +1,12 @@
 ---
 slug: more-taxes-on-way-under-labour-greens
-title: "More Taxes On Way Under Labour-Greens"
-date: 2005-06-06
-source-url: https://www.scoop.co.nz/stories/PA0506/S00103/more-taxes-on-way-under-labour-greens.htm
+title: More Taxes On Way Under Labour-Greens
+date: 2005-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00103/more-taxes-on-way-under-labour-greens.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/06/more-taxes-on-way-under-labour-greens/index.html
+layout: layout.njk
 ---
 More Taxes On Way Under Labour-Greens
 =====================================

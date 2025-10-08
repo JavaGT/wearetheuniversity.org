@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-press-salutes-its-five-finalists
-title: "Auckland Uni Press Salutes Its Five Finalists"
-date: 2008-06-10
-source-url: https://www.scoop.co.nz/stories/ED0806/S00024/auckland-uni-press-salutes-its-five-finalists.htm
+title: Auckland Uni Press Salutes Its Five Finalists
+date: 2008-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00024/auckland-uni-press-salutes-its-five-finalists.htm
 author: auckland-university-press
+permalink: /archive/2008/06/10/auckland-uni-press-salutes-its-five-finalists/index.html
+layout: layout.njk
 ---
 Auckland Uni Press Salutes Its Five Finalists
 =============================================

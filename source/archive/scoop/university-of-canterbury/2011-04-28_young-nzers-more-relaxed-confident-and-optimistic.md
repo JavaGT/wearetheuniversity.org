@@ -1,9 +1,13 @@
 ---
 slug: young-nzers-more-relaxed-confident-and-optimistic
-title: "Young NZers more relaxed, confident and optimistic"
-date: 2011-04-28
-source-url: https://www.scoop.co.nz/stories/CU1104/S00455/young-nzers-more-relaxed-confident-and-optimistic.htm
+title: Young NZers more relaxed, confident and optimistic
+date: 2011-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00455/young-nzers-more-relaxed-confident-and-optimistic.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/04/28/young-nzers-more-relaxed-confident-and-optimistic/index.html
+layout: layout.njk
 ---
 Young NZers more relaxed, confident and optimistic
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: adult-who-supplied-9y-o-with-alcohol-must-be-held-to-account
-title: "Adult who supplied 9y/o with alcohol must be held to account"
-date: 2014-01-09
-source-url: https://www.scoop.co.nz/stories/PA1401/S00019/adult-who-supplied-9yo-with-alcohol-must-be-held-to-account.htm
+title: Adult who supplied 9y/o with alcohol must be held to account
+date: 2014-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00019/adult-who-supplied-9yo-with-alcohol-must-be-held-to-account.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/09/adult-who-supplied-9y-o-with-alcohol-must-be-held-to-account/index.html
+layout: layout.njk
 ---
 Adult who supplied 9y/o with alcohol must be held to account
 ============================================================

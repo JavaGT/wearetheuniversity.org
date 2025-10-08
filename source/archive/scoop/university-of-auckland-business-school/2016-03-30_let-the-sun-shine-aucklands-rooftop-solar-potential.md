@@ -1,9 +1,13 @@
 ---
 slug: let-the-sun-shine-aucklands-rooftop-solar-potential
-title: "Let the sun shine: Auckland’s rooftop solar potential"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/PO1603/S00425/let-the-sun-shine-aucklands-rooftop-solar-potential.htm
+title: 'Let the sun shine: Auckland’s rooftop solar potential'
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00425/let-the-sun-shine-aucklands-rooftop-solar-potential.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2016/03/30/let-the-sun-shine-aucklands-rooftop-solar-potential/index.html
+layout: layout.njk
 ---
 Let the sun shine: Auckland’s rooftop solar potential
 =====================================================

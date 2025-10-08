@@ -1,9 +1,12 @@
 ---
 slug: nz-role-in-wwii-death-camp-liberation-revealed
-title: "NZ role in WWII death camp liberation revealed"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/ED1511/S00048/nz-role-in-wwii-death-camp-liberation-revealed.htm
+title: NZ role in WWII death camp liberation revealed
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00048/nz-role-in-wwii-death-camp-liberation-revealed.htm
 author: massey-university
+permalink: /archive/2015/11/09/nz-role-in-wwii-death-camp-liberation-revealed/index.html
+layout: layout.njk
 ---
 NZ role in WWII death camp liberation revealed
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-only-sausage-rolls-in-aussie-takeover
-title: "Students only sausage rolls in Aussie takeover"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/ED1509/S00027/students-only-sausage-rolls-in-aussie-takeover.htm
+title: Students only sausage rolls in Aussie takeover
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00027/students-only-sausage-rolls-in-aussie-takeover.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/09/04/students-only-sausage-rolls-in-aussie-takeover/index.html
+layout: layout.njk
 ---
 Students only sausage rolls in Aussie takeover
 ==============================================

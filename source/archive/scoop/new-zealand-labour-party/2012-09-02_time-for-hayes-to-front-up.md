@@ -1,9 +1,11 @@
 ---
 slug: time-for-hayes-to-front-up
-title: "Time for Hayes to front up"
-date: 2012-09-02
+title: Time for Hayes to front up
+date: 2012-09-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1209/S00013/time-for-hayes-to-front-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/02/time-for-hayes-to-front-up/index.html
+layout: layout.njk
 ---
 Time for Hayes to front up
 ==========================

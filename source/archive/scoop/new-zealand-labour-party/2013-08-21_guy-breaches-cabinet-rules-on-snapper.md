@@ -1,9 +1,12 @@
 ---
 slug: guy-breaches-cabinet-rules-on-snapper
-title: "Guy Breaches Cabinet Rules on Snapper"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/PA1308/S00346/guy-breaches-cabinet-rules-on-snapper.htm
+title: Guy Breaches Cabinet Rules on Snapper
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00346/guy-breaches-cabinet-rules-on-snapper.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/21/guy-breaches-cabinet-rules-on-snapper/index.html
+layout: layout.njk
 ---
 Guy Breaches Cabinet Rules on Snapper
 =====================================

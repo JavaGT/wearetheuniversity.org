@@ -1,9 +1,13 @@
 ---
 slug: students-enthusiastic-supporters-of-keep-our-assets-campaign
-title: "Students Enthusiastic Supporters of Keep Our Assets Campaign"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PO1205/S00174/students-enthusiastic-supporters-of-keep-our-assets-campaign.htm
+title: Students Enthusiastic Supporters of Keep Our Assets Campaign
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00174/students-enthusiastic-supporters-of-keep-our-assets-campaign.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/05/10/students-enthusiastic-supporters-of-keep-our-assets-campaign/index.html
+layout: layout.njk
 ---
 Students Enthusiastic Supporters of Keep Our Assets Campaign
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: truancy-labours-lost-children
-title: "Truancy: Labour's Lost Children"
-date: 2004-04-02
-source-url: https://www.scoop.co.nz/stories/PA0404/S00046/truancy-labours-lost-children.htm
+title: 'Truancy: Labour''s Lost Children'
+date: 2004-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00046/truancy-labours-lost-children.htm
 author: act-new-zealand
+permalink: /archive/2004/04/02/truancy-labours-lost-children/index.html
+layout: layout.njk
 ---
 Truancy: Labour's Lost Children
 ===============================

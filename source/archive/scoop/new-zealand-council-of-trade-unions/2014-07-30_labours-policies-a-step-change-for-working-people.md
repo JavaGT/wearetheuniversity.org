@@ -1,9 +1,13 @@
 ---
 slug: labours-policies-a-step-change-for-working-people
-title: "Labour’s policies a step change for working people"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PO1407/S00486/labours-policies-a-step-change-for-working-people.htm
+title: Labour’s policies a step change for working people
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00486/labours-policies-a-step-change-for-working-people.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/07/30/labours-policies-a-step-change-for-working-people/index.html
+layout: layout.njk
 ---
 Labour’s policies a step change for working people
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: 78%-increase-in-miq-cost-for-a-single-student-whats-next
-title: "78% Increase In MIQ Cost For A Single Student, What’s Next?"
-date: 2021-03-05
-source-url: https://www.scoop.co.nz/stories/ED2103/S00012/78-increase-in-miq-cost-for-a-single-student-whats-next.htm
+title: 78% Increase In MIQ Cost For A Single Student, What’s Next?
+date: 2021-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00012/78-increase-in-miq-cost-for-a-single-student-whats-next.htm
 author: new-zealand-international-students-association
+permalink: /archive/2021/03/05/78/index.html
+layout: layout.njk
 ---
 78% Increase In MIQ Cost For A Single Student, What’s Next?
 ===========================================================

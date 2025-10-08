@@ -1,9 +1,12 @@
 ---
 slug: inaugural-nz-internet-research-conference
-title: "Inaugural NZ internet research conference"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/BU0911/S00551/inaugural-nz-internet-research-conference.htm
+title: Inaugural NZ internet research conference
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00551/inaugural-nz-internet-research-conference.htm
 author: university-of-otago
+permalink: /archive/2009/11/18/inaugural-nz-internet-research-conference/index.html
+layout: layout.njk
 ---
 Inaugural NZ internet research conference
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: success-the-only-option-for-nz-students
-title: "Success The Only Option For NZ Students"
-date: 2010-02-16
-source-url: https://www.scoop.co.nz/stories/ED1002/S00057/success-the-only-option-for-nz-students.htm
+title: Success The Only Option For NZ Students
+date: 2010-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00057/success-the-only-option-for-nz-students.htm
 author: act-new-zealand
+permalink: /archive/2010/02/16/success-the-only-option-for-nz-students/index.html
+layout: layout.njk
 ---
 Success The Only Option For NZ Students
 =======================================

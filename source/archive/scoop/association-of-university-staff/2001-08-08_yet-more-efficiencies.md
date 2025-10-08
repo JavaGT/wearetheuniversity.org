@@ -1,9 +1,11 @@
 ---
 slug: yet-more-efficiencies
-title: "YET MORE EFFICIENCIES?"
-date: 2001-08-08
+title: YET MORE EFFICIENCIES?
+date: 2001-08-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00033/yet-more-efficiencies.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/08/yet-more-efficiencies/index.html
+layout: layout.njk
 ---
 YET MORE EFFICIENCIES?
 ======================

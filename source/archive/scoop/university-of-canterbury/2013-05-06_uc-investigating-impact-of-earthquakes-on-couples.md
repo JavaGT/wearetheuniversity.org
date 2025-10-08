@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-impact-of-earthquakes-on-couples
-title: "UC Investigating Impact of Earthquakes on Couples"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/SC1305/S00024/uc-investigating-impact-of-earthquakes-on-couples.htm
+title: UC Investigating Impact of Earthquakes on Couples
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00024/uc-investigating-impact-of-earthquakes-on-couples.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/06/uc-investigating-impact-of-earthquakes-on-couples/index.html
+layout: layout.njk
 ---
 UC Investigating Impact of Earthquakes on Couples
 =================================================

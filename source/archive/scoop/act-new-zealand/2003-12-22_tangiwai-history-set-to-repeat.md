@@ -1,9 +1,12 @@
 ---
 slug: tangiwai-history-set-to-repeat
-title: "Tangiwai: History Set To Repeat"
-date: 2003-12-22
-source-url: https://www.scoop.co.nz/stories/PA0312/S00511/tangiwai-history-set-to-repeat.htm
+title: 'Tangiwai: History Set To Repeat'
+date: 2003-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00511/tangiwai-history-set-to-repeat.htm
 author: act-new-zealand
+permalink: /archive/2003/12/22/tangiwai-history-set-to-repeat/index.html
+layout: layout.njk
 ---
 Tangiwai: History Set To Repeat
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: care-alliance-vs-polling-science-on-end-of-life-choice
-title: "Care Alliance vs Polling Science On End of Life Choice"
-date: 2019-03-31
-source-url: https://www.scoop.co.nz/stories/PA1903/S00171/care-alliance-vs-polling-science-on-end-of-life-choice.htm
+title: Care Alliance vs Polling Science On End of Life Choice
+date: 2019-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00171/care-alliance-vs-polling-science-on-end-of-life-choice.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/03/31/care-alliance-vs-polling-science-on-end-of-life-choice/index.html
+layout: layout.njk
 ---
 Care Alliance vs Polling Science On End of Life Choice
 ======================================================

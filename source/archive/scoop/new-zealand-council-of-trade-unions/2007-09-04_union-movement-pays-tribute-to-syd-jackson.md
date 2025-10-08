@@ -1,9 +1,12 @@
 ---
 slug: union-movement-pays-tribute-to-syd-jackson
-title: "Union Movement Pays Tribute to Syd Jackson"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/PO0709/S00036/union-movement-pays-tribute-to-syd-jackson.htm
+title: Union Movement Pays Tribute to Syd Jackson
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00036/union-movement-pays-tribute-to-syd-jackson.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/09/04/union-movement-pays-tribute-to-syd-jackson/index.html
+layout: layout.njk
 ---
 Union Movement Pays Tribute to Syd Jackson
 ==========================================

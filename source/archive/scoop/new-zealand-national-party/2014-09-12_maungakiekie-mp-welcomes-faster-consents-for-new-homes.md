@@ -1,9 +1,13 @@
 ---
 slug: maungakiekie-mp-welcomes-faster-consents-for-new-homes
-title: "Maungakiekie MP welcomes faster consents for new homes"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/AK1409/S00310/maungakiekie-mp-welcomes-faster-consents-for-new-homes.htm
+title: Maungakiekie MP welcomes faster consents for new homes
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00310/maungakiekie-mp-welcomes-faster-consents-for-new-homes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/12/maungakiekie-mp-welcomes-faster-consents-for-new-homes/index.html
+layout: layout.njk
 ---
 Maungakiekie MP welcomes faster consents for new homes
 ======================================================

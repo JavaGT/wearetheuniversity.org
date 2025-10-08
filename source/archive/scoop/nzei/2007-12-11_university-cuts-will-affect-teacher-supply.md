@@ -1,9 +1,12 @@
 ---
 slug: university-cuts-will-affect-teacher-supply
-title: "University Cuts Will Affect Teacher Supply"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/ED0712/S00043/university-cuts-will-affect-teacher-supply.htm
+title: University Cuts Will Affect Teacher Supply
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00043/university-cuts-will-affect-teacher-supply.htm
 author: nzei
+permalink: /archive/2007/12/11/university-cuts-will-affect-teacher-supply/index.html
+layout: layout.njk
 ---
 University Cuts Will Affect Teacher Supply
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: un-world-investment-report-2009
-title: "UN World Investment Report 2009"
-date: 2009-09-18
-source-url: https://www.scoop.co.nz/stories/PO0909/S00212/un-world-investment-report-2009.htm
+title: UN World Investment Report 2009
+date: 2009-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00212/un-world-investment-report-2009.htm
 author: aut-university
+permalink: /archive/2009/09/18/un-world-investment-report-2009/index.html
+layout: layout.njk
 ---
 UN World Investment Report 2009
 ===============================

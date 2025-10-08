@@ -1,9 +1,12 @@
 ---
 slug: new-warplanes-wont-feed-my-daughters
-title: "New warplanes won’t feed my daughters"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/PO1810/S00397/new-warplanes-wont-feed-my-daughters.htm
+title: New warplanes won’t feed my daughters
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00397/new-warplanes-wont-feed-my-daughters.htm
 author: peace-action-wellington
+permalink: /archive/2018/10/29/new-warplanes-wont-feed-my-daughters/index.html
+layout: layout.njk
 ---
 New warplanes won’t feed my daughters
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: computer-and-information-sciences-key-appointment
-title: "Computer and Information Sciences Key Appointment"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00090/computer-and-information-sciences-key-appointment.htm
+title: Computer and Information Sciences Key Appointment
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00090/computer-and-information-sciences-key-appointment.htm
 author: aut-university
+permalink: >-
+  /archive/2004/04/23/computer-and-information-sciences-key-appointment/index.html
+layout: layout.njk
 ---
 Computer and Information Sciences Key Appointment
 =================================================

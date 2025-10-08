@@ -1,9 +1,13 @@
 ---
 slug: tax-cuts-for-wealthy-results-in-tax-increase-on-graduates
-title: "Tax Cuts for Wealthy Results in Tax Increase on Graduates"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/PO1205/S00011/tax-cuts-for-wealthy-results-in-tax-increase-on-graduates.htm
+title: Tax Cuts for Wealthy Results in Tax Increase on Graduates
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00011/tax-cuts-for-wealthy-results-in-tax-increase-on-graduates.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/05/01/tax-cuts-for-wealthy-results-in-tax-increase-on-graduates/index.html
+layout: layout.njk
 ---
 Tax Cuts for Wealthy Results in Tax Increase on Graduates
 =========================================================

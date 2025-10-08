@@ -1,9 +1,12 @@
 ---
 slug: doubts-raised-over-charter-school-contracts
-title: "Doubts Raised Over Charter School Contracts"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/PA1306/S00053/doubts-raised-over-charter-school-contracts.htm
+title: Doubts Raised Over Charter School Contracts
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00053/doubts-raised-over-charter-school-contracts.htm
 author: new-zealand-first-party
+permalink: /archive/2013/06/05/doubts-raised-over-charter-school-contracts/index.html
+layout: layout.njk
 ---
 Doubts Raised Over Charter School Contracts
 ===========================================

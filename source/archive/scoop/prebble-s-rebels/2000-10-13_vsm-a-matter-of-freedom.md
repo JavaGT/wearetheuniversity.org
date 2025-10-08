@@ -1,9 +1,11 @@
 ---
 slug: vsm-a-matter-of-freedom
-title: "VSM A Matter Of Freedom"
-date: 2000-10-13
+title: VSM A Matter Of Freedom
+date: 2000-10-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0010/S00015/vsm-a-matter-of-freedom.htm
 author: prebble-s-rebels
+permalink: /archive/2000/10/13/vsm-a-matter-of-freedom/index.html
+layout: layout.njk
 ---
 VSM A Matter Of Freedom
 =======================

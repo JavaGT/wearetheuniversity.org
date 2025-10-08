@@ -1,9 +1,13 @@
 ---
 slug: third-of-kiwis-face-rising-weekly-transport-bills
-title: "Third Of Kiwis Face Rising Weekly Transport Bills"
-date: 2024-01-18
-source-url: https://www.scoop.co.nz/stories/PA2401/S00021/third-of-kiwis-face-rising-weekly-transport-bills.htm
+title: Third Of Kiwis Face Rising Weekly Transport Bills
+date: 2024-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00021/third-of-kiwis-face-rising-weekly-transport-bills.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/01/18/third-of-kiwis-face-rising-weekly-transport-bills/index.html
+layout: layout.njk
 ---
 Third Of Kiwis Face Rising Weekly Transport Bills
 =================================================

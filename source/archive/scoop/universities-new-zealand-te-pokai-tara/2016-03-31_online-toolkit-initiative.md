@@ -1,9 +1,11 @@
 ---
 slug: online-toolkit-initiative
-title: "Online toolkit initiative"
-date: 2016-03-31
+title: Online toolkit initiative
+date: 2016-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1603/S00099/online-toolkit-initiative.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/03/31/online-toolkit-initiative/index.html
+layout: layout.njk
 ---
 Online toolkit initiative
 =========================

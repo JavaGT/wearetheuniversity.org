@@ -1,9 +1,12 @@
 ---
 slug: minister-shrugs-over-rejection-of-fire-reforms
-title: "Minister shrugs over rejection of fire reforms"
-date: 2007-07-11
-source-url: https://www.scoop.co.nz/stories/PA0707/S00163/minister-shrugs-over-rejection-of-fire-reforms.htm
+title: Minister shrugs over rejection of fire reforms
+date: 2007-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00163/minister-shrugs-over-rejection-of-fire-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/11/minister-shrugs-over-rejection-of-fire-reforms/index.html
+layout: layout.njk
 ---
 Minister shrugs over rejection of fire reforms
 ==============================================

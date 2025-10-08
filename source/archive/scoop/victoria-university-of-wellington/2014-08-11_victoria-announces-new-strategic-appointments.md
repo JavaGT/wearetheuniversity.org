@@ -1,9 +1,12 @@
 ---
 slug: victoria-announces-new-strategic-appointments
-title: "Victoria announces new strategic appointments"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/ED1408/S00057/victoria-announces-new-strategic-appointments.htm
+title: Victoria announces new strategic appointments
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00057/victoria-announces-new-strategic-appointments.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/11/victoria-announces-new-strategic-appointments/index.html
+layout: layout.njk
 ---
 Victoria announces new strategic appointments
 =============================================

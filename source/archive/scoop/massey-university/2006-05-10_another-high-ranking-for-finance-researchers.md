@@ -1,9 +1,12 @@
 ---
 slug: another-high-ranking-for-finance-researchers
-title: "Another high ranking for Finance researchers"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/ED0605/S00038/another-high-ranking-for-finance-researchers.htm
+title: Another high ranking for Finance researchers
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00038/another-high-ranking-for-finance-researchers.htm
 author: massey-university
+permalink: /archive/2006/05/10/another-high-ranking-for-finance-researchers/index.html
+layout: layout.njk
 ---
 Another high ranking for Finance researchers
 ============================================

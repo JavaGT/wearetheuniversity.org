@@ -1,9 +1,12 @@
 ---
 slug: labour-mourns-the-loss-of-tapihana-shelford
-title: "Labour mourns the loss of Tapihana Shelford"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/PA1310/S00170/labour-mourns-the-loss-of-tapihana-shelford.htm
+title: Labour mourns the loss of Tapihana Shelford
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00170/labour-mourns-the-loss-of-tapihana-shelford.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/10/labour-mourns-the-loss-of-tapihana-shelford/index.html
+layout: layout.njk
 ---
 Labour mourns the loss of Tapihana Shelford
 ===========================================

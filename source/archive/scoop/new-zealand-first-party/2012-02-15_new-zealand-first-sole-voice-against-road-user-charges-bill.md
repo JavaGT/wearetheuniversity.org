@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-sole-voice-against-road-user-charges-bill
-title: "New Zealand First Sole Voice Against Road User Charges Bill"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00159/new-zealand-first-sole-voice-against-road-user-charges-bill.htm
+title: New Zealand First Sole Voice Against Road User Charges Bill
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00159/new-zealand-first-sole-voice-against-road-user-charges-bill.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/02/15/new-zealand-first-sole-voice-against-road-user-charges-bill/index.html
+layout: layout.njk
 ---
 New Zealand First Sole Voice Against Road User Charges Bill
 ===========================================================

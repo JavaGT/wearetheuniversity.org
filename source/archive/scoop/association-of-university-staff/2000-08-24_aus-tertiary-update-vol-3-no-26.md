@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-26
-title: "AUS Tertiary Update  Vol.3 No.26"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/ED0008/S00046/aus-tertiary-update-vol3-no26.htm
+title: AUS Tertiary Update  Vol.3 No.26
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00046/aus-tertiary-update-vol3-no26.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/24/aus-tertiary-update-vol-3-no-26/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.26
 ===============================

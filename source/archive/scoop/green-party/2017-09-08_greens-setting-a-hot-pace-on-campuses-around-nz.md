@@ -1,9 +1,12 @@
 ---
 slug: greens-setting-a-hot-pace-on-campuses-around-nz
-title: "Greens setting a hot pace on campuses around NZ"
-date: 2017-09-08
-source-url: https://www.scoop.co.nz/stories/PO1709/S00146/greens-setting-a-hot-pace-on-campuses-around-nz.htm
+title: Greens setting a hot pace on campuses around NZ
+date: 2017-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00146/greens-setting-a-hot-pace-on-campuses-around-nz.htm
 author: green-party
+permalink: /archive/2017/09/08/greens-setting-a-hot-pace-on-campuses-around-nz/index.html
+layout: layout.njk
 ---
 Greens setting a hot pace on campuses around NZ
 ===============================================

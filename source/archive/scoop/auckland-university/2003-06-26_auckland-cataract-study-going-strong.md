@@ -1,9 +1,12 @@
 ---
 slug: auckland-cataract-study-going-strong
-title: "Auckland Cataract Study Going Strong"
-date: 2003-06-26
-source-url: https://www.scoop.co.nz/stories/ED0306/S00059/auckland-cataract-study-going-strong.htm
+title: Auckland Cataract Study Going Strong
+date: 2003-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00059/auckland-cataract-study-going-strong.htm
 author: auckland-university
+permalink: /archive/2003/06/26/auckland-cataract-study-going-strong/index.html
+layout: layout.njk
 ---
 Auckland Cataract Study Going Strong
 ====================================

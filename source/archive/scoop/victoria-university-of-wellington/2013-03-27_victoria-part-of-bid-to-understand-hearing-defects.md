@@ -1,9 +1,13 @@
 ---
 slug: victoria-part-of-bid-to-understand-hearing-defects
-title: "Victoria part of bid to understand hearing defects"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/GE1303/S00103/victoria-part-of-bid-to-understand-hearing-defects.htm
+title: Victoria part of bid to understand hearing defects
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00103/victoria-part-of-bid-to-understand-hearing-defects.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/27/victoria-part-of-bid-to-understand-hearing-defects/index.html
+layout: layout.njk
 ---
 Victoria part of bid to understand hearing defects
 ==================================================

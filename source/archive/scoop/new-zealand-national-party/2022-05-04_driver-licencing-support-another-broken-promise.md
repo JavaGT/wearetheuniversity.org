@@ -1,9 +1,12 @@
 ---
 slug: driver-licencing-support-another-broken-promise
-title: "Driver Licencing Support Another Broken Promise"
-date: 2022-05-04
-source-url: https://www.scoop.co.nz/stories/PA2205/S00037/driver-licencing-support-another-broken-promise.htm
+title: Driver Licencing Support Another Broken Promise
+date: 2022-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00037/driver-licencing-support-another-broken-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/04/driver-licencing-support-another-broken-promise/index.html
+layout: layout.njk
 ---
 Driver Licencing Support Another Broken Promise
 ===============================================

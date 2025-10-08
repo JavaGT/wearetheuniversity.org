@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-orientation-2011
-title: "University Of Canterbury Orientation 2011"
-date: 2011-01-28
-source-url: https://www.scoop.co.nz/stories/CU1101/S00275/university-of-canterbury-orientation-2011.htm
+title: University Of Canterbury Orientation 2011
+date: 2011-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1101/S00275/university-of-canterbury-orientation-2011.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2011/01/28/university-of-canterbury-orientation-2011/index.html
+layout: layout.njk
 ---
 University Of Canterbury Orientation 2011
 =========================================

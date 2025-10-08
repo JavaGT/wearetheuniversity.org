@@ -1,9 +1,13 @@
 ---
 slug: medical-students-concerned-about-patient-rights-in-tpp
-title: "Medical Students Concerned About Patient Rights in TPP"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/GE1303/S00038/medical-students-concerned-about-patient-rights-in-tpp.htm
+title: Medical Students Concerned About Patient Rights in TPP
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00038/medical-students-concerned-about-patient-rights-in-tpp.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2013/03/08/medical-students-concerned-about-patient-rights-in-tpp/index.html
+layout: layout.njk
 ---
 Medical Students Concerned About Patient Rights in TPP
 ======================================================

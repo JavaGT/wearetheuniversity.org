@@ -1,9 +1,12 @@
 ---
 slug: vulnerable-youth-need-justice-reform
-title: "Vulnerable youth need justice reform"
-date: 2016-09-12
-source-url: https://www.scoop.co.nz/stories/PA1609/S00205/vulnerable-youth-need-justice-reform.htm
+title: Vulnerable youth need justice reform
+date: 2016-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00205/vulnerable-youth-need-justice-reform.htm
 author: green-party
+permalink: /archive/2016/09/12/vulnerable-youth-need-justice-reform/index.html
+layout: layout.njk
 ---
 Vulnerable youth need justice reform
 ====================================

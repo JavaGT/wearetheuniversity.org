@@ -1,9 +1,12 @@
 ---
 slug: new-research-on-the-impact-of-debt-on-doctors
-title: "New research on the impact of debt on doctors"
-date: 2005-03-29
-source-url: https://www.scoop.co.nz/stories/ED0503/S00094/new-research-on-the-impact-of-debt-on-doctors.htm
+title: New research on the impact of debt on doctors
+date: 2005-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00094/new-research-on-the-impact-of-debt-on-doctors.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/03/29/new-research-on-the-impact-of-debt-on-doctors/index.html
+layout: layout.njk
 ---
 New research on the impact of debt on doctors
 =============================================

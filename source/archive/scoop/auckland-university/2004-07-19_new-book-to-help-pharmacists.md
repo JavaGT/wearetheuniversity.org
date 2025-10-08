@@ -1,9 +1,11 @@
 ---
 slug: new-book-to-help-pharmacists
-title: "New book to help pharmacists"
-date: 2004-07-19
+title: New book to help pharmacists
+date: 2004-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00057/new-book-to-help-pharmacists.htm
 author: auckland-university
+permalink: /archive/2004/07/19/new-book-to-help-pharmacists/index.html
+layout: layout.njk
 ---
 New book to help pharmacists
 ============================

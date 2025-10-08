@@ -1,9 +1,12 @@
 ---
 slug: phenomenal-funding-for-cutting-edge-research
-title: "Phenomenal funding for cutting-edge research"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/ED0707/S00067/phenomenal-funding-for-cutting-edge-research.htm
+title: Phenomenal funding for cutting-edge research
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00067/phenomenal-funding-for-cutting-edge-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/20/phenomenal-funding-for-cutting-edge-research/index.html
+layout: layout.njk
 ---
 Phenomenal funding for cutting-edge research
 ============================================

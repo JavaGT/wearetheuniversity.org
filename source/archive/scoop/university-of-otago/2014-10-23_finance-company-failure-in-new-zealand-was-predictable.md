@@ -1,9 +1,13 @@
 ---
 slug: finance-company-failure-in-new-zealand-was-predictable
-title: "Finance company failure in New Zealand was predictable"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/BU1410/S00848/finance-company-failure-in-new-zealand-was-predictable.htm
+title: Finance company failure in New Zealand was predictable
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00848/finance-company-failure-in-new-zealand-was-predictable.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/10/23/finance-company-failure-in-new-zealand-was-predictable/index.html
+layout: layout.njk
 ---
 Finance company failure in New Zealand was predictable
 ======================================================

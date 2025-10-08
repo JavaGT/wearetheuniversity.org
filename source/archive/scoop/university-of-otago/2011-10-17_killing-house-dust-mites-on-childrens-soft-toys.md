@@ -1,9 +1,12 @@
 ---
 slug: killing-house-dust-mites-on-childrens-soft-toys
-title: "Killing house dust mites on children’s soft toys"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/SC1110/S00041/killing-house-dust-mites-on-childrens-soft-toys.htm
+title: Killing house dust mites on children’s soft toys
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00041/killing-house-dust-mites-on-childrens-soft-toys.htm
 author: university-of-otago
+permalink: /archive/2011/10/17/killing-house-dust-mites-on-childrens-soft-toys/index.html
+layout: layout.njk
 ---
 Killing house dust mites on children’s soft toys
 ================================================

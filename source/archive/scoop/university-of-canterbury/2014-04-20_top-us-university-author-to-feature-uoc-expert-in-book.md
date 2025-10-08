@@ -1,9 +1,13 @@
 ---
 slug: top-us-university-author-to-feature-uoc-expert-in-book
-title: "Top US university author to feature UoC expert in book"
-date: 2014-04-20
-source-url: https://www.scoop.co.nz/stories/SC1404/S00075/top-us-university-author-to-feature-uoc-expert-in-book.htm
+title: Top US university author to feature UoC expert in book
+date: 2014-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00075/top-us-university-author-to-feature-uoc-expert-in-book.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/20/top-us-university-author-to-feature-uoc-expert-in-book/index.html
+layout: layout.njk
 ---
 Top US university author to feature UoC expert in book
 ======================================================

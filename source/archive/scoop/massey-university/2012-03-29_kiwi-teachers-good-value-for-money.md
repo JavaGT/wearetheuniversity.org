@@ -1,9 +1,12 @@
 ---
 slug: kiwi-teachers-good-value-for-money
-title: "Kiwi Teachers 'Good Value For Money'"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00145/kiwi-teachers-good-value-for-money.htm
+title: Kiwi Teachers 'Good Value For Money'
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00145/kiwi-teachers-good-value-for-money.htm
 author: massey-university
+permalink: /archive/2012/03/29/kiwi-teachers-good-value-for-money/index.html
+layout: layout.njk
 ---
 Kiwi Teachers 'Good Value For Money'
 ====================================

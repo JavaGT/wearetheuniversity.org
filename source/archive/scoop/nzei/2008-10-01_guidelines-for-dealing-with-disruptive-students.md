@@ -1,9 +1,12 @@
 ---
 slug: guidelines-for-dealing-with-disruptive-students
-title: "Guidelines For Dealing With Disruptive Students"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/ED0810/S00001/guidelines-for-dealing-with-disruptive-students.htm
+title: Guidelines For Dealing With Disruptive Students
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00001/guidelines-for-dealing-with-disruptive-students.htm
 author: nzei
+permalink: /archive/2008/10/01/guidelines-for-dealing-with-disruptive-students/index.html
+layout: layout.njk
 ---
 Guidelines For Dealing With Disruptive Students
 ===============================================

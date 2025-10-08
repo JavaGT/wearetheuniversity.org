@@ -1,9 +1,12 @@
 ---
 slug: student-debt-killing-hopes-of-home-ownership
-title: "Student debt killing hopes of home ownership"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PA1602/S00222/student-debt-killing-hopes-of-home-ownership.htm
+title: Student debt killing hopes of home ownership
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00222/student-debt-killing-hopes-of-home-ownership.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/17/student-debt-killing-hopes-of-home-ownership/index.html
+layout: layout.njk
 ---
 Student debt killing hopes of home ownership
 ============================================

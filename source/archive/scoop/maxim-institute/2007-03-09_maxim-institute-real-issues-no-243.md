@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-243
-title: "Maxim Institute - real issues - No 243"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/PO0703/S00119/maxim-institute-real-issues-no-243.htm
+title: Maxim Institute - real issues - No 243
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00119/maxim-institute-real-issues-no-243.htm
 author: maxim-institute
+permalink: /archive/2007/03/09/maxim-institute-real-issues-no-243/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 243
 ======================================

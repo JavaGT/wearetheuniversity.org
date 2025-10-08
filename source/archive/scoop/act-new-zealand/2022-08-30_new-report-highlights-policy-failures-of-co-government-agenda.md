@@ -1,9 +1,13 @@
 ---
 slug: new-report-highlights-policy-failures-of-co-government-agenda
-title: "New Report Highlights Policy Failures Of Co-Government Agenda"
-date: 2022-08-30
-source-url: https://www.scoop.co.nz/stories/PA2208/S00241/new-report-highlights-policy-failures-of-co-government-agenda.htm
+title: New Report Highlights Policy Failures Of Co-Government Agenda
+date: 2022-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00241/new-report-highlights-policy-failures-of-co-government-agenda.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/30/new-report-highlights-policy-failures-of-co-government-agenda/index.html
+layout: layout.njk
 ---
 New Report Highlights Policy Failures Of Co-Government Agenda
 =============================================================

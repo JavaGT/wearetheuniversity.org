@@ -1,9 +1,13 @@
 ---
 slug: uc-research-identifies-digital-solutions-for-nz-autism-support
-title: "UC Research Identifies Digital Solutions For NZ Autism Support"
-date: 2023-09-12
-source-url: https://www.scoop.co.nz/stories/GE2309/S00040/uc-research-identifies-digital-solutions-for-nz-autism-support.htm
+title: UC Research Identifies Digital Solutions For NZ Autism Support
+date: 2023-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2309/S00040/uc-research-identifies-digital-solutions-for-nz-autism-support.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/09/12/uc-research-identifies-digital-solutions-for-nz-autism-support/index.html
+layout: layout.njk
 ---
 UC Research Identifies Digital Solutions For NZ Autism Support
 ==============================================================

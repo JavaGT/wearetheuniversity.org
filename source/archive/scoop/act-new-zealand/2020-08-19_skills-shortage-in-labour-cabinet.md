@@ -1,9 +1,12 @@
 ---
 slug: skills-shortage-in-labour-cabinet
-title: "Skills Shortage In Labour Cabinet"
-date: 2020-08-19
-source-url: https://www.scoop.co.nz/stories/PA2008/S00149/skills-shortage-in-labour-cabinet.htm
+title: Skills Shortage In Labour Cabinet
+date: 2020-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00149/skills-shortage-in-labour-cabinet.htm
 author: act-new-zealand
+permalink: /archive/2020/08/19/skills-shortage-in-labour-cabinet/index.html
+layout: layout.njk
 ---
 Skills Shortage In Labour Cabinet
 =================================

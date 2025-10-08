@@ -1,9 +1,13 @@
 ---
 slug: saxophonist-to-feature-in-jazz-concert-of-the-year
-title: "Saxophonist to feature in Jazz Concert of the Year"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/CU1408/S00363/saxophonist-to-feature-in-jazz-concert-of-the-year.htm
+title: Saxophonist to feature in Jazz Concert of the Year
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00363/saxophonist-to-feature-in-jazz-concert-of-the-year.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/21/saxophonist-to-feature-in-jazz-concert-of-the-year/index.html
+layout: layout.njk
 ---
 Saxophonist to feature in Jazz Concert of the Year
 ==================================================

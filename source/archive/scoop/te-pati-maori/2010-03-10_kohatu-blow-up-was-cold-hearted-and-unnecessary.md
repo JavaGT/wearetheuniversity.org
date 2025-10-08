@@ -1,9 +1,12 @@
 ---
 slug: kohatu-blow-up-was-cold-hearted-and-unnecessary
-title: "Kohatu blow-up was cold-hearted and unnecessary"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/PA1003/S00150/kohatu-blow-up-was-cold-hearted-and-unnecessary.htm
+title: Kohatu blow-up was cold-hearted and unnecessary
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00150/kohatu-blow-up-was-cold-hearted-and-unnecessary.htm
 author: te-pati-maori
+permalink: /archive/2010/03/10/kohatu-blow-up-was-cold-hearted-and-unnecessary/index.html
+layout: layout.njk
 ---
 Kohatu blow-up was cold-hearted and unnecessary
 ===============================================

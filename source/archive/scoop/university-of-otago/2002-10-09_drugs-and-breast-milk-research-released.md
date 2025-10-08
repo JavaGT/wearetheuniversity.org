@@ -1,9 +1,12 @@
 ---
 slug: drugs-and-breast-milk-research-released
-title: "Drugs and Breast Milk Research Released"
-date: 2002-10-09
-source-url: https://www.scoop.co.nz/stories/SC0210/S00028/drugs-and-breast-milk-research-released.htm
+title: Drugs and Breast Milk Research Released
+date: 2002-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0210/S00028/drugs-and-breast-milk-research-released.htm
 author: university-of-otago
+permalink: /archive/2002/10/09/drugs-and-breast-milk-research-released/index.html
+layout: layout.njk
 ---
 Drugs and Breast Milk Research Released
 =======================================

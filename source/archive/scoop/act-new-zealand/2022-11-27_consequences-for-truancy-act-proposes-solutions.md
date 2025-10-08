@@ -1,9 +1,12 @@
 ---
 slug: consequences-for-truancy-act-proposes-solutions
-title: "Consequences For Truancy: ACT Proposes Solutions"
-date: 2022-11-27
-source-url: https://www.scoop.co.nz/stories/PA2211/S00232/consequences-for-truancy-act-proposes-solutions.htm
+title: 'Consequences For Truancy: ACT Proposes Solutions'
+date: 2022-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00232/consequences-for-truancy-act-proposes-solutions.htm
 author: act-new-zealand
+permalink: /archive/2022/11/27/consequences-for-truancy-act-proposes-solutions/index.html
+layout: layout.njk
 ---
 Consequences For Truancy: ACT Proposes Solutions
 ================================================

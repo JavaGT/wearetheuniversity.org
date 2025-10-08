@@ -1,9 +1,12 @@
 ---
 slug: medical-staff-honoured-for-teaching-excellence
-title: "Medical Staff Honoured For Teaching Excellence"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00058/medical-staff-honoured-for-teaching-excellence.htm
+title: Medical Staff Honoured For Teaching Excellence
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00058/medical-staff-honoured-for-teaching-excellence.htm
 author: university-of-otago
+permalink: /archive/2004/02/23/medical-staff-honoured-for-teaching-excellence/index.html
+layout: layout.njk
 ---
 Medical Staff Honoured For Teaching Excellence
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: philip-temple-wins-prestigious-history-prize
-title: "Philip Temple Wins Prestigious History Prize"
-date: 2003-09-30
-source-url: https://www.scoop.co.nz/stories/ED0309/S00136/philip-temple-wins-prestigious-history-prize.htm
+title: Philip Temple Wins Prestigious History Prize
+date: 2003-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00136/philip-temple-wins-prestigious-history-prize.htm
 author: auckland-university-press
+permalink: /archive/2003/09/30/philip-temple-wins-prestigious-history-prize/index.html
+layout: layout.njk
 ---
 Philip Temple Wins Prestigious History Prize
 ============================================

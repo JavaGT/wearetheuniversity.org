@@ -1,9 +1,13 @@
 ---
 slug: award-winning-project-launches-uc-graduates-career
-title: "Award-winning Project Launches UC Graduate’s Career"
-date: 2020-12-17
-source-url: https://www.scoop.co.nz/stories/ED2012/S00042/award-winning-project-launches-uc-graduates-career.htm
+title: Award-winning Project Launches UC Graduate’s Career
+date: 2020-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00042/award-winning-project-launches-uc-graduates-career.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/17/award-winning-project-launches-uc-graduates-career/index.html
+layout: layout.njk
 ---
 Award-winning Project Launches UC Graduate’s Career
 ===================================================

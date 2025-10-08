@@ -1,9 +1,12 @@
 ---
 slug: maori-wardens-in-police-prescription
-title: "Maori Wardens in Police Prescription?"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/PA0510/S00122/maori-wardens-in-police-prescription.htm
+title: Maori Wardens in Police Prescription?
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00122/maori-wardens-in-police-prescription.htm
 author: act-new-zealand
+permalink: /archive/2005/10/20/maori-wardens-in-police-prescription/index.html
+layout: layout.njk
 ---
 Maori Wardens in Police Prescription?
 =====================================

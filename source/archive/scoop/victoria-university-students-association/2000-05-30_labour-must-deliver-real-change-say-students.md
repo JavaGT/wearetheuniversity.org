@@ -1,9 +1,12 @@
 ---
 slug: labour-must-deliver-real-change-say-students
-title: "Labour Must Deliver Real Change Say Students."
-date: 2000-05-30
-source-url: https://www.scoop.co.nz/stories/ED0005/S00047/labour-must-deliver-real-change-say-students.htm
+title: Labour Must Deliver Real Change Say Students.
+date: 2000-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00047/labour-must-deliver-real-change-say-students.htm
 author: victoria-university-students-association
+permalink: /archive/2000/05/30/labour-must-deliver-real-change-say-students/index.html
+layout: layout.njk
 ---
 Labour Must Deliver Real Change Say Students.
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: study-of-national-standards-shows-compliance-in-name-only
-title: "Study of National Standards shows compliance in name only"
-date: 2012-03-14
-source-url: https://www.scoop.co.nz/stories/ED1203/S00068/study-of-national-standards-shows-compliance-in-name-only.htm
+title: Study of National Standards shows compliance in name only
+date: 2012-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00068/study-of-national-standards-shows-compliance-in-name-only.htm
 author: nzei
+permalink: >-
+  /archive/2012/03/14/study-of-national-standards-shows-compliance-in-name-only/index.html
+layout: layout.njk
 ---
 Study of National Standards shows compliance in name only
 =========================================================

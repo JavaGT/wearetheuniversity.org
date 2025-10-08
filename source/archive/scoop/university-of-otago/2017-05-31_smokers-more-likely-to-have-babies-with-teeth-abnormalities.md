@@ -1,9 +1,13 @@
 ---
 slug: smokers-more-likely-to-have-babies-with-teeth-abnormalities
-title: "Smokers more likely to have babies with teeth abnormalities"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/SC1705/S00086/smokers-more-likely-to-have-babies-with-teeth-abnormalities.htm
+title: Smokers more likely to have babies with teeth abnormalities
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00086/smokers-more-likely-to-have-babies-with-teeth-abnormalities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/31/smokers-more-likely-to-have-babies-with-teeth-abnormalities/index.html
+layout: layout.njk
 ---
 Smokers more likely to have babies with teeth abnormalities
 ===========================================================

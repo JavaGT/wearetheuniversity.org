@@ -1,9 +1,12 @@
 ---
 slug: lets-get-more-transparency-from-this-government
-title: "Let’s Get More Transparency from this Government"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/PA1908/S00018/lets-get-more-transparency-from-this-government.htm
+title: Let’s Get More Transparency from this Government
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00018/lets-get-more-transparency-from-this-government.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/01/lets-get-more-transparency-from-this-government/index.html
+layout: layout.njk
 ---
 Let’s Get More Transparency from this Government
 ================================================

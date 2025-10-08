@@ -1,9 +1,12 @@
 ---
 slug: still-too-early-to-claim-ncea-success
-title: "Still Too Early to Claim NCEA Success"
-date: 2007-01-17
-source-url: https://www.scoop.co.nz/stories/ED0701/S00017/still-too-early-to-claim-ncea-success.htm
+title: Still Too Early to Claim NCEA Success
+date: 2007-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00017/still-too-early-to-claim-ncea-success.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/17/still-too-early-to-claim-ncea-success/index.html
+layout: layout.njk
 ---
 Still Too Early to Claim NCEA Success
 =====================================

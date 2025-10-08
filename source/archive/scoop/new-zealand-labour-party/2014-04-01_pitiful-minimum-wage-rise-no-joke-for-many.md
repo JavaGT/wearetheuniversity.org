@@ -1,9 +1,12 @@
 ---
 slug: pitiful-minimum-wage-rise-no-joke-for-many
-title: "Pitiful minimum wage rise no joke for many"
-date: 2014-04-01
-source-url: https://www.scoop.co.nz/stories/PA1404/S00007/pitiful-minimum-wage-rise-no-joke-for-many.htm
+title: Pitiful minimum wage rise no joke for many
+date: 2014-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00007/pitiful-minimum-wage-rise-no-joke-for-many.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/01/pitiful-minimum-wage-rise-no-joke-for-many/index.html
+layout: layout.njk
 ---
 Pitiful minimum wage rise no joke for many
 ==========================================

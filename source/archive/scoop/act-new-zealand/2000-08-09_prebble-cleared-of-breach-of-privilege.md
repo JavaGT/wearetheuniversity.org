@@ -1,9 +1,12 @@
 ---
 slug: prebble-cleared-of-breach-of-privilege
-title: "Prebble Cleared Of Breach Of Privilege"
-date: 2000-08-09
-source-url: https://www.scoop.co.nz/stories/PA0008/S00174/prebble-cleared-of-breach-of-privilege.htm
+title: Prebble Cleared Of Breach Of Privilege
+date: 2000-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00174/prebble-cleared-of-breach-of-privilege.htm
 author: act-new-zealand
+permalink: /archive/2000/08/09/prebble-cleared-of-breach-of-privilege/index.html
+layout: layout.njk
 ---
 Prebble Cleared Of Breach Of Privilege
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: new-funding-wont-fill-existing-gap
-title: "New funding won’t fill existing gap"
-date: 2016-03-04
-source-url: https://www.scoop.co.nz/stories/PA1603/S00092/new-funding-wont-fill-existing-gap.htm
+title: New funding won’t fill existing gap
+date: 2016-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00092/new-funding-wont-fill-existing-gap.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/04/new-funding-wont-fill-existing-gap/index.html
+layout: layout.njk
 ---
 New funding won’t fill existing gap
 ===================================

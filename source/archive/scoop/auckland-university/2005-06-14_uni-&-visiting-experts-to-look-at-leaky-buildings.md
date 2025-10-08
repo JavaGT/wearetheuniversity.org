@@ -1,9 +1,12 @@
 ---
 slug: uni-&-visiting-experts-to-look-at-leaky-buildings
-title: "Uni & Visiting Experts to Look at Leaky Buildings"
-date: 2005-06-14
-source-url: https://www.scoop.co.nz/stories/ED0506/S00033/uni-visiting-experts-to-look-at-leaky-buildings.htm
+title: Uni & Visiting Experts to Look at Leaky Buildings
+date: 2005-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00033/uni-visiting-experts-to-look-at-leaky-buildings.htm
 author: auckland-university
+permalink: /archive/2005/06/14/uni-/index.html
+layout: layout.njk
 ---
 Uni & Visiting Experts to Look at Leaky Buildings
 =================================================

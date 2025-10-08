@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-partners-with-chinese-university
-title: "University of Canterbury partners with Chinese university"
-date: 2018-04-20
-source-url: https://www.scoop.co.nz/stories/ED1804/S00054/university-of-canterbury-partners-with-chinese-university.htm
+title: University of Canterbury partners with Chinese university
+date: 2018-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00054/university-of-canterbury-partners-with-chinese-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/04/20/university-of-canterbury-partners-with-chinese-university/index.html
+layout: layout.njk
 ---
 University of Canterbury partners with Chinese university
 =========================================================

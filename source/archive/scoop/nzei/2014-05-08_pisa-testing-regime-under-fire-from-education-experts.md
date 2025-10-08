@@ -1,9 +1,13 @@
 ---
 slug: pisa-testing-regime-under-fire-from-education-experts
-title: "PISA testing regime under fire from education experts"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/ED1405/S00040/pisa-testing-regime-under-fire-from-education-experts.htm
+title: PISA testing regime under fire from education experts
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00040/pisa-testing-regime-under-fire-from-education-experts.htm
 author: nzei
+permalink: >-
+  /archive/2014/05/08/pisa-testing-regime-under-fire-from-education-experts/index.html
+layout: layout.njk
 ---
 PISA testing regime under fire from education experts
 =====================================================

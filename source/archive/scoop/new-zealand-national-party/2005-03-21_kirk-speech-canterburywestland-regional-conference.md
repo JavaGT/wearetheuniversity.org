@@ -1,9 +1,13 @@
 ---
 slug: kirk-speech-canterburywestland-regional-conference
-title: "Kirk Speech CanterburyWestland Regional Conference"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00412/kirk-speech-canterburywestland-regional-conference.htm
+title: Kirk Speech CanterburyWestland Regional Conference
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00412/kirk-speech-canterburywestland-regional-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/03/21/kirk-speech-canterburywestland-regional-conference/index.html
+layout: layout.njk
 ---
 Kirk Speech CanterburyWestland Regional Conference
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: english-welcomes-cpit-inquiry
-title: "English welcomes CPIT inquiry"
-date: 2004-06-21
-source-url: https://www.scoop.co.nz/stories/PA0406/S00304/english-welcomes-cpit-inquiry.htm
+title: English welcomes CPIT inquiry
+date: 2004-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00304/english-welcomes-cpit-inquiry.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/21/english-welcomes-cpit-inquiry/index.html
+layout: layout.njk
 ---
 English welcomes CPIT inquiry
 =============================

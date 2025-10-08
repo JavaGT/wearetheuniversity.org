@@ -1,9 +1,12 @@
 ---
 slug: search-launched-for-e-mervyn-taylor-murals
-title: "Search launched for E Mervyn Taylor murals"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/CU1511/S00189/search-launched-for-e-mervyn-taylor-murals.htm
+title: Search launched for E Mervyn Taylor murals
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00189/search-launched-for-e-mervyn-taylor-murals.htm
 author: massey-university
+permalink: /archive/2015/11/13/search-launched-for-e-mervyn-taylor-murals/index.html
+layout: layout.njk
 ---
 Search launched for E Mervyn Taylor murals
 ==========================================

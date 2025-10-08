@@ -1,9 +1,12 @@
 ---
 slug: many-nz-primary-schools-need-to-be-sun-smarter
-title: "Many NZ primary schools need to be ‘sun smarter’"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/ED1202/S00043/many-nz-primary-schools-need-to-be-sun-smarter.htm
+title: Many NZ primary schools need to be ‘sun smarter’
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00043/many-nz-primary-schools-need-to-be-sun-smarter.htm
 author: university-of-otago
+permalink: /archive/2012/02/10/many-nz-primary-schools-need-to-be-sun-smarter/index.html
+layout: layout.njk
 ---
 Many NZ primary schools need to be ‘sun smarter’
 ================================================

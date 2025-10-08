@@ -1,9 +1,12 @@
 ---
 slug: dont-ask-us-we-dont-know-says-government
-title: "Don’t Ask Us, We Don’t Know Says Government"
-date: 2012-11-12
-source-url: https://www.scoop.co.nz/stories/PA1211/S00193/dont-ask-us-we-dont-know-says-government.htm
+title: Don’t Ask Us, We Don’t Know Says Government
+date: 2012-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00193/dont-ask-us-we-dont-know-says-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/12/dont-ask-us-we-dont-know-says-government/index.html
+layout: layout.njk
 ---
 Don’t Ask Us, We Don’t Know Says Government
 ===========================================

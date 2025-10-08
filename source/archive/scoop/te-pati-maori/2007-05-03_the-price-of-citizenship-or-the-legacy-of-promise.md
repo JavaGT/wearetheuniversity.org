@@ -1,9 +1,13 @@
 ---
 slug: the-price-of-citizenship-or-the-legacy-of-promise
-title: "The Price of Citizenship or the Legacy of Promise"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/PA0705/S00081/the-price-of-citizenship-or-the-legacy-of-promise.htm
+title: The Price of Citizenship or the Legacy of Promise
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00081/the-price-of-citizenship-or-the-legacy-of-promise.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/05/03/the-price-of-citizenship-or-the-legacy-of-promise/index.html
+layout: layout.njk
 ---
 The Price of Citizenship or the Legacy of Promise
 =================================================

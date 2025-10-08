@@ -1,9 +1,12 @@
 ---
 slug: graduation-for-the-young-and-old
-title: "Graduation for the young and old"
-date: 2005-10-05
-source-url: https://www.scoop.co.nz/stories/ED0510/S00014/graduation-for-the-young-and-old.htm
+title: Graduation for the young and old
+date: 2005-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00014/graduation-for-the-young-and-old.htm
 author: auckland-university
+permalink: /archive/2005/10/05/graduation-for-the-young-and-old/index.html
+layout: layout.njk
 ---
 Graduation for the young and old
 ================================

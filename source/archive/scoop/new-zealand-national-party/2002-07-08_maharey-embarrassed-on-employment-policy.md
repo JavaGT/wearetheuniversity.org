@@ -1,9 +1,12 @@
 ---
 slug: maharey-embarrassed-on-employment-policy
-title: "Maharey embarrassed on employment policy"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00204/maharey-embarrassed-on-employment-policy.htm
+title: Maharey embarrassed on employment policy
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00204/maharey-embarrassed-on-employment-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/maharey-embarrassed-on-employment-policy/index.html
+layout: layout.njk
 ---
 Maharey embarrassed on employment policy
 ========================================

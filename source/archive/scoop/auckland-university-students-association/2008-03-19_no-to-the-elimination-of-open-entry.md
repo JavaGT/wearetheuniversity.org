@@ -1,9 +1,12 @@
 ---
 slug: no-to-the-elimination-of-open-entry
-title: "No to the elimination of open entry"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/ED0803/S00049/no-to-the-elimination-of-open-entry.htm
+title: No to the elimination of open entry
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00049/no-to-the-elimination-of-open-entry.htm
 author: auckland-university-students-association
+permalink: /archive/2008/03/19/no-to-the-elimination-of-open-entry/index.html
+layout: layout.njk
 ---
 No to the elimination of open entry
 ===================================

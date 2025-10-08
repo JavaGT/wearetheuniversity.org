@@ -1,9 +1,13 @@
 ---
 slug: university-economics-team-studying-workers-comparing-wages
-title: "University economics team studying workers’ comparing wages"
-date: 2014-08-31
-source-url: https://www.scoop.co.nz/stories/PO1408/S00525/university-economics-team-studying-workers-comparing-wages.htm
+title: University economics team studying workers’ comparing wages
+date: 2014-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00525/university-economics-team-studying-workers-comparing-wages.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/31/university-economics-team-studying-workers-comparing-wages/index.html
+layout: layout.njk
 ---
 University economics team studying workers’ comparing wages
 ===========================================================

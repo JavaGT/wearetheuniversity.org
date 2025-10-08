@@ -1,9 +1,13 @@
 ---
 slug: shortlist-for-schools-poetry-award-reveals-talent
-title: "Shortlist for schools poetry award reveals talent"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/CU0507/S00143/shortlist-for-schools-poetry-award-reveals-talent.htm
+title: Shortlist for schools poetry award reveals talent
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0507/S00143/shortlist-for-schools-poetry-award-reveals-talent.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/07/19/shortlist-for-schools-poetry-award-reveals-talent/index.html
+layout: layout.njk
 ---
 Shortlist for schools poetry award reveals talent
 =================================================

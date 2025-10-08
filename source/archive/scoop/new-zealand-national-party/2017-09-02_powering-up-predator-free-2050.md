@@ -1,9 +1,12 @@
 ---
 slug: powering-up-predator-free-2050
-title: "Powering up Predator Free 2050"
-date: 2017-09-02
-source-url: https://www.scoop.co.nz/stories/PA1709/S00017/powering-up-predator-free-2050.htm
+title: Powering up Predator Free 2050
+date: 2017-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00017/powering-up-predator-free-2050.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/02/powering-up-predator-free-2050/index.html
+layout: layout.njk
 ---
 Powering up Predator Free 2050
 ==============================

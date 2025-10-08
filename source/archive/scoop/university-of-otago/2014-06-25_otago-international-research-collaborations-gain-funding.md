@@ -1,9 +1,13 @@
 ---
 slug: otago-international-research-collaborations-gain-funding
-title: "Otago international research collaborations gain funding"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/SC1406/S00066/otago-international-research-collaborations-gain-funding.htm
+title: Otago international research collaborations gain funding
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00066/otago-international-research-collaborations-gain-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/25/otago-international-research-collaborations-gain-funding/index.html
+layout: layout.njk
 ---
 Otago international research collaborations gain funding
 ========================================================

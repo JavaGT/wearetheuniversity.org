@@ -1,9 +1,11 @@
 ---
 slug: paper-borders
-title: "Paper Borders"
-date: 2009-09-21
+title: Paper Borders
+date: 2009-09-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0909/S00179/paper-borders.htm
 author: salient
+permalink: /archive/2009/09/21/paper-borders/index.html
+layout: layout.njk
 ---
 Paper Borders
 =============

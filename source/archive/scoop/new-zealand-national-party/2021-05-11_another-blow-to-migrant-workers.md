@@ -1,9 +1,12 @@
 ---
 slug: another-blow-to-migrant-workers
-title: "Another Blow To Migrant Workers"
-date: 2021-05-11
-source-url: https://www.scoop.co.nz/stories/PA2105/S00088/another-blow-to-migrant-workers.htm
+title: Another Blow To Migrant Workers
+date: 2021-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00088/another-blow-to-migrant-workers.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/11/another-blow-to-migrant-workers/index.html
+layout: layout.njk
 ---
 Another Blow To Migrant Workers
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: all-talk-no-action-on-youth-crime-again
-title: "All Talk, No Action On Youth Crime - Again"
-date: 2002-08-28
-source-url: https://www.scoop.co.nz/stories/PA0208/S00250/all-talk-no-action-on-youth-crime-again.htm
+title: All Talk, No Action On Youth Crime - Again
+date: 2002-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00250/all-talk-no-action-on-youth-crime-again.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/28/all-talk-no-action-on-youth-crime-again/index.html
+layout: layout.njk
 ---
 All Talk, No Action On Youth Crime - Again
 ==========================================

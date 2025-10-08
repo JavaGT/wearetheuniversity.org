@@ -1,9 +1,12 @@
 ---
 slug: tec-must-commit-to-investigate-scams
-title: "TEC must commit to investigate scams"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/PA0704/S00379/tec-must-commit-to-investigate-scams.htm
+title: TEC must commit to investigate scams
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00379/tec-must-commit-to-investigate-scams.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/23/tec-must-commit-to-investigate-scams/index.html
+layout: layout.njk
 ---
 TEC must commit to investigate scams
 ====================================

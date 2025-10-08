@@ -1,9 +1,12 @@
 ---
 slug: national-will-strengthen-skills-training
-title: "National will strengthen skills training"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00420/national-will-strengthen-skills-training.htm
+title: National will strengthen skills training
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00420/national-will-strengthen-skills-training.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/21/national-will-strengthen-skills-training/index.html
+layout: layout.njk
 ---
 National will strengthen skills training
 ========================================

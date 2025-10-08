@@ -1,9 +1,11 @@
 ---
 slug: tolley-hides-in-house
-title: "Tolley hides in House"
-date: 2009-08-04
+title: Tolley hides in House
+date: 2009-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0908/S00042/tolley-hides-in-house.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/04/tolley-hides-in-house/index.html
+layout: layout.njk
 ---
 Tolley hides in House
 =====================

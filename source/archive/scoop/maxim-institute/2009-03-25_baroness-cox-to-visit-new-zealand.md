@@ -1,9 +1,12 @@
 ---
 slug: baroness-cox-to-visit-new-zealand
-title: "Baroness Cox To Visit New Zealand"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PO0903/S00282/baroness-cox-to-visit-new-zealand.htm
+title: Baroness Cox To Visit New Zealand
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00282/baroness-cox-to-visit-new-zealand.htm
 author: maxim-institute
+permalink: /archive/2009/03/25/baroness-cox-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 Baroness Cox To Visit New Zealand
 =================================

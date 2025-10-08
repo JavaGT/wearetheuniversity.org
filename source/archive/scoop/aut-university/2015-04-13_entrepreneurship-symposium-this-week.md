@@ -1,9 +1,12 @@
 ---
 slug: entrepreneurship-symposium-this-week
-title: "Entrepreneurship Symposium this week"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/BU1504/S00285/entrepreneurship-symposium-this-week.htm
+title: Entrepreneurship Symposium this week
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00285/entrepreneurship-symposium-this-week.htm
 author: aut-university
+permalink: /archive/2015/04/13/entrepreneurship-symposium-this-week/index.html
+layout: layout.njk
 ---
 Entrepreneurship Symposium this week
 ====================================

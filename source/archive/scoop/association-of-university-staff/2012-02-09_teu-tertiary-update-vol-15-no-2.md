@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-15-no-2
-title: "TEU Tertiary Update Vol 15 No 2"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/ED1202/S00038/teu-tertiary-update-vol-15-no-2.htm
+title: TEU Tertiary Update Vol 15 No 2
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00038/teu-tertiary-update-vol-15-no-2.htm
 author: association-of-university-staff
+permalink: /archive/2012/02/09/teu-tertiary-update-vol-15-no-2/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 15 No 2
 ===============================

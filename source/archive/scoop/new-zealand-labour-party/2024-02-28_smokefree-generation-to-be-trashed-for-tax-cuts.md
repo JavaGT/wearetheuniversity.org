@@ -1,9 +1,12 @@
 ---
 slug: smokefree-generation-to-be-trashed-for-tax-cuts
-title: "Smokefree Generation To Be Trashed For Tax Cuts"
-date: 2024-02-28
-source-url: https://www.scoop.co.nz/stories/PO2402/S00194/smokefree-generation-to-be-trashed-for-tax-cuts.htm
+title: Smokefree Generation To Be Trashed For Tax Cuts
+date: 2024-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00194/smokefree-generation-to-be-trashed-for-tax-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/02/28/smokefree-generation-to-be-trashed-for-tax-cuts/index.html
+layout: layout.njk
 ---
 Smokefree Generation To Be Trashed For Tax Cuts
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: nationals-wage-subsidy-policy-will-hurt-business-confidence
-title: "National’s Wage Subsidy Policy Will Hurt Business Confidence"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/PA2010/S00014/nationals-wage-subsidy-policy-will-hurt-business-confidence.htm
+title: National’s Wage Subsidy Policy Will Hurt Business Confidence
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00014/nationals-wage-subsidy-policy-will-hurt-business-confidence.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/10/01/nationals-wage-subsidy-policy-will-hurt-business-confidence/index.html
+layout: layout.njk
 ---
 National’s Wage Subsidy Policy Will Hurt Business Confidence
 ============================================================

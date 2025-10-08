@@ -1,9 +1,11 @@
 ---
 slug: lincoln-university-rebounds
-title: "Lincoln University Rebounds"
-date: 2017-06-10
+title: Lincoln University Rebounds
+date: 2017-06-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1706/S00026/lincoln-university-rebounds.htm
 author: lincoln-university
+permalink: /archive/2017/06/10/lincoln-university-rebounds/index.html
+layout: layout.njk
 ---
 Lincoln University Rebounds
 ===========================

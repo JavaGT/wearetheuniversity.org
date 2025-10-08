@@ -1,9 +1,11 @@
 ---
 slug: obituary-wi-kuki-kaa
-title: "Obituary : Wi Kuki Kaa"
-date: 2006-02-20
+title: 'Obituary : Wi Kuki Kaa'
+date: 2006-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00279/obituary-wi-kuki-kaa.htm
 author: te-pati-maori
+permalink: /archive/2006/02/20/obituary-wi-kuki-kaa/index.html
+layout: layout.njk
 ---
 Obituary : Wi Kuki Kaa
 ======================

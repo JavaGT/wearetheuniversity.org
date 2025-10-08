@@ -1,9 +1,12 @@
 ---
 slug: sri-lankan-conflict-a-humanitarian-catastrophe
-title: "Sri Lankan conflict a humanitarian catastrophe"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/PA0904/S00270/sri-lankan-conflict-a-humanitarian-catastrophe.htm
+title: Sri Lankan conflict a humanitarian catastrophe
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00270/sri-lankan-conflict-a-humanitarian-catastrophe.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/22/sri-lankan-conflict-a-humanitarian-catastrophe/index.html
+layout: layout.njk
 ---
 Sri Lankan conflict a humanitarian catastrophe
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-blanked-northland-mayors-on-lockdown
-title: "Government blanked Northland mayors on lockdown"
-date: 2021-09-21
-source-url: https://www.scoop.co.nz/stories/PA2109/S00177/government-blanked-northland-mayors-on-lockdown.htm
+title: Government blanked Northland mayors on lockdown
+date: 2021-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00177/government-blanked-northland-mayors-on-lockdown.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/21/government-blanked-northland-mayors-on-lockdown/index.html
+layout: layout.njk
 ---
 Government blanked Northland mayors on lockdown
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-funding-needs-new-model
-title: "Tertiary Funding Needs New Model"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/PA1410/S00138/tertiary-funding-needs-new-model.htm
+title: Tertiary Funding Needs New Model
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00138/tertiary-funding-needs-new-model.htm
 author: new-zealand-first-party
+permalink: /archive/2014/10/23/tertiary-funding-needs-new-model/index.html
+layout: layout.njk
 ---
 Tertiary Funding Needs New Model
 ================================

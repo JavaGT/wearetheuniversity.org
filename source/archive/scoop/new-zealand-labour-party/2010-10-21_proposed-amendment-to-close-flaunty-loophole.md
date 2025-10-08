@@ -1,9 +1,12 @@
 ---
 slug: proposed-amendment-to-close-flaunty-loophole
-title: "Proposed amendment to close Flaunty loophole"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/PA1010/S00379/proposed-amendment-to-close-flaunty-loophole.htm
+title: Proposed amendment to close Flaunty loophole
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00379/proposed-amendment-to-close-flaunty-loophole.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/21/proposed-amendment-to-close-flaunty-loophole/index.html
+layout: layout.njk
 ---
 Proposed amendment to close Flaunty loophole
 ============================================

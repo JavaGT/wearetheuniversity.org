@@ -1,9 +1,12 @@
 ---
 slug: petition-calls-on-govt-to-accept-blame
-title: "Petition calls on Govt to accept blame"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/PA0411/S00325/petition-calls-on-govt-to-accept-blame.htm
+title: Petition calls on Govt to accept blame
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00325/petition-calls-on-govt-to-accept-blame.htm
 author: green-party
+permalink: /archive/2004/11/15/petition-calls-on-govt-to-accept-blame/index.html
+layout: layout.njk
 ---
 Petition calls on Govt to accept blame
 ======================================

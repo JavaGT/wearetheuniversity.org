@@ -1,9 +1,13 @@
 ---
 slug: concerns-over-nzs-trend-towards-preventive-justice
-title: "Concerns over NZ’s trend towards ‘Preventive Justice'"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/PO1412/S00115/concerns-over-nzs-trend-towards-preventive-justice.htm
+title: Concerns over NZ’s trend towards ‘Preventive Justice'
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00115/concerns-over-nzs-trend-towards-preventive-justice.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/09/concerns-over-nzs-trend-towards-preventive-justice/index.html
+layout: layout.njk
 ---
 Concerns over NZ’s trend towards ‘Preventive Justice'
 =====================================================

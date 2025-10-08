@@ -1,9 +1,13 @@
 ---
 slug: nandor-challenges-dunne-to-listen-to-the-experts
-title: "Nandor challenges Dunne to listen to the experts"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00574/nandor-challenges-dunne-to-listen-to-the-experts.htm
+title: Nandor challenges Dunne to listen to the experts
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00574/nandor-challenges-dunne-to-listen-to-the-experts.htm
 author: green-party
+permalink: >-
+  /archive/2002/11/25/nandor-challenges-dunne-to-listen-to-the-experts/index.html
+layout: layout.njk
 ---
 Nandor challenges Dunne to listen to the experts
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: focus-of-photival-festival-on-wellington-campus
-title: "Focus of Photival festival on Wellington campus"
-date: 2018-04-24
-source-url: https://www.scoop.co.nz/stories/CU1804/S00231/focus-of-photival-festival-on-wellington-campus.htm
+title: Focus of Photival festival on Wellington campus
+date: 2018-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1804/S00231/focus-of-photival-festival-on-wellington-campus.htm
 author: massey-university
+permalink: /archive/2018/04/24/focus-of-photival-festival-on-wellington-campus/index.html
+layout: layout.njk
 ---
 Focus of Photival festival on Wellington campus
 ===============================================

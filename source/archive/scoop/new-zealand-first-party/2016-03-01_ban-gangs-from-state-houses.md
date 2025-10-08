@@ -1,9 +1,11 @@
 ---
 slug: ban-gangs-from-state-houses
-title: "Ban Gangs From State Houses"
-date: 2016-03-01
+title: Ban Gangs From State Houses
+date: 2016-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00019/ban-gangs-from-state-houses.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/01/ban-gangs-from-state-houses/index.html
+layout: layout.njk
 ---
 Ban Gangs From State Houses
 ===========================

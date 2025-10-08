@@ -1,9 +1,13 @@
 ---
 slug: white-and-antiracist-stories-of-backlash-from-the-us
-title: "White and antiracist – stories of backlash from the US"
-date: 2019-08-08
-source-url: https://www.scoop.co.nz/stories/ED1908/S00021/white-and-antiracist-stories-of-backlash-from-the-us.htm
+title: White and antiracist – stories of backlash from the US
+date: 2019-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00021/white-and-antiracist-stories-of-backlash-from-the-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/08/white-and-antiracist-stories-of-backlash-from-the-us/index.html
+layout: layout.njk
 ---
 White and antiracist – stories of backlash from the US
 ======================================================

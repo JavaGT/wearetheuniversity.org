@@ -1,9 +1,13 @@
 ---
 slug: hawkes-bay-scare-shows-need-for-chemical-trespass
-title: "Hawke's Bay scare shows need for chemical trespass"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00052/hawkes-bay-scare-shows-need-for-chemical-trespass.htm
+title: Hawke's Bay scare shows need for chemical trespass
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00052/hawkes-bay-scare-shows-need-for-chemical-trespass.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/03/hawkes-bay-scare-shows-need-for-chemical-trespass/index.html
+layout: layout.njk
 ---
 Hawke's Bay scare shows need for chemical trespass
 ==================================================

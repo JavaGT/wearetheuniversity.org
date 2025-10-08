@@ -1,9 +1,13 @@
 ---
 slug: exploring-how-social-class-influences-educational-outcomes
-title: "Exploring how social class influences educational outcomes"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/ED1208/S00153/exploring-how-social-class-influences-educational-outcomes.htm
+title: Exploring how social class influences educational outcomes
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00153/exploring-how-social-class-influences-educational-outcomes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/08/28/exploring-how-social-class-influences-educational-outcomes/index.html
+layout: layout.njk
 ---
 Exploring how social class influences educational outcomes
 ==========================================================

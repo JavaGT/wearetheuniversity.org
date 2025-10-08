@@ -1,9 +1,13 @@
 ---
 slug: ecan-must-take-action-to-stop-waterways-from-drying-up
-title: "ECAN must take action to stop waterways from drying up"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/PA1603/S00203/ecan-must-take-action-to-stop-waterways-from-drying-up.htm
+title: ECAN must take action to stop waterways from drying up
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00203/ecan-must-take-action-to-stop-waterways-from-drying-up.htm
 author: green-party
+permalink: >-
+  /archive/2016/03/11/ecan-must-take-action-to-stop-waterways-from-drying-up/index.html
+layout: layout.njk
 ---
 ECAN must take action to stop waterways from drying up
 ======================================================

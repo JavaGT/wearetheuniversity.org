@@ -1,9 +1,12 @@
 ---
 slug: conference-focuses-on-laws-future-role
-title: "Conference focuses on law’s future role"
-date: 2016-07-06
-source-url: https://www.scoop.co.nz/stories/ED1607/S00027/conference-focuses-on-laws-future-role.htm
+title: Conference focuses on law’s future role
+date: 2016-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00027/conference-focuses-on-laws-future-role.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/07/06/conference-focuses-on-laws-future-role/index.html
+layout: layout.njk
 ---
 Conference focuses on law’s future role
 =======================================

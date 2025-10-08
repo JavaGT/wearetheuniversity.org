@@ -1,9 +1,13 @@
 ---
 slug: waikato-squeezes-out-ak-in-battle-of-the-bombays
-title: "Waikato Squeezes Out Ak In Battle Of The Bombays"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/ED0409/S00124/waikato-squeezes-out-ak-in-battle-of-the-bombays.htm
+title: Waikato Squeezes Out Ak In Battle Of The Bombays
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00124/waikato-squeezes-out-ak-in-battle-of-the-bombays.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/09/27/waikato-squeezes-out-ak-in-battle-of-the-bombays/index.html
+layout: layout.njk
 ---
 Waikato Squeezes Out Ak In Battle Of The Bombays
 ================================================

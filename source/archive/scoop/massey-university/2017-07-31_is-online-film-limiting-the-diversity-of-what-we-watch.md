@@ -1,9 +1,13 @@
 ---
 slug: is-online-film-limiting-the-diversity-of-what-we-watch
-title: "Is Online Film Limiting The Diversity of What We Watch?"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/CU1707/S00399/is-online-film-limiting-the-diversity-of-what-we-watch.htm
+title: Is Online Film Limiting The Diversity of What We Watch?
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1707/S00399/is-online-film-limiting-the-diversity-of-what-we-watch.htm
 author: massey-university
+permalink: >-
+  /archive/2017/07/31/is-online-film-limiting-the-diversity-of-what-we-watch/index.html
+layout: layout.njk
 ---
 Is Online Film Limiting The Diversity of What We Watch?
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-warns-against-plastic-immigration-cards
-title: "Peters warns against plastic immigration cards"
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/PA0209/S00140/peters-warns-against-plastic-immigration-cards.htm
+title: Peters warns against plastic immigration cards
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00140/peters-warns-against-plastic-immigration-cards.htm
 author: new-zealand-first-party
+permalink: /archive/2002/09/10/peters-warns-against-plastic-immigration-cards/index.html
+layout: layout.njk
 ---
 Peters warns against plastic immigration cards
 ==============================================

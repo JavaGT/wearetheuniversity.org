@@ -1,9 +1,12 @@
 ---
 slug: māori-futures-academy-a-first-for-aotearoa
-title: "Māori Futures Academy A First For Aotearoa"
-date: 2021-03-08
-source-url: https://www.scoop.co.nz/stories/ED2103/S00014/maori-futures-academy-a-first-for-aotearoa.htm
+title: Māori Futures Academy A First For Aotearoa
+date: 2021-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00014/maori-futures-academy-a-first-for-aotearoa.htm
 author: university-of-canterbury
+permalink: /archive/2021/03/08/m/index.html
+layout: layout.njk
 ---
 Māori Futures Academy A First For Aotearoa
 ==========================================

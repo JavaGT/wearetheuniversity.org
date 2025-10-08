@@ -1,9 +1,12 @@
 ---
 slug: achievement-still-plummeting-under-labour
-title: "Achievement Still Plummeting Under Labour"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/PO2310/S00021/achievement-still-plummeting-under-labour.htm
+title: Achievement Still Plummeting Under Labour
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00021/achievement-still-plummeting-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/10/03/achievement-still-plummeting-under-labour/index.html
+layout: layout.njk
 ---
 Achievement Still Plummeting Under Labour
 =========================================

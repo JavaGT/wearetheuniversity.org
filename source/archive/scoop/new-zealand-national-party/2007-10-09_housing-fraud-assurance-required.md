@@ -1,9 +1,12 @@
 ---
 slug: housing-fraud-assurance-required
-title: "Housing fraud assurance required"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/PA0710/S00140/housing-fraud-assurance-required.htm
+title: Housing fraud assurance required
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00140/housing-fraud-assurance-required.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/09/housing-fraud-assurance-required/index.html
+layout: layout.njk
 ---
 Housing fraud assurance required
 ================================

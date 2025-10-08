@@ -1,9 +1,13 @@
 ---
 slug: otago-u-students-association-presidential-by-election
-title: "Otago U. Students' Association - Presidential   By-Election"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/ED1106/S00034/otago-u-students-association-presidential-by-election.htm
+title: Otago U. Students' Association - Presidential   By-Election
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00034/otago-u-students-association-presidential-by-election.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2011/06/03/otago-u-students-association-presidential-by-election/index.html
+layout: layout.njk
 ---
 Otago U. Students' Association - Presidential By-Election
 =========================================================

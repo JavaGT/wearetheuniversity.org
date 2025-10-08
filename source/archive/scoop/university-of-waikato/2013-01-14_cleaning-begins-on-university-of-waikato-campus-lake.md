@@ -1,9 +1,13 @@
 ---
 slug: cleaning-begins-on-university-of-waikato-campus-lake
-title: "Cleaning begins on University of Waikato campus Lake"
-date: 2013-01-14
-source-url: https://www.scoop.co.nz/stories/ED1301/S00016/cleaning-begins-on-university-of-waikato-campus-lake.htm
+title: Cleaning begins on University of Waikato campus Lake
+date: 2013-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00016/cleaning-begins-on-university-of-waikato-campus-lake.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/01/14/cleaning-begins-on-university-of-waikato-campus-lake/index.html
+layout: layout.njk
 ---
 Cleaning begins on University of Waikato campus Lake
 ====================================================

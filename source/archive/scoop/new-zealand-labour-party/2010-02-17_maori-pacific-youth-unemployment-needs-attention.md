@@ -1,9 +1,13 @@
 ---
 slug: maori-pacific-youth-unemployment-needs-attention
-title: "Maori, Pacific youth unemployment needs attention"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/PA1002/S00228/maori-pacific-youth-unemployment-needs-attention.htm
+title: Maori, Pacific youth unemployment needs attention
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00228/maori-pacific-youth-unemployment-needs-attention.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/17/maori-pacific-youth-unemployment-needs-attention/index.html
+layout: layout.njk
 ---
 Maori, Pacific youth unemployment needs attention
 =================================================

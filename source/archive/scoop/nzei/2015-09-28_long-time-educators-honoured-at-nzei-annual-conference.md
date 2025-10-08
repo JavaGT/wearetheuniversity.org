@@ -1,9 +1,13 @@
 ---
 slug: long-time-educators-honoured-at-nzei-annual-conference
-title: "Long-time educators honoured at NZEI Annual Conference"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/ED1509/S00158/long-time-educators-honoured-at-nzei-annual-conference.htm
+title: Long-time educators honoured at NZEI Annual Conference
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00158/long-time-educators-honoured-at-nzei-annual-conference.htm
 author: nzei
+permalink: >-
+  /archive/2015/09/28/long-time-educators-honoured-at-nzei-annual-conference/index.html
+layout: layout.njk
 ---
 Long-time educators honoured at NZEI Annual Conference
 ======================================================

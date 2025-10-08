@@ -1,9 +1,12 @@
 ---
 slug: government-again-fails-our-midwives
-title: "Government Again Fails Our Midwives"
-date: 2020-05-20
-source-url: https://www.scoop.co.nz/stories/PA2005/S00185/government-again-fails-our-midwives.htm
+title: Government Again Fails Our Midwives
+date: 2020-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00185/government-again-fails-our-midwives.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/20/government-again-fails-our-midwives/index.html
+layout: layout.njk
 ---
 Government Again Fails Our Midwives
 ===================================

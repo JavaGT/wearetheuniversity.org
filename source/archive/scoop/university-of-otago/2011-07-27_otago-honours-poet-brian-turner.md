@@ -1,9 +1,12 @@
 ---
 slug: otago-honours-poet-brian-turner
-title: "Otago honours poet Brian Turner"
-date: 2011-07-27
-source-url: https://www.scoop.co.nz/stories/CU1107/S00425/otago-honours-poet-brian-turner.htm
+title: Otago honours poet Brian Turner
+date: 2011-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00425/otago-honours-poet-brian-turner.htm
 author: university-of-otago
+permalink: /archive/2011/07/27/otago-honours-poet-brian-turner/index.html
+layout: layout.njk
 ---
 Otago honours poet Brian Turner
 ===============================

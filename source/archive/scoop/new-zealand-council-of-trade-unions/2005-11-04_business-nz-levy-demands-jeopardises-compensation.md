@@ -1,9 +1,13 @@
 ---
 slug: business-nz-levy-demands-jeopardises-compensation
-title: "Business NZ levy demands jeopardises compensation"
-date: 2005-11-04
-source-url: https://www.scoop.co.nz/stories/PO0511/S00030/business-nz-levy-demands-jeopardises-compensation.htm
+title: Business NZ levy demands jeopardises compensation
+date: 2005-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00030/business-nz-levy-demands-jeopardises-compensation.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/11/04/business-nz-levy-demands-jeopardises-compensation/index.html
+layout: layout.njk
 ---
 Business NZ levy demands jeopardises compensation
 =================================================

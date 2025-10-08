@@ -1,9 +1,13 @@
 ---
 slug: massey-university-student-wins-international-olympic-design
-title: "Massey University student wins international Olympic design"
-date: 2019-04-26
-source-url: https://www.scoop.co.nz/stories/CU1904/S00246/massey-university-student-wins-international-olympic-design.htm
+title: Massey University student wins international Olympic design
+date: 2019-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1904/S00246/massey-university-student-wins-international-olympic-design.htm
 author: massey-university
+permalink: >-
+  /archive/2019/04/26/massey-university-student-wins-international-olympic-design/index.html
+layout: layout.njk
 ---
 Massey University student wins international Olympic design
 ===========================================================

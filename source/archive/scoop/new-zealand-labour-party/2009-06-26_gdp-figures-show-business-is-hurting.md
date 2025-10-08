@@ -1,9 +1,12 @@
 ---
 slug: gdp-figures-show-business-is-hurting
-title: "GDP figures show business is hurting"
-date: 2009-06-26
-source-url: https://www.scoop.co.nz/stories/PA0906/S00381/gdp-figures-show-business-is-hurting.htm
+title: GDP figures show business is hurting
+date: 2009-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00381/gdp-figures-show-business-is-hurting.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/26/gdp-figures-show-business-is-hurting/index.html
+layout: layout.njk
 ---
 GDP figures show business is hurting
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: publication-of-councillors-salaries
-title: "Publication of Councillors Salaries"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/AK0408/S00001/publication-of-councillors-salaries.htm
+title: Publication of Councillors Salaries
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0408/S00001/publication-of-councillors-salaries.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/08/02/publication-of-councillors-salaries/index.html
+layout: layout.njk
 ---
 Publication of Councillors Salaries
 ===================================

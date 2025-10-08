@@ -1,9 +1,12 @@
 ---
 slug: outspoken-uk-military-thinker-at-wwi-conference
-title: "Outspoken UK military thinker at WWI conference"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/ED1407/S00007/outspoken-uk-military-thinker-at-wwi-conference.htm
+title: Outspoken UK military thinker at WWI conference
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00007/outspoken-uk-military-thinker-at-wwi-conference.htm
 author: massey-university
+permalink: /archive/2014/07/01/outspoken-uk-military-thinker-at-wwi-conference/index.html
+layout: layout.njk
 ---
 Outspoken UK military thinker at WWI conference
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: chris-penk-mp-maiden-speech
-title: "Chris Penk MP: Maiden speech"
-date: 2017-11-14
+title: 'Chris Penk MP: Maiden speech'
+date: 2017-11-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1711/S00090/chris-penk-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/chris-penk-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Chris Penk MP: Maiden speech
 ============================

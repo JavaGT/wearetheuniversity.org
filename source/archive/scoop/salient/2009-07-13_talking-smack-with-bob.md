@@ -1,9 +1,11 @@
 ---
 slug: talking-smack-with-bob
-title: "Talking Smack With Bob"
-date: 2009-07-13
+title: Talking Smack With Bob
+date: 2009-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0907/S00138/talking-smack-with-bob.htm
 author: salient
+permalink: /archive/2009/07/13/talking-smack-with-bob/index.html
+layout: layout.njk
 ---
 Talking Smack With Bob
 ======================

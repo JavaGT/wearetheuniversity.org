@@ -1,9 +1,11 @@
 ---
 slug: notice-of-motion-norway
-title: "Notice of Motion : Norway"
-date: 2011-08-02
+title: 'Notice of Motion : Norway'
+date: 2011-08-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1108/S00039/notice-of-motion-norway.htm
 author: te-pati-maori
+permalink: /archive/2011/08/02/notice-of-motion-norway/index.html
+layout: layout.njk
 ---
 Notice of Motion : Norway
 =========================

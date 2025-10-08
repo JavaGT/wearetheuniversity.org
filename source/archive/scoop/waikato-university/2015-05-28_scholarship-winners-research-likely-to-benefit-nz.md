@@ -1,9 +1,13 @@
 ---
 slug: scholarship-winners-research-likely-to-benefit-nz
-title: "Scholarship winner’s research likely to benefit NZ"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/ED1505/S00105/scholarship-winners-research-likely-to-benefit-nz.htm
+title: Scholarship winner’s research likely to benefit NZ
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00105/scholarship-winners-research-likely-to-benefit-nz.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/05/28/scholarship-winners-research-likely-to-benefit-nz/index.html
+layout: layout.njk
 ---
 Scholarship winner’s research likely to benefit NZ
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: silver-in-slalom-for-kiwi-adam-hall
-title: "Silver in Slalom for Kiwi Adam Hall"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/PA0902/S00366/silver-in-slalom-for-kiwi-adam-hall.htm
+title: Silver in Slalom for Kiwi Adam Hall
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00366/silver-in-slalom-for-kiwi-adam-hall.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/24/silver-in-slalom-for-kiwi-adam-hall/index.html
+layout: layout.njk
 ---
 Silver in Slalom for Kiwi Adam Hall
 ===================================

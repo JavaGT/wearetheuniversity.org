@@ -1,9 +1,13 @@
 ---
 slug: tolley-turning-blind-eye-to-school-mortgage-demand
-title: "Tolley turning blind eye to school mortgage demand"
-date: 2009-07-14
-source-url: https://www.scoop.co.nz/stories/PA0907/S00166/tolley-turning-blind-eye-to-school-mortgage-demand.htm
+title: Tolley turning blind eye to school mortgage demand
+date: 2009-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00166/tolley-turning-blind-eye-to-school-mortgage-demand.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/07/14/tolley-turning-blind-eye-to-school-mortgage-demand/index.html
+layout: layout.njk
 ---
 Tolley turning blind eye to school mortgage demand
 ==================================================

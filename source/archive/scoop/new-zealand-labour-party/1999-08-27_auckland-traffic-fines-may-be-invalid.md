@@ -1,9 +1,12 @@
 ---
 slug: auckland-traffic-fines-may-be-invalid
-title: "Auckland traffic fines may be invalid"
-date: 1999-08-27
-source-url: https://www.scoop.co.nz/stories/PA9908/S00483/auckland-traffic-fines-may-be-invalid.htm
+title: Auckland traffic fines may be invalid
+date: 1999-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00483/auckland-traffic-fines-may-be-invalid.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/27/auckland-traffic-fines-may-be-invalid/index.html
+layout: layout.njk
 ---
 Auckland traffic fines may be invalid
 =====================================

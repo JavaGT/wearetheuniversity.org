@@ -1,9 +1,12 @@
 ---
 slug: christchurch-māori-health-researcher-on-hrc-board
-title: "Christchurch Māori health researcher on HRC board"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/GE1507/S00005/christchurch-maori-health-researcher-on-hrc-board.htm
+title: Christchurch Māori health researcher on HRC board
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1507/S00005/christchurch-maori-health-researcher-on-hrc-board.htm
 author: university-of-otago
+permalink: /archive/2015/07/01/christchurch-m/index.html
+layout: layout.njk
 ---
 Christchurch Māori health researcher on HRC board
 =================================================

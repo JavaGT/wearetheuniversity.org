@@ -1,9 +1,13 @@
 ---
 slug: cuts-see-health-staff-rack-up-millions-of-annual-leave-hours
-title: "Cuts see health staff rack up millions of annual leave hours"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/PA1601/S00045/cuts-see-health-staff-rack-up-millions-of-annual-leave-hours.htm
+title: Cuts see health staff rack up millions of annual leave hours
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00045/cuts-see-health-staff-rack-up-millions-of-annual-leave-hours.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/01/18/cuts-see-health-staff-rack-up-millions-of-annual-leave-hours/index.html
+layout: layout.njk
 ---
 Cuts see health staff rack up millions of annual leave hours
 ============================================================

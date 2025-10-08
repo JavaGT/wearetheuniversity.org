@@ -1,9 +1,11 @@
 ---
 slug: otagos-finest-recognised
-title: "Otago’s Finest Recognised"
-date: 2012-10-05
+title: Otago’s Finest Recognised
+date: 2012-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1210/S00041/otagos-finest-recognised.htm
 author: ousa
+permalink: /archive/2012/10/05/otagos-finest-recognised/index.html
+layout: layout.njk
 ---
 Otago’s Finest Recognised
 =========================

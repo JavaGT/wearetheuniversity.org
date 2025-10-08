@@ -1,9 +1,12 @@
 ---
 slug: wedding-date-put-back-at-least-two-more-days
-title: "Wedding date put back at least two more days"
-date: 2001-03-13
-source-url: https://www.scoop.co.nz/stories/PA0103/S00207/wedding-date-put-back-at-least-two-more-days.htm
+title: Wedding date put back at least two more days
+date: 2001-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00207/wedding-date-put-back-at-least-two-more-days.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/13/wedding-date-put-back-at-least-two-more-days/index.html
+layout: layout.njk
 ---
 Wedding date put back at least two more days
 ============================================

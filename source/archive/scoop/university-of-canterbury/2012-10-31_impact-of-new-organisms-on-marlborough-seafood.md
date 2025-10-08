@@ -1,9 +1,12 @@
 ---
 slug: impact-of-new-organisms-on-marlborough-seafood
-title: "Impact of new organisms on Marlborough seafood"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/SC1210/S00060/impact-of-new-organisms-on-marlborough-seafood.htm
+title: Impact of new organisms on Marlborough seafood
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00060/impact-of-new-organisms-on-marlborough-seafood.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/31/impact-of-new-organisms-on-marlborough-seafood/index.html
+layout: layout.njk
 ---
 Impact of new organisms on Marlborough seafood
 ==============================================

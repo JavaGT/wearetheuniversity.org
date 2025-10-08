@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-outraged-by-mass-arrests
-title: "Victoria students outraged by mass arrests"
-date: 2003-10-08
-source-url: https://www.scoop.co.nz/stories/ED0310/S00027/victoria-students-outraged-by-mass-arrests.htm
+title: Victoria students outraged by mass arrests
+date: 2003-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00027/victoria-students-outraged-by-mass-arrests.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/08/victoria-students-outraged-by-mass-arrests/index.html
+layout: layout.njk
 ---
 Victoria students outraged by mass arrests
 ==========================================

@@ -1,8 +1,11 @@
 ---
 slug: power-outage-at-city-campus
-title: "Power outage at City campus"
-date: 2017-02-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/power-outage-at-city-campus.html
+title: Power outage at City campus
+date: 2017-02-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/power-outage-at-city-campus.html
+permalink: /archive/2017/02/10/power-outage-at-city-campus/index.html
+layout: layout.njk
 ---
 Power outage at City campus
 ===========================

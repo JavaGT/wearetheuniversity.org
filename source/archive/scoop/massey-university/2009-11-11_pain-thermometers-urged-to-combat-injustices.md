@@ -1,9 +1,12 @@
 ---
 slug: pain-thermometers-urged-to-combat-injustices
-title: "'Pain thermometers' urged to combat injustices"
-date: 2009-11-11
-source-url: https://www.scoop.co.nz/stories/ED0911/S00046/pain-thermometers-urged-to-combat-injustices.htm
+title: '''Pain thermometers'' urged to combat injustices'
+date: 2009-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00046/pain-thermometers-urged-to-combat-injustices.htm
 author: massey-university
+permalink: /archive/2009/11/11/pain-thermometers-urged-to-combat-injustices/index.html
+layout: layout.njk
 ---
 'Pain thermometers' urged to combat injustices
 ==============================================

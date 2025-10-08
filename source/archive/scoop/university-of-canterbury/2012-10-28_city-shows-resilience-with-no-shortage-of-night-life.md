@@ -1,9 +1,13 @@
 ---
 slug: city-shows-resilience-with-no-shortage-of-night-life
-title: "City shows resilience with no shortage of night life"
-date: 2012-10-28
-source-url: https://www.scoop.co.nz/stories/AK1210/S00727/city-shows-resilience-with-no-shortage-of-night-life.htm
+title: City shows resilience with no shortage of night life
+date: 2012-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00727/city-shows-resilience-with-no-shortage-of-night-life.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/28/city-shows-resilience-with-no-shortage-of-night-life/index.html
+layout: layout.njk
 ---
 City shows resilience with no shortage of night life
 ====================================================

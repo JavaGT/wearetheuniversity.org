@@ -1,9 +1,12 @@
 ---
 slug: protecting-traditional-knowledge
-title: "Protecting traditional knowledge"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/CU1212/S00320/protecting-traditional-knowledge.htm
+title: Protecting traditional knowledge
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00320/protecting-traditional-knowledge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/20/protecting-traditional-knowledge/index.html
+layout: layout.njk
 ---
 Protecting traditional knowledge
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: sharing-social-work-supervision-research-with-singapore
-title: "Sharing social work supervision research with Singapore"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/ED1505/S00058/sharing-social-work-supervision-research-with-singapore.htm
+title: Sharing social work supervision research with Singapore
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00058/sharing-social-work-supervision-research-with-singapore.htm
 author: massey-university
+permalink: >-
+  /archive/2015/05/13/sharing-social-work-supervision-research-with-singapore/index.html
+layout: layout.njk
 ---
 Sharing social work supervision research with Singapore
 =======================================================

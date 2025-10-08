@@ -1,9 +1,13 @@
 ---
 slug: meat-works-jobs-for-foreign-holiday-workers-not-on
-title: "Meat Works Jobs For Foreign Holiday Workers Not On"
-date: 2016-01-20
-source-url: https://www.scoop.co.nz/stories/PA1601/S00061/meat-works-jobs-for-foreign-holiday-workers-not-on.htm
+title: Meat Works Jobs For Foreign Holiday Workers Not On
+date: 2016-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00061/meat-works-jobs-for-foreign-holiday-workers-not-on.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/01/20/meat-works-jobs-for-foreign-holiday-workers-not-on/index.html
+layout: layout.njk
 ---
 Meat Works Jobs For Foreign Holiday Workers Not On
 ==================================================

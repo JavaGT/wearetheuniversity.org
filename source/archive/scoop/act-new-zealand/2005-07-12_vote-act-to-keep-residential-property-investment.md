@@ -1,9 +1,13 @@
 ---
 slug: vote-act-to-keep-residential-property-investment
-title: "Vote ACT to keep residential property investment"
-date: 2005-07-12
-source-url: https://www.scoop.co.nz/stories/PA0507/S00255/vote-act-to-keep-residential-property-investment.htm
+title: Vote ACT to keep residential property investment
+date: 2005-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00255/vote-act-to-keep-residential-property-investment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/07/12/vote-act-to-keep-residential-property-investment/index.html
+layout: layout.njk
 ---
 Vote ACT to keep residential property investment
 ================================================

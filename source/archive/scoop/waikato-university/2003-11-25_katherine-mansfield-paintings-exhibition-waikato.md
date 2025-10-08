@@ -1,9 +1,13 @@
 ---
 slug: katherine-mansfield-paintings-exhibition-waikato
-title: "Katherine Mansfield Paintings Exhibition Waikato"
-date: 2003-11-25
-source-url: https://www.scoop.co.nz/stories/ED0311/S00081/katherine-mansfield-paintings-exhibition-waikato.htm
+title: Katherine Mansfield Paintings Exhibition Waikato
+date: 2003-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00081/katherine-mansfield-paintings-exhibition-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/11/25/katherine-mansfield-paintings-exhibition-waikato/index.html
+layout: layout.njk
 ---
 Katherine Mansfield Paintings Exhibition Waikato
 ================================================

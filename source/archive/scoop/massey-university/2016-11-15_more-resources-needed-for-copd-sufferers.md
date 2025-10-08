@@ -1,9 +1,12 @@
 ---
 slug: more-resources-needed-for-copd-sufferers
-title: "More resources needed for COPD sufferers"
-date: 2016-11-15
-source-url: https://www.scoop.co.nz/stories/GE1611/S00058/more-resources-needed-for-copd-sufferers.htm
+title: More resources needed for COPD sufferers
+date: 2016-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00058/more-resources-needed-for-copd-sufferers.htm
 author: massey-university
+permalink: /archive/2016/11/15/more-resources-needed-for-copd-sufferers/index.html
+layout: layout.njk
 ---
 More resources needed for COPD sufferers
 ========================================

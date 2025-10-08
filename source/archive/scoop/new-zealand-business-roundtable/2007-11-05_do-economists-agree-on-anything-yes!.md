@@ -1,9 +1,12 @@
 ---
 slug: do-economists-agree-on-anything-yes!
-title: "Do Economists Agree on Anything? Yes!"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/BU0711/S00080/do-economists-agree-on-anything-yes.htm
+title: Do Economists Agree on Anything? Yes!
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00080/do-economists-agree-on-anything-yes.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/11/05/do-economists-agree-on-anything-yes/index.html
+layout: layout.njk
 ---
 Do Economists Agree on Anything? Yes!
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: no-plan-to-deal-with-economy-in-trouble
-title: "No plan to deal with economy in trouble"
-date: 2011-04-10
-source-url: https://www.scoop.co.nz/stories/PA1104/S00191/no-plan-to-deal-with-economy-in-trouble.htm
+title: No plan to deal with economy in trouble
+date: 2011-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00191/no-plan-to-deal-with-economy-in-trouble.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/10/no-plan-to-deal-with-economy-in-trouble/index.html
+layout: layout.njk
 ---
 No plan to deal with economy in trouble
 =======================================

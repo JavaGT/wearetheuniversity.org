@@ -1,9 +1,12 @@
 ---
 slug: oecd-report-endorses-acts-policies
-title: "OECD Report Endorses Act's Policies"
-date: 2002-05-03
-source-url: https://www.scoop.co.nz/stories/PA0205/S00085/oecd-report-endorses-acts-policies.htm
+title: OECD Report Endorses Act's Policies
+date: 2002-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00085/oecd-report-endorses-acts-policies.htm
 author: act-new-zealand
+permalink: /archive/2002/05/03/oecd-report-endorses-acts-policies/index.html
+layout: layout.njk
 ---
 OECD Report Endorses Act's Policies
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: meeting-to-discuss-sustainable-energy-solutions
-title: "Meeting to discuss sustainable energy solutions"
-date: 2003-06-05
-source-url: https://www.scoop.co.nz/stories/PA0306/S00056/meeting-to-discuss-sustainable-energy-solutions.htm
+title: Meeting to discuss sustainable energy solutions
+date: 2003-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00056/meeting-to-discuss-sustainable-energy-solutions.htm
 author: green-party
+permalink: /archive/2003/06/05/meeting-to-discuss-sustainable-energy-solutions/index.html
+layout: layout.njk
 ---
 Meeting to discuss sustainable energy solutions
 ===============================================

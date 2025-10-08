@@ -1,9 +1,12 @@
 ---
 slug: pm-says-to-australia;-we-dont-care-what-you-think
-title: "PM says to Australia; We don't care what you think"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/PA0002/S00334/pm-says-to-australia-we-dont-care-what-you-think.htm
+title: PM says to Australia; We don't care what you think
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00334/pm-says-to-australia-we-dont-care-what-you-think.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/24/pm-says-to-australia/index.html
+layout: layout.njk
 ---
 PM says to Australia; We don't care what you think
 ==================================================

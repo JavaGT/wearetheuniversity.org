@@ -1,9 +1,13 @@
 ---
 slug: university-announces-next-dean-of-otago-business-school
-title: "University announces next Dean of Otago Business School"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/ED1607/S00070/university-announces-next-dean-of-otago-business-school.htm
+title: University announces next Dean of Otago Business School
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00070/university-announces-next-dean-of-otago-business-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/18/university-announces-next-dean-of-otago-business-school/index.html
+layout: layout.njk
 ---
 University announces next Dean of Otago Business School
 =======================================================

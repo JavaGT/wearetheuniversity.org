@@ -1,9 +1,13 @@
 ---
 slug: another-case-of-pay-hypocrisy-from-the-government
-title: "Another case of pay hypocrisy from the Government"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/PA1511/S00332/another-case-of-pay-hypocrisy-from-the-government.htm
+title: Another case of pay hypocrisy from the Government
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00332/another-case-of-pay-hypocrisy-from-the-government.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/18/another-case-of-pay-hypocrisy-from-the-government/index.html
+layout: layout.njk
 ---
 Another case of pay hypocrisy from the Government
 =================================================

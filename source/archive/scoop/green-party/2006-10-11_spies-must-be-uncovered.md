@@ -1,9 +1,11 @@
 ---
 slug: spies-must-be-uncovered
-title: "Spies must be uncovered"
-date: 2006-10-11
+title: Spies must be uncovered
+date: 2006-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00177/spies-must-be-uncovered.htm
 author: green-party
+permalink: /archive/2006/10/11/spies-must-be-uncovered/index.html
+layout: layout.njk
 ---
 Spies must be uncovered
 =======================

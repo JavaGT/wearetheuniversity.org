@@ -1,9 +1,12 @@
 ---
 slug: social-and-safety-focus-for-design-student-expo
-title: "Social and safety focus for design student expo"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/ED1111/S00057/social-and-safety-focus-for-design-student-expo.htm
+title: Social and safety focus for design student expo
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00057/social-and-safety-focus-for-design-student-expo.htm
 author: massey-university
+permalink: /archive/2011/11/08/social-and-safety-focus-for-design-student-expo/index.html
+layout: layout.njk
 ---
 Social and safety focus for design student expo
 ===============================================

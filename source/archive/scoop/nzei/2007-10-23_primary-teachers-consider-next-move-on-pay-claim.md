@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-consider-next-move-on-pay-claim
-title: "Primary teachers consider next move on pay claim"
-date: 2007-10-23
-source-url: https://www.scoop.co.nz/stories/ED0710/S00070/primary-teachers-consider-next-move-on-pay-claim.htm
+title: Primary teachers consider next move on pay claim
+date: 2007-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00070/primary-teachers-consider-next-move-on-pay-claim.htm
 author: nzei
+permalink: >-
+  /archive/2007/10/23/primary-teachers-consider-next-move-on-pay-claim/index.html
+layout: layout.njk
 ---
 Primary teachers consider next move on pay claim
 ================================================

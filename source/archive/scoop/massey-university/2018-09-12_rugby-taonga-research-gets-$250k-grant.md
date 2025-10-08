@@ -1,9 +1,12 @@
 ---
 slug: rugby-taonga-research-gets-$250k-grant
-title: "Rugby taonga research gets $250K grant"
-date: 2018-09-12
-source-url: https://www.scoop.co.nz/stories/ED1809/S00027/rugby-taonga-research-gets-250k-grant.htm
+title: Rugby taonga research gets $250K grant
+date: 2018-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00027/rugby-taonga-research-gets-250k-grant.htm
 author: massey-university
+permalink: /archive/2018/09/12/rugby-taonga-research-gets-/index.html
+layout: layout.njk
 ---
 Rugby taonga research gets $250K grant
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: what-workplace-emails-reveal-about-culture
-title: "What workplace emails reveal about culture"
-date: 2015-01-08
-source-url: https://www.scoop.co.nz/stories/ED1501/S00011/what-workplace-emails-reveal-about-culture.htm
+title: What workplace emails reveal about culture
+date: 2015-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00011/what-workplace-emails-reveal-about-culture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/01/08/what-workplace-emails-reveal-about-culture/index.html
+layout: layout.njk
 ---
 What workplace emails reveal about culture
 ==========================================

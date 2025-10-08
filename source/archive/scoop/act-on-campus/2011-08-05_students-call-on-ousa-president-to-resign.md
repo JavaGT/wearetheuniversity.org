@@ -1,9 +1,12 @@
 ---
 slug: students-call-on-ousa-president-to-resign
-title: "Students Call on OUSA President to Resign"
-date: 2011-08-05
-source-url: https://www.scoop.co.nz/stories/ED1108/S00039/students-call-on-ousa-president-to-resign.htm
+title: Students Call on OUSA President to Resign
+date: 2011-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00039/students-call-on-ousa-president-to-resign.htm
 author: act-on-campus
+permalink: /archive/2011/08/05/students-call-on-ousa-president-to-resign/index.html
+layout: layout.njk
 ---
 Students Call on OUSA President to Resign
 =========================================

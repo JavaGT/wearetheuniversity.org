@@ -1,9 +1,12 @@
 ---
 slug: nz-super-only-safe-with-nz-first
-title: "NZ Super Only Safe with NZ First"
-date: 2017-03-05
-source-url: https://www.scoop.co.nz/stories/PA1703/S00065/nz-super-only-safe-with-nz-first.htm
+title: NZ Super Only Safe with NZ First
+date: 2017-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00065/nz-super-only-safe-with-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2017/03/05/nz-super-only-safe-with-nz-first/index.html
+layout: layout.njk
 ---
 NZ Super Only Safe with NZ First
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-fails-southern-cross-forest-workers
-title: "Govt fails Southern Cross Forest workers"
-date: 2014-04-24
-source-url: https://www.scoop.co.nz/stories/PA1404/S00386/govt-fails-southern-cross-forest-workers.htm
+title: Govt fails Southern Cross Forest workers
+date: 2014-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00386/govt-fails-southern-cross-forest-workers.htm
 author: green-party
+permalink: /archive/2014/04/24/govt-fails-southern-cross-forest-workers/index.html
+layout: layout.njk
 ---
 Govt fails Southern Cross Forest workers
 ========================================

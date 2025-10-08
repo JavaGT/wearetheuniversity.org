@@ -1,9 +1,13 @@
 ---
 slug: government-continues-to-hide-over-canterbury-legislation
-title: "Government continues to hide over Canterbury legislation"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00423/government-continues-to-hide-over-canterbury-legislation.htm
+title: Government continues to hide over Canterbury legislation
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00423/government-continues-to-hide-over-canterbury-legislation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/22/government-continues-to-hide-over-canterbury-legislation/index.html
+layout: layout.njk
 ---
 Government continues to hide over Canterbury legislation
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-must-follow-eu-on-ge-labelling
-title: "NZ must follow EU on GE labelling"
-date: 2003-07-03
-source-url: https://www.scoop.co.nz/stories/PA0307/S00068/nz-must-follow-eu-on-ge-labelling.htm
+title: NZ must follow EU on GE labelling
+date: 2003-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00068/nz-must-follow-eu-on-ge-labelling.htm
 author: green-party
+permalink: /archive/2003/07/03/nz-must-follow-eu-on-ge-labelling/index.html
+layout: layout.njk
 ---
 NZ must follow EU on GE labelling
 =================================

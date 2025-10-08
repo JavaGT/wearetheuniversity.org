@@ -1,9 +1,12 @@
 ---
 slug: student-loan-problems-are-not-sexist-problems!!
-title: "Student Loan Problems Are Not Sexist Problems!!"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/ED0309/S00028/student-loan-problems-are-not-sexist-problems.htm
+title: Student Loan Problems Are Not Sexist Problems!!
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00028/student-loan-problems-are-not-sexist-problems.htm
 author: new-zealand-young-nationals
+permalink: /archive/2003/09/09/student-loan-problems-are-not-sexist-problems/index.html
+layout: layout.njk
 ---
 Student Loan Problems Are Not Sexist Problems!!
 ===============================================

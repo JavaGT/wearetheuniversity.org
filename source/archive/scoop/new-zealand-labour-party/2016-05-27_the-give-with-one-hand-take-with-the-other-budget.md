@@ -1,9 +1,13 @@
 ---
 slug: the-give-with-one-hand-take-with-the-other-budget
-title: "The give with one hand – take with the other Budget"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/PA1605/S00573/the-give-with-one-hand-take-with-the-other-budget.htm
+title: The give with one hand – take with the other Budget
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00573/the-give-with-one-hand-take-with-the-other-budget.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/27/the-give-with-one-hand-take-with-the-other-budget/index.html
+layout: layout.njk
 ---
 The give with one hand – take with the other Budget
 ===================================================

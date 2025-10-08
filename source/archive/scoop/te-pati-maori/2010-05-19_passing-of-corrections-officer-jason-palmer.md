@@ -1,9 +1,12 @@
 ---
 slug: passing-of-corrections-officer-jason-palmer
-title: "Passing of Corrections Officer, Jason Palmer"
-date: 2010-05-19
-source-url: https://www.scoop.co.nz/stories/PA1005/S00260/passing-of-corrections-officer-jason-palmer.htm
+title: Passing of Corrections Officer, Jason Palmer
+date: 2010-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00260/passing-of-corrections-officer-jason-palmer.htm
 author: te-pati-maori
+permalink: /archive/2010/05/19/passing-of-corrections-officer-jason-palmer/index.html
+layout: layout.njk
 ---
 Passing of Corrections Officer, Jason Palmer
 ============================================

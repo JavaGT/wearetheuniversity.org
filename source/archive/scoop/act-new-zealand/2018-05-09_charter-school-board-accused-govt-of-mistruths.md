@@ -1,9 +1,12 @@
 ---
 slug: charter-school-board-accused-govt-of-mistruths
-title: "Charter school board accused Govt of \"mistruths\""
-date: 2018-05-09
-source-url: https://www.scoop.co.nz/stories/PA1805/S00109/charter-school-board-accused-govt-of-mistruths.htm
+title: Charter school board accused Govt of "mistruths"
+date: 2018-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00109/charter-school-board-accused-govt-of-mistruths.htm
 author: act-new-zealand
+permalink: /archive/2018/05/09/charter-school-board-accused-govt-of-mistruths/index.html
+layout: layout.njk
 ---
 Charter school board accused Govt of \"mistruths"
 ================================================

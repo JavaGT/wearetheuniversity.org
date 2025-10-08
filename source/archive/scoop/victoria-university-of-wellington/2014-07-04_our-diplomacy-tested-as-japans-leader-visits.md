@@ -1,9 +1,12 @@
 ---
 slug: our-diplomacy-tested-as-japans-leader-visits
-title: "Our diplomacy tested as Japan’s leader visits"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PO1407/S00092/our-diplomacy-tested-as-japans-leader-visits.htm
+title: Our diplomacy tested as Japan’s leader visits
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00092/our-diplomacy-tested-as-japans-leader-visits.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/04/our-diplomacy-tested-as-japans-leader-visits/index.html
+layout: layout.njk
 ---
 Our diplomacy tested as Japan’s leader visits
 =============================================

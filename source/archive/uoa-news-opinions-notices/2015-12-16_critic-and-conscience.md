@@ -1,8 +1,11 @@
 ---
 slug: critic-and-conscience
-title: "Critic and conscience"
-date: 2015-12-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/professor-jane-kelsey---critic-and-conscience.html
+title: Critic and conscience
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/professor-jane-kelsey---critic-and-conscience.html
+permalink: /archive/2015/12/16/critic-and-conscience/index.html
+layout: layout.njk
 ---
 Critic and conscience
 =====================

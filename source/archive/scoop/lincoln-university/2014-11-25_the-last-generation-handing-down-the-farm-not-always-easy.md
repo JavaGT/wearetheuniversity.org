@@ -1,9 +1,13 @@
 ---
 slug: the-last-generation-handing-down-the-farm-not-always-easy
-title: "The last generation: Handing down the farm not always easy"
-date: 2014-11-25
-source-url: https://www.scoop.co.nz/stories/ED1411/S00149/the-last-generation-handing-down-the-farm-not-always-easy.htm
+title: 'The last generation: Handing down the farm not always easy'
+date: 2014-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00149/the-last-generation-handing-down-the-farm-not-always-easy.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/11/25/the-last-generation-handing-down-the-farm-not-always-easy/index.html
+layout: layout.njk
 ---
 The last generation: Handing down the farm not always easy
 ==========================================================

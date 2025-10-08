@@ -1,8 +1,11 @@
 ---
 slug: most-older-people-independent-in-self-care
-title: "Most older people independent in self-care"
-date: 2015-09-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/most-older-people-independent-in-self-care.html
+title: Most older people independent in self-care
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/most-older-people-independent-in-self-care.html
+permalink: /archive/2015/09/29/most-older-people-independent-in-self-care/index.html
+layout: layout.njk
 ---
 Most older people independent in self-care
 ==========================================

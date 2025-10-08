@@ -1,9 +1,12 @@
 ---
 slug: budget-fails-to-deliver-for-tauranga
-title: "Budget Fails To Deliver For Tauranga"
-date: 2001-05-25
-source-url: https://www.scoop.co.nz/stories/PA0105/S00551/budget-fails-to-deliver-for-tauranga.htm
+title: Budget Fails To Deliver For Tauranga
+date: 2001-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00551/budget-fails-to-deliver-for-tauranga.htm
 author: new-zealand-first-party
+permalink: /archive/2001/05/25/budget-fails-to-deliver-for-tauranga/index.html
+layout: layout.njk
 ---
 Budget Fails To Deliver For Tauranga
 ====================================

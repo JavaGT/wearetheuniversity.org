@@ -1,9 +1,12 @@
 ---
 slug: the-one-research-study-to-rule-them-all
-title: "The one research study to rule them all"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/CU1211/S00282/the-one-research-study-to-rule-them-all.htm
+title: The one research study to rule them all
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00282/the-one-research-study-to-rule-them-all.htm
 author: university-of-waikato
+permalink: /archive/2012/11/14/the-one-research-study-to-rule-them-all/index.html
+layout: layout.njk
 ---
 The one research study to rule them all
 =======================================

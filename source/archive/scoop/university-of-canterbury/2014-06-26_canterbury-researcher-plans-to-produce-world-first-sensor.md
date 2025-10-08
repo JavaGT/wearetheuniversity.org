@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researcher-plans-to-produce-world-first-sensor
-title: "Canterbury researcher plans to produce world first sensor"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/SC1406/S00068/canterbury-researcher-plans-to-produce-world-first-sensor.htm
+title: Canterbury researcher plans to produce world first sensor
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00068/canterbury-researcher-plans-to-produce-world-first-sensor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/26/canterbury-researcher-plans-to-produce-world-first-sensor/index.html
+layout: layout.njk
 ---
 Canterbury researcher plans to produce world first sensor
 =========================================================

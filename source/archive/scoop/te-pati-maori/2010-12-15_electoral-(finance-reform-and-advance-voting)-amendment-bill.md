@@ -1,9 +1,12 @@
 ---
 slug: electoral-(finance-reform-and-advance-voting)-amendment-bill
-title: "Electoral (Finance Reform and Advance Voting) Amendment Bill"
-date: 2010-12-15
-source-url: https://www.scoop.co.nz/stories/PA1012/S00296/electoral-finance-reform-and-advance-voting-amendment-bill.htm
+title: Electoral (Finance Reform and Advance Voting) Amendment Bill
+date: 2010-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00296/electoral-finance-reform-and-advance-voting-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/12/15/electoral-/index.html
+layout: layout.njk
 ---
 Electoral (Finance Reform and Advance Voting) Amendment Bill
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: deputy-pm-to-close-entrepreneurial-summit
-title: "Deputy PM to close Entrepreneurial Summit"
-date: 2009-05-05
-source-url: https://www.scoop.co.nz/stories/BU0905/S00132/deputy-pm-to-close-entrepreneurial-summit.htm
+title: Deputy PM to close Entrepreneurial Summit
+date: 2009-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00132/deputy-pm-to-close-entrepreneurial-summit.htm
 author: aut-university
+permalink: /archive/2009/05/05/deputy-pm-to-close-entrepreneurial-summit/index.html
+layout: layout.njk
 ---
 Deputy PM to close Entrepreneurial Summit
 =========================================

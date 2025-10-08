@@ -1,9 +1,13 @@
 ---
 slug: multi-media-artist-tom-dale-wins-wellington-residency
-title: "Multi-Media Artist Tom Dale Wins Wellington Residency"
-date: 2017-11-09
-source-url: https://www.scoop.co.nz/stories/CU1711/S00168/multi-media-artist-tom-dale-wins-wellington-residency.htm
+title: Multi-Media Artist Tom Dale Wins Wellington Residency
+date: 2017-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00168/multi-media-artist-tom-dale-wins-wellington-residency.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/09/multi-media-artist-tom-dale-wins-wellington-residency/index.html
+layout: layout.njk
 ---
 Multi-Media Artist Tom Dale Wins Wellington Residency
 =====================================================

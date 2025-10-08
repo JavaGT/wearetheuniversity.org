@@ -1,9 +1,12 @@
 ---
 slug: tuatara-tourism-and-tangata-whenua
-title: "Tuatara tourism and tangata whenua"
-date: 2006-03-30
-source-url: https://www.scoop.co.nz/stories/ED0603/S00088/tuatara-tourism-and-tangata-whenua.htm
+title: Tuatara tourism and tangata whenua
+date: 2006-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00088/tuatara-tourism-and-tangata-whenua.htm
 author: massey-university
+permalink: /archive/2006/03/30/tuatara-tourism-and-tangata-whenua/index.html
+layout: layout.njk
 ---
 Tuatara tourism and tangata whenua
 ==================================

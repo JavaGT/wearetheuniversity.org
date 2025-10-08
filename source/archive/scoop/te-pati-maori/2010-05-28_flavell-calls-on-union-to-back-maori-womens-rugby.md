@@ -1,9 +1,13 @@
 ---
 slug: flavell-calls-on-union-to-back-maori-womens-rugby
-title: "Flavell calls on union to back Maori women's rugby"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/PA1005/S00480/flavell-calls-on-union-to-back-maori-womens-rugby.htm
+title: Flavell calls on union to back Maori women's rugby
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00480/flavell-calls-on-union-to-back-maori-womens-rugby.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/05/28/flavell-calls-on-union-to-back-maori-womens-rugby/index.html
+layout: layout.njk
 ---
 Flavell calls on union to back Maori women's rugby
 ==================================================

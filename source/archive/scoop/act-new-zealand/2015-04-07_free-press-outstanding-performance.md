@@ -1,9 +1,12 @@
 ---
 slug: free-press-outstanding-performance
-title: "Free Press: Outstanding Performance"
-date: 2015-04-07
-source-url: https://www.scoop.co.nz/stories/PA1504/S00074/free-press-outstanding-performance.htm
+title: 'Free Press: Outstanding Performance'
+date: 2015-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00074/free-press-outstanding-performance.htm
 author: act-new-zealand
+permalink: /archive/2015/04/07/free-press-outstanding-performance/index.html
+layout: layout.njk
 ---
 Free Press: Outstanding Performance
 ===================================

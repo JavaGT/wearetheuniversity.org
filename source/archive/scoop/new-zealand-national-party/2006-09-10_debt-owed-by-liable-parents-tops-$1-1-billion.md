@@ -1,9 +1,12 @@
 ---
 slug: debt-owed-by-liable-parents-tops-$1-1-billion
-title: "Debt owed by liable parents tops $1.1 billion"
-date: 2006-09-10
-source-url: https://www.scoop.co.nz/stories/PA0609/S00226/debt-owed-by-liable-parents-tops-11-billion.htm
+title: Debt owed by liable parents tops $1.1 billion
+date: 2006-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00226/debt-owed-by-liable-parents-tops-11-billion.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/10/debt-owed-by-liable-parents-tops-/index.html
+layout: layout.njk
 ---
 Debt owed by liable parents tops $1.1 billion
 =============================================

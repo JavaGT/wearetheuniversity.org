@@ -1,9 +1,12 @@
 ---
 slug: heather-roy´s-diary-industrial-inaction
-title: "Heather Roy´s Diary: Industrial Inaction"
-date: 2010-10-22
-source-url: https://www.scoop.co.nz/stories/PA1010/S00401/heather-roys-diary-industrial-inaction.htm
+title: 'Heather Roy´s Diary: Industrial Inaction'
+date: 2010-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00401/heather-roys-diary-industrial-inaction.htm
 author: act-new-zealand
+permalink: /archive/2010/10/22/heather-roy/index.html
+layout: layout.njk
 ---
 Heather Roy´s Diary: Industrial Inaction
 ========================================

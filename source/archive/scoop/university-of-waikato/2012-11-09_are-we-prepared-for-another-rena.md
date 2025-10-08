@@ -1,9 +1,12 @@
 ---
 slug: are-we-prepared-for-another-rena
-title: "Are we prepared for another Rena?"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/ED1211/S00073/are-we-prepared-for-another-rena.htm
+title: Are we prepared for another Rena?
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00073/are-we-prepared-for-another-rena.htm
 author: university-of-waikato
+permalink: /archive/2012/11/09/are-we-prepared-for-another-rena/index.html
+layout: layout.njk
 ---
 Are we prepared for another Rena?
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-comes-clean-on-90-day-trial-periods
-title: "Minister comes clean on 90 day trial periods"
-date: 2010-10-14
-source-url: https://www.scoop.co.nz/stories/PA1010/S00246/minister-comes-clean-on-90-day-trial-periods.htm
+title: Minister comes clean on 90 day trial periods
+date: 2010-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00246/minister-comes-clean-on-90-day-trial-periods.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/14/minister-comes-clean-on-90-day-trial-periods/index.html
+layout: layout.njk
 ---
 Minister comes clean on 90 day trial periods
 ============================================

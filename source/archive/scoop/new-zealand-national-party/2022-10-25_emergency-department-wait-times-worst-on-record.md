@@ -1,9 +1,12 @@
 ---
 slug: emergency-department-wait-times-worst-on-record
-title: "Emergency Department Wait Times Worst On Record"
-date: 2022-10-25
-source-url: https://www.scoop.co.nz/stories/PA2210/S00174/emergency-department-wait-times-worst-on-record.htm
+title: Emergency Department Wait Times Worst On Record
+date: 2022-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00174/emergency-department-wait-times-worst-on-record.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/25/emergency-department-wait-times-worst-on-record/index.html
+layout: layout.njk
 ---
 Emergency Department Wait Times Worst On Record
 ===============================================

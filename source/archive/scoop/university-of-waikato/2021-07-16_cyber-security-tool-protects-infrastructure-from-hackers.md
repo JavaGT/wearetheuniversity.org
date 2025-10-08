@@ -1,9 +1,13 @@
 ---
 slug: cyber-security-tool-protects-infrastructure-from-hackers
-title: "Cyber Security Tool Protects Infrastructure From Hackers"
-date: 2021-07-16
-source-url: https://www.scoop.co.nz/stories/SC2107/S00041/cyber-security-tool-protects-infrastructure-from-hackers.htm
+title: Cyber Security Tool Protects Infrastructure From Hackers
+date: 2021-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00041/cyber-security-tool-protects-infrastructure-from-hackers.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/07/16/cyber-security-tool-protects-infrastructure-from-hackers/index.html
+layout: layout.njk
 ---
 Cyber Security Tool Protects Infrastructure From Hackers
 ========================================================

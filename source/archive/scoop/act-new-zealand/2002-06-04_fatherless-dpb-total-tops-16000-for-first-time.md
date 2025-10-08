@@ -1,9 +1,12 @@
 ---
 slug: fatherless-dpb-total-tops-16000-for-first-time
-title: "Fatherless DPB Total Tops 16,000 for First Time"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PA0206/S00007/fatherless-dpb-total-tops-16000-for-first-time.htm
+title: Fatherless DPB Total Tops 16,000 for First Time
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00007/fatherless-dpb-total-tops-16000-for-first-time.htm
 author: act-new-zealand
+permalink: /archive/2002/06/04/fatherless-dpb-total-tops-16000-for-first-time/index.html
+layout: layout.njk
 ---
 Fatherless DPB Total Tops 16,000 for First Time
 ===============================================

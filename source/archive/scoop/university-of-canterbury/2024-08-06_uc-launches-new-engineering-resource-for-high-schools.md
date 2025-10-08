@@ -1,9 +1,13 @@
 ---
 slug: uc-launches-new-engineering-resource-for-high-schools
-title: "UC Launches New Engineering Resource For High Schools"
-date: 2024-08-06
-source-url: https://www.scoop.co.nz/stories/ED2408/S00010/uc-launches-new-engineering-resource-for-high-schools.htm
+title: UC Launches New Engineering Resource For High Schools
+date: 2024-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00010/uc-launches-new-engineering-resource-for-high-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/06/uc-launches-new-engineering-resource-for-high-schools/index.html
+layout: layout.njk
 ---
 UC Launches New Engineering Resource For High Schools
 =====================================================

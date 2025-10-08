@@ -1,9 +1,12 @@
 ---
 slug: new-masters-degree-a-new-zealand-first
-title: "New Masters degree - a New Zealand first"
-date: 2004-11-03
-source-url: https://www.scoop.co.nz/stories/ED0411/S00010/new-masters-degree-a-new-zealand-first.htm
+title: New Masters degree - a New Zealand first
+date: 2004-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00010/new-masters-degree-a-new-zealand-first.htm
 author: auckland-university
+permalink: /archive/2004/11/03/new-masters-degree-a-new-zealand-first/index.html
+layout: layout.njk
 ---
 New Masters degree - a New Zealand first
 ========================================

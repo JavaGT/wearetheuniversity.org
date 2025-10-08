@@ -1,9 +1,12 @@
 ---
 slug: entrepreneurial-approach-to-education
-title: "Entrepreneurial approach to education"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/ED1606/S00015/entrepreneurial-approach-to-education.htm
+title: Entrepreneurial approach to education
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00015/entrepreneurial-approach-to-education.htm
 author: university-of-waikato
+permalink: /archive/2016/06/07/entrepreneurial-approach-to-education/index.html
+layout: layout.njk
 ---
 Entrepreneurial approach to education
 =====================================

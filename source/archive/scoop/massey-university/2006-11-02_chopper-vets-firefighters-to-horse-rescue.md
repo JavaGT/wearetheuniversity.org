@@ -1,9 +1,12 @@
 ---
 slug: chopper-vets-firefighters-to-horse-rescue
-title: "Chopper, vets, firefighters to horse rescue"
-date: 2006-11-02
-source-url: https://www.scoop.co.nz/stories/AK0611/S00013/chopper-vets-firefighters-to-horse-rescue.htm
+title: Chopper, vets, firefighters to horse rescue
+date: 2006-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0611/S00013/chopper-vets-firefighters-to-horse-rescue.htm
 author: massey-university
+permalink: /archive/2006/11/02/chopper-vets-firefighters-to-horse-rescue/index.html
+layout: layout.njk
 ---
 Chopper, vets, firefighters to horse rescue
 ===========================================

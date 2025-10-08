@@ -1,9 +1,12 @@
 ---
 slug: mean-spirited-labour-pinching-pennies
-title: "Mean-spirited Labour pinching pennies"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/PA0505/S00401/mean-spirited-labour-pinching-pennies.htm
+title: Mean-spirited Labour pinching pennies
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00401/mean-spirited-labour-pinching-pennies.htm
 author: green-party
+permalink: /archive/2005/05/17/mean-spirited-labour-pinching-pennies/index.html
+layout: layout.njk
 ---
 Mean-spirited Labour pinching pennies
 =====================================

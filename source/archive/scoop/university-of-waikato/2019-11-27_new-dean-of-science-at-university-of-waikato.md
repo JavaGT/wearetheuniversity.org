@@ -1,9 +1,12 @@
 ---
 slug: new-dean-of-science-at-university-of-waikato
-title: "New Dean of Science at University of Waikato"
-date: 2019-11-27
-source-url: https://www.scoop.co.nz/stories/ED1911/S00070/new-dean-of-science-at-university-of-waikato.htm
+title: New Dean of Science at University of Waikato
+date: 2019-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00070/new-dean-of-science-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: /archive/2019/11/27/new-dean-of-science-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 New Dean of Science at University of Waikato
 ============================================

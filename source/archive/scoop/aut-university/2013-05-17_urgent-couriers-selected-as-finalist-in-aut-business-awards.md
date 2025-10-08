@@ -1,9 +1,13 @@
 ---
 slug: urgent-couriers-selected-as-finalist-in-aut-business-awards
-title: "Urgent Couriers Selected As Finalist In AUT Business Awards"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/BU1305/S00696/urgent-couriers-selected-as-finalist-in-aut-business-awards.htm
+title: Urgent Couriers Selected As Finalist In AUT Business Awards
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00696/urgent-couriers-selected-as-finalist-in-aut-business-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2013/05/17/urgent-couriers-selected-as-finalist-in-aut-business-awards/index.html
+layout: layout.njk
 ---
 Urgent Couriers Selected As Finalist In AUT Business Awards
 ===========================================================

@@ -1,9 +1,16 @@
 ---
-slug: labour-selects-candidate-for-seat-that-helen-clark-and-jacinda-ardern-first-stood-in
-title: "Labour Selects Candidate For Seat That Helen Clark And Jacinda Ardern First Stood In"
-date: 2020-02-24
-source-url: https://www.scoop.co.nz/stories/PO2002/S00196/labour-selects-candidate-for-seat-that-helen-clark-and-jacinda-ardern-first-stood-in.htm
+slug: >-
+  labour-selects-candidate-for-seat-that-helen-clark-and-jacinda-ardern-first-stood-in
+title: >-
+  Labour Selects Candidate For Seat That Helen Clark And Jacinda Ardern First
+  Stood In
+date: 2020-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00196/labour-selects-candidate-for-seat-that-helen-clark-and-jacinda-ardern-first-stood-in.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/02/24/labour-selects-candidate-for-seat-that-helen-clark-and-jacinda-ardern-first-stood-in/index.html
+layout: layout.njk
 ---
 Labour Selects Candidate For Seat That Helen Clark And Jacinda Ardern First Stood In
 ====================================================================================

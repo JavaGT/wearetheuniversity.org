@@ -1,9 +1,13 @@
 ---
 slug: government-banks-on-nurses-goodwill-far-too-long
-title: "Government banks on nurses goodwill far too long"
-date: 2003-11-19
-source-url: https://www.scoop.co.nz/stories/PA0311/S00385/government-banks-on-nurses-goodwill-far-too-long.htm
+title: Government banks on nurses goodwill far too long
+date: 2003-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00385/government-banks-on-nurses-goodwill-far-too-long.htm
 author: green-party
+permalink: >-
+  /archive/2003/11/19/government-banks-on-nurses-goodwill-far-too-long/index.html
+layout: layout.njk
 ---
 Government banks on nurses goodwill far too long
 ================================================

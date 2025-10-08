@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-130-30-september-2004
-title: "Maxim Real Issues No. 130,   30 SEPTEMBER 2004"
-date: 2004-10-01
-source-url: https://www.scoop.co.nz/stories/PO0410/S00001/maxim-real-issues-no-130-30-september-2004.htm
+title: Maxim Real Issues No. 130,   30 SEPTEMBER 2004
+date: 2004-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00001/maxim-real-issues-no-130-30-september-2004.htm
 author: maxim-institute
+permalink: /archive/2004/10/01/maxim-real-issues-no-130-30-september-2004/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 130, 30 SEPTEMBER 2004
 ============================================

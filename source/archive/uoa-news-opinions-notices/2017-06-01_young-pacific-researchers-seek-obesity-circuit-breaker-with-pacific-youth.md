@@ -1,8 +1,12 @@
 ---
 slug: young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth
-title: "Young Pacific researchers seek obesity circuit-breaker with Pacific youth"
-date: 2017-06-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth.html
+title: Young Pacific researchers seek obesity circuit-breaker with Pacific youth
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth.html
+permalink: >-
+  /archive/2017/06/01/young-pacific-researchers-seek-obesity-circuit-breaker-with-pacific-youth/index.html
+layout: layout.njk
 ---
 Young Pacific researchers seek obesity circuit-breaker with Pacific youth
 =========================================================================

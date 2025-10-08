@@ -1,9 +1,12 @@
 ---
 slug: exhibition-industry-begs-for-fairness
-title: "Exhibition Industry Begs For Fairness"
-date: 2021-04-06
-source-url: https://www.scoop.co.nz/stories/PA2104/S00016/exhibition-industry-begs-for-fairness.htm
+title: Exhibition Industry Begs For Fairness
+date: 2021-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00016/exhibition-industry-begs-for-fairness.htm
 author: act-new-zealand
+permalink: /archive/2021/04/06/exhibition-industry-begs-for-fairness/index.html
+layout: layout.njk
 ---
 Exhibition Industry Begs For Fairness
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-nightlife-back-to-95%-of-pre-quake-levels
-title: "Christchurch nightlife back to 95% of pre-quake levels"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/BU1405/S00968/christchurch-nightlife-back-to-95-of-pre-quake-levels.htm
+title: Christchurch nightlife back to 95% of pre-quake levels
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00968/christchurch-nightlife-back-to-95-of-pre-quake-levels.htm
 author: university-of-canterbury
+permalink: /archive/2014/05/27/christchurch-nightlife-back-to-95/index.html
+layout: layout.njk
 ---
 Christchurch nightlife back to 95% of pre-quake levels
 ======================================================

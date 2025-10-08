@@ -1,9 +1,13 @@
 ---
 slug: key-speech-to-national-party-mainland-region-conference
-title: "Key: Speech to National Party Mainland Region Conference"
-date: 2012-04-29
-source-url: https://www.scoop.co.nz/stories/PA1204/S00359/key-speech-to-national-party-mainland-region-conference.htm
+title: 'Key: Speech to National Party Mainland Region Conference'
+date: 2012-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00359/key-speech-to-national-party-mainland-region-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2012/04/29/key-speech-to-national-party-mainland-region-conference/index.html
+layout: layout.njk
 ---
 Key: Speech to National Party Mainland Region Conference
 ========================================================

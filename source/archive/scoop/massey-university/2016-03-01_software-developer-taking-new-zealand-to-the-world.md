@@ -1,9 +1,13 @@
 ---
 slug: software-developer-taking-new-zealand-to-the-world
-title: "Software developer taking New Zealand to the world"
-date: 2016-03-01
-source-url: https://www.scoop.co.nz/stories/BU1603/S00006/software-developer-taking-new-zealand-to-the-world.htm
+title: Software developer taking New Zealand to the world
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00006/software-developer-taking-new-zealand-to-the-world.htm
 author: massey-university
+permalink: >-
+  /archive/2016/03/01/software-developer-taking-new-zealand-to-the-world/index.html
+layout: layout.njk
 ---
 Software developer taking New Zealand to the world
 ==================================================

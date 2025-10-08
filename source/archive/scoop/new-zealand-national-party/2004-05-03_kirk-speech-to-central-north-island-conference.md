@@ -1,9 +1,12 @@
 ---
 slug: kirk-speech-to-central-north-island-conference
-title: "Kirk Speech to Central North Island Conference"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00007/kirk-speech-to-central-north-island-conference.htm
+title: Kirk Speech to Central North Island Conference
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00007/kirk-speech-to-central-north-island-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/03/kirk-speech-to-central-north-island-conference/index.html
+layout: layout.njk
 ---
 Kirk Speech to Central North Island Conference
 ==============================================

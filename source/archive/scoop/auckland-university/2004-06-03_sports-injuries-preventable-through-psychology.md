@@ -1,9 +1,12 @@
 ---
 slug: sports-injuries-preventable-through-psychology
-title: "Sports injuries preventable through psychology"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00013/sports-injuries-preventable-through-psychology.htm
+title: Sports injuries preventable through psychology
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00013/sports-injuries-preventable-through-psychology.htm
 author: auckland-university
+permalink: /archive/2004/06/03/sports-injuries-preventable-through-psychology/index.html
+layout: layout.njk
 ---
 Sports injuries preventable through psychology
 ==============================================

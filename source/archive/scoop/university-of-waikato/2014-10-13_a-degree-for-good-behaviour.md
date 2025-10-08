@@ -1,9 +1,11 @@
 ---
 slug: a-degree-for-good-behaviour
-title: "A degree for good behaviour"
-date: 2014-10-13
+title: A degree for good behaviour
+date: 2014-10-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00072/a-degree-for-good-behaviour.htm
 author: university-of-waikato
+permalink: /archive/2014/10/13/a-degree-for-good-behaviour/index.html
+layout: layout.njk
 ---
 A degree for good behaviour
 ===========================

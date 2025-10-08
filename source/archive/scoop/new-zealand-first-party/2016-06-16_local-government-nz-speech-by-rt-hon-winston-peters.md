@@ -1,9 +1,13 @@
 ---
 slug: local-government-nz-speech-by-rt-hon-winston-peters
-title: "Local Government NZ Speech by Rt Hon Winston Peters"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PA1606/S00295/local-government-nz-speech-by-rt-hon-winston-peters.htm
+title: Local Government NZ Speech by Rt Hon Winston Peters
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00295/local-government-nz-speech-by-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/16/local-government-nz-speech-by-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Local Government NZ Speech by Rt Hon Winston Peters
 ===================================================

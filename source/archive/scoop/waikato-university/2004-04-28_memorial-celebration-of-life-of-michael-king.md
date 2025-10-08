@@ -1,9 +1,12 @@
 ---
 slug: memorial-celebration-of-life-of-michael-king
-title: "Memorial Celebration Of Life Of Michael King"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/ED0404/S00109/memorial-celebration-of-life-of-michael-king.htm
+title: Memorial Celebration Of Life Of Michael King
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00109/memorial-celebration-of-life-of-michael-king.htm
 author: waikato-university
+permalink: /archive/2004/04/28/memorial-celebration-of-life-of-michael-king/index.html
+layout: layout.njk
 ---
 Memorial Celebration Of Life Of Michael King
 ============================================

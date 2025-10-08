@@ -1,9 +1,13 @@
 ---
 slug: smartphone-satellite-wins-nasa-space-apps-challenge
-title: "Smartphone satellite wins NASA Space Apps Challenge"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/ED1404/S00066/smartphone-satellite-wins-nasa-space-apps-challenge.htm
+title: Smartphone satellite wins NASA Space Apps Challenge
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00066/smartphone-satellite-wins-nasa-space-apps-challenge.htm
 author: aut-university
+permalink: >-
+  /archive/2014/04/16/smartphone-satellite-wins-nasa-space-apps-challenge/index.html
+layout: layout.njk
 ---
 Smartphone satellite wins NASA Space Apps Challenge
 ===================================================

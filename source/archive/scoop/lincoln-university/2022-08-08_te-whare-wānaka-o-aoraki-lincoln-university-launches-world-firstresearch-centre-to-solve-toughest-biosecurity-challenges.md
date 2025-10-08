@@ -1,9 +1,15 @@
 ---
-slug: te-whare-wānaka-o-aoraki-lincoln-university-launches-world-firstresearch-centre-to-solve-toughest-biosecurity-challenges
-title: "Te Whare Wānaka O Aoraki Lincoln University Launches World-firstresearch Centre To Solve Toughest Biosecurity Challenges"
-date: 2022-08-08
-source-url: https://www.scoop.co.nz/stories/SC2208/S00012/te-whare-wanaka-o-aoraki-lincoln-university-launches-world-firstresearch-centre-to-solve-toughest-biosecurity-challenges.htm
+slug: >-
+  te-whare-wānaka-o-aoraki-lincoln-university-launches-world-firstresearch-centre-to-solve-toughest-biosecurity-challenges
+title: >-
+  Te Whare Wānaka O Aoraki Lincoln University Launches World-firstresearch
+  Centre To Solve Toughest Biosecurity Challenges
+date: 2022-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2208/S00012/te-whare-wanaka-o-aoraki-lincoln-university-launches-world-firstresearch-centre-to-solve-toughest-biosecurity-challenges.htm
 author: lincoln-university
+permalink: /archive/2022/08/08/te-whare-w/index.html
+layout: layout.njk
 ---
 Te Whare Wānaka O Aoraki Lincoln University Launches World-firstresearch Centre To Solve Toughest Biosecurity Challenges
 ========================================================================================================================

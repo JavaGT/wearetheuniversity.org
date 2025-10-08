@@ -1,9 +1,13 @@
 ---
 slug: nzmsa-media-statement-medical-workforce-retention-projections
-title: "NZMSA Media Statement: Medical Workforce Retention Projections"
-date: 2024-03-05
-source-url: https://www.scoop.co.nz/stories/GE2403/S00006/nzmsa-media-statement-medical-workforce-retention-projections.htm
+title: 'NZMSA Media Statement: Medical Workforce Retention Projections'
+date: 2024-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2403/S00006/nzmsa-media-statement-medical-workforce-retention-projections.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2024/03/05/nzmsa-media-statement-medical-workforce-retention-projections/index.html
+layout: layout.njk
 ---
 NZMSA Media Statement: Medical Workforce Retention Projections
 ==============================================================

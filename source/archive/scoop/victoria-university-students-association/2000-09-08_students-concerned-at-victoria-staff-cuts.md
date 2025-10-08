@@ -1,9 +1,12 @@
 ---
 slug: students-concerned-at-victoria-staff-cuts
-title: "Students Concerned At Victoria Staff Cuts"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/ED0009/S00015/students-concerned-at-victoria-staff-cuts.htm
+title: Students Concerned At Victoria Staff Cuts
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00015/students-concerned-at-victoria-staff-cuts.htm
 author: victoria-university-students-association
+permalink: /archive/2000/09/08/students-concerned-at-victoria-staff-cuts/index.html
+layout: layout.njk
 ---
 Students Concerned At Victoria Staff Cuts
 =========================================

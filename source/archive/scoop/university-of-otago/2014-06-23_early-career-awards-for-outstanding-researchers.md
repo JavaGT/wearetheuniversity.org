@@ -1,9 +1,12 @@
 ---
 slug: early-career-awards-for-outstanding-researchers
-title: "Early Career Awards for outstanding researchers"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/ED1406/S00119/early-career-awards-for-outstanding-researchers.htm
+title: Early Career Awards for outstanding researchers
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00119/early-career-awards-for-outstanding-researchers.htm
 author: university-of-otago
+permalink: /archive/2014/06/23/early-career-awards-for-outstanding-researchers/index.html
+layout: layout.njk
 ---
 Early Career Awards for outstanding researchers
 ===============================================

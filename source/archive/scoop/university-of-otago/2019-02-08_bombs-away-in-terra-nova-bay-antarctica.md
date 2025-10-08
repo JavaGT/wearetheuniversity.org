@@ -1,9 +1,12 @@
 ---
 slug: bombs-away-in-terra-nova-bay-antarctica
-title: "Bombs away in Terra Nova Bay, Antarctica"
-date: 2019-02-08
-source-url: https://www.scoop.co.nz/stories/SC1902/S00020/bombs-away-in-terra-nova-bay-antarctica.htm
+title: Bombs away in Terra Nova Bay, Antarctica
+date: 2019-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1902/S00020/bombs-away-in-terra-nova-bay-antarctica.htm
 author: university-of-otago
+permalink: /archive/2019/02/08/bombs-away-in-terra-nova-bay-antarctica/index.html
+layout: layout.njk
 ---
 Bombs away in Terra Nova Bay, Antarctica
 ========================================

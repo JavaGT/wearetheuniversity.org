@@ -1,9 +1,12 @@
 ---
 slug: energy-experts-ponder-end-of-oil
-title: "Energy Experts Ponder End of Oil"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/ED0511/S00056/energy-experts-ponder-end-of-oil.htm
+title: Energy Experts Ponder End of Oil
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00056/energy-experts-ponder-end-of-oil.htm
 author: university-of-otago
+permalink: /archive/2005/11/14/energy-experts-ponder-end-of-oil/index.html
+layout: layout.njk
 ---
 Energy Experts Ponder End of Oil
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-business-corporations-in-it-for-the-long-haul
-title: "Maori business corporations in it for the long haul"
-date: 2013-08-09
-source-url: https://www.scoop.co.nz/stories/BU1308/S00336/maori-business-corporations-in-it-for-the-long-haul.htm
+title: Maori business corporations in it for the long haul
+date: 2013-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00336/maori-business-corporations-in-it-for-the-long-haul.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/09/maori-business-corporations-in-it-for-the-long-haul/index.html
+layout: layout.njk
 ---
 Maori business corporations in it for the long haul
 ===================================================

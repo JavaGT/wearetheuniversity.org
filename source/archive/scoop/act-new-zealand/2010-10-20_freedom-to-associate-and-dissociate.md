@@ -1,9 +1,12 @@
 ---
 slug: freedom-to-associate-and-dissociate
-title: "Freedom To Associate – And Dissociate"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00356/freedom-to-associate-and-dissociate.htm
+title: Freedom To Associate – And Dissociate
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00356/freedom-to-associate-and-dissociate.htm
 author: act-new-zealand
+permalink: /archive/2010/10/20/freedom-to-associate-and-dissociate/index.html
+layout: layout.njk
 ---
 Freedom To Associate – And Dissociate
 =====================================

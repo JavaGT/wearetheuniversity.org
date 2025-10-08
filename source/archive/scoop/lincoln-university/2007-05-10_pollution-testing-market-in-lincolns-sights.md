@@ -1,9 +1,12 @@
 ---
 slug: pollution-testing-market-in-lincolns-sights
-title: "Pollution testing market in Lincoln's sights"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/SC0705/S00026/pollution-testing-market-in-lincolns-sights.htm
+title: Pollution testing market in Lincoln's sights
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0705/S00026/pollution-testing-market-in-lincolns-sights.htm
 author: lincoln-university
+permalink: /archive/2007/05/10/pollution-testing-market-in-lincolns-sights/index.html
+layout: layout.njk
 ---
 Pollution testing market in Lincoln's sights
 ============================================

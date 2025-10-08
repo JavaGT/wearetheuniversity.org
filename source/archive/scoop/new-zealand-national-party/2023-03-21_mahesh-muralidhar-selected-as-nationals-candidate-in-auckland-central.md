@@ -1,9 +1,13 @@
 ---
 slug: mahesh-muralidhar-selected-as-nationals-candidate-in-auckland-central
-title: "Mahesh Muralidhar Selected As National’s Candidate In Auckland Central"
-date: 2023-03-21
-source-url: https://www.scoop.co.nz/stories/PO2303/S00154/mahesh-muralidhar-selected-as-nationals-candidate-in-auckland-central.htm
+title: Mahesh Muralidhar Selected As National’s Candidate In Auckland Central
+date: 2023-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00154/mahesh-muralidhar-selected-as-nationals-candidate-in-auckland-central.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/21/mahesh-muralidhar-selected-as-nationals-candidate-in-auckland-central/index.html
+layout: layout.njk
 ---
 Mahesh Muralidhar Selected As National’s Candidate In Auckland Central
 ======================================================================

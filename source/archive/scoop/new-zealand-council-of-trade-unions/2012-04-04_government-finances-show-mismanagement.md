@@ -1,9 +1,12 @@
 ---
 slug: government-finances-show-mismanagement
-title: "Government Finances Show Mismanagement"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/PO1204/S00052/government-finances-show-mismanagement.htm
+title: Government Finances Show Mismanagement
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00052/government-finances-show-mismanagement.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/04/04/government-finances-show-mismanagement/index.html
+layout: layout.njk
 ---
 Government Finances Show Mismanagement
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-a-better-deal-for-students
-title: "Green Party Announces a Better Deal for Students"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/PO1709/S00233/green-party-announces-a-better-deal-for-students.htm
+title: Green Party Announces a Better Deal for Students
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00233/green-party-announces-a-better-deal-for-students.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/13/green-party-announces-a-better-deal-for-students/index.html
+layout: layout.njk
 ---
 Green Party Announces a Better Deal for Students
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-occupy-proposed-coal-mining-site
-title: "Students Occupy Proposed Coal Mining Site"
-date: 2004-04-13
-source-url: https://www.scoop.co.nz/stories/ED0404/S00038/students-occupy-proposed-coal-mining-site.htm
+title: Students Occupy Proposed Coal Mining Site
+date: 2004-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00038/students-occupy-proposed-coal-mining-site.htm
 author: massey-university-students-association
+permalink: /archive/2004/04/13/students-occupy-proposed-coal-mining-site/index.html
+layout: layout.njk
 ---
 Students Occupy Proposed Coal Mining Site
 =========================================

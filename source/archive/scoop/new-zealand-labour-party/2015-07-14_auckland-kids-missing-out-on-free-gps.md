@@ -1,9 +1,12 @@
 ---
 slug: auckland-kids-missing-out-on-free-gps
-title: "Auckland kids missing out on free GPs"
-date: 2015-07-14
-source-url: https://www.scoop.co.nz/stories/PA1507/S00219/auckland-kids-missing-out-on-free-gps.htm
+title: Auckland kids missing out on free GPs
+date: 2015-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00219/auckland-kids-missing-out-on-free-gps.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/14/auckland-kids-missing-out-on-free-gps/index.html
+layout: layout.njk
 ---
 Auckland kids missing out on free GPs
 =====================================

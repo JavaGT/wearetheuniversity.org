@@ -1,9 +1,12 @@
 ---
 slug: tv-screening-will-mark-death-of-great-nz-writer
-title: "TV Screening Will Mark Death Of Great NZ Writer"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/CU0110/S00003/tv-screening-will-mark-death-of-great-nz-writer.htm
+title: TV Screening Will Mark Death Of Great NZ Writer
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0110/S00003/tv-screening-will-mark-death-of-great-nz-writer.htm
 author: auckland-university-press
+permalink: /archive/2001/10/01/tv-screening-will-mark-death-of-great-nz-writer/index.html
+layout: layout.njk
 ---
 TV Screening Will Mark Death Of Great NZ Writer
 ===============================================

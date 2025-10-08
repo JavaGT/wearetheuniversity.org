@@ -1,9 +1,13 @@
 ---
 slug: few-drinking-fountains-in-new-zealand-playgrounds
-title: "Few drinking fountains in New Zealand playgrounds"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/GE1802/S00006/few-drinking-fountains-in-new-zealand-playgrounds.htm
+title: Few drinking fountains in New Zealand playgrounds
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00006/few-drinking-fountains-in-new-zealand-playgrounds.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/02/few-drinking-fountains-in-new-zealand-playgrounds/index.html
+layout: layout.njk
 ---
 Few drinking fountains in New Zealand playgrounds
 =================================================

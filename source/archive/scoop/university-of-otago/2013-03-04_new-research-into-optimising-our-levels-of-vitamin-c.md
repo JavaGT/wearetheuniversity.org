@@ -1,9 +1,13 @@
 ---
 slug: new-research-into-optimising-our-levels-of-vitamin-c
-title: "New research into optimising our levels of vitamin C"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/SC1303/S00003/new-research-into-optimising-our-levels-of-vitamin-c.htm
+title: New research into optimising our levels of vitamin C
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00003/new-research-into-optimising-our-levels-of-vitamin-c.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/04/new-research-into-optimising-our-levels-of-vitamin-c/index.html
+layout: layout.njk
 ---
 New research into optimising our levels of vitamin C
 ====================================================

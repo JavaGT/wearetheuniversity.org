@@ -1,9 +1,13 @@
 ---
 slug: freshwater-crisis-needs-stronger-government-action
-title: "Freshwater Crisis Needs Stronger Government Action"
-date: 2023-04-12
-source-url: https://www.scoop.co.nz/stories/PA2304/S00060/freshwater-crisis-needs-stronger-government-action.htm
+title: Freshwater Crisis Needs Stronger Government Action
+date: 2023-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00060/freshwater-crisis-needs-stronger-government-action.htm
 author: green-party
+permalink: >-
+  /archive/2023/04/12/freshwater-crisis-needs-stronger-government-action/index.html
+layout: layout.njk
 ---
 Freshwater Crisis Needs Stronger Government Action
 ==================================================

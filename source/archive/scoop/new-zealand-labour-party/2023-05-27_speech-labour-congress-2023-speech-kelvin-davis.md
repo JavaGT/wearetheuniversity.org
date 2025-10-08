@@ -1,9 +1,12 @@
 ---
 slug: speech-labour-congress-2023-speech-kelvin-davis
-title: "SPEECH: Labour Congress 2023 Speech: Kelvin Davis"
-date: 2023-05-27
-source-url: https://www.scoop.co.nz/stories/PO2305/S00195/speech-labour-congress-2023-speech-kelvin-davis.htm
+title: 'SPEECH: Labour Congress 2023 Speech: Kelvin Davis'
+date: 2023-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00195/speech-labour-congress-2023-speech-kelvin-davis.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/05/27/speech-labour-congress-2023-speech-kelvin-davis/index.html
+layout: layout.njk
 ---
 SPEECH: Labour Congress 2023 Speech: Kelvin Davis
 =================================================

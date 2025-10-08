@@ -1,9 +1,11 @@
 ---
 slug: rebels-disgusted-at-lawsuit
-title: "Rebels Disgusted At Lawsuit"
-date: 1999-11-25
+title: Rebels Disgusted At Lawsuit
+date: 1999-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9911/S00168/rebels-disgusted-at-lawsuit.htm
 author: prebble-s-rebels
+permalink: /archive/1999/11/25/rebels-disgusted-at-lawsuit/index.html
+layout: layout.njk
 ---
 Rebels Disgusted At Lawsuit
 ===========================

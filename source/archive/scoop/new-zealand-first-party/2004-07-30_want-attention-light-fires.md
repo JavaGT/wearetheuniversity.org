@@ -1,9 +1,11 @@
 ---
 slug: want-attention-light-fires
-title: "Want Attention? Light Fires"
-date: 2004-07-30
+title: Want Attention? Light Fires
+date: 2004-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00525/want-attention-light-fires.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/30/want-attention-light-fires/index.html
+layout: layout.njk
 ---
 Want Attention? Light Fires
 ===========================

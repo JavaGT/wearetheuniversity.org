@@ -1,9 +1,11 @@
 ---
 slug: new-app-for-pregnant-women
-title: "New app for pregnant women"
-date: 2017-02-16
+title: New app for pregnant women
+date: 2017-02-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1702/S00079/new-app-for-pregnant-women.htm
 author: university-of-waikato
+permalink: /archive/2017/02/16/new-app-for-pregnant-women/index.html
+layout: layout.njk
 ---
 New app for pregnant women
 ==========================

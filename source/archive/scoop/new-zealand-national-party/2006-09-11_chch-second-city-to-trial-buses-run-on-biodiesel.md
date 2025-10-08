@@ -1,9 +1,13 @@
 ---
 slug: chch-second-city-to-trial-buses-run-on-biodiesel
-title: "Chch second city to trial buses run on biodiesel"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/PA0609/S00250/chch-second-city-to-trial-buses-run-on-biodiesel.htm
+title: Chch second city to trial buses run on biodiesel
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00250/chch-second-city-to-trial-buses-run-on-biodiesel.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/11/chch-second-city-to-trial-buses-run-on-biodiesel/index.html
+layout: layout.njk
 ---
 Chch second city to trial buses run on biodiesel
 ================================================

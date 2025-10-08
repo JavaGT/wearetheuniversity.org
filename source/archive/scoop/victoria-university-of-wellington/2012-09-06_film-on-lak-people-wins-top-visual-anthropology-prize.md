@@ -1,9 +1,13 @@
 ---
 slug: film-on-lak-people-wins-top-visual-anthropology-prize
-title: "Film on Lak people wins top visual anthropology prize"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00032/film-on-lak-people-wins-top-visual-anthropology-prize.htm
+title: Film on Lak people wins top visual anthropology prize
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00032/film-on-lak-people-wins-top-visual-anthropology-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/09/06/film-on-lak-people-wins-top-visual-anthropology-prize/index.html
+layout: layout.njk
 ---
 Film on Lak people wins top visual anthropology prize
 =====================================================

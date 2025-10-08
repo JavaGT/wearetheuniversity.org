@@ -1,9 +1,16 @@
 ---
-slug: socially-progressive-green-change-is-priority-for-green-party-candidate-for-pakuranga
-title: "Socially Progressive Green Change Is Priority For Green Party Candidate For Pakuranga"
-date: 2020-06-15
-source-url: https://www.scoop.co.nz/stories/PO2006/S00139/socially-progressive-green-change-is-priority-for-green-party-candidate-for-pakuranga.htm
+slug: >-
+  socially-progressive-green-change-is-priority-for-green-party-candidate-for-pakuranga
+title: >-
+  Socially Progressive Green Change Is Priority For Green Party Candidate For
+  Pakuranga
+date: 2020-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00139/socially-progressive-green-change-is-priority-for-green-party-candidate-for-pakuranga.htm
 author: green-party
+permalink: >-
+  /archive/2020/06/15/socially-progressive-green-change-is-priority-for-green-party-candidate-for-pakuranga/index.html
+layout: layout.njk
 ---
 Socially Progressive Green Change Is Priority For Green Party Candidate For Pakuranga
 =====================================================================================

@@ -1,9 +1,11 @@
 ---
 slug: health-and-safety-sorted
-title: "Health and safety sorted"
-date: 2014-10-22
+title: Health and safety sorted
+date: 2014-10-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1410/S00781/health-and-safety-sorted.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/22/health-and-safety-sorted/index.html
+layout: layout.njk
 ---
 Health and safety sorted
 ========================

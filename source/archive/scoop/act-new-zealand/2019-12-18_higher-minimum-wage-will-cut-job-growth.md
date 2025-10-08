@@ -1,9 +1,12 @@
 ---
 slug: higher-minimum-wage-will-cut-job-growth
-title: "Higher minimum wage will cut job growth"
-date: 2019-12-18
-source-url: https://www.scoop.co.nz/stories/PA1912/S00172/higher-minimum-wage-will-cut-job-growth.htm
+title: Higher minimum wage will cut job growth
+date: 2019-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00172/higher-minimum-wage-will-cut-job-growth.htm
 author: act-new-zealand
+permalink: /archive/2019/12/18/higher-minimum-wage-will-cut-job-growth/index.html
+layout: layout.njk
 ---
 Higher minimum wage will cut job growth
 =======================================

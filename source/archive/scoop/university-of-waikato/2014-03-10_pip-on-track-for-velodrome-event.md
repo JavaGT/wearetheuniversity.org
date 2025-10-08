@@ -1,9 +1,12 @@
 ---
 slug: pip-on-track-for-velodrome-event
-title: "Pip on track for velodrome event"
-date: 2014-03-10
-source-url: https://www.scoop.co.nz/stories/ED1403/S00050/pip-on-track-for-velodrome-event.htm
+title: Pip on track for velodrome event
+date: 2014-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00050/pip-on-track-for-velodrome-event.htm
 author: university-of-waikato
+permalink: /archive/2014/03/10/pip-on-track-for-velodrome-event/index.html
+layout: layout.njk
 ---
 Pip on track for velodrome event
 ================================

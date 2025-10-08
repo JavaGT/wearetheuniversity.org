@@ -1,9 +1,12 @@
 ---
 slug: university-course-gets-people-thinking
-title: "University course gets people thinking"
-date: 2009-10-01
-source-url: https://www.scoop.co.nz/stories/ED0910/S00005/university-course-gets-people-thinking.htm
+title: University course gets people thinking
+date: 2009-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00005/university-course-gets-people-thinking.htm
 author: university-of-waikato
+permalink: /archive/2009/10/01/university-course-gets-people-thinking/index.html
+layout: layout.njk
 ---
 University course gets people thinking
 ======================================

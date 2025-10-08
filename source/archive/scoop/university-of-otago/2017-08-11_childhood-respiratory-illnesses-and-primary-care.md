@@ -1,9 +1,13 @@
 ---
 slug: childhood-respiratory-illnesses-and-primary-care
-title: "Childhood respiratory illnesses and primary care"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/GE1708/S00049/childhood-respiratory-illnesses-and-primary-care.htm
+title: Childhood respiratory illnesses and primary care
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00049/childhood-respiratory-illnesses-and-primary-care.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/11/childhood-respiratory-illnesses-and-primary-care/index.html
+layout: layout.njk
 ---
 Childhood respiratory illnesses and primary care
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-hodgson-to-focus-on-health
-title: "Time for Hodgson to focus on health"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PA0610/S00521/time-for-hodgson-to-focus-on-health.htm
+title: Time for Hodgson to focus on health
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00521/time-for-hodgson-to-focus-on-health.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/27/time-for-hodgson-to-focus-on-health/index.html
+layout: layout.njk
 ---
 Time for Hodgson to focus on health
 ===================================

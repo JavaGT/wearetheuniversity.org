@@ -1,9 +1,13 @@
 ---
 slug: saving-the-planet-and-saving-money-its-as-easy-as-more-green-mps
-title: "Saving the planet and saving money, it’s as easy as more Green MPs"
-date: 2023-08-13
-source-url: https://www.scoop.co.nz/stories/PO2308/S00127/saving-the-planet-and-saving-money-its-as-easy-as-more-green-mps.htm
+title: Saving the planet and saving money, it’s as easy as more Green MPs
+date: 2023-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00127/saving-the-planet-and-saving-money-its-as-easy-as-more-green-mps.htm
 author: green-party
+permalink: >-
+  /archive/2023/08/13/saving-the-planet-and-saving-money-its-as-easy-as-more-green-mps/index.html
+layout: layout.njk
 ---
 Saving the planet and saving money, it’s as easy as more Green MPs
 ==================================================================

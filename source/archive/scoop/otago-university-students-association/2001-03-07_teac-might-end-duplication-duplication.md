@@ -1,9 +1,12 @@
 ---
 slug: teac-might-end-duplication-duplication
-title: "TEAC Might End Duplication Duplication"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/ED0103/S00017/teac-might-end-duplication-duplication.htm
+title: TEAC Might End Duplication Duplication
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00017/teac-might-end-duplication-duplication.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/07/teac-might-end-duplication-duplication/index.html
+layout: layout.njk
 ---
 TEAC Might End Duplication Duplication
 ======================================

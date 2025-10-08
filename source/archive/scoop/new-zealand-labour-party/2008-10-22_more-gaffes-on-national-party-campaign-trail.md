@@ -1,9 +1,12 @@
 ---
 slug: more-gaffes-on-national-party-campaign-trail
-title: "More gaffes on National Party campaign trail"
-date: 2008-10-22
-source-url: https://www.scoop.co.nz/stories/PA0810/S00511/more-gaffes-on-national-party-campaign-trail.htm
+title: More gaffes on National Party campaign trail
+date: 2008-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00511/more-gaffes-on-national-party-campaign-trail.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/22/more-gaffes-on-national-party-campaign-trail/index.html
+layout: layout.njk
 ---
 More gaffes on National Party campaign trail
 ============================================

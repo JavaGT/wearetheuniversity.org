@@ -1,9 +1,13 @@
 ---
 slug: nz-women-in-the-dark-about-healthy-weight-gain-in-pregnancy
-title: "NZ women in the dark about healthy weight gain in pregnancy"
-date: 2016-08-05
-source-url: https://www.scoop.co.nz/stories/GE1608/S00033/nz-women-in-the-dark-about-healthy-weight-gain-in-pregnancy.htm
+title: NZ women in the dark about healthy weight gain in pregnancy
+date: 2016-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00033/nz-women-in-the-dark-about-healthy-weight-gain-in-pregnancy.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/05/nz-women-in-the-dark-about-healthy-weight-gain-in-pregnancy/index.html
+layout: layout.njk
 ---
 NZ women in the dark about healthy weight gain in pregnancy
 ===========================================================

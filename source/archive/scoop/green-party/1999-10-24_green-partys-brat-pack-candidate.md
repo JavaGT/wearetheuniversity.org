@@ -1,9 +1,12 @@
 ---
 slug: green-partys-brat-pack-candidate
-title: "Green Party's 'brat pack' candidate"
-date: 1999-10-24
-source-url: https://www.scoop.co.nz/stories/PO9910/S00111/green-partys-brat-pack-candidate.htm
+title: Green Party's 'brat pack' candidate
+date: 1999-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00111/green-partys-brat-pack-candidate.htm
 author: green-party
+permalink: /archive/1999/10/24/green-partys-brat-pack-candidate/index.html
+layout: layout.njk
 ---
 Green Party's 'brat pack' candidate
 ===================================

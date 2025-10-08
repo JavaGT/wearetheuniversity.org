@@ -1,9 +1,12 @@
 ---
 slug: female-salmon-fussy-over-males
-title: "Female salmon fussy over males"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/SC0808/S00040/female-salmon-fussy-over-males.htm
+title: Female salmon fussy over males
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0808/S00040/female-salmon-fussy-over-males.htm
 author: university-of-otago
+permalink: /archive/2008/08/15/female-salmon-fussy-over-males/index.html
+layout: layout.njk
 ---
 Female salmon fussy over males
 ==============================

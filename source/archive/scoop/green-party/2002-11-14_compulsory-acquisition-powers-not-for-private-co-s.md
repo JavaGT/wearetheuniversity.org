@@ -1,9 +1,13 @@
 ---
 slug: compulsory-acquisition-powers-not-for-private-co-s
-title: "Compulsory acquisition powers not for private co.s"
-date: 2002-11-14
-source-url: https://www.scoop.co.nz/stories/PA0211/S00344/compulsory-acquisition-powers-not-for-private-cos.htm
+title: Compulsory acquisition powers not for private co.s
+date: 2002-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00344/compulsory-acquisition-powers-not-for-private-cos.htm
 author: green-party
+permalink: >-
+  /archive/2002/11/14/compulsory-acquisition-powers-not-for-private-co-s/index.html
+layout: layout.njk
 ---
 Compulsory acquisition powers not for private co.s
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: rowers-head-to-head
-title: "Rowers Head to head"
-date: 2003-09-03
+title: Rowers Head to head
+date: 2003-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00010/rowers-head-to-head.htm
 author: waikato-university
+permalink: /archive/2003/09/03/rowers-head-to-head/index.html
+layout: layout.njk
 ---
 Rowers Head to head
 ===================

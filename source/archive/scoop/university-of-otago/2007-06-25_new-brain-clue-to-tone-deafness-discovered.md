@@ -1,9 +1,12 @@
 ---
 slug: new-brain-clue-to-tone-deafness-discovered
-title: "New brain clue to tone deafness discovered"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/GE0706/S00088/new-brain-clue-to-tone-deafness-discovered.htm
+title: New brain clue to tone deafness discovered
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00088/new-brain-clue-to-tone-deafness-discovered.htm
 author: university-of-otago
+permalink: /archive/2007/06/25/new-brain-clue-to-tone-deafness-discovered/index.html
+layout: layout.njk
 ---
 New brain clue to tone deafness discovered
 ==========================================

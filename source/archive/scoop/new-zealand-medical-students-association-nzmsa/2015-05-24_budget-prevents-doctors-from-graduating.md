@@ -1,9 +1,12 @@
 ---
 slug: budget-prevents-doctors-from-graduating
-title: "Budget Prevents Doctors from Graduating"
-date: 2015-05-24
-source-url: https://www.scoop.co.nz/stories/PO1505/S00328/budget-prevents-doctors-from-graduating.htm
+title: Budget Prevents Doctors from Graduating
+date: 2015-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00328/budget-prevents-doctors-from-graduating.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2015/05/24/budget-prevents-doctors-from-graduating/index.html
+layout: layout.njk
 ---
 Budget Prevents Doctors from Graduating
 =======================================

@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-welcomes-ethos-policy-guide-to-schools-navigating-gender-ideology
-title: "Free Speech Union Welcomes Ethos’ Policy Guide To Schools Navigating Gender Ideology"
-date: 2024-05-07
-source-url: https://www.scoop.co.nz/stories/AK2405/S00214/free-speech-union-welcomes-ethos-policy-guide-to-schools-navigating-gender-ideology.htm
+slug: >-
+  free-speech-union-welcomes-ethos-policy-guide-to-schools-navigating-gender-ideology
+title: >-
+  Free Speech Union Welcomes Ethos’ Policy Guide To Schools Navigating Gender
+  Ideology
+date: 2024-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00214/free-speech-union-welcomes-ethos-policy-guide-to-schools-navigating-gender-ideology.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/07/free-speech-union-welcomes-ethos-policy-guide-to-schools-navigating-gender-ideology/index.html
+layout: layout.njk
 ---
 Free Speech Union Welcomes Ethos’ Policy Guide To Schools Navigating Gender Ideology
 ====================================================================================

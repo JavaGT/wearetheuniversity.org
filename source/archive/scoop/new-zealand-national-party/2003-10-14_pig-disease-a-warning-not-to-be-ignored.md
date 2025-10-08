@@ -1,9 +1,12 @@
 ---
 slug: pig-disease-a-warning-not-to-be-ignored
-title: "Pig disease a warning not to be ignored"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/PA0310/S00312/pig-disease-a-warning-not-to-be-ignored.htm
+title: Pig disease a warning not to be ignored
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00312/pig-disease-a-warning-not-to-be-ignored.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/14/pig-disease-a-warning-not-to-be-ignored/index.html
+layout: layout.njk
 ---
 Pig disease a warning not to be ignored
 =======================================

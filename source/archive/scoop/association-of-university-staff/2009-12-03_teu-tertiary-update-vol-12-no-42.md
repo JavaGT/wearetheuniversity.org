@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-42
-title: "TEU Tertiary Update Vol 12 No 42"
-date: 2009-12-03
-source-url: https://www.scoop.co.nz/stories/ED0912/S00008/teu-tertiary-update-vol-12-no-42.htm
+title: TEU Tertiary Update Vol 12 No 42
+date: 2009-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00008/teu-tertiary-update-vol-12-no-42.htm
 author: association-of-university-staff
+permalink: /archive/2009/12/03/teu-tertiary-update-vol-12-no-42/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 42
 ================================

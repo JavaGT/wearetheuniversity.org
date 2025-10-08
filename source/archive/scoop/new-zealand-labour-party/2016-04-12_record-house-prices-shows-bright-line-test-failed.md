@@ -1,9 +1,13 @@
 ---
 slug: record-house-prices-shows-bright-line-test-failed
-title: "Record house prices shows bright line test failed"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/PA1604/S00191/record-house-prices-shows-bright-line-test-failed.htm
+title: Record house prices shows bright line test failed
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00191/record-house-prices-shows-bright-line-test-failed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/12/record-house-prices-shows-bright-line-test-failed/index.html
+layout: layout.njk
 ---
 Record house prices shows bright line test failed
 =================================================

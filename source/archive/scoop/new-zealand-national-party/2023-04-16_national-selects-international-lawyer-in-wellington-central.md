@@ -1,9 +1,13 @@
 ---
 slug: national-selects-international-lawyer-in-wellington-central
-title: "National Selects International Lawyer In Wellington Central"
-date: 2023-04-16
-source-url: https://www.scoop.co.nz/stories/PO2304/S00090/national-selects-international-lawyer-in-wellington-central.htm
+title: National Selects International Lawyer In Wellington Central
+date: 2023-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00090/national-selects-international-lawyer-in-wellington-central.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/04/16/national-selects-international-lawyer-in-wellington-central/index.html
+layout: layout.njk
 ---
 National Selects International Lawyer In Wellington Central
 ===========================================================

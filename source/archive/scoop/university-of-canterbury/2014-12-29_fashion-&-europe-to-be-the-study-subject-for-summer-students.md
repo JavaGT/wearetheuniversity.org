@@ -1,9 +1,12 @@
 ---
 slug: fashion-&-europe-to-be-the-study-subject-for-summer-students
-title: "Fashion & Europe to be the study subject for summer students"
-date: 2014-12-29
-source-url: https://www.scoop.co.nz/stories/ED1412/S00140/fashion-europe-to-be-the-study-subject-for-summer-students.htm
+title: Fashion & Europe to be the study subject for summer students
+date: 2014-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00140/fashion-europe-to-be-the-study-subject-for-summer-students.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/29/fashion-/index.html
+layout: layout.njk
 ---
 Fashion & Europe to be the study subject for summer students
 ============================================================

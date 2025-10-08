@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-tackles-foreign-doctors
-title: "Heather Roy's Diary Tackles Foreign Doctors"
-date: 2007-06-22
-source-url: https://www.scoop.co.nz/stories/PA0706/S00462/heather-roys-diary-tackles-foreign-doctors.htm
+title: Heather Roy's Diary Tackles Foreign Doctors
+date: 2007-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00462/heather-roys-diary-tackles-foreign-doctors.htm
 author: act-new-zealand
+permalink: /archive/2007/06/22/heather-roys-diary-tackles-foreign-doctors/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary Tackles Foreign Doctors
 ===========================================

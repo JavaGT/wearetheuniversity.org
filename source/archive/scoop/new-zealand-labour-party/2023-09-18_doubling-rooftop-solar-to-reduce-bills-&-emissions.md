@@ -1,9 +1,12 @@
 ---
 slug: doubling-rooftop-solar-to-reduce-bills-&-emissions
-title: "Doubling Rooftop Solar To Reduce Bills & Emissions"
-date: 2023-09-18
-source-url: https://www.scoop.co.nz/stories/PA2309/S00094/doubling-rooftop-solar-to-reduce-bills-emissions.htm
+title: Doubling Rooftop Solar To Reduce Bills & Emissions
+date: 2023-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00094/doubling-rooftop-solar-to-reduce-bills-emissions.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/09/18/doubling-rooftop-solar-to-reduce-bills-/index.html
+layout: layout.njk
 ---
 Doubling Rooftop Solar To Reduce Bills & Emissions
 ==================================================

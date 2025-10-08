@@ -1,9 +1,11 @@
 ---
 slug: a-typographic-primer
-title: "A Typographic Primer"
-date: 2009-09-15
+title: A Typographic Primer
+date: 2009-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0909/S00211/a-typographic-primer.htm
 author: salient
+permalink: /archive/2009/09/15/a-typographic-primer/index.html
+layout: layout.njk
 ---
 A Typographic Primer
 ====================

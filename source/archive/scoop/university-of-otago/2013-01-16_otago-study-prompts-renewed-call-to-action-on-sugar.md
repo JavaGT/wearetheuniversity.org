@@ -1,9 +1,13 @@
 ---
 slug: otago-study-prompts-renewed-call-to-action-on-sugar
-title: "Otago study prompts renewed call to action on sugar"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/GE1301/S00026/otago-study-prompts-renewed-call-to-action-on-sugar.htm
+title: Otago study prompts renewed call to action on sugar
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1301/S00026/otago-study-prompts-renewed-call-to-action-on-sugar.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/16/otago-study-prompts-renewed-call-to-action-on-sugar/index.html
+layout: layout.njk
 ---
 Otago study prompts renewed call to action on sugar
 ===================================================

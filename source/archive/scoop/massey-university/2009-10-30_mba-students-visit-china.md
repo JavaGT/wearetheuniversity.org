@@ -1,9 +1,11 @@
 ---
 slug: mba-students-visit-china
-title: "MBA students visit China"
-date: 2009-10-30
+title: MBA students visit China
+date: 2009-10-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0910/S00128/mba-students-visit-china.htm
 author: massey-university
+permalink: /archive/2009/10/30/mba-students-visit-china/index.html
+layout: layout.njk
 ---
 MBA students visit China
 ========================

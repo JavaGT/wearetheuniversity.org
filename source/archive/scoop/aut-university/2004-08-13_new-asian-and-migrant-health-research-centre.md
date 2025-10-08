@@ -1,9 +1,12 @@
 ---
 slug: new-asian-and-migrant-health-research-centre
-title: "New Asian And Migrant Health Research Centre"
-date: 2004-08-13
-source-url: https://www.scoop.co.nz/stories/ED0408/S00064/new-asian-and-migrant-health-research-centre.htm
+title: New Asian And Migrant Health Research Centre
+date: 2004-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00064/new-asian-and-migrant-health-research-centre.htm
 author: aut-university
+permalink: /archive/2004/08/13/new-asian-and-migrant-health-research-centre/index.html
+layout: layout.njk
 ---
 New Asian And Migrant Health Research Centre
 ============================================

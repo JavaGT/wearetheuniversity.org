@@ -1,9 +1,12 @@
 ---
 slug: massey-issue-168-september-18-2012
-title: "@Massey Issue 168, September 18, 2012"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/ED1209/S00132/massey-issue-168-september-18-2012.htm
+title: '@Massey Issue 168, September 18, 2012'
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00132/massey-issue-168-september-18-2012.htm
 author: massey-university
+permalink: /archive/2012/09/18/massey-issue-168-september-18-2012/index.html
+layout: layout.njk
 ---
 @Massey Issue 168, September 18, 2012
 =====================================

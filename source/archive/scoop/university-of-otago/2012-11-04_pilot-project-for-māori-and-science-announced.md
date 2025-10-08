@@ -1,9 +1,12 @@
 ---
 slug: pilot-project-for-māori-and-science-announced
-title: "Pilot project for Māori and Science announced"
-date: 2012-11-04
-source-url: https://www.scoop.co.nz/stories/ED1211/S00028/pilot-project-for-maori-and-science-announced.htm
+title: Pilot project for Māori and Science announced
+date: 2012-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00028/pilot-project-for-maori-and-science-announced.htm
 author: university-of-otago
+permalink: /archive/2012/11/04/pilot-project-for-m/index.html
+layout: layout.njk
 ---
 Pilot project for Māori and Science announced
 =============================================

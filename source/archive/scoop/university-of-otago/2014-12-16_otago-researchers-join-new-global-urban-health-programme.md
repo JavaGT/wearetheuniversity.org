@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-join-new-global-urban-health-programme
-title: "Otago researchers join new global Urban Health Programme"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/GE1412/S00098/otago-researchers-join-new-global-urban-health-programme.htm
+title: Otago researchers join new global Urban Health Programme
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1412/S00098/otago-researchers-join-new-global-urban-health-programme.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/16/otago-researchers-join-new-global-urban-health-programme/index.html
+layout: layout.njk
 ---
 Otago researchers join new global Urban Health Programme
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: address-at-university-of-auckland
-title: "Address at University of Auckland"
-date: 2006-05-07
-source-url: https://www.scoop.co.nz/stories/SP0605/S00002/address-at-university-of-auckland.htm
+title: Address at University of Auckland
+date: 2006-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP0605/S00002/address-at-university-of-auckland.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/05/07/address-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 Address at University of Auckland
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-reconsider-price-of-alcohol
-title: "Government must reconsider price of alcohol"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00255/government-must-reconsider-price-of-alcohol.htm
+title: Government must reconsider price of alcohol
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00255/government-must-reconsider-price-of-alcohol.htm
 author: green-party
+permalink: /archive/2010/10/15/government-must-reconsider-price-of-alcohol/index.html
+layout: layout.njk
 ---
 Government must reconsider price of alcohol
 ===========================================

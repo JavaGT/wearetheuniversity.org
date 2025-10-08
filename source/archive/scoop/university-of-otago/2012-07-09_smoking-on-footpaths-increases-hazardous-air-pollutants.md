@@ -1,9 +1,13 @@
 ---
 slug: smoking-on-footpaths-increases-hazardous-air-pollutants
-title: "Smoking on footpaths increases hazardous air pollutants"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/ED1207/S00025/smoking-on-footpaths-increases-hazardous-air-pollutants.htm
+title: Smoking on footpaths increases hazardous air pollutants
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00025/smoking-on-footpaths-increases-hazardous-air-pollutants.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/09/smoking-on-footpaths-increases-hazardous-air-pollutants/index.html
+layout: layout.njk
 ---
 Smoking on footpaths increases hazardous air pollutants
 =======================================================

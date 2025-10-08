@@ -1,9 +1,13 @@
 ---
 slug: earthquake-recovery-needs-to-focus-on-sustainability
-title: "Earthquake Recovery needs to focus on sustainability"
-date: 2011-03-29
-source-url: https://www.scoop.co.nz/stories/PA1103/S00470/earthquake-recovery-needs-to-focus-on-sustainability.htm
+title: Earthquake Recovery needs to focus on sustainability
+date: 2011-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00470/earthquake-recovery-needs-to-focus-on-sustainability.htm
 author: green-party
+permalink: >-
+  /archive/2011/03/29/earthquake-recovery-needs-to-focus-on-sustainability/index.html
+layout: layout.njk
 ---
 Earthquake Recovery needs to focus on sustainability
 ====================================================

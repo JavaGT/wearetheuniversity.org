@@ -1,9 +1,13 @@
 ---
 slug: free-press-26-november-2018-unintended-consequences
-title: "Free Press, 26 November 2018 – Unintended Consequences"
-date: 2018-11-27
-source-url: https://www.scoop.co.nz/stories/PA1811/S00262/free-press-26-november-2018-unintended-consequences.htm
+title: Free Press, 26 November 2018 – Unintended Consequences
+date: 2018-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00262/free-press-26-november-2018-unintended-consequences.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/11/27/free-press-26-november-2018-unintended-consequences/index.html
+layout: layout.njk
 ---
 Free Press, 26 November 2018 – Unintended Consequences
 ======================================================

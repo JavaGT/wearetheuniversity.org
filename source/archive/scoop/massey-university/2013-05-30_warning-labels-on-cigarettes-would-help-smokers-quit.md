@@ -1,9 +1,13 @@
 ---
 slug: warning-labels-on-cigarettes-would-help-smokers-quit
-title: "Warning Labels On Cigarettes Would Help Smokers Quit"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/WO1305/S00737/warning-labels-on-cigarettes-would-help-smokers-quit.htm
+title: Warning Labels On Cigarettes Would Help Smokers Quit
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1305/S00737/warning-labels-on-cigarettes-would-help-smokers-quit.htm
 author: massey-university
+permalink: >-
+  /archive/2013/05/30/warning-labels-on-cigarettes-would-help-smokers-quit/index.html
+layout: layout.njk
 ---
 Warning Labels On Cigarettes Would Help Smokers Quit
 ====================================================

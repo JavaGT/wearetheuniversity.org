@@ -1,9 +1,13 @@
 ---
 slug: communications-conference-to-bring-1000s-of-people-to-ōtautahi
-title: "Communications Conference To Bring 1000s Of People To Ōtautahi"
-date: 2023-04-03
-source-url: https://www.scoop.co.nz/stories/ED2304/S00002/communications-conference-to-bring-1000s-of-people-to-otautahi.htm
+title: Communications Conference To Bring 1000s Of People To Ōtautahi
+date: 2023-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2304/S00002/communications-conference-to-bring-1000s-of-people-to-otautahi.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/04/03/communications-conference-to-bring-1000s-of-people-to-/index.html
+layout: layout.njk
 ---
 Communications Conference To Bring 1000s Of People To Ōtautahi
 ==============================================================

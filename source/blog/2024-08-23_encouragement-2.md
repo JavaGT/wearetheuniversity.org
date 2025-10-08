@@ -1,10 +1,17 @@
 ---
+layout: layout.njk
 title: Encouragement 2
 slug: encouragement-2
-date: 2024-08-23
+date: 2024-08-23T00:00:00.000Z
 source: private communications
 author: anonymous
 author-slug: anonymous
+permalink: /blog/2024/08/23/encouragement-2/index.html
+excerpt: >-
+  Kia ora Java, REDACTED I’m just writing to say thank you for your hard work on
+  student engagement in this course optimisation process. I attended the event
+  yesterday at the quad, and I think you did a fantastic job with the pointed
+  questions to our Provost. The questions from students...
 ---
 
 Kia ora Java,

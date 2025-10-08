@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-develops-links-with-vietnam
-title: "Waikato University develops links with Vietnam"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/ED0507/S00092/waikato-university-develops-links-with-vietnam.htm
+title: Waikato University develops links with Vietnam
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00092/waikato-university-develops-links-with-vietnam.htm
 author: waikato-university
+permalink: /archive/2005/07/25/waikato-university-develops-links-with-vietnam/index.html
+layout: layout.njk
 ---
 Waikato University develops links with Vietnam
 ==============================================

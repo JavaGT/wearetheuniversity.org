@@ -1,9 +1,13 @@
 ---
 slug: election-website-nominated-for-oscars-of-the-internet
-title: "Election website nominated for Oscars of the Internet"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/BU1504/S00344/election-website-nominated-for-oscars-of-the-internet.htm
+title: Election website nominated for Oscars of the Internet
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00344/election-website-nominated-for-oscars-of-the-internet.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/14/election-website-nominated-for-oscars-of-the-internet/index.html
+layout: layout.njk
 ---
 Election website nominated for Oscars of the Internet
 =====================================================

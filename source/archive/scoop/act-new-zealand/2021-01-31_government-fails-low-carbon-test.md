@@ -1,9 +1,12 @@
 ---
 slug: government-fails-low-carbon-test
-title: "Government Fails Low Carbon Test"
-date: 2021-01-31
-source-url: https://www.scoop.co.nz/stories/PA2101/S00097/government-fails-low-carbon-test.htm
+title: Government Fails Low Carbon Test
+date: 2021-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00097/government-fails-low-carbon-test.htm
 author: act-new-zealand
+permalink: /archive/2021/01/31/government-fails-low-carbon-test/index.html
+layout: layout.njk
 ---
 Government Fails Low Carbon Test
 ================================

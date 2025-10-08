@@ -1,9 +1,12 @@
 ---
 slug: judgment-and-gender-in-new-zealand
-title: "Judgment and gender in New Zealand"
-date: 2017-05-15
-source-url: https://www.scoop.co.nz/stories/PO1705/S00195/judgment-and-gender-in-new-zealand.htm
+title: Judgment and gender in New Zealand
+date: 2017-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00195/judgment-and-gender-in-new-zealand.htm
 author: university-of-canterbury
+permalink: /archive/2017/05/15/judgment-and-gender-in-new-zealand/index.html
+layout: layout.njk
 ---
 Judgment and gender in New Zealand
 ==================================

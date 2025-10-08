@@ -1,9 +1,13 @@
 ---
 slug: lincoln-recognises-top-horticulture-diploma-scholar
-title: "Lincoln recognises top horticulture diploma scholar"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/ED1204/S00074/lincoln-recognises-top-horticulture-diploma-scholar.htm
+title: Lincoln recognises top horticulture diploma scholar
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00074/lincoln-recognises-top-horticulture-diploma-scholar.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/04/19/lincoln-recognises-top-horticulture-diploma-scholar/index.html
+layout: layout.njk
 ---
 Lincoln recognises top horticulture diploma scholar
 ===================================================

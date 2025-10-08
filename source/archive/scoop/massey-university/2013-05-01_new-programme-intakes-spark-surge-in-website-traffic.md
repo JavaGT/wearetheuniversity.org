@@ -1,9 +1,13 @@
 ---
 slug: new-programme-intakes-spark-surge-in-website-traffic
-title: "New programme intakes spark surge in website traffic"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/ED1305/S00006/new-programme-intakes-spark-surge-in-website-traffic.htm
+title: New programme intakes spark surge in website traffic
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00006/new-programme-intakes-spark-surge-in-website-traffic.htm
 author: massey-university
+permalink: >-
+  /archive/2013/05/01/new-programme-intakes-spark-surge-in-website-traffic/index.html
+layout: layout.njk
 ---
 New programme intakes spark surge in website traffic
 ====================================================

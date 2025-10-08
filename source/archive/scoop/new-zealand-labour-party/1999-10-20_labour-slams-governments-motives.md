@@ -1,9 +1,12 @@
 ---
 slug: labour-slams-governments-motives
-title: "Labour slams Government's motives"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00448/labour-slams-governments-motives.htm
+title: Labour slams Government's motives
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00448/labour-slams-governments-motives.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/labour-slams-governments-motives/index.html
+layout: layout.njk
 ---
 Labour slams Government's motives
 =================================

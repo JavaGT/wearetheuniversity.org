@@ -1,9 +1,13 @@
 ---
 slug: no-christmas-cheer-as-hospital-parking-revenue-soars
-title: "No Christmas Cheer as Hospital Parking Revenue Soars"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/PA1511/S00253/no-christmas-cheer-as-hospital-parking-revenue-soars.htm
+title: No Christmas Cheer as Hospital Parking Revenue Soars
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00253/no-christmas-cheer-as-hospital-parking-revenue-soars.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/13/no-christmas-cheer-as-hospital-parking-revenue-soars/index.html
+layout: layout.njk
 ---
 No Christmas Cheer as Hospital Parking Revenue Soars
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: cost-at-issue-when-young-people-choose-transport
-title: "Cost at issue when young people choose transport"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/BU1208/S00443/cost-at-issue-when-young-people-choose-transport.htm
+title: Cost at issue when young people choose transport
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S00443/cost-at-issue-when-young-people-choose-transport.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/13/cost-at-issue-when-young-people-choose-transport/index.html
+layout: layout.njk
 ---
 Cost at issue when young people choose transport
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: smith-lays-complaint-with-auditor-general
-title: "Smith lays complaint with Auditor-General"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/PA0606/S00147/smith-lays-complaint-with-auditor-general.htm
+title: Smith lays complaint with Auditor-General
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00147/smith-lays-complaint-with-auditor-general.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/09/smith-lays-complaint-with-auditor-general/index.html
+layout: layout.njk
 ---
 Smith lays complaint with Auditor-General
 =========================================

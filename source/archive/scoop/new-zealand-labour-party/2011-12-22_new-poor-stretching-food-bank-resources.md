@@ -1,9 +1,12 @@
 ---
 slug: new-poor-stretching-food-bank-resources
-title: "New poor stretching food bank resources"
-date: 2011-12-22
-source-url: https://www.scoop.co.nz/stories/PA1112/S00169/new-poor-stretching-food-bank-resources.htm
+title: New poor stretching food bank resources
+date: 2011-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00169/new-poor-stretching-food-bank-resources.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/22/new-poor-stretching-food-bank-resources/index.html
+layout: layout.njk
 ---
 New poor stretching food bank resources
 =======================================

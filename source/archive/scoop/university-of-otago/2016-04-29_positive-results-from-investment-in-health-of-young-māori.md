@@ -1,9 +1,13 @@
 ---
 slug: positive-results-from-investment-in-health-of-young-māori
-title: "Positive results from investment in health of young Māori"
-date: 2016-04-29
-source-url: https://www.scoop.co.nz/stories/GE1604/S00109/positive-results-from-investment-in-health-of-young-maori.htm
+title: Positive results from investment in health of young Māori
+date: 2016-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00109/positive-results-from-investment-in-health-of-young-maori.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/29/positive-results-from-investment-in-health-of-young-m/index.html
+layout: layout.njk
 ---
 Positive results from investment in health of young Māori
 =========================================================

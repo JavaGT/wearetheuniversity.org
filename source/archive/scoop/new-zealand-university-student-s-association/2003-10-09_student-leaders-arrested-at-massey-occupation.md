@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-arrested-at-massey-occupation
-title: "Student leaders arrested at Massey occupation"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00038/student-leaders-arrested-at-massey-occupation.htm
+title: Student leaders arrested at Massey occupation
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00038/student-leaders-arrested-at-massey-occupation.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/10/09/student-leaders-arrested-at-massey-occupation/index.html
+layout: layout.njk
 ---
 Student leaders arrested at Massey occupation
 =============================================

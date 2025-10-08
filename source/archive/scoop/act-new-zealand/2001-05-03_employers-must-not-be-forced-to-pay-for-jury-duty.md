@@ -1,9 +1,13 @@
 ---
 slug: employers-must-not-be-forced-to-pay-for-jury-duty
-title: "Employers Must Not Be Forced To Pay For Jury Duty"
-date: 2001-05-03
-source-url: https://www.scoop.co.nz/stories/PA0105/S00083/employers-must-not-be-forced-to-pay-for-jury-duty.htm
+title: Employers Must Not Be Forced To Pay For Jury Duty
+date: 2001-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00083/employers-must-not-be-forced-to-pay-for-jury-duty.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/05/03/employers-must-not-be-forced-to-pay-for-jury-duty/index.html
+layout: layout.njk
 ---
 Employers Must Not Be Forced To Pay For Jury Duty
 =================================================

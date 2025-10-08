@@ -1,9 +1,12 @@
 ---
 slug: top-award-for-lecturer-with-the-human-touch
-title: "Top award for lecturer with the human touch"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/ED0702/S00087/top-award-for-lecturer-with-the-human-touch.htm
+title: Top award for lecturer with the human touch
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00087/top-award-for-lecturer-with-the-human-touch.htm
 author: university-of-waikato
+permalink: /archive/2007/02/23/top-award-for-lecturer-with-the-human-touch/index.html
+layout: layout.njk
 ---
 Top award for lecturer with the human touch
 ===========================================

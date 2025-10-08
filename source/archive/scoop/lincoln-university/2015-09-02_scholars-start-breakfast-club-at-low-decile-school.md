@@ -1,9 +1,13 @@
 ---
 slug: scholars-start-breakfast-club-at-low-decile-school
-title: "Scholars start breakfast club at low-decile school"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/ED1509/S00008/scholars-start-breakfast-club-at-low-decile-school.htm
+title: Scholars start breakfast club at low-decile school
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00008/scholars-start-breakfast-club-at-low-decile-school.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/09/02/scholars-start-breakfast-club-at-low-decile-school/index.html
+layout: layout.njk
 ---
 Scholars start breakfast club at low-decile school
 ==================================================

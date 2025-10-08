@@ -1,9 +1,12 @@
 ---
 slug: fatherlessness-exacerbated-by-the-labour-govt
-title: "Fatherlessness Exacerbated by the Labour Govt"
-date: 2002-09-27
-source-url: https://www.scoop.co.nz/stories/PA0209/S00453/fatherlessness-exacerbated-by-the-labour-govt.htm
+title: Fatherlessness Exacerbated by the Labour Govt
+date: 2002-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00453/fatherlessness-exacerbated-by-the-labour-govt.htm
 author: act-new-zealand
+permalink: /archive/2002/09/27/fatherlessness-exacerbated-by-the-labour-govt/index.html
+layout: layout.njk
 ---
 Fatherlessness Exacerbated by the Labour Govt
 =============================================

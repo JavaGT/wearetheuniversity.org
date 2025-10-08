@@ -1,9 +1,12 @@
 ---
 slug: poor-govt-planning-leaves-navy-high-and-dry
-title: "Poor Govt planning leaves Navy high and dry"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/PA0404/S00203/poor-govt-planning-leaves-navy-high-and-dry.htm
+title: Poor Govt planning leaves Navy high and dry
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00203/poor-govt-planning-leaves-navy-high-and-dry.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/14/poor-govt-planning-leaves-navy-high-and-dry/index.html
+layout: layout.njk
 ---
 Poor Govt planning leaves Navy high and dry
 ===========================================

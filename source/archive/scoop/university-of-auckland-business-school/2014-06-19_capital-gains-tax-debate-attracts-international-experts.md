@@ -1,9 +1,13 @@
 ---
 slug: capital-gains-tax-debate-attracts-international-experts
-title: "Capital gains tax debate attracts international experts"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/BU1406/S00672/capital-gains-tax-debate-attracts-international-experts.htm
+title: Capital gains tax debate attracts international experts
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1406/S00672/capital-gains-tax-debate-attracts-international-experts.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2014/06/19/capital-gains-tax-debate-attracts-international-experts/index.html
+layout: layout.njk
 ---
 Capital gains tax debate attracts international experts
 =======================================================

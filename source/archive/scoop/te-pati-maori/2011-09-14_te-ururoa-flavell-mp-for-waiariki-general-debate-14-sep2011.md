@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-mp-for-waiariki-general-debate-14-sep2011
-title: "Te Ururoa Flavell, MP for Waiariki:General Debate 14 Sep2011"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/PA1109/S00277/te-ururoa-flavell-mp-for-waiarikigeneral-debate-14-sep2011.htm
+title: Te Ururoa Flavell, MP for Waiariki:General Debate 14 Sep2011
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00277/te-ururoa-flavell-mp-for-waiarikigeneral-debate-14-sep2011.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/14/te-ururoa-flavell-mp-for-waiariki-general-debate-14-sep2011/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell, MP for Waiariki:General Debate 14 Sep2011
 ============================================================

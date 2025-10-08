@@ -1,9 +1,11 @@
 ---
 slug: regrets-ive-had-a-few-…
-title: "Regrets, I’ve had a few …"
-date: 2007-10-24
+title: Regrets, I’ve had a few …
+date: 2007-10-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0710/S00076/regrets-ive-had-a-few.htm
 author: massey-university
+permalink: /archive/2007/10/24/regrets-ive-had-a-few-/index.html
+layout: layout.njk
 ---
 Regrets, I’ve had a few …
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-dispel-fallacy-about-nz-black-stilt
-title: "UC scientists dispel fallacy about NZ Black Stilt"
-date: 2010-11-04
-source-url: https://www.scoop.co.nz/stories/SC1011/S00009/uc-scientists-dispel-fallacy-about-nz-black-stilt.htm
+title: UC scientists dispel fallacy about NZ Black Stilt
+date: 2010-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00009/uc-scientists-dispel-fallacy-about-nz-black-stilt.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/11/04/uc-scientists-dispel-fallacy-about-nz-black-stilt/index.html
+layout: layout.njk
 ---
 UC scientists dispel fallacy about NZ Black Stilt
 =================================================

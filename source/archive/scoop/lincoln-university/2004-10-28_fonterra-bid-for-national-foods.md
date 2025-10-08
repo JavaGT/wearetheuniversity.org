@@ -1,9 +1,12 @@
 ---
 slug: fonterra-bid-for-national-foods
-title: "Fonterra bid for National Foods"
-date: 2004-10-28
-source-url: https://www.scoop.co.nz/stories/BU0410/S00369/fonterra-bid-for-national-foods.htm
+title: Fonterra bid for National Foods
+date: 2004-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0410/S00369/fonterra-bid-for-national-foods.htm
 author: lincoln-university
+permalink: /archive/2004/10/28/fonterra-bid-for-national-foods/index.html
+layout: layout.njk
 ---
 Fonterra bid for National Foods
 ===============================

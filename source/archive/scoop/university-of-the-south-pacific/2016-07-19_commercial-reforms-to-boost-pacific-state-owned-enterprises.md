@@ -1,9 +1,13 @@
 ---
 slug: commercial-reforms-to-boost-pacific-state-owned-enterprises
-title: "Commercial reforms to boost Pacific state-owned enterprises"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/WO1607/S00059/commercial-reforms-to-boost-pacific-state-owned-enterprises.htm
+title: Commercial reforms to boost Pacific state-owned enterprises
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1607/S00059/commercial-reforms-to-boost-pacific-state-owned-enterprises.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2016/07/19/commercial-reforms-to-boost-pacific-state-owned-enterprises/index.html
+layout: layout.njk
 ---
 Commercial reforms to boost Pacific state-owned enterprises
 ===========================================================

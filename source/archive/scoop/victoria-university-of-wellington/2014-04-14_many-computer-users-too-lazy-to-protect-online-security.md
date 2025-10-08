@@ -1,9 +1,13 @@
 ---
 slug: many-computer-users-too-lazy-to-protect-online-security
-title: "Many computer users \"too lazy\" to protect online security"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/CU1404/S00202/many-computer-users-too-lazy-to-protect-online-security.htm
+title: Many computer users "too lazy" to protect online security
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00202/many-computer-users-too-lazy-to-protect-online-security.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/04/14/many-computer-users-too-lazy-to-protect-online-security/index.html
+layout: layout.njk
 ---
 Many computer users “too lazy” to protect online security
 =========================================================

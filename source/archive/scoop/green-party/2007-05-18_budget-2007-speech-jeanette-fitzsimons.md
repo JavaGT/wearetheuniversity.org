@@ -1,9 +1,12 @@
 ---
 slug: budget-2007-speech-jeanette-fitzsimons
-title: "Budget 2007 Speech - Jeanette Fitzsimons"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/PA0705/S00485/budget-2007-speech-jeanette-fitzsimons.htm
+title: Budget 2007 Speech - Jeanette Fitzsimons
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00485/budget-2007-speech-jeanette-fitzsimons.htm
 author: green-party
+permalink: /archive/2007/05/18/budget-2007-speech-jeanette-fitzsimons/index.html
+layout: layout.njk
 ---
 Budget 2007 Speech - Jeanette Fitzsimons
 ========================================

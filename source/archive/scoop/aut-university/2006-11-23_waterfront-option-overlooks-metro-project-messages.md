@@ -1,9 +1,13 @@
 ---
 slug: waterfront-option-overlooks-metro-project-messages
-title: "Waterfront option overlooks Metro Project messages"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/AK0611/S00282/waterfront-option-overlooks-metro-project-messages.htm
+title: Waterfront option overlooks Metro Project messages
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0611/S00282/waterfront-option-overlooks-metro-project-messages.htm
 author: aut-university
+permalink: >-
+  /archive/2006/11/23/waterfront-option-overlooks-metro-project-messages/index.html
+layout: layout.njk
 ---
 Waterfront option overlooks Metro Project messages
 ==================================================

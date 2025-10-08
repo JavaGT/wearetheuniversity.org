@@ -1,9 +1,13 @@
 ---
 slug: jims-letters-a-moving-story-of-a-soldiers-short-life
-title: "‘Jim’s Letters’ a moving story of a soldier’s short life"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/ED1404/S00038/jims-letters-a-moving-story-of-a-soldiers-short-life.htm
+title: ‘Jim’s Letters’ a moving story of a soldier’s short life
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00038/jims-letters-a-moving-story-of-a-soldiers-short-life.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/08/jims-letters-a-moving-story-of-a-soldiers-short-life/index.html
+layout: layout.njk
 ---
 ‘Jim’s Letters’ a moving story of a soldier’s short life
 ========================================================

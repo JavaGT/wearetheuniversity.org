@@ -1,9 +1,12 @@
 ---
 slug: top-up-rescue-helicopter-funding-shortfall
-title: "Top up Rescue Helicopter Funding Shortfall"
-date: 2015-11-12
-source-url: https://www.scoop.co.nz/stories/PA1511/S00235/top-up-rescue-helicopter-funding-shortfall.htm
+title: Top up Rescue Helicopter Funding Shortfall
+date: 2015-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00235/top-up-rescue-helicopter-funding-shortfall.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/12/top-up-rescue-helicopter-funding-shortfall/index.html
+layout: layout.njk
 ---
 Top up Rescue Helicopter Funding Shortfall
 ==========================================

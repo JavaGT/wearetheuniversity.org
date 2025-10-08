@@ -1,9 +1,12 @@
 ---
 slug: the-employment-relations-bill-is-not-enough
-title: "The Employment Relations Bill Is Not Enough"
-date: 2000-07-06
-source-url: https://www.scoop.co.nz/stories/PA0007/S00074/the-employment-relations-bill-is-not-enough.htm
+title: The Employment Relations Bill Is Not Enough
+date: 2000-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00074/the-employment-relations-bill-is-not-enough.htm
 author: green-party
+permalink: /archive/2000/07/06/the-employment-relations-bill-is-not-enough/index.html
+layout: layout.njk
 ---
 The Employment Relations Bill Is Not Enough
 ===========================================

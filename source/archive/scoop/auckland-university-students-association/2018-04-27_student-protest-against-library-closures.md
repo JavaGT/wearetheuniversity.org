@@ -1,9 +1,12 @@
 ---
 slug: student-protest-against-library-closures
-title: "Student protest against library closures"
-date: 2018-04-27
-source-url: https://www.scoop.co.nz/stories/ED1804/S00063/student-protest-against-library-closures.htm
+title: Student protest against library closures
+date: 2018-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00063/student-protest-against-library-closures.htm
 author: auckland-university-students-association
+permalink: /archive/2018/04/27/student-protest-against-library-closures/index.html
+layout: layout.njk
 ---
 Student protest against library closures
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: prison-smuggling-more-prevalent-in-some-areas
-title: "Prison smuggling more prevalent in some areas"
-date: 2006-01-13
-source-url: https://www.scoop.co.nz/stories/PA0601/S00034/prison-smuggling-more-prevalent-in-some-areas.htm
+title: Prison smuggling more prevalent in some areas
+date: 2006-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00034/prison-smuggling-more-prevalent-in-some-areas.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/13/prison-smuggling-more-prevalent-in-some-areas/index.html
+layout: layout.njk
 ---
 Prison smuggling more prevalent in some areas
 =============================================

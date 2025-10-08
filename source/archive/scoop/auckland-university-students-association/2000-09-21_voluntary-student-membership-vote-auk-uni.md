@@ -1,9 +1,12 @@
 ---
 slug: voluntary-student-membership-vote-auk-uni
-title: "Voluntary Student Membership Vote - Auk Uni"
-date: 2000-09-21
-source-url: https://www.scoop.co.nz/stories/ED0009/S00043/voluntary-student-membership-vote-auk-uni.htm
+title: Voluntary Student Membership Vote - Auk Uni
+date: 2000-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00043/voluntary-student-membership-vote-auk-uni.htm
 author: auckland-university-students-association
+permalink: /archive/2000/09/21/voluntary-student-membership-vote-auk-uni/index.html
+layout: layout.njk
 ---
 Voluntary Student Membership Vote - Auk Uni
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: te-ururoa-flavell-speech
-title: "Te Ururoa Flavell - Speech"
-date: 2006-09-07
+title: Te Ururoa Flavell - Speech
+date: 2006-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00161/te-ururoa-flavell-speech.htm
 author: te-pati-maori
+permalink: /archive/2006/09/07/te-ururoa-flavell-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Speech
 ==========================

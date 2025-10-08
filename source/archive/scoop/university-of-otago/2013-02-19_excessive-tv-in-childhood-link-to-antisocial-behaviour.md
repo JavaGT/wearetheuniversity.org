@@ -1,9 +1,13 @@
 ---
 slug: excessive-tv-in-childhood-link-to-antisocial-behaviour
-title: "Excessive TV in childhood link to antisocial behaviour"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/ED1302/S00097/excessive-tv-in-childhood-link-to-antisocial-behaviour.htm
+title: Excessive TV in childhood link to antisocial behaviour
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00097/excessive-tv-in-childhood-link-to-antisocial-behaviour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/02/19/excessive-tv-in-childhood-link-to-antisocial-behaviour/index.html
+layout: layout.njk
 ---
 Excessive TV in childhood link to antisocial behaviour
 ======================================================

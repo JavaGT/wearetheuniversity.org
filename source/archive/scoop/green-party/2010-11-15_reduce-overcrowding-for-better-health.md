@@ -1,9 +1,12 @@
 ---
 slug: reduce-overcrowding-for-better-health
-title: "Reduce overcrowding for better health"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/PA1011/S00286/reduce-overcrowding-for-better-health.htm
+title: Reduce overcrowding for better health
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00286/reduce-overcrowding-for-better-health.htm
 author: green-party
+permalink: /archive/2010/11/15/reduce-overcrowding-for-better-health/index.html
+layout: layout.njk
 ---
 Reduce overcrowding for better health
 =====================================

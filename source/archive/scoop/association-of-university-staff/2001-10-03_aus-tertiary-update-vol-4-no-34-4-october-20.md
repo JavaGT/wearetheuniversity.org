@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-34-4-october-20
-title: "AUS Tertiary Update Vol. 4  No. 34, 4 October 20"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/ED0110/S00004/aus-tertiary-update-vol-4-no-34-4-october-20.htm
+title: AUS Tertiary Update Vol. 4  No. 34, 4 October 20
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00004/aus-tertiary-update-vol-4-no-34-4-october-20.htm
 author: association-of-university-staff
+permalink: /archive/2001/10/03/aus-tertiary-update-vol-4-no-34-4-october-20/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4 No. 34, 4 October 20
 ===============================================

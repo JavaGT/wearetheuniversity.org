@@ -1,9 +1,12 @@
 ---
 slug: dairy-not-all-about-milking-it
-title: "Dairy not all about milking it"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/BU1712/S00203/dairy-not-all-about-milking-it.htm
+title: Dairy not all about milking it
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1712/S00203/dairy-not-all-about-milking-it.htm
 author: lincoln-university
+permalink: /archive/2017/12/07/dairy-not-all-about-milking-it/index.html
+layout: layout.njk
 ---
 Dairy not all about milking it
 ==============================

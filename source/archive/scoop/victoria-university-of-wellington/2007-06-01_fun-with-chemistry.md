@@ -1,9 +1,11 @@
 ---
 slug: fun-with-chemistry
-title: "Fun with chemistry"
-date: 2007-06-01
+title: Fun with chemistry
+date: 2007-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0706/S00002/fun-with-chemistry.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/01/fun-with-chemistry/index.html
+layout: layout.njk
 ---
 Fun with chemistry
 ==================

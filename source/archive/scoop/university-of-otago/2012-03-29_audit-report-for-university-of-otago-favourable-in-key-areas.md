@@ -1,9 +1,13 @@
 ---
 slug: audit-report-for-university-of-otago-favourable-in-key-areas
-title: "Audit Report For University Of Otago Favourable In Key Areas"
-date: 2012-03-29
-source-url: https://www.scoop.co.nz/stories/ED1203/S00149/audit-report-for-university-of-otago-favourable-in-key-areas.htm
+title: Audit Report For University Of Otago Favourable In Key Areas
+date: 2012-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00149/audit-report-for-university-of-otago-favourable-in-key-areas.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/03/29/audit-report-for-university-of-otago-favourable-in-key-areas/index.html
+layout: layout.njk
 ---
 Audit Report For University Of Otago Favourable In Key Areas
 ============================================================

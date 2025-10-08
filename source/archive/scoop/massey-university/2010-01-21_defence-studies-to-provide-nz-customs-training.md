@@ -1,9 +1,12 @@
 ---
 slug: defence-studies-to-provide-nz-customs-training
-title: "Defence Studies to provide NZ Customs training"
-date: 2010-01-21
-source-url: https://www.scoop.co.nz/stories/ED1001/S00025/defence-studies-to-provide-nz-customs-training.htm
+title: Defence Studies to provide NZ Customs training
+date: 2010-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00025/defence-studies-to-provide-nz-customs-training.htm
 author: massey-university
+permalink: /archive/2010/01/21/defence-studies-to-provide-nz-customs-training/index.html
+layout: layout.njk
 ---
 Defence Studies to provide NZ Customs training
 ==============================================

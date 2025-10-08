@@ -1,9 +1,13 @@
 ---
 slug: chief-ombudsman-to-investigate-ministers-secret-letter
-title: "Chief Ombudsman to investigate Minister’s secret letter"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/PA1908/S00066/chief-ombudsman-to-investigate-ministers-secret-letter.htm
+title: Chief Ombudsman to investigate Minister’s secret letter
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00066/chief-ombudsman-to-investigate-ministers-secret-letter.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/08/06/chief-ombudsman-to-investigate-ministers-secret-letter/index.html
+layout: layout.njk
 ---
 Chief Ombudsman to investigate Minister’s secret letter
 =======================================================

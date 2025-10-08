@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-12-august-2005
-title: "Beehive Bulletin 12 August 2005"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/PA0508/S00345/beehive-bulletin-12-august-2005.htm
+title: Beehive Bulletin 12 August 2005
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00345/beehive-bulletin-12-august-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/12/beehive-bulletin-12-august-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin 12 August 2005
 ===============================

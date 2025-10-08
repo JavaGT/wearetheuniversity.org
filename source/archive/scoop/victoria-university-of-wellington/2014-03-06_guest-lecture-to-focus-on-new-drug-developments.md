@@ -1,9 +1,12 @@
 ---
 slug: guest-lecture-to-focus-on-new-drug-developments
-title: "Guest lecture to focus on new drug developments"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/ED1403/S00037/guest-lecture-to-focus-on-new-drug-developments.htm
+title: Guest lecture to focus on new drug developments
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00037/guest-lecture-to-focus-on-new-drug-developments.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/06/guest-lecture-to-focus-on-new-drug-developments/index.html
+layout: layout.njk
 ---
 Guest lecture to focus on new drug developments
 ===============================================

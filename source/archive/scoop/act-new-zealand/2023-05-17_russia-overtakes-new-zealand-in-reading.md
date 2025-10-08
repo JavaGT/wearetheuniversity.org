@@ -1,9 +1,12 @@
 ---
 slug: russia-overtakes-new-zealand-in-reading
-title: "Russia Overtakes New Zealand In Reading"
-date: 2023-05-17
-source-url: https://www.scoop.co.nz/stories/PA2305/S00109/russia-overtakes-new-zealand-in-reading.htm
+title: Russia Overtakes New Zealand In Reading
+date: 2023-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00109/russia-overtakes-new-zealand-in-reading.htm
 author: act-new-zealand
+permalink: /archive/2023/05/17/russia-overtakes-new-zealand-in-reading/index.html
+layout: layout.njk
 ---
 Russia Overtakes New Zealand In Reading
 =======================================

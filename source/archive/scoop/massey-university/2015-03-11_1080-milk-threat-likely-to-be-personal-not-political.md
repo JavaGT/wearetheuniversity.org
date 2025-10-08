@@ -1,9 +1,13 @@
 ---
 slug: 1080-milk-threat-likely-to-be-personal-not-political
-title: "1080 milk threat likely to be personal, not political"
-date: 2015-03-11
-source-url: https://www.scoop.co.nz/stories/ED1503/S00047/1080-milk-threat-likely-to-be-personal-not-political.htm
+title: 1080 milk threat likely to be personal, not political
+date: 2015-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00047/1080-milk-threat-likely-to-be-personal-not-political.htm
 author: massey-university
+permalink: >-
+  /archive/2015/03/11/1080-milk-threat-likely-to-be-personal-not-political/index.html
+layout: layout.njk
 ---
 1080 milk threat likely to be personal, not political
 =====================================================

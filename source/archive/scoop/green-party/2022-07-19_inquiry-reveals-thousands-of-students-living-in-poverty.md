@@ -1,9 +1,13 @@
 ---
 slug: inquiry-reveals-thousands-of-students-living-in-poverty
-title: "Inquiry Reveals Thousands Of Students Living In Poverty"
-date: 2022-07-19
-source-url: https://www.scoop.co.nz/stories/PO2207/S00110/inquiry-reveals-thousands-of-students-living-in-poverty.htm
+title: Inquiry Reveals Thousands Of Students Living In Poverty
+date: 2022-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2207/S00110/inquiry-reveals-thousands-of-students-living-in-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2022/07/19/inquiry-reveals-thousands-of-students-living-in-poverty/index.html
+layout: layout.njk
 ---
 Inquiry Reveals Thousands Of Students Living In Poverty
 =======================================================

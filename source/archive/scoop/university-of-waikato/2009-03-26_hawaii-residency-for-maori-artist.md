@@ -1,9 +1,12 @@
 ---
 slug: hawaii-residency-for-maori-artist
-title: "Hawaii residency for Maori artist"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/CU0903/S00368/hawaii-residency-for-maori-artist.htm
+title: Hawaii residency for Maori artist
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00368/hawaii-residency-for-maori-artist.htm
 author: university-of-waikato
+permalink: /archive/2009/03/26/hawaii-residency-for-maori-artist/index.html
+layout: layout.njk
 ---
 Hawaii residency for Maori artist
 =================================

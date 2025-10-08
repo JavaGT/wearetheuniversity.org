@@ -1,9 +1,11 @@
 ---
 slug: brash-mistaken-over-treaty
-title: "Brash ‘Mistaken’ over Treaty"
-date: 2006-10-02
+title: Brash ‘Mistaken’ over Treaty
+date: 2006-10-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00001/brash-mistaken-over-treaty.htm
 author: aut-university
+permalink: /archive/2006/10/02/brash-mistaken-over-treaty/index.html
+layout: layout.njk
 ---
 Brash ‘Mistaken’ over Treaty
 ============================

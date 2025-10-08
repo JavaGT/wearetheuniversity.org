@@ -1,9 +1,16 @@
 ---
-slug: university-of-auckland-appoints-theresa-gattung-chair-for-women-in-entrepreneurship
-title: "University Of Auckland Appoints Theresa Gattung Chair For Women In Entrepreneurship"
-date: 2021-12-03
-source-url: https://www.scoop.co.nz/stories/BU2112/S00099/university-of-auckland-appoints-theresa-gattung-chair-for-women-in-entrepreneurship.htm
+slug: >-
+  university-of-auckland-appoints-theresa-gattung-chair-for-women-in-entrepreneurship
+title: >-
+  University Of Auckland Appoints Theresa Gattung Chair For Women In
+  Entrepreneurship
+date: 2021-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2112/S00099/university-of-auckland-appoints-theresa-gattung-chair-for-women-in-entrepreneurship.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2021/12/03/university-of-auckland-appoints-theresa-gattung-chair-for-women-in-entrepreneurship/index.html
+layout: layout.njk
 ---
 University Of Auckland Appoints Theresa Gattung Chair For Women In Entrepreneurship
 ===================================================================================

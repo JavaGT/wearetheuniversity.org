@@ -1,9 +1,12 @@
 ---
 slug: win-for-mental-health-in-the-waikato
-title: "Win for Mental Health in the Waikato"
-date: 2019-10-17
-source-url: https://www.scoop.co.nz/stories/PA1910/S00142/win-for-mental-health-in-the-waikato.htm
+title: Win for Mental Health in the Waikato
+date: 2019-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00142/win-for-mental-health-in-the-waikato.htm
 author: new-zealand-first-party
+permalink: /archive/2019/10/17/win-for-mental-health-in-the-waikato/index.html
+layout: layout.njk
 ---
 Win for Mental Health in the Waikato
 ====================================

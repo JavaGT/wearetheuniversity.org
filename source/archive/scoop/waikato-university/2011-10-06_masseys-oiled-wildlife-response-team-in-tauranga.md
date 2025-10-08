@@ -1,9 +1,13 @@
 ---
 slug: masseys-oiled-wildlife-response-team-in-tauranga
-title: "Massey's oiled wildlife response team in Tauranga"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/ED1110/S00025/masseys-oiled-wildlife-response-team-in-tauranga.htm
+title: Massey's oiled wildlife response team in Tauranga
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00025/masseys-oiled-wildlife-response-team-in-tauranga.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/10/06/masseys-oiled-wildlife-response-team-in-tauranga/index.html
+layout: layout.njk
 ---
 Massey's oiled wildlife response team in Tauranga
 =================================================

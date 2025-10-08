@@ -1,9 +1,12 @@
 ---
 slug: education-budget-full-of-broken-promises
-title: "Education Budget full of broken promises"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/PA1805/S00273/education-budget-full-of-broken-promises.htm
+title: Education Budget full of broken promises
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00273/education-budget-full-of-broken-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/18/education-budget-full-of-broken-promises/index.html
+layout: layout.njk
 ---
 Education Budget full of broken promises
 ========================================

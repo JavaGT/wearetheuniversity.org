@@ -1,9 +1,11 @@
 ---
 slug: tertiary-update-vol-14-no-1
-title: "Tertiary Update Vol 14 No 1"
-date: 2011-01-27
+title: Tertiary Update Vol 14 No 1
+date: 2011-01-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1101/S00042/tertiary-update-vol-14-no-1.htm
 author: association-of-university-staff
+permalink: /archive/2011/01/27/tertiary-update-vol-14-no-1/index.html
+layout: layout.njk
 ---
 Tertiary Update Vol 14 No 1
 ===========================

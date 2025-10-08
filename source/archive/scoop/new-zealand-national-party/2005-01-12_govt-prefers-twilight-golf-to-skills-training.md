@@ -1,9 +1,12 @@
 ---
 slug: govt-prefers-twilight-golf-to-skills-training
-title: "Govt prefers twilight golf to skills training"
-date: 2005-01-12
-source-url: https://www.scoop.co.nz/stories/PA0501/S00073/govt-prefers-twilight-golf-to-skills-training.htm
+title: Govt prefers twilight golf to skills training
+date: 2005-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00073/govt-prefers-twilight-golf-to-skills-training.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/12/govt-prefers-twilight-golf-to-skills-training/index.html
+layout: layout.njk
 ---
 Govt prefers twilight golf to skills training
 =============================================

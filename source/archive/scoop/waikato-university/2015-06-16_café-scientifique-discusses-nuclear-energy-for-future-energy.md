@@ -1,9 +1,12 @@
 ---
 slug: café-scientifique-discusses-nuclear-energy-for-future-energy
-title: "Café Scientifique discusses nuclear energy for future energy"
-date: 2015-06-16
-source-url: https://www.scoop.co.nz/stories/SC1506/S00069/cafe-scientifique-discusses-nuclear-energy-for-future-energy.htm
+title: Café Scientifique discusses nuclear energy for future energy
+date: 2015-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00069/cafe-scientifique-discusses-nuclear-energy-for-future-energy.htm
 author: waikato-university
+permalink: /archive/2015/06/16/caf/index.html
+layout: layout.njk
 ---
 Café Scientifique discusses nuclear energy for future energy
 ============================================================

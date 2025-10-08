@@ -1,9 +1,12 @@
 ---
 slug: future-of-social-work-programme-must-be-assured
-title: "Future of social work programme must be assured"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/PA0709/S00459/future-of-social-work-programme-must-be-assured.htm
+title: Future of social work programme must be assured
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00459/future-of-social-work-programme-must-be-assured.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/26/future-of-social-work-programme-must-be-assured/index.html
+layout: layout.njk
 ---
 Future of social work programme must be assured
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: national-party-no-growth-budget-2003
-title: "National Party - No Growth Budget 2003"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00421/national-party-no-growth-budget-2003.htm
+title: National Party - No Growth Budget 2003
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00421/national-party-no-growth-budget-2003.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/15/national-party-no-growth-budget-2003/index.html
+layout: layout.njk
 ---
 National Party - No Growth Budget 2003
 ======================================

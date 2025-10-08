@@ -1,9 +1,13 @@
 ---
 slug: hunt-for-minerals-underway-in-schedule-four-land
-title: "Hunt for minerals underway in Schedule Four land"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/PA0910/S00236/hunt-for-minerals-underway-in-schedule-four-land.htm
+title: Hunt for minerals underway in Schedule Four land
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00236/hunt-for-minerals-underway-in-schedule-four-land.htm
 author: green-party
+permalink: >-
+  /archive/2009/10/19/hunt-for-minerals-underway-in-schedule-four-land/index.html
+layout: layout.njk
 ---
 Hunt for minerals underway in Schedule Four land
 ================================================

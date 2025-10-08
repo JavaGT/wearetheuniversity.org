@@ -1,9 +1,12 @@
 ---
 slug: will-prime-minister-cry-again-next-february
-title: "Will Prime Minister Cry Again Next February?"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/PA0307/S00236/will-prime-minister-cry-again-next-february.htm
+title: Will Prime Minister Cry Again Next February?
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00236/will-prime-minister-cry-again-next-february.htm
 author: act-new-zealand
+permalink: /archive/2003/07/14/will-prime-minister-cry-again-next-february/index.html
+layout: layout.njk
 ---
 Will Prime Minister Cry Again Next February?
 ============================================

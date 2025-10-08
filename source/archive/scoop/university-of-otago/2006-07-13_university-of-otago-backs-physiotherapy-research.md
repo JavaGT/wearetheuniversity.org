@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-backs-physiotherapy-research
-title: "University Of Otago Backs Physiotherapy Research"
-date: 2006-07-13
-source-url: https://www.scoop.co.nz/stories/ED0607/S00042/university-of-otago-backs-physiotherapy-research.htm
+title: University Of Otago Backs Physiotherapy Research
+date: 2006-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00042/university-of-otago-backs-physiotherapy-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/07/13/university-of-otago-backs-physiotherapy-research/index.html
+layout: layout.njk
 ---
 University Of Otago Backs Physiotherapy Research
 ================================================

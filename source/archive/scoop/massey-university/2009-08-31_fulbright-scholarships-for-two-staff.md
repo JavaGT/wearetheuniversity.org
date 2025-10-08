@@ -1,9 +1,12 @@
 ---
 slug: fulbright-scholarships-for-two-staff
-title: "Fulbright scholarships for two staff"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/ED0908/S00104/fulbright-scholarships-for-two-staff.htm
+title: Fulbright scholarships for two staff
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00104/fulbright-scholarships-for-two-staff.htm
 author: massey-university
+permalink: /archive/2009/08/31/fulbright-scholarships-for-two-staff/index.html
+layout: layout.njk
 ---
 Fulbright scholarships for two staff
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: hide-must-investigate-release-of-private-info
-title: "Hide must investigate release of private info"
-date: 2009-08-06
-source-url: https://www.scoop.co.nz/stories/PA0908/S00096/hide-must-investigate-release-of-private-info.htm
+title: Hide must investigate release of private info
+date: 2009-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00096/hide-must-investigate-release-of-private-info.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/06/hide-must-investigate-release-of-private-info/index.html
+layout: layout.njk
 ---
 Hide must investigate release of private info
 =============================================

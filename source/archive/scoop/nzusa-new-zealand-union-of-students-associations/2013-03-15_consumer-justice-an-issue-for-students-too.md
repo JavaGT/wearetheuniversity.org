@@ -1,9 +1,12 @@
 ---
 slug: consumer-justice-an-issue-for-students-too
-title: "Consumer justice an issue for students too"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/PO1303/S00185/consumer-justice-an-issue-for-students-too.htm
+title: Consumer justice an issue for students too
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00185/consumer-justice-an-issue-for-students-too.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/03/15/consumer-justice-an-issue-for-students-too/index.html
+layout: layout.njk
 ---
 Consumer justice an issue for students too
 ==========================================

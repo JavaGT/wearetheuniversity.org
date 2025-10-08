@@ -1,9 +1,13 @@
 ---
 slug: uc-gives-christchurch-a-unique-oresteia-experience
-title: "UC gives Christchurch a unique Oresteia Experience"
-date: 2017-09-05
-source-url: https://www.scoop.co.nz/stories/CU1709/S00113/uc-gives-christchurch-a-unique-oresteia-experience.htm
+title: UC gives Christchurch a unique Oresteia Experience
+date: 2017-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00113/uc-gives-christchurch-a-unique-oresteia-experience.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/05/uc-gives-christchurch-a-unique-oresteia-experience/index.html
+layout: layout.njk
 ---
 UC gives Christchurch a unique Oresteia Experience
 ==================================================

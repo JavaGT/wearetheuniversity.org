@@ -1,9 +1,12 @@
 ---
 slug: act-labour-mps-are-holding-up-new-hospital
-title: "ACT: Labour MPs are holding up new hospital"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/PA9907/S00540/act-labour-mps-are-holding-up-new-hospital.htm
+title: 'ACT: Labour MPs are holding up new hospital'
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00540/act-labour-mps-are-holding-up-new-hospital.htm
 author: act-new-zealand
+permalink: /archive/1999/07/28/act-labour-mps-are-holding-up-new-hospital/index.html
+layout: layout.njk
 ---
 ACT: Labour MPs are holding up new hospital
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: teens-challenge-to-shape-the-future
-title: "Teens’ challenge to shape the future"
-date: 2012-07-27
-source-url: https://www.scoop.co.nz/stories/CU1207/S00455/teens-challenge-to-shape-the-future.htm
+title: Teens’ challenge to shape the future
+date: 2012-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00455/teens-challenge-to-shape-the-future.htm
 author: massey-university
+permalink: /archive/2012/07/27/teens-challenge-to-shape-the-future/index.html
+layout: layout.njk
 ---
 Teens’ challenge to shape the future
 ====================================

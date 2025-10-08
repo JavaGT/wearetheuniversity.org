@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-among-worlds-highest-lifetime-risk-of-stroke
-title: "New Zealand among world’s highest lifetime risk of stroke"
-date: 2019-01-23
-source-url: https://www.scoop.co.nz/stories/GE1901/S00033/new-zealand-among-worlds-highest-lifetime-risk-of-stroke.htm
+title: New Zealand among world’s highest lifetime risk of stroke
+date: 2019-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1901/S00033/new-zealand-among-worlds-highest-lifetime-risk-of-stroke.htm
 author: aut-university
+permalink: >-
+  /archive/2019/01/23/new-zealand-among-worlds-highest-lifetime-risk-of-stroke/index.html
+layout: layout.njk
 ---
 New Zealand among world’s highest lifetime risk of stroke
 =========================================================

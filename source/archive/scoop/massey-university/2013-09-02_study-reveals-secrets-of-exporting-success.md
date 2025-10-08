@@ -1,9 +1,12 @@
 ---
 slug: study-reveals-secrets-of-exporting-success
-title: "Study reveals secrets of exporting success"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/BU1309/S00008/study-reveals-secrets-of-exporting-success.htm
+title: Study reveals secrets of exporting success
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1309/S00008/study-reveals-secrets-of-exporting-success.htm
 author: massey-university
+permalink: /archive/2013/09/02/study-reveals-secrets-of-exporting-success/index.html
+layout: layout.njk
 ---
 Study reveals secrets of exporting success
 ==========================================

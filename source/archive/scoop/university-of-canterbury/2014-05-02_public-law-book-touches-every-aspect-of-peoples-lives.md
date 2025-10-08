@@ -1,9 +1,13 @@
 ---
 slug: public-law-book-touches-every-aspect-of-peoples-lives
-title: "Public law book touches every aspect of people’s lives"
-date: 2014-05-02
-source-url: https://www.scoop.co.nz/stories/PO1405/S00025/public-law-book-touches-every-aspect-of-peoples-lives.htm
+title: Public law book touches every aspect of people’s lives
+date: 2014-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00025/public-law-book-touches-every-aspect-of-peoples-lives.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/02/public-law-book-touches-every-aspect-of-peoples-lives/index.html
+layout: layout.njk
 ---
 Public law book touches every aspect of people’s lives
 ======================================================

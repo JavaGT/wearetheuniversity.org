@@ -1,9 +1,12 @@
 ---
 slug: the-case-for-cannabis-law-reform
-title: "The case for cannabis law reform"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00468/the-case-for-cannabis-law-reform.htm
+title: The case for cannabis law reform
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00468/the-case-for-cannabis-law-reform.htm
 author: green-party
+permalink: /archive/2000/08/24/the-case-for-cannabis-law-reform/index.html
+layout: layout.njk
 ---
 The case for cannabis law reform
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: key-canterbury-westland-regional-conference
-title: "Key: Canterbury-Westland Regional Conference"
-date: 2008-05-12
-source-url: https://www.scoop.co.nz/stories/PA0805/S00180/key-canterbury-westland-regional-conference.htm
+title: 'Key: Canterbury-Westland Regional Conference'
+date: 2008-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00180/key-canterbury-westland-regional-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/12/key-canterbury-westland-regional-conference/index.html
+layout: layout.njk
 ---
 Key: Canterbury-Westland Regional Conference
 ============================================

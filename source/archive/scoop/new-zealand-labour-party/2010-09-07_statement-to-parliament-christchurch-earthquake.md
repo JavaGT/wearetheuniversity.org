@@ -1,9 +1,12 @@
 ---
 slug: statement-to-parliament-christchurch-earthquake
-title: "Statement to Parliament – Christchurch Earthquake"
-date: 2010-09-07
-source-url: https://www.scoop.co.nz/stories/PA1009/S00098/statement-to-parliament-christchurch-earthquake.htm
+title: Statement to Parliament – Christchurch Earthquake
+date: 2010-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00098/statement-to-parliament-christchurch-earthquake.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/07/statement-to-parliament-christchurch-earthquake/index.html
+layout: layout.njk
 ---
 Statement to Parliament – Christchurch Earthquake
 =================================================

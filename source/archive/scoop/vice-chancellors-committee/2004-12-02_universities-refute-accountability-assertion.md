@@ -1,9 +1,12 @@
 ---
 slug: universities-refute-accountability-assertion
-title: "Universities Refute Accountability Assertion"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/ED0412/S00008/universities-refute-accountability-assertion.htm
+title: Universities Refute Accountability Assertion
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00008/universities-refute-accountability-assertion.htm
 author: vice-chancellors-committee
+permalink: /archive/2004/12/02/universities-refute-accountability-assertion/index.html
+layout: layout.njk
 ---
 Universities Refute Accountability Assertion
 ============================================

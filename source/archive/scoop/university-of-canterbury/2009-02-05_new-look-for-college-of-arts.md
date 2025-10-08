@@ -1,9 +1,11 @@
 ---
 slug: new-look-for-college-of-arts
-title: "New look for College of Arts"
-date: 2009-02-05
+title: New look for College of Arts
+date: 2009-02-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0902/S00014/new-look-for-college-of-arts.htm
 author: university-of-canterbury
+permalink: /archive/2009/02/05/new-look-for-college-of-arts/index.html
+layout: layout.njk
 ---
 New look for College of Arts
 ============================

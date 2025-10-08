@@ -1,9 +1,13 @@
 ---
 slug: green-mps-kick-off-national-tertiary-tour-in-auckland
-title: "Green MPs kick off national tertiary tour in Auckland"
-date: 2016-04-26
-source-url: https://www.scoop.co.nz/stories/PA1604/S00412/green-mps-kick-off-national-tertiary-tour-in-auckland.htm
+title: Green MPs kick off national tertiary tour in Auckland
+date: 2016-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00412/green-mps-kick-off-national-tertiary-tour-in-auckland.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/26/green-mps-kick-off-national-tertiary-tour-in-auckland/index.html
+layout: layout.njk
 ---
 Green MPs kick off national tertiary tour in Auckland
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: hot-science-in-the-summer
-title: "‘Hot Science’ In The Summer"
-date: 2004-02-13
+title: ‘Hot Science’ In The Summer
+date: 2004-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0402/S00030/hot-science-in-the-summer.htm
 author: university-of-otago
+permalink: /archive/2004/02/13/hot-science-in-the-summer/index.html
+layout: layout.njk
 ---
 ‘Hot Science’ In The Summer
 ===========================

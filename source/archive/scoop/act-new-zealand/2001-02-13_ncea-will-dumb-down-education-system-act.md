@@ -1,9 +1,12 @@
 ---
 slug: ncea-will-dumb-down-education-system-act
-title: "NCEA Will Dumb Down Education System – ACT"
-date: 2001-02-13
-source-url: https://www.scoop.co.nz/stories/PA0102/S00159/ncea-will-dumb-down-education-system-act.htm
+title: NCEA Will Dumb Down Education System – ACT
+date: 2001-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00159/ncea-will-dumb-down-education-system-act.htm
 author: act-new-zealand
+permalink: /archive/2001/02/13/ncea-will-dumb-down-education-system-act/index.html
+layout: layout.njk
 ---
 NCEA Will Dumb Down Education System – ACT
 ==========================================

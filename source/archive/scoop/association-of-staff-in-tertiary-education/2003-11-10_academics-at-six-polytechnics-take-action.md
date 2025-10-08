@@ -1,9 +1,12 @@
 ---
 slug: academics-at-six-polytechnics-take-action
-title: "Academics at Six Polytechnics Take Action"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/ED0311/S00031/academics-at-six-polytechnics-take-action.htm
+title: Academics at Six Polytechnics Take Action
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00031/academics-at-six-polytechnics-take-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2003/11/10/academics-at-six-polytechnics-take-action/index.html
+layout: layout.njk
 ---
 Academics at Six Polytechnics Take Action
 =========================================

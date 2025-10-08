@@ -1,9 +1,13 @@
 ---
 slug: govt-holiday-journey-prediction-tool-could-be-satire
-title: "Govt Holiday Journey Prediction Tool Could Be Satire"
-date: 2021-12-26
-source-url: https://www.scoop.co.nz/stories/PA2112/S00183/govt-holiday-journey-prediction-tool-could-be-satire.htm
+title: Govt Holiday Journey Prediction Tool Could Be Satire
+date: 2021-12-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00183/govt-holiday-journey-prediction-tool-could-be-satire.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/12/26/govt-holiday-journey-prediction-tool-could-be-satire/index.html
+layout: layout.njk
 ---
 Govt Holiday Journey Prediction Tool Could Be Satire
 ====================================================

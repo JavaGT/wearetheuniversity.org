@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-medical-musos-perform-for-first-time
-title: "New Zealand’s medical ‘musos’ perform for first time"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/CU1206/S00247/new-zealands-medical-musos-perform-for-first-time.htm
+title: New Zealand’s medical ‘musos’ perform for first time
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00247/new-zealands-medical-musos-perform-for-first-time.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/19/new-zealands-medical-musos-perform-for-first-time/index.html
+layout: layout.njk
 ---
 New Zealand’s medical ‘musos’ perform for first time
 ====================================================

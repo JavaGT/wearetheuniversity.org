@@ -1,9 +1,12 @@
 ---
 slug: ngäti-apa-(north-island)-claims-settlement-bill
-title: "Ngäti Apa (North Island) Claims Settlement Bill"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/PA1006/S00288/ngati-apa-north-island-claims-settlement-bill.htm
+title: Ngäti Apa (North Island) Claims Settlement Bill
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00288/ngati-apa-north-island-claims-settlement-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/06/18/ng/index.html
+layout: layout.njk
 ---
 Ngäti Apa (North Island) Claims Settlement Bill
 ===============================================

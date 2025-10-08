@@ -1,9 +1,12 @@
 ---
 slug: climate-change-put-to-expert-panel
-title: "Climate change put to expert panel"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/ED1511/S00007/climate-change-put-to-expert-panel.htm
+title: Climate change put to expert panel
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00007/climate-change-put-to-expert-panel.htm
 author: university-of-waikato
+permalink: /archive/2015/11/02/climate-change-put-to-expert-panel/index.html
+layout: layout.njk
 ---
 Climate change put to expert panel
 ==================================

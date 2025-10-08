@@ -1,9 +1,12 @@
 ---
 slug: space-between-aims-to-fill-a-fashion-gap
-title: "Space Between Aims to Fill a Fashion Gap"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/CU1504/S00345/space-between-aims-to-fill-a-fashion-gap.htm
+title: Space Between Aims to Fill a Fashion Gap
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00345/space-between-aims-to-fill-a-fashion-gap.htm
 author: massey-university
+permalink: /archive/2015/04/20/space-between-aims-to-fill-a-fashion-gap/index.html
+layout: layout.njk
 ---
 Space Between Aims to Fill a Fashion Gap
 ========================================

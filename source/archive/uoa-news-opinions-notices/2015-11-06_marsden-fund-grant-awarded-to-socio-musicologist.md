@@ -1,8 +1,12 @@
 ---
 slug: marsden-fund-grant-awarded-to-socio-musicologist
-title: "Marsden Fund grant awarded to socio-musicologist"
-date: 2015-11-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/marsden-fund-grant-awarded-to-socio-musicologist.html
+title: Marsden Fund grant awarded to socio-musicologist
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/marsden-fund-grant-awarded-to-socio-musicologist.html
+permalink: >-
+  /archive/2015/11/06/marsden-fund-grant-awarded-to-socio-musicologist/index.html
+layout: layout.njk
 ---
 Marsden Fund grant awarded to socio-musicologist
 ================================================

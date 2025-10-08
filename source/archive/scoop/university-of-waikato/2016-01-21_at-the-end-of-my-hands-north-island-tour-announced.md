@@ -1,9 +1,13 @@
 ---
 slug: at-the-end-of-my-hands-north-island-tour-announced
-title: "At the End of My Hands North Island Tour Announced"
-date: 2016-01-21
-source-url: https://www.scoop.co.nz/stories/CU1601/S00155/at-the-end-of-my-hands-north-island-tour-announced.htm
+title: At the End of My Hands North Island Tour Announced
+date: 2016-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1601/S00155/at-the-end-of-my-hands-north-island-tour-announced.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/01/21/at-the-end-of-my-hands-north-island-tour-announced/index.html
+layout: layout.njk
 ---
 At the End of My Hands North Island Tour Announced
 ==================================================

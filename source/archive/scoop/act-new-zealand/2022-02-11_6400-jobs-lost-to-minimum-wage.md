@@ -1,9 +1,12 @@
 ---
 slug: 6400-jobs-lost-to-minimum-wage
-title: "6,400 Jobs Lost To Minimum Wage"
-date: 2022-02-11
-source-url: https://www.scoop.co.nz/stories/PA2202/S00073/6400-jobs-lost-to-minimum-wage.htm
+title: 6,400 Jobs Lost To Minimum Wage
+date: 2022-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00073/6400-jobs-lost-to-minimum-wage.htm
 author: act-new-zealand
+permalink: /archive/2022/02/11/6400-jobs-lost-to-minimum-wage/index.html
+layout: layout.njk
 ---
 6,400 Jobs Lost To Minimum Wage
 ===============================

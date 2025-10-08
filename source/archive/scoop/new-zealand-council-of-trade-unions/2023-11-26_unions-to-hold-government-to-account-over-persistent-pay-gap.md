@@ -1,9 +1,13 @@
 ---
 slug: unions-to-hold-government-to-account-over-persistent-pay-gap
-title: "Unions To Hold Government To Account Over Persistent Pay Gap"
-date: 2023-11-26
-source-url: https://www.scoop.co.nz/stories/PO2311/S00169/unions-to-hold-government-to-account-over-persistent-pay-gap.htm
+title: Unions To Hold Government To Account Over Persistent Pay Gap
+date: 2023-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00169/unions-to-hold-government-to-account-over-persistent-pay-gap.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/11/26/unions-to-hold-government-to-account-over-persistent-pay-gap/index.html
+layout: layout.njk
 ---
 Unions To Hold Government To Account Over Persistent Pay Gap
 ============================================================

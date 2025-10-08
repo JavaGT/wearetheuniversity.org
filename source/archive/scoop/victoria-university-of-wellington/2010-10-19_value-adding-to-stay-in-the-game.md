@@ -1,9 +1,12 @@
 ---
 slug: value-adding-to-stay-in-the-game
-title: "Value adding to stay in the game"
-date: 2010-10-19
-source-url: https://www.scoop.co.nz/stories/BU1010/S00548/value-adding-to-stay-in-the-game.htm
+title: Value adding to stay in the game
+date: 2010-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1010/S00548/value-adding-to-stay-in-the-game.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/10/19/value-adding-to-stay-in-the-game/index.html
+layout: layout.njk
 ---
 Value adding to stay in the game
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: national-to-deliver-on-plunketline
-title: "National to deliver on PlunketLine"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00314/national-to-deliver-on-plunketline.htm
+title: National to deliver on PlunketLine
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00314/national-to-deliver-on-plunketline.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/14/national-to-deliver-on-plunketline/index.html
+layout: layout.njk
 ---
 National to deliver on PlunketLine
 ==================================

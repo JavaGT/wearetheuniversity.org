@@ -1,9 +1,13 @@
 ---
 slug: christmas-graduation-for-more-than-1400-uc-students
-title: "Christmas graduation for more than 1400 UC students"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/ED1112/S00053/christmas-graduation-for-more-than-1400-uc-students.htm
+title: Christmas graduation for more than 1400 UC students
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00053/christmas-graduation-for-more-than-1400-uc-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/09/christmas-graduation-for-more-than-1400-uc-students/index.html
+layout: layout.njk
 ---
 Christmas graduation for more than 1400 UC students
 ===================================================

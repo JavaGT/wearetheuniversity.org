@@ -1,9 +1,12 @@
 ---
 slug: uc-receives-five-star-rating-from-qs
-title: "UC Receives Five Star Rating From QS"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00036/uc-receives-five-star-rating-from-qs.htm
+title: UC Receives Five Star Rating From QS
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00036/uc-receives-five-star-rating-from-qs.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/07/uc-receives-five-star-rating-from-qs/index.html
+layout: layout.njk
 ---
 UC Receives Five Star Rating From QS
 ====================================

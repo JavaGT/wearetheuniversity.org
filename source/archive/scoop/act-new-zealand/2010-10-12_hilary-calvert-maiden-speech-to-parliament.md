@@ -1,9 +1,12 @@
 ---
 slug: hilary-calvert-maiden-speech-to-parliament
-title: "Hilary Calvert Maiden Speech to Parliament"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00158/hilary-calvert-maiden-speech-to-parliament.htm
+title: Hilary Calvert Maiden Speech to Parliament
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00158/hilary-calvert-maiden-speech-to-parliament.htm
 author: act-new-zealand
+permalink: /archive/2010/10/12/hilary-calvert-maiden-speech-to-parliament/index.html
+layout: layout.njk
 ---
 Hilary Calvert Maiden Speech to Parliament
 ==========================================

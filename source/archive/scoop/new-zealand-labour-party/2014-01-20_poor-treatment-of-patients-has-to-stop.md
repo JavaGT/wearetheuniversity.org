@@ -1,9 +1,12 @@
 ---
 slug: poor-treatment-of-patients-has-to-stop
-title: "Poor treatment of patients has to stop"
-date: 2014-01-20
-source-url: https://www.scoop.co.nz/stories/PA1401/S00078/poor-treatment-of-patients-has-to-stop.htm
+title: Poor treatment of patients has to stop
+date: 2014-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00078/poor-treatment-of-patients-has-to-stop.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/20/poor-treatment-of-patients-has-to-stop/index.html
+layout: layout.njk
 ---
 Poor treatment of patients has to stop
 ======================================

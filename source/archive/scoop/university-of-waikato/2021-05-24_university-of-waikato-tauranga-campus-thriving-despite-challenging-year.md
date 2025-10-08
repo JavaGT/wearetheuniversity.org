@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-tauranga-campus-thriving-despite-challenging-year
-title: "University Of Waikato Tauranga Campus Thriving Despite Challenging Year"
-date: 2021-05-24
-source-url: https://www.scoop.co.nz/stories/ED2105/S00047/university-of-waikato-tauranga-campus-thriving-despite-challenging-year.htm
+title: University Of Waikato Tauranga Campus Thriving Despite Challenging Year
+date: 2021-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00047/university-of-waikato-tauranga-campus-thriving-despite-challenging-year.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/05/24/university-of-waikato-tauranga-campus-thriving-despite-challenging-year/index.html
+layout: layout.njk
 ---
 University Of Waikato Tauranga Campus Thriving Despite Challenging Year
 =======================================================================

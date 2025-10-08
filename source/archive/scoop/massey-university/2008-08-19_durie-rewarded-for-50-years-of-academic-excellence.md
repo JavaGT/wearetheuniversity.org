@@ -1,9 +1,13 @@
 ---
 slug: durie-rewarded-for-50-years-of-academic-excellence
-title: "Durie rewarded for 50 years of academic excellence"
-date: 2008-08-19
-source-url: https://www.scoop.co.nz/stories/ED0808/S00047/durie-rewarded-for-50-years-of-academic-excellence.htm
+title: Durie rewarded for 50 years of academic excellence
+date: 2008-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00047/durie-rewarded-for-50-years-of-academic-excellence.htm
 author: massey-university
+permalink: >-
+  /archive/2008/08/19/durie-rewarded-for-50-years-of-academic-excellence/index.html
+layout: layout.njk
 ---
 Durie rewarded for 50 years of academic excellence
 ==================================================

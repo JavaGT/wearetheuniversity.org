@@ -1,9 +1,12 @@
 ---
 slug: kiwis-can-speak-out-on-mining
-title: "Kiwis can speak out on mining"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/PA0909/S00027/kiwis-can-speak-out-on-mining.htm
+title: Kiwis can speak out on mining
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00027/kiwis-can-speak-out-on-mining.htm
 author: green-party
+permalink: /archive/2009/09/02/kiwis-can-speak-out-on-mining/index.html
+layout: layout.njk
 ---
 Kiwis can speak out on mining
 =============================

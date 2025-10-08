@@ -1,9 +1,12 @@
 ---
 slug: two-new-press-secretaries-for-act
-title: "Two New Press Secretaries for ACT"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00350/two-new-press-secretaries-for-act.htm
+title: Two New Press Secretaries for ACT
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00350/two-new-press-secretaries-for-act.htm
 author: act-new-zealand
+permalink: /archive/2001/04/23/two-new-press-secretaries-for-act/index.html
+layout: layout.njk
 ---
 Two New Press Secretaries for ACT
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-on-2011-budget
-title: "Tariana Turia Speech on 2011 Budget"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00464/tariana-turia-speech-on-2011-budget.htm
+title: Tariana Turia Speech on 2011 Budget
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00464/tariana-turia-speech-on-2011-budget.htm
 author: te-pati-maori
+permalink: /archive/2011/05/19/tariana-turia-speech-on-2011-budget/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech on 2011 Budget
 ===================================

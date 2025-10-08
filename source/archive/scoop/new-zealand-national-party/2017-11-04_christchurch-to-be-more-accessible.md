@@ -1,9 +1,12 @@
 ---
 slug: christchurch-to-be-more-accessible
-title: "Christchurch to be more accessible"
-date: 2017-11-04
-source-url: https://www.scoop.co.nz/stories/PA1711/S00021/christchurch-to-be-more-accessible.htm
+title: Christchurch to be more accessible
+date: 2017-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00021/christchurch-to-be-more-accessible.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/04/christchurch-to-be-more-accessible/index.html
+layout: layout.njk
 ---
 Christchurch to be more accessible
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: cullen-leaving-parliament
-title: "Cullen leaving Parliament"
-date: 2009-04-07
+title: Cullen leaving Parliament
+date: 2009-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0904/S00090/cullen-leaving-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/07/cullen-leaving-parliament/index.html
+layout: layout.njk
 ---
 Cullen leaving Parliament
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: from-didymo-and-drones-to-3d-vr-and-yaks
-title: "From didymo and drones to 3D, VR and yaks"
-date: 2017-02-10
-source-url: https://www.scoop.co.nz/stories/BU1702/S00332/from-didymo-and-drones-to-3d-vr-and-yaks.htm
+title: From didymo and drones to 3D, VR and yaks
+date: 2017-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1702/S00332/from-didymo-and-drones-to-3d-vr-and-yaks.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/10/from-didymo-and-drones-to-3d-vr-and-yaks/index.html
+layout: layout.njk
 ---
 From didymo and drones to 3D, VR and yaks
 =========================================

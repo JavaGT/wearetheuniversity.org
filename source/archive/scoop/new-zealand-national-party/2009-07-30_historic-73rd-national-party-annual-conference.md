@@ -1,9 +1,12 @@
 ---
 slug: historic-73rd-national-party-annual-conference
-title: "Historic 73rd National Party Annual Conference"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PO0907/S00340/historic-73rd-national-party-annual-conference.htm
+title: Historic 73rd National Party Annual Conference
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00340/historic-73rd-national-party-annual-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2009/07/30/historic-73rd-national-party-annual-conference/index.html
+layout: layout.njk
 ---
 Historic 73rd National Party Annual Conference
 ==============================================

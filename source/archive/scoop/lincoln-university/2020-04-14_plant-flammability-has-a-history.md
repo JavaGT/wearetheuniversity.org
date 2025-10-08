@@ -1,9 +1,12 @@
 ---
 slug: plant-flammability-has-a-history
-title: "Plant flammability has a history"
-date: 2020-04-14
-source-url: https://www.scoop.co.nz/stories/SC2004/S00025/plant-flammability-has-a-history.htm
+title: Plant flammability has a history
+date: 2020-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2004/S00025/plant-flammability-has-a-history.htm
 author: lincoln-university
+permalink: /archive/2020/04/14/plant-flammability-has-a-history/index.html
+layout: layout.njk
 ---
 Plant flammability has a history
 ================================

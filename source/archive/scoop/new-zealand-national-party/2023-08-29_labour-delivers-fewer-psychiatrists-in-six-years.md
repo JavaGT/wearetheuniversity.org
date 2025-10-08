@@ -1,9 +1,13 @@
 ---
 slug: labour-delivers-fewer-psychiatrists-in-six-years
-title: "Labour Delivers Fewer Psychiatrists In Six Years"
-date: 2023-08-29
-source-url: https://www.scoop.co.nz/stories/PA2308/S00185/labour-delivers-fewer-psychiatrists-in-six-years.htm
+title: Labour Delivers Fewer Psychiatrists In Six Years
+date: 2023-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00185/labour-delivers-fewer-psychiatrists-in-six-years.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/08/29/labour-delivers-fewer-psychiatrists-in-six-years/index.html
+layout: layout.njk
 ---
 Labour Delivers Fewer Psychiatrists In Six Years
 ================================================

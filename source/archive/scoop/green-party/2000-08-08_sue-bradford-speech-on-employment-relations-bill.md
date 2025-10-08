@@ -1,9 +1,13 @@
 ---
 slug: sue-bradford-speech-on-employment-relations-bill
-title: "Sue Bradford Speech on Employment Relations Bill"
-date: 2000-08-08
-source-url: https://www.scoop.co.nz/stories/PA0008/S00149/sue-bradford-speech-on-employment-relations-bill.htm
+title: Sue Bradford Speech on Employment Relations Bill
+date: 2000-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00149/sue-bradford-speech-on-employment-relations-bill.htm
 author: green-party
+permalink: >-
+  /archive/2000/08/08/sue-bradford-speech-on-employment-relations-bill/index.html
+layout: layout.njk
 ---
 Sue Bradford Speech on Employment Relations Bill
 ================================================

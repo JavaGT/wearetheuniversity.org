@@ -1,9 +1,12 @@
 ---
 slug: the-democratic-party-faces-its-day-of-reckoning
-title: "The Democratic Party Faces Its Day Of Reckoning"
-date: 2024-12-20
-source-url: https://www.scoop.co.nz/stories/WO2412/S00223/the-democratic-party-faces-its-day-of-reckoning.htm
+title: The Democratic Party Faces Its Day Of Reckoning
+date: 2024-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2412/S00223/the-democratic-party-faces-its-day-of-reckoning.htm
 author: independent-media-institute
+permalink: /archive/2024/12/20/the-democratic-party-faces-its-day-of-reckoning/index.html
+layout: layout.njk
 ---
 The Democratic Party Faces Its Day Of Reckoning
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-students-should-not-be-used-to-justify-fee-increases
-title: "Māori students should not be used to justify fee increases"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/PO1210/S00368/maori-students-should-not-be-used-to-justify-fee-increases.htm
+title: Māori students should not be used to justify fee increases
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00368/maori-students-should-not-be-used-to-justify-fee-increases.htm
 author: te-mana-akonga
+permalink: /archive/2012/10/23/m/index.html
+layout: layout.njk
 ---
 Māori students should not be used to justify fee increases
 ==========================================================

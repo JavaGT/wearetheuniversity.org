@@ -1,9 +1,11 @@
 ---
 slug: speech-brash-education
-title: "Speech: - Brash: Education"
-date: 2011-08-21
+title: 'Speech: - Brash: Education'
+date: 2011-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1108/S00444/speech-brash-education.htm
 author: act-new-zealand
+permalink: /archive/2011/08/21/speech-brash-education/index.html
+layout: layout.njk
 ---
 Speech: - Brash: Education
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-claims-victory-for-walking-rights
-title: "Green Party claims victory for walking rights"
-date: 2007-10-17
-source-url: https://www.scoop.co.nz/stories/PA0710/S00321/green-party-claims-victory-for-walking-rights.htm
+title: Green Party claims victory for walking rights
+date: 2007-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00321/green-party-claims-victory-for-walking-rights.htm
 author: green-party
+permalink: /archive/2007/10/17/green-party-claims-victory-for-walking-rights/index.html
+layout: layout.njk
 ---
 Green Party claims victory for walking rights
 =============================================

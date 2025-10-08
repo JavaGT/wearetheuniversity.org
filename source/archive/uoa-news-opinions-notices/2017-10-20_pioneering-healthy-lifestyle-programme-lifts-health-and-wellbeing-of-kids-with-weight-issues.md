@@ -1,8 +1,15 @@
 ---
-slug: pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-of-kids-with-weight-issues
-title: "Pioneering healthy lifestyle programme lifts health and wellbeing of kids with weight issues"
-date: 2017-10-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-kids-with-weight-issues.html
+slug: >-
+  pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-of-kids-with-weight-issues
+title: >-
+  Pioneering healthy lifestyle programme lifts health and wellbeing of kids with
+  weight issues
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-kids-with-weight-issues.html
+permalink: >-
+  /archive/2017/10/20/pioneering-healthy-lifestyle-programme-lifts-health-and-wellbeing-of-kids-with-weight-issues/index.html
+layout: layout.njk
 ---
 Pioneering healthy lifestyle programme lifts health and wellbeing of kids with weight issues
 ============================================================================================

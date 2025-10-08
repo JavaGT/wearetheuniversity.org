@@ -1,9 +1,12 @@
 ---
 slug: national-axes-wellington-transport-spending
-title: "National axes Wellington transport spending"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PO0508/S00289/national-axes-wellington-transport-spending.htm
+title: National axes Wellington transport spending
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00289/national-axes-wellington-transport-spending.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/24/national-axes-wellington-transport-spending/index.html
+layout: layout.njk
 ---
 National axes Wellington transport spending
 ===========================================

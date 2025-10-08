@@ -1,9 +1,12 @@
 ---
 slug: hammer-thrower-looking-to-nail-world-champs
-title: "Hammer thrower looking to nail World Champs"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/CU1605/S00044/hammer-thrower-looking-to-nail-world-champs.htm
+title: Hammer thrower looking to nail World Champs
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00044/hammer-thrower-looking-to-nail-world-champs.htm
 author: lincoln-university
+permalink: /archive/2016/05/04/hammer-thrower-looking-to-nail-world-champs/index.html
+layout: layout.njk
 ---
 Hammer thrower looking to nail World Champs
 ===========================================

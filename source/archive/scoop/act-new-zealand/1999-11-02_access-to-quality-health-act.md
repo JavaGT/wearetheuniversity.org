@@ -1,9 +1,11 @@
 ---
 slug: access-to-quality-health-act
-title: "Access To Quality Health - ACT"
-date: 1999-11-02
+title: Access To Quality Health - ACT
+date: 1999-11-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00036/access-to-quality-health-act.htm
 author: act-new-zealand
+permalink: /archive/1999/11/02/access-to-quality-health-act/index.html
+layout: layout.njk
 ---
 Access To Quality Health - ACT
 ==============================

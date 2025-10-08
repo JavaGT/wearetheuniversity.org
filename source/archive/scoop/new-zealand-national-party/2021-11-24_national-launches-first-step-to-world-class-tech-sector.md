@@ -1,9 +1,13 @@
 ---
 slug: national-launches-first-step-to-world-class-tech-sector
-title: "National Launches First Step To World-class Tech Sector"
-date: 2021-11-24
-source-url: https://www.scoop.co.nz/stories/PA2111/S00262/national-launches-first-step-to-world-class-tech-sector.htm
+title: National Launches First Step To World-class Tech Sector
+date: 2021-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00262/national-launches-first-step-to-world-class-tech-sector.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/24/national-launches-first-step-to-world-class-tech-sector/index.html
+layout: layout.njk
 ---
 National Launches First Step To World-class Tech Sector
 =======================================================

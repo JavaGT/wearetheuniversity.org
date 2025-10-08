@@ -1,9 +1,13 @@
 ---
 slug: unz-and-paraguays-becal-establish-a-joint-scholarship-programme
-title: "UNZ And Paraguay’s BECAL Establish A Joint Scholarship Programme"
-date: 2024-08-28
-source-url: https://www.scoop.co.nz/stories/ED2408/S00063/unz-and-paraguays-becal-establish-a-joint-scholarship-programme.htm
+title: UNZ And Paraguay’s BECAL Establish A Joint Scholarship Programme
+date: 2024-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00063/unz-and-paraguays-becal-establish-a-joint-scholarship-programme.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/08/28/unz-and-paraguays-becal-establish-a-joint-scholarship-programme/index.html
+layout: layout.njk
 ---
 UNZ And Paraguay’s BECAL Establish A Joint Scholarship Programme
 ================================================================

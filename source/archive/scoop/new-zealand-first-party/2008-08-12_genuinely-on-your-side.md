@@ -1,9 +1,11 @@
 ---
 slug: genuinely-on-your-side
-title: "\"Genuinely On Your Side\""
-date: 2008-08-12
+title: '"Genuinely On Your Side"'
+date: 2008-08-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00184/genuinely-on-your-side.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/12/genuinely-on-your-side/index.html
+layout: layout.njk
 ---
 “Genuinely On Your Side”
 ========================

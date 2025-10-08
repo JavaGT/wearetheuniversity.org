@@ -1,9 +1,13 @@
 ---
 slug: uc-astronomy-experts-to-view-the-sun-through-solar-telescope
-title: "UC astronomy experts to view the sun through solar telescope"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/AK1310/S00289/uc-astronomy-experts-to-view-the-sun-through-solar-telescope.htm
+title: UC astronomy experts to view the sun through solar telescope
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00289/uc-astronomy-experts-to-view-the-sun-through-solar-telescope.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/07/uc-astronomy-experts-to-view-the-sun-through-solar-telescope/index.html
+layout: layout.njk
 ---
 UC astronomy experts to view the sun through solar telescope
 ============================================================

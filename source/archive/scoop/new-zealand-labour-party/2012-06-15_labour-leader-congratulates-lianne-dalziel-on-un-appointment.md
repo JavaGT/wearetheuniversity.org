@@ -1,9 +1,13 @@
 ---
 slug: labour-leader-congratulates-lianne-dalziel-on-un-appointment
-title: "Labour Leader congratulates Lianne Dalziel on UN appointment"
-date: 2012-06-15
-source-url: https://www.scoop.co.nz/stories/PA1206/S00214/labour-leader-congratulates-lianne-dalziel-on-un-appointment.htm
+title: Labour Leader congratulates Lianne Dalziel on UN appointment
+date: 2012-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00214/labour-leader-congratulates-lianne-dalziel-on-un-appointment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/15/labour-leader-congratulates-lianne-dalziel-on-un-appointment/index.html
+layout: layout.njk
 ---
 Labour Leader congratulates Lianne Dalziel on UN appointment
 ============================================================

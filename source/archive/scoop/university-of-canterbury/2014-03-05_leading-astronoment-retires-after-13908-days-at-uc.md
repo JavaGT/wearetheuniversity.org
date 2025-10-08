@@ -1,9 +1,13 @@
 ---
 slug: leading-astronoment-retires-after-13908-days-at-uc
-title: "Leading astronoment retires after 13,908 days at UC"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/AK1403/S00084/leading-astronoment-retires-after-13908-days-at-uc.htm
+title: Leading astronoment retires after 13,908 days at UC
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00084/leading-astronoment-retires-after-13908-days-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/05/leading-astronoment-retires-after-13908-days-at-uc/index.html
+layout: layout.njk
 ---
 Leading astronoment retires after 13,908 days at UC
 ===================================================

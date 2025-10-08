@@ -1,9 +1,13 @@
 ---
 slug: crohns-disease-costly-to-health-system-sufferers
-title: "Crohn’s disease costly to health system, sufferers"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/GE1004/S00121/crohns-disease-costly-to-health-system-sufferers.htm
+title: Crohn’s disease costly to health system, sufferers
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1004/S00121/crohns-disease-costly-to-health-system-sufferers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/04/26/crohns-disease-costly-to-health-system-sufferers/index.html
+layout: layout.njk
 ---
 Crohn’s disease costly to health system, sufferers
 ==================================================

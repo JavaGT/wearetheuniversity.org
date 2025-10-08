@@ -1,9 +1,12 @@
 ---
 slug: protecting-people-from-alcohol-harm
-title: "Protecting people from alcohol harm"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/GE0512/S00033/protecting-people-from-alcohol-harm.htm
+title: Protecting people from alcohol harm
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0512/S00033/protecting-people-from-alcohol-harm.htm
 author: massey-university
+permalink: /archive/2005/12/12/protecting-people-from-alcohol-harm/index.html
+layout: layout.njk
 ---
 Protecting people from alcohol harm
 ===================================

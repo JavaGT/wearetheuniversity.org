@@ -1,9 +1,13 @@
 ---
 slug: are-new-zealand-women-on-equal-job-footing-with-men
-title: "Are New Zealand women on equal job footing with men?"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/ED1503/S00017/are-new-zealand-women-on-equal-job-footing-with-men.htm
+title: Are New Zealand women on equal job footing with men?
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00017/are-new-zealand-women-on-equal-job-footing-with-men.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/05/are-new-zealand-women-on-equal-job-footing-with-men/index.html
+layout: layout.njk
 ---
 Are New Zealand women on equal job footing with men?
 ====================================================

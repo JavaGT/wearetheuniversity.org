@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-hopeful-with-new-leadership
-title: "Victoria Students Hopeful with New Leadership"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/ED0501/S00007/victoria-students-hopeful-with-new-leadership.htm
+title: Victoria Students Hopeful with New Leadership
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00007/victoria-students-hopeful-with-new-leadership.htm
 author: victoria-university-students-association
+permalink: /archive/2005/01/06/victoria-students-hopeful-with-new-leadership/index.html
+layout: layout.njk
 ---
 Victoria Students Hopeful with New Leadership
 =============================================

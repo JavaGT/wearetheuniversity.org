@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-update
-title: "University of Canterbury Update"
-date: 2010-09-11
-source-url: https://www.scoop.co.nz/stories/ED1009/S00055/university-of-canterbury-update.htm
+title: University of Canterbury Update
+date: 2010-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00055/university-of-canterbury-update.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/11/university-of-canterbury-update/index.html
+layout: layout.njk
 ---
 University of Canterbury Update
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: labour-delivers-another-lemon
-title: "Labour delivers another lemon"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/PA0805/S00630/labour-delivers-another-lemon.htm
+title: Labour delivers another lemon
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00630/labour-delivers-another-lemon.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/29/labour-delivers-another-lemon/index.html
+layout: layout.njk
 ---
 Labour delivers another lemon
 =============================

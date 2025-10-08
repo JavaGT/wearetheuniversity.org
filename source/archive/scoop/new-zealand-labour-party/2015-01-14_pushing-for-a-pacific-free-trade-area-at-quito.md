@@ -1,9 +1,12 @@
 ---
 slug: pushing-for-a-pacific-free-trade-area-at-quito
-title: "Pushing for a Pacific free trade area at Quito"
-date: 2015-01-14
-source-url: https://www.scoop.co.nz/stories/PA1501/S00039/pushing-for-a-pacific-free-trade-area-at-quito.htm
+title: Pushing for a Pacific free trade area at Quito
+date: 2015-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00039/pushing-for-a-pacific-free-trade-area-at-quito.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/14/pushing-for-a-pacific-free-trade-area-at-quito/index.html
+layout: layout.njk
 ---
 Pushing for a Pacific free trade area at Quito
 ==============================================

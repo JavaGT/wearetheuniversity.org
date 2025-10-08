@@ -1,8 +1,11 @@
 ---
 slug: support-for-fiji-floods
-title: "Support for Fiji floods"
-date: 2012-04-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/04/04/Support-for-Fiji-floods.html
+title: Support for Fiji floods
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/04/04/Support-for-Fiji-floods.html
+permalink: /archive/2012/04/04/support-for-fiji-floods/index.html
+layout: layout.njk
 ---
 Support for Fiji floods
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: researcher-to-study-indian-scientific-history
-title: "Researcher to study Indian scientific history"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00135/researcher-to-study-indian-scientific-history.htm
+title: Researcher to study Indian scientific history
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00135/researcher-to-study-indian-scientific-history.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/20/researcher-to-study-indian-scientific-history/index.html
+layout: layout.njk
 ---
 Researcher to study Indian scientific history
 =============================================

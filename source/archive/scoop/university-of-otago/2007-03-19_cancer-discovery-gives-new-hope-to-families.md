@@ -1,9 +1,12 @@
 ---
 slug: cancer-discovery-gives-new-hope-to-families
-title: "Cancer Discovery Gives New Hope to Families"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/ED0703/S00067/cancer-discovery-gives-new-hope-to-families.htm
+title: Cancer Discovery Gives New Hope to Families
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00067/cancer-discovery-gives-new-hope-to-families.htm
 author: university-of-otago
+permalink: /archive/2007/03/19/cancer-discovery-gives-new-hope-to-families/index.html
+layout: layout.njk
 ---
 Cancer Discovery Gives New Hope to Families
 ===========================================

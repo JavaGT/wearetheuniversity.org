@@ -1,9 +1,13 @@
 ---
 slug: ink-tales-of-the-pacific-told-at-major-conference
-title: "Ink tales of the Pacific told at major conference"
-date: 2003-08-11
-source-url: https://www.scoop.co.nz/stories/ED0308/S00034/ink-tales-of-the-pacific-told-at-major-conference.htm
+title: Ink tales of the Pacific told at major conference
+date: 2003-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00034/ink-tales-of-the-pacific-told-at-major-conference.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/11/ink-tales-of-the-pacific-told-at-major-conference/index.html
+layout: layout.njk
 ---
 Ink tales of the Pacific told at major conference
 =================================================

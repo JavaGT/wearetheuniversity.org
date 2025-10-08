@@ -1,9 +1,12 @@
 ---
 slug: seminars-on-resource-ownership-and-electricity
-title: "Seminars On Resource Ownership And Electricity"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/ED0309/S00124/seminars-on-resource-ownership-and-electricity.htm
+title: Seminars On Resource Ownership And Electricity
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00124/seminars-on-resource-ownership-and-electricity.htm
 author: waikato-university
+permalink: /archive/2003/09/26/seminars-on-resource-ownership-and-electricity/index.html
+layout: layout.njk
 ---
 Seminars On Resource Ownership And Electricity
 ==============================================

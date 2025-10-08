@@ -1,9 +1,12 @@
 ---
 slug: privatisation-and-deregulation-not-the-solution
-title: "Privatisation and deregulation not the solution"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/PA1609/S00495/privatisation-and-deregulation-not-the-solution.htm
+title: Privatisation and deregulation not the solution
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00495/privatisation-and-deregulation-not-the-solution.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/29/privatisation-and-deregulation-not-the-solution/index.html
+layout: layout.njk
 ---
 Privatisation and deregulation not the solution
 ===============================================

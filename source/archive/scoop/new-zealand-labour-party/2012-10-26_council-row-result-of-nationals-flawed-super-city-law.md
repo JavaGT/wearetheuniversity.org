@@ -1,9 +1,13 @@
 ---
 slug: council-row-result-of-nationals-flawed-super-city-law
-title: "Council row result of National’s flawed Super City law"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/PA1210/S00455/council-row-result-of-nationals-flawed-super-city-law.htm
+title: Council row result of National’s flawed Super City law
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00455/council-row-result-of-nationals-flawed-super-city-law.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/26/council-row-result-of-nationals-flawed-super-city-law/index.html
+layout: layout.njk
 ---
 Council row result of National’s flawed Super City law
 ======================================================

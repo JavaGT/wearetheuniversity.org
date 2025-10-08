@@ -1,9 +1,13 @@
 ---
 slug: minister-up-to-trickery-on-foreign-students-working-in-nz
-title: "Minister up to Trickery on Foreign Students Working in NZ"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/PA1603/S00491/minister-up-to-trickery-on-foreign-students-working-in-nz.htm
+title: Minister up to Trickery on Foreign Students Working in NZ
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00491/minister-up-to-trickery-on-foreign-students-working-in-nz.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/03/31/minister-up-to-trickery-on-foreign-students-working-in-nz/index.html
+layout: layout.njk
 ---
 Minister up to Trickery on Foreign Students Working in NZ
 =========================================================

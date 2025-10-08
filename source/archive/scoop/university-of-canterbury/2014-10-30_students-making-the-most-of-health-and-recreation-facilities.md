@@ -1,9 +1,13 @@
 ---
 slug: students-making-the-most-of-health-and-recreation-facilities
-title: "Students making the most of health and recreation facilities"
-date: 2014-10-30
-source-url: https://www.scoop.co.nz/stories/ED1410/S00164/students-making-the-most-of-health-and-recreation-facilities.htm
+title: Students making the most of health and recreation facilities
+date: 2014-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00164/students-making-the-most-of-health-and-recreation-facilities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/30/students-making-the-most-of-health-and-recreation-facilities/index.html
+layout: layout.njk
 ---
 Students making the most of health and recreation facilities
 ============================================================

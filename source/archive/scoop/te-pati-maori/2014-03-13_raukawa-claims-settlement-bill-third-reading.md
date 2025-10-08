@@ -1,9 +1,12 @@
 ---
 slug: raukawa-claims-settlement-bill-third-reading
-title: "Raukawa Claims Settlement Bill – Third Reading"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/PA1403/S00238/raukawa-claims-settlement-bill-third-reading.htm
+title: Raukawa Claims Settlement Bill – Third Reading
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00238/raukawa-claims-settlement-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2014/03/13/raukawa-claims-settlement-bill-third-reading/index.html
+layout: layout.njk
 ---
 Raukawa Claims Settlement Bill – Third Reading
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: american-academic-evaluates-reserve-bank
-title: "American academic evaluates Reserve Bank"
-date: 2005-02-22
-source-url: https://www.scoop.co.nz/stories/ED0502/S00074/american-academic-evaluates-reserve-bank.htm
+title: American academic evaluates Reserve Bank
+date: 2005-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00074/american-academic-evaluates-reserve-bank.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/02/22/american-academic-evaluates-reserve-bank/index.html
+layout: layout.njk
 ---
 American academic evaluates Reserve Bank
 ========================================

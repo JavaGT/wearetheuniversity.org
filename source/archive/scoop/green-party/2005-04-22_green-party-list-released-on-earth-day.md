@@ -1,9 +1,12 @@
 ---
 slug: green-party-list-released-on-earth-day
-title: "Green Party List released on Earth Day"
-date: 2005-04-22
-source-url: https://www.scoop.co.nz/stories/PA0504/S00497/green-party-list-released-on-earth-day.htm
+title: Green Party List released on Earth Day
+date: 2005-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00497/green-party-list-released-on-earth-day.htm
 author: green-party
+permalink: /archive/2005/04/22/green-party-list-released-on-earth-day/index.html
+layout: layout.njk
 ---
 Green Party List released on Earth Day
 ======================================

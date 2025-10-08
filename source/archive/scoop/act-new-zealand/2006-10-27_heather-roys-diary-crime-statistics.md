@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-crime-statistics
-title: "Heather Roy's Diary  - Crime statistics"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PA0610/S00526/heather-roys-diary-crime-statistics.htm
+title: Heather Roy's Diary  - Crime statistics
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00526/heather-roys-diary-crime-statistics.htm
 author: act-new-zealand
+permalink: /archive/2006/10/27/heather-roys-diary-crime-statistics/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Crime statistics
 ======================================

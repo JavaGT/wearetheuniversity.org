@@ -1,9 +1,12 @@
 ---
 slug: the-governments-weird-war-on-the-poor
-title: "The Government's Weird War on the Poor"
-date: 2018-04-03
-source-url: https://www.scoop.co.nz/stories/PA1804/S00003/the-governments-weird-war-on-the-poor.htm
+title: The Government's Weird War on the Poor
+date: 2018-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00003/the-governments-weird-war-on-the-poor.htm
 author: act-new-zealand
+permalink: /archive/2018/04/03/the-governments-weird-war-on-the-poor/index.html
+layout: layout.njk
 ---
 The Government's Weird War on the Poor
 ======================================

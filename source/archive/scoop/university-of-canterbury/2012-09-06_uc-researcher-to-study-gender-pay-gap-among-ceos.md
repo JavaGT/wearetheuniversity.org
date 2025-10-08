@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-to-study-gender-pay-gap-among-ceos
-title: "UC researcher to study gender pay gap among CEOs"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/PO1209/S00073/uc-researcher-to-study-gender-pay-gap-among-ceos.htm
+title: UC researcher to study gender pay gap among CEOs
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00073/uc-researcher-to-study-gender-pay-gap-among-ceos.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/06/uc-researcher-to-study-gender-pay-gap-among-ceos/index.html
+layout: layout.njk
 ---
 UC researcher to study gender pay gap among CEOs
 ================================================

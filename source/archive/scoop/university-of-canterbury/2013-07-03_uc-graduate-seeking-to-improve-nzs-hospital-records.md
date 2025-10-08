@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-seeking-to-improve-nzs-hospital-records
-title: "UC graduate seeking to improve NZ’s hospital records"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/GE1307/S00016/uc-graduate-seeking-to-improve-nzs-hospital-records.htm
+title: UC graduate seeking to improve NZ’s hospital records
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00016/uc-graduate-seeking-to-improve-nzs-hospital-records.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/03/uc-graduate-seeking-to-improve-nzs-hospital-records/index.html
+layout: layout.njk
 ---
 UC graduate seeking to improve NZ’s hospital records
 ====================================================

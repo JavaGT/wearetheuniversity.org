@@ -1,9 +1,13 @@
 ---
 slug: sri-lankans-still-coming-to-terms-with-boxing-day-tsunami
-title: "Sri Lankans still coming to terms with Boxing Day Tsunami"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/WO1108/S00223/sri-lankans-still-coming-to-terms-with-boxing-day-tsunami.htm
+title: Sri Lankans still coming to terms with Boxing Day Tsunami
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1108/S00223/sri-lankans-still-coming-to-terms-with-boxing-day-tsunami.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/10/sri-lankans-still-coming-to-terms-with-boxing-day-tsunami/index.html
+layout: layout.njk
 ---
 Sri Lankans still coming to terms with Boxing Day Tsunami
 =========================================================

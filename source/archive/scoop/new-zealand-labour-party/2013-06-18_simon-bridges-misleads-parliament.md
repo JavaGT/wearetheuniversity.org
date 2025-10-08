@@ -1,9 +1,12 @@
 ---
 slug: simon-bridges-misleads-parliament
-title: "Simon Bridges misleads Parliament"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/PA1306/S00299/simon-bridges-misleads-parliament.htm
+title: Simon Bridges misleads Parliament
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00299/simon-bridges-misleads-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/18/simon-bridges-misleads-parliament/index.html
+layout: layout.njk
 ---
 Simon Bridges misleads Parliament
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-undertaking-cricket-study-over-summer
-title: "UC researchers undertaking cricket study over summer"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/CU1311/S00306/uc-researchers-undertaking-cricket-study-over-summer.htm
+title: UC researchers undertaking cricket study over summer
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00306/uc-researchers-undertaking-cricket-study-over-summer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/14/uc-researchers-undertaking-cricket-study-over-summer/index.html
+layout: layout.njk
 ---
 UC researchers undertaking cricket study over summer
 ====================================================

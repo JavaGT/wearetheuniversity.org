@@ -1,9 +1,13 @@
 ---
 slug: greens-to-produce-bigger-surpluses-and-repay-debt-sooner
-title: "Greens to produce bigger surpluses and repay debt sooner"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/PA1408/S00301/greens-to-produce-bigger-surpluses-and-repay-debt-sooner.htm
+title: Greens to produce bigger surpluses and repay debt sooner
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00301/greens-to-produce-bigger-surpluses-and-repay-debt-sooner.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/20/greens-to-produce-bigger-surpluses-and-repay-debt-sooner/index.html
+layout: layout.njk
 ---
 Greens to produce bigger surpluses and repay debt sooner
 ========================================================

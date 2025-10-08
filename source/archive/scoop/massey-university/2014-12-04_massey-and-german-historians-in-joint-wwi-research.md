@@ -1,9 +1,13 @@
 ---
 slug: massey-and-german-historians-in-joint-wwi-research
-title: "Massey and German historians in joint WWI research"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/CU1412/S00122/massey-and-german-historians-in-joint-wwi-research.htm
+title: Massey and German historians in joint WWI research
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00122/massey-and-german-historians-in-joint-wwi-research.htm
 author: massey-university
+permalink: >-
+  /archive/2014/12/04/massey-and-german-historians-in-joint-wwi-research/index.html
+layout: layout.njk
 ---
 Massey and German historians in joint WWI research
 ==================================================

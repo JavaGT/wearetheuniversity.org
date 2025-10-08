@@ -1,9 +1,12 @@
 ---
 slug: unions-set-the-record-straight-on-maori-option
-title: "Unions Set the Record Straight on Maori Option"
-date: 2006-08-08
-source-url: https://www.scoop.co.nz/stories/PO0608/S00075/unions-set-the-record-straight-on-maori-option.htm
+title: Unions Set the Record Straight on Maori Option
+date: 2006-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00075/unions-set-the-record-straight-on-maori-option.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/08/08/unions-set-the-record-straight-on-maori-option/index.html
+layout: layout.njk
 ---
 Unions Set the Record Straight on Maori Option
 ==============================================

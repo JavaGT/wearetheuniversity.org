@@ -1,9 +1,13 @@
 ---
 slug: green-light-for-national-bargaining-in-varsities
-title: "Green light for national bargaining in varsities"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00033/green-light-for-national-bargaining-in-varsities.htm
+title: Green light for national bargaining in varsities
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00033/green-light-for-national-bargaining-in-varsities.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2003/07/11/green-light-for-national-bargaining-in-varsities/index.html
+layout: layout.njk
 ---
 Green light for national bargaining in varsities
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-govt-needs-to-call-for-israel-to-halt-air-strikes
-title: "NZ Govt needs to call for Israel to halt air strikes"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00259/nz-govt-needs-to-call-for-israel-to-halt-air-strikes.htm
+title: NZ Govt needs to call for Israel to halt air strikes
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00259/nz-govt-needs-to-call-for-israel-to-halt-air-strikes.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/14/nz-govt-needs-to-call-for-israel-to-halt-air-strikes/index.html
+layout: layout.njk
 ---
 NZ Govt needs to call for Israel to halt air strikes
 ====================================================

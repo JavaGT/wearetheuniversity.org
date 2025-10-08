@@ -1,9 +1,12 @@
 ---
 slug: government-failing-workers;-young-women-māori-&-pasifika
-title: "Government failing workers; young, women, Māori & Pasifika"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/PO1411/S00035/government-failing-workers-young-women-maori-pasifika.htm
+title: Government failing workers; young, women, Māori & Pasifika
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00035/government-failing-workers-young-women-maori-pasifika.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/11/05/government-failing-workers/index.html
+layout: layout.njk
 ---
 Government failing workers; young, women, Māori & Pasifika
 ==========================================================

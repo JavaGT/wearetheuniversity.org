@@ -1,9 +1,13 @@
 ---
 slug: could-earthworms-help-understand-rising-infertility-rates
-title: "Could earthworms help understand rising infertility rates?"
-date: 2015-11-17
-source-url: https://www.scoop.co.nz/stories/SC1511/S00061/could-earthworms-help-understand-rising-infertility-rates.htm
+title: Could earthworms help understand rising infertility rates?
+date: 2015-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00061/could-earthworms-help-understand-rising-infertility-rates.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/17/could-earthworms-help-understand-rising-infertility-rates/index.html
+layout: layout.njk
 ---
 Could earthworms help understand rising infertility rates?
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: nervous-nats-block-parliamentary-inquiry-into-novopay
-title: "Nervous Nats block Parliamentary inquiry into Novopay"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/PA1211/S00472/nervous-nats-block-parliamentary-inquiry-into-novopay.htm
+title: Nervous Nats block Parliamentary inquiry into Novopay
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00472/nervous-nats-block-parliamentary-inquiry-into-novopay.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/11/28/nervous-nats-block-parliamentary-inquiry-into-novopay/index.html
+layout: layout.njk
 ---
 Nervous Nats block Parliamentary inquiry into Novopay
 =====================================================

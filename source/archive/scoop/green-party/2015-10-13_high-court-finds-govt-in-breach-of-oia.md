@@ -1,9 +1,12 @@
 ---
 slug: high-court-finds-govt-in-breach-of-oia
-title: "High Court finds Govt in breach of OIA"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00179/high-court-finds-govt-in-breach-of-oia.htm
+title: High Court finds Govt in breach of OIA
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00179/high-court-finds-govt-in-breach-of-oia.htm
 author: green-party
+permalink: /archive/2015/10/13/high-court-finds-govt-in-breach-of-oia/index.html
+layout: layout.njk
 ---
 High Court finds Govt in breach of OIA
 ======================================

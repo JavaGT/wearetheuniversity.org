@@ -1,9 +1,12 @@
 ---
 slug: maharey-not-helping-worker-shortages
-title: "Maharey Not Helping Worker Shortages"
-date: 2003-06-04
-source-url: https://www.scoop.co.nz/stories/PA0306/S00036/maharey-not-helping-worker-shortages.htm
+title: Maharey Not Helping Worker Shortages
+date: 2003-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00036/maharey-not-helping-worker-shortages.htm
 author: act-new-zealand
+permalink: /archive/2003/06/04/maharey-not-helping-worker-shortages/index.html
+layout: layout.njk
 ---
 Maharey Not Helping Worker Shortages
 ====================================

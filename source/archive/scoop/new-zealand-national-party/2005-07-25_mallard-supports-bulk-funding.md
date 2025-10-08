@@ -1,9 +1,12 @@
 ---
 slug: mallard-supports-bulk-funding
-title: "Mallard supports bulk funding"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00516/mallard-supports-bulk-funding.htm
+title: Mallard supports bulk funding
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00516/mallard-supports-bulk-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/25/mallard-supports-bulk-funding/index.html
+layout: layout.njk
 ---
 Mallard supports bulk funding
 =============================

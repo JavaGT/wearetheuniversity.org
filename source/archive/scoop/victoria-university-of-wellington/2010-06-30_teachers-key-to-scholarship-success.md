@@ -1,9 +1,12 @@
 ---
 slug: teachers-key-to-scholarship-success
-title: "Teachers key to scholarship success"
-date: 2010-06-30
-source-url: https://www.scoop.co.nz/stories/ED1006/S00113/teachers-key-to-scholarship-success.htm
+title: Teachers key to scholarship success
+date: 2010-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00113/teachers-key-to-scholarship-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/06/30/teachers-key-to-scholarship-success/index.html
+layout: layout.njk
 ---
 Teachers key to scholarship success
 ===================================

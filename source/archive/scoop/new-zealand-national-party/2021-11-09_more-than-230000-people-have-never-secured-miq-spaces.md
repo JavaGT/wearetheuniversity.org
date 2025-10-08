@@ -1,9 +1,13 @@
 ---
 slug: more-than-230000-people-have-never-secured-miq-spaces
-title: "More Than 230,000 People Have Never Secured MIQ Spaces"
-date: 2021-11-09
-source-url: https://www.scoop.co.nz/stories/PA2111/S00091/more-than-230000-people-have-never-secured-miq-spaces.htm
+title: More Than 230,000 People Have Never Secured MIQ Spaces
+date: 2021-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00091/more-than-230000-people-have-never-secured-miq-spaces.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/09/more-than-230000-people-have-never-secured-miq-spaces/index.html
+layout: layout.njk
 ---
 More Than 230,000 People Have Never Secured MIQ Spaces
 ======================================================

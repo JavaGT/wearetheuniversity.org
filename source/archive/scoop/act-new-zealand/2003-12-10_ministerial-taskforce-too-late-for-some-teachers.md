@@ -1,9 +1,13 @@
 ---
 slug: ministerial-taskforce-too-late-for-some-teachers
-title: "Ministerial Taskforce Too Late For Some Teachers"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/PA0312/S00244/ministerial-taskforce-too-late-for-some-teachers.htm
+title: Ministerial Taskforce Too Late For Some Teachers
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00244/ministerial-taskforce-too-late-for-some-teachers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/12/10/ministerial-taskforce-too-late-for-some-teachers/index.html
+layout: layout.njk
 ---
 Ministerial Taskforce Too Late For Some Teachers
 ================================================

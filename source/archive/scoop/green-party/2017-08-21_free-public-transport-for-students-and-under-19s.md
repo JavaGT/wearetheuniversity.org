@@ -1,9 +1,13 @@
 ---
 slug: free-public-transport-for-students-and-under-19s
-title: "Free public transport for students and under-19s"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/PA1708/S00389/free-public-transport-for-students-and-under-19s.htm
+title: Free public transport for students and under-19s
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00389/free-public-transport-for-students-and-under-19s.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/21/free-public-transport-for-students-and-under-19s/index.html
+layout: layout.njk
 ---
 Free public transport for students and under-19s
 ================================================

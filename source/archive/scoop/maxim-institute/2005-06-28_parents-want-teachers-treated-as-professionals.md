@@ -1,9 +1,12 @@
 ---
 slug: parents-want-teachers-treated-as-professionals
-title: "Parents want teachers treated as professionals"
-date: 2005-06-28
-source-url: https://www.scoop.co.nz/stories/ED0506/S00077/parents-want-teachers-treated-as-professionals.htm
+title: Parents want teachers treated as professionals
+date: 2005-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00077/parents-want-teachers-treated-as-professionals.htm
 author: maxim-institute
+permalink: /archive/2005/06/28/parents-want-teachers-treated-as-professionals/index.html
+layout: layout.njk
 ---
 Parents want teachers treated as professionals
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-wont-deal-to-boy-racer-hoons!
-title: "Cullen won't deal to boy racer hoons!"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00221/cullen-wont-deal-to-boy-racer-hoons.htm
+title: Cullen won't deal to boy racer hoons!
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00221/cullen-wont-deal-to-boy-racer-hoons.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/13/cullen-wont-deal-to-boy-racer-hoons/index.html
+layout: layout.njk
 ---
 Cullen won't deal to boy racer hoons!
 =====================================

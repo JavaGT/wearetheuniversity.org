@@ -1,9 +1,12 @@
 ---
 slug: sexual-violence-in-history-public-lecture
-title: "Sexual violence in history: public lecture"
-date: 2006-04-19
-source-url: https://www.scoop.co.nz/stories/ED0604/S00060/sexual-violence-in-history-public-lecture.htm
+title: 'Sexual violence in history: public lecture'
+date: 2006-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00060/sexual-violence-in-history-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/19/sexual-violence-in-history-public-lecture/index.html
+layout: layout.njk
 ---
 Sexual violence in history: public lecture
 ==========================================

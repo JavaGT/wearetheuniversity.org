@@ -1,9 +1,13 @@
 ---
 slug: plan-to-establish-elite-teachers-ignores-biggest-hurdles
-title: "Plan to establish elite teachers ignores biggest hurdles"
-date: 2014-01-23
-source-url: https://www.scoop.co.nz/stories/PO1401/S00080/plan-to-establish-elite-teachers-ignores-biggest-hurdles.htm
+title: Plan to establish elite teachers ignores biggest hurdles
+date: 2014-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00080/plan-to-establish-elite-teachers-ignores-biggest-hurdles.htm
 author: nzei
+permalink: >-
+  /archive/2014/01/23/plan-to-establish-elite-teachers-ignores-biggest-hurdles/index.html
+layout: layout.njk
 ---
 Plan to establish elite teachers ignores biggest hurdles
 ========================================================

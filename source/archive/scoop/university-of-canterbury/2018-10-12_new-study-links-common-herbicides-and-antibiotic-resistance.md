@@ -1,9 +1,13 @@
 ---
 slug: new-study-links-common-herbicides-and-antibiotic-resistance
-title: "New study links common herbicides and antibiotic resistance"
-date: 2018-10-12
-source-url: https://www.scoop.co.nz/stories/SC1810/S00047/new-study-links-common-herbicides-and-antibiotic-resistance.htm
+title: New study links common herbicides and antibiotic resistance
+date: 2018-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00047/new-study-links-common-herbicides-and-antibiotic-resistance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/12/new-study-links-common-herbicides-and-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 New study links common herbicides and antibiotic resistance
 ===========================================================

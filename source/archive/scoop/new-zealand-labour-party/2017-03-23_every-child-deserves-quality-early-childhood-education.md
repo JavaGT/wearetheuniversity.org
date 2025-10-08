@@ -1,9 +1,13 @@
 ---
 slug: every-child-deserves-quality-early-childhood-education
-title: "Every child deserves quality early childhood education"
-date: 2017-03-23
-source-url: https://www.scoop.co.nz/stories/PA1703/S00411/every-child-deserves-quality-early-childhood-education.htm
+title: Every child deserves quality early childhood education
+date: 2017-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00411/every-child-deserves-quality-early-childhood-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/23/every-child-deserves-quality-early-childhood-education/index.html
+layout: layout.njk
 ---
 Every child deserves quality early childhood education
 ======================================================

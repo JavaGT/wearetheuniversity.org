@@ -1,9 +1,12 @@
 ---
 slug: nz-lags-in-marketing-unhealthy-food-to-children
-title: "NZ lags in marketing unhealthy food to children"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/GE0902/S00098/nz-lags-in-marketing-unhealthy-food-to-children.htm
+title: NZ lags in marketing unhealthy food to children
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00098/nz-lags-in-marketing-unhealthy-food-to-children.htm
 author: university-of-otago
+permalink: /archive/2009/02/24/nz-lags-in-marketing-unhealthy-food-to-children/index.html
+layout: layout.njk
 ---
 NZ lags in marketing unhealthy food to children
 ===============================================

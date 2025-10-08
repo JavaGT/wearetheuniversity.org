@@ -1,9 +1,12 @@
 ---
 slug: ornithologist-to-receive-honorary-doctorate
-title: "Ornithologist to receive honorary doctorate"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/SC0711/S00053/ornithologist-to-receive-honorary-doctorate.htm
+title: Ornithologist to receive honorary doctorate
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00053/ornithologist-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/16/ornithologist-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Ornithologist to receive honorary doctorate
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: solid-energys-cuts-a-blow-to-huntly
-title: "Solid Energy’s cuts a blow to Huntly"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/PA1208/S00456/solid-energys-cuts-a-blow-to-huntly.htm
+title: Solid Energy’s cuts a blow to Huntly
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00456/solid-energys-cuts-a-blow-to-huntly.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/29/solid-energys-cuts-a-blow-to-huntly/index.html
+layout: layout.njk
 ---
 Solid Energy’s cuts a blow to Huntly
 ====================================

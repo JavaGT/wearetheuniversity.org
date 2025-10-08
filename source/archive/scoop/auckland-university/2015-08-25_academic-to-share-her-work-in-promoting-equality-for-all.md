@@ -1,9 +1,13 @@
 ---
 slug: academic-to-share-her-work-in-promoting-equality-for-all
-title: "Academic to share her work in promoting equality for all"
-date: 2015-08-25
-source-url: https://www.scoop.co.nz/stories/ED1508/S00121/academic-to-share-her-work-in-promoting-equality-for-all.htm
+title: Academic to share her work in promoting equality for all
+date: 2015-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00121/academic-to-share-her-work-in-promoting-equality-for-all.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/08/25/academic-to-share-her-work-in-promoting-equality-for-all/index.html
+layout: layout.njk
 ---
 Academic to share her work in promoting equality for all
 ========================================================

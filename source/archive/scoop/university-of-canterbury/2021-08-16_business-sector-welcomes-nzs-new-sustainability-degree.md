@@ -1,9 +1,13 @@
 ---
 slug: business-sector-welcomes-nzs-new-sustainability-degree
-title: "Business sector welcomes NZ’s new sustainability degree"
-date: 2021-08-16
-source-url: https://www.scoop.co.nz/stories/ED2108/S00023/business-sector-welcomes-nzs-new-sustainability-degree.htm
+title: Business sector welcomes NZ’s new sustainability degree
+date: 2021-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00023/business-sector-welcomes-nzs-new-sustainability-degree.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/08/16/business-sector-welcomes-nzs-new-sustainability-degree/index.html
+layout: layout.njk
 ---
 Business sector welcomes NZ’s new sustainability degree
 =======================================================

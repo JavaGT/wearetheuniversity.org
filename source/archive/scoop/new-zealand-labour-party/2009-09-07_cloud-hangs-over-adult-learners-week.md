@@ -1,9 +1,12 @@
 ---
 slug: cloud-hangs-over-adult-learners-week
-title: "Cloud hangs over Adult Learners’ Week"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/PA0909/S00078/cloud-hangs-over-adult-learners-week.htm
+title: Cloud hangs over Adult Learners’ Week
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00078/cloud-hangs-over-adult-learners-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/07/cloud-hangs-over-adult-learners-week/index.html
+layout: layout.njk
 ---
 Cloud hangs over Adult Learners’ Week
 =====================================

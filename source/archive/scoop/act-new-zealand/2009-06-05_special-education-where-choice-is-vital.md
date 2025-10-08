@@ -1,9 +1,12 @@
 ---
 slug: special-education-where-choice-is-vital
-title: "Special Education - Where Choice Is Vital"
-date: 2009-06-05
-source-url: https://www.scoop.co.nz/stories/PA0906/S00082/special-education-where-choice-is-vital.htm
+title: Special Education - Where Choice Is Vital
+date: 2009-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00082/special-education-where-choice-is-vital.htm
 author: act-new-zealand
+permalink: /archive/2009/06/05/special-education-where-choice-is-vital/index.html
+layout: layout.njk
 ---
 Special Education - Where Choice Is Vital
 =========================================

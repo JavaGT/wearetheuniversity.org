@@ -1,9 +1,12 @@
 ---
 slug: racism-policy-not-yet-official-say-ausa
-title: "Racism Policy not yet official, say AUSA"
-date: 2009-05-20
-source-url: https://www.scoop.co.nz/stories/PO0905/S00268/racism-policy-not-yet-official-say-ausa.htm
+title: Racism Policy not yet official, say AUSA
+date: 2009-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00268/racism-policy-not-yet-official-say-ausa.htm
 author: auckland-university-students-association
+permalink: /archive/2009/05/20/racism-policy-not-yet-official-say-ausa/index.html
+layout: layout.njk
 ---
 Racism Policy not yet official, say AUSA
 ========================================

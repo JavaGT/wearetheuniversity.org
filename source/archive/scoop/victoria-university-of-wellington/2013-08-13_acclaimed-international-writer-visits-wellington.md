@@ -1,9 +1,13 @@
 ---
 slug: acclaimed-international-writer-visits-wellington
-title: "Acclaimed international writer visits Wellington"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/CU1308/S00199/acclaimed-international-writer-visits-wellington.htm
+title: Acclaimed international writer visits Wellington
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00199/acclaimed-international-writer-visits-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/13/acclaimed-international-writer-visits-wellington/index.html
+layout: layout.njk
 ---
 Acclaimed international writer visits Wellington
 ================================================

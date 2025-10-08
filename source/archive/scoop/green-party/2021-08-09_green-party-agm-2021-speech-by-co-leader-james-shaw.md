@@ -1,9 +1,13 @@
 ---
 slug: green-party-agm-2021-speech-by-co-leader-james-shaw
-title: "Green Party AGM 2021 - Speech By Co-leader James Shaw"
-date: 2021-08-09
-source-url: https://www.scoop.co.nz/stories/PO2108/S00047/green-party-agm-2021-speech-by-co-leader-james-shaw.htm
+title: Green Party AGM 2021 - Speech By Co-leader James Shaw
+date: 2021-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2108/S00047/green-party-agm-2021-speech-by-co-leader-james-shaw.htm
 author: green-party
+permalink: >-
+  /archive/2021/08/09/green-party-agm-2021-speech-by-co-leader-james-shaw/index.html
+layout: layout.njk
 ---
 Green Party AGM 2021 - Speech By Co-leader James Shaw
 =====================================================

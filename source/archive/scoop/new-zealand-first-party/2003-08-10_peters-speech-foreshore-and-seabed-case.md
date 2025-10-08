@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-foreshore-and-seabed-case
-title: "Peters Speech: Foreshore and Seabed Case"
-date: 2003-08-10
-source-url: https://www.scoop.co.nz/stories/PA0308/S00196/peters-speech-foreshore-and-seabed-case.htm
+title: 'Peters Speech: Foreshore and Seabed Case'
+date: 2003-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00196/peters-speech-foreshore-and-seabed-case.htm
 author: new-zealand-first-party
+permalink: /archive/2003/08/10/peters-speech-foreshore-and-seabed-case/index.html
+layout: layout.njk
 ---
 Peters Speech: Foreshore and Seabed Case
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: submission-on-kyoto-protocol-ensuring-our-future
-title: "Submission On Kyoto Protocol: Ensuring Our Future"
-date: 2002-01-25
-source-url: https://www.scoop.co.nz/stories/BU0201/S00070/submission-on-kyoto-protocol-ensuring-our-future.htm
+title: 'Submission On Kyoto Protocol: Ensuring Our Future'
+date: 2002-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0201/S00070/submission-on-kyoto-protocol-ensuring-our-future.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2002/01/25/submission-on-kyoto-protocol-ensuring-our-future/index.html
+layout: layout.njk
 ---
 Submission On Kyoto Protocol: Ensuring Our Future
 =================================================

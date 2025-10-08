@@ -1,9 +1,12 @@
 ---
 slug: pre-european-maori-village-life-revealed
-title: "Pre-European Maori Village Life Revealed"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/CU0405/S00022/pre-european-maori-village-life-revealed.htm
+title: Pre-European Maori Village Life Revealed
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0405/S00022/pre-european-maori-village-life-revealed.htm
 author: auckland-university-press
+permalink: /archive/2004/05/05/pre-european-maori-village-life-revealed/index.html
+layout: layout.njk
 ---
 Pre-European Maori Village Life Revealed
 ========================================

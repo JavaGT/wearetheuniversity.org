@@ -1,9 +1,12 @@
 ---
 slug: auckland-now-tops-least-affordable-homes-list
-title: "Auckland now tops 'least affordable homes' list"
-date: 2012-01-12
-source-url: https://www.scoop.co.nz/stories/BU1201/S00187/auckland-now-tops-least-affordable-homes-list.htm
+title: Auckland now tops 'least affordable homes' list
+date: 2012-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1201/S00187/auckland-now-tops-least-affordable-homes-list.htm
 author: massey-university
+permalink: /archive/2012/01/12/auckland-now-tops-least-affordable-homes-list/index.html
+layout: layout.njk
 ---
 Auckland now tops 'least affordable homes' list
 ===============================================

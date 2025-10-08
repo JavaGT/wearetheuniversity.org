@@ -1,9 +1,12 @@
 ---
 slug: massey-writers-climate-change-play-goes-global
-title: "Massey writer’s climate change play goes global"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/CU1511/S00305/massey-writers-climate-change-play-goes-global.htm
+title: Massey writer’s climate change play goes global
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00305/massey-writers-climate-change-play-goes-global.htm
 author: massey-university
+permalink: /archive/2015/11/20/massey-writers-climate-change-play-goes-global/index.html
+layout: layout.njk
 ---
 Massey writer’s climate change play goes global
 ===============================================

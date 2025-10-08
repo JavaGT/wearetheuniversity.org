@@ -1,9 +1,12 @@
 ---
 slug: whats-next-for-murderers-air-points
-title: "What’s Next For Murderers - Air Points?"
-date: 2000-11-28
-source-url: https://www.scoop.co.nz/stories/PA0011/S00494/whats-next-for-murderers-air-points.htm
+title: What’s Next For Murderers - Air Points?
+date: 2000-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00494/whats-next-for-murderers-air-points.htm
 author: new-zealand-first-party
+permalink: /archive/2000/11/28/whats-next-for-murderers-air-points/index.html
+layout: layout.njk
 ---
 What’s Next For Murderers - Air Points?
 =======================================

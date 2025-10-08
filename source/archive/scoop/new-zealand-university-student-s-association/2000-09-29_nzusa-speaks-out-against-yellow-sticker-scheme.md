@@ -1,9 +1,12 @@
 ---
 slug: nzusa-speaks-out-against-yellow-sticker-scheme
-title: "NZUSA Speaks Out Against Yellow Sticker Scheme"
-date: 2000-09-29
-source-url: https://www.scoop.co.nz/stories/GE0009/S00062/nzusa-speaks-out-against-yellow-sticker-scheme.htm
+title: NZUSA Speaks Out Against Yellow Sticker Scheme
+date: 2000-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0009/S00062/nzusa-speaks-out-against-yellow-sticker-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/09/29/nzusa-speaks-out-against-yellow-sticker-scheme/index.html
+layout: layout.njk
 ---
 NZUSA Speaks Out Against Yellow Sticker Scheme
 ==============================================

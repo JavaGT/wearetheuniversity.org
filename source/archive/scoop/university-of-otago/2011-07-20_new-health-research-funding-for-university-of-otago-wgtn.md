@@ -1,9 +1,13 @@
 ---
 slug: new-health-research-funding-for-university-of-otago-wgtn
-title: "New Health Research Funding for University of Otago, Wgtn"
-date: 2011-07-20
-source-url: https://www.scoop.co.nz/stories/ED1107/S00080/new-health-research-funding-for-university-of-otago-wgtn.htm
+title: New Health Research Funding for University of Otago, Wgtn
+date: 2011-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00080/new-health-research-funding-for-university-of-otago-wgtn.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/20/new-health-research-funding-for-university-of-otago-wgtn/index.html
+layout: layout.njk
 ---
 New Health Research Funding for University of Otago, Wgtn
 =========================================================

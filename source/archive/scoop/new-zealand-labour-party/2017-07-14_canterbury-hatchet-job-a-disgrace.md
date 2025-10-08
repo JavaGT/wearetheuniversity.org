@@ -1,9 +1,12 @@
 ---
 slug: canterbury-hatchet-job-a-disgrace
-title: "Canterbury hatchet job a disgrace"
-date: 2017-07-14
-source-url: https://www.scoop.co.nz/stories/PA1707/S00221/canterbury-hatchet-job-a-disgrace.htm
+title: Canterbury hatchet job a disgrace
+date: 2017-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00221/canterbury-hatchet-job-a-disgrace.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/14/canterbury-hatchet-job-a-disgrace/index.html
+layout: layout.njk
 ---
 Canterbury hatchet job a disgrace
 =================================

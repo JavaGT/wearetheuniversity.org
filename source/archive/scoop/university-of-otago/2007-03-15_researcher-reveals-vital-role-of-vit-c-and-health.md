@@ -1,9 +1,13 @@
 ---
 slug: researcher-reveals-vital-role-of-vit-c-and-health
-title: "Researcher Reveals Vital Role of Vit C and Health"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/GE0703/S00046/researcher-reveals-vital-role-of-vit-c-and-health.htm
+title: Researcher Reveals Vital Role of Vit C and Health
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00046/researcher-reveals-vital-role-of-vit-c-and-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/03/15/researcher-reveals-vital-role-of-vit-c-and-health/index.html
+layout: layout.njk
 ---
 Researcher Reveals Vital Role of Vit C and Health
 =================================================

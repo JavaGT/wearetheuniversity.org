@@ -1,9 +1,12 @@
 ---
 slug: norway-moves-first-to-dump-coal-investments
-title: "Norway moves first to dump coal investments"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/PA1505/S00541/norway-moves-first-to-dump-coal-investments.htm
+title: Norway moves first to dump coal investments
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00541/norway-moves-first-to-dump-coal-investments.htm
 author: green-party
+permalink: /archive/2015/05/28/norway-moves-first-to-dump-coal-investments/index.html
+layout: layout.njk
 ---
 Norway moves first to dump coal investments
 ===========================================

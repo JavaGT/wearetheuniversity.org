@@ -1,9 +1,13 @@
 ---
 slug: international-speaker-series-attracts-top-talent
-title: "International Speaker Series Attracts Top Talent"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/ED0504/S00084/international-speaker-series-attracts-top-talent.htm
+title: International Speaker Series Attracts Top Talent
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00084/international-speaker-series-attracts-top-talent.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/04/27/international-speaker-series-attracts-top-talent/index.html
+layout: layout.njk
 ---
 International Speaker Series Attracts Top Talent
 ================================================

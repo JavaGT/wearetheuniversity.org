@@ -1,9 +1,12 @@
 ---
 slug: members-resolve-to-continue-with-strike-action
-title: "Members resolve to continue with strike action"
-date: 2008-02-20
-source-url: https://www.scoop.co.nz/stories/ED0802/S00039/members-resolve-to-continue-with-strike-action.htm
+title: Members resolve to continue with strike action
+date: 2008-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00039/members-resolve-to-continue-with-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/02/20/members-resolve-to-continue-with-strike-action/index.html
+layout: layout.njk
 ---
 Members resolve to continue with strike action
 ==============================================

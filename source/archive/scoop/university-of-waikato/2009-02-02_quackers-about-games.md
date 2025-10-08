@@ -1,9 +1,11 @@
 ---
 slug: quackers-about-games
-title: "Quackers about games"
-date: 2009-02-02
+title: Quackers about games
+date: 2009-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0902/S00002/quackers-about-games.htm
 author: university-of-waikato
+permalink: /archive/2009/02/02/quackers-about-games/index.html
+layout: layout.njk
 ---
 Quackers about games
 ====================

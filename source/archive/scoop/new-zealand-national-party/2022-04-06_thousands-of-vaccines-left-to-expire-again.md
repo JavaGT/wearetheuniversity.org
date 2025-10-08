@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-vaccines-left-to-expire-again
-title: "Thousands Of Vaccines Left To Expire, Again"
-date: 2022-04-06
-source-url: https://www.scoop.co.nz/stories/PA2204/S00053/thousands-of-vaccines-left-to-expire-again.htm
+title: Thousands Of Vaccines Left To Expire, Again
+date: 2022-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00053/thousands-of-vaccines-left-to-expire-again.htm
 author: new-zealand-national-party
+permalink: /archive/2022/04/06/thousands-of-vaccines-left-to-expire-again/index.html
+layout: layout.njk
 ---
 Thousands Of Vaccines Left To Expire, Again
 ===========================================

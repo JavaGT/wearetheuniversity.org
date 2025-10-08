@@ -1,9 +1,12 @@
 ---
 slug: minister-should-review-pharmac-drug-assessment
-title: "Minister should review Pharmac drug assessment"
-date: 2001-10-30
-source-url: https://www.scoop.co.nz/stories/PA0110/S00515/minister-should-review-pharmac-drug-assessment.htm
+title: Minister should review Pharmac drug assessment
+date: 2001-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00515/minister-should-review-pharmac-drug-assessment.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/30/minister-should-review-pharmac-drug-assessment/index.html
+layout: layout.njk
 ---
 Minister should review Pharmac drug assessment
 ==============================================

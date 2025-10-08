@@ -1,9 +1,13 @@
 ---
 slug: graphic-fantasy-design-win-for-korea-bound-student
-title: "Graphic fantasy design win for Korea bound student"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/ED1510/S00081/graphic-fantasy-design-win-for-korea-bound-student.htm
+title: Graphic fantasy design win for Korea bound student
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00081/graphic-fantasy-design-win-for-korea-bound-student.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/15/graphic-fantasy-design-win-for-korea-bound-student/index.html
+layout: layout.njk
 ---
 Graphic fantasy design win for Korea bound student
 ==================================================

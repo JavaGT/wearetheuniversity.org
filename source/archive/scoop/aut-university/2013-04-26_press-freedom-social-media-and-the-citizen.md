@@ -1,9 +1,12 @@
 ---
 slug: press-freedom-social-media-and-the-citizen
-title: "Press freedom, social media and the citizen"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/PO1304/S00343/press-freedom-social-media-and-the-citizen.htm
+title: Press freedom, social media and the citizen
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00343/press-freedom-social-media-and-the-citizen.htm
 author: aut-university
+permalink: /archive/2013/04/26/press-freedom-social-media-and-the-citizen/index.html
+layout: layout.njk
 ---
 Press freedom, social media and the citizen
 ===========================================

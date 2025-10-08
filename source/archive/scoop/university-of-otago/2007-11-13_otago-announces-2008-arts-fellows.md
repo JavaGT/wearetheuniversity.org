@@ -1,9 +1,12 @@
 ---
 slug: otago-announces-2008-arts-fellows
-title: "Otago Announces 2008 Arts Fellows"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/ED0711/S00065/otago-announces-2008-arts-fellows.htm
+title: Otago Announces 2008 Arts Fellows
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00065/otago-announces-2008-arts-fellows.htm
 author: university-of-otago
+permalink: /archive/2007/11/13/otago-announces-2008-arts-fellows/index.html
+layout: layout.njk
 ---
 Otago Announces 2008 Arts Fellows
 =================================

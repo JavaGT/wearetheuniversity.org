@@ -1,9 +1,13 @@
 ---
 slug: young-leaders-to-share-stories-of-social-justice
-title: "Young Leaders to Share Stories of Social Justice"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PO0703/S00376/young-leaders-to-share-stories-of-social-justice.htm
+title: Young Leaders to Share Stories of Social Justice
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00376/young-leaders-to-share-stories-of-social-justice.htm
 author: maxim-institute
+permalink: >-
+  /archive/2007/03/28/young-leaders-to-share-stories-of-social-justice/index.html
+layout: layout.njk
 ---
 Young Leaders to Share Stories of Social Justice
 ================================================

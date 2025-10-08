@@ -1,8 +1,12 @@
 ---
 slug: china-university-delegation-hosted-by-university-of-auckland
-title: "China university delegation hosted by University of Auckland"
-date: 2016-09-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/china-university-delegation-hosted-by-university-of-auckland.html
+title: China university delegation hosted by University of Auckland
+date: 2016-09-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/china-university-delegation-hosted-by-university-of-auckland.html
+permalink: >-
+  /archive/2016/09/19/china-university-delegation-hosted-by-university-of-auckland/index.html
+layout: layout.njk
 ---
 China university delegation hosted by University of Auckland
 ============================================================

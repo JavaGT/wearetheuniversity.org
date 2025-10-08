@@ -1,9 +1,11 @@
 ---
 slug: charter-confusion-reigns
-title: "Charter confusion reigns"
-date: 2007-05-24
+title: Charter confusion reigns
+date: 2007-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00660/charter-confusion-reigns.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/24/charter-confusion-reigns/index.html
+layout: layout.njk
 ---
 Charter confusion reigns
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-warming-to-solar-power
-title: "New Zealanders warming to solar power"
-date: 2014-09-24
-source-url: https://www.scoop.co.nz/stories/PO1409/S00493/new-zealanders-warming-to-solar-power.htm
+title: New Zealanders warming to solar power
+date: 2014-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00493/new-zealanders-warming-to-solar-power.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/24/new-zealanders-warming-to-solar-power/index.html
+layout: layout.njk
 ---
 New Zealanders warming to solar power
 =====================================

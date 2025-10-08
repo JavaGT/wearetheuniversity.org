@@ -1,9 +1,13 @@
 ---
 slug: experienced-senior-executive-appointed-at-victoria
-title: "Experienced senior executive appointed at Victoria"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/BU0905/S00187/experienced-senior-executive-appointed-at-victoria.htm
+title: Experienced senior executive appointed at Victoria
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00187/experienced-senior-executive-appointed-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/05/07/experienced-senior-executive-appointed-at-victoria/index.html
+layout: layout.njk
 ---
 Experienced senior executive appointed at Victoria
 ==================================================

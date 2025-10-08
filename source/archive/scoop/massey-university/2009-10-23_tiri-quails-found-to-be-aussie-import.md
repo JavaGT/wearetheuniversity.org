@@ -1,9 +1,12 @@
 ---
 slug: tiri-quails-found-to-be-aussie-import
-title: "Tiri quails found to be Aussie import"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/ED0910/S00111/tiri-quails-found-to-be-aussie-import.htm
+title: Tiri quails found to be Aussie import
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00111/tiri-quails-found-to-be-aussie-import.htm
 author: massey-university
+permalink: /archive/2009/10/23/tiri-quails-found-to-be-aussie-import/index.html
+layout: layout.njk
 ---
 Tiri quails found to be Aussie import
 =====================================

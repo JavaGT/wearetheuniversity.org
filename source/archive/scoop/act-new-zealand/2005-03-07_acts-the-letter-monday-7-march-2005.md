@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-7-march-2005
-title: "ACT's The Letter Monday 7 March 2005"
-date: 2005-03-07
-source-url: https://www.scoop.co.nz/stories/PA0503/S00142/acts-the-letter-monday-7-march-2005.htm
+title: ACT's The Letter Monday 7 March 2005
+date: 2005-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00142/acts-the-letter-monday-7-march-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/03/07/acts-the-letter-monday-7-march-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter Monday 7 March 2005
 ====================================

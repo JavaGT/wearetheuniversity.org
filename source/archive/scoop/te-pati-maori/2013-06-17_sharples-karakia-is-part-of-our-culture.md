@@ -1,9 +1,12 @@
 ---
 slug: sharples-karakia-is-part-of-our-culture
-title: "Sharples: Karakia is part of our culture"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/PA1306/S00284/sharples-karakia-is-part-of-our-culture.htm
+title: 'Sharples: Karakia is part of our culture'
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00284/sharples-karakia-is-part-of-our-culture.htm
 author: te-pati-maori
+permalink: /archive/2013/06/17/sharples-karakia-is-part-of-our-culture/index.html
+layout: layout.njk
 ---
 Sharples: Karakia is part of our culture
 ========================================

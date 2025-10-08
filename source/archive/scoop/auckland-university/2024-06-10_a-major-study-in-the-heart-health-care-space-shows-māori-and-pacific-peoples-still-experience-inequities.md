@@ -1,9 +1,16 @@
 ---
-slug: a-major-study-in-the-heart-health-care-space-shows-māori-and-pacific-peoples-still-experience-inequities
-title: "A Major Study In The Heart Health Care Space Shows Māori And Pacific Peoples Still Experience Inequities"
-date: 2024-06-10
-source-url: https://www.scoop.co.nz/stories/GE2406/S00047/a-major-study-in-the-heart-health-care-space-shows-maori-and-pacific-peoples-still-experience-inequities.htm
+slug: >-
+  a-major-study-in-the-heart-health-care-space-shows-māori-and-pacific-peoples-still-experience-inequities
+title: >-
+  A Major Study In The Heart Health Care Space Shows Māori And Pacific Peoples
+  Still Experience Inequities
+date: 2024-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00047/a-major-study-in-the-heart-health-care-space-shows-maori-and-pacific-peoples-still-experience-inequities.htm
 author: auckland-university
+permalink: >-
+  /archive/2024/06/10/a-major-study-in-the-heart-health-care-space-shows-m/index.html
+layout: layout.njk
 ---
 A Major Study In The Heart Health Care Space Shows Māori And Pacific Peoples Still Experience Inequities
 ========================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: public-hospitals-planning-to-charge-patients
-title: "Public hospitals planning to charge patients"
-date: 2010-01-22
-source-url: https://www.scoop.co.nz/stories/PA1001/S00089/public-hospitals-planning-to-charge-patients.htm
+title: Public hospitals planning to charge patients
+date: 2010-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00089/public-hospitals-planning-to-charge-patients.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/22/public-hospitals-planning-to-charge-patients/index.html
+layout: layout.njk
 ---
 Public hospitals planning to charge patients
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: voluntary-membership-best-model-for-wananga-group
-title: "Voluntary Membership Best Model For Wananga Group"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00134/voluntary-membership-best-model-for-wananga-group.htm
+title: Voluntary Membership Best Model For Wananga Group
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00134/voluntary-membership-best-model-for-wananga-group.htm
 author: student-choice
+permalink: >-
+  /archive/2004/09/30/voluntary-membership-best-model-for-wananga-group/index.html
+layout: layout.njk
 ---
 Voluntary Membership Best Model For Wananga Group
 =================================================

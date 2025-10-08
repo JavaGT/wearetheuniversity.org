@@ -1,9 +1,12 @@
 ---
 slug: redundancy-grievances-double-in-one-year
-title: "Redundancy grievances double in one year"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/PA1002/S00310/redundancy-grievances-double-in-one-year.htm
+title: Redundancy grievances double in one year
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00310/redundancy-grievances-double-in-one-year.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/22/redundancy-grievances-double-in-one-year/index.html
+layout: layout.njk
 ---
 Redundancy grievances double in one year
 ========================================

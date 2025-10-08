@@ -1,9 +1,12 @@
 ---
 slug: teachers-council-mallards-disgrace
-title: "Teachers Council, Mallard's Disgrace"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/PA0405/S00397/teachers-council-mallards-disgrace.htm
+title: Teachers Council, Mallard's Disgrace
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00397/teachers-council-mallards-disgrace.htm
 author: act-new-zealand
+permalink: /archive/2004/05/19/teachers-council-mallards-disgrace/index.html
+layout: layout.njk
 ---
 Teachers Council, Mallard's Disgrace
 ====================================

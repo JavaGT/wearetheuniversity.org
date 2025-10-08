@@ -1,9 +1,12 @@
 ---
 slug: bishop-congratulates-st-bernards-and-st-pats
-title: "Bishop congratulates St Bernard’s and St Pat’s"
-date: 2017-05-01
-source-url: https://www.scoop.co.nz/stories/PA1705/S00003/bishop-congratulates-st-bernards-and-st-pats.htm
+title: Bishop congratulates St Bernard’s and St Pat’s
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00003/bishop-congratulates-st-bernards-and-st-pats.htm
 author: new-zealand-national-party
+permalink: /archive/2017/05/01/bishop-congratulates-st-bernards-and-st-pats/index.html
+layout: layout.njk
 ---
 Bishop congratulates St Bernard’s and St Pat’s
 ==============================================

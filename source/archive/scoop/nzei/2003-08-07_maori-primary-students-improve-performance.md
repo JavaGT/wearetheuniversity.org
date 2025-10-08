@@ -1,9 +1,12 @@
 ---
 slug: maori-primary-students-improve-performance
-title: "Maori Primary Students Improve Performance"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/ED0308/S00026/maori-primary-students-improve-performance.htm
+title: Maori Primary Students Improve Performance
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00026/maori-primary-students-improve-performance.htm
 author: nzei
+permalink: /archive/2003/08/07/maori-primary-students-improve-performance/index.html
+layout: layout.njk
 ---
 Maori Primary Students Improve Performance
 ==========================================

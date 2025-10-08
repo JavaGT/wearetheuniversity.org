@@ -1,9 +1,12 @@
 ---
 slug: inquiry-proposed-into-acc-cuts
-title: "Inquiry proposed into ACC cuts"
-date: 2009-11-16
-source-url: https://www.scoop.co.nz/stories/PA0911/S00194/inquiry-proposed-into-acc-cuts.htm
+title: Inquiry proposed into ACC cuts
+date: 2009-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00194/inquiry-proposed-into-acc-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/16/inquiry-proposed-into-acc-cuts/index.html
+layout: layout.njk
 ---
 Inquiry proposed into ACC cuts
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-urged-to-get-it-right-next
-title: "Victoria University urged to 'get it right' next"
-date: 1999-12-22
-source-url: https://www.scoop.co.nz/stories/ED9912/S00013/victoria-university-urged-to-get-it-right-next.htm
+title: Victoria University urged to 'get it right' next
+date: 1999-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00013/victoria-university-urged-to-get-it-right-next.htm
 author: association-of-university-staff
+permalink: /archive/1999/12/22/victoria-university-urged-to-get-it-right-next/index.html
+layout: layout.njk
 ---
 Victoria University urged to 'get it right' next
 ================================================

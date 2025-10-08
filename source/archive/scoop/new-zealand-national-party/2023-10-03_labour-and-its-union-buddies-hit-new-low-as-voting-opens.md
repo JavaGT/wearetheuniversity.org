@@ -1,9 +1,13 @@
 ---
 slug: labour-and-its-union-buddies-hit-new-low-as-voting-opens
-title: "Labour And Its Union Buddies Hit New Low As Voting Opens"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/PA2310/S00015/labour-and-its-union-buddies-hit-new-low-as-voting-opens.htm
+title: Labour And Its Union Buddies Hit New Low As Voting Opens
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00015/labour-and-its-union-buddies-hit-new-low-as-voting-opens.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/10/03/labour-and-its-union-buddies-hit-new-low-as-voting-opens/index.html
+layout: layout.njk
 ---
 Labour And Its Union Buddies Hit New Low As Voting Opens
 ========================================================

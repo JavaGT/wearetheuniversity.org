@@ -1,9 +1,12 @@
 ---
 slug: peters-makes-statement-to-house
-title: "Peters Makes Statement To House"
-date: 2004-06-29
-source-url: https://www.scoop.co.nz/stories/PA0406/S00477/peters-makes-statement-to-house.htm
+title: Peters Makes Statement To House
+date: 2004-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00477/peters-makes-statement-to-house.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/29/peters-makes-statement-to-house/index.html
+layout: layout.njk
 ---
 Peters Makes Statement To House
 ===============================

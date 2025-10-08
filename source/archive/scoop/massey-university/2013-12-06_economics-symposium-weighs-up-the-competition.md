@@ -1,9 +1,12 @@
 ---
 slug: economics-symposium-weighs-up-the-competition
-title: "Economics symposium weighs up the competition"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/ED1312/S00051/economics-symposium-weighs-up-the-competition.htm
+title: Economics symposium weighs up the competition
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00051/economics-symposium-weighs-up-the-competition.htm
 author: massey-university
+permalink: /archive/2013/12/06/economics-symposium-weighs-up-the-competition/index.html
+layout: layout.njk
 ---
 Economics symposium weighs up the competition
 =============================================

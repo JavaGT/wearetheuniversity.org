@@ -1,9 +1,12 @@
 ---
 slug: shipley-in-touch-clark-losing-the-youth-vote
-title: "Shipley in touch – Clark losing The Youth Vote"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PO9907/S00077/shipley-in-touch-clark-losing-the-youth-vote.htm
+title: Shipley in touch – Clark losing The Youth Vote
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00077/shipley-in-touch-clark-losing-the-youth-vote.htm
 author: new-zealand-national-party
+permalink: /archive/1999/07/29/shipley-in-touch-clark-losing-the-youth-vote/index.html
+layout: layout.njk
 ---
 Shipley in touch – Clark losing The Youth Vote
 ==============================================

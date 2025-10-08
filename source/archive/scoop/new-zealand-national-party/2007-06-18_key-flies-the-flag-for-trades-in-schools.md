@@ -1,9 +1,12 @@
 ---
 slug: key-flies-the-flag-for-trades-in-schools
-title: "Key flies the flag for trades in schools"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/PA0706/S00340/key-flies-the-flag-for-trades-in-schools.htm
+title: Key flies the flag for trades in schools
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00340/key-flies-the-flag-for-trades-in-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/18/key-flies-the-flag-for-trades-in-schools/index.html
+layout: layout.njk
 ---
 Key flies the flag for trades in schools
 ========================================

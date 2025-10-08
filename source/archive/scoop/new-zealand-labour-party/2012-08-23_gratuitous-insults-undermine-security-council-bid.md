@@ -1,9 +1,13 @@
 ---
 slug: gratuitous-insults-undermine-security-council-bid
-title: "Gratuitous insults undermine Security Council bid"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/PA1208/S00324/gratuitous-insults-undermine-security-council-bid.htm
+title: Gratuitous insults undermine Security Council bid
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00324/gratuitous-insults-undermine-security-council-bid.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/23/gratuitous-insults-undermine-security-council-bid/index.html
+layout: layout.njk
 ---
 Gratuitous insults undermine Security Council bid
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-making-policy-based-on-assumptions-not-evidence
-title: "Labour Making Policy Based On Assumptions Not Evidence"
-date: 2022-08-31
-source-url: https://www.scoop.co.nz/stories/PA2208/S00249/labour-making-policy-based-on-assumptions-not-evidence.htm
+title: Labour Making Policy Based On Assumptions Not Evidence
+date: 2022-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00249/labour-making-policy-based-on-assumptions-not-evidence.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/31/labour-making-policy-based-on-assumptions-not-evidence/index.html
+layout: layout.njk
 ---
 Labour Making Policy Based On Assumptions Not Evidence
 ======================================================

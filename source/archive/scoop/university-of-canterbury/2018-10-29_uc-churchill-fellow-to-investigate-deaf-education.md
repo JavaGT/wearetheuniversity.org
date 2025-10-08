@@ -1,9 +1,13 @@
 ---
 slug: uc-churchill-fellow-to-investigate-deaf-education
-title: "UC Churchill Fellow to investigate deaf education"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/ED1810/S00052/uc-churchill-fellow-to-investigate-deaf-education.htm
+title: UC Churchill Fellow to investigate deaf education
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00052/uc-churchill-fellow-to-investigate-deaf-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/29/uc-churchill-fellow-to-investigate-deaf-education/index.html
+layout: layout.njk
 ---
 UC Churchill Fellow to investigate deaf education
 =================================================

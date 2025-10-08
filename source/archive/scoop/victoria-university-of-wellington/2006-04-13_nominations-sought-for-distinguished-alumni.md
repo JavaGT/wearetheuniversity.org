@@ -1,9 +1,12 @@
 ---
 slug: nominations-sought-for-distinguished-alumni
-title: "Nominations sought for distinguished alumni"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/ED0604/S00047/nominations-sought-for-distinguished-alumni.htm
+title: Nominations sought for distinguished alumni
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00047/nominations-sought-for-distinguished-alumni.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/13/nominations-sought-for-distinguished-alumni/index.html
+layout: layout.njk
 ---
 Nominations sought for distinguished alumni
 ===========================================

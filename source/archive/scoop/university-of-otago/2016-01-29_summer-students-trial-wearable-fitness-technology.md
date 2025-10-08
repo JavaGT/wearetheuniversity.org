@@ -1,9 +1,13 @@
 ---
 slug: summer-students-trial-wearable-fitness-technology
-title: "Summer students trial wearable fitness technology"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/SC1601/S00061/summer-students-trial-wearable-fitness-technology.htm
+title: Summer students trial wearable fitness technology
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00061/summer-students-trial-wearable-fitness-technology.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/01/29/summer-students-trial-wearable-fitness-technology/index.html
+layout: layout.njk
 ---
 Summer students trial wearable fitness technology
 =================================================

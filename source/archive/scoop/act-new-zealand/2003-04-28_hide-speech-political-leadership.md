@@ -1,9 +1,12 @@
 ---
 slug: hide-speech-political-leadership
-title: "Hide Speech: Political Leadership"
-date: 2003-04-28
-source-url: https://www.scoop.co.nz/stories/PA0304/S00495/hide-speech-political-leadership.htm
+title: 'Hide Speech: Political Leadership'
+date: 2003-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00495/hide-speech-political-leadership.htm
 author: act-new-zealand
+permalink: /archive/2003/04/28/hide-speech-political-leadership/index.html
+layout: layout.njk
 ---
 Hide Speech: Political Leadership
 =================================

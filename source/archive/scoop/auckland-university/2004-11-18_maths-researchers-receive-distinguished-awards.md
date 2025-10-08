@@ -1,9 +1,12 @@
 ---
 slug: maths-researchers-receive-distinguished-awards
-title: "Maths researchers receive distinguished awards"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/ED0411/S00063/maths-researchers-receive-distinguished-awards.htm
+title: Maths researchers receive distinguished awards
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00063/maths-researchers-receive-distinguished-awards.htm
 author: auckland-university
+permalink: /archive/2004/11/18/maths-researchers-receive-distinguished-awards/index.html
+layout: layout.njk
 ---
 Maths researchers receive distinguished awards
 ==============================================

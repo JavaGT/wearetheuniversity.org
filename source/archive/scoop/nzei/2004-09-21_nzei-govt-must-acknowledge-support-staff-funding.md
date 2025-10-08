@@ -1,9 +1,13 @@
 ---
 slug: nzei-govt-must-acknowledge-support-staff-funding
-title: "NZEI: Govt Must Acknowledge Support Staff Funding"
-date: 2004-09-21
-source-url: https://www.scoop.co.nz/stories/ED0409/S00092/nzei-govt-must-acknowledge-support-staff-funding.htm
+title: 'NZEI: Govt Must Acknowledge Support Staff Funding'
+date: 2004-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00092/nzei-govt-must-acknowledge-support-staff-funding.htm
 author: nzei
+permalink: >-
+  /archive/2004/09/21/nzei-govt-must-acknowledge-support-staff-funding/index.html
+layout: layout.njk
 ---
 NZEI: Govt Must Acknowledge Support Staff Funding
 =================================================

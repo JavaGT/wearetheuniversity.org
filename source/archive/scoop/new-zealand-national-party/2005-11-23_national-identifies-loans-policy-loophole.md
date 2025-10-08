@@ -1,9 +1,12 @@
 ---
 slug: national-identifies-loans-policy-loophole
-title: "National identifies loans policy loophole"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PA0511/S00344/national-identifies-loans-policy-loophole.htm
+title: National identifies loans policy loophole
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00344/national-identifies-loans-policy-loophole.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/23/national-identifies-loans-policy-loophole/index.html
+layout: layout.njk
 ---
 National identifies loans policy loophole
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: nzs-top-university-debaters-go-head-to-head
-title: "NZ’s Top University Debaters Go Head to Head"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/CU1003/S00166/nzs-top-university-debaters-go-head-to-head.htm
+title: NZ’s Top University Debaters Go Head to Head
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00166/nzs-top-university-debaters-go-head-to-head.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/03/10/nzs-top-university-debaters-go-head-to-head/index.html
+layout: layout.njk
 ---
 NZ’s Top University Debaters Go Head to Head
 ============================================

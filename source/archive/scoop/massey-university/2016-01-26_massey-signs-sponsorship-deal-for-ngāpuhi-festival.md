@@ -1,9 +1,12 @@
 ---
 slug: massey-signs-sponsorship-deal-for-ngāpuhi-festival
-title: "Massey signs sponsorship deal for Ngāpuhi Festival"
-date: 2016-01-26
-source-url: https://www.scoop.co.nz/stories/ED1601/S00034/massey-signs-sponsorship-deal-for-ngapuhi-festival.htm
+title: Massey signs sponsorship deal for Ngāpuhi Festival
+date: 2016-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00034/massey-signs-sponsorship-deal-for-ngapuhi-festival.htm
 author: massey-university
+permalink: /archive/2016/01/26/massey-signs-sponsorship-deal-for-ng/index.html
+layout: layout.njk
 ---
 Massey signs sponsorship deal for Ngāpuhi Festival
 ==================================================

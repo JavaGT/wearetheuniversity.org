@@ -1,9 +1,13 @@
 ---
 slug: university-a-proud-supporter-of-te-wiki-o-te-reo-māori
-title: "University a proud supporter of Te Wiki o Te Reo Māori"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00097/university-a-proud-supporter-of-te-wiki-o-te-reo-maori.htm
+title: University a proud supporter of Te Wiki o Te Reo Māori
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00097/university-a-proud-supporter-of-te-wiki-o-te-reo-maori.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/22/university-a-proud-supporter-of-te-wiki-o-te-reo-m/index.html
+layout: layout.njk
 ---
 University a proud supporter of Te Wiki o Te Reo Māori
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: energy-research-to-combat-climate-change
-title: "Energy research to combat climate change"
-date: 2008-03-10
-source-url: https://www.scoop.co.nz/stories/SC0803/S00022/energy-research-to-combat-climate-change.htm
+title: Energy research to combat climate change
+date: 2008-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0803/S00022/energy-research-to-combat-climate-change.htm
 author: massey-university
+permalink: /archive/2008/03/10/energy-research-to-combat-climate-change/index.html
+layout: layout.njk
 ---
 Energy research to combat climate change
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: no-tax-relief-as-acc-levies-rise
-title: "No Tax Relief As ACC Levies Rise"
-date: 2006-03-01
-source-url: https://www.scoop.co.nz/stories/PA0603/S00015/no-tax-relief-as-acc-levies-rise.htm
+title: No Tax Relief As ACC Levies Rise
+date: 2006-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00015/no-tax-relief-as-acc-levies-rise.htm
 author: act-new-zealand
+permalink: /archive/2006/03/01/no-tax-relief-as-acc-levies-rise/index.html
+layout: layout.njk
 ---
 No Tax Relief As ACC Levies Rise
 ================================

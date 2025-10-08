@@ -1,9 +1,13 @@
 ---
 slug: lincoln-leading-food-safety-and-security-discussion
-title: "Lincoln leading food safety and security discussion"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/SC1507/S00070/lincoln-leading-food-safety-and-security-discussion.htm
+title: Lincoln leading food safety and security discussion
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00070/lincoln-leading-food-safety-and-security-discussion.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/07/24/lincoln-leading-food-safety-and-security-discussion/index.html
+layout: layout.njk
 ---
 Lincoln leading food safety and security discussion
 ===================================================

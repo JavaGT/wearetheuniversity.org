@@ -1,9 +1,12 @@
 ---
 slug: possible-vitamin-d-link-to-kākāpō-breeding
-title: "Possible vitamin D link to kākāpō breeding"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/SC1510/S00091/possible-vitamin-d-link-to-kakapo-breeding.htm
+title: Possible vitamin D link to kākāpō breeding
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00091/possible-vitamin-d-link-to-kakapo-breeding.htm
 author: massey-university
+permalink: /archive/2015/10/30/possible-vitamin-d-link-to-k/index.html
+layout: layout.njk
 ---
 Possible vitamin D link to kākāpō breeding
 ==========================================

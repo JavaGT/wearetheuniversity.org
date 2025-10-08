@@ -1,9 +1,13 @@
 ---
 slug: emerging-climate-policies-to-affect-the-producers-of-oil-gas-and-coal
-title: "Emerging Climate Policies To Affect The Producers Of Oil, Gas, And Coal"
-date: 2020-03-16
-source-url: https://www.scoop.co.nz/stories/BU2003/S00248/emerging-climate-policies-to-affect-the-producers-of-oil-gas-and-coal.htm
+title: Emerging Climate Policies To Affect The Producers Of Oil, Gas, And Coal
+date: 2020-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2003/S00248/emerging-climate-policies-to-affect-the-producers-of-oil-gas-and-coal.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/03/16/emerging-climate-policies-to-affect-the-producers-of-oil-gas-and-coal/index.html
+layout: layout.njk
 ---
 Emerging Climate Policies To Affect The Producers Of Oil, Gas, And Coal
 =======================================================================

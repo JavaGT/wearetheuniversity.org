@@ -1,9 +1,13 @@
 ---
 slug: parkers-interest-deductibility-policy-a-shambles
-title: "Parker’s Interest Deductibility Policy A Shambles"
-date: 2021-04-06
-source-url: https://www.scoop.co.nz/stories/PA2104/S00022/parkers-interest-deductibility-policy-a-shambles.htm
+title: Parker’s Interest Deductibility Policy A Shambles
+date: 2021-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00022/parkers-interest-deductibility-policy-a-shambles.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/06/parkers-interest-deductibility-policy-a-shambles/index.html
+layout: layout.njk
 ---
 Parker’s Interest Deductibility Policy A Shambles
 =================================================

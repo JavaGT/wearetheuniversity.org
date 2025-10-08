@@ -1,10 +1,13 @@
 ---
 title: A Legal Guide to Reclamation
 slug: a-legal-guide-to-reclamation
-date: 2012-03-18
-source: https://web.archive.org/web/20130208031327/http://wearetheuniversity.org.nz/2012/03/18/a-legal-guide-to-reclamation/
+date: 2012-03-18T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031327/http://wearetheuniversity.org.nz/2012/03/18/a-legal-guide-to-reclamation/
 author: Johnny Truant
 author-slug: johnny-truant
+permalink: /archive/2012/03/18/a-legal-guide-to-reclamation/index.html
+layout: layout.njk
 ---
 
 DISCLAIMER: The law is incredibly complex and, at time fathomable. This article is intended to be taken as a rough guide if you are contemplating doing anything that may break the law, or even come close, please consult a practicing criminal lawyer.

@@ -1,9 +1,12 @@
 ---
 slug: top-academic-takes-up-e-commerce-role
-title: "Top Academic takes up e-commerce role"
-date: 2003-03-12
-source-url: https://www.scoop.co.nz/stories/BU0303/S00093/top-academic-takes-up-e-commerce-role.htm
+title: Top Academic takes up e-commerce role
+date: 2003-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0303/S00093/top-academic-takes-up-e-commerce-role.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/12/top-academic-takes-up-e-commerce-role/index.html
+layout: layout.njk
 ---
 Top Academic takes up e-commerce role
 =====================================

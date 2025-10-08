@@ -1,9 +1,11 @@
 ---
 slug: nationals-time-has-come
-title: "Nationals Time Has Come"
-date: 1999-09-27
+title: Nationals Time Has Come
+date: 1999-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9909/S00046/nationals-time-has-come.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/27/nationals-time-has-come/index.html
+layout: layout.njk
 ---
 Nationals Time Has Come
 =======================

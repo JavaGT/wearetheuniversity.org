@@ -1,9 +1,12 @@
 ---
 slug: minister-needs-to-come-clean-on-plans
-title: "Minister needs to come clean on plans"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/ED1203/S00163/minister-needs-to-come-clean-on-plans.htm
+title: Minister needs to come clean on plans
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00163/minister-needs-to-come-clean-on-plans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/03/30/minister-needs-to-come-clean-on-plans/index.html
+layout: layout.njk
 ---
 Minister needs to come clean on plans
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: workplace-talk-defines-relationships
-title: "Workplace ‘talk’ defines relationships"
-date: 2003-06-09
-source-url: https://www.scoop.co.nz/stories/ED0306/S00007/workplace-talk-defines-relationships.htm
+title: Workplace ‘talk’ defines relationships
+date: 2003-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00007/workplace-talk-defines-relationships.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/09/workplace-talk-defines-relationships/index.html
+layout: layout.njk
 ---
 Workplace ‘talk’ defines relationships
 ======================================

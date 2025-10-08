@@ -1,9 +1,12 @@
 ---
 slug: ports-of-auckland-hon-dr-pita-sharples
-title: "Ports of Auckland: Hon Dr Pita Sharples"
-date: 2012-01-12
-source-url: https://www.scoop.co.nz/stories/PA1201/S00029/ports-of-auckland-hon-dr-pita-sharples.htm
+title: 'Ports of Auckland: Hon Dr Pita Sharples'
+date: 2012-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00029/ports-of-auckland-hon-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2012/01/12/ports-of-auckland-hon-dr-pita-sharples/index.html
+layout: layout.njk
 ---
 Ports of Auckland: Hon Dr Pita Sharples
 =======================================

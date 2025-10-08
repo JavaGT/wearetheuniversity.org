@@ -1,9 +1,12 @@
 ---
 slug: nz-loses-its-first-soil-science-professor
-title: "NZ loses its first soil science professor"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/ED1011/S00065/nz-loses-its-first-soil-science-professor.htm
+title: NZ loses its first soil science professor
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00065/nz-loses-its-first-soil-science-professor.htm
 author: lincoln-university
+permalink: /archive/2010/11/17/nz-loses-its-first-soil-science-professor/index.html
+layout: layout.njk
 ---
 NZ loses its first soil science professor
 =========================================

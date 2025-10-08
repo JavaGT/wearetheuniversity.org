@@ -1,9 +1,12 @@
 ---
 slug: labour-committed-to-adult-education
-title: "Labour committed to adult education"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/PA1209/S00031/labour-committed-to-adult-education.htm
+title: Labour committed to adult education
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00031/labour-committed-to-adult-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/04/labour-committed-to-adult-education/index.html
+layout: layout.njk
 ---
 Labour committed to adult education
 ===================================

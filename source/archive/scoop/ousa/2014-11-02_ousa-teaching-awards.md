@@ -1,9 +1,11 @@
 ---
 slug: ousa-teaching-awards
-title: "OUSA Teaching Awards"
-date: 2014-11-02
+title: OUSA Teaching Awards
+date: 2014-11-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1411/S00002/ousa-teaching-awards.htm
 author: ousa
+permalink: /archive/2014/11/02/ousa-teaching-awards/index.html
+layout: layout.njk
 ---
 OUSA Teaching Awards
 ====================

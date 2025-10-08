@@ -1,9 +1,12 @@
 ---
 slug: innovation-seen-as-the-future-of-farming
-title: "Innovation seen as the future of farming"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/ED1006/S00088/innovation-seen-as-the-future-of-farming.htm
+title: Innovation seen as the future of farming
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00088/innovation-seen-as-the-future-of-farming.htm
 author: lincoln-university
+permalink: /archive/2010/06/24/innovation-seen-as-the-future-of-farming/index.html
+layout: layout.njk
 ---
 Innovation seen as the future of farming
 ========================================

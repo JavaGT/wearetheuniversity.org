@@ -1,9 +1,11 @@
 ---
 slug: pansy-speak-26-april-2006
-title: "Pansy Speak 26 April 2006"
-date: 2006-04-26
+title: Pansy Speak 26 April 2006
+date: 2006-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00374/pansy-speak-26-april-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/26/pansy-speak-26-april-2006/index.html
+layout: layout.njk
 ---
 Pansy Speak 26 April 2006
 =========================

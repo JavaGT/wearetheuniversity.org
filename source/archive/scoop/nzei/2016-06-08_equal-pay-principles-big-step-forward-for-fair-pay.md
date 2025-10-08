@@ -1,9 +1,13 @@
 ---
 slug: equal-pay-principles-big-step-forward-for-fair-pay
-title: "Equal pay principles big step forward for fair pay"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/PO1606/S00075/equal-pay-principles-big-step-forward-for-fair-pay.htm
+title: Equal pay principles big step forward for fair pay
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00075/equal-pay-principles-big-step-forward-for-fair-pay.htm
 author: nzei
+permalink: >-
+  /archive/2016/06/08/equal-pay-principles-big-step-forward-for-fair-pay/index.html
+layout: layout.njk
 ---
 Equal pay principles big step forward for fair pay
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-student-programme-rolled-out
-title: "Maori student programme rolled out"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00118/maori-student-programme-rolled-out.htm
+title: Maori student programme rolled out
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00118/maori-student-programme-rolled-out.htm
 author: university-of-waikato
+permalink: /archive/2009/05/29/maori-student-programme-rolled-out/index.html
+layout: layout.njk
 ---
 Maori student programme rolled out
 ==================================

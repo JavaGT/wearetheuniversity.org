@@ -1,9 +1,13 @@
 ---
 slug: changes-to-erb-must-be-open-to-public-submissions
-title: "Changes to ERB must be open to public submissions"
-date: 2000-06-12
-source-url: https://www.scoop.co.nz/stories/PA0006/S00217/changes-to-erb-must-be-open-to-public-submissions.htm
+title: Changes to ERB must be open to public submissions
+date: 2000-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00217/changes-to-erb-must-be-open-to-public-submissions.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/06/12/changes-to-erb-must-be-open-to-public-submissions/index.html
+layout: layout.njk
 ---
 Changes to ERB must be open to public submissions
 =================================================

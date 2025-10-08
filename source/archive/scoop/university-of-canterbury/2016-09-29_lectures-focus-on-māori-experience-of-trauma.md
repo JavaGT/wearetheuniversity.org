@@ -1,9 +1,12 @@
 ---
 slug: lectures-focus-on-māori-experience-of-trauma
-title: "Lectures focus on Māori experience of trauma"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/CU1609/S00449/lectures-focus-on-maori-experience-of-trauma.htm
+title: Lectures focus on Māori experience of trauma
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00449/lectures-focus-on-maori-experience-of-trauma.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/29/lectures-focus-on-m/index.html
+layout: layout.njk
 ---
 Lectures focus on Māori experience of trauma
 ============================================

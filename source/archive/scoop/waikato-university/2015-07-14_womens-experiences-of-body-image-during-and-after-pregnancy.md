@@ -1,9 +1,13 @@
 ---
 slug: womens-experiences-of-body-image-during-and-after-pregnancy
-title: "Women’s experiences of body image during and after pregnancy"
-date: 2015-07-14
-source-url: https://www.scoop.co.nz/stories/ED1507/S00066/womens-experiences-of-body-image-during-and-after-pregnancy.htm
+title: Women’s experiences of body image during and after pregnancy
+date: 2015-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00066/womens-experiences-of-body-image-during-and-after-pregnancy.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/14/womens-experiences-of-body-image-during-and-after-pregnancy/index.html
+layout: layout.njk
 ---
 Women’s experiences of body image during and after pregnancy
 ============================================================

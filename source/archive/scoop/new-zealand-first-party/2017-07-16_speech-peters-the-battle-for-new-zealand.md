@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-the-battle-for-new-zealand
-title: "Speech: Peters - The Battle for New Zealand"
-date: 2017-07-16
-source-url: https://www.scoop.co.nz/stories/PA1707/S00239/speech-peters-the-battle-for-new-zealand.htm
+title: 'Speech: Peters - The Battle for New Zealand'
+date: 2017-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00239/speech-peters-the-battle-for-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/16/speech-peters-the-battle-for-new-zealand/index.html
+layout: layout.njk
 ---
 Speech: Peters - The Battle for New Zealand
 ===========================================

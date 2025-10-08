@@ -1,9 +1,13 @@
 ---
 slug: official-gambling-figures-dont-tell-the-full-story
-title: "Official gambling figures don’t tell the full story"
-date: 2015-02-05
-source-url: https://www.scoop.co.nz/stories/PO1502/S00073/official-gambling-figures-dont-tell-the-full-story.htm
+title: Official gambling figures don’t tell the full story
+date: 2015-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00073/official-gambling-figures-dont-tell-the-full-story.htm
 author: aut-university
+permalink: >-
+  /archive/2015/02/05/official-gambling-figures-dont-tell-the-full-story/index.html
+layout: layout.njk
 ---
 Official gambling figures don’t tell the full story
 ===================================================

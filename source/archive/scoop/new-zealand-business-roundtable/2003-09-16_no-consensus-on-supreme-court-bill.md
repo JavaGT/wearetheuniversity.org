@@ -1,9 +1,12 @@
 ---
 slug: no-consensus-on-supreme-court-bill
-title: "No Consensus on Supreme Court Bill"
-date: 2003-09-16
-source-url: https://www.scoop.co.nz/stories/PO0309/S00102/no-consensus-on-supreme-court-bill.htm
+title: No Consensus on Supreme Court Bill
+date: 2003-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00102/no-consensus-on-supreme-court-bill.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/09/16/no-consensus-on-supreme-court-bill/index.html
+layout: layout.njk
 ---
 No Consensus on Supreme Court Bill
 ==================================

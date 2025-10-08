@@ -1,9 +1,11 @@
 ---
 slug: when-do-i-become-a-kiwi
-title: "When do I become a Kiwi?"
-date: 2008-05-08
+title: When do I become a Kiwi?
+date: 2008-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0805/S00082/when-do-i-become-a-kiwi.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/08/when-do-i-become-a-kiwi/index.html
+layout: layout.njk
 ---
 When do I become a Kiwi?
 ========================

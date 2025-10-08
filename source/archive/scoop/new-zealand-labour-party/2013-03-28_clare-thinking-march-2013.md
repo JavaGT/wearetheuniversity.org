@@ -1,9 +1,11 @@
 ---
 slug: clare-thinking-march-2013
-title: "Clare Thinking: March 2013"
-date: 2013-03-28
+title: 'Clare Thinking: March 2013'
+date: 2013-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1303/S00515/clare-thinking-march-2013.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/28/clare-thinking-march-2013/index.html
+layout: layout.njk
 ---
 Clare Thinking: March 2013
 ==========================

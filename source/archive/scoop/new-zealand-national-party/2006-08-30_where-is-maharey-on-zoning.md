@@ -1,9 +1,11 @@
 ---
 slug: where-is-maharey-on-zoning
-title: "Where is Maharey on zoning?"
-date: 2006-08-30
+title: Where is Maharey on zoning?
+date: 2006-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00525/where-is-maharey-on-zoning.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/30/where-is-maharey-on-zoning/index.html
+layout: layout.njk
 ---
 Where is Maharey on zoning?
 ===========================

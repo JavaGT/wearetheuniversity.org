@@ -1,9 +1,12 @@
 ---
 slug: confusion-compounds-over-conservation-pledge
-title: "Confusion compounds over conservation pledge"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/PA0711/S00149/confusion-compounds-over-conservation-pledge.htm
+title: Confusion compounds over conservation pledge
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00149/confusion-compounds-over-conservation-pledge.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/08/confusion-compounds-over-conservation-pledge/index.html
+layout: layout.njk
 ---
 Confusion compounds over conservation pledge
 ============================================

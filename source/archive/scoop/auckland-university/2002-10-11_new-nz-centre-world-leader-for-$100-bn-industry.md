@@ -1,9 +1,12 @@
 ---
 slug: new-nz-centre-world-leader-for-$100-bn-industry
-title: "New NZ Centre World Leader for $100 bn industry"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/SC0210/S00032/new-nz-centre-world-leader-for-100-bn-industry.htm
+title: New NZ Centre World Leader for $100 bn industry
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0210/S00032/new-nz-centre-world-leader-for-100-bn-industry.htm
 author: auckland-university
+permalink: /archive/2002/10/11/new-nz-centre-world-leader-for-/index.html
+layout: layout.njk
 ---
 New NZ Centre World Leader for $100 bn industry
 ===============================================

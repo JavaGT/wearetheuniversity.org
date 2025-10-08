@@ -1,9 +1,12 @@
 ---
 slug: ten-things-cabinet-needs-to-do-for-omicron
-title: "Ten Things Cabinet Needs To Do For Omicron"
-date: 2022-01-17
-source-url: https://www.scoop.co.nz/stories/PA2201/S00046/ten-things-cabinet-needs-to-do-for-omicron.htm
+title: Ten Things Cabinet Needs To Do For Omicron
+date: 2022-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00046/ten-things-cabinet-needs-to-do-for-omicron.htm
 author: act-new-zealand
+permalink: /archive/2022/01/17/ten-things-cabinet-needs-to-do-for-omicron/index.html
+layout: layout.njk
 ---
 Ten Things Cabinet Needs To Do For Omicron
 ==========================================

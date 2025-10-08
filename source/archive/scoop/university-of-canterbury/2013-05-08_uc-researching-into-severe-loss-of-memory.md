@@ -1,9 +1,12 @@
 ---
 slug: uc-researching-into-severe-loss-of-memory
-title: "UC Researching Into Severe Loss of Memory"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/SC1305/S00040/uc-researching-into-severe-loss-of-memory.htm
+title: UC Researching Into Severe Loss of Memory
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00040/uc-researching-into-severe-loss-of-memory.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/08/uc-researching-into-severe-loss-of-memory/index.html
+layout: layout.njk
 ---
 UC Researching Into Severe Loss of Memory
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: selection-process-for-the-labour-candidate-in-ikaroa-rawhiti
-title: "Selection Process for the Labour Candidate in Ikaroa-Rawhiti"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/PO1305/S00374/selection-process-for-the-labour-candidate-in-ikaroa-rawhiti.htm
+title: Selection Process for the Labour Candidate in Ikaroa-Rawhiti
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00374/selection-process-for-the-labour-candidate-in-ikaroa-rawhiti.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/24/selection-process-for-the-labour-candidate-in-ikaroa-rawhiti/index.html
+layout: layout.njk
 ---
 Selection Process for the Labour Candidate in Ikaroa-Rawhiti
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: usp-launches-trade-and-investment-report-2011
-title: "USP launches Trade and Investment Report 2011"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00098/usp-launches-trade-and-investment-report-2011.htm
+title: USP launches Trade and Investment Report 2011
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00098/usp-launches-trade-and-investment-report-2011.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/10/21/usp-launches-trade-and-investment-report-2011/index.html
+layout: layout.njk
 ---
 USP launches Trade and Investment Report 2011
 =============================================

@@ -1,9 +1,16 @@
 ---
-slug: auckland-central-mp-welcomes-new-covid-19-walk-in-testing-centre-in-aucklands-city-centre
-title: "Auckland Central MP Welcomes New COVID-19 Walk-in Testing Centre In Auckland’s City Centre"
-date: 2021-08-24
-source-url: https://www.scoop.co.nz/stories/PO2108/S00145/auckland-central-mp-welcomes-new-covid-19-walk-in-testing-centre-in-aucklands-city-centre.htm
+slug: >-
+  auckland-central-mp-welcomes-new-covid-19-walk-in-testing-centre-in-aucklands-city-centre
+title: >-
+  Auckland Central MP Welcomes New COVID-19 Walk-in Testing Centre In Auckland’s
+  City Centre
+date: 2021-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2108/S00145/auckland-central-mp-welcomes-new-covid-19-walk-in-testing-centre-in-aucklands-city-centre.htm
 author: green-party
+permalink: >-
+  /archive/2021/08/24/auckland-central-mp-welcomes-new-covid-19-walk-in-testing-centre-in-aucklands-city-centre/index.html
+layout: layout.njk
 ---
 Auckland Central MP Welcomes New COVID-19 Walk-in Testing Centre In Auckland’s City Centre
 ==========================================================================================

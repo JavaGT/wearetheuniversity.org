@@ -1,9 +1,12 @@
 ---
 slug: parole-board-one-denied-thousands-granted
-title: "Parole Board  -  One Denied, Thousands Granted"
-date: 1999-09-22
-source-url: https://www.scoop.co.nz/stories/PA9909/S00461/parole-board-one-denied-thousands-granted.htm
+title: Parole Board  -  One Denied, Thousands Granted
+date: 1999-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00461/parole-board-one-denied-thousands-granted.htm
 author: act-new-zealand
+permalink: /archive/1999/09/22/parole-board-one-denied-thousands-granted/index.html
+layout: layout.njk
 ---
 Parole Board - One Denied, Thousands Granted
 ============================================

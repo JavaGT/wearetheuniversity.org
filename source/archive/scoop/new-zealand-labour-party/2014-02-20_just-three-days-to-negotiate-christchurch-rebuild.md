@@ -1,9 +1,13 @@
 ---
 slug: just-three-days-to-negotiate-christchurch-rebuild
-title: "Just three days to negotiate Christchurch rebuild"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00261/just-three-days-to-negotiate-christchurch-rebuild.htm
+title: Just three days to negotiate Christchurch rebuild
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00261/just-three-days-to-negotiate-christchurch-rebuild.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/20/just-three-days-to-negotiate-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 Just three days to negotiate Christchurch rebuild
 =================================================

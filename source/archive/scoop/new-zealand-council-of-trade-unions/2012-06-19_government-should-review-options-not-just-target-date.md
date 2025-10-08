@@ -1,9 +1,13 @@
 ---
 slug: government-should-review-options-not-just-target-date
-title: "Government should review options not just target date"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/BU1206/S00596/government-should-review-options-not-just-target-date.htm
+title: Government should review options not just target date
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1206/S00596/government-should-review-options-not-just-target-date.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/06/19/government-should-review-options-not-just-target-date/index.html
+layout: layout.njk
 ---
 Government should review options not just target date
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: interconnecting-distant-nz-windfarms-could-be-boon-for-grid
-title: "Interconnecting distant NZ windfarms could be boon for grid"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/SC1505/S00085/interconnecting-distant-nz-windfarms-could-be-boon-for-grid.htm
+title: Interconnecting distant NZ windfarms could be boon for grid
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00085/interconnecting-distant-nz-windfarms-could-be-boon-for-grid.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/27/interconnecting-distant-nz-windfarms-could-be-boon-for-grid/index.html
+layout: layout.njk
 ---
 Interconnecting distant NZ windfarms could be boon for grid
 ===========================================================

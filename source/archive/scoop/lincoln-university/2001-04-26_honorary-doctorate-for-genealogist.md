@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-genealogist
-title: "Honorary Doctorate For Genealogist"
-date: 2001-04-26
-source-url: https://www.scoop.co.nz/stories/ED0104/S00023/honorary-doctorate-for-genealogist.htm
+title: Honorary Doctorate For Genealogist
+date: 2001-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00023/honorary-doctorate-for-genealogist.htm
 author: lincoln-university
+permalink: /archive/2001/04/26/honorary-doctorate-for-genealogist/index.html
+layout: layout.njk
 ---
 Honorary Doctorate For Genealogist
 ==================================

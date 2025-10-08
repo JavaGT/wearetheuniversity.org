@@ -1,9 +1,12 @@
 ---
 slug: otago-universitys-smoke-free-policy-launched
-title: "Otago University’s smoke-free policy launched"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/ED1305/S00205/otago-universitys-smoke-free-policy-launched.htm
+title: Otago University’s smoke-free policy launched
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00205/otago-universitys-smoke-free-policy-launched.htm
 author: university-of-otago
+permalink: /archive/2013/05/31/otago-universitys-smoke-free-policy-launched/index.html
+layout: layout.njk
 ---
 Otago University’s smoke-free policy launched
 =============================================

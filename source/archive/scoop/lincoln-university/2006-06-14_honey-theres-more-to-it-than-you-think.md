@@ -1,9 +1,12 @@
 ---
 slug: honey-theres-more-to-it-than-you-think
-title: "Honey – there’s more to it than you think"
-date: 2006-06-14
-source-url: https://www.scoop.co.nz/stories/SC0606/S00037/honey-theres-more-to-it-than-you-think.htm
+title: Honey – there’s more to it than you think
+date: 2006-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00037/honey-theres-more-to-it-than-you-think.htm
 author: lincoln-university
+permalink: /archive/2006/06/14/honey-theres-more-to-it-than-you-think/index.html
+layout: layout.njk
 ---
 Honey – there’s more to it than you think
 =========================================

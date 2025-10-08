@@ -1,9 +1,12 @@
 ---
 slug: innovation-in-co-operative-enterprises
-title: "Innovation in co-operative enterprises"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/BU1511/S00601/innovation-in-co-operative-enterprises.htm
+title: Innovation in co-operative enterprises
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00601/innovation-in-co-operative-enterprises.htm
 author: university-of-auckland-business-school
+permalink: /archive/2015/11/18/innovation-in-co-operative-enterprises/index.html
+layout: layout.njk
 ---
 Innovation in co-operative enterprises
 ======================================

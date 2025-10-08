@@ -1,9 +1,13 @@
 ---
 slug: media-coverage-of-2002-general-election-analysed
-title: "Media coverage of 2002 general election analysed"
-date: 2002-10-25
-source-url: https://www.scoop.co.nz/stories/PO0210/S00172/media-coverage-of-2002-general-election-analysed.htm
+title: Media coverage of 2002 general election analysed
+date: 2002-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0210/S00172/media-coverage-of-2002-general-election-analysed.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/10/25/media-coverage-of-2002-general-election-analysed/index.html
+layout: layout.njk
 ---
 Media coverage of 2002 general election analysed
 ================================================

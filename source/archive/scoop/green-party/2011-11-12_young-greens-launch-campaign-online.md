@@ -1,9 +1,12 @@
 ---
 slug: young-greens-launch-campaign-online
-title: "Young Greens’ launch campaign online"
-date: 2011-11-12
-source-url: https://www.scoop.co.nz/stories/PA1111/S00242/young-greens-launch-campaign-online.htm
+title: Young Greens’ launch campaign online
+date: 2011-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00242/young-greens-launch-campaign-online.htm
 author: green-party
+permalink: /archive/2011/11/12/young-greens-launch-campaign-online/index.html
+layout: layout.njk
 ---
 Young Greens’ launch campaign online
 ====================================

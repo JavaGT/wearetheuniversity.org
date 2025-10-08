@@ -1,9 +1,12 @@
 ---
 slug: many-regions-need-by-election-levels-of-support
-title: "Many regions need by-election levels of support"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/PA1504/S00019/many-regions-need-by-election-levels-of-support.htm
+title: Many regions need by-election levels of support
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00019/many-regions-need-by-election-levels-of-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/01/many-regions-need-by-election-levels-of-support/index.html
+layout: layout.njk
 ---
 Many regions need by-election levels of support
 ===============================================

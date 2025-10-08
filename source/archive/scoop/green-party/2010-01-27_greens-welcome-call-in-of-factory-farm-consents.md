@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-call-in-of-factory-farm-consents
-title: "Greens welcome call-in of factory farm consents"
-date: 2010-01-27
-source-url: https://www.scoop.co.nz/stories/PA1001/S00124/greens-welcome-call-in-of-factory-farm-consents.htm
+title: Greens welcome call-in of factory farm consents
+date: 2010-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00124/greens-welcome-call-in-of-factory-farm-consents.htm
 author: green-party
+permalink: /archive/2010/01/27/greens-welcome-call-in-of-factory-farm-consents/index.html
+layout: layout.njk
 ---
 Greens welcome call-in of factory farm consents
 ===============================================

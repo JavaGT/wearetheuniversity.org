@@ -1,9 +1,12 @@
 ---
 slug: students-challenge-dick-hubbard-to-come-clean
-title: "Students challenge Dick Hubbard to come clean"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/AK0409/S00005/students-challenge-dick-hubbard-to-come-clean.htm
+title: Students challenge Dick Hubbard to come clean
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0409/S00005/students-challenge-dick-hubbard-to-come-clean.htm
 author: massey-university-students-association
+permalink: /archive/2004/09/01/students-challenge-dick-hubbard-to-come-clean/index.html
+layout: layout.njk
 ---
 Students challenge Dick Hubbard to come clean
 =============================================

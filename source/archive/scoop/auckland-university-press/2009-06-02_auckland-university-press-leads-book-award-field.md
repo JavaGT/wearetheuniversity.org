@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-press-leads-book-award-field
-title: "Auckland University Press Leads Book Award Field"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/BU0906/S00020/auckland-university-press-leads-book-award-field.htm
+title: Auckland University Press Leads Book Award Field
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00020/auckland-university-press-leads-book-award-field.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2009/06/02/auckland-university-press-leads-book-award-field/index.html
+layout: layout.njk
 ---
 Auckland University Press Leads Book Award Field
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-only-party-with-plan-to-meet-scale-of-climate-challenge
-title: "Greens Only Party With Plan To Meet Scale Of Climate Challenge"
-date: 2020-10-15
-source-url: https://www.scoop.co.nz/stories/PA2010/S00101/greens-only-party-with-plan-to-meet-scale-of-climate-challenge.htm
+title: Greens Only Party With Plan To Meet Scale Of Climate Challenge
+date: 2020-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00101/greens-only-party-with-plan-to-meet-scale-of-climate-challenge.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/15/greens-only-party-with-plan-to-meet-scale-of-climate-challenge/index.html
+layout: layout.njk
 ---
 Greens Only Party With Plan To Meet Scale Of Climate Challenge
 ==============================================================

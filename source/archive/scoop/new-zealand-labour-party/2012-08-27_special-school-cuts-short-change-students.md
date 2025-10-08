@@ -1,9 +1,12 @@
 ---
 slug: special-school-cuts-short-change-students
-title: "Special School cuts short-change students"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PA1208/S00396/special-school-cuts-short-change-students.htm
+title: Special School cuts short-change students
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00396/special-school-cuts-short-change-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/27/special-school-cuts-short-change-students/index.html
+layout: layout.njk
 ---
 Special School cuts short-change students
 =========================================

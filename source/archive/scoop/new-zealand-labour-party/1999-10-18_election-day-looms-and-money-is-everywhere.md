@@ -1,9 +1,12 @@
 ---
 slug: election-day-looms-and-money-is-everywhere
-title: "Election day looms and money is everywhere"
-date: 1999-10-18
-source-url: https://www.scoop.co.nz/stories/PA9910/S00378/election-day-looms-and-money-is-everywhere.htm
+title: Election day looms and money is everywhere
+date: 1999-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00378/election-day-looms-and-money-is-everywhere.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/18/election-day-looms-and-money-is-everywhere/index.html
+layout: layout.njk
 ---
 Election day looms and money is everywhere
 ==========================================

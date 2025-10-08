@@ -1,9 +1,12 @@
 ---
 slug: uc-mathematicians-get-crafty-around-new-zealand
-title: "UC mathematicians get crafty around New Zealand"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/ED1703/S00006/uc-mathematicians-get-crafty-around-new-zealand.htm
+title: UC mathematicians get crafty around New Zealand
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00006/uc-mathematicians-get-crafty-around-new-zealand.htm
 author: university-of-canterbury
+permalink: /archive/2017/03/01/uc-mathematicians-get-crafty-around-new-zealand/index.html
+layout: layout.njk
 ---
 UC mathematicians get crafty around New Zealand
 ===============================================

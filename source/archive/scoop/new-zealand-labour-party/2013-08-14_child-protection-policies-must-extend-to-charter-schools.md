@@ -1,9 +1,13 @@
 ---
 slug: child-protection-policies-must-extend-to-charter-schools
-title: "Child protection policies must extend to charter schools"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/PA1308/S00227/child-protection-policies-must-extend-to-charter-schools.htm
+title: Child protection policies must extend to charter schools
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00227/child-protection-policies-must-extend-to-charter-schools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/14/child-protection-policies-must-extend-to-charter-schools/index.html
+layout: layout.njk
 ---
 Child protection policies must extend to charter schools
 ========================================================

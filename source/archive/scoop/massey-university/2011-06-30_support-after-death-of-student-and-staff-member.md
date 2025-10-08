@@ -1,9 +1,12 @@
 ---
 slug: support-after-death-of-student-and-staff-member
-title: "Support after death of student and staff member"
-date: 2011-06-30
-source-url: https://www.scoop.co.nz/stories/AK1106/S00779/support-after-death-of-student-and-staff-member.htm
+title: Support after death of student and staff member
+date: 2011-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1106/S00779/support-after-death-of-student-and-staff-member.htm
 author: massey-university
+permalink: /archive/2011/06/30/support-after-death-of-student-and-staff-member/index.html
+layout: layout.njk
 ---
 Support after death of student and staff member
 ===============================================

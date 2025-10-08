@@ -1,9 +1,12 @@
 ---
 slug: the-vital-role-of-vit-c-and-health
-title: "The Vital Role Of Vit C And Health"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/GE0703/S00045/the-vital-role-of-vit-c-and-health.htm
+title: The Vital Role Of Vit C And Health
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00045/the-vital-role-of-vit-c-and-health.htm
 author: university-of-otago
+permalink: /archive/2007/03/15/the-vital-role-of-vit-c-and-health/index.html
+layout: layout.njk
 ---
 The Vital Role Of Vit C And Health
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: university-based-software-co-wins-internatl-award
-title: "University-based software co wins internat'l award"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/ED0705/S00005/university-based-software-co-wins-internatl-award.htm
+title: University-based software co wins internat'l award
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00005/university-based-software-co-wins-internatl-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/05/02/university-based-software-co-wins-internatl-award/index.html
+layout: layout.njk
 ---
 University-based software co wins internat'l award
 ==================================================

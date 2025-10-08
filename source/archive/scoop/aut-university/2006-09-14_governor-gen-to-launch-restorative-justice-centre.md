@@ -1,9 +1,13 @@
 ---
 slug: governor-gen-to-launch-restorative-justice-centre
-title: "Governor-Gen to launch Restorative Justice Centre"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00054/governor-gen-to-launch-restorative-justice-centre.htm
+title: Governor-Gen to launch Restorative Justice Centre
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00054/governor-gen-to-launch-restorative-justice-centre.htm
 author: aut-university
+permalink: >-
+  /archive/2006/09/14/governor-gen-to-launch-restorative-justice-centre/index.html
+layout: layout.njk
 ---
 Governor-Gen to launch Restorative Justice Centre
 =================================================

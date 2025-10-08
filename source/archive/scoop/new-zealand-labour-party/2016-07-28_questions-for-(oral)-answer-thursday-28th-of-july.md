@@ -1,9 +1,12 @@
 ---
 slug: questions-for-(oral)-answer-thursday-28th-of-july
-title: "Questions for (Oral) Answer - Thursday 28th of July"
-date: 2016-07-28
-source-url: https://www.scoop.co.nz/stories/PA1607/S00402/questions-for-oral-answer-thursday-28th-of-july.htm
+title: Questions for (Oral) Answer - Thursday 28th of July
+date: 2016-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00402/questions-for-oral-answer-thursday-28th-of-july.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/28/questions-for-/index.html
+layout: layout.njk
 ---
 Questions for (Oral) Answer - Thursday 28th of July
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: free-fares-nz-urges-national-to-keep-public-transport-discounts
-title: "Free Fares NZ Urges National To Keep Public Transport Discounts"
-date: 2023-08-30
-source-url: https://www.scoop.co.nz/stories/BU2308/S00434/free-fares-nz-urges-national-to-keep-public-transport-discounts.htm
+title: Free Fares NZ Urges National To Keep Public Transport Discounts
+date: 2023-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2308/S00434/free-fares-nz-urges-national-to-keep-public-transport-discounts.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/08/30/free-fares-nz-urges-national-to-keep-public-transport-discounts/index.html
+layout: layout.njk
 ---
 Free Fares NZ Urges National To Keep Public Transport Discounts
 ===============================================================

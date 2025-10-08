@@ -1,9 +1,13 @@
 ---
 slug: qs-rankings-uc-amongst-the-worlds-top-universities
-title: "QS rankings: UC amongst the world's top universities"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/ED1603/S00076/qs-rankings-uc-amongst-the-worlds-top-universities.htm
+title: 'QS rankings: UC amongst the world''s top universities'
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00076/qs-rankings-uc-amongst-the-worlds-top-universities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/22/qs-rankings-uc-amongst-the-worlds-top-universities/index.html
+layout: layout.njk
 ---
 QS rankings: UC amongst the world's top universities
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-slow-to-reduce-speeds-to-the-detriment-of-road-safety
-title: "NZ slow to reduce speeds to the detriment of road safety"
-date: 2014-03-23
-source-url: https://www.scoop.co.nz/stories/PO1403/S00294/nz-slow-to-reduce-speeds-to-the-detriment-of-road-safety.htm
+title: NZ slow to reduce speeds to the detriment of road safety
+date: 2014-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00294/nz-slow-to-reduce-speeds-to-the-detriment-of-road-safety.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/23/nz-slow-to-reduce-speeds-to-the-detriment-of-road-safety/index.html
+layout: layout.njk
 ---
 NZ slow to reduce speeds to the detriment of road safety
 ========================================================

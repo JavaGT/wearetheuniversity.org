@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-april-13-2006
-title: "Heather Roy's Diary – April 13 2006"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/PA0604/S00273/heather-roys-diary-april-13-2006.htm
+title: Heather Roy's Diary – April 13 2006
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00273/heather-roys-diary-april-13-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/04/13/heather-roys-diary-april-13-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary – April 13 2006
 ===================================

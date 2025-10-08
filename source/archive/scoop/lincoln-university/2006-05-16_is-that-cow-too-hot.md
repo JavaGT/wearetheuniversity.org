@@ -1,9 +1,11 @@
 ---
 slug: is-that-cow-too-hot
-title: "Is that cow too hot?"
-date: 2006-05-16
+title: Is that cow too hot?
+date: 2006-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0605/S00049/is-that-cow-too-hot.htm
 author: lincoln-university
+permalink: /archive/2006/05/16/is-that-cow-too-hot/index.html
+layout: layout.njk
 ---
 Is that cow too hot?
 ====================

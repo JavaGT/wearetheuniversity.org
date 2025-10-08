@@ -1,9 +1,11 @@
 ---
 slug: the-real-meaning-of-welfare
-title: "The Real Meaning of Welfare"
-date: 2011-02-25
+title: The Real Meaning of Welfare
+date: 2011-02-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1102/S00240/the-real-meaning-of-welfare.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/02/25/the-real-meaning-of-welfare/index.html
+layout: layout.njk
 ---
 The Real Meaning of Welfare
 ===========================

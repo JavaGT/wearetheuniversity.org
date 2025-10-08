@@ -1,9 +1,12 @@
 ---
 slug: greens-announce-unemployment-policy
-title: "Greens announce unemployment policy"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00027/greens-announce-unemployment-policy.htm
+title: Greens announce unemployment policy
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00027/greens-announce-unemployment-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/02/greens-announce-unemployment-policy/index.html
+layout: layout.njk
 ---
 Greens announce unemployment policy
 ===================================

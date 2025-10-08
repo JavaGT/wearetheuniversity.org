@@ -1,9 +1,12 @@
 ---
 slug: building-bridges-to-engineerings-future
-title: "Building bridges to engineering's future"
-date: 2006-07-11
-source-url: https://www.scoop.co.nz/stories/ED0607/S00025/building-bridges-to-engineerings-future.htm
+title: Building bridges to engineering's future
+date: 2006-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00025/building-bridges-to-engineerings-future.htm
 author: auckland-university
+permalink: /archive/2006/07/11/building-bridges-to-engineerings-future/index.html
+layout: layout.njk
 ---
 Building bridges to engineering's future
 ========================================

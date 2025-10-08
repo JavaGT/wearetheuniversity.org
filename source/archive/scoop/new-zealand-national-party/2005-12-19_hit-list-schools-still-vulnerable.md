@@ -1,9 +1,12 @@
 ---
 slug: hit-list-schools-still-vulnerable
-title: "Hit list schools still vulnerable"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00276/hit-list-schools-still-vulnerable.htm
+title: Hit list schools still vulnerable
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00276/hit-list-schools-still-vulnerable.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/19/hit-list-schools-still-vulnerable/index.html
+layout: layout.njk
 ---
 Hit list schools still vulnerable
 =================================

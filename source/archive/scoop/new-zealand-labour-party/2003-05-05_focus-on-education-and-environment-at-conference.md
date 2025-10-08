@@ -1,9 +1,13 @@
 ---
 slug: focus-on-education-and-environment-at-conference
-title: "Focus On Education and Environment at Conference"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/PO0305/S00040/focus-on-education-and-environment-at-conference.htm
+title: Focus On Education and Environment at Conference
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0305/S00040/focus-on-education-and-environment-at-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2003/05/05/focus-on-education-and-environment-at-conference/index.html
+layout: layout.njk
 ---
 Focus On Education and Environment at Conference
 ================================================

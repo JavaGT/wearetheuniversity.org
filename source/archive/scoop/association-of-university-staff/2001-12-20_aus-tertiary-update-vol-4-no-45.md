@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-45
-title: "AUS Tertiary Update   Vol. 4,  No. 45"
-date: 2001-12-20
-source-url: https://www.scoop.co.nz/stories/ED0112/S00026/aus-tertiary-update-vol-4-no-45.htm
+title: AUS Tertiary Update   Vol. 4,  No. 45
+date: 2001-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00026/aus-tertiary-update-vol-4-no-45.htm
 author: association-of-university-staff
+permalink: /archive/2001/12/20/aus-tertiary-update-vol-4-no-45/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4, No. 45
 ==================================

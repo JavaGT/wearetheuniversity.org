@@ -1,9 +1,12 @@
 ---
 slug: fans-get-closer-than-ever-to-the-all-blacks
-title: "Fans Get Closer Than Ever To The All Blacks"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/SC0807/S00044/fans-get-closer-than-ever-to-the-all-blacks.htm
+title: Fans Get Closer Than Ever To The All Blacks
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0807/S00044/fans-get-closer-than-ever-to-the-all-blacks.htm
 author: university-of-canterbury
+permalink: /archive/2008/07/18/fans-get-closer-than-ever-to-the-all-blacks/index.html
+layout: layout.njk
 ---
 Fans Get Closer Than Ever To The All Blacks
 ===========================================

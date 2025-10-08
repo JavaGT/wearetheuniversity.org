@@ -1,9 +1,12 @@
 ---
 slug: visiting-geophysicist-shakes-it-up-with-lecture
-title: "Visiting geophysicist shakes it up with lecture"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/SC1009/S00033/visiting-geophysicist-shakes-it-up-with-lecture.htm
+title: Visiting geophysicist shakes it up with lecture
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00033/visiting-geophysicist-shakes-it-up-with-lecture.htm
 author: university-of-waikato
+permalink: /archive/2010/09/24/visiting-geophysicist-shakes-it-up-with-lecture/index.html
+layout: layout.njk
 ---
 Visiting geophysicist shakes it up with lecture
 ===============================================

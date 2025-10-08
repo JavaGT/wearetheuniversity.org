@@ -1,9 +1,12 @@
 ---
 slug: top-business-student-aims-for-the-world
-title: "Top business student aims for the world"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/BU0703/S00481/top-business-student-aims-for-the-world.htm
+title: Top business student aims for the world
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0703/S00481/top-business-student-aims-for-the-world.htm
 author: aut-university
+permalink: /archive/2007/03/28/top-business-student-aims-for-the-world/index.html
+layout: layout.njk
 ---
 Top business student aims for the world
 =======================================

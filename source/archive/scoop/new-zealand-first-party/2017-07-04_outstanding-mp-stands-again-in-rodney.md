@@ -1,9 +1,12 @@
 ---
 slug: outstanding-mp-stands-again-in-rodney
-title: "Outstanding MP Stands Again in Rodney"
-date: 2017-07-04
-source-url: https://www.scoop.co.nz/stories/PA1707/S00056/outstanding-mp-stands-again-in-rodney.htm
+title: Outstanding MP Stands Again in Rodney
+date: 2017-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00056/outstanding-mp-stands-again-in-rodney.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/04/outstanding-mp-stands-again-in-rodney/index.html
+layout: layout.njk
 ---
 Outstanding MP Stands Again in Rodney
 =====================================

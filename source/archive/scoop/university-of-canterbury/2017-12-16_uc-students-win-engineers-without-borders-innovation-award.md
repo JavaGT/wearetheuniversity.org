@@ -1,9 +1,13 @@
 ---
 slug: uc-students-win-engineers-without-borders-innovation-award
-title: "UC students win Engineers Without Borders innovation award"
-date: 2017-12-16
-source-url: https://www.scoop.co.nz/stories/ED1712/S00063/uc-students-win-engineers-without-borders-innovation-award.htm
+title: UC students win Engineers Without Borders innovation award
+date: 2017-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00063/uc-students-win-engineers-without-borders-innovation-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/16/uc-students-win-engineers-without-borders-innovation-award/index.html
+layout: layout.njk
 ---
 UC students win Engineers Without Borders innovation award
 ==========================================================

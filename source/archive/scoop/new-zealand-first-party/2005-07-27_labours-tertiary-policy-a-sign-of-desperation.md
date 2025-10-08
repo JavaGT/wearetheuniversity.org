@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-policy-a-sign-of-desperation
-title: "Labour’s Tertiary Policy A Sign Of Desperation"
-date: 2005-07-27
-source-url: https://www.scoop.co.nz/stories/PA0507/S00577/labours-tertiary-policy-a-sign-of-desperation.htm
+title: Labour’s Tertiary Policy A Sign Of Desperation
+date: 2005-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00577/labours-tertiary-policy-a-sign-of-desperation.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/27/labours-tertiary-policy-a-sign-of-desperation/index.html
+layout: layout.njk
 ---
 Labour’s Tertiary Policy A Sign Of Desperation
 ==============================================

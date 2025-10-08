@@ -1,9 +1,13 @@
 ---
 slug: watchdogs-report-another-bite-at-pms-credibility
-title: "Watchdog’s report another bite at PM’s credibility"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/PA1109/S00504/watchdogs-report-another-bite-at-pms-credibility.htm
+title: Watchdog’s report another bite at PM’s credibility
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00504/watchdogs-report-another-bite-at-pms-credibility.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/27/watchdogs-report-another-bite-at-pms-credibility/index.html
+layout: layout.njk
 ---
 Watchdog’s report another bite at PM’s credibility
 ==================================================

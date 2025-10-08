@@ -1,9 +1,12 @@
 ---
 slug: drug-use-trends-detected-in-survey
-title: "Drug use trends detected in survey"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/ED1009/S00004/drug-use-trends-detected-in-survey.htm
+title: Drug use trends detected in survey
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00004/drug-use-trends-detected-in-survey.htm
 author: massey-university
+permalink: /archive/2010/09/01/drug-use-trends-detected-in-survey/index.html
+layout: layout.njk
 ---
 Drug use trends detected in survey
 ==================================

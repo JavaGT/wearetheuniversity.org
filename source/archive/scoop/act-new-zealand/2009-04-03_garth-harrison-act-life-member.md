@@ -1,9 +1,12 @@
 ---
 slug: garth-harrison-act-life-member
-title: "Garth Harrison: ACT Life Member"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/PA0904/S00050/garth-harrison-act-life-member.htm
+title: 'Garth Harrison: ACT Life Member'
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00050/garth-harrison-act-life-member.htm
 author: act-new-zealand
+permalink: /archive/2009/04/03/garth-harrison-act-life-member/index.html
+layout: layout.njk
 ---
 Garth Harrison: ACT Life Member
 ===============================

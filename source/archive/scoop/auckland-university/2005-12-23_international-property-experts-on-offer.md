@@ -1,9 +1,12 @@
 ---
 slug: international-property-experts-on-offer
-title: "International Property Experts On Offer"
-date: 2005-12-23
-source-url: https://www.scoop.co.nz/stories/BU0512/S00364/international-property-experts-on-offer.htm
+title: International Property Experts On Offer
+date: 2005-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0512/S00364/international-property-experts-on-offer.htm
 author: auckland-university
+permalink: /archive/2005/12/23/international-property-experts-on-offer/index.html
+layout: layout.njk
 ---
 International Property Experts On Offer
 =======================================

@@ -1,8 +1,12 @@
 ---
 slug: kiwi-connection-to-a-significant-discovery-into-our-human-origins
-title: "Kiwi connection to a significant discovery into our human origins"
-date: 2016-06-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/kiwi-connection-to-a-significant-discovery-into-our-human-origin.html
+title: Kiwi connection to a significant discovery into our human origins
+date: 2016-06-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/kiwi-connection-to-a-significant-discovery-into-our-human-origin.html
+permalink: >-
+  /archive/2016/06/09/kiwi-connection-to-a-significant-discovery-into-our-human-origins/index.html
+layout: layout.njk
 ---
 Kiwi connection to a significant discovery into our human origins
 =================================================================

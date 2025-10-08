@@ -1,9 +1,12 @@
 ---
 slug: bad-precedent-set-by-retrospective-legislation
-title: "Bad Precedent Set By  Retrospective Legislation"
-date: 2001-05-17
-source-url: https://www.scoop.co.nz/stories/PA0105/S00357/bad-precedent-set-by-retrospective-legislation.htm
+title: Bad Precedent Set By  Retrospective Legislation
+date: 2001-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00357/bad-precedent-set-by-retrospective-legislation.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/17/bad-precedent-set-by-retrospective-legislation/index.html
+layout: layout.njk
 ---
 Bad Precedent Set By Retrospective Legislation
 ==============================================

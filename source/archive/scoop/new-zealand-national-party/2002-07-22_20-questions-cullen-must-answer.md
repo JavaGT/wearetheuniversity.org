@@ -1,9 +1,12 @@
 ---
 slug: 20-questions-cullen-must-answer
-title: "20 Questions Cullen Must Answer"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/PA0207/S00585/20-questions-cullen-must-answer.htm
+title: 20 Questions Cullen Must Answer
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00585/20-questions-cullen-must-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/22/20-questions-cullen-must-answer/index.html
+layout: layout.njk
 ---
 20 Questions Cullen Must Answer
 ===============================

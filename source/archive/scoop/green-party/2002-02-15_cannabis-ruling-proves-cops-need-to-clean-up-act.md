@@ -1,9 +1,13 @@
 ---
 slug: cannabis-ruling-proves-cops-need-to-clean-up-act
-title: "Cannabis ruling proves cops need to clean up act"
-date: 2002-02-15
-source-url: https://www.scoop.co.nz/stories/PA0202/S00222/cannabis-ruling-proves-cops-need-to-clean-up-act.htm
+title: Cannabis ruling proves cops need to clean up act
+date: 2002-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00222/cannabis-ruling-proves-cops-need-to-clean-up-act.htm
 author: green-party
+permalink: >-
+  /archive/2002/02/15/cannabis-ruling-proves-cops-need-to-clean-up-act/index.html
+layout: layout.njk
 ---
 Cannabis ruling proves cops need to clean up act
 ================================================

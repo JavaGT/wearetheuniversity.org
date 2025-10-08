@@ -1,9 +1,12 @@
 ---
 slug: aus-takes-gats-concern-to-deputy-pm
-title: "AUS Takes GATS Concern to Deputy PM"
-date: 2003-03-13
-source-url: https://www.scoop.co.nz/stories/ED0303/S00022/aus-takes-gats-concern-to-deputy-pm.htm
+title: AUS Takes GATS Concern to Deputy PM
+date: 2003-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00022/aus-takes-gats-concern-to-deputy-pm.htm
 author: association-of-university-staff
+permalink: /archive/2003/03/13/aus-takes-gats-concern-to-deputy-pm/index.html
+layout: layout.njk
 ---
 AUS Takes GATS Concern to Deputy PM
 ===================================

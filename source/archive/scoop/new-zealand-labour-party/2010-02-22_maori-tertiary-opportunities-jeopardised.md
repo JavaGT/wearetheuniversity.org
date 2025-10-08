@@ -1,9 +1,12 @@
 ---
 slug: maori-tertiary-opportunities-jeopardised
-title: "Maori tertiary opportunities jeopardised"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/PA1002/S00300/maori-tertiary-opportunities-jeopardised.htm
+title: Maori tertiary opportunities jeopardised
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00300/maori-tertiary-opportunities-jeopardised.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/22/maori-tertiary-opportunities-jeopardised/index.html
+layout: layout.njk
 ---
 Maori tertiary opportunities jeopardised
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: critical-essays-shine-light-on-len-lye-in-new-book
-title: "Critical essays shine light on Len Lye in new book"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/CU1711/S00383/critical-essays-shine-light-on-len-lye-in-new-book.htm
+title: Critical essays shine light on Len Lye in new book
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00383/critical-essays-shine-light-on-len-lye-in-new-book.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/22/critical-essays-shine-light-on-len-lye-in-new-book/index.html
+layout: layout.njk
 ---
 Critical essays shine light on Len Lye in new book
 ==================================================

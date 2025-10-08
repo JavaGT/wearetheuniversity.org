@@ -1,9 +1,12 @@
 ---
 slug: nzei-tells-govt-to-stop-all-school-closures
-title: "NZEI Tells Govt To Stop All School Closures"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/ED0402/S00075/nzei-tells-govt-to-stop-all-school-closures.htm
+title: NZEI Tells Govt To Stop All School Closures
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00075/nzei-tells-govt-to-stop-all-school-closures.htm
 author: nzei
+permalink: /archive/2004/02/24/nzei-tells-govt-to-stop-all-school-closures/index.html
+layout: layout.njk
 ---
 NZEI Tells Govt To Stop All School Closures
 ===========================================

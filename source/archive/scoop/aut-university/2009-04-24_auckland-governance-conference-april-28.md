@@ -1,9 +1,12 @@
 ---
 slug: auckland-governance-conference-april-28
-title: "Auckland Governance Conference - April 28"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/ED0904/S00055/auckland-governance-conference-april-28.htm
+title: Auckland Governance Conference - April 28
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00055/auckland-governance-conference-april-28.htm
 author: aut-university
+permalink: /archive/2009/04/24/auckland-governance-conference-april-28/index.html
+layout: layout.njk
 ---
 Auckland Governance Conference - April 28
 =========================================

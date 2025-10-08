@@ -1,9 +1,12 @@
 ---
 slug: nandor-welcomes-student-protest-to-parliament
-title: "Nandor Welcomes Student Protest To Parliament"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/PA0401/S00275/nandor-welcomes-student-protest-to-parliament.htm
+title: Nandor Welcomes Student Protest To Parliament
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00275/nandor-welcomes-student-protest-to-parliament.htm
 author: green-party
+permalink: /archive/2004/01/29/nandor-welcomes-student-protest-to-parliament/index.html
+layout: layout.njk
 ---
 Nandor Welcomes Student Protest To Parliament
 =============================================

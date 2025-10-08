@@ -1,9 +1,12 @@
 ---
 slug: sharples-auckland-maori-accountants-network
-title: "Sharples:  Auckland Maori Accountants Network"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/PA0604/S00005/sharples-auckland-maori-accountants-network.htm
+title: 'Sharples:  Auckland Maori Accountants Network'
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00005/sharples-auckland-maori-accountants-network.htm
 author: te-pati-maori
+permalink: /archive/2006/04/03/sharples-auckland-maori-accountants-network/index.html
+layout: layout.njk
 ---
 Sharples: Auckland Maori Accountants Network
 ============================================

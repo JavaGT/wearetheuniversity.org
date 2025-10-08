@@ -1,9 +1,12 @@
 ---
 slug: leading-economist-appointed-to-research-centre
-title: "Leading economist appointed to Research Centre"
-date: 2007-11-23
-source-url: https://www.scoop.co.nz/stories/ED0711/S00102/leading-economist-appointed-to-research-centre.htm
+title: Leading economist appointed to Research Centre
+date: 2007-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00102/leading-economist-appointed-to-research-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/23/leading-economist-appointed-to-research-centre/index.html
+layout: layout.njk
 ---
 Leading economist appointed to Research Centre
 ==============================================

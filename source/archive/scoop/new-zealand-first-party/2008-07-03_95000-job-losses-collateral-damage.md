@@ -1,9 +1,12 @@
 ---
 slug: 95000-job-losses-collateral-damage
-title: "95,000 Job Losses \"Collateral Damage\""
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00102/95000-job-losses-collateral-damage.htm
+title: 95,000 Job Losses "Collateral Damage"
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00102/95000-job-losses-collateral-damage.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/03/95000-job-losses-collateral-damage/index.html
+layout: layout.njk
 ---
 95,000 Job Losses \"Collateral Damage"
 =====================================

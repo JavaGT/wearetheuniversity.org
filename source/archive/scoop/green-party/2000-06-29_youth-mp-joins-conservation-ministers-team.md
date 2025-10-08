@@ -1,9 +1,12 @@
 ---
 slug: youth-mp-joins-conservation-ministers-team
-title: "Youth MP joins Conservation Minister's team"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/PO0006/S00123/youth-mp-joins-conservation-ministers-team.htm
+title: Youth MP joins Conservation Minister's team
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0006/S00123/youth-mp-joins-conservation-ministers-team.htm
 author: green-party
+permalink: /archive/2000/06/29/youth-mp-joins-conservation-ministers-team/index.html
+layout: layout.njk
 ---
 Youth MP joins Conservation Minister's team
 ===========================================

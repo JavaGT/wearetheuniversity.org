@@ -1,9 +1,12 @@
 ---
 slug: foreign-students-prop-up-industry
-title: "Foreign Students Prop up Industry"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/PA1508/S00371/foreign-students-prop-up-industry.htm
+title: Foreign Students Prop up Industry
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00371/foreign-students-prop-up-industry.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/21/foreign-students-prop-up-industry/index.html
+layout: layout.njk
 ---
 Foreign Students Prop up Industry
 =================================

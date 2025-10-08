@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-labour-mp-says-more-to-be-done
-title: "Minimum wage – Labour MP says more to be done"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PA0709/S00375/minimum-wage-labour-mp-says-more-to-be-done.htm
+title: Minimum wage – Labour MP says more to be done
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00375/minimum-wage-labour-mp-says-more-to-be-done.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/09/21/minimum-wage-labour-mp-says-more-to-be-done/index.html
+layout: layout.njk
 ---
 Minimum wage – Labour MP says more to be done
 =============================================

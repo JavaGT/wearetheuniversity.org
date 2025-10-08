@@ -1,9 +1,13 @@
 ---
 slug: new-centre-to-investigate-plant-extracts-benefits
-title: "New centre to investigate plant extracts benefits"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/SC1604/S00013/new-centre-to-investigate-plant-extracts-benefits.htm
+title: New centre to investigate plant extracts benefits
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00013/new-centre-to-investigate-plant-extracts-benefits.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/08/new-centre-to-investigate-plant-extracts-benefits/index.html
+layout: layout.njk
 ---
 New centre to investigate plant extracts benefits
 =================================================

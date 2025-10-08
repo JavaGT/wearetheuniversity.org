@@ -1,9 +1,12 @@
 ---
 slug: government-in-business-of-sugar-coating
-title: "Government in Business of Sugar-Coating"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00385/government-in-business-of-sugar-coating.htm
+title: Government in Business of Sugar-Coating
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00385/government-in-business-of-sugar-coating.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/22/government-in-business-of-sugar-coating/index.html
+layout: layout.njk
 ---
 Government in Business of Sugar-Coating
 =======================================

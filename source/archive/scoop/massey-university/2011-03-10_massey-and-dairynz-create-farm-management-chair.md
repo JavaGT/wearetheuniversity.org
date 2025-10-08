@@ -1,9 +1,12 @@
 ---
 slug: massey-and-dairynz-create-farm-management-chair
-title: "Massey and DairyNZ Create Farm Management Chair"
-date: 2011-03-10
-source-url: https://www.scoop.co.nz/stories/ED1103/S00052/massey-and-dairynz-create-farm-management-chair.htm
+title: Massey and DairyNZ Create Farm Management Chair
+date: 2011-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00052/massey-and-dairynz-create-farm-management-chair.htm
 author: massey-university
+permalink: /archive/2011/03/10/massey-and-dairynz-create-farm-management-chair/index.html
+layout: layout.njk
 ---
 Massey and DairyNZ Create Farm Management Chair
 ===============================================

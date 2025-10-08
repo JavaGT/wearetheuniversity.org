@@ -1,9 +1,13 @@
 ---
 slug: hughes-hutton-wins-uc-business-and-economics-scholarship
-title: "Hughes-Hutton wins UC business and economics scholarship"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/ED1210/S00142/hughes-hutton-wins-uc-business-and-economics-scholarship.htm
+title: Hughes-Hutton wins UC business and economics scholarship
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00142/hughes-hutton-wins-uc-business-and-economics-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/24/hughes-hutton-wins-uc-business-and-economics-scholarship/index.html
+layout: layout.njk
 ---
 Hughes-Hutton wins UC business and economics scholarship
 ========================================================

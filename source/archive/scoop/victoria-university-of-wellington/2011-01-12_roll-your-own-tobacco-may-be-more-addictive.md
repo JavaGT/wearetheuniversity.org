@@ -1,9 +1,12 @@
 ---
 slug: roll-your-own-tobacco-may-be-more-addictive
-title: "Roll-your-own tobacco may be more addictive"
-date: 2011-01-12
-source-url: https://www.scoop.co.nz/stories/GE1101/S00021/roll-your-own-tobacco-may-be-more-addictive.htm
+title: Roll-your-own tobacco may be more addictive
+date: 2011-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1101/S00021/roll-your-own-tobacco-may-be-more-addictive.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/01/12/roll-your-own-tobacco-may-be-more-addictive/index.html
+layout: layout.njk
 ---
 Roll-your-own tobacco may be more addictive
 ===========================================

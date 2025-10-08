@@ -1,9 +1,12 @@
 ---
 slug: teachers-look-forward-to-negotiations
-title: "Teachers look forward to negotiations"
-date: 2018-08-16
-source-url: https://www.scoop.co.nz/stories/PO1808/S00222/teachers-look-forward-to-negotiations.htm
+title: Teachers look forward to negotiations
+date: 2018-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00222/teachers-look-forward-to-negotiations.htm
 author: nzei
+permalink: /archive/2018/08/16/teachers-look-forward-to-negotiations/index.html
+layout: layout.njk
 ---
 Teachers look forward to negotiations
 =====================================

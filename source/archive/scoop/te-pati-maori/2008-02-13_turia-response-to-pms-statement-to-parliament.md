@@ -1,9 +1,12 @@
 ---
 slug: turia-response-to-pms-statement-to-parliament
-title: "Turia: Response to PM’s Statement to Parliament"
-date: 2008-02-13
-source-url: https://www.scoop.co.nz/stories/PA0802/S00184/turia-response-to-pms-statement-to-parliament.htm
+title: 'Turia: Response to PM’s Statement to Parliament'
+date: 2008-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00184/turia-response-to-pms-statement-to-parliament.htm
 author: te-pati-maori
+permalink: /archive/2008/02/13/turia-response-to-pms-statement-to-parliament/index.html
+layout: layout.njk
 ---
 Turia: Response to PM’s Statement to Parliament
 ===============================================

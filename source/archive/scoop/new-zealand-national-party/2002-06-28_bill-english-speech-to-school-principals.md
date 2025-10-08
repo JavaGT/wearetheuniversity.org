@@ -1,9 +1,12 @@
 ---
 slug: bill-english-speech-to-school-principals
-title: "Bill English - Speech to School Principals"
-date: 2002-06-28
-source-url: https://www.scoop.co.nz/stories/PA0206/S00523/bill-english-speech-to-school-principals.htm
+title: Bill English - Speech to School Principals
+date: 2002-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00523/bill-english-speech-to-school-principals.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/28/bill-english-speech-to-school-principals/index.html
+layout: layout.njk
 ---
 Bill English - Speech to School Principals
 ==========================================

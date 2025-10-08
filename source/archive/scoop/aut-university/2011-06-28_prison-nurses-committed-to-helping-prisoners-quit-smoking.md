@@ -1,9 +1,13 @@
 ---
 slug: prison-nurses-committed-to-helping-prisoners-quit-smoking
-title: "Prison nurses committed to helping prisoners quit smoking"
-date: 2011-06-28
-source-url: https://www.scoop.co.nz/stories/GE1106/S00128/prison-nurses-committed-to-helping-prisoners-quit-smoking.htm
+title: Prison nurses committed to helping prisoners quit smoking
+date: 2011-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1106/S00128/prison-nurses-committed-to-helping-prisoners-quit-smoking.htm
 author: aut-university
+permalink: >-
+  /archive/2011/06/28/prison-nurses-committed-to-helping-prisoners-quit-smoking/index.html
+layout: layout.njk
 ---
 Prison nurses committed to helping prisoners quit smoking
 =========================================================

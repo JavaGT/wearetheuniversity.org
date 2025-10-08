@@ -1,9 +1,12 @@
 ---
 slug: this-is-an-open-health-privatisation-agenda
-title: "This is an open health privatisation agenda"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/PA1004/S00316/this-is-an-open-health-privatisation-agenda.htm
+title: This is an open health privatisation agenda
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00316/this-is-an-open-health-privatisation-agenda.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/26/this-is-an-open-health-privatisation-agenda/index.html
+layout: layout.njk
 ---
 This is an open health privatisation agenda
 ===========================================

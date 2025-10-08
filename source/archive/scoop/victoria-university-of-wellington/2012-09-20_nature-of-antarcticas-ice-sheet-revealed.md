@@ -1,9 +1,12 @@
 ---
 slug: nature-of-antarcticas-ice-sheet-revealed
-title: "Nature of Antarctica’s ice sheet revealed"
-date: 2012-09-20
-source-url: https://www.scoop.co.nz/stories/SC1209/S00048/nature-of-antarcticas-ice-sheet-revealed.htm
+title: Nature of Antarctica’s ice sheet revealed
+date: 2012-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00048/nature-of-antarcticas-ice-sheet-revealed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/20/nature-of-antarcticas-ice-sheet-revealed/index.html
+layout: layout.njk
 ---
 Nature of Antarctica’s ice sheet revealed
 =========================================

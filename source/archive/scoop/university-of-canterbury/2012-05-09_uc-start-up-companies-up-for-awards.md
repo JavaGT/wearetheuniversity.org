@@ -1,9 +1,12 @@
 ---
 slug: uc-start-up-companies-up-for-awards
-title: "UC start-up companies up for awards"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/BU1205/S00317/uc-start-up-companies-up-for-awards.htm
+title: UC start-up companies up for awards
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00317/uc-start-up-companies-up-for-awards.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/09/uc-start-up-companies-up-for-awards/index.html
+layout: layout.njk
 ---
 UC start-up companies up for awards
 ===================================

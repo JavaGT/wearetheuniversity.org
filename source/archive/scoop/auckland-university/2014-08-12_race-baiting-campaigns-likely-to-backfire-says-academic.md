@@ -1,9 +1,13 @@
 ---
 slug: race-baiting-campaigns-likely-to-backfire-says-academic
-title: "Race-baiting campaigns likely to backfire says academic"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PO1408/S00171/race-baiting-campaigns-likely-to-backfire-says-academic.htm
+title: Race-baiting campaigns likely to backfire says academic
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00171/race-baiting-campaigns-likely-to-backfire-says-academic.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/08/12/race-baiting-campaigns-likely-to-backfire-says-academic/index.html
+layout: layout.njk
 ---
 Race-baiting campaigns likely to backfire says academic
 =======================================================

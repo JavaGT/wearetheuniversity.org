@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-needed-to-prevent-workers-losing-millions
-title: "Urgent action needed to prevent workers losing millions"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PO1606/S00253/urgent-action-needed-to-prevent-workers-losing-millions.htm
+title: Urgent action needed to prevent workers losing millions
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00253/urgent-action-needed-to-prevent-workers-losing-millions.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/06/22/urgent-action-needed-to-prevent-workers-losing-millions/index.html
+layout: layout.njk
 ---
 Urgent action needed to prevent workers losing millions
 =======================================================

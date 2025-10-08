@@ -1,9 +1,13 @@
 ---
 slug: if-she-be-worthy-online-backlash-to-the-mighty-thor
-title: "If She Be Worthy – Online Backlash To The Mighty Thor"
-date: 2022-03-07
-source-url: https://www.scoop.co.nz/stories/CU2203/S00054/if-she-be-worthy-online-backlash-to-the-mighty-thor.htm
+title: If She Be Worthy – Online Backlash To The Mighty Thor
+date: 2022-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2203/S00054/if-she-be-worthy-online-backlash-to-the-mighty-thor.htm
 author: aut-university
+permalink: >-
+  /archive/2022/03/07/if-she-be-worthy-online-backlash-to-the-mighty-thor/index.html
+layout: layout.njk
 ---
 If She Be Worthy – Online Backlash To The Mighty Thor
 =====================================================

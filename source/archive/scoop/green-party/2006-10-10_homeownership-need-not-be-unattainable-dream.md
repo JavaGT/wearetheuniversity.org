@@ -1,9 +1,12 @@
 ---
 slug: homeownership-need-not-be-unattainable-dream
-title: "Homeownership need not be unattainable dream"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/PA0610/S00153/homeownership-need-not-be-unattainable-dream.htm
+title: Homeownership need not be unattainable dream
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00153/homeownership-need-not-be-unattainable-dream.htm
 author: green-party
+permalink: /archive/2006/10/10/homeownership-need-not-be-unattainable-dream/index.html
+layout: layout.njk
 ---
 Homeownership need not be unattainable dream
 ============================================

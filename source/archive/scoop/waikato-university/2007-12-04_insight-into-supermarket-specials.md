@@ -1,9 +1,12 @@
 ---
 slug: insight-into-supermarket-specials
-title: "Insight into supermarket specials"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/BU0712/S00039/insight-into-supermarket-specials.htm
+title: Insight into supermarket specials
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0712/S00039/insight-into-supermarket-specials.htm
 author: waikato-university
+permalink: /archive/2007/12/04/insight-into-supermarket-specials/index.html
+layout: layout.njk
 ---
 Insight into supermarket specials
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-mp-to-take-action-on-cigarette-displays
-title: "Labour MP to Take Action on Cigarette Displays"
-date: 2009-03-04
-source-url: https://www.scoop.co.nz/stories/PA0903/S00050/labour-mp-to-take-action-on-cigarette-displays.htm
+title: Labour MP to Take Action on Cigarette Displays
+date: 2009-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00050/labour-mp-to-take-action-on-cigarette-displays.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/04/labour-mp-to-take-action-on-cigarette-displays/index.html
+layout: layout.njk
 ---
 Labour MP to Take Action on Cigarette Displays
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: knowledge-shared-for-aucklands-growth
-title: "Knowledge shared for Auckland’s growth"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/ED1205/S00169/knowledge-shared-for-aucklands-growth.htm
+title: Knowledge shared for Auckland’s growth
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00169/knowledge-shared-for-aucklands-growth.htm
 author: massey-university
+permalink: /archive/2012/05/31/knowledge-shared-for-aucklands-growth/index.html
+layout: layout.njk
 ---
 Knowledge shared for Auckland’s growth
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: small-business-under-attack-from-labour
-title: "Small Business Under Attack from Labour"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/PA0207/S00676/small-business-under-attack-from-labour.htm
+title: Small Business Under Attack from Labour
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00676/small-business-under-attack-from-labour.htm
 author: act-new-zealand
+permalink: /archive/2002/07/25/small-business-under-attack-from-labour/index.html
+layout: layout.njk
 ---
 Small Business Under Attack from Labour
 =======================================

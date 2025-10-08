@@ -1,9 +1,12 @@
 ---
 slug: acts-five-point-plan-to-grow-the-economy
-title: "ACT’s five point plan to grow the economy"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PO1409/S00344/acts-five-point-plan-to-grow-the-economy.htm
+title: ACT’s five point plan to grow the economy
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00344/acts-five-point-plan-to-grow-the-economy.htm
 author: act-new-zealand
+permalink: /archive/2014/09/15/acts-five-point-plan-to-grow-the-economy/index.html
+layout: layout.njk
 ---
 ACT’s five point plan to grow the economy
 =========================================

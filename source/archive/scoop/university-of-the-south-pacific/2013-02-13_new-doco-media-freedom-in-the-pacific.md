@@ -1,9 +1,12 @@
 ---
 slug: new-doco-media-freedom-in-the-pacific
-title: "New Doco - Media Freedom In The Pacific"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/WO1302/S00150/new-doco-media-freedom-in-the-pacific.htm
+title: New Doco - Media Freedom In The Pacific
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1302/S00150/new-doco-media-freedom-in-the-pacific.htm
 author: university-of-the-south-pacific
+permalink: /archive/2013/02/13/new-doco-media-freedom-in-the-pacific/index.html
+layout: layout.njk
 ---
 New Doco - Media Freedom In The Pacific
 =======================================

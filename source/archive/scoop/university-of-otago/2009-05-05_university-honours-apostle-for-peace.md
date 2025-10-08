@@ -1,9 +1,12 @@
 ---
 slug: university-honours-apostle-for-peace
-title: "University honours \"Apostle for Peace\""
-date: 2009-05-05
-source-url: https://www.scoop.co.nz/stories/CU0905/S00044/university-honours-apostle-for-peace.htm
+title: University honours "Apostle for Peace"
+date: 2009-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00044/university-honours-apostle-for-peace.htm
 author: university-of-otago
+permalink: /archive/2009/05/05/university-honours-apostle-for-peace/index.html
+layout: layout.njk
 ---
 University honours “Apostle for Peace”
 ======================================

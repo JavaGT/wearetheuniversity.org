@@ -1,9 +1,12 @@
 ---
 slug: jacqui-deans-advertising-complaint-upheld
-title: "Jacqui Dean's Advertising Complaint Upheld"
-date: 2006-03-08
-source-url: https://www.scoop.co.nz/stories/PA0603/S00138/jacqui-deans-advertising-complaint-upheld.htm
+title: Jacqui Dean's Advertising Complaint Upheld
+date: 2006-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00138/jacqui-deans-advertising-complaint-upheld.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/08/jacqui-deans-advertising-complaint-upheld/index.html
+layout: layout.njk
 ---
 Jacqui Dean's Advertising Complaint Upheld
 ==========================================

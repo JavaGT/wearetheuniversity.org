@@ -1,9 +1,12 @@
 ---
 slug: vulnerable-marginal-helpful-labels
-title: "Vulnerable, marginal – helpful labels?"
-date: 2017-06-06
-source-url: https://www.scoop.co.nz/stories/PO1706/S00069/vulnerable-marginal-helpful-labels.htm
+title: Vulnerable, marginal – helpful labels?
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00069/vulnerable-marginal-helpful-labels.htm
 author: massey-university
+permalink: /archive/2017/06/06/vulnerable-marginal-helpful-labels/index.html
+layout: layout.njk
 ---
 Vulnerable, marginal – helpful labels?
 ======================================

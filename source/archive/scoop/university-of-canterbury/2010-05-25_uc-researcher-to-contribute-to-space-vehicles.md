@@ -1,9 +1,12 @@
 ---
 slug: uc-researcher-to-contribute-to-space-vehicles
-title: "UC researcher to contribute to space vehicles"
-date: 2010-05-25
-source-url: https://www.scoop.co.nz/stories/SC1005/S00059/uc-researcher-to-contribute-to-space-vehicles.htm
+title: UC researcher to contribute to space vehicles
+date: 2010-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1005/S00059/uc-researcher-to-contribute-to-space-vehicles.htm
 author: university-of-canterbury
+permalink: /archive/2010/05/25/uc-researcher-to-contribute-to-space-vehicles/index.html
+layout: layout.njk
 ---
 UC researcher to contribute to space vehicles
 =============================================

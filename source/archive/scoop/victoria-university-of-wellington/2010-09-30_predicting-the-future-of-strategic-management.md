@@ -1,9 +1,12 @@
 ---
 slug: predicting-the-future-of-strategic-management
-title: "Predicting the future of strategic management"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/ED1009/S00144/predicting-the-future-of-strategic-management.htm
+title: Predicting the future of strategic management
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00144/predicting-the-future-of-strategic-management.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/30/predicting-the-future-of-strategic-management/index.html
+layout: layout.njk
 ---
 Predicting the future of strategic management
 =============================================

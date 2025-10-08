@@ -1,9 +1,12 @@
 ---
 slug: mothers-appreciation-spans-generations
-title: "Mothers Appreciation Spans Generations"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/CU1505/S00161/mothers-appreciation-spans-generations.htm
+title: Mothers Appreciation Spans Generations
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00161/mothers-appreciation-spans-generations.htm
 author: auckland-university
+permalink: /archive/2015/05/11/mothers-appreciation-spans-generations/index.html
+layout: layout.njk
 ---
 Mothers Appreciation Spans Generations
 ======================================

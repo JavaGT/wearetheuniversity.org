@@ -1,9 +1,12 @@
 ---
 slug: bill-english-and-nick-smith-on-different-pages
-title: "Bill English and Nick Smith on different pages"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00355/bill-english-and-nick-smith-on-different-pages.htm
+title: Bill English and Nick Smith on different pages
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00355/bill-english-and-nick-smith-on-different-pages.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/19/bill-english-and-nick-smith-on-different-pages/index.html
+layout: layout.njk
 ---
 Bill English and Nick Smith on different pages
 ==============================================

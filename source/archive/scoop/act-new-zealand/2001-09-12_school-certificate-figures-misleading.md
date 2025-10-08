@@ -1,9 +1,12 @@
 ---
 slug: school-certificate-figures-misleading
-title: "School Certificate Figures Misleading"
-date: 2001-09-12
-source-url: https://www.scoop.co.nz/stories/PA0109/S00171/school-certificate-figures-misleading.htm
+title: School Certificate Figures Misleading
+date: 2001-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00171/school-certificate-figures-misleading.htm
 author: act-new-zealand
+permalink: /archive/2001/09/12/school-certificate-figures-misleading/index.html
+layout: layout.njk
 ---
 School Certificate Figures Misleading
 =====================================

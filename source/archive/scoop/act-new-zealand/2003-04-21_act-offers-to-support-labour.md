@@ -1,9 +1,11 @@
 ---
 slug: act-offers-to-support-labour
-title: "ACT Offers To Support Labour"
-date: 2003-04-21
+title: ACT Offers To Support Labour
+date: 2003-04-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0304/S00404/act-offers-to-support-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/04/21/act-offers-to-support-labour/index.html
+layout: layout.njk
 ---
 ACT Offers To Support Labour
 ============================

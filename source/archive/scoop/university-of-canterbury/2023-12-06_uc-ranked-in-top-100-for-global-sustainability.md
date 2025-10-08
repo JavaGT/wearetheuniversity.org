@@ -1,9 +1,12 @@
 ---
 slug: uc-ranked-in-top-100-for-global-sustainability
-title: "UC Ranked In Top 100 For Global Sustainability"
-date: 2023-12-06
-source-url: https://www.scoop.co.nz/stories/ED2312/S00007/uc-ranked-in-top-100-for-global-sustainability.htm
+title: UC Ranked In Top 100 For Global Sustainability
+date: 2023-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00007/uc-ranked-in-top-100-for-global-sustainability.htm
 author: university-of-canterbury
+permalink: /archive/2023/12/06/uc-ranked-in-top-100-for-global-sustainability/index.html
+layout: layout.njk
 ---
 UC Ranked In Top 100 For Global Sustainability
 ==============================================

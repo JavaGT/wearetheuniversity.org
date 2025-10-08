@@ -1,9 +1,12 @@
 ---
 slug: ideology-on-the-menu-but-no-beef
-title: "Ideology on the menu but no beef"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/PA1908/S00082/ideology-on-the-menu-but-no-beef.htm
+title: Ideology on the menu but no beef
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00082/ideology-on-the-menu-but-no-beef.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/07/ideology-on-the-menu-but-no-beef/index.html
+layout: layout.njk
 ---
 Ideology on the menu but no beef
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: impact-of-school-funding-changes
-title: "Impact Of School Funding Changes"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/ED0412/S00067/impact-of-school-funding-changes.htm
+title: Impact Of School Funding Changes
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00067/impact-of-school-funding-changes.htm
 author: nzei
+permalink: /archive/2004/12/17/impact-of-school-funding-changes/index.html
+layout: layout.njk
 ---
 Impact Of School Funding Changes
 ================================

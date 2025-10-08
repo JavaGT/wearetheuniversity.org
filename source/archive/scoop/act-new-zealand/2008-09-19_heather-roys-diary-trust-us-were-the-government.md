@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-trust-us-were-the-government
-title: "Heather Roy's Diary: Trust Us We're The Government"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PA0809/S00428/heather-roys-diary-trust-us-were-the-government.htm
+title: 'Heather Roy''s Diary: Trust Us We''re The Government'
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00428/heather-roys-diary-trust-us-were-the-government.htm
 author: act-new-zealand
+permalink: /archive/2008/09/19/heather-roys-diary-trust-us-were-the-government/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Trust Us We're The Government
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-backs-the-plan-to-fix-renting
-title: "VUWSA backs the ‘Plan to Fix Renting’"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/PO1807/S00144/vuwsa-backs-the-plan-to-fix-renting.htm
+title: VUWSA backs the ‘Plan to Fix Renting’
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00144/vuwsa-backs-the-plan-to-fix-renting.htm
 author: vuwsa
+permalink: /archive/2018/07/11/vuwsa-backs-the-plan-to-fix-renting/index.html
+layout: layout.njk
 ---
 VUWSA backs the ‘Plan to Fix Renting’
 =====================================

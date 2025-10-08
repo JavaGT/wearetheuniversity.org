@@ -1,9 +1,12 @@
 ---
 slug: braking-bad-know-your-weakness
-title: "Braking bad – know your weakness"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/SC1609/S00044/braking-bad-know-your-weakness.htm
+title: Braking bad – know your weakness
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00044/braking-bad-know-your-weakness.htm
 author: massey-university
+permalink: /archive/2016/09/13/braking-bad-know-your-weakness/index.html
+layout: layout.njk
 ---
 Braking bad – know your weakness
 ================================

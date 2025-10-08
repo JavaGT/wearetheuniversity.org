@@ -1,9 +1,12 @@
 ---
 slug: record-enrolments-at-vics-science-experience
-title: "Record enrolments at Vic's Science Experience"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/SC0006/S00032/record-enrolments-at-vics-science-experience.htm
+title: Record enrolments at Vic's Science Experience
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00032/record-enrolments-at-vics-science-experience.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/29/record-enrolments-at-vics-science-experience/index.html
+layout: layout.njk
 ---
 Record enrolments at Vic's Science Experience
 =============================================

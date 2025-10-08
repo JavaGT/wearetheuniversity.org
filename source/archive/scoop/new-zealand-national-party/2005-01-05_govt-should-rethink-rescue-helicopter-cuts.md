@@ -1,9 +1,12 @@
 ---
 slug: govt-should-rethink-rescue-helicopter-cuts
-title: "Govt should rethink rescue helicopter cuts"
-date: 2005-01-05
-source-url: https://www.scoop.co.nz/stories/PA0501/S00014/govt-should-rethink-rescue-helicopter-cuts.htm
+title: Govt should rethink rescue helicopter cuts
+date: 2005-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00014/govt-should-rethink-rescue-helicopter-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/05/govt-should-rethink-rescue-helicopter-cuts/index.html
+layout: layout.njk
 ---
 Govt should rethink rescue helicopter cuts
 ==========================================

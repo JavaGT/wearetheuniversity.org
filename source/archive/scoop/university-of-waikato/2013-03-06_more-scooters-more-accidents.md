@@ -1,9 +1,11 @@
 ---
 slug: more-scooters-more-accidents
-title: "More scooters, more accidents"
-date: 2013-03-06
+title: More scooters, more accidents
+date: 2013-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1303/S00113/more-scooters-more-accidents.htm
 author: university-of-waikato
+permalink: /archive/2013/03/06/more-scooters-more-accidents/index.html
+layout: layout.njk
 ---
 More scooters, more accidents
 =============================

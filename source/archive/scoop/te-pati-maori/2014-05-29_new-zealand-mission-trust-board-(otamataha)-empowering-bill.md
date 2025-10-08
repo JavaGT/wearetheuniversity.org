@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-mission-trust-board-(otamataha)-empowering-bill
-title: "New Zealand Mission Trust Board (Otamataha) Empowering Bill"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/PA1405/S00543/new-zealand-mission-trust-board-otamataha-empowering-bill.htm
+title: New Zealand Mission Trust Board (Otamataha) Empowering Bill
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00543/new-zealand-mission-trust-board-otamataha-empowering-bill.htm
 author: te-pati-maori
+permalink: /archive/2014/05/29/new-zealand-mission-trust-board-/index.html
+layout: layout.njk
 ---
 New Zealand Mission Trust Board (Otamataha) Empowering Bill
 ===========================================================

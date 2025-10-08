@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-where-to-from-here
-title: "Brash Speech: Where To From Here?"
-date: 2003-01-29
-source-url: https://www.scoop.co.nz/stories/PA0301/S00249/brash-speech-where-to-from-here.htm
+title: 'Brash Speech: Where To From Here?'
+date: 2003-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00249/brash-speech-where-to-from-here.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/29/brash-speech-where-to-from-here/index.html
+layout: layout.njk
 ---
 Brash Speech: Where To From Here?
 =================================

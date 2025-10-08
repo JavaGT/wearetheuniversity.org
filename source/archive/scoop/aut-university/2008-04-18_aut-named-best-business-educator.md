@@ -1,9 +1,12 @@
 ---
 slug: aut-named-best-business-educator
-title: "AUT named best business educator"
-date: 2008-04-18
-source-url: https://www.scoop.co.nz/stories/ED0804/S00053/aut-named-best-business-educator.htm
+title: AUT named best business educator
+date: 2008-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00053/aut-named-best-business-educator.htm
 author: aut-university
+permalink: /archive/2008/04/18/aut-named-best-business-educator/index.html
+layout: layout.njk
 ---
 AUT named best business educator
 ================================

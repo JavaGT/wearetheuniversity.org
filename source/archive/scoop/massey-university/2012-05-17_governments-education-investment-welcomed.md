@@ -1,9 +1,12 @@
 ---
 slug: governments-education-investment-welcomed
-title: "Government's education investment welcomed"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/ED1205/S00072/governments-education-investment-welcomed.htm
+title: Government's education investment welcomed
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00072/governments-education-investment-welcomed.htm
 author: massey-university
+permalink: /archive/2012/05/17/governments-education-investment-welcomed/index.html
+layout: layout.njk
 ---
 Government's education investment welcomed
 ==========================================

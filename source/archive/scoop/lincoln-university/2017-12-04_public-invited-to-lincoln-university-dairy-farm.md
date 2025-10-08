@@ -1,9 +1,12 @@
 ---
 slug: public-invited-to-lincoln-university-dairy-farm
-title: "Public invited to Lincoln University Dairy Farm"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/BU1712/S00050/public-invited-to-lincoln-university-dairy-farm.htm
+title: Public invited to Lincoln University Dairy Farm
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1712/S00050/public-invited-to-lincoln-university-dairy-farm.htm
 author: lincoln-university
+permalink: /archive/2017/12/04/public-invited-to-lincoln-university-dairy-farm/index.html
+layout: layout.njk
 ---
 Public invited to Lincoln University Dairy Farm
 ===============================================

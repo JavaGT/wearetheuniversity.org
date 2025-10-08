@@ -1,9 +1,12 @@
 ---
 slug: michael-wood-defends-transport-mega-spend
-title: "Michael Wood Defends Transport Mega Spend"
-date: 2022-07-28
-source-url: https://www.scoop.co.nz/stories/PA2207/S00202/michael-wood-defends-transport-mega-spend.htm
+title: Michael Wood Defends Transport Mega Spend
+date: 2022-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00202/michael-wood-defends-transport-mega-spend.htm
 author: act-new-zealand
+permalink: /archive/2022/07/28/michael-wood-defends-transport-mega-spend/index.html
+layout: layout.njk
 ---
 Michael Wood Defends Transport Mega Spend
 =========================================

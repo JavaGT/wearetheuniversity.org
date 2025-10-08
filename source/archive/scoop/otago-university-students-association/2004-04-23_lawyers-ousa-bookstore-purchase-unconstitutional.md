@@ -1,9 +1,13 @@
 ---
 slug: lawyers-ousa-bookstore-purchase-unconstitutional
-title: "Lawyers: OUSA Bookstore Purchase Unconstitutional"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00079/lawyers-ousa-bookstore-purchase-unconstitutional.htm
+title: 'Lawyers: OUSA Bookstore Purchase Unconstitutional'
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00079/lawyers-ousa-bookstore-purchase-unconstitutional.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2004/04/23/lawyers-ousa-bookstore-purchase-unconstitutional/index.html
+layout: layout.njk
 ---
 Lawyers: OUSA Bookstore Purchase Unconstitutional
 =================================================

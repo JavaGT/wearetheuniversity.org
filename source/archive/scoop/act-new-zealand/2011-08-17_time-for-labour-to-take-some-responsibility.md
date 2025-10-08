@@ -1,9 +1,12 @@
 ---
 slug: time-for-labour-to-take-some-responsibility
-title: "Time for Labour to Take Some Responsibility"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/PA1108/S00358/time-for-labour-to-take-some-responsibility.htm
+title: Time for Labour to Take Some Responsibility
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00358/time-for-labour-to-take-some-responsibility.htm
 author: act-new-zealand
+permalink: /archive/2011/08/17/time-for-labour-to-take-some-responsibility/index.html
+layout: layout.njk
 ---
 Time for Labour to Take Some Responsibility
 ===========================================

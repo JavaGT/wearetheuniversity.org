@@ -1,9 +1,12 @@
 ---
 slug: goff-must-denounce-death-sentence-while-in-iran
-title: "Goff Must Denounce Death Sentence While in Iran"
-date: 2002-12-10
-source-url: https://www.scoop.co.nz/stories/PA0212/S00234/goff-must-denounce-death-sentence-while-in-iran.htm
+title: Goff Must Denounce Death Sentence While in Iran
+date: 2002-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00234/goff-must-denounce-death-sentence-while-in-iran.htm
 author: act-new-zealand
+permalink: /archive/2002/12/10/goff-must-denounce-death-sentence-while-in-iran/index.html
+layout: layout.njk
 ---
 Goff Must Denounce Death Sentence While in Iran
 ===============================================

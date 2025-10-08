@@ -1,9 +1,12 @@
 ---
 slug: $411200-for-otago-projects-for-gifted-students
-title: "$411,200 for Otago projects for gifted students"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00034/411200-for-otago-projects-for-gifted-students.htm
+title: $411,200 for Otago projects for gifted students
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00034/411200-for-otago-projects-for-gifted-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/01/411-200-for-otago-projects-for-gifted-students/index.html
+layout: layout.njk
 ---
 $411,200 for Otago projects for gifted students
 ===============================================

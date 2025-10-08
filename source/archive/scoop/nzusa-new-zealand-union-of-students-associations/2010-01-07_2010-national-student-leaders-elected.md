@@ -1,9 +1,12 @@
 ---
 slug: 2010-national-student-leaders-elected
-title: "2010 National student leaders elected"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/ED1001/S00004/2010-national-student-leaders-elected.htm
+title: 2010 National student leaders elected
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00004/2010-national-student-leaders-elected.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/01/07/2010-national-student-leaders-elected/index.html
+layout: layout.njk
 ---
 2010 National student leaders elected
 =====================================

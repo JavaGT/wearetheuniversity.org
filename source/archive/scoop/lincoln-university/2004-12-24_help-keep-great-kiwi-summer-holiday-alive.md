@@ -1,9 +1,12 @@
 ---
 slug: help-keep-great-kiwi-summer-holiday-alive
-title: "Help keep great Kiwi summer holiday alive"
-date: 2004-12-24
-source-url: https://www.scoop.co.nz/stories/ED0412/S00076/help-keep-great-kiwi-summer-holiday-alive.htm
+title: Help keep great Kiwi summer holiday alive
+date: 2004-12-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00076/help-keep-great-kiwi-summer-holiday-alive.htm
 author: lincoln-university
+permalink: /archive/2004/12/24/help-keep-great-kiwi-summer-holiday-alive/index.html
+layout: layout.njk
 ---
 Help keep great Kiwi summer holiday alive
 =========================================

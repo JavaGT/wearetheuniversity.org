@@ -1,9 +1,13 @@
 ---
 slug: stakes-higher-restrictions-tighter-for-senior-high-school-students
-title: "Stakes Higher, Restrictions Tighter For Senior High School Students"
-date: 2020-08-16
-source-url: https://www.scoop.co.nz/stories/PO2008/S00197/stakes-higher-restrictions-tighter-for-senior-high-school-students.htm
+title: Stakes Higher, Restrictions Tighter For Senior High School Students
+date: 2020-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00197/stakes-higher-restrictions-tighter-for-senior-high-school-students.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/16/stakes-higher-restrictions-tighter-for-senior-high-school-students/index.html
+layout: layout.njk
 ---
 Stakes Higher, Restrictions Tighter For Senior High School Students
 ===================================================================

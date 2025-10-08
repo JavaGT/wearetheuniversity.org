@@ -1,9 +1,13 @@
 ---
 slug: greens-urge-students-to-make-submissions-on-winz
-title: "Greens urge students to make submissions on WINZ"
-date: 2000-02-25
-source-url: https://www.scoop.co.nz/stories/PA0002/S00348/greens-urge-students-to-make-submissions-on-winz.htm
+title: Greens urge students to make submissions on WINZ
+date: 2000-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00348/greens-urge-students-to-make-submissions-on-winz.htm
 author: green-party
+permalink: >-
+  /archive/2000/02/25/greens-urge-students-to-make-submissions-on-winz/index.html
+layout: layout.njk
 ---
 Greens urge students to make submissions on WINZ
 ================================================

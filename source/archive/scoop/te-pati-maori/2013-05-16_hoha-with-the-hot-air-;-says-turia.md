@@ -1,9 +1,12 @@
 ---
 slug: hoha-with-the-hot-air-;-says-turia
-title: "‘Hoha with the Hot-Air’ ; says Turia"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00273/hoha-with-the-hot-air-says-turia.htm
+title: ‘Hoha with the Hot-Air’ ; says Turia
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00273/hoha-with-the-hot-air-says-turia.htm
 author: te-pati-maori
+permalink: /archive/2013/05/16/hoha-with-the-hot-air-/index.html
+layout: layout.njk
 ---
 ‘Hoha with the Hot-Air’ ; says Turia
 ====================================

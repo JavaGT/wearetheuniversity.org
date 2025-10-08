@@ -1,9 +1,11 @@
 ---
 slug: mojo-mathers-maiden-speech
-title: "Mojo Mathers - Maiden Speech"
-date: 2012-02-15
+title: Mojo Mathers - Maiden Speech
+date: 2012-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00171/mojo-mathers-maiden-speech.htm
 author: green-party
+permalink: /archive/2012/02/15/mojo-mathers-maiden-speech/index.html
+layout: layout.njk
 ---
 Mojo Mathers - Maiden Speech
 ============================

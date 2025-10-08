@@ -1,9 +1,13 @@
 ---
 slug: university-welcomes-funding-for-wellington-science-city
-title: "University Welcomes Funding For Wellington Science City"
-date: 2023-05-20
-source-url: https://www.scoop.co.nz/stories/SC2305/S00023/university-welcomes-funding-for-wellington-science-city.htm
+title: University Welcomes Funding For Wellington Science City
+date: 2023-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00023/university-welcomes-funding-for-wellington-science-city.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/05/20/university-welcomes-funding-for-wellington-science-city/index.html
+layout: layout.njk
 ---
 University Welcomes Funding For Wellington Science City
 =======================================================

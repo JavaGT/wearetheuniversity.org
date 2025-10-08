@@ -1,9 +1,13 @@
 ---
 slug: increase-public-funding-of-tertiary-institutions
-title: "Increase public funding of tertiary institutions"
-date: 2006-03-10
-source-url: https://www.scoop.co.nz/stories/PA0603/S00171/increase-public-funding-of-tertiary-institutions.htm
+title: Increase public funding of tertiary institutions
+date: 2006-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00171/increase-public-funding-of-tertiary-institutions.htm
 author: green-party
+permalink: >-
+  /archive/2006/03/10/increase-public-funding-of-tertiary-institutions/index.html
+layout: layout.njk
 ---
 Increase public funding of tertiary institutions
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-back-scientific-research
-title: "Government must back scientific research"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/PA0312/S00466/government-must-back-scientific-research.htm
+title: Government must back scientific research
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00466/government-must-back-scientific-research.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/18/government-must-back-scientific-research/index.html
+layout: layout.njk
 ---
 Government must back scientific research
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: innovations-in-teaching-overcome-lockdown-challenges
-title: "Innovations In Teaching Overcome Lockdown Challenges"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/ED2005/S00033/innovations-in-teaching-overcome-lockdown-challenges.htm
+title: Innovations In Teaching Overcome Lockdown Challenges
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00033/innovations-in-teaching-overcome-lockdown-challenges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/14/innovations-in-teaching-overcome-lockdown-challenges/index.html
+layout: layout.njk
 ---
 Innovations In Teaching Overcome Lockdown Challenges
 ====================================================

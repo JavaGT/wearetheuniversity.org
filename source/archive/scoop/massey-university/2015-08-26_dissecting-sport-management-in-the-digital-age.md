@@ -1,9 +1,12 @@
 ---
 slug: dissecting-sport-management-in-the-digital-age
-title: "Dissecting sport management in the digital age"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/ED1508/S00125/dissecting-sport-management-in-the-digital-age.htm
+title: Dissecting sport management in the digital age
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00125/dissecting-sport-management-in-the-digital-age.htm
 author: massey-university
+permalink: /archive/2015/08/26/dissecting-sport-management-in-the-digital-age/index.html
+layout: layout.njk
 ---
 Dissecting sport management in the digital age
 ==============================================

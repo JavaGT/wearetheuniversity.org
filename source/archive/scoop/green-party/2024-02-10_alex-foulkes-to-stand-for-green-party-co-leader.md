@@ -1,9 +1,12 @@
 ---
 slug: alex-foulkes-to-stand-for-green-party-co-leader
-title: "Alex Foulkes To Stand For Green Party Co-Leader"
-date: 2024-02-10
-source-url: https://www.scoop.co.nz/stories/PO2402/S00055/alex-foulkes-to-stand-for-green-party-co-leader.htm
+title: Alex Foulkes To Stand For Green Party Co-Leader
+date: 2024-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00055/alex-foulkes-to-stand-for-green-party-co-leader.htm
 author: green-party
+permalink: /archive/2024/02/10/alex-foulkes-to-stand-for-green-party-co-leader/index.html
+layout: layout.njk
 ---
 Alex Foulkes To Stand For Green Party Co-Leader
 ===============================================

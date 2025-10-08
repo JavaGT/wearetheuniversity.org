@@ -1,9 +1,13 @@
 ---
 slug: tourism-disability-access-fraught-with-difficulty
-title: "Tourism disability access fraught with difficulty"
-date: 2005-11-24
-source-url: https://www.scoop.co.nz/stories/ED0511/S00082/tourism-disability-access-fraught-with-difficulty.htm
+title: Tourism disability access fraught with difficulty
+date: 2005-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00082/tourism-disability-access-fraught-with-difficulty.htm
 author: aut-university
+permalink: >-
+  /archive/2005/11/24/tourism-disability-access-fraught-with-difficulty/index.html
+layout: layout.njk
 ---
 Tourism disability access fraught with difficulty
 =================================================

@@ -1,8 +1,11 @@
 ---
 slug: ebola-information-update
-title: "Ebola information update"
-date: 2014-10-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/ebola-information-update.html
+title: Ebola information update
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/ebola-information-update.html
+permalink: /archive/2014/10/16/ebola-information-update/index.html
+layout: layout.njk
 ---
 Ebola information update
 ========================

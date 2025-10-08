@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-on-native-american-research-at-waikato-uni
-title: "Public lecture on Native American research at Waikato Uni"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/ED1311/S00016/public-lecture-on-native-american-research-at-waikato-uni.htm
+title: Public lecture on Native American research at Waikato Uni
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00016/public-lecture-on-native-american-research-at-waikato-uni.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/11/01/public-lecture-on-native-american-research-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Public lecture on Native American research at Waikato Uni
 =========================================================

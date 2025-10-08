@@ -1,9 +1,11 @@
 ---
 slug: chinese-storm-in-a-teacup
-title: "Chinese storm in a teacup"
-date: 2005-11-24
+title: Chinese storm in a teacup
+date: 2005-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00359/chinese-storm-in-a-teacup.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/24/chinese-storm-in-a-teacup/index.html
+layout: layout.njk
 ---
 Chinese storm in a teacup
 =========================

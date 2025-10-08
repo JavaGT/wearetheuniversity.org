@@ -1,9 +1,13 @@
 ---
 slug: why-our-native-plants-are-not-so-special-after-all
-title: "Why our native plants are not so special after all"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/ED1509/S00062/why-our-native-plants-are-not-so-special-after-all.htm
+title: Why our native plants are not so special after all
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00062/why-our-native-plants-are-not-so-special-after-all.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/10/why-our-native-plants-are-not-so-special-after-all/index.html
+layout: layout.njk
 ---
 Why our native plants are not so special after all
 ==================================================

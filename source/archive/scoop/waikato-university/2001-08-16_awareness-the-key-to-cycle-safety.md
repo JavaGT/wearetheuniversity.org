@@ -1,9 +1,12 @@
 ---
 slug: awareness-the-key-to-cycle-safety
-title: "Awareness The Key To Cycle Safety"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/ED0108/S00047/awareness-the-key-to-cycle-safety.htm
+title: Awareness The Key To Cycle Safety
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00047/awareness-the-key-to-cycle-safety.htm
 author: waikato-university
+permalink: /archive/2001/08/16/awareness-the-key-to-cycle-safety/index.html
+layout: layout.njk
 ---
 Awareness The Key To Cycle Safety
 =================================

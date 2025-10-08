@@ -1,9 +1,13 @@
 ---
 slug: uc-student-wants-to-become-the-fastest-disabled-sprinter
-title: "UC student wants to become the fastest disabled sprinter"
-date: 2013-09-15
-source-url: https://www.scoop.co.nz/stories/AK1309/S00490/uc-student-wants-to-become-the-fastest-disabled-sprinter.htm
+title: UC student wants to become the fastest disabled sprinter
+date: 2013-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00490/uc-student-wants-to-become-the-fastest-disabled-sprinter.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/15/uc-student-wants-to-become-the-fastest-disabled-sprinter/index.html
+layout: layout.njk
 ---
 UC student wants to become the fastest disabled sprinter
 ========================================================

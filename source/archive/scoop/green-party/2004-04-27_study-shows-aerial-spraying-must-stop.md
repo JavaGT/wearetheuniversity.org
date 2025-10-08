@@ -1,9 +1,12 @@
 ---
 slug: study-shows-aerial-spraying-must-stop
-title: "Study shows aerial spraying must stop"
-date: 2004-04-27
-source-url: https://www.scoop.co.nz/stories/PA0404/S00426/study-shows-aerial-spraying-must-stop.htm
+title: Study shows aerial spraying must stop
+date: 2004-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00426/study-shows-aerial-spraying-must-stop.htm
 author: green-party
+permalink: /archive/2004/04/27/study-shows-aerial-spraying-must-stop/index.html
+layout: layout.njk
 ---
 Study shows aerial spraying must stop
 =====================================

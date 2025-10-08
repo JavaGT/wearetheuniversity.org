@@ -1,9 +1,13 @@
 ---
 slug: national-neglects-local-roads-to-pay-for-motorways
-title: "National neglects local roads to pay for motorways"
-date: 2012-07-15
-source-url: https://www.scoop.co.nz/stories/PA1207/S00172/national-neglects-local-roads-to-pay-for-motorways.htm
+title: National neglects local roads to pay for motorways
+date: 2012-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00172/national-neglects-local-roads-to-pay-for-motorways.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/15/national-neglects-local-roads-to-pay-for-motorways/index.html
+layout: layout.njk
 ---
 National neglects local roads to pay for motorways
 ==================================================

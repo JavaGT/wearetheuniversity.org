@@ -1,9 +1,12 @@
 ---
 slug: unfinished-canterbury-claims-used-for-surplus
-title: "Unfinished Canterbury claims used for surplus"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/PA1512/S00040/unfinished-canterbury-claims-used-for-surplus.htm
+title: Unfinished Canterbury claims used for surplus
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00040/unfinished-canterbury-claims-used-for-surplus.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/02/unfinished-canterbury-claims-used-for-surplus/index.html
+layout: layout.njk
 ---
 Unfinished Canterbury claims used for surplus
 =============================================

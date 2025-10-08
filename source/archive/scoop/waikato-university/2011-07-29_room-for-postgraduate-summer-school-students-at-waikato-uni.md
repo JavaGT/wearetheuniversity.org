@@ -1,9 +1,13 @@
 ---
 slug: room-for-postgraduate-summer-school-students-at-waikato-uni
-title: "Room for postgraduate, Summer School students at Waikato Uni"
-date: 2011-07-29
-source-url: https://www.scoop.co.nz/stories/ED1107/S00123/room-for-postgraduate-summer-school-students-at-waikato-uni.htm
+title: Room for postgraduate, Summer School students at Waikato Uni
+date: 2011-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00123/room-for-postgraduate-summer-school-students-at-waikato-uni.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/07/29/room-for-postgraduate-summer-school-students-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Room for postgraduate, Summer School students at Waikato Uni
 ============================================================

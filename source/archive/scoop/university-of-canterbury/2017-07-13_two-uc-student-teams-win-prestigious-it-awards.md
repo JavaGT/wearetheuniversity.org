@@ -1,9 +1,12 @@
 ---
 slug: two-uc-student-teams-win-prestigious-it-awards
-title: "Two UC student teams win prestigious IT awards"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/ED1707/S00052/two-uc-student-teams-win-prestigious-it-awards.htm
+title: Two UC student teams win prestigious IT awards
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00052/two-uc-student-teams-win-prestigious-it-awards.htm
 author: university-of-canterbury
+permalink: /archive/2017/07/13/two-uc-student-teams-win-prestigious-it-awards/index.html
+layout: layout.njk
 ---
 Two UC student teams win prestigious IT awards
 ==============================================

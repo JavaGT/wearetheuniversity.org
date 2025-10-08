@@ -1,9 +1,12 @@
 ---
 slug: appeal-court-damns-ministers-pride-and-joy
-title: "Appeal Court Damns Minister's Pride and Joy"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/PA0308/S00001/appeal-court-damns-ministers-pride-and-joy.htm
+title: Appeal Court Damns Minister's Pride and Joy
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00001/appeal-court-damns-ministers-pride-and-joy.htm
 author: act-new-zealand
+permalink: /archive/2003/08/01/appeal-court-damns-ministers-pride-and-joy/index.html
+layout: layout.njk
 ---
 Appeal Court Damns Minister's Pride and Joy
 ===========================================

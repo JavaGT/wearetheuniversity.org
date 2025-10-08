@@ -1,9 +1,15 @@
 ---
-slug: human-prehistory—why-new-discoveries-about-human-origins-open-up-revolutionary-possibilities
-title: "Human Prehistory—Why New Discoveries About Human Origins Open Up Revolutionary Possibilities"
-date: 2022-10-15
-source-url: https://www.scoop.co.nz/stories/SC2210/S00040/human-prehistory-why-new-discoveries-about-human-origins-open-up-revolutionary-possibilities.htm
+slug: >-
+  human-prehistory—why-new-discoveries-about-human-origins-open-up-revolutionary-possibilities
+title: >-
+  Human Prehistory—Why New Discoveries About Human Origins Open Up Revolutionary
+  Possibilities
+date: 2022-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00040/human-prehistory-why-new-discoveries-about-human-origins-open-up-revolutionary-possibilities.htm
 author: independent-media-institute
+permalink: /archive/2022/10/15/human-prehistory/index.html
+layout: layout.njk
 ---
 Human Prehistory—Why New Discoveries About Human Origins Open Up Revolutionary Possibilities
 ============================================================================================

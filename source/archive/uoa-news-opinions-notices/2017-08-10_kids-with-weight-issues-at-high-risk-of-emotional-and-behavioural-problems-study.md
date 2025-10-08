@@ -1,8 +1,15 @@
 ---
-slug: kids-with-weight-issues-at-high-risk-of-emotional-and-behavioural-problems-study
-title: "Kids with weight issues at high risk of emotional and behavioural problems: study"
-date: 2017-08-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/kids-with-weight-issues-at-high-risk-emotional-and-behavioural-problems.html
+slug: >-
+  kids-with-weight-issues-at-high-risk-of-emotional-and-behavioural-problems-study
+title: >-
+  Kids with weight issues at high risk of emotional and behavioural problems:
+  study
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/kids-with-weight-issues-at-high-risk-emotional-and-behavioural-problems.html
+permalink: >-
+  /archive/2017/08/10/kids-with-weight-issues-at-high-risk-of-emotional-and-behavioural-problems-study/index.html
+layout: layout.njk
 ---
 Kids with weight issues at high risk of emotional and behavioural problems: study
 =================================================================================

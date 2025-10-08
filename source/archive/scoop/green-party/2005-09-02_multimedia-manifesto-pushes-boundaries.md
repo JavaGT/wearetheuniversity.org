@@ -1,9 +1,12 @@
 ---
 slug: multimedia-manifesto-pushes-boundaries
-title: "Multimedia manifesto pushes boundaries"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00062/multimedia-manifesto-pushes-boundaries.htm
+title: Multimedia manifesto pushes boundaries
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00062/multimedia-manifesto-pushes-boundaries.htm
 author: green-party
+permalink: /archive/2005/09/02/multimedia-manifesto-pushes-boundaries/index.html
+layout: layout.njk
 ---
 Multimedia manifesto pushes boundaries
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: computer-science-machine-learning-guru-becomes-professor
-title: "Computer Science machine learning guru becomes professor"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/ED1502/S00043/computer-science-machine-learning-guru-becomes-professor.htm
+title: Computer Science machine learning guru becomes professor
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00043/computer-science-machine-learning-guru-becomes-professor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/12/computer-science-machine-learning-guru-becomes-professor/index.html
+layout: layout.njk
 ---
 Computer Science machine learning guru becomes professor
 ========================================================

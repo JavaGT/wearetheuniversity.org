@@ -1,9 +1,13 @@
 ---
 slug: nationals-dirty-politics-hurts-everyday-new-zealanders
-title: "National's dirty politics hurts everyday New Zealanders"
-date: 2014-08-31
-source-url: https://www.scoop.co.nz/stories/PA1408/S00463/nationals-dirty-politics-hurts-everyday-new-zealanders.htm
+title: National's dirty politics hurts everyday New Zealanders
+date: 2014-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00463/nationals-dirty-politics-hurts-everyday-new-zealanders.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/31/nationals-dirty-politics-hurts-everyday-new-zealanders/index.html
+layout: layout.njk
 ---
 National's dirty politics hurts everyday New Zealanders
 =======================================================

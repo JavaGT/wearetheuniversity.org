@@ -1,9 +1,13 @@
 ---
 slug: green-party-will-guarantee-every-student-an-allowance-of-$385-per-week
-title: "Green Party Will Guarantee Every Student An Allowance Of $385 Per Week"
-date: 2023-10-02
-source-url: https://www.scoop.co.nz/stories/PA2310/S00012/green-party-will-guarantee-every-student-an-allowance-of-385-per-week.htm
+title: Green Party Will Guarantee Every Student An Allowance Of $385 Per Week
+date: 2023-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00012/green-party-will-guarantee-every-student-an-allowance-of-385-per-week.htm
 author: green-party
+permalink: >-
+  /archive/2023/10/02/green-party-will-guarantee-every-student-an-allowance-of-/index.html
+layout: layout.njk
 ---
 Green Party Will Guarantee Every Student An Allowance Of $385 Per Week
 ======================================================================

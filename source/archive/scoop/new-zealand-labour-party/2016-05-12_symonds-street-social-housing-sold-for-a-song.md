@@ -1,9 +1,12 @@
 ---
 slug: symonds-street-social-housing-sold-for-a-song
-title: "Symonds Street social housing sold for a song"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/PA1605/S00207/symonds-street-social-housing-sold-for-a-song.htm
+title: Symonds Street social housing sold for a song
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00207/symonds-street-social-housing-sold-for-a-song.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/12/symonds-street-social-housing-sold-for-a-song/index.html
+layout: layout.njk
 ---
 Symonds Street social housing sold for a song
 =============================================

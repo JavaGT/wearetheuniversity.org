@@ -1,9 +1,13 @@
 ---
 slug: uc-students-win-tertiary-engineering-design-competition
-title: "UC students win tertiary engineering design competition"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/ED1309/S00166/uc-students-win-tertiary-engineering-design-competition.htm
+title: UC students win tertiary engineering design competition
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00166/uc-students-win-tertiary-engineering-design-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/30/uc-students-win-tertiary-engineering-design-competition/index.html
+layout: layout.njk
 ---
 UC students win tertiary engineering design competition
 =======================================================

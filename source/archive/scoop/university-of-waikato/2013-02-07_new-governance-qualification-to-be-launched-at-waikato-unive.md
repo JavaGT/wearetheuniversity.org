@@ -1,9 +1,13 @@
 ---
 slug: new-governance-qualification-to-be-launched-at-waikato-unive
-title: "New governance qualification to be launched at Waikato Unive"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/ED1302/S00033/new-governance-qualification-to-be-launched-at-waikato-unive.htm
+title: New governance qualification to be launched at Waikato Unive
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00033/new-governance-qualification-to-be-launched-at-waikato-unive.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/02/07/new-governance-qualification-to-be-launched-at-waikato-unive/index.html
+layout: layout.njk
 ---
 New governance qualification to be launched at Waikato Unive
 ============================================================

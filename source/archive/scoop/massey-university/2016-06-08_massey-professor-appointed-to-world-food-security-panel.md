@@ -1,9 +1,13 @@
 ---
 slug: massey-professor-appointed-to-world-food-security-panel
-title: "Massey professor appointed to World Food Security panel"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/SC1606/S00016/massey-professor-appointed-to-world-food-security-panel.htm
+title: Massey professor appointed to World Food Security panel
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00016/massey-professor-appointed-to-world-food-security-panel.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/08/massey-professor-appointed-to-world-food-security-panel/index.html
+layout: layout.njk
 ---
 Massey professor appointed to World Food Security panel
 =======================================================

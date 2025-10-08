@@ -1,9 +1,12 @@
 ---
 slug: labour-attempts-to-spin-co-governance
-title: "Labour Attempts To Spin Co-governance"
-date: 2023-04-14
-source-url: https://www.scoop.co.nz/stories/PA2304/S00080/labour-attempts-to-spin-co-governance.htm
+title: Labour Attempts To Spin Co-governance
+date: 2023-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00080/labour-attempts-to-spin-co-governance.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/14/labour-attempts-to-spin-co-governance/index.html
+layout: layout.njk
 ---
 Labour Attempts To Spin Co-governance
 =====================================

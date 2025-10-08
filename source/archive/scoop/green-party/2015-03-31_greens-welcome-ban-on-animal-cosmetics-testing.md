@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-ban-on-animal-cosmetics-testing
-title: "Greens welcome ban on animal  cosmetics testing"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/PA1503/S00454/greens-welcome-ban-on-animal-cosmetics-testing.htm
+title: Greens welcome ban on animal  cosmetics testing
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00454/greens-welcome-ban-on-animal-cosmetics-testing.htm
 author: green-party
+permalink: /archive/2015/03/31/greens-welcome-ban-on-animal-cosmetics-testing/index.html
+layout: layout.njk
 ---
 Greens welcome ban on animal cosmetics testing
 ==============================================

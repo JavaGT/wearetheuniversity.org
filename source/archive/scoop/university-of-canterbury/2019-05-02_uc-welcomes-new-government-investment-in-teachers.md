@@ -1,9 +1,13 @@
 ---
 slug: uc-welcomes-new-government-investment-in-teachers
-title: "UC welcomes new government investment in teachers"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/ED1905/S00010/uc-welcomes-new-government-investment-in-teachers.htm
+title: UC welcomes new government investment in teachers
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00010/uc-welcomes-new-government-investment-in-teachers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/02/uc-welcomes-new-government-investment-in-teachers/index.html
+layout: layout.njk
 ---
 UC welcomes new government investment in teachers
 =================================================

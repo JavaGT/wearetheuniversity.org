@@ -1,9 +1,12 @@
 ---
 slug: mp-welcomes-students-association-protest
-title: "MP Welcomes Students' Association Protest"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/PA1012/S00020/mp-welcomes-students-association-protest.htm
+title: MP Welcomes Students' Association Protest
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00020/mp-welcomes-students-association-protest.htm
 author: act-new-zealand
+permalink: /archive/2010/12/01/mp-welcomes-students-association-protest/index.html
+layout: layout.njk
 ---
 MP Welcomes Students' Association Protest
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: search-for-et-comes-to-auckland
-title: "Search for ET comes to Auckland"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/ED0606/S00080/search-for-et-comes-to-auckland.htm
+title: Search for ET comes to Auckland
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00080/search-for-et-comes-to-auckland.htm
 author: aut-university
+permalink: /archive/2006/06/29/search-for-et-comes-to-auckland/index.html
+layout: layout.njk
 ---
 Search for ET comes to Auckland
 ===============================

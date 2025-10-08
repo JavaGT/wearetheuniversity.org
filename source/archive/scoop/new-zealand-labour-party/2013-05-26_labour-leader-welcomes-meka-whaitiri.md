@@ -1,9 +1,12 @@
 ---
 slug: labour-leader-welcomes-meka-whaitiri
-title: "Labour Leader welcomes Meka Whaitiri"
-date: 2013-05-26
-source-url: https://www.scoop.co.nz/stories/PA1305/S00510/labour-leader-welcomes-meka-whaitiri.htm
+title: Labour Leader welcomes Meka Whaitiri
+date: 2013-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00510/labour-leader-welcomes-meka-whaitiri.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/26/labour-leader-welcomes-meka-whaitiri/index.html
+layout: layout.njk
 ---
 Labour Leader welcomes Meka Whaitiri
 ====================================

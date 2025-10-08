@@ -1,9 +1,11 @@
 ---
 slug: the-future-of-the-commons
-title: "The Future of the Commons"
-date: 2011-07-22
+title: The Future of the Commons
+date: 2011-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1107/S00249/the-future-of-the-commons.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/07/22/the-future-of-the-commons/index.html
+layout: layout.njk
 ---
 The Future of the Commons
 =========================

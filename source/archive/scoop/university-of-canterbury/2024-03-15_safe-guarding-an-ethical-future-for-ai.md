@@ -1,9 +1,12 @@
 ---
 slug: safe-guarding-an-ethical-future-for-ai
-title: "Safe-guarding An Ethical Future For AI"
-date: 2024-03-15
-source-url: https://www.scoop.co.nz/stories/ED2403/S00022/safe-guarding-an-ethical-future-for-ai.htm
+title: Safe-guarding An Ethical Future For AI
+date: 2024-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00022/safe-guarding-an-ethical-future-for-ai.htm
 author: university-of-canterbury
+permalink: /archive/2024/03/15/safe-guarding-an-ethical-future-for-ai/index.html
+layout: layout.njk
 ---
 Safe-guarding An Ethical Future For AI
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-opening-of-new-buildings-at-tomarata-school
-title: "Speech: Peters - Opening of New Buildings at Tomarata School"
-date: 2017-08-25
-source-url: https://www.scoop.co.nz/stories/PA1708/S00473/speech-peters-opening-of-new-buildings-at-tomarata-school.htm
+title: 'Speech: Peters - Opening of New Buildings at Tomarata School'
+date: 2017-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00473/speech-peters-opening-of-new-buildings-at-tomarata-school.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/25/speech-peters-opening-of-new-buildings-at-tomarata-school/index.html
+layout: layout.njk
 ---
 Speech: Peters - Opening of New Buildings at Tomarata School
 ============================================================

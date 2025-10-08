@@ -1,9 +1,13 @@
 ---
 slug: scientists-address-climate-change-at-marine-conf
-title: "Scientists address climate change at marine conf"
-date: 2007-08-20
-source-url: https://www.scoop.co.nz/stories/SC0708/S00051/scientists-address-climate-change-at-marine-conf.htm
+title: Scientists address climate change at marine conf
+date: 2007-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0708/S00051/scientists-address-climate-change-at-marine-conf.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/08/20/scientists-address-climate-change-at-marine-conf/index.html
+layout: layout.njk
 ---
 Scientists address climate change at marine conf
 ================================================

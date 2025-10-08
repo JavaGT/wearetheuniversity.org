@@ -1,9 +1,13 @@
 ---
 slug: quick-commercial-response-to-university-research
-title: "Quick commercial response to University research."
-date: 2004-12-29
-source-url: https://www.scoop.co.nz/stories/ED0412/S00083/quick-commercial-response-to-university-research.htm
+title: Quick commercial response to University research.
+date: 2004-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00083/quick-commercial-response-to-university-research.htm
 author: lincoln-university
+permalink: >-
+  /archive/2004/12/29/quick-commercial-response-to-university-research/index.html
+layout: layout.njk
 ---
 Quick commercial response to University research.
 =================================================

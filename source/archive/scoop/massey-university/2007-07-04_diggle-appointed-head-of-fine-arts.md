@@ -1,9 +1,12 @@
 ---
 slug: diggle-appointed-head-of-fine-arts
-title: "Diggle appointed Head of Fine Arts"
-date: 2007-07-04
-source-url: https://www.scoop.co.nz/stories/ED0707/S00019/diggle-appointed-head-of-fine-arts.htm
+title: Diggle appointed Head of Fine Arts
+date: 2007-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00019/diggle-appointed-head-of-fine-arts.htm
 author: massey-university
+permalink: /archive/2007/07/04/diggle-appointed-head-of-fine-arts/index.html
+layout: layout.njk
 ---
 Diggle appointed Head of Fine Arts
 ==================================

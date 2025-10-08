@@ -1,9 +1,13 @@
 ---
 slug: treasury-documents-reveal-scepticism-of-charter-schools
-title: "Treasury documents reveal scepticism of charter schools"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/ED1212/S00136/treasury-documents-reveal-scepticism-of-charter-schools.htm
+title: Treasury documents reveal scepticism of charter schools
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00136/treasury-documents-reveal-scepticism-of-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/21/treasury-documents-reveal-scepticism-of-charter-schools/index.html
+layout: layout.njk
 ---
 Treasury documents reveal scepticism of charter schools
 =======================================================

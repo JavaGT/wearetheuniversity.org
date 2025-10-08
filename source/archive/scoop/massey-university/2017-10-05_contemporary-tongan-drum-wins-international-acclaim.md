@@ -1,9 +1,13 @@
 ---
 slug: contemporary-tongan-drum-wins-international-acclaim
-title: "Contemporary Tongan drum wins international acclaim"
-date: 2017-10-05
-source-url: https://www.scoop.co.nz/stories/CU1710/S00104/contemporary-tongan-drum-wins-international-acclaim.htm
+title: Contemporary Tongan drum wins international acclaim
+date: 2017-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00104/contemporary-tongan-drum-wins-international-acclaim.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/05/contemporary-tongan-drum-wins-international-acclaim/index.html
+layout: layout.njk
 ---
 Contemporary Tongan drum wins international acclaim
 ===================================================

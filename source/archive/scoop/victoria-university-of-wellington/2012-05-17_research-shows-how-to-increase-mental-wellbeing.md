@@ -1,9 +1,12 @@
 ---
 slug: research-shows-how-to-increase-mental-wellbeing
-title: "Research shows how to increase mental wellbeing"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/CU1205/S00226/research-shows-how-to-increase-mental-wellbeing.htm
+title: Research shows how to increase mental wellbeing
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1205/S00226/research-shows-how-to-increase-mental-wellbeing.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/05/17/research-shows-how-to-increase-mental-wellbeing/index.html
+layout: layout.njk
 ---
 Research shows how to increase mental wellbeing
 ===============================================

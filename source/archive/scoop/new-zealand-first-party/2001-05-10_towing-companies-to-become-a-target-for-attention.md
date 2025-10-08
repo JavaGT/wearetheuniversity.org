@@ -1,9 +1,13 @@
 ---
 slug: towing-companies-to-become-a-target-for-attention
-title: "Towing Companies To Become A Target For Attention"
-date: 2001-05-10
-source-url: https://www.scoop.co.nz/stories/PA0105/S00235/towing-companies-to-become-a-target-for-attention.htm
+title: Towing Companies To Become A Target For Attention
+date: 2001-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00235/towing-companies-to-become-a-target-for-attention.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2001/05/10/towing-companies-to-become-a-target-for-attention/index.html
+layout: layout.njk
 ---
 Towing Companies To Become A Target For Attention
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-urges-restraint-in-government-spending
-title: "Cosgrove Urges Restraint In Government Spending"
-date: 2000-01-28
-source-url: https://www.scoop.co.nz/stories/PA0001/S00145/cosgrove-urges-restraint-in-government-spending.htm
+title: Cosgrove Urges Restraint In Government Spending
+date: 2000-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00145/cosgrove-urges-restraint-in-government-spending.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/01/28/cosgrove-urges-restraint-in-government-spending/index.html
+layout: layout.njk
 ---
 Cosgrove Urges Restraint In Government Spending
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: students-invention-harvests-energy-from-earthquakes
-title: "Student’s invention harvests energy from earthquakes"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/SC1211/S00069/students-invention-harvests-energy-from-earthquakes.htm
+title: Student’s invention harvests energy from earthquakes
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00069/students-invention-harvests-energy-from-earthquakes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/11/23/students-invention-harvests-energy-from-earthquakes/index.html
+layout: layout.njk
 ---
 Student’s invention harvests energy from earthquakes
 ====================================================

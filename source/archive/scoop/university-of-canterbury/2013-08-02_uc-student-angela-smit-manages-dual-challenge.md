@@ -1,9 +1,12 @@
 ---
 slug: uc-student-angela-smit-manages-dual-challenge
-title: "UC student Angela Smit manages dual challenge"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/SP1308/S00003/uc-student-angela-smit-manages-dual-challenge.htm
+title: UC student Angela Smit manages dual challenge
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1308/S00003/uc-student-angela-smit-manages-dual-challenge.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/02/uc-student-angela-smit-manages-dual-challenge/index.html
+layout: layout.njk
 ---
 UC student Angela Smit manages dual challenge
 =============================================

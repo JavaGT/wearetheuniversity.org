@@ -1,9 +1,13 @@
 ---
 slug: arrogant-banks-shows-contempt-for-democratic-process
-title: "Arrogant Banks shows contempt for democratic process"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/PA1303/S00015/arrogant-banks-shows-contempt-for-democratic-process.htm
+title: Arrogant Banks shows contempt for democratic process
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00015/arrogant-banks-shows-contempt-for-democratic-process.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/01/arrogant-banks-shows-contempt-for-democratic-process/index.html
+layout: layout.njk
 ---
 Arrogant Banks shows contempt for democratic process
 ====================================================

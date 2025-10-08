@@ -1,9 +1,13 @@
 ---
 slug: mayor-receives-special-victoria-university-award
-title: "Mayor Receives Special Victoria University Award"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/AK0911/S00487/mayor-receives-special-victoria-university-award.htm
+title: Mayor Receives Special Victoria University Award
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0911/S00487/mayor-receives-special-victoria-university-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/11/30/mayor-receives-special-victoria-university-award/index.html
+layout: layout.njk
 ---
 Mayor Receives Special Victoria University Award
 ================================================

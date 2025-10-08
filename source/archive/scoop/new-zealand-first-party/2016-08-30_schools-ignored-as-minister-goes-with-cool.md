@@ -1,9 +1,12 @@
 ---
 slug: schools-ignored-as-minister-goes-with-cool
-title: "Schools Ignored as Minister Goes with COOL"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/PA1608/S00527/schools-ignored-as-minister-goes-with-cool.htm
+title: Schools Ignored as Minister Goes with COOL
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00527/schools-ignored-as-minister-goes-with-cool.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/30/schools-ignored-as-minister-goes-with-cool/index.html
+layout: layout.njk
 ---
 Schools Ignored as Minister Goes with COOL
 ==========================================

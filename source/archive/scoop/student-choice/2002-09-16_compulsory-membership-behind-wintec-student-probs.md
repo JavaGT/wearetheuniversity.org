@@ -1,9 +1,13 @@
 ---
 slug: compulsory-membership-behind-wintec-student-probs
-title: "Compulsory membership behind WINTEC student probs"
-date: 2002-09-16
-source-url: https://www.scoop.co.nz/stories/ED0209/S00027/compulsory-membership-behind-wintec-student-probs.htm
+title: Compulsory membership behind WINTEC student probs
+date: 2002-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00027/compulsory-membership-behind-wintec-student-probs.htm
 author: student-choice
+permalink: >-
+  /archive/2002/09/16/compulsory-membership-behind-wintec-student-probs/index.html
+layout: layout.njk
 ---
 Compulsory membership behind WINTEC student probs
 =================================================

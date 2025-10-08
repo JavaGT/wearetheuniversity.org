@@ -1,9 +1,13 @@
 ---
 slug: language-revival-expert-calls-for-native-tongue-title
-title: "Language revival expert calls for native tongue title"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/CU1208/S00480/language-revival-expert-calls-for-native-tongue-title.htm
+title: Language revival expert calls for native tongue title
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00480/language-revival-expert-calls-for-native-tongue-title.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/08/28/language-revival-expert-calls-for-native-tongue-title/index.html
+layout: layout.njk
 ---
 Language revival expert calls for native tongue title
 =====================================================

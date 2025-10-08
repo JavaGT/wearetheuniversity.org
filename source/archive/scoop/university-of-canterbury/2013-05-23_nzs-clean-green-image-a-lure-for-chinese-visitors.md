@@ -1,9 +1,13 @@
 ---
 slug: nzs-clean-green-image-a-lure-for-chinese-visitors
-title: "NZ’s Clean Green Image a Lure For Chinese Visitors"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/AK1305/S00496/nzs-clean-green-image-a-lure-for-chinese-visitors.htm
+title: NZ’s Clean Green Image a Lure For Chinese Visitors
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00496/nzs-clean-green-image-a-lure-for-chinese-visitors.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/23/nzs-clean-green-image-a-lure-for-chinese-visitors/index.html
+layout: layout.njk
 ---
 NZ’s Clean Green Image a Lure For Chinese Visitors
 ==================================================

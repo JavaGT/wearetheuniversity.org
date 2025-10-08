@@ -1,9 +1,12 @@
 ---
 slug: flavell-education-(polytechnics)-amendment-bill
-title: "Flavell: Education (Polytechnics) Amendment Bill"
-date: 2009-12-17
-source-url: https://www.scoop.co.nz/stories/PA0912/S00313/flavell-education-polytechnics-amendment-bill.htm
+title: 'Flavell: Education (Polytechnics) Amendment Bill'
+date: 2009-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00313/flavell-education-polytechnics-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/12/17/flavell-education-/index.html
+layout: layout.njk
 ---
 Flavell: Education (Polytechnics) Amendment Bill
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-want-rivers-we-can-swim-in-not-get-sick-in
-title: "New Zealanders want rivers we can swim in, not get sick in"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00413/new-zealanders-want-rivers-we-can-swim-in-not-get-sick-in.htm
+title: New Zealanders want rivers we can swim in, not get sick in
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00413/new-zealanders-want-rivers-we-can-swim-in-not-get-sick-in.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/22/new-zealanders-want-rivers-we-can-swim-in-not-get-sick-in/index.html
+layout: layout.njk
 ---
 New Zealanders want rivers we can swim in, not get sick in
 ==========================================================

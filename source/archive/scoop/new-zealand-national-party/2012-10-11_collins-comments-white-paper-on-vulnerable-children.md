@@ -1,9 +1,13 @@
 ---
 slug: collins-comments-white-paper-on-vulnerable-children
-title: "Collins Comments: White Paper on Vulnerable Children"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PA1210/S00204/collins-comments-white-paper-on-vulnerable-children.htm
+title: 'Collins Comments: White Paper on Vulnerable Children'
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00204/collins-comments-white-paper-on-vulnerable-children.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2012/10/11/collins-comments-white-paper-on-vulnerable-children/index.html
+layout: layout.njk
 ---
 Collins Comments: White Paper on Vulnerable Children
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: families-turn-out-for-university-earth-trail
-title: "Families turn out for university earth trail"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/ED0903/S00002/families-turn-out-for-university-earth-trail.htm
+title: Families turn out for university earth trail
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00002/families-turn-out-for-university-earth-trail.htm
 author: university-of-waikato
+permalink: /archive/2009/03/02/families-turn-out-for-university-earth-trail/index.html
+layout: layout.njk
 ---
 Families turn out for university earth trail
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: craig-foss-no-care-no-responsibility
-title: "Craig Foss: no care, no responsibility"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/PA1210/S00531/craig-foss-no-care-no-responsibility.htm
+title: 'Craig Foss: no care, no responsibility'
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00531/craig-foss-no-care-no-responsibility.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/31/craig-foss-no-care-no-responsibility/index.html
+layout: layout.njk
 ---
 Craig Foss: no care, no responsibility
 ======================================

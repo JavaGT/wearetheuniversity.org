@@ -1,9 +1,12 @@
 ---
 slug: invermay-changes-could-lose-money
-title: "Invermay changes could lose money"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/PA1403/S00122/invermay-changes-could-lose-money.htm
+title: Invermay changes could lose money
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00122/invermay-changes-could-lose-money.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/07/invermay-changes-could-lose-money/index.html
+layout: layout.njk
 ---
 Invermay changes could lose money
 =================================

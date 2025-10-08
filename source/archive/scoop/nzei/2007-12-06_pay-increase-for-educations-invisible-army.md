@@ -1,9 +1,12 @@
 ---
 slug: pay-increase-for-educations-invisible-army
-title: "Pay Increase for Education’s Invisible Army"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/ED0712/S00027/pay-increase-for-educations-invisible-army.htm
+title: Pay Increase for Education’s Invisible Army
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00027/pay-increase-for-educations-invisible-army.htm
 author: nzei
+permalink: /archive/2007/12/06/pay-increase-for-educations-invisible-army/index.html
+layout: layout.njk
 ---
 Pay Increase for Education’s Invisible Army
 ===========================================

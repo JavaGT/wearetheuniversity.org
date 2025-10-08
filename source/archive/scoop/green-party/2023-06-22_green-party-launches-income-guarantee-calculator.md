@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-income-guarantee-calculator
-title: "Green Party Launches Income Guarantee Calculator"
-date: 2023-06-22
-source-url: https://www.scoop.co.nz/stories/PA2306/S00149/green-party-launches-income-guarantee-calculator.htm
+title: Green Party Launches Income Guarantee Calculator
+date: 2023-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00149/green-party-launches-income-guarantee-calculator.htm
 author: green-party
+permalink: >-
+  /archive/2023/06/22/green-party-launches-income-guarantee-calculator/index.html
+layout: layout.njk
 ---
 Green Party Launches Income Guarantee Calculator
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: avondale-colleges-website-initiative-is-great
-title: "Avondale College's website initiative is great"
-date: 2006-02-13
-source-url: https://www.scoop.co.nz/stories/ED0602/S00029/avondale-colleges-website-initiative-is-great.htm
+title: Avondale College's website initiative is great
+date: 2006-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00029/avondale-colleges-website-initiative-is-great.htm
 author: maxim-institute
+permalink: /archive/2006/02/13/avondale-colleges-website-initiative-is-great/index.html
+layout: layout.njk
 ---
 Avondale College's website initiative is great
 ==============================================

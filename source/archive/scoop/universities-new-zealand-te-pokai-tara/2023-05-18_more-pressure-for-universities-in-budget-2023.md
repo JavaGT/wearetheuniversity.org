@@ -1,9 +1,12 @@
 ---
 slug: more-pressure-for-universities-in-budget-2023
-title: "More Pressure For Universities In Budget 2023"
-date: 2023-05-18
-source-url: https://www.scoop.co.nz/stories/PO2305/S00126/more-pressure-for-universities-in-budget-2023.htm
+title: More Pressure For Universities In Budget 2023
+date: 2023-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00126/more-pressure-for-universities-in-budget-2023.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2023/05/18/more-pressure-for-universities-in-budget-2023/index.html
+layout: layout.njk
 ---
 More Pressure For Universities In Budget 2023
 =============================================

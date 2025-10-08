@@ -1,9 +1,12 @@
 ---
 slug: ibm-grant-to-aut-boosts-ska-bid
-title: "IBM Grant To AUT Boosts SKA Bid"
-date: 2009-05-19
-source-url: https://www.scoop.co.nz/stories/ED0905/S00078/ibm-grant-to-aut-boosts-ska-bid.htm
+title: IBM Grant To AUT Boosts SKA Bid
+date: 2009-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00078/ibm-grant-to-aut-boosts-ska-bid.htm
 author: aut-university
+permalink: /archive/2009/05/19/ibm-grant-to-aut-boosts-ska-bid/index.html
+layout: layout.njk
 ---
 IBM Grant To AUT Boosts SKA Bid
 ===============================

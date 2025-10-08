@@ -1,9 +1,12 @@
 ---
 slug: polytechnic-meca-talks-back-on-track
-title: "Polytechnic MECA Talks  Back on Track"
-date: 2003-11-21
-source-url: https://www.scoop.co.nz/stories/ED0311/S00072/polytechnic-meca-talks-back-on-track.htm
+title: Polytechnic MECA Talks  Back on Track
+date: 2003-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00072/polytechnic-meca-talks-back-on-track.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2003/11/21/polytechnic-meca-talks-back-on-track/index.html
+layout: layout.njk
 ---
 Polytechnic MECA Talks Back on Track
 ====================================

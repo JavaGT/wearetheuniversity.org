@@ -1,9 +1,12 @@
 ---
 slug: youth-crime-package-is-more-window-dressing
-title: "Youth Crime Package Is More Window Dressing"
-date: 2022-09-06
-source-url: https://www.scoop.co.nz/stories/PA2209/S00028/youth-crime-package-is-more-window-dressing.htm
+title: Youth Crime Package Is More Window Dressing
+date: 2022-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00028/youth-crime-package-is-more-window-dressing.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/06/youth-crime-package-is-more-window-dressing/index.html
+layout: layout.njk
 ---
 Youth Crime Package Is More Window Dressing
 ===========================================

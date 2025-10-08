@@ -1,9 +1,13 @@
 ---
 slug: new-detection-system-revolutionises-water-quality-tests
-title: "New detection system revolutionises water quality tests"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/SC1703/S00024/new-detection-system-revolutionises-water-quality-tests.htm
+title: New detection system revolutionises water quality tests
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00024/new-detection-system-revolutionises-water-quality-tests.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/09/new-detection-system-revolutionises-water-quality-tests/index.html
+layout: layout.njk
 ---
 New detection system revolutionises water quality tests
 =======================================================

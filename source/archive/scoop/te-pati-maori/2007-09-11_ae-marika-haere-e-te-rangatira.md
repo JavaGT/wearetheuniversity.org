@@ -1,9 +1,12 @@
 ---
 slug: ae-marika-haere-e-te-rangatira
-title: "Ae Marika: Haere e te Rangatira"
-date: 2007-09-11
-source-url: https://www.scoop.co.nz/stories/PA0709/S00161/ae-marika-haere-e-te-rangatira.htm
+title: 'Ae Marika: Haere e te Rangatira'
+date: 2007-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00161/ae-marika-haere-e-te-rangatira.htm
 author: te-pati-maori
+permalink: /archive/2007/09/11/ae-marika-haere-e-te-rangatira/index.html
+layout: layout.njk
 ---
 Ae Marika: Haere e te Rangatira
 ===============================

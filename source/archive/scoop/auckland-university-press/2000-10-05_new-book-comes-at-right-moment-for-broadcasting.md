@@ -1,9 +1,12 @@
 ---
 slug: new-book-comes-at-right-moment-for-broadcasting
-title: "New book comes at right moment for broadcasting"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/CU0010/S00012/new-book-comes-at-right-moment-for-broadcasting.htm
+title: New book comes at right moment for broadcasting
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0010/S00012/new-book-comes-at-right-moment-for-broadcasting.htm
 author: auckland-university-press
+permalink: /archive/2000/10/05/new-book-comes-at-right-moment-for-broadcasting/index.html
+layout: layout.njk
 ---
 New book comes at right moment for broadcasting
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-select-committee-inquiry
-title: "Greens call for Select Committee inquiry"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00038/greens-call-for-select-committee-inquiry.htm
+title: Greens call for Select Committee inquiry
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00038/greens-call-for-select-committee-inquiry.htm
 author: green-party
+permalink: /archive/2015/07/02/greens-call-for-select-committee-inquiry/index.html
+layout: layout.njk
 ---
 Greens call for Select Committee inquiry
 ========================================

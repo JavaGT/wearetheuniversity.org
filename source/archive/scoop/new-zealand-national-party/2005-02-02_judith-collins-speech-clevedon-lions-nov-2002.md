@@ -1,9 +1,12 @@
 ---
 slug: judith-collins-speech-clevedon-lions-nov-2002
-title: "Judith Collins Speech -Clevedon Lions Nov 2002"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/PA0502/S00042/judith-collins-speech-clevedon-lions-nov-2002.htm
+title: Judith Collins Speech -Clevedon Lions Nov 2002
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00042/judith-collins-speech-clevedon-lions-nov-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/02/judith-collins-speech-clevedon-lions-nov-2002/index.html
+layout: layout.njk
 ---
 Judith Collins Speech -Clevedon Lions Nov 2002
 ==============================================

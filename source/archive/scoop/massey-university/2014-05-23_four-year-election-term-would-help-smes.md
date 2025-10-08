@@ -1,9 +1,12 @@
 ---
 slug: four-year-election-term-would-help-smes
-title: "Four-year election term would help SMEs"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/BU1405/S00859/four-year-election-term-would-help-smes.htm
+title: Four-year election term would help SMEs
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00859/four-year-election-term-would-help-smes.htm
 author: massey-university
+permalink: /archive/2014/05/23/four-year-election-term-would-help-smes/index.html
+layout: layout.njk
 ---
 Four-year election term would help SMEs
 =======================================

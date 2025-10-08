@@ -1,9 +1,13 @@
 ---
 slug: treasury-documents-show-charter-schools-plan-must-be-dumped
-title: "Treasury documents show charter schools plan must be dumped"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/PA1212/S00400/treasury-documents-show-charter-schools-plan-must-be-dumped.htm
+title: Treasury documents show charter schools plan must be dumped
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00400/treasury-documents-show-charter-schools-plan-must-be-dumped.htm
 author: green-party
+permalink: >-
+  /archive/2012/12/21/treasury-documents-show-charter-schools-plan-must-be-dumped/index.html
+layout: layout.njk
 ---
 Treasury documents show charter schools plan must be dumped
 ===========================================================

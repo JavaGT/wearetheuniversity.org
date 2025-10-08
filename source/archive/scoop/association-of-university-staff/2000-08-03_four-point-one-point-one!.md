@@ -1,9 +1,11 @@
 ---
 slug: four-point-one-point-one!
-title: "'Four point one point one!'"
-date: 2000-08-03
+title: '''Four point one point one!'''
+date: 2000-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0008/S00008/four-point-one-point-one.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/03/four-point-one-point-one/index.html
+layout: layout.njk
 ---
 'Four point one point one!'
 ===========================

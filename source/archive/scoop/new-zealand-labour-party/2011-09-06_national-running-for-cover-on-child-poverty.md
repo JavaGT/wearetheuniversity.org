@@ -1,9 +1,12 @@
 ---
 slug: national-running-for-cover-on-child-poverty
-title: "National running for cover on child poverty"
-date: 2011-09-06
-source-url: https://www.scoop.co.nz/stories/PA1109/S00105/national-running-for-cover-on-child-poverty.htm
+title: National running for cover on child poverty
+date: 2011-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00105/national-running-for-cover-on-child-poverty.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/06/national-running-for-cover-on-child-poverty/index.html
+layout: layout.njk
 ---
 National running for cover on child poverty
 ===========================================

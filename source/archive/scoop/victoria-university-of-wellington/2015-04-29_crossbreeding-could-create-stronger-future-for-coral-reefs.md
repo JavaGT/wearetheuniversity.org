@@ -1,9 +1,13 @@
 ---
 slug: crossbreeding-could-create-stronger-future-for-coral-reefs
-title: "Crossbreeding could create stronger future for coral reefs"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/SC1504/S00084/crossbreeding-could-create-stronger-future-for-coral-reefs.htm
+title: Crossbreeding could create stronger future for coral reefs
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00084/crossbreeding-could-create-stronger-future-for-coral-reefs.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/04/29/crossbreeding-could-create-stronger-future-for-coral-reefs/index.html
+layout: layout.njk
 ---
 Crossbreeding could create stronger future for coral reefs
 ==========================================================

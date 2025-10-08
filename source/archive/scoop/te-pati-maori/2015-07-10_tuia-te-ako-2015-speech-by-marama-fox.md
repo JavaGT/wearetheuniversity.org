@@ -1,9 +1,12 @@
 ---
 slug: tuia-te-ako-2015-speech-by-marama-fox
-title: "Tuia Te Ako 2015 - Speech by Marama Fox"
-date: 2015-07-10
-source-url: https://www.scoop.co.nz/stories/PA1507/S00194/tuia-te-ako-2015-speech-by-marama-fox.htm
+title: Tuia Te Ako 2015 - Speech by Marama Fox
+date: 2015-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00194/tuia-te-ako-2015-speech-by-marama-fox.htm
 author: te-pati-maori
+permalink: /archive/2015/07/10/tuia-te-ako-2015-speech-by-marama-fox/index.html
+layout: layout.njk
 ---
 Tuia Te Ako 2015 - Speech by Marama Fox
 =======================================

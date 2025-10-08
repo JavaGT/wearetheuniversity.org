@@ -1,9 +1,13 @@
 ---
 slug: former-pm-and-chancellor-accepts-an-honorary-doctorate
-title: "Former PM and Chancellor accepts an honorary doctorate"
-date: 2019-12-11
-source-url: https://www.scoop.co.nz/stories/ED1912/S00032/former-pm-and-chancellor-accepts-an-honorary-doctorate.htm
+title: Former PM and Chancellor accepts an honorary doctorate
+date: 2019-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00032/former-pm-and-chancellor-accepts-an-honorary-doctorate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/12/11/former-pm-and-chancellor-accepts-an-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Former PM and Chancellor accepts an honorary doctorate
 ======================================================

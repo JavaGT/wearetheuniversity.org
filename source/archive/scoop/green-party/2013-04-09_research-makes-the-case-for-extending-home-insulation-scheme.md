@@ -1,9 +1,13 @@
 ---
 slug: research-makes-the-case-for-extending-home-insulation-scheme
-title: "Research makes the case for extending home insulation scheme"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/PA1304/S00116/research-makes-the-case-for-extending-home-insulation-scheme.htm
+title: Research makes the case for extending home insulation scheme
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00116/research-makes-the-case-for-extending-home-insulation-scheme.htm
 author: green-party
+permalink: >-
+  /archive/2013/04/09/research-makes-the-case-for-extending-home-insulation-scheme/index.html
+layout: layout.njk
 ---
 Research makes the case for extending home insulation scheme
 ============================================================

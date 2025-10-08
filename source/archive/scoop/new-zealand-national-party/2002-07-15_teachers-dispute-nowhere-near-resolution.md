@@ -1,9 +1,12 @@
 ---
 slug: teachers-dispute-nowhere-near-resolution
-title: "Teachers' Dispute Nowhere Near Resolution"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00364/teachers-dispute-nowhere-near-resolution.htm
+title: Teachers' Dispute Nowhere Near Resolution
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00364/teachers-dispute-nowhere-near-resolution.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/15/teachers-dispute-nowhere-near-resolution/index.html
+layout: layout.njk
 ---
 Teachers' Dispute Nowhere Near Resolution
 =========================================

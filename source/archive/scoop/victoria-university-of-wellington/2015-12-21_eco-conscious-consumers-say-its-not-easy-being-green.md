@@ -1,9 +1,13 @@
 ---
 slug: eco-conscious-consumers-say-its-not-easy-being-green
-title: "Eco-conscious consumers say it’s not easy being green"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/ED1512/S00090/eco-conscious-consumers-say-its-not-easy-being-green.htm
+title: Eco-conscious consumers say it’s not easy being green
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00090/eco-conscious-consumers-say-its-not-easy-being-green.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/12/21/eco-conscious-consumers-say-its-not-easy-being-green/index.html
+layout: layout.njk
 ---
 Eco-conscious consumers say it’s not easy being green
 =====================================================

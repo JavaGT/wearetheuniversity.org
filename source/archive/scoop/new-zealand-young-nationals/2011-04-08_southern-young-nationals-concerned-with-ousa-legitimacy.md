@@ -1,9 +1,13 @@
 ---
 slug: southern-young-nationals-concerned-with-ousa-legitimacy
-title: "Southern Young Nationals \"concerned\" with OUSA legitimacy"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/PO1104/S00111/southern-young-nationals-concerned-with-ousa-legitimacy.htm
+title: Southern Young Nationals "concerned" with OUSA legitimacy
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00111/southern-young-nationals-concerned-with-ousa-legitimacy.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2011/04/08/southern-young-nationals-concerned-with-ousa-legitimacy/index.html
+layout: layout.njk
 ---
 Southern Young Nationals "concerned" with OUSA legitimacy
 =========================================================

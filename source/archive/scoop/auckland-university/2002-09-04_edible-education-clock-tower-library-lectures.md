@@ -1,9 +1,12 @@
 ---
 slug: edible-education-clock-tower-library-lectures
-title: "‘Edible Education’ - Clock Tower Library Lectures"
-date: 2002-09-04
-source-url: https://www.scoop.co.nz/stories/ED0209/S00008/edible-education-clock-tower-library-lectures.htm
+title: ‘Edible Education’ - Clock Tower Library Lectures
+date: 2002-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00008/edible-education-clock-tower-library-lectures.htm
 author: auckland-university
+permalink: /archive/2002/09/04/edible-education-clock-tower-library-lectures/index.html
+layout: layout.njk
 ---
 ‘Edible Education’ - Clock Tower Library Lectures
 =================================================

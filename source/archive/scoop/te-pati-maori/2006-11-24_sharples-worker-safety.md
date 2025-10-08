@@ -1,9 +1,11 @@
 ---
 slug: sharples-worker-safety
-title: "Sharples: Worker Safety"
-date: 2006-11-24
+title: 'Sharples: Worker Safety'
+date: 2006-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00481/sharples-worker-safety.htm
 author: te-pati-maori
+permalink: /archive/2006/11/24/sharples-worker-safety/index.html
+layout: layout.njk
 ---
 Sharples: Worker Safety
 =======================

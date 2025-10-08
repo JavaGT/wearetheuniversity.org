@@ -1,9 +1,13 @@
 ---
 slug: peters-warns-of-more-cook-strait-ferry-chaos-ahead
-title: "Peters Warns of More Cook Strait Ferry Chaos Ahead"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/PA1412/S00006/peters-warns-of-more-cook-strait-ferry-chaos-ahead.htm
+title: Peters Warns of More Cook Strait Ferry Chaos Ahead
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00006/peters-warns-of-more-cook-strait-ferry-chaos-ahead.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/12/01/peters-warns-of-more-cook-strait-ferry-chaos-ahead/index.html
+layout: layout.njk
 ---
 Peters Warns of More Cook Strait Ferry Chaos Ahead
 ==================================================

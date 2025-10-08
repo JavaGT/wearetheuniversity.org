@@ -1,9 +1,12 @@
 ---
 slug: what-would-you-like-to-know-about-the-past
-title: "What would you like to know about the past?"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/ED1303/S00020/what-would-you-like-to-know-about-the-past.htm
+title: What would you like to know about the past?
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00020/what-would-you-like-to-know-about-the-past.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/03/05/what-would-you-like-to-know-about-the-past/index.html
+layout: layout.njk
 ---
 What would you like to know about the past?
 ===========================================

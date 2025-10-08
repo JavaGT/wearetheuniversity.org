@@ -1,9 +1,12 @@
 ---
 slug: licence-case-demands-tougher-stand-by-national
-title: "Licence Case Demands Tougher Stand by National"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/PA1609/S00172/licence-case-demands-tougher-stand-by-national.htm
+title: Licence Case Demands Tougher Stand by National
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00172/licence-case-demands-tougher-stand-by-national.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/09/licence-case-demands-tougher-stand-by-national/index.html
+layout: layout.njk
 ---
 Licence Case Demands Tougher Stand by National
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: hillcrest-high-beats-old-rivals-in-mooting-final
-title: "Hillcrest High Beats Old Rivals In Mooting Final"
-date: 2004-06-04
-source-url: https://www.scoop.co.nz/stories/ED0406/S00022/hillcrest-high-beats-old-rivals-in-mooting-final.htm
+title: Hillcrest High Beats Old Rivals In Mooting Final
+date: 2004-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00022/hillcrest-high-beats-old-rivals-in-mooting-final.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/06/04/hillcrest-high-beats-old-rivals-in-mooting-final/index.html
+layout: layout.njk
 ---
 Hillcrest High Beats Old Rivals In Mooting Final
 ================================================

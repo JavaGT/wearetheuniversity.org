@@ -1,9 +1,12 @@
 ---
 slug: taking-control-of-storm-water
-title: "Taking Control of Storm Water"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/ED0501/S00009/taking-control-of-storm-water.htm
+title: Taking Control of Storm Water
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00009/taking-control-of-storm-water.htm
 author: auckland-university
+permalink: /archive/2005/01/06/taking-control-of-storm-water/index.html
+layout: layout.njk
 ---
 Taking Control of Storm Water
 =============================

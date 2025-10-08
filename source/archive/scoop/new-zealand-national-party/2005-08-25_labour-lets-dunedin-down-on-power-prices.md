@@ -1,9 +1,12 @@
 ---
 slug: labour-lets-dunedin-down-on-power-prices
-title: "Labour lets Dunedin down on power prices"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00647/labour-lets-dunedin-down-on-power-prices.htm
+title: Labour lets Dunedin down on power prices
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00647/labour-lets-dunedin-down-on-power-prices.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/25/labour-lets-dunedin-down-on-power-prices/index.html
+layout: layout.njk
 ---
 Labour lets Dunedin down on power prices
 ========================================

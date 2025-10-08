@@ -1,9 +1,12 @@
 ---
 slug: turning-the-lens-on-māori-language-journalism
-title: "Turning The Lens On Māori-language Journalism"
-date: 2020-06-25
-source-url: https://www.scoop.co.nz/stories/ED2006/S00033/turning-the-lens-on-maori-language-journalism.htm
+title: Turning The Lens On Māori-language Journalism
+date: 2020-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00033/turning-the-lens-on-maori-language-journalism.htm
 author: aut-university
+permalink: /archive/2020/06/25/turning-the-lens-on-m/index.html
+layout: layout.njk
 ---
 Turning The Lens On Māori-language Journalism
 =============================================

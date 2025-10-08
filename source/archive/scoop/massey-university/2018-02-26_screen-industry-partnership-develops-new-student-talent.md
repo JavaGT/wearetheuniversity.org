@@ -1,9 +1,13 @@
 ---
 slug: screen-industry-partnership-develops-new-student-talent
-title: "Screen industry partnership develops new student talent"
-date: 2018-02-26
-source-url: https://www.scoop.co.nz/stories/ED1802/S00060/screen-industry-partnership-develops-new-student-talent.htm
+title: Screen industry partnership develops new student talent
+date: 2018-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00060/screen-industry-partnership-develops-new-student-talent.htm
 author: massey-university
+permalink: >-
+  /archive/2018/02/26/screen-industry-partnership-develops-new-student-talent/index.html
+layout: layout.njk
 ---
 Screen industry partnership develops new student talent
 =======================================================

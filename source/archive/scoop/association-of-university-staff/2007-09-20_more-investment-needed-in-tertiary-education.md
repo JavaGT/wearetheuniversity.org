@@ -1,9 +1,12 @@
 ---
 slug: more-investment-needed-in-tertiary-education
-title: "More investment needed in tertiary education"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/ED0709/S00067/more-investment-needed-in-tertiary-education.htm
+title: More investment needed in tertiary education
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00067/more-investment-needed-in-tertiary-education.htm
 author: association-of-university-staff
+permalink: /archive/2007/09/20/more-investment-needed-in-tertiary-education/index.html
+layout: layout.njk
 ---
 More investment needed in tertiary education
 ============================================

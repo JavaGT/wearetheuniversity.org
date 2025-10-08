@@ -1,9 +1,13 @@
 ---
 slug: voluntary-bonding-scheme-for-rural-gps-not-working
-title: "Voluntary bonding scheme for rural GPs not working"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/PA1211/S00520/voluntary-bonding-scheme-for-rural-gps-not-working.htm
+title: Voluntary bonding scheme for rural GPs not working
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00520/voluntary-bonding-scheme-for-rural-gps-not-working.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/11/30/voluntary-bonding-scheme-for-rural-gps-not-working/index.html
+layout: layout.njk
 ---
 Voluntary bonding scheme for rural GPs not working
 ==================================================

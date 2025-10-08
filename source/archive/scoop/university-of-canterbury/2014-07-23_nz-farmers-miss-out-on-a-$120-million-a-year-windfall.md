@@ -1,9 +1,12 @@
 ---
 slug: nz-farmers-miss-out-on-a-$120-million-a-year-windfall
-title: "NZ farmers miss out on a $120 million a year windfall"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/BU1407/S00802/nz-farmers-miss-out-on-a-120-million-a-year-windfall.htm
+title: NZ farmers miss out on a $120 million a year windfall
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1407/S00802/nz-farmers-miss-out-on-a-120-million-a-year-windfall.htm
 author: university-of-canterbury
+permalink: /archive/2014/07/23/nz-farmers-miss-out-on-a-/index.html
+layout: layout.njk
 ---
 NZ farmers miss out on a $120 million a year windfall
 =====================================================

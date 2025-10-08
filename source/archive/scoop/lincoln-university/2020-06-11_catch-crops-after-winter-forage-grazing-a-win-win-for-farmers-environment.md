@@ -1,9 +1,13 @@
 ---
 slug: catch-crops-after-winter-forage-grazing-a-win-win-for-farmers-environment
-title: "Catch Crops After Winter Forage Grazing A Win-win For Farmers, Environment"
-date: 2020-06-11
-source-url: https://www.scoop.co.nz/stories/BU2006/S00218/catch-crops-after-winter-forage-grazing-a-win-win-for-farmers-environment.htm
+title: Catch Crops After Winter Forage Grazing A Win-win For Farmers, Environment
+date: 2020-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2006/S00218/catch-crops-after-winter-forage-grazing-a-win-win-for-farmers-environment.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/06/11/catch-crops-after-winter-forage-grazing-a-win-win-for-farmers-environment/index.html
+layout: layout.njk
 ---
 Catch Crops After Winter Forage Grazing A Win-win For Farmers, Environment
 ==========================================================================

@@ -1,9 +1,13 @@
 ---
 slug: stress-and-long-hours-for-school-leaders-at-all-time-high
-title: "Stress and long hours for school leaders at all-time high"
-date: 2019-02-18
-source-url: https://www.scoop.co.nz/stories/ED1902/S00052/stress-and-long-hours-for-school-leaders-at-all-time-high.htm
+title: Stress and long hours for school leaders at all-time high
+date: 2019-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00052/stress-and-long-hours-for-school-leaders-at-all-time-high.htm
 author: nzei
+permalink: >-
+  /archive/2019/02/18/stress-and-long-hours-for-school-leaders-at-all-time-high/index.html
+layout: layout.njk
 ---
 Stress and long hours for school leaders at all-time high
 =========================================================

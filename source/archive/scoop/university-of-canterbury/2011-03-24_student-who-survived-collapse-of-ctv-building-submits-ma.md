@@ -1,9 +1,13 @@
 ---
 slug: student-who-survived-collapse-of-ctv-building-submits-ma
-title: "Student Who Survived  Collapse of CTV Building Submits MA"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/AK1103/S00868/student-who-survived-collapse-of-ctv-building-submits-ma.htm
+title: Student Who Survived  Collapse of CTV Building Submits MA
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00868/student-who-survived-collapse-of-ctv-building-submits-ma.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/24/student-who-survived-collapse-of-ctv-building-submits-ma/index.html
+layout: layout.njk
 ---
 Student Who Survived Collapse of CTV Building Submits MA
 ========================================================

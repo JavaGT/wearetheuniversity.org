@@ -1,9 +1,12 @@
 ---
 slug: new-insights-into-māori-early-memory-advantage
-title: "New insights into Māori early memory advantage"
-date: 2008-02-08
-source-url: https://www.scoop.co.nz/stories/GE0802/S00023/new-insights-into-maori-early-memory-advantage.htm
+title: New insights into Māori early memory advantage
+date: 2008-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0802/S00023/new-insights-into-maori-early-memory-advantage.htm
 author: university-of-otago
+permalink: /archive/2008/02/08/new-insights-into-m/index.html
+layout: layout.njk
 ---
 New insights into Māori early memory advantage
 ==============================================

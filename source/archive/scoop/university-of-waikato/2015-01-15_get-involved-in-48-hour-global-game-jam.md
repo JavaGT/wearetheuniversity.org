@@ -1,9 +1,12 @@
 ---
 slug: get-involved-in-48-hour-global-game-jam
-title: "Get involved in 48-hour Global Game Jam"
-date: 2015-01-15
-source-url: https://www.scoop.co.nz/stories/ED1501/S00033/get-involved-in-48-hour-global-game-jam.htm
+title: Get involved in 48-hour Global Game Jam
+date: 2015-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00033/get-involved-in-48-hour-global-game-jam.htm
 author: university-of-waikato
+permalink: /archive/2015/01/15/get-involved-in-48-hour-global-game-jam/index.html
+layout: layout.njk
 ---
 Get involved in 48-hour Global Game Jam
 =======================================

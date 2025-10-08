@@ -1,9 +1,11 @@
 ---
 slug: gats-concerns-remain
-title: "GATS Concerns Remain"
-date: 2003-04-02
+title: GATS Concerns Remain
+date: 2003-04-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0304/S00004/gats-concerns-remain.htm
 author: association-of-university-staff
+permalink: /archive/2003/04/02/gats-concerns-remain/index.html
+layout: layout.njk
 ---
 GATS Concerns Remain
 ====================

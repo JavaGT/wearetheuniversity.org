@@ -1,9 +1,12 @@
 ---
 slug: nz-first-speech-dunedin-south
-title: "NZ First Speech: Dunedin South"
-date: 2013-08-10
-source-url: https://www.scoop.co.nz/stories/PA1308/S00181/nz-first-speech-dunedin-south.htm
+title: 'NZ First Speech: Dunedin South'
+date: 2013-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00181/nz-first-speech-dunedin-south.htm
 author: new-zealand-first-party
+permalink: /archive/2013/08/10/nz-first-speech-dunedin-south/index.html
+layout: layout.njk
 ---
 NZ First Speech: Dunedin South
 ==============================

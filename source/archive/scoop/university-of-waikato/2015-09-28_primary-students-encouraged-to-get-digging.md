@@ -1,9 +1,12 @@
 ---
 slug: primary-students-encouraged-to-get-digging
-title: "Primary students encouraged to get digging"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/ED1509/S00159/primary-students-encouraged-to-get-digging.htm
+title: Primary students encouraged to get digging
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00159/primary-students-encouraged-to-get-digging.htm
 author: university-of-waikato
+permalink: /archive/2015/09/28/primary-students-encouraged-to-get-digging/index.html
+layout: layout.njk
 ---
 Primary students encouraged to get digging
 ==========================================

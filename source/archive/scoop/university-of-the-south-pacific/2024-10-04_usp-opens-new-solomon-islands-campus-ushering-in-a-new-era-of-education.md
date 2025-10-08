@@ -1,9 +1,13 @@
 ---
 slug: usp-opens-new-solomon-islands-campus-ushering-in-a-new-era-of-education
-title: "USP Opens New Solomon Islands Campus, Ushering In A New Era Of Education"
-date: 2024-10-04
-source-url: https://www.scoop.co.nz/stories/ED2410/S00008/usp-opens-new-solomon-islands-campus-ushering-in-a-new-era-of-education.htm
+title: USP Opens New Solomon Islands Campus, Ushering In A New Era Of Education
+date: 2024-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00008/usp-opens-new-solomon-islands-campus-ushering-in-a-new-era-of-education.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/10/04/usp-opens-new-solomon-islands-campus-ushering-in-a-new-era-of-education/index.html
+layout: layout.njk
 ---
 USP Opens New Solomon Islands Campus, Ushering In A New Era Of Education
 ========================================================================

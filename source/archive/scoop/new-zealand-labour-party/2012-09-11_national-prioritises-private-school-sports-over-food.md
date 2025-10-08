@@ -1,9 +1,13 @@
 ---
 slug: national-prioritises-private-school-sports-over-food
-title: "National prioritises private school sports over food"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/PA1209/S00148/national-prioritises-private-school-sports-over-food.htm
+title: National prioritises private school sports over food
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00148/national-prioritises-private-school-sports-over-food.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/11/national-prioritises-private-school-sports-over-food/index.html
+layout: layout.njk
 ---
 National prioritises private school sports over food
 ====================================================

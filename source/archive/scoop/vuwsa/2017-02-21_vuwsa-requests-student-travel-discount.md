@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-requests-student-travel-discount
-title: "VUWSA requests student travel discount"
-date: 2017-02-21
-source-url: https://www.scoop.co.nz/stories/AK1702/S00657/vuwsa-requests-student-travel-discount.htm
+title: VUWSA requests student travel discount
+date: 2017-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1702/S00657/vuwsa-requests-student-travel-discount.htm
 author: vuwsa
+permalink: /archive/2017/02/21/vuwsa-requests-student-travel-discount/index.html
+layout: layout.njk
 ---
 VUWSA requests student travel discount
 ======================================

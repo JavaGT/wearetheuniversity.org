@@ -1,9 +1,12 @@
 ---
 slug: speech-english-raising-education-standards
-title: "Speech: English - Raising Education Standards"
-date: 2003-09-17
-source-url: https://www.scoop.co.nz/stories/PA0309/S00388/speech-english-raising-education-standards.htm
+title: 'Speech: English - Raising Education Standards'
+date: 2003-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00388/speech-english-raising-education-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/17/speech-english-raising-education-standards/index.html
+layout: layout.njk
 ---
 Speech: English - Raising Education Standards
 =============================================

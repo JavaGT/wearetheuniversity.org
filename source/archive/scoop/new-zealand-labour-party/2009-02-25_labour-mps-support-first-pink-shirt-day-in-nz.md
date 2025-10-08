@@ -1,9 +1,12 @@
 ---
 slug: labour-mps-support-first-pink-shirt-day-in-nz
-title: "Labour MPs support first Pink Shirt Day in NZ"
-date: 2009-02-25
-source-url: https://www.scoop.co.nz/stories/PA0902/S00369/labour-mps-support-first-pink-shirt-day-in-nz.htm
+title: Labour MPs support first Pink Shirt Day in NZ
+date: 2009-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00369/labour-mps-support-first-pink-shirt-day-in-nz.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/25/labour-mps-support-first-pink-shirt-day-in-nz/index.html
+layout: layout.njk
 ---
 Labour MPs support first Pink Shirt Day in NZ
 =============================================

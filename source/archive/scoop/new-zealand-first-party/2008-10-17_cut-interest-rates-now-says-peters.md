@@ -1,9 +1,12 @@
 ---
 slug: cut-interest-rates-now-says-peters
-title: "Cut Interest Rates Now Says Peters"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00403/cut-interest-rates-now-says-peters.htm
+title: Cut Interest Rates Now Says Peters
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00403/cut-interest-rates-now-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/17/cut-interest-rates-now-says-peters/index.html
+layout: layout.njk
 ---
 Cut Interest Rates Now Says Peters
 ==================================

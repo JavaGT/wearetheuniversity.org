@@ -1,9 +1,12 @@
 ---
 slug: childrens-day-a-day-of-shame-for-national
-title: "Children’s Day a day of shame for National"
-date: 2014-03-01
-source-url: https://www.scoop.co.nz/stories/PA1403/S00006/childrens-day-a-day-of-shame-for-national.htm
+title: Children’s Day a day of shame for National
+date: 2014-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00006/childrens-day-a-day-of-shame-for-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/01/childrens-day-a-day-of-shame-for-national/index.html
+layout: layout.njk
 ---
 Children’s Day a day of shame for National
 ==========================================

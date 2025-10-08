@@ -1,9 +1,13 @@
 ---
 slug: birth-injuries-bill-celebrated-next-step-full-cover
-title: "Birth Injuries Bill Celebrated - Next Step, Full Cover"
-date: 2022-09-27
-source-url: https://www.scoop.co.nz/stories/PA2209/S00146/birth-injuries-bill-celebrated-next-step-full-cover.htm
+title: Birth Injuries Bill Celebrated - Next Step, Full Cover
+date: 2022-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00146/birth-injuries-bill-celebrated-next-step-full-cover.htm
 author: green-party
+permalink: >-
+  /archive/2022/09/27/birth-injuries-bill-celebrated-next-step-full-cover/index.html
+layout: layout.njk
 ---
 Birth Injuries Bill Celebrated - Next Step, Full Cover
 ======================================================

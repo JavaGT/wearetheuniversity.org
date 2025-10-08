@@ -1,9 +1,12 @@
 ---
 slug: welcome-to-the-real-world-minister-wilson
-title: "Welcome to the real world Minister Wilson"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/PA0005/S00238/welcome-to-the-real-world-minister-wilson.htm
+title: Welcome to the real world Minister Wilson
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00238/welcome-to-the-real-world-minister-wilson.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/11/welcome-to-the-real-world-minister-wilson/index.html
+layout: layout.njk
 ---
 Welcome to the real world Minister Wilson
 =========================================

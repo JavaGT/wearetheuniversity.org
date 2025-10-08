@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-enrolments-2011-update
-title: "University of Canterbury Enrolments 2011 Update"
-date: 2011-01-11
-source-url: https://www.scoop.co.nz/stories/ED1101/S00009/university-of-canterbury-enrolments-2011-update.htm
+title: University of Canterbury Enrolments 2011 Update
+date: 2011-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00009/university-of-canterbury-enrolments-2011-update.htm
 author: university-of-canterbury
+permalink: /archive/2011/01/11/university-of-canterbury-enrolments-2011-update/index.html
+layout: layout.njk
 ---
 University of Canterbury Enrolments 2011 Update
 ===============================================

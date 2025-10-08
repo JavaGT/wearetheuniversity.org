@@ -1,9 +1,13 @@
 ---
 slug: researchers-find-australian-and-nz-little-penguins-distinct
-title: "Researchers find Australian and NZ little penguins distinct"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/CU1512/S00235/researchers-find-australian-and-nz-little-penguins-distinct.htm
+title: Researchers find Australian and NZ little penguins distinct
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00235/researchers-find-australian-and-nz-little-penguins-distinct.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/15/researchers-find-australian-and-nz-little-penguins-distinct/index.html
+layout: layout.njk
 ---
 Researchers find Australian and NZ little penguins distinct
 ===========================================================

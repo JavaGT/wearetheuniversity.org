@@ -1,9 +1,13 @@
 ---
 slug: message-to-the-people-of-otautahi-from-the-maori-party
-title: "Message to the people of Otautahi from the Maori Party"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/PA1102/S00345/message-to-the-people-of-otautahi-from-the-maori-party.htm
+title: Message to the people of Otautahi from the Maori Party
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00345/message-to-the-people-of-otautahi-from-the-maori-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/02/22/message-to-the-people-of-otautahi-from-the-maori-party/index.html
+layout: layout.njk
 ---
 Message to the people of Otautahi from the Maori Party
 ======================================================

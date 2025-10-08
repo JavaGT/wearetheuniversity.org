@@ -1,9 +1,13 @@
 ---
 slug: key-knew-tourism-business-being-sold-out-by-foreign-owners
-title: "Key knew tourism business being sold out by foreign owners"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00262/key-knew-tourism-business-being-sold-out-by-foreign-owners.htm
+title: Key knew tourism business being sold out by foreign owners
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00262/key-knew-tourism-business-being-sold-out-by-foreign-owners.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/17/key-knew-tourism-business-being-sold-out-by-foreign-owners/index.html
+layout: layout.njk
 ---
 Key knew tourism business being sold out by foreign owners
 ==========================================================

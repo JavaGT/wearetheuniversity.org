@@ -1,9 +1,12 @@
 ---
 slug: ami-buyout-banana-republic-style-peters
-title: "AMI Buyout Banana Republic Style - Peters"
-date: 2012-03-01
-source-url: https://www.scoop.co.nz/stories/PA1203/S00010/ami-buyout-banana-republic-style-peters.htm
+title: AMI Buyout Banana Republic Style - Peters
+date: 2012-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00010/ami-buyout-banana-republic-style-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/03/01/ami-buyout-banana-republic-style-peters/index.html
+layout: layout.njk
 ---
 AMI Buyout Banana Republic Style - Peters
 =========================================

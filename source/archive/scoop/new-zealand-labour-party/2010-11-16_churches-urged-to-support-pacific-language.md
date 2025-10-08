@@ -1,9 +1,12 @@
 ---
 slug: churches-urged-to-support-pacific-language
-title: "Churches urged to support Pacific language"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/PA1011/S00328/churches-urged-to-support-pacific-language.htm
+title: Churches urged to support Pacific language
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00328/churches-urged-to-support-pacific-language.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/16/churches-urged-to-support-pacific-language/index.html
+layout: layout.njk
 ---
 Churches urged to support Pacific language
 ==========================================

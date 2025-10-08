@@ -1,9 +1,13 @@
 ---
 slug: uc-education-innovators-make-global-awards-shortlist
-title: "UC education innovators make global awards shortlist"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/ED1911/S00011/uc-education-innovators-make-global-awards-shortlist.htm
+title: UC education innovators make global awards shortlist
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00011/uc-education-innovators-make-global-awards-shortlist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/05/uc-education-innovators-make-global-awards-shortlist/index.html
+layout: layout.njk
 ---
 UC education innovators make global awards shortlist
 ====================================================

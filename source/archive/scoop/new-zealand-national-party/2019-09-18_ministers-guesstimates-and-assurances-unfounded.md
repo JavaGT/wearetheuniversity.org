@@ -1,9 +1,12 @@
 ---
 slug: ministers-guesstimates-and-assurances-unfounded
-title: "Ministers’ guesstimates and assurances unfounded"
-date: 2019-09-18
-source-url: https://www.scoop.co.nz/stories/PA1909/S00136/ministers-guesstimates-and-assurances-unfounded.htm
+title: Ministers’ guesstimates and assurances unfounded
+date: 2019-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00136/ministers-guesstimates-and-assurances-unfounded.htm
 author: new-zealand-national-party
+permalink: /archive/2019/09/18/ministers-guesstimates-and-assurances-unfounded/index.html
+layout: layout.njk
 ---
 Ministers’ guesstimates and assurances unfounded
 ================================================

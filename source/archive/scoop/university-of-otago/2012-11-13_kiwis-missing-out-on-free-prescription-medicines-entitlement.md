@@ -1,9 +1,13 @@
 ---
 slug: kiwis-missing-out-on-free-prescription-medicines-entitlement
-title: "Kiwis missing out on free prescription medicines entitlement"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/PO1211/S00181/kiwis-missing-out-on-free-prescription-medicines-entitlement.htm
+title: Kiwis missing out on free prescription medicines entitlement
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00181/kiwis-missing-out-on-free-prescription-medicines-entitlement.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/11/13/kiwis-missing-out-on-free-prescription-medicines-entitlement/index.html
+layout: layout.njk
 ---
 Kiwis missing out on free prescription medicines entitlement
 ============================================================

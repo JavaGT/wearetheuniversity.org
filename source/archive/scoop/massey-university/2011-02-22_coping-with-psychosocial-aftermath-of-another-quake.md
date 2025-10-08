@@ -1,9 +1,13 @@
 ---
 slug: coping-with-psychosocial-aftermath-of-another-quake
-title: "Coping with psychosocial aftermath of another quake"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/AK1102/S00789/coping-with-psychosocial-aftermath-of-another-quake.htm
+title: Coping with psychosocial aftermath of another quake
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00789/coping-with-psychosocial-aftermath-of-another-quake.htm
 author: massey-university
+permalink: >-
+  /archive/2011/02/22/coping-with-psychosocial-aftermath-of-another-quake/index.html
+layout: layout.njk
 ---
 Coping with psychosocial aftermath of another quake
 ===================================================

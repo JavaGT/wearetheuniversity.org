@@ -1,9 +1,12 @@
 ---
 slug: public-money-down-the-gurgler
-title: "Public Money Down the Gurgler"
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/PA0303/S00293/public-money-down-the-gurgler.htm
+title: Public Money Down the Gurgler
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00293/public-money-down-the-gurgler.htm
 author: act-new-zealand
+permalink: /archive/2003/03/17/public-money-down-the-gurgler/index.html
+layout: layout.njk
 ---
 Public Money Down the Gurgler
 =============================

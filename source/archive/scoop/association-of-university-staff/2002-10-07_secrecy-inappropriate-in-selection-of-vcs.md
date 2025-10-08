@@ -1,9 +1,12 @@
 ---
 slug: secrecy-inappropriate-in-selection-of-vcs
-title: "Secrecy inappropriate in selection of VCs"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/ED0210/S00017/secrecy-inappropriate-in-selection-of-vcs.htm
+title: Secrecy inappropriate in selection of VCs
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00017/secrecy-inappropriate-in-selection-of-vcs.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/07/secrecy-inappropriate-in-selection-of-vcs/index.html
+layout: layout.njk
 ---
 Secrecy inappropriate in selection of VCs
 =========================================

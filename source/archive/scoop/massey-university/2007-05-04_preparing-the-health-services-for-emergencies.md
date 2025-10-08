@@ -1,9 +1,12 @@
 ---
 slug: preparing-the-health-services-for-emergencies
-title: "Preparing the health services for emergencies"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/GE0705/S00045/preparing-the-health-services-for-emergencies.htm
+title: Preparing the health services for emergencies
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0705/S00045/preparing-the-health-services-for-emergencies.htm
 author: massey-university
+permalink: /archive/2007/05/04/preparing-the-health-services-for-emergencies/index.html
+layout: layout.njk
 ---
 Preparing the health services for emergencies
 =============================================

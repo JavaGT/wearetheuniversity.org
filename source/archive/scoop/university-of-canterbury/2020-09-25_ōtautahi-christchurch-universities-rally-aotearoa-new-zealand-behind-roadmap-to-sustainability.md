@@ -1,9 +1,16 @@
 ---
-slug: ōtautahi-christchurch-universities-rally-aotearoa-new-zealand-behind-roadmap-to-sustainability
-title: "Ōtautahi Christchurch Universities Rally Aotearoa New Zealand Behind Roadmap To Sustainability"
-date: 2020-09-25
-source-url: https://www.scoop.co.nz/stories/PO2009/S00379/otautahi-christchurch-universities-rally-aotearoa-new-zealand-behind-roadmap-to-sustainability.htm
+slug: >-
+  ōtautahi-christchurch-universities-rally-aotearoa-new-zealand-behind-roadmap-to-sustainability
+title: >-
+  Ōtautahi Christchurch Universities Rally Aotearoa New Zealand Behind Roadmap
+  To Sustainability
+date: 2020-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00379/otautahi-christchurch-universities-rally-aotearoa-new-zealand-behind-roadmap-to-sustainability.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/25/tautahi-christchurch-universities-rally-aotearoa-new-zealand-behind-roadmap-to-sustainability/index.html
+layout: layout.njk
 ---
 Ōtautahi Christchurch Universities Rally Aotearoa New Zealand Behind Roadmap To Sustainability
 ==============================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: orientation-week-in-full-swing-at-albany-campus
-title: "Orientation Week In Full Swing At Albany Campus"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/ED1302/S00148/orientation-week-in-full-swing-at-albany-campus.htm
+title: Orientation Week In Full Swing At Albany Campus
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00148/orientation-week-in-full-swing-at-albany-campus.htm
 author: massey-university
+permalink: /archive/2013/02/27/orientation-week-in-full-swing-at-albany-campus/index.html
+layout: layout.njk
 ---
 Orientation Week In Full Swing At Albany Campus
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-look-into-what-makes-plant-communities-tick
-title: "UC researchers look into what makes plant communities tick"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/SC1702/S00045/uc-researchers-look-into-what-makes-plant-communities-tick.htm
+title: UC researchers look into what makes plant communities tick
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00045/uc-researchers-look-into-what-makes-plant-communities-tick.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/02/15/uc-researchers-look-into-what-makes-plant-communities-tick/index.html
+layout: layout.njk
 ---
 UC researchers look into what makes plant communities tick
 ==========================================================

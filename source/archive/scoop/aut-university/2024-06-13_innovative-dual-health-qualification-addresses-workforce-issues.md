@@ -1,9 +1,13 @@
 ---
 slug: innovative-dual-health-qualification-addresses-workforce-issues
-title: "Innovative Dual Health Qualification Addresses Workforce Issues"
-date: 2024-06-13
-source-url: https://www.scoop.co.nz/stories/GE2406/S00059/innovative-dual-health-qualification-addresses-workforce-issues.htm
+title: Innovative Dual Health Qualification Addresses Workforce Issues
+date: 2024-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00059/innovative-dual-health-qualification-addresses-workforce-issues.htm
 author: aut-university
+permalink: >-
+  /archive/2024/06/13/innovative-dual-health-qualification-addresses-workforce-issues/index.html
+layout: layout.njk
 ---
 Innovative Dual Health Qualification Addresses Workforce Issues
 ===============================================================

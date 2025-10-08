@@ -1,9 +1,12 @@
 ---
 slug: otago-students-commemorate-protests-anniversary
-title: "Otago Students Commemorate Protest's Anniversary"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00104/otago-students-commemorate-protests-anniversary.htm
+title: Otago Students Commemorate Protest's Anniversary
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00104/otago-students-commemorate-protests-anniversary.htm
 author: otago-university-students-association
+permalink: /archive/2003/09/22/otago-students-commemorate-protests-anniversary/index.html
+layout: layout.njk
 ---
 Otago Students Commemorate Protest's Anniversary
 ================================================

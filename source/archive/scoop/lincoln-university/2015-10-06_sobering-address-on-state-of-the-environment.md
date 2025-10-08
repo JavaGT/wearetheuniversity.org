@@ -1,9 +1,12 @@
 ---
 slug: sobering-address-on-state-of-the-environment
-title: "Sobering address on state of the environment"
-date: 2015-10-06
-source-url: https://www.scoop.co.nz/stories/ED1510/S00032/sobering-address-on-state-of-the-environment.htm
+title: Sobering address on state of the environment
+date: 2015-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00032/sobering-address-on-state-of-the-environment.htm
 author: lincoln-university
+permalink: /archive/2015/10/06/sobering-address-on-state-of-the-environment/index.html
+layout: layout.njk
 ---
 Sobering address on state of the environment
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: psychologists-join-forces-to-reduce-poverty
-title: "Psychologists join forces to reduce poverty"
-date: 2009-07-09
-source-url: https://www.scoop.co.nz/stories/PO0907/S00097/psychologists-join-forces-to-reduce-poverty.htm
+title: Psychologists join forces to reduce poverty
+date: 2009-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00097/psychologists-join-forces-to-reduce-poverty.htm
 author: massey-university
+permalink: /archive/2009/07/09/psychologists-join-forces-to-reduce-poverty/index.html
+layout: layout.njk
 ---
 Psychologists join forces to reduce poverty
 ===========================================

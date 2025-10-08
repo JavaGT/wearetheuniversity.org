@@ -1,9 +1,12 @@
 ---
 slug: mallard-gives-students-the-heineken-treatment
-title: "Mallard gives students the Heineken treatment"
-date: 2005-05-03
-source-url: https://www.scoop.co.nz/stories/PA0505/S00031/mallard-gives-students-the-heineken-treatment.htm
+title: Mallard gives students the Heineken treatment
+date: 2005-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00031/mallard-gives-students-the-heineken-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/03/mallard-gives-students-the-heineken-treatment/index.html
+layout: layout.njk
 ---
 Mallard gives students the Heineken treatment
 =============================================

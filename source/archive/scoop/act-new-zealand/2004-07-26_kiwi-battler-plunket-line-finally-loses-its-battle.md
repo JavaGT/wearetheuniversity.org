@@ -1,9 +1,13 @@
 ---
 slug: kiwi-battler-plunket-line-finally-loses-its-battle
-title: "Kiwi Battler Plunket Line Finally Loses Its Battle"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/PA0407/S00421/kiwi-battler-plunket-line-finally-loses-its-battle.htm
+title: Kiwi Battler Plunket Line Finally Loses Its Battle
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00421/kiwi-battler-plunket-line-finally-loses-its-battle.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/07/26/kiwi-battler-plunket-line-finally-loses-its-battle/index.html
+layout: layout.njk
 ---
 Kiwi Battler Plunket Line Finally Loses Its Battle
 ==================================================

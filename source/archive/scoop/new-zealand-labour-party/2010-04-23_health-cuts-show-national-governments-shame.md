@@ -1,9 +1,12 @@
 ---
 slug: health-cuts-show-national-governments-shame
-title: "Health cuts show National Government’s shame"
-date: 2010-04-23
-source-url: https://www.scoop.co.nz/stories/PA1004/S00295/health-cuts-show-national-governments-shame.htm
+title: Health cuts show National Government’s shame
+date: 2010-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00295/health-cuts-show-national-governments-shame.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/23/health-cuts-show-national-governments-shame/index.html
+layout: layout.njk
 ---
 Health cuts show National Government’s shame
 ============================================

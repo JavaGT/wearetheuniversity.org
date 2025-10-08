@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-central-control
-title: "Heather Roy's Diary - Central Control"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/PA0708/S00551/heather-roys-diary-central-control.htm
+title: Heather Roy's Diary - Central Control
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00551/heather-roys-diary-central-control.htm
 author: act-new-zealand
+permalink: /archive/2007/08/31/heather-roys-diary-central-control/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Central Control
 =====================================

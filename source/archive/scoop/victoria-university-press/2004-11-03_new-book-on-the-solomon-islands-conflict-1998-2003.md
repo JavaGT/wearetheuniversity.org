@@ -1,9 +1,13 @@
 ---
 slug: new-book-on-the-solomon-islands-conflict-1998-2003
-title: "New Book on the Solomon Islands Conflict 1998-2003"
-date: 2004-11-03
-source-url: https://www.scoop.co.nz/stories/ED0411/S00009/new-book-on-the-solomon-islands-conflict-1998-2003.htm
+title: New Book on the Solomon Islands Conflict 1998-2003
+date: 2004-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00009/new-book-on-the-solomon-islands-conflict-1998-2003.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2004/11/03/new-book-on-the-solomon-islands-conflict-1998-2003/index.html
+layout: layout.njk
 ---
 New Book on the Solomon Islands Conflict 1998-2003
 ==================================================

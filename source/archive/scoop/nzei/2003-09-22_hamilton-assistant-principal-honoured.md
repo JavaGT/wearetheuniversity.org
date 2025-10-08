@@ -1,9 +1,12 @@
 ---
 slug: hamilton-assistant-principal-honoured
-title: "Hamilton Assistant Principal Honoured"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00091/hamilton-assistant-principal-honoured.htm
+title: Hamilton Assistant Principal Honoured
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00091/hamilton-assistant-principal-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/hamilton-assistant-principal-honoured/index.html
+layout: layout.njk
 ---
 Hamilton Assistant Principal Honoured
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: world-statistics-day
-title: "World Statistics Day"
-date: 2010-10-20
+title: World Statistics Day
+date: 2010-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1010/S00070/world-statistics-day.htm
 author: university-of-canterbury
+permalink: /archive/2010/10/20/world-statistics-day/index.html
+layout: layout.njk
 ---
 World Statistics Day
 ====================

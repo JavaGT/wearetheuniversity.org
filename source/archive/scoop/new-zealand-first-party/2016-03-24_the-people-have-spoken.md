@@ -1,9 +1,11 @@
 ---
 slug: the-people-have-spoken
-title: "The people have spoken"
-date: 2016-03-24
+title: The people have spoken
+date: 2016-03-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00440/the-people-have-spoken.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/24/the-people-have-spoken/index.html
+layout: layout.njk
 ---
 The people have spoken
 ======================

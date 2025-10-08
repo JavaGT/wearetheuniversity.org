@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-new-zealands-marine-resources
-title: "The future of New Zealand’s marine resources"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/SC1208/S00048/the-future-of-new-zealands-marine-resources.htm
+title: The future of New Zealand’s marine resources
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00048/the-future-of-new-zealands-marine-resources.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/21/the-future-of-new-zealands-marine-resources/index.html
+layout: layout.njk
 ---
 The future of New Zealand’s marine resources
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: bill-drawn-to-protect-freedom-of-expression-on-campus
-title: "Bill Drawn To Protect Freedom Of Expression On Campus"
-date: 2021-10-21
-source-url: https://www.scoop.co.nz/stories/PA2110/S00210/bill-drawn-to-protect-freedom-of-expression-on-campus.htm
+title: Bill Drawn To Protect Freedom Of Expression On Campus
+date: 2021-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00210/bill-drawn-to-protect-freedom-of-expression-on-campus.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/10/21/bill-drawn-to-protect-freedom-of-expression-on-campus/index.html
+layout: layout.njk
 ---
 Bill Drawn To Protect Freedom Of Expression On Campus
 =====================================================

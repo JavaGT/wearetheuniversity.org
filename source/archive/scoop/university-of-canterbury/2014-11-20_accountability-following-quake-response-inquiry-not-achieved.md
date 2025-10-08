@@ -1,9 +1,13 @@
 ---
 slug: accountability-following-quake-response-inquiry-not-achieved
-title: "Accountability following quake response inquiry not achieved"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/PO1411/S00211/accountability-following-quake-response-inquiry-not-achieved.htm
+title: Accountability following quake response inquiry not achieved
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00211/accountability-following-quake-response-inquiry-not-achieved.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/20/accountability-following-quake-response-inquiry-not-achieved/index.html
+layout: layout.njk
 ---
 Accountability following quake response inquiry not achieved
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: young-uc-researchers-work-recognised
-title: "Young UC researchers’ work recognised"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/ED1410/S00062/young-uc-researchers-work-recognised.htm
+title: Young UC researchers’ work recognised
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00062/young-uc-researchers-work-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/10/young-uc-researchers-work-recognised/index.html
+layout: layout.njk
 ---
 Young UC researchers’ work recognised
 =====================================

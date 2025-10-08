@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-additional-funding-for-places
-title: "Universities welcome additional funding for places"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/ED1010/S00038/universities-welcome-additional-funding-for-places.htm
+title: Universities welcome additional funding for places
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00038/universities-welcome-additional-funding-for-places.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2010/10/12/universities-welcome-additional-funding-for-places/index.html
+layout: layout.njk
 ---
 Universities welcome additional funding for places
 ==================================================

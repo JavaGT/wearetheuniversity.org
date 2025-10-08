@@ -1,9 +1,13 @@
 ---
 slug: legal-technology-project-to-transform-legal-education-in-nz
-title: "Legal technology project to transform legal education in NZ"
-date: 2019-10-24
-source-url: https://www.scoop.co.nz/stories/ED1910/S00050/legal-technology-project-to-transform-legal-education-in-nz.htm
+title: Legal technology project to transform legal education in NZ
+date: 2019-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00050/legal-technology-project-to-transform-legal-education-in-nz.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/10/24/legal-technology-project-to-transform-legal-education-in-nz/index.html
+layout: layout.njk
 ---
 Legal technology project to transform legal education in NZ
 ===========================================================

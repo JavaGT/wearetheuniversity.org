@@ -1,9 +1,12 @@
 ---
 slug: tax-the-issue-of-the-1999-election
-title: "Tax  -  the issue of the 1999 election"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00645/tax-the-issue-of-the-1999-election.htm
+title: Tax  -  the issue of the 1999 election
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00645/tax-the-issue-of-the-1999-election.htm
 author: act-new-zealand
+permalink: /archive/1999/09/30/tax-the-issue-of-the-1999-election/index.html
+layout: layout.njk
 ---
 Tax - the issue of the 1999 election
 ====================================

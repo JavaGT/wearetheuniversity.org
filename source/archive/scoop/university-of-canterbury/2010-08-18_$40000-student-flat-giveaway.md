@@ -1,9 +1,11 @@
 ---
 slug: $40000-student-flat-giveaway
-title: "$40,000 Student Flat Giveaway"
-date: 2010-08-18
+title: $40,000 Student Flat Giveaway
+date: 2010-08-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1008/S00072/40000-student-flat-giveaway.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/18/40-000-student-flat-giveaway/index.html
+layout: layout.njk
 ---
 $40,000 Student Flat Giveaway
 =============================

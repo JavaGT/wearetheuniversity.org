@@ -1,9 +1,12 @@
 ---
 slug: national-draws-on-labours-rural-health
-title: "National draws on Labour's rural health"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00070/national-draws-on-labours-rural-health.htm
+title: National draws on Labour's rural health
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00070/national-draws-on-labours-rural-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/02/national-draws-on-labours-rural-health/index.html
+layout: layout.njk
 ---
 National draws on Labour's rural health
 =======================================

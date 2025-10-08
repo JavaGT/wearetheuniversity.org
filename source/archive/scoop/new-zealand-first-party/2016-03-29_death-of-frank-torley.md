@@ -1,9 +1,11 @@
 ---
 slug: death-of-frank-torley
-title: "Death of Frank Torley"
-date: 2016-03-29
+title: Death of Frank Torley
+date: 2016-03-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00444/death-of-frank-torley.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/29/death-of-frank-torley/index.html
+layout: layout.njk
 ---
 Death of Frank Torley
 =====================

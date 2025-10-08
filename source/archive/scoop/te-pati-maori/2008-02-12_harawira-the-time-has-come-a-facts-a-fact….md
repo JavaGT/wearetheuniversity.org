@@ -1,9 +1,12 @@
 ---
 slug: harawira-the-time-has-come-a-facts-a-fact…
-title: "Harawira:  The time has come. A fact’s a fact…"
-date: 2008-02-12
-source-url: https://www.scoop.co.nz/stories/PA0802/S00128/harawira-the-time-has-come-a-facts-a-fact.htm
+title: 'Harawira:  The time has come. A fact’s a fact…'
+date: 2008-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00128/harawira-the-time-has-come-a-facts-a-fact.htm
 author: te-pati-maori
+permalink: /archive/2008/02/12/harawira-the-time-has-come-a-facts-a-fact/index.html
+layout: layout.njk
 ---
 Harawira: The time has come. A fact’s a fact…
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-eighty-one
-title: "Maxim Institute real issues. No. Eighty-One"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/PO0309/S00135/maxim-institute-real-issues-no-eighty-one.htm
+title: Maxim Institute real issues. No. Eighty-One
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00135/maxim-institute-real-issues-no-eighty-one.htm
 author: maxim-institute
+permalink: /archive/2003/09/19/maxim-institute-real-issues-no-eighty-one/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues. No. Eighty-One
 ===========================================

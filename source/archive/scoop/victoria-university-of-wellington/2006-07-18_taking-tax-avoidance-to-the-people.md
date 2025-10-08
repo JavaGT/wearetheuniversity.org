@@ -1,9 +1,12 @@
 ---
 slug: taking-tax-avoidance-to-the-people
-title: "Taking tax avoidance to the people"
-date: 2006-07-18
-source-url: https://www.scoop.co.nz/stories/ED0607/S00057/taking-tax-avoidance-to-the-people.htm
+title: Taking tax avoidance to the people
+date: 2006-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00057/taking-tax-avoidance-to-the-people.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/18/taking-tax-avoidance-to-the-people/index.html
+layout: layout.njk
 ---
 Taking tax avoidance to the people
 ==================================

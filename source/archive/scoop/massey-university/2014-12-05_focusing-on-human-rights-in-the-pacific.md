@@ -1,9 +1,12 @@
 ---
 slug: focusing-on-human-rights-in-the-pacific
-title: "Focusing on human rights in the Pacific"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/PO1412/S00087/focusing-on-human-rights-in-the-pacific.htm
+title: Focusing on human rights in the Pacific
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00087/focusing-on-human-rights-in-the-pacific.htm
 author: massey-university
+permalink: /archive/2014/12/05/focusing-on-human-rights-in-the-pacific/index.html
+layout: layout.njk
 ---
 Focusing on human rights in the Pacific
 =======================================

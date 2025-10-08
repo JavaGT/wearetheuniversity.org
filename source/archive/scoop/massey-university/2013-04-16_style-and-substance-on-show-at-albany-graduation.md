@@ -1,9 +1,13 @@
 ---
 slug: style-and-substance-on-show-at-albany-graduation
-title: "Style and Substance On Show At Albany Graduation"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/ED1304/S00097/style-and-substance-on-show-at-albany-graduation.htm
+title: Style and Substance On Show At Albany Graduation
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00097/style-and-substance-on-show-at-albany-graduation.htm
 author: massey-university
+permalink: >-
+  /archive/2013/04/16/style-and-substance-on-show-at-albany-graduation/index.html
+layout: layout.njk
 ---
 Style and Substance On Show At Albany Graduation
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: stomach-cancer-discovery-gives-new-hope
-title: "Stomach Cancer Discovery Gives New Hope"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/GE0703/S00063/stomach-cancer-discovery-gives-new-hope.htm
+title: Stomach Cancer Discovery Gives New Hope
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00063/stomach-cancer-discovery-gives-new-hope.htm
 author: university-of-otago
+permalink: /archive/2007/03/19/stomach-cancer-discovery-gives-new-hope/index.html
+layout: layout.njk
 ---
 Stomach Cancer Discovery Gives New Hope
 =======================================

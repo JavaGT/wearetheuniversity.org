@@ -1,9 +1,13 @@
 ---
 slug: new-tauranga-cbd-campus-design-concept-confirmed
-title: "New Tauranga CBD campus design concept confirmed"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/ED1610/S00022/new-tauranga-cbd-campus-design-concept-confirmed.htm
+title: New Tauranga CBD campus design concept confirmed
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00022/new-tauranga-cbd-campus-design-concept-confirmed.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/11/new-tauranga-cbd-campus-design-concept-confirmed/index.html
+layout: layout.njk
 ---
 New Tauranga CBD campus design concept confirmed
 ================================================

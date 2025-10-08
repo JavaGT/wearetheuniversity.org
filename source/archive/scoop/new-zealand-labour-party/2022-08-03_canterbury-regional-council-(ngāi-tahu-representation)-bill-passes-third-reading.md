@@ -1,9 +1,15 @@
 ---
-slug: canterbury-regional-council-(ngāi-tahu-representation)-bill-passes-third-reading
-title: "Canterbury Regional Council (Ngāi Tahu Representation) Bill Passes Third Reading"
-date: 2022-08-03
-source-url: https://www.scoop.co.nz/stories/PA2208/S00039/canterbury-regional-council-ngai-tahu-representation-bill-passes-third-reading.htm
+slug: >-
+  canterbury-regional-council-(ngāi-tahu-representation)-bill-passes-third-reading
+title: >-
+  Canterbury Regional Council (Ngāi Tahu Representation) Bill Passes Third
+  Reading
+date: 2022-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00039/canterbury-regional-council-ngai-tahu-representation-bill-passes-third-reading.htm
 author: new-zealand-labour-party
+permalink: /archive/2022/08/03/canterbury-regional-council-/index.html
+layout: layout.njk
 ---
 Canterbury Regional Council (Ngāi Tahu Representation) Bill Passes Third Reading
 ================================================================================

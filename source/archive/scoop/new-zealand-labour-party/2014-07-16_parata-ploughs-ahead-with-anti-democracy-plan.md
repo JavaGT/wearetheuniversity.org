@@ -1,9 +1,12 @@
 ---
 slug: parata-ploughs-ahead-with-anti-democracy-plan
-title: "Parata ploughs ahead with anti-democracy plan"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/PA1407/S00300/parata-ploughs-ahead-with-anti-democracy-plan.htm
+title: Parata ploughs ahead with anti-democracy plan
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00300/parata-ploughs-ahead-with-anti-democracy-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/16/parata-ploughs-ahead-with-anti-democracy-plan/index.html
+layout: layout.njk
 ---
 Parata ploughs ahead with anti-democracy plan
 =============================================

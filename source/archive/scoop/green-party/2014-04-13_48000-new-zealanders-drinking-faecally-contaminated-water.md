@@ -1,9 +1,13 @@
 ---
 slug: 48000-new-zealanders-drinking-faecally-contaminated-water
-title: "48,000 New Zealanders drinking faecally contaminated water"
-date: 2014-04-13
-source-url: https://www.scoop.co.nz/stories/PA1404/S00219/48000-new-zealanders-drinking-faecally-contaminated-water.htm
+title: 48,000 New Zealanders drinking faecally contaminated water
+date: 2014-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00219/48000-new-zealanders-drinking-faecally-contaminated-water.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/13/48000-new-zealanders-drinking-faecally-contaminated-water/index.html
+layout: layout.njk
 ---
 48,000 New Zealanders drinking faecally contaminated water
 ==========================================================

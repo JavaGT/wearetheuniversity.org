@@ -1,9 +1,12 @@
 ---
 slug: rural-land-price-slump-a-catalyst-for-change
-title: "Rural land price slump: A catalyst for change?"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/BU0906/S00171/rural-land-price-slump-a-catalyst-for-change.htm
+title: 'Rural land price slump: A catalyst for change?'
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00171/rural-land-price-slump-a-catalyst-for-change.htm
 author: waikato-university
+permalink: /archive/2009/06/08/rural-land-price-slump-a-catalyst-for-change/index.html
+layout: layout.njk
 ---
 Rural land price slump: A catalyst for change?
 ==============================================

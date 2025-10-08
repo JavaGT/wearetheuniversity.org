@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-to-construct-new-$150-million-building
-title: "University of Otago to construct new $150 million building"
-date: 2018-09-14
-source-url: https://www.scoop.co.nz/stories/ED1809/S00036/university-of-otago-to-construct-new-150-million-building.htm
+title: University of Otago to construct new $150 million building
+date: 2018-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00036/university-of-otago-to-construct-new-150-million-building.htm
 author: university-of-otago
+permalink: /archive/2018/09/14/university-of-otago-to-construct-new-/index.html
+layout: layout.njk
 ---
 University of Otago to construct new $150 million building
 ==========================================================

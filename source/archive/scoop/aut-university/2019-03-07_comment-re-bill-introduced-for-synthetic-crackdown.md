@@ -1,9 +1,13 @@
 ---
 slug: comment-re-bill-introduced-for-synthetic-crackdown
-title: "Comment re: \"Bill introduced for synthetic crackdown\""
-date: 2019-03-07
-source-url: https://www.scoop.co.nz/stories/PO1903/S00065/comment-re-bill-introduced-for-synthetic-crackdown.htm
+title: 'Comment re: "Bill introduced for synthetic crackdown"'
+date: 2019-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00065/comment-re-bill-introduced-for-synthetic-crackdown.htm
 author: aut-university
+permalink: >-
+  /archive/2019/03/07/comment-re-bill-introduced-for-synthetic-crackdown/index.html
+layout: layout.njk
 ---
 Comment re: “Bill introduced for synthetic crackdown”
 =====================================================

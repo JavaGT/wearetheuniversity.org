@@ -1,9 +1,13 @@
 ---
 slug: setting-the-world-on-a-course-toward-sustainable-development
-title: "Setting the world on a course toward sustainable development"
-date: 2017-06-06
-source-url: https://www.scoop.co.nz/stories/PO1706/S00070/setting-the-world-on-a-course-toward-sustainable-development.htm
+title: Setting the world on a course toward sustainable development
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00070/setting-the-world-on-a-course-toward-sustainable-development.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/06/setting-the-world-on-a-course-toward-sustainable-development/index.html
+layout: layout.njk
 ---
 Setting the world on a course toward sustainable development
 ============================================================

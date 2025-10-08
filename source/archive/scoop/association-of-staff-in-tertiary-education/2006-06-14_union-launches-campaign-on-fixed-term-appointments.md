@@ -1,9 +1,13 @@
 ---
 slug: union-launches-campaign-on-fixed-term-appointments
-title: "Union Launches Campaign on Fixed Term Appointments"
-date: 2006-06-14
-source-url: https://www.scoop.co.nz/stories/ED0606/S00024/union-launches-campaign-on-fixed-term-appointments.htm
+title: Union Launches Campaign on Fixed Term Appointments
+date: 2006-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00024/union-launches-campaign-on-fixed-term-appointments.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2006/06/14/union-launches-campaign-on-fixed-term-appointments/index.html
+layout: layout.njk
 ---
 Union Launches Campaign on Fixed Term Appointments
 ==================================================

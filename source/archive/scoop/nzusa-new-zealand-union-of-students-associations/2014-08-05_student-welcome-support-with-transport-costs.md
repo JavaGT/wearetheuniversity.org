@@ -1,9 +1,12 @@
 ---
 slug: student-welcome-support-with-transport-costs
-title: "Student Welcome Support with Transport Costs"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/PO1408/S00070/student-welcome-support-with-transport-costs.htm
+title: Student Welcome Support with Transport Costs
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00070/student-welcome-support-with-transport-costs.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/08/05/student-welcome-support-with-transport-costs/index.html
+layout: layout.njk
 ---
 Student Welcome Support with Transport Costs
 ============================================

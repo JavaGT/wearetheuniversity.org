@@ -1,9 +1,13 @@
 ---
 slug: act-leaders-race-based-privilege-claims-preposterous
-title: "ACT leader’s race-based privilege claims \"preposterous\""
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PO1407/S00475/act-leaders-race-based-privilege-claims-preposterous.htm
+title: ACT leader’s race-based privilege claims "preposterous"
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00475/act-leaders-race-based-privilege-claims-preposterous.htm
 author: aut-university
+permalink: >-
+  /archive/2014/07/30/act-leaders-race-based-privilege-claims-preposterous/index.html
+layout: layout.njk
 ---
 ACT leader’s race-based privilege claims “preposterous”
 =======================================================

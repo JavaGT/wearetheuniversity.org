@@ -1,9 +1,12 @@
 ---
 slug: brash-taskforce-still-wasting-taxpayer-money
-title: "Brash taskforce still wasting taxpayer money"
-date: 2010-07-16
-source-url: https://www.scoop.co.nz/stories/PA1007/S00256/brash-taskforce-still-wasting-taxpayer-money.htm
+title: Brash taskforce still wasting taxpayer money
+date: 2010-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00256/brash-taskforce-still-wasting-taxpayer-money.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/16/brash-taskforce-still-wasting-taxpayer-money/index.html
+layout: layout.njk
 ---
 Brash taskforce still wasting taxpayer money
 ============================================

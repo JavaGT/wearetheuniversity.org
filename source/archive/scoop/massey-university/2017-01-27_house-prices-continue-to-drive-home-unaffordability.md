@@ -1,9 +1,13 @@
 ---
 slug: house-prices-continue-to-drive-home-unaffordability
-title: "House prices continue to drive home unaffordability"
-date: 2017-01-27
-source-url: https://www.scoop.co.nz/stories/BU1701/S00437/house-prices-continue-to-drive-home-unaffordability.htm
+title: House prices continue to drive home unaffordability
+date: 2017-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1701/S00437/house-prices-continue-to-drive-home-unaffordability.htm
 author: massey-university
+permalink: >-
+  /archive/2017/01/27/house-prices-continue-to-drive-home-unaffordability/index.html
+layout: layout.njk
 ---
 House prices continue to drive home unaffordability
 ===================================================

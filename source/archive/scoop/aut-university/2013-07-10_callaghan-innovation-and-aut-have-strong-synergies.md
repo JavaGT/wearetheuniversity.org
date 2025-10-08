@@ -1,9 +1,13 @@
 ---
 slug: callaghan-innovation-and-aut-have-strong-synergies
-title: "Callaghan Innovation and AUT have strong synergies"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/ED1307/S00057/callaghan-innovation-and-aut-have-strong-synergies.htm
+title: Callaghan Innovation and AUT have strong synergies
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00057/callaghan-innovation-and-aut-have-strong-synergies.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/10/callaghan-innovation-and-aut-have-strong-synergies/index.html
+layout: layout.njk
 ---
 Callaghan Innovation and AUT have strong synergies
 ==================================================

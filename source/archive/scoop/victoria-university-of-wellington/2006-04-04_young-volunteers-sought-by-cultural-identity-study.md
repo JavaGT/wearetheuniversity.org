@@ -1,9 +1,13 @@
 ---
 slug: young-volunteers-sought-by-cultural-identity-study
-title: "Young volunteers sought by cultural identity study"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00004/young-volunteers-sought-by-cultural-identity-study.htm
+title: Young volunteers sought by cultural identity study
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00004/young-volunteers-sought-by-cultural-identity-study.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/04/04/young-volunteers-sought-by-cultural-identity-study/index.html
+layout: layout.njk
 ---
 Young volunteers sought by cultural identity study
 ==================================================

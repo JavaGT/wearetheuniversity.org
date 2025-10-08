@@ -1,9 +1,12 @@
 ---
 slug: minister-breaks-promise-with-exam-fees-hike
-title: "Minister Breaks Promise With Exam Fees Hike"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/PA0203/S00117/minister-breaks-promise-with-exam-fees-hike.htm
+title: Minister Breaks Promise With Exam Fees Hike
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00117/minister-breaks-promise-with-exam-fees-hike.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/06/minister-breaks-promise-with-exam-fees-hike/index.html
+layout: layout.njk
 ---
 Minister Breaks Promise With Exam Fees Hike
 ===========================================

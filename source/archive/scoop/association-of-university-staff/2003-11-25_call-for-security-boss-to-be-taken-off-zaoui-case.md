@@ -1,9 +1,13 @@
 ---
 slug: call-for-security-boss-to-be-taken-off-zaoui-case
-title: "Call for security boss to be taken off Zaoui case"
-date: 2003-11-25
-source-url: https://www.scoop.co.nz/stories/PO0311/S00154/call-for-security-boss-to-be-taken-off-zaoui-case.htm
+title: Call for security boss to be taken off Zaoui case
+date: 2003-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00154/call-for-security-boss-to-be-taken-off-zaoui-case.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2003/11/25/call-for-security-boss-to-be-taken-off-zaoui-case/index.html
+layout: layout.njk
 ---
 Call for security boss to be taken off Zaoui case
 =================================================

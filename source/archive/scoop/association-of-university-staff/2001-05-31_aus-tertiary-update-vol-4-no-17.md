@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-17
-title: "AUS Tertiary Update Vol 4 No 17"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/ED0105/S00068/aus-tertiary-update-vol-4-no-17.htm
+title: AUS Tertiary Update Vol 4 No 17
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00068/aus-tertiary-update-vol-4-no-17.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/31/aus-tertiary-update-vol-4-no-17/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No 17
 ===============================

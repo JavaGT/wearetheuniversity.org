@@ -1,9 +1,12 @@
 ---
 slug: te-arawa-maori-sports-and-rangatahi-awards
-title: "Te Arawa Maori Sports and Rangatahi Awards"
-date: 2010-10-25
-source-url: https://www.scoop.co.nz/stories/PA1010/S00416/te-arawa-maori-sports-and-rangatahi-awards.htm
+title: Te Arawa Maori Sports and Rangatahi Awards
+date: 2010-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00416/te-arawa-maori-sports-and-rangatahi-awards.htm
 author: te-pati-maori
+permalink: /archive/2010/10/25/te-arawa-maori-sports-and-rangatahi-awards/index.html
+layout: layout.njk
 ---
 Te Arawa Maori Sports and Rangatahi Awards
 ==========================================

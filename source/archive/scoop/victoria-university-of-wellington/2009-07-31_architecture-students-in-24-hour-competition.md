@@ -1,9 +1,12 @@
 ---
 slug: architecture-students-in-24-hour-competition
-title: "Architecture students in 24 hour competition"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/CU0907/S00443/architecture-students-in-24-hour-competition.htm
+title: Architecture students in 24 hour competition
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00443/architecture-students-in-24-hour-competition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/31/architecture-students-in-24-hour-competition/index.html
+layout: layout.njk
 ---
 Architecture students in 24 hour competition
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: education-system-cheats-maori-youth
-title: "Education System Cheats Maori Youth"
-date: 2001-04-04
-source-url: https://www.scoop.co.nz/stories/PA0104/S00058/education-system-cheats-maori-youth.htm
+title: Education System Cheats Maori Youth
+date: 2001-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00058/education-system-cheats-maori-youth.htm
 author: act-new-zealand
+permalink: /archive/2001/04/04/education-system-cheats-maori-youth/index.html
+layout: layout.njk
 ---
 Education System Cheats Maori Youth
 ===================================

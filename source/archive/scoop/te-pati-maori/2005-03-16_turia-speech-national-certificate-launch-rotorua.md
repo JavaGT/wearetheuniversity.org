@@ -1,9 +1,13 @@
 ---
 slug: turia-speech-national-certificate-launch-rotorua
-title: "Turia Speech: National Certificate Launch Rotorua"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00332/turia-speech-national-certificate-launch-rotorua.htm
+title: 'Turia Speech: National Certificate Launch Rotorua'
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00332/turia-speech-national-certificate-launch-rotorua.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/03/16/turia-speech-national-certificate-launch-rotorua/index.html
+layout: layout.njk
 ---
 Turia Speech: National Certificate Launch Rotorua
 =================================================

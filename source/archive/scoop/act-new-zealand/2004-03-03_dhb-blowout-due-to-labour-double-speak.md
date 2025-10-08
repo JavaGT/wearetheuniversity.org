@@ -1,9 +1,12 @@
 ---
 slug: dhb-blowout-due-to-labour-double-speak
-title: "DHB Blowout Due To Labour Double-Speak"
-date: 2004-03-03
-source-url: https://www.scoop.co.nz/stories/PA0403/S00069/dhb-blowout-due-to-labour-double-speak.htm
+title: DHB Blowout Due To Labour Double-Speak
+date: 2004-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00069/dhb-blowout-due-to-labour-double-speak.htm
 author: act-new-zealand
+permalink: /archive/2004/03/03/dhb-blowout-due-to-labour-double-speak/index.html
+layout: layout.njk
 ---
 DHB Blowout Due To Labour Double-Speak
 ======================================

@@ -1,8 +1,12 @@
 ---
 slug: university-hosts-flagship-debate-for-young-voters
-title: "University hosts flagship debate for young voters"
-date: 2017-08-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/university-hosts-flagship-debate-for-young-voters.html
+title: University hosts flagship debate for young voters
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/university-hosts-flagship-debate-for-young-voters.html
+permalink: >-
+  /archive/2017/08/24/university-hosts-flagship-debate-for-young-voters/index.html
+layout: layout.njk
 ---
 University hosts flagship debate for young voters
 =================================================

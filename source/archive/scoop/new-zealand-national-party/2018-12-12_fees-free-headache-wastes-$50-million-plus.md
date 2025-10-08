@@ -1,9 +1,12 @@
 ---
 slug: fees-free-headache-wastes-$50-million-plus
-title: "Fees free headache wastes $50 million plus"
-date: 2018-12-12
-source-url: https://www.scoop.co.nz/stories/PA1812/S00147/fees-free-headache-wastes-50-million-plus.htm
+title: Fees free headache wastes $50 million plus
+date: 2018-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00147/fees-free-headache-wastes-50-million-plus.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/12/fees-free-headache-wastes-/index.html
+layout: layout.njk
 ---
 Fees free headache wastes $50 million plus
 ==========================================

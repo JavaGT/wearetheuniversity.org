@@ -1,9 +1,12 @@
 ---
 slug: act-urges-a-response-to-tikanga-māori-in-legal-education
-title: "ACT Urges A Response To Tikanga Māori In Legal Education"
-date: 2024-10-16
-source-url: https://www.scoop.co.nz/stories/PA2410/S00124/act-urges-a-response-to-tikanga-maori-in-legal-education.htm
+title: ACT Urges A Response To Tikanga Māori In Legal Education
+date: 2024-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00124/act-urges-a-response-to-tikanga-maori-in-legal-education.htm
 author: act-new-zealand
+permalink: /archive/2024/10/16/act-urges-a-response-to-tikanga-m/index.html
+layout: layout.njk
 ---
 ACT Urges A Response To Tikanga Māori In Legal Education
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-political-paradigm-richard-prebble
-title: "\"A Political Paradigm\"  -- Richard Prebble"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00008/a-political-paradigm-richard-prebble.htm
+title: '"A Political Paradigm"  -- Richard Prebble'
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00008/a-political-paradigm-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/a-political-paradigm-richard-prebble/index.html
+layout: layout.njk
 ---
 "A Political Paradigm" -- Richard Prebble
 =========================================

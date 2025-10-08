@@ -1,9 +1,12 @@
 ---
 slug: canterbury-gains-research-advantage
-title: "Canterbury gains research advantage"
-date: 2007-05-31
-source-url: https://www.scoop.co.nz/stories/ED0705/S00125/canterbury-gains-research-advantage.htm
+title: Canterbury gains research advantage
+date: 2007-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00125/canterbury-gains-research-advantage.htm
 author: university-of-canterbury
+permalink: /archive/2007/05/31/canterbury-gains-research-advantage/index.html
+layout: layout.njk
 ---
 Canterbury gains research advantage
 ===================================

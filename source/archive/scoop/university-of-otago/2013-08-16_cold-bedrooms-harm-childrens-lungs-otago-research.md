@@ -1,9 +1,13 @@
 ---
 slug: cold-bedrooms-harm-childrens-lungs-otago-research
-title: "Cold bedrooms harm children’s lungs: Otago research"
-date: 2013-08-16
-source-url: https://www.scoop.co.nz/stories/GE1308/S00091/cold-bedrooms-harm-childrens-lungs-otago-research.htm
+title: 'Cold bedrooms harm children’s lungs: Otago research'
+date: 2013-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00091/cold-bedrooms-harm-childrens-lungs-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/16/cold-bedrooms-harm-childrens-lungs-otago-research/index.html
+layout: layout.njk
 ---
 Cold bedrooms harm children’s lungs: Otago research
 ===================================================

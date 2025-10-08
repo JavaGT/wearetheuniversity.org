@@ -1,9 +1,12 @@
 ---
 slug: muddled-priorities-behind-education-strike
-title: "Muddled Priorities Behind Education Strike"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/PA2110/S00029/muddled-priorities-behind-education-strike.htm
+title: Muddled Priorities Behind Education Strike
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00029/muddled-priorities-behind-education-strike.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/04/muddled-priorities-behind-education-strike/index.html
+layout: layout.njk
 ---
 Muddled Priorities Behind Education Strike
 ==========================================

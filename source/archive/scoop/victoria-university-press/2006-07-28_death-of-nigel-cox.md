@@ -1,9 +1,11 @@
 ---
 slug: death-of-nigel-cox
-title: "Death of Nigel Cox"
-date: 2006-07-28
+title: Death of Nigel Cox
+date: 2006-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0607/S00244/death-of-nigel-cox.htm
 author: victoria-university-press
+permalink: /archive/2006/07/28/death-of-nigel-cox/index.html
+layout: layout.njk
 ---
 Death of Nigel Cox
 ==================

@@ -1,9 +1,12 @@
 ---
 slug: aut-to-raise-fees-next-year-by-4-96-percent
-title: "AUT to raise fees next year by 4.96 percent"
-date: 2003-10-31
-source-url: https://www.scoop.co.nz/stories/ED0310/S00123/aut-to-raise-fees-next-year-by-496-percent.htm
+title: AUT to raise fees next year by 4.96 percent
+date: 2003-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00123/aut-to-raise-fees-next-year-by-496-percent.htm
 author: aut-university
+permalink: /archive/2003/10/31/aut-to-raise-fees-next-year-by-4-96-percent/index.html
+layout: layout.njk
 ---
 AUT to raise fees next year by 4.96 percent
 ===========================================

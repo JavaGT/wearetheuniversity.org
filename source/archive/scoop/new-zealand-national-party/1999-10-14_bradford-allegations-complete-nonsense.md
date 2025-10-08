@@ -1,9 +1,12 @@
 ---
 slug: bradford-allegations-complete-nonsense
-title: "Bradford allegations complete nonsense"
-date: 1999-10-14
-source-url: https://www.scoop.co.nz/stories/PA9910/S00303/bradford-allegations-complete-nonsense.htm
+title: Bradford allegations complete nonsense
+date: 1999-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00303/bradford-allegations-complete-nonsense.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/14/bradford-allegations-complete-nonsense/index.html
+layout: layout.njk
 ---
 Bradford allegations complete nonsense
 ======================================

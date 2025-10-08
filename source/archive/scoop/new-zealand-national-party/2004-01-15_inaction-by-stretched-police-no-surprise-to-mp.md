@@ -1,9 +1,12 @@
 ---
 slug: inaction-by-stretched-police-no-surprise-to-mp
-title: "Inaction by stretched police no surprise to MP"
-date: 2004-01-15
-source-url: https://www.scoop.co.nz/stories/PA0401/S00087/inaction-by-stretched-police-no-surprise-to-mp.htm
+title: Inaction by stretched police no surprise to MP
+date: 2004-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00087/inaction-by-stretched-police-no-surprise-to-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/15/inaction-by-stretched-police-no-surprise-to-mp/index.html
+layout: layout.njk
 ---
 Inaction by stretched police no surprise to MP
 ==============================================

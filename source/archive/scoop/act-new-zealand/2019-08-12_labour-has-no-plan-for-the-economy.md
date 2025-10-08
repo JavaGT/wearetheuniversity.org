@@ -1,9 +1,12 @@
 ---
 slug: labour-has-no-plan-for-the-economy
-title: "Labour has no plan for the economy"
-date: 2019-08-12
-source-url: https://www.scoop.co.nz/stories/PA1908/S00126/labour-has-no-plan-for-the-economy.htm
+title: Labour has no plan for the economy
+date: 2019-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00126/labour-has-no-plan-for-the-economy.htm
 author: act-new-zealand
+permalink: /archive/2019/08/12/labour-has-no-plan-for-the-economy/index.html
+layout: layout.njk
 ---
 Labour has no plan for the economy
 ==================================

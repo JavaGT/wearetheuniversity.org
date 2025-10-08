@@ -1,9 +1,12 @@
 ---
 slug: ulmer-inspires-massey-academy-of-sport-intake
-title: "Ulmer inspires Massey Academy of Sport intake"
-date: 2009-03-31
-source-url: https://www.scoop.co.nz/stories/CU0903/S00426/ulmer-inspires-massey-academy-of-sport-intake.htm
+title: Ulmer inspires Massey Academy of Sport intake
+date: 2009-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00426/ulmer-inspires-massey-academy-of-sport-intake.htm
 author: massey-university
+permalink: /archive/2009/03/31/ulmer-inspires-massey-academy-of-sport-intake/index.html
+layout: layout.njk
 ---
 Ulmer inspires Massey Academy of Sport intake
 =============================================

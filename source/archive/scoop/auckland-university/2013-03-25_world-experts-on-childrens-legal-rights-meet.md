@@ -1,9 +1,12 @@
 ---
 slug: world-experts-on-childrens-legal-rights-meet
-title: "World experts on children’s legal rights meet"
-date: 2013-03-25
-source-url: https://www.scoop.co.nz/stories/PO1303/S00287/world-experts-on-childrens-legal-rights-meet.htm
+title: World experts on children’s legal rights meet
+date: 2013-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00287/world-experts-on-childrens-legal-rights-meet.htm
 author: auckland-university
+permalink: /archive/2013/03/25/world-experts-on-childrens-legal-rights-meet/index.html
+layout: layout.njk
 ---
 World experts on children’s legal rights meet
 =============================================

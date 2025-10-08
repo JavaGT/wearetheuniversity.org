@@ -1,9 +1,12 @@
 ---
 slug: record-numbers-enrol-at-victoria-university
-title: "Record numbers enrol at Victoria University"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/ED0103/S00040/record-numbers-enrol-at-victoria-university.htm
+title: Record numbers enrol at Victoria University
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00040/record-numbers-enrol-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/03/22/record-numbers-enrol-at-victoria-university/index.html
+layout: layout.njk
 ---
 Record numbers enrol at Victoria University
 ===========================================

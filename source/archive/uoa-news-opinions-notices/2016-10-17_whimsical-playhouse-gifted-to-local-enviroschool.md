@@ -1,8 +1,12 @@
 ---
 slug: whimsical-playhouse-gifted-to-local-enviroschool
-title: "Whimsical playhouse gifted to local Enviroschool"
-date: 2016-10-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/whimsical-playhouse-gifted-to-local-enviroschool.html
+title: Whimsical playhouse gifted to local Enviroschool
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/whimsical-playhouse-gifted-to-local-enviroschool.html
+permalink: >-
+  /archive/2016/10/17/whimsical-playhouse-gifted-to-local-enviroschool/index.html
+layout: layout.njk
 ---
 Whimsical playhouse gifted to local Enviroschool
 ================================================

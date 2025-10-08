@@ -1,9 +1,12 @@
 ---
 slug: treated-timber-cleared-by-experts
-title: "Treated timber cleared by experts"
-date: 2003-11-21
-source-url: https://www.scoop.co.nz/stories/PA0311/S00448/treated-timber-cleared-by-experts.htm
+title: Treated timber cleared by experts
+date: 2003-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00448/treated-timber-cleared-by-experts.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/21/treated-timber-cleared-by-experts/index.html
+layout: layout.njk
 ---
 Treated timber cleared by experts
 =================================

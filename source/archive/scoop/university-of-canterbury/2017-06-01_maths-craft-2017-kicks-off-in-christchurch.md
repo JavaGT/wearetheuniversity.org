@@ -1,9 +1,12 @@
 ---
 slug: maths-craft-2017-kicks-off-in-christchurch
-title: "Maths Craft 2017 kicks off in Christchurch"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/CU1706/S00018/maths-craft-2017-kicks-off-in-christchurch.htm
+title: Maths Craft 2017 kicks off in Christchurch
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00018/maths-craft-2017-kicks-off-in-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2017/06/01/maths-craft-2017-kicks-off-in-christchurch/index.html
+layout: layout.njk
 ---
 Maths Craft 2017 kicks off in Christchurch
 ==========================================

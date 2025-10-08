@@ -1,9 +1,12 @@
 ---
 slug: landowners-let-down-by-maori-land-bill
-title: "Landowners let down by Maori Land Bill"
-date: 2016-11-26
-source-url: https://www.scoop.co.nz/stories/PA1611/S00505/landowners-let-down-by-maori-land-bill.htm
+title: Landowners let down by Maori Land Bill
+date: 2016-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00505/landowners-let-down-by-maori-land-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/26/landowners-let-down-by-maori-land-bill/index.html
+layout: layout.njk
 ---
 Landowners let down by Maori Land Bill
 ======================================

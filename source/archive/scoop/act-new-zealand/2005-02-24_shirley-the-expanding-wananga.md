@@ -1,9 +1,12 @@
 ---
 slug: shirley-the-expanding-wananga
-title: "Shirley: The expanding wananga"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/PA0502/S00517/shirley-the-expanding-wananga.htm
+title: 'Shirley: The expanding wananga'
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00517/shirley-the-expanding-wananga.htm
 author: act-new-zealand
+permalink: /archive/2005/02/24/shirley-the-expanding-wananga/index.html
+layout: layout.njk
 ---
 Shirley: The expanding wananga
 ==============================

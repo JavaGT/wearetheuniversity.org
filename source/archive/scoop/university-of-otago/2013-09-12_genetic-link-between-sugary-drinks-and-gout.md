@@ -1,9 +1,12 @@
 ---
 slug: genetic-link-between-sugary-drinks-and-gout
-title: "Genetic link between sugary drinks and gout"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/SC1309/S00032/genetic-link-between-sugary-drinks-and-gout.htm
+title: Genetic link between sugary drinks and gout
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00032/genetic-link-between-sugary-drinks-and-gout.htm
 author: university-of-otago
+permalink: /archive/2013/09/12/genetic-link-between-sugary-drinks-and-gout/index.html
+layout: layout.njk
 ---
 Genetic link between sugary drinks and gout
 ===========================================

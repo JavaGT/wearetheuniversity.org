@@ -1,9 +1,12 @@
 ---
 slug: fourth-estate-or-unregistered-party
-title: "Fourth Estate or Unregistered Party?"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/PA0204/S00286/fourth-estate-or-unregistered-party.htm
+title: Fourth Estate or Unregistered Party?
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00286/fourth-estate-or-unregistered-party.htm
 author: new-zealand-first-party
+permalink: /archive/2002/04/19/fourth-estate-or-unregistered-party/index.html
+layout: layout.njk
 ---
 Fourth Estate or Unregistered Party?
 ====================================

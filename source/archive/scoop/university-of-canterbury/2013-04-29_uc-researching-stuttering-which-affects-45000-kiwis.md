@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-stuttering-which-affects-45000-kiwis
-title: "UC Researching Stuttering Which Affects 45,000 Kiwis"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/SC1304/S00048/uc-researching-stuttering-which-affects-45000-kiwis.htm
+title: UC Researching Stuttering Which Affects 45,000 Kiwis
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00048/uc-researching-stuttering-which-affects-45000-kiwis.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/29/uc-researching-stuttering-which-affects-45000-kiwis/index.html
+layout: layout.njk
 ---
 UC Researching Stuttering Which Affects 45,000 Kiwis
 ====================================================

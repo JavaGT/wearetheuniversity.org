@@ -1,9 +1,12 @@
 ---
 slug: zeroing-in-on-energy-efficient-buildings
-title: "Zeroing in on energy efficient buildings"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/AK1605/S00316/zeroing-in-on-energy-efficient-buildings.htm
+title: Zeroing in on energy efficient buildings
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00316/zeroing-in-on-energy-efficient-buildings.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/05/12/zeroing-in-on-energy-efficient-buildings/index.html
+layout: layout.njk
 ---
 Zeroing in on energy efficient buildings
 ========================================

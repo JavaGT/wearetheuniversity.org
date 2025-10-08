@@ -1,9 +1,12 @@
 ---
 slug: students-learning-goes-international
-title: "Students’ Learning Goes International"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00036/students-learning-goes-international.htm
+title: Students’ Learning Goes International
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00036/students-learning-goes-international.htm
 author: lincoln-university
+permalink: /archive/2011/08/04/students-learning-goes-international/index.html
+layout: layout.njk
 ---
 Students’ Learning Goes International
 =====================================

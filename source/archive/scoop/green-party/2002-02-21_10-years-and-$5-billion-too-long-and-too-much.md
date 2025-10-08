@@ -1,9 +1,12 @@
 ---
 slug: 10-years-and-$5-billion-too-long-and-too-much
-title: "10 Years And $5 Billion - Too Long And Too Much"
-date: 2002-02-21
-source-url: https://www.scoop.co.nz/stories/PA0202/S00312/10-years-and-5-billion-too-long-and-too-much.htm
+title: 10 Years And $5 Billion - Too Long And Too Much
+date: 2002-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00312/10-years-and-5-billion-too-long-and-too-much.htm
 author: green-party
+permalink: /archive/2002/02/21/10-years-and-/index.html
+layout: layout.njk
 ---
 10 Years And $5 Billion - Too Long And Too Much
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-happy-erb-days-are-here-again
-title: "Future Lefts: Happy ERB days are here again"
-date: 2000-03-21
-source-url: https://www.scoop.co.nz/stories/PO0003/S00086/future-lefts-happy-erb-days-are-here-again.htm
+title: 'Future Lefts: Happy ERB days are here again'
+date: 2000-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00086/future-lefts-happy-erb-days-are-here-again.htm
 author: young-labour
+permalink: /archive/2000/03/21/future-lefts-happy-erb-days-are-here-again/index.html
+layout: layout.njk
 ---
 Future Lefts: Happy ERB days are here again
 ===========================================

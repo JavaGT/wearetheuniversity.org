@@ -1,9 +1,13 @@
 ---
 slug: research-to-enhance-fertility-of-new-zealand-dairy-cows
-title: "Research to enhance fertility of New Zealand dairy cows"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/SC1411/S00020/research-to-enhance-fertility-of-new-zealand-dairy-cows.htm
+title: Research to enhance fertility of New Zealand dairy cows
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00020/research-to-enhance-fertility-of-new-zealand-dairy-cows.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/07/research-to-enhance-fertility-of-new-zealand-dairy-cows/index.html
+layout: layout.njk
 ---
 Research to enhance fertility of New Zealand dairy cows
 =======================================================

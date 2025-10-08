@@ -1,9 +1,12 @@
 ---
 slug: study-shows-genetic-damage-to-vietnam-war-vets
-title: "Study shows genetic damage to Vietnam War vets"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/GE0607/S00115/study-shows-genetic-damage-to-vietnam-war-vets.htm
+title: Study shows genetic damage to Vietnam War vets
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00115/study-shows-genetic-damage-to-vietnam-war-vets.htm
 author: massey-university
+permalink: /archive/2006/07/28/study-shows-genetic-damage-to-vietnam-war-vets/index.html
+layout: layout.njk
 ---
 Study shows genetic damage to Vietnam War vets
 ==============================================

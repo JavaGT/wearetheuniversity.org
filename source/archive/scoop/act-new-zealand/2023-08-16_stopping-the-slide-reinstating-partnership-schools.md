@@ -1,9 +1,13 @@
 ---
 slug: stopping-the-slide-reinstating-partnership-schools
-title: "Stopping The Slide – Reinstating Partnership Schools"
-date: 2023-08-16
-source-url: https://www.scoop.co.nz/stories/PA2308/S00096/stopping-the-slide-reinstating-partnership-schools.htm
+title: Stopping The Slide – Reinstating Partnership Schools
+date: 2023-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00096/stopping-the-slide-reinstating-partnership-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/16/stopping-the-slide-reinstating-partnership-schools/index.html
+layout: layout.njk
 ---
 Stopping The Slide – Reinstating Partnership Schools
 ====================================================

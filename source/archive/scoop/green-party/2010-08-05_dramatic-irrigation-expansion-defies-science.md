@@ -1,9 +1,12 @@
 ---
 slug: dramatic-irrigation-expansion-defies-science
-title: "Dramatic irrigation expansion defies science"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/PA1008/S00096/dramatic-irrigation-expansion-defies-science.htm
+title: Dramatic irrigation expansion defies science
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00096/dramatic-irrigation-expansion-defies-science.htm
 author: green-party
+permalink: /archive/2010/08/05/dramatic-irrigation-expansion-defies-science/index.html
+layout: layout.njk
 ---
 Dramatic irrigation expansion defies science
 ============================================

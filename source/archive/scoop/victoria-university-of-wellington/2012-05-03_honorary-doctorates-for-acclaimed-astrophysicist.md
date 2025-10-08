@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-acclaimed-astrophysicist
-title: "Honorary Doctorates for acclaimed astrophysicist"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/ED1205/S00017/honorary-doctorates-for-acclaimed-astrophysicist.htm
+title: Honorary Doctorates for acclaimed astrophysicist
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00017/honorary-doctorates-for-acclaimed-astrophysicist.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/05/03/honorary-doctorates-for-acclaimed-astrophysicist/index.html
+layout: layout.njk
 ---
 Honorary Doctorates for acclaimed astrophysicist
 ================================================

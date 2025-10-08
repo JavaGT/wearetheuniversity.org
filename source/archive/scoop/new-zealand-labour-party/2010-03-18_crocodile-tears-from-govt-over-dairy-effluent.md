@@ -1,9 +1,12 @@
 ---
 slug: crocodile-tears-from-govt-over-dairy-effluent
-title: "Crocodile tears from Govt over dairy effluent"
-date: 2010-03-18
-source-url: https://www.scoop.co.nz/stories/PO1003/S00273/crocodile-tears-from-govt-over-dairy-effluent.htm
+title: Crocodile tears from Govt over dairy effluent
+date: 2010-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00273/crocodile-tears-from-govt-over-dairy-effluent.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/18/crocodile-tears-from-govt-over-dairy-effluent/index.html
+layout: layout.njk
 ---
 Crocodile tears from Govt over dairy effluent
 =============================================

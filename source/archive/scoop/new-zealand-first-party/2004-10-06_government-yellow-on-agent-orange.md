@@ -1,9 +1,12 @@
 ---
 slug: government-yellow-on-agent-orange
-title: "Government Yellow On Agent Orange"
-date: 2004-10-06
-source-url: https://www.scoop.co.nz/stories/PA0410/S00085/government-yellow-on-agent-orange.htm
+title: Government Yellow On Agent Orange
+date: 2004-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00085/government-yellow-on-agent-orange.htm
 author: new-zealand-first-party
+permalink: /archive/2004/10/06/government-yellow-on-agent-orange/index.html
+layout: layout.njk
 ---
 Government Yellow On Agent Orange
 =================================

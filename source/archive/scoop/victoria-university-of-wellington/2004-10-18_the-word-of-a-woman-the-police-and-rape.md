@@ -1,9 +1,12 @@
 ---
 slug: the-word-of-a-woman-the-police-and-rape
-title: "The Word of a Woman: the Police and Rape"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/ED0410/S00069/the-word-of-a-woman-the-police-and-rape.htm
+title: 'The Word of a Woman: the Police and Rape'
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00069/the-word-of-a-woman-the-police-and-rape.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/18/the-word-of-a-woman-the-police-and-rape/index.html
+layout: layout.njk
 ---
 The Word of a Woman: the Police and Rape
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: lords-of-the-extortion-rings
-title: "Lords Of The Extortion Rings"
-date: 2003-05-08
+title: Lords Of The Extortion Rings
+date: 2003-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00175/lords-of-the-extortion-rings.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/08/lords-of-the-extortion-rings/index.html
+layout: layout.njk
 ---
 Lords Of The Extortion Rings
 ============================

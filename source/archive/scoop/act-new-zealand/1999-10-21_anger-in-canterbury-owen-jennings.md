@@ -1,9 +1,12 @@
 ---
 slug: anger-in-canterbury-owen-jennings
-title: "Anger in Canterbury – Owen Jennings"
-date: 1999-10-21
-source-url: https://www.scoop.co.nz/stories/PA9910/S00528/anger-in-canterbury-owen-jennings.htm
+title: Anger in Canterbury – Owen Jennings
+date: 1999-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00528/anger-in-canterbury-owen-jennings.htm
 author: act-new-zealand
+permalink: /archive/1999/10/21/anger-in-canterbury-owen-jennings/index.html
+layout: layout.njk
 ---
 Anger in Canterbury – Owen Jennings
 ===================================

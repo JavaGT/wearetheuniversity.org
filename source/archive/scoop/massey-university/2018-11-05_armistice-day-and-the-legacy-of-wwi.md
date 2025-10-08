@@ -1,9 +1,12 @@
 ---
 slug: armistice-day-and-the-legacy-of-wwi
-title: "Armistice Day and the legacy of WWI"
-date: 2018-11-05
-source-url: https://www.scoop.co.nz/stories/ED1811/S00007/armistice-day-and-the-legacy-of-wwi.htm
+title: Armistice Day and the legacy of WWI
+date: 2018-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00007/armistice-day-and-the-legacy-of-wwi.htm
 author: massey-university
+permalink: /archive/2018/11/05/armistice-day-and-the-legacy-of-wwi/index.html
+layout: layout.njk
 ---
 Armistice Day and the legacy of WWI
 ===================================

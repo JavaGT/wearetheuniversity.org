@@ -1,9 +1,13 @@
 ---
 slug: more-than-ministry-encouragement-needed-for-te-reo
-title: "More than Ministry Encouragement Needed for Te Reo"
-date: 2015-07-30
-source-url: https://www.scoop.co.nz/stories/PA1507/S00517/more-than-ministry-encouragement-needed-for-te-reo.htm
+title: More than Ministry Encouragement Needed for Te Reo
+date: 2015-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00517/more-than-ministry-encouragement-needed-for-te-reo.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/30/more-than-ministry-encouragement-needed-for-te-reo/index.html
+layout: layout.njk
 ---
 More than Ministry Encouragement Needed for Te Reo
 ==================================================

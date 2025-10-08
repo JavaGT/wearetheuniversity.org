@@ -1,9 +1,16 @@
 ---
-slug: government-border-announcement-makes-australia-the-destination-of-choice-for-skilled-migrants-and-students
-title: "Government Border Announcement Makes Australia The Destination Of Choice For Skilled Migrants And Students"
-date: 2021-11-24
-source-url: https://www.scoop.co.nz/stories/PA2111/S00276/government-border-announcement-makes-australia-the-destination-of-choice-for-skilled-migrants-and-students.htm
+slug: >-
+  government-border-announcement-makes-australia-the-destination-of-choice-for-skilled-migrants-and-students
+title: >-
+  Government Border Announcement Makes Australia The Destination Of Choice For
+  Skilled Migrants And Students
+date: 2021-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00276/government-border-announcement-makes-australia-the-destination-of-choice-for-skilled-migrants-and-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/24/government-border-announcement-makes-australia-the-destination-of-choice-for-skilled-migrants-and-students/index.html
+layout: layout.njk
 ---
 Government Border Announcement Makes Australia The Destination Of Choice For Skilled Migrants And Students
 ==========================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: bizarre-report-wont-help-struggling-regions
-title: "Bizarre report won’t help struggling regions"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/PA1310/S00137/bizarre-report-wont-help-struggling-regions.htm
+title: Bizarre report won’t help struggling regions
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00137/bizarre-report-wont-help-struggling-regions.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/08/bizarre-report-wont-help-struggling-regions/index.html
+layout: layout.njk
 ---
 Bizarre report won’t help struggling regions
 ============================================

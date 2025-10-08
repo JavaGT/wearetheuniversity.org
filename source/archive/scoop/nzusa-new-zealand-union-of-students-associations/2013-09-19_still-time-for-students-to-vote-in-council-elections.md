@@ -1,9 +1,13 @@
 ---
 slug: still-time-for-students-to-vote-in-council-elections
-title: "Still Time For Students to Vote In Council Elections"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PO1309/S00223/still-time-for-students-to-vote-in-council-elections.htm
+title: Still Time For Students to Vote In Council Elections
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00223/still-time-for-students-to-vote-in-council-elections.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/09/19/still-time-for-students-to-vote-in-council-elections/index.html
+layout: layout.njk
 ---
 Still Time For Students to Vote In Council Elections
 ====================================================

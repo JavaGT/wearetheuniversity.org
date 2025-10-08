@@ -1,9 +1,13 @@
 ---
 slug: pacific-community-gardening-project-sows-seeds-of-good-health
-title: "Pacific Community Gardening Project Sows Seeds Of Good Health"
-date: 2024-10-04
-source-url: https://www.scoop.co.nz/stories/GE2410/S00020/pacific-community-gardening-project-sows-seeds-of-good-health.htm
+title: Pacific Community Gardening Project Sows Seeds Of Good Health
+date: 2024-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2410/S00020/pacific-community-gardening-project-sows-seeds-of-good-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/04/pacific-community-gardening-project-sows-seeds-of-good-health/index.html
+layout: layout.njk
 ---
 Pacific Community Gardening Project Sows Seeds Of Good Health
 =============================================================

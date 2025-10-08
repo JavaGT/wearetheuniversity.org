@@ -1,9 +1,12 @@
 ---
 slug: chance-for-chinese-students-to-study-abroad
-title: "Chance for Chinese students to Study Abroad"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/ED1509/S00025/chance-for-chinese-students-to-study-abroad.htm
+title: Chance for Chinese students to Study Abroad
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00025/chance-for-chinese-students-to-study-abroad.htm
 author: lincoln-university
+permalink: /archive/2015/09/04/chance-for-chinese-students-to-study-abroad/index.html
+layout: layout.njk
 ---
 Chance for Chinese students to Study Abroad
 ===========================================

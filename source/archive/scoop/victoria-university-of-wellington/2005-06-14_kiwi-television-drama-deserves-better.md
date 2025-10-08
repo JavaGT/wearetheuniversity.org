@@ -1,9 +1,12 @@
 ---
 slug: kiwi-television-drama-deserves-better
-title: "Kiwi television drama deserves better"
-date: 2005-06-14
-source-url: https://www.scoop.co.nz/stories/CU0506/S00121/kiwi-television-drama-deserves-better.htm
+title: Kiwi television drama deserves better
+date: 2005-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00121/kiwi-television-drama-deserves-better.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/06/14/kiwi-television-drama-deserves-better/index.html
+layout: layout.njk
 ---
 Kiwi television drama deserves better
 =====================================

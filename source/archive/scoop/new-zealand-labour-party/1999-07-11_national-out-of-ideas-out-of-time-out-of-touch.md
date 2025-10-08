@@ -1,9 +1,12 @@
 ---
 slug: national-out-of-ideas-out-of-time-out-of-touch
-title: "National out of ideas, out of time, out of touch"
-date: 1999-07-11
-source-url: https://www.scoop.co.nz/stories/PA9907/S00150/national-out-of-ideas-out-of-time-out-of-touch.htm
+title: National out of ideas, out of time, out of touch
+date: 1999-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00150/national-out-of-ideas-out-of-time-out-of-touch.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/11/national-out-of-ideas-out-of-time-out-of-touch/index.html
+layout: layout.njk
 ---
 National out of ideas, out of time, out of touch
 ================================================

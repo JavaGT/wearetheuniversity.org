@@ -1,9 +1,13 @@
 ---
 slug: collaborative-treatments-showcased-for-nurse-educators
-title: "Collaborative treatments showcased for nurse educators"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/GE1310/S00050/collaborative-treatments-showcased-for-nurse-educators.htm
+title: Collaborative treatments showcased for nurse educators
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00050/collaborative-treatments-showcased-for-nurse-educators.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/09/collaborative-treatments-showcased-for-nurse-educators/index.html
+layout: layout.njk
 ---
 Collaborative treatments showcased for nurse educators
 ======================================================

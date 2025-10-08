@@ -1,9 +1,11 @@
 ---
 slug: myths-politicians-and-money
-title: "Myths, politicians and money"
-date: 2014-05-23
+title: Myths, politicians and money
+date: 2014-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1405/S00117/myths-politicians-and-money.htm
 author: university-of-waikato
+permalink: /archive/2014/05/23/myths-politicians-and-money/index.html
+layout: layout.njk
 ---
 Myths, politicians and money
 ============================

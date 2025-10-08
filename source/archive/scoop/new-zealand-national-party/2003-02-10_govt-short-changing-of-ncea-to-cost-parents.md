@@ -1,9 +1,12 @@
 ---
 slug: govt-short-changing-of-ncea-to-cost-parents
-title: "Govt short-changing of NCEA to cost parents"
-date: 2003-02-10
-source-url: https://www.scoop.co.nz/stories/PA0302/S00105/govt-short-changing-of-ncea-to-cost-parents.htm
+title: Govt short-changing of NCEA to cost parents
+date: 2003-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00105/govt-short-changing-of-ncea-to-cost-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/10/govt-short-changing-of-ncea-to-cost-parents/index.html
+layout: layout.njk
 ---
 Govt short-changing of NCEA to cost parents
 ===========================================

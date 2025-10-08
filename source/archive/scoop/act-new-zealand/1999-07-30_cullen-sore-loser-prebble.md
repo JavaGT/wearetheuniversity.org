@@ -1,9 +1,11 @@
 ---
 slug: cullen-sore-loser-prebble
-title: "Cullen Sore Loser - Prebble"
-date: 1999-07-30
+title: Cullen Sore Loser - Prebble
+date: 1999-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9907/S00620/cullen-sore-loser-prebble.htm
 author: act-new-zealand
+permalink: /archive/1999/07/30/cullen-sore-loser-prebble/index.html
+layout: layout.njk
 ---
 Cullen Sore Loser - Prebble
 ===========================

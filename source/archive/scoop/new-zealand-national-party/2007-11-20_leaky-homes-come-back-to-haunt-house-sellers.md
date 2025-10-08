@@ -1,9 +1,12 @@
 ---
 slug: leaky-homes-come-back-to-haunt-house-sellers
-title: "Leaky homes come back to haunt house sellers"
-date: 2007-11-20
-source-url: https://www.scoop.co.nz/stories/PA0711/S00362/leaky-homes-come-back-to-haunt-house-sellers.htm
+title: Leaky homes come back to haunt house sellers
+date: 2007-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00362/leaky-homes-come-back-to-haunt-house-sellers.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/20/leaky-homes-come-back-to-haunt-house-sellers/index.html
+layout: layout.njk
 ---
 Leaky homes come back to haunt house sellers
 ============================================

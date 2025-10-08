@@ -1,9 +1,13 @@
 ---
 slug: international-rock-climbing-experts-converge-at-uc-for-resea
-title: "International Rock Climbing Experts Converge at UC for Resea"
-date: 2011-11-29
-source-url: https://www.scoop.co.nz/stories/ED1111/S00199/international-rock-climbing-experts-converge-at-uc-for-resea.htm
+title: International Rock Climbing Experts Converge at UC for Resea
+date: 2011-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00199/international-rock-climbing-experts-converge-at-uc-for-resea.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/11/29/international-rock-climbing-experts-converge-at-uc-for-resea/index.html
+layout: layout.njk
 ---
 International Rock Climbing Experts Converge at UC for Resea
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-first-to-benefit-from-aussie-library-deal
-title: "Massey first to benefit from Aussie library deal"
-date: 2009-09-10
-source-url: https://www.scoop.co.nz/stories/ED0909/S00040/massey-first-to-benefit-from-aussie-library-deal.htm
+title: Massey first to benefit from Aussie library deal
+date: 2009-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00040/massey-first-to-benefit-from-aussie-library-deal.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/10/massey-first-to-benefit-from-aussie-library-deal/index.html
+layout: layout.njk
 ---
 Massey first to benefit from Aussie library deal
 ================================================

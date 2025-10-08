@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-divided-we-fall
-title: "Muriel Newman: Divided We Fall?"
-date: 2004-02-05
-source-url: https://www.scoop.co.nz/stories/PA0402/S00088/muriel-newman-divided-we-fall.htm
+title: 'Muriel Newman: Divided We Fall?'
+date: 2004-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00088/muriel-newman-divided-we-fall.htm
 author: act-new-zealand
+permalink: /archive/2004/02/05/muriel-newman-divided-we-fall/index.html
+layout: layout.njk
 ---
 Muriel Newman: Divided We Fall?
 ===============================

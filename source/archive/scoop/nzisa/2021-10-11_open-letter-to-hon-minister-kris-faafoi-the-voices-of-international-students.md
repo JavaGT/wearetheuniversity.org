@@ -1,9 +1,15 @@
 ---
 slug: open-letter-to-hon-minister-kris-faafoi-the-voices-of-international-students
-title: "Open Letter To Hon. Minister Kris Faafoi - The Voices Of International Students"
-date: 2021-10-11
-source-url: https://www.scoop.co.nz/stories/PO2110/S00087/open-letter-to-hon-minister-kris-faafoi-the-voices-of-international-students.htm
+title: >-
+  Open Letter To Hon. Minister Kris Faafoi - The Voices Of International
+  Students
+date: 2021-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00087/open-letter-to-hon-minister-kris-faafoi-the-voices-of-international-students.htm
 author: nzisa
+permalink: >-
+  /archive/2021/10/11/open-letter-to-hon-minister-kris-faafoi-the-voices-of-international-students/index.html
+layout: layout.njk
 ---
 Open Letter To Hon. Minister Kris Faafoi - The Voices Of International Students
 ===============================================================================

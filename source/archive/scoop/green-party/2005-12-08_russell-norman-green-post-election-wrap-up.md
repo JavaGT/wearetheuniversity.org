@@ -1,9 +1,12 @@
 ---
 slug: russell-norman-green-post-election-wrap-up
-title: "Russell Norman: Green Post Election Wrap-Up"
-date: 2005-12-08
-source-url: https://www.scoop.co.nz/stories/PO0512/S00079/russell-norman-green-post-election-wrap-up.htm
+title: 'Russell Norman: Green Post Election Wrap-Up'
+date: 2005-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0512/S00079/russell-norman-green-post-election-wrap-up.htm
 author: green-party
+permalink: /archive/2005/12/08/russell-norman-green-post-election-wrap-up/index.html
+layout: layout.njk
 ---
 Russell Norman: Green Post Election Wrap-Up
 ===========================================

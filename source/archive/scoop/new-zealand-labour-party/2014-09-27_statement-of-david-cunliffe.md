@@ -1,9 +1,11 @@
 ---
 slug: statement-of-david-cunliffe
-title: "Statement of David Cunliffe"
-date: 2014-09-27
+title: Statement of David Cunliffe
+date: 2014-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1409/S00312/statement-of-david-cunliffe.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/27/statement-of-david-cunliffe/index.html
+layout: layout.njk
 ---
 Statement of David Cunliffe
 ===========================

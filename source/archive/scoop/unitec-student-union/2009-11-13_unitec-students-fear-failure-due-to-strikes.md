@@ -1,9 +1,12 @@
 ---
 slug: unitec-students-fear-failure-due-to-strikes
-title: "Unitec Students Fear Failure Due to Strikes"
-date: 2009-11-13
-source-url: https://www.scoop.co.nz/stories/ED0911/S00060/unitec-students-fear-failure-due-to-strikes.htm
+title: Unitec Students Fear Failure Due to Strikes
+date: 2009-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00060/unitec-students-fear-failure-due-to-strikes.htm
 author: unitec-student-union
+permalink: /archive/2009/11/13/unitec-students-fear-failure-due-to-strikes/index.html
+layout: layout.njk
 ---
 Unitec Students Fear Failure Due to Strikes
 ===========================================

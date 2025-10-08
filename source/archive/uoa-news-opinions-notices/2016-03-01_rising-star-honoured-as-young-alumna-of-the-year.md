@@ -1,8 +1,12 @@
 ---
 slug: rising-star-honoured-as-young-alumna-of-the-year
-title: "Rising star honoured as Young Alumna of the Year"
-date: 2016-03-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/rising-star-honoured-as-young-alumna-of-the-year-.html
+title: Rising star honoured as Young Alumna of the Year
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/rising-star-honoured-as-young-alumna-of-the-year-.html
+permalink: >-
+  /archive/2016/03/01/rising-star-honoured-as-young-alumna-of-the-year/index.html
+layout: layout.njk
 ---
 Rising star honoured as Young Alumna of the Year
 ================================================

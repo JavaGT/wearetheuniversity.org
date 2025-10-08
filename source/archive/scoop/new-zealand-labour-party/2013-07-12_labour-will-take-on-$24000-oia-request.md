@@ -1,9 +1,12 @@
 ---
 slug: labour-will-take-on-$24000-oia-request
-title: "Labour will take on $24,000 OIA request"
-date: 2013-07-12
-source-url: https://www.scoop.co.nz/stories/PA1307/S00225/labour-will-take-on-24000-oia-request.htm
+title: Labour will take on $24,000 OIA request
+date: 2013-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00225/labour-will-take-on-24000-oia-request.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/12/labour-will-take-on-/index.html
+layout: layout.njk
 ---
 Labour will take on $24,000 OIA request
 =======================================

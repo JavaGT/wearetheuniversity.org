@@ -1,9 +1,12 @@
 ---
 slug: new-massey-theatre-lab-a-north-shore-asset
-title: "New Massey Theatre Lab a North Shore asset"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/ED1305/S00110/new-massey-theatre-lab-a-north-shore-asset.htm
+title: New Massey Theatre Lab a North Shore asset
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00110/new-massey-theatre-lab-a-north-shore-asset.htm
 author: massey-university
+permalink: /archive/2013/05/16/new-massey-theatre-lab-a-north-shore-asset/index.html
+layout: layout.njk
 ---
 New Massey Theatre Lab a North Shore asset
 ==========================================

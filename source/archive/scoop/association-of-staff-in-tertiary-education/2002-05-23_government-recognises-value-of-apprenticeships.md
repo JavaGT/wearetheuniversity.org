@@ -1,9 +1,12 @@
 ---
 slug: government-recognises-value-of-apprenticeships
-title: "Government Recognises Value Of Apprenticeships"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/BU0205/S00225/government-recognises-value-of-apprenticeships.htm
+title: Government Recognises Value Of Apprenticeships
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0205/S00225/government-recognises-value-of-apprenticeships.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2002/05/23/government-recognises-value-of-apprenticeships/index.html
+layout: layout.njk
 ---
 Government Recognises Value Of Apprenticeships
 ==============================================

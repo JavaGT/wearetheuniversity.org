@@ -1,9 +1,12 @@
 ---
 slug: godwit-still-flying-after-64-years
-title: "Godwit Still Flying After 64 Years"
-date: 2001-04-04
-source-url: https://www.scoop.co.nz/stories/CU0104/S00010/godwit-still-flying-after-64-years.htm
+title: Godwit Still Flying After 64 Years
+date: 2001-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0104/S00010/godwit-still-flying-after-64-years.htm
 author: auckland-university-press
+permalink: /archive/2001/04/04/godwit-still-flying-after-64-years/index.html
+layout: layout.njk
 ---
 Godwit Still Flying After 64 Years
 ==================================

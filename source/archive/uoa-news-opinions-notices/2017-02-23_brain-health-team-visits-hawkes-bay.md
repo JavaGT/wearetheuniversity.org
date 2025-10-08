@@ -1,8 +1,11 @@
 ---
 slug: brain-health-team-visits-hawkes-bay
-title: "Brain health team visits Hawkes Bay"
-date: 2017-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/brain-health-team-visits-hawkes-bay.html
+title: Brain health team visits Hawkes Bay
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/brain-health-team-visits-hawkes-bay.html
+permalink: /archive/2017/02/23/brain-health-team-visits-hawkes-bay/index.html
+layout: layout.njk
 ---
 Brain health team visits Hawkes Bay
 ===================================

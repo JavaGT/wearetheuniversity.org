@@ -1,9 +1,12 @@
 ---
 slug: wine-architecture-and-the-tourism-experience
-title: "Wine, architecture and the tourism experience"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/ED1407/S00109/wine-architecture-and-the-tourism-experience.htm
+title: Wine, architecture and the tourism experience
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00109/wine-architecture-and-the-tourism-experience.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/23/wine-architecture-and-the-tourism-experience/index.html
+layout: layout.njk
 ---
 Wine, architecture and the tourism experience
 =============================================

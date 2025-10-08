@@ -1,9 +1,13 @@
 ---
 slug: climate-change-adaptation-hot-topic-for-book-launch
-title: "Climate change adaptation hot topic for book launch"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/SC1408/S00019/climate-change-adaptation-hot-topic-for-book-launch.htm
+title: Climate change adaptation hot topic for book launch
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00019/climate-change-adaptation-hot-topic-for-book-launch.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/07/climate-change-adaptation-hot-topic-for-book-launch/index.html
+layout: layout.njk
 ---
 Climate change adaptation hot topic for book launch
 ===================================================

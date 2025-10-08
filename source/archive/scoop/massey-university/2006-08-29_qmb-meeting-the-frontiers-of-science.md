@@ -1,9 +1,12 @@
 ---
 slug: qmb-meeting-the-frontiers-of-science
-title: "QMB Meeting, The Frontiers Of Science."
-date: 2006-08-29
-source-url: https://www.scoop.co.nz/stories/SC0608/S00062/qmb-meeting-the-frontiers-of-science.htm
+title: QMB Meeting, The Frontiers Of Science.
+date: 2006-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00062/qmb-meeting-the-frontiers-of-science.htm
 author: massey-university
+permalink: /archive/2006/08/29/qmb-meeting-the-frontiers-of-science/index.html
+layout: layout.njk
 ---
 QMB Meeting, The Frontiers Of Science.
 ======================================

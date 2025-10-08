@@ -1,9 +1,12 @@
 ---
 slug: int-gathering-to-focus-on-partnering-industry
-title: "Int. gathering to focus on partnering industry"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/ED0501/S00028/int-gathering-to-focus-on-partnering-industry.htm
+title: Int. gathering to focus on partnering industry
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00028/int-gathering-to-focus-on-partnering-industry.htm
 author: university-of-canterbury
+permalink: /archive/2005/01/17/int-gathering-to-focus-on-partnering-industry/index.html
+layout: layout.njk
 ---
 Int. gathering to focus on partnering industry
 ==============================================

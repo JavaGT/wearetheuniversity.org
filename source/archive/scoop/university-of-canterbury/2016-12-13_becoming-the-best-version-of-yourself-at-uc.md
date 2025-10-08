@@ -1,9 +1,12 @@
 ---
 slug: becoming-the-best-version-of-yourself-at-uc
-title: "Becoming the best version of yourself at UC"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/ED1612/S00053/becoming-the-best-version-of-yourself-at-uc.htm
+title: Becoming the best version of yourself at UC
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00053/becoming-the-best-version-of-yourself-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/13/becoming-the-best-version-of-yourself-at-uc/index.html
+layout: layout.njk
 ---
 Becoming the best version of yourself at UC
 ===========================================

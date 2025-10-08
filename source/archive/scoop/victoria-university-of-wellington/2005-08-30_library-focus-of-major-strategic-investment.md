@@ -1,9 +1,12 @@
 ---
 slug: library-focus-of-major-strategic-investment
-title: "Library focus of major strategic investment"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/ED0508/S00116/library-focus-of-major-strategic-investment.htm
+title: Library focus of major strategic investment
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00116/library-focus-of-major-strategic-investment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/08/30/library-focus-of-major-strategic-investment/index.html
+layout: layout.njk
 ---
 Library focus of major strategic investment
 ===========================================

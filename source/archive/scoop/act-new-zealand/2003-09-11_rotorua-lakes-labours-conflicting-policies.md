@@ -1,9 +1,12 @@
 ---
 slug: rotorua-lakes-labours-conflicting-policies
-title: "Rotorua Lakes - Labour's Conflicting Policies"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/PA0309/S00236/rotorua-lakes-labours-conflicting-policies.htm
+title: Rotorua Lakes - Labour's Conflicting Policies
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00236/rotorua-lakes-labours-conflicting-policies.htm
 author: act-new-zealand
+permalink: /archive/2003/09/11/rotorua-lakes-labours-conflicting-policies/index.html
+layout: layout.njk
 ---
 Rotorua Lakes - Labour's Conflicting Policies
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: david-cunliffe-state-of-the-nation-speech
-title: "David Cunliffe: State Of The Nation Speech"
-date: 2014-01-27
-source-url: https://www.scoop.co.nz/stories/PA1401/S00145/david-cunliffe-state-of-the-nation-speech.htm
+title: 'David Cunliffe: State Of The Nation Speech'
+date: 2014-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00145/david-cunliffe-state-of-the-nation-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/27/david-cunliffe-state-of-the-nation-speech/index.html
+layout: layout.njk
 ---
 David Cunliffe: State Of The Nation Speech
 ==========================================

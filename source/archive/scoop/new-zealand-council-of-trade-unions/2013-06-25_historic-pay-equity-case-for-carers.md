@@ -1,9 +1,12 @@
 ---
 slug: historic-pay-equity-case-for-carers
-title: "Historic pay equity case for carers"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/BU1306/S00842/historic-pay-equity-case-for-carers.htm
+title: Historic pay equity case for carers
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00842/historic-pay-equity-case-for-carers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/06/25/historic-pay-equity-case-for-carers/index.html
+layout: layout.njk
 ---
 Historic pay equity case for carers
 ===================================

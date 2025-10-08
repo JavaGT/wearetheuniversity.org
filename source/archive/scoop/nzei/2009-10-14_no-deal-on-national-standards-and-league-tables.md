@@ -1,9 +1,12 @@
 ---
 slug: no-deal-on-national-standards-and-league-tables
-title: "No \"Deal\" On National Standards And League Tables"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/ED0910/S00058/no-deal-on-national-standards-and-league-tables.htm
+title: No "Deal" On National Standards And League Tables
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00058/no-deal-on-national-standards-and-league-tables.htm
 author: nzei
+permalink: /archive/2009/10/14/no-deal-on-national-standards-and-league-tables/index.html
+layout: layout.njk
 ---
 No “Deal” On National Standards And League Tables
 =================================================

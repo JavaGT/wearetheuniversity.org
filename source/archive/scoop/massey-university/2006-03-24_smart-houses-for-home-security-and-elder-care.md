@@ -1,9 +1,12 @@
 ---
 slug: smart-houses-for-home-security-and-elder-care
-title: "‘Smart’ houses for home security and elder-care"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00070/smart-houses-for-home-security-and-elder-care.htm
+title: ‘Smart’ houses for home security and elder-care
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00070/smart-houses-for-home-security-and-elder-care.htm
 author: massey-university
+permalink: /archive/2006/03/24/smart-houses-for-home-security-and-elder-care/index.html
+layout: layout.njk
 ---
 ‘Smart’ houses for home security and elder-care
 ===============================================

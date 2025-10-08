@@ -1,9 +1,11 @@
 ---
 slug: students-asked-are-you-ok
-title: "Students asked \"Are You OK?\""
-date: 2011-09-19
+title: Students asked "Are You OK?"
+date: 2011-09-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1109/S00248/students-asked-are-you-ok.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/09/19/students-asked-are-you-ok/index.html
+layout: layout.njk
 ---
 Students asked “Are You OK?”
 ============================

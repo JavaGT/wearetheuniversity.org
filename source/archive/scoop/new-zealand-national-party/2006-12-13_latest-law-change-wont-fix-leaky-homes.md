@@ -1,9 +1,12 @@
 ---
 slug: latest-law-change-wont-fix-leaky-homes
-title: "Latest law change won't fix leaky homes"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00280/latest-law-change-wont-fix-leaky-homes.htm
+title: Latest law change won't fix leaky homes
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00280/latest-law-change-wont-fix-leaky-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/13/latest-law-change-wont-fix-leaky-homes/index.html
+layout: layout.njk
 ---
 Latest law change won't fix leaky homes
 =======================================

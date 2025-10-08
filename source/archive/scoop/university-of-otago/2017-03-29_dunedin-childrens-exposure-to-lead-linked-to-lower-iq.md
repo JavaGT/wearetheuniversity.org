@@ -1,9 +1,13 @@
 ---
 slug: dunedin-childrens-exposure-to-lead-linked-to-lower-iq
-title: "Dunedin children’s exposure to lead linked to lower IQ"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/GE1703/S00083/dunedin-childrens-exposure-to-lead-linked-to-lower-iq.htm
+title: Dunedin children’s exposure to lead linked to lower IQ
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00083/dunedin-childrens-exposure-to-lead-linked-to-lower-iq.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/29/dunedin-childrens-exposure-to-lead-linked-to-lower-iq/index.html
+layout: layout.njk
 ---
 Dunedin children’s exposure to lead linked to lower IQ
 ======================================================

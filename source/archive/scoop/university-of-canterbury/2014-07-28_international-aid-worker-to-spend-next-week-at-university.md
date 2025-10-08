@@ -1,9 +1,13 @@
 ---
 slug: international-aid-worker-to-spend-next-week-at-university
-title: "International aid worker to spend next week at University"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/ED1407/S00129/international-aid-worker-to-spend-next-week-at-university.htm
+title: International aid worker to spend next week at University
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00129/international-aid-worker-to-spend-next-week-at-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/28/international-aid-worker-to-spend-next-week-at-university/index.html
+layout: layout.njk
 ---
 International aid worker to spend next week at University
 =========================================================

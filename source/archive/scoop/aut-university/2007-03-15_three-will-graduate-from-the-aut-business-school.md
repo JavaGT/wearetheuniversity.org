@@ -1,9 +1,13 @@
 ---
 slug: three-will-graduate-from-the-aut-business-school
-title: "Three will graduate from the AUT Business School"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/ED0703/S00054/three-will-graduate-from-the-aut-business-school.htm
+title: Three will graduate from the AUT Business School
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00054/three-will-graduate-from-the-aut-business-school.htm
 author: aut-university
+permalink: >-
+  /archive/2007/03/15/three-will-graduate-from-the-aut-business-school/index.html
+layout: layout.njk
 ---
 Three will graduate from the AUT Business School
 ================================================

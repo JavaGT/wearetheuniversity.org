@@ -1,9 +1,12 @@
 ---
 slug: eco-activist-selected-for-rongotai
-title: "'Eco-activist' selected for Rongotai"
-date: 1999-07-25
-source-url: https://www.scoop.co.nz/stories/PA9907/S00469/eco-activist-selected-for-rongotai.htm
+title: '''Eco-activist'' selected for Rongotai'
+date: 1999-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00469/eco-activist-selected-for-rongotai.htm
 author: green-party
+permalink: /archive/1999/07/25/eco-activist-selected-for-rongotai/index.html
+layout: layout.njk
 ---
 'Eco-activist' selected for Rongotai
 ====================================

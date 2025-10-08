@@ -1,9 +1,11 @@
 ---
 slug: trade-training-in-trouble
-title: "Trade training in trouble"
-date: 2006-09-14
+title: Trade training in trouble
+date: 2006-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00353/trade-training-in-trouble.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/14/trade-training-in-trouble/index.html
+layout: layout.njk
 ---
 Trade training in trouble
 =========================

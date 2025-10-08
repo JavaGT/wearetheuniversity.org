@@ -1,9 +1,13 @@
 ---
 slug: greens-wrap-up-12-days-of-christmas-kids-front-and-centre
-title: "Greens wrap up ‘12 Days of Christmas’: kids front and centre"
-date: 2010-12-21
-source-url: https://www.scoop.co.nz/stories/PA1012/S00375/greens-wrap-up-12-days-of-christmas-kids-front-and-centre.htm
+title: 'Greens wrap up ‘12 Days of Christmas’: kids front and centre'
+date: 2010-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00375/greens-wrap-up-12-days-of-christmas-kids-front-and-centre.htm
 author: green-party
+permalink: >-
+  /archive/2010/12/21/greens-wrap-up-12-days-of-christmas-kids-front-and-centre/index.html
+layout: layout.njk
 ---
 Greens wrap up ‘12 Days of Christmas’: kids front and centre
 ============================================================

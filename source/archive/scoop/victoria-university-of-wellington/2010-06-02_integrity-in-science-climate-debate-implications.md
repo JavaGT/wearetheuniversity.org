@@ -1,9 +1,13 @@
 ---
 slug: integrity-in-science-climate-debate-implications
-title: "Integrity in Science: Climate Debate Implications"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/ED1006/S00010/integrity-in-science-climate-debate-implications.htm
+title: 'Integrity in Science: Climate Debate Implications'
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00010/integrity-in-science-climate-debate-implications.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/06/02/integrity-in-science-climate-debate-implications/index.html
+layout: layout.njk
 ---
 Integrity in Science: Climate Debate Implications
 =================================================

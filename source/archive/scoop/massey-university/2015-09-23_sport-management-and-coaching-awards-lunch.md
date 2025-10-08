@@ -1,9 +1,12 @@
 ---
 slug: sport-management-and-coaching-awards-lunch
-title: "Sport management and coaching awards lunch"
-date: 2015-09-23
-source-url: https://www.scoop.co.nz/stories/ED1509/S00139/sport-management-and-coaching-awards-lunch.htm
+title: Sport management and coaching awards lunch
+date: 2015-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00139/sport-management-and-coaching-awards-lunch.htm
 author: massey-university
+permalink: /archive/2015/09/23/sport-management-and-coaching-awards-lunch/index.html
+layout: layout.njk
 ---
 Sport management and coaching awards lunch
 ==========================================

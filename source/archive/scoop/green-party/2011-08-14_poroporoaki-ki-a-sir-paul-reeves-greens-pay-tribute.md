@@ -1,9 +1,13 @@
 ---
 slug: poroporoaki-ki-a-sir-paul-reeves-greens-pay-tribute
-title: "Poroporoaki ki a Sir Paul Reeves: Greens pay tribute"
-date: 2011-08-14
-source-url: https://www.scoop.co.nz/stories/PA1108/S00272/poroporoaki-ki-a-sir-paul-reeves-greens-pay-tribute.htm
+title: 'Poroporoaki ki a Sir Paul Reeves: Greens pay tribute'
+date: 2011-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00272/poroporoaki-ki-a-sir-paul-reeves-greens-pay-tribute.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/14/poroporoaki-ki-a-sir-paul-reeves-greens-pay-tribute/index.html
+layout: layout.njk
 ---
 Poroporoaki ki a Sir Paul Reeves: Greens pay tribute
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-universities-condemn-terror-attack
-title: "NZ universities condemn terror attack"
-date: 2019-03-16
-source-url: https://www.scoop.co.nz/stories/ED1903/S00034/nz-universities-condemn-terror-attack.htm
+title: NZ universities condemn terror attack
+date: 2019-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00034/nz-universities-condemn-terror-attack.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2019/03/16/nz-universities-condemn-terror-attack/index.html
+layout: layout.njk
 ---
 NZ universities condemn terror attack
 =====================================

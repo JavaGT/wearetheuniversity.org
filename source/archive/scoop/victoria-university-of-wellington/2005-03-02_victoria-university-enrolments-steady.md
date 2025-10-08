@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-enrolments-steady
-title: "Victoria University enrolments steady"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/ED0503/S00007/victoria-university-enrolments-steady.htm
+title: Victoria University enrolments steady
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00007/victoria-university-enrolments-steady.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/03/02/victoria-university-enrolments-steady/index.html
+layout: layout.njk
 ---
 Victoria University enrolments steady
 =====================================

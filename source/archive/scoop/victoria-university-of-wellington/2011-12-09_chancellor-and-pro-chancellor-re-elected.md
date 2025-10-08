@@ -1,9 +1,12 @@
 ---
 slug: chancellor-and-pro-chancellor-re-elected
-title: "Chancellor and Pro Chancellor re-elected"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/ED1112/S00052/chancellor-and-pro-chancellor-re-elected.htm
+title: Chancellor and Pro Chancellor re-elected
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00052/chancellor-and-pro-chancellor-re-elected.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/09/chancellor-and-pro-chancellor-re-elected/index.html
+layout: layout.njk
 ---
 Chancellor and Pro Chancellor re-elected
 ========================================

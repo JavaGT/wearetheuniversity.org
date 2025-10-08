@@ -1,9 +1,13 @@
 ---
 slug: nz-science-site-records-65000-hits-in-six-months
-title: "NZ Science site records 65,000 hits in six months"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/ED0305/S00007/nz-science-site-records-65000-hits-in-six-months.htm
+title: NZ Science site records 65,000 hits in six months
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00007/nz-science-site-records-65000-hits-in-six-months.htm
 author: aut-university
+permalink: >-
+  /archive/2003/05/02/nz-science-site-records-65000-hits-in-six-months/index.html
+layout: layout.njk
 ---
 NZ Science site records 65,000 hits in six months
 =================================================

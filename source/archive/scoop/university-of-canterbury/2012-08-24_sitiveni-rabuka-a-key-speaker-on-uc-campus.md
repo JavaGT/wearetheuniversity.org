@@ -1,9 +1,12 @@
 ---
 slug: sitiveni-rabuka-a-key-speaker-on-uc-campus
-title: "Sitiveni Rabuka a key speaker on UC campus"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/PO1208/S00374/sitiveni-rabuka-a-key-speaker-on-uc-campus.htm
+title: Sitiveni Rabuka a key speaker on UC campus
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00374/sitiveni-rabuka-a-key-speaker-on-uc-campus.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/24/sitiveni-rabuka-a-key-speaker-on-uc-campus/index.html
+layout: layout.njk
 ---
 Sitiveni Rabuka a key speaker on UC campus
 ==========================================

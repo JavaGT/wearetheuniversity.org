@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-after-cancun-wheres-plan-b
-title: "Liberty Belle: After Cancun - Where's Plan B?"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/PA0309/S00455/liberty-belle-after-cancun-wheres-plan-b.htm
+title: 'Liberty Belle: After Cancun - Where''s Plan B?'
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00455/liberty-belle-after-cancun-wheres-plan-b.htm
 author: act-new-zealand
+permalink: /archive/2003/09/19/liberty-belle-after-cancun-wheres-plan-b/index.html
+layout: layout.njk
 ---
 Liberty Belle: After Cancun - Where's Plan B?
 =============================================

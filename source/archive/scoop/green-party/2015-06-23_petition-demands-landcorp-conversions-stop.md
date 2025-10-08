@@ -1,9 +1,12 @@
 ---
 slug: petition-demands-landcorp-conversions-stop
-title: "Petition demands Landcorp conversions stop"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/PA1506/S00404/petition-demands-landcorp-conversions-stop.htm
+title: Petition demands Landcorp conversions stop
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00404/petition-demands-landcorp-conversions-stop.htm
 author: green-party
+permalink: /archive/2015/06/23/petition-demands-landcorp-conversions-stop/index.html
+layout: layout.njk
 ---
 Petition demands Landcorp conversions stop
 ==========================================

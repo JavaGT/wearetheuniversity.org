@@ -1,9 +1,12 @@
 ---
 slug: labour-day-a-time-for-work-life-balance
-title: "Labour Day a Time for Work-Life Balance"
-date: 2004-10-22
-source-url: https://www.scoop.co.nz/stories/PO0410/S00230/labour-day-a-time-for-work-life-balance.htm
+title: Labour Day a Time for Work-Life Balance
+date: 2004-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00230/labour-day-a-time-for-work-life-balance.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/10/22/labour-day-a-time-for-work-life-balance/index.html
+layout: layout.njk
 ---
 Labour Day a Time for Work-Life Balance
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-and-greens-serving-business-interests
-title: "Labour and Greens serving business interests"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/PA1403/S00461/labour-and-greens-serving-business-interests.htm
+title: Labour and Greens serving business interests
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00461/labour-and-greens-serving-business-interests.htm
 author: act-new-zealand
+permalink: /archive/2014/03/24/labour-and-greens-serving-business-interests/index.html
+layout: layout.njk
 ---
 Labour and Greens serving business interests
 ============================================

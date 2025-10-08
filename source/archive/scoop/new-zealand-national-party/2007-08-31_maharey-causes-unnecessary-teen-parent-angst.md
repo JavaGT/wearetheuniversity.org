@@ -1,9 +1,12 @@
 ---
 slug: maharey-causes-unnecessary-teen-parent-angst
-title: "Maharey causes unnecessary teen parent angst"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/PA0708/S00550/maharey-causes-unnecessary-teen-parent-angst.htm
+title: Maharey causes unnecessary teen parent angst
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00550/maharey-causes-unnecessary-teen-parent-angst.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/31/maharey-causes-unnecessary-teen-parent-angst/index.html
+layout: layout.njk
 ---
 Maharey causes unnecessary teen parent angst
 ============================================

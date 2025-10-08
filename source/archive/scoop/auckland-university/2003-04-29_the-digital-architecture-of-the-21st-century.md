@@ -1,9 +1,12 @@
 ---
 slug: the-digital-architecture-of-the-21st-century
-title: "The Digital Architecture Of The 21st Century"
-date: 2003-04-29
-source-url: https://www.scoop.co.nz/stories/ED0304/S00052/the-digital-architecture-of-the-21st-century.htm
+title: The Digital Architecture Of The 21st Century
+date: 2003-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00052/the-digital-architecture-of-the-21st-century.htm
 author: auckland-university
+permalink: /archive/2003/04/29/the-digital-architecture-of-the-21st-century/index.html
+layout: layout.njk
 ---
 The Digital Architecture Of The 21st Century
 ============================================

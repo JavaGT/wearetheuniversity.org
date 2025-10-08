@@ -1,9 +1,11 @@
 ---
 slug: ausm-orientation-2010
-title: "AuSM Orientation 2010"
-date: 2010-02-19
+title: AuSM Orientation 2010
+date: 2010-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1002/S00367/ausm-orientation-2010.htm
 author: aut-university
+permalink: /archive/2010/02/19/ausm-orientation-2010/index.html
+layout: layout.njk
 ---
 AuSM Orientation 2010
 =====================

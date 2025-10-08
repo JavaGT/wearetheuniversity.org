@@ -1,9 +1,11 @@
 ---
 slug: no-cronyism-yeah-right
-title: "No cronyism – yeah right"
-date: 2006-06-20
+title: No cronyism – yeah right
+date: 2006-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00370/no-cronyism-yeah-right.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/20/no-cronyism-yeah-right/index.html
+layout: layout.njk
 ---
 No cronyism – yeah right
 ========================

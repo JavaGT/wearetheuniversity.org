@@ -1,9 +1,12 @@
 ---
 slug: labours-proposal-will-double-student-debt
-title: "Labour's Proposal Will Double Student Debt"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00612/labours-proposal-will-double-student-debt.htm
+title: Labour's Proposal Will Double Student Debt
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00612/labours-proposal-will-double-student-debt.htm
 author: act-new-zealand
+permalink: /archive/1999/09/29/labours-proposal-will-double-student-debt/index.html
+layout: layout.njk
 ---
 Labour's Proposal Will Double Student Debt
 ==========================================

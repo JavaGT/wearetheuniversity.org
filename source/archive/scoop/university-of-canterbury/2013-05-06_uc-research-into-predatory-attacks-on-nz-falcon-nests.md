@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-predatory-attacks-on-nz-falcon-nests
-title: "UC Research Into Predatory Attacks on NZ Falcon Nests"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/SC1305/S00023/uc-research-into-predatory-attacks-on-nz-falcon-nests.htm
+title: UC Research Into Predatory Attacks on NZ Falcon Nests
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00023/uc-research-into-predatory-attacks-on-nz-falcon-nests.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/06/uc-research-into-predatory-attacks-on-nz-falcon-nests/index.html
+layout: layout.njk
 ---
 UC Research Into Predatory Attacks on NZ Falcon Nests
 =====================================================

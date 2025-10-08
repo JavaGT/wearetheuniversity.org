@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-1-september-its-clarkgate
-title: "ACT's The Letter 1 September: It’s Clarkgate"
-date: 2003-09-01
-source-url: https://www.scoop.co.nz/stories/PA0309/S00009/acts-the-letter-1-september-its-clarkgate.htm
+title: 'ACT''s The Letter 1 September: It’s Clarkgate'
+date: 2003-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00009/acts-the-letter-1-september-its-clarkgate.htm
 author: act-new-zealand
+permalink: /archive/2003/09/01/acts-the-letter-1-september-its-clarkgate/index.html
+layout: layout.njk
 ---
 ACT's The Letter 1 September: It’s Clarkgate
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: victorias-fee-rise-unjustified
-title: "Victoria's fee rise unjustified"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/PO0703/S00338/victorias-fee-rise-unjustified.htm
+title: Victoria's fee rise unjustified
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00338/victorias-fee-rise-unjustified.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/03/27/victorias-fee-rise-unjustified/index.html
+layout: layout.njk
 ---
 Victoria's fee rise unjustified
 ===============================

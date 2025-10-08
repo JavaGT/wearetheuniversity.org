@@ -1,9 +1,12 @@
 ---
 slug: geothermal-research-seminar-at-uc-next-month
-title: "Geothermal research seminar at UC next month"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/SC1210/S00034/geothermal-research-seminar-at-uc-next-month.htm
+title: Geothermal research seminar at UC next month
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00034/geothermal-research-seminar-at-uc-next-month.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/17/geothermal-research-seminar-at-uc-next-month/index.html
+layout: layout.njk
 ---
 Geothermal research seminar at UC next month
 ============================================

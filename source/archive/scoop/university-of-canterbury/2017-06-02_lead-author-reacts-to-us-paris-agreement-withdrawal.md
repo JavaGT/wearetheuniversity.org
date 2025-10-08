@@ -1,9 +1,13 @@
 ---
 slug: lead-author-reacts-to-us-paris-agreement-withdrawal
-title: "Lead author reacts to US Paris Agreement withdrawal"
-date: 2017-06-02
-source-url: https://www.scoop.co.nz/stories/PO1706/S00019/lead-author-reacts-to-us-paris-agreement-withdrawal.htm
+title: Lead author reacts to US Paris Agreement withdrawal
+date: 2017-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00019/lead-author-reacts-to-us-paris-agreement-withdrawal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/02/lead-author-reacts-to-us-paris-agreement-withdrawal/index.html
+layout: layout.njk
 ---
 Lead author reacts to US Paris Agreement withdrawal
 ===================================================

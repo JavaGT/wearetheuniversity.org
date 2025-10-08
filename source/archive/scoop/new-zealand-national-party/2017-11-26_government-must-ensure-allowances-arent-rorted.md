@@ -1,9 +1,12 @@
 ---
 slug: government-must-ensure-allowances-arent-rorted
-title: "Government must ensure allowances aren’t rorted"
-date: 2017-11-26
-source-url: https://www.scoop.co.nz/stories/PA1711/S00148/government-must-ensure-allowances-arent-rorted.htm
+title: Government must ensure allowances aren’t rorted
+date: 2017-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00148/government-must-ensure-allowances-arent-rorted.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/26/government-must-ensure-allowances-arent-rorted/index.html
+layout: layout.njk
 ---
 Government must ensure allowances aren’t rorted
 ===============================================

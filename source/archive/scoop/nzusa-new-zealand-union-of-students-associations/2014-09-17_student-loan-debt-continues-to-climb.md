@@ -1,9 +1,12 @@
 ---
 slug: student-loan-debt-continues-to-climb
-title: "Student Loan Debt Continues to Climb"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/ED1409/S00105/student-loan-debt-continues-to-climb.htm
+title: Student Loan Debt Continues to Climb
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00105/student-loan-debt-continues-to-climb.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/09/17/student-loan-debt-continues-to-climb/index.html
+layout: layout.njk
 ---
 Student Loan Debt Continues to Climb
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: national-comments-appalling-young-labour
-title: "National Comments Appalling - Young Labour"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/PO0810/S00414/national-comments-appalling-young-labour.htm
+title: National Comments Appalling - Young Labour
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00414/national-comments-appalling-young-labour.htm
 author: young-labour
+permalink: /archive/2008/10/24/national-comments-appalling-young-labour/index.html
+layout: layout.njk
 ---
 National Comments Appalling - Young Labour
 ==========================================

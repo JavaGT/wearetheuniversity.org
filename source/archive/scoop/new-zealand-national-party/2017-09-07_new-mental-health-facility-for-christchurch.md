@@ -1,9 +1,12 @@
 ---
 slug: new-mental-health-facility-for-christchurch
-title: "New mental health facility for Christchurch"
-date: 2017-09-07
-source-url: https://www.scoop.co.nz/stories/PA1709/S00080/new-mental-health-facility-for-christchurch.htm
+title: New mental health facility for Christchurch
+date: 2017-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00080/new-mental-health-facility-for-christchurch.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/07/new-mental-health-facility-for-christchurch/index.html
+layout: layout.njk
 ---
 New mental health facility for Christchurch
 ===========================================

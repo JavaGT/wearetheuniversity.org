@@ -1,9 +1,13 @@
 ---
 slug: closure-of-christchurch-nelson-special-schools-devastating
-title: "Closure of Christchurch, Nelson Special Schools devastating"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/ED1210/S00192/closure-of-christchurch-nelson-special-schools-devastating.htm
+title: Closure of Christchurch, Nelson Special Schools devastating
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00192/closure-of-christchurch-nelson-special-schools-devastating.htm
 author: nzei
+permalink: >-
+  /archive/2012/10/31/closure-of-christchurch-nelson-special-schools-devastating/index.html
+layout: layout.njk
 ---
 Closure of Christchurch, Nelson Special Schools devastating
 ===========================================================

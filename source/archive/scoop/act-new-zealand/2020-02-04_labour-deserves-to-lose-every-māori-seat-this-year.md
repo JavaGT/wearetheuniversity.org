@@ -1,9 +1,12 @@
 ---
 slug: labour-deserves-to-lose-every-māori-seat-this-year
-title: "Labour deserves to lose every Māori seat this year"
-date: 2020-02-04
-source-url: https://www.scoop.co.nz/stories/PA2002/S00022/labour-deserves-to-lose-every-maori-seat-this-year.htm
+title: Labour deserves to lose every Māori seat this year
+date: 2020-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00022/labour-deserves-to-lose-every-maori-seat-this-year.htm
 author: act-new-zealand
+permalink: /archive/2020/02/04/labour-deserves-to-lose-every-m/index.html
+layout: layout.njk
 ---
 Labour deserves to lose every Māori seat this year
 ==================================================

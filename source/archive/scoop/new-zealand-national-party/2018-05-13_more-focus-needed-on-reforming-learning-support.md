@@ -1,9 +1,12 @@
 ---
 slug: more-focus-needed-on-reforming-learning-support
-title: "More focus needed on reforming learning support"
-date: 2018-05-13
-source-url: https://www.scoop.co.nz/stories/PA1805/S00159/more-focus-needed-on-reforming-learning-support.htm
+title: More focus needed on reforming learning support
+date: 2018-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00159/more-focus-needed-on-reforming-learning-support.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/13/more-focus-needed-on-reforming-learning-support/index.html
+layout: layout.njk
 ---
 More focus needed on reforming learning support
 ===============================================

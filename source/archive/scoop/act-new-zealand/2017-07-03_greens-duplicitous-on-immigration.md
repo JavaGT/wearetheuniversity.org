@@ -1,9 +1,12 @@
 ---
 slug: greens-duplicitous-on-immigration
-title: "Greens duplicitous on immigration"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PA1707/S00026/greens-duplicitous-on-immigration.htm
+title: Greens duplicitous on immigration
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00026/greens-duplicitous-on-immigration.htm
 author: act-new-zealand
+permalink: /archive/2017/07/03/greens-duplicitous-on-immigration/index.html
+layout: layout.njk
 ---
 Greens duplicitous on immigration
 =================================

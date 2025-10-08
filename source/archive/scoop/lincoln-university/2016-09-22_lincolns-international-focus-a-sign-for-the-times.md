@@ -1,9 +1,13 @@
 ---
 slug: lincolns-international-focus-a-sign-for-the-times
-title: "Lincoln’s international focus a sign for the Times"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/ED1609/S00103/lincolns-international-focus-a-sign-for-the-times.htm
+title: Lincoln’s international focus a sign for the Times
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00103/lincolns-international-focus-a-sign-for-the-times.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/09/22/lincolns-international-focus-a-sign-for-the-times/index.html
+layout: layout.njk
 ---
 Lincoln’s international focus a sign for the Times
 ==================================================

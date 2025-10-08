@@ -1,9 +1,16 @@
 ---
-slug: free-fares-nz-committed-to-achieving-affordable-public-transport-despite-discounts-being-axed
-title: "Free Fares NZ Committed To Achieving Affordable Public Transport Despite Discounts Being Axed"
-date: 2023-12-20
-source-url: https://www.scoop.co.nz/stories/PO2312/S00181/free-fares-nz-committed-to-achieving-affordable-public-transport-despite-discounts-being-axed.htm
+slug: >-
+  free-fares-nz-committed-to-achieving-affordable-public-transport-despite-discounts-being-axed
+title: >-
+  Free Fares NZ Committed To Achieving Affordable Public Transport Despite
+  Discounts Being Axed
+date: 2023-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00181/free-fares-nz-committed-to-achieving-affordable-public-transport-despite-discounts-being-axed.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/12/20/free-fares-nz-committed-to-achieving-affordable-public-transport-despite-discounts-being-axed/index.html
+layout: layout.njk
 ---
 Free Fares NZ Committed To Achieving Affordable Public Transport Despite Discounts Being Axed
 =============================================================================================

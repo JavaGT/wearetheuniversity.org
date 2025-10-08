@@ -1,9 +1,12 @@
 ---
 slug: over-65s-to-double-by-2040-changes-needed
-title: "Over 65s to double by 2040 – changes needed"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/PA1308/S00232/over-65s-to-double-by-2040-changes-needed.htm
+title: Over 65s to double by 2040 – changes needed
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00232/over-65s-to-double-by-2040-changes-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/14/over-65s-to-double-by-2040-changes-needed/index.html
+layout: layout.njk
 ---
 Over 65s to double by 2040 – changes needed
 ===========================================

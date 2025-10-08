@@ -1,9 +1,12 @@
 ---
 slug: support-staff-celebrate-career-pathway-progress
-title: "Support Staff celebrate career pathway progress"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/ED1406/S00057/support-staff-celebrate-career-pathway-progress.htm
+title: Support Staff celebrate career pathway progress
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00057/support-staff-celebrate-career-pathway-progress.htm
 author: nzei
+permalink: /archive/2014/06/11/support-staff-celebrate-career-pathway-progress/index.html
+layout: layout.njk
 ---
 Support Staff celebrate career pathway progress
 ===============================================

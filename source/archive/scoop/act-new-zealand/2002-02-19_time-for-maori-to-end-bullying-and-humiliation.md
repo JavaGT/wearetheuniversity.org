@@ -1,9 +1,12 @@
 ---
 slug: time-for-maori-to-end-bullying-and-humiliation
-title: "Time for Maori to End Bullying and Humiliation"
-date: 2002-02-19
-source-url: https://www.scoop.co.nz/stories/PA0202/S00273/time-for-maori-to-end-bullying-and-humiliation.htm
+title: Time for Maori to End Bullying and Humiliation
+date: 2002-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00273/time-for-maori-to-end-bullying-and-humiliation.htm
 author: act-new-zealand
+permalink: /archive/2002/02/19/time-for-maori-to-end-bullying-and-humiliation/index.html
+layout: layout.njk
 ---
 Time for Maori to End Bullying and Humiliation
 ==============================================

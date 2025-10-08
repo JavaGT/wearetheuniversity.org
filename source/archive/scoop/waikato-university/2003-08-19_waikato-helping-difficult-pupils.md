@@ -1,9 +1,12 @@
 ---
 slug: waikato-helping-difficult-pupils
-title: "Waikato helping \"difficult\" pupils"
-date: 2003-08-19
-source-url: https://www.scoop.co.nz/stories/ED0308/S00067/waikato-helping-difficult-pupils.htm
+title: Waikato helping "difficult" pupils
+date: 2003-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00067/waikato-helping-difficult-pupils.htm
 author: waikato-university
+permalink: /archive/2003/08/19/waikato-helping-difficult-pupils/index.html
+layout: layout.njk
 ---
 Waikato helping “difficult” pupils
 ==================================

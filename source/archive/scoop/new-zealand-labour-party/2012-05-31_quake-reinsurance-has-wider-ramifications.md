@@ -1,9 +1,12 @@
 ---
 slug: quake-reinsurance-has-wider-ramifications
-title: "Quake reinsurance has wider ramifications"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/PA1205/S00564/quake-reinsurance-has-wider-ramifications.htm
+title: Quake reinsurance has wider ramifications
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00564/quake-reinsurance-has-wider-ramifications.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/31/quake-reinsurance-has-wider-ramifications/index.html
+layout: layout.njk
 ---
 Quake reinsurance has wider ramifications
 =========================================

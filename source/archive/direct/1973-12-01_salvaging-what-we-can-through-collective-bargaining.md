@@ -1,11 +1,15 @@
 ---
-title: "Salvaging What We Can Through Collective Bargaining"
+title: Salvaging What We Can Through Collective Bargaining
 slug: salvaging-what-we-can-through-collective-bargaining
-date: 1973-12-01
-source: https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/faculty_forum_papers_faculty_senate_oregon_state_university.pdf
+date: 1973-12-01T00:00:00.000Z
+source: >-
+  https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/faculty_forum_papers_faculty_senate_oregon_state_university.pdf
 source-name: December 1973 OSU Faculty Forum Papers
 author: Lafe Harter
 author-slug: lafe-harter
+permalink: >-
+  /archive/1973/12/01/salvaging-what-we-can-through-collective-bargaining/index.html
+layout: layout.njk
 ---
 
 While many of our colleagues are eager to embrace collective bargaining, a number hold back. They ask, \"We, bargain with the University? Preposterous! We are the University!"

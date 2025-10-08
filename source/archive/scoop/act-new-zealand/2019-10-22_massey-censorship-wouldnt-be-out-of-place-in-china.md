@@ -1,9 +1,13 @@
 ---
 slug: massey-censorship-wouldnt-be-out-of-place-in-china
-title: "Massey censorship wouldn’t be out of place in China"
-date: 2019-10-22
-source-url: https://www.scoop.co.nz/stories/PA1910/S00171/massey-censorship-wouldnt-be-out-of-place-in-china.htm
+title: Massey censorship wouldn’t be out of place in China
+date: 2019-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00171/massey-censorship-wouldnt-be-out-of-place-in-china.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/22/massey-censorship-wouldnt-be-out-of-place-in-china/index.html
+layout: layout.njk
 ---
 Massey censorship wouldn’t be out of place in China
 ===================================================

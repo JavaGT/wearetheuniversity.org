@@ -1,9 +1,13 @@
 ---
 slug: fono-looks-at-way-forward-for-education-in-south-auckland
-title: "Fono looks at way forward for education in South Auckland"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/ED1209/S00051/fono-looks-at-way-forward-for-education-in-south-auckland.htm
+title: Fono looks at way forward for education in South Auckland
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00051/fono-looks-at-way-forward-for-education-in-south-auckland.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/07/fono-looks-at-way-forward-for-education-in-south-auckland/index.html
+layout: layout.njk
 ---
 Fono looks at way forward for education in South Auckland
 =========================================================

@@ -1,9 +1,11 @@
 ---
 slug: uc-gains-$6-5m-funds
-title: "UC gains $6.5m funds"
-date: 2019-11-06
+title: UC gains $6.5m funds
+date: 2019-11-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1911/S00016/uc-gains-65m-funds.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/06/uc-gains-/index.html
+layout: layout.njk
 ---
 UC gains $6.5m funds
 ====================

@@ -1,9 +1,13 @@
 ---
 slug: high-flyer-and-an-on-the-ground-trailblazer-recognised
-title: "‘High flyer’ and an ‘on-the-ground’ trailblazer recognised"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/ED1303/S00198/high-flyer-and-an-on-the-ground-trailblazer-recognised.htm
+title: ‘High flyer’ and an ‘on-the-ground’ trailblazer recognised
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00198/high-flyer-and-an-on-the-ground-trailblazer-recognised.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/03/27/high-flyer-and-an-on-the-ground-trailblazer-recognised/index.html
+layout: layout.njk
 ---
 ‘High flyer’ and an ‘on-the-ground’ trailblazer recognised
 ==========================================================

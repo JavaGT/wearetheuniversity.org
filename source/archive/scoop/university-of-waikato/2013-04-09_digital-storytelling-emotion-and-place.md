@@ -1,9 +1,12 @@
 ---
 slug: digital-storytelling-emotion-and-place
-title: "Digital Storytelling, Emotion And Place"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/ED1304/S00031/digital-storytelling-emotion-and-place.htm
+title: Digital Storytelling, Emotion And Place
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00031/digital-storytelling-emotion-and-place.htm
 author: university-of-waikato
+permalink: /archive/2013/04/09/digital-storytelling-emotion-and-place/index.html
+layout: layout.njk
 ---
 Digital Storytelling, Emotion And Place
 =======================================

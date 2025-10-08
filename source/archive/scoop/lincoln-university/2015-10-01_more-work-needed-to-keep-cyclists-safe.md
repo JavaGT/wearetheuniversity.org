@@ -1,9 +1,12 @@
 ---
 slug: more-work-needed-to-keep-cyclists-safe
-title: "More work needed to keep cyclists safe"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/ED1510/S00008/more-work-needed-to-keep-cyclists-safe.htm
+title: More work needed to keep cyclists safe
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00008/more-work-needed-to-keep-cyclists-safe.htm
 author: lincoln-university
+permalink: /archive/2015/10/01/more-work-needed-to-keep-cyclists-safe/index.html
+layout: layout.njk
 ---
 More work needed to keep cyclists safe
 ======================================

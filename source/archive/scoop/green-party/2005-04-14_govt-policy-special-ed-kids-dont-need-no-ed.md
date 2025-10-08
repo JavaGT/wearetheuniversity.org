@@ -1,9 +1,12 @@
 ---
 slug: govt-policy-special-ed-kids-dont-need-no-ed
-title: "Govt policy: special ed kids don't need no ed"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/PA0504/S00330/govt-policy-special-ed-kids-dont-need-no-ed.htm
+title: 'Govt policy: special ed kids don''t need no ed'
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00330/govt-policy-special-ed-kids-dont-need-no-ed.htm
 author: green-party
+permalink: /archive/2005/04/14/govt-policy-special-ed-kids-dont-need-no-ed/index.html
+layout: layout.njk
 ---
 Govt policy: special ed kids don't need no ed
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-urges-massey-council-to-vote-no
-title: "NZUSA urges Massey Council to vote no"
-date: 2000-08-04
-source-url: https://www.scoop.co.nz/stories/ED0008/S00011/nzusa-urges-massey-council-to-vote-no.htm
+title: NZUSA urges Massey Council to vote no
+date: 2000-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00011/nzusa-urges-massey-council-to-vote-no.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/08/04/nzusa-urges-massey-council-to-vote-no/index.html
+layout: layout.njk
 ---
 NZUSA urges Massey Council to vote no
 =====================================

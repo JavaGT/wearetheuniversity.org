@@ -1,9 +1,12 @@
 ---
 slug: newspaper-paywalls-not-paying-off-…-yet
-title: "Newspaper paywalls not paying off … yet"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/BU1306/S00124/newspaper-paywalls-not-paying-off-yet.htm
+title: Newspaper paywalls not paying off … yet
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00124/newspaper-paywalls-not-paying-off-yet.htm
 author: aut-university
+permalink: /archive/2013/06/05/newspaper-paywalls-not-paying-off-/index.html
+layout: layout.njk
 ---
 Newspaper paywalls not paying off … yet
 =======================================

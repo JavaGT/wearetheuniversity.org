@@ -1,8 +1,11 @@
 ---
 slug: taniwha-human-powered-sub-world-champion
-title: "Taniwha human-powered sub world champion"
-date: 2016-07-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/taniwha-human-powered-sub-world-champion.html
+title: Taniwha human-powered sub world champion
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/taniwha-human-powered-sub-world-champion.html
+permalink: /archive/2016/07/19/taniwha-human-powered-sub-world-champion/index.html
+layout: layout.njk
 ---
 Taniwha human-powered sub world champion
 ========================================

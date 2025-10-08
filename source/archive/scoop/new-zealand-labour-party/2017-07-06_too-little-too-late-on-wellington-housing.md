@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-on-wellington-housing
-title: "Too little too late on Wellington housing"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/PA1707/S00080/too-little-too-late-on-wellington-housing.htm
+title: Too little too late on Wellington housing
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00080/too-little-too-late-on-wellington-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/06/too-little-too-late-on-wellington-housing/index.html
+layout: layout.njk
 ---
 Too little too late on Wellington housing
 =========================================

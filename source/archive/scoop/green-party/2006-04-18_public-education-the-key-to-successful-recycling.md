@@ -1,9 +1,13 @@
 ---
 slug: public-education-the-key-to-successful-recycling
-title: "Public education the key to successful recycling"
-date: 2006-04-18
-source-url: https://www.scoop.co.nz/stories/PA0604/S00292/public-education-the-key-to-successful-recycling.htm
+title: Public education the key to successful recycling
+date: 2006-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00292/public-education-the-key-to-successful-recycling.htm
 author: green-party
+permalink: >-
+  /archive/2006/04/18/public-education-the-key-to-successful-recycling/index.html
+layout: layout.njk
 ---
 Public education the key to successful recycling
 ================================================

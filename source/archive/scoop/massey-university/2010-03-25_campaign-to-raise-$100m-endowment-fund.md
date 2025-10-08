@@ -1,9 +1,12 @@
 ---
 slug: campaign-to-raise-$100m-endowment-fund
-title: "Campaign to raise $100m endowment fund"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/ED1003/S00113/campaign-to-raise-100m-endowment-fund.htm
+title: Campaign to raise $100m endowment fund
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00113/campaign-to-raise-100m-endowment-fund.htm
 author: massey-university
+permalink: /archive/2010/03/25/campaign-to-raise-/index.html
+layout: layout.njk
 ---
 Campaign to raise $100m endowment fund
 ======================================

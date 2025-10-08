@@ -1,9 +1,12 @@
 ---
 slug: what-about-education-prime-minister
-title: "What About Education, Prime Minister?"
-date: 2002-02-12
-source-url: https://www.scoop.co.nz/stories/PA0202/S00134/what-about-education-prime-minister.htm
+title: What About Education, Prime Minister?
+date: 2002-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00134/what-about-education-prime-minister.htm
 author: act-new-zealand
+permalink: /archive/2002/02/12/what-about-education-prime-minister/index.html
+layout: layout.njk
 ---
 What About Education, Prime Minister?
 =====================================

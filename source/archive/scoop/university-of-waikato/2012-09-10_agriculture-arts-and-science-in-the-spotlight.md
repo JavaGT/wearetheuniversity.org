@@ -1,9 +1,12 @@
 ---
 slug: agriculture-arts-and-science-in-the-spotlight
-title: "Agriculture, arts and science in the spotlight"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/ED1209/S00055/agriculture-arts-and-science-in-the-spotlight.htm
+title: Agriculture, arts and science in the spotlight
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00055/agriculture-arts-and-science-in-the-spotlight.htm
 author: university-of-waikato
+permalink: /archive/2012/09/10/agriculture-arts-and-science-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Agriculture, arts and science in the spotlight
 ==============================================

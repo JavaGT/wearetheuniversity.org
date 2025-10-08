@@ -1,9 +1,13 @@
 ---
 slug: students-and-staff-protest-against-university-restructure
-title: "Students and staff protest against university restructure"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/PO1805/S00212/students-and-staff-protest-against-university-restructure.htm
+title: Students and staff protest against university restructure
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00212/students-and-staff-protest-against-university-restructure.htm
 author: a-new-university
+permalink: >-
+  /archive/2018/05/17/students-and-staff-protest-against-university-restructure/index.html
+layout: layout.njk
 ---
 Students and staff protest against university restructure
 =========================================================

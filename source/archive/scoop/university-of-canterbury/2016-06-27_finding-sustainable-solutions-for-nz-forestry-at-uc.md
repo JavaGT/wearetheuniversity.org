@@ -1,9 +1,13 @@
 ---
 slug: finding-sustainable-solutions-for-nz-forestry-at-uc
-title: "Finding sustainable solutions for NZ forestry at UC"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/SC1606/S00059/finding-sustainable-solutions-for-nz-forestry-at-uc.htm
+title: Finding sustainable solutions for NZ forestry at UC
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00059/finding-sustainable-solutions-for-nz-forestry-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/27/finding-sustainable-solutions-for-nz-forestry-at-uc/index.html
+layout: layout.njk
 ---
 Finding sustainable solutions for NZ forestry at UC
 ===================================================

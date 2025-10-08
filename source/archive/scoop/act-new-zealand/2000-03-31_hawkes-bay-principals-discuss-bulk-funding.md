@@ -1,9 +1,12 @@
 ---
 slug: hawkes-bay-principals-discuss-bulk-funding
-title: "Hawkes Bay Principals Discuss Bulk Funding"
-date: 2000-03-31
-source-url: https://www.scoop.co.nz/stories/PA0003/S00564/hawkes-bay-principals-discuss-bulk-funding.htm
+title: Hawkes Bay Principals Discuss Bulk Funding
+date: 2000-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00564/hawkes-bay-principals-discuss-bulk-funding.htm
 author: act-new-zealand
+permalink: /archive/2000/03/31/hawkes-bay-principals-discuss-bulk-funding/index.html
+layout: layout.njk
 ---
 Hawkes Bay Principals Discuss Bulk Funding
 ==========================================

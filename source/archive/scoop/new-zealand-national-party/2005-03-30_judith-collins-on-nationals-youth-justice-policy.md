@@ -1,9 +1,13 @@
 ---
 slug: judith-collins-on-nationals-youth-justice-policy
-title: "Judith Collins on National's Youth Justice Policy"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/PA0503/S00557/judith-collins-on-nationals-youth-justice-policy.htm
+title: Judith Collins on National's Youth Justice Policy
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00557/judith-collins-on-nationals-youth-justice-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/03/30/judith-collins-on-nationals-youth-justice-policy/index.html
+layout: layout.njk
 ---
 Judith Collins on National's Youth Justice Policy
 =================================================

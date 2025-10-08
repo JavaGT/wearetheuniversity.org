@@ -1,9 +1,11 @@
 ---
 slug: national-launches-skools-co-nz
-title: "National launches SKOOLS.co.nz"
-date: 2004-01-11
+title: National launches SKOOLS.co.nz
+date: 2004-01-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0401/S00032/national-launches-skoolsconz.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/11/national-launches-skools-co-nz/index.html
+layout: layout.njk
 ---
 National launches SKOOLS.co.nz
 ==============================

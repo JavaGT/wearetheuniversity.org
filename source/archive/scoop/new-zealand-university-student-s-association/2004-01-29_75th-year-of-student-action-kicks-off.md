@@ -1,9 +1,12 @@
 ---
 slug: 75th-year-of-student-action-kicks-off
-title: "75th year of student action kicks off"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/ED0401/S00045/75th-year-of-student-action-kicks-off.htm
+title: 75th year of student action kicks off
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00045/75th-year-of-student-action-kicks-off.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/29/75th-year-of-student-action-kicks-off/index.html
+layout: layout.njk
 ---
 75th year of student action kicks off
 =====================================

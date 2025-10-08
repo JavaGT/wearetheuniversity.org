@@ -1,9 +1,12 @@
 ---
 slug: inquiries-not-enough-say-the-greens
-title: "Inquiries not enough say the Greens"
-date: 1999-12-22
-source-url: https://www.scoop.co.nz/stories/PA9912/S00103/inquiries-not-enough-say-the-greens.htm
+title: Inquiries not enough say the Greens
+date: 1999-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00103/inquiries-not-enough-say-the-greens.htm
 author: green-party
+permalink: /archive/1999/12/22/inquiries-not-enough-say-the-greens/index.html
+layout: layout.njk
 ---
 Inquiries not enough say the Greens
 ===================================

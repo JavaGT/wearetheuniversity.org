@@ -1,9 +1,13 @@
 ---
 slug: minister-buying-a-cheaper-future-with-class-size-increases
-title: "Minister Buying a Cheaper Future with Class-Size Increases"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/PO1205/S00253/minister-buying-a-cheaper-future-with-class-size-increases.htm
+title: Minister Buying a Cheaper Future with Class-Size Increases
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00253/minister-buying-a-cheaper-future-with-class-size-increases.htm
 author: young-labour
+permalink: >-
+  /archive/2012/05/17/minister-buying-a-cheaper-future-with-class-size-increases/index.html
+layout: layout.njk
 ---
 Minister Buying a Cheaper Future with Class-Size Increases
 ==========================================================

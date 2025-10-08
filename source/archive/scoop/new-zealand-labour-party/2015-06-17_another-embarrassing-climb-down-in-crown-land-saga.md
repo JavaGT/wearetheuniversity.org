@@ -1,9 +1,13 @@
 ---
 slug: another-embarrassing-climb-down-in-crown-land-saga
-title: "Another embarrassing climb down in Crown land saga"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00270/another-embarrassing-climb-down-in-crown-land-saga.htm
+title: Another embarrassing climb down in Crown land saga
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00270/another-embarrassing-climb-down-in-crown-land-saga.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/17/another-embarrassing-climb-down-in-crown-land-saga/index.html
+layout: layout.njk
 ---
 Another embarrassing climb down in Crown land saga
 ==================================================

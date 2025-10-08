@@ -1,9 +1,12 @@
 ---
 slug: minister-abandons-maori-students
-title: "Minister abandons Maori students"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/PA0907/S00058/minister-abandons-maori-students.htm
+title: Minister abandons Maori students
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00058/minister-abandons-maori-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/03/minister-abandons-maori-students/index.html
+layout: layout.njk
 ---
 Minister abandons Maori students
 ================================

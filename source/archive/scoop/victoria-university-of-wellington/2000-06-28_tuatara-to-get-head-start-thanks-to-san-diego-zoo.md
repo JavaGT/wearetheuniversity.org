@@ -1,9 +1,13 @@
 ---
 slug: tuatara-to-get-head-start-thanks-to-san-diego-zoo
-title: "Tuatara to get head-start thanks to San Diego Zoo"
-date: 2000-06-28
-source-url: https://www.scoop.co.nz/stories/SC0006/S00031/tuatara-to-get-head-start-thanks-to-san-diego-zoo.htm
+title: Tuatara to get head-start thanks to San Diego Zoo
+date: 2000-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00031/tuatara-to-get-head-start-thanks-to-san-diego-zoo.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/06/28/tuatara-to-get-head-start-thanks-to-san-diego-zoo/index.html
+layout: layout.njk
 ---
 Tuatara to get head-start thanks to San Diego Zoo
 =================================================

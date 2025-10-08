@@ -1,9 +1,12 @@
 ---
 slug: government-should-get-real-on-superannuation
-title: "Government should get real on superannuation"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/PA1208/S00245/government-should-get-real-on-superannuation.htm
+title: Government should get real on superannuation
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00245/government-should-get-real-on-superannuation.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/16/government-should-get-real-on-superannuation/index.html
+layout: layout.njk
 ---
 Government should get real on superannuation
 ============================================

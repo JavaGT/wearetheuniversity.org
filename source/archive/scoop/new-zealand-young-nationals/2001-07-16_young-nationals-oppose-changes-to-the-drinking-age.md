@@ -1,9 +1,13 @@
 ---
 slug: young-nationals-oppose-changes-to-the-drinking-age
-title: "Young Nationals Oppose Changes To The Drinking Age"
-date: 2001-07-16
-source-url: https://www.scoop.co.nz/stories/PO0107/S00046/young-nationals-oppose-changes-to-the-drinking-age.htm
+title: Young Nationals Oppose Changes To The Drinking Age
+date: 2001-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0107/S00046/young-nationals-oppose-changes-to-the-drinking-age.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2001/07/16/young-nationals-oppose-changes-to-the-drinking-age/index.html
+layout: layout.njk
 ---
 Young Nationals Oppose Changes To The Drinking Age
 ==================================================

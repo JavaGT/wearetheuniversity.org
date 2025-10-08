@@ -1,9 +1,12 @@
 ---
 slug: generous-donation-to-boost-legal-research
-title: "Generous donation to boost legal research"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/ED0502/S00044/generous-donation-to-boost-legal-research.htm
+title: Generous donation to boost legal research
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00044/generous-donation-to-boost-legal-research.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/14/generous-donation-to-boost-legal-research/index.html
+layout: layout.njk
 ---
 Generous donation to boost legal research
 =========================================

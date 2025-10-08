@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-award-for-pacific-education-advocate
-title: "University of Waikato Award for Pacific Education Advocate"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/ED1409/S00064/university-of-waikato-award-for-pacific-education-advocate.htm
+title: University of Waikato Award for Pacific Education Advocate
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00064/university-of-waikato-award-for-pacific-education-advocate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/10/university-of-waikato-award-for-pacific-education-advocate/index.html
+layout: layout.njk
 ---
 University of Waikato Award for Pacific Education Advocate
 ==========================================================

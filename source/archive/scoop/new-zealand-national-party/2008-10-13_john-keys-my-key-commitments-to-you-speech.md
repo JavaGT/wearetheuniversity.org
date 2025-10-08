@@ -1,9 +1,12 @@
 ---
 slug: john-keys-my-key-commitments-to-you-speech
-title: "John Key's \"My Key Commitments To You\" Speech"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00265/john-keys-my-key-commitments-to-you-speech.htm
+title: John Key's "My Key Commitments To You" Speech
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00265/john-keys-my-key-commitments-to-you-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/13/john-keys-my-key-commitments-to-you-speech/index.html
+layout: layout.njk
 ---
 John Key's "My Key Commitments To You" Speech
 =============================================

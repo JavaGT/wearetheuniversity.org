@@ -1,9 +1,11 @@
 ---
 slug: it-will-hurt-my-studies
-title: "‘It Will Hurt My Studies’"
-date: 2012-05-28
+title: ‘It Will Hurt My Studies’
+date: 2012-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1205/S00467/it-will-hurt-my-studies.htm
 author: lincoln-university-students-association
+permalink: /archive/2012/05/28/it-will-hurt-my-studies/index.html
+layout: layout.njk
 ---
 ‘It Will Hurt My Studies’
 =========================

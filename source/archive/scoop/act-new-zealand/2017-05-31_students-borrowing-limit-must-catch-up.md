@@ -1,9 +1,12 @@
 ---
 slug: students-borrowing-limit-must-catch-up
-title: "Students’ borrowing limit must catch up"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00659/students-borrowing-limit-must-catch-up.htm
+title: Students’ borrowing limit must catch up
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00659/students-borrowing-limit-must-catch-up.htm
 author: act-new-zealand
+permalink: /archive/2017/05/31/students-borrowing-limit-must-catch-up/index.html
+layout: layout.njk
 ---
 Students’ borrowing limit must catch up
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: netballers-excited-by-national-selection
-title: "Netballers excited by national selection"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/ED1005/S00139/netballers-excited-by-national-selection.htm
+title: Netballers excited by national selection
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00139/netballers-excited-by-national-selection.htm
 author: massey-university
+permalink: /archive/2010/05/28/netballers-excited-by-national-selection/index.html
+layout: layout.njk
 ---
 Netballers excited by national selection
 ========================================

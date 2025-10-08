@@ -1,9 +1,13 @@
 ---
 slug: only-the-greens-will-deliver-a-fair-amnesty-for-overstayers
-title: "Only The Greens Will Deliver A Fair Amnesty For Overstayers"
-date: 2023-09-23
-source-url: https://www.scoop.co.nz/stories/PA2309/S00129/only-the-greens-will-deliver-a-fair-amnesty-for-overstayers.htm
+title: Only The Greens Will Deliver A Fair Amnesty For Overstayers
+date: 2023-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00129/only-the-greens-will-deliver-a-fair-amnesty-for-overstayers.htm
 author: green-party
+permalink: >-
+  /archive/2023/09/23/only-the-greens-will-deliver-a-fair-amnesty-for-overstayers/index.html
+layout: layout.njk
 ---
 Only The Greens Will Deliver A Fair Amnesty For Overstayers
 ===========================================================

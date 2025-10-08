@@ -1,9 +1,11 @@
 ---
 slug: what-really-matters
-title: "What Really Matters"
-date: 2006-05-14
+title: What Really Matters
+date: 2006-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00313/what-really-matters.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/14/what-really-matters/index.html
+layout: layout.njk
 ---
 What Really Matters
 ===================

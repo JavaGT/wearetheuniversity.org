@@ -1,9 +1,13 @@
 ---
 slug: business-roundtable-supports-debating-championship
-title: "Business Roundtable Supports Debating Championship"
-date: 2010-11-20
-source-url: https://www.scoop.co.nz/stories/BU1011/S00568/business-roundtable-supports-debating-championship.htm
+title: Business Roundtable Supports Debating Championship
+date: 2010-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1011/S00568/business-roundtable-supports-debating-championship.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2010/11/20/business-roundtable-supports-debating-championship/index.html
+layout: layout.njk
 ---
 Business Roundtable Supports Debating Championship
 ==================================================

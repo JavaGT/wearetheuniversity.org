@@ -1,9 +1,13 @@
 ---
 slug: joint-food-technology-programme-launches-in-singapore
-title: "Joint Food Technology programme launches in Singapore"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/ED1609/S00112/joint-food-technology-programme-launches-in-singapore.htm
+title: Joint Food Technology programme launches in Singapore
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00112/joint-food-technology-programme-launches-in-singapore.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/23/joint-food-technology-programme-launches-in-singapore/index.html
+layout: layout.njk
 ---
 Joint Food Technology programme launches in Singapore
 =====================================================

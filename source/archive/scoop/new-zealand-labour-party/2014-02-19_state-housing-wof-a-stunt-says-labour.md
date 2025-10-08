@@ -1,9 +1,12 @@
 ---
 slug: state-housing-wof-a-stunt-says-labour
-title: "State housing WoF a stunt says Labour"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/PA1402/S00237/state-housing-wof-a-stunt-says-labour.htm
+title: State housing WoF a stunt says Labour
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00237/state-housing-wof-a-stunt-says-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/19/state-housing-wof-a-stunt-says-labour/index.html
+layout: layout.njk
 ---
 State housing WoF a stunt says Labour
 =====================================

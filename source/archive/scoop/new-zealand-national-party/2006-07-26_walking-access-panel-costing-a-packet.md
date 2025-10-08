@@ -1,9 +1,12 @@
 ---
 slug: walking-access-panel-costing-a-packet
-title: "Walking access panel costing a packet"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00429/walking-access-panel-costing-a-packet.htm
+title: Walking access panel costing a packet
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00429/walking-access-panel-costing-a-packet.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/26/walking-access-panel-costing-a-packet/index.html
+layout: layout.njk
 ---
 Walking access panel costing a packet
 =====================================

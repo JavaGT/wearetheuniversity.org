@@ -1,9 +1,13 @@
 ---
 slug: miq-stumps-nz-mens-u19-cricketers-world-cup-hopes
-title: "MIQ Stumps NZ Men’s U19 Cricketers World Cup Hopes"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/PA2111/S00215/miq-stumps-nz-mens-u19-cricketers-world-cup-hopes.htm
+title: MIQ Stumps NZ Men’s U19 Cricketers World Cup Hopes
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00215/miq-stumps-nz-mens-u19-cricketers-world-cup-hopes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/18/miq-stumps-nz-mens-u19-cricketers-world-cup-hopes/index.html
+layout: layout.njk
 ---
 MIQ Stumps NZ Men’s U19 Cricketers World Cup Hopes
 ==================================================

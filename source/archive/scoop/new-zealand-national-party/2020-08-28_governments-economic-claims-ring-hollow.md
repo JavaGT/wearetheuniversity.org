@@ -1,9 +1,12 @@
 ---
 slug: governments-economic-claims-ring-hollow
-title: "Government’s Economic Claims Ring Hollow"
-date: 2020-08-28
-source-url: https://www.scoop.co.nz/stories/PA2008/S00221/governments-economic-claims-ring-hollow.htm
+title: Government’s Economic Claims Ring Hollow
+date: 2020-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00221/governments-economic-claims-ring-hollow.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/28/governments-economic-claims-ring-hollow/index.html
+layout: layout.njk
 ---
 Government’s Economic Claims Ring Hollow
 ========================================

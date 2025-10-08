@@ -1,9 +1,12 @@
 ---
 slug: minister-slammed-for-slashing-seniornet-funding
-title: "Minister slammed for slashing SeniorNet funding"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/PA0711/S00284/minister-slammed-for-slashing-seniornet-funding.htm
+title: Minister slammed for slashing SeniorNet funding
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00284/minister-slammed-for-slashing-seniornet-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/15/minister-slammed-for-slashing-seniornet-funding/index.html
+layout: layout.njk
 ---
 Minister slammed for slashing SeniorNet funding
 ===============================================

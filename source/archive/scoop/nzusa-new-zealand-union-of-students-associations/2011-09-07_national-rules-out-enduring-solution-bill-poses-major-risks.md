@@ -1,9 +1,13 @@
 ---
 slug: national-rules-out-enduring-solution-bill-poses-major-risks
-title: "National rules out enduring solution- Bill poses major risks"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PO1109/S00106/national-rules-out-enduring-solution-bill-poses-major-risks.htm
+title: National rules out enduring solution- Bill poses major risks
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00106/national-rules-out-enduring-solution-bill-poses-major-risks.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/07/national-rules-out-enduring-solution-bill-poses-major-risks/index.html
+layout: layout.njk
 ---
 National rules out enduring solution- Bill poses major risks
 ============================================================

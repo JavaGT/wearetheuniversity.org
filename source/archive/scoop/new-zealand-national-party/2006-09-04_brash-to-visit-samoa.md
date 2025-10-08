@@ -1,9 +1,11 @@
 ---
 slug: brash-to-visit-samoa
-title: "Brash to visit Samoa"
-date: 2006-09-04
+title: Brash to visit Samoa
+date: 2006-09-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00057/brash-to-visit-samoa.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/brash-to-visit-samoa/index.html
+layout: layout.njk
 ---
 Brash to visit Samoa
 ====================

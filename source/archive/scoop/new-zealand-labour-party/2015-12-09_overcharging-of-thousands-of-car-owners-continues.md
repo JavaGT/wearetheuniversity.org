@@ -1,9 +1,13 @@
 ---
 slug: overcharging-of-thousands-of-car-owners-continues
-title: "Overcharging of thousands of car owners continues"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/PA1512/S00214/overcharging-of-thousands-of-car-owners-continues.htm
+title: Overcharging of thousands of car owners continues
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00214/overcharging-of-thousands-of-car-owners-continues.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/09/overcharging-of-thousands-of-car-owners-continues/index.html
+layout: layout.njk
 ---
 Overcharging of thousands of car owners continues
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-cities-to-benefit-from-university-project
-title: "NZ cities to benefit from University project"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/SC0910/S00031/nz-cities-to-benefit-from-university-project.htm
+title: NZ cities to benefit from University project
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0910/S00031/nz-cities-to-benefit-from-university-project.htm
 author: university-of-waikato
+permalink: /archive/2009/10/13/nz-cities-to-benefit-from-university-project/index.html
+layout: layout.njk
 ---
 NZ cities to benefit from University project
 ============================================

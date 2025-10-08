@@ -1,9 +1,11 @@
 ---
 slug: healthy-victorian-lifestyles
-title: "Healthy Victorian Lifestyles"
-date: 1999-07-16
+title: Healthy Victorian Lifestyles
+date: 1999-07-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9907/S00014/healthy-victorian-lifestyles.htm
 author: victoria-university-students-association
+permalink: /archive/1999/07/16/healthy-victorian-lifestyles/index.html
+layout: layout.njk
 ---
 Healthy Victorian Lifestyles
 ============================

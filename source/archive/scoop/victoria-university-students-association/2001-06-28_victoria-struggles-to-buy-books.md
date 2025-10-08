@@ -1,9 +1,12 @@
 ---
 slug: victoria-struggles-to-buy-books
-title: "Victoria Struggles to Buy Books"
-date: 2001-06-28
-source-url: https://www.scoop.co.nz/stories/ED0106/S00024/victoria-struggles-to-buy-books.htm
+title: Victoria Struggles to Buy Books
+date: 2001-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00024/victoria-struggles-to-buy-books.htm
 author: victoria-university-students-association
+permalink: /archive/2001/06/28/victoria-struggles-to-buy-books/index.html
+layout: layout.njk
 ---
 Victoria Struggles to Buy Books
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-workers-still-facing-cheap-lay-offs
-title: "New Zealand workers still facing cheap lay offs"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00339/new-zealand-workers-still-facing-cheap-lay-offs.htm
+title: New Zealand workers still facing cheap lay offs
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00339/new-zealand-workers-still-facing-cheap-lay-offs.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/23/new-zealand-workers-still-facing-cheap-lay-offs/index.html
+layout: layout.njk
 ---
 New Zealand workers still facing cheap lay offs
 ===============================================

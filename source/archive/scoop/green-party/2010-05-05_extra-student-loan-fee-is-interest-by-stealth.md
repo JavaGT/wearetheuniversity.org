@@ -1,9 +1,12 @@
 ---
 slug: extra-student-loan-fee-is-interest-by-stealth
-title: "Extra student loan fee is interest by stealth"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00055/extra-student-loan-fee-is-interest-by-stealth.htm
+title: Extra student loan fee is interest by stealth
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00055/extra-student-loan-fee-is-interest-by-stealth.htm
 author: green-party
+permalink: /archive/2010/05/05/extra-student-loan-fee-is-interest-by-stealth/index.html
+layout: layout.njk
 ---
 Extra student loan fee is interest by stealth
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-wine-tourism-survey-set-for-release
-title: "New Zealand Wine Tourism Survey set for release"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/BU1007/S00303/new-zealand-wine-tourism-survey-set-for-release.htm
+title: New Zealand Wine Tourism Survey set for release
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1007/S00303/new-zealand-wine-tourism-survey-set-for-release.htm
 author: university-of-canterbury
+permalink: /archive/2010/07/09/new-zealand-wine-tourism-survey-set-for-release/index.html
+layout: layout.njk
 ---
 New Zealand Wine Tourism Survey set for release
 ===============================================

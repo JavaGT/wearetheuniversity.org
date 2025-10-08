@@ -1,9 +1,12 @@
 ---
 slug: public-libraries-join-cancel-culture
-title: "Public Libraries Join Cancel Culture"
-date: 2021-05-29
-source-url: https://www.scoop.co.nz/stories/PA2105/S00250/public-libraries-join-cancel-culture.htm
+title: Public Libraries Join Cancel Culture
+date: 2021-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00250/public-libraries-join-cancel-culture.htm
 author: act-new-zealand
+permalink: /archive/2021/05/29/public-libraries-join-cancel-culture/index.html
+layout: layout.njk
 ---
 Public Libraries Join Cancel Culture
 ====================================

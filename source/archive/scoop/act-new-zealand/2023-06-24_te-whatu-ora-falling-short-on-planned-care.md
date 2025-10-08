@@ -1,9 +1,12 @@
 ---
 slug: te-whatu-ora-falling-short-on-planned-care
-title: "Te Whatu Ora Falling Short On Planned Care"
-date: 2023-06-24
-source-url: https://www.scoop.co.nz/stories/PA2306/S00155/te-whatu-ora-falling-short-on-planned-care.htm
+title: Te Whatu Ora Falling Short On Planned Care
+date: 2023-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00155/te-whatu-ora-falling-short-on-planned-care.htm
 author: act-new-zealand
+permalink: /archive/2023/06/24/te-whatu-ora-falling-short-on-planned-care/index.html
+layout: layout.njk
 ---
 Te Whatu Ora Falling Short On Planned Care
 ==========================================

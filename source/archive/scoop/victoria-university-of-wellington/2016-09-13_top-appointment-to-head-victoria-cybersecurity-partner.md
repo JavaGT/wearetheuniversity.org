@@ -1,9 +1,13 @@
 ---
 slug: top-appointment-to-head-victoria-cybersecurity-partner
-title: "Top appointment to head Victoria cybersecurity partner"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/BU1609/S00413/top-appointment-to-head-victoria-cybersecurity-partner.htm
+title: Top appointment to head Victoria cybersecurity partner
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1609/S00413/top-appointment-to-head-victoria-cybersecurity-partner.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/13/top-appointment-to-head-victoria-cybersecurity-partner/index.html
+layout: layout.njk
 ---
 Top appointment to head Victoria cybersecurity partner
 ======================================================

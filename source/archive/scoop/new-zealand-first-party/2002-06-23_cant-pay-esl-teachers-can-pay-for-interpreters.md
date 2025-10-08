@@ -1,9 +1,12 @@
 ---
 slug: cant-pay-esl-teachers-can-pay-for-interpreters
-title: "Can’t Pay ESL Teachers - Can Pay For Interpreters"
-date: 2002-06-23
-source-url: https://www.scoop.co.nz/stories/PA0206/S00411/cant-pay-esl-teachers-can-pay-for-interpreters.htm
+title: Can’t Pay ESL Teachers - Can Pay For Interpreters
+date: 2002-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00411/cant-pay-esl-teachers-can-pay-for-interpreters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/23/cant-pay-esl-teachers-can-pay-for-interpreters/index.html
+layout: layout.njk
 ---
 Can’t Pay ESL Teachers - Can Pay For Interpreters
 =================================================

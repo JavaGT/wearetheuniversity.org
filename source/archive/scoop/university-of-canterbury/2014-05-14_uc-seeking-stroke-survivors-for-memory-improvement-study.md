@@ -1,9 +1,13 @@
 ---
 slug: uc-seeking-stroke-survivors-for-memory-improvement-study
-title: "UC seeking stroke survivors for memory improvement study"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/SC1405/S00035/uc-seeking-stroke-survivors-for-memory-improvement-study.htm
+title: UC seeking stroke survivors for memory improvement study
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00035/uc-seeking-stroke-survivors-for-memory-improvement-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/14/uc-seeking-stroke-survivors-for-memory-improvement-study/index.html
+layout: layout.njk
 ---
 UC seeking stroke survivors for memory improvement study
 ========================================================

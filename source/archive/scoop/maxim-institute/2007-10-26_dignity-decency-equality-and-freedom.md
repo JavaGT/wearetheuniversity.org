@@ -1,9 +1,12 @@
 ---
 slug: dignity-decency-equality-and-freedom
-title: "Dignity, Decency, Equality And Freedom"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/PO0710/S00366/dignity-decency-equality-and-freedom.htm
+title: Dignity, Decency, Equality And Freedom
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00366/dignity-decency-equality-and-freedom.htm
 author: maxim-institute
+permalink: /archive/2007/10/26/dignity-decency-equality-and-freedom/index.html
+layout: layout.njk
 ---
 Dignity, Decency, Equality And Freedom
 ======================================

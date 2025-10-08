@@ -1,9 +1,12 @@
 ---
 slug: $9-million-support-for-maori-business
-title: "$9 million: Support for Maori business"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/PA1005/S00322/9-million-support-for-maori-business.htm
+title: '$9 million: Support for Maori business'
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00322/9-million-support-for-maori-business.htm
 author: te-pati-maori
+permalink: /archive/2010/05/20/9-million-support-for-maori-business/index.html
+layout: layout.njk
 ---
 $9 million: Support for Maori business
 ======================================

@@ -1,9 +1,11 @@
 ---
 slug: conserving-digital-heritage
-title: "Conserving digital heritage"
-date: 2007-10-17
+title: Conserving digital heritage
+date: 2007-10-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0710/S00053/conserving-digital-heritage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/17/conserving-digital-heritage/index.html
+layout: layout.njk
 ---
 Conserving digital heritage
 ===========================

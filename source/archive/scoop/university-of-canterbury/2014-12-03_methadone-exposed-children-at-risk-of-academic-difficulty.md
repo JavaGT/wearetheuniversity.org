@@ -1,9 +1,13 @@
 ---
 slug: methadone-exposed-children-at-risk-of-academic-difficulty
-title: "Methadone exposed children at risk of academic difficulty"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/GE1412/S00023/methadone-exposed-children-at-risk-of-academic-difficulty.htm
+title: Methadone exposed children at risk of academic difficulty
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1412/S00023/methadone-exposed-children-at-risk-of-academic-difficulty.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/03/methadone-exposed-children-at-risk-of-academic-difficulty/index.html
+layout: layout.njk
 ---
 Methadone exposed children at risk of academic difficulty
 =========================================================

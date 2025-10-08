@@ -1,9 +1,11 @@
 ---
 slug: newsworthy-23-march-2005
-title: "Newsworthy 23 March 2005"
-date: 2005-03-24
+title: Newsworthy 23 March 2005
+date: 2005-03-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00514/newsworthy-23-march-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/24/newsworthy-23-march-2005/index.html
+layout: layout.njk
 ---
 Newsworthy 23 March 2005
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: info-and-enrolment-evenings-on-campus-this-week
-title: "Info and enrolment evenings on campus this week"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/ED1505/S00060/info-and-enrolment-evenings-on-campus-this-week.htm
+title: Info and enrolment evenings on campus this week
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00060/info-and-enrolment-evenings-on-campus-this-week.htm
 author: massey-university
+permalink: /archive/2015/05/13/info-and-enrolment-evenings-on-campus-this-week/index.html
+layout: layout.njk
 ---
 Info and enrolment evenings on campus this week
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: shapeshifter-to-headline-sounds-in-the-sun
-title: "Shapeshifter to Headline Sounds in the Sun"
-date: 2012-01-19
-source-url: https://www.scoop.co.nz/stories/CU1201/S00225/shapeshifter-to-headline-sounds-in-the-sun.htm
+title: Shapeshifter to Headline Sounds in the Sun
+date: 2012-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1201/S00225/shapeshifter-to-headline-sounds-in-the-sun.htm
 author: usu.-student-association-at-unitec
+permalink: /archive/2012/01/19/shapeshifter-to-headline-sounds-in-the-sun/index.html
+layout: layout.njk
 ---
 Shapeshifter to Headline Sounds in the Sun
 ==========================================

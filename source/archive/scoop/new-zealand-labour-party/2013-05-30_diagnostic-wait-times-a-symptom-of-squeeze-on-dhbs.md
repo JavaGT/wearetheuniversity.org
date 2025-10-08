@@ -1,9 +1,13 @@
 ---
 slug: diagnostic-wait-times-a-symptom-of-squeeze-on-dhbs
-title: "Diagnostic Wait Times a Symptom of Squeeze On DHBs"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/PA1305/S00608/diagnostic-wait-times-a-symptom-of-squeeze-on-dhbs.htm
+title: Diagnostic Wait Times a Symptom of Squeeze On DHBs
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00608/diagnostic-wait-times-a-symptom-of-squeeze-on-dhbs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/30/diagnostic-wait-times-a-symptom-of-squeeze-on-dhbs/index.html
+layout: layout.njk
 ---
 Diagnostic Wait Times a Symptom of Squeeze On DHBs
 ==================================================

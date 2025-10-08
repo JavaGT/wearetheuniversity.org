@@ -1,9 +1,13 @@
 ---
 slug: notice-of-motion-world-war-one-te-ururoa-flavell
-title: "Notice of Motion : World War One : Te Ururoa Flavell"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/PA1407/S00579/notice-of-motion-world-war-one-te-ururoa-flavell.htm
+title: 'Notice of Motion : World War One : Te Ururoa Flavell'
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00579/notice-of-motion-world-war-one-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/07/29/notice-of-motion-world-war-one-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Notice of Motion : World War One : Te Ururoa Flavell
 ====================================================

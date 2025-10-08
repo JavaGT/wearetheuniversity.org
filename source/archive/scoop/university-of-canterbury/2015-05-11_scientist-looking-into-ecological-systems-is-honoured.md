@@ -1,9 +1,13 @@
 ---
 slug: scientist-looking-into-ecological-systems-is-honoured
-title: "Scientist looking into ecological systems is honoured"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/SC1505/S00027/scientist-looking-into-ecological-systems-is-honoured.htm
+title: Scientist looking into ecological systems is honoured
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00027/scientist-looking-into-ecological-systems-is-honoured.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/11/scientist-looking-into-ecological-systems-is-honoured/index.html
+layout: layout.njk
 ---
 Scientist looking into ecological systems is honoured
 =====================================================

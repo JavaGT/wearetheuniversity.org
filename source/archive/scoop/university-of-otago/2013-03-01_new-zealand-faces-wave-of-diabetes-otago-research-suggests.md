@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-faces-wave-of-diabetes-otago-research-suggests
-title: "New Zealand faces wave of diabetes, Otago research suggests"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/GE1303/S00001/new-zealand-faces-wave-of-diabetes-otago-research-suggests.htm
+title: New Zealand faces wave of diabetes, Otago research suggests
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00001/new-zealand-faces-wave-of-diabetes-otago-research-suggests.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/01/new-zealand-faces-wave-of-diabetes-otago-research-suggests/index.html
+layout: layout.njk
 ---
 New Zealand faces wave of diabetes, Otago research suggests
 ===========================================================

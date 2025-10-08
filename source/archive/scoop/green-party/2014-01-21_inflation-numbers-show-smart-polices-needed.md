@@ -1,9 +1,12 @@
 ---
 slug: inflation-numbers-show-smart-polices-needed
-title: "Inflation numbers show smart polices needed"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/PA1401/S00088/inflation-numbers-show-smart-polices-needed.htm
+title: Inflation numbers show smart polices needed
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00088/inflation-numbers-show-smart-polices-needed.htm
 author: green-party
+permalink: /archive/2014/01/21/inflation-numbers-show-smart-polices-needed/index.html
+layout: layout.njk
 ---
 Inflation numbers show smart polices needed
 ===========================================

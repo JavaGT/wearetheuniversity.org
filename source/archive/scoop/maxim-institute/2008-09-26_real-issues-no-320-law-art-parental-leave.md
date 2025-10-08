@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-320-law-art-parental-leave
-title: "Real Issues No. 320 - Law, Art, Parental Leave"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/PO0809/S00387/real-issues-no-320-law-art-parental-leave.htm
+title: Real Issues No. 320 - Law, Art, Parental Leave
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00387/real-issues-no-320-law-art-parental-leave.htm
 author: maxim-institute
+permalink: /archive/2008/09/26/real-issues-no-320-law-art-parental-leave/index.html
+layout: layout.njk
 ---
 Real Issues No. 320 - Law, Art, Parental Leave
 ==============================================

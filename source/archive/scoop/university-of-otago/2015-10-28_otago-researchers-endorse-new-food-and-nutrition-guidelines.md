@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-endorse-new-food-and-nutrition-guidelines
-title: "Otago researchers endorse new food and nutrition guidelines"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/SC1510/S00081/otago-researchers-endorse-new-food-and-nutrition-guidelines.htm
+title: Otago researchers endorse new food and nutrition guidelines
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00081/otago-researchers-endorse-new-food-and-nutrition-guidelines.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/28/otago-researchers-endorse-new-food-and-nutrition-guidelines/index.html
+layout: layout.njk
 ---
 Otago researchers endorse new food and nutrition guidelines
 ===========================================================

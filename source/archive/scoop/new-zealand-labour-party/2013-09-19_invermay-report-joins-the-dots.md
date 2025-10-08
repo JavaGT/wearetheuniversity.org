@@ -1,9 +1,12 @@
 ---
 slug: invermay-report-joins-the-dots
-title: "Invermay report joins the dots"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PA1309/S00357/invermay-report-joins-the-dots.htm
+title: Invermay report joins the dots
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00357/invermay-report-joins-the-dots.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/19/invermay-report-joins-the-dots/index.html
+layout: layout.njk
 ---
 Invermay report joins the dots
 ==============================

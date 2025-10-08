@@ -1,9 +1,13 @@
 ---
 slug: labour-mps-christchurch-earthquake-bulletin-edition-twelve
-title: "Labour MPs Christchurch Earthquake Bulletin Edition Twelve"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/PA1103/S00431/labour-mps-christchurch-earthquake-bulletin-edition-twelve.htm
+title: Labour MPs Christchurch Earthquake Bulletin Edition Twelve
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00431/labour-mps-christchurch-earthquake-bulletin-edition-twelve.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/25/labour-mps-christchurch-earthquake-bulletin-edition-twelve/index.html
+layout: layout.njk
 ---
 Labour MPs Christchurch Earthquake Bulletin Edition Twelve
 ==========================================================

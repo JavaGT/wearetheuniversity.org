@@ -1,9 +1,13 @@
 ---
 slug: collaboration-with-esr-boost-research-capabilities
-title: "Collaboration with ESR boost research capabilities"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/ED0403/S00037/collaboration-with-esr-boost-research-capabilities.htm
+title: Collaboration with ESR boost research capabilities
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00037/collaboration-with-esr-boost-research-capabilities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/03/09/collaboration-with-esr-boost-research-capabilities/index.html
+layout: layout.njk
 ---
 Collaboration with ESR boost research capabilities
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-change-of-building-method-to-reduce-fire-risk
-title: "UC Researching Change Of Building Method To Reduce Fire Risk"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/ED1211/S00072/uc-researching-change-of-building-method-to-reduce-fire-risk.htm
+title: UC Researching Change Of Building Method To Reduce Fire Risk
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00072/uc-researching-change-of-building-method-to-reduce-fire-risk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/09/uc-researching-change-of-building-method-to-reduce-fire-risk/index.html
+layout: layout.njk
 ---
 UC Researching Change Of Building Method To Reduce Fire Risk
 ============================================================

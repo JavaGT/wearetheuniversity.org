@@ -1,9 +1,12 @@
 ---
 slug: death-of-syd-jackson-a-major-loss
-title: "Death of Syd Jackson a major loss"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/PA0709/S00030/death-of-syd-jackson-a-major-loss.htm
+title: Death of Syd Jackson a major loss
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00030/death-of-syd-jackson-a-major-loss.htm
 author: green-party
+permalink: /archive/2007/09/04/death-of-syd-jackson-a-major-loss/index.html
+layout: layout.njk
 ---
 Death of Syd Jackson a major loss
 =================================

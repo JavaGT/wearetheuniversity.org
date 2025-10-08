@@ -1,9 +1,13 @@
 ---
 slug: students-explore-30-years-of-homosexual-law-reform
-title: "Students explore 30 years of Homosexual Law Reform"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/PO1610/S00196/students-explore-30-years-of-homosexual-law-reform.htm
+title: Students explore 30 years of Homosexual Law Reform
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00196/students-explore-30-years-of-homosexual-law-reform.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/13/students-explore-30-years-of-homosexual-law-reform/index.html
+layout: layout.njk
 ---
 Students explore 30 years of Homosexual Law Reform
 ==================================================

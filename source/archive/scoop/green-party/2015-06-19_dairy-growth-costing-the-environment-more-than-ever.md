@@ -1,9 +1,13 @@
 ---
 slug: dairy-growth-costing-the-environment-more-than-ever
-title: "Dairy growth costing the environment more than ever"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/PA1506/S00346/dairy-growth-costing-the-environment-more-than-ever.htm
+title: Dairy growth costing the environment more than ever
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00346/dairy-growth-costing-the-environment-more-than-ever.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/19/dairy-growth-costing-the-environment-more-than-ever/index.html
+layout: layout.njk
 ---
 Dairy growth costing the environment more than ever
 ===================================================

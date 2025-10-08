@@ -1,9 +1,13 @@
 ---
 slug: act-leader-david-seymour-offers-helpful-advice-on-baubles
-title: "ACT Leader David Seymour Offers Helpful Advice on Baubles"
-date: 2017-10-10
-source-url: https://www.scoop.co.nz/stories/PA1710/S00028/act-leader-david-seymour-offers-helpful-advice-on-baubles.htm
+title: ACT Leader David Seymour Offers Helpful Advice on Baubles
+date: 2017-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00028/act-leader-david-seymour-offers-helpful-advice-on-baubles.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/10/10/act-leader-david-seymour-offers-helpful-advice-on-baubles/index.html
+layout: layout.njk
 ---
 ACT Leader David Seymour Offers Helpful Advice on Baubles
 =========================================================

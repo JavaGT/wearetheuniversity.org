@@ -1,9 +1,12 @@
 ---
 slug: unions-urge-release-of-imprisoned-teachers
-title: "Unions Urge Release Of Imprisoned Teachers"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/ED0310/S00012/unions-urge-release-of-imprisoned-teachers.htm
+title: Unions Urge Release Of Imprisoned Teachers
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00012/unions-urge-release-of-imprisoned-teachers.htm
 author: nzei
+permalink: /archive/2003/10/03/unions-urge-release-of-imprisoned-teachers/index.html
+layout: layout.njk
 ---
 Unions Urge Release Of Imprisoned Teachers
 ==========================================

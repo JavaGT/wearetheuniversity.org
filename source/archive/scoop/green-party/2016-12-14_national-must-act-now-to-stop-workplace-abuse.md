@@ -1,9 +1,12 @@
 ---
 slug: national-must-act-now-to-stop-workplace-abuse
-title: "National must act now to stop workplace abuse"
-date: 2016-12-14
-source-url: https://www.scoop.co.nz/stories/PA1612/S00243/national-must-act-now-to-stop-workplace-abuse.htm
+title: National must act now to stop workplace abuse
+date: 2016-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00243/national-must-act-now-to-stop-workplace-abuse.htm
 author: green-party
+permalink: /archive/2016/12/14/national-must-act-now-to-stop-workplace-abuse/index.html
+layout: layout.njk
 ---
 National must act now to stop workplace abuse
 =============================================

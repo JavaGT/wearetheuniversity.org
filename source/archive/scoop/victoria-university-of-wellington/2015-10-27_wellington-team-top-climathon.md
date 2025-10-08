@@ -1,9 +1,12 @@
 ---
 slug: wellington-team-top-climathon
-title: "Wellington team top Climathon"
-date: 2015-10-27
-source-url: https://www.scoop.co.nz/stories/ED1510/S00122/wellington-team-top-climathon.htm
+title: Wellington team top Climathon
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00122/wellington-team-top-climathon.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/10/27/wellington-team-top-climathon/index.html
+layout: layout.njk
 ---
 Wellington team top Climathon
 =============================

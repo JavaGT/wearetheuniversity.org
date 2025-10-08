@@ -1,9 +1,12 @@
 ---
 slug: students-the-losers-in-truancy-failure
-title: "Students the losers in truancy failure"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/PA1608/S00046/students-the-losers-in-truancy-failure.htm
+title: Students the losers in truancy failure
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00046/students-the-losers-in-truancy-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/03/students-the-losers-in-truancy-failure/index.html
+layout: layout.njk
 ---
 Students the losers in truancy failure
 ======================================

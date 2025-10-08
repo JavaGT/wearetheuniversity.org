@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-fresh-thinking-of-chief-justice-elias
-title: "Maori Party welcomes Fresh Thinking of Chief Justice Elias"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/PA1110/S00282/maori-party-welcomes-fresh-thinking-of-chief-justice-elias.htm
+title: Maori Party welcomes Fresh Thinking of Chief Justice Elias
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00282/maori-party-welcomes-fresh-thinking-of-chief-justice-elias.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/10/14/maori-party-welcomes-fresh-thinking-of-chief-justice-elias/index.html
+layout: layout.njk
 ---
 Maori Party welcomes Fresh Thinking of Chief Justice Elias
 ==========================================================

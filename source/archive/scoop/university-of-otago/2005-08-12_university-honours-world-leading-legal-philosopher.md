@@ -1,9 +1,13 @@
 ---
 slug: university-honours-world-leading-legal-philosopher
-title: "University Honours World-leading Legal Philosopher"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/ED0508/S00067/university-honours-world-leading-legal-philosopher.htm
+title: University Honours World-leading Legal Philosopher
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00067/university-honours-world-leading-legal-philosopher.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/08/12/university-honours-world-leading-legal-philosopher/index.html
+layout: layout.njk
 ---
 University Honours World-leading Legal Philosopher
 ==================================================

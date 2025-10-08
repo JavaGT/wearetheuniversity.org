@@ -1,9 +1,12 @@
 ---
 slug: student-debt-worse-not-better
-title: "Student Debt Worse, Not Better"
-date: 2002-03-04
-source-url: https://www.scoop.co.nz/stories/PA0203/S00062/student-debt-worse-not-better.htm
+title: Student Debt Worse, Not Better
+date: 2002-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00062/student-debt-worse-not-better.htm
 author: act-new-zealand
+permalink: /archive/2002/03/04/student-debt-worse-not-better/index.html
+layout: layout.njk
 ---
 Student Debt Worse, Not Better
 ==============================

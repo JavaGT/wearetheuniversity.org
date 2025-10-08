@@ -1,9 +1,12 @@
 ---
 slug: ausa-and-v-day-present-the-vagina-monologues
-title: "AUSA and V-Day present The Vagina Monologues"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/CU1003/S00370/ausa-and-v-day-present-the-vagina-monologues.htm
+title: AUSA and V-Day present The Vagina Monologues
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00370/ausa-and-v-day-present-the-vagina-monologues.htm
 author: ausa
+permalink: /archive/2010/03/24/ausa-and-v-day-present-the-vagina-monologues/index.html
+layout: layout.njk
 ---
 AUSA and V-Day present The Vagina Monologues
 ============================================

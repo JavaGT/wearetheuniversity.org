@@ -1,9 +1,12 @@
 ---
 slug: arts-council-bill-disregards-ethnic-sector
-title: "Arts Council Bill disregards ethnic sector"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/PA1008/S00146/arts-council-bill-disregards-ethnic-sector.htm
+title: Arts Council Bill disregards ethnic sector
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00146/arts-council-bill-disregards-ethnic-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/09/arts-council-bill-disregards-ethnic-sector/index.html
+layout: layout.njk
 ---
 Arts Council Bill disregards ethnic sector
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-education-plan-for-the-future
-title: "Labour’s Education plan – for the future"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00071/labours-education-plan-for-the-future.htm
+title: Labour’s Education plan – for the future
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00071/labours-education-plan-for-the-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/11/04/labours-education-plan-for-the-future/index.html
+layout: layout.njk
 ---
 Labour’s Education plan – for the future
 ========================================

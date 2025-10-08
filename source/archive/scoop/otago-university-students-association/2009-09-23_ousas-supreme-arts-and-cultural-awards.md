@@ -1,9 +1,12 @@
 ---
 slug: ousas-supreme-arts-and-cultural-awards
-title: "OUSA’s Supreme Arts and Cultural  Awards"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/ED0909/S00086/ousas-supreme-arts-and-cultural-awards.htm
+title: OUSA’s Supreme Arts and Cultural  Awards
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00086/ousas-supreme-arts-and-cultural-awards.htm
 author: otago-university-students-association
+permalink: /archive/2009/09/23/ousas-supreme-arts-and-cultural-awards/index.html
+layout: layout.njk
 ---
 OUSA’s Supreme Arts and Cultural Awards
 =======================================

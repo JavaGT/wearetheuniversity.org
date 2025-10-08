@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-race-car-on-show-at-museum
-title: "Waikato University race car on show at museum"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/ED1403/S00093/waikato-university-race-car-on-show-at-museum.htm
+title: Waikato University race car on show at museum
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00093/waikato-university-race-car-on-show-at-museum.htm
 author: university-of-waikato
+permalink: /archive/2014/03/17/waikato-university-race-car-on-show-at-museum/index.html
+layout: layout.njk
 ---
 Waikato University race car on show at museum
 =============================================

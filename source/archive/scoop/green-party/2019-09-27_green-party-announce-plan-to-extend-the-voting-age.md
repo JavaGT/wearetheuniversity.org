@@ -1,9 +1,13 @@
 ---
 slug: green-party-announce-plan-to-extend-the-voting-age
-title: "Green Party announce plan to extend the voting age"
-date: 2019-09-27
-source-url: https://www.scoop.co.nz/stories/PA1909/S00254/green-party-announce-plan-to-extend-the-voting-age.htm
+title: Green Party announce plan to extend the voting age
+date: 2019-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00254/green-party-announce-plan-to-extend-the-voting-age.htm
 author: green-party
+permalink: >-
+  /archive/2019/09/27/green-party-announce-plan-to-extend-the-voting-age/index.html
+layout: layout.njk
 ---
 Green Party announce plan to extend the voting age
 ==================================================

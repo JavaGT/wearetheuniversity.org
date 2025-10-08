@@ -1,9 +1,11 @@
 ---
 slug: brash-post-budget-address
-title: "Brash: Post-Budget Address"
-date: 2006-05-19
+title: 'Brash: Post-Budget Address'
+date: 2006-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00481/brash-post-budget-address.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/19/brash-post-budget-address/index.html
+layout: layout.njk
 ---
 Brash: Post-Budget Address
 ==========================

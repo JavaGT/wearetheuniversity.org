@@ -1,9 +1,12 @@
 ---
 slug: three-strikes-policy-needs-to-be-changed
-title: "\"Three Strikes\" Policy Needs to Be Changed"
-date: 2010-05-04
-source-url: https://www.scoop.co.nz/stories/PO1005/S00024/three-strikes-policy-needs-to-be-changed.htm
+title: '"Three Strikes" Policy Needs to Be Changed'
+date: 2010-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00024/three-strikes-policy-needs-to-be-changed.htm
 author: maxim-institute
+permalink: /archive/2010/05/04/three-strikes-policy-needs-to-be-changed/index.html
+layout: layout.njk
 ---
 "Three Strikes” Policy Needs to Be Changed
 ==========================================

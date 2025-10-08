@@ -1,9 +1,13 @@
 ---
 slug: award-winning-nurse-talks-about-aid-work-in-conflict-zones
-title: "Award winning nurse talks about aid work in conflict zones"
-date: 2015-10-27
-source-url: https://www.scoop.co.nz/stories/ED1510/S00126/award-winning-nurse-talks-about-aid-work-in-conflict-zones.htm
+title: Award winning nurse talks about aid work in conflict zones
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00126/award-winning-nurse-talks-about-aid-work-in-conflict-zones.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/27/award-winning-nurse-talks-about-aid-work-in-conflict-zones/index.html
+layout: layout.njk
 ---
 Award winning nurse talks about aid work in conflict zones
 ==========================================================

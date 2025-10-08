@@ -1,9 +1,13 @@
 ---
 slug: report-shows-organisations-failing-to-deal-with-cyber-abuse
-title: "Report shows organisations failing to deal with cyber abuse"
-date: 2019-05-16
-source-url: https://www.scoop.co.nz/stories/PO1905/S00240/report-shows-organisations-failing-to-deal-with-cyber-abuse.htm
+title: Report shows organisations failing to deal with cyber abuse
+date: 2019-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00240/report-shows-organisations-failing-to-deal-with-cyber-abuse.htm
 author: massey-university
+permalink: >-
+  /archive/2019/05/16/report-shows-organisations-failing-to-deal-with-cyber-abuse/index.html
+layout: layout.njk
 ---
 Report shows organisations failing to deal with cyber abuse
 ===========================================================

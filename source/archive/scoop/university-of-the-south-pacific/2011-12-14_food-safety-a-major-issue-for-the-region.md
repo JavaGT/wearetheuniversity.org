@@ -1,9 +1,12 @@
 ---
 slug: food-safety-a-major-issue-for-the-region
-title: "Food Safety- A Major Issue For The Region"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/WO1112/S00453/food-safety-a-major-issue-for-the-region.htm
+title: Food Safety- A Major Issue For The Region
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1112/S00453/food-safety-a-major-issue-for-the-region.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/12/14/food-safety-a-major-issue-for-the-region/index.html
+layout: layout.njk
 ---
 Food Safety- A Major Issue For The Region
 =========================================

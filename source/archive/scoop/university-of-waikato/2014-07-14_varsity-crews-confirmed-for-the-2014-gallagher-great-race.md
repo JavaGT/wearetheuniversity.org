@@ -1,9 +1,13 @@
 ---
 slug: varsity-crews-confirmed-for-the-2014-gallagher-great-race
-title: "Varsity crews confirmed for the 2014 Gallagher Great Race"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/CU1407/S00190/varsity-crews-confirmed-for-the-2014-gallagher-great-race.htm
+title: Varsity crews confirmed for the 2014 Gallagher Great Race
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00190/varsity-crews-confirmed-for-the-2014-gallagher-great-race.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/14/varsity-crews-confirmed-for-the-2014-gallagher-great-race/index.html
+layout: layout.njk
 ---
 Varsity crews confirmed for the 2014 Gallagher Great Race
 =========================================================

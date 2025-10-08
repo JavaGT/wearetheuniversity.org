@@ -1,9 +1,13 @@
 ---
 slug: national-supports-water-consent-being-added-to-covid-19-bill
-title: "National Supports Water Consent Being Added To Covid-19 Bill"
-date: 2020-06-22
-source-url: https://www.scoop.co.nz/stories/PA2006/S00207/national-supports-water-consent-being-added-to-covid-19-bill.htm
+title: National Supports Water Consent Being Added To Covid-19 Bill
+date: 2020-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00207/national-supports-water-consent-being-added-to-covid-19-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/22/national-supports-water-consent-being-added-to-covid-19-bill/index.html
+layout: layout.njk
 ---
 National Supports Water Consent Being Added To Covid-19 Bill
 ============================================================

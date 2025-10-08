@@ -1,9 +1,12 @@
 ---
 slug: nationals-policy-taskforce-provokes-debate
-title: "National's policy taskforce provokes debate"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00328/nationals-policy-taskforce-provokes-debate.htm
+title: National's policy taskforce provokes debate
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00328/nationals-policy-taskforce-provokes-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/23/nationals-policy-taskforce-provokes-debate/index.html
+layout: layout.njk
 ---
 National's policy taskforce provokes debate
 ===========================================

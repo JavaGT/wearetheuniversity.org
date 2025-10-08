@@ -1,9 +1,12 @@
 ---
 slug: student-loan-repayment-threshold-still-too-low
-title: "Student loan repayment threshold still too low"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/ED0212/S00031/student-loan-repayment-threshold-still-too-low.htm
+title: Student loan repayment threshold still too low
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00031/student-loan-repayment-threshold-still-too-low.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/12/17/student-loan-repayment-threshold-still-too-low/index.html
+layout: layout.njk
 ---
 Student loan repayment threshold still too low
 ==============================================

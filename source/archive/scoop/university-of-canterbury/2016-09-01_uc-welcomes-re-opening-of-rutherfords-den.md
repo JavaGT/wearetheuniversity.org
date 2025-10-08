@@ -1,9 +1,12 @@
 ---
 slug: uc-welcomes-re-opening-of-rutherfords-den
-title: "UC welcomes re-opening of Rutherford’s Den"
-date: 2016-09-01
-source-url: https://www.scoop.co.nz/stories/ED1609/S00004/uc-welcomes-re-opening-of-rutherfords-den.htm
+title: UC welcomes re-opening of Rutherford’s Den
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00004/uc-welcomes-re-opening-of-rutherfords-den.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/01/uc-welcomes-re-opening-of-rutherfords-den/index.html
+layout: layout.njk
 ---
 UC welcomes re-opening of Rutherford’s Den
 ==========================================

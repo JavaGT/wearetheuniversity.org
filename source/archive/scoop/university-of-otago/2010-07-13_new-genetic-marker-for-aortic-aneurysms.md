@@ -1,9 +1,12 @@
 ---
 slug: new-genetic-marker-for-aortic-aneurysms
-title: "New genetic marker for aortic aneurysms"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/GE1007/S00053/new-genetic-marker-for-aortic-aneurysms.htm
+title: New genetic marker for aortic aneurysms
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1007/S00053/new-genetic-marker-for-aortic-aneurysms.htm
 author: university-of-otago
+permalink: /archive/2010/07/13/new-genetic-marker-for-aortic-aneurysms/index.html
+layout: layout.njk
 ---
 New genetic marker for aortic aneurysms
 =======================================

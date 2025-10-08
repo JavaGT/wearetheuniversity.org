@@ -1,9 +1,12 @@
 ---
 slug: mps-congratulated-on-drinking-age-change
-title: "MPs Congratulated on Drinking Age Change"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/ED9907/S00034/mps-congratulated-on-drinking-age-change.htm
+title: MPs Congratulated on Drinking Age Change
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00034/mps-congratulated-on-drinking-age-change.htm
 author: victoria-university-students-association
+permalink: /archive/1999/07/28/mps-congratulated-on-drinking-age-change/index.html
+layout: layout.njk
 ---
 MPs Congratulated on Drinking Age Change
 ========================================

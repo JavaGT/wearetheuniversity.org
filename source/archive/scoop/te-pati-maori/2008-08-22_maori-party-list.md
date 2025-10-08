@@ -1,9 +1,11 @@
 ---
 slug: maori-party-list
-title: "Maori Party List"
-date: 2008-08-22
+title: Maori Party List
+date: 2008-08-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0808/S00288/maori-party-list.htm
 author: te-pati-maori
+permalink: /archive/2008/08/22/maori-party-list/index.html
+layout: layout.njk
 ---
 Maori Party List
 ================

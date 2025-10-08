@@ -1,9 +1,13 @@
 ---
 slug: uc-teams-up-with-microsoft-a-collaboration-for-innovation
-title: "UC Teams Up With Microsoft, A Collaboration For Innovation"
-date: 2023-07-25
-source-url: https://www.scoop.co.nz/stories/ED2307/S00032/uc-teams-up-with-microsoft-a-collaboration-for-innovation.htm
+title: UC Teams Up With Microsoft, A Collaboration For Innovation
+date: 2023-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00032/uc-teams-up-with-microsoft-a-collaboration-for-innovation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/07/25/uc-teams-up-with-microsoft-a-collaboration-for-innovation/index.html
+layout: layout.njk
 ---
 UC Teams Up With Microsoft, A Collaboration For Innovation
 ==========================================================

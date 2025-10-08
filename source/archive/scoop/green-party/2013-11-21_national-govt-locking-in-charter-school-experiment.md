@@ -1,9 +1,13 @@
 ---
 slug: national-govt-locking-in-charter-school-experiment
-title: "National Govt locking in charter school experiment"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/PA1311/S00407/national-govt-locking-in-charter-school-experiment.htm
+title: National Govt locking in charter school experiment
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00407/national-govt-locking-in-charter-school-experiment.htm
 author: green-party
+permalink: >-
+  /archive/2013/11/21/national-govt-locking-in-charter-school-experiment/index.html
+layout: layout.njk
 ---
 National Govt locking in charter school experiment
 ==================================================

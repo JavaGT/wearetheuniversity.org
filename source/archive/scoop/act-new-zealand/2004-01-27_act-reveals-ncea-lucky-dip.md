@@ -1,9 +1,11 @@
 ---
 slug: act-reveals-ncea-lucky-dip
-title: "ACT Reveals NCEA Lucky Dip"
-date: 2004-01-27
+title: ACT Reveals NCEA Lucky Dip
+date: 2004-01-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0401/S00210/act-reveals-ncea-lucky-dip.htm
 author: act-new-zealand
+permalink: /archive/2004/01/27/act-reveals-ncea-lucky-dip/index.html
+layout: layout.njk
 ---
 ACT Reveals NCEA Lucky Dip
 ==========================

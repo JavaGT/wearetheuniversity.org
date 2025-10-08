@@ -1,9 +1,12 @@
 ---
 slug: new-waikato-fire-service-inquiry-welcomed
-title: "New Waikato Fire Service Inquiry Welcomed"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00476/new-waikato-fire-service-inquiry-welcomed.htm
+title: New Waikato Fire Service Inquiry Welcomed
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00476/new-waikato-fire-service-inquiry-welcomed.htm
 author: new-zealand-first-party
+permalink: /archive/2000/08/24/new-waikato-fire-service-inquiry-welcomed/index.html
+layout: layout.njk
 ---
 New Waikato Fire Service Inquiry Welcomed
 =========================================

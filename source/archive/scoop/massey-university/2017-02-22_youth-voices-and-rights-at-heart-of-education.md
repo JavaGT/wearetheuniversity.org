@@ -1,9 +1,12 @@
 ---
 slug: youth-voices-and-rights-at-heart-of-education
-title: "Youth voices and rights at heart of education"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/ED1702/S00063/youth-voices-and-rights-at-heart-of-education.htm
+title: Youth voices and rights at heart of education
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00063/youth-voices-and-rights-at-heart-of-education.htm
 author: massey-university
+permalink: /archive/2017/02/22/youth-voices-and-rights-at-heart-of-education/index.html
+layout: layout.njk
 ---
 Youth voices and rights at heart of education
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: focusing-on-the-conservation-of-orange-fronted-parakeets
-title: "Focusing on the conservation of orange-fronted parakeets"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00124/focusing-on-the-conservation-of-orange-fronted-parakeets.htm
+title: Focusing on the conservation of orange-fronted parakeets
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00124/focusing-on-the-conservation-of-orange-fronted-parakeets.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/18/focusing-on-the-conservation-of-orange-fronted-parakeets/index.html
+layout: layout.njk
 ---
 Focusing on the conservation of orange-fronted parakeets
 ========================================================

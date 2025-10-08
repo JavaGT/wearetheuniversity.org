@@ -1,9 +1,12 @@
 ---
 slug: big-day-in-explores-the-meaning-of-life
-title: "Big Day In explores the meaning of life"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/ED1308/S00099/big-day-in-explores-the-meaning-of-life.htm
+title: Big Day In explores the meaning of life
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00099/big-day-in-explores-the-meaning-of-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/21/big-day-in-explores-the-meaning-of-life/index.html
+layout: layout.njk
 ---
 Big Day In explores the meaning of life
 =======================================

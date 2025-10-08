@@ -1,9 +1,11 @@
 ---
 slug: zaoui-must-go
-title: "Zaoui Must Go"
-date: 2003-08-01
+title: Zaoui Must Go
+date: 2003-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00029/zaoui-must-go.htm
 author: new-zealand-first-party
+permalink: /archive/2003/08/01/zaoui-must-go/index.html
+layout: layout.njk
 ---
 Zaoui Must Go
 =============

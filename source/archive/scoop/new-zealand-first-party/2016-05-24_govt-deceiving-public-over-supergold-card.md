@@ -1,9 +1,12 @@
 ---
 slug: govt-deceiving-public-over-supergold-card
-title: "Govt Deceiving Public Over Supergold Card"
-date: 2016-05-24
-source-url: https://www.scoop.co.nz/stories/PA1605/S00456/govt-deceiving-public-over-supergold-card.htm
+title: Govt Deceiving Public Over Supergold Card
+date: 2016-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00456/govt-deceiving-public-over-supergold-card.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/24/govt-deceiving-public-over-supergold-card/index.html
+layout: layout.njk
 ---
 Govt Deceiving Public Over Supergold Card
 =========================================

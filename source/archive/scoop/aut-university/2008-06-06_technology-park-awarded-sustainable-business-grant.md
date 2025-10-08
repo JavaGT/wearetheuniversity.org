@@ -1,9 +1,13 @@
 ---
 slug: technology-park-awarded-sustainable-business-grant
-title: "Technology Park awarded sustainable business grant"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/BU0806/S00106/technology-park-awarded-sustainable-business-grant.htm
+title: Technology Park awarded sustainable business grant
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00106/technology-park-awarded-sustainable-business-grant.htm
 author: aut-university
+permalink: >-
+  /archive/2008/06/06/technology-park-awarded-sustainable-business-grant/index.html
+layout: layout.njk
 ---
 Technology Park awarded sustainable business grant
 ==================================================

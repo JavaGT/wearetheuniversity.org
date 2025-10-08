@@ -1,9 +1,13 @@
 ---
 slug: two-significant-honorary-doctorates-to-be-awarded
-title: "Two Significant Honorary Doctorates To Be Awarded"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/ED0406/S00054/two-significant-honorary-doctorates-to-be-awarded.htm
+title: Two Significant Honorary Doctorates To Be Awarded
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00054/two-significant-honorary-doctorates-to-be-awarded.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/06/11/two-significant-honorary-doctorates-to-be-awarded/index.html
+layout: layout.njk
 ---
 Two Significant Honorary Doctorates To Be Awarded
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: tppa-an-overblown-duck-yet-to-fly
-title: "TPPA An Overblown Duck Yet to Fly"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/PA1602/S00021/tppa-an-overblown-duck-yet-to-fly.htm
+title: TPPA An Overblown Duck Yet to Fly
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00021/tppa-an-overblown-duck-yet-to-fly.htm
 author: new-zealand-first-party
+permalink: /archive/2016/02/02/tppa-an-overblown-duck-yet-to-fly/index.html
+layout: layout.njk
 ---
 TPPA An Overblown Duck Yet to Fly
 =================================

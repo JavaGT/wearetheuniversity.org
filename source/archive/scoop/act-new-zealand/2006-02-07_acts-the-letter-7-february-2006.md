@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-7-february-2006
-title: "ACT's The Letter 7 February 2006"
-date: 2006-02-07
-source-url: https://www.scoop.co.nz/stories/PA0602/S00069/acts-the-letter-7-february-2006.htm
+title: ACT's The Letter 7 February 2006
+date: 2006-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00069/acts-the-letter-7-february-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/02/07/acts-the-letter-7-february-2006/index.html
+layout: layout.njk
 ---
 ACT's The Letter 7 February 2006
 ================================

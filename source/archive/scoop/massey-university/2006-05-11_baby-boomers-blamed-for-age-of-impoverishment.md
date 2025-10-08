@@ -1,9 +1,12 @@
 ---
 slug: baby-boomers-blamed-for-age-of-impoverishment
-title: "Baby boomers blamed for \"age of impoverishment\""
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/PO0605/S00102/baby-boomers-blamed-for-age-of-impoverishment.htm
+title: Baby boomers blamed for "age of impoverishment"
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0605/S00102/baby-boomers-blamed-for-age-of-impoverishment.htm
 author: massey-university
+permalink: /archive/2006/05/11/baby-boomers-blamed-for-age-of-impoverishment/index.html
+layout: layout.njk
 ---
 Baby boomers blamed for “age of impoverishment”
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: science-funding-a-big-opportunity-for-the-hutt
-title: "Science funding a big opportunity for the Hutt"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PA1502/S00311/science-funding-a-big-opportunity-for-the-hutt.htm
+title: Science funding a big opportunity for the Hutt
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00311/science-funding-a-big-opportunity-for-the-hutt.htm
 author: new-zealand-national-party
+permalink: /archive/2015/02/25/science-funding-a-big-opportunity-for-the-hutt/index.html
+layout: layout.njk
 ---
 Science funding a big opportunity for the Hutt
 ==============================================

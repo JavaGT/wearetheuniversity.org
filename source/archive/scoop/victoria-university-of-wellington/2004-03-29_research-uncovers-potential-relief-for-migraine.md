@@ -1,9 +1,12 @@
 ---
 slug: research-uncovers-potential-relief-for-migraine
-title: "Research uncovers potential relief for migraine"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/ED0403/S00116/research-uncovers-potential-relief-for-migraine.htm
+title: Research uncovers potential relief for migraine
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00116/research-uncovers-potential-relief-for-migraine.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/29/research-uncovers-potential-relief-for-migraine/index.html
+layout: layout.njk
 ---
 Research uncovers potential relief for migraine
 ===============================================

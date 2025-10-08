@@ -1,9 +1,13 @@
 ---
 slug: first-home-grown-data-science-graduates-capped-today
-title: "First ‘home-grown’ data science graduates capped today"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/ED1505/S00027/first-home-grown-data-science-graduates-capped-today.htm
+title: First ‘home-grown’ data science graduates capped today
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00027/first-home-grown-data-science-graduates-capped-today.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/05/06/first-home-grown-data-science-graduates-capped-today/index.html
+layout: layout.njk
 ---
 First ‘home-grown’ data science graduates capped today
 ======================================================

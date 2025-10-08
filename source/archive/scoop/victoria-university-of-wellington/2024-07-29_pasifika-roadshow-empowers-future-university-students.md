@@ -1,9 +1,13 @@
 ---
 slug: pasifika-roadshow-empowers-future-university-students
-title: "Pasifika Roadshow Empowers Future University Students"
-date: 2024-07-29
-source-url: https://www.scoop.co.nz/stories/ED2407/S00051/pasifika-roadshow-empowers-future-university-students.htm
+title: Pasifika Roadshow Empowers Future University Students
+date: 2024-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00051/pasifika-roadshow-empowers-future-university-students.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/07/29/pasifika-roadshow-empowers-future-university-students/index.html
+layout: layout.njk
 ---
 Pasifika Roadshow Empowers Future University Students
 =====================================================

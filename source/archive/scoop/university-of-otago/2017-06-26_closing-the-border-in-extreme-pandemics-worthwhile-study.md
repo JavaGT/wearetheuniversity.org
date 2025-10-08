@@ -1,9 +1,13 @@
 ---
 slug: closing-the-border-in-extreme-pandemics-worthwhile-study
-title: "Closing the border in extreme pandemics worthwhile – Study"
-date: 2017-06-26
-source-url: https://www.scoop.co.nz/stories/GE1706/S00095/closing-the-border-in-extreme-pandemics-worthwhile-study.htm
+title: Closing the border in extreme pandemics worthwhile – Study
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00095/closing-the-border-in-extreme-pandemics-worthwhile-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/26/closing-the-border-in-extreme-pandemics-worthwhile-study/index.html
+layout: layout.njk
 ---
 Closing the border in extreme pandemics worthwhile – Study
 ==========================================================

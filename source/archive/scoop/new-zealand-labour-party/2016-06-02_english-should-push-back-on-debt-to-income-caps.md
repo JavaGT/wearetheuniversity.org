@@ -1,9 +1,12 @@
 ---
 slug: english-should-push-back-on-debt-to-income-caps
-title: "English should push back on debt to income caps"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PA1606/S00058/english-should-push-back-on-debt-to-income-caps.htm
+title: English should push back on debt to income caps
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00058/english-should-push-back-on-debt-to-income-caps.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/02/english-should-push-back-on-debt-to-income-caps/index.html
+layout: layout.njk
 ---
 English should push back on debt to income caps
 ===============================================

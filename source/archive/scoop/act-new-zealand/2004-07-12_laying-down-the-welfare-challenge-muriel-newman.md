@@ -1,9 +1,12 @@
 ---
 slug: laying-down-the-welfare-challenge-muriel-newman
-title: "Laying Down The Welfare Challenge -- Muriel Newman"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/PA0407/S00185/laying-down-the-welfare-challenge-muriel-newman.htm
+title: Laying Down The Welfare Challenge -- Muriel Newman
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00185/laying-down-the-welfare-challenge-muriel-newman.htm
 author: act-new-zealand
+permalink: /archive/2004/07/12/laying-down-the-welfare-challenge-muriel-newman/index.html
+layout: layout.njk
 ---
 Laying Down The Welfare Challenge -- Muriel Newman
 ==================================================

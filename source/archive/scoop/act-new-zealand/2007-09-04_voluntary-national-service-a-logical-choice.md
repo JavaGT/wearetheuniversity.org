@@ -1,9 +1,12 @@
 ---
 slug: voluntary-national-service-a-logical-choice
-title: "Voluntary National Service A Logical Choice"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/PA0709/S00036/voluntary-national-service-a-logical-choice.htm
+title: Voluntary National Service A Logical Choice
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00036/voluntary-national-service-a-logical-choice.htm
 author: act-new-zealand
+permalink: /archive/2007/09/04/voluntary-national-service-a-logical-choice/index.html
+layout: layout.njk
 ---
 Voluntary National Service A Logical Choice
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellor-jeopardises-university-salaries
-title: "Vice-Chancellor jeopardises University Salaries"
-date: 2005-06-22
-source-url: https://www.scoop.co.nz/stories/ED0506/S00062/vice-chancellor-jeopardises-university-salaries.htm
+title: Vice-Chancellor jeopardises University Salaries
+date: 2005-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00062/vice-chancellor-jeopardises-university-salaries.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/22/vice-chancellor-jeopardises-university-salaries/index.html
+layout: layout.njk
 ---
 Vice-Chancellor jeopardises University Salaries
 ===============================================

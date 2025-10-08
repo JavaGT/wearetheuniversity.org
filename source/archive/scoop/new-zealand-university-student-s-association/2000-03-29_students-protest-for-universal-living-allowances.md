@@ -1,9 +1,13 @@
 ---
 slug: students-protest-for-universal-living-allowances
-title: "Students protest for universal living allowances"
-date: 2000-03-29
-source-url: https://www.scoop.co.nz/stories/ED0003/S00060/students-protest-for-universal-living-allowances.htm
+title: Students protest for universal living allowances
+date: 2000-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00060/students-protest-for-universal-living-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/03/29/students-protest-for-universal-living-allowances/index.html
+layout: layout.njk
 ---
 Students protest for universal living allowances
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-research-scholarships-awarded
-title: "Victoria research scholarships awarded"
-date: 2004-10-20
-source-url: https://www.scoop.co.nz/stories/ED0410/S00076/victoria-research-scholarships-awarded.htm
+title: Victoria research scholarships awarded
+date: 2004-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00076/victoria-research-scholarships-awarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/20/victoria-research-scholarships-awarded/index.html
+layout: layout.njk
 ---
 Victoria research scholarships awarded
 ======================================

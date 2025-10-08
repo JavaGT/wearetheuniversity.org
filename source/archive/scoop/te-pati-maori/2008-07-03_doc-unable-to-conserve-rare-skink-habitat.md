@@ -1,9 +1,12 @@
 ---
 slug: doc-unable-to-conserve-rare-skink-habitat
-title: "DoC unable to conserve rare skink habitat"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00088/doc-unable-to-conserve-rare-skink-habitat.htm
+title: DoC unable to conserve rare skink habitat
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00088/doc-unable-to-conserve-rare-skink-habitat.htm
 author: te-pati-maori
+permalink: /archive/2008/07/03/doc-unable-to-conserve-rare-skink-habitat/index.html
+layout: layout.njk
 ---
 DoC unable to conserve rare skink habitat
 =========================================

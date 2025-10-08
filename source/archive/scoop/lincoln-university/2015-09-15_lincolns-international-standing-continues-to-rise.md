@@ -1,9 +1,13 @@
 ---
 slug: lincolns-international-standing-continues-to-rise
-title: "Lincoln’s international standing continues to rise"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/ED1509/S00086/lincolns-international-standing-continues-to-rise.htm
+title: Lincoln’s international standing continues to rise
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00086/lincolns-international-standing-continues-to-rise.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/09/15/lincolns-international-standing-continues-to-rise/index.html
+layout: layout.njk
 ---
 Lincoln’s international standing continues to rise
 ==================================================

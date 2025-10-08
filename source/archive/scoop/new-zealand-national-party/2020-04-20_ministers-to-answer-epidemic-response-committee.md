@@ -1,9 +1,12 @@
 ---
 slug: ministers-to-answer-epidemic-response-committee
-title: "Ministers To Answer Epidemic Response Committee"
-date: 2020-04-20
-source-url: https://www.scoop.co.nz/stories/PA2004/S00103/ministers-to-answer-epidemic-response-committee.htm
+title: Ministers To Answer Epidemic Response Committee
+date: 2020-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00103/ministers-to-answer-epidemic-response-committee.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/20/ministers-to-answer-epidemic-response-committee/index.html
+layout: layout.njk
 ---
 Ministers To Answer Epidemic Response Committee
 ===============================================

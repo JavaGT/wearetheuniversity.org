@@ -1,9 +1,13 @@
 ---
 slug: minister-fiddles-with-stats-while-education-burns
-title: "Minister Fiddles With Stats While Education Burns"
-date: 1999-10-22
-source-url: https://www.scoop.co.nz/stories/ED9910/S00064/minister-fiddles-with-stats-while-education-burns.htm
+title: Minister Fiddles With Stats While Education Burns
+date: 1999-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00064/minister-fiddles-with-stats-while-education-burns.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/1999/10/22/minister-fiddles-with-stats-while-education-burns/index.html
+layout: layout.njk
 ---
 Minister Fiddles With Stats While Education Burns
 =================================================

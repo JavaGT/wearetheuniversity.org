@@ -1,9 +1,12 @@
 ---
 slug: multiple-strike-days-planned-for-five-weeks
-title: "Multiple strike days planned for five weeks"
-date: 2019-05-23
-source-url: https://www.scoop.co.nz/stories/PA1905/S00232/multiple-strike-days-planned-for-five-weeks.htm
+title: Multiple strike days planned for five weeks
+date: 2019-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00232/multiple-strike-days-planned-for-five-weeks.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/23/multiple-strike-days-planned-for-five-weeks/index.html
+layout: layout.njk
 ---
 Multiple strike days planned for five weeks
 ===========================================

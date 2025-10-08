@@ -1,9 +1,13 @@
 ---
 slug: leading-nz-and-australian-experts-discuss-the-rise-of-china
-title: "Leading NZ and Australian experts discuss the rise of China"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/BU1104/S00147/leading-nz-and-australian-experts-discuss-the-rise-of-china.htm
+title: Leading NZ and Australian experts discuss the rise of China
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00147/leading-nz-and-australian-experts-discuss-the-rise-of-china.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/04/06/leading-nz-and-australian-experts-discuss-the-rise-of-china/index.html
+layout: layout.njk
 ---
 Leading NZ and Australian experts discuss the rise of China
 ===========================================================

@@ -1,8 +1,12 @@
 ---
 slug: university-expects-to-place-more-medical-students-in-rural-towns
-title: "University expects to place more medical students in rural towns"
-date: 2017-05-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/university-expects-to-place-more-medical-students-in-rural-towns.html
+title: University expects to place more medical students in rural towns
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/university-expects-to-place-more-medical-students-in-rural-towns.html
+permalink: >-
+  /archive/2017/05/18/university-expects-to-place-more-medical-students-in-rural-towns/index.html
+layout: layout.njk
 ---
 University expects to place more medical students in rural towns
 ================================================================

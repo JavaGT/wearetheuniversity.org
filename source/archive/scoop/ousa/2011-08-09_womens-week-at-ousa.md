@@ -1,9 +1,11 @@
 ---
 slug: womens-week-at-ousa
-title: "Women's Week At OUSA"
-date: 2011-08-09
+title: Women's Week At OUSA
+date: 2011-08-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1108/S00114/womens-week-at-ousa.htm
 author: ousa
+permalink: /archive/2011/08/09/womens-week-at-ousa/index.html
+layout: layout.njk
 ---
 Women's Week At OUSA
 ====================

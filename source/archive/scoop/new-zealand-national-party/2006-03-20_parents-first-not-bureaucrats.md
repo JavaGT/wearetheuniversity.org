@@ -1,9 +1,12 @@
 ---
 slug: parents-first-not-bureaucrats
-title: "Parents first, not bureaucrats"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00330/parents-first-not-bureaucrats.htm
+title: Parents first, not bureaucrats
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00330/parents-first-not-bureaucrats.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/20/parents-first-not-bureaucrats/index.html
+layout: layout.njk
 ---
 Parents first, not bureaucrats
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: big-jump-in-benefit-numbers-in-christchurch-as-rebuild-slows
-title: "Big jump in benefit numbers in Christchurch as rebuild slows"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00381/big-jump-in-benefit-numbers-in-christchurch-as-rebuild-slows.htm
+title: Big jump in benefit numbers in Christchurch as rebuild slows
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00381/big-jump-in-benefit-numbers-in-christchurch-as-rebuild-slows.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/22/big-jump-in-benefit-numbers-in-christchurch-as-rebuild-slows/index.html
+layout: layout.njk
 ---
 Big jump in benefit numbers in Christchurch as rebuild slows
 ============================================================

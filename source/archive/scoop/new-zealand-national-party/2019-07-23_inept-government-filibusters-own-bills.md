@@ -1,9 +1,12 @@
 ---
 slug: inept-government-filibusters-own-bills
-title: "Inept Government filibusters own Bills"
-date: 2019-07-23
-source-url: https://www.scoop.co.nz/stories/PA1907/S00180/inept-government-filibusters-own-bills.htm
+title: Inept Government filibusters own Bills
+date: 2019-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00180/inept-government-filibusters-own-bills.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/23/inept-government-filibusters-own-bills/index.html
+layout: layout.njk
 ---
 Inept Government filibusters own Bills
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: new-funding-to-speed-up-development-of-urban-cycleway
-title: "New funding to speed up development of urban cycleway"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/PA1506/S00469/new-funding-to-speed-up-development-of-urban-cycleway.htm
+title: New funding to speed up development of urban cycleway
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00469/new-funding-to-speed-up-development-of-urban-cycleway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/25/new-funding-to-speed-up-development-of-urban-cycleway/index.html
+layout: layout.njk
 ---
 New funding to speed up development of urban cycleway
 =====================================================

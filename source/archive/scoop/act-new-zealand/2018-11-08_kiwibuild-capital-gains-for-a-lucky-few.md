@@ -1,9 +1,12 @@
 ---
 slug: kiwibuild-capital-gains-for-a-lucky-few
-title: "KiwiBuild capital gains for a lucky few"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/PA1811/S00088/kiwibuild-capital-gains-for-a-lucky-few.htm
+title: KiwiBuild capital gains for a lucky few
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00088/kiwibuild-capital-gains-for-a-lucky-few.htm
 author: act-new-zealand
+permalink: /archive/2018/11/08/kiwibuild-capital-gains-for-a-lucky-few/index.html
+layout: layout.njk
 ---
 KiwiBuild capital gains for a lucky few
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-researchers-scoop-prestigious-awards
-title: "Victoria University researchers scoop prestigious awards"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/ED1109/S00025/victoria-university-researchers-scoop-prestigious-awards.htm
+title: Victoria University researchers scoop prestigious awards
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00025/victoria-university-researchers-scoop-prestigious-awards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/08/victoria-university-researchers-scoop-prestigious-awards/index.html
+layout: layout.njk
 ---
 Victoria University researchers scoop prestigious awards
 ========================================================

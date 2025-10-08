@@ -1,9 +1,13 @@
 ---
 slug: family-violence-perpetrators-need-better-response
-title: "Family violence perpetrators need better response"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/GE1611/S00132/family-violence-perpetrators-need-better-response.htm
+title: Family violence perpetrators need better response
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00132/family-violence-perpetrators-need-better-response.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/11/25/family-violence-perpetrators-need-better-response/index.html
+layout: layout.njk
 ---
 Family violence perpetrators need better response
 =================================================

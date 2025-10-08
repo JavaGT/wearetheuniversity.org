@@ -1,9 +1,12 @@
 ---
 slug: baby-charter-schools-raise-more-questions
-title: "Baby charter schools raise more questions"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/ED1406/S00153/baby-charter-schools-raise-more-questions.htm
+title: Baby charter schools raise more questions
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00153/baby-charter-schools-raise-more-questions.htm
 author: nzei
+permalink: /archive/2014/06/27/baby-charter-schools-raise-more-questions/index.html
+layout: layout.njk
 ---
 Baby charter schools raise more questions
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-speaks-with-forked-tongue-on-foreshore-policy
-title: "Govt speaks with forked tongue on foreshore policy"
-date: 2004-11-04
-source-url: https://www.scoop.co.nz/stories/PA0411/S00105/govt-speaks-with-forked-tongue-on-foreshore-policy.htm
+title: Govt speaks with forked tongue on foreshore policy
+date: 2004-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00105/govt-speaks-with-forked-tongue-on-foreshore-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/11/04/govt-speaks-with-forked-tongue-on-foreshore-policy/index.html
+layout: layout.njk
 ---
 Govt speaks with forked tongue on foreshore policy
 ==================================================

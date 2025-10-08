@@ -1,9 +1,13 @@
 ---
 slug: english-displays-gap-in-tertiary-sector-knowledge
-title: "English Displays Gap in Tertiary Sector Knowledge"
-date: 2005-10-04
-source-url: https://www.scoop.co.nz/stories/ED0510/S00012/english-displays-gap-in-tertiary-sector-knowledge.htm
+title: English Displays Gap in Tertiary Sector Knowledge
+date: 2005-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00012/english-displays-gap-in-tertiary-sector-knowledge.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2005/10/04/english-displays-gap-in-tertiary-sector-knowledge/index.html
+layout: layout.njk
 ---
 English Displays Gap in Tertiary Sector Knowledge
 =================================================

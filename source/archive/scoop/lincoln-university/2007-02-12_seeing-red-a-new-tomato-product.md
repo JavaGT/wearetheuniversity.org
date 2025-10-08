@@ -1,9 +1,12 @@
 ---
 slug: seeing-red-a-new-tomato-product
-title: "Seeing red – a new tomato product"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/SC0702/S00019/seeing-red-a-new-tomato-product.htm
+title: Seeing red – a new tomato product
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00019/seeing-red-a-new-tomato-product.htm
 author: lincoln-university
+permalink: /archive/2007/02/12/seeing-red-a-new-tomato-product/index.html
+layout: layout.njk
 ---
 Seeing red – a new tomato product
 =================================

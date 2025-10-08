@@ -1,9 +1,12 @@
 ---
 slug: mallard-caught-out-by-awatere-huata-act
-title: "Mallard Caught Out By Awatere Huata - ACT"
-date: 2000-02-16
-source-url: https://www.scoop.co.nz/stories/PA0002/S00200/mallard-caught-out-by-awatere-huata-act.htm
+title: Mallard Caught Out By Awatere Huata - ACT
+date: 2000-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00200/mallard-caught-out-by-awatere-huata-act.htm
 author: act-new-zealand
+permalink: /archive/2000/02/16/mallard-caught-out-by-awatere-huata-act/index.html
+layout: layout.njk
 ---
 Mallard Caught Out By Awatere Huata - ACT
 =========================================

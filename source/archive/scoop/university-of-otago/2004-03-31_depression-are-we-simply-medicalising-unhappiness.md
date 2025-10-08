@@ -1,9 +1,13 @@
 ---
 slug: depression-are-we-simply-medicalising-unhappiness
-title: "Depression Are We Simply Medicalising Unhappiness?"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/ED0403/S00130/depression-are-we-simply-medicalising-unhappiness.htm
+title: Depression Are We Simply Medicalising Unhappiness?
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00130/depression-are-we-simply-medicalising-unhappiness.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/03/31/depression-are-we-simply-medicalising-unhappiness/index.html
+layout: layout.njk
 ---
 Depression Are We Simply Medicalising Unhappiness?
 ==================================================

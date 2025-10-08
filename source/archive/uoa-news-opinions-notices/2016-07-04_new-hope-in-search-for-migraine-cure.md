@@ -1,8 +1,11 @@
 ---
 slug: new-hope-in-search-for-migraine-cure
-title: "New hope in search for migraine cure"
-date: 2016-07-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/new-hope-in-search-for-migraine-cure.html
+title: New hope in search for migraine cure
+date: 2016-07-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/new-hope-in-search-for-migraine-cure.html
+permalink: /archive/2016/07/04/new-hope-in-search-for-migraine-cure/index.html
+layout: layout.njk
 ---
 New hope in search for migraine cure
 ====================================

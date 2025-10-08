@@ -1,9 +1,12 @@
 ---
 slug: foreign-buy-up-wrecks-home-ownership-hopes
-title: "Foreign buy-up wrecks home-ownership hopes"
-date: 2003-01-23
-source-url: https://www.scoop.co.nz/stories/PA0301/S00173/foreign-buy-up-wrecks-home-ownership-hopes.htm
+title: Foreign buy-up wrecks home-ownership hopes
+date: 2003-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00173/foreign-buy-up-wrecks-home-ownership-hopes.htm
 author: green-party
+permalink: /archive/2003/01/23/foreign-buy-up-wrecks-home-ownership-hopes/index.html
+layout: layout.njk
 ---
 Foreign buy-up wrecks home-ownership hopes
 ==========================================

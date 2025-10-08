@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-working-for-ericsson-in-silicon-valley
-title: "Canterbury student working for Ericsson in Silicon Valley"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/ED1411/S00145/canterbury-student-working-for-ericsson-in-silicon-valley.htm
+title: Canterbury student working for Ericsson in Silicon Valley
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00145/canterbury-student-working-for-ericsson-in-silicon-valley.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/24/canterbury-student-working-for-ericsson-in-silicon-valley/index.html
+layout: layout.njk
 ---
 Canterbury student working for Ericsson in Silicon Valley
 =========================================================

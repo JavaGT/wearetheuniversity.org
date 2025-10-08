@@ -1,9 +1,13 @@
 ---
 slug: back-nz-families-not-chorus-and-foreign-shareholders
-title: "Back NZ Families, Not Chorus And  Foreign Shareholders"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/PA1311/S00525/back-nz-families-not-chorus-and-foreign-shareholders.htm
+title: Back NZ Families, Not Chorus And  Foreign Shareholders
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00525/back-nz-families-not-chorus-and-foreign-shareholders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/11/28/back-nz-families-not-chorus-and-foreign-shareholders/index.html
+layout: layout.njk
 ---
 Back NZ Families, Not Chorus And Foreign Shareholders
 =====================================================

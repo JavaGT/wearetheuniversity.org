@@ -1,8 +1,12 @@
 ---
-slug: fresh-fish-oil-lowers-diabetes-risk-in-rat-offspring
-title: "Fresh fish oil lowers diabetes risk in rat offspring"
-date: 2017-07-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/fresh-fish-oil-lowers-diabetes-risk-in-rat-offspring.html
+slug: fresh-fish-oil-lowers-diabetes-risk-in-rat-offspring-2
+title: Fresh fish oil lowers diabetes risk in rat offspring
+date: 2017-07-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/fresh-fish-oil-lowers-diabetes-risk-in-rat-offspring.html
+permalink: >-
+  /archive/2017/07/18/fresh-fish-oil-lowers-diabetes-risk-in-rat-offspring-2/index.html
+layout: layout.njk
 ---
 Fresh fish oil lowers diabetes risk in rat offspring
 ====================================================

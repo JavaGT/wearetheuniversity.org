@@ -1,9 +1,13 @@
 ---
 slug: pasifika-scholarship-for-music-and-creative-media
-title: "Pasifika scholarship for music and creative media"
-date: 2018-08-31
-source-url: https://www.scoop.co.nz/stories/ED1808/S00080/pasifika-scholarship-for-music-and-creative-media.htm
+title: Pasifika scholarship for music and creative media
+date: 2018-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00080/pasifika-scholarship-for-music-and-creative-media.htm
 author: massey-university
+permalink: >-
+  /archive/2018/08/31/pasifika-scholarship-for-music-and-creative-media/index.html
+layout: layout.njk
 ---
 Pasifika scholarship for music and creative media
 =================================================

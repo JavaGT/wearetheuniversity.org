@@ -1,9 +1,12 @@
 ---
 slug: roy-meets-with-vsm-protesters
-title: "Roy meets with VSM protesters"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/ED1012/S00008/roy-meets-with-vsm-protesters.htm
+title: Roy meets with VSM protesters
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00008/roy-meets-with-vsm-protesters.htm
 author: act-new-zealand
+permalink: /archive/2010/12/01/roy-meets-with-vsm-protesters/index.html
+layout: layout.njk
 ---
 Roy meets with VSM protesters
 =============================

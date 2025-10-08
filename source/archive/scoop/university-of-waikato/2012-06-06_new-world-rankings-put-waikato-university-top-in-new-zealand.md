@@ -1,9 +1,13 @@
 ---
 slug: new-world-rankings-put-waikato-university-top-in-new-zealand
-title: "New world rankings put Waikato University top in New Zealand"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/ED1206/S00018/new-world-rankings-put-waikato-university-top-in-new-zealand.htm
+title: New world rankings put Waikato University top in New Zealand
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00018/new-world-rankings-put-waikato-university-top-in-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/06/06/new-world-rankings-put-waikato-university-top-in-new-zealand/index.html
+layout: layout.njk
 ---
 New world rankings put Waikato University top in New Zealand
 ============================================================

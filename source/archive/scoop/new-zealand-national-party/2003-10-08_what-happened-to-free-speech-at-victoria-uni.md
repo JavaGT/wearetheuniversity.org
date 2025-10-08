@@ -1,9 +1,12 @@
 ---
 slug: what-happened-to-free-speech-at-victoria-uni
-title: "What happened to free speech at Victoria Uni?"
-date: 2003-10-08
-source-url: https://www.scoop.co.nz/stories/PA0310/S00159/what-happened-to-free-speech-at-victoria-uni.htm
+title: What happened to free speech at Victoria Uni?
+date: 2003-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00159/what-happened-to-free-speech-at-victoria-uni.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/08/what-happened-to-free-speech-at-victoria-uni/index.html
+layout: layout.njk
 ---
 What happened to free speech at Victoria Uni?
 =============================================

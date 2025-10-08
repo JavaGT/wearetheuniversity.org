@@ -1,9 +1,12 @@
 ---
 slug: national-must-back-our-future-doctors
-title: "National must back our future doctors"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PA1505/S00528/national-must-back-our-future-doctors.htm
+title: National must back our future doctors
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00528/national-must-back-our-future-doctors.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/27/national-must-back-our-future-doctors/index.html
+layout: layout.njk
 ---
 National must back our future doctors
 =====================================

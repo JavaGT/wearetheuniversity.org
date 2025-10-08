@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-win-nz-spatial-excellence-awards
-title: "Canterbury students win NZ spatial excellence awards"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/ED1411/S00176/canterbury-students-win-nz-spatial-excellence-awards.htm
+title: Canterbury students win NZ spatial excellence awards
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00176/canterbury-students-win-nz-spatial-excellence-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/28/canterbury-students-win-nz-spatial-excellence-awards/index.html
+layout: layout.njk
 ---
 Canterbury students win NZ spatial excellence awards
 ====================================================

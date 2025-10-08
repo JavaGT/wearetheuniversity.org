@@ -1,9 +1,12 @@
 ---
 slug: blog-the-green-growth-advisory-group-report
-title: "Blog: The Green Growth Advisory Group report"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/PA1203/S00054/blog-the-green-growth-advisory-group-report.htm
+title: 'Blog: The Green Growth Advisory Group report'
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00054/blog-the-green-growth-advisory-group-report.htm
 author: green-party
+permalink: /archive/2012/03/05/blog-the-green-growth-advisory-group-report/index.html
+layout: layout.njk
 ---
 Blog: The Green Growth Advisory Group report
 ============================================

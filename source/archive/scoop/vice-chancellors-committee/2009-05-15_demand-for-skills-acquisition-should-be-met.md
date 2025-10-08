@@ -1,9 +1,12 @@
 ---
 slug: demand-for-skills-acquisition-should-be-met
-title: "Demand For Skills Acquisition Should Be Met"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/ED0905/S00067/demand-for-skills-acquisition-should-be-met.htm
+title: Demand For Skills Acquisition Should Be Met
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00067/demand-for-skills-acquisition-should-be-met.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/05/15/demand-for-skills-acquisition-should-be-met/index.html
+layout: layout.njk
 ---
 Demand For Skills Acquisition Should Be Met
 ===========================================

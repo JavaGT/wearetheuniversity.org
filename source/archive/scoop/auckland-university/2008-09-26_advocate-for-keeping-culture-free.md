@@ -1,9 +1,12 @@
 ---
 slug: advocate-for-keeping-culture-free
-title: "Advocate for keeping culture free"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/ED0809/S00090/advocate-for-keeping-culture-free.htm
+title: Advocate for keeping culture free
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00090/advocate-for-keeping-culture-free.htm
 author: auckland-university
+permalink: /archive/2008/09/26/advocate-for-keeping-culture-free/index.html
+layout: layout.njk
 ---
 Advocate for keeping culture free
 =================================

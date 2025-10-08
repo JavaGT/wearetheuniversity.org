@@ -1,9 +1,12 @@
 ---
 slug: employment-talks-not-tops-at-topnz
-title: "Employment talks not ‘Tops’ at TOPNZ"
-date: 2004-11-14
-source-url: https://www.scoop.co.nz/stories/ED0411/S00041/employment-talks-not-tops-at-topnz.htm
+title: Employment talks not ‘Tops’ at TOPNZ
+date: 2004-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00041/employment-talks-not-tops-at-topnz.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2004/11/14/employment-talks-not-tops-at-topnz/index.html
+layout: layout.njk
 ---
 Employment talks not ‘Tops’ at TOPNZ
 ====================================

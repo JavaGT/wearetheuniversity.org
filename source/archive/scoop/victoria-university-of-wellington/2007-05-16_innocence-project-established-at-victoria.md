@@ -1,9 +1,12 @@
 ---
 slug: innocence-project-established-at-victoria
-title: "Innocence Project established at Victoria"
-date: 2007-05-16
-source-url: https://www.scoop.co.nz/stories/PO0705/S00264/innocence-project-established-at-victoria.htm
+title: Innocence Project established at Victoria
+date: 2007-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00264/innocence-project-established-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/16/innocence-project-established-at-victoria/index.html
+layout: layout.njk
 ---
 Innocence Project established at Victoria
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: transformer-type-under-construction-at-canterbury
-title: "Transformer type under construction at Canterbury"
-date: 2004-03-10
-source-url: https://www.scoop.co.nz/stories/ED0403/S00041/transformer-type-under-construction-at-canterbury.htm
+title: Transformer type under construction at Canterbury
+date: 2004-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00041/transformer-type-under-construction-at-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/03/10/transformer-type-under-construction-at-canterbury/index.html
+layout: layout.njk
 ---
 Transformer type under construction at Canterbury
 =================================================

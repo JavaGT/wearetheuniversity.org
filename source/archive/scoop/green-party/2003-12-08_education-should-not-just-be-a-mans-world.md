@@ -1,9 +1,12 @@
 ---
 slug: education-should-not-just-be-a-mans-world
-title: "Education should not just be a man's world"
-date: 2003-12-08
-source-url: https://www.scoop.co.nz/stories/PA0312/S00177/education-should-not-just-be-a-mans-world.htm
+title: Education should not just be a man's world
+date: 2003-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00177/education-should-not-just-be-a-mans-world.htm
 author: green-party
+permalink: /archive/2003/12/08/education-should-not-just-be-a-mans-world/index.html
+layout: layout.njk
 ---
 Education should not just be a man's world
 ==========================================

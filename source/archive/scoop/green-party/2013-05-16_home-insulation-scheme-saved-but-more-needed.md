@@ -1,9 +1,12 @@
 ---
 slug: home-insulation-scheme-saved-but-more-needed
-title: "Home insulation scheme saved but more needed"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00324/home-insulation-scheme-saved-but-more-needed.htm
+title: Home insulation scheme saved but more needed
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00324/home-insulation-scheme-saved-but-more-needed.htm
 author: green-party
+permalink: /archive/2013/05/16/home-insulation-scheme-saved-but-more-needed/index.html
+layout: layout.njk
 ---
 Home insulation scheme saved but more needed
 ============================================

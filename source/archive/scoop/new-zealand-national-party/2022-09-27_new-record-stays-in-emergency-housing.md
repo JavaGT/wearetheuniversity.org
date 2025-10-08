@@ -1,9 +1,12 @@
 ---
 slug: new-record-stays-in-emergency-housing
-title: "New Record Stays In Emergency Housing"
-date: 2022-09-27
-source-url: https://www.scoop.co.nz/stories/PA2209/S00136/new-record-stays-in-emergency-housing.htm
+title: New Record Stays In Emergency Housing
+date: 2022-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00136/new-record-stays-in-emergency-housing.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/27/new-record-stays-in-emergency-housing/index.html
+layout: layout.njk
 ---
 New Record Stays In Emergency Housing
 =====================================

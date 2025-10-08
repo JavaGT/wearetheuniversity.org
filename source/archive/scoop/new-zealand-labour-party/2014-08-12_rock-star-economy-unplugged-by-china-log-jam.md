@@ -1,9 +1,12 @@
 ---
 slug: rock-star-economy-unplugged-by-china-log-jam
-title: "Rock-star economy unplugged by China log jam"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PA1408/S00188/rock-star-economy-unplugged-by-china-log-jam.htm
+title: Rock-star economy unplugged by China log jam
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00188/rock-star-economy-unplugged-by-china-log-jam.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/12/rock-star-economy-unplugged-by-china-log-jam/index.html
+layout: layout.njk
 ---
 Rock-star economy unplugged by China log jam
 ============================================

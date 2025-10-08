@@ -1,9 +1,11 @@
 ---
 slug: wheres-nosey
-title: "Where's Nosey?"
-date: 2003-12-11
+title: Where's Nosey?
+date: 2003-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0312/S00259/wheres-nosey.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/11/wheres-nosey/index.html
+layout: layout.njk
 ---
 Where's Nosey?
 ==============

@@ -1,9 +1,13 @@
 ---
 slug: lees-galloways-lack-of-action-hurting-the-economy
-title: "Lees-Galloway’s lack of action hurting the economy"
-date: 2019-12-18
-source-url: https://www.scoop.co.nz/stories/PA1912/S00175/lees-galloways-lack-of-action-hurting-the-economy.htm
+title: Lees-Galloway’s lack of action hurting the economy
+date: 2019-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00175/lees-galloways-lack-of-action-hurting-the-economy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/18/lees-galloways-lack-of-action-hurting-the-economy/index.html
+layout: layout.njk
 ---
 Lees-Galloway’s lack of action hurting the economy
 ==================================================

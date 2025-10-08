@@ -1,9 +1,12 @@
 ---
 slug: asia-pacific-security-issues-to-be-discussed
-title: "Asia-Pacific security issues to be discussed"
-date: 2006-11-29
-source-url: https://www.scoop.co.nz/stories/ED0611/S00108/asia-pacific-security-issues-to-be-discussed.htm
+title: Asia-Pacific security issues to be discussed
+date: 2006-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00108/asia-pacific-security-issues-to-be-discussed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/29/asia-pacific-security-issues-to-be-discussed/index.html
+layout: layout.njk
 ---
 Asia-Pacific security issues to be discussed
 ============================================

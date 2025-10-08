@@ -1,9 +1,12 @@
 ---
 slug: classics-hit-masseys-north-shore-campus
-title: "Classics hit Massey’s North Shore campus"
-date: 2015-12-14
-source-url: https://www.scoop.co.nz/stories/ED1512/S00058/classics-hit-masseys-north-shore-campus.htm
+title: Classics hit Massey’s North Shore campus
+date: 2015-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00058/classics-hit-masseys-north-shore-campus.htm
 author: massey-university
+permalink: /archive/2015/12/14/classics-hit-masseys-north-shore-campus/index.html
+layout: layout.njk
 ---
 Classics hit Massey’s North Shore campus
 ========================================

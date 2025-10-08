@@ -1,9 +1,12 @@
 ---
 slug: national-party-candidate-college-to-be-launched
-title: "National Party Candidate College to be launched"
-date: 2003-11-18
-source-url: https://www.scoop.co.nz/stories/PA0311/S00355/national-party-candidate-college-to-be-launched.htm
+title: National Party Candidate College to be launched
+date: 2003-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00355/national-party-candidate-college-to-be-launched.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/18/national-party-candidate-college-to-be-launched/index.html
+layout: layout.njk
 ---
 National Party Candidate College to be launched
 ===============================================

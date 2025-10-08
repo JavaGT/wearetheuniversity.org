@@ -1,9 +1,12 @@
 ---
 slug: another-missed-opportunity-for-youth
-title: "Another missed opportunity for youth"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/PA1104/S00116/another-missed-opportunity-for-youth.htm
+title: Another missed opportunity for youth
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00116/another-missed-opportunity-for-youth.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/06/another-missed-opportunity-for-youth/index.html
+layout: layout.njk
 ---
 Another missed opportunity for youth
 ====================================

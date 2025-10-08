@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-announces-canterbury-candidates
-title: "New Zealand First announces Canterbury candidates"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PO1708/S00329/new-zealand-first-announces-canterbury-candidates.htm
+title: New Zealand First announces Canterbury candidates
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00329/new-zealand-first-announces-canterbury-candidates.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/16/new-zealand-first-announces-canterbury-candidates/index.html
+layout: layout.njk
 ---
 New Zealand First announces Canterbury candidates
 =================================================

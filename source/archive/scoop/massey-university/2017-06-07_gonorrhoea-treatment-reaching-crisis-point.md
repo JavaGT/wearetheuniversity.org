@@ -1,9 +1,12 @@
 ---
 slug: gonorrhoea-treatment-reaching-crisis-point
-title: "Gonorrhoea treatment reaching crisis point"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/GE1706/S00021/gonorrhoea-treatment-reaching-crisis-point.htm
+title: Gonorrhoea treatment reaching crisis point
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00021/gonorrhoea-treatment-reaching-crisis-point.htm
 author: massey-university
+permalink: /archive/2017/06/07/gonorrhoea-treatment-reaching-crisis-point/index.html
+layout: layout.njk
 ---
 Gonorrhoea treatment reaching crisis point
 ==========================================

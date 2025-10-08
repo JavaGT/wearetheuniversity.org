@@ -1,9 +1,12 @@
 ---
 slug: report-on-ctv-building-collapse-devastating
-title: "Report on CTV building collapse devastating"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/PA1202/S00109/report-on-ctv-building-collapse-devastating.htm
+title: Report on CTV building collapse devastating
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00109/report-on-ctv-building-collapse-devastating.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/09/report-on-ctv-building-collapse-devastating/index.html
+layout: layout.njk
 ---
 Report on CTV building collapse devastating
 ===========================================

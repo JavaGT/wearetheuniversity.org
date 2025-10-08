@@ -1,9 +1,13 @@
 ---
 slug: too-little-too-late-for-christchurch-home-owners
-title: "\"Too Little, Too Late\" for Christchurch Home Owners"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/PA1305/S00254/too-little-too-late-for-christchurch-home-owners.htm
+title: '"Too Little, Too Late" for Christchurch Home Owners'
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00254/too-little-too-late-for-christchurch-home-owners.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/05/15/too-little-too-late-for-christchurch-home-owners/index.html
+layout: layout.njk
 ---
 “Too Little, Too Late” for Christchurch Home Owners
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-appoint-bentham-ohia-as-vice-president
-title: "Māori Party appoint Bentham Ohia as Vice-President"
-date: 2018-10-27
-source-url: https://www.scoop.co.nz/stories/PO1810/S00385/maori-party-appoint-bentham-ohia-as-vice-president.htm
+title: Māori Party appoint Bentham Ohia as Vice-President
+date: 2018-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00385/maori-party-appoint-bentham-ohia-as-vice-president.htm
 author: te-pati-maori
+permalink: /archive/2018/10/27/m/index.html
+layout: layout.njk
 ---
 Māori Party appoint Bentham Ohia as Vice-President
 ==================================================

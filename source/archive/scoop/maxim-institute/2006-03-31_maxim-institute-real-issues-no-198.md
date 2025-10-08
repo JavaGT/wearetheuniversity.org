@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-198
-title: "Maxim Institute - real issues - No 198"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/PO0603/S00254/maxim-institute-real-issues-no-198.htm
+title: Maxim Institute - real issues - No 198
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0603/S00254/maxim-institute-real-issues-no-198.htm
 author: maxim-institute
+permalink: /archive/2006/03/31/maxim-institute-real-issues-no-198/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 198
 ======================================

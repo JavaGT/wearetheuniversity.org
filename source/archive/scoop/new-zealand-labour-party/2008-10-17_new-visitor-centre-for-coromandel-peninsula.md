@@ -1,9 +1,12 @@
 ---
 slug: new-visitor-centre-for-coromandel-peninsula
-title: "New Visitor Centre For Coromandel Peninsula"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00421/new-visitor-centre-for-coromandel-peninsula.htm
+title: New Visitor Centre For Coromandel Peninsula
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00421/new-visitor-centre-for-coromandel-peninsula.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/17/new-visitor-centre-for-coromandel-peninsula/index.html
+layout: layout.njk
 ---
 New Visitor Centre For Coromandel Peninsula
 ===========================================

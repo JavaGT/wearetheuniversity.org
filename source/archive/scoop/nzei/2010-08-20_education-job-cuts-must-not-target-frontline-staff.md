@@ -1,9 +1,13 @@
 ---
 slug: education-job-cuts-must-not-target-frontline-staff
-title: "Education Job Cuts Must Not Target Frontline Staff"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/ED1008/S00086/education-job-cuts-must-not-target-frontline-staff.htm
+title: Education Job Cuts Must Not Target Frontline Staff
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00086/education-job-cuts-must-not-target-frontline-staff.htm
 author: nzei
+permalink: >-
+  /archive/2010/08/20/education-job-cuts-must-not-target-frontline-staff/index.html
+layout: layout.njk
 ---
 Education Job Cuts Must Not Target Frontline Staff
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-independent-&-elected-teachers-council
-title: "NZEI Supports Independent & Elected Teachers Council"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/ED1305/S00131/nzei-supports-independent-elected-teachers-council.htm
+title: NZEI Supports Independent & Elected Teachers Council
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00131/nzei-supports-independent-elected-teachers-council.htm
 author: nzei
+permalink: /archive/2013/05/20/nzei-supports-independent-/index.html
+layout: layout.njk
 ---
 NZEI Supports Independent & Elected Teachers Council
 ====================================================

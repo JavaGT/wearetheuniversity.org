@@ -1,9 +1,13 @@
 ---
 slug: labours-dunedin-mps-pay-respects-to-ralph-hotere
-title: "Labour’s Dunedin MPs pay respects to Ralph Hotere"
-date: 2013-02-25
-source-url: https://www.scoop.co.nz/stories/PA1302/S00368/labours-dunedin-mps-pay-respects-to-ralph-hotere.htm
+title: Labour’s Dunedin MPs pay respects to Ralph Hotere
+date: 2013-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00368/labours-dunedin-mps-pay-respects-to-ralph-hotere.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/25/labours-dunedin-mps-pay-respects-to-ralph-hotere/index.html
+layout: layout.njk
 ---
 Labour’s Dunedin MPs pay respects to Ralph Hotere
 =================================================

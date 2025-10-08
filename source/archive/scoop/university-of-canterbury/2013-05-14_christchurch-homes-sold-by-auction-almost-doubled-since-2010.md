@@ -1,9 +1,13 @@
 ---
 slug: christchurch-homes-sold-by-auction-almost-doubled-since-2010
-title: "Christchurch homes sold by auction almost doubled since 2010"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/AK1305/S00296/christchurch-homes-sold-by-auction-almost-doubled-since-2010.htm
+title: Christchurch homes sold by auction almost doubled since 2010
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00296/christchurch-homes-sold-by-auction-almost-doubled-since-2010.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/14/christchurch-homes-sold-by-auction-almost-doubled-since-2010/index.html
+layout: layout.njk
 ---
 Christchurch homes sold by auction almost doubled since 2010
 ============================================================

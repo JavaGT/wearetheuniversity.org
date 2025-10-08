@@ -1,9 +1,12 @@
 ---
 slug: why-act-will-win-in-2002-richard-prebble
-title: "Why Act Will Win In 2002 -- Richard Prebble"
-date: 2001-09-10
-source-url: https://www.scoop.co.nz/stories/PA0109/S00129/why-act-will-win-in-2002-richard-prebble.htm
+title: Why Act Will Win In 2002 -- Richard Prebble
+date: 2001-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00129/why-act-will-win-in-2002-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2001/09/10/why-act-will-win-in-2002-richard-prebble/index.html
+layout: layout.njk
 ---
 Why Act Will Win In 2002 -- Richard Prebble
 ===========================================

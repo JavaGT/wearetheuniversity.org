@@ -1,9 +1,12 @@
 ---
 slug: knox-joins-gee-and-ihimaera-on-prize-shortlist
-title: "Knox Joins Gee And Ihimaera On Prize Shortlist"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/CU0402/S00140/knox-joins-gee-and-ihimaera-on-prize-shortlist.htm
+title: Knox Joins Gee And Ihimaera On Prize Shortlist
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0402/S00140/knox-joins-gee-and-ihimaera-on-prize-shortlist.htm
 author: victoria-university-press
+permalink: /archive/2004/02/12/knox-joins-gee-and-ihimaera-on-prize-shortlist/index.html
+layout: layout.njk
 ---
 Knox Joins Gee And Ihimaera On Prize Shortlist
 ==============================================

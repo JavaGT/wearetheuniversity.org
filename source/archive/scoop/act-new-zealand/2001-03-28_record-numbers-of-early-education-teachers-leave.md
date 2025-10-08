@@ -1,9 +1,13 @@
 ---
 slug: record-numbers-of-early-education-teachers-leave
-title: "Record Numbers Of Early Education Teachers Leave"
-date: 2001-03-28
-source-url: https://www.scoop.co.nz/stories/PA0103/S00496/record-numbers-of-early-education-teachers-leave.htm
+title: Record Numbers Of Early Education Teachers Leave
+date: 2001-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00496/record-numbers-of-early-education-teachers-leave.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/03/28/record-numbers-of-early-education-teachers-leave/index.html
+layout: layout.njk
 ---
 Record Numbers Of Early Education Teachers Leave
 ================================================

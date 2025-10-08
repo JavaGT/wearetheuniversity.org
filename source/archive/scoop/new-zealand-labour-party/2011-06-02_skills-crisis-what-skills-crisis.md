@@ -1,9 +1,12 @@
 ---
 slug: skills-crisis-what-skills-crisis
-title: "Skills crisis – what skills crisis?"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/PA1106/S00040/skills-crisis-what-skills-crisis.htm
+title: Skills crisis – what skills crisis?
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00040/skills-crisis-what-skills-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/02/skills-crisis-what-skills-crisis/index.html
+layout: layout.njk
 ---
 Skills crisis – what skills crisis?
 ===================================

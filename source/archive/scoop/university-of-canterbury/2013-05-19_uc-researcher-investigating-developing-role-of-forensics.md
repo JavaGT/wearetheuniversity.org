@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-investigating-developing-role-of-forensics
-title: "UC researcher investigating developing role of forensics"
-date: 2013-05-19
-source-url: https://www.scoop.co.nz/stories/ED1305/S00123/uc-researcher-investigating-developing-role-of-forensics.htm
+title: UC researcher investigating developing role of forensics
+date: 2013-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00123/uc-researcher-investigating-developing-role-of-forensics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/19/uc-researcher-investigating-developing-role-of-forensics/index.html
+layout: layout.njk
 ---
 UC researcher investigating developing role of forensics
 ========================================================

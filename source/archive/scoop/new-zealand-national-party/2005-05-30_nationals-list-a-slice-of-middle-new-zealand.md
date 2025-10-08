@@ -1,9 +1,12 @@
 ---
 slug: nationals-list-a-slice-of-middle-new-zealand
-title: "National’s list \"a slice of middle New Zealand\""
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00720/nationals-list-a-slice-of-middle-new-zealand.htm
+title: National’s list "a slice of middle New Zealand"
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00720/nationals-list-a-slice-of-middle-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/30/nationals-list-a-slice-of-middle-new-zealand/index.html
+layout: layout.njk
 ---
 National’s list “a slice of middle New Zealand”
 ===============================================

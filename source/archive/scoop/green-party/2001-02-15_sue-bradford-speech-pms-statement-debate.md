@@ -1,9 +1,12 @@
 ---
 slug: sue-bradford-speech-pms-statement-debate
-title: "Sue Bradford Speech - PM's Statement Debate"
-date: 2001-02-15
-source-url: https://www.scoop.co.nz/stories/PA0102/S00231/sue-bradford-speech-pms-statement-debate.htm
+title: Sue Bradford Speech - PM's Statement Debate
+date: 2001-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00231/sue-bradford-speech-pms-statement-debate.htm
 author: green-party
+permalink: /archive/2001/02/15/sue-bradford-speech-pms-statement-debate/index.html
+layout: layout.njk
 ---
 Sue Bradford Speech - PM's Statement Debate
 ===========================================

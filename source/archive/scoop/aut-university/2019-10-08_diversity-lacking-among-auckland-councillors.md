@@ -1,9 +1,12 @@
 ---
 slug: diversity-lacking-among-auckland-councillors
-title: "Diversity lacking among Auckland councillors"
-date: 2019-10-08
-source-url: https://www.scoop.co.nz/stories/AK1910/S00216/diversity-lacking-among-auckland-councillors.htm
+title: Diversity lacking among Auckland councillors
+date: 2019-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1910/S00216/diversity-lacking-among-auckland-councillors.htm
 author: aut-university
+permalink: /archive/2019/10/08/diversity-lacking-among-auckland-councillors/index.html
+layout: layout.njk
 ---
 Diversity lacking among Auckland councillors
 ============================================

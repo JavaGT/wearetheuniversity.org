@@ -1,9 +1,12 @@
 ---
 slug: labour-screws-electoral-scrum
-title: "Labour screws electoral scrum"
-date: 2007-07-24
-source-url: https://www.scoop.co.nz/stories/PA0707/S00385/labour-screws-electoral-scrum.htm
+title: Labour screws electoral scrum
+date: 2007-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00385/labour-screws-electoral-scrum.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/24/labour-screws-electoral-scrum/index.html
+layout: layout.njk
 ---
 Labour screws electoral scrum
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: presbyterian-support-workers-supported-by-unions
-title: "Presbyterian Support workers supported by unions"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/GE0510/S00077/presbyterian-support-workers-supported-by-unions.htm
+title: Presbyterian Support workers supported by unions
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0510/S00077/presbyterian-support-workers-supported-by-unions.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/10/20/presbyterian-support-workers-supported-by-unions/index.html
+layout: layout.njk
 ---
 Presbyterian Support workers supported by unions
 ================================================

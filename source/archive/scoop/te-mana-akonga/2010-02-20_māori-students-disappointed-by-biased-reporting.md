@@ -1,9 +1,12 @@
 ---
 slug: māori-students-disappointed-by-biased-reporting
-title: "Māori Students Disappointed by Biased Reporting"
-date: 2010-02-20
-source-url: https://www.scoop.co.nz/stories/ED1002/S00079/maori-students-disappointed-by-biased-reporting.htm
+title: Māori Students Disappointed by Biased Reporting
+date: 2010-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00079/maori-students-disappointed-by-biased-reporting.htm
 author: te-mana-akonga
+permalink: /archive/2010/02/20/m/index.html
+layout: layout.njk
 ---
 Māori Students Disappointed by Biased Reporting
 ===============================================

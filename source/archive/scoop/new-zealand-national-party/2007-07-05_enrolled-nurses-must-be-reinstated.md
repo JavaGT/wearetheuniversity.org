@@ -1,9 +1,12 @@
 ---
 slug: enrolled-nurses-must-be-reinstated
-title: "Enrolled nurses must be reinstated"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/PA0707/S00084/enrolled-nurses-must-be-reinstated.htm
+title: Enrolled nurses must be reinstated
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00084/enrolled-nurses-must-be-reinstated.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/05/enrolled-nurses-must-be-reinstated/index.html
+layout: layout.njk
 ---
 Enrolled nurses must be reinstated
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: got-a-student-loan-youre-better-off-with-labour
-title: "Got a student loan? You’re better off with Labour"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PO0508/S00003/got-a-student-loan-youre-better-off-with-labour.htm
+title: Got a student loan? You’re better off with Labour
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00003/got-a-student-loan-youre-better-off-with-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/01/got-a-student-loan-youre-better-off-with-labour/index.html
+layout: layout.njk
 ---
 Got a student loan? You’re better off with Labour
 =================================================

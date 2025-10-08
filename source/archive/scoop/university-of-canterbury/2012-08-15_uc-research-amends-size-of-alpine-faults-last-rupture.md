@@ -1,9 +1,13 @@
 ---
 slug: uc-research-amends-size-of-alpine-faults-last-rupture
-title: "UC research amends size of Alpine Fault's last rupture"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/SC1208/S00038/uc-research-amends-size-of-alpine-faults-last-rupture.htm
+title: UC research amends size of Alpine Fault's last rupture
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00038/uc-research-amends-size-of-alpine-faults-last-rupture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/15/uc-research-amends-size-of-alpine-faults-last-rupture/index.html
+layout: layout.njk
 ---
 UC research amends size of Alpine Fault's last rupture
 ======================================================

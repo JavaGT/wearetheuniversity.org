@@ -1,9 +1,11 @@
 ---
 slug: answers-not-rhetoric
-title: "Answers – Not Rhetoric"
-date: 2017-04-12
+title: Answers – Not Rhetoric
+date: 2017-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1704/S00160/answers-not-rhetoric.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/12/answers-not-rhetoric/index.html
+layout: layout.njk
 ---
 Answers – Not Rhetoric
 ======================

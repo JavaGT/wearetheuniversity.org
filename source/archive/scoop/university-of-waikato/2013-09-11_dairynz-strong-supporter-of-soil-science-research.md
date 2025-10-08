@@ -1,9 +1,13 @@
 ---
 slug: dairynz-strong-supporter-of-soil-science-research
-title: "DairyNZ strong supporter of soil science research"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/ED1309/S00066/dairynz-strong-supporter-of-soil-science-research.htm
+title: DairyNZ strong supporter of soil science research
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00066/dairynz-strong-supporter-of-soil-science-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/11/dairynz-strong-supporter-of-soil-science-research/index.html
+layout: layout.njk
 ---
 DairyNZ strong supporter of soil science research
 =================================================

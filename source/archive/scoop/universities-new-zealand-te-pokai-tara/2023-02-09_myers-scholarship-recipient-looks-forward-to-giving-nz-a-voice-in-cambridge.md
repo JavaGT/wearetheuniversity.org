@@ -1,9 +1,13 @@
 ---
 slug: myers-scholarship-recipient-looks-forward-to-giving-nz-a-voice-in-cambridge
-title: "Myers Scholarship Recipient Looks Forward To Giving NZ A Voice In Cambridge"
-date: 2023-02-09
-source-url: https://www.scoop.co.nz/stories/ED2302/S00014/myers-scholarship-recipient-looks-forward-to-giving-nz-a-voice-in-cambridge.htm
+title: Myers Scholarship Recipient Looks Forward To Giving NZ A Voice In Cambridge
+date: 2023-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00014/myers-scholarship-recipient-looks-forward-to-giving-nz-a-voice-in-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/02/09/myers-scholarship-recipient-looks-forward-to-giving-nz-a-voice-in-cambridge/index.html
+layout: layout.njk
 ---
 Myers Scholarship Recipient Looks Forward To Giving NZ A Voice In Cambridge
 ===========================================================================

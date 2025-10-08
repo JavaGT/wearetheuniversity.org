@@ -1,9 +1,13 @@
 ---
 slug: african-fever-patients-commonly-over-diagnosed-with-malaria
-title: "African fever patients commonly over-diagnosed with malaria"
-date: 2013-07-19
-source-url: https://www.scoop.co.nz/stories/SC1307/S00051/african-fever-patients-commonly-over-diagnosed-with-malaria.htm
+title: African fever patients commonly over-diagnosed with malaria
+date: 2013-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00051/african-fever-patients-commonly-over-diagnosed-with-malaria.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/19/african-fever-patients-commonly-over-diagnosed-with-malaria/index.html
+layout: layout.njk
 ---
 African fever patients commonly over-diagnosed with malaria
 ===========================================================

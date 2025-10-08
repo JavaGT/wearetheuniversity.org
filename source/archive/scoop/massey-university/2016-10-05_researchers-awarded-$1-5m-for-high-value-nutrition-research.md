@@ -1,9 +1,12 @@
 ---
 slug: researchers-awarded-$1-5m-for-high-value-nutrition-research
-title: "Researchers awarded $1.5m for High-Value Nutrition research"
-date: 2016-10-05
-source-url: https://www.scoop.co.nz/stories/ED1610/S00009/researchers-awarded-15m-for-high-value-nutrition-research.htm
+title: Researchers awarded $1.5m for High-Value Nutrition research
+date: 2016-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00009/researchers-awarded-15m-for-high-value-nutrition-research.htm
 author: massey-university
+permalink: /archive/2016/10/05/researchers-awarded-/index.html
+layout: layout.njk
 ---
 Researchers awarded $1.5m for High-Value Nutrition research
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-policy-announcement
-title: "New Zealand First Policy Announcement"
-date: 2023-10-02
-source-url: https://www.scoop.co.nz/stories/PO2310/S00013/new-zealand-first-policy-announcement.htm
+title: New Zealand First Policy Announcement
+date: 2023-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00013/new-zealand-first-policy-announcement.htm
 author: new-zealand-first-party
+permalink: /archive/2023/10/02/new-zealand-first-policy-announcement/index.html
+layout: layout.njk
 ---
 New Zealand First Policy Announcement
 =====================================

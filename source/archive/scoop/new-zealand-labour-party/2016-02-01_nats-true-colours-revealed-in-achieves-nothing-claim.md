@@ -1,9 +1,13 @@
 ---
 slug: nats-true-colours-revealed-in-achieves-nothing-claim
-title: "Nats true colours revealed in ‘achieves nothing’ claim"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/PA1602/S00012/nats-true-colours-revealed-in-achieves-nothing-claim.htm
+title: Nats true colours revealed in ‘achieves nothing’ claim
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00012/nats-true-colours-revealed-in-achieves-nothing-claim.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/01/nats-true-colours-revealed-in-achieves-nothing-claim/index.html
+layout: layout.njk
 ---
 Nats true colours revealed in ‘achieves nothing’ claim
 ======================================================

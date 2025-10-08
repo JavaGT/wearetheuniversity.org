@@ -1,9 +1,13 @@
 ---
 slug: the-greens-minimum-wage-will-cause-mass-unemployment
-title: "The Greens minimum wage will cause mass unemployment"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00119/the-greens-minimum-wage-will-cause-mass-unemployment.htm
+title: The Greens minimum wage will cause mass unemployment
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00119/the-greens-minimum-wage-will-cause-mass-unemployment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/09/04/the-greens-minimum-wage-will-cause-mass-unemployment/index.html
+layout: layout.njk
 ---
 The Greens minimum wage will cause mass unemployment
 ====================================================

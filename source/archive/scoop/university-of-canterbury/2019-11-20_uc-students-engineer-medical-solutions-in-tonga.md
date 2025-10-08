@@ -1,9 +1,12 @@
 ---
 slug: uc-students-engineer-medical-solutions-in-tonga
-title: "UC students engineer medical solutions in Tonga"
-date: 2019-11-20
-source-url: https://www.scoop.co.nz/stories/ED1911/S00052/uc-students-engineer-medical-solutions-in-tonga.htm
+title: UC students engineer medical solutions in Tonga
+date: 2019-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00052/uc-students-engineer-medical-solutions-in-tonga.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/20/uc-students-engineer-medical-solutions-in-tonga/index.html
+layout: layout.njk
 ---
 UC students engineer medical solutions in Tonga
 ===============================================

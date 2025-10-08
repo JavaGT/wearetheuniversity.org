@@ -1,9 +1,13 @@
 ---
 slug: ka-mate-a-commodity-to-trade-or-taonga-to-treasure
-title: "Ka Mate – a commodity to trade or taonga to treasure?"
-date: 2019-02-04
-source-url: https://www.scoop.co.nz/stories/PO1902/S00020/ka-mate-a-commodity-to-trade-or-taonga-to-treasure.htm
+title: Ka Mate – a commodity to trade or taonga to treasure?
+date: 2019-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1902/S00020/ka-mate-a-commodity-to-trade-or-taonga-to-treasure.htm
 author: massey-university
+permalink: >-
+  /archive/2019/02/04/ka-mate-a-commodity-to-trade-or-taonga-to-treasure/index.html
+layout: layout.njk
 ---
 Ka Mate – a commodity to trade or taonga to treasure?
 =====================================================

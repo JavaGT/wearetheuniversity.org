@@ -1,9 +1,12 @@
 ---
 slug: at-the-mercy-of-a-competitive-tertiary-sector
-title: "At the mercy of a competitive tertiary sector"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/ED0005/S00023/at-the-mercy-of-a-competitive-tertiary-sector.htm
+title: At the mercy of a competitive tertiary sector
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00023/at-the-mercy-of-a-competitive-tertiary-sector.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/05/15/at-the-mercy-of-a-competitive-tertiary-sector/index.html
+layout: layout.njk
 ---
 At the mercy of a competitive tertiary sector
 =============================================

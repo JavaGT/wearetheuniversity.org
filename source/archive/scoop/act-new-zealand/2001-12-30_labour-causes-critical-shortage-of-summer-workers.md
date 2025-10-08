@@ -1,9 +1,13 @@
 ---
 slug: labour-causes-critical-shortage-of-summer-workers
-title: "Labour Causes Critical Shortage of Summer Workers"
-date: 2001-12-30
-source-url: https://www.scoop.co.nz/stories/PA0112/S00466/labour-causes-critical-shortage-of-summer-workers.htm
+title: Labour Causes Critical Shortage of Summer Workers
+date: 2001-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00466/labour-causes-critical-shortage-of-summer-workers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/12/30/labour-causes-critical-shortage-of-summer-workers/index.html
+layout: layout.njk
 ---
 Labour Causes Critical Shortage of Summer Workers
 =================================================

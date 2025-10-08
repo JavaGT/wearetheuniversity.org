@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-meningococcal-vaccines
-title: "The Future Of Meningococcal Vaccines"
-date: 2002-11-26
-source-url: https://www.scoop.co.nz/stories/SC0211/S00058/the-future-of-meningococcal-vaccines.htm
+title: The Future Of Meningococcal Vaccines
+date: 2002-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0211/S00058/the-future-of-meningococcal-vaccines.htm
 author: university-of-canterbury
+permalink: /archive/2002/11/26/the-future-of-meningococcal-vaccines/index.html
+layout: layout.njk
 ---
 The Future Of Meningococcal Vaccines
 ====================================

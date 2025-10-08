@@ -1,9 +1,12 @@
 ---
 slug: launch-of-labours-immigration-policy
-title: "Launch of Labour’s Immigration Policy"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00371/launch-of-labours-immigration-policy.htm
+title: Launch of Labour’s Immigration Policy
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00371/launch-of-labours-immigration-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/15/launch-of-labours-immigration-policy/index.html
+layout: layout.njk
 ---
 Launch of Labour’s Immigration Policy
 =====================================

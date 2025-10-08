@@ -1,9 +1,13 @@
 ---
 slug: francisco-hernandez-elected-ousa-president-for-2013
-title: "Francisco Hernandez Elected OUSA President for 2013"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/PO1209/S00390/francisco-hernandez-elected-ousa-president-for-2013.htm
+title: Francisco Hernandez Elected OUSA President for 2013
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00390/francisco-hernandez-elected-ousa-president-for-2013.htm
 author: ousa
+permalink: >-
+  /archive/2012/09/28/francisco-hernandez-elected-ousa-president-for-2013/index.html
+layout: layout.njk
 ---
 Francisco Hernandez Elected OUSA President for 2013
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-debt-set-to-cripple-nz
-title: "Student Debt Set To Cripple NZ"
-date: 2001-06-29
-source-url: https://www.scoop.co.nz/stories/ED0106/S00026/student-debt-set-to-cripple-nz.htm
+title: Student Debt Set To Cripple NZ
+date: 2001-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00026/student-debt-set-to-cripple-nz.htm
 author: victoria-university-students-association
+permalink: /archive/2001/06/29/student-debt-set-to-cripple-nz/index.html
+layout: layout.njk
 ---
 Student Debt Set To Cripple NZ
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: students-demand-a-ge-free-future
-title: "Students demand a GE-Free future"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/ED0308/S00059/students-demand-a-ge-free-future.htm
+title: Students demand a GE-Free future
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00059/students-demand-a-ge-free-future.htm
 author: victoria-university-students-association
+permalink: /archive/2003/08/15/students-demand-a-ge-free-future/index.html
+layout: layout.njk
 ---
 Students demand a GE-Free future
 ================================

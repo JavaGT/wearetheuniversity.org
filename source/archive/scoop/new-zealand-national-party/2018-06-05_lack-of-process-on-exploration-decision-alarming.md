@@ -1,9 +1,13 @@
 ---
 slug: lack-of-process-on-exploration-decision-alarming
-title: "Lack of process on exploration decision alarming"
-date: 2018-06-05
-source-url: https://www.scoop.co.nz/stories/PA1806/S00041/lack-of-process-on-exploration-decision-alarming.htm
+title: Lack of process on exploration decision alarming
+date: 2018-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00041/lack-of-process-on-exploration-decision-alarming.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/06/05/lack-of-process-on-exploration-decision-alarming/index.html
+layout: layout.njk
 ---
 Lack of process on exploration decision alarming
 ================================================

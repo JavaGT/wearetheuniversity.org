@@ -1,9 +1,12 @@
 ---
 slug: national-never-out-of-the-trough
-title: "National Never Out of the Trough"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/PA1611/S00344/national-never-out-of-the-trough.htm
+title: National Never Out of the Trough
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00344/national-never-out-of-the-trough.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/18/national-never-out-of-the-trough/index.html
+layout: layout.njk
 ---
 National Never Out of the Trough
 ================================

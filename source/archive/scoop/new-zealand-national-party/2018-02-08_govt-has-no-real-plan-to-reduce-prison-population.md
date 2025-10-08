@@ -1,9 +1,13 @@
 ---
 slug: govt-has-no-real-plan-to-reduce-prison-population
-title: "Govt has no real plan to reduce prison population"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/PA1802/S00060/govt-has-no-real-plan-to-reduce-prison-population.htm
+title: Govt has no real plan to reduce prison population
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00060/govt-has-no-real-plan-to-reduce-prison-population.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/08/govt-has-no-real-plan-to-reduce-prison-population/index.html
+layout: layout.njk
 ---
 Govt has no real plan to reduce prison population
 =================================================

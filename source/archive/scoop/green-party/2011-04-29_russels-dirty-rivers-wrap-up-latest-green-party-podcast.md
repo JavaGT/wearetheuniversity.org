@@ -1,9 +1,13 @@
 ---
 slug: russels-dirty-rivers-wrap-up-latest-green-party-podcast
-title: "Russel's Dirty Rivers Wrap-up - Latest Green Party Podcast"
-date: 2011-04-29
-source-url: https://www.scoop.co.nz/stories/PA1104/S00528/russels-dirty-rivers-wrap-up-latest-green-party-podcast.htm
+title: Russel's Dirty Rivers Wrap-up - Latest Green Party Podcast
+date: 2011-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00528/russels-dirty-rivers-wrap-up-latest-green-party-podcast.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/29/russels-dirty-rivers-wrap-up-latest-green-party-podcast/index.html
+layout: layout.njk
 ---
 Russel's Dirty Rivers Wrap-up - Latest Green Party Podcast
 ==========================================================

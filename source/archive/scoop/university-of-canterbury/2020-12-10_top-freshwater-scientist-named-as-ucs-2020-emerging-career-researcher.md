@@ -1,9 +1,13 @@
 ---
 slug: top-freshwater-scientist-named-as-ucs-2020-emerging-career-researcher
-title: "Top Freshwater Scientist Named As UC’s 2020 Emerging Career Researcher"
-date: 2020-12-10
-source-url: https://www.scoop.co.nz/stories/SC2012/S00019/top-freshwater-scientist-named-as-ucs-2020-emerging-career-researcher.htm
+title: Top Freshwater Scientist Named As UC’s 2020 Emerging Career Researcher
+date: 2020-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2012/S00019/top-freshwater-scientist-named-as-ucs-2020-emerging-career-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/10/top-freshwater-scientist-named-as-ucs-2020-emerging-career-researcher/index.html
+layout: layout.njk
 ---
 Top Freshwater Scientist Named As UC’s 2020 Emerging Career Researcher
 ======================================================================

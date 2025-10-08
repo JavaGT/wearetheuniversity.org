@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-lecturer-to-speak-on-argonauts
-title: "Waikato University lecturer to speak on Argonauts"
-date: 2004-08-03
-source-url: https://www.scoop.co.nz/stories/ED0408/S00007/waikato-university-lecturer-to-speak-on-argonauts.htm
+title: Waikato University lecturer to speak on Argonauts
+date: 2004-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00007/waikato-university-lecturer-to-speak-on-argonauts.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/08/03/waikato-university-lecturer-to-speak-on-argonauts/index.html
+layout: layout.njk
 ---
 Waikato University lecturer to speak on Argonauts
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-dean-for-university-of-waikatos-faculty-of-education
-title: "New Dean for University of Waikato’s Faculty of Education"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/BU1109/S00443/new-dean-for-university-of-waikatos-faculty-of-education.htm
+title: New Dean for University of Waikato’s Faculty of Education
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00443/new-dean-for-university-of-waikatos-faculty-of-education.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/09/15/new-dean-for-university-of-waikatos-faculty-of-education/index.html
+layout: layout.njk
 ---
 New Dean for University of Waikato’s Faculty of Education
 =========================================================

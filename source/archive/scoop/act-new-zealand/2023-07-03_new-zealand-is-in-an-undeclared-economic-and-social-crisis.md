@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-is-in-an-undeclared-economic-and-social-crisis
-title: "New Zealand Is In An Undeclared Economic And Social Crisis"
-date: 2023-07-03
-source-url: https://www.scoop.co.nz/stories/PA2307/S00008/new-zealand-is-in-an-undeclared-economic-and-social-crisis.htm
+title: New Zealand Is In An Undeclared Economic And Social Crisis
+date: 2023-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00008/new-zealand-is-in-an-undeclared-economic-and-social-crisis.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/07/03/new-zealand-is-in-an-undeclared-economic-and-social-crisis/index.html
+layout: layout.njk
 ---
 New Zealand Is In An Undeclared Economic And Social Crisis
 ==========================================================

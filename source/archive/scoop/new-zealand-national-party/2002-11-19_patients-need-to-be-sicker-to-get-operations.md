@@ -1,9 +1,12 @@
 ---
 slug: patients-need-to-be-sicker-to-get-operations
-title: "Patients need to be sicker to get operations"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00425/patients-need-to-be-sicker-to-get-operations.htm
+title: Patients need to be sicker to get operations
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00425/patients-need-to-be-sicker-to-get-operations.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/19/patients-need-to-be-sicker-to-get-operations/index.html
+layout: layout.njk
 ---
 Patients need to be sicker to get operations
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: pressure-on-winz-was-worth-it-newman
-title: "Pressure on WINZ was worth it - Newman"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PA0002/S00168/pressure-on-winz-was-worth-it-newman.htm
+title: Pressure on WINZ was worth it - Newman
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00168/pressure-on-winz-was-worth-it-newman.htm
 author: act-new-zealand
+permalink: /archive/2000/02/14/pressure-on-winz-was-worth-it-newman/index.html
+layout: layout.njk
 ---
 Pressure on WINZ was worth it - Newman
 ======================================

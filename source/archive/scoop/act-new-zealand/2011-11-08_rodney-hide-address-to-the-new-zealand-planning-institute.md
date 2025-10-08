@@ -1,9 +1,13 @@
 ---
 slug: rodney-hide-address-to-the-new-zealand-planning-institute
-title: "Rodney Hide: Address to the New Zealand Planning Institute"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/PA1111/S00162/rodney-hide-address-to-the-new-zealand-planning-institute.htm
+title: 'Rodney Hide: Address to the New Zealand Planning Institute'
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00162/rodney-hide-address-to-the-new-zealand-planning-institute.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/08/rodney-hide-address-to-the-new-zealand-planning-institute/index.html
+layout: layout.njk
 ---
 Rodney Hide: Address to the New Zealand Planning Institute
 ==========================================================

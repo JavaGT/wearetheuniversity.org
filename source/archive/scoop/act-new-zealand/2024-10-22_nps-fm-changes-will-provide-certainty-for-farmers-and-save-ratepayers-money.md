@@ -1,9 +1,13 @@
 ---
 slug: nps-fm-changes-will-provide-certainty-for-farmers-and-save-ratepayers-money
-title: "NPS-FM Changes Will Provide Certainty For Farmers And Save Ratepayers Money"
-date: 2024-10-22
-source-url: https://www.scoop.co.nz/stories/PA2410/S00172/nps-fm-changes-will-provide-certainty-for-farmers-and-save-ratepayers-money.htm
+title: NPS-FM Changes Will Provide Certainty For Farmers And Save Ratepayers Money
+date: 2024-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00172/nps-fm-changes-will-provide-certainty-for-farmers-and-save-ratepayers-money.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/10/22/nps-fm-changes-will-provide-certainty-for-farmers-and-save-ratepayers-money/index.html
+layout: layout.njk
 ---
 NPS-FM Changes Will Provide Certainty For Farmers And Save Ratepayers Money
 ===========================================================================

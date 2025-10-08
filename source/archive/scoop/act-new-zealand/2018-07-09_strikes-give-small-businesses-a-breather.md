@@ -1,9 +1,12 @@
 ---
 slug: strikes-give-small-businesses-a-breather
-title: "Strikes give small businesses a breather"
-date: 2018-07-09
-source-url: https://www.scoop.co.nz/stories/PA1807/S00090/strikes-give-small-businesses-a-breather.htm
+title: Strikes give small businesses a breather
+date: 2018-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00090/strikes-give-small-businesses-a-breather.htm
 author: act-new-zealand
+permalink: /archive/2018/07/09/strikes-give-small-businesses-a-breather/index.html
+layout: layout.njk
 ---
 Strikes give small businesses a breather
 ========================================

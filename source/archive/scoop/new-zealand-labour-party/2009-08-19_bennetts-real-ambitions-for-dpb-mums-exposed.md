@@ -1,9 +1,12 @@
 ---
 slug: bennetts-real-ambitions-for-dpb-mums-exposed
-title: "Bennett’s real ‘ambitions’ for DPB Mums exposed"
-date: 2009-08-19
-source-url: https://www.scoop.co.nz/stories/PA0908/S00258/bennetts-real-ambitions-for-dpb-mums-exposed.htm
+title: Bennett’s real ‘ambitions’ for DPB Mums exposed
+date: 2009-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00258/bennetts-real-ambitions-for-dpb-mums-exposed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/19/bennetts-real-ambitions-for-dpb-mums-exposed/index.html
+layout: layout.njk
 ---
 Bennett’s real ‘ambitions’ for DPB Mums exposed
 ===============================================

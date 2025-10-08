@@ -1,9 +1,13 @@
 ---
 slug: $10-billion-student-debt-a-mortgage-on-nzs-future
-title: "$10 billion student debt a mortgage on NZ’s future"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00278/10-billion-student-debt-a-mortgage-on-nzs-future.htm
+title: $10 billion student debt a mortgage on NZ’s future
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00278/10-billion-student-debt-a-mortgage-on-nzs-future.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/04/10/10-billion-student-debt-a-mortgage-on-nz-s-future/index.html
+layout: layout.njk
 ---
 $10 billion student debt a mortgage on NZ’s future
 ==================================================

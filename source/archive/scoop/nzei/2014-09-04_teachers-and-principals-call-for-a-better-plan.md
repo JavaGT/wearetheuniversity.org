@@ -1,9 +1,12 @@
 ---
 slug: teachers-and-principals-call-for-a-better-plan
-title: "Teachers and principals call for a better plan"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00115/teachers-and-principals-call-for-a-better-plan.htm
+title: Teachers and principals call for a better plan
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00115/teachers-and-principals-call-for-a-better-plan.htm
 author: nzei
+permalink: /archive/2014/09/04/teachers-and-principals-call-for-a-better-plan/index.html
+layout: layout.njk
 ---
 Teachers and principals call for a better plan
 ==============================================

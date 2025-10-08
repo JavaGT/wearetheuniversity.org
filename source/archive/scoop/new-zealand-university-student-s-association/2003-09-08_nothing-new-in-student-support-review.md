@@ -1,9 +1,12 @@
 ---
 slug: nothing-new-in-student-support-review
-title: "Nothing new in student support review"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/ED0309/S00018/nothing-new-in-student-support-review.htm
+title: Nothing new in student support review
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00018/nothing-new-in-student-support-review.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/09/08/nothing-new-in-student-support-review/index.html
+layout: layout.njk
 ---
 Nothing new in student support review
 =====================================

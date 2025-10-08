@@ -1,9 +1,12 @@
 ---
 slug: top-scholarshop-for-waikato-student
-title: "Top Scholarshop For Waikato Student"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/GE0910/S00023/top-scholarshop-for-waikato-student.htm
+title: Top Scholarshop For Waikato Student
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0910/S00023/top-scholarshop-for-waikato-student.htm
 author: university-of-waikato
+permalink: /archive/2009/10/07/top-scholarshop-for-waikato-student/index.html
+layout: layout.njk
 ---
 Top Scholarshop For Waikato Student
 ===================================

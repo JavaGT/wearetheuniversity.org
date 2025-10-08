@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wgtn-11-11-02
-title: "Richard Prebble's Letter from Wgtn 11/11/02"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/PA0211/S00237/richard-prebbles-letter-from-wgtn-111102.htm
+title: Richard Prebble's Letter from Wgtn 11/11/02
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00237/richard-prebbles-letter-from-wgtn-111102.htm
 author: act-new-zealand
+permalink: /archive/2002/11/11/richard-prebbles-letter-from-wgtn-11-11-02/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter from Wgtn 11/11/02
 ===========================================

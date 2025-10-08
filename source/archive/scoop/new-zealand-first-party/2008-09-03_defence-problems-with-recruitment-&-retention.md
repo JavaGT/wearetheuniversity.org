@@ -1,9 +1,12 @@
 ---
 slug: defence-problems-with-recruitment-&-retention
-title: "Defence: Problems with Recruitment & Retention"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PA0809/S00073/defence-problems-with-recruitment-retention.htm
+title: 'Defence: Problems with Recruitment & Retention'
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00073/defence-problems-with-recruitment-retention.htm
 author: new-zealand-first-party
+permalink: /archive/2008/09/03/defence-problems-with-recruitment-/index.html
+layout: layout.njk
 ---
 Defence: Problems with Recruitment & Retention
 ==============================================

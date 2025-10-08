@@ -1,9 +1,12 @@
 ---
 slug: fee-increase-for-2004-below-national-average
-title: "Fee increase for 2004 below national average"
-date: 2003-10-30
-source-url: https://www.scoop.co.nz/stories/ED0310/S00122/fee-increase-for-2004-below-national-average.htm
+title: Fee increase for 2004 below national average
+date: 2003-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00122/fee-increase-for-2004-below-national-average.htm
 author: lincoln-university
+permalink: /archive/2003/10/30/fee-increase-for-2004-below-national-average/index.html
+layout: layout.njk
 ---
 Fee increase for 2004 below national average
 ============================================

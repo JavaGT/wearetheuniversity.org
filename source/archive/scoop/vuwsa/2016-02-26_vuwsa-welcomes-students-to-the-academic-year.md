@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-welcomes-students-to-the-academic-year
-title: "VUWSA welcomes students to the academic year"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/ED1602/S00081/vuwsa-welcomes-students-to-the-academic-year.htm
+title: VUWSA welcomes students to the academic year
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00081/vuwsa-welcomes-students-to-the-academic-year.htm
 author: vuwsa
+permalink: /archive/2016/02/26/vuwsa-welcomes-students-to-the-academic-year/index.html
+layout: layout.njk
 ---
 VUWSA welcomes students to the academic year
 ============================================

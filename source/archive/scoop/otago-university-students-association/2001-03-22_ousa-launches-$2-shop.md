@@ -1,9 +1,11 @@
 ---
 slug: ousa-launches-$2-shop
-title: "OUSA launches ‘$2 Shop’"
-date: 2001-03-22
+title: OUSA launches ‘$2 Shop’
+date: 2001-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0103/S00042/ousa-launches-2-shop.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/22/ousa-launches-/index.html
+layout: layout.njk
 ---
 OUSA launches ‘$2 Shop’
 =======================

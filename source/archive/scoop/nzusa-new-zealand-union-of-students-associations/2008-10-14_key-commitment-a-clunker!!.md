@@ -1,9 +1,11 @@
 ---
 slug: key-commitment-a-clunker!!
-title: "Key commitment a clunker!!"
-date: 2008-10-14
+title: Key commitment a clunker!!
+date: 2008-10-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0810/S00213/key-commitment-a-clunker.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/10/14/key-commitment-a-clunker/index.html
+layout: layout.njk
 ---
 Key commitment a clunker!!
 ==========================

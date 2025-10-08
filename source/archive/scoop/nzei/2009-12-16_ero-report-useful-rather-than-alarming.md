@@ -1,9 +1,12 @@
 ---
 slug: ero-report-useful-rather-than-alarming
-title: "ERO Report Useful Rather than Alarming"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/ED0912/S00039/ero-report-useful-rather-than-alarming.htm
+title: ERO Report Useful Rather than Alarming
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00039/ero-report-useful-rather-than-alarming.htm
 author: nzei
+permalink: /archive/2009/12/16/ero-report-useful-rather-than-alarming/index.html
+layout: layout.njk
 ---
 ERO Report Useful Rather than Alarming
 ======================================

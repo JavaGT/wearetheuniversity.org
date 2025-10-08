@@ -1,8 +1,11 @@
 ---
 slug: sympathy-for-cyclone-evan-victims
-title: "Sympathy for Cyclone Evan victims"
-date: 2012-12-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/12/19/Sympathy-for-Cyclone-Evan-victims.html
+title: Sympathy for Cyclone Evan victims
+date: 2012-12-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/12/19/Sympathy-for-Cyclone-Evan-victims.html
+permalink: /archive/2012/12/19/sympathy-for-cyclone-evan-victims/index.html
+layout: layout.njk
 ---
 Sympathy for Cyclone Evan victims
 =================================

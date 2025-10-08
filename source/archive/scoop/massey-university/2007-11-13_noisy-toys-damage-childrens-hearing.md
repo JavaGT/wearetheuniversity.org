@@ -1,9 +1,12 @@
 ---
 slug: noisy-toys-damage-childrens-hearing
-title: "Noisy toys damage children’s hearing"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/ED0711/S00064/noisy-toys-damage-childrens-hearing.htm
+title: Noisy toys damage children’s hearing
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00064/noisy-toys-damage-childrens-hearing.htm
 author: massey-university
+permalink: /archive/2007/11/13/noisy-toys-damage-childrens-hearing/index.html
+layout: layout.njk
 ---
 Noisy toys damage children’s hearing
 ====================================

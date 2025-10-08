@@ -1,9 +1,13 @@
 ---
 slug: national-will-increase-penalties-for-highway-blockers
-title: "National Will Increase Penalties For Highway Blockers"
-date: 2023-04-20
-source-url: https://www.scoop.co.nz/stories/PA2304/S00128/national-will-increase-penalties-for-highway-blockers.htm
+title: National Will Increase Penalties For Highway Blockers
+date: 2023-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00128/national-will-increase-penalties-for-highway-blockers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/04/20/national-will-increase-penalties-for-highway-blockers/index.html
+layout: layout.njk
 ---
 National Will Increase Penalties For Highway Blockers
 =====================================================

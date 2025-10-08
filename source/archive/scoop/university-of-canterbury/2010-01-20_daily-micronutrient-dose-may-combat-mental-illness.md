@@ -1,9 +1,13 @@
 ---
 slug: daily-micronutrient-dose-may-combat-mental-illness
-title: "Daily micronutrient dose may combat mental illness"
-date: 2010-01-20
-source-url: https://www.scoop.co.nz/stories/GE1001/S00034/daily-micronutrient-dose-may-combat-mental-illness.htm
+title: Daily micronutrient dose may combat mental illness
+date: 2010-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1001/S00034/daily-micronutrient-dose-may-combat-mental-illness.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/01/20/daily-micronutrient-dose-may-combat-mental-illness/index.html
+layout: layout.njk
 ---
 Daily micronutrient dose may combat mental illness
 ==================================================

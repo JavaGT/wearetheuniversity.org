@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-michael-woodhouse-ministerial-appointment
-title: "Students welcome Michael Woodhouse Ministerial appointment"
-date: 2013-01-23
-source-url: https://www.scoop.co.nz/stories/ED1301/S00063/students-welcome-michael-woodhouse-ministerial-appointment.htm
+title: Students welcome Michael Woodhouse Ministerial appointment
+date: 2013-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00063/students-welcome-michael-woodhouse-ministerial-appointment.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2013/01/23/students-welcome-michael-woodhouse-ministerial-appointment/index.html
+layout: layout.njk
 ---
 Students welcome Michael Woodhouse Ministerial appointment
 ==========================================================

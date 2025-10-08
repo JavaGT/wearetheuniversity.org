@@ -1,9 +1,12 @@
 ---
 slug: 12-tips-to-help-your-child-love-learning
-title: "12 tips to help your child love learning"
-date: 2016-01-05
-source-url: https://www.scoop.co.nz/stories/ED1601/S00003/12-tips-to-help-your-child-love-learning.htm
+title: 12 tips to help your child love learning
+date: 2016-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00003/12-tips-to-help-your-child-love-learning.htm
 author: university-of-canterbury
+permalink: /archive/2016/01/05/12-tips-to-help-your-child-love-learning/index.html
+layout: layout.njk
 ---
 12 tips to help your child love learning
 ========================================

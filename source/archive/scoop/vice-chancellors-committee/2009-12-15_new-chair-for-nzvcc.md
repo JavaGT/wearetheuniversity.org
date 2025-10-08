@@ -1,9 +1,11 @@
 ---
 slug: new-chair-for-nzvcc
-title: "New Chair for NZVCC"
-date: 2009-12-15
+title: New Chair for NZVCC
+date: 2009-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0912/S00037/new-chair-for-nzvcc.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/12/15/new-chair-for-nzvcc/index.html
+layout: layout.njk
 ---
 New Chair for NZVCC
 ===================

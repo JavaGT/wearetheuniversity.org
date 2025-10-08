@@ -1,9 +1,12 @@
 ---
 slug: nga-haerenga-(new-zealand-cycleway)-takes-shape
-title: "Nga Haerenga (New Zealand cycleway) takes shape"
-date: 2010-02-11
-source-url: https://www.scoop.co.nz/stories/PA1002/S00142/nga-haerenga-new-zealand-cycleway-takes-shape.htm
+title: Nga Haerenga (New Zealand cycleway) takes shape
+date: 2010-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00142/nga-haerenga-new-zealand-cycleway-takes-shape.htm
 author: green-party
+permalink: /archive/2010/02/11/nga-haerenga-/index.html
+layout: layout.njk
 ---
 Nga Haerenga (New Zealand cycleway) takes shape
 ===============================================

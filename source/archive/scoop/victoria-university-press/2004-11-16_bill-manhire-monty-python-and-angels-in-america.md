@@ -1,9 +1,12 @@
 ---
 slug: bill-manhire-monty-python-and-angels-in-america
-title: "Bill Manhire, Monty Python and Angels in America"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/CU0411/S00113/bill-manhire-monty-python-and-angels-in-america.htm
+title: Bill Manhire, Monty Python and Angels in America
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0411/S00113/bill-manhire-monty-python-and-angels-in-america.htm
 author: victoria-university-press
+permalink: /archive/2004/11/16/bill-manhire-monty-python-and-angels-in-america/index.html
+layout: layout.njk
 ---
 Bill Manhire, Monty Python and Angels in America
 ================================================

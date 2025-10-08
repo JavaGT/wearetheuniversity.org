@@ -1,9 +1,12 @@
 ---
 slug: keyboard-for-disabled-to-unleash-potential
-title: "Keyboard for disabled to unleash potential"
-date: 2005-05-18
-source-url: https://www.scoop.co.nz/stories/SC0505/S00046/keyboard-for-disabled-to-unleash-potential.htm
+title: Keyboard for disabled to unleash potential
+date: 2005-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0505/S00046/keyboard-for-disabled-to-unleash-potential.htm
 author: aut-university
+permalink: /archive/2005/05/18/keyboard-for-disabled-to-unleash-potential/index.html
+layout: layout.njk
 ---
 Keyboard for disabled to unleash potential
 ==========================================

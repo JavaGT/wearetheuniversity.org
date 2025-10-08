@@ -1,9 +1,13 @@
 ---
 slug: labours-plan-to-boost-skills-development-refreshing
-title: "Labour's plan to boost skills development refreshing"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PO1607/S00294/labours-plan-to-boost-skills-development-refreshing.htm
+title: Labour's plan to boost skills development refreshing
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00294/labours-plan-to-boost-skills-development-refreshing.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/07/26/labours-plan-to-boost-skills-development-refreshing/index.html
+layout: layout.njk
 ---
 Labour's plan to boost skills development refreshing
 ====================================================

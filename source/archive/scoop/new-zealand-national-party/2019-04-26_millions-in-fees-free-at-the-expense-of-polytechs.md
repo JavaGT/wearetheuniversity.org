@@ -1,9 +1,13 @@
 ---
 slug: millions-in-fees-free-at-the-expense-of-polytechs
-title: "Millions in fees-free at the expense of polytechs"
-date: 2019-04-26
-source-url: https://www.scoop.co.nz/stories/PA1904/S00199/millions-in-fees-free-at-the-expense-of-polytechs.htm
+title: Millions in fees-free at the expense of polytechs
+date: 2019-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00199/millions-in-fees-free-at-the-expense-of-polytechs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/26/millions-in-fees-free-at-the-expense-of-polytechs/index.html
+layout: layout.njk
 ---
 Millions in fees-free at the expense of polytechs
 =================================================

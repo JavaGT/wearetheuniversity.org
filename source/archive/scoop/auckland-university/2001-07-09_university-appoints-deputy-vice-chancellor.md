@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-deputy-vice-chancellor
-title: "University Appoints Deputy Vice-Chancellor"
-date: 2001-07-09
-source-url: https://www.scoop.co.nz/stories/ED0107/S00010/university-appoints-deputy-vice-chancellor.htm
+title: University Appoints Deputy Vice-Chancellor
+date: 2001-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00010/university-appoints-deputy-vice-chancellor.htm
 author: auckland-university
+permalink: /archive/2001/07/09/university-appoints-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 University Appoints Deputy Vice-Chancellor
 ==========================================

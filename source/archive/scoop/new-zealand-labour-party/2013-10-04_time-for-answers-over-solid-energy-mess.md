@@ -1,9 +1,12 @@
 ---
 slug: time-for-answers-over-solid-energy-mess
-title: "Time for answers over Solid Energy mess"
-date: 2013-10-04
-source-url: https://www.scoop.co.nz/stories/PA1310/S00098/time-for-answers-over-solid-energy-mess.htm
+title: Time for answers over Solid Energy mess
+date: 2013-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00098/time-for-answers-over-solid-energy-mess.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/04/time-for-answers-over-solid-energy-mess/index.html
+layout: layout.njk
 ---
 Time for answers over Solid Energy mess
 =======================================

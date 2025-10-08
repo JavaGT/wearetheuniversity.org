@@ -1,9 +1,12 @@
 ---
 slug: homelessness-only-option-for-auckland-youth
-title: "Homelessness only option for Auckland youth"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/AK1406/S00631/homelessness-only-option-for-auckland-youth.htm
+title: Homelessness only option for Auckland youth
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00631/homelessness-only-option-for-auckland-youth.htm
 author: aut-university
+permalink: /archive/2014/06/27/homelessness-only-option-for-auckland-youth/index.html
+layout: layout.njk
 ---
 Homelessness only option for Auckland youth
 ===========================================

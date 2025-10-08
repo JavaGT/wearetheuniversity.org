@@ -1,9 +1,12 @@
 ---
 slug: sleeping-with-the-enemy-raises-extinction-risk
-title: "Sleeping with the ‘enemy’ raises extinction risk"
-date: 2017-07-19
-source-url: https://www.scoop.co.nz/stories/SC1707/S00033/sleeping-with-the-enemy-raises-extinction-risk.htm
+title: Sleeping with the ‘enemy’ raises extinction risk
+date: 2017-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1707/S00033/sleeping-with-the-enemy-raises-extinction-risk.htm
 author: lincoln-university
+permalink: /archive/2017/07/19/sleeping-with-the-enemy-raises-extinction-risk/index.html
+layout: layout.njk
 ---
 Sleeping with the ‘enemy’ raises extinction risk
 ================================================

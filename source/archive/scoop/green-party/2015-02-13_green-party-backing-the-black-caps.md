@@ -1,9 +1,12 @@
 ---
 slug: green-party-backing-the-black-caps
-title: "Green Party backing the Black Caps"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/CU1502/S00270/green-party-backing-the-black-caps.htm
+title: Green Party backing the Black Caps
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00270/green-party-backing-the-black-caps.htm
 author: green-party
+permalink: /archive/2015/02/13/green-party-backing-the-black-caps/index.html
+layout: layout.njk
 ---
 Green Party backing the Black Caps
 ==================================

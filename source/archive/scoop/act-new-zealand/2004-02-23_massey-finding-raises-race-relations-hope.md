@@ -1,9 +1,12 @@
 ---
 slug: massey-finding-raises-race-relations-hope
-title: "Massey Finding Raises Race Relations Hope"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/PA0402/S00370/massey-finding-raises-race-relations-hope.htm
+title: Massey Finding Raises Race Relations Hope
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00370/massey-finding-raises-race-relations-hope.htm
 author: act-new-zealand
+permalink: /archive/2004/02/23/massey-finding-raises-race-relations-hope/index.html
+layout: layout.njk
 ---
 Massey Finding Raises Race Relations Hope
 =========================================

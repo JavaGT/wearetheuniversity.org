@@ -1,9 +1,12 @@
 ---
 slug: tertiary-fee-rises-crippling-our-future
-title: "Tertiary fee rises crippling our future"
-date: 1999-11-14
-source-url: https://www.scoop.co.nz/stories/PA9911/S00312/tertiary-fee-rises-crippling-our-future.htm
+title: Tertiary fee rises crippling our future
+date: 1999-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00312/tertiary-fee-rises-crippling-our-future.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/14/tertiary-fee-rises-crippling-our-future/index.html
+layout: layout.njk
 ---
 Tertiary fee rises crippling our future
 =======================================

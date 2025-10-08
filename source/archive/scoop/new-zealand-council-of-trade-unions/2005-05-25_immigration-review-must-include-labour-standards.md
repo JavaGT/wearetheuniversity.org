@@ -1,9 +1,13 @@
 ---
 slug: immigration-review-must-include-labour-standards
-title: "Immigration Review Must Include Labour Standards"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/PO0505/S00260/immigration-review-must-include-labour-standards.htm
+title: Immigration Review Must Include Labour Standards
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00260/immigration-review-must-include-labour-standards.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/05/25/immigration-review-must-include-labour-standards/index.html
+layout: layout.njk
 ---
 Immigration Review Must Include Labour Standards
 ================================================

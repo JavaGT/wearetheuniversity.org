@@ -1,9 +1,13 @@
 ---
 slug: english-calls-for-urgent-action-on-teacher-strike
-title: "English Calls For Urgent Action On Teacher Strike"
-date: 2002-03-04
-source-url: https://www.scoop.co.nz/stories/PA0203/S00057/english-calls-for-urgent-action-on-teacher-strike.htm
+title: English Calls For Urgent Action On Teacher Strike
+date: 2002-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00057/english-calls-for-urgent-action-on-teacher-strike.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/03/04/english-calls-for-urgent-action-on-teacher-strike/index.html
+layout: layout.njk
 ---
 English Calls For Urgent Action On Teacher Strike
 =================================================

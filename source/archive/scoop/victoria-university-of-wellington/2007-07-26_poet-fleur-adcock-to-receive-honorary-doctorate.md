@@ -1,9 +1,12 @@
 ---
 slug: poet-fleur-adcock-to-receive-honorary-doctorate
-title: "Poet Fleur Adcock to receive honorary doctorate"
-date: 2007-07-26
-source-url: https://www.scoop.co.nz/stories/ED0707/S00084/poet-fleur-adcock-to-receive-honorary-doctorate.htm
+title: Poet Fleur Adcock to receive honorary doctorate
+date: 2007-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00084/poet-fleur-adcock-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/26/poet-fleur-adcock-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Poet Fleur Adcock to receive honorary doctorate
 ===============================================

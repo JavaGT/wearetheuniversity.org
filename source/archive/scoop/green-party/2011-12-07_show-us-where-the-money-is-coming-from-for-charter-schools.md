@@ -1,9 +1,13 @@
 ---
 slug: show-us-where-the-money-is-coming-from-for-charter-schools
-title: "Show us where the money is coming from for charter schools"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/PA1112/S00050/show-us-where-the-money-is-coming-from-for-charter-schools.htm
+title: Show us where the money is coming from for charter schools
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00050/show-us-where-the-money-is-coming-from-for-charter-schools.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/07/show-us-where-the-money-is-coming-from-for-charter-schools/index.html
+layout: layout.njk
 ---
 Show us where the money is coming from for charter schools
 ==========================================================

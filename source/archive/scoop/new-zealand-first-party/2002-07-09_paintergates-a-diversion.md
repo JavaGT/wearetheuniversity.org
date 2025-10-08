@@ -1,9 +1,11 @@
 ---
 slug: paintergates-a-diversion
-title: "Paintergate's A Diversion"
-date: 2002-07-09
+title: Paintergate's A Diversion
+date: 2002-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00263/paintergates-a-diversion.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/09/paintergates-a-diversion/index.html
+layout: layout.njk
 ---
 Paintergate's A Diversion
 =========================

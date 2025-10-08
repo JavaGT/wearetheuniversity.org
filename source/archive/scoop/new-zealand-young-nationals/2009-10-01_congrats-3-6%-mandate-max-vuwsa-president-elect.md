@@ -1,9 +1,12 @@
 ---
 slug: congrats-3-6%-mandate-max-vuwsa-president-elect
-title: "Congrats 3.6% Mandate Max, VUWSA President-Elect"
-date: 2009-10-01
-source-url: https://www.scoop.co.nz/stories/ED0910/S00003/congrats-36-mandate-max-vuwsa-president-elect.htm
+title: Congrats 3.6% Mandate Max, VUWSA President-Elect
+date: 2009-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00003/congrats-36-mandate-max-vuwsa-president-elect.htm
 author: new-zealand-young-nationals
+permalink: /archive/2009/10/01/congrats-3-6/index.html
+layout: layout.njk
 ---
 Congrats 3.6% Mandate Max, VUWSA President-Elect
 ================================================

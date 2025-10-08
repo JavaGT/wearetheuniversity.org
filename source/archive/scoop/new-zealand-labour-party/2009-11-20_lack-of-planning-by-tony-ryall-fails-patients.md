@@ -1,9 +1,12 @@
 ---
 slug: lack-of-planning-by-tony-ryall-fails-patients
-title: "Lack of planning by Tony Ryall fails patients"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/PA0911/S00289/lack-of-planning-by-tony-ryall-fails-patients.htm
+title: Lack of planning by Tony Ryall fails patients
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00289/lack-of-planning-by-tony-ryall-fails-patients.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/20/lack-of-planning-by-tony-ryall-fails-patients/index.html
+layout: layout.njk
 ---
 Lack of planning by Tony Ryall fails patients
 =============================================

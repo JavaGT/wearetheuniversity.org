@@ -1,9 +1,13 @@
 ---
 slug: conservation-minister-forgetting-lessons-of-cave-creek
-title: "Conservation Minister forgetting lessons of Cave Creek"
-date: 2013-05-04
-source-url: https://www.scoop.co.nz/stories/PA1305/S00044/conservation-minister-forgetting-lessons-of-cave-creek.htm
+title: Conservation Minister forgetting lessons of Cave Creek
+date: 2013-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00044/conservation-minister-forgetting-lessons-of-cave-creek.htm
 author: green-party
+permalink: >-
+  /archive/2013/05/04/conservation-minister-forgetting-lessons-of-cave-creek/index.html
+layout: layout.njk
 ---
 Conservation Minister forgetting lessons of Cave Creek
 ======================================================

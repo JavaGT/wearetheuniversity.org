@@ -1,9 +1,12 @@
 ---
 slug: this-technical-error-is-hurting-big-time
-title: "This ‘technical error’ is hurting big time"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/PA1706/S00377/this-technical-error-is-hurting-big-time.htm
+title: This ‘technical error’ is hurting big time
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00377/this-technical-error-is-hurting-big-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/22/this-technical-error-is-hurting-big-time/index.html
+layout: layout.njk
 ---
 This ‘technical error’ is hurting big time
 ==========================================

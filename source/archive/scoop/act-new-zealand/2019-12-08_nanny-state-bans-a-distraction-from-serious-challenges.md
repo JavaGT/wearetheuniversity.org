@@ -1,9 +1,13 @@
 ---
 slug: nanny-state-bans-a-distraction-from-serious-challenges
-title: "Nanny state bans a distraction from serious challenges"
-date: 2019-12-08
-source-url: https://www.scoop.co.nz/stories/PA1912/S00068/nanny-state-bans-a-distraction-from-serious-challenges.htm
+title: Nanny state bans a distraction from serious challenges
+date: 2019-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00068/nanny-state-bans-a-distraction-from-serious-challenges.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/12/08/nanny-state-bans-a-distraction-from-serious-challenges/index.html
+layout: layout.njk
 ---
 Nanny state bans a distraction from serious challenges
 ======================================================

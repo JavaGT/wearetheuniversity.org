@@ -1,9 +1,12 @@
 ---
 slug: budget-speech-notes-sue-kedgley
-title: "Budget Speech Notes - Sue Kedgley"
-date: 2001-06-14
-source-url: https://www.scoop.co.nz/stories/PA0106/S00186/budget-speech-notes-sue-kedgley.htm
+title: Budget Speech Notes - Sue Kedgley
+date: 2001-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00186/budget-speech-notes-sue-kedgley.htm
 author: green-party
+permalink: /archive/2001/06/14/budget-speech-notes-sue-kedgley/index.html
+layout: layout.njk
 ---
 Budget Speech Notes - Sue Kedgley
 =================================

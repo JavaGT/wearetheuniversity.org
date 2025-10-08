@@ -1,9 +1,11 @@
 ---
 slug: virtual-theatres
-title: "Virtual Theatres"
-date: 2008-10-08
+title: Virtual Theatres
+date: 2008-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0810/S00071/virtual-theatres.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/10/08/virtual-theatres/index.html
+layout: layout.njk
 ---
 Virtual Theatres
 ================

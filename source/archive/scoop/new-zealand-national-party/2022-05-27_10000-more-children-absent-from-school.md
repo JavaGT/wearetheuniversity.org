@@ -1,9 +1,12 @@
 ---
 slug: 10000-more-children-absent-from-school
-title: "10,000 More Children Absent From School"
-date: 2022-05-27
-source-url: https://www.scoop.co.nz/stories/PA2205/S00274/10000-more-children-absent-from-school.htm
+title: 10,000 More Children Absent From School
+date: 2022-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00274/10000-more-children-absent-from-school.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/27/10000-more-children-absent-from-school/index.html
+layout: layout.njk
 ---
 10,000 More Children Absent From School
 =======================================

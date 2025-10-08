@@ -1,9 +1,11 @@
 ---
 slug: cullen-to-icanz-cfos-group
-title: "Cullen to ICANZ CFOs Group"
-date: 2005-09-08
+title: Cullen to ICANZ CFOs Group
+date: 2005-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00211/cullen-to-icanz-cfos-group.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/08/cullen-to-icanz-cfos-group/index.html
+layout: layout.njk
 ---
 Cullen to ICANZ CFOs Group
 ==========================

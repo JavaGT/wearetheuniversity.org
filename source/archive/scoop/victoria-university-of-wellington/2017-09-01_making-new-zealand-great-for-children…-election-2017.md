@@ -1,9 +1,12 @@
 ---
 slug: making-new-zealand-great-for-children…-election-2017
-title: "Making New Zealand great for children… Election 2017"
-date: 2017-09-01
-source-url: https://www.scoop.co.nz/stories/PO1709/S00016/making-new-zealand-great-for-children-election-2017.htm
+title: Making New Zealand great for children… Election 2017
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00016/making-new-zealand-great-for-children-election-2017.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/09/01/making-new-zealand-great-for-children/index.html
+layout: layout.njk
 ---
 Making New Zealand great for children… Election 2017
 ====================================================

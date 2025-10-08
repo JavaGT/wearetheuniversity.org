@@ -1,9 +1,12 @@
 ---
 slug: govt-must-not-ignore-worsening-doctor-shortage
-title: "Govt must not ignore worsening doctor shortage"
-date: 2002-06-07
-source-url: https://www.scoop.co.nz/stories/ED0206/S00006/govt-must-not-ignore-worsening-doctor-shortage.htm
+title: Govt must not ignore worsening doctor shortage
+date: 2002-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00006/govt-must-not-ignore-worsening-doctor-shortage.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/06/07/govt-must-not-ignore-worsening-doctor-shortage/index.html
+layout: layout.njk
 ---
 Govt must not ignore worsening doctor shortage
 ==============================================

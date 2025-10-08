@@ -1,9 +1,12 @@
 ---
 slug: act-reveals-massive-housing-negligence
-title: "ACT reveals massive housing negligence"
-date: 2017-08-06
-source-url: https://www.scoop.co.nz/stories/PA1708/S00116/act-reveals-massive-housing-negligence.htm
+title: ACT reveals massive housing negligence
+date: 2017-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00116/act-reveals-massive-housing-negligence.htm
 author: act-new-zealand
+permalink: /archive/2017/08/06/act-reveals-massive-housing-negligence/index.html
+layout: layout.njk
 ---
 ACT reveals massive housing negligence
 ======================================

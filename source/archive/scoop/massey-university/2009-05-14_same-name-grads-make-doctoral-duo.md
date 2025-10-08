@@ -1,9 +1,12 @@
 ---
 slug: same-name-grads-make-doctoral-duo
-title: "Same name grads make doctoral duo"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/ED0905/S00060/same-name-grads-make-doctoral-duo.htm
+title: Same name grads make doctoral duo
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00060/same-name-grads-make-doctoral-duo.htm
 author: massey-university
+permalink: /archive/2009/05/14/same-name-grads-make-doctoral-duo/index.html
+layout: layout.njk
 ---
 Same name grads make doctoral duo
 =================================

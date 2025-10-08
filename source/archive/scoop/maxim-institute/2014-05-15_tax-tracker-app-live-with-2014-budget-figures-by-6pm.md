@@ -1,9 +1,13 @@
 ---
 slug: tax-tracker-app-live-with-2014-budget-figures-by-6pm
-title: "Tax Tracker App - Live with 2014 Budget Figures By 6PM"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PO1405/S00236/tax-tracker-app-live-with-2014-budget-figures-by-6pm.htm
+title: Tax Tracker App - Live with 2014 Budget Figures By 6PM
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00236/tax-tracker-app-live-with-2014-budget-figures-by-6pm.htm
 author: maxim-institute
+permalink: >-
+  /archive/2014/05/15/tax-tracker-app-live-with-2014-budget-figures-by-6pm/index.html
+layout: layout.njk
 ---
 Tax Tracker App - Live with 2014 Budget Figures By 6PM
 ======================================================

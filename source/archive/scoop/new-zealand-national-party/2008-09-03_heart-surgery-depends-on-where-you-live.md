@@ -1,9 +1,12 @@
 ---
 slug: heart-surgery-depends-on-where-you-live
-title: "Heart surgery depends on where you live"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PA0809/S00052/heart-surgery-depends-on-where-you-live.htm
+title: Heart surgery depends on where you live
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00052/heart-surgery-depends-on-where-you-live.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/03/heart-surgery-depends-on-where-you-live/index.html
+layout: layout.njk
 ---
 Heart surgery depends on where you live
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: social-innovation-is-here-to-stay
-title: "Social innovation is here to stay"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/CU1611/S00241/social-innovation-is-here-to-stay.htm
+title: Social innovation is here to stay
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00241/social-innovation-is-here-to-stay.htm
 author: aut-university
+permalink: /archive/2016/11/17/social-innovation-is-here-to-stay/index.html
+layout: layout.njk
 ---
 Social innovation is here to stay
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: kiwis-losing-their-sight-coleman-must-clear-backlog-at-dhb
-title: "Kiwis Losing Their Sight – Coleman Must Clear Backlog at DHB"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/PA1611/S00009/kiwis-losing-their-sight-coleman-must-clear-backlog-at-dhb.htm
+title: Kiwis Losing Their Sight – Coleman Must Clear Backlog at DHB
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00009/kiwis-losing-their-sight-coleman-must-clear-backlog-at-dhb.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/01/kiwis-losing-their-sight-coleman-must-clear-backlog-at-dhb/index.html
+layout: layout.njk
 ---
 Kiwis Losing Their Sight – Coleman Must Clear Backlog at DHB
 ============================================================

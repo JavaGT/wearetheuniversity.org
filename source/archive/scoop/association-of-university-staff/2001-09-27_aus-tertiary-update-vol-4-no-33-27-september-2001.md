@@ -1,9 +1,13 @@
 ---
 slug: aus-tertiary-update-vol-4-no-33-27-september-2001
-title: "AUS Tertiary Update Vol 4 No.33 27 September 2001"
-date: 2001-09-27
-source-url: https://www.scoop.co.nz/stories/ED0109/S00011/aus-tertiary-update-vol-4-no33-27-september-2001.htm
+title: AUS Tertiary Update Vol 4 No.33 27 September 2001
+date: 2001-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0109/S00011/aus-tertiary-update-vol-4-no33-27-september-2001.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2001/09/27/aus-tertiary-update-vol-4-no-33-27-september-2001/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No.33 27 September 2001
 =================================================

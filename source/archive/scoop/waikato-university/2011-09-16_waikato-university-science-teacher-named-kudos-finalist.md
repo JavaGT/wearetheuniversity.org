@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-science-teacher-named-kudos-finalist
-title: "Waikato University science teacher named Kudos finalist"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/ED1109/S00062/waikato-university-science-teacher-named-kudos-finalist.htm
+title: Waikato University science teacher named Kudos finalist
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00062/waikato-university-science-teacher-named-kudos-finalist.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/09/16/waikato-university-science-teacher-named-kudos-finalist/index.html
+layout: layout.njk
 ---
 Waikato University science teacher named Kudos finalist
 =======================================================

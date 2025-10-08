@@ -1,9 +1,12 @@
 ---
 slug: māori-alphabet-blocks-help-build-te-reo
-title: "Māori alphabet blocks help build Te Reo"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00139/maori-alphabet-blocks-help-build-te-reo.htm
+title: Māori alphabet blocks help build Te Reo
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00139/maori-alphabet-blocks-help-build-te-reo.htm
 author: massey-university
+permalink: /archive/2012/11/20/m/index.html
+layout: layout.njk
 ---
 Māori alphabet blocks help build Te Reo
 =======================================

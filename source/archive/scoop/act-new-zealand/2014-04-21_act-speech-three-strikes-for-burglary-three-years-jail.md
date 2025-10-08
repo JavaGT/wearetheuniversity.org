@@ -1,9 +1,13 @@
 ---
 slug: act-speech-three-strikes-for-burglary-three-years-jail
-title: "ACT Speech: Three Strikes For Burglary,  Three Years Jail"
-date: 2014-04-21
-source-url: https://www.scoop.co.nz/stories/PO1404/S00317/act-speech-three-strikes-for-burglary-three-years-jail.htm
+title: 'ACT Speech: Three Strikes For Burglary,  Three Years Jail'
+date: 2014-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00317/act-speech-three-strikes-for-burglary-three-years-jail.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/04/21/act-speech-three-strikes-for-burglary-three-years-jail/index.html
+layout: layout.njk
 ---
 ACT Speech: Three Strikes For Burglary, Three Years Jail
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: improving-outcomes-in-cancer-diagnosis-and-research
-title: "Improving outcomes in cancer diagnosis and research"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/GE1608/S00065/improving-outcomes-in-cancer-diagnosis-and-research.htm
+title: Improving outcomes in cancer diagnosis and research
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00065/improving-outcomes-in-cancer-diagnosis-and-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/16/improving-outcomes-in-cancer-diagnosis-and-research/index.html
+layout: layout.njk
 ---
 Improving outcomes in cancer diagnosis and research
 ===================================================

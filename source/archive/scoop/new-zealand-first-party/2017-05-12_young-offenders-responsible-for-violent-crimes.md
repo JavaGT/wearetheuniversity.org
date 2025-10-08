@@ -1,9 +1,12 @@
 ---
 slug: young-offenders-responsible-for-violent-crimes
-title: "Young Offenders Responsible for Violent Crimes"
-date: 2017-05-12
-source-url: https://www.scoop.co.nz/stories/PA1705/S00265/young-offenders-responsible-for-violent-crimes.htm
+title: Young Offenders Responsible for Violent Crimes
+date: 2017-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00265/young-offenders-responsible-for-violent-crimes.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/12/young-offenders-responsible-for-violent-crimes/index.html
+layout: layout.njk
 ---
 Young Offenders Responsible for Violent Crimes
 ==============================================

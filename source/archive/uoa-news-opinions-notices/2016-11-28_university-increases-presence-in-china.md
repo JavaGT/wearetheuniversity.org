@@ -1,8 +1,11 @@
 ---
 slug: university-increases-presence-in-china
-title: "University increases presence in China"
-date: 2016-11-28
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-increases-presence-in-china.html
+title: University increases presence in China
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-increases-presence-in-china.html
+permalink: /archive/2016/11/28/university-increases-presence-in-china/index.html
+layout: layout.njk
 ---
 University increases presence in China
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: inequality-the-defining-issue-of-our-time
-title: "Inequality: the defining issue of our time"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/PO1406/S00385/inequality-the-defining-issue-of-our-time.htm
+title: 'Inequality: the defining issue of our time'
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00385/inequality-the-defining-issue-of-our-time.htm
 author: massey-university
+permalink: /archive/2014/06/24/inequality-the-defining-issue-of-our-time/index.html
+layout: layout.njk
 ---
 Inequality: the defining issue of our time
 ==========================================

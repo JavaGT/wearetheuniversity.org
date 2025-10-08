@@ -1,9 +1,11 @@
 ---
 slug: clark-betrays-west-coast-act
-title: "Clark Betrays West Coast - ACT"
-date: 1999-09-10
+title: Clark Betrays West Coast - ACT
+date: 1999-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9909/S00232/clark-betrays-west-coast-act.htm
 author: act-new-zealand
+permalink: /archive/1999/09/10/clark-betrays-west-coast-act/index.html
+layout: layout.njk
 ---
 Clark Betrays West Coast - ACT
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: entertainment-at-your-fingertips
-title: "Entertainment at your fingertips"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/CU1502/S00177/entertainment-at-your-fingertips.htm
+title: Entertainment at your fingertips
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00177/entertainment-at-your-fingertips.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/02/09/entertainment-at-your-fingertips/index.html
+layout: layout.njk
 ---
 Entertainment at your fingertips
 ================================

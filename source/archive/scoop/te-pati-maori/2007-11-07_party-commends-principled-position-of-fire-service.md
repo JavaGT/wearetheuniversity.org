@@ -1,9 +1,13 @@
 ---
 slug: party-commends-principled-position-of-fire-service
-title: "Party Commends Principled Position of Fire Service"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/PA0711/S00096/party-commends-principled-position-of-fire-service.htm
+title: Party Commends Principled Position of Fire Service
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00096/party-commends-principled-position-of-fire-service.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/11/07/party-commends-principled-position-of-fire-service/index.html
+layout: layout.njk
 ---
 Party Commends Principled Position of Fire Service
 ==================================================

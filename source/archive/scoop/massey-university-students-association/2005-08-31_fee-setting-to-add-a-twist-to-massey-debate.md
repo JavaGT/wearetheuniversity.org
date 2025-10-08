@@ -1,9 +1,12 @@
 ---
 slug: fee-setting-to-add-a-twist-to-massey-debate
-title: "Fee Setting to Add a Twist to Massey Debate"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/ED0508/S00119/fee-setting-to-add-a-twist-to-massey-debate.htm
+title: Fee Setting to Add a Twist to Massey Debate
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00119/fee-setting-to-add-a-twist-to-massey-debate.htm
 author: massey-university-students-association
+permalink: /archive/2005/08/31/fee-setting-to-add-a-twist-to-massey-debate/index.html
+layout: layout.njk
 ---
 Fee Setting to Add a Twist to Massey Debate
 ===========================================

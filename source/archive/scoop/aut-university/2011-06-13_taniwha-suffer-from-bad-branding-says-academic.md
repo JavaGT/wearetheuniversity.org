@@ -1,9 +1,12 @@
 ---
 slug: taniwha-suffer-from-bad-branding-says-academic
-title: "Taniwha suffer from bad branding says academic"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/CU1106/S00144/taniwha-suffer-from-bad-branding-says-academic.htm
+title: Taniwha suffer from bad branding says academic
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1106/S00144/taniwha-suffer-from-bad-branding-says-academic.htm
 author: aut-university
+permalink: /archive/2011/06/13/taniwha-suffer-from-bad-branding-says-academic/index.html
+layout: layout.njk
 ---
 Taniwha suffer from bad branding says academic
 ==============================================

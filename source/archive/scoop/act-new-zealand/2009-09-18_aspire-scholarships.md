@@ -1,9 +1,11 @@
 ---
 slug: aspire-scholarships
-title: "Aspire Scholarships"
-date: 2009-09-18
+title: Aspire Scholarships
+date: 2009-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0909/S00273/aspire-scholarships.htm
 author: act-new-zealand
+permalink: /archive/2009/09/18/aspire-scholarships/index.html
+layout: layout.njk
 ---
 Aspire Scholarships
 ===================

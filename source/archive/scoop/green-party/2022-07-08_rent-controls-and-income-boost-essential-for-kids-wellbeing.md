@@ -1,9 +1,13 @@
 ---
 slug: rent-controls-and-income-boost-essential-for-kids-wellbeing
-title: "Rent Controls And Income Boost Essential For Kids’ Wellbeing"
-date: 2022-07-08
-source-url: https://www.scoop.co.nz/stories/PA2207/S00053/rent-controls-and-income-boost-essential-for-kids-wellbeing.htm
+title: Rent Controls And Income Boost Essential For Kids’ Wellbeing
+date: 2022-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00053/rent-controls-and-income-boost-essential-for-kids-wellbeing.htm
 author: green-party
+permalink: >-
+  /archive/2022/07/08/rent-controls-and-income-boost-essential-for-kids-wellbeing/index.html
+layout: layout.njk
 ---
 Rent Controls And Income Boost Essential For Kids’ Wellbeing
 ============================================================

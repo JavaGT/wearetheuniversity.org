@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-24-2-12
-title: "Collins Comments 24/2/12"
-date: 2012-02-24
+title: Collins Comments 24/2/12
+date: 2012-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00289/collins-comments-24212.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/24/collins-comments-24-2-12/index.html
+layout: layout.njk
 ---
 Collins Comments 24/2/12
 ========================

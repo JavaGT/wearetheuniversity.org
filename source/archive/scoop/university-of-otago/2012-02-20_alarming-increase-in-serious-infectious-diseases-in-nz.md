@@ -1,9 +1,13 @@
 ---
 slug: alarming-increase-in-serious-infectious-diseases-in-nz
-title: "Alarming increase in serious infectious diseases in NZ"
-date: 2012-02-20
-source-url: https://www.scoop.co.nz/stories/GE1202/S00062/alarming-increase-in-serious-infectious-diseases-in-nz.htm
+title: Alarming increase in serious infectious diseases in NZ
+date: 2012-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00062/alarming-increase-in-serious-infectious-diseases-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/02/20/alarming-increase-in-serious-infectious-diseases-in-nz/index.html
+layout: layout.njk
 ---
 Alarming increase in serious infectious diseases in NZ
 ======================================================

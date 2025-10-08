@@ -1,9 +1,11 @@
 ---
 slug: copyright-bill-costs-concern
-title: "Copyright bill costs concern"
-date: 2011-07-13
+title: Copyright bill costs concern
+date: 2011-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1107/S00214/copyright-bill-costs-concern.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/13/copyright-bill-costs-concern/index.html
+layout: layout.njk
 ---
 Copyright bill costs concern
 ============================

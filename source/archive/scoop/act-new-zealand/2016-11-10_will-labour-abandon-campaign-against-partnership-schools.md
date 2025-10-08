@@ -1,9 +1,13 @@
 ---
 slug: will-labour-abandon-campaign-against-partnership-schools
-title: "Will Labour abandon campaign against partnership schools?"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/PA1611/S00197/will-labour-abandon-campaign-against-partnership-schools.htm
+title: Will Labour abandon campaign against partnership schools?
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00197/will-labour-abandon-campaign-against-partnership-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/11/10/will-labour-abandon-campaign-against-partnership-schools/index.html
+layout: layout.njk
 ---
 Will Labour abandon campaign against partnership schools?
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-chancellor-receives-knighthood
-title: "Victoria University Chancellor receives Knighthood"
-date: 2014-12-31
-source-url: https://www.scoop.co.nz/stories/ED1412/S00141/victoria-university-chancellor-receives-knighthood.htm
+title: Victoria University Chancellor receives Knighthood
+date: 2014-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00141/victoria-university-chancellor-receives-knighthood.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/31/victoria-university-chancellor-receives-knighthood/index.html
+layout: layout.njk
 ---
 Victoria University Chancellor receives Knighthood
 ==================================================

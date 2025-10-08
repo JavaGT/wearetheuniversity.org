@@ -1,9 +1,13 @@
 ---
 slug: cardiovascular-killer-protein-probed-by-otago-researchers
-title: "Cardiovascular killer protein probed by Otago researchers"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/SC1706/S00002/cardiovascular-killer-protein-probed-by-otago-researchers.htm
+title: Cardiovascular killer protein probed by Otago researchers
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00002/cardiovascular-killer-protein-probed-by-otago-researchers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/01/cardiovascular-killer-protein-probed-by-otago-researchers/index.html
+layout: layout.njk
 ---
 Cardiovascular killer protein probed by Otago researchers
 =========================================================

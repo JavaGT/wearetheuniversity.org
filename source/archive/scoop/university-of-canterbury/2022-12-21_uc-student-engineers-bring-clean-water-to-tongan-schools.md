@@ -1,9 +1,13 @@
 ---
 slug: uc-student-engineers-bring-clean-water-to-tongan-schools
-title: "UC Student Engineers Bring Clean Water To Tongan Schools"
-date: 2022-12-21
-source-url: https://www.scoop.co.nz/stories/WO2212/S00101/uc-student-engineers-bring-clean-water-to-tongan-schools.htm
+title: UC Student Engineers Bring Clean Water To Tongan Schools
+date: 2022-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2212/S00101/uc-student-engineers-bring-clean-water-to-tongan-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/12/21/uc-student-engineers-bring-clean-water-to-tongan-schools/index.html
+layout: layout.njk
 ---
 UC Student Engineers Bring Clean Water To Tongan Schools
 ========================================================

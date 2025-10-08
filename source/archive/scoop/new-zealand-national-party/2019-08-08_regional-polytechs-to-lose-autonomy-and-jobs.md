@@ -1,9 +1,12 @@
 ---
 slug: regional-polytechs-to-lose-autonomy-and-jobs
-title: "Regional polytechs to lose autonomy and jobs"
-date: 2019-08-08
-source-url: https://www.scoop.co.nz/stories/PA1908/S00095/regional-polytechs-to-lose-autonomy-and-jobs.htm
+title: Regional polytechs to lose autonomy and jobs
+date: 2019-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00095/regional-polytechs-to-lose-autonomy-and-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/08/regional-polytechs-to-lose-autonomy-and-jobs/index.html
+layout: layout.njk
 ---
 Regional polytechs to lose autonomy and jobs
 ============================================

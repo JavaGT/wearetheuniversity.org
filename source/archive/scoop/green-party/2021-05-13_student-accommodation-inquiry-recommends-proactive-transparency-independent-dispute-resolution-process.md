@@ -1,9 +1,16 @@
 ---
-slug: student-accommodation-inquiry-recommends-proactive-transparency-independent-dispute-resolution-process
-title: "Student Accommodation Inquiry Recommends Proactive Transparency, Independent Dispute Resolution Process"
-date: 2021-05-13
-source-url: https://www.scoop.co.nz/stories/PA2105/S00115/student-accommodation-inquiry-recommends-proactive-transparency-independent-dispute-resolution-process.htm
+slug: >-
+  student-accommodation-inquiry-recommends-proactive-transparency-independent-dispute-resolution-process
+title: >-
+  Student Accommodation Inquiry Recommends Proactive Transparency, Independent
+  Dispute Resolution Process
+date: 2021-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00115/student-accommodation-inquiry-recommends-proactive-transparency-independent-dispute-resolution-process.htm
 author: green-party
+permalink: >-
+  /archive/2021/05/13/student-accommodation-inquiry-recommends-proactive-transparency-independent-dispute-resolution-process/index.html
+layout: layout.njk
 ---
 Student Accommodation Inquiry Recommends Proactive Transparency, Independent Dispute Resolution Process
 =======================================================================================================

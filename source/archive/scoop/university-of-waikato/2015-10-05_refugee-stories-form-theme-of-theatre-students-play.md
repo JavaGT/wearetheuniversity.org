@@ -1,9 +1,13 @@
 ---
 slug: refugee-stories-form-theme-of-theatre-students-play
-title: "Refugee Stories Form Theme of Theatre Students’ Play"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/CU1510/S00045/refugee-stories-form-theme-of-theatre-students-play.htm
+title: Refugee Stories Form Theme of Theatre Students’ Play
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1510/S00045/refugee-stories-form-theme-of-theatre-students-play.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/05/refugee-stories-form-theme-of-theatre-students-play/index.html
+layout: layout.njk
 ---
 Refugee Stories Form Theme of Theatre Students’ Play
 ====================================================

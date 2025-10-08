@@ -1,8 +1,11 @@
 ---
 slug: easter-opening-hours
-title: "Easter opening hours"
-date: 2017-04-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/easter-opening-hours.html
+title: Easter opening hours
+date: 2017-04-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/easter-opening-hours.html
+permalink: /archive/2017/04/15/easter-opening-hours/index.html
+layout: layout.njk
 ---
 Easter opening hours
 ====================

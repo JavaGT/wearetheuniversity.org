@@ -1,9 +1,12 @@
 ---
 slug: greens-support-academics-industrial-action
-title: "Greens support academics' industrial action"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/PA0504/S00185/greens-support-academics-industrial-action.htm
+title: Greens support academics' industrial action
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00185/greens-support-academics-industrial-action.htm
 author: green-party
+permalink: /archive/2005/04/08/greens-support-academics-industrial-action/index.html
+layout: layout.njk
 ---
 Greens support academics' industrial action
 ===========================================

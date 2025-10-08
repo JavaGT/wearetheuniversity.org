@@ -1,9 +1,12 @@
 ---
 slug: research-sheds-new-light-on-stepfamilies
-title: "Research sheds new light on stepfamilies"
-date: 2004-08-09
-source-url: https://www.scoop.co.nz/stories/ED0408/S00027/research-sheds-new-light-on-stepfamilies.htm
+title: Research sheds new light on stepfamilies
+date: 2004-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00027/research-sheds-new-light-on-stepfamilies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/09/research-sheds-new-light-on-stepfamilies/index.html
+layout: layout.njk
 ---
 Research sheds new light on stepfamilies
 ========================================

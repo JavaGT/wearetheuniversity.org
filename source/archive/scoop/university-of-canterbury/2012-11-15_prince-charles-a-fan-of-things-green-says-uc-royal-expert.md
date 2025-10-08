@@ -1,9 +1,13 @@
 ---
 slug: prince-charles-a-fan-of-things-green-says-uc-royal-expert
-title: "Prince Charles a fan of things green, says UC royal expert"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00104/prince-charles-a-fan-of-things-green-says-uc-royal-expert.htm
+title: Prince Charles a fan of things green, says UC royal expert
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00104/prince-charles-a-fan-of-things-green-says-uc-royal-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/15/prince-charles-a-fan-of-things-green-says-uc-royal-expert/index.html
+layout: layout.njk
 ---
 Prince Charles a fan of things green, says UC royal expert
 ==========================================================

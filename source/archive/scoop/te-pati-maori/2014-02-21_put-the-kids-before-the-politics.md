@@ -1,9 +1,12 @@
 ---
 slug: put-the-kids-before-the-politics
-title: "Put the kids before the politics"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/PA1402/S00310/put-the-kids-before-the-politics.htm
+title: Put the kids before the politics
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00310/put-the-kids-before-the-politics.htm
 author: te-pati-maori
+permalink: /archive/2014/02/21/put-the-kids-before-the-politics/index.html
+layout: layout.njk
 ---
 Put the kids before the politics
 ================================

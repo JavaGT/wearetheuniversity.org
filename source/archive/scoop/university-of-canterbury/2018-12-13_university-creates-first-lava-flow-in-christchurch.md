@@ -1,9 +1,13 @@
 ---
 slug: university-creates-first-lava-flow-in-christchurch
-title: "University creates first lava flow in Christchurch"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/SC1812/S00014/university-creates-first-lava-flow-in-christchurch.htm
+title: University creates first lava flow in Christchurch
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1812/S00014/university-creates-first-lava-flow-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/12/13/university-creates-first-lava-flow-in-christchurch/index.html
+layout: layout.njk
 ---
 University creates first lava flow in Christchurch
 ==================================================

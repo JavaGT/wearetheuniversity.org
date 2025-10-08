@@ -1,9 +1,12 @@
 ---
 slug: loans-changes-an-attack-on-families
-title: "Loans changes an attack on families"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PA1205/S00060/loans-changes-an-attack-on-families.htm
+title: Loans changes an attack on families
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00060/loans-changes-an-attack-on-families.htm
 author: green-party
+permalink: /archive/2012/05/03/loans-changes-an-attack-on-families/index.html
+layout: layout.njk
 ---
 Loans changes an attack on families
 ===================================

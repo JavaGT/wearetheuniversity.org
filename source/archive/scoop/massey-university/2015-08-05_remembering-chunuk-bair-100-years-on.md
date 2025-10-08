@@ -1,9 +1,12 @@
 ---
 slug: remembering-chunuk-bair-100-years-on
-title: "Remembering Chunuk Bair 100 years on"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/ED1508/S00017/remembering-chunuk-bair-100-years-on.htm
+title: Remembering Chunuk Bair 100 years on
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00017/remembering-chunuk-bair-100-years-on.htm
 author: massey-university
+permalink: /archive/2015/08/05/remembering-chunuk-bair-100-years-on/index.html
+layout: layout.njk
 ---
 Remembering Chunuk Bair 100 years on
 ====================================

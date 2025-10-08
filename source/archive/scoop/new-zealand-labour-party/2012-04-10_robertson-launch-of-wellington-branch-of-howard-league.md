@@ -1,9 +1,13 @@
 ---
 slug: robertson-launch-of-wellington-branch-of-howard-league
-title: "Robertson: Launch of Wellington Branch of Howard League"
-date: 2012-04-10
-source-url: https://www.scoop.co.nz/stories/PA1204/S00100/robertson-launch-of-wellington-branch-of-howard-league.htm
+title: 'Robertson: Launch of Wellington Branch of Howard League'
+date: 2012-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00100/robertson-launch-of-wellington-branch-of-howard-league.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/04/10/robertson-launch-of-wellington-branch-of-howard-league/index.html
+layout: layout.njk
 ---
 Robertson: Launch of Wellington Branch of Howard League
 =======================================================

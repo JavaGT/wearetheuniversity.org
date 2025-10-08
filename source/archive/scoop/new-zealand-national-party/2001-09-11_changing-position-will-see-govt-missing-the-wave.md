@@ -1,9 +1,13 @@
 ---
 slug: changing-position-will-see-govt-missing-the-wave
-title: "Changing Position Will See Govt Missing The Wave"
-date: 2001-09-11
-source-url: https://www.scoop.co.nz/stories/PA0109/S00145/changing-position-will-see-govt-missing-the-wave.htm
+title: Changing Position Will See Govt Missing The Wave
+date: 2001-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00145/changing-position-will-see-govt-missing-the-wave.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/09/11/changing-position-will-see-govt-missing-the-wave/index.html
+layout: layout.njk
 ---
 Changing Position Will See Govt Missing The Wave
 ================================================

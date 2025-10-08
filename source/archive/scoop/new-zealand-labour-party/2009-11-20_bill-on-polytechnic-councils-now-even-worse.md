@@ -1,9 +1,12 @@
 ---
 slug: bill-on-polytechnic-councils-now-even-worse
-title: "Bill on polytechnic councils now even worse"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/PA0911/S00301/bill-on-polytechnic-councils-now-even-worse.htm
+title: Bill on polytechnic councils now even worse
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00301/bill-on-polytechnic-councils-now-even-worse.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/20/bill-on-polytechnic-councils-now-even-worse/index.html
+layout: layout.njk
 ---
 Bill on polytechnic councils now even worse
 ===========================================

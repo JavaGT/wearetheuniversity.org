@@ -1,9 +1,12 @@
 ---
 slug: bicentenary-of-suicidal-new-zealand-leader
-title: "Bicentenary of suicidal New Zealand leader"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/CU0507/S00006/bicentenary-of-suicidal-new-zealand-leader.htm
+title: Bicentenary of suicidal New Zealand leader
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0507/S00006/bicentenary-of-suicidal-new-zealand-leader.htm
 author: aut-university
+permalink: /archive/2005/07/01/bicentenary-of-suicidal-new-zealand-leader/index.html
+layout: layout.njk
 ---
 Bicentenary of suicidal New Zealand leader
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-book-to-aid-taewa-growers
-title: "New book to aid taewa growers"
-date: 2010-11-23
-source-url: https://www.scoop.co.nz/stories/ED1011/S00096/new-book-to-aid-taewa-growers.htm
+title: New book to aid taewa growers
+date: 2010-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00096/new-book-to-aid-taewa-growers.htm
 author: massey-university
+permalink: /archive/2010/11/23/new-book-to-aid-taewa-growers/index.html
+layout: layout.njk
 ---
 New book to aid taewa growers
 =============================

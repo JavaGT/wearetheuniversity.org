@@ -1,9 +1,12 @@
 ---
 slug: german-views-on-dietary-research-explored
-title: "German views on dietary research explored"
-date: 2018-08-22
-source-url: https://www.scoop.co.nz/stories/ED1808/S00050/german-views-on-dietary-research-explored.htm
+title: German views on dietary research explored
+date: 2018-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00050/german-views-on-dietary-research-explored.htm
 author: massey-university
+permalink: /archive/2018/08/22/german-views-on-dietary-research-explored/index.html
+layout: layout.njk
 ---
 German views on dietary research explored
 =========================================

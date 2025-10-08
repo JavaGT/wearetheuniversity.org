@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-not-out-of-woods-yet
-title: "University of Canterbury not out of woods yet"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/BU1502/S00780/university-of-canterbury-not-out-of-woods-yet.htm
+title: University of Canterbury not out of woods yet
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1502/S00780/university-of-canterbury-not-out-of-woods-yet.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/25/university-of-canterbury-not-out-of-woods-yet/index.html
+layout: layout.njk
 ---
 University of Canterbury not out of woods yet
 =============================================

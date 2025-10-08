@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-hui-on-maori-land
-title: "Te Ururoa Flavell -  Hui on Maori Land"
-date: 2011-02-15
-source-url: https://www.scoop.co.nz/stories/PA1102/S00197/te-ururoa-flavell-hui-on-maori-land.htm
+title: Te Ururoa Flavell -  Hui on Maori Land
+date: 2011-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00197/te-ururoa-flavell-hui-on-maori-land.htm
 author: te-pati-maori
+permalink: /archive/2011/02/15/te-ururoa-flavell-hui-on-maori-land/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Hui on Maori Land
 =====================================

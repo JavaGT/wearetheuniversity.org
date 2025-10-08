@@ -1,9 +1,13 @@
 ---
 slug: rma-reform-at-any-cost-dam-could-kill-tukituki-river
-title: "RMA reform at any cost? Dam could ‘kill’ Tukituki river"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/PA1309/S00284/rma-reform-at-any-cost-dam-could-kill-tukituki-river.htm
+title: RMA reform at any cost? Dam could ‘kill’ Tukituki river
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00284/rma-reform-at-any-cost-dam-could-kill-tukituki-river.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/17/rma-reform-at-any-cost-dam-could-kill-tukituki-river/index.html
+layout: layout.njk
 ---
 RMA reform at any cost? Dam could ‘kill’ Tukituki river
 =======================================================

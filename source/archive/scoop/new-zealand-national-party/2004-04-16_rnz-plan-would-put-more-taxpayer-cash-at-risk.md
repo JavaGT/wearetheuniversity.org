@@ -1,9 +1,12 @@
 ---
 slug: rnz-plan-would-put-more-taxpayer-cash-at-risk
-title: "RNZ plan would put more taxpayer cash at risk"
-date: 2004-04-16
-source-url: https://www.scoop.co.nz/stories/PA0404/S00254/rnz-plan-would-put-more-taxpayer-cash-at-risk.htm
+title: RNZ plan would put more taxpayer cash at risk
+date: 2004-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00254/rnz-plan-would-put-more-taxpayer-cash-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/16/rnz-plan-would-put-more-taxpayer-cash-at-risk/index.html
+layout: layout.njk
 ---
 RNZ plan would put more taxpayer cash at risk
 =============================================

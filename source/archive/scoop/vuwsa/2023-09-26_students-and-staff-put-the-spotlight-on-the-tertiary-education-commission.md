@@ -1,9 +1,13 @@
 ---
 slug: students-and-staff-put-the-spotlight-on-the-tertiary-education-commission
-title: "Students And Staff Put The Spotlight On The Tertiary Education Commission"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/ED2309/S00044/students-and-staff-put-the-spotlight-on-the-tertiary-education-commission.htm
+title: Students And Staff Put The Spotlight On The Tertiary Education Commission
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00044/students-and-staff-put-the-spotlight-on-the-tertiary-education-commission.htm
 author: vuwsa
+permalink: >-
+  /archive/2023/09/26/students-and-staff-put-the-spotlight-on-the-tertiary-education-commission/index.html
+layout: layout.njk
 ---
 Students And Staff Put The Spotlight On The Tertiary Education Commission
 =========================================================================

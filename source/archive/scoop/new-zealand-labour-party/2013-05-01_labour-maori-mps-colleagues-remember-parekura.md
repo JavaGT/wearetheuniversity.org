@@ -1,9 +1,12 @@
 ---
 slug: labour-maori-mps-colleagues-remember-parekura
-title: "Labour Maori MP’s colleagues remember Parekura"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/PA1305/S00014/labour-maori-mps-colleagues-remember-parekura.htm
+title: Labour Maori MP’s colleagues remember Parekura
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00014/labour-maori-mps-colleagues-remember-parekura.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/01/labour-maori-mps-colleagues-remember-parekura/index.html
+layout: layout.njk
 ---
 Labour Maori MP’s colleagues remember Parekura
 ==============================================

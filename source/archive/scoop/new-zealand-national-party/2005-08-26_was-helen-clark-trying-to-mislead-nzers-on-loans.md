@@ -1,9 +1,13 @@
 ---
 slug: was-helen-clark-trying-to-mislead-nzers-on-loans
-title: "Was Helen Clark trying to mislead NZers on loans?"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/PA0508/S00691/was-helen-clark-trying-to-mislead-nzers-on-loans.htm
+title: Was Helen Clark trying to mislead NZers on loans?
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00691/was-helen-clark-trying-to-mislead-nzers-on-loans.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/08/26/was-helen-clark-trying-to-mislead-nzers-on-loans/index.html
+layout: layout.njk
 ---
 Was Helen Clark trying to mislead NZers on loans?
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-davis-maori-party-needs-my-help
-title: "Labour’s Davis: Maori Party Needs My Help"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PA0810/S00332/labours-davis-maori-party-needs-my-help.htm
+title: 'Labour’s Davis: Maori Party Needs My Help'
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00332/labours-davis-maori-party-needs-my-help.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/15/labours-davis-maori-party-needs-my-help/index.html
+layout: layout.njk
 ---
 Labour’s Davis: Maori Party Needs My Help
 =========================================

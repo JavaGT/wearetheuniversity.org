@@ -1,9 +1,12 @@
 ---
 slug: joyce-claim-on-funding-plain-dishonest
-title: "Joyce claim on funding ‘plain dishonest'"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/PA1110/S00499/joyce-claim-on-funding-plain-dishonest.htm
+title: Joyce claim on funding ‘plain dishonest'
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00499/joyce-claim-on-funding-plain-dishonest.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/31/joyce-claim-on-funding-plain-dishonest/index.html
+layout: layout.njk
 ---
 Joyce claim on funding ‘plain dishonest'
 ========================================

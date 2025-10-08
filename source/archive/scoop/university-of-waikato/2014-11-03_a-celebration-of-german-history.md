@@ -1,9 +1,12 @@
 ---
 slug: a-celebration-of-german-history
-title: "A Celebration of German History"
-date: 2014-11-03
-source-url: https://www.scoop.co.nz/stories/CU1411/S00035/a-celebration-of-german-history.htm
+title: A Celebration of German History
+date: 2014-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00035/a-celebration-of-german-history.htm
 author: university-of-waikato
+permalink: /archive/2014/11/03/a-celebration-of-german-history/index.html
+layout: layout.njk
 ---
 A Celebration of German History
 ===============================

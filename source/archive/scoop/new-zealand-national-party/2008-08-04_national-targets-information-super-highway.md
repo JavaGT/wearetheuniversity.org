@@ -1,9 +1,12 @@
 ---
 slug: national-targets-information-super-highway
-title: "National targets information super highway"
-date: 2008-08-04
-source-url: https://www.scoop.co.nz/stories/PA0808/S00033/national-targets-information-super-highway.htm
+title: National targets information super highway
+date: 2008-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00033/national-targets-information-super-highway.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/04/national-targets-information-super-highway/index.html
+layout: layout.njk
 ---
 National targets information super highway
 ==========================================

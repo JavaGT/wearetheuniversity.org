@@ -1,9 +1,13 @@
 ---
 slug: more-to-economic-development-than-interest-rates
-title: "More to Economic Development Than Interest Rates"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/BU0402/S00012/more-to-economic-development-than-interest-rates.htm
+title: More to Economic Development Than Interest Rates
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0402/S00012/more-to-economic-development-than-interest-rates.htm
 author: aut-university
+permalink: >-
+  /archive/2004/02/02/more-to-economic-development-than-interest-rates/index.html
+layout: layout.njk
 ---
 More to Economic Development Than Interest Rates
 ================================================

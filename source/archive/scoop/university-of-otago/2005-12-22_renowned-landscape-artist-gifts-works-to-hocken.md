@@ -1,9 +1,12 @@
 ---
 slug: renowned-landscape-artist-gifts-works-to-hocken
-title: "Renowned landscape artist gifts works to Hocken"
-date: 2005-12-22
-source-url: https://www.scoop.co.nz/stories/CU0512/S00144/renowned-landscape-artist-gifts-works-to-hocken.htm
+title: Renowned landscape artist gifts works to Hocken
+date: 2005-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0512/S00144/renowned-landscape-artist-gifts-works-to-hocken.htm
 author: university-of-otago
+permalink: /archive/2005/12/22/renowned-landscape-artist-gifts-works-to-hocken/index.html
+layout: layout.njk
 ---
 Renowned landscape artist gifts works to Hocken
 ===============================================

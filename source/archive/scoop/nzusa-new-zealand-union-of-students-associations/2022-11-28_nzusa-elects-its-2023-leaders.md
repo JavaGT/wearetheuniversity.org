@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-its-2023-leaders
-title: "NZUSA Elects Its 2023 Leaders"
-date: 2022-11-28
-source-url: https://www.scoop.co.nz/stories/PO2211/S00197/nzusa-elects-its-2023-leaders.htm
+title: NZUSA Elects Its 2023 Leaders
+date: 2022-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2211/S00197/nzusa-elects-its-2023-leaders.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2022/11/28/nzusa-elects-its-2023-leaders/index.html
+layout: layout.njk
 ---
 NZUSA Elects Its 2023 Leaders
 =============================

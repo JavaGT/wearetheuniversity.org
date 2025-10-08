@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-welcomes-governments-support-for-2012
-title: "Lincoln University welcomes Government’s support for 2012"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/ED1109/S00092/lincoln-university-welcomes-governments-support-for-2012.htm
+title: Lincoln University welcomes Government’s support for 2012
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00092/lincoln-university-welcomes-governments-support-for-2012.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/09/21/lincoln-university-welcomes-governments-support-for-2012/index.html
+layout: layout.njk
 ---
 Lincoln University welcomes Government’s support for 2012
 =========================================================

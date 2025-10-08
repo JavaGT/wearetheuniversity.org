@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-real-education-problems
-title: "Labour ignores real education problems"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00514/labour-ignores-real-education-problems.htm
+title: Labour ignores real education problems
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00514/labour-ignores-real-education-problems.htm
 author: act-new-zealand
+permalink: /archive/2017/08/29/labour-ignores-real-education-problems/index.html
+layout: layout.njk
 ---
 Labour ignores real education problems
 ======================================

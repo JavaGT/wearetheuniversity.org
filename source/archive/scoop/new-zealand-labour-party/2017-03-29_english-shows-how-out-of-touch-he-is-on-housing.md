@@ -1,9 +1,12 @@
 ---
 slug: english-shows-how-out-of-touch-he-is-on-housing
-title: "English shows how out of touch he is on housing"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/PA1703/S00499/english-shows-how-out-of-touch-he-is-on-housing.htm
+title: English shows how out of touch he is on housing
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00499/english-shows-how-out-of-touch-he-is-on-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/29/english-shows-how-out-of-touch-he-is-on-housing/index.html
+layout: layout.njk
 ---
 English shows how out of touch he is on housing
 ===============================================

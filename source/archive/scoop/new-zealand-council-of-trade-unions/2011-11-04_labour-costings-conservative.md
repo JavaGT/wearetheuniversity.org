@@ -1,9 +1,11 @@
 ---
 slug: labour-costings-conservative
-title: "Labour costings conservative"
-date: 2011-11-04
+title: Labour costings conservative
+date: 2011-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00124/labour-costings-conservative.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/11/04/labour-costings-conservative/index.html
+layout: layout.njk
 ---
 Labour costings conservative
 ============================

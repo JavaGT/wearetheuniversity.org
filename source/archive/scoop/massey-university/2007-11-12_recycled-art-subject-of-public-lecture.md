@@ -1,9 +1,12 @@
 ---
 slug: recycled-art-subject-of-public-lecture
-title: "Recycled art subject of public lecture"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/ED0711/S00058/recycled-art-subject-of-public-lecture.htm
+title: Recycled art subject of public lecture
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00058/recycled-art-subject-of-public-lecture.htm
 author: massey-university
+permalink: /archive/2007/11/12/recycled-art-subject-of-public-lecture/index.html
+layout: layout.njk
 ---
 Recycled art subject of public lecture
 ======================================

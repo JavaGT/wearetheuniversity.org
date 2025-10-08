@@ -1,9 +1,12 @@
 ---
 slug: act-for-a-growing-economy-and-real-jobs
-title: "ACT For A Growing Economy And Real Jobs"
-date: 1999-11-14
-source-url: https://www.scoop.co.nz/stories/PA9911/S00317/act-for-a-growing-economy-and-real-jobs.htm
+title: ACT For A Growing Economy And Real Jobs
+date: 1999-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00317/act-for-a-growing-economy-and-real-jobs.htm
 author: act-new-zealand
+permalink: /archive/1999/11/14/act-for-a-growing-economy-and-real-jobs/index.html
+layout: layout.njk
 ---
 ACT For A Growing Economy And Real Jobs
 =======================================

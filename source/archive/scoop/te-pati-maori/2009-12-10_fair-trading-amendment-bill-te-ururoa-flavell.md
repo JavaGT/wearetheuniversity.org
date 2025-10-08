@@ -1,9 +1,12 @@
 ---
 slug: fair-trading-amendment-bill-te-ururoa-flavell
-title: "Fair Trading  Amendment Bill -  Te Ururoa Flavell"
-date: 2009-12-10
-source-url: https://www.scoop.co.nz/stories/PA0912/S00138/fair-trading-amendment-bill-te-ururoa-flavell.htm
+title: Fair Trading  Amendment Bill -  Te Ururoa Flavell
+date: 2009-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00138/fair-trading-amendment-bill-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2009/12/10/fair-trading-amendment-bill-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Fair Trading Amendment Bill - Te Ururoa Flavell
 ===============================================

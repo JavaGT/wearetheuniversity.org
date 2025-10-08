@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-fish-and-chips-hold-human-dna-clues
-title: "New Zealand fish and chips hold human DNA clues"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/SC1704/S00073/new-zealand-fish-and-chips-hold-human-dna-clues.htm
+title: New Zealand fish and chips hold human DNA clues
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00073/new-zealand-fish-and-chips-hold-human-dna-clues.htm
 author: university-of-otago
+permalink: /archive/2017/04/24/new-zealand-fish-and-chips-hold-human-dna-clues/index.html
+layout: layout.njk
 ---
 New Zealand fish and chips hold human DNA clues
 ===============================================

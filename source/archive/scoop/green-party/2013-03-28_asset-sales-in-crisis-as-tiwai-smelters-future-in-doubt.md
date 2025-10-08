@@ -1,9 +1,13 @@
 ---
 slug: asset-sales-in-crisis-as-tiwai-smelters-future-in-doubt
-title: "Asset sales in crisis as Tiwai smelter's future in doubt"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00494/asset-sales-in-crisis-as-tiwai-smelters-future-in-doubt.htm
+title: Asset sales in crisis as Tiwai smelter's future in doubt
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00494/asset-sales-in-crisis-as-tiwai-smelters-future-in-doubt.htm
 author: green-party
+permalink: >-
+  /archive/2013/03/28/asset-sales-in-crisis-as-tiwai-smelters-future-in-doubt/index.html
+layout: layout.njk
 ---
 Asset sales in crisis as Tiwai smelter's future in doubt
 ========================================================

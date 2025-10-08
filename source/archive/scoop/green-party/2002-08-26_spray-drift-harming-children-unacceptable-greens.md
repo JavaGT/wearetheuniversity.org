@@ -1,9 +1,13 @@
 ---
 slug: spray-drift-harming-children-unacceptable-greens
-title: "Spray Drift Harming Children Unacceptable - Greens"
-date: 2002-08-26
-source-url: https://www.scoop.co.nz/stories/PA0208/S00213/spray-drift-harming-children-unacceptable-greens.htm
+title: Spray Drift Harming Children Unacceptable - Greens
+date: 2002-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00213/spray-drift-harming-children-unacceptable-greens.htm
 author: green-party
+permalink: >-
+  /archive/2002/08/26/spray-drift-harming-children-unacceptable-greens/index.html
+layout: layout.njk
 ---
 Spray Drift Harming Children Unacceptable - Greens
 ==================================================

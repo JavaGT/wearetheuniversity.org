@@ -1,9 +1,12 @@
 ---
 slug: kim-workman-awarded-2015-j-d-stout-fellowship
-title: "Kim Workman awarded 2015 J.D. Stout Fellowship"
-date: 2014-10-30
-source-url: https://www.scoop.co.nz/stories/PO1410/S00296/kim-workman-awarded-2015-jd-stout-fellowship.htm
+title: Kim Workman awarded 2015 J.D. Stout Fellowship
+date: 2014-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00296/kim-workman-awarded-2015-jd-stout-fellowship.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/30/kim-workman-awarded-2015-j-d-stout-fellowship/index.html
+layout: layout.njk
 ---
 Kim Workman awarded 2015 J.D. Stout Fellowship
 ==============================================

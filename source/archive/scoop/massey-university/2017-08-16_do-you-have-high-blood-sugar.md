@@ -1,9 +1,11 @@
 ---
 slug: do-you-have-high-blood-sugar
-title: "Do you have high blood sugar?"
-date: 2017-08-16
+title: Do you have high blood sugar?
+date: 2017-08-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1708/S00054/do-you-have-high-blood-sugar.htm
 author: massey-university
+permalink: /archive/2017/08/16/do-you-have-high-blood-sugar/index.html
+layout: layout.njk
 ---
 Do you have high blood sugar?
 =============================

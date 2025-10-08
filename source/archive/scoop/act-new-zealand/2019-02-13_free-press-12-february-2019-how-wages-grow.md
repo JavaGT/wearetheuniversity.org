@@ -1,9 +1,12 @@
 ---
 slug: free-press-12-february-2019-how-wages-grow
-title: "Free Press, 12 February 2019 - How Wages Grow"
-date: 2019-02-13
-source-url: https://www.scoop.co.nz/stories/PA1902/S00089/free-press-12-february-2019-how-wages-grow.htm
+title: Free Press, 12 February 2019 - How Wages Grow
+date: 2019-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00089/free-press-12-february-2019-how-wages-grow.htm
 author: act-new-zealand
+permalink: /archive/2019/02/13/free-press-12-february-2019-how-wages-grow/index.html
+layout: layout.njk
 ---
 Free Press, 12 February 2019 - How Wages Grow
 =============================================

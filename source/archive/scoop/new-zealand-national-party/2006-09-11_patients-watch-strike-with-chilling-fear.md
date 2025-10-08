@@ -1,9 +1,12 @@
 ---
 slug: patients-watch-strike-with-chilling-fear
-title: "Patients watch strike with chilling fear"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/PA0609/S00245/patients-watch-strike-with-chilling-fear.htm
+title: Patients watch strike with chilling fear
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00245/patients-watch-strike-with-chilling-fear.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/11/patients-watch-strike-with-chilling-fear/index.html
+layout: layout.njk
 ---
 Patients watch strike with chilling fear
 ========================================

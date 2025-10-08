@@ -1,9 +1,12 @@
 ---
 slug: spinal-injury-psychological-and-social-problems
-title: "Spinal Injury Psychological And Social Problems"
-date: 2004-02-25
-source-url: https://www.scoop.co.nz/stories/ED0402/S00077/spinal-injury-psychological-and-social-problems.htm
+title: Spinal Injury Psychological And Social Problems
+date: 2004-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00077/spinal-injury-psychological-and-social-problems.htm
 author: university-of-otago
+permalink: /archive/2004/02/25/spinal-injury-psychological-and-social-problems/index.html
+layout: layout.njk
 ---
 Spinal Injury Psychological And Social Problems
 ===============================================

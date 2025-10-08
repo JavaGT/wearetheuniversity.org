@@ -1,9 +1,12 @@
 ---
 slug: do-something-about-child-poverty-for-christmas
-title: "do something about child poverty for Christmas"
-date: 2010-12-07
-source-url: https://www.scoop.co.nz/stories/PA1012/S00076/do-something-about-child-poverty-for-christmas.htm
+title: do something about child poverty for Christmas
+date: 2010-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00076/do-something-about-child-poverty-for-christmas.htm
 author: green-party
+permalink: /archive/2010/12/07/do-something-about-child-poverty-for-christmas/index.html
+layout: layout.njk
 ---
 do something about child poverty for Christmas
 ==============================================

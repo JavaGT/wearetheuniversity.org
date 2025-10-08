@@ -1,9 +1,13 @@
 ---
 slug: graduate-returns-from-cambridge-to-join-university
-title: "Graduate Returns From Cambridge To Join University"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/ED0509/S00038/graduate-returns-from-cambridge-to-join-university.htm
+title: Graduate Returns From Cambridge To Join University
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00038/graduate-returns-from-cambridge-to-join-university.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/09/12/graduate-returns-from-cambridge-to-join-university/index.html
+layout: layout.njk
 ---
 Graduate Returns From Cambridge To Join University
 ==================================================

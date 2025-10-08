@@ -1,9 +1,12 @@
 ---
 slug: close-courtenay-place-to-cars
-title: "Close Courtenay Place to cars"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/AK0703/S00371/close-courtenay-place-to-cars.htm
+title: Close Courtenay Place to cars
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0703/S00371/close-courtenay-place-to-cars.htm
 author: green-party
+permalink: /archive/2007/03/30/close-courtenay-place-to-cars/index.html
+layout: layout.njk
 ---
 Close Courtenay Place to cars
 =============================

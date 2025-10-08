@@ -1,9 +1,12 @@
 ---
 slug: interest-rates-rise-hurts-primary-production
-title: "Interest Rates Rise Hurts Primary Production"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/PA0512/S00017/interest-rates-rise-hurts-primary-production.htm
+title: Interest Rates Rise Hurts Primary Production
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00017/interest-rates-rise-hurts-primary-production.htm
 author: new-zealand-first-party
+permalink: /archive/2005/12/01/interest-rates-rise-hurts-primary-production/index.html
+layout: layout.njk
 ---
 Interest Rates Rise Hurts Primary Production
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-wipes-out-helen-clark
-title: "Knowledge Wave Wipes Out Helen Clark"
-date: 2003-02-21
-source-url: https://www.scoop.co.nz/stories/PA0302/S00401/knowledge-wave-wipes-out-helen-clark.htm
+title: Knowledge Wave Wipes Out Helen Clark
+date: 2003-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00401/knowledge-wave-wipes-out-helen-clark.htm
 author: act-new-zealand
+permalink: /archive/2003/02/21/knowledge-wave-wipes-out-helen-clark/index.html
+layout: layout.njk
 ---
 Knowledge Wave Wipes Out Helen Clark
 ====================================

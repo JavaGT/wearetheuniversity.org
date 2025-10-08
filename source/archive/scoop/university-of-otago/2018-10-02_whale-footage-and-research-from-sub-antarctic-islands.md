@@ -1,9 +1,13 @@
 ---
 slug: whale-footage-and-research-from-sub-antarctic-islands
-title: "Whale footage and research from sub-Antarctic Islands"
-date: 2018-10-02
-source-url: https://www.scoop.co.nz/stories/SC1810/S00008/whale-footage-and-research-from-sub-antarctic-islands.htm
+title: Whale footage and research from sub-Antarctic Islands
+date: 2018-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00008/whale-footage-and-research-from-sub-antarctic-islands.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/02/whale-footage-and-research-from-sub-antarctic-islands/index.html
+layout: layout.njk
 ---
 Whale footage and research from sub-Antarctic Islands
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-welcomes-announcement-of-free-post-school-education
-title: "VUWSA welcomes announcement of free post-school education"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/ED1602/S00001/vuwsa-welcomes-announcement-of-free-post-school-education.htm
+title: VUWSA welcomes announcement of free post-school education
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00001/vuwsa-welcomes-announcement-of-free-post-school-education.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/02/01/vuwsa-welcomes-announcement-of-free-post-school-education/index.html
+layout: layout.njk
 ---
 VUWSA welcomes announcement of free post-school education
 =========================================================

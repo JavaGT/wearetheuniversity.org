@@ -1,9 +1,11 @@
 ---
 slug: declare-drought-now
-title: "Declare Drought Now"
-date: 2015-01-15
+title: Declare Drought Now
+date: 2015-01-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1501/S00044/declare-drought-now.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/15/declare-drought-now/index.html
+layout: layout.njk
 ---
 Declare Drought Now
 ===================

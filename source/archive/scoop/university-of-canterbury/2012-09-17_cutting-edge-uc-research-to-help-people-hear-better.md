@@ -1,9 +1,13 @@
 ---
 slug: cutting-edge-uc-research-to-help-people-hear-better
-title: "Cutting edge UC research to help people hear better"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/SC1209/S00033/cutting-edge-uc-research-to-help-people-hear-better.htm
+title: Cutting edge UC research to help people hear better
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00033/cutting-edge-uc-research-to-help-people-hear-better.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/17/cutting-edge-uc-research-to-help-people-hear-better/index.html
+layout: layout.njk
 ---
 Cutting edge UC research to help people hear better
 ===================================================

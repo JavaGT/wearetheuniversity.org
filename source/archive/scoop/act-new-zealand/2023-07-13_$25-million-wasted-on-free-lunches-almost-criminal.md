@@ -1,9 +1,12 @@
 ---
 slug: $25-million-wasted-on-free-lunches-almost-criminal
-title: "$25 Million Wasted On \"free\" Lunches Almost Criminal"
-date: 2023-07-13
-source-url: https://www.scoop.co.nz/stories/PA2307/S00066/25-million-wasted-on-free-lunches-almost-criminal.htm
+title: $25 Million Wasted On "free" Lunches Almost Criminal
+date: 2023-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00066/25-million-wasted-on-free-lunches-almost-criminal.htm
 author: act-new-zealand
+permalink: /archive/2023/07/13/25-million-wasted-on/index.html
+layout: layout.njk
 ---
 $25 Million Wasted On “free” Lunches Almost Criminal
 ====================================================

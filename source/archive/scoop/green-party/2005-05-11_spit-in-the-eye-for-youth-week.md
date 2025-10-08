@@ -1,9 +1,12 @@
 ---
 slug: spit-in-the-eye-for-youth-week
-title: "Spit in the eye for Youth Week"
-date: 2005-05-11
-source-url: https://www.scoop.co.nz/stories/PA0505/S00265/spit-in-the-eye-for-youth-week.htm
+title: Spit in the eye for Youth Week
+date: 2005-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00265/spit-in-the-eye-for-youth-week.htm
 author: green-party
+permalink: /archive/2005/05/11/spit-in-the-eye-for-youth-week/index.html
+layout: layout.njk
 ---
 Spit in the eye for Youth Week
 ==============================

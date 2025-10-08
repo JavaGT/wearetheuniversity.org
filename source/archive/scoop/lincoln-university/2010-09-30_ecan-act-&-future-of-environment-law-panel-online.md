@@ -1,9 +1,12 @@
 ---
 slug: ecan-act-&-future-of-environment-law-panel-online
-title: "ECan Act & Future of Environment Law: Panel Online"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/ED1009/S00141/ecan-act-future-of-environment-law-panel-online.htm
+title: 'ECan Act & Future of Environment Law: Panel Online'
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00141/ecan-act-future-of-environment-law-panel-online.htm
 author: lincoln-university
+permalink: /archive/2010/09/30/ecan-act-/index.html
+layout: layout.njk
 ---
 ECan Act & Future of Environment Law: Panel Online
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: confusion-over-voting-systems-bad-for-turnout
-title: "Confusion over voting systems bad for turnout"
-date: 2010-10-14
-source-url: https://www.scoop.co.nz/stories/PO1010/S00156/confusion-over-voting-systems-bad-for-turnout.htm
+title: Confusion over voting systems bad for turnout
+date: 2010-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00156/confusion-over-voting-systems-bad-for-turnout.htm
 author: massey-university
+permalink: /archive/2010/10/14/confusion-over-voting-systems-bad-for-turnout/index.html
+layout: layout.njk
 ---
 Confusion over voting systems bad for turnout
 =============================================

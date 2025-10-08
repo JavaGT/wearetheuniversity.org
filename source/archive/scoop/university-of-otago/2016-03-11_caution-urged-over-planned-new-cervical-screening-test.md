@@ -1,9 +1,13 @@
 ---
 slug: caution-urged-over-planned-new-cervical-screening-test
-title: "Caution urged over planned new cervical screening test"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/GE1603/S00039/caution-urged-over-planned-new-cervical-screening-test.htm
+title: Caution urged over planned new cervical screening test
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1603/S00039/caution-urged-over-planned-new-cervical-screening-test.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/11/caution-urged-over-planned-new-cervical-screening-test/index.html
+layout: layout.njk
 ---
 Caution urged over planned new cervical screening test
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-agricultural-compounds-bill
-title: "Sharples: Agricultural Compounds Bill"
-date: 2007-09-13
-source-url: https://www.scoop.co.nz/stories/PA0709/S00220/sharples-agricultural-compounds-bill.htm
+title: 'Sharples: Agricultural Compounds Bill'
+date: 2007-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00220/sharples-agricultural-compounds-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/13/sharples-agricultural-compounds-bill/index.html
+layout: layout.njk
 ---
 Sharples: Agricultural Compounds Bill
 =====================================

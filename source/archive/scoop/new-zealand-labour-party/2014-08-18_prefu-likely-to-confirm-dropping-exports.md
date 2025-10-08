@@ -1,9 +1,12 @@
 ---
 slug: prefu-likely-to-confirm-dropping-exports
-title: "PREFU likely to confirm dropping exports"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/PA1408/S00277/prefu-likely-to-confirm-dropping-exports.htm
+title: PREFU likely to confirm dropping exports
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00277/prefu-likely-to-confirm-dropping-exports.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/18/prefu-likely-to-confirm-dropping-exports/index.html
+layout: layout.njk
 ---
 PREFU likely to confirm dropping exports
 ========================================

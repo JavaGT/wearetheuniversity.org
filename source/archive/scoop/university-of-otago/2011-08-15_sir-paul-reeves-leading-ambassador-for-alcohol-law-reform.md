@@ -1,9 +1,13 @@
 ---
 slug: sir-paul-reeves-leading-ambassador-for-alcohol-law-reform
-title: "Sir Paul Reeves – Leading ambassador for alcohol law reform"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/CU1108/S00224/sir-paul-reeves-leading-ambassador-for-alcohol-law-reform.htm
+title: Sir Paul Reeves – Leading ambassador for alcohol law reform
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00224/sir-paul-reeves-leading-ambassador-for-alcohol-law-reform.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/15/sir-paul-reeves-leading-ambassador-for-alcohol-law-reform/index.html
+layout: layout.njk
 ---
 Sir Paul Reeves – Leading ambassador for alcohol law reform
 ===========================================================

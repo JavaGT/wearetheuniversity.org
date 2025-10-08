@@ -1,9 +1,12 @@
 ---
 slug: bid-to-protect-morepork-on-banks-peninsula
-title: "Bid to protect morepork on Banks Peninsula"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/SC1503/S00060/bid-to-protect-morepork-on-banks-peninsula.htm
+title: Bid to protect morepork on Banks Peninsula
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00060/bid-to-protect-morepork-on-banks-peninsula.htm
 author: lincoln-university
+permalink: /archive/2015/03/16/bid-to-protect-morepork-on-banks-peninsula/index.html
+layout: layout.njk
 ---
 Bid to protect morepork on Banks Peninsula
 ==========================================

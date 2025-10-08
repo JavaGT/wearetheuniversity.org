@@ -1,9 +1,11 @@
 ---
 slug: the-crisis-crisis
-title: "The Crisis Crisis"
-date: 2023-01-16
+title: The Crisis Crisis
+date: 2023-01-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK2301/S00208/the-crisis-crisis.htm
 author: maxim-institute
+permalink: /archive/2023/01/16/the-crisis-crisis/index.html
+layout: layout.njk
 ---
 The Crisis Crisis
 =================

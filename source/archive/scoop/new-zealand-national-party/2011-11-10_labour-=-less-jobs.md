@@ -1,9 +1,11 @@
 ---
 slug: labour-=-less-jobs
-title: "Labour = less jobs"
-date: 2011-11-10
+title: Labour = less jobs
+date: 2011-11-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00204/labour-less-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/10/labour-/index.html
+layout: layout.njk
 ---
 Labour = less jobs
 ==================

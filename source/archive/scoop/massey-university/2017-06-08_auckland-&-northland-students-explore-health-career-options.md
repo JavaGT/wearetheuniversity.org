@@ -1,9 +1,12 @@
 ---
 slug: auckland-&-northland-students-explore-health-career-options
-title: "Auckland & Northland students explore health career options"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/ED1706/S00022/auckland-northland-students-explore-health-career-options.htm
+title: Auckland & Northland students explore health career options
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00022/auckland-northland-students-explore-health-career-options.htm
 author: massey-university
+permalink: /archive/2017/06/08/auckland-/index.html
+layout: layout.njk
 ---
 Auckland & Northland students explore health career options
 ===========================================================

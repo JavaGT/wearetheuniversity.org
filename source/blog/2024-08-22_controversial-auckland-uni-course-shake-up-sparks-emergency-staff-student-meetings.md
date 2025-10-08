@@ -1,11 +1,24 @@
 ---
-title: Controversial Auckland Uni course shake-up sparks emergency staff, student meetings
-slug: controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings
-date: 2024-08-22
-source: https://www.nzherald.co.nz/nz/controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings/6KFSFD4WHRCOPB4XF67T6Z33EU/
+layout: layout.njk
+title: >-
+  Controversial Auckland Uni course shake-up sparks emergency staff, student
+  meetings
+slug: >-
+  controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings
+date: 2024-08-22T00:00:00.000Z
+source: >-
+  https://www.nzherald.co.nz/nz/controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings/6KFSFD4WHRCOPB4XF67T6Z33EU/
 author: Jamie Morton
 author-url: https://www.nzherald.co.nz/author/jamie-morton/
 author-slug: jamie-morton
+permalink: >-
+  /blog/2024/08/22/controversial-auckland-uni-course-shake-up-sparks-emergency-staff-student-meetings/index.html
+excerpt: >-
+  Controversial Auckland Uni course shakeup sparks emergency staff, student
+  meetings Jamie Morton By Jamie Morton Multimedia Journalist·NZ Herald· 22 Aug,
+  2024 12:30 PM 4 mins to read Save Share Students meet to discuss the proposed
+  review and potential cuts of courses at the University of Auckland. Photo /
+  Sylvie Whinray...
 ---
 
 # Controversial Auckland Uni course shake-up sparks emergency staff, student meetings

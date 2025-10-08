@@ -1,9 +1,12 @@
 ---
 slug: generation-student-includes-everyone!
-title: "‘Generation Student’ includes everyone!"
-date: 2012-08-10
-source-url: https://www.scoop.co.nz/stories/ED1208/S00071/generation-student-includes-everyone.htm
+title: ‘Generation Student’ includes everyone!
+date: 2012-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00071/generation-student-includes-everyone.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/08/10/generation-student-includes-everyone/index.html
+layout: layout.njk
 ---
 ‘Generation Student’ includes everyone!
 =======================================

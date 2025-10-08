@@ -1,9 +1,13 @@
 ---
 slug: former-prime-ministers-to-take-part-in-constitutional-review
-title: "Former Prime Ministers to take part in Constitutional Review"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/PO1304/S00053/former-prime-ministers-to-take-part-in-constitutional-review.htm
+title: Former Prime Ministers to take part in Constitutional Review
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00053/former-prime-ministers-to-take-part-in-constitutional-review.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/05/former-prime-ministers-to-take-part-in-constitutional-review/index.html
+layout: layout.njk
 ---
 Former Prime Ministers to take part in Constitutional Review
 ============================================================

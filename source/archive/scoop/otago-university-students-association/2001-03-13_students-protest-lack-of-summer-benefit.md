@@ -1,9 +1,12 @@
 ---
 slug: students-protest-lack-of-summer-benefit
-title: "Students Protest Lack Of Summer Benefit"
-date: 2001-03-13
-source-url: https://www.scoop.co.nz/stories/ED0103/S00025/students-protest-lack-of-summer-benefit.htm
+title: Students Protest Lack Of Summer Benefit
+date: 2001-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00025/students-protest-lack-of-summer-benefit.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/13/students-protest-lack-of-summer-benefit/index.html
+layout: layout.njk
 ---
 Students Protest Lack Of Summer Benefit
 =======================================

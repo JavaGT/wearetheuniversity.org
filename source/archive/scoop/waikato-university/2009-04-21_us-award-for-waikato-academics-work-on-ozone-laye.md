@@ -1,9 +1,13 @@
 ---
 slug: us-award-for-waikato-academics-work-on-ozone-laye
-title: "US award for Waikato academic’s work on ozone laye"
-date: 2009-04-21
-source-url: https://www.scoop.co.nz/stories/SC0904/S00036/us-award-for-waikato-academics-work-on-ozone-laye.htm
+title: US award for Waikato academic’s work on ozone laye
+date: 2009-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00036/us-award-for-waikato-academics-work-on-ozone-laye.htm
 author: waikato-university
+permalink: >-
+  /archive/2009/04/21/us-award-for-waikato-academics-work-on-ozone-laye/index.html
+layout: layout.njk
 ---
 US award for Waikato academic’s work on ozone laye
 ==================================================

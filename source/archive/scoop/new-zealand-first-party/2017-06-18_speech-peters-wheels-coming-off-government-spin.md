@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-wheels-coming-off-government-spin
-title: "Speech: Peters - Wheels Coming Off Government Spin"
-date: 2017-06-18
-source-url: https://www.scoop.co.nz/stories/PA1706/S00293/speech-peters-wheels-coming-off-government-spin.htm
+title: 'Speech: Peters - Wheels Coming Off Government Spin'
+date: 2017-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00293/speech-peters-wheels-coming-off-government-spin.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/18/speech-peters-wheels-coming-off-government-spin/index.html
+layout: layout.njk
 ---
 Speech: Peters - Wheels Coming Off Government Spin
 ==================================================

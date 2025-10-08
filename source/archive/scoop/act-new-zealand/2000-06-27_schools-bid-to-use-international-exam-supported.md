@@ -1,9 +1,12 @@
 ---
 slug: schools-bid-to-use-international-exam-supported
-title: "Schools Bid To Use International Exam Supported"
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/PA0006/S00586/schools-bid-to-use-international-exam-supported.htm
+title: Schools Bid To Use International Exam Supported
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00586/schools-bid-to-use-international-exam-supported.htm
 author: act-new-zealand
+permalink: /archive/2000/06/27/schools-bid-to-use-international-exam-supported/index.html
+layout: layout.njk
 ---
 Schools Bid To Use International Exam Supported
 ===============================================

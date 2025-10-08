@@ -1,9 +1,12 @@
 ---
 slug: child-poverty-statistics-unacceptable
-title: "Child poverty statistics unacceptable"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/AK1402/S00656/child-poverty-statistics-unacceptable.htm
+title: Child poverty statistics unacceptable
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00656/child-poverty-statistics-unacceptable.htm
 author: university-of-waikato
+permalink: /archive/2014/02/28/child-poverty-statistics-unacceptable/index.html
+layout: layout.njk
 ---
 Child poverty statistics unacceptable
 =====================================

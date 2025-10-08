@@ -1,9 +1,12 @@
 ---
 slug: waikato-leadership-centre-builds-reputation
-title: "Waikato Leadership Centre Builds Reputation"
-date: 2006-07-05
-source-url: https://www.scoop.co.nz/stories/ED0607/S00011/waikato-leadership-centre-builds-reputation.htm
+title: Waikato Leadership Centre Builds Reputation
+date: 2006-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00011/waikato-leadership-centre-builds-reputation.htm
 author: university-of-waikato
+permalink: /archive/2006/07/05/waikato-leadership-centre-builds-reputation/index.html
+layout: layout.njk
 ---
 Waikato Leadership Centre Builds Reputation
 ===========================================

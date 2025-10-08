@@ -1,9 +1,12 @@
 ---
 slug: no-hope-for-nz-manufacturing-with-national
-title: "No Hope for NZ Manufacturing with National"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00125/no-hope-for-nz-manufacturing-with-national.htm
+title: No Hope for NZ Manufacturing with National
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00125/no-hope-for-nz-manufacturing-with-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/08/no-hope-for-nz-manufacturing-with-national/index.html
+layout: layout.njk
 ---
 No Hope for NZ Manufacturing with National
 ==========================================

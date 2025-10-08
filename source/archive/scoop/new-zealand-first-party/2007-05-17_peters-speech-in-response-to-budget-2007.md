@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-in-response-to-budget-2007
-title: "Peters' speech in response to Budget 2007"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/PA0705/S00483/peters-speech-in-response-to-budget-2007.htm
+title: Peters' speech in response to Budget 2007
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00483/peters-speech-in-response-to-budget-2007.htm
 author: new-zealand-first-party
+permalink: /archive/2007/05/17/peters-speech-in-response-to-budget-2007/index.html
+layout: layout.njk
 ---
 Peters' speech in response to Budget 2007
 =========================================

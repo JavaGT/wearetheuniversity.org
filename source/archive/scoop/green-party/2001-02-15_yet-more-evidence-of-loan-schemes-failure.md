@@ -1,9 +1,12 @@
 ---
 slug: yet-more-evidence-of-loan-schemes-failure
-title: "Yet more evidence of loan scheme's failure"
-date: 2001-02-15
-source-url: https://www.scoop.co.nz/stories/PA0102/S00218/yet-more-evidence-of-loan-schemes-failure.htm
+title: Yet more evidence of loan scheme's failure
+date: 2001-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00218/yet-more-evidence-of-loan-schemes-failure.htm
 author: green-party
+permalink: /archive/2001/02/15/yet-more-evidence-of-loan-schemes-failure/index.html
+layout: layout.njk
 ---
 Yet more evidence of loan scheme's failure
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: immigrants-must-speak-english-to-succeed
-title: "Immigrants Must Speak English To Succeed"
-date: 2001-03-09
-source-url: https://www.scoop.co.nz/stories/PA0103/S00140/immigrants-must-speak-english-to-succeed.htm
+title: Immigrants Must Speak English To Succeed
+date: 2001-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00140/immigrants-must-speak-english-to-succeed.htm
 author: new-zealand-first-party
+permalink: /archive/2001/03/09/immigrants-must-speak-english-to-succeed/index.html
+layout: layout.njk
 ---
 Immigrants Must Speak English To Succeed
 ========================================

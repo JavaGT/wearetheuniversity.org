@@ -1,9 +1,12 @@
 ---
 slug: new-year-new-approach-to-try-sell-kiwibuild
-title: "New year – new approach to try sell KiwiBuild"
-date: 2019-01-27
-source-url: https://www.scoop.co.nz/stories/PA1901/S00072/new-year-new-approach-to-try-sell-kiwibuild.htm
+title: New year – new approach to try sell KiwiBuild
+date: 2019-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00072/new-year-new-approach-to-try-sell-kiwibuild.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/27/new-year-new-approach-to-try-sell-kiwibuild/index.html
+layout: layout.njk
 ---
 New year – new approach to try sell KiwiBuild
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: kawerau-community-congratulated-for-their-generosity
-title: "Kawerau Community Congratulated for Their Generosity"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/PA1211/S00507/kawerau-community-congratulated-for-their-generosity.htm
+title: Kawerau Community Congratulated for Their Generosity
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00507/kawerau-community-congratulated-for-their-generosity.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/11/29/kawerau-community-congratulated-for-their-generosity/index.html
+layout: layout.njk
 ---
 Kawerau Community Congratulated for Their Generosity
 ====================================================

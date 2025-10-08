@@ -1,9 +1,12 @@
 ---
 slug: buy-and-eat-local-produce-this-christmas
-title: "Buy and eat local produce this Christmas"
-date: 2004-12-23
-source-url: https://www.scoop.co.nz/stories/PA0412/S00574/buy-and-eat-local-produce-this-christmas.htm
+title: Buy and eat local produce this Christmas
+date: 2004-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00574/buy-and-eat-local-produce-this-christmas.htm
 author: green-party
+permalink: /archive/2004/12/23/buy-and-eat-local-produce-this-christmas/index.html
+layout: layout.njk
 ---
 Buy and eat local produce this Christmas
 ========================================

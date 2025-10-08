@@ -1,9 +1,13 @@
 ---
 slug: police-budget-2015-king-of-pain-for-regional-policing
-title: "Police Budget 2015 – ‘King of Pain’ for Regional Policing"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PA1505/S00394/police-budget-2015-king-of-pain-for-regional-policing.htm
+title: Police Budget 2015 – ‘King of Pain’ for Regional Policing
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00394/police-budget-2015-king-of-pain-for-regional-policing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/22/police-budget-2015-king-of-pain-for-regional-policing/index.html
+layout: layout.njk
 ---
 Police Budget 2015 – ‘King of Pain’ for Regional Policing
 =========================================================

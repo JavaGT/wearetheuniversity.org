@@ -1,9 +1,13 @@
 ---
 slug: uc-scientist-uses-green-material-for-early-disease-detection
-title: "UC scientist uses green material for early disease detection"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/SC1301/S00066/uc-scientist-uses-green-material-for-early-disease-detection.htm
+title: UC scientist uses green material for early disease detection
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00066/uc-scientist-uses-green-material-for-early-disease-detection.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/31/uc-scientist-uses-green-material-for-early-disease-detection/index.html
+layout: layout.njk
 ---
 UC scientist uses green material for early disease detection
 ============================================================

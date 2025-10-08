@@ -1,9 +1,12 @@
 ---
 slug: picking-winners-dumped-for-placating-winston
-title: "Picking Winners Dumped for Placating Winston"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/PA0211/S00493/picking-winners-dumped-for-placating-winston.htm
+title: Picking Winners Dumped for Placating Winston
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00493/picking-winners-dumped-for-placating-winston.htm
 author: act-new-zealand
+permalink: /archive/2002/11/21/picking-winners-dumped-for-placating-winston/index.html
+layout: layout.njk
 ---
 Picking Winners Dumped for Placating Winston
 ============================================

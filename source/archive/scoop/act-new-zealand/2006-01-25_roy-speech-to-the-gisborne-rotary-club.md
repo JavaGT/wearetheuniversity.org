@@ -1,9 +1,12 @@
 ---
 slug: roy-speech-to-the-gisborne-rotary-club
-title: "Roy: Speech to the Gisborne Rotary Club"
-date: 2006-01-25
-source-url: https://www.scoop.co.nz/stories/PA0601/S00110/roy-speech-to-the-gisborne-rotary-club.htm
+title: 'Roy: Speech to the Gisborne Rotary Club'
+date: 2006-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00110/roy-speech-to-the-gisborne-rotary-club.htm
 author: act-new-zealand
+permalink: /archive/2006/01/25/roy-speech-to-the-gisborne-rotary-club/index.html
+layout: layout.njk
 ---
 Roy: Speech to the Gisborne Rotary Club
 =======================================

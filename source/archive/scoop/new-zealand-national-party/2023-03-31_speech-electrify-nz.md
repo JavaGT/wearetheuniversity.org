@@ -1,9 +1,11 @@
 ---
 slug: speech-electrify-nz
-title: "Speech: Electrify NZ"
-date: 2023-03-31
+title: 'Speech: Electrify NZ'
+date: 2023-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2303/S00267/speech-electrify-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/31/speech-electrify-nz/index.html
+layout: layout.njk
 ---
 Speech: Electrify NZ
 ====================

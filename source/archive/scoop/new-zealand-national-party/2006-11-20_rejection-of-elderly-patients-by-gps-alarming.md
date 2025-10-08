@@ -1,9 +1,12 @@
 ---
 slug: rejection-of-elderly-patients-by-gps-alarming
-title: "Rejection of elderly patients by GPs alarming"
-date: 2006-11-20
-source-url: https://www.scoop.co.nz/stories/PA0611/S00382/rejection-of-elderly-patients-by-gps-alarming.htm
+title: Rejection of elderly patients by GPs alarming
+date: 2006-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00382/rejection-of-elderly-patients-by-gps-alarming.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/20/rejection-of-elderly-patients-by-gps-alarming/index.html
+layout: layout.njk
 ---
 Rejection of elderly patients by GPs alarming
 =============================================

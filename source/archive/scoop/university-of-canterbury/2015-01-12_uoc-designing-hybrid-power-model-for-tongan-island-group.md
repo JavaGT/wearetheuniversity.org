@@ -1,9 +1,13 @@
 ---
 slug: uoc-designing-hybrid-power-model-for-tongan-island-group
-title: "UoC designing hybrid power model for Tongan island group"
-date: 2015-01-12
-source-url: https://www.scoop.co.nz/stories/SC1501/S00023/uoc-designing-hybrid-power-model-for-tongan-island-group.htm
+title: UoC designing hybrid power model for Tongan island group
+date: 2015-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00023/uoc-designing-hybrid-power-model-for-tongan-island-group.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/12/uoc-designing-hybrid-power-model-for-tongan-island-group/index.html
+layout: layout.njk
 ---
 UoC designing hybrid power model for Tongan island group
 ========================================================

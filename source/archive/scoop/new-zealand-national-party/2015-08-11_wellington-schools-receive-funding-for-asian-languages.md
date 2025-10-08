@@ -1,9 +1,13 @@
 ---
 slug: wellington-schools-receive-funding-for-asian-languages
-title: "Wellington schools receive funding for Asian languages"
-date: 2015-08-11
-source-url: https://www.scoop.co.nz/stories/PA1508/S00148/wellington-schools-receive-funding-for-asian-languages.htm
+title: Wellington schools receive funding for Asian languages
+date: 2015-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00148/wellington-schools-receive-funding-for-asian-languages.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/08/11/wellington-schools-receive-funding-for-asian-languages/index.html
+layout: layout.njk
 ---
 Wellington schools receive funding for Asian languages
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: firm-chosen-for-tauranga-cbd-campus-development
-title: "Firm chosen for Tauranga CBD campus development"
-date: 2015-08-31
-source-url: https://www.scoop.co.nz/stories/ED1508/S00137/firm-chosen-for-tauranga-cbd-campus-development.htm
+title: Firm chosen for Tauranga CBD campus development
+date: 2015-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00137/firm-chosen-for-tauranga-cbd-campus-development.htm
 author: waikato-university
+permalink: /archive/2015/08/31/firm-chosen-for-tauranga-cbd-campus-development/index.html
+layout: layout.njk
 ---
 Firm chosen for Tauranga CBD campus development
 ===============================================

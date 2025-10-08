@@ -1,9 +1,12 @@
 ---
 slug: act-party-talent-tide-comes-in
-title: "ACT Party - Talent Tide Comes In"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/PO1707/S00144/act-party-talent-tide-comes-in.htm
+title: ACT Party - Talent Tide Comes In
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00144/act-party-talent-tide-comes-in.htm
 author: act-new-zealand
+permalink: /archive/2017/07/11/act-party-talent-tide-comes-in/index.html
+layout: layout.njk
 ---
 ACT Party - Talent Tide Comes In
 ================================

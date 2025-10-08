@@ -1,9 +1,13 @@
 ---
 slug: peters-to-raise-questions-over-south-canterbury-finance
-title: "Peters to Raise Questions over South Canterbury Finance"
-date: 2012-01-17
-source-url: https://www.scoop.co.nz/stories/PA1201/S00040/peters-to-raise-questions-over-south-canterbury-finance.htm
+title: Peters to Raise Questions over South Canterbury Finance
+date: 2012-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00040/peters-to-raise-questions-over-south-canterbury-finance.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/01/17/peters-to-raise-questions-over-south-canterbury-finance/index.html
+layout: layout.njk
 ---
 Peters to Raise Questions over South Canterbury Finance
 =======================================================

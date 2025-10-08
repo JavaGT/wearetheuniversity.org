@@ -1,9 +1,12 @@
 ---
 slug: national-focused-on-lifting-student-achievement
-title: "National focused on lifting student achievement"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00419/national-focused-on-lifting-student-achievement.htm
+title: National focused on lifting student achievement
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00419/national-focused-on-lifting-student-achievement.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/21/national-focused-on-lifting-student-achievement/index.html
+layout: layout.njk
 ---
 National focused on lifting student achievement
 ===============================================

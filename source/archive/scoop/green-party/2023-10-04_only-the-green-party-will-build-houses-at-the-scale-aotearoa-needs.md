@@ -1,9 +1,13 @@
 ---
 slug: only-the-green-party-will-build-houses-at-the-scale-aotearoa-needs
-title: "Only The Green Party Will Build Houses At The Scale Aotearoa Needs"
-date: 2023-10-04
-source-url: https://www.scoop.co.nz/stories/PA2310/S00027/only-the-green-party-will-build-houses-at-the-scale-aotearoa-needs.htm
+title: Only The Green Party Will Build Houses At The Scale Aotearoa Needs
+date: 2023-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00027/only-the-green-party-will-build-houses-at-the-scale-aotearoa-needs.htm
 author: green-party
+permalink: >-
+  /archive/2023/10/04/only-the-green-party-will-build-houses-at-the-scale-aotearoa-needs/index.html
+layout: layout.njk
 ---
 Only The Green Party Will Build Houses At The Scale Aotearoa Needs
 ==================================================================

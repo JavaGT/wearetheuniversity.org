@@ -1,9 +1,12 @@
 ---
 slug: more-film-success-for-massey-graduate
-title: "More film success for Massey graduate"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/CU0806/S00151/more-film-success-for-massey-graduate.htm
+title: More film success for Massey graduate
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0806/S00151/more-film-success-for-massey-graduate.htm
 author: massey-university
+permalink: /archive/2008/06/17/more-film-success-for-massey-graduate/index.html
+layout: layout.njk
 ---
 More film success for Massey graduate
 =====================================

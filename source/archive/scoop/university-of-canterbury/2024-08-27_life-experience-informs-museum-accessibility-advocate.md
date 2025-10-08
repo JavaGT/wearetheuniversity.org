@@ -1,9 +1,13 @@
 ---
 slug: life-experience-informs-museum-accessibility-advocate
-title: "Life Experience Informs Museum Accessibility Advocate"
-date: 2024-08-27
-source-url: https://www.scoop.co.nz/stories/CU2408/S00303/life-experience-informs-museum-accessibility-advocate.htm
+title: Life Experience Informs Museum Accessibility Advocate
+date: 2024-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2408/S00303/life-experience-informs-museum-accessibility-advocate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/27/life-experience-informs-museum-accessibility-advocate/index.html
+layout: layout.njk
 ---
 Life Experience Informs Museum Accessibility Advocate
 =====================================================

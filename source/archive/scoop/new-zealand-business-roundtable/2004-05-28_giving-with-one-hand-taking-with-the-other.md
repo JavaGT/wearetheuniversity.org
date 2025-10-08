@@ -1,9 +1,12 @@
 ---
 slug: giving-with-one-hand-taking-with-the-other
-title: "Giving with one hand, taking with the other"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/ED0405/S00121/giving-with-one-hand-taking-with-the-other.htm
+title: Giving with one hand, taking with the other
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00121/giving-with-one-hand-taking-with-the-other.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/05/28/giving-with-one-hand-taking-with-the-other/index.html
+layout: layout.njk
 ---
 Giving with one hand, taking with the other
 ===========================================

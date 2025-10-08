@@ -1,9 +1,13 @@
 ---
 slug: plan-to-put-teachers-on-skills-shortage-list-proves-crisis
-title: "Plan to put teachers on skills shortage list proves crisis"
-date: 2018-10-12
-source-url: https://www.scoop.co.nz/stories/ED1810/S00022/plan-to-put-teachers-on-skills-shortage-list-proves-crisis.htm
+title: Plan to put teachers on skills shortage list proves crisis
+date: 2018-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00022/plan-to-put-teachers-on-skills-shortage-list-proves-crisis.htm
 author: nzei
+permalink: >-
+  /archive/2018/10/12/plan-to-put-teachers-on-skills-shortage-list-proves-crisis/index.html
+layout: layout.njk
 ---
 Plan to put teachers on skills shortage list proves crisis
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: financial-sting-from-honeybee-loss
-title: "Financial sting from honeybee loss"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/BU1608/S00025/financial-sting-from-honeybee-loss.htm
+title: Financial sting from honeybee loss
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1608/S00025/financial-sting-from-honeybee-loss.htm
 author: lincoln-university
+permalink: /archive/2016/08/01/financial-sting-from-honeybee-loss/index.html
+layout: layout.njk
 ---
 Financial sting from honeybee loss
 ==================================

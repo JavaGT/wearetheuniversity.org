@@ -1,9 +1,12 @@
 ---
 slug: students-encouraged-by-public-transport-poll
-title: "Students encouraged by public transport poll"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PO1302/S00253/students-encouraged-by-public-transport-poll.htm
+title: Students encouraged by public transport poll
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00253/students-encouraged-by-public-transport-poll.htm
 author: vuwsa
+permalink: /archive/2013/02/26/students-encouraged-by-public-transport-poll/index.html
+layout: layout.njk
 ---
 Students encouraged by public transport poll
 ============================================

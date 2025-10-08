@@ -1,9 +1,16 @@
 ---
-slug: massey-university-vice-chancellor-faces-slew-of-angry-staff-and-students-over-proposed-cuts
-title: "Massey University Vice Chancellor Faces Slew Of Angry Staff And Students Over Proposed Cuts"
-date: 2023-10-19
-source-url: https://www.scoop.co.nz/stories/ED2310/S00027/massey-university-vice-chancellor-faces-slew-of-angry-staff-and-students-over-proposed-cuts.htm
+slug: >-
+  massey-university-vice-chancellor-faces-slew-of-angry-staff-and-students-over-proposed-cuts
+title: >-
+  Massey University Vice Chancellor Faces Slew Of Angry Staff And Students Over
+  Proposed Cuts
+date: 2023-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00027/massey-university-vice-chancellor-faces-slew-of-angry-staff-and-students-over-proposed-cuts.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2023/10/19/massey-university-vice-chancellor-faces-slew-of-angry-staff-and-students-over-proposed-cuts/index.html
+layout: layout.njk
 ---
 Massey University Vice Chancellor Faces Slew Of Angry Staff And Students Over Proposed Cuts
 ===========================================================================================

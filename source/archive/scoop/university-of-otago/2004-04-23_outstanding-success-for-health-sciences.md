@@ -1,9 +1,12 @@
 ---
 slug: outstanding-success-for-health-sciences
-title: "Outstanding Success For Health Sciences"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00088/outstanding-success-for-health-sciences.htm
+title: Outstanding Success For Health Sciences
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00088/outstanding-success-for-health-sciences.htm
 author: university-of-otago
+permalink: /archive/2004/04/23/outstanding-success-for-health-sciences/index.html
+layout: layout.njk
 ---
 Outstanding Success For Health Sciences
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: engineers-carrying-out-biggest-tests-in-southern-hemisphere
-title: "Engineers carrying out biggest tests in southern hemisphere"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/SC1505/S00024/engineers-carrying-out-biggest-tests-in-southern-hemisphere.htm
+title: Engineers carrying out biggest tests in southern hemisphere
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00024/engineers-carrying-out-biggest-tests-in-southern-hemisphere.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/08/engineers-carrying-out-biggest-tests-in-southern-hemisphere/index.html
+layout: layout.njk
 ---
 Engineers carrying out biggest tests in southern hemisphere
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: claude-mccarthy-fellowship-awards-for-university-of-waikato
-title: "Claude McCarthy Fellowship awards for University of Waikato"
-date: 2013-12-05
-source-url: https://www.scoop.co.nz/stories/ED1312/S00039/claude-mccarthy-fellowship-awards-for-university-of-waikato.htm
+title: Claude McCarthy Fellowship awards for University of Waikato
+date: 2013-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00039/claude-mccarthy-fellowship-awards-for-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/12/05/claude-mccarthy-fellowship-awards-for-university-of-waikato/index.html
+layout: layout.njk
 ---
 Claude McCarthy Fellowship awards for University of Waikato
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-onset-and-use-of-non-medical-drugs-in-nz
-title: "The onset and use of non-medical drugs in NZ"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/GE0903/S00001/the-onset-and-use-of-non-medical-drugs-in-nz.htm
+title: The onset and use of non-medical drugs in NZ
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0903/S00001/the-onset-and-use-of-non-medical-drugs-in-nz.htm
 author: university-of-otago
+permalink: /archive/2009/03/02/the-onset-and-use-of-non-medical-drugs-in-nz/index.html
+layout: layout.njk
 ---
 The onset and use of non-medical drugs in NZ
 ============================================

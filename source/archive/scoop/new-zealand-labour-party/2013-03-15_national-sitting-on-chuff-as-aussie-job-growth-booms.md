@@ -1,9 +1,13 @@
 ---
 slug: national-sitting-on-chuff-as-aussie-job-growth-booms
-title: "National Sitting On Chuff As Aussie Job Growth Booms"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/PA1303/S00260/national-sitting-on-chuff-as-aussie-job-growth-booms.htm
+title: National Sitting On Chuff As Aussie Job Growth Booms
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00260/national-sitting-on-chuff-as-aussie-job-growth-booms.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/15/national-sitting-on-chuff-as-aussie-job-growth-booms/index.html
+layout: layout.njk
 ---
 National Sitting On Chuff As Aussie Job Growth Booms
 ====================================================

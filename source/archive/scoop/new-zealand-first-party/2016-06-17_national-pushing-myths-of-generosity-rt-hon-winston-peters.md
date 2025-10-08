@@ -1,9 +1,13 @@
 ---
 slug: national-pushing-myths-of-generosity-rt-hon-winston-peters
-title: "\"National Pushing Myths Of Generosity\" Rt Hon Winston Peters"
-date: 2016-06-17
-source-url: https://www.scoop.co.nz/stories/PA1606/S00317/national-pushing-myths-of-generosity-rt-hon-winston-peters.htm
+title: '"National Pushing Myths Of Generosity" Rt Hon Winston Peters'
+date: 2016-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00317/national-pushing-myths-of-generosity-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/17/national-pushing-myths-of-generosity-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 "National Pushing Myths Of Generosity" Rt Hon Winston Peters
 ============================================================

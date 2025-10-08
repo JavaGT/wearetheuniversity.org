@@ -1,9 +1,13 @@
 ---
 slug: roger-kerr-receives-prestigious-australian-awards
-title: "Roger Kerr Receives Prestigious Australian Awards"
-date: 2011-08-01
-source-url: https://www.scoop.co.nz/stories/BU1108/S00058/roger-kerr-receives-prestigious-australian-awards.htm
+title: Roger Kerr Receives Prestigious Australian Awards
+date: 2011-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S00058/roger-kerr-receives-prestigious-australian-awards.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/08/01/roger-kerr-receives-prestigious-australian-awards/index.html
+layout: layout.njk
 ---
 Roger Kerr Receives Prestigious Australian Awards
 =================================================

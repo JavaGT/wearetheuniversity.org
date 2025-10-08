@@ -1,9 +1,12 @@
 ---
 slug: pen-pushers-win-with-school-mergers
-title: "Pen Pushers Win with School Mergers"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/PA1305/S00461/pen-pushers-win-with-school-mergers.htm
+title: Pen Pushers Win with School Mergers
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00461/pen-pushers-win-with-school-mergers.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/22/pen-pushers-win-with-school-mergers/index.html
+layout: layout.njk
 ---
 Pen Pushers Win with School Mergers
 ===================================

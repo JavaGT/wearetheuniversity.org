@@ -1,9 +1,13 @@
 ---
 slug: what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world
-title: "What Ideas From The Paleolithic Are Still With Us In The Modern World?"
-date: 2024-10-11
-source-url: https://www.scoop.co.nz/stories/WO2410/S00148/what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world.htm
+title: What Ideas From The Paleolithic Are Still With Us In The Modern World?
+date: 2024-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00148/what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/11/what-ideas-from-the-paleolithic-are-still-with-us-in-the-modern-world/index.html
+layout: layout.njk
 ---
 What Ideas From The Paleolithic Are Still With Us In The Modern World?
 ======================================================================

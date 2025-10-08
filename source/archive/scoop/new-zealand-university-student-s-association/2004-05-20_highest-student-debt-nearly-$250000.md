@@ -1,9 +1,12 @@
 ---
 slug: highest-student-debt-nearly-$250000
-title: "Highest student debt nearly $250,000"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/ED0405/S00078/highest-student-debt-nearly-250000.htm
+title: Highest student debt nearly $250,000
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00078/highest-student-debt-nearly-250000.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/20/highest-student-debt-nearly-/index.html
+layout: layout.njk
 ---
 Highest student debt nearly $250,000
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-continues-to-let-down-top-scholars
-title: "Labour continues to let down top scholars"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/PA0502/S00299/labour-continues-to-let-down-top-scholars.htm
+title: Labour continues to let down top scholars
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00299/labour-continues-to-let-down-top-scholars.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/14/labour-continues-to-let-down-top-scholars/index.html
+layout: layout.njk
 ---
 Labour continues to let down top scholars
 =========================================

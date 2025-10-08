@@ -1,9 +1,12 @@
 ---
 slug: optimistic-beliefs-offer-escape-from-recession
-title: "Optimistic Beliefs Offer Escape From Recession"
-date: 2009-04-06
-source-url: https://www.scoop.co.nz/stories/BU0904/S00115/optimistic-beliefs-offer-escape-from-recession.htm
+title: Optimistic Beliefs Offer Escape From Recession
+date: 2009-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0904/S00115/optimistic-beliefs-offer-escape-from-recession.htm
 author: university-of-auckland-business-school
+permalink: /archive/2009/04/06/optimistic-beliefs-offer-escape-from-recession/index.html
+layout: layout.njk
 ---
 Optimistic Beliefs Offer Escape From Recession
 ==============================================

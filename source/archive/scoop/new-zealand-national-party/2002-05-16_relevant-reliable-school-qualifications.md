@@ -1,9 +1,12 @@
 ---
 slug: relevant-reliable-school-qualifications
-title: "Relevant, Reliable School Qualifications"
-date: 2002-05-16
-source-url: https://www.scoop.co.nz/stories/PA0205/S00332/relevant-reliable-school-qualifications.htm
+title: Relevant, Reliable School Qualifications
+date: 2002-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00332/relevant-reliable-school-qualifications.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/16/relevant-reliable-school-qualifications/index.html
+layout: layout.njk
 ---
 Relevant, Reliable School Qualifications
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: bad-debts-will-rise-as-borrowers-borrow-more
-title: "Bad debts will rise as borrowers borrow more"
-date: 2005-11-04
-source-url: https://www.scoop.co.nz/stories/PA0511/S00058/bad-debts-will-rise-as-borrowers-borrow-more.htm
+title: Bad debts will rise as borrowers borrow more
+date: 2005-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00058/bad-debts-will-rise-as-borrowers-borrow-more.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/04/bad-debts-will-rise-as-borrowers-borrow-more/index.html
+layout: layout.njk
 ---
 Bad debts will rise as borrowers borrow more
 ============================================

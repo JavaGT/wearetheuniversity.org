@@ -1,9 +1,13 @@
 ---
 slug: home-visiting-programme-can-dramatically-reduce-child-abuse
-title: "Home visiting programme can dramatically reduce child abuse"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/PO1211/S00179/home-visiting-programme-can-dramatically-reduce-child-abuse.htm
+title: Home visiting programme can dramatically reduce child abuse
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00179/home-visiting-programme-can-dramatically-reduce-child-abuse.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/11/13/home-visiting-programme-can-dramatically-reduce-child-abuse/index.html
+layout: layout.njk
 ---
 Home visiting programme can dramatically reduce child abuse
 ===========================================================

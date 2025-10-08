@@ -1,9 +1,13 @@
 ---
 slug: from-steno-pads-and-shorthand-to-ai-in-newsrooms
-title: "From Steno Pads And Shorthand To AI In Newsrooms"
-date: 2022-12-05
-source-url: https://www.scoop.co.nz/stories/ED2212/S00008/from-steno-pads-and-shorthand-to-ai-in-newsrooms.htm
+title: From Steno Pads And Shorthand To AI In Newsrooms
+date: 2022-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00008/from-steno-pads-and-shorthand-to-ai-in-newsrooms.htm
 author: aut-university
+permalink: >-
+  /archive/2022/12/05/from-steno-pads-and-shorthand-to-ai-in-newsrooms/index.html
+layout: layout.njk
 ---
 From Steno Pads And Shorthand To AI In Newsrooms
 ================================================

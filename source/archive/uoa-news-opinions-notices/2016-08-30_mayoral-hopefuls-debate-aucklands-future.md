@@ -1,8 +1,11 @@
 ---
 slug: mayoral-hopefuls-debate-aucklands-future
-title: "Mayoral hopefuls debate Auckland’s future"
-date: 2016-08-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/mayoral-hopefuls-debate-aucklands-future.html
+title: Mayoral hopefuls debate Auckland’s future
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/mayoral-hopefuls-debate-aucklands-future.html
+permalink: /archive/2016/08/30/mayoral-hopefuls-debate-aucklands-future/index.html
+layout: layout.njk
 ---
 Mayoral hopefuls debate Auckland’s future
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: chinese-visa-fraud-requires-urgent-investigation
-title: "Chinese Visa Fraud Requires Urgent Investigation"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/PA1207/S00138/chinese-visa-fraud-requires-urgent-investigation.htm
+title: Chinese Visa Fraud Requires Urgent Investigation
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00138/chinese-visa-fraud-requires-urgent-investigation.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/07/11/chinese-visa-fraud-requires-urgent-investigation/index.html
+layout: layout.njk
 ---
 Chinese Visa Fraud Requires Urgent Investigation
 ================================================

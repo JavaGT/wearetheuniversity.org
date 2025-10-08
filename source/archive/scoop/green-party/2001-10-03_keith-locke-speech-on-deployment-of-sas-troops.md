@@ -1,9 +1,12 @@
 ---
 slug: keith-locke-speech-on-deployment-of-sas-troops
-title: "Keith Locke Speech On Deployment Of SAS Troops"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00081/keith-locke-speech-on-deployment-of-sas-troops.htm
+title: Keith Locke Speech On Deployment Of SAS Troops
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00081/keith-locke-speech-on-deployment-of-sas-troops.htm
 author: green-party
+permalink: /archive/2001/10/03/keith-locke-speech-on-deployment-of-sas-troops/index.html
+layout: layout.njk
 ---
 Keith Locke Speech On Deployment Of SAS Troops
 ==============================================

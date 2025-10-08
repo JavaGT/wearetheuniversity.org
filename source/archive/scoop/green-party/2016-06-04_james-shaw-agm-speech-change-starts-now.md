@@ -1,9 +1,12 @@
 ---
 slug: james-shaw-agm-speech-change-starts-now
-title: "James Shaw AGM speech – Change starts now"
-date: 2016-06-04
-source-url: https://www.scoop.co.nz/stories/PA1606/S00092/james-shaw-agm-speech-change-starts-now.htm
+title: James Shaw AGM speech – Change starts now
+date: 2016-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00092/james-shaw-agm-speech-change-starts-now.htm
 author: green-party
+permalink: /archive/2016/06/04/james-shaw-agm-speech-change-starts-now/index.html
+layout: layout.njk
 ---
 James Shaw AGM speech – Change starts now
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: sheep-dairy-better-match-for-clean-green-image
-title: "Sheep dairy better match for clean green image"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/BU1711/S00080/sheep-dairy-better-match-for-clean-green-image.htm
+title: Sheep dairy better match for clean green image
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1711/S00080/sheep-dairy-better-match-for-clean-green-image.htm
 author: lincoln-university
+permalink: /archive/2017/11/02/sheep-dairy-better-match-for-clean-green-image/index.html
+layout: layout.njk
 ---
 Sheep dairy better match for clean green image
 ==============================================

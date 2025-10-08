@@ -1,9 +1,13 @@
 ---
 slug: national-mp-implicated-in-taratahi-funding-rorts
-title: "National MP implicated in Taratahi funding rorts"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/PA1509/S00280/national-mp-implicated-in-taratahi-funding-rorts.htm
+title: National MP implicated in Taratahi funding rorts
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00280/national-mp-implicated-in-taratahi-funding-rorts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/16/national-mp-implicated-in-taratahi-funding-rorts/index.html
+layout: layout.njk
 ---
 National MP implicated in Taratahi funding rorts
 ================================================

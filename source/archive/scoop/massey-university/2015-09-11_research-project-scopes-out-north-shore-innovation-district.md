@@ -1,9 +1,13 @@
 ---
 slug: research-project-scopes-out-north-shore-innovation-district
-title: "Research project scopes out North Shore innovation district"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/BU1509/S00425/research-project-scopes-out-north-shore-innovation-district.htm
+title: Research project scopes out North Shore innovation district
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1509/S00425/research-project-scopes-out-north-shore-innovation-district.htm
 author: massey-university
+permalink: >-
+  /archive/2015/09/11/research-project-scopes-out-north-shore-innovation-district/index.html
+layout: layout.njk
 ---
 Research project scopes out North Shore innovation district
 ===========================================================

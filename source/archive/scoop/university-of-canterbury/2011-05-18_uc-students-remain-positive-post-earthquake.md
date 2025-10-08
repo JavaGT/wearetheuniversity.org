@@ -1,9 +1,12 @@
 ---
 slug: uc-students-remain-positive-post-earthquake
-title: "UC students remain positive post-earthquake"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/ED1105/S00071/uc-students-remain-positive-post-earthquake.htm
+title: UC students remain positive post-earthquake
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00071/uc-students-remain-positive-post-earthquake.htm
 author: university-of-canterbury
+permalink: /archive/2011/05/18/uc-students-remain-positive-post-earthquake/index.html
+layout: layout.njk
 ---
 UC students remain positive post-earthquake
 ===========================================

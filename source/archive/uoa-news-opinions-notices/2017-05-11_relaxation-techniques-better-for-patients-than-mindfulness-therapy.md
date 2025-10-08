@@ -1,8 +1,12 @@
 ---
 slug: relaxation-techniques-better-for-patients-than-mindfulness-therapy
-title: "Relaxation techniques better for patients than mindfulness therapy"
-date: 2017-05-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/relaxation-techniques-better-for-patients-than-mindfulness-thera.html
+title: Relaxation techniques better for patients than mindfulness therapy
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/relaxation-techniques-better-for-patients-than-mindfulness-thera.html
+permalink: >-
+  /archive/2017/05/11/relaxation-techniques-better-for-patients-than-mindfulness-therapy/index.html
+layout: layout.njk
 ---
 Relaxation techniques better for patients than mindfulness therapy
 ==================================================================

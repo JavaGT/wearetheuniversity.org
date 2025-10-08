@@ -1,9 +1,12 @@
 ---
 slug: asian-survey-result-sad-but-predictable
-title: "Asian Survey Result Sad But Predictable"
-date: 2003-03-21
-source-url: https://www.scoop.co.nz/stories/PA0303/S00392/asian-survey-result-sad-but-predictable.htm
+title: Asian Survey Result Sad But Predictable
+date: 2003-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00392/asian-survey-result-sad-but-predictable.htm
 author: new-zealand-first-party
+permalink: /archive/2003/03/21/asian-survey-result-sad-but-predictable/index.html
+layout: layout.njk
 ---
 Asian Survey Result Sad But Predictable
 =======================================

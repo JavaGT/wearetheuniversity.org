@@ -1,9 +1,12 @@
 ---
 slug: government-remains-blind-to-organic-wisdom
-title: "Government remains blind to organic wisdom"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00188/government-remains-blind-to-organic-wisdom.htm
+title: Government remains blind to organic wisdom
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00188/government-remains-blind-to-organic-wisdom.htm
 author: green-party
+permalink: /archive/2003/11/10/government-remains-blind-to-organic-wisdom/index.html
+layout: layout.njk
 ---
 Government remains blind to organic wisdom
 ==========================================

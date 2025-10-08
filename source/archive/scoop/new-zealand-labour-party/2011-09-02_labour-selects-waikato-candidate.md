@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-waikato-candidate
-title: "Labour selects Waikato candidate"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PA1109/S00050/labour-selects-waikato-candidate.htm
+title: Labour selects Waikato candidate
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00050/labour-selects-waikato-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/02/labour-selects-waikato-candidate/index.html
+layout: layout.njk
 ---
 Labour selects Waikato candidate
 ================================

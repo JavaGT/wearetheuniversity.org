@@ -1,9 +1,12 @@
 ---
 slug: university-rejects-students-association-bailout
-title: "University Rejects Students’ Association Bailout"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/ED0102/S00026/university-rejects-students-association-bailout.htm
+title: University Rejects Students’ Association Bailout
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00026/university-rejects-students-association-bailout.htm
 author: otago-university-students-association
+permalink: /archive/2001/02/20/university-rejects-students-association-bailout/index.html
+layout: layout.njk
 ---
 University Rejects Students’ Association Bailout
 ================================================

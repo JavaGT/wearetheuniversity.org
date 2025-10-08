@@ -1,9 +1,13 @@
 ---
 slug: minister-doesnt-know-his-own-partys-prison-policy
-title: "Minister Doesn’t Know His Own Party's Prison Policy"
-date: 2023-05-10
-source-url: https://www.scoop.co.nz/stories/PA2305/S00064/minister-doesnt-know-his-own-partys-prison-policy.htm
+title: Minister Doesn’t Know His Own Party's Prison Policy
+date: 2023-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00064/minister-doesnt-know-his-own-partys-prison-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/05/10/minister-doesnt-know-his-own-partys-prison-policy/index.html
+layout: layout.njk
 ---
 Minister Doesn’t Know His Own Party's Prison Policy
 ===================================================

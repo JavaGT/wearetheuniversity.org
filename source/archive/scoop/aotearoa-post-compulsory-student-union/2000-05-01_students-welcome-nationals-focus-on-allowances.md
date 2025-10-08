@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-nationals-focus-on-allowances
-title: "Students Welcome National's Focus On Allowances"
-date: 2000-05-01
-source-url: https://www.scoop.co.nz/stories/ED0005/S00002/students-welcome-nationals-focus-on-allowances.htm
+title: Students Welcome National's Focus On Allowances
+date: 2000-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00002/students-welcome-nationals-focus-on-allowances.htm
 author: aotearoa-post-compulsory-student-union
+permalink: /archive/2000/05/01/students-welcome-nationals-focus-on-allowances/index.html
+layout: layout.njk
 ---
 Students Welcome National's Focus On Allowances
 ===============================================

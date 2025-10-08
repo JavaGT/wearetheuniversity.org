@@ -1,9 +1,12 @@
 ---
 slug: housing-for-refugees-while-kiwis-live-in-camps
-title: "Housing For Refugees While Kiwis Live In Camps"
-date: 2008-03-13
-source-url: https://www.scoop.co.nz/stories/PA0803/S00240/housing-for-refugees-while-kiwis-live-in-camps.htm
+title: Housing For Refugees While Kiwis Live In Camps
+date: 2008-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00240/housing-for-refugees-while-kiwis-live-in-camps.htm
 author: new-zealand-first-party
+permalink: /archive/2008/03/13/housing-for-refugees-while-kiwis-live-in-camps/index.html
+layout: layout.njk
 ---
 Housing For Refugees While Kiwis Live In Camps
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-affairs-minister-must-front
-title: "Maori Affairs Minister must front"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/PA0702/S00220/maori-affairs-minister-must-front.htm
+title: Maori Affairs Minister must front
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00220/maori-affairs-minister-must-front.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/13/maori-affairs-minister-must-front/index.html
+layout: layout.njk
 ---
 Maori Affairs Minister must front
 =================================

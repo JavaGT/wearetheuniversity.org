@@ -1,9 +1,13 @@
 ---
 slug: ministry-of-health-self-isolating-new-arrivals-low-risk
-title: "Ministry Of Health: Self-isolating New Arrivals Low Risk"
-date: 2022-02-04
-source-url: https://www.scoop.co.nz/stories/PA2202/S00038/ministry-of-health-self-isolating-new-arrivals-low-risk.htm
+title: 'Ministry Of Health: Self-isolating New Arrivals Low Risk'
+date: 2022-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00038/ministry-of-health-self-isolating-new-arrivals-low-risk.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/02/04/ministry-of-health-self-isolating-new-arrivals-low-risk/index.html
+layout: layout.njk
 ---
 Ministry Of Health: Self-isolating New Arrivals Low Risk
 ========================================================

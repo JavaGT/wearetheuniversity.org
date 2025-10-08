@@ -1,9 +1,13 @@
 ---
 slug: immigration-minister-to-blame-for-delayed-reopening
-title: "Immigration Minister To Blame For Delayed Reopening"
-date: 2022-03-17
-source-url: https://www.scoop.co.nz/stories/PA2203/S00145/immigration-minister-to-blame-for-delayed-reopening.htm
+title: Immigration Minister To Blame For Delayed Reopening
+date: 2022-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00145/immigration-minister-to-blame-for-delayed-reopening.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/03/17/immigration-minister-to-blame-for-delayed-reopening/index.html
+layout: layout.njk
 ---
 Immigration Minister To Blame For Delayed Reopening
 ===================================================

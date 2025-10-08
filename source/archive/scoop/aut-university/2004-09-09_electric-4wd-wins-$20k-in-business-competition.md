@@ -1,9 +1,12 @@
 ---
 slug: electric-4wd-wins-$20k-in-business-competition
-title: "Electric 4WD wins $20K in business competition"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/ED0409/S00032/electric-4wd-wins-20k-in-business-competition.htm
+title: Electric 4WD wins $20K in business competition
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00032/electric-4wd-wins-20k-in-business-competition.htm
 author: aut-university
+permalink: /archive/2004/09/09/electric-4wd-wins-/index.html
+layout: layout.njk
 ---
 Electric 4WD wins $20K in business competition
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: education-minister-has-credibility-problem
-title: "Education Minister has credibility problem"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/PA0706/S00103/education-minister-has-credibility-problem.htm
+title: Education Minister has credibility problem
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00103/education-minister-has-credibility-problem.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/07/education-minister-has-credibility-problem/index.html
+layout: layout.njk
 ---
 Education Minister has credibility problem
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-launch-of-te-ohu-tāmaki-and-challenges-other-parties-on-housing
-title: "Greens Welcome Launch Of Te Ohu Tāmaki And Challenges Other Parties On Housing"
-date: 2023-09-06
-source-url: https://www.scoop.co.nz/stories/PO2309/S00040/greens-welcome-launch-of-te-ohu-tamaki-and-challenges-other-parties-on-housing.htm
+title: Greens Welcome Launch Of Te Ohu Tāmaki And Challenges Other Parties On Housing
+date: 2023-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00040/greens-welcome-launch-of-te-ohu-tamaki-and-challenges-other-parties-on-housing.htm
 author: green-party
+permalink: /archive/2023/09/06/greens-welcome-launch-of-te-ohu-t/index.html
+layout: layout.njk
 ---
 Greens Welcome Launch Of Te Ohu Tāmaki And Challenges Other Parties On Housing
 ==============================================================================

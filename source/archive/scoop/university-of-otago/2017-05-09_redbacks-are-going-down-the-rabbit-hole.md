@@ -1,9 +1,12 @@
 ---
 slug: redbacks-are-going-down-the-rabbit-hole
-title: "Redbacks are going down the rabbit hole"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/AK1705/S00219/redbacks-are-going-down-the-rabbit-hole.htm
+title: Redbacks are going down the rabbit hole
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1705/S00219/redbacks-are-going-down-the-rabbit-hole.htm
 author: university-of-otago
+permalink: /archive/2017/05/09/redbacks-are-going-down-the-rabbit-hole/index.html
+layout: layout.njk
 ---
 Redbacks are going down the rabbit hole
 =======================================

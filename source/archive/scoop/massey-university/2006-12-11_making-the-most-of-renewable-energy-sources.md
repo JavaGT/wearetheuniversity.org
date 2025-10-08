@@ -1,9 +1,12 @@
 ---
 slug: making-the-most-of-renewable-energy-sources
-title: "Making the most of renewable energy sources"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/ED0612/S00029/making-the-most-of-renewable-energy-sources.htm
+title: Making the most of renewable energy sources
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00029/making-the-most-of-renewable-energy-sources.htm
 author: massey-university
+permalink: /archive/2006/12/11/making-the-most-of-renewable-energy-sources/index.html
+layout: layout.njk
 ---
 Making the most of renewable energy sources
 ===========================================

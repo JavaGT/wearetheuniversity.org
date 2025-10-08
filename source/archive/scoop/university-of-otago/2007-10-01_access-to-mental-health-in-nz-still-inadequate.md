@@ -1,9 +1,12 @@
 ---
 slug: access-to-mental-health-in-nz-still-inadequate
-title: "Access to mental health in NZ still inadequate"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/GE0710/S00007/access-to-mental-health-in-nz-still-inadequate.htm
+title: Access to mental health in NZ still inadequate
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0710/S00007/access-to-mental-health-in-nz-still-inadequate.htm
 author: university-of-otago
+permalink: /archive/2007/10/01/access-to-mental-health-in-nz-still-inadequate/index.html
+layout: layout.njk
 ---
 Access to mental health in NZ still inadequate
 ==============================================

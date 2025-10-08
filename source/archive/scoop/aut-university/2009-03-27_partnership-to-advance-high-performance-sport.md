@@ -1,9 +1,12 @@
 ---
 slug: partnership-to-advance-high-performance-sport
-title: "Partnership to advance high performance sport"
-date: 2009-03-27
-source-url: https://www.scoop.co.nz/stories/CU0903/S00385/partnership-to-advance-high-performance-sport.htm
+title: Partnership to advance high performance sport
+date: 2009-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00385/partnership-to-advance-high-performance-sport.htm
 author: aut-university
+permalink: /archive/2009/03/27/partnership-to-advance-high-performance-sport/index.html
+layout: layout.njk
 ---
 Partnership to advance high performance sport
 =============================================

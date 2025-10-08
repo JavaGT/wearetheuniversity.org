@@ -1,9 +1,12 @@
 ---
 slug: four-ways-steve-maharey-lied-today
-title: "Four Ways Steve Maharey Lied Today"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/ED0103/S00046/four-ways-steve-maharey-lied-today.htm
+title: Four Ways Steve Maharey Lied Today
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00046/four-ways-steve-maharey-lied-today.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/22/four-ways-steve-maharey-lied-today/index.html
+layout: layout.njk
 ---
 Four Ways Steve Maharey Lied Today
 ==================================

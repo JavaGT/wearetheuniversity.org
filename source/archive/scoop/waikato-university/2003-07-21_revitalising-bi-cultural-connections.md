@@ -1,9 +1,12 @@
 ---
 slug: revitalising-bi-cultural-connections
-title: "Revitalising bi-cultural connections"
-date: 2003-07-21
-source-url: https://www.scoop.co.nz/stories/ED0307/S00052/revitalising-bi-cultural-connections.htm
+title: Revitalising bi-cultural connections
+date: 2003-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00052/revitalising-bi-cultural-connections.htm
 author: waikato-university
+permalink: /archive/2003/07/21/revitalising-bi-cultural-connections/index.html
+layout: layout.njk
 ---
 Revitalising bi-cultural connections
 ====================================

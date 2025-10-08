@@ -1,9 +1,13 @@
 ---
 slug: what-does-the-new-ipcc-climate-report-mean-for-our-cities
-title: "What Does The New IPCC Climate Report Mean For Our Cities?"
-date: 2022-02-16
-source-url: https://www.scoop.co.nz/stories/AK2202/S00329/what-does-the-new-ipcc-climate-report-mean-for-our-cities.htm
+title: What Does The New IPCC Climate Report Mean For Our Cities?
+date: 2022-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2202/S00329/what-does-the-new-ipcc-climate-report-mean-for-our-cities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/02/16/what-does-the-new-ipcc-climate-report-mean-for-our-cities/index.html
+layout: layout.njk
 ---
 What Does The New IPCC Climate Report Mean For Our Cities?
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: fire-on-the-university-of-canterbury-dovedale-campus
-title: "Fire on the University of Canterbury Dovedale campus"
-date: 2018-03-10
-source-url: https://www.scoop.co.nz/stories/AK1803/S00263/fire-on-the-university-of-canterbury-dovedale-campus.htm
+title: Fire on the University of Canterbury Dovedale campus
+date: 2018-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1803/S00263/fire-on-the-university-of-canterbury-dovedale-campus.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/10/fire-on-the-university-of-canterbury-dovedale-campus/index.html
+layout: layout.njk
 ---
 Fire on the University of Canterbury Dovedale campus
 ====================================================

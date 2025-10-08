@@ -1,9 +1,12 @@
 ---
 slug: hamiltonians-score-top-university-scholarship
-title: "Hamiltonians score top university scholarship"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/ED1603/S00012/hamiltonians-score-top-university-scholarship.htm
+title: Hamiltonians score top university scholarship
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00012/hamiltonians-score-top-university-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2016/03/02/hamiltonians-score-top-university-scholarship/index.html
+layout: layout.njk
 ---
 Hamiltonians score top university scholarship
 =============================================

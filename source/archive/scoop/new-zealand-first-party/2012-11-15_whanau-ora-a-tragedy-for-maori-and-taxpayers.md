@@ -1,9 +1,12 @@
 ---
 slug: whanau-ora-a-tragedy-for-maori-and-taxpayers
-title: "Whanau Ora a Tragedy for Maori And Taxpayers"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/PA1211/S00263/whanau-ora-a-tragedy-for-maori-and-taxpayers.htm
+title: Whanau Ora a Tragedy for Maori And Taxpayers
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00263/whanau-ora-a-tragedy-for-maori-and-taxpayers.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/15/whanau-ora-a-tragedy-for-maori-and-taxpayers/index.html
+layout: layout.njk
 ---
 Whanau Ora a Tragedy for Maori And Taxpayers
 ============================================

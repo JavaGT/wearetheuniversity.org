@@ -1,9 +1,13 @@
 ---
 slug: outstanding-all-rounder-heading-to-cambridge-university
-title: "Outstanding all-rounder heading to Cambridge University"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/ED1403/S00161/outstanding-all-rounder-heading-to-cambridge-university.htm
+title: Outstanding all-rounder heading to Cambridge University
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00161/outstanding-all-rounder-heading-to-cambridge-university.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/03/27/outstanding-all-rounder-heading-to-cambridge-university/index.html
+layout: layout.njk
 ---
 Outstanding all-rounder heading to Cambridge University
 =======================================================

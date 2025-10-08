@@ -1,9 +1,12 @@
 ---
 slug: building-trainee-numbers-plummet-in-canterbury
-title: "Building trainee numbers plummet in Canterbury"
-date: 2011-07-26
-source-url: https://www.scoop.co.nz/stories/PA1107/S00408/building-trainee-numbers-plummet-in-canterbury.htm
+title: Building trainee numbers plummet in Canterbury
+date: 2011-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00408/building-trainee-numbers-plummet-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/26/building-trainee-numbers-plummet-in-canterbury/index.html
+layout: layout.njk
 ---
 Building trainee numbers plummet in Canterbury
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: winston-peter-speech-protecting-our-people
-title: "Winston Peter Speech: Protecting Our People"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PO1103/S00053/winston-peter-speech-protecting-our-people.htm
+title: 'Winston Peter Speech: Protecting Our People'
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00053/winston-peter-speech-protecting-our-people.htm
 author: new-zealand-first-party
+permalink: /archive/2011/03/08/winston-peter-speech-protecting-our-people/index.html
+layout: layout.njk
 ---
 Winston Peter Speech: Protecting Our People
 ===========================================

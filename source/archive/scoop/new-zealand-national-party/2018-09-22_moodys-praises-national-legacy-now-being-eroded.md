@@ -1,9 +1,12 @@
 ---
 slug: moodys-praises-national-legacy-now-being-eroded
-title: "Moody’s praises National legacy now being eroded"
-date: 2018-09-22
-source-url: https://www.scoop.co.nz/stories/PA1809/S00303/moodys-praises-national-legacy-now-being-eroded.htm
+title: Moody’s praises National legacy now being eroded
+date: 2018-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00303/moodys-praises-national-legacy-now-being-eroded.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/22/moodys-praises-national-legacy-now-being-eroded/index.html
+layout: layout.njk
 ---
 Moody’s praises National legacy now being eroded
 ================================================

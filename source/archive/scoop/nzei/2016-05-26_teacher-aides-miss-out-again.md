@@ -1,9 +1,11 @@
 ---
 slug: teacher-aides-miss-out-again
-title: "Teacher Aides miss out again"
-date: 2016-05-26
+title: Teacher Aides miss out again
+date: 2016-05-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1605/S00114/teacher-aides-miss-out-again.htm
 author: nzei
+permalink: /archive/2016/05/26/teacher-aides-miss-out-again/index.html
+layout: layout.njk
 ---
 Teacher Aides miss out again
 ============================

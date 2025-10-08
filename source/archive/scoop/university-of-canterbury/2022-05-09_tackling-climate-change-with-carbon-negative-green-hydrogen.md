@@ -1,9 +1,13 @@
 ---
 slug: tackling-climate-change-with-carbon-negative-green-hydrogen
-title: "Tackling Climate Change With ‘Carbon Negative’ Green Hydrogen"
-date: 2022-05-09
-source-url: https://www.scoop.co.nz/stories/ED2205/S00019/tackling-climate-change-with-carbon-negative-green-hydrogen.htm
+title: Tackling Climate Change With ‘Carbon Negative’ Green Hydrogen
+date: 2022-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00019/tackling-climate-change-with-carbon-negative-green-hydrogen.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/09/tackling-climate-change-with-carbon-negative-green-hydrogen/index.html
+layout: layout.njk
 ---
 Tackling Climate Change With ‘Carbon Negative’ Green Hydrogen
 =============================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-hides-south-auckland-teacher-crisis
-title: "Minister hides South Auckland teacher crisis"
-date: 2007-09-18
-source-url: https://www.scoop.co.nz/stories/PA0709/S00294/minister-hides-south-auckland-teacher-crisis.htm
+title: Minister hides South Auckland teacher crisis
+date: 2007-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00294/minister-hides-south-auckland-teacher-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/18/minister-hides-south-auckland-teacher-crisis/index.html
+layout: layout.njk
 ---
 Minister hides South Auckland teacher crisis
 ============================================

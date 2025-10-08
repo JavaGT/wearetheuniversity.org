@@ -1,9 +1,12 @@
 ---
 slug: aut-moves-to-web-system-for-policy-promotion
-title: "AUT moves to web system for policy promotion"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/ED0312/S00060/aut-moves-to-web-system-for-policy-promotion.htm
+title: AUT moves to web system for policy promotion
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00060/aut-moves-to-web-system-for-policy-promotion.htm
 author: aut-university
+permalink: /archive/2003/12/12/aut-moves-to-web-system-for-policy-promotion/index.html
+layout: layout.njk
 ---
 AUT moves to web system for policy promotion
 ============================================

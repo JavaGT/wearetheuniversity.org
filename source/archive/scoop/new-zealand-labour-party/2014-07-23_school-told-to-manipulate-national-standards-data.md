@@ -1,9 +1,13 @@
 ---
 slug: school-told-to-manipulate-national-standards-data
-title: "School told to manipulate national standards data"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PA1407/S00430/school-told-to-manipulate-national-standards-data.htm
+title: School told to manipulate national standards data
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00430/school-told-to-manipulate-national-standards-data.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/23/school-told-to-manipulate-national-standards-data/index.html
+layout: layout.njk
 ---
 School told to manipulate national standards data
 =================================================

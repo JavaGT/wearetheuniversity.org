@@ -1,9 +1,12 @@
 ---
 slug: director-general-explores-the-pacifics-future
-title: "Director General explores the Pacific’s future"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/PO1610/S00204/director-general-explores-the-pacifics-future.htm
+title: Director General explores the Pacific’s future
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00204/director-general-explores-the-pacifics-future.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/13/director-general-explores-the-pacifics-future/index.html
+layout: layout.njk
 ---
 Director General explores the Pacific’s future
 ==============================================

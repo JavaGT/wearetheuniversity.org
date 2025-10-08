@@ -1,9 +1,13 @@
 ---
 slug: ministry-of-education-to-get-billed-for-novopay-debacle
-title: "Ministry of Education to get billed for Novopay debacle"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/ED1211/S00047/ministry-of-education-to-get-billed-for-novopay-debacle.htm
+title: Ministry of Education to get billed for Novopay debacle
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00047/ministry-of-education-to-get-billed-for-novopay-debacle.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/06/ministry-of-education-to-get-billed-for-novopay-debacle/index.html
+layout: layout.njk
 ---
 Ministry of Education to get billed for Novopay debacle
 =======================================================

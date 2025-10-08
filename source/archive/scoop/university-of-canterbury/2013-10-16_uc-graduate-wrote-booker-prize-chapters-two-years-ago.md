@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-wrote-booker-prize-chapters-two-years-ago
-title: "UC graduate wrote Booker Prize chapters two years ago"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/CU1310/S00302/uc-graduate-wrote-booker-prize-chapters-two-years-ago.htm
+title: UC graduate wrote Booker Prize chapters two years ago
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00302/uc-graduate-wrote-booker-prize-chapters-two-years-ago.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/16/uc-graduate-wrote-booker-prize-chapters-two-years-ago/index.html
+layout: layout.njk
 ---
 UC graduate wrote Booker Prize chapters two years ago
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: hodgson-condoning-patient-suffering
-title: "Hodgson condoning patient suffering"
-date: 2006-09-18
-source-url: https://www.scoop.co.nz/stories/PA0609/S00392/hodgson-condoning-patient-suffering.htm
+title: Hodgson condoning patient suffering
+date: 2006-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00392/hodgson-condoning-patient-suffering.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/18/hodgson-condoning-patient-suffering/index.html
+layout: layout.njk
 ---
 Hodgson condoning patient suffering
 ===================================

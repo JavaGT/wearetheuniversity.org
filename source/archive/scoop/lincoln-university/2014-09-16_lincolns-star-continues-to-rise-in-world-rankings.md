@@ -1,9 +1,13 @@
 ---
 slug: lincolns-star-continues-to-rise-in-world-rankings
-title: "Lincoln’s star continues to rise in world rankings"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/ED1409/S00101/lincolns-star-continues-to-rise-in-world-rankings.htm
+title: Lincoln’s star continues to rise in world rankings
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00101/lincolns-star-continues-to-rise-in-world-rankings.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/09/16/lincolns-star-continues-to-rise-in-world-rankings/index.html
+layout: layout.njk
 ---
 Lincoln’s star continues to rise in world rankings
 ==================================================

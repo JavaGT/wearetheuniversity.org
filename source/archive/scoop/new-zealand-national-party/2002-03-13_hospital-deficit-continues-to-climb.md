@@ -1,9 +1,12 @@
 ---
 slug: hospital-deficit-continues-to-climb
-title: "Hospital Deficit Continues To Climb"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/PA0203/S00204/hospital-deficit-continues-to-climb.htm
+title: Hospital Deficit Continues To Climb
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00204/hospital-deficit-continues-to-climb.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/13/hospital-deficit-continues-to-climb/index.html
+layout: layout.njk
 ---
 Hospital Deficit Continues To Climb
 ===================================

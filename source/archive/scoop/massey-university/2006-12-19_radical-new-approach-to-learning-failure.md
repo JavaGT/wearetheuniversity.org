@@ -1,9 +1,12 @@
 ---
 slug: radical-new-approach-to-learning-failure
-title: "Radical new approach to learning failure"
-date: 2006-12-19
-source-url: https://www.scoop.co.nz/stories/ED0612/S00052/radical-new-approach-to-learning-failure.htm
+title: Radical new approach to learning failure
+date: 2006-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00052/radical-new-approach-to-learning-failure.htm
 author: massey-university
+permalink: /archive/2006/12/19/radical-new-approach-to-learning-failure/index.html
+layout: layout.njk
 ---
 Radical new approach to learning failure
 ========================================

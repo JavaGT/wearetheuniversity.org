@@ -1,9 +1,16 @@
 ---
-slug: alarming-differences-in-incidence-and-mortality-of-devastating-brain-haemorrhage-across-nz
-title: "Alarming Differences In Incidence And Mortality Of Devastating Brain Haemorrhage Across NZ"
-date: 2024-10-14
-source-url: https://www.scoop.co.nz/stories/GE2410/S00058/alarming-differences-in-incidence-and-mortality-of-devastating-brain-haemorrhage-across-nz.htm
+slug: >-
+  alarming-differences-in-incidence-and-mortality-of-devastating-brain-haemorrhage-across-nz
+title: >-
+  Alarming Differences In Incidence And Mortality Of Devastating Brain
+  Haemorrhage Across NZ
+date: 2024-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2410/S00058/alarming-differences-in-incidence-and-mortality-of-devastating-brain-haemorrhage-across-nz.htm
 author: aut-university
+permalink: >-
+  /archive/2024/10/14/alarming-differences-in-incidence-and-mortality-of-devastating-brain-haemorrhage-across-nz/index.html
+layout: layout.njk
 ---
 Alarming Differences In Incidence And Mortality Of Devastating Brain Haemorrhage Across NZ
 ==========================================================================================

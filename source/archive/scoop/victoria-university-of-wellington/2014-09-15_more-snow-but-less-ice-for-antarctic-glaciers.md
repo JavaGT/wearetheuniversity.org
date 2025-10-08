@@ -1,9 +1,12 @@
 ---
 slug: more-snow-but-less-ice-for-antarctic-glaciers
-title: "More snow but less ice for Antarctic glaciers"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/SC1409/S00060/more-snow-but-less-ice-for-antarctic-glaciers.htm
+title: More snow but less ice for Antarctic glaciers
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00060/more-snow-but-less-ice-for-antarctic-glaciers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/15/more-snow-but-less-ice-for-antarctic-glaciers/index.html
+layout: layout.njk
 ---
 More snow but less ice for Antarctic glaciers
 =============================================

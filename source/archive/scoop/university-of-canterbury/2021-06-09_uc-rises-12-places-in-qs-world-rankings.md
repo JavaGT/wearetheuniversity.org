@@ -1,9 +1,12 @@
 ---
 slug: uc-rises-12-places-in-qs-world-rankings
-title: "UC Rises 12 Places In QS World Rankings"
-date: 2021-06-09
-source-url: https://www.scoop.co.nz/stories/ED2106/S00012/uc-rises-12-places-in-qs-world-rankings.htm
+title: UC Rises 12 Places In QS World Rankings
+date: 2021-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00012/uc-rises-12-places-in-qs-world-rankings.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/09/uc-rises-12-places-in-qs-world-rankings/index.html
+layout: layout.njk
 ---
 UC Rises 12 Places In QS World Rankings
 =======================================

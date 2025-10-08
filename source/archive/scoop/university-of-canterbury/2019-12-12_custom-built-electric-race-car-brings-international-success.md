@@ -1,9 +1,13 @@
 ---
 slug: custom-built-electric-race-car-brings-international-success
-title: "Custom-built electric race car brings international success"
-date: 2019-12-12
-source-url: https://www.scoop.co.nz/stories/ED1912/S00034/custom-built-electric-race-car-brings-international-success.htm
+title: Custom-built electric race car brings international success
+date: 2019-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00034/custom-built-electric-race-car-brings-international-success.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/12/custom-built-electric-race-car-brings-international-success/index.html
+layout: layout.njk
 ---
 Custom-built electric race car brings international success
 ===========================================================

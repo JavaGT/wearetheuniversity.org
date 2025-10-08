@@ -1,9 +1,13 @@
 ---
 slug: turia-third-reading-of-foreshore-and-seabed-bill
-title: "Turia: Third Reading Of Foreshore And Seabed Bill"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/PA0411/S00412/turia-third-reading-of-foreshore-and-seabed-bill.htm
+title: 'Turia: Third Reading Of Foreshore And Seabed Bill'
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00412/turia-third-reading-of-foreshore-and-seabed-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/11/18/turia-third-reading-of-foreshore-and-seabed-bill/index.html
+layout: layout.njk
 ---
 Turia: Third Reading Of Foreshore And Seabed Bill
 =================================================

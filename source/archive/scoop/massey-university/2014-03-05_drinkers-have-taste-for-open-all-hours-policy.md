@@ -1,9 +1,12 @@
 ---
 slug: drinkers-have-taste-for-open-all-hours-policy
-title: "Drinkers have taste for open all hours policy"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/PO1403/S00030/drinkers-have-taste-for-open-all-hours-policy.htm
+title: Drinkers have taste for open all hours policy
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00030/drinkers-have-taste-for-open-all-hours-policy.htm
 author: massey-university
+permalink: /archive/2014/03/05/drinkers-have-taste-for-open-all-hours-policy/index.html
+layout: layout.njk
 ---
 Drinkers have taste for open all hours policy
 =============================================

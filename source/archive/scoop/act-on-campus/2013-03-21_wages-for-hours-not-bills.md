@@ -1,9 +1,11 @@
 ---
 slug: wages-for-hours-not-bills
-title: "Wages for Hours, not Bills"
-date: 2013-03-21
+title: Wages for Hours, not Bills
+date: 2013-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1303/S00239/wages-for-hours-not-bills.htm
 author: act-on-campus
+permalink: /archive/2013/03/21/wages-for-hours-not-bills/index.html
+layout: layout.njk
 ---
 Wages for Hours, not Bills
 ==========================

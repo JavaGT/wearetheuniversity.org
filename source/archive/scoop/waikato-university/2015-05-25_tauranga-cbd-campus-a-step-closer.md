@@ -1,9 +1,12 @@
 ---
 slug: tauranga-cbd-campus-a-step-closer
-title: "Tauranga CBD campus a step closer"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/ED1505/S00090/tauranga-cbd-campus-a-step-closer.htm
+title: Tauranga CBD campus a step closer
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00090/tauranga-cbd-campus-a-step-closer.htm
 author: waikato-university
+permalink: /archive/2015/05/25/tauranga-cbd-campus-a-step-closer/index.html
+layout: layout.njk
 ---
 Tauranga CBD campus a step closer
 =================================

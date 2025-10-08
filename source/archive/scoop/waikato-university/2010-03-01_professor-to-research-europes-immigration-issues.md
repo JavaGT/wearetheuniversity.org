@@ -1,9 +1,13 @@
 ---
 slug: professor-to-research-europes-immigration-issues
-title: "Professor To Research Europe’s  Immigration Issues"
-date: 2010-03-01
-source-url: https://www.scoop.co.nz/stories/ED1003/S00002/professor-to-research-europes-immigration-issues.htm
+title: Professor To Research Europe’s  Immigration Issues
+date: 2010-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00002/professor-to-research-europes-immigration-issues.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/03/01/professor-to-research-europes-immigration-issues/index.html
+layout: layout.njk
 ---
 Professor To Research Europe’s Immigration Issues
 =================================================

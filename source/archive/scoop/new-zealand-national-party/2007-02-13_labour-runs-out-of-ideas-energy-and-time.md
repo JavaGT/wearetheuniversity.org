@@ -1,9 +1,12 @@
 ---
 slug: labour-runs-out-of-ideas-energy-and-time
-title: "Labour runs out of ideas, energy, and time"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/PA0702/S00206/labour-runs-out-of-ideas-energy-and-time.htm
+title: Labour runs out of ideas, energy, and time
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00206/labour-runs-out-of-ideas-energy-and-time.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/13/labour-runs-out-of-ideas-energy-and-time/index.html
+layout: layout.njk
 ---
 Labour runs out of ideas, energy, and time
 ==========================================

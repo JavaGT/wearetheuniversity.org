@@ -1,9 +1,11 @@
 ---
 slug: summer-is-cancelled
-title: "Summer Is Cancelled"
-date: 2021-10-15
+title: Summer Is Cancelled
+date: 2021-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2110/S00146/summer-is-cancelled.htm
 author: act-new-zealand
+permalink: /archive/2021/10/15/summer-is-cancelled/index.html
+layout: layout.njk
 ---
 Summer Is Cancelled
 ===================

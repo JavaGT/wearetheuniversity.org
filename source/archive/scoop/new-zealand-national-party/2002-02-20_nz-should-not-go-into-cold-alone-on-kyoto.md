@@ -1,9 +1,12 @@
 ---
 slug: nz-should-not-go-into-cold-alone-on-kyoto
-title: "NZ Should Not Go Into Cold Alone On Kyoto"
-date: 2002-02-20
-source-url: https://www.scoop.co.nz/stories/PA0202/S00293/nz-should-not-go-into-cold-alone-on-kyoto.htm
+title: NZ Should Not Go Into Cold Alone On Kyoto
+date: 2002-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00293/nz-should-not-go-into-cold-alone-on-kyoto.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/20/nz-should-not-go-into-cold-alone-on-kyoto/index.html
+layout: layout.njk
 ---
 NZ Should Not Go Into Cold Alone On Kyoto
 =========================================

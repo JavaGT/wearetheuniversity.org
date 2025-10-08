@@ -1,9 +1,12 @@
 ---
 slug: opposition-to-three-waters-bill-is-overwhelming
-title: "Opposition To Three Waters Bill Is Overwhelming"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PA2207/S00153/opposition-to-three-waters-bill-is-overwhelming.htm
+title: Opposition To Three Waters Bill Is Overwhelming
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00153/opposition-to-three-waters-bill-is-overwhelming.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/21/opposition-to-three-waters-bill-is-overwhelming/index.html
+layout: layout.njk
 ---
 Opposition To Three Waters Bill Is Overwhelming
 ===============================================

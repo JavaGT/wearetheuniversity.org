@@ -1,9 +1,12 @@
 ---
 slug: new-associate-professorial-appointment
-title: "New associate professorial appointment"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/ED0508/S00059/new-associate-professorial-appointment.htm
+title: New associate professorial appointment
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00059/new-associate-professorial-appointment.htm
 author: aut-university
+permalink: /archive/2005/08/11/new-associate-professorial-appointment/index.html
+layout: layout.njk
 ---
 New associate professorial appointment
 ======================================

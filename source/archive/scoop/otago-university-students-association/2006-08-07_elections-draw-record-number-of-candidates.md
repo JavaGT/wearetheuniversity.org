@@ -1,9 +1,12 @@
 ---
 slug: elections-draw-record-number-of-candidates
-title: "Elections Draw Record Number Of Candidates"
-date: 2006-08-07
-source-url: https://www.scoop.co.nz/stories/AK0608/S00050/elections-draw-record-number-of-candidates.htm
+title: Elections Draw Record Number Of Candidates
+date: 2006-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0608/S00050/elections-draw-record-number-of-candidates.htm
 author: otago-university-students-association
+permalink: /archive/2006/08/07/elections-draw-record-number-of-candidates/index.html
+layout: layout.njk
 ---
 Elections Draw Record Number Of Candidates
 ==========================================

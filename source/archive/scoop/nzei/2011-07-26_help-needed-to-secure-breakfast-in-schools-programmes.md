@@ -1,9 +1,13 @@
 ---
 slug: help-needed-to-secure-breakfast-in-schools-programmes
-title: "Help needed to secure breakfast in schools programmes"
-date: 2011-07-26
-source-url: https://www.scoop.co.nz/stories/ED1107/S00110/help-needed-to-secure-breakfast-in-schools-programmes.htm
+title: Help needed to secure breakfast in schools programmes
+date: 2011-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00110/help-needed-to-secure-breakfast-in-schools-programmes.htm
 author: nzei
+permalink: >-
+  /archive/2011/07/26/help-needed-to-secure-breakfast-in-schools-programmes/index.html
+layout: layout.njk
 ---
 Help needed to secure breakfast in schools programmes
 =====================================================

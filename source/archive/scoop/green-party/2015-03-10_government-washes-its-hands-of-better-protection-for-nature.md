@@ -1,9 +1,13 @@
 ---
 slug: government-washes-its-hands-of-better-protection-for-nature
-title: "Government washes its hands of better protection for nature"
-date: 2015-03-10
-source-url: https://www.scoop.co.nz/stories/PA1503/S00120/government-washes-its-hands-of-better-protection-for-nature.htm
+title: Government washes its hands of better protection for nature
+date: 2015-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00120/government-washes-its-hands-of-better-protection-for-nature.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/10/government-washes-its-hands-of-better-protection-for-nature/index.html
+layout: layout.njk
 ---
 Government washes its hands of better protection for nature
 ===========================================================

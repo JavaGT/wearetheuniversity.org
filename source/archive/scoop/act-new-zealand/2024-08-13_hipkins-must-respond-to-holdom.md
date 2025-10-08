@@ -1,9 +1,12 @@
 ---
 slug: hipkins-must-respond-to-holdom
-title: "Hipkins Must Respond To Holdom"
-date: 2024-08-13
-source-url: https://www.scoop.co.nz/stories/PA2408/S00087/hipkins-must-respond-to-holdom.htm
+title: Hipkins Must Respond To Holdom
+date: 2024-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00087/hipkins-must-respond-to-holdom.htm
 author: act-new-zealand
+permalink: /archive/2024/08/13/hipkins-must-respond-to-holdom/index.html
+layout: layout.njk
 ---
 Hipkins Must Respond To Holdom
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: national-continuing-to-look-after-its-own
-title: "National Continuing to Look After Its Own"
-date: 2017-03-28
-source-url: https://www.scoop.co.nz/stories/PA1703/S00480/national-continuing-to-look-after-its-own.htm
+title: National Continuing to Look After Its Own
+date: 2017-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00480/national-continuing-to-look-after-its-own.htm
 author: new-zealand-first-party
+permalink: /archive/2017/03/28/national-continuing-to-look-after-its-own/index.html
+layout: layout.njk
 ---
 National Continuing to Look After Its Own
 =========================================

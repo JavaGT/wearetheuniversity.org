@@ -1,9 +1,13 @@
 ---
 slug: nz-first-foundation-loophole-must-be-closed-at-select-committee
-title: "NZ First Foundation Loophole Must Be Closed At Select Committee"
-date: 2022-07-28
-source-url: https://www.scoop.co.nz/stories/PA2207/S00201/nz-first-foundation-loophole-must-be-closed-at-select-committee.htm
+title: NZ First Foundation Loophole Must Be Closed At Select Committee
+date: 2022-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00201/nz-first-foundation-loophole-must-be-closed-at-select-committee.htm
 author: green-party
+permalink: >-
+  /archive/2022/07/28/nz-first-foundation-loophole-must-be-closed-at-select-committee/index.html
+layout: layout.njk
 ---
 NZ First Foundation Loophole Must Be Closed At Select Committee
 ===============================================================

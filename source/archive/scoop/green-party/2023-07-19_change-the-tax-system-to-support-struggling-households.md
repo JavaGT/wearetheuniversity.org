@@ -1,9 +1,13 @@
 ---
 slug: change-the-tax-system-to-support-struggling-households
-title: "Change The Tax System To Support Struggling Households"
-date: 2023-07-19
-source-url: https://www.scoop.co.nz/stories/PO2307/S00115/change-the-tax-system-to-support-struggling-households.htm
+title: Change The Tax System To Support Struggling Households
+date: 2023-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00115/change-the-tax-system-to-support-struggling-households.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/19/change-the-tax-system-to-support-struggling-households/index.html
+layout: layout.njk
 ---
 Change The Tax System To Support Struggling Households
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: government-must-answer-questions-over-scf-bailout
-title: "Government must answer questions over SCF bailout"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/PA1112/S00059/government-must-answer-questions-over-scf-bailout.htm
+title: Government must answer questions over SCF bailout
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00059/government-must-answer-questions-over-scf-bailout.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/08/government-must-answer-questions-over-scf-bailout/index.html
+layout: layout.njk
 ---
 Government must answer questions over SCF bailout
 =================================================

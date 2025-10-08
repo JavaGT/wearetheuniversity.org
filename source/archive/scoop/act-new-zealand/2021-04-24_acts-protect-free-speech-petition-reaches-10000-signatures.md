@@ -1,9 +1,13 @@
 ---
 slug: acts-protect-free-speech-petition-reaches-10000-signatures
-title: "ACT’s Protect Free Speech Petition Reaches 10,000 Signatures"
-date: 2021-04-24
-source-url: https://www.scoop.co.nz/stories/PO2104/S00197/acts-protect-free-speech-petition-reaches-10000-signatures.htm
+title: ACT’s Protect Free Speech Petition Reaches 10,000 Signatures
+date: 2021-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2104/S00197/acts-protect-free-speech-petition-reaches-10000-signatures.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/04/24/acts-protect-free-speech-petition-reaches-10000-signatures/index.html
+layout: layout.njk
 ---
 ACT’s Protect Free Speech Petition Reaches 10,000 Signatures
 ============================================================

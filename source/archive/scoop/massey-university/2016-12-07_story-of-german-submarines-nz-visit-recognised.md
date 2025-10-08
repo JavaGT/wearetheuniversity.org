@@ -1,9 +1,12 @@
 ---
 slug: story-of-german-submarines-nz-visit-recognised
-title: "Story of German submarine’s NZ visit recognised"
-date: 2016-12-07
-source-url: https://www.scoop.co.nz/stories/CU1612/S00105/story-of-german-submarines-nz-visit-recognised.htm
+title: Story of German submarine’s NZ visit recognised
+date: 2016-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00105/story-of-german-submarines-nz-visit-recognised.htm
 author: massey-university
+permalink: /archive/2016/12/07/story-of-german-submarines-nz-visit-recognised/index.html
+layout: layout.njk
 ---
 Story of German submarine’s NZ visit recognised
 ===============================================

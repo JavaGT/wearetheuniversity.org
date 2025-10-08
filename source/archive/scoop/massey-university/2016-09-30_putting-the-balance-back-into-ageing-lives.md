@@ -1,9 +1,12 @@
 ---
 slug: putting-the-balance-back-into-ageing-lives
-title: "Putting the balance back into ageing lives"
-date: 2016-09-30
-source-url: https://www.scoop.co.nz/stories/ED1609/S00159/putting-the-balance-back-into-ageing-lives.htm
+title: Putting the balance back into ageing lives
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00159/putting-the-balance-back-into-ageing-lives.htm
 author: massey-university
+permalink: /archive/2016/09/30/putting-the-balance-back-into-ageing-lives/index.html
+layout: layout.njk
 ---
 Putting the balance back into ageing lives
 ==========================================

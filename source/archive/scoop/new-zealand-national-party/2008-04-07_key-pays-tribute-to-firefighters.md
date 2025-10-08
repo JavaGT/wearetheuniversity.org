@@ -1,9 +1,12 @@
 ---
 slug: key-pays-tribute-to-firefighters
-title: "Key pays tribute to firefighters"
-date: 2008-04-07
-source-url: https://www.scoop.co.nz/stories/PA0804/S00177/key-pays-tribute-to-firefighters.htm
+title: Key pays tribute to firefighters
+date: 2008-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00177/key-pays-tribute-to-firefighters.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/07/key-pays-tribute-to-firefighters/index.html
+layout: layout.njk
 ---
 Key pays tribute to firefighters
 ================================

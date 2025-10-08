@@ -1,9 +1,13 @@
 ---
 slug: boost-for-successful-interactive-medical-education
-title: "Boost For Successful Interactive Medical Education"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/GE0701/S00052/boost-for-successful-interactive-medical-education.htm
+title: Boost For Successful Interactive Medical Education
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0701/S00052/boost-for-successful-interactive-medical-education.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/01/29/boost-for-successful-interactive-medical-education/index.html
+layout: layout.njk
 ---
 Boost For Successful Interactive Medical Education
 ==================================================

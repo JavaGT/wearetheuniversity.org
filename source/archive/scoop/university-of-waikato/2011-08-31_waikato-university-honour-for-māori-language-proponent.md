@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-honour-for-māori-language-proponent
-title: "Waikato University honour for Māori language proponent"
-date: 2011-08-31
-source-url: https://www.scoop.co.nz/stories/CU1108/S00531/waikato-university-honour-for-maori-language-proponent.htm
+title: Waikato University honour for Māori language proponent
+date: 2011-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00531/waikato-university-honour-for-maori-language-proponent.htm
 author: university-of-waikato
+permalink: /archive/2011/08/31/waikato-university-honour-for-m/index.html
+layout: layout.njk
 ---
 Waikato University honour for Māori language proponent
 ======================================================

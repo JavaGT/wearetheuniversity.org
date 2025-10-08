@@ -1,9 +1,12 @@
 ---
 slug: nzei-assists-solomon-island-teachers
-title: "NZEI Assists Solomon Island Teachers"
-date: 2005-10-03
-source-url: https://www.scoop.co.nz/stories/ED0510/S00006/nzei-assists-solomon-island-teachers.htm
+title: NZEI Assists Solomon Island Teachers
+date: 2005-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00006/nzei-assists-solomon-island-teachers.htm
 author: nzei
+permalink: /archive/2005/10/03/nzei-assists-solomon-island-teachers/index.html
+layout: layout.njk
 ---
 NZEI Assists Solomon Island Teachers
 ====================================

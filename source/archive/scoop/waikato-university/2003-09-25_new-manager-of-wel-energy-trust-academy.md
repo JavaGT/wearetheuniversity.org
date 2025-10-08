@@ -1,9 +1,12 @@
 ---
 slug: new-manager-of-wel-energy-trust-academy
-title: "New manager of  WEL Energy Trust Academy"
-date: 2003-09-25
-source-url: https://www.scoop.co.nz/stories/ED0309/S00123/new-manager-of-wel-energy-trust-academy.htm
+title: New manager of  WEL Energy Trust Academy
+date: 2003-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00123/new-manager-of-wel-energy-trust-academy.htm
 author: waikato-university
+permalink: /archive/2003/09/25/new-manager-of-wel-energy-trust-academy/index.html
+layout: layout.njk
 ---
 New manager of WEL Energy Trust Academy
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: brownlee-address-to-nationals-northern-region
-title: "Brownlee - Address to National's  Northern Region"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/PA0605/S00007/brownlee-address-to-nationals-northern-region.htm
+title: Brownlee - Address to National's  Northern Region
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00007/brownlee-address-to-nationals-northern-region.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/01/brownlee-address-to-nationals-northern-region/index.html
+layout: layout.njk
 ---
 Brownlee - Address to National's Northern Region
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: horan-confirmed-as-nzf-tauranga-candidate
-title: "Horan Confirmed As NZF Tauranga Candidate"
-date: 2010-12-12
-source-url: https://www.scoop.co.nz/stories/PO1012/S00125/horan-confirmed-as-nzf-tauranga-candidate.htm
+title: Horan Confirmed As NZF Tauranga Candidate
+date: 2010-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00125/horan-confirmed-as-nzf-tauranga-candidate.htm
 author: new-zealand-first-party
+permalink: /archive/2010/12/12/horan-confirmed-as-nzf-tauranga-candidate/index.html
+layout: layout.njk
 ---
 Horan Confirmed As NZF Tauranga Candidate
 =========================================

@@ -1,9 +1,11 @@
 ---
 slug: rally-for-melling-planned
-title: "Rally for Melling planned"
-date: 2019-06-13
+title: Rally for Melling planned
+date: 2019-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1906/S00109/rally-for-melling-planned.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/13/rally-for-melling-planned/index.html
+layout: layout.njk
 ---
 Rally for Melling planned
 =========================

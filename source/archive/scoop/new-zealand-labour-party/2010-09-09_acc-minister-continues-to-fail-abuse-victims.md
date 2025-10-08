@@ -1,9 +1,12 @@
 ---
 slug: acc-minister-continues-to-fail-abuse-victims
-title: "ACC Minister continues to fail abuse victims"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00165/acc-minister-continues-to-fail-abuse-victims.htm
+title: ACC Minister continues to fail abuse victims
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00165/acc-minister-continues-to-fail-abuse-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/09/acc-minister-continues-to-fail-abuse-victims/index.html
+layout: layout.njk
 ---
 ACC Minister continues to fail abuse victims
 ============================================

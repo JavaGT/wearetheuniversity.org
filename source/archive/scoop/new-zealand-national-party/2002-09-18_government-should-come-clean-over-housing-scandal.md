@@ -1,9 +1,13 @@
 ---
 slug: government-should-come-clean-over-housing-scandal
-title: "Government should come clean over housing scandal"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/PA0209/S00292/government-should-come-clean-over-housing-scandal.htm
+title: Government should come clean over housing scandal
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00292/government-should-come-clean-over-housing-scandal.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/09/18/government-should-come-clean-over-housing-scandal/index.html
+layout: layout.njk
 ---
 Government should come clean over housing scandal
 =================================================

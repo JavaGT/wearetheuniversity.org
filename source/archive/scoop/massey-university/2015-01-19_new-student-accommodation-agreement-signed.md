@@ -1,9 +1,12 @@
 ---
 slug: new-student-accommodation-agreement-signed
-title: "New student accommodation agreement signed"
-date: 2015-01-19
-source-url: https://www.scoop.co.nz/stories/ED1501/S00046/new-student-accommodation-agreement-signed.htm
+title: New student accommodation agreement signed
+date: 2015-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00046/new-student-accommodation-agreement-signed.htm
 author: massey-university
+permalink: /archive/2015/01/19/new-student-accommodation-agreement-signed/index.html
+layout: layout.njk
 ---
 New student accommodation agreement signed
 ==========================================

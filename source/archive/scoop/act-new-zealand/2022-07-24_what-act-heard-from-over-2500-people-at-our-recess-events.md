@@ -1,9 +1,13 @@
 ---
 slug: what-act-heard-from-over-2500-people-at-our-recess-events
-title: "What ACT Heard From Over 2500 People At Our Recess Events"
-date: 2022-07-24
-source-url: https://www.scoop.co.nz/stories/PA2207/S00158/what-act-heard-from-over-2500-people-at-our-recess-events.htm
+title: What ACT Heard From Over 2500 People At Our Recess Events
+date: 2022-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00158/what-act-heard-from-over-2500-people-at-our-recess-events.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/07/24/what-act-heard-from-over-2500-people-at-our-recess-events/index.html
+layout: layout.njk
 ---
 What ACT Heard From Over 2500 People At Our Recess Events
 =========================================================

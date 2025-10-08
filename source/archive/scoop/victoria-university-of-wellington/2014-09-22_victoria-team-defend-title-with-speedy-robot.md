@@ -1,9 +1,12 @@
 ---
 slug: victoria-team-defend-title-with-speedy-robot
-title: "Victoria team defend title with speedy robot"
-date: 2014-09-22
-source-url: https://www.scoop.co.nz/stories/SC1409/S00083/victoria-team-defend-title-with-speedy-robot.htm
+title: Victoria team defend title with speedy robot
+date: 2014-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00083/victoria-team-defend-title-with-speedy-robot.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/22/victoria-team-defend-title-with-speedy-robot/index.html
+layout: layout.njk
 ---
 Victoria team defend title with speedy robot
 ============================================

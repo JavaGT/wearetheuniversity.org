@@ -1,9 +1,13 @@
 ---
 slug: research-highlights-urgency-of-reducing-carbon-emissions
-title: "Research highlights urgency of reducing carbon emissions"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/SC1311/S00079/research-highlights-urgency-of-reducing-carbon-emissions.htm
+title: Research highlights urgency of reducing carbon emissions
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00079/research-highlights-urgency-of-reducing-carbon-emissions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/22/research-highlights-urgency-of-reducing-carbon-emissions/index.html
+layout: layout.njk
 ---
 Research highlights urgency of reducing carbon emissions
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: groser-not-focussed-on-value-of-conservation
-title: "Groser not focussed on value of conservation"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/PA0904/S00278/groser-not-focussed-on-value-of-conservation.htm
+title: Groser not focussed on value of conservation
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00278/groser-not-focussed-on-value-of-conservation.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/22/groser-not-focussed-on-value-of-conservation/index.html
+layout: layout.njk
 ---
 Groser not focussed on value of conservation
 ============================================

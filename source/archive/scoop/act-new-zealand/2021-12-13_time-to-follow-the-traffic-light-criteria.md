@@ -1,9 +1,12 @@
 ---
 slug: time-to-follow-the-traffic-light-criteria
-title: "Time To Follow The Traffic Light Criteria"
-date: 2021-12-13
-source-url: https://www.scoop.co.nz/stories/PA2112/S00095/time-to-follow-the-traffic-light-criteria.htm
+title: Time To Follow The Traffic Light Criteria
+date: 2021-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00095/time-to-follow-the-traffic-light-criteria.htm
 author: act-new-zealand
+permalink: /archive/2021/12/13/time-to-follow-the-traffic-light-criteria/index.html
+layout: layout.njk
 ---
 Time To Follow The Traffic Light Criteria
 =========================================

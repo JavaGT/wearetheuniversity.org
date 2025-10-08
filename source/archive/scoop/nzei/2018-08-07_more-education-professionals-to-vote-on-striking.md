@@ -1,9 +1,13 @@
 ---
 slug: more-education-professionals-to-vote-on-striking
-title: "More education professionals to vote on striking"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/ED1808/S00015/more-education-professionals-to-vote-on-striking.htm
+title: More education professionals to vote on striking
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00015/more-education-professionals-to-vote-on-striking.htm
 author: nzei
+permalink: >-
+  /archive/2018/08/07/more-education-professionals-to-vote-on-striking/index.html
+layout: layout.njk
 ---
 More education professionals to vote on striking
 ================================================

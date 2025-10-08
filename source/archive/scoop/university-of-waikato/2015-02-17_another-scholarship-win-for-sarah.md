@@ -1,9 +1,12 @@
 ---
 slug: another-scholarship-win-for-sarah
-title: "Another scholarship win for Sarah"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/ED1502/S00057/another-scholarship-win-for-sarah.htm
+title: Another scholarship win for Sarah
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00057/another-scholarship-win-for-sarah.htm
 author: university-of-waikato
+permalink: /archive/2015/02/17/another-scholarship-win-for-sarah/index.html
+layout: layout.njk
 ---
 Another scholarship win for Sarah
 =================================

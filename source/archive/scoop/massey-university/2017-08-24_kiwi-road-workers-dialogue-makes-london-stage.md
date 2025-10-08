@@ -1,9 +1,12 @@
 ---
 slug: kiwi-road-workers-dialogue-makes-london-stage
-title: "Kiwi Road Workers’ Dialogue Makes London Stage"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/CU1708/S00366/kiwi-road-workers-dialogue-makes-london-stage.htm
+title: Kiwi Road Workers’ Dialogue Makes London Stage
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1708/S00366/kiwi-road-workers-dialogue-makes-london-stage.htm
 author: massey-university
+permalink: /archive/2017/08/24/kiwi-road-workers-dialogue-makes-london-stage/index.html
+layout: layout.njk
 ---
 Kiwi Road Workers’ Dialogue Makes London Stage
 ==============================================

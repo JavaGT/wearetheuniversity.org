@@ -1,9 +1,12 @@
 ---
 slug: govt-suppressing-nzqa-scandal
-title: "Govt. suppressing NZQA scandal"
-date: 1999-09-20
-source-url: https://www.scoop.co.nz/stories/PA9909/S00405/govt-suppressing-nzqa-scandal.htm
+title: Govt. suppressing NZQA scandal
+date: 1999-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00405/govt-suppressing-nzqa-scandal.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/20/govt-suppressing-nzqa-scandal/index.html
+layout: layout.njk
 ---
 Govt. suppressing NZQA scandal
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: key-fosters-banana-republic-approach
-title: "Key Fosters Banana Republic Approach"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/PA1604/S00046/key-fosters-banana-republic-approach.htm
+title: Key Fosters Banana Republic Approach
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00046/key-fosters-banana-republic-approach.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/04/key-fosters-banana-republic-approach/index.html
+layout: layout.njk
 ---
 Key Fosters Banana Republic Approach
 ====================================

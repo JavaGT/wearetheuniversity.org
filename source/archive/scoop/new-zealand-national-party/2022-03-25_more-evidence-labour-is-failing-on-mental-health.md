@@ -1,9 +1,13 @@
 ---
 slug: more-evidence-labour-is-failing-on-mental-health
-title: "More Evidence Labour Is Failing On Mental Health"
-date: 2022-03-25
-source-url: https://www.scoop.co.nz/stories/PA2203/S00208/more-evidence-labour-is-failing-on-mental-health.htm
+title: More Evidence Labour Is Failing On Mental Health
+date: 2022-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00208/more-evidence-labour-is-failing-on-mental-health.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/03/25/more-evidence-labour-is-failing-on-mental-health/index.html
+layout: layout.njk
 ---
 More Evidence Labour Is Failing On Mental Health
 ================================================

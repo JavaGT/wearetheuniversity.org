@@ -1,9 +1,13 @@
 ---
 slug: get-youth-justice-out-of-the-shadows-into-the-daylight
-title: "Get Youth Justice out of the shadows into the daylight"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/PO1408/S00295/get-youth-justice-out-of-the-shadows-into-the-daylight.htm
+title: Get Youth Justice out of the shadows into the daylight
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00295/get-youth-justice-out-of-the-shadows-into-the-daylight.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/19/get-youth-justice-out-of-the-shadows-into-the-daylight/index.html
+layout: layout.njk
 ---
 Get Youth Justice out of the shadows into the daylight
 ======================================================

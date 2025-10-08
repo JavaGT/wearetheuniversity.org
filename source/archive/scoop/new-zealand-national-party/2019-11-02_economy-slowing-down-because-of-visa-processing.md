@@ -1,9 +1,12 @@
 ---
 slug: economy-slowing-down-because-of-visa-processing
-title: "Economy slowing down because of visa processing"
-date: 2019-11-02
-source-url: https://www.scoop.co.nz/stories/PA1911/S00010/economy-slowing-down-because-of-visa-processing.htm
+title: Economy slowing down because of visa processing
+date: 2019-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00010/economy-slowing-down-because-of-visa-processing.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/02/economy-slowing-down-because-of-visa-processing/index.html
+layout: layout.njk
 ---
 Economy slowing down because of visa processing
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-people-have-spoken-national-must-listen
-title: "The people have spoken – National must listen"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/PA1312/S00303/the-people-have-spoken-national-must-listen.htm
+title: The people have spoken – National must listen
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00303/the-people-have-spoken-national-must-listen.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/13/the-people-have-spoken-national-must-listen/index.html
+layout: layout.njk
 ---
 The people have spoken – National must listen
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: climate-of-fear-needs-addressing
-title: "Climate of fear needs addressing"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/PA1411/S00251/climate-of-fear-needs-addressing.htm
+title: Climate of fear needs addressing
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00251/climate-of-fear-needs-addressing.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/20/climate-of-fear-needs-addressing/index.html
+layout: layout.njk
 ---
 Climate of fear needs addressing
 ================================

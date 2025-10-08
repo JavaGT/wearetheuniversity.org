@@ -1,9 +1,13 @@
 ---
 slug: students-reel-at-budget-cuts-to-allowances-loans
-title: "Students reel at budget cuts to allowances, loans"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/ED1205/S00129/students-reel-at-budget-cuts-to-allowances-loans.htm
+title: Students reel at budget cuts to allowances, loans
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00129/students-reel-at-budget-cuts-to-allowances-loans.htm
 author: vuwsa
+permalink: >-
+  /archive/2012/05/25/students-reel-at-budget-cuts-to-allowances-loans/index.html
+layout: layout.njk
 ---
 Students reel at budget cuts to allowances, loans
 =================================================

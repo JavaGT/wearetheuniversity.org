@@ -1,9 +1,12 @@
 ---
 slug: talk-about-billy-apple-at-adam-art-gallery
-title: "Talk About Billy Apple at Adam Art Gallery"
-date: 2009-04-23
-source-url: https://www.scoop.co.nz/stories/CU0904/S00315/talk-about-billy-apple-at-adam-art-gallery.htm
+title: Talk About Billy Apple at Adam Art Gallery
+date: 2009-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00315/talk-about-billy-apple-at-adam-art-gallery.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/23/talk-about-billy-apple-at-adam-art-gallery/index.html
+layout: layout.njk
 ---
 Talk About Billy Apple at Adam Art Gallery
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: aut-to-teach-climate-action
-title: "AUT To Teach Climate Action"
-date: 2021-12-09
+title: AUT To Teach Climate Action
+date: 2021-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2112/S00018/aut-to-teach-climate-action.htm
 author: aut-university
+permalink: /archive/2021/12/09/aut-to-teach-climate-action/index.html
+layout: layout.njk
 ---
 AUT To Teach Climate Action
 ===========================

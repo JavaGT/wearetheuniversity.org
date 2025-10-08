@@ -1,9 +1,13 @@
 ---
 slug: another-wake-up-call-to-invest-in-early-childhood-education
-title: "Another wake up call to invest in early childhood education"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/ED1108/S00085/another-wake-up-call-to-invest-in-early-childhood-education.htm
+title: Another wake up call to invest in early childhood education
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00085/another-wake-up-call-to-invest-in-early-childhood-education.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/15/another-wake-up-call-to-invest-in-early-childhood-education/index.html
+layout: layout.njk
 ---
 Another wake up call to invest in early childhood education
 ===========================================================

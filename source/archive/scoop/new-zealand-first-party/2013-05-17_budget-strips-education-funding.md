@@ -1,9 +1,12 @@
 ---
 slug: budget-strips-education-funding
-title: "Budget Strips Education Funding"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00348/budget-strips-education-funding.htm
+title: Budget Strips Education Funding
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00348/budget-strips-education-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/17/budget-strips-education-funding/index.html
+layout: layout.njk
 ---
 Budget Strips Education Funding
 ===============================

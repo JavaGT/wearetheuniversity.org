@@ -1,9 +1,12 @@
 ---
 slug: free-online-journal-asks-what-makes-us-happy
-title: "Free online journal asks what makes us happy"
-date: 2011-02-07
-source-url: https://www.scoop.co.nz/stories/ED1102/S00018/free-online-journal-asks-what-makes-us-happy.htm
+title: Free online journal asks what makes us happy
+date: 2011-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00018/free-online-journal-asks-what-makes-us-happy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/07/free-online-journal-asks-what-makes-us-happy/index.html
+layout: layout.njk
 ---
 Free online journal asks what makes us happy
 ============================================

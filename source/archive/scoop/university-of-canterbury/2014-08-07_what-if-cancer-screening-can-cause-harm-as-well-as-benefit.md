@@ -1,9 +1,13 @@
 ---
 slug: what-if-cancer-screening-can-cause-harm-as-well-as-benefit
-title: "What if cancer screening can cause harm as well as benefit?"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/GE1408/S00024/what-if-cancer-screening-can-cause-harm-as-well-as-benefit.htm
+title: What if cancer screening can cause harm as well as benefit?
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00024/what-if-cancer-screening-can-cause-harm-as-well-as-benefit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/07/what-if-cancer-screening-can-cause-harm-as-well-as-benefit/index.html
+layout: layout.njk
 ---
 What if cancer screening can cause harm as well as benefit?
 ===========================================================

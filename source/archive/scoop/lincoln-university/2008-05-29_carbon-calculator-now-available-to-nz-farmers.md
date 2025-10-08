@@ -1,9 +1,12 @@
 ---
 slug: carbon-calculator-now-available-to-nz-farmers
-title: "Carbon Calculator Now Available to NZ Farmers"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/ED0805/S00130/carbon-calculator-now-available-to-nz-farmers.htm
+title: Carbon Calculator Now Available to NZ Farmers
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00130/carbon-calculator-now-available-to-nz-farmers.htm
 author: lincoln-university
+permalink: /archive/2008/05/29/carbon-calculator-now-available-to-nz-farmers/index.html
+layout: layout.njk
 ---
 Carbon Calculator Now Available to NZ Farmers
 =============================================

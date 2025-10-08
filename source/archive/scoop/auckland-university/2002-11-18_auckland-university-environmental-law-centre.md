@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-environmental-law-centre
-title: "Auckland University environmental law centre"
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/ED0211/S00038/auckland-university-environmental-law-centre.htm
+title: Auckland University environmental law centre
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00038/auckland-university-environmental-law-centre.htm
 author: auckland-university
+permalink: /archive/2002/11/18/auckland-university-environmental-law-centre/index.html
+layout: layout.njk
 ---
 Auckland University environmental law centre
 ============================================

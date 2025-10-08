@@ -1,9 +1,13 @@
 ---
 slug: if-this-is-economic-growth-where-is-the-benefit-to-workers
-title: "If this is economic growth where is the benefit to workers?"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/PO1508/S00055/if-this-is-economic-growth-where-is-the-benefit-to-workers.htm
+title: If this is economic growth where is the benefit to workers?
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00055/if-this-is-economic-growth-where-is-the-benefit-to-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/08/05/if-this-is-economic-growth-where-is-the-benefit-to-workers/index.html
+layout: layout.njk
 ---
 If this is economic growth where is the benefit to workers?
 ===========================================================

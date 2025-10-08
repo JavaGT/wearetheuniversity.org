@@ -1,9 +1,13 @@
 ---
 slug: explaining-new-zealands-unusual-growing-glaciers
-title: "Explaining New Zealand’s \"unusual\" growing glaciers"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/SC1702/S00044/explaining-new-zealands-unusual-growing-glaciers.htm
+title: Explaining New Zealand’s "unusual" growing glaciers
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00044/explaining-new-zealands-unusual-growing-glaciers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/02/15/explaining-new-zealands-unusual-growing-glaciers/index.html
+layout: layout.njk
 ---
 Explaining New Zealand’s “unusual” growing glaciers
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: education-plan-alienates-pasifika-students
-title: "Education Plan Alienates Pasifika Students"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/PA1403/S00312/education-plan-alienates-pasifika-students.htm
+title: Education Plan Alienates Pasifika Students
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00312/education-plan-alienates-pasifika-students.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/17/education-plan-alienates-pasifika-students/index.html
+layout: layout.njk
 ---
 Education Plan Alienates Pasifika Students
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: tackling-the-mental-health-crisis-in-aotearoa
-title: "Tackling the mental health crisis in Aotearoa"
-date: 2018-10-07
-source-url: https://www.scoop.co.nz/stories/PA1810/S00054/tackling-the-mental-health-crisis-in-aotearoa.htm
+title: Tackling the mental health crisis in Aotearoa
+date: 2018-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00054/tackling-the-mental-health-crisis-in-aotearoa.htm
 author: green-party
+permalink: /archive/2018/10/07/tackling-the-mental-health-crisis-in-aotearoa/index.html
+layout: layout.njk
 ---
 Tackling the mental health crisis in Aotearoa
 =============================================

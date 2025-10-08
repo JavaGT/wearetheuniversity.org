@@ -1,9 +1,12 @@
 ---
 slug: putting-the-public-back-in-public-policy
-title: "Putting the 'public' back in public policy"
-date: 2011-01-26
-source-url: https://www.scoop.co.nz/stories/ED1101/S00038/putting-the-public-back-in-public-policy.htm
+title: Putting the 'public' back in public policy
+date: 2011-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00038/putting-the-public-back-in-public-policy.htm
 author: massey-university
+permalink: /archive/2011/01/26/putting-the-public-back-in-public-policy/index.html
+layout: layout.njk
 ---
 Putting the 'public' back in public policy
 ==========================================

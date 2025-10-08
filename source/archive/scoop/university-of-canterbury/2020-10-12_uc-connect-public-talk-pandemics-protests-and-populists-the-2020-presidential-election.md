@@ -1,9 +1,16 @@
 ---
-slug: uc-connect-public-talk-pandemics-protests-and-populists-the-2020-presidential-election
-title: "UC Connect Public Talk: Pandemics, Protests, And Populists: The 2020 Presidential Election"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/WO2010/S00077/uc-connect-public-talk-pandemics-protests-and-populists-the-2020-presidential-election.htm
+slug: >-
+  uc-connect-public-talk-pandemics-protests-and-populists-the-2020-presidential-election
+title: >-
+  UC Connect Public Talk: Pandemics, Protests, And Populists: The 2020
+  Presidential Election
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2010/S00077/uc-connect-public-talk-pandemics-protests-and-populists-the-2020-presidential-election.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/12/uc-connect-public-talk-pandemics-protests-and-populists-the-2020-presidential-election/index.html
+layout: layout.njk
 ---
 UC Connect Public Talk: Pandemics, Protests, And Populists: The 2020 Presidential Election
 ==========================================================================================

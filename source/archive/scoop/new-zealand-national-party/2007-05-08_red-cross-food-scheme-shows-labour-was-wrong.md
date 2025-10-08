@@ -1,9 +1,12 @@
 ---
 slug: red-cross-food-scheme-shows-labour-was-wrong
-title: "Red Cross food scheme shows Labour was wrong"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/PA0705/S00180/red-cross-food-scheme-shows-labour-was-wrong.htm
+title: Red Cross food scheme shows Labour was wrong
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00180/red-cross-food-scheme-shows-labour-was-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/08/red-cross-food-scheme-shows-labour-was-wrong/index.html
+layout: layout.njk
 ---
 Red Cross food scheme shows Labour was wrong
 ============================================

@@ -1,9 +1,16 @@
 ---
-slug: public-transport-and-housing-must-be-prioritised-from-remnants-of-lets-get-wellington-moving
-title: "Public Transport And Housing Must Be Prioritised From Remnants Of Let's Get Wellington Moving"
-date: 2023-12-17
-source-url: https://www.scoop.co.nz/stories/PO2312/S00147/public-transport-and-housing-must-be-prioritised-from-remnants-of-lets-get-wellington-moving.htm
+slug: >-
+  public-transport-and-housing-must-be-prioritised-from-remnants-of-lets-get-wellington-moving
+title: >-
+  Public Transport And Housing Must Be Prioritised From Remnants Of Let's Get
+  Wellington Moving
+date: 2023-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00147/public-transport-and-housing-must-be-prioritised-from-remnants-of-lets-get-wellington-moving.htm
 author: green-party
+permalink: >-
+  /archive/2023/12/17/public-transport-and-housing-must-be-prioritised-from-remnants-of-lets-get-wellington-moving/index.html
+layout: layout.njk
 ---
 Public Transport And Housing Must Be Prioritised From Remnants Of Let's Get Wellington Moving
 =============================================================================================

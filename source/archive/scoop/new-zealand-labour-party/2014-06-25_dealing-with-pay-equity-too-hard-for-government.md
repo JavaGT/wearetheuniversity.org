@@ -1,9 +1,12 @@
 ---
 slug: dealing-with-pay-equity-too-hard-for-government
-title: "Dealing with pay equity too hard for Government"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/PA1406/S00388/dealing-with-pay-equity-too-hard-for-government.htm
+title: Dealing with pay equity too hard for Government
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00388/dealing-with-pay-equity-too-hard-for-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/25/dealing-with-pay-equity-too-hard-for-government/index.html
+layout: layout.njk
 ---
 Dealing with pay equity too hard for Government
 ===============================================

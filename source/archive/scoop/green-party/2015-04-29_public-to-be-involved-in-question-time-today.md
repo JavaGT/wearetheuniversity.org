@@ -1,9 +1,12 @@
 ---
 slug: public-to-be-involved-in-question-time-today
-title: "Public to be involved in question time today"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/PA1504/S00367/public-to-be-involved-in-question-time-today.htm
+title: Public to be involved in question time today
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00367/public-to-be-involved-in-question-time-today.htm
 author: green-party
+permalink: /archive/2015/04/29/public-to-be-involved-in-question-time-today/index.html
+layout: layout.njk
 ---
 Public to be involved in question time today
 ============================================

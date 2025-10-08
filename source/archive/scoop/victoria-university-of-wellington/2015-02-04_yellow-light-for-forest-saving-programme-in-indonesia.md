@@ -1,9 +1,13 @@
 ---
 slug: yellow-light-for-forest-saving-programme-in-indonesia
-title: "Yellow light for forest-saving programme in Indonesia"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/WO1502/S00028/yellow-light-for-forest-saving-programme-in-indonesia.htm
+title: Yellow light for forest-saving programme in Indonesia
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1502/S00028/yellow-light-for-forest-saving-programme-in-indonesia.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/02/04/yellow-light-for-forest-saving-programme-in-indonesia/index.html
+layout: layout.njk
 ---
 Yellow light for forest-saving programme in Indonesia
 =====================================================

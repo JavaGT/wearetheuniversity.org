@@ -1,9 +1,13 @@
 ---
 slug: summer-school-enrolments-quadruple-in-three-years
-title: "Summer school enrolments quadruple in three years"
-date: 2007-10-31
-source-url: https://www.scoop.co.nz/stories/ED0710/S00096/summer-school-enrolments-quadruple-in-three-years.htm
+title: Summer school enrolments quadruple in three years
+date: 2007-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00096/summer-school-enrolments-quadruple-in-three-years.htm
 author: massey-university
+permalink: >-
+  /archive/2007/10/31/summer-school-enrolments-quadruple-in-three-years/index.html
+layout: layout.njk
 ---
 Summer school enrolments quadruple in three years
 =================================================

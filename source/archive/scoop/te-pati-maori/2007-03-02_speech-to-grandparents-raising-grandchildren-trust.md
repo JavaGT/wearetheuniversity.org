@@ -1,9 +1,13 @@
 ---
 slug: speech-to-grandparents-raising-grandchildren-trust
-title: "Speech To Grandparents Raising Grandchildren Trust"
-date: 2007-03-02
-source-url: https://www.scoop.co.nz/stories/PA0703/S00047/speech-to-grandparents-raising-grandchildren-trust.htm
+title: Speech To Grandparents Raising Grandchildren Trust
+date: 2007-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00047/speech-to-grandparents-raising-grandchildren-trust.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/03/02/speech-to-grandparents-raising-grandchildren-trust/index.html
+layout: layout.njk
 ---
 Speech To Grandparents Raising Grandchildren Trust
 ==================================================

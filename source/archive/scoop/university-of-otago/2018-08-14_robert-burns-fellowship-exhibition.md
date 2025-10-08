@@ -1,9 +1,12 @@
 ---
 slug: robert-burns-fellowship-exhibition
-title: "Robert Burns Fellowship Exhibition"
-date: 2018-08-14
-source-url: https://www.scoop.co.nz/stories/CU1808/S00142/robert-burns-fellowship-exhibition.htm
+title: Robert Burns Fellowship Exhibition
+date: 2018-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1808/S00142/robert-burns-fellowship-exhibition.htm
 author: university-of-otago
+permalink: /archive/2018/08/14/robert-burns-fellowship-exhibition/index.html
+layout: layout.njk
 ---
 Robert Burns Fellowship Exhibition
 ==================================

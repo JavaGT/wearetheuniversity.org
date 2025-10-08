@@ -1,9 +1,12 @@
 ---
 slug: what-is-a-maharey-promise-worth
-title: "What Is A Maharey Promise Worth?"
-date: 2002-09-04
-source-url: https://www.scoop.co.nz/stories/PA0209/S00040/what-is-a-maharey-promise-worth.htm
+title: What Is A Maharey Promise Worth?
+date: 2002-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00040/what-is-a-maharey-promise-worth.htm
 author: act-new-zealand
+permalink: /archive/2002/09/04/what-is-a-maharey-promise-worth/index.html
+layout: layout.njk
 ---
 What Is A Maharey Promise Worth?
 ================================

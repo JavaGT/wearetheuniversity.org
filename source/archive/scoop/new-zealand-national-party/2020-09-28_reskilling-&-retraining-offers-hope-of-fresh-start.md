@@ -1,9 +1,12 @@
 ---
 slug: reskilling-&-retraining-offers-hope-of-fresh-start
-title: "Reskilling & Retraining Offers Hope Of Fresh Start"
-date: 2020-09-28
-source-url: https://www.scoop.co.nz/stories/PA2009/S00218/reskilling-retraining-offers-hope-of-fresh-start.htm
+title: Reskilling & Retraining Offers Hope Of Fresh Start
+date: 2020-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00218/reskilling-retraining-offers-hope-of-fresh-start.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/28/reskilling-/index.html
+layout: layout.njk
 ---
 Reskilling & Retraining Offers Hope Of Fresh Start
 ==================================================

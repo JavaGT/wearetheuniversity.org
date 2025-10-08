@@ -1,9 +1,12 @@
 ---
 slug: patients-to-go-without-under-national
-title: "Patients to go without under National"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/PA0911/S00271/patients-to-go-without-under-national.htm
+title: Patients to go without under National
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00271/patients-to-go-without-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/19/patients-to-go-without-under-national/index.html
+layout: layout.njk
 ---
 Patients to go without under National
 =====================================

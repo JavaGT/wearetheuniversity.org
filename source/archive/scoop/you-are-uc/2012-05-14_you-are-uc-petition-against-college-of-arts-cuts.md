@@ -1,9 +1,13 @@
 ---
 slug: you-are-uc-petition-against-college-of-arts-cuts
-title: "'You Are UC' Petition Against College of Arts Cuts"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/ED1205/S00056/you-are-uc-petition-against-college-of-arts-cuts.htm
+title: '''You Are UC'' Petition Against College of Arts Cuts'
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00056/you-are-uc-petition-against-college-of-arts-cuts.htm
 author: you-are-uc
+permalink: >-
+  /archive/2012/05/14/you-are-uc-petition-against-college-of-arts-cuts/index.html
+layout: layout.njk
 ---
 'You Are UC' Petition Against College of Arts Cuts
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: lecture-to-argue-gospels-based-on-eyewitness-testimony
-title: "Lecture to argue Gospels based on eyewitness testimony"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/ED1408/S00026/lecture-to-argue-gospels-based-on-eyewitness-testimony.htm
+title: Lecture to argue Gospels based on eyewitness testimony
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00026/lecture-to-argue-gospels-based-on-eyewitness-testimony.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/08/06/lecture-to-argue-gospels-based-on-eyewitness-testimony/index.html
+layout: layout.njk
 ---
 Lecture to argue Gospels based on eyewitness testimony
 ======================================================

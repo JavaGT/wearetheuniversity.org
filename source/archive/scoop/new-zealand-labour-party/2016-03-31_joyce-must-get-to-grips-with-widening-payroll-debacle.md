@@ -1,9 +1,13 @@
 ---
 slug: joyce-must-get-to-grips-with-widening-payroll-debacle
-title: "Joyce must get to grips with widening payroll debacle"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/PA1603/S00482/joyce-must-get-to-grips-with-widening-payroll-debacle.htm
+title: Joyce must get to grips with widening payroll debacle
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00482/joyce-must-get-to-grips-with-widening-payroll-debacle.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/31/joyce-must-get-to-grips-with-widening-payroll-debacle/index.html
+layout: layout.njk
 ---
 Joyce must get to grips with widening payroll debacle
 =====================================================

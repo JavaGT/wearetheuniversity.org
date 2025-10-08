@@ -1,9 +1,12 @@
 ---
 slug: uc-research-to-make-the-national-grid-smarter
-title: "UC research to make the national grid smarter"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/BU1208/S01011/uc-research-to-make-the-national-grid-smarter.htm
+title: UC research to make the national grid smarter
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S01011/uc-research-to-make-the-national-grid-smarter.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/28/uc-research-to-make-the-national-grid-smarter/index.html
+layout: layout.njk
 ---
 UC research to make the national grid smarter
 =============================================

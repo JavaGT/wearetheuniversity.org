@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-composer-gets-sargeson-rights
-title: "Waikato University Composer Gets Sargeson Rights"
-date: 2004-11-02
-source-url: https://www.scoop.co.nz/stories/ED0411/S00007/waikato-university-composer-gets-sargeson-rights.htm
+title: Waikato University Composer Gets Sargeson Rights
+date: 2004-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00007/waikato-university-composer-gets-sargeson-rights.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/11/02/waikato-university-composer-gets-sargeson-rights/index.html
+layout: layout.njk
 ---
 Waikato University Composer Gets Sargeson Rights
 ================================================

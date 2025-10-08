@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcome-change-to-dental-fee
-title: "University staff welcome change to dental fee"
-date: 2000-02-01
-source-url: https://www.scoop.co.nz/stories/ED0002/S00002/university-staff-welcome-change-to-dental-fee.htm
+title: University staff welcome change to dental fee
+date: 2000-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00002/university-staff-welcome-change-to-dental-fee.htm
 author: association-of-university-staff
+permalink: /archive/2000/02/01/university-staff-welcome-change-to-dental-fee/index.html
+layout: layout.njk
 ---
 University staff welcome change to dental fee
 =============================================

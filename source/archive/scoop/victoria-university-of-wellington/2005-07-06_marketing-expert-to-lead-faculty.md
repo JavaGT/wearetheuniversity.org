@@ -1,9 +1,12 @@
 ---
 slug: marketing-expert-to-lead-faculty
-title: "Marketing expert to lead Faculty"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/ED0507/S00021/marketing-expert-to-lead-faculty.htm
+title: Marketing expert to lead Faculty
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00021/marketing-expert-to-lead-faculty.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/06/marketing-expert-to-lead-faculty/index.html
+layout: layout.njk
 ---
 Marketing expert to lead Faculty
 ================================

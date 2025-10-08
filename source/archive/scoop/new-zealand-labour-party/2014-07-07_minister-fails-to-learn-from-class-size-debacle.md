@@ -1,9 +1,12 @@
 ---
 slug: minister-fails-to-learn-from-class-size-debacle
-title: "Minister fails to learn from class size debacle"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/PA1407/S00135/minister-fails-to-learn-from-class-size-debacle.htm
+title: Minister fails to learn from class size debacle
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00135/minister-fails-to-learn-from-class-size-debacle.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/07/minister-fails-to-learn-from-class-size-debacle/index.html
+layout: layout.njk
 ---
 Minister fails to learn from class size debacle
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: tipu-ora-graduation-te-muka
-title: "Tipu Ora Graduation: Te Muka"
-date: 2008-07-04
+title: 'Tipu Ora Graduation: Te Muka'
+date: 2008-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0807/S00115/tipu-ora-graduation-te-muka.htm
 author: te-pati-maori
+permalink: /archive/2008/07/04/tipu-ora-graduation-te-muka/index.html
+layout: layout.njk
 ---
 Tipu Ora Graduation: Te Muka
 ============================

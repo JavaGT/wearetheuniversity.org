@@ -1,9 +1,12 @@
 ---
 slug: katene-calls-on-hubbard-to-take-ownership
-title: "Katene calls on Hubbard to take ownership"
-date: 2011-04-07
-source-url: https://www.scoop.co.nz/stories/PA1104/S00135/katene-calls-on-hubbard-to-take-ownership.htm
+title: Katene calls on Hubbard to take ownership
+date: 2011-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00135/katene-calls-on-hubbard-to-take-ownership.htm
 author: te-pati-maori
+permalink: /archive/2011/04/07/katene-calls-on-hubbard-to-take-ownership/index.html
+layout: layout.njk
 ---
 Katene calls on Hubbard to take ownership
 =========================================

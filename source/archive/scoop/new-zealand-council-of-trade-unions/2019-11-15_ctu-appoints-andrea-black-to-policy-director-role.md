@@ -1,9 +1,13 @@
 ---
 slug: ctu-appoints-andrea-black-to-policy-director-role
-title: "CTU Appoints Andrea Black to Policy Director Role"
-date: 2019-11-15
-source-url: https://www.scoop.co.nz/stories/BU1911/S00319/ctu-appoints-andrea-black-to-policy-director-role.htm
+title: CTU Appoints Andrea Black to Policy Director Role
+date: 2019-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1911/S00319/ctu-appoints-andrea-black-to-policy-director-role.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2019/11/15/ctu-appoints-andrea-black-to-policy-director-role/index.html
+layout: layout.njk
 ---
 CTU Appoints Andrea Black to Policy Director Role
 =================================================

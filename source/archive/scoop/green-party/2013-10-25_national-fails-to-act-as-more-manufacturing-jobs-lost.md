@@ -1,9 +1,13 @@
 ---
 slug: national-fails-to-act-as-more-manufacturing-jobs-lost
-title: "National fails to act as more manufacturing jobs lost"
-date: 2013-10-25
-source-url: https://www.scoop.co.nz/stories/PA1310/S00430/national-fails-to-act-as-more-manufacturing-jobs-lost.htm
+title: National fails to act as more manufacturing jobs lost
+date: 2013-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00430/national-fails-to-act-as-more-manufacturing-jobs-lost.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/25/national-fails-to-act-as-more-manufacturing-jobs-lost/index.html
+layout: layout.njk
 ---
 National fails to act as more manufacturing jobs lost
 =====================================================

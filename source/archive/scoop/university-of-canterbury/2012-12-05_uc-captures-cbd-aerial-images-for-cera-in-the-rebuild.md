@@ -1,9 +1,13 @@
 ---
 slug: uc-captures-cbd-aerial-images-for-cera-in-the-rebuild
-title: "UC captures CBD aerial images for CERA in the rebuild"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/AK1212/S00080/uc-captures-cbd-aerial-images-for-cera-in-the-rebuild.htm
+title: UC captures CBD aerial images for CERA in the rebuild
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00080/uc-captures-cbd-aerial-images-for-cera-in-the-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/05/uc-captures-cbd-aerial-images-for-cera-in-the-rebuild/index.html
+layout: layout.njk
 ---
 UC captures CBD aerial images for CERA in the rebuild
 =====================================================

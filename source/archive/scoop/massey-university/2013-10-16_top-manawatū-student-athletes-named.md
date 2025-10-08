@@ -1,9 +1,12 @@
 ---
 slug: top-manawatū-student-athletes-named
-title: "Top Manawatū student-athletes named"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/ED1310/S00110/top-manawatu-student-athletes-named.htm
+title: Top Manawatū student-athletes named
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00110/top-manawatu-student-athletes-named.htm
 author: massey-university
+permalink: /archive/2013/10/16/top-manawat/index.html
+layout: layout.njk
 ---
 Top Manawatū student-athletes named
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: food-strategies-improve-toddlers-low-iron-status
-title: "Food strategies improve toddlers’ low iron status"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/GE0910/S00065/food-strategies-improve-toddlers-low-iron-status.htm
+title: Food strategies improve toddlers’ low iron status
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0910/S00065/food-strategies-improve-toddlers-low-iron-status.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/10/15/food-strategies-improve-toddlers-low-iron-status/index.html
+layout: layout.njk
 ---
 Food strategies improve toddlers’ low iron status
 =================================================

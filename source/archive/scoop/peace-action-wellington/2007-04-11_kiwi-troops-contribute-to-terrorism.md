@@ -1,9 +1,12 @@
 ---
 slug: kiwi-troops-contribute-to-terrorism
-title: "Kiwi troops contribute to terrorism"
-date: 2007-04-11
-source-url: https://www.scoop.co.nz/stories/PO0704/S00134/kiwi-troops-contribute-to-terrorism.htm
+title: Kiwi troops contribute to terrorism
+date: 2007-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00134/kiwi-troops-contribute-to-terrorism.htm
 author: peace-action-wellington
+permalink: /archive/2007/04/11/kiwi-troops-contribute-to-terrorism/index.html
+layout: layout.njk
 ---
 Kiwi troops contribute to terrorism
 ===================================

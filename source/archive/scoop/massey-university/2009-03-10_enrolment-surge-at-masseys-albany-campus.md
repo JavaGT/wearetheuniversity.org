@@ -1,9 +1,12 @@
 ---
 slug: enrolment-surge-at-masseys-albany-campus
-title: "Enrolment surge at Massey’s Albany campus"
-date: 2009-03-10
-source-url: https://www.scoop.co.nz/stories/ED0903/S00032/enrolment-surge-at-masseys-albany-campus.htm
+title: Enrolment surge at Massey’s Albany campus
+date: 2009-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00032/enrolment-surge-at-masseys-albany-campus.htm
 author: massey-university
+permalink: /archive/2009/03/10/enrolment-surge-at-masseys-albany-campus/index.html
+layout: layout.njk
 ---
 Enrolment surge at Massey’s Albany campus
 =========================================

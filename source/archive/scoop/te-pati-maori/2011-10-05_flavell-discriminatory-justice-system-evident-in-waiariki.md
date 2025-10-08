@@ -1,9 +1,13 @@
 ---
 slug: flavell-discriminatory-justice-system-evident-in-waiariki
-title: "Flavell: Discriminatory justice system evident in Waiariki"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00092/flavell-discriminatory-justice-system-evident-in-waiariki.htm
+title: 'Flavell: Discriminatory justice system evident in Waiariki'
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00092/flavell-discriminatory-justice-system-evident-in-waiariki.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/10/05/flavell-discriminatory-justice-system-evident-in-waiariki/index.html
+layout: layout.njk
 ---
 Flavell: Discriminatory justice system evident in Waiariki
 ==========================================================

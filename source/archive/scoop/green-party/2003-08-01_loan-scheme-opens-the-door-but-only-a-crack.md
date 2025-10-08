@@ -1,9 +1,12 @@
 ---
 slug: loan-scheme-opens-the-door-but-only-a-crack
-title: "Loan scheme opens the door - but only a crack"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/PA0308/S00006/loan-scheme-opens-the-door-but-only-a-crack.htm
+title: Loan scheme opens the door - but only a crack
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00006/loan-scheme-opens-the-door-but-only-a-crack.htm
 author: green-party
+permalink: /archive/2003/08/01/loan-scheme-opens-the-door-but-only-a-crack/index.html
+layout: layout.njk
 ---
 Loan scheme opens the door - but only a crack
 =============================================

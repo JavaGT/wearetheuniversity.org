@@ -1,9 +1,13 @@
 ---
 slug: world-spotlight-on-canterburys-adhd-micronutrient-research
-title: "World spotlight on Canterbury’s ADHD micronutrient research"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/SC1601/S00056/world-spotlight-on-canterburys-adhd-micronutrient-research.htm
+title: World spotlight on Canterbury’s ADHD micronutrient research
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00056/world-spotlight-on-canterburys-adhd-micronutrient-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/28/world-spotlight-on-canterburys-adhd-micronutrient-research/index.html
+layout: layout.njk
 ---
 World spotlight on Canterbury’s ADHD micronutrient research
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: message-to-apple-stop-this-tax-dodging-corporate-rort
-title: "Message to Apple: Stop This Tax Dodging Corporate Rort"
-date: 2017-03-20
-source-url: https://www.scoop.co.nz/stories/PA1703/S00320/message-to-apple-stop-this-tax-dodging-corporate-rort.htm
+title: 'Message to Apple: Stop This Tax Dodging Corporate Rort'
+date: 2017-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00320/message-to-apple-stop-this-tax-dodging-corporate-rort.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/20/message-to-apple-stop-this-tax-dodging-corporate-rort/index.html
+layout: layout.njk
 ---
 Message to Apple: Stop This Tax Dodging Corporate Rort
 ======================================================

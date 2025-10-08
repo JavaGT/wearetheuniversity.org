@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-announces-wellington-region-candidates
-title: "New Zealand First announces Wellington region candidates"
-date: 2017-08-15
-source-url: https://www.scoop.co.nz/stories/PO1708/S00317/new-zealand-first-announces-wellington-region-candidates.htm
+title: New Zealand First announces Wellington region candidates
+date: 2017-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00317/new-zealand-first-announces-wellington-region-candidates.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/15/new-zealand-first-announces-wellington-region-candidates/index.html
+layout: layout.njk
 ---
 New Zealand First announces Wellington region candidates
 ========================================================

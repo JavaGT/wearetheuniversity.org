@@ -1,9 +1,13 @@
 ---
 slug: coping-with-psychological-aftermath-of-earthquake
-title: "Coping with psychological aftermath of earthquake"
-date: 2010-09-07
-source-url: https://www.scoop.co.nz/stories/AK1009/S00206/coping-with-psychological-aftermath-of-earthquake.htm
+title: Coping with psychological aftermath of earthquake
+date: 2010-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1009/S00206/coping-with-psychological-aftermath-of-earthquake.htm
 author: massey-university
+permalink: >-
+  /archive/2010/09/07/coping-with-psychological-aftermath-of-earthquake/index.html
+layout: layout.njk
 ---
 Coping with psychological aftermath of earthquake
 =================================================

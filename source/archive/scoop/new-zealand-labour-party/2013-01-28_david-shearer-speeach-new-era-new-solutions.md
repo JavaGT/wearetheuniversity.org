@@ -1,9 +1,12 @@
 ---
 slug: david-shearer-speeach-new-era-new-solutions
-title: "David Shearer Speeach - New Era: New Solutions"
-date: 2013-01-28
-source-url: https://www.scoop.co.nz/stories/PA1301/S00121/david-shearer-speeach-new-era-new-solutions.htm
+title: 'David Shearer Speeach - New Era: New Solutions'
+date: 2013-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00121/david-shearer-speeach-new-era-new-solutions.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/28/david-shearer-speeach-new-era-new-solutions/index.html
+layout: layout.njk
 ---
 David Shearer Speeach - New Era: New Solutions
 ==============================================

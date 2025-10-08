@@ -1,9 +1,11 @@
 ---
 slug: keep-the-pipeline-off-greens
-title: "Keep The Pipeline Off - Greens"
-date: 2002-09-24
+title: Keep The Pipeline Off - Greens
+date: 2002-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0209/S00391/keep-the-pipeline-off-greens.htm
 author: green-party
+permalink: /archive/2002/09/24/keep-the-pipeline-off-greens/index.html
+layout: layout.njk
 ---
 Keep The Pipeline Off - Greens
 ==============================

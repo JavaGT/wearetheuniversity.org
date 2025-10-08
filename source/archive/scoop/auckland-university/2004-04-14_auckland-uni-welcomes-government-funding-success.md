@@ -1,9 +1,13 @@
 ---
 slug: auckland-uni-welcomes-government-funding-success
-title: "Auckland Uni Welcomes Government Funding Success"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/ED0404/S00041/auckland-uni-welcomes-government-funding-success.htm
+title: Auckland Uni Welcomes Government Funding Success
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00041/auckland-uni-welcomes-government-funding-success.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/04/14/auckland-uni-welcomes-government-funding-success/index.html
+layout: layout.njk
 ---
 Auckland Uni Welcomes Government Funding Success
 ================================================

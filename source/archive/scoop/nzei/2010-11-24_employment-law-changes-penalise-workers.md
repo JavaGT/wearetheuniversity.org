@@ -1,9 +1,12 @@
 ---
 slug: employment-law-changes-penalise-workers
-title: "Employment Law Changes Penalise Workers"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PO1011/S00279/employment-law-changes-penalise-workers.htm
+title: Employment Law Changes Penalise Workers
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00279/employment-law-changes-penalise-workers.htm
 author: nzei
+permalink: /archive/2010/11/24/employment-law-changes-penalise-workers/index.html
+layout: layout.njk
 ---
 Employment Law Changes Penalise Workers
 =======================================

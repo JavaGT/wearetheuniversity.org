@@ -1,9 +1,13 @@
 ---
 slug: green-party-celebrates-better-support-for-birth-injuries
-title: "Green Party Celebrates Better Support For Birth Injuries"
-date: 2021-12-15
-source-url: https://www.scoop.co.nz/stories/PA2112/S00125/green-party-celebrates-better-support-for-birth-injuries.htm
+title: Green Party Celebrates Better Support For Birth Injuries
+date: 2021-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00125/green-party-celebrates-better-support-for-birth-injuries.htm
 author: green-party
+permalink: >-
+  /archive/2021/12/15/green-party-celebrates-better-support-for-birth-injuries/index.html
+layout: layout.njk
 ---
 Green Party Celebrates Better Support For Birth Injuries
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: we-have-a-poverty-crisis-in-new-zealand-we-need-to-do-more
-title: "We Have A Poverty Crisis In New Zealand, We Need To Do More"
-date: 2021-03-31
-source-url: https://www.scoop.co.nz/stories/PA2103/S00245/we-have-a-poverty-crisis-in-new-zealand-we-need-to-do-more.htm
+title: We Have A Poverty Crisis In New Zealand, We Need To Do More
+date: 2021-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00245/we-have-a-poverty-crisis-in-new-zealand-we-need-to-do-more.htm
 author: green-party
+permalink: >-
+  /archive/2021/03/31/we-have-a-poverty-crisis-in-new-zealand-we-need-to-do-more/index.html
+layout: layout.njk
 ---
 We Have A Poverty Crisis In New Zealand, We Need To Do More
 ===========================================================

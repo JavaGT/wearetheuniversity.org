@@ -1,9 +1,12 @@
 ---
 slug: strong-line-up-for-12th-bluegreens-forum
-title: "Strong line-up for 12th Bluegreens Forum"
-date: 2011-01-28
-source-url: https://www.scoop.co.nz/stories/PO1101/S00125/strong-line-up-for-12th-bluegreens-forum.htm
+title: Strong line-up for 12th Bluegreens Forum
+date: 2011-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00125/strong-line-up-for-12th-bluegreens-forum.htm
 author: new-zealand-national-party
+permalink: /archive/2011/01/28/strong-line-up-for-12th-bluegreens-forum/index.html
+layout: layout.njk
 ---
 Strong line-up for 12th Bluegreens Forum
 ========================================

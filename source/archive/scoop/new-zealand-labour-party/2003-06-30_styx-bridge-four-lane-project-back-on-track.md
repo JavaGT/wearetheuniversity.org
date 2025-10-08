@@ -1,9 +1,12 @@
 ---
 slug: styx-bridge-four-lane-project-back-on-track
-title: "Styx Bridge Four-Lane Project Back on Track"
-date: 2003-06-30
-source-url: https://www.scoop.co.nz/stories/PA0306/S00563/styx-bridge-four-lane-project-back-on-track.htm
+title: Styx Bridge Four-Lane Project Back on Track
+date: 2003-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00563/styx-bridge-four-lane-project-back-on-track.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/06/30/styx-bridge-four-lane-project-back-on-track/index.html
+layout: layout.njk
 ---
 Styx Bridge Four-Lane Project Back on Track
 ===========================================

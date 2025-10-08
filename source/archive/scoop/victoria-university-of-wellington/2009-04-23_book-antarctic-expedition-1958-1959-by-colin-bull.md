@@ -1,9 +1,13 @@
 ---
 slug: book-antarctic-expedition-1958-1959-by-colin-bull
-title: "Book: Antarctic Expedition 1958-1959 by Colin Bull"
-date: 2009-04-23
-source-url: https://www.scoop.co.nz/stories/SC0904/S00042/book-antarctic-expedition-1958-1959-by-colin-bull.htm
+title: 'Book: Antarctic Expedition 1958-1959 by Colin Bull'
+date: 2009-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00042/book-antarctic-expedition-1958-1959-by-colin-bull.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/04/23/book-antarctic-expedition-1958-1959-by-colin-bull/index.html
+layout: layout.njk
 ---
 Book: Antarctic Expedition 1958-1959 by Colin Bull
 ==================================================

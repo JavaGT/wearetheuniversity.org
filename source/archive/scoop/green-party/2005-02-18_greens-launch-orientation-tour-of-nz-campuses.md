@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-orientation-tour-of-nz-campuses
-title: "Greens Launch Orientation Tour Of NZ Campuses"
-date: 2005-02-18
-source-url: https://www.scoop.co.nz/stories/PA0502/S00414/greens-launch-orientation-tour-of-nz-campuses.htm
+title: Greens Launch Orientation Tour Of NZ Campuses
+date: 2005-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00414/greens-launch-orientation-tour-of-nz-campuses.htm
 author: green-party
+permalink: /archive/2005/02/18/greens-launch-orientation-tour-of-nz-campuses/index.html
+layout: layout.njk
 ---
 Greens Launch Orientation Tour Of NZ Campuses
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: stats-more-stats-and-increasing-student-debt
-title: "Stats, More Stats and Increasing Student Debt"
-date: 2007-04-04
-source-url: https://www.scoop.co.nz/stories/ED0704/S00013/stats-more-stats-and-increasing-student-debt.htm
+title: Stats, More Stats and Increasing Student Debt
+date: 2007-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00013/stats-more-stats-and-increasing-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/04/04/stats-more-stats-and-increasing-student-debt/index.html
+layout: layout.njk
 ---
 Stats, More Stats and Increasing Student Debt
 =============================================

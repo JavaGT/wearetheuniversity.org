@@ -1,9 +1,11 @@
 ---
 slug: massey-wins-vex-world-champs
-title: "Massey wins Vex world champs"
-date: 2011-04-19
+title: Massey wins Vex world champs
+date: 2011-04-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1104/S00338/massey-wins-vex-world-champs.htm
 author: massey-university
+permalink: /archive/2011/04/19/massey-wins-vex-world-champs/index.html
+layout: layout.njk
 ---
 Massey wins Vex world champs
 ============================

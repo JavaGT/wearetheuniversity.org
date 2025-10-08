@@ -1,9 +1,12 @@
 ---
 slug: 1st-anniversary-of-the-end-of-life-choice-bill
-title: "1st Anniversary of the End of Life Choice Bill"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/PA1812/S00182/1st-anniversary-of-the-end-of-life-choice-bill.htm
+title: 1st Anniversary of the End of Life Choice Bill
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00182/1st-anniversary-of-the-end-of-life-choice-bill.htm
 author: act-new-zealand
+permalink: /archive/2018/12/13/1st-anniversary-of-the-end-of-life-choice-bill/index.html
+layout: layout.njk
 ---
 1st Anniversary of the End of Life Choice Bill
 ==============================================

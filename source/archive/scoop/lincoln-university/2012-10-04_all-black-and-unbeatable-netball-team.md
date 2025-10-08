@@ -1,9 +1,12 @@
 ---
 slug: all-black-and-unbeatable-netball-team
-title: "All Black and unbeatable netball team"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/ED1210/S00034/all-black-and-unbeatable-netball-team.htm
+title: All Black and unbeatable netball team
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00034/all-black-and-unbeatable-netball-team.htm
 author: lincoln-university
+permalink: /archive/2012/10/04/all-black-and-unbeatable-netball-team/index.html
+layout: layout.njk
 ---
 All Black and unbeatable netball team
 =====================================

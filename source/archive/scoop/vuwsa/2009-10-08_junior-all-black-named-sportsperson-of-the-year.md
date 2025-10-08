@@ -1,9 +1,12 @@
 ---
 slug: junior-all-black-named-sportsperson-of-the-year
-title: "Junior All Black named sportsperson of the year"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/CU0910/S00138/junior-all-black-named-sportsperson-of-the-year.htm
+title: Junior All Black named sportsperson of the year
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00138/junior-all-black-named-sportsperson-of-the-year.htm
 author: vuwsa
+permalink: /archive/2009/10/08/junior-all-black-named-sportsperson-of-the-year/index.html
+layout: layout.njk
 ---
 Junior All Black named sportsperson of the year
 ===============================================

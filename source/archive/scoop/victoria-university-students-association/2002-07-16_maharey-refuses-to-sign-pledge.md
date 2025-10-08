@@ -1,9 +1,12 @@
 ---
 slug: maharey-refuses-to-sign-pledge
-title: "Maharey Refuses To Sign Pledge"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/ED0207/S00032/maharey-refuses-to-sign-pledge.htm
+title: Maharey Refuses To Sign Pledge
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00032/maharey-refuses-to-sign-pledge.htm
 author: victoria-university-students-association
+permalink: /archive/2002/07/16/maharey-refuses-to-sign-pledge/index.html
+layout: layout.njk
 ---
 Maharey Refuses To Sign Pledge
 ==============================

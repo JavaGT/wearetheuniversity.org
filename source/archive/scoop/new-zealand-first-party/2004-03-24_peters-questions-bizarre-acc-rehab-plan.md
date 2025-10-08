@@ -1,9 +1,12 @@
 ---
 slug: peters-questions-bizarre-acc-rehab-plan
-title: "Peters Questions \"Bizarre\" Acc Rehab Plan"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00522/peters-questions-bizarre-acc-rehab-plan.htm
+title: Peters Questions "Bizarre" Acc Rehab Plan
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00522/peters-questions-bizarre-acc-rehab-plan.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/24/peters-questions-bizarre-acc-rehab-plan/index.html
+layout: layout.njk
 ---
 Peters Questions "Bizarre" Acc Rehab Plan
 =========================================

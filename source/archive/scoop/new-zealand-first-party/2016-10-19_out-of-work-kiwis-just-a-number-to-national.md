@@ -1,9 +1,12 @@
 ---
 slug: out-of-work-kiwis-just-a-number-to-national
-title: "Out of Work Kiwis Just a Number to National"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/PA1610/S00296/out-of-work-kiwis-just-a-number-to-national.htm
+title: Out of Work Kiwis Just a Number to National
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00296/out-of-work-kiwis-just-a-number-to-national.htm
 author: new-zealand-first-party
+permalink: /archive/2016/10/19/out-of-work-kiwis-just-a-number-to-national/index.html
+layout: layout.njk
 ---
 Out of Work Kiwis Just a Number to National
 ===========================================

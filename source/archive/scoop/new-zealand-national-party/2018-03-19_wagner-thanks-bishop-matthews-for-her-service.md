@@ -1,9 +1,12 @@
 ---
 slug: wagner-thanks-bishop-matthews-for-her-service
-title: "Wagner thanks Bishop Matthews for her service"
-date: 2018-03-19
-source-url: https://www.scoop.co.nz/stories/PA1803/S00196/wagner-thanks-bishop-matthews-for-her-service.htm
+title: Wagner thanks Bishop Matthews for her service
+date: 2018-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00196/wagner-thanks-bishop-matthews-for-her-service.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/19/wagner-thanks-bishop-matthews-for-her-service/index.html
+layout: layout.njk
 ---
 Wagner thanks Bishop Matthews for her service
 =============================================

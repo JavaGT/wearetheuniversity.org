@@ -1,9 +1,13 @@
 ---
 slug: finalists-named-for-aut-excellence-in-business-support-award
-title: "Finalists named for AUT Excellence in Business Support Award"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/BU1506/S00291/finalists-named-for-aut-excellence-in-business-support-award.htm
+title: Finalists named for AUT Excellence in Business Support Award
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00291/finalists-named-for-aut-excellence-in-business-support-award.htm
 author: aut-university
+permalink: >-
+  /archive/2015/06/09/finalists-named-for-aut-excellence-in-business-support-award/index.html
+layout: layout.njk
 ---
 Finalists named for AUT Excellence in Business Support Award
 ============================================================

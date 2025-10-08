@@ -1,9 +1,11 @@
 ---
 slug: second-life
-title: "Second Life"
-date: 2007-05-09
+title: Second Life
+date: 2007-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0705/S00038/second-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/09/second-life/index.html
+layout: layout.njk
 ---
 Second Life
 ===========

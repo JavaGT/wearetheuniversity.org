@@ -1,9 +1,12 @@
 ---
 slug: housing-announcement-a-desperate-distraction
-title: "Housing announcement a desperate distraction"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/PA1310/S00025/housing-announcement-a-desperate-distraction.htm
+title: Housing announcement a desperate distraction
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00025/housing-announcement-a-desperate-distraction.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/01/housing-announcement-a-desperate-distraction/index.html
+layout: layout.njk
 ---
 Housing announcement a desperate distraction
 ============================================

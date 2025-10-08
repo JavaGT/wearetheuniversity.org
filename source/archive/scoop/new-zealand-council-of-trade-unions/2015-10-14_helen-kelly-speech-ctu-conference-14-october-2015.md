@@ -1,9 +1,13 @@
 ---
 slug: helen-kelly-speech-ctu-conference-14-october-2015
-title: "Helen Kelly speech – CTU conference 14 October 2015"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PO1510/S00223/helen-kelly-speech-ctu-conference-14-october-2015.htm
+title: Helen Kelly speech – CTU conference 14 October 2015
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00223/helen-kelly-speech-ctu-conference-14-october-2015.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/10/14/helen-kelly-speech-ctu-conference-14-october-2015/index.html
+layout: layout.njk
 ---
 Helen Kelly speech – CTU conference 14 October 2015
 ===================================================

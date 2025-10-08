@@ -1,9 +1,12 @@
 ---
 slug: labour-pushes-vulnerable-into-welfare-trap
-title: "Labour Pushes Vulnerable Into Welfare Trap"
-date: 2002-09-06
-source-url: https://www.scoop.co.nz/stories/PA0209/S00099/labour-pushes-vulnerable-into-welfare-trap.htm
+title: Labour Pushes Vulnerable Into Welfare Trap
+date: 2002-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00099/labour-pushes-vulnerable-into-welfare-trap.htm
 author: act-new-zealand
+permalink: /archive/2002/09/06/labour-pushes-vulnerable-into-welfare-trap/index.html
+layout: layout.njk
 ---
 Labour Pushes Vulnerable Into Welfare Trap
 ==========================================

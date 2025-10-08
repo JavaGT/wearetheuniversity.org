@@ -1,9 +1,12 @@
 ---
 slug: school-of-public-health-launch-looms
-title: "School of Public Health launch looms"
-date: 2010-03-19
-source-url: https://www.scoop.co.nz/stories/GE1003/S00086/school-of-public-health-launch-looms.htm
+title: School of Public Health launch looms
+date: 2010-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1003/S00086/school-of-public-health-launch-looms.htm
 author: massey-university
+permalink: /archive/2010/03/19/school-of-public-health-launch-looms/index.html
+layout: layout.njk
 ---
 School of Public Health launch looms
 ====================================

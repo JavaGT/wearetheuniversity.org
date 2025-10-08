@@ -1,9 +1,12 @@
 ---
 slug: no-accountability-in-mental-health
-title: "No accountability in mental health"
-date: 2008-04-02
-source-url: https://www.scoop.co.nz/stories/PA0804/S00060/no-accountability-in-mental-health.htm
+title: No accountability in mental health
+date: 2008-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00060/no-accountability-in-mental-health.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/02/no-accountability-in-mental-health/index.html
+layout: layout.njk
 ---
 No accountability in mental health
 ==================================

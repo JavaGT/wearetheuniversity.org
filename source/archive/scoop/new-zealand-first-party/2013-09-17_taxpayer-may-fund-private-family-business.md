@@ -1,9 +1,12 @@
 ---
 slug: taxpayer-may-fund-private-family-business
-title: "Taxpayer May Fund Private Family Business"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/PA1309/S00302/taxpayer-may-fund-private-family-business.htm
+title: Taxpayer May Fund Private Family Business
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00302/taxpayer-may-fund-private-family-business.htm
 author: new-zealand-first-party
+permalink: /archive/2013/09/17/taxpayer-may-fund-private-family-business/index.html
+layout: layout.njk
 ---
 Taxpayer May Fund Private Family Business
 =========================================

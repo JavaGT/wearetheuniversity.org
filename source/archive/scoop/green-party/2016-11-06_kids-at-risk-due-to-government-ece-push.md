@@ -1,9 +1,12 @@
 ---
 slug: kids-at-risk-due-to-government-ece-push
-title: "Kids at risk due to Government ECE push"
-date: 2016-11-06
-source-url: https://www.scoop.co.nz/stories/PA1611/S00119/kids-at-risk-due-to-government-ece-push.htm
+title: Kids at risk due to Government ECE push
+date: 2016-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00119/kids-at-risk-due-to-government-ece-push.htm
 author: green-party
+permalink: /archive/2016/11/06/kids-at-risk-due-to-government-ece-push/index.html
+layout: layout.njk
 ---
 Kids at risk due to Government ECE push
 =======================================

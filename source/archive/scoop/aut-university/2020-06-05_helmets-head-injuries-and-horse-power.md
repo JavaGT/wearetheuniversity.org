@@ -1,9 +1,12 @@
 ---
 slug: helmets-head-injuries-and-horse-power
-title: "Helmets, Head Injuries And Horse Power"
-date: 2020-06-05
-source-url: https://www.scoop.co.nz/stories/GE2006/S00028/helmets-head-injuries-and-horse-power.htm
+title: Helmets, Head Injuries And Horse Power
+date: 2020-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2006/S00028/helmets-head-injuries-and-horse-power.htm
 author: aut-university
+permalink: /archive/2020/06/05/helmets-head-injuries-and-horse-power/index.html
+layout: layout.njk
 ---
 Helmets, Head Injuries And Horse Power
 ======================================

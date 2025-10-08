@@ -1,9 +1,11 @@
 ---
 slug: fees-freeze-shafts-students
-title: "Fees Freeze Shafts Students"
-date: 2001-05-24
+title: Fees Freeze Shafts Students
+date: 2001-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0105/S00047/fees-freeze-shafts-students.htm
 author: auckland-university-students-association
+permalink: /archive/2001/05/24/fees-freeze-shafts-students/index.html
+layout: layout.njk
 ---
 Fees Freeze Shafts Students
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: thousands-more-workers-joining-their-union
-title: "Thousands more workers joining their union"
-date: 2005-10-17
-source-url: https://www.scoop.co.nz/stories/PO0510/S00115/thousands-more-workers-joining-their-union.htm
+title: Thousands more workers joining their union
+date: 2005-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0510/S00115/thousands-more-workers-joining-their-union.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/10/17/thousands-more-workers-joining-their-union/index.html
+layout: layout.njk
 ---
 Thousands more workers joining their union
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: research-sheds-new-light-on-pacific-history
-title: "Research sheds new light on Pacific history"
-date: 2001-04-12
-source-url: https://www.scoop.co.nz/stories/SC0104/S00039/research-sheds-new-light-on-pacific-history.htm
+title: Research sheds new light on Pacific history
+date: 2001-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0104/S00039/research-sheds-new-light-on-pacific-history.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/04/12/research-sheds-new-light-on-pacific-history/index.html
+layout: layout.njk
 ---
 Research sheds new light on Pacific history
 ===========================================

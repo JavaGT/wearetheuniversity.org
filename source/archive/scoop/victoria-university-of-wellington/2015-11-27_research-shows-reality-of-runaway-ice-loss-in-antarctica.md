@@ -1,9 +1,13 @@
 ---
 slug: research-shows-reality-of-runaway-ice-loss-in-antarctica
-title: "Research shows reality of runaway ice loss in Antarctica"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/SC1511/S00096/research-shows-reality-of-runaway-ice-loss-in-antarctica.htm
+title: Research shows reality of runaway ice loss in Antarctica
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00096/research-shows-reality-of-runaway-ice-loss-in-antarctica.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/11/27/research-shows-reality-of-runaway-ice-loss-in-antarctica/index.html
+layout: layout.njk
 ---
 Research shows reality of runaway ice loss in Antarctica
 ========================================================

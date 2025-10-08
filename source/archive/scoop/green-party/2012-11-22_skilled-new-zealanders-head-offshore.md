@@ -1,9 +1,12 @@
 ---
 slug: skilled-new-zealanders-head-offshore
-title: "Skilled New Zealanders head offshore"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00376/skilled-new-zealanders-head-offshore.htm
+title: Skilled New Zealanders head offshore
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00376/skilled-new-zealanders-head-offshore.htm
 author: green-party
+permalink: /archive/2012/11/22/skilled-new-zealanders-head-offshore/index.html
+layout: layout.njk
 ---
 Skilled New Zealanders head offshore
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: eqcs-staff-cuts-show-disregard-for-quake-victims
-title: "EQC’s staff cuts show disregard for quake victims"
-date: 2016-11-28
-source-url: https://www.scoop.co.nz/stories/PA1611/S00513/eqcs-staff-cuts-show-disregard-for-quake-victims.htm
+title: EQC’s staff cuts show disregard for quake victims
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00513/eqcs-staff-cuts-show-disregard-for-quake-victims.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/28/eqcs-staff-cuts-show-disregard-for-quake-victims/index.html
+layout: layout.njk
 ---
 EQC’s staff cuts show disregard for quake victims
 =================================================

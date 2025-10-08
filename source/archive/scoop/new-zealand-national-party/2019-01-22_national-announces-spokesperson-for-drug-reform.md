@@ -1,9 +1,12 @@
 ---
 slug: national-announces-spokesperson-for-drug-reform
-title: "National announces spokesperson for Drug Reform"
-date: 2019-01-22
-source-url: https://www.scoop.co.nz/stories/PA1901/S00050/national-announces-spokesperson-for-drug-reform.htm
+title: National announces spokesperson for Drug Reform
+date: 2019-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00050/national-announces-spokesperson-for-drug-reform.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/22/national-announces-spokesperson-for-drug-reform/index.html
+layout: layout.njk
 ---
 National announces spokesperson for Drug Reform
 ===============================================

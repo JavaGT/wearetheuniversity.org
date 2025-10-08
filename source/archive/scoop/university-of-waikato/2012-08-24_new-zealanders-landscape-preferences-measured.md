@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-landscape-preferences-measured
-title: "New Zealanders’ Landscape Preferences Measured"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/ED1208/S00134/new-zealanders-landscape-preferences-measured.htm
+title: New Zealanders’ Landscape Preferences Measured
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00134/new-zealanders-landscape-preferences-measured.htm
 author: university-of-waikato
+permalink: /archive/2012/08/24/new-zealanders-landscape-preferences-measured/index.html
+layout: layout.njk
 ---
 New Zealanders’ Landscape Preferences Measured
 ==============================================

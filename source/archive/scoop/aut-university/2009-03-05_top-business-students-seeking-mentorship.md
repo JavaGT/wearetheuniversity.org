@@ -1,9 +1,12 @@
 ---
 slug: top-business-students-seeking-mentorship
-title: "Top business students seeking mentorship"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/BU0903/S00097/top-business-students-seeking-mentorship.htm
+title: Top business students seeking mentorship
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0903/S00097/top-business-students-seeking-mentorship.htm
 author: aut-university
+permalink: /archive/2009/03/05/top-business-students-seeking-mentorship/index.html
+layout: layout.njk
 ---
 Top business students seeking mentorship
 ========================================

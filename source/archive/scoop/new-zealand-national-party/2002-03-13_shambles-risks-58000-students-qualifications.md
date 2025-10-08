@@ -1,9 +1,12 @@
 ---
 slug: shambles-risks-58000-students-qualifications
-title: "Shambles Risks 58,000 Students' Qualifications"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/PA0203/S00201/shambles-risks-58000-students-qualifications.htm
+title: Shambles Risks 58,000 Students' Qualifications
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00201/shambles-risks-58000-students-qualifications.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/13/shambles-risks-58000-students-qualifications/index.html
+layout: layout.njk
 ---
 Shambles Risks 58,000 Students' Qualifications
 ==============================================

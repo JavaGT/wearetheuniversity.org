@@ -1,9 +1,12 @@
 ---
 slug: slash-education-bureaucracy-pay-teachers-more
-title: "Slash education bureaucracy, pay teachers more"
-date: 2018-08-15
-source-url: https://www.scoop.co.nz/stories/PA1808/S00158/slash-education-bureaucracy-pay-teachers-more.htm
+title: Slash education bureaucracy, pay teachers more
+date: 2018-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00158/slash-education-bureaucracy-pay-teachers-more.htm
 author: act-new-zealand
+permalink: /archive/2018/08/15/slash-education-bureaucracy-pay-teachers-more/index.html
+layout: layout.njk
 ---
 Slash education bureaucracy, pay teachers more
 ==============================================

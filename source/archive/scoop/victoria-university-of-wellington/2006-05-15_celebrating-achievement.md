@@ -1,9 +1,11 @@
 ---
 slug: celebrating-achievement
-title: "Celebrating Achievement"
-date: 2006-05-15
+title: Celebrating Achievement
+date: 2006-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0605/S00048/celebrating-achievement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/15/celebrating-achievement/index.html
+layout: layout.njk
 ---
 Celebrating Achievement
 =======================

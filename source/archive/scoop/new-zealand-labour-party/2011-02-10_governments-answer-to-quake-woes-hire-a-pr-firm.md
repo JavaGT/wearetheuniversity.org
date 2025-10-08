@@ -1,9 +1,12 @@
 ---
 slug: governments-answer-to-quake-woes-hire-a-pr-firm
-title: "Government’s answer to quake woes: Hire a PR firm"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/PA1102/S00143/governments-answer-to-quake-woes-hire-a-pr-firm.htm
+title: 'Government’s answer to quake woes: Hire a PR firm'
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00143/governments-answer-to-quake-woes-hire-a-pr-firm.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/10/governments-answer-to-quake-woes-hire-a-pr-firm/index.html
+layout: layout.njk
 ---
 Government’s answer to quake woes: Hire a PR firm
 =================================================

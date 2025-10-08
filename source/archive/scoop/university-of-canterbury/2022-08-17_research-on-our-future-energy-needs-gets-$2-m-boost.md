@@ -1,9 +1,12 @@
 ---
 slug: research-on-our-future-energy-needs-gets-$2-m-boost
-title: "Research On Our Future Energy Needs Gets $2 M Boost"
-date: 2022-08-17
-source-url: https://www.scoop.co.nz/stories/ED2208/S00029/research-on-our-future-energy-needs-gets-2-m-boost.htm
+title: Research On Our Future Energy Needs Gets $2 M Boost
+date: 2022-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00029/research-on-our-future-energy-needs-gets-2-m-boost.htm
 author: university-of-canterbury
+permalink: /archive/2022/08/17/research-on-our-future-energy-needs-gets-/index.html
+layout: layout.njk
 ---
 Research On Our Future Energy Needs Gets $2 M Boost
 ===================================================

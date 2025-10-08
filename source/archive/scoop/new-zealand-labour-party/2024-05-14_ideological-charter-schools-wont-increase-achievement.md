@@ -1,9 +1,13 @@
 ---
 slug: ideological-charter-schools-wont-increase-achievement
-title: "Ideological Charter Schools Won’t Increase Achievement"
-date: 2024-05-14
-source-url: https://www.scoop.co.nz/stories/PA2405/S00097/ideological-charter-schools-wont-increase-achievement.htm
+title: Ideological Charter Schools Won’t Increase Achievement
+date: 2024-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00097/ideological-charter-schools-wont-increase-achievement.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/05/14/ideological-charter-schools-wont-increase-achievement/index.html
+layout: layout.njk
 ---
 Ideological Charter Schools Won’t Increase Achievement
 ======================================================

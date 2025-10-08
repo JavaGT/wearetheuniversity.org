@@ -1,9 +1,13 @@
 ---
 slug: ministry-must-foster-local-innovation-in-education
-title: "Ministry must foster local innovation in education"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/PA1210/S00485/ministry-must-foster-local-innovation-in-education.htm
+title: Ministry must foster local innovation in education
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00485/ministry-must-foster-local-innovation-in-education.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/29/ministry-must-foster-local-innovation-in-education/index.html
+layout: layout.njk
 ---
 Ministry must foster local innovation in education
 ==================================================

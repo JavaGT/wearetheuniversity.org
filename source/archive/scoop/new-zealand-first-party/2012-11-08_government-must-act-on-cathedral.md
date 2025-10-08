@@ -1,9 +1,12 @@
 ---
 slug: government-must-act-on-cathedral
-title: "Government Must Act On Cathedral"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00126/government-must-act-on-cathedral.htm
+title: Government Must Act On Cathedral
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00126/government-must-act-on-cathedral.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/08/government-must-act-on-cathedral/index.html
+layout: layout.njk
 ---
 Government Must Act On Cathedral
 ================================

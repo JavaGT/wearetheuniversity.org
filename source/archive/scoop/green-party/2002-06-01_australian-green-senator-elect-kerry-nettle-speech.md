@@ -1,9 +1,13 @@
 ---
 slug: australian-green-senator-elect-kerry-nettle-speech
-title: "Australian Green Senator-elect Kerry Nettle Speech"
-date: 2002-06-01
-source-url: https://www.scoop.co.nz/stories/PO0206/S00002/australian-green-senator-elect-kerry-nettle-speech.htm
+title: Australian Green Senator-elect Kerry Nettle Speech
+date: 2002-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0206/S00002/australian-green-senator-elect-kerry-nettle-speech.htm
 author: green-party
+permalink: >-
+  /archive/2002/06/01/australian-green-senator-elect-kerry-nettle-speech/index.html
+layout: layout.njk
 ---
 Australian Green Senator-elect Kerry Nettle Speech
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: removing-race-yeah-right
-title: "Removing race?  Yeah, right"
-date: 2004-12-15
+title: Removing race?  Yeah, right
+date: 2004-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00402/removing-race-yeah-right.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/15/removing-race-yeah-right/index.html
+layout: layout.njk
 ---
 Removing race? Yeah, right
 ==========================

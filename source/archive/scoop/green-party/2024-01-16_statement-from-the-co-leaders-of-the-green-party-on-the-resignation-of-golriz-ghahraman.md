@@ -1,9 +1,16 @@
 ---
-slug: statement-from-the-co-leaders-of-the-green-party-on-the-resignation-of-golriz-ghahraman
-title: "Statement From The Co-leaders Of The Green Party On The Resignation Of Golriz Ghahraman"
-date: 2024-01-16
-source-url: https://www.scoop.co.nz/stories/PA2401/S00016/statement-from-the-co-leaders-of-the-green-party-on-the-resignation-of-golriz-ghahraman.htm
+slug: >-
+  statement-from-the-co-leaders-of-the-green-party-on-the-resignation-of-golriz-ghahraman
+title: >-
+  Statement From The Co-leaders Of The Green Party On The Resignation Of Golriz
+  Ghahraman
+date: 2024-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00016/statement-from-the-co-leaders-of-the-green-party-on-the-resignation-of-golriz-ghahraman.htm
 author: green-party
+permalink: >-
+  /archive/2024/01/16/statement-from-the-co-leaders-of-the-green-party-on-the-resignation-of-golriz-ghahraman/index.html
+layout: layout.njk
 ---
 Statement From The Co-leaders Of The Green Party On The Resignation Of Golriz Ghahraman
 =======================================================================================

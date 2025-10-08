@@ -1,9 +1,12 @@
 ---
 slug: mayans-to-moa-hunters-virtual-worlds
-title: "Mayans to moa hunters: virtual worlds"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/ED0907/S00076/mayans-to-moa-hunters-virtual-worlds.htm
+title: 'Mayans to moa hunters: virtual worlds'
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00076/mayans-to-moa-hunters-virtual-worlds.htm
 author: massey-university
+permalink: /archive/2009/07/20/mayans-to-moa-hunters-virtual-worlds/index.html
+layout: layout.njk
 ---
 Mayans to moa hunters: virtual worlds
 =====================================

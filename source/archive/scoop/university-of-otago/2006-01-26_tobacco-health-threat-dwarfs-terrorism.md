@@ -1,9 +1,12 @@
 ---
 slug: tobacco-health-threat-dwarfs-terrorism
-title: "Tobacco Health Threat Dwarfs Terrorism"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/GE0601/S00047/tobacco-health-threat-dwarfs-terrorism.htm
+title: Tobacco Health Threat Dwarfs Terrorism
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0601/S00047/tobacco-health-threat-dwarfs-terrorism.htm
 author: university-of-otago
+permalink: /archive/2006/01/26/tobacco-health-threat-dwarfs-terrorism/index.html
+layout: layout.njk
 ---
 Tobacco Health Threat Dwarfs Terrorism
 ======================================

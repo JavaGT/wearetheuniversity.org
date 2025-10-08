@@ -1,9 +1,12 @@
 ---
 slug: scholarship-paves-the-way-to-antarctica
-title: "Scholarship paves the way to Antarctica"
-date: 2014-11-19
-source-url: https://www.scoop.co.nz/stories/ED1411/S00122/scholarship-paves-the-way-to-antarctica.htm
+title: Scholarship paves the way to Antarctica
+date: 2014-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00122/scholarship-paves-the-way-to-antarctica.htm
 author: university-of-waikato
+permalink: /archive/2014/11/19/scholarship-paves-the-way-to-antarctica/index.html
+layout: layout.njk
 ---
 Scholarship paves the way to Antarctica
 =======================================

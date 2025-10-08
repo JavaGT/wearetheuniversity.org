@@ -1,9 +1,11 @@
 ---
 slug: student-body-more-feminine
-title: "Student body more feminine"
-date: 2015-06-22
+title: Student body more feminine
+date: 2015-06-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1506/S00111/student-body-more-feminine.htm
 author: lincoln-university
+permalink: /archive/2015/06/22/student-body-more-feminine/index.html
+layout: layout.njk
 ---
 Student body more feminine
 ==========================

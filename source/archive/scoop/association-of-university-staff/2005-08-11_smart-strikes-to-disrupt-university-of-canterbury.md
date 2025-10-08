@@ -1,9 +1,13 @@
 ---
 slug: smart-strikes-to-disrupt-university-of-canterbury
-title: "Smart Strikes to Disrupt University of Canterbury"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/ED0508/S00054/smart-strikes-to-disrupt-university-of-canterbury.htm
+title: Smart Strikes to Disrupt University of Canterbury
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00054/smart-strikes-to-disrupt-university-of-canterbury.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/08/11/smart-strikes-to-disrupt-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Smart Strikes to Disrupt University of Canterbury
 =================================================

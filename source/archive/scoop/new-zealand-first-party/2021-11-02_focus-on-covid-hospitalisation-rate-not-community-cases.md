@@ -1,9 +1,13 @@
 ---
 slug: focus-on-covid-hospitalisation-rate-not-community-cases
-title: "Focus On Covid Hospitalisation Rate – Not Community Cases"
-date: 2021-11-02
-source-url: https://www.scoop.co.nz/stories/PO2111/S00019/focus-on-covid-hospitalisation-rate-not-community-cases.htm
+title: Focus On Covid Hospitalisation Rate – Not Community Cases
+date: 2021-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00019/focus-on-covid-hospitalisation-rate-not-community-cases.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2021/11/02/focus-on-covid-hospitalisation-rate-not-community-cases/index.html
+layout: layout.njk
 ---
 Focus On Covid Hospitalisation Rate – Not Community Cases
 =========================================================

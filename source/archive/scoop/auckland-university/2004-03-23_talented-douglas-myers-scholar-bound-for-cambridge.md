@@ -1,9 +1,13 @@
 ---
 slug: talented-douglas-myers-scholar-bound-for-cambridge
-title: "Talented Douglas Myers Scholar Bound For Cambridge"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/ED0403/S00091/talented-douglas-myers-scholar-bound-for-cambridge.htm
+title: Talented Douglas Myers Scholar Bound For Cambridge
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00091/talented-douglas-myers-scholar-bound-for-cambridge.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/03/23/talented-douglas-myers-scholar-bound-for-cambridge/index.html
+layout: layout.njk
 ---
 Talented Douglas Myers Scholar Bound For Cambridge
 ==================================================

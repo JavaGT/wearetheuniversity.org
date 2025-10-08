@@ -1,9 +1,12 @@
 ---
 slug: uc-graduates-make-their-mark-on-art-show
-title: "UC graduates make their mark on Art Show"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/ED1505/S00114/uc-graduates-make-their-mark-on-art-show.htm
+title: UC graduates make their mark on Art Show
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00114/uc-graduates-make-their-mark-on-art-show.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/29/uc-graduates-make-their-mark-on-art-show/index.html
+layout: layout.njk
 ---
 UC graduates make their mark on Art Show
 ========================================

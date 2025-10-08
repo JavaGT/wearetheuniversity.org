@@ -1,9 +1,13 @@
 ---
 slug: christchurch-teachers-call-on-key-to-stop-and-listen
-title: "Christchurch teachers call on Key to stop and listen"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/PA1212/S00080/christchurch-teachers-call-on-key-to-stop-and-listen.htm
+title: Christchurch teachers call on Key to stop and listen
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00080/christchurch-teachers-call-on-key-to-stop-and-listen.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/06/christchurch-teachers-call-on-key-to-stop-and-listen/index.html
+layout: layout.njk
 ---
 Christchurch teachers call on Key to stop and listen
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: international-opera-scholar-honoured
-title: "International opera scholar honoured"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/CU0609/S00244/international-opera-scholar-honoured.htm
+title: International opera scholar honoured
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0609/S00244/international-opera-scholar-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/25/international-opera-scholar-honoured/index.html
+layout: layout.njk
 ---
 International opera scholar honoured
 ====================================

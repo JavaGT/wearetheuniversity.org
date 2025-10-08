@@ -1,9 +1,12 @@
 ---
 slug: making-connections-throughout-hauraki
-title: "Making Connections throughout Hauraki"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PO0809/S00279/making-connections-throughout-hauraki.htm
+title: Making Connections throughout Hauraki
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00279/making-connections-throughout-hauraki.htm
 author: te-pati-maori
+permalink: /archive/2008/09/19/making-connections-throughout-hauraki/index.html
+layout: layout.njk
 ---
 Making Connections throughout Hauraki
 =====================================

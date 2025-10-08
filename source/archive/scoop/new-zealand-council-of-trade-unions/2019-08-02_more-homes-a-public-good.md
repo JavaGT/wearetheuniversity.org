@@ -1,9 +1,11 @@
 ---
 slug: more-homes-a-public-good
-title: "More Homes - a public good"
-date: 2019-08-02
+title: More Homes - a public good
+date: 2019-08-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1908/S00028/more-homes-a-public-good.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2019/08/02/more-homes-a-public-good/index.html
+layout: layout.njk
 ---
 More Homes - a public good
 ==========================

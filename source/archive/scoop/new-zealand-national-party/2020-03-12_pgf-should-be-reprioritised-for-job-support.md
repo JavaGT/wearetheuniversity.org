@@ -1,9 +1,12 @@
 ---
 slug: pgf-should-be-reprioritised-for-job-support
-title: "PGF Should Be Reprioritised For Job Support"
-date: 2020-03-12
-source-url: https://www.scoop.co.nz/stories/PA2003/S00095/pgf-should-be-reprioritised-for-job-support.htm
+title: PGF Should Be Reprioritised For Job Support
+date: 2020-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00095/pgf-should-be-reprioritised-for-job-support.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/12/pgf-should-be-reprioritised-for-job-support/index.html
+layout: layout.njk
 ---
 PGF Should Be Reprioritised For Job Support
 ===========================================

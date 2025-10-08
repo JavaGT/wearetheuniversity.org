@@ -1,9 +1,13 @@
 ---
 slug: the-ethnic-pay-gap-in-new-zealands-public-sector
-title: "The Ethnic Pay Gap In New Zealand’s Public Sector"
-date: 2020-09-17
-source-url: https://www.scoop.co.nz/stories/ED2009/S00037/the-ethnic-pay-gap-in-new-zealands-public-sector.htm
+title: The Ethnic Pay Gap In New Zealand’s Public Sector
+date: 2020-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00037/the-ethnic-pay-gap-in-new-zealands-public-sector.htm
 author: aut-university
+permalink: >-
+  /archive/2020/09/17/the-ethnic-pay-gap-in-new-zealands-public-sector/index.html
+layout: layout.njk
 ---
 The Ethnic Pay Gap In New Zealand’s Public Sector
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-bureaucratic-attack-on-the-nations-backbone
-title: "Speech: Peters- Bureaucratic attack on the nation’s backbone"
-date: 2016-12-04
-source-url: https://www.scoop.co.nz/stories/PA1612/S00061/speech-peters-bureaucratic-attack-on-the-nations-backbone.htm
+title: 'Speech: Peters- Bureaucratic attack on the nation’s backbone'
+date: 2016-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00061/speech-peters-bureaucratic-attack-on-the-nations-backbone.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/12/04/speech-peters-bureaucratic-attack-on-the-nations-backbone/index.html
+layout: layout.njk
 ---
 Speech: Peters- Bureaucratic attack on the nation’s backbone
 ============================================================

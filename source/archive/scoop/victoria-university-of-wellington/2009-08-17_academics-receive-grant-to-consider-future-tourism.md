@@ -1,9 +1,13 @@
 ---
 slug: academics-receive-grant-to-consider-future-tourism
-title: "Academics receive grant to consider future tourism"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/ED0908/S00054/academics-receive-grant-to-consider-future-tourism.htm
+title: Academics receive grant to consider future tourism
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00054/academics-receive-grant-to-consider-future-tourism.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/08/17/academics-receive-grant-to-consider-future-tourism/index.html
+layout: layout.njk
 ---
 Academics receive grant to consider future tourism
 ==================================================

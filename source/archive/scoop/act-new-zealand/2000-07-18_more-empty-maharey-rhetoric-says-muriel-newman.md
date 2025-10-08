@@ -1,9 +1,12 @@
 ---
 slug: more-empty-maharey-rhetoric-says-muriel-newman
-title: "More Empty Maharey Rhetoric Says Muriel Newman"
-date: 2000-07-18
-source-url: https://www.scoop.co.nz/stories/PA0007/S00275/more-empty-maharey-rhetoric-says-muriel-newman.htm
+title: More Empty Maharey Rhetoric Says Muriel Newman
+date: 2000-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00275/more-empty-maharey-rhetoric-says-muriel-newman.htm
 author: act-new-zealand
+permalink: /archive/2000/07/18/more-empty-maharey-rhetoric-says-muriel-newman/index.html
+layout: layout.njk
 ---
 More Empty Maharey Rhetoric Says Muriel Newman
 ==============================================

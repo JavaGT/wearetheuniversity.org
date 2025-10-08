@@ -1,9 +1,11 @@
 ---
 slug: primary-strikes-to-go-ahead
-title: "Primary strikes to go ahead"
-date: 2018-10-26
+title: Primary strikes to go ahead
+date: 2018-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1810/S00251/primary-strikes-to-go-ahead.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/26/primary-strikes-to-go-ahead/index.html
+layout: layout.njk
 ---
 Primary strikes to go ahead
 ===========================

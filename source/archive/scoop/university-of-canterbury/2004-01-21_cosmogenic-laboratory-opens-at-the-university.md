@@ -1,9 +1,12 @@
 ---
 slug: cosmogenic-laboratory-opens-at-the-university
-title: "Cosmogenic laboratory opens at the University"
-date: 2004-01-21
-source-url: https://www.scoop.co.nz/stories/SC0401/S00031/cosmogenic-laboratory-opens-at-the-university.htm
+title: Cosmogenic laboratory opens at the University
+date: 2004-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0401/S00031/cosmogenic-laboratory-opens-at-the-university.htm
 author: university-of-canterbury
+permalink: /archive/2004/01/21/cosmogenic-laboratory-opens-at-the-university/index.html
+layout: layout.njk
 ---
 Cosmogenic laboratory opens at the University
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-protective-effect-of-breastfeeding-on-breast-cancer
-title: "The protective effect of breastfeeding on breast cancer"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/GE1703/S00002/the-protective-effect-of-breastfeeding-on-breast-cancer.htm
+title: The protective effect of breastfeeding on breast cancer
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00002/the-protective-effect-of-breastfeeding-on-breast-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/01/the-protective-effect-of-breastfeeding-on-breast-cancer/index.html
+layout: layout.njk
 ---
 The protective effect of breastfeeding on breast cancer
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: evolution-religion-and-the-nature-of-society
-title: "Evolution, religion and the nature of society"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/ED0508/S00068/evolution-religion-and-the-nature-of-society.htm
+title: Evolution, religion and the nature of society
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00068/evolution-religion-and-the-nature-of-society.htm
 author: auckland-university
+permalink: /archive/2005/08/15/evolution-religion-and-the-nature-of-society/index.html
+layout: layout.njk
 ---
 Evolution, religion and the nature of society
 =============================================

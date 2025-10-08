@@ -1,9 +1,13 @@
 ---
 slug: tackling-the-global-challenge-of-physical-inactivity
-title: "Tackling the global challenge of physical inactivity"
-date: 2019-12-18
-source-url: https://www.scoop.co.nz/stories/GE1912/S00055/tackling-the-global-challenge-of-physical-inactivity.htm
+title: Tackling the global challenge of physical inactivity
+date: 2019-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1912/S00055/tackling-the-global-challenge-of-physical-inactivity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/18/tackling-the-global-challenge-of-physical-inactivity/index.html
+layout: layout.njk
 ---
 Tackling the global challenge of physical inactivity
 ====================================================

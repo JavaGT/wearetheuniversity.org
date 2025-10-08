@@ -1,9 +1,12 @@
 ---
 slug: govt-must-not-short-change-care-workers
-title: "Govt must not short change care workers"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/PA1107/S00244/govt-must-not-short-change-care-workers.htm
+title: Govt must not short change care workers
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00244/govt-must-not-short-change-care-workers.htm
 author: green-party
+permalink: /archive/2011/07/14/govt-must-not-short-change-care-workers/index.html
+layout: layout.njk
 ---
 Govt must not short change care workers
 =======================================

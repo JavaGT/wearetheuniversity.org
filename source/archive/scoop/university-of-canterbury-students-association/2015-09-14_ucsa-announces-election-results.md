@@ -1,9 +1,12 @@
 ---
 slug: ucsa-announces-election-results
-title: "UCSA announces election results"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/ED1509/S00083/ucsa-announces-election-results.htm
+title: UCSA announces election results
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00083/ucsa-announces-election-results.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2015/09/14/ucsa-announces-election-results/index.html
+layout: layout.njk
 ---
 UCSA announces election results
 ===============================

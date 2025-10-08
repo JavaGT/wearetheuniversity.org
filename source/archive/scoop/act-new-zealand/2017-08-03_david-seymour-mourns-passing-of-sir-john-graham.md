@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-mourns-passing-of-sir-john-graham
-title: "David Seymour mourns passing of Sir John Graham"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/PA1708/S00067/david-seymour-mourns-passing-of-sir-john-graham.htm
+title: David Seymour mourns passing of Sir John Graham
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00067/david-seymour-mourns-passing-of-sir-john-graham.htm
 author: act-new-zealand
+permalink: /archive/2017/08/03/david-seymour-mourns-passing-of-sir-john-graham/index.html
+layout: layout.njk
 ---
 David Seymour mourns passing of Sir John Graham
 ===============================================

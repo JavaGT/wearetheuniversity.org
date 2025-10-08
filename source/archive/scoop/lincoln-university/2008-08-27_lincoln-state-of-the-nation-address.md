@@ -1,9 +1,12 @@
 ---
 slug: lincoln-state-of-the-nation-address
-title: "Lincoln 'State of the Nation' address"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/ED0808/S00084/lincoln-state-of-the-nation-address.htm
+title: Lincoln 'State of the Nation' address
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00084/lincoln-state-of-the-nation-address.htm
 author: lincoln-university
+permalink: /archive/2008/08/27/lincoln-state-of-the-nation-address/index.html
+layout: layout.njk
 ---
 Lincoln 'State of the Nation' address
 =====================================

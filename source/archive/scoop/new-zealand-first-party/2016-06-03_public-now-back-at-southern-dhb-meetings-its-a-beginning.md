@@ -1,9 +1,13 @@
 ---
 slug: public-now-back-at-southern-dhb-meetings-its-a-beginning
-title: "Public Now Back at Southern DHB Meetings – It’s a Beginning"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00076/public-now-back-at-southern-dhb-meetings-its-a-beginning.htm
+title: Public Now Back at Southern DHB Meetings – It’s a Beginning
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00076/public-now-back-at-southern-dhb-meetings-its-a-beginning.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/03/public-now-back-at-southern-dhb-meetings-its-a-beginning/index.html
+layout: layout.njk
 ---
 Public Now Back at Southern DHB Meetings – It’s a Beginning
 ===========================================================

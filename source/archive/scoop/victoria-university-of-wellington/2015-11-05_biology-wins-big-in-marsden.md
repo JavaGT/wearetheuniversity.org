@@ -1,9 +1,11 @@
 ---
 slug: biology-wins-big-in-marsden
-title: "Biology wins big in Marsden"
-date: 2015-11-05
+title: Biology wins big in Marsden
+date: 2015-11-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1511/S00027/biology-wins-big-in-marsden.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/11/05/biology-wins-big-in-marsden/index.html
+layout: layout.njk
 ---
 Biology wins big in Marsden
 ===========================

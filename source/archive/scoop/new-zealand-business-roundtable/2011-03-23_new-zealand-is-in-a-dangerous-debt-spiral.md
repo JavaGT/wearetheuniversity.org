@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-is-in-a-dangerous-debt-spiral
-title: "New Zealand is in a dangerous debt spiral"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/PO1103/S00218/new-zealand-is-in-a-dangerous-debt-spiral.htm
+title: New Zealand is in a dangerous debt spiral
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00218/new-zealand-is-in-a-dangerous-debt-spiral.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/03/23/new-zealand-is-in-a-dangerous-debt-spiral/index.html
+layout: layout.njk
 ---
 New Zealand is in a dangerous debt spiral
 =========================================

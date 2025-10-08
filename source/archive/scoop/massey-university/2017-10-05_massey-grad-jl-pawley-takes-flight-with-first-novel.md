@@ -1,9 +1,13 @@
 ---
 slug: massey-grad-jl-pawley-takes-flight-with-first-novel
-title: "Massey Grad JL Pawley Takes Flight with First Novel"
-date: 2017-10-05
-source-url: https://www.scoop.co.nz/stories/CU1710/S00089/massey-grad-jl-pawley-takes-flight-with-first-novel.htm
+title: Massey Grad JL Pawley Takes Flight with First Novel
+date: 2017-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00089/massey-grad-jl-pawley-takes-flight-with-first-novel.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/05/massey-grad-jl-pawley-takes-flight-with-first-novel/index.html
+layout: layout.njk
 ---
 Massey Grad JL Pawley Takes Flight with First Novel
 ===================================================

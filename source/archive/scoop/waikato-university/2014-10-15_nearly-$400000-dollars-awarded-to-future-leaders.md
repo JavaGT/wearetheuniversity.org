@@ -1,9 +1,12 @@
 ---
 slug: nearly-$400000-dollars-awarded-to-future-leaders
-title: "Nearly $400,000 dollars awarded to future leaders"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/ED1410/S00090/nearly-400000-dollars-awarded-to-future-leaders.htm
+title: Nearly $400,000 dollars awarded to future leaders
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00090/nearly-400000-dollars-awarded-to-future-leaders.htm
 author: waikato-university
+permalink: /archive/2014/10/15/nearly-/index.html
+layout: layout.njk
 ---
 Nearly $400,000 dollars awarded to future leaders
 =================================================

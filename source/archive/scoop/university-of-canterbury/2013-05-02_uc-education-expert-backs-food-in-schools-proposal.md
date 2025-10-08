@@ -1,9 +1,13 @@
 ---
 slug: uc-education-expert-backs-food-in-schools-proposal
-title: "UC education expert backs food in schools proposal"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00009/uc-education-expert-backs-food-in-schools-proposal.htm
+title: UC education expert backs food in schools proposal
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00009/uc-education-expert-backs-food-in-schools-proposal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/02/uc-education-expert-backs-food-in-schools-proposal/index.html
+layout: layout.njk
 ---
 UC education expert backs food in schools proposal
 ==================================================

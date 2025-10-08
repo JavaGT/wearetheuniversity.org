@@ -1,9 +1,13 @@
 ---
 slug: incompetency-and-competency-training-in-making-decisions
-title: "Incompetency and Competency Training in Making Decisions"
-date: 2016-07-28
-source-url: https://www.scoop.co.nz/stories/ED1607/S00098/incompetency-and-competency-training-in-making-decisions.htm
+title: Incompetency and Competency Training in Making Decisions
+date: 2016-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00098/incompetency-and-competency-training-in-making-decisions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/28/incompetency-and-competency-training-in-making-decisions/index.html
+layout: layout.njk
 ---
 Incompetency and Competency Training in Making Decisions
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-public-policy-riddles
-title: "Roger Kerr - Public Policy Riddles"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/BU0709/S00136/roger-kerr-public-policy-riddles.htm
+title: Roger Kerr - Public Policy Riddles
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00136/roger-kerr-public-policy-riddles.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/09/07/roger-kerr-public-policy-riddles/index.html
+layout: layout.njk
 ---
 Roger Kerr - Public Policy Riddles
 ==================================

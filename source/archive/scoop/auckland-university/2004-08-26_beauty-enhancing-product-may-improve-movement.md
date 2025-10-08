@@ -1,9 +1,12 @@
 ---
 slug: beauty-enhancing-product-may-improve-movement
-title: "Beauty Enhancing Product May Improve Movement"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/GE0408/S00102/beauty-enhancing-product-may-improve-movement.htm
+title: Beauty Enhancing Product May Improve Movement
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0408/S00102/beauty-enhancing-product-may-improve-movement.htm
 author: auckland-university
+permalink: /archive/2004/08/26/beauty-enhancing-product-may-improve-movement/index.html
+layout: layout.njk
 ---
 Beauty Enhancing Product May Improve Movement
 =============================================

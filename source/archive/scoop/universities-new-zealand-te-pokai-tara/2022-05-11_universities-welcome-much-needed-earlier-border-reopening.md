@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-much-needed-earlier-border-reopening
-title: "Universities Welcome Much-needed Earlier Border Reopening"
-date: 2022-05-11
-source-url: https://www.scoop.co.nz/stories/PO2205/S00089/universities-welcome-much-needed-earlier-border-reopening.htm
+title: Universities Welcome Much-needed Earlier Border Reopening
+date: 2022-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00089/universities-welcome-much-needed-earlier-border-reopening.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/05/11/universities-welcome-much-needed-earlier-border-reopening/index.html
+layout: layout.njk
 ---
 Universities Welcome Much-needed Earlier Border Reopening
 =========================================================

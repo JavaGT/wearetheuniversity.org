@@ -1,9 +1,13 @@
 ---
 slug: short-sighted-funding-cuts-cap-nations-potential
-title: "Short-sighted funding cuts cap nation’s potential"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/PO1105/S00145/short-sighted-funding-cuts-cap-nations-potential.htm
+title: Short-sighted funding cuts cap nation’s potential
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00145/short-sighted-funding-cuts-cap-nations-potential.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/05/11/short-sighted-funding-cuts-cap-nations-potential/index.html
+layout: layout.njk
 ---
 Short-sighted funding cuts cap nation’s potential
 =================================================

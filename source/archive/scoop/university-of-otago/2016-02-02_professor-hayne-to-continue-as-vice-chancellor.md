@@ -1,9 +1,12 @@
 ---
 slug: professor-hayne-to-continue-as-vice-chancellor
-title: "Professor Hayne to continue as Vice-Chancellor"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/AK1602/S00031/professor-hayne-to-continue-as-vice-chancellor.htm
+title: Professor Hayne to continue as Vice-Chancellor
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1602/S00031/professor-hayne-to-continue-as-vice-chancellor.htm
 author: university-of-otago
+permalink: /archive/2016/02/02/professor-hayne-to-continue-as-vice-chancellor/index.html
+layout: layout.njk
 ---
 Professor Hayne to continue as Vice-Chancellor
 ==============================================

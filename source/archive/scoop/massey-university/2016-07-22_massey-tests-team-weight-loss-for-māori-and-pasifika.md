@@ -1,9 +1,12 @@
 ---
 slug: massey-tests-team-weight-loss-for-māori-and-pasifika
-title: "Massey tests team weight loss for Māori and Pasifika"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/GE1607/S00070/massey-tests-team-weight-loss-for-maori-and-pasifika.htm
+title: Massey tests team weight loss for Māori and Pasifika
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00070/massey-tests-team-weight-loss-for-maori-and-pasifika.htm
 author: massey-university
+permalink: /archive/2016/07/22/massey-tests-team-weight-loss-for-m/index.html
+layout: layout.njk
 ---
 Massey tests team weight loss for Māori and Pasifika
 ====================================================

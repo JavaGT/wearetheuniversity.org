@@ -1,9 +1,12 @@
 ---
 slug: bolder-action-required-to-fix-housing-emergency
-title: "Bolder Action Required To Fix Housing Emergency"
-date: 2021-01-21
-source-url: https://www.scoop.co.nz/stories/PA2101/S00048/bolder-action-required-to-fix-housing-emergency.htm
+title: Bolder Action Required To Fix Housing Emergency
+date: 2021-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00048/bolder-action-required-to-fix-housing-emergency.htm
 author: new-zealand-national-party
+permalink: /archive/2021/01/21/bolder-action-required-to-fix-housing-emergency/index.html
+layout: layout.njk
 ---
 Bolder Action Required To Fix Housing Emergency
 ===============================================

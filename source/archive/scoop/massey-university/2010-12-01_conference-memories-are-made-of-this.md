@@ -1,9 +1,12 @@
 ---
 slug: conference-memories-are-made-of-this
-title: "Conference memories are made of this"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/ED1012/S00003/conference-memories-are-made-of-this.htm
+title: Conference memories are made of this
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00003/conference-memories-are-made-of-this.htm
 author: massey-university
+permalink: /archive/2010/12/01/conference-memories-are-made-of-this/index.html
+layout: layout.njk
 ---
 Conference memories are made of this
 ====================================

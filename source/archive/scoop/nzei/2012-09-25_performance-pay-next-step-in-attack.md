@@ -1,9 +1,12 @@
 ---
 slug: performance-pay-next-step-in-attack
-title: "Performance Pay - next step in attack"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/ED1209/S00185/performance-pay-next-step-in-attack.htm
+title: Performance Pay - next step in attack
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00185/performance-pay-next-step-in-attack.htm
 author: nzei
+permalink: /archive/2012/09/25/performance-pay-next-step-in-attack/index.html
+layout: layout.njk
 ---
 Performance Pay - next step in attack
 =====================================

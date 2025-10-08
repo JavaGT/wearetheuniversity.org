@@ -1,9 +1,13 @@
 ---
 slug: nzs-second-tertiary-community-engagement-summit-at-uc
-title: "NZ’s second tertiary community engagement summit at UC"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/ED1410/S00173/nzs-second-tertiary-community-engagement-summit-at-uc.htm
+title: NZ’s second tertiary community engagement summit at UC
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00173/nzs-second-tertiary-community-engagement-summit-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/31/nzs-second-tertiary-community-engagement-summit-at-uc/index.html
+layout: layout.njk
 ---
 NZ’s second tertiary community engagement summit at UC
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: get-tough-on-foreign-workforce-industries-too
-title: "Get tough on foreign workforce industries too"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00368/get-tough-on-foreign-workforce-industries-too.htm
+title: Get tough on foreign workforce industries too
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00368/get-tough-on-foreign-workforce-industries-too.htm
 author: te-pati-maori
+permalink: /archive/2010/03/24/get-tough-on-foreign-workforce-industries-too/index.html
+layout: layout.njk
 ---
 Get tough on foreign workforce industries too
 =============================================

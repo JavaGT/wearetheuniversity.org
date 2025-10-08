@@ -1,9 +1,13 @@
 ---
 slug: budget-2016-opts-for-future-tax-cuts-over-real-investment
-title: "Budget 2016 opts for future tax cuts over real investment"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/PA1605/S00585/budget-2016-opts-for-future-tax-cuts-over-real-investment.htm
+title: Budget 2016 opts for future tax cuts over real investment
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00585/budget-2016-opts-for-future-tax-cuts-over-real-investment.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/27/budget-2016-opts-for-future-tax-cuts-over-real-investment/index.html
+layout: layout.njk
 ---
 Budget 2016 opts for future tax cuts over real investment
 =========================================================

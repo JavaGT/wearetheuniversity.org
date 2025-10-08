@@ -1,9 +1,12 @@
 ---
 slug: study-reveals-profile-of-māori-university-graduates
-title: "Study reveals profile of Māori university graduates"
-date: 2015-11-23
-source-url: https://www.scoop.co.nz/stories/ED1511/S00106/study-reveals-profile-of-maori-university-graduates.htm
+title: Study reveals profile of Māori university graduates
+date: 2015-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00106/study-reveals-profile-of-maori-university-graduates.htm
 author: university-of-otago
+permalink: /archive/2015/11/23/study-reveals-profile-of-m/index.html
+layout: layout.njk
 ---
 Study reveals profile of Māori university graduates
 ===================================================

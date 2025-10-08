@@ -1,9 +1,12 @@
 ---
 slug: winz-it-system-failures-must-be-urgently-fixed
-title: "WINZ IT system failures must be urgently fixed"
-date: 2016-03-10
-source-url: https://www.scoop.co.nz/stories/PA1603/S00181/winz-it-system-failures-must-be-urgently-fixed.htm
+title: WINZ IT system failures must be urgently fixed
+date: 2016-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00181/winz-it-system-failures-must-be-urgently-fixed.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/10/winz-it-system-failures-must-be-urgently-fixed/index.html
+layout: layout.njk
 ---
 WINZ IT system failures must be urgently fixed
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: garam-masala-august-2016
-title: "Garam Masala: August 2016"
-date: 2016-08-31
+title: 'Garam Masala: August 2016'
+date: 2016-08-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1608/S00558/garam-masala-august-2016.htm
 author: new-zealand-national-party
+permalink: /archive/2016/08/31/garam-masala-august-2016/index.html
+layout: layout.njk
 ---
 Garam Masala: August 2016
 =========================

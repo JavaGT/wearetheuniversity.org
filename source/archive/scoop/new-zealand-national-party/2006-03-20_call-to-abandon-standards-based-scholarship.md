@@ -1,9 +1,12 @@
 ---
 slug: call-to-abandon-standards-based-scholarship
-title: "Call to abandon standards-based scholarship"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00316/call-to-abandon-standards-based-scholarship.htm
+title: Call to abandon standards-based scholarship
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00316/call-to-abandon-standards-based-scholarship.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/20/call-to-abandon-standards-based-scholarship/index.html
+layout: layout.njk
 ---
 Call to abandon standards-based scholarship
 ===========================================

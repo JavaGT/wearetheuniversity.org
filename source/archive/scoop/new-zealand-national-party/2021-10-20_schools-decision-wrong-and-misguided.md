@@ -1,9 +1,12 @@
 ---
 slug: schools-decision-wrong-and-misguided
-title: "Schools Decision Wrong And Misguided"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00194/schools-decision-wrong-and-misguided.htm
+title: Schools Decision Wrong And Misguided
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00194/schools-decision-wrong-and-misguided.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/20/schools-decision-wrong-and-misguided/index.html
+layout: layout.njk
 ---
 Schools Decision Wrong And Misguided
 ====================================

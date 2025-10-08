@@ -1,9 +1,13 @@
 ---
 slug: speech-todd-muller-families-communities-small-business
-title: "SPEECH: Todd Muller - Families, Communities, Small Business"
-date: 2020-05-29
-source-url: https://www.scoop.co.nz/stories/PA2005/S00244/speech-todd-muller-families-communities-small-business.htm
+title: 'SPEECH: Todd Muller - Families, Communities, Small Business'
+date: 2020-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00244/speech-todd-muller-families-communities-small-business.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/29/speech-todd-muller-families-communities-small-business/index.html
+layout: layout.njk
 ---
 SPEECH: Todd Muller - Families, Communities, Small Business
 ===========================================================

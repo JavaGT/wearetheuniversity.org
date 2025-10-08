@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-biggest-bridge-testing-at-uc
-title: "New Zealand’s biggest bridge testing at UC"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/SC1308/S00033/new-zealands-biggest-bridge-testing-at-uc.htm
+title: New Zealand’s biggest bridge testing at UC
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00033/new-zealands-biggest-bridge-testing-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/14/new-zealands-biggest-bridge-testing-at-uc/index.html
+layout: layout.njk
 ---
 New Zealand’s biggest bridge testing at UC
 ==========================================

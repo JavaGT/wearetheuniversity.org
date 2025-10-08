@@ -1,9 +1,13 @@
 ---
 slug: free-drug-programmes-make-market-more-attractive
-title: "Free drug programmes make market more attractive"
-date: 2009-04-21
-source-url: https://www.scoop.co.nz/stories/GE0904/S00047/free-drug-programmes-make-market-more-attractive.htm
+title: Free drug programmes make market more attractive
+date: 2009-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0904/S00047/free-drug-programmes-make-market-more-attractive.htm
 author: massey-university
+permalink: >-
+  /archive/2009/04/21/free-drug-programmes-make-market-more-attractive/index.html
+layout: layout.njk
 ---
 Free drug programmes make market more attractive
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: legal-change-a-positive-step-for-nzs-braided-rivers
-title: "Legal Change A Positive Step For NZ’s Braided Rivers"
-date: 2024-01-18
-source-url: https://www.scoop.co.nz/stories/ED2401/S00007/legal-change-a-positive-step-for-nzs-braided-rivers.htm
+title: Legal Change A Positive Step For NZ’s Braided Rivers
+date: 2024-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2401/S00007/legal-change-a-positive-step-for-nzs-braided-rivers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/01/18/legal-change-a-positive-step-for-nzs-braided-rivers/index.html
+layout: layout.njk
 ---
 Legal Change A Positive Step For NZ’s Braided Rivers
 ====================================================

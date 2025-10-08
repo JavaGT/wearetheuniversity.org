@@ -1,9 +1,13 @@
 ---
 slug: closing-nzs-border-in-severe-pandemics-cost-effective
-title: "Closing NZ’s border in severe pandemics cost-effective"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/GE1808/S00025/closing-nzs-border-in-severe-pandemics-cost-effective.htm
+title: Closing NZ’s border in severe pandemics cost-effective
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00025/closing-nzs-border-in-severe-pandemics-cost-effective.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/09/closing-nzs-border-in-severe-pandemics-cost-effective/index.html
+layout: layout.njk
 ---
 Closing NZ’s border in severe pandemics cost-effective
 ======================================================

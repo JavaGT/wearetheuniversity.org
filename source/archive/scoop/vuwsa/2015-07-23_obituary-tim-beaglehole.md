@@ -1,9 +1,11 @@
 ---
 slug: obituary-tim-beaglehole
-title: "Obituary: Tim Beaglehole"
-date: 2015-07-23
+title: 'Obituary: Tim Beaglehole'
+date: 2015-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1507/S00106/obituary-tim-beaglehole.htm
 author: vuwsa
+permalink: /archive/2015/07/23/obituary-tim-beaglehole/index.html
+layout: layout.njk
 ---
 Obituary: Tim Beaglehole
 ========================

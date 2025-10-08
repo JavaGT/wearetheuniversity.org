@@ -1,9 +1,12 @@
 ---
 slug: national-holds-successful-tauranga-meeting
-title: "National holds successful Tauranga meeting"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/PA0210/S00116/national-holds-successful-tauranga-meeting.htm
+title: National holds successful Tauranga meeting
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00116/national-holds-successful-tauranga-meeting.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/07/national-holds-successful-tauranga-meeting/index.html
+layout: layout.njk
 ---
 National holds successful Tauranga meeting
 ==========================================

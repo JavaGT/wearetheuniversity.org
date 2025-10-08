@@ -1,9 +1,12 @@
 ---
 slug: ecstasy-use-up-as-methamphetamine-levels-off
-title: "Ecstasy use up as methamphetamine levels off"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/ED0906/S00029/ecstasy-use-up-as-methamphetamine-levels-off.htm
+title: Ecstasy use up as methamphetamine levels off
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00029/ecstasy-use-up-as-methamphetamine-levels-off.htm
 author: massey-university
+permalink: /archive/2009/06/11/ecstasy-use-up-as-methamphetamine-levels-off/index.html
+layout: layout.njk
 ---
 Ecstasy use up as methamphetamine levels off
 ============================================

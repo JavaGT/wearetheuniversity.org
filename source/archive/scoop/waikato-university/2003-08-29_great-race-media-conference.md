@@ -1,9 +1,11 @@
 ---
 slug: great-race-media-conference
-title: "Great Race Media Conference"
-date: 2003-08-29
+title: Great Race Media Conference
+date: 2003-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0308/S00102/great-race-media-conference.htm
 author: waikato-university
+permalink: /archive/2003/08/29/great-race-media-conference/index.html
+layout: layout.njk
 ---
 Great Race Media Conference
 ===========================

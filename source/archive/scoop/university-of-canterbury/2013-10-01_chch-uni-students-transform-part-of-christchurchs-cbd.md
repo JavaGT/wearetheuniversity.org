@@ -1,9 +1,13 @@
 ---
 slug: chch-uni-students-transform-part-of-christchurchs-cbd
-title: "Chch Uni students transform part of Christchurch’s CBD"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/AK1310/S00042/chch-uni-students-transform-part-of-christchurchs-cbd.htm
+title: Chch Uni students transform part of Christchurch’s CBD
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00042/chch-uni-students-transform-part-of-christchurchs-cbd.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/01/chch-uni-students-transform-part-of-christchurchs-cbd/index.html
+layout: layout.njk
 ---
 Chch Uni students transform part of Christchurch’s CBD
 ======================================================

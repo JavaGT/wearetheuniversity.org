@@ -1,9 +1,13 @@
 ---
 slug: top-two-asia-pacific-ranking-for-wellington-design-school
-title: "Top two Asia-Pacific ranking for Wellington design school"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/ED1608/S00100/top-two-asia-pacific-ranking-for-wellington-design-school.htm
+title: Top two Asia-Pacific ranking for Wellington design school
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00100/top-two-asia-pacific-ranking-for-wellington-design-school.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/25/top-two-asia-pacific-ranking-for-wellington-design-school/index.html
+layout: layout.njk
 ---
 Top two Asia-Pacific ranking for Wellington design school
 =========================================================

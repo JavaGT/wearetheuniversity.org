@@ -1,9 +1,12 @@
 ---
 slug: uc-grows-china-business-connections
-title: "UC grows China business connections"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/ED1606/S00039/uc-grows-china-business-connections.htm
+title: UC grows China business connections
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00039/uc-grows-china-business-connections.htm
 author: university-of-canterbury
+permalink: /archive/2016/06/14/uc-grows-china-business-connections/index.html
+layout: layout.njk
 ---
 UC grows China business connections
 ===================================

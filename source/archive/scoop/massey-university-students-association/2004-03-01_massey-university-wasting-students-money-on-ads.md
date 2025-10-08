@@ -1,9 +1,12 @@
 ---
 slug: massey-university-wasting-students-money-on-ads
-title: "Massey University wasting students’ money on ads"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/ED0403/S00001/massey-university-wasting-students-money-on-ads.htm
+title: Massey University wasting students’ money on ads
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00001/massey-university-wasting-students-money-on-ads.htm
 author: massey-university-students-association
+permalink: /archive/2004/03/01/massey-university-wasting-students-money-on-ads/index.html
+layout: layout.njk
 ---
 Massey University wasting students’ money on ads
 ================================================

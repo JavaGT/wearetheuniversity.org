@@ -1,9 +1,13 @@
 ---
 slug: uc-research-project-helping-children-with-autism
-title: "UC research project helping children with autism"
-date: 2013-02-06
-source-url: https://www.scoop.co.nz/stories/SC1302/S00024/uc-research-project-helping-children-with-autism.htm
+title: UC research project helping children with autism
+date: 2013-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00024/uc-research-project-helping-children-with-autism.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/06/uc-research-project-helping-children-with-autism/index.html
+layout: layout.njk
 ---
 UC research project helping children with autism
 ================================================

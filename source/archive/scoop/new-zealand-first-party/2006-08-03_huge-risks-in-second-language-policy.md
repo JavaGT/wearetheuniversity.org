@@ -1,9 +1,12 @@
 ---
 slug: huge-risks-in-second-language-policy
-title: "Huge Risks In Second Language Policy"
-date: 2006-08-03
-source-url: https://www.scoop.co.nz/stories/PA0608/S00050/huge-risks-in-second-language-policy.htm
+title: Huge Risks In Second Language Policy
+date: 2006-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00050/huge-risks-in-second-language-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2006/08/03/huge-risks-in-second-language-policy/index.html
+layout: layout.njk
 ---
 Huge Risks In Second Language Policy
 ====================================

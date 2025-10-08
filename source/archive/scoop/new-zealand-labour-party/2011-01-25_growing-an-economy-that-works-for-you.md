@@ -1,9 +1,12 @@
 ---
 slug: growing-an-economy-that-works-for-you
-title: "Growing an economy that works for you"
-date: 2011-01-25
-source-url: https://www.scoop.co.nz/stories/PA1101/S00080/growing-an-economy-that-works-for-you.htm
+title: Growing an economy that works for you
+date: 2011-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00080/growing-an-economy-that-works-for-you.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/25/growing-an-economy-that-works-for-you/index.html
+layout: layout.njk
 ---
 Growing an economy that works for you
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-mahareys-tinkering-wont-motivate-students
-title: "NCEA: Maharey's tinkering won't motivate students"
-date: 2006-07-07
-source-url: https://www.scoop.co.nz/stories/PA0607/S00096/ncea-mahareys-tinkering-wont-motivate-students.htm
+title: 'NCEA: Maharey''s tinkering won''t motivate students'
+date: 2006-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00096/ncea-mahareys-tinkering-wont-motivate-students.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/07/ncea-mahareys-tinkering-wont-motivate-students/index.html
+layout: layout.njk
 ---
 NCEA: Maharey's tinkering won't motivate students
 =================================================

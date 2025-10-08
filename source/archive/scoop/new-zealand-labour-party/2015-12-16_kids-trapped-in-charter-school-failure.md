@@ -1,9 +1,12 @@
 ---
 slug: kids-trapped-in-charter-school-failure
-title: "Kids trapped in charter school failure"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00362/kids-trapped-in-charter-school-failure.htm
+title: Kids trapped in charter school failure
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00362/kids-trapped-in-charter-school-failure.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/16/kids-trapped-in-charter-school-failure/index.html
+layout: layout.njk
 ---
 Kids trapped in charter school failure
 ======================================

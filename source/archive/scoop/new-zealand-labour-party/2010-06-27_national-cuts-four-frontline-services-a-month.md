@@ -1,9 +1,12 @@
 ---
 slug: national-cuts-four-frontline-services-a-month
-title: "National Cuts Four Frontline Services A Month"
-date: 2010-06-27
-source-url: https://www.scoop.co.nz/stories/PA1006/S00425/national-cuts-four-frontline-services-a-month.htm
+title: National Cuts Four Frontline Services A Month
+date: 2010-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00425/national-cuts-four-frontline-services-a-month.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/27/national-cuts-four-frontline-services-a-month/index.html
+layout: layout.njk
 ---
 National Cuts Four Frontline Services A Month
 =============================================

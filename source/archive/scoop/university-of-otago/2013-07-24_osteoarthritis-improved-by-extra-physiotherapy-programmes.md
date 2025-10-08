@@ -1,9 +1,13 @@
 ---
 slug: osteoarthritis-improved-by-extra-physiotherapy-programmes
-title: "Osteoarthritis improved by extra physiotherapy programmes"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/SC1307/S00063/osteoarthritis-improved-by-extra-physiotherapy-programmes.htm
+title: Osteoarthritis improved by extra physiotherapy programmes
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00063/osteoarthritis-improved-by-extra-physiotherapy-programmes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/24/osteoarthritis-improved-by-extra-physiotherapy-programmes/index.html
+layout: layout.njk
 ---
 Osteoarthritis improved by extra physiotherapy programmes
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: old-dirt-new-boots-the-economics-of-land-water-and-people
-title: "Old dirt, new boots: the economics of land, water and people"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/ED1603/S00098/old-dirt-new-boots-the-economics-of-land-water-and-people.htm
+title: 'Old dirt, new boots: the economics of land, water and people'
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00098/old-dirt-new-boots-the-economics-of-land-water-and-people.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/03/31/old-dirt-new-boots-the-economics-of-land-water-and-people/index.html
+layout: layout.njk
 ---
 Old dirt, new boots: the economics of land, water and people
 ============================================================

@@ -1,8 +1,11 @@
 ---
 slug: arts-underpass-back-in-action
-title: "Arts underpass back in action"
-date: 2011-04-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/04/12/Arts-underpass-back-in-action.html
+title: Arts underpass back in action
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/04/12/Arts-underpass-back-in-action.html
+permalink: /archive/2011/04/12/arts-underpass-back-in-action/index.html
+layout: layout.njk
 ---
 Arts underpass back in action
 =============================

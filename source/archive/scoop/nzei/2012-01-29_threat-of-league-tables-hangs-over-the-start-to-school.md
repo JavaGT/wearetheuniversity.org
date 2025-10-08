@@ -1,9 +1,13 @@
 ---
 slug: threat-of-league-tables-hangs-over-the-start-to-school
-title: "Threat of league tables hangs over the start to school"
-date: 2012-01-29
-source-url: https://www.scoop.co.nz/stories/ED1201/S00062/threat-of-league-tables-hangs-over-the-start-to-school.htm
+title: Threat of league tables hangs over the start to school
+date: 2012-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00062/threat-of-league-tables-hangs-over-the-start-to-school.htm
 author: nzei
+permalink: >-
+  /archive/2012/01/29/threat-of-league-tables-hangs-over-the-start-to-school/index.html
+layout: layout.njk
 ---
 Threat of league tables hangs over the start to school
 ======================================================

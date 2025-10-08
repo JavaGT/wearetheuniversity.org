@@ -1,9 +1,12 @@
 ---
 slug: mallard-cant-gloss-over-the-facts
-title: "Mallard can't gloss over the facts"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/PA0105/S00602/mallard-cant-gloss-over-the-facts.htm
+title: Mallard can't gloss over the facts
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00602/mallard-cant-gloss-over-the-facts.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/28/mallard-cant-gloss-over-the-facts/index.html
+layout: layout.njk
 ---
 Mallard can't gloss over the facts
 ==================================

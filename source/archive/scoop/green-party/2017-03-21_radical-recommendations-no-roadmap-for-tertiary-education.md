@@ -1,9 +1,13 @@
 ---
 slug: radical-recommendations-no-roadmap-for-tertiary-education
-title: "Radical recommendations no roadmap for tertiary education"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00331/radical-recommendations-no-roadmap-for-tertiary-education.htm
+title: Radical recommendations no roadmap for tertiary education
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00331/radical-recommendations-no-roadmap-for-tertiary-education.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/21/radical-recommendations-no-roadmap-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Radical recommendations no roadmap for tertiary education
 =========================================================

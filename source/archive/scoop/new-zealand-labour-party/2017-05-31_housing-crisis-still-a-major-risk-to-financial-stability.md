@@ -1,9 +1,13 @@
 ---
 slug: housing-crisis-still-a-major-risk-to-financial-stability
-title: "Housing crisis still a major risk to financial stability"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00649/housing-crisis-still-a-major-risk-to-financial-stability.htm
+title: Housing crisis still a major risk to financial stability
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00649/housing-crisis-still-a-major-risk-to-financial-stability.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/31/housing-crisis-still-a-major-risk-to-financial-stability/index.html
+layout: layout.njk
 ---
 Housing crisis still a major risk to financial stability
 ========================================================

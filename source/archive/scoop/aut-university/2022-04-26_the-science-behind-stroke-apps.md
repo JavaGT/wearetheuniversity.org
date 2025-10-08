@@ -1,9 +1,12 @@
 ---
 slug: the-science-behind-stroke-apps
-title: "The Science Behind Stroke Apps"
-date: 2022-04-26
-source-url: https://www.scoop.co.nz/stories/SC2204/S00027/the-science-behind-stroke-apps.htm
+title: The Science Behind Stroke Apps
+date: 2022-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2204/S00027/the-science-behind-stroke-apps.htm
 author: aut-university
+permalink: /archive/2022/04/26/the-science-behind-stroke-apps/index.html
+layout: layout.njk
 ---
 The Science Behind Stroke Apps
 ==============================

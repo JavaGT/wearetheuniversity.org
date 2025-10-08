@@ -1,9 +1,13 @@
 ---
 slug: agriculture-minister-may-have-conflict-of-interest
-title: "Agriculture Minister may have conflict of interest"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/PA1003/S00513/agriculture-minister-may-have-conflict-of-interest.htm
+title: Agriculture Minister may have conflict of interest
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00513/agriculture-minister-may-have-conflict-of-interest.htm
 author: green-party
+permalink: >-
+  /archive/2010/03/31/agriculture-minister-may-have-conflict-of-interest/index.html
+layout: layout.njk
 ---
 Agriculture Minister may have conflict of interest
 ==================================================

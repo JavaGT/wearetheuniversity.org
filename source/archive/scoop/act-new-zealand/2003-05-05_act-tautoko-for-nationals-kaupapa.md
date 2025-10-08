@@ -1,9 +1,12 @@
 ---
 slug: act-tautoko-for-nationals-kaupapa
-title: "ACT Tautoko For National's Kaupapa"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/PA0305/S00074/act-tautoko-for-nationals-kaupapa.htm
+title: ACT Tautoko For National's Kaupapa
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00074/act-tautoko-for-nationals-kaupapa.htm
 author: act-new-zealand
+permalink: /archive/2003/05/05/act-tautoko-for-nationals-kaupapa/index.html
+layout: layout.njk
 ---
 ACT Tautoko For National's Kaupapa
 ==================================

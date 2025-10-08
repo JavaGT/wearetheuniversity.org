@@ -1,9 +1,13 @@
 ---
 slug: nearly-400-students-enrolled-already-in-summer-courses
-title: "Nearly 400 students enrolled already in summer courses"
-date: 2014-10-30
-source-url: https://www.scoop.co.nz/stories/ED1410/S00165/nearly-400-students-enrolled-already-in-summer-courses.htm
+title: Nearly 400 students enrolled already in summer courses
+date: 2014-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00165/nearly-400-students-enrolled-already-in-summer-courses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/30/nearly-400-students-enrolled-already-in-summer-courses/index.html
+layout: layout.njk
 ---
 Nearly 400 students enrolled already in summer courses
 ======================================================

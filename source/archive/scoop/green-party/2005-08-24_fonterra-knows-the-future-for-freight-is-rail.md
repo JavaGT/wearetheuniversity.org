@@ -1,9 +1,12 @@
 ---
 slug: fonterra-knows-the-future-for-freight-is-rail
-title: "Fonterra knows the future for freight is rail"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00608/fonterra-knows-the-future-for-freight-is-rail.htm
+title: Fonterra knows the future for freight is rail
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00608/fonterra-knows-the-future-for-freight-is-rail.htm
 author: green-party
+permalink: /archive/2005/08/24/fonterra-knows-the-future-for-freight-is-rail/index.html
+layout: layout.njk
 ---
 Fonterra knows the future for freight is rail
 =============================================

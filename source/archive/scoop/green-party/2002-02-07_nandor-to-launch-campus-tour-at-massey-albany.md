@@ -1,9 +1,12 @@
 ---
 slug: nandor-to-launch-campus-tour-at-massey-albany
-title: "Nandor To Launch Campus Tour At Massey Albany"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/PA0202/S00048/nandor-to-launch-campus-tour-at-massey-albany.htm
+title: Nandor To Launch Campus Tour At Massey Albany
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00048/nandor-to-launch-campus-tour-at-massey-albany.htm
 author: green-party
+permalink: /archive/2002/02/07/nandor-to-launch-campus-tour-at-massey-albany/index.html
+layout: layout.njk
 ---
 Nandor To Launch Campus Tour At Massey Albany
 =============================================

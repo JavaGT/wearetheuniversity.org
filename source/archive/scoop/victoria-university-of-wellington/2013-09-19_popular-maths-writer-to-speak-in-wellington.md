@@ -1,9 +1,12 @@
 ---
 slug: popular-maths-writer-to-speak-in-wellington
-title: "Popular Maths Writer to Speak In Wellington"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/ED1309/S00116/popular-maths-writer-to-speak-in-wellington.htm
+title: Popular Maths Writer to Speak In Wellington
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00116/popular-maths-writer-to-speak-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/19/popular-maths-writer-to-speak-in-wellington/index.html
+layout: layout.njk
 ---
 Popular Maths Writer to Speak In Wellington
 ===========================================

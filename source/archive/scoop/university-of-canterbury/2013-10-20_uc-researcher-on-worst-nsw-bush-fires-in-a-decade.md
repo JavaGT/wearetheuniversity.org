@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-on-worst-nsw-bush-fires-in-a-decade
-title: "UC researcher on worst NSW bush fires in a decade"
-date: 2013-10-20
-source-url: https://www.scoop.co.nz/stories/AK1310/S00750/uc-researcher-on-worst-nsw-bush-fires-in-a-decade.htm
+title: UC researcher on worst NSW bush fires in a decade
+date: 2013-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00750/uc-researcher-on-worst-nsw-bush-fires-in-a-decade.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/20/uc-researcher-on-worst-nsw-bush-fires-in-a-decade/index.html
+layout: layout.njk
 ---
 UC researcher on worst NSW bush fires in a decade
 =================================================

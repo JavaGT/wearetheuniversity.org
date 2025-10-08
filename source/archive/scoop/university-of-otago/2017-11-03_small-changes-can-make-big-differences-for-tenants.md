@@ -1,9 +1,13 @@
 ---
 slug: small-changes-can-make-big-differences-for-tenants
-title: "Small changes can make big differences for tenants"
-date: 2017-11-03
-source-url: https://www.scoop.co.nz/stories/PO1711/S00048/small-changes-can-make-big-differences-for-tenants.htm
+title: Small changes can make big differences for tenants
+date: 2017-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00048/small-changes-can-make-big-differences-for-tenants.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/11/03/small-changes-can-make-big-differences-for-tenants/index.html
+layout: layout.njk
 ---
 Small changes can make big differences for tenants
 ==================================================

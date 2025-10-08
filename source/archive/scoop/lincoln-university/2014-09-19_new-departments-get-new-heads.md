@@ -1,9 +1,12 @@
 ---
 slug: new-departments-get-new-heads
-title: "New departments get new heads"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/ED1409/S00119/new-departments-get-new-heads.htm
+title: New departments get new heads
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00119/new-departments-get-new-heads.htm
 author: lincoln-university
+permalink: /archive/2014/09/19/new-departments-get-new-heads/index.html
+layout: layout.njk
 ---
 New departments get new heads
 =============================

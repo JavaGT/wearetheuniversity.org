@@ -1,9 +1,13 @@
 ---
 slug: seedbank-strategies-needed-to-conserve-our-forest-taonga
-title: "Seedbank Strategies Needed To Conserve Our Forest Taonga"
-date: 2023-12-12
-source-url: https://www.scoop.co.nz/stories/SC2312/S00016/seedbank-strategies-needed-to-conserve-our-forest-taonga.htm
+title: Seedbank Strategies Needed To Conserve Our Forest Taonga
+date: 2023-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2312/S00016/seedbank-strategies-needed-to-conserve-our-forest-taonga.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/12/12/seedbank-strategies-needed-to-conserve-our-forest-taonga/index.html
+layout: layout.njk
 ---
 Seedbank Strategies Needed To Conserve Our Forest Taonga
 ========================================================

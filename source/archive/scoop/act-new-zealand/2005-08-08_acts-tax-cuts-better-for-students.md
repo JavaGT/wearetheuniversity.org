@@ -1,9 +1,12 @@
 ---
 slug: acts-tax-cuts-better-for-students
-title: "ACT’s tax cuts better for students"
-date: 2005-08-08
-source-url: https://www.scoop.co.nz/stories/PA0508/S00201/acts-tax-cuts-better-for-students.htm
+title: ACT’s tax cuts better for students
+date: 2005-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00201/acts-tax-cuts-better-for-students.htm
 author: act-new-zealand
+permalink: /archive/2005/08/08/acts-tax-cuts-better-for-students/index.html
+layout: layout.njk
 ---
 ACT’s tax cuts better for students
 ==================================

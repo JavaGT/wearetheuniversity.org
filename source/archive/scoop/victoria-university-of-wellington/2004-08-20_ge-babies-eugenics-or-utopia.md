@@ -1,9 +1,11 @@
 ---
 slug: ge-babies-eugenics-or-utopia
-title: "GE Babies: Eugenics or Utopia?"
-date: 2004-08-20
+title: 'GE Babies: Eugenics or Utopia?'
+date: 2004-08-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0408/S00094/ge-babies-eugenics-or-utopia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/20/ge-babies-eugenics-or-utopia/index.html
+layout: layout.njk
 ---
 GE Babies: Eugenics or Utopia?
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: penny-simmonds-nationals-candidate-for-invercargill
-title: "Penny Simmonds National’s candidate for Invercargill"
-date: 2020-05-19
-source-url: https://www.scoop.co.nz/stories/PO2005/S00270/penny-simmonds-nationals-candidate-for-invercargill.htm
+title: Penny Simmonds National’s candidate for Invercargill
+date: 2020-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00270/penny-simmonds-nationals-candidate-for-invercargill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/19/penny-simmonds-nationals-candidate-for-invercargill/index.html
+layout: layout.njk
 ---
 Penny Simmonds National’s candidate for Invercargill
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: sustainability-is-more-than-300-years-old
-title: "Sustainability Is More Than 300 Years Old"
-date: 2023-08-30
-source-url: https://www.scoop.co.nz/stories/WO2308/S00226/sustainability-is-more-than-300-years-old.htm
+title: Sustainability Is More Than 300 Years Old
+date: 2023-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2308/S00226/sustainability-is-more-than-300-years-old.htm
 author: independent-media-institute
+permalink: /archive/2023/08/30/sustainability-is-more-than-300-years-old/index.html
+layout: layout.njk
 ---
 Sustainability Is More Than 300 Years Old
 =========================================

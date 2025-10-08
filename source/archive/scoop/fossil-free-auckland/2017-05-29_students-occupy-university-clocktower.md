@@ -1,9 +1,12 @@
 ---
 slug: students-occupy-university-clocktower
-title: "Students Occupy University Clocktower"
-date: 2017-05-29
-source-url: https://www.scoop.co.nz/stories/PO1705/S00434/students-occupy-university-clocktower.htm
+title: Students Occupy University Clocktower
+date: 2017-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00434/students-occupy-university-clocktower.htm
 author: fossil-free-auckland
+permalink: /archive/2017/05/29/students-occupy-university-clocktower/index.html
+layout: layout.njk
 ---
 Students Occupy University Clocktower
 =====================================

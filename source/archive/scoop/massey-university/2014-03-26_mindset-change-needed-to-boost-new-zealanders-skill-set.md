@@ -1,9 +1,13 @@
 ---
 slug: mindset-change-needed-to-boost-new-zealanders-skill-set
-title: "Mindset change needed to boost New Zealanders skill set"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/ED1403/S00157/mindset-change-needed-to-boost-new-zealanders-skill-set.htm
+title: Mindset change needed to boost New Zealanders skill set
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00157/mindset-change-needed-to-boost-new-zealanders-skill-set.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/26/mindset-change-needed-to-boost-new-zealanders-skill-set/index.html
+layout: layout.njk
 ---
 Mindset change needed to boost New Zealanders skill set
 =======================================================

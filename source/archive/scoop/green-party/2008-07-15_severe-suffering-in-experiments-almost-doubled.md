@@ -1,9 +1,12 @@
 ---
 slug: severe-suffering-in-experiments-almost-doubled
-title: "Severe suffering in experiments almost doubled"
-date: 2008-07-15
-source-url: https://www.scoop.co.nz/stories/PA0807/S00271/severe-suffering-in-experiments-almost-doubled.htm
+title: Severe suffering in experiments almost doubled
+date: 2008-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00271/severe-suffering-in-experiments-almost-doubled.htm
 author: green-party
+permalink: /archive/2008/07/15/severe-suffering-in-experiments-almost-doubled/index.html
+layout: layout.njk
 ---
 Severe suffering in experiments almost doubled
 ==============================================

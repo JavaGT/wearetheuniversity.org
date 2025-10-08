@@ -1,9 +1,12 @@
 ---
 slug: corrupt-arms-firm-awarded-nzdf-contract
-title: "Corrupt Arms Firm Awarded NZDF Contract"
-date: 2024-08-25
-source-url: https://www.scoop.co.nz/stories/PO2408/S00120/corrupt-arms-firm-awarded-nzdf-contract.htm
+title: Corrupt Arms Firm Awarded NZDF Contract
+date: 2024-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2408/S00120/corrupt-arms-firm-awarded-nzdf-contract.htm
 author: peace-action-wellington
+permalink: /archive/2024/08/25/corrupt-arms-firm-awarded-nzdf-contract/index.html
+layout: layout.njk
 ---
 Corrupt Arms Firm Awarded NZDF Contract
 =======================================

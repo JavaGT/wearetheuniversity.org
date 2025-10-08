@@ -1,9 +1,12 @@
 ---
 slug: debates-put-topical-issues-under-the-microscope
-title: "Debates put topical issues under the microscope"
-date: 2013-10-04
-source-url: https://www.scoop.co.nz/stories/BU1310/S00192/debates-put-topical-issues-under-the-microscope.htm
+title: Debates put topical issues under the microscope
+date: 2013-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1310/S00192/debates-put-topical-issues-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/04/debates-put-topical-issues-under-the-microscope/index.html
+layout: layout.njk
 ---
 Debates put topical issues under the microscope
 ===============================================

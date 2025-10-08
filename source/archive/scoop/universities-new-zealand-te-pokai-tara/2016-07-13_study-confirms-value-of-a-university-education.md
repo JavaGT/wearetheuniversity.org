@@ -1,9 +1,12 @@
 ---
 slug: study-confirms-value-of-a-university-education
-title: "Study confirms value of a university education"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/ED1607/S00057/study-confirms-value-of-a-university-education.htm
+title: Study confirms value of a university education
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00057/study-confirms-value-of-a-university-education.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/07/13/study-confirms-value-of-a-university-education/index.html
+layout: layout.njk
 ---
 Study confirms value of a university education
 ==============================================

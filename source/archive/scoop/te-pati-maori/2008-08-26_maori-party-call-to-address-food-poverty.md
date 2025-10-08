@@ -1,9 +1,12 @@
 ---
 slug: maori-party-call-to-address-food-poverty
-title: "Maori Party Call to Address Food Poverty"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PA0808/S00380/maori-party-call-to-address-food-poverty.htm
+title: Maori Party Call to Address Food Poverty
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00380/maori-party-call-to-address-food-poverty.htm
 author: te-pati-maori
+permalink: /archive/2008/08/26/maori-party-call-to-address-food-poverty/index.html
+layout: layout.njk
 ---
 Maori Party Call to Address Food Poverty
 ========================================

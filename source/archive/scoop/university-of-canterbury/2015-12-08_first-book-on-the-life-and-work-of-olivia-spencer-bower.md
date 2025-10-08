@@ -1,9 +1,13 @@
 ---
 slug: first-book-on-the-life-and-work-of-olivia-spencer-bower
-title: "First book on the life and work of Olivia Spencer Bower"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/CU1512/S00135/first-book-on-the-life-and-work-of-olivia-spencer-bower.htm
+title: First book on the life and work of Olivia Spencer Bower
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00135/first-book-on-the-life-and-work-of-olivia-spencer-bower.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/08/first-book-on-the-life-and-work-of-olivia-spencer-bower/index.html
+layout: layout.njk
 ---
 First book on the life and work of Olivia Spencer Bower
 =======================================================

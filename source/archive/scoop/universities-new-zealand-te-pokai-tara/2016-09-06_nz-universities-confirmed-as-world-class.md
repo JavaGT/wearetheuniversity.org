@@ -1,9 +1,12 @@
 ---
 slug: nz-universities-confirmed-as-world-class
-title: "NZ universities confirmed as world-class"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00024/nz-universities-confirmed-as-world-class.htm
+title: NZ universities confirmed as world-class
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00024/nz-universities-confirmed-as-world-class.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/09/06/nz-universities-confirmed-as-world-class/index.html
+layout: layout.njk
 ---
 NZ universities confirmed as world-class
 ========================================

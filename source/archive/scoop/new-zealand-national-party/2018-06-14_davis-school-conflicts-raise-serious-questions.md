@@ -1,9 +1,12 @@
 ---
 slug: davis-school-conflicts-raise-serious-questions
-title: "Davis’ school conflicts raise serious questions"
-date: 2018-06-14
-source-url: https://www.scoop.co.nz/stories/PA1806/S00146/davis-school-conflicts-raise-serious-questions.htm
+title: Davis’ school conflicts raise serious questions
+date: 2018-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00146/davis-school-conflicts-raise-serious-questions.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/14/davis-school-conflicts-raise-serious-questions/index.html
+layout: layout.njk
 ---
 Davis’ school conflicts raise serious questions
 ===============================================

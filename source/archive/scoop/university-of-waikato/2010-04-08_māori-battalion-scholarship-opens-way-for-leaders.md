@@ -1,9 +1,12 @@
 ---
 slug: māori-battalion-scholarship-opens-way-for-leaders
-title: "Māori Battalion scholarship opens way for leaders"
-date: 2010-04-08
-source-url: https://www.scoop.co.nz/stories/ED1004/S00008/maori-battalion-scholarship-opens-way-for-leaders.htm
+title: Māori Battalion scholarship opens way for leaders
+date: 2010-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00008/maori-battalion-scholarship-opens-way-for-leaders.htm
 author: university-of-waikato
+permalink: /archive/2010/04/08/m/index.html
+layout: layout.njk
 ---
 Māori Battalion scholarship opens way for leaders
 =================================================

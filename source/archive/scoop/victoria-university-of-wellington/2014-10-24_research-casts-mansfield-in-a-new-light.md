@@ -1,9 +1,12 @@
 ---
 slug: research-casts-mansfield-in-a-new-light
-title: "Research casts Mansfield in a new light"
-date: 2014-10-24
-source-url: https://www.scoop.co.nz/stories/ED1410/S00136/research-casts-mansfield-in-a-new-light.htm
+title: Research casts Mansfield in a new light
+date: 2014-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00136/research-casts-mansfield-in-a-new-light.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/24/research-casts-mansfield-in-a-new-light/index.html
+layout: layout.njk
 ---
 Research casts Mansfield in a new light
 =======================================

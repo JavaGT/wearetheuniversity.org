@@ -1,9 +1,13 @@
 ---
 slug: nz-sgain-leading-voice-in-commonwealth-students-association
-title: "NZ sgain leading voice in Commonwealth Students' Association"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/ED1302/S00061/nz-sgain-leading-voice-in-commonwealth-students-association.htm
+title: NZ sgain leading voice in Commonwealth Students' Association
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00061/nz-sgain-leading-voice-in-commonwealth-students-association.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/02/13/nz-sgain-leading-voice-in-commonwealth-students-association/index.html
+layout: layout.njk
 ---
 NZ sgain leading voice in Commonwealth Students' Association
 ============================================================

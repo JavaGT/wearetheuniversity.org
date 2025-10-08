@@ -1,9 +1,12 @@
 ---
 slug: building-wellingtons-own-silicon-valley
-title: "Building Wellington’s own Silicon Valley"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/SC1210/S00020/building-wellingtons-own-silicon-valley.htm
+title: Building Wellington’s own Silicon Valley
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00020/building-wellingtons-own-silicon-valley.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/10/09/building-wellingtons-own-silicon-valley/index.html
+layout: layout.njk
 ---
 Building Wellington’s own Silicon Valley
 ========================================

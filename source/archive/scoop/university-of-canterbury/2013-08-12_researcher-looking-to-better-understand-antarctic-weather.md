@@ -1,9 +1,13 @@
 ---
 slug: researcher-looking-to-better-understand-antarctic-weather
-title: "Researcher Looking to Better Understand Antarctic weather"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/SC1308/S00027/researcher-looking-to-better-understand-antarctic-weather.htm
+title: Researcher Looking to Better Understand Antarctic weather
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00027/researcher-looking-to-better-understand-antarctic-weather.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/12/researcher-looking-to-better-understand-antarctic-weather/index.html
+layout: layout.njk
 ---
 Researcher Looking to Better Understand Antarctic weather
 =========================================================

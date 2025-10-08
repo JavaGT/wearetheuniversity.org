@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-health-estimates
-title: "Heather Roy's Diary: Health Estimates"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00387/heather-roys-diary-health-estimates.htm
+title: 'Heather Roy''s Diary: Health Estimates'
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00387/heather-roys-diary-health-estimates.htm
 author: act-new-zealand
+permalink: /archive/2003/06/20/heather-roys-diary-health-estimates/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Health Estimates
 =====================================

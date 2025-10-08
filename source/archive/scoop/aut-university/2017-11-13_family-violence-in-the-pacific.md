@@ -1,9 +1,12 @@
 ---
 slug: family-violence-in-the-pacific
-title: "Family violence in the Pacific"
-date: 2017-11-13
-source-url: https://www.scoop.co.nz/stories/CU1711/S00217/family-violence-in-the-pacific.htm
+title: Family violence in the Pacific
+date: 2017-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00217/family-violence-in-the-pacific.htm
 author: aut-university
+permalink: /archive/2017/11/13/family-violence-in-the-pacific/index.html
+layout: layout.njk
 ---
 Family violence in the Pacific
 ==============================

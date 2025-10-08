@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-reveal-new-nz-fossil-dolphin
-title: "Otago researchers reveal new NZ fossil dolphin"
-date: 2014-01-22
-source-url: https://www.scoop.co.nz/stories/SC1401/S00044/otago-researchers-reveal-new-nz-fossil-dolphin.htm
+title: Otago researchers reveal new NZ fossil dolphin
+date: 2014-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00044/otago-researchers-reveal-new-nz-fossil-dolphin.htm
 author: university-of-otago
+permalink: /archive/2014/01/22/otago-researchers-reveal-new-nz-fossil-dolphin/index.html
+layout: layout.njk
 ---
 Otago researchers reveal new NZ fossil dolphin
 ==============================================

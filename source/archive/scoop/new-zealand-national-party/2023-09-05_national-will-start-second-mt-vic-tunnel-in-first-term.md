@@ -1,9 +1,13 @@
 ---
 slug: national-will-start-second-mt-vic-tunnel-in-first-term
-title: "National Will Start Second Mt Vic Tunnel In First Term"
-date: 2023-09-05
-source-url: https://www.scoop.co.nz/stories/PA2309/S00021/national-will-start-second-mt-vic-tunnel-in-first-term.htm
+title: National Will Start Second Mt Vic Tunnel In First Term
+date: 2023-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00021/national-will-start-second-mt-vic-tunnel-in-first-term.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/05/national-will-start-second-mt-vic-tunnel-in-first-term/index.html
+layout: layout.njk
 ---
 National Will Start Second Mt Vic Tunnel In First Term
 ======================================================

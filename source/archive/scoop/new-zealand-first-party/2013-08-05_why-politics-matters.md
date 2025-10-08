@@ -1,9 +1,11 @@
 ---
 slug: why-politics-matters
-title: "\"Why Politics Matters\""
-date: 2013-08-05
+title: '"Why Politics Matters"'
+date: 2013-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1308/S00072/why-politics-matters.htm
 author: new-zealand-first-party
+permalink: /archive/2013/08/05/why-politics-matters/index.html
+layout: layout.njk
 ---
 “Why Politics Matters”
 ======================

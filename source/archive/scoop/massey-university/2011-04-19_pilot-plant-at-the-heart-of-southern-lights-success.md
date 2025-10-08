@@ -1,9 +1,13 @@
 ---
 slug: pilot-plant-at-the-heart-of-southern-lights-success
-title: "Pilot plant at the heart of Southern Lights success"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/SC1104/S00045/pilot-plant-at-the-heart-of-southern-lights-success.htm
+title: Pilot plant at the heart of Southern Lights success
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00045/pilot-plant-at-the-heart-of-southern-lights-success.htm
 author: massey-university
+permalink: >-
+  /archive/2011/04/19/pilot-plant-at-the-heart-of-southern-lights-success/index.html
+layout: layout.njk
 ---
 Pilot plant at the heart of Southern Lights success
 ===================================================

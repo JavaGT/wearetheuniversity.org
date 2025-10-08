@@ -1,9 +1,12 @@
 ---
 slug: tertiary-reforms-worse-than-school-closures
-title: "Tertiary reforms worse than school closures"
-date: 2007-11-26
-source-url: https://www.scoop.co.nz/stories/PA0711/S00502/tertiary-reforms-worse-than-school-closures.htm
+title: Tertiary reforms worse than school closures
+date: 2007-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00502/tertiary-reforms-worse-than-school-closures.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/26/tertiary-reforms-worse-than-school-closures/index.html
+layout: layout.njk
 ---
 Tertiary reforms worse than school closures
 ===========================================

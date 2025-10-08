@@ -1,9 +1,12 @@
 ---
 slug: greater-job-security-in-school-reorganisations
-title: "Greater Job Security In School Reorganisations"
-date: 2004-04-05
-source-url: https://www.scoop.co.nz/stories/ED0404/S00010/greater-job-security-in-school-reorganisations.htm
+title: Greater Job Security In School Reorganisations
+date: 2004-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00010/greater-job-security-in-school-reorganisations.htm
 author: nzei
+permalink: /archive/2004/04/05/greater-job-security-in-school-reorganisations/index.html
+layout: layout.njk
 ---
 Greater Job Security In School Reorganisations
 ==============================================

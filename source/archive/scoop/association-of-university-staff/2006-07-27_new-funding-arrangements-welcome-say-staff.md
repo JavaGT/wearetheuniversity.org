@@ -1,9 +1,12 @@
 ---
 slug: new-funding-arrangements-welcome-say-staff
-title: "New funding arrangements welcome, say staff"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/ED0607/S00085/new-funding-arrangements-welcome-say-staff.htm
+title: New funding arrangements welcome, say staff
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00085/new-funding-arrangements-welcome-say-staff.htm
 author: association-of-university-staff
+permalink: /archive/2006/07/27/new-funding-arrangements-welcome-say-staff/index.html
+layout: layout.njk
 ---
 New funding arrangements welcome, say staff
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: student-defies-odds-to-graduate
-title: "Student defies odds to graduate"
-date: 2010-05-11
-source-url: https://www.scoop.co.nz/stories/ED1005/S00036/student-defies-odds-to-graduate.htm
+title: Student defies odds to graduate
+date: 2010-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00036/student-defies-odds-to-graduate.htm
 author: massey-university
+permalink: /archive/2010/05/11/student-defies-odds-to-graduate/index.html
+layout: layout.njk
 ---
 Student defies odds to graduate
 ===============================

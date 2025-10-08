@@ -1,9 +1,12 @@
 ---
 slug: medical-imaging-from-the-cell-to-the-mind
-title: "Medical Imaging - from the cell to the mind"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/GE0507/S00068/medical-imaging-from-the-cell-to-the-mind.htm
+title: Medical Imaging - from the cell to the mind
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0507/S00068/medical-imaging-from-the-cell-to-the-mind.htm
 author: auckland-university
+permalink: /archive/2005/07/19/medical-imaging-from-the-cell-to-the-mind/index.html
+layout: layout.njk
 ---
 Medical Imaging - from the cell to the mind
 ===========================================

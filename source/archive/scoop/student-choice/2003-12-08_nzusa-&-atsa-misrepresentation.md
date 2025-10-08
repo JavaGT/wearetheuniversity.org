@@ -1,9 +1,11 @@
 ---
 slug: nzusa-&-atsa-misrepresentation
-title: "NZUSA & ATSA misrepresentation"
-date: 2003-12-08
+title: NZUSA & ATSA misrepresentation
+date: 2003-12-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0312/S00037/nzusa-atsa-misrepresentation.htm
 author: student-choice
+permalink: /archive/2003/12/08/nzusa-/index.html
+layout: layout.njk
 ---
 NZUSA & ATSA misrepresentation
 ==============================

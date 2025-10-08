@@ -1,9 +1,12 @@
 ---
 slug: peters-campaign-for-the-regions-tour-taupo
-title: "Peters: Campaign for the Regions Tour - Taupo"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/PA1707/S00189/peters-campaign-for-the-regions-tour-taupo.htm
+title: 'Peters: Campaign for the Regions Tour - Taupo'
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00189/peters-campaign-for-the-regions-tour-taupo.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/12/peters-campaign-for-the-regions-tour-taupo/index.html
+layout: layout.njk
 ---
 Peters: Campaign for the Regions Tour - Taupo
 =============================================

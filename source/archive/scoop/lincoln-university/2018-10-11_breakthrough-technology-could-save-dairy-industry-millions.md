@@ -1,9 +1,13 @@
 ---
 slug: breakthrough-technology-could-save-dairy-industry-millions
-title: "Breakthrough technology could save dairy industry millions"
-date: 2018-10-11
-source-url: https://www.scoop.co.nz/stories/BU1810/S00327/breakthrough-technology-could-save-dairy-industry-millions.htm
+title: Breakthrough technology could save dairy industry millions
+date: 2018-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00327/breakthrough-technology-could-save-dairy-industry-millions.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/10/11/breakthrough-technology-could-save-dairy-industry-millions/index.html
+layout: layout.njk
 ---
 Breakthrough technology could save dairy industry millions
 ==========================================================

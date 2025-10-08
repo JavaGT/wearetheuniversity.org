@@ -1,9 +1,12 @@
 ---
 slug: speech-english-queen-state-dinner
-title: "Speech - English - Queen State Dinner"
-date: 2002-02-26
-source-url: https://www.scoop.co.nz/stories/PA0202/S00372/speech-english-queen-state-dinner.htm
+title: Speech - English - Queen State Dinner
+date: 2002-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00372/speech-english-queen-state-dinner.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/26/speech-english-queen-state-dinner/index.html
+layout: layout.njk
 ---
 Speech - English - Queen State Dinner
 =====================================

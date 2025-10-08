@@ -1,9 +1,12 @@
 ---
 slug: governor-general-bill-second-reading
-title: "Governor-General Bill : Second Reading"
-date: 2010-10-14
-source-url: https://www.scoop.co.nz/stories/PA1010/S00220/governor-general-bill-second-reading.htm
+title: 'Governor-General Bill : Second Reading'
+date: 2010-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00220/governor-general-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/10/14/governor-general-bill-second-reading/index.html
+layout: layout.njk
 ---
 Governor-General Bill : Second Reading
 ======================================

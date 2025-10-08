@@ -1,9 +1,12 @@
 ---
 slug: maharey-misleads-over-science-funding
-title: "Maharey misleads over science funding"
-date: 2006-07-02
-source-url: https://www.scoop.co.nz/stories/PA0607/S00010/maharey-misleads-over-science-funding.htm
+title: Maharey misleads over science funding
+date: 2006-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00010/maharey-misleads-over-science-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/02/maharey-misleads-over-science-funding/index.html
+layout: layout.njk
 ---
 Maharey misleads over science funding
 =====================================

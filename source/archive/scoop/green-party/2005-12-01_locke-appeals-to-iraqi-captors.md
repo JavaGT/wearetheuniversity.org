@@ -1,9 +1,12 @@
 ---
 slug: locke-appeals-to-iraqi-captors
-title: "Locke appeals to Iraqi captors"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/PA0512/S00016/locke-appeals-to-iraqi-captors.htm
+title: Locke appeals to Iraqi captors
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00016/locke-appeals-to-iraqi-captors.htm
 author: green-party
+permalink: /archive/2005/12/01/locke-appeals-to-iraqi-captors/index.html
+layout: layout.njk
 ---
 Locke appeals to Iraqi captors
 ==============================

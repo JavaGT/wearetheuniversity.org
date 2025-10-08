@@ -1,9 +1,12 @@
 ---
 slug: voice-of-reason-calls-for-halt-to-immigration
-title: "Voice of Reason Calls for Halt to Immigration"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/PA1505/S00032/voice-of-reason-calls-for-halt-to-immigration.htm
+title: Voice of Reason Calls for Halt to Immigration
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00032/voice-of-reason-calls-for-halt-to-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/04/voice-of-reason-calls-for-halt-to-immigration/index.html
+layout: layout.njk
 ---
 Voice of Reason Calls for Halt to Immigration
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: free-lectures-focus-on-our-city-our-region
-title: "Free lectures focus on Our City, Our Region"
-date: 2010-08-24
-source-url: https://www.scoop.co.nz/stories/ED1008/S00091/free-lectures-focus-on-our-city-our-region.htm
+title: Free lectures focus on Our City, Our Region
+date: 2010-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00091/free-lectures-focus-on-our-city-our-region.htm
 author: university-of-waikato
+permalink: /archive/2010/08/24/free-lectures-focus-on-our-city-our-region/index.html
+layout: layout.njk
 ---
 Free lectures focus on Our City, Our Region
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: childrens-cognitive-scores-and-iodine-deficiency
-title: "Children's cognitive scores and iodine deficiency"
-date: 2009-09-08
-source-url: https://www.scoop.co.nz/stories/SC0909/S00022/childrens-cognitive-scores-and-iodine-deficiency.htm
+title: Children's cognitive scores and iodine deficiency
+date: 2009-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00022/childrens-cognitive-scores-and-iodine-deficiency.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/09/08/childrens-cognitive-scores-and-iodine-deficiency/index.html
+layout: layout.njk
 ---
 Children's cognitive scores and iodine deficiency
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: blood-donors-must-consent-before-dna-added
-title: "Blood Donors Must Consent Before DNA Added"
-date: 2000-07-04
-source-url: https://www.scoop.co.nz/stories/PA0007/S00030/blood-donors-must-consent-before-dna-added.htm
+title: Blood Donors Must Consent Before DNA Added
+date: 2000-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00030/blood-donors-must-consent-before-dna-added.htm
 author: green-party
+permalink: /archive/2000/07/04/blood-donors-must-consent-before-dna-added/index.html
+layout: layout.njk
 ---
 Blood Donors Must Consent Before DNA Added
 ==========================================

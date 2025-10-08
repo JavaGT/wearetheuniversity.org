@@ -1,9 +1,13 @@
 ---
 slug: anderton-attempts-to-distract-from-carbon-fiasco
-title: "Anderton attempts to distract from carbon fiasco"
-date: 2007-03-06
-source-url: https://www.scoop.co.nz/stories/PA0703/S00092/anderton-attempts-to-distract-from-carbon-fiasco.htm
+title: Anderton attempts to distract from carbon fiasco
+date: 2007-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00092/anderton-attempts-to-distract-from-carbon-fiasco.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/03/06/anderton-attempts-to-distract-from-carbon-fiasco/index.html
+layout: layout.njk
 ---
 Anderton attempts to distract from carbon fiasco
 ================================================

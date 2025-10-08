@@ -1,9 +1,13 @@
 ---
 slug: aut-leads-growth-in-new-zealand-university-enrolments
-title: "AUT leads growth in New Zealand university enrolments"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00055/aut-leads-growth-in-new-zealand-university-enrolments.htm
+title: AUT leads growth in New Zealand university enrolments
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00055/aut-leads-growth-in-new-zealand-university-enrolments.htm
 author: aut-university
+permalink: >-
+  /archive/2012/10/08/aut-leads-growth-in-new-zealand-university-enrolments/index.html
+layout: layout.njk
 ---
 AUT leads growth in New Zealand university enrolments
 =====================================================

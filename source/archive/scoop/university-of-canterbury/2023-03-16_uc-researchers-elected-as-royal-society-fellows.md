@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-elected-as-royal-society-fellows
-title: "UC Researchers Elected As Royal Society Fellows"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/ED2303/S00025/uc-researchers-elected-as-royal-society-fellows.htm
+title: UC Researchers Elected As Royal Society Fellows
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00025/uc-researchers-elected-as-royal-society-fellows.htm
 author: university-of-canterbury
+permalink: /archive/2023/03/16/uc-researchers-elected-as-royal-society-fellows/index.html
+layout: layout.njk
 ---
 UC Researchers Elected As Royal Society Fellows
 ===============================================

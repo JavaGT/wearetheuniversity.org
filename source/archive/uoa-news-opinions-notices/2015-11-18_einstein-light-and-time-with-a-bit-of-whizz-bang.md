@@ -1,8 +1,12 @@
 ---
 slug: einstein-light-and-time-with-a-bit-of-whizz-bang
-title: "Einstein, Light and Time - with a bit of whizz bang"
-date: 2015-11-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/einstein--light-and-time---with-a-bit-of-whizz-bang.html
+title: Einstein, Light and Time - with a bit of whizz bang
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/einstein--light-and-time---with-a-bit-of-whizz-bang.html
+permalink: >-
+  /archive/2015/11/18/einstein-light-and-time-with-a-bit-of-whizz-bang/index.html
+layout: layout.njk
 ---
 Einstein, Light and Time - with a bit of whizz bang
 ===================================================

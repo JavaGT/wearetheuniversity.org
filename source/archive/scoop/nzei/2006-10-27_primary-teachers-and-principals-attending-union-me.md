@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-and-principals-attending-union-me
-title: "Primary Teachers and Principals Attending Union Me"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/ED0610/S00099/primary-teachers-and-principals-attending-union-me.htm
+title: Primary Teachers and Principals Attending Union Me
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00099/primary-teachers-and-principals-attending-union-me.htm
 author: nzei
+permalink: >-
+  /archive/2006/10/27/primary-teachers-and-principals-attending-union-me/index.html
+layout: layout.njk
 ---
 Primary Teachers and Principals Attending Union Me
 ==================================================

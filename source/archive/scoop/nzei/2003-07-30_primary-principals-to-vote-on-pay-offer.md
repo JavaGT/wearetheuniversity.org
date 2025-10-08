@@ -1,9 +1,12 @@
 ---
 slug: primary-principals-to-vote-on-pay-offer
-title: "Primary Principals To Vote On Pay Offer"
-date: 2003-07-30
-source-url: https://www.scoop.co.nz/stories/ED0307/S00078/primary-principals-to-vote-on-pay-offer.htm
+title: Primary Principals To Vote On Pay Offer
+date: 2003-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00078/primary-principals-to-vote-on-pay-offer.htm
 author: nzei
+permalink: /archive/2003/07/30/primary-principals-to-vote-on-pay-offer/index.html
+layout: layout.njk
 ---
 Primary Principals To Vote On Pay Offer
 =======================================

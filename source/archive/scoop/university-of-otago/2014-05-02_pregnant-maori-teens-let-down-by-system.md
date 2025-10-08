@@ -1,9 +1,12 @@
 ---
 slug: pregnant-maori-teens-let-down-by-system
-title: "Pregnant Maori teens let down by system"
-date: 2014-05-02
-source-url: https://www.scoop.co.nz/stories/GE1405/S00003/pregnant-maori-teens-let-down-by-system.htm
+title: Pregnant Maori teens let down by system
+date: 2014-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00003/pregnant-maori-teens-let-down-by-system.htm
 author: university-of-otago
+permalink: /archive/2014/05/02/pregnant-maori-teens-let-down-by-system/index.html
+layout: layout.njk
 ---
 Pregnant Maori teens let down by system
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: growth-per-person-lower-than-uk-us-japan
-title: "Growth per person lower than UK, US, Japan"
-date: 2016-03-29
-source-url: https://www.scoop.co.nz/stories/PA1603/S00453/growth-per-person-lower-than-uk-us-japan.htm
+title: Growth per person lower than UK, US, Japan
+date: 2016-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00453/growth-per-person-lower-than-uk-us-japan.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/29/growth-per-person-lower-than-uk-us-japan/index.html
+layout: layout.njk
 ---
 Growth per person lower than UK, US, Japan
 ==========================================

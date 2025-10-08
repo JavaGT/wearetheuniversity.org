@@ -1,9 +1,12 @@
 ---
 slug: international-education-package-welcomed
-title: "International Education Package Welcomed"
-date: 2004-05-11
-source-url: https://www.scoop.co.nz/stories/ED0405/S00039/international-education-package-welcomed.htm
+title: International Education Package Welcomed
+date: 2004-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00039/international-education-package-welcomed.htm
 author: vice-chancellors-committee
+permalink: /archive/2004/05/11/international-education-package-welcomed/index.html
+layout: layout.njk
 ---
 International Education Package Welcomed
 ========================================

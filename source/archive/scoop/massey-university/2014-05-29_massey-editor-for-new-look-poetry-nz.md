@@ -1,9 +1,12 @@
 ---
 slug: massey-editor-for-new-look-poetry-nz
-title: "Massey editor for new-look Poetry NZ"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/CU1405/S00438/massey-editor-for-new-look-poetry-nz.htm
+title: Massey editor for new-look Poetry NZ
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00438/massey-editor-for-new-look-poetry-nz.htm
 author: massey-university
+permalink: /archive/2014/05/29/massey-editor-for-new-look-poetry-nz/index.html
+layout: layout.njk
 ---
 Massey editor for new-look Poetry NZ
 ====================================

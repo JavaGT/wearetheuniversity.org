@@ -1,9 +1,12 @@
 ---
 slug: helping-people-and-wildlife-live-together
-title: "Helping people and wildlife live together"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/SC1107/S00031/helping-people-and-wildlife-live-together.htm
+title: Helping people and wildlife live together
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00031/helping-people-and-wildlife-live-together.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/07/13/helping-people-and-wildlife-live-together/index.html
+layout: layout.njk
 ---
 Helping people and wildlife live together
 =========================================

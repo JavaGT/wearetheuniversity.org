@@ -1,9 +1,11 @@
 ---
 slug: music-could-it-be-language
-title: "Music – could it be Language?"
-date: 2005-10-31
+title: Music – could it be Language?
+date: 2005-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0510/S00071/music-could-it-be-language.htm
 author: auckland-university
+permalink: /archive/2005/10/31/music-could-it-be-language/index.html
+layout: layout.njk
 ---
 Music – could it be Language?
 =============================

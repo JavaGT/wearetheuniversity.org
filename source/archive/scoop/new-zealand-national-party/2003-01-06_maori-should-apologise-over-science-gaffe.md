@@ -1,9 +1,12 @@
 ---
 slug: maori-should-apologise-over-science-gaffe
-title: "Maori should apologise over science gaffe"
-date: 2003-01-06
-source-url: https://www.scoop.co.nz/stories/PA0301/S00016/maori-should-apologise-over-science-gaffe.htm
+title: Maori should apologise over science gaffe
+date: 2003-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00016/maori-should-apologise-over-science-gaffe.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/06/maori-should-apologise-over-science-gaffe/index.html
+layout: layout.njk
 ---
 Maori should apologise over science gaffe
 =========================================

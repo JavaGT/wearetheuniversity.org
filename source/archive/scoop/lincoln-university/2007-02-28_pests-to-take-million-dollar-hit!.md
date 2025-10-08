@@ -1,9 +1,12 @@
 ---
 slug: pests-to-take-million-dollar-hit!
-title: "Pests to take million dollar hit!"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/SC0702/S00065/pests-to-take-million-dollar-hit.htm
+title: Pests to take million dollar hit!
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00065/pests-to-take-million-dollar-hit.htm
 author: lincoln-university
+permalink: /archive/2007/02/28/pests-to-take-million-dollar-hit/index.html
+layout: layout.njk
 ---
 Pests to take million dollar hit!
 =================================

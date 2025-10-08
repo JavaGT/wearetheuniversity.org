@@ -1,9 +1,12 @@
 ---
 slug: national-picks-2017-rangitata-candidate
-title: "National picks 2017 Rangitata candidate"
-date: 2017-04-20
-source-url: https://www.scoop.co.nz/stories/PO1704/S00207/national-picks-2017-rangitata-candidate.htm
+title: National picks 2017 Rangitata candidate
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00207/national-picks-2017-rangitata-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/20/national-picks-2017-rangitata-candidate/index.html
+layout: layout.njk
 ---
 National picks 2017 Rangitata candidate
 =======================================

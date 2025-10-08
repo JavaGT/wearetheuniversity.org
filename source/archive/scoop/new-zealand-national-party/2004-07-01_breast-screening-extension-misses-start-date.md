@@ -1,9 +1,12 @@
 ---
 slug: breast-screening-extension-misses-start-date
-title: "Breast screening extension misses start date"
-date: 2004-07-01
-source-url: https://www.scoop.co.nz/stories/GE0407/S00010/breast-screening-extension-misses-start-date.htm
+title: Breast screening extension misses start date
+date: 2004-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0407/S00010/breast-screening-extension-misses-start-date.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/01/breast-screening-extension-misses-start-date/index.html
+layout: layout.njk
 ---
 Breast screening extension misses start date
 ============================================

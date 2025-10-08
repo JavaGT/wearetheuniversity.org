@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-invited-on-major-antarctic-expedition
-title: "UC scientists invited on major Antarctic expedition"
-date: 2018-05-14
-source-url: https://www.scoop.co.nz/stories/SC1805/S00035/uc-scientists-invited-on-major-antarctic-expedition.htm
+title: UC scientists invited on major Antarctic expedition
+date: 2018-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00035/uc-scientists-invited-on-major-antarctic-expedition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/05/14/uc-scientists-invited-on-major-antarctic-expedition/index.html
+layout: layout.njk
 ---
 UC scientists invited on major Antarctic expedition
 ===================================================

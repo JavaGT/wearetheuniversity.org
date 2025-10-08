@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-launches-earthquake-scholarships
-title: "University of Canterbury launches Earthquake Scholarships"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/ED1509/S00014/university-of-canterbury-launches-earthquake-scholarships.htm
+title: University of Canterbury launches Earthquake Scholarships
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00014/university-of-canterbury-launches-earthquake-scholarships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/02/university-of-canterbury-launches-earthquake-scholarships/index.html
+layout: layout.njk
 ---
 University of Canterbury launches Earthquake Scholarships
 =========================================================

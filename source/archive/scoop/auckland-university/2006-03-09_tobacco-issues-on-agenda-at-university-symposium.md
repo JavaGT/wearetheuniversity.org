@@ -1,9 +1,13 @@
 ---
 slug: tobacco-issues-on-agenda-at-university-symposium
-title: "Tobacco Issues on agenda at University symposium"
-date: 2006-03-09
-source-url: https://www.scoop.co.nz/stories/ED0603/S00031/tobacco-issues-on-agenda-at-university-symposium.htm
+title: Tobacco Issues on agenda at University symposium
+date: 2006-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00031/tobacco-issues-on-agenda-at-university-symposium.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/03/09/tobacco-issues-on-agenda-at-university-symposium/index.html
+layout: layout.njk
 ---
 Tobacco Issues on agenda at University symposium
 ================================================

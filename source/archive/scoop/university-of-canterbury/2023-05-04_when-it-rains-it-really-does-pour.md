@@ -1,9 +1,12 @@
 ---
 slug: when-it-rains-it-really-does-pour
-title: "When It Rains, It Really Does Pour"
-date: 2023-05-04
-source-url: https://www.scoop.co.nz/stories/SC2305/S00006/when-it-rains-it-really-does-pour.htm
+title: When It Rains, It Really Does Pour
+date: 2023-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00006/when-it-rains-it-really-does-pour.htm
 author: university-of-canterbury
+permalink: /archive/2023/05/04/when-it-rains-it-really-does-pour/index.html
+layout: layout.njk
 ---
 When It Rains, It Really Does Pour
 ==================================

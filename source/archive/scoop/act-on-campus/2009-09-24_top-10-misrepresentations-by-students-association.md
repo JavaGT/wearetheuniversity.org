@@ -1,9 +1,13 @@
 ---
 slug: top-10-misrepresentations-by-students-association
-title: "Top 10 Misrepresentations By Students' Association"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00092/top-10-misrepresentations-by-students-association.htm
+title: Top 10 Misrepresentations By Students' Association
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00092/top-10-misrepresentations-by-students-association.htm
 author: act-on-campus
+permalink: >-
+  /archive/2009/09/24/top-10-misrepresentations-by-students-association/index.html
+layout: layout.njk
 ---
 Top 10 Misrepresentations By Students' Association
 ==================================================

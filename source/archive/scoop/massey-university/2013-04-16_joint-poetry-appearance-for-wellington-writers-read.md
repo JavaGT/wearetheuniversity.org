@@ -1,9 +1,13 @@
 ---
 slug: joint-poetry-appearance-for-wellington-writers-read
-title: "Joint poetry appearance for Wellington Writers Read"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/CU1304/S00301/joint-poetry-appearance-for-wellington-writers-read.htm
+title: Joint poetry appearance for Wellington Writers Read
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1304/S00301/joint-poetry-appearance-for-wellington-writers-read.htm
 author: massey-university
+permalink: >-
+  /archive/2013/04/16/joint-poetry-appearance-for-wellington-writers-read/index.html
+layout: layout.njk
 ---
 Joint poetry appearance for Wellington Writers Read
 ===================================================

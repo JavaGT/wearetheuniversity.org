@@ -1,9 +1,12 @@
 ---
 slug: dhmo-email-to-sue-kedgleys-office-+-response
-title: "DHMO Email To Sue Kedgley’s Office + Response"
-date: 2001-10-25
-source-url: https://www.scoop.co.nz/stories/PA0110/S00444/dhmo-email-to-sue-kedgleys-office-response.htm
+title: DHMO Email To Sue Kedgley’s Office + Response
+date: 2001-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00444/dhmo-email-to-sue-kedgleys-office-response.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/25/dhmo-email-to-sue-kedgleys-office-/index.html
+layout: layout.njk
 ---
 DHMO Email To Sue Kedgley’s Office + Response
 =============================================

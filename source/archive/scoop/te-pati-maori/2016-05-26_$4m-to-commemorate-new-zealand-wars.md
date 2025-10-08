@@ -1,9 +1,12 @@
 ---
 slug: $4m-to-commemorate-new-zealand-wars
-title: "$4m to commemorate New Zealand Wars"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00530/4m-to-commemorate-new-zealand-wars.htm
+title: $4m to commemorate New Zealand Wars
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00530/4m-to-commemorate-new-zealand-wars.htm
 author: te-pati-maori
+permalink: /archive/2016/05/26/4m-to-commemorate-new-zealand-wars/index.html
+layout: layout.njk
 ---
 $4m to commemorate New Zealand Wars
 ===================================

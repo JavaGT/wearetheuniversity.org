@@ -1,9 +1,13 @@
 ---
 slug: uc-finds-new-technique-to-help-save-endangered-bird
-title: "UC finds new technique to help save endangered bird"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00035/uc-finds-new-technique-to-help-save-endangered-bird.htm
+title: UC finds new technique to help save endangered bird
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00035/uc-finds-new-technique-to-help-save-endangered-bird.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/06/uc-finds-new-technique-to-help-save-endangered-bird/index.html
+layout: layout.njk
 ---
 UC finds new technique to help save endangered bird
 ===================================================

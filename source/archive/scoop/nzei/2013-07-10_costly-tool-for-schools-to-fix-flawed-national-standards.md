@@ -1,9 +1,13 @@
 ---
 slug: costly-tool-for-schools-to-fix-flawed-national-standards
-title: "Costly tool for schools to fix flawed National Standards"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/ED1307/S00053/costly-tool-for-schools-to-fix-flawed-national-standards.htm
+title: Costly tool for schools to fix flawed National Standards
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00053/costly-tool-for-schools-to-fix-flawed-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2013/07/10/costly-tool-for-schools-to-fix-flawed-national-standards/index.html
+layout: layout.njk
 ---
 Costly tool for schools to fix flawed National Standards
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-tax-bill-is-hard-labour
-title: "Muriel Newman: Tax Bill is Hard Labour"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/PA0212/S00175/muriel-newman-tax-bill-is-hard-labour.htm
+title: 'Muriel Newman: Tax Bill is Hard Labour'
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00175/muriel-newman-tax-bill-is-hard-labour.htm
 author: act-new-zealand
+permalink: /archive/2002/12/06/muriel-newman-tax-bill-is-hard-labour/index.html
+layout: layout.njk
 ---
 Muriel Newman: Tax Bill is Hard Labour
 ======================================

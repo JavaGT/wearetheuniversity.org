@@ -1,9 +1,12 @@
 ---
 slug: new-vet-nurses-now-qualify-to-work-in-britain
-title: "New vet nurses now qualify to work in Britain"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/ED0610/S00058/new-vet-nurses-now-qualify-to-work-in-britain.htm
+title: New vet nurses now qualify to work in Britain
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00058/new-vet-nurses-now-qualify-to-work-in-britain.htm
 author: massey-university
+permalink: /archive/2006/10/13/new-vet-nurses-now-qualify-to-work-in-britain/index.html
+layout: layout.njk
 ---
 New vet nurses now qualify to work in Britain
 =============================================

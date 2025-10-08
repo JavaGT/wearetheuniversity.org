@@ -1,9 +1,12 @@
 ---
 slug: ousa-supporting-calls-to-keep-jobs-in-dunedin
-title: "OUSA Supporting Calls to Keep Jobs in Dunedin"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/ED1308/S00069/ousa-supporting-calls-to-keep-jobs-in-dunedin.htm
+title: OUSA Supporting Calls to Keep Jobs in Dunedin
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00069/ousa-supporting-calls-to-keep-jobs-in-dunedin.htm
 author: otago-university-students-association
+permalink: /archive/2013/08/14/ousa-supporting-calls-to-keep-jobs-in-dunedin/index.html
+layout: layout.njk
 ---
 OUSA Supporting Calls to Keep Jobs in Dunedin
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-misleading-and-simply-irresponsible
-title: "Labour misleading and simply irresponsible"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/ED9909/S00064/labour-misleading-and-simply-irresponsible.htm
+title: Labour misleading and simply irresponsible
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00064/labour-misleading-and-simply-irresponsible.htm
 author: new-zealand-national-party
+permalink: /archive/1999/09/30/labour-misleading-and-simply-irresponsible/index.html
+layout: layout.njk
 ---
 Labour misleading and simply irresponsible
 ==========================================

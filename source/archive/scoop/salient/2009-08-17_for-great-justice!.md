@@ -1,9 +1,11 @@
 ---
 slug: for-great-justice!
-title: "For Great Justice!"
-date: 2009-08-17
+title: For Great Justice!
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0908/S00197/for-great-justice.htm
 author: salient
+permalink: /archive/2009/08/17/for-great-justice/index.html
+layout: layout.njk
 ---
 For Great Justice!
 ==================

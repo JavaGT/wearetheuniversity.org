@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-new-mäori-and-pasifika-leader
-title: "University appoints new Mäori and Pasifika leader"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/ED1207/S00041/university-appoints-new-maori-and-pasifika-leader.htm
+title: University appoints new Mäori and Pasifika leader
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00041/university-appoints-new-maori-and-pasifika-leader.htm
 author: massey-university
+permalink: /archive/2012/07/11/university-appoints-new-m/index.html
+layout: layout.njk
 ---
 University appoints new Mäori and Pasifika leader
 =================================================

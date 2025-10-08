@@ -1,9 +1,12 @@
 ---
 slug: no-apology-necessary-mr-cunliffe
-title: "No Apology Necessary, Mr Cunliffe"
-date: 2008-02-01
-source-url: https://www.scoop.co.nz/stories/PA0802/S00020/no-apology-necessary-mr-cunliffe.htm
+title: No Apology Necessary, Mr Cunliffe
+date: 2008-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00020/no-apology-necessary-mr-cunliffe.htm
 author: act-new-zealand
+permalink: /archive/2008/02/01/no-apology-necessary-mr-cunliffe/index.html
+layout: layout.njk
 ---
 No Apology Necessary, Mr Cunliffe
 =================================

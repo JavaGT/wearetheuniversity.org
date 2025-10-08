@@ -1,9 +1,13 @@
 ---
 slug: nzusa-raises-warning-over-export-education-mad-rush
-title: "NZUSA raises warning over export education ‘mad rush’"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/ED1507/S00049/nzusa-raises-warning-over-export-education-mad-rush.htm
+title: NZUSA raises warning over export education ‘mad rush’
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00049/nzusa-raises-warning-over-export-education-mad-rush.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/07/08/nzusa-raises-warning-over-export-education-mad-rush/index.html
+layout: layout.njk
 ---
 NZUSA raises warning over export education ‘mad rush’
 =====================================================

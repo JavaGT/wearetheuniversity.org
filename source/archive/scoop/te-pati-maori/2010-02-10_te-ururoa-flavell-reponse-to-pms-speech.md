@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-reponse-to-pms-speech
-title: "Te Ururoa Flavell: Reponse To PM's Speech"
-date: 2010-02-10
-source-url: https://www.scoop.co.nz/stories/PA1002/S00122/te-ururoa-flavell-reponse-to-pms-speech.htm
+title: 'Te Ururoa Flavell: Reponse To PM''s Speech'
+date: 2010-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00122/te-ururoa-flavell-reponse-to-pms-speech.htm
 author: te-pati-maori
+permalink: /archive/2010/02/10/te-ururoa-flavell-reponse-to-pms-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Reponse To PM's Speech
 =========================================

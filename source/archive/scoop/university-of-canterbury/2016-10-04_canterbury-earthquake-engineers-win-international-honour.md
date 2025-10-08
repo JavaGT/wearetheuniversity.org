@@ -1,9 +1,13 @@
 ---
 slug: canterbury-earthquake-engineers-win-international-honour
-title: "Canterbury earthquake engineers win international honour"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/ED1610/S00006/canterbury-earthquake-engineers-win-international-honour.htm
+title: Canterbury earthquake engineers win international honour
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00006/canterbury-earthquake-engineers-win-international-honour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/04/canterbury-earthquake-engineers-win-international-honour/index.html
+layout: layout.njk
 ---
 Canterbury earthquake engineers win international honour
 ========================================================

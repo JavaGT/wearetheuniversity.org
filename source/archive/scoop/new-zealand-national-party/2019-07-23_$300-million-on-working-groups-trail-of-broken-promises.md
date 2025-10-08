@@ -1,9 +1,13 @@
 ---
 slug: $300-million-on-working-groups-trail-of-broken-promises
-title: "$300 million on working groups, trail of broken promises"
-date: 2019-07-23
-source-url: https://www.scoop.co.nz/stories/PA1907/S00177/300-million-on-working-groups-trail-of-broken-promises.htm
+title: $300 million on working groups, trail of broken promises
+date: 2019-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00177/300-million-on-working-groups-trail-of-broken-promises.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/23/300-million-on-working-groups-trail-of-broken-promises/index.html
+layout: layout.njk
 ---
 $300 million on working groups, trail of broken promises
 ========================================================

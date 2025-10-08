@@ -1,9 +1,12 @@
 ---
 slug: major-law-award-for-waikato-professor
-title: "Major law award for Waikato professor"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/ED1512/S00029/major-law-award-for-waikato-professor.htm
+title: Major law award for Waikato professor
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00029/major-law-award-for-waikato-professor.htm
 author: university-of-waikato
+permalink: /archive/2015/12/08/major-law-award-for-waikato-professor/index.html
+layout: layout.njk
 ---
 Major law award for Waikato professor
 =====================================

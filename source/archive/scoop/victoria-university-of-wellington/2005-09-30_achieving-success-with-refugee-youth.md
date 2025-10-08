@@ -1,9 +1,12 @@
 ---
 slug: achieving-success-with-refugee-youth
-title: "Achieving success with refugee youth"
-date: 2005-09-30
-source-url: https://www.scoop.co.nz/stories/ED0509/S00095/achieving-success-with-refugee-youth.htm
+title: Achieving success with refugee youth
+date: 2005-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00095/achieving-success-with-refugee-youth.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/30/achieving-success-with-refugee-youth/index.html
+layout: layout.njk
 ---
 Achieving success with refugee youth
 ====================================

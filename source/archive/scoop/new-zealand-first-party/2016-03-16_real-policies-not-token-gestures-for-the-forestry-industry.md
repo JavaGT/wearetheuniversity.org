@@ -1,9 +1,13 @@
 ---
 slug: real-policies-not-token-gestures-for-the-forestry-industry
-title: "Real Policies, Not Token Gestures for the Forestry Industry"
-date: 2016-03-16
-source-url: https://www.scoop.co.nz/stories/PA1603/S00270/real-policies-not-token-gestures-for-the-forestry-industry.htm
+title: Real Policies, Not Token Gestures for the Forestry Industry
+date: 2016-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00270/real-policies-not-token-gestures-for-the-forestry-industry.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/03/16/real-policies-not-token-gestures-for-the-forestry-industry/index.html
+layout: layout.njk
 ---
 Real Policies, Not Token Gestures for the Forestry Industry
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-speech-the-thin-edge-of-a-disastrous-wedge
-title: "Winston Peters Speech: \"the thin edge of a disastrous wedge\""
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/PO1105/S00452/winston-peters-speech-the-thin-edge-of-a-disastrous-wedge.htm
+title: 'Winston Peters Speech: "the thin edge of a disastrous wedge"'
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00452/winston-peters-speech-the-thin-edge-of-a-disastrous-wedge.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/05/27/winston-peters-speech-the-thin-edge-of-a-disastrous-wedge/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: \"the thin edge of a disastrous wedge"
 ============================================================

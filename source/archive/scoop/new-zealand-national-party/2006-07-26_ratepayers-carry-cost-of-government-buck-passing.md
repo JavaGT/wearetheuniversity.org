@@ -1,9 +1,13 @@
 ---
 slug: ratepayers-carry-cost-of-government-buck-passing
-title: "Ratepayers carry cost of Government buck-passing"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00425/ratepayers-carry-cost-of-government-buck-passing.htm
+title: Ratepayers carry cost of Government buck-passing
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00425/ratepayers-carry-cost-of-government-buck-passing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/07/26/ratepayers-carry-cost-of-government-buck-passing/index.html
+layout: layout.njk
 ---
 Ratepayers carry cost of Government buck-passing
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-loans-will-lead-to-lower-standards
-title: "Labour's loans will lead to lower standards"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/PA0511/S00105/labours-loans-will-lead-to-lower-standards.htm
+title: Labour's loans will lead to lower standards
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00105/labours-loans-will-lead-to-lower-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/08/labours-loans-will-lead-to-lower-standards/index.html
+layout: layout.njk
 ---
 Labour's loans will lead to lower standards
 ===========================================

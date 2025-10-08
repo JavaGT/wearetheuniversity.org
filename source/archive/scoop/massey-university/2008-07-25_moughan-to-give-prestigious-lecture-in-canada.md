@@ -1,9 +1,12 @@
 ---
 slug: moughan-to-give-prestigious-lecture-in-canada
-title: "Moughan to give prestigious lecture in Canada"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/ED0807/S00083/moughan-to-give-prestigious-lecture-in-canada.htm
+title: Moughan to give prestigious lecture in Canada
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00083/moughan-to-give-prestigious-lecture-in-canada.htm
 author: massey-university
+permalink: /archive/2008/07/25/moughan-to-give-prestigious-lecture-in-canada/index.html
+layout: layout.njk
 ---
 Moughan to give prestigious lecture in Canada
 =============================================

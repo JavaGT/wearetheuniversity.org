@@ -1,9 +1,12 @@
 ---
 slug: maori-party-defends-aboriginal-rights
-title: "Maori Party Defends Aboriginal Rights"
-date: 2007-08-24
-source-url: https://www.scoop.co.nz/stories/PA0708/S00427/maori-party-defends-aboriginal-rights.htm
+title: Maori Party Defends Aboriginal Rights
+date: 2007-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00427/maori-party-defends-aboriginal-rights.htm
 author: te-pati-maori
+permalink: /archive/2007/08/24/maori-party-defends-aboriginal-rights/index.html
+layout: layout.njk
 ---
 Maori Party Defends Aboriginal Rights
 =====================================

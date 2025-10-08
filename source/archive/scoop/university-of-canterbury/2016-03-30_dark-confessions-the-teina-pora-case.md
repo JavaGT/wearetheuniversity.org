@@ -1,9 +1,12 @@
 ---
 slug: dark-confessions-the-teina-pora-case
-title: "Dark Confessions: The Teina Pora case"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/PO1603/S00423/dark-confessions-the-teina-pora-case.htm
+title: 'Dark Confessions: The Teina Pora case'
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00423/dark-confessions-the-teina-pora-case.htm
 author: university-of-canterbury
+permalink: /archive/2016/03/30/dark-confessions-the-teina-pora-case/index.html
+layout: layout.njk
 ---
 Dark Confessions: The Teina Pora case
 =====================================

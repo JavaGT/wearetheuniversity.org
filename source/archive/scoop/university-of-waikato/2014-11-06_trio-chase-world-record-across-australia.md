@@ -1,9 +1,12 @@
 ---
 slug: trio-chase-world-record-across-australia
-title: "Trio chase world record across Australia"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/ED1411/S00036/trio-chase-world-record-across-australia.htm
+title: Trio chase world record across Australia
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00036/trio-chase-world-record-across-australia.htm
 author: university-of-waikato
+permalink: /archive/2014/11/06/trio-chase-world-record-across-australia/index.html
+layout: layout.njk
 ---
 Trio chase world record across Australia
 ========================================

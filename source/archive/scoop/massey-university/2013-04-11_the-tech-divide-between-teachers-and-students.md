@@ -1,9 +1,12 @@
 ---
 slug: the-tech-divide-between-teachers-and-students
-title: "The tech divide between teachers and students"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00053/the-tech-divide-between-teachers-and-students.htm
+title: The tech divide between teachers and students
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00053/the-tech-divide-between-teachers-and-students.htm
 author: massey-university
+permalink: /archive/2013/04/11/the-tech-divide-between-teachers-and-students/index.html
+layout: layout.njk
 ---
 The tech divide between teachers and students
 =============================================

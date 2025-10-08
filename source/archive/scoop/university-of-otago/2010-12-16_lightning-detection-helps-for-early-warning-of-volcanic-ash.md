@@ -1,9 +1,13 @@
 ---
 slug: lightning-detection-helps-for-early-warning-of-volcanic-ash
-title: "Lightning detection helps for early warning of volcanic ash"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/AK1012/S00529/lightning-detection-helps-for-early-warning-of-volcanic-ash.htm
+title: Lightning detection helps for early warning of volcanic ash
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1012/S00529/lightning-detection-helps-for-early-warning-of-volcanic-ash.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/16/lightning-detection-helps-for-early-warning-of-volcanic-ash/index.html
+layout: layout.njk
 ---
 Lightning detection helps for early warning of volcanic ash
 ===========================================================

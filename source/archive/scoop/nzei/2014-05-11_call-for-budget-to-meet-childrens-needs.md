@@ -1,9 +1,12 @@
 ---
 slug: call-for-budget-to-meet-childrens-needs
-title: "Call for Budget to meet children’s needs"
-date: 2014-05-11
-source-url: https://www.scoop.co.nz/stories/PO1405/S00164/call-for-budget-to-meet-childrens-needs.htm
+title: Call for Budget to meet children’s needs
+date: 2014-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00164/call-for-budget-to-meet-childrens-needs.htm
 author: nzei
+permalink: /archive/2014/05/11/call-for-budget-to-meet-childrens-needs/index.html
+layout: layout.njk
 ---
 Call for Budget to meet children’s needs
 ========================================

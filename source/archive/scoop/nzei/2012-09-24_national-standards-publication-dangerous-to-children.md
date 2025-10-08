@@ -1,9 +1,13 @@
 ---
 slug: national-standards-publication-dangerous-to-children
-title: "National Standards publication dangerous to children"
-date: 2012-09-24
-source-url: https://www.scoop.co.nz/stories/ED1209/S00181/national-standards-publication-dangerous-to-children.htm
+title: National Standards publication dangerous to children
+date: 2012-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00181/national-standards-publication-dangerous-to-children.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/24/national-standards-publication-dangerous-to-children/index.html
+layout: layout.njk
 ---
 National Standards publication dangerous to children
 ====================================================

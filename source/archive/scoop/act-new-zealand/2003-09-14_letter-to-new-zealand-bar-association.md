@@ -1,9 +1,12 @@
 ---
 slug: letter-to-new-zealand-bar-association
-title: "Letter To New Zealand Bar Association"
-date: 2003-09-14
-source-url: https://www.scoop.co.nz/stories/PA0309/S00302/letter-to-new-zealand-bar-association.htm
+title: Letter To New Zealand Bar Association
+date: 2003-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00302/letter-to-new-zealand-bar-association.htm
 author: act-new-zealand
+permalink: /archive/2003/09/14/letter-to-new-zealand-bar-association/index.html
+layout: layout.njk
 ---
 Letter To New Zealand Bar Association
 =====================================

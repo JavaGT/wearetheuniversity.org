@@ -1,8 +1,12 @@
 ---
 slug: new-earthquake-resilient-technology-for-buildings-receives-mbie-funding
-title: "New earthquake resilient technology for buildings receives MBIE funding"
-date: 2016-09-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/new-earthquake-resilient-technology-for-buildings-mbie-funding.html
+title: New earthquake resilient technology for buildings receives MBIE funding
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/new-earthquake-resilient-technology-for-buildings-mbie-funding.html
+permalink: >-
+  /archive/2016/09/14/new-earthquake-resilient-technology-for-buildings-receives-mbie-funding/index.html
+layout: layout.njk
 ---
 New earthquake resilient technology for buildings receives MBIE funding
 =======================================================================

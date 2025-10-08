@@ -1,9 +1,12 @@
 ---
 slug: teac-report-brings-hope-of-order-in-chaos
-title: "TEAC Report Brings Hope Of Order In Chaos"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/ED0103/S00019/teac-report-brings-hope-of-order-in-chaos.htm
+title: TEAC Report Brings Hope Of Order In Chaos
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00019/teac-report-brings-hope-of-order-in-chaos.htm
 author: auckland-university-students-association
+permalink: /archive/2001/03/07/teac-report-brings-hope-of-order-in-chaos/index.html
+layout: layout.njk
 ---
 TEAC Report Brings Hope Of Order In Chaos
 =========================================

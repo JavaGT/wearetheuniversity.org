@@ -1,9 +1,12 @@
 ---
 slug: acts-regular-bulletin-inequality
-title: "ACT’s regular bulletin - Inequality"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/PA1506/S00240/acts-regular-bulletin-inequality.htm
+title: ACT’s regular bulletin - Inequality
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00240/acts-regular-bulletin-inequality.htm
 author: act-new-zealand
+permalink: /archive/2015/06/15/acts-regular-bulletin-inequality/index.html
+layout: layout.njk
 ---
 ACT’s regular bulletin - Inequality
 ===================================

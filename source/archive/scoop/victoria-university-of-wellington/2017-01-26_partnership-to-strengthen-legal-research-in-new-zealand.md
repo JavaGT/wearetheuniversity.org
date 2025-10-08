@@ -1,9 +1,13 @@
 ---
 slug: partnership-to-strengthen-legal-research-in-new-zealand
-title: "Partnership to strengthen legal research in New Zealand"
-date: 2017-01-26
-source-url: https://www.scoop.co.nz/stories/ED1701/S00043/partnership-to-strengthen-legal-research-in-new-zealand.htm
+title: Partnership to strengthen legal research in New Zealand
+date: 2017-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00043/partnership-to-strengthen-legal-research-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/01/26/partnership-to-strengthen-legal-research-in-new-zealand/index.html
+layout: layout.njk
 ---
 Partnership to strengthen legal research in New Zealand
 =======================================================

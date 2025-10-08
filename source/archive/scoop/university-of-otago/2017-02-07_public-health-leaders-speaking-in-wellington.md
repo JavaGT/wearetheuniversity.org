@@ -1,9 +1,12 @@
 ---
 slug: public-health-leaders-speaking-in-wellington
-title: "Public health leaders speaking in Wellington"
-date: 2017-02-07
-source-url: https://www.scoop.co.nz/stories/GE1702/S00020/public-health-leaders-speaking-in-wellington.htm
+title: Public health leaders speaking in Wellington
+date: 2017-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00020/public-health-leaders-speaking-in-wellington.htm
 author: university-of-otago
+permalink: /archive/2017/02/07/public-health-leaders-speaking-in-wellington/index.html
+layout: layout.njk
 ---
 Public health leaders speaking in Wellington
 ============================================

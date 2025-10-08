@@ -1,9 +1,13 @@
 ---
 slug: minister-praises-student-central-as-campus-heart
-title: "Minister praises Student Central as campus heart"
-date: 2012-03-23
-source-url: https://www.scoop.co.nz/stories/ED1203/S00113/minister-praises-student-central-as-campus-heart.htm
+title: Minister praises Student Central as campus heart
+date: 2012-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00113/minister-praises-student-central-as-campus-heart.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/23/minister-praises-student-central-as-campus-heart/index.html
+layout: layout.njk
 ---
 Minister praises Student Central as campus heart
 ================================================

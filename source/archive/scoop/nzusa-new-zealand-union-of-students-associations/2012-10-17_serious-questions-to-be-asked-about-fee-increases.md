@@ -1,9 +1,13 @@
 ---
 slug: serious-questions-to-be-asked-about-fee-increases
-title: "Serious questions to be asked about  fee increases"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/PO1210/S00257/serious-questions-to-be-asked-about-fee-increases.htm
+title: Serious questions to be asked about  fee increases
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00257/serious-questions-to-be-asked-about-fee-increases.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/17/serious-questions-to-be-asked-about-fee-increases/index.html
+layout: layout.njk
 ---
 Serious questions to be asked about fee increases
 =================================================

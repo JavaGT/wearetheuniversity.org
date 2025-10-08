@@ -1,9 +1,12 @@
 ---
 slug: labour-will-repeal-damaging-rma-provisions
-title: "Labour will repeal damaging RMA provisions"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/PA1305/S00514/labour-will-repeal-damaging-rma-provisions.htm
+title: Labour will repeal damaging RMA provisions
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00514/labour-will-repeal-damaging-rma-provisions.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/27/labour-will-repeal-damaging-rma-provisions/index.html
+layout: layout.njk
 ---
 Labour will repeal damaging RMA provisions
 ==========================================

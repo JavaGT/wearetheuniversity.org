@@ -1,9 +1,13 @@
 ---
 slug: reading-recovery-not-responsible-for-underachievement
-title: "Reading Recovery not responsible for underachievement"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/ED1308/S00049/reading-recovery-not-responsible-for-underachievement.htm
+title: Reading Recovery not responsible for underachievement
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00049/reading-recovery-not-responsible-for-underachievement.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/12/reading-recovery-not-responsible-for-underachievement/index.html
+layout: layout.njk
 ---
 Reading Recovery not responsible for underachievement
 =====================================================

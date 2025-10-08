@@ -1,9 +1,12 @@
 ---
 slug: wages-fail-to-reflect-acute-skills
-title: "Wages Fail to Reflect Acute Skills"
-date: 2004-08-06
-source-url: https://www.scoop.co.nz/stories/PO0408/S00076/wages-fail-to-reflect-acute-skills.htm
+title: Wages Fail to Reflect Acute Skills
+date: 2004-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0408/S00076/wages-fail-to-reflect-acute-skills.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/08/06/wages-fail-to-reflect-acute-skills/index.html
+layout: layout.njk
 ---
 Wages Fail to Reflect Acute Skills
 ==================================

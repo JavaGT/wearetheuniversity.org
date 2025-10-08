@@ -1,9 +1,13 @@
 ---
 slug: controversial-book-on-the-creator-of-new-zealand-released
-title: "Controversial Book On The \"Creator\" Of New Zealand Released"
-date: 2020-11-30
-source-url: https://www.scoop.co.nz/stories/CU2011/S00261/controversial-book-on-the-creator-of-new-zealand-released.htm
+title: Controversial Book On The "Creator" Of New Zealand Released
+date: 2020-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2011/S00261/controversial-book-on-the-creator-of-new-zealand-released.htm
 author: aut-university
+permalink: >-
+  /archive/2020/11/30/controversial-book-on-the-creator-of-new-zealand-released/index.html
+layout: layout.njk
 ---
 Controversial Book On The “Creator” Of New Zealand Released
 ===========================================================

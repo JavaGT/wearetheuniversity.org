@@ -1,9 +1,12 @@
 ---
 slug: no-resumption-of-military-ties-with-indonesia!
-title: "No resumption of military ties with Indonesia!"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PO0705/S00178/no-resumption-of-military-ties-with-indonesia.htm
+title: No resumption of military ties with Indonesia!
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00178/no-resumption-of-military-ties-with-indonesia.htm
 author: peace-action-wellington
+permalink: /archive/2007/05/10/no-resumption-of-military-ties-with-indonesia/index.html
+layout: layout.njk
 ---
 No resumption of military ties with Indonesia!
 ==============================================

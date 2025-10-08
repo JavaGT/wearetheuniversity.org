@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-business-re-instatement
-title: "Te Ururoa Flavell: Business Re-Instatement"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/PA0812/S00081/te-ururoa-flavell-business-re-instatement.htm
+title: 'Te Ururoa Flavell: Business Re-Instatement'
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00081/te-ururoa-flavell-business-re-instatement.htm
 author: te-pati-maori
+permalink: /archive/2008/12/10/te-ururoa-flavell-business-re-instatement/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Business Re-Instatement
 ==========================================

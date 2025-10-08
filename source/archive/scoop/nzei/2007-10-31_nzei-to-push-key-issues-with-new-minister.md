@@ -1,9 +1,12 @@
 ---
 slug: nzei-to-push-key-issues-with-new-minister
-title: "NZEI To Push Key Issues With New Minister"
-date: 2007-10-31
-source-url: https://www.scoop.co.nz/stories/ED0710/S00102/nzei-to-push-key-issues-with-new-minister.htm
+title: NZEI To Push Key Issues With New Minister
+date: 2007-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00102/nzei-to-push-key-issues-with-new-minister.htm
 author: nzei
+permalink: /archive/2007/10/31/nzei-to-push-key-issues-with-new-minister/index.html
+layout: layout.njk
 ---
 NZEI To Push Key Issues With New Minister
 =========================================

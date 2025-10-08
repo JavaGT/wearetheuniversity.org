@@ -1,9 +1,13 @@
 ---
 slug: law-students-cry-foul-over-govts-raise-fees-plan
-title: "Law Students Cry Foul Over Govt's raise-fees plan"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/ED0305/S00058/law-students-cry-foul-over-govts-raise-fees-plan.htm
+title: Law Students Cry Foul Over Govt's raise-fees plan
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00058/law-students-cry-foul-over-govts-raise-fees-plan.htm
 author: new-zealand-law-students-association
+permalink: >-
+  /archive/2003/05/19/law-students-cry-foul-over-govts-raise-fees-plan/index.html
+layout: layout.njk
 ---
 Law Students Cry Foul Over Govt's raise-fees plan
 =================================================

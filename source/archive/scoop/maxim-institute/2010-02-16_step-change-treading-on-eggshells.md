@@ -1,9 +1,12 @@
 ---
 slug: step-change-treading-on-eggshells
-title: "\"Step Change\" Treading on Eggshells"
-date: 2010-02-16
-source-url: https://www.scoop.co.nz/stories/ED1002/S00054/step-change-treading-on-eggshells.htm
+title: '"Step Change" Treading on Eggshells'
+date: 2010-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00054/step-change-treading-on-eggshells.htm
 author: maxim-institute
+permalink: /archive/2010/02/16/step-change-treading-on-eggshells/index.html
+layout: layout.njk
 ---
 “Step Change” Treading on Eggshells
 ===================================

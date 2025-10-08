@@ -1,9 +1,13 @@
 ---
 slug: uc-student-to-study-natural-disaster-research-at-stanford
-title: "UC student to study natural disaster research at Stanford"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/ED1406/S00131/uc-student-to-study-natural-disaster-research-at-stanford.htm
+title: UC student to study natural disaster research at Stanford
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00131/uc-student-to-study-natural-disaster-research-at-stanford.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/25/uc-student-to-study-natural-disaster-research-at-stanford/index.html
+layout: layout.njk
 ---
 UC student to study natural disaster research at Stanford
 =========================================================

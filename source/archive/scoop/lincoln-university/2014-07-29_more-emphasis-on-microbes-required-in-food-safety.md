@@ -1,9 +1,13 @@
 ---
 slug: more-emphasis-on-microbes-required-in-food-safety
-title: "More emphasis on microbes required in food safety"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/ED1407/S00140/more-emphasis-on-microbes-required-in-food-safety.htm
+title: More emphasis on microbes required in food safety
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00140/more-emphasis-on-microbes-required-in-food-safety.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/07/29/more-emphasis-on-microbes-required-in-food-safety/index.html
+layout: layout.njk
 ---
 More emphasis on microbes required in food safety
 =================================================

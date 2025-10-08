@@ -1,9 +1,12 @@
 ---
 slug: labours-renters-tax-confirmed
-title: "Labour’s Renter’s Tax Confirmed"
-date: 2021-04-29
-source-url: https://www.scoop.co.nz/stories/PA2104/S00185/labours-renters-tax-confirmed.htm
+title: Labour’s Renter’s Tax Confirmed
+date: 2021-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00185/labours-renters-tax-confirmed.htm
 author: act-new-zealand
+permalink: /archive/2021/04/29/labours-renters-tax-confirmed/index.html
+layout: layout.njk
 ---
 Labour’s Renter’s Tax Confirmed
 ===============================

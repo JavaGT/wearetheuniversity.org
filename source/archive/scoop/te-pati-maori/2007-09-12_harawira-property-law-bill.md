@@ -1,9 +1,11 @@
 ---
 slug: harawira-property-law-bill
-title: "Harawira: Property Law Bill"
-date: 2007-09-12
+title: 'Harawira: Property Law Bill'
+date: 2007-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0709/S00189/harawira-property-law-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/12/harawira-property-law-bill/index.html
+layout: layout.njk
 ---
 Harawira: Property Law Bill
 ===========================

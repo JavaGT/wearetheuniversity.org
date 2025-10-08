@@ -1,9 +1,12 @@
 ---
 slug: palmerston-north-student-nabs-top-scholarship
-title: "Palmerston North student nabs top scholarship"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/ED1505/S00033/palmerston-north-student-nabs-top-scholarship.htm
+title: Palmerston North student nabs top scholarship
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00033/palmerston-north-student-nabs-top-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2015/05/07/palmerston-north-student-nabs-top-scholarship/index.html
+layout: layout.njk
 ---
 Palmerston North student nabs top scholarship
 =============================================

@@ -1,8 +1,11 @@
 ---
 slug: 2011-university-calendar-on-the-web
-title: "2011 University Calendar on the web"
-date: 2009-11-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/11/05/2011-University-Calendar-on-the-web.html
+title: 2011 University Calendar on the web
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/11/05/2011-University-Calendar-on-the-web.html
+permalink: /archive/2009/11/05/2011-university-calendar-on-the-web/index.html
+layout: layout.njk
 ---
 2011 University Calendar on the web
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: choice-for-parents;-success-for-students
-title: "Choice For Parents; Success For Students"
-date: 1999-10-28
-source-url: https://www.scoop.co.nz/stories/PA9910/S00645/choice-for-parents-success-for-students.htm
+title: Choice For Parents; Success For Students
+date: 1999-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00645/choice-for-parents-success-for-students.htm
 author: act-new-zealand
+permalink: /archive/1999/10/28/choice-for-parents/index.html
+layout: layout.njk
 ---
 Choice For Parents; Success For Students
 ========================================

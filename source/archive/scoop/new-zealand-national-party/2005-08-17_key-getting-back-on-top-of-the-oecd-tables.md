@@ -1,9 +1,12 @@
 ---
 slug: key-getting-back-on-top-of-the-oecd-tables
-title: "Key: Getting back on top of the OECD tables"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PA0508/S00441/key-getting-back-on-top-of-the-oecd-tables.htm
+title: 'Key: Getting back on top of the OECD tables'
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00441/key-getting-back-on-top-of-the-oecd-tables.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/17/key-getting-back-on-top-of-the-oecd-tables/index.html
+layout: layout.njk
 ---
 Key: Getting back on top of the OECD tables
 ===========================================

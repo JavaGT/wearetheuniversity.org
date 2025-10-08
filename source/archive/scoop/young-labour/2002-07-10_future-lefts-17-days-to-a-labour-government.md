@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-17-days-to-a-labour-government
-title: "Future Lefts – 17 Days to a Labour Government"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/PO0207/S00109/future-lefts-17-days-to-a-labour-government.htm
+title: Future Lefts – 17 Days to a Labour Government
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00109/future-lefts-17-days-to-a-labour-government.htm
 author: young-labour
+permalink: /archive/2002/07/10/future-lefts-17-days-to-a-labour-government/index.html
+layout: layout.njk
 ---
 Future Lefts – 17 Days to a Labour Government
 =============================================

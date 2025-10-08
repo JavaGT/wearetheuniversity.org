@@ -1,9 +1,12 @@
 ---
 slug: govt-fails-to-deliver-on-jobs-again-and-again
-title: "Govt Fails To Deliver On Jobs Again And Again"
-date: 2021-05-19
-source-url: https://www.scoop.co.nz/stories/PA2105/S00160/govt-fails-to-deliver-on-jobs-again-and-again.htm
+title: Govt Fails To Deliver On Jobs Again And Again
+date: 2021-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00160/govt-fails-to-deliver-on-jobs-again-and-again.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/19/govt-fails-to-deliver-on-jobs-again-and-again/index.html
+layout: layout.njk
 ---
 Govt Fails To Deliver On Jobs Again And Again
 =============================================

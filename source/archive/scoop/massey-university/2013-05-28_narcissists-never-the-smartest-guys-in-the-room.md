@@ -1,9 +1,12 @@
 ---
 slug: narcissists-never-the-smartest-guys-in-the-room
-title: "Narcissists Never the Smartest Guys In the Room"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/SC1305/S00083/narcissists-never-the-smartest-guys-in-the-room.htm
+title: Narcissists Never the Smartest Guys In the Room
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00083/narcissists-never-the-smartest-guys-in-the-room.htm
 author: massey-university
+permalink: /archive/2013/05/28/narcissists-never-the-smartest-guys-in-the-room/index.html
+layout: layout.njk
 ---
 Narcissists Never the Smartest Guys In the Room
 ===============================================

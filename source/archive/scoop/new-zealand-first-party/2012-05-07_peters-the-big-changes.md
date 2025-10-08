@@ -1,9 +1,11 @@
 ---
 slug: peters-the-big-changes
-title: "Peters: The Big changes"
-date: 2012-05-07
+title: 'Peters: The Big changes'
+date: 2012-05-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00102/peters-the-big-changes.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/07/peters-the-big-changes/index.html
+layout: layout.njk
 ---
 Peters: The Big changes
 =======================

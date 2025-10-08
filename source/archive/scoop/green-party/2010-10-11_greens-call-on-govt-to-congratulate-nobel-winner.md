@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-govt-to-congratulate-nobel-winner
-title: "Greens call on Govt to congratulate Nobel winner"
-date: 2010-10-11
-source-url: https://www.scoop.co.nz/stories/PA1010/S00121/greens-call-on-govt-to-congratulate-nobel-winner.htm
+title: Greens call on Govt to congratulate Nobel winner
+date: 2010-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00121/greens-call-on-govt-to-congratulate-nobel-winner.htm
 author: green-party
+permalink: >-
+  /archive/2010/10/11/greens-call-on-govt-to-congratulate-nobel-winner/index.html
+layout: layout.njk
 ---
 Greens call on Govt to congratulate Nobel winner
 ================================================

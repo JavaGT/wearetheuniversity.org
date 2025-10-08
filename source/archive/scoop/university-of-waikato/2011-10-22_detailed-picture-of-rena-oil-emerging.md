@@ -1,9 +1,12 @@
 ---
 slug: detailed-picture-of-rena-oil-emerging
-title: "Detailed picture of Rena oil emerging"
-date: 2011-10-22
-source-url: https://www.scoop.co.nz/stories/SC1110/S00060/detailed-picture-of-rena-oil-emerging.htm
+title: Detailed picture of Rena oil emerging
+date: 2011-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00060/detailed-picture-of-rena-oil-emerging.htm
 author: university-of-waikato
+permalink: /archive/2011/10/22/detailed-picture-of-rena-oil-emerging/index.html
+layout: layout.njk
 ---
 Detailed picture of Rena oil emerging
 =====================================

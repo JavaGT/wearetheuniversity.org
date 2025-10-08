@@ -1,9 +1,12 @@
 ---
 slug: girls-meet-women-science-graduates
-title: "Girls Meet Women Science Graduates"
-date: 2005-06-28
-source-url: https://www.scoop.co.nz/stories/ED0506/S00076/girls-meet-women-science-graduates.htm
+title: Girls Meet Women Science Graduates
+date: 2005-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00076/girls-meet-women-science-graduates.htm
 author: auckland-university
+permalink: /archive/2005/06/28/girls-meet-women-science-graduates/index.html
+layout: layout.njk
 ---
 Girls Meet Women Science Graduates
 ==================================

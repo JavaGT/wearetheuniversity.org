@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-is-the-party-for-small-business
-title: "New Zealand First is the Party for Small Business"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/PA1509/S00083/new-zealand-first-is-the-party-for-small-business.htm
+title: New Zealand First is the Party for Small Business
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00083/new-zealand-first-is-the-party-for-small-business.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/09/04/new-zealand-first-is-the-party-for-small-business/index.html
+layout: layout.njk
 ---
 New Zealand First is the Party for Small Business
 =================================================

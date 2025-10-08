@@ -1,9 +1,13 @@
 ---
 slug: composer-in-residence-brings-diverse-career-experience
-title: "Composer in Residence brings diverse career experience"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/CU1405/S00102/composer-in-residence-brings-diverse-career-experience.htm
+title: Composer in Residence brings diverse career experience
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00102/composer-in-residence-brings-diverse-career-experience.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/07/composer-in-residence-brings-diverse-career-experience/index.html
+layout: layout.njk
 ---
 Composer in Residence brings diverse career experience
 ======================================================

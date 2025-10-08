@@ -1,9 +1,12 @@
 ---
 slug: richard-prosser-maiden-speech
-title: "Richard Prosser Maiden Speech"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00086/richard-prosser-maiden-speech.htm
+title: Richard Prosser Maiden Speech
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00086/richard-prosser-maiden-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/08/richard-prosser-maiden-speech/index.html
+layout: layout.njk
 ---
 Richard Prosser Maiden Speech
 =============================

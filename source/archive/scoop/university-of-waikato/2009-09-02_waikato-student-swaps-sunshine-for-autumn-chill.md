@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-swaps-sunshine-for-autumn-chill
-title: "Waikato student swaps sunshine for autumn chill"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/ED0909/S00011/waikato-student-swaps-sunshine-for-autumn-chill.htm
+title: Waikato student swaps sunshine for autumn chill
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00011/waikato-student-swaps-sunshine-for-autumn-chill.htm
 author: university-of-waikato
+permalink: /archive/2009/09/02/waikato-student-swaps-sunshine-for-autumn-chill/index.html
+layout: layout.njk
 ---
 Waikato student swaps sunshine for autumn chill
 ===============================================

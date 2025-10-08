@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-address-to-business-roundtable
-title: "Tariana Turia: Address to Business Roundtable"
-date: 2010-03-05
-source-url: https://www.scoop.co.nz/stories/PA1003/S00077/tariana-turia-address-to-business-roundtable.htm
+title: 'Tariana Turia: Address to Business Roundtable'
+date: 2010-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00077/tariana-turia-address-to-business-roundtable.htm
 author: te-pati-maori
+permalink: /archive/2010/03/05/tariana-turia-address-to-business-roundtable/index.html
+layout: layout.njk
 ---
 Tariana Turia: Address to Business Roundtable
 =============================================

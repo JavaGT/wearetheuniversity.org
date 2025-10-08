@@ -1,9 +1,13 @@
 ---
 slug: education-workers-optimistic-about-pay-equity-amendment-bill
-title: "Education workers optimistic about Pay Equity Amendment Bill"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/PO1810/S00232/education-workers-optimistic-about-pay-equity-amendment-bill.htm
+title: Education workers optimistic about Pay Equity Amendment Bill
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00232/education-workers-optimistic-about-pay-equity-amendment-bill.htm
 author: nzei
+permalink: >-
+  /archive/2018/10/16/education-workers-optimistic-about-pay-equity-amendment-bill/index.html
+layout: layout.njk
 ---
 Education workers optimistic about Pay Equity Amendment Bill
 ============================================================

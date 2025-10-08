@@ -1,9 +1,12 @@
 ---
 slug: fake-news-is-ancient;-just-ask-plato
-title: "Fake News Is Ancient; Just Ask Plato"
-date: 2021-02-22
-source-url: https://www.scoop.co.nz/stories/ED2102/S00030/fake-news-is-ancient-just-ask-plato.htm
+title: Fake News Is Ancient; Just Ask Plato
+date: 2021-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00030/fake-news-is-ancient-just-ask-plato.htm
 author: university-of-canterbury
+permalink: /archive/2021/02/22/fake-news-is-ancient/index.html
+layout: layout.njk
 ---
 Fake News Is Ancient; Just Ask Plato
 ====================================

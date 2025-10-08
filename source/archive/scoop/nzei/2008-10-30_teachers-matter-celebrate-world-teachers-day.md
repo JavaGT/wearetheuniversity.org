@@ -1,9 +1,12 @@
 ---
 slug: teachers-matter-celebrate-world-teachers-day
-title: "Teachers Matter - Celebrate World Teachers Day"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/ED0810/S00120/teachers-matter-celebrate-world-teachers-day.htm
+title: Teachers Matter - Celebrate World Teachers Day
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00120/teachers-matter-celebrate-world-teachers-day.htm
 author: nzei
+permalink: /archive/2008/10/30/teachers-matter-celebrate-world-teachers-day/index.html
+layout: layout.njk
 ---
 Teachers Matter - Celebrate World Teachers Day
 ==============================================

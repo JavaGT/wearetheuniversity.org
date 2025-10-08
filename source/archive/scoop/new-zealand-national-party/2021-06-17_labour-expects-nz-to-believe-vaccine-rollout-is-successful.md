@@ -1,9 +1,13 @@
 ---
 slug: labour-expects-nz-to-believe-vaccine-rollout-is-successful
-title: "Labour Expects NZ To Believe Vaccine Rollout Is Successful"
-date: 2021-06-17
-source-url: https://www.scoop.co.nz/stories/PA2106/S00135/labour-expects-nz-to-believe-vaccine-rollout-is-successful.htm
+title: Labour Expects NZ To Believe Vaccine Rollout Is Successful
+date: 2021-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00135/labour-expects-nz-to-believe-vaccine-rollout-is-successful.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/06/17/labour-expects-nz-to-believe-vaccine-rollout-is-successful/index.html
+layout: layout.njk
 ---
 Labour Expects NZ To Believe Vaccine Rollout Is Successful
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: mps-and-sporting-legends-to-turn-out-for-charities
-title: "MPs and sporting legends to turn out for charities"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/PA1608/S00540/mps-and-sporting-legends-to-turn-out-for-charities.htm
+title: MPs and sporting legends to turn out for charities
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00540/mps-and-sporting-legends-to-turn-out-for-charities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/08/30/mps-and-sporting-legends-to-turn-out-for-charities/index.html
+layout: layout.njk
 ---
 MPs and sporting legends to turn out for charities
 ==================================================

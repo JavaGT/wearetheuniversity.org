@@ -1,9 +1,13 @@
 ---
 slug: waikato-event-connects-to-cop26-and-climate-change-crisis
-title: "Waikato Event Connects To COP26 And Climate Change Crisis"
-date: 2021-10-31
-source-url: https://www.scoop.co.nz/stories/ED2110/S00028/waikato-event-connects-to-cop26-and-climate-change-crisis.htm
+title: Waikato Event Connects To COP26 And Climate Change Crisis
+date: 2021-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00028/waikato-event-connects-to-cop26-and-climate-change-crisis.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/31/waikato-event-connects-to-cop26-and-climate-change-crisis/index.html
+layout: layout.njk
 ---
 Waikato Event Connects To COP26 And Climate Change Crisis
 =========================================================

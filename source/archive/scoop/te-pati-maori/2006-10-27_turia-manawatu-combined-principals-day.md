@@ -1,9 +1,12 @@
 ---
 slug: turia-manawatu-combined-principals-day
-title: "Turia - Manawatu Combined Principals Day"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PA0610/S00512/turia-manawatu-combined-principals-day.htm
+title: Turia - Manawatu Combined Principals Day
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00512/turia-manawatu-combined-principals-day.htm
 author: te-pati-maori
+permalink: /archive/2006/10/27/turia-manawatu-combined-principals-day/index.html
+layout: layout.njk
 ---
 Turia - Manawatu Combined Principals Day
 ========================================

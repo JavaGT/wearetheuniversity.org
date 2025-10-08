@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-11-no-31
-title: "AUS Tertiary Update Vol 11 No 31"
-date: 2008-09-04
-source-url: https://www.scoop.co.nz/stories/ED0809/S00011/aus-tertiary-update-vol-11-no-31.htm
+title: AUS Tertiary Update Vol 11 No 31
+date: 2008-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00011/aus-tertiary-update-vol-11-no-31.htm
 author: association-of-university-staff
+permalink: /archive/2008/09/04/aus-tertiary-update-vol-11-no-31/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 11 No 31
 ================================

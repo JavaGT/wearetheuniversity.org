@@ -1,9 +1,12 @@
 ---
 slug: smart-software-sniffs-sick-strain-of-salmonella
-title: "Smart software sniffs sick strain of Salmonella"
-date: 2018-05-10
-source-url: https://www.scoop.co.nz/stories/SC1805/S00029/smart-software-sniffs-sick-strain-of-salmonella.htm
+title: Smart software sniffs sick strain of Salmonella
+date: 2018-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00029/smart-software-sniffs-sick-strain-of-salmonella.htm
 author: university-of-canterbury
+permalink: /archive/2018/05/10/smart-software-sniffs-sick-strain-of-salmonella/index.html
+layout: layout.njk
 ---
 Smart software sniffs sick strain of Salmonella
 ===============================================

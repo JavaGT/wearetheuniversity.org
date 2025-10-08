@@ -1,9 +1,12 @@
 ---
 slug: budget-2002-more-hype-than-help-for-students
-title: "Budget 2002: More Hype Than Help For Students"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00047/budget-2002-more-hype-than-help-for-students.htm
+title: 'Budget 2002: More Hype Than Help For Students'
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00047/budget-2002-more-hype-than-help-for-students.htm
 author: otago-university-students-association
+permalink: /archive/2002/05/23/budget-2002-more-hype-than-help-for-students/index.html
+layout: layout.njk
 ---
 Budget 2002: More Hype Than Help For Students
 =============================================

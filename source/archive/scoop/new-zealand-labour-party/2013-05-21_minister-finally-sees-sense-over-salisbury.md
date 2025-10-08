@@ -1,9 +1,12 @@
 ---
 slug: minister-finally-sees-sense-over-salisbury
-title: "Minister finally sees sense over Salisbury"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/PA1305/S00435/minister-finally-sees-sense-over-salisbury.htm
+title: Minister finally sees sense over Salisbury
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00435/minister-finally-sees-sense-over-salisbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/21/minister-finally-sees-sense-over-salisbury/index.html
+layout: layout.njk
 ---
 Minister finally sees sense over Salisbury
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: more-driving-practice-good-but-age-issue-fudged
-title: "More driving practice good but age issue fudged"
-date: 2010-03-03
-source-url: https://www.scoop.co.nz/stories/PO1003/S00054/more-driving-practice-good-but-age-issue-fudged.htm
+title: More driving practice good but age issue fudged
+date: 2010-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00054/more-driving-practice-good-but-age-issue-fudged.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/03/03/more-driving-practice-good-but-age-issue-fudged/index.html
+layout: layout.njk
 ---
 More driving practice good but age issue fudged
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: nandor-governments-prison-priorities-wrong
-title: "Nandor: Government's prison priorities wrong"
-date: 2004-02-13
-source-url: https://www.scoop.co.nz/stories/PA0402/S00229/nandor-governments-prison-priorities-wrong.htm
+title: 'Nandor: Government''s prison priorities wrong'
+date: 2004-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00229/nandor-governments-prison-priorities-wrong.htm
 author: green-party
+permalink: /archive/2004/02/13/nandor-governments-prison-priorities-wrong/index.html
+layout: layout.njk
 ---
 Nandor: Government's prison priorities wrong
 ============================================

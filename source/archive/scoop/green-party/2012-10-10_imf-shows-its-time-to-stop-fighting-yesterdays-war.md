@@ -1,9 +1,13 @@
 ---
 slug: imf-shows-its-time-to-stop-fighting-yesterdays-war
-title: "IMF shows it’s time to stop fighting yesterday’s war"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PA1210/S00172/imf-shows-its-time-to-stop-fighting-yesterdays-war.htm
+title: IMF shows it’s time to stop fighting yesterday’s war
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00172/imf-shows-its-time-to-stop-fighting-yesterdays-war.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/10/imf-shows-its-time-to-stop-fighting-yesterdays-war/index.html
+layout: layout.njk
 ---
 IMF shows it’s time to stop fighting yesterday’s war
 ====================================================

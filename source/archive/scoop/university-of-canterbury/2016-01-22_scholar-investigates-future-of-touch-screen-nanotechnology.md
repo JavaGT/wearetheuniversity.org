@@ -1,9 +1,13 @@
 ---
 slug: scholar-investigates-future-of-touch-screen-nanotechnology
-title: "Scholar investigates future of touch-screen nanotechnology"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/SC1601/S00044/scholar-investigates-future-of-touch-screen-nanotechnology.htm
+title: Scholar investigates future of touch-screen nanotechnology
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1601/S00044/scholar-investigates-future-of-touch-screen-nanotechnology.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/22/scholar-investigates-future-of-touch-screen-nanotechnology/index.html
+layout: layout.njk
 ---
 Scholar investigates future of touch-screen nanotechnology
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: all-kiwis-should-benefit-from-improved-outlook
-title: "All Kiwis should benefit from improved outlook"
-date: 2010-01-29
-source-url: https://www.scoop.co.nz/stories/PA1001/S00150/all-kiwis-should-benefit-from-improved-outlook.htm
+title: All Kiwis should benefit from improved outlook
+date: 2010-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00150/all-kiwis-should-benefit-from-improved-outlook.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/29/all-kiwis-should-benefit-from-improved-outlook/index.html
+layout: layout.njk
 ---
 All Kiwis should benefit from improved outlook
 ==============================================

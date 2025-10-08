@@ -1,9 +1,13 @@
 ---
 slug: students-plan-for-vibrant-inner-city-new-plymouth
-title: "Student’s plan for vibrant inner city New Plymouth"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00031/students-plan-for-vibrant-inner-city-new-plymouth.htm
+title: Student’s plan for vibrant inner city New Plymouth
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00031/students-plan-for-vibrant-inner-city-new-plymouth.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/07/students-plan-for-vibrant-inner-city-new-plymouth/index.html
+layout: layout.njk
 ---
 Student’s plan for vibrant inner city New Plymouth
 ==================================================

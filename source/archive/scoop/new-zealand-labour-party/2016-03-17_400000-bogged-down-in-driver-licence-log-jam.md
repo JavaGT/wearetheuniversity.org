@@ -1,9 +1,12 @@
 ---
 slug: 400000-bogged-down-in-driver-licence-log-jam
-title: "400,000 bogged down in driver licence log jam"
-date: 2016-03-17
-source-url: https://www.scoop.co.nz/stories/PA1603/S00297/400000-bogged-down-in-driver-licence-log-jam.htm
+title: 400,000 bogged down in driver licence log jam
+date: 2016-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00297/400000-bogged-down-in-driver-licence-log-jam.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/17/400000-bogged-down-in-driver-licence-log-jam/index.html
+layout: layout.njk
 ---
 400,000 bogged down in driver licence log jam
 =============================================

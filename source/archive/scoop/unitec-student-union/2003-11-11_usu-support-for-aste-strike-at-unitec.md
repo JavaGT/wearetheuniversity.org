@@ -1,9 +1,12 @@
 ---
 slug: usu-support-for-aste-strike-at-unitec
-title: "USU support for ASTE strike at UNITEC"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/ED0311/S00038/usu-support-for-aste-strike-at-unitec.htm
+title: USU support for ASTE strike at UNITEC
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00038/usu-support-for-aste-strike-at-unitec.htm
 author: unitec-student-union
+permalink: /archive/2003/11/11/usu-support-for-aste-strike-at-unitec/index.html
+layout: layout.njk
 ---
 USU support for ASTE strike at UNITEC
 =====================================

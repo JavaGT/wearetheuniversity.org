@@ -1,9 +1,12 @@
 ---
 slug: plain-english-no-3-29-oct-2009
-title: "Plain English No.3 - 29 Oct 2009"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/PA0910/S00455/plain-english-no3-29-oct-2009.htm
+title: Plain English No.3 - 29 Oct 2009
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00455/plain-english-no3-29-oct-2009.htm
 author: new-zealand-national-party
+permalink: /archive/2009/10/29/plain-english-no-3-29-oct-2009/index.html
+layout: layout.njk
 ---
 Plain English No.3 - 29 Oct 2009
 ================================

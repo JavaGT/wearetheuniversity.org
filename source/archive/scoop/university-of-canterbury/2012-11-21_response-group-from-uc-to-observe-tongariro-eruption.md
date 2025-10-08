@@ -1,9 +1,13 @@
 ---
 slug: response-group-from-uc-to-observe-tongariro-eruption
-title: "Response group from UC to observe Tongariro eruption"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/SC1211/S00057/response-group-from-uc-to-observe-tongariro-eruption.htm
+title: Response group from UC to observe Tongariro eruption
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00057/response-group-from-uc-to-observe-tongariro-eruption.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/21/response-group-from-uc-to-observe-tongariro-eruption/index.html
+layout: layout.njk
 ---
 Response group from UC to observe Tongariro eruption
 ====================================================

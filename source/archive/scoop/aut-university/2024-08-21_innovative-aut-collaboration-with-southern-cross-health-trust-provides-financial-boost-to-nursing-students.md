@@ -1,9 +1,16 @@
 ---
-slug: innovative-aut-collaboration-with-southern-cross-health-trust-provides-financial-boost-to-nursing-students
-title: "Innovative AUT Collaboration With Southern Cross Health Trust Provides Financial Boost To Nursing Students"
-date: 2024-08-21
-source-url: https://www.scoop.co.nz/stories/ED2408/S00042/innovative-aut-collaboration-with-southern-cross-health-trust-provides-financial-boost-to-nursing-students.htm
+slug: >-
+  innovative-aut-collaboration-with-southern-cross-health-trust-provides-financial-boost-to-nursing-students
+title: >-
+  Innovative AUT Collaboration With Southern Cross Health Trust Provides
+  Financial Boost To Nursing Students
+date: 2024-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00042/innovative-aut-collaboration-with-southern-cross-health-trust-provides-financial-boost-to-nursing-students.htm
 author: aut-university
+permalink: >-
+  /archive/2024/08/21/innovative-aut-collaboration-with-southern-cross-health-trust-provides-financial-boost-to-nursing-students/index.html
+layout: layout.njk
 ---
 Innovative AUT Collaboration With Southern Cross Health Trust Provides Financial Boost To Nursing Students
 ==========================================================================================================

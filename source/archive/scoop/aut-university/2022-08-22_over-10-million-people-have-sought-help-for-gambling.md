@@ -1,9 +1,13 @@
 ---
 slug: over-10-million-people-have-sought-help-for-gambling
-title: "Over 10 Million People Have Sought Help For Gambling"
-date: 2022-08-22
-source-url: https://www.scoop.co.nz/stories/GE2208/S00043/over-10-million-people-have-sought-help-for-gambling.htm
+title: Over 10 Million People Have Sought Help For Gambling
+date: 2022-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2208/S00043/over-10-million-people-have-sought-help-for-gambling.htm
 author: aut-university
+permalink: >-
+  /archive/2022/08/22/over-10-million-people-have-sought-help-for-gambling/index.html
+layout: layout.njk
 ---
 Over 10 Million People Have Sought Help For Gambling
 ====================================================

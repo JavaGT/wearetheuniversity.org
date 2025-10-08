@@ -1,9 +1,12 @@
 ---
 slug: small-business-challenges-from-the-horses-mouth
-title: "Small business challenges: from the horse’s mouth"
-date: 2010-03-08
-source-url: https://www.scoop.co.nz/stories/ED1003/S00032/small-business-challenges-from-the-horses-mouth.htm
+title: 'Small business challenges: from the horse’s mouth'
+date: 2010-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00032/small-business-challenges-from-the-horses-mouth.htm
 author: university-of-waikato
+permalink: /archive/2010/03/08/small-business-challenges-from-the-horses-mouth/index.html
+layout: layout.njk
 ---
 Small business challenges: from the horse’s mouth
 =================================================

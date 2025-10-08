@@ -1,9 +1,12 @@
 ---
 slug: miq-lobby-debut-a-depressing-debacle
-title: "MIQ lobby debut a depressing debacle"
-date: 2021-09-20
-source-url: https://www.scoop.co.nz/stories/PA2109/S00169/miq-lobby-debut-a-depressing-debacle.htm
+title: MIQ lobby debut a depressing debacle
+date: 2021-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00169/miq-lobby-debut-a-depressing-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/20/miq-lobby-debut-a-depressing-debacle/index.html
+layout: layout.njk
 ---
 MIQ lobby debut a depressing debacle
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-income-tax-bill;-first-reading
-title: "Sharples: Income Tax Bill; First Reading"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00463/sharples-income-tax-bill-first-reading.htm
+title: 'Sharples: Income Tax Bill; First Reading'
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00463/sharples-income-tax-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/11/23/sharples-income-tax-bill/index.html
+layout: layout.njk
 ---
 Sharples: Income Tax Bill; First Reading
 ========================================

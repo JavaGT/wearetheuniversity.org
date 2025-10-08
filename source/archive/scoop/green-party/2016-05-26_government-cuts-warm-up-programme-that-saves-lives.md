@@ -1,9 +1,13 @@
 ---
 slug: government-cuts-warm-up-programme-that-saves-lives
-title: "Government cuts Warm-Up programme that saves lives"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00567/government-cuts-warm-up-programme-that-saves-lives.htm
+title: Government cuts Warm-Up programme that saves lives
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00567/government-cuts-warm-up-programme-that-saves-lives.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/26/government-cuts-warm-up-programme-that-saves-lives/index.html
+layout: layout.njk
 ---
 Government cuts Warm-Up programme that saves lives
 ==================================================

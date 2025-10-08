@@ -1,9 +1,12 @@
 ---
 slug: auckland-decision-not-worthy-of-wait
-title: "Auckland Decision Not Worthy Of Wait"
-date: 2021-11-01
-source-url: https://www.scoop.co.nz/stories/PA2111/S00008/auckland-decision-not-worthy-of-wait.htm
+title: Auckland Decision Not Worthy Of Wait
+date: 2021-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00008/auckland-decision-not-worthy-of-wait.htm
 author: act-new-zealand
+permalink: /archive/2021/11/01/auckland-decision-not-worthy-of-wait/index.html
+layout: layout.njk
 ---
 Auckland Decision Not Worthy Of Wait
 ====================================

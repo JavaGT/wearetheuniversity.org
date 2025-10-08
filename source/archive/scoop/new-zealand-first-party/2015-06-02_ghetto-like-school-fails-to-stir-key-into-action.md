@@ -1,9 +1,13 @@
 ---
 slug: ghetto-like-school-fails-to-stir-key-into-action
-title: "Ghetto-Like School Fails to Stir Key into Action"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/PA1506/S00022/ghetto-like-school-fails-to-stir-key-into-action.htm
+title: Ghetto-Like School Fails to Stir Key into Action
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00022/ghetto-like-school-fails-to-stir-key-into-action.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/02/ghetto-like-school-fails-to-stir-key-into-action/index.html
+layout: layout.njk
 ---
 Ghetto-Like School Fails to Stir Key into Action
 ================================================

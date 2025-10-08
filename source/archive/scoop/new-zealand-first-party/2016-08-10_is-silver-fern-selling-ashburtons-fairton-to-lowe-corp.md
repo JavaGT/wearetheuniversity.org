@@ -1,9 +1,13 @@
 ---
 slug: is-silver-fern-selling-ashburtons-fairton-to-lowe-corp
-title: "Is Silver Fern Selling Ashburton's Fairton to Lowe Corp?"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PA1608/S00151/is-silver-fern-selling-ashburtons-fairton-to-lowe-corp.htm
+title: Is Silver Fern Selling Ashburton's Fairton to Lowe Corp?
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00151/is-silver-fern-selling-ashburtons-fairton-to-lowe-corp.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/10/is-silver-fern-selling-ashburtons-fairton-to-lowe-corp/index.html
+layout: layout.njk
 ---
 Is Silver Fern Selling Ashburton's Fairton to Lowe Corp?
 ========================================================

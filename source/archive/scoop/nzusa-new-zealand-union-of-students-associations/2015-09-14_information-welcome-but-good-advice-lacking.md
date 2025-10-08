@@ -1,9 +1,12 @@
 ---
 slug: information-welcome-but-good-advice-lacking
-title: "Information welcome, but good advice lacking"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/ED1509/S00082/information-welcome-but-good-advice-lacking.htm
+title: Information welcome, but good advice lacking
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00082/information-welcome-but-good-advice-lacking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/09/14/information-welcome-but-good-advice-lacking/index.html
+layout: layout.njk
 ---
 Information welcome, but good advice lacking
 ============================================

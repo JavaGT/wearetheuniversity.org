@@ -1,9 +1,13 @@
 ---
 slug: latest-teacher-action-reflects-poorly-on-mallard
-title: "Latest Teacher Action Reflects Poorly On Mallard"
-date: 2002-04-24
-source-url: https://www.scoop.co.nz/stories/PA0204/S00368/latest-teacher-action-reflects-poorly-on-mallard.htm
+title: Latest Teacher Action Reflects Poorly On Mallard
+date: 2002-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00368/latest-teacher-action-reflects-poorly-on-mallard.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/04/24/latest-teacher-action-reflects-poorly-on-mallard/index.html
+layout: layout.njk
 ---
 Latest Teacher Action Reflects Poorly On Mallard
 ================================================

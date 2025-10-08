@@ -1,9 +1,12 @@
 ---
 slug: google-executive-to-share-lessons-from-nyc-&-silicon-valley
-title: "Google Executive To Share Lessons From NYC & Silicon Valley"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00102/google-executive-to-share-lessons-from-nyc-silicon-valley.htm
+title: Google Executive To Share Lessons From NYC & Silicon Valley
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00102/google-executive-to-share-lessons-from-nyc-silicon-valley.htm
 author: university-of-waikato
+permalink: /archive/2013/03/14/google-executive-to-share-lessons-from-nyc-/index.html
+layout: layout.njk
 ---
 Google Executive To Share Lessons From NYC & Silicon Valley
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: foodhq-new-strategic-partner-for-nz-food-awards
-title: "FoodHQ new strategic partner for NZ Food Awards"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/BU1409/S00114/foodhq-new-strategic-partner-for-nz-food-awards.htm
+title: FoodHQ new strategic partner for NZ Food Awards
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00114/foodhq-new-strategic-partner-for-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2014/09/03/foodhq-new-strategic-partner-for-nz-food-awards/index.html
+layout: layout.njk
 ---
 FoodHQ new strategic partner for NZ Food Awards
 ===============================================

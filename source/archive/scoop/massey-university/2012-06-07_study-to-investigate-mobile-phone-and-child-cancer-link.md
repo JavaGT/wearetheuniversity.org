@@ -1,9 +1,13 @@
 ---
 slug: study-to-investigate-mobile-phone-and-child-cancer-link
-title: "Study to investigate mobile phone and child cancer link"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/SC1206/S00015/study-to-investigate-mobile-phone-and-child-cancer-link.htm
+title: Study to investigate mobile phone and child cancer link
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00015/study-to-investigate-mobile-phone-and-child-cancer-link.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/07/study-to-investigate-mobile-phone-and-child-cancer-link/index.html
+layout: layout.njk
 ---
 Study to investigate mobile phone and child cancer link
 =======================================================

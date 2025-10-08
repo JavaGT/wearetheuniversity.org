@@ -1,9 +1,12 @@
 ---
 slug: slating-of-rma-changes-a-warning-to-government
-title: "Slating of RMA changes a warning to Government"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/PA1304/S00030/slating-of-rma-changes-a-warning-to-government.htm
+title: Slating of RMA changes a warning to Government
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00030/slating-of-rma-changes-a-warning-to-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/03/slating-of-rma-changes-a-warning-to-government/index.html
+layout: layout.njk
 ---
 Slating of RMA changes a warning to Government
 ==============================================

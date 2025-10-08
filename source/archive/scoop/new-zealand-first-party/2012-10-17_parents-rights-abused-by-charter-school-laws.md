@@ -1,9 +1,12 @@
 ---
 slug: parents-rights-abused-by-charter-school-laws
-title: "Parents Rights Abused by Charter School Laws"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/PA1210/S00279/parents-rights-abused-by-charter-school-laws.htm
+title: Parents Rights Abused by Charter School Laws
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00279/parents-rights-abused-by-charter-school-laws.htm
 author: new-zealand-first-party
+permalink: /archive/2012/10/17/parents-rights-abused-by-charter-school-laws/index.html
+layout: layout.njk
 ---
 Parents Rights Abused by Charter School Laws
 ============================================

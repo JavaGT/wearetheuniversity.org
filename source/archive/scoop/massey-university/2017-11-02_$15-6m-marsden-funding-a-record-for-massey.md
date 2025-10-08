@@ -1,9 +1,12 @@
 ---
 slug: $15-6m-marsden-funding-a-record-for-massey
-title: "$15.6m Marsden funding a record for Massey"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/SC1711/S00007/156m-marsden-funding-a-record-for-massey.htm
+title: $15.6m Marsden funding a record for Massey
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1711/S00007/156m-marsden-funding-a-record-for-massey.htm
 author: massey-university
+permalink: /archive/2017/11/02/15-6m-marsden-funding-a-record-for-massey/index.html
+layout: layout.njk
 ---
 $15.6m Marsden funding a record for Massey
 ==========================================

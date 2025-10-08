@@ -1,9 +1,12 @@
 ---
 slug: new-sunbed-safety-guidelines-need-legal-force
-title: "New sunbed safety guidelines need legal force"
-date: 2009-01-26
-source-url: https://www.scoop.co.nz/stories/PA0901/S00101/new-sunbed-safety-guidelines-need-legal-force.htm
+title: New sunbed safety guidelines need legal force
+date: 2009-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00101/new-sunbed-safety-guidelines-need-legal-force.htm
 author: green-party
+permalink: /archive/2009/01/26/new-sunbed-safety-guidelines-need-legal-force/index.html
+layout: layout.njk
 ---
 New sunbed safety guidelines need legal force
 =============================================

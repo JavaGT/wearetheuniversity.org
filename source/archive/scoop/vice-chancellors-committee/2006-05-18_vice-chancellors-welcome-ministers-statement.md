@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellors-welcome-ministers-statement
-title: "Vice-Chancellors Welcome Minister's Statement"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/ED0605/S00058/vice-chancellors-welcome-ministers-statement.htm
+title: Vice-Chancellors Welcome Minister's Statement
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00058/vice-chancellors-welcome-ministers-statement.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/05/18/vice-chancellors-welcome-ministers-statement/index.html
+layout: layout.njk
 ---
 Vice-Chancellors Welcome Minister's Statement
 =============================================

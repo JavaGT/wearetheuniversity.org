@@ -1,8 +1,11 @@
 ---
 slug: epsom-campus-update
-title: "Epsom Campus Update"
-date: 2013-05-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/05/14/Epsom-Campus-Update.html
+title: Epsom Campus Update
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/05/14/Epsom-Campus-Update.html
+permalink: /archive/2013/05/14/epsom-campus-update/index.html
+layout: layout.njk
 ---
 Epsom Campus Update
 ===================

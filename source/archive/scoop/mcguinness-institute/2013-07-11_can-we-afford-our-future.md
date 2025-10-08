@@ -1,9 +1,11 @@
 ---
 slug: can-we-afford-our-future
-title: "Can we afford our future?"
-date: 2013-07-11
+title: Can we afford our future?
+date: 2013-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1307/S00119/can-we-afford-our-future.htm
 author: mcguinness-institute
+permalink: /archive/2013/07/11/can-we-afford-our-future/index.html
+layout: layout.njk
 ---
 Can we afford our future?
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: wellington-staffing-crisis-may-hit-other-hospitals
-title: "Wellington staffing crisis may hit other hospitals"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/PA0703/S00315/wellington-staffing-crisis-may-hit-other-hospitals.htm
+title: Wellington staffing crisis may hit other hospitals
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00315/wellington-staffing-crisis-may-hit-other-hospitals.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/03/16/wellington-staffing-crisis-may-hit-other-hospitals/index.html
+layout: layout.njk
 ---
 Wellington staffing crisis may hit other hospitals
 ==================================================

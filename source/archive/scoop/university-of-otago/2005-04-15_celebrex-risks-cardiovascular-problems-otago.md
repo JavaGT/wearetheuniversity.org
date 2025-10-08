@@ -1,9 +1,12 @@
 ---
 slug: celebrex-risks-cardiovascular-problems-otago
-title: "Celebrex risks cardiovascular problems - Otago"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/ED0504/S00058/celebrex-risks-cardiovascular-problems-otago.htm
+title: Celebrex risks cardiovascular problems - Otago
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00058/celebrex-risks-cardiovascular-problems-otago.htm
 author: university-of-otago
+permalink: /archive/2005/04/15/celebrex-risks-cardiovascular-problems-otago/index.html
+layout: layout.njk
 ---
 Celebrex risks cardiovascular problems - Otago
 ==============================================

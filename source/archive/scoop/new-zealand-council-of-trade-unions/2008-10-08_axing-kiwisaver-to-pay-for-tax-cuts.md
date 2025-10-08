@@ -1,9 +1,12 @@
 ---
 slug: axing-kiwisaver-to-pay-for-tax-cuts
-title: "Axing KiwiSaver to pay for tax cuts"
-date: 2008-10-08
-source-url: https://www.scoop.co.nz/stories/PO0810/S00110/axing-kiwisaver-to-pay-for-tax-cuts.htm
+title: Axing KiwiSaver to pay for tax cuts
+date: 2008-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00110/axing-kiwisaver-to-pay-for-tax-cuts.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/10/08/axing-kiwisaver-to-pay-for-tax-cuts/index.html
+layout: layout.njk
 ---
 Axing KiwiSaver to pay for tax cuts
 ===================================

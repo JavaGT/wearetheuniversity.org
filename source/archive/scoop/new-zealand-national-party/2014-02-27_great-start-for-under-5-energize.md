@@ -1,9 +1,12 @@
 ---
 slug: great-start-for-under-5-energize
-title: "Great start for Under 5 Energize"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/PA1402/S00397/great-start-for-under-5-energize.htm
+title: Great start for Under 5 Energize
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00397/great-start-for-under-5-energize.htm
 author: new-zealand-national-party
+permalink: /archive/2014/02/27/great-start-for-under-5-energize/index.html
+layout: layout.njk
 ---
 Great start for Under 5 Energize
 ================================

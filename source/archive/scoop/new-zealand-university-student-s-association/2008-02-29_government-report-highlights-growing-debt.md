@@ -1,9 +1,12 @@
 ---
 slug: government-report-highlights-growing-debt
-title: "Government report highlights growing debt"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00491/government-report-highlights-growing-debt.htm
+title: Government report highlights growing debt
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00491/government-report-highlights-growing-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2008/02/29/government-report-highlights-growing-debt/index.html
+layout: layout.njk
 ---
 Government report highlights growing debt
 =========================================

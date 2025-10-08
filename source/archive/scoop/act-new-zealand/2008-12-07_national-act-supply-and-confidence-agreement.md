@@ -1,9 +1,12 @@
 ---
 slug: national-act-supply-and-confidence-agreement
-title: "National/ACT Supply And Confidence Agreement"
-date: 2008-12-07
-source-url: https://www.scoop.co.nz/stories/PA0812/S00046/nationalact-supply-and-confidence-agreement.htm
+title: National/ACT Supply And Confidence Agreement
+date: 2008-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00046/nationalact-supply-and-confidence-agreement.htm
 author: act-new-zealand
+permalink: /archive/2008/12/07/national-act-supply-and-confidence-agreement/index.html
+layout: layout.njk
 ---
 National/ACT Supply And Confidence Agreement
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: parent-star-to-new-planet-identified
-title: "Parent star to new planet identified"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/SC0608/S00028/parent-star-to-new-planet-identified.htm
+title: Parent star to new planet identified
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00028/parent-star-to-new-planet-identified.htm
 author: massey-university
+permalink: /archive/2006/08/11/parent-star-to-new-planet-identified/index.html
+layout: layout.njk
 ---
 Parent star to new planet identified
 ====================================

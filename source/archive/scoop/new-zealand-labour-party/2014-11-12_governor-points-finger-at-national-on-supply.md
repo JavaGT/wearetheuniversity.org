@@ -1,9 +1,12 @@
 ---
 slug: governor-points-finger-at-national-on-supply
-title: "Governor points finger at National on supply"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/PA1411/S00163/governor-points-finger-at-national-on-supply.htm
+title: Governor points finger at National on supply
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00163/governor-points-finger-at-national-on-supply.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/12/governor-points-finger-at-national-on-supply/index.html
+layout: layout.njk
 ---
 Governor points finger at National on supply
 ============================================

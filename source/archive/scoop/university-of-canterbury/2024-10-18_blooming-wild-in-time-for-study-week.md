@@ -1,9 +1,12 @@
 ---
 slug: blooming-wild-in-time-for-study-week
-title: "Blooming Wild In Time For Study Week"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/ED2410/S00027/blooming-wild-in-time-for-study-week.htm
+title: Blooming Wild In Time For Study Week
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00027/blooming-wild-in-time-for-study-week.htm
 author: university-of-canterbury
+permalink: /archive/2024/10/18/blooming-wild-in-time-for-study-week/index.html
+layout: layout.njk
 ---
 Blooming Wild In Time For Study Week
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: mouth-breathing-while-sleeping-may-increase-tooth-decay-risk
-title: "Mouth breathing while sleeping may increase tooth decay risk"
-date: 2016-02-05
-source-url: https://www.scoop.co.nz/stories/SC1602/S00019/mouth-breathing-while-sleeping-may-increase-tooth-decay-risk.htm
+title: Mouth breathing while sleeping may increase tooth decay risk
+date: 2016-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00019/mouth-breathing-while-sleeping-may-increase-tooth-decay-risk.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/02/05/mouth-breathing-while-sleeping-may-increase-tooth-decay-risk/index.html
+layout: layout.njk
 ---
 Mouth breathing while sleeping may increase tooth decay risk
 ============================================================

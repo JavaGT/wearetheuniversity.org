@@ -1,9 +1,12 @@
 ---
 slug: $112m-outstanding-in-victim-reparation-payments
-title: "$112m Outstanding In Victim Reparation Payments"
-date: 2022-10-19
-source-url: https://www.scoop.co.nz/stories/PA2210/S00135/112m-outstanding-in-victim-reparation-payments.htm
+title: $112m Outstanding In Victim Reparation Payments
+date: 2022-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00135/112m-outstanding-in-victim-reparation-payments.htm
 author: act-new-zealand
+permalink: /archive/2022/10/19/112m-outstanding-in-victim-reparation-payments/index.html
+layout: layout.njk
 ---
 $112m Outstanding In Victim Reparation Payments
 ===============================================

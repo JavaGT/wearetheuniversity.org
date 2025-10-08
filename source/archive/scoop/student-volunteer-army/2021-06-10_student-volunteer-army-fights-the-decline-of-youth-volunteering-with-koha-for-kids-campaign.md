@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-fights-the-decline-of-youth-volunteering-with-koha-for-kids-campaign
-title: "‘Student Volunteer Army Fights The Decline Of Youth Volunteering With Koha For Kids Campaign’"
-date: 2021-06-10
-source-url: https://www.scoop.co.nz/stories/ED2106/S00020/student-volunteer-army-fights-the-decline-of-youth-volunteering-with-koha-for-kids-campaign.htm
+slug: >-
+  student-volunteer-army-fights-the-decline-of-youth-volunteering-with-koha-for-kids-campaign
+title: >-
+  ‘Student Volunteer Army Fights The Decline Of Youth Volunteering With Koha For
+  Kids Campaign’
+date: 2021-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00020/student-volunteer-army-fights-the-decline-of-youth-volunteering-with-koha-for-kids-campaign.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2021/06/10/student-volunteer-army-fights-the-decline-of-youth-volunteering-with-koha-for-kids-campaign/index.html
+layout: layout.njk
 ---
 ‘Student Volunteer Army Fights The Decline Of Youth Volunteering With Koha For Kids Campaign’
 =============================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: key-should-support-free-education
-title: "Key Should Support Free Education"
-date: 2006-11-28
-source-url: https://www.scoop.co.nz/stories/ED0611/S00103/key-should-support-free-education.htm
+title: Key Should Support Free Education
+date: 2006-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00103/key-should-support-free-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/11/28/key-should-support-free-education/index.html
+layout: layout.njk
 ---
 Key Should Support Free Education
 =================================

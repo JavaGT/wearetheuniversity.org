@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-28-july-2005
-title: "Maxim Institute real issues 28 July 2005"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/PO0507/S00333/maxim-institute-real-issues-28-july-2005.htm
+title: Maxim Institute real issues 28 July 2005
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00333/maxim-institute-real-issues-28-july-2005.htm
 author: maxim-institute
+permalink: /archive/2005/07/29/maxim-institute-real-issues-28-july-2005/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues 28 July 2005
 ========================================

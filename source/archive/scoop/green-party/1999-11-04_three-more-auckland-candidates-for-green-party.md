@@ -1,9 +1,12 @@
 ---
 slug: three-more-auckland-candidates-for-green-party
-title: "Three more Auckland candidates for Green Party"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PA9911/S00129/three-more-auckland-candidates-for-green-party.htm
+title: Three more Auckland candidates for Green Party
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00129/three-more-auckland-candidates-for-green-party.htm
 author: green-party
+permalink: /archive/1999/11/04/three-more-auckland-candidates-for-green-party/index.html
+layout: layout.njk
 ---
 Three more Auckland candidates for Green Party
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-health-issues-in-the-spotlight
-title: "Maori Health Issues in the spotlight"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/GE0407/S00030/maori-health-issues-in-the-spotlight.htm
+title: Maori Health Issues in the spotlight
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0407/S00030/maori-health-issues-in-the-spotlight.htm
 author: auckland-university
+permalink: /archive/2004/07/09/maori-health-issues-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Maori Health Issues in the spotlight
 ====================================

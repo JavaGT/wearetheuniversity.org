@@ -1,9 +1,13 @@
 ---
 slug: ethnic-disparities-in-access-to-chronic-pain-services
-title: "Ethnic disparities in access to chronic pain services"
-date: 2018-06-08
-source-url: https://www.scoop.co.nz/stories/GE1806/S00035/ethnic-disparities-in-access-to-chronic-pain-services.htm
+title: Ethnic disparities in access to chronic pain services
+date: 2018-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00035/ethnic-disparities-in-access-to-chronic-pain-services.htm
 author: aut-university
+permalink: >-
+  /archive/2018/06/08/ethnic-disparities-in-access-to-chronic-pain-services/index.html
+layout: layout.njk
 ---
 Ethnic disparities in access to chronic pain services
 =====================================================

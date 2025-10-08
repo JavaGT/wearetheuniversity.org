@@ -1,9 +1,11 @@
 ---
 slug: avian-bird-flu-hone-harawira
-title: "Avian Bird Flu: Hone Harawira"
-date: 2005-12-09
+title: 'Avian Bird Flu: Hone Harawira'
+date: 2005-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00143/avian-bird-flu-hone-harawira.htm
 author: te-pati-maori
+permalink: /archive/2005/12/09/avian-bird-flu-hone-harawira/index.html
+layout: layout.njk
 ---
 Avian Bird Flu: Hone Harawira
 =============================

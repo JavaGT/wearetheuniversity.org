@@ -1,9 +1,12 @@
 ---
 slug: encouraging-tall-poppies-low-priority
-title: "Encouraging Tall Poppies Low Priority"
-date: 2000-03-21
-source-url: https://www.scoop.co.nz/stories/PO0003/S00089/encouraging-tall-poppies-low-priority.htm
+title: Encouraging Tall Poppies Low Priority
+date: 2000-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00089/encouraging-tall-poppies-low-priority.htm
 author: prebble-s-rebels
+permalink: /archive/2000/03/21/encouraging-tall-poppies-low-priority/index.html
+layout: layout.njk
 ---
 Encouraging Tall Poppies Low Priority
 =====================================

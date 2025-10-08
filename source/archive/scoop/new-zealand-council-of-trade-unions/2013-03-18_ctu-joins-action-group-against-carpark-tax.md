@@ -1,9 +1,12 @@
 ---
 slug: ctu-joins-action-group-against-carpark-tax
-title: "CTU Joins Action Group Against Carpark Tax"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/PO1303/S00205/ctu-joins-action-group-against-carpark-tax.htm
+title: CTU Joins Action Group Against Carpark Tax
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00205/ctu-joins-action-group-against-carpark-tax.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/03/18/ctu-joins-action-group-against-carpark-tax/index.html
+layout: layout.njk
 ---
 CTU Joins Action Group Against Carpark Tax
 ==========================================

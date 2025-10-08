@@ -1,9 +1,13 @@
 ---
 slug: university-finds-most-pe-teacher-graduates-in-employment
-title: "University finds most PE teacher graduates in employment"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/ED1408/S00121/university-finds-most-pe-teacher-graduates-in-employment.htm
+title: University finds most PE teacher graduates in employment
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00121/university-finds-most-pe-teacher-graduates-in-employment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/24/university-finds-most-pe-teacher-graduates-in-employment/index.html
+layout: layout.njk
 ---
 University finds most PE teacher graduates in employment
 ========================================================

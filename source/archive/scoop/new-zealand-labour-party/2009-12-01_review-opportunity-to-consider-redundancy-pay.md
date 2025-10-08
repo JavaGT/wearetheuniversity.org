@@ -1,9 +1,12 @@
 ---
 slug: review-opportunity-to-consider-redundancy-pay
-title: "Review opportunity to consider redundancy pay"
-date: 2009-12-01
-source-url: https://www.scoop.co.nz/stories/PA0912/S00014/review-opportunity-to-consider-redundancy-pay.htm
+title: Review opportunity to consider redundancy pay
+date: 2009-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00014/review-opportunity-to-consider-redundancy-pay.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/01/review-opportunity-to-consider-redundancy-pay/index.html
+layout: layout.njk
 ---
 Review opportunity to consider redundancy pay
 =============================================

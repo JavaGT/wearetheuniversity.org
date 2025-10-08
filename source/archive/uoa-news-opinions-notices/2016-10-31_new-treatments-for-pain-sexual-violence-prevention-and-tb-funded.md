@@ -1,8 +1,12 @@
 ---
 slug: new-treatments-for-pain-sexual-violence-prevention-and-tb-funded
-title: "New treatments for pain, sexual violence prevention and TB funded"
-date: 2016-10-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/new-treatments-for-pain-and-sexual-violence-prevention-funded.html
+title: New treatments for pain, sexual violence prevention and TB funded
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/new-treatments-for-pain-and-sexual-violence-prevention-funded.html
+permalink: >-
+  /archive/2016/10/31/new-treatments-for-pain-sexual-violence-prevention-and-tb-funded/index.html
+layout: layout.njk
 ---
 New treatments for pain, sexual violence prevention and TB funded
 =================================================================

@@ -1,9 +1,16 @@
 ---
-slug: rena-a-decade-of-work-by-researchers-illustrates-the-impacts-of-overfishing-on-delicate-reef-systems
-title: "Rena - A Decade Of Work By Researchers Illustrates The Impacts Of Overfishing On Delicate Reef Systems"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/SC2110/S00009/rena-a-decade-of-work-by-researchers-illustrates-the-impacts-of-overfishing-on-delicate-reef-systems.htm
+slug: >-
+  rena-a-decade-of-work-by-researchers-illustrates-the-impacts-of-overfishing-on-delicate-reef-systems
+title: >-
+  Rena - A Decade Of Work By Researchers Illustrates The Impacts Of Overfishing
+  On Delicate Reef Systems
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2110/S00009/rena-a-decade-of-work-by-researchers-illustrates-the-impacts-of-overfishing-on-delicate-reef-systems.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/04/rena-a-decade-of-work-by-researchers-illustrates-the-impacts-of-overfishing-on-delicate-reef-systems/index.html
+layout: layout.njk
 ---
 Rena - A Decade Of Work By Researchers Illustrates The Impacts Of Overfishing On Delicate Reef Systems
 ======================================================================================================

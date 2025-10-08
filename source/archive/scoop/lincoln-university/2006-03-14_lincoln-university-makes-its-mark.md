@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-makes-its-mark
-title: "Lincoln University Makes its Mark"
-date: 2006-03-14
-source-url: https://www.scoop.co.nz/stories/ED0603/S00036/lincoln-university-makes-its-mark.htm
+title: Lincoln University Makes its Mark
+date: 2006-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00036/lincoln-university-makes-its-mark.htm
 author: lincoln-university
+permalink: /archive/2006/03/14/lincoln-university-makes-its-mark/index.html
+layout: layout.njk
 ---
 Lincoln University Makes its Mark
 =================================

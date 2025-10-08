@@ -1,9 +1,13 @@
 ---
 slug: financial-relief-a-start-but-comprehensive-package-needed
-title: "Financial relief a start but comprehensive package needed"
-date: 2011-02-28
-source-url: https://www.scoop.co.nz/stories/PA1102/S00421/financial-relief-a-start-but-comprehensive-package-needed.htm
+title: Financial relief a start but comprehensive package needed
+date: 2011-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00421/financial-relief-a-start-but-comprehensive-package-needed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/28/financial-relief-a-start-but-comprehensive-package-needed/index.html
+layout: layout.njk
 ---
 Financial relief a start but comprehensive package needed
 =========================================================

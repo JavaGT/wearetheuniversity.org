@@ -1,9 +1,13 @@
 ---
 slug: auck-students-concerned-over-negotiation-breakdown
-title: "Auck students concerned over negotiation breakdown"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/ED0506/S00058/auck-students-concerned-over-negotiation-breakdown.htm
+title: Auck students concerned over negotiation breakdown
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00058/auck-students-concerned-over-negotiation-breakdown.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2005/06/21/auck-students-concerned-over-negotiation-breakdown/index.html
+layout: layout.njk
 ---
 Auck students concerned over negotiation breakdown
 ==================================================

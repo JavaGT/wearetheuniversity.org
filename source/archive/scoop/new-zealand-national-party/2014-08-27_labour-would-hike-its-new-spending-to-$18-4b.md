@@ -1,9 +1,12 @@
 ---
 slug: labour-would-hike-its-new-spending-to-$18-4b
-title: "Labour would hike its new spending to $18.4b"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/PA1408/S00422/labour-would-hike-its-new-spending-to-184b.htm
+title: Labour would hike its new spending to $18.4b
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00422/labour-would-hike-its-new-spending-to-184b.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/27/labour-would-hike-its-new-spending-to-/index.html
+layout: layout.njk
 ---
 Labour would hike its new spending to $18.4b
 ============================================

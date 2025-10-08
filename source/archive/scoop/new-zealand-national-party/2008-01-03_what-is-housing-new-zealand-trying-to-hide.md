@@ -1,9 +1,12 @@
 ---
 slug: what-is-housing-new-zealand-trying-to-hide
-title: "What Is Housing New Zealand Trying To Hide?"
-date: 2008-01-03
-source-url: https://www.scoop.co.nz/stories/PA0801/S00007/what-is-housing-new-zealand-trying-to-hide.htm
+title: What Is Housing New Zealand Trying To Hide?
+date: 2008-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00007/what-is-housing-new-zealand-trying-to-hide.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/03/what-is-housing-new-zealand-trying-to-hide/index.html
+layout: layout.njk
 ---
 What Is Housing New Zealand Trying To Hide?
 ===========================================

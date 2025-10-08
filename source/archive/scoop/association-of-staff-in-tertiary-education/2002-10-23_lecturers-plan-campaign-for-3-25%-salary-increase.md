@@ -1,9 +1,12 @@
 ---
 slug: lecturers-plan-campaign-for-3-25%-salary-increase
-title: "Lecturers Plan Campaign for 3.25% Salary Increase"
-date: 2002-10-23
-source-url: https://www.scoop.co.nz/stories/ED0210/S00055/lecturers-plan-campaign-for-325-salary-increase.htm
+title: Lecturers Plan Campaign for 3.25% Salary Increase
+date: 2002-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00055/lecturers-plan-campaign-for-325-salary-increase.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2002/10/23/lecturers-plan-campaign-for-3-25/index.html
+layout: layout.njk
 ---
 Lecturers Plan Campaign for 3.25% Salary Increase
 =================================================

@@ -1,9 +1,16 @@
 ---
-slug: waikato-jumps-ahead-in-global-rankings-claiming-research-top-spot-in-new-zealand
-title: "Waikato Jumps Ahead In Global Rankings, Claiming Research Top Spot In New Zealand"
-date: 2023-06-28
-source-url: https://www.scoop.co.nz/stories/ED2306/S00037/waikato-jumps-ahead-in-global-rankings-claiming-research-top-spot-in-new-zealand.htm
+slug: >-
+  waikato-jumps-ahead-in-global-rankings-claiming-research-top-spot-in-new-zealand
+title: >-
+  Waikato Jumps Ahead In Global Rankings, Claiming Research Top Spot In New
+  Zealand
+date: 2023-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00037/waikato-jumps-ahead-in-global-rankings-claiming-research-top-spot-in-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/06/28/waikato-jumps-ahead-in-global-rankings-claiming-research-top-spot-in-new-zealand/index.html
+layout: layout.njk
 ---
 Waikato Jumps Ahead In Global Rankings, Claiming Research Top Spot In New Zealand
 =================================================================================

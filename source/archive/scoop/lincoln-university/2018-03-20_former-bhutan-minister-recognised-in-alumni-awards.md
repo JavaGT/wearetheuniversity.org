@@ -1,9 +1,13 @@
 ---
 slug: former-bhutan-minister-recognised-in-alumni-awards
-title: "Former Bhutan Minister recognised in alumni awards"
-date: 2018-03-20
-source-url: https://www.scoop.co.nz/stories/BU1803/S00597/former-bhutan-minister-recognised-in-alumni-awards.htm
+title: Former Bhutan Minister recognised in alumni awards
+date: 2018-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1803/S00597/former-bhutan-minister-recognised-in-alumni-awards.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/03/20/former-bhutan-minister-recognised-in-alumni-awards/index.html
+layout: layout.njk
 ---
 Former Bhutan Minister recognised in alumni awards
 ==================================================

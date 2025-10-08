@@ -1,9 +1,12 @@
 ---
 slug: the-right-gets-facts-on-compulsory-vote-wrong
-title: "The Right gets facts on Compulsory vote Wrong"
-date: 2000-10-18
-source-url: https://www.scoop.co.nz/stories/ED0010/S00024/the-right-gets-facts-on-compulsory-vote-wrong.htm
+title: The Right gets facts on Compulsory vote Wrong
+date: 2000-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00024/the-right-gets-facts-on-compulsory-vote-wrong.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/10/18/the-right-gets-facts-on-compulsory-vote-wrong/index.html
+layout: layout.njk
 ---
 The Right gets facts on Compulsory vote Wrong
 =============================================

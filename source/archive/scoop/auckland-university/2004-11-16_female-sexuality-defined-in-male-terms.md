@@ -1,9 +1,12 @@
 ---
 slug: female-sexuality-defined-in-male-terms
-title: "Female sexuality defined in male terms"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/ED0411/S00051/female-sexuality-defined-in-male-terms.htm
+title: Female sexuality defined in male terms
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00051/female-sexuality-defined-in-male-terms.htm
 author: auckland-university
+permalink: /archive/2004/11/16/female-sexuality-defined-in-male-terms/index.html
+layout: layout.njk
 ---
 Female sexuality defined in male terms
 ======================================

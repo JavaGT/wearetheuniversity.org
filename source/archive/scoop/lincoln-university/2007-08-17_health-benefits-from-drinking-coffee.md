@@ -1,9 +1,12 @@
 ---
 slug: health-benefits-from-drinking-coffee
-title: "Health benefits from drinking coffee?"
-date: 2007-08-17
-source-url: https://www.scoop.co.nz/stories/SC0708/S00046/health-benefits-from-drinking-coffee.htm
+title: Health benefits from drinking coffee?
+date: 2007-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0708/S00046/health-benefits-from-drinking-coffee.htm
 author: lincoln-university
+permalink: /archive/2007/08/17/health-benefits-from-drinking-coffee/index.html
+layout: layout.njk
 ---
 Health benefits from drinking coffee?
 =====================================

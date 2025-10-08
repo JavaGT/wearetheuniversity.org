@@ -1,9 +1,13 @@
 ---
 slug: student-and-staff-voice-cut-from-university-councils
-title: "Student and staff voice cut from university councils"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/PO1502/S00157/student-and-staff-voice-cut-from-university-councils.htm
+title: Student and staff voice cut from university councils
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00157/student-and-staff-voice-cut-from-university-councils.htm
 author: ausa
+permalink: >-
+  /archive/2015/02/12/student-and-staff-voice-cut-from-university-councils/index.html
+layout: layout.njk
 ---
 Student and staff voice cut from university councils
 ====================================================

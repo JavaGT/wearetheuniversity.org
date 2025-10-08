@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-researcher-wins-funding-to-help
-title: "Waikato University researcher wins funding to help"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/ED0704/S00032/waikato-university-researcher-wins-funding-to-help.htm
+title: Waikato University researcher wins funding to help
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00032/waikato-university-researcher-wins-funding-to-help.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/04/12/waikato-university-researcher-wins-funding-to-help/index.html
+layout: layout.njk
 ---
 Waikato University researcher wins funding to help
 ==================================================

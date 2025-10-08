@@ -1,9 +1,12 @@
 ---
 slug: hospital-medical-specialists-and-work-burnout
-title: "Hospital medical specialists and work-burnout"
-date: 2009-08-07
-source-url: https://www.scoop.co.nz/stories/GE0908/S00030/hospital-medical-specialists-and-work-burnout.htm
+title: Hospital medical specialists and work-burnout
+date: 2009-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00030/hospital-medical-specialists-and-work-burnout.htm
 author: university-of-otago
+permalink: /archive/2009/08/07/hospital-medical-specialists-and-work-burnout/index.html
+layout: layout.njk
 ---
 Hospital medical specialists and work-burnout
 =============================================

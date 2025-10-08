@@ -1,9 +1,13 @@
 ---
 slug: sense-of-excessive-entitlement-may-result-in-exam-failure
-title: "Sense of ‘Excessive Entitlement’ May Result In Exam Failure"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/ED1305/S00128/sense-of-excessive-entitlement-may-result-in-exam-failure.htm
+title: Sense of ‘Excessive Entitlement’ May Result In Exam Failure
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00128/sense-of-excessive-entitlement-may-result-in-exam-failure.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/20/sense-of-excessive-entitlement-may-result-in-exam-failure/index.html
+layout: layout.njk
 ---
 Sense of ‘Excessive Entitlement’ May Result In Exam Failure
 ===========================================================

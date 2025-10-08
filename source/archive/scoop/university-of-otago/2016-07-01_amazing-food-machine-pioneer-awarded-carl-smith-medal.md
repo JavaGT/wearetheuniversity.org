@@ -1,9 +1,13 @@
 ---
 slug: amazing-food-machine-pioneer-awarded-carl-smith-medal
-title: "‘Amazing food machine’ pioneer awarded Carl Smith medal"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/SC1607/S00004/amazing-food-machine-pioneer-awarded-carl-smith-medal.htm
+title: ‘Amazing food machine’ pioneer awarded Carl Smith medal
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00004/amazing-food-machine-pioneer-awarded-carl-smith-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/01/amazing-food-machine-pioneer-awarded-carl-smith-medal/index.html
+layout: layout.njk
 ---
 ‘Amazing food machine’ pioneer awarded Carl Smith medal
 =======================================================

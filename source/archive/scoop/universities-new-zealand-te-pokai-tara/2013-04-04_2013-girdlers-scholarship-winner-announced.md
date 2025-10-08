@@ -1,9 +1,12 @@
 ---
 slug: 2013-girdlers-scholarship-winner-announced
-title: "2013 Girdlers’ Scholarship winner announced"
-date: 2013-04-04
-source-url: https://www.scoop.co.nz/stories/ED1304/S00013/2013-girdlers-scholarship-winner-announced.htm
+title: 2013 Girdlers’ Scholarship winner announced
+date: 2013-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00013/2013-girdlers-scholarship-winner-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2013/04/04/2013-girdlers-scholarship-winner-announced/index.html
+layout: layout.njk
 ---
 2013 Girdlers’ Scholarship winner announced
 ===========================================

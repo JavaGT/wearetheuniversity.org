@@ -1,9 +1,13 @@
 ---
 slug: massey-university-dumps-on-international-students
-title: "Massey University dumps on International Students"
-date: 2008-07-07
-source-url: https://www.scoop.co.nz/stories/ED0807/S00022/massey-university-dumps-on-international-students.htm
+title: Massey University dumps on International Students
+date: 2008-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00022/massey-university-dumps-on-international-students.htm
 author: massey-university-students-association-federation
+permalink: >-
+  /archive/2008/07/07/massey-university-dumps-on-international-students/index.html
+layout: layout.njk
 ---
 Massey University dumps on International Students
 =================================================

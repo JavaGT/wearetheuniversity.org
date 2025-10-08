@@ -1,9 +1,13 @@
 ---
 slug: national-standards-plus-a-big-minus-for-childrens-learning
-title: "National Standards Plus a big minus for children's learning"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PO1708/S00540/national-standards-plus-a-big-minus-for-childrens-learning.htm
+title: National Standards Plus a big minus for children's learning
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00540/national-standards-plus-a-big-minus-for-childrens-learning.htm
 author: nzei
+permalink: >-
+  /archive/2017/08/27/national-standards-plus-a-big-minus-for-childrens-learning/index.html
+layout: layout.njk
 ---
 National Standards Plus a big minus for children's learning
 ===========================================================

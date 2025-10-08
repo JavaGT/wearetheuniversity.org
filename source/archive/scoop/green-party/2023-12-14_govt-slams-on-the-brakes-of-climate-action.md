@@ -1,9 +1,12 @@
 ---
 slug: govt-slams-on-the-brakes-of-climate-action
-title: "Govt Slams On The Brakes Of Climate Action"
-date: 2023-12-14
-source-url: https://www.scoop.co.nz/stories/PO2312/S00136/govt-slams-on-the-brakes-of-climate-action.htm
+title: Govt Slams On The Brakes Of Climate Action
+date: 2023-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00136/govt-slams-on-the-brakes-of-climate-action.htm
 author: green-party
+permalink: /archive/2023/12/14/govt-slams-on-the-brakes-of-climate-action/index.html
+layout: layout.njk
 ---
 Govt Slams On The Brakes Of Climate Action
 ==========================================

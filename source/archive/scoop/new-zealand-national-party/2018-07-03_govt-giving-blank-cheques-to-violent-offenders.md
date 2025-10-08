@@ -1,9 +1,12 @@
 ---
 slug: govt-giving-blank-cheques-to-violent-offenders
-title: "Govt giving blank cheques to violent offenders"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PA1807/S00035/govt-giving-blank-cheques-to-violent-offenders.htm
+title: Govt giving blank cheques to violent offenders
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00035/govt-giving-blank-cheques-to-violent-offenders.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/03/govt-giving-blank-cheques-to-violent-offenders/index.html
+layout: layout.njk
 ---
 Govt giving blank cheques to violent offenders
 ==============================================

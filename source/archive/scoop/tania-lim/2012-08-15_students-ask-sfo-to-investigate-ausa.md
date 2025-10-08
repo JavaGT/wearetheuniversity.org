@@ -1,9 +1,12 @@
 ---
 slug: students-ask-sfo-to-investigate-ausa
-title: "Students ask SFO to investigate AUSA"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/AK1208/S00335/students-ask-sfo-to-investigate-ausa.htm
+title: Students ask SFO to investigate AUSA
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00335/students-ask-sfo-to-investigate-ausa.htm
 author: tania-lim
+permalink: /archive/2012/08/15/students-ask-sfo-to-investigate-ausa/index.html
+layout: layout.njk
 ---
 Students ask SFO to investigate AUSA
 ====================================

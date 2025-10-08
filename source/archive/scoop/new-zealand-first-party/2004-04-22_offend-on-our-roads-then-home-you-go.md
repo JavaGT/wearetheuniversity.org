@@ -1,9 +1,12 @@
 ---
 slug: offend-on-our-roads-then-home-you-go
-title: "Offend On Our Roads Then Home You Go"
-date: 2004-04-22
-source-url: https://www.scoop.co.nz/stories/PA0404/S00343/offend-on-our-roads-then-home-you-go.htm
+title: Offend On Our Roads Then Home You Go
+date: 2004-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00343/offend-on-our-roads-then-home-you-go.htm
 author: new-zealand-first-party
+permalink: /archive/2004/04/22/offend-on-our-roads-then-home-you-go/index.html
+layout: layout.njk
 ---
 Offend On Our Roads Then Home You Go
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-succession-(homicide)-bill
-title: "Hone Harawira: Succession (Homicide) Bill"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/PA0705/S00205/hone-harawira-succession-homicide-bill.htm
+title: 'Hone Harawira: Succession (Homicide) Bill'
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00205/hone-harawira-succession-homicide-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/05/09/hone-harawira-succession-/index.html
+layout: layout.njk
 ---
 Hone Harawira: Succession (Homicide) Bill
 =========================================

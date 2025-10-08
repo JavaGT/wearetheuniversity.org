@@ -1,9 +1,12 @@
 ---
 slug: victoria-degree-to-be-taught-in-china
-title: "Victoria degree to be taught in China"
-date: 2003-09-14
-source-url: https://www.scoop.co.nz/stories/ED0309/S00059/victoria-degree-to-be-taught-in-china.htm
+title: Victoria degree to be taught in China
+date: 2003-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00059/victoria-degree-to-be-taught-in-china.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/14/victoria-degree-to-be-taught-in-china/index.html
+layout: layout.njk
 ---
 Victoria degree to be taught in China
 =====================================

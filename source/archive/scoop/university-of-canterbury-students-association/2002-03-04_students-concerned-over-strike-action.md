@@ -1,9 +1,12 @@
 ---
 slug: students-concerned-over-strike-action
-title: "Students Concerned Over Strike Action"
-date: 2002-03-04
-source-url: https://www.scoop.co.nz/stories/ED0203/S00005/students-concerned-over-strike-action.htm
+title: Students Concerned Over Strike Action
+date: 2002-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00005/students-concerned-over-strike-action.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/03/04/students-concerned-over-strike-action/index.html
+layout: layout.njk
 ---
 Students Concerned Over Strike Action
 =====================================

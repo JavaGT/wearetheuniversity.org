@@ -1,9 +1,12 @@
 ---
 slug: womens-narratives-of-surviving-rape
-title: "Women’s narratives of surviving rape"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/ED0805/S00051/womens-narratives-of-surviving-rape.htm
+title: Women’s narratives of surviving rape
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00051/womens-narratives-of-surviving-rape.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/16/womens-narratives-of-surviving-rape/index.html
+layout: layout.njk
 ---
 Women’s narratives of surviving rape
 ====================================

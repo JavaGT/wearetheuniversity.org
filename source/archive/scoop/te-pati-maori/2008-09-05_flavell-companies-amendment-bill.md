@@ -1,9 +1,12 @@
 ---
 slug: flavell-companies-amendment-bill
-title: "Flavell: Companies Amendment Bill"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/PA0809/S00128/flavell-companies-amendment-bill.htm
+title: 'Flavell: Companies Amendment Bill'
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00128/flavell-companies-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/09/05/flavell-companies-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Companies Amendment Bill
 =================================

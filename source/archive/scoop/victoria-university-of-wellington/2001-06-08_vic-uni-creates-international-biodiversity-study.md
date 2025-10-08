@@ -1,9 +1,13 @@
 ---
 slug: vic-uni-creates-international-biodiversity-study
-title: "Vic Uni creates international biodiversity study"
-date: 2001-06-08
-source-url: https://www.scoop.co.nz/stories/SC0106/S00022/vic-uni-creates-international-biodiversity-study.htm
+title: Vic Uni creates international biodiversity study
+date: 2001-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0106/S00022/vic-uni-creates-international-biodiversity-study.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/06/08/vic-uni-creates-international-biodiversity-study/index.html
+layout: layout.njk
 ---
 Vic Uni creates international biodiversity study
 ================================================

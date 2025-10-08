@@ -1,9 +1,12 @@
 ---
 slug: brighter-future-but-only-if-you-can-afford-it
-title: "Brighter Future, But Only If You Can Afford It"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PO1205/S00026/brighter-future-but-only-if-you-can-afford-it.htm
+title: Brighter Future, But Only If You Can Afford It
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00026/brighter-future-but-only-if-you-can-afford-it.htm
 author: young-labour
+permalink: /archive/2012/05/02/brighter-future-but-only-if-you-can-afford-it/index.html
+layout: layout.njk
 ---
 Brighter Future, But Only If You Can Afford It
 ==============================================

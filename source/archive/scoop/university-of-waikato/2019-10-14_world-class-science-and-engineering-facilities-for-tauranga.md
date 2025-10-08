@@ -1,9 +1,13 @@
 ---
 slug: world-class-science-and-engineering-facilities-for-tauranga
-title: "World class science and engineering facilities for Tauranga"
-date: 2019-10-14
-source-url: https://www.scoop.co.nz/stories/ED1910/S00027/world-class-science-and-engineering-facilities-for-tauranga.htm
+title: World class science and engineering facilities for Tauranga
+date: 2019-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00027/world-class-science-and-engineering-facilities-for-tauranga.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/10/14/world-class-science-and-engineering-facilities-for-tauranga/index.html
+layout: layout.njk
 ---
 World class science and engineering facilities for Tauranga
 ===========================================================

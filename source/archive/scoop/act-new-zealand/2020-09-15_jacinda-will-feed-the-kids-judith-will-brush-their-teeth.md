@@ -1,9 +1,13 @@
 ---
 slug: jacinda-will-feed-the-kids-judith-will-brush-their-teeth
-title: "Jacinda Will Feed The Kids, Judith Will Brush Their Teeth"
-date: 2020-09-15
-source-url: https://www.scoop.co.nz/stories/PA2009/S00131/jacinda-will-feed-the-kids-judith-will-brush-their-teeth.htm
+title: Jacinda Will Feed The Kids, Judith Will Brush Their Teeth
+date: 2020-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00131/jacinda-will-feed-the-kids-judith-will-brush-their-teeth.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/15/jacinda-will-feed-the-kids-judith-will-brush-their-teeth/index.html
+layout: layout.njk
 ---
 Jacinda Will Feed The Kids, Judith Will Brush Their Teeth
 =========================================================

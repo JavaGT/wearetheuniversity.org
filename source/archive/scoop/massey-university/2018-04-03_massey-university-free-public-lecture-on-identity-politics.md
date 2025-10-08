@@ -1,9 +1,13 @@
 ---
 slug: massey-university-free-public-lecture-on-identity-politics
-title: "Massey University - free public lecture on identity politics"
-date: 2018-04-03
-source-url: https://www.scoop.co.nz/stories/ED1804/S00003/massey-university-free-public-lecture-on-identity-politics.htm
+title: Massey University - free public lecture on identity politics
+date: 2018-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00003/massey-university-free-public-lecture-on-identity-politics.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/03/massey-university-free-public-lecture-on-identity-politics/index.html
+layout: layout.njk
 ---
 Massey University - free public lecture on identity politics
 ============================================================

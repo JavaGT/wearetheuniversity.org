@@ -1,9 +1,12 @@
 ---
 slug: pr-students-appeal-to-lost-generation-for-blood
-title: "PR students appeal to lost generation for blood"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/ED0705/S00060/pr-students-appeal-to-lost-generation-for-blood.htm
+title: PR students appeal to lost generation for blood
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00060/pr-students-appeal-to-lost-generation-for-blood.htm
 author: massey-university
+permalink: /archive/2007/05/14/pr-students-appeal-to-lost-generation-for-blood/index.html
+layout: layout.njk
 ---
 PR students appeal to lost generation for blood
 ===============================================

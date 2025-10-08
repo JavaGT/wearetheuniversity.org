@@ -1,9 +1,12 @@
 ---
 slug: unenrolled-kids-more-than-double-under-labour
-title: "Unenrolled Kids More Than Double Under Labour"
-date: 2022-09-23
-source-url: https://www.scoop.co.nz/stories/ED2209/S00038/unenrolled-kids-more-than-double-under-labour.htm
+title: Unenrolled Kids More Than Double Under Labour
+date: 2022-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00038/unenrolled-kids-more-than-double-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/23/unenrolled-kids-more-than-double-under-labour/index.html
+layout: layout.njk
 ---
 Unenrolled Kids More Than Double Under Labour
 =============================================

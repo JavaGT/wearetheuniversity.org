@@ -1,9 +1,13 @@
 ---
 slug: more-young-talent-needed-for-nzs-primary-industries
-title: "More young talent needed for NZ’s primary industries"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/ED1707/S00045/more-young-talent-needed-for-nzs-primary-industries.htm
+title: More young talent needed for NZ’s primary industries
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00045/more-young-talent-needed-for-nzs-primary-industries.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/07/11/more-young-talent-needed-for-nzs-primary-industries/index.html
+layout: layout.njk
 ---
 More young talent needed for NZ’s primary industries
 ====================================================

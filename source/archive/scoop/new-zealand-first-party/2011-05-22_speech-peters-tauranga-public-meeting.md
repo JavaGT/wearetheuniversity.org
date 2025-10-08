@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-tauranga-public-meeting
-title: "Speech: Peters - Tauranga Public Meeting"
-date: 2011-05-22
-source-url: https://www.scoop.co.nz/stories/PO1105/S00358/speech-peters-tauranga-public-meeting.htm
+title: 'Speech: Peters - Tauranga Public Meeting'
+date: 2011-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00358/speech-peters-tauranga-public-meeting.htm
 author: new-zealand-first-party
+permalink: /archive/2011/05/22/speech-peters-tauranga-public-meeting/index.html
+layout: layout.njk
 ---
 Speech: Peters - Tauranga Public Meeting
 ========================================

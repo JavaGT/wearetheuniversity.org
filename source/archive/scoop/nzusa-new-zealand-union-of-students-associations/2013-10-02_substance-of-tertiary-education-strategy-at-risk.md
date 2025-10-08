@@ -1,9 +1,13 @@
 ---
 slug: substance-of-tertiary-education-strategy-at-risk
-title: "Substance of Tertiary Education Strategy at risk"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00024/substance-of-tertiary-education-strategy-at-risk.htm
+title: Substance of Tertiary Education Strategy at risk
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00024/substance-of-tertiary-education-strategy-at-risk.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/10/02/substance-of-tertiary-education-strategy-at-risk/index.html
+layout: layout.njk
 ---
 Substance of Tertiary Education Strategy at risk
 ================================================

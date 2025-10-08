@@ -1,9 +1,13 @@
 ---
 slug: what-kind-of-people-voted-for-the-different-political-parties
-title: "What Kind Of People Voted For The Different Political Parties?"
-date: 2020-10-28
-source-url: https://www.scoop.co.nz/stories/PO2010/S00292/what-kind-of-people-voted-for-the-different-political-parties.htm
+title: What Kind Of People Voted For The Different Political Parties?
+date: 2020-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00292/what-kind-of-people-voted-for-the-different-political-parties.htm
 author: aut-university
+permalink: >-
+  /archive/2020/10/28/what-kind-of-people-voted-for-the-different-political-parties/index.html
+layout: layout.njk
 ---
 What Kind Of People Voted For The Different Political Parties?
 ==============================================================

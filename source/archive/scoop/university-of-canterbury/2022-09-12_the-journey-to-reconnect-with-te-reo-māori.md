@@ -1,9 +1,12 @@
 ---
 slug: the-journey-to-reconnect-with-te-reo-māori
-title: "The Journey To Reconnect With Te Reo Māori"
-date: 2022-09-12
-source-url: https://www.scoop.co.nz/stories/CU2209/S00087/the-journey-to-reconnect-with-te-reo-maori.htm
+title: The Journey To Reconnect With Te Reo Māori
+date: 2022-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2209/S00087/the-journey-to-reconnect-with-te-reo-maori.htm
 author: university-of-canterbury
+permalink: /archive/2022/09/12/the-journey-to-reconnect-with-te-reo-m/index.html
+layout: layout.njk
 ---
 The Journey To Reconnect With Te Reo Māori
 ==========================================

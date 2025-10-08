@@ -1,9 +1,12 @@
 ---
 slug: money-for-medical-dentistry-must-address-fees
-title: "Money for Medical/Dentistry Must Address Fees"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/ED0612/S00017/money-for-medicaldentistry-must-address-fees.htm
+title: Money for Medical/Dentistry Must Address Fees
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00017/money-for-medicaldentistry-must-address-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/12/07/money-for-medical-dentistry-must-address-fees/index.html
+layout: layout.njk
 ---
 Money for Medical/Dentistry Must Address Fees
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: free-bus-is-finalist-in-energy-efficiency-awards
-title: "Free Bus Is Finalist In Energy Efficiency Awards"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/CU0710/S00139/free-bus-is-finalist-in-energy-efficiency-awards.htm
+title: Free Bus Is Finalist In Energy Efficiency Awards
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00139/free-bus-is-finalist-in-energy-efficiency-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2007/10/11/free-bus-is-finalist-in-energy-efficiency-awards/index.html
+layout: layout.njk
 ---
 Free Bus Is Finalist In Energy Efficiency Awards
 ================================================

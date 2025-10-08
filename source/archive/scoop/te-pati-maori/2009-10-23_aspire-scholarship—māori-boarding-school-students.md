@@ -1,9 +1,12 @@
 ---
 slug: aspire-scholarship—māori-boarding-school-students
-title: "Aspire Scholarship—Māori Boarding School Students"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/PA0910/S00358/aspire-scholarship-maori-boarding-school-students.htm
+title: Aspire Scholarship—Māori Boarding School Students
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00358/aspire-scholarship-maori-boarding-school-students.htm
 author: te-pati-maori
+permalink: /archive/2009/10/23/aspire-scholarship/index.html
+layout: layout.njk
 ---
 Aspire Scholarship—Māori Boarding School Students
 =================================================

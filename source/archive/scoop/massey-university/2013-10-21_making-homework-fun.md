@@ -1,9 +1,11 @@
 ---
 slug: making-homework-fun
-title: "Making homework fun"
-date: 2013-10-21
+title: Making homework fun
+date: 2013-10-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1310/S00136/making-homework-fun.htm
 author: massey-university
+permalink: /archive/2013/10/21/making-homework-fun/index.html
+layout: layout.njk
 ---
 Making homework fun
 ===================

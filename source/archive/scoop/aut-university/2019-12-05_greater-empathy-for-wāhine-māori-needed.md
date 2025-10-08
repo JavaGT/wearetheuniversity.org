@@ -1,9 +1,12 @@
 ---
 slug: greater-empathy-for-wāhine-māori-needed
-title: "Greater empathy for wāhine Māori needed"
-date: 2019-12-05
-source-url: https://www.scoop.co.nz/stories/PO1912/S00087/greater-empathy-for-wahine-maori-needed.htm
+title: Greater empathy for wāhine Māori needed
+date: 2019-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1912/S00087/greater-empathy-for-wahine-maori-needed.htm
 author: aut-university
+permalink: /archive/2019/12/05/greater-empathy-for-w/index.html
+layout: layout.njk
 ---
 Greater empathy for wāhine Māori needed
 =======================================

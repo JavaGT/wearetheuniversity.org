@@ -1,9 +1,11 @@
 ---
 slug: mortgagee-sales
-title: "Mortgagee Sales"
-date: 2008-07-22
+title: Mortgagee Sales
+date: 2008-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0807/S00390/mortgagee-sales.htm
 author: te-pati-maori
+permalink: /archive/2008/07/22/mortgagee-sales/index.html
+layout: layout.njk
 ---
 Mortgagee Sales
 ===============

@@ -1,9 +1,12 @@
 ---
 slug: the-letter-16-june-2003-horomia-must-go
-title: "The Letter 16 June 2003 - Horomia Must Go"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/PA0306/S00268/the-letter-16-june-2003-horomia-must-go.htm
+title: The Letter 16 June 2003 - Horomia Must Go
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00268/the-letter-16-june-2003-horomia-must-go.htm
 author: act-new-zealand
+permalink: /archive/2003/06/16/the-letter-16-june-2003-horomia-must-go/index.html
+layout: layout.njk
 ---
 The Letter 16 June 2003 - Horomia Must Go
 =========================================

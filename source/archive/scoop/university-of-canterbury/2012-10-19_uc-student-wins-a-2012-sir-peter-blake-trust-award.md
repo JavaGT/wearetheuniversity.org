@@ -1,9 +1,13 @@
 ---
 slug: uc-student-wins-a-2012-sir-peter-blake-trust-award
-title: "UC student wins a 2012 Sir Peter Blake Trust award"
-date: 2012-10-19
-source-url: https://www.scoop.co.nz/stories/ED1210/S00114/uc-student-wins-a-2012-sir-peter-blake-trust-award.htm
+title: UC student wins a 2012 Sir Peter Blake Trust award
+date: 2012-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00114/uc-student-wins-a-2012-sir-peter-blake-trust-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/19/uc-student-wins-a-2012-sir-peter-blake-trust-award/index.html
+layout: layout.njk
 ---
 UC student wins a 2012 Sir Peter Blake Trust award
 ==================================================

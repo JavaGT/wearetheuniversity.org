@@ -1,9 +1,12 @@
 ---
 slug: lets-all-come-together-as-new-zealanders
-title: "Let's All Come Together As New Zealanders"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PO0002/S00044/lets-all-come-together-as-new-zealanders.htm
+title: Let's All Come Together As New Zealanders
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00044/lets-all-come-together-as-new-zealanders.htm
 author: young-labour
+permalink: /archive/2000/02/14/lets-all-come-together-as-new-zealanders/index.html
+layout: layout.njk
 ---
 \`Let's All Come Together As New Zealanders' \*
 ===============================================

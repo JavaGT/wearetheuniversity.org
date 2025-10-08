@@ -1,9 +1,13 @@
 ---
 slug: ankit-bansal-selected-as-nationals-candidate-in-palmerston-north
-title: "Ankit Bansal Selected As National’s Candidate In Palmerston North"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/PO2303/S00218/ankit-bansal-selected-as-nationals-candidate-in-palmerston-north.htm
+title: Ankit Bansal Selected As National’s Candidate In Palmerston North
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00218/ankit-bansal-selected-as-nationals-candidate-in-palmerston-north.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/28/ankit-bansal-selected-as-nationals-candidate-in-palmerston-north/index.html
+layout: layout.njk
 ---
 Ankit Bansal Selected As National’s Candidate In Palmerston North
 =================================================================

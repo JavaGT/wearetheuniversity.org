@@ -1,9 +1,13 @@
 ---
 slug: uc-political-scientist-suggests-mmp-may-just-need-tweaking
-title: "UC political scientist suggests MMP may just need tweaking"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/PO1109/S00463/uc-political-scientist-suggests-mmp-may-just-need-tweaking.htm
+title: UC political scientist suggests MMP may just need tweaking
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00463/uc-political-scientist-suggests-mmp-may-just-need-tweaking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/09/30/uc-political-scientist-suggests-mmp-may-just-need-tweaking/index.html
+layout: layout.njk
 ---
 UC political scientist suggests MMP may just need tweaking
 ==========================================================

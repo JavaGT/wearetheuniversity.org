@@ -1,9 +1,12 @@
 ---
 slug: ministry-approved-drop-outs-rocket-upward
-title: "Ministry-Approved Drop Outs Rocket Upward"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00029/ministry-approved-drop-outs-rocket-upward.htm
+title: Ministry-Approved Drop Outs Rocket Upward
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00029/ministry-approved-drop-outs-rocket-upward.htm
 author: act-new-zealand
+permalink: /archive/2001/10/01/ministry-approved-drop-outs-rocket-upward/index.html
+layout: layout.njk
 ---
 Ministry-Approved Drop Outs Rocket Upward
 =========================================

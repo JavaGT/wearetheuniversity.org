@@ -1,9 +1,12 @@
 ---
 slug: the-freedom-word-in-new-zealand
-title: "The 'Freedom' Word In New Zealand"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/BU0407/S00321/the-freedom-word-in-new-zealand.htm
+title: The 'Freedom' Word In New Zealand
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0407/S00321/the-freedom-word-in-new-zealand.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/07/26/the-freedom-word-in-new-zealand/index.html
+layout: layout.njk
 ---
 The 'Freedom' Word In New Zealand
 =================================

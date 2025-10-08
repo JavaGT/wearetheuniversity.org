@@ -1,9 +1,13 @@
 ---
 slug: aboriginal-leader-noel-pearson-to-deliver-lecture
-title: "Aboriginal Leader Noel Pearson to Deliver Lecture"
-date: 2010-10-28
-source-url: https://www.scoop.co.nz/stories/BU1010/S00840/aboriginal-leader-noel-pearson-to-deliver-lecture.htm
+title: Aboriginal Leader Noel Pearson to Deliver Lecture
+date: 2010-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1010/S00840/aboriginal-leader-noel-pearson-to-deliver-lecture.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2010/10/28/aboriginal-leader-noel-pearson-to-deliver-lecture/index.html
+layout: layout.njk
 ---
 Aboriginal Leader Noel Pearson to Deliver Lecture
 =================================================

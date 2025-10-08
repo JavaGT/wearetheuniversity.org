@@ -1,9 +1,13 @@
 ---
 slug: new-study-shows-smiths-insulation-fails-kiwi-kids
-title: "New study shows Smith’s insulation fails Kiwi kids"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/PA1604/S00435/new-study-shows-smiths-insulation-fails-kiwi-kids.htm
+title: New study shows Smith’s insulation fails Kiwi kids
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00435/new-study-shows-smiths-insulation-fails-kiwi-kids.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/28/new-study-shows-smiths-insulation-fails-kiwi-kids/index.html
+layout: layout.njk
 ---
 New study shows Smith’s insulation fails Kiwi kids
 ==================================================

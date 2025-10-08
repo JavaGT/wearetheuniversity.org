@@ -1,9 +1,12 @@
 ---
 slug: joint-statement-by-vice-chancellor-&-vuwsa-salient
-title: "Joint Statement by Vice-Chancellor & VUWSA/Salient"
-date: 2005-10-06
-source-url: https://www.scoop.co.nz/stories/ED0510/S00019/joint-statement-by-vice-chancellor-vuwsasalient.htm
+title: Joint Statement by Vice-Chancellor & VUWSA/Salient
+date: 2005-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00019/joint-statement-by-vice-chancellor-vuwsasalient.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/06/joint-statement-by-vice-chancellor-/index.html
+layout: layout.njk
 ---
 Joint Statement by Vice-Chancellor & VUWSA/Salient
 ==================================================

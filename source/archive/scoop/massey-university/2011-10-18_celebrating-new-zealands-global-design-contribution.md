@@ -1,9 +1,13 @@
 ---
 slug: celebrating-new-zealands-global-design-contribution
-title: "Celebrating New Zealand's global design contribution"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/ED1110/S00082/celebrating-new-zealands-global-design-contribution.htm
+title: Celebrating New Zealand's global design contribution
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00082/celebrating-new-zealands-global-design-contribution.htm
 author: massey-university
+permalink: >-
+  /archive/2011/10/18/celebrating-new-zealands-global-design-contribution/index.html
+layout: layout.njk
 ---
 Celebrating New Zealand's global design contribution
 ====================================================

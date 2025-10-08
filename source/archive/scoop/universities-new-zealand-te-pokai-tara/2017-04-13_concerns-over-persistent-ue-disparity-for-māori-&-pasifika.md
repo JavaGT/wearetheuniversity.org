@@ -1,9 +1,12 @@
 ---
 slug: concerns-over-persistent-ue-disparity-for-māori-&-pasifika
-title: "Concerns over persistent UE disparity for Māori & Pasifika"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/ED1704/S00052/concerns-over-persistent-ue-disparity-for-maori-pasifika.htm
+title: Concerns over persistent UE disparity for Māori & Pasifika
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00052/concerns-over-persistent-ue-disparity-for-maori-pasifika.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/04/13/concerns-over-persistent-ue-disparity-for-m/index.html
+layout: layout.njk
 ---
 Concerns over persistent UE disparity for Māori & Pasifika
 ==========================================================

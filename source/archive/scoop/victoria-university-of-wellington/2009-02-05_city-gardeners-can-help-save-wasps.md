@@ -1,9 +1,12 @@
 ---
 slug: city-gardeners-can-help-save-wasps
-title: "City gardeners can help save wasps"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/SC0902/S00013/city-gardeners-can-help-save-wasps.htm
+title: City gardeners can help save wasps
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00013/city-gardeners-can-help-save-wasps.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/05/city-gardeners-can-help-save-wasps/index.html
+layout: layout.njk
 ---
 City gardeners can help save wasps
 ==================================

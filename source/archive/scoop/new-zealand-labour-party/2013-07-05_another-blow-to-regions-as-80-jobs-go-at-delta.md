@@ -1,9 +1,12 @@
 ---
 slug: another-blow-to-regions-as-80-jobs-go-at-delta
-title: "Another blow to regions as 80 jobs go at Delta"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/PA1307/S00098/another-blow-to-regions-as-80-jobs-go-at-delta.htm
+title: Another blow to regions as 80 jobs go at Delta
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00098/another-blow-to-regions-as-80-jobs-go-at-delta.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/05/another-blow-to-regions-as-80-jobs-go-at-delta/index.html
+layout: layout.njk
 ---
 Another blow to regions as 80 jobs go at Delta
 ==============================================

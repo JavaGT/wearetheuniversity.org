@@ -1,9 +1,11 @@
 ---
 slug: real-issues
-title: "Real Issues"
-date: 2005-06-17
+title: Real Issues
+date: 2005-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0506/S00182/real-issues.htm
 author: maxim-institute
+permalink: /archive/2005/06/17/real-issues/index.html
+layout: layout.njk
 ---
 Real Issues
 ===========

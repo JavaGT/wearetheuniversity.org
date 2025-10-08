@@ -1,9 +1,12 @@
 ---
 slug: get-gangs-out-of-state-housing
-title: "Get Gangs Out Of State Housing"
-date: 2008-06-25
-source-url: https://www.scoop.co.nz/stories/PA0806/S00411/get-gangs-out-of-state-housing.htm
+title: Get Gangs Out Of State Housing
+date: 2008-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00411/get-gangs-out-of-state-housing.htm
 author: new-zealand-first-party
+permalink: /archive/2008/06/25/get-gangs-out-of-state-housing/index.html
+layout: layout.njk
 ---
 Get Gangs Out Of State Housing
 ==============================

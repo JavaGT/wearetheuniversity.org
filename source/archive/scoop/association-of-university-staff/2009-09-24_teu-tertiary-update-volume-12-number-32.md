@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-volume-12-number-32
-title: "TEU Tertiary Update, volume 12, number 32"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00096/teu-tertiary-update-volume-12-number-32.htm
+title: TEU Tertiary Update, volume 12, number 32
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00096/teu-tertiary-update-volume-12-number-32.htm
 author: association-of-university-staff
+permalink: /archive/2009/09/24/teu-tertiary-update-volume-12-number-32/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update, volume 12, number 32
 =========================================

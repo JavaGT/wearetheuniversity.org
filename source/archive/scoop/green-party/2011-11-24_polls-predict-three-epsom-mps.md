@@ -1,9 +1,12 @@
 ---
 slug: polls-predict-three-epsom-mps
-title: "Polls Predict Three Epsom MP’s"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PO1111/S00666/polls-predict-three-epsom-mps.htm
+title: Polls Predict Three Epsom MP’s
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00666/polls-predict-three-epsom-mps.htm
 author: green-party
+permalink: /archive/2011/11/24/polls-predict-three-epsom-mps/index.html
+layout: layout.njk
 ---
 Polls Predict Three Epsom MP’s
 ==============================

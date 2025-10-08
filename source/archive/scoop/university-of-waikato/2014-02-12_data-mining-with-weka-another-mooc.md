@@ -1,9 +1,12 @@
 ---
 slug: data-mining-with-weka-another-mooc
-title: "Data mining with Weka – another MOOC"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/ED1402/S00041/data-mining-with-weka-another-mooc.htm
+title: Data mining with Weka – another MOOC
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00041/data-mining-with-weka-another-mooc.htm
 author: university-of-waikato
+permalink: /archive/2014/02/12/data-mining-with-weka-another-mooc/index.html
+layout: layout.njk
 ---
 Data mining with Weka – another MOOC
 ====================================

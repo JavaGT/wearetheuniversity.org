@@ -1,9 +1,13 @@
 ---
 slug: miq-hotel-all-but-empty-while-kiwis-stuck-offshore
-title: "MIQ Hotel All But Empty While Kiwis Stuck Offshore"
-date: 2021-10-29
-source-url: https://www.scoop.co.nz/stories/PA2110/S00306/miq-hotel-all-but-empty-while-kiwis-stuck-offshore.htm
+title: MIQ Hotel All But Empty While Kiwis Stuck Offshore
+date: 2021-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00306/miq-hotel-all-but-empty-while-kiwis-stuck-offshore.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/29/miq-hotel-all-but-empty-while-kiwis-stuck-offshore/index.html
+layout: layout.njk
 ---
 MIQ Hotel All But Empty While Kiwis Stuck Offshore
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-finance-spokesperson-barbara-edmonds-post-budget-speech
-title: "Labour Finance Spokesperson Barbara Edmonds Post-Budget Speech"
-date: 2024-06-05
-source-url: https://www.scoop.co.nz/stories/PA2406/S00017/labour-finance-spokesperson-barbara-edmonds-post-budget-speech.htm
+title: Labour Finance Spokesperson Barbara Edmonds Post-Budget Speech
+date: 2024-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00017/labour-finance-spokesperson-barbara-edmonds-post-budget-speech.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/06/05/labour-finance-spokesperson-barbara-edmonds-post-budget-speech/index.html
+layout: layout.njk
 ---
 Labour Finance Spokesperson Barbara Edmonds Post-Budget Speech
 ==============================================================

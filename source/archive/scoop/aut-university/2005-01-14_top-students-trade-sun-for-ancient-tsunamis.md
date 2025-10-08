@@ -1,9 +1,12 @@
 ---
 slug: top-students-trade-sun-for-ancient-tsunamis
-title: "Top students trade sun for ancient tsunamis"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/ED0501/S00024/top-students-trade-sun-for-ancient-tsunamis.htm
+title: Top students trade sun for ancient tsunamis
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00024/top-students-trade-sun-for-ancient-tsunamis.htm
 author: aut-university
+permalink: /archive/2005/01/14/top-students-trade-sun-for-ancient-tsunamis/index.html
+layout: layout.njk
 ---
 Top students trade sun for ancient tsunamis
 ===========================================

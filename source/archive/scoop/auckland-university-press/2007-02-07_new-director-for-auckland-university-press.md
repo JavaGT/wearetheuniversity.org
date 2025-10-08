@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-auckland-university-press
-title: "New Director for Auckland University Press"
-date: 2007-02-07
-source-url: https://www.scoop.co.nz/stories/ED0702/S00017/new-director-for-auckland-university-press.htm
+title: New Director for Auckland University Press
+date: 2007-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00017/new-director-for-auckland-university-press.htm
 author: auckland-university-press
+permalink: /archive/2007/02/07/new-director-for-auckland-university-press/index.html
+layout: layout.njk
 ---
 New Director for Auckland University Press
 ==========================================

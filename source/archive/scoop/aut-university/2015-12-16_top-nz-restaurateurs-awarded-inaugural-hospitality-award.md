@@ -1,9 +1,13 @@
 ---
 slug: top-nz-restaurateurs-awarded-inaugural-hospitality-award
-title: "Top NZ restaurateurs awarded inaugural hospitality award"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/BU1512/S00616/top-nz-restaurateurs-awarded-inaugural-hospitality-award.htm
+title: Top NZ restaurateurs awarded inaugural hospitality award
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1512/S00616/top-nz-restaurateurs-awarded-inaugural-hospitality-award.htm
 author: aut-university
+permalink: >-
+  /archive/2015/12/16/top-nz-restaurateurs-awarded-inaugural-hospitality-award/index.html
+layout: layout.njk
 ---
 Top NZ restaurateurs awarded inaugural hospitality award
 ========================================================

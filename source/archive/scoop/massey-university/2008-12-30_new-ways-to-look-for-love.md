@@ -1,9 +1,11 @@
 ---
 slug: new-ways-to-look-for-love
-title: "New ways to look for love"
-date: 2008-12-30
+title: New ways to look for love
+date: 2008-12-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0812/S00254/new-ways-to-look-for-love.htm
 author: massey-university
+permalink: /archive/2008/12/30/new-ways-to-look-for-love/index.html
+layout: layout.njk
 ---
 New ways to look for love
 =========================

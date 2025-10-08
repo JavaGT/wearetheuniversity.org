@@ -1,9 +1,12 @@
 ---
 slug: student-volunteers-rally-around-wellington
-title: "Student Volunteers Rally Around Wellington"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/AK1307/S00636/student-volunteers-rally-around-wellington.htm
+title: Student Volunteers Rally Around Wellington
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00636/student-volunteers-rally-around-wellington.htm
 author: student-volunteer-army
+permalink: /archive/2013/07/24/student-volunteers-rally-around-wellington/index.html
+layout: layout.njk
 ---
 Student Volunteers Rally Around Wellington
 ==========================================

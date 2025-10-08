@@ -1,9 +1,12 @@
 ---
 slug: removing-student-choice-is-not-the-answer
-title: "Removing student choice is not the answer"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/PA0604/S00050/removing-student-choice-is-not-the-answer.htm
+title: Removing student choice is not the answer
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00050/removing-student-choice-is-not-the-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/04/removing-student-choice-is-not-the-answer/index.html
+layout: layout.njk
 ---
 Removing student choice is not the answer
 =========================================

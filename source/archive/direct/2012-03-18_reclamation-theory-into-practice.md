@@ -1,10 +1,13 @@
 ---
-title: "Reclamation: Theory into Practice"
+title: 'Reclamation: Theory into Practice'
 slug: reclamation-theory-into-practice
-date: 2012-03-18
-source: https://web.archive.org/web/20130208031310/http://wearetheuniversity.org.nz/2012/03/18/reclamation-theory-into-practice/
+date: 2012-03-18T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031310/http://wearetheuniversity.org.nz/2012/03/18/reclamation-theory-into-practice/
 author: Johnny Truant
 author-slug: johnny-truant
+permalink: /archive/2012/03/18/reclamation-theory-into-practice/index.html
+layout: layout.njk
 ---
 
 **Plan a Campaign:**

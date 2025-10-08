@@ -1,9 +1,12 @@
 ---
 slug: sharples-budget-policy-statement
-title: "Sharples: Budget Policy Statement"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/PA0702/S00551/sharples-budget-policy-statement.htm
+title: 'Sharples: Budget Policy Statement'
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00551/sharples-budget-policy-statement.htm
 author: te-pati-maori
+permalink: /archive/2007/02/28/sharples-budget-policy-statement/index.html
+layout: layout.njk
 ---
 Sharples: Budget Policy Statement
 =================================

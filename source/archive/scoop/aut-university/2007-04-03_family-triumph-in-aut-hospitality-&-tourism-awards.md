@@ -1,9 +1,12 @@
 ---
 slug: family-triumph-in-aut-hospitality-&-tourism-awards
-title: "Family triumph in AUT hospitality & tourism awards"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/ED0704/S00010/family-triumph-in-aut-hospitality-tourism-awards.htm
+title: Family triumph in AUT hospitality & tourism awards
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00010/family-triumph-in-aut-hospitality-tourism-awards.htm
 author: aut-university
+permalink: /archive/2007/04/03/family-triumph-in-aut-hospitality-/index.html
+layout: layout.njk
 ---
 Family triumph in AUT hospitality & tourism awards
 ==================================================

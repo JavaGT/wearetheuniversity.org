@@ -1,9 +1,12 @@
 ---
 slug: new-book-offers-solutions-to-obesity-crisis
-title: "New book offers solutions to obesity crisis"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/AK0907/S00222/new-book-offers-solutions-to-obesity-crisis.htm
+title: New book offers solutions to obesity crisis
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00222/new-book-offers-solutions-to-obesity-crisis.htm
 author: university-of-otago
+permalink: /archive/2009/07/15/new-book-offers-solutions-to-obesity-crisis/index.html
+layout: layout.njk
 ---
 New book offers solutions to obesity crisis
 ===========================================

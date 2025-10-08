@@ -1,9 +1,13 @@
 ---
 slug: uc-promotes-world-class-earthquake-engineering-research
-title: "UC promotes world-class earthquake engineering research"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/ED1604/S00054/uc-promotes-world-class-earthquake-engineering-research.htm
+title: UC promotes world-class earthquake engineering research
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00054/uc-promotes-world-class-earthquake-engineering-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/15/uc-promotes-world-class-earthquake-engineering-research/index.html
+layout: layout.njk
 ---
 UC promotes world-class earthquake engineering research
 =======================================================

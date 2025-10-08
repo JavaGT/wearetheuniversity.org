@@ -1,9 +1,11 @@
 ---
 slug: five-resignations-rock-ousa
-title: "Five Resignations Rock OUSA"
-date: 2000-05-12
+title: Five Resignations Rock OUSA
+date: 2000-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0005/S00017/five-resignations-rock-ousa.htm
 author: prebble-s-rebels
+permalink: /archive/2000/05/12/five-resignations-rock-ousa/index.html
+layout: layout.njk
 ---
 Five Resignations Rock OUSA
 ===========================

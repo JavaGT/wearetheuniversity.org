@@ -1,9 +1,12 @@
 ---
 slug: where-is-fairness-security-and-opportunity
-title: "Where is \"fairness, security and opportunity\"?"
-date: 2000-06-21
-source-url: https://www.scoop.co.nz/stories/ED0006/S00034/where-is-fairness-security-and-opportunity.htm
+title: Where is "fairness, security and opportunity"?
+date: 2000-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00034/where-is-fairness-security-and-opportunity.htm
 author: association-of-university-staff
+permalink: /archive/2000/06/21/where-is-fairness-security-and-opportunity/index.html
+layout: layout.njk
 ---
 Where is "fairness, security and opportunity"?
 ==============================================

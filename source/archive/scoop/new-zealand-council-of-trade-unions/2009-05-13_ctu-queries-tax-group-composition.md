@@ -1,9 +1,12 @@
 ---
 slug: ctu-queries-tax-group-composition
-title: "CTU queries tax group composition"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/PO0905/S00169/ctu-queries-tax-group-composition.htm
+title: CTU queries tax group composition
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00169/ctu-queries-tax-group-composition.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/05/13/ctu-queries-tax-group-composition/index.html
+layout: layout.njk
 ---
 CTU queries tax group composition
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: hutt-schools-funded-to-trial-innovative-teaching-approaches
-title: "Hutt schools funded to trial innovative teaching approaches"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00397/hutt-schools-funded-to-trial-innovative-teaching-approaches.htm
+title: Hutt schools funded to trial innovative teaching approaches
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00397/hutt-schools-funded-to-trial-innovative-teaching-approaches.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/06/23/hutt-schools-funded-to-trial-innovative-teaching-approaches/index.html
+layout: layout.njk
 ---
 Hutt schools funded to trial innovative teaching approaches
 ===========================================================

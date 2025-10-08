@@ -1,9 +1,13 @@
 ---
 slug: first-time-parenting-a-positive-experience-for-mental-health
-title: "First time parenting a positive experience for mental health"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/GE1301/S00036/first-time-parenting-a-positive-experience-for-mental-health.htm
+title: First time parenting a positive experience for mental health
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1301/S00036/first-time-parenting-a-positive-experience-for-mental-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/22/first-time-parenting-a-positive-experience-for-mental-health/index.html
+layout: layout.njk
 ---
 First time parenting a positive experience for mental health
 ============================================================

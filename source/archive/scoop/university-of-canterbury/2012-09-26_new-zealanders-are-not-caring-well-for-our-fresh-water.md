@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-are-not-caring-well-for-our-fresh-water
-title: "New Zealanders are not caring well for our fresh water"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PO1209/S00359/new-zealanders-are-not-caring-well-for-our-fresh-water.htm
+title: New Zealanders are not caring well for our fresh water
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00359/new-zealanders-are-not-caring-well-for-our-fresh-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/26/new-zealanders-are-not-caring-well-for-our-fresh-water/index.html
+layout: layout.njk
 ---
 New Zealanders are not caring well for our fresh water
 ======================================================

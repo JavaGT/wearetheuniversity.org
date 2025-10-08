@@ -1,9 +1,12 @@
 ---
 slug: go-slow-on-interest-rate-rises
-title: "Go slow on interest rate rises"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/PO1403/S00115/go-slow-on-interest-rate-rises.htm
+title: Go slow on interest rate rises
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00115/go-slow-on-interest-rate-rises.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/03/11/go-slow-on-interest-rate-rises/index.html
+layout: layout.njk
 ---
 Go slow on interest rate rises
 ==============================

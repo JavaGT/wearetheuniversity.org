@@ -1,9 +1,13 @@
 ---
 slug: study-shows-service-users-can-improve-mental-health-care
-title: "Study Shows Service Users Can Improve Mental Health Care"
-date: 2024-06-04
-source-url: https://www.scoop.co.nz/stories/GE2406/S00006/study-shows-service-users-can-improve-mental-health-care.htm
+title: Study Shows Service Users Can Improve Mental Health Care
+date: 2024-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00006/study-shows-service-users-can-improve-mental-health-care.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/04/study-shows-service-users-can-improve-mental-health-care/index.html
+layout: layout.njk
 ---
 Study Shows Service Users Can Improve Mental Health Care
 ========================================================

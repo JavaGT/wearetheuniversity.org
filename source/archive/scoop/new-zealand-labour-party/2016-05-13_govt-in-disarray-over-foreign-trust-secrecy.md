@@ -1,9 +1,12 @@
 ---
 slug: govt-in-disarray-over-foreign-trust-secrecy
-title: "Govt in disarray over foreign trust secrecy"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/PA1605/S00253/govt-in-disarray-over-foreign-trust-secrecy.htm
+title: Govt in disarray over foreign trust secrecy
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00253/govt-in-disarray-over-foreign-trust-secrecy.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/13/govt-in-disarray-over-foreign-trust-secrecy/index.html
+layout: layout.njk
 ---
 Govt in disarray over foreign trust secrecy
 ===========================================

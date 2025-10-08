@@ -1,9 +1,12 @@
 ---
 slug: kiwi-dollar-one-of-most-unstable-currencies
-title: "Kiwi dollar one of most unstable currencies"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/BU0605/S00060/kiwi-dollar-one-of-most-unstable-currencies.htm
+title: Kiwi dollar one of most unstable currencies
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0605/S00060/kiwi-dollar-one-of-most-unstable-currencies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/02/kiwi-dollar-one-of-most-unstable-currencies/index.html
+layout: layout.njk
 ---
 Kiwi dollar one of most unstable currencies
 ===========================================

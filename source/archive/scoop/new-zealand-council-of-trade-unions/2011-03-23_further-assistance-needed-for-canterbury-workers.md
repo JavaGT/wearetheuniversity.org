@@ -1,9 +1,13 @@
 ---
 slug: further-assistance-needed-for-canterbury-workers
-title: "Further assistance needed for Canterbury workers"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/BU1103/S00699/further-assistance-needed-for-canterbury-workers.htm
+title: Further assistance needed for Canterbury workers
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00699/further-assistance-needed-for-canterbury-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/03/23/further-assistance-needed-for-canterbury-workers/index.html
+layout: layout.njk
 ---
 Further assistance needed for Canterbury workers
 ================================================

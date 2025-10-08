@@ -1,9 +1,12 @@
 ---
 slug: save-the-waikato-river-dump-the-dump
-title: "Save the Waikato River- Dump the Dump"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/PO0008/S00112/save-the-waikato-river-dump-the-dump.htm
+title: Save the Waikato River- Dump the Dump
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00112/save-the-waikato-river-dump-the-dump.htm
 author: fightback
+permalink: /archive/2000/08/17/save-the-waikato-river-dump-the-dump/index.html
+layout: layout.njk
 ---
 Save the Waikato River- Dump the Dump
 =====================================

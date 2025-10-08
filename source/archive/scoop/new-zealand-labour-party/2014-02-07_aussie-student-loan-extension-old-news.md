@@ -1,9 +1,12 @@
 ---
 slug: aussie-student-loan-extension-old-news
-title: "Aussie student loan extension old news"
-date: 2014-02-07
-source-url: https://www.scoop.co.nz/stories/PA1402/S00077/aussie-student-loan-extension-old-news.htm
+title: Aussie student loan extension old news
+date: 2014-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00077/aussie-student-loan-extension-old-news.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/07/aussie-student-loan-extension-old-news/index.html
+layout: layout.njk
 ---
 Aussie student loan extension old news
 ======================================

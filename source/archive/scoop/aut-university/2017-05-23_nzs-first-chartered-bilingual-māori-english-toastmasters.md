@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-chartered-bilingual-māori-english-toastmasters
-title: "NZ's first chartered bilingual Māori/English Toastmasters"
-date: 2017-05-23
-source-url: https://www.scoop.co.nz/stories/CU1705/S00394/nzs-first-chartered-bilingual-maorienglish-toastmasters.htm
+title: NZ's first chartered bilingual Māori/English Toastmasters
+date: 2017-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00394/nzs-first-chartered-bilingual-maorienglish-toastmasters.htm
 author: aut-university
+permalink: /archive/2017/05/23/nzs-first-chartered-bilingual-m/index.html
+layout: layout.njk
 ---
 NZ's first chartered bilingual Māori/English Toastmasters
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: parents-need-to-encourage-childs-play
-title: "Parents need to encourage child's play"
-date: 2006-05-03
-source-url: https://www.scoop.co.nz/stories/ED0605/S00012/parents-need-to-encourage-childs-play.htm
+title: Parents need to encourage child's play
+date: 2006-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00012/parents-need-to-encourage-childs-play.htm
 author: aut-university
+permalink: /archive/2006/05/03/parents-need-to-encourage-childs-play/index.html
+layout: layout.njk
 ---
 Parents need to encourage child's play
 ======================================

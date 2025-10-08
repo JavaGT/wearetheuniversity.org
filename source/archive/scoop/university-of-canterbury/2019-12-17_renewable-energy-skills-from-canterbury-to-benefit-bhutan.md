@@ -1,9 +1,13 @@
 ---
 slug: renewable-energy-skills-from-canterbury-to-benefit-bhutan
-title: "Renewable energy skills from Canterbury to benefit Bhutan"
-date: 2019-12-17
-source-url: https://www.scoop.co.nz/stories/ED1912/S00042/renewable-energy-skills-from-canterbury-to-benefit-bhutan.htm
+title: Renewable energy skills from Canterbury to benefit Bhutan
+date: 2019-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00042/renewable-energy-skills-from-canterbury-to-benefit-bhutan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/17/renewable-energy-skills-from-canterbury-to-benefit-bhutan/index.html
+layout: layout.njk
 ---
 Renewable energy skills from Canterbury to benefit Bhutan
 =========================================================

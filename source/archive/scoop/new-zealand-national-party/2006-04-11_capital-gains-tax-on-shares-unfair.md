@@ -1,9 +1,12 @@
 ---
 slug: capital-gains-tax-on-shares-unfair
-title: "Capital Gains Tax On Shares Unfair"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/PA0604/S00211/capital-gains-tax-on-shares-unfair.htm
+title: Capital Gains Tax On Shares Unfair
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00211/capital-gains-tax-on-shares-unfair.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/11/capital-gains-tax-on-shares-unfair/index.html
+layout: layout.njk
 ---
 Capital Gains Tax On Shares Unfair
 ==================================

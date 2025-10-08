@@ -1,9 +1,12 @@
 ---
 slug: discovering-new-drugs-to-fight-tb
-title: "Discovering new drugs to fight TB"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/SC1108/S00080/discovering-new-drugs-to-fight-tb.htm
+title: Discovering new drugs to fight TB
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00080/discovering-new-drugs-to-fight-tb.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/08/30/discovering-new-drugs-to-fight-tb/index.html
+layout: layout.njk
 ---
 Discovering new drugs to fight TB
 =================================

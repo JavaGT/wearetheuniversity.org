@@ -1,9 +1,13 @@
 ---
 slug: collaboration-key-to-achieving-sustainable-development-goals
-title: "Collaboration key to achieving Sustainable Development Goals"
-date: 2018-05-10
-source-url: https://www.scoop.co.nz/stories/PO1805/S00109/collaboration-key-to-achieving-sustainable-development-goals.htm
+title: Collaboration key to achieving Sustainable Development Goals
+date: 2018-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00109/collaboration-key-to-achieving-sustainable-development-goals.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/10/collaboration-key-to-achieving-sustainable-development-goals/index.html
+layout: layout.njk
 ---
 Collaboration key to achieving Sustainable Development Goals
 ============================================================

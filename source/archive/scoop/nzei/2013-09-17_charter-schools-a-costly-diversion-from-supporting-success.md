@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-a-costly-diversion-from-supporting-success
-title: "Charter schools a costly diversion from supporting success"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/ED1309/S00097/charter-schools-a-costly-diversion-from-supporting-success.htm
+title: Charter schools a costly diversion from supporting success
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00097/charter-schools-a-costly-diversion-from-supporting-success.htm
 author: nzei
+permalink: >-
+  /archive/2013/09/17/charter-schools-a-costly-diversion-from-supporting-success/index.html
+layout: layout.njk
 ---
 Charter schools a costly diversion from supporting success
 ==========================================================

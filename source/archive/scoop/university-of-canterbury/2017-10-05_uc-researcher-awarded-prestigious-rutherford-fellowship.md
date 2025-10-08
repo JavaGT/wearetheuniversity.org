@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-awarded-prestigious-rutherford-fellowship
-title: "UC researcher awarded prestigious Rutherford Fellowship"
-date: 2017-10-05
-source-url: https://www.scoop.co.nz/stories/SC1710/S00011/uc-researcher-awarded-prestigious-rutherford-fellowship.htm
+title: UC researcher awarded prestigious Rutherford Fellowship
+date: 2017-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00011/uc-researcher-awarded-prestigious-rutherford-fellowship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/05/uc-researcher-awarded-prestigious-rutherford-fellowship/index.html
+layout: layout.njk
 ---
 UC researcher awarded prestigious Rutherford Fellowship
 =======================================================

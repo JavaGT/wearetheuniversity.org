@@ -1,9 +1,13 @@
 ---
 slug: research-backs-belief-that-tomatoes-can-be-a-gout-trigger
-title: "Research backs belief that tomatoes can be a gout trigger"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/SC1508/S00032/research-backs-belief-that-tomatoes-can-be-a-gout-trigger.htm
+title: Research backs belief that tomatoes can be a gout trigger
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00032/research-backs-belief-that-tomatoes-can-be-a-gout-trigger.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/19/research-backs-belief-that-tomatoes-can-be-a-gout-trigger/index.html
+layout: layout.njk
 ---
 Research backs belief that tomatoes can be a gout trigger
 =========================================================

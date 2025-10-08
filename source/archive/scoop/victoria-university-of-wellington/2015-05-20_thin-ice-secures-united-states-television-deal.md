@@ -1,9 +1,12 @@
 ---
 slug: thin-ice-secures-united-states-television-deal
-title: "Thin Ice secures United States television deal"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/SC1505/S00059/thin-ice-secures-united-states-television-deal.htm
+title: Thin Ice secures United States television deal
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00059/thin-ice-secures-united-states-television-deal.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/05/20/thin-ice-secures-united-states-television-deal/index.html
+layout: layout.njk
 ---
 Thin Ice secures United States television deal
 ==============================================

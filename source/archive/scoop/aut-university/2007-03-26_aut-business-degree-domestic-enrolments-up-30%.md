@@ -1,9 +1,12 @@
 ---
 slug: aut-business-degree-domestic-enrolments-up-30%
-title: "AUT Business degree - Domestic enrolments up 30%"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/ED0703/S00092/aut-business-degree-domestic-enrolments-up-30.htm
+title: AUT Business degree - Domestic enrolments up 30%
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00092/aut-business-degree-domestic-enrolments-up-30.htm
 author: aut-university
+permalink: /archive/2007/03/26/aut-business-degree-domestic-enrolments-up-30/index.html
+layout: layout.njk
 ---
 AUT Business degree - Domestic enrolments up 30%
 ================================================

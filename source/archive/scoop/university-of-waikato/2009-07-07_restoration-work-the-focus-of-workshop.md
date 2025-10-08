@@ -1,9 +1,12 @@
 ---
 slug: restoration-work-the-focus-of-workshop
-title: "Restoration work the focus of Workshop"
-date: 2009-07-07
-source-url: https://www.scoop.co.nz/stories/ED0907/S00028/restoration-work-the-focus-of-workshop.htm
+title: Restoration work the focus of Workshop
+date: 2009-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00028/restoration-work-the-focus-of-workshop.htm
 author: university-of-waikato
+permalink: /archive/2009/07/07/restoration-work-the-focus-of-workshop/index.html
+layout: layout.njk
 ---
 Restoration work the focus of Workshop
 ======================================

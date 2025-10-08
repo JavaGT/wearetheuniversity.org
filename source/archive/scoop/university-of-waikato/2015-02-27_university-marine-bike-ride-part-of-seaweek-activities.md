@@ -1,9 +1,13 @@
 ---
 slug: university-marine-bike-ride-part-of-seaweek-activities
-title: "University marine bike ride part of SeaWeek activities"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/AK1502/S00700/university-marine-bike-ride-part-of-seaweek-activities.htm
+title: University marine bike ride part of SeaWeek activities
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00700/university-marine-bike-ride-part-of-seaweek-activities.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/27/university-marine-bike-ride-part-of-seaweek-activities/index.html
+layout: layout.njk
 ---
 University marine bike ride part of SeaWeek activities
 ======================================================

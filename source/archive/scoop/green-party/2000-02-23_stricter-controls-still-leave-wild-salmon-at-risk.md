@@ -1,9 +1,13 @@
 ---
 slug: stricter-controls-still-leave-wild-salmon-at-risk
-title: "Stricter Controls Still Leave Wild Salmon At Risk"
-date: 2000-02-23
-source-url: https://www.scoop.co.nz/stories/PA0002/S00310/stricter-controls-still-leave-wild-salmon-at-risk.htm
+title: Stricter Controls Still Leave Wild Salmon At Risk
+date: 2000-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00310/stricter-controls-still-leave-wild-salmon-at-risk.htm
 author: green-party
+permalink: >-
+  /archive/2000/02/23/stricter-controls-still-leave-wild-salmon-at-risk/index.html
+layout: layout.njk
 ---
 Stricter Controls Still Leave Wild Salmon At Risk
 =================================================

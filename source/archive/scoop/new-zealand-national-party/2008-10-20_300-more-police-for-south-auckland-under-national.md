@@ -1,9 +1,13 @@
 ---
 slug: 300-more-police-for-south-auckland-under-national
-title: "300 more police for South Auckland under National"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/PA0810/S00439/300-more-police-for-south-auckland-under-national.htm
+title: 300 more police for South Auckland under National
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00439/300-more-police-for-south-auckland-under-national.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/10/20/300-more-police-for-south-auckland-under-national/index.html
+layout: layout.njk
 ---
 300 more police for South Auckland under National
 =================================================

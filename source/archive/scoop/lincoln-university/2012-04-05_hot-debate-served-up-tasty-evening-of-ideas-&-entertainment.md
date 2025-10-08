@@ -1,9 +1,12 @@
 ---
 slug: hot-debate-served-up-tasty-evening-of-ideas-&-entertainment
-title: "Hot Debate served up tasty evening of ideas & entertainment"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/ED1204/S00029/hot-debate-served-up-tasty-evening-of-ideas-entertainment.htm
+title: Hot Debate served up tasty evening of ideas & entertainment
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00029/hot-debate-served-up-tasty-evening-of-ideas-entertainment.htm
 author: lincoln-university
+permalink: /archive/2012/04/05/hot-debate-served-up-tasty-evening-of-ideas-/index.html
+layout: layout.njk
 ---
 Hot Debate served up tasty evening of ideas & entertainment
 ===========================================================

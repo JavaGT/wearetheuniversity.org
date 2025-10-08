@@ -1,9 +1,12 @@
 ---
 slug: psychologist-gets-athletes-ahead-at-the-games
-title: "Psychologist gets athletes ahead at the Games"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/CU1207/S00070/psychologist-gets-athletes-ahead-at-the-games.htm
+title: Psychologist gets athletes ahead at the Games
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00070/psychologist-gets-athletes-ahead-at-the-games.htm
 author: massey-university
+permalink: /archive/2012/07/05/psychologist-gets-athletes-ahead-at-the-games/index.html
+layout: layout.njk
 ---
 Psychologist gets athletes ahead at the Games
 =============================================

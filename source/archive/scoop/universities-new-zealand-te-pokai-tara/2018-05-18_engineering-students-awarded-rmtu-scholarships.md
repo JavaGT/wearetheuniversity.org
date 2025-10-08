@@ -1,9 +1,12 @@
 ---
 slug: engineering-students-awarded-rmtu-scholarships
-title: "Engineering students awarded RMTU scholarships"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/ED1805/S00043/engineering-students-awarded-rmtu-scholarships.htm
+title: Engineering students awarded RMTU scholarships
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00043/engineering-students-awarded-rmtu-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2018/05/18/engineering-students-awarded-rmtu-scholarships/index.html
+layout: layout.njk
 ---
 Engineering students awarded RMTU scholarships
 ==============================================

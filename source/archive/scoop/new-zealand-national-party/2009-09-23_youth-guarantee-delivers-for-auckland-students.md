@@ -1,9 +1,12 @@
 ---
 slug: youth-guarantee-delivers-for-auckland-students
-title: "Youth Guarantee delivers for Auckland students"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00333/youth-guarantee-delivers-for-auckland-students.htm
+title: Youth Guarantee delivers for Auckland students
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00333/youth-guarantee-delivers-for-auckland-students.htm
 author: new-zealand-national-party
+permalink: /archive/2009/09/23/youth-guarantee-delivers-for-auckland-students/index.html
+layout: layout.njk
 ---
 Youth Guarantee delivers for Auckland students
 ==============================================

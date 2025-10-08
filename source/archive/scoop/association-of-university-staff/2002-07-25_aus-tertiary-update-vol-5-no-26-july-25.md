@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-26-july-25
-title: "AUS Tertiary Update Vol. 5  No. 26, July 25"
-date: 2002-07-25
-source-url: https://www.scoop.co.nz/stories/ED0207/S00064/aus-tertiary-update-vol-5-no-26-july-25.htm
+title: AUS Tertiary Update Vol. 5  No. 26, July 25
+date: 2002-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00064/aus-tertiary-update-vol-5-no-26-july-25.htm
 author: association-of-university-staff
+permalink: /archive/2002/07/25/aus-tertiary-update-vol-5-no-26-july-25/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 26, July 25
 ==========================================

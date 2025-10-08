@@ -1,9 +1,12 @@
 ---
 slug: one-in-five-households-have-chronic-low-income
-title: "One in five households have chronic low income"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/PO1205/S00126/one-in-five-households-have-chronic-low-income.htm
+title: One in five households have chronic low income
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00126/one-in-five-households-have-chronic-low-income.htm
 author: university-of-otago
+permalink: /archive/2012/05/09/one-in-five-households-have-chronic-low-income/index.html
+layout: layout.njk
 ---
 One in five households have chronic low income
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-academic-appointed-to-fulbright-board
-title: "UC academic appointed to Fulbright Board"
-date: 2011-06-09
-source-url: https://www.scoop.co.nz/stories/ED1106/S00044/uc-academic-appointed-to-fulbright-board.htm
+title: UC academic appointed to Fulbright Board
+date: 2011-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00044/uc-academic-appointed-to-fulbright-board.htm
 author: university-of-canterbury
+permalink: /archive/2011/06/09/uc-academic-appointed-to-fulbright-board/index.html
+layout: layout.njk
 ---
 UC academic appointed to Fulbright Board
 ========================================

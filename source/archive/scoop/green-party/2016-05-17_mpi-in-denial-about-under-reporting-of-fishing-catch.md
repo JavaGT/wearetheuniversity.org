@@ -1,9 +1,13 @@
 ---
 slug: mpi-in-denial-about-under-reporting-of-fishing-catch
-title: "MPI in denial about under-reporting of fishing catch"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/PA1605/S00296/mpi-in-denial-about-under-reporting-of-fishing-catch.htm
+title: MPI in denial about under-reporting of fishing catch
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00296/mpi-in-denial-about-under-reporting-of-fishing-catch.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/17/mpi-in-denial-about-under-reporting-of-fishing-catch/index.html
+layout: layout.njk
 ---
 MPI in denial about under-reporting of fishing catch
 ====================================================

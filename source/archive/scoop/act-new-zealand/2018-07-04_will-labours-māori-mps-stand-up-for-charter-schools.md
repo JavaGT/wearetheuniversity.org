@@ -1,9 +1,12 @@
 ---
 slug: will-labours-māori-mps-stand-up-for-charter-schools
-title: "Will Labour’s Māori MPs stand up for charter schools?"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PA1807/S00042/will-labours-maori-mps-stand-up-for-charter-schools.htm
+title: Will Labour’s Māori MPs stand up for charter schools?
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00042/will-labours-maori-mps-stand-up-for-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2018/07/04/will-labours-m/index.html
+layout: layout.njk
 ---
 Will Labour’s Māori MPs stand up for charter schools?
 =====================================================

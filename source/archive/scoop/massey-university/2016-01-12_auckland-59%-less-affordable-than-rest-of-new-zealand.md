@@ -1,9 +1,12 @@
 ---
 slug: auckland-59%-less-affordable-than-rest-of-new-zealand
-title: "Auckland 59% less affordable than rest of New Zealand"
-date: 2016-01-12
-source-url: https://www.scoop.co.nz/stories/BU1601/S00105/auckland-59-less-affordable-than-rest-of-new-zealand.htm
+title: Auckland 59% less affordable than rest of New Zealand
+date: 2016-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1601/S00105/auckland-59-less-affordable-than-rest-of-new-zealand.htm
 author: massey-university
+permalink: /archive/2016/01/12/auckland-59/index.html
+layout: layout.njk
 ---
 Auckland 59% less affordable than rest of New Zealand
 =====================================================

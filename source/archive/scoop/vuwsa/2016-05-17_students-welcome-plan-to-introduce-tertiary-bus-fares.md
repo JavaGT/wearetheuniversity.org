@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-plan-to-introduce-tertiary-bus-fares
-title: "Students welcome plan to introduce tertiary bus fares"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00072/students-welcome-plan-to-introduce-tertiary-bus-fares.htm
+title: Students welcome plan to introduce tertiary bus fares
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00072/students-welcome-plan-to-introduce-tertiary-bus-fares.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/05/17/students-welcome-plan-to-introduce-tertiary-bus-fares/index.html
+layout: layout.njk
 ---
 Students welcome plan to introduce tertiary bus fares
 =====================================================

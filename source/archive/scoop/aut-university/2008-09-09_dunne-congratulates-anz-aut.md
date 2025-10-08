@@ -1,9 +1,11 @@
 ---
 slug: dunne-congratulates-anz-aut
-title: "Dunne congratulates ANZ, AUT"
-date: 2008-09-09
+title: Dunne congratulates ANZ, AUT
+date: 2008-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0809/S00022/dunne-congratulates-anz-aut.htm
 author: aut-university
+permalink: /archive/2008/09/09/dunne-congratulates-anz-aut/index.html
+layout: layout.njk
 ---
 Dunne congratulates ANZ, AUT
 ============================

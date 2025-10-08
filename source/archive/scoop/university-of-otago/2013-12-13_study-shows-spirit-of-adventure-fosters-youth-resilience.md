@@ -1,9 +1,13 @@
 ---
 slug: study-shows-spirit-of-adventure-fosters-youth-resilience
-title: "Study shows Spirit of Adventure fosters youth resilience"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/ED1312/S00091/study-shows-spirit-of-adventure-fosters-youth-resilience.htm
+title: Study shows Spirit of Adventure fosters youth resilience
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00091/study-shows-spirit-of-adventure-fosters-youth-resilience.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/12/13/study-shows-spirit-of-adventure-fosters-youth-resilience/index.html
+layout: layout.njk
 ---
 Study shows Spirit of Adventure fosters youth resilience
 ========================================================

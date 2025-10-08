@@ -1,9 +1,11 @@
 ---
 slug: strikes-lifted!
-title: "Strikes Lifted!"
-date: 2003-11-18
+title: Strikes Lifted!
+date: 2003-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0311/S00057/strikes-lifted.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2003/11/18/strikes-lifted/index.html
+layout: layout.njk
 ---
 Strikes Lifted!
 ===============

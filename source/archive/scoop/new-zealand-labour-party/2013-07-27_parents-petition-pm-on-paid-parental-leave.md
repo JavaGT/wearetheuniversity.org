@@ -1,9 +1,12 @@
 ---
 slug: parents-petition-pm-on-paid-parental-leave
-title: "Parents petition PM on paid parental leave"
-date: 2013-07-27
-source-url: https://www.scoop.co.nz/stories/PA1307/S00396/parents-petition-pm-on-paid-parental-leave.htm
+title: Parents petition PM on paid parental leave
+date: 2013-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00396/parents-petition-pm-on-paid-parental-leave.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/27/parents-petition-pm-on-paid-parental-leave/index.html
+layout: layout.njk
 ---
 Parents petition PM on paid parental leave
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-committed-to-reducing-tertiary-fees
-title: "Greens Committed To Reducing Tertiary Fees"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00656/greens-committed-to-reducing-tertiary-fees.htm
+title: Greens Committed To Reducing Tertiary Fees
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00656/greens-committed-to-reducing-tertiary-fees.htm
 author: green-party
+permalink: /archive/1999/09/30/greens-committed-to-reducing-tertiary-fees/index.html
+layout: layout.njk
 ---
 Greens Committed To Reducing Tertiary Fees
 ==========================================

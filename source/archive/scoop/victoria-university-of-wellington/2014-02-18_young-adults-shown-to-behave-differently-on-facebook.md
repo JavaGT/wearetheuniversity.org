@@ -1,9 +1,13 @@
 ---
 slug: young-adults-shown-to-behave-differently-on-facebook
-title: "Young adults shown to behave differently on Facebook"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/CU1402/S00312/young-adults-shown-to-behave-differently-on-facebook.htm
+title: Young adults shown to behave differently on Facebook
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00312/young-adults-shown-to-behave-differently-on-facebook.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/02/18/young-adults-shown-to-behave-differently-on-facebook/index.html
+layout: layout.njk
 ---
 Young adults shown to behave differently on Facebook
 ====================================================

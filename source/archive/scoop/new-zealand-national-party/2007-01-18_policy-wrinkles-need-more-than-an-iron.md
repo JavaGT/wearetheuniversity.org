@@ -1,9 +1,12 @@
 ---
 slug: policy-wrinkles-need-more-than-an-iron
-title: "Policy wrinkles need more than an iron"
-date: 2007-01-18
-source-url: https://www.scoop.co.nz/stories/PA0701/S00095/policy-wrinkles-need-more-than-an-iron.htm
+title: Policy wrinkles need more than an iron
+date: 2007-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00095/policy-wrinkles-need-more-than-an-iron.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/18/policy-wrinkles-need-more-than-an-iron/index.html
+layout: layout.njk
 ---
 Policy wrinkles need more than an iron
 ======================================

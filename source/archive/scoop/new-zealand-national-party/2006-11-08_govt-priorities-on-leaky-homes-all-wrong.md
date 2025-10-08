@@ -1,9 +1,12 @@
 ---
 slug: govt-priorities-on-leaky-homes-all-wrong
-title: "Govt priorities on leaky homes all wrong"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/PA0611/S00144/govt-priorities-on-leaky-homes-all-wrong.htm
+title: Govt priorities on leaky homes all wrong
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00144/govt-priorities-on-leaky-homes-all-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/08/govt-priorities-on-leaky-homes-all-wrong/index.html
+layout: layout.njk
 ---
 Govt priorities on leaky homes all wrong
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: please-listen-to-community-and-council-hekia
-title: "Please listen to community and council, Hekia"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/PA1406/S00158/please-listen-to-community-and-council-hekia.htm
+title: Please listen to community and council, Hekia
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00158/please-listen-to-community-and-council-hekia.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/12/please-listen-to-community-and-council-hekia/index.html
+layout: layout.njk
 ---
 Please listen to community and council, Hekia
 =============================================

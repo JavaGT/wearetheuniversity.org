@@ -1,9 +1,13 @@
 ---
 slug: deficit-funding-in-health-another-broken-promise
-title: "Deficit funding in health another broken promise"
-date: 2008-06-10
-source-url: https://www.scoop.co.nz/stories/PA0806/S00132/deficit-funding-in-health-another-broken-promise.htm
+title: Deficit funding in health another broken promise
+date: 2008-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00132/deficit-funding-in-health-another-broken-promise.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/06/10/deficit-funding-in-health-another-broken-promise/index.html
+layout: layout.njk
 ---
 Deficit funding in health another broken promise
 ================================================

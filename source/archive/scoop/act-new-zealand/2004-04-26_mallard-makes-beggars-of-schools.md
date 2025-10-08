@@ -1,9 +1,12 @@
 ---
 slug: mallard-makes-beggars-of-schools
-title: "Mallard Makes Beggars Of Schools"
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/PA0404/S00399/mallard-makes-beggars-of-schools.htm
+title: Mallard Makes Beggars Of Schools
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00399/mallard-makes-beggars-of-schools.htm
 author: act-new-zealand
+permalink: /archive/2004/04/26/mallard-makes-beggars-of-schools/index.html
+layout: layout.njk
 ---
 Mallard Makes Beggars Of Schools
 ================================

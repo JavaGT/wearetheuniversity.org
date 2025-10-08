@@ -1,9 +1,12 @@
 ---
 slug: labour-tries-to-buy-votes-with-a-sausage
-title: "Labour tries to buy votes with a sausage"
-date: 1999-11-12
-source-url: https://www.scoop.co.nz/stories/PA9911/S00291/labour-tries-to-buy-votes-with-a-sausage.htm
+title: Labour tries to buy votes with a sausage
+date: 1999-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00291/labour-tries-to-buy-votes-with-a-sausage.htm
 author: new-zealand-national-party
+permalink: /archive/1999/11/12/labour-tries-to-buy-votes-with-a-sausage/index.html
+layout: layout.njk
 ---
 Labour tries to buy votes with a sausage
 ========================================

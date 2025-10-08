@@ -1,9 +1,13 @@
 ---
 slug: uni-opens-specialist-centre-for-infrastructure-research
-title: "Uni Opens Specialist Centre for Infrastructure Research"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/ED1012/S00046/uni-opens-specialist-centre-for-infrastructure-research.htm
+title: Uni Opens Specialist Centre for Infrastructure Research
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00046/uni-opens-specialist-centre-for-infrastructure-research.htm
 author: auckland-university
+permalink: >-
+  /archive/2010/12/09/uni-opens-specialist-centre-for-infrastructure-research/index.html
+layout: layout.njk
 ---
 Uni Opens Specialist Centre for Infrastructure Research
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: jono-naylor-praises-local-schools-for-working-together
-title: "Jono Naylor praises local schools for working together"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/PA1511/S00347/jono-naylor-praises-local-schools-for-working-together.htm
+title: Jono Naylor praises local schools for working together
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00347/jono-naylor-praises-local-schools-for-working-together.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/11/19/jono-naylor-praises-local-schools-for-working-together/index.html
+layout: layout.njk
 ---
 Jono Naylor praises local schools for working together
 ======================================================

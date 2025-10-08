@@ -1,9 +1,12 @@
 ---
 slug: tamihere-speech-to-waitakere-rotary-club
-title: "Tamihere: Speech to Waitakere Rotary Club"
-date: 2005-01-20
-source-url: https://www.scoop.co.nz/stories/PA0501/S00153/tamihere-speech-to-waitakere-rotary-club.htm
+title: 'Tamihere: Speech to Waitakere Rotary Club'
+date: 2005-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00153/tamihere-speech-to-waitakere-rotary-club.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/01/20/tamihere-speech-to-waitakere-rotary-club/index.html
+layout: layout.njk
 ---
 Tamihere: Speech to Waitakere Rotary Club
 =========================================

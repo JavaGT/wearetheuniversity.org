@@ -1,9 +1,12 @@
 ---
 slug: a-fair-go-for-citizens-in-their-own-country
-title: "\"A Fair Go For Citizens In Their Own Country\""
-date: 2004-11-05
-source-url: https://www.scoop.co.nz/stories/PA0411/S00154/a-fair-go-for-citizens-in-their-own-country.htm
+title: '"A Fair Go For Citizens In Their Own Country"'
+date: 2004-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00154/a-fair-go-for-citizens-in-their-own-country.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/05/a-fair-go-for-citizens-in-their-own-country/index.html
+layout: layout.njk
 ---
 "A Fair Go For Citizens In Their Own Country”
 =============================================

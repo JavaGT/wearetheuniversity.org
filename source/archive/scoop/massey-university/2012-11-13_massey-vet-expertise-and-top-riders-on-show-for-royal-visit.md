@@ -1,9 +1,13 @@
 ---
 slug: massey-vet-expertise-and-top-riders-on-show-for-royal-visit
-title: "Massey vet expertise and top riders on show for royal visit"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/ED1211/S00093/massey-vet-expertise-and-top-riders-on-show-for-royal-visit.htm
+title: Massey vet expertise and top riders on show for royal visit
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00093/massey-vet-expertise-and-top-riders-on-show-for-royal-visit.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/13/massey-vet-expertise-and-top-riders-on-show-for-royal-visit/index.html
+layout: layout.njk
 ---
 Massey vet expertise and top riders on show for royal visit
 ===========================================================

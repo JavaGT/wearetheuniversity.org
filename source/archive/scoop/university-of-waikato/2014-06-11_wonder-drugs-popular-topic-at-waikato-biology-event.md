@@ -1,9 +1,13 @@
 ---
 slug: wonder-drugs-popular-topic-at-waikato-biology-event
-title: "‘Wonder drugs’ popular topic at Waikato biology event"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/ED1406/S00055/wonder-drugs-popular-topic-at-waikato-biology-event.htm
+title: ‘Wonder drugs’ popular topic at Waikato biology event
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00055/wonder-drugs-popular-topic-at-waikato-biology-event.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/11/wonder-drugs-popular-topic-at-waikato-biology-event/index.html
+layout: layout.njk
 ---
 ‘Wonder drugs’ popular topic at Waikato biology event
 =====================================================

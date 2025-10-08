@@ -1,9 +1,13 @@
 ---
 slug: a-new-era-in-business-innovation-and-commercialisation
-title: "A new era in business innovation and commercialisation"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/ED1408/S00012/a-new-era-in-business-innovation-and-commercialisation.htm
+title: A new era in business innovation and commercialisation
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00012/a-new-era-in-business-innovation-and-commercialisation.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/04/a-new-era-in-business-innovation-and-commercialisation/index.html
+layout: layout.njk
 ---
 A new era in business innovation and commercialisation
 ======================================================

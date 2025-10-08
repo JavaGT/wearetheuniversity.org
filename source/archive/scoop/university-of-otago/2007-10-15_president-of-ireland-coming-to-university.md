@@ -1,9 +1,12 @@
 ---
 slug: president-of-ireland-coming-to-university
-title: "President of Ireland coming to University"
-date: 2007-10-15
-source-url: https://www.scoop.co.nz/stories/AK0710/S00187/president-of-ireland-coming-to-university.htm
+title: President of Ireland coming to University
+date: 2007-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0710/S00187/president-of-ireland-coming-to-university.htm
 author: university-of-otago
+permalink: /archive/2007/10/15/president-of-ireland-coming-to-university/index.html
+layout: layout.njk
 ---
 President of Ireland coming to University
 =========================================

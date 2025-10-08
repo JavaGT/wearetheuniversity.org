@@ -1,9 +1,13 @@
 ---
 slug: rugby-needs-to-be-taken-seriously-as-shaping-nzs-society
-title: "Rugby needs to be taken seriously as shaping NZ’s society"
-date: 2013-06-02
-source-url: https://www.scoop.co.nz/stories/ED1306/S00002/rugby-needs-to-be-taken-seriously-as-shaping-nzs-society.htm
+title: Rugby needs to be taken seriously as shaping NZ’s society
+date: 2013-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00002/rugby-needs-to-be-taken-seriously-as-shaping-nzs-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/02/rugby-needs-to-be-taken-seriously-as-shaping-nzs-society/index.html
+layout: layout.njk
 ---
 Rugby needs to be taken seriously as shaping NZ’s society
 =========================================================

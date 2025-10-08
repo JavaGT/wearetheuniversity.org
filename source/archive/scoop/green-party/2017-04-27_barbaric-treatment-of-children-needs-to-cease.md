@@ -1,9 +1,12 @@
 ---
 slug: barbaric-treatment-of-children-needs-to-cease
-title: "Barbaric treatment of children needs to cease"
-date: 2017-04-27
-source-url: https://www.scoop.co.nz/stories/PA1704/S00321/barbaric-treatment-of-children-needs-to-cease.htm
+title: Barbaric treatment of children needs to cease
+date: 2017-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00321/barbaric-treatment-of-children-needs-to-cease.htm
 author: green-party
+permalink: /archive/2017/04/27/barbaric-treatment-of-children-needs-to-cease/index.html
+layout: layout.njk
 ---
 Barbaric treatment of children needs to cease
 =============================================

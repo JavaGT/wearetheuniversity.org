@@ -1,9 +1,12 @@
 ---
 slug: national-must-listen-to-local-government-sector
-title: "National must listen to local government sector"
-date: 2016-08-12
-source-url: https://www.scoop.co.nz/stories/PA1608/S00208/national-must-listen-to-local-government-sector.htm
+title: National must listen to local government sector
+date: 2016-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00208/national-must-listen-to-local-government-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/12/national-must-listen-to-local-government-sector/index.html
+layout: layout.njk
 ---
 National must listen to local government sector
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: book-explores-nzs-many-faces-and-standing-places
-title: "Book explores NZ’s many faces and standing places"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/CU1706/S00138/book-explores-nzs-many-faces-and-standing-places.htm
+title: Book explores NZ’s many faces and standing places
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00138/book-explores-nzs-many-faces-and-standing-places.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/08/book-explores-nzs-many-faces-and-standing-places/index.html
+layout: layout.njk
 ---
 Book explores NZ’s many faces and standing places
 =================================================

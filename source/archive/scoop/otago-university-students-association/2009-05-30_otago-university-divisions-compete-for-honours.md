@@ -1,9 +1,12 @@
 ---
 slug: otago-university-divisions-compete-for-honours
-title: "Otago University Divisions Compete for Honours"
-date: 2009-05-30
-source-url: https://www.scoop.co.nz/stories/ED0905/S00132/otago-university-divisions-compete-for-honours.htm
+title: Otago University Divisions Compete for Honours
+date: 2009-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00132/otago-university-divisions-compete-for-honours.htm
 author: otago-university-students-association
+permalink: /archive/2009/05/30/otago-university-divisions-compete-for-honours/index.html
+layout: layout.njk
 ---
 Otago University Divisions Compete for Honours
 ==============================================

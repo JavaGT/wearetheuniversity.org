@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-wrap-our-kids-in-cotton-wool
-title: "Heather Roy's Diary: Wrap our kids in Cotton Wool"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/PA0704/S00348/heather-roys-diary-wrap-our-kids-in-cotton-wool.htm
+title: 'Heather Roy''s Diary: Wrap our kids in Cotton Wool'
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00348/heather-roys-diary-wrap-our-kids-in-cotton-wool.htm
 author: act-new-zealand
+permalink: /archive/2007/04/20/heather-roys-diary-wrap-our-kids-in-cotton-wool/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Wrap our kids in Cotton Wool
 =================================================

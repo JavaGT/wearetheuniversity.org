@@ -1,9 +1,12 @@
 ---
 slug: idealog-business-magazine-of-the-year
-title: "Idealog - Business Magazine of the Year"
-date: 2007-05-07
-source-url: https://www.scoop.co.nz/stories/BU0705/S00144/idealog-business-magazine-of-the-year.htm
+title: Idealog - Business Magazine of the Year
+date: 2007-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0705/S00144/idealog-business-magazine-of-the-year.htm
 author: aut-university
+permalink: /archive/2007/05/07/idealog-business-magazine-of-the-year/index.html
+layout: layout.njk
 ---
 Idealog - Business Magazine of the Year
 =======================================

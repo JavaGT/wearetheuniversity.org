@@ -1,9 +1,13 @@
 ---
 slug: uc-research-why-patients-develop-pneumonia-following-surgery
-title: "UC Research Why Patients Develop Pneumonia Following Surgery"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/GE1305/S00005/uc-research-why-patients-develop-pneumonia-following-surgery.htm
+title: UC Research Why Patients Develop Pneumonia Following Surgery
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00005/uc-research-why-patients-develop-pneumonia-following-surgery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/01/uc-research-why-patients-develop-pneumonia-following-surgery/index.html
+layout: layout.njk
 ---
 UC Research Why Patients Develop Pneumonia Following Surgery
 ============================================================

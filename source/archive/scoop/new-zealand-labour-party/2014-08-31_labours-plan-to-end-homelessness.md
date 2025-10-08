@@ -1,9 +1,12 @@
 ---
 slug: labours-plan-to-end-homelessness
-title: "Labour’s plan to end homelessness"
-date: 2014-08-31
-source-url: https://www.scoop.co.nz/stories/PA1408/S00465/labours-plan-to-end-homelessness.htm
+title: Labour’s plan to end homelessness
+date: 2014-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00465/labours-plan-to-end-homelessness.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/31/labours-plan-to-end-homelessness/index.html
+layout: layout.njk
 ---
 Labour’s plan to end homelessness
 =================================

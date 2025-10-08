@@ -1,9 +1,12 @@
 ---
 slug: community-education-investigation-at-last
-title: "Community Education Investigation - at last"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/PA0408/S00227/community-education-investigation-at-last.htm
+title: Community Education Investigation - at last
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00227/community-education-investigation-at-last.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/12/community-education-investigation-at-last/index.html
+layout: layout.njk
 ---
 Community Education Investigation - at last
 ===========================================

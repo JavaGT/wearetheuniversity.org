@@ -1,9 +1,12 @@
 ---
 slug: hipkins-panicking-pre-budget-on-school-property
-title: "Hipkins panicking pre-Budget on school property"
-date: 2018-05-04
-source-url: https://www.scoop.co.nz/stories/PA1805/S00054/hipkins-panicking-pre-budget-on-school-property.htm
+title: Hipkins panicking pre-Budget on school property
+date: 2018-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00054/hipkins-panicking-pre-budget-on-school-property.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/04/hipkins-panicking-pre-budget-on-school-property/index.html
+layout: layout.njk
 ---
 Hipkins panicking pre-Budget on school property
 ===============================================

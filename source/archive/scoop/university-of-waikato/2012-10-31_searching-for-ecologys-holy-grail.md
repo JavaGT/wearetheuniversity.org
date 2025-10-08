@@ -1,9 +1,12 @@
 ---
 slug: searching-for-ecologys-holy-grail
-title: "Searching for ecology’s Holy Grail"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/SC1210/S00061/searching-for-ecologys-holy-grail.htm
+title: Searching for ecology’s Holy Grail
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00061/searching-for-ecologys-holy-grail.htm
 author: university-of-waikato
+permalink: /archive/2012/10/31/searching-for-ecologys-holy-grail/index.html
+layout: layout.njk
 ---
 Searching for ecology’s Holy Grail
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: teachers-anger-on-christchurch-schools-justified
-title: "Teachers’ anger on Christchurch schools justified"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PA1212/S00187/teachers-anger-on-christchurch-schools-justified.htm
+title: Teachers’ anger on Christchurch schools justified
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00187/teachers-anger-on-christchurch-schools-justified.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/11/teachers-anger-on-christchurch-schools-justified/index.html
+layout: layout.njk
 ---
 Teachers’ anger on Christchurch schools justified
 =================================================

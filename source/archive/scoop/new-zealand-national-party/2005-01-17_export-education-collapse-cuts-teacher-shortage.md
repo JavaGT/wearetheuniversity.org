@@ -1,9 +1,12 @@
 ---
 slug: export-education-collapse-cuts-teacher-shortage
-title: "Export education collapse cuts teacher shortage"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/PA0501/S00114/export-education-collapse-cuts-teacher-shortage.htm
+title: Export education collapse cuts teacher shortage
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00114/export-education-collapse-cuts-teacher-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/17/export-education-collapse-cuts-teacher-shortage/index.html
+layout: layout.njk
 ---
 Export education collapse cuts teacher shortage
 ===============================================

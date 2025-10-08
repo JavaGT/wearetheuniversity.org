@@ -1,9 +1,13 @@
 ---
 slug: govt-inaction-threatens-export-education-industry
-title: "Govt inaction threatens export education industry"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/PA0311/S00093/govt-inaction-threatens-export-education-industry.htm
+title: Govt inaction threatens export education industry
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00093/govt-inaction-threatens-export-education-industry.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/11/06/govt-inaction-threatens-export-education-industry/index.html
+layout: layout.njk
 ---
 Govt inaction threatens export education industry
 =================================================

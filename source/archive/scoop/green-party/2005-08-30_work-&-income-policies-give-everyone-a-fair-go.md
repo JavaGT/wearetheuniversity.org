@@ -1,9 +1,12 @@
 ---
 slug: work-&-income-policies-give-everyone-a-fair-go
-title: "Work & Income policies give everyone a fair go"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00787/work-income-policies-give-everyone-a-fair-go.htm
+title: Work & Income policies give everyone a fair go
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00787/work-income-policies-give-everyone-a-fair-go.htm
 author: green-party
+permalink: /archive/2005/08/30/work-/index.html
+layout: layout.njk
 ---
 Work & Income policies give everyone a fair go
 ==============================================

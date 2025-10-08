@@ -1,9 +1,13 @@
 ---
 slug: students-given-a-peek-into-the-world-of-tertiary-science
-title: "Students given a peek into the world of tertiary science"
-date: 2011-01-24
-source-url: https://www.scoop.co.nz/stories/ED1101/S00032/students-given-a-peek-into-the-world-of-tertiary-science.htm
+title: Students given a peek into the world of tertiary science
+date: 2011-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00032/students-given-a-peek-into-the-world-of-tertiary-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/01/24/students-given-a-peek-into-the-world-of-tertiary-science/index.html
+layout: layout.njk
 ---
 Students given a peek into the world of tertiary science
 ========================================================

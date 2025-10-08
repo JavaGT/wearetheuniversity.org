@@ -1,9 +1,12 @@
 ---
 slug: the-borders-are-tumbling-prime-minister
-title: "The Borders Are Tumbling Prime Minister"
-date: 2020-12-09
-source-url: https://www.scoop.co.nz/stories/PA2012/S00057/the-borders-are-tumbling-prime-minister.htm
+title: The Borders Are Tumbling Prime Minister
+date: 2020-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00057/the-borders-are-tumbling-prime-minister.htm
 author: act-new-zealand
+permalink: /archive/2020/12/09/the-borders-are-tumbling-prime-minister/index.html
+layout: layout.njk
 ---
 The Borders Are Tumbling Prime Minister
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: budget-debate-tariana-turia-co-leader-of-the-maori-party
-title: "Budget Debate : Tariana Turia, CO-leader of the Maori Party"
-date: 2011-06-09
-source-url: https://www.scoop.co.nz/stories/PA1106/S00140/budget-debate-tariana-turia-co-leader-of-the-maori-party.htm
+title: 'Budget Debate : Tariana Turia, CO-leader of the Maori Party'
+date: 2011-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00140/budget-debate-tariana-turia-co-leader-of-the-maori-party.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/09/budget-debate-tariana-turia-co-leader-of-the-maori-party/index.html
+layout: layout.njk
 ---
 Budget Debate : Tariana Turia, CO-leader of the Maori Party
 ===========================================================

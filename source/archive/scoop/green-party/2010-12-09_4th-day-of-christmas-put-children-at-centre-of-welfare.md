@@ -1,9 +1,13 @@
 ---
 slug: 4th-day-of-christmas-put-children-at-centre-of-welfare
-title: "4th day of Christmas: put children at centre of welfare"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/PA1012/S00137/4th-day-of-christmas-put-children-at-centre-of-welfare.htm
+title: '4th day of Christmas: put children at centre of welfare'
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00137/4th-day-of-christmas-put-children-at-centre-of-welfare.htm
 author: green-party
+permalink: >-
+  /archive/2010/12/09/4th-day-of-christmas-put-children-at-centre-of-welfare/index.html
+layout: layout.njk
 ---
 4th day of Christmas: put children at centre of welfare
 =======================================================

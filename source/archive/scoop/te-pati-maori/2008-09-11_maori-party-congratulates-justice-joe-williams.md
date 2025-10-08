@@ -1,9 +1,12 @@
 ---
 slug: maori-party-congratulates-justice-joe-williams
-title: "Maori Party congratulates Justice Joe Williams"
-date: 2008-09-11
-source-url: https://www.scoop.co.nz/stories/PA0809/S00257/maori-party-congratulates-justice-joe-williams.htm
+title: Maori Party congratulates Justice Joe Williams
+date: 2008-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00257/maori-party-congratulates-justice-joe-williams.htm
 author: te-pati-maori
+permalink: /archive/2008/09/11/maori-party-congratulates-justice-joe-williams/index.html
+layout: layout.njk
 ---
 Maori Party congratulates Justice Joe Williams
 ==============================================

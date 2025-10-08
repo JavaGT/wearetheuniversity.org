@@ -1,9 +1,13 @@
 ---
 slug: common-mineral-could-be-key-to-tackling-climate-change
-title: "Common Mineral Could Be Key To Tackling Climate Change"
-date: 2021-02-15
-source-url: https://www.scoop.co.nz/stories/SC2102/S00017/common-mineral-could-be-key-to-tackling-climate-change.htm
+title: Common Mineral Could Be Key To Tackling Climate Change
+date: 2021-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2102/S00017/common-mineral-could-be-key-to-tackling-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/02/15/common-mineral-could-be-key-to-tackling-climate-change/index.html
+layout: layout.njk
 ---
 Common Mineral Could Be Key To Tackling Climate Change
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: funding-support-for-canterburys-universities-welcomed
-title: "Funding support for Canterbury’s universities welcomed"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/ED1109/S00097/funding-support-for-canterburys-universities-welcomed.htm
+title: Funding support for Canterbury’s universities welcomed
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00097/funding-support-for-canterburys-universities-welcomed.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/09/22/funding-support-for-canterburys-universities-welcomed/index.html
+layout: layout.njk
 ---
 Funding support for Canterbury’s universities welcomed
 ======================================================

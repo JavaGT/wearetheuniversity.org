@@ -1,9 +1,12 @@
 ---
 slug: universities-launch-programme-to-support-māori-academics
-title: "Universities Launch Programme To Support Māori Academics"
-date: 2022-07-14
-source-url: https://www.scoop.co.nz/stories/ED2207/S00023/universities-launch-programme-to-support-maori-academics.htm
+title: Universities Launch Programme To Support Māori Academics
+date: 2022-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00023/universities-launch-programme-to-support-maori-academics.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2022/07/14/universities-launch-programme-to-support-m/index.html
+layout: layout.njk
 ---
 Universities Launch Programme To Support Māori Academics
 ========================================================

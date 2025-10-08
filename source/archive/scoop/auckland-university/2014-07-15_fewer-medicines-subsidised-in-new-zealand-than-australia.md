@@ -1,9 +1,13 @@
 ---
 slug: fewer-medicines-subsidised-in-new-zealand-than-australia
-title: "Fewer medicines subsidised in New Zealand than Australia"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/GE1407/S00064/fewer-medicines-subsidised-in-new-zealand-than-australia.htm
+title: Fewer medicines subsidised in New Zealand than Australia
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00064/fewer-medicines-subsidised-in-new-zealand-than-australia.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/07/15/fewer-medicines-subsidised-in-new-zealand-than-australia/index.html
+layout: layout.njk
 ---
 Fewer medicines subsidised in New Zealand than Australia
 ========================================================

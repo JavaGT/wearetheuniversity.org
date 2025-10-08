@@ -1,9 +1,13 @@
 ---
 slug: biggest-fee-grab-indictment-on-otago-tec-and-govt
-title: "Biggest fee grab indictment on Otago, TEC and Govt"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/ED0312/S00047/biggest-fee-grab-indictment-on-otago-tec-and-govt.htm
+title: Biggest fee grab indictment on Otago, TEC and Govt
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00047/biggest-fee-grab-indictment-on-otago-tec-and-govt.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/12/10/biggest-fee-grab-indictment-on-otago-tec-and-govt/index.html
+layout: layout.njk
 ---
 Biggest fee grab indictment on Otago, TEC and Govt
 ==================================================

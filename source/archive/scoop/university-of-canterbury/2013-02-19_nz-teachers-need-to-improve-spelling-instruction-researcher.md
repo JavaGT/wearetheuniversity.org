@@ -1,9 +1,13 @@
 ---
 slug: nz-teachers-need-to-improve-spelling-instruction-researcher
-title: "NZ Teachers Need To Improve Spelling Instruction, Researcher"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/ED1302/S00096/nz-teachers-need-to-improve-spelling-instruction-researcher.htm
+title: NZ Teachers Need To Improve Spelling Instruction, Researcher
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00096/nz-teachers-need-to-improve-spelling-instruction-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/19/nz-teachers-need-to-improve-spelling-instruction-researcher/index.html
+layout: layout.njk
 ---
 NZ Teachers Need To Improve Spelling Instruction, Researcher
 ============================================================

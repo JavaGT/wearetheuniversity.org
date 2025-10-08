@@ -1,9 +1,13 @@
 ---
 slug: israeli-attack-undermines-hamas-ability-to-govern
-title: "Israeli attack undermines Hamas’ ability to govern"
-date: 2009-01-08
-source-url: https://www.scoop.co.nz/stories/ED0901/S00006/israeli-attack-undermines-hamas-ability-to-govern.htm
+title: Israeli attack undermines Hamas’ ability to govern
+date: 2009-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00006/israeli-attack-undermines-hamas-ability-to-govern.htm
 author: massey-university
+permalink: >-
+  /archive/2009/01/08/israeli-attack-undermines-hamas-ability-to-govern/index.html
+layout: layout.njk
 ---
 Israeli attack undermines Hamas’ ability to govern
 ==================================================

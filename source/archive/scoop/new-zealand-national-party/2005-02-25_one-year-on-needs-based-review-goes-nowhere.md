@@ -1,9 +1,12 @@
 ---
 slug: one-year-on-needs-based-review-goes-nowhere
-title: "One year on 'needs-based' review goes nowhere"
-date: 2005-02-25
-source-url: https://www.scoop.co.nz/stories/PA0502/S00565/one-year-on-needs-based-review-goes-nowhere.htm
+title: One year on 'needs-based' review goes nowhere
+date: 2005-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00565/one-year-on-needs-based-review-goes-nowhere.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/25/one-year-on-needs-based-review-goes-nowhere/index.html
+layout: layout.njk
 ---
 One year on 'needs-based' review goes nowhere
 =============================================

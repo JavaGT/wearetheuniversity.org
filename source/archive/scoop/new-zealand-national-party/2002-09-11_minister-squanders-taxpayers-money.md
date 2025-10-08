@@ -1,9 +1,12 @@
 ---
 slug: minister-squanders-taxpayers-money
-title: "Minister squanders taxpayers' money"
-date: 2002-09-11
-source-url: https://www.scoop.co.nz/stories/PA0209/S00190/minister-squanders-taxpayers-money.htm
+title: Minister squanders taxpayers' money
+date: 2002-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00190/minister-squanders-taxpayers-money.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/11/minister-squanders-taxpayers-money/index.html
+layout: layout.njk
 ---
 Minister squanders taxpayers' money
 ===================================

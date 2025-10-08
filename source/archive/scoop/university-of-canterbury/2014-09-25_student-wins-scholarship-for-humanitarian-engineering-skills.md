@@ -1,9 +1,13 @@
 ---
 slug: student-wins-scholarship-for-humanitarian-engineering-skills
-title: "Student wins scholarship for humanitarian engineering skills"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/ED1409/S00143/student-wins-scholarship-for-humanitarian-engineering-skills.htm
+title: Student wins scholarship for humanitarian engineering skills
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00143/student-wins-scholarship-for-humanitarian-engineering-skills.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/25/student-wins-scholarship-for-humanitarian-engineering-skills/index.html
+layout: layout.njk
 ---
 Student wins scholarship for humanitarian engineering skills
 ============================================================

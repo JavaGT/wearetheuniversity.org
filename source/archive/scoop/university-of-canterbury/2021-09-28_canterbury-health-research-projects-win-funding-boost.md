@@ -1,9 +1,13 @@
 ---
 slug: canterbury-health-research-projects-win-funding-boost
-title: "Canterbury Health Research Projects Win Funding Boost"
-date: 2021-09-28
-source-url: https://www.scoop.co.nz/stories/SC2109/S00063/canterbury-health-research-projects-win-funding-boost.htm
+title: Canterbury Health Research Projects Win Funding Boost
+date: 2021-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00063/canterbury-health-research-projects-win-funding-boost.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/09/28/canterbury-health-research-projects-win-funding-boost/index.html
+layout: layout.njk
 ---
 Canterbury Health Research Projects Win Funding Boost
 =====================================================

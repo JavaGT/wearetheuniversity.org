@@ -1,9 +1,13 @@
 ---
 slug: want-to-buy-your-child-anxiety-get-them-a-smartphone
-title: "Want To Buy Your Child Anxiety? Get Them A Smartphone"
-date: 2024-06-24
-source-url: https://www.scoop.co.nz/stories/GE2406/S00106/want-to-buy-your-child-anxiety-get-them-a-smartphone.htm
+title: Want To Buy Your Child Anxiety? Get Them A Smartphone
+date: 2024-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00106/want-to-buy-your-child-anxiety-get-them-a-smartphone.htm
 author: maxim-institute
+permalink: >-
+  /archive/2024/06/24/want-to-buy-your-child-anxiety-get-them-a-smartphone/index.html
+layout: layout.njk
 ---
 Want To Buy Your Child Anxiety? Get Them A Smartphone
 =====================================================

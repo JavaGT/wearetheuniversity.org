@@ -1,9 +1,12 @@
 ---
 slug: national-will-provide-flexibility-for-schools
-title: "National will provide flexibility for schools"
-date: 2005-05-31
-source-url: https://www.scoop.co.nz/stories/PA0505/S00751/national-will-provide-flexibility-for-schools.htm
+title: National will provide flexibility for schools
+date: 2005-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00751/national-will-provide-flexibility-for-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/31/national-will-provide-flexibility-for-schools/index.html
+layout: layout.njk
 ---
 National will provide flexibility for schools
 =============================================

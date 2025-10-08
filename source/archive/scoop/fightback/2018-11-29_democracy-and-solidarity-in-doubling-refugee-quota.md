@@ -1,9 +1,13 @@
 ---
 slug: democracy-and-solidarity-in-doubling-refugee-quota
-title: "Democracy and solidarity in doubling refugee quota"
-date: 2018-11-29
-source-url: https://www.scoop.co.nz/stories/PO1811/S00333/democracy-and-solidarity-in-doubling-refugee-quota.htm
+title: Democracy and solidarity in doubling refugee quota
+date: 2018-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00333/democracy-and-solidarity-in-doubling-refugee-quota.htm
 author: fightback
+permalink: >-
+  /archive/2018/11/29/democracy-and-solidarity-in-doubling-refugee-quota/index.html
+layout: layout.njk
 ---
 Democracy and solidarity in doubling refugee quota
 ==================================================

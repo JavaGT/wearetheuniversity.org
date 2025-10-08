@@ -1,9 +1,12 @@
 ---
 slug: harawira-avian-flu-can-we-hongi
-title: "Harawira: Avian flu - Can we Hongi?"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/PA0612/S00093/harawira-avian-flu-can-we-hongi.htm
+title: 'Harawira: Avian flu - Can we Hongi?'
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00093/harawira-avian-flu-can-we-hongi.htm
 author: te-pati-maori
+permalink: /archive/2006/12/06/harawira-avian-flu-can-we-hongi/index.html
+layout: layout.njk
 ---
 Harawira: Avian flu - Can we Hongi?
 ===================================

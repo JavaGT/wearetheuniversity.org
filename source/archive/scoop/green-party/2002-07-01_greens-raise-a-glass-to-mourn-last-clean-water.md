@@ -1,9 +1,12 @@
 ---
 slug: greens-raise-a-glass-to-mourn-last-clean-water
-title: "Greens Raise A Glass To Mourn Last Clean Water"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PA0207/S00017/greens-raise-a-glass-to-mourn-last-clean-water.htm
+title: Greens Raise A Glass To Mourn Last Clean Water
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00017/greens-raise-a-glass-to-mourn-last-clean-water.htm
 author: green-party
+permalink: /archive/2002/07/01/greens-raise-a-glass-to-mourn-last-clean-water/index.html
+layout: layout.njk
 ---
 Greens Raise A Glass To Mourn Last Clean Water
 ==============================================

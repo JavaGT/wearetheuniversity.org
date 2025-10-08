@@ -1,9 +1,13 @@
 ---
 slug: evaluation-of-modern-apprentice-scheme-shambolic
-title: "Evaluation of Modern Apprentice scheme shambolic"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PA0703/S00592/evaluation-of-modern-apprentice-scheme-shambolic.htm
+title: Evaluation of Modern Apprentice scheme shambolic
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00592/evaluation-of-modern-apprentice-scheme-shambolic.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/03/28/evaluation-of-modern-apprentice-scheme-shambolic/index.html
+layout: layout.njk
 ---
 Evaluation of Modern Apprentice scheme shambolic
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-embrace-politics-in-countdown-to-2020-election
-title: "Students Embrace Politics In Countdown To 2020 Election"
-date: 2020-10-15
-source-url: https://www.scoop.co.nz/stories/ED2010/S00027/students-embrace-politics-in-countdown-to-2020-election.htm
+title: Students Embrace Politics In Countdown To 2020 Election
+date: 2020-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00027/students-embrace-politics-in-countdown-to-2020-election.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/15/students-embrace-politics-in-countdown-to-2020-election/index.html
+layout: layout.njk
 ---
 Students Embrace Politics In Countdown To 2020 Election
 =======================================================

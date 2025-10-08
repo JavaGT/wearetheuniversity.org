@@ -1,9 +1,12 @@
 ---
 slug: call-for-youth-allowance-policy-revisit
-title: "Call For Youth Allowance Policy Revisit"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PO9910/S00025/call-for-youth-allowance-policy-revisit.htm
+title: Call For Youth Allowance Policy Revisit
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00025/call-for-youth-allowance-policy-revisit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/07/call-for-youth-allowance-policy-revisit/index.html
+layout: layout.njk
 ---
 Call For Youth Allowance Policy Revisit
 =======================================

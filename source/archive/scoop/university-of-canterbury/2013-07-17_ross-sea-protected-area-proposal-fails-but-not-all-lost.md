@@ -1,9 +1,13 @@
 ---
 slug: ross-sea-protected-area-proposal-fails-but-not-all-lost
-title: "Ross Sea protected area proposal fails but not all lost"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PO1307/S00203/ross-sea-protected-area-proposal-fails-but-not-all-lost.htm
+title: Ross Sea protected area proposal fails but not all lost
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00203/ross-sea-protected-area-proposal-fails-but-not-all-lost.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/17/ross-sea-protected-area-proposal-fails-but-not-all-lost/index.html
+layout: layout.njk
 ---
 Ross Sea protected area proposal fails but not all lost
 =======================================================

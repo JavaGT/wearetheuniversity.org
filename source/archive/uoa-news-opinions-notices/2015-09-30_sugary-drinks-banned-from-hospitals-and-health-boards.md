@@ -1,8 +1,12 @@
 ---
 slug: sugary-drinks-banned-from-hospitals-and-health-boards
-title: "Sugary drinks banned from hospitals and health boards"
-date: 2015-09-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/sugary-drinks-banned-from-hospitals-and-health-boards.html
+title: Sugary drinks banned from hospitals and health boards
+date: 2015-09-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/sugary-drinks-banned-from-hospitals-and-health-boards.html
+permalink: >-
+  /archive/2015/09/30/sugary-drinks-banned-from-hospitals-and-health-boards/index.html
+layout: layout.njk
 ---
 Sugary drinks banned from hospitals and health boards
 =====================================================

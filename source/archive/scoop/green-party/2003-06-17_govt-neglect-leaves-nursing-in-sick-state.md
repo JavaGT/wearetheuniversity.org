@@ -1,9 +1,12 @@
 ---
 slug: govt-neglect-leaves-nursing-in-sick-state
-title: "Govt neglect leaves nursing in sick state"
-date: 2003-06-17
-source-url: https://www.scoop.co.nz/stories/PA0306/S00309/govt-neglect-leaves-nursing-in-sick-state.htm
+title: Govt neglect leaves nursing in sick state
+date: 2003-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00309/govt-neglect-leaves-nursing-in-sick-state.htm
 author: green-party
+permalink: /archive/2003/06/17/govt-neglect-leaves-nursing-in-sick-state/index.html
+layout: layout.njk
 ---
 Govt neglect leaves nursing in sick state
 =========================================

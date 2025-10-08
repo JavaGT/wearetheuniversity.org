@@ -1,9 +1,12 @@
 ---
 slug: cant-behind-bid-for-countrys-first-pet-scanner
-title: "Cant. behind bid for country’s first PET scanner"
-date: 2004-01-22
-source-url: https://www.scoop.co.nz/stories/ED0401/S00023/cant-behind-bid-for-countrys-first-pet-scanner.htm
+title: Cant. behind bid for country’s first PET scanner
+date: 2004-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00023/cant-behind-bid-for-countrys-first-pet-scanner.htm
 author: university-of-canterbury
+permalink: /archive/2004/01/22/cant-behind-bid-for-countrys-first-pet-scanner/index.html
+layout: layout.njk
 ---
 Cant. behind bid for country’s first PET scanner
 ================================================

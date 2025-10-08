@@ -1,9 +1,11 @@
 ---
 slug: zoo-doo-while-others-dont
-title: "Zoo doo while others don't"
-date: 2008-06-09
+title: Zoo doo while others don't
+date: 2008-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0806/S00119/zoo-doo-while-others-dont.htm
 author: green-party
+permalink: /archive/2008/06/09/zoo-doo-while-others-dont/index.html
+layout: layout.njk
 ---
 Zoo doo while others don't
 ==========================

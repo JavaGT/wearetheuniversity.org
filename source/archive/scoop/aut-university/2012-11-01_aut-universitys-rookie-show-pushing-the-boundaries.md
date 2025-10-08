@@ -1,9 +1,13 @@
 ---
 slug: aut-universitys-rookie-show-pushing-the-boundaries
-title: "AUT University’s Rookie Show Pushing the Boundaries"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/ED1211/S00006/aut-universitys-rookie-show-pushing-the-boundaries.htm
+title: AUT University’s Rookie Show Pushing the Boundaries
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00006/aut-universitys-rookie-show-pushing-the-boundaries.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/01/aut-universitys-rookie-show-pushing-the-boundaries/index.html
+layout: layout.njk
 ---
 AUT University’s Rookie Show Pushing the Boundaries
 ===================================================

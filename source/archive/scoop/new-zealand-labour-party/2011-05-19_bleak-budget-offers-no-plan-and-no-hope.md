@@ -1,9 +1,12 @@
 ---
 slug: bleak-budget-offers-no-plan-and-no-hope
-title: "Bleak Budget offers no plan and no hope"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00450/bleak-budget-offers-no-plan-and-no-hope.htm
+title: Bleak Budget offers no plan and no hope
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00450/bleak-budget-offers-no-plan-and-no-hope.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/19/bleak-budget-offers-no-plan-and-no-hope/index.html
+layout: layout.njk
 ---
 Bleak Budget offers no plan and no hope
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: a-signature-too-much-to-ask-for-most
-title: "A Signature Too Much To Ask For Most"
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/ED0403/S00071/a-signature-too-much-to-ask-for-most.htm
+title: A Signature Too Much To Ask For Most
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00071/a-signature-too-much-to-ask-for-most.htm
 author: victoria-university-students-association
+permalink: /archive/2004/03/17/a-signature-too-much-to-ask-for-most/index.html
+layout: layout.njk
 ---
 A Signature Too Much To Ask For Most
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: proglacial-lakes-are-accelerating-glacier-ice-loss
-title: "Proglacial Lakes Are Accelerating Glacier Ice Loss"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/SC2010/S00017/proglacial-lakes-are-accelerating-glacier-ice-loss.htm
+title: Proglacial Lakes Are Accelerating Glacier Ice Loss
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2010/S00017/proglacial-lakes-are-accelerating-glacier-ice-loss.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/09/proglacial-lakes-are-accelerating-glacier-ice-loss/index.html
+layout: layout.njk
 ---
 Proglacial Lakes Are Accelerating Glacier Ice Loss
 ==================================================

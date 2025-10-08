@@ -1,9 +1,13 @@
 ---
 slug: transport-plans-tunnel-into-carbon-neutral-promise
-title: "Transport plans tunnel into carbon neutral promise"
-date: 2007-12-07
-source-url: https://www.scoop.co.nz/stories/PA0712/S00165/transport-plans-tunnel-into-carbon-neutral-promise.htm
+title: Transport plans tunnel into carbon neutral promise
+date: 2007-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00165/transport-plans-tunnel-into-carbon-neutral-promise.htm
 author: green-party
+permalink: >-
+  /archive/2007/12/07/transport-plans-tunnel-into-carbon-neutral-promise/index.html
+layout: layout.njk
 ---
 Transport plans tunnel into carbon neutral promise
 ==================================================

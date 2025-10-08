@@ -1,9 +1,12 @@
 ---
 slug: plain-english-fri-21-jun-2002
-title: "Plain English - Fri, 21 Jun 2002"
-date: 2002-06-22
-source-url: https://www.scoop.co.nz/stories/PA0206/S00395/plain-english-fri-21-jun-2002.htm
+title: Plain English - Fri, 21 Jun 2002
+date: 2002-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00395/plain-english-fri-21-jun-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/22/plain-english-fri-21-jun-2002/index.html
+layout: layout.njk
 ---
 Plain English - Fri, 21 Jun 2002
 ================================

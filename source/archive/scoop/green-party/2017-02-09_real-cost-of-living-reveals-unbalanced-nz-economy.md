@@ -1,9 +1,13 @@
 ---
 slug: real-cost-of-living-reveals-unbalanced-nz-economy
-title: "Real cost of living reveals unbalanced NZ economy"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/PA1702/S00126/real-cost-of-living-reveals-unbalanced-nz-economy.htm
+title: Real cost of living reveals unbalanced NZ economy
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00126/real-cost-of-living-reveals-unbalanced-nz-economy.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/09/real-cost-of-living-reveals-unbalanced-nz-economy/index.html
+layout: layout.njk
 ---
 Real cost of living reveals unbalanced NZ economy
 =================================================

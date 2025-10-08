@@ -1,9 +1,13 @@
 ---
 slug: planning-and-preparing-to-prevent-poor-performance
-title: "Planning and preparing to prevent poor performance"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/ED1605/S00054/planning-and-preparing-to-prevent-poor-performance.htm
+title: Planning and preparing to prevent poor performance
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00054/planning-and-preparing-to-prevent-poor-performance.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/05/13/planning-and-preparing-to-prevent-poor-performance/index.html
+layout: layout.njk
 ---
 Planning and preparing to prevent poor performance
 ==================================================

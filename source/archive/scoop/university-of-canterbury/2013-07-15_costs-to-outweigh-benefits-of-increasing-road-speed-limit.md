@@ -1,9 +1,13 @@
 ---
 slug: costs-to-outweigh-benefits-of-increasing-road-speed-limit
-title: "Costs to outweigh benefits of increasing road speed limit"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/AK1307/S00392/costs-to-outweigh-benefits-of-increasing-road-speed-limit.htm
+title: Costs to outweigh benefits of increasing road speed limit
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00392/costs-to-outweigh-benefits-of-increasing-road-speed-limit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/15/costs-to-outweigh-benefits-of-increasing-road-speed-limit/index.html
+layout: layout.njk
 ---
 Costs to outweigh benefits of increasing road speed limit
 =========================================================

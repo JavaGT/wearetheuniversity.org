@@ -1,9 +1,16 @@
 ---
-slug: why-xiomara-castros-win-in-honduras-could-address-the-countrys-endemic-corruption-and-violence
-title: "Why Xiomara Castro’s Win In Honduras Could Address The Country’s Endemic Corruption And Violence"
-date: 2021-12-10
-source-url: https://www.scoop.co.nz/stories/HL2112/S00023/why-xiomara-castros-win-in-honduras-could-address-the-countrys-endemic-corruption-and-violence.htm
+slug: >-
+  why-xiomara-castros-win-in-honduras-could-address-the-countrys-endemic-corruption-and-violence
+title: >-
+  Why Xiomara Castro’s Win In Honduras Could Address The Country’s Endemic
+  Corruption And Violence
+date: 2021-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2112/S00023/why-xiomara-castros-win-in-honduras-could-address-the-countrys-endemic-corruption-and-violence.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2021/12/10/why-xiomara-castros-win-in-honduras-could-address-the-countrys-endemic-corruption-and-violence/index.html
+layout: layout.njk
 ---
 Why Xiomara Castro’s Win In Honduras Could Address The Country’s Endemic Corruption And Violence
 ================================================================================================

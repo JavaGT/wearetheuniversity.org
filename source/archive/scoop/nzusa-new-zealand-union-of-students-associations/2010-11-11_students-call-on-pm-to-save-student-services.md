@@ -1,9 +1,12 @@
 ---
 slug: students-call-on-pm-to-save-student-services
-title: "Students call on PM to save student services"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/PO1011/S00154/students-call-on-pm-to-save-student-services.htm
+title: Students call on PM to save student services
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00154/students-call-on-pm-to-save-student-services.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/11/11/students-call-on-pm-to-save-student-services/index.html
+layout: layout.njk
 ---
 Students call on PM to save student services
 ============================================

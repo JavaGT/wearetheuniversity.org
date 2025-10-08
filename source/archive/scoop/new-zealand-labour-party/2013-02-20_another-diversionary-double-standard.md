@@ -1,9 +1,12 @@
 ---
 slug: another-diversionary-double-standard
-title: "Another diversionary double standard"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/PA1302/S00294/another-diversionary-double-standard.htm
+title: Another diversionary double standard
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00294/another-diversionary-double-standard.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/20/another-diversionary-double-standard/index.html
+layout: layout.njk
 ---
 Another diversionary double standard
 ====================================

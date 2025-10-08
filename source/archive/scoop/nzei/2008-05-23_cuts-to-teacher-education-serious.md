@@ -1,9 +1,12 @@
 ---
 slug: cuts-to-teacher-education-serious
-title: "Cuts To Teacher Education Serious"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/ED0805/S00103/cuts-to-teacher-education-serious.htm
+title: Cuts To Teacher Education Serious
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00103/cuts-to-teacher-education-serious.htm
 author: nzei
+permalink: /archive/2008/05/23/cuts-to-teacher-education-serious/index.html
+layout: layout.njk
 ---
 Cuts To Teacher Education Serious
 =================================

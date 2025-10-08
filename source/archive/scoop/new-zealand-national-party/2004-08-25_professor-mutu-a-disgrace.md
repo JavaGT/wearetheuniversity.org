@@ -1,9 +1,11 @@
 ---
 slug: professor-mutu-a-disgrace
-title: "Professor Mutu a disgrace"
-date: 2004-08-25
+title: Professor Mutu a disgrace
+date: 2004-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0408/S00439/professor-mutu-a-disgrace.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/25/professor-mutu-a-disgrace/index.html
+layout: layout.njk
 ---
 Professor Mutu a disgrace
 =========================

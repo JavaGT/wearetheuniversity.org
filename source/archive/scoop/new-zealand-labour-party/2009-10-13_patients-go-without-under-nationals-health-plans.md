@@ -1,9 +1,13 @@
 ---
 slug: patients-go-without-under-nationals-health-plans
-title: "Patients go without under National’s health plans"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/PA0910/S00142/patients-go-without-under-nationals-health-plans.htm
+title: Patients go without under National’s health plans
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00142/patients-go-without-under-nationals-health-plans.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/13/patients-go-without-under-nationals-health-plans/index.html
+layout: layout.njk
 ---
 Patients go without under National’s health plans
 =================================================

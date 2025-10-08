@@ -1,9 +1,12 @@
 ---
 slug: immigrant-fraud-a-big-industry
-title: "Immigrant Fraud A Big Industry"
-date: 2005-03-22
-source-url: https://www.scoop.co.nz/stories/PA0503/S00466/immigrant-fraud-a-big-industry.htm
+title: Immigrant Fraud A Big Industry
+date: 2005-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00466/immigrant-fraud-a-big-industry.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/22/immigrant-fraud-a-big-industry/index.html
+layout: layout.njk
 ---
 Immigrant Fraud A Big Industry
 ==============================

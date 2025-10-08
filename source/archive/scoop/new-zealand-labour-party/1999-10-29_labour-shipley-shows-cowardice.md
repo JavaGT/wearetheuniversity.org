@@ -1,9 +1,12 @@
 ---
 slug: labour-shipley-shows-cowardice
-title: "Labour: Shipley shows cowardice"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00678/labour-shipley-shows-cowardice.htm
+title: 'Labour: Shipley shows cowardice'
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00678/labour-shipley-shows-cowardice.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/29/labour-shipley-shows-cowardice/index.html
+layout: layout.njk
 ---
 Labour: Shipley shows cowardice
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: interference-in-schools-ramps-up
-title: "Interference in schools ramps up"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/PA1109/S00498/interference-in-schools-ramps-up.htm
+title: Interference in schools ramps up
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00498/interference-in-schools-ramps-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/27/interference-in-schools-ramps-up/index.html
+layout: layout.njk
 ---
 Interference in schools ramps up
 ================================

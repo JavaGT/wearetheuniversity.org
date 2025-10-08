@@ -1,9 +1,12 @@
 ---
 slug: russel-norman-opening-of-parliament-speech
-title: "Russel Norman: Opening of Parliament Speech"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/PA1401/S00167/russel-norman-opening-of-parliament-speech.htm
+title: 'Russel Norman: Opening of Parliament Speech'
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00167/russel-norman-opening-of-parliament-speech.htm
 author: green-party
+permalink: /archive/2014/01/28/russel-norman-opening-of-parliament-speech/index.html
+layout: layout.njk
 ---
 Russel Norman: Opening of Parliament Speech
 ===========================================

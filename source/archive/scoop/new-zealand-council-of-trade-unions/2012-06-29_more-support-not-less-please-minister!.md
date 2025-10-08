@@ -1,9 +1,12 @@
 ---
 slug: more-support-not-less-please-minister!
-title: "More support, not less please Minister!"
-date: 2012-06-29
-source-url: https://www.scoop.co.nz/stories/PO1206/S00414/more-support-not-less-please-minister.htm
+title: More support, not less please Minister!
+date: 2012-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00414/more-support-not-less-please-minister.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/06/29/more-support-not-less-please-minister/index.html
+layout: layout.njk
 ---
 More support, not less please Minister!
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: extreme-weather-a-critical-concern-for-the-next-decade-of-farming-experts-say
-title: "Extreme Weather A Critical Concern For The Next Decade Of Farming, Experts Say"
-date: 2024-02-05
-source-url: https://www.scoop.co.nz/stories/SC2402/S00010/extreme-weather-a-critical-concern-for-the-next-decade-of-farming-experts-say.htm
+title: Extreme Weather A Critical Concern For The Next Decade Of Farming, Experts Say
+date: 2024-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2402/S00010/extreme-weather-a-critical-concern-for-the-next-decade-of-farming-experts-say.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/02/05/extreme-weather-a-critical-concern-for-the-next-decade-of-farming-experts-say/index.html
+layout: layout.njk
 ---
 Extreme Weather A Critical Concern For The Next Decade Of Farming, Experts Say
 ==============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: primary-school-leaders-displaying-symptoms-of-ptsd
-title: "Primary school leaders displaying symptoms of PTSD"
-date: 2018-09-10
-source-url: https://www.scoop.co.nz/stories/PO1809/S00091/primary-school-leaders-displaying-symptoms-of-ptsd.htm
+title: Primary school leaders displaying symptoms of PTSD
+date: 2018-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00091/primary-school-leaders-displaying-symptoms-of-ptsd.htm
 author: nzei
+permalink: >-
+  /archive/2018/09/10/primary-school-leaders-displaying-symptoms-of-ptsd/index.html
+layout: layout.njk
 ---
 Primary school leaders displaying symptoms of PTSD
 ==================================================

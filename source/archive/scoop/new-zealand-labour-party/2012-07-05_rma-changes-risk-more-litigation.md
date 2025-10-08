@@ -1,9 +1,12 @@
 ---
 slug: rma-changes-risk-more-litigation
-title: "RMA changes risk more litigation"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00070/rma-changes-risk-more-litigation.htm
+title: RMA changes risk more litigation
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00070/rma-changes-risk-more-litigation.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/05/rma-changes-risk-more-litigation/index.html
+layout: layout.njk
 ---
 RMA changes risk more litigation
 ================================

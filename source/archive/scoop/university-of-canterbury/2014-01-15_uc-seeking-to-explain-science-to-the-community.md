@@ -1,9 +1,12 @@
 ---
 slug: uc-seeking-to-explain-science-to-the-community
-title: "UC seeking to explain science to the community"
-date: 2014-01-15
-source-url: https://www.scoop.co.nz/stories/SC1401/S00030/uc-seeking-to-explain-science-to-the-community.htm
+title: UC seeking to explain science to the community
+date: 2014-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00030/uc-seeking-to-explain-science-to-the-community.htm
 author: university-of-canterbury
+permalink: /archive/2014/01/15/uc-seeking-to-explain-science-to-the-community/index.html
+layout: layout.njk
 ---
 UC seeking to explain science to the community
 ==============================================

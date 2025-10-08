@@ -1,9 +1,13 @@
 ---
 slug: govt-must-come-clean-about-its-fruit-fly-failure
-title: "Govt must come clean about its fruit fly failure"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PA1502/S00308/govt-must-come-clean-about-its-fruit-fly-failure.htm
+title: Govt must come clean about its fruit fly failure
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00308/govt-must-come-clean-about-its-fruit-fly-failure.htm
 author: green-party
+permalink: >-
+  /archive/2015/02/25/govt-must-come-clean-about-its-fruit-fly-failure/index.html
+layout: layout.njk
 ---
 Govt must come clean about its fruit fly failure
 ================================================

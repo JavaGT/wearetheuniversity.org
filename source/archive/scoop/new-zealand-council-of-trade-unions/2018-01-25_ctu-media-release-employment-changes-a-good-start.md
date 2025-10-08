@@ -1,9 +1,13 @@
 ---
 slug: ctu-media-release-employment-changes-a-good-start
-title: "CTU Media Release - Employment changes a good start"
-date: 2018-01-25
-source-url: https://www.scoop.co.nz/stories/PO1801/S00116/ctu-media-release-employment-changes-a-good-start.htm
+title: CTU Media Release - Employment changes a good start
+date: 2018-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1801/S00116/ctu-media-release-employment-changes-a-good-start.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/01/25/ctu-media-release-employment-changes-a-good-start/index.html
+layout: layout.njk
 ---
 CTU Media Release - Employment changes a good start
 ===================================================

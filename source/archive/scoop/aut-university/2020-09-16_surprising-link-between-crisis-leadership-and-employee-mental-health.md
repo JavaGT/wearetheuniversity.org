@@ -1,9 +1,13 @@
 ---
 slug: surprising-link-between-crisis-leadership-and-employee-mental-health
-title: "Surprising Link Between Crisis Leadership And Employee Mental Health"
-date: 2020-09-16
-source-url: https://www.scoop.co.nz/stories/GE2009/S00077/surprising-link-between-crisis-leadership-and-employee-mental-health.htm
+title: Surprising Link Between Crisis Leadership And Employee Mental Health
+date: 2020-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2009/S00077/surprising-link-between-crisis-leadership-and-employee-mental-health.htm
 author: aut-university
+permalink: >-
+  /archive/2020/09/16/surprising-link-between-crisis-leadership-and-employee-mental-health/index.html
+layout: layout.njk
 ---
 Surprising Link Between Crisis Leadership And Employee Mental Health
 ====================================================================

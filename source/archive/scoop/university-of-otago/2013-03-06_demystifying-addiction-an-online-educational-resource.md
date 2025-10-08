@@ -1,9 +1,13 @@
 ---
 slug: demystifying-addiction-an-online-educational-resource
-title: "Demystifying Addiction – An Online Educational Resource"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/GE1303/S00032/demystifying-addiction-an-online-educational-resource.htm
+title: Demystifying Addiction – An Online Educational Resource
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00032/demystifying-addiction-an-online-educational-resource.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/06/demystifying-addiction-an-online-educational-resource/index.html
+layout: layout.njk
 ---
 Demystifying Addiction – An Online Educational Resource
 =======================================================

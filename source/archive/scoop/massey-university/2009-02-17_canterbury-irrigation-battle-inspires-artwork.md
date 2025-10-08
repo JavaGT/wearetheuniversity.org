@@ -1,9 +1,12 @@
 ---
 slug: canterbury-irrigation-battle-inspires-artwork
-title: "Canterbury irrigation battle inspires artwork"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/ED0902/S00055/canterbury-irrigation-battle-inspires-artwork.htm
+title: Canterbury irrigation battle inspires artwork
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00055/canterbury-irrigation-battle-inspires-artwork.htm
 author: massey-university
+permalink: /archive/2009/02/17/canterbury-irrigation-battle-inspires-artwork/index.html
+layout: layout.njk
 ---
 Canterbury irrigation battle inspires artwork
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-teen-parent-units-at-risk
-title: "New Teen Parent Units at-risk"
-date: 2007-03-14
-source-url: https://www.scoop.co.nz/stories/PA0703/S00263/new-teen-parent-units-at-risk.htm
+title: New Teen Parent Units at-risk
+date: 2007-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00263/new-teen-parent-units-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/14/new-teen-parent-units-at-risk/index.html
+layout: layout.njk
 ---
 New Teen Parent Units at-risk
 =============================

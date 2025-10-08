@@ -1,9 +1,13 @@
 ---
 slug: final-canterbury-pvc-position-to-auckland-engineer
-title: "Final Canterbury PVC position to Auckland engineer"
-date: 2004-02-18
-source-url: https://www.scoop.co.nz/stories/ED0402/S00047/final-canterbury-pvc-position-to-auckland-engineer.htm
+title: Final Canterbury PVC position to Auckland engineer
+date: 2004-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00047/final-canterbury-pvc-position-to-auckland-engineer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/02/18/final-canterbury-pvc-position-to-auckland-engineer/index.html
+layout: layout.njk
 ---
 Final Canterbury PVC position to Auckland engineer
 ==================================================

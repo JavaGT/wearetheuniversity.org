@@ -1,9 +1,12 @@
 ---
 slug: minister-must-confirm-cops-wont-be-replaced
-title: "Minister Must Confirm Cops Won’t Be Replaced"
-date: 2001-01-25
-source-url: https://www.scoop.co.nz/stories/PA0101/S00109/minister-must-confirm-cops-wont-be-replaced.htm
+title: Minister Must Confirm Cops Won’t Be Replaced
+date: 2001-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00109/minister-must-confirm-cops-wont-be-replaced.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/25/minister-must-confirm-cops-wont-be-replaced/index.html
+layout: layout.njk
 ---
 Minister Must Confirm Cops Won’t Be Replaced
 ============================================

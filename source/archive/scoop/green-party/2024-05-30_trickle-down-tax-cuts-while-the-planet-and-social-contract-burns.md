@@ -1,9 +1,13 @@
 ---
 slug: trickle-down-tax-cuts-while-the-planet-and-social-contract-burns
-title: "Trickle-down Tax Cuts While The Planet And Social Contract Burns"
-date: 2024-05-30
-source-url: https://www.scoop.co.nz/stories/PA2405/S00214/trickle-down-tax-cuts-while-the-planet-and-social-contract-burns.htm
+title: Trickle-down Tax Cuts While The Planet And Social Contract Burns
+date: 2024-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00214/trickle-down-tax-cuts-while-the-planet-and-social-contract-burns.htm
 author: green-party
+permalink: >-
+  /archive/2024/05/30/trickle-down-tax-cuts-while-the-planet-and-social-contract-burns/index.html
+layout: layout.njk
 ---
 Trickle-down Tax Cuts While The Planet And Social Contract Burns
 ================================================================

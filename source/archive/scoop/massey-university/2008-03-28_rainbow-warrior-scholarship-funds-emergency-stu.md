@@ -1,9 +1,12 @@
 ---
 slug: rainbow-warrior-scholarship-funds-emergency-stu
-title: "‘Rainbow Warrior’ scholarship funds emergency stu"
-date: 2008-03-28
-source-url: https://www.scoop.co.nz/stories/ED0803/S00072/rainbow-warrior-scholarship-funds-emergency-stu.htm
+title: ‘Rainbow Warrior’ scholarship funds emergency stu
+date: 2008-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00072/rainbow-warrior-scholarship-funds-emergency-stu.htm
 author: massey-university
+permalink: /archive/2008/03/28/rainbow-warrior-scholarship-funds-emergency-stu/index.html
+layout: layout.njk
 ---
 ‘Rainbow Warrior’ scholarship funds emergency stu
 =================================================

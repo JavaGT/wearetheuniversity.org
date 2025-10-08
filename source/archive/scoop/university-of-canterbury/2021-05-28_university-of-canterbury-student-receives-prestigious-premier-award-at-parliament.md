@@ -1,9 +1,16 @@
 ---
-slug: university-of-canterbury-student-receives-prestigious-premier-award-at-parliament
-title: "University Of Canterbury Student Receives Prestigious Premier Award At Parliament"
-date: 2021-05-28
-source-url: https://www.scoop.co.nz/stories/ED2105/S00056/university-of-canterbury-student-receives-prestigious-premier-award-at-parliament.htm
+slug: >-
+  university-of-canterbury-student-receives-prestigious-premier-award-at-parliament
+title: >-
+  University Of Canterbury Student Receives Prestigious Premier Award At
+  Parliament
+date: 2021-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00056/university-of-canterbury-student-receives-prestigious-premier-award-at-parliament.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/28/university-of-canterbury-student-receives-prestigious-premier-award-at-parliament/index.html
+layout: layout.njk
 ---
 University Of Canterbury Student Receives Prestigious Premier Award At Parliament
 =================================================================================

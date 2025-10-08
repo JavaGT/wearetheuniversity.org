@@ -1,9 +1,13 @@
 ---
 slug: otago-report-highlights-need-for-te-papa-apology
-title: "Otago report highlights need for Te Papa apology"
-date: 2018-11-30
-source-url: https://www.scoop.co.nz/stories/PO1811/S00348/otago-report-highlights-need-for-te-papa-apology.htm
+title: Otago report highlights need for Te Papa apology
+date: 2018-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00348/otago-report-highlights-need-for-te-papa-apology.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/30/otago-report-highlights-need-for-te-papa-apology/index.html
+layout: layout.njk
 ---
 Otago report highlights need for Te Papa apology
 ================================================

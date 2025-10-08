@@ -1,9 +1,12 @@
 ---
 slug: otago-welcomes-release-of-pbrf-results
-title: "Otago welcomes release of PBRF results"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00057/otago-welcomes-release-of-pbrf-results.htm
+title: Otago welcomes release of PBRF results
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00057/otago-welcomes-release-of-pbrf-results.htm
 author: university-of-otago
+permalink: /archive/2013/04/11/otago-welcomes-release-of-pbrf-results/index.html
+layout: layout.njk
 ---
 Otago welcomes release of PBRF results
 ======================================

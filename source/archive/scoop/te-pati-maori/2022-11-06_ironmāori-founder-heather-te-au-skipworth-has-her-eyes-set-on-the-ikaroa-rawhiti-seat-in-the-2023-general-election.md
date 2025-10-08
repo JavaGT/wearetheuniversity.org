@@ -1,9 +1,15 @@
 ---
-slug: ironmāori-founder-heather-te-au-skipworth-has-her-eyes-set-on-the-ikaroa-rawhiti-seat-in-the-2023-general-election
-title: "IronMāori Founder Heather Te Au Skipworth Has Her Eyes Set On The Ikaroa-Rawhiti Seat In The 2023 General Election"
-date: 2022-11-06
-source-url: https://www.scoop.co.nz/stories/PO2211/S00022/ironmaori-founder-heather-te-au-skipworth-has-her-eyes-set-on-the-ikaroa-rawhiti-seat-in-the-2023-general-election.htm
+slug: >-
+  ironmāori-founder-heather-te-au-skipworth-has-her-eyes-set-on-the-ikaroa-rawhiti-seat-in-the-2023-general-election
+title: >-
+  IronMāori Founder Heather Te Au Skipworth Has Her Eyes Set On The
+  Ikaroa-Rawhiti Seat In The 2023 General Election
+date: 2022-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2211/S00022/ironmaori-founder-heather-te-au-skipworth-has-her-eyes-set-on-the-ikaroa-rawhiti-seat-in-the-2023-general-election.htm
 author: te-pati-maori
+permalink: /archive/2022/11/06/ironm/index.html
+layout: layout.njk
 ---
 IronMāori Founder Heather Te Au Skipworth Has Her Eyes Set On The Ikaroa-Rawhiti Seat In The 2023 General Election
 ==================================================================================================================

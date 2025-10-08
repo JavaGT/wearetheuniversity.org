@@ -1,9 +1,13 @@
 ---
 slug: city-partnership-a-world-leader-in-climate-change-planning
-title: "City Partnership A World Leader In Climate Change Planning"
-date: 2022-10-03
-source-url: https://www.scoop.co.nz/stories/ED2210/S00003/city-partnership-a-world-leader-in-climate-change-planning.htm
+title: City Partnership A World Leader In Climate Change Planning
+date: 2022-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00003/city-partnership-a-world-leader-in-climate-change-planning.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/03/city-partnership-a-world-leader-in-climate-change-planning/index.html
+layout: layout.njk
 ---
 City Partnership A World Leader In Climate Change Planning
 ==========================================================

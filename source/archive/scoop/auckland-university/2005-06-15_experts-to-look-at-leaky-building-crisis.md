@@ -1,9 +1,12 @@
 ---
 slug: experts-to-look-at-leaky-building-crisis
-title: "Experts To Look At Leaky Building Crisis"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/SC0506/S00036/experts-to-look-at-leaky-building-crisis.htm
+title: Experts To Look At Leaky Building Crisis
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0506/S00036/experts-to-look-at-leaky-building-crisis.htm
 author: auckland-university
+permalink: /archive/2005/06/15/experts-to-look-at-leaky-building-crisis/index.html
+layout: layout.njk
 ---
 Experts To Look At Leaky Building Crisis
 ========================================

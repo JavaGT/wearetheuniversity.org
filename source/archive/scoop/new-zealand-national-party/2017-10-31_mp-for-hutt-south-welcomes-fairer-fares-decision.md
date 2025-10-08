@@ -1,9 +1,13 @@
 ---
 slug: mp-for-hutt-south-welcomes-fairer-fares-decision
-title: "MP for Hutt South Welcomes Fairer Fares Decision"
-date: 2017-10-31
-source-url: https://www.scoop.co.nz/stories/PA1710/S00078/mp-for-hutt-south-welcomes-fairer-fares-decision.htm
+title: MP for Hutt South Welcomes Fairer Fares Decision
+date: 2017-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00078/mp-for-hutt-south-welcomes-fairer-fares-decision.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/10/31/mp-for-hutt-south-welcomes-fairer-fares-decision/index.html
+layout: layout.njk
 ---
 MP for Hutt South Welcomes Fairer Fares Decision
 ================================================

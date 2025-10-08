@@ -1,9 +1,12 @@
 ---
 slug: sharples-boys-in-education-conference
-title: "Sharples: Boys in Education Conference"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PA0604/S00327/sharples-boys-in-education-conference.htm
+title: 'Sharples: Boys in Education Conference'
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00327/sharples-boys-in-education-conference.htm
 author: te-pati-maori
+permalink: /archive/2006/04/21/sharples-boys-in-education-conference/index.html
+layout: layout.njk
 ---
 Sharples: Boys in Education Conference
 ======================================

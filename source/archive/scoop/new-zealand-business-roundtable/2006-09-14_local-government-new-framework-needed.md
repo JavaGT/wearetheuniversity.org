@@ -1,9 +1,12 @@
 ---
 slug: local-government-new-framework-needed
-title: "Local Government: New Framework Needed"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/BU0609/S00225/local-government-new-framework-needed.htm
+title: 'Local Government: New Framework Needed'
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0609/S00225/local-government-new-framework-needed.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/09/14/local-government-new-framework-needed/index.html
+layout: layout.njk
 ---
 Local Government: New Framework Needed
 ======================================

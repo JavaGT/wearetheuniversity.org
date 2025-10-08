@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-to-launch-online-war-history
-title: "Prime Minister to launch online war history"
-date: 2004-05-25
-source-url: https://www.scoop.co.nz/stories/ED0405/S00087/prime-minister-to-launch-online-war-history.htm
+title: Prime Minister to launch online war history
+date: 2004-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00087/prime-minister-to-launch-online-war-history.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/25/prime-minister-to-launch-online-war-history/index.html
+layout: layout.njk
 ---
 Prime Minister to launch online war history
 ===========================================

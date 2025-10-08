@@ -1,9 +1,13 @@
 ---
 slug: union-welcomes-announcement-of-additional-funding
-title: "Union welcomes announcement of additional funding"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/ED0704/S00101/union-welcomes-announcement-of-additional-funding.htm
+title: Union welcomes announcement of additional funding
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00101/union-welcomes-announcement-of-additional-funding.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2007/04/30/union-welcomes-announcement-of-additional-funding/index.html
+layout: layout.njk
 ---
 Union welcomes announcement of additional funding
 =================================================

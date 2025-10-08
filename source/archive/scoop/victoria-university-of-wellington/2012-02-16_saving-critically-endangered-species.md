@@ -1,9 +1,12 @@
 ---
 slug: saving-critically-endangered-species
-title: "Saving critically endangered species"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/ED1202/S00072/saving-critically-endangered-species.htm
+title: Saving critically endangered species
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00072/saving-critically-endangered-species.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/02/16/saving-critically-endangered-species/index.html
+layout: layout.njk
 ---
 Saving critically endangered species
 ====================================

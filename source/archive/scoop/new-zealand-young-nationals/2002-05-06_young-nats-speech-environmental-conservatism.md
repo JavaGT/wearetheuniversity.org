@@ -1,9 +1,12 @@
 ---
 slug: young-nats-speech-environmental-conservatism
-title: "Young Nats Speech: Environmental Conservatism"
-date: 2002-05-06
-source-url: https://www.scoop.co.nz/stories/PO0205/S00054/young-nats-speech-environmental-conservatism.htm
+title: 'Young Nats Speech: Environmental Conservatism'
+date: 2002-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00054/young-nats-speech-environmental-conservatism.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/05/06/young-nats-speech-environmental-conservatism/index.html
+layout: layout.njk
 ---
 Young Nats Speech: Environmental Conservatism
 =============================================

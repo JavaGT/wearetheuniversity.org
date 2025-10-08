@@ -1,9 +1,13 @@
 ---
 slug: fishing-threatens-rare-dolphins-in-tourist-hotspot
-title: "Fishing threatens rare dolphins in tourist hotspot"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/SC1307/S00016/fishing-threatens-rare-dolphins-in-tourist-hotspot.htm
+title: Fishing threatens rare dolphins in tourist hotspot
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00016/fishing-threatens-rare-dolphins-in-tourist-hotspot.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/05/fishing-threatens-rare-dolphins-in-tourist-hotspot/index.html
+layout: layout.njk
 ---
 Fishing threatens rare dolphins in tourist hotspot
 ==================================================

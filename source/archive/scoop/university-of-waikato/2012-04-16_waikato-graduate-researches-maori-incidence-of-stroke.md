@@ -1,9 +1,13 @@
 ---
 slug: waikato-graduate-researches-maori-incidence-of-stroke
-title: "Waikato Graduate Researches Maori Incidence Of Stroke"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/ED1204/S00057/waikato-graduate-researches-maori-incidence-of-stroke.htm
+title: Waikato Graduate Researches Maori Incidence Of Stroke
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00057/waikato-graduate-researches-maori-incidence-of-stroke.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/04/16/waikato-graduate-researches-maori-incidence-of-stroke/index.html
+layout: layout.njk
 ---
 Waikato Graduate Researches Maori Incidence Of Stroke
 =====================================================

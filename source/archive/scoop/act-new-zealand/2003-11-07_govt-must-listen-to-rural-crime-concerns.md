@@ -1,9 +1,12 @@
 ---
 slug: govt-must-listen-to-rural-crime-concerns
-title: "Govt Must Listen To Rural Crime Concerns"
-date: 2003-11-07
-source-url: https://www.scoop.co.nz/stories/PA0311/S00163/govt-must-listen-to-rural-crime-concerns.htm
+title: Govt Must Listen To Rural Crime Concerns
+date: 2003-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00163/govt-must-listen-to-rural-crime-concerns.htm
 author: act-new-zealand
+permalink: /archive/2003/11/07/govt-must-listen-to-rural-crime-concerns/index.html
+layout: layout.njk
 ---
 Govt Must Listen To Rural Crime Concerns
 ========================================

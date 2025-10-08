@@ -1,9 +1,12 @@
 ---
 slug: chauvel-congratulates-essay-competition-winner
-title: "Chauvel congratulates essay competition winner"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PA0709/S00105/chauvel-congratulates-essay-competition-winner.htm
+title: Chauvel congratulates essay competition winner
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00105/chauvel-congratulates-essay-competition-winner.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/09/07/chauvel-congratulates-essay-competition-winner/index.html
+layout: layout.njk
 ---
 Chauvel congratulates essay competition winner
 ==============================================

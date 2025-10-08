@@ -1,9 +1,12 @@
 ---
 slug: epsom-mp-releases-post-flood-survey
-title: "Epsom MP Releases Post-flood Survey"
-date: 2023-06-08
-source-url: https://www.scoop.co.nz/stories/PA2306/S00044/epsom-mp-releases-post-flood-survey.htm
+title: Epsom MP Releases Post-flood Survey
+date: 2023-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00044/epsom-mp-releases-post-flood-survey.htm
 author: act-new-zealand
+permalink: /archive/2023/06/08/epsom-mp-releases-post-flood-survey/index.html
+layout: layout.njk
 ---
 Epsom MP Releases Post-flood Survey
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: low-skilled-migrants-used-to-keep-lid-on-wages
-title: "Low-Skilled Migrants Used to Keep Lid on Wages"
-date: 2016-03-29
-source-url: https://www.scoop.co.nz/stories/PA1603/S00454/low-skilled-migrants-used-to-keep-lid-on-wages.htm
+title: Low-Skilled Migrants Used to Keep Lid on Wages
+date: 2016-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00454/low-skilled-migrants-used-to-keep-lid-on-wages.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/29/low-skilled-migrants-used-to-keep-lid-on-wages/index.html
+layout: layout.njk
 ---
 Low-Skilled Migrants Used to Keep Lid on Wages
 ==============================================

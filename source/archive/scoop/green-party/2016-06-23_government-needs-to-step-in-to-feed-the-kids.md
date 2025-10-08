@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-step-in-to-feed-the-kids
-title: "Government needs to step in to feed the kids"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00393/government-needs-to-step-in-to-feed-the-kids.htm
+title: Government needs to step in to feed the kids
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00393/government-needs-to-step-in-to-feed-the-kids.htm
 author: green-party
+permalink: /archive/2016/06/23/government-needs-to-step-in-to-feed-the-kids/index.html
+layout: layout.njk
 ---
 Government needs to step in to feed the kids
 ============================================

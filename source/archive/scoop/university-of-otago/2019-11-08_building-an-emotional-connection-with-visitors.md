@@ -1,9 +1,12 @@
 ---
 slug: building-an-emotional-connection-with-visitors
-title: "Building an emotional connection with visitors"
-date: 2019-11-08
-source-url: https://www.scoop.co.nz/stories/BU1911/S00178/building-an-emotional-connection-with-visitors.htm
+title: Building an emotional connection with visitors
+date: 2019-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1911/S00178/building-an-emotional-connection-with-visitors.htm
 author: university-of-otago
+permalink: /archive/2019/11/08/building-an-emotional-connection-with-visitors/index.html
+layout: layout.njk
 ---
 Building an emotional connection with visitors
 ==============================================

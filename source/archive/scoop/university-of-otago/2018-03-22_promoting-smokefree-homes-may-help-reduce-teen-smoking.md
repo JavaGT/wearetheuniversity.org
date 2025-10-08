@@ -1,9 +1,13 @@
 ---
 slug: promoting-smokefree-homes-may-help-reduce-teen-smoking
-title: "Promoting smokefree homes may help reduce teen smoking"
-date: 2018-03-22
-source-url: https://www.scoop.co.nz/stories/GE1803/S00056/promoting-smokefree-homes-may-help-reduce-teen-smoking.htm
+title: Promoting smokefree homes may help reduce teen smoking
+date: 2018-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00056/promoting-smokefree-homes-may-help-reduce-teen-smoking.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/22/promoting-smokefree-homes-may-help-reduce-teen-smoking/index.html
+layout: layout.njk
 ---
 Promoting smokefree homes may help reduce teen smoking
 ======================================================

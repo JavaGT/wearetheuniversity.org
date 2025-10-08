@@ -1,9 +1,13 @@
 ---
 slug: rainbow-warrior-focus-for-visiting-research-fellow
-title: "Rainbow Warrior Focus for Visiting Research Fellow"
-date: 2015-04-16
-source-url: https://www.scoop.co.nz/stories/ED1504/S00043/rainbow-warrior-focus-for-visiting-research-fellow.htm
+title: Rainbow Warrior Focus for Visiting Research Fellow
+date: 2015-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00043/rainbow-warrior-focus-for-visiting-research-fellow.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/04/16/rainbow-warrior-focus-for-visiting-research-fellow/index.html
+layout: layout.njk
 ---
 Rainbow Warrior Focus for Visiting Research Fellow
 ==================================================

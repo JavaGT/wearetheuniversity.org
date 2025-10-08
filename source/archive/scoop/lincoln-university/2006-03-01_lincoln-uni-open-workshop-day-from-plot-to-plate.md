@@ -1,9 +1,13 @@
 ---
 slug: lincoln-uni-open-workshop-day-from-plot-to-plate
-title: "Lincoln Uni Open Workshop Day \"From Plot to Plate\""
-date: 2006-03-01
-source-url: https://www.scoop.co.nz/stories/ED0603/S00005/lincoln-uni-open-workshop-day-from-plot-to-plate.htm
+title: Lincoln Uni Open Workshop Day "From Plot to Plate"
+date: 2006-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00005/lincoln-uni-open-workshop-day-from-plot-to-plate.htm
 author: lincoln-university
+permalink: >-
+  /archive/2006/03/01/lincoln-uni-open-workshop-day-from-plot-to-plate/index.html
+layout: layout.njk
 ---
 Lincoln Uni Open Workshop Day “From Plot to Plate”
 ==================================================

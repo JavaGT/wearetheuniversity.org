@@ -1,9 +1,12 @@
 ---
 slug: te-awamutu-college-win-chemquest-challenge
-title: "Te Awamutu College win ChemQuest challenge"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/ED1110/S00036/te-awamutu-college-win-chemquest-challenge.htm
+title: Te Awamutu College win ChemQuest challenge
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00036/te-awamutu-college-win-chemquest-challenge.htm
 author: university-of-waikato
+permalink: /archive/2011/10/10/te-awamutu-college-win-chemquest-challenge/index.html
+layout: layout.njk
 ---
 Te Awamutu College win ChemQuest challenge
 ==========================================

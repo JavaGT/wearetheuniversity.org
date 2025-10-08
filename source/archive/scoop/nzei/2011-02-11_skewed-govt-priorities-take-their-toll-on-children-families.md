@@ -1,9 +1,13 @@
 ---
 slug: skewed-govt-priorities-take-their-toll-on-children-families
-title: "Skewed Govt Priorities Take Their Toll on Children/Families"
-date: 2011-02-11
-source-url: https://www.scoop.co.nz/stories/PO1102/S00095/skewed-govt-priorities-take-their-toll-on-childrenfamilies.htm
+title: Skewed Govt Priorities Take Their Toll on Children/Families
+date: 2011-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00095/skewed-govt-priorities-take-their-toll-on-childrenfamilies.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/11/skewed-govt-priorities-take-their-toll-on-children-families/index.html
+layout: layout.njk
 ---
 Skewed Govt Priorities Take Their Toll on Children/Families
 ===========================================================

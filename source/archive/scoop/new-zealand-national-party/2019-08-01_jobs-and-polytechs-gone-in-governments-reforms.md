@@ -1,9 +1,12 @@
 ---
 slug: jobs-and-polytechs-gone-in-governments-reforms
-title: "Jobs and polytechs gone in Government’s reforms"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/PA1908/S00007/jobs-and-polytechs-gone-in-governments-reforms.htm
+title: Jobs and polytechs gone in Government’s reforms
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00007/jobs-and-polytechs-gone-in-governments-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/01/jobs-and-polytechs-gone-in-governments-reforms/index.html
+layout: layout.njk
 ---
 Jobs and polytechs gone in Government’s reforms
 ===============================================

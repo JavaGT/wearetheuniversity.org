@@ -1,9 +1,12 @@
 ---
 slug: australia-opens-up-nz-left-behind
-title: "Australia Opens Up, NZ Left Behind"
-date: 2021-12-14
-source-url: https://www.scoop.co.nz/stories/PA2112/S00103/australia-opens-up-nz-left-behind.htm
+title: Australia Opens Up, NZ Left Behind
+date: 2021-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00103/australia-opens-up-nz-left-behind.htm
 author: act-new-zealand
+permalink: /archive/2021/12/14/australia-opens-up-nz-left-behind/index.html
+layout: layout.njk
 ---
 Australia Opens Up, NZ Left Behind
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: teachers-parents-ignored-in-advisory-group
-title: "Teachers, Parents Ignored in Advisory group"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/ED1002/S00068/teachers-parents-ignored-in-advisory-group.htm
+title: Teachers, Parents Ignored in Advisory group
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00068/teachers-parents-ignored-in-advisory-group.htm
 author: nzei
+permalink: /archive/2010/02/17/teachers-parents-ignored-in-advisory-group/index.html
+layout: layout.njk
 ---
 Teachers, Parents Ignored in Advisory group
 ===========================================

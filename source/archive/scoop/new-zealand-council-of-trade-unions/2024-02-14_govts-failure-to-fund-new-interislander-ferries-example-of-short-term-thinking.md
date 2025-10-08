@@ -1,9 +1,15 @@
 ---
 slug: govts-failure-to-fund-new-interislander-ferries-example-of-short-term-thinking
-title: "Govt’s Failure To Fund New Interislander Ferries Example Of Short-term Thinking"
-date: 2024-02-14
-source-url: https://www.scoop.co.nz/stories/PO2402/S00090/govts-failure-to-fund-new-interislander-ferries-example-of-short-term-thinking.htm
+title: >-
+  Govt’s Failure To Fund New Interislander Ferries Example Of Short-term
+  Thinking
+date: 2024-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00090/govts-failure-to-fund-new-interislander-ferries-example-of-short-term-thinking.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/02/14/govts-failure-to-fund-new-interislander-ferries-example-of-short-term-thinking/index.html
+layout: layout.njk
 ---
 Govt’s Failure To Fund New Interislander Ferries Example Of Short-term Thinking
 ===============================================================================

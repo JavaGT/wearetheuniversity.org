@@ -1,9 +1,12 @@
 ---
 slug: district-health-board-māori-health-profiles-released
-title: "District Health Board Māori Health Profiles released"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/GE1510/S00053/district-health-board-maori-health-profiles-released.htm
+title: District Health Board Māori Health Profiles released
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1510/S00053/district-health-board-maori-health-profiles-released.htm
 author: university-of-otago
+permalink: /archive/2015/10/15/district-health-board-m/index.html
+layout: layout.njk
 ---
 District Health Board Māori Health Profiles released
 ====================================================

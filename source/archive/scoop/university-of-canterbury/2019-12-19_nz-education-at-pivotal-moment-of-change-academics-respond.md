@@ -1,9 +1,13 @@
 ---
 slug: nz-education-at-pivotal-moment-of-change-academics-respond
-title: "NZ Education at pivotal moment of change - academics respond"
-date: 2019-12-19
-source-url: https://www.scoop.co.nz/stories/ED1912/S00048/nz-education-at-pivotal-moment-of-change-academics-respond.htm
+title: NZ Education at pivotal moment of change - academics respond
+date: 2019-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00048/nz-education-at-pivotal-moment-of-change-academics-respond.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/19/nz-education-at-pivotal-moment-of-change-academics-respond/index.html
+layout: layout.njk
 ---
 NZ Education at pivotal moment of change - academics respond
 ============================================================

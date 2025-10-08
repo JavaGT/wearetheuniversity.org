@@ -1,9 +1,12 @@
 ---
 slug: nzta-playing-dirty-with-local-councils
-title: "NZTA playing dirty with local councils"
-date: 2011-04-11
-source-url: https://www.scoop.co.nz/stories/PA1104/S00203/nzta-playing-dirty-with-local-councils.htm
+title: NZTA playing dirty with local councils
+date: 2011-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00203/nzta-playing-dirty-with-local-councils.htm
 author: green-party
+permalink: /archive/2011/04/11/nzta-playing-dirty-with-local-councils/index.html
+layout: layout.njk
 ---
 NZTA playing dirty with local councils
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-eight-years-of-promises
-title: "Speech: Peters - Eight Years of Promises"
-date: 2016-10-30
-source-url: https://www.scoop.co.nz/stories/PA1610/S00444/speech-peters-eight-years-of-promises.htm
+title: 'Speech: Peters - Eight Years of Promises'
+date: 2016-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00444/speech-peters-eight-years-of-promises.htm
 author: new-zealand-first-party
+permalink: /archive/2016/10/30/speech-peters-eight-years-of-promises/index.html
+layout: layout.njk
 ---
 Speech: Peters - Eight Years of Promises
 ========================================

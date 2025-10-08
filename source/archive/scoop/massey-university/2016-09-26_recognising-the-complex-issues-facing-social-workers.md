@@ -1,9 +1,13 @@
 ---
 slug: recognising-the-complex-issues-facing-social-workers
-title: "Recognising the complex issues facing social workers"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00128/recognising-the-complex-issues-facing-social-workers.htm
+title: Recognising the complex issues facing social workers
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00128/recognising-the-complex-issues-facing-social-workers.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/26/recognising-the-complex-issues-facing-social-workers/index.html
+layout: layout.njk
 ---
 Recognising the complex issues facing social workers
 ====================================================

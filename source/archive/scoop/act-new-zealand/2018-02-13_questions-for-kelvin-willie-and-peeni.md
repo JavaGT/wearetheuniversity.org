@@ -1,9 +1,12 @@
 ---
 slug: questions-for-kelvin-willie-and-peeni
-title: "Questions For Kelvin, Willie, and Peeni"
-date: 2018-02-13
-source-url: https://www.scoop.co.nz/stories/PA1802/S00097/questions-for-kelvin-willie-and-peeni.htm
+title: Questions For Kelvin, Willie, and Peeni
+date: 2018-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00097/questions-for-kelvin-willie-and-peeni.htm
 author: act-new-zealand
+permalink: /archive/2018/02/13/questions-for-kelvin-willie-and-peeni/index.html
+layout: layout.njk
 ---
 Questions For Kelvin, Willie, and Peeni
 =======================================

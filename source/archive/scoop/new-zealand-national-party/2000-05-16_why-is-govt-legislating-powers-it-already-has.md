@@ -1,9 +1,12 @@
 ---
 slug: why-is-govt-legislating-powers-it-already-has
-title: "Why is  Govt legislating  powers it already has ?"
-date: 2000-05-16
-source-url: https://www.scoop.co.nz/stories/PA0005/S00351/why-is-govt-legislating-powers-it-already-has.htm
+title: Why is  Govt legislating  powers it already has ?
+date: 2000-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00351/why-is-govt-legislating-powers-it-already-has.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/16/why-is-govt-legislating-powers-it-already-has/index.html
+layout: layout.njk
 ---
 Why is Govt legislating powers it already has ?
 ===============================================

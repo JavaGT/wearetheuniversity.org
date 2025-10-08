@@ -1,9 +1,13 @@
 ---
 slug: otago-divestment-decision-leaves-auckland-falling-behind
-title: "Otago divestment decision leaves Auckland falling behind"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/ED1609/S00064/otago-divestment-decision-leaves-auckland-falling-behind.htm
+title: Otago divestment decision leaves Auckland falling behind
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00064/otago-divestment-decision-leaves-auckland-falling-behind.htm
 author: fossil-free-uoa
+permalink: >-
+  /archive/2016/09/14/otago-divestment-decision-leaves-auckland-falling-behind/index.html
+layout: layout.njk
 ---
 Otago divestment decision leaves Auckland falling behind
 ========================================================

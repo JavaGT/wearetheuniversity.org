@@ -1,9 +1,12 @@
 ---
 slug: good-news-for-student-parents
-title: "Good news for student parents"
-date: 2002-10-01
-source-url: https://www.scoop.co.nz/stories/ED0210/S00002/good-news-for-student-parents.htm
+title: Good news for student parents
+date: 2002-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00002/good-news-for-student-parents.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/10/01/good-news-for-student-parents/index.html
+layout: layout.njk
 ---
 Good news for student parents
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: redesign-the-tax-system-to-work-for-everyone
-title: "Redesign The Tax System To Work For Everyone"
-date: 2022-10-18
-source-url: https://www.scoop.co.nz/stories/PA2210/S00120/redesign-the-tax-system-to-work-for-everyone.htm
+title: Redesign The Tax System To Work For Everyone
+date: 2022-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00120/redesign-the-tax-system-to-work-for-everyone.htm
 author: green-party
+permalink: /archive/2022/10/18/redesign-the-tax-system-to-work-for-everyone/index.html
+layout: layout.njk
 ---
 Redesign The Tax System To Work For Everyone
 ============================================

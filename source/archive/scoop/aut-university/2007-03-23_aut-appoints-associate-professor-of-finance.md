@@ -1,9 +1,12 @@
 ---
 slug: aut-appoints-associate-professor-of-finance
-title: "AUT appoints Associate Professor of Finance"
-date: 2007-03-23
-source-url: https://www.scoop.co.nz/stories/ED0703/S00081/aut-appoints-associate-professor-of-finance.htm
+title: AUT appoints Associate Professor of Finance
+date: 2007-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00081/aut-appoints-associate-professor-of-finance.htm
 author: aut-university
+permalink: /archive/2007/03/23/aut-appoints-associate-professor-of-finance/index.html
+layout: layout.njk
 ---
 AUT appoints Associate Professor of Finance
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: hate-speech-laws-2-0-will-be-defeated-as-well
-title: "Hate Speech Laws 2.0 Will Be Defeated As Well"
-date: 2023-06-01
-source-url: https://www.scoop.co.nz/stories/PA2306/S00006/hate-speech-laws-20-will-be-defeated-as-well.htm
+title: Hate Speech Laws 2.0 Will Be Defeated As Well
+date: 2023-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00006/hate-speech-laws-20-will-be-defeated-as-well.htm
 author: act-new-zealand
+permalink: /archive/2023/06/01/hate-speech-laws-2-0-will-be-defeated-as-well/index.html
+layout: layout.njk
 ---
 Hate Speech Laws 2.0 Will Be Defeated As Well
 =============================================

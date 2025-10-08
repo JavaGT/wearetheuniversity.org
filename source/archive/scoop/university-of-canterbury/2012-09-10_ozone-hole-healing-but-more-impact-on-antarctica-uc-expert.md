@@ -1,9 +1,13 @@
 ---
 slug: ozone-hole-healing-but-more-impact-on-antarctica-uc-expert
-title: "Ozone hole healing but more impact on Antarctica – UC expert"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/SC1209/S00013/ozone-hole-healing-but-more-impact-on-antarctica-uc-expert.htm
+title: Ozone hole healing but more impact on Antarctica – UC expert
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00013/ozone-hole-healing-but-more-impact-on-antarctica-uc-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/10/ozone-hole-healing-but-more-impact-on-antarctica-uc-expert/index.html
+layout: layout.njk
 ---
 Ozone hole healing but more impact on Antarctica – UC expert
 ============================================================

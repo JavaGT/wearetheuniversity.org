@@ -1,9 +1,12 @@
 ---
 slug: thugs-threaten-violence-at-brash-event
-title: "Thugs threaten violence at Brash event"
-date: 2018-08-06
-source-url: https://www.scoop.co.nz/stories/PA1808/S00060/thugs-threaten-violence-at-brash-event.htm
+title: Thugs threaten violence at Brash event
+date: 2018-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00060/thugs-threaten-violence-at-brash-event.htm
 author: act-new-zealand
+permalink: /archive/2018/08/06/thugs-threaten-violence-at-brash-event/index.html
+layout: layout.njk
 ---
 Thugs threaten violence at Brash event
 ======================================

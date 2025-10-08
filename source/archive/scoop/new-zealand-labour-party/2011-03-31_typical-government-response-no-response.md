@@ -1,9 +1,12 @@
 ---
 slug: typical-government-response-no-response
-title: "Typical Government response: No response"
-date: 2011-03-31
-source-url: https://www.scoop.co.nz/stories/PA1103/S00522/typical-government-response-no-response.htm
+title: 'Typical Government response: No response'
+date: 2011-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00522/typical-government-response-no-response.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/31/typical-government-response-no-response/index.html
+layout: layout.njk
 ---
 Typical Government response: No response
 ========================================

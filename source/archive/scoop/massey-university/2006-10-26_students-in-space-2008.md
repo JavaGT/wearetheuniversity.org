@@ -1,9 +1,11 @@
 ---
 slug: students-in-space-2008
-title: "Students in space, 2008"
-date: 2006-10-26
+title: Students in space, 2008
+date: 2006-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00096/students-in-space-2008.htm
 author: massey-university
+permalink: /archive/2006/10/26/students-in-space-2008/index.html
+layout: layout.njk
 ---
 Students in space, 2008
 =======================

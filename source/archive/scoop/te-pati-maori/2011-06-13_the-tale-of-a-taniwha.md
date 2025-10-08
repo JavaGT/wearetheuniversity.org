@@ -1,9 +1,11 @@
 ---
 slug: the-tale-of-a-taniwha
-title: "The tale of a Taniwha"
-date: 2011-06-13
+title: The tale of a Taniwha
+date: 2011-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1106/S00195/the-tale-of-a-taniwha.htm
 author: te-pati-maori
+permalink: /archive/2011/06/13/the-tale-of-a-taniwha/index.html
+layout: layout.njk
 ---
 The tale of a Taniwha
 =====================

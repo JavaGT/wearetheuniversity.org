@@ -1,9 +1,13 @@
 ---
 slug: fear-of-being-first-scares-homeowners-off-innovation
-title: "Fear of being first scares homeowners off innovation"
-date: 2011-01-14
-source-url: https://www.scoop.co.nz/stories/AK1101/S00245/fear-of-being-first-scares-homeowners-off-innovation.htm
+title: Fear of being first scares homeowners off innovation
+date: 2011-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1101/S00245/fear-of-being-first-scares-homeowners-off-innovation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/01/14/fear-of-being-first-scares-homeowners-off-innovation/index.html
+layout: layout.njk
 ---
 Fear of being first scares homeowners off innovation
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-citizen-on-trial-in-japan-doing-what-govt-wont
-title: "NZ citizen on trial in Japan doing what Govt won't"
-date: 2010-05-26
-source-url: https://www.scoop.co.nz/stories/PA1005/S00438/nz-citizen-on-trial-in-japan-doing-what-govt-wont.htm
+title: NZ citizen on trial in Japan doing what Govt won't
+date: 2010-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00438/nz-citizen-on-trial-in-japan-doing-what-govt-wont.htm
 author: green-party
+permalink: >-
+  /archive/2010/05/26/nz-citizen-on-trial-in-japan-doing-what-govt-wont/index.html
+layout: layout.njk
 ---
 NZ citizen on trial in Japan doing what Govt won't
 ==================================================

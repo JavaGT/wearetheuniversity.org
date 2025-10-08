@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-to-werohia-development-ltd
-title: "Turia: Speech to Werohia Development Ltd"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/PA0412/S00169/turia-speech-to-werohia-development-ltd.htm
+title: 'Turia: Speech to Werohia Development Ltd'
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00169/turia-speech-to-werohia-development-ltd.htm
 author: te-pati-maori
+permalink: /archive/2004/12/07/turia-speech-to-werohia-development-ltd/index.html
+layout: layout.njk
 ---
 Turia: Speech to Werohia Development Ltd
 ========================================

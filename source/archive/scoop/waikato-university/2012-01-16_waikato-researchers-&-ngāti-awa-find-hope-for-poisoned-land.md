@@ -1,9 +1,12 @@
 ---
 slug: waikato-researchers-&-ngāti-awa-find-hope-for-poisoned-land
-title: "Waikato researchers & Ngāti Awa find hope for poisoned land"
-date: 2012-01-16
-source-url: https://www.scoop.co.nz/stories/ED1201/S00015/waikato-researchers-ngati-awa-find-hope-for-poisoned-land.htm
+title: Waikato researchers & Ngāti Awa find hope for poisoned land
+date: 2012-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00015/waikato-researchers-ngati-awa-find-hope-for-poisoned-land.htm
 author: waikato-university
+permalink: /archive/2012/01/16/waikato-researchers-/index.html
+layout: layout.njk
 ---
 Waikato researchers & Ngāti Awa find hope for poisoned land
 ===========================================================

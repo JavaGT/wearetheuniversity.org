@@ -1,9 +1,12 @@
 ---
 slug: full-employment-not-there-yet
-title: "Full Employment: Not There Yet"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/BU0511/S00311/full-employment-not-there-yet.htm
+title: 'Full Employment: Not There Yet'
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0511/S00311/full-employment-not-there-yet.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/11/18/full-employment-not-there-yet/index.html
+layout: layout.njk
 ---
 Full Employment: Not There Yet
 ==============================

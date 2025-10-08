@@ -1,9 +1,12 @@
 ---
 slug: enrolments-and-accommodation-update
-title: "Enrolments and accommodation update"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/AK1503/S00618/enrolments-and-accommodation-update.htm
+title: Enrolments and accommodation update
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00618/enrolments-and-accommodation-update.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/23/enrolments-and-accommodation-update/index.html
+layout: layout.njk
 ---
 Enrolments and accommodation update
 ===================================

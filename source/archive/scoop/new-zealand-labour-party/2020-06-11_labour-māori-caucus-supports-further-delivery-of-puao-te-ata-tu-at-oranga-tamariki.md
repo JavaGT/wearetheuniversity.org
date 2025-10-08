@@ -1,9 +1,15 @@
 ---
-slug: labour-māori-caucus-supports-further-delivery-of-puao-te-ata-tu-at-oranga-tamariki
-title: "Labour Māori Caucus Supports Further Delivery Of Puao-te-ata-tu At Oranga Tamariki"
-date: 2020-06-11
-source-url: https://www.scoop.co.nz/stories/PA2006/S00087/labour-maori-caucus-supports-further-delivery-of-puao-te-ata-tu-at-oranga-tamariki.htm
+slug: >-
+  labour-māori-caucus-supports-further-delivery-of-puao-te-ata-tu-at-oranga-tamariki
+title: >-
+  Labour Māori Caucus Supports Further Delivery Of Puao-te-ata-tu At Oranga
+  Tamariki
+date: 2020-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00087/labour-maori-caucus-supports-further-delivery-of-puao-te-ata-tu-at-oranga-tamariki.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/06/11/labour-m/index.html
+layout: layout.njk
 ---
 Labour Māori Caucus Supports Further Delivery Of Puao-te-ata-tu At Oranga Tamariki
 ==================================================================================

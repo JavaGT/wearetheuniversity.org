@@ -1,9 +1,13 @@
 ---
 slug: online-harassment-requires-more-enforcement-not-more-laws
-title: "Online harassment requires more enforcement, not more laws"
-date: 2015-04-08
-source-url: https://www.scoop.co.nz/stories/PA1504/S00085/online-harassment-requires-more-enforcement-not-more-laws.htm
+title: Online harassment requires more enforcement, not more laws
+date: 2015-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00085/online-harassment-requires-more-enforcement-not-more-laws.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/04/08/online-harassment-requires-more-enforcement-not-more-laws/index.html
+layout: layout.njk
 ---
 Online harassment requires more enforcement, not more laws
 ==========================================================

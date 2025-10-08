@@ -1,9 +1,11 @@
 ---
 slug: join-the-food-revolution
-title: "Join the Food Revolution"
-date: 2004-10-11
+title: Join the Food Revolution
+date: 2004-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0410/S00089/join-the-food-revolution.htm
 author: green-party
+permalink: /archive/2004/10/11/join-the-food-revolution/index.html
+layout: layout.njk
 ---
 Join the Food Revolution
 ========================

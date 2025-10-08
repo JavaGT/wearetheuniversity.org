@@ -1,9 +1,13 @@
 ---
 slug: dairy-shown-to-improve-bone-health-of-kiwi-children
-title: "Dairy shown to improve bone health of Kiwi children"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/GE1706/S00080/dairy-shown-to-improve-bone-health-of-kiwi-children.htm
+title: Dairy shown to improve bone health of Kiwi children
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00080/dairy-shown-to-improve-bone-health-of-kiwi-children.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/21/dairy-shown-to-improve-bone-health-of-kiwi-children/index.html
+layout: layout.njk
 ---
 Dairy shown to improve bone health of Kiwi children
 ===================================================

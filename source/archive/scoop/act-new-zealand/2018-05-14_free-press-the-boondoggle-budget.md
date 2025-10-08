@@ -1,9 +1,12 @@
 ---
 slug: free-press-the-boondoggle-budget
-title: "Free Press: The ‘Boondoggle Budget’"
-date: 2018-05-14
-source-url: https://www.scoop.co.nz/stories/PA1805/S00161/free-press-the-boondoggle-budget.htm
+title: 'Free Press: The ‘Boondoggle Budget’'
+date: 2018-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00161/free-press-the-boondoggle-budget.htm
 author: act-new-zealand
+permalink: /archive/2018/05/14/free-press-the-boondoggle-budget/index.html
+layout: layout.njk
 ---
 Free Press: The ‘Boondoggle Budget’
 ===================================

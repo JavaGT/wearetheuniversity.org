@@ -1,9 +1,18 @@
 ---
+layout: layout.njk
 title: Appointment of Vice-Chancellor
 slug: appointment-of-vice-chancellor
-date: 2025-08-20
+date: 2025-08-20T00:00:00.000Z
 author: Cecilia Tarrant
 author-slug: cecilia-tarrant
+permalink: /blog/2025/08/20/appointment-of-vice-chancellor/index.html
+excerpt: >-
+  Kia ora koutou Appointment of ViceChancellor Following Professor Freshwater’s
+  resignation earlier in the year, University Council will now commence an
+  international recruitment process to appoint our next ViceChancellor. As per
+  Council ViceChancellor Review and Executive Remuneration Committee Terms of
+  Reference, the Chancellor, ProChancellor, Chair of Finance Committee and Chair
+  of...
 ---
 
 

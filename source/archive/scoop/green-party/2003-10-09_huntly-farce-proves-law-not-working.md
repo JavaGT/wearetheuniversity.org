@@ -1,9 +1,12 @@
 ---
 slug: huntly-farce-proves-law-not-working
-title: "Huntly farce proves law not working"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PA0310/S00200/huntly-farce-proves-law-not-working.htm
+title: Huntly farce proves law not working
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00200/huntly-farce-proves-law-not-working.htm
 author: green-party
+permalink: /archive/2003/10/09/huntly-farce-proves-law-not-working/index.html
+layout: layout.njk
 ---
 Huntly farce proves law not working
 ===================================

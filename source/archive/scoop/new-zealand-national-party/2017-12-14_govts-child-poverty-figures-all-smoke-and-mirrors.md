@@ -1,9 +1,13 @@
 ---
 slug: govts-child-poverty-figures-all-smoke-and-mirrors
-title: "Govt’s child poverty figures all smoke and mirrors"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/PA1712/S00155/govts-child-poverty-figures-all-smoke-and-mirrors.htm
+title: Govt’s child poverty figures all smoke and mirrors
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00155/govts-child-poverty-figures-all-smoke-and-mirrors.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/14/govts-child-poverty-figures-all-smoke-and-mirrors/index.html
+layout: layout.njk
 ---
 Govt’s child poverty figures all smoke and mirrors
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: cool-must-be-included-in-food-bill-fix-up
-title: "CoOL must be included in Food Bill fix-up"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/PA1306/S00251/cool-must-be-included-in-food-bill-fix-up.htm
+title: CoOL must be included in Food Bill fix-up
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00251/cool-must-be-included-in-food-bill-fix-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/14/cool-must-be-included-in-food-bill-fix-up/index.html
+layout: layout.njk
 ---
 CoOL must be included in Food Bill fix-up
 =========================================

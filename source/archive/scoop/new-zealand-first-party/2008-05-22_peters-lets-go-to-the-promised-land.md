@@ -1,9 +1,12 @@
 ---
 slug: peters-lets-go-to-the-promised-land
-title: "Peters: \"Let’s go to the Promised Land\""
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PA0805/S00433/peters-lets-go-to-the-promised-land.htm
+title: 'Peters: "Let’s go to the Promised Land"'
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00433/peters-lets-go-to-the-promised-land.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/22/peters-lets-go-to-the-promised-land/index.html
+layout: layout.njk
 ---
 Peters: “Let’s go to the Promised Land”
 =======================================

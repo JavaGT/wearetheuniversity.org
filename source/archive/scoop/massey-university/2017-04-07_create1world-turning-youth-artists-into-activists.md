@@ -1,9 +1,13 @@
 ---
 slug: create1world-turning-youth-artists-into-activists
-title: "Create1world turning youth artists into activists"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/PO1704/S00080/create1world-turning-youth-artists-into-activists.htm
+title: Create1world turning youth artists into activists
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00080/create1world-turning-youth-artists-into-activists.htm
 author: massey-university
+permalink: >-
+  /archive/2017/04/07/create1world-turning-youth-artists-into-activists/index.html
+layout: layout.njk
 ---
 Create1world turning youth artists into activists
 =================================================

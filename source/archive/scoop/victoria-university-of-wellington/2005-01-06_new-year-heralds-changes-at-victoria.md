@@ -1,9 +1,12 @@
 ---
 slug: new-year-heralds-changes-at-victoria
-title: "New Year heralds changes at Victoria"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/ED0501/S00010/new-year-heralds-changes-at-victoria.htm
+title: New Year heralds changes at Victoria
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00010/new-year-heralds-changes-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/06/new-year-heralds-changes-at-victoria/index.html
+layout: layout.njk
 ---
 New Year heralds changes at Victoria
 ====================================

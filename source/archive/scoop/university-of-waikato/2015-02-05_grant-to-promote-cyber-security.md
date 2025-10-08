@@ -1,9 +1,12 @@
 ---
 slug: grant-to-promote-cyber-security
-title: "Grant to promote cyber security"
-date: 2015-02-05
-source-url: https://www.scoop.co.nz/stories/ED1502/S00017/grant-to-promote-cyber-security.htm
+title: Grant to promote cyber security
+date: 2015-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00017/grant-to-promote-cyber-security.htm
 author: university-of-waikato
+permalink: /archive/2015/02/05/grant-to-promote-cyber-security/index.html
+layout: layout.njk
 ---
 Grant to promote cyber security
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-super-fund-must-be-stopped
-title: "Cullen Super Fund must be stopped"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/PA0207/S00433/cullen-super-fund-must-be-stopped.htm
+title: Cullen Super Fund must be stopped
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00433/cullen-super-fund-must-be-stopped.htm
 author: green-party
+permalink: /archive/2002/07/16/cullen-super-fund-must-be-stopped/index.html
+layout: layout.njk
 ---
 Cullen Super Fund must be stopped
 =================================

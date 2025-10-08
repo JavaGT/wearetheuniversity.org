@@ -1,9 +1,13 @@
 ---
 slug: statement-regarding-dismissal-of-dr-paul-buchanan
-title: "Statement regarding dismissal of Dr Paul Buchanan"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/ED0708/S00018/statement-regarding-dismissal-of-dr-paul-buchanan.htm
+title: Statement regarding dismissal of Dr Paul Buchanan
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00018/statement-regarding-dismissal-of-dr-paul-buchanan.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2007/08/07/statement-regarding-dismissal-of-dr-paul-buchanan/index.html
+layout: layout.njk
 ---
 Statement regarding dismissal of Dr Paul Buchanan
 =================================================

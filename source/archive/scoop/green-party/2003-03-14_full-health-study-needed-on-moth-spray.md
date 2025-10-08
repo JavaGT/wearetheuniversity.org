@@ -1,9 +1,12 @@
 ---
 slug: full-health-study-needed-on-moth-spray
-title: "Full health study needed on moth spray"
-date: 2003-03-14
-source-url: https://www.scoop.co.nz/stories/PA0303/S00242/full-health-study-needed-on-moth-spray.htm
+title: Full health study needed on moth spray
+date: 2003-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00242/full-health-study-needed-on-moth-spray.htm
 author: green-party
+permalink: /archive/2003/03/14/full-health-study-needed-on-moth-spray/index.html
+layout: layout.njk
 ---
 Full health study needed on moth spray
 ======================================

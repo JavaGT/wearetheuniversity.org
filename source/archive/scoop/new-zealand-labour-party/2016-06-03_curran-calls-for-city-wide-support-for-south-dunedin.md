@@ -1,9 +1,13 @@
 ---
 slug: curran-calls-for-city-wide-support-for-south-dunedin
-title: "Curran calls for city-wide support for South Dunedin"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00065/curran-calls-for-city-wide-support-for-south-dunedin.htm
+title: Curran calls for city-wide support for South Dunedin
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00065/curran-calls-for-city-wide-support-for-south-dunedin.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/03/curran-calls-for-city-wide-support-for-south-dunedin/index.html
+layout: layout.njk
 ---
 Curran calls for city-wide support for South Dunedin
 ====================================================

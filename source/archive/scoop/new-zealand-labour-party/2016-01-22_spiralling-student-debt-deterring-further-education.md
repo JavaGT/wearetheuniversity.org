@@ -1,9 +1,13 @@
 ---
 slug: spiralling-student-debt-deterring-further-education
-title: "Spiralling student debt deterring further education"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PA1601/S00084/spiralling-student-debt-deterring-further-education.htm
+title: Spiralling student debt deterring further education
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00084/spiralling-student-debt-deterring-further-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/01/22/spiralling-student-debt-deterring-further-education/index.html
+layout: layout.njk
 ---
 Spiralling student debt deterring further education
 ===================================================

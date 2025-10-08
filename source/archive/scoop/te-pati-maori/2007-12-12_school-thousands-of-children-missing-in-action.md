@@ -1,9 +1,12 @@
 ---
 slug: school-thousands-of-children-missing-in-action
-title: "School: Thousands of Children Missing in Action"
-date: 2007-12-12
-source-url: https://www.scoop.co.nz/stories/PA0712/S00248/school-thousands-of-children-missing-in-action.htm
+title: 'School: Thousands of Children Missing in Action'
+date: 2007-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00248/school-thousands-of-children-missing-in-action.htm
 author: te-pati-maori
+permalink: /archive/2007/12/12/school-thousands-of-children-missing-in-action/index.html
+layout: layout.njk
 ---
 School: Thousands of Children Missing in Action
 ===============================================

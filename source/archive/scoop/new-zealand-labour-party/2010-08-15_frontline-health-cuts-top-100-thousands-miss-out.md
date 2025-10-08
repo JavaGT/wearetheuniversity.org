@@ -1,9 +1,13 @@
 ---
 slug: frontline-health-cuts-top-100-thousands-miss-out
-title: "Frontline Health Cuts Top 100, Thousands Miss Out"
-date: 2010-08-15
-source-url: https://www.scoop.co.nz/stories/PA1008/S00227/frontline-health-cuts-top-100-thousands-miss-out.htm
+title: Frontline Health Cuts Top 100, Thousands Miss Out
+date: 2010-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00227/frontline-health-cuts-top-100-thousands-miss-out.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/08/15/frontline-health-cuts-top-100-thousands-miss-out/index.html
+layout: layout.njk
 ---
 Frontline Health Cuts Top 100, Thousands Miss Out
 =================================================

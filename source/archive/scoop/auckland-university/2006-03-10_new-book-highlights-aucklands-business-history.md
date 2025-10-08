@@ -1,9 +1,12 @@
 ---
 slug: new-book-highlights-aucklands-business-history
-title: "New book highlights Auckland's business history"
-date: 2006-03-10
-source-url: https://www.scoop.co.nz/stories/ED0603/S00033/new-book-highlights-aucklands-business-history.htm
+title: New book highlights Auckland's business history
+date: 2006-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00033/new-book-highlights-aucklands-business-history.htm
 author: auckland-university
+permalink: /archive/2006/03/10/new-book-highlights-aucklands-business-history/index.html
+layout: layout.njk
 ---
 New book highlights Auckland's business history
 ===============================================

@@ -1,8 +1,11 @@
 ---
 slug: be-found-on-google-or-be-forgotten
-title: "Be found on Google or be forgotten"
-date: 2016-11-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/Google-AdWords-winners.html
+title: Be found on Google or be forgotten
+date: 2016-11-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/Google-AdWords-winners.html
+permalink: /archive/2016/11/02/be-found-on-google-or-be-forgotten/index.html
+layout: layout.njk
 ---
 Be found on Google or be forgotten
 ==================================

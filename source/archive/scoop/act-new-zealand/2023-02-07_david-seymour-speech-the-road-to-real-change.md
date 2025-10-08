@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-speech-the-road-to-real-change
-title: "David Seymour Speech: The Road To Real Change"
-date: 2023-02-07
-source-url: https://www.scoop.co.nz/stories/PA2302/S00039/david-seymour-speech-the-road-to-real-change.htm
+title: 'David Seymour Speech: The Road To Real Change'
+date: 2023-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00039/david-seymour-speech-the-road-to-real-change.htm
 author: act-new-zealand
+permalink: /archive/2023/02/07/david-seymour-speech-the-road-to-real-change/index.html
+layout: layout.njk
 ---
 David Seymour Speech: The Road To Real Change
 =============================================

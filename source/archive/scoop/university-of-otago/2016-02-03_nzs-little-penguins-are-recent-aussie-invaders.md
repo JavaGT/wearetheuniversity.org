@@ -1,9 +1,12 @@
 ---
 slug: nzs-little-penguins-are-recent-aussie-invaders
-title: "NZ’s little penguins are recent Aussie invaders"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/SC1602/S00011/nzs-little-penguins-are-recent-aussie-invaders.htm
+title: NZ’s little penguins are recent Aussie invaders
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00011/nzs-little-penguins-are-recent-aussie-invaders.htm
 author: university-of-otago
+permalink: /archive/2016/02/03/nzs-little-penguins-are-recent-aussie-invaders/index.html
+layout: layout.njk
 ---
 NZ’s little penguins are recent Aussie invaders
 ===============================================

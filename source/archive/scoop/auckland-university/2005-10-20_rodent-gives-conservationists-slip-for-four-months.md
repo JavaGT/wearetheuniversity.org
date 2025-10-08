@@ -1,9 +1,13 @@
 ---
 slug: rodent-gives-conservationists-slip-for-four-months
-title: "Rodent Gives Conservationists Slip for Four Months"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/SC0510/S00045/rodent-gives-conservationists-slip-for-four-months.htm
+title: Rodent Gives Conservationists Slip for Four Months
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00045/rodent-gives-conservationists-slip-for-four-months.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/10/20/rodent-gives-conservationists-slip-for-four-months/index.html
+layout: layout.njk
 ---
 Rodent Gives Conservationists Slip for Four Months
 ==================================================

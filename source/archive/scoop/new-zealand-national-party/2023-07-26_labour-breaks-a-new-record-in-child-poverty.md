@@ -1,9 +1,12 @@
 ---
 slug: labour-breaks-a-new-record-in-child-poverty
-title: "Labour Breaks A New Record In Child Poverty"
-date: 2023-07-26
-source-url: https://www.scoop.co.nz/stories/PA2307/S00139/labour-breaks-a-new-record-in-child-poverty.htm
+title: Labour Breaks A New Record In Child Poverty
+date: 2023-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00139/labour-breaks-a-new-record-in-child-poverty.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/26/labour-breaks-a-new-record-in-child-poverty/index.html
+layout: layout.njk
 ---
 Labour Breaks A New Record In Child Poverty
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: ausa-attacks-its-members
-title: "AUSA attacks its members"
-date: 2003-09-22
+title: AUSA attacks its members
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00103/ausa-attacks-its-members.htm
 author: student-choice
+permalink: /archive/2003/09/22/ausa-attacks-its-members/index.html
+layout: layout.njk
 ---
 AUSA attacks its members
 ========================

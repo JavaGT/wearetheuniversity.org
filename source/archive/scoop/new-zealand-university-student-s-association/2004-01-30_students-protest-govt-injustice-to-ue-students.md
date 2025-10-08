@@ -1,9 +1,12 @@
 ---
 slug: students-protest-govt-injustice-to-ue-students
-title: "Students protest govt injustice to UE students"
-date: 2004-01-30
-source-url: https://www.scoop.co.nz/stories/ED0401/S00049/students-protest-govt-injustice-to-ue-students.htm
+title: Students protest govt injustice to UE students
+date: 2004-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00049/students-protest-govt-injustice-to-ue-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/30/students-protest-govt-injustice-to-ue-students/index.html
+layout: layout.njk
 ---
 Students protest govt injustice to UE students
 ==============================================

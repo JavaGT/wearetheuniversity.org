@@ -1,9 +1,12 @@
 ---
 slug: use-surplus-for-quality-tertiary-education
-title: "Use Surplus For Quality Tertiary Education"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/ED0610/S00043/use-surplus-for-quality-tertiary-education.htm
+title: Use Surplus For Quality Tertiary Education
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00043/use-surplus-for-quality-tertiary-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/10/11/use-surplus-for-quality-tertiary-education/index.html
+layout: layout.njk
 ---
 Use Surplus For Quality Tertiary Education
 ==========================================

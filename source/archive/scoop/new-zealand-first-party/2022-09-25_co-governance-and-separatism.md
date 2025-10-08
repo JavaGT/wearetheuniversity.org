@@ -1,9 +1,11 @@
 ---
 slug: co-governance-and-separatism
-title: "Co-governance And Separatism"
-date: 2022-09-25
+title: Co-governance And Separatism
+date: 2022-09-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2209/S00130/co-governance-and-separatism.htm
 author: new-zealand-first-party
+permalink: /archive/2022/09/25/co-governance-and-separatism/index.html
+layout: layout.njk
 ---
 Co-governance And Separatism
 ============================

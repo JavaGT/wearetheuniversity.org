@@ -1,9 +1,13 @@
 ---
 slug: cambridge-rowing-coach-lectures-on-value-of-brand
-title: "Cambridge rowing coach lectures on value of brand"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/ED0509/S00010/cambridge-rowing-coach-lectures-on-value-of-brand.htm
+title: Cambridge rowing coach lectures on value of brand
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00010/cambridge-rowing-coach-lectures-on-value-of-brand.htm
 author: lincoln-university
+permalink: >-
+  /archive/2005/09/05/cambridge-rowing-coach-lectures-on-value-of-brand/index.html
+layout: layout.njk
 ---
 Cambridge rowing coach lectures on value of brand
 =================================================

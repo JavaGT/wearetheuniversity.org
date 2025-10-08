@@ -1,9 +1,12 @@
 ---
 slug: all-kids-deserve-qualified-teachers
-title: "All kids deserve qualified teachers"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PA1305/S00559/all-kids-deserve-qualified-teachers.htm
+title: All kids deserve qualified teachers
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00559/all-kids-deserve-qualified-teachers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/28/all-kids-deserve-qualified-teachers/index.html
+layout: layout.njk
 ---
 All kids deserve qualified teachers
 ===================================

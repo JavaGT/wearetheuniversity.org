@@ -1,9 +1,13 @@
 ---
 slug: prehistoric-demise-of-chathams-sea-lion-a-stark-warning
-title: "Prehistoric demise of Chathams sea lion a stark warning"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/SC1607/S00029/prehistoric-demise-of-chathams-sea-lion-a-stark-warning.htm
+title: Prehistoric demise of Chathams sea lion a stark warning
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00029/prehistoric-demise-of-chathams-sea-lion-a-stark-warning.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/11/prehistoric-demise-of-chathams-sea-lion-a-stark-warning/index.html
+layout: layout.njk
 ---
 Prehistoric demise of Chathams sea lion a stark warning
 =======================================================

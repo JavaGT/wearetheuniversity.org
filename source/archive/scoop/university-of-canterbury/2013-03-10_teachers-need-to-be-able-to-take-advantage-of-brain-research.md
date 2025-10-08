@@ -1,9 +1,13 @@
 ---
 slug: teachers-need-to-be-able-to-take-advantage-of-brain-research
-title: "Teachers need to be able to take advantage of brain research"
-date: 2013-03-10
-source-url: https://www.scoop.co.nz/stories/ED1303/S00061/teachers-need-to-be-able-to-take-advantage-of-brain-research.htm
+title: Teachers need to be able to take advantage of brain research
+date: 2013-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00061/teachers-need-to-be-able-to-take-advantage-of-brain-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/10/teachers-need-to-be-able-to-take-advantage-of-brain-research/index.html
+layout: layout.njk
 ---
 Teachers need to be able to take advantage of brain research
 ============================================================

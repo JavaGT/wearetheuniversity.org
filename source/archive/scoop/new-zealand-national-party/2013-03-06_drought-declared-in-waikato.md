@@ -1,9 +1,11 @@
 ---
 slug: drought-declared-in-waikato
-title: "Drought declared in Waikato"
-date: 2013-03-06
+title: Drought declared in Waikato
+date: 2013-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1303/S00076/drought-declared-in-waikato.htm
 author: new-zealand-national-party
+permalink: /archive/2013/03/06/drought-declared-in-waikato/index.html
+layout: layout.njk
 ---
 Drought declared in Waikato
 ===========================

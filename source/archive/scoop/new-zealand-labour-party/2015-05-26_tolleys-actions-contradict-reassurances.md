@@ -1,9 +1,12 @@
 ---
 slug: tolleys-actions-contradict-reassurances
-title: "Tolley’s actions contradict reassurances"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/PA1505/S00464/tolleys-actions-contradict-reassurances.htm
+title: Tolley’s actions contradict reassurances
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00464/tolleys-actions-contradict-reassurances.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/26/tolleys-actions-contradict-reassurances/index.html
+layout: layout.njk
 ---
 Tolley’s actions contradict reassurances
 ========================================

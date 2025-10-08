@@ -1,9 +1,13 @@
 ---
 slug: website-puts-your-questions-to-political-parties
-title: "Website puts your questions to political parties"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/ED1408/S00017/website-puts-your-questions-to-political-parties.htm
+title: Website puts your questions to political parties
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00017/website-puts-your-questions-to-political-parties.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/05/website-puts-your-questions-to-political-parties/index.html
+layout: layout.njk
 ---
 Website puts your questions to political parties
 ================================================

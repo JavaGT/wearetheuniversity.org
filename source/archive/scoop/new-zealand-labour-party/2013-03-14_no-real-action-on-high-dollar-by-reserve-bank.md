@@ -1,9 +1,12 @@
 ---
 slug: no-real-action-on-high-dollar-by-reserve-bank
-title: "No real action on high dollar by Reserve Bank"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/PA1303/S00238/no-real-action-on-high-dollar-by-reserve-bank.htm
+title: No real action on high dollar by Reserve Bank
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00238/no-real-action-on-high-dollar-by-reserve-bank.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/14/no-real-action-on-high-dollar-by-reserve-bank/index.html
+layout: layout.njk
 ---
 No real action on high dollar by Reserve Bank
 =============================================

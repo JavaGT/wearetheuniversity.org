@@ -1,9 +1,12 @@
 ---
 slug: no-confidence-in-mahareys-cyfs-promises-act
-title: "No Confidence In Maharey's CYFS Promises - ACT"
-date: 2000-01-13
-source-url: https://www.scoop.co.nz/stories/PA0001/S00021/no-confidence-in-mahareys-cyfs-promises-act.htm
+title: No Confidence In Maharey's CYFS Promises - ACT
+date: 2000-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00021/no-confidence-in-mahareys-cyfs-promises-act.htm
 author: act-new-zealand
+permalink: /archive/2000/01/13/no-confidence-in-mahareys-cyfs-promises-act/index.html
+layout: layout.njk
 ---
 No Confidence In Maharey's CYFS Promises - ACT
 ==============================================

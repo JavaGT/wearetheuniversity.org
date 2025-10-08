@@ -1,9 +1,12 @@
 ---
 slug: mps-welcome-west-coasts-new-great-walk
-title: "MPs welcome West Coast’s new Great Walk"
-date: 2019-11-30
-source-url: https://www.scoop.co.nz/stories/PA1911/S00250/mps-welcome-west-coasts-new-great-walk.htm
+title: MPs welcome West Coast’s new Great Walk
+date: 2019-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00250/mps-welcome-west-coasts-new-great-walk.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/30/mps-welcome-west-coasts-new-great-walk/index.html
+layout: layout.njk
 ---
 MPs welcome West Coast’s new Great Walk
 =======================================

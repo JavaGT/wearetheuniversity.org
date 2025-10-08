@@ -1,9 +1,12 @@
 ---
 slug: university-to-play-key-role-in-new-māori-working-panel
-title: "University to play key role in new Māori working panel"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/PO1211/S00288/university-to-play-key-role-in-new-maori-working-panel.htm
+title: University to play key role in new Māori working panel
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00288/university-to-play-key-role-in-new-maori-working-panel.htm
 author: university-of-waikato
+permalink: /archive/2012/11/20/university-to-play-key-role-in-new-m/index.html
+layout: layout.njk
 ---
 University to play key role in new Māori working panel
 ======================================================

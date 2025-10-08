@@ -1,9 +1,12 @@
 ---
 slug: research-shines-light-on-mediation-market
-title: "Research shines light on mediation market"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/BU1508/S00541/research-shines-light-on-mediation-market.htm
+title: Research shines light on mediation market
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1508/S00541/research-shines-light-on-mediation-market.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/08/17/research-shines-light-on-mediation-market/index.html
+layout: layout.njk
 ---
 Research shines light on mediation market
 =========================================

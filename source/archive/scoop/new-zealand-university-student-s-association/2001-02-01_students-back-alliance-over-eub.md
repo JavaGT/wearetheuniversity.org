@@ -1,9 +1,12 @@
 ---
 slug: students-back-alliance-over-eub
-title: "Students Back Alliance Over EUB"
-date: 2001-02-01
-source-url: https://www.scoop.co.nz/stories/ED0102/S00002/students-back-alliance-over-eub.htm
+title: Students Back Alliance Over EUB
+date: 2001-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00002/students-back-alliance-over-eub.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/02/01/students-back-alliance-over-eub/index.html
+layout: layout.njk
 ---
 Students Back Alliance Over EUB
 ===============================

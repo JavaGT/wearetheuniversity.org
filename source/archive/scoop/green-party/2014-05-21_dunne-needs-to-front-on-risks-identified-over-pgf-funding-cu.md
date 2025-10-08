@@ -1,9 +1,13 @@
 ---
 slug: dunne-needs-to-front-on-risks-identified-over-pgf-funding-cu
-title: "Dunne needs to front on risks identified over PGF funding cu"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/PA1405/S00404/dunne-needs-to-front-on-risks-identified-over-pgf-funding-cu.htm
+title: Dunne needs to front on risks identified over PGF funding cu
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00404/dunne-needs-to-front-on-risks-identified-over-pgf-funding-cu.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/21/dunne-needs-to-front-on-risks-identified-over-pgf-funding-cu/index.html
+layout: layout.njk
 ---
 Dunne needs to front on risks identified over PGF funding cu
 ============================================================

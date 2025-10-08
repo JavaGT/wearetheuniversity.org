@@ -1,9 +1,13 @@
 ---
 slug: shapshifter-shihad-and-david-dallas-to-headline-at-ousa
-title: "Shapshifter, Shihad and David Dallas to headline at OUSA"
-date: 2012-01-09
-source-url: https://www.scoop.co.nz/stories/CU1201/S00052/shapshifter-shihad-and-david-dallas-to-headline-at-ousa.htm
+title: Shapshifter, Shihad and David Dallas to headline at OUSA
+date: 2012-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1201/S00052/shapshifter-shihad-and-david-dallas-to-headline-at-ousa.htm
 author: ousa
+permalink: >-
+  /archive/2012/01/09/shapshifter-shihad-and-david-dallas-to-headline-at-ousa/index.html
+layout: layout.njk
 ---
 Shapshifter, Shihad and David Dallas to headline at OUSA
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: how-are-sexual-minority-students-doing-in-new-zealand
-title: "How are sexual minority students doing in New Zealand?"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/ED1412/S00001/how-are-sexual-minority-students-doing-in-new-zealand.htm
+title: How are sexual minority students doing in New Zealand?
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00001/how-are-sexual-minority-students-doing-in-new-zealand.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/12/01/how-are-sexual-minority-students-doing-in-new-zealand/index.html
+layout: layout.njk
 ---
 How are sexual minority students doing in New Zealand?
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzs-unique-research-impresses-key
-title: "NZ’s ‘unique research’ impresses Key"
-date: 2008-03-11
-source-url: https://www.scoop.co.nz/stories/ED0803/S00021/nzs-unique-research-impresses-key.htm
+title: NZ’s ‘unique research’ impresses Key
+date: 2008-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00021/nzs-unique-research-impresses-key.htm
 author: lincoln-university
+permalink: /archive/2008/03/11/nzs-unique-research-impresses-key/index.html
+layout: layout.njk
 ---
 NZ’s ‘unique research’ impresses Key
 ====================================

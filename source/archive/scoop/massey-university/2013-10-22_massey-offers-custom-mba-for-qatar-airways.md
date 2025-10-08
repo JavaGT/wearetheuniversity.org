@@ -1,9 +1,12 @@
 ---
 slug: massey-offers-custom-mba-for-qatar-airways
-title: "Massey offers custom MBA for Qatar Airways"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/ED1310/S00141/massey-offers-custom-mba-for-qatar-airways.htm
+title: Massey offers custom MBA for Qatar Airways
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00141/massey-offers-custom-mba-for-qatar-airways.htm
 author: massey-university
+permalink: /archive/2013/10/22/massey-offers-custom-mba-for-qatar-airways/index.html
+layout: layout.njk
 ---
 Massey offers custom MBA for Qatar Airways
 ==========================================

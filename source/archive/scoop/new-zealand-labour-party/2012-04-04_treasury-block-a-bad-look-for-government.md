@@ -1,9 +1,12 @@
 ---
 slug: treasury-block-a-bad-look-for-government
-title: "Treasury block a bad look for Government"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/PA1204/S00058/treasury-block-a-bad-look-for-government.htm
+title: Treasury block a bad look for Government
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00058/treasury-block-a-bad-look-for-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/04/treasury-block-a-bad-look-for-government/index.html
+layout: layout.njk
 ---
 Treasury block a bad look for Government
 ========================================

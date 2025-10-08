@@ -1,9 +1,12 @@
 ---
 slug: the-budget-and-fiscal-irresponsibility
-title: "The Budget and Fiscal Irresponsibility"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/PA0505/S00650/the-budget-and-fiscal-irresponsibility.htm
+title: The Budget and Fiscal Irresponsibility
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00650/the-budget-and-fiscal-irresponsibility.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/25/the-budget-and-fiscal-irresponsibility/index.html
+layout: layout.njk
 ---
 The Budget and Fiscal Irresponsibility
 ======================================

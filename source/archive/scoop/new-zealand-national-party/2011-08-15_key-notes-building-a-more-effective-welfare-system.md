@@ -1,9 +1,13 @@
 ---
 slug: key-notes-building-a-more-effective-welfare-system
-title: "Key Notes: Building A More Effective Welfare System"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PA1108/S00296/key-notes-building-a-more-effective-welfare-system.htm
+title: 'Key Notes: Building A More Effective Welfare System'
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00296/key-notes-building-a-more-effective-welfare-system.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/08/15/key-notes-building-a-more-effective-welfare-system/index.html
+layout: layout.njk
 ---
 Key Notes: Building A More Effective Welfare System
 ===================================================

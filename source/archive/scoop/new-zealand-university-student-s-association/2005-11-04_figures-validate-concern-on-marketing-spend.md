@@ -1,9 +1,12 @@
 ---
 slug: figures-validate-concern-on-marketing-spend
-title: "Figures validate concern on marketing spend"
-date: 2005-11-04
-source-url: https://www.scoop.co.nz/stories/ED0511/S00022/figures-validate-concern-on-marketing-spend.htm
+title: Figures validate concern on marketing spend
+date: 2005-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00022/figures-validate-concern-on-marketing-spend.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/11/04/figures-validate-concern-on-marketing-spend/index.html
+layout: layout.njk
 ---
 Figures validate concern on marketing spend
 ===========================================

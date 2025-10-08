@@ -1,9 +1,12 @@
 ---
 slug: students-to-stand-in-solidarity-with-burma
-title: "Students to stand in solidarity with Burma"
-date: 2007-09-28
-source-url: https://www.scoop.co.nz/stories/ED0709/S00093/students-to-stand-in-solidarity-with-burma.htm
+title: Students to stand in solidarity with Burma
+date: 2007-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00093/students-to-stand-in-solidarity-with-burma.htm
 author: auckland-university-students-association
+permalink: /archive/2007/09/28/students-to-stand-in-solidarity-with-burma/index.html
+layout: layout.njk
 ---
 Students to stand in solidarity with Burma
 ==========================================

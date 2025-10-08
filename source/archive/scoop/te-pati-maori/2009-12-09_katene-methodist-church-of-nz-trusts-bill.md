@@ -1,9 +1,12 @@
 ---
 slug: katene-methodist-church-of-nz-trusts-bill
-title: "Katene: Methodist Church of NZ Trusts Bill"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/PA0912/S00137/katene-methodist-church-of-nz-trusts-bill.htm
+title: 'Katene: Methodist Church of NZ Trusts Bill'
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00137/katene-methodist-church-of-nz-trusts-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/12/09/katene-methodist-church-of-nz-trusts-bill/index.html
+layout: layout.njk
 ---
 Katene: Methodist Church of NZ Trusts Bill
 ==========================================

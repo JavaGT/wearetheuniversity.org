@@ -1,9 +1,12 @@
 ---
 slug: government-inaction-deepens-student-debt-crisis
-title: "Government inaction deepens student debt crisis"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/PA0708/S00129/government-inaction-deepens-student-debt-crisis.htm
+title: Government inaction deepens student debt crisis
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00129/government-inaction-deepens-student-debt-crisis.htm
 author: green-party
+permalink: /archive/2007/08/08/government-inaction-deepens-student-debt-crisis/index.html
+layout: layout.njk
 ---
 Government inaction deepens student debt crisis
 ===============================================

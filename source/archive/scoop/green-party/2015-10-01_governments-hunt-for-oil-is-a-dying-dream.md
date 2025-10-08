@@ -1,9 +1,12 @@
 ---
 slug: governments-hunt-for-oil-is-a-dying-dream
-title: "Government’s hunt for oil is a dying dream"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/PA1510/S00010/governments-hunt-for-oil-is-a-dying-dream.htm
+title: Government’s hunt for oil is a dying dream
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00010/governments-hunt-for-oil-is-a-dying-dream.htm
 author: green-party
+permalink: /archive/2015/10/01/governments-hunt-for-oil-is-a-dying-dream/index.html
+layout: layout.njk
 ---
 Government’s hunt for oil is a dying dream
 ==========================================

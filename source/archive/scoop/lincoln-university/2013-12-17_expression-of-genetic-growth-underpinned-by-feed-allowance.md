@@ -1,9 +1,13 @@
 ---
 slug: expression-of-genetic-growth-underpinned-by-feed-allowance
-title: "Expression of genetic growth underpinned by feed allowance"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/SC1312/S00044/expression-of-genetic-growth-underpinned-by-feed-allowance.htm
+title: Expression of genetic growth underpinned by feed allowance
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00044/expression-of-genetic-growth-underpinned-by-feed-allowance.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/12/17/expression-of-genetic-growth-underpinned-by-feed-allowance/index.html
+layout: layout.njk
 ---
 Expression of genetic growth underpinned by feed allowance
 ==========================================================

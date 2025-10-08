@@ -1,9 +1,12 @@
 ---
 slug: pacific-languages-recognised-under-labour
-title: "Pacific languages recognised under Labour"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PA1408/S00455/pacific-languages-recognised-under-labour.htm
+title: Pacific languages recognised under Labour
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00455/pacific-languages-recognised-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/29/pacific-languages-recognised-under-labour/index.html
+layout: layout.njk
 ---
 Pacific languages recognised under Labour
 =========================================

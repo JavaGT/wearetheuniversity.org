@@ -1,9 +1,12 @@
 ---
 slug: green-conference-asks-labour-to-listen
-title: "Green conference asks Labour to listen"
-date: 2003-06-03
-source-url: https://www.scoop.co.nz/stories/PA0306/S00001/green-conference-asks-labour-to-listen.htm
+title: Green conference asks Labour to listen
+date: 2003-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00001/green-conference-asks-labour-to-listen.htm
 author: green-party
+permalink: /archive/2003/06/03/green-conference-asks-labour-to-listen/index.html
+layout: layout.njk
 ---
 Green conference asks Labour to listen
 ======================================

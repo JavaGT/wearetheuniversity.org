@@ -1,9 +1,12 @@
 ---
 slug: student-explores-chatham-islands-tsunami-risk
-title: "Student explores Chatham Islands tsunami risk"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/SC1708/S00036/student-explores-chatham-islands-tsunami-risk.htm
+title: Student explores Chatham Islands tsunami risk
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00036/student-explores-chatham-islands-tsunami-risk.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/18/student-explores-chatham-islands-tsunami-risk/index.html
+layout: layout.njk
 ---
 Student explores Chatham Islands tsunami risk
 =============================================

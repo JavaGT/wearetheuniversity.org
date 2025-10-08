@@ -1,9 +1,12 @@
 ---
 slug: government-inflicted-student-poverty
-title: "Government Inflicted Student Poverty"
-date: 1999-06-22
-source-url: https://www.scoop.co.nz/stories/ED9906/S00004/government-inflicted-student-poverty.htm
+title: Government Inflicted Student Poverty
+date: 1999-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9906/S00004/government-inflicted-student-poverty.htm
 author: victoria-university-students-association
+permalink: /archive/1999/06/22/government-inflicted-student-poverty/index.html
+layout: layout.njk
 ---
 Government Inflicted Student Poverty
 ====================================

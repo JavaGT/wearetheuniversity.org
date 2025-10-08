@@ -1,9 +1,13 @@
 ---
 slug: sustainability-heart-of-winning-business-proposal
-title: "Sustainability heart of winning business proposal"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/ED0705/S00052/sustainability-heart-of-winning-business-proposal.htm
+title: Sustainability heart of winning business proposal
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00052/sustainability-heart-of-winning-business-proposal.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/11/sustainability-heart-of-winning-business-proposal/index.html
+layout: layout.njk
 ---
 Sustainability heart of winning business proposal
 =================================================

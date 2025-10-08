@@ -1,9 +1,13 @@
 ---
 slug: new-pro-chancellor-appointed-at-the-university-of-canterbury
-title: "New Pro-Chancellor Appointed At The University Of Canterbury"
-date: 2022-03-02
-source-url: https://www.scoop.co.nz/stories/ED2203/S00005/new-pro-chancellor-appointed-at-the-university-of-canterbury.htm
+title: New Pro-Chancellor Appointed At The University Of Canterbury
+date: 2022-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00005/new-pro-chancellor-appointed-at-the-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/02/new-pro-chancellor-appointed-at-the-university-of-canterbury/index.html
+layout: layout.njk
 ---
 New Pro-Chancellor Appointed At The University Of Canterbury
 ============================================================

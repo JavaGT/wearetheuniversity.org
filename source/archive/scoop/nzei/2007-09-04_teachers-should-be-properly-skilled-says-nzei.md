@@ -1,9 +1,12 @@
 ---
 slug: teachers-should-be-properly-skilled-says-nzei
-title: "Teachers Should be Properly Skilled, says NZEI"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/ED0709/S00012/teachers-should-be-properly-skilled-says-nzei.htm
+title: Teachers Should be Properly Skilled, says NZEI
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00012/teachers-should-be-properly-skilled-says-nzei.htm
 author: nzei
+permalink: /archive/2007/09/04/teachers-should-be-properly-skilled-says-nzei/index.html
+layout: layout.njk
 ---
 Teachers Should be Properly Skilled, says NZEI
 ==============================================

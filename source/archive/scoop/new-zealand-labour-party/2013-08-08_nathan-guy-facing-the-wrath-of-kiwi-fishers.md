@@ -1,9 +1,12 @@
 ---
 slug: nathan-guy-facing-the-wrath-of-kiwi-fishers
-title: "Nathan Guy facing the wrath of Kiwi fishers"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/PA1308/S00150/nathan-guy-facing-the-wrath-of-kiwi-fishers.htm
+title: Nathan Guy facing the wrath of Kiwi fishers
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00150/nathan-guy-facing-the-wrath-of-kiwi-fishers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/08/nathan-guy-facing-the-wrath-of-kiwi-fishers/index.html
+layout: layout.njk
 ---
 Nathan Guy facing the wrath of Kiwi fishers
 ===========================================

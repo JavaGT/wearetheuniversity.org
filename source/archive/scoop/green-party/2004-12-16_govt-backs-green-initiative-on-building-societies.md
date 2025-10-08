@@ -1,9 +1,13 @@
 ---
 slug: govt-backs-green-initiative-on-building-societies
-title: "Govt backs Green initiative on building societies"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/PA0412/S00422/govt-backs-green-initiative-on-building-societies.htm
+title: Govt backs Green initiative on building societies
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00422/govt-backs-green-initiative-on-building-societies.htm
 author: green-party
+permalink: >-
+  /archive/2004/12/16/govt-backs-green-initiative-on-building-societies/index.html
+layout: layout.njk
 ---
 Govt backs Green initiative on building societies
 =================================================

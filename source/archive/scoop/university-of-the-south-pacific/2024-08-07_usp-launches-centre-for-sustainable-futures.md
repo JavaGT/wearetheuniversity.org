@@ -1,9 +1,12 @@
 ---
 slug: usp-launches-centre-for-sustainable-futures
-title: "USP Launches Centre For Sustainable Futures"
-date: 2024-08-07
-source-url: https://www.scoop.co.nz/stories/AK2408/S00141/usp-launches-centre-for-sustainable-futures.htm
+title: USP Launches Centre For Sustainable Futures
+date: 2024-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2408/S00141/usp-launches-centre-for-sustainable-futures.htm
 author: university-of-the-south-pacific
+permalink: /archive/2024/08/07/usp-launches-centre-for-sustainable-futures/index.html
+layout: layout.njk
 ---
 USP Launches Centre For Sustainable Futures
 ===========================================

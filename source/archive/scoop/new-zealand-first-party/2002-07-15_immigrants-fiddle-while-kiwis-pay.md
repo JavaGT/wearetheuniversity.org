@@ -1,9 +1,12 @@
 ---
 slug: immigrants-fiddle-while-kiwis-pay
-title: "\"Immigrants fiddle while Kiwis pay\""
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00388/immigrants-fiddle-while-kiwis-pay.htm
+title: '"Immigrants fiddle while Kiwis pay"'
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00388/immigrants-fiddle-while-kiwis-pay.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/15/immigrants-fiddle-while-kiwis-pay/index.html
+layout: layout.njk
 ---
 “Immigrants fiddle while Kiwis pay”
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: southern-young-nats-write-to-ousa
-title: "Southern Young Nats Write To OUSA"
-date: 2000-05-14
-source-url: https://www.scoop.co.nz/stories/ED0005/S00020/southern-young-nats-write-to-ousa.htm
+title: Southern Young Nats Write To OUSA
+date: 2000-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00020/southern-young-nats-write-to-ousa.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/05/14/southern-young-nats-write-to-ousa/index.html
+layout: layout.njk
 ---
 Southern Young Nats Write To OUSA
 =================================

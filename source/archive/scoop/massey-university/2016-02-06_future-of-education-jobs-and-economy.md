@@ -1,9 +1,12 @@
 ---
 slug: future-of-education-jobs-and-economy
-title: "Future of education, jobs and economy"
-date: 2016-02-06
-source-url: https://www.scoop.co.nz/stories/ED1602/S00029/future-of-education-jobs-and-economy.htm
+title: Future of education, jobs and economy
+date: 2016-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00029/future-of-education-jobs-and-economy.htm
 author: massey-university
+permalink: /archive/2016/02/06/future-of-education-jobs-and-economy/index.html
+layout: layout.njk
 ---
 Future of education, jobs and economy
 =====================================

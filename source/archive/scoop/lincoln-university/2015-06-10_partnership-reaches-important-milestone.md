@@ -1,9 +1,12 @@
 ---
 slug: partnership-reaches-important-milestone
-title: "Partnership reaches ‘important milestone’"
-date: 2015-06-10
-source-url: https://www.scoop.co.nz/stories/BU1506/S00347/partnership-reaches-important-milestone.htm
+title: Partnership reaches ‘important milestone’
+date: 2015-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00347/partnership-reaches-important-milestone.htm
 author: lincoln-university
+permalink: /archive/2015/06/10/partnership-reaches-important-milestone/index.html
+layout: layout.njk
 ---
 Partnership reaches ‘important milestone’
 =========================================

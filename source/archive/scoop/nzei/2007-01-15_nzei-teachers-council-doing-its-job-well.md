@@ -1,9 +1,12 @@
 ---
 slug: nzei-teachers-council-doing-its-job-well
-title: "NZEI: Teachers Council Doing Its Job Well"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/PO0701/S00041/nzei-teachers-council-doing-its-job-well.htm
+title: 'NZEI: Teachers Council Doing Its Job Well'
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0701/S00041/nzei-teachers-council-doing-its-job-well.htm
 author: nzei
+permalink: /archive/2007/01/15/nzei-teachers-council-doing-its-job-well/index.html
+layout: layout.njk
 ---
 NZEI: Teachers Council Doing Its Job Well
 =========================================

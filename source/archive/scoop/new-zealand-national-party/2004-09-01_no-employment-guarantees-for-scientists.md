@@ -1,9 +1,12 @@
 ---
 slug: no-employment-guarantees-for-scientists
-title: "No employment guarantees for scientists"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/PA0409/S00017/no-employment-guarantees-for-scientists.htm
+title: No employment guarantees for scientists
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00017/no-employment-guarantees-for-scientists.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/01/no-employment-guarantees-for-scientists/index.html
+layout: layout.njk
 ---
 No employment guarantees for scientists
 =======================================

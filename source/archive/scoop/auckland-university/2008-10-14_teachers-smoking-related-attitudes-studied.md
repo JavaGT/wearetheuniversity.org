@@ -1,9 +1,12 @@
 ---
 slug: teachers-smoking-related-attitudes-studied
-title: "Teacher’s smoking-related attitudes studied"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/AK0810/S00155/teachers-smoking-related-attitudes-studied.htm
+title: Teacher’s smoking-related attitudes studied
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0810/S00155/teachers-smoking-related-attitudes-studied.htm
 author: auckland-university
+permalink: /archive/2008/10/14/teachers-smoking-related-attitudes-studied/index.html
+layout: layout.njk
 ---
 Teacher’s smoking-related attitudes studied
 ===========================================

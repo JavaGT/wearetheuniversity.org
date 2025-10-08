@@ -1,9 +1,13 @@
 ---
 slug: number-of-contaminants-in-marine-ecosystems-a-concern
-title: "Number of contaminants in marine ecosystems a concern"
-date: 2013-10-17
-source-url: https://www.scoop.co.nz/stories/AK1310/S00678/number-of-contaminants-in-marine-ecosystems-a-concern.htm
+title: Number of contaminants in marine ecosystems a concern
+date: 2013-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00678/number-of-contaminants-in-marine-ecosystems-a-concern.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/17/number-of-contaminants-in-marine-ecosystems-a-concern/index.html
+layout: layout.njk
 ---
 Number of contaminants in marine ecosystems a concern
 =====================================================

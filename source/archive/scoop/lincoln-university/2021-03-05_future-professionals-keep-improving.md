@@ -1,9 +1,12 @@
 ---
 slug: future-professionals-keep-improving
-title: "Future Professionals Keep Improving"
-date: 2021-03-05
-source-url: https://www.scoop.co.nz/stories/ED2103/S00010/future-professionals-keep-improving.htm
+title: Future Professionals Keep Improving
+date: 2021-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00010/future-professionals-keep-improving.htm
 author: lincoln-university
+permalink: /archive/2021/03/05/future-professionals-keep-improving/index.html
+layout: layout.njk
 ---
 Future Professionals Keep Improving
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: chaos-created-by-90-percent-target
-title: "Chaos created by 90 percent target"
-date: 2021-09-17
-source-url: https://www.scoop.co.nz/stories/PA2109/S00162/chaos-created-by-90-percent-target.htm
+title: Chaos created by 90 percent target
+date: 2021-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00162/chaos-created-by-90-percent-target.htm
 author: act-new-zealand
+permalink: /archive/2021/09/17/chaos-created-by-90-percent-target/index.html
+layout: layout.njk
 ---
 Chaos created by 90 percent target
 ==================================

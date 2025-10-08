@@ -1,9 +1,12 @@
 ---
 slug: you-are-uc-press-release-24-april-2012
-title: "'You Are UC' Press Release - 24 April 2012"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/ED1204/S00092/you-are-uc-press-release-24-april-2012.htm
+title: '''You Are UC'' Press Release - 24 April 2012'
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00092/you-are-uc-press-release-24-april-2012.htm
 author: you-are-uc
+permalink: /archive/2012/04/24/you-are-uc-press-release-24-april-2012/index.html
+layout: layout.njk
 ---
 'You Are UC' Press Release - 24 April 2012
 ==========================================

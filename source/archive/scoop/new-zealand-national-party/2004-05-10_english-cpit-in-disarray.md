@@ -1,9 +1,11 @@
 ---
 slug: english-cpit-in-disarray
-title: "English: CPIT in disarray"
-date: 2004-05-10
+title: 'English: CPIT in disarray'
+date: 2004-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00160/english-cpit-in-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/10/english-cpit-in-disarray/index.html
+layout: layout.njk
 ---
 English: CPIT in disarray
 =========================

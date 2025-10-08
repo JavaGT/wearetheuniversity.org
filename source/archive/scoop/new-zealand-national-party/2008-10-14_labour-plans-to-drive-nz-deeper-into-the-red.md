@@ -1,9 +1,12 @@
 ---
 slug: labour-plans-to-drive-nz-deeper-into-the-red
-title: "Labour plans to drive NZ deeper into the red"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00293/labour-plans-to-drive-nz-deeper-into-the-red.htm
+title: Labour plans to drive NZ deeper into the red
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00293/labour-plans-to-drive-nz-deeper-into-the-red.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/14/labour-plans-to-drive-nz-deeper-into-the-red/index.html
+layout: layout.njk
 ---
 Labour plans to drive NZ deeper into the red
 ============================================

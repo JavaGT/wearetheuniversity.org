@@ -1,9 +1,12 @@
 ---
 slug: teac-delivers-nightmare-scenario-for-students
-title: "TEAC delivers nightmare scenario for students"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/ED0111/S00014/teac-delivers-nightmare-scenario-for-students.htm
+title: TEAC delivers nightmare scenario for students
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00014/teac-delivers-nightmare-scenario-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/11/07/teac-delivers-nightmare-scenario-for-students/index.html
+layout: layout.njk
 ---
 TEAC delivers nightmare scenario for students
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: creative-campus-on-show-at-open-day
-title: "Creative campus on show at open day"
-date: 2008-08-22
-source-url: https://www.scoop.co.nz/stories/ED0808/S00062/creative-campus-on-show-at-open-day.htm
+title: Creative campus on show at open day
+date: 2008-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00062/creative-campus-on-show-at-open-day.htm
 author: massey-university
+permalink: /archive/2008/08/22/creative-campus-on-show-at-open-day/index.html
+layout: layout.njk
 ---
 Creative campus on show at open day
 ===================================

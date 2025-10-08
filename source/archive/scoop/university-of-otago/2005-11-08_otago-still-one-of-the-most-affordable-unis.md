@@ -1,9 +1,12 @@
 ---
 slug: otago-still-one-of-the-most-affordable-unis
-title: "Otago Still One Of The Most Affordable Uni's"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/ED0511/S00035/otago-still-one-of-the-most-affordable-unis.htm
+title: Otago Still One Of The Most Affordable Uni's
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00035/otago-still-one-of-the-most-affordable-unis.htm
 author: university-of-otago
+permalink: /archive/2005/11/08/otago-still-one-of-the-most-affordable-unis/index.html
+layout: layout.njk
 ---
 Otago Still One Of The Most Affordable Uni's
 ============================================

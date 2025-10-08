@@ -1,9 +1,13 @@
 ---
 slug: student-visa-fraud-exposes-flaws-in-export-education-system
-title: "Student visa fraud exposes flaws in export education system"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/PA1207/S00140/student-visa-fraud-exposes-flaws-in-export-education-system.htm
+title: Student visa fraud exposes flaws in export education system
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00140/student-visa-fraud-exposes-flaws-in-export-education-system.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/11/student-visa-fraud-exposes-flaws-in-export-education-system/index.html
+layout: layout.njk
 ---
 Student visa fraud exposes flaws in export education system
 ===========================================================

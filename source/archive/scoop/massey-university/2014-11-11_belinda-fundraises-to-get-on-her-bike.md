@@ -1,9 +1,12 @@
 ---
 slug: belinda-fundraises-to-get-on-her-bike
-title: "Belinda fundraises to get on her bike"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/ED1411/S00069/belinda-fundraises-to-get-on-her-bike.htm
+title: Belinda fundraises to get on her bike
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00069/belinda-fundraises-to-get-on-her-bike.htm
 author: massey-university
+permalink: /archive/2014/11/11/belinda-fundraises-to-get-on-her-bike/index.html
+layout: layout.njk
 ---
 Belinda fundraises to get on her bike
 =====================================

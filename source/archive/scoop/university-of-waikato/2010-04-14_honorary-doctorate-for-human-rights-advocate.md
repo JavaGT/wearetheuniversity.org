@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-human-rights-advocate
-title: "Honorary doctorate for human rights advocate"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/ED1004/S00026/honorary-doctorate-for-human-rights-advocate.htm
+title: Honorary doctorate for human rights advocate
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00026/honorary-doctorate-for-human-rights-advocate.htm
 author: university-of-waikato
+permalink: /archive/2010/04/14/honorary-doctorate-for-human-rights-advocate/index.html
+layout: layout.njk
 ---
 Honorary doctorate for human rights advocate
 ============================================

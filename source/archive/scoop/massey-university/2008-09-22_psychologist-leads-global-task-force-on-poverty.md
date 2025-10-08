@@ -1,9 +1,12 @@
 ---
 slug: psychologist-leads-global-task-force-on-poverty
-title: "Psychologist leads global task force on poverty"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/ED0809/S00062/psychologist-leads-global-task-force-on-poverty.htm
+title: Psychologist leads global task force on poverty
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00062/psychologist-leads-global-task-force-on-poverty.htm
 author: massey-university
+permalink: /archive/2008/09/22/psychologist-leads-global-task-force-on-poverty/index.html
+layout: layout.njk
 ---
 Psychologist leads global task force on poverty
 ===============================================

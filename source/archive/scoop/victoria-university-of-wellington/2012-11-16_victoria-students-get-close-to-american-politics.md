@@ -1,9 +1,13 @@
 ---
 slug: victoria-students-get-close-to-american-politics
-title: "Victoria students get close to American politics"
-date: 2012-11-16
-source-url: https://www.scoop.co.nz/stories/ED1211/S00120/victoria-students-get-close-to-american-politics.htm
+title: Victoria students get close to American politics
+date: 2012-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00120/victoria-students-get-close-to-american-politics.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/11/16/victoria-students-get-close-to-american-politics/index.html
+layout: layout.njk
 ---
 Victoria students get close to American politics
 ================================================

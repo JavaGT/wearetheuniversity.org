@@ -1,9 +1,13 @@
 ---
 slug: ask-what-schools-really-think-about-national-standards
-title: "Ask what schools really think about National Standards"
-date: 2012-03-08
-source-url: https://www.scoop.co.nz/stories/ED1203/S00036/ask-what-schools-really-think-about-national-standards.htm
+title: Ask what schools really think about National Standards
+date: 2012-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00036/ask-what-schools-really-think-about-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2012/03/08/ask-what-schools-really-think-about-national-standards/index.html
+layout: layout.njk
 ---
 Ask what schools really think about National Standards
 ======================================================

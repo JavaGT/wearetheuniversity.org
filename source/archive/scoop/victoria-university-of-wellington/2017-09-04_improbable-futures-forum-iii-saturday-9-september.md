@@ -1,9 +1,13 @@
 ---
 slug: improbable-futures-forum-iii-saturday-9-september
-title: "Improbable Futures Forum III, Saturday 9 September"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/CU1709/S00068/improbable-futures-forum-iii-saturday-9-september.htm
+title: Improbable Futures Forum III, Saturday 9 September
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00068/improbable-futures-forum-iii-saturday-9-september.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/09/04/improbable-futures-forum-iii-saturday-9-september/index.html
+layout: layout.njk
 ---
 Improbable Futures Forum III, Saturday 9 September
 ==================================================

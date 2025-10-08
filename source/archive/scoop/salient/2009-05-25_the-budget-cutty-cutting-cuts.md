@@ -1,9 +1,12 @@
 ---
 slug: the-budget-cutty-cutting-cuts
-title: "The Budget - Cutty Cutting Cuts"
-date: 2009-05-25
-source-url: https://www.scoop.co.nz/stories/ED0905/S00096/the-budget-cutty-cutting-cuts.htm
+title: The Budget - Cutty Cutting Cuts
+date: 2009-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00096/the-budget-cutty-cutting-cuts.htm
 author: salient
+permalink: /archive/2009/05/25/the-budget-cutty-cutting-cuts/index.html
+layout: layout.njk
 ---
 The Budget - Cutty Cutting Cuts
 ===============================

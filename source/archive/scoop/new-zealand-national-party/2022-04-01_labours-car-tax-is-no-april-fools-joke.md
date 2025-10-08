@@ -1,9 +1,12 @@
 ---
 slug: labours-car-tax-is-no-april-fools-joke
-title: "Labour’s Car Tax Is No April Fool’s Joke"
-date: 2022-04-01
-source-url: https://www.scoop.co.nz/stories/PA2204/S00002/labours-car-tax-is-no-april-fools-joke.htm
+title: Labour’s Car Tax Is No April Fool’s Joke
+date: 2022-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00002/labours-car-tax-is-no-april-fools-joke.htm
 author: new-zealand-national-party
+permalink: /archive/2022/04/01/labours-car-tax-is-no-april-fools-joke/index.html
+layout: layout.njk
 ---
 Labour’s Car Tax Is No April Fool’s Joke
 ========================================

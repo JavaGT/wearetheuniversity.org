@@ -1,9 +1,13 @@
 ---
 slug: need-for-graduating-teacher-standards-acknowledged
-title: "Need for Graduating Teacher Standards Acknowledged"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/ED0704/S00077/need-for-graduating-teacher-standards-acknowledged.htm
+title: Need for Graduating Teacher Standards Acknowledged
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00077/need-for-graduating-teacher-standards-acknowledged.htm
 author: nzei
+permalink: >-
+  /archive/2007/04/23/need-for-graduating-teacher-standards-acknowledged/index.html
+layout: layout.njk
 ---
 Need for Graduating Teacher Standards Acknowledged
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-police-and-university-of-canterbury-forging-closer-ties
-title: "NZ Police And University Of Canterbury Forging Closer Ties"
-date: 2022-09-30
-source-url: https://www.scoop.co.nz/stories/ED2209/S00050/nz-police-and-university-of-canterbury-forging-closer-ties.htm
+title: NZ Police And University Of Canterbury Forging Closer Ties
+date: 2022-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00050/nz-police-and-university-of-canterbury-forging-closer-ties.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/30/nz-police-and-university-of-canterbury-forging-closer-ties/index.html
+layout: layout.njk
 ---
 NZ Police And University Of Canterbury Forging Closer Ties
 ==========================================================

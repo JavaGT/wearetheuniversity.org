@@ -1,9 +1,12 @@
 ---
 slug: fees-free-flop-today-polytechnics-tomorrow
-title: "Fees-free flop today - polytechnics tomorrow"
-date: 2019-05-15
-source-url: https://www.scoop.co.nz/stories/PA1905/S00148/fees-free-flop-today-polytechnics-tomorrow.htm
+title: Fees-free flop today - polytechnics tomorrow
+date: 2019-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00148/fees-free-flop-today-polytechnics-tomorrow.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/15/fees-free-flop-today-polytechnics-tomorrow/index.html
+layout: layout.njk
 ---
 Fees-free flop today - polytechnics tomorrow
 ============================================

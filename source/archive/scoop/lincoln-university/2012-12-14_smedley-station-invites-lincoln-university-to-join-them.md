@@ -1,9 +1,13 @@
 ---
 slug: smedley-station-invites-lincoln-university-to-join-them
-title: "Smedley Station invites Lincoln University to join them"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00102/smedley-station-invites-lincoln-university-to-join-them.htm
+title: Smedley Station invites Lincoln University to join them
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00102/smedley-station-invites-lincoln-university-to-join-them.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/12/14/smedley-station-invites-lincoln-university-to-join-them/index.html
+layout: layout.njk
 ---
 Smedley Station invites Lincoln University to join them
 =======================================================

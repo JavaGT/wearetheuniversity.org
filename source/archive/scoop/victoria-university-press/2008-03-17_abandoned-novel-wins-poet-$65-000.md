@@ -1,9 +1,12 @@
 ---
 slug: abandoned-novel-wins-poet-$65-000
-title: "Abandoned Novel wins Poet $65 000"
-date: 2008-03-17
-source-url: https://www.scoop.co.nz/stories/CU0803/S00173/abandoned-novel-wins-poet-65-000.htm
+title: Abandoned Novel wins Poet $65 000
+date: 2008-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0803/S00173/abandoned-novel-wins-poet-65-000.htm
 author: victoria-university-press
+permalink: /archive/2008/03/17/abandoned-novel-wins-poet-/index.html
+layout: layout.njk
 ---
 Abandoned Novel wins Poet $65 000
 =================================

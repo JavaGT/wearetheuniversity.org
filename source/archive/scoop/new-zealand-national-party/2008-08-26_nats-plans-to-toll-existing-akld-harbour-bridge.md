@@ -1,9 +1,12 @@
 ---
 slug: nats-plans-to-toll-existing-akld-harbour-bridge
-title: "Nats plans to toll existing Akld Harbour Bridge"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PA0808/S00394/nats-plans-to-toll-existing-akld-harbour-bridge.htm
+title: Nats plans to toll existing Akld Harbour Bridge
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00394/nats-plans-to-toll-existing-akld-harbour-bridge.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/26/nats-plans-to-toll-existing-akld-harbour-bridge/index.html
+layout: layout.njk
 ---
 Nats plans to toll existing Akld Harbour Bridge
 ===============================================

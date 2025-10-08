@@ -1,9 +1,12 @@
 ---
 slug: tertiary-accountability-measures-long-overdue!
-title: "Tertiary accountability measures long overdue!"
-date: 2000-11-06
-source-url: https://www.scoop.co.nz/stories/ED0011/S00012/tertiary-accountability-measures-long-overdue.htm
+title: Tertiary accountability measures long overdue!
+date: 2000-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00012/tertiary-accountability-measures-long-overdue.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/11/06/tertiary-accountability-measures-long-overdue/index.html
+layout: layout.njk
 ---
 Tertiary accountability measures long overdue!
 ==============================================

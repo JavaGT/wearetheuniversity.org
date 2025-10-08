@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-to-windsor-club
-title: "Peters Speech To Windsor Club"
-date: 1999-09-01
-source-url: https://www.scoop.co.nz/stories/PA9909/S00009/peters-speech-to-windsor-club.htm
+title: Peters Speech To Windsor Club
+date: 1999-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00009/peters-speech-to-windsor-club.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/01/peters-speech-to-windsor-club/index.html
+layout: layout.njk
 ---
 Peters Speech To Windsor Club
 =============================

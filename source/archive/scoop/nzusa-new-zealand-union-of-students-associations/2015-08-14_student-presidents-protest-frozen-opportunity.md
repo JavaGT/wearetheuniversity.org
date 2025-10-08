@@ -1,9 +1,12 @@
 ---
 slug: student-presidents-protest-frozen-opportunity
-title: "Student presidents protest frozen opportunity"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/ED1508/S00069/student-presidents-protest-frozen-opportunity.htm
+title: Student presidents protest frozen opportunity
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00069/student-presidents-protest-frozen-opportunity.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/08/14/student-presidents-protest-frozen-opportunity/index.html
+layout: layout.njk
 ---
 Student presidents protest frozen opportunity
 =============================================

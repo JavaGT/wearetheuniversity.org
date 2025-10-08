@@ -1,9 +1,12 @@
 ---
 slug: ousa-electoral-juggernaut-underway
-title: "OUSA Electoral Juggernaut Underway"
-date: 2007-08-20
-source-url: https://www.scoop.co.nz/stories/ED0708/S00049/ousa-electoral-juggernaut-underway.htm
+title: OUSA Electoral Juggernaut Underway
+date: 2007-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00049/ousa-electoral-juggernaut-underway.htm
 author: otago-university-students-association
+permalink: /archive/2007/08/20/ousa-electoral-juggernaut-underway/index.html
+layout: layout.njk
 ---
 OUSA Electoral Juggernaut Underway
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: national-fails-to-listen-to-mainstream
-title: "National fails to listen to mainstream"
-date: 2010-09-25
-source-url: https://www.scoop.co.nz/stories/PO1009/S00313/national-fails-to-listen-to-mainstream.htm
+title: National fails to listen to mainstream
+date: 2010-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00313/national-fails-to-listen-to-mainstream.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/09/25/national-fails-to-listen-to-mainstream/index.html
+layout: layout.njk
 ---
 National fails to listen to mainstream
 ======================================

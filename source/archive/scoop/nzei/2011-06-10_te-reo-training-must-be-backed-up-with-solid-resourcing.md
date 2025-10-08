@@ -1,9 +1,13 @@
 ---
 slug: te-reo-training-must-be-backed-up-with-solid-resourcing
-title: "Te reo training  must be backed up with solid resourcing"
-date: 2011-06-10
-source-url: https://www.scoop.co.nz/stories/ED1106/S00047/te-reo-training-must-be-backed-up-with-solid-resourcing.htm
+title: Te reo training  must be backed up with solid resourcing
+date: 2011-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00047/te-reo-training-must-be-backed-up-with-solid-resourcing.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/10/te-reo-training-must-be-backed-up-with-solid-resourcing/index.html
+layout: layout.njk
 ---
 Te reo training must be backed up with solid resourcing
 =======================================================

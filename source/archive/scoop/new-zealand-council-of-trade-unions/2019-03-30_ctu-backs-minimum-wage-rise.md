@@ -1,9 +1,11 @@
 ---
 slug: ctu-backs-minimum-wage-rise
-title: "CTU backs minimum wage rise"
-date: 2019-03-30
+title: CTU backs minimum wage rise
+date: 2019-03-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1903/S00317/ctu-backs-minimum-wage-rise.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2019/03/30/ctu-backs-minimum-wage-rise/index.html
+layout: layout.njk
 ---
 CTU backs minimum wage rise
 ===========================

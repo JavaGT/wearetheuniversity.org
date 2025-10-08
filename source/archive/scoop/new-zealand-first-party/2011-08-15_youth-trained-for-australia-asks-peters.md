@@ -1,9 +1,12 @@
 ---
 slug: youth-trained-for-australia-asks-peters
-title: "Youth Trained For Australia? Asks Peters"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PO1108/S00208/youth-trained-for-australia-asks-peters.htm
+title: Youth Trained For Australia? Asks Peters
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00208/youth-trained-for-australia-asks-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2011/08/15/youth-trained-for-australia-asks-peters/index.html
+layout: layout.njk
 ---
 Youth Trained For Australia? Asks Peters
 ========================================

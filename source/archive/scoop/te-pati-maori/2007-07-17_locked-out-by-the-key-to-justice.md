@@ -1,9 +1,12 @@
 ---
 slug: locked-out-by-the-key-to-justice
-title: "Locked Out By The Key To Justice"
-date: 2007-07-17
-source-url: https://www.scoop.co.nz/stories/PA0707/S00254/locked-out-by-the-key-to-justice.htm
+title: Locked Out By The Key To Justice
+date: 2007-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00254/locked-out-by-the-key-to-justice.htm
 author: te-pati-maori
+permalink: /archive/2007/07/17/locked-out-by-the-key-to-justice/index.html
+layout: layout.njk
 ---
 Locked Out By The Key To Justice
 ================================

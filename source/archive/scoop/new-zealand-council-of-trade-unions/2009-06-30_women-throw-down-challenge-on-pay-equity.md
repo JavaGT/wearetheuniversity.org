@@ -1,9 +1,12 @@
 ---
 slug: women-throw-down-challenge-on-pay-equity
-title: "Women throw down challenge on pay equity"
-date: 2009-06-30
-source-url: https://www.scoop.co.nz/stories/PO0906/S00330/women-throw-down-challenge-on-pay-equity.htm
+title: Women throw down challenge on pay equity
+date: 2009-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00330/women-throw-down-challenge-on-pay-equity.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/06/30/women-throw-down-challenge-on-pay-equity/index.html
+layout: layout.njk
 ---
 Women throw down challenge on pay equity
 ========================================

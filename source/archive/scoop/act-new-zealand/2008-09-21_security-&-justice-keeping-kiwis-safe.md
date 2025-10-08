@@ -1,9 +1,12 @@
 ---
 slug: security-&-justice-keeping-kiwis-safe
-title: "Security & Justice - Keeping Kiwis Safe"
-date: 2008-09-21
-source-url: https://www.scoop.co.nz/stories/PA0809/S00441/security-justice-keeping-kiwis-safe.htm
+title: Security & Justice - Keeping Kiwis Safe
+date: 2008-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00441/security-justice-keeping-kiwis-safe.htm
 author: act-new-zealand
+permalink: /archive/2008/09/21/security-/index.html
+layout: layout.njk
 ---
 Security & Justice - Keeping Kiwis Safe
 =======================================

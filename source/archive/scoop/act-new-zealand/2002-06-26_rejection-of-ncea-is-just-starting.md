@@ -1,9 +1,12 @@
 ---
 slug: rejection-of-ncea-is-just-starting
-title: "Rejection Of NCEA Is Just Starting"
-date: 2002-06-26
-source-url: https://www.scoop.co.nz/stories/PA0206/S00463/rejection-of-ncea-is-just-starting.htm
+title: Rejection Of NCEA Is Just Starting
+date: 2002-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00463/rejection-of-ncea-is-just-starting.htm
 author: act-new-zealand
+permalink: /archive/2002/06/26/rejection-of-ncea-is-just-starting/index.html
+layout: layout.njk
 ---
 Rejection Of NCEA Is Just Starting
 ==================================

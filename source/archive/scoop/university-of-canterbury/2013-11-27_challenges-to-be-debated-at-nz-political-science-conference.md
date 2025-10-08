@@ -1,9 +1,13 @@
 ---
 slug: challenges-to-be-debated-at-nz-political-science-conference
-title: "Challenges to be debated at NZ political science conference"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/ED1311/S00181/challenges-to-be-debated-at-nz-political-science-conference.htm
+title: Challenges to be debated at NZ political science conference
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00181/challenges-to-be-debated-at-nz-political-science-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/27/challenges-to-be-debated-at-nz-political-science-conference/index.html
+layout: layout.njk
 ---
 Challenges to be debated at NZ political science conference
 ===========================================================

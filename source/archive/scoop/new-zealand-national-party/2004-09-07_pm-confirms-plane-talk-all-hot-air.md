@@ -1,9 +1,12 @@
 ---
 slug: pm-confirms-plane-talk-all-hot-air
-title: "PM confirms plane talk all hot air"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/PA0409/S00122/pm-confirms-plane-talk-all-hot-air.htm
+title: PM confirms plane talk all hot air
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00122/pm-confirms-plane-talk-all-hot-air.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/07/pm-confirms-plane-talk-all-hot-air/index.html
+layout: layout.njk
 ---
 PM confirms plane talk all hot air
 ==================================

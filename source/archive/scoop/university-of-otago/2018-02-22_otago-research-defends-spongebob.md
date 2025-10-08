@@ -1,9 +1,12 @@
 ---
 slug: otago-research-defends-spongebob
-title: "Otago research defends SpongeBob"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/CU1802/S00294/otago-research-defends-spongebob.htm
+title: Otago research defends SpongeBob
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1802/S00294/otago-research-defends-spongebob.htm
 author: university-of-otago
+permalink: /archive/2018/02/22/otago-research-defends-spongebob/index.html
+layout: layout.njk
 ---
 Otago research defends SpongeBob
 ================================

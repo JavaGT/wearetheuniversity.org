@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-arrests-peaceful-protestors
-title: "Victoria University arrests peaceful protestors"
-date: 2009-10-22
-source-url: https://www.scoop.co.nz/stories/PO0910/S00321/victoria-university-arrests-peaceful-protestors.htm
+title: Victoria University arrests peaceful protestors
+date: 2009-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00321/victoria-university-arrests-peaceful-protestors.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/10/22/victoria-university-arrests-peaceful-protestors/index.html
+layout: layout.njk
 ---
 Victoria University arrests peaceful protestors
 ===============================================

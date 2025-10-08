@@ -1,9 +1,13 @@
 ---
 slug: linguistics-student-wins-uc-thesis-in-three-minutes-award
-title: "Linguistics student wins UC thesis-in three-minutes award"
-date: 2013-08-16
-source-url: https://www.scoop.co.nz/stories/ED1308/S00078/linguistics-student-wins-uc-thesis-in-three-minutes-award.htm
+title: Linguistics student wins UC thesis-in three-minutes award
+date: 2013-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00078/linguistics-student-wins-uc-thesis-in-three-minutes-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/16/linguistics-student-wins-uc-thesis-in-three-minutes-award/index.html
+layout: layout.njk
 ---
 Linguistics student wins UC thesis-in three-minutes award
 =========================================================

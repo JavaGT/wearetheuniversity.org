@@ -1,9 +1,13 @@
 ---
 slug: shift-in-treaty-settlements-approach-significant
-title: "Shift in Treaty settlements approach significant"
-date: 2009-01-07
-source-url: https://www.scoop.co.nz/stories/ED0901/S00002/shift-in-treaty-settlements-approach-significant.htm
+title: Shift in Treaty settlements approach significant
+date: 2009-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00002/shift-in-treaty-settlements-approach-significant.htm
 author: aut-university
+permalink: >-
+  /archive/2009/01/07/shift-in-treaty-settlements-approach-significant/index.html
+layout: layout.njk
 ---
 Shift in Treaty settlements approach significant
 ================================================

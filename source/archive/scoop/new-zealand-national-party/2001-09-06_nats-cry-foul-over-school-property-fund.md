@@ -1,9 +1,12 @@
 ---
 slug: nats-cry-foul-over-school-property-fund
-title: "Nats Cry Foul Over School Property Fund"
-date: 2001-09-06
-source-url: https://www.scoop.co.nz/stories/PA0109/S00084/nats-cry-foul-over-school-property-fund.htm
+title: Nats Cry Foul Over School Property Fund
+date: 2001-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00084/nats-cry-foul-over-school-property-fund.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/06/nats-cry-foul-over-school-property-fund/index.html
+layout: layout.njk
 ---
 Nats Cry Foul Over School Property Fund
 =======================================

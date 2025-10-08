@@ -1,9 +1,13 @@
 ---
 slug: strong-support-expected-for-free-gp-visits-for-supergolders
-title: "Strong Support Expected for Free GP Visits for Supergolders"
-date: 2015-06-24
-source-url: https://www.scoop.co.nz/stories/PA1506/S00426/strong-support-expected-for-free-gp-visits-for-supergolders.htm
+title: Strong Support Expected for Free GP Visits for Supergolders
+date: 2015-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00426/strong-support-expected-for-free-gp-visits-for-supergolders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/24/strong-support-expected-for-free-gp-visits-for-supergolders/index.html
+layout: layout.njk
 ---
 Strong Support Expected for Free GP Visits for Supergolders
 ===========================================================

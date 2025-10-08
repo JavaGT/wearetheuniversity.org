@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-students-launch-two-weeks-without
-title: "University of Canterbury students launch Two Weeks Without"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/CU1502/S00553/university-of-canterbury-students-launch-two-weeks-without.htm
+title: University of Canterbury students launch Two Weeks Without
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00553/university-of-canterbury-students-launch-two-weeks-without.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/27/university-of-canterbury-students-launch-two-weeks-without/index.html
+layout: layout.njk
 ---
 University of Canterbury students launch Two Weeks Without
 ==========================================================

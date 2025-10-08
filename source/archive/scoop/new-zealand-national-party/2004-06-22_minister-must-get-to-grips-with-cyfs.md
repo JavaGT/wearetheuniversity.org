@@ -1,9 +1,12 @@
 ---
 slug: minister-must-get-to-grips-with-cyfs
-title: "Minister must get to grips with CYFS"
-date: 2004-06-22
-source-url: https://www.scoop.co.nz/stories/PA0406/S00313/minister-must-get-to-grips-with-cyfs.htm
+title: Minister must get to grips with CYFS
+date: 2004-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00313/minister-must-get-to-grips-with-cyfs.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/22/minister-must-get-to-grips-with-cyfs/index.html
+layout: layout.njk
 ---
 Minister must get to grips with CYFS
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: more-māori-leaders-fight-for-partnership-schools
-title: "More Māori leaders fight for partnership schools"
-date: 2018-07-26
-source-url: https://www.scoop.co.nz/stories/PA1807/S00237/more-maori-leaders-fight-for-partnership-schools.htm
+title: More Māori leaders fight for partnership schools
+date: 2018-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00237/more-maori-leaders-fight-for-partnership-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/26/more-m/index.html
+layout: layout.njk
 ---
 More Māori leaders fight for partnership schools
 ================================================

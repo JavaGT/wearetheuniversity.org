@@ -1,9 +1,12 @@
 ---
 slug: nukes-to-cyber-war-nz-security-in-focus
-title: "Nukes to cyber war – NZ security in focus"
-date: 2018-04-04
-source-url: https://www.scoop.co.nz/stories/ED1804/S00004/nukes-to-cyber-war-nz-security-in-focus.htm
+title: Nukes to cyber war – NZ security in focus
+date: 2018-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00004/nukes-to-cyber-war-nz-security-in-focus.htm
 author: massey-university
+permalink: /archive/2018/04/04/nukes-to-cyber-war-nz-security-in-focus/index.html
+layout: layout.njk
 ---
 Nukes to cyber war – NZ security in focus
 =========================================

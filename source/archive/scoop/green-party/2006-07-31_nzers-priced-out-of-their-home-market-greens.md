@@ -1,9 +1,12 @@
 ---
 slug: nzers-priced-out-of-their-home-market-greens
-title: "NZers priced out of their home market - Greens"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/PA0607/S00545/nzers-priced-out-of-their-home-market-greens.htm
+title: NZers priced out of their home market - Greens
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00545/nzers-priced-out-of-their-home-market-greens.htm
 author: green-party
+permalink: /archive/2006/07/31/nzers-priced-out-of-their-home-market-greens/index.html
+layout: layout.njk
 ---
 NZers priced out of their home market - Greens
 ==============================================

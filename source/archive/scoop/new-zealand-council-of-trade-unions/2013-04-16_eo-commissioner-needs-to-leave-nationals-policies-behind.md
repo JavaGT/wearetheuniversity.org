@@ -1,9 +1,13 @@
 ---
 slug: eo-commissioner-needs-to-leave-nationals-policies-behind
-title: "EO Commissioner needs to leave National's policies behind"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/PO1304/S00180/eo-commissioner-needs-to-leave-nationals-policies-behind.htm
+title: EO Commissioner needs to leave National's policies behind
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00180/eo-commissioner-needs-to-leave-nationals-policies-behind.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/04/16/eo-commissioner-needs-to-leave-nationals-policies-behind/index.html
+layout: layout.njk
 ---
 EO Commissioner needs to leave National's policies behind
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: telstra-clear-needs-to-keep-kiwi-jobs-kiwi
-title: "Telstra clear needs to keep Kiwi jobs Kiwi"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/PA1004/S00231/telstra-clear-needs-to-keep-kiwi-jobs-kiwi.htm
+title: Telstra clear needs to keep Kiwi jobs Kiwi
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00231/telstra-clear-needs-to-keep-kiwi-jobs-kiwi.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/21/telstra-clear-needs-to-keep-kiwi-jobs-kiwi/index.html
+layout: layout.njk
 ---
 Telstra clear needs to keep Kiwi jobs Kiwi
 ==========================================

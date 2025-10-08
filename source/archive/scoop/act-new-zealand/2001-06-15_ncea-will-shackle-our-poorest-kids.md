@@ -1,9 +1,12 @@
 ---
 slug: ncea-will-shackle-our-poorest-kids
-title: "NCEA Will Shackle Our Poorest Kids"
-date: 2001-06-15
-source-url: https://www.scoop.co.nz/stories/PA0106/S00210/ncea-will-shackle-our-poorest-kids.htm
+title: NCEA Will Shackle Our Poorest Kids
+date: 2001-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00210/ncea-will-shackle-our-poorest-kids.htm
 author: act-new-zealand
+permalink: /archive/2001/06/15/ncea-will-shackle-our-poorest-kids/index.html
+layout: layout.njk
 ---
 NCEA Will Shackle Our Poorest Kids
 ==================================

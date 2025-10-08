@@ -1,9 +1,13 @@
 ---
 slug: greens-ready-for-the-responsibility-of-government
-title: "Greens Ready for the responsibility of government"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/PA0508/S00355/greens-ready-for-the-responsibility-of-government.htm
+title: Greens Ready for the responsibility of government
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00355/greens-ready-for-the-responsibility-of-government.htm
 author: green-party
+permalink: >-
+  /archive/2005/08/15/greens-ready-for-the-responsibility-of-government/index.html
+layout: layout.njk
 ---
 Greens Ready for the responsibility of government
 =================================================

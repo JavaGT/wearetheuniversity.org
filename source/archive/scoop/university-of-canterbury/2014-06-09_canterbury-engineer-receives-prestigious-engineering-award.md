@@ -1,9 +1,13 @@
 ---
 slug: canterbury-engineer-receives-prestigious-engineering-award
-title: "Canterbury engineer receives prestigious engineering award"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/SC1406/S00020/canterbury-engineer-receives-prestigious-engineering-award.htm
+title: Canterbury engineer receives prestigious engineering award
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00020/canterbury-engineer-receives-prestigious-engineering-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/09/canterbury-engineer-receives-prestigious-engineering-award/index.html
+layout: layout.njk
 ---
 Canterbury engineer receives prestigious engineering award
 ==========================================================

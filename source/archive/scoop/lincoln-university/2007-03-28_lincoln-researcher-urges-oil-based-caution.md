@@ -1,9 +1,12 @@
 ---
 slug: lincoln-researcher-urges-oil-based-caution
-title: "Lincoln researcher urges oil-based caution"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00111/lincoln-researcher-urges-oil-based-caution.htm
+title: Lincoln researcher urges oil-based caution
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00111/lincoln-researcher-urges-oil-based-caution.htm
 author: lincoln-university
+permalink: /archive/2007/03/28/lincoln-researcher-urges-oil-based-caution/index.html
+layout: layout.njk
 ---
 Lincoln researcher urges oil-based caution
 ==========================================

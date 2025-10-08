@@ -1,9 +1,12 @@
 ---
 slug: open-season-on-protected-lakes-and-rivers
-title: "Open season on protected lakes and rivers?"
-date: 2009-10-20
-source-url: https://www.scoop.co.nz/stories/PA0910/S00263/open-season-on-protected-lakes-and-rivers.htm
+title: Open season on protected lakes and rivers?
+date: 2009-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00263/open-season-on-protected-lakes-and-rivers.htm
 author: green-party
+permalink: /archive/2009/10/20/open-season-on-protected-lakes-and-rivers/index.html
+layout: layout.njk
 ---
 Open season on protected lakes and rivers?
 ==========================================

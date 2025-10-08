@@ -1,9 +1,12 @@
 ---
 slug: marine-leeches-provide-clues-on-climate-change
-title: "Marine leeches provide clues on climate change"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/SC0806/S00052/marine-leeches-provide-clues-on-climate-change.htm
+title: Marine leeches provide clues on climate change
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0806/S00052/marine-leeches-provide-clues-on-climate-change.htm
 author: massey-university
+permalink: /archive/2008/06/17/marine-leeches-provide-clues-on-climate-change/index.html
+layout: layout.njk
 ---
 Marine leeches provide clues on climate change
 ==============================================

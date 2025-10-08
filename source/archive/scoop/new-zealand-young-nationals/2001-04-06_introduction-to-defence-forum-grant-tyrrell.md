@@ -1,9 +1,12 @@
 ---
 slug: introduction-to-defence-forum-grant-tyrrell
-title: "Introduction to Defence Forum - Grant Tyrrell"
-date: 2001-04-06
-source-url: https://www.scoop.co.nz/stories/PO0104/S00020/introduction-to-defence-forum-grant-tyrrell.htm
+title: Introduction to Defence Forum - Grant Tyrrell
+date: 2001-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0104/S00020/introduction-to-defence-forum-grant-tyrrell.htm
 author: new-zealand-young-nationals
+permalink: /archive/2001/04/06/introduction-to-defence-forum-grant-tyrrell/index.html
+layout: layout.njk
 ---
 Introduction to Defence Forum - Grant Tyrrell
 =============================================

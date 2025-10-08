@@ -1,9 +1,12 @@
 ---
 slug: bodies-and-bugs-curious-kids-doing-cool-science
-title: "Bodies and bugs: Curious kids doing cool science"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/ED1512/S00021/bodies-and-bugs-curious-kids-doing-cool-science.htm
+title: 'Bodies and bugs: Curious kids doing cool science'
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00021/bodies-and-bugs-curious-kids-doing-cool-science.htm
 author: university-of-otago
+permalink: /archive/2015/12/04/bodies-and-bugs-curious-kids-doing-cool-science/index.html
+layout: layout.njk
 ---
 Bodies and bugs: Curious kids doing cool science
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-polytechnics-amendment-bill
-title: "Speech: Flavell - Polytechnics Amendment Bill"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00267/speech-flavell-polytechnics-amendment-bill.htm
+title: 'Speech: Flavell - Polytechnics Amendment Bill'
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00267/speech-flavell-polytechnics-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/12/16/speech-flavell-polytechnics-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Polytechnics Amendment Bill
 =============================================

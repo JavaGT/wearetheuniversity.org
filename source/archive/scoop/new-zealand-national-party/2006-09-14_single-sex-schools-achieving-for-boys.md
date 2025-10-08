@@ -1,9 +1,12 @@
 ---
 slug: single-sex-schools-achieving-for-boys
-title: "Single-sex schools achieving for boys"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/PA0609/S00352/single-sex-schools-achieving-for-boys.htm
+title: Single-sex schools achieving for boys
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00352/single-sex-schools-achieving-for-boys.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/14/single-sex-schools-achieving-for-boys/index.html
+layout: layout.njk
 ---
 Single-sex schools achieving for boys
 =====================================

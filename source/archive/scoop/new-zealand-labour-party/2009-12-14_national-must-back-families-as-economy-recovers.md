@@ -1,9 +1,12 @@
 ---
 slug: national-must-back-families-as-economy-recovers
-title: "National must back families as economy recovers"
-date: 2009-12-14
-source-url: https://www.scoop.co.nz/stories/PA0912/S00224/national-must-back-families-as-economy-recovers.htm
+title: National must back families as economy recovers
+date: 2009-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00224/national-must-back-families-as-economy-recovers.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/14/national-must-back-families-as-economy-recovers/index.html
+layout: layout.njk
 ---
 National must back families as economy recovers
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-voices-of-early-childhood-education
-title: "Sharples: Voices of Early Childhood Education"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00114/sharples-voices-of-early-childhood-education.htm
+title: 'Sharples: Voices of Early Childhood Education'
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00114/sharples-voices-of-early-childhood-education.htm
 author: te-pati-maori
+permalink: /archive/2007/07/06/sharples-voices-of-early-childhood-education/index.html
+layout: layout.njk
 ---
 Sharples: Voices of Early Childhood Education
 =============================================

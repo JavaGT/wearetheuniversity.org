@@ -1,9 +1,12 @@
 ---
 slug: ministry-must-turn-the-leaf-on-carbons-book
-title: "Ministry must turn the leaf on Carbon's book"
-date: 2006-05-25
-source-url: https://www.scoop.co.nz/stories/PA0605/S00611/ministry-must-turn-the-leaf-on-carbons-book.htm
+title: Ministry must turn the leaf on Carbon's book
+date: 2006-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00611/ministry-must-turn-the-leaf-on-carbons-book.htm
 author: green-party
+permalink: /archive/2006/05/25/ministry-must-turn-the-leaf-on-carbons-book/index.html
+layout: layout.njk
 ---
 Ministry must turn the leaf on Carbon's book
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: more-benson-pope-panic
-title: "More Benson-Pope panic"
-date: 2005-02-16
+title: More Benson-Pope panic
+date: 2005-02-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00346/more-benson-pope-panic.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/16/more-benson-pope-panic/index.html
+layout: layout.njk
 ---
 More Benson-Pope panic
 ======================

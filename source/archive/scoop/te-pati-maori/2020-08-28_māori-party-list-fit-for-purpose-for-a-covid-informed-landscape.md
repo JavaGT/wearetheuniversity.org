@@ -1,9 +1,12 @@
 ---
 slug: māori-party-list-fit-for-purpose-for-a-covid-informed-landscape
-title: "Māori Party List Fit For Purpose For A COVID-informed Landscape"
-date: 2020-08-28
-source-url: https://www.scoop.co.nz/stories/PO2008/S00328/maori-party-list-fit-for-purpose-for-a-covid-informed-landscape.htm
+title: Māori Party List Fit For Purpose For A COVID-informed Landscape
+date: 2020-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00328/maori-party-list-fit-for-purpose-for-a-covid-informed-landscape.htm
 author: te-pati-maori
+permalink: /archive/2020/08/28/m/index.html
+layout: layout.njk
 ---
 Māori Party List Fit For Purpose For A COVID-informed Landscape
 ===============================================================

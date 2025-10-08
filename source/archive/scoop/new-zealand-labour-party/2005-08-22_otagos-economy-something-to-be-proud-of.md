@@ -1,9 +1,12 @@
 ---
 slug: otagos-economy-something-to-be-proud-of
-title: "Otago's economy something to be proud of"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00527/otagos-economy-something-to-be-proud-of.htm
+title: Otago's economy something to be proud of
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00527/otagos-economy-something-to-be-proud-of.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/22/otagos-economy-something-to-be-proud-of/index.html
+layout: layout.njk
 ---
 Otago's economy something to be proud of
 ========================================

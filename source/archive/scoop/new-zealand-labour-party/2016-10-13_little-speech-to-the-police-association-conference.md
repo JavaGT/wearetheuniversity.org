@@ -1,9 +1,13 @@
 ---
 slug: little-speech-to-the-police-association-conference
-title: "Little: Speech to the Police Association Conference"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/PA1610/S00194/little-speech-to-the-police-association-conference.htm
+title: 'Little: Speech to the Police Association Conference'
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00194/little-speech-to-the-police-association-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/10/13/little-speech-to-the-police-association-conference/index.html
+layout: layout.njk
 ---
 Little: Speech to the Police Association Conference
 ===================================================

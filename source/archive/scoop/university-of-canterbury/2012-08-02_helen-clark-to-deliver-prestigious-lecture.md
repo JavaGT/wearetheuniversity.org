@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-to-deliver-prestigious-lecture
-title: "Helen Clark to deliver prestigious lecture"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/PO1208/S00028/helen-clark-to-deliver-prestigious-lecture.htm
+title: Helen Clark to deliver prestigious lecture
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00028/helen-clark-to-deliver-prestigious-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/02/helen-clark-to-deliver-prestigious-lecture/index.html
+layout: layout.njk
 ---
 Helen Clark to deliver prestigious lecture
 ==========================================

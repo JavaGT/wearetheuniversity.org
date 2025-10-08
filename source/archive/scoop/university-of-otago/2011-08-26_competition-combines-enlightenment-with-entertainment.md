@@ -1,9 +1,13 @@
 ---
 slug: competition-combines-enlightenment-with-entertainment
-title: "Competition combines enlightenment with Entertainment"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/ED1108/S00144/competition-combines-enlightenment-with-entertainment.htm
+title: Competition combines enlightenment with Entertainment
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00144/competition-combines-enlightenment-with-entertainment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/26/competition-combines-enlightenment-with-entertainment/index.html
+layout: layout.njk
 ---
 Competition combines enlightenment with Entertainment
 =====================================================

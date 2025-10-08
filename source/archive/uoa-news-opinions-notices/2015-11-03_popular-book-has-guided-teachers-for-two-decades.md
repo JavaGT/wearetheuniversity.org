@@ -1,8 +1,12 @@
 ---
 slug: popular-book-has-guided-teachers-for-two-decades
-title: "Popular book has guided teachers for two decades"
-date: 2015-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/popular-book-has-guided-teachers-for-two-decades.html
+title: Popular book has guided teachers for two decades
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/popular-book-has-guided-teachers-for-two-decades.html
+permalink: >-
+  /archive/2015/11/03/popular-book-has-guided-teachers-for-two-decades/index.html
+layout: layout.njk
 ---
 Popular book has guided teachers for two decades
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: arbor-amor-love-letters-to-a-citys-trees
-title: "Arbor-Amor: Love Letters To A City’s Trees"
-date: 2024-05-08
-source-url: https://www.scoop.co.nz/stories/CU2405/S00080/arbor-amor-love-letters-to-a-citys-trees.htm
+title: 'Arbor-Amor: Love Letters To A City’s Trees'
+date: 2024-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2405/S00080/arbor-amor-love-letters-to-a-citys-trees.htm
 author: university-of-canterbury
+permalink: /archive/2024/05/08/arbor-amor-love-letters-to-a-citys-trees/index.html
+layout: layout.njk
 ---
 Arbor-Amor: Love Letters To A City’s Trees
 ==========================================

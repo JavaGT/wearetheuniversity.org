@@ -1,9 +1,12 @@
 ---
 slug: brash-getting-ahead-with-national
-title: "Brash - Getting ahead with National"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00547/brash-getting-ahead-with-national.htm
+title: Brash - Getting ahead with National
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00547/brash-getting-ahead-with-national.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/22/brash-getting-ahead-with-national/index.html
+layout: layout.njk
 ---
 Brash - Getting ahead with National
 ===================================

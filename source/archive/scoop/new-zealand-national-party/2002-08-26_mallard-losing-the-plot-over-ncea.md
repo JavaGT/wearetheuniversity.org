@@ -1,9 +1,12 @@
 ---
 slug: mallard-losing-the-plot-over-ncea
-title: "Mallard Losing The Plot Over NCEA"
-date: 2002-08-26
-source-url: https://www.scoop.co.nz/stories/PA0208/S00214/mallard-losing-the-plot-over-ncea.htm
+title: Mallard Losing The Plot Over NCEA
+date: 2002-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00214/mallard-losing-the-plot-over-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/26/mallard-losing-the-plot-over-ncea/index.html
+layout: layout.njk
 ---
 Mallard Losing The Plot Over NCEA
 =================================

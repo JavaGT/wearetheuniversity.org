@@ -1,9 +1,12 @@
 ---
 slug: new-book-explores-tertiary-teaching-of-japanese
-title: "New book explores tertiary teaching of Japanese"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/ED1608/S00115/new-book-explores-tertiary-teaching-of-japanese.htm
+title: New book explores tertiary teaching of Japanese
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00115/new-book-explores-tertiary-teaching-of-japanese.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/30/new-book-explores-tertiary-teaching-of-japanese/index.html
+layout: layout.njk
 ---
 New book explores tertiary teaching of Japanese
 ===============================================

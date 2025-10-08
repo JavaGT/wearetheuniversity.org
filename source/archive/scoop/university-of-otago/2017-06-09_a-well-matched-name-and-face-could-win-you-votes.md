@@ -1,9 +1,13 @@
 ---
 slug: a-well-matched-name-and-face-could-win-you-votes
-title: "A well-matched name and face could win you votes"
-date: 2017-06-09
-source-url: https://www.scoop.co.nz/stories/CU1706/S00156/a-well-matched-name-and-face-could-win-you-votes.htm
+title: A well-matched name and face could win you votes
+date: 2017-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00156/a-well-matched-name-and-face-could-win-you-votes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/09/a-well-matched-name-and-face-could-win-you-votes/index.html
+layout: layout.njk
 ---
 A well-matched name and face could win you votes
 ================================================

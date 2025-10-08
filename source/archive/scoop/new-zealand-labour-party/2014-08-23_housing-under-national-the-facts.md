@@ -1,9 +1,12 @@
 ---
 slug: housing-under-national-the-facts
-title: "Housing under National: the Facts"
-date: 2014-08-23
-source-url: https://www.scoop.co.nz/stories/PA1408/S00359/housing-under-national-the-facts.htm
+title: 'Housing under National: the Facts'
+date: 2014-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00359/housing-under-national-the-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/23/housing-under-national-the-facts/index.html
+layout: layout.njk
 ---
 Housing under National: the Facts
 =================================

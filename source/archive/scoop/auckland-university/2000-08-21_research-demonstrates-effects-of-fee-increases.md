@@ -1,9 +1,12 @@
 ---
 slug: research-demonstrates-effects-of-fee-increases
-title: "Research Demonstrates Effects Of Fee Increases"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/ED0008/S00038/research-demonstrates-effects-of-fee-increases.htm
+title: Research Demonstrates Effects Of Fee Increases
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00038/research-demonstrates-effects-of-fee-increases.htm
 author: auckland-university
+permalink: /archive/2000/08/21/research-demonstrates-effects-of-fee-increases/index.html
+layout: layout.njk
 ---
 Research Demonstrates Effects Of Fee Increases
 ==============================================

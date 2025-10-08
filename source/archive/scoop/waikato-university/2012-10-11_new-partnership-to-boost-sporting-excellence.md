@@ -1,9 +1,12 @@
 ---
 slug: new-partnership-to-boost-sporting-excellence
-title: "New partnership to boost sporting excellence"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/ED1210/S00074/new-partnership-to-boost-sporting-excellence.htm
+title: New partnership to boost sporting excellence
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00074/new-partnership-to-boost-sporting-excellence.htm
 author: waikato-university
+permalink: /archive/2012/10/11/new-partnership-to-boost-sporting-excellence/index.html
+layout: layout.njk
 ---
 New partnership to boost sporting excellence
 ============================================

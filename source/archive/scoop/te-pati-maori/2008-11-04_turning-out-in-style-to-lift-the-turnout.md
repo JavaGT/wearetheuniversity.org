@@ -1,9 +1,12 @@
 ---
 slug: turning-out-in-style-to-lift-the-turnout
-title: "Turning out in Style to lift the Turnout"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PA0811/S00043/turning-out-in-style-to-lift-the-turnout.htm
+title: Turning out in Style to lift the Turnout
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00043/turning-out-in-style-to-lift-the-turnout.htm
 author: te-pati-maori
+permalink: /archive/2008/11/04/turning-out-in-style-to-lift-the-turnout/index.html
+layout: layout.njk
 ---
 Turning out in Style to lift the Turnout
 ========================================

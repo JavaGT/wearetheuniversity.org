@@ -1,9 +1,12 @@
 ---
 slug: researcher-calls-for-action-on-child-poverty
-title: "Researcher calls for action on child poverty"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/PO1312/S00159/researcher-calls-for-action-on-child-poverty.htm
+title: Researcher calls for action on child poverty
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00159/researcher-calls-for-action-on-child-poverty.htm
 author: university-of-waikato
+permalink: /archive/2013/12/11/researcher-calls-for-action-on-child-poverty/index.html
+layout: layout.njk
 ---
 Researcher calls for action on child poverty
 ============================================

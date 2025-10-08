@@ -1,9 +1,13 @@
 ---
 slug: finding-out-what-kiwis-think-about-social-justice
-title: "Finding out what Kiwis think about social justice"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PO0607/S00158/finding-out-what-kiwis-think-about-social-justice.htm
+title: Finding out what Kiwis think about social justice
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00158/finding-out-what-kiwis-think-about-social-justice.htm
 author: maxim-institute
+permalink: >-
+  /archive/2006/07/17/finding-out-what-kiwis-think-about-social-justice/index.html
+layout: layout.njk
 ---
 Finding out what Kiwis think about social justice
 =================================================

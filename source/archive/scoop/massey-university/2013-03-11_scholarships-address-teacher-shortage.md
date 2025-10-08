@@ -1,9 +1,12 @@
 ---
 slug: scholarships-address-teacher-shortage
-title: "Scholarships address teacher shortage"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/ED1303/S00070/scholarships-address-teacher-shortage.htm
+title: Scholarships address teacher shortage
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00070/scholarships-address-teacher-shortage.htm
 author: massey-university
+permalink: /archive/2013/03/11/scholarships-address-teacher-shortage/index.html
+layout: layout.njk
 ---
 Scholarships address teacher shortage
 =====================================

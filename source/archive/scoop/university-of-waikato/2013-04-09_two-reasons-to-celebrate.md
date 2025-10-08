@@ -1,9 +1,11 @@
 ---
 slug: two-reasons-to-celebrate
-title: "Two reasons to celebrate"
-date: 2013-04-09
+title: Two reasons to celebrate
+date: 2013-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1304/S00028/two-reasons-to-celebrate.htm
 author: university-of-waikato
+permalink: /archive/2013/04/09/two-reasons-to-celebrate/index.html
+layout: layout.njk
 ---
 Two reasons to celebrate
 ========================

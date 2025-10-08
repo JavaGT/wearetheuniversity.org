@@ -1,9 +1,12 @@
 ---
 slug: support-for-critique-of-earthquake-response-act
-title: "Support For Critique of Earthquake Response Act"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/PO1009/S00344/support-for-critique-of-earthquake-response-act.htm
+title: Support For Critique of Earthquake Response Act
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00344/support-for-critique-of-earthquake-response-act.htm
 author: maxim-institute
+permalink: /archive/2010/09/28/support-for-critique-of-earthquake-response-act/index.html
+layout: layout.njk
 ---
 Support For Critique of Earthquake Response Act
 ===============================================

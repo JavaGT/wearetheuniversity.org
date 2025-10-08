@@ -1,9 +1,12 @@
 ---
 slug: otago-physicists-observe-key-quantum-principle
-title: "Otago physicists observe key quantum principle"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/SC1607/S00032/otago-physicists-observe-key-quantum-principle.htm
+title: Otago physicists observe key quantum principle
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00032/otago-physicists-observe-key-quantum-principle.htm
 author: university-of-otago
+permalink: /archive/2016/07/12/otago-physicists-observe-key-quantum-principle/index.html
+layout: layout.njk
 ---
 Otago physicists observe key quantum principle
 ==============================================

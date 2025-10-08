@@ -1,9 +1,13 @@
 ---
 slug: more-openness-needed-regarding-overseas-buyers-of-nz-land
-title: "More openness needed regarding overseas buyers of NZ land"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/PA1102/S00154/more-openness-needed-regarding-overseas-buyers-of-nz-land.htm
+title: More openness needed regarding overseas buyers of NZ land
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00154/more-openness-needed-regarding-overseas-buyers-of-nz-land.htm
 author: green-party
+permalink: >-
+  /archive/2011/02/10/more-openness-needed-regarding-overseas-buyers-of-nz-land/index.html
+layout: layout.njk
 ---
 More openness needed regarding overseas buyers of NZ land
 =========================================================

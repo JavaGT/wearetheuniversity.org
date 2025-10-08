@@ -1,9 +1,13 @@
 ---
 slug: more-needs-to-be-done-to-reduce-the-maori-prosecution-rate
-title: "More needs to be done to reduce the Maori prosecution rate"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00212/more-needs-to-be-done-to-reduce-the-maori-prosecution-rate.htm
+title: More needs to be done to reduce the Maori prosecution rate
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00212/more-needs-to-be-done-to-reduce-the-maori-prosecution-rate.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/04/11/more-needs-to-be-done-to-reduce-the-maori-prosecution-rate/index.html
+layout: layout.njk
 ---
 More needs to be done to reduce the Maori prosecution rate
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-debt-cracks-the-billion-mark
-title: "Student debt cracks the billion mark"
-date: 2016-09-27
-source-url: https://www.scoop.co.nz/stories/PA1609/S00469/student-debt-cracks-the-billion-mark.htm
+title: Student debt cracks the billion mark
+date: 2016-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00469/student-debt-cracks-the-billion-mark.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/27/student-debt-cracks-the-billion-mark/index.html
+layout: layout.njk
 ---
 Student debt cracks the billion mark
 ====================================

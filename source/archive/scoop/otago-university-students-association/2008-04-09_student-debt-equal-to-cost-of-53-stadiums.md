@@ -1,9 +1,12 @@
 ---
 slug: student-debt-equal-to-cost-of-53-stadiums
-title: "Student Debt Equal to Cost of 53 Stadiums"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PO0804/S00143/student-debt-equal-to-cost-of-53-stadiums.htm
+title: Student Debt Equal to Cost of 53 Stadiums
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00143/student-debt-equal-to-cost-of-53-stadiums.htm
 author: otago-university-students-association
+permalink: /archive/2008/04/09/student-debt-equal-to-cost-of-53-stadiums/index.html
+layout: layout.njk
 ---
 Student Debt Equal to Cost of 53 Stadiums
 =========================================

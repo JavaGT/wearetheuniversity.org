@@ -1,9 +1,12 @@
 ---
 slug: the-tutukaka-coast-millennium-time-capsule
-title: "The Tutukaka Coast Millennium Time Capsule"
-date: 2000-10-24
-source-url: https://www.scoop.co.nz/stories/PA0010/S00443/the-tutukaka-coast-millennium-time-capsule.htm
+title: The Tutukaka Coast Millennium Time Capsule
+date: 2000-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00443/the-tutukaka-coast-millennium-time-capsule.htm
 author: act-new-zealand
+permalink: /archive/2000/10/24/the-tutukaka-coast-millennium-time-capsule/index.html
+layout: layout.njk
 ---
 The Tutukaka Coast Millennium Time Capsule
 ==========================================

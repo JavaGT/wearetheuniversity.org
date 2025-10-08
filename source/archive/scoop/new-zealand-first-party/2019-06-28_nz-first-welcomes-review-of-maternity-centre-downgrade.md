@@ -1,9 +1,13 @@
 ---
 slug: nz-first-welcomes-review-of-maternity-centre-downgrade
-title: "NZ First Welcomes Review of Maternity Centre Downgrade"
-date: 2019-06-28
-source-url: https://www.scoop.co.nz/stories/PA1906/S00269/nz-first-welcomes-review-of-maternity-centre-downgrade.htm
+title: NZ First Welcomes Review of Maternity Centre Downgrade
+date: 2019-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00269/nz-first-welcomes-review-of-maternity-centre-downgrade.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/06/28/nz-first-welcomes-review-of-maternity-centre-downgrade/index.html
+layout: layout.njk
 ---
 NZ First Welcomes Review of Maternity Centre Downgrade
 ======================================================

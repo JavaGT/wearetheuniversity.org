@@ -1,9 +1,13 @@
 ---
 slug: green-party-week-of-action-against-ge-propaganda
-title: "Green Party Week Of Action Against GE Propaganda"
-date: 1999-07-26
-source-url: https://www.scoop.co.nz/stories/PA9907/S00472/green-party-week-of-action-against-ge-propaganda.htm
+title: Green Party Week Of Action Against GE Propaganda
+date: 1999-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00472/green-party-week-of-action-against-ge-propaganda.htm
 author: green-party
+permalink: >-
+  /archive/1999/07/26/green-party-week-of-action-against-ge-propaganda/index.html
+layout: layout.njk
 ---
 Green Party Week Of Action Against GE Propaganda
 ================================================

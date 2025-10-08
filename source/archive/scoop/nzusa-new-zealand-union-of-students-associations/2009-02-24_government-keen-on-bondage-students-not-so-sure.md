@@ -1,9 +1,12 @@
 ---
 slug: government-keen-on-bondage-students-not-so-sure
-title: "Government keen on bondage, students not so sure"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/ED0902/S00081/government-keen-on-bondage-students-not-so-sure.htm
+title: Government keen on bondage, students not so sure
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00081/government-keen-on-bondage-students-not-so-sure.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/24/government-keen-on-bondage-students-not-so-sure/index.html
+layout: layout.njk
 ---
 Government keen on bondage, students not so sure
 ================================================

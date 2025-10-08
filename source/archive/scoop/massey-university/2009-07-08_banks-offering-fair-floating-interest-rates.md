@@ -1,9 +1,12 @@
 ---
 slug: banks-offering-fair-floating-interest-rates
-title: "Banks offering fair floating interest rates"
-date: 2009-07-08
-source-url: https://www.scoop.co.nz/stories/BU0907/S00230/banks-offering-fair-floating-interest-rates.htm
+title: Banks offering fair floating interest rates
+date: 2009-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00230/banks-offering-fair-floating-interest-rates.htm
 author: massey-university
+permalink: /archive/2009/07/08/banks-offering-fair-floating-interest-rates/index.html
+layout: layout.njk
 ---
 Banks offering fair floating interest rates
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-dumbs-down-ncea-again
-title: "Government dumbs down NCEA – again"
-date: 2006-11-15
-source-url: https://www.scoop.co.nz/stories/ED0611/S00060/government-dumbs-down-ncea-again.htm
+title: Government dumbs down NCEA – again
+date: 2006-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00060/government-dumbs-down-ncea-again.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/15/government-dumbs-down-ncea-again/index.html
+layout: layout.njk
 ---
 Government dumbs down NCEA – again
 ==================================

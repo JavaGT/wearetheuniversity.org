@@ -1,9 +1,11 @@
 ---
 slug: badminton-champ-off-overseas
-title: "Badminton champ off overseas"
-date: 2013-09-02
+title: Badminton champ off overseas
+date: 2013-09-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1309/S00009/badminton-champ-off-overseas.htm
 author: university-of-waikato
+permalink: /archive/2013/09/02/badminton-champ-off-overseas/index.html
+layout: layout.njk
 ---
 Badminton champ off overseas
 ============================

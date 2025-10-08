@@ -1,9 +1,13 @@
 ---
 slug: nationals-health-and-safety-shambles-puts-camps-at-risk
-title: "National’s health and safety shambles puts camps at risk"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/PA1508/S00432/nationals-health-and-safety-shambles-puts-camps-at-risk.htm
+title: National’s health and safety shambles puts camps at risk
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00432/nationals-health-and-safety-shambles-puts-camps-at-risk.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/26/nationals-health-and-safety-shambles-puts-camps-at-risk/index.html
+layout: layout.njk
 ---
 National’s health and safety shambles puts camps at risk
 ========================================================

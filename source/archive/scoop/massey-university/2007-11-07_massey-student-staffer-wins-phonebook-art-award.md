@@ -1,9 +1,12 @@
 ---
 slug: massey-student-staffer-wins-phonebook-art-award
-title: "Massey student-staffer wins phonebook art award"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/ED0711/S00043/massey-student-staffer-wins-phonebook-art-award.htm
+title: Massey student-staffer wins phonebook art award
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00043/massey-student-staffer-wins-phonebook-art-award.htm
 author: massey-university
+permalink: /archive/2007/11/07/massey-student-staffer-wins-phonebook-art-award/index.html
+layout: layout.njk
 ---
 Massey student-staffer wins phonebook art award
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: seymour-challenges-mps-to-put-kids-first
-title: "Seymour Challenges MPs to Put Kids First"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/PA1810/S00137/seymour-challenges-mps-to-put-kids-first.htm
+title: Seymour Challenges MPs to Put Kids First
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00137/seymour-challenges-mps-to-put-kids-first.htm
 author: act-new-zealand
+permalink: /archive/2018/10/16/seymour-challenges-mps-to-put-kids-first/index.html
+layout: layout.njk
 ---
 Seymour Challenges MPs to Put Kids First
 ========================================

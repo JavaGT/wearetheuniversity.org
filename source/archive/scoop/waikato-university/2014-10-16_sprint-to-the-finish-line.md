@@ -1,9 +1,11 @@
 ---
 slug: sprint-to-the-finish-line
-title: "Sprint to the finish line"
-date: 2014-10-16
+title: Sprint to the finish line
+date: 2014-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00103/sprint-to-the-finish-line.htm
 author: waikato-university
+permalink: /archive/2014/10/16/sprint-to-the-finish-line/index.html
+layout: layout.njk
 ---
 Sprint to the finish line
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: student-takes-up-german-scholarship
-title: "Student takes up German scholarship"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/ED0808/S00021/student-takes-up-german-scholarship.htm
+title: Student takes up German scholarship
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00021/student-takes-up-german-scholarship.htm
 author: massey-university
+permalink: /archive/2008/08/11/student-takes-up-german-scholarship/index.html
+layout: layout.njk
 ---
 Student takes up German scholarship
 ===================================

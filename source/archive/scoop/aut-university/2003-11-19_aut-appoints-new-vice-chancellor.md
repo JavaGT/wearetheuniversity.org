@@ -1,9 +1,12 @@
 ---
 slug: aut-appoints-new-vice-chancellor
-title: "AUT Appoints new Vice-Chancellor"
-date: 2003-11-19
-source-url: https://www.scoop.co.nz/stories/ED0311/S00059/aut-appoints-new-vice-chancellor.htm
+title: AUT Appoints new Vice-Chancellor
+date: 2003-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00059/aut-appoints-new-vice-chancellor.htm
 author: aut-university
+permalink: /archive/2003/11/19/aut-appoints-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 AUT Appoints new Vice-Chancellor
 ================================

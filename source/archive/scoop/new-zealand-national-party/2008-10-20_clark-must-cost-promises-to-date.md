@@ -1,9 +1,12 @@
 ---
 slug: clark-must-cost-promises-to-date
-title: "Clark must cost promises to date"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/PA0810/S00442/clark-must-cost-promises-to-date.htm
+title: Clark must cost promises to date
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00442/clark-must-cost-promises-to-date.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/20/clark-must-cost-promises-to-date/index.html
+layout: layout.njk
 ---
 Clark must cost promises to date
 ================================

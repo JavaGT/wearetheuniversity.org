@@ -1,9 +1,12 @@
 ---
 slug: cbd-rail-loop-or-23-motorway-lanes
-title: "CBD Rail loop or 23 motorway lanes?"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PA1011/S00498/cbd-rail-loop-or-23-motorway-lanes.htm
+title: CBD Rail loop or 23 motorway lanes?
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00498/cbd-rail-loop-or-23-motorway-lanes.htm
 author: green-party
+permalink: /archive/2010/11/24/cbd-rail-loop-or-23-motorway-lanes/index.html
+layout: layout.njk
 ---
 CBD Rail loop or 23 motorway lanes?
 ===================================

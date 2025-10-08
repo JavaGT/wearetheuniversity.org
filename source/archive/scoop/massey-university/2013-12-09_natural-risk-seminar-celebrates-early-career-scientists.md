@@ -1,9 +1,13 @@
 ---
 slug: natural-risk-seminar-celebrates-early-career-scientists
-title: "Natural risk seminar celebrates early career scientists"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/ED1312/S00056/natural-risk-seminar-celebrates-early-career-scientists.htm
+title: Natural risk seminar celebrates early career scientists
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00056/natural-risk-seminar-celebrates-early-career-scientists.htm
 author: massey-university
+permalink: >-
+  /archive/2013/12/09/natural-risk-seminar-celebrates-early-career-scientists/index.html
+layout: layout.njk
 ---
 Natural risk seminar celebrates early career scientists
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: mycoplasma-bovis-confirmed-in-waikato
-title: "Mycoplasma Bovis confirmed in Waikato"
-date: 2018-05-14
-source-url: https://www.scoop.co.nz/stories/PA1805/S00165/mycoplasma-bovis-confirmed-in-waikato.htm
+title: Mycoplasma Bovis confirmed in Waikato
+date: 2018-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00165/mycoplasma-bovis-confirmed-in-waikato.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/14/mycoplasma-bovis-confirmed-in-waikato/index.html
+layout: layout.njk
 ---
 Mycoplasma Bovis confirmed in Waikato
 =====================================

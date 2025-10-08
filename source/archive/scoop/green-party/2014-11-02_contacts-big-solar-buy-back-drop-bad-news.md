@@ -1,9 +1,12 @@
 ---
 slug: contacts-big-solar-buy-back-drop-bad-news
-title: "Contact's big solar buy-back drop bad news"
-date: 2014-11-02
-source-url: https://www.scoop.co.nz/stories/PA1411/S00007/contacts-big-solar-buy-back-drop-bad-news.htm
+title: Contact's big solar buy-back drop bad news
+date: 2014-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00007/contacts-big-solar-buy-back-drop-bad-news.htm
 author: green-party
+permalink: /archive/2014/11/02/contacts-big-solar-buy-back-drop-bad-news/index.html
+layout: layout.njk
 ---
 Contact's big solar buy-back drop bad news
 ==========================================

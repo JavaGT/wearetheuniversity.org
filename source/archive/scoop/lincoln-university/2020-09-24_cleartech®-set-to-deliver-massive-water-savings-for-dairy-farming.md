@@ -1,9 +1,12 @@
 ---
 slug: cleartech®-set-to-deliver-massive-water-savings-for-dairy-farming
-title: "ClearTech® Set To Deliver Massive Water Savings For Dairy Farming"
-date: 2020-09-24
-source-url: https://www.scoop.co.nz/stories/SC2009/S00033/cleartech-set-to-deliver-massive-water-savings-for-dairy-farming.htm
+title: ClearTech® Set To Deliver Massive Water Savings For Dairy Farming
+date: 2020-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2009/S00033/cleartech-set-to-deliver-massive-water-savings-for-dairy-farming.htm
 author: lincoln-university
+permalink: /archive/2020/09/24/cleartech/index.html
+layout: layout.njk
 ---
 ClearTech® Set To Deliver Massive Water Savings For Dairy Farming
 =================================================================

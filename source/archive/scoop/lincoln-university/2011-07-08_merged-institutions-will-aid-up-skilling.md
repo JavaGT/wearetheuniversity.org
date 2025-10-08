@@ -1,9 +1,12 @@
 ---
 slug: merged-institutions-will-aid-up-skilling
-title: "Merged institutions will aid up-skilling"
-date: 2011-07-08
-source-url: https://www.scoop.co.nz/stories/ED1107/S00035/merged-institutions-will-aid-up-skilling.htm
+title: Merged institutions will aid up-skilling
+date: 2011-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00035/merged-institutions-will-aid-up-skilling.htm
 author: lincoln-university
+permalink: /archive/2011/07/08/merged-institutions-will-aid-up-skilling/index.html
+layout: layout.njk
 ---
 Merged institutions will aid up-skilling
 ========================================

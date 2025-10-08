@@ -1,9 +1,12 @@
 ---
 slug: childrens-holocaust-memorial-exhibit-unveiled
-title: "Children’s Holocaust Memorial exhibit unveiled"
-date: 2018-11-15
-source-url: https://www.scoop.co.nz/stories/AK1811/S00376/childrens-holocaust-memorial-exhibit-unveiled.htm
+title: Children’s Holocaust Memorial exhibit unveiled
+date: 2018-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1811/S00376/childrens-holocaust-memorial-exhibit-unveiled.htm
 author: massey-university
+permalink: /archive/2018/11/15/childrens-holocaust-memorial-exhibit-unveiled/index.html
+layout: layout.njk
 ---
 Children’s Holocaust Memorial exhibit unveiled
 ==============================================

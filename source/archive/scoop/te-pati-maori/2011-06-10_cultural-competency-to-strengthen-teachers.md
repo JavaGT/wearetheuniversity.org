@@ -1,9 +1,12 @@
 ---
 slug: cultural-competency-to-strengthen-teachers
-title: "Cultural competency to strengthen teachers"
-date: 2011-06-10
-source-url: https://www.scoop.co.nz/stories/PA1106/S00182/cultural-competency-to-strengthen-teachers.htm
+title: Cultural competency to strengthen teachers
+date: 2011-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00182/cultural-competency-to-strengthen-teachers.htm
 author: te-pati-maori
+permalink: /archive/2011/06/10/cultural-competency-to-strengthen-teachers/index.html
+layout: layout.njk
 ---
 Cultural competency to strengthen teachers
 ==========================================

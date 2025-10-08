@@ -1,9 +1,13 @@
 ---
 slug: massey-university-graduates-international-pilots
-title: "Massey University Graduates International Pilots"
-date: 2001-03-29
-source-url: https://www.scoop.co.nz/stories/ED0103/S00058/massey-university-graduates-international-pilots.htm
+title: Massey University Graduates International Pilots
+date: 2001-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00058/massey-university-graduates-international-pilots.htm
 author: massey-university
+permalink: >-
+  /archive/2001/03/29/massey-university-graduates-international-pilots/index.html
+layout: layout.njk
 ---
 Massey University Graduates International Pilots
 ================================================

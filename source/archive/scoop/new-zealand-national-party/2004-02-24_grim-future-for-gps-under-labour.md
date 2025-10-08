@@ -1,9 +1,12 @@
 ---
 slug: grim-future-for-gps-under-labour
-title: "Grim future for GPs under Labour"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/PA0402/S00415/grim-future-for-gps-under-labour.htm
+title: Grim future for GPs under Labour
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00415/grim-future-for-gps-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/24/grim-future-for-gps-under-labour/index.html
+layout: layout.njk
 ---
 Grim future for GPs under Labour
 ================================

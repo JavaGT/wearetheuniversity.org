@@ -1,9 +1,12 @@
 ---
 slug: waikato-professor-breaks-new-ground
-title: "Waikato Professor Breaks New Ground"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/ED0404/S00032/waikato-professor-breaks-new-ground.htm
+title: Waikato Professor Breaks New Ground
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00032/waikato-professor-breaks-new-ground.htm
 author: waikato-university
+permalink: /archive/2004/04/08/waikato-professor-breaks-new-ground/index.html
+layout: layout.njk
 ---
 Waikato Professor Breaks New Ground
 ===================================

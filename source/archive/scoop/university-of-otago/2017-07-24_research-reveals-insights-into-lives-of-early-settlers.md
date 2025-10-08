@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-insights-into-lives-of-early-settlers
-title: "Research reveals insights into lives of early settlers"
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/CU1707/S00305/research-reveals-insights-into-lives-of-early-settlers.htm
+title: Research reveals insights into lives of early settlers
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1707/S00305/research-reveals-insights-into-lives-of-early-settlers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/07/24/research-reveals-insights-into-lives-of-early-settlers/index.html
+layout: layout.njk
 ---
 Research reveals insights into lives of early settlers
 ======================================================

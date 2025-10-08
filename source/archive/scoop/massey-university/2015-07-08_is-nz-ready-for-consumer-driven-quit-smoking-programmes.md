@@ -1,9 +1,13 @@
 ---
 slug: is-nz-ready-for-consumer-driven-quit-smoking-programmes
-title: "Is NZ Ready for Consumer-Driven Quit Smoking Programmes?"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/GE1507/S00032/is-nz-ready-for-consumer-driven-quit-smoking-programmes.htm
+title: Is NZ Ready for Consumer-Driven Quit Smoking Programmes?
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1507/S00032/is-nz-ready-for-consumer-driven-quit-smoking-programmes.htm
 author: massey-university
+permalink: >-
+  /archive/2015/07/08/is-nz-ready-for-consumer-driven-quit-smoking-programmes/index.html
+layout: layout.njk
 ---
 Is NZ Ready for Consumer-Driven Quit Smoking Programmes?
 ========================================================

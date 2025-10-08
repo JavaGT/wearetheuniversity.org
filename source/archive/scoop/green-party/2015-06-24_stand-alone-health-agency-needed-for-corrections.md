@@ -1,9 +1,13 @@
 ---
 slug: stand-alone-health-agency-needed-for-corrections
-title: "Stand-alone health agency needed for Corrections"
-date: 2015-06-24
-source-url: https://www.scoop.co.nz/stories/PA1506/S00423/stand-alone-health-agency-needed-for-corrections.htm
+title: Stand-alone health agency needed for Corrections
+date: 2015-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00423/stand-alone-health-agency-needed-for-corrections.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/24/stand-alone-health-agency-needed-for-corrections/index.html
+layout: layout.njk
 ---
 Stand-alone health agency needed for Corrections
 ================================================

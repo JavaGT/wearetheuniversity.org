@@ -1,9 +1,12 @@
 ---
 slug: domestic-violence-a-hot-issue-in-the-pacific
-title: "Domestic violence a hot issue in the Pacific"
-date: 2011-03-11
-source-url: https://www.scoop.co.nz/stories/WO1103/S00406/domestic-violence-a-hot-issue-in-the-pacific.htm
+title: Domestic violence a hot issue in the Pacific
+date: 2011-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1103/S00406/domestic-violence-a-hot-issue-in-the-pacific.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/11/domestic-violence-a-hot-issue-in-the-pacific/index.html
+layout: layout.njk
 ---
 Domestic violence a hot issue in the Pacific
 ============================================

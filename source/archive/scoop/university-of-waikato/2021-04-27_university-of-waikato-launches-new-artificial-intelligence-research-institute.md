@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-launches-new-artificial-intelligence-research-institute
-title: "University Of Waikato Launches New Artificial Intelligence Research Institute"
-date: 2021-04-27
-source-url: https://www.scoop.co.nz/stories/ED2104/S00026/university-of-waikato-launches-new-artificial-intelligence-research-institute.htm
+title: University Of Waikato Launches New Artificial Intelligence Research Institute
+date: 2021-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00026/university-of-waikato-launches-new-artificial-intelligence-research-institute.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/04/27/university-of-waikato-launches-new-artificial-intelligence-research-institute/index.html
+layout: layout.njk
 ---
 University Of Waikato Launches New Artificial Intelligence Research Institute
 =============================================================================

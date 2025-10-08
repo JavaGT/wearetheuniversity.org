@@ -1,9 +1,12 @@
 ---
 slug: more-hocken-archives-records-to-go-online
-title: "More Hocken Archives Records To Go Online"
-date: 2005-01-07
-source-url: https://www.scoop.co.nz/stories/ED0501/S00014/more-hocken-archives-records-to-go-online.htm
+title: More Hocken Archives Records To Go Online
+date: 2005-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00014/more-hocken-archives-records-to-go-online.htm
 author: university-of-otago
+permalink: /archive/2005/01/07/more-hocken-archives-records-to-go-online/index.html
+layout: layout.njk
 ---
 More Hocken Archives Records To Go Online
 =========================================

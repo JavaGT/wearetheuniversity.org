@@ -1,9 +1,12 @@
 ---
 slug: elderly-lose-home-help-while-minister-misleads
-title: "Elderly lose home help while Minister misleads"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/PA1008/S00104/elderly-lose-home-help-while-minister-misleads.htm
+title: Elderly lose home help while Minister misleads
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00104/elderly-lose-home-help-while-minister-misleads.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/05/elderly-lose-home-help-while-minister-misleads/index.html
+layout: layout.njk
 ---
 Elderly lose home help while Minister misleads
 ==============================================

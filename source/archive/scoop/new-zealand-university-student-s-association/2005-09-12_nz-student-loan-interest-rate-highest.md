@@ -1,9 +1,12 @@
 ---
 slug: nz-student-loan-interest-rate-highest
-title: "NZ student loan interest rate highest"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/ED0509/S00036/nz-student-loan-interest-rate-highest.htm
+title: NZ student loan interest rate highest
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00036/nz-student-loan-interest-rate-highest.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/09/12/nz-student-loan-interest-rate-highest/index.html
+layout: layout.njk
 ---
 NZ student loan interest rate highest
 =====================================

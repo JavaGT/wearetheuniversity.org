@@ -1,9 +1,13 @@
 ---
 slug: reporting-of-job-stats-masks-real-economic-issue
-title: "Reporting of job stats masks real economic issue"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/BU0907/S00500/reporting-of-job-stats-masks-real-economic-issue.htm
+title: Reporting of job stats masks real economic issue
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00500/reporting-of-job-stats-masks-real-economic-issue.htm
 author: aut-university
+permalink: >-
+  /archive/2009/07/20/reporting-of-job-stats-masks-real-economic-issue/index.html
+layout: layout.njk
 ---
 Reporting of job stats masks real economic issue
 ================================================

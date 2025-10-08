@@ -1,9 +1,13 @@
 ---
 slug: masseys-movie-man-launches-nz-classic-film-series
-title: "Massey’s movie man launches NZ classic film series"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/CU1704/S00360/masseys-movie-man-launches-nz-classic-film-series.htm
+title: Massey’s movie man launches NZ classic film series
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1704/S00360/masseys-movie-man-launches-nz-classic-film-series.htm
 author: massey-university
+permalink: >-
+  /archive/2017/04/24/masseys-movie-man-launches-nz-classic-film-series/index.html
+layout: layout.njk
 ---
 Massey’s movie man launches NZ classic film series
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: helping-smes-and-ngos-with-business-pressure-points
-title: "Helping SMEs and NGOs with business pressure points"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/ED1406/S00083/helping-smes-and-ngos-with-business-pressure-points.htm
+title: Helping SMEs and NGOs with business pressure points
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00083/helping-smes-and-ngos-with-business-pressure-points.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/17/helping-smes-and-ngos-with-business-pressure-points/index.html
+layout: layout.njk
 ---
 Helping SMEs and NGOs with business pressure points
 ===================================================

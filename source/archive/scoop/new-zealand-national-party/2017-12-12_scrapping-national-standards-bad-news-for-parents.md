@@ -1,9 +1,13 @@
 ---
 slug: scrapping-national-standards-bad-news-for-parents
-title: "Scrapping National Standards bad news for parents"
-date: 2017-12-12
-source-url: https://www.scoop.co.nz/stories/PO1712/S00115/scrapping-national-standards-bad-news-for-parents.htm
+title: Scrapping National Standards bad news for parents
+date: 2017-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1712/S00115/scrapping-national-standards-bad-news-for-parents.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/12/12/scrapping-national-standards-bad-news-for-parents/index.html
+layout: layout.njk
 ---
 Scrapping National Standards bad news for parents
 =================================================

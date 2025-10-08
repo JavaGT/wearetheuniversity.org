@@ -1,9 +1,12 @@
 ---
 slug: national-commits-to-rural-health-services
-title: "National commits to rural health services"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00054/national-commits-to-rural-health-services.htm
+title: National commits to rural health services
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00054/national-commits-to-rural-health-services.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/02/national-commits-to-rural-health-services/index.html
+layout: layout.njk
 ---
 National commits to rural health services
 =========================================

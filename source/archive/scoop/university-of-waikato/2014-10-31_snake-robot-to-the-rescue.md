@@ -1,9 +1,11 @@
 ---
 slug: snake-robot-to-the-rescue
-title: "Snake Robot to the rescue"
-date: 2014-10-31
+title: Snake Robot to the rescue
+date: 2014-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00174/snake-robot-to-the-rescue.htm
 author: university-of-waikato
+permalink: /archive/2014/10/31/snake-robot-to-the-rescue/index.html
+layout: layout.njk
 ---
 Snake Robot to the rescue
 =========================

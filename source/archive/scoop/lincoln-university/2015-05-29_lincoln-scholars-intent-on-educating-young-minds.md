@@ -1,9 +1,13 @@
 ---
 slug: lincoln-scholars-intent-on-educating-young-minds
-title: "Lincoln scholars intent on educating young minds"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/ED1505/S00118/lincoln-scholars-intent-on-educating-young-minds.htm
+title: Lincoln scholars intent on educating young minds
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00118/lincoln-scholars-intent-on-educating-young-minds.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/29/lincoln-scholars-intent-on-educating-young-minds/index.html
+layout: layout.njk
 ---
 Lincoln scholars intent on educating young minds
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: key-notes-7-9-12-proceeding-with-share-offers
-title: "Key Notes 7/9/12: Proceeding with share offers"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/PA1209/S00098/key-notes-7912-proceeding-with-share-offers.htm
+title: 'Key Notes 7/9/12: Proceeding with share offers'
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00098/key-notes-7912-proceeding-with-share-offers.htm
 author: new-zealand-national-party
+permalink: /archive/2012/09/07/key-notes-7-9-12-proceeding-with-share-offers/index.html
+layout: layout.njk
 ---
 Key Notes 7/9/12: Proceeding with share offers
 ==============================================

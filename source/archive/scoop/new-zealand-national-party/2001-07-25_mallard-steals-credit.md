@@ -1,9 +1,11 @@
 ---
 slug: mallard-steals-credit
-title: "Mallard steals credit"
-date: 2001-07-25
+title: Mallard steals credit
+date: 2001-07-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0107/S00429/mallard-steals-credit.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/25/mallard-steals-credit/index.html
+layout: layout.njk
 ---
 Mallard steals credit
 =====================

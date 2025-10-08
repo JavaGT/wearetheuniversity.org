@@ -1,9 +1,12 @@
 ---
 slug: it-practices-inadequate-for-forensic-evidence
-title: "IT practices inadequate for forensic evidence"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/BU0709/S00506/it-practices-inadequate-for-forensic-evidence.htm
+title: IT practices inadequate for forensic evidence
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00506/it-practices-inadequate-for-forensic-evidence.htm
 author: university-of-otago
+permalink: /archive/2007/09/26/it-practices-inadequate-for-forensic-evidence/index.html
+layout: layout.njk
 ---
 IT practices inadequate for forensic evidence
 =============================================

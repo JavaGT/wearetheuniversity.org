@@ -1,9 +1,13 @@
 ---
 slug: learning-support-for-tamariki-needs-more-funding-not-budget-cuts
-title: "Learning Support For Tamariki Needs More Funding, Not Budget Cuts"
-date: 2023-08-29
-source-url: https://www.scoop.co.nz/stories/ED2308/S00048/learning-support-for-tamariki-needs-more-funding-not-budget-cuts.htm
+title: Learning Support For Tamariki Needs More Funding, Not Budget Cuts
+date: 2023-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00048/learning-support-for-tamariki-needs-more-funding-not-budget-cuts.htm
 author: nzei
+permalink: >-
+  /archive/2023/08/29/learning-support-for-tamariki-needs-more-funding-not-budget-cuts/index.html
+layout: layout.njk
 ---
 Learning Support For Tamariki Needs More Funding, Not Budget Cuts
 =================================================================

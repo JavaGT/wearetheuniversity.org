@@ -1,9 +1,12 @@
 ---
 slug: turia-resistance-response-to-neo-liberalism
-title: "Turia: Resistance - response to neo-liberalism"
-date: 2007-08-15
-source-url: https://www.scoop.co.nz/stories/PA0708/S00245/turia-resistance-response-to-neo-liberalism.htm
+title: 'Turia: Resistance - response to neo-liberalism'
+date: 2007-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00245/turia-resistance-response-to-neo-liberalism.htm
 author: te-pati-maori
+permalink: /archive/2007/08/15/turia-resistance-response-to-neo-liberalism/index.html
+layout: layout.njk
 ---
 Turia: Resistance - response to neo-liberalism
 ==============================================

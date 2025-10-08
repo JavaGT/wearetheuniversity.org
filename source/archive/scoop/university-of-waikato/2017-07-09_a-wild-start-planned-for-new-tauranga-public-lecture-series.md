@@ -1,9 +1,13 @@
 ---
 slug: a-wild-start-planned-for-new-tauranga-public-lecture-series
-title: "A wild start planned for new Tauranga public lecture series"
-date: 2017-07-09
-source-url: https://www.scoop.co.nz/stories/ED1707/S00029/a-wild-start-planned-for-new-tauranga-public-lecture-series.htm
+title: A wild start planned for new Tauranga public lecture series
+date: 2017-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00029/a-wild-start-planned-for-new-tauranga-public-lecture-series.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/07/09/a-wild-start-planned-for-new-tauranga-public-lecture-series/index.html
+layout: layout.njk
 ---
 A wild start planned for new Tauranga public lecture series
 ===========================================================

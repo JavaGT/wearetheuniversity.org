@@ -1,9 +1,13 @@
 ---
 slug: a-game-changer-to-boost-literacy-and-maths-skills
-title: "A game changer to boost literacy and maths skills"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/ED1411/S00164/a-game-changer-to-boost-literacy-and-maths-skills.htm
+title: A game changer to boost literacy and maths skills
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00164/a-game-changer-to-boost-literacy-and-maths-skills.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/26/a-game-changer-to-boost-literacy-and-maths-skills/index.html
+layout: layout.njk
 ---
 A game changer to boost literacy and maths skills
 =================================================

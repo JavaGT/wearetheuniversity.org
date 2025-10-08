@@ -1,9 +1,15 @@
 ---
 slug: guilt-and-shame-taught-in-white-privilege-courses-for-education-ministry-staff
-title: "Guilt And Shame Taught In \"White Privilege\" Courses For Education Ministry Staff"
-date: 2021-07-22
-source-url: https://www.scoop.co.nz/stories/PA2107/S00167/guilt-and-shame-taught-in-white-privilege-courses-for-education-ministry-staff.htm
+title: >-
+  Guilt And Shame Taught In "White Privilege" Courses For Education Ministry
+  Staff
+date: 2021-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00167/guilt-and-shame-taught-in-white-privilege-courses-for-education-ministry-staff.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/22/guilt-and-shame-taught-in-white-privilege-courses-for-education-ministry-staff/index.html
+layout: layout.njk
 ---
 Guilt And Shame Taught In “White Privilege” Courses For Education Ministry Staff
 ================================================================================

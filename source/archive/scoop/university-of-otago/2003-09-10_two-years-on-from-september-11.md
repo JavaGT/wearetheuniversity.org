@@ -1,9 +1,12 @@
 ---
 slug: two-years-on-from-september-11
-title: "Two years on from September 11"
-date: 2003-09-10
-source-url: https://www.scoop.co.nz/stories/ED0309/S00036/two-years-on-from-september-11.htm
+title: Two years on from September 11
+date: 2003-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00036/two-years-on-from-september-11.htm
 author: university-of-otago
+permalink: /archive/2003/09/10/two-years-on-from-september-11/index.html
+layout: layout.njk
 ---
 Two years on from September 11
 ==============================

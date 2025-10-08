@@ -1,9 +1,12 @@
 ---
 slug: change-of-govt-key-to-ending-child-poverty
-title: "Change of Govt key to ending child poverty"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/PA1702/S00098/change-of-govt-key-to-ending-child-poverty.htm
+title: Change of Govt key to ending child poverty
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00098/change-of-govt-key-to-ending-child-poverty.htm
 author: green-party
+permalink: /archive/2017/02/08/change-of-govt-key-to-ending-child-poverty/index.html
+layout: layout.njk
 ---
 Change of Govt key to ending child poverty
 ==========================================

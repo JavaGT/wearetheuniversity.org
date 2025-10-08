@@ -1,9 +1,12 @@
 ---
 slug: aus-wrong-to-point-finger-at-national
-title: "AUS wrong to point finger at National"
-date: 2006-09-28
-source-url: https://www.scoop.co.nz/stories/PA0609/S00608/aus-wrong-to-point-finger-at-national.htm
+title: AUS wrong to point finger at National
+date: 2006-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00608/aus-wrong-to-point-finger-at-national.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/28/aus-wrong-to-point-finger-at-national/index.html
+layout: layout.njk
 ---
 AUS wrong to point finger at National
 =====================================

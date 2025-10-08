@@ -1,9 +1,12 @@
 ---
 slug: targeted-support-must-come-with-obligations
-title: "Targeted support must come with obligations"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/PA1808/S00111/targeted-support-must-come-with-obligations.htm
+title: Targeted support must come with obligations
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00111/targeted-support-must-come-with-obligations.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/09/targeted-support-must-come-with-obligations/index.html
+layout: layout.njk
 ---
 Targeted support must come with obligations
 ===========================================

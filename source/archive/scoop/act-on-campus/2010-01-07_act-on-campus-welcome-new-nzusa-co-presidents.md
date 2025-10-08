@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-welcome-new-nzusa-co-presidents
-title: "ACT on Campus Welcome New NZUSA Co-Presidents"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/ED1001/S00007/act-on-campus-welcome-new-nzusa-co-presidents.htm
+title: ACT on Campus Welcome New NZUSA Co-Presidents
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00007/act-on-campus-welcome-new-nzusa-co-presidents.htm
 author: act-on-campus
+permalink: /archive/2010/01/07/act-on-campus-welcome-new-nzusa-co-presidents/index.html
+layout: layout.njk
 ---
 ACT on Campus Welcome New NZUSA Co-Presidents
 =============================================

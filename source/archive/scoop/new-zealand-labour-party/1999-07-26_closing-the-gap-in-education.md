@@ -1,9 +1,11 @@
 ---
 slug: closing-the-gap-in-education
-title: "Closing the gap in education"
-date: 1999-07-26
+title: Closing the gap in education
+date: 1999-07-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9907/S00026/closing-the-gap-in-education.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/26/closing-the-gap-in-education/index.html
+layout: layout.njk
 ---
 Closing the gap in education
 ============================

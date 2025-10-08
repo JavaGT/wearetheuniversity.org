@@ -1,9 +1,13 @@
 ---
 slug: ageing-well-the-focus-for-national-science-challenge
-title: "Ageing well the focus for National Science Challenge"
-date: 2015-03-04
-source-url: https://www.scoop.co.nz/stories/SC1503/S00020/ageing-well-the-focus-for-national-science-challenge.htm
+title: Ageing well the focus for National Science Challenge
+date: 2015-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00020/ageing-well-the-focus-for-national-science-challenge.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/04/ageing-well-the-focus-for-national-science-challenge/index.html
+layout: layout.njk
 ---
 Ageing well the focus for National Science Challenge
 ====================================================

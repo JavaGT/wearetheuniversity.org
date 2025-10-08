@@ -1,9 +1,12 @@
 ---
 slug: staff-want-involvement-in-appointment-process
-title: "Staff want involvement in appointment process"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/ED0405/S00067/staff-want-involvement-in-appointment-process.htm
+title: Staff want involvement in appointment process
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00067/staff-want-involvement-in-appointment-process.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/19/staff-want-involvement-in-appointment-process/index.html
+layout: layout.njk
 ---
 Staff want involvement in appointment process
 =============================================

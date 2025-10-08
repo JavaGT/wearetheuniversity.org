@@ -1,9 +1,12 @@
 ---
 slug: national-crisis-in-water-quality
-title: "National Crisis in Water Quality"
-date: 2008-04-18
-source-url: https://www.scoop.co.nz/stories/PA0804/S00468/national-crisis-in-water-quality.htm
+title: National Crisis in Water Quality
+date: 2008-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00468/national-crisis-in-water-quality.htm
 author: green-party
+permalink: /archive/2008/04/18/national-crisis-in-water-quality/index.html
+layout: layout.njk
 ---
 National Crisis in Water Quality
 ================================

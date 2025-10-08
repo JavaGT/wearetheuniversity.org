@@ -1,9 +1,13 @@
 ---
 slug: primary-health-specialist-to-head-massey-college
-title: "Primary health specialist to head Massey college"
-date: 2016-11-08
-source-url: https://www.scoop.co.nz/stories/ED1611/S00044/primary-health-specialist-to-head-massey-college.htm
+title: Primary health specialist to head Massey college
+date: 2016-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00044/primary-health-specialist-to-head-massey-college.htm
 author: massey-university
+permalink: >-
+  /archive/2016/11/08/primary-health-specialist-to-head-massey-college/index.html
+layout: layout.njk
 ---
 Primary health specialist to head Massey college
 ================================================

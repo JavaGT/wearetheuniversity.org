@@ -1,9 +1,12 @@
 ---
 slug: mccutcheon-out-of-step-with-comments
-title: "McCutcheon Out Of Step With Comments"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/ED0507/S00119/mccutcheon-out-of-step-with-comments.htm
+title: McCutcheon Out Of Step With Comments
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00119/mccutcheon-out-of-step-with-comments.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2005/07/28/mccutcheon-out-of-step-with-comments/index.html
+layout: layout.njk
 ---
 McCutcheon Out Of Step With Comments
 ====================================

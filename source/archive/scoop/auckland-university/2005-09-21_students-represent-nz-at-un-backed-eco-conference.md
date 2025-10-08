@@ -1,9 +1,13 @@
 ---
 slug: students-represent-nz-at-un-backed-eco-conference
-title: "Students represent NZ at UN backed eco-conference"
-date: 2005-09-21
-source-url: https://www.scoop.co.nz/stories/ED0509/S00068/students-represent-nz-at-un-backed-eco-conference.htm
+title: Students represent NZ at UN backed eco-conference
+date: 2005-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00068/students-represent-nz-at-un-backed-eco-conference.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/09/21/students-represent-nz-at-un-backed-eco-conference/index.html
+layout: layout.njk
 ---
 Students represent NZ at UN backed eco-conference
 =================================================

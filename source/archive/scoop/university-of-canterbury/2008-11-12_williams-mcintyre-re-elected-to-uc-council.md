@@ -1,9 +1,12 @@
 ---
 slug: williams-mcintyre-re-elected-to-uc-council
-title: "Williams, McIntyre re-elected to UC Council"
-date: 2008-11-12
-source-url: https://www.scoop.co.nz/stories/ED0811/S00029/williams-mcintyre-re-elected-to-uc-council.htm
+title: Williams, McIntyre re-elected to UC Council
+date: 2008-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00029/williams-mcintyre-re-elected-to-uc-council.htm
 author: university-of-canterbury
+permalink: /archive/2008/11/12/williams-mcintyre-re-elected-to-uc-council/index.html
+layout: layout.njk
 ---
 Williams, McIntyre re-elected to UC Council
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-refuses-to-release-coastal-report
-title: "National refuses to release coastal report"
-date: 2010-05-06
-source-url: https://www.scoop.co.nz/stories/PA1005/S00110/national-refuses-to-release-coastal-report.htm
+title: National refuses to release coastal report
+date: 2010-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00110/national-refuses-to-release-coastal-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/06/national-refuses-to-release-coastal-report/index.html
+layout: layout.njk
 ---
 National refuses to release coastal report
 ==========================================

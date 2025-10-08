@@ -1,9 +1,12 @@
 ---
 slug: lincoln-to-host-nz-china-water-research-centre
-title: "Lincoln to host NZ-China water research centre"
-date: 2016-07-01
-source-url: https://www.scoop.co.nz/stories/ED1607/S00002/lincoln-to-host-nz-china-water-research-centre.htm
+title: Lincoln to host NZ-China water research centre
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00002/lincoln-to-host-nz-china-water-research-centre.htm
 author: lincoln-university
+permalink: /archive/2016/07/01/lincoln-to-host-nz-china-water-research-centre/index.html
+layout: layout.njk
 ---
 Lincoln to host NZ-China water research centre
 ==============================================

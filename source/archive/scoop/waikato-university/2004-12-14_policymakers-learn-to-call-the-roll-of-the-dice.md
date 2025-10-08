@@ -1,9 +1,12 @@
 ---
 slug: policymakers-learn-to-call-the-roll-of-the-dice
-title: "Policymakers Learn To Call The Roll Of \"The Dice\""
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/ED0412/S00049/policymakers-learn-to-call-the-roll-of-the-dice.htm
+title: Policymakers Learn To Call The Roll Of "The Dice"
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00049/policymakers-learn-to-call-the-roll-of-the-dice.htm
 author: waikato-university
+permalink: /archive/2004/12/14/policymakers-learn-to-call-the-roll-of-the-dice/index.html
+layout: layout.njk
 ---
 Policymakers Learn To Call The Roll Of \"The Dice"
 =================================================

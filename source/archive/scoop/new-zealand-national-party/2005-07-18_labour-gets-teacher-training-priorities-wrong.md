@@ -1,9 +1,12 @@
 ---
 slug: labour-gets-teacher-training-priorities-wrong
-title: "Labour gets teacher training priorities wrong"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PA0507/S00342/labour-gets-teacher-training-priorities-wrong.htm
+title: Labour gets teacher training priorities wrong
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00342/labour-gets-teacher-training-priorities-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/18/labour-gets-teacher-training-priorities-wrong/index.html
+layout: layout.njk
 ---
 Labour gets teacher training priorities wrong
 =============================================

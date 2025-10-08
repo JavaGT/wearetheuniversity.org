@@ -1,9 +1,13 @@
 ---
 slug: nz-first-supports-focus-on-driver-licence-initiative
-title: "NZ First Supports Focus on Driver Licence Initiative"
-date: 2019-04-10
-source-url: https://www.scoop.co.nz/stories/PA1904/S00097/nz-first-supports-focus-on-driver-licence-initiative.htm
+title: NZ First Supports Focus on Driver Licence Initiative
+date: 2019-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00097/nz-first-supports-focus-on-driver-licence-initiative.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/04/10/nz-first-supports-focus-on-driver-licence-initiative/index.html
+layout: layout.njk
 ---
 NZ First Supports Focus on Driver Licence Initiative
 ====================================================

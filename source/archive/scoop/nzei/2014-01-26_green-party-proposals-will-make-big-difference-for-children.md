@@ -1,9 +1,13 @@
 ---
 slug: green-party-proposals-will-make-big-difference-for-children
-title: "Green Party proposals will make big difference for children"
-date: 2014-01-26
-source-url: https://www.scoop.co.nz/stories/PO1401/S00095/green-party-proposals-will-make-big-difference-for-children.htm
+title: Green Party proposals will make big difference for children
+date: 2014-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00095/green-party-proposals-will-make-big-difference-for-children.htm
 author: nzei
+permalink: >-
+  /archive/2014/01/26/green-party-proposals-will-make-big-difference-for-children/index.html
+layout: layout.njk
 ---
 Green Party proposals will make big difference for children
 ===========================================================

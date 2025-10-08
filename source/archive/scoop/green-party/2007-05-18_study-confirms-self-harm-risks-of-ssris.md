@@ -1,9 +1,12 @@
 ---
 slug: study-confirms-self-harm-risks-of-ssris
-title: "Study confirms self harm risks of SSRIs"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/PA0705/S00512/study-confirms-self-harm-risks-of-ssris.htm
+title: Study confirms self harm risks of SSRIs
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00512/study-confirms-self-harm-risks-of-ssris.htm
 author: green-party
+permalink: /archive/2007/05/18/study-confirms-self-harm-risks-of-ssris/index.html
+layout: layout.njk
 ---
 Study confirms self harm risks of SSRIs
 =======================================

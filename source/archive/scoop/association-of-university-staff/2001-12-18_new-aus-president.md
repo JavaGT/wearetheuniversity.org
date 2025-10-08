@@ -1,9 +1,11 @@
 ---
 slug: new-aus-president
-title: "New AUS President"
-date: 2001-12-18
+title: New AUS President
+date: 2001-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0112/S00023/new-aus-president.htm
 author: association-of-university-staff
+permalink: /archive/2001/12/18/new-aus-president/index.html
+layout: layout.njk
 ---
 New AUS President
 =================

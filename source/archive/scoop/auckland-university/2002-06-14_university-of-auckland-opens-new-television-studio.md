@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-opens-new-television-studio
-title: "University of Auckland Opens New Television Studio"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/ED0206/S00030/university-of-auckland-opens-new-television-studio.htm
+title: University of Auckland Opens New Television Studio
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00030/university-of-auckland-opens-new-television-studio.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/06/14/university-of-auckland-opens-new-television-studio/index.html
+layout: layout.njk
 ---
 University of Auckland Opens New Television Studio
 ==================================================

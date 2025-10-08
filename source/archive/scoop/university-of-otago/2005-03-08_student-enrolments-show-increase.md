@@ -1,9 +1,12 @@
 ---
 slug: student-enrolments-show-increase
-title: "Student Enrolments Show Increase"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/ED0503/S00021/student-enrolments-show-increase.htm
+title: Student Enrolments Show Increase
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00021/student-enrolments-show-increase.htm
 author: university-of-otago
+permalink: /archive/2005/03/08/student-enrolments-show-increase/index.html
+layout: layout.njk
 ---
 Student Enrolments Show Increase
 ================================

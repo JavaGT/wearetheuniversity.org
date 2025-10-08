@@ -1,9 +1,13 @@
 ---
 slug: meeting-to-declare-zaoui-spokesperson-of-students
-title: "Meeting to declare Zaoui spokesperson of students’"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/ED0410/S00025/meeting-to-declare-zaoui-spokesperson-of-students.htm
+title: Meeting to declare Zaoui spokesperson of students’
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00025/meeting-to-declare-zaoui-spokesperson-of-students.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2004/10/07/meeting-to-declare-zaoui-spokesperson-of-students/index.html
+layout: layout.njk
 ---
 Meeting to declare Zaoui spokesperson of students’
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: 2013-new-zealand-student-media-awards-5-october-2013
-title: "2013 New Zealand Student Media awards - 5 October 2013"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/ED1310/S00049/2013-new-zealand-student-media-awards-5-october-2013.htm
+title: 2013 New Zealand Student Media awards - 5 October 2013
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00049/2013-new-zealand-student-media-awards-5-october-2013.htm
 author: salient
+permalink: >-
+  /archive/2013/10/07/2013-new-zealand-student-media-awards-5-october-2013/index.html
+layout: layout.njk
 ---
 2013 New Zealand Student Media awards - 5 October 2013
 ======================================================

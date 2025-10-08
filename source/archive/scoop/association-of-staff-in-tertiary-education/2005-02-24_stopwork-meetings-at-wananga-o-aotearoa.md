@@ -1,9 +1,12 @@
 ---
 slug: stopwork-meetings-at-wananga-o-aotearoa
-title: "Stopwork Meetings at Wananga o Aotearoa"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/ED0502/S00085/stopwork-meetings-at-wananga-o-aotearoa.htm
+title: Stopwork Meetings at Wananga o Aotearoa
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00085/stopwork-meetings-at-wananga-o-aotearoa.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/02/24/stopwork-meetings-at-wananga-o-aotearoa/index.html
+layout: layout.njk
 ---
 Stopwork Meetings at Wananga o Aotearoa
 =======================================

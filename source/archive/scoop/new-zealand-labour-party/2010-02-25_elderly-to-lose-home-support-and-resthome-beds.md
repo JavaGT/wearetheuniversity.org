@@ -1,9 +1,12 @@
 ---
 slug: elderly-to-lose-home-support-and-resthome-beds
-title: "Elderly to lose home support and resthome beds"
-date: 2010-02-25
-source-url: https://www.scoop.co.nz/stories/PA1002/S00367/elderly-to-lose-home-support-and-resthome-beds.htm
+title: Elderly to lose home support and resthome beds
+date: 2010-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00367/elderly-to-lose-home-support-and-resthome-beds.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/25/elderly-to-lose-home-support-and-resthome-beds/index.html
+layout: layout.njk
 ---
 Elderly to lose home support and resthome beds
 ==============================================

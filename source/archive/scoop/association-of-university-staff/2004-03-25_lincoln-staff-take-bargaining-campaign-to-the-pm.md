@@ -1,9 +1,13 @@
 ---
 slug: lincoln-staff-take-bargaining-campaign-to-the-pm
-title: "Lincoln Staff Take Bargaining Campaign to the PM"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/ED0403/S00107/lincoln-staff-take-bargaining-campaign-to-the-pm.htm
+title: Lincoln Staff Take Bargaining Campaign to the PM
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00107/lincoln-staff-take-bargaining-campaign-to-the-pm.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/03/25/lincoln-staff-take-bargaining-campaign-to-the-pm/index.html
+layout: layout.njk
 ---
 Lincoln Staff Take Bargaining Campaign to the PM
 ================================================

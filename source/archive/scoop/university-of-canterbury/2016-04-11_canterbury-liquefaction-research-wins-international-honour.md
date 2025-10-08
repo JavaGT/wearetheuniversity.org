@@ -1,9 +1,13 @@
 ---
 slug: canterbury-liquefaction-research-wins-international-honour
-title: "Canterbury liquefaction research wins international honour"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/SC1604/S00019/canterbury-liquefaction-research-wins-international-honour.htm
+title: Canterbury liquefaction research wins international honour
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00019/canterbury-liquefaction-research-wins-international-honour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/11/canterbury-liquefaction-research-wins-international-honour/index.html
+layout: layout.njk
 ---
 Canterbury liquefaction research wins international honour
 ==========================================================

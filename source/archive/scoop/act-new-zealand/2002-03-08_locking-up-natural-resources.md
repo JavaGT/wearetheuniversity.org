@@ -1,9 +1,11 @@
 ---
 slug: locking-up-natural-resources
-title: "Locking Up Natural Resources"
-date: 2002-03-08
+title: Locking Up Natural Resources
+date: 2002-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0203/S00159/locking-up-natural-resources.htm
 author: act-new-zealand
+permalink: /archive/2002/03/08/locking-up-natural-resources/index.html
+layout: layout.njk
 ---
 Locking Up Natural Resources
 ============================

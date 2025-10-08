@@ -1,9 +1,12 @@
 ---
 slug: 1000-jobs-and-$100million-parental-leave-price-tag
-title: "1000 Jobs And $100million Parental Leave Price Tag"
-date: 2000-04-27
-source-url: https://www.scoop.co.nz/stories/PA0004/S00355/1000-jobs-and-100million-parental-leave-price-tag.htm
+title: 1000 Jobs And $100million Parental Leave Price Tag
+date: 2000-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00355/1000-jobs-and-100million-parental-leave-price-tag.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/27/1000-jobs-and-/index.html
+layout: layout.njk
 ---
 1000 Jobs And $100million Parental Leave Price Tag
 ==================================================

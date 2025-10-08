@@ -1,9 +1,12 @@
 ---
 slug: address-in-reply-speech-to-parliament
-title: "Address In Reply Speech to Parliament"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/PA0702/S00219/address-in-reply-speech-to-parliament.htm
+title: Address In Reply Speech to Parliament
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00219/address-in-reply-speech-to-parliament.htm
 author: act-new-zealand
+permalink: /archive/2007/02/13/address-in-reply-speech-to-parliament/index.html
+layout: layout.njk
 ---
 Address In Reply Speech to Parliament
 =====================================

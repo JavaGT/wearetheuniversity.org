@@ -1,9 +1,12 @@
 ---
 slug: wellingtons-most-iconic-mo-mowed-for-movember
-title: "Wellington’s most iconic Mo mowed for Movember"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/CU1410/S00342/wellingtons-most-iconic-mo-mowed-for-movember.htm
+title: Wellington’s most iconic Mo mowed for Movember
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00342/wellingtons-most-iconic-mo-mowed-for-movember.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/16/wellingtons-most-iconic-mo-mowed-for-movember/index.html
+layout: layout.njk
 ---
 Wellington’s most iconic Mo mowed for Movember
 ==============================================

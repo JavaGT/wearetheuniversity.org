@@ -1,9 +1,11 @@
 ---
 slug: liberty-belle-18-june-2004
-title: "Liberty Belle 18 June 2004"
-date: 2004-06-18
+title: Liberty Belle 18 June 2004
+date: 2004-06-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00278/liberty-belle-18-june-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/06/18/liberty-belle-18-june-2004/index.html
+layout: layout.njk
 ---
 Liberty Belle 18 June 2004
 ==========================

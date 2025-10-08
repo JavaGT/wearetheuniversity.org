@@ -1,9 +1,13 @@
 ---
 slug: of-course-frackers-dont-want-more-fracking-regulations
-title: "Of course frackers don’t want more fracking regulations"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00130/of-course-frackers-dont-want-more-fracking-regulations.htm
+title: Of course frackers don’t want more fracking regulations
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00130/of-course-frackers-dont-want-more-fracking-regulations.htm
 author: green-party
+permalink: >-
+  /archive/2012/11/08/of-course-frackers-dont-want-more-fracking-regulations/index.html
+layout: layout.njk
 ---
 Of course frackers don’t want more fracking regulations
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: kapiti-gateway-architecture-exhibition-paraparaumu-beach
-title: "Kapiti Gateway Architecture Exhibition: Paraparaumu Beach"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/ED1708/S00102/kapiti-gateway-architecture-exhibition-paraparaumu-beach.htm
+title: 'Kapiti Gateway Architecture Exhibition: Paraparaumu Beach'
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00102/kapiti-gateway-architecture-exhibition-paraparaumu-beach.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/08/29/kapiti-gateway-architecture-exhibition-paraparaumu-beach/index.html
+layout: layout.njk
 ---
 Kapiti Gateway Architecture Exhibition: Paraparaumu Beach
 =========================================================

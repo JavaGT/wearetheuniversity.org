@@ -1,9 +1,12 @@
 ---
 slug: communities-can-fight-nats-pillage-of-doc-land
-title: "Communities can fight Nat’s pillage of DOC land"
-date: 2009-08-28
-source-url: https://www.scoop.co.nz/stories/PA0908/S00428/communities-can-fight-nats-pillage-of-doc-land.htm
+title: Communities can fight Nat’s pillage of DOC land
+date: 2009-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00428/communities-can-fight-nats-pillage-of-doc-land.htm
 author: green-party
+permalink: /archive/2009/08/28/communities-can-fight-nats-pillage-of-doc-land/index.html
+layout: layout.njk
 ---
 Communities can fight Nat’s pillage of DOC land
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: communal-learning-boosts-pasifika-maori-maths
-title: "Communal learning boosts Pasifika, Maori maths"
-date: 2009-07-06
-source-url: https://www.scoop.co.nz/stories/ED0907/S00024/communal-learning-boosts-pasifika-maori-maths.htm
+title: Communal learning boosts Pasifika, Maori maths
+date: 2009-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00024/communal-learning-boosts-pasifika-maori-maths.htm
 author: massey-university
+permalink: /archive/2009/07/06/communal-learning-boosts-pasifika-maori-maths/index.html
+layout: layout.njk
 ---
 Communal learning boosts Pasifika, Maori maths
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: poll-shows-minimal-public-support-for-new-teacher-roles
-title: "Poll shows minimal public support for new teacher roles"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/PO1405/S00062/poll-shows-minimal-public-support-for-new-teacher-roles.htm
+title: Poll shows minimal public support for new teacher roles
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00062/poll-shows-minimal-public-support-for-new-teacher-roles.htm
 author: nzei
+permalink: >-
+  /archive/2014/05/05/poll-shows-minimal-public-support-for-new-teacher-roles/index.html
+layout: layout.njk
 ---
 Poll shows minimal public support for new teacher roles
 =======================================================

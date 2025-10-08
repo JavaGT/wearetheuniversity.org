@@ -1,9 +1,12 @@
 ---
 slug: hide-there-should-be-no-limits-to-success
-title: "Hide: There Should Be No Limits To Success"
-date: 2008-02-07
-source-url: https://www.scoop.co.nz/stories/PA0802/S00062/hide-there-should-be-no-limits-to-success.htm
+title: 'Hide: There Should Be No Limits To Success'
+date: 2008-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00062/hide-there-should-be-no-limits-to-success.htm
 author: act-new-zealand
+permalink: /archive/2008/02/07/hide-there-should-be-no-limits-to-success/index.html
+layout: layout.njk
 ---
 Hide: There Should Be No Limits To Success
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-researcher-wins-funding-for-revolutionary-research
-title: "Victoria researcher wins funding for revolutionary research"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/SC1506/S00027/victoria-researcher-wins-funding-for-revolutionary-research.htm
+title: Victoria researcher wins funding for revolutionary research
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00027/victoria-researcher-wins-funding-for-revolutionary-research.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/06/05/victoria-researcher-wins-funding-for-revolutionary-research/index.html
+layout: layout.njk
 ---
 Victoria researcher wins funding for revolutionary research
 ===========================================================

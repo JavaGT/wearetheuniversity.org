@@ -1,9 +1,13 @@
 ---
 slug: foreign-students-lured-to-nz-with-travel-by-mouse
-title: "Foreign Students Lured To NZ With Travel By Mouse"
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/ED0108/S00042/foreign-students-lured-to-nz-with-travel-by-mouse.htm
+title: Foreign Students Lured To NZ With Travel By Mouse
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00042/foreign-students-lured-to-nz-with-travel-by-mouse.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2001/08/14/foreign-students-lured-to-nz-with-travel-by-mouse/index.html
+layout: layout.njk
 ---
 Foreign Students Lured To NZ With Travel By Mouse
 =================================================

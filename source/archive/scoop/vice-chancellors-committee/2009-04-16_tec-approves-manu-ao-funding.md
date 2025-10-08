@@ -1,9 +1,11 @@
 ---
 slug: tec-approves-manu-ao-funding
-title: "TEC approves MANU-AO funding"
-date: 2009-04-16
+title: TEC approves MANU-AO funding
+date: 2009-04-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0904/S00035/tec-approves-manu-ao-funding.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/04/16/tec-approves-manu-ao-funding/index.html
+layout: layout.njk
 ---
 TEC approves MANU-AO funding
 ============================

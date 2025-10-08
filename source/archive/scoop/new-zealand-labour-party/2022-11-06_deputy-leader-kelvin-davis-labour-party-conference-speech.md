@@ -1,9 +1,13 @@
 ---
 slug: deputy-leader-kelvin-davis-labour-party-conference-speech
-title: "Deputy Leader Kelvin Davis Labour Party Conference Speech"
-date: 2022-11-06
-source-url: https://www.scoop.co.nz/stories/PA2211/S00044/deputy-leader-kelvin-davis-labour-party-conference-speech.htm
+title: Deputy Leader Kelvin Davis Labour Party Conference Speech
+date: 2022-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00044/deputy-leader-kelvin-davis-labour-party-conference-speech.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2022/11/06/deputy-leader-kelvin-davis-labour-party-conference-speech/index.html
+layout: layout.njk
 ---
 Deputy Leader Kelvin Davis Labour Party Conference Speech
 =========================================================

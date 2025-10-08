@@ -1,9 +1,12 @@
 ---
 slug: lincoln-doctorates-for-sir-tipene-and-pce
-title: "Lincoln doctorates for Sir Tipene and PCE"
-date: 2004-04-19
-source-url: https://www.scoop.co.nz/stories/ED0404/S00054/lincoln-doctorates-for-sir-tipene-and-pce.htm
+title: Lincoln doctorates for Sir Tipene and PCE
+date: 2004-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00054/lincoln-doctorates-for-sir-tipene-and-pce.htm
 author: lincoln-university
+permalink: /archive/2004/04/19/lincoln-doctorates-for-sir-tipene-and-pce/index.html
+layout: layout.njk
 ---
 Lincoln doctorates for Sir Tipene and PCE
 =========================================

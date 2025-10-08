@@ -1,9 +1,12 @@
 ---
 slug: commissioner-&-inquiry-into-wananga-both-needed
-title: "Commissioner & inquiry into wananga both needed"
-date: 2005-02-25
-source-url: https://www.scoop.co.nz/stories/PA0502/S00550/commissioner-inquiry-into-wananga-both-needed.htm
+title: Commissioner & inquiry into wananga both needed
+date: 2005-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00550/commissioner-inquiry-into-wananga-both-needed.htm
 author: act-new-zealand
+permalink: /archive/2005/02/25/commissioner-/index.html
+layout: layout.njk
 ---
 Commissioner & inquiry into wananga both needed
 ===============================================

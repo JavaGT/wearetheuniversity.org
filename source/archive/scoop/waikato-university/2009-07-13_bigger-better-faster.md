@@ -1,9 +1,11 @@
 ---
 slug: bigger-better-faster
-title: "Bigger, better, faster"
-date: 2009-07-13
+title: Bigger, better, faster
+date: 2009-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0907/S00180/bigger-better-faster.htm
 author: waikato-university
+permalink: /archive/2009/07/13/bigger-better-faster/index.html
+layout: layout.njk
 ---
 Bigger, better, faster
 ======================

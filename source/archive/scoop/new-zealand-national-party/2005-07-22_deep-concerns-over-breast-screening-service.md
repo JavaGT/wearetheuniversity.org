@@ -1,9 +1,12 @@
 ---
 slug: deep-concerns-over-breast-screening-service
-title: "Deep concerns over breast screening service"
-date: 2005-07-22
-source-url: https://www.scoop.co.nz/stories/PA0507/S00472/deep-concerns-over-breast-screening-service.htm
+title: Deep concerns over breast screening service
+date: 2005-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00472/deep-concerns-over-breast-screening-service.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/22/deep-concerns-over-breast-screening-service/index.html
+layout: layout.njk
 ---
 Deep concerns over breast screening service
 ===========================================

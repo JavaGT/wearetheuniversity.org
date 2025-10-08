@@ -1,9 +1,12 @@
 ---
 slug: weakening-the-rma-is-a-major-health-risk
-title: "Weakening the RMA is a major health risk"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/GE1611/S00042/weakening-the-rma-is-a-major-health-risk.htm
+title: Weakening the RMA is a major health risk
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00042/weakening-the-rma-is-a-major-health-risk.htm
 author: university-of-otago
+permalink: /archive/2016/11/10/weakening-the-rma-is-a-major-health-risk/index.html
+layout: layout.njk
 ---
 Weakening the RMA is a major health risk
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: ctu-announces-election-of-new-secretary
-title: "CTU announces election of new Secretary"
-date: 2014-10-30
-source-url: https://www.scoop.co.nz/stories/PO1410/S00297/ctu-announces-election-of-new-secretary.htm
+title: CTU announces election of new Secretary
+date: 2014-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00297/ctu-announces-election-of-new-secretary.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/10/30/ctu-announces-election-of-new-secretary/index.html
+layout: layout.njk
 ---
 CTU announces election of new Secretary
 =======================================

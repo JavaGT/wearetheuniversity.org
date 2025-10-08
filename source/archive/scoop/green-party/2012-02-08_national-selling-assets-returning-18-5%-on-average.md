@@ -1,9 +1,12 @@
 ---
 slug: national-selling-assets-returning-18-5%-on-average
-title: "National selling assets returning 18.5% on average"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00079/national-selling-assets-returning-185-on-average.htm
+title: National selling assets returning 18.5% on average
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00079/national-selling-assets-returning-185-on-average.htm
 author: green-party
+permalink: /archive/2012/02/08/national-selling-assets-returning-18-5/index.html
+layout: layout.njk
 ---
 National selling assets returning 18.5% on average
 ==================================================

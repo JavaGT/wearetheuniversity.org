@@ -1,9 +1,12 @@
 ---
 slug: cullen-confirms-worst-on-loans-scheme
-title: "Cullen confirms worst on loans scheme"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/PA0508/S00333/cullen-confirms-worst-on-loans-scheme.htm
+title: Cullen confirms worst on loans scheme
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00333/cullen-confirms-worst-on-loans-scheme.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/12/cullen-confirms-worst-on-loans-scheme/index.html
+layout: layout.njk
 ---
 Cullen confirms worst on loans scheme
 =====================================

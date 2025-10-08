@@ -1,9 +1,12 @@
 ---
 slug: what-did-you-learn-last-week-mrs-tolley
-title: "What did you learn last week, Mrs Tolley?"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/PA0909/S00177/what-did-you-learn-last-week-mrs-tolley.htm
+title: What did you learn last week, Mrs Tolley?
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00177/what-did-you-learn-last-week-mrs-tolley.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/14/what-did-you-learn-last-week-mrs-tolley/index.html
+layout: layout.njk
 ---
 What did you learn last week, Mrs Tolley?
 =========================================

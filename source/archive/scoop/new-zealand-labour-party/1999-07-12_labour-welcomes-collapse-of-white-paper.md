@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-collapse-of-white-paper
-title: "Labour welcomes collapse of White Paper"
-date: 1999-07-12
-source-url: https://www.scoop.co.nz/stories/PA9907/S00166/labour-welcomes-collapse-of-white-paper.htm
+title: Labour welcomes collapse of White Paper
+date: 1999-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00166/labour-welcomes-collapse-of-white-paper.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/12/labour-welcomes-collapse-of-white-paper/index.html
+layout: layout.njk
 ---
 Labour welcomes collapse of White Paper
 =======================================

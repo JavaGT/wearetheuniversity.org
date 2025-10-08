@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-special-guest-edition
-title: "Heather Roy's Diary:  Special Guest Edition"
-date: 2009-09-05
-source-url: https://www.scoop.co.nz/stories/PA0909/S00070/heather-roys-diary-special-guest-edition.htm
+title: 'Heather Roy''s Diary:  Special Guest Edition'
+date: 2009-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00070/heather-roys-diary-special-guest-edition.htm
 author: act-new-zealand
+permalink: /archive/2009/09/05/heather-roys-diary-special-guest-edition/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Special Guest Edition
 ==========================================

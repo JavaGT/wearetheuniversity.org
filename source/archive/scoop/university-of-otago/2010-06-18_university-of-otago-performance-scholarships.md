@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-performance-scholarships
-title: "University of Otago Performance Scholarships"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/ED1006/S00068/university-of-otago-performance-scholarships.htm
+title: University of Otago Performance Scholarships
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00068/university-of-otago-performance-scholarships.htm
 author: university-of-otago
+permalink: /archive/2010/06/18/university-of-otago-performance-scholarships/index.html
+layout: layout.njk
 ---
 University of Otago Performance Scholarships
 ============================================

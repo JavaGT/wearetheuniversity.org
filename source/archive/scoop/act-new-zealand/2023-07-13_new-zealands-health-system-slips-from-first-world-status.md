@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-health-system-slips-from-first-world-status
-title: "New Zealand’s Health System Slips From First World Status"
-date: 2023-07-13
-source-url: https://www.scoop.co.nz/stories/PA2307/S00063/new-zealands-health-system-slips-from-first-world-status.htm
+title: New Zealand’s Health System Slips From First World Status
+date: 2023-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00063/new-zealands-health-system-slips-from-first-world-status.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/07/13/new-zealands-health-system-slips-from-first-world-status/index.html
+layout: layout.njk
 ---
 New Zealand’s Health System Slips From First World Status
 =========================================================

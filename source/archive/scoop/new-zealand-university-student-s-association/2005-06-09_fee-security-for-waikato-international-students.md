@@ -1,9 +1,12 @@
 ---
 slug: fee-security-for-waikato-international-students
-title: "Fee security for Waikato International Students"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PO0506/S00074/fee-security-for-waikato-international-students.htm
+title: Fee security for Waikato International Students
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00074/fee-security-for-waikato-international-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/06/09/fee-security-for-waikato-international-students/index.html
+layout: layout.njk
 ---
 Fee security for Waikato International Students
 ===============================================

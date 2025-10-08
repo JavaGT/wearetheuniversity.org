@@ -1,9 +1,13 @@
 ---
 slug: wellington-bureaucrats-could-learn-from-soda-and-sammies
-title: "Wellington Bureaucrats Could Learn From Soda And Sammies"
-date: 2021-05-01
-source-url: https://www.scoop.co.nz/stories/PA2105/S00001/wellington-bureaucrats-could-learn-from-soda-and-sammies.htm
+title: Wellington Bureaucrats Could Learn From Soda And Sammies
+date: 2021-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00001/wellington-bureaucrats-could-learn-from-soda-and-sammies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/05/01/wellington-bureaucrats-could-learn-from-soda-and-sammies/index.html
+layout: layout.njk
 ---
 Wellington Bureaucrats Could Learn From Soda And Sammies
 ========================================================

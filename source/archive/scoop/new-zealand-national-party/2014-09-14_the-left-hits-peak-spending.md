@@ -1,9 +1,11 @@
 ---
 slug: the-left-hits-peak-spending
-title: "The Left hits \"peak spending\""
-date: 2014-09-14
+title: The Left hits "peak spending"
+date: 2014-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1409/S00202/the-left-hits-peak-spending.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/14/the-left-hits-peak-spending/index.html
+layout: layout.njk
 ---
 The Left hits “peak spending”
 =============================

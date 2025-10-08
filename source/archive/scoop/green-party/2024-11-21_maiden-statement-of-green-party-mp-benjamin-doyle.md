@@ -1,9 +1,13 @@
 ---
 slug: maiden-statement-of-green-party-mp-benjamin-doyle
-title: "Maiden Statement Of Green Party MP Benjamin Doyle"
-date: 2024-11-21
-source-url: https://www.scoop.co.nz/stories/PA2411/S00179/maiden-statement-of-green-party-mp-benjamin-doyle.htm
+title: Maiden Statement Of Green Party MP Benjamin Doyle
+date: 2024-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00179/maiden-statement-of-green-party-mp-benjamin-doyle.htm
 author: green-party
+permalink: >-
+  /archive/2024/11/21/maiden-statement-of-green-party-mp-benjamin-doyle/index.html
+layout: layout.njk
 ---
 Maiden Statement Of Green Party MP Benjamin Doyle
 =================================================

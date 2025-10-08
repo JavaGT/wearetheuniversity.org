@@ -1,9 +1,11 @@
 ---
 slug: what-makes-good-farmers-good
-title: "What Makes Good Farmers Good?"
-date: 2009-09-25
+title: What Makes Good Farmers Good?
+date: 2009-09-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0909/S00106/what-makes-good-farmers-good.htm
 author: lincoln-university
+permalink: /archive/2009/09/25/what-makes-good-farmers-good/index.html
+layout: layout.njk
 ---
 What Makes Good Farmers Good?
 =============================

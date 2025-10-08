@@ -1,9 +1,12 @@
 ---
 slug: plastic-plague-polluting-land-sea-&-our-bodies
-title: "Plastic Plague Polluting Land, Sea, & Our Bodies"
-date: 2017-06-27
-source-url: https://www.scoop.co.nz/stories/ED1706/S00092/plastic-plague-polluting-land-sea-our-bodies.htm
+title: Plastic Plague Polluting Land, Sea, & Our Bodies
+date: 2017-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00092/plastic-plague-polluting-land-sea-our-bodies.htm
 author: massey-university
+permalink: /archive/2017/06/27/plastic-plague-polluting-land-sea-/index.html
+layout: layout.njk
 ---
 Plastic Plague Polluting Land, Sea, & Our Bodies
 ================================================

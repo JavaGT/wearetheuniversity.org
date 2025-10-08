@@ -1,10 +1,13 @@
 ---
 title: Invest in Education
 slug: invest-in-education
-date: 2011-12-31
-source: https://web.archive.org/web/20111231054207/http://www.demandabetterfuture.org.nz/index.php/invest-in-education
+date: 2011-12-31T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20111231054207/http://www.demandabetterfuture.org.nz/index.php/invest-in-education
 author: NZUSA
 author-slug: nzusa
+permalink: /archive/2011/12/31/invest-in-education/index.html
+layout: layout.njk
 ---
 Date refers to the date page was archived by the Wayback Machine.
 Wayback machine did not archive the separate pages, so only the first page is available.

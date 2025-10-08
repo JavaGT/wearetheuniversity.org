@@ -1,9 +1,12 @@
 ---
 slug: uc-researcher-receives-$1-million-to-investigate-3d-media
-title: "UC researcher receives $1 million to investigate 3D media"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/BU1308/S01102/uc-researcher-receives-1-million-to-investigate-3d-media.htm
+title: UC researcher receives $1 million to investigate 3D media
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S01102/uc-researcher-receives-1-million-to-investigate-3d-media.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/29/uc-researcher-receives-/index.html
+layout: layout.njk
 ---
 UC researcher receives $1 million to investigate 3D media
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: measuring-academic-research-a-lottery-professor
-title: "Measuring academic research a lottery: Professor"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/ED0508/S00061/measuring-academic-research-a-lottery-professor.htm
+title: 'Measuring academic research a lottery: Professor'
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00061/measuring-academic-research-a-lottery-professor.htm
 author: aut-university
+permalink: /archive/2005/08/11/measuring-academic-research-a-lottery-professor/index.html
+layout: layout.njk
 ---
 Measuring academic research a lottery: Professor
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: education-labours-track-record-1999-2005
-title: "Education: Labour's Track Record 1999-2005"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00657/education-labours-track-record-1999-2005.htm
+title: 'Education: Labour''s Track Record 1999-2005'
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00657/education-labours-track-record-1999-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/25/education-labours-track-record-1999-2005/index.html
+layout: layout.njk
 ---
 Education: Labour's Track Record 1999-2005
 ==========================================

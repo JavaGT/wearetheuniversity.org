@@ -1,9 +1,12 @@
 ---
 slug: lift-drinking-age-now-says-nz-first
-title: "Lift Drinking Age Now Says NZ First"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00066/lift-drinking-age-now-says-nz-first.htm
+title: Lift Drinking Age Now Says NZ First
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00066/lift-drinking-age-now-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/04/lift-drinking-age-now-says-nz-first/index.html
+layout: layout.njk
 ---
 Lift Drinking Age Now Says NZ First
 ===================================

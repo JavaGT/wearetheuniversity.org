@@ -1,9 +1,13 @@
 ---
 slug: young-leaders-to-cast-elections-first-votes-on-november-9
-title: "Young Leaders to Cast Election's First Votes on November 9"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/PO1111/S00194/young-leaders-to-cast-elections-first-votes-on-november-9.htm
+title: Young Leaders to Cast Election's First Votes on November 9
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00194/young-leaders-to-cast-elections-first-votes-on-november-9.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/11/08/young-leaders-to-cast-elections-first-votes-on-november-9/index.html
+layout: layout.njk
 ---
 Young Leaders to Cast Election's First Votes on November 9
 ==========================================================

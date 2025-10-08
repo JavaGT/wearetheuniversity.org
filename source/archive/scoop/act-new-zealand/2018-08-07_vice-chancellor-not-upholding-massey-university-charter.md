@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellor-not-upholding-massey-university-charter
-title: "Vice-Chancellor not upholding Massey University Charter"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PA1808/S00068/vice-chancellor-not-upholding-massey-university-charter.htm
+title: Vice-Chancellor not upholding Massey University Charter
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00068/vice-chancellor-not-upholding-massey-university-charter.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/08/07/vice-chancellor-not-upholding-massey-university-charter/index.html
+layout: layout.njk
 ---
 Vice-Chancellor not upholding Massey University Charter
 =======================================================

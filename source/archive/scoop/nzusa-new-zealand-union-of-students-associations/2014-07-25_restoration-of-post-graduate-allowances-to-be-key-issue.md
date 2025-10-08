@@ -1,9 +1,13 @@
 ---
 slug: restoration-of-post-graduate-allowances-to-be-key-issue
-title: "Restoration of Post-graduate Allowances to be Key Issue"
-date: 2014-07-25
-source-url: https://www.scoop.co.nz/stories/PO1407/S00405/restoration-of-post-graduate-allowances-to-be-key-issue.htm
+title: Restoration of Post-graduate Allowances to be Key Issue
+date: 2014-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00405/restoration-of-post-graduate-allowances-to-be-key-issue.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/07/25/restoration-of-post-graduate-allowances-to-be-key-issue/index.html
+layout: layout.njk
 ---
 Restoration of Post-graduate Allowances to be Key Issue
 =======================================================

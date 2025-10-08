@@ -1,9 +1,12 @@
 ---
 slug: students-re-launch-campaign-against-rape
-title: "Students Re-Launch Campaign Against Rape"
-date: 2001-05-16
-source-url: https://www.scoop.co.nz/stories/ED0105/S00026/students-re-launch-campaign-against-rape.htm
+title: Students Re-Launch Campaign Against Rape
+date: 2001-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00026/students-re-launch-campaign-against-rape.htm
 author: victoria-university-students-association
+permalink: /archive/2001/05/16/students-re-launch-campaign-against-rape/index.html
+layout: layout.njk
 ---
 Students Re-Launch Campaign Against Rape
 ========================================

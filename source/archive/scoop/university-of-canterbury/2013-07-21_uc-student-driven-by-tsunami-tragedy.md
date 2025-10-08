@@ -1,9 +1,12 @@
 ---
 slug: uc-student-driven-by-tsunami-tragedy
-title: "UC student driven by tsunami tragedy"
-date: 2013-07-21
-source-url: https://www.scoop.co.nz/stories/ED1307/S00115/uc-student-driven-by-tsunami-tragedy.htm
+title: UC student driven by tsunami tragedy
+date: 2013-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00115/uc-student-driven-by-tsunami-tragedy.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/21/uc-student-driven-by-tsunami-tragedy/index.html
+layout: layout.njk
 ---
 UC student driven by tsunami tragedy
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: researcher-seeking-biological-cure-for-hearing-loss
-title: "Researcher seeking biological cure for hearing loss"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/SC1307/S00005/researcher-seeking-biological-cure-for-hearing-loss.htm
+title: Researcher seeking biological cure for hearing loss
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00005/researcher-seeking-biological-cure-for-hearing-loss.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/02/researcher-seeking-biological-cure-for-hearing-loss/index.html
+layout: layout.njk
 ---
 Researcher seeking biological cure for hearing loss
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-delivers-address-in-london
-title: "UC expert delivers address in London"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/PO1211/S00075/uc-expert-delivers-address-in-london.htm
+title: UC expert delivers address in London
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00075/uc-expert-delivers-address-in-london.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/06/uc-expert-delivers-address-in-london/index.html
+layout: layout.njk
 ---
 UC expert delivers address in London
 ====================================

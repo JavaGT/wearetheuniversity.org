@@ -1,9 +1,13 @@
 ---
 slug: prestigious-research-honour-recognises-stroke-advances
-title: "Prestigious research honour recognises stroke advances"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/SC1511/S00037/prestigious-research-honour-recognises-stroke-advances.htm
+title: Prestigious research honour recognises stroke advances
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00037/prestigious-research-honour-recognises-stroke-advances.htm
 author: aut-university
+permalink: >-
+  /archive/2015/11/11/prestigious-research-honour-recognises-stroke-advances/index.html
+layout: layout.njk
 ---
 Prestigious research honour recognises stroke advances
 ======================================================

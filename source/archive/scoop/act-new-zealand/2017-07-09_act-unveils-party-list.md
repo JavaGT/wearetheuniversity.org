@@ -1,9 +1,11 @@
 ---
 slug: act-unveils-party-list
-title: "ACT Unveils Party List"
-date: 2017-07-09
+title: ACT Unveils Party List
+date: 2017-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1707/S00137/act-unveils-party-list.htm
 author: act-new-zealand
+permalink: /archive/2017/07/09/act-unveils-party-list/index.html
+layout: layout.njk
 ---
 ACT Unveils Party List
 ======================

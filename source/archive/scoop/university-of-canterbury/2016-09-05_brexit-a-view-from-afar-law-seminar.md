@@ -1,9 +1,12 @@
 ---
 slug: brexit-a-view-from-afar-law-seminar
-title: "Brexit: a view from afar - law seminar"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/ED1609/S00021/brexit-a-view-from-afar-law-seminar.htm
+title: 'Brexit: a view from afar - law seminar'
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00021/brexit-a-view-from-afar-law-seminar.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/05/brexit-a-view-from-afar-law-seminar/index.html
+layout: layout.njk
 ---
 Brexit: a view from afar - law seminar
 ======================================

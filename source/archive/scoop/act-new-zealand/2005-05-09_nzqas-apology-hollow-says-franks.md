@@ -1,9 +1,12 @@
 ---
 slug: nzqas-apology-hollow-says-franks
-title: "NZQA's apology hollow, says Franks"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/PA0505/S00182/nzqas-apology-hollow-says-franks.htm
+title: NZQA's apology hollow, says Franks
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00182/nzqas-apology-hollow-says-franks.htm
 author: act-new-zealand
+permalink: /archive/2005/05/09/nzqas-apology-hollow-says-franks/index.html
+layout: layout.njk
 ---
 NZQA's apology hollow, says Franks
 ==================================

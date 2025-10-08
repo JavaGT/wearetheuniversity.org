@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-new-zealands-economic-upgrade
-title: "Cunliffe: New Zealand’s Economic Upgrade"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/PA1403/S00273/cunliffe-new-zealands-economic-upgrade.htm
+title: 'Cunliffe: New Zealand’s Economic Upgrade'
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00273/cunliffe-new-zealands-economic-upgrade.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/14/cunliffe-new-zealands-economic-upgrade/index.html
+layout: layout.njk
 ---
 Cunliffe: New Zealand’s Economic Upgrade
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: its-a-d-for-ird-over-student-loan-arrest
-title: "It's a 'D' for IRD Over Student Loan Arrest"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/PO1604/S00084/its-a-d-for-ird-over-student-loan-arrest.htm
+title: It's a 'D' for IRD Over Student Loan Arrest
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00084/its-a-d-for-ird-over-student-loan-arrest.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/04/07/its-a-d-for-ird-over-student-loan-arrest/index.html
+layout: layout.njk
 ---
 It's a 'D' for IRD Over Student Loan Arrest
 ===========================================

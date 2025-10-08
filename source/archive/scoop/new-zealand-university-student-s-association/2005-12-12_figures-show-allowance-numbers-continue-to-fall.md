@@ -1,9 +1,12 @@
 ---
 slug: figures-show-allowance-numbers-continue-to-fall
-title: "Figures show allowance numbers continue to fall"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/ED0512/S00051/figures-show-allowance-numbers-continue-to-fall.htm
+title: Figures show allowance numbers continue to fall
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00051/figures-show-allowance-numbers-continue-to-fall.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/12/12/figures-show-allowance-numbers-continue-to-fall/index.html
+layout: layout.njk
 ---
 Figures show allowance numbers continue to fall
 ===============================================

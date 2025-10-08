@@ -1,9 +1,12 @@
 ---
 slug: scholarships-support-dairy-dream
-title: "Scholarships support dairy dream"
-date: 2016-03-09
-source-url: https://www.scoop.co.nz/stories/ED1603/S00031/scholarships-support-dairy-dream.htm
+title: Scholarships support dairy dream
+date: 2016-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00031/scholarships-support-dairy-dream.htm
 author: lincoln-university
+permalink: /archive/2016/03/09/scholarships-support-dairy-dream/index.html
+layout: layout.njk
 ---
 Scholarships support dairy dream
 ================================

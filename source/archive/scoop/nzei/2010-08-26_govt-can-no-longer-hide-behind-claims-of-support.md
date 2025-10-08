@@ -1,9 +1,13 @@
 ---
 slug: govt-can-no-longer-hide-behind-claims-of-support
-title: "Govt Can No Longer Hide Behind Claims of Support"
-date: 2010-08-26
-source-url: https://www.scoop.co.nz/stories/ED1008/S00097/govt-can-no-longer-hide-behind-claims-of-support.htm
+title: Govt Can No Longer Hide Behind Claims of Support
+date: 2010-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00097/govt-can-no-longer-hide-behind-claims-of-support.htm
 author: nzei
+permalink: >-
+  /archive/2010/08/26/govt-can-no-longer-hide-behind-claims-of-support/index.html
+layout: layout.njk
 ---
 Govt Can No Longer Hide Behind Claims of Support
 ================================================

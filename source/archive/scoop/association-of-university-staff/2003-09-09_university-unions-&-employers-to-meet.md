@@ -1,9 +1,12 @@
 ---
 slug: university-unions-&-employers-to-meet
-title: "University unions & employers to meet"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/ED0309/S00029/university-unions-employers-to-meet.htm
+title: University unions & employers to meet
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00029/university-unions-employers-to-meet.htm
 author: association-of-university-staff
+permalink: /archive/2003/09/09/university-unions-/index.html
+layout: layout.njk
 ---
 University unions & employers to meet
 =====================================

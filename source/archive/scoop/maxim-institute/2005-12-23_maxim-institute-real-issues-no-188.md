@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-188
-title: "Maxim Institute - real issues - No 188"
-date: 2005-12-23
-source-url: https://www.scoop.co.nz/stories/PO0512/S00186/maxim-institute-real-issues-no-188.htm
+title: Maxim Institute - real issues - No 188
+date: 2005-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0512/S00186/maxim-institute-real-issues-no-188.htm
 author: maxim-institute
+permalink: /archive/2005/12/23/maxim-institute-real-issues-no-188/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 188
 ======================================

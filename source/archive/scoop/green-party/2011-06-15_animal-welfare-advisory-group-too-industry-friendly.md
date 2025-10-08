@@ -1,9 +1,13 @@
 ---
 slug: animal-welfare-advisory-group-too-industry-friendly
-title: "Animal welfare advisory group too industry friendly"
-date: 2011-06-15
-source-url: https://www.scoop.co.nz/stories/PA1106/S00243/animal-welfare-advisory-group-too-industry-friendly.htm
+title: Animal welfare advisory group too industry friendly
+date: 2011-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00243/animal-welfare-advisory-group-too-industry-friendly.htm
 author: green-party
+permalink: >-
+  /archive/2011/06/15/animal-welfare-advisory-group-too-industry-friendly/index.html
+layout: layout.njk
 ---
 Animal welfare advisory group too industry friendly
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: hands-off-ministry-slated-for-school-food-policy
-title: "Hands-off Ministry slated for school food policy"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/PA0311/S00336/hands-off-ministry-slated-for-school-food-policy.htm
+title: Hands-off Ministry slated for school food policy
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00336/hands-off-ministry-slated-for-school-food-policy.htm
 author: green-party
+permalink: >-
+  /archive/2003/11/17/hands-off-ministry-slated-for-school-food-policy/index.html
+layout: layout.njk
 ---
 Hands-off Ministry slated for school food policy
 ================================================

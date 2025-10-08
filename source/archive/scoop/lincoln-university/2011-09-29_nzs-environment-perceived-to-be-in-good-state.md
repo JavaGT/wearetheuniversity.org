@@ -1,9 +1,12 @@
 ---
 slug: nzs-environment-perceived-to-be-in-good-state
-title: "NZ's environment perceived to be in ‘good’ state"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/AK1109/S00836/nzs-environment-perceived-to-be-in-good-state.htm
+title: NZ's environment perceived to be in ‘good’ state
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1109/S00836/nzs-environment-perceived-to-be-in-good-state.htm
 author: lincoln-university
+permalink: /archive/2011/09/29/nzs-environment-perceived-to-be-in-good-state/index.html
+layout: layout.njk
 ---
 NZ's environment perceived to be in ‘good’ state
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: $14-million-boost-for-strengthening-families
-title: "$14 million boost for Strengthening Families"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00383/14-million-boost-for-strengthening-families.htm
+title: $14 million boost for Strengthening Families
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00383/14-million-boost-for-strengthening-families.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/14/14-million-boost-for-strengthening-families/index.html
+layout: layout.njk
 ---
 $14 million boost for Strengthening Families
 ============================================

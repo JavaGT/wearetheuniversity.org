@@ -1,9 +1,13 @@
 ---
 slug: patients-prescribed-medications-for-longer-than-recommended
-title: "Patients prescribed medications for longer than recommended"
-date: 2018-12-05
-source-url: https://www.scoop.co.nz/stories/GE1812/S00028/patients-prescribed-medications-for-longer-than-recommended.htm
+title: Patients prescribed medications for longer than recommended
+date: 2018-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1812/S00028/patients-prescribed-medications-for-longer-than-recommended.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/12/05/patients-prescribed-medications-for-longer-than-recommended/index.html
+layout: layout.njk
 ---
 Patients prescribed medications for longer than recommended
 ===========================================================

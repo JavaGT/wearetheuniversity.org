@@ -1,9 +1,12 @@
 ---
 slug: dalziel-investment-identity-and-independence
-title: "Dalziel: Investment, Identity and Independence"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PO9911/S00027/dalziel-investment-identity-and-independence.htm
+title: 'Dalziel: Investment, Identity and Independence'
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00027/dalziel-investment-identity-and-independence.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/04/dalziel-investment-identity-and-independence/index.html
+layout: layout.njk
 ---
 Dalziel: Investment, Identity and Independence
 ==============================================

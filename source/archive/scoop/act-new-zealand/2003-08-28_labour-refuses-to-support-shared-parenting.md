@@ -1,9 +1,12 @@
 ---
 slug: labour-refuses-to-support-shared-parenting
-title: "Labour Refuses To Support Shared Parenting"
-date: 2003-08-28
-source-url: https://www.scoop.co.nz/stories/PA0308/S00536/labour-refuses-to-support-shared-parenting.htm
+title: Labour Refuses To Support Shared Parenting
+date: 2003-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00536/labour-refuses-to-support-shared-parenting.htm
 author: act-new-zealand
+permalink: /archive/2003/08/28/labour-refuses-to-support-shared-parenting/index.html
+layout: layout.njk
 ---
 Labour Refuses To Support Shared Parenting
 ==========================================

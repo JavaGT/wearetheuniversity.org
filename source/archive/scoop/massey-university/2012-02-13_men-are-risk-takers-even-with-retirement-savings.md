@@ -1,9 +1,13 @@
 ---
 slug: men-are-risk-takers-even-with-retirement-savings
-title: "Men are risk takers – even with retirement savings"
-date: 2012-02-13
-source-url: https://www.scoop.co.nz/stories/ED1202/S00051/men-are-risk-takers-even-with-retirement-savings.htm
+title: Men are risk takers – even with retirement savings
+date: 2012-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00051/men-are-risk-takers-even-with-retirement-savings.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/13/men-are-risk-takers-even-with-retirement-savings/index.html
+layout: layout.njk
 ---
 Men are risk takers – even with retirement savings
 ==================================================

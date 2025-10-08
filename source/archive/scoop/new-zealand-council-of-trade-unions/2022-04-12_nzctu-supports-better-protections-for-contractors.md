@@ -1,9 +1,13 @@
 ---
 slug: nzctu-supports-better-protections-for-contractors
-title: "NZCTU Supports Better Protections For Contractors"
-date: 2022-04-12
-source-url: https://www.scoop.co.nz/stories/PO2204/S00060/nzctu-supports-better-protections-for-contractors.htm
+title: NZCTU Supports Better Protections For Contractors
+date: 2022-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2204/S00060/nzctu-supports-better-protections-for-contractors.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2022/04/12/nzctu-supports-better-protections-for-contractors/index.html
+layout: layout.njk
 ---
 NZCTU Supports Better Protections For Contractors
 =================================================

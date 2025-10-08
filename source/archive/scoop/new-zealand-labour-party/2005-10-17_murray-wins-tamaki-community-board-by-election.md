@@ -1,9 +1,12 @@
 ---
 slug: murray-wins-tamaki-community-board-by-election
-title: "Murray wins Tamaki Community Board by-election"
-date: 2005-10-17
-source-url: https://www.scoop.co.nz/stories/AK0510/S00109/murray-wins-tamaki-community-board-by-election.htm
+title: Murray wins Tamaki Community Board by-election
+date: 2005-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0510/S00109/murray-wins-tamaki-community-board-by-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/10/17/murray-wins-tamaki-community-board-by-election/index.html
+layout: layout.njk
 ---
 Murray wins Tamaki Community Board by-election
 ==============================================

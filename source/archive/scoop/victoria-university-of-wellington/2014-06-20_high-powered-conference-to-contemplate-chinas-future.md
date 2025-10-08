@@ -1,9 +1,13 @@
 ---
 slug: high-powered-conference-to-contemplate-chinas-future
-title: "High-powered conference to contemplate China’s future"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/PO1406/S00328/high-powered-conference-to-contemplate-chinas-future.htm
+title: High-powered conference to contemplate China’s future
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00328/high-powered-conference-to-contemplate-chinas-future.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/06/20/high-powered-conference-to-contemplate-chinas-future/index.html
+layout: layout.njk
 ---
 High-powered conference to contemplate China’s future
 =====================================================

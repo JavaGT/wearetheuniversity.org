@@ -1,9 +1,12 @@
 ---
 slug: recreational-river-users-sought-for-survey
-title: "Recreational river users sought for survey"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/ED0710/S00050/recreational-river-users-sought-for-survey.htm
+title: Recreational river users sought for survey
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00050/recreational-river-users-sought-for-survey.htm
 author: university-of-otago
+permalink: /archive/2007/10/16/recreational-river-users-sought-for-survey/index.html
+layout: layout.njk
 ---
 Recreational river users sought for survey
 ==========================================

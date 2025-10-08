@@ -1,9 +1,12 @@
 ---
 slug: maharey-must-explain-scholarship-timing
-title: "Maharey must explain scholarship timing"
-date: 2006-02-09
-source-url: https://www.scoop.co.nz/stories/PA0602/S00107/maharey-must-explain-scholarship-timing.htm
+title: Maharey must explain scholarship timing
+date: 2006-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00107/maharey-must-explain-scholarship-timing.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/09/maharey-must-explain-scholarship-timing/index.html
+layout: layout.njk
 ---
 Maharey must explain scholarship timing
 =======================================

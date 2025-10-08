@@ -1,9 +1,12 @@
 ---
 slug: mp-foss-visits-peka-peka-wetlands
-title: "MP Foss visits Peka Peka wetlands"
-date: 2010-05-19
-source-url: https://www.scoop.co.nz/stories/PO1005/S00189/mp-foss-visits-peka-peka-wetlands.htm
+title: MP Foss visits Peka Peka wetlands
+date: 2010-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00189/mp-foss-visits-peka-peka-wetlands.htm
 author: new-zealand-national-party
+permalink: /archive/2010/05/19/mp-foss-visits-peka-peka-wetlands/index.html
+layout: layout.njk
 ---
 MP Foss visits Peka Peka wetlands
 =================================

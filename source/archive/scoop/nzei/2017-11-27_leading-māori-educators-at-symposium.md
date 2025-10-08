@@ -1,9 +1,12 @@
 ---
 slug: leading-māori-educators-at-symposium
-title: "Leading Māori educators at Symposium"
-date: 2017-11-27
-source-url: https://www.scoop.co.nz/stories/ED1711/S00103/leading-maori-educators-at-symposium.htm
+title: Leading Māori educators at Symposium
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00103/leading-maori-educators-at-symposium.htm
 author: nzei
+permalink: /archive/2017/11/27/leading-m/index.html
+layout: layout.njk
 ---
 Leading Māori educators at Symposium
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: rich-speech-to-national-party-conference
-title: "Rich Speech to National Party Conference"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/PA0307/S00228/rich-speech-to-national-party-conference.htm
+title: Rich Speech to National Party Conference
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00228/rich-speech-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/11/rich-speech-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Rich Speech to National Party Conference
 ========================================

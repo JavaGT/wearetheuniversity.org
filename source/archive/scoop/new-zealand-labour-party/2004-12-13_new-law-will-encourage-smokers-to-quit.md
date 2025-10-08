@@ -1,9 +1,12 @@
 ---
 slug: new-law-will-encourage-smokers-to-quit
-title: "New Law Will Encourage Smokers To Quit"
-date: 2004-12-13
-source-url: https://www.scoop.co.nz/stories/PA0412/S00298/new-law-will-encourage-smokers-to-quit.htm
+title: New Law Will Encourage Smokers To Quit
+date: 2004-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00298/new-law-will-encourage-smokers-to-quit.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/12/13/new-law-will-encourage-smokers-to-quit/index.html
+layout: layout.njk
 ---
 New Law Will Encourage Smokers To Quit
 ======================================

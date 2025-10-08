@@ -1,9 +1,12 @@
 ---
 slug: speech-near-naked-emperor-cloaked-in-pc-secrecy
-title: "Speech: Near naked Emperor cloaked in PC secrecy"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/PA1607/S00142/speech-near-naked-emperor-cloaked-in-pc-secrecy.htm
+title: 'Speech: Near naked Emperor cloaked in PC secrecy'
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00142/speech-near-naked-emperor-cloaked-in-pc-secrecy.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/08/speech-near-naked-emperor-cloaked-in-pc-secrecy/index.html
+layout: layout.njk
 ---
 Speech: Near naked Emperor cloaked in PC secrecy
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: kim-dotcom-whats-going-on
-title: "Kim Dotcom: What’s going on?"
-date: 2013-07-15
+title: 'Kim Dotcom: What’s going on?'
+date: 2013-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1307/S00168/kim-dotcom-whats-going-on.htm
 author: university-of-waikato
+permalink: /archive/2013/07/15/kim-dotcom-whats-going-on/index.html
+layout: layout.njk
 ---
 Kim Dotcom: What’s going on?
 ============================

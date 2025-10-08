@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-welcomes-important-digital-curriculum
-title: "UC expert welcomes 'important' digital curriculum"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/ED1607/S00033/uc-expert-welcomes-important-digital-curriculum.htm
+title: UC expert welcomes 'important' digital curriculum
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00033/uc-expert-welcomes-important-digital-curriculum.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/08/uc-expert-welcomes-important-digital-curriculum/index.html
+layout: layout.njk
 ---
 UC expert welcomes 'important' digital curriculum
 =================================================

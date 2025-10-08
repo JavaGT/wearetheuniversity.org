@@ -1,9 +1,11 @@
 ---
 slug: he-aituā-te-orohi-paul
-title: "He Aituā: Te Orohi Paul"
-date: 2014-11-20
+title: 'He Aituā: Te Orohi Paul'
+date: 2014-11-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1411/S00250/he-aitua-te-orohi-paul.htm
 author: te-pati-maori
+permalink: /archive/2014/11/20/he-aitu/index.html
+layout: layout.njk
 ---
 He Aituā: Te Orohi Paul
 =======================

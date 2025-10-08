@@ -1,9 +1,12 @@
 ---
 slug: minister-must-back-homegrown-education
-title: "Minister Must Back Homegrown Education"
-date: 2012-11-19
-source-url: https://www.scoop.co.nz/stories/PA1211/S00329/minister-must-back-homegrown-education.htm
+title: Minister Must Back Homegrown Education
+date: 2012-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00329/minister-must-back-homegrown-education.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/19/minister-must-back-homegrown-education/index.html
+layout: layout.njk
 ---
 Minister Must Back Homegrown Education
 ======================================

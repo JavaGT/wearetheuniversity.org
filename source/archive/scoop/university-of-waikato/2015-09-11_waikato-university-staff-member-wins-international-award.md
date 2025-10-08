@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-staff-member-wins-international-award
-title: "Waikato University staff member wins international award"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/ED1509/S00072/waikato-university-staff-member-wins-international-award.htm
+title: Waikato University staff member wins international award
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00072/waikato-university-staff-member-wins-international-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/09/11/waikato-university-staff-member-wins-international-award/index.html
+layout: layout.njk
 ---
 Waikato University staff member wins international award
 ========================================================

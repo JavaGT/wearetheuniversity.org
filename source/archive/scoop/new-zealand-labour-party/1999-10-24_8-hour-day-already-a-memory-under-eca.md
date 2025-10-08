@@ -1,9 +1,12 @@
 ---
 slug: 8-hour-day-already-a-memory-under-eca
-title: "8-hour day already a memory under ECA"
-date: 1999-10-24
-source-url: https://www.scoop.co.nz/stories/PA9910/S00566/8-hour-day-already-a-memory-under-eca.htm
+title: 8-hour day already a memory under ECA
+date: 1999-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00566/8-hour-day-already-a-memory-under-eca.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/24/8-hour-day-already-a-memory-under-eca/index.html
+layout: layout.njk
 ---
 8-hour day already a memory under ECA
 =====================================

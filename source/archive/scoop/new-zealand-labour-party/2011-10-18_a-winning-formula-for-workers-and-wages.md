@@ -1,9 +1,12 @@
 ---
 slug: a-winning-formula-for-workers-and-wages
-title: "A winning formula for workers and wages"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/PA1110/S00306/a-winning-formula-for-workers-and-wages.htm
+title: A winning formula for workers and wages
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00306/a-winning-formula-for-workers-and-wages.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/18/a-winning-formula-for-workers-and-wages/index.html
+layout: layout.njk
 ---
 A winning formula for workers and wages
 =======================================

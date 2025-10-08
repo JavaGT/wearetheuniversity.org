@@ -1,9 +1,13 @@
 ---
 slug: maori-health-research-boosted-by-aut-appointment
-title: "Maori health Research Boosted By AUT Appointment"
-date: 2004-02-17
-source-url: https://www.scoop.co.nz/stories/ED0402/S00037/maori-health-research-boosted-by-aut-appointment.htm
+title: Maori health Research Boosted By AUT Appointment
+date: 2004-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00037/maori-health-research-boosted-by-aut-appointment.htm
 author: aut-university
+permalink: >-
+  /archive/2004/02/17/maori-health-research-boosted-by-aut-appointment/index.html
+layout: layout.njk
 ---
 Maori health Research Boosted By AUT Appointment
 ================================================

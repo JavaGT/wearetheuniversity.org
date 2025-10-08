@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-annual-convention
-title: "New Zealand First Annual Convention"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/PO1010/S00291/new-zealand-first-annual-convention.htm
+title: New Zealand First Annual Convention
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00291/new-zealand-first-annual-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2010/10/29/new-zealand-first-annual-convention/index.html
+layout: layout.njk
 ---
 New Zealand First Annual Convention
 ===================================

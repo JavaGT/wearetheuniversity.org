@@ -1,9 +1,12 @@
 ---
 slug: eqc-assessments-at-a-snails-pace
-title: "EQC Assessments At A Snail’s Pace"
-date: 2023-07-07
-source-url: https://www.scoop.co.nz/stories/PA2307/S00029/eqc-assessments-at-a-snails-pace.htm
+title: EQC Assessments At A Snail’s Pace
+date: 2023-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00029/eqc-assessments-at-a-snails-pace.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/07/eqc-assessments-at-a-snails-pace/index.html
+layout: layout.njk
 ---
 EQC Assessments At A Snail’s Pace
 =================================

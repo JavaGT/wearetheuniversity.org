@@ -1,9 +1,13 @@
 ---
 slug: top-waikato-researchers-receive-prestigious-rutherford-fellowship-grants
-title: "Top Waikato Researchers Receive Prestigious Rutherford Fellowship Grants"
-date: 2020-10-22
-source-url: https://www.scoop.co.nz/stories/ED2010/S00039/top-waikato-researchers-receive-prestigious-rutherford-fellowship-grants.htm
+title: Top Waikato Researchers Receive Prestigious Rutherford Fellowship Grants
+date: 2020-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00039/top-waikato-researchers-receive-prestigious-rutherford-fellowship-grants.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/10/22/top-waikato-researchers-receive-prestigious-rutherford-fellowship-grants/index.html
+layout: layout.njk
 ---
 Top Waikato Researchers Receive Prestigious Rutherford Fellowship Grants
 ========================================================================

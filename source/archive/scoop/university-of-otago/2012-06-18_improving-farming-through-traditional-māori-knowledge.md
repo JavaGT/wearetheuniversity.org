@@ -1,9 +1,12 @@
 ---
 slug: improving-farming-through-traditional-māori-knowledge
-title: "Improving farming through traditional Māori Knowledge"
-date: 2012-06-18
-source-url: https://www.scoop.co.nz/stories/ED1206/S00075/improving-farming-through-traditional-maori-knowledge.htm
+title: Improving farming through traditional Māori Knowledge
+date: 2012-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00075/improving-farming-through-traditional-maori-knowledge.htm
 author: university-of-otago
+permalink: /archive/2012/06/18/improving-farming-through-traditional-m/index.html
+layout: layout.njk
 ---
 Improving farming through traditional Māori Knowledge
 =====================================================

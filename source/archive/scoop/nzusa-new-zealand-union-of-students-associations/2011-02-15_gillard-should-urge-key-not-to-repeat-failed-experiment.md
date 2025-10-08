@@ -1,9 +1,13 @@
 ---
 slug: gillard-should-urge-key-not-to-repeat-failed-experiment
-title: "Gillard should urge Key not to repeat failed experiment"
-date: 2011-02-15
-source-url: https://www.scoop.co.nz/stories/PO1102/S00123/gillard-should-urge-key-not-to-repeat-failed-experiment.htm
+title: Gillard should urge Key not to repeat failed experiment
+date: 2011-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00123/gillard-should-urge-key-not-to-repeat-failed-experiment.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/02/15/gillard-should-urge-key-not-to-repeat-failed-experiment/index.html
+layout: layout.njk
 ---
 Gillard should urge Key not to repeat failed experiment
 =======================================================

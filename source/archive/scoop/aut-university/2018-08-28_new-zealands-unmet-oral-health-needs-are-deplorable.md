@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-unmet-oral-health-needs-are-deplorable
-title: "New Zealand’s unmet oral health needs are ‘deplorable'"
-date: 2018-08-28
-source-url: https://www.scoop.co.nz/stories/GE1808/S00083/new-zealands-unmet-oral-health-needs-are-deplorable.htm
+title: New Zealand’s unmet oral health needs are ‘deplorable'
+date: 2018-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00083/new-zealands-unmet-oral-health-needs-are-deplorable.htm
 author: aut-university
+permalink: >-
+  /archive/2018/08/28/new-zealands-unmet-oral-health-needs-are-deplorable/index.html
+layout: layout.njk
 ---
 New Zealand’s unmet oral health needs are ‘deplorable'
 ======================================================

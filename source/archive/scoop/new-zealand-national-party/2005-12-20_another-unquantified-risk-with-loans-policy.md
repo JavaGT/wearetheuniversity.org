@@ -1,9 +1,12 @@
 ---
 slug: another-unquantified-risk-with-loans-policy
-title: "Another 'unquantified risk' with loans policy"
-date: 2005-12-20
-source-url: https://www.scoop.co.nz/stories/PA0512/S00305/another-unquantified-risk-with-loans-policy.htm
+title: Another 'unquantified risk' with loans policy
+date: 2005-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00305/another-unquantified-risk-with-loans-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/20/another-unquantified-risk-with-loans-policy/index.html
+layout: layout.njk
 ---
 Another 'unquantified risk' with loans policy
 =============================================

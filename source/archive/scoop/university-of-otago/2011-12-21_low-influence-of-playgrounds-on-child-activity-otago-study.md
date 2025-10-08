@@ -1,9 +1,13 @@
 ---
 slug: low-influence-of-playgrounds-on-child-activity-otago-study
-title: "Low influence of playgrounds on child activity: Otago study"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/ED1112/S00110/low-influence-of-playgrounds-on-child-activity-otago-study.htm
+title: 'Low influence of playgrounds on child activity: Otago study'
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00110/low-influence-of-playgrounds-on-child-activity-otago-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/21/low-influence-of-playgrounds-on-child-activity-otago-study/index.html
+layout: layout.njk
 ---
 Low influence of playgrounds on child activity: Otago study
 ===========================================================

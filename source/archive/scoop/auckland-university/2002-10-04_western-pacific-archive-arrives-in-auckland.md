@@ -1,9 +1,12 @@
 ---
 slug: western-pacific-archive-arrives-in-auckland
-title: "Western Pacific Archive Arrives In Auckland"
-date: 2002-10-04
-source-url: https://www.scoop.co.nz/stories/ED0210/S00010/western-pacific-archive-arrives-in-auckland.htm
+title: Western Pacific Archive Arrives In Auckland
+date: 2002-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00010/western-pacific-archive-arrives-in-auckland.htm
 author: auckland-university
+permalink: /archive/2002/10/04/western-pacific-archive-arrives-in-auckland/index.html
+layout: layout.njk
 ---
 Western Pacific Archive Arrives In Auckland
 ===========================================

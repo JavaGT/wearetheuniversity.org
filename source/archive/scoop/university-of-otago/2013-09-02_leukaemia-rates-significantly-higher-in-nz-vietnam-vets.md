@@ -1,9 +1,13 @@
 ---
 slug: leukaemia-rates-significantly-higher-in-nz-vietnam-vets
-title: "Leukaemia rates significantly higher in NZ Vietnam vets"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/GE1309/S00003/leukaemia-rates-significantly-higher-in-nz-vietnam-vets.htm
+title: Leukaemia rates significantly higher in NZ Vietnam vets
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00003/leukaemia-rates-significantly-higher-in-nz-vietnam-vets.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/02/leukaemia-rates-significantly-higher-in-nz-vietnam-vets/index.html
+layout: layout.njk
 ---
 Leukaemia rates significantly higher in NZ Vietnam vets
 =======================================================

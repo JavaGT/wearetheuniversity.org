@@ -1,9 +1,12 @@
 ---
 slug: new-un-report-shows-one-in-three-malnourished
-title: "New UN report shows one in three malnourished"
-date: 2017-10-10
-source-url: https://www.scoop.co.nz/stories/ED1710/S00029/new-un-report-shows-one-in-three-malnourished.htm
+title: New UN report shows one in three malnourished
+date: 2017-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00029/new-un-report-shows-one-in-three-malnourished.htm
 author: massey-university
+permalink: /archive/2017/10/10/new-un-report-shows-one-in-three-malnourished/index.html
+layout: layout.njk
 ---
 New UN report shows one in three malnourished
 =============================================

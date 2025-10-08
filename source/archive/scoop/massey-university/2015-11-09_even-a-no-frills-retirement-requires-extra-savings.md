@@ -1,9 +1,13 @@
 ---
 slug: even-a-no-frills-retirement-requires-extra-savings
-title: "Even a ‘no frills’ retirement requires extra savings"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/ED1511/S00046/even-a-no-frills-retirement-requires-extra-savings.htm
+title: Even a ‘no frills’ retirement requires extra savings
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00046/even-a-no-frills-retirement-requires-extra-savings.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/09/even-a-no-frills-retirement-requires-extra-savings/index.html
+layout: layout.njk
 ---
 Even a ‘no frills’ retirement requires extra savings
 ====================================================

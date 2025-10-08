@@ -1,9 +1,12 @@
 ---
 slug: global-experts-gather-for-gambling-conference
-title: "Global experts gather for gambling conference"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/ED0609/S00035/global-experts-gather-for-gambling-conference.htm
+title: Global experts gather for gambling conference
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00035/global-experts-gather-for-gambling-conference.htm
 author: aut-university
+permalink: /archive/2006/09/08/global-experts-gather-for-gambling-conference/index.html
+layout: layout.njk
 ---
 Global experts gather for gambling conference
 =============================================

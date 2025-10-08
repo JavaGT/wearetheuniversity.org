@@ -1,9 +1,12 @@
 ---
 slug: act-releases-policy-on-red-tape
-title: "ACT releases policy on red tape"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/PA0504/S00408/act-releases-policy-on-red-tape.htm
+title: ACT releases policy on red tape
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00408/act-releases-policy-on-red-tape.htm
 author: act-new-zealand
+permalink: /archive/2005/04/19/act-releases-policy-on-red-tape/index.html
+layout: layout.njk
 ---
 ACT releases policy on red tape
 ===============================

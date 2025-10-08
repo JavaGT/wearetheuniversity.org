@@ -1,9 +1,12 @@
 ---
 slug: mark-peck-speech-labours-science-approach
-title: "Mark Peck Speech - Labour's Science approach"
-date: 1999-08-27
-source-url: https://www.scoop.co.nz/stories/SC9908/S00019/mark-peck-speech-labours-science-approach.htm
+title: Mark Peck Speech - Labour's Science approach
+date: 1999-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC9908/S00019/mark-peck-speech-labours-science-approach.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/27/mark-peck-speech-labours-science-approach/index.html
+layout: layout.njk
 ---
 Mark Peck Speech - Labour's Science approach
 ============================================

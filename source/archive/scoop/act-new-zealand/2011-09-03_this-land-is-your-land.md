@@ -1,9 +1,11 @@
 ---
 slug: this-land-is-your-land
-title: "This Land is Your Land"
-date: 2011-09-03
+title: This Land is Your Land
+date: 2011-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00056/this-land-is-your-land.htm
 author: act-new-zealand
+permalink: /archive/2011/09/03/this-land-is-your-land/index.html
+layout: layout.njk
 ---
 This Land is Your Land
 ======================

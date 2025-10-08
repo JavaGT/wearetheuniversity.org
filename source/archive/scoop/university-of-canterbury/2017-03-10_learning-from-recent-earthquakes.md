@@ -1,9 +1,12 @@
 ---
 slug: learning-from-recent-earthquakes
-title: "Learning from recent earthquakes"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/ED1703/S00055/learning-from-recent-earthquakes.htm
+title: Learning from recent earthquakes
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00055/learning-from-recent-earthquakes.htm
 author: university-of-canterbury
+permalink: /archive/2017/03/10/learning-from-recent-earthquakes/index.html
+layout: layout.njk
 ---
 Learning from recent earthquakes
 ================================

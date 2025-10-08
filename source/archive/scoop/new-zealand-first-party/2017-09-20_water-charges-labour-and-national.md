@@ -1,9 +1,12 @@
 ---
 slug: water-charges-labour-and-national
-title: "Water Charges: Labour And National"
-date: 2017-09-20
-source-url: https://www.scoop.co.nz/stories/PA1709/S00246/water-charges-labour-and-national.htm
+title: 'Water Charges: Labour And National'
+date: 2017-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00246/water-charges-labour-and-national.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/20/water-charges-labour-and-national/index.html
+layout: layout.njk
 ---
 Water Charges: Labour And National
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: record-number-of-students-in-autumn-graduation
-title: "Record number of students in autumn graduation"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/ED0703/S00059/record-number-of-students-in-autumn-graduation.htm
+title: Record number of students in autumn graduation
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00059/record-number-of-students-in-autumn-graduation.htm
 author: aut-university
+permalink: /archive/2007/03/19/record-number-of-students-in-autumn-graduation/index.html
+layout: layout.njk
 ---
 Record number of students in autumn graduation
 ==============================================

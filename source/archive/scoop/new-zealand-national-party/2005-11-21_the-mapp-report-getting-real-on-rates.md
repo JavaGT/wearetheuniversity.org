@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-getting-real-on-rates
-title: "The Mapp Report: Getting Real on Rates"
-date: 2005-11-21
-source-url: https://www.scoop.co.nz/stories/PA0511/S00292/the-mapp-report-getting-real-on-rates.htm
+title: 'The Mapp Report: Getting Real on Rates'
+date: 2005-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00292/the-mapp-report-getting-real-on-rates.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/21/the-mapp-report-getting-real-on-rates/index.html
+layout: layout.njk
 ---
 The Mapp Report: Getting Real on Rates
 ======================================

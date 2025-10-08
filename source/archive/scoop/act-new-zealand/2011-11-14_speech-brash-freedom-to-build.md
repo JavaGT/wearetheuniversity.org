@@ -1,9 +1,12 @@
 ---
 slug: speech-brash-freedom-to-build
-title: "Speech: Brash - Freedom To Build"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/PA1111/S00264/speech-brash-freedom-to-build.htm
+title: 'Speech: Brash - Freedom To Build'
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00264/speech-brash-freedom-to-build.htm
 author: act-new-zealand
+permalink: /archive/2011/11/14/speech-brash-freedom-to-build/index.html
+layout: layout.njk
 ---
 Speech: Brash - Freedom To Build
 ================================

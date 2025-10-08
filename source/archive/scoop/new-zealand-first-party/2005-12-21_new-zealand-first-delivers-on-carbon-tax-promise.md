@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-delivers-on-carbon-tax-promise
-title: "New Zealand First Delivers On Carbon Tax Promise"
-date: 2005-12-21
-source-url: https://www.scoop.co.nz/stories/PA0512/S00321/new-zealand-first-delivers-on-carbon-tax-promise.htm
+title: New Zealand First Delivers On Carbon Tax Promise
+date: 2005-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00321/new-zealand-first-delivers-on-carbon-tax-promise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2005/12/21/new-zealand-first-delivers-on-carbon-tax-promise/index.html
+layout: layout.njk
 ---
 New Zealand First Delivers On Carbon Tax Promise
 ================================================

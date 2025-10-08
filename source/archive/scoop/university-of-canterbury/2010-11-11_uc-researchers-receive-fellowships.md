@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-receive-fellowships
-title: "UC researchers receive Fellowships"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/ED1011/S00047/uc-researchers-receive-fellowships.htm
+title: UC researchers receive Fellowships
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00047/uc-researchers-receive-fellowships.htm
 author: university-of-canterbury
+permalink: /archive/2010/11/11/uc-researchers-receive-fellowships/index.html
+layout: layout.njk
 ---
 UC researchers receive Fellowships
 ==================================

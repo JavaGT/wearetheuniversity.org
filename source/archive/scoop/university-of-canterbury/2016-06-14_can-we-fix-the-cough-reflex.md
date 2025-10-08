@@ -1,9 +1,11 @@
 ---
 slug: can-we-fix-the-cough-reflex
-title: "Can we fix the cough reflex?"
-date: 2016-06-14
+title: Can we fix the cough reflex?
+date: 2016-06-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1606/S00024/can-we-fix-the-cough-reflex.htm
 author: university-of-canterbury
+permalink: /archive/2016/06/14/can-we-fix-the-cough-reflex/index.html
+layout: layout.njk
 ---
 Can we fix the cough reflex?
 ============================

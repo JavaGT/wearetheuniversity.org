@@ -1,9 +1,12 @@
 ---
 slug: landlords-and-small-businesses-need-help-too
-title: "Landlords And Small Businesses Need Help Too"
-date: 2020-04-28
-source-url: https://www.scoop.co.nz/stories/PA2004/S00165/landlords-and-small-businesses-need-help-too.htm
+title: Landlords And Small Businesses Need Help Too
+date: 2020-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00165/landlords-and-small-businesses-need-help-too.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/28/landlords-and-small-businesses-need-help-too/index.html
+layout: layout.njk
 ---
 Landlords And Small Businesses Need Help Too
 ============================================

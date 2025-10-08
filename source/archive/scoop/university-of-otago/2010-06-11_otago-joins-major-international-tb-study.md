@@ -1,9 +1,12 @@
 ---
 slug: otago-joins-major-international-tb-study
-title: "Otago joins major international TB study"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/GE1006/S00049/otago-joins-major-international-tb-study.htm
+title: Otago joins major international TB study
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00049/otago-joins-major-international-tb-study.htm
 author: university-of-otago
+permalink: /archive/2010/06/11/otago-joins-major-international-tb-study/index.html
+layout: layout.njk
 ---
 Otago joins major international TB study
 ========================================

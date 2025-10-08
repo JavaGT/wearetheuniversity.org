@@ -1,9 +1,13 @@
 ---
 slug: study-shows-many-senior-managers-distrust-big-data
-title: "Study shows many senior managers distrust big data"
-date: 2019-04-12
-source-url: https://www.scoop.co.nz/stories/BU1904/S00371/study-shows-many-senior-managers-distrust-big-data.htm
+title: Study shows many senior managers distrust big data
+date: 2019-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1904/S00371/study-shows-many-senior-managers-distrust-big-data.htm
 author: massey-university
+permalink: >-
+  /archive/2019/04/12/study-shows-many-senior-managers-distrust-big-data/index.html
+layout: layout.njk
 ---
 Study shows many senior managers distrust big data
 ==================================================

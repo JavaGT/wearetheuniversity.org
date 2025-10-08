@@ -1,9 +1,12 @@
 ---
 slug: female-students-are-not-political-pawns
-title: "Female Students are Not Political Pawns"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/ED0503/S00081/female-students-are-not-political-pawns.htm
+title: Female Students are Not Political Pawns
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00081/female-students-are-not-political-pawns.htm
 author: act-on-campus
+permalink: /archive/2005/03/23/female-students-are-not-political-pawns/index.html
+layout: layout.njk
 ---
 Female Students are Not Political Pawns
 =======================================

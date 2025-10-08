@@ -1,9 +1,12 @@
 ---
 slug: act-renews-call-for-dna-sampling-of-criminals
-title: "ACT Renews Call For DNA Sampling Of Criminals"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/PA0203/S00405/act-renews-call-for-dna-sampling-of-criminals.htm
+title: ACT Renews Call For DNA Sampling Of Criminals
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00405/act-renews-call-for-dna-sampling-of-criminals.htm
 author: act-new-zealand
+permalink: /archive/2002/03/21/act-renews-call-for-dna-sampling-of-criminals/index.html
+layout: layout.njk
 ---
 ACT Renews Call For DNA Sampling Of Criminals
 =============================================

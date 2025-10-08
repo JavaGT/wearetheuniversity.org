@@ -1,9 +1,11 @@
 ---
 slug: e-government-is-all-e-spin
-title: "E-Government Is All E-Spin"
-date: 2001-04-26
+title: E-Government Is All E-Spin
+date: 2001-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0104/S00400/e-government-is-all-e-spin.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/26/e-government-is-all-e-spin/index.html
+layout: layout.njk
 ---
 E-Government Is All E-Spin
 ==========================

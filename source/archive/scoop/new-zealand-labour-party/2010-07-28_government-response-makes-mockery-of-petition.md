@@ -1,9 +1,12 @@
 ---
 slug: government-response-makes-mockery-of-petition
-title: "Government response makes mockery of petition"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/PA1007/S00445/government-response-makes-mockery-of-petition.htm
+title: Government response makes mockery of petition
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00445/government-response-makes-mockery-of-petition.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/28/government-response-makes-mockery-of-petition/index.html
+layout: layout.njk
 ---
 Government response makes mockery of petition
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-passing-of-dorothy-huhana-(bubbles)-mihinui
-title: "The Passing of Dorothy Huhana (Bubbles) Mihinui"
-date: 2006-06-27
-source-url: https://www.scoop.co.nz/stories/PA0606/S00529/the-passing-of-dorothy-huhana-bubbles-mihinui.htm
+title: The Passing of Dorothy Huhana (Bubbles) Mihinui
+date: 2006-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00529/the-passing-of-dorothy-huhana-bubbles-mihinui.htm
 author: te-pati-maori
+permalink: /archive/2006/06/27/the-passing-of-dorothy-huhana-/index.html
+layout: layout.njk
 ---
 The Passing of Dorothy Huhana (Bubbles) Mihinui
 ===============================================

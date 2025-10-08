@@ -1,9 +1,11 @@
 ---
 slug: james-shaws-maiden-speech
-title: "James Shaw’s Maiden Speech"
-date: 2014-10-28
+title: James Shaw’s Maiden Speech
+date: 2014-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1410/S00198/james-shaws-maiden-speech.htm
 author: green-party
+permalink: /archive/2014/10/28/james-shaws-maiden-speech/index.html
+layout: layout.njk
 ---
 James Shaw’s Maiden Speech
 ==========================

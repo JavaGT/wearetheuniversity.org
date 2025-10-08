@@ -1,9 +1,12 @@
 ---
 slug: romy-udanga-labours-candidate-in-north-shore
-title: "Romy Udanga Labour’s candidate in North Shore"
-date: 2017-01-15
-source-url: https://www.scoop.co.nz/stories/PO1701/S00076/romy-udanga-labours-candidate-in-north-shore.htm
+title: Romy Udanga Labour’s candidate in North Shore
+date: 2017-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1701/S00076/romy-udanga-labours-candidate-in-north-shore.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/15/romy-udanga-labours-candidate-in-north-shore/index.html
+layout: layout.njk
 ---
 Romy Udanga Labour’s candidate in North Shore
 =============================================

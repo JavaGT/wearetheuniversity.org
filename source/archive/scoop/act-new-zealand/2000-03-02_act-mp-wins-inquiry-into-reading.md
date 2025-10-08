@@ -1,9 +1,12 @@
 ---
 slug: act-mp-wins-inquiry-into-reading
-title: "ACT MP Wins Inquiry Into Reading"
-date: 2000-03-02
-source-url: https://www.scoop.co.nz/stories/PA0003/S00040/act-mp-wins-inquiry-into-reading.htm
+title: ACT MP Wins Inquiry Into Reading
+date: 2000-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00040/act-mp-wins-inquiry-into-reading.htm
 author: act-new-zealand
+permalink: /archive/2000/03/02/act-mp-wins-inquiry-into-reading/index.html
+layout: layout.njk
 ---
 ACT MP Wins Inquiry Into Reading
 ================================

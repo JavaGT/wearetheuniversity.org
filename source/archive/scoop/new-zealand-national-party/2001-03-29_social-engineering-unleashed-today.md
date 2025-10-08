@@ -1,9 +1,12 @@
 ---
 slug: social-engineering-unleashed-today
-title: "Social Engineering Unleashed Today"
-date: 2001-03-29
-source-url: https://www.scoop.co.nz/stories/PA0103/S00555/social-engineering-unleashed-today.htm
+title: Social Engineering Unleashed Today
+date: 2001-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00555/social-engineering-unleashed-today.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/29/social-engineering-unleashed-today/index.html
+layout: layout.njk
 ---
 Social Engineering Unleashed Today
 ==================================

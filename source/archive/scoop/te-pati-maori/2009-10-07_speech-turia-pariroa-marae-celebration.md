@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-pariroa-marae-celebration
-title: "Speech: Turia - Pariroa marae Celebration"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/PA0910/S00089/speech-turia-pariroa-marae-celebration.htm
+title: 'Speech: Turia - Pariroa marae Celebration'
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00089/speech-turia-pariroa-marae-celebration.htm
 author: te-pati-maori
+permalink: /archive/2009/10/07/speech-turia-pariroa-marae-celebration/index.html
+layout: layout.njk
 ---
 Speech: Turia - Pariroa marae Celebration
 =========================================

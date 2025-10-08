@@ -1,9 +1,13 @@
 ---
 slug: nzusa-hits-and-misses-in-productivity-commission-draft
-title: "NZUSA: Hits and Misses in Productivity Commission Draft"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/PO1609/S00370/nzusa-hits-and-misses-in-productivity-commission-draft.htm
+title: 'NZUSA: Hits and Misses in Productivity Commission Draft'
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00370/nzusa-hits-and-misses-in-productivity-commission-draft.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/09/29/nzusa-hits-and-misses-in-productivity-commission-draft/index.html
+layout: layout.njk
 ---
 NZUSA: Hits and Misses in Productivity Commission Draft
 =======================================================

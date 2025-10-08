@@ -1,9 +1,12 @@
 ---
 slug: kiwi-bach-a-stones-throw-from-the-white-house
-title: "Kiwi bach a stone’s throw from the White House"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/BU1109/S00321/kiwi-bach-a-stones-throw-from-the-white-house.htm
+title: Kiwi bach a stone’s throw from the White House
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00321/kiwi-bach-a-stones-throw-from-the-white-house.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/12/kiwi-bach-a-stones-throw-from-the-white-house/index.html
+layout: layout.njk
 ---
 Kiwi bach a stone’s throw from the White House
 ==============================================

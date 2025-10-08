@@ -1,8 +1,11 @@
 ---
 slug: bus-strike-on-friday-19-february
-title: "Bus strike on Friday 19 February"
-date: 2016-02-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/bus-strike-on-friday-19-february.html
+title: Bus strike on Friday 19 February
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/bus-strike-on-friday-19-february.html
+permalink: /archive/2016/02/18/bus-strike-on-friday-19-february/index.html
+layout: layout.njk
 ---
 Bus strike on Friday 19 February
 ================================

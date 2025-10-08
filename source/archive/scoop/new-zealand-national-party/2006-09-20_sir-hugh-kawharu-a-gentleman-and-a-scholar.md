@@ -1,9 +1,12 @@
 ---
 slug: sir-hugh-kawharu-a-gentleman-and-a-scholar
-title: "Sir Hugh Kawharu: a gentleman and a scholar"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/PA0609/S00454/sir-hugh-kawharu-a-gentleman-and-a-scholar.htm
+title: 'Sir Hugh Kawharu: a gentleman and a scholar'
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00454/sir-hugh-kawharu-a-gentleman-and-a-scholar.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/20/sir-hugh-kawharu-a-gentleman-and-a-scholar/index.html
+layout: layout.njk
 ---
 Sir Hugh Kawharu: a gentleman and a scholar
 ===========================================

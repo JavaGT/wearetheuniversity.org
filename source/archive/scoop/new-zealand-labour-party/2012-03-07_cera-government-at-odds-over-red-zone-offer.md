@@ -1,9 +1,12 @@
 ---
 slug: cera-government-at-odds-over-red-zone-offer
-title: "CERA, Government at odds over red zone offer"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/PA1203/S00097/cera-government-at-odds-over-red-zone-offer.htm
+title: CERA, Government at odds over red zone offer
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00097/cera-government-at-odds-over-red-zone-offer.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/07/cera-government-at-odds-over-red-zone-offer/index.html
+layout: layout.njk
 ---
 CERA, Government at odds over red zone offer
 ============================================

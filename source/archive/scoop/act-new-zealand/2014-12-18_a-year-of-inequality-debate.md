@@ -1,9 +1,11 @@
 ---
 slug: a-year-of-inequality-debate
-title: "A year of inequality debate"
-date: 2014-12-18
+title: A year of inequality debate
+date: 2014-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1412/S00327/a-year-of-inequality-debate.htm
 author: act-new-zealand
+permalink: /archive/2014/12/18/a-year-of-inequality-debate/index.html
+layout: layout.njk
 ---
 A year of inequality debate
 ===========================

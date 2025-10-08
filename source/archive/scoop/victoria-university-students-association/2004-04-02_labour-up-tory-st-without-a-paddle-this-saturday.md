@@ -1,9 +1,13 @@
 ---
 slug: labour-up-tory-st-without-a-paddle-this-saturday
-title: "Labour up Tory St without a paddle, this saturday"
-date: 2004-04-02
-source-url: https://www.scoop.co.nz/stories/ED0404/S00007/labour-up-tory-st-without-a-paddle-this-saturday.htm
+title: Labour up Tory St without a paddle, this saturday
+date: 2004-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00007/labour-up-tory-st-without-a-paddle-this-saturday.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/04/02/labour-up-tory-st-without-a-paddle-this-saturday/index.html
+layout: layout.njk
 ---
 Labour up Tory St without a paddle, this saturday
 =================================================

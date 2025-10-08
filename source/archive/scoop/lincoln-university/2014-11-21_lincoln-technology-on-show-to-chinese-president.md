@@ -1,9 +1,12 @@
 ---
 slug: lincoln-technology-on-show-to-chinese-president
-title: "Lincoln technology on show to Chinese President"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00143/lincoln-technology-on-show-to-chinese-president.htm
+title: Lincoln technology on show to Chinese President
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00143/lincoln-technology-on-show-to-chinese-president.htm
 author: lincoln-university
+permalink: /archive/2014/11/21/lincoln-technology-on-show-to-chinese-president/index.html
+layout: layout.njk
 ---
 Lincoln technology on show to Chinese President
 ===============================================

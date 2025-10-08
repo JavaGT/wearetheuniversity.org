@@ -1,9 +1,11 @@
 ---
 slug: child-death-rates-analysed
-title: "Child death rates analysed"
-date: 2005-07-15
+title: Child death rates analysed
+date: 2005-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0507/S00055/child-death-rates-analysed.htm
 author: university-of-otago
+permalink: /archive/2005/07/15/child-death-rates-analysed/index.html
+layout: layout.njk
 ---
 Child death rates analysed
 ==========================

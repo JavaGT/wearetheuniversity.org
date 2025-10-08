@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-speech-the-size-of-nations
-title: "Roger Kerr Speech - The Size Of Nations"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/BU0502/S00021/roger-kerr-speech-the-size-of-nations.htm
+title: Roger Kerr Speech - The Size Of Nations
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0502/S00021/roger-kerr-speech-the-size-of-nations.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/02/02/roger-kerr-speech-the-size-of-nations/index.html
+layout: layout.njk
 ---
 Roger Kerr Speech - The Size Of Nations
 =======================================

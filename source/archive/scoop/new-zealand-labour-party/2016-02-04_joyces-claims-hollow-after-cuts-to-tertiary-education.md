@@ -1,9 +1,13 @@
 ---
 slug: joyces-claims-hollow-after-cuts-to-tertiary-education
-title: "Joyce’s claims hollow after cuts to tertiary education"
-date: 2016-02-04
-source-url: https://www.scoop.co.nz/stories/PA1602/S00051/joyces-claims-hollow-after-cuts-to-tertiary-education.htm
+title: Joyce’s claims hollow after cuts to tertiary education
+date: 2016-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00051/joyces-claims-hollow-after-cuts-to-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/04/joyces-claims-hollow-after-cuts-to-tertiary-education/index.html
+layout: layout.njk
 ---
 Joyce’s claims hollow after cuts to tertiary education
 ======================================================

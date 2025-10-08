@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-to-speak-in-ge-and-eugenics-debate
-title: "Fitzsimons To Speak In GE And Eugenics Debate"
-date: 2004-08-20
-source-url: https://www.scoop.co.nz/stories/PA0408/S00354/fitzsimons-to-speak-in-ge-and-eugenics-debate.htm
+title: Fitzsimons To Speak In GE And Eugenics Debate
+date: 2004-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00354/fitzsimons-to-speak-in-ge-and-eugenics-debate.htm
 author: green-party
+permalink: /archive/2004/08/20/fitzsimons-to-speak-in-ge-and-eugenics-debate/index.html
+layout: layout.njk
 ---
 Fitzsimons To Speak In GE And Eugenics Debate
 =============================================

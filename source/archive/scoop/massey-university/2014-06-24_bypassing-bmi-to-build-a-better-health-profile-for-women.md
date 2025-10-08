@@ -1,9 +1,13 @@
 ---
 slug: bypassing-bmi-to-build-a-better-health-profile-for-women
-title: "Bypassing BMI to build a better health profile for women"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/GE1406/S00110/bypassing-bmi-to-build-a-better-health-profile-for-women.htm
+title: Bypassing BMI to build a better health profile for women
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00110/bypassing-bmi-to-build-a-better-health-profile-for-women.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/24/bypassing-bmi-to-build-a-better-health-profile-for-women/index.html
+layout: layout.njk
 ---
 Bypassing BMI to build a better health profile for women
 ========================================================

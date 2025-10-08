@@ -1,9 +1,13 @@
 ---
 slug: anti-fat-attitudes-shaped-early-in-life-otago-research
-title: "Anti-fat attitudes shaped early in life: Otago research"
-date: 2015-11-24
-source-url: https://www.scoop.co.nz/stories/GE1511/S00081/anti-fat-attitudes-shaped-early-in-life-otago-research.htm
+title: 'Anti-fat attitudes shaped early in life: Otago research'
+date: 2015-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1511/S00081/anti-fat-attitudes-shaped-early-in-life-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/24/anti-fat-attitudes-shaped-early-in-life-otago-research/index.html
+layout: layout.njk
 ---
 Anti-fat attitudes shaped early in life: Otago research
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: police-must-throw-the-book-at-students
-title: "Police Must Throw The Book At Students"
-date: 2007-08-29
-source-url: https://www.scoop.co.nz/stories/PA0708/S00508/police-must-throw-the-book-at-students.htm
+title: Police Must Throw The Book At Students
+date: 2007-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00508/police-must-throw-the-book-at-students.htm
 author: new-zealand-first-party
+permalink: /archive/2007/08/29/police-must-throw-the-book-at-students/index.html
+layout: layout.njk
 ---
 Police Must Throw The Book At Students
 ======================================

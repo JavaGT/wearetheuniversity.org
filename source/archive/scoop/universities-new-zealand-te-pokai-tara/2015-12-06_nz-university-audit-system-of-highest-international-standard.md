@@ -1,9 +1,13 @@
 ---
 slug: nz-university-audit-system-of-highest-international-standard
-title: "NZ university audit system of highest international standard"
-date: 2015-12-06
-source-url: https://www.scoop.co.nz/stories/ED1512/S00023/nz-university-audit-system-of-highest-international-standard.htm
+title: NZ university audit system of highest international standard
+date: 2015-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00023/nz-university-audit-system-of-highest-international-standard.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/12/06/nz-university-audit-system-of-highest-international-standard/index.html
+layout: layout.njk
 ---
 NZ university audit system of highest international standard
 ============================================================

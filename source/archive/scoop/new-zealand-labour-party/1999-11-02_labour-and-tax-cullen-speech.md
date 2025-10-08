@@ -1,9 +1,11 @@
 ---
 slug: labour-and-tax-cullen-speech
-title: "\"Labour and Tax\" - Cullen speech"
-date: 1999-11-02
+title: '"Labour and Tax" - Cullen speech'
+date: 1999-11-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00053/labour-and-tax-cullen-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/02/labour-and-tax-cullen-speech/index.html
+layout: layout.njk
 ---
 "Labour and Tax" - Cullen speech
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: unis-compulsory-treaty-courses-damage-learning-experience
-title: "Uni’s Compulsory Treaty Courses Damage Learning Experience"
-date: 2024-09-17
-source-url: https://www.scoop.co.nz/stories/PA2409/S00164/unis-compulsory-treaty-courses-damage-learning-experience.htm
+title: Uni’s Compulsory Treaty Courses Damage Learning Experience
+date: 2024-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00164/unis-compulsory-treaty-courses-damage-learning-experience.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/09/17/unis-compulsory-treaty-courses-damage-learning-experience/index.html
+layout: layout.njk
 ---
 Uni’s Compulsory Treaty Courses Damage Learning Experience
 ==========================================================

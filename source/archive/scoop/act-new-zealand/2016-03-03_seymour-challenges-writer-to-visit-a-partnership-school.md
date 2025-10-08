@@ -1,9 +1,13 @@
 ---
 slug: seymour-challenges-writer-to-visit-a-partnership-school
-title: "Seymour challenges writer to visit a Partnership School"
-date: 2016-03-03
-source-url: https://www.scoop.co.nz/stories/PA1603/S00066/seymour-challenges-writer-to-visit-a-partnership-school.htm
+title: Seymour challenges writer to visit a Partnership School
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00066/seymour-challenges-writer-to-visit-a-partnership-school.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/03/03/seymour-challenges-writer-to-visit-a-partnership-school/index.html
+layout: layout.njk
 ---
 Seymour challenges writer to visit a Partnership School
 =======================================================

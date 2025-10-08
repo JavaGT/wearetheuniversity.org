@@ -1,9 +1,13 @@
 ---
 slug: harsh-cut-to-computers-in-homes-will-hit-kiwi-families
-title: "Harsh cut to computers in homes will hit Kiwi families"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/PA1306/S00017/harsh-cut-to-computers-in-homes-will-hit-kiwi-families.htm
+title: Harsh cut to computers in homes will hit Kiwi families
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00017/harsh-cut-to-computers-in-homes-will-hit-kiwi-families.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/04/harsh-cut-to-computers-in-homes-will-hit-kiwi-families/index.html
+layout: layout.njk
 ---
 Harsh cut to computers in homes will hit Kiwi families
 ======================================================

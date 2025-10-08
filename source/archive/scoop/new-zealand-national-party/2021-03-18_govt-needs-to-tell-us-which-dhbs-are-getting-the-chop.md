@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-tell-us-which-dhbs-are-getting-the-chop
-title: "Govt Needs To Tell Us Which DHBs Are Getting The Chop"
-date: 2021-03-18
-source-url: https://www.scoop.co.nz/stories/PA2103/S00138/govt-needs-to-tell-us-which-dhbs-are-getting-the-chop.htm
+title: Govt Needs To Tell Us Which DHBs Are Getting The Chop
+date: 2021-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00138/govt-needs-to-tell-us-which-dhbs-are-getting-the-chop.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/18/govt-needs-to-tell-us-which-dhbs-are-getting-the-chop/index.html
+layout: layout.njk
 ---
 Govt Needs To Tell Us Which DHBs Are Getting The Chop
 =====================================================

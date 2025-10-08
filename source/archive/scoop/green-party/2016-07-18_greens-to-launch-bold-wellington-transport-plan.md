@@ -1,9 +1,12 @@
 ---
 slug: greens-to-launch-bold-wellington-transport-plan
-title: "Greens to launch bold Wellington transport plan"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/AK1607/S00519/greens-to-launch-bold-wellington-transport-plan.htm
+title: Greens to launch bold Wellington transport plan
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00519/greens-to-launch-bold-wellington-transport-plan.htm
 author: green-party
+permalink: /archive/2016/07/18/greens-to-launch-bold-wellington-transport-plan/index.html
+layout: layout.njk
 ---
 Greens to launch bold Wellington transport plan
 ===============================================

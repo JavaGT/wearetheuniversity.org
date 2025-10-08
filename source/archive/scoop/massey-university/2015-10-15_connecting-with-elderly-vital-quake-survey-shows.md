@@ -1,9 +1,13 @@
 ---
 slug: connecting-with-elderly-vital-quake-survey-shows
-title: "Connecting with elderly vital, quake survey shows"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/ED1510/S00077/connecting-with-elderly-vital-quake-survey-shows.htm
+title: Connecting with elderly vital, quake survey shows
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00077/connecting-with-elderly-vital-quake-survey-shows.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/15/connecting-with-elderly-vital-quake-survey-shows/index.html
+layout: layout.njk
 ---
 Connecting with elderly vital, quake survey shows
 =================================================

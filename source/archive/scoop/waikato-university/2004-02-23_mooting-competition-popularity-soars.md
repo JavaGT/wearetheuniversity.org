@@ -1,9 +1,12 @@
 ---
 slug: mooting-competition-popularity-soars
-title: "Mooting Competition Popularity Soars"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00061/mooting-competition-popularity-soars.htm
+title: Mooting Competition Popularity Soars
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00061/mooting-competition-popularity-soars.htm
 author: waikato-university
+permalink: /archive/2004/02/23/mooting-competition-popularity-soars/index.html
+layout: layout.njk
 ---
 Mooting Competition Popularity Soars
 ====================================

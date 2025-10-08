@@ -1,9 +1,12 @@
 ---
 slug: the-benefits-of-a-revived-flax-industry
-title: "The benefits of a revived flax industry"
-date: 2004-12-29
-source-url: https://www.scoop.co.nz/stories/ED0412/S00081/the-benefits-of-a-revived-flax-industry.htm
+title: The benefits of a revived flax industry
+date: 2004-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00081/the-benefits-of-a-revived-flax-industry.htm
 author: lincoln-university
+permalink: /archive/2004/12/29/the-benefits-of-a-revived-flax-industry/index.html
+layout: layout.njk
 ---
 The benefits of a revived flax industry
 =======================================

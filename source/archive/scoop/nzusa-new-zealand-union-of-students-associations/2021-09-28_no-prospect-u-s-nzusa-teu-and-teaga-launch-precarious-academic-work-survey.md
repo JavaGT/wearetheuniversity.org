@@ -1,9 +1,13 @@
 ---
 slug: no-prospect-u-s-nzusa-teu-and-teaga-launch-precarious-academic-work-survey
-title: "No Prospect[u]s: NZUSA, TEU And TEAGA Launch Precarious Academic Work Survey"
-date: 2021-09-28
-source-url: https://www.scoop.co.nz/stories/PO2109/S00184/no-prospectus-nzusa-teu-and-teaga-launch-precarious-academic-work-survey.htm
+title: 'No Prospect[u]s: NZUSA, TEU And TEAGA Launch Precarious Academic Work Survey'
+date: 2021-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2109/S00184/no-prospectus-nzusa-teu-and-teaga-launch-precarious-academic-work-survey.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/09/28/no-prospect-u-s-nzusa-teu-and-teaga-launch-precarious-academic-work-survey/index.html
+layout: layout.njk
 ---
 No Prospect\[u\]s: NZUSA, TEU And TEAGA Launch Precarious Academic Work Survey
 ==============================================================================

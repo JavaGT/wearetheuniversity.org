@@ -1,9 +1,12 @@
 ---
 slug: women-disadvantaged-in-university-research
-title: "Women disadvantaged in university research"
-date: 2004-08-10
-source-url: https://www.scoop.co.nz/stories/ED0408/S00037/women-disadvantaged-in-university-research.htm
+title: Women disadvantaged in university research
+date: 2004-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00037/women-disadvantaged-in-university-research.htm
 author: association-of-university-staff
+permalink: /archive/2004/08/10/women-disadvantaged-in-university-research/index.html
+layout: layout.njk
 ---
 Women disadvantaged in university research
 ==========================================

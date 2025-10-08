@@ -1,9 +1,12 @@
 ---
 slug: students-vow-to-fight-open-entry-elimination
-title: "Students vow to fight open entry elimination"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/ED0712/S00009/students-vow-to-fight-open-entry-elimination.htm
+title: Students vow to fight open entry elimination
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00009/students-vow-to-fight-open-entry-elimination.htm
 author: auckland-university-students-association
+permalink: /archive/2007/12/04/students-vow-to-fight-open-entry-elimination/index.html
+layout: layout.njk
 ---
 Students vow to fight open entry elimination
 ============================================

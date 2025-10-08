@@ -1,9 +1,12 @@
 ---
 slug: key-cornered-on-different-ets-stories
-title: "Key cornered on different ETS stories"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PA0810/S00664/key-cornered-on-different-ets-stories.htm
+title: Key cornered on different ETS stories
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00664/key-cornered-on-different-ets-stories.htm
 author: green-party
+permalink: /archive/2008/10/30/key-cornered-on-different-ets-stories/index.html
+layout: layout.njk
 ---
 Key cornered on different ETS stories
 =====================================

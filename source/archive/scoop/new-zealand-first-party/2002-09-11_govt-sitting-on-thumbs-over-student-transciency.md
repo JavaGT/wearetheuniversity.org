@@ -1,9 +1,12 @@
 ---
 slug: govt-sitting-on-thumbs-over-student-transciency
-title: "Govt. Sitting On Thumbs Over Student  Transciency"
-date: 2002-09-11
-source-url: https://www.scoop.co.nz/stories/PA0209/S00173/govt-sitting-on-thumbs-over-student-transciency.htm
+title: Govt. Sitting On Thumbs Over Student  Transciency
+date: 2002-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00173/govt-sitting-on-thumbs-over-student-transciency.htm
 author: new-zealand-first-party
+permalink: /archive/2002/09/11/govt-sitting-on-thumbs-over-student-transciency/index.html
+layout: layout.njk
 ---
 Govt. Sitting On Thumbs Over Student Transciency
 ================================================

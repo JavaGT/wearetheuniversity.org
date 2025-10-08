@@ -1,9 +1,12 @@
 ---
 slug: act-announces-list-for-2023-general-election
-title: "ACT Announces List For 2023 General Election"
-date: 2023-07-16
-source-url: https://www.scoop.co.nz/stories/PO2307/S00095/act-announces-list-for-2023-general-election.htm
+title: ACT Announces List For 2023 General Election
+date: 2023-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00095/act-announces-list-for-2023-general-election.htm
 author: act-new-zealand
+permalink: /archive/2023/07/16/act-announces-list-for-2023-general-election/index.html
+layout: layout.njk
 ---
 ACT Announces List For 2023 General Election
 ============================================

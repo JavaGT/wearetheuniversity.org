@@ -1,9 +1,12 @@
 ---
 slug: time-now-to-buy-only-nz-produced-chocolate
-title: "Time Now to Buy Only NZ Produced Chocolate"
-date: 2017-02-16
-source-url: https://www.scoop.co.nz/stories/PA1702/S00231/time-now-to-buy-only-nz-produced-chocolate.htm
+title: Time Now to Buy Only NZ Produced Chocolate
+date: 2017-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00231/time-now-to-buy-only-nz-produced-chocolate.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/16/time-now-to-buy-only-nz-produced-chocolate/index.html
+layout: layout.njk
 ---
 Time Now to Buy Only NZ Produced Chocolate
 ==========================================

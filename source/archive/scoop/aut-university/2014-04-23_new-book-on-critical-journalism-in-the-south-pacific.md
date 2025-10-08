@@ -1,9 +1,13 @@
 ---
 slug: new-book-on-critical-journalism-in-the-south-pacific
-title: "New book on critical journalism in the South Pacific"
-date: 2014-04-23
-source-url: https://www.scoop.co.nz/stories/CU1404/S00343/new-book-on-critical-journalism-in-the-south-pacific.htm
+title: New book on critical journalism in the South Pacific
+date: 2014-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00343/new-book-on-critical-journalism-in-the-south-pacific.htm
 author: aut-university
+permalink: >-
+  /archive/2014/04/23/new-book-on-critical-journalism-in-the-south-pacific/index.html
+layout: layout.njk
 ---
 New book on critical journalism in the South Pacific
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: oral-submission-by-rt-hon-winston-peters-to-lge-comittee
-title: "Oral submission by Rt Hon Winston Peters to LGE Comittee"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PA1606/S00060/oral-submission-by-rt-hon-winston-peters-to-lge-comittee.htm
+title: Oral submission by Rt Hon Winston Peters to LGE Comittee
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00060/oral-submission-by-rt-hon-winston-peters-to-lge-comittee.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/02/oral-submission-by-rt-hon-winston-peters-to-lge-comittee/index.html
+layout: layout.njk
 ---
 Oral submission by Rt Hon Winston Peters to LGE Comittee
 ========================================================

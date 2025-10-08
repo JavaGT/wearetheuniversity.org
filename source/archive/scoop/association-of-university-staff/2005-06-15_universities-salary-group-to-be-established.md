@@ -1,9 +1,12 @@
 ---
 slug: universities-salary-group-to-be-established
-title: "Universities salary group to be established"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/ED0506/S00041/universities-salary-group-to-be-established.htm
+title: Universities salary group to be established
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00041/universities-salary-group-to-be-established.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/15/universities-salary-group-to-be-established/index.html
+layout: layout.njk
 ---
 Universities salary group to be established
 ===========================================

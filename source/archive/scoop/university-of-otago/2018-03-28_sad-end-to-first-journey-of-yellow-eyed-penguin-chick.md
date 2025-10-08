@@ -1,9 +1,13 @@
 ---
 slug: sad-end-to-first-journey-of-yellow-eyed-penguin-chick
-title: "Sad end to first journey of yellow-eyed penguin chick"
-date: 2018-03-28
-source-url: https://www.scoop.co.nz/stories/SC1803/S00061/sad-end-to-first-journey-of-yellow-eyed-penguin-chick.htm
+title: Sad end to first journey of yellow-eyed penguin chick
+date: 2018-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00061/sad-end-to-first-journey-of-yellow-eyed-penguin-chick.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/28/sad-end-to-first-journey-of-yellow-eyed-penguin-chick/index.html
+layout: layout.njk
 ---
 Sad end to first journey of yellow-eyed penguin chick
 =====================================================

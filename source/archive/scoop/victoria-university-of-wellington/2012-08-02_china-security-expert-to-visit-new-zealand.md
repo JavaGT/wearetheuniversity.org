@@ -1,9 +1,12 @@
 ---
 slug: china-security-expert-to-visit-new-zealand
-title: "China security expert to visit New Zealand"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/ED1208/S00016/china-security-expert-to-visit-new-zealand.htm
+title: China security expert to visit New Zealand
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00016/china-security-expert-to-visit-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/02/china-security-expert-to-visit-new-zealand/index.html
+layout: layout.njk
 ---
 China security expert to visit New Zealand
 ==========================================

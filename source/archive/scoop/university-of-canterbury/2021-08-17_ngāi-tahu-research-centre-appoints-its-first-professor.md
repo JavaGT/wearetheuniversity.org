@@ -1,9 +1,12 @@
 ---
 slug: ngāi-tahu-research-centre-appoints-its-first-professor
-title: "Ngāi Tahu Research Centre Appoints Its First Professor"
-date: 2021-08-17
-source-url: https://www.scoop.co.nz/stories/ED2108/S00027/ngai-tahu-research-centre-appoints-its-first-professor.htm
+title: Ngāi Tahu Research Centre Appoints Its First Professor
+date: 2021-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00027/ngai-tahu-research-centre-appoints-its-first-professor.htm
 author: university-of-canterbury
+permalink: /archive/2021/08/17/ng/index.html
+layout: layout.njk
 ---
 Ngāi Tahu Research Centre Appoints Its First Professor
 ======================================================

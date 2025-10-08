@@ -1,9 +1,13 @@
 ---
 slug: dairy-loan-done-on-a-handshake-details-to-follow
-title: "Dairy loan done on a handshake, details to follow"
-date: 2018-12-04
-source-url: https://www.scoop.co.nz/stories/PA1812/S00036/dairy-loan-done-on-a-handshake-details-to-follow.htm
+title: Dairy loan done on a handshake, details to follow
+date: 2018-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00036/dairy-loan-done-on-a-handshake-details-to-follow.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/12/04/dairy-loan-done-on-a-handshake-details-to-follow/index.html
+layout: layout.njk
 ---
 Dairy loan done on a handshake, details to follow
 =================================================

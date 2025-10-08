@@ -1,9 +1,12 @@
 ---
 slug: university-of-auckland-practically-burning-cash
-title: "University of Auckland practically \"burning\" Cash"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/ED0503/S00012/university-of-auckland-practically-burning-cash.htm
+title: University of Auckland practically "burning" Cash
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00012/university-of-auckland-practically-burning-cash.htm
 author: auckland-university-students-association
+permalink: /archive/2005/03/03/university-of-auckland-practically-burning-cash/index.html
+layout: layout.njk
 ---
 University of Auckland practically “burning” Cash
 =================================================

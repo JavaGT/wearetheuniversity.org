@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-distinguished-alumni
-title: "University of Waikato Distinguished Alumni"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00053/university-of-waikato-distinguished-alumni.htm
+title: University of Waikato Distinguished Alumni
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00053/university-of-waikato-distinguished-alumni.htm
 author: university-of-waikato
+permalink: /archive/2015/09/09/university-of-waikato-distinguished-alumni/index.html
+layout: layout.njk
 ---
 University of Waikato Distinguished Alumni
 ==========================================

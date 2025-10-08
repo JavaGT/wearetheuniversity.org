@@ -1,9 +1,13 @@
 ---
 slug: universities-call-for-an-independent-national-research-council
-title: "Universities Call For An Independent National Research Council"
-date: 2022-03-07
-source-url: https://www.scoop.co.nz/stories/ED2203/S00011/universities-call-for-an-independent-national-research-council.htm
+title: Universities Call For An Independent National Research Council
+date: 2022-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00011/universities-call-for-an-independent-national-research-council.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/03/07/universities-call-for-an-independent-national-research-council/index.html
+layout: layout.njk
 ---
 Universities Call For An Independent National Research Council
 ==============================================================

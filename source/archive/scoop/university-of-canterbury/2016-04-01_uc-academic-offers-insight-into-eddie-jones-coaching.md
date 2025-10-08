@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-offers-insight-into-eddie-jones-coaching
-title: "UC academic offers insight into Eddie Jones’ coaching"
-date: 2016-04-01
-source-url: https://www.scoop.co.nz/stories/CU1604/S00016/uc-academic-offers-insight-into-eddie-jones-coaching.htm
+title: UC academic offers insight into Eddie Jones’ coaching
+date: 2016-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1604/S00016/uc-academic-offers-insight-into-eddie-jones-coaching.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/01/uc-academic-offers-insight-into-eddie-jones-coaching/index.html
+layout: layout.njk
 ---
 UC academic offers insight into Eddie Jones’ coaching
 =====================================================

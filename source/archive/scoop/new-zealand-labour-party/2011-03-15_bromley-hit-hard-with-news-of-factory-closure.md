@@ -1,9 +1,12 @@
 ---
 slug: bromley-hit-hard-with-news-of-factory-closure
-title: "Bromley Hit Hard With News of Factory Closure"
-date: 2011-03-15
-source-url: https://www.scoop.co.nz/stories/PA1103/S00226/bromley-hit-hard-with-news-of-factory-closure.htm
+title: Bromley Hit Hard With News of Factory Closure
+date: 2011-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00226/bromley-hit-hard-with-news-of-factory-closure.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/15/bromley-hit-hard-with-news-of-factory-closure/index.html
+layout: layout.njk
 ---
 Bromley Hit Hard With News of Factory Closure
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: duck-shooting-season-in-doubt-for-many-this-year
-title: "Duck Shooting Season In Doubt For Many This Year"
-date: 2021-03-10
-source-url: https://www.scoop.co.nz/stories/PA2103/S00058/duck-shooting-season-in-doubt-for-many-this-year.htm
+title: Duck Shooting Season In Doubt For Many This Year
+date: 2021-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00058/duck-shooting-season-in-doubt-for-many-this-year.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/10/duck-shooting-season-in-doubt-for-many-this-year/index.html
+layout: layout.njk
 ---
 Duck Shooting Season In Doubt For Many This Year
 ================================================

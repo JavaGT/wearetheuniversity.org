@@ -1,9 +1,12 @@
 ---
 slug: national-supporting-new-zealand-families
-title: "National supporting New Zealand families"
-date: 2017-09-17
-source-url: https://www.scoop.co.nz/stories/PA1709/S00199/national-supporting-new-zealand-families.htm
+title: National supporting New Zealand families
+date: 2017-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00199/national-supporting-new-zealand-families.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/17/national-supporting-new-zealand-families/index.html
+layout: layout.njk
 ---
 National supporting New Zealand families
 ========================================

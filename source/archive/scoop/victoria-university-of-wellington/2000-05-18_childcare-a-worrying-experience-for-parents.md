@@ -1,9 +1,12 @@
 ---
 slug: childcare-a-worrying-experience-for-parents
-title: "Childcare a worrying experience for parents"
-date: 2000-05-18
-source-url: https://www.scoop.co.nz/stories/ED0005/S00029/childcare-a-worrying-experience-for-parents.htm
+title: Childcare a worrying experience for parents
+date: 2000-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00029/childcare-a-worrying-experience-for-parents.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/18/childcare-a-worrying-experience-for-parents/index.html
+layout: layout.njk
 ---
 Childcare a worrying experience for parents
 ===========================================

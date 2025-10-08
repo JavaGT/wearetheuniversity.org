@@ -1,9 +1,13 @@
 ---
 slug: prestigious-emerging-artist-awards-for-waikato-music-student
-title: "Prestigious Emerging Artist Awards for Waikato music student"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/CU1407/S00006/prestigious-emerging-artist-awards-for-waikato-music-student.htm
+title: Prestigious Emerging Artist Awards for Waikato music student
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00006/prestigious-emerging-artist-awards-for-waikato-music-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/01/prestigious-emerging-artist-awards-for-waikato-music-student/index.html
+layout: layout.njk
 ---
 Prestigious Emerging Artist Awards for Waikato music student
 ============================================================

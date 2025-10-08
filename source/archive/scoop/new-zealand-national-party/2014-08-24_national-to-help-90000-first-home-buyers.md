@@ -1,9 +1,12 @@
 ---
 slug: national-to-help-90000-first-home-buyers
-title: "National to help 90,000 first home buyers"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00365/national-to-help-90000-first-home-buyers.htm
+title: National to help 90,000 first home buyers
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00365/national-to-help-90000-first-home-buyers.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/24/national-to-help-90000-first-home-buyers/index.html
+layout: layout.njk
 ---
 National to help 90,000 first home buyers
 =========================================

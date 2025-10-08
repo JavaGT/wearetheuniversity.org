@@ -1,9 +1,12 @@
 ---
 slug: massey-womens-football-team-makes-history
-title: "Massey women's football team makes history"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/CU1208/S00367/massey-womens-football-team-makes-history.htm
+title: Massey women's football team makes history
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00367/massey-womens-football-team-makes-history.htm
 author: massey-university
+permalink: /archive/2012/08/22/massey-womens-football-team-makes-history/index.html
+layout: layout.njk
 ---
 Massey women's football team makes history
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: students-fly-banner-protesting-fossil-fuel-investments
-title: "Students fly banner protesting fossil fuel investments"
-date: 2018-05-10
-source-url: https://www.scoop.co.nz/stories/PO1805/S00108/students-fly-banner-protesting-fossil-fuel-investments.htm
+title: Students fly banner protesting fossil fuel investments
+date: 2018-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00108/students-fly-banner-protesting-fossil-fuel-investments.htm
 author: fossil-free-auckland
+permalink: >-
+  /archive/2018/05/10/students-fly-banner-protesting-fossil-fuel-investments/index.html
+layout: layout.njk
 ---
 Students fly banner protesting fossil fuel investments
 ======================================================

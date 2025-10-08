@@ -1,9 +1,12 @@
 ---
 slug: its-time-to-put-education-first-again
-title: "It's Time To Put Education First Again"
-date: 2023-04-19
-source-url: https://www.scoop.co.nz/stories/ED2304/S00012/its-time-to-put-education-first-again.htm
+title: It's Time To Put Education First Again
+date: 2023-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2304/S00012/its-time-to-put-education-first-again.htm
 author: young-new-zealand-first
+permalink: /archive/2023/04/19/its-time-to-put-education-first-again/index.html
+layout: layout.njk
 ---
 It's Time To Put Education First Again
 ======================================

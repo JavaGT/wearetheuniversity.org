@@ -1,9 +1,12 @@
 ---
 slug: labour-will-enhance-and-protect-acc
-title: "Labour will enhance and protect ACC"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PA1111/S00069/labour-will-enhance-and-protect-acc.htm
+title: Labour will enhance and protect ACC
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00069/labour-will-enhance-and-protect-acc.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/04/labour-will-enhance-and-protect-acc/index.html
+layout: layout.njk
 ---
 Labour will enhance and protect ACC
 ===================================

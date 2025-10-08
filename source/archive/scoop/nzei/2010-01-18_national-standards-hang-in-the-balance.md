@@ -1,9 +1,12 @@
 ---
 slug: national-standards-hang-in-the-balance
-title: "National Standards Hang In The Balance"
-date: 2010-01-18
-source-url: https://www.scoop.co.nz/stories/AK1001/S00186/national-standards-hang-in-the-balance.htm
+title: National Standards Hang In The Balance
+date: 2010-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1001/S00186/national-standards-hang-in-the-balance.htm
 author: nzei
+permalink: /archive/2010/01/18/national-standards-hang-in-the-balance/index.html
+layout: layout.njk
 ---
 National Standards Hang In The Balance
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: tendering-of-pathology-destabilising-workforce
-title: "Tendering of pathology destabilising workforce"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/PA0611/S00180/tendering-of-pathology-destabilising-workforce.htm
+title: Tendering of pathology destabilising workforce
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00180/tendering-of-pathology-destabilising-workforce.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/09/tendering-of-pathology-destabilising-workforce/index.html
+layout: layout.njk
 ---
 Tendering of pathology destabilising workforce
 ==============================================

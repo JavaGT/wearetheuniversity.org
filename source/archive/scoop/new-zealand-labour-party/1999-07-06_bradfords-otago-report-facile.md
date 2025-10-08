@@ -1,9 +1,12 @@
 ---
 slug: bradfords-otago-report-facile
-title: "Bradford's Otago Report Facile"
-date: 1999-07-06
-source-url: https://www.scoop.co.nz/stories/PA9907/S00085/bradfords-otago-report-facile.htm
+title: Bradford's Otago Report Facile
+date: 1999-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00085/bradfords-otago-report-facile.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/06/bradfords-otago-report-facile/index.html
+layout: layout.njk
 ---
 Bradford's Otago Report Facile
 ==============================

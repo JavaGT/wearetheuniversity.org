@@ -1,9 +1,12 @@
 ---
 slug: skycity-deal-bad-for-the-people-and-bad-law-too
-title: "SkyCity deal bad for the people and bad law too"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/PA1310/S00335/skycity-deal-bad-for-the-people-and-bad-law-too.htm
+title: SkyCity deal bad for the people and bad law too
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00335/skycity-deal-bad-for-the-people-and-bad-law-too.htm
 author: green-party
+permalink: /archive/2013/10/22/skycity-deal-bad-for-the-people-and-bad-law-too/index.html
+layout: layout.njk
 ---
 SkyCity deal bad for the people and bad law too
 ===============================================

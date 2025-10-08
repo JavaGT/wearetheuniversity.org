@@ -1,9 +1,11 @@
 ---
 slug: let-parents-choose-minister
-title: "Let Parents Choose, Minister"
-date: 2003-09-22
+title: Let Parents Choose, Minister
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0309/S00477/let-parents-choose-minister.htm
 author: act-new-zealand
+permalink: /archive/2003/09/22/let-parents-choose-minister/index.html
+layout: layout.njk
 ---
 Let Parents Choose, Minister
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: call-for-internet-chat-rooms-to-carry-hiv-warnings
-title: "Call for Internet chat rooms to carry HIV warnings"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/GE0604/S00010/call-for-internet-chat-rooms-to-carry-hiv-warnings.htm
+title: Call for Internet chat rooms to carry HIV warnings
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0604/S00010/call-for-internet-chat-rooms-to-carry-hiv-warnings.htm
 author: massey-university
+permalink: >-
+  /archive/2006/04/03/call-for-internet-chat-rooms-to-carry-hiv-warnings/index.html
+layout: layout.njk
 ---
 Call for Internet chat rooms to carry HIV warnings
 ==================================================

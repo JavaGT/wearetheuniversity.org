@@ -1,9 +1,13 @@
 ---
 slug: phd-candidate-jack-pronger-awarded-top-achiever-scholarship
-title: "PhD candidate Jack Pronger awarded Top Achiever Scholarship"
-date: 2014-09-01
-source-url: https://www.scoop.co.nz/stories/ED1409/S00002/phd-candidate-jack-pronger-awarded-top-achiever-scholarship.htm
+title: PhD candidate Jack Pronger awarded Top Achiever Scholarship
+date: 2014-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00002/phd-candidate-jack-pronger-awarded-top-achiever-scholarship.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/09/01/phd-candidate-jack-pronger-awarded-top-achiever-scholarship/index.html
+layout: layout.njk
 ---
 PhD candidate Jack Pronger awarded Top Achiever Scholarship
 ===========================================================

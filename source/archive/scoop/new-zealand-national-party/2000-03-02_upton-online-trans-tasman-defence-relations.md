@@ -1,9 +1,12 @@
 ---
 slug: upton-online-trans-tasman-defence-relations
-title: "Upton Online: Trans-Tasman Defence Relations"
-date: 2000-03-02
-source-url: https://www.scoop.co.nz/stories/PA0003/S00048/upton-online-trans-tasman-defence-relations.htm
+title: 'Upton Online: Trans-Tasman Defence Relations'
+date: 2000-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00048/upton-online-trans-tasman-defence-relations.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/02/upton-online-trans-tasman-defence-relations/index.html
+layout: layout.njk
 ---
 Upton Online: Trans-Tasman Defence Relations
 ============================================

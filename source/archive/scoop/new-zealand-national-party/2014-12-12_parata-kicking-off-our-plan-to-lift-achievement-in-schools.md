@@ -1,9 +1,13 @@
 ---
 slug: parata-kicking-off-our-plan-to-lift-achievement-in-schools
-title: "Parata: Kicking off our plan to lift achievement in schools"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/PA1412/S00270/parata-kicking-off-our-plan-to-lift-achievement-in-schools.htm
+title: 'Parata: Kicking off our plan to lift achievement in schools'
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00270/parata-kicking-off-our-plan-to-lift-achievement-in-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/12/12/parata-kicking-off-our-plan-to-lift-achievement-in-schools/index.html
+layout: layout.njk
 ---
 Parata: Kicking off our plan to lift achievement in schools
 ===========================================================

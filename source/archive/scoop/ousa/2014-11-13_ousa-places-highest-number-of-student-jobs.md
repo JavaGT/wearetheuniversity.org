@@ -1,9 +1,12 @@
 ---
 slug: ousa-places-highest-number-of-student-jobs
-title: "OUSA Places Highest Number of Student Jobs"
-date: 2014-11-13
-source-url: https://www.scoop.co.nz/stories/ED1411/S00083/ousa-places-highest-number-of-student-jobs.htm
+title: OUSA Places Highest Number of Student Jobs
+date: 2014-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00083/ousa-places-highest-number-of-student-jobs.htm
 author: ousa
+permalink: /archive/2014/11/13/ousa-places-highest-number-of-student-jobs/index.html
+layout: layout.njk
 ---
 OUSA Places Highest Number of Student Jobs
 ==========================================

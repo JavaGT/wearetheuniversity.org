@@ -1,9 +1,12 @@
 ---
 slug: labours-gay-marriage-agenda-exposed-as-a-flop
-title: "Labour's Gay Marriage Agenda Exposed As A Flop"
-date: 2005-06-29
-source-url: https://www.scoop.co.nz/stories/PA0506/S00689/labours-gay-marriage-agenda-exposed-as-a-flop.htm
+title: Labour's Gay Marriage Agenda Exposed As A Flop
+date: 2005-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00689/labours-gay-marriage-agenda-exposed-as-a-flop.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/29/labours-gay-marriage-agenda-exposed-as-a-flop/index.html
+layout: layout.njk
 ---
 Labour's Gay Marriage Agenda Exposed As A Flop
 ==============================================

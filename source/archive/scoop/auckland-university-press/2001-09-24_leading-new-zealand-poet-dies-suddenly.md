@@ -1,9 +1,12 @@
 ---
 slug: leading-new-zealand-poet-dies-suddenly
-title: "Leading New Zealand poet dies suddenly"
-date: 2001-09-24
-source-url: https://www.scoop.co.nz/stories/CU0109/S00021/leading-new-zealand-poet-dies-suddenly.htm
+title: Leading New Zealand poet dies suddenly
+date: 2001-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0109/S00021/leading-new-zealand-poet-dies-suddenly.htm
 author: auckland-university-press
+permalink: /archive/2001/09/24/leading-new-zealand-poet-dies-suddenly/index.html
+layout: layout.njk
 ---
 Leading New Zealand poet dies suddenly
 ======================================

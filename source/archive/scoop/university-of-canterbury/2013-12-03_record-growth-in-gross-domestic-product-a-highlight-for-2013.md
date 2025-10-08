@@ -1,9 +1,13 @@
 ---
 slug: record-growth-in-gross-domestic-product-a-highlight-for-2013
-title: "Record growth in gross domestic product a highlight for 2013"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/BU1312/S00070/record-growth-in-gross-domestic-product-a-highlight-for-2013.htm
+title: Record growth in gross domestic product a highlight for 2013
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1312/S00070/record-growth-in-gross-domestic-product-a-highlight-for-2013.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/03/record-growth-in-gross-domestic-product-a-highlight-for-2013/index.html
+layout: layout.njk
 ---
 Record growth in gross domestic product a highlight for 2013
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-by-hide-to-otago-chamber-of-commerce
-title: "Speech By Hide To Otago Chamber Of Commerce"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PA1004/S00165/speech-by-hide-to-otago-chamber-of-commerce.htm
+title: Speech By Hide To Otago Chamber Of Commerce
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00165/speech-by-hide-to-otago-chamber-of-commerce.htm
 author: act-new-zealand
+permalink: /archive/2010/04/15/speech-by-hide-to-otago-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Speech By Hide To Otago Chamber Of Commerce
 ===========================================

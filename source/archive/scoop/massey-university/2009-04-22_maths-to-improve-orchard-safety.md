@@ -1,9 +1,12 @@
 ---
 slug: maths-to-improve-orchard-safety
-title: "Maths to improve orchard safety"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/ED0904/S00045/maths-to-improve-orchard-safety.htm
+title: Maths to improve orchard safety
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00045/maths-to-improve-orchard-safety.htm
 author: massey-university
+permalink: /archive/2009/04/22/maths-to-improve-orchard-safety/index.html
+layout: layout.njk
 ---
 Maths to improve orchard safety
 ===============================

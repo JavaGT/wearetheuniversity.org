@@ -1,9 +1,11 @@
 ---
 slug: dairy-decision-announced
-title: "Dairy Decision Announced"
-date: 2001-04-09
+title: Dairy Decision Announced
+date: 2001-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0104/S00138/dairy-decision-announced.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/09/dairy-decision-announced/index.html
+layout: layout.njk
 ---
 Dairy Decision Announced
 ========================

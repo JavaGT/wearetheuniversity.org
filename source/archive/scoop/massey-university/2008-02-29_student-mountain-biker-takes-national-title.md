@@ -1,9 +1,12 @@
 ---
 slug: student-mountain-biker-takes-national-title
-title: "Student mountain biker takes national title"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/ED0802/S00074/student-mountain-biker-takes-national-title.htm
+title: Student mountain biker takes national title
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00074/student-mountain-biker-takes-national-title.htm
 author: massey-university
+permalink: /archive/2008/02/29/student-mountain-biker-takes-national-title/index.html
+layout: layout.njk
 ---
 Student mountain biker takes national title
 ===========================================

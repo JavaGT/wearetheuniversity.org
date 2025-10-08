@@ -1,9 +1,12 @@
 ---
 slug: naked-students-borrow-to-live
-title: "Naked students borrow to live"
-date: 2012-03-02
-source-url: https://www.scoop.co.nz/stories/PO1203/S00022/naked-students-borrow-to-live.htm
+title: Naked students borrow to live
+date: 2012-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00022/naked-students-borrow-to-live.htm
 author: auckland-university-students-association
+permalink: /archive/2012/03/02/naked-students-borrow-to-live/index.html
+layout: layout.njk
 ---
 Naked students borrow to live
 =============================

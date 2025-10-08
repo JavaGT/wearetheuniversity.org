@@ -1,9 +1,12 @@
 ---
 slug: business-entries-among-best-in-awards-history
-title: "Business entries among best in awards history"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/BU0910/S00720/business-entries-among-best-in-awards-history.htm
+title: Business entries among best in awards history
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0910/S00720/business-entries-among-best-in-awards-history.htm
 author: massey-university
+permalink: /archive/2009/10/28/business-entries-among-best-in-awards-history/index.html
+layout: layout.njk
 ---
 Business entries among best in awards history
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-pushing-populist-line
-title: "Government pushing populist line"
-date: 1999-09-22
-source-url: https://www.scoop.co.nz/stories/PA9909/S00477/government-pushing-populist-line.htm
+title: Government pushing populist line
+date: 1999-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00477/government-pushing-populist-line.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/22/government-pushing-populist-line/index.html
+layout: layout.njk
 ---
 Government pushing populist line
 ================================

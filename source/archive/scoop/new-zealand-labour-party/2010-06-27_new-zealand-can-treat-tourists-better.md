@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-can-treat-tourists-better
-title: "New Zealand Can Treat Tourists Better"
-date: 2010-06-27
-source-url: https://www.scoop.co.nz/stories/PA1006/S00426/new-zealand-can-treat-tourists-better.htm
+title: New Zealand Can Treat Tourists Better
+date: 2010-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00426/new-zealand-can-treat-tourists-better.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/27/new-zealand-can-treat-tourists-better/index.html
+layout: layout.njk
 ---
 New Zealand Can Treat Tourists Better
 =====================================

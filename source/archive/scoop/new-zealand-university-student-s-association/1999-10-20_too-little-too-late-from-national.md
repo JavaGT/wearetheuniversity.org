@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-from-national
-title: "Too little too late from National"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/ED9910/S00055/too-little-too-late-from-national.htm
+title: Too little too late from National
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00055/too-little-too-late-from-national.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/20/too-little-too-late-from-national/index.html
+layout: layout.njk
 ---
 Too little too late from National
 =================================

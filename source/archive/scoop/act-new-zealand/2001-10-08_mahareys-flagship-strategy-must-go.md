@@ -1,9 +1,12 @@
 ---
 slug: mahareys-flagship-strategy-must-go
-title: "Maharey's Flagship Strategy Must Go"
-date: 2001-10-08
-source-url: https://www.scoop.co.nz/stories/PA0110/S00171/mahareys-flagship-strategy-must-go.htm
+title: Maharey's Flagship Strategy Must Go
+date: 2001-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00171/mahareys-flagship-strategy-must-go.htm
 author: act-new-zealand
+permalink: /archive/2001/10/08/mahareys-flagship-strategy-must-go/index.html
+layout: layout.njk
 ---
 Maharey's Flagship Strategy Must Go
 ===================================

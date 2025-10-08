@@ -1,9 +1,13 @@
 ---
 slug: direct-payments-instead-of-fossil-fuel-subsidies
-title: "Direct Payments, Instead Of Fossil Fuel Subsidies"
-date: 2022-03-14
-source-url: https://www.scoop.co.nz/stories/PO2203/S00125/direct-payments-instead-of-fossil-fuel-subsidies.htm
+title: Direct Payments, Instead Of Fossil Fuel Subsidies
+date: 2022-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2203/S00125/direct-payments-instead-of-fossil-fuel-subsidies.htm
 author: green-party
+permalink: >-
+  /archive/2022/03/14/direct-payments-instead-of-fossil-fuel-subsidies/index.html
+layout: layout.njk
 ---
 Direct Payments, Instead Of Fossil Fuel Subsidies
 =================================================

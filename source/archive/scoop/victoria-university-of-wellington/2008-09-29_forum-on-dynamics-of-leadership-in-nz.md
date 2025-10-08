@@ -1,9 +1,12 @@
 ---
 slug: forum-on-dynamics-of-leadership-in-nz
-title: "Forum on dynamics of leadership in NZ"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/ED0809/S00098/forum-on-dynamics-of-leadership-in-nz.htm
+title: Forum on dynamics of leadership in NZ
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00098/forum-on-dynamics-of-leadership-in-nz.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/09/29/forum-on-dynamics-of-leadership-in-nz/index.html
+layout: layout.njk
 ---
 Forum on dynamics of leadership in NZ
 =====================================

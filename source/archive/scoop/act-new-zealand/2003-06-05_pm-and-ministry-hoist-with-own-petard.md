@@ -1,9 +1,12 @@
 ---
 slug: pm-and-ministry-hoist-with-own-petard
-title: "PM And Ministry Hoist With Own Petard"
-date: 2003-06-05
-source-url: https://www.scoop.co.nz/stories/PA0306/S00054/pm-and-ministry-hoist-with-own-petard.htm
+title: PM And Ministry Hoist With Own Petard
+date: 2003-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00054/pm-and-ministry-hoist-with-own-petard.htm
 author: act-new-zealand
+permalink: /archive/2003/06/05/pm-and-ministry-hoist-with-own-petard/index.html
+layout: layout.njk
 ---
 PM And Ministry Hoist With Own Petard
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: university-staff-say-no-strings-to-private-funding
-title: "University staff say no strings to private funding"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/ED0207/S00038/university-staff-say-no-strings-to-private-funding.htm
+title: University staff say no strings to private funding
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00038/university-staff-say-no-strings-to-private-funding.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/07/17/university-staff-say-no-strings-to-private-funding/index.html
+layout: layout.njk
 ---
 University staff say no strings to private funding
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: ousa-announces-top-lecturers
-title: "OUSA Announces Top Lecturers"
-date: 2011-10-21
+title: OUSA Announces Top Lecturers
+date: 2011-10-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1110/S00095/ousa-announces-top-lecturers.htm
 author: ousa
+permalink: /archive/2011/10/21/ousa-announces-top-lecturers/index.html
+layout: layout.njk
 ---
 OUSA Announces Top Lecturers
 ============================

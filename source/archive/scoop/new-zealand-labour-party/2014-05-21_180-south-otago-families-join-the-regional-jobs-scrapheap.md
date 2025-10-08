@@ -1,9 +1,13 @@
 ---
 slug: 180-south-otago-families-join-the-regional-jobs-scrapheap
-title: "180 South Otago families join the regional jobs scrapheap"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/PA1405/S00396/180-south-otago-families-join-the-regional-jobs-scrapheap.htm
+title: 180 South Otago families join the regional jobs scrapheap
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00396/180-south-otago-families-join-the-regional-jobs-scrapheap.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/21/180-south-otago-families-join-the-regional-jobs-scrapheap/index.html
+layout: layout.njk
 ---
 180 South Otago families join the regional jobs scrapheap
 =========================================================

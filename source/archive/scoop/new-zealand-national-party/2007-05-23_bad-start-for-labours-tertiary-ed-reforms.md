@@ -1,9 +1,12 @@
 ---
 slug: bad-start-for-labours-tertiary-ed-reforms
-title: "Bad start for Labour’s Tertiary Ed reforms"
-date: 2007-05-23
-source-url: https://www.scoop.co.nz/stories/PA0705/S00605/bad-start-for-labours-tertiary-ed-reforms.htm
+title: Bad start for Labour’s Tertiary Ed reforms
+date: 2007-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00605/bad-start-for-labours-tertiary-ed-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/23/bad-start-for-labours-tertiary-ed-reforms/index.html
+layout: layout.njk
 ---
 Bad start for Labour’s Tertiary Ed reforms
 ==========================================

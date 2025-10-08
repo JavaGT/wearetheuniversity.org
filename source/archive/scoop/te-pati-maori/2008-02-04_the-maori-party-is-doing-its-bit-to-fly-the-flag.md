@@ -1,9 +1,13 @@
 ---
 slug: the-maori-party-is-doing-its-bit-to-fly-the-flag
-title: "The Maori Party is doing its bit to fly the flag"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/PA0802/S00025/the-maori-party-is-doing-its-bit-to-fly-the-flag.htm
+title: The Maori Party is doing its bit to fly the flag
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00025/the-maori-party-is-doing-its-bit-to-fly-the-flag.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/02/04/the-maori-party-is-doing-its-bit-to-fly-the-flag/index.html
+layout: layout.njk
 ---
 The Maori Party is doing its bit to fly the flag
 ================================================

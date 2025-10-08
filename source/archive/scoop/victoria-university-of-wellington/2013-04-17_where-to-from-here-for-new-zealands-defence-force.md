@@ -1,9 +1,13 @@
 ---
 slug: where-to-from-here-for-new-zealands-defence-force
-title: "Where to from here for New Zealand’s defence force?"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/PO1304/S00195/where-to-from-here-for-new-zealands-defence-force.htm
+title: Where to from here for New Zealand’s defence force?
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00195/where-to-from-here-for-new-zealands-defence-force.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/17/where-to-from-here-for-new-zealands-defence-force/index.html
+layout: layout.njk
 ---
 Where to from here for New Zealand’s defence force?
 ===================================================

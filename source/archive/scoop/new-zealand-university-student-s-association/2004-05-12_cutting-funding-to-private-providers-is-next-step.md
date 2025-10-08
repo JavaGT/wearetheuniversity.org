@@ -1,9 +1,13 @@
 ---
 slug: cutting-funding-to-private-providers-is-next-step
-title: "Cutting funding to Private Providers is next step"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/ED0405/S00050/cutting-funding-to-private-providers-is-next-step.htm
+title: Cutting funding to Private Providers is next step
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00050/cutting-funding-to-private-providers-is-next-step.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/05/12/cutting-funding-to-private-providers-is-next-step/index.html
+layout: layout.njk
 ---
 Cutting funding to Private Providers is next step
 =================================================

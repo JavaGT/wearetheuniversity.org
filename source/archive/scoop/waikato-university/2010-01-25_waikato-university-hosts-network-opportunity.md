@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-hosts-network-opportunity
-title: "Waikato University hosts network opportunity"
-date: 2010-01-25
-source-url: https://www.scoop.co.nz/stories/ED1001/S00032/waikato-university-hosts-network-opportunity.htm
+title: Waikato University hosts network opportunity
+date: 2010-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00032/waikato-university-hosts-network-opportunity.htm
 author: waikato-university
+permalink: /archive/2010/01/25/waikato-university-hosts-network-opportunity/index.html
+layout: layout.njk
 ---
 Waikato University hosts network opportunity
 ============================================

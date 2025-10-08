@@ -1,9 +1,12 @@
 ---
 slug: ecan-climate-change-emergency-not-the-answer
-title: "ECan climate change emergency not the answer"
-date: 2019-05-16
-source-url: https://www.scoop.co.nz/stories/PA1905/S00164/ecan-climate-change-emergency-not-the-answer.htm
+title: ECan climate change emergency not the answer
+date: 2019-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00164/ecan-climate-change-emergency-not-the-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/16/ecan-climate-change-emergency-not-the-answer/index.html
+layout: layout.njk
 ---
 ECan climate change emergency not the answer
 ============================================

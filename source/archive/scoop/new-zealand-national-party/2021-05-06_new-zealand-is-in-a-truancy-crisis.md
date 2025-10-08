@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-is-in-a-truancy-crisis
-title: "New Zealand Is In A Truancy Crisis"
-date: 2021-05-06
-source-url: https://www.scoop.co.nz/stories/PA2105/S00053/new-zealand-is-in-a-truancy-crisis.htm
+title: New Zealand Is In A Truancy Crisis
+date: 2021-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00053/new-zealand-is-in-a-truancy-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/06/new-zealand-is-in-a-truancy-crisis/index.html
+layout: layout.njk
 ---
 New Zealand Is In A Truancy Crisis
 ==================================

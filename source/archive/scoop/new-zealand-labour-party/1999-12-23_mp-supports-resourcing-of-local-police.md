@@ -1,9 +1,12 @@
 ---
 slug: mp-supports-resourcing-of-local-police
-title: "MP Supports Resourcing of Local Police"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/PA9912/S00147/mp-supports-resourcing-of-local-police.htm
+title: MP Supports Resourcing of Local Police
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00147/mp-supports-resourcing-of-local-police.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/12/23/mp-supports-resourcing-of-local-police/index.html
+layout: layout.njk
 ---
 MP Supports Resourcing of Local Police
 ======================================

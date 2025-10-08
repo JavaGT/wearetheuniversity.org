@@ -1,9 +1,13 @@
 ---
 slug: febfast-polls-highly-for-national-mp-jackie-blue
-title: "FebFast polls highly for National MP Jackie Blue"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/PA1112/S00148/febfast-polls-highly-for-national-mp-jackie-blue.htm
+title: FebFast polls highly for National MP Jackie Blue
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00148/febfast-polls-highly-for-national-mp-jackie-blue.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/12/21/febfast-polls-highly-for-national-mp-jackie-blue/index.html
+layout: layout.njk
 ---
 FebFast polls highly for National MP Jackie Blue
 ================================================

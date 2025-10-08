@@ -1,9 +1,12 @@
 ---
 slug: labour-will-provide-transitional-assistance
-title: "Labour will provide transitional assistance"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PA0810/S00663/labour-will-provide-transitional-assistance.htm
+title: Labour will provide transitional assistance
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00663/labour-will-provide-transitional-assistance.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/30/labour-will-provide-transitional-assistance/index.html
+layout: layout.njk
 ---
 Labour will provide transitional assistance
 ===========================================

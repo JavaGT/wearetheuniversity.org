@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-more-than-just-a-day-off
-title: "Heather Roy’s Diary: More than just a ‘Day Off’"
-date: 2011-04-21
-source-url: https://www.scoop.co.nz/stories/PA1104/S00458/heather-roys-diary-more-than-just-a-day-off.htm
+title: 'Heather Roy’s Diary: More than just a ‘Day Off’'
+date: 2011-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00458/heather-roys-diary-more-than-just-a-day-off.htm
 author: act-new-zealand
+permalink: /archive/2011/04/21/heather-roys-diary-more-than-just-a-day-off/index.html
+layout: layout.njk
 ---
 Heather Roy’s Diary: More than just a ‘Day Off’
 ===============================================

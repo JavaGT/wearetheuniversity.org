@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-angoa-political-panel-and-agm
-title: "Rahui Katene: ANGOA Political Panel and AGM"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/PA1111/S00186/rahui-katene-angoa-political-panel-and-agm.htm
+title: 'Rahui Katene: ANGOA Political Panel and AGM'
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00186/rahui-katene-angoa-political-panel-and-agm.htm
 author: te-pati-maori
+permalink: /archive/2011/11/10/rahui-katene-angoa-political-panel-and-agm/index.html
+layout: layout.njk
 ---
 Rahui Katene: ANGOA Political Panel and AGM
 ===========================================

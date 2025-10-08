@@ -1,9 +1,13 @@
 ---
 slug: exposing-next-generation-of-designers-and-artists
-title: "Exposing next generation of designers and artists"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/CU0611/S00077/exposing-next-generation-of-designers-and-artists.htm
+title: Exposing next generation of designers and artists
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0611/S00077/exposing-next-generation-of-designers-and-artists.htm
 author: massey-university
+permalink: >-
+  /archive/2006/11/07/exposing-next-generation-of-designers-and-artists/index.html
+layout: layout.njk
 ---
 Exposing next generation of designers and artists
 =================================================

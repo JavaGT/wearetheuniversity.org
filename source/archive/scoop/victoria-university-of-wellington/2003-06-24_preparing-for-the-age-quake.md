@@ -1,9 +1,11 @@
 ---
 slug: preparing-for-the-age-quake
-title: "Preparing for the \"Age Quake\""
-date: 2003-06-24
+title: Preparing for the "Age Quake"
+date: 2003-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0306/S00054/preparing-for-the-age-quake.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/24/preparing-for-the-age-quake/index.html
+layout: layout.njk
 ---
 Preparing for the “Age Quake”
 =============================

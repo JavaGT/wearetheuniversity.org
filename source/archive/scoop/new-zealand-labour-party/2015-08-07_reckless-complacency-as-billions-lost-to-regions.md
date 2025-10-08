@@ -1,9 +1,13 @@
 ---
 slug: reckless-complacency-as-billions-lost-to-regions
-title: "Reckless complacency as billions lost to regions"
-date: 2015-08-07
-source-url: https://www.scoop.co.nz/stories/PA1508/S00108/reckless-complacency-as-billions-lost-to-regions.htm
+title: Reckless complacency as billions lost to regions
+date: 2015-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00108/reckless-complacency-as-billions-lost-to-regions.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/07/reckless-complacency-as-billions-lost-to-regions/index.html
+layout: layout.njk
 ---
 Reckless complacency as billions lost to regions
 ================================================

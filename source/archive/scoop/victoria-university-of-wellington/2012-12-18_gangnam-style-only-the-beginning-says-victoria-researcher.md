@@ -1,9 +1,13 @@
 ---
 slug: gangnam-style-only-the-beginning-says-victoria-researcher
-title: "Gangnam Style only the beginning, says Victoria researcher"
-date: 2012-12-18
-source-url: https://www.scoop.co.nz/stories/CU1212/S00268/gangnam-style-only-the-beginning-says-victoria-researcher.htm
+title: Gangnam Style only the beginning, says Victoria researcher
+date: 2012-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00268/gangnam-style-only-the-beginning-says-victoria-researcher.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/12/18/gangnam-style-only-the-beginning-says-victoria-researcher/index.html
+layout: layout.njk
 ---
 Gangnam Style only the beginning, says Victoria researcher
 ==========================================================

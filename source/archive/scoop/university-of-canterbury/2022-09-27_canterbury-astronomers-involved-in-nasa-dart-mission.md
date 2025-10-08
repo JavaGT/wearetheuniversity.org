@@ -1,9 +1,13 @@
 ---
 slug: canterbury-astronomers-involved-in-nasa-dart-mission
-title: "Canterbury Astronomers Involved In NASA DART Mission"
-date: 2022-09-27
-source-url: https://www.scoop.co.nz/stories/SC2209/S00054/canterbury-astronomers-involved-in-nasa-dart-mission.htm
+title: Canterbury Astronomers Involved In NASA DART Mission
+date: 2022-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2209/S00054/canterbury-astronomers-involved-in-nasa-dart-mission.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/27/canterbury-astronomers-involved-in-nasa-dart-mission/index.html
+layout: layout.njk
 ---
 Canterbury Astronomers Involved In NASA DART Mission
 ====================================================

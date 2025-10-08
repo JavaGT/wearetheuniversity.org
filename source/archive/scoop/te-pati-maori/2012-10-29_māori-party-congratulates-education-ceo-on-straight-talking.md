@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-education-ceo-on-straight-talking
-title: "Māori Party Congratulates Education CEO on Straight Talking"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/PA1210/S00497/maori-party-congratulates-education-ceo-on-straight-talking.htm
+title: Māori Party Congratulates Education CEO on Straight Talking
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00497/maori-party-congratulates-education-ceo-on-straight-talking.htm
 author: te-pati-maori
+permalink: /archive/2012/10/29/m/index.html
+layout: layout.njk
 ---
 Māori Party Congratulates Education CEO on Straight Talking
 ===========================================================

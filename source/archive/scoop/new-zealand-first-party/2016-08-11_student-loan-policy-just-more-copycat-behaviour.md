@@ -1,9 +1,12 @@
 ---
 slug: student-loan-policy-just-more-copycat-behaviour
-title: "Student Loan Policy Just More Copycat Behaviour"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00169/student-loan-policy-just-more-copycat-behaviour.htm
+title: Student Loan Policy Just More Copycat Behaviour
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00169/student-loan-policy-just-more-copycat-behaviour.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/11/student-loan-policy-just-more-copycat-behaviour/index.html
+layout: layout.njk
 ---
 Student Loan Policy Just More Copycat Behaviour
 ===============================================

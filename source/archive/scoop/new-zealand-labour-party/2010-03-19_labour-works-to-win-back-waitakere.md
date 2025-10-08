@@ -1,9 +1,12 @@
 ---
 slug: labour-works-to-win-back-waitakere
-title: "Labour works to win back Waitakere"
-date: 2010-03-19
-source-url: https://www.scoop.co.nz/stories/PA1003/S00287/labour-works-to-win-back-waitakere.htm
+title: Labour works to win back Waitakere
+date: 2010-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00287/labour-works-to-win-back-waitakere.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/19/labour-works-to-win-back-waitakere/index.html
+layout: layout.njk
 ---
 Labour works to win back Waitakere
 ==================================

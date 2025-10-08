@@ -1,9 +1,13 @@
 ---
 slug: victoria-signs-thailand-moa-for-educational-co-op
-title: "Victoria signs Thailand MOA for educational co-op"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/ED0507/S00020/victoria-signs-thailand-moa-for-educational-co-op.htm
+title: Victoria signs Thailand MOA for educational co-op
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00020/victoria-signs-thailand-moa-for-educational-co-op.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/07/06/victoria-signs-thailand-moa-for-educational-co-op/index.html
+layout: layout.njk
 ---
 Victoria signs Thailand MOA for educational co-op
 =================================================

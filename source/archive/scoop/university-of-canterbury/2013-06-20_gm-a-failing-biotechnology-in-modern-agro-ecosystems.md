@@ -1,9 +1,13 @@
 ---
 slug: gm-a-failing-biotechnology-in-modern-agro-ecosystems
-title: "GM a failing biotechnology in modern agro-ecosystems"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/SC1306/S00052/gm-a-failing-biotechnology-in-modern-agro-ecosystems.htm
+title: GM a failing biotechnology in modern agro-ecosystems
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00052/gm-a-failing-biotechnology-in-modern-agro-ecosystems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/20/gm-a-failing-biotechnology-in-modern-agro-ecosystems/index.html
+layout: layout.njk
 ---
 GM a failing biotechnology in modern agro-ecosystems
 ====================================================

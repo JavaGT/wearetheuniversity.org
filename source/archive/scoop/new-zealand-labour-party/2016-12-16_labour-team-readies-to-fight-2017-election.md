@@ -1,9 +1,12 @@
 ---
 slug: labour-team-readies-to-fight-2017-election
-title: "Labour team readies to fight 2017 election"
-date: 2016-12-16
-source-url: https://www.scoop.co.nz/stories/PA1612/S00283/labour-team-readies-to-fight-2017-election.htm
+title: Labour team readies to fight 2017 election
+date: 2016-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00283/labour-team-readies-to-fight-2017-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/12/16/labour-team-readies-to-fight-2017-election/index.html
+layout: layout.njk
 ---
 Labour team readies to fight 2017 election
 ==========================================

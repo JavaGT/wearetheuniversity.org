@@ -1,9 +1,12 @@
 ---
 slug: explanation-sought-on-police-probe
-title: "Explanation sought on police probe"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PA0709/S00124/explanation-sought-on-police-probe.htm
+title: Explanation sought on police probe
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00124/explanation-sought-on-police-probe.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/07/explanation-sought-on-police-probe/index.html
+layout: layout.njk
 ---
 Explanation sought on police probe
 ==================================

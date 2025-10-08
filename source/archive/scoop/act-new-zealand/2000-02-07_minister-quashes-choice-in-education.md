@@ -1,9 +1,12 @@
 ---
 slug: minister-quashes-choice-in-education
-title: "Minister Quashes Choice In Education"
-date: 2000-02-07
-source-url: https://www.scoop.co.nz/stories/PA0002/S00061/minister-quashes-choice-in-education.htm
+title: Minister Quashes Choice In Education
+date: 2000-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00061/minister-quashes-choice-in-education.htm
 author: act-new-zealand
+permalink: /archive/2000/02/07/minister-quashes-choice-in-education/index.html
+layout: layout.njk
 ---
 Minister Quashes Choice In Education
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: national-warns-of-nationwide-drug-shortage
-title: "National warns of nationwide drug shortage"
-date: 2004-10-28
-source-url: https://www.scoop.co.nz/stories/PA0410/S00473/national-warns-of-nationwide-drug-shortage.htm
+title: National warns of nationwide drug shortage
+date: 2004-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00473/national-warns-of-nationwide-drug-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/28/national-warns-of-nationwide-drug-shortage/index.html
+layout: layout.njk
 ---
 National warns of nationwide drug shortage
 ==========================================

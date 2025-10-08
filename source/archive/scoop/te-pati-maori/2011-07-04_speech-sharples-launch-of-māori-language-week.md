@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-launch-of-māori-language-week
-title: "Speech: Sharples - Launch of Māori Language Week"
-date: 2011-07-04
-source-url: https://www.scoop.co.nz/stories/PA1107/S00033/speech-sharples-launch-of-maori-language-week.htm
+title: 'Speech: Sharples - Launch of Māori Language Week'
+date: 2011-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00033/speech-sharples-launch-of-maori-language-week.htm
 author: te-pati-maori
+permalink: /archive/2011/07/04/speech-sharples-launch-of-m/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Launch of Māori Language Week
 ================================================

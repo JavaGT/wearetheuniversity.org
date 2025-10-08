@@ -1,9 +1,12 @@
 ---
 slug: english-address-to-national-party-conference
-title: "English Address to National Party Conference"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00210/english-address-to-national-party-conference.htm
+title: English Address to National Party Conference
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00210/english-address-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/english-address-to-national-party-conference/index.html
+layout: layout.njk
 ---
 English Address to National Party Conference
 ============================================

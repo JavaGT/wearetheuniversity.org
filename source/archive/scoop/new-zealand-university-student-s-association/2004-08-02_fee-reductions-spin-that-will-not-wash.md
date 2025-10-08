@@ -1,9 +1,12 @@
 ---
 slug: fee-reductions-spin-that-will-not-wash
-title: "Fee Reductions Spin That Will Not Wash"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/ED0408/S00002/fee-reductions-spin-that-will-not-wash.htm
+title: Fee Reductions Spin That Will Not Wash
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00002/fee-reductions-spin-that-will-not-wash.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/08/02/fee-reductions-spin-that-will-not-wash/index.html
+layout: layout.njk
 ---
 Fee Reductions Spin That Will Not Wash
 ======================================

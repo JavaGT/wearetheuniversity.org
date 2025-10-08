@@ -1,9 +1,13 @@
 ---
 slug: brain-cell-communication-could-see-new-therapies
-title: "Brain cell communication could see new therapies"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/GE1007/S00052/brain-cell-communication-could-see-new-therapies.htm
+title: Brain cell communication could see new therapies
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1007/S00052/brain-cell-communication-could-see-new-therapies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/07/13/brain-cell-communication-could-see-new-therapies/index.html
+layout: layout.njk
 ---
 Brain cell communication could see new therapies
 ================================================

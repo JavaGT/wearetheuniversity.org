@@ -1,9 +1,12 @@
 ---
 slug: maori-students-doing-the-business
-title: "Maori students doing the business"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/ED0708/S00008/maori-students-doing-the-business.htm
+title: Maori students doing the business
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00008/maori-students-doing-the-business.htm
 author: waikato-university
+permalink: /archive/2007/08/03/maori-students-doing-the-business/index.html
+layout: layout.njk
 ---
 Maori students doing the business
 =================================

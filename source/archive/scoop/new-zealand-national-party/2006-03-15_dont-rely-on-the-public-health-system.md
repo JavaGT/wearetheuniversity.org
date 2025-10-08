@@ -1,9 +1,12 @@
 ---
 slug: dont-rely-on-the-public-health-system
-title: "Don't rely on the public health system"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/PA0603/S00244/dont-rely-on-the-public-health-system.htm
+title: Don't rely on the public health system
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00244/dont-rely-on-the-public-health-system.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/15/dont-rely-on-the-public-health-system/index.html
+layout: layout.njk
 ---
 Don't rely on the public health system
 ======================================

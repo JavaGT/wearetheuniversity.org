@@ -1,9 +1,12 @@
 ---
 slug: graduate-nurses-put-pressure-on-ryall
-title: "Graduate nurses put pressure on Ryall"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PA1407/S00611/graduate-nurses-put-pressure-on-ryall.htm
+title: Graduate nurses put pressure on Ryall
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00611/graduate-nurses-put-pressure-on-ryall.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/30/graduate-nurses-put-pressure-on-ryall/index.html
+layout: layout.njk
 ---
 Graduate nurses put pressure on Ryall
 =====================================

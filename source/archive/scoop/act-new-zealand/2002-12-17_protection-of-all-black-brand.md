@@ -1,9 +1,12 @@
 ---
 slug: protection-of-all-black-brand
-title: "Protection of All Black Brand"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00421/protection-of-all-black-brand.htm
+title: Protection of All Black Brand
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00421/protection-of-all-black-brand.htm
 author: act-new-zealand
+permalink: /archive/2002/12/17/protection-of-all-black-brand/index.html
+layout: layout.njk
 ---
 Protection of All Black Brand
 =============================

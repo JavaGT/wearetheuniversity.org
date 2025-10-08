@@ -1,9 +1,12 @@
 ---
 slug: sociologist-asks-who-ate-my-job
-title: "Sociologist asks: \"Who ate my job?\""
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/ED1208/S00074/sociologist-asks-who-ate-my-job.htm
+title: 'Sociologist asks: "Who ate my job?"'
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00074/sociologist-asks-who-ate-my-job.htm
 author: massey-university
+permalink: /archive/2012/08/13/sociologist-asks-who-ate-my-job/index.html
+layout: layout.njk
 ---
 Sociologist asks: “Who ate my job?”
 ===================================

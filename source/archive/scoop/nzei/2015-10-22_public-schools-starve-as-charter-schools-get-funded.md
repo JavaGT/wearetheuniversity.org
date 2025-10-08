@@ -1,9 +1,13 @@
 ---
 slug: public-schools-starve-as-charter-schools-get-funded
-title: "Public schools starve as charter schools get funded"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PO1510/S00382/public-schools-starve-as-charter-schools-get-funded.htm
+title: Public schools starve as charter schools get funded
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00382/public-schools-starve-as-charter-schools-get-funded.htm
 author: nzei
+permalink: >-
+  /archive/2015/10/22/public-schools-starve-as-charter-schools-get-funded/index.html
+layout: layout.njk
 ---
 Public schools starve as charter schools get funded
 ===================================================

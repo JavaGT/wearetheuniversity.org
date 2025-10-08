@@ -1,9 +1,13 @@
 ---
 slug: unz-welcomes-announcement-on-international-students
-title: "UNZ Welcomes Announcement On International Students"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/ED2010/S00021/unz-welcomes-announcement-on-international-students.htm
+title: UNZ Welcomes Announcement On International Students
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00021/unz-welcomes-announcement-on-international-students.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/10/12/unz-welcomes-announcement-on-international-students/index.html
+layout: layout.njk
 ---
 UNZ Welcomes Announcement On International Students
 ===================================================

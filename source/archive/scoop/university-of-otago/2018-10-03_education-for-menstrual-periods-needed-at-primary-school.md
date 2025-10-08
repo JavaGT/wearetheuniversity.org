@@ -1,9 +1,13 @@
 ---
 slug: education-for-menstrual-periods-needed-at-primary-school
-title: "Education for menstrual periods needed at primary school"
-date: 2018-10-03
-source-url: https://www.scoop.co.nz/stories/GE1810/S00009/education-for-menstrual-periods-needed-at-primary-school.htm
+title: Education for menstrual periods needed at primary school
+date: 2018-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00009/education-for-menstrual-periods-needed-at-primary-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/03/education-for-menstrual-periods-needed-at-primary-school/index.html
+layout: layout.njk
 ---
 Education for menstrual periods needed at primary school
 ========================================================

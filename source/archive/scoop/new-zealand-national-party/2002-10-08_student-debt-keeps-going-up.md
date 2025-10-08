@@ -1,9 +1,11 @@
 ---
 slug: student-debt-keeps-going-up
-title: "Student debt keeps going up"
-date: 2002-10-08
+title: Student debt keeps going up
+date: 2002-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0210/S00154/student-debt-keeps-going-up.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/08/student-debt-keeps-going-up/index.html
+layout: layout.njk
 ---
 Student debt keeps going up
 ===========================

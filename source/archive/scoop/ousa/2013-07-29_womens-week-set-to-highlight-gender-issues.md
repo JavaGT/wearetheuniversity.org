@@ -1,9 +1,12 @@
 ---
 slug: womens-week-set-to-highlight-gender-issues
-title: "Women’s Week Set to Highlight Gender Issues"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/PO1307/S00353/womens-week-set-to-highlight-gender-issues.htm
+title: Women’s Week Set to Highlight Gender Issues
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00353/womens-week-set-to-highlight-gender-issues.htm
 author: ousa
+permalink: /archive/2013/07/29/womens-week-set-to-highlight-gender-issues/index.html
+layout: layout.njk
 ---
 Women’s Week Set to Highlight Gender Issues
 ===========================================

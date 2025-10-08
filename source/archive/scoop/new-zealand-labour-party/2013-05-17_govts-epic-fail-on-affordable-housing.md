@@ -1,9 +1,12 @@
 ---
 slug: govts-epic-fail-on-affordable-housing
-title: "Govt’s epic fail on affordable housing"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00355/govts-epic-fail-on-affordable-housing.htm
+title: Govt’s epic fail on affordable housing
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00355/govts-epic-fail-on-affordable-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/17/govts-epic-fail-on-affordable-housing/index.html
+layout: layout.njk
 ---
 Govt’s epic fail on affordable housing
 ======================================

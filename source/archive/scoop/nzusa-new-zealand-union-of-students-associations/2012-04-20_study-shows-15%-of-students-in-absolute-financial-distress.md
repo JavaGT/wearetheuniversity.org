@@ -1,9 +1,12 @@
 ---
 slug: study-shows-15%-of-students-in-absolute-financial-distress
-title: "Study Shows 15% of Students in \"Absolute Financial Distress\""
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/ED1204/S00076/study-shows-15-of-students-in-absolute-financial-distress.htm
+title: Study Shows 15% of Students in "Absolute Financial Distress"
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00076/study-shows-15-of-students-in-absolute-financial-distress.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/04/20/study-shows-15/index.html
+layout: layout.njk
 ---
 Study Shows 15% of Students in “Absolute Financial Distress”
 ============================================================

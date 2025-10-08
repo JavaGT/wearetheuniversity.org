@@ -1,9 +1,11 @@
 ---
 slug: key-notes-tough-on-crime
-title: "Key Notes - Tough On Crime"
-date: 2007-06-02
+title: Key Notes - Tough On Crime
+date: 2007-06-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0706/S00032/key-notes-tough-on-crime.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/02/key-notes-tough-on-crime/index.html
+layout: layout.njk
 ---
 Key Notes - Tough On Crime
 ==========================

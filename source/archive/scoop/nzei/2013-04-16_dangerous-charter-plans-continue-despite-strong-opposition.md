@@ -1,9 +1,13 @@
 ---
 slug: dangerous-charter-plans-continue-despite-strong-opposition
-title: "Dangerous charter plans continue despite strong opposition"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/ED1304/S00101/dangerous-charter-plans-continue-despite-strong-opposition.htm
+title: Dangerous charter plans continue despite strong opposition
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00101/dangerous-charter-plans-continue-despite-strong-opposition.htm
 author: nzei
+permalink: >-
+  /archive/2013/04/16/dangerous-charter-plans-continue-despite-strong-opposition/index.html
+layout: layout.njk
 ---
 Dangerous charter plans continue despite strong opposition
 ==========================================================

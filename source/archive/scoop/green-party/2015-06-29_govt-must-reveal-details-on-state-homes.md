@@ -1,9 +1,12 @@
 ---
 slug: govt-must-reveal-details-on-state-homes
-title: "Govt must reveal details on state homes"
-date: 2015-06-29
-source-url: https://www.scoop.co.nz/stories/PA1506/S00509/govt-must-reveal-details-on-state-homes.htm
+title: Govt must reveal details on state homes
+date: 2015-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00509/govt-must-reveal-details-on-state-homes.htm
 author: green-party
+permalink: /archive/2015/06/29/govt-must-reveal-details-on-state-homes/index.html
+layout: layout.njk
 ---
 Govt must reveal details on state homes
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: hundreds-gather-in-wellington-for-asia-pacific-model-un
-title: "Hundreds gather in Wellington for Asia-Pacific Model UN"
-date: 2013-07-05
-source-url: https://www.scoop.co.nz/stories/ED1307/S00029/hundreds-gather-in-wellington-for-asia-pacific-model-un.htm
+title: Hundreds gather in Wellington for Asia-Pacific Model UN
+date: 2013-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00029/hundreds-gather-in-wellington-for-asia-pacific-model-un.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/05/hundreds-gather-in-wellington-for-asia-pacific-model-un/index.html
+layout: layout.njk
 ---
 Hundreds gather in Wellington for Asia-Pacific Model UN
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellors-statements-misleading-students
-title: "Vice Chancellor’s statements misleading – students"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/PO0807/S00274/vice-chancellors-statements-misleading-students.htm
+title: Vice Chancellor’s statements misleading – students
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00274/vice-chancellors-statements-misleading-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/23/vice-chancellors-statements-misleading-students/index.html
+layout: layout.njk
 ---
 Vice Chancellor’s statements misleading – students
 ==================================================

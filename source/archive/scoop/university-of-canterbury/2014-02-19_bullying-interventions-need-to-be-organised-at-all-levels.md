@@ -1,9 +1,13 @@
 ---
 slug: bullying-interventions-need-to-be-organised-at-all-levels
-title: "Bullying Interventions  Need To Be Organised At All Levels"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/CU1402/S00357/bullying-interventions-need-to-be-organised-at-all-levels.htm
+title: Bullying Interventions  Need To Be Organised At All Levels
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00357/bullying-interventions-need-to-be-organised-at-all-levels.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/19/bullying-interventions-need-to-be-organised-at-all-levels/index.html
+layout: layout.njk
 ---
 Bullying Interventions Need To Be Organised At All Levels
 =========================================================

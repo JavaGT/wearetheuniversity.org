@@ -1,9 +1,11 @@
 ---
 slug: background-dr-brent-layton
-title: "Background: Dr Brent Layton"
-date: 2003-08-07
+title: 'Background: Dr Brent Layton'
+date: 2003-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0308/S00023/background-dr-brent-layton.htm
 author: new-zealand-institute-of-economic-research
+permalink: /archive/2003/08/07/background-dr-brent-layton/index.html
+layout: layout.njk
 ---
 Background: Dr Brent Layton
 ===========================

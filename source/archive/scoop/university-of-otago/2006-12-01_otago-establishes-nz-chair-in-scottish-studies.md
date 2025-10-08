@@ -1,9 +1,12 @@
 ---
 slug: otago-establishes-nz-chair-in-scottish-studies
-title: "Otago Establishes NZ Chair in Scottish Studies"
-date: 2006-12-01
-source-url: https://www.scoop.co.nz/stories/ED0612/S00002/otago-establishes-nz-chair-in-scottish-studies.htm
+title: Otago Establishes NZ Chair in Scottish Studies
+date: 2006-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00002/otago-establishes-nz-chair-in-scottish-studies.htm
 author: university-of-otago
+permalink: /archive/2006/12/01/otago-establishes-nz-chair-in-scottish-studies/index.html
+layout: layout.njk
 ---
 Otago Establishes NZ Chair in Scottish Studies
 ==============================================

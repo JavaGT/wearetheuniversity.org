@@ -1,9 +1,13 @@
 ---
 slug: national-halts-labours-local-government-power-grab
-title: "National Halts Labour’s Local Government Power Grab"
-date: 2021-10-28
-source-url: https://www.scoop.co.nz/stories/PA2110/S00284/national-halts-labours-local-government-power-grab.htm
+title: National Halts Labour’s Local Government Power Grab
+date: 2021-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00284/national-halts-labours-local-government-power-grab.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/28/national-halts-labours-local-government-power-grab/index.html
+layout: layout.njk
 ---
 National Halts Labour’s Local Government Power Grab
 ===================================================

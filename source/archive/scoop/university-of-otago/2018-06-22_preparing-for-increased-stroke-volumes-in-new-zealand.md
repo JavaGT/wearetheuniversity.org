@@ -1,9 +1,13 @@
 ---
 slug: preparing-for-increased-stroke-volumes-in-new-zealand
-title: "Preparing for increased stroke volumes in New Zealand"
-date: 2018-06-22
-source-url: https://www.scoop.co.nz/stories/GE1806/S00085/preparing-for-increased-stroke-volumes-in-new-zealand.htm
+title: Preparing for increased stroke volumes in New Zealand
+date: 2018-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00085/preparing-for-increased-stroke-volumes-in-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/22/preparing-for-increased-stroke-volumes-in-new-zealand/index.html
+layout: layout.njk
 ---
 Preparing for increased stroke volumes in New Zealand
 =====================================================

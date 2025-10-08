@@ -1,9 +1,13 @@
 ---
 slug: four-canterbury-athletes-off-to-the-gallipoli-games
-title: "Four Canterbury athletes off to the Gallipoli Games"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/CU1504/S00009/four-canterbury-athletes-off-to-the-gallipoli-games.htm
+title: Four Canterbury athletes off to the Gallipoli Games
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00009/four-canterbury-athletes-off-to-the-gallipoli-games.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/01/four-canterbury-athletes-off-to-the-gallipoli-games/index.html
+layout: layout.njk
 ---
 Four Canterbury athletes off to the Gallipoli Games
 ===================================================

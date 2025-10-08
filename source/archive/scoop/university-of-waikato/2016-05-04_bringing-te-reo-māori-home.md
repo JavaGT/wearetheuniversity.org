@@ -1,9 +1,11 @@
 ---
 slug: bringing-te-reo-māori-home
-title: "Bringing te reo Māori home"
-date: 2016-05-04
+title: Bringing te reo Māori home
+date: 2016-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1605/S00103/bringing-te-reo-maori-home.htm
 author: university-of-waikato
+permalink: /archive/2016/05/04/bringing-te-reo-m/index.html
+layout: layout.njk
 ---
 Bringing te reo Māori home
 ==========================

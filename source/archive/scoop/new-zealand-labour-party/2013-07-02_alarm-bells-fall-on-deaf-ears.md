@@ -1,9 +1,12 @@
 ---
 slug: alarm-bells-fall-on-deaf-ears
-title: "Alarm bells fall on deaf ears"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/PA1307/S00037/alarm-bells-fall-on-deaf-ears.htm
+title: Alarm bells fall on deaf ears
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00037/alarm-bells-fall-on-deaf-ears.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/02/alarm-bells-fall-on-deaf-ears/index.html
+layout: layout.njk
 ---
 Alarm bells fall on deaf ears
 =============================

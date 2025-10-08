@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-ministerial-inquiry
-title: "Labour supports Ministerial Inquiry"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/PA1202/S00320/labour-supports-ministerial-inquiry.htm
+title: Labour supports Ministerial Inquiry
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00320/labour-supports-ministerial-inquiry.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/28/labour-supports-ministerial-inquiry/index.html
+layout: layout.njk
 ---
 Labour supports Ministerial Inquiry
 ===================================

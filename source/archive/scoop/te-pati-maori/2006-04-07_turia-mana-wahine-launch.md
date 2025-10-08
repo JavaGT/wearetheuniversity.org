@@ -1,9 +1,11 @@
 ---
 slug: turia-mana-wahine-launch
-title: "Turia: Mana Wahine Launch"
-date: 2006-04-07
+title: 'Turia: Mana Wahine Launch'
+date: 2006-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00143/turia-mana-wahine-launch.htm
 author: te-pati-maori
+permalink: /archive/2006/04/07/turia-mana-wahine-launch/index.html
+layout: layout.njk
 ---
 Turia: Mana Wahine Launch
 =========================

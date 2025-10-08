@@ -1,9 +1,12 @@
 ---
 slug: an-open-letter-to-all-students-students-matter
-title: "An open letter to all students: Students Matter"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/ED1409/S00121/an-open-letter-to-all-students-students-matter.htm
+title: 'An open letter to all students: Students Matter'
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00121/an-open-letter-to-all-students-students-matter.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/09/19/an-open-letter-to-all-students-students-matter/index.html
+layout: layout.njk
 ---
 An open letter to all students: Students Matter
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: dyson-defenders-have-questions-to-answer
-title: "Dyson Defenders Have Questions To Answer"
-date: 2000-11-01
-source-url: https://www.scoop.co.nz/stories/PA0011/S00011/dyson-defenders-have-questions-to-answer.htm
+title: Dyson Defenders Have Questions To Answer
+date: 2000-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00011/dyson-defenders-have-questions-to-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/01/dyson-defenders-have-questions-to-answer/index.html
+layout: layout.njk
 ---
 Dyson Defenders Have Questions To Answer
 ========================================

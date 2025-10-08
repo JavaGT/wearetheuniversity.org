@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-14-july-2006
-title: "The Mapp Report - 14 July 2006"
-date: 2006-07-14
+title: The Mapp Report - 14 July 2006
+date: 2006-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00202/the-mapp-report-14-july-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/14/the-mapp-report-14-july-2006/index.html
+layout: layout.njk
 ---
 The Mapp Report - 14 July 2006
 ==============================

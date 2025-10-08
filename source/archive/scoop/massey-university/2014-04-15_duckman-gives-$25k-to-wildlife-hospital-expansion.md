@@ -1,9 +1,12 @@
 ---
 slug: duckman-gives-$25k-to-wildlife-hospital-expansion
-title: "'Duckman' gives $25k to wildlife hospital expansion"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/SC1404/S00060/duckman-gives-25k-to-wildlife-hospital-expansion.htm
+title: '''Duckman'' gives $25k to wildlife hospital expansion'
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00060/duckman-gives-25k-to-wildlife-hospital-expansion.htm
 author: massey-university
+permalink: /archive/2014/04/15/duckman-gives-/index.html
+layout: layout.njk
 ---
 'Duckman' gives $25k to wildlife hospital expansion
 ===================================================

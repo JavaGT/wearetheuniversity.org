@@ -1,9 +1,12 @@
 ---
 slug: sva-mobilises-to-support-the-people-of-nelson
-title: "SVA Mobilises To Support The People Of Nelson"
-date: 2022-08-25
-source-url: https://www.scoop.co.nz/stories/AK2208/S00487/sva-mobilises-to-support-the-people-of-nelson.htm
+title: SVA Mobilises To Support The People Of Nelson
+date: 2022-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2208/S00487/sva-mobilises-to-support-the-people-of-nelson.htm
 author: student-volunteer-army
+permalink: /archive/2022/08/25/sva-mobilises-to-support-the-people-of-nelson/index.html
+layout: layout.njk
 ---
 SVA Mobilises To Support The People Of Nelson
 =============================================

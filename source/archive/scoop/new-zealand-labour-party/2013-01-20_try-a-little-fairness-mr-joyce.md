@@ -1,9 +1,12 @@
 ---
 slug: try-a-little-fairness-mr-joyce
-title: "Try a little fairness Mr Joyce"
-date: 2013-01-20
-source-url: https://www.scoop.co.nz/stories/PA1301/S00064/try-a-little-fairness-mr-joyce.htm
+title: Try a little fairness Mr Joyce
+date: 2013-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00064/try-a-little-fairness-mr-joyce.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/20/try-a-little-fairness-mr-joyce/index.html
+layout: layout.njk
 ---
 Try a little fairness Mr Joyce
 ==============================

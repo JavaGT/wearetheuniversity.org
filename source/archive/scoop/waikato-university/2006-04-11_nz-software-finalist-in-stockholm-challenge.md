@@ -1,9 +1,12 @@
 ---
 slug: nz-software-finalist-in-stockholm-challenge
-title: "NZ software finalist in Stockholm Challenge"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/SC0604/S00025/nz-software-finalist-in-stockholm-challenge.htm
+title: NZ software finalist in Stockholm Challenge
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0604/S00025/nz-software-finalist-in-stockholm-challenge.htm
 author: waikato-university
+permalink: /archive/2006/04/11/nz-software-finalist-in-stockholm-challenge/index.html
+layout: layout.njk
 ---
 NZ software finalist in Stockholm Challenge
 ===========================================

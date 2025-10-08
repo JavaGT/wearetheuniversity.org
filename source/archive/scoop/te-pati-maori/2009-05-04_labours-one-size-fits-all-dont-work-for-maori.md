@@ -1,9 +1,12 @@
 ---
 slug: labours-one-size-fits-all-dont-work-for-maori
-title: "Labour's 'one size fits all' don't work for Maori"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/PA0905/S00042/labours-one-size-fits-all-dont-work-for-maori.htm
+title: Labour's 'one size fits all' don't work for Maori
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00042/labours-one-size-fits-all-dont-work-for-maori.htm
 author: te-pati-maori
+permalink: /archive/2009/05/04/labours-one-size-fits-all-dont-work-for-maori/index.html
+layout: layout.njk
 ---
 Labour's 'one size fits all' don't work for Maori
 =================================================

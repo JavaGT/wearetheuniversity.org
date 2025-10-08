@@ -1,9 +1,12 @@
 ---
 slug: anderton-hypocritical-over-student-assistance
-title: "Anderton Hypocritical Over Student Assistance"
-date: 2001-02-07
-source-url: https://www.scoop.co.nz/stories/PA0102/S00076/anderton-hypocritical-over-student-assistance.htm
+title: Anderton Hypocritical Over Student Assistance
+date: 2001-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00076/anderton-hypocritical-over-student-assistance.htm
 author: new-zealand-first-party
+permalink: /archive/2001/02/07/anderton-hypocritical-over-student-assistance/index.html
+layout: layout.njk
 ---
 Anderton Hypocritical Over Student Assistance
 =============================================

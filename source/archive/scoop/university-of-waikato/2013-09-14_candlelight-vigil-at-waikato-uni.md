@@ -1,9 +1,12 @@
 ---
 slug: candlelight-vigil-at-waikato-uni
-title: "Candlelight vigil at Waikato Uni"
-date: 2013-09-14
-source-url: https://www.scoop.co.nz/stories/PO1309/S00149/candlelight-vigil-at-waikato-uni.htm
+title: Candlelight vigil at Waikato Uni
+date: 2013-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00149/candlelight-vigil-at-waikato-uni.htm
 author: university-of-waikato
+permalink: /archive/2013/09/14/candlelight-vigil-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Candlelight vigil at Waikato Uni
 ================================

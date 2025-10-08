@@ -1,9 +1,12 @@
 ---
 slug: new-its-director-for-university-of-waikato
-title: "New ITS director for University of Waikato"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/ED0702/S00025/new-its-director-for-university-of-waikato.htm
+title: New ITS director for University of Waikato
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00025/new-its-director-for-university-of-waikato.htm
 author: waikato-university
+permalink: /archive/2007/02/09/new-its-director-for-university-of-waikato/index.html
+layout: layout.njk
 ---
 New ITS director for University of Waikato
 ==========================================

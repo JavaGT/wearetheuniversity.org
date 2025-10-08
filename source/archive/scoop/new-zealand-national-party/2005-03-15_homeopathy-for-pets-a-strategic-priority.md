@@ -1,9 +1,12 @@
 ---
 slug: homeopathy-for-pets-a-strategic-priority
-title: "Homeopathy for pets – a strategic priority?"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00316/homeopathy-for-pets-a-strategic-priority.htm
+title: Homeopathy for pets – a strategic priority?
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00316/homeopathy-for-pets-a-strategic-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/15/homeopathy-for-pets-a-strategic-priority/index.html
+layout: layout.njk
 ---
 Homeopathy for pets – a strategic priority?
 ===========================================

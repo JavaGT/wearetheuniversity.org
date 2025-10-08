@@ -1,9 +1,12 @@
 ---
 slug: act-will-hold-nats-to-no-new-taxes
-title: "ACT will hold Nats to ‘no new taxes’"
-date: 2018-11-26
-source-url: https://www.scoop.co.nz/stories/PA1811/S00258/act-will-hold-nats-to-no-new-taxes.htm
+title: ACT will hold Nats to ‘no new taxes’
+date: 2018-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00258/act-will-hold-nats-to-no-new-taxes.htm
 author: act-new-zealand
+permalink: /archive/2018/11/26/act-will-hold-nats-to-no-new-taxes/index.html
+layout: layout.njk
 ---
 ACT will hold Nats to ‘no new taxes’
 ====================================

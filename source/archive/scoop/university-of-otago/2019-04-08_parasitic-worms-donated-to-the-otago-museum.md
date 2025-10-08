@@ -1,9 +1,12 @@
 ---
 slug: parasitic-worms-donated-to-the-otago-museum
-title: "Parasitic worms donated to the Otago Museum"
-date: 2019-04-08
-source-url: https://www.scoop.co.nz/stories/SC1904/S00016/parasitic-worms-donated-to-the-otago-museum.htm
+title: Parasitic worms donated to the Otago Museum
+date: 2019-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1904/S00016/parasitic-worms-donated-to-the-otago-museum.htm
 author: university-of-otago
+permalink: /archive/2019/04/08/parasitic-worms-donated-to-the-otago-museum/index.html
+layout: layout.njk
 ---
 Parasitic worms donated to the Otago Museum
 ===========================================

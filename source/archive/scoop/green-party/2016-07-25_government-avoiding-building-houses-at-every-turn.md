@@ -1,9 +1,13 @@
 ---
 slug: government-avoiding-building-houses-at-every-turn
-title: "Government avoiding building houses at every turn"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00333/government-avoiding-building-houses-at-every-turn.htm
+title: Government avoiding building houses at every turn
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00333/government-avoiding-building-houses-at-every-turn.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/25/government-avoiding-building-houses-at-every-turn/index.html
+layout: layout.njk
 ---
 Government avoiding building houses at every turn
 =================================================

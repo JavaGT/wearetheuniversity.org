@@ -1,9 +1,12 @@
 ---
 slug: pixar-co-founder-to-launch-project-connect
-title: "Pixar co-founder to launch Project Connect"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/BU1410/S00839/pixar-co-founder-to-launch-project-connect.htm
+title: Pixar co-founder to launch Project Connect
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00839/pixar-co-founder-to-launch-project-connect.htm
 author: aut-university
+permalink: /archive/2014/10/23/pixar-co-founder-to-launch-project-connect/index.html
+layout: layout.njk
 ---
 Pixar co-founder to launch Project Connect
 ==========================================

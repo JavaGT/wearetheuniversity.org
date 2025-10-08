@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-predicting-150000-job-losses
-title: "Reserve Bank Predicting 150,000 Job Losses"
-date: 2020-05-13
-source-url: https://www.scoop.co.nz/stories/PA2005/S00104/reserve-bank-predicting-150000-job-losses.htm
+title: Reserve Bank Predicting 150,000 Job Losses
+date: 2020-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00104/reserve-bank-predicting-150000-job-losses.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/13/reserve-bank-predicting-150000-job-losses/index.html
+layout: layout.njk
 ---
 Reserve Bank Predicting 150,000 Job Losses
 ==========================================

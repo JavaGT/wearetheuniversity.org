@@ -1,9 +1,12 @@
 ---
 slug: more-trotters-in-the-crowded-trough
-title: "More Trotters In The Crowded Trough"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00476/more-trotters-in-the-crowded-trough.htm
+title: More Trotters In The Crowded Trough
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00476/more-trotters-in-the-crowded-trough.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/16/more-trotters-in-the-crowded-trough/index.html
+layout: layout.njk
 ---
 More Trotters In The Crowded Trough
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-university-fee-freezes-for-2003
-title: "Students Welcome University  Fee Freezes For 2003"
-date: 2002-10-04
-source-url: https://www.scoop.co.nz/stories/ED0210/S00012/students-welcome-university-fee-freezes-for-2003.htm
+title: Students Welcome University  Fee Freezes For 2003
+date: 2002-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00012/students-welcome-university-fee-freezes-for-2003.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/10/04/students-welcome-university-fee-freezes-for-2003/index.html
+layout: layout.njk
 ---
 Students Welcome University Fee Freezes For 2003
 ================================================

@@ -1,9 +1,15 @@
 ---
-slug: new-study-into-mānuka-leaf-surface-could-help-maximise-high-grade-honey-production
-title: "New Study Into Mānuka Leaf Surface Could Help Maximise High-grade Honey Production"
-date: 2020-09-22
-source-url: https://www.scoop.co.nz/stories/ED2009/S00049/new-study-into-manuka-leaf-surface-could-help-maximise-high-grade-honey-production.htm
+slug: >-
+  new-study-into-mānuka-leaf-surface-could-help-maximise-high-grade-honey-production
+title: >-
+  New Study Into Mānuka Leaf Surface Could Help Maximise High-grade Honey
+  Production
+date: 2020-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00049/new-study-into-manuka-leaf-surface-could-help-maximise-high-grade-honey-production.htm
 author: university-of-waikato
+permalink: /archive/2020/09/22/new-study-into-m/index.html
+layout: layout.njk
 ---
 New Study Into Mānuka Leaf Surface Could Help Maximise High-grade Honey Production
 ==================================================================================

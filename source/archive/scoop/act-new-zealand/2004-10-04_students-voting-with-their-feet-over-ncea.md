@@ -1,9 +1,12 @@
 ---
 slug: students-voting-with-their-feet-over-ncea
-title: "Students Voting With Their Feet Over NCEA"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/PA0410/S00046/students-voting-with-their-feet-over-ncea.htm
+title: Students Voting With Their Feet Over NCEA
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00046/students-voting-with-their-feet-over-ncea.htm
 author: act-new-zealand
+permalink: /archive/2004/10/04/students-voting-with-their-feet-over-ncea/index.html
+layout: layout.njk
 ---
 Students Voting With Their Feet Over NCEA
 =========================================

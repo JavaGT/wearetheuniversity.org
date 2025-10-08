@@ -1,9 +1,13 @@
 ---
 slug: scholarship-to-study-pacific-cultural-enterprise
-title: "Scholarship to study Pacific cultural enterprise"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/ED0708/S00070/scholarship-to-study-pacific-cultural-enterprise.htm
+title: Scholarship to study Pacific cultural enterprise
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00070/scholarship-to-study-pacific-cultural-enterprise.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/08/23/scholarship-to-study-pacific-cultural-enterprise/index.html
+layout: layout.njk
 ---
 Scholarship to study Pacific cultural enterprise
 ================================================

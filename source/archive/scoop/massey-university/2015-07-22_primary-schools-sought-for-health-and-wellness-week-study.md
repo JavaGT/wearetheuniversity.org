@@ -1,9 +1,13 @@
 ---
 slug: primary-schools-sought-for-health-and-wellness-week-study
-title: "Primary schools sought for health and wellness week study"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00102/primary-schools-sought-for-health-and-wellness-week-study.htm
+title: Primary schools sought for health and wellness week study
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00102/primary-schools-sought-for-health-and-wellness-week-study.htm
 author: massey-university
+permalink: >-
+  /archive/2015/07/22/primary-schools-sought-for-health-and-wellness-week-study/index.html
+layout: layout.njk
 ---
 Primary schools sought for health and wellness week study
 =========================================================

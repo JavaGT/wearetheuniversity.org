@@ -1,9 +1,13 @@
 ---
 slug: canterbury-phd-student-to-study-control-engineering
-title: "Canterbury PhD student to study control engineering"
-date: 2014-06-16
-source-url: https://www.scoop.co.nz/stories/ED1406/S00078/canterbury-phd-student-to-study-control-engineering.htm
+title: Canterbury PhD student to study control engineering
+date: 2014-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00078/canterbury-phd-student-to-study-control-engineering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/16/canterbury-phd-student-to-study-control-engineering/index.html
+layout: layout.njk
 ---
 Canterbury PhD student to study control engineering
 ===================================================

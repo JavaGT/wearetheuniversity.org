@@ -1,9 +1,11 @@
 ---
 slug: aut-celebrating-pride-parade
-title: "AUT celebrating Pride Parade"
-date: 2015-02-20
+title: AUT celebrating Pride Parade
+date: 2015-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1502/S00498/aut-celebrating-pride-parade.htm
 author: aut-university
+permalink: /archive/2015/02/20/aut-celebrating-pride-parade/index.html
+layout: layout.njk
 ---
 AUT celebrating Pride Parade
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: chemistry-student-wins-three-minute-thesis-event
-title: "Chemistry student wins three minute thesis event"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/ED1408/S00104/chemistry-student-wins-three-minute-thesis-event.htm
+title: Chemistry student wins three minute thesis event
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00104/chemistry-student-wins-three-minute-thesis-event.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/20/chemistry-student-wins-three-minute-thesis-event/index.html
+layout: layout.njk
 ---
 Chemistry student wins three minute thesis event
 ================================================

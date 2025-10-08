@@ -1,9 +1,13 @@
 ---
 slug: third-way-enables-constitutional-change-by-popular-demand
-title: "Third way’ enables constitutional change by popular demand"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PO1406/S00271/third-way-enables-constitutional-change-by-popular-demand.htm
+title: Third way’ enables constitutional change by popular demand
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00271/third-way-enables-constitutional-change-by-popular-demand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/06/18/third-way-enables-constitutional-change-by-popular-demand/index.html
+layout: layout.njk
 ---
 Third way’ enables constitutional change by popular demand
 ==========================================================

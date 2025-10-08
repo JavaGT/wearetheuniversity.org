@@ -1,9 +1,13 @@
 ---
 slug: beefing-up-cattle-disease-detection-takes-students-to-france
-title: "Beefing Up Cattle Disease Detection Takes Students To France"
-date: 2024-08-27
-source-url: https://www.scoop.co.nz/stories/SC2408/S00050/beefing-up-cattle-disease-detection-takes-students-to-france.htm
+title: Beefing Up Cattle Disease Detection Takes Students To France
+date: 2024-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2408/S00050/beefing-up-cattle-disease-detection-takes-students-to-france.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/27/beefing-up-cattle-disease-detection-takes-students-to-france/index.html
+layout: layout.njk
 ---
 Beefing Up Cattle Disease Detection Takes Students To France
 ============================================================

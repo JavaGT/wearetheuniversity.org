@@ -1,9 +1,12 @@
 ---
 slug: specialist-care-contracting-to-big-cities
-title: "Specialist care contracting to big cities"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/PA0807/S00195/specialist-care-contracting-to-big-cities.htm
+title: Specialist care contracting to big cities
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00195/specialist-care-contracting-to-big-cities.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/10/specialist-care-contracting-to-big-cities/index.html
+layout: layout.njk
 ---
 Specialist care contracting to big cities
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-chemical-oceanographer-receives-international-award
-title: "Otago chemical oceanographer receives international award"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/SC1405/S00061/otago-chemical-oceanographer-receives-international-award.htm
+title: Otago chemical oceanographer receives international award
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00061/otago-chemical-oceanographer-receives-international-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/23/otago-chemical-oceanographer-receives-international-award/index.html
+layout: layout.njk
 ---
 Otago chemical oceanographer receives international award
 =========================================================

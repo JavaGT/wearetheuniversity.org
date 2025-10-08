@@ -1,9 +1,12 @@
 ---
 slug: act-calls-on-peters-to-drop-legal-action
-title: "ACT calls on Peters to drop legal action"
-date: 2019-02-14
-source-url: https://www.scoop.co.nz/stories/PA1902/S00123/act-calls-on-peters-to-drop-legal-action.htm
+title: ACT calls on Peters to drop legal action
+date: 2019-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00123/act-calls-on-peters-to-drop-legal-action.htm
 author: act-new-zealand
+permalink: /archive/2019/02/14/act-calls-on-peters-to-drop-legal-action/index.html
+layout: layout.njk
 ---
 ACT calls on Peters to drop legal action
 ========================================

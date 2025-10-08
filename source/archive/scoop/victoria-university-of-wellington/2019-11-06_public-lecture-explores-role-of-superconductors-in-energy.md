@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-explores-role-of-superconductors-in-energy
-title: "Public lecture explores role of superconductors in energy"
-date: 2019-11-06
-source-url: https://www.scoop.co.nz/stories/ED1911/S00015/public-lecture-explores-role-of-superconductors-in-energy.htm
+title: Public lecture explores role of superconductors in energy
+date: 2019-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00015/public-lecture-explores-role-of-superconductors-in-energy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2019/11/06/public-lecture-explores-role-of-superconductors-in-energy/index.html
+layout: layout.njk
 ---
 Public lecture explores role of superconductors in energy
 =========================================================

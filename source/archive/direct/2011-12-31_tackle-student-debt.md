@@ -1,10 +1,13 @@
 ---
 title: Tackle Student Debt
 slug: tackle-student-debt
-date: 2011-12-31
-source: https://web.archive.org/web/20111231054300/http://www.demandabetterfuture.org.nz/index.php/tackle-student-debt
+date: 2011-12-31T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20111231054300/http://www.demandabetterfuture.org.nz/index.php/tackle-student-debt
 author: NZUSA
 author-slug: nzusa
+permalink: /archive/2011/12/31/tackle-student-debt/index.html
+layout: layout.njk
 ---
 Date refers to the date page was archived by the Wayback Machine.
 Wayback machine did not archive the separate pages, so only the first page is available.

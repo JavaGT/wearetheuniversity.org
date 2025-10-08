@@ -1,9 +1,12 @@
 ---
 slug: ministers-decision-making-on-trial-once-again
-title: "Minister’s decision-making on trial once again"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/PA1309/S00524/ministers-decision-making-on-trial-once-again.htm
+title: Minister’s decision-making on trial once again
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00524/ministers-decision-making-on-trial-once-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/30/ministers-decision-making-on-trial-once-again/index.html
+layout: layout.njk
 ---
 Minister’s decision-making on trial once again
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: better-ways-to-inspire-action-on-climate-change
-title: "Better ways to inspire action on climate change"
-date: 2015-09-29
-source-url: https://www.scoop.co.nz/stories/ED1509/S00160/better-ways-to-inspire-action-on-climate-change.htm
+title: Better ways to inspire action on climate change
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00160/better-ways-to-inspire-action-on-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/09/29/better-ways-to-inspire-action-on-climate-change/index.html
+layout: layout.njk
 ---
 Better ways to inspire action on climate change
 ===============================================

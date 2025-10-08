@@ -1,9 +1,12 @@
 ---
 slug: central-otago-rural-midwife-crisis-worsens
-title: "Central Otago rural midwife crisis worsens"
-date: 2019-07-31
-source-url: https://www.scoop.co.nz/stories/PA1907/S00260/central-otago-rural-midwife-crisis-worsens.htm
+title: Central Otago rural midwife crisis worsens
+date: 2019-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00260/central-otago-rural-midwife-crisis-worsens.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/31/central-otago-rural-midwife-crisis-worsens/index.html
+layout: layout.njk
 ---
 Central Otago rural midwife crisis worsens
 ==========================================

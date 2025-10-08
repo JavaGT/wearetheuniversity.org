@@ -1,9 +1,12 @@
 ---
 slug: nz-should-keep-its-serious-fraud-office
-title: "NZ should keep its serious fraud office"
-date: 2008-06-10
-source-url: https://www.scoop.co.nz/stories/BU0806/S00177/nz-should-keep-its-serious-fraud-office.htm
+title: NZ should keep its serious fraud office
+date: 2008-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00177/nz-should-keep-its-serious-fraud-office.htm
 author: auckland-university
+permalink: /archive/2008/06/10/nz-should-keep-its-serious-fraud-office/index.html
+layout: layout.njk
 ---
 NZ should keep its serious fraud office
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: ministers-plan-for-tertiary-sector-a-backwards-step
-title: "Minister’s Plan For Tertiary Sector A Backwards Step"
-date: 2024-12-20
-source-url: https://www.scoop.co.nz/stories/PA2412/S00249/ministers-plan-for-tertiary-sector-a-backwards-step.htm
+title: Minister’s Plan For Tertiary Sector A Backwards Step
+date: 2024-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00249/ministers-plan-for-tertiary-sector-a-backwards-step.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/12/20/ministers-plan-for-tertiary-sector-a-backwards-step/index.html
+layout: layout.njk
 ---
 Minister’s Plan For Tertiary Sector A Backwards Step
 ====================================================

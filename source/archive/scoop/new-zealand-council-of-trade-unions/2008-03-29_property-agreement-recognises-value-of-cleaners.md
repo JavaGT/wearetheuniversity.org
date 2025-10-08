@@ -1,9 +1,12 @@
 ---
 slug: property-agreement-recognises-value-of-cleaners
-title: "Property agreement recognises value of cleaners"
-date: 2008-03-29
-source-url: https://www.scoop.co.nz/stories/BU0803/S00447/property-agreement-recognises-value-of-cleaners.htm
+title: Property agreement recognises value of cleaners
+date: 2008-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0803/S00447/property-agreement-recognises-value-of-cleaners.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/03/29/property-agreement-recognises-value-of-cleaners/index.html
+layout: layout.njk
 ---
 Property agreement recognises value of cleaners
 ===============================================

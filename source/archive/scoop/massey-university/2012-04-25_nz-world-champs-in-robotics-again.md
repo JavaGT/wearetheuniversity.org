@@ -1,9 +1,12 @@
 ---
 slug: nz-world-champs-in-robotics-again
-title: "NZ world champs in robotics again"
-date: 2012-04-25
-source-url: https://www.scoop.co.nz/stories/ED1204/S00099/nz-world-champs-in-robotics-again.htm
+title: NZ world champs in robotics again
+date: 2012-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00099/nz-world-champs-in-robotics-again.htm
 author: massey-university
+permalink: /archive/2012/04/25/nz-world-champs-in-robotics-again/index.html
+layout: layout.njk
 ---
 NZ world champs in robotics again
 =================================

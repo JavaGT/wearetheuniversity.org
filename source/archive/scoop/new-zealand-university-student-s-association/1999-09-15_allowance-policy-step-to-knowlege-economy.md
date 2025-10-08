@@ -1,9 +1,12 @@
 ---
 slug: allowance-policy-step-to-knowlege-economy
-title: "Allowance Policy Step To Knowlege Economy"
-date: 1999-09-15
-source-url: https://www.scoop.co.nz/stories/ED9909/S00015/allowance-policy-step-to-knowlege-economy.htm
+title: Allowance Policy Step To Knowlege Economy
+date: 1999-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00015/allowance-policy-step-to-knowlege-economy.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/15/allowance-policy-step-to-knowlege-economy/index.html
+layout: layout.njk
 ---
 Allowance Policy Step To Knowlege Economy
 =========================================

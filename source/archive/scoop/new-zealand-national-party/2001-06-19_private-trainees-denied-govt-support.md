@@ -1,9 +1,12 @@
 ---
 slug: private-trainees-denied-govt-support
-title: "Private Trainees Denied Govt Support"
-date: 2001-06-19
-source-url: https://www.scoop.co.nz/stories/PA0106/S00262/private-trainees-denied-govt-support.htm
+title: Private Trainees Denied Govt Support
+date: 2001-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00262/private-trainees-denied-govt-support.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/19/private-trainees-denied-govt-support/index.html
+layout: layout.njk
 ---
 Private Trainees Denied Govt Support
 ====================================

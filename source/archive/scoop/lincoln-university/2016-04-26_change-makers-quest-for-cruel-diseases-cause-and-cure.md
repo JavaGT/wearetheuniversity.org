@@ -1,9 +1,13 @@
 ---
 slug: change-makers-quest-for-cruel-diseases-cause-and-cure
-title: "Change Maker’s quest for cruel disease’s cause and cure"
-date: 2016-04-26
-source-url: https://www.scoop.co.nz/stories/SC1604/S00042/change-makers-quest-for-cruel-diseases-cause-and-cure.htm
+title: Change Maker’s quest for cruel disease’s cause and cure
+date: 2016-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00042/change-makers-quest-for-cruel-diseases-cause-and-cure.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/04/26/change-makers-quest-for-cruel-diseases-cause-and-cure/index.html
+layout: layout.njk
 ---
 Change Maker’s quest for cruel disease’s cause and cure
 =======================================================

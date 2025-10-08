@@ -1,9 +1,12 @@
 ---
 slug: snake-oil-merchant-plies-his-trade
-title: "Snake oil merchant plies his trade"
-date: 1999-11-08
-source-url: https://www.scoop.co.nz/stories/PA9911/S00165/snake-oil-merchant-plies-his-trade.htm
+title: Snake oil merchant plies his trade
+date: 1999-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00165/snake-oil-merchant-plies-his-trade.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/08/snake-oil-merchant-plies-his-trade/index.html
+layout: layout.njk
 ---
 Snake oil merchant plies his trade
 ==================================

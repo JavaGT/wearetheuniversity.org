@@ -1,9 +1,12 @@
 ---
 slug: turia-christian-leaders-congress
-title: "Turia - Christian Leaders Congress"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/PA0803/S00077/turia-christian-leaders-congress.htm
+title: Turia - Christian Leaders Congress
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00077/turia-christian-leaders-congress.htm
 author: te-pati-maori
+permalink: /archive/2008/03/05/turia-christian-leaders-congress/index.html
+layout: layout.njk
 ---
 Turia - Christian Leaders Congress
 ==================================

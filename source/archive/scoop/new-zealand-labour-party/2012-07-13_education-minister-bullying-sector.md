@@ -1,9 +1,12 @@
 ---
 slug: education-minister-bullying-sector
-title: "Education Minister bullying sector"
-date: 2012-07-13
-source-url: https://www.scoop.co.nz/stories/PA1207/S00169/education-minister-bullying-sector.htm
+title: Education Minister bullying sector
+date: 2012-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00169/education-minister-bullying-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/13/education-minister-bullying-sector/index.html
+layout: layout.njk
 ---
 Education Minister bullying sector
 ==================================

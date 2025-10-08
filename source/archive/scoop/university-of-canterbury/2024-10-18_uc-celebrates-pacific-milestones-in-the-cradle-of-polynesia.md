@@ -1,9 +1,13 @@
 ---
 slug: uc-celebrates-pacific-milestones-in-the-cradle-of-polynesia
-title: "UC Celebrates Pacific Milestones In The Cradle Of Polynesia"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/WO2410/S00218/uc-celebrates-pacific-milestones-in-the-cradle-of-polynesia.htm
+title: UC Celebrates Pacific Milestones In The Cradle Of Polynesia
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00218/uc-celebrates-pacific-milestones-in-the-cradle-of-polynesia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/18/uc-celebrates-pacific-milestones-in-the-cradle-of-polynesia/index.html
+layout: layout.njk
 ---
 UC Celebrates Pacific Milestones In The Cradle Of Polynesia
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: aut-symposium-in-honour-of-eminent-philosopher-gernot-böhme
-title: "AUT: Symposium in honour of eminent philosopher Gernot Böhme"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00073/aut-symposium-in-honour-of-eminent-philosopher-gernot-bohme.htm
+title: 'AUT: Symposium in honour of eminent philosopher Gernot Böhme'
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00073/aut-symposium-in-honour-of-eminent-philosopher-gernot-bohme.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/11/aut-symposium-in-honour-of-eminent-philosopher-gernot-b/index.html
+layout: layout.njk
 ---
 AUT: Symposium in honour of eminent philosopher Gernot Böhme
 ============================================================

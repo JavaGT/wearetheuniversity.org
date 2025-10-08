@@ -1,9 +1,12 @@
 ---
 slug: sun-and-sea-new-books-from-victoria-press
-title: "Sun and Sea - new books from Victoria Press"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/CU0702/S00069/sun-and-sea-new-books-from-victoria-press.htm
+title: Sun and Sea - new books from Victoria Press
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0702/S00069/sun-and-sea-new-books-from-victoria-press.htm
 author: victoria-university-press
+permalink: /archive/2007/02/08/sun-and-sea-new-books-from-victoria-press/index.html
+layout: layout.njk
 ---
 Sun and Sea - new books from Victoria Press
 ===========================================

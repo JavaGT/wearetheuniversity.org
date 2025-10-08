@@ -1,9 +1,12 @@
 ---
 slug: continuing-the-hīkoi-forty-years-on
-title: "Continuing the hīkoi forty years on"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/PA1509/S00220/continuing-the-hikoi-forty-years-on.htm
+title: Continuing the hīkoi forty years on
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00220/continuing-the-hikoi-forty-years-on.htm
 author: te-pati-maori
+permalink: /archive/2015/09/14/continuing-the-h/index.html
+layout: layout.njk
 ---
 Continuing the hīkoi forty years on
 ===================================

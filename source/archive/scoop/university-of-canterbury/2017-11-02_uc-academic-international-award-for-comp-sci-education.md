@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-international-award-for-comp-sci-education
-title: "UC academic' international award for Comp Sci Education"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/ED1711/S00010/uc-academic-international-award-for-comp-sci-education.htm
+title: UC academic' international award for Comp Sci Education
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00010/uc-academic-international-award-for-comp-sci-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/02/uc-academic-international-award-for-comp-sci-education/index.html
+layout: layout.njk
 ---
 UC academic' international award for Comp Sci Education
 =======================================================

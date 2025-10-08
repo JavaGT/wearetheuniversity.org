@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-and-universiti-putra-malaysia-sign-agreement-to-strengthen-collaboration-in-food-security
-title: "Lincoln University And Universiti Putra Malaysia Sign Agreement To Strengthen Collaboration In Food Security"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/ED2409/S00014/lincoln-university-and-universiti-putra-malaysia-sign-agreement-to-strengthen-collaboration-in-food-security.htm
+slug: >-
+  lincoln-university-and-universiti-putra-malaysia-sign-agreement-to-strengthen-collaboration-in-food-security
+title: >-
+  Lincoln University And Universiti Putra Malaysia Sign Agreement To Strengthen
+  Collaboration In Food Security
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00014/lincoln-university-and-universiti-putra-malaysia-sign-agreement-to-strengthen-collaboration-in-food-security.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/09/15/lincoln-university-and-universiti-putra-malaysia-sign-agreement-to-strengthen-collaboration-in-food-security/index.html
+layout: layout.njk
 ---
 Lincoln University And Universiti Putra Malaysia Sign Agreement To Strengthen Collaboration In Food Security
 ============================================================================================================

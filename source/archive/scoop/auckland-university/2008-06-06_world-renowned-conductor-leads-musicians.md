@@ -1,9 +1,12 @@
 ---
 slug: world-renowned-conductor-leads-musicians
-title: "World renowned conductor leads musicians"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/CU0806/S00040/world-renowned-conductor-leads-musicians.htm
+title: World renowned conductor leads musicians
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0806/S00040/world-renowned-conductor-leads-musicians.htm
 author: auckland-university
+permalink: /archive/2008/06/06/world-renowned-conductor-leads-musicians/index.html
+layout: layout.njk
 ---
 World renowned conductor leads musicians
 ========================================

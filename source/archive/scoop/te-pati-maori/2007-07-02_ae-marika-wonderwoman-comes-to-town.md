@@ -1,9 +1,12 @@
 ---
 slug: ae-marika-wonderwoman-comes-to-town
-title: "Ae Marika: Wonderwoman comes to town"
-date: 2007-07-02
-source-url: https://www.scoop.co.nz/stories/PA0707/S00022/ae-marika-wonderwoman-comes-to-town.htm
+title: 'Ae Marika: Wonderwoman comes to town'
+date: 2007-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00022/ae-marika-wonderwoman-comes-to-town.htm
 author: te-pati-maori
+permalink: /archive/2007/07/02/ae-marika-wonderwoman-comes-to-town/index.html
+layout: layout.njk
 ---
 Ae Marika: Wonderwoman comes to town
 ====================================

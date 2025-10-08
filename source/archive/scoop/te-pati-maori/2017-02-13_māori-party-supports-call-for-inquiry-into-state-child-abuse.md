@@ -1,9 +1,12 @@
 ---
 slug: māori-party-supports-call-for-inquiry-into-state-child-abuse
-title: "Māori Party supports call for inquiry into State child abuse"
-date: 2017-02-13
-source-url: https://www.scoop.co.nz/stories/PA1702/S00169/maori-party-supports-call-for-inquiry-into-state-child-abuse.htm
+title: Māori Party supports call for inquiry into State child abuse
+date: 2017-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00169/maori-party-supports-call-for-inquiry-into-state-child-abuse.htm
 author: te-pati-maori
+permalink: /archive/2017/02/13/m/index.html
+layout: layout.njk
 ---
 Māori Party supports call for inquiry into State child abuse
 ============================================================

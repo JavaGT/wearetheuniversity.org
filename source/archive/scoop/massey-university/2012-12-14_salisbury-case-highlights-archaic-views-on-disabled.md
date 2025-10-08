@@ -1,9 +1,13 @@
 ---
 slug: salisbury-case-highlights-archaic-views-on-disabled
-title: "Salisbury case highlights 'archaic' views on disabled"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00110/salisbury-case-highlights-archaic-views-on-disabled.htm
+title: Salisbury case highlights 'archaic' views on disabled
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00110/salisbury-case-highlights-archaic-views-on-disabled.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/14/salisbury-case-highlights-archaic-views-on-disabled/index.html
+layout: layout.njk
 ---
 Salisbury case highlights 'archaic' views on disabled
 =====================================================

@@ -1,8 +1,11 @@
 ---
 slug: key-role-in-new-health-support-programme
-title: "Key role in new health support programme"
-date: 2016-10-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/key-role-in-new-health-support-programme.html
+title: Key role in new health support programme
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/key-role-in-new-health-support-programme.html
+permalink: /archive/2016/10/26/key-role-in-new-health-support-programme/index.html
+layout: layout.njk
 ---
 Key role in new health support programme
 ========================================

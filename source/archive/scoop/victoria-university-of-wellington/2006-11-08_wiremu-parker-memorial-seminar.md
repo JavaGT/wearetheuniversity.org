@@ -1,9 +1,12 @@
 ---
 slug: wiremu-parker-memorial-seminar
-title: "Wiremu Parker Memorial Seminar"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/ED0611/S00031/wiremu-parker-memorial-seminar.htm
+title: Wiremu Parker Memorial Seminar
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00031/wiremu-parker-memorial-seminar.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/08/wiremu-parker-memorial-seminar/index.html
+layout: layout.njk
 ---
 Wiremu Parker Memorial Seminar
 ==============================

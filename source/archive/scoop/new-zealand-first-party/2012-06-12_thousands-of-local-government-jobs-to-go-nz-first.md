@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-local-government-jobs-to-go-nz-first
-title: "Thousands of Local Government Jobs to Go – NZ First"
-date: 2012-06-12
-source-url: https://www.scoop.co.nz/stories/PA1206/S00122/thousands-of-local-government-jobs-to-go-nz-first.htm
+title: Thousands of Local Government Jobs to Go – NZ First
+date: 2012-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00122/thousands-of-local-government-jobs-to-go-nz-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/06/12/thousands-of-local-government-jobs-to-go-nz-first/index.html
+layout: layout.njk
 ---
 Thousands of Local Government Jobs to Go – NZ First
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-concerns-vindicated-by-report
-title: "NCEA Concerns Vindicated By Report"
-date: 2001-05-02
-source-url: https://www.scoop.co.nz/stories/PA0105/S00030/ncea-concerns-vindicated-by-report.htm
+title: NCEA Concerns Vindicated By Report
+date: 2001-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00030/ncea-concerns-vindicated-by-report.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/02/ncea-concerns-vindicated-by-report/index.html
+layout: layout.njk
 ---
 NCEA Concerns Vindicated By Report
 ==================================

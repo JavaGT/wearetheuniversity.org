@@ -1,9 +1,13 @@
 ---
 slug: which-parties-are-really-preparing-for-the-future
-title: "Which Parties are Really Preparing for the Future?"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00406/which-parties-are-really-preparing-for-the-future.htm
+title: Which Parties are Really Preparing for the Future?
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00406/which-parties-are-really-preparing-for-the-future.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/11/21/which-parties-are-really-preparing-for-the-future/index.html
+layout: layout.njk
 ---
 Which Parties are Really Preparing for the Future?
 ==================================================

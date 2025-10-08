@@ -1,9 +1,12 @@
 ---
 slug: central-christchurch-vibrant-and-attractive
-title: "Central Christchurch ‘Vibrant And Attractive’"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00067/central-christchurch-vibrant-and-attractive.htm
+title: Central Christchurch ‘Vibrant And Attractive’
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00067/central-christchurch-vibrant-and-attractive.htm
 author: lincoln-university
+permalink: /archive/2005/03/21/central-christchurch-vibrant-and-attractive/index.html
+layout: layout.njk
 ---
 Central Christchurch ‘Vibrant And Attractive’
 =============================================

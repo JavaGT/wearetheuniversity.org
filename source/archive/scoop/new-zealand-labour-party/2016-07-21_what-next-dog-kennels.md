@@ -1,9 +1,11 @@
 ---
 slug: what-next-dog-kennels
-title: "What next? Dog kennels?"
-date: 2016-07-21
+title: What next? Dog kennels?
+date: 2016-07-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1607/S00302/what-next-dog-kennels.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/21/what-next-dog-kennels/index.html
+layout: layout.njk
 ---
 What next? Dog kennels?
 =======================

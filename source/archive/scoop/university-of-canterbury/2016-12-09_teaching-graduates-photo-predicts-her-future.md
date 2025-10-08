@@ -1,9 +1,12 @@
 ---
 slug: teaching-graduates-photo-predicts-her-future
-title: "Teaching graduate’s photo predicts her future"
-date: 2016-12-09
-source-url: https://www.scoop.co.nz/stories/ED1612/S00035/teaching-graduates-photo-predicts-her-future.htm
+title: Teaching graduate’s photo predicts her future
+date: 2016-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00035/teaching-graduates-photo-predicts-her-future.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/09/teaching-graduates-photo-predicts-her-future/index.html
+layout: layout.njk
 ---
 Teaching graduate’s photo predicts her future
 =============================================

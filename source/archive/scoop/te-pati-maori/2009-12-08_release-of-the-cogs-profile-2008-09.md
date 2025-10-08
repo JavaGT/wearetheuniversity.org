@@ -1,9 +1,12 @@
 ---
 slug: release-of-the-cogs-profile-2008-09
-title: "Release of the COGS Profile 2008/09"
-date: 2009-12-08
-source-url: https://www.scoop.co.nz/stories/PA0912/S00091/release-of-the-cogs-profile-200809.htm
+title: Release of the COGS Profile 2008/09
+date: 2009-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00091/release-of-the-cogs-profile-200809.htm
 author: te-pati-maori
+permalink: /archive/2009/12/08/release-of-the-cogs-profile-2008-09/index.html
+layout: layout.njk
 ---
 Release of the COGS Profile 2008/09
 ===================================

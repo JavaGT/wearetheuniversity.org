@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-12-september-2008
-title: "www.mccully.co.nz - 12 September 2008"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PA0809/S00304/wwwmccullyconz-12-september-2008.htm
+title: www.mccully.co.nz - 12 September 2008
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00304/wwwmccullyconz-12-september-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/12/www-mccully-co-nz-12-september-2008/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 12 September 2008
 =====================================

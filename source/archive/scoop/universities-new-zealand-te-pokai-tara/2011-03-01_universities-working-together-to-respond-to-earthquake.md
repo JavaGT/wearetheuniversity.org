@@ -1,9 +1,13 @@
 ---
 slug: universities-working-together-to-respond-to-earthquake
-title: "Universities Working Together To Respond To Earthquake"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/ED1103/S00005/universities-working-together-to-respond-to-earthquake.htm
+title: Universities Working Together To Respond To Earthquake
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00005/universities-working-together-to-respond-to-earthquake.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/03/01/universities-working-together-to-respond-to-earthquake/index.html
+layout: layout.njk
 ---
 Universities Working Together To Respond To Earthquake
 ======================================================

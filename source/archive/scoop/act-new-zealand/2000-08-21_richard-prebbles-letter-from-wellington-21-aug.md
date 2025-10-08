@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wellington-21-aug
-title: "Richard Prebble's Letter from Wellington - 21 Aug"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/PA0008/S00385/richard-prebbles-letter-from-wellington-21-aug.htm
+title: Richard Prebble's Letter from Wellington - 21 Aug
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00385/richard-prebbles-letter-from-wellington-21-aug.htm
 author: act-new-zealand
+permalink: /archive/2000/08/21/richard-prebbles-letter-from-wellington-21-aug/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter from Wellington - 21 Aug
 =================================================

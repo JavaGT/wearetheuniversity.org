@@ -1,9 +1,12 @@
 ---
 slug: pasifika-researchers-out-in-force-at-albany
-title: "Pasifika researchers out in force at Albany"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/AK1011/S00353/pasifika-researchers-out-in-force-at-albany.htm
+title: Pasifika researchers out in force at Albany
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00353/pasifika-researchers-out-in-force-at-albany.htm
 author: massey-university
+permalink: /archive/2010/11/18/pasifika-researchers-out-in-force-at-albany/index.html
+layout: layout.njk
 ---
 Pasifika researchers out in force at Albany
 ===========================================

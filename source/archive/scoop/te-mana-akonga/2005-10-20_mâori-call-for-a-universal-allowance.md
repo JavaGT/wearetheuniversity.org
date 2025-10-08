@@ -1,9 +1,12 @@
 ---
 slug: mâori-call-for-a-universal-allowance
-title: "Mâori call for a universal allowance"
-date: 2005-10-20
-source-url: https://www.scoop.co.nz/stories/ED0510/S00063/maori-call-for-a-universal-allowance.htm
+title: Mâori call for a universal allowance
+date: 2005-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00063/maori-call-for-a-universal-allowance.htm
 author: te-mana-akonga
+permalink: /archive/2005/10/20/m/index.html
+layout: layout.njk
 ---
 Mâori call for a universal allowance
 ====================================

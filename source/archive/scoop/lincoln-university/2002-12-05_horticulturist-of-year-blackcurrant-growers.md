@@ -1,9 +1,12 @@
 ---
 slug: horticulturist-of-year-blackcurrant-growers
-title: "Horticulturist of Year - Blackcurrant growers"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/ED0212/S00013/horticulturist-of-year-blackcurrant-growers.htm
+title: Horticulturist of Year - Blackcurrant growers
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00013/horticulturist-of-year-blackcurrant-growers.htm
 author: lincoln-university
+permalink: /archive/2002/12/05/horticulturist-of-year-blackcurrant-growers/index.html
+layout: layout.njk
 ---
 Horticulturist of Year - Blackcurrant growers
 =============================================

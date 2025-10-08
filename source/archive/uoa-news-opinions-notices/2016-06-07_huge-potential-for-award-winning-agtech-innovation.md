@@ -1,8 +1,12 @@
 ---
 slug: huge-potential-for-award-winning-agtech-innovation
-title: "Huge potential for award winning Agtech innovation"
-date: 2016-06-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/huge-potential-for-award-winning-agtech-innovation-.html
+title: Huge potential for award winning Agtech innovation
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/huge-potential-for-award-winning-agtech-innovation-.html
+permalink: >-
+  /archive/2016/06/07/huge-potential-for-award-winning-agtech-innovation/index.html
+layout: layout.njk
 ---
 Huge potential for award winning Agtech innovation
 ==================================================

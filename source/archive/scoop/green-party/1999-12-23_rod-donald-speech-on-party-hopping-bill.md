@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-speech-on-party-hopping-bill
-title: "Rod Donald Speech On Party Hopping Bill"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/PA9912/S00143/rod-donald-speech-on-party-hopping-bill.htm
+title: Rod Donald Speech On Party Hopping Bill
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00143/rod-donald-speech-on-party-hopping-bill.htm
 author: green-party
+permalink: /archive/1999/12/23/rod-donald-speech-on-party-hopping-bill/index.html
+layout: layout.njk
 ---
 Rod Donald Speech On Party Hopping Bill
 =======================================

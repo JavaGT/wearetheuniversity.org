@@ -1,9 +1,13 @@
 ---
 slug: sustainable-design-minimises-storm-water-pollution
-title: "Sustainable design minimises storm-water pollution"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/ED1010/S00035/sustainable-design-minimises-storm-water-pollution.htm
+title: Sustainable design minimises storm-water pollution
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00035/sustainable-design-minimises-storm-water-pollution.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/10/12/sustainable-design-minimises-storm-water-pollution/index.html
+layout: layout.njk
 ---
 Sustainable design minimises storm-water pollution
 ==================================================

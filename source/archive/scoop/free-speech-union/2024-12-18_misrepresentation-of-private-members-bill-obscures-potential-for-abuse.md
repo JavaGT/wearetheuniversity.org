@@ -1,9 +1,13 @@
 ---
 slug: misrepresentation-of-private-members-bill-obscures-potential-for-abuse
-title: "Misrepresentation Of Private Member’s Bill Obscures Potential For Abuse"
-date: 2024-12-18
-source-url: https://www.scoop.co.nz/stories/AK2412/S00690/misrepresentation-of-private-members-bill-obscures-potential-for-abuse.htm
+title: Misrepresentation Of Private Member’s Bill Obscures Potential For Abuse
+date: 2024-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2412/S00690/misrepresentation-of-private-members-bill-obscures-potential-for-abuse.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/12/18/misrepresentation-of-private-members-bill-obscures-potential-for-abuse/index.html
+layout: layout.njk
 ---
 Misrepresentation Of Private Member’s Bill Obscures Potential For Abuse
 =======================================================================

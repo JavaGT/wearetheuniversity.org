@@ -1,9 +1,13 @@
 ---
 slug: pm-should-experience-vsm-first-hand-say-auckland-students
-title: "PM should experience VSM first hand, say Auckland students"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/PO1108/S00145/pm-should-experience-vsm-first-hand-say-auckland-students.htm
+title: PM should experience VSM first hand, say Auckland students
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00145/pm-should-experience-vsm-first-hand-say-auckland-students.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2011/08/11/pm-should-experience-vsm-first-hand-say-auckland-students/index.html
+layout: layout.njk
 ---
 PM should experience VSM first hand, say Auckland students
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-sells-coromandel-block
-title: "Auckland University Sells Coromandel Block"
-date: 2003-02-27
-source-url: https://www.scoop.co.nz/stories/ED0302/S00050/auckland-university-sells-coromandel-block.htm
+title: Auckland University Sells Coromandel Block
+date: 2003-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00050/auckland-university-sells-coromandel-block.htm
 author: auckland-university
+permalink: /archive/2003/02/27/auckland-university-sells-coromandel-block/index.html
+layout: layout.njk
 ---
 Auckland University Sells Coromandel Block
 ==========================================

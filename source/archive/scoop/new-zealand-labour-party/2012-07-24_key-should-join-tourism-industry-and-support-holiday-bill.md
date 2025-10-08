@@ -1,9 +1,13 @@
 ---
 slug: key-should-join-tourism-industry-and-support-holiday-bill
-title: "Key should join tourism industry and support holiday bill"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/PA1207/S00299/key-should-join-tourism-industry-and-support-holiday-bill.htm
+title: Key should join tourism industry and support holiday bill
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00299/key-should-join-tourism-industry-and-support-holiday-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/24/key-should-join-tourism-industry-and-support-holiday-bill/index.html
+layout: layout.njk
 ---
 Key should join tourism industry and support holiday bill
 =========================================================

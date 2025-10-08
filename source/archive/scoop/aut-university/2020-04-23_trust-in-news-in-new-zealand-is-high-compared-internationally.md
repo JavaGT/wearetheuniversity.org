@@ -1,9 +1,13 @@
 ---
 slug: trust-in-news-in-new-zealand-is-high-compared-internationally
-title: "Trust In News In New Zealand Is High Compared Internationally"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/AK2004/S00522/trust-in-news-in-new-zealand-is-high-compared-internationally.htm
+title: Trust In News In New Zealand Is High Compared Internationally
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2004/S00522/trust-in-news-in-new-zealand-is-high-compared-internationally.htm
 author: aut-university
+permalink: >-
+  /archive/2020/04/23/trust-in-news-in-new-zealand-is-high-compared-internationally/index.html
+layout: layout.njk
 ---
 Trust In News In New Zealand Is High Compared Internationally
 =============================================================

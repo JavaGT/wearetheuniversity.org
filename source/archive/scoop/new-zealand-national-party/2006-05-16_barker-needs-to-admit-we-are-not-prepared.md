@@ -1,9 +1,12 @@
 ---
 slug: barker-needs-to-admit-we-are-not-prepared
-title: "Barker needs to admit we are not prepared"
-date: 2006-05-16
-source-url: https://www.scoop.co.nz/stories/PA0605/S00334/barker-needs-to-admit-we-are-not-prepared.htm
+title: Barker needs to admit we are not prepared
+date: 2006-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00334/barker-needs-to-admit-we-are-not-prepared.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/16/barker-needs-to-admit-we-are-not-prepared/index.html
+layout: layout.njk
 ---
 Barker needs to admit we are not prepared
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: wellbeing-of-nzers-just-as-important-as-drive-to-export
-title: "Wellbeing of NZers just as important as drive to export"
-date: 2020-01-29
-source-url: https://www.scoop.co.nz/stories/GE2001/S00034/wellbeing-of-nzers-just-as-important-as-drive-to-export.htm
+title: Wellbeing of NZers just as important as drive to export
+date: 2020-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2001/S00034/wellbeing-of-nzers-just-as-important-as-drive-to-export.htm
 author: aut-university
+permalink: >-
+  /archive/2020/01/29/wellbeing-of-nzers-just-as-important-as-drive-to-export/index.html
+layout: layout.njk
 ---
 Wellbeing of NZers just as important as drive to export
 =======================================================

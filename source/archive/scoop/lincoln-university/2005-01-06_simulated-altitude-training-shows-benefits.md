@@ -1,9 +1,12 @@
 ---
 slug: simulated-altitude-training-shows-benefits
-title: "Simulated altitude training shows benefits"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/ED0501/S00012/simulated-altitude-training-shows-benefits.htm
+title: Simulated altitude training shows benefits
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00012/simulated-altitude-training-shows-benefits.htm
 author: lincoln-university
+permalink: /archive/2005/01/06/simulated-altitude-training-shows-benefits/index.html
+layout: layout.njk
 ---
 Simulated altitude training shows benefits
 ==========================================

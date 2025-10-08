@@ -1,9 +1,13 @@
 ---
 slug: hostel-conditions-a-throwback-to-dickensian-times
-title: "Hostel Conditions a Throwback to Dickensian Times"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/PA1506/S00325/hostel-conditions-a-throwback-to-dickensian-times.htm
+title: Hostel Conditions a Throwback to Dickensian Times
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00325/hostel-conditions-a-throwback-to-dickensian-times.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/18/hostel-conditions-a-throwback-to-dickensian-times/index.html
+layout: layout.njk
 ---
 Hostel Conditions a Throwback to Dickensian Times
 =================================================

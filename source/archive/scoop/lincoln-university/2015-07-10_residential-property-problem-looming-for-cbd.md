@@ -1,9 +1,12 @@
 ---
 slug: residential-property-problem-looming-for-cbd
-title: "Residential property problem looming for CBD"
-date: 2015-07-10
-source-url: https://www.scoop.co.nz/stories/ED1507/S00063/residential-property-problem-looming-for-cbd.htm
+title: Residential property problem looming for CBD
+date: 2015-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00063/residential-property-problem-looming-for-cbd.htm
 author: lincoln-university
+permalink: /archive/2015/07/10/residential-property-problem-looming-for-cbd/index.html
+layout: layout.njk
 ---
 Residential property problem looming for CBD
 ============================================

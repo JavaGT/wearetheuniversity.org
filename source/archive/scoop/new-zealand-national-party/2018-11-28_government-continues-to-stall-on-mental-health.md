@@ -1,9 +1,12 @@
 ---
 slug: government-continues-to-stall-on-mental-health
-title: "Government continues to stall on mental health"
-date: 2018-11-28
-source-url: https://www.scoop.co.nz/stories/PA1811/S00298/government-continues-to-stall-on-mental-health.htm
+title: Government continues to stall on mental health
+date: 2018-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00298/government-continues-to-stall-on-mental-health.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/28/government-continues-to-stall-on-mental-health/index.html
+layout: layout.njk
 ---
 Government continues to stall on mental health
 ==============================================

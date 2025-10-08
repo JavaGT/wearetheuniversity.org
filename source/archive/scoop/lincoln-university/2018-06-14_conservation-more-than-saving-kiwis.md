@@ -1,9 +1,12 @@
 ---
 slug: conservation-more-than-saving-kiwis
-title: "Conservation more than saving kiwis"
-date: 2018-06-14
-source-url: https://www.scoop.co.nz/stories/SC1806/S00038/conservation-more-than-saving-kiwis.htm
+title: Conservation more than saving kiwis
+date: 2018-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00038/conservation-more-than-saving-kiwis.htm
 author: lincoln-university
+permalink: /archive/2018/06/14/conservation-more-than-saving-kiwis/index.html
+layout: layout.njk
 ---
 Conservation more than saving kiwis
 ===================================

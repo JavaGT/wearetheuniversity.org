@@ -1,9 +1,12 @@
 ---
 slug: taiwan-set-to-challenge-new-zealand-olympians
-title: "Taiwan set to challenge New Zealand Olympians"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/ED0506/S00020/taiwan-set-to-challenge-new-zealand-olympians.htm
+title: Taiwan set to challenge New Zealand Olympians
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00020/taiwan-set-to-challenge-new-zealand-olympians.htm
 author: auckland-university
+permalink: /archive/2005/06/10/taiwan-set-to-challenge-new-zealand-olympians/index.html
+layout: layout.njk
 ---
 Taiwan set to challenge New Zealand Olympians
 =============================================

@@ -1,10 +1,25 @@
 ---
-title: University of Auckland academics in ‘unprecedented’ revolt over controversial course shake-up
-slug: university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up
-date: 2024-08-30
-source: https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/
+layout: layout.njk
+title: >-
+  University of Auckland academics in ‘unprecedented’ revolt over controversial
+  course shake-up
+slug: >-
+  university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up
+date: 2024-08-30T00:00:00.000Z
+source: >-
+  https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/
 author: Jamie Morton
 author-slug: jamie-morton
+permalink: >-
+  /blog/2024/08/30/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/index.html
+excerpt: >-
+  Original article has photo and video
+  content.https://www.nzherald.co.nz/nz/universityofaucklandacademicsinunprecedentedrevoltovercontroversialcourseshakeup/ODXSAEWSHFHFLLPR73HWSOEMTE/
+  Highlights and additional comments are added by We Are The University.
+  Auckland University students address course cuts at open forum University of
+  Auckland senate votes to pause a wider curriculum transformation programme
+  amid course review concerns. Vicechancellor Dawn Freshwater said the review
+  aims...
 ---
 
 [Original article has photo and video content.](https://www.nzherald.co.nz/nz/university-of-auckland-academics-in-unprecedented-revolt-over-controversial-course-shake-up/ODXSAEWSHFHFLLPR73HWSOEMTE/)

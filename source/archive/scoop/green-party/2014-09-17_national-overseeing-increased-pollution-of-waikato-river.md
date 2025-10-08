@@ -1,9 +1,13 @@
 ---
 slug: national-overseeing-increased-pollution-of-waikato-river
-title: "National overseeing increased pollution of Waikato River"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00259/national-overseeing-increased-pollution-of-waikato-river.htm
+title: National overseeing increased pollution of Waikato River
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00259/national-overseeing-increased-pollution-of-waikato-river.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/17/national-overseeing-increased-pollution-of-waikato-river/index.html
+layout: layout.njk
 ---
 National overseeing increased pollution of Waikato River
 ========================================================

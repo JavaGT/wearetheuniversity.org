@@ -1,9 +1,12 @@
 ---
 slug: parata-in-denial-over-special-education-crisis
-title: "Parata in denial over special education crisis"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/PA1704/S00074/parata-in-denial-over-special-education-crisis.htm
+title: Parata in denial over special education crisis
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00074/parata-in-denial-over-special-education-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/06/parata-in-denial-over-special-education-crisis/index.html
+layout: layout.njk
 ---
 Parata in denial over special education crisis
 ==============================================

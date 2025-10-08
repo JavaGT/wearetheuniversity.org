@@ -1,9 +1,12 @@
 ---
 slug: reopening-schools-absolute-priority
-title: "Reopening Schools Absolute Priority"
-date: 2021-10-07
-source-url: https://www.scoop.co.nz/stories/PA2110/S00072/reopening-schools-absolute-priority.htm
+title: Reopening Schools Absolute Priority
+date: 2021-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00072/reopening-schools-absolute-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/07/reopening-schools-absolute-priority/index.html
+layout: layout.njk
 ---
 Reopening Schools Absolute Priority
 ===================================

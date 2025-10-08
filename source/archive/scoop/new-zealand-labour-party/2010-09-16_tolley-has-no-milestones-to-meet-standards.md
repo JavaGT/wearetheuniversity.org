@@ -1,9 +1,12 @@
 ---
 slug: tolley-has-no-milestones-to-meet-standards
-title: "Tolley has no milestones to meet standards"
-date: 2010-09-16
-source-url: https://www.scoop.co.nz/stories/PA1009/S00257/tolley-has-no-milestones-to-meet-standards.htm
+title: Tolley has no milestones to meet standards
+date: 2010-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00257/tolley-has-no-milestones-to-meet-standards.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/16/tolley-has-no-milestones-to-meet-standards/index.html
+layout: layout.njk
 ---
 Tolley has no milestones to meet standards
 ==========================================

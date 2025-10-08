@@ -1,9 +1,12 @@
 ---
 slug: nationals-public-service-cap-just-pr-spin
-title: "National’s public service cap just PR spin"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/PA0903/S00383/nationals-public-service-cap-just-pr-spin.htm
+title: National’s public service cap just PR spin
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00383/nationals-public-service-cap-just-pr-spin.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/26/nationals-public-service-cap-just-pr-spin/index.html
+layout: layout.njk
 ---
 National’s public service cap just PR spin
 ==========================================

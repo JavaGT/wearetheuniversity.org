@@ -1,9 +1,13 @@
 ---
 slug: multi-source-protein-foods-for-optimal-mobility-in-seniors
-title: "Multi-source protein foods for optimal mobility in seniors"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/SC1512/S00018/multi-source-protein-foods-for-optimal-mobility-in-seniors.htm
+title: Multi-source protein foods for optimal mobility in seniors
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00018/multi-source-protein-foods-for-optimal-mobility-in-seniors.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/03/multi-source-protein-foods-for-optimal-mobility-in-seniors/index.html
+layout: layout.njk
 ---
 Multi-source protein foods for optimal mobility in seniors
 ==========================================================

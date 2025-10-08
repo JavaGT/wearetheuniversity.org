@@ -1,9 +1,12 @@
 ---
 slug: māori-party-co-leader-marama-fox-celebrates-te-reo-milestone
-title: "Māori Party Co-leader Marama Fox celebrates te reo milestone"
-date: 2016-03-05
-source-url: https://www.scoop.co.nz/stories/CU1603/S00116/maori-party-co-leader-marama-fox-celebrates-te-reo-milestone.htm
+title: Māori Party Co-leader Marama Fox celebrates te reo milestone
+date: 2016-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00116/maori-party-co-leader-marama-fox-celebrates-te-reo-milestone.htm
 author: te-pati-maori
+permalink: /archive/2016/03/05/m/index.html
+layout: layout.njk
 ---
 Māori Party Co-leader Marama Fox celebrates te reo milestone
 ============================================================

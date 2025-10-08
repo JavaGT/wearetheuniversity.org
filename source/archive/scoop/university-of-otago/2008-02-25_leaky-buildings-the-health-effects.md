@@ -1,9 +1,12 @@
 ---
 slug: leaky-buildings-the-health-effects
-title: "Leaky buildings: the health effects?"
-date: 2008-02-25
-source-url: https://www.scoop.co.nz/stories/GE0802/S00097/leaky-buildings-the-health-effects.htm
+title: 'Leaky buildings: the health effects?'
+date: 2008-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0802/S00097/leaky-buildings-the-health-effects.htm
 author: university-of-otago
+permalink: /archive/2008/02/25/leaky-buildings-the-health-effects/index.html
+layout: layout.njk
 ---
 Leaky buildings: the health effects?
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: government-policies-forcing-disabled-people-into-damp-houses
-title: "Government policies forcing disabled people into damp houses"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/PA1703/S00236/government-policies-forcing-disabled-people-into-damp-houses.htm
+title: Government policies forcing disabled people into damp houses
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00236/government-policies-forcing-disabled-people-into-damp-houses.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/15/government-policies-forcing-disabled-people-into-damp-houses/index.html
+layout: layout.njk
 ---
 Government policies forcing disabled people into damp houses
 ============================================================

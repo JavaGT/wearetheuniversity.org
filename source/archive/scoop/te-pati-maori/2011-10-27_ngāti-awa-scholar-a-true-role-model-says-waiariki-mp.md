@@ -1,9 +1,12 @@
 ---
 slug: ngāti-awa-scholar-a-true-role-model-says-waiariki-mp
-title: "Ngāti Awa scholar a true role-model says Waiariki MP"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/PA1110/S00413/ngati-awa-scholar-a-true-role-model-says-waiariki-mp.htm
+title: Ngāti Awa scholar a true role-model says Waiariki MP
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00413/ngati-awa-scholar-a-true-role-model-says-waiariki-mp.htm
 author: te-pati-maori
+permalink: /archive/2011/10/27/ng/index.html
+layout: layout.njk
 ---
 Ngāti Awa scholar a true role-model says Waiariki MP
 ====================================================

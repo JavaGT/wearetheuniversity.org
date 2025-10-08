@@ -1,9 +1,11 @@
 ---
 slug: on-a-fast-track
-title: "On a fast track"
-date: 2014-04-30
+title: On a fast track
+date: 2014-04-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1404/S00089/on-a-fast-track.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/30/on-a-fast-track/index.html
+layout: layout.njk
 ---
 On a fast track
 ===============

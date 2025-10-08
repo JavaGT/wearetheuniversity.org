@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-respond-to-disturbing-nutrition-report
-title: "UC researchers respond to disturbing nutrition report"
-date: 2019-10-17
-source-url: https://www.scoop.co.nz/stories/ED1910/S00042/uc-researchers-respond-to-disturbing-nutrition-report.htm
+title: UC researchers respond to disturbing nutrition report
+date: 2019-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00042/uc-researchers-respond-to-disturbing-nutrition-report.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/17/uc-researchers-respond-to-disturbing-nutrition-report/index.html
+layout: layout.njk
 ---
 UC researchers respond to disturbing nutrition report
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: prison-a-disappointing-monument-to-labours-waste
-title: "Prison a disappointing monument to Labour's waste"
-date: 2007-09-25
-source-url: https://www.scoop.co.nz/stories/PA0709/S00431/prison-a-disappointing-monument-to-labours-waste.htm
+title: Prison a disappointing monument to Labour's waste
+date: 2007-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00431/prison-a-disappointing-monument-to-labours-waste.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/09/25/prison-a-disappointing-monument-to-labours-waste/index.html
+layout: layout.njk
 ---
 Prison a disappointing monument to Labour's waste
 =================================================

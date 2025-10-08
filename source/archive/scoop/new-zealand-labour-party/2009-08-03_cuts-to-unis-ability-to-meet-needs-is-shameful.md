@@ -1,9 +1,12 @@
 ---
 slug: cuts-to-unis-ability-to-meet-needs-is-shameful
-title: "Cuts to Uni’s ability to meet needs is shameful"
-date: 2009-08-03
-source-url: https://www.scoop.co.nz/stories/PA0908/S00007/cuts-to-unis-ability-to-meet-needs-is-shameful.htm
+title: Cuts to Uni’s ability to meet needs is shameful
+date: 2009-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00007/cuts-to-unis-ability-to-meet-needs-is-shameful.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/03/cuts-to-unis-ability-to-meet-needs-is-shameful/index.html
+layout: layout.njk
 ---
 Cuts to Uni’s ability to meet needs is shameful
 ===============================================

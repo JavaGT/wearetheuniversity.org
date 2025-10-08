@@ -1,9 +1,12 @@
 ---
 slug: work-placement-pays-off-for-science-student
-title: "Work placement pays off for science student"
-date: 2010-08-06
-source-url: https://www.scoop.co.nz/stories/ED1008/S00033/work-placement-pays-off-for-science-student.htm
+title: Work placement pays off for science student
+date: 2010-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00033/work-placement-pays-off-for-science-student.htm
 author: university-of-waikato
+permalink: /archive/2010/08/06/work-placement-pays-off-for-science-student/index.html
+layout: layout.njk
 ---
 Work placement pays off for science student
 ===========================================

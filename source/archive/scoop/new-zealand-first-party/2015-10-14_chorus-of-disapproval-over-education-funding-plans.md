@@ -1,9 +1,13 @@
 ---
 slug: chorus-of-disapproval-over-education-funding-plans
-title: "Chorus of Disapproval Over Education Funding Plans"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00214/chorus-of-disapproval-over-education-funding-plans.htm
+title: Chorus of Disapproval Over Education Funding Plans
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00214/chorus-of-disapproval-over-education-funding-plans.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/14/chorus-of-disapproval-over-education-funding-plans/index.html
+layout: layout.njk
 ---
 Chorus of Disapproval Over Education Funding Plans
 ==================================================

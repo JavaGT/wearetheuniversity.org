@@ -1,9 +1,13 @@
 ---
 slug: hutt-valley-primary-school-to-engage-kids-in-science
-title: "Hutt Valley primary school to engage kids in science"
-date: 2015-11-25
-source-url: https://www.scoop.co.nz/stories/ED1511/S00120/hutt-valley-primary-school-to-engage-kids-in-science.htm
+title: Hutt Valley primary school to engage kids in science
+date: 2015-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00120/hutt-valley-primary-school-to-engage-kids-in-science.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/11/25/hutt-valley-primary-school-to-engage-kids-in-science/index.html
+layout: layout.njk
 ---
 Hutt Valley primary school to engage kids in science
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: per-person-new-zealand-is-getting-poorer
-title: "Per person New Zealand is getting poorer"
-date: 2015-10-21
-source-url: https://www.scoop.co.nz/stories/PA1510/S00380/per-person-new-zealand-is-getting-poorer.htm
+title: Per person New Zealand is getting poorer
+date: 2015-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00380/per-person-new-zealand-is-getting-poorer.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/21/per-person-new-zealand-is-getting-poorer/index.html
+layout: layout.njk
 ---
 Per person New Zealand is getting poorer
 ========================================

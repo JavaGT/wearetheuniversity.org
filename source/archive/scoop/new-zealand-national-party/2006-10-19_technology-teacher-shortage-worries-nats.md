@@ -1,9 +1,12 @@
 ---
 slug: technology-teacher-shortage-worries-nats
-title: "Technology teacher shortage worries Nats"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/PA0610/S00384/technology-teacher-shortage-worries-nats.htm
+title: Technology teacher shortage worries Nats
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00384/technology-teacher-shortage-worries-nats.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/19/technology-teacher-shortage-worries-nats/index.html
+layout: layout.njk
 ---
 Technology teacher shortage worries Nats
 ========================================

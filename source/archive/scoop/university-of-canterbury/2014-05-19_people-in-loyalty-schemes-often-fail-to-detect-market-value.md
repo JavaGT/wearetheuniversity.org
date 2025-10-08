@@ -1,9 +1,13 @@
 ---
 slug: people-in-loyalty-schemes-often-fail-to-detect-market-value
-title: "People in loyalty schemes often fail to detect market value"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/ED1405/S00094/people-in-loyalty-schemes-often-fail-to-detect-market-value.htm
+title: People in loyalty schemes often fail to detect market value
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00094/people-in-loyalty-schemes-often-fail-to-detect-market-value.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/19/people-in-loyalty-schemes-often-fail-to-detect-market-value/index.html
+layout: layout.njk
 ---
 People in loyalty schemes often fail to detect market value
 ===========================================================

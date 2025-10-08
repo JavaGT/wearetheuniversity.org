@@ -1,9 +1,11 @@
 ---
 slug: tertiary-reform-bill
-title: "Tertiary Reform Bill"
-date: 2002-12-05
+title: Tertiary Reform Bill
+date: 2002-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0212/S00010/tertiary-reform-bill.htm
 author: association-of-university-staff
+permalink: /archive/2002/12/05/tertiary-reform-bill/index.html
+layout: layout.njk
 ---
 Tertiary Reform Bill
 ====================

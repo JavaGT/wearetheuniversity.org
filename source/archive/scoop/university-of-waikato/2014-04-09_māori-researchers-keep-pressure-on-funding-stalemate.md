@@ -1,9 +1,12 @@
 ---
 slug: māori-researchers-keep-pressure-on-funding-stalemate
-title: "Māori researchers keep pressure on funding stalemate"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/ED1404/S00043/maori-researchers-keep-pressure-on-funding-stalemate.htm
+title: Māori researchers keep pressure on funding stalemate
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00043/maori-researchers-keep-pressure-on-funding-stalemate.htm
 author: university-of-waikato
+permalink: /archive/2014/04/09/m/index.html
+layout: layout.njk
 ---
 Māori researchers keep pressure on funding stalemate
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-moral-panic-and-gangs-tariana-turia
-title: "Speech: Moral Panic and Gangs -- Tariana Turia"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/PA0706/S00545/speech-moral-panic-and-gangs-tariana-turia.htm
+title: 'Speech: Moral Panic and Gangs -- Tariana Turia'
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00545/speech-moral-panic-and-gangs-tariana-turia.htm
 author: te-pati-maori
+permalink: /archive/2007/06/28/speech-moral-panic-and-gangs-tariana-turia/index.html
+layout: layout.njk
 ---
 Speech: Moral Panic and Gangs -- Tariana Turia
 ==============================================

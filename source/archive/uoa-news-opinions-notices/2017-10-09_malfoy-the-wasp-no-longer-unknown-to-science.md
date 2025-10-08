@@ -1,8 +1,11 @@
 ---
 slug: malfoy-the-wasp-no-longer-unknown-to-science
-title: "Malfoy the wasp no longer unknown to Science"
-date: 2017-10-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/malfoy-the-wasp-no-longer-unknown-to-science.html
+title: Malfoy the wasp no longer unknown to Science
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/malfoy-the-wasp-no-longer-unknown-to-science.html
+permalink: /archive/2017/10/09/malfoy-the-wasp-no-longer-unknown-to-science/index.html
+layout: layout.njk
 ---
 Malfoy the wasp no longer unknown to Science
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: darien-fenton-acc-amendment-bill-(no-2)-speech
-title: "Darien Fenton ACC Amendment Bill (No. 2) Speech"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00307/darien-fenton-acc-amendment-bill-no-2-speech.htm
+title: Darien Fenton ACC Amendment Bill (No. 2) Speech
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00307/darien-fenton-acc-amendment-bill-no-2-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/12/13/darien-fenton-acc-amendment-bill-/index.html
+layout: layout.njk
 ---
 Darien Fenton ACC Amendment Bill (No. 2) Speech
 ===============================================

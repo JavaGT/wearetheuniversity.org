@@ -1,9 +1,12 @@
 ---
 slug: fee-fi-fo-fum…tax-swindle-comes-undone
-title: "Fee fi fo fum…tax swindle comes undone"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/PA1607/S00398/fee-fi-fo-fumtax-swindle-comes-undone.htm
+title: Fee fi fo fum…tax swindle comes undone
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00398/fee-fi-fo-fumtax-swindle-comes-undone.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/27/fee-fi-fo-fum/index.html
+layout: layout.njk
 ---
 Fee fi fo fum…tax swindle comes undone
 ======================================

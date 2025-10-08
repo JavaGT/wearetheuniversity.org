@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-school-of-music-launches
-title: "New Zealand School of Music launches"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00139/new-zealand-school-of-music-launches.htm
+title: New Zealand School of Music launches
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00139/new-zealand-school-of-music-launches.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/30/new-zealand-school-of-music-launches/index.html
+layout: layout.njk
 ---
 New Zealand School of Music launches
 ====================================

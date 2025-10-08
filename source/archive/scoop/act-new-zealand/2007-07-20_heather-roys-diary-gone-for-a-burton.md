@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-gone-for-a-burton
-title: "Heather Roy's Diary - Gone For A Burton"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/PA0707/S00344/heather-roys-diary-gone-for-a-burton.htm
+title: Heather Roy's Diary - Gone For A Burton
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00344/heather-roys-diary-gone-for-a-burton.htm
 author: act-new-zealand
+permalink: /archive/2007/07/20/heather-roys-diary-gone-for-a-burton/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Gone For A Burton
 =======================================

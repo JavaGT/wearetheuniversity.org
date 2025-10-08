@@ -1,9 +1,12 @@
 ---
 slug: student-debt-summit-predicts-gloomy-future
-title: "Student Debt Summit Predicts Gloomy Future"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/ED0207/S00056/student-debt-summit-predicts-gloomy-future.htm
+title: Student Debt Summit Predicts Gloomy Future
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00056/student-debt-summit-predicts-gloomy-future.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/23/student-debt-summit-predicts-gloomy-future/index.html
+layout: layout.njk
 ---
 Student Debt Summit Predicts Gloomy Future
 ==========================================

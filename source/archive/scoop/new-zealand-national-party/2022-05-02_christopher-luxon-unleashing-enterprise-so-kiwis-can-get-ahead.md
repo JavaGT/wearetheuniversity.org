@@ -1,9 +1,13 @@
 ---
 slug: christopher-luxon-unleashing-enterprise-so-kiwis-can-get-ahead
-title: "Christopher Luxon - Unleashing Enterprise So Kiwis Can Get Ahead"
-date: 2022-05-02
-source-url: https://www.scoop.co.nz/stories/PA2205/S00014/christopher-luxon-unleashing-enterprise-so-kiwis-can-get-ahead.htm
+title: Christopher Luxon - Unleashing Enterprise So Kiwis Can Get Ahead
+date: 2022-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00014/christopher-luxon-unleashing-enterprise-so-kiwis-can-get-ahead.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/05/02/christopher-luxon-unleashing-enterprise-so-kiwis-can-get-ahead/index.html
+layout: layout.njk
 ---
 Christopher Luxon - Unleashing Enterprise So Kiwis Can Get Ahead
 ================================================================

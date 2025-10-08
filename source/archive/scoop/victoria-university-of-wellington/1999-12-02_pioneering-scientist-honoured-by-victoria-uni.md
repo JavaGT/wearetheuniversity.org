@@ -1,9 +1,12 @@
 ---
 slug: pioneering-scientist-honoured-by-victoria-uni
-title: "Pioneering scientist honoured by Victoria Uni"
-date: 1999-12-02
-source-url: https://www.scoop.co.nz/stories/SC9912/S00003/pioneering-scientist-honoured-by-victoria-uni.htm
+title: Pioneering scientist honoured by Victoria Uni
+date: 1999-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC9912/S00003/pioneering-scientist-honoured-by-victoria-uni.htm
 author: victoria-university-of-wellington
+permalink: /archive/1999/12/02/pioneering-scientist-honoured-by-victoria-uni/index.html
+layout: layout.njk
 ---
 Pioneering scientist honoured by Victoria Uni
 =============================================

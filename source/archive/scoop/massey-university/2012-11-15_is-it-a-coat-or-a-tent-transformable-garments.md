@@ -1,9 +1,12 @@
 ---
 slug: is-it-a-coat-or-a-tent-transformable-garments
-title: "Is it a coat or a tent? Transformable garments"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00108/is-it-a-coat-or-a-tent-transformable-garments.htm
+title: Is it a coat or a tent? Transformable garments
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00108/is-it-a-coat-or-a-tent-transformable-garments.htm
 author: massey-university
+permalink: /archive/2012/11/15/is-it-a-coat-or-a-tent-transformable-garments/index.html
+layout: layout.njk
 ---
 Is it a coat or a tent? Transformable garments
 ==============================================

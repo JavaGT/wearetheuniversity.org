@@ -1,9 +1,16 @@
 ---
-slug: act-leaders-address-to-election-campaign-launch-asb-waterfront-theatre-12-july-2020
-title: "ACT Leader's Address To Election Campaign Launch - ASB Waterfront Theatre, 12 July 2020"
-date: 2020-07-12
-source-url: https://www.scoop.co.nz/stories/PO2007/S00164/act-leaders-address-to-election-campaign-launch-asb-waterfront-theatre-12-july-2020.htm
+slug: >-
+  act-leaders-address-to-election-campaign-launch-asb-waterfront-theatre-12-july-2020
+title: >-
+  ACT Leader's Address To Election Campaign Launch - ASB Waterfront Theatre, 12
+  July 2020
+date: 2020-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00164/act-leaders-address-to-election-campaign-launch-asb-waterfront-theatre-12-july-2020.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/12/act-leaders-address-to-election-campaign-launch-asb-waterfront-theatre-12-july-2020/index.html
+layout: layout.njk
 ---
 ACT Leader's Address To Election Campaign Launch - ASB Waterfront Theatre, 12 July 2020
 =======================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: beyond-interest-deepening-our-engagement-with-asia
-title: "Beyond interest - deepening our engagement with Asia"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/BU1107/S00310/beyond-interest-deepening-our-engagement-with-asia.htm
+title: Beyond interest - deepening our engagement with Asia
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00310/beyond-interest-deepening-our-engagement-with-asia.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/07/11/beyond-interest-deepening-our-engagement-with-asia/index.html
+layout: layout.njk
 ---
 Beyond interest - deepening our engagement with Asia
 ====================================================

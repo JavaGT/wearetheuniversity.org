@@ -1,9 +1,12 @@
 ---
 slug: aotearoa-must-cut-ties-with-war-criminals
-title: "Aotearoa Must Cut Ties With War Criminals"
-date: 2023-11-10
-source-url: https://www.scoop.co.nz/stories/PA2311/S00010/aotearoa-must-cut-ties-with-war-criminals.htm
+title: Aotearoa Must Cut Ties With War Criminals
+date: 2023-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00010/aotearoa-must-cut-ties-with-war-criminals.htm
 author: te-pati-maori
+permalink: /archive/2023/11/10/aotearoa-must-cut-ties-with-war-criminals/index.html
+layout: layout.njk
 ---
 Aotearoa Must Cut Ties With War Criminals
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-and-ministry-chief-at-odds-over-education-system
-title: "Minister and Ministry chief at odds over education system"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/ED1210/S00169/minister-and-ministry-chief-at-odds-over-education-system.htm
+title: Minister and Ministry chief at odds over education system
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00169/minister-and-ministry-chief-at-odds-over-education-system.htm
 author: nzei
+permalink: >-
+  /archive/2012/10/29/minister-and-ministry-chief-at-odds-over-education-system/index.html
+layout: layout.njk
 ---
 Minister and Ministry chief at odds over education system
 =========================================================

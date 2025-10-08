@@ -1,9 +1,12 @@
 ---
 slug: bribes-for-new-mums-the-tip-of-an-iceberg
-title: "‘Bribes’ for new mums the tip of an iceberg"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/PA0711/S00591/bribes-for-new-mums-the-tip-of-an-iceberg.htm
+title: ‘Bribes’ for new mums the tip of an iceberg
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00591/bribes-for-new-mums-the-tip-of-an-iceberg.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/29/bribes-for-new-mums-the-tip-of-an-iceberg/index.html
+layout: layout.njk
 ---
 ‘Bribes’ for new mums the tip of an iceberg
 ===========================================

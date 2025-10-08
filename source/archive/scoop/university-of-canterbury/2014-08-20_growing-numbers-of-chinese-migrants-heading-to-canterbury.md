@@ -1,9 +1,13 @@
 ---
 slug: growing-numbers-of-chinese-migrants-heading-to-canterbury
-title: "Growing numbers of Chinese migrants heading to Canterbury"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/AK1408/S00382/growing-numbers-of-chinese-migrants-heading-to-canterbury.htm
+title: Growing numbers of Chinese migrants heading to Canterbury
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00382/growing-numbers-of-chinese-migrants-heading-to-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/20/growing-numbers-of-chinese-migrants-heading-to-canterbury/index.html
+layout: layout.njk
 ---
 Growing numbers of Chinese migrants heading to Canterbury
 =========================================================

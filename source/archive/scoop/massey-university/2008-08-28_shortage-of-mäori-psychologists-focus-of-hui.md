@@ -1,9 +1,12 @@
 ---
 slug: shortage-of-mäori-psychologists-focus-of-hui
-title: "Shortage of Mäori psychologists focus of hui"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/GE0808/S00130/shortage-of-maori-psychologists-focus-of-hui.htm
+title: Shortage of Mäori psychologists focus of hui
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00130/shortage-of-maori-psychologists-focus-of-hui.htm
 author: massey-university
+permalink: /archive/2008/08/28/shortage-of-m/index.html
+layout: layout.njk
 ---
 Shortage of Mäori psychologists focus of hui
 ============================================

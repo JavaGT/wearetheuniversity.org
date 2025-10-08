@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-27th-september-2002
-title: "The Right Talk - 27th September 2002"
-date: 2002-09-27
-source-url: https://www.scoop.co.nz/stories/PA0209/S00461/the-right-talk-27th-september-2002.htm
+title: The Right Talk - 27th September 2002
+date: 2002-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00461/the-right-talk-27th-september-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/27/the-right-talk-27th-september-2002/index.html
+layout: layout.njk
 ---
 The Right Talk - 27th September 2002
 ====================================

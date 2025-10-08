@@ -1,8 +1,11 @@
 ---
 slug: marae-link-important-to-māori-in-advanced-age
-title: "Marae link important to Māori in advanced age"
-date: 2015-10-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/marae-link-important-to-mori-in-advanced-age.html
+title: Marae link important to Māori in advanced age
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/marae-link-important-to-mori-in-advanced-age.html
+permalink: /archive/2015/10/27/marae-link-important-to-m/index.html
+layout: layout.njk
 ---
 Marae link important to Māori in advanced age
 =============================================

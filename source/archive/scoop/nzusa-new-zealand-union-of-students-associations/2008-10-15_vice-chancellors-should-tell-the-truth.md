@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellors-should-tell-the-truth
-title: "Vice Chancellors should tell the truth"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/ED0810/S00056/vice-chancellors-should-tell-the-truth.htm
+title: Vice Chancellors should tell the truth
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00056/vice-chancellors-should-tell-the-truth.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/10/15/vice-chancellors-should-tell-the-truth/index.html
+layout: layout.njk
 ---
 Vice Chancellors should tell the truth
 ======================================

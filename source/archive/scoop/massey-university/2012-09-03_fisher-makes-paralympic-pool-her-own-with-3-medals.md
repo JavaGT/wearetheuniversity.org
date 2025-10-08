@@ -1,9 +1,13 @@
 ---
 slug: fisher-makes-paralympic-pool-her-own-with-3-medals
-title: "Fisher makes Paralympic pool her own with 3 medals"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/ED1209/S00012/fisher-makes-paralympic-pool-her-own-with-3-medals.htm
+title: Fisher makes Paralympic pool her own with 3 medals
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00012/fisher-makes-paralympic-pool-her-own-with-3-medals.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/03/fisher-makes-paralympic-pool-her-own-with-3-medals/index.html
+layout: layout.njk
 ---
 Fisher makes Paralympic pool her own with 3 medals
 ==================================================

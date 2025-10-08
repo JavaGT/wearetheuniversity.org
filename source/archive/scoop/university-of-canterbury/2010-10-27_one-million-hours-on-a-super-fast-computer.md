@@ -1,9 +1,12 @@
 ---
 slug: one-million-hours-on-a-super-fast-computer
-title: "One million hours on a super-fast computer"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/ED1010/S00099/one-million-hours-on-a-super-fast-computer.htm
+title: One million hours on a super-fast computer
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00099/one-million-hours-on-a-super-fast-computer.htm
 author: university-of-canterbury
+permalink: /archive/2010/10/27/one-million-hours-on-a-super-fast-computer/index.html
+layout: layout.njk
 ---
 One million hours on a super-fast computer
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: opinion-poor-planning-lack-of-consultation-stymies-sales
-title: "Opinion: Poor planning, lack of consultation stymies sales"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/PO1209/S00126/opinion-poor-planning-lack-of-consultation-stymies-sales.htm
+title: 'Opinion: Poor planning, lack of consultation stymies sales'
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00126/opinion-poor-planning-lack-of-consultation-stymies-sales.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/10/opinion-poor-planning-lack-of-consultation-stymies-sales/index.html
+layout: layout.njk
 ---
 Opinion: Poor planning, lack of consultation stymies sales
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: five-seek-national-candidacy-for-ohariu-belmont
-title: "Five Seek National Candidacy For Ohariu-Belmont"
-date: 2002-02-11
-source-url: https://www.scoop.co.nz/stories/PO0202/S00037/five-seek-national-candidacy-for-ohariu-belmont.htm
+title: Five Seek National Candidacy For Ohariu-Belmont
+date: 2002-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0202/S00037/five-seek-national-candidacy-for-ohariu-belmont.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/11/five-seek-national-candidacy-for-ohariu-belmont/index.html
+layout: layout.njk
 ---
 Five Seek National Candidacy For Ohariu-Belmont
 ===============================================

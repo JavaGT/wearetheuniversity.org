@@ -1,9 +1,12 @@
 ---
 slug: tertiary-students-get-37-cents-a-day
-title: "Tertiary Students Get 37 Cents A Day"
-date: 2001-05-25
-source-url: https://www.scoop.co.nz/stories/PA0105/S00557/tertiary-students-get-37-cents-a-day.htm
+title: Tertiary Students Get 37 Cents A Day
+date: 2001-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00557/tertiary-students-get-37-cents-a-day.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/25/tertiary-students-get-37-cents-a-day/index.html
+layout: layout.njk
 ---
 Tertiary Students Get 37 Cents A Day
 ====================================

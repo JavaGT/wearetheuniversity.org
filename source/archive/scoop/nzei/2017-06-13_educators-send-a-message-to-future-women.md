@@ -1,9 +1,12 @@
 ---
 slug: educators-send-a-message-to-future-women
-title: "Educators send a message to future women"
-date: 2017-06-13
-source-url: https://www.scoop.co.nz/stories/ED1706/S00040/educators-send-a-message-to-future-women.htm
+title: Educators send a message to future women
+date: 2017-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00040/educators-send-a-message-to-future-women.htm
 author: nzei
+permalink: /archive/2017/06/13/educators-send-a-message-to-future-women/index.html
+layout: layout.njk
 ---
 Educators send a message to future women
 ========================================

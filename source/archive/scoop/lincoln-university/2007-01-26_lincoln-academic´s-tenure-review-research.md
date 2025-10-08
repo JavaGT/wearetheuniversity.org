@@ -1,9 +1,12 @@
 ---
 slug: lincoln-academic´s-tenure-review-research
-title: "Lincoln Academic´s Tenure Review  Research"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/ED0701/S00028/lincoln-academics-tenure-review-research.htm
+title: Lincoln Academic´s Tenure Review  Research
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00028/lincoln-academics-tenure-review-research.htm
 author: lincoln-university
+permalink: /archive/2007/01/26/lincoln-academic/index.html
+layout: layout.njk
 ---
 Lincoln Academic´s Tenure Review Research
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: major-mis-steps-in-future-footprint
-title: "Major mis-steps in Future Footprint"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00257/major-mis-steps-in-future-footprint.htm
+title: Major mis-steps in Future Footprint
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00257/major-mis-steps-in-future-footprint.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/18/major-mis-steps-in-future-footprint/index.html
+layout: layout.njk
 ---
 Major mis-steps in Future Footprint
 ===================================

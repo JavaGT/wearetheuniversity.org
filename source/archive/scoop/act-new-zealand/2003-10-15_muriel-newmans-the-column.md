@@ -1,9 +1,11 @@
 ---
 slug: muriel-newmans-the-column
-title: "Muriel Newman’s The Column"
-date: 2003-10-15
+title: Muriel Newman’s The Column
+date: 2003-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00361/muriel-newmans-the-column.htm
 author: act-new-zealand
+permalink: /archive/2003/10/15/muriel-newmans-the-column/index.html
+layout: layout.njk
 ---
 Muriel Newman’s The Column
 ==========================

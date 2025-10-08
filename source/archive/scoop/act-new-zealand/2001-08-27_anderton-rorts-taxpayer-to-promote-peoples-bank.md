@@ -1,9 +1,12 @@
 ---
 slug: anderton-rorts-taxpayer-to-promote-peoples-bank
-title: "Anderton Rorts Taxpayer to Promote 'People's Bank'"
-date: 2001-08-27
-source-url: https://www.scoop.co.nz/stories/PA0108/S00510/anderton-rorts-taxpayer-to-promote-peoples-bank.htm
+title: Anderton Rorts Taxpayer to Promote 'People's Bank'
+date: 2001-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00510/anderton-rorts-taxpayer-to-promote-peoples-bank.htm
 author: act-new-zealand
+permalink: /archive/2001/08/27/anderton-rorts-taxpayer-to-promote-peoples-bank/index.html
+layout: layout.njk
 ---
 Anderton Rorts Taxpayer to Promote 'People's Bank'
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: independent-taskforce-to-tackle-education-red-tape
-title: "Independent Taskforce to tackle education red tape"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/PA1402/S00038/independent-taskforce-to-tackle-education-red-tape.htm
+title: Independent Taskforce to tackle education red tape
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00038/independent-taskforce-to-tackle-education-red-tape.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/02/04/independent-taskforce-to-tackle-education-red-tape/index.html
+layout: layout.njk
 ---
 Independent Taskforce to tackle education red tape
 ==================================================

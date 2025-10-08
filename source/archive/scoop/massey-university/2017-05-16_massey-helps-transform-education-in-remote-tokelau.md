@@ -1,9 +1,13 @@
 ---
 slug: massey-helps-transform-education-in-remote-tokelau
-title: "Massey helps transform education in remote Tokelau"
-date: 2017-05-16
-source-url: https://www.scoop.co.nz/stories/ED1705/S00069/massey-helps-transform-education-in-remote-tokelau.htm
+title: Massey helps transform education in remote Tokelau
+date: 2017-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00069/massey-helps-transform-education-in-remote-tokelau.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/16/massey-helps-transform-education-in-remote-tokelau/index.html
+layout: layout.njk
 ---
 Massey helps transform education in remote Tokelau
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-should-implement-car-disposal-plan
-title: "Govt should implement car disposal plan"
-date: 2005-02-03
-source-url: https://www.scoop.co.nz/stories/PA0502/S00066/govt-should-implement-car-disposal-plan.htm
+title: Govt should implement car disposal plan
+date: 2005-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00066/govt-should-implement-car-disposal-plan.htm
 author: green-party
+permalink: /archive/2005/02/03/govt-should-implement-car-disposal-plan/index.html
+layout: layout.njk
 ---
 Govt should implement car disposal plan
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: cross-one-phd-with-three-mbas-and-what-happens
-title: "Cross one PhD with three MBAs and what happens?"
-date: 2006-07-11
-source-url: https://www.scoop.co.nz/stories/ED0607/S00022/cross-one-phd-with-three-mbas-and-what-happens.htm
+title: Cross one PhD with three MBAs and what happens?
+date: 2006-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00022/cross-one-phd-with-three-mbas-and-what-happens.htm
 author: aut-university
+permalink: /archive/2006/07/11/cross-one-phd-with-three-mbas-and-what-happens/index.html
+layout: layout.njk
 ---
 Cross one PhD with three MBAs and what happens?
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-denies-alzheimers-sufferers-treatment
-title: "Govt denies Alzheimers sufferers treatment"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/PA0403/S00308/govt-denies-alzheimers-sufferers-treatment.htm
+title: Govt denies Alzheimers sufferers treatment
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00308/govt-denies-alzheimers-sufferers-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/15/govt-denies-alzheimers-sufferers-treatment/index.html
+layout: layout.njk
 ---
 Govt denies Alzheimers sufferers treatment
 ==========================================

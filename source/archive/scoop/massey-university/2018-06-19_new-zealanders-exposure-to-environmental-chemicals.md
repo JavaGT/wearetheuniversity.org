@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-exposure-to-environmental-chemicals
-title: "New Zealanders’ exposure to environmental chemicals"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/GE1806/S00067/new-zealanders-exposure-to-environmental-chemicals.htm
+title: New Zealanders’ exposure to environmental chemicals
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00067/new-zealanders-exposure-to-environmental-chemicals.htm
 author: massey-university
+permalink: >-
+  /archive/2018/06/19/new-zealanders-exposure-to-environmental-chemicals/index.html
+layout: layout.njk
 ---
 New Zealanders’ exposure to environmental chemicals
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: action-needed-over-coast-water-quality
-title: "Action needed over Coast water quality"
-date: 2008-07-29
-source-url: https://www.scoop.co.nz/stories/PA0807/S00522/action-needed-over-coast-water-quality.htm
+title: Action needed over Coast water quality
+date: 2008-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00522/action-needed-over-coast-water-quality.htm
 author: green-party
+permalink: /archive/2008/07/29/action-needed-over-coast-water-quality/index.html
+layout: layout.njk
 ---
 Action needed over Coast water quality
 ======================================

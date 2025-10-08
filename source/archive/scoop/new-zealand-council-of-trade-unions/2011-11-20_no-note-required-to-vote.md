@@ -1,9 +1,11 @@
 ---
 slug: no-note-required-to-vote
-title: "No note required to vote"
-date: 2011-11-20
+title: No note required to vote
+date: 2011-11-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00520/no-note-required-to-vote.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/11/20/no-note-required-to-vote/index.html
+layout: layout.njk
 ---
 No note required to vote
 ========================

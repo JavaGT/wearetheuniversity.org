@@ -1,9 +1,12 @@
 ---
 slug: nz-trial-shows-value-of-new-heart-failure-test
-title: "NZ Trial Shows Value of New Heart Failure Test"
-date: 2002-10-22
-source-url: https://www.scoop.co.nz/stories/SC0210/S00046/nz-trial-shows-value-of-new-heart-failure-test.htm
+title: NZ Trial Shows Value of New Heart Failure Test
+date: 2002-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0210/S00046/nz-trial-shows-value-of-new-heart-failure-test.htm
 author: auckland-university
+permalink: /archive/2002/10/22/nz-trial-shows-value-of-new-heart-failure-test/index.html
+layout: layout.njk
 ---
 NZ Trial Shows Value of New Heart Failure Test
 ==============================================

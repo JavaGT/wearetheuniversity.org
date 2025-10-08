@@ -1,9 +1,13 @@
 ---
 slug: robotic-planes-flying-out-of-new-research-centre
-title: "Robotic planes flying out of new research centre"
-date: 2007-04-04
-source-url: https://www.scoop.co.nz/stories/SC0704/S00013/robotic-planes-flying-out-of-new-research-centre.htm
+title: Robotic planes flying out of new research centre
+date: 2007-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0704/S00013/robotic-planes-flying-out-of-new-research-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2007/04/04/robotic-planes-flying-out-of-new-research-centre/index.html
+layout: layout.njk
 ---
 Robotic planes flying out of new research centre
 ================================================

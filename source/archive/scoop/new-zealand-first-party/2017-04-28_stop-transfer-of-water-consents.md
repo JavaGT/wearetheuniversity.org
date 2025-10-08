@@ -1,9 +1,12 @@
 ---
 slug: stop-transfer-of-water-consents
-title: "Stop transfer of water consents"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/PA1704/S00347/stop-transfer-of-water-consents.htm
+title: Stop transfer of water consents
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00347/stop-transfer-of-water-consents.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/28/stop-transfer-of-water-consents/index.html
+layout: layout.njk
 ---
 Stop transfer of water consents
 ===============================

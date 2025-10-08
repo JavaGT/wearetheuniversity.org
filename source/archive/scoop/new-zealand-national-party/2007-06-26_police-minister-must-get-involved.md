@@ -1,9 +1,12 @@
 ---
 slug: police-minister-must-get-involved
-title: "Police Minister must get involved"
-date: 2007-06-26
-source-url: https://www.scoop.co.nz/stories/PA0706/S00505/police-minister-must-get-involved.htm
+title: Police Minister must get involved
+date: 2007-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00505/police-minister-must-get-involved.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/26/police-minister-must-get-involved/index.html
+layout: layout.njk
 ---
 Police Minister must get involved
 =================================

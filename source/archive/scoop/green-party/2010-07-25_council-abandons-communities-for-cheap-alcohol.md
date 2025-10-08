@@ -1,9 +1,12 @@
 ---
 slug: council-abandons-communities-for-cheap-alcohol
-title: "Council Abandons Communities For Cheap Alcohol"
-date: 2010-07-25
-source-url: https://www.scoop.co.nz/stories/PA1007/S00390/council-abandons-communities-for-cheap-alcohol.htm
+title: Council Abandons Communities For Cheap Alcohol
+date: 2010-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00390/council-abandons-communities-for-cheap-alcohol.htm
 author: green-party
+permalink: /archive/2010/07/25/council-abandons-communities-for-cheap-alcohol/index.html
+layout: layout.njk
 ---
 Council Abandons Communities For Cheap Alcohol
 ==============================================

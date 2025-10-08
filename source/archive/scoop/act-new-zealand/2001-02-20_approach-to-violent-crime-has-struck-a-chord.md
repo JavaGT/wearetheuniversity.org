@@ -1,9 +1,12 @@
 ---
 slug: approach-to-violent-crime-has-struck-a-chord
-title: "Approach to Violent Crime has Struck a Chord"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00303/approach-to-violent-crime-has-struck-a-chord.htm
+title: Approach to Violent Crime has Struck a Chord
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00303/approach-to-violent-crime-has-struck-a-chord.htm
 author: act-new-zealand
+permalink: /archive/2001/02/20/approach-to-violent-crime-has-struck-a-chord/index.html
+layout: layout.njk
 ---
 Approach to Violent Crime has Struck a Chord
 ============================================

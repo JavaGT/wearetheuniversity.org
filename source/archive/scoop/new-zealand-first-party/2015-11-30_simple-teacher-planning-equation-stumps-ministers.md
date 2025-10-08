@@ -1,9 +1,13 @@
 ---
 slug: simple-teacher-planning-equation-stumps-ministers
-title: "Simple Teacher Planning Equation Stumps Ministers"
-date: 2015-11-30
-source-url: https://www.scoop.co.nz/stories/PA1511/S00555/simple-teacher-planning-equation-stumps-ministers.htm
+title: Simple Teacher Planning Equation Stumps Ministers
+date: 2015-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00555/simple-teacher-planning-equation-stumps-ministers.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/30/simple-teacher-planning-equation-stumps-ministers/index.html
+layout: layout.njk
 ---
 Simple Teacher Planning Equation Stumps Ministers
 =================================================

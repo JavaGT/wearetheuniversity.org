@@ -1,9 +1,13 @@
 ---
 slug: students-association-congress-concludes-in-wellington
-title: "Students' Association Congress concludes in Wellington"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00053/students-association-congress-concludes-in-wellington.htm
+title: Students' Association Congress concludes in Wellington
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00053/students-association-congress-concludes-in-wellington.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/08/students-association-congress-concludes-in-wellington/index.html
+layout: layout.njk
 ---
 Students' Association Congress concludes in Wellington
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: key-national-valuing-families
-title: "Key - National: Valuing Families"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/PA0809/S00173/key-national-valuing-families.htm
+title: 'Key - National: Valuing Families'
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00173/key-national-valuing-families.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/08/key-national-valuing-families/index.html
+layout: layout.njk
 ---
 Key - National: Valuing Families
 ================================

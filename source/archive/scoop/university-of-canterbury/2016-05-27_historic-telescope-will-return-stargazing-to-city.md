@@ -1,9 +1,13 @@
 ---
 slug: historic-telescope-will-return-stargazing-to-city
-title: "Historic telescope will return stargazing to city"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/AK1605/S00898/historic-telescope-will-return-stargazing-to-city.htm
+title: Historic telescope will return stargazing to city
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00898/historic-telescope-will-return-stargazing-to-city.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/27/historic-telescope-will-return-stargazing-to-city/index.html
+layout: layout.njk
 ---
 Historic telescope will return stargazing to city
 =================================================

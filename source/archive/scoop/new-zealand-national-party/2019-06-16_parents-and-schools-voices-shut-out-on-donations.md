@@ -1,9 +1,13 @@
 ---
 slug: parents-and-schools-voices-shut-out-on-donations
-title: "Parents and schools voices shut out on donations"
-date: 2019-06-16
-source-url: https://www.scoop.co.nz/stories/PA1906/S00136/parents-and-schools-voices-shut-out-on-donations.htm
+title: Parents and schools voices shut out on donations
+date: 2019-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00136/parents-and-schools-voices-shut-out-on-donations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/06/16/parents-and-schools-voices-shut-out-on-donations/index.html
+layout: layout.njk
 ---
 Parents and schools voices shut out on donations
 ================================================

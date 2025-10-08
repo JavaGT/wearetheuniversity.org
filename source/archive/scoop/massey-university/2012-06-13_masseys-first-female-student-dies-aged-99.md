@@ -1,9 +1,12 @@
 ---
 slug: masseys-first-female-student-dies-aged-99
-title: "Massey's first female student dies aged 99"
-date: 2012-06-13
-source-url: https://www.scoop.co.nz/stories/ED1206/S00054/masseys-first-female-student-dies-aged-99.htm
+title: Massey's first female student dies aged 99
+date: 2012-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00054/masseys-first-female-student-dies-aged-99.htm
 author: massey-university
+permalink: /archive/2012/06/13/masseys-first-female-student-dies-aged-99/index.html
+layout: layout.njk
 ---
 Massey's first female student dies aged 99
 ==========================================

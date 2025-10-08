@@ -1,9 +1,12 @@
 ---
 slug: new-knowledge-about-deadly-cancer
-title: "New knowledge about deadly cancer"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/SC1305/S00093/new-knowledge-about-deadly-cancer.htm
+title: New knowledge about deadly cancer
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00093/new-knowledge-about-deadly-cancer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/31/new-knowledge-about-deadly-cancer/index.html
+layout: layout.njk
 ---
 New knowledge about deadly cancer
 =================================

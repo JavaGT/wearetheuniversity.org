@@ -1,9 +1,12 @@
 ---
 slug: voluntary-victories-a-huge-defeat-for-nzusa-&-atsa
-title: "Voluntary Victories A Huge Defeat For NZUSA & ATSA"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00085/voluntary-victories-a-huge-defeat-for-nzusa-atsa.htm
+title: Voluntary Victories A Huge Defeat For NZUSA & ATSA
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00085/voluntary-victories-a-huge-defeat-for-nzusa-atsa.htm
 author: student-choice
+permalink: /archive/2003/09/22/voluntary-victories-a-huge-defeat-for-nzusa-/index.html
+layout: layout.njk
 ---
 Voluntary Victories A Huge Defeat For NZUSA & ATSA
 ==================================================

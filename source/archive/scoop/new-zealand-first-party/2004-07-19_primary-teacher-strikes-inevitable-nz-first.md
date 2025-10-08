@@ -1,9 +1,12 @@
 ---
 slug: primary-teacher-strikes-inevitable-nz-first
-title: "Primary Teacher Strikes Inevitable –NZ First"
-date: 2004-07-19
-source-url: https://www.scoop.co.nz/stories/PA0407/S00303/primary-teacher-strikes-inevitable-nz-first.htm
+title: Primary Teacher Strikes Inevitable –NZ First
+date: 2004-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00303/primary-teacher-strikes-inevitable-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/19/primary-teacher-strikes-inevitable-nz-first/index.html
+layout: layout.njk
 ---
 Primary Teacher Strikes Inevitable –NZ First
 ============================================

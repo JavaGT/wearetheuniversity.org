@@ -1,9 +1,12 @@
 ---
 slug: treating-high-risk-violent-offenders
-title: "Treating high-risk, violent offenders"
-date: 2009-05-19
-source-url: https://www.scoop.co.nz/stories/ED0905/S00079/treating-high-risk-violent-offenders.htm
+title: Treating high-risk, violent offenders
+date: 2009-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00079/treating-high-risk-violent-offenders.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/05/19/treating-high-risk-violent-offenders/index.html
+layout: layout.njk
 ---
 Treating high-risk, violent offenders
 =====================================

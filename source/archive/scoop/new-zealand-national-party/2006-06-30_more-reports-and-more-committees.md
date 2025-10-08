@@ -1,9 +1,12 @@
 ---
 slug: more-reports-and-more-committees
-title: "More reports and more committees"
-date: 2006-06-30
-source-url: https://www.scoop.co.nz/stories/PA0606/S00614/more-reports-and-more-committees.htm
+title: More reports and more committees
+date: 2006-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00614/more-reports-and-more-committees.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/30/more-reports-and-more-committees/index.html
+layout: layout.njk
 ---
 More reports and more committees
 ================================

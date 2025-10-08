@@ -1,9 +1,13 @@
 ---
 slug: recreating-christmas-carols-from-alan-turings-computer
-title: "Recreating Christmas Carols from Alan Turing's Computer"
-date: 2017-12-18
-source-url: https://www.scoop.co.nz/stories/CU1712/S00260/recreating-christmas-carols-from-alan-turings-computer.htm
+title: Recreating Christmas Carols from Alan Turing's Computer
+date: 2017-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00260/recreating-christmas-carols-from-alan-turings-computer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/18/recreating-christmas-carols-from-alan-turings-computer/index.html
+layout: layout.njk
 ---
 Recreating Christmas Carols from Alan Turing's Computer
 =======================================================

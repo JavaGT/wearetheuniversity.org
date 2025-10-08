@@ -1,9 +1,13 @@
 ---
 slug: immigration-new-zealand-must-investigate-hypocritical-labour
-title: "Immigration New Zealand must investigate hypocritical Labour"
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/PA1706/S00359/immigration-new-zealand-must-investigate-hypocritical-labour.htm
+title: Immigration New Zealand must investigate hypocritical Labour
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00359/immigration-new-zealand-must-investigate-hypocritical-labour.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/06/22/immigration-new-zealand-must-investigate-hypocritical-labour/index.html
+layout: layout.njk
 ---
 Immigration New Zealand must investigate hypocritical Labour
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: where-is-labours-vision
-title: "Where Is Labour’s Vision?"
-date: 2023-05-27
+title: Where Is Labour’s Vision?
+date: 2023-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2305/S00206/where-is-labours-vision.htm
 author: act-new-zealand
+permalink: /archive/2023/05/27/where-is-labours-vision/index.html
+layout: layout.njk
 ---
 Where Is Labour’s Vision?
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: governments-education-work-programme-welcomed
-title: "Governments education work programme welcomed"
-date: 2018-02-21
-source-url: https://www.scoop.co.nz/stories/ED1802/S00051/governments-education-work-programme-welcomed.htm
+title: Governments education work programme welcomed
+date: 2018-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00051/governments-education-work-programme-welcomed.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2018/02/21/governments-education-work-programme-welcomed/index.html
+layout: layout.njk
 ---
 Governments education work programme welcomed
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: better-on-dole-doing-art-than-gutting-hoki
-title: "Better on dole doing art than gutting hoki"
-date: 2005-09-10
-source-url: https://www.scoop.co.nz/stories/PA0509/S00259/better-on-dole-doing-art-than-gutting-hoki.htm
+title: Better on dole doing art than gutting hoki
+date: 2005-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00259/better-on-dole-doing-art-than-gutting-hoki.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/10/better-on-dole-doing-art-than-gutting-hoki/index.html
+layout: layout.njk
 ---
 Better on dole doing art than gutting hoki
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-tinkers-in-face-of-housing-crisis
-title: "Government tinkers in face of housing crisis"
-date: 2012-10-28
-source-url: https://www.scoop.co.nz/stories/PA1210/S00471/government-tinkers-in-face-of-housing-crisis.htm
+title: Government tinkers in face of housing crisis
+date: 2012-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00471/government-tinkers-in-face-of-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/28/government-tinkers-in-face-of-housing-crisis/index.html
+layout: layout.njk
 ---
 Government tinkers in face of housing crisis
 ============================================

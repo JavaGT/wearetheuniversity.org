@@ -1,9 +1,12 @@
 ---
 slug: kiwis-say-no-to-lower-speed-limits
-title: "Kiwis Say No To Lower Speed Limits"
-date: 2022-11-05
-source-url: https://www.scoop.co.nz/stories/PA2211/S00037/kiwis-say-no-to-lower-speed-limits.htm
+title: Kiwis Say No To Lower Speed Limits
+date: 2022-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00037/kiwis-say-no-to-lower-speed-limits.htm
 author: act-new-zealand
+permalink: /archive/2022/11/05/kiwis-say-no-to-lower-speed-limits/index.html
+layout: layout.njk
 ---
 Kiwis Say No To Lower Speed Limits
 ==================================

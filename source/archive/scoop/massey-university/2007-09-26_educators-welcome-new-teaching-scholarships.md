@@ -1,9 +1,12 @@
 ---
 slug: educators-welcome-new-teaching-scholarships
-title: "Educators welcome new teaching scholarships"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/ED0709/S00085/educators-welcome-new-teaching-scholarships.htm
+title: Educators welcome new teaching scholarships
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00085/educators-welcome-new-teaching-scholarships.htm
 author: massey-university
+permalink: /archive/2007/09/26/educators-welcome-new-teaching-scholarships/index.html
+layout: layout.njk
 ---
 Educators welcome new teaching scholarships
 ===========================================

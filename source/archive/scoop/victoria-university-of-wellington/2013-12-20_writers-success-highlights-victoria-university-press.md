@@ -1,7 +1,11 @@
 ---
 slug: writers-success-highlights-victoria-university-press
-title: "Writer’s success highlights Victoria University Press"
-date: 2013-12-20
-source-url: https://www.scoop.co.nz/stories/CU1312/S00391/writers-success-highlights-victoria-university-press.htm
+title: Writer’s success highlights Victoria University Press
+date: 2013-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00391/writers-success-highlights-victoria-university-press.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/12/20/writers-success-highlights-victoria-university-press/index.html
+layout: layout.njk
 ---

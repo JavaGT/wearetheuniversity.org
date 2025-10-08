@@ -1,9 +1,12 @@
 ---
 slug: potential-fee-rises-concern-students
-title: "Potential Fee rises concern students"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/ED0909/S00122/potential-fee-rises-concern-students.htm
+title: Potential Fee rises concern students
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00122/potential-fee-rises-concern-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/09/30/potential-fee-rises-concern-students/index.html
+layout: layout.njk
 ---
 Potential Fee rises concern students
 ====================================

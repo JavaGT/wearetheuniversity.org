@@ -1,9 +1,12 @@
 ---
 slug: aut-adventurer-to-continue-sir-peters-work
-title: "AUT adventurer to continue Sir Peter’s work"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/ED0309/S00063/aut-adventurer-to-continue-sir-peters-work.htm
+title: AUT adventurer to continue Sir Peter’s work
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00063/aut-adventurer-to-continue-sir-peters-work.htm
 author: aut-university
+permalink: /archive/2003/09/15/aut-adventurer-to-continue-sir-peters-work/index.html
+layout: layout.njk
 ---
 AUT adventurer to continue Sir Peter’s work
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: ka-pai-to-the-mainstream-new-zealanders
-title: "Ka pai to the \"mainstream\" New Zealanders"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00419/ka-pai-to-the-mainstream-new-zealanders.htm
+title: Ka pai to the "mainstream" New Zealanders
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00419/ka-pai-to-the-mainstream-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/15/ka-pai-to-the-mainstream-new-zealanders/index.html
+layout: layout.njk
 ---
 Ka pai to the "mainstream" New Zealanders
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: shaw-flips-the-bird-at-farmers
-title: "Shaw Flips The Bird At Farmers"
-date: 2022-04-14
-source-url: https://www.scoop.co.nz/stories/PA2204/S00117/shaw-flips-the-bird-at-farmers.htm
+title: Shaw Flips The Bird At Farmers
+date: 2022-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00117/shaw-flips-the-bird-at-farmers.htm
 author: act-new-zealand
+permalink: /archive/2022/04/14/shaw-flips-the-bird-at-farmers/index.html
+layout: layout.njk
 ---
 Shaw Flips The Bird At Farmers
 ==============================

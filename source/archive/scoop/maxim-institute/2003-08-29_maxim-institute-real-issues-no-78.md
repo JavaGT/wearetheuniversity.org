@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-78
-title: "Maxim Institute - real issues - No. 78"
-date: 2003-08-29
-source-url: https://www.scoop.co.nz/stories/PO0308/S00153/maxim-institute-real-issues-no-78.htm
+title: Maxim Institute - real issues - No. 78
+date: 2003-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0308/S00153/maxim-institute-real-issues-no-78.htm
 author: maxim-institute
+permalink: /archive/2003/08/29/maxim-institute-real-issues-no-78/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 78
 ======================================

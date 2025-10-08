@@ -1,9 +1,13 @@
 ---
 slug: former-governor-general-appointed-to-aut-council
-title: "Former Governor General appointed to AUT Council"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/ED0412/S00022/former-governor-general-appointed-to-aut-council.htm
+title: Former Governor General appointed to AUT Council
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00022/former-governor-general-appointed-to-aut-council.htm
 author: aut-university
+permalink: >-
+  /archive/2004/12/06/former-governor-general-appointed-to-aut-council/index.html
+layout: layout.njk
 ---
 Former Governor General appointed to AUT Council
 ================================================

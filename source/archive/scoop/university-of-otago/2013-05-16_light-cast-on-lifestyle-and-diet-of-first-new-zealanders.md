@@ -1,9 +1,13 @@
 ---
 slug: light-cast-on-lifestyle-and-diet-of-first-new-zealanders
-title: "Light cast on lifestyle and diet of first New Zealanders"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/SC1305/S00055/light-cast-on-lifestyle-and-diet-of-first-new-zealanders.htm
+title: Light cast on lifestyle and diet of first New Zealanders
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00055/light-cast-on-lifestyle-and-diet-of-first-new-zealanders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/16/light-cast-on-lifestyle-and-diet-of-first-new-zealanders/index.html
+layout: layout.njk
 ---
 Light cast on lifestyle and diet of first New Zealanders
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-research-science-&-technology-policy
-title: "National Research, Science & Technology policy"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/PA0809/S00550/national-research-science-technology-policy.htm
+title: National Research, Science & Technology policy
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00550/national-research-science-technology-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/25/national-research-science-/index.html
+layout: layout.njk
 ---
 National Research, Science & Technology policy
 ==============================================

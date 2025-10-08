@@ -1,9 +1,12 @@
 ---
 slug: resource-management-amendment-bill
-title: "Resource Management Amendment Bill"
-date: 2000-11-23
-source-url: https://www.scoop.co.nz/stories/PA0011/S00409/resource-management-amendment-bill.htm
+title: Resource Management Amendment Bill
+date: 2000-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00409/resource-management-amendment-bill.htm
 author: act-new-zealand
+permalink: /archive/2000/11/23/resource-management-amendment-bill/index.html
+layout: layout.njk
 ---
 Resource Management Amendment Bill
 ==================================

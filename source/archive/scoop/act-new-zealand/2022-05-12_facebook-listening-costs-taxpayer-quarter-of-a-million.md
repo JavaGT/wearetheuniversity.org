@@ -1,9 +1,13 @@
 ---
 slug: facebook-listening-costs-taxpayer-quarter-of-a-million
-title: "Facebook ‘Listening’ Costs Taxpayer Quarter Of A Million"
-date: 2022-05-12
-source-url: https://www.scoop.co.nz/stories/PA2205/S00114/facebook-listening-costs-taxpayer-quarter-of-a-million.htm
+title: Facebook ‘Listening’ Costs Taxpayer Quarter Of A Million
+date: 2022-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00114/facebook-listening-costs-taxpayer-quarter-of-a-million.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/05/12/facebook-listening-costs-taxpayer-quarter-of-a-million/index.html
+layout: layout.njk
 ---
 Facebook ‘Listening’ Costs Taxpayer Quarter Of A Million
 ========================================================

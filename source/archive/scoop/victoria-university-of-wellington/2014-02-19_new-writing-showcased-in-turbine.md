@@ -1,9 +1,12 @@
 ---
 slug: new-writing-showcased-in-turbine
-title: "New writing showcased in Turbine"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/CU1402/S00354/new-writing-showcased-in-turbine.htm
+title: New writing showcased in Turbine
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00354/new-writing-showcased-in-turbine.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/19/new-writing-showcased-in-turbine/index.html
+layout: layout.njk
 ---
 New writing showcased in Turbine
 ================================

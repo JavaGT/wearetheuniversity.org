@@ -1,9 +1,12 @@
 ---
 slug: increased-demand-for-health-protection-officers
-title: "Increased Demand For Health Protection Officers"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/ED0710/S00004/increased-demand-for-health-protection-officers.htm
+title: Increased Demand For Health Protection Officers
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00004/increased-demand-for-health-protection-officers.htm
 author: massey-university
+permalink: /archive/2007/10/01/increased-demand-for-health-protection-officers/index.html
+layout: layout.njk
 ---
 Increased Demand For Health Protection Officers
 ===============================================

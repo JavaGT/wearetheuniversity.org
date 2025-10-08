@@ -1,9 +1,13 @@
 ---
 slug: organics-study-highlights-huge-ge-free-advantage
-title: "Organics Study Highlights Huge GE-Free Advantage"
-date: 2002-06-28
-source-url: https://www.scoop.co.nz/stories/PA0206/S00544/organics-study-highlights-huge-ge-free-advantage.htm
+title: Organics Study Highlights Huge GE-Free Advantage
+date: 2002-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00544/organics-study-highlights-huge-ge-free-advantage.htm
 author: green-party
+permalink: >-
+  /archive/2002/06/28/organics-study-highlights-huge-ge-free-advantage/index.html
+layout: layout.njk
 ---
 Organics Study Highlights Huge GE-Free Advantage
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: int-education-package-all-spin-no-substance
-title: "Int Education Package: All Spin, No Substance"
-date: 2004-05-11
-source-url: https://www.scoop.co.nz/stories/PA0405/S00189/int-education-package-all-spin-no-substance.htm
+title: 'Int Education Package: All Spin, No Substance'
+date: 2004-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00189/int-education-package-all-spin-no-substance.htm
 author: act-new-zealand
+permalink: /archive/2004/05/11/int-education-package-all-spin-no-substance/index.html
+layout: layout.njk
 ---
 Int Education Package: All Spin, No Substance
 =============================================

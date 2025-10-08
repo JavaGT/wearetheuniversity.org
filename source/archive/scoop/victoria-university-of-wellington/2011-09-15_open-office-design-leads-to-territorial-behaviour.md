@@ -1,9 +1,13 @@
 ---
 slug: open-office-design-leads-to-territorial-behaviour
-title: "Open office design leads to territorial behaviour"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/BU1109/S00455/open-office-design-leads-to-territorial-behaviour.htm
+title: Open office design leads to territorial behaviour
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00455/open-office-design-leads-to-territorial-behaviour.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/15/open-office-design-leads-to-territorial-behaviour/index.html
+layout: layout.njk
 ---
 Open office design leads to territorial behaviour
 =================================================

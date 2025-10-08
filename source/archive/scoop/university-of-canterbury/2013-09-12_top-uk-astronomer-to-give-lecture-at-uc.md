@@ -1,9 +1,12 @@
 ---
 slug: top-uk-astronomer-to-give-lecture-at-uc
-title: "Top UK astronomer to give lecture at UC"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/SC1309/S00033/top-uk-astronomer-to-give-lecture-at-uc.htm
+title: Top UK astronomer to give lecture at UC
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00033/top-uk-astronomer-to-give-lecture-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/12/top-uk-astronomer-to-give-lecture-at-uc/index.html
+layout: layout.njk
 ---
 Top UK astronomer to give lecture at UC
 =======================================

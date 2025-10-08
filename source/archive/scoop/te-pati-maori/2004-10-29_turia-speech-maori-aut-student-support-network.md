@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-maori-aut-student-support-network
-title: "Turia Speech: Maori AUT Student Support Network"
-date: 2004-10-29
-source-url: https://www.scoop.co.nz/stories/PA0410/S00509/turia-speech-maori-aut-student-support-network.htm
+title: 'Turia Speech: Maori AUT Student Support Network'
+date: 2004-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00509/turia-speech-maori-aut-student-support-network.htm
 author: te-pati-maori
+permalink: /archive/2004/10/29/turia-speech-maori-aut-student-support-network/index.html
+layout: layout.njk
 ---
 Turia Speech: Maori AUT Student Support Network
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-decline-of-the-u-s-empire-where-is-it-taking-us-all
-title: "The Decline Of The U.S. Empire: Where Is It Taking Us All?"
-date: 2024-09-30
-source-url: https://www.scoop.co.nz/stories/WO2409/S00236/the-decline-of-the-us-empire-where-is-it-taking-us-all.htm
+title: 'The Decline Of The U.S. Empire: Where Is It Taking Us All?'
+date: 2024-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2409/S00236/the-decline-of-the-us-empire-where-is-it-taking-us-all.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/09/30/the-decline-of-the-u-s-empire-where-is-it-taking-us-all/index.html
+layout: layout.njk
 ---
 The Decline Of The U.S. Empire: Where Is It Taking Us All?
 ==========================================================

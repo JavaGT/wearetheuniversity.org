@@ -1,9 +1,11 @@
 ---
 slug: prison-beds-cost-$650000-each
-title: "Prison beds cost $650,000 each"
-date: 2006-01-19
+title: Prison beds cost $650,000 each
+date: 2006-01-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0601/S00067/prison-beds-cost-650000-each.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/19/prison-beds-cost-/index.html
+layout: layout.njk
 ---
 Prison beds cost $650,000 each
 ==============================

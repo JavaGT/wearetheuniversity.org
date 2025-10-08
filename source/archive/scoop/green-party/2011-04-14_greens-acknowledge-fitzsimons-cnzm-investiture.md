@@ -1,9 +1,12 @@
 ---
 slug: greens-acknowledge-fitzsimons-cnzm-investiture
-title: "Greens acknowledge Fitzsimons CNZM investiture"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00315/greens-acknowledge-fitzsimons-cnzm-investiture.htm
+title: Greens acknowledge Fitzsimons CNZM investiture
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00315/greens-acknowledge-fitzsimons-cnzm-investiture.htm
 author: green-party
+permalink: /archive/2011/04/14/greens-acknowledge-fitzsimons-cnzm-investiture/index.html
+layout: layout.njk
 ---
 Greens acknowledge Fitzsimons CNZM investiture
 ==============================================

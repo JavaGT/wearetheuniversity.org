@@ -1,9 +1,12 @@
 ---
 slug: otago-research-enhances-crime-investigation
-title: "Otago research enhances crime investigation"
-date: 2010-06-17
-source-url: https://www.scoop.co.nz/stories/ED1006/S00060/otago-research-enhances-crime-investigation.htm
+title: Otago research enhances crime investigation
+date: 2010-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00060/otago-research-enhances-crime-investigation.htm
 author: university-of-otago
+permalink: /archive/2010/06/17/otago-research-enhances-crime-investigation/index.html
+layout: layout.njk
 ---
 Otago research enhances crime investigation
 ===========================================

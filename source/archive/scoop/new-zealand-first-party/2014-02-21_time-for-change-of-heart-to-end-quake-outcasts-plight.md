@@ -1,9 +1,13 @@
 ---
 slug: time-for-change-of-heart-to-end-quake-outcasts-plight
-title: "Time for Change of Heart to End Quake Outcasts Plight"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/PA1402/S00308/time-for-change-of-heart-to-end-quake-outcasts-plight.htm
+title: Time for Change of Heart to End Quake Outcasts Plight
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00308/time-for-change-of-heart-to-end-quake-outcasts-plight.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/02/21/time-for-change-of-heart-to-end-quake-outcasts-plight/index.html
+layout: layout.njk
 ---
 Time for Change of Heart to End Quake Outcasts Plight
 =====================================================

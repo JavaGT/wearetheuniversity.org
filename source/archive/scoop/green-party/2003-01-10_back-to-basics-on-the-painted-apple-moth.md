@@ -1,9 +1,12 @@
 ---
 slug: back-to-basics-on-the-painted-apple-moth
-title: "Back to basics on the painted apple moth"
-date: 2003-01-10
-source-url: https://www.scoop.co.nz/stories/PA0301/S00048/back-to-basics-on-the-painted-apple-moth.htm
+title: Back to basics on the painted apple moth
+date: 2003-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00048/back-to-basics-on-the-painted-apple-moth.htm
 author: green-party
+permalink: /archive/2003/01/10/back-to-basics-on-the-painted-apple-moth/index.html
+layout: layout.njk
 ---
 Back to basics on the painted apple moth
 ========================================

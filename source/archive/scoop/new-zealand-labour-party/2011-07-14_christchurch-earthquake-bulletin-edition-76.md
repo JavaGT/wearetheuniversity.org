@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-76
-title: "Christchurch Earthquake bulletin edition 76"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/PA1107/S00240/christchurch-earthquake-bulletin-edition-76.htm
+title: Christchurch Earthquake bulletin edition 76
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00240/christchurch-earthquake-bulletin-edition-76.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/14/christchurch-earthquake-bulletin-edition-76/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition 76
 ===========================================

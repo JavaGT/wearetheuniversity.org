@@ -1,9 +1,12 @@
 ---
 slug: lost-memoirs-throw-new-light-on-chinese-history
-title: "Lost memoirs throw new light on Chinese history"
-date: 2010-06-18
-source-url: https://www.scoop.co.nz/stories/ED1006/S00067/lost-memoirs-throw-new-light-on-chinese-history.htm
+title: Lost memoirs throw new light on Chinese history
+date: 2010-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00067/lost-memoirs-throw-new-light-on-chinese-history.htm
 author: university-of-canterbury
+permalink: /archive/2010/06/18/lost-memoirs-throw-new-light-on-chinese-history/index.html
+layout: layout.njk
 ---
 Lost memoirs throw new light on Chinese history
 ===============================================

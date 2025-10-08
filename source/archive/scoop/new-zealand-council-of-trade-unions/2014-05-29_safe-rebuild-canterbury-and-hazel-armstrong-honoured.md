@@ -1,9 +1,13 @@
 ---
 slug: safe-rebuild-canterbury-and-hazel-armstrong-honoured
-title: "Safe Rebuild Canterbury and Hazel Armstrong honoured"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/BU1405/S01104/safe-rebuild-canterbury-and-hazel-armstrong-honoured.htm
+title: Safe Rebuild Canterbury and Hazel Armstrong honoured
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S01104/safe-rebuild-canterbury-and-hazel-armstrong-honoured.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/05/29/safe-rebuild-canterbury-and-hazel-armstrong-honoured/index.html
+layout: layout.njk
 ---
 Safe Rebuild Canterbury and Hazel Armstrong honoured
 ====================================================

@@ -1,8 +1,11 @@
 ---
 slug: actually-it-is-rocket-science
-title: "Actually, it is rocket science"
-date: 2016-08-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/actually-it-is-rocket-science.html
+title: Actually, it is rocket science
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/actually-it-is-rocket-science.html
+permalink: /archive/2016/08/22/actually-it-is-rocket-science/index.html
+layout: layout.njk
 ---
 Actually, it is rocket science
 ==============================

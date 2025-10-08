@@ -1,9 +1,13 @@
 ---
 slug: first-international-students-conference-at-weekend
-title: "First International Students Conference At Weekend"
-date: 2004-08-16
-source-url: https://www.scoop.co.nz/stories/ED0408/S00071/first-international-students-conference-at-weekend.htm
+title: First International Students Conference At Weekend
+date: 2004-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00071/first-international-students-conference-at-weekend.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2004/08/16/first-international-students-conference-at-weekend/index.html
+layout: layout.njk
 ---
 First International Students Conference At Weekend
 ==================================================

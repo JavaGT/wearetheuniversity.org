@@ -1,9 +1,13 @@
 ---
 slug: nationals-infrastructure-plan-irresponsible-short-sighted
-title: "National's infrastructure plan irresponsible, short-sighted"
-date: 2016-10-21
-source-url: https://www.scoop.co.nz/stories/PA1610/S00354/nationals-infrastructure-plan-irresponsible-short-sighted.htm
+title: National's infrastructure plan irresponsible, short-sighted
+date: 2016-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00354/nationals-infrastructure-plan-irresponsible-short-sighted.htm
 author: green-party
+permalink: >-
+  /archive/2016/10/21/nationals-infrastructure-plan-irresponsible-short-sighted/index.html
+layout: layout.njk
 ---
 National's infrastructure plan irresponsible, short-sighted
 ===========================================================

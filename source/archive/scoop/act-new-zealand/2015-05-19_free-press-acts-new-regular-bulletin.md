@@ -1,9 +1,12 @@
 ---
 slug: free-press-acts-new-regular-bulletin
-title: "Free Press: ACT’s new regular bulletin"
-date: 2015-05-19
-source-url: https://www.scoop.co.nz/stories/PO1505/S00200/free-press-acts-new-regular-bulletin.htm
+title: 'Free Press: ACT’s new regular bulletin'
+date: 2015-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00200/free-press-acts-new-regular-bulletin.htm
 author: act-new-zealand
+permalink: /archive/2015/05/19/free-press-acts-new-regular-bulletin/index.html
+layout: layout.njk
 ---
 Free Press: ACT’s new regular bulletin
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: welfare-debt-a-bigger-target-than-unpaid-tax
-title: "Welfare debt a bigger target than unpaid tax"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/BU1308/S00431/welfare-debt-a-bigger-target-than-unpaid-tax.htm
+title: Welfare debt a bigger target than unpaid tax
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00431/welfare-debt-a-bigger-target-than-unpaid-tax.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/13/welfare-debt-a-bigger-target-than-unpaid-tax/index.html
+layout: layout.njk
 ---
 Welfare debt a bigger target than unpaid tax
 ============================================

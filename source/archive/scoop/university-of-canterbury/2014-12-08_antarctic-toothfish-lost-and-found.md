@@ -1,9 +1,12 @@
 ---
 slug: antarctic-toothfish-lost-and-found
-title: "Antarctic toothfish, lost – and found"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/SC1412/S00029/antarctic-toothfish-lost-and-found.htm
+title: Antarctic toothfish, lost – and found
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00029/antarctic-toothfish-lost-and-found.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/08/antarctic-toothfish-lost-and-found/index.html
+layout: layout.njk
 ---
 Antarctic toothfish, lost – and found
 =====================================

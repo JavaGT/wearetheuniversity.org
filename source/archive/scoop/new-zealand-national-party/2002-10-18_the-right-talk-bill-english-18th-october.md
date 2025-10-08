@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-bill-english-18th-october
-title: "The Right Talk - Bill English - 18th October"
-date: 2002-10-18
-source-url: https://www.scoop.co.nz/stories/PA0210/S00401/the-right-talk-bill-english-18th-october.htm
+title: The Right Talk - Bill English - 18th October
+date: 2002-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00401/the-right-talk-bill-english-18th-october.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/18/the-right-talk-bill-english-18th-october/index.html
+layout: layout.njk
 ---
 The Right Talk - Bill English - 18th October
 ============================================

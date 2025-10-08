@@ -1,9 +1,13 @@
 ---
 slug: uc-councillor-fellow-and-alumna-named-us-ambassador
-title: "UC Councillor, Fellow and Alumna named US Ambassador"
-date: 2018-09-14
-source-url: https://www.scoop.co.nz/stories/ED1809/S00035/uc-councillor-fellow-and-alumna-named-us-ambassador.htm
+title: UC Councillor, Fellow and Alumna named US Ambassador
+date: 2018-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00035/uc-councillor-fellow-and-alumna-named-us-ambassador.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/09/14/uc-councillor-fellow-and-alumna-named-us-ambassador/index.html
+layout: layout.njk
 ---
 UC Councillor, Fellow and Alumna named US Ambassador
 ====================================================

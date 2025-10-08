@@ -1,9 +1,13 @@
 ---
 slug: cool-change-student-presidents-protest-frozen-allowances
-title: "Cool change: Student presidents protest frozen allowances"
-date: 2015-08-15
-source-url: https://www.scoop.co.nz/stories/ED1508/S00071/cool-change-student-presidents-protest-frozen-allowances.htm
+title: 'Cool change: Student presidents protest frozen allowances'
+date: 2015-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00071/cool-change-student-presidents-protest-frozen-allowances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/08/15/cool-change-student-presidents-protest-frozen-allowances/index.html
+layout: layout.njk
 ---
 Cool change: Student presidents protest frozen allowances
 =========================================================

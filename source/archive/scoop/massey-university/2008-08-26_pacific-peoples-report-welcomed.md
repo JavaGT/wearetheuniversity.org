@@ -1,9 +1,12 @@
 ---
 slug: pacific-peoples-report-welcomed
-title: "Pacific Peoples report welcomed"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/ED0808/S00082/pacific-peoples-report-welcomed.htm
+title: Pacific Peoples report welcomed
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00082/pacific-peoples-report-welcomed.htm
 author: massey-university
+permalink: /archive/2008/08/26/pacific-peoples-report-welcomed/index.html
+layout: layout.njk
 ---
 Pacific Peoples report welcomed
 ===============================

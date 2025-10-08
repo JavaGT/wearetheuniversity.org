@@ -1,9 +1,13 @@
 ---
 slug: independent-monitoring-contract-goes-to-massey-uni
-title: "Independent Monitoring Contract Goes to Massey Uni"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/GE0502/S00015/independent-monitoring-contract-goes-to-massey-uni.htm
+title: Independent Monitoring Contract Goes to Massey Uni
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0502/S00015/independent-monitoring-contract-goes-to-massey-uni.htm
 author: massey-university
+permalink: >-
+  /archive/2005/02/04/independent-monitoring-contract-goes-to-massey-uni/index.html
+layout: layout.njk
 ---
 Independent Monitoring Contract Goes to Massey Uni
 ==================================================

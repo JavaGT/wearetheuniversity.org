@@ -1,9 +1,12 @@
 ---
 slug: the-māori-party-supports-nzusa-scholarship-initiative
-title: "The Māori Party supports NZUSA scholarship initiative"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/PA1408/S00001/the-maori-party-supports-nzusa-scholarship-initiative.htm
+title: The Māori Party supports NZUSA scholarship initiative
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00001/the-maori-party-supports-nzusa-scholarship-initiative.htm
 author: te-pati-maori
+permalink: /archive/2014/08/01/the-m/index.html
+layout: layout.njk
 ---
 The Māori Party supports NZUSA scholarship initiative
 =====================================================

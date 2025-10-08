@@ -1,9 +1,13 @@
 ---
 slug: historic-day-as-caregivers-offered-equal-pay-settlement
-title: "Historic day as caregivers offered equal pay settlement"
-date: 2017-04-18
-source-url: https://www.scoop.co.nz/stories/PO1704/S00192/historic-day-as-caregivers-offered-equal-pay-settlement.htm
+title: Historic day as caregivers offered equal pay settlement
+date: 2017-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00192/historic-day-as-caregivers-offered-equal-pay-settlement.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2017/04/18/historic-day-as-caregivers-offered-equal-pay-settlement/index.html
+layout: layout.njk
 ---
 Historic day as caregivers offered equal pay settlement
 =======================================================

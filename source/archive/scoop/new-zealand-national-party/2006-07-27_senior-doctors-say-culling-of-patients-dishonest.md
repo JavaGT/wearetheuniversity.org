@@ -1,9 +1,13 @@
 ---
 slug: senior-doctors-say-culling-of-patients-dishonest
-title: "Senior doctors say culling of patients 'dishonest'"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/PA0607/S00456/senior-doctors-say-culling-of-patients-dishonest.htm
+title: Senior doctors say culling of patients 'dishonest'
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00456/senior-doctors-say-culling-of-patients-dishonest.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/07/27/senior-doctors-say-culling-of-patients-dishonest/index.html
+layout: layout.njk
 ---
 Senior doctors say culling of patients 'dishonest'
 ==================================================

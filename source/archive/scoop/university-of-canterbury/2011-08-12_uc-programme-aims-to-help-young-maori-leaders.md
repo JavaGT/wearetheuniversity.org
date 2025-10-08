@@ -1,9 +1,12 @@
 ---
 slug: uc-programme-aims-to-help-young-maori-leaders
-title: "UC programme aims to help young Maori leaders"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/ED1108/S00080/uc-programme-aims-to-help-young-maori-leaders.htm
+title: UC programme aims to help young Maori leaders
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00080/uc-programme-aims-to-help-young-maori-leaders.htm
 author: university-of-canterbury
+permalink: /archive/2011/08/12/uc-programme-aims-to-help-young-maori-leaders/index.html
+layout: layout.njk
 ---
 UC programme aims to help young Maori leaders
 =============================================

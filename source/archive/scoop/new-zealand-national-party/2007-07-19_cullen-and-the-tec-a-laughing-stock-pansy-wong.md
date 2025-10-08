@@ -1,9 +1,12 @@
 ---
 slug: cullen-and-the-tec-a-laughing-stock-pansy-wong
-title: "Cullen And The TEC A Laughing Stock -- Pansy Wong"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00321/cullen-and-the-tec-a-laughing-stock-pansy-wong.htm
+title: Cullen And The TEC A Laughing Stock -- Pansy Wong
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00321/cullen-and-the-tec-a-laughing-stock-pansy-wong.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/19/cullen-and-the-tec-a-laughing-stock-pansy-wong/index.html
+layout: layout.njk
 ---
 Cullen And The TEC A Laughing Stock -- Pansy Wong
 =================================================

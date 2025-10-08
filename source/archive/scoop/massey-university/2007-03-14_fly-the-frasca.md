@@ -1,9 +1,11 @@
 ---
 slug: fly-the-frasca
-title: "Fly the Frasca"
-date: 2007-03-14
+title: Fly the Frasca
+date: 2007-03-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0703/S00044/fly-the-frasca.htm
 author: massey-university
+permalink: /archive/2007/03/14/fly-the-frasca/index.html
+layout: layout.njk
 ---
 Fly the Frasca
 ==============

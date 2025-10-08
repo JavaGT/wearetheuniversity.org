@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-inaugural-director-of-first-year-experience
-title: "Otago appoints inaugural Director of First-Year Experience"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/ED1511/S00132/otago-appoints-inaugural-director-of-first-year-experience.htm
+title: Otago appoints inaugural Director of First-Year Experience
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00132/otago-appoints-inaugural-director-of-first-year-experience.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/27/otago-appoints-inaugural-director-of-first-year-experience/index.html
+layout: layout.njk
 ---
 Otago appoints inaugural Director of First-Year Experience
 ==========================================================

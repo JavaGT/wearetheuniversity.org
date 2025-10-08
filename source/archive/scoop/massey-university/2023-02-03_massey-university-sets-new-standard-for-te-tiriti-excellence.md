@@ -1,9 +1,13 @@
 ---
 slug: massey-university-sets-new-standard-for-te-tiriti-excellence
-title: "Massey University Sets New Standard For Te Tiriti Excellence"
-date: 2023-02-03
-source-url: https://www.scoop.co.nz/stories/ED2302/S00007/massey-university-sets-new-standard-for-te-tiriti-excellence.htm
+title: Massey University Sets New Standard For Te Tiriti Excellence
+date: 2023-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00007/massey-university-sets-new-standard-for-te-tiriti-excellence.htm
 author: massey-university
+permalink: >-
+  /archive/2023/02/03/massey-university-sets-new-standard-for-te-tiriti-excellence/index.html
+layout: layout.njk
 ---
 Massey University Sets New Standard For Te Tiriti Excellence
 ============================================================

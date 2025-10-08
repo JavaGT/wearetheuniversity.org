@@ -1,9 +1,12 @@
 ---
 slug: full-production-of-shakespeares-lost-play
-title: "Full production of Shakespeare’s lost play"
-date: 2009-04-28
-source-url: https://www.scoop.co.nz/stories/CU0904/S00365/full-production-of-shakespeares-lost-play.htm
+title: Full production of Shakespeare’s lost play
+date: 2009-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00365/full-production-of-shakespeares-lost-play.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/28/full-production-of-shakespeares-lost-play/index.html
+layout: layout.njk
 ---
 Full production of Shakespeare’s lost play
 ==========================================

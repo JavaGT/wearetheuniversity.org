@@ -1,9 +1,13 @@
 ---
 slug: otago-experts-welcome-invitation-to-work-on-ai-framework
-title: "Otago experts welcome invitation to work on AI framework"
-date: 2018-05-07
-source-url: https://www.scoop.co.nz/stories/SC1805/S00021/otago-experts-welcome-invitation-to-work-on-ai-framework.htm
+title: Otago experts welcome invitation to work on AI framework
+date: 2018-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00021/otago-experts-welcome-invitation-to-work-on-ai-framework.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/07/otago-experts-welcome-invitation-to-work-on-ai-framework/index.html
+layout: layout.njk
 ---
 Otago experts welcome invitation to work on AI framework
 ========================================================

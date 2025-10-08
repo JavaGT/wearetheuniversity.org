@@ -1,9 +1,12 @@
 ---
 slug: world-war-i-photos-wanted-for-publication
-title: "World War I photos wanted for publication"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/ED0704/S00042/world-war-i-photos-wanted-for-publication.htm
+title: World War I photos wanted for publication
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00042/world-war-i-photos-wanted-for-publication.htm
 author: massey-university
+permalink: /archive/2007/04/16/world-war-i-photos-wanted-for-publication/index.html
+layout: layout.njk
 ---
 World War I photos wanted for publication
 =========================================

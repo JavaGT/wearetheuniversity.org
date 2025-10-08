@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddington-maiden-speech
-title: "Deborah Coddington Maiden Speech"
-date: 2002-08-29
-source-url: https://www.scoop.co.nz/stories/PA0208/S00300/deborah-coddington-maiden-speech.htm
+title: Deborah Coddington Maiden Speech
+date: 2002-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00300/deborah-coddington-maiden-speech.htm
 author: act-new-zealand
+permalink: /archive/2002/08/29/deborah-coddington-maiden-speech/index.html
+layout: layout.njk
 ---
 Deborah Coddington Maiden Speech
 ================================

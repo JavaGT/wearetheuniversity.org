@@ -1,9 +1,13 @@
 ---
 slug: animal-welfare-still-an-issue-four-years-on-from-quakes
-title: "Animal welfare still an issue four years on from quakes"
-date: 2015-02-18
-source-url: https://www.scoop.co.nz/stories/CU1502/S00359/animal-welfare-still-an-issue-four-years-on-from-quakes.htm
+title: Animal welfare still an issue four years on from quakes
+date: 2015-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00359/animal-welfare-still-an-issue-four-years-on-from-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/18/animal-welfare-still-an-issue-four-years-on-from-quakes/index.html
+layout: layout.njk
 ---
 Animal welfare still an issue four years on from quakes
 =======================================================

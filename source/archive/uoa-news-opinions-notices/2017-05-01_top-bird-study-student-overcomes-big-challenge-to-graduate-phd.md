@@ -1,8 +1,12 @@
 ---
 slug: top-bird-study-student-overcomes-big-challenge-to-graduate-phd
-title: "Top bird study student overcomes big challenge to graduate PhD"
-date: 2017-05-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/top-bird-study-student-overcomes-big-challenge-to-graduate-phd.html
+title: Top bird study student overcomes big challenge to graduate PhD
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/top-bird-study-student-overcomes-big-challenge-to-graduate-phd.html
+permalink: >-
+  /archive/2017/05/01/top-bird-study-student-overcomes-big-challenge-to-graduate-phd/index.html
+layout: layout.njk
 ---
 Top bird study student overcomes big challenge to graduate PhD
 ==============================================================

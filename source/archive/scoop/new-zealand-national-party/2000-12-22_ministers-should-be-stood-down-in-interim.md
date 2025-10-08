@@ -1,9 +1,12 @@
 ---
 slug: ministers-should-be-stood-down-in-interim
-title: "Ministers Should Be Stood Down In Interim"
-date: 2000-12-22
-source-url: https://www.scoop.co.nz/stories/PA0012/S00407/ministers-should-be-stood-down-in-interim.htm
+title: Ministers Should Be Stood Down In Interim
+date: 2000-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00407/ministers-should-be-stood-down-in-interim.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/22/ministers-should-be-stood-down-in-interim/index.html
+layout: layout.njk
 ---
 Ministers Should Be Stood Down In Interim
 =========================================

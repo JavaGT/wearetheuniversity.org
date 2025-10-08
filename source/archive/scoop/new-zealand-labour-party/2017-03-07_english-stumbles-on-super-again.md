@@ -1,9 +1,12 @@
 ---
 slug: english-stumbles-on-super-again
-title: "English stumbles on Super again"
-date: 2017-03-07
-source-url: https://www.scoop.co.nz/stories/PA1703/S00084/english-stumbles-on-super-again.htm
+title: English stumbles on Super again
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00084/english-stumbles-on-super-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/07/english-stumbles-on-super-again/index.html
+layout: layout.njk
 ---
 English stumbles on Super again
 ===============================

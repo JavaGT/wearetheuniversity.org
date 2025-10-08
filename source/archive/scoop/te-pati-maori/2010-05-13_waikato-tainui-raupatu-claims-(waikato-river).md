@@ -1,9 +1,12 @@
 ---
 slug: waikato-tainui-raupatu-claims-(waikato-river)
-title: "Waikato-Tainui Raupatu Claims (Waikato River)"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/PA1005/S00188/waikato-tainui-raupatu-claims-waikato-river.htm
+title: Waikato-Tainui Raupatu Claims (Waikato River)
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00188/waikato-tainui-raupatu-claims-waikato-river.htm
 author: te-pati-maori
+permalink: /archive/2010/05/13/waikato-tainui-raupatu-claims-/index.html
+layout: layout.njk
 ---
 Waikato-Tainui Raupatu Claims (Waikato River)
 =============================================

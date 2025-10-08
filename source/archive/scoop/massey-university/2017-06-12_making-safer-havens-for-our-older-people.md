@@ -1,9 +1,12 @@
 ---
 slug: making-safer-havens-for-our-older-people
-title: "Making safer havens for our older people"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/GE1706/S00038/making-safer-havens-for-our-older-people.htm
+title: Making safer havens for our older people
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00038/making-safer-havens-for-our-older-people.htm
 author: massey-university
+permalink: /archive/2017/06/12/making-safer-havens-for-our-older-people/index.html
+layout: layout.njk
 ---
 Making safer havens for our older people
 ========================================

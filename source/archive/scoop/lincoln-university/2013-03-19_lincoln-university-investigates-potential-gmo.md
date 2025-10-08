@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-investigates-potential-gmo
-title: "Lincoln University investigates potential GMO"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/ED1303/S00133/lincoln-university-investigates-potential-gmo.htm
+title: Lincoln University investigates potential GMO
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00133/lincoln-university-investigates-potential-gmo.htm
 author: lincoln-university
+permalink: /archive/2013/03/19/lincoln-university-investigates-potential-gmo/index.html
+layout: layout.njk
 ---
 Lincoln University investigates potential GMO
 =============================================

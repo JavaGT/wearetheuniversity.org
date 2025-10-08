@@ -1,9 +1,12 @@
 ---
 slug: ideology-and-pragmatism-in-public-policy
-title: "Ideology And Pragmatism In Public Policy"
-date: 2005-10-12
-source-url: https://www.scoop.co.nz/stories/BU0510/S00183/ideology-and-pragmatism-in-public-policy.htm
+title: Ideology And Pragmatism In Public Policy
+date: 2005-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0510/S00183/ideology-and-pragmatism-in-public-policy.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/10/12/ideology-and-pragmatism-in-public-policy/index.html
+layout: layout.njk
 ---
 Ideology And Pragmatism In Public Policy
 ========================================

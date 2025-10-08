@@ -1,9 +1,11 @@
 ---
 slug: the-war-one-year-on
-title: "The War, One Year On"
-date: 2004-02-13
+title: The War, One Year On
+date: 2004-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0402/S00084/the-war-one-year-on.htm
 author: peace-action-wellington
+permalink: /archive/2004/02/13/the-war-one-year-on/index.html
+layout: layout.njk
 ---
 The War, One Year On
 ====================

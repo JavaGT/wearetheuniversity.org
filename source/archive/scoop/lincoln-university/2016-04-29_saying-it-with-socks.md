@@ -1,9 +1,11 @@
 ---
 slug: saying-it-with-socks
-title: "Saying it with socks"
-date: 2016-04-29
+title: Saying it with socks
+date: 2016-04-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1604/S00098/saying-it-with-socks.htm
 author: lincoln-university
+permalink: /archive/2016/04/29/saying-it-with-socks/index.html
+layout: layout.njk
 ---
 Saying it with socks
 ====================

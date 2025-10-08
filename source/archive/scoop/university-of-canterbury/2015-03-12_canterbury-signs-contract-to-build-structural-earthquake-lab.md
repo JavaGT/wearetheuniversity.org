@@ -1,9 +1,13 @@
 ---
 slug: canterbury-signs-contract-to-build-structural-earthquake-lab
-title: "Canterbury signs contract to build structural earthquake lab"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/ED1503/S00051/canterbury-signs-contract-to-build-structural-earthquake-lab.htm
+title: Canterbury signs contract to build structural earthquake lab
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00051/canterbury-signs-contract-to-build-structural-earthquake-lab.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/12/canterbury-signs-contract-to-build-structural-earthquake-lab/index.html
+layout: layout.njk
 ---
 Canterbury signs contract to build structural earthquake lab
 ============================================================

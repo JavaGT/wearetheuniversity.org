@@ -1,9 +1,12 @@
 ---
 slug: council-to-keep-clean-air-plan-in-place
-title: "Council to keep clean air plan in place"
-date: 2011-02-02
-source-url: https://www.scoop.co.nz/stories/PA1102/S00029/council-to-keep-clean-air-plan-in-place.htm
+title: Council to keep clean air plan in place
+date: 2011-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00029/council-to-keep-clean-air-plan-in-place.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/02/council-to-keep-clean-air-plan-in-place/index.html
+layout: layout.njk
 ---
 Council to keep clean air plan in place
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-announces-portfolio-changes
-title: "Green Party announces portfolio changes"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/PA1609/S00504/green-party-announces-portfolio-changes.htm
+title: Green Party announces portfolio changes
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00504/green-party-announces-portfolio-changes.htm
 author: green-party
+permalink: /archive/2016/09/29/green-party-announces-portfolio-changes/index.html
+layout: layout.njk
 ---
 Green Party announces portfolio changes
 =======================================

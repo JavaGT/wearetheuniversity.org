@@ -1,9 +1,13 @@
 ---
 slug: canterbury-astronomers-discover-a-massive-planet
-title: "Canterbury astronomers discover a massive planet"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00034/canterbury-astronomers-discover-a-massive-planet.htm
+title: Canterbury astronomers discover a massive planet
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00034/canterbury-astronomers-discover-a-massive-planet.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2003/07/11/canterbury-astronomers-discover-a-massive-planet/index.html
+layout: layout.njk
 ---
 Canterbury astronomers discover a massive planet
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: young-nats-support-calls-for-compulsory-financial-literacy
-title: "Young Nats support calls for compulsory financial literacy"
-date: 2016-02-23
-source-url: https://www.scoop.co.nz/stories/ED1602/S00071/young-nats-support-calls-for-compulsory-financial-literacy.htm
+title: Young Nats support calls for compulsory financial literacy
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00071/young-nats-support-calls-for-compulsory-financial-literacy.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2016/02/23/young-nats-support-calls-for-compulsory-financial-literacy/index.html
+layout: layout.njk
 ---
 Young Nats support calls for compulsory financial literacy
 ==========================================================

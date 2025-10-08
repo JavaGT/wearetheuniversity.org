@@ -1,9 +1,12 @@
 ---
 slug: reading-helps-children-face-a-difficult-future
-title: "Reading Helps Children Face A Difficult Future"
-date: 2024-11-22
-source-url: https://www.scoop.co.nz/stories/ED2411/S00040/reading-helps-children-face-a-difficult-future.htm
+title: Reading Helps Children Face A Difficult Future
+date: 2024-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00040/reading-helps-children-face-a-difficult-future.htm
 author: aut-university
+permalink: /archive/2024/11/22/reading-helps-children-face-a-difficult-future/index.html
+layout: layout.njk
 ---
 Reading Helps Children Face A Difficult Future
 ==============================================

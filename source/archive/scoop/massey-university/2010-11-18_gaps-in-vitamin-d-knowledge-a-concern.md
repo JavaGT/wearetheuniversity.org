@@ -1,9 +1,12 @@
 ---
 slug: gaps-in-vitamin-d-knowledge-a-concern
-title: "Gaps in vitamin D knowledge a concern"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/GE1011/S00094/gaps-in-vitamin-d-knowledge-a-concern.htm
+title: Gaps in vitamin D knowledge a concern
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00094/gaps-in-vitamin-d-knowledge-a-concern.htm
 author: massey-university
+permalink: /archive/2010/11/18/gaps-in-vitamin-d-knowledge-a-concern/index.html
+layout: layout.njk
 ---
 Gaps in vitamin D knowledge a concern
 =====================================

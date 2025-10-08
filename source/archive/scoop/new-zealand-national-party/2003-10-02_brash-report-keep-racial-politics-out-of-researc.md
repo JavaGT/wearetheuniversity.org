@@ -1,9 +1,13 @@
 ---
 slug: brash-report-keep-racial-politics-out-of-researc
-title: "Brash Report: Keep Racial Politics Out Of Researc"
-date: 2003-10-02
-source-url: https://www.scoop.co.nz/stories/PA0310/S00043/brash-report-keep-racial-politics-out-of-researc.htm
+title: 'Brash Report: Keep Racial Politics Out Of Researc'
+date: 2003-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00043/brash-report-keep-racial-politics-out-of-researc.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/10/02/brash-report-keep-racial-politics-out-of-researc/index.html
+layout: layout.njk
 ---
 Brash Report: Keep Racial Politics Out Of Researc
 =================================================

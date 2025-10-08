@@ -1,9 +1,13 @@
 ---
 slug: vietnam-pm-to-make-landmark-visit-to-university-of-waikato
-title: "Vietnam PM to make landmark visit to University of Waikato"
-date: 2018-03-08
-source-url: https://www.scoop.co.nz/stories/ED1803/S00034/vietnam-pm-to-make-landmark-visit-to-university-of-waikato.htm
+title: Vietnam PM to make landmark visit to University of Waikato
+date: 2018-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00034/vietnam-pm-to-make-landmark-visit-to-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/03/08/vietnam-pm-to-make-landmark-visit-to-university-of-waikato/index.html
+layout: layout.njk
 ---
 Vietnam PM to make landmark visit to University of Waikato
 ==========================================================

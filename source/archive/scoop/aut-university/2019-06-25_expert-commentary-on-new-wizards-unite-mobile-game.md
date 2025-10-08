@@ -1,9 +1,13 @@
 ---
 slug: expert-commentary-on-new-wizards-unite-mobile-game
-title: "Expert commentary on new  Wizards Unite mobile game"
-date: 2019-06-25
-source-url: https://www.scoop.co.nz/stories/CU1906/S00287/expert-commentary-on-new-wizards-unite-mobile-game.htm
+title: Expert commentary on new  Wizards Unite mobile game
+date: 2019-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1906/S00287/expert-commentary-on-new-wizards-unite-mobile-game.htm
 author: aut-university
+permalink: >-
+  /archive/2019/06/25/expert-commentary-on-new-wizards-unite-mobile-game/index.html
+layout: layout.njk
 ---
 Expert commentary on new Wizards Unite mobile game
 ==================================================

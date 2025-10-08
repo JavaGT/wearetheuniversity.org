@@ -1,9 +1,12 @@
 ---
 slug: professor-supports-calls-to-review-cannabis-law
-title: "Professor supports calls to review cannabis law"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PO1405/S00265/professor-supports-calls-to-review-cannabis-law.htm
+title: Professor supports calls to review cannabis law
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00265/professor-supports-calls-to-review-cannabis-law.htm
 author: aut-university
+permalink: /archive/2014/05/15/professor-supports-calls-to-review-cannabis-law/index.html
+layout: layout.njk
 ---
 Professor supports calls to review cannabis law
 ===============================================

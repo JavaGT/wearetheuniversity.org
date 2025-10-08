@@ -1,9 +1,13 @@
 ---
 slug: students-congratulate-internet-mana-on-free-tertiary-policy
-title: "Students Congratulate Internet MANA on Free Tertiary Policy"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/ED1409/S00079/students-congratulate-internet-mana-on-free-tertiary-policy.htm
+title: Students Congratulate Internet MANA on Free Tertiary Policy
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00079/students-congratulate-internet-mana-on-free-tertiary-policy.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/09/12/students-congratulate-internet-mana-on-free-tertiary-policy/index.html
+layout: layout.njk
 ---
 Students Congratulate Internet MANA on Free Tertiary Policy
 ===========================================================

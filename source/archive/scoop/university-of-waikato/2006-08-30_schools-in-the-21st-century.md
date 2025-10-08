@@ -1,9 +1,11 @@
 ---
 slug: schools-in-the-21st-century
-title: "Schools in the 21st Century"
-date: 2006-08-30
+title: Schools in the 21st Century
+date: 2006-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0608/S00095/schools-in-the-21st-century.htm
 author: university-of-waikato
+permalink: /archive/2006/08/30/schools-in-the-21st-century/index.html
+layout: layout.njk
 ---
 Schools in the 21st Century
 ===========================

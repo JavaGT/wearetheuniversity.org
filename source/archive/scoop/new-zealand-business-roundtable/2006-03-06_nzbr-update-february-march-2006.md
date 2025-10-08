@@ -1,9 +1,12 @@
 ---
 slug: nzbr-update-february-march-2006
-title: "NZBR Update February/March 2006"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/BU0603/S00091/nzbr-update-februarymarch-2006.htm
+title: NZBR Update February/March 2006
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00091/nzbr-update-februarymarch-2006.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/03/06/nzbr-update-february-march-2006/index.html
+layout: layout.njk
 ---
 NZBR Update February/March 2006
 ===============================

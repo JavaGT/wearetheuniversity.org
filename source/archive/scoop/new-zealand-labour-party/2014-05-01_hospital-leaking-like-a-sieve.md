@@ -1,9 +1,12 @@
 ---
 slug: hospital-leaking-like-a-sieve
-title: "Hospital leaking like a sieve"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/PA1405/S00001/hospital-leaking-like-a-sieve.htm
+title: Hospital leaking like a sieve
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00001/hospital-leaking-like-a-sieve.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/01/hospital-leaking-like-a-sieve/index.html
+layout: layout.njk
 ---
 Hospital leaking like a sieve
 =============================

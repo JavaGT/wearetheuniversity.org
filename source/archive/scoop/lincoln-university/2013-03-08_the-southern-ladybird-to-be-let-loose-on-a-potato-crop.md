@@ -1,9 +1,13 @@
 ---
 slug: the-southern-ladybird-to-be-let-loose-on-a-potato-crop
-title: "The Southern Ladybird To Be Let Loose On A Potato Crop"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/ED1303/S00051/the-southern-ladybird-to-be-let-loose-on-a-potato-crop.htm
+title: The Southern Ladybird To Be Let Loose On A Potato Crop
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00051/the-southern-ladybird-to-be-let-loose-on-a-potato-crop.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/03/08/the-southern-ladybird-to-be-let-loose-on-a-potato-crop/index.html
+layout: layout.njk
 ---
 The Southern Ladybird To Be Let Loose On A Potato Crop
 ======================================================

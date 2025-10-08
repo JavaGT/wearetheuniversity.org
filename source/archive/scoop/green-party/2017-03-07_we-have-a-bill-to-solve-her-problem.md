@@ -1,9 +1,12 @@
 ---
 slug: we-have-a-bill-to-solve-her-problem
-title: "We have a Bill to solve her problem"
-date: 2017-03-07
-source-url: https://www.scoop.co.nz/stories/PA1703/S00101/we-have-a-bill-to-solve-her-problem.htm
+title: We have a Bill to solve her problem
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00101/we-have-a-bill-to-solve-her-problem.htm
 author: green-party
+permalink: /archive/2017/03/07/we-have-a-bill-to-solve-her-problem/index.html
+layout: layout.njk
 ---
 We have a Bill to solve her problem
 ===================================

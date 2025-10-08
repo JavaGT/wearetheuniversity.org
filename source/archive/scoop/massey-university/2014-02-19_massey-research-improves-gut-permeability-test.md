@@ -1,9 +1,12 @@
 ---
 slug: massey-research-improves-gut-permeability-test
-title: "Massey research improves gut permeability test"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/SC1402/S00038/massey-research-improves-gut-permeability-test.htm
+title: Massey research improves gut permeability test
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00038/massey-research-improves-gut-permeability-test.htm
 author: massey-university
+permalink: /archive/2014/02/19/massey-research-improves-gut-permeability-test/index.html
+layout: layout.njk
 ---
 Massey research improves gut permeability test
 ==============================================

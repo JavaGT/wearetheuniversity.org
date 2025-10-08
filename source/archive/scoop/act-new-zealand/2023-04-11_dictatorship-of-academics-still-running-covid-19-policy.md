@@ -1,9 +1,13 @@
 ---
 slug: dictatorship-of-academics-still-running-covid-19-policy
-title: "Dictatorship Of Academics Still Running Covid-19 Policy"
-date: 2023-04-11
-source-url: https://www.scoop.co.nz/stories/PA2304/S00057/dictatorship-of-academics-still-running-covid-19-policy.htm
+title: Dictatorship Of Academics Still Running Covid-19 Policy
+date: 2023-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00057/dictatorship-of-academics-still-running-covid-19-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/04/11/dictatorship-of-academics-still-running-covid-19-policy/index.html
+layout: layout.njk
 ---
 Dictatorship Of Academics Still Running Covid-19 Policy
 =======================================================

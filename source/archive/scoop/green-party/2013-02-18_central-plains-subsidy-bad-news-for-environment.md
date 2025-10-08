@@ -1,9 +1,12 @@
 ---
 slug: central-plains-subsidy-bad-news-for-environment
-title: "Central Plains subsidy bad news for environment"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/PA1302/S00238/central-plains-subsidy-bad-news-for-environment.htm
+title: Central Plains subsidy bad news for environment
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00238/central-plains-subsidy-bad-news-for-environment.htm
 author: green-party
+permalink: /archive/2013/02/18/central-plains-subsidy-bad-news-for-environment/index.html
+layout: layout.njk
 ---
 Central Plains subsidy bad news for environment
 ===============================================

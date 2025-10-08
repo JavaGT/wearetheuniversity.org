@@ -1,9 +1,13 @@
 ---
 slug: please-tell-me-thats-not-your-penis-voted-best-quote
-title: "\"Please Tell Me That’s Not Your Penis\" Voted Best Quote"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/CU1712/S00212/please-tell-me-thats-not-your-penis-voted-best-quote.htm
+title: '"Please Tell Me That’s Not Your Penis" Voted Best Quote'
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00212/please-tell-me-thats-not-your-penis-voted-best-quote.htm
 author: massey-university
+permalink: >-
+  /archive/2017/12/14/please-tell-me-thats-not-your-penis-voted-best-quote/index.html
+layout: layout.njk
 ---
 “Please Tell Me That’s Not Your Penis” Voted Best Quote
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-letter-new-leadership-williamson-collins
-title: "The Letter: New leadership, Williamson, Collins"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/PO1405/S00080/the-letter-new-leadership-williamson-collins.htm
+title: 'The Letter: New leadership, Williamson, Collins'
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00080/the-letter-new-leadership-williamson-collins.htm
 author: act-new-zealand
+permalink: /archive/2014/05/06/the-letter-new-leadership-williamson-collins/index.html
+layout: layout.njk
 ---
 The Letter: New leadership, Williamson, Collins
 ===============================================

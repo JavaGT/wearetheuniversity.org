@@ -1,9 +1,12 @@
 ---
 slug: nationals-union-membership-figures-wrong
-title: "National's Union Membership Figures Wrong"
-date: 2006-08-21
-source-url: https://www.scoop.co.nz/stories/PO0608/S00238/nationals-union-membership-figures-wrong.htm
+title: National's Union Membership Figures Wrong
+date: 2006-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00238/nationals-union-membership-figures-wrong.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/08/21/nationals-union-membership-figures-wrong/index.html
+layout: layout.njk
 ---
 National's Union Membership Figures Wrong
 =========================================

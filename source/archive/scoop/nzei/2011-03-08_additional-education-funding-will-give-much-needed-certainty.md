@@ -1,9 +1,13 @@
 ---
 slug: additional-education-funding-will-give-much-needed-certainty
-title: "Additional education funding will give much needed certainty"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/ED1103/S00043/additional-education-funding-will-give-much-needed-certainty.htm
+title: Additional education funding will give much needed certainty
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00043/additional-education-funding-will-give-much-needed-certainty.htm
 author: nzei
+permalink: >-
+  /archive/2011/03/08/additional-education-funding-will-give-much-needed-certainty/index.html
+layout: layout.njk
 ---
 Additional education funding will give much needed certainty
 ============================================================

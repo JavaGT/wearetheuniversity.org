@@ -1,9 +1,12 @@
 ---
 slug: redundancy-petition-a-second-chance
-title: "Redundancy petition a second chance"
-date: 2010-12-07
-source-url: https://www.scoop.co.nz/stories/PA1012/S00088/redundancy-petition-a-second-chance.htm
+title: Redundancy petition a second chance
+date: 2010-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00088/redundancy-petition-a-second-chance.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/07/redundancy-petition-a-second-chance/index.html
+layout: layout.njk
 ---
 Redundancy petition a second chance
 ===================================

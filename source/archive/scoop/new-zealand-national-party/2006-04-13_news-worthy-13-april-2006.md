@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-13-april-2006
-title: "News Worthy - 13 April 2006"
-date: 2006-04-13
+title: News Worthy - 13 April 2006
+date: 2006-04-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00256/news-worthy-13-april-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/13/news-worthy-13-april-2006/index.html
+layout: layout.njk
 ---
 News Worthy - 13 April 2006
 ===========================

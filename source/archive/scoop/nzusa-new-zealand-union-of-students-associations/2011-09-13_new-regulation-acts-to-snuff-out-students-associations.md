@@ -1,9 +1,13 @@
 ---
 slug: new-regulation-acts-to-snuff-out-students-associations
-title: "New Regulation acts to snuff out students’ associations"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PO1109/S00171/new-regulation-acts-to-snuff-out-students-associations.htm
+title: New Regulation acts to snuff out students’ associations
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00171/new-regulation-acts-to-snuff-out-students-associations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/13/new-regulation-acts-to-snuff-out-students-associations/index.html
+layout: layout.njk
 ---
 New Regulation acts to snuff out students’ associations
 =======================================================

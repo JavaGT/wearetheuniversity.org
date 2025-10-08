@@ -1,9 +1,12 @@
 ---
 slug: minimum-logic-to-minimum-wage-change
-title: "Minimum Logic to Minimum Wage Change"
-date: 2002-12-19
-source-url: https://www.scoop.co.nz/stories/PA0212/S00490/minimum-logic-to-minimum-wage-change.htm
+title: Minimum Logic to Minimum Wage Change
+date: 2002-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00490/minimum-logic-to-minimum-wage-change.htm
 author: act-new-zealand
+permalink: /archive/2002/12/19/minimum-logic-to-minimum-wage-change/index.html
+layout: layout.njk
 ---
 Minimum Logic to Minimum Wage Change
 ====================================

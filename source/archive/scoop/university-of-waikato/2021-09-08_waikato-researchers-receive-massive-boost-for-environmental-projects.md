@@ -1,9 +1,13 @@
 ---
 slug: waikato-researchers-receive-massive-boost-for-environmental-projects
-title: "Waikato researchers receive massive boost for environmental projects"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/SC2109/S00016/waikato-researchers-receive-massive-boost-for-environmental-projects.htm
+title: Waikato researchers receive massive boost for environmental projects
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00016/waikato-researchers-receive-massive-boost-for-environmental-projects.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/09/08/waikato-researchers-receive-massive-boost-for-environmental-projects/index.html
+layout: layout.njk
 ---
 Waikato researchers receive massive boost for environmental projects
 ====================================================================

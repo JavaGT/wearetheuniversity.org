@@ -1,9 +1,13 @@
 ---
 slug: budget-2019-teachers-deserve-better-from-government
-title: "Budget 2019: Teachers deserve better from Government"
-date: 2019-05-30
-source-url: https://www.scoop.co.nz/stories/PA1905/S00309/budget-2019-teachers-deserve-better-from-government.htm
+title: 'Budget 2019: Teachers deserve better from Government'
+date: 2019-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00309/budget-2019-teachers-deserve-better-from-government.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/05/30/budget-2019-teachers-deserve-better-from-government/index.html
+layout: layout.njk
 ---
 Budget 2019: Teachers deserve better from Government
 ====================================================

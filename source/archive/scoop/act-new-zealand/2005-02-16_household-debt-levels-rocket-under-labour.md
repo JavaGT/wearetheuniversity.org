@@ -1,9 +1,12 @@
 ---
 slug: household-debt-levels-rocket-under-labour
-title: "Household debt levels rocket under Labour"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/PA0502/S00347/household-debt-levels-rocket-under-labour.htm
+title: Household debt levels rocket under Labour
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00347/household-debt-levels-rocket-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2005/02/16/household-debt-levels-rocket-under-labour/index.html
+layout: layout.njk
 ---
 Household debt levels rocket under Labour
 =========================================

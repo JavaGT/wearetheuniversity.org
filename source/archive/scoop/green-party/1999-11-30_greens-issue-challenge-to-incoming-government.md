@@ -1,9 +1,12 @@
 ---
 slug: greens-issue-challenge-to-incoming-government
-title: "Greens issue challenge to incoming government"
-date: 1999-11-30
-source-url: https://www.scoop.co.nz/stories/PO9911/S00194/greens-issue-challenge-to-incoming-government.htm
+title: Greens issue challenge to incoming government
+date: 1999-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00194/greens-issue-challenge-to-incoming-government.htm
 author: green-party
+permalink: /archive/1999/11/30/greens-issue-challenge-to-incoming-government/index.html
+layout: layout.njk
 ---
 Greens issue challenge to incoming government
 =============================================

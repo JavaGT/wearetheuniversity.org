@@ -1,9 +1,12 @@
 ---
 slug: taxpayer-forks-out-for-ministers-shenanigans
-title: "Taxpayer forks out for Minister’s shenanigans"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/PA0611/S00107/taxpayer-forks-out-for-ministers-shenanigans.htm
+title: Taxpayer forks out for Minister’s shenanigans
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00107/taxpayer-forks-out-for-ministers-shenanigans.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/07/taxpayer-forks-out-for-ministers-shenanigans/index.html
+layout: layout.njk
 ---
 Taxpayer forks out for Minister’s shenanigans
 =============================================

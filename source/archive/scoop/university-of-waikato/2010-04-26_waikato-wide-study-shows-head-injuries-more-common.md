@@ -1,9 +1,13 @@
 ---
 slug: waikato-wide-study-shows-head-injuries-more-common
-title: "Waikato-wide study shows head injuries more common"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/GE1004/S00118/waikato-wide-study-shows-head-injuries-more-common.htm
+title: Waikato-wide study shows head injuries more common
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1004/S00118/waikato-wide-study-shows-head-injuries-more-common.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/04/26/waikato-wide-study-shows-head-injuries-more-common/index.html
+layout: layout.njk
 ---
 Waikato-wide study shows head injuries more common
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-changes-proposed-tolley-uninspired
-title: "NZUSA Changes Proposed, Tolley Uninspired"
-date: 2009-07-13
-source-url: https://www.scoop.co.nz/stories/ED0907/S00050/nzusa-changes-proposed-tolley-uninspired.htm
+title: NZUSA Changes Proposed, Tolley Uninspired
+date: 2009-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00050/nzusa-changes-proposed-tolley-uninspired.htm
 author: salient
+permalink: /archive/2009/07/13/nzusa-changes-proposed-tolley-uninspired/index.html
+layout: layout.njk
 ---
 NZUSA Changes Proposed, Tolley Uninspired
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: usp-vice-chancellors-contract-renewed
-title: "USP Vice-chancellor’s Contract Renewed"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/GE1305/S00135/usp-vice-chancellors-contract-renewed.htm
+title: USP Vice-chancellor’s Contract Renewed
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00135/usp-vice-chancellors-contract-renewed.htm
 author: university-of-the-south-pacific
+permalink: /archive/2013/05/23/usp-vice-chancellors-contract-renewed/index.html
+layout: layout.njk
 ---
 USP Vice-chancellor’s Contract Renewed
 ======================================

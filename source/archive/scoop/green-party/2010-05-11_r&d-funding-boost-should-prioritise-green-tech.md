@@ -1,9 +1,12 @@
 ---
 slug: r&d-funding-boost-should-prioritise-green-tech
-title: "R&D funding boost should prioritise green tech"
-date: 2010-05-11
-source-url: https://www.scoop.co.nz/stories/PA1005/S00165/rd-funding-boost-should-prioritise-green-tech.htm
+title: R&D funding boost should prioritise green tech
+date: 2010-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00165/rd-funding-boost-should-prioritise-green-tech.htm
 author: green-party
+permalink: /archive/2010/05/11/r/index.html
+layout: layout.njk
 ---
 R&D funding boost should prioritise green tech
 ==============================================

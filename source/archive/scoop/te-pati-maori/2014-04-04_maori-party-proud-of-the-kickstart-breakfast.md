@@ -1,9 +1,12 @@
 ---
 slug: maori-party-proud-of-the-kickstart-breakfast
-title: "Maori Party Proud of the Kickstart Breakfast"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/PA1404/S00078/maori-party-proud-of-the-kickstart-breakfast.htm
+title: Maori Party Proud of the Kickstart Breakfast
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00078/maori-party-proud-of-the-kickstart-breakfast.htm
 author: te-pati-maori
+permalink: /archive/2014/04/04/maori-party-proud-of-the-kickstart-breakfast/index.html
+layout: layout.njk
 ---
 Maori Party Proud of the Kickstart Breakfast
 ============================================

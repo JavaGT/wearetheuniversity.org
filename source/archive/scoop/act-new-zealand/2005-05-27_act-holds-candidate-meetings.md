@@ -1,9 +1,11 @@
 ---
 slug: act-holds-candidate-meetings
-title: "ACT holds candidate meetings"
-date: 2005-05-27
+title: ACT holds candidate meetings
+date: 2005-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00713/act-holds-candidate-meetings.htm
 author: act-new-zealand
+permalink: /archive/2005/05/27/act-holds-candidate-meetings/index.html
+layout: layout.njk
 ---
 ACT holds candidate meetings
 ============================

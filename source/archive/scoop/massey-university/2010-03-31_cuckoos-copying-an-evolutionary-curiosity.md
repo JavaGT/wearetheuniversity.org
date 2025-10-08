@@ -1,9 +1,12 @@
 ---
 slug: cuckoos-copying-an-evolutionary-curiosity
-title: "Cuckoo's copying an evolutionary curiosity"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/SC1003/S00086/cuckoos-copying-an-evolutionary-curiosity.htm
+title: Cuckoo's copying an evolutionary curiosity
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1003/S00086/cuckoos-copying-an-evolutionary-curiosity.htm
 author: massey-university
+permalink: /archive/2010/03/31/cuckoos-copying-an-evolutionary-curiosity/index.html
+layout: layout.njk
 ---
 Cuckoo's copying an evolutionary curiosity
 ==========================================

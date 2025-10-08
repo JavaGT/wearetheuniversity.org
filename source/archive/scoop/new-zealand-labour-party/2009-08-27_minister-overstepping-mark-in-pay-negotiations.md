@@ -1,9 +1,12 @@
 ---
 slug: minister-overstepping-mark-in-pay-negotiations
-title: "Minister overstepping mark in pay negotiations"
-date: 2009-08-27
-source-url: https://www.scoop.co.nz/stories/PA0908/S00415/minister-overstepping-mark-in-pay-negotiations.htm
+title: Minister overstepping mark in pay negotiations
+date: 2009-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00415/minister-overstepping-mark-in-pay-negotiations.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/27/minister-overstepping-mark-in-pay-negotiations/index.html
+layout: layout.njk
 ---
 Minister overstepping mark in pay negotiations
 ==============================================

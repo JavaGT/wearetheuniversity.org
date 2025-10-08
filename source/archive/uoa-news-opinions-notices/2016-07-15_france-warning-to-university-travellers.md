@@ -1,8 +1,11 @@
 ---
 slug: france-warning-to-university-travellers
-title: "France: Warning to University travellers"
-date: 2016-07-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/france-warning-to-university-travellers.html
+title: 'France: Warning to University travellers'
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/france-warning-to-university-travellers.html
+permalink: /archive/2016/07/15/france-warning-to-university-travellers/index.html
+layout: layout.njk
 ---
 France: Warning to University travellers
 ========================================

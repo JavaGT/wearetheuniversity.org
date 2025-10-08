@@ -1,9 +1,12 @@
 ---
 slug: john-key-national-setting-the-agenda
-title: "John Key - National: Setting the agenda"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PA0704/S00478/john-key-national-setting-the-agenda.htm
+title: 'John Key - National: Setting the agenda'
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00478/john-key-national-setting-the-agenda.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/30/john-key-national-setting-the-agenda/index.html
+layout: layout.njk
 ---
 John Key - National: Setting the agenda
 =======================================

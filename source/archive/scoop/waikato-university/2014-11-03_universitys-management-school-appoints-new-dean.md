@@ -1,9 +1,12 @@
 ---
 slug: universitys-management-school-appoints-new-dean
-title: "University’s Management School appoints new dean"
-date: 2014-11-03
-source-url: https://www.scoop.co.nz/stories/ED1411/S00004/universitys-management-school-appoints-new-dean.htm
+title: University’s Management School appoints new dean
+date: 2014-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00004/universitys-management-school-appoints-new-dean.htm
 author: waikato-university
+permalink: /archive/2014/11/03/universitys-management-school-appoints-new-dean/index.html
+layout: layout.njk
 ---
 University’s Management School appoints new dean
 ================================================

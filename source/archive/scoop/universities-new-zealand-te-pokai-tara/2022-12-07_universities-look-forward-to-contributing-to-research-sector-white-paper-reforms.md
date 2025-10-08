@@ -1,9 +1,16 @@
 ---
-slug: universities-look-forward-to-contributing-to-research-sector-white-paper-reforms
-title: "Universities Look Forward To Contributing To Research Sector White Paper Reforms"
-date: 2022-12-07
-source-url: https://www.scoop.co.nz/stories/ED2212/S00015/universities-look-forward-to-contributing-to-research-sector-white-paper-reforms.htm
+slug: >-
+  universities-look-forward-to-contributing-to-research-sector-white-paper-reforms
+title: >-
+  Universities Look Forward To Contributing To Research Sector White Paper
+  Reforms
+date: 2022-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00015/universities-look-forward-to-contributing-to-research-sector-white-paper-reforms.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/12/07/universities-look-forward-to-contributing-to-research-sector-white-paper-reforms/index.html
+layout: layout.njk
 ---
 Universities Look Forward To Contributing To Research Sector White Paper Reforms
 ================================================================================

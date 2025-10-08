@@ -1,9 +1,12 @@
 ---
 slug: turia-welcomes-effort-to-save-longfin-eels
-title: "Turia welcomes effort to save longfin eels"
-date: 2009-11-30
-source-url: https://www.scoop.co.nz/stories/PA0911/S00461/turia-welcomes-effort-to-save-longfin-eels.htm
+title: Turia welcomes effort to save longfin eels
+date: 2009-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00461/turia-welcomes-effort-to-save-longfin-eels.htm
 author: te-pati-maori
+permalink: /archive/2009/11/30/turia-welcomes-effort-to-save-longfin-eels/index.html
+layout: layout.njk
 ---
 Turia welcomes effort to save longfin eels
 ==========================================

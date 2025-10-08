@@ -1,9 +1,12 @@
 ---
 slug: nz-trade-speech-brash-currency-and-intervention
-title: "NZ Trade Speech: Brash - Currency and intervention"
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/PA0403/S00346/nz-trade-speech-brash-currency-and-intervention.htm
+title: 'NZ Trade Speech: Brash - Currency and intervention'
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00346/nz-trade-speech-brash-currency-and-intervention.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/17/nz-trade-speech-brash-currency-and-intervention/index.html
+layout: layout.njk
 ---
 NZ Trade Speech: Brash - Currency and intervention
 ==================================================

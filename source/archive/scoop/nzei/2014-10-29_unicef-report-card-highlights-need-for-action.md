@@ -1,9 +1,12 @@
 ---
 slug: unicef-report-card-highlights-need-for-action
-title: "UNICEF report card highlights need for action"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PO1410/S00268/unicef-report-card-highlights-need-for-action.htm
+title: UNICEF report card highlights need for action
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00268/unicef-report-card-highlights-need-for-action.htm
 author: nzei
+permalink: /archive/2014/10/29/unicef-report-card-highlights-need-for-action/index.html
+layout: layout.njk
 ---
 UNICEF report card highlights need for action
 =============================================

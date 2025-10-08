@@ -1,9 +1,12 @@
 ---
 slug: its-now-or-never-to-stand-up-for-the-regions
-title: "It's Now Or Never to Stand up for the Regions"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00089/its-now-or-never-to-stand-up-for-the-regions.htm
+title: It's Now Or Never to Stand up for the Regions
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00089/its-now-or-never-to-stand-up-for-the-regions.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/04/its-now-or-never-to-stand-up-for-the-regions/index.html
+layout: layout.njk
 ---
 It's Now Or Never to Stand up for the Regions
 =============================================

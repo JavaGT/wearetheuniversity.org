@@ -1,9 +1,12 @@
 ---
 slug: nz-law-students-put-australians-on-notice
-title: "NZ Law Students Put Australians On Notice"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/ED1007/S00036/nz-law-students-put-australians-on-notice.htm
+title: NZ Law Students Put Australians On Notice
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00036/nz-law-students-put-australians-on-notice.htm
 author: new-zealand-law-students-association
+permalink: /archive/2010/07/09/nz-law-students-put-australians-on-notice/index.html
+layout: layout.njk
 ---
 NZ Law Students Put Australians On Notice
 =========================================

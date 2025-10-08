@@ -1,9 +1,13 @@
 ---
 slug: labour-welcomes-mandarin-flight-information-at-ak-airport
-title: "Labour welcomes Mandarin flight information at AK Airport"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/PA1310/S00350/labour-welcomes-mandarin-flight-information-at-ak-airport.htm
+title: Labour welcomes Mandarin flight information at AK Airport
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00350/labour-welcomes-mandarin-flight-information-at-ak-airport.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/23/labour-welcomes-mandarin-flight-information-at-ak-airport/index.html
+layout: layout.njk
 ---
 Labour welcomes Mandarin flight information at AK Airport
 =========================================================

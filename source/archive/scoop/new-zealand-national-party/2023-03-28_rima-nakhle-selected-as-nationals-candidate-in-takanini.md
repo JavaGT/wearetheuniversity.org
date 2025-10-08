@@ -1,9 +1,13 @@
 ---
 slug: rima-nakhle-selected-as-nationals-candidate-in-takanini
-title: "Rima Nakhle Selected As National’s Candidate In Takanini"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/PO2303/S00217/rima-nakhle-selected-as-nationals-candidate-in-takanini.htm
+title: Rima Nakhle Selected As National’s Candidate In Takanini
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00217/rima-nakhle-selected-as-nationals-candidate-in-takanini.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/28/rima-nakhle-selected-as-nationals-candidate-in-takanini/index.html
+layout: layout.njk
 ---
 Rima Nakhle Selected As National’s Candidate In Takanini
 ========================================================

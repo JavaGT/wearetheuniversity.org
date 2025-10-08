@@ -1,9 +1,13 @@
 ---
 slug: fears-oil-spill-lessons-wont-be-passed-to-other-ports
-title: "Fears Oil Spill  Lessons Won’t Be Passed to Other Ports"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PA1605/S00290/fears-oil-spill-lessons-wont-be-passed-to-other-ports.htm
+title: Fears Oil Spill  Lessons Won’t Be Passed to Other Ports
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00290/fears-oil-spill-lessons-wont-be-passed-to-other-ports.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/16/fears-oil-spill-lessons-wont-be-passed-to-other-ports/index.html
+layout: layout.njk
 ---
 Fears Oil Spill Lessons Won’t Be Passed to Other Ports
 ======================================================

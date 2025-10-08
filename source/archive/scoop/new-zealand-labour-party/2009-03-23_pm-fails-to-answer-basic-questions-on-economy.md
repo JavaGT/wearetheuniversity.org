@@ -1,9 +1,12 @@
 ---
 slug: pm-fails-to-answer-basic-questions-on-economy
-title: "PM fails to answer basic questions on economy"
-date: 2009-03-23
-source-url: https://www.scoop.co.nz/stories/PA0903/S00322/pm-fails-to-answer-basic-questions-on-economy.htm
+title: PM fails to answer basic questions on economy
+date: 2009-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00322/pm-fails-to-answer-basic-questions-on-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/23/pm-fails-to-answer-basic-questions-on-economy/index.html
+layout: layout.njk
 ---
 PM fails to answer basic questions on economy
 =============================================

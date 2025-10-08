@@ -1,9 +1,13 @@
 ---
 slug: unz-welcomes-entrepreneurial-universities-initiative
-title: "UNZ welcomes Entrepreneurial Universities initiative"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/ED1607/S00081/unz-welcomes-entrepreneurial-universities-initiative.htm
+title: UNZ welcomes Entrepreneurial Universities initiative
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00081/unz-welcomes-entrepreneurial-universities-initiative.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/07/21/unz-welcomes-entrepreneurial-universities-initiative/index.html
+layout: layout.njk
 ---
 UNZ welcomes Entrepreneurial Universities initiative
 ====================================================

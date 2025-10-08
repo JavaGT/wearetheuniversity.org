@@ -1,9 +1,12 @@
 ---
 slug: joyces-arrogance-cant-hide-flawed-reforms
-title: "Joyce’s arrogance can’t hide flawed reforms"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/PA1402/S00139/joyces-arrogance-cant-hide-flawed-reforms.htm
+title: Joyce’s arrogance can’t hide flawed reforms
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00139/joyces-arrogance-cant-hide-flawed-reforms.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/12/joyces-arrogance-cant-hide-flawed-reforms/index.html
+layout: layout.njk
 ---
 Joyce’s arrogance can’t hide flawed reforms
 ===========================================

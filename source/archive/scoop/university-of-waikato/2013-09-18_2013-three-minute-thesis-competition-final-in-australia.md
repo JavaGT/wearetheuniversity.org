@@ -1,9 +1,13 @@
 ---
 slug: 2013-three-minute-thesis-competition-final-in-australia
-title: "2013 Three Minute Thesis Competition Final In Australia"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/ED1309/S00110/2013-three-minute-thesis-competition-final-in-australia.htm
+title: 2013 Three Minute Thesis Competition Final In Australia
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00110/2013-three-minute-thesis-competition-final-in-australia.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/18/2013-three-minute-thesis-competition-final-in-australia/index.html
+layout: layout.njk
 ---
 2013 Three Minute Thesis Competition Final In Australia
 =======================================================

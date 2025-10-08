@@ -1,9 +1,13 @@
 ---
 slug: uc-experts-to-speak-in-london-on-christchurchs-earthquakes
-title: "UC experts to speak in London on Christchurch’s earthquakes"
-date: 2012-09-05
-source-url: https://www.scoop.co.nz/stories/ED1209/S00025/uc-experts-to-speak-in-london-on-christchurchs-earthquakes.htm
+title: UC experts to speak in London on Christchurch’s earthquakes
+date: 2012-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00025/uc-experts-to-speak-in-london-on-christchurchs-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/05/uc-experts-to-speak-in-london-on-christchurchs-earthquakes/index.html
+layout: layout.njk
 ---
 UC experts to speak in London on Christchurch’s earthquakes
 ===========================================================

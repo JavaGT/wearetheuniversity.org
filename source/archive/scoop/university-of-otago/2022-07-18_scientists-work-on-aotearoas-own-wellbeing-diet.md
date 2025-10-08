@@ -1,9 +1,12 @@
 ---
 slug: scientists-work-on-aotearoas-own-wellbeing-diet
-title: "Scientists Work On Aotearoa’s Own Wellbeing Diet"
-date: 2022-07-18
-source-url: https://www.scoop.co.nz/stories/SC2207/S00026/scientists-work-on-aotearoas-own-wellbeing-diet.htm
+title: Scientists Work On Aotearoa’s Own Wellbeing Diet
+date: 2022-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2207/S00026/scientists-work-on-aotearoas-own-wellbeing-diet.htm
 author: university-of-otago
+permalink: /archive/2022/07/18/scientists-work-on-aotearoas-own-wellbeing-diet/index.html
+layout: layout.njk
 ---
 Scientists Work On Aotearoa’s Own Wellbeing Diet
 ================================================

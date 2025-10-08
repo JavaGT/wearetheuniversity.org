@@ -1,9 +1,13 @@
 ---
 slug: poverty-not-inequality-should-be-our-main-concern
-title: "Poverty Not Inequality Should Be Our Main Concern"
-date: 2011-01-31
-source-url: https://www.scoop.co.nz/stories/BU1101/S00411/poverty-not-inequality-should-be-our-main-concern.htm
+title: Poverty Not Inequality Should Be Our Main Concern
+date: 2011-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1101/S00411/poverty-not-inequality-should-be-our-main-concern.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/01/31/poverty-not-inequality-should-be-our-main-concern/index.html
+layout: layout.njk
 ---
 Poverty Not Inequality Should Be Our Main Concern
 =================================================

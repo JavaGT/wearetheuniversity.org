@@ -1,9 +1,12 @@
 ---
 slug: is-the-energy-transition-taking-off—or-hitting-a-wall
-title: "Is The Energy Transition Taking Off—or Hitting A Wall?"
-date: 2022-10-06
-source-url: https://www.scoop.co.nz/stories/WO2210/S00036/is-the-energy-transition-taking-off-or-hitting-a-wall.htm
+title: Is The Energy Transition Taking Off—or Hitting A Wall?
+date: 2022-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2210/S00036/is-the-energy-transition-taking-off-or-hitting-a-wall.htm
 author: independent-media-institute
+permalink: /archive/2022/10/06/is-the-energy-transition-taking-off/index.html
+layout: layout.njk
 ---
 Is The Energy Transition Taking Off—or Hitting A Wall?
 ======================================================

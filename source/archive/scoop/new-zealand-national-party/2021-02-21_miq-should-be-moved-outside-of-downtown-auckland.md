@@ -1,9 +1,13 @@
 ---
 slug: miq-should-be-moved-outside-of-downtown-auckland
-title: "MIQ Should Be Moved Outside Of Downtown Auckland"
-date: 2021-02-21
-source-url: https://www.scoop.co.nz/stories/PA2102/S00113/miq-should-be-moved-outside-of-downtown-auckland.htm
+title: MIQ Should Be Moved Outside Of Downtown Auckland
+date: 2021-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00113/miq-should-be-moved-outside-of-downtown-auckland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/02/21/miq-should-be-moved-outside-of-downtown-auckland/index.html
+layout: layout.njk
 ---
 MIQ Should Be Moved Outside Of Downtown Auckland
 ================================================

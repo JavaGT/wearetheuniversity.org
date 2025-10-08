@@ -1,9 +1,12 @@
 ---
 slug: act-the-party-with-policies-to-bring-nz-home
-title: "ACT – The Party With Policies To Bring NZ Home"
-date: 2000-12-11
-source-url: https://www.scoop.co.nz/stories/PA0012/S00157/act-the-party-with-policies-to-bring-nz-home.htm
+title: ACT – The Party With Policies To Bring NZ Home
+date: 2000-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00157/act-the-party-with-policies-to-bring-nz-home.htm
 author: act-new-zealand
+permalink: /archive/2000/12/11/act-the-party-with-policies-to-bring-nz-home/index.html
+layout: layout.njk
 ---
 ACT – The Party With Policies To Bring NZ Home
 ==============================================

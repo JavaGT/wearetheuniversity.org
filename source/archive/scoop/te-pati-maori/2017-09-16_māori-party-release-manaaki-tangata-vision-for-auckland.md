@@ -1,9 +1,12 @@
 ---
 slug: māori-party-release-manaaki-tangata-vision-for-auckland
-title: "Māori Party release ‘manaaki tangata’ vision for Auckland"
-date: 2017-09-16
-source-url: https://www.scoop.co.nz/stories/PO1709/S00299/maori-party-release-manaaki-tangata-vision-for-auckland.htm
+title: Māori Party release ‘manaaki tangata’ vision for Auckland
+date: 2017-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00299/maori-party-release-manaaki-tangata-vision-for-auckland.htm
 author: te-pati-maori
+permalink: /archive/2017/09/16/m/index.html
+layout: layout.njk
 ---
 Māori Party release ‘manaaki tangata’ vision for Auckland
 =========================================================

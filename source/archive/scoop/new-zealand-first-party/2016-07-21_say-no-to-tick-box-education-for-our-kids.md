@@ -1,9 +1,12 @@
 ---
 slug: say-no-to-tick-box-education-for-our-kids
-title: "Say No to ‘Tick Box’ Education for Our Kids"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/PA1607/S00309/say-no-to-tick-box-education-for-our-kids.htm
+title: Say No to ‘Tick Box’ Education for Our Kids
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00309/say-no-to-tick-box-education-for-our-kids.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/21/say-no-to-tick-box-education-for-our-kids/index.html
+layout: layout.njk
 ---
 Say No to ‘Tick Box’ Education for Our Kids
 ===========================================

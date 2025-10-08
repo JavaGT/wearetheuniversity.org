@@ -1,9 +1,13 @@
 ---
 slug: aut-university-is-proud-to-celebrate-pacific-culture
-title: "AUT University is proud to celebrate Pacific culture"
-date: 2014-03-08
-source-url: https://www.scoop.co.nz/stories/ED1403/S00044/aut-university-is-proud-to-celebrate-pacific-culture.htm
+title: AUT University is proud to celebrate Pacific culture
+date: 2014-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00044/aut-university-is-proud-to-celebrate-pacific-culture.htm
 author: aut-university
+permalink: >-
+  /archive/2014/03/08/aut-university-is-proud-to-celebrate-pacific-culture/index.html
+layout: layout.njk
 ---
 AUT University is proud to celebrate Pacific culture
 ====================================================

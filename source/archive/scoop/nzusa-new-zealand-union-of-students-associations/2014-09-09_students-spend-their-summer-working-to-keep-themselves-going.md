@@ -1,9 +1,13 @@
 ---
 slug: students-spend-their-summer-working-to-keep-themselves-going
-title: "Students spend their summer working to keep themselves going"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/ED1409/S00042/students-spend-their-summer-working-to-keep-themselves-going.htm
+title: Students spend their summer working to keep themselves going
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00042/students-spend-their-summer-working-to-keep-themselves-going.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/09/09/students-spend-their-summer-working-to-keep-themselves-going/index.html
+layout: layout.njk
 ---
 Students spend their summer working to keep themselves going
 ============================================================

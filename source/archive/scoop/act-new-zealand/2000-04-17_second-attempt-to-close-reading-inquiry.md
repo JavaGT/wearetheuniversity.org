@@ -1,9 +1,12 @@
 ---
 slug: second-attempt-to-close-reading-inquiry
-title: "Second Attempt To Close Reading Inquiry"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PA0004/S00217/second-attempt-to-close-reading-inquiry.htm
+title: Second Attempt To Close Reading Inquiry
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00217/second-attempt-to-close-reading-inquiry.htm
 author: act-new-zealand
+permalink: /archive/2000/04/17/second-attempt-to-close-reading-inquiry/index.html
+layout: layout.njk
 ---
 Second Attempt To Close Reading Inquiry
 =======================================

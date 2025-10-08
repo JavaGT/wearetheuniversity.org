@@ -1,9 +1,13 @@
 ---
 slug: early-childhood-education-hui-to-showcase-quality-learning
-title: "Early childhood education hui to showcase quality learning"
-date: 2013-10-17
-source-url: https://www.scoop.co.nz/stories/ED1310/S00113/early-childhood-education-hui-to-showcase-quality-learning.htm
+title: Early childhood education hui to showcase quality learning
+date: 2013-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00113/early-childhood-education-hui-to-showcase-quality-learning.htm
 author: nzei
+permalink: >-
+  /archive/2013/10/17/early-childhood-education-hui-to-showcase-quality-learning/index.html
+layout: layout.njk
 ---
 Early childhood education hui to showcase quality learning
 ==========================================================

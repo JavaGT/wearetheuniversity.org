@@ -1,9 +1,12 @@
 ---
 slug: education-strategy-has-huge-issues-to-address
-title: "Education Strategy Has Huge Issues to Address"
-date: 2006-12-14
-source-url: https://www.scoop.co.nz/stories/ED0612/S00044/education-strategy-has-huge-issues-to-address.htm
+title: Education Strategy Has Huge Issues to Address
+date: 2006-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00044/education-strategy-has-huge-issues-to-address.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/12/14/education-strategy-has-huge-issues-to-address/index.html
+layout: layout.njk
 ---
 Education Strategy Has Huge Issues to Address
 =============================================

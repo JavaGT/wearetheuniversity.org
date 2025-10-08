@@ -1,9 +1,13 @@
 ---
 slug: major-donation-supports-music-at-university-of-waikato
-title: "Major donation supports Music at University of Waikato"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/ED1304/S00042/major-donation-supports-music-at-university-of-waikato.htm
+title: Major donation supports Music at University of Waikato
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00042/major-donation-supports-music-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/10/major-donation-supports-music-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 Major donation supports Music at University of Waikato
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-flip-flops-on-playcentre-funding
-title: "PM flip-flops on Playcentre funding"
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/PA1108/S00176/pm-flip-flops-on-playcentre-funding.htm
+title: PM flip-flops on Playcentre funding
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00176/pm-flip-flops-on-playcentre-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/09/pm-flip-flops-on-playcentre-funding/index.html
+layout: layout.njk
 ---
 PM flip-flops on Playcentre funding
 ===================================

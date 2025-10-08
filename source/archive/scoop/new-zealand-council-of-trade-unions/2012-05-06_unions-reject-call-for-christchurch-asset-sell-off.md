@@ -1,9 +1,13 @@
 ---
 slug: unions-reject-call-for-christchurch-asset-sell-off
-title: "Unions Reject Call for Christchurch Asset Sell Off"
-date: 2012-05-06
-source-url: https://www.scoop.co.nz/stories/PO1205/S00091/unions-reject-call-for-christchurch-asset-sell-off.htm
+title: Unions Reject Call for Christchurch Asset Sell Off
+date: 2012-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00091/unions-reject-call-for-christchurch-asset-sell-off.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/05/06/unions-reject-call-for-christchurch-asset-sell-off/index.html
+layout: layout.njk
 ---
 Unions Reject Call for Christchurch Asset Sell Off
 ==================================================

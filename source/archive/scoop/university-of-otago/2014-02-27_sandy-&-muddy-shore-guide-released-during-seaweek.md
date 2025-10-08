@@ -1,9 +1,12 @@
 ---
 slug: sandy-&-muddy-shore-guide-released-during-seaweek
-title: "Sandy & Muddy Shore Guide Released During Seaweek"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/SC1402/S00060/sandy-muddy-shore-guide-released-during-seaweek.htm
+title: Sandy & Muddy Shore Guide Released During Seaweek
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00060/sandy-muddy-shore-guide-released-during-seaweek.htm
 author: university-of-otago
+permalink: /archive/2014/02/27/sandy-/index.html
+layout: layout.njk
 ---
 Sandy & Muddy Shore Guide Released During Seaweek
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: eclectic-composer-comes-home-to-nz-school-of-music
-title: "Eclectic composer comes home to NZ School of Music"
-date: 2010-02-26
-source-url: https://www.scoop.co.nz/stories/ED1002/S00096/eclectic-composer-comes-home-to-nz-school-of-music.htm
+title: Eclectic composer comes home to NZ School of Music
+date: 2010-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00096/eclectic-composer-comes-home-to-nz-school-of-music.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/02/26/eclectic-composer-comes-home-to-nz-school-of-music/index.html
+layout: layout.njk
 ---
 Eclectic composer comes home to NZ School of Music
 ==================================================

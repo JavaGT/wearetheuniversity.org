@@ -1,9 +1,12 @@
 ---
 slug: law-changes-more-bureaucracy-for-retailers
-title: "Law changes more bureaucracy for retailers"
-date: 2001-08-07
-source-url: https://www.scoop.co.nz/stories/PA0108/S00145/law-changes-more-bureaucracy-for-retailers.htm
+title: Law changes more bureaucracy for retailers
+date: 2001-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00145/law-changes-more-bureaucracy-for-retailers.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/07/law-changes-more-bureaucracy-for-retailers/index.html
+layout: layout.njk
 ---
 Law changes more bureaucracy for retailers
 ==========================================

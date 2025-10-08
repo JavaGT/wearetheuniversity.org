@@ -1,9 +1,12 @@
 ---
 slug: peters-welcomes-billboard-interest
-title: "Peters Welcomes Billboard Interest"
-date: 2003-07-16
-source-url: https://www.scoop.co.nz/stories/PA0307/S00303/peters-welcomes-billboard-interest.htm
+title: Peters Welcomes Billboard Interest
+date: 2003-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00303/peters-welcomes-billboard-interest.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/16/peters-welcomes-billboard-interest/index.html
+layout: layout.njk
 ---
 Peters Welcomes Billboard Interest
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-the-amount-people-pay-for-water
-title: "UC investigating the amount people pay for water"
-date: 2013-11-24
-source-url: https://www.scoop.co.nz/stories/AK1311/S00715/uc-investigating-the-amount-people-pay-for-water.htm
+title: UC investigating the amount people pay for water
+date: 2013-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00715/uc-investigating-the-amount-people-pay-for-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/24/uc-investigating-the-amount-people-pay-for-water/index.html
+layout: layout.njk
 ---
 UC investigating the amount people pay for water
 ================================================

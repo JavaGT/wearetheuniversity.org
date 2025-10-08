@@ -1,9 +1,13 @@
 ---
 slug: is-work-causing-people-stress-or-are-people-just-stressed
-title: "Is work causing people stress or are people just stressed"
-date: 2013-06-03
-source-url: https://www.scoop.co.nz/stories/ED1306/S00004/is-work-causing-people-stress-or-are-people-just-stressed.htm
+title: Is work causing people stress or are people just stressed
+date: 2013-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00004/is-work-causing-people-stress-or-are-people-just-stressed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/03/is-work-causing-people-stress-or-are-people-just-stressed/index.html
+layout: layout.njk
 ---
 Is work causing people stress or are people just stressed
 =========================================================

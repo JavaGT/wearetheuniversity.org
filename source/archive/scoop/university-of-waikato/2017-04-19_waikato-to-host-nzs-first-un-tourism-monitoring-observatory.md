@@ -1,9 +1,13 @@
 ---
 slug: waikato-to-host-nzs-first-un-tourism-monitoring-observatory
-title: "Waikato to host NZ’s first UN tourism monitoring observatory"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/BU1704/S00482/waikato-to-host-nzs-first-un-tourism-monitoring-observatory.htm
+title: Waikato to host NZ’s first UN tourism monitoring observatory
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1704/S00482/waikato-to-host-nzs-first-un-tourism-monitoring-observatory.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/04/19/waikato-to-host-nzs-first-un-tourism-monitoring-observatory/index.html
+layout: layout.njk
 ---
 Waikato to host NZ’s first UN tourism monitoring observatory
 ============================================================

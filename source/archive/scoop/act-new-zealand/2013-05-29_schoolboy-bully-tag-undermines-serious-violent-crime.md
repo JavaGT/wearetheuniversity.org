@@ -1,9 +1,13 @@
 ---
 slug: schoolboy-bully-tag-undermines-serious-violent-crime
-title: "‘Schoolboy Bully’ Tag Undermines Serious Violent Crime"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/PO1305/S00428/schoolboy-bully-tag-undermines-serious-violent-crime.htm
+title: ‘Schoolboy Bully’ Tag Undermines Serious Violent Crime
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00428/schoolboy-bully-tag-undermines-serious-violent-crime.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/05/29/schoolboy-bully-tag-undermines-serious-violent-crime/index.html
+layout: layout.njk
 ---
 ‘Schoolboy Bully’ Tag Undermines Serious Violent Crime
 ======================================================

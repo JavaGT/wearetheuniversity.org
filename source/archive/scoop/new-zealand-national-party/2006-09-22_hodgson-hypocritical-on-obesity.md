@@ -1,9 +1,12 @@
 ---
 slug: hodgson-hypocritical-on-obesity
-title: "Hodgson hypocritical on obesity"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00496/hodgson-hypocritical-on-obesity.htm
+title: Hodgson hypocritical on obesity
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00496/hodgson-hypocritical-on-obesity.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/22/hodgson-hypocritical-on-obesity/index.html
+layout: layout.njk
 ---
 Hodgson hypocritical on obesity
 ===============================

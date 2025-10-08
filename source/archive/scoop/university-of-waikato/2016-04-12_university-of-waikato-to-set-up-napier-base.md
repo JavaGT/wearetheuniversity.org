@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-to-set-up-napier-base
-title: "University of Waikato to set up Napier base"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/ED1604/S00037/university-of-waikato-to-set-up-napier-base.htm
+title: University of Waikato to set up Napier base
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00037/university-of-waikato-to-set-up-napier-base.htm
 author: university-of-waikato
+permalink: /archive/2016/04/12/university-of-waikato-to-set-up-napier-base/index.html
+layout: layout.njk
 ---
 University of Waikato to set up Napier base
 ===========================================

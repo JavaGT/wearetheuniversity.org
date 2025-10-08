@@ -1,9 +1,13 @@
 ---
 slug: pem-bird-president-maori-party-report-to-hui-a-tau
-title: "Pem Bird, President Maori Party – Report to Hui a Tau"
-date: 2011-10-29
-source-url: https://www.scoop.co.nz/stories/PO1110/S00530/pem-bird-president-maori-party-report-to-hui-a-tau.htm
+title: Pem Bird, President Maori Party – Report to Hui a Tau
+date: 2011-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00530/pem-bird-president-maori-party-report-to-hui-a-tau.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/10/29/pem-bird-president-maori-party-report-to-hui-a-tau/index.html
+layout: layout.njk
 ---
 Pem Bird, President Maori Party – Report to Hui a Tau
 =====================================================

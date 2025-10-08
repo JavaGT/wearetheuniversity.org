@@ -1,9 +1,13 @@
 ---
 slug: blogs-have-become-more-influential-and-prominent-in-nz
-title: "Blogs have become more influential and prominent in NZ"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/PO1311/S00336/blogs-have-become-more-influential-and-prominent-in-nz.htm
+title: Blogs have become more influential and prominent in NZ
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00336/blogs-have-become-more-influential-and-prominent-in-nz.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/28/blogs-have-become-more-influential-and-prominent-in-nz/index.html
+layout: layout.njk
 ---
 Blogs have become more influential and prominent in NZ
 ======================================================

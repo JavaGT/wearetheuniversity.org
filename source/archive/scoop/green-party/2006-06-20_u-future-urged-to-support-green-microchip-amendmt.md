@@ -1,9 +1,13 @@
 ---
 slug: u-future-urged-to-support-green-microchip-amendmt
-title: "U Future urged to support Green microchip amendmt"
-date: 2006-06-20
-source-url: https://www.scoop.co.nz/stories/PA0606/S00365/u-future-urged-to-support-green-microchip-amendmt.htm
+title: U Future urged to support Green microchip amendmt
+date: 2006-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00365/u-future-urged-to-support-green-microchip-amendmt.htm
 author: green-party
+permalink: >-
+  /archive/2006/06/20/u-future-urged-to-support-green-microchip-amendmt/index.html
+layout: layout.njk
 ---
 U Future urged to support Green microchip amendmt
 =================================================

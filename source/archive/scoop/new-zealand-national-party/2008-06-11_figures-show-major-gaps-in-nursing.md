@@ -1,9 +1,12 @@
 ---
 slug: figures-show-major-gaps-in-nursing
-title: "Figures show major gaps in nursing"
-date: 2008-06-11
-source-url: https://www.scoop.co.nz/stories/PA0806/S00148/figures-show-major-gaps-in-nursing.htm
+title: Figures show major gaps in nursing
+date: 2008-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00148/figures-show-major-gaps-in-nursing.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/11/figures-show-major-gaps-in-nursing/index.html
+layout: layout.njk
 ---
 Figures show major gaps in nursing
 ==================================

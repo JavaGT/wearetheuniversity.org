@@ -1,4 +1,4 @@
----
+permalink: "/contact/index.html"
 slug: 'contact'
 title: 'Contact'
 ---

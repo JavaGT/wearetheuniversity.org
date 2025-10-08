@@ -1,9 +1,13 @@
 ---
 slug: aut-biodesign-collaborates-to-reduce-air-pollution-impact
-title: "AUT Biodesign Collaborates to Reduce Air Pollution Impact"
-date: 2020-01-13
-source-url: https://www.scoop.co.nz/stories/BU2001/S00035/aut-biodesign-collaborates-to-reduce-air-pollution-impact.htm
+title: AUT Biodesign Collaborates to Reduce Air Pollution Impact
+date: 2020-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2001/S00035/aut-biodesign-collaborates-to-reduce-air-pollution-impact.htm
 author: aut-university
+permalink: >-
+  /archive/2020/01/13/aut-biodesign-collaborates-to-reduce-air-pollution-impact/index.html
+layout: layout.njk
 ---
 AUT Biodesign Collaborates to Reduce Air Pollution Impact
 =========================================================

@@ -1,9 +1,11 @@
 ---
 slug: graduates-out-in-force
-title: "Graduates Out In Force"
-date: 2009-10-05
+title: Graduates Out In Force
+date: 2009-10-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0910/S00016/graduates-out-in-force.htm
 author: auckland-university
+permalink: /archive/2009/10/05/graduates-out-in-force/index.html
+layout: layout.njk
 ---
 Graduates Out In Force
 ======================

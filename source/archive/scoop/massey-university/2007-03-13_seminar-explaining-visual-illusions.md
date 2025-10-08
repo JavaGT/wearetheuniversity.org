@@ -1,9 +1,12 @@
 ---
 slug: seminar-explaining-visual-illusions
-title: "Seminar: Explaining Visual Illusions"
-date: 2007-03-13
-source-url: https://www.scoop.co.nz/stories/ED0703/S00040/seminar-explaining-visual-illusions.htm
+title: 'Seminar: Explaining Visual Illusions'
+date: 2007-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00040/seminar-explaining-visual-illusions.htm
 author: massey-university
+permalink: /archive/2007/03/13/seminar-explaining-visual-illusions/index.html
+layout: layout.njk
 ---
 Seminar: Explaining Visual Illusions
 ====================================

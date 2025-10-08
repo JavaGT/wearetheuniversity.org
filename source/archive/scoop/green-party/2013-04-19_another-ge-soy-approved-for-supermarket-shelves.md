@@ -1,9 +1,12 @@
 ---
 slug: another-ge-soy-approved-for-supermarket-shelves
-title: "Another GE soy approved for supermarket shelves"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/PA1304/S00394/another-ge-soy-approved-for-supermarket-shelves.htm
+title: Another GE soy approved for supermarket shelves
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00394/another-ge-soy-approved-for-supermarket-shelves.htm
 author: green-party
+permalink: /archive/2013/04/19/another-ge-soy-approved-for-supermarket-shelves/index.html
+layout: layout.njk
 ---
 Another GE soy approved for supermarket shelves
 ===============================================

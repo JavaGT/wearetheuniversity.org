@@ -1,9 +1,11 @@
 ---
 slug: the-unprincipled-treaty
-title: "\"The Unprincipled Treaty\""
-date: 2004-10-15
+title: '"The Unprincipled Treaty"'
+date: 2004-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0410/S00280/the-unprincipled-treaty.htm
 author: new-zealand-first-party
+permalink: /archive/2004/10/15/the-unprincipled-treaty/index.html
+layout: layout.njk
 ---
 “The Unprincipled Treaty”
 =========================

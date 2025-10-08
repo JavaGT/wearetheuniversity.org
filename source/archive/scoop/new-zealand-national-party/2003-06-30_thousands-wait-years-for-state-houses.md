@@ -1,9 +1,12 @@
 ---
 slug: thousands-wait-years-for-state-houses
-title: "Thousands wait years for state houses"
-date: 2003-06-30
-source-url: https://www.scoop.co.nz/stories/PA0306/S00549/thousands-wait-years-for-state-houses.htm
+title: Thousands wait years for state houses
+date: 2003-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00549/thousands-wait-years-for-state-houses.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/30/thousands-wait-years-for-state-houses/index.html
+layout: layout.njk
 ---
 Thousands wait years for state houses
 =====================================

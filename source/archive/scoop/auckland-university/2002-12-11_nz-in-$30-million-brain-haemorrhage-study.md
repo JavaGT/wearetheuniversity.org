@@ -1,9 +1,12 @@
 ---
 slug: nz-in-$30-million-brain-haemorrhage-study
-title: "NZ in $30 Million Brain Haemorrhage Study"
-date: 2002-12-11
-source-url: https://www.scoop.co.nz/stories/SC0212/S00017/nz-in-30-million-brain-haemorrhage-study.htm
+title: NZ in $30 Million Brain Haemorrhage Study
+date: 2002-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0212/S00017/nz-in-30-million-brain-haemorrhage-study.htm
 author: auckland-university
+permalink: /archive/2002/12/11/nz-in-/index.html
+layout: layout.njk
 ---
 NZ in $30 Million Brain Haemorrhage Study
 =========================================

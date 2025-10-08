@@ -1,9 +1,12 @@
 ---
 slug: labours-jobs-plan-is-falling-apart
-title: "Labour’s Jobs Plan Is Falling Apart"
-date: 2021-05-04
-source-url: https://www.scoop.co.nz/stories/PA2105/S00014/labours-jobs-plan-is-falling-apart.htm
+title: Labour’s Jobs Plan Is Falling Apart
+date: 2021-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00014/labours-jobs-plan-is-falling-apart.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/04/labours-jobs-plan-is-falling-apart/index.html
+layout: layout.njk
 ---
 Labour’s Jobs Plan Is Falling Apart
 ===================================

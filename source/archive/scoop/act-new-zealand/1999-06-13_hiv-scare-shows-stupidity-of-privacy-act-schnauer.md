@@ -1,9 +1,13 @@
 ---
 slug: hiv-scare-shows-stupidity-of-privacy-act-schnauer
-title: "HIV scare shows stupidity of Privacy Act: Schnauer"
-date: 1999-06-13
-source-url: https://www.scoop.co.nz/stories/PA9906/S00016/hiv-scare-shows-stupidity-of-privacy-act-schnauer.htm
+title: 'HIV scare shows stupidity of Privacy Act: Schnauer'
+date: 1999-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00016/hiv-scare-shows-stupidity-of-privacy-act-schnauer.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/06/13/hiv-scare-shows-stupidity-of-privacy-act-schnauer/index.html
+layout: layout.njk
 ---
 HIV scare shows stupidity of Privacy Act: Schnauer
 ==================================================

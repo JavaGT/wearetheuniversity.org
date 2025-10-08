@@ -1,9 +1,12 @@
 ---
 slug: inflation-aplenty-already-in-the-pipeline
-title: "Inflation aplenty already in the pipeline"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/BU0804/S00186/inflation-aplenty-already-in-the-pipeline.htm
+title: Inflation aplenty already in the pipeline
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0804/S00186/inflation-aplenty-already-in-the-pipeline.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/04/09/inflation-aplenty-already-in-the-pipeline/index.html
+layout: layout.njk
 ---
 Inflation aplenty already in the pipeline
 =========================================

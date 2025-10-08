@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-win-fellowships-worth-$3-2-million
-title: "Otago researchers win Fellowships worth $3.2 million"
-date: 2018-10-04
-source-url: https://www.scoop.co.nz/stories/SC1810/S00026/otago-researchers-win-fellowships-worth-32-million.htm
+title: Otago researchers win Fellowships worth $3.2 million
+date: 2018-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00026/otago-researchers-win-fellowships-worth-32-million.htm
 author: university-of-otago
+permalink: /archive/2018/10/04/otago-researchers-win-fellowships-worth-/index.html
+layout: layout.njk
 ---
 Otago researchers win Fellowships worth $3.2 million
 ====================================================

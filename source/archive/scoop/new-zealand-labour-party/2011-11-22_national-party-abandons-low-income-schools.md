@@ -1,9 +1,12 @@
 ---
 slug: national-party-abandons-low-income-schools
-title: "National Party abandons low income schools"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PA1111/S00436/national-party-abandons-low-income-schools.htm
+title: National Party abandons low income schools
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00436/national-party-abandons-low-income-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/22/national-party-abandons-low-income-schools/index.html
+layout: layout.njk
 ---
 National Party abandons low income schools
 ==========================================

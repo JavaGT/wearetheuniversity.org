@@ -1,9 +1,13 @@
 ---
 slug: bishop-urges-family-violence-conversation-to-continue
-title: "Bishop urges family violence conversation to continue"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/PA1603/S00044/bishop-urges-family-violence-conversation-to-continue.htm
+title: Bishop urges family violence conversation to continue
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00044/bishop-urges-family-violence-conversation-to-continue.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/03/02/bishop-urges-family-violence-conversation-to-continue/index.html
+layout: layout.njk
 ---
 Bishop urges family violence conversation to continue
 =====================================================

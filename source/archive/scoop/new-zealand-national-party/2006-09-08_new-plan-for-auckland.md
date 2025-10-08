@@ -1,9 +1,11 @@
 ---
 slug: new-plan-for-auckland
-title: "New plan for Auckland"
-date: 2006-09-08
+title: New plan for Auckland
+date: 2006-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00195/new-plan-for-auckland.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/08/new-plan-for-auckland/index.html
+layout: layout.njk
 ---
 New plan for Auckland
 =====================

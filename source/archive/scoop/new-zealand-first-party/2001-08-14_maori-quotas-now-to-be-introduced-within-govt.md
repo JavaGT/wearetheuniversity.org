@@ -1,9 +1,12 @@
 ---
 slug: maori-quotas-now-to-be-introduced-within-govt
-title: "Maori Quotas Now To Be Introduced Within Govt."
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/PA0108/S00294/maori-quotas-now-to-be-introduced-within-govt.htm
+title: Maori Quotas Now To Be Introduced Within Govt.
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00294/maori-quotas-now-to-be-introduced-within-govt.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/14/maori-quotas-now-to-be-introduced-within-govt/index.html
+layout: layout.njk
 ---
 Maori Quotas Now To Be Introduced Within Govt.
 ==============================================

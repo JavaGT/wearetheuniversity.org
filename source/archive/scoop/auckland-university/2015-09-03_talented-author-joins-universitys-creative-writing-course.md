@@ -1,9 +1,13 @@
 ---
 slug: talented-author-joins-universitys-creative-writing-course
-title: "Talented author joins university’s creative writing course"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/ED1509/S00018/talented-author-joins-universitys-creative-writing-course.htm
+title: Talented author joins university’s creative writing course
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00018/talented-author-joins-universitys-creative-writing-course.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/09/03/talented-author-joins-universitys-creative-writing-course/index.html
+layout: layout.njk
 ---
 Talented author joins university’s creative writing course
 ==========================================================

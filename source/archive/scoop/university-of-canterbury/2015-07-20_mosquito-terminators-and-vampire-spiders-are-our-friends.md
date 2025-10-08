@@ -1,9 +1,13 @@
 ---
 slug: mosquito-terminators-and-vampire-spiders-are-our-friends
-title: "Mosquito terminators and vampire spiders are our friends"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/SC1507/S00054/mosquito-terminators-and-vampire-spiders-are-our-friends.htm
+title: Mosquito terminators and vampire spiders are our friends
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00054/mosquito-terminators-and-vampire-spiders-are-our-friends.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/20/mosquito-terminators-and-vampire-spiders-are-our-friends/index.html
+layout: layout.njk
 ---
 Mosquito terminators and vampire spiders are our friends
 ========================================================

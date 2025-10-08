@@ -1,9 +1,12 @@
 ---
 slug: its-not-just-about-the-science
-title: "It's not just about the science"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/SC1610/S00011/its-not-just-about-the-science.htm
+title: It's not just about the science
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00011/its-not-just-about-the-science.htm
 author: massey-university
+permalink: /archive/2016/10/04/its-not-just-about-the-science/index.html
+layout: layout.njk
 ---
 It's not just about the science
 ===============================

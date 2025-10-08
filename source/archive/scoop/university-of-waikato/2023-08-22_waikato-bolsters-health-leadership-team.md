@@ -1,9 +1,12 @@
 ---
 slug: waikato-bolsters-health-leadership-team
-title: "Waikato Bolsters Health Leadership Team"
-date: 2023-08-22
-source-url: https://www.scoop.co.nz/stories/ED2308/S00040/waikato-bolsters-health-leadership-team.htm
+title: Waikato Bolsters Health Leadership Team
+date: 2023-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00040/waikato-bolsters-health-leadership-team.htm
 author: university-of-waikato
+permalink: /archive/2023/08/22/waikato-bolsters-health-leadership-team/index.html
+layout: layout.njk
 ---
 Waikato Bolsters Health Leadership Team
 =======================================

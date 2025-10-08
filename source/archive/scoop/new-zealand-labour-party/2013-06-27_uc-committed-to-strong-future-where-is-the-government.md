@@ -1,9 +1,13 @@
 ---
 slug: uc-committed-to-strong-future-where-is-the-government
-title: "UC committed to strong future – where is the Government?"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PA1306/S00460/uc-committed-to-strong-future-where-is-the-government.htm
+title: UC committed to strong future – where is the Government?
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00460/uc-committed-to-strong-future-where-is-the-government.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/27/uc-committed-to-strong-future-where-is-the-government/index.html
+layout: layout.njk
 ---
 UC committed to strong future – where is the Government?
 ========================================================

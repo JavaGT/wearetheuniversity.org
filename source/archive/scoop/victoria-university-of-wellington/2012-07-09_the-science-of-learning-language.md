@@ -1,9 +1,12 @@
 ---
 slug: the-science-of-learning-language
-title: "The science of learning language"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/ED1207/S00027/the-science-of-learning-language.htm
+title: The science of learning language
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00027/the-science-of-learning-language.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/09/the-science-of-learning-language/index.html
+layout: layout.njk
 ---
 The science of learning language
 ================================

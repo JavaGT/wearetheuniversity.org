@@ -1,9 +1,13 @@
 ---
 slug: celebrate-nz-but-kiwi-kids-and-women-still-missing-out
-title: "Celebrate NZ but Kiwi kids and women still missing out"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/PA1404/S00090/celebrate-nz-but-kiwi-kids-and-women-still-missing-out.htm
+title: Celebrate NZ but Kiwi kids and women still missing out
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00090/celebrate-nz-but-kiwi-kids-and-women-still-missing-out.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/04/celebrate-nz-but-kiwi-kids-and-women-still-missing-out/index.html
+layout: layout.njk
 ---
 Celebrate NZ but Kiwi kids and women still missing out
 ======================================================

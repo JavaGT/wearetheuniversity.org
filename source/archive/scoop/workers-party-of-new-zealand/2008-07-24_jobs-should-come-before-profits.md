@@ -1,9 +1,12 @@
 ---
 slug: jobs-should-come-before-profits
-title: "Jobs Should Come Before Profits"
-date: 2008-07-24
-source-url: https://www.scoop.co.nz/stories/PO0807/S00290/jobs-should-come-before-profits.htm
+title: Jobs Should Come Before Profits
+date: 2008-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00290/jobs-should-come-before-profits.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2008/07/24/jobs-should-come-before-profits/index.html
+layout: layout.njk
 ---
 Jobs Should Come Before Profits
 ===============================

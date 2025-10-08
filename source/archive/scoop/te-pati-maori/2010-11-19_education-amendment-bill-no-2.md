@@ -1,9 +1,12 @@
 ---
 slug: education-amendment-bill-no-2
-title: "Education Amendment Bill no 2"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/PA1011/S00411/education-amendment-bill-no-2.htm
+title: Education Amendment Bill no 2
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00411/education-amendment-bill-no-2.htm
 author: te-pati-maori
+permalink: /archive/2010/11/19/education-amendment-bill-no-2/index.html
+layout: layout.njk
 ---
 Education Amendment Bill no 2
 =============================

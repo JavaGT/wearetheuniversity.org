@@ -1,9 +1,12 @@
 ---
 slug: greens-announce-$1-billion-additional-investment-in-r&d
-title: "Greens announce $1 billion additional investment in R&D"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/PA1407/S00294/greens-announce-1-billion-additional-investment-in-rd.htm
+title: Greens announce $1 billion additional investment in R&D
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00294/greens-announce-1-billion-additional-investment-in-rd.htm
 author: green-party
+permalink: /archive/2014/07/16/greens-announce-/index.html
+layout: layout.njk
 ---
 Greens announce $1 billion additional investment in R&D
 =======================================================

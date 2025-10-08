@@ -1,9 +1,12 @@
 ---
 slug: conviction-fine-for-using-fake-massey-degree
-title: "Conviction, fine for using fake Massey degree"
-date: 2008-06-03
-source-url: https://www.scoop.co.nz/stories/ED0806/S00005/conviction-fine-for-using-fake-massey-degree.htm
+title: Conviction, fine for using fake Massey degree
+date: 2008-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00005/conviction-fine-for-using-fake-massey-degree.htm
 author: massey-university
+permalink: /archive/2008/06/03/conviction-fine-for-using-fake-massey-degree/index.html
+layout: layout.njk
 ---
 Conviction, fine for using fake Massey degree
 =============================================

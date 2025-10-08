@@ -1,9 +1,12 @@
 ---
 slug: how-do-we-decide-which-species-to-resurrect
-title: "How do we decide which species to resurrect?"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/SC1705/S00026/how-do-we-decide-which-species-to-resurrect.htm
+title: How do we decide which species to resurrect?
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00026/how-do-we-decide-which-species-to-resurrect.htm
 author: university-of-otago
+permalink: /archive/2017/05/09/how-do-we-decide-which-species-to-resurrect/index.html
+layout: layout.njk
 ---
 How do we decide which species to resurrect?
 ============================================

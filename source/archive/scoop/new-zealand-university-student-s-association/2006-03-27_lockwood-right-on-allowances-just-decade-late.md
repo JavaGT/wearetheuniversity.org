@@ -1,9 +1,12 @@
 ---
 slug: lockwood-right-on-allowances-just-decade-late
-title: "Lockwood right on allowances – just decade late"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/ED0603/S00074/lockwood-right-on-allowances-just-decade-late.htm
+title: Lockwood right on allowances – just decade late
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00074/lockwood-right-on-allowances-just-decade-late.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/03/27/lockwood-right-on-allowances-just-decade-late/index.html
+layout: layout.njk
 ---
 Lockwood right on allowances – just decade late
 ===============================================

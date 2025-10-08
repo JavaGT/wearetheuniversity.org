@@ -1,9 +1,13 @@
 ---
 slug: new-study-uncovers-more-causes-of-coral-bleaching
-title: "New study uncovers more causes of coral bleaching"
-date: 2020-08-24
-source-url: https://www.scoop.co.nz/stories/SC2008/S00049/new-study-uncovers-more-causes-of-coral-bleaching.htm
+title: New study uncovers more causes of coral bleaching
+date: 2020-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00049/new-study-uncovers-more-causes-of-coral-bleaching.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/08/24/new-study-uncovers-more-causes-of-coral-bleaching/index.html
+layout: layout.njk
 ---
 New study uncovers more causes of coral bleaching
 =================================================

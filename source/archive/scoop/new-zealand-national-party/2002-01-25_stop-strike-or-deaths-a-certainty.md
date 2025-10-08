@@ -1,9 +1,12 @@
 ---
 slug: stop-strike-or-deaths-a-certainty
-title: "Stop Strike Or Deaths A Certainty"
-date: 2002-01-25
-source-url: https://www.scoop.co.nz/stories/PA0201/S00163/stop-strike-or-deaths-a-certainty.htm
+title: Stop Strike Or Deaths A Certainty
+date: 2002-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00163/stop-strike-or-deaths-a-certainty.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/25/stop-strike-or-deaths-a-certainty/index.html
+layout: layout.njk
 ---
 Stop Strike Or Deaths A Certainty
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: lets-have-an-election-richard-prebble-speech
-title: "Let's Have an Election - Richard Prebble Speech"
-date: 2002-06-27
-source-url: https://www.scoop.co.nz/stories/PA0206/S00487/lets-have-an-election-richard-prebble-speech.htm
+title: Let's Have an Election - Richard Prebble Speech
+date: 2002-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00487/lets-have-an-election-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2002/06/27/lets-have-an-election-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 Let's Have an Election - Richard Prebble Speech
 ===============================================

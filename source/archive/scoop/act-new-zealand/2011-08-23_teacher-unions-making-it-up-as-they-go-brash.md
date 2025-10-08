@@ -1,9 +1,12 @@
 ---
 slug: teacher-unions-making-it-up-as-they-go-brash
-title: "Teacher Unions Making It Up As They Go - Brash"
-date: 2011-08-23
-source-url: https://www.scoop.co.nz/stories/PA1108/S00468/teacher-unions-making-it-up-as-they-go-brash.htm
+title: Teacher Unions Making It Up As They Go - Brash
+date: 2011-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00468/teacher-unions-making-it-up-as-they-go-brash.htm
 author: act-new-zealand
+permalink: /archive/2011/08/23/teacher-unions-making-it-up-as-they-go-brash/index.html
+layout: layout.njk
 ---
 Teacher Unions Making It Up As They Go - Brash
 ==============================================

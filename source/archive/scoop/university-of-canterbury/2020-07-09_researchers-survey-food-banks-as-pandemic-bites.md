@@ -1,9 +1,12 @@
 ---
 slug: researchers-survey-food-banks-as-pandemic-bites
-title: "Researchers Survey Food Banks As Pandemic Bites"
-date: 2020-07-09
-source-url: https://www.scoop.co.nz/stories/PO2007/S00130/researchers-survey-food-banks-as-pandemic-bites.htm
+title: Researchers Survey Food Banks As Pandemic Bites
+date: 2020-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00130/researchers-survey-food-banks-as-pandemic-bites.htm
 author: university-of-canterbury
+permalink: /archive/2020/07/09/researchers-survey-food-banks-as-pandemic-bites/index.html
+layout: layout.njk
 ---
 Researchers Survey Food Banks As Pandemic Bites
 ===============================================

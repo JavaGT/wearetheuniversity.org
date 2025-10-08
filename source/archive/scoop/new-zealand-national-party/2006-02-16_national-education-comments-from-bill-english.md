@@ -1,9 +1,12 @@
 ---
 slug: national-education-comments-from-bill-english
-title: "National Education - Comments from Bill English"
-date: 2006-02-16
-source-url: https://www.scoop.co.nz/stories/PA0602/S00227/national-education-comments-from-bill-english.htm
+title: National Education - Comments from Bill English
+date: 2006-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00227/national-education-comments-from-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/16/national-education-comments-from-bill-english/index.html
+layout: layout.njk
 ---
 National Education - Comments from Bill English
 ===============================================

@@ -1,9 +1,16 @@
 ---
-slug: emele-ugavule-named-as-2024-emerging-pasifika-writer-in-residence-at-te-herenga-waka—victoria-university-of-wellington
-title: "Emele Ugavule Named As 2024 Emerging Pasifika Writer In Residence At Te Herenga Waka—Victoria University Of Wellington"
-date: 2024-07-11
-source-url: https://www.scoop.co.nz/stories/CU2407/S00173/emele-ugavule-named-as-2024-emerging-pasifika-writer-in-residence-at-te-herenga-waka-victoria-university-of-wellington.htm
+slug: >-
+  emele-ugavule-named-as-2024-emerging-pasifika-writer-in-residence-at-te-herenga-waka—victoria-university-of-wellington
+title: >-
+  Emele Ugavule Named As 2024 Emerging Pasifika Writer In Residence At Te
+  Herenga Waka—Victoria University Of Wellington
+date: 2024-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2407/S00173/emele-ugavule-named-as-2024-emerging-pasifika-writer-in-residence-at-te-herenga-waka-victoria-university-of-wellington.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/07/11/emele-ugavule-named-as-2024-emerging-pasifika-writer-in-residence-at-te-herenga-waka/index.html
+layout: layout.njk
 ---
 Emele Ugavule Named As 2024 Emerging Pasifika Writer In Residence At Te Herenga Waka—Victoria University Of Wellington
 ======================================================================================================================

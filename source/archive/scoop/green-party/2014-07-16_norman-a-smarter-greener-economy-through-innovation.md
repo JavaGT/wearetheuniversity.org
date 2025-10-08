@@ -1,9 +1,13 @@
 ---
 slug: norman-a-smarter-greener-economy-through-innovation
-title: "Norman: A smarter greener economy through innovation"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/PA1407/S00295/norman-a-smarter-greener-economy-through-innovation.htm
+title: 'Norman: A smarter greener economy through innovation'
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00295/norman-a-smarter-greener-economy-through-innovation.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/16/norman-a-smarter-greener-economy-through-innovation/index.html
+layout: layout.njk
 ---
 Norman: A smarter greener economy through innovation
 ====================================================

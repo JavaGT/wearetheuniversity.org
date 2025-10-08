@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-paper-savings-climb-sky-high
-title: "Waikato University paper savings climb sky high"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/ED1202/S00116/waikato-university-paper-savings-climb-sky-high.htm
+title: Waikato University paper savings climb sky high
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00116/waikato-university-paper-savings-climb-sky-high.htm
 author: waikato-university
+permalink: /archive/2012/02/27/waikato-university-paper-savings-climb-sky-high/index.html
+layout: layout.njk
 ---
 Waikato University paper savings climb sky high
 ===============================================

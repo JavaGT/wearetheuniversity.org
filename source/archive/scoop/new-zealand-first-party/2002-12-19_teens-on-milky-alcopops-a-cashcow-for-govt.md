@@ -1,9 +1,12 @@
 ---
 slug: teens-on-milky-alcopops-a-cashcow-for-govt
-title: "Teens On Milky Alcopops a Cashcow For Govt"
-date: 2002-12-19
-source-url: https://www.scoop.co.nz/stories/PA0212/S00487/teens-on-milky-alcopops-a-cashcow-for-govt.htm
+title: Teens On Milky Alcopops a Cashcow For Govt
+date: 2002-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00487/teens-on-milky-alcopops-a-cashcow-for-govt.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/19/teens-on-milky-alcopops-a-cashcow-for-govt/index.html
+layout: layout.njk
 ---
 Teens On Milky Alcopops a Cashcow For Govt
 ==========================================

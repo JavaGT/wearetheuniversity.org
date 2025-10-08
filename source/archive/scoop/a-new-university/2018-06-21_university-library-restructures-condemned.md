@@ -1,9 +1,12 @@
 ---
 slug: university-library-restructures-condemned
-title: "University Library Restructures condemned"
-date: 2018-06-21
-source-url: https://www.scoop.co.nz/stories/PO1806/S00230/university-library-restructures-condemned.htm
+title: University Library Restructures condemned
+date: 2018-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00230/university-library-restructures-condemned.htm
 author: a-new-university
+permalink: /archive/2018/06/21/university-library-restructures-condemned/index.html
+layout: layout.njk
 ---
 University Library Restructures condemned
 =========================================

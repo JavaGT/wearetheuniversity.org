@@ -1,9 +1,12 @@
 ---
 slug: be-leadership-group-political-leadership
-title: "Be Leadership Group: Political Leadership"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PA1109/S00052/be-leadership-group-political-leadership.htm
+title: 'Be Leadership Group: Political Leadership'
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00052/be-leadership-group-political-leadership.htm
 author: te-pati-maori
+permalink: /archive/2011/09/02/be-leadership-group-political-leadership/index.html
+layout: layout.njk
 ---
 Be Leadership Group: Political Leadership
 =========================================

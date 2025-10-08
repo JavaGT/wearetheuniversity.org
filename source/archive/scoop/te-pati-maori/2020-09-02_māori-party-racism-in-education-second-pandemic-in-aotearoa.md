@@ -1,9 +1,12 @@
 ---
 slug: māori-party-racism-in-education-second-pandemic-in-aotearoa
-title: "Māori Party: Racism In Education, Second Pandemic In Aotearoa"
-date: 2020-09-02
-source-url: https://www.scoop.co.nz/stories/PO2009/S00015/maori-party-racism-in-education-second-pandemic-in-aotearoa.htm
+title: 'Māori Party: Racism In Education, Second Pandemic In Aotearoa'
+date: 2020-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00015/maori-party-racism-in-education-second-pandemic-in-aotearoa.htm
 author: te-pati-maori
+permalink: /archive/2020/09/02/m/index.html
+layout: layout.njk
 ---
 Māori Party: Racism In Education, Second Pandemic In Aotearoa
 =============================================================

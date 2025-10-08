@@ -1,9 +1,12 @@
 ---
 slug: students-needed-for-szun-sea-and-wine
-title: "Students needed for szun, sea - and wine"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/SC0907/S00056/students-needed-for-szun-sea-and-wine.htm
+title: Students needed for szun, sea - and wine
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00056/students-needed-for-szun-sea-and-wine.htm
 author: university-of-waikato
+permalink: /archive/2009/07/30/students-needed-for-szun-sea-and-wine/index.html
+layout: layout.njk
 ---
 Students needed for szun, sea - and wine
 ========================================

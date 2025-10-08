@@ -1,9 +1,12 @@
 ---
 slug: milton-hilton-a-monument-to-bad-management
-title: "Milton Hilton a monument to bad management"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00238/milton-hilton-a-monument-to-bad-management.htm
+title: Milton Hilton a monument to bad management
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00238/milton-hilton-a-monument-to-bad-management.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/10/milton-hilton-a-monument-to-bad-management/index.html
+layout: layout.njk
 ---
 Milton Hilton a monument to bad management
 ==========================================

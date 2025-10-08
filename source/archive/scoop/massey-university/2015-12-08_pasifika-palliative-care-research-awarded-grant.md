@@ -1,9 +1,12 @@
 ---
 slug: pasifika-palliative-care-research-awarded-grant
-title: "Pasifika palliative care research awarded grant"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/ED1512/S00032/pasifika-palliative-care-research-awarded-grant.htm
+title: Pasifika palliative care research awarded grant
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00032/pasifika-palliative-care-research-awarded-grant.htm
 author: massey-university
+permalink: /archive/2015/12/08/pasifika-palliative-care-research-awarded-grant/index.html
+layout: layout.njk
 ---
 Pasifika palliative care research awarded grant
 ===============================================

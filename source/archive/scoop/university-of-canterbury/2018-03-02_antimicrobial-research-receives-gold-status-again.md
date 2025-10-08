@@ -1,9 +1,13 @@
 ---
 slug: antimicrobial-research-receives-gold-status-again
-title: "Antimicrobial research receives Gold status again"
-date: 2018-03-02
-source-url: https://www.scoop.co.nz/stories/SC1803/S00004/antimicrobial-research-receives-gold-status-again.htm
+title: Antimicrobial research receives Gold status again
+date: 2018-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00004/antimicrobial-research-receives-gold-status-again.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/02/antimicrobial-research-receives-gold-status-again/index.html
+layout: layout.njk
 ---
 Antimicrobial research receives Gold status again
 =================================================

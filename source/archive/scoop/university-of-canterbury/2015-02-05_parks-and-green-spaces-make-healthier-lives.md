@@ -1,9 +1,12 @@
 ---
 slug: parks-and-green-spaces-make-healthier-lives
-title: "Parks and green spaces make healthier lives"
-date: 2015-02-05
-source-url: https://www.scoop.co.nz/stories/GE1502/S00015/parks-and-green-spaces-make-healthier-lives.htm
+title: Parks and green spaces make healthier lives
+date: 2015-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00015/parks-and-green-spaces-make-healthier-lives.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/05/parks-and-green-spaces-make-healthier-lives/index.html
+layout: layout.njk
 ---
 Parks and green spaces make healthier lives
 ===========================================

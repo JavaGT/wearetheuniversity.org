@@ -1,9 +1,12 @@
 ---
 slug: female-students-demand-flexible-working-hours
-title: "Female students demand flexible working hours"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/ED0611/S00013/female-students-demand-flexible-working-hours.htm
+title: Female students demand flexible working hours
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00013/female-students-demand-flexible-working-hours.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/11/06/female-students-demand-flexible-working-hours/index.html
+layout: layout.njk
 ---
 Female students demand flexible working hours
 =============================================

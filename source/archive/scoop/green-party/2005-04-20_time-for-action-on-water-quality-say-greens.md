@@ -1,9 +1,12 @@
 ---
 slug: time-for-action-on-water-quality-say-greens
-title: "Time for action on water quality, say Greens"
-date: 2005-04-20
-source-url: https://www.scoop.co.nz/stories/PA0504/S00428/time-for-action-on-water-quality-say-greens.htm
+title: Time for action on water quality, say Greens
+date: 2005-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00428/time-for-action-on-water-quality-say-greens.htm
 author: green-party
+permalink: /archive/2005/04/20/time-for-action-on-water-quality-say-greens/index.html
+layout: layout.njk
 ---
 Time for action on water quality, say Greens
 ============================================

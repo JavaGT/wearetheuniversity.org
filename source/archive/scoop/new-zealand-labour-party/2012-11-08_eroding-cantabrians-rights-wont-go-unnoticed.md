@@ -1,9 +1,12 @@
 ---
 slug: eroding-cantabrians-rights-wont-go-unnoticed
-title: "Eroding Cantabrians rights won’t go unnoticed"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00132/eroding-cantabrians-rights-wont-go-unnoticed.htm
+title: Eroding Cantabrians rights won’t go unnoticed
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00132/eroding-cantabrians-rights-wont-go-unnoticed.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/08/eroding-cantabrians-rights-wont-go-unnoticed/index.html
+layout: layout.njk
 ---
 Eroding Cantabrians rights won’t go unnoticed
 =============================================

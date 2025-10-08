@@ -1,9 +1,12 @@
 ---
 slug: english-tolleys-cooked-up-moroccan-excuse
-title: "English: Tolley’s cooked up Moroccan excuse"
-date: 2009-06-17
-source-url: https://www.scoop.co.nz/stories/PA0906/S00221/english-tolleys-cooked-up-moroccan-excuse.htm
+title: 'English: Tolley’s cooked up Moroccan excuse'
+date: 2009-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00221/english-tolleys-cooked-up-moroccan-excuse.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/17/english-tolleys-cooked-up-moroccan-excuse/index.html
+layout: layout.njk
 ---
 English: Tolley’s cooked up Moroccan excuse
 ===========================================

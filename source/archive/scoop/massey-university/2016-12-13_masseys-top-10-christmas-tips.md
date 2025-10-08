@@ -1,9 +1,12 @@
 ---
 slug: masseys-top-10-christmas-tips
-title: "Massey’s top 10 Christmas tips"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/CU1612/S00210/masseys-top-10-christmas-tips.htm
+title: Massey’s top 10 Christmas tips
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00210/masseys-top-10-christmas-tips.htm
 author: massey-university
+permalink: /archive/2016/12/13/masseys-top-10-christmas-tips/index.html
+layout: layout.njk
 ---
 Massey’s top 10 Christmas tips
 ==============================

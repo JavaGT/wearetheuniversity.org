@@ -1,9 +1,12 @@
 ---
 slug: prebble-labour-is-undermining-the-constitution
-title: "Prebble: Labour is Undermining the Constitution"
-date: 2003-08-04
-source-url: https://www.scoop.co.nz/stories/PA0308/S00038/prebble-labour-is-undermining-the-constitution.htm
+title: 'Prebble: Labour is Undermining the Constitution'
+date: 2003-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00038/prebble-labour-is-undermining-the-constitution.htm
 author: act-new-zealand
+permalink: /archive/2003/08/04/prebble-labour-is-undermining-the-constitution/index.html
+layout: layout.njk
 ---
 Prebble: Labour is Undermining the Constitution
 ===============================================

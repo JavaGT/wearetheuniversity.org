@@ -1,9 +1,12 @@
 ---
 slug: teu-coat-tailing-to-massey-vice-chancellor-sad
-title: "TEU coat-tailing to Massey Vice-Chancellor ‘sad’"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/PO1809/S00273/teu-coat-tailing-to-massey-vice-chancellor-sad.htm
+title: TEU coat-tailing to Massey Vice-Chancellor ‘sad’
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00273/teu-coat-tailing-to-massey-vice-chancellor-sad.htm
 author: free-speech-coalition
+permalink: /archive/2018/09/21/teu-coat-tailing-to-massey-vice-chancellor-sad/index.html
+layout: layout.njk
 ---
 TEU coat-tailing to Massey Vice-Chancellor ‘sad’
 ================================================

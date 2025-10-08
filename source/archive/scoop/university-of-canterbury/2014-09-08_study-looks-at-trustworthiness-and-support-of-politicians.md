@@ -1,9 +1,13 @@
 ---
 slug: study-looks-at-trustworthiness-and-support-of-politicians
-title: "Study looks at trustworthiness and support of politicians"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/PO1409/S00149/study-looks-at-trustworthiness-and-support-of-politicians.htm
+title: Study looks at trustworthiness and support of politicians
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00149/study-looks-at-trustworthiness-and-support-of-politicians.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/08/study-looks-at-trustworthiness-and-support-of-politicians/index.html
+layout: layout.njk
 ---
 Study looks at trustworthiness and support of politicians
 =========================================================

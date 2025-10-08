@@ -1,9 +1,12 @@
 ---
 slug: freemasons-scholarship-winner-offers-gift
-title: "Freemasons scholarship winner offers gift"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/ED0805/S00056/freemasons-scholarship-winner-offers-gift.htm
+title: Freemasons scholarship winner offers gift
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00056/freemasons-scholarship-winner-offers-gift.htm
 author: massey-university
+permalink: /archive/2008/05/16/freemasons-scholarship-winner-offers-gift/index.html
+layout: layout.njk
 ---
 Freemasons scholarship winner offers gift
 =========================================

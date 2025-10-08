@@ -1,9 +1,13 @@
 ---
 slug: uc-to-give-public-lecture-on-nzs-health-challenges
-title: "UC to give public lecture on NZ’s health challenges"
-date: 2014-02-25
-source-url: https://www.scoop.co.nz/stories/GE1402/S00091/uc-to-give-public-lecture-on-nzs-health-challenges.htm
+title: UC to give public lecture on NZ’s health challenges
+date: 2014-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1402/S00091/uc-to-give-public-lecture-on-nzs-health-challenges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/25/uc-to-give-public-lecture-on-nzs-health-challenges/index.html
+layout: layout.njk
 ---
 UC to give public lecture on NZ’s health challenges
 ===================================================

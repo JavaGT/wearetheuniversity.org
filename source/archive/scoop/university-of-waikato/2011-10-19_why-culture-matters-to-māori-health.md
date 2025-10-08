@@ -1,9 +1,12 @@
 ---
 slug: why-culture-matters-to-māori-health
-title: "Why culture matters to Māori health"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/CU1110/S00269/why-culture-matters-to-maori-health.htm
+title: Why culture matters to Māori health
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00269/why-culture-matters-to-maori-health.htm
 author: university-of-waikato
+permalink: /archive/2011/10/19/why-culture-matters-to-m/index.html
+layout: layout.njk
 ---
 Why culture matters to Māori health
 ===================================

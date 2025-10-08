@@ -1,9 +1,11 @@
 ---
 slug: time-for-a-change
-title: "Time For A Change"
-date: 2002-06-06
+title: Time For A Change
+date: 2002-06-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00080/time-for-a-change.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/06/time-for-a-change/index.html
+layout: layout.njk
 ---
 Time For A Change
 =================

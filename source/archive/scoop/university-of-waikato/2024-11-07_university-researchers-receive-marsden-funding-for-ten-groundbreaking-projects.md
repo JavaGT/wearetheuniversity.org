@@ -1,9 +1,13 @@
 ---
 slug: university-researchers-receive-marsden-funding-for-ten-groundbreaking-projects
-title: "University Researchers Receive Marsden Funding For Ten Groundbreaking Projects"
-date: 2024-11-07
-source-url: https://www.scoop.co.nz/stories/ED2411/S00017/university-researchers-receive-marsden-funding-for-ten-groundbreaking-projects.htm
+title: University Researchers Receive Marsden Funding For Ten Groundbreaking Projects
+date: 2024-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00017/university-researchers-receive-marsden-funding-for-ten-groundbreaking-projects.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/11/07/university-researchers-receive-marsden-funding-for-ten-groundbreaking-projects/index.html
+layout: layout.njk
 ---
 University Researchers Receive Marsden Funding For Ten Groundbreaking Projects
 ==============================================================================

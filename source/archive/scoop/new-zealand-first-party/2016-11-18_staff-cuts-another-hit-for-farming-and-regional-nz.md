@@ -1,9 +1,13 @@
 ---
 slug: staff-cuts-another-hit-for-farming-and-regional-nz
-title: "Staff Cuts Another Hit for Farming And Regional NZ"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/PA1611/S00325/staff-cuts-another-hit-for-farming-and-regional-nz.htm
+title: Staff Cuts Another Hit for Farming And Regional NZ
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00325/staff-cuts-another-hit-for-farming-and-regional-nz.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/18/staff-cuts-another-hit-for-farming-and-regional-nz/index.html
+layout: layout.njk
 ---
 Staff Cuts Another Hit for Farming And Regional NZ
 ==================================================

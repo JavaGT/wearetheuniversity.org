@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-integration-or-disintegration
-title: "Speech: Peters - Integration or Disintegration?"
-date: 2009-11-12
-source-url: https://www.scoop.co.nz/stories/PO0911/S00120/speech-peters-integration-or-disintegration.htm
+title: 'Speech: Peters - Integration or Disintegration?'
+date: 2009-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00120/speech-peters-integration-or-disintegration.htm
 author: new-zealand-first-party
+permalink: /archive/2009/11/12/speech-peters-integration-or-disintegration/index.html
+layout: layout.njk
 ---
 Speech: Peters - Integration or Disintegration?
 ===============================================

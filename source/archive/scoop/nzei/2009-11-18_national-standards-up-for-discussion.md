@@ -1,9 +1,12 @@
 ---
 slug: national-standards-up-for-discussion
-title: "National Standards Up For Discussion"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/ED0911/S00075/national-standards-up-for-discussion.htm
+title: National Standards Up For Discussion
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00075/national-standards-up-for-discussion.htm
 author: nzei
+permalink: /archive/2009/11/18/national-standards-up-for-discussion/index.html
+layout: layout.njk
 ---
 National Standards Up For Discussion
 ====================================

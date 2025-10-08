@@ -1,9 +1,12 @@
 ---
 slug: more-skills-for-teachers-needed-awatere-huata
-title: "More Skills For Teachers Needed - Awatere Huata"
-date: 2000-02-01
-source-url: https://www.scoop.co.nz/stories/PA0002/S00010/more-skills-for-teachers-needed-awatere-huata.htm
+title: More Skills For Teachers Needed - Awatere Huata
+date: 2000-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00010/more-skills-for-teachers-needed-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2000/02/01/more-skills-for-teachers-needed-awatere-huata/index.html
+layout: layout.njk
 ---
 More Skills For Teachers Needed - Awatere Huata
 ===============================================

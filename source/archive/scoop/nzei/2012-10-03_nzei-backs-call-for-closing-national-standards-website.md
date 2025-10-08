@@ -1,9 +1,13 @@
 ---
 slug: nzei-backs-call-for-closing-national-standards-website
-title: "NZEI backs call for closing National Standards website"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/ED1210/S00022/nzei-backs-call-for-closing-national-standards-website.htm
+title: NZEI backs call for closing National Standards website
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00022/nzei-backs-call-for-closing-national-standards-website.htm
 author: nzei
+permalink: >-
+  /archive/2012/10/03/nzei-backs-call-for-closing-national-standards-website/index.html
+layout: layout.njk
 ---
 NZEI backs call for closing National Standards website
 ======================================================

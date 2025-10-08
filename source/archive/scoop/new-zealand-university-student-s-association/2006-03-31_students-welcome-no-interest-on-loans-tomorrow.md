@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-no-interest-on-loans-tomorrow
-title: "Students welcome no interest on loans tomorrow"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/ED0603/S00096/students-welcome-no-interest-on-loans-tomorrow.htm
+title: Students welcome no interest on loans tomorrow
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00096/students-welcome-no-interest-on-loans-tomorrow.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/03/31/students-welcome-no-interest-on-loans-tomorrow/index.html
+layout: layout.njk
 ---
 Students welcome no interest on loans tomorrow
 ==============================================

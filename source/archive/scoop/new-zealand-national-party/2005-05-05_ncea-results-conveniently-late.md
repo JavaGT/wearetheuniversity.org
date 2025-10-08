@@ -1,9 +1,12 @@
 ---
 slug: ncea-results-conveniently-late
-title: "NCEA results conveniently late"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00123/ncea-results-conveniently-late.htm
+title: NCEA results conveniently late
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00123/ncea-results-conveniently-late.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/05/ncea-results-conveniently-late/index.html
+layout: layout.njk
 ---
 NCEA results conveniently late
 ==============================

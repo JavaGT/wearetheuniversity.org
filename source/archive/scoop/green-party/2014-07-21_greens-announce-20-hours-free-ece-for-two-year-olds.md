@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-20-hours-free-ece-for-two-year-olds
-title: "Greens announce 20 hours free ECE for two year olds"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/PA1407/S00363/greens-announce-20-hours-free-ece-for-two-year-olds.htm
+title: Greens announce 20 hours free ECE for two year olds
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00363/greens-announce-20-hours-free-ece-for-two-year-olds.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/21/greens-announce-20-hours-free-ece-for-two-year-olds/index.html
+layout: layout.njk
 ---
 Greens announce 20 hours free ECE for two year olds
 ===================================================

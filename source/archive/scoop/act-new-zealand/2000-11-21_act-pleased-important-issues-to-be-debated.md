@@ -1,9 +1,12 @@
 ---
 slug: act-pleased-important-issues-to-be-debated
-title: "ACT Pleased Important Issues To Be Debated"
-date: 2000-11-21
-source-url: https://www.scoop.co.nz/stories/PA0011/S00363/act-pleased-important-issues-to-be-debated.htm
+title: ACT Pleased Important Issues To Be Debated
+date: 2000-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00363/act-pleased-important-issues-to-be-debated.htm
 author: act-new-zealand
+permalink: /archive/2000/11/21/act-pleased-important-issues-to-be-debated/index.html
+layout: layout.njk
 ---
 ACT Pleased Important Issues To Be Debated
 ==========================================

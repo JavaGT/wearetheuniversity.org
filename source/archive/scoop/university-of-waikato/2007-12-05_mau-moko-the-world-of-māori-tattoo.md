@@ -1,9 +1,12 @@
 ---
 slug: mau-moko-the-world-of-māori-tattoo
-title: "Mau Moko  The World of Māori tattoo"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/CU0712/S00050/mau-moko-the-world-of-maori-tattoo.htm
+title: Mau Moko  The World of Māori tattoo
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0712/S00050/mau-moko-the-world-of-maori-tattoo.htm
 author: university-of-waikato
+permalink: /archive/2007/12/05/mau-moko-the-world-of-m/index.html
+layout: layout.njk
 ---
 Mau Moko The World of Māori tattoo
 ==================================

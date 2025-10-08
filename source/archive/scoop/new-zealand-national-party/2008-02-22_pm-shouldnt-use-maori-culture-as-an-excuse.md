@@ -1,9 +1,12 @@
 ---
 slug: pm-shouldnt-use-maori-culture-as-an-excuse
-title: "PM shouldn’t use Maori culture as an excuse"
-date: 2008-02-22
-source-url: https://www.scoop.co.nz/stories/PA0802/S00364/pm-shouldnt-use-maori-culture-as-an-excuse.htm
+title: PM shouldn’t use Maori culture as an excuse
+date: 2008-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00364/pm-shouldnt-use-maori-culture-as-an-excuse.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/22/pm-shouldnt-use-maori-culture-as-an-excuse/index.html
+layout: layout.njk
 ---
 PM shouldn’t use Maori culture as an excuse
 ===========================================

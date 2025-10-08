@@ -1,9 +1,12 @@
 ---
 slug: new-professors-at-university-of-canterbury
-title: "New professors at University of Canterbury"
-date: 2006-02-15
-source-url: https://www.scoop.co.nz/stories/ED0602/S00038/new-professors-at-university-of-canterbury.htm
+title: New professors at University of Canterbury
+date: 2006-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00038/new-professors-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2006/02/15/new-professors-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 New professors at University of Canterbury
 ==========================================

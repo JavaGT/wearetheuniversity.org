@@ -1,9 +1,12 @@
 ---
 slug: overseas-investor-funds-schools-digital-devices
-title: "Overseas investor funds school’s digital devices"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/PA1605/S00292/overseas-investor-funds-schools-digital-devices.htm
+title: Overseas investor funds school’s digital devices
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00292/overseas-investor-funds-schools-digital-devices.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/17/overseas-investor-funds-schools-digital-devices/index.html
+layout: layout.njk
 ---
 Overseas investor funds school’s digital devices
 ================================================

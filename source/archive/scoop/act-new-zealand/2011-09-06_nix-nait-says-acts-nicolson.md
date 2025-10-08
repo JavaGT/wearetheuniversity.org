@@ -1,9 +1,11 @@
 ---
 slug: nix-nait-says-acts-nicolson
-title: "Nix NAIT Says ACT's Nicolson"
-date: 2011-09-06
+title: Nix NAIT Says ACT's Nicolson
+date: 2011-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00118/nix-nait-says-acts-nicolson.htm
 author: act-new-zealand
+permalink: /archive/2011/09/06/nix-nait-says-acts-nicolson/index.html
+layout: layout.njk
 ---
 Nix NAIT Says ACT's Nicolson
 ============================

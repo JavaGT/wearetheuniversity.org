@@ -1,9 +1,12 @@
 ---
 slug: swine-flu-pandemic-expensive-for-nz
-title: "Swine flu pandemic expensive for NZ"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/GE1211/S00033/swine-flu-pandemic-expensive-for-nz.htm
+title: Swine flu pandemic expensive for NZ
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00033/swine-flu-pandemic-expensive-for-nz.htm
 author: university-of-otago
+permalink: /archive/2012/11/09/swine-flu-pandemic-expensive-for-nz/index.html
+layout: layout.njk
 ---
 Swine flu pandemic expensive for NZ
 ===================================

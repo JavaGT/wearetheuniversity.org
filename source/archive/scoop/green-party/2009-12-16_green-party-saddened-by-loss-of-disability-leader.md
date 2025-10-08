@@ -1,9 +1,13 @@
 ---
 slug: green-party-saddened-by-loss-of-disability-leader
-title: "Green Party saddened by loss of disability leader"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00269/green-party-saddened-by-loss-of-disability-leader.htm
+title: Green Party saddened by loss of disability leader
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00269/green-party-saddened-by-loss-of-disability-leader.htm
 author: green-party
+permalink: >-
+  /archive/2009/12/16/green-party-saddened-by-loss-of-disability-leader/index.html
+layout: layout.njk
 ---
 Green Party saddened by loss of disability leader
 =================================================

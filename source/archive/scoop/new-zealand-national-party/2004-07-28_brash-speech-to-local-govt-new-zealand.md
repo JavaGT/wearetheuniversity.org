@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-to-local-govt-new-zealand
-title: "Brash Speech: To Local Govt New Zealand"
-date: 2004-07-28
-source-url: https://www.scoop.co.nz/stories/PA0407/S00456/brash-speech-to-local-govt-new-zealand.htm
+title: 'Brash Speech: To Local Govt New Zealand'
+date: 2004-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00456/brash-speech-to-local-govt-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/28/brash-speech-to-local-govt-new-zealand/index.html
+layout: layout.njk
 ---
 Brash Speech: To Local Govt New Zealand
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-part-of-worldwide-project-on-big-bang-of-bird-evolution
-title: "UC part of worldwide project on big bang of bird evolution"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/SC1412/S00041/uc-part-of-worldwide-project-on-big-bang-of-bird-evolution.htm
+title: UC part of worldwide project on big bang of bird evolution
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00041/uc-part-of-worldwide-project-on-big-bang-of-bird-evolution.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/12/uc-part-of-worldwide-project-on-big-bang-of-bird-evolution/index.html
+layout: layout.njk
 ---
 UC part of worldwide project on big bang of bird evolution
 ==========================================================

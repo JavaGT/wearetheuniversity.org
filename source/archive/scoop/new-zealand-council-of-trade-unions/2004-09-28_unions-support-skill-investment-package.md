@@ -1,9 +1,12 @@
 ---
 slug: unions-support-skill-investment-package
-title: "Unions Support Skill Investment Package"
-date: 2004-09-28
-source-url: https://www.scoop.co.nz/stories/PO0409/S00255/unions-support-skill-investment-package.htm
+title: Unions Support Skill Investment Package
+date: 2004-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0409/S00255/unions-support-skill-investment-package.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/09/28/unions-support-skill-investment-package/index.html
+layout: layout.njk
 ---
 Unions Support Skill Investment Package
 =======================================

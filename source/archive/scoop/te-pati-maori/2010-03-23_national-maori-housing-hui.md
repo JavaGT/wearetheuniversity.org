@@ -1,9 +1,11 @@
 ---
 slug: national-maori-housing-hui
-title: "National Maori Housing Hui"
-date: 2010-03-23
+title: National Maori Housing Hui
+date: 2010-03-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1003/S00319/national-maori-housing-hui.htm
 author: te-pati-maori
+permalink: /archive/2010/03/23/national-maori-housing-hui/index.html
+layout: layout.njk
 ---
 National Maori Housing Hui
 ==========================

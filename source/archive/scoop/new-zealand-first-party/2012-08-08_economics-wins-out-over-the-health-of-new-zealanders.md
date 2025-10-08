@@ -1,9 +1,13 @@
 ---
 slug: economics-wins-out-over-the-health-of-new-zealanders
-title: "Economics Wins Out Over the Health of New Zealanders"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PA1208/S00114/economics-wins-out-over-the-health-of-new-zealanders.htm
+title: Economics Wins Out Over the Health of New Zealanders
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00114/economics-wins-out-over-the-health-of-new-zealanders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/08/08/economics-wins-out-over-the-health-of-new-zealanders/index.html
+layout: layout.njk
 ---
 Economics Wins Out Over the Health of New Zealanders
 ====================================================

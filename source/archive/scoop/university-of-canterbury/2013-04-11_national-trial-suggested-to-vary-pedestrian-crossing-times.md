@@ -1,9 +1,13 @@
 ---
 slug: national-trial-suggested-to-vary-pedestrian-crossing-times
-title: "National Trial Suggested To Vary Pedestrian Crossing Times"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00055/national-trial-suggested-to-vary-pedestrian-crossing-times.htm
+title: National Trial Suggested To Vary Pedestrian Crossing Times
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00055/national-trial-suggested-to-vary-pedestrian-crossing-times.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/11/national-trial-suggested-to-vary-pedestrian-crossing-times/index.html
+layout: layout.njk
 ---
 National Trial Suggested To Vary Pedestrian Crossing Times
 ==========================================================

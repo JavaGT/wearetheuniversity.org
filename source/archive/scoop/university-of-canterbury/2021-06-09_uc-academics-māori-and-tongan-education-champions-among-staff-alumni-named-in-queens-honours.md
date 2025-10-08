@@ -1,9 +1,15 @@
 ---
-slug: uc-academics-māori-and-tongan-education-champions-among-staff-alumni-named-in-queens-honours
-title: "UC Academics, Māori And Tongan Education Champions Among Staff, Alumni Named In Queen’s Honours"
-date: 2021-06-09
-source-url: https://www.scoop.co.nz/stories/ED2106/S00017/uc-academics-maori-and-tongan-education-champions-among-staff-alumni-named-in-queens-honours.htm
+slug: >-
+  uc-academics-māori-and-tongan-education-champions-among-staff-alumni-named-in-queens-honours
+title: >-
+  UC Academics, Māori And Tongan Education Champions Among Staff, Alumni Named
+  In Queen’s Honours
+date: 2021-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00017/uc-academics-maori-and-tongan-education-champions-among-staff-alumni-named-in-queens-honours.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/09/uc-academics-m/index.html
+layout: layout.njk
 ---
 UC Academics, Māori And Tongan Education Champions Among Staff, Alumni Named In Queen’s Honours
 ===============================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: top-waikato-line-up-at-nz-university-blues-awards
-title: "Top Waikato Line-Up At Nz University Blues Awards"
-date: 2004-07-27
-source-url: https://www.scoop.co.nz/stories/ED0407/S00076/top-waikato-line-up-at-nz-university-blues-awards.htm
+title: Top Waikato Line-Up At Nz University Blues Awards
+date: 2004-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00076/top-waikato-line-up-at-nz-university-blues-awards.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/07/27/top-waikato-line-up-at-nz-university-blues-awards/index.html
+layout: layout.njk
 ---
 Top Waikato Line-Up At Nz University Blues Awards
 =================================================

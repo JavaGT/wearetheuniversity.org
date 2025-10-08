@@ -1,9 +1,12 @@
 ---
 slug: feed-the-kids-end-the-hunger-system
-title: "Feed the kids, end the hunger system"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/HL1409/S00076/feed-the-kids-end-the-hunger-system.htm
+title: Feed the kids, end the hunger system
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1409/S00076/feed-the-kids-end-the-hunger-system.htm
 author: fightback
+permalink: /archive/2014/09/10/feed-the-kids-end-the-hunger-system/index.html
+layout: layout.njk
 ---
 Feed the kids, end the hunger system
 ====================================

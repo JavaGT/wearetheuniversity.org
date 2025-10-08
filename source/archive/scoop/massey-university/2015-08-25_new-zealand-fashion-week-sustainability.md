@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-fashion-week-sustainability
-title: "New Zealand Fashion Week - Sustainability"
-date: 2015-08-25
-source-url: https://www.scoop.co.nz/stories/BU1508/S00864/new-zealand-fashion-week-sustainability.htm
+title: New Zealand Fashion Week - Sustainability
+date: 2015-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1508/S00864/new-zealand-fashion-week-sustainability.htm
 author: massey-university
+permalink: /archive/2015/08/25/new-zealand-fashion-week-sustainability/index.html
+layout: layout.njk
 ---
 New Zealand Fashion Week - Sustainability
 =========================================

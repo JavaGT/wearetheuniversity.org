@@ -1,9 +1,11 @@
 ---
 slug: twenty-years-of-computing
-title: "Twenty Years Of Computing"
-date: 2007-04-03
+title: Twenty Years Of Computing
+date: 2007-04-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0704/S00009/twenty-years-of-computing.htm
 author: aut-university
+permalink: /archive/2007/04/03/twenty-years-of-computing/index.html
+layout: layout.njk
 ---
 Twenty Years Of Computing
 =========================

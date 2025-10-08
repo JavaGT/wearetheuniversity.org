@@ -1,9 +1,13 @@
 ---
 slug: universities-commercialise-revolutionary-wound-treatment
-title: "Universities commercialise revolutionary wound treatment"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/ED1103/S00004/universities-commercialise-revolutionary-wound-treatment.htm
+title: Universities commercialise revolutionary wound treatment
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00004/universities-commercialise-revolutionary-wound-treatment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/03/01/universities-commercialise-revolutionary-wound-treatment/index.html
+layout: layout.njk
 ---
 Universities commercialise revolutionary wound treatment
 ========================================================

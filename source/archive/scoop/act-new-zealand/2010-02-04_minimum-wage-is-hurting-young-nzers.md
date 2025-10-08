@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-is-hurting-young-nzers
-title: "Minimum Wage Is Hurting Young NZers"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/PA1002/S00065/minimum-wage-is-hurting-young-nzers.htm
+title: Minimum Wage Is Hurting Young NZers
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00065/minimum-wage-is-hurting-young-nzers.htm
 author: act-new-zealand
+permalink: /archive/2010/02/04/minimum-wage-is-hurting-young-nzers/index.html
+layout: layout.njk
 ---
 Minimum Wage Is Hurting Young NZers
 ===================================

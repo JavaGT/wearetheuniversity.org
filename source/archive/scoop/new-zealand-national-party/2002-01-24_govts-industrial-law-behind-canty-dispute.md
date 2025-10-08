@@ -1,9 +1,12 @@
 ---
 slug: govts-industrial-law-behind-canty-dispute
-title: "Govt's industrial law behind Canty dispute"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00149/govts-industrial-law-behind-canty-dispute.htm
+title: Govt's industrial law behind Canty dispute
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00149/govts-industrial-law-behind-canty-dispute.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/24/govts-industrial-law-behind-canty-dispute/index.html
+layout: layout.njk
 ---
 Govt's industrial law behind Canty dispute
 ==========================================

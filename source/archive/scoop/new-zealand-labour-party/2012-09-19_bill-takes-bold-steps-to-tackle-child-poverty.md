@@ -1,9 +1,12 @@
 ---
 slug: bill-takes-bold-steps-to-tackle-child-poverty
-title: "Bill Takes Bold Steps To Tackle Child Poverty"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/PA1209/S00283/bill-takes-bold-steps-to-tackle-child-poverty.htm
+title: Bill Takes Bold Steps To Tackle Child Poverty
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00283/bill-takes-bold-steps-to-tackle-child-poverty.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/19/bill-takes-bold-steps-to-tackle-child-poverty/index.html
+layout: layout.njk
 ---
 Bill Takes Bold Steps To Tackle Child Poverty
 =============================================

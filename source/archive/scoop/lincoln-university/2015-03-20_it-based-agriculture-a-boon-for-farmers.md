@@ -1,9 +1,12 @@
 ---
 slug: it-based-agriculture-a-boon-for-farmers
-title: "IT-based agriculture a boon for farmers"
-date: 2015-03-20
-source-url: https://www.scoop.co.nz/stories/ED1503/S00092/it-based-agriculture-a-boon-for-farmers.htm
+title: IT-based agriculture a boon for farmers
+date: 2015-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00092/it-based-agriculture-a-boon-for-farmers.htm
 author: lincoln-university
+permalink: /archive/2015/03/20/it-based-agriculture-a-boon-for-farmers/index.html
+layout: layout.njk
 ---
 IT-based agriculture a boon for farmers
 =======================================

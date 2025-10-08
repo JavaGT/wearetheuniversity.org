@@ -1,9 +1,12 @@
 ---
 slug: massey-launches-te-reo-for-business-resource
-title: "Massey launches te reo for business resource"
-date: 2016-07-06
-source-url: https://www.scoop.co.nz/stories/CU1607/S00065/massey-launches-te-reo-for-business-resource.htm
+title: Massey launches te reo for business resource
+date: 2016-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1607/S00065/massey-launches-te-reo-for-business-resource.htm
 author: massey-university
+permalink: /archive/2016/07/06/massey-launches-te-reo-for-business-resource/index.html
+layout: layout.njk
 ---
 Massey launches te reo for business resource
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: heatley-houses-not-answer-to-shortages
-title: "Heatley: Houses not answer to shortages"
-date: 2011-06-29
-source-url: https://www.scoop.co.nz/stories/PA1106/S00502/heatley-houses-not-answer-to-shortages.htm
+title: 'Heatley: Houses not answer to shortages'
+date: 2011-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00502/heatley-houses-not-answer-to-shortages.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/29/heatley-houses-not-answer-to-shortages/index.html
+layout: layout.njk
 ---
 Heatley: Houses not answer to shortages
 =======================================

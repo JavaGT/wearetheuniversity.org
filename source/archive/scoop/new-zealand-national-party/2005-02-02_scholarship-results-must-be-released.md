@@ -1,9 +1,12 @@
 ---
 slug: scholarship-results-must-be-released
-title: "Scholarship results must be released"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/PA0502/S00035/scholarship-results-must-be-released.htm
+title: Scholarship results must be released
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00035/scholarship-results-must-be-released.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/02/scholarship-results-must-be-released/index.html
+layout: layout.njk
 ---
 Scholarship results must be released
 ====================================

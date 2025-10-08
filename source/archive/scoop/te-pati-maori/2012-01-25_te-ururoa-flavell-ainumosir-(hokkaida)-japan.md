@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-ainumosir-(hokkaida)-japan
-title: "Te Ururoa Flavell - Ainumosir (Hokkaida), Japan"
-date: 2012-01-25
-source-url: https://www.scoop.co.nz/stories/PA1201/S00070/te-ururoa-flavell-ainumosir-hokkaida-japan.htm
+title: Te Ururoa Flavell - Ainumosir (Hokkaida), Japan
+date: 2012-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00070/te-ururoa-flavell-ainumosir-hokkaida-japan.htm
 author: te-pati-maori
+permalink: /archive/2012/01/25/te-ururoa-flavell-ainumosir-/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Ainumosir (Hokkaida), Japan
 ===============================================

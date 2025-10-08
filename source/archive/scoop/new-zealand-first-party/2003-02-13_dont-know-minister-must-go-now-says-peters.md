@@ -1,9 +1,12 @@
 ---
 slug: dont-know-minister-must-go-now-says-peters
-title: "Don't Know Minister Must Go Now Says Peters"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PA0302/S00180/dont-know-minister-must-go-now-says-peters.htm
+title: Don't Know Minister Must Go Now Says Peters
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00180/dont-know-minister-must-go-now-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/13/dont-know-minister-must-go-now-says-peters/index.html
+layout: layout.njk
 ---
 Don't Know Minister Must Go Now Says Peters
 ===========================================

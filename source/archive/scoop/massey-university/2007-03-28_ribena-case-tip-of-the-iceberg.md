@@ -1,9 +1,12 @@
 ---
 slug: ribena-case-tip-of-the-iceberg
-title: "Ribena case tip of the iceberg?"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00109/ribena-case-tip-of-the-iceberg.htm
+title: Ribena case tip of the iceberg?
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00109/ribena-case-tip-of-the-iceberg.htm
 author: massey-university
+permalink: /archive/2007/03/28/ribena-case-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 Ribena case tip of the iceberg?
 ===============================

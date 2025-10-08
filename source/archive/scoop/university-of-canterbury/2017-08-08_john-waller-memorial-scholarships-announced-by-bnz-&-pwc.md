@@ -1,9 +1,13 @@
 ---
 slug: john-waller-memorial-scholarships-announced-by-bnz-&-pwc
-title: "John Waller Memorial Scholarships Announced by BNZ & PwC"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/ED1708/S00016/john-waller-memorial-scholarships-announced-by-bnz-pwc.htm
+title: John Waller Memorial Scholarships Announced by BNZ & PwC
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00016/john-waller-memorial-scholarships-announced-by-bnz-pwc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/08/john-waller-memorial-scholarships-announced-by-bnz-/index.html
+layout: layout.njk
 ---
 John Waller Memorial Scholarships Announced by BNZ & PwC
 ========================================================

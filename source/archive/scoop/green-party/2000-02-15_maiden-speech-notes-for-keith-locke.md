@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-notes-for-keith-locke
-title: "Maiden Speech Notes For Keith Locke"
-date: 2000-02-15
-source-url: https://www.scoop.co.nz/stories/PA0002/S00184/maiden-speech-notes-for-keith-locke.htm
+title: Maiden Speech Notes For Keith Locke
+date: 2000-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00184/maiden-speech-notes-for-keith-locke.htm
 author: green-party
+permalink: /archive/2000/02/15/maiden-speech-notes-for-keith-locke/index.html
+layout: layout.njk
 ---
 Maiden Speech Notes For Keith Locke
 ===================================

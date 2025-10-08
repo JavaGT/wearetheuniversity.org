@@ -1,9 +1,12 @@
 ---
 slug: rma-should-have-protected-waikawau-bay
-title: "RMA should have protected Waikawau Bay"
-date: 2003-02-27
-source-url: https://www.scoop.co.nz/stories/PA0302/S00514/rma-should-have-protected-waikawau-bay.htm
+title: RMA should have protected Waikawau Bay
+date: 2003-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00514/rma-should-have-protected-waikawau-bay.htm
 author: green-party
+permalink: /archive/2003/02/27/rma-should-have-protected-waikawau-bay/index.html
+layout: layout.njk
 ---
 RMA should have protected Waikawau Bay
 ======================================

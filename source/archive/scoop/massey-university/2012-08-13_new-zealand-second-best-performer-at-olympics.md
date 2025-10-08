@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-second-best-performer-at-olympics
-title: "New Zealand second best performer at Olympics"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/ED1208/S00077/new-zealand-second-best-performer-at-olympics.htm
+title: New Zealand second best performer at Olympics
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00077/new-zealand-second-best-performer-at-olympics.htm
 author: massey-university
+permalink: /archive/2012/08/13/new-zealand-second-best-performer-at-olympics/index.html
+layout: layout.njk
 ---
 New Zealand second best performer at Olympics
 =============================================

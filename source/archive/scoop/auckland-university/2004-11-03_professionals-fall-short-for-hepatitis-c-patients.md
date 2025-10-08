@@ -1,9 +1,13 @@
 ---
 slug: professionals-fall-short-for-hepatitis-c-patients
-title: "Professionals Fall Short for Hepatitis C Patients"
-date: 2004-11-03
-source-url: https://www.scoop.co.nz/stories/ED0411/S00008/professionals-fall-short-for-hepatitis-c-patients.htm
+title: Professionals Fall Short for Hepatitis C Patients
+date: 2004-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00008/professionals-fall-short-for-hepatitis-c-patients.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/11/03/professionals-fall-short-for-hepatitis-c-patients/index.html
+layout: layout.njk
 ---
 Professionals Fall Short for Hepatitis C Patients
 =================================================

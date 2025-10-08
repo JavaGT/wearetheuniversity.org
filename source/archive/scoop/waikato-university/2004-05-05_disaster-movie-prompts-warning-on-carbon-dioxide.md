@@ -1,9 +1,13 @@
 ---
 slug: disaster-movie-prompts-warning-on-carbon-dioxide
-title: "Disaster Movie Prompts Warning On Carbon Dioxide"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/ED0405/S00021/disaster-movie-prompts-warning-on-carbon-dioxide.htm
+title: Disaster Movie Prompts Warning On Carbon Dioxide
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00021/disaster-movie-prompts-warning-on-carbon-dioxide.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/05/05/disaster-movie-prompts-warning-on-carbon-dioxide/index.html
+layout: layout.njk
 ---
 Disaster Movie Prompts Warning On Carbon Dioxide
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: masseys-big-data-sponsorship-deal-an-nz-first
-title: "Massey’s ‘big data’ sponsorship deal an NZ first"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/ED1509/S00118/masseys-big-data-sponsorship-deal-an-nz-first.htm
+title: Massey’s ‘big data’ sponsorship deal an NZ first
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00118/masseys-big-data-sponsorship-deal-an-nz-first.htm
 author: massey-university
+permalink: /archive/2015/09/21/masseys-big-data-sponsorship-deal-an-nz-first/index.html
+layout: layout.njk
 ---
 Massey’s ‘big data’ sponsorship deal an NZ first
 ================================================

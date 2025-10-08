@@ -1,9 +1,12 @@
 ---
 slug: think-positive-for-a-family-friendly-workplace
-title: "Think Positive For A Family-Friendly Workplace"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/ED0701/S00009/think-positive-for-a-family-friendly-workplace.htm
+title: Think Positive For A Family-Friendly Workplace
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00009/think-positive-for-a-family-friendly-workplace.htm
 author: waikato-university
+permalink: /archive/2007/01/15/think-positive-for-a-family-friendly-workplace/index.html
+layout: layout.njk
 ---
 Think Positive For A Family-Friendly Workplace
 ==============================================

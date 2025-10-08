@@ -1,9 +1,13 @@
 ---
 slug: central-affiliation-linked-to-success-in-local-elections
-title: "Central affiliation linked to success in local elections"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/PO1908/S00212/central-affiliation-linked-to-success-in-local-elections.htm
+title: Central affiliation linked to success in local elections
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00212/central-affiliation-linked-to-success-in-local-elections.htm
 author: aut-university
+permalink: >-
+  /archive/2019/08/15/central-affiliation-linked-to-success-in-local-elections/index.html
+layout: layout.njk
 ---
 Central affiliation linked to success in local elections
 ========================================================

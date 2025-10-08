@@ -1,9 +1,11 @@
 ---
 slug: arts-for-your-sake-festival
-title: "Arts For Your Sake Festival"
-date: 2001-10-10
+title: Arts For Your Sake Festival
+date: 2001-10-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0110/S00017/arts-for-your-sake-festival.htm
 author: aut-university
+permalink: /archive/2001/10/10/arts-for-your-sake-festival/index.html
+layout: layout.njk
 ---
 Arts For Your Sake Festival
 ===========================

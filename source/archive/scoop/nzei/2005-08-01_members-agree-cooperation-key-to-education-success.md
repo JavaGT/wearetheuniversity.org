@@ -1,9 +1,13 @@
 ---
 slug: members-agree-cooperation-key-to-education-success
-title: "Members Agree Cooperation Key To Education Success"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/ED0508/S00002/members-agree-cooperation-key-to-education-success.htm
+title: Members Agree Cooperation Key To Education Success
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00002/members-agree-cooperation-key-to-education-success.htm
 author: nzei
+permalink: >-
+  /archive/2005/08/01/members-agree-cooperation-key-to-education-success/index.html
+layout: layout.njk
 ---
 Members Agree Cooperation Key To Education Success
 ==================================================

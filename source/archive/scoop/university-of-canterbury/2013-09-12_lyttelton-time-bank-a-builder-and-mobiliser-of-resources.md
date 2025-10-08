@@ -1,9 +1,13 @@
 ---
 slug: lyttelton-time-bank-a-builder-and-mobiliser-of-resources
-title: "Lyttelton Time Bank a builder and mobiliser of resources"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/AK1309/S00406/lyttelton-time-bank-a-builder-and-mobiliser-of-resources.htm
+title: Lyttelton Time Bank a builder and mobiliser of resources
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00406/lyttelton-time-bank-a-builder-and-mobiliser-of-resources.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/12/lyttelton-time-bank-a-builder-and-mobiliser-of-resources/index.html
+layout: layout.njk
 ---
 Lyttelton Time Bank a builder and mobiliser of resources
 ========================================================

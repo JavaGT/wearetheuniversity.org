@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-25-nov-09-(local-governance)
-title: "Collins Comments - 25 Nov '09 (Local Governance)"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00446/collins-comments-25-nov-09-local-governance.htm
+title: Collins Comments - 25 Nov '09 (Local Governance)
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00446/collins-comments-25-nov-09-local-governance.htm
 author: new-zealand-national-party
+permalink: /archive/2009/11/27/collins-comments-25-nov-09-/index.html
+layout: layout.njk
 ---
 Collins Comments - 25 Nov '09 (Local Governance)
 ================================================

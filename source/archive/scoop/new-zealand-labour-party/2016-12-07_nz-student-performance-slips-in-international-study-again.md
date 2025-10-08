@@ -1,9 +1,13 @@
 ---
 slug: nz-student-performance-slips-in-international-study-again
-title: "NZ student performance slips in international study - again"
-date: 2016-12-07
-source-url: https://www.scoop.co.nz/stories/PA1612/S00097/nz-student-performance-slips-in-international-study-again.htm
+title: NZ student performance slips in international study - again
+date: 2016-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00097/nz-student-performance-slips-in-international-study-again.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/07/nz-student-performance-slips-in-international-study-again/index.html
+layout: layout.njk
 ---
 NZ student performance slips in international study - again
 ===========================================================

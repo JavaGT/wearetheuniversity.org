@@ -1,9 +1,13 @@
 ---
 slug: nzs-largest-high-school-gives-labours-ncea-a-fail
-title: "NZ’s Largest High School Gives Labour’s NCEA A Fail"
-date: 2023-05-27
-source-url: https://www.scoop.co.nz/stories/PA2305/S00205/nzs-largest-high-school-gives-labours-ncea-a-fail.htm
+title: NZ’s Largest High School Gives Labour’s NCEA A Fail
+date: 2023-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00205/nzs-largest-high-school-gives-labours-ncea-a-fail.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/05/27/nzs-largest-high-school-gives-labours-ncea-a-fail/index.html
+layout: layout.njk
 ---
 NZ’s Largest High School Gives Labour’s NCEA A Fail
 ===================================================

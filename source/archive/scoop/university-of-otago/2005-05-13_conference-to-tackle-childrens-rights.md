@@ -1,9 +1,12 @@
 ---
 slug: conference-to-tackle-childrens-rights
-title: "Conference to tackle children’s rights"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/ED0505/S00054/conference-to-tackle-childrens-rights.htm
+title: Conference to tackle children’s rights
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00054/conference-to-tackle-childrens-rights.htm
 author: university-of-otago
+permalink: /archive/2005/05/13/conference-to-tackle-childrens-rights/index.html
+layout: layout.njk
 ---
 Conference to tackle children’s rights
 ======================================

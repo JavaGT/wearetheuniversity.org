@@ -1,9 +1,12 @@
 ---
 slug: 87%-of-kiwis-see-ge-as-environmental-issue
-title: "87% of Kiwis see GE as environmental issue"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00308/87-of-kiwis-see-ge-as-environmental-issue.htm
+title: 87% of Kiwis see GE as environmental issue
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00308/87-of-kiwis-see-ge-as-environmental-issue.htm
 author: green-party
+permalink: /archive/2001/04/23/87/index.html
+layout: layout.njk
 ---
 87% of Kiwis see GE as environmental issue
 ==========================================

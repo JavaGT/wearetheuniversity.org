@@ -1,9 +1,12 @@
 ---
 slug: christchurch-takes-wrong-tack-on-teeth
-title: "Christchurch takes wrong tack on teeth"
-date: 2003-05-29
-source-url: https://www.scoop.co.nz/stories/PA0305/S00741/christchurch-takes-wrong-tack-on-teeth.htm
+title: Christchurch takes wrong tack on teeth
+date: 2003-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00741/christchurch-takes-wrong-tack-on-teeth.htm
 author: green-party
+permalink: /archive/2003/05/29/christchurch-takes-wrong-tack-on-teeth/index.html
+layout: layout.njk
 ---
 Christchurch takes wrong tack on teeth
 ======================================

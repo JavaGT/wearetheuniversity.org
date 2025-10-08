@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-rural-future-at-stake
-title: "Prebble Speech:Rural Future At Stake"
-date: 1999-08-11
-source-url: https://www.scoop.co.nz/stories/PA9908/S00189/prebble-speechrural-future-at-stake.htm
+title: Prebble Speech:Rural Future At Stake
+date: 1999-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00189/prebble-speechrural-future-at-stake.htm
 author: act-new-zealand
+permalink: /archive/1999/08/11/prebble-speech-rural-future-at-stake/index.html
+layout: layout.njk
 ---
 Prebble Speech:Rural Future At Stake
 ====================================

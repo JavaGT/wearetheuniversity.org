@@ -1,9 +1,13 @@
 ---
 slug: world-first-climate-change-action-in-south-pacific
-title: "World First Climate Change Action In South Pacific"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/ED0309/S00061/world-first-climate-change-action-in-south-pacific.htm
+title: World First Climate Change Action In South Pacific
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00061/world-first-climate-change-action-in-south-pacific.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/09/15/world-first-climate-change-action-in-south-pacific/index.html
+layout: layout.njk
 ---
 World First Climate Change Action In South Pacific
 ==================================================

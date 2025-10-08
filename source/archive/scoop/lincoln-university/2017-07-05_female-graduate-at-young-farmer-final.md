@@ -1,9 +1,12 @@
 ---
 slug: female-graduate-at-young-farmer-final
-title: "Female graduate at Young Farmer final"
-date: 2017-07-05
-source-url: https://www.scoop.co.nz/stories/ED1707/S00015/female-graduate-at-young-farmer-final.htm
+title: Female graduate at Young Farmer final
+date: 2017-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00015/female-graduate-at-young-farmer-final.htm
 author: lincoln-university
+permalink: /archive/2017/07/05/female-graduate-at-young-farmer-final/index.html
+layout: layout.njk
 ---
 Female graduate at Young Farmer final
 =====================================

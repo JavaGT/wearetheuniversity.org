@@ -1,9 +1,13 @@
 ---
 slug: discriminatory-rotorua-local-bill-should-be-dropped
-title: "Discriminatory Rotorua Local Bill Should Be Dropped"
-date: 2022-04-22
-source-url: https://www.scoop.co.nz/stories/PA2204/S00166/discriminatory-rotorua-local-bill-should-be-dropped.htm
+title: Discriminatory Rotorua Local Bill Should Be Dropped
+date: 2022-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00166/discriminatory-rotorua-local-bill-should-be-dropped.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/04/22/discriminatory-rotorua-local-bill-should-be-dropped/index.html
+layout: layout.njk
 ---
 Discriminatory Rotorua Local Bill Should Be Dropped
 ===================================================

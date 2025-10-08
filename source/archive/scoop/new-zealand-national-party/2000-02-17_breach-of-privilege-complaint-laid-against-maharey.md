@@ -1,9 +1,13 @@
 ---
 slug: breach-of-privilege-complaint-laid-against-maharey
-title: "Breach of privilege complaint laid against Maharey"
-date: 2000-02-17
-source-url: https://www.scoop.co.nz/stories/PA0002/S00245/breach-of-privilege-complaint-laid-against-maharey.htm
+title: Breach of privilege complaint laid against Maharey
+date: 2000-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00245/breach-of-privilege-complaint-laid-against-maharey.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/02/17/breach-of-privilege-complaint-laid-against-maharey/index.html
+layout: layout.njk
 ---
 Breach of privilege complaint laid against Maharey
 ==================================================

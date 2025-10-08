@@ -1,9 +1,12 @@
 ---
 slug: elderly-at-risk-of-losing-benefits-act
-title: "Elderly At Risk Of Losing Benefits - ACT"
-date: 2000-02-13
-source-url: https://www.scoop.co.nz/stories/PA0002/S00151/elderly-at-risk-of-losing-benefits-act.htm
+title: Elderly At Risk Of Losing Benefits - ACT
+date: 2000-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00151/elderly-at-risk-of-losing-benefits-act.htm
 author: act-new-zealand
+permalink: /archive/2000/02/13/elderly-at-risk-of-losing-benefits-act/index.html
+layout: layout.njk
 ---
 Elderly At Risk Of Losing Benefits - ACT
 ========================================

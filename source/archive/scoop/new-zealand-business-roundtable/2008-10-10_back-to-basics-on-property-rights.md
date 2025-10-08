@@ -1,9 +1,12 @@
 ---
 slug: back-to-basics-on-property-rights
-title: "Back to Basics on Property Rights"
-date: 2008-10-10
-source-url: https://www.scoop.co.nz/stories/BU0810/S00214/back-to-basics-on-property-rights.htm
+title: Back to Basics on Property Rights
+date: 2008-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0810/S00214/back-to-basics-on-property-rights.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/10/10/back-to-basics-on-property-rights/index.html
+layout: layout.njk
 ---
 Back to Basics on Property Rights
 =================================

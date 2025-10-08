@@ -1,9 +1,12 @@
 ---
 slug: kelp-genes-reveal-ice-age-icier-than-thought
-title: "Kelp genes reveal Ice Age \"icier\" than thought"
-date: 2009-02-10
-source-url: https://www.scoop.co.nz/stories/SC0902/S00025/kelp-genes-reveal-ice-age-icier-than-thought.htm
+title: Kelp genes reveal Ice Age "icier" than thought
+date: 2009-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00025/kelp-genes-reveal-ice-age-icier-than-thought.htm
 author: university-of-otago
+permalink: /archive/2009/02/10/kelp-genes-reveal-ice-age-icier-than-thought/index.html
+layout: layout.njk
 ---
 Kelp genes reveal Ice Age “icier” than thought
 ==============================================

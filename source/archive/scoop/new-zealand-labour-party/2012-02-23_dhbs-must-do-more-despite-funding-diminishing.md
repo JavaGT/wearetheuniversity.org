@@ -1,9 +1,12 @@
 ---
 slug: dhbs-must-do-more-despite-funding-diminishing
-title: "DHBs must do more despite funding diminishing"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/PA1202/S00264/dhbs-must-do-more-despite-funding-diminishing.htm
+title: DHBs must do more despite funding diminishing
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00264/dhbs-must-do-more-despite-funding-diminishing.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/23/dhbs-must-do-more-despite-funding-diminishing/index.html
+layout: layout.njk
 ---
 DHBs must do more despite funding diminishing
 =============================================

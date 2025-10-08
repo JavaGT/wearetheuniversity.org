@@ -1,9 +1,13 @@
 ---
 slug: massey-university-seeks-staff-for-new-arts-school
-title: "Massey University Seeks Staff For New Arts School"
-date: 2001-11-20
-source-url: https://www.scoop.co.nz/stories/ED0111/S00038/massey-university-seeks-staff-for-new-arts-school.htm
+title: Massey University Seeks Staff For New Arts School
+date: 2001-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00038/massey-university-seeks-staff-for-new-arts-school.htm
 author: massey-university
+permalink: >-
+  /archive/2001/11/20/massey-university-seeks-staff-for-new-arts-school/index.html
+layout: layout.njk
 ---
 Massey University Seeks Staff For New Arts School
 =================================================

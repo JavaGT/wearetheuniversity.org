@@ -1,9 +1,13 @@
 ---
 slug: more-awareness-will-reduce-child-driveway-deaths
-title: "More awareness will reduce child driveway deaths"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/ED1003/S00139/more-awareness-will-reduce-child-driveway-deaths.htm
+title: More awareness will reduce child driveway deaths
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00139/more-awareness-will-reduce-child-driveway-deaths.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/03/29/more-awareness-will-reduce-child-driveway-deaths/index.html
+layout: layout.njk
 ---
 More awareness will reduce child driveway deaths
 ================================================

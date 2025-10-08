@@ -1,9 +1,12 @@
 ---
 slug: victoria-named-education-exporter-of-the-year
-title: "Victoria named Education Exporter of the Year"
-date: 2003-06-13
-source-url: https://www.scoop.co.nz/stories/ED0306/S00022/victoria-named-education-exporter-of-the-year.htm
+title: Victoria named Education Exporter of the Year
+date: 2003-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00022/victoria-named-education-exporter-of-the-year.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/13/victoria-named-education-exporter-of-the-year/index.html
+layout: layout.njk
 ---
 Victoria named Education Exporter of the Year
 =============================================

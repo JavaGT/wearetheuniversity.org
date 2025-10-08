@@ -1,9 +1,12 @@
 ---
 slug: end-government-racism-richard-prebble-speech
-title: "End Government Racism - Richard Prebble  Speech"
-date: 2003-10-31
-source-url: https://www.scoop.co.nz/stories/PA0310/S00715/end-government-racism-richard-prebble-speech.htm
+title: End Government Racism - Richard Prebble  Speech
+date: 2003-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00715/end-government-racism-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/10/31/end-government-racism-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 End Government Racism - Richard Prebble Speech
 ==============================================

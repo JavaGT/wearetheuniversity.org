@@ -1,9 +1,12 @@
 ---
 slug: budget-2011-zero-ideas-zero-leadership
-title: "Budget 2011: Zero ideas, zero leadership"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00444/budget-2011-zero-ideas-zero-leadership.htm
+title: 'Budget 2011: Zero ideas, zero leadership'
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00444/budget-2011-zero-ideas-zero-leadership.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/19/budget-2011-zero-ideas-zero-leadership/index.html
+layout: layout.njk
 ---
 Budget 2011: Zero ideas, zero leadership
 ========================================

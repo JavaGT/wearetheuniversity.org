@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-studying-kaimoana-recovery-in-wake-of-rena
-title: "Waikato student studying kaimoana recovery in wake of Rena"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/SC1111/S00044/waikato-student-studying-kaimoana-recovery-in-wake-of-rena.htm
+title: Waikato student studying kaimoana recovery in wake of Rena
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00044/waikato-student-studying-kaimoana-recovery-in-wake-of-rena.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/21/waikato-student-studying-kaimoana-recovery-in-wake-of-rena/index.html
+layout: layout.njk
 ---
 Waikato student studying kaimoana recovery in wake of Rena
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: end-miq-now
-title: "End MIQ Now"
-date: 2022-02-22
+title: End MIQ Now
+date: 2022-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2202/S00159/end-miq-now.htm
 author: act-new-zealand
+permalink: /archive/2022/02/22/end-miq-now/index.html
+layout: layout.njk
 ---
 End MIQ Now
 ===========

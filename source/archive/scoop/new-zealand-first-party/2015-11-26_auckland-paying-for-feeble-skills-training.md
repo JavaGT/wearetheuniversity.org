@@ -1,9 +1,12 @@
 ---
 slug: auckland-paying-for-feeble-skills-training
-title: "Auckland paying for feeble skills training"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/PA1511/S00503/auckland-paying-for-feeble-skills-training.htm
+title: Auckland paying for feeble skills training
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00503/auckland-paying-for-feeble-skills-training.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/26/auckland-paying-for-feeble-skills-training/index.html
+layout: layout.njk
 ---
 Auckland paying for feeble skills training
 ==========================================

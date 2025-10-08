@@ -1,9 +1,13 @@
 ---
 slug: slagging-tppa-opponents-shows-how-weak-govt-argument-are
-title: "Slagging TPPA opponents shows how weak Govt argument are"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/PO1508/S00194/slagging-tppa-opponents-shows-how-weak-govt-argument-are.htm
+title: Slagging TPPA opponents shows how weak Govt argument are
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00194/slagging-tppa-opponents-shows-how-weak-govt-argument-are.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/08/18/slagging-tppa-opponents-shows-how-weak-govt-argument-are/index.html
+layout: layout.njk
 ---
 Slagging TPPA opponents shows how weak Govt argument are
 ========================================================

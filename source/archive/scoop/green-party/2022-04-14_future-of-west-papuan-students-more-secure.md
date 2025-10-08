@@ -1,9 +1,12 @@
 ---
 slug: future-of-west-papuan-students-more-secure
-title: "Future Of West Papuan Students More Secure"
-date: 2022-04-14
-source-url: https://www.scoop.co.nz/stories/PA2204/S00122/future-of-west-papuan-students-more-secure.htm
+title: Future Of West Papuan Students More Secure
+date: 2022-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00122/future-of-west-papuan-students-more-secure.htm
 author: green-party
+permalink: /archive/2022/04/14/future-of-west-papuan-students-more-secure/index.html
+layout: layout.njk
 ---
 Future Of West Papuan Students More Secure
 ==========================================

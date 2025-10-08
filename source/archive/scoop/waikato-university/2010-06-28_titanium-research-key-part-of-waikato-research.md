@@ -1,9 +1,12 @@
 ---
 slug: titanium-research-key-part-of-waikato-research
-title: "Titanium Research Key Part Of Waikato Research"
-date: 2010-06-28
-source-url: https://www.scoop.co.nz/stories/ED1006/S00103/titanium-research-key-part-of-waikato-research.htm
+title: Titanium Research Key Part Of Waikato Research
+date: 2010-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00103/titanium-research-key-part-of-waikato-research.htm
 author: waikato-university
+permalink: /archive/2010/06/28/titanium-research-key-part-of-waikato-research/index.html
+layout: layout.njk
 ---
 Titanium Research Key Part Of Waikato Research
 ==============================================

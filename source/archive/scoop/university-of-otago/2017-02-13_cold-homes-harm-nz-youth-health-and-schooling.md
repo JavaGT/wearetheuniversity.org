@@ -1,9 +1,12 @@
 ---
 slug: cold-homes-harm-nz-youth-health-and-schooling
-title: "Cold homes harm NZ youth health and schooling"
-date: 2017-02-13
-source-url: https://www.scoop.co.nz/stories/GE1702/S00047/cold-homes-harm-nz-youth-health-and-schooling.htm
+title: Cold homes harm NZ youth health and schooling
+date: 2017-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00047/cold-homes-harm-nz-youth-health-and-schooling.htm
 author: university-of-otago
+permalink: /archive/2017/02/13/cold-homes-harm-nz-youth-health-and-schooling/index.html
+layout: layout.njk
 ---
 Cold homes harm NZ youth health and schooling
 =============================================

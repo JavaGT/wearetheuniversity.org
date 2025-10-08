@@ -1,9 +1,12 @@
 ---
 slug: public-health-about-people-not-headlines
-title: "Public health about people not headlines"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/PA1511/S00141/public-health-about-people-not-headlines.htm
+title: Public health about people not headlines
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00141/public-health-about-people-not-headlines.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/09/public-health-about-people-not-headlines/index.html
+layout: layout.njk
 ---
 Public health about people not headlines
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: national-completes-2017-candidate-selection
-title: "National completes 2017 candidate selection"
-date: 2017-04-29
-source-url: https://www.scoop.co.nz/stories/PO1704/S00324/national-completes-2017-candidate-selection.htm
+title: National completes 2017 candidate selection
+date: 2017-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00324/national-completes-2017-candidate-selection.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/29/national-completes-2017-candidate-selection/index.html
+layout: layout.njk
 ---
 National completes 2017 candidate selection
 ===========================================

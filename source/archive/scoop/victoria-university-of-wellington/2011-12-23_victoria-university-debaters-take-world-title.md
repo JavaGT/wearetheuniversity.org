@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-debaters-take-world-title
-title: "Victoria University debaters take world title"
-date: 2011-12-23
-source-url: https://www.scoop.co.nz/stories/ED1112/S00114/victoria-university-debaters-take-world-title.htm
+title: Victoria University debaters take world title
+date: 2011-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00114/victoria-university-debaters-take-world-title.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/23/victoria-university-debaters-take-world-title/index.html
+layout: layout.njk
 ---
 Victoria University debaters take world title
 =============================================

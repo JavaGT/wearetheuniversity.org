@@ -1,9 +1,12 @@
 ---
 slug: peters-bay-of-plenty-mayors-forum
-title: "Peters: Bay of Plenty Mayors Forum"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/PA0808/S00255/peters-bay-of-plenty-mayors-forum.htm
+title: 'Peters: Bay of Plenty Mayors Forum'
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00255/peters-bay-of-plenty-mayors-forum.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/15/peters-bay-of-plenty-mayors-forum/index.html
+layout: layout.njk
 ---
 Peters: Bay of Plenty Mayors Forum
 ==================================

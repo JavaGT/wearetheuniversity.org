@@ -1,9 +1,12 @@
 ---
 slug: ausa-put-up-team-for-quiz-show
-title: "AUSA put up team for quiz show"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/ED1406/S00047/ausa-put-up-team-for-quiz-show.htm
+title: AUSA put up team for quiz show
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00047/ausa-put-up-team-for-quiz-show.htm
 author: ausa
+permalink: /archive/2014/06/10/ausa-put-up-team-for-quiz-show/index.html
+layout: layout.njk
 ---
 AUSA put up team for quiz show
 ==============================

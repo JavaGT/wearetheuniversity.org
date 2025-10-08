@@ -1,8 +1,11 @@
 ---
 slug: erna-leads-optometry-in-samoa
-title: "Erna leads optometry in Samoa"
-date: 2017-03-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/erna-leads-optometry-in-samoa.html
+title: Erna leads optometry in Samoa
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/erna-leads-optometry-in-samoa.html
+permalink: /archive/2017/03/07/erna-leads-optometry-in-samoa/index.html
+layout: layout.njk
 ---
 Erna leads optometry in Samoa
 =============================

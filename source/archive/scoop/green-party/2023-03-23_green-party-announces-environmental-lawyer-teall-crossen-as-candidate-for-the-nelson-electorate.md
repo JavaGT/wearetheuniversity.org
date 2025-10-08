@@ -1,9 +1,16 @@
 ---
-slug: green-party-announces-environmental-lawyer-teall-crossen-as-candidate-for-the-nelson-electorate
-title: "Green Party Announces Environmental Lawyer Teall Crossen As Candidate For The Nelson Electorate"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PO2303/S00182/green-party-announces-environmental-lawyer-teall-crossen-as-candidate-for-the-nelson-electorate.htm
+slug: >-
+  green-party-announces-environmental-lawyer-teall-crossen-as-candidate-for-the-nelson-electorate
+title: >-
+  Green Party Announces Environmental Lawyer Teall Crossen As Candidate For The
+  Nelson Electorate
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00182/green-party-announces-environmental-lawyer-teall-crossen-as-candidate-for-the-nelson-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/23/green-party-announces-environmental-lawyer-teall-crossen-as-candidate-for-the-nelson-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Environmental Lawyer Teall Crossen As Candidate For The Nelson Electorate
 ===============================================================================================

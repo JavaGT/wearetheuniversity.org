@@ -1,9 +1,13 @@
 ---
 slug: poll-reveals-overwhelming-majority-opposed-to-act-bill
-title: "Poll reveals overwhelming majority opposed to Act Bill"
-date: 2010-11-30
-source-url: https://www.scoop.co.nz/stories/ED1011/S00123/poll-reveals-overwhelming-majority-opposed-to-act-bill.htm
+title: Poll reveals overwhelming majority opposed to Act Bill
+date: 2010-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00123/poll-reveals-overwhelming-majority-opposed-to-act-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/11/30/poll-reveals-overwhelming-majority-opposed-to-act-bill/index.html
+layout: layout.njk
 ---
 Poll reveals overwhelming majority opposed to Act Bill
 ======================================================

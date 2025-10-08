@@ -1,9 +1,12 @@
 ---
 slug: extension-must-not-compromise-fee-freeze
-title: "Extension Must Not Compromise Fee Freeze"
-date: 2002-08-28
-source-url: https://www.scoop.co.nz/stories/ED0208/S00040/extension-must-not-compromise-fee-freeze.htm
+title: Extension Must Not Compromise Fee Freeze
+date: 2002-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00040/extension-must-not-compromise-fee-freeze.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/08/28/extension-must-not-compromise-fee-freeze/index.html
+layout: layout.njk
 ---
 Extension Must Not Compromise Fee Freeze
 ========================================

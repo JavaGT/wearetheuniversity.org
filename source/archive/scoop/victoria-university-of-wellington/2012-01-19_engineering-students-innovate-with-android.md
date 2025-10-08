@@ -1,9 +1,12 @@
 ---
 slug: engineering-students-innovate-with-android
-title: "Engineering students innovate with Android"
-date: 2012-01-19
-source-url: https://www.scoop.co.nz/stories/ED1201/S00031/engineering-students-innovate-with-android.htm
+title: Engineering students innovate with Android
+date: 2012-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00031/engineering-students-innovate-with-android.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/19/engineering-students-innovate-with-android/index.html
+layout: layout.njk
 ---
 Engineering students innovate with Android
 ==========================================

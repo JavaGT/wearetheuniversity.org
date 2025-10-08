@@ -1,9 +1,11 @@
 ---
 slug: parekura-horomia-must-front
-title: "Parekura Horomia Must Front"
-date: 2003-05-23
+title: Parekura Horomia Must Front
+date: 2003-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00596/parekura-horomia-must-front.htm
 author: act-new-zealand
+permalink: /archive/2003/05/23/parekura-horomia-must-front/index.html
+layout: layout.njk
 ---
 Parekura Horomia Must Front
 ===========================

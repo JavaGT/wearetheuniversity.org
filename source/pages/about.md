@@ -1,6 +1,8 @@
 ---
+permalink: "/about/index.html"
 slug: 'about'
 title: 'About'
+layout: 'layout.njk'
 ---
 
 # About

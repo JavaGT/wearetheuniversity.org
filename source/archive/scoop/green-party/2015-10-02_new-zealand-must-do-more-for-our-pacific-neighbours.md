@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-must-do-more-for-our-pacific-neighbours
-title: "New Zealand must do more for our Pacific neighbours"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/PA1510/S00029/new-zealand-must-do-more-for-our-pacific-neighbours.htm
+title: New Zealand must do more for our Pacific neighbours
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00029/new-zealand-must-do-more-for-our-pacific-neighbours.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/02/new-zealand-must-do-more-for-our-pacific-neighbours/index.html
+layout: layout.njk
 ---
 New Zealand must do more for our Pacific neighbours
 ===================================================

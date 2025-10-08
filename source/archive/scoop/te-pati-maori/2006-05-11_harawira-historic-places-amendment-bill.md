@@ -1,9 +1,12 @@
 ---
 slug: harawira-historic-places-amendment-bill
-title: "Harawira: Historic Places Amendment Bill"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/PA0605/S00240/harawira-historic-places-amendment-bill.htm
+title: 'Harawira: Historic Places Amendment Bill'
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00240/harawira-historic-places-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/05/11/harawira-historic-places-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Historic Places Amendment Bill
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-music-student-back-from-new-york-to-perform
-title: "Canterbury music student back from New York to perform"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/ED1404/S00084/canterbury-music-student-back-from-new-york-to-perform.htm
+title: Canterbury music student back from New York to perform
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00084/canterbury-music-student-back-from-new-york-to-perform.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/29/canterbury-music-student-back-from-new-york-to-perform/index.html
+layout: layout.njk
 ---
 Canterbury music student back from New York to perform
 ======================================================

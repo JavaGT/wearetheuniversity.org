@@ -1,9 +1,13 @@
 ---
 slug: stressed-teenagers-reluctant-to-seek-formal-help-new-nz-research
-title: "Stressed Teenagers Reluctant To Seek Formal Help – New NZ Research"
-date: 2021-03-05
-source-url: https://www.scoop.co.nz/stories/GE2103/S00032/stressed-teenagers-reluctant-to-seek-formal-help-new-nz-research.htm
+title: Stressed Teenagers Reluctant To Seek Formal Help – New NZ Research
+date: 2021-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2103/S00032/stressed-teenagers-reluctant-to-seek-formal-help-new-nz-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/03/05/stressed-teenagers-reluctant-to-seek-formal-help-new-nz-research/index.html
+layout: layout.njk
 ---
 Stressed Teenagers Reluctant To Seek Formal Help – New NZ Research
 ==================================================================

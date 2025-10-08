@@ -1,9 +1,13 @@
 ---
 slug: experts-call-for-urgent-changes-to-tobacco-sales
-title: "Experts call for urgent changes to tobacco sales"
-date: 2017-06-02
-source-url: https://www.scoop.co.nz/stories/GE1706/S00009/experts-call-for-urgent-changes-to-tobacco-sales.htm
+title: Experts call for urgent changes to tobacco sales
+date: 2017-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00009/experts-call-for-urgent-changes-to-tobacco-sales.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/02/experts-call-for-urgent-changes-to-tobacco-sales/index.html
+layout: layout.njk
 ---
 Experts call for urgent changes to tobacco sales
 ================================================

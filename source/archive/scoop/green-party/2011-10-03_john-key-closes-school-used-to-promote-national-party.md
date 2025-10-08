@@ -1,9 +1,13 @@
 ---
 slug: john-key-closes-school-used-to-promote-national-party
-title: "John Key closes school used to promote National Party"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/PA1110/S00023/john-key-closes-school-used-to-promote-national-party.htm
+title: John Key closes school used to promote National Party
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00023/john-key-closes-school-used-to-promote-national-party.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/03/john-key-closes-school-used-to-promote-national-party/index.html
+layout: layout.njk
 ---
 John Key closes school used to promote National Party
 =====================================================

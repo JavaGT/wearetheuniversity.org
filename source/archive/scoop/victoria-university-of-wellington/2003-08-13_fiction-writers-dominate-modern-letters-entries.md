@@ -1,9 +1,12 @@
 ---
 slug: fiction-writers-dominate-modern-letters-entries
-title: "Fiction writers dominate Modern Letters entries"
-date: 2003-08-13
-source-url: https://www.scoop.co.nz/stories/CU0308/S00038/fiction-writers-dominate-modern-letters-entries.htm
+title: Fiction writers dominate Modern Letters entries
+date: 2003-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0308/S00038/fiction-writers-dominate-modern-letters-entries.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/13/fiction-writers-dominate-modern-letters-entries/index.html
+layout: layout.njk
 ---
 Fiction writers dominate Modern Letters entries
 ===============================================

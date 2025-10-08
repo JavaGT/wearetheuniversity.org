@@ -1,9 +1,12 @@
 ---
 slug: newman-acts-welfare-reform-candidate
-title: "Newman: ACT's Welfare Reform Candidate"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00020/newman-acts-welfare-reform-candidate.htm
+title: 'Newman: ACT''s Welfare Reform Candidate'
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00020/newman-acts-welfare-reform-candidate.htm
 author: act-new-zealand
+permalink: /archive/2004/05/03/newman-acts-welfare-reform-candidate/index.html
+layout: layout.njk
 ---
 Newman: ACT's Welfare Reform Candidate
 ======================================

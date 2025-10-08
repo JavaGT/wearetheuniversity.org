@@ -1,9 +1,12 @@
 ---
 slug: overstayer-policy-rapidly-unwinding-webster
-title: "Overstayer Policy Rapidly Unwinding - Webster"
-date: 2000-09-27
-source-url: https://www.scoop.co.nz/stories/PA0009/S00433/overstayer-policy-rapidly-unwinding-webster.htm
+title: Overstayer Policy Rapidly Unwinding - Webster
+date: 2000-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00433/overstayer-policy-rapidly-unwinding-webster.htm
 author: act-new-zealand
+permalink: /archive/2000/09/27/overstayer-policy-rapidly-unwinding-webster/index.html
+layout: layout.njk
 ---
 Overstayer Policy Rapidly Unwinding - Webster
 =============================================

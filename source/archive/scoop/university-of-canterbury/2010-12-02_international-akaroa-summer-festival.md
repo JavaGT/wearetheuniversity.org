@@ -1,9 +1,12 @@
 ---
 slug: international-akaroa-summer-festival
-title: "International Akaroa Summer Festival"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/CU1012/S00029/international-akaroa-summer-festival.htm
+title: International Akaroa Summer Festival
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1012/S00029/international-akaroa-summer-festival.htm
 author: university-of-canterbury
+permalink: /archive/2010/12/02/international-akaroa-summer-festival/index.html
+layout: layout.njk
 ---
 International Akaroa Summer Festival
 ====================================

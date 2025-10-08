@@ -1,9 +1,12 @@
 ---
 slug: biosecurity-important-to-new-zealand
-title: "Biosecurity important to New Zealand"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/PA0711/S00520/biosecurity-important-to-new-zealand.htm
+title: Biosecurity important to New Zealand
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00520/biosecurity-important-to-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/27/biosecurity-important-to-new-zealand/index.html
+layout: layout.njk
 ---
 Biosecurity important to New Zealand
 ====================================

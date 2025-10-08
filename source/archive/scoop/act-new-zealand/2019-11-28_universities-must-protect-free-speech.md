@@ -1,9 +1,12 @@
 ---
 slug: universities-must-protect-free-speech
-title: "Universities must protect free speech"
-date: 2019-11-28
-source-url: https://www.scoop.co.nz/stories/PA1911/S00235/universities-must-protect-free-speech.htm
+title: Universities must protect free speech
+date: 2019-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00235/universities-must-protect-free-speech.htm
 author: act-new-zealand
+permalink: /archive/2019/11/28/universities-must-protect-free-speech/index.html
+layout: layout.njk
 ---
 Universities must protect free speech
 =====================================

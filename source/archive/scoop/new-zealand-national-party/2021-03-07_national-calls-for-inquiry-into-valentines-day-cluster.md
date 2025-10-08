@@ -1,9 +1,13 @@
 ---
 slug: national-calls-for-inquiry-into-valentines-day-cluster
-title: "National Calls For Inquiry Into Valentine’s Day Cluster"
-date: 2021-03-07
-source-url: https://www.scoop.co.nz/stories/PA2103/S00037/national-calls-for-inquiry-into-valentines-day-cluster.htm
+title: National Calls For Inquiry Into Valentine’s Day Cluster
+date: 2021-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00037/national-calls-for-inquiry-into-valentines-day-cluster.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/07/national-calls-for-inquiry-into-valentines-day-cluster/index.html
+layout: layout.njk
 ---
 National Calls For Inquiry Into Valentine’s Day Cluster
 =======================================================

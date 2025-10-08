@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-get-on-roll-campaign
-title: "Greens Launch 'Get On Roll' Campaign"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/PA0205/S00675/greens-launch-get-on-roll-campaign.htm
+title: Greens Launch 'Get On Roll' Campaign
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00675/greens-launch-get-on-roll-campaign.htm
 author: green-party
+permalink: /archive/2002/05/30/greens-launch-get-on-roll-campaign/index.html
+layout: layout.njk
 ---
 Greens Launch 'Get On Roll' Campaign
 ====================================

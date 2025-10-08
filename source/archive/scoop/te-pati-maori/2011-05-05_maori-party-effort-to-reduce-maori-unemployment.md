@@ -1,9 +1,12 @@
 ---
 slug: maori-party-effort-to-reduce-maori-unemployment
-title: "Maori Party effort to reduce Maori unemployment"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PA1105/S00126/maori-party-effort-to-reduce-maori-unemployment.htm
+title: Maori Party effort to reduce Maori unemployment
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00126/maori-party-effort-to-reduce-maori-unemployment.htm
 author: te-pati-maori
+permalink: /archive/2011/05/05/maori-party-effort-to-reduce-maori-unemployment/index.html
+layout: layout.njk
 ---
 Maori Party effort to reduce Maori unemployment
 ===============================================

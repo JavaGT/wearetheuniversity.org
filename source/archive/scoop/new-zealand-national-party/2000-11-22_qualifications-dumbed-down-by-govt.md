@@ -1,9 +1,12 @@
 ---
 slug: qualifications-dumbed-down-by-govt
-title: "Qualifications Dumbed Down By Govt"
-date: 2000-11-22
-source-url: https://www.scoop.co.nz/stories/PA0011/S00375/qualifications-dumbed-down-by-govt.htm
+title: Qualifications Dumbed Down By Govt
+date: 2000-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00375/qualifications-dumbed-down-by-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/22/qualifications-dumbed-down-by-govt/index.html
+layout: layout.njk
 ---
 Qualifications Dumbed Down By Govt
 ==================================

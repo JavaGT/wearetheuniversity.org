@@ -1,9 +1,12 @@
 ---
 slug: $3-5-m-us-donation-swells-business-school
-title: "$3.5 M US Donation Swells Business School"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/ED0207/S00001/35-m-us-donation-swells-business-school.htm
+title: $3.5 M US Donation Swells Business School
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00001/35-m-us-donation-swells-business-school.htm
 author: auckland-university
+permalink: /archive/2002/07/01/3-5-m-us-donation-swells-business-school/index.html
+layout: layout.njk
 ---
 $3.5 M US Donation Swells Business School
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-bill-english-state-of-the-nation-2018
-title: "Rt Hon Bill English – State of the Nation 2018"
-date: 2018-01-31
-source-url: https://www.scoop.co.nz/stories/PA1801/S00111/rt-hon-bill-english-state-of-the-nation-2018.htm
+title: Rt Hon Bill English – State of the Nation 2018
+date: 2018-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00111/rt-hon-bill-english-state-of-the-nation-2018.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/31/rt-hon-bill-english-state-of-the-nation-2018/index.html
+layout: layout.njk
 ---
 Rt Hon Bill English – State of the Nation 2018
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: stranded-on-the-middle-ground
-title: "Stranded on the Middle Ground?"
-date: 2010-02-27
-source-url: https://www.scoop.co.nz/stories/PA1002/S00396/stranded-on-the-middle-ground.htm
+title: Stranded on the Middle Ground?
+date: 2010-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00396/stranded-on-the-middle-ground.htm
 author: act-new-zealand
+permalink: /archive/2010/02/27/stranded-on-the-middle-ground/index.html
+layout: layout.njk
 ---
 Stranded on the Middle Ground?
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: action-demanded-on-poor-maori-literacy
-title: "Action demanded on poor Maori literacy"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00248/action-demanded-on-poor-maori-literacy.htm
+title: Action demanded on poor Maori literacy
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00248/action-demanded-on-poor-maori-literacy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/13/action-demanded-on-poor-maori-literacy/index.html
+layout: layout.njk
 ---
 Action demanded on poor Maori literacy
 ======================================

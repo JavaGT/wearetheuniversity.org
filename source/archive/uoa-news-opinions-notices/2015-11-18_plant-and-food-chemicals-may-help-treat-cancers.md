@@ -1,8 +1,11 @@
 ---
 slug: plant-and-food-chemicals-may-help-treat-cancers
-title: "Plant and food chemicals may help treat cancers"
-date: 2015-11-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/plant-and-food-chemicals-may-help-treat-cancers.html
+title: Plant and food chemicals may help treat cancers
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/plant-and-food-chemicals-may-help-treat-cancers.html
+permalink: /archive/2015/11/18/plant-and-food-chemicals-may-help-treat-cancers/index.html
+layout: layout.njk
 ---
 Plant and food chemicals may help treat cancers
 ===============================================

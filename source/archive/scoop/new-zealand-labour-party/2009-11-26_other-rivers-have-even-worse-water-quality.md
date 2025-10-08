@@ -1,9 +1,12 @@
 ---
 slug: other-rivers-have-even-worse-water-quality
-title: "Other rivers have even worse water quality"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00402/other-rivers-have-even-worse-water-quality.htm
+title: Other rivers have even worse water quality
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00402/other-rivers-have-even-worse-water-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/26/other-rivers-have-even-worse-water-quality/index.html
+layout: layout.njk
 ---
 Other rivers have even worse water quality
 ==========================================

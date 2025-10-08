@@ -1,9 +1,12 @@
 ---
 slug: police-dog-back-home-in-hawkes-bay
-title: "Police dog back home in Hawke's Bay"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/PO0606/S00093/police-dog-back-home-in-hawkes-bay.htm
+title: Police dog back home in Hawke's Bay
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00093/police-dog-back-home-in-hawkes-bay.htm
 author: massey-university
+permalink: /archive/2006/06/09/police-dog-back-home-in-hawkes-bay/index.html
+layout: layout.njk
 ---
 Police dog back home in Hawke's Bay
 ===================================

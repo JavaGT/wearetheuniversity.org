@@ -1,9 +1,12 @@
 ---
 slug: the-new-beneficiaries-winston-peters-speech
-title: "The New Beneficiaries - Winston Peters Speech"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/PA0207/S00421/the-new-beneficiaries-winston-peters-speech.htm
+title: The New Beneficiaries - Winston Peters Speech
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00421/the-new-beneficiaries-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/16/the-new-beneficiaries-winston-peters-speech/index.html
+layout: layout.njk
 ---
 The New Beneficiaries - Winston Peters Speech
 =============================================

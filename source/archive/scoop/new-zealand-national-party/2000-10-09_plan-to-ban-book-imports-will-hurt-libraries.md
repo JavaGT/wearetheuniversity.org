@@ -1,9 +1,12 @@
 ---
 slug: plan-to-ban-book-imports-will-hurt-libraries
-title: "Plan To Ban Book Imports Will Hurt Libraries"
-date: 2000-10-09
-source-url: https://www.scoop.co.nz/stories/PA0010/S00160/plan-to-ban-book-imports-will-hurt-libraries.htm
+title: Plan To Ban Book Imports Will Hurt Libraries
+date: 2000-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00160/plan-to-ban-book-imports-will-hurt-libraries.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/09/plan-to-ban-book-imports-will-hurt-libraries/index.html
+layout: layout.njk
 ---
 Plan To Ban Book Imports Will Hurt Libraries
 ============================================

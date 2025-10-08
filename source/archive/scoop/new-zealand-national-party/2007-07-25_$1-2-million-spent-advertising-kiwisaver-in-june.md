@@ -1,9 +1,12 @@
 ---
 slug: $1-2-million-spent-advertising-kiwisaver-in-june
-title: "$1.2 million spent advertising KiwiSaver in June"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PA0707/S00420/12-million-spent-advertising-kiwisaver-in-june.htm
+title: $1.2 million spent advertising KiwiSaver in June
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00420/12-million-spent-advertising-kiwisaver-in-june.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/25/1-2-million-spent-advertising-kiwisaver-in-june/index.html
+layout: layout.njk
 ---
 $1.2 million spent advertising KiwiSaver in June
 ================================================

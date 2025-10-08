@@ -1,9 +1,12 @@
 ---
 slug: moves-to-ensure-student-voice-is-not-lost
-title: "Moves to ensure student voice is not lost"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/PO1211/S00094/moves-to-ensure-student-voice-is-not-lost.htm
+title: Moves to ensure student voice is not lost
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00094/moves-to-ensure-student-voice-is-not-lost.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/11/07/moves-to-ensure-student-voice-is-not-lost/index.html
+layout: layout.njk
 ---
 Moves to ensure student voice is not lost
 =========================================

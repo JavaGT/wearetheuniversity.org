@@ -1,9 +1,13 @@
 ---
 slug: families-let-down-by-education-select-committee-report
-title: "Families let down by Education Select Committee report"
-date: 2016-11-20
-source-url: https://www.scoop.co.nz/stories/PA1611/S00354/families-let-down-by-education-select-committee-report.htm
+title: Families let down by Education Select Committee report
+date: 2016-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00354/families-let-down-by-education-select-committee-report.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/20/families-let-down-by-education-select-committee-report/index.html
+layout: layout.njk
 ---
 Families let down by Education Select Committee report
 ======================================================

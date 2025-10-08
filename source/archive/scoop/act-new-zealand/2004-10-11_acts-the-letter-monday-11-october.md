@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-11-october
-title: "ACT's The Letter - Monday 11 October"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/PA0410/S00173/acts-the-letter-monday-11-october.htm
+title: ACT's The Letter - Monday 11 October
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00173/acts-the-letter-monday-11-october.htm
 author: act-new-zealand
+permalink: /archive/2004/10/11/acts-the-letter-monday-11-october/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday 11 October
 ====================================

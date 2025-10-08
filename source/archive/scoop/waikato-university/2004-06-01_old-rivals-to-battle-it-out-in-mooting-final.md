@@ -1,9 +1,12 @@
 ---
 slug: old-rivals-to-battle-it-out-in-mooting-final
-title: "Old Rivals To Battle It Out In Mooting Final"
-date: 2004-06-01
-source-url: https://www.scoop.co.nz/stories/ED0406/S00005/old-rivals-to-battle-it-out-in-mooting-final.htm
+title: Old Rivals To Battle It Out In Mooting Final
+date: 2004-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00005/old-rivals-to-battle-it-out-in-mooting-final.htm
 author: waikato-university
+permalink: /archive/2004/06/01/old-rivals-to-battle-it-out-in-mooting-final/index.html
+layout: layout.njk
 ---
 Old Rivals To Battle It Out In Mooting Final
 ============================================

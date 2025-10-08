@@ -1,9 +1,12 @@
 ---
 slug: sunbed-dangers-highlighted-again
-title: "Sunbed Dangers Highlighted Again"
-date: 2016-12-06
-source-url: https://www.scoop.co.nz/stories/PA1612/S00091/sunbed-dangers-highlighted-again.htm
+title: Sunbed Dangers Highlighted Again
+date: 2016-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00091/sunbed-dangers-highlighted-again.htm
 author: new-zealand-first-party
+permalink: /archive/2016/12/06/sunbed-dangers-highlighted-again/index.html
+layout: layout.njk
 ---
 Sunbed Dangers Highlighted Again
 ================================

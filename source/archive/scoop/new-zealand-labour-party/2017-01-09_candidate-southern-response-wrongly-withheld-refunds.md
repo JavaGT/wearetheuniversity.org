@@ -4,6 +4,8 @@ title: "Candidate: Southern Response Wrongly Withheld Refunds"
 date: 2017-01-09
 source-url: https://www.scoop.co.nz/stories/PO1701/S00029/candidate-southern-response-wrongly-withheld-refunds.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/09/candidate-southern-response-wrongly-withheld-refunds/index.html
+layout: layout.njk
 ---
 Candidate: Southern Response Wrongly Withheld Refunds
 =====================================================

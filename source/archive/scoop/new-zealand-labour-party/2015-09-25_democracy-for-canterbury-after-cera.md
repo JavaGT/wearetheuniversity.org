@@ -1,9 +1,12 @@
 ---
 slug: democracy-for-canterbury-after-cera
-title: "Democracy for Canterbury after CERA"
-date: 2015-09-25
-source-url: https://www.scoop.co.nz/stories/PA1509/S00445/democracy-for-canterbury-after-cera.htm
+title: Democracy for Canterbury after CERA
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00445/democracy-for-canterbury-after-cera.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/25/democracy-for-canterbury-after-cera/index.html
+layout: layout.njk
 ---
 Democracy for Canterbury after CERA
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-gps-and-the-health-needs-of-maori
-title: "Sharples: GPs and the health needs of Maori"
-date: 2007-07-16
-source-url: https://www.scoop.co.nz/stories/PA0707/S00234/sharples-gps-and-the-health-needs-of-maori.htm
+title: 'Sharples: GPs and the health needs of Maori'
+date: 2007-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00234/sharples-gps-and-the-health-needs-of-maori.htm
 author: te-pati-maori
+permalink: /archive/2007/07/16/sharples-gps-and-the-health-needs-of-maori/index.html
+layout: layout.njk
 ---
 Sharples: GPs and the health needs of Maori
 ===========================================

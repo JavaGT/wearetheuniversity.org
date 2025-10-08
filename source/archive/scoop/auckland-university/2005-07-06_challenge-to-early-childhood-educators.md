@@ -1,9 +1,12 @@
 ---
 slug: challenge-to-early-childhood-educators
-title: "Challenge to early childhood educators"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/ED0507/S00018/challenge-to-early-childhood-educators.htm
+title: Challenge to early childhood educators
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00018/challenge-to-early-childhood-educators.htm
 author: auckland-university
+permalink: /archive/2005/07/06/challenge-to-early-childhood-educators/index.html
+layout: layout.njk
 ---
 Challenge to early childhood educators
 ======================================

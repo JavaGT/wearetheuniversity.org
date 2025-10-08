@@ -1,9 +1,12 @@
 ---
 slug: massey-welcomes-new-head-of-public-health
-title: "Massey welcomes new head of Public Health"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/ED1510/S00134/massey-welcomes-new-head-of-public-health.htm
+title: Massey welcomes new head of Public Health
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00134/massey-welcomes-new-head-of-public-health.htm
 author: massey-university
+permalink: /archive/2015/10/29/massey-welcomes-new-head-of-public-health/index.html
+layout: layout.njk
 ---
 Massey welcomes new head of Public Health
 =========================================

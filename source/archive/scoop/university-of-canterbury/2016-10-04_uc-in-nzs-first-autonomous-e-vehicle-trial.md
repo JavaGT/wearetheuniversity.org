@@ -1,9 +1,12 @@
 ---
 slug: uc-in-nzs-first-autonomous-e-vehicle-trial
-title: "UC in NZ’s first autonomous e-vehicle trial"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/SC1610/S00007/uc-in-nzs-first-autonomous-e-vehicle-trial.htm
+title: UC in NZ’s first autonomous e-vehicle trial
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00007/uc-in-nzs-first-autonomous-e-vehicle-trial.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/04/uc-in-nzs-first-autonomous-e-vehicle-trial/index.html
+layout: layout.njk
 ---
 UC in NZ’s first autonomous e-vehicle trial
 ===========================================

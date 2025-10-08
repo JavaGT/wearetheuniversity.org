@@ -1,9 +1,12 @@
 ---
 slug: concern-at-prospect-of-postgraduate-fee-rise
-title: "Concern at prospect of postgraduate fee rise"
-date: 2003-05-01
-source-url: https://www.scoop.co.nz/stories/ED0305/S00004/concern-at-prospect-of-postgraduate-fee-rise.htm
+title: Concern at prospect of postgraduate fee rise
+date: 2003-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00004/concern-at-prospect-of-postgraduate-fee-rise.htm
 author: association-of-university-staff
+permalink: /archive/2003/05/01/concern-at-prospect-of-postgraduate-fee-rise/index.html
+layout: layout.njk
 ---
 Concern at prospect of postgraduate fee rise
 ============================================

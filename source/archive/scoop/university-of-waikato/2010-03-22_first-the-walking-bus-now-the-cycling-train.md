@@ -1,9 +1,12 @@
 ---
 slug: first-the-walking-bus-now-the-cycling-train
-title: "First the walking bus, now the cycling train?"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/ED1003/S00095/first-the-walking-bus-now-the-cycling-train.htm
+title: First the walking bus, now the cycling train?
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00095/first-the-walking-bus-now-the-cycling-train.htm
 author: university-of-waikato
+permalink: /archive/2010/03/22/first-the-walking-bus-now-the-cycling-train/index.html
+layout: layout.njk
 ---
 First the walking bus, now the cycling train?
 =============================================

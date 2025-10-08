@@ -1,9 +1,12 @@
 ---
 slug: massey-launches-own-publishing-press
-title: "Massey launches own publishing press"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/ED1502/S00097/massey-launches-own-publishing-press.htm
+title: Massey launches own publishing press
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00097/massey-launches-own-publishing-press.htm
 author: massey-university
+permalink: /archive/2015/02/27/massey-launches-own-publishing-press/index.html
+layout: layout.njk
 ---
 Massey launches own publishing press
 ====================================

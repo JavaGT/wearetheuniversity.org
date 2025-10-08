@@ -1,9 +1,12 @@
 ---
 slug: baby-boomers-refuse-to-retire
-title: "Baby Boomers Refuse To Retire"
-date: 2009-07-28
-source-url: https://www.scoop.co.nz/stories/PO0907/S00298/baby-boomers-refuse-to-retire.htm
+title: Baby Boomers Refuse To Retire
+date: 2009-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00298/baby-boomers-refuse-to-retire.htm
 author: massey-university
+permalink: /archive/2009/07/28/baby-boomers-refuse-to-retire/index.html
+layout: layout.njk
 ---
 Baby Boomers Refuse To Retire
 =============================

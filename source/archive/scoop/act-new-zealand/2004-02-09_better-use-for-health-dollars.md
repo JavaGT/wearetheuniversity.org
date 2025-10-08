@@ -1,9 +1,12 @@
 ---
 slug: better-use-for-health-dollars
-title: "Better Use For Health Dollars"
-date: 2004-02-09
-source-url: https://www.scoop.co.nz/stories/PA0402/S00114/better-use-for-health-dollars.htm
+title: Better Use For Health Dollars
+date: 2004-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00114/better-use-for-health-dollars.htm
 author: act-new-zealand
+permalink: /archive/2004/02/09/better-use-for-health-dollars/index.html
+layout: layout.njk
 ---
 Better Use For Health Dollars
 =============================

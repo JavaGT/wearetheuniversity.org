@@ -1,9 +1,12 @@
 ---
 slug: a-festival-of-poetry-and-film
-title: "A Festival Of Poetry And Film"
-date: 2024-11-05
-source-url: https://www.scoop.co.nz/stories/CU2411/S00051/a-festival-of-poetry-and-film.htm
+title: A Festival Of Poetry And Film
+date: 2024-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2411/S00051/a-festival-of-poetry-and-film.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/11/05/a-festival-of-poetry-and-film/index.html
+layout: layout.njk
 ---
 A Festival Of Poetry And Film
 =============================

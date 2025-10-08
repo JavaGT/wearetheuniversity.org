@@ -1,9 +1,13 @@
 ---
 slug: university-offers-assistance-with-housing-crisis
-title: "University offers assistance with housing crisis"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/ED1505/S00097/university-offers-assistance-with-housing-crisis.htm
+title: University offers assistance with housing crisis
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00097/university-offers-assistance-with-housing-crisis.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/26/university-offers-assistance-with-housing-crisis/index.html
+layout: layout.njk
 ---
 University offers assistance with housing crisis
 ================================================

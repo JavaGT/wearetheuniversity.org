@@ -1,9 +1,11 @@
 ---
 slug: john-key-nationals-agenda
-title: "John Key: National's Agenda"
-date: 2007-05-21
+title: 'John Key: National''s Agenda'
+date: 2007-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00554/john-key-nationals-agenda.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/21/john-key-nationals-agenda/index.html
+layout: layout.njk
 ---
 John Key: National's Agenda
 ===========================

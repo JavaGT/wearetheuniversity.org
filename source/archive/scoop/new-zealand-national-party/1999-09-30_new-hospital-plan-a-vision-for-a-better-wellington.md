@@ -1,9 +1,13 @@
 ---
 slug: new-hospital-plan-a-vision-for-a-better-wellington
-title: "New Hospital Plan a Vision for a better Wellington"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00665/new-hospital-plan-a-vision-for-a-better-wellington.htm
+title: New Hospital Plan a Vision for a better Wellington
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00665/new-hospital-plan-a-vision-for-a-better-wellington.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/1999/09/30/new-hospital-plan-a-vision-for-a-better-wellington/index.html
+layout: layout.njk
 ---
 New Hospital Plan a Vision for a better Wellington
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: harvard-expert-to-talk-about-christchurchs-exciting-future
-title: "Harvard Expert to talk about Christchurch’s exciting future"
-date: 2013-07-04
-source-url: https://www.scoop.co.nz/stories/AK1307/S00127/harvard-expert-to-talk-about-christchurchs-exciting-future.htm
+title: Harvard Expert to talk about Christchurch’s exciting future
+date: 2013-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00127/harvard-expert-to-talk-about-christchurchs-exciting-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/04/harvard-expert-to-talk-about-christchurchs-exciting-future/index.html
+layout: layout.njk
 ---
 Harvard Expert to talk about Christchurch’s exciting future
 ===========================================================

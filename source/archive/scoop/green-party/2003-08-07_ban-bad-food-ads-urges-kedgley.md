@@ -1,9 +1,12 @@
 ---
 slug: ban-bad-food-ads-urges-kedgley
-title: "Ban bad-food ads, urges Kedgley"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/PA0308/S00141/ban-bad-food-ads-urges-kedgley.htm
+title: Ban bad-food ads, urges Kedgley
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00141/ban-bad-food-ads-urges-kedgley.htm
 author: green-party
+permalink: /archive/2003/08/07/ban-bad-food-ads-urges-kedgley/index.html
+layout: layout.njk
 ---
 Ban bad-food ads, urges Kedgley
 ===============================

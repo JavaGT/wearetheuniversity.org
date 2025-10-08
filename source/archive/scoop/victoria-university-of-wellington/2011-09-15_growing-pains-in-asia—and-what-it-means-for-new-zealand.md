@@ -1,9 +1,12 @@
 ---
 slug: growing-pains-in-asia—and-what-it-means-for-new-zealand
-title: "Growing pains in Asia—and what it means for New Zealand"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/ED1109/S00059/growing-pains-in-asia-and-what-it-means-for-new-zealand.htm
+title: Growing pains in Asia—and what it means for New Zealand
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00059/growing-pains-in-asia-and-what-it-means-for-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/15/growing-pains-in-asia/index.html
+layout: layout.njk
 ---
 Growing pains in Asia—and what it means for New Zealand
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-17-may-2007
-title: "AUS Tertiary Update, 17 May 2007"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/ED0705/S00067/aus-tertiary-update-17-may-2007.htm
+title: AUS Tertiary Update, 17 May 2007
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00067/aus-tertiary-update-17-may-2007.htm
 author: association-of-university-staff
+permalink: /archive/2007/05/17/aus-tertiary-update-17-may-2007/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update, 17 May 2007
 ================================

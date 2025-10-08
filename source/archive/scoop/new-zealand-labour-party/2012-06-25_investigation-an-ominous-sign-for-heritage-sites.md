@@ -1,9 +1,13 @@
 ---
 slug: investigation-an-ominous-sign-for-heritage-sites
-title: "Investigation an ominous sign for heritage sites"
-date: 2012-06-25
-source-url: https://www.scoop.co.nz/stories/PA1206/S00356/investigation-an-ominous-sign-for-heritage-sites.htm
+title: Investigation an ominous sign for heritage sites
+date: 2012-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00356/investigation-an-ominous-sign-for-heritage-sites.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/25/investigation-an-ominous-sign-for-heritage-sites/index.html
+layout: layout.njk
 ---
 Investigation an ominous sign for heritage sites
 ================================================

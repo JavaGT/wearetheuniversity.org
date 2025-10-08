@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-17-june-2005
-title: "Heather Roy's Diary 17 June 2005"
-date: 2005-06-17
-source-url: https://www.scoop.co.nz/stories/PA0506/S00399/heather-roys-diary-17-june-2005.htm
+title: Heather Roy's Diary 17 June 2005
+date: 2005-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00399/heather-roys-diary-17-june-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/06/17/heather-roys-diary-17-june-2005/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary 17 June 2005
 ================================

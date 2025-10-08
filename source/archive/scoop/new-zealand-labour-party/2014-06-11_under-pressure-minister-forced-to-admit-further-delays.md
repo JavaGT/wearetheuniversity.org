@@ -1,9 +1,13 @@
 ---
 slug: under-pressure-minister-forced-to-admit-further-delays
-title: "Under pressure minister forced to admit further delays"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PA1406/S00131/under-pressure-minister-forced-to-admit-further-delays.htm
+title: Under pressure minister forced to admit further delays
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00131/under-pressure-minister-forced-to-admit-further-delays.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/06/11/under-pressure-minister-forced-to-admit-further-delays/index.html
+layout: layout.njk
 ---
 Under pressure minister forced to admit further delays
 ======================================================

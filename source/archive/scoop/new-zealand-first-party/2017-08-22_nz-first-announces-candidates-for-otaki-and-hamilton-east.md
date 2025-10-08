@@ -1,9 +1,13 @@
 ---
 slug: nz-first-announces-candidates-for-otaki-and-hamilton-east
-title: "NZ First announces candidates for Otaki and Hamilton East"
-date: 2017-08-22
-source-url: https://www.scoop.co.nz/stories/PO1708/S00459/nz-first-announces-candidates-for-otaki-and-hamilton-east.htm
+title: NZ First announces candidates for Otaki and Hamilton East
+date: 2017-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00459/nz-first-announces-candidates-for-otaki-and-hamilton-east.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/22/nz-first-announces-candidates-for-otaki-and-hamilton-east/index.html
+layout: layout.njk
 ---
 NZ First announces candidates for Otaki and Hamilton East
 =========================================================

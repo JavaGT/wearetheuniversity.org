@@ -1,9 +1,12 @@
 ---
 slug: doc-buying-birchwood-idealism-out-of-control
-title: "DOC Buying Birchwood-Idealism Out Of Control"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PA0401/S00197/doc-buying-birchwood-idealism-out-of-control.htm
+title: DOC Buying Birchwood-Idealism Out Of Control
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00197/doc-buying-birchwood-idealism-out-of-control.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/26/doc-buying-birchwood-idealism-out-of-control/index.html
+layout: layout.njk
 ---
 DOC Buying Birchwood-Idealism Out Of Control
 ============================================

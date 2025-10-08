@@ -1,9 +1,13 @@
 ---
 slug: youth-opportunities-package-a-positive-first-step
-title: "Youth opportunities package a positive first step"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/PO0908/S00027/youth-opportunities-package-a-positive-first-step.htm
+title: Youth opportunities package a positive first step
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00027/youth-opportunities-package-a-positive-first-step.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/08/04/youth-opportunities-package-a-positive-first-step/index.html
+layout: layout.njk
 ---
 Youth opportunities package a positive first step
 =================================================

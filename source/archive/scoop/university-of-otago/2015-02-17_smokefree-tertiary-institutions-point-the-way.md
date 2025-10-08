@@ -1,9 +1,12 @@
 ---
 slug: smokefree-tertiary-institutions-point-the-way
-title: "Smokefree tertiary institutions point the way"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/ED1502/S00060/smokefree-tertiary-institutions-point-the-way.htm
+title: Smokefree tertiary institutions point the way
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00060/smokefree-tertiary-institutions-point-the-way.htm
 author: university-of-otago
+permalink: /archive/2015/02/17/smokefree-tertiary-institutions-point-the-way/index.html
+layout: layout.njk
 ---
 Smokefree tertiary institutions point the way
 =============================================

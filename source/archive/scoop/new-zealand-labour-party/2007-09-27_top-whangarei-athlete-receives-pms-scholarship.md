@@ -1,9 +1,12 @@
 ---
 slug: top-whangarei-athlete-receives-pms-scholarship
-title: "Top Whangarei athlete receives PM's Scholarship"
-date: 2007-09-27
-source-url: https://www.scoop.co.nz/stories/PA0709/S00479/top-whangarei-athlete-receives-pms-scholarship.htm
+title: Top Whangarei athlete receives PM's Scholarship
+date: 2007-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00479/top-whangarei-athlete-receives-pms-scholarship.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/09/27/top-whangarei-athlete-receives-pms-scholarship/index.html
+layout: layout.njk
 ---
 Top Whangarei athlete receives PM's Scholarship
 ===============================================

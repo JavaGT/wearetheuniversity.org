@@ -1,9 +1,12 @@
 ---
 slug: wellingtons-eco-city-just-hot-air
-title: "Wellington's Eco-City just hot-air?"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/PA0712/S00125/wellingtons-eco-city-just-hot-air.htm
+title: Wellington's Eco-City just hot-air?
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00125/wellingtons-eco-city-just-hot-air.htm
 author: green-party
+permalink: /archive/2007/12/06/wellingtons-eco-city-just-hot-air/index.html
+layout: layout.njk
 ---
 Wellington's Eco-City just hot-air?
 ===================================

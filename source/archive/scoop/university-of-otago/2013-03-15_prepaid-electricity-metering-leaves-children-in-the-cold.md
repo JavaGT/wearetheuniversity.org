@@ -1,9 +1,13 @@
 ---
 slug: prepaid-electricity-metering-leaves-children-in-the-cold
-title: "Prepaid electricity metering leaves children in the cold"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/CU1303/S00311/prepaid-electricity-metering-leaves-children-in-the-cold.htm
+title: Prepaid electricity metering leaves children in the cold
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00311/prepaid-electricity-metering-leaves-children-in-the-cold.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/15/prepaid-electricity-metering-leaves-children-in-the-cold/index.html
+layout: layout.njk
 ---
 Prepaid electricity metering leaves children in the cold
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-annual-cost-for-student-loan-borrowers
-title: "New annual cost for student loan borrowers"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00067/new-annual-cost-for-student-loan-borrowers.htm
+title: New annual cost for student loan borrowers
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00067/new-annual-cost-for-student-loan-borrowers.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/05/new-annual-cost-for-student-loan-borrowers/index.html
+layout: layout.njk
 ---
 New annual cost for student loan borrowers
 ==========================================

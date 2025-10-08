@@ -1,9 +1,12 @@
 ---
 slug: questions-for-(oral)-answer-tuesday-2nd-of-august
-title: "Questions for (Oral) Answer - Tuesday 2nd Of August"
-date: 2016-08-02
-source-url: https://www.scoop.co.nz/stories/PA1608/S00036/questions-for-oral-answer-tuesday-2nd-of-august.htm
+title: Questions for (Oral) Answer - Tuesday 2nd Of August
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00036/questions-for-oral-answer-tuesday-2nd-of-august.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/02/questions-for-/index.html
+layout: layout.njk
 ---
 Questions for (Oral) Answer - Tuesday 2nd Of August
 ===================================================

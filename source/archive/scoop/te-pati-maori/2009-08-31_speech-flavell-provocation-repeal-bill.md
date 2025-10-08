@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-provocation-repeal-bill
-title: "Speech: Flavell - Provocation Repeal Bill"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/PA0908/S00446/speech-flavell-provocation-repeal-bill.htm
+title: 'Speech: Flavell - Provocation Repeal Bill'
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00446/speech-flavell-provocation-repeal-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/08/31/speech-flavell-provocation-repeal-bill/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Provocation Repeal Bill
 =========================================

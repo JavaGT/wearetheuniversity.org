@@ -1,9 +1,13 @@
 ---
 slug: new-test-may-help-rule-out-heart-attack-within-15-minutes
-title: "New test may help rule out heart attack within 15 minutes"
-date: 2018-10-18
-source-url: https://www.scoop.co.nz/stories/SC1810/S00065/new-test-may-help-rule-out-heart-attack-within-15-minutes.htm
+title: New test may help rule out heart attack within 15 minutes
+date: 2018-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00065/new-test-may-help-rule-out-heart-attack-within-15-minutes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/18/new-test-may-help-rule-out-heart-attack-within-15-minutes/index.html
+layout: layout.njk
 ---
 New test may help rule out heart attack within 15 minutes
 =========================================================

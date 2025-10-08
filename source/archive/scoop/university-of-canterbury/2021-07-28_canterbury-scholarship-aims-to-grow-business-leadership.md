@@ -1,9 +1,13 @@
 ---
 slug: canterbury-scholarship-aims-to-grow-business-leadership
-title: "Canterbury Scholarship Aims To Grow Business Leadership"
-date: 2021-07-28
-source-url: https://www.scoop.co.nz/stories/ED2107/S00040/canterbury-scholarship-aims-to-grow-business-leadership.htm
+title: Canterbury Scholarship Aims To Grow Business Leadership
+date: 2021-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00040/canterbury-scholarship-aims-to-grow-business-leadership.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/28/canterbury-scholarship-aims-to-grow-business-leadership/index.html
+layout: layout.njk
 ---
 Canterbury Scholarship Aims To Grow Business Leadership
 =======================================================

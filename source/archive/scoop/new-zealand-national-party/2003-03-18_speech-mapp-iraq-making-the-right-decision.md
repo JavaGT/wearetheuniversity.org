@@ -1,9 +1,12 @@
 ---
 slug: speech-mapp-iraq-making-the-right-decision
-title: "Speech: Mapp - Iraq: Making the right decision"
-date: 2003-03-18
-source-url: https://www.scoop.co.nz/stories/PA0303/S00299/speech-mapp-iraq-making-the-right-decision.htm
+title: 'Speech: Mapp - Iraq: Making the right decision'
+date: 2003-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00299/speech-mapp-iraq-making-the-right-decision.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/18/speech-mapp-iraq-making-the-right-decision/index.html
+layout: layout.njk
 ---
 Speech: Mapp - Iraq: Making the right decision
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: kindergarten-teachers-reject-settlement-offer-over-cuts
-title: "Kindergarten teachers reject settlement offer over cuts"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00049/kindergarten-teachers-reject-settlement-offer-over-cuts.htm
+title: Kindergarten teachers reject settlement offer over cuts
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00049/kindergarten-teachers-reject-settlement-offer-over-cuts.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/14/kindergarten-teachers-reject-settlement-offer-over-cuts/index.html
+layout: layout.njk
 ---
 Kindergarten teachers reject settlement offer over cuts
 =======================================================

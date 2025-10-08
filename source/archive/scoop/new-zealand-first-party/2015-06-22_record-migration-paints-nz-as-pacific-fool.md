@@ -1,9 +1,12 @@
 ---
 slug: record-migration-paints-nz-as-pacific-fool
-title: "Record Migration Paints NZ as ‘Pacific Fool’"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/PA1506/S00391/record-migration-paints-nz-as-pacific-fool.htm
+title: Record Migration Paints NZ as ‘Pacific Fool’
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00391/record-migration-paints-nz-as-pacific-fool.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/22/record-migration-paints-nz-as-pacific-fool/index.html
+layout: layout.njk
 ---
 Record Migration Paints NZ as ‘Pacific Fool’
 ============================================

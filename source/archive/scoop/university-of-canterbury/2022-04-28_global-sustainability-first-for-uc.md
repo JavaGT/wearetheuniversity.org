@@ -1,9 +1,12 @@
 ---
 slug: global-sustainability-first-for-uc
-title: "Global Sustainability First For UC"
-date: 2022-04-28
-source-url: https://www.scoop.co.nz/stories/ED2204/S00024/global-sustainability-first-for-uc.htm
+title: Global Sustainability First For UC
+date: 2022-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00024/global-sustainability-first-for-uc.htm
 author: university-of-canterbury
+permalink: /archive/2022/04/28/global-sustainability-first-for-uc/index.html
+layout: layout.njk
 ---
 Global Sustainability First For UC
 ==================================

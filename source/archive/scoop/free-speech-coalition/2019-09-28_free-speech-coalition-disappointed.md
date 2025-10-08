@@ -1,9 +1,12 @@
 ---
 slug: free-speech-coalition-disappointed
-title: "Free Speech Coalition Disappointed"
-date: 2019-09-28
-source-url: https://www.scoop.co.nz/stories/PO1909/S00384/free-speech-coalition-disappointed.htm
+title: Free Speech Coalition Disappointed
+date: 2019-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1909/S00384/free-speech-coalition-disappointed.htm
 author: free-speech-coalition
+permalink: /archive/2019/09/28/free-speech-coalition-disappointed/index.html
+layout: layout.njk
 ---
 Free Speech Coalition Disappointed
 ==================================

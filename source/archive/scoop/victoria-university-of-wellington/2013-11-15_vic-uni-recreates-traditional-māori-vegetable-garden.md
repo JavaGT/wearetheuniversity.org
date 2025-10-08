@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-recreates-traditional-māori-vegetable-garden
-title: "Vic Uni recreates traditional Māori vegetable garden"
-date: 2013-11-15
-source-url: https://www.scoop.co.nz/stories/AK1311/S00463/vic-uni-recreates-traditional-maori-vegetable-garden.htm
+title: Vic Uni recreates traditional Māori vegetable garden
+date: 2013-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00463/vic-uni-recreates-traditional-maori-vegetable-garden.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/15/vic-uni-recreates-traditional-m/index.html
+layout: layout.njk
 ---
 Vic Uni recreates traditional Māori vegetable garden
 ====================================================

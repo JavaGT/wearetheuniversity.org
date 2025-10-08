@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-put-a-ceiling-on-debt
-title: "Government needs to put a ceiling on debt"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/PA1711/S00098/government-needs-to-put-a-ceiling-on-debt.htm
+title: Government needs to put a ceiling on debt
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00098/government-needs-to-put-a-ceiling-on-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/15/government-needs-to-put-a-ceiling-on-debt/index.html
+layout: layout.njk
 ---
 Government needs to put a ceiling on debt
 =========================================

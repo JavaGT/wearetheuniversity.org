@@ -1,9 +1,12 @@
 ---
 slug: students-get-one-ceo-for-the-price-of-two
-title: "Students get one CEO for the price of two"
-date: 2006-02-23
-source-url: https://www.scoop.co.nz/stories/PA0602/S00371/students-get-one-ceo-for-the-price-of-two.htm
+title: Students get one CEO for the price of two
+date: 2006-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00371/students-get-one-ceo-for-the-price-of-two.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/23/students-get-one-ceo-for-the-price-of-two/index.html
+layout: layout.njk
 ---
 Students get one CEO for the price of two
 =========================================

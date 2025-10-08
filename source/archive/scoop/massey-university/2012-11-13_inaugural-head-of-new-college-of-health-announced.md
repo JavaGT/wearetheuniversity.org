@@ -1,9 +1,13 @@
 ---
 slug: inaugural-head-of-new-college-of-health-announced
-title: "Inaugural head of new College of Health announced"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/GE1211/S00055/inaugural-head-of-new-college-of-health-announced.htm
+title: Inaugural head of new College of Health announced
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00055/inaugural-head-of-new-college-of-health-announced.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/13/inaugural-head-of-new-college-of-health-announced/index.html
+layout: layout.njk
 ---
 Inaugural head of new College of Health announced
 =================================================

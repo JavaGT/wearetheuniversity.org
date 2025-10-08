@@ -1,9 +1,13 @@
 ---
 slug: antarctic-explorers-experience-retraced-by-grandson
-title: "Antarctic explorer's experience retraced by grandson"
-date: 2011-02-14
-source-url: https://www.scoop.co.nz/stories/CU1102/S00228/antarctic-explorers-experience-retraced-by-grandson.htm
+title: Antarctic explorer's experience retraced by grandson
+date: 2011-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1102/S00228/antarctic-explorers-experience-retraced-by-grandson.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/02/14/antarctic-explorers-experience-retraced-by-grandson/index.html
+layout: layout.njk
 ---
 Antarctic explorer's experience retraced by grandson
 ====================================================

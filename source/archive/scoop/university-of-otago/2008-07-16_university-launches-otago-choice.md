@@ -1,9 +1,12 @@
 ---
 slug: university-launches-otago-choice
-title: "University launches Otago Choice"
-date: 2008-07-16
-source-url: https://www.scoop.co.nz/stories/ED0807/S00045/university-launches-otago-choice.htm
+title: University launches Otago Choice
+date: 2008-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00045/university-launches-otago-choice.htm
 author: university-of-otago
+permalink: /archive/2008/07/16/university-launches-otago-choice/index.html
+layout: layout.njk
 ---
 University launches Otago Choice
 ================================

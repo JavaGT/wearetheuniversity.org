@@ -1,9 +1,12 @@
 ---
 slug: fee-increases-at-lincoln-outrageous
-title: "Fee increases at Lincoln outrageous"
-date: 2004-11-02
-source-url: https://www.scoop.co.nz/stories/ED0411/S00006/fee-increases-at-lincoln-outrageous.htm
+title: Fee increases at Lincoln outrageous
+date: 2004-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00006/fee-increases-at-lincoln-outrageous.htm
 author: lincoln-university-students-association
+permalink: /archive/2004/11/02/fee-increases-at-lincoln-outrageous/index.html
+layout: layout.njk
 ---
 Fee increases at Lincoln outrageous
 ===================================

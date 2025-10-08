@@ -1,9 +1,13 @@
 ---
 slug: christchurch-event-history-of-new-zealands-labour-movement
-title: "Christchurch event: History of New Zealand’s labour movement"
-date: 2013-12-16
-source-url: https://www.scoop.co.nz/stories/PO1312/S00226/christchurch-event-history-of-new-zealands-labour-movement.htm
+title: 'Christchurch event: History of New Zealand’s labour movement'
+date: 2013-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00226/christchurch-event-history-of-new-zealands-labour-movement.htm
 author: fightback
+permalink: >-
+  /archive/2013/12/16/christchurch-event-history-of-new-zealands-labour-movement/index.html
+layout: layout.njk
 ---
 Christchurch event: History of New Zealand’s labour movement
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: prostitution-bill-opposition-increasing
-title: "Prostitution Bill Opposition Increasing"
-date: 2003-02-20
-source-url: https://www.scoop.co.nz/stories/PO0302/S00141/prostitution-bill-opposition-increasing.htm
+title: Prostitution Bill Opposition Increasing
+date: 2003-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0302/S00141/prostitution-bill-opposition-increasing.htm
 author: maxim-institute
+permalink: /archive/2003/02/20/prostitution-bill-opposition-increasing/index.html
+layout: layout.njk
 ---
 Prostitution Bill Opposition Increasing
 =======================================

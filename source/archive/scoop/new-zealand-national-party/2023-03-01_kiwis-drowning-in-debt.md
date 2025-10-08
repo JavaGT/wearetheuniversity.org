@@ -1,9 +1,11 @@
 ---
 slug: kiwis-drowning-in-debt
-title: "Kiwis Drowning In Debt"
-date: 2023-03-01
+title: Kiwis Drowning In Debt
+date: 2023-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2303/S00004/kiwis-drowning-in-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/01/kiwis-drowning-in-debt/index.html
+layout: layout.njk
 ---
 Kiwis Drowning In Debt
 ======================

@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-for-older-new-zealanders-written-off
-title: "Tertiary education for older New Zealanders written off"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PO1305/S00258/tertiary-education-for-older-new-zealanders-written-off.htm
+title: Tertiary education for older New Zealanders written off
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00258/tertiary-education-for-older-new-zealanders-written-off.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/05/17/tertiary-education-for-older-new-zealanders-written-off/index.html
+layout: layout.njk
 ---
 Tertiary education for older New Zealanders written off
 =======================================================

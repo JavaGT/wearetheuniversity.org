@@ -1,9 +1,12 @@
 ---
 slug: women-students-target-sexism-in-advertising
-title: "Women Students Target Sexism in Advertising"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/ED0401/S00037/women-students-target-sexism-in-advertising.htm
+title: Women Students Target Sexism in Advertising
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00037/women-students-target-sexism-in-advertising.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/27/women-students-target-sexism-in-advertising/index.html
+layout: layout.njk
 ---
 Women Students Target Sexism in Advertising
 ===========================================

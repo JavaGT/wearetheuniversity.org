@@ -1,9 +1,12 @@
 ---
 slug: nzs-reputation-in-education-at-risk
-title: "NZ’s Reputation in Education at Risk"
-date: 2016-05-05
-source-url: https://www.scoop.co.nz/stories/PA1605/S00072/nzs-reputation-in-education-at-risk.htm
+title: NZ’s Reputation in Education at Risk
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00072/nzs-reputation-in-education-at-risk.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/05/nzs-reputation-in-education-at-risk/index.html
+layout: layout.njk
 ---
 NZ’s Reputation in Education at Risk
 ====================================

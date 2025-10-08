@@ -1,9 +1,13 @@
 ---
 slug: impact-of-rena-oil-spill-part-of-wider-disaster-research
-title: "Impact of Rena oil spill part of wider disaster research"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/SC1210/S00011/impact-of-rena-oil-spill-part-of-wider-disaster-research.htm
+title: Impact of Rena oil spill part of wider disaster research
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00011/impact-of-rena-oil-spill-part-of-wider-disaster-research.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/04/impact-of-rena-oil-spill-part-of-wider-disaster-research/index.html
+layout: layout.njk
 ---
 Impact of Rena oil spill part of wider disaster research
 ========================================================

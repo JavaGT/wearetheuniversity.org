@@ -1,9 +1,11 @@
 ---
 slug: fta-expert-appointed-to-aut
-title: "FTA expert appointed to AUT"
-date: 2008-05-20
+title: FTA expert appointed to AUT
+date: 2008-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0805/S00073/fta-expert-appointed-to-aut.htm
 author: aut-university
+permalink: /archive/2008/05/20/fta-expert-appointed-to-aut/index.html
+layout: layout.njk
 ---
 FTA expert appointed to AUT
 ===========================

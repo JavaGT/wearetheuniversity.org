@@ -1,9 +1,13 @@
 ---
 slug: ancient-afterlife-after-dark-classics-talk-and-museum-tour
-title: "Ancient afterlife after dark Classics talk and museum tour"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/AK1808/S00158/ancient-afterlife-after-dark-classics-talk-and-museum-tour.htm
+title: Ancient afterlife after dark Classics talk and museum tour
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1808/S00158/ancient-afterlife-after-dark-classics-talk-and-museum-tour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/08/07/ancient-afterlife-after-dark-classics-talk-and-museum-tour/index.html
+layout: layout.njk
 ---
 Ancient afterlife after dark Classics talk and museum tour
 ==========================================================

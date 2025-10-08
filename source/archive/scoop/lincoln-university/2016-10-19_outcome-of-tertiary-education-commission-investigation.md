@@ -1,9 +1,13 @@
 ---
 slug: outcome-of-tertiary-education-commission-investigation
-title: "Outcome of Tertiary Education Commission investigation"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/ED1610/S00075/outcome-of-tertiary-education-commission-investigation.htm
+title: Outcome of Tertiary Education Commission investigation
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00075/outcome-of-tertiary-education-commission-investigation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/10/19/outcome-of-tertiary-education-commission-investigation/index.html
+layout: layout.njk
 ---
 Outcome of Tertiary Education Commission investigation
 ======================================================

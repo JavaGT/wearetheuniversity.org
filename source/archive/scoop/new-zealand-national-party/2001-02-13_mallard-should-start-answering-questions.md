@@ -1,9 +1,12 @@
 ---
 slug: mallard-should-start-answering-questions
-title: "Mallard Should Start Answering Questions"
-date: 2001-02-13
-source-url: https://www.scoop.co.nz/stories/PA0102/S00156/mallard-should-start-answering-questions.htm
+title: Mallard Should Start Answering Questions
+date: 2001-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00156/mallard-should-start-answering-questions.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/13/mallard-should-start-answering-questions/index.html
+layout: layout.njk
 ---
 Mallard Should Start Answering Questions
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: tolley-must-assure-safety-of-vulnerable-clients
-title: "Tolley must assure safety of vulnerable clients"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/PA1505/S00586/tolley-must-assure-safety-of-vulnerable-clients.htm
+title: Tolley must assure safety of vulnerable clients
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00586/tolley-must-assure-safety-of-vulnerable-clients.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/29/tolley-must-assure-safety-of-vulnerable-clients/index.html
+layout: layout.njk
 ---
 Tolley must assure safety of vulnerable clients
 ===============================================

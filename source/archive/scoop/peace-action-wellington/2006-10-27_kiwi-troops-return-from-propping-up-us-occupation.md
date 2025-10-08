@@ -1,9 +1,13 @@
 ---
 slug: kiwi-troops-return-from-propping-up-us-occupation
-title: "Kiwi Troops Return From Propping Up US Occupation"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PO0610/S00320/kiwi-troops-return-from-propping-up-us-occupation.htm
+title: Kiwi Troops Return From Propping Up US Occupation
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00320/kiwi-troops-return-from-propping-up-us-occupation.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2006/10/27/kiwi-troops-return-from-propping-up-us-occupation/index.html
+layout: layout.njk
 ---
 Kiwi Troops Return From Propping Up US Occupation
 =================================================

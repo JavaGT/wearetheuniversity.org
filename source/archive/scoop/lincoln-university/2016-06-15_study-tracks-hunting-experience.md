@@ -1,9 +1,12 @@
 ---
 slug: study-tracks-hunting-experience
-title: "Study tracks hunting experience"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/CU1606/S00161/study-tracks-hunting-experience.htm
+title: Study tracks hunting experience
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1606/S00161/study-tracks-hunting-experience.htm
 author: lincoln-university
+permalink: /archive/2016/06/15/study-tracks-hunting-experience/index.html
+layout: layout.njk
 ---
 Study tracks hunting experience
 ===============================

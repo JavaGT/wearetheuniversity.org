@@ -1,9 +1,12 @@
 ---
 slug: government-responsible-for-generation-debt
-title: "Government responsible for Generation Debt"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/PA0407/S00423/government-responsible-for-generation-debt.htm
+title: Government responsible for Generation Debt
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00423/government-responsible-for-generation-debt.htm
 author: green-party
+permalink: /archive/2004/07/26/government-responsible-for-generation-debt/index.html
+layout: layout.njk
 ---
 Government responsible for Generation Debt
 ==========================================

@@ -1,8 +1,12 @@
 ---
 slug: new-study-finds-exercise-improves-childrens-brain-power
-title: "New study finds exercise improves children’s brain power"
-date: 2017-08-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/new-study-finds-exercise-improves-childrens-brain-power.html
+title: New study finds exercise improves children’s brain power
+date: 2017-08-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/new-study-finds-exercise-improves-childrens-brain-power.html
+permalink: >-
+  /archive/2017/08/30/new-study-finds-exercise-improves-childrens-brain-power/index.html
+layout: layout.njk
 ---
 New study finds exercise improves children’s brain power
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-should-back-farmers-dairy-conversion-moratorium-call
-title: "Govt should back farmers' dairy conversion moratorium call"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/PA1503/S00222/govt-should-back-farmers-dairy-conversion-moratorium-call.htm
+title: Govt should back farmers' dairy conversion moratorium call
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00222/govt-should-back-farmers-dairy-conversion-moratorium-call.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/16/govt-should-back-farmers-dairy-conversion-moratorium-call/index.html
+layout: layout.njk
 ---
 Govt should back farmers' dairy conversion moratorium call
 ==========================================================

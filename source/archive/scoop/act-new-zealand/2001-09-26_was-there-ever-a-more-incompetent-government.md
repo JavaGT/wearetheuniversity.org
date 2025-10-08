@@ -1,9 +1,12 @@
 ---
 slug: was-there-ever-a-more-incompetent-government
-title: "Was There Ever A More Incompetent Government?"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/PA0109/S00416/was-there-ever-a-more-incompetent-government.htm
+title: Was There Ever A More Incompetent Government?
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00416/was-there-ever-a-more-incompetent-government.htm
 author: act-new-zealand
+permalink: /archive/2001/09/26/was-there-ever-a-more-incompetent-government/index.html
+layout: layout.njk
 ---
 Was There Ever A More Incompetent Government?
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: powerful-electron-microscopes-to-be-unveiled
-title: "Powerful electron microscopes to be unveiled"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/SC0412/S00003/powerful-electron-microscopes-to-be-unveiled.htm
+title: Powerful electron microscopes to be unveiled
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0412/S00003/powerful-electron-microscopes-to-be-unveiled.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/12/02/powerful-electron-microscopes-to-be-unveiled/index.html
+layout: layout.njk
 ---
 Powerful electron microscopes to be unveiled
 ============================================

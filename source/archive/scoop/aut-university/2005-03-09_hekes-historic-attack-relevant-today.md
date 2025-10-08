@@ -1,9 +1,12 @@
 ---
 slug: hekes-historic-attack-relevant-today
-title: "Heke’s historic attack relevant today"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/ED0503/S00025/hekes-historic-attack-relevant-today.htm
+title: Heke’s historic attack relevant today
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00025/hekes-historic-attack-relevant-today.htm
 author: aut-university
+permalink: /archive/2005/03/09/hekes-historic-attack-relevant-today/index.html
+layout: layout.njk
 ---
 Heke’s historic attack relevant today
 =====================================

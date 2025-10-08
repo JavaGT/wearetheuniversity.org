@@ -1,9 +1,12 @@
 ---
 slug: winning-the-world-cup-does-it-make-a-difference
-title: "Winning the World Cup – does it make a difference?"
-date: 2011-10-20
-source-url: https://www.scoop.co.nz/stories/PO1110/S00342/winning-the-world-cup-does-it-make-a-difference.htm
+title: Winning the World Cup – does it make a difference?
+date: 2011-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00342/winning-the-world-cup-does-it-make-a-difference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/10/20/winning-the-world-cup-does-it-make-a-difference/index.html
+layout: layout.njk
 ---
 Winning the World Cup – does it make a difference?
 ==================================================

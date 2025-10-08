@@ -1,9 +1,12 @@
 ---
 slug: more-of-the-same-bad-news-for-students
-title: "More of the Same Bad News for Students"
-date: 2002-02-27
-source-url: https://www.scoop.co.nz/stories/ED0202/S00036/more-of-the-same-bad-news-for-students.htm
+title: More of the Same Bad News for Students
+date: 2002-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00036/more-of-the-same-bad-news-for-students.htm
 author: otago-university-students-association
+permalink: /archive/2002/02/27/more-of-the-same-bad-news-for-students/index.html
+layout: layout.njk
 ---
 More of the Same Bad News for Students
 ======================================

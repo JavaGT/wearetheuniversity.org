@@ -1,9 +1,12 @@
 ---
 slug: speech-education-amendment-bill-(no-4)-third-reading
-title: "Speech: Education Amendment Bill (no 4) Third Reading"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00399/speech-education-amendment-bill-no-4-third-reading.htm
+title: 'Speech: Education Amendment Bill (no 4) Third Reading'
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00399/speech-education-amendment-bill-no-4-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2011/08/18/speech-education-amendment-bill-/index.html
+layout: layout.njk
 ---
 Speech: Education Amendment Bill (no 4) Third Reading
 =====================================================

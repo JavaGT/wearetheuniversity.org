@@ -1,9 +1,12 @@
 ---
 slug: teachers-frustrated-with-ncea
-title: "Teachers frustrated with NCEA"
-date: 2005-02-22
-source-url: https://www.scoop.co.nz/stories/PA0502/S00490/teachers-frustrated-with-ncea.htm
+title: Teachers frustrated with NCEA
+date: 2005-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00490/teachers-frustrated-with-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/22/teachers-frustrated-with-ncea/index.html
+layout: layout.njk
 ---
 Teachers frustrated with NCEA
 =============================

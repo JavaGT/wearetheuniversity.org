@@ -1,9 +1,12 @@
 ---
 slug: more-money-not-lip-service-needed
-title: "More money, not lip service, needed"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00624/more-money-not-lip-service-needed.htm
+title: More money, not lip service, needed
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00624/more-money-not-lip-service-needed.htm
 author: green-party
+permalink: /archive/2016/05/30/more-money-not-lip-service-needed/index.html
+layout: layout.njk
 ---
 More money, not lip service, needed
 ===================================

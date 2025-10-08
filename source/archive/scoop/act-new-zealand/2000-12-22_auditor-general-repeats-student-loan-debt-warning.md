@@ -1,9 +1,13 @@
 ---
 slug: auditor-general-repeats-student-loan-debt-warning
-title: "Auditor-General Repeats Student Loan Debt Warning"
-date: 2000-12-22
-source-url: https://www.scoop.co.nz/stories/PA0012/S00391/auditor-general-repeats-student-loan-debt-warning.htm
+title: Auditor-General Repeats Student Loan Debt Warning
+date: 2000-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00391/auditor-general-repeats-student-loan-debt-warning.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/12/22/auditor-general-repeats-student-loan-debt-warning/index.html
+layout: layout.njk
 ---
 Auditor-General Repeats Student Loan Debt Warning
 =================================================

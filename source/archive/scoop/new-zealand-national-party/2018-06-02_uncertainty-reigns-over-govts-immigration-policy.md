@@ -1,9 +1,13 @@
 ---
 slug: uncertainty-reigns-over-govts-immigration-policy
-title: "Uncertainty reigns over Govt’s immigration policy"
-date: 2018-06-02
-source-url: https://www.scoop.co.nz/stories/PA1806/S00020/uncertainty-reigns-over-govts-immigration-policy.htm
+title: Uncertainty reigns over Govt’s immigration policy
+date: 2018-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00020/uncertainty-reigns-over-govts-immigration-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/06/02/uncertainty-reigns-over-govts-immigration-policy/index.html
+layout: layout.njk
 ---
 Uncertainty reigns over Govt’s immigration policy
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-celebrates-winnie-laban
-title: "Labour celebrates Winnie Laban"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00173/labour-celebrates-winnie-laban.htm
+title: Labour celebrates Winnie Laban
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00173/labour-celebrates-winnie-laban.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/13/labour-celebrates-winnie-laban/index.html
+layout: layout.njk
 ---
 Labour celebrates Winnie Laban
 ==============================

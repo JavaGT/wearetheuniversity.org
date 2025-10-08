@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-260
-title: "Maxim Institute - real issues - No. 260"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/PO0707/S00047/maxim-institute-real-issues-no-260.htm
+title: Maxim Institute - real issues - No. 260
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00047/maxim-institute-real-issues-no-260.htm
 author: maxim-institute
+permalink: /archive/2007/07/05/maxim-institute-real-issues-no-260/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 260
 =======================================

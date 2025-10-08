@@ -1,9 +1,12 @@
 ---
 slug: new-research-more-bad-news-for-labour
-title: "New research more bad news for Labour"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/PO0705/S00502/new-research-more-bad-news-for-labour.htm
+title: New research more bad news for Labour
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00502/new-research-more-bad-news-for-labour.htm
 author: massey-university
+permalink: /archive/2007/05/28/new-research-more-bad-news-for-labour/index.html
+layout: layout.njk
 ---
 New research more bad news for Labour
 =====================================

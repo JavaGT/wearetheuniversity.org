@@ -1,9 +1,13 @@
 ---
 slug: waikato-electric-car-to-race-the-length-of-australia
-title: "Waikato electric car to race the length of Australia"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/ED1309/S00061/waikato-electric-car-to-race-the-length-of-australia.htm
+title: Waikato electric car to race the length of Australia
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00061/waikato-electric-car-to-race-the-length-of-australia.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/10/waikato-electric-car-to-race-the-length-of-australia/index.html
+layout: layout.njk
 ---
 Waikato electric car to race the length of Australia
 ====================================================

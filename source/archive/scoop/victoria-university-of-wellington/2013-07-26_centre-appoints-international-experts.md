@@ -1,9 +1,12 @@
 ---
 slug: centre-appoints-international-experts
-title: "Centre appoints international experts"
-date: 2013-07-26
-source-url: https://www.scoop.co.nz/stories/ED1307/S00139/centre-appoints-international-experts.htm
+title: Centre appoints international experts
+date: 2013-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00139/centre-appoints-international-experts.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/26/centre-appoints-international-experts/index.html
+layout: layout.njk
 ---
 Centre appoints international experts
 =====================================

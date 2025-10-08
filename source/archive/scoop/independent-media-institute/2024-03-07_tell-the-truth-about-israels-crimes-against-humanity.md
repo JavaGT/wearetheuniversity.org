@@ -1,9 +1,13 @@
 ---
 slug: tell-the-truth-about-israels-crimes-against-humanity
-title: "Tell The Truth About Israel’s Crimes Against Humanity"
-date: 2024-03-07
-source-url: https://www.scoop.co.nz/stories/WO2403/S00024/tell-the-truth-about-israels-crimes-against-humanity.htm
+title: Tell The Truth About Israel’s Crimes Against Humanity
+date: 2024-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2403/S00024/tell-the-truth-about-israels-crimes-against-humanity.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/03/07/tell-the-truth-about-israels-crimes-against-humanity/index.html
+layout: layout.njk
 ---
 Tell The Truth About Israel’s Crimes Against Humanity
 =====================================================

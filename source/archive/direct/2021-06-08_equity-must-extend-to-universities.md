@@ -1,11 +1,13 @@
 ---
-title: "Equity must extend to universities’"
+title: Equity must extend to universities’
 slug: equity-must-extend-to-universities
-date: 2021-06-08
+date: 2021-06-08T00:00:00.000Z
 source: http://www.teaga.co.nz/press-releases/
 source-name: TEAGA
 author: Luke Oldfield
 author-slug: luke-oldfield
+permalink: /archive/2021/06/08/equity-must-extend-to-universities/index.html
+layout: layout.njk
 ---
 
 **Luke Oldfield**

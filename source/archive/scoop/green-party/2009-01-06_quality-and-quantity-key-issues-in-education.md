@@ -1,9 +1,12 @@
 ---
 slug: quality-and-quantity-key-issues-in-education
-title: "Quality and Quantity Key Issues in Education"
-date: 2009-01-06
-source-url: https://www.scoop.co.nz/stories/PA0901/S00011/quality-and-quantity-key-issues-in-education.htm
+title: Quality and Quantity Key Issues in Education
+date: 2009-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00011/quality-and-quantity-key-issues-in-education.htm
 author: green-party
+permalink: /archive/2009/01/06/quality-and-quantity-key-issues-in-education/index.html
+layout: layout.njk
 ---
 Quality and Quantity Key Issues in Education
 ============================================

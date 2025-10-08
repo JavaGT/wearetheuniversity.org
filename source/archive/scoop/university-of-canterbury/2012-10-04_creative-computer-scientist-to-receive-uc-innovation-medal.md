@@ -1,9 +1,13 @@
 ---
 slug: creative-computer-scientist-to-receive-uc-innovation-medal
-title: "Creative computer scientist to receive UC Innovation Medal"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/SC1210/S00010/creative-computer-scientist-to-receive-uc-innovation-medal.htm
+title: Creative computer scientist to receive UC Innovation Medal
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00010/creative-computer-scientist-to-receive-uc-innovation-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/04/creative-computer-scientist-to-receive-uc-innovation-medal/index.html
+layout: layout.njk
 ---
 Creative computer scientist to receive UC Innovation Medal
 ==========================================================

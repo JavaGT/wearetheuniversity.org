@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-its-own-report-on-land-supply
-title: "Labour ignores its own report on land supply"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/PA0708/S00106/labour-ignores-its-own-report-on-land-supply.htm
+title: Labour ignores its own report on land supply
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00106/labour-ignores-its-own-report-on-land-supply.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/07/labour-ignores-its-own-report-on-land-supply/index.html
+layout: layout.njk
 ---
 Labour ignores its own report on land supply
 ============================================

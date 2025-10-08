@@ -1,9 +1,13 @@
 ---
 slug: special-character-at-heart-of-new-only-otago-campaign
-title: "Special character at heart of new \"Only Otago\" campaign"
-date: 2016-07-04
-source-url: https://www.scoop.co.nz/stories/AK1607/S00119/special-character-at-heart-of-new-only-otago-campaign.htm
+title: Special character at heart of new "Only Otago" campaign
+date: 2016-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00119/special-character-at-heart-of-new-only-otago-campaign.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/04/special-character-at-heart-of-new-only-otago-campaign/index.html
+layout: layout.njk
 ---
 Special character at heart of new “Only Otago” campaign
 =======================================================

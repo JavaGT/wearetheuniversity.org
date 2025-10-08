@@ -1,9 +1,11 @@
 ---
 slug: coping-without-a-car
-title: "Coping Without a Car"
-date: 2004-11-09
+title: Coping Without a Car
+date: 2004-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0411/S00026/coping-without-a-car.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/09/coping-without-a-car/index.html
+layout: layout.njk
 ---
 Coping Without a Car
 ====================

@@ -1,9 +1,13 @@
 ---
 slug: report-shows-national-standards-data-fatally-compromised
-title: "Report shows National Standards data fatally compromised"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/PA1210/S00061/report-shows-national-standards-data-fatally-compromised.htm
+title: Report shows National Standards data fatally compromised
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00061/report-shows-national-standards-data-fatally-compromised.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/03/report-shows-national-standards-data-fatally-compromised/index.html
+layout: layout.njk
 ---
 Report shows National Standards data fatally compromised
 ========================================================

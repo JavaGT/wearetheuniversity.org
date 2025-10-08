@@ -1,9 +1,13 @@
 ---
 slug: who-represents-maori-workers-political-interests
-title: "Who represents Maori Workers Political interests?"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PO0810/S00081/who-represents-maori-workers-political-interests.htm
+title: Who represents Maori Workers Political interests?
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00081/who-represents-maori-workers-political-interests.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/10/06/who-represents-maori-workers-political-interests/index.html
+layout: layout.njk
 ---
 Who represents Maori Workers Political interests?
 =================================================

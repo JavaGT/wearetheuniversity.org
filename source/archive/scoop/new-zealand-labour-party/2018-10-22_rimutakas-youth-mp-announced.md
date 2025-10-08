@@ -1,9 +1,11 @@
 ---
 slug: rimutakas-youth-mp-announced
-title: "Rimutaka’s Youth MP announced"
-date: 2018-10-22
+title: Rimutaka’s Youth MP announced
+date: 2018-10-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1810/S00197/rimutakas-youth-mp-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2018/10/22/rimutakas-youth-mp-announced/index.html
+layout: layout.njk
 ---
 Rimutaka’s Youth MP announced
 =============================

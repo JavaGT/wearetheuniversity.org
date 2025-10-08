@@ -1,9 +1,12 @@
 ---
 slug: a-lifetime-of-letters-frank-sargeson
-title: "A Lifetime Of Letters – Frank Sargeson"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/ED1203/S00026/a-lifetime-of-letters-frank-sargeson.htm
+title: A Lifetime Of Letters – Frank Sargeson
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00026/a-lifetime-of-letters-frank-sargeson.htm
 author: university-of-waikato
+permalink: /archive/2012/03/07/a-lifetime-of-letters-frank-sargeson/index.html
+layout: layout.njk
 ---
 A Lifetime Of Letters – Frank Sargeson
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: fungi-workshop-first-of-its-kind
-title: "Fungi workshop first of its kind"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/SC1606/S00001/fungi-workshop-first-of-its-kind.htm
+title: Fungi workshop first of its kind
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00001/fungi-workshop-first-of-its-kind.htm
 author: lincoln-university
+permalink: /archive/2016/06/01/fungi-workshop-first-of-its-kind/index.html
+layout: layout.njk
 ---
 Fungi workshop first of its kind
 ================================

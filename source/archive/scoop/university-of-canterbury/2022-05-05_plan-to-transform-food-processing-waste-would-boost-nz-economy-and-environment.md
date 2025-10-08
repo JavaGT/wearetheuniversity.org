@@ -1,9 +1,13 @@
 ---
 slug: plan-to-transform-food-processing-waste-would-boost-nz-economy-and-environment
-title: "Plan To Transform Food Processing Waste Would Boost NZ Economy And Environment"
-date: 2022-05-05
-source-url: https://www.scoop.co.nz/stories/SC2205/S00006/plan-to-transform-food-processing-waste-would-boost-nz-economy-and-environment.htm
+title: Plan To Transform Food Processing Waste Would Boost NZ Economy And Environment
+date: 2022-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00006/plan-to-transform-food-processing-waste-would-boost-nz-economy-and-environment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/05/plan-to-transform-food-processing-waste-would-boost-nz-economy-and-environment/index.html
+layout: layout.njk
 ---
 Plan To Transform Food Processing Waste Would Boost NZ Economy And Environment
 ==============================================================================

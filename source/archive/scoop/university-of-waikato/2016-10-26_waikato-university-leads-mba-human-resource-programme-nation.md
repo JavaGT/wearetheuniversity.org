@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-leads-mba-human-resource-programme-nation
-title: "Waikato University leads MBA human resource programme nation"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/ED1610/S00090/waikato-university-leads-mba-human-resource-programme-nation.htm
+title: Waikato University leads MBA human resource programme nation
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00090/waikato-university-leads-mba-human-resource-programme-nation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/26/waikato-university-leads-mba-human-resource-programme-nation/index.html
+layout: layout.njk
 ---
 Waikato University leads MBA human resource programme nation
 ============================================================

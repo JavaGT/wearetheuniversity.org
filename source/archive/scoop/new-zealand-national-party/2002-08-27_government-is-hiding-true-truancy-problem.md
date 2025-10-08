@@ -1,9 +1,12 @@
 ---
 slug: government-is-hiding-true-truancy-problem
-title: "Government is hiding true truancy problem"
-date: 2002-08-27
-source-url: https://www.scoop.co.nz/stories/PA0208/S00222/government-is-hiding-true-truancy-problem.htm
+title: Government is hiding true truancy problem
+date: 2002-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00222/government-is-hiding-true-truancy-problem.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/27/government-is-hiding-true-truancy-problem/index.html
+layout: layout.njk
 ---
 Government is hiding true truancy problem
 =========================================

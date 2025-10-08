@@ -1,9 +1,12 @@
 ---
 slug: beware-of-centaurs-(and-others)-bearing-rocks
-title: "Beware of Centaurs (and others) Bearing Rocks"
-date: 2017-03-23
-source-url: https://www.scoop.co.nz/stories/ED1703/S00100/beware-of-centaurs-and-others-bearing-rocks.htm
+title: Beware of Centaurs (and others) Bearing Rocks
+date: 2017-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00100/beware-of-centaurs-and-others-bearing-rocks.htm
 author: university-of-canterbury
+permalink: /archive/2017/03/23/beware-of-centaurs-/index.html
+layout: layout.njk
 ---
 Beware of Centaurs (and others) Bearing Rocks
 =============================================

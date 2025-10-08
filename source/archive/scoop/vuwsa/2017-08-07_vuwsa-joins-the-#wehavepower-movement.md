@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-joins-the-#wehavepower-movement
-title: "VUWSA joins the #WeHavePower movement"
-date: 2017-08-07
-source-url: https://www.scoop.co.nz/stories/PO1708/S00131/vuwsa-joins-the-wehavepower-movement.htm
+title: 'VUWSA joins the #WeHavePower movement'
+date: 2017-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00131/vuwsa-joins-the-wehavepower-movement.htm
 author: vuwsa
+permalink: /archive/2017/08/07/vuwsa-joins-the-/index.html
+layout: layout.njk
 ---
 VUWSA joins the #WeHavePower movement
 =====================================

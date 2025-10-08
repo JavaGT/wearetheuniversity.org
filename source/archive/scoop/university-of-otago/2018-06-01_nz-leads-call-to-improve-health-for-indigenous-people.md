@@ -1,9 +1,13 @@
 ---
 slug: nz-leads-call-to-improve-health-for-indigenous-people
-title: "NZ leads call to improve health for Indigenous people"
-date: 2018-06-01
-source-url: https://www.scoop.co.nz/stories/GE1806/S00004/nz-leads-call-to-improve-health-for-indigenous-people.htm
+title: NZ leads call to improve health for Indigenous people
+date: 2018-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00004/nz-leads-call-to-improve-health-for-indigenous-people.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/01/nz-leads-call-to-improve-health-for-indigenous-people/index.html
+layout: layout.njk
 ---
 NZ leads call to improve health for Indigenous people
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-protest-shuts-down-fee-increase-meeting
-title: "Student protest shuts down fee increase meeting"
-date: 2003-09-17
-source-url: https://www.scoop.co.nz/stories/ED0309/S00068/student-protest-shuts-down-fee-increase-meeting.htm
+title: Student protest shuts down fee increase meeting
+date: 2003-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00068/student-protest-shuts-down-fee-increase-meeting.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/17/student-protest-shuts-down-fee-increase-meeting/index.html
+layout: layout.njk
 ---
 Student protest shuts down fee increase meeting
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: encouragement-in-keeping-on-fitness-programmes
-title: "Encouragement In Keeping On Fitness Programmes"
-date: 2002-04-11
-source-url: https://www.scoop.co.nz/stories/GE0204/S00031/encouragement-in-keeping-on-fitness-programmes.htm
+title: Encouragement In Keeping On Fitness Programmes
+date: 2002-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0204/S00031/encouragement-in-keeping-on-fitness-programmes.htm
 author: lincoln-university
+permalink: /archive/2002/04/11/encouragement-in-keeping-on-fitness-programmes/index.html
+layout: layout.njk
 ---
 Encouragement In Keeping On Fitness Programmes
 ==============================================

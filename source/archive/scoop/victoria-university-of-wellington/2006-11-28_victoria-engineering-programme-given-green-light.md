@@ -1,9 +1,13 @@
 ---
 slug: victoria-engineering-programme-given-green-light
-title: "Victoria engineering programme given green light"
-date: 2006-11-28
-source-url: https://www.scoop.co.nz/stories/ED0611/S00102/victoria-engineering-programme-given-green-light.htm
+title: Victoria engineering programme given green light
+date: 2006-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00102/victoria-engineering-programme-given-green-light.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/11/28/victoria-engineering-programme-given-green-light/index.html
+layout: layout.njk
 ---
 Victoria engineering programme given green light
 ================================================

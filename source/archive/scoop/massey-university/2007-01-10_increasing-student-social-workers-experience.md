@@ -1,9 +1,12 @@
 ---
 slug: increasing-student-social-workers-experience
-title: "Increasing Student Social Workers’ Experience"
-date: 2007-01-10
-source-url: https://www.scoop.co.nz/stories/ED0701/S00006/increasing-student-social-workers-experience.htm
+title: Increasing Student Social Workers’ Experience
+date: 2007-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00006/increasing-student-social-workers-experience.htm
 author: massey-university
+permalink: /archive/2007/01/10/increasing-student-social-workers-experience/index.html
+layout: layout.njk
 ---
 Increasing Student Social Workers’ Experience
 =============================================

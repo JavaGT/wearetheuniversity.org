@@ -1,9 +1,12 @@
 ---
 slug: national-ict-innovation-institute-opens
-title: "National ICT Innovation Institute opens"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/ED0904/S00056/national-ict-innovation-institute-opens.htm
+title: National ICT Innovation Institute opens
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00056/national-ict-innovation-institute-opens.htm
 author: university-of-canterbury
+permalink: /archive/2009/04/24/national-ict-innovation-institute-opens/index.html
+layout: layout.njk
 ---
 National ICT Innovation Institute opens
 =======================================

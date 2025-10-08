@@ -1,9 +1,12 @@
 ---
 slug: robotics-gains-a-new-focus-at-vic
-title: "Robotics gains a new focus at Vic"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/ED0512/S00058/robotics-gains-a-new-focus-at-vic.htm
+title: Robotics gains a new focus at Vic
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00058/robotics-gains-a-new-focus-at-vic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/13/robotics-gains-a-new-focus-at-vic/index.html
+layout: layout.njk
 ---
 Robotics gains a new focus at Vic
 =================================

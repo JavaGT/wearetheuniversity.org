@@ -1,9 +1,12 @@
 ---
 slug: labour-leaves-plunket-up-in-the-air-over-acc
-title: "Labour leaves Plunket up in the air over ACC"
-date: 2000-02-25
-source-url: https://www.scoop.co.nz/stories/PA0002/S00342/labour-leaves-plunket-up-in-the-air-over-acc.htm
+title: Labour leaves Plunket up in the air over ACC
+date: 2000-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00342/labour-leaves-plunket-up-in-the-air-over-acc.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/25/labour-leaves-plunket-up-in-the-air-over-acc/index.html
+layout: layout.njk
 ---
 Labour leaves Plunket up in the air over ACC
 ============================================

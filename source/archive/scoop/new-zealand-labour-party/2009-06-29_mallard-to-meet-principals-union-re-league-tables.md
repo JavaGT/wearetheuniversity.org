@@ -1,9 +1,13 @@
 ---
 slug: mallard-to-meet-principals-union-re-league-tables
-title: "Mallard to meet principals, union re league tables"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/PA0906/S00404/mallard-to-meet-principals-union-re-league-tables.htm
+title: Mallard to meet principals, union re league tables
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00404/mallard-to-meet-principals-union-re-league-tables.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/06/29/mallard-to-meet-principals-union-re-league-tables/index.html
+layout: layout.njk
 ---
 Mallard to meet principals, union re league tables
 ==================================================

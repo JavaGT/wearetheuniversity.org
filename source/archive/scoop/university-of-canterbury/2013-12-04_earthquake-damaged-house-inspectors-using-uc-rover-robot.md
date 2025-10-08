@@ -1,9 +1,13 @@
 ---
 slug: earthquake-damaged-house-inspectors-using-uc-rover-robot
-title: "Earthquake-damaged house inspectors using UC rover robot"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/SC1312/S00016/earthquake-damaged-house-inspectors-using-uc-rover-robot.htm
+title: Earthquake-damaged house inspectors using UC rover robot
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00016/earthquake-damaged-house-inspectors-using-uc-rover-robot.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/04/earthquake-damaged-house-inspectors-using-uc-rover-robot/index.html
+layout: layout.njk
 ---
 Earthquake-damaged house inspectors using UC rover robot
 ========================================================

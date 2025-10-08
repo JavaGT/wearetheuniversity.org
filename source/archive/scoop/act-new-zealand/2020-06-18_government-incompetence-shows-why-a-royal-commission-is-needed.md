@@ -1,9 +1,13 @@
 ---
 slug: government-incompetence-shows-why-a-royal-commission-is-needed
-title: "Government Incompetence Shows Why A Royal Commission Is Needed"
-date: 2020-06-18
-source-url: https://www.scoop.co.nz/stories/PA2006/S00167/government-incompetence-shows-why-a-royal-commission-is-needed.htm
+title: Government Incompetence Shows Why A Royal Commission Is Needed
+date: 2020-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00167/government-incompetence-shows-why-a-royal-commission-is-needed.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/18/government-incompetence-shows-why-a-royal-commission-is-needed/index.html
+layout: layout.njk
 ---
 Government Incompetence Shows Why A Royal Commission Is Needed
 ==============================================================

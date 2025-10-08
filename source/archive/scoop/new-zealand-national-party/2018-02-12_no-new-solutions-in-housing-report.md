@@ -1,9 +1,12 @@
 ---
 slug: no-new-solutions-in-housing-report
-title: "No new solutions in housing report"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/PA1802/S00087/no-new-solutions-in-housing-report.htm
+title: No new solutions in housing report
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00087/no-new-solutions-in-housing-report.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/12/no-new-solutions-in-housing-report/index.html
+layout: layout.njk
 ---
 No new solutions in housing report
 ==================================

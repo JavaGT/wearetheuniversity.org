@@ -1,9 +1,12 @@
 ---
 slug: rebel-stands-for-vuwsa-executive
-title: "Rebel Stands For VUWSA Executive"
-date: 1999-09-02
-source-url: https://www.scoop.co.nz/stories/PO9909/S00023/rebel-stands-for-vuwsa-executive.htm
+title: Rebel Stands For VUWSA Executive
+date: 1999-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00023/rebel-stands-for-vuwsa-executive.htm
 author: prebble-s-rebels
+permalink: /archive/1999/09/02/rebel-stands-for-vuwsa-executive/index.html
+layout: layout.njk
 ---
 Rebel Stands For VUWSA Executive
 ================================

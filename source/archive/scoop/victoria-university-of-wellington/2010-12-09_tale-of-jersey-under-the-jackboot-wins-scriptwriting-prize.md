@@ -1,9 +1,13 @@
 ---
 slug: tale-of-jersey-under-the-jackboot-wins-scriptwriting-prize
-title: "Tale of Jersey under the jackboot wins scriptwriting prize"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/CU1012/S00131/tale-of-jersey-under-the-jackboot-wins-scriptwriting-prize.htm
+title: Tale of Jersey under the jackboot wins scriptwriting prize
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1012/S00131/tale-of-jersey-under-the-jackboot-wins-scriptwriting-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/09/tale-of-jersey-under-the-jackboot-wins-scriptwriting-prize/index.html
+layout: layout.njk
 ---
 Tale of Jersey under the jackboot wins scriptwriting prize
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: universities-expertise-strengthening-asia-pacific-ties
-title: "Universities’ expertise strengthening Asia-Pacific ties"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/ED1703/S00045/universities-expertise-strengthening-asia-pacific-ties.htm
+title: Universities’ expertise strengthening Asia-Pacific ties
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00045/universities-expertise-strengthening-asia-pacific-ties.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/03/09/universities-expertise-strengthening-asia-pacific-ties/index.html
+layout: layout.njk
 ---
 Universities’ expertise strengthening Asia-Pacific ties
 =======================================================

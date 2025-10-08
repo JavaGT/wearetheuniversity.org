@@ -1,9 +1,12 @@
 ---
 slug: new-study-shows-sunbeds-double-cancer-risk
-title: "New study shows sunbeds double cancer risk"
-date: 2008-01-18
-source-url: https://www.scoop.co.nz/stories/PA0801/S00133/new-study-shows-sunbeds-double-cancer-risk.htm
+title: New study shows sunbeds double cancer risk
+date: 2008-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00133/new-study-shows-sunbeds-double-cancer-risk.htm
 author: green-party
+permalink: /archive/2008/01/18/new-study-shows-sunbeds-double-cancer-risk/index.html
+layout: layout.njk
 ---
 New study shows sunbeds double cancer risk
 ==========================================

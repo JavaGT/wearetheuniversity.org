@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-educator-speaks-at-world-congress
-title: "New Zealand Educator speaks at World Congress"
-date: 2004-10-15
-source-url: https://www.scoop.co.nz/stories/PO0410/S00159/new-zealand-educator-speaks-at-world-congress.htm
+title: New Zealand Educator speaks at World Congress
+date: 2004-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00159/new-zealand-educator-speaks-at-world-congress.htm
 author: maxim-institute
+permalink: /archive/2004/10/15/new-zealand-educator-speaks-at-world-congress/index.html
+layout: layout.njk
 ---
 New Zealand Educator speaks at World Congress
 =============================================

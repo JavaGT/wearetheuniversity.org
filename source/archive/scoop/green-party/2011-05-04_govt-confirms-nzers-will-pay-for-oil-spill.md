@@ -1,9 +1,12 @@
 ---
 slug: govt-confirms-nzers-will-pay-for-oil-spill
-title: "Govt confirms NZers will pay for oil spill"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/PA1105/S00072/govt-confirms-nzers-will-pay-for-oil-spill.htm
+title: Govt confirms NZers will pay for oil spill
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00072/govt-confirms-nzers-will-pay-for-oil-spill.htm
 author: green-party
+permalink: /archive/2011/05/04/govt-confirms-nzers-will-pay-for-oil-spill/index.html
+layout: layout.njk
 ---
 Govt confirms NZers will pay for oil spill
 ==========================================

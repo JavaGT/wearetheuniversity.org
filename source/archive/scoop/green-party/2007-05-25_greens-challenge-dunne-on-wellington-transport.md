@@ -1,9 +1,12 @@
 ---
 slug: greens-challenge-dunne-on-wellington-transport
-title: "Greens challenge Dunne on Wellington transport"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/PA0705/S00674/greens-challenge-dunne-on-wellington-transport.htm
+title: Greens challenge Dunne on Wellington transport
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00674/greens-challenge-dunne-on-wellington-transport.htm
 author: green-party
+permalink: /archive/2007/05/25/greens-challenge-dunne-on-wellington-transport/index.html
+layout: layout.njk
 ---
 Greens challenge Dunne on Wellington transport
 ==============================================

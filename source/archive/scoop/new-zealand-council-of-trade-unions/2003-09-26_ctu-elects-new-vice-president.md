@@ -1,9 +1,12 @@
 ---
 slug: ctu-elects-new-vice-president
-title: "CTU Elects New Vice-President"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/PO0309/S00165/ctu-elects-new-vice-president.htm
+title: CTU Elects New Vice-President
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00165/ctu-elects-new-vice-president.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/09/26/ctu-elects-new-vice-president/index.html
+layout: layout.njk
 ---
 CTU Elects New Vice-President
 =============================

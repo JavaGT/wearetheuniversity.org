@@ -1,9 +1,13 @@
 ---
 slug: massey-students-stung-with-fee-increases-in-2011
-title: "Massey Students Stung With Fee Increases In 2011"
-date: 2010-09-05
-source-url: https://www.scoop.co.nz/stories/ED1009/S00020/massey-students-stung-with-fee-increases-in-2011.htm
+title: Massey Students Stung With Fee Increases In 2011
+date: 2010-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00020/massey-students-stung-with-fee-increases-in-2011.htm
 author: massey-university
+permalink: >-
+  /archive/2010/09/05/massey-students-stung-with-fee-increases-in-2011/index.html
+layout: layout.njk
 ---
 Massey Students Stung With Fee Increases In 2011
 ================================================

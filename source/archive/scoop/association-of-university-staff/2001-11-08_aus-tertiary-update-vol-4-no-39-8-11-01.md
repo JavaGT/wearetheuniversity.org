@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-39-8-11-01
-title: "AUS Tertiary Update Vol. 4  No. 39  8.11.01"
-date: 2001-11-08
-source-url: https://www.scoop.co.nz/stories/ED0111/S00022/aus-tertiary-update-vol-4-no-39-81101.htm
+title: AUS Tertiary Update Vol. 4  No. 39  8.11.01
+date: 2001-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00022/aus-tertiary-update-vol-4-no-39-81101.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/08/aus-tertiary-update-vol-4-no-39-8-11-01/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4 No. 39 8.11.01
 =========================================

@@ -1,9 +1,16 @@
 ---
-slug: university-of-waikatos-first-seaweed-fish-farming-licence-provides-depth-to-university-research
-title: "University Of Waikato’s First Seaweed Fish Farming Licence Provides Depth To University Research"
-date: 2022-08-04
-source-url: https://www.scoop.co.nz/stories/ED2208/S00004/university-of-waikatos-first-seaweed-fish-farming-licence-provides-depth-to-university-research.htm
+slug: >-
+  university-of-waikatos-first-seaweed-fish-farming-licence-provides-depth-to-university-research
+title: >-
+  University Of Waikato’s First Seaweed Fish Farming Licence Provides Depth To
+  University Research
+date: 2022-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00004/university-of-waikatos-first-seaweed-fish-farming-licence-provides-depth-to-university-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/08/04/university-of-waikatos-first-seaweed-fish-farming-licence-provides-depth-to-university-research/index.html
+layout: layout.njk
 ---
 University Of Waikato’s First Seaweed Fish Farming Licence Provides Depth To University Research
 ================================================================================================

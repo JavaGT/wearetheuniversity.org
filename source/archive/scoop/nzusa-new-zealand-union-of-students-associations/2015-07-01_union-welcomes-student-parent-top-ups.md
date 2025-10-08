@@ -1,9 +1,12 @@
 ---
 slug: union-welcomes-student-parent-top-ups
-title: "Union welcomes student parent top-ups"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/ED1507/S00012/union-welcomes-student-parent-top-ups.htm
+title: Union welcomes student parent top-ups
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00012/union-welcomes-student-parent-top-ups.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/07/01/union-welcomes-student-parent-top-ups/index.html
+layout: layout.njk
 ---
 Union welcomes student parent top-ups
 =====================================

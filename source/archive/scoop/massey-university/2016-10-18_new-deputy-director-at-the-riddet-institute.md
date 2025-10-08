@@ -1,9 +1,12 @@
 ---
 slug: new-deputy-director-at-the-riddet-institute
-title: "New deputy director at the Riddet Institute"
-date: 2016-10-18
-source-url: https://www.scoop.co.nz/stories/ED1610/S00069/new-deputy-director-at-the-riddet-institute.htm
+title: New deputy director at the Riddet Institute
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00069/new-deputy-director-at-the-riddet-institute.htm
 author: massey-university
+permalink: /archive/2016/10/18/new-deputy-director-at-the-riddet-institute/index.html
+layout: layout.njk
 ---
 New deputy director at the Riddet Institute
 ===========================================

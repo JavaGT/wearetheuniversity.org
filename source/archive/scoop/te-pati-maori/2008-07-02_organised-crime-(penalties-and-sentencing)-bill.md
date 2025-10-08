@@ -1,9 +1,12 @@
 ---
 slug: organised-crime-(penalties-and-sentencing)-bill
-title: "Organised Crime (Penalties and Sentencing) Bill"
-date: 2008-07-02
-source-url: https://www.scoop.co.nz/stories/PA0807/S00025/organised-crime-penalties-and-sentencing-bill.htm
+title: Organised Crime (Penalties and Sentencing) Bill
+date: 2008-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00025/organised-crime-penalties-and-sentencing-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/07/02/organised-crime-/index.html
+layout: layout.njk
 ---
 Organised Crime (Penalties and Sentencing) Bill
 ===============================================

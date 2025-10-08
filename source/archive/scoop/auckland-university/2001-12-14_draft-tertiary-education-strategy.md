@@ -1,9 +1,12 @@
 ---
 slug: draft-tertiary-education-strategy
-title: "Draft Tertiary Education Strategy"
-date: 2001-12-14
-source-url: https://www.scoop.co.nz/stories/ED0112/S00016/draft-tertiary-education-strategy.htm
+title: Draft Tertiary Education Strategy
+date: 2001-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00016/draft-tertiary-education-strategy.htm
 author: auckland-university
+permalink: /archive/2001/12/14/draft-tertiary-education-strategy/index.html
+layout: layout.njk
 ---
 Draft Tertiary Education Strategy
 =================================

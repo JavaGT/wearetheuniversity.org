@@ -1,9 +1,13 @@
 ---
 slug: turia-national-council-of-women-executive-meeting
-title: "Turia: National Council of Women Executive Meeting"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/PA0710/S00002/turia-national-council-of-women-executive-meeting.htm
+title: 'Turia: National Council of Women Executive Meeting'
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00002/turia-national-council-of-women-executive-meeting.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/10/01/turia-national-council-of-women-executive-meeting/index.html
+layout: layout.njk
 ---
 Turia: National Council of Women Executive Meeting
 ==================================================

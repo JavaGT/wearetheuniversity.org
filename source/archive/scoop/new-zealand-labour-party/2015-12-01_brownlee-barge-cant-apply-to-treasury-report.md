@@ -1,9 +1,12 @@
 ---
 slug: brownlee-barge-cant-apply-to-treasury-report
-title: "Brownlee barge can’t apply to Treasury report"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PA1512/S00014/brownlee-barge-cant-apply-to-treasury-report.htm
+title: Brownlee barge can’t apply to Treasury report
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00014/brownlee-barge-cant-apply-to-treasury-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/01/brownlee-barge-cant-apply-to-treasury-report/index.html
+layout: layout.njk
 ---
 Brownlee barge can’t apply to Treasury report
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: no-funding-boost-to-health-in-budget
-title: "No funding boost to health in Budget"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00418/no-funding-boost-to-health-in-budget.htm
+title: No funding boost to health in Budget
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00418/no-funding-boost-to-health-in-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/15/no-funding-boost-to-health-in-budget/index.html
+layout: layout.njk
 ---
 No funding boost to health in Budget
 ====================================

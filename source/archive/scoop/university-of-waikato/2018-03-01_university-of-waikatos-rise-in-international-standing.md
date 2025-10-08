@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikatos-rise-in-international-standing
-title: "University of Waikato’s rise in international standing"
-date: 2018-03-01
-source-url: https://www.scoop.co.nz/stories/ED1803/S00002/university-of-waikatos-rise-in-international-standing.htm
+title: University of Waikato’s rise in international standing
+date: 2018-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00002/university-of-waikatos-rise-in-international-standing.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/03/01/university-of-waikatos-rise-in-international-standing/index.html
+layout: layout.njk
 ---
 University of Waikato’s rise in international standing
 ======================================================

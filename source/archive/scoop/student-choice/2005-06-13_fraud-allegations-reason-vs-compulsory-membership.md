@@ -1,9 +1,13 @@
 ---
 slug: fraud-allegations-reason-vs-compulsory-membership
-title: "Fraud allegations reason vs compulsory membership"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/ED0506/S00026/fraud-allegations-reason-vs-compulsory-membership.htm
+title: Fraud allegations reason vs compulsory membership
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00026/fraud-allegations-reason-vs-compulsory-membership.htm
 author: student-choice
+permalink: >-
+  /archive/2005/06/13/fraud-allegations-reason-vs-compulsory-membership/index.html
+layout: layout.njk
 ---
 Fraud allegations reason vs compulsory membership
 =================================================

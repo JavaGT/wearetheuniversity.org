@@ -1,9 +1,12 @@
 ---
 slug: term-3-attendance-data-should-be-released-today
-title: "Term 3 Attendance Data Should Be Released Today"
-date: 2022-12-09
-source-url: https://www.scoop.co.nz/stories/PA2212/S00089/term-3-attendance-data-should-be-released-today.htm
+title: Term 3 Attendance Data Should Be Released Today
+date: 2022-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00089/term-3-attendance-data-should-be-released-today.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/09/term-3-attendance-data-should-be-released-today/index.html
+layout: layout.njk
 ---
 Term 3 Attendance Data Should Be Released Today
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-gains-major-health-research-funding
-title: "Otago gains major health research funding"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/ED0706/S00026/otago-gains-major-health-research-funding.htm
+title: Otago gains major health research funding
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00026/otago-gains-major-health-research-funding.htm
 author: university-of-otago
+permalink: /archive/2007/06/07/otago-gains-major-health-research-funding/index.html
+layout: layout.njk
 ---
 Otago gains major health research funding
 =========================================

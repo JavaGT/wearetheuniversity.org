@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-surviving-the-recession
-title: "Speech: Katene - Surviving the Recession"
-date: 2009-09-04
-source-url: https://www.scoop.co.nz/stories/PA0909/S00069/speech-katene-surviving-the-recession.htm
+title: 'Speech: Katene - Surviving the Recession'
+date: 2009-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00069/speech-katene-surviving-the-recession.htm
 author: te-pati-maori
+permalink: /archive/2009/09/04/speech-katene-surviving-the-recession/index.html
+layout: layout.njk
 ---
 Speech: Katene - Surviving the Recession
 ========================================

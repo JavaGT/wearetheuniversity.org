@@ -1,9 +1,16 @@
 ---
-slug: using-food-havens-to-reduce-high-obesity-rates-in-low-socioeconomic-neighbourhoods
-title: "Using ‘food Havens’ To Reduce High Obesity Rates In Low Socioeconomic Neighbourhoods"
-date: 2021-05-12
-source-url: https://www.scoop.co.nz/stories/ED2105/S00021/using-food-havens-to-reduce-high-obesity-rates-in-low-socioeconomic-neighbourhoods.htm
+slug: >-
+  using-food-havens-to-reduce-high-obesity-rates-in-low-socioeconomic-neighbourhoods
+title: >-
+  Using ‘food Havens’ To Reduce High Obesity Rates In Low Socioeconomic
+  Neighbourhoods
+date: 2021-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00021/using-food-havens-to-reduce-high-obesity-rates-in-low-socioeconomic-neighbourhoods.htm
 author: aut-university
+permalink: >-
+  /archive/2021/05/12/using-food-havens-to-reduce-high-obesity-rates-in-low-socioeconomic-neighbourhoods/index.html
+layout: layout.njk
 ---
 Using ‘food Havens’ To Reduce High Obesity Rates In Low Socioeconomic Neighbourhoods
 ====================================================================================

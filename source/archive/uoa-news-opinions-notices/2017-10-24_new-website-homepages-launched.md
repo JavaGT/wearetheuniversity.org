@@ -1,8 +1,11 @@
 ---
 slug: new-website-homepages-launched
-title: "New website homepages launched"
-date: 2017-10-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/09/new-website-homepages-to-be-launched.html
+title: New website homepages launched
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/09/new-website-homepages-to-be-launched.html
+permalink: /archive/2017/10/24/new-website-homepages-launched/index.html
+layout: layout.njk
 ---
 New website homepages launched
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: time-discounts-linked-to-later-traffic-offending
-title: "Time-discounts linked to later traffic offending"
-date: 2015-08-04
-source-url: https://www.scoop.co.nz/stories/CU1508/S00045/time-discounts-linked-to-later-traffic-offending.htm
+title: Time-discounts linked to later traffic offending
+date: 2015-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00045/time-discounts-linked-to-later-traffic-offending.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/04/time-discounts-linked-to-later-traffic-offending/index.html
+layout: layout.njk
 ---
 Time-discounts linked to later traffic offending
 ================================================

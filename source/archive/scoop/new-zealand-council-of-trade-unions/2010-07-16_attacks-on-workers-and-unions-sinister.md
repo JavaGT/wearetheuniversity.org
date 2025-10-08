@@ -1,9 +1,12 @@
 ---
 slug: attacks-on-workers-and-unions-sinister
-title: "Attacks on workers and unions sinister"
-date: 2010-07-16
-source-url: https://www.scoop.co.nz/stories/PO1007/S00155/attacks-on-workers-and-unions-sinister.htm
+title: Attacks on workers and unions sinister
+date: 2010-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1007/S00155/attacks-on-workers-and-unions-sinister.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/07/16/attacks-on-workers-and-unions-sinister/index.html
+layout: layout.njk
 ---
 Attacks on workers and unions sinister
 ======================================

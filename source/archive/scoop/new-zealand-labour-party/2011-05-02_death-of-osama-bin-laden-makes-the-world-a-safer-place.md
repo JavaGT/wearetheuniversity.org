@@ -1,9 +1,13 @@
 ---
 slug: death-of-osama-bin-laden-makes-the-world-a-safer-place
-title: "Death of Osama Bin Laden Makes the World a Safer Place"
-date: 2011-05-02
-source-url: https://www.scoop.co.nz/stories/PA1105/S00019/death-of-osama-bin-laden-makes-the-world-a-safer-place.htm
+title: Death of Osama Bin Laden Makes the World a Safer Place
+date: 2011-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00019/death-of-osama-bin-laden-makes-the-world-a-safer-place.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/02/death-of-osama-bin-laden-makes-the-world-a-safer-place/index.html
+layout: layout.njk
 ---
 Death of Osama Bin Laden Makes the World a Safer Place
 ======================================================

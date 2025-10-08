@@ -1,9 +1,13 @@
 ---
 slug: usp-ias-scientists-produce-first-field-guide-on-mangrove
-title: "USP-IAS Scientists Produce First Field Guide On Mangrove"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/WO1307/S00537/usp-ias-scientists-produce-first-field-guide-on-mangrove.htm
+title: USP-IAS Scientists Produce First Field Guide On Mangrove
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1307/S00537/usp-ias-scientists-produce-first-field-guide-on-mangrove.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2013/07/22/usp-ias-scientists-produce-first-field-guide-on-mangrove/index.html
+layout: layout.njk
 ---
 USP-IAS Scientists Produce First Field Guide On Mangrove
 ========================================================

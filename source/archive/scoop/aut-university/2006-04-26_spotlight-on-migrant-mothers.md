@@ -1,9 +1,11 @@
 ---
 slug: spotlight-on-migrant-mothers
-title: "Spotlight on Migrant Mothers"
-date: 2006-04-26
+title: Spotlight on Migrant Mothers
+date: 2006-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0604/S00087/spotlight-on-migrant-mothers.htm
 author: aut-university
+permalink: /archive/2006/04/26/spotlight-on-migrant-mothers/index.html
+layout: layout.njk
 ---
 Spotlight on Migrant Mothers
 ============================

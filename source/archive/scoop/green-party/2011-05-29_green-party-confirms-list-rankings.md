@@ -1,9 +1,12 @@
 ---
 slug: green-party-confirms-list-rankings
-title: "Green Party Confirms List Rankings"
-date: 2011-05-29
-source-url: https://www.scoop.co.nz/stories/PA1105/S00602/green-party-confirms-list-rankings.htm
+title: Green Party Confirms List Rankings
+date: 2011-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00602/green-party-confirms-list-rankings.htm
 author: green-party
+permalink: /archive/2011/05/29/green-party-confirms-list-rankings/index.html
+layout: layout.njk
 ---
 Green Party Confirms List Rankings
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: opportunity-to-build-on-pacific-dreams
-title: "Opportunity to build on Pacific dreams"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/PA1102/S00049/opportunity-to-build-on-pacific-dreams.htm
+title: Opportunity to build on Pacific dreams
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00049/opportunity-to-build-on-pacific-dreams.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/03/opportunity-to-build-on-pacific-dreams/index.html
+layout: layout.njk
 ---
 Opportunity to build on Pacific dreams
 ======================================

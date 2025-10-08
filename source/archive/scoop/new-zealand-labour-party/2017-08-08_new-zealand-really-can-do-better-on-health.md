@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-really-can-do-better-on-health
-title: "New Zealand really can do better on health"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/PA1708/S00160/new-zealand-really-can-do-better-on-health.htm
+title: New Zealand really can do better on health
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00160/new-zealand-really-can-do-better-on-health.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/08/new-zealand-really-can-do-better-on-health/index.html
+layout: layout.njk
 ---
 New Zealand really can do better on health
 ==========================================

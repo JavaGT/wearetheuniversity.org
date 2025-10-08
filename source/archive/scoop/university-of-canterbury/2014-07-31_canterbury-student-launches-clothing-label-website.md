@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-launches-clothing-label-website
-title: "Canterbury student launches clothing label website"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/ED1407/S00158/canterbury-student-launches-clothing-label-website.htm
+title: Canterbury student launches clothing label website
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00158/canterbury-student-launches-clothing-label-website.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/31/canterbury-student-launches-clothing-label-website/index.html
+layout: layout.njk
 ---
 Canterbury student launches clothing label website
 ==================================================

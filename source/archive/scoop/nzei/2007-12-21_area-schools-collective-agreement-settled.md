@@ -1,9 +1,12 @@
 ---
 slug: area-schools-collective-agreement-settled
-title: "Area Schools Collective Agreement Settled"
-date: 2007-12-21
-source-url: https://www.scoop.co.nz/stories/ED0712/S00086/area-schools-collective-agreement-settled.htm
+title: Area Schools Collective Agreement Settled
+date: 2007-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00086/area-schools-collective-agreement-settled.htm
 author: nzei
+permalink: /archive/2007/12/21/area-schools-collective-agreement-settled/index.html
+layout: layout.njk
 ---
 Area Schools Collective Agreement Settled
 =========================================

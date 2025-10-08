@@ -1,9 +1,12 @@
 ---
 slug: resilience-of-christchurch-hospitals
-title: "Resilience of Christchurch hospitals"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/AK1211/S00008/resilience-of-christchurch-hospitals.htm
+title: Resilience of Christchurch hospitals
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1211/S00008/resilience-of-christchurch-hospitals.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/01/resilience-of-christchurch-hospitals/index.html
+layout: layout.njk
 ---
 Resilience of Christchurch hospitals
 ====================================

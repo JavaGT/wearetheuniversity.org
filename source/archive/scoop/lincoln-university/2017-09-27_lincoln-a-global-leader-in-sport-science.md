@@ -1,9 +1,12 @@
 ---
 slug: lincoln-a-global-leader-in-sport-science
-title: "Lincoln a global leader in sport science"
-date: 2017-09-27
-source-url: https://www.scoop.co.nz/stories/ED1709/S00098/lincoln-a-global-leader-in-sport-science.htm
+title: Lincoln a global leader in sport science
+date: 2017-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00098/lincoln-a-global-leader-in-sport-science.htm
 author: lincoln-university
+permalink: /archive/2017/09/27/lincoln-a-global-leader-in-sport-science/index.html
+layout: layout.njk
 ---
 Lincoln a global leader in sport science
 ========================================

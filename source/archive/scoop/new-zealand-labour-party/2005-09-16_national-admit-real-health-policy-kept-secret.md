@@ -1,9 +1,12 @@
 ---
 slug: national-admit-real-health-policy-kept-secret
-title: "National admit real health policy kept secret"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/PA0509/S00451/national-admit-real-health-policy-kept-secret.htm
+title: National admit real health policy kept secret
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00451/national-admit-real-health-policy-kept-secret.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/16/national-admit-real-health-policy-kept-secret/index.html
+layout: layout.njk
 ---
 National admit real health policy kept secret
 =============================================

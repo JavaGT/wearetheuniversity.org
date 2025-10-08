@@ -1,9 +1,12 @@
 ---
 slug: tolley-makes-baseless-accusation
-title: "Tolley makes baseless accusation"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00121/tolley-makes-baseless-accusation.htm
+title: Tolley makes baseless accusation
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00121/tolley-makes-baseless-accusation.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/tolley-makes-baseless-accusation/index.html
+layout: layout.njk
 ---
 Tolley makes baseless accusation
 ================================

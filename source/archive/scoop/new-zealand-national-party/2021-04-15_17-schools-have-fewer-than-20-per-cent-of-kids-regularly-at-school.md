@@ -1,9 +1,13 @@
 ---
 slug: 17-schools-have-fewer-than-20-per-cent-of-kids-regularly-at-school
-title: "17 Schools Have Fewer Than 20 Per Cent Of Kids Regularly At School"
-date: 2021-04-15
-source-url: https://www.scoop.co.nz/stories/PA2104/S00105/17-schools-have-fewer-than-20-per-cent-of-kids-regularly-at-school.htm
+title: 17 Schools Have Fewer Than 20 Per Cent Of Kids Regularly At School
+date: 2021-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00105/17-schools-have-fewer-than-20-per-cent-of-kids-regularly-at-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/15/17-schools-have-fewer-than-20-per-cent-of-kids-regularly-at-school/index.html
+layout: layout.njk
 ---
 17 Schools Have Fewer Than 20 Per Cent Of Kids Regularly At School
 ==================================================================

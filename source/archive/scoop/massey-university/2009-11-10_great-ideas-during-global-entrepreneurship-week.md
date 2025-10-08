@@ -1,9 +1,12 @@
 ---
 slug: great-ideas-during-global-entrepreneurship-week
-title: "Great Ideas During Global Entrepreneurship Week"
-date: 2009-11-10
-source-url: https://www.scoop.co.nz/stories/ED0911/S00036/great-ideas-during-global-entrepreneurship-week.htm
+title: Great Ideas During Global Entrepreneurship Week
+date: 2009-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00036/great-ideas-during-global-entrepreneurship-week.htm
 author: massey-university
+permalink: /archive/2009/11/10/great-ideas-during-global-entrepreneurship-week/index.html
+layout: layout.njk
 ---
 Great Ideas During Global Entrepreneurship Week
 ===============================================

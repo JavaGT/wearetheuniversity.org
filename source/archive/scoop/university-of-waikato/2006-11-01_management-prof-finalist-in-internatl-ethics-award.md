@@ -1,9 +1,13 @@
 ---
 slug: management-prof-finalist-in-internatl-ethics-award
-title: "Management prof finalist in internatl ethics award"
-date: 2006-11-01
-source-url: https://www.scoop.co.nz/stories/ED0611/S00002/management-prof-finalist-in-internatl-ethics-award.htm
+title: Management prof finalist in internatl ethics award
+date: 2006-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00002/management-prof-finalist-in-internatl-ethics-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/11/01/management-prof-finalist-in-internatl-ethics-award/index.html
+layout: layout.njk
 ---
 Management prof finalist in internatl ethics award
 ==================================================

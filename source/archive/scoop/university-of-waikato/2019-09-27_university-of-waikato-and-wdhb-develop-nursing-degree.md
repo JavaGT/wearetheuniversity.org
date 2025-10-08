@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-and-wdhb-develop-nursing-degree
-title: "University of Waikato and WDHB develop nursing degree"
-date: 2019-09-27
-source-url: https://www.scoop.co.nz/stories/ED1909/S00081/university-of-waikato-and-wdhb-develop-nursing-degree.htm
+title: University of Waikato and WDHB develop nursing degree
+date: 2019-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00081/university-of-waikato-and-wdhb-develop-nursing-degree.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/09/27/university-of-waikato-and-wdhb-develop-nursing-degree/index.html
+layout: layout.njk
 ---
 University of Waikato and WDHB develop nursing degree
 =====================================================

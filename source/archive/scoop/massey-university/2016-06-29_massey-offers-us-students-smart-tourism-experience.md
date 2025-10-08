@@ -1,9 +1,13 @@
 ---
 slug: massey-offers-us-students-smart-tourism-experience
-title: "Massey offers US students smart tourism experience"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/ED1606/S00111/massey-offers-us-students-smart-tourism-experience.htm
+title: Massey offers US students smart tourism experience
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00111/massey-offers-us-students-smart-tourism-experience.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/29/massey-offers-us-students-smart-tourism-experience/index.html
+layout: layout.njk
 ---
 Massey offers US students smart tourism experience
 ==================================================

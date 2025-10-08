@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-23-february-2007
-title: "www.mccully.co.nz - 23 February 2007"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/PA0702/S00448/wwwmccullyconz-23-february-2007.htm
+title: www.mccully.co.nz - 23 February 2007
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00448/wwwmccullyconz-23-february-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/23/www-mccully-co-nz-23-february-2007/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 23 February 2007
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-confirms-wealthy-can-stay-needy-will-wait
-title: "Labour confirms wealthy can stay - needy will wait"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/PA0603/S00276/labour-confirms-wealthy-can-stay-needy-will-wait.htm
+title: Labour confirms wealthy can stay - needy will wait
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00276/labour-confirms-wealthy-can-stay-needy-will-wait.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/03/16/labour-confirms-wealthy-can-stay-needy-will-wait/index.html
+layout: layout.njk
 ---
 Labour confirms wealthy can stay - needy will wait
 ==================================================

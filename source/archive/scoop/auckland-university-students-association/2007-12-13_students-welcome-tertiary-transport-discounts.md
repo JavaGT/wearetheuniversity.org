@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-tertiary-transport-discounts
-title: "Students welcome tertiary transport discounts"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/ED0712/S00059/students-welcome-tertiary-transport-discounts.htm
+title: Students welcome tertiary transport discounts
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00059/students-welcome-tertiary-transport-discounts.htm
 author: auckland-university-students-association
+permalink: /archive/2007/12/13/students-welcome-tertiary-transport-discounts/index.html
+layout: layout.njk
 ---
 Students welcome tertiary transport discounts
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: labour-on-conservation
-title: "Labour on conservation"
-date: 2005-09-12
+title: Labour on conservation
+date: 2005-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00313/labour-on-conservation.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/12/labour-on-conservation/index.html
+layout: layout.njk
 ---
 Labour on conservation
 ======================

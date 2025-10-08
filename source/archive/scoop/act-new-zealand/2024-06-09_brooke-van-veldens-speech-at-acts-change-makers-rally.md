@@ -1,9 +1,13 @@
 ---
 slug: brooke-van-veldens-speech-at-acts-change-makers-rally
-title: "Brooke van Velden's Speech At ACT's 'Change Makers' Rally"
-date: 2024-06-09
-source-url: https://www.scoop.co.nz/stories/PA2406/S00051/brooke-van-veldens-speech-at-acts-change-makers-rally.htm
+title: Brooke van Velden's Speech At ACT's 'Change Makers' Rally
+date: 2024-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00051/brooke-van-veldens-speech-at-acts-change-makers-rally.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/06/09/brooke-van-veldens-speech-at-acts-change-makers-rally/index.html
+layout: layout.njk
 ---
 Brooke van Velden's Speech At ACT's 'Change Makers' Rally
 =========================================================

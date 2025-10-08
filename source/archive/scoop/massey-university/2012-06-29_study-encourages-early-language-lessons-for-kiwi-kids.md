@@ -1,9 +1,13 @@
 ---
 slug: study-encourages-early-language-lessons-for-kiwi-kids
-title: "Study encourages early language lessons for Kiwi kids"
-date: 2012-06-29
-source-url: https://www.scoop.co.nz/stories/ED1206/S00134/study-encourages-early-language-lessons-for-kiwi-kids.htm
+title: Study encourages early language lessons for Kiwi kids
+date: 2012-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00134/study-encourages-early-language-lessons-for-kiwi-kids.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/29/study-encourages-early-language-lessons-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 Study encourages early language lessons for Kiwi kids
 =====================================================

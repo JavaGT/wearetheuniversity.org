@@ -1,9 +1,12 @@
 ---
 slug: labours-it-policy-for-schools
-title: "Labour's IT policy for schools"
-date: 1999-07-26
-source-url: https://www.scoop.co.nz/stories/ED9907/S00025/labours-it-policy-for-schools.htm
+title: Labour's IT policy for schools
+date: 1999-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00025/labours-it-policy-for-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/26/labours-it-policy-for-schools/index.html
+layout: layout.njk
 ---
 Labour's IT policy for schools
 ==============================

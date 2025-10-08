@@ -1,8 +1,10 @@
 ---
 slug: aesa-presents-ausa-debates-vp-edition
-date: 2025-08-20
-source: "AESA (UoA)"
-title: "AESA PRESENTS AUSA DEBATES 🤩 - VP EDITION"
+date: 2025-08-20T00:00:00.000Z
+source: AESA (UoA)
+title: AESA PRESENTS AUSA DEBATES 🤩 - VP EDITION
+permalink: /archive/2025/08/20/aesa-presents-ausa-debates-vp-edition/index.html
+layout: layout.njk
 ---
 
 

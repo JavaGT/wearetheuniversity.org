@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researcher-wins-major-national-ecology-award
-title: "Canterbury researcher wins major national ecology award"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/ED1411/S00158/canterbury-researcher-wins-major-national-ecology-award.htm
+title: Canterbury researcher wins major national ecology award
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00158/canterbury-researcher-wins-major-national-ecology-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/26/canterbury-researcher-wins-major-national-ecology-award/index.html
+layout: layout.njk
 ---
 Canterbury researcher wins major national ecology award
 =======================================================

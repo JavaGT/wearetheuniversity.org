@@ -1,9 +1,12 @@
 ---
 slug: fourth-health-board-forced-to-make-cuts
-title: "Fourth Health Board Forced To Make Cuts"
-date: 2002-03-22
-source-url: https://www.scoop.co.nz/stories/PA0203/S00426/fourth-health-board-forced-to-make-cuts.htm
+title: Fourth Health Board Forced To Make Cuts
+date: 2002-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00426/fourth-health-board-forced-to-make-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/22/fourth-health-board-forced-to-make-cuts/index.html
+layout: layout.njk
 ---
 Fourth Health Board Forced To Make Cuts
 =======================================

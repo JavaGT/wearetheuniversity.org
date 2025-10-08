@@ -1,9 +1,12 @@
 ---
 slug: international-meeting-on-ms-registry
-title: "International Meeting on MS registry"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/SC0301/S00007/international-meeting-on-ms-registry.htm
+title: International Meeting on MS registry
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0301/S00007/international-meeting-on-ms-registry.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/01/16/international-meeting-on-ms-registry/index.html
+layout: layout.njk
 ---
 International Meeting on MS registry
 ====================================

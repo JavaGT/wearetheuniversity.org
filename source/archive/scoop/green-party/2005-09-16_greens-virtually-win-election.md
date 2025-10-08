@@ -1,9 +1,12 @@
 ---
 slug: greens-virtually-win-election
-title: "Greens virtually win election"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/PA0509/S00447/greens-virtually-win-election.htm
+title: Greens virtually win election
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00447/greens-virtually-win-election.htm
 author: green-party
+permalink: /archive/2005/09/16/greens-virtually-win-election/index.html
+layout: layout.njk
 ---
 Greens virtually win election
 =============================

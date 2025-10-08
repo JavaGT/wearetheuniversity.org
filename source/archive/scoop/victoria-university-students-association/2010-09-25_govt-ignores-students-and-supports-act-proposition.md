@@ -1,9 +1,13 @@
 ---
 slug: govt-ignores-students-and-supports-act-proposition
-title: "Govt Ignores Students and Supports ACT Proposition"
-date: 2010-09-25
-source-url: https://www.scoop.co.nz/stories/ED1009/S00121/govt-ignores-students-and-supports-act-proposition.htm
+title: Govt Ignores Students and Supports ACT Proposition
+date: 2010-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00121/govt-ignores-students-and-supports-act-proposition.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2010/09/25/govt-ignores-students-and-supports-act-proposition/index.html
+layout: layout.njk
 ---
 Govt Ignores Students and Supports ACT Proposition
 ==================================================

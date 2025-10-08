@@ -1,9 +1,13 @@
 ---
 slug: sargeson-prize-2021-winners-focus-on-relationships-and-families
-title: "Sargeson Prize 2021 Winners Focus On Relationships And Families"
-date: 2021-10-13
-source-url: https://www.scoop.co.nz/stories/CU2110/S00105/sargeson-prize-2021-winners-focus-on-relationships-and-families.htm
+title: Sargeson Prize 2021 Winners Focus On Relationships And Families
+date: 2021-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2110/S00105/sargeson-prize-2021-winners-focus-on-relationships-and-families.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/13/sargeson-prize-2021-winners-focus-on-relationships-and-families/index.html
+layout: layout.njk
 ---
 Sargeson Prize 2021 Winners Focus On Relationships And Families
 ===============================================================

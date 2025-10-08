@@ -1,9 +1,12 @@
 ---
 slug: staff-union-dont-increase-victoria-student-fees
-title: "Staff Union: Don’t increase Victoria student fees"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/ED0409/S00033/staff-union-dont-increase-victoria-student-fees.htm
+title: 'Staff Union: Don’t increase Victoria student fees'
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00033/staff-union-dont-increase-victoria-student-fees.htm
 author: association-of-university-staff
+permalink: /archive/2004/09/09/staff-union-dont-increase-victoria-student-fees/index.html
+layout: layout.njk
 ---
 Staff Union: Don’t increase Victoria student fees
 =================================================

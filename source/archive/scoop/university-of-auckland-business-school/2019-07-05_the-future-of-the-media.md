@@ -1,9 +1,11 @@
 ---
 slug: the-future-of-the-media
-title: "The future of the media"
-date: 2019-07-05
+title: The future of the media
+date: 2019-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1907/S00167/the-future-of-the-media.htm
 author: university-of-auckland-business-school
+permalink: /archive/2019/07/05/the-future-of-the-media/index.html
+layout: layout.njk
 ---
 The future of the media
 =======================

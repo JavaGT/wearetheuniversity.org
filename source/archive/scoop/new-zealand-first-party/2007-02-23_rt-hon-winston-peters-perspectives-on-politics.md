@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-perspectives-on-politics
-title: "Rt Hon Winston Peters: Perspectives On Politics"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/PA0702/S00457/rt-hon-winston-peters-perspectives-on-politics.htm
+title: 'Rt Hon Winston Peters: Perspectives On Politics'
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00457/rt-hon-winston-peters-perspectives-on-politics.htm
 author: new-zealand-first-party
+permalink: /archive/2007/02/23/rt-hon-winston-peters-perspectives-on-politics/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters: Perspectives On Politics
 ===============================================

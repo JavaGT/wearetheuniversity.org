@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-speech-to-ctu-conference
-title: "Andrew Little Speech to CTU Conference"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/PA1510/S00275/andrew-little-speech-to-ctu-conference.htm
+title: Andrew Little Speech to CTU Conference
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00275/andrew-little-speech-to-ctu-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/16/andrew-little-speech-to-ctu-conference/index.html
+layout: layout.njk
 ---
 Andrew Little Speech to CTU Conference
 ======================================

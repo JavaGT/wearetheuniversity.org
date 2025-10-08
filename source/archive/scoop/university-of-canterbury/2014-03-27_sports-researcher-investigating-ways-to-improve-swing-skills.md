@@ -1,9 +1,13 @@
 ---
 slug: sports-researcher-investigating-ways-to-improve-swing-skills
-title: "Sports researcher investigating ways to improve swing skills"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/SC1403/S00062/sports-researcher-investigating-ways-to-improve-swing-skills.htm
+title: Sports researcher investigating ways to improve swing skills
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00062/sports-researcher-investigating-ways-to-improve-swing-skills.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/27/sports-researcher-investigating-ways-to-improve-swing-skills/index.html
+layout: layout.njk
 ---
 Sports researcher investigating ways to improve swing skills
 ============================================================

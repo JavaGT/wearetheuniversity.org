@@ -1,9 +1,13 @@
 ---
 slug: kiwisaver-withdrawals-highlight-growing-hardship
-title: "KiwiSaver withdrawals highlight growing hardship"
-date: 2015-10-07
-source-url: https://www.scoop.co.nz/stories/PA1510/S00095/kiwisaver-withdrawals-highlight-growing-hardship.htm
+title: KiwiSaver withdrawals highlight growing hardship
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00095/kiwisaver-withdrawals-highlight-growing-hardship.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/07/kiwisaver-withdrawals-highlight-growing-hardship/index.html
+layout: layout.njk
 ---
 KiwiSaver withdrawals highlight growing hardship
 ================================================

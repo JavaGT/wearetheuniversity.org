@@ -1,9 +1,12 @@
 ---
 slug: pig-carcasses-could-hold-key-to-death-puzzle
-title: "Pig carcasses could hold key to death puzzle"
-date: 2010-01-19
-source-url: https://www.scoop.co.nz/stories/SC1001/S00023/pig-carcasses-could-hold-key-to-death-puzzle.htm
+title: Pig carcasses could hold key to death puzzle
+date: 2010-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1001/S00023/pig-carcasses-could-hold-key-to-death-puzzle.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/19/pig-carcasses-could-hold-key-to-death-puzzle/index.html
+layout: layout.njk
 ---
 Pig carcasses could hold key to death puzzle
 ============================================

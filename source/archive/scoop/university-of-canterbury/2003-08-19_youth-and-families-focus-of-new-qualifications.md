@@ -1,9 +1,12 @@
 ---
 slug: youth-and-families-focus-of-new-qualifications
-title: "Youth and families focus of new qualifications"
-date: 2003-08-19
-source-url: https://www.scoop.co.nz/stories/ED0308/S00068/youth-and-families-focus-of-new-qualifications.htm
+title: Youth and families focus of new qualifications
+date: 2003-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00068/youth-and-families-focus-of-new-qualifications.htm
 author: university-of-canterbury
+permalink: /archive/2003/08/19/youth-and-families-focus-of-new-qualifications/index.html
+layout: layout.njk
 ---
 Youth and families focus of new qualifications
 ==============================================

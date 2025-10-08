@@ -1,9 +1,12 @@
 ---
 slug: national-education-16-october-2006
-title: "National Education, 16 October 2006"
-date: 2006-10-16
-source-url: https://www.scoop.co.nz/stories/PA0610/S00279/national-education-16-october-2006.htm
+title: National Education, 16 October 2006
+date: 2006-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00279/national-education-16-october-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/16/national-education-16-october-2006/index.html
+layout: layout.njk
 ---
 National Education, 16 October 2006
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: students-benefit-from-uc-joining-global-academic-consortium
-title: "Students benefit from UC joining global academic consortium"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00030/students-benefit-from-uc-joining-global-academic-consortium.htm
+title: Students benefit from UC joining global academic consortium
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00030/students-benefit-from-uc-joining-global-academic-consortium.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/07/students-benefit-from-uc-joining-global-academic-consortium/index.html
+layout: layout.njk
 ---
 Students benefit from UC joining global academic consortium
 ===========================================================

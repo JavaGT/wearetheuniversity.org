@@ -1,9 +1,11 @@
 ---
 slug: get-on-board-waitaki
-title: "Get On Board Waitaki"
-date: 2004-09-22
+title: Get On Board Waitaki
+date: 2004-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0409/S00464/get-on-board-waitaki.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/22/get-on-board-waitaki/index.html
+layout: layout.njk
 ---
 Get On Board Waitaki
 ====================

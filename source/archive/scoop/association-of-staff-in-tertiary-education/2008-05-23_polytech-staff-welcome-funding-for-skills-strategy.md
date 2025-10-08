@@ -1,9 +1,13 @@
 ---
 slug: polytech-staff-welcome-funding-for-skills-strategy
-title: "Polytech Staff Welcome Funding for Skills Strategy"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/ED0805/S00096/polytech-staff-welcome-funding-for-skills-strategy.htm
+title: Polytech Staff Welcome Funding for Skills Strategy
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00096/polytech-staff-welcome-funding-for-skills-strategy.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2008/05/23/polytech-staff-welcome-funding-for-skills-strategy/index.html
+layout: layout.njk
 ---
 Polytech Staff Welcome Funding for Skills Strategy
 ==================================================

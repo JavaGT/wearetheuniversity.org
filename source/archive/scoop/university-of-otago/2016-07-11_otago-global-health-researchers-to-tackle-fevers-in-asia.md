@@ -1,9 +1,13 @@
 ---
 slug: otago-global-health-researchers-to-tackle-fevers-in-asia
-title: "Otago global health researchers to tackle fevers in Asia"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/GE1607/S00035/otago-global-health-researchers-to-tackle-fevers-in-asia.htm
+title: Otago global health researchers to tackle fevers in Asia
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00035/otago-global-health-researchers-to-tackle-fevers-in-asia.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/11/otago-global-health-researchers-to-tackle-fevers-in-asia/index.html
+layout: layout.njk
 ---
 Otago global health researchers to tackle fevers in Asia
 ========================================================

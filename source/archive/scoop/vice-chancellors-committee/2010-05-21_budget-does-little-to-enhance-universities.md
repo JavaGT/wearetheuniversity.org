@@ -1,9 +1,12 @@
 ---
 slug: budget-does-little-to-enhance-universities
-title: "Budget does little to enhance universities"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/ED1005/S00089/budget-does-little-to-enhance-universities.htm
+title: Budget does little to enhance universities
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00089/budget-does-little-to-enhance-universities.htm
 author: vice-chancellors-committee
+permalink: /archive/2010/05/21/budget-does-little-to-enhance-universities/index.html
+layout: layout.njk
 ---
 Budget does little to enhance universities
 ==========================================

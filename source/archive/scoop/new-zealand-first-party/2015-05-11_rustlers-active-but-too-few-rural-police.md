@@ -1,9 +1,12 @@
 ---
 slug: rustlers-active-but-too-few-rural-police
-title: "Rustlers Active But Too Few Rural Police"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PA1505/S00172/rustlers-active-but-too-few-rural-police.htm
+title: Rustlers Active But Too Few Rural Police
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00172/rustlers-active-but-too-few-rural-police.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/11/rustlers-active-but-too-few-rural-police/index.html
+layout: layout.njk
 ---
 Rustlers Active But Too Few Rural Police
 ========================================

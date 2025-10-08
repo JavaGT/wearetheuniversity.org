@@ -1,9 +1,12 @@
 ---
 slug: how-white-blood-cells-beat-bacterial-infection
-title: "How white blood cells beat bacterial infection"
-date: 2008-12-08
-source-url: https://www.scoop.co.nz/stories/GE0812/S00047/how-white-blood-cells-beat-bacterial-infection.htm
+title: How white blood cells beat bacterial infection
+date: 2008-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00047/how-white-blood-cells-beat-bacterial-infection.htm
 author: university-of-otago
+permalink: /archive/2008/12/08/how-white-blood-cells-beat-bacterial-infection/index.html
+layout: layout.njk
 ---
 How white blood cells beat bacterial infection
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: bradford-clark-gets-te-kaha-wrong
-title: "Bradford - Clark gets Te Kaha wrong"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PA0103/S00147/bradford-clark-gets-te-kaha-wrong.htm
+title: Bradford - Clark gets Te Kaha wrong
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00147/bradford-clark-gets-te-kaha-wrong.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/12/bradford-clark-gets-te-kaha-wrong/index.html
+layout: layout.njk
 ---
 Bradford - Clark gets Te Kaha wrong
 ===================================

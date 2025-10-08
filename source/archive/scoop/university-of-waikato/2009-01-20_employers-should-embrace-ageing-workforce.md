@@ -1,9 +1,12 @@
 ---
 slug: employers-should-embrace-ageing-workforce
-title: "Employers ‘should embrace’ ageing workforce"
-date: 2009-01-20
-source-url: https://www.scoop.co.nz/stories/ED0901/S00029/employers-should-embrace-ageing-workforce.htm
+title: Employers ‘should embrace’ ageing workforce
+date: 2009-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00029/employers-should-embrace-ageing-workforce.htm
 author: university-of-waikato
+permalink: /archive/2009/01/20/employers-should-embrace-ageing-workforce/index.html
+layout: layout.njk
 ---
 Employers ‘should embrace’ ageing workforce
 ===========================================

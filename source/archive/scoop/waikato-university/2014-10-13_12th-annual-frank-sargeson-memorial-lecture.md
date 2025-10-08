@@ -1,9 +1,12 @@
 ---
 slug: 12th-annual-frank-sargeson-memorial-lecture
-title: "12th Annual Frank Sargeson Memorial Lecture"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/CU1410/S00277/12th-annual-frank-sargeson-memorial-lecture.htm
+title: 12th Annual Frank Sargeson Memorial Lecture
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00277/12th-annual-frank-sargeson-memorial-lecture.htm
 author: waikato-university
+permalink: /archive/2014/10/13/12th-annual-frank-sargeson-memorial-lecture/index.html
+layout: layout.njk
 ---
 12th Annual Frank Sargeson Memorial Lecture
 ===========================================

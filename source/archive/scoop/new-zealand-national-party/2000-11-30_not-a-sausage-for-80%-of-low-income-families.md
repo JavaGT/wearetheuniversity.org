@@ -1,9 +1,12 @@
 ---
 slug: not-a-sausage-for-80%-of-low-income-families
-title: "Not a sausage for 80% of low income families"
-date: 2000-11-30
-source-url: https://www.scoop.co.nz/stories/PA0011/S00566/not-a-sausage-for-80-of-low-income-families.htm
+title: Not a sausage for 80% of low income families
+date: 2000-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00566/not-a-sausage-for-80-of-low-income-families.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/30/not-a-sausage-for-80/index.html
+layout: layout.njk
 ---
 Not a sausage for 80% of low income families
 ============================================

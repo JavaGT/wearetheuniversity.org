@@ -1,9 +1,12 @@
 ---
 slug: samoan-youth-adapt-well-despite-discrimination
-title: "Samoan youth adapt well despite discrimination"
-date: 2008-06-10
-source-url: https://www.scoop.co.nz/stories/ED0806/S00023/samoan-youth-adapt-well-despite-discrimination.htm
+title: Samoan youth adapt well despite discrimination
+date: 2008-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00023/samoan-youth-adapt-well-despite-discrimination.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/06/10/samoan-youth-adapt-well-despite-discrimination/index.html
+layout: layout.njk
 ---
 Samoan youth adapt well despite discrimination
 ==============================================

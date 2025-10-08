@@ -1,9 +1,12 @@
 ---
 slug: auts-new-school-of-hospitality-and-tourism
-title: "AUT's new School of Hospitality and Tourism"
-date: 2006-02-16
-source-url: https://www.scoop.co.nz/stories/ED0602/S00040/auts-new-school-of-hospitality-and-tourism.htm
+title: AUT's new School of Hospitality and Tourism
+date: 2006-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00040/auts-new-school-of-hospitality-and-tourism.htm
 author: aut-university
+permalink: /archive/2006/02/16/auts-new-school-of-hospitality-and-tourism/index.html
+layout: layout.njk
 ---
 AUT's new School of Hospitality and Tourism
 ===========================================

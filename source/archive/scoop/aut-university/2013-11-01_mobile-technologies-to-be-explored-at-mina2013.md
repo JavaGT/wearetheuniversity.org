@@ -1,9 +1,12 @@
 ---
 slug: mobile-technologies-to-be-explored-at-mina2013
-title: "Mobile technologies to be explored at MINA2013"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/ED1311/S00013/mobile-technologies-to-be-explored-at-mina2013.htm
+title: Mobile technologies to be explored at MINA2013
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00013/mobile-technologies-to-be-explored-at-mina2013.htm
 author: aut-university
+permalink: /archive/2013/11/01/mobile-technologies-to-be-explored-at-mina2013/index.html
+layout: layout.njk
 ---
 Mobile technologies to be explored at MINA2013
 ==============================================

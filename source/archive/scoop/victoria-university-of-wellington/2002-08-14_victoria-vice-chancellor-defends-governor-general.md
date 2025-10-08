@@ -1,9 +1,13 @@
 ---
 slug: victoria-vice-chancellor-defends-governor-general
-title: "Victoria Vice-Chancellor defends Governor-General"
-date: 2002-08-14
-source-url: https://www.scoop.co.nz/stories/PO0208/S00057/victoria-vice-chancellor-defends-governor-general.htm
+title: Victoria Vice-Chancellor defends Governor-General
+date: 2002-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00057/victoria-vice-chancellor-defends-governor-general.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2002/08/14/victoria-vice-chancellor-defends-governor-general/index.html
+layout: layout.njk
 ---
 Victoria Vice-Chancellor defends Governor-General
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: how-are-native-species-adapting-to-climate-change
-title: "How Are Native Species Adapting To Climate Change?"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/SC2206/S00011/how-are-native-species-adapting-to-climate-change.htm
+title: How Are Native Species Adapting To Climate Change?
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00011/how-are-native-species-adapting-to-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/06/08/how-are-native-species-adapting-to-climate-change/index.html
+layout: layout.njk
 ---
 How Are Native Species Adapting To Climate Change?
 ==================================================

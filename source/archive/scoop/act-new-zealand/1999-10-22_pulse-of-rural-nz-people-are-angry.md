@@ -1,9 +1,12 @@
 ---
 slug: pulse-of-rural-nz-people-are-angry
-title: "Pulse of rural NZ - people are angry"
-date: 1999-10-22
-source-url: https://www.scoop.co.nz/stories/PA9910/S00551/pulse-of-rural-nz-people-are-angry.htm
+title: Pulse of rural NZ - people are angry
+date: 1999-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00551/pulse-of-rural-nz-people-are-angry.htm
 author: act-new-zealand
+permalink: /archive/1999/10/22/pulse-of-rural-nz-people-are-angry/index.html
+layout: layout.njk
 ---
 Pulse of rural NZ - people are angry
 ====================================

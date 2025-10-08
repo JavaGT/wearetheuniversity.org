@@ -1,9 +1,12 @@
 ---
 slug: kiwisaver-changes-will-change-little
-title: "KiwiSaver changes will change little"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/BU0812/S00223/kiwisaver-changes-will-change-little.htm
+title: KiwiSaver changes will change little
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00223/kiwisaver-changes-will-change-little.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/12/10/kiwisaver-changes-will-change-little/index.html
+layout: layout.njk
 ---
 KiwiSaver changes will change little
 ====================================

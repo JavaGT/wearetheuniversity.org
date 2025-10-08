@@ -1,9 +1,13 @@
 ---
 slug: victoria-researchers-win-multi-million-dollar-funding
-title: "Victoria researchers win multi-million-dollar funding"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/SC1609/S00047/victoria-researchers-win-multi-million-dollar-funding.htm
+title: Victoria researchers win multi-million-dollar funding
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00047/victoria-researchers-win-multi-million-dollar-funding.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/15/victoria-researchers-win-multi-million-dollar-funding/index.html
+layout: layout.njk
 ---
 Victoria researchers win multi-million-dollar funding
 =====================================================

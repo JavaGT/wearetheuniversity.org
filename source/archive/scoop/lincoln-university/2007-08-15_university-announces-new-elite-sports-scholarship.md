@@ -1,9 +1,13 @@
 ---
 slug: university-announces-new-elite-sports-scholarship
-title: "University Announces New Elite Sports Scholarship"
-date: 2007-08-15
-source-url: https://www.scoop.co.nz/stories/ED0708/S00040/university-announces-new-elite-sports-scholarship.htm
+title: University Announces New Elite Sports Scholarship
+date: 2007-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00040/university-announces-new-elite-sports-scholarship.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/08/15/university-announces-new-elite-sports-scholarship/index.html
+layout: layout.njk
 ---
 University Announces New Elite Sports Scholarship
 =================================================

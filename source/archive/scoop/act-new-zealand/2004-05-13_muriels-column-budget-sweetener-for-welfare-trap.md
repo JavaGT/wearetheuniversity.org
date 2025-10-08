@@ -1,9 +1,13 @@
 ---
 slug: muriels-column-budget-sweetener-for-welfare-trap
-title: "Muriel's Column: Budget Sweetener For Welfare Trap"
-date: 2004-05-13
-source-url: https://www.scoop.co.nz/stories/PA0405/S00261/muriels-column-budget-sweetener-for-welfare-trap.htm
+title: 'Muriel''s Column: Budget Sweetener For Welfare Trap'
+date: 2004-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00261/muriels-column-budget-sweetener-for-welfare-trap.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/05/13/muriels-column-budget-sweetener-for-welfare-trap/index.html
+layout: layout.njk
 ---
 Muriel's Column: Budget Sweetener For Welfare Trap
 ==================================================

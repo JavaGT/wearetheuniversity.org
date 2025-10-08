@@ -1,9 +1,12 @@
 ---
 slug: landfall-essay-competition-announced
-title: "Landfall Essay Competition Announced"
-date: 2006-02-10
-source-url: https://www.scoop.co.nz/stories/ED0602/S00023/landfall-essay-competition-announced.htm
+title: Landfall Essay Competition Announced
+date: 2006-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00023/landfall-essay-competition-announced.htm
 author: university-of-otago
+permalink: /archive/2006/02/10/landfall-essay-competition-announced/index.html
+layout: layout.njk
 ---
 Landfall Essay Competition Announced
 ====================================

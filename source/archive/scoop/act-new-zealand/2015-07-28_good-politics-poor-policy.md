@@ -1,9 +1,11 @@
 ---
 slug: good-politics-poor-policy
-title: "Good politics, poor policy"
-date: 2015-07-28
+title: Good politics, poor policy
+date: 2015-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1507/S00482/good-politics-poor-policy.htm
 author: act-new-zealand
+permalink: /archive/2015/07/28/good-politics-poor-policy/index.html
+layout: layout.njk
 ---
 Good politics, poor policy
 ==========================

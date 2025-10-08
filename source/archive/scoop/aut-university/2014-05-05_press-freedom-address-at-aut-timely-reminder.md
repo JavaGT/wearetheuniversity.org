@@ -1,9 +1,12 @@
 ---
 slug: press-freedom-address-at-aut-timely-reminder
-title: "Press Freedom address at AUT timely reminder"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/ED1405/S00023/press-freedom-address-at-aut-timely-reminder.htm
+title: Press Freedom address at AUT timely reminder
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00023/press-freedom-address-at-aut-timely-reminder.htm
 author: aut-university
+permalink: /archive/2014/05/05/press-freedom-address-at-aut-timely-reminder/index.html
+layout: layout.njk
 ---
 Press Freedom address at AUT timely reminder
 ============================================

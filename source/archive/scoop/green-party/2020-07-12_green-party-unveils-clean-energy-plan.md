@@ -1,9 +1,12 @@
 ---
 slug: green-party-unveils-clean-energy-plan
-title: "Green Party Unveils Clean Energy Plan"
-date: 2020-07-12
-source-url: https://www.scoop.co.nz/stories/PO2007/S00158/green-party-unveils-clean-energy-plan.htm
+title: Green Party Unveils Clean Energy Plan
+date: 2020-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00158/green-party-unveils-clean-energy-plan.htm
 author: green-party
+permalink: /archive/2020/07/12/green-party-unveils-clean-energy-plan/index.html
+layout: layout.njk
 ---
 Green Party Unveils Clean Energy Plan
 =====================================

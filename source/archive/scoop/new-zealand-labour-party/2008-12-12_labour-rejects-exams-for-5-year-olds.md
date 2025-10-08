@@ -1,9 +1,12 @@
 ---
 slug: labour-rejects-exams-for-5-year-olds
-title: "Labour rejects exams for 5 year olds"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/PA0812/S00154/labour-rejects-exams-for-5-year-olds.htm
+title: Labour rejects exams for 5 year olds
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00154/labour-rejects-exams-for-5-year-olds.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/12/labour-rejects-exams-for-5-year-olds/index.html
+layout: layout.njk
 ---
 Labour rejects exams for 5 year olds
 ====================================

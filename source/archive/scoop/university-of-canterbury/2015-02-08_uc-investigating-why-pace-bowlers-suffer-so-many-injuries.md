@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-why-pace-bowlers-suffer-so-many-injuries
-title: "UC investigating why pace bowlers suffer so many injuries"
-date: 2015-02-08
-source-url: https://www.scoop.co.nz/stories/ED1502/S00023/uc-investigating-why-pace-bowlers-suffer-so-many-injuries.htm
+title: UC investigating why pace bowlers suffer so many injuries
+date: 2015-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00023/uc-investigating-why-pace-bowlers-suffer-so-many-injuries.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/08/uc-investigating-why-pace-bowlers-suffer-so-many-injuries/index.html
+layout: layout.njk
 ---
 UC investigating why pace bowlers suffer so many injuries
 =========================================================

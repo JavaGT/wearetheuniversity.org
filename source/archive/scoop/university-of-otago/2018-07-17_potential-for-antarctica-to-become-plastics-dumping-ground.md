@@ -1,9 +1,13 @@
 ---
 slug: potential-for-antarctica-to-become-plastics-dumping-ground
-title: "Potential for Antarctica to become plastics dumping ground"
-date: 2018-07-17
-source-url: https://www.scoop.co.nz/stories/SC1807/S00037/potential-for-antarctica-to-become-plastics-dumping-ground.htm
+title: Potential for Antarctica to become plastics dumping ground
+date: 2018-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00037/potential-for-antarctica-to-become-plastics-dumping-ground.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/17/potential-for-antarctica-to-become-plastics-dumping-ground/index.html
+layout: layout.njk
 ---
 Potential for Antarctica to become plastics dumping ground
 ==========================================================

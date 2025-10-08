@@ -1,9 +1,12 @@
 ---
 slug: turia-zaoui-case-a-human-rights-issue
-title: "Turia: Zaoui Case A Human Rights Issue"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00005/turia-zaoui-case-a-human-rights-issue.htm
+title: 'Turia: Zaoui Case A Human Rights Issue'
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00005/turia-zaoui-case-a-human-rights-issue.htm
 author: te-pati-maori
+permalink: /archive/2004/11/01/turia-zaoui-case-a-human-rights-issue/index.html
+layout: layout.njk
 ---
 Turia: Zaoui Case A Human Rights Issue
 ======================================

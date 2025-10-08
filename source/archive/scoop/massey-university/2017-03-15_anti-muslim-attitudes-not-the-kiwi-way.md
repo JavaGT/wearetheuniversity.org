@@ -1,9 +1,12 @@
 ---
 slug: anti-muslim-attitudes-not-the-kiwi-way
-title: "Anti-Muslim attitudes not the Kiwi way"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/ED1703/S00064/anti-muslim-attitudes-not-the-kiwi-way.htm
+title: Anti-Muslim attitudes not the Kiwi way
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00064/anti-muslim-attitudes-not-the-kiwi-way.htm
 author: massey-university
+permalink: /archive/2017/03/15/anti-muslim-attitudes-not-the-kiwi-way/index.html
+layout: layout.njk
 ---
 Anti-Muslim attitudes not the Kiwi way
 ======================================

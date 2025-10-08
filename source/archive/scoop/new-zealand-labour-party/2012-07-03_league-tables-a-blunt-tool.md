@@ -1,9 +1,11 @@
 ---
 slug: league-tables-a-blunt-tool
-title: "League tables a blunt tool"
-date: 2012-07-03
+title: League tables a blunt tool
+date: 2012-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1207/S00027/league-tables-a-blunt-tool.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/03/league-tables-a-blunt-tool/index.html
+layout: layout.njk
 ---
 League tables a blunt tool
 ==========================

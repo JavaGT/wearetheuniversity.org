@@ -1,9 +1,13 @@
 ---
 slug: sexual-harassment-widespread-in-the-cook-islands-hospitality
-title: "Sexual harassment widespread in the Cook Islands hospitality"
-date: 2018-03-27
-source-url: https://www.scoop.co.nz/stories/WO1803/S00155/sexual-harassment-widespread-in-the-cook-islands-hospitality.htm
+title: Sexual harassment widespread in the Cook Islands hospitality
+date: 2018-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1803/S00155/sexual-harassment-widespread-in-the-cook-islands-hospitality.htm
 author: aut-university
+permalink: >-
+  /archive/2018/03/27/sexual-harassment-widespread-in-the-cook-islands-hospitality/index.html
+layout: layout.njk
 ---
 Sexual harassment widespread in the Cook Islands hospitality
 ============================================================

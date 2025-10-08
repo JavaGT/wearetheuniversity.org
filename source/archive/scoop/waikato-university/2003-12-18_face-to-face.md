@@ -1,9 +1,11 @@
 ---
 slug: face-to-face
-title: "Face to face"
-date: 2003-12-18
+title: Face to face
+date: 2003-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0312/S00067/face-to-face.htm
 author: waikato-university
+permalink: /archive/2003/12/18/face-to-face/index.html
+layout: layout.njk
 ---
 Face to face
 ============

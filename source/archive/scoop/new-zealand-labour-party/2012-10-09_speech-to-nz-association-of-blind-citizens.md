@@ -1,9 +1,12 @@
 ---
 slug: speech-to-nz-association-of-blind-citizens
-title: "Speech to NZ Association of Blind Citizens"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PA1210/S00155/speech-to-nz-association-of-blind-citizens.htm
+title: Speech to NZ Association of Blind Citizens
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00155/speech-to-nz-association-of-blind-citizens.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/09/speech-to-nz-association-of-blind-citizens/index.html
+layout: layout.njk
 ---
 Speech to NZ Association of Blind Citizens
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: next-generation-virtual-reality-tech-for-uc-students
-title: "Next-generation virtual reality tech for UC students"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/ED1605/S00044/next-generation-virtual-reality-tech-for-uc-students.htm
+title: Next-generation virtual reality tech for UC students
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00044/next-generation-virtual-reality-tech-for-uc-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/12/next-generation-virtual-reality-tech-for-uc-students/index.html
+layout: layout.njk
 ---
 Next-generation virtual reality tech for UC students
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-ecologist-honoured
-title: "Canterbury Ecologist Honoured"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/SC1008/S00016/canterbury-ecologist-honoured.htm
+title: Canterbury Ecologist Honoured
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00016/canterbury-ecologist-honoured.htm
 author: lincoln-university
+permalink: /archive/2010/08/10/canterbury-ecologist-honoured/index.html
+layout: layout.njk
 ---
 Canterbury Ecologist Honoured
 =============================

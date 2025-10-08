@@ -1,9 +1,13 @@
 ---
 slug: government-continues-down-a-path-of-penalising-students
-title: "Government continues down a path of penalising students"
-date: 2012-07-25
-source-url: https://www.scoop.co.nz/stories/PO1207/S00335/government-continues-down-a-path-of-penalising-students.htm
+title: Government continues down a path of penalising students
+date: 2012-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00335/government-continues-down-a-path-of-penalising-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/07/25/government-continues-down-a-path-of-penalising-students/index.html
+layout: layout.njk
 ---
 Government continues down a path of penalising students
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: feed-and-house-kiwi-kids-properly-to-fix-education
-title: "Feed and house Kiwi kids properly to fix education"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/PA1607/S00188/feed-and-house-kiwi-kids-properly-to-fix-education.htm
+title: Feed and house Kiwi kids properly to fix education
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00188/feed-and-house-kiwi-kids-properly-to-fix-education.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/12/feed-and-house-kiwi-kids-properly-to-fix-education/index.html
+layout: layout.njk
 ---
 Feed and house Kiwi kids properly to fix education
 ==================================================

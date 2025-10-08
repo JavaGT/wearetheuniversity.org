@@ -1,9 +1,12 @@
 ---
 slug: aus-is-pro-the-public-sector-not-anti-ptes
-title: "AUS is pro the public sector, not anti-PTEs"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/ED0105/S00042/aus-is-pro-the-public-sector-not-anti-ptes.htm
+title: AUS is pro the public sector, not anti-PTEs
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00042/aus-is-pro-the-public-sector-not-anti-ptes.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/23/aus-is-pro-the-public-sector-not-anti-ptes/index.html
+layout: layout.njk
 ---
 AUS is pro the public sector, not anti-PTEs
 ===========================================

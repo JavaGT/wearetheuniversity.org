@@ -1,9 +1,12 @@
 ---
 slug: review-of-special-education-goal-not-a-strategy
-title: "Review of Special Education: goal not a strategy"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00348/review-of-special-education-goal-not-a-strategy.htm
+title: 'Review of Special Education: goal not a strategy'
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00348/review-of-special-education-goal-not-a-strategy.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/20/review-of-special-education-goal-not-a-strategy/index.html
+layout: layout.njk
 ---
 Review of Special Education: goal not a strategy
 ================================================

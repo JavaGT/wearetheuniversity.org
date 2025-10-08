@@ -1,9 +1,12 @@
 ---
 slug: making-new-zealand-a-world-beater
-title: "Making New Zealand a World Beater"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/PA0203/S00197/making-new-zealand-a-world-beater.htm
+title: Making New Zealand a World Beater
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00197/making-new-zealand-a-world-beater.htm
 author: act-new-zealand
+permalink: /archive/2002/03/13/making-new-zealand-a-world-beater/index.html
+layout: layout.njk
 ---
 Making New Zealand a World Beater
 =================================

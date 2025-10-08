@@ -1,9 +1,13 @@
 ---
 slug: keeping-it-in-the-family-another-ritchie-graduate
-title: "Keeping It in the Family - Another Ritchie Graduate"
-date: 2017-11-30
-source-url: https://www.scoop.co.nz/stories/ED1711/S00110/keeping-it-in-the-family-another-ritchie-graduate.htm
+title: Keeping It in the Family - Another Ritchie Graduate
+date: 2017-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00110/keeping-it-in-the-family-another-ritchie-graduate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/11/30/keeping-it-in-the-family-another-ritchie-graduate/index.html
+layout: layout.njk
 ---
 Keeping It in the Family - Another Ritchie Graduate
 ===================================================

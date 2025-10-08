@@ -1,9 +1,12 @@
 ---
 slug: ryall-demands-answers-on-corrections-koha
-title: "Ryall Demands Answers On Corrections Koha"
-date: 2004-01-20
-source-url: https://www.scoop.co.nz/stories/PA0401/S00119/ryall-demands-answers-on-corrections-koha.htm
+title: Ryall Demands Answers On Corrections Koha
+date: 2004-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00119/ryall-demands-answers-on-corrections-koha.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/20/ryall-demands-answers-on-corrections-koha/index.html
+layout: layout.njk
 ---
 Ryall Demands Answers On Corrections Koha
 =========================================

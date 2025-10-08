@@ -1,9 +1,13 @@
 ---
 slug: funding-boost-for-native-tree-restoration-project
-title: "Funding Boost For Native Tree Restoration Project"
-date: 2020-09-15
-source-url: https://www.scoop.co.nz/stories/ED2009/S00030/funding-boost-for-native-tree-restoration-project.htm
+title: Funding Boost For Native Tree Restoration Project
+date: 2020-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00030/funding-boost-for-native-tree-restoration-project.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/15/funding-boost-for-native-tree-restoration-project/index.html
+layout: layout.njk
 ---
 Funding Boost For Native Tree Restoration Project
 =================================================

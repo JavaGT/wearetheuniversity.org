@@ -1,9 +1,13 @@
 ---
 slug: nzmsa-seeks-assurances-over-new-school-of-rural-medicine
-title: "NZMSA seeks assurances over new School of Rural Medicine"
-date: 2017-08-28
-source-url: https://www.scoop.co.nz/stories/GE1708/S00131/nzmsa-seeks-assurances-over-new-school-of-rural-medicine.htm
+title: NZMSA seeks assurances over new School of Rural Medicine
+date: 2017-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00131/nzmsa-seeks-assurances-over-new-school-of-rural-medicine.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2017/08/28/nzmsa-seeks-assurances-over-new-school-of-rural-medicine/index.html
+layout: layout.njk
 ---
 NZMSA seeks assurances over new School of Rural Medicine
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: analysing-religious-poetry-for-the-non-religious
-title: "Analysing religious poetry for the non-religious"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/ED1310/S00194/analysing-religious-poetry-for-the-non-religious.htm
+title: Analysing religious poetry for the non-religious
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00194/analysing-religious-poetry-for-the-non-religious.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/31/analysing-religious-poetry-for-the-non-religious/index.html
+layout: layout.njk
 ---
 Analysing religious poetry for the non-religious
 ================================================

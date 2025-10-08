@@ -1,9 +1,13 @@
 ---
 slug: education-forum-should-focus-on-helping-learners-who-need-it
-title: "Education Forum Should Focus On Helping Learners Who Need It"
-date: 2012-06-25
-source-url: https://www.scoop.co.nz/stories/ED1206/S00114/education-forum-should-focus-on-helping-learners-who-need-it.htm
+title: Education Forum Should Focus On Helping Learners Who Need It
+date: 2012-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00114/education-forum-should-focus-on-helping-learners-who-need-it.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/25/education-forum-should-focus-on-helping-learners-who-need-it/index.html
+layout: layout.njk
 ---
 Education Forum Should Focus On Helping Learners Who Need It
 ============================================================

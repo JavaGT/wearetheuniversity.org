@@ -1,9 +1,12 @@
 ---
 slug: 2010-nz-childrens-social-health-monitor-results
-title: "2010 NZ Children's Social Health Monitor results"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/PA1012/S00235/2010-nz-childrens-social-health-monitor-results.htm
+title: 2010 NZ Children's Social Health Monitor results
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00235/2010-nz-childrens-social-health-monitor-results.htm
 author: te-pati-maori
+permalink: /archive/2010/12/14/2010-nz-childrens-social-health-monitor-results/index.html
+layout: layout.njk
 ---
 2010 NZ Children's Social Health Monitor results
 ================================================

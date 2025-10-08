@@ -1,9 +1,12 @@
 ---
 slug: dhbs-weigh-up-cost-of-doctors-strike
-title: "DHBs weigh up cost of doctors' strike"
-date: 2008-04-15
-source-url: https://www.scoop.co.nz/stories/PA0804/S00371/dhbs-weigh-up-cost-of-doctors-strike.htm
+title: DHBs weigh up cost of doctors' strike
+date: 2008-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00371/dhbs-weigh-up-cost-of-doctors-strike.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/15/dhbs-weigh-up-cost-of-doctors-strike/index.html
+layout: layout.njk
 ---
 DHBs weigh up cost of doctors' strike
 =====================================

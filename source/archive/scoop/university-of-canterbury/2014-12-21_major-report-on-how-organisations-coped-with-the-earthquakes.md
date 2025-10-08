@@ -1,9 +1,13 @@
 ---
 slug: major-report-on-how-organisations-coped-with-the-earthquakes
-title: "Major report on how organisations coped with the earthquakes"
-date: 2014-12-21
-source-url: https://www.scoop.co.nz/stories/ED1412/S00131/major-report-on-how-organisations-coped-with-the-earthquakes.htm
+title: Major report on how organisations coped with the earthquakes
+date: 2014-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00131/major-report-on-how-organisations-coped-with-the-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/21/major-report-on-how-organisations-coped-with-the-earthquakes/index.html
+layout: layout.njk
 ---
 Major report on how organisations coped with the earthquakes
 ============================================================

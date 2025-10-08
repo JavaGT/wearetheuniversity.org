@@ -1,9 +1,13 @@
 ---
 slug: report-strengthens-case-for-green-housing-policy
-title: "Report strengthens case for Green housing policy"
-date: 2017-04-12
-source-url: https://www.scoop.co.nz/stories/PO1704/S00132/report-strengthens-case-for-green-housing-policy.htm
+title: Report strengthens case for Green housing policy
+date: 2017-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00132/report-strengthens-case-for-green-housing-policy.htm
 author: green-party
+permalink: >-
+  /archive/2017/04/12/report-strengthens-case-for-green-housing-policy/index.html
+layout: layout.njk
 ---
 Report strengthens case for Green housing policy
 ================================================

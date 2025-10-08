@@ -1,9 +1,12 @@
 ---
 slug: the-electoral-system-belongs-to-all-kiwis
-title: "The Electoral System Belongs To All Kiwis"
-date: 2021-10-05
-source-url: https://www.scoop.co.nz/stories/PA2110/S00052/the-electoral-system-belongs-to-all-kiwis.htm
+title: The Electoral System Belongs To All Kiwis
+date: 2021-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00052/the-electoral-system-belongs-to-all-kiwis.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/05/the-electoral-system-belongs-to-all-kiwis/index.html
+layout: layout.njk
 ---
 The Electoral System Belongs To All Kiwis
 =========================================

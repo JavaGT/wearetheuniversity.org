@@ -1,9 +1,13 @@
 ---
 slug: social-justice-career-inspired-by-childhood-event
-title: "Social justice career inspired by childhood event"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/ED1505/S00037/social-justice-career-inspired-by-childhood-event.htm
+title: Social justice career inspired by childhood event
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00037/social-justice-career-inspired-by-childhood-event.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/05/07/social-justice-career-inspired-by-childhood-event/index.html
+layout: layout.njk
 ---
 Social justice career inspired by childhood event
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: lignite-is-taxpayer-subsidised-madness
-title: "Lignite is taxpayer subsidised madness"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/PA1012/S00140/lignite-is-taxpayer-subsidised-madness.htm
+title: Lignite is taxpayer subsidised madness
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00140/lignite-is-taxpayer-subsidised-madness.htm
 author: green-party
+permalink: /archive/2010/12/09/lignite-is-taxpayer-subsidised-madness/index.html
+layout: layout.njk
 ---
 Lignite is taxpayer subsidised madness
 ======================================

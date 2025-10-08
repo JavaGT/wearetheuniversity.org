@@ -1,9 +1,12 @@
 ---
 slug: clarks-credibility-hits-rock-bottom
-title: "Clark's credibility hits rock bottom"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00641/clarks-credibility-hits-rock-bottom.htm
+title: Clark's credibility hits rock bottom
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00641/clarks-credibility-hits-rock-bottom.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/clarks-credibility-hits-rock-bottom/index.html
+layout: layout.njk
 ---
 Clark's credibility hits rock bottom
 ====================================

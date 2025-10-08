@@ -1,9 +1,13 @@
 ---
 slug: international-artists-converge-in-akaroa-next-month
-title: "International artists converge in Akaroa next month"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/CU1112/S00338/international-artists-converge-in-akaroa-next-month.htm
+title: International artists converge in Akaroa next month
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00338/international-artists-converge-in-akaroa-next-month.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/21/international-artists-converge-in-akaroa-next-month/index.html
+layout: layout.njk
 ---
 International artists converge in Akaroa next month
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: award-winning-waikato-student-researching-wave-power
-title: "Award-winning Waikato student researching wave power"
-date: 2019-10-31
-source-url: https://www.scoop.co.nz/stories/SC1910/S00065/award-winning-waikato-student-researching-wave-power.htm
+title: Award-winning Waikato student researching wave power
+date: 2019-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00065/award-winning-waikato-student-researching-wave-power.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/10/31/award-winning-waikato-student-researching-wave-power/index.html
+layout: layout.njk
 ---
 Award-winning Waikato student researching wave power
 ====================================================

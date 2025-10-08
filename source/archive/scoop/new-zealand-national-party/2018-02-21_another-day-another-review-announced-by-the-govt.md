@@ -1,9 +1,13 @@
 ---
 slug: another-day-another-review-announced-by-the-govt
-title: "Another day, another review announced by the Govt"
-date: 2018-02-21
-source-url: https://www.scoop.co.nz/stories/PA1802/S00183/another-day-another-review-announced-by-the-govt.htm
+title: Another day, another review announced by the Govt
+date: 2018-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00183/another-day-another-review-announced-by-the-govt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/21/another-day-another-review-announced-by-the-govt/index.html
+layout: layout.njk
 ---
 Another day, another review announced by the Govt
 =================================================

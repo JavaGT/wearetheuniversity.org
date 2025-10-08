@@ -1,9 +1,12 @@
 ---
 slug: the-passion-and-the-powerless
-title: "The Passion and the Powerless"
-date: 2006-05-20
-source-url: https://www.scoop.co.nz/stories/PA0605/S00497/the-passion-and-the-powerless.htm
+title: The Passion and the Powerless
+date: 2006-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00497/the-passion-and-the-powerless.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/20/the-passion-and-the-powerless/index.html
+layout: layout.njk
 ---
 The Passion and the Powerless
 =============================

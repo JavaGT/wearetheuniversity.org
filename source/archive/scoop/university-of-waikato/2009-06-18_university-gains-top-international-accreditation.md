@@ -1,9 +1,13 @@
 ---
 slug: university-gains-top-international-accreditation
-title: "University gains top international accreditation"
-date: 2009-06-18
-source-url: https://www.scoop.co.nz/stories/ED0906/S00055/university-gains-top-international-accreditation.htm
+title: University gains top international accreditation
+date: 2009-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00055/university-gains-top-international-accreditation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/06/18/university-gains-top-international-accreditation/index.html
+layout: layout.njk
 ---
 University gains top international accreditation
 ================================================

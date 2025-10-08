@@ -1,9 +1,11 @@
 ---
 slug: denis-orourke-maiden-speech
-title: "Denis O’Rourke: Maiden Speech"
-date: 2012-02-08
+title: 'Denis O’Rourke: Maiden Speech'
+date: 2012-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00087/denis-orourke-maiden-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/08/denis-orourke-maiden-speech/index.html
+layout: layout.njk
 ---
 Denis O’Rourke: Maiden Speech
 =============================

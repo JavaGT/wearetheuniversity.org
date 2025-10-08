@@ -1,9 +1,12 @@
 ---
 slug: lost-students-number-thousands
-title: "‘Lost’ students number thousands"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/PA0708/S00138/lost-students-number-thousands.htm
+title: ‘Lost’ students number thousands
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00138/lost-students-number-thousands.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/08/lost-students-number-thousands/index.html
+layout: layout.njk
 ---
 ‘Lost’ students number thousands
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: education-concerns-heightened-by-gats-demands
-title: "Education Concerns Heightened by GATS Demands"
-date: 2003-02-04
-source-url: https://www.scoop.co.nz/stories/ED0302/S00009/education-concerns-heightened-by-gats-demands.htm
+title: Education Concerns Heightened by GATS Demands
+date: 2003-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00009/education-concerns-heightened-by-gats-demands.htm
 author: association-of-university-staff
+permalink: /archive/2003/02/04/education-concerns-heightened-by-gats-demands/index.html
+layout: layout.njk
 ---
 Education Concerns Heightened by GATS Demands
 =============================================

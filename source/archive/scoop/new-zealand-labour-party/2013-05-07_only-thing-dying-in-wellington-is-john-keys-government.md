@@ -1,9 +1,13 @@
 ---
 slug: only-thing-dying-in-wellington-is-john-keys-government
-title: "Only thing dying in Wellington is John Key’s government"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/PA1305/S00077/only-thing-dying-in-wellington-is-john-keys-government.htm
+title: Only thing dying in Wellington is John Key’s government
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00077/only-thing-dying-in-wellington-is-john-keys-government.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/07/only-thing-dying-in-wellington-is-john-keys-government/index.html
+layout: layout.njk
 ---
 Only thing dying in Wellington is John Key’s government
 =======================================================

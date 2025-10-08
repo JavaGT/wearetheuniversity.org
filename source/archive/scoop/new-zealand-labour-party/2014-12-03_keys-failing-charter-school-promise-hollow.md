@@ -1,9 +1,12 @@
 ---
 slug: keys-failing-charter-school-promise-hollow
-title: "Key’s failing charter school promise hollow"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/PA1412/S00068/keys-failing-charter-school-promise-hollow.htm
+title: Key’s failing charter school promise hollow
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00068/keys-failing-charter-school-promise-hollow.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/03/keys-failing-charter-school-promise-hollow/index.html
+layout: layout.njk
 ---
 Key’s failing charter school promise hollow
 ===========================================

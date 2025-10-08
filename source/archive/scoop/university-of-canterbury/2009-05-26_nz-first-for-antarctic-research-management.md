@@ -1,9 +1,12 @@
 ---
 slug: nz-first-for-antarctic-research-management
-title: "NZ first for Antarctic Research Management"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/SC0905/S00035/nz-first-for-antarctic-research-management.htm
+title: NZ first for Antarctic Research Management
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0905/S00035/nz-first-for-antarctic-research-management.htm
 author: university-of-canterbury
+permalink: /archive/2009/05/26/nz-first-for-antarctic-research-management/index.html
+layout: layout.njk
 ---
 NZ first for Antarctic Research Management
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: students-nationwide-urge-national-to-be-rational
-title: "Students nationwide urge National to be Rational"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/ED1108/S00097/students-nationwide-urge-national-to-be-rational.htm
+title: Students nationwide urge National to be Rational
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00097/students-nationwide-urge-national-to-be-rational.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/08/17/students-nationwide-urge-national-to-be-rational/index.html
+layout: layout.njk
 ---
 Students nationwide urge National to be Rational
 ================================================

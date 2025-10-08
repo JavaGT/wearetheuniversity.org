@@ -1,9 +1,13 @@
 ---
 slug: recognition-of-quality-for-victoria-business-school
-title: "Recognition of quality for Victoria Business School"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00092/recognition-of-quality-for-victoria-business-school.htm
+title: Recognition of quality for Victoria Business School
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00092/recognition-of-quality-for-victoria-business-school.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/15/recognition-of-quality-for-victoria-business-school/index.html
+layout: layout.njk
 ---
 Recognition of quality for Victoria Business School
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: schools-a-law-unto-themselves
-title: "Schools 'a law unto themselves'"
-date: 2004-10-15
-source-url: https://www.scoop.co.nz/stories/PA0410/S00276/schools-a-law-unto-themselves.htm
+title: Schools 'a law unto themselves'
+date: 2004-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00276/schools-a-law-unto-themselves.htm
 author: green-party
+permalink: /archive/2004/10/15/schools-a-law-unto-themselves/index.html
+layout: layout.njk
 ---
 Schools 'a law unto themselves'
 ===============================

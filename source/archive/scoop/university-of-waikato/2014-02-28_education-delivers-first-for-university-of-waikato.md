@@ -1,9 +1,13 @@
 ---
 slug: education-delivers-first-for-university-of-waikato
-title: "Education delivers first for University of Waikato"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/ED1402/S00134/education-delivers-first-for-university-of-waikato.htm
+title: Education delivers first for University of Waikato
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00134/education-delivers-first-for-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/02/28/education-delivers-first-for-university-of-waikato/index.html
+layout: layout.njk
 ---
 Education delivers first for University of Waikato
 ==================================================

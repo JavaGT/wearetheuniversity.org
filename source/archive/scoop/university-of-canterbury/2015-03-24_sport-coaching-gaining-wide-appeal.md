@@ -1,9 +1,12 @@
 ---
 slug: sport-coaching-gaining-wide-appeal
-title: "Sport coaching gaining wide appeal"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/ED1503/S00097/sport-coaching-gaining-wide-appeal.htm
+title: Sport coaching gaining wide appeal
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00097/sport-coaching-gaining-wide-appeal.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/24/sport-coaching-gaining-wide-appeal/index.html
+layout: layout.njk
 ---
 Sport coaching gaining wide appeal
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-nineteen
-title: "Christchurch Earthquake bulletin edition nineteen"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00074/christchurch-earthquake-bulletin-edition-nineteen.htm
+title: Christchurch Earthquake bulletin edition nineteen
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00074/christchurch-earthquake-bulletin-edition-nineteen.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/05/christchurch-earthquake-bulletin-edition-nineteen/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition nineteen
 =================================================

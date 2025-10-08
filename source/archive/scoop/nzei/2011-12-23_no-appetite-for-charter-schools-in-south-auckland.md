@@ -1,9 +1,13 @@
 ---
 slug: no-appetite-for-charter-schools-in-south-auckland
-title: "No appetite for charter schools in south Auckland"
-date: 2011-12-23
-source-url: https://www.scoop.co.nz/stories/ED1112/S00116/no-appetite-for-charter-schools-in-south-auckland.htm
+title: No appetite for charter schools in south Auckland
+date: 2011-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00116/no-appetite-for-charter-schools-in-south-auckland.htm
 author: nzei
+permalink: >-
+  /archive/2011/12/23/no-appetite-for-charter-schools-in-south-auckland/index.html
+layout: layout.njk
 ---
 No appetite for charter schools in south Auckland
 =================================================

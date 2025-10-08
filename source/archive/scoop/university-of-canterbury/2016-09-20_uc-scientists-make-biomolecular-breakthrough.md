@@ -1,9 +1,12 @@
 ---
 slug: uc-scientists-make-biomolecular-breakthrough
-title: "UC scientists make biomolecular breakthrough"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/SC1609/S00058/uc-scientists-make-biomolecular-breakthrough.htm
+title: UC scientists make biomolecular breakthrough
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00058/uc-scientists-make-biomolecular-breakthrough.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/20/uc-scientists-make-biomolecular-breakthrough/index.html
+layout: layout.njk
 ---
 UC scientists make biomolecular breakthrough
 ============================================

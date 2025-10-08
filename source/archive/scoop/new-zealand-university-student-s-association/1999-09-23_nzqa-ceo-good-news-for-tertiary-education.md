@@ -1,9 +1,12 @@
 ---
 slug: nzqa-ceo-good-news-for-tertiary-education
-title: "NZQA CEO Good News For Tertiary Education"
-date: 1999-09-23
-source-url: https://www.scoop.co.nz/stories/ED9909/S00042/nzqa-ceo-good-news-for-tertiary-education.htm
+title: NZQA CEO Good News For Tertiary Education
+date: 1999-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00042/nzqa-ceo-good-news-for-tertiary-education.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/23/nzqa-ceo-good-news-for-tertiary-education/index.html
+layout: layout.njk
 ---
 NZQA CEO Good News For Tertiary Education
 =========================================

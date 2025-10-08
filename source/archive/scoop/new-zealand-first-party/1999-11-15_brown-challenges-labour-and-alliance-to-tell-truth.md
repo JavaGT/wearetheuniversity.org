@@ -1,9 +1,13 @@
 ---
 slug: brown-challenges-labour-and-alliance-to-tell-truth
-title: "Brown Challenges Labour And Alliance To Tell Truth"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PA9911/S00341/brown-challenges-labour-and-alliance-to-tell-truth.htm
+title: Brown Challenges Labour And Alliance To Tell Truth
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00341/brown-challenges-labour-and-alliance-to-tell-truth.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/1999/11/15/brown-challenges-labour-and-alliance-to-tell-truth/index.html
+layout: layout.njk
 ---
 Brown Challenges Labour And Alliance To Tell Truth
 ==================================================

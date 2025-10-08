@@ -1,9 +1,12 @@
 ---
 slug: new-pro-vice-chancellor-(international)-appointed
-title: "New Pro Vice-Chancellor (International) Appointed"
-date: 2004-11-09
-source-url: https://www.scoop.co.nz/stories/ED0411/S00025/new-pro-vice-chancellor-international-appointed.htm
+title: New Pro Vice-Chancellor (International) Appointed
+date: 2004-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00025/new-pro-vice-chancellor-international-appointed.htm
 author: waikato-university
+permalink: /archive/2004/11/09/new-pro-vice-chancellor-/index.html
+layout: layout.njk
 ---
 New Pro Vice-Chancellor (International) Appointed
 =================================================

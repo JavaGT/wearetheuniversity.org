@@ -1,9 +1,12 @@
 ---
 slug: affcos-700-worker-lockout-callous
-title: "Affco’s 700-worker lockout callous"
-date: 2012-02-26
-source-url: https://www.scoop.co.nz/stories/PA1202/S00293/affcos-700-worker-lockout-callous.htm
+title: Affco’s 700-worker lockout callous
+date: 2012-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00293/affcos-700-worker-lockout-callous.htm
 author: green-party
+permalink: /archive/2012/02/26/affcos-700-worker-lockout-callous/index.html
+layout: layout.njk
 ---
 Affco’s 700-worker lockout callous
 ==================================

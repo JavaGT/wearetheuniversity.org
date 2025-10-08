@@ -1,9 +1,12 @@
 ---
 slug: co-leaders-launch-dunedin-campaign-this-weekend
-title: "Co-Leaders launch Dunedin campaign this weekend"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/PO0508/S00220/co-leaders-launch-dunedin-campaign-this-weekend.htm
+title: Co-Leaders launch Dunedin campaign this weekend
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00220/co-leaders-launch-dunedin-campaign-this-weekend.htm
 author: green-party
+permalink: /archive/2005/08/19/co-leaders-launch-dunedin-campaign-this-weekend/index.html
+layout: layout.njk
 ---
 Co-Leaders launch Dunedin campaign this weekend
 ===============================================

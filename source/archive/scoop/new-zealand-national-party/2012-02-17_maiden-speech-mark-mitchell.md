@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-mark-mitchell
-title: "Maiden Speech - Mark Mitchell"
-date: 2012-02-17
+title: Maiden Speech - Mark Mitchell
+date: 2012-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00215/maiden-speech-mark-mitchell.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/17/maiden-speech-mark-mitchell/index.html
+layout: layout.njk
 ---
 Maiden Speech - Mark Mitchell
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: important-step-to-knowledge-economy
-title: "Important step to knowledge economy"
-date: 1999-08-10
-source-url: https://www.scoop.co.nz/stories/PA9908/S00159/important-step-to-knowledge-economy.htm
+title: Important step to knowledge economy
+date: 1999-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00159/important-step-to-knowledge-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/10/important-step-to-knowledge-economy/index.html
+layout: layout.njk
 ---
 Important step to knowledge economy
 ===================================

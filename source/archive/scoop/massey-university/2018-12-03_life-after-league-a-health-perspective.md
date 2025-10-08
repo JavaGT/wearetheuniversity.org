@@ -1,9 +1,12 @@
 ---
 slug: life-after-league-a-health-perspective
-title: "Life after league: a health perspective"
-date: 2018-12-03
-source-url: https://www.scoop.co.nz/stories/CU1812/S00007/life-after-league-a-health-perspective.htm
+title: 'Life after league: a health perspective'
+date: 2018-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1812/S00007/life-after-league-a-health-perspective.htm
 author: massey-university
+permalink: /archive/2018/12/03/life-after-league-a-health-perspective/index.html
+layout: layout.njk
 ---
 Life after league: a health perspective
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: back-to-school-for-nandor
-title: "Back to school for Nandor?"
-date: 2003-12-04
+title: Back to school for Nandor?
+date: 2003-12-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0312/S00098/back-to-school-for-nandor.htm
 author: green-party
+permalink: /archive/2003/12/04/back-to-school-for-nandor/index.html
+layout: layout.njk
 ---
 Back to school for Nandor?
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: healthy-families-for-a-healthy-hutt-valley
-title: "Healthy Families for a Healthy Hutt Valley"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/PA1512/S00094/healthy-families-for-a-healthy-hutt-valley.htm
+title: Healthy Families for a Healthy Hutt Valley
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00094/healthy-families-for-a-healthy-hutt-valley.htm
 author: new-zealand-national-party
+permalink: /archive/2015/12/03/healthy-families-for-a-healthy-hutt-valley/index.html
+layout: layout.njk
 ---
 Healthy Families for a Healthy Hutt Valley
 ==========================================

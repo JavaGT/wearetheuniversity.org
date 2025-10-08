@@ -1,9 +1,12 @@
 ---
 slug: let-people-power-determine-pokie-numbers
-title: "Let people power determine pokie numbers"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/PO1205/S00125/let-people-power-determine-pokie-numbers.htm
+title: Let people power determine pokie numbers
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00125/let-people-power-determine-pokie-numbers.htm
 author: aut-university
+permalink: /archive/2012/05/09/let-people-power-determine-pokie-numbers/index.html
+layout: layout.njk
 ---
 Let people power determine pokie numbers
 ========================================

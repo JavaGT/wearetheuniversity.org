@@ -1,9 +1,13 @@
 ---
 slug: fieldays-scholarship-to-study-environmental-compliance
-title: "Fieldays scholarship to study environmental compliance"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/ED1405/S00104/fieldays-scholarship-to-study-environmental-compliance.htm
+title: Fieldays scholarship to study environmental compliance
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00104/fieldays-scholarship-to-study-environmental-compliance.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/21/fieldays-scholarship-to-study-environmental-compliance/index.html
+layout: layout.njk
 ---
 Fieldays scholarship to study environmental compliance
 ======================================================

@@ -1,9 +1,11 @@
 ---
 slug: talking-biotechnology
-title: "Talking Biotechnology"
-date: 2005-11-21
+title: Talking Biotechnology
+date: 2005-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0511/S00073/talking-biotechnology.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/21/talking-biotechnology/index.html
+layout: layout.njk
 ---
 Talking Biotechnology
 =====================

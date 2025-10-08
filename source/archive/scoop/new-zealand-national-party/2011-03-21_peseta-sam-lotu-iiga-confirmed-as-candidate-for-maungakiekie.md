@@ -1,9 +1,13 @@
 ---
 slug: peseta-sam-lotu-iiga-confirmed-as-candidate-for-maungakiekie
-title: "Peseta Sam Lotu-Iiga confirmed as candidate for Maungakiekie"
-date: 2011-03-21
-source-url: https://www.scoop.co.nz/stories/PA1103/S00336/peseta-sam-lotu-iiga-confirmed-as-candidate-for-maungakiekie.htm
+title: Peseta Sam Lotu-Iiga confirmed as candidate for Maungakiekie
+date: 2011-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00336/peseta-sam-lotu-iiga-confirmed-as-candidate-for-maungakiekie.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/03/21/peseta-sam-lotu-iiga-confirmed-as-candidate-for-maungakiekie/index.html
+layout: layout.njk
 ---
 Peseta Sam Lotu-Iiga confirmed as candidate for Maungakiekie
 ============================================================

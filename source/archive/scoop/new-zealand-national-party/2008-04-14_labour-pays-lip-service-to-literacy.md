@@ -1,9 +1,12 @@
 ---
 slug: labour-pays-lip-service-to-literacy
-title: "Labour pays lip service to literacy"
-date: 2008-04-14
-source-url: https://www.scoop.co.nz/stories/PA0804/S00339/labour-pays-lip-service-to-literacy.htm
+title: Labour pays lip service to literacy
+date: 2008-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00339/labour-pays-lip-service-to-literacy.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/14/labour-pays-lip-service-to-literacy/index.html
+layout: layout.njk
 ---
 Labour pays lip service to literacy
 ===================================

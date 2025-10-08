@@ -1,9 +1,13 @@
 ---
 slug: nz-parents-hope-for-more-than-just-happy-and-healthy-babies
-title: "NZ parents hope for more than just happy and healthy babies"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/GE1410/S00114/nz-parents-hope-for-more-than-just-happy-and-healthy-babies.htm
+title: NZ parents hope for more than just happy and healthy babies
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1410/S00114/nz-parents-hope-for-more-than-just-happy-and-healthy-babies.htm
 author: auckland-university
+permalink: >-
+  /archive/2014/10/16/nz-parents-hope-for-more-than-just-happy-and-healthy-babies/index.html
+layout: layout.njk
 ---
 NZ parents hope for more than just happy and healthy babies
 ===========================================================

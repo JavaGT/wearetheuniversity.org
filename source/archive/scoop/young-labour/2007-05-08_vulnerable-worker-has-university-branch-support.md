@@ -1,9 +1,12 @@
 ---
 slug: vulnerable-worker-has-university-branch-support
-title: "Vulnerable Worker has University Branch Support"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/PO0705/S00122/vulnerable-worker-has-university-branch-support.htm
+title: Vulnerable Worker has University Branch Support
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00122/vulnerable-worker-has-university-branch-support.htm
 author: young-labour
+permalink: /archive/2007/05/08/vulnerable-worker-has-university-branch-support/index.html
+layout: layout.njk
 ---
 Vulnerable Worker has University Branch Support
 ===============================================

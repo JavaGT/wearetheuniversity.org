@@ -1,9 +1,12 @@
 ---
 slug: sfwu-presents-submissions-on-employment-bill
-title: "SFWU Presents Submissions on Employment Bill"
-date: 2004-06-01
-source-url: https://www.scoop.co.nz/stories/PO0406/S00006/sfwu-presents-submissions-on-employment-bill.htm
+title: SFWU Presents Submissions on Employment Bill
+date: 2004-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00006/sfwu-presents-submissions-on-employment-bill.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/06/01/sfwu-presents-submissions-on-employment-bill/index.html
+layout: layout.njk
 ---
 SFWU Presents Submissions on Employment Bill
 ============================================

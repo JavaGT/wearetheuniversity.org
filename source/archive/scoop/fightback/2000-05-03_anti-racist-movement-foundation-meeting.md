@@ -1,9 +1,12 @@
 ---
 slug: anti-racist-movement-foundation-meeting
-title: "Anti Racist Movement Foundation Meeting"
-date: 2000-05-03
-source-url: https://www.scoop.co.nz/stories/ED0005/S00006/anti-racist-movement-foundation-meeting.htm
+title: Anti Racist Movement Foundation Meeting
+date: 2000-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00006/anti-racist-movement-foundation-meeting.htm
 author: fightback
+permalink: /archive/2000/05/03/anti-racist-movement-foundation-meeting/index.html
+layout: layout.njk
 ---
 Anti Racist Movement Foundation Meeting
 =======================================

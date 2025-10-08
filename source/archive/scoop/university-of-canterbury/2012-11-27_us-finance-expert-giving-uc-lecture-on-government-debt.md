@@ -1,9 +1,13 @@
 ---
 slug: us-finance-expert-giving-uc-lecture-on-government-debt
-title: "US finance expert giving UC lecture on government debt"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/PO1211/S00376/us-finance-expert-giving-uc-lecture-on-government-debt.htm
+title: US finance expert giving UC lecture on government debt
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00376/us-finance-expert-giving-uc-lecture-on-government-debt.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/27/us-finance-expert-giving-uc-lecture-on-government-debt/index.html
+layout: layout.njk
 ---
 US finance expert giving UC lecture on government debt
 ======================================================

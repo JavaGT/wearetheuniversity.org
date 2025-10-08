@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-calls-for-full-quake-payout
-title: "New Zealand First Calls For Full Quake Payout"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/PA1401/S00174/new-zealand-first-calls-for-full-quake-payout.htm
+title: New Zealand First Calls For Full Quake Payout
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00174/new-zealand-first-calls-for-full-quake-payout.htm
 author: new-zealand-first-party
+permalink: /archive/2014/01/28/new-zealand-first-calls-for-full-quake-payout/index.html
+layout: layout.njk
 ---
 New Zealand First Calls For Full Quake Payout
 =============================================

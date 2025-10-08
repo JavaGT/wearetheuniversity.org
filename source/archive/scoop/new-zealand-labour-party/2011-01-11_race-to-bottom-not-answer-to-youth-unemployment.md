@@ -1,9 +1,12 @@
 ---
 slug: race-to-bottom-not-answer-to-youth-unemployment
-title: "Race to bottom not answer to youth unemployment"
-date: 2011-01-11
-source-url: https://www.scoop.co.nz/stories/PA1101/S00021/race-to-bottom-not-answer-to-youth-unemployment.htm
+title: Race to bottom not answer to youth unemployment
+date: 2011-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00021/race-to-bottom-not-answer-to-youth-unemployment.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/11/race-to-bottom-not-answer-to-youth-unemployment/index.html
+layout: layout.njk
 ---
 Race to bottom not answer to youth unemployment
 ===============================================

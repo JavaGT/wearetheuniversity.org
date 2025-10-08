@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-shell-out-nearly-$500000-on-hui
-title: "Taxpayers shell out nearly $500,000 on hui"
-date: 2003-09-16
-source-url: https://www.scoop.co.nz/stories/PA0309/S00366/taxpayers-shell-out-nearly-500000-on-hui.htm
+title: Taxpayers shell out nearly $500,000 on hui
+date: 2003-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00366/taxpayers-shell-out-nearly-500000-on-hui.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/16/taxpayers-shell-out-nearly-/index.html
+layout: layout.njk
 ---
 Taxpayers shell out nearly $500,000 on hui
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: universities-nz-welcomes-ministerial-appointments
-title: "Universities NZ welcomes Ministerial appointments"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/PO1710/S00223/universities-nz-welcomes-ministerial-appointments.htm
+title: Universities NZ welcomes Ministerial appointments
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00223/universities-nz-welcomes-ministerial-appointments.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/10/25/universities-nz-welcomes-ministerial-appointments/index.html
+layout: layout.njk
 ---
 Universities NZ welcomes Ministerial appointments
 =================================================

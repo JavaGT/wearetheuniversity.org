@@ -1,9 +1,13 @@
 ---
 slug: katene-says-iwi-will-have-much-to-offer-in-quake-rebuild
-title: "Katene says iwi will have much to offer in quake rebuild"
-date: 2011-03-21
-source-url: https://www.scoop.co.nz/stories/PA1103/S00333/katene-says-iwi-will-have-much-to-offer-in-quake-rebuild.htm
+title: Katene says iwi will have much to offer in quake rebuild
+date: 2011-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00333/katene-says-iwi-will-have-much-to-offer-in-quake-rebuild.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/21/katene-says-iwi-will-have-much-to-offer-in-quake-rebuild/index.html
+layout: layout.njk
 ---
 Katene says iwi will have much to offer in quake rebuild
 ========================================================

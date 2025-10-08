@@ -1,9 +1,12 @@
 ---
 slug: booming-economy-will-test-labour-market
-title: "Booming economy will test labour market"
-date: 2014-01-20
-source-url: https://www.scoop.co.nz/stories/PA1401/S00080/booming-economy-will-test-labour-market.htm
+title: Booming economy will test labour market
+date: 2014-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00080/booming-economy-will-test-labour-market.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/20/booming-economy-will-test-labour-market/index.html
+layout: layout.njk
 ---
 Booming economy will test labour market
 =======================================

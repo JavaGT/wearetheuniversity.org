@@ -1,9 +1,11 @@
 ---
 slug: putting-education-first
-title: "Putting education first"
-date: 2009-04-29
+title: Putting education first
+date: 2009-04-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0904/S00071/putting-education-first.htm
 author: university-of-waikato
+permalink: /archive/2009/04/29/putting-education-first/index.html
+layout: layout.njk
 ---
 Putting education first
 =======================

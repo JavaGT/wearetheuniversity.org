@@ -1,9 +1,12 @@
 ---
 slug: valuing-nature-the-economy-and-the-environment
-title: "Valuing Nature: The Economy and the Environment"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/PO1305/S00015/valuing-nature-the-economy-and-the-environment.htm
+title: 'Valuing Nature: The Economy and the Environment'
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00015/valuing-nature-the-economy-and-the-environment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/01/valuing-nature-the-economy-and-the-environment/index.html
+layout: layout.njk
 ---
 Valuing Nature: The Economy and the Environment
 ===============================================

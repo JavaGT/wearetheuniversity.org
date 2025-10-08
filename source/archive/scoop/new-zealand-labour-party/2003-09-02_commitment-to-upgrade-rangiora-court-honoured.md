@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-upgrade-rangiora-court-honoured
-title: "Commitment to upgrade Rangiora Court honoured"
-date: 2003-09-02
-source-url: https://www.scoop.co.nz/stories/PA0309/S00018/commitment-to-upgrade-rangiora-court-honoured.htm
+title: Commitment to upgrade Rangiora Court honoured
+date: 2003-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00018/commitment-to-upgrade-rangiora-court-honoured.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/09/02/commitment-to-upgrade-rangiora-court-honoured/index.html
+layout: layout.njk
 ---
 Commitment to upgrade Rangiora Court honoured
 =============================================

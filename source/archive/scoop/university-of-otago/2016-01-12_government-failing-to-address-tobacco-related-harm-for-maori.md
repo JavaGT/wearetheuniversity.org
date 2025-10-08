@@ -1,9 +1,13 @@
 ---
 slug: government-failing-to-address-tobacco-related-harm-for-maori
-title: "Government failing to address tobacco-related harm for Maori"
-date: 2016-01-12
-source-url: https://www.scoop.co.nz/stories/GE1601/S00019/government-failing-to-address-tobacco-related-harm-for-maori.htm
+title: Government failing to address tobacco-related harm for Maori
+date: 2016-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1601/S00019/government-failing-to-address-tobacco-related-harm-for-maori.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/01/12/government-failing-to-address-tobacco-related-harm-for-maori/index.html
+layout: layout.njk
 ---
 Government failing to address tobacco-related harm for Maori
 ============================================================

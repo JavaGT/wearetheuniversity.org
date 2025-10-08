@@ -1,9 +1,13 @@
 ---
 slug: drug-safety-checking-at-otago-university-orientation-week
-title: "Drug Safety Checking at Otago University Orientation Week"
-date: 2019-02-19
-source-url: https://www.scoop.co.nz/stories/PA1902/S00151/drug-safety-checking-at-otago-university-orientation-week.htm
+title: Drug Safety Checking at Otago University Orientation Week
+date: 2019-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00151/drug-safety-checking-at-otago-university-orientation-week.htm
 author: green-party
+permalink: >-
+  /archive/2019/02/19/drug-safety-checking-at-otago-university-orientation-week/index.html
+layout: layout.njk
 ---
 Drug Safety Checking at Otago University Orientation Week
 =========================================================

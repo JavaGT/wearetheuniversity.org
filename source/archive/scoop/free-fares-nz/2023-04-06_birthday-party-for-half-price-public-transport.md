@@ -1,9 +1,12 @@
 ---
 slug: birthday-party-for-half-price-public-transport
-title: "Birthday Party For Half-price Public Transport"
-date: 2023-04-06
-source-url: https://www.scoop.co.nz/stories/PO2304/S00033/birthday-party-for-half-price-public-transport.htm
+title: Birthday Party For Half-price Public Transport
+date: 2023-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00033/birthday-party-for-half-price-public-transport.htm
 author: free-fares-nz
+permalink: /archive/2023/04/06/birthday-party-for-half-price-public-transport/index.html
+layout: layout.njk
 ---
 Birthday Party For Half-price Public Transport
 ==============================================

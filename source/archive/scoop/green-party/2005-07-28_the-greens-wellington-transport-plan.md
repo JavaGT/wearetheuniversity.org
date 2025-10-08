@@ -1,9 +1,12 @@
 ---
 slug: the-greens-wellington-transport-plan
-title: "The Greens' Wellington transport plan"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00619/the-greens-wellington-transport-plan.htm
+title: The Greens' Wellington transport plan
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00619/the-greens-wellington-transport-plan.htm
 author: green-party
+permalink: /archive/2005/07/28/the-greens-wellington-transport-plan/index.html
+layout: layout.njk
 ---
 The Greens' Wellington transport plan
 =====================================

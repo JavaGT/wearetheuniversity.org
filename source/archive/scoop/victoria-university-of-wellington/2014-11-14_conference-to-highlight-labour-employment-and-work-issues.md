@@ -1,9 +1,13 @@
 ---
 slug: conference-to-highlight-labour-employment-and-work-issues
-title: "Conference to highlight labour, employment and work issues"
-date: 2014-11-14
-source-url: https://www.scoop.co.nz/stories/ED1411/S00091/conference-to-highlight-labour-employment-and-work-issues.htm
+title: Conference to highlight labour, employment and work issues
+date: 2014-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00091/conference-to-highlight-labour-employment-and-work-issues.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/14/conference-to-highlight-labour-employment-and-work-issues/index.html
+layout: layout.njk
 ---
 Conference to highlight labour, employment and work issues
 ==========================================================

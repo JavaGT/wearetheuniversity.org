@@ -1,9 +1,12 @@
 ---
 slug: engineering-students-doing-community-service
-title: "Engineering Students Doing Community Service"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/ED0505/S00121/engineering-students-doing-community-service.htm
+title: Engineering Students Doing Community Service
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00121/engineering-students-doing-community-service.htm
 author: auckland-university
+permalink: /archive/2005/05/27/engineering-students-doing-community-service/index.html
+layout: layout.njk
 ---
 Engineering Students Doing Community Service
 ============================================

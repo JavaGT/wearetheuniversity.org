@@ -1,9 +1,12 @@
 ---
 slug: labour-markets-are-not-special
-title: "Labour Markets Are Not Special"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/BU0603/S00392/labour-markets-are-not-special.htm
+title: Labour Markets Are Not Special
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00392/labour-markets-are-not-special.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/03/24/labour-markets-are-not-special/index.html
+layout: layout.njk
 ---
 Labour Markets Are Not Special
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-jobs-fail-sends-youth-to-australia
-title: "National’s jobs fail sends youth to Australia"
-date: 2012-10-07
-source-url: https://www.scoop.co.nz/stories/PA1210/S00116/nationals-jobs-fail-sends-youth-to-australia.htm
+title: National’s jobs fail sends youth to Australia
+date: 2012-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00116/nationals-jobs-fail-sends-youth-to-australia.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/07/nationals-jobs-fail-sends-youth-to-australia/index.html
+layout: layout.njk
 ---
 National’s jobs fail sends youth to Australia
 =============================================

@@ -1,9 +1,16 @@
 ---
-slug: significant-psychological-toll-from-covid-lockdown-for-people-with-histories-of-mental-illness-study
-title: "Significant Psychological Toll From COVID Lockdown For People With Histories Of Mental Illness – Study"
-date: 2021-10-07
-source-url: https://www.scoop.co.nz/stories/GE2110/S00047/significant-psychological-toll-from-covid-lockdown-for-people-with-histories-of-mental-illness-study.htm
+slug: >-
+  significant-psychological-toll-from-covid-lockdown-for-people-with-histories-of-mental-illness-study
+title: >-
+  Significant Psychological Toll From COVID Lockdown For People With Histories
+  Of Mental Illness – Study
+date: 2021-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2110/S00047/significant-psychological-toll-from-covid-lockdown-for-people-with-histories-of-mental-illness-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/10/07/significant-psychological-toll-from-covid-lockdown-for-people-with-histories-of-mental-illness-study/index.html
+layout: layout.njk
 ---
 Significant Psychological Toll From COVID Lockdown For People With Histories Of Mental Illness – Study
 ======================================================================================================

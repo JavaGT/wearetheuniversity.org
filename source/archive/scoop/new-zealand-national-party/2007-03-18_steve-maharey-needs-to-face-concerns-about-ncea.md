@@ -1,9 +1,12 @@
 ---
 slug: steve-maharey-needs-to-face-concerns-about-ncea
-title: "Steve Maharey needs to face concerns about NCEA"
-date: 2007-03-18
-source-url: https://www.scoop.co.nz/stories/PA0703/S00344/steve-maharey-needs-to-face-concerns-about-ncea.htm
+title: Steve Maharey needs to face concerns about NCEA
+date: 2007-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00344/steve-maharey-needs-to-face-concerns-about-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/18/steve-maharey-needs-to-face-concerns-about-ncea/index.html
+layout: layout.njk
 ---
 Steve Maharey needs to face concerns about NCEA
 ===============================================

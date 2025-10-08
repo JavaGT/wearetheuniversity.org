@@ -1,9 +1,12 @@
 ---
 slug: minister-open-to-materials-equivalence-register
-title: "Minister Open To Materials Equivalence Register"
-date: 2023-02-23
-source-url: https://www.scoop.co.nz/stories/PA2302/S00119/minister-open-to-materials-equivalence-register.htm
+title: Minister Open To Materials Equivalence Register
+date: 2023-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00119/minister-open-to-materials-equivalence-register.htm
 author: act-new-zealand
+permalink: /archive/2023/02/23/minister-open-to-materials-equivalence-register/index.html
+layout: layout.njk
 ---
 Minister Open To Materials Equivalence Register
 ===============================================

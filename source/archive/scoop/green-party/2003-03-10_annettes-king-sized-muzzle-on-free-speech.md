@@ -1,9 +1,12 @@
 ---
 slug: annettes-king-sized-muzzle-on-free-speech
-title: "Annette's King-sized muzzle on free speech"
-date: 2003-03-10
-source-url: https://www.scoop.co.nz/stories/PA0303/S00149/annettes-king-sized-muzzle-on-free-speech.htm
+title: Annette's King-sized muzzle on free speech
+date: 2003-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00149/annettes-king-sized-muzzle-on-free-speech.htm
 author: green-party
+permalink: /archive/2003/03/10/annettes-king-sized-muzzle-on-free-speech/index.html
+layout: layout.njk
 ---
 Annette's King-sized muzzle on free speech
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: key-united-states-new-zealand-partnership-forum
-title: "Key: United States/New Zealand Partnership Forum"
-date: 2007-09-11
-source-url: https://www.scoop.co.nz/stories/PA0709/S00159/key-united-statesnew-zealand-partnership-forum.htm
+title: 'Key: United States/New Zealand Partnership Forum'
+date: 2007-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00159/key-united-statesnew-zealand-partnership-forum.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/11/key-united-states-new-zealand-partnership-forum/index.html
+layout: layout.njk
 ---
 Key: United States/New Zealand Partnership Forum
 ================================================

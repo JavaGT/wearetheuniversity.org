@@ -1,9 +1,13 @@
 ---
 slug: new-head-for-school-of-science-at-waikato-university
-title: "New head for School of Science at Waikato University"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/ED1403/S00032/new-head-for-school-of-science-at-waikato-university.htm
+title: New head for School of Science at Waikato University
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00032/new-head-for-school-of-science-at-waikato-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/06/new-head-for-school-of-science-at-waikato-university/index.html
+layout: layout.njk
 ---
 New head for School of Science at Waikato University
 ====================================================

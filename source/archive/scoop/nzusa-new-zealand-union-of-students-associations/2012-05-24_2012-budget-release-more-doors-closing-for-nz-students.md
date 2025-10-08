@@ -1,9 +1,13 @@
 ---
 slug: 2012-budget-release-more-doors-closing-for-nz-students
-title: "2012 Budget Release – More Doors Closing for NZ Students?"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PO1205/S00377/2012-budget-release-more-doors-closing-for-nz-students.htm
+title: 2012 Budget Release – More Doors Closing for NZ Students?
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00377/2012-budget-release-more-doors-closing-for-nz-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/05/24/2012-budget-release-more-doors-closing-for-nz-students/index.html
+layout: layout.njk
 ---
 2012 Budget Release – More Doors Closing for NZ Students?
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: marriage-equality-showdown-louisa-wall-and-colin-craig
-title: "Marriage Equality Showdown: Louisa Wall and Colin Craig"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/PO1209/S00401/marriage-equality-showdown-louisa-wall-and-colin-craig.htm
+title: 'Marriage Equality Showdown: Louisa Wall and Colin Craig'
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00401/marriage-equality-showdown-louisa-wall-and-colin-craig.htm
 author: ausa
+permalink: >-
+  /archive/2012/09/28/marriage-equality-showdown-louisa-wall-and-colin-craig/index.html
+layout: layout.njk
 ---
 Marriage Equality Showdown: Louisa Wall and Colin Craig
 =======================================================

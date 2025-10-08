@@ -1,9 +1,12 @@
 ---
 slug: healthy-infant-eating-tips-on-dvd
-title: "Healthy infant eating tips on DVD"
-date: 2008-09-21
-source-url: https://www.scoop.co.nz/stories/GE0809/S00122/healthy-infant-eating-tips-on-dvd.htm
+title: Healthy infant eating tips on DVD
+date: 2008-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00122/healthy-infant-eating-tips-on-dvd.htm
 author: massey-university
+permalink: /archive/2008/09/21/healthy-infant-eating-tips-on-dvd/index.html
+layout: layout.njk
 ---
 Healthy infant eating tips on DVD
 =================================

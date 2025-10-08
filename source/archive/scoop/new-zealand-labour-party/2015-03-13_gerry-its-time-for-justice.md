@@ -1,9 +1,11 @@
 ---
 slug: gerry-its-time-for-justice
-title: "Gerry-It’s time for justice"
-date: 2015-03-13
+title: Gerry-It’s time for justice
+date: 2015-03-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1503/S00191/gerry-its-time-for-justice.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/13/gerry-its-time-for-justice/index.html
+layout: layout.njk
 ---
 Gerry-It’s time for justice
 ===========================

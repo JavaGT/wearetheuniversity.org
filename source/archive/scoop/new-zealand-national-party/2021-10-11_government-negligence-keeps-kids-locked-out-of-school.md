@@ -1,9 +1,13 @@
 ---
 slug: government-negligence-keeps-kids-locked-out-of-school
-title: "Government Negligence Keeps Kids Locked Out Of School"
-date: 2021-10-11
-source-url: https://www.scoop.co.nz/stories/PA2110/S00102/government-negligence-keeps-kids-locked-out-of-school.htm
+title: Government Negligence Keeps Kids Locked Out Of School
+date: 2021-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00102/government-negligence-keeps-kids-locked-out-of-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/11/government-negligence-keeps-kids-locked-out-of-school/index.html
+layout: layout.njk
 ---
 Government Negligence Keeps Kids Locked Out Of School
 =====================================================

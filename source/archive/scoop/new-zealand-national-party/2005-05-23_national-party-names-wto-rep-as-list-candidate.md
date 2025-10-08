@@ -1,9 +1,12 @@
 ---
 slug: national-party-names-wto-rep-as-list-candidate
-title: "National Party names WTO rep as list candidate"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/PA0505/S00575/national-party-names-wto-rep-as-list-candidate.htm
+title: National Party names WTO rep as list candidate
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00575/national-party-names-wto-rep-as-list-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/23/national-party-names-wto-rep-as-list-candidate/index.html
+layout: layout.njk
 ---
 National Party names WTO rep as list candidate
 ==============================================

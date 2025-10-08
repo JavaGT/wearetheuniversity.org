@@ -1,9 +1,12 @@
 ---
 slug: sharples-he-iwi-kotahi-tatou-we-are-one
-title: "Sharples: He Iwi Kotahi Tatou - We Are One"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/PA0608/S00306/sharples-he-iwi-kotahi-tatou-we-are-one.htm
+title: 'Sharples: He Iwi Kotahi Tatou - We Are One'
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00306/sharples-he-iwi-kotahi-tatou-we-are-one.htm
 author: te-pati-maori
+permalink: /archive/2006/08/17/sharples-he-iwi-kotahi-tatou-we-are-one/index.html
+layout: layout.njk
 ---
 Sharples: He Iwi Kotahi Tatou - We Are One
 ==========================================

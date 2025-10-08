@@ -1,9 +1,13 @@
 ---
 slug: adjunct-professor-of-official-statistics-appointed
-title: "Adjunct Professor of Official Statistics appointed"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/ED0704/S00005/adjunct-professor-of-official-statistics-appointed.htm
+title: Adjunct Professor of Official Statistics appointed
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00005/adjunct-professor-of-official-statistics-appointed.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/04/02/adjunct-professor-of-official-statistics-appointed/index.html
+layout: layout.njk
 ---
 Adjunct Professor of Official Statistics appointed
 ==================================================

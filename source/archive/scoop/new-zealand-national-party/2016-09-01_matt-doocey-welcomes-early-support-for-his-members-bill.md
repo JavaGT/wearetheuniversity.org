@@ -1,9 +1,13 @@
 ---
 slug: matt-doocey-welcomes-early-support-for-his-members-bill
-title: "Matt Doocey welcomes early support for his Member’s Bill"
-date: 2016-09-01
-source-url: https://www.scoop.co.nz/stories/PA1609/S00021/matt-doocey-welcomes-early-support-for-his-members-bill.htm
+title: Matt Doocey welcomes early support for his Member’s Bill
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00021/matt-doocey-welcomes-early-support-for-his-members-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/09/01/matt-doocey-welcomes-early-support-for-his-members-bill/index.html
+layout: layout.njk
 ---
 Matt Doocey welcomes early support for his Member’s Bill
 ========================================================

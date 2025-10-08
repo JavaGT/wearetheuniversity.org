@@ -1,9 +1,12 @@
 ---
 slug: ruling-highlights-need-for-proper-ge-labelling
-title: "Ruling highlights need for proper GE labelling"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/PA0911/S00241/ruling-highlights-need-for-proper-ge-labelling.htm
+title: Ruling highlights need for proper GE labelling
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00241/ruling-highlights-need-for-proper-ge-labelling.htm
 author: green-party
+permalink: /archive/2009/11/18/ruling-highlights-need-for-proper-ge-labelling/index.html
+layout: layout.njk
 ---
 Ruling highlights need for proper GE labelling
 ==============================================

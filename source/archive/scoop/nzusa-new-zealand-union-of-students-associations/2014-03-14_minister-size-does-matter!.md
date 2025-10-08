@@ -1,9 +1,11 @@
 ---
 slug: minister-size-does-matter!
-title: "Minister, size does matter!"
-date: 2014-03-14
+title: Minister, size does matter!
+date: 2014-03-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1403/S00079/minister-size-does-matter.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/03/14/minister-size-does-matter/index.html
+layout: layout.njk
 ---
 Minister, size does matter!
 ===========================

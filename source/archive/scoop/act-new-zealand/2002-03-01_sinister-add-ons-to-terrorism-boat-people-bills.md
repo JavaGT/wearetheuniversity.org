@@ -1,9 +1,12 @@
 ---
 slug: sinister-add-ons-to-terrorism-boat-people-bills
-title: "Sinister Add-Ons To Terrorism, Boat People Bills"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00042/sinister-add-ons-to-terrorism-boat-people-bills.htm
+title: Sinister Add-Ons To Terrorism, Boat People Bills
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00042/sinister-add-ons-to-terrorism-boat-people-bills.htm
 author: act-new-zealand
+permalink: /archive/2002/03/01/sinister-add-ons-to-terrorism-boat-people-bills/index.html
+layout: layout.njk
 ---
 Sinister Add-Ons To Terrorism, Boat People Bills
 ================================================

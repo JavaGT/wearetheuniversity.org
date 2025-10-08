@@ -1,9 +1,12 @@
 ---
 slug: the-global-development-conference-(gdc)-2024-concluded-in-fiji
-title: "The Global Development Conference (GDC) 2024 Concluded In Fiji"
-date: 2024-12-02
-source-url: https://www.scoop.co.nz/stories/WO2412/S00019/the-global-development-conference-gdc-2024-concluded-in-fiji.htm
+title: The Global Development Conference (GDC) 2024 Concluded In Fiji
+date: 2024-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2412/S00019/the-global-development-conference-gdc-2024-concluded-in-fiji.htm
 author: university-of-the-south-pacific
+permalink: /archive/2024/12/02/the-global-development-conference-/index.html
+layout: layout.njk
 ---
 The Global Development Conference (GDC) 2024 Concluded In Fiji
 ==============================================================

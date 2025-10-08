@@ -1,9 +1,12 @@
 ---
 slug: higher-cancer-mortality-in-maori-pacific-people
-title: "Higher cancer mortality in Maori, Pacific people"
-date: 2008-04-28
-source-url: https://www.scoop.co.nz/stories/GE0804/S00135/higher-cancer-mortality-in-maori-pacific-people.htm
+title: Higher cancer mortality in Maori, Pacific people
+date: 2008-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0804/S00135/higher-cancer-mortality-in-maori-pacific-people.htm
 author: university-of-otago
+permalink: /archive/2008/04/28/higher-cancer-mortality-in-maori-pacific-people/index.html
+layout: layout.njk
 ---
 Higher cancer mortality in Maori, Pacific people
 ================================================

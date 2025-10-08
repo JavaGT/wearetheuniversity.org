@@ -1,9 +1,13 @@
 ---
 slug: noted-historian-donates-te-kooti-paintings-to-uni
-title: "Noted historian donates Te Kooti paintings to Uni"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/ED0708/S00021/noted-historian-donates-te-kooti-paintings-to-uni.htm
+title: Noted historian donates Te Kooti paintings to Uni
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00021/noted-historian-donates-te-kooti-paintings-to-uni.htm
 author: massey-university
+permalink: >-
+  /archive/2007/08/08/noted-historian-donates-te-kooti-paintings-to-uni/index.html
+layout: layout.njk
 ---
 Noted historian donates Te Kooti paintings to Uni
 =================================================

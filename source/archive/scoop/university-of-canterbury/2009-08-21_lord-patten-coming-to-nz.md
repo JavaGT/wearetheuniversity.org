@@ -1,9 +1,11 @@
 ---
 slug: lord-patten-coming-to-nz
-title: "Lord Patten coming to NZ"
-date: 2009-08-21
+title: Lord Patten coming to NZ
+date: 2009-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0908/S00260/lord-patten-coming-to-nz.htm
 author: university-of-canterbury
+permalink: /archive/2009/08/21/lord-patten-coming-to-nz/index.html
+layout: layout.njk
 ---
 Lord Patten coming to NZ
 ========================

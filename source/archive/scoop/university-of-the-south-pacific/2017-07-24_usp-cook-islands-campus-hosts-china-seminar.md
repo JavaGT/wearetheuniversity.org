@@ -1,9 +1,12 @@
 ---
 slug: usp-cook-islands-campus-hosts-china-seminar
-title: "USP Cook Islands Campus Hosts China Seminar"
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/WO1707/S00076/usp-cook-islands-campus-hosts-china-seminar.htm
+title: USP Cook Islands Campus Hosts China Seminar
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1707/S00076/usp-cook-islands-campus-hosts-china-seminar.htm
 author: university-of-the-south-pacific
+permalink: /archive/2017/07/24/usp-cook-islands-campus-hosts-china-seminar/index.html
+layout: layout.njk
 ---
 USP Cook Islands Campus Hosts China Seminar
 ===========================================

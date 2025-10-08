@@ -1,9 +1,13 @@
 ---
 slug: sir-graham-henry-receives-his-uc-honorary-doctorate
-title: "Sir Graham Henry receives his UC Honorary Doctorate"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00108/sir-graham-henry-receives-his-uc-honorary-doctorate.htm
+title: Sir Graham Henry receives his UC Honorary Doctorate
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00108/sir-graham-henry-receives-his-uc-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/14/sir-graham-henry-receives-his-uc-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Sir Graham Henry receives his UC Honorary Doctorate
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: where-are-the-jobs-for-those-on-benefits
-title: "Where Are The Jobs For Those On Benefits?"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/BU1103/S00799/where-are-the-jobs-for-those-on-benefits.htm
+title: Where Are The Jobs For Those On Benefits?
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00799/where-are-the-jobs-for-those-on-benefits.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/03/25/where-are-the-jobs-for-those-on-benefits/index.html
+layout: layout.njk
 ---
 Where Are The Jobs For Those On Benefits?
 =========================================

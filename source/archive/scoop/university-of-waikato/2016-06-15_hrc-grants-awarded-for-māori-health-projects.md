@@ -1,9 +1,12 @@
 ---
 slug: hrc-grants-awarded-for-māori-health-projects
-title: "HRC grants awarded for Māori health projects"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00054/hrc-grants-awarded-for-maori-health-projects.htm
+title: HRC grants awarded for Māori health projects
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00054/hrc-grants-awarded-for-maori-health-projects.htm
 author: university-of-waikato
+permalink: /archive/2016/06/15/hrc-grants-awarded-for-m/index.html
+layout: layout.njk
 ---
 HRC grants awarded for Māori health projects
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: public-quick-to-apportion-blame-for-asiana-plane-crash
-title: "Public quick to apportion blame for Asiana plane crash"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/PO1307/S00094/public-quick-to-apportion-blame-for-asiana-plane-crash.htm
+title: Public quick to apportion blame for Asiana plane crash
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00094/public-quick-to-apportion-blame-for-asiana-plane-crash.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/09/public-quick-to-apportion-blame-for-asiana-plane-crash/index.html
+layout: layout.njk
 ---
 Public quick to apportion blame for Asiana plane crash
 ======================================================

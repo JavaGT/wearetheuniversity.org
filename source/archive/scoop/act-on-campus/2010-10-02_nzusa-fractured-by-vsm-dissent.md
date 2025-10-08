@@ -1,9 +1,12 @@
 ---
 slug: nzusa-fractured-by-vsm-dissent
-title: "NZUSA Fractured By VSM Dissent"
-date: 2010-10-02
-source-url: https://www.scoop.co.nz/stories/ED1010/S00005/nzusa-fractured-by-vsm-dissent.htm
+title: NZUSA Fractured By VSM Dissent
+date: 2010-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00005/nzusa-fractured-by-vsm-dissent.htm
 author: act-on-campus
+permalink: /archive/2010/10/02/nzusa-fractured-by-vsm-dissent/index.html
+layout: layout.njk
 ---
 NZUSA Fractured By VSM Dissent
 ==============================

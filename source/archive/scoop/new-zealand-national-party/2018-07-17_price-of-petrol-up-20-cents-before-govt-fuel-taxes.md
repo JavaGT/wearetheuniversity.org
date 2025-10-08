@@ -1,9 +1,13 @@
 ---
 slug: price-of-petrol-up-20-cents-before-govt-fuel-taxes
-title: "Price of petrol up 20 cents before Govt fuel taxes"
-date: 2018-07-17
-source-url: https://www.scoop.co.nz/stories/PA1807/S00136/price-of-petrol-up-20-cents-before-govt-fuel-taxes.htm
+title: Price of petrol up 20 cents before Govt fuel taxes
+date: 2018-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00136/price-of-petrol-up-20-cents-before-govt-fuel-taxes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/07/17/price-of-petrol-up-20-cents-before-govt-fuel-taxes/index.html
+layout: layout.njk
 ---
 Price of petrol up 20 cents before Govt fuel taxes
 ==================================================

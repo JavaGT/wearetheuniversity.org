@@ -1,9 +1,12 @@
 ---
 slug: new-figures-show-health-workers-battle
-title: "New figures show health workers battle"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/ED0411/S00092/new-figures-show-health-workers-battle.htm
+title: New figures show health workers battle
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00092/new-figures-show-health-workers-battle.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/11/29/new-figures-show-health-workers-battle/index.html
+layout: layout.njk
 ---
 New figures show health workers battle
 ======================================

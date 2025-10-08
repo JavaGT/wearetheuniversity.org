@@ -1,9 +1,12 @@
 ---
 slug: waikato-court-decision-to-stand
-title: "Waikato Court decision to stand"
-date: 1999-12-22
-source-url: https://www.scoop.co.nz/stories/ED9912/S00012/waikato-court-decision-to-stand.htm
+title: Waikato Court decision to stand
+date: 1999-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00012/waikato-court-decision-to-stand.htm
 author: association-of-university-staff
+permalink: /archive/1999/12/22/waikato-court-decision-to-stand/index.html
+layout: layout.njk
 ---
 Waikato Court decision to stand
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-16-april-2004
-title: "Beehive Bulletin - Friday, 16 April 2004"
-date: 2004-04-19
-source-url: https://www.scoop.co.nz/stories/PA0404/S00278/beehive-bulletin-friday-16-april-2004.htm
+title: Beehive Bulletin - Friday, 16 April 2004
+date: 2004-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00278/beehive-bulletin-friday-16-april-2004.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/04/19/beehive-bulletin-friday-16-april-2004/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday, 16 April 2004
 ========================================

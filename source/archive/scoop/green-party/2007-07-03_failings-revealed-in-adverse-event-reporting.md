@@ -1,9 +1,12 @@
 ---
 slug: failings-revealed-in-adverse-event-reporting
-title: "Failings revealed in adverse event reporting"
-date: 2007-07-03
-source-url: https://www.scoop.co.nz/stories/PA0707/S00037/failings-revealed-in-adverse-event-reporting.htm
+title: Failings revealed in adverse event reporting
+date: 2007-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00037/failings-revealed-in-adverse-event-reporting.htm
 author: green-party
+permalink: /archive/2007/07/03/failings-revealed-in-adverse-event-reporting/index.html
+layout: layout.njk
 ---
 Failings revealed in adverse event reporting
 ============================================

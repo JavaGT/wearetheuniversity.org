@@ -1,9 +1,13 @@
 ---
 slug: industrial-dairying-drives-rainforest-destruction
-title: "Industrial dairying drives rainforest destruction"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/PA0804/S00635/industrial-dairying-drives-rainforest-destruction.htm
+title: Industrial dairying drives rainforest destruction
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00635/industrial-dairying-drives-rainforest-destruction.htm
 author: green-party
+permalink: >-
+  /archive/2008/04/30/industrial-dairying-drives-rainforest-destruction/index.html
+layout: layout.njk
 ---
 Industrial dairying drives rainforest destruction
 =================================================

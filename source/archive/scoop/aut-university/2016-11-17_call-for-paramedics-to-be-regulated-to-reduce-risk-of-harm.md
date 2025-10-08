@@ -1,9 +1,13 @@
 ---
 slug: call-for-paramedics-to-be-regulated-to-reduce-risk-of-harm
-title: "Call for paramedics to be regulated to reduce risk of harm"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/PO1611/S00231/call-for-paramedics-to-be-regulated-to-reduce-risk-of-harm.htm
+title: Call for paramedics to be regulated to reduce risk of harm
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00231/call-for-paramedics-to-be-regulated-to-reduce-risk-of-harm.htm
 author: aut-university
+permalink: >-
+  /archive/2016/11/17/call-for-paramedics-to-be-regulated-to-reduce-risk-of-harm/index.html
+layout: layout.njk
 ---
 Call for paramedics to be regulated to reduce risk of harm
 ==========================================================

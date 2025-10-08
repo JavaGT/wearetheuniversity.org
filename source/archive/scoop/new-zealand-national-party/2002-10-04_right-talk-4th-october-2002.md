@@ -1,9 +1,11 @@
 ---
 slug: right-talk-4th-october-2002
-title: "Right Talk - 4th October 2002"
-date: 2002-10-04
+title: Right Talk - 4th October 2002
+date: 2002-10-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0210/S00108/right-talk-4th-october-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/04/right-talk-4th-october-2002/index.html
+layout: layout.njk
 ---
 Right Talk - 4th October 2002
 =============================

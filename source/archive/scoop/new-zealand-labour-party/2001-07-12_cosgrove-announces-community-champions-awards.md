@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-announces-community-champions-awards
-title: "Cosgrove Announces \"Community Champions\" Awards"
-date: 2001-07-12
-source-url: https://www.scoop.co.nz/stories/PA0107/S00200/cosgrove-announces-community-champions-awards.htm
+title: Cosgrove Announces "Community Champions" Awards
+date: 2001-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00200/cosgrove-announces-community-champions-awards.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/07/12/cosgrove-announces-community-champions-awards/index.html
+layout: layout.njk
 ---
 Cosgrove Announces "Community Champions" Awards
 ===============================================

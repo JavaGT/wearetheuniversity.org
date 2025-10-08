@@ -1,9 +1,12 @@
 ---
 slug: labours-shift-to-lifting-tertiary-quality
-title: "Labour's shift to lifting tertiary quality"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00018/labours-shift-to-lifting-tertiary-quality.htm
+title: Labour's shift to lifting tertiary quality
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00018/labours-shift-to-lifting-tertiary-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/01/labours-shift-to-lifting-tertiary-quality/index.html
+layout: layout.njk
 ---
 Labour's shift to lifting tertiary quality
 ==========================================

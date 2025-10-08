@@ -1,9 +1,12 @@
 ---
 slug: foreshore-and-seabed-on-everyones-agenda-katene
-title: "Foreshore and Seabed on Everyone’s Agenda - Katene"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/PA0904/S00261/foreshore-and-seabed-on-everyones-agenda-katene.htm
+title: Foreshore and Seabed on Everyone’s Agenda - Katene
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00261/foreshore-and-seabed-on-everyones-agenda-katene.htm
 author: te-pati-maori
+permalink: /archive/2009/04/22/foreshore-and-seabed-on-everyones-agenda-katene/index.html
+layout: layout.njk
 ---
 Foreshore and Seabed on Everyone’s Agenda - Katene
 ==================================================

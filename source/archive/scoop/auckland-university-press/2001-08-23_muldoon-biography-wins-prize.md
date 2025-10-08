@@ -1,9 +1,11 @@
 ---
 slug: muldoon-biography-wins-prize
-title: "Muldoon Biography Wins Prize"
-date: 2001-08-23
+title: Muldoon Biography Wins Prize
+date: 2001-08-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0108/S00072/muldoon-biography-wins-prize.htm
 author: auckland-university-press
+permalink: /archive/2001/08/23/muldoon-biography-wins-prize/index.html
+layout: layout.njk
 ---
 Muldoon Biography Wins Prize
 ============================

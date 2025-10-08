@@ -1,9 +1,12 @@
 ---
 slug: maf-gets-sealion-science-wrong-uni-expert
-title: "MAF gets sealion science wrong: Uni expert"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/SC1112/S00019/maf-gets-sealion-science-wrong-uni-expert.htm
+title: 'MAF gets sealion science wrong: Uni expert'
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00019/maf-gets-sealion-science-wrong-uni-expert.htm
 author: university-of-otago
+permalink: /archive/2011/12/08/maf-gets-sealion-science-wrong-uni-expert/index.html
+layout: layout.njk
 ---
 MAF gets sealion science wrong: Uni expert
 ==========================================

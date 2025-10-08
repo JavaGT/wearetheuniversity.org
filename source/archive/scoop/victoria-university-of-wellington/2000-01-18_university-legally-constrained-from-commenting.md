@@ -1,9 +1,12 @@
 ---
 slug: university-legally-constrained-from-commenting
-title: "University legally constrained from commenting"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/ED0001/S00007/university-legally-constrained-from-commenting.htm
+title: University legally constrained from commenting
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00007/university-legally-constrained-from-commenting.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/01/18/university-legally-constrained-from-commenting/index.html
+layout: layout.njk
 ---
 University legally constrained from commenting
 ==============================================

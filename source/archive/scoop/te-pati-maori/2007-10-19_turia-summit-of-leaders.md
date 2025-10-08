@@ -1,9 +1,11 @@
 ---
 slug: turia-summit-of-leaders
-title: "Turia: Summit of Leaders"
-date: 2007-10-19
+title: 'Turia: Summit of Leaders'
+date: 2007-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0710/S00386/turia-summit-of-leaders.htm
 author: te-pati-maori
+permalink: /archive/2007/10/19/turia-summit-of-leaders/index.html
+layout: layout.njk
 ---
 Turia: Summit of Leaders
 ========================

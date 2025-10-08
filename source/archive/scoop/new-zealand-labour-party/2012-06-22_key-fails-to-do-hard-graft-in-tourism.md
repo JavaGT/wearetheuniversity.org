@@ -1,9 +1,12 @@
 ---
 slug: key-fails-to-do-hard-graft-in-tourism
-title: "Key fails to do hard graft in tourism"
-date: 2012-06-22
-source-url: https://www.scoop.co.nz/stories/PA1206/S00339/key-fails-to-do-hard-graft-in-tourism.htm
+title: Key fails to do hard graft in tourism
+date: 2012-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00339/key-fails-to-do-hard-graft-in-tourism.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/22/key-fails-to-do-hard-graft-in-tourism/index.html
+layout: layout.njk
 ---
 Key fails to do hard graft in tourism
 =====================================

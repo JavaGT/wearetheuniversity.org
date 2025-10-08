@@ -1,9 +1,13 @@
 ---
 slug: will-nationals-eighth-budget-finally-show-some-vision
-title: "Will National’s eighth budget finally show some vision?"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PO1605/S00338/will-nationals-eighth-budget-finally-show-some-vision.htm
+title: Will National’s eighth budget finally show some vision?
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00338/will-nationals-eighth-budget-finally-show-some-vision.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/26/will-nationals-eighth-budget-finally-show-some-vision/index.html
+layout: layout.njk
 ---
 Will National’s eighth budget finally show some vision?
 =======================================================

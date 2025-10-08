@@ -1,9 +1,12 @@
 ---
 slug: luamanuvao-winnie-laban-to-stand-down
-title: "Luamanuvao Winnie Laban to stand down"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/PA1008/S00160/luamanuvao-winnie-laban-to-stand-down.htm
+title: Luamanuvao Winnie Laban to stand down
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00160/luamanuvao-winnie-laban-to-stand-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/10/luamanuvao-winnie-laban-to-stand-down/index.html
+layout: layout.njk
 ---
 Luamanuvao Winnie Laban to stand down
 =====================================

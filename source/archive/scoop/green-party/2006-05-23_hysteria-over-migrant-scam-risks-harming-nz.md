@@ -1,9 +1,12 @@
 ---
 slug: hysteria-over-migrant-scam-risks-harming-nz
-title: "Hysteria over 'migrant scam' risks harming NZ"
-date: 2006-05-23
-source-url: https://www.scoop.co.nz/stories/PA0605/S00537/hysteria-over-migrant-scam-risks-harming-nz.htm
+title: Hysteria over 'migrant scam' risks harming NZ
+date: 2006-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00537/hysteria-over-migrant-scam-risks-harming-nz.htm
 author: green-party
+permalink: /archive/2006/05/23/hysteria-over-migrant-scam-risks-harming-nz/index.html
+layout: layout.njk
 ---
 Hysteria over 'migrant scam' risks harming NZ
 =============================================

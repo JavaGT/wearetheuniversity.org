@@ -1,9 +1,12 @@
 ---
 slug: free-concert-of-heavenly-sounds
-title: "Free concert of heavenly sounds"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/CU1509/S00059/free-concert-of-heavenly-sounds.htm
+title: Free concert of heavenly sounds
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1509/S00059/free-concert-of-heavenly-sounds.htm
 author: auckland-university
+permalink: /archive/2015/09/04/free-concert-of-heavenly-sounds/index.html
+layout: layout.njk
 ---
 Free concert of heavenly sounds
 ===============================

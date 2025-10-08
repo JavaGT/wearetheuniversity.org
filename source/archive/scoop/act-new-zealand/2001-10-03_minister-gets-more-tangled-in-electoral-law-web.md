@@ -1,9 +1,12 @@
 ---
 slug: minister-gets-more-tangled-in-electoral-law-web
-title: "Minister Gets More Tangled in Electoral Law Web"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00051/minister-gets-more-tangled-in-electoral-law-web.htm
+title: Minister Gets More Tangled in Electoral Law Web
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00051/minister-gets-more-tangled-in-electoral-law-web.htm
 author: act-new-zealand
+permalink: /archive/2001/10/03/minister-gets-more-tangled-in-electoral-law-web/index.html
+layout: layout.njk
 ---
 Minister Gets More Tangled in Electoral Law Web
 ===============================================

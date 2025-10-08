@@ -1,9 +1,12 @@
 ---
 slug: action-on-housing-needed-now-not-later
-title: "Action on housing needed now, not later"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00121/action-on-housing-needed-now-not-later.htm
+title: Action on housing needed now, not later
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00121/action-on-housing-needed-now-not-later.htm
 author: green-party
+permalink: /archive/2005/05/05/action-on-housing-needed-now-not-later/index.html
+layout: layout.njk
 ---
 Action on housing needed now, not later
 =======================================

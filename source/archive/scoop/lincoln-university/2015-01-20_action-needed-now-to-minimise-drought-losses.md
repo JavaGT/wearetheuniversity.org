@@ -1,9 +1,12 @@
 ---
 slug: action-needed-now-to-minimise-drought-losses
-title: "Action needed now to minimise drought losses"
-date: 2015-01-20
-source-url: https://www.scoop.co.nz/stories/BU1501/S00305/action-needed-now-to-minimise-drought-losses.htm
+title: Action needed now to minimise drought losses
+date: 2015-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1501/S00305/action-needed-now-to-minimise-drought-losses.htm
 author: lincoln-university
+permalink: /archive/2015/01/20/action-needed-now-to-minimise-drought-losses/index.html
+layout: layout.njk
 ---
 Action needed now to minimise drought losses
 ============================================

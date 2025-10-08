@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-perspective-on-obama-presidency
-title: "New Zealand perspective on Obama presidency"
-date: 2010-04-30
-source-url: https://www.scoop.co.nz/stories/PO1004/S00393/new-zealand-perspective-on-obama-presidency.htm
+title: New Zealand perspective on Obama presidency
+date: 2010-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00393/new-zealand-perspective-on-obama-presidency.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/04/30/new-zealand-perspective-on-obama-presidency/index.html
+layout: layout.njk
 ---
 New Zealand perspective on Obama presidency
 ===========================================

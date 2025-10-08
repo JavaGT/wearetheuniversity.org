@@ -1,9 +1,12 @@
 ---
 slug: new-watch-saves-diabetics-time
-title: "New watch saves diabetics’ time"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/SC1511/S00063/new-watch-saves-diabetics-time.htm
+title: New watch saves diabetics’ time
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00063/new-watch-saves-diabetics-time.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/11/18/new-watch-saves-diabetics-time/index.html
+layout: layout.njk
 ---
 New watch saves diabetics’ time
 ===============================

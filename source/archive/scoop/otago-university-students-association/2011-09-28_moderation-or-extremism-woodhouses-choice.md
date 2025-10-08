@@ -1,9 +1,12 @@
 ---
 slug: moderation-or-extremism-woodhouses-choice
-title: "Moderation or Extremism – Woodhouse’s choice"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/ED1109/S00126/moderation-or-extremism-woodhouses-choice.htm
+title: Moderation or Extremism – Woodhouse’s choice
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00126/moderation-or-extremism-woodhouses-choice.htm
 author: otago-university-students-association
+permalink: /archive/2011/09/28/moderation-or-extremism-woodhouses-choice/index.html
+layout: layout.njk
 ---
 Moderation or Extremism – Woodhouse’s choice
 ============================================

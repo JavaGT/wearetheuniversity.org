@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-sustainable-biofuel-bill
-title: "Speech: Katene - Sustainable Biofuel Bill"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PA0907/S00374/speech-katene-sustainable-biofuel-bill.htm
+title: 'Speech: Katene - Sustainable Biofuel Bill'
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00374/speech-katene-sustainable-biofuel-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/07/30/speech-katene-sustainable-biofuel-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Sustainable Biofuel Bill
 =========================================

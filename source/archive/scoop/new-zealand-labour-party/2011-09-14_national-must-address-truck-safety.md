@@ -1,9 +1,12 @@
 ---
 slug: national-must-address-truck-safety
-title: "National must address truck safety"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/PA1109/S00266/national-must-address-truck-safety.htm
+title: National must address truck safety
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00266/national-must-address-truck-safety.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/14/national-must-address-truck-safety/index.html
+layout: layout.njk
 ---
 National must address truck safety
 ==================================

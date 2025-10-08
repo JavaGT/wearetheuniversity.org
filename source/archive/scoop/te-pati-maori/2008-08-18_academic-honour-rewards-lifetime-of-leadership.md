@@ -1,9 +1,12 @@
 ---
 slug: academic-honour-rewards-lifetime-of-leadership
-title: "Academic honour rewards lifetime of leadership"
-date: 2008-08-18
-source-url: https://www.scoop.co.nz/stories/PA0808/S00278/academic-honour-rewards-lifetime-of-leadership.htm
+title: Academic honour rewards lifetime of leadership
+date: 2008-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00278/academic-honour-rewards-lifetime-of-leadership.htm
 author: te-pati-maori
+permalink: /archive/2008/08/18/academic-honour-rewards-lifetime-of-leadership/index.html
+layout: layout.njk
 ---
 Academic honour rewards lifetime of leadership
 ==============================================

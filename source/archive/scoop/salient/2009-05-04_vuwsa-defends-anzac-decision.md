@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-defends-anzac-decision
-title: "VUWSA Defends ANZAC Decision"
-date: 2009-05-04
+title: VUWSA Defends ANZAC Decision
+date: 2009-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0905/S00010/vuwsa-defends-anzac-decision.htm
 author: salient
+permalink: /archive/2009/05/04/vuwsa-defends-anzac-decision/index.html
+layout: layout.njk
 ---
 VUWSA Defends ANZAC Decision
 ============================

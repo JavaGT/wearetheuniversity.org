@@ -1,9 +1,12 @@
 ---
 slug: factory-dairy-farming-arrives-in-new-zealand
-title: "Factory dairy farming arrives in New Zealand"
-date: 2009-12-07
-source-url: https://www.scoop.co.nz/stories/PA0912/S00079/factory-dairy-farming-arrives-in-new-zealand.htm
+title: Factory dairy farming arrives in New Zealand
+date: 2009-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00079/factory-dairy-farming-arrives-in-new-zealand.htm
 author: green-party
+permalink: /archive/2009/12/07/factory-dairy-farming-arrives-in-new-zealand/index.html
+layout: layout.njk
 ---
 Factory dairy farming arrives in New Zealand
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: centre-for-integrated-research-in-biosafety
-title: "Centre for Integrated Research  in Biosafety"
-date: 2009-10-26
-source-url: https://www.scoop.co.nz/stories/SC0910/S00063/centre-for-integrated-research-in-biosafety.htm
+title: Centre for Integrated Research  in Biosafety
+date: 2009-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0910/S00063/centre-for-integrated-research-in-biosafety.htm
 author: university-of-canterbury
+permalink: /archive/2009/10/26/centre-for-integrated-research-in-biosafety/index.html
+layout: layout.njk
 ---
 Centre for Integrated Research in Biosafety
 ===========================================

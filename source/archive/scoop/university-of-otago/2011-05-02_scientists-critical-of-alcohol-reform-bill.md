@@ -1,9 +1,12 @@
 ---
 slug: scientists-critical-of-alcohol-reform-bill
-title: "Scientists critical of Alcohol Reform Bill"
-date: 2011-05-02
-source-url: https://www.scoop.co.nz/stories/GE1105/S00003/scientists-critical-of-alcohol-reform-bill.htm
+title: Scientists critical of Alcohol Reform Bill
+date: 2011-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00003/scientists-critical-of-alcohol-reform-bill.htm
 author: university-of-otago
+permalink: /archive/2011/05/02/scientists-critical-of-alcohol-reform-bill/index.html
+layout: layout.njk
 ---
 Scientists critical of Alcohol Reform Bill
 ==========================================

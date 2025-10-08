@@ -1,9 +1,13 @@
 ---
 slug: victoria-appoints-new-head-of-school-of-government
-title: "Victoria appoints new Head of School of Government"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/ED1310/S00093/victoria-appoints-new-head-of-school-of-government.htm
+title: Victoria appoints new Head of School of Government
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00093/victoria-appoints-new-head-of-school-of-government.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/14/victoria-appoints-new-head-of-school-of-government/index.html
+layout: layout.njk
 ---
 Victoria appoints new Head of School of Government
 ==================================================

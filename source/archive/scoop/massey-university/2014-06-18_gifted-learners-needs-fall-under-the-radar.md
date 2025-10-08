@@ -1,9 +1,12 @@
 ---
 slug: gifted-learners-needs-fall-under-the-radar
-title: "Gifted learners’ needs fall under the radar"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/ED1406/S00090/gifted-learners-needs-fall-under-the-radar.htm
+title: Gifted learners’ needs fall under the radar
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00090/gifted-learners-needs-fall-under-the-radar.htm
 author: massey-university
+permalink: /archive/2014/06/18/gifted-learners-needs-fall-under-the-radar/index.html
+layout: layout.njk
 ---
 Gifted learners’ needs fall under the radar
 ===========================================

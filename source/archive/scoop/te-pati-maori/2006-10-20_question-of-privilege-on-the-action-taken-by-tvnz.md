@@ -1,9 +1,13 @@
 ---
 slug: question-of-privilege-on-the-action-taken-by-tvnz
-title: "Question of Privilege on the Action taken by TVNZ"
-date: 2006-10-20
-source-url: https://www.scoop.co.nz/stories/PA0610/S00394/question-of-privilege-on-the-action-taken-by-tvnz.htm
+title: Question of Privilege on the Action taken by TVNZ
+date: 2006-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00394/question-of-privilege-on-the-action-taken-by-tvnz.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/10/20/question-of-privilege-on-the-action-taken-by-tvnz/index.html
+layout: layout.njk
 ---
 Question of Privilege on the Action taken by TVNZ
 =================================================

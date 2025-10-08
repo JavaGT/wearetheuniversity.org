@@ -1,9 +1,12 @@
 ---
 slug: paralympic-hero-seeks-accessible-city
-title: "Paralympic hero seeks accessible city"
-date: 2005-11-28
-source-url: https://www.scoop.co.nz/stories/AK0511/S00201/paralympic-hero-seeks-accessible-city.htm
+title: Paralympic hero seeks accessible city
+date: 2005-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0511/S00201/paralympic-hero-seeks-accessible-city.htm
 author: aut-university
+permalink: /archive/2005/11/28/paralympic-hero-seeks-accessible-city/index.html
+layout: layout.njk
 ---
 Paralympic hero seeks accessible city
 =====================================

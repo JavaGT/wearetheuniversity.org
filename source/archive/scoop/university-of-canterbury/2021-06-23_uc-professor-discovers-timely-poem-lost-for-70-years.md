@@ -1,9 +1,13 @@
 ---
 slug: uc-professor-discovers-timely-poem-lost-for-70-years
-title: "UC Professor Discovers Timely Poem Lost For 70 Years"
-date: 2021-06-23
-source-url: https://www.scoop.co.nz/stories/CU2106/S00158/uc-professor-discovers-timely-poem-lost-for-70-years.htm
+title: UC Professor Discovers Timely Poem Lost For 70 Years
+date: 2021-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2106/S00158/uc-professor-discovers-timely-poem-lost-for-70-years.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/23/uc-professor-discovers-timely-poem-lost-for-70-years/index.html
+layout: layout.njk
 ---
 UC Professor Discovers Timely Poem Lost For 70 Years
 ====================================================

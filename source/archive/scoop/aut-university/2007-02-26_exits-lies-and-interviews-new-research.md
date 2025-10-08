@@ -1,9 +1,12 @@
 ---
 slug: exits-lies-and-interviews-new-research
-title: "Exits, lies and interviews - new research"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/BU0702/S00391/exits-lies-and-interviews-new-research.htm
+title: Exits, lies and interviews - new research
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0702/S00391/exits-lies-and-interviews-new-research.htm
 author: aut-university
+permalink: /archive/2007/02/26/exits-lies-and-interviews-new-research/index.html
+layout: layout.njk
 ---
 Exits, lies and interviews - new research
 =========================================

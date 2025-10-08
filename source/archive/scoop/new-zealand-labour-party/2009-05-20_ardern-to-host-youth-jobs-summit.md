@@ -1,9 +1,12 @@
 ---
 slug: ardern-to-host-youth-jobs-summit
-title: "Ardern to host youth jobs summit"
-date: 2009-05-20
-source-url: https://www.scoop.co.nz/stories/PA0905/S00361/ardern-to-host-youth-jobs-summit.htm
+title: Ardern to host youth jobs summit
+date: 2009-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00361/ardern-to-host-youth-jobs-summit.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/20/ardern-to-host-youth-jobs-summit/index.html
+layout: layout.njk
 ---
 Ardern to host youth jobs summit
 ================================

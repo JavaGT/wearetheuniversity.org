@@ -1,9 +1,12 @@
 ---
 slug: national-selects-michael-woodhouse-as-candidate
-title: "National Selects Michael Woodhouse as Candidate"
-date: 2008-04-11
-source-url: https://www.scoop.co.nz/stories/PO0804/S00193/national-selects-michael-woodhouse-as-candidate.htm
+title: National Selects Michael Woodhouse as Candidate
+date: 2008-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00193/national-selects-michael-woodhouse-as-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/11/national-selects-michael-woodhouse-as-candidate/index.html
+layout: layout.njk
 ---
 National Selects Michael Woodhouse as Candidate
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: ceremony-to-mark-launch-of-landmark-maori-education-research
-title: "Ceremony to mark launch of landmark Maori education research"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/ED1402/S00089/ceremony-to-mark-launch-of-landmark-maori-education-research.htm
+title: Ceremony to mark launch of landmark Maori education research
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00089/ceremony-to-mark-launch-of-landmark-maori-education-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/21/ceremony-to-mark-launch-of-landmark-maori-education-research/index.html
+layout: layout.njk
 ---
 Ceremony to mark launch of landmark Maori education research
 ============================================================

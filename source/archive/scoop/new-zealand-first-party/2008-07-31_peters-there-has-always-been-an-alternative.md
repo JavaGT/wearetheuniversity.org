@@ -1,9 +1,12 @@
 ---
 slug: peters-there-has-always-been-an-alternative
-title: "Peters: There Has Always Been An Alternative"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/PA0807/S00568/peters-there-has-always-been-an-alternative.htm
+title: 'Peters: There Has Always Been An Alternative'
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00568/peters-there-has-always-been-an-alternative.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/31/peters-there-has-always-been-an-alternative/index.html
+layout: layout.njk
 ---
 Peters: There Has Always Been An Alternative
 ============================================

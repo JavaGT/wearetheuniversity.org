@@ -1,9 +1,12 @@
 ---
 slug: ambush-marketing-in-sport-the-issues
-title: "Ambush marketing in sport – the issues"
-date: 2006-09-13
-source-url: https://www.scoop.co.nz/stories/PO0609/S00145/ambush-marketing-in-sport-the-issues.htm
+title: Ambush marketing in sport – the issues
+date: 2006-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00145/ambush-marketing-in-sport-the-issues.htm
 author: massey-university
+permalink: /archive/2006/09/13/ambush-marketing-in-sport-the-issues/index.html
+layout: layout.njk
 ---
 Ambush marketing in sport – the issues
 ======================================

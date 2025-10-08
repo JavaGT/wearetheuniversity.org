@@ -1,9 +1,12 @@
 ---
 slug: chch-residents-deserve-assurances-over-asbestos
-title: "Chch residents deserve assurances over asbestos"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PA1405/S00520/chch-residents-deserve-assurances-over-asbestos.htm
+title: Chch residents deserve assurances over asbestos
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00520/chch-residents-deserve-assurances-over-asbestos.htm
 author: green-party
+permalink: /archive/2014/05/28/chch-residents-deserve-assurances-over-asbestos/index.html
+layout: layout.njk
 ---
 Chch residents deserve assurances over asbestos
 ===============================================

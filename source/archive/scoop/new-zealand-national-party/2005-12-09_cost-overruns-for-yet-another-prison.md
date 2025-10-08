@@ -1,9 +1,12 @@
 ---
 slug: cost-overruns-for-yet-another-prison
-title: "Cost overruns for yet another prison"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/PA0512/S00141/cost-overruns-for-yet-another-prison.htm
+title: Cost overruns for yet another prison
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00141/cost-overruns-for-yet-another-prison.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/09/cost-overruns-for-yet-another-prison/index.html
+layout: layout.njk
 ---
 Cost overruns for yet another prison
 ====================================

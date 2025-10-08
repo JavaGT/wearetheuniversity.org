@@ -1,9 +1,12 @@
 ---
 slug: key-unbelievable-in-dismissing-lack-of-jobs
-title: "Key unbelievable in dismissing lack of jobs"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PA1108/S00291/key-unbelievable-in-dismissing-lack-of-jobs.htm
+title: Key unbelievable in dismissing lack of jobs
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00291/key-unbelievable-in-dismissing-lack-of-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/15/key-unbelievable-in-dismissing-lack-of-jobs/index.html
+layout: layout.njk
 ---
 Key unbelievable in dismissing lack of jobs
 ===========================================

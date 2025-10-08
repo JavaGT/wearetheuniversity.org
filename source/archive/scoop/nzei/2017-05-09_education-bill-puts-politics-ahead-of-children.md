@@ -1,9 +1,12 @@
 ---
 slug: education-bill-puts-politics-ahead-of-children
-title: "Education bill puts politics ahead of children"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/ED1705/S00039/education-bill-puts-politics-ahead-of-children.htm
+title: Education bill puts politics ahead of children
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00039/education-bill-puts-politics-ahead-of-children.htm
 author: nzei
+permalink: /archive/2017/05/09/education-bill-puts-politics-ahead-of-children/index.html
+layout: layout.njk
 ---
 Education bill puts politics ahead of children
 ==============================================

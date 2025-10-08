@@ -1,9 +1,13 @@
 ---
 slug: software-engineering-degree-proves-just-the-ticket
-title: "Software engineering degree proves just the ticket"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/ED0905/S00002/software-engineering-degree-proves-just-the-ticket.htm
+title: Software engineering degree proves just the ticket
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00002/software-engineering-degree-proves-just-the-ticket.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/05/01/software-engineering-degree-proves-just-the-ticket/index.html
+layout: layout.njk
 ---
 Software engineering degree proves just the ticket
 ==================================================

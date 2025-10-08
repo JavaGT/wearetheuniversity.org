@@ -1,9 +1,12 @@
 ---
 slug: government-back-down-on-broadband-confirmed
-title: "Government back-down on broadband confirmed"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/PA0905/S00108/government-back-down-on-broadband-confirmed.htm
+title: Government back-down on broadband confirmed
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00108/government-back-down-on-broadband-confirmed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/06/government-back-down-on-broadband-confirmed/index.html
+layout: layout.njk
 ---
 Government back-down on broadband confirmed
 ===========================================

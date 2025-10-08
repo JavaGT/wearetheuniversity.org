@@ -1,9 +1,12 @@
 ---
 slug: speech-marama-davidson-green-party-agm
-title: "Speech: Marama Davidson - Green Party AGM"
-date: 2019-08-04
-source-url: https://www.scoop.co.nz/stories/PA1908/S00043/speech-marama-davidson-green-party-agm.htm
+title: 'Speech: Marama Davidson - Green Party AGM'
+date: 2019-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00043/speech-marama-davidson-green-party-agm.htm
 author: green-party
+permalink: /archive/2019/08/04/speech-marama-davidson-green-party-agm/index.html
+layout: layout.njk
 ---
 Speech: Marama Davidson - Green Party AGM
 =========================================

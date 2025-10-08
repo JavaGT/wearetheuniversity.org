@@ -1,9 +1,13 @@
 ---
 slug: government-can-stop-everyone-leaving-auckland-except-criminals
-title: "Government can stop everyone leaving Auckland – except criminals"
-date: 2021-09-20
-source-url: https://www.scoop.co.nz/stories/PA2109/S00166/government-can-stop-everyone-leaving-auckland-except-criminals.htm
+title: Government can stop everyone leaving Auckland – except criminals
+date: 2021-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00166/government-can-stop-everyone-leaving-auckland-except-criminals.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/09/20/government-can-stop-everyone-leaving-auckland-except-criminals/index.html
+layout: layout.njk
 ---
 Government can stop everyone leaving Auckland – except criminals
 ================================================================

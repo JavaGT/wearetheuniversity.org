@@ -1,9 +1,13 @@
 ---
 slug: child-and-youth-mental-health-need-better-funding
-title: "Child and youth mental health need better funding"
-date: 2008-03-31
-source-url: https://www.scoop.co.nz/stories/PA0803/S00509/child-and-youth-mental-health-need-better-funding.htm
+title: Child and youth mental health need better funding
+date: 2008-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00509/child-and-youth-mental-health-need-better-funding.htm
 author: green-party
+permalink: >-
+  /archive/2008/03/31/child-and-youth-mental-health-need-better-funding/index.html
+layout: layout.njk
 ---
 Child and youth mental health need better funding
 =================================================

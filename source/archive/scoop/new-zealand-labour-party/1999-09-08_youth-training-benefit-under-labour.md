@@ -1,9 +1,12 @@
 ---
 slug: youth-training-benefit-under-labour
-title: "Youth training benefit under Labour"
-date: 1999-09-08
-source-url: https://www.scoop.co.nz/stories/PA9909/S00176/youth-training-benefit-under-labour.htm
+title: Youth training benefit under Labour
+date: 1999-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00176/youth-training-benefit-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/08/youth-training-benefit-under-labour/index.html
+layout: layout.njk
 ---
 Youth training benefit under Labour
 ===================================

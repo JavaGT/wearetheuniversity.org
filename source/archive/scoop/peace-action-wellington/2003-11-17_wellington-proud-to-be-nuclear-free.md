@@ -1,9 +1,12 @@
 ---
 slug: wellington-proud-to-be-nuclear-free
-title: "Wellington: proud to be nuclear-free"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/PO0311/S00114/wellington-proud-to-be-nuclear-free.htm
+title: 'Wellington: proud to be nuclear-free'
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00114/wellington-proud-to-be-nuclear-free.htm
 author: peace-action-wellington
+permalink: /archive/2003/11/17/wellington-proud-to-be-nuclear-free/index.html
+layout: layout.njk
 ---
 Wellington: proud to be nuclear-free
 ====================================

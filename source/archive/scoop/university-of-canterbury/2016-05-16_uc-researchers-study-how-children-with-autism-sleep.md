@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-study-how-children-with-autism-sleep
-title: "UC researchers study how children with autism sleep"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/GE1605/S00082/uc-researchers-study-how-children-with-autism-sleep.htm
+title: UC researchers study how children with autism sleep
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00082/uc-researchers-study-how-children-with-autism-sleep.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/16/uc-researchers-study-how-children-with-autism-sleep/index.html
+layout: layout.njk
 ---
 UC researchers study how children with autism sleep
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-5-september-2008
-title: "News Worthy - 5 September 2008"
-date: 2008-09-05
+title: News Worthy - 5 September 2008
+date: 2008-09-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0809/S00121/news-worthy-5-september-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/05/news-worthy-5-september-2008/index.html
+layout: layout.njk
 ---
 News Worthy - 5 September 2008
 ==============================

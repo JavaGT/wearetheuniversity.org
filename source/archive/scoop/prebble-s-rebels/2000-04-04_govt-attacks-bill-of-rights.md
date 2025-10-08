@@ -1,9 +1,11 @@
 ---
 slug: govt-attacks-bill-of-rights
-title: "Govt Attacks Bill Of Rights"
-date: 2000-04-04
+title: Govt Attacks Bill Of Rights
+date: 2000-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0004/S00012/govt-attacks-bill-of-rights.htm
 author: prebble-s-rebels
+permalink: /archive/2000/04/04/govt-attacks-bill-of-rights/index.html
+layout: layout.njk
 ---
 Govt Attacks Bill Of Rights
 ===========================

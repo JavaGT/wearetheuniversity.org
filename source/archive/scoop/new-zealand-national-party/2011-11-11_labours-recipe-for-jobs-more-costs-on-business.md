@@ -1,9 +1,12 @@
 ---
 slug: labours-recipe-for-jobs-more-costs-on-business
-title: "Labour’s recipe for jobs: more costs on business"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/PA1111/S00226/labours-recipe-for-jobs-more-costs-on-business.htm
+title: 'Labour’s recipe for jobs: more costs on business'
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00226/labours-recipe-for-jobs-more-costs-on-business.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/11/labours-recipe-for-jobs-more-costs-on-business/index.html
+layout: layout.njk
 ---
 Labour’s recipe for jobs: more costs on business
 ================================================

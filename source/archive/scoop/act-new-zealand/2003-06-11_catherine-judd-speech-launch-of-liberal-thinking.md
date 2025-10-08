@@ -1,9 +1,13 @@
 ---
 slug: catherine-judd-speech-launch-of-liberal-thinking
-title: "Catherine Judd  Speech: Launch of Liberal Thinking"
-date: 2003-06-11
-source-url: https://www.scoop.co.nz/stories/PA0306/S00186/catherine-judd-speech-launch-of-liberal-thinking.htm
+title: 'Catherine Judd  Speech: Launch of Liberal Thinking'
+date: 2003-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00186/catherine-judd-speech-launch-of-liberal-thinking.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/06/11/catherine-judd-speech-launch-of-liberal-thinking/index.html
+layout: layout.njk
 ---
 Catherine Judd Speech: Launch of Liberal Thinking
 =================================================

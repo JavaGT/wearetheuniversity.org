@@ -1,9 +1,12 @@
 ---
 slug: ncea-focus-on-standards-and-fairness-not-pr
-title: "NCEA: Focus on standards and fairness, not PR"
-date: 2006-07-04
-source-url: https://www.scoop.co.nz/stories/PA0607/S00052/ncea-focus-on-standards-and-fairness-not-pr.htm
+title: 'NCEA: Focus on standards and fairness, not PR'
+date: 2006-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00052/ncea-focus-on-standards-and-fairness-not-pr.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/04/ncea-focus-on-standards-and-fairness-not-pr/index.html
+layout: layout.njk
 ---
 NCEA: Focus on standards and fairness, not PR
 =============================================

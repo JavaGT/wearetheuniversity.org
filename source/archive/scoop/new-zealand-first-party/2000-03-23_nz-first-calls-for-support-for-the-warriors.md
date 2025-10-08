@@ -1,9 +1,12 @@
 ---
 slug: nz-first-calls-for-support-for-the-warriors
-title: "NZ First Calls For Support For The Warriors"
-date: 2000-03-23
-source-url: https://www.scoop.co.nz/stories/PA0003/S00401/nz-first-calls-for-support-for-the-warriors.htm
+title: NZ First Calls For Support For The Warriors
+date: 2000-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00401/nz-first-calls-for-support-for-the-warriors.htm
 author: new-zealand-first-party
+permalink: /archive/2000/03/23/nz-first-calls-for-support-for-the-warriors/index.html
+layout: layout.njk
 ---
 NZ First Calls For Support For The Warriors
 ===========================================

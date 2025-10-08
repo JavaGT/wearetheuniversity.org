@@ -1,9 +1,13 @@
 ---
 slug: nationals-motorways-driving-local-roads-into-disrepair
-title: "National’s motorways driving local roads into disrepair"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00373/nationals-motorways-driving-local-roads-into-disrepair.htm
+title: National’s motorways driving local roads into disrepair
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00373/nationals-motorways-driving-local-roads-into-disrepair.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/23/nationals-motorways-driving-local-roads-into-disrepair/index.html
+layout: layout.njk
 ---
 National’s motorways driving local roads into disrepair
 =======================================================

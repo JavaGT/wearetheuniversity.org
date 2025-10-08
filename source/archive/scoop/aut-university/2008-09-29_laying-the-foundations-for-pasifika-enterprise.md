@@ -1,9 +1,12 @@
 ---
 slug: laying-the-foundations-for-pasifika-enterprise
-title: "Laying the foundations for Pasifika enterprise"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/ED0809/S00096/laying-the-foundations-for-pasifika-enterprise.htm
+title: Laying the foundations for Pasifika enterprise
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00096/laying-the-foundations-for-pasifika-enterprise.htm
 author: aut-university
+permalink: /archive/2008/09/29/laying-the-foundations-for-pasifika-enterprise/index.html
+layout: layout.njk
 ---
 Laying the foundations for Pasifika enterprise
 ==============================================

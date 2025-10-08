@@ -1,9 +1,12 @@
 ---
 slug: new-findings-on-why-antarctic-ice-sheets-melt
-title: "New findings on why Antarctic ice sheets melt"
-date: 2011-01-17
-source-url: https://www.scoop.co.nz/stories/SC1101/S00027/new-findings-on-why-antarctic-ice-sheets-melt.htm
+title: New findings on why Antarctic ice sheets melt
+date: 2011-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00027/new-findings-on-why-antarctic-ice-sheets-melt.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/01/17/new-findings-on-why-antarctic-ice-sheets-melt/index.html
+layout: layout.njk
 ---
 New findings on why Antarctic ice sheets melt
 =============================================

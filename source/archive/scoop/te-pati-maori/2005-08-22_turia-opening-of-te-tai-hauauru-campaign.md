@@ -1,9 +1,12 @@
 ---
 slug: turia-opening-of-te-tai-hauauru-campaign
-title: "Turia: Opening of Te Tai Hauauru Campaign"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00532/turia-opening-of-te-tai-hauauru-campaign.htm
+title: 'Turia: Opening of Te Tai Hauauru Campaign'
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00532/turia-opening-of-te-tai-hauauru-campaign.htm
 author: te-pati-maori
+permalink: /archive/2005/08/22/turia-opening-of-te-tai-hauauru-campaign/index.html
+layout: layout.njk
 ---
 Turia: Opening of Te Tai Hauauru Campaign
 =========================================

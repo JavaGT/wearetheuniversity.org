@@ -1,9 +1,12 @@
 ---
 slug: ucs-roy-kerr-awarded-einstein-medal
-title: "UC's Roy Kerr awarded Einstein Medal"
-date: 2012-12-19
-source-url: https://www.scoop.co.nz/stories/SC1212/S00040/ucs-roy-kerr-awarded-einstein-medal.htm
+title: UC's Roy Kerr awarded Einstein Medal
+date: 2012-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00040/ucs-roy-kerr-awarded-einstein-medal.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/19/ucs-roy-kerr-awarded-einstein-medal/index.html
+layout: layout.njk
 ---
 UC's Roy Kerr awarded Einstein Medal
 ====================================

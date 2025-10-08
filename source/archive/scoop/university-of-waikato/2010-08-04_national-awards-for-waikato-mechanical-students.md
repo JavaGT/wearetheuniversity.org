@@ -1,9 +1,12 @@
 ---
 slug: national-awards-for-waikato-mechanical-students
-title: "National awards for Waikato Mechanical students"
-date: 2010-08-04
-source-url: https://www.scoop.co.nz/stories/ED1008/S00013/national-awards-for-waikato-mechanical-students.htm
+title: National awards for Waikato Mechanical students
+date: 2010-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00013/national-awards-for-waikato-mechanical-students.htm
 author: university-of-waikato
+permalink: /archive/2010/08/04/national-awards-for-waikato-mechanical-students/index.html
+layout: layout.njk
 ---
 National awards for Waikato Mechanical students
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: aust-citizenship-pathway-is-only-a-good-start
-title: "Aust citizenship pathway is only a good start"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/PA1602/S00284/aust-citizenship-pathway-is-only-a-good-start.htm
+title: Aust citizenship pathway is only a good start
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00284/aust-citizenship-pathway-is-only-a-good-start.htm
 author: green-party
+permalink: /archive/2016/02/19/aust-citizenship-pathway-is-only-a-good-start/index.html
+layout: layout.njk
 ---
 Aust citizenship pathway is only a good start
 =============================================

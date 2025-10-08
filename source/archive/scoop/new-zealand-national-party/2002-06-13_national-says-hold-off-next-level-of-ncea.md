@@ -1,9 +1,12 @@
 ---
 slug: national-says-hold-off-next-level-of-ncea
-title: "National Says Hold Off Next Level Of NCEA"
-date: 2002-06-13
-source-url: https://www.scoop.co.nz/stories/PA0206/S00194/national-says-hold-off-next-level-of-ncea.htm
+title: National Says Hold Off Next Level Of NCEA
+date: 2002-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00194/national-says-hold-off-next-level-of-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/13/national-says-hold-off-next-level-of-ncea/index.html
+layout: layout.njk
 ---
 National Says Hold Off Next Level Of NCEA
 =========================================

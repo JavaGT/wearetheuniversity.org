@@ -1,9 +1,13 @@
 ---
 slug: manukau-harbour-researchers-keen-to-hear-from-locals
-title: "Manukau Harbour researchers keen to hear from locals"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/ED1403/S00095/manukau-harbour-researchers-keen-to-hear-from-locals.htm
+title: Manukau Harbour researchers keen to hear from locals
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00095/manukau-harbour-researchers-keen-to-hear-from-locals.htm
 author: aut-university
+permalink: >-
+  /archive/2014/03/18/manukau-harbour-researchers-keen-to-hear-from-locals/index.html
+layout: layout.njk
 ---
 Manukau Harbour researchers keen to hear from locals
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-classrooms-for-te-atatū-intermediate
-title: "New classrooms for Te Atatū Intermediate"
-date: 2015-07-27
-source-url: https://www.scoop.co.nz/stories/PA1507/S00464/new-classrooms-for-te-atatu-intermediate.htm
+title: New classrooms for Te Atatū Intermediate
+date: 2015-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00464/new-classrooms-for-te-atatu-intermediate.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/27/new-classrooms-for-te-atat/index.html
+layout: layout.njk
 ---
 New classrooms for Te Atatū Intermediate
 ========================================

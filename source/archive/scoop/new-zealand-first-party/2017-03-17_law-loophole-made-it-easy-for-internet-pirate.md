@@ -1,9 +1,12 @@
 ---
 slug: law-loophole-made-it-easy-for-internet-pirate
-title: "Law Loophole Made It Easy for Internet Pirate"
-date: 2017-03-17
-source-url: https://www.scoop.co.nz/stories/PA1703/S00307/law-loophole-made-it-easy-for-internet-pirate.htm
+title: Law Loophole Made It Easy for Internet Pirate
+date: 2017-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00307/law-loophole-made-it-easy-for-internet-pirate.htm
 author: new-zealand-first-party
+permalink: /archive/2017/03/17/law-loophole-made-it-easy-for-internet-pirate/index.html
+layout: layout.njk
 ---
 Law Loophole Made It Easy for Internet Pirate
 =============================================

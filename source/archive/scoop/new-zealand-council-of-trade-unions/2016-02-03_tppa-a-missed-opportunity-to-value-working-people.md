@@ -1,9 +1,13 @@
 ---
 slug: tppa-a-missed-opportunity-to-value-working-people
-title: "TPPA: a missed opportunity to value working people"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/PO1602/S00058/tppa-a-missed-opportunity-to-value-working-people.htm
+title: 'TPPA: a missed opportunity to value working people'
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00058/tppa-a-missed-opportunity-to-value-working-people.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/02/03/tppa-a-missed-opportunity-to-value-working-people/index.html
+layout: layout.njk
 ---
 TPPA: a missed opportunity to value working people
 ==================================================

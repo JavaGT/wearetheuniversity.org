@@ -1,9 +1,12 @@
 ---
 slug: treaty-and-māori-affairs-policies-released
-title: "Treaty and Māori Affairs policies released"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PA1409/S00186/treaty-and-maori-affairs-policies-released.htm
+title: Treaty and Māori Affairs policies released
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00186/treaty-and-maori-affairs-policies-released.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/12/treaty-and-m/index.html
+layout: layout.njk
 ---
 Treaty and Māori Affairs policies released
 ==========================================

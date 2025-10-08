@@ -1,9 +1,12 @@
 ---
 slug: inaugural-nz-schools-japanese-trivia-quiz
-title: "Inaugural NZ Schools Japanese Trivia Quiz"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/ED1506/S00099/inaugural-nz-schools-japanese-trivia-quiz.htm
+title: Inaugural NZ Schools Japanese Trivia Quiz
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00099/inaugural-nz-schools-japanese-trivia-quiz.htm
 author: massey-university
+permalink: /archive/2015/06/19/inaugural-nz-schools-japanese-trivia-quiz/index.html
+layout: layout.njk
 ---
 Inaugural NZ Schools Japanese Trivia Quiz
 =========================================

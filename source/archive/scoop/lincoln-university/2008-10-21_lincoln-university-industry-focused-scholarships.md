@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-industry-focused-scholarships
-title: "Lincoln University Industry Focused Scholarships"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/ED0810/S00089/lincoln-university-industry-focused-scholarships.htm
+title: Lincoln University Industry Focused Scholarships
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00089/lincoln-university-industry-focused-scholarships.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/10/21/lincoln-university-industry-focused-scholarships/index.html
+layout: layout.njk
 ---
 Lincoln University Industry Focused Scholarships
 ================================================

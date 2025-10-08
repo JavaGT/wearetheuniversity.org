@@ -1,9 +1,12 @@
 ---
 slug: labour-applauds-capitals-housing-development
-title: "Labour applauds Capital’s housing development"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/PA1702/S00316/labour-applauds-capitals-housing-development.htm
+title: Labour applauds Capital’s housing development
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00316/labour-applauds-capitals-housing-development.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/23/labour-applauds-capitals-housing-development/index.html
+layout: layout.njk
 ---
 Labour applauds Capital’s housing development
 =============================================

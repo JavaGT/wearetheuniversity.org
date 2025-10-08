@@ -1,9 +1,16 @@
 ---
-slug: green-party-announce-portfolio-reshuffle-with-talented-and-energised-caucus-team
-title: "Green Party Announce Portfolio Reshuffle With Talented And Energised Caucus Team"
-date: 2020-11-23
-source-url: https://www.scoop.co.nz/stories/PA2011/S00072/green-party-announce-portfolio-reshuffle-with-talented-and-energised-caucus-team.htm
+slug: >-
+  green-party-announce-portfolio-reshuffle-with-talented-and-energised-caucus-team
+title: >-
+  Green Party Announce Portfolio Reshuffle With Talented And Energised Caucus
+  Team
+date: 2020-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00072/green-party-announce-portfolio-reshuffle-with-talented-and-energised-caucus-team.htm
 author: green-party
+permalink: >-
+  /archive/2020/11/23/green-party-announce-portfolio-reshuffle-with-talented-and-energised-caucus-team/index.html
+layout: layout.njk
 ---
 Green Party Announce Portfolio Reshuffle With Talented And Energised Caucus Team
 ================================================================================

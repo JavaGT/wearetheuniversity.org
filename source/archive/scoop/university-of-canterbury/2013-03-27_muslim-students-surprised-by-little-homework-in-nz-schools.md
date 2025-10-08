@@ -1,9 +1,13 @@
 ---
 slug: muslim-students-surprised-by-little-homework-in-nz-schools
-title: "Muslim Students Surprised By Little Homework In NZ Schools"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/ED1303/S00192/muslim-students-surprised-by-little-homework-in-nz-schools.htm
+title: Muslim Students Surprised By Little Homework In NZ Schools
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00192/muslim-students-surprised-by-little-homework-in-nz-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/27/muslim-students-surprised-by-little-homework-in-nz-schools/index.html
+layout: layout.njk
 ---
 Muslim Students Surprised By Little Homework In NZ Schools
 ==========================================================

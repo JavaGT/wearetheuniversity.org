@@ -1,9 +1,12 @@
 ---
 slug: detector-dogs-snooze-while-new-zealanders-lose
-title: "Detector dogs snooze while New Zealanders lose"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/PA1809/S00288/detector-dogs-snooze-while-new-zealanders-lose.htm
+title: Detector dogs snooze while New Zealanders lose
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00288/detector-dogs-snooze-while-new-zealanders-lose.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/21/detector-dogs-snooze-while-new-zealanders-lose/index.html
+layout: layout.njk
 ---
 Detector dogs snooze while New Zealanders lose
 ==============================================

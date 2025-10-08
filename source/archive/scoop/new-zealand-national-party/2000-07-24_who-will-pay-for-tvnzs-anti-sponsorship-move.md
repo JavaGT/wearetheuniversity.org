@@ -1,9 +1,12 @@
 ---
 slug: who-will-pay-for-tvnzs-anti-sponsorship-move
-title: "Who will pay for TVNZ's anti-sponsorship move?"
-date: 2000-07-24
-source-url: https://www.scoop.co.nz/stories/PA0007/S00358/who-will-pay-for-tvnzs-anti-sponsorship-move.htm
+title: Who will pay for TVNZ's anti-sponsorship move?
+date: 2000-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00358/who-will-pay-for-tvnzs-anti-sponsorship-move.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/24/who-will-pay-for-tvnzs-anti-sponsorship-move/index.html
+layout: layout.njk
 ---
 Who will pay for TVNZ's anti-sponsorship move?
 ==============================================

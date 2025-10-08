@@ -1,9 +1,13 @@
 ---
 slug: canterbury-announces-special-graduate-celebrations
-title: "Canterbury announces special graduate celebrations"
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/ED1103/S00079/canterbury-announces-special-graduate-celebrations.htm
+title: Canterbury announces special graduate celebrations
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00079/canterbury-announces-special-graduate-celebrations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/17/canterbury-announces-special-graduate-celebrations/index.html
+layout: layout.njk
 ---
 Canterbury announces special graduate celebrations
 ==================================================

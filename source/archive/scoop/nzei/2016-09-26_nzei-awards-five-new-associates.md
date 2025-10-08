@@ -1,9 +1,12 @@
 ---
 slug: nzei-awards-five-new-associates
-title: "NZEI awards five new associates"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00130/nzei-awards-five-new-associates.htm
+title: NZEI awards five new associates
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00130/nzei-awards-five-new-associates.htm
 author: nzei
+permalink: /archive/2016/09/26/nzei-awards-five-new-associates/index.html
+layout: layout.njk
 ---
 NZEI awards five new associates
 ===============================

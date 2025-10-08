@@ -1,9 +1,13 @@
 ---
 slug: education-minister-still-not-listening-to-christchurch
-title: "Education Minister still not listening to Christchurch"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/ED1211/S00097/education-minister-still-not-listening-to-christchurch.htm
+title: Education Minister still not listening to Christchurch
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00097/education-minister-still-not-listening-to-christchurch.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/13/education-minister-still-not-listening-to-christchurch/index.html
+layout: layout.njk
 ---
 Education Minister still not listening to Christchurch
 ======================================================

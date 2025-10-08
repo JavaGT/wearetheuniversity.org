@@ -1,9 +1,12 @@
 ---
 slug: special-education-review-lost-on-ministry
-title: "Special education review lost on Ministry"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/PA1512/S00077/special-education-review-lost-on-ministry.htm
+title: Special education review lost on Ministry
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00077/special-education-review-lost-on-ministry.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/03/special-education-review-lost-on-ministry/index.html
+layout: layout.njk
 ---
 Special education review lost on Ministry
 =========================================

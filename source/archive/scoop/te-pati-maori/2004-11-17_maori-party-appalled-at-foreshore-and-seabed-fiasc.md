@@ -1,9 +1,13 @@
 ---
 slug: maori-party-appalled-at-foreshore-and-seabed-fiasc
-title: "Maori Party Appalled At Foreshore And Seabed Fiasc"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/PA0411/S00368/maori-party-appalled-at-foreshore-and-seabed-fiasc.htm
+title: Maori Party Appalled At Foreshore And Seabed Fiasc
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00368/maori-party-appalled-at-foreshore-and-seabed-fiasc.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/11/17/maori-party-appalled-at-foreshore-and-seabed-fiasc/index.html
+layout: layout.njk
 ---
 Maori Party Appalled At Foreshore And Seabed Fiasc
 ==================================================

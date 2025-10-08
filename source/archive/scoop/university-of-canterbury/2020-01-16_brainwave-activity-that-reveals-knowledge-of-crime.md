@@ -1,9 +1,13 @@
 ---
 slug: brainwave-activity-that-reveals-knowledge-of-crime
-title: "Brainwave activity that reveals knowledge of crime"
-date: 2020-01-16
-source-url: https://www.scoop.co.nz/stories/ED2001/S00008/brainwave-activity-that-reveals-knowledge-of-crime.htm
+title: Brainwave activity that reveals knowledge of crime
+date: 2020-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00008/brainwave-activity-that-reveals-knowledge-of-crime.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/01/16/brainwave-activity-that-reveals-knowledge-of-crime/index.html
+layout: layout.njk
 ---
 Brainwave activity that reveals knowledge of crime
 ==================================================

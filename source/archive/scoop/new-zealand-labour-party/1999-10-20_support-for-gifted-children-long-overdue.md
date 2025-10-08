@@ -1,9 +1,12 @@
 ---
 slug: support-for-gifted-children-long-overdue
-title: "Support for gifted children long overdue"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00436/support-for-gifted-children-long-overdue.htm
+title: Support for gifted children long overdue
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00436/support-for-gifted-children-long-overdue.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/support-for-gifted-children-long-overdue/index.html
+layout: layout.njk
 ---
 Support for gifted children long overdue
 ========================================

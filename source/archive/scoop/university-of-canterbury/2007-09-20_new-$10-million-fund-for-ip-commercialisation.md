@@ -1,9 +1,12 @@
 ---
 slug: new-$10-million-fund-for-ip-commercialisation
-title: "New $10 million fund for IP commercialisation"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/ED0709/S00063/new-10-million-fund-for-ip-commercialisation.htm
+title: New $10 million fund for IP commercialisation
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00063/new-10-million-fund-for-ip-commercialisation.htm
 author: university-of-canterbury
+permalink: /archive/2007/09/20/new-/index.html
+layout: layout.njk
 ---
 New $10 million fund for IP commercialisation
 =============================================

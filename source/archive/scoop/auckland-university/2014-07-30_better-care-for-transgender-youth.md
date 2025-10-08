@@ -1,9 +1,12 @@
 ---
 slug: better-care-for-transgender-youth
-title: "Better care for transgender youth"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PO1407/S00481/better-care-for-transgender-youth.htm
+title: Better care for transgender youth
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00481/better-care-for-transgender-youth.htm
 author: auckland-university
+permalink: /archive/2014/07/30/better-care-for-transgender-youth/index.html
+layout: layout.njk
 ---
 Better care for transgender youth
 =================================

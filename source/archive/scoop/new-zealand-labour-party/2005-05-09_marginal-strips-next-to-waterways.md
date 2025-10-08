@@ -1,9 +1,12 @@
 ---
 slug: marginal-strips-next-to-waterways
-title: "Marginal strips next to waterways"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/PA0505/S00189/marginal-strips-next-to-waterways.htm
+title: Marginal strips next to waterways
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00189/marginal-strips-next-to-waterways.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/05/09/marginal-strips-next-to-waterways/index.html
+layout: layout.njk
 ---
 Marginal strips next to waterways
 =================================

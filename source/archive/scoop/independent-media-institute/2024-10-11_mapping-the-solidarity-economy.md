@@ -1,9 +1,12 @@
 ---
 slug: mapping-the-solidarity-economy
-title: "Mapping The Solidarity Economy"
-date: 2024-10-11
-source-url: https://www.scoop.co.nz/stories/WO2410/S00150/mapping-the-solidarity-economy.htm
+title: Mapping The Solidarity Economy
+date: 2024-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00150/mapping-the-solidarity-economy.htm
 author: independent-media-institute
+permalink: /archive/2024/10/11/mapping-the-solidarity-economy/index.html
+layout: layout.njk
 ---
 Mapping The Solidarity Economy
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: green-party-practical-joke-on-millennials-voted-down
-title: "Green Party practical joke on millennials voted down"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/PA1703/S00377/green-party-practical-joke-on-millennials-voted-down.htm
+title: Green Party practical joke on millennials voted down
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00377/green-party-practical-joke-on-millennials-voted-down.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/03/22/green-party-practical-joke-on-millennials-voted-down/index.html
+layout: layout.njk
 ---
 Green Party practical joke on millennials voted down
 ====================================================

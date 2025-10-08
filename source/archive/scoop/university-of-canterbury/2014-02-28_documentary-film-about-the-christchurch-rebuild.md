@@ -1,9 +1,12 @@
 ---
 slug: documentary-film-about-the-christchurch-rebuild
-title: "Documentary film about the Christchurch rebuild"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/CU1402/S00602/documentary-film-about-the-christchurch-rebuild.htm
+title: Documentary film about the Christchurch rebuild
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00602/documentary-film-about-the-christchurch-rebuild.htm
 author: university-of-canterbury
+permalink: /archive/2014/02/28/documentary-film-about-the-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 Documentary film about the Christchurch rebuild
 ===============================================

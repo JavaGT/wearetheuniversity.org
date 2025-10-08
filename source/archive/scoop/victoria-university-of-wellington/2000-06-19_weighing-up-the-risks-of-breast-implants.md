@@ -1,9 +1,12 @@
 ---
 slug: weighing-up-the-risks-of-breast-implants
-title: "Weighing up the risks of breast implants"
-date: 2000-06-19
-source-url: https://www.scoop.co.nz/stories/SC0006/S00017/weighing-up-the-risks-of-breast-implants.htm
+title: Weighing up the risks of breast implants
+date: 2000-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00017/weighing-up-the-risks-of-breast-implants.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/19/weighing-up-the-risks-of-breast-implants/index.html
+layout: layout.njk
 ---
 Weighing up the risks of breast implants
 ========================================

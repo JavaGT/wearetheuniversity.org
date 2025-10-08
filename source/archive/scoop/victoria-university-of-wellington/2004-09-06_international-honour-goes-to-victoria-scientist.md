@@ -1,9 +1,12 @@
 ---
 slug: international-honour-goes-to-victoria-scientist
-title: "International honour goes to Victoria scientist"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/SC0409/S00015/international-honour-goes-to-victoria-scientist.htm
+title: International honour goes to Victoria scientist
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0409/S00015/international-honour-goes-to-victoria-scientist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/06/international-honour-goes-to-victoria-scientist/index.html
+layout: layout.njk
 ---
 International honour goes to Victoria scientist
 ===============================================

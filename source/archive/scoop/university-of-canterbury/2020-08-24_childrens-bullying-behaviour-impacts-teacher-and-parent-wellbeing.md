@@ -1,9 +1,13 @@
 ---
 slug: childrens-bullying-behaviour-impacts-teacher-and-parent-wellbeing
-title: "Children’s Bullying Behaviour Impacts Teacher And Parent Wellbeing"
-date: 2020-08-24
-source-url: https://www.scoop.co.nz/stories/SC2008/S00050/childrens-bullying-behaviour-impacts-teacher-and-parent-wellbeing.htm
+title: Children’s Bullying Behaviour Impacts Teacher And Parent Wellbeing
+date: 2020-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00050/childrens-bullying-behaviour-impacts-teacher-and-parent-wellbeing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/24/childrens-bullying-behaviour-impacts-teacher-and-parent-wellbeing/index.html
+layout: layout.njk
 ---
 Children’s Bullying Behaviour Impacts Teacher And Parent Wellbeing
 ==================================================================

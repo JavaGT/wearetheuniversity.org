@@ -1,9 +1,12 @@
 ---
 slug: exploring-the-frontiers-of-digital-fabrication
-title: "Exploring the frontiers of digital fabrication"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/AK1208/S00353/exploring-the-frontiers-of-digital-fabrication.htm
+title: Exploring the frontiers of digital fabrication
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00353/exploring-the-frontiers-of-digital-fabrication.htm
 author: massey-university
+permalink: /archive/2012/08/16/exploring-the-frontiers-of-digital-fabrication/index.html
+layout: layout.njk
 ---
 Exploring the frontiers of digital fabrication
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: landslide-buries-climate-change-link
-title: "Landslide buries climate change link"
-date: 2008-07-01
-source-url: https://www.scoop.co.nz/stories/ED0807/S00001/landslide-buries-climate-change-link.htm
+title: Landslide buries climate change link
+date: 2008-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00001/landslide-buries-climate-change-link.htm
 author: university-of-canterbury
+permalink: /archive/2008/07/01/landslide-buries-climate-change-link/index.html
+layout: layout.njk
 ---
 Landslide buries climate change link
 ====================================

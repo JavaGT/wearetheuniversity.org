@@ -1,9 +1,13 @@
 ---
 slug: duncan-sarkies-to-kick-off-2012-writers-read-in-wellington
-title: "Duncan Sarkies to kick off 2012 Writers Read in Wellington"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/CU1205/S00208/duncan-sarkies-to-kick-off-2012-writers-read-in-wellington.htm
+title: Duncan Sarkies to kick off 2012 Writers Read in Wellington
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1205/S00208/duncan-sarkies-to-kick-off-2012-writers-read-in-wellington.htm
 author: massey-university
+permalink: >-
+  /archive/2012/05/16/duncan-sarkies-to-kick-off-2012-writers-read-in-wellington/index.html
+layout: layout.njk
 ---
 Duncan Sarkies to kick off 2012 Writers Read in Wellington
 ==========================================================

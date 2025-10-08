@@ -1,9 +1,12 @@
 ---
 slug: student-choice-welcomes-new-tertiary-team
-title: "Student Choice Welcomes New Tertiary Team"
-date: 2008-11-18
-source-url: https://www.scoop.co.nz/stories/PO0811/S00224/student-choice-welcomes-new-tertiary-team.htm
+title: Student Choice Welcomes New Tertiary Team
+date: 2008-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00224/student-choice-welcomes-new-tertiary-team.htm
 author: student-choice
+permalink: /archive/2008/11/18/student-choice-welcomes-new-tertiary-team/index.html
+layout: layout.njk
 ---
 Student Choice Welcomes New Tertiary Team
 =========================================

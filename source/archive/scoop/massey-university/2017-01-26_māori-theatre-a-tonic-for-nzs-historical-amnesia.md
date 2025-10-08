@@ -1,9 +1,12 @@
 ---
 slug: māori-theatre-a-tonic-for-nzs-historical-amnesia
-title: "Māori theatre a tonic for NZ’s ‘historical amnesia’"
-date: 2017-01-26
-source-url: https://www.scoop.co.nz/stories/CU1701/S00255/maori-theatre-a-tonic-for-nzs-historical-amnesia.htm
+title: Māori theatre a tonic for NZ’s ‘historical amnesia’
+date: 2017-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1701/S00255/maori-theatre-a-tonic-for-nzs-historical-amnesia.htm
 author: massey-university
+permalink: /archive/2017/01/26/m/index.html
+layout: layout.njk
 ---
 Māori theatre a tonic for NZ’s ‘historical amnesia’
 ===================================================

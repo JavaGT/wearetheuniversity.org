@@ -1,9 +1,13 @@
 ---
 slug: uc-student-helps-tongas-ministry-of-health-fight-mosquitos
-title: "UC student helps Tonga’s Ministry of Health fight mosquitos"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/GE1412/S00091/uc-student-helps-tongas-ministry-of-health-fight-mosquitos.htm
+title: UC student helps Tonga’s Ministry of Health fight mosquitos
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1412/S00091/uc-student-helps-tongas-ministry-of-health-fight-mosquitos.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/15/uc-student-helps-tongas-ministry-of-health-fight-mosquitos/index.html
+layout: layout.njk
 ---
 UC student helps Tonga’s Ministry of Health fight mosquitos
 ===========================================================

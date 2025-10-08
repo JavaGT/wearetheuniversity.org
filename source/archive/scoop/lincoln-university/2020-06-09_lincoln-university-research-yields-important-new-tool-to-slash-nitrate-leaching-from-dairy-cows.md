@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-research-yields-important-new-tool-to-slash-nitrate-leaching-from-dairy-cows
-title: "Lincoln University Research Yields Important New Tool To Slash Nitrate Leaching From Dairy Cows"
-date: 2020-06-09
-source-url: https://www.scoop.co.nz/stories/SC2006/S00025/lincoln-university-research-yields-important-new-tool-to-slash-nitrate-leaching-from-dairy-cows.htm
+slug: >-
+  lincoln-university-research-yields-important-new-tool-to-slash-nitrate-leaching-from-dairy-cows
+title: >-
+  Lincoln University Research Yields Important New Tool To Slash Nitrate
+  Leaching From Dairy Cows
+date: 2020-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00025/lincoln-university-research-yields-important-new-tool-to-slash-nitrate-leaching-from-dairy-cows.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/06/09/lincoln-university-research-yields-important-new-tool-to-slash-nitrate-leaching-from-dairy-cows/index.html
+layout: layout.njk
 ---
 Lincoln University Research Yields Important New Tool To Slash Nitrate Leaching From Dairy Cows
 ===============================================================================================

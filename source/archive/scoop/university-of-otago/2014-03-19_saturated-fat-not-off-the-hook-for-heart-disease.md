@@ -1,9 +1,13 @@
 ---
 slug: saturated-fat-not-off-the-hook-for-heart-disease
-title: "Saturated fat not off the hook for heart disease"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/GE1403/S00097/saturated-fat-not-off-the-hook-for-heart-disease.htm
+title: Saturated fat not off the hook for heart disease
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00097/saturated-fat-not-off-the-hook-for-heart-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/19/saturated-fat-not-off-the-hook-for-heart-disease/index.html
+layout: layout.njk
 ---
 Saturated fat not off the hook for heart disease
 ================================================

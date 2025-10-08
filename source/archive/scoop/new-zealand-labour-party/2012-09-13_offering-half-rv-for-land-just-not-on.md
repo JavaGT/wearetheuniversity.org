@@ -1,9 +1,12 @@
 ---
 slug: offering-half-rv-for-land-just-not-on
-title: "Offering half RV for land just not on"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00219/offering-half-rv-for-land-just-not-on.htm
+title: Offering half RV for land just not on
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00219/offering-half-rv-for-land-just-not-on.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/13/offering-half-rv-for-land-just-not-on/index.html
+layout: layout.njk
 ---
 Offering half RV for land just not on
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: mallard-considers-education-vouchers
-title: "Mallard Considers Education Vouchers"
-date: 2002-02-26
-source-url: https://www.scoop.co.nz/stories/PA0202/S00383/mallard-considers-education-vouchers.htm
+title: Mallard Considers Education Vouchers
+date: 2002-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00383/mallard-considers-education-vouchers.htm
 author: act-new-zealand
+permalink: /archive/2002/02/26/mallard-considers-education-vouchers/index.html
+layout: layout.njk
 ---
 Mallard Considers Education Vouchers
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: budding-entrepreneurs-could-take-on-dragons
-title: "Budding entrepreneurs could take on Dragons"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/ED0703/S00051/budding-entrepreneurs-could-take-on-dragons.htm
+title: Budding entrepreneurs could take on Dragons
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00051/budding-entrepreneurs-could-take-on-dragons.htm
 author: aut-university
+permalink: /archive/2007/03/15/budding-entrepreneurs-could-take-on-dragons/index.html
+layout: layout.njk
 ---
 Budding entrepreneurs could take on Dragons
 ===========================================

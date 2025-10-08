@@ -1,9 +1,12 @@
 ---
 slug: fees-free-sucks-up-tertiary-money-for-nothing
-title: "Fees-free sucks up tertiary money for nothing"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/PA1805/S00328/fees-free-sucks-up-tertiary-money-for-nothing.htm
+title: Fees-free sucks up tertiary money for nothing
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00328/fees-free-sucks-up-tertiary-money-for-nothing.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/24/fees-free-sucks-up-tertiary-money-for-nothing/index.html
+layout: layout.njk
 ---
 Fees-free sucks up tertiary money for nothing
 =============================================

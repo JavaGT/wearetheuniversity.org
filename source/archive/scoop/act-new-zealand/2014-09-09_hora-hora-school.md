@@ -1,9 +1,11 @@
 ---
 slug: hora-hora-school
-title: "Hora Hora School"
-date: 2014-09-09
+title: Hora Hora School
+date: 2014-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1409/S00197/hora-hora-school.htm
 author: act-new-zealand
+permalink: /archive/2014/09/09/hora-hora-school/index.html
+layout: layout.njk
 ---
 Hora Hora School
 ================

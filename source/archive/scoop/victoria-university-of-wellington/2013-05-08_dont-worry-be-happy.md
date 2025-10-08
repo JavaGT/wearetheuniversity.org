@@ -1,9 +1,11 @@
 ---
 slug: dont-worry-be-happy
-title: "Don’t worry, be happy"
-date: 2013-05-08
+title: Don’t worry, be happy
+date: 2013-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1305/S00046/dont-worry-be-happy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/08/dont-worry-be-happy/index.html
+layout: layout.njk
 ---
 Don’t worry, be happy
 =====================

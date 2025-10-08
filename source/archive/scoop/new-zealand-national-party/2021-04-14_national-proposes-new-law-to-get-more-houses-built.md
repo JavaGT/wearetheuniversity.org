@@ -1,9 +1,13 @@
 ---
 slug: national-proposes-new-law-to-get-more-houses-built
-title: "National Proposes New Law To Get More Houses Built"
-date: 2021-04-14
-source-url: https://www.scoop.co.nz/stories/PA2104/S00081/national-proposes-new-law-to-get-more-houses-built.htm
+title: National Proposes New Law To Get More Houses Built
+date: 2021-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00081/national-proposes-new-law-to-get-more-houses-built.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/14/national-proposes-new-law-to-get-more-houses-built/index.html
+layout: layout.njk
 ---
 National Proposes New Law To Get More Houses Built
 ==================================================

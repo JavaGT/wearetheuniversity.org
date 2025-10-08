@@ -1,9 +1,12 @@
 ---
 slug: lets-go-renewable-not-nuclear
-title: "Let’s go renewable not nuclear"
-date: 2007-05-07
-source-url: https://www.scoop.co.nz/stories/PA0705/S00157/lets-go-renewable-not-nuclear.htm
+title: Let’s go renewable not nuclear
+date: 2007-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00157/lets-go-renewable-not-nuclear.htm
 author: green-party
+permalink: /archive/2007/05/07/lets-go-renewable-not-nuclear/index.html
+layout: layout.njk
 ---
 Let’s go renewable not nuclear
 ==============================

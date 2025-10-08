@@ -1,9 +1,12 @@
 ---
 slug: comedian-ben-hurley-in-earth-planet-world
-title: "Comedian Ben Hurley in \"Earth, Planet, World\""
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/CU1609/S00210/comedian-ben-hurley-in-earth-planet-world.htm
+title: Comedian Ben Hurley in "Earth, Planet, World"
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00210/comedian-ben-hurley-in-earth-planet-world.htm
 author: university-of-waikato
+permalink: /archive/2016/09/14/comedian-ben-hurley-in-earth-planet-world/index.html
+layout: layout.njk
 ---
 Comedian Ben Hurley in “Earth, Planet, World”
 =============================================

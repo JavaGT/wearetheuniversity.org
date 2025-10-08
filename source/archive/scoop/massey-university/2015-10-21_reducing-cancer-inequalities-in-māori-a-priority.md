@@ -1,9 +1,12 @@
 ---
 slug: reducing-cancer-inequalities-in-māori-a-priority
-title: "Reducing cancer inequalities in Māori a priority"
-date: 2015-10-21
-source-url: https://www.scoop.co.nz/stories/GE1510/S00079/reducing-cancer-inequalities-in-maori-a-priority.htm
+title: Reducing cancer inequalities in Māori a priority
+date: 2015-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1510/S00079/reducing-cancer-inequalities-in-maori-a-priority.htm
 author: massey-university
+permalink: /archive/2015/10/21/reducing-cancer-inequalities-in-m/index.html
+layout: layout.njk
 ---
 Reducing cancer inequalities in Māori a priority
 ================================================

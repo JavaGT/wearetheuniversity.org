@@ -1,9 +1,12 @@
 ---
 slug: nzei-mourns-the-loss-of-dame-marie-clay
-title: "NZEI Mourns the Loss of Dame Marie Clay"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/ED0704/S00040/nzei-mourns-the-loss-of-dame-marie-clay.htm
+title: NZEI Mourns the Loss of Dame Marie Clay
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00040/nzei-mourns-the-loss-of-dame-marie-clay.htm
 author: nzei
+permalink: /archive/2007/04/16/nzei-mourns-the-loss-of-dame-marie-clay/index.html
+layout: layout.njk
 ---
 NZEI Mourns the Loss of Dame Marie Clay
 =======================================

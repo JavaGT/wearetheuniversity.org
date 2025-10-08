@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-human-tissue-bill
-title: "Tariana Turia: Human Tissue Bill"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PA0804/S00235/tariana-turia-human-tissue-bill.htm
+title: 'Tariana Turia: Human Tissue Bill'
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00235/tariana-turia-human-tissue-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/04/09/tariana-turia-human-tissue-bill/index.html
+layout: layout.njk
 ---
 Tariana Turia: Human Tissue Bill
 ================================

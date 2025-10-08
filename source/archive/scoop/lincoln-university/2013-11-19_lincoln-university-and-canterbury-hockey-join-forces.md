@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-and-canterbury-hockey-join-forces
-title: "Lincoln University and Canterbury Hockey join forces"
-date: 2013-11-19
-source-url: https://www.scoop.co.nz/stories/ED1311/S00130/lincoln-university-and-canterbury-hockey-join-forces.htm
+title: Lincoln University and Canterbury Hockey join forces
+date: 2013-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00130/lincoln-university-and-canterbury-hockey-join-forces.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/11/19/lincoln-university-and-canterbury-hockey-join-forces/index.html
+layout: layout.njk
 ---
 Lincoln University and Canterbury Hockey join forces
 ====================================================

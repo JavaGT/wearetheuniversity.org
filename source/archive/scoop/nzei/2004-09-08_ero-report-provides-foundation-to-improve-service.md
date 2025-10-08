@@ -1,9 +1,13 @@
 ---
 slug: ero-report-provides-foundation-to-improve-service
-title: "ERO Report Provides Foundation To Improve Service"
-date: 2004-09-08
-source-url: https://www.scoop.co.nz/stories/ED0409/S00030/ero-report-provides-foundation-to-improve-service.htm
+title: ERO Report Provides Foundation To Improve Service
+date: 2004-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00030/ero-report-provides-foundation-to-improve-service.htm
 author: nzei
+permalink: >-
+  /archive/2004/09/08/ero-report-provides-foundation-to-improve-service/index.html
+layout: layout.njk
 ---
 ERO Report Provides Foundation To Improve Service
 =================================================

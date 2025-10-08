@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-all-birth-injuries-to-be-covered-by-acc-launch-open-letter
-title: "Greens Call For All Birth Injuries To Be Covered By ACC, Launch Open Letter"
-date: 2021-09-16
-source-url: https://www.scoop.co.nz/stories/PA2109/S00137/greens-call-for-all-birth-injuries-to-be-covered-by-acc-launch-open-letter.htm
+title: Greens Call For All Birth Injuries To Be Covered By ACC, Launch Open Letter
+date: 2021-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00137/greens-call-for-all-birth-injuries-to-be-covered-by-acc-launch-open-letter.htm
 author: green-party
+permalink: >-
+  /archive/2021/09/16/greens-call-for-all-birth-injuries-to-be-covered-by-acc-launch-open-letter/index.html
+layout: layout.njk
 ---
 Greens Call For All Birth Injuries To Be Covered By ACC, Launch Open Letter
 ===========================================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-book-on-colonisation-provides-insight-into-past
-title: "New book on colonisation provides insight into past"
-date: 2015-10-23
-source-url: https://www.scoop.co.nz/stories/ED1510/S00118/new-book-on-colonisation-provides-insight-into-past.htm
+title: New book on colonisation provides insight into past
+date: 2015-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00118/new-book-on-colonisation-provides-insight-into-past.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/23/new-book-on-colonisation-provides-insight-into-past/index.html
+layout: layout.njk
 ---
 New book on colonisation provides insight into past
 ===================================================

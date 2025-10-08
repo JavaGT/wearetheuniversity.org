@@ -1,9 +1,12 @@
 ---
 slug: prison-budget-blowout-reaches-$384000-per-bed
-title: "Prison budget blowout reaches $384,000 per bed"
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/PA0412/S00356/prison-budget-blowout-reaches-384000-per-bed.htm
+title: Prison budget blowout reaches $384,000 per bed
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00356/prison-budget-blowout-reaches-384000-per-bed.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/14/prison-budget-blowout-reaches-/index.html
+layout: layout.njk
 ---
 Prison budget blowout reaches $384,000 per bed
 ==============================================

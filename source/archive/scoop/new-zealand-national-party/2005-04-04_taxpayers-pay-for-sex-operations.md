@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-pay-for-sex-operations
-title: "Taxpayers Pay for Sex Operations"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PA0504/S00048/taxpayers-pay-for-sex-operations.htm
+title: Taxpayers Pay for Sex Operations
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00048/taxpayers-pay-for-sex-operations.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/04/taxpayers-pay-for-sex-operations/index.html
+layout: layout.njk
 ---
 Taxpayers Pay for Sex Operations
 ================================

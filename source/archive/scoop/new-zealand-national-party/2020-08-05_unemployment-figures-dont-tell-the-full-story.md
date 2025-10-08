@@ -1,9 +1,12 @@
 ---
 slug: unemployment-figures-dont-tell-the-full-story
-title: "Unemployment Figures Don’t Tell The Full Story"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/PA2008/S00036/unemployment-figures-dont-tell-the-full-story.htm
+title: Unemployment Figures Don’t Tell The Full Story
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00036/unemployment-figures-dont-tell-the-full-story.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/05/unemployment-figures-dont-tell-the-full-story/index.html
+layout: layout.njk
 ---
 Unemployment Figures Don’t Tell The Full Story
 ==============================================

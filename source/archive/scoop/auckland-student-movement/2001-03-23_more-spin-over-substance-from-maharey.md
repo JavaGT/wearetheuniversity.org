@@ -1,9 +1,12 @@
 ---
 slug: more-spin-over-substance-from-maharey
-title: "More Spin Over Substance From Maharey"
-date: 2001-03-23
-source-url: https://www.scoop.co.nz/stories/ED0103/S00047/more-spin-over-substance-from-maharey.htm
+title: More Spin Over Substance From Maharey
+date: 2001-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00047/more-spin-over-substance-from-maharey.htm
 author: auckland-student-movement
+permalink: /archive/2001/03/23/more-spin-over-substance-from-maharey/index.html
+layout: layout.njk
 ---
 More Spin Over Substance From Maharey
 =====================================

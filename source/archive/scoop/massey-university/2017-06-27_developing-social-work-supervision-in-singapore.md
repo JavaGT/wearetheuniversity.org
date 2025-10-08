@@ -1,9 +1,12 @@
 ---
 slug: developing-social-work-supervision-in-singapore
-title: "Developing Social Work Supervision in Singapore"
-date: 2017-06-27
-source-url: https://www.scoop.co.nz/stories/ED1706/S00091/developing-social-work-supervision-in-singapore.htm
+title: Developing Social Work Supervision in Singapore
+date: 2017-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00091/developing-social-work-supervision-in-singapore.htm
 author: massey-university
+permalink: /archive/2017/06/27/developing-social-work-supervision-in-singapore/index.html
+layout: layout.njk
 ---
 Developing Social Work Supervision in Singapore
 ===============================================

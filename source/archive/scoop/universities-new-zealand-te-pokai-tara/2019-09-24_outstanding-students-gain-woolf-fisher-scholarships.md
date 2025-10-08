@@ -1,9 +1,13 @@
 ---
 slug: outstanding-students-gain-woolf-fisher-scholarships
-title: "Outstanding students gain Woolf Fisher scholarships"
-date: 2019-09-24
-source-url: https://www.scoop.co.nz/stories/ED1909/S00065/outstanding-students-gain-woolf-fisher-scholarships.htm
+title: Outstanding students gain Woolf Fisher scholarships
+date: 2019-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00065/outstanding-students-gain-woolf-fisher-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/09/24/outstanding-students-gain-woolf-fisher-scholarships/index.html
+layout: layout.njk
 ---
 Outstanding students gain Woolf Fisher scholarships
 ===================================================

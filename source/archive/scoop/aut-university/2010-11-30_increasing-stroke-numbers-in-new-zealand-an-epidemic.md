@@ -1,9 +1,13 @@
 ---
 slug: increasing-stroke-numbers-in-new-zealand-an-epidemic
-title: "Increasing stroke numbers in New Zealand an ‘epidemic’"
-date: 2010-11-30
-source-url: https://www.scoop.co.nz/stories/GE1011/S00166/increasing-stroke-numbers-in-new-zealand-an-epidemic.htm
+title: Increasing stroke numbers in New Zealand an ‘epidemic’
+date: 2010-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00166/increasing-stroke-numbers-in-new-zealand-an-epidemic.htm
 author: aut-university
+permalink: >-
+  /archive/2010/11/30/increasing-stroke-numbers-in-new-zealand-an-epidemic/index.html
+layout: layout.njk
 ---
 Increasing stroke numbers in New Zealand an ‘epidemic’
 ======================================================

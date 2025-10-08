@@ -1,9 +1,11 @@
 ---
 slug: facing-the-law
-title: "Facing The Law"
-date: 2015-07-27
+title: Facing The Law
+date: 2015-07-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1507/S00394/facing-the-law.htm
 author: auckland-university
+permalink: /archive/2015/07/27/facing-the-law/index.html
+layout: layout.njk
 ---
 Facing The Law
 ==============

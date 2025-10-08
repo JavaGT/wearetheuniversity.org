@@ -1,9 +1,12 @@
 ---
 slug: psychopathy-in-the-wild-and-in-prison
-title: "Psychopathy in the wild and in prison"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/GE1705/S00160/psychopathy-in-the-wild-and-in-prison.htm
+title: Psychopathy in the wild and in prison
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00160/psychopathy-in-the-wild-and-in-prison.htm
 author: university-of-waikato
+permalink: /archive/2017/05/24/psychopathy-in-the-wild-and-in-prison/index.html
+layout: layout.njk
 ---
 Psychopathy in the wild and in prison
 =====================================

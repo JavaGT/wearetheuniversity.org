@@ -1,9 +1,13 @@
 ---
 slug: manufacturers-battered-by-failed-government-policies
-title: "Manufacturers Battered By Failed Government Policies"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00182/manufacturers-battered-by-failed-government-policies.htm
+title: Manufacturers Battered By Failed Government Policies
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00182/manufacturers-battered-by-failed-government-policies.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/10/manufacturers-battered-by-failed-government-policies/index.html
+layout: layout.njk
 ---
 Manufacturers Battered By Failed Government Policies
 ====================================================

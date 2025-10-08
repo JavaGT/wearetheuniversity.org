@@ -1,9 +1,12 @@
 ---
 slug: students-asked-to-rate-universitys-services
-title: "Students asked to rate University’s services"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/ED1103/S00125/students-asked-to-rate-universitys-services.htm
+title: Students asked to rate University’s services
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00125/students-asked-to-rate-universitys-services.htm
 author: massey-university
+permalink: /archive/2011/03/30/students-asked-to-rate-universitys-services/index.html
+layout: layout.njk
 ---
 Students asked to rate University’s services
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: decriminalisation-of-sex-industry-positive-move
-title: "Decriminalisation of sex industry positive move"
-date: 2010-05-13
-source-url: https://www.scoop.co.nz/stories/PO1005/S00110/decriminalisation-of-sex-industry-positive-move.htm
+title: Decriminalisation of sex industry positive move
+date: 2010-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00110/decriminalisation-of-sex-industry-positive-move.htm
 author: university-of-otago
+permalink: /archive/2010/05/13/decriminalisation-of-sex-industry-positive-move/index.html
+layout: layout.njk
 ---
 Decriminalisation of sex industry positive move
 ===============================================

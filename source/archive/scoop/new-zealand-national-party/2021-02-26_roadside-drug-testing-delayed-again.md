@@ -1,9 +1,12 @@
 ---
 slug: roadside-drug-testing-delayed-again
-title: "Roadside Drug Testing Delayed Again"
-date: 2021-02-26
-source-url: https://www.scoop.co.nz/stories/PA2102/S00158/roadside-drug-testing-delayed-again.htm
+title: Roadside Drug Testing Delayed Again
+date: 2021-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00158/roadside-drug-testing-delayed-again.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/26/roadside-drug-testing-delayed-again/index.html
+layout: layout.njk
 ---
 Roadside Drug Testing Delayed Again
 ===================================

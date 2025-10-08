@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-statement-on-freedom-convoy-protest
-title: "VUWSA Statement On Freedom Convoy Protest"
-date: 2022-02-14
-source-url: https://www.scoop.co.nz/stories/PO2202/S00108/vuwsa-statement-on-freedom-convoy-protest.htm
+title: VUWSA Statement On Freedom Convoy Protest
+date: 2022-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00108/vuwsa-statement-on-freedom-convoy-protest.htm
 author: vuwsa
+permalink: /archive/2022/02/14/vuwsa-statement-on-freedom-convoy-protest/index.html
+layout: layout.njk
 ---
 VUWSA Statement On Freedom Convoy Protest
 =========================================

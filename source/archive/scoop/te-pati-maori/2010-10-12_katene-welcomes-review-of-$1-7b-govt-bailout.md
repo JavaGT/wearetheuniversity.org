@@ -1,9 +1,12 @@
 ---
 slug: katene-welcomes-review-of-$1-7b-govt-bailout
-title: "Katene welcomes review of $1.7b Govt bailout"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00160/katene-welcomes-review-of-17b-govt-bailout.htm
+title: Katene welcomes review of $1.7b Govt bailout
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00160/katene-welcomes-review-of-17b-govt-bailout.htm
 author: te-pati-maori
+permalink: /archive/2010/10/12/katene-welcomes-review-of-/index.html
+layout: layout.njk
 ---
 Katene welcomes review of $1.7b Govt bailout
 ============================================

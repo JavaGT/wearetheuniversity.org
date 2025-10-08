@@ -1,9 +1,13 @@
 ---
 slug: cyber-law-focus-of-new-research-fellowship-at-vic
-title: "Cyber Law focus of new research fellowship at Vic"
-date: 2003-10-23
-source-url: https://www.scoop.co.nz/stories/ED0310/S00097/cyber-law-focus-of-new-research-fellowship-at-vic.htm
+title: Cyber Law focus of new research fellowship at Vic
+date: 2003-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00097/cyber-law-focus-of-new-research-fellowship-at-vic.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/10/23/cyber-law-focus-of-new-research-fellowship-at-vic/index.html
+layout: layout.njk
 ---
 Cyber Law focus of new research fellowship at Vic
 =================================================

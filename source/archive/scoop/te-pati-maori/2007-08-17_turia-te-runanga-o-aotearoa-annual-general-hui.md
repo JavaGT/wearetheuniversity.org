@@ -1,9 +1,12 @@
 ---
 slug: turia-te-runanga-o-aotearoa-annual-general-hui
-title: "Turia - Te Runanga o Aotearoa Annual General Hui"
-date: 2007-08-17
-source-url: https://www.scoop.co.nz/stories/PA0708/S00310/turia-te-runanga-o-aotearoa-annual-general-hui.htm
+title: Turia - Te Runanga o Aotearoa Annual General Hui
+date: 2007-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00310/turia-te-runanga-o-aotearoa-annual-general-hui.htm
 author: te-pati-maori
+permalink: /archive/2007/08/17/turia-te-runanga-o-aotearoa-annual-general-hui/index.html
+layout: layout.njk
 ---
 Turia - Te Runanga o Aotearoa Annual General Hui
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: ethel-benjamin-scholarship-for-outstanding-women-lawyer-announced
-title: "Ethel Benjamin Scholarship For Outstanding Women Lawyer Announced"
-date: 2020-06-09
-source-url: https://www.scoop.co.nz/stories/ED2006/S00011/ethel-benjamin-scholarship-for-outstanding-women-lawyer-announced.htm
+title: Ethel Benjamin Scholarship For Outstanding Women Lawyer Announced
+date: 2020-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00011/ethel-benjamin-scholarship-for-outstanding-women-lawyer-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/06/09/ethel-benjamin-scholarship-for-outstanding-women-lawyer-announced/index.html
+layout: layout.njk
 ---
 Ethel Benjamin Scholarship For Outstanding Women Lawyer Announced
 =================================================================

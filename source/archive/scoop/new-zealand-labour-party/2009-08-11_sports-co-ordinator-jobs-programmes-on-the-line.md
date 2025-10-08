@@ -1,9 +1,12 @@
 ---
 slug: sports-co-ordinator-jobs-programmes-on-the-line
-title: "Sports co-ordinator jobs, programmes on the line"
-date: 2009-08-11
-source-url: https://www.scoop.co.nz/stories/PA0908/S00151/sports-co-ordinator-jobs-programmes-on-the-line.htm
+title: Sports co-ordinator jobs, programmes on the line
+date: 2009-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00151/sports-co-ordinator-jobs-programmes-on-the-line.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/11/sports-co-ordinator-jobs-programmes-on-the-line/index.html
+layout: layout.njk
 ---
 Sports co-ordinator jobs, programmes on the line
 ================================================

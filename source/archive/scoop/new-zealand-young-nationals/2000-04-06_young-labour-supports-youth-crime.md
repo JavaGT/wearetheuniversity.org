@@ -1,9 +1,12 @@
 ---
 slug: young-labour-supports-youth-crime
-title: "\"Young Labour Supports Youth Crime\""
-date: 2000-04-06
-source-url: https://www.scoop.co.nz/stories/PO0004/S00026/young-labour-supports-youth-crime.htm
+title: '"Young Labour Supports Youth Crime"'
+date: 2000-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00026/young-labour-supports-youth-crime.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/04/06/young-labour-supports-youth-crime/index.html
+layout: layout.njk
 ---
 \"Young Labour Supports Youth Crime"
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: student-aerospace-team-rockets-to-success-in-us
-title: "Student Aerospace Team Rockets To Success In US"
-date: 2023-08-03
-source-url: https://www.scoop.co.nz/stories/ED2308/S00007/student-aerospace-team-rockets-to-success-in-us.htm
+title: Student Aerospace Team Rockets To Success In US
+date: 2023-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00007/student-aerospace-team-rockets-to-success-in-us.htm
 author: university-of-canterbury
+permalink: /archive/2023/08/03/student-aerospace-team-rockets-to-success-in-us/index.html
+layout: layout.njk
 ---
 Student Aerospace Team Rockets To Success In US
 ===============================================

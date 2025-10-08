@@ -1,9 +1,12 @@
 ---
 slug: labours-culture-of-science-and-innovation
-title: "Labour’s culture of science and innovation"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/PA1408/S00386/labours-culture-of-science-and-innovation.htm
+title: Labour’s culture of science and innovation
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00386/labours-culture-of-science-and-innovation.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/25/labours-culture-of-science-and-innovation/index.html
+layout: layout.njk
 ---
 Labour’s culture of science and innovation
 ==========================================

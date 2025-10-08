@@ -1,9 +1,12 @@
 ---
 slug: campaign-to-fix-vsm-law-begins-today
-title: "Campaign to Fix VSM Law Begins Today"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00438/campaign-to-fix-vsm-law-begins-today.htm
+title: Campaign to Fix VSM Law Begins Today
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00438/campaign-to-fix-vsm-law-begins-today.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/09/28/campaign-to-fix-vsm-law-begins-today/index.html
+layout: layout.njk
 ---
 Campaign to Fix VSM Law Begins Today
 ====================================

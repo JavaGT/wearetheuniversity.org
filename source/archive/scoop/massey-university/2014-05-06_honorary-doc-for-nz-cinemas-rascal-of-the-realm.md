@@ -1,9 +1,12 @@
 ---
 slug: honorary-doc-for-nz-cinemas-rascal-of-the-realm
-title: "Honorary doc for NZ cinema’s ‘rascal of the realm’"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/ED1405/S00027/honorary-doc-for-nz-cinemas-rascal-of-the-realm.htm
+title: Honorary doc for NZ cinema’s ‘rascal of the realm’
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00027/honorary-doc-for-nz-cinemas-rascal-of-the-realm.htm
 author: massey-university
+permalink: /archive/2014/05/06/honorary-doc-for-nz-cinemas-rascal-of-the-realm/index.html
+layout: layout.njk
 ---
 Honorary doc for NZ cinema’s ‘rascal of the realm’
 ==================================================

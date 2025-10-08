@@ -1,9 +1,16 @@
 ---
-slug: outdated-narratives-have-humanity-in-a-downward-spiral—its-time-to-tell-stories-for-life
-title: "Outdated Narratives Have Humanity In A Downward Spiral—It’s Time To Tell ‘Stories For Life’"
-date: 2024-02-24
-source-url: https://www.scoop.co.nz/stories/WO2402/S00085/outdated-narratives-have-humanity-in-a-downward-spiral-its-time-to-tell-stories-for-life.htm
+slug: >-
+  outdated-narratives-have-humanity-in-a-downward-spiral—its-time-to-tell-stories-for-life
+title: >-
+  Outdated Narratives Have Humanity In A Downward Spiral—It’s Time To Tell
+  ‘Stories For Life’
+date: 2024-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2402/S00085/outdated-narratives-have-humanity-in-a-downward-spiral-its-time-to-tell-stories-for-life.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/02/24/outdated-narratives-have-humanity-in-a-downward-spiral/index.html
+layout: layout.njk
 ---
 Outdated Narratives Have Humanity In A Downward Spiral—It’s Time To Tell ‘Stories For Life’
 ===========================================================================================

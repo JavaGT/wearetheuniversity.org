@@ -1,9 +1,12 @@
 ---
 slug: does-a-sweet-tooth-affect-sugar-intake
-title: "Does a sweet tooth affect sugar intake?"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/ED1606/S00078/does-a-sweet-tooth-affect-sugar-intake.htm
+title: Does a sweet tooth affect sugar intake?
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00078/does-a-sweet-tooth-affect-sugar-intake.htm
 author: massey-university
+permalink: /archive/2016/06/21/does-a-sweet-tooth-affect-sugar-intake/index.html
+layout: layout.njk
 ---
 Does a sweet tooth affect sugar intake?
 =======================================

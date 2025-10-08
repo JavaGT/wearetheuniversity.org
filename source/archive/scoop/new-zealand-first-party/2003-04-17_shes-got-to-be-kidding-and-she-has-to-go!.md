@@ -1,9 +1,12 @@
 ---
 slug: shes-got-to-be-kidding-and-she-has-to-go!
-title: "She's Got To Be Kidding, And She Has To Go!"
-date: 2003-04-17
-source-url: https://www.scoop.co.nz/stories/PA0304/S00383/shes-got-to-be-kidding-and-she-has-to-go.htm
+title: She's Got To Be Kidding, And She Has To Go!
+date: 2003-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00383/shes-got-to-be-kidding-and-she-has-to-go.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/17/shes-got-to-be-kidding-and-she-has-to-go/index.html
+layout: layout.njk
 ---
 She's Got To Be Kidding, And She Has To Go!
 ===========================================

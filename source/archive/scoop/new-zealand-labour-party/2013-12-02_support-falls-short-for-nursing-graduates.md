@@ -1,9 +1,12 @@
 ---
 slug: support-falls-short-for-nursing-graduates
-title: "Support falls short for nursing graduates"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/PA1312/S00012/support-falls-short-for-nursing-graduates.htm
+title: Support falls short for nursing graduates
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00012/support-falls-short-for-nursing-graduates.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/02/support-falls-short-for-nursing-graduates/index.html
+layout: layout.njk
 ---
 Support falls short for nursing graduates
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: roy-changing-direction-in-health
-title: "Roy: Changing Direction In Health"
-date: 2008-10-29
-source-url: https://www.scoop.co.nz/stories/PA0810/S00632/roy-changing-direction-in-health.htm
+title: 'Roy: Changing Direction In Health'
+date: 2008-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00632/roy-changing-direction-in-health.htm
 author: act-new-zealand
+permalink: /archive/2008/10/29/roy-changing-direction-in-health/index.html
+layout: layout.njk
 ---
 Roy: Changing Direction In Health
 =================================

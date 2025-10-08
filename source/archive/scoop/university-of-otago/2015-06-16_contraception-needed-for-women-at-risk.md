@@ -1,9 +1,12 @@
 ---
 slug: contraception-needed-for-women-at-risk
-title: "Contraception needed for women at risk"
-date: 2015-06-16
-source-url: https://www.scoop.co.nz/stories/GE1506/S00086/contraception-needed-for-women-at-risk.htm
+title: Contraception needed for women at risk
+date: 2015-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00086/contraception-needed-for-women-at-risk.htm
 author: university-of-otago
+permalink: /archive/2015/06/16/contraception-needed-for-women-at-risk/index.html
+layout: layout.njk
 ---
 Contraception needed for women at risk
 ======================================

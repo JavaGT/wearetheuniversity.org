@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-defence-force-under-stress
-title: "The Mapp Report: Defence Force Under Stress"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/PA0809/S00132/the-mapp-report-defence-force-under-stress.htm
+title: 'The Mapp Report: Defence Force Under Stress'
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00132/the-mapp-report-defence-force-under-stress.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/05/the-mapp-report-defence-force-under-stress/index.html
+layout: layout.njk
 ---
 The Mapp Report: Defence Force Under Stress
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: gambling-act-schools-set-to-lose-$3-8m
-title: "Gambling Act: schools set to lose $3.8m"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/PA0411/S00601/gambling-act-schools-set-to-lose-38m.htm
+title: 'Gambling Act: schools set to lose $3.8m'
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00601/gambling-act-schools-set-to-lose-38m.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/29/gambling-act-schools-set-to-lose-/index.html
+layout: layout.njk
 ---
 Gambling Act: schools set to lose $3.8m
 =======================================

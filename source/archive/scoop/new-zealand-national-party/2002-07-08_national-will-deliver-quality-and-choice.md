@@ -1,9 +1,12 @@
 ---
 slug: national-will-deliver-quality-and-choice
-title: "National will deliver quality and choice"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00208/national-will-deliver-quality-and-choice.htm
+title: National will deliver quality and choice
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00208/national-will-deliver-quality-and-choice.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/08/national-will-deliver-quality-and-choice/index.html
+layout: layout.njk
 ---
 National will deliver quality and choice
 ========================================

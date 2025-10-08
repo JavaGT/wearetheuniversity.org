@@ -1,9 +1,12 @@
 ---
 slug: upsurge-in-māori-votes-for-green-party
-title: "Upsurge in Māori votes for Green Party"
-date: 2011-11-28
-source-url: https://www.scoop.co.nz/stories/PA1111/S00508/upsurge-in-maori-votes-for-green-party.htm
+title: Upsurge in Māori votes for Green Party
+date: 2011-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00508/upsurge-in-maori-votes-for-green-party.htm
 author: green-party
+permalink: /archive/2011/11/28/upsurge-in-m/index.html
+layout: layout.njk
 ---
 Upsurge in Māori votes for Green Party
 ======================================

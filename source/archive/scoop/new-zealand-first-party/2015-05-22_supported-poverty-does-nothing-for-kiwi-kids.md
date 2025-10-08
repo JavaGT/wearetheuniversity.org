@@ -1,9 +1,12 @@
 ---
 slug: supported-poverty-does-nothing-for-kiwi-kids
-title: "Supported Poverty Does Nothing for Kiwi Kids"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PA1505/S00414/supported-poverty-does-nothing-for-kiwi-kids.htm
+title: Supported Poverty Does Nothing for Kiwi Kids
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00414/supported-poverty-does-nothing-for-kiwi-kids.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/22/supported-poverty-does-nothing-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 Supported Poverty Does Nothing for Kiwi Kids
 ============================================

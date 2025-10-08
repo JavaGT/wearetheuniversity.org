@@ -1,9 +1,12 @@
 ---
 slug: warnings-on-mobile-phones-needed
-title: "Warnings on mobile phones needed"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/PA1005/S00244/warnings-on-mobile-phones-needed.htm
+title: Warnings on mobile phones needed
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00244/warnings-on-mobile-phones-needed.htm
 author: green-party
+permalink: /archive/2010/05/18/warnings-on-mobile-phones-needed/index.html
+layout: layout.njk
 ---
 Warnings on mobile phones needed
 ================================

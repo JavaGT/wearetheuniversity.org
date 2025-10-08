@@ -1,9 +1,12 @@
 ---
 slug: act-health-(enhancement-of-competition)-bill
-title: "ACT: Health (Enhancement of Competition) Bill"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/PA0603/S00265/act-health-enhancement-of-competition-bill.htm
+title: 'ACT: Health (Enhancement of Competition) Bill'
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00265/act-health-enhancement-of-competition-bill.htm
 author: act-new-zealand
+permalink: /archive/2006/03/16/act-health-/index.html
+layout: layout.njk
 ---
 ACT: Health (Enhancement of Competition) Bill
 =============================================

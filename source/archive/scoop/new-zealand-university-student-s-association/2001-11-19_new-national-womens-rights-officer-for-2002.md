@@ -1,9 +1,12 @@
 ---
 slug: new-national-womens-rights-officer-for-2002
-title: "New National Women's Rights Officer for 2002"
-date: 2001-11-19
-source-url: https://www.scoop.co.nz/stories/ED0111/S00036/new-national-womens-rights-officer-for-2002.htm
+title: New National Women's Rights Officer for 2002
+date: 2001-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00036/new-national-womens-rights-officer-for-2002.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/11/19/new-national-womens-rights-officer-for-2002/index.html
+layout: layout.njk
 ---
 New National Women's Rights Officer for 2002
 ============================================

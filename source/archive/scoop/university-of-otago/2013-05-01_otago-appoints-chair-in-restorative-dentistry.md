@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-chair-in-restorative-dentistry
-title: "Otago appoints Chair in Restorative Dentistry"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/ED1305/S00002/otago-appoints-chair-in-restorative-dentistry.htm
+title: Otago appoints Chair in Restorative Dentistry
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00002/otago-appoints-chair-in-restorative-dentistry.htm
 author: university-of-otago
+permalink: /archive/2013/05/01/otago-appoints-chair-in-restorative-dentistry/index.html
+layout: layout.njk
 ---
 Otago appoints Chair in Restorative Dentistry
 =============================================

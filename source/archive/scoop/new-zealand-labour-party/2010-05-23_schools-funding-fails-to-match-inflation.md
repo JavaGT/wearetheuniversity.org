@@ -1,9 +1,12 @@
 ---
 slug: schools-funding-fails-to-match-inflation
-title: "Schools Funding Fails To Match Inflation"
-date: 2010-05-23
-source-url: https://www.scoop.co.nz/stories/PA1005/S00377/schools-funding-fails-to-match-inflation.htm
+title: Schools Funding Fails To Match Inflation
+date: 2010-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00377/schools-funding-fails-to-match-inflation.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/23/schools-funding-fails-to-match-inflation/index.html
+layout: layout.njk
 ---
 Schools Funding Fails To Match Inflation
 ========================================

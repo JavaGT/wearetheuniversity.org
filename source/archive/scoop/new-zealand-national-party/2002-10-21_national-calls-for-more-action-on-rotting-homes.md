@@ -1,9 +1,12 @@
 ---
 slug: national-calls-for-more-action-on-rotting-homes
-title: "National calls for more action on rotting homes"
-date: 2002-10-21
-source-url: https://www.scoop.co.nz/stories/PA0210/S00417/national-calls-for-more-action-on-rotting-homes.htm
+title: National calls for more action on rotting homes
+date: 2002-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00417/national-calls-for-more-action-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/21/national-calls-for-more-action-on-rotting-homes/index.html
+layout: layout.njk
 ---
 National calls for more action on rotting homes
 ===============================================

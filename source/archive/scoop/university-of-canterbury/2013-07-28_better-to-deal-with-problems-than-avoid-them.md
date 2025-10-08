@@ -1,9 +1,12 @@
 ---
 slug: better-to-deal-with-problems-than-avoid-them
-title: "Better to deal with problems than avoid them"
-date: 2013-07-28
-source-url: https://www.scoop.co.nz/stories/ED1307/S00144/better-to-deal-with-problems-than-avoid-them.htm
+title: Better to deal with problems than avoid them
+date: 2013-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00144/better-to-deal-with-problems-than-avoid-them.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/28/better-to-deal-with-problems-than-avoid-them/index.html
+layout: layout.njk
 ---
 Better to deal with problems than avoid them
 ============================================

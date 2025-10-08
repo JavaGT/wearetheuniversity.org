@@ -1,9 +1,13 @@
 ---
 slug: motel-damage-highlights-compulsory-games-funding
-title: "Motel damage highlights compulsory games funding"
-date: 2008-04-24
-source-url: https://www.scoop.co.nz/stories/ED0804/S00073/motel-damage-highlights-compulsory-games-funding.htm
+title: Motel damage highlights compulsory games funding
+date: 2008-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00073/motel-damage-highlights-compulsory-games-funding.htm
 author: student-choice
+permalink: >-
+  /archive/2008/04/24/motel-damage-highlights-compulsory-games-funding/index.html
+layout: layout.njk
 ---
 Motel damage highlights compulsory games funding
 ================================================

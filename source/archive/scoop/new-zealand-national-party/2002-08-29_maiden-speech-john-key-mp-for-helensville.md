@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-john-key-mp-for-helensville
-title: "Maiden Speech - John Key MP for Helensville"
-date: 2002-08-29
-source-url: https://www.scoop.co.nz/stories/PA0208/S00297/maiden-speech-john-key-mp-for-helensville.htm
+title: Maiden Speech - John Key MP for Helensville
+date: 2002-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00297/maiden-speech-john-key-mp-for-helensville.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/29/maiden-speech-john-key-mp-for-helensville/index.html
+layout: layout.njk
 ---
 Maiden Speech - John Key MP for Helensville
 ===========================================

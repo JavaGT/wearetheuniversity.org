@@ -1,9 +1,13 @@
 ---
 slug: deals-must-ensure-health-services-are-maintained
-title: "Deals Must Ensure Health Services Are Maintained"
-date: 2002-08-06
-source-url: https://www.scoop.co.nz/stories/PA0208/S00023/deals-must-ensure-health-services-are-maintained.htm
+title: Deals Must Ensure Health Services Are Maintained
+date: 2002-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00023/deals-must-ensure-health-services-are-maintained.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/08/06/deals-must-ensure-health-services-are-maintained/index.html
+layout: layout.njk
 ---
 Deals Must Ensure Health Services Are Maintained
 ================================================

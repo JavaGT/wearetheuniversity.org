@@ -1,9 +1,12 @@
 ---
 slug: wasted-times-means-wasted-lives
-title: "Wasted times means wasted lives"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/PA1012/S00163/wasted-times-means-wasted-lives.htm
+title: Wasted times means wasted lives
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00163/wasted-times-means-wasted-lives.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/09/wasted-times-means-wasted-lives/index.html
+layout: layout.njk
 ---
 Wasted times means wasted lives
 ===============================

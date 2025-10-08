@@ -1,9 +1,12 @@
 ---
 slug: hunting-out-a-good-design-solution
-title: "Hunting out a good design solution"
-date: 2008-06-19
-source-url: https://www.scoop.co.nz/stories/ED0806/S00059/hunting-out-a-good-design-solution.htm
+title: Hunting out a good design solution
+date: 2008-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00059/hunting-out-a-good-design-solution.htm
 author: massey-university
+permalink: /archive/2008/06/19/hunting-out-a-good-design-solution/index.html
+layout: layout.njk
 ---
 Hunting out a good design solution
 ==================================

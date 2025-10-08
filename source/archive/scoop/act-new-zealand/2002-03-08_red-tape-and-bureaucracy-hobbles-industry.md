@@ -1,9 +1,12 @@
 ---
 slug: red-tape-and-bureaucracy-hobbles-industry
-title: "Red Tape and Bureaucracy Hobbles Industry"
-date: 2002-03-08
-source-url: https://www.scoop.co.nz/stories/PA0203/S00155/red-tape-and-bureaucracy-hobbles-industry.htm
+title: Red Tape and Bureaucracy Hobbles Industry
+date: 2002-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00155/red-tape-and-bureaucracy-hobbles-industry.htm
 author: act-new-zealand
+permalink: /archive/2002/03/08/red-tape-and-bureaucracy-hobbles-industry/index.html
+layout: layout.njk
 ---
 Red Tape and Bureaucracy Hobbles Industry
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: a-drag-race-fuelled-with-taxpayer-money
-title: "A Drag Race Fuelled with Taxpayer Money"
-date: 2017-09-09
-source-url: https://www.scoop.co.nz/stories/PA1709/S00098/a-drag-race-fuelled-with-taxpayer-money.htm
+title: A Drag Race Fuelled with Taxpayer Money
+date: 2017-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00098/a-drag-race-fuelled-with-taxpayer-money.htm
 author: act-new-zealand
+permalink: /archive/2017/09/09/a-drag-race-fuelled-with-taxpayer-money/index.html
+layout: layout.njk
 ---
 A Drag Race Fuelled with Taxpayer Money
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: new-book-on-new-zealand-film-and-tv-industry-released
-title: "New book on New Zealand Film and TV industry released"
-date: 2012-02-14
-source-url: https://www.scoop.co.nz/stories/ED1202/S00058/new-book-on-new-zealand-film-and-tv-industry-released.htm
+title: New book on New Zealand Film and TV industry released
+date: 2012-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00058/new-book-on-new-zealand-film-and-tv-industry-released.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/02/14/new-book-on-new-zealand-film-and-tv-industry-released/index.html
+layout: layout.njk
 ---
 New book on New Zealand Film and TV industry released
 =====================================================

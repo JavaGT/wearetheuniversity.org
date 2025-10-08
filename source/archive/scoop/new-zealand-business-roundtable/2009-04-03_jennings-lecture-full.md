@@ -1,9 +1,11 @@
 ---
 slug: jennings-lecture-full
-title: "Jennings’ lecture full"
-date: 2009-04-03
+title: Jennings’ lecture full
+date: 2009-04-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0904/S00092/jennings-lecture-full.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/04/03/jennings-lecture-full/index.html
+layout: layout.njk
 ---
 Jennings’ lecture full
 ======================

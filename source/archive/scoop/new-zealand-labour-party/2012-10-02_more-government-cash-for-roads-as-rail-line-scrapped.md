@@ -1,9 +1,13 @@
 ---
 slug: more-government-cash-for-roads-as-rail-line-scrapped
-title: "More government cash for roads as rail line scrapped"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/PA1210/S00033/more-government-cash-for-roads-as-rail-line-scrapped.htm
+title: More government cash for roads as rail line scrapped
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00033/more-government-cash-for-roads-as-rail-line-scrapped.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/02/more-government-cash-for-roads-as-rail-line-scrapped/index.html
+layout: layout.njk
 ---
 More government cash for roads as rail line scrapped
 ====================================================

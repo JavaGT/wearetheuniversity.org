@@ -1,9 +1,11 @@
 ---
 slug: two-titans-muldoon-and-lange
-title: "Two Titans: Muldoon and Lange"
-date: 2005-06-20
+title: 'Two Titans: Muldoon and Lange'
+date: 2005-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0506/S00160/two-titans-muldoon-and-lange.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/06/20/two-titans-muldoon-and-lange/index.html
+layout: layout.njk
 ---
 Two Titans: Muldoon and Lange
 =============================

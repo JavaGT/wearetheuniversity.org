@@ -1,9 +1,13 @@
 ---
 slug: charter-school-victims-deserve-ministers-personal-help
-title: "Charter school victims deserve Minister’s personal help"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PA1502/S00300/charter-school-victims-deserve-ministers-personal-help.htm
+title: Charter school victims deserve Minister’s personal help
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00300/charter-school-victims-deserve-ministers-personal-help.htm
 author: green-party
+permalink: >-
+  /archive/2015/02/24/charter-school-victims-deserve-ministers-personal-help/index.html
+layout: layout.njk
 ---
 Charter school victims deserve Minister’s personal help
 =======================================================

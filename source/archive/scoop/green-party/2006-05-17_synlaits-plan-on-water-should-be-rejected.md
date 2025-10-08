@@ -1,9 +1,12 @@
 ---
 slug: synlaits-plan-on-water-should-be-rejected
-title: "Synlait's plan on water should be rejected"
-date: 2006-05-17
-source-url: https://www.scoop.co.nz/stories/PA0605/S00386/synlaits-plan-on-water-should-be-rejected.htm
+title: Synlait's plan on water should be rejected
+date: 2006-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00386/synlaits-plan-on-water-should-be-rejected.htm
 author: green-party
+permalink: /archive/2006/05/17/synlaits-plan-on-water-should-be-rejected/index.html
+layout: layout.njk
 ---
 Synlait's plan on water should be rejected
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: concerning-outcomes-from-survey-on-student-work
-title: "Concerning Outcomes from Survey on Student Work"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PO1409/S00213/concerning-outcomes-from-survey-on-student-work.htm
+title: Concerning Outcomes from Survey on Student Work
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00213/concerning-outcomes-from-survey-on-student-work.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/09/10/concerning-outcomes-from-survey-on-student-work/index.html
+layout: layout.njk
 ---
 Concerning Outcomes from Survey on Student Work
 ===============================================

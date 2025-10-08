@@ -1,9 +1,13 @@
 ---
 slug: government-out-of-step-with-early-childhood-sector
-title: "Government Out of Step With Early Childhood Sector"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/ED1009/S00005/government-out-of-step-with-early-childhood-sector.htm
+title: Government Out of Step With Early Childhood Sector
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00005/government-out-of-step-with-early-childhood-sector.htm
 author: nzei
+permalink: >-
+  /archive/2010/09/01/government-out-of-step-with-early-childhood-sector/index.html
+layout: layout.njk
 ---
 Government Out of Step With Early Childhood Sector
 ==================================================

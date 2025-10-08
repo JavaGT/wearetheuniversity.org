@@ -1,9 +1,12 @@
 ---
 slug: soft-approach-to-truancy-wont-work
-title: "Soft approach to truancy won't work"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/PA0310/S00055/soft-approach-to-truancy-wont-work.htm
+title: Soft approach to truancy won't work
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00055/soft-approach-to-truancy-wont-work.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/03/soft-approach-to-truancy-wont-work/index.html
+layout: layout.njk
 ---
 Soft approach to truancy won't work
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: another-bad-report-for-prison-building-programme
-title: "Another bad report for prison building programme"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/PA0709/S00074/another-bad-report-for-prison-building-programme.htm
+title: Another bad report for prison building programme
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00074/another-bad-report-for-prison-building-programme.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/09/06/another-bad-report-for-prison-building-programme/index.html
+layout: layout.njk
 ---
 Another bad report for prison building programme
 ================================================

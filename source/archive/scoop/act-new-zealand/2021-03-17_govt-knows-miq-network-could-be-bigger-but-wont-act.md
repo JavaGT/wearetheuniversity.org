@@ -1,9 +1,13 @@
 ---
 slug: govt-knows-miq-network-could-be-bigger-but-wont-act
-title: "Govt Knows MIQ Network Could Be Bigger, But Won’t Act"
-date: 2021-03-17
-source-url: https://www.scoop.co.nz/stories/PO2103/S00143/govt-knows-miq-network-could-be-bigger-but-wont-act.htm
+title: Govt Knows MIQ Network Could Be Bigger, But Won’t Act
+date: 2021-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2103/S00143/govt-knows-miq-network-could-be-bigger-but-wont-act.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/03/17/govt-knows-miq-network-could-be-bigger-but-wont-act/index.html
+layout: layout.njk
 ---
 Govt Knows MIQ Network Could Be Bigger, But Won’t Act
 =====================================================

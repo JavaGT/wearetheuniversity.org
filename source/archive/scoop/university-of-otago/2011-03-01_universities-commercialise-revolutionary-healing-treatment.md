@@ -1,9 +1,13 @@
 ---
 slug: universities-commercialise-revolutionary-healing-treatment
-title: "Universities Commercialise Revolutionary Healing Treatment"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/SC1103/S00007/universities-commercialise-revolutionary-healing-treatment.htm
+title: Universities Commercialise Revolutionary Healing Treatment
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00007/universities-commercialise-revolutionary-healing-treatment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/03/01/universities-commercialise-revolutionary-healing-treatment/index.html
+layout: layout.njk
 ---
 Universities Commercialise Revolutionary Healing Treatment
 ==========================================================

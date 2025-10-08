@@ -1,9 +1,12 @@
 ---
 slug: police-powers-give-instant-fines-to-shoplifters
-title: "Police Powers Give Instant Fines to Shoplifters"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/PA1809/S00296/police-powers-give-instant-fines-to-shoplifters.htm
+title: Police Powers Give Instant Fines to Shoplifters
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00296/police-powers-give-instant-fines-to-shoplifters.htm
 author: new-zealand-first-party
+permalink: /archive/2018/09/21/police-powers-give-instant-fines-to-shoplifters/index.html
+layout: layout.njk
 ---
 Police Powers Give Instant Fines to Shoplifters
 ===============================================

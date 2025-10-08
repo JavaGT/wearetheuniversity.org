@@ -1,9 +1,12 @@
 ---
 slug: 90-day-bill-rides-rough-shod-over-workers-nzei
-title: "90 Day Bill Rides Rough-Shod Over Workers - NZEI"
-date: 2008-12-09
-source-url: https://www.scoop.co.nz/stories/PO0812/S00116/90-day-bill-rides-rough-shod-over-workers-nzei.htm
+title: 90 Day Bill Rides Rough-Shod Over Workers - NZEI
+date: 2008-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0812/S00116/90-day-bill-rides-rough-shod-over-workers-nzei.htm
 author: nzei
+permalink: /archive/2008/12/09/90-day-bill-rides-rough-shod-over-workers-nzei/index.html
+layout: layout.njk
 ---
 90 Day Bill Rides Rough-Shod Over Workers - NZEI
 ================================================

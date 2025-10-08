@@ -1,9 +1,12 @@
 ---
 slug: new-temperature-extremes-for-antarctica
-title: "New temperature extremes for Antarctica"
-date: 2017-03-02
-source-url: https://www.scoop.co.nz/stories/SC1703/S00003/new-temperature-extremes-for-antarctica.htm
+title: New temperature extremes for Antarctica
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00003/new-temperature-extremes-for-antarctica.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/03/02/new-temperature-extremes-for-antarctica/index.html
+layout: layout.njk
 ---
 New temperature extremes for Antarctica
 =======================================

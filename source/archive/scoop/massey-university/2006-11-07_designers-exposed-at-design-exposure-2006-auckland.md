@@ -1,9 +1,13 @@
 ---
 slug: designers-exposed-at-design-exposure-2006-auckland
-title: "Designers Exposed at Design Exposure 2006 Auckland"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/ED0611/S00026/designers-exposed-at-design-exposure-2006-auckland.htm
+title: Designers Exposed at Design Exposure 2006 Auckland
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00026/designers-exposed-at-design-exposure-2006-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2006/11/07/designers-exposed-at-design-exposure-2006-auckland/index.html
+layout: layout.njk
 ---
 Designers Exposed at Design Exposure 2006 Auckland
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-keeping-the-wolf-from-the-door
-title: "Peters: Keeping The Wolf From The Door"
-date: 2008-08-29
-source-url: https://www.scoop.co.nz/stories/PA0808/S00491/peters-keeping-the-wolf-from-the-door.htm
+title: 'Peters: Keeping The Wolf From The Door'
+date: 2008-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00491/peters-keeping-the-wolf-from-the-door.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/29/peters-keeping-the-wolf-from-the-door/index.html
+layout: layout.njk
 ---
 Peters: Keeping The Wolf From The Door
 ======================================

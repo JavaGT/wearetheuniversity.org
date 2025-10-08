@@ -1,9 +1,12 @@
 ---
 slug: commonsense-an-endangered-species
-title: "Commonsense - An Endangered Species?"
-date: 2004-04-27
-source-url: https://www.scoop.co.nz/stories/PA0404/S00418/commonsense-an-endangered-species.htm
+title: Commonsense - An Endangered Species?
+date: 2004-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00418/commonsense-an-endangered-species.htm
 author: act-new-zealand
+permalink: /archive/2004/04/27/commonsense-an-endangered-species/index.html
+layout: layout.njk
 ---
 Commonsense - An Endangered Species?
 ====================================

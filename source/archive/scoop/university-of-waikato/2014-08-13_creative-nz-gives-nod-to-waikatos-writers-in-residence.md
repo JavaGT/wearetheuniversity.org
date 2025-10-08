@@ -1,9 +1,13 @@
 ---
 slug: creative-nz-gives-nod-to-waikatos-writers-in-residence
-title: "Creative NZ gives nod to Waikato’s writers’ in residence"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/ED1408/S00067/creative-nz-gives-nod-to-waikatos-writers-in-residence.htm
+title: Creative NZ gives nod to Waikato’s writers’ in residence
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00067/creative-nz-gives-nod-to-waikatos-writers-in-residence.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/13/creative-nz-gives-nod-to-waikatos-writers-in-residence/index.html
+layout: layout.njk
 ---
 Creative NZ gives nod to Waikato’s writers’ in residence
 ========================================================

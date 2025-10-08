@@ -1,9 +1,13 @@
 ---
 slug: scholarship-to-support-embryonic-stem-cell-research
-title: "Scholarship to support embryonic stem cell research"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/SC1406/S00022/scholarship-to-support-embryonic-stem-cell-research.htm
+title: Scholarship to support embryonic stem cell research
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00022/scholarship-to-support-embryonic-stem-cell-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/09/scholarship-to-support-embryonic-stem-cell-research/index.html
+layout: layout.njk
 ---
 Scholarship to support embryonic stem cell research
 ===================================================

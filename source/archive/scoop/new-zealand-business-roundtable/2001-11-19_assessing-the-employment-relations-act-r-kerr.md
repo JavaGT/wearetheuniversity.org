@@ -1,9 +1,12 @@
 ---
 slug: assessing-the-employment-relations-act-r-kerr
-title: "Assessing The Employment Relations Act - R. Kerr"
-date: 2001-11-19
-source-url: https://www.scoop.co.nz/stories/BU0111/S00173/assessing-the-employment-relations-act-r-kerr.htm
+title: Assessing The Employment Relations Act - R. Kerr
+date: 2001-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0111/S00173/assessing-the-employment-relations-act-r-kerr.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2001/11/19/assessing-the-employment-relations-act-r-kerr/index.html
+layout: layout.njk
 ---
 Assessing The Employment Relations Act - R. Kerr
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-aim-to-discover-diverse-talent
-title: "New Scholarships Aim To Discover Diverse Talent"
-date: 2021-11-22
-source-url: https://www.scoop.co.nz/stories/ED2111/S00041/new-scholarships-aim-to-discover-diverse-talent.htm
+title: New Scholarships Aim To Discover Diverse Talent
+date: 2021-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00041/new-scholarships-aim-to-discover-diverse-talent.htm
 author: aut-university
+permalink: /archive/2021/11/22/new-scholarships-aim-to-discover-diverse-talent/index.html
+layout: layout.njk
 ---
 New Scholarships Aim To Discover Diverse Talent
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: vibration-treatment-put-to-the-test
-title: "Vibration treatment put to the test"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/ED0607/S00103/vibration-treatment-put-to-the-test.htm
+title: Vibration treatment put to the test
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00103/vibration-treatment-put-to-the-test.htm
 author: massey-university
+permalink: /archive/2006/07/31/vibration-treatment-put-to-the-test/index.html
+layout: layout.njk
 ---
 Vibration treatment put to the test
 ===================================

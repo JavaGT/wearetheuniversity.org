@@ -1,9 +1,12 @@
 ---
 slug: $12-billion-student-debt-a-national-liability
-title: "$12 billion student debt a national liability"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/ED1111/S00009/12-billion-student-debt-a-national-liability.htm
+title: $12 billion student debt a national liability
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00009/12-billion-student-debt-a-national-liability.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/11/02/12-billion-student-debt-a-national-liability/index.html
+layout: layout.njk
 ---
 $12 billion student debt a national liability
 =============================================

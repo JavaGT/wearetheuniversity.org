@@ -1,9 +1,12 @@
 ---
 slug: a-free-virtual-field-trip-to-antarctica
-title: "A free virtual field trip to Antarctica"
-date: 2016-12-19
-source-url: https://www.scoop.co.nz/stories/ED1612/S00067/a-free-virtual-field-trip-to-antarctica.htm
+title: A free virtual field trip to Antarctica
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00067/a-free-virtual-field-trip-to-antarctica.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/12/19/a-free-virtual-field-trip-to-antarctica/index.html
+layout: layout.njk
 ---
 A free virtual field trip to Antarctica
 =======================================

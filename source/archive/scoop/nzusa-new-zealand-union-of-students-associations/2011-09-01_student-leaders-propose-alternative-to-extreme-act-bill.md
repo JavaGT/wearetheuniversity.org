@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-propose-alternative-to-extreme-act-bill
-title: "Student leaders propose alternative to extreme ACT Bill"
-date: 2011-09-01
-source-url: https://www.scoop.co.nz/stories/PO1109/S00025/student-leaders-propose-alternative-to-extreme-act-bill.htm
+title: Student leaders propose alternative to extreme ACT Bill
+date: 2011-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00025/student-leaders-propose-alternative-to-extreme-act-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/01/student-leaders-propose-alternative-to-extreme-act-bill/index.html
+layout: layout.njk
 ---
 Student leaders propose alternative to extreme ACT Bill
 =======================================================

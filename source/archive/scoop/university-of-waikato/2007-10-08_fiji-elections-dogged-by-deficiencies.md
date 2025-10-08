@@ -1,9 +1,12 @@
 ---
 slug: fiji-elections-dogged-by-deficiencies
-title: "Fiji elections dogged by deficiencies"
-date: 2007-10-08
-source-url: https://www.scoop.co.nz/stories/ED0710/S00020/fiji-elections-dogged-by-deficiencies.htm
+title: Fiji elections dogged by deficiencies
+date: 2007-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00020/fiji-elections-dogged-by-deficiencies.htm
 author: university-of-waikato
+permalink: /archive/2007/10/08/fiji-elections-dogged-by-deficiencies/index.html
+layout: layout.njk
 ---
 Fiji elections dogged by deficiencies
 =====================================

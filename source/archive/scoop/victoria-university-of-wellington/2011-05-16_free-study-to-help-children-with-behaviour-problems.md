@@ -1,9 +1,13 @@
 ---
 slug: free-study-to-help-children-with-behaviour-problems
-title: "Free study to help children with behaviour problems"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/GE1105/S00096/free-study-to-help-children-with-behaviour-problems.htm
+title: Free study to help children with behaviour problems
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00096/free-study-to-help-children-with-behaviour-problems.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/05/16/free-study-to-help-children-with-behaviour-problems/index.html
+layout: layout.njk
 ---
 Free study to help children with behaviour problems
 ===================================================

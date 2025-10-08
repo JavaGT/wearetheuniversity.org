@@ -1,9 +1,12 @@
 ---
 slug: white-paper-not-worth-the-paper-its-written-on
-title: "White Paper Not Worth The Paper It’s Written On"
-date: 2022-12-07
-source-url: https://www.scoop.co.nz/stories/PA2212/S00059/white-paper-not-worth-the-paper-its-written-on.htm
+title: White Paper Not Worth The Paper It’s Written On
+date: 2022-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00059/white-paper-not-worth-the-paper-its-written-on.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/07/white-paper-not-worth-the-paper-its-written-on/index.html
+layout: layout.njk
 ---
 White Paper Not Worth The Paper It’s Written On
 ===============================================

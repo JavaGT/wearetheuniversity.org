@@ -1,9 +1,13 @@
 ---
 slug: one-third-drop-out-rate-should-be-end-of-fees-free
-title: "One Third Drop Out Rate Should be End of Fees Free"
-date: 2019-09-08
-source-url: https://www.scoop.co.nz/stories/PA1909/S00059/one-third-drop-out-rate-should-be-end-of-fees-free.htm
+title: One Third Drop Out Rate Should be End of Fees Free
+date: 2019-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00059/one-third-drop-out-rate-should-be-end-of-fees-free.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/09/08/one-third-drop-out-rate-should-be-end-of-fees-free/index.html
+layout: layout.njk
 ---
 One Third Drop Out Rate Should be End of Fees Free
 ==================================================

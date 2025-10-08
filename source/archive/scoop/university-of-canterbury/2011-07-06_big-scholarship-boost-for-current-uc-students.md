@@ -1,9 +1,12 @@
 ---
 slug: big-scholarship-boost-for-current-uc-students
-title: "Big scholarship boost for current UC students"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/ED1107/S00019/big-scholarship-boost-for-current-uc-students.htm
+title: Big scholarship boost for current UC students
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00019/big-scholarship-boost-for-current-uc-students.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/06/big-scholarship-boost-for-current-uc-students/index.html
+layout: layout.njk
 ---
 Big scholarship boost for current UC students
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: double-standard-in-mercy-sentence
-title: "Double standard in mercy sentence"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/PA0404/S00321/double-standard-in-mercy-sentence.htm
+title: Double standard in mercy sentence
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00321/double-standard-in-mercy-sentence.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/21/double-standard-in-mercy-sentence/index.html
+layout: layout.njk
 ---
 Double standard in mercy sentence
 =================================

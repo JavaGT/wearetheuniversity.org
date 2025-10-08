@@ -1,9 +1,13 @@
 ---
 slug: national-party-reheating-failed-education-policies
-title: "National Party Reheating Failed Education Policies"
-date: 2003-09-24
-source-url: https://www.scoop.co.nz/stories/ED0309/S00118/national-party-reheating-failed-education-policies.htm
+title: National Party Reheating Failed Education Policies
+date: 2003-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00118/national-party-reheating-failed-education-policies.htm
 author: nzei
+permalink: >-
+  /archive/2003/09/24/national-party-reheating-failed-education-policies/index.html
+layout: layout.njk
 ---
 National Party Reheating Failed Education Policies
 ==================================================

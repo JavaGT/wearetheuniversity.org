@@ -1,9 +1,12 @@
 ---
 slug: university-acknowledges-loss-of-noted-māori-scholar
-title: "University acknowledges loss of  noted Māori scholar"
-date: 2015-02-12
-source-url: https://www.scoop.co.nz/stories/ED1502/S00044/university-acknowledges-loss-of-noted-maori-scholar.htm
+title: University acknowledges loss of  noted Māori scholar
+date: 2015-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00044/university-acknowledges-loss-of-noted-maori-scholar.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/12/university-acknowledges-loss-of-noted-m/index.html
+layout: layout.njk
 ---
 University acknowledges loss of noted Māori scholar
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: children-have-fun-with-incredible-science
-title: "Children have fun with Incredible Science"
-date: 2006-06-27
-source-url: https://www.scoop.co.nz/stories/SC0606/S00058/children-have-fun-with-incredible-science.htm
+title: Children have fun with Incredible Science
+date: 2006-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00058/children-have-fun-with-incredible-science.htm
 author: auckland-university
+permalink: /archive/2006/06/27/children-have-fun-with-incredible-science/index.html
+layout: layout.njk
 ---
 Children have fun with Incredible Science
 =========================================

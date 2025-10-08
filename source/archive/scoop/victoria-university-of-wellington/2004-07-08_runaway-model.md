@@ -1,9 +1,11 @@
 ---
 slug: runaway-model
-title: "Runaway Model"
-date: 2004-07-08
+title: Runaway Model
+date: 2004-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00027/runaway-model.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/08/runaway-model/index.html
+layout: layout.njk
 ---
 Runaway Model
 =============

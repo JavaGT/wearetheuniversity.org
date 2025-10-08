@@ -1,9 +1,12 @@
 ---
 slug: national-applauds-backdown-on-helicopters
-title: "National applauds backdown on helicopters"
-date: 2005-01-19
-source-url: https://www.scoop.co.nz/stories/PA0501/S00147/national-applauds-backdown-on-helicopters.htm
+title: National applauds backdown on helicopters
+date: 2005-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00147/national-applauds-backdown-on-helicopters.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/19/national-applauds-backdown-on-helicopters/index.html
+layout: layout.njk
 ---
 National applauds backdown on helicopters
 =========================================

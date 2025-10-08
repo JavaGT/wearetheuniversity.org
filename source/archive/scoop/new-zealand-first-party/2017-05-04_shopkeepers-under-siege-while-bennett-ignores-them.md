@@ -1,9 +1,13 @@
 ---
 slug: shopkeepers-under-siege-while-bennett-ignores-them
-title: "Shopkeepers under Siege While Bennett Ignores Them"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/PA1705/S00077/shopkeepers-under-siege-while-bennett-ignores-them.htm
+title: Shopkeepers under Siege While Bennett Ignores Them
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00077/shopkeepers-under-siege-while-bennett-ignores-them.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/04/shopkeepers-under-siege-while-bennett-ignores-them/index.html
+layout: layout.njk
 ---
 Shopkeepers under Siege While Bennett Ignores Them
 ==================================================

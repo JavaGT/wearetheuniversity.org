@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-research-receives-boost-from-scholarship
-title: "Te Reo Māori research receives boost from scholarship"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/ED1412/S00056/te-reo-maori-research-receives-boost-from-scholarship.htm
+title: Te Reo Māori research receives boost from scholarship
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00056/te-reo-maori-research-receives-boost-from-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2014/12/09/te-reo-m/index.html
+layout: layout.njk
 ---
 Te Reo Māori research receives boost from scholarship
 =====================================================

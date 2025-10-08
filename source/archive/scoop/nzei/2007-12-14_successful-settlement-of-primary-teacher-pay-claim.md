@@ -1,9 +1,13 @@
 ---
 slug: successful-settlement-of-primary-teacher-pay-claim
-title: "Successful Settlement of Primary Teacher Pay Claim"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/ED0712/S00066/successful-settlement-of-primary-teacher-pay-claim.htm
+title: Successful Settlement of Primary Teacher Pay Claim
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00066/successful-settlement-of-primary-teacher-pay-claim.htm
 author: nzei
+permalink: >-
+  /archive/2007/12/14/successful-settlement-of-primary-teacher-pay-claim/index.html
+layout: layout.njk
 ---
 Successful Settlement of Primary Teacher Pay Claim
 ==================================================

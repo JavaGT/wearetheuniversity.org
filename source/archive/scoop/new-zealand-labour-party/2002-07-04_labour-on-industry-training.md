@@ -1,9 +1,11 @@
 ---
 slug: labour-on-industry-training
-title: "Labour On Industry Training"
-date: 2002-07-04
+title: Labour On Industry Training
+date: 2002-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00126/labour-on-industry-training.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/04/labour-on-industry-training/index.html
+layout: layout.njk
 ---
 Labour On Industry Training
 ===========================

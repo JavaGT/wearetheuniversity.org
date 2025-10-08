@@ -1,9 +1,13 @@
 ---
 slug: treasury-papers-expose-govt-on-early-childhood-cut
-title: "Treasury Papers Expose Govt on Early Childhood Cut"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/ED1007/S00038/treasury-papers-expose-govt-on-early-childhood-cut.htm
+title: Treasury Papers Expose Govt on Early Childhood Cut
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00038/treasury-papers-expose-govt-on-early-childhood-cut.htm
 author: nzei
+permalink: >-
+  /archive/2010/07/09/treasury-papers-expose-govt-on-early-childhood-cut/index.html
+layout: layout.njk
 ---
 Treasury Papers Expose Govt on Early Childhood Cut
 ==================================================

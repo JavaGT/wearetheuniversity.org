@@ -1,9 +1,13 @@
 ---
 slug: flawed-rehab-assumptions-driving-millions-in-acc
-title: "Flawed rehab assumptions driving millions in ACC"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/GE0910/S00013/flawed-rehab-assumptions-driving-millions-in-acc.htm
+title: Flawed rehab assumptions driving millions in ACC
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0910/S00013/flawed-rehab-assumptions-driving-millions-in-acc.htm
 author: aut-university
+permalink: >-
+  /archive/2009/10/05/flawed-rehab-assumptions-driving-millions-in-acc/index.html
+layout: layout.njk
 ---
 Flawed rehab assumptions driving millions in ACC
 ================================================

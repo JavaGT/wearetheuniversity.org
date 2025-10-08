@@ -1,9 +1,12 @@
 ---
 slug: book-offers-lessons-on-how-to-cope
-title: "Book offers lessons on how to cope"
-date: 2005-11-03
-source-url: https://www.scoop.co.nz/stories/ED0511/S00014/book-offers-lessons-on-how-to-cope.htm
+title: Book offers lessons on how to cope
+date: 2005-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00014/book-offers-lessons-on-how-to-cope.htm
 author: university-of-canterbury
+permalink: /archive/2005/11/03/book-offers-lessons-on-how-to-cope/index.html
+layout: layout.njk
 ---
 Book offers lessons on how to cope
 ==================================

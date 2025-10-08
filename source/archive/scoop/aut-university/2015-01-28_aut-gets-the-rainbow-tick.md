@@ -1,9 +1,11 @@
 ---
 slug: aut-gets-the-rainbow-tick
-title: "AUT gets  the Rainbow Tick"
-date: 2015-01-28
+title: AUT gets  the Rainbow Tick
+date: 2015-01-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1501/S00100/aut-gets-the-rainbow-tick.htm
 author: aut-university
+permalink: /archive/2015/01/28/aut-gets-the-rainbow-tick/index.html
+layout: layout.njk
 ---
 AUT gets the Rainbow Tick
 =========================

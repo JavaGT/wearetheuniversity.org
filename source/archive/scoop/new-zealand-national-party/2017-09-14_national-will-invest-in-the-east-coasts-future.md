@@ -1,9 +1,12 @@
 ---
 slug: national-will-invest-in-the-east-coasts-future
-title: "National will invest in the East Coast’s future"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/PA1709/S00165/national-will-invest-in-the-east-coasts-future.htm
+title: National will invest in the East Coast’s future
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00165/national-will-invest-in-the-east-coasts-future.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/14/national-will-invest-in-the-east-coasts-future/index.html
+layout: layout.njk
 ---
 National will invest in the East Coast’s future
 ===============================================

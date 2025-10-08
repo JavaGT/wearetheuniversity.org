@@ -1,9 +1,13 @@
 ---
 slug: labour-no-forced-council-mergers-without-local-input
-title: "Labour: No forced council mergers without local input"
-date: 2011-11-16
-source-url: https://www.scoop.co.nz/stories/PA1111/S00322/labour-no-forced-council-mergers-without-local-input.htm
+title: 'Labour: No forced council mergers without local input'
+date: 2011-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00322/labour-no-forced-council-mergers-without-local-input.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/16/labour-no-forced-council-mergers-without-local-input/index.html
+layout: layout.njk
 ---
 Labour: No forced council mergers without local input
 =====================================================

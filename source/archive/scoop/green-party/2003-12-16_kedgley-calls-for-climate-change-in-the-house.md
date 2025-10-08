@@ -1,9 +1,12 @@
 ---
 slug: kedgley-calls-for-climate-change-in-the-house
-title: "Kedgley calls for climate change in the House"
-date: 2003-12-16
-source-url: https://www.scoop.co.nz/stories/PA0312/S00379/kedgley-calls-for-climate-change-in-the-house.htm
+title: Kedgley calls for climate change in the House
+date: 2003-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00379/kedgley-calls-for-climate-change-in-the-house.htm
 author: green-party
+permalink: /archive/2003/12/16/kedgley-calls-for-climate-change-in-the-house/index.html
+layout: layout.njk
 ---
 Kedgley calls for climate change in the House
 =============================================

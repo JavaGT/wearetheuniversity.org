@@ -1,9 +1,13 @@
 ---
 slug: architecture-students-present-designs-to-ngati-toa
-title: "Architecture students present designs to Ngati Toa"
-date: 2003-07-02
-source-url: https://www.scoop.co.nz/stories/ED0307/S00008/architecture-students-present-designs-to-ngati-toa.htm
+title: Architecture students present designs to Ngati Toa
+date: 2003-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00008/architecture-students-present-designs-to-ngati-toa.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/07/02/architecture-students-present-designs-to-ngati-toa/index.html
+layout: layout.njk
 ---
 Architecture students present designs to Ngati Toa
 ==================================================

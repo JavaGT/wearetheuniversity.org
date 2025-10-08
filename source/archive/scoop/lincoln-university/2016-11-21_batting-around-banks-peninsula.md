@@ -1,9 +1,12 @@
 ---
 slug: batting-around-banks-peninsula
-title: "Batting around Banks Peninsula"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/SC1611/S00059/batting-around-banks-peninsula.htm
+title: Batting around Banks Peninsula
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00059/batting-around-banks-peninsula.htm
 author: lincoln-university
+permalink: /archive/2016/11/21/batting-around-banks-peninsula/index.html
+layout: layout.njk
 ---
 Batting around Banks Peninsula
 ==============================

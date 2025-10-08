@@ -1,9 +1,16 @@
 ---
-slug: research-into-spiders-that-can-count-among-marsden-funded-university-of-canterbury-projects
-title: "Research Into Spiders That Can Count Among Marsden-funded University Of Canterbury Projects"
-date: 2021-11-03
-source-url: https://www.scoop.co.nz/stories/SC2111/S00012/research-into-spiders-that-can-count-among-marsden-funded-university-of-canterbury-projects.htm
+slug: >-
+  research-into-spiders-that-can-count-among-marsden-funded-university-of-canterbury-projects
+title: >-
+  Research Into Spiders That Can Count Among Marsden-funded University Of
+  Canterbury Projects
+date: 2021-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2111/S00012/research-into-spiders-that-can-count-among-marsden-funded-university-of-canterbury-projects.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/03/research-into-spiders-that-can-count-among-marsden-funded-university-of-canterbury-projects/index.html
+layout: layout.njk
 ---
 Research Into Spiders That Can Count Among Marsden-funded University Of Canterbury Projects
 ===========================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-sharples-kingitanga-day-waikato-university
-title: "Speech: Sharples - Kingitanga Day, Waikato University"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00343/speech-sharples-kingitanga-day-waikato-university.htm
+title: 'Speech: Sharples - Kingitanga Day, Waikato University'
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00343/speech-sharples-kingitanga-day-waikato-university.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/14/speech-sharples-kingitanga-day-waikato-university/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Kingitanga Day, Waikato University
 =====================================================

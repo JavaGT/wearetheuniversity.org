@@ -1,9 +1,12 @@
 ---
 slug: nz-in-need-of-a-truly-family-violence-policy
-title: "NZ in need of a truly ‘family’ violence policy"
-date: 2009-04-02
-source-url: https://www.scoop.co.nz/stories/PO0904/S00027/nz-in-need-of-a-truly-family-violence-policy.htm
+title: NZ in need of a truly ‘family’ violence policy
+date: 2009-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00027/nz-in-need-of-a-truly-family-violence-policy.htm
 author: aut-university
+permalink: /archive/2009/04/02/nz-in-need-of-a-truly-family-violence-policy/index.html
+layout: layout.njk
 ---
 NZ in need of a truly ‘family’ violence policy
 ==============================================

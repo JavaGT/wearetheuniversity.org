@@ -1,9 +1,13 @@
 ---
 slug: do-new-zealanders-still-want-the-quarter-acre-dream
-title: "Do New Zealanders still want the quarter-acre dream?"
-date: 2015-11-01
-source-url: https://www.scoop.co.nz/stories/CU1511/S00001/do-new-zealanders-still-want-the-quarter-acre-dream.htm
+title: Do New Zealanders still want the quarter-acre dream?
+date: 2015-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00001/do-new-zealanders-still-want-the-quarter-acre-dream.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/01/do-new-zealanders-still-want-the-quarter-acre-dream/index.html
+layout: layout.njk
 ---
 Do New Zealanders still want the quarter-acre dream?
 ====================================================

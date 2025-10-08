@@ -1,9 +1,12 @@
 ---
 slug: council-fleets-go-under-microscope
-title: "Council fleets go under microscope"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00244/council-fleets-go-under-microscope.htm
+title: Council fleets go under microscope
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00244/council-fleets-go-under-microscope.htm
 author: green-party
+permalink: /archive/2007/02/14/council-fleets-go-under-microscope/index.html
+layout: layout.njk
 ---
 Council fleets go under microscope
 ==================================

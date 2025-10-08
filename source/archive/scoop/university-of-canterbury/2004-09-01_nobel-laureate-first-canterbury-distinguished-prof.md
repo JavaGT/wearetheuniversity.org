@@ -1,9 +1,13 @@
 ---
 slug: nobel-laureate-first-canterbury-distinguished-prof
-title: "Nobel Laureate first Canterbury Distinguished Prof"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/ED0409/S00001/nobel-laureate-first-canterbury-distinguished-prof.htm
+title: Nobel Laureate first Canterbury Distinguished Prof
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00001/nobel-laureate-first-canterbury-distinguished-prof.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/09/01/nobel-laureate-first-canterbury-distinguished-prof/index.html
+layout: layout.njk
 ---
 Nobel Laureate first Canterbury Distinguished Prof
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-ranked-top-world-wide-for-accounting
-title: "University Of Waikato Ranked Top World-wide For Accounting"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/ED2004/S00050/university-of-waikato-ranked-top-world-wide-for-accounting.htm
+title: University Of Waikato Ranked Top World-wide For Accounting
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00050/university-of-waikato-ranked-top-world-wide-for-accounting.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/04/23/university-of-waikato-ranked-top-world-wide-for-accounting/index.html
+layout: layout.njk
 ---
 University Of Waikato Ranked Top World-wide For Accounting
 ==========================================================

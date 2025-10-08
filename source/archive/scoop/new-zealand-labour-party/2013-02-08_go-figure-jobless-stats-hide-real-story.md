@@ -1,9 +1,12 @@
 ---
 slug: go-figure-jobless-stats-hide-real-story
-title: "Go Figure – Jobless ‘Stats’ Hide Real Story"
-date: 2013-02-08
-source-url: https://www.scoop.co.nz/stories/PA1302/S00094/go-figure-jobless-stats-hide-real-story.htm
+title: Go Figure – Jobless ‘Stats’ Hide Real Story
+date: 2013-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00094/go-figure-jobless-stats-hide-real-story.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/08/go-figure-jobless-stats-hide-real-story/index.html
+layout: layout.njk
 ---
 Go Figure – Jobless ‘Stats’ Hide Real Story
 ===========================================

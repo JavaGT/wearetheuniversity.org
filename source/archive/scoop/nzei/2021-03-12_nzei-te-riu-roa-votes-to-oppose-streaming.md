@@ -1,9 +1,12 @@
 ---
 slug: nzei-te-riu-roa-votes-to-oppose-streaming
-title: "NZEI Te Riu Roa Votes To Oppose Streaming"
-date: 2021-03-12
-source-url: https://www.scoop.co.nz/stories/ED2103/S00022/nzei-te-riu-roa-votes-to-oppose-streaming.htm
+title: NZEI Te Riu Roa Votes To Oppose Streaming
+date: 2021-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00022/nzei-te-riu-roa-votes-to-oppose-streaming.htm
 author: nzei
+permalink: /archive/2021/03/12/nzei-te-riu-roa-votes-to-oppose-streaming/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Votes To Oppose Streaming
 =========================================

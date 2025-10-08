@@ -1,9 +1,12 @@
 ---
 slug: mallard-and-labour-hypocrites-over-asset-sales
-title: "Mallard and Labour hypocrites over asset sales"
-date: 2006-06-18
-source-url: https://www.scoop.co.nz/stories/PA0606/S00345/mallard-and-labour-hypocrites-over-asset-sales.htm
+title: Mallard and Labour hypocrites over asset sales
+date: 2006-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00345/mallard-and-labour-hypocrites-over-asset-sales.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/18/mallard-and-labour-hypocrites-over-asset-sales/index.html
+layout: layout.njk
 ---
 Mallard and Labour hypocrites over asset sales
 ==============================================

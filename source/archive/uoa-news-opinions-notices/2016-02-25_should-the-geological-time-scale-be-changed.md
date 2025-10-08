@@ -1,8 +1,11 @@
 ---
 slug: should-the-geological-time-scale-be-changed
-title: "Should the Geological Time Scale be changed?"
-date: 2016-02-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/should-the-geological-time-scale-be-changed-.html
+title: Should the Geological Time Scale be changed?
+date: 2016-02-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/should-the-geological-time-scale-be-changed-.html
+permalink: /archive/2016/02/25/should-the-geological-time-scale-be-changed/index.html
+layout: layout.njk
 ---
 Should the Geological Time Scale be changed?
 ============================================

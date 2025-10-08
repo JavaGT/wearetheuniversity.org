@@ -1,9 +1,13 @@
 ---
 slug: new-tauranga-lecture-series-looks-at-survival-of-the-eu
-title: "New Tauranga lecture series looks at survival of the EU"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/AK1708/S00163/new-tauranga-lecture-series-looks-at-survival-of-the-eu.htm
+title: New Tauranga lecture series looks at survival of the EU
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00163/new-tauranga-lecture-series-looks-at-survival-of-the-eu.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/08/08/new-tauranga-lecture-series-looks-at-survival-of-the-eu/index.html
+layout: layout.njk
 ---
 New Tauranga lecture series looks at survival of the EU
 =======================================================

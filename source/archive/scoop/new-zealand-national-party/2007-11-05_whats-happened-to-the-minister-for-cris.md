@@ -1,9 +1,12 @@
 ---
 slug: whats-happened-to-the-minister-for-cris
-title: "What’s happened to the Minister for CRI’s?"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/PA0711/S00050/whats-happened-to-the-minister-for-cris.htm
+title: What’s happened to the Minister for CRI’s?
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00050/whats-happened-to-the-minister-for-cris.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/05/whats-happened-to-the-minister-for-cris/index.html
+layout: layout.njk
 ---
 What’s happened to the Minister for CRI’s?
 ==========================================

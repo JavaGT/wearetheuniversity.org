@@ -1,9 +1,11 @@
 ---
 slug: maharey-abandons-thousands
-title: "Maharey Abandons Thousands"
-date: 2004-05-21
+title: Maharey Abandons Thousands
+date: 2004-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00466/maharey-abandons-thousands.htm
 author: act-new-zealand
+permalink: /archive/2004/05/21/maharey-abandons-thousands/index.html
+layout: layout.njk
 ---
 Maharey Abandons Thousands
 ==========================

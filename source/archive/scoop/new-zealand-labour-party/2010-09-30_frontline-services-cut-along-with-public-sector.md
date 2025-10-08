@@ -1,9 +1,12 @@
 ---
 slug: frontline-services-cut-along-with-public-sector
-title: "Frontline services cut along with public sector"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/PA1009/S00449/frontline-services-cut-along-with-public-sector.htm
+title: Frontline services cut along with public sector
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00449/frontline-services-cut-along-with-public-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/30/frontline-services-cut-along-with-public-sector/index.html
+layout: layout.njk
 ---
 Frontline services cut along with public sector
 ===============================================

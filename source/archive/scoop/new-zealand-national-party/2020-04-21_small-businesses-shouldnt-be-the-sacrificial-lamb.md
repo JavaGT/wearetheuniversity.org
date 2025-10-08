@@ -1,9 +1,13 @@
 ---
 slug: small-businesses-shouldnt-be-the-sacrificial-lamb
-title: "Small Businesses Shouldn’t Be The ‘sacrificial Lamb’"
-date: 2020-04-21
-source-url: https://www.scoop.co.nz/stories/PA2004/S00120/small-businesses-shouldnt-be-the-sacrificial-lamb.htm
+title: Small Businesses Shouldn’t Be The ‘sacrificial Lamb’
+date: 2020-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00120/small-businesses-shouldnt-be-the-sacrificial-lamb.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/04/21/small-businesses-shouldnt-be-the-sacrificial-lamb/index.html
+layout: layout.njk
 ---
 Small Businesses Shouldn’t Be The ‘sacrificial Lamb’
 ====================================================

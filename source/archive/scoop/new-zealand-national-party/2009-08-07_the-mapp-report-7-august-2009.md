@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-7-august-2009
-title: "The Mapp Report - 7 August 2009"
-date: 2009-08-07
-source-url: https://www.scoop.co.nz/stories/PA0908/S00118/the-mapp-report-7-august-2009.htm
+title: The Mapp Report - 7 August 2009
+date: 2009-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00118/the-mapp-report-7-august-2009.htm
 author: new-zealand-national-party
+permalink: /archive/2009/08/07/the-mapp-report-7-august-2009/index.html
+layout: layout.njk
 ---
 The Mapp Report - 7 August 2009
 ===============================

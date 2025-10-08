@@ -1,9 +1,12 @@
 ---
 slug: time-to-restore-democracy-to-canterbury
-title: "Time to restore democracy to Canterbury"
-date: 2015-06-29
-source-url: https://www.scoop.co.nz/stories/PA1506/S00517/time-to-restore-democracy-to-canterbury.htm
+title: Time to restore democracy to Canterbury
+date: 2015-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00517/time-to-restore-democracy-to-canterbury.htm
 author: green-party
+permalink: /archive/2015/06/29/time-to-restore-democracy-to-canterbury/index.html
+layout: layout.njk
 ---
 Time to restore democracy to Canterbury
 =======================================

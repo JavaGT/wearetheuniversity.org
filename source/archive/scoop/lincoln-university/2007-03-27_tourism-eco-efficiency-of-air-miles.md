@@ -1,9 +1,12 @@
 ---
 slug: tourism-eco-efficiency-of-air-miles
-title: "Tourism - Eco-Efficiency of Air Miles"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00093/tourism-eco-efficiency-of-air-miles.htm
+title: Tourism - Eco-Efficiency of Air Miles
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00093/tourism-eco-efficiency-of-air-miles.htm
 author: lincoln-university
+permalink: /archive/2007/03/27/tourism-eco-efficiency-of-air-miles/index.html
+layout: layout.njk
 ---
 Tourism - Eco-Efficiency of Air Miles
 =====================================

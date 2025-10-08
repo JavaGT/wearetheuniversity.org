@@ -1,9 +1,12 @@
 ---
 slug: bluster-around-charter-school-benefits
-title: "Bluster around charter school ‘benefits'"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PA1205/S00076/bluster-around-charter-school-benefits.htm
+title: Bluster around charter school ‘benefits'
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00076/bluster-around-charter-school-benefits.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/03/bluster-around-charter-school-benefits/index.html
+layout: layout.njk
 ---
 Bluster around charter school ‘benefits'
 ========================================

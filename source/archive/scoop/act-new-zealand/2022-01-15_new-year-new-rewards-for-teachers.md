@@ -1,9 +1,12 @@
 ---
 slug: new-year-new-rewards-for-teachers
-title: "New Year, New Rewards For Teachers"
-date: 2022-01-15
-source-url: https://www.scoop.co.nz/stories/PA2201/S00041/new-year-new-rewards-for-teachers.htm
+title: New Year, New Rewards For Teachers
+date: 2022-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00041/new-year-new-rewards-for-teachers.htm
 author: act-new-zealand
+permalink: /archive/2022/01/15/new-year-new-rewards-for-teachers/index.html
+layout: layout.njk
 ---
 New Year, New Rewards For Teachers
 ==================================

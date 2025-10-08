@@ -1,9 +1,12 @@
 ---
 slug: state-of-the-art-climate-research-centre-opens
-title: "State-Of-The-Art Climate Research Centre Opens"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/SC0704/S00028/state-of-the-art-climate-research-centre-opens.htm
+title: State-Of-The-Art Climate Research Centre Opens
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0704/S00028/state-of-the-art-climate-research-centre-opens.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/12/state-of-the-art-climate-research-centre-opens/index.html
+layout: layout.njk
 ---
 State-Of-The-Art Climate Research Centre Opens
 ==============================================

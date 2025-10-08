@@ -1,9 +1,12 @@
 ---
 slug: immigration-minister-must-tell-full-story
-title: "Immigration Minister must tell full story"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00364/immigration-minister-must-tell-full-story.htm
+title: Immigration Minister must tell full story
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00364/immigration-minister-must-tell-full-story.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/22/immigration-minister-must-tell-full-story/index.html
+layout: layout.njk
 ---
 Immigration Minister must tell full story
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: future-doctors-concerned-about-health-workforce-strategy
-title: "Future Doctors Concerned About Health Workforce Strategy"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/GE1308/S00110/future-doctors-concerned-about-health-workforce-strategy.htm
+title: Future Doctors Concerned About Health Workforce Strategy
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00110/future-doctors-concerned-about-health-workforce-strategy.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2013/08/26/future-doctors-concerned-about-health-workforce-strategy/index.html
+layout: layout.njk
 ---
 Future Doctors Concerned About Health Workforce Strategy
 ========================================================

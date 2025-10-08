@@ -1,9 +1,13 @@
 ---
 slug: leading-academic-in-key-research-management-role
-title: "Leading academic in key research management role"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/ED0607/S00049/leading-academic-in-key-research-management-role.htm
+title: Leading academic in key research management role
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00049/leading-academic-in-key-research-management-role.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/07/17/leading-academic-in-key-research-management-role/index.html
+layout: layout.njk
 ---
 Leading academic in key research management role
 ================================================

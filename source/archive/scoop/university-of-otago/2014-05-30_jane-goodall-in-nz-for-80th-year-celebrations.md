@@ -1,9 +1,12 @@
 ---
 slug: jane-goodall-in-nz-for-80th-year-celebrations
-title: "Jane Goodall in NZ for 80th Year celebrations"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/CU1405/S00457/jane-goodall-in-nz-for-80th-year-celebrations.htm
+title: Jane Goodall in NZ for 80th Year celebrations
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00457/jane-goodall-in-nz-for-80th-year-celebrations.htm
 author: university-of-otago
+permalink: /archive/2014/05/30/jane-goodall-in-nz-for-80th-year-celebrations/index.html
+layout: layout.njk
 ---
 Jane Goodall in NZ for 80th Year celebrations
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-protect-and-save-new-zealand-jobs
-title: "Peters: Protect and Save New Zealand Jobs"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PA0810/S00377/peters-protect-and-save-new-zealand-jobs.htm
+title: 'Peters: Protect and Save New Zealand Jobs'
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00377/peters-protect-and-save-new-zealand-jobs.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/16/peters-protect-and-save-new-zealand-jobs/index.html
+layout: layout.njk
 ---
 Peters: Protect and Save New Zealand Jobs
 =========================================

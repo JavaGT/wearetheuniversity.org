@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-nzs-first-irish-studies-professor
-title: "Otago Appoints NZ's First Irish Studies Professor"
-date: 2006-06-08
-source-url: https://www.scoop.co.nz/stories/ED0606/S00015/otago-appoints-nzs-first-irish-studies-professor.htm
+title: Otago Appoints NZ's First Irish Studies Professor
+date: 2006-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00015/otago-appoints-nzs-first-irish-studies-professor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/06/08/otago-appoints-nzs-first-irish-studies-professor/index.html
+layout: layout.njk
 ---
 Otago Appoints NZ's First Irish Studies Professor
 =================================================

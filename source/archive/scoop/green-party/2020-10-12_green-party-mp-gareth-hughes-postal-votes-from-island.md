@@ -1,9 +1,13 @@
 ---
 slug: green-party-mp-gareth-hughes-postal-votes-from-island
-title: "Green Party MP Gareth Hughes Postal Votes From Island"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/PA2010/S00078/green-party-mp-gareth-hughes-postal-votes-from-island.htm
+title: Green Party MP Gareth Hughes Postal Votes From Island
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00078/green-party-mp-gareth-hughes-postal-votes-from-island.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/12/green-party-mp-gareth-hughes-postal-votes-from-island/index.html
+layout: layout.njk
 ---
 Green Party MP Gareth Hughes Postal Votes From Island
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: act-has-solutions-to-student-debt
-title: "ACT has solutions to student debt"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/ED0501/S00037/act-has-solutions-to-student-debt.htm
+title: ACT has solutions to student debt
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00037/act-has-solutions-to-student-debt.htm
 author: act-on-campus
+permalink: /archive/2005/01/21/act-has-solutions-to-student-debt/index.html
+layout: layout.njk
 ---
 ACT has solutions to student debt
 =================================

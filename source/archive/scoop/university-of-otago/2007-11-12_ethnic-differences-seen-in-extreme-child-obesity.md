@@ -1,9 +1,13 @@
 ---
 slug: ethnic-differences-seen-in-extreme-child-obesity
-title: "Ethnic differences seen in extreme child obesity"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/GE0711/S00060/ethnic-differences-seen-in-extreme-child-obesity.htm
+title: Ethnic differences seen in extreme child obesity
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00060/ethnic-differences-seen-in-extreme-child-obesity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/11/12/ethnic-differences-seen-in-extreme-child-obesity/index.html
+layout: layout.njk
 ---
 Ethnic differences seen in extreme child obesity
 ================================================

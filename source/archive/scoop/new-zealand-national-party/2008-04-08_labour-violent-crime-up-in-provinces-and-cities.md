@@ -1,9 +1,12 @@
 ---
 slug: labour-violent-crime-up-in-provinces-and-cities
-title: "Labour: violent crime up in provinces and cities"
-date: 2008-04-08
-source-url: https://www.scoop.co.nz/stories/PA0804/S00216/labour-violent-crime-up-in-provinces-and-cities.htm
+title: 'Labour: violent crime up in provinces and cities'
+date: 2008-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00216/labour-violent-crime-up-in-provinces-and-cities.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/08/labour-violent-crime-up-in-provinces-and-cities/index.html
+layout: layout.njk
 ---
 Labour: violent crime up in provinces and cities
 ================================================

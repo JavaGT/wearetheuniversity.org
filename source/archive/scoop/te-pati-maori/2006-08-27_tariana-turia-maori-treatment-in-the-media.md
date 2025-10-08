@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-maori-treatment-in-the-media
-title: "Tariana Turia: Maori Treatment in the Media"
-date: 2006-08-27
-source-url: https://www.scoop.co.nz/stories/PA0608/S00470/tariana-turia-maori-treatment-in-the-media.htm
+title: 'Tariana Turia: Maori Treatment in the Media'
+date: 2006-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00470/tariana-turia-maori-treatment-in-the-media.htm
 author: te-pati-maori
+permalink: /archive/2006/08/27/tariana-turia-maori-treatment-in-the-media/index.html
+layout: layout.njk
 ---
 Tariana Turia: Maori Treatment in the Media
 ===========================================

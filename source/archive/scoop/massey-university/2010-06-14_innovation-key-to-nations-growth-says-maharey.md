@@ -1,9 +1,12 @@
 ---
 slug: innovation-key-to-nations-growth-says-maharey
-title: "Innovation key to nations' growth says Maharey"
-date: 2010-06-14
-source-url: https://www.scoop.co.nz/stories/ED1006/S00049/innovation-key-to-nations-growth-says-maharey.htm
+title: Innovation key to nations' growth says Maharey
+date: 2010-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00049/innovation-key-to-nations-growth-says-maharey.htm
 author: massey-university
+permalink: /archive/2010/06/14/innovation-key-to-nations-growth-says-maharey/index.html
+layout: layout.njk
 ---
 Innovation key to nations' growth says Maharey
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-leader-to-help-serve-school-breakfast
-title: "Labour Leader to help serve school breakfast"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/PA1108/S00059/labour-leader-to-help-serve-school-breakfast.htm
+title: Labour Leader to help serve school breakfast
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00059/labour-leader-to-help-serve-school-breakfast.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/03/labour-leader-to-help-serve-school-breakfast/index.html
+layout: layout.njk
 ---
 Labour Leader to help serve school breakfast
 ============================================

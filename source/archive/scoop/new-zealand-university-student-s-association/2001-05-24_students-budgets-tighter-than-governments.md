@@ -1,9 +1,12 @@
 ---
 slug: students-budgets-tighter-than-governments
-title: "Students’ budgets tighter than Government's"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00057/students-budgets-tighter-than-governments.htm
+title: Students’ budgets tighter than Government's
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00057/students-budgets-tighter-than-governments.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/24/students-budgets-tighter-than-governments/index.html
+layout: layout.njk
 ---
 Students’ budgets tighter than Government's
 ===========================================

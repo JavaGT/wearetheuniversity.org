@@ -1,9 +1,13 @@
 ---
 slug: broad-testing-criteria-vital-to-containing-the-spread
-title: "Broad Testing Criteria Vital To Containing The Spread"
-date: 2020-03-20
-source-url: https://www.scoop.co.nz/stories/PA2003/S00152/broad-testing-criteria-vital-to-containing-the-spread.htm
+title: Broad Testing Criteria Vital To Containing The Spread
+date: 2020-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00152/broad-testing-criteria-vital-to-containing-the-spread.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/03/20/broad-testing-criteria-vital-to-containing-the-spread/index.html
+layout: layout.njk
 ---
 Broad Testing Criteria Vital To Containing The Spread
 =====================================================

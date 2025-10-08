@@ -1,9 +1,12 @@
 ---
 slug: victoria-and-cit-to-cooperate
-title: "Victoria and CIT to cooperate"
-date: 2000-08-01
-source-url: https://www.scoop.co.nz/stories/ED0008/S00001/victoria-and-cit-to-cooperate.htm
+title: Victoria and CIT to cooperate
+date: 2000-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00001/victoria-and-cit-to-cooperate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/08/01/victoria-and-cit-to-cooperate/index.html
+layout: layout.njk
 ---
 Victoria and CIT to cooperate
 =============================

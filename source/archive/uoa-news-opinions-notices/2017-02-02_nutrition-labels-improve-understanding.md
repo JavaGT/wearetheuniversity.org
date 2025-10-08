@@ -1,8 +1,11 @@
 ---
 slug: nutrition-labels-improve-understanding
-title: "Nutrition labels improve understanding"
-date: 2017-02-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/nutrition-labels-improve-understanding-.html
+title: Nutrition labels improve understanding
+date: 2017-02-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/nutrition-labels-improve-understanding-.html
+permalink: /archive/2017/02/02/nutrition-labels-improve-understanding/index.html
+layout: layout.njk
 ---
 Nutrition labels improve understanding
 ======================================

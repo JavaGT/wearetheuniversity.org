@@ -1,9 +1,13 @@
 ---
 slug: brownlee-must-make-locals-top-priority-post-quake
-title: "Brownlee must make locals top priority post-quake"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00136/brownlee-must-make-locals-top-priority-post-quake.htm
+title: Brownlee must make locals top priority post-quake
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00136/brownlee-must-make-locals-top-priority-post-quake.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/10/12/brownlee-must-make-locals-top-priority-post-quake/index.html
+layout: layout.njk
 ---
 Brownlee must make locals top priority post-quake
 =================================================

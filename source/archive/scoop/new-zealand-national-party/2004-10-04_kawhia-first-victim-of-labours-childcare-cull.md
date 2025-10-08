@@ -1,9 +1,12 @@
 ---
 slug: kawhia-first-victim-of-labours-childcare-cull
-title: "Kawhia first victim of Labour's childcare cull"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/PA0410/S00057/kawhia-first-victim-of-labours-childcare-cull.htm
+title: Kawhia first victim of Labour's childcare cull
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00057/kawhia-first-victim-of-labours-childcare-cull.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/04/kawhia-first-victim-of-labours-childcare-cull/index.html
+layout: layout.njk
 ---
 Kawhia first victim of Labour's childcare cull
 ==============================================

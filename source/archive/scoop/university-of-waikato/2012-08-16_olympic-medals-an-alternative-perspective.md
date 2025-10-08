@@ -1,9 +1,12 @@
 ---
 slug: olympic-medals-an-alternative-perspective
-title: "Olympic medals: an alternative perspective"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/CU1208/S00290/olympic-medals-an-alternative-perspective.htm
+title: 'Olympic medals: an alternative perspective'
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00290/olympic-medals-an-alternative-perspective.htm
 author: university-of-waikato
+permalink: /archive/2012/08/16/olympic-medals-an-alternative-perspective/index.html
+layout: layout.njk
 ---
 Olympic medals: an alternative perspective
 ==========================================

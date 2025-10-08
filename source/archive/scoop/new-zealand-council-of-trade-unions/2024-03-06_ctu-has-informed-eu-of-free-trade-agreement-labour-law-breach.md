@@ -1,9 +1,13 @@
 ---
 slug: ctu-has-informed-eu-of-free-trade-agreement-labour-law-breach
-title: "CTU Has Informed EU Of Free Trade Agreement Labour Law Breach"
-date: 2024-03-06
-source-url: https://www.scoop.co.nz/stories/BU2403/S00070/ctu-has-informed-eu-of-free-trade-agreement-labour-law-breach.htm
+title: CTU Has Informed EU Of Free Trade Agreement Labour Law Breach
+date: 2024-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2403/S00070/ctu-has-informed-eu-of-free-trade-agreement-labour-law-breach.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/03/06/ctu-has-informed-eu-of-free-trade-agreement-labour-law-breach/index.html
+layout: layout.njk
 ---
 CTU Has Informed EU Of Free Trade Agreement Labour Law Breach
 =============================================================

@@ -1,9 +1,12 @@
 ---
 slug: waikatos-early-release-insults-memory-of-victim
-title: "Waikato's Early Release Insults Memory of Victim"
-date: 2002-10-30
-source-url: https://www.scoop.co.nz/stories/PA0210/S00579/waikatos-early-release-insults-memory-of-victim.htm
+title: Waikato's Early Release Insults Memory of Victim
+date: 2002-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00579/waikatos-early-release-insults-memory-of-victim.htm
 author: act-new-zealand
+permalink: /archive/2002/10/30/waikatos-early-release-insults-memory-of-victim/index.html
+layout: layout.njk
 ---
 Waikato's Early Release Insults Memory of Victim
 ================================================

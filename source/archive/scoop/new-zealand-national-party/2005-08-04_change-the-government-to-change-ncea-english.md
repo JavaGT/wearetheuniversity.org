@@ -1,9 +1,12 @@
 ---
 slug: change-the-government-to-change-ncea-english
-title: "Change the Government to Change NCEA - English"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/PA0508/S00098/change-the-government-to-change-ncea-english.htm
+title: Change the Government to Change NCEA - English
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00098/change-the-government-to-change-ncea-english.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/04/change-the-government-to-change-ncea-english/index.html
+layout: layout.njk
 ---
 Change the Government to Change NCEA - English
 ==============================================

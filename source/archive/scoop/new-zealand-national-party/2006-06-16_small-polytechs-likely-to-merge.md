@@ -1,9 +1,12 @@
 ---
 slug: small-polytechs-likely-to-merge
-title: "Small polytechs likely to merge"
-date: 2006-06-16
-source-url: https://www.scoop.co.nz/stories/PA0606/S00305/small-polytechs-likely-to-merge.htm
+title: Small polytechs likely to merge
+date: 2006-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00305/small-polytechs-likely-to-merge.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/16/small-polytechs-likely-to-merge/index.html
+layout: layout.njk
 ---
 Small polytechs likely to merge
 ===============================

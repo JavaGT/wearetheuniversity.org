@@ -1,9 +1,12 @@
 ---
 slug: māori-demanding-better-from-electoral-commission-2020
-title: "Māori Demanding Better From Electoral Commission 2020"
-date: 2020-08-14
-source-url: https://www.scoop.co.nz/stories/PO2008/S00186/maori-demanding-better-from-electoral-commission-2020.htm
+title: Māori Demanding Better From Electoral Commission 2020
+date: 2020-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00186/maori-demanding-better-from-electoral-commission-2020.htm
 author: massey-university
+permalink: /archive/2020/08/14/m/index.html
+layout: layout.njk
 ---
 Māori Demanding Better From Electoral Commission 2020
 =====================================================

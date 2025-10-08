@@ -1,9 +1,13 @@
 ---
 slug: breaking-down-new-zealand-history-across-disciplines
-title: "Breaking down New Zealand history across disciplines"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00074/breaking-down-new-zealand-history-across-disciplines.htm
+title: Breaking down New Zealand history across disciplines
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00074/breaking-down-new-zealand-history-across-disciplines.htm
 author: aut-university
+permalink: >-
+  /archive/2015/07/15/breaking-down-new-zealand-history-across-disciplines/index.html
+layout: layout.njk
 ---
 Breaking down New Zealand history across disciplines
 ====================================================

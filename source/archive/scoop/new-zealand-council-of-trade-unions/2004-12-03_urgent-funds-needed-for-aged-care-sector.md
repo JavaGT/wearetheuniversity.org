@@ -1,9 +1,12 @@
 ---
 slug: urgent-funds-needed-for-aged-care-sector
-title: "Urgent Funds Needed for Aged Care Sector"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/PO0412/S00041/urgent-funds-needed-for-aged-care-sector.htm
+title: Urgent Funds Needed for Aged Care Sector
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00041/urgent-funds-needed-for-aged-care-sector.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/12/03/urgent-funds-needed-for-aged-care-sector/index.html
+layout: layout.njk
 ---
 Urgent Funds Needed for Aged Care Sector
 ========================================

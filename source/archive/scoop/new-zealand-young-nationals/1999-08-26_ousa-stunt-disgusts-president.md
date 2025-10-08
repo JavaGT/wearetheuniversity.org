@@ -1,9 +1,12 @@
 ---
 slug: ousa-stunt-disgusts-president
-title: "OUSA stunt disgusts President"
-date: 1999-08-26
-source-url: https://www.scoop.co.nz/stories/PO9908/S00096/ousa-stunt-disgusts-president.htm
+title: OUSA stunt disgusts President
+date: 1999-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9908/S00096/ousa-stunt-disgusts-president.htm
 author: new-zealand-young-nationals
+permalink: /archive/1999/08/26/ousa-stunt-disgusts-president/index.html
+layout: layout.njk
 ---
 OUSA stunt disgusts President
 =============================

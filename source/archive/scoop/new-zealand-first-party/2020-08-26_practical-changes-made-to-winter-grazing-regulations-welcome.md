@@ -1,9 +1,13 @@
 ---
 slug: practical-changes-made-to-winter-grazing-regulations-welcome
-title: "Practical Changes Made to Winter Grazing Regulations Welcome"
-date: 2020-08-26
-source-url: https://www.scoop.co.nz/stories/PA2008/S00199/practical-changes-made-to-winter-grazing-regulations-welcome.htm
+title: Practical Changes Made to Winter Grazing Regulations Welcome
+date: 2020-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00199/practical-changes-made-to-winter-grazing-regulations-welcome.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/08/26/practical-changes-made-to-winter-grazing-regulations-welcome/index.html
+layout: layout.njk
 ---
 Practical Changes Made to Winter Grazing Regulations Welcome
 ============================================================

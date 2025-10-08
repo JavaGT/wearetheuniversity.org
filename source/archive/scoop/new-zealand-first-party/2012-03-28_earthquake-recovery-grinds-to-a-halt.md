@@ -1,9 +1,12 @@
 ---
 slug: earthquake-recovery-grinds-to-a-halt
-title: "Earthquake Recovery Grinds to a Halt"
-date: 2012-03-28
-source-url: https://www.scoop.co.nz/stories/PA1203/S00377/earthquake-recovery-grinds-to-a-halt.htm
+title: Earthquake Recovery Grinds to a Halt
+date: 2012-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00377/earthquake-recovery-grinds-to-a-halt.htm
 author: new-zealand-first-party
+permalink: /archive/2012/03/28/earthquake-recovery-grinds-to-a-halt/index.html
+layout: layout.njk
 ---
 Earthquake Recovery Grinds to a Halt
 ====================================

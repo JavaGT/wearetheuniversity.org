@@ -1,9 +1,13 @@
 ---
 slug: earthquake-rebuild-demands-urgent-tax-law-change
-title: "Earthquake Rebuild Demands Urgent Tax Law Change"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/PA1611/S00359/earthquake-rebuild-demands-urgent-tax-law-change.htm
+title: Earthquake Rebuild Demands Urgent Tax Law Change
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00359/earthquake-rebuild-demands-urgent-tax-law-change.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/21/earthquake-rebuild-demands-urgent-tax-law-change/index.html
+layout: layout.njk
 ---
 Earthquake Rebuild Demands Urgent Tax Law Change
 ================================================

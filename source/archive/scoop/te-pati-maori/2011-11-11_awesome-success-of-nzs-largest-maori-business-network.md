@@ -1,9 +1,13 @@
 ---
 slug: awesome-success-of-nzs-largest-maori-business-network
-title: "'Awesome success' of NZ's largest Maori  Business network"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/PA1111/S00234/awesome-success-of-nzs-largest-maori-business-network.htm
+title: '''Awesome success'' of NZ''s largest Maori  Business network'
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00234/awesome-success-of-nzs-largest-maori-business-network.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/11/11/awesome-success-of-nzs-largest-maori-business-network/index.html
+layout: layout.njk
 ---
 'Awesome success' of NZ's largest Maori Business network
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: coromandel-proves-mining-wealth-myth
-title: "Coromandel Proves Mining Wealth Myth"
-date: 2001-08-28
-source-url: https://www.scoop.co.nz/stories/PA0108/S00520/coromandel-proves-mining-wealth-myth.htm
+title: Coromandel Proves Mining Wealth Myth
+date: 2001-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00520/coromandel-proves-mining-wealth-myth.htm
 author: green-party
+permalink: /archive/2001/08/28/coromandel-proves-mining-wealth-myth/index.html
+layout: layout.njk
 ---
 Coromandel Proves Mining Wealth Myth
 ====================================

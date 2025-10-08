@@ -1,9 +1,12 @@
 ---
 slug: virtual-classroom-wins-excellence-awards
-title: "Virtual classroom wins excellence awards"
-date: 2005-08-02
-source-url: https://www.scoop.co.nz/stories/SC0508/S00012/virtual-classroom-wins-excellence-awards.htm
+title: Virtual classroom wins excellence awards
+date: 2005-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0508/S00012/virtual-classroom-wins-excellence-awards.htm
 author: waikato-university
+permalink: /archive/2005/08/02/virtual-classroom-wins-excellence-awards/index.html
+layout: layout.njk
 ---
 Virtual classroom wins excellence awards
 ========================================

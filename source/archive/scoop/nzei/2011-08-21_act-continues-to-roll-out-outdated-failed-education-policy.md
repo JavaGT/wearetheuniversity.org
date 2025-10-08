@@ -1,9 +1,13 @@
 ---
 slug: act-continues-to-roll-out-outdated-failed-education-policy
-title: "ACT continues to roll-out outdated failed education policy"
-date: 2011-08-21
-source-url: https://www.scoop.co.nz/stories/PO1108/S00284/act-continues-to-roll-out-outdated-failed-education-policy.htm
+title: ACT continues to roll-out outdated failed education policy
+date: 2011-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00284/act-continues-to-roll-out-outdated-failed-education-policy.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/21/act-continues-to-roll-out-outdated-failed-education-policy/index.html
+layout: layout.njk
 ---
 ACT continues to roll-out outdated failed education policy
 ==========================================================

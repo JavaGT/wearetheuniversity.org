@@ -1,9 +1,12 @@
 ---
 slug: nzei-champions-quality-public-education
-title: "NZEI Champions Quality Public Education"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/PO0609/S00284/nzei-champions-quality-public-education.htm
+title: NZEI Champions Quality Public Education
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00284/nzei-champions-quality-public-education.htm
 author: nzei
+permalink: /archive/2006/09/26/nzei-champions-quality-public-education/index.html
+layout: layout.njk
 ---
 NZEI Champions Quality Public Education
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: key-notes-north-american-trip
-title: "Key Notes - North American Trip"
-date: 2007-07-12
-source-url: https://www.scoop.co.nz/stories/PA0707/S00180/key-notes-north-american-trip.htm
+title: Key Notes - North American Trip
+date: 2007-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00180/key-notes-north-american-trip.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/12/key-notes-north-american-trip/index.html
+layout: layout.njk
 ---
 Key Notes - North American Trip
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: prebble-delivers-wellingtonians-views-on-hospital
-title: "Prebble Delivers Wellingtonians' Views On Hospital"
-date: 1999-08-09
-source-url: https://www.scoop.co.nz/stories/PA9908/S00137/prebble-delivers-wellingtonians-views-on-hospital.htm
+title: Prebble Delivers Wellingtonians' Views On Hospital
+date: 1999-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00137/prebble-delivers-wellingtonians-views-on-hospital.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/08/09/prebble-delivers-wellingtonians-views-on-hospital/index.html
+layout: layout.njk
 ---
 Prebble Delivers Wellingtonians' Views On Hospital
 ==================================================

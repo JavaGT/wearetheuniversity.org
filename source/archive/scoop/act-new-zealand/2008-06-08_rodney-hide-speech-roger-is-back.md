@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-speech-roger-is-back
-title: "Rodney Hide Speech: Roger Is Back"
-date: 2008-06-08
-source-url: https://www.scoop.co.nz/stories/PA0806/S00099/rodney-hide-speech-roger-is-back.htm
+title: 'Rodney Hide Speech: Roger Is Back'
+date: 2008-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00099/rodney-hide-speech-roger-is-back.htm
 author: act-new-zealand
+permalink: /archive/2008/06/08/rodney-hide-speech-roger-is-back/index.html
+layout: layout.njk
 ---
 Rodney Hide Speech: Roger Is Back
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: hekia-just-wont-face-the-facts
-title: "Hekia just won’t face the facts"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PA1507/S00425/hekia-just-wont-face-the-facts.htm
+title: Hekia just won’t face the facts
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00425/hekia-just-wont-face-the-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/24/hekia-just-wont-face-the-facts/index.html
+layout: layout.njk
 ---
 Hekia just won’t face the facts
 ===============================

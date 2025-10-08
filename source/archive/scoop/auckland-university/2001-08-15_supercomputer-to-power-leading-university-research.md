@@ -1,9 +1,13 @@
 ---
 slug: supercomputer-to-power-leading-university-research
-title: "Supercomputer To Power Leading University Research"
-date: 2001-08-15
-source-url: https://www.scoop.co.nz/stories/ED0108/S00044/supercomputer-to-power-leading-university-research.htm
+title: Supercomputer To Power Leading University Research
+date: 2001-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00044/supercomputer-to-power-leading-university-research.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/08/15/supercomputer-to-power-leading-university-research/index.html
+layout: layout.njk
 ---
 Supercomputer To Power Leading University Research
 ==================================================

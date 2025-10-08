@@ -1,9 +1,12 @@
 ---
 slug: importance-of-wider-educational-experience
-title: "Importance of wider educational experience"
-date: 2009-10-02
-source-url: https://www.scoop.co.nz/stories/ED0910/S00014/importance-of-wider-educational-experience.htm
+title: Importance of wider educational experience
+date: 2009-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00014/importance-of-wider-educational-experience.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/10/02/importance-of-wider-educational-experience/index.html
+layout: layout.njk
 ---
 Importance of wider educational experience
 ==========================================

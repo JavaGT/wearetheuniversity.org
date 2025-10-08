@@ -1,9 +1,12 @@
 ---
 slug: labour-supports-smoke-free-nz-by-2025
-title: "Labour supports smoke-free NZ by 2025"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/PA1202/S00323/labour-supports-smoke-free-nz-by-2025.htm
+title: Labour supports smoke-free NZ by 2025
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00323/labour-supports-smoke-free-nz-by-2025.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/28/labour-supports-smoke-free-nz-by-2025/index.html
+layout: layout.njk
 ---
 Labour supports smoke-free NZ by 2025
 =====================================

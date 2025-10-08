@@ -1,9 +1,12 @@
 ---
 slug: outrage-at-victoria-universitys-fee-tactics
-title: "Outrage at Victoria University's fee tactics"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/PO0702/S00370/outrage-at-victoria-universitys-fee-tactics.htm
+title: Outrage at Victoria University's fee tactics
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0702/S00370/outrage-at-victoria-universitys-fee-tactics.htm
 author: victoria-university-students-association
+permalink: /archive/2007/02/28/outrage-at-victoria-universitys-fee-tactics/index.html
+layout: layout.njk
 ---
 Outrage at Victoria University's fee tactics
 ============================================

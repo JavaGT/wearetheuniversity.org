@@ -1,9 +1,12 @@
 ---
 slug: design-project-explores-post-quake-resilience
-title: "Design project explores post-quake resilience"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/ED1504/S00012/design-project-explores-post-quake-resilience.htm
+title: Design project explores post-quake resilience
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00012/design-project-explores-post-quake-resilience.htm
 author: lincoln-university
+permalink: /archive/2015/04/02/design-project-explores-post-quake-resilience/index.html
+layout: layout.njk
 ---
 Design project explores post-quake resilience
 =============================================

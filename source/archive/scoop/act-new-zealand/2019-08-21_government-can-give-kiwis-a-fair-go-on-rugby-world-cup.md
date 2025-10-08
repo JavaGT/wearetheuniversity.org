@@ -1,9 +1,13 @@
 ---
 slug: government-can-give-kiwis-a-fair-go-on-rugby-world-cup
-title: "Government can give Kiwis a fair go on Rugby World Cup"
-date: 2019-08-21
-source-url: https://www.scoop.co.nz/stories/PA1908/S00210/government-can-give-kiwis-a-fair-go-on-rugby-world-cup.htm
+title: Government can give Kiwis a fair go on Rugby World Cup
+date: 2019-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00210/government-can-give-kiwis-a-fair-go-on-rugby-world-cup.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/08/21/government-can-give-kiwis-a-fair-go-on-rugby-world-cup/index.html
+layout: layout.njk
 ---
 Government can give Kiwis a fair go on Rugby World Cup
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: we-need-nurses-and-midwives-now
-title: "We Need Nurses And Midwives Now"
-date: 2022-07-09
-source-url: https://www.scoop.co.nz/stories/PA2207/S00062/we-need-nurses-and-midwives-now.htm
+title: We Need Nurses And Midwives Now
+date: 2022-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00062/we-need-nurses-and-midwives-now.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/09/we-need-nurses-and-midwives-now/index.html
+layout: layout.njk
 ---
 We Need Nurses And Midwives Now
 ===============================

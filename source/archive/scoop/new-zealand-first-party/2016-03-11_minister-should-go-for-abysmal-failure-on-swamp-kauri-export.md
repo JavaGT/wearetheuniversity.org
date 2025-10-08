@@ -1,9 +1,13 @@
 ---
 slug: minister-should-go-for-abysmal-failure-on-swamp-kauri-export
-title: "Minister Should Go for Abysmal Failure on Swamp Kauri Export"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/PA1603/S00213/minister-should-go-for-abysmal-failure-on-swamp-kauri-export.htm
+title: Minister Should Go for Abysmal Failure on Swamp Kauri Export
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00213/minister-should-go-for-abysmal-failure-on-swamp-kauri-export.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/03/11/minister-should-go-for-abysmal-failure-on-swamp-kauri-export/index.html
+layout: layout.njk
 ---
 Minister Should Go for Abysmal Failure on Swamp Kauri Export
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: like-father-like-daughter-science-is-a-family-affair
-title: "Like father, like daughter – science is a family affair"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/ED1505/S00056/like-father-like-daughter-science-is-a-family-affair.htm
+title: Like father, like daughter – science is a family affair
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00056/like-father-like-daughter-science-is-a-family-affair.htm
 author: massey-university
+permalink: >-
+  /archive/2015/05/12/like-father-like-daughter-science-is-a-family-affair/index.html
+layout: layout.njk
 ---
 Like father, like daughter – science is a family affair
 =======================================================

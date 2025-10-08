@@ -1,9 +1,12 @@
 ---
 slug: a-triumph-of-knowledge-over-ignorance
-title: "A Triumph Of Knowledge Over Ignorance"
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/PA0006/S00578/a-triumph-of-knowledge-over-ignorance.htm
+title: A Triumph Of Knowledge Over Ignorance
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00578/a-triumph-of-knowledge-over-ignorance.htm
 author: act-new-zealand
+permalink: /archive/2000/06/27/a-triumph-of-knowledge-over-ignorance/index.html
+layout: layout.njk
 ---
 A Triumph Of Knowledge Over Ignorance
 =====================================

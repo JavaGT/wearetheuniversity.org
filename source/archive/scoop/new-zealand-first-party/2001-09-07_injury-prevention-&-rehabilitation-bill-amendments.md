@@ -1,9 +1,12 @@
 ---
 slug: injury-prevention-&-rehabilitation-bill-amendments
-title: "Injury Prevention & Rehabilitation Bill Amendments"
-date: 2001-09-07
-source-url: https://www.scoop.co.nz/stories/PA0109/S00093/injury-prevention-rehabilitation-bill-amendments.htm
+title: Injury Prevention & Rehabilitation Bill Amendments
+date: 2001-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00093/injury-prevention-rehabilitation-bill-amendments.htm
 author: new-zealand-first-party
+permalink: /archive/2001/09/07/injury-prevention-/index.html
+layout: layout.njk
 ---
 Injury Prevention & Rehabilitation Bill Amendments
 ==================================================

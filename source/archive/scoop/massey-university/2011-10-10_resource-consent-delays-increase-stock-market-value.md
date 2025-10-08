@@ -1,9 +1,13 @@
 ---
 slug: resource-consent-delays-increase-stock-market-value
-title: "Resource consent delays ‘increase stock market value’"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/BU1110/S00222/resource-consent-delays-increase-stock-market-value.htm
+title: Resource consent delays ‘increase stock market value’
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1110/S00222/resource-consent-delays-increase-stock-market-value.htm
 author: massey-university
+permalink: >-
+  /archive/2011/10/10/resource-consent-delays-increase-stock-market-value/index.html
+layout: layout.njk
 ---
 Resource consent delays ‘increase stock market value’
 =====================================================

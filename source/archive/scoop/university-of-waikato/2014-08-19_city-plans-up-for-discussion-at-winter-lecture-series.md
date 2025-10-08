@@ -1,9 +1,13 @@
 ---
 slug: city-plans-up-for-discussion-at-winter-lecture-series
-title: "City plans up for discussion at Winter Lecture Series"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/AK1408/S00353/city-plans-up-for-discussion-at-winter-lecture-series.htm
+title: City plans up for discussion at Winter Lecture Series
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00353/city-plans-up-for-discussion-at-winter-lecture-series.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/19/city-plans-up-for-discussion-at-winter-lecture-series/index.html
+layout: layout.njk
 ---
 City plans up for discussion at Winter Lecture Series
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-eru-thompson
-title: "Poroporoaki: Eru Thompson"
-date: 2014-11-06
+title: 'Poroporoaki: Eru Thompson'
+date: 2014-11-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1411/S00084/poroporoaki-eru-thompson.htm
 author: te-pati-maori
+permalink: /archive/2014/11/06/poroporoaki-eru-thompson/index.html
+layout: layout.njk
 ---
 Poroporoaki: Eru Thompson
 =========================

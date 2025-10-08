@@ -1,9 +1,13 @@
 ---
 slug: new-government-inherits-very-strong-labour-market
-title: "New government inherits very strong labour market"
-date: 2017-11-01
-source-url: https://www.scoop.co.nz/stories/PA1711/S00003/new-government-inherits-very-strong-labour-market.htm
+title: New government inherits very strong labour market
+date: 2017-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00003/new-government-inherits-very-strong-labour-market.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/01/new-government-inherits-very-strong-labour-market/index.html
+layout: layout.njk
 ---
 New government inherits very strong labour market
 =================================================

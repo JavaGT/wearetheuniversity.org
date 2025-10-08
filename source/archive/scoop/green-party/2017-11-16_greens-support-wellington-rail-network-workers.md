@@ -1,9 +1,12 @@
 ---
 slug: greens-support-wellington-rail-network-workers
-title: "Greens support Wellington rail network workers"
-date: 2017-11-16
-source-url: https://www.scoop.co.nz/stories/PA1711/S00108/greens-support-wellington-rail-network-workers.htm
+title: Greens support Wellington rail network workers
+date: 2017-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00108/greens-support-wellington-rail-network-workers.htm
 author: green-party
+permalink: /archive/2017/11/16/greens-support-wellington-rail-network-workers/index.html
+layout: layout.njk
 ---
 Greens support Wellington rail network workers
 ==============================================

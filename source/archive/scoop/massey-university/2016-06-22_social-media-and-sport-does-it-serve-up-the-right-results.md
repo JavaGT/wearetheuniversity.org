@@ -1,9 +1,13 @@
 ---
 slug: social-media-and-sport-does-it-serve-up-the-right-results
-title: "Social media and sport – does it serve up the right results?"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/ED1606/S00079/social-media-and-sport-does-it-serve-up-the-right-results.htm
+title: Social media and sport – does it serve up the right results?
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00079/social-media-and-sport-does-it-serve-up-the-right-results.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/22/social-media-and-sport-does-it-serve-up-the-right-results/index.html
+layout: layout.njk
 ---
 Social media and sport – does it serve up the right results?
 ============================================================

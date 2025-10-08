@@ -1,9 +1,13 @@
 ---
 slug: new-fast-track-to-professional-engineering-degree-for-ex-pilots-technicians
-title: "New Fast-track To Professional Engineering Degree For Ex-pilots, Technicians"
-date: 2020-05-05
-source-url: https://www.scoop.co.nz/stories/ED2005/S00008/new-fast-track-to-professional-engineering-degree-for-ex-pilots-technicians.htm
+title: New Fast-track To Professional Engineering Degree For Ex-pilots, Technicians
+date: 2020-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00008/new-fast-track-to-professional-engineering-degree-for-ex-pilots-technicians.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/05/new-fast-track-to-professional-engineering-degree-for-ex-pilots-technicians/index.html
+layout: layout.njk
 ---
 New Fast-track To Professional Engineering Degree For Ex-pilots, Technicians
 ============================================================================

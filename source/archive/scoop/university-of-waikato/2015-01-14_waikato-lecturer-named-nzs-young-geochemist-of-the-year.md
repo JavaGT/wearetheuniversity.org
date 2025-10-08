@@ -1,9 +1,13 @@
 ---
 slug: waikato-lecturer-named-nzs-young-geochemist-of-the-year
-title: "Waikato lecturer named NZ’s young geochemist of the year"
-date: 2015-01-14
-source-url: https://www.scoop.co.nz/stories/ED1501/S00027/waikato-lecturer-named-nzs-young-geochemist-of-the-year.htm
+title: Waikato lecturer named NZ’s young geochemist of the year
+date: 2015-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00027/waikato-lecturer-named-nzs-young-geochemist-of-the-year.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/01/14/waikato-lecturer-named-nzs-young-geochemist-of-the-year/index.html
+layout: layout.njk
 ---
 Waikato lecturer named NZ’s young geochemist of the year
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-green-party-commitment-to-fairness
-title: "NZEI Te Riu Roa welcomes Green Party commitment to fairness"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PO1409/S00062/nzei-te-riu-roa-welcomes-green-party-commitment-to-fairness.htm
+title: NZEI Te Riu Roa welcomes Green Party commitment to fairness
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00062/nzei-te-riu-roa-welcomes-green-party-commitment-to-fairness.htm
 author: nzei
+permalink: >-
+  /archive/2014/09/03/nzei-te-riu-roa-welcomes-green-party-commitment-to-fairness/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa welcomes Green Party commitment to fairness
 ===========================================================

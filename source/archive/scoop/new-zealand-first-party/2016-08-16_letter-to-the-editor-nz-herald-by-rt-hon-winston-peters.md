@@ -1,9 +1,13 @@
 ---
 slug: letter-to-the-editor-nz-herald-by-rt-hon-winston-peters
-title: "Letter to the editor, NZ Herald, by Rt Hon Winston Peters"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/PA1608/S00256/letter-to-the-editor-nz-herald-by-rt-hon-winston-peters.htm
+title: Letter to the editor, NZ Herald, by Rt Hon Winston Peters
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00256/letter-to-the-editor-nz-herald-by-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/16/letter-to-the-editor-nz-herald-by-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Letter to the editor, NZ Herald, by Rt Hon Winston Peters
 =========================================================

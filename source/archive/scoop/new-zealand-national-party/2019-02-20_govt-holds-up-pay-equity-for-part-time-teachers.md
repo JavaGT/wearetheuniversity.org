@@ -1,9 +1,12 @@
 ---
 slug: govt-holds-up-pay-equity-for-part-time-teachers
-title: "Govt holds up pay equity for part-time teachers"
-date: 2019-02-20
-source-url: https://www.scoop.co.nz/stories/PA1902/S00166/govt-holds-up-pay-equity-for-part-time-teachers.htm
+title: Govt holds up pay equity for part-time teachers
+date: 2019-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00166/govt-holds-up-pay-equity-for-part-time-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/20/govt-holds-up-pay-equity-for-part-time-teachers/index.html
+layout: layout.njk
 ---
 Govt holds up pay equity for part-time teachers
 ===============================================

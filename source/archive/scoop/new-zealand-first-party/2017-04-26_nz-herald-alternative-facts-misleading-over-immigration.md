@@ -1,9 +1,13 @@
 ---
 slug: nz-herald-alternative-facts-misleading-over-immigration
-title: "NZ Herald ‘Alternative Facts’ Misleading Over Immigration"
-date: 2017-04-26
-source-url: https://www.scoop.co.nz/stories/PA1704/S00315/nz-herald-alternative-facts-misleading-over-immigration.htm
+title: NZ Herald ‘Alternative Facts’ Misleading Over Immigration
+date: 2017-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00315/nz-herald-alternative-facts-misleading-over-immigration.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/26/nz-herald-alternative-facts-misleading-over-immigration/index.html
+layout: layout.njk
 ---
 NZ Herald ‘Alternative Facts’ Misleading Over Immigration
 =========================================================

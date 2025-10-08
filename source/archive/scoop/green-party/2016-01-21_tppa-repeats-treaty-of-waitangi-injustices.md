@@ -1,9 +1,12 @@
 ---
 slug: tppa-repeats-treaty-of-waitangi-injustices
-title: "TPPA repeats Treaty of Waitangi injustices"
-date: 2016-01-21
-source-url: https://www.scoop.co.nz/stories/PA1601/S00071/tppa-repeats-treaty-of-waitangi-injustices.htm
+title: TPPA repeats Treaty of Waitangi injustices
+date: 2016-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00071/tppa-repeats-treaty-of-waitangi-injustices.htm
 author: green-party
+permalink: /archive/2016/01/21/tppa-repeats-treaty-of-waitangi-injustices/index.html
+layout: layout.njk
 ---
 TPPA repeats Treaty of Waitangi injustices
 ==========================================

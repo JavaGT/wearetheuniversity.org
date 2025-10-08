@@ -1,9 +1,12 @@
 ---
 slug: too-many-kiwis-waiting-on-waiting-lists
-title: "Too many Kiwis waiting on waiting lists"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/PA1505/S00063/too-many-kiwis-waiting-on-waiting-lists.htm
+title: Too many Kiwis waiting on waiting lists
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00063/too-many-kiwis-waiting-on-waiting-lists.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/05/too-many-kiwis-waiting-on-waiting-lists/index.html
+layout: layout.njk
 ---
 Too many Kiwis waiting on waiting lists
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: distance-learning-expertise-sought-by-australia
-title: "Distance learning expertise sought by Australia"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/ED1004/S00061/distance-learning-expertise-sought-by-australia.htm
+title: Distance learning expertise sought by Australia
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00061/distance-learning-expertise-sought-by-australia.htm
 author: massey-university
+permalink: /archive/2010/04/22/distance-learning-expertise-sought-by-australia/index.html
+layout: layout.njk
 ---
 Distance learning expertise sought by Australia
 ===============================================

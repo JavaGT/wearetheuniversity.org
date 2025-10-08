@@ -1,9 +1,12 @@
 ---
 slug: how-to-manage-diversity-in-digital-enterprises
-title: "How to manage diversity in digital enterprises"
-date: 2007-07-03
-source-url: https://www.scoop.co.nz/stories/ED0707/S00016/how-to-manage-diversity-in-digital-enterprises.htm
+title: How to manage diversity in digital enterprises
+date: 2007-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00016/how-to-manage-diversity-in-digital-enterprises.htm
 author: auckland-university
+permalink: /archive/2007/07/03/how-to-manage-diversity-in-digital-enterprises/index.html
+layout: layout.njk
 ---
 How to manage diversity in digital enterprises
 ==============================================

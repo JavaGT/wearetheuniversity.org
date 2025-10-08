@@ -1,9 +1,12 @@
 ---
 slug: judges-get-a-taste-of-food-awards-entries
-title: "Judges get a taste of Food Awards entries"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/SC1010/S00010/judges-get-a-taste-of-food-awards-entries.htm
+title: Judges get a taste of Food Awards entries
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1010/S00010/judges-get-a-taste-of-food-awards-entries.htm
 author: massey-university
+permalink: /archive/2010/10/06/judges-get-a-taste-of-food-awards-entries/index.html
+layout: layout.njk
 ---
 Judges get a taste of Food Awards entries
 =========================================

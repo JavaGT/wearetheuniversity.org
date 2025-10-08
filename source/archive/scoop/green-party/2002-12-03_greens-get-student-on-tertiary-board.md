@@ -1,9 +1,12 @@
 ---
 slug: greens-get-student-on-tertiary-board
-title: "Greens get student on tertiary board"
-date: 2002-12-03
-source-url: https://www.scoop.co.nz/stories/PA0212/S00076/greens-get-student-on-tertiary-board.htm
+title: Greens get student on tertiary board
+date: 2002-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00076/greens-get-student-on-tertiary-board.htm
 author: green-party
+permalink: /archive/2002/12/03/greens-get-student-on-tertiary-board/index.html
+layout: layout.njk
 ---
 Greens get student on tertiary board
 ====================================

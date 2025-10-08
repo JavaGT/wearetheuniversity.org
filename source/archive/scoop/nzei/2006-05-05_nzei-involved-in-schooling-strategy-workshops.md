@@ -1,9 +1,12 @@
 ---
 slug: nzei-involved-in-schooling-strategy-workshops
-title: "NZEI Involved in Schooling Strategy Workshops"
-date: 2006-05-05
-source-url: https://www.scoop.co.nz/stories/ED0605/S00026/nzei-involved-in-schooling-strategy-workshops.htm
+title: NZEI Involved in Schooling Strategy Workshops
+date: 2006-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00026/nzei-involved-in-schooling-strategy-workshops.htm
 author: nzei
+permalink: /archive/2006/05/05/nzei-involved-in-schooling-strategy-workshops/index.html
+layout: layout.njk
 ---
 NZEI Involved in Schooling Strategy Workshops
 =============================================

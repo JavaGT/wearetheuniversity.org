@@ -1,9 +1,13 @@
 ---
 slug: jobless-rate-of-maori-and-youth-provide-little-room-for-joy
-title: "Jobless rate of Maori and youth provide little room for joy"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/PA1202/S00118/jobless-rate-of-maori-and-youth-provide-little-room-for-joy.htm
+title: Jobless rate of Maori and youth provide little room for joy
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00118/jobless-rate-of-maori-and-youth-provide-little-room-for-joy.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/02/10/jobless-rate-of-maori-and-youth-provide-little-room-for-joy/index.html
+layout: layout.njk
 ---
 Jobless rate of Maori and youth provide little room for joy
 ===========================================================

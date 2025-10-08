@@ -1,9 +1,12 @@
 ---
 slug: maori-party-urges-a-fresh-look-at-benefits
-title: "Maori Party urges a \"fresh look\" at Benefits"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/PA0701/S00192/maori-party-urges-a-fresh-look-at-benefits.htm
+title: Maori Party urges a "fresh look" at Benefits
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00192/maori-party-urges-a-fresh-look-at-benefits.htm
 author: te-pati-maori
+permalink: /archive/2007/01/29/maori-party-urges-a-fresh-look-at-benefits/index.html
+layout: layout.njk
 ---
 Maori Party urges a "fresh look" at Benefits
 ============================================

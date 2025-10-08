@@ -1,9 +1,12 @@
 ---
 slug: prostitution-petition-presented-to-parliament
-title: "Prostitution Petition Presented to Parliament"
-date: 2003-02-18
-source-url: https://www.scoop.co.nz/stories/PA0302/S00300/prostitution-petition-presented-to-parliament.htm
+title: Prostitution Petition Presented to Parliament
+date: 2003-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00300/prostitution-petition-presented-to-parliament.htm
 author: green-party
+permalink: /archive/2003/02/18/prostitution-petition-presented-to-parliament/index.html
+layout: layout.njk
 ---
 Prostitution Petition Presented to Parliament
 =============================================

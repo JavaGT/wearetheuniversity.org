@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-an-end-to-poisonous-weedkillers
-title: "Greens call for an end to poisonous weedkillers"
-date: 2016-01-19
-source-url: https://www.scoop.co.nz/stories/PA1601/S00048/greens-call-for-an-end-to-poisonous-weedkillers.htm
+title: Greens call for an end to poisonous weedkillers
+date: 2016-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00048/greens-call-for-an-end-to-poisonous-weedkillers.htm
 author: green-party
+permalink: /archive/2016/01/19/greens-call-for-an-end-to-poisonous-weedkillers/index.html
+layout: layout.njk
 ---
 Greens call for an end to poisonous weedkillers
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-stuttering-clinic-opens-in-albany
-title: "New stuttering clinic opens in Albany"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/AK1609/S00851/new-stuttering-clinic-opens-in-albany.htm
+title: New stuttering clinic opens in Albany
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00851/new-stuttering-clinic-opens-in-albany.htm
 author: massey-university
+permalink: /archive/2016/09/26/new-stuttering-clinic-opens-in-albany/index.html
+layout: layout.njk
 ---
 New stuttering clinic opens in Albany
 =====================================

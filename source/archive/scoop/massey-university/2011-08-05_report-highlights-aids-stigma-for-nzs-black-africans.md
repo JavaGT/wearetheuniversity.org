@@ -1,9 +1,13 @@
 ---
 slug: report-highlights-aids-stigma-for-nzs-black-africans
-title: "Report highlights AIDS stigma for NZ’s Black Africans"
-date: 2011-08-05
-source-url: https://www.scoop.co.nz/stories/GE1108/S00024/report-highlights-aids-stigma-for-nzs-black-africans.htm
+title: Report highlights AIDS stigma for NZ’s Black Africans
+date: 2011-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1108/S00024/report-highlights-aids-stigma-for-nzs-black-africans.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/05/report-highlights-aids-stigma-for-nzs-black-africans/index.html
+layout: layout.njk
 ---
 Report highlights AIDS stigma for NZ’s Black Africans
 =====================================================

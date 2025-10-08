@@ -1,9 +1,12 @@
 ---
 slug: electronic-bail-system-still-failing-peters
-title: "Electronic Bail System Still Failing – Peters"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/PA1601/S00046/electronic-bail-system-still-failing-peters.htm
+title: Electronic Bail System Still Failing – Peters
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00046/electronic-bail-system-still-failing-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2016/01/18/electronic-bail-system-still-failing-peters/index.html
+layout: layout.njk
 ---
 Electronic Bail System Still Failing – Peters
 =============================================

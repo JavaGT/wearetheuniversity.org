@@ -1,9 +1,12 @@
 ---
 slug: policy-makers-must-heed-research-evidenc-e
-title: "Policy -Makers Must Heed Research Evidenc e"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PO0910/S00217/policy-makers-must-heed-research-evidenc-e.htm
+title: Policy -Makers Must Heed Research Evidenc e
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00217/policy-makers-must-heed-research-evidenc-e.htm
 author: maxim-institute
+permalink: /archive/2009/10/15/policy-makers-must-heed-research-evidenc-e/index.html
+layout: layout.njk
 ---
 Policy -Makers Must Heed Research Evidenc e
 ===========================================

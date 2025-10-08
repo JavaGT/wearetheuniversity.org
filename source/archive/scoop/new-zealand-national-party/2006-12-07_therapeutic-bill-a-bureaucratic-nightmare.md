@@ -1,9 +1,12 @@
 ---
 slug: therapeutic-bill-a-bureaucratic-nightmare
-title: "Therapeutic Bill a bureaucratic nightmare"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/PA0612/S00169/therapeutic-bill-a-bureaucratic-nightmare.htm
+title: Therapeutic Bill a bureaucratic nightmare
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00169/therapeutic-bill-a-bureaucratic-nightmare.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/07/therapeutic-bill-a-bureaucratic-nightmare/index.html
+layout: layout.njk
 ---
 Therapeutic Bill a bureaucratic nightmare
 =========================================

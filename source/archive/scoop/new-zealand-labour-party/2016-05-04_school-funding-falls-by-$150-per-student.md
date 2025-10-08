@@ -1,9 +1,12 @@
 ---
 slug: school-funding-falls-by-$150-per-student
-title: "School funding falls by $150 per student"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/PA1605/S00050/school-funding-falls-by-150-per-student.htm
+title: School funding falls by $150 per student
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00050/school-funding-falls-by-150-per-student.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/04/school-funding-falls-by-/index.html
+layout: layout.njk
 ---
 School funding falls by $150 per student
 ========================================

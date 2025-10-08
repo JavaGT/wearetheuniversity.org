@@ -1,9 +1,13 @@
 ---
 slug: dietary-intake-differs-in-baby-led-weaned-infants
-title: "Dietary intake differs in baby-led weaned infants"
-date: 2016-05-13
-source-url: https://www.scoop.co.nz/stories/SC1605/S00029/dietary-intake-differs-in-baby-led-weaned-infants.htm
+title: Dietary intake differs in baby-led weaned infants
+date: 2016-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00029/dietary-intake-differs-in-baby-led-weaned-infants.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/13/dietary-intake-differs-in-baby-led-weaned-infants/index.html
+layout: layout.njk
 ---
 Dietary intake differs in baby-led weaned infants
 =================================================

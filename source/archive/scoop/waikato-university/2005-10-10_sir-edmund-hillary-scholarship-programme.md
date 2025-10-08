@@ -1,9 +1,12 @@
 ---
 slug: sir-edmund-hillary-scholarship-programme
-title: "Sir Edmund Hillary Scholarship Programme"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/ED0510/S00029/sir-edmund-hillary-scholarship-programme.htm
+title: Sir Edmund Hillary Scholarship Programme
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00029/sir-edmund-hillary-scholarship-programme.htm
 author: waikato-university
+permalink: /archive/2005/10/10/sir-edmund-hillary-scholarship-programme/index.html
+layout: layout.njk
 ---
 Sir Edmund Hillary Scholarship Programme
 ========================================

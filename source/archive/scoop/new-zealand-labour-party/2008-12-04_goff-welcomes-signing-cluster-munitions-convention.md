@@ -1,9 +1,13 @@
 ---
 slug: goff-welcomes-signing-cluster-munitions-convention
-title: "Goff Welcomes Signing Cluster Munitions Convention"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/PA0812/S00027/goff-welcomes-signing-cluster-munitions-convention.htm
+title: Goff Welcomes Signing Cluster Munitions Convention
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00027/goff-welcomes-signing-cluster-munitions-convention.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/12/04/goff-welcomes-signing-cluster-munitions-convention/index.html
+layout: layout.njk
 ---
 Goff Welcomes Signing Cluster Munitions Convention
 ==================================================

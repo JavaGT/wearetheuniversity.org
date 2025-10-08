@@ -1,9 +1,12 @@
 ---
 slug: seymour-invites-obama-to-visit-charter-school
-title: "Seymour Invites Obama to Visit Charter School"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00207/seymour-invites-obama-to-visit-charter-school.htm
+title: Seymour Invites Obama to Visit Charter School
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00207/seymour-invites-obama-to-visit-charter-school.htm
 author: act-new-zealand
+permalink: /archive/2018/02/22/seymour-invites-obama-to-visit-charter-school/index.html
+layout: layout.njk
 ---
 Seymour Invites Obama to Visit Charter School
 =============================================

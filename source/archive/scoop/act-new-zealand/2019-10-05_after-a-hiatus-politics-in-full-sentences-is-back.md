@@ -1,9 +1,13 @@
 ---
 slug: after-a-hiatus-politics-in-full-sentences-is-back
-title: "After a hiatus, Politics in Full Sentences is back"
-date: 2019-10-05
-source-url: https://www.scoop.co.nz/stories/PO1910/S00053/after-a-hiatus-politics-in-full-sentences-is-back.htm
+title: After a hiatus, Politics in Full Sentences is back
+date: 2019-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00053/after-a-hiatus-politics-in-full-sentences-is-back.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/05/after-a-hiatus-politics-in-full-sentences-is-back/index.html
+layout: layout.njk
 ---
 After a hiatus, Politics in Full Sentences is back
 ==================================================

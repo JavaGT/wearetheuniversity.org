@@ -1,9 +1,12 @@
 ---
 slug: new-doctors-make-economic-sense
-title: "New Doctors make Economic Sense"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/ED1505/S00112/new-doctors-make-economic-sense.htm
+title: New Doctors make Economic Sense
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00112/new-doctors-make-economic-sense.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2015/05/29/new-doctors-make-economic-sense/index.html
+layout: layout.njk
 ---
 New Doctors make Economic Sense
 ===============================

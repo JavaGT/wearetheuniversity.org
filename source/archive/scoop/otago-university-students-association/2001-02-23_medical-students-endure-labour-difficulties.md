@@ -1,9 +1,12 @@
 ---
 slug: medical-students-endure-labour-difficulties
-title: "Medical Students Endure Labour Difficulties"
-date: 2001-02-23
-source-url: https://www.scoop.co.nz/stories/ED0102/S00030/medical-students-endure-labour-difficulties.htm
+title: Medical Students Endure Labour Difficulties
+date: 2001-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00030/medical-students-endure-labour-difficulties.htm
 author: otago-university-students-association
+permalink: /archive/2001/02/23/medical-students-endure-labour-difficulties/index.html
+layout: layout.njk
 ---
 Medical Students Endure Labour Difficulties
 ===========================================

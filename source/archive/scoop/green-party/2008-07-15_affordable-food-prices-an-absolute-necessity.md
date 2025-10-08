@@ -1,9 +1,12 @@
 ---
 slug: affordable-food-prices-an-absolute-necessity
-title: "Affordable food prices an absolute necessity"
-date: 2008-07-15
-source-url: https://www.scoop.co.nz/stories/PA0807/S00276/affordable-food-prices-an-absolute-necessity.htm
+title: Affordable food prices an absolute necessity
+date: 2008-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00276/affordable-food-prices-an-absolute-necessity.htm
 author: green-party
+permalink: /archive/2008/07/15/affordable-food-prices-an-absolute-necessity/index.html
+layout: layout.njk
 ---
 Affordable food prices an absolute necessity
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: private-tertiary-funding-disadvantages-public-sector
-title: "Private tertiary funding disadvantages public sector"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/ED0008/S00037/private-tertiary-funding-disadvantages-public-sector.htm
+title: Private tertiary funding disadvantages public sector
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00037/private-tertiary-funding-disadvantages-public-sector.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/08/21/private-tertiary-funding-disadvantages-public-sector/index.html
+layout: layout.njk
 ---
 Private tertiary funding disadvantages public sector
 ====================================================

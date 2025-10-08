@@ -1,9 +1,12 @@
 ---
 slug: putting-topical-issues-to-the-test
-title: "Putting topical issues to the test"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/PO1208/S00230/putting-topical-issues-to-the-test.htm
+title: Putting topical issues to the test
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00230/putting-topical-issues-to-the-test.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/08/16/putting-topical-issues-to-the-test/index.html
+layout: layout.njk
 ---
 Putting topical issues to the test
 ==================================

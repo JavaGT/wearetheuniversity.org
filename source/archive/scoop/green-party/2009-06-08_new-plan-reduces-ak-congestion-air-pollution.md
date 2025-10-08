@@ -1,9 +1,12 @@
 ---
 slug: new-plan-reduces-ak-congestion-air-pollution
-title: "New plan reduces AK congestion, air pollution"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/PA0906/S00090/new-plan-reduces-ak-congestion-air-pollution.htm
+title: New plan reduces AK congestion, air pollution
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00090/new-plan-reduces-ak-congestion-air-pollution.htm
 author: green-party
+permalink: /archive/2009/06/08/new-plan-reduces-ak-congestion-air-pollution/index.html
+layout: layout.njk
 ---
 New plan reduces AK congestion, air pollution
 =============================================

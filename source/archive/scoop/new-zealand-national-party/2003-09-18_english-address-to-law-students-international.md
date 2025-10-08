@@ -1,9 +1,12 @@
 ---
 slug: english-address-to-law-students-international
-title: "English Address to Law Students International"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/PA0309/S00413/english-address-to-law-students-international.htm
+title: English Address to Law Students International
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00413/english-address-to-law-students-international.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/18/english-address-to-law-students-international/index.html
+layout: layout.njk
 ---
 English Address to Law Students International
 =============================================

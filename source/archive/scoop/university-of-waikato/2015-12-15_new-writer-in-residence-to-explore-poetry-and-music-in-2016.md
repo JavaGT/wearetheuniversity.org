@@ -1,9 +1,13 @@
 ---
 slug: new-writer-in-residence-to-explore-poetry-and-music-in-2016
-title: "New Writer in Residence to Explore Poetry and Music in 2016"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/CU1512/S00231/new-writer-in-residence-to-explore-poetry-and-music-in-2016.htm
+title: New Writer in Residence to Explore Poetry and Music in 2016
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00231/new-writer-in-residence-to-explore-poetry-and-music-in-2016.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/12/15/new-writer-in-residence-to-explore-poetry-and-music-in-2016/index.html
+layout: layout.njk
 ---
 New Writer in Residence to Explore Poetry and Music in 2016
 ===========================================================

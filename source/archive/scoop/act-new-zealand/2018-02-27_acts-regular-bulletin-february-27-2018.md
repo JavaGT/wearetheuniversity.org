@@ -1,9 +1,12 @@
 ---
 slug: acts-regular-bulletin-february-27-2018
-title: "ACT’s regular bulletin - February 27 2018"
-date: 2018-02-27
-source-url: https://www.scoop.co.nz/stories/PA1802/S00267/acts-regular-bulletin-february-27-2018.htm
+title: ACT’s regular bulletin - February 27 2018
+date: 2018-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00267/acts-regular-bulletin-february-27-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/02/27/acts-regular-bulletin-february-27-2018/index.html
+layout: layout.njk
 ---
 ACT’s regular bulletin - February 27 2018
 =========================================

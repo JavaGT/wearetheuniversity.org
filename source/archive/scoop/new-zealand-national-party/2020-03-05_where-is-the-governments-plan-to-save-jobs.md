@@ -1,9 +1,12 @@
 ---
 slug: where-is-the-governments-plan-to-save-jobs
-title: "Where Is The Government’s Plan To Save Jobs?"
-date: 2020-03-05
-source-url: https://www.scoop.co.nz/stories/PA2003/S00039/where-is-the-governments-plan-to-save-jobs.htm
+title: Where Is The Government’s Plan To Save Jobs?
+date: 2020-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00039/where-is-the-governments-plan-to-save-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/05/where-is-the-governments-plan-to-save-jobs/index.html
+layout: layout.njk
 ---
 Where Is The Government’s Plan To Save Jobs?
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: drug-driving-ads-subject-of-formal-complaint
-title: "Drug Driving Ads Subject of Formal Complaint"
-date: 2010-02-18
-source-url: https://www.scoop.co.nz/stories/ED1002/S00071/drug-driving-ads-subject-of-formal-complaint.htm
+title: Drug Driving Ads Subject of Formal Complaint
+date: 2010-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00071/drug-driving-ads-subject-of-formal-complaint.htm
 author: university-of-canterbury
+permalink: /archive/2010/02/18/drug-driving-ads-subject-of-formal-complaint/index.html
+layout: layout.njk
 ---
 Drug Driving Ads Subject of Formal Complaint
 ============================================

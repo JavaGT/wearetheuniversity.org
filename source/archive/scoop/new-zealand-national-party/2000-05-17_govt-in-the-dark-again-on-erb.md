@@ -1,9 +1,12 @@
 ---
 slug: govt-in-the-dark-again-on-erb
-title: "Govt In The Dark - Again - On ERB"
-date: 2000-05-17
-source-url: https://www.scoop.co.nz/stories/PA0005/S00383/govt-in-the-dark-again-on-erb.htm
+title: Govt In The Dark - Again - On ERB
+date: 2000-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00383/govt-in-the-dark-again-on-erb.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/17/govt-in-the-dark-again-on-erb/index.html
+layout: layout.njk
 ---
 Govt In The Dark - Again - On ERB
 =================================

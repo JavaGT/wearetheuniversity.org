@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-and-metservice-join-forces
-title: "Victoria University and MetService join forces"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/ED1409/S00095/victoria-university-and-metservice-join-forces.htm
+title: Victoria University and MetService join forces
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00095/victoria-university-and-metservice-join-forces.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/16/victoria-university-and-metservice-join-forces/index.html
+layout: layout.njk
 ---
 Victoria University and MetService join forces
 ==============================================

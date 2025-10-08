@@ -1,9 +1,12 @@
 ---
 slug: tourism-programme-has-double-celebration
-title: "Tourism programme has double celebration"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/ED0609/S00075/tourism-programme-has-double-celebration.htm
+title: Tourism programme has double celebration
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00075/tourism-programme-has-double-celebration.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/20/tourism-programme-has-double-celebration/index.html
+layout: layout.njk
 ---
 Tourism programme has double celebration
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-again-fails-māori-students
-title: "Minister again fails Māori students"
-date: 2018-12-26
-source-url: https://www.scoop.co.nz/stories/PA1812/S00291/minister-again-fails-maori-students.htm
+title: Minister again fails Māori students
+date: 2018-12-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00291/minister-again-fails-maori-students.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/26/minister-again-fails-m/index.html
+layout: layout.njk
 ---
 Minister again fails Māori students
 ===================================

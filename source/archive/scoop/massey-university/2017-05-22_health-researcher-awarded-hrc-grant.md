@@ -1,9 +1,12 @@
 ---
 slug: health-researcher-awarded-hrc-grant
-title: "Health researcher awarded HRC grant"
-date: 2017-05-22
-source-url: https://www.scoop.co.nz/stories/GE1705/S00146/health-researcher-awarded-hrc-grant.htm
+title: Health researcher awarded HRC grant
+date: 2017-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00146/health-researcher-awarded-hrc-grant.htm
 author: massey-university
+permalink: /archive/2017/05/22/health-researcher-awarded-hrc-grant/index.html
+layout: layout.njk
 ---
 Health researcher awarded HRC grant
 ===================================

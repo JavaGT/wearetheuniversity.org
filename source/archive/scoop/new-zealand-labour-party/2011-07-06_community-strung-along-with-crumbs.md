@@ -1,9 +1,12 @@
 ---
 slug: community-strung-along-with-crumbs
-title: "Community strung along with crumbs"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00100/community-strung-along-with-crumbs.htm
+title: Community strung along with crumbs
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00100/community-strung-along-with-crumbs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/06/community-strung-along-with-crumbs/index.html
+layout: layout.njk
 ---
 Community strung along with crumbs
 ==================================

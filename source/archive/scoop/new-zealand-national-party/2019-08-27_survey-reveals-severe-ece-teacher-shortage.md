@@ -1,9 +1,12 @@
 ---
 slug: survey-reveals-severe-ece-teacher-shortage
-title: "Survey reveals severe ECE teacher shortage"
-date: 2019-08-27
-source-url: https://www.scoop.co.nz/stories/PA1908/S00262/survey-reveals-severe-ece-teacher-shortage.htm
+title: Survey reveals severe ECE teacher shortage
+date: 2019-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00262/survey-reveals-severe-ece-teacher-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/27/survey-reveals-severe-ece-teacher-shortage/index.html
+layout: layout.njk
 ---
 Survey reveals severe ECE teacher shortage
 ==========================================

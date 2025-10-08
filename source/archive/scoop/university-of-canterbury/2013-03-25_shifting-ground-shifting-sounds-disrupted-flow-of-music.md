@@ -1,9 +1,13 @@
 ---
 slug: shifting-ground-shifting-sounds-disrupted-flow-of-music
-title: "Shifting Ground, Shifting Sounds: Disrupted Flow Of Music"
-date: 2013-03-25
-source-url: https://www.scoop.co.nz/stories/ED1303/S00168/shifting-ground-shifting-sounds-disrupted-flow-of-music.htm
+title: 'Shifting Ground, Shifting Sounds: Disrupted Flow Of Music'
+date: 2013-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00168/shifting-ground-shifting-sounds-disrupted-flow-of-music.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/25/shifting-ground-shifting-sounds-disrupted-flow-of-music/index.html
+layout: layout.njk
 ---
 Shifting Ground, Shifting Sounds: Disrupted Flow Of Music
 =========================================================

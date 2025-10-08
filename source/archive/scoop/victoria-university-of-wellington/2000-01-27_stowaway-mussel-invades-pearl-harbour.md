@@ -1,9 +1,12 @@
 ---
 slug: stowaway-mussel-invades-pearl-harbour
-title: "Stowaway mussel invades Pearl Harbour"
-date: 2000-01-27
-source-url: https://www.scoop.co.nz/stories/SC0001/S00013/stowaway-mussel-invades-pearl-harbour.htm
+title: Stowaway mussel invades Pearl Harbour
+date: 2000-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0001/S00013/stowaway-mussel-invades-pearl-harbour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/01/27/stowaway-mussel-invades-pearl-harbour/index.html
+layout: layout.njk
 ---
 Stowaway mussel invades Pearl Harbour
 =====================================

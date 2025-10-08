@@ -1,9 +1,13 @@
 ---
 slug: dropping-carbon-tax-puts-pressure-on-other-policy
-title: "Dropping carbon tax puts pressure on other policy"
-date: 2005-12-22
-source-url: https://www.scoop.co.nz/stories/ED0512/S00084/dropping-carbon-tax-puts-pressure-on-other-policy.htm
+title: Dropping carbon tax puts pressure on other policy
+date: 2005-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00084/dropping-carbon-tax-puts-pressure-on-other-policy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/12/22/dropping-carbon-tax-puts-pressure-on-other-policy/index.html
+layout: layout.njk
 ---
 Dropping carbon tax puts pressure on other policy
 =================================================

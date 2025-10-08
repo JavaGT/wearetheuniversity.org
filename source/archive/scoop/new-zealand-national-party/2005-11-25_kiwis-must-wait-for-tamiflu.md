@@ -1,9 +1,11 @@
 ---
 slug: kiwis-must-wait-for-tamiflu
-title: "Kiwis must wait for Tamiflu"
-date: 2005-11-25
+title: Kiwis must wait for Tamiflu
+date: 2005-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00378/kiwis-must-wait-for-tamiflu.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/25/kiwis-must-wait-for-tamiflu/index.html
+layout: layout.njk
 ---
 Kiwis must wait for Tamiflu
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: national-should-adopt-acts-cashless-welfare-policy
-title: "National should adopt ACT’s cashless welfare policy"
-date: 2019-10-30
-source-url: https://www.scoop.co.nz/stories/PA1910/S00231/national-should-adopt-acts-cashless-welfare-policy.htm
+title: National should adopt ACT’s cashless welfare policy
+date: 2019-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00231/national-should-adopt-acts-cashless-welfare-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/30/national-should-adopt-acts-cashless-welfare-policy/index.html
+layout: layout.njk
 ---
 National should adopt ACT’s cashless welfare policy
 ===================================================

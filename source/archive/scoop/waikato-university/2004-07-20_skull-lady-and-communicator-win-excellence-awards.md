@@ -1,9 +1,13 @@
 ---
 slug: skull-lady-and-communicator-win-excellence-awards
-title: "Skull lady and communicator win excellence awards"
-date: 2004-07-20
-source-url: https://www.scoop.co.nz/stories/ED0407/S00059/skull-lady-and-communicator-win-excellence-awards.htm
+title: Skull lady and communicator win excellence awards
+date: 2004-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00059/skull-lady-and-communicator-win-excellence-awards.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/07/20/skull-lady-and-communicator-win-excellence-awards/index.html
+layout: layout.njk
 ---
 Skull lady and communicator win excellence awards
 =================================================

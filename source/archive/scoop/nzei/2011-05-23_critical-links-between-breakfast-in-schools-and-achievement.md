@@ -1,9 +1,13 @@
 ---
 slug: critical-links-between-breakfast-in-schools-and-achievement
-title: "Critical links between breakfast-in-schools and achievement"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/ED1105/S00093/critical-links-between-breakfast-in-schools-and-achievement.htm
+title: Critical links between breakfast-in-schools and achievement
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00093/critical-links-between-breakfast-in-schools-and-achievement.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/23/critical-links-between-breakfast-in-schools-and-achievement/index.html
+layout: layout.njk
 ---
 Critical links between breakfast-in-schools and achievement
 ===========================================================

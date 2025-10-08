@@ -1,9 +1,12 @@
 ---
 slug: vic-students-welcome-teac-report
-title: "Vic Students Welcome TEAC Report"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/ED0103/S00018/vic-students-welcome-teac-report.htm
+title: Vic Students Welcome TEAC Report
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00018/vic-students-welcome-teac-report.htm
 author: victoria-university-students-association
+permalink: /archive/2001/03/07/vic-students-welcome-teac-report/index.html
+layout: layout.njk
 ---
 Vic Students Welcome TEAC Report
 ================================

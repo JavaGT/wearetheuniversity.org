@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-steals-yet-another-national-policy
-title: "Cunliffe steals yet another National policy"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PA0809/S00050/cunliffe-steals-yet-another-national-policy.htm
+title: Cunliffe steals yet another National policy
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00050/cunliffe-steals-yet-another-national-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/03/cunliffe-steals-yet-another-national-policy/index.html
+layout: layout.njk
 ---
 Cunliffe steals yet another National policy
 ===========================================

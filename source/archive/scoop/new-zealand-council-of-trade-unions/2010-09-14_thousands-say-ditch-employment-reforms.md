@@ -1,9 +1,12 @@
 ---
 slug: thousands-say-ditch-employment-reforms
-title: "Thousands say ditch employment reforms"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PO1009/S00158/thousands-say-ditch-employment-reforms.htm
+title: Thousands say ditch employment reforms
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00158/thousands-say-ditch-employment-reforms.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/09/14/thousands-say-ditch-employment-reforms/index.html
+layout: layout.njk
 ---
 Thousands say ditch employment reforms
 ======================================

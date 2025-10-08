@@ -1,9 +1,12 @@
 ---
 slug: what-are-you-doing-about-rotting-teeth-minister
-title: "What are you doing about rotting teeth, Minister?"
-date: 2005-08-03
-source-url: https://www.scoop.co.nz/stories/PA0508/S00096/what-are-you-doing-about-rotting-teeth-minister.htm
+title: What are you doing about rotting teeth, Minister?
+date: 2005-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00096/what-are-you-doing-about-rotting-teeth-minister.htm
 author: act-new-zealand
+permalink: /archive/2005/08/03/what-are-you-doing-about-rotting-teeth-minister/index.html
+layout: layout.njk
 ---
 What are you doing about rotting teeth, Minister?
 =================================================

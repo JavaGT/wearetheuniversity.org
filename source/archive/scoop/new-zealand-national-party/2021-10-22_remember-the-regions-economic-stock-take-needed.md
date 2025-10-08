@@ -1,9 +1,12 @@
 ---
 slug: remember-the-regions-economic-stock-take-needed
-title: "Remember The Regions? Economic Stock Take Needed"
-date: 2021-10-22
-source-url: https://www.scoop.co.nz/stories/PA2110/S00238/remember-the-regions-economic-stock-take-needed.htm
+title: Remember The Regions? Economic Stock Take Needed
+date: 2021-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00238/remember-the-regions-economic-stock-take-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/22/remember-the-regions-economic-stock-take-needed/index.html
+layout: layout.njk
 ---
 Remember The Regions? Economic Stock Take Needed
 ================================================

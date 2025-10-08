@@ -1,9 +1,11 @@
 ---
 slug: keeping-corals-alive
-title: "Keeping corals alive"
-date: 2011-06-21
+title: Keeping corals alive
+date: 2011-06-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1106/S00067/keeping-corals-alive.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/21/keeping-corals-alive/index.html
+layout: layout.njk
 ---
 Keeping corals alive
 ====================

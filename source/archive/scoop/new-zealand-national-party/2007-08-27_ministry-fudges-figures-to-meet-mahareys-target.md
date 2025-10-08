@@ -1,9 +1,12 @@
 ---
 slug: ministry-fudges-figures-to-meet-mahareys-target
-title: "Ministry fudges figures to meet Maharey’s target"
-date: 2007-08-27
-source-url: https://www.scoop.co.nz/stories/PA0708/S00446/ministry-fudges-figures-to-meet-mahareys-target.htm
+title: Ministry fudges figures to meet Maharey’s target
+date: 2007-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00446/ministry-fudges-figures-to-meet-mahareys-target.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/27/ministry-fudges-figures-to-meet-mahareys-target/index.html
+layout: layout.njk
 ---
 Ministry fudges figures to meet Maharey’s target
 ================================================

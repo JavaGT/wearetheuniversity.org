@@ -1,9 +1,11 @@
 ---
 slug: a-word-about-language
-title: "A Word About Language"
-date: 2009-09-15
+title: A Word About Language
+date: 2009-09-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0909/S00210/a-word-about-language.htm
 author: salient
+permalink: /archive/2009/09/15/a-word-about-language/index.html
+layout: layout.njk
 ---
 A Word About Language
 =====================

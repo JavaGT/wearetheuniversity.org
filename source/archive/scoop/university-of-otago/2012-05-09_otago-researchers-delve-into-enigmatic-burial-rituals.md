@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-delve-into-enigmatic-burial-rituals
-title: "Otago researchers delve into enigmatic burial rituals"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/CU1205/S00114/otago-researchers-delve-into-enigmatic-burial-rituals.htm
+title: Otago researchers delve into enigmatic burial rituals
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1205/S00114/otago-researchers-delve-into-enigmatic-burial-rituals.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/09/otago-researchers-delve-into-enigmatic-burial-rituals/index.html
+layout: layout.njk
 ---
 Otago researchers delve into enigmatic burial rituals
 =====================================================

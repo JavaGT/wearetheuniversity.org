@@ -1,9 +1,13 @@
 ---
 slug: labour-backs-plan-to-restore-confidence-in-chch-council
-title: "Labour backs plan to restore confidence in Chch council"
-date: 2012-01-25
-source-url: https://www.scoop.co.nz/stories/PA1201/S00072/labour-backs-plan-to-restore-confidence-in-chch-council.htm
+title: Labour backs plan to restore confidence in Chch council
+date: 2012-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00072/labour-backs-plan-to-restore-confidence-in-chch-council.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/01/25/labour-backs-plan-to-restore-confidence-in-chch-council/index.html
+layout: layout.njk
 ---
 Labour backs plan to restore confidence in Chch council
 =======================================================

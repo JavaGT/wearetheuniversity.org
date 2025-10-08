@@ -1,9 +1,12 @@
 ---
 slug: immigrants-likely-for-bus-jobs-in-auckland
-title: "Immigrants Likely for Bus Jobs in Auckland"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/PA1608/S00275/immigrants-likely-for-bus-jobs-in-auckland.htm
+title: Immigrants Likely for Bus Jobs in Auckland
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00275/immigrants-likely-for-bus-jobs-in-auckland.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/16/immigrants-likely-for-bus-jobs-in-auckland/index.html
+layout: layout.njk
 ---
 Immigrants Likely for Bus Jobs in Auckland
 ==========================================

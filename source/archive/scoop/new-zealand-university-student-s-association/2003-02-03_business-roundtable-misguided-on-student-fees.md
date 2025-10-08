@@ -1,9 +1,12 @@
 ---
 slug: business-roundtable-misguided-on-student-fees
-title: "Business Roundtable misguided on student fees"
-date: 2003-02-03
-source-url: https://www.scoop.co.nz/stories/ED0302/S00001/business-roundtable-misguided-on-student-fees.htm
+title: Business Roundtable misguided on student fees
+date: 2003-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00001/business-roundtable-misguided-on-student-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/02/03/business-roundtable-misguided-on-student-fees/index.html
+layout: layout.njk
 ---
 Business Roundtable misguided on student fees
 =============================================

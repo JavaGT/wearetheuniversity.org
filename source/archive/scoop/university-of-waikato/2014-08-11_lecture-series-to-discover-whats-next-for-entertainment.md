@@ -1,9 +1,13 @@
 ---
 slug: lecture-series-to-discover-whats-next-for-entertainment
-title: "Lecture Series to discover what’s next for entertainment"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/CU1408/S00122/lecture-series-to-discover-whats-next-for-entertainment.htm
+title: Lecture Series to discover what’s next for entertainment
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00122/lecture-series-to-discover-whats-next-for-entertainment.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/11/lecture-series-to-discover-whats-next-for-entertainment/index.html
+layout: layout.njk
 ---
 Lecture Series to discover what’s next for entertainment
 ========================================================

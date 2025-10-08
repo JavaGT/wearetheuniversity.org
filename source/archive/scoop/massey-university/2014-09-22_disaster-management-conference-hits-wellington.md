@@ -1,9 +1,12 @@
 ---
 slug: disaster-management-conference-hits-wellington
-title: "Disaster management conference hits Wellington"
-date: 2014-09-22
-source-url: https://www.scoop.co.nz/stories/ED1409/S00125/disaster-management-conference-hits-wellington.htm
+title: Disaster management conference hits Wellington
+date: 2014-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00125/disaster-management-conference-hits-wellington.htm
 author: massey-university
+permalink: /archive/2014/09/22/disaster-management-conference-hits-wellington/index.html
+layout: layout.njk
 ---
 Disaster management conference hits Wellington
 ==============================================

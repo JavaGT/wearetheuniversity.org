@@ -1,9 +1,12 @@
 ---
 slug: govt-must-run-referendum-as-soon-as-possible
-title: "Govt must run referendum as soon as possible"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/PA1309/S00010/govt-must-run-referendum-as-soon-as-possible.htm
+title: Govt must run referendum as soon as possible
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00010/govt-must-run-referendum-as-soon-as-possible.htm
 author: green-party
+permalink: /archive/2013/09/02/govt-must-run-referendum-as-soon-as-possible/index.html
+layout: layout.njk
 ---
 Govt must run referendum as soon as possible
 ============================================

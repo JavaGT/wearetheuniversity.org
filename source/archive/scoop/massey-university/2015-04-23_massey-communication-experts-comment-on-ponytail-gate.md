@@ -1,9 +1,13 @@
 ---
 slug: massey-communication-experts-comment-on-ponytail-gate
-title: "Massey communication experts comment on Ponytail-gate"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/PO1504/S00215/massey-communication-experts-comment-on-ponytail-gate.htm
+title: Massey communication experts comment on Ponytail-gate
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00215/massey-communication-experts-comment-on-ponytail-gate.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/23/massey-communication-experts-comment-on-ponytail-gate/index.html
+layout: layout.njk
 ---
 Massey communication experts comment on Ponytail-gate
 =====================================================

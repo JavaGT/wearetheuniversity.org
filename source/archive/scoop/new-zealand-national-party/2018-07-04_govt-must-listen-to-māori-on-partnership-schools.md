@@ -1,9 +1,12 @@
 ---
 slug: govt-must-listen-to-māori-on-partnership-schools
-title: "Govt must listen to Māori on partnership schools"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PA1807/S00039/govt-must-listen-to-maori-on-partnership-schools.htm
+title: Govt must listen to Māori on partnership schools
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00039/govt-must-listen-to-maori-on-partnership-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/04/govt-must-listen-to-m/index.html
+layout: layout.njk
 ---
 Govt must listen to Māori on partnership schools
 ================================================

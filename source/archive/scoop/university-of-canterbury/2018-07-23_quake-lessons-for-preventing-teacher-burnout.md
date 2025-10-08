@@ -1,9 +1,12 @@
 ---
 slug: quake-lessons-for-preventing-teacher-burnout
-title: "Quake lessons for preventing teacher burnout"
-date: 2018-07-23
-source-url: https://www.scoop.co.nz/stories/AK1807/S00539/quake-lessons-for-preventing-teacher-burnout.htm
+title: Quake lessons for preventing teacher burnout
+date: 2018-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1807/S00539/quake-lessons-for-preventing-teacher-burnout.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/23/quake-lessons-for-preventing-teacher-burnout/index.html
+layout: layout.njk
 ---
 Quake lessons for preventing teacher burnout
 ============================================

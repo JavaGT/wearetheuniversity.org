@@ -1,9 +1,12 @@
 ---
 slug: more-smart-solutions-to-health-workforce-crisis
-title: "More smart solutions to health workforce crisis"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PA0809/S00674/more-smart-solutions-to-health-workforce-crisis.htm
+title: More smart solutions to health workforce crisis
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00674/more-smart-solutions-to-health-workforce-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/30/more-smart-solutions-to-health-workforce-crisis/index.html
+layout: layout.njk
 ---
 More smart solutions to health workforce crisis
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-office-businesses-as-effective-in-half-of-space
-title: "Christchurch Office Businesses As Effective In Half of Space"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/BU1112/S00591/christchurch-office-businesses-as-effective-in-half-of-space.htm
+title: Christchurch Office Businesses As Effective In Half of Space
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1112/S00591/christchurch-office-businesses-as-effective-in-half-of-space.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/12/16/christchurch-office-businesses-as-effective-in-half-of-space/index.html
+layout: layout.njk
 ---
 Christchurch Office Businesses As Effective In Half of Space
 ============================================================

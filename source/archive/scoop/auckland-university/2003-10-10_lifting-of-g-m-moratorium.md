@@ -1,9 +1,11 @@
 ---
 slug: lifting-of-g-m-moratorium
-title: "Lifting of G.M. Moratorium"
-date: 2003-10-10
+title: Lifting of G.M. Moratorium
+date: 2003-10-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0310/S00072/lifting-of-gm-moratorium.htm
 author: auckland-university
+permalink: /archive/2003/10/10/lifting-of-g-m-moratorium/index.html
+layout: layout.njk
 ---
 Lifting of G.M. Moratorium
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-sets-the-agenda
-title: "New Zealand First Sets The Agenda"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PA0810/S00341/new-zealand-first-sets-the-agenda.htm
+title: New Zealand First Sets The Agenda
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00341/new-zealand-first-sets-the-agenda.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/15/new-zealand-first-sets-the-agenda/index.html
+layout: layout.njk
 ---
 New Zealand First Sets The Agenda
 =================================

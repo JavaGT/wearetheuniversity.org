@@ -1,9 +1,13 @@
 ---
 slug: teenagers-with-traumatic-brain-injury-often-have-poor-memory
-title: "Teenagers with traumatic brain injury often have poor memory"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/SC1503/S00086/teenagers-with-traumatic-brain-injury-often-have-poor-memory.htm
+title: Teenagers with traumatic brain injury often have poor memory
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00086/teenagers-with-traumatic-brain-injury-often-have-poor-memory.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/24/teenagers-with-traumatic-brain-injury-often-have-poor-memory/index.html
+layout: layout.njk
 ---
 Teenagers with traumatic brain injury often have poor memory
 ============================================================

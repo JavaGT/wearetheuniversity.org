@@ -1,9 +1,11 @@
 ---
 slug: gisborne-principal-honoured
-title: "Gisborne Principal Honoured"
-date: 2003-09-22
+title: Gisborne Principal Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00095/gisborne-principal-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/gisborne-principal-honoured/index.html
+layout: layout.njk
 ---
 Gisborne Principal Honoured
 ===========================

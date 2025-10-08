@@ -1,9 +1,12 @@
 ---
 slug: pressure-mounts-for-low-income-cantabrians
-title: "Pressure mounts for low-income Cantabrians"
-date: 2013-04-04
-source-url: https://www.scoop.co.nz/stories/PA1304/S00067/pressure-mounts-for-low-income-cantabrians.htm
+title: Pressure mounts for low-income Cantabrians
+date: 2013-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00067/pressure-mounts-for-low-income-cantabrians.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/04/pressure-mounts-for-low-income-cantabrians/index.html
+layout: layout.njk
 ---
 Pressure mounts for low-income Cantabrians
 ==========================================

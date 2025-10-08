@@ -1,9 +1,12 @@
 ---
 slug: smoking-in-cars-a-health-risk-for-children
-title: "Smoking in Cars a Health Risk for Children"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/ED0610/S00097/smoking-in-cars-a-health-risk-for-children.htm
+title: Smoking in Cars a Health Risk for Children
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00097/smoking-in-cars-a-health-risk-for-children.htm
 author: university-of-otago
+permalink: /archive/2006/10/27/smoking-in-cars-a-health-risk-for-children/index.html
+layout: layout.njk
 ---
 Smoking in Cars a Health Risk for Children
 ==========================================

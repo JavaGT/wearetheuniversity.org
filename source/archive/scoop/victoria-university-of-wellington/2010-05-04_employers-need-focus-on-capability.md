@@ -1,9 +1,12 @@
 ---
 slug: employers-need-focus-on-capability
-title: "Employers need focus on capability"
-date: 2010-05-04
-source-url: https://www.scoop.co.nz/stories/ED1005/S00013/employers-need-focus-on-capability.htm
+title: Employers need focus on capability
+date: 2010-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00013/employers-need-focus-on-capability.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/04/employers-need-focus-on-capability/index.html
+layout: layout.njk
 ---
 Employers need focus on capability
 ==================================

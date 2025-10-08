@@ -1,9 +1,11 @@
 ---
 slug: waikato-makes-history
-title: "Waikato Makes History"
-date: 2000-03-29
+title: Waikato Makes History
+date: 2000-03-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0003/S00062/waikato-makes-history.htm
 author: fightback
+permalink: /archive/2000/03/29/waikato-makes-history/index.html
+layout: layout.njk
 ---
 Waikato Makes History
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: understanding-the-immune-system
-title: "Understanding the immune system"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/GE1311/S00150/understanding-the-immune-system.htm
+title: Understanding the immune system
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00150/understanding-the-immune-system.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/27/understanding-the-immune-system/index.html
+layout: layout.njk
 ---
 Understanding the immune system
 ===============================

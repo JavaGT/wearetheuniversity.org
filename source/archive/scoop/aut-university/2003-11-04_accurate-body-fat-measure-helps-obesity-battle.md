@@ -1,9 +1,12 @@
 ---
 slug: accurate-body-fat-measure-helps-obesity-battle
-title: "Accurate body fat measure helps obesity battle"
-date: 2003-11-04
-source-url: https://www.scoop.co.nz/stories/GE0311/S00011/accurate-body-fat-measure-helps-obesity-battle.htm
+title: Accurate body fat measure helps obesity battle
+date: 2003-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0311/S00011/accurate-body-fat-measure-helps-obesity-battle.htm
 author: aut-university
+permalink: /archive/2003/11/04/accurate-body-fat-measure-helps-obesity-battle/index.html
+layout: layout.njk
 ---
 Accurate body fat measure helps obesity battle
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: act-welcomes-end-of-life-choice-milestone
-title: "ACT Welcomes End Of Life Choice Milestone"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/PA2110/S00108/act-welcomes-end-of-life-choice-milestone.htm
+title: ACT Welcomes End Of Life Choice Milestone
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00108/act-welcomes-end-of-life-choice-milestone.htm
 author: act-new-zealand
+permalink: /archive/2021/10/12/act-welcomes-end-of-life-choice-milestone/index.html
+layout: layout.njk
 ---
 ACT Welcomes End Of Life Choice Milestone
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: lets-celebrate-young-new-zealanders-during-youth-week
-title: "Let’s Celebrate Young New Zealanders During Youth Week"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/PA1305/S00048/lets-celebrate-young-new-zealanders-during-youth-week.htm
+title: Let’s Celebrate Young New Zealanders During Youth Week
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00048/lets-celebrate-young-new-zealanders-during-youth-week.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/05/06/lets-celebrate-young-new-zealanders-during-youth-week/index.html
+layout: layout.njk
 ---
 Let’s Celebrate Young New Zealanders During Youth Week
 ======================================================

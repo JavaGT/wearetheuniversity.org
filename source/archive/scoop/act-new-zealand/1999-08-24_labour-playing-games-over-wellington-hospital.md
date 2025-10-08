@@ -1,9 +1,12 @@
 ---
 slug: labour-playing-games-over-wellington-hospital
-title: "Labour Playing Games Over Wellington Hospital"
-date: 1999-08-24
-source-url: https://www.scoop.co.nz/stories/PA9908/S00393/labour-playing-games-over-wellington-hospital.htm
+title: Labour Playing Games Over Wellington Hospital
+date: 1999-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00393/labour-playing-games-over-wellington-hospital.htm
 author: act-new-zealand
+permalink: /archive/1999/08/24/labour-playing-games-over-wellington-hospital/index.html
+layout: layout.njk
 ---
 Labour Playing Games Over Wellington Hospital
 =============================================

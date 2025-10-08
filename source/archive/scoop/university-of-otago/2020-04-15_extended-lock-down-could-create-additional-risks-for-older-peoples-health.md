@@ -1,9 +1,13 @@
 ---
 slug: extended-lock-down-could-create-additional-risks-for-older-peoples-health
-title: "Extended Lock-down Could Create Additional Risks For Older People’s Health."
-date: 2020-04-15
-source-url: https://www.scoop.co.nz/stories/GE2004/S00114/extended-lock-down-could-create-additional-risks-for-older-peoples-health.htm
+title: Extended Lock-down Could Create Additional Risks For Older People’s Health.
+date: 2020-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00114/extended-lock-down-could-create-additional-risks-for-older-peoples-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/04/15/extended-lock-down-could-create-additional-risks-for-older-peoples-health/index.html
+layout: layout.njk
 ---
 Extended Lock-down Could Create Additional Risks For Older People’s Health.
 ===========================================================================

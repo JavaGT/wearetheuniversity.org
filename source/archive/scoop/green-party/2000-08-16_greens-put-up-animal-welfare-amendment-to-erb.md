@@ -1,9 +1,12 @@
 ---
 slug: greens-put-up-animal-welfare-amendment-to-erb
-title: "Greens Put Up Animal Welfare Amendment To ERB"
-date: 2000-08-16
-source-url: https://www.scoop.co.nz/stories/PA0008/S00292/greens-put-up-animal-welfare-amendment-to-erb.htm
+title: Greens Put Up Animal Welfare Amendment To ERB
+date: 2000-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00292/greens-put-up-animal-welfare-amendment-to-erb.htm
 author: green-party
+permalink: /archive/2000/08/16/greens-put-up-animal-welfare-amendment-to-erb/index.html
+layout: layout.njk
 ---
 Greens Put Up Animal Welfare Amendment To ERB
 =============================================

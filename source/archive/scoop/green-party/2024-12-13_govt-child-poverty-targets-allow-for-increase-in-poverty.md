@@ -1,9 +1,13 @@
 ---
 slug: govt-child-poverty-targets-allow-for-increase-in-poverty
-title: "Govt Child Poverty Targets Allow For Increase In Poverty"
-date: 2024-12-13
-source-url: https://www.scoop.co.nz/stories/PA2412/S00156/govt-child-poverty-targets-allow-for-increase-in-poverty.htm
+title: Govt Child Poverty Targets Allow For Increase In Poverty
+date: 2024-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00156/govt-child-poverty-targets-allow-for-increase-in-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2024/12/13/govt-child-poverty-targets-allow-for-increase-in-poverty/index.html
+layout: layout.njk
 ---
 Govt Child Poverty Targets Allow For Increase In Poverty
 ========================================================

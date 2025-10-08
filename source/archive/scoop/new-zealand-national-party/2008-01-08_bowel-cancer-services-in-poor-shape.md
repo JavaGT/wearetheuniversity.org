@@ -1,9 +1,12 @@
 ---
 slug: bowel-cancer-services-in-poor-shape
-title: "Bowel cancer services in poor shape"
-date: 2008-01-08
-source-url: https://www.scoop.co.nz/stories/PA0801/S00041/bowel-cancer-services-in-poor-shape.htm
+title: Bowel cancer services in poor shape
+date: 2008-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00041/bowel-cancer-services-in-poor-shape.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/08/bowel-cancer-services-in-poor-shape/index.html
+layout: layout.njk
 ---
 Bowel cancer services in poor shape
 ===================================

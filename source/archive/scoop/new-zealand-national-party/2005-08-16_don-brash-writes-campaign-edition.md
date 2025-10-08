@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-campaign-edition
-title: "Don Brash Writes - Campaign Edition"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/PA0508/S00405/don-brash-writes-campaign-edition.htm
+title: Don Brash Writes - Campaign Edition
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00405/don-brash-writes-campaign-edition.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/16/don-brash-writes-campaign-edition/index.html
+layout: layout.njk
 ---
 Don Brash Writes - Campaign Edition
 ===================================

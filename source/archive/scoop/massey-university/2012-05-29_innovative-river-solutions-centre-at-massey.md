@@ -1,9 +1,12 @@
 ---
 slug: innovative-river-solutions-centre-at-massey
-title: "Innovative River Solutions Centre at Massey"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/SC1205/S00055/innovative-river-solutions-centre-at-massey.htm
+title: Innovative River Solutions Centre at Massey
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00055/innovative-river-solutions-centre-at-massey.htm
 author: massey-university
+permalink: /archive/2012/05/29/innovative-river-solutions-centre-at-massey/index.html
+layout: layout.njk
 ---
 Innovative River Solutions Centre at Massey
 ===========================================

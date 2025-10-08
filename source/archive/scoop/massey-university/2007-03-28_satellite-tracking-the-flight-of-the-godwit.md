@@ -1,9 +1,12 @@
 ---
 slug: satellite-tracking-the-flight-of-the-godwit
-title: "Satellite-tracking the flight of the godwit"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/SC0703/S00067/satellite-tracking-the-flight-of-the-godwit.htm
+title: Satellite-tracking the flight of the godwit
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00067/satellite-tracking-the-flight-of-the-godwit.htm
 author: massey-university
+permalink: /archive/2007/03/28/satellite-tracking-the-flight-of-the-godwit/index.html
+layout: layout.njk
 ---
 Satellite-tracking the flight of the godwit
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: extension-of-work-scheme-urged-for-disaster-relief
-title: "Extension of work scheme urged for disaster relief"
-date: 2015-04-06
-source-url: https://www.scoop.co.nz/stories/PA1504/S00064/extension-of-work-scheme-urged-for-disaster-relief.htm
+title: Extension of work scheme urged for disaster relief
+date: 2015-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00064/extension-of-work-scheme-urged-for-disaster-relief.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/04/06/extension-of-work-scheme-urged-for-disaster-relief/index.html
+layout: layout.njk
 ---
 Extension of work scheme urged for disaster relief
 ==================================================

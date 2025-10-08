@@ -1,9 +1,12 @@
 ---
 slug: spatial-information-workshop-builds-capability
-title: "Spatial Information Workshop Builds Capability"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/SC0411/S00080/spatial-information-workshop-builds-capability.htm
+title: Spatial Information Workshop Builds Capability
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00080/spatial-information-workshop-builds-capability.htm
 author: university-of-otago
+permalink: /archive/2004/11/29/spatial-information-workshop-builds-capability/index.html
+layout: layout.njk
 ---
 Spatial Information Workshop Builds Capability
 ==============================================

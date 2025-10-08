@@ -1,9 +1,13 @@
 ---
 slug: nz-faces-loss-of-control-of-dairying-to-foreign-business
-title: "NZ Faces Loss of Control of Dairying to Foreign Business"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/PA1505/S00520/nz-faces-loss-of-control-of-dairying-to-foreign-business.htm
+title: NZ Faces Loss of Control of Dairying to Foreign Business
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00520/nz-faces-loss-of-control-of-dairying-to-foreign-business.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/27/nz-faces-loss-of-control-of-dairying-to-foreign-business/index.html
+layout: layout.njk
 ---
 NZ Faces Loss of Control of Dairying to Foreign Business
 ========================================================

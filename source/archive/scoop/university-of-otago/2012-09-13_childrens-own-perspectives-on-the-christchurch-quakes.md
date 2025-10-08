@@ -1,9 +1,13 @@
 ---
 slug: childrens-own-perspectives-on-the-christchurch-quakes
-title: "Children’s own perspectives on the Christchurch quakes"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/AK1209/S00262/childrens-own-perspectives-on-the-christchurch-quakes.htm
+title: Children’s own perspectives on the Christchurch quakes
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00262/childrens-own-perspectives-on-the-christchurch-quakes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/09/13/childrens-own-perspectives-on-the-christchurch-quakes/index.html
+layout: layout.njk
 ---
 Children’s own perspectives on the Christchurch quakes
 ======================================================

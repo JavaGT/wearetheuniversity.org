@@ -1,9 +1,13 @@
 ---
 slug: uc-postgrad-in-us-to-research-nz-exchange-rate-fluctuations
-title: "UC postgrad in US to research NZ exchange rate fluctuations"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/ED1407/S00031/uc-postgrad-in-us-to-research-nz-exchange-rate-fluctuations.htm
+title: UC postgrad in US to research NZ exchange rate fluctuations
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00031/uc-postgrad-in-us-to-research-nz-exchange-rate-fluctuations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/04/uc-postgrad-in-us-to-research-nz-exchange-rate-fluctuations/index.html
+layout: layout.njk
 ---
 UC postgrad in US to research NZ exchange rate fluctuations
 ===========================================================

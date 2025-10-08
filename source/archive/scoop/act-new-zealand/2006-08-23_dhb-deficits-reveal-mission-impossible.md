@@ -1,9 +1,12 @@
 ---
 slug: dhb-deficits-reveal-mission-impossible
-title: "DHB Deficits Reveal 'Mission Impossible'"
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/PA0608/S00402/dhb-deficits-reveal-mission-impossible.htm
+title: DHB Deficits Reveal 'Mission Impossible'
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00402/dhb-deficits-reveal-mission-impossible.htm
 author: act-new-zealand
+permalink: /archive/2006/08/23/dhb-deficits-reveal-mission-impossible/index.html
+layout: layout.njk
 ---
 DHB Deficits Reveal 'Mission Impossible'
 ========================================

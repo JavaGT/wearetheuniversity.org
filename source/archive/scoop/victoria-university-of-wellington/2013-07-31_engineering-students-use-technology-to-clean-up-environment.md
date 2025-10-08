@@ -1,9 +1,13 @@
 ---
 slug: engineering-students-use-technology-to-clean-up-environment
-title: "Engineering students use technology to clean up environment"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/ED1307/S00155/engineering-students-use-technology-to-clean-up-environment.htm
+title: Engineering students use technology to clean up environment
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00155/engineering-students-use-technology-to-clean-up-environment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/31/engineering-students-use-technology-to-clean-up-environment/index.html
+layout: layout.njk
 ---
 Engineering students use technology to clean up environment
 ===========================================================

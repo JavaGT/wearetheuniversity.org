@@ -1,9 +1,13 @@
 ---
 slug: driving-anxiety-experienced-by-many-older-adults
-title: "Driving anxiety experienced by many older adults"
-date: 2018-11-05
-source-url: https://www.scoop.co.nz/stories/CU1811/S00038/driving-anxiety-experienced-by-many-older-adults.htm
+title: Driving anxiety experienced by many older adults
+date: 2018-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1811/S00038/driving-anxiety-experienced-by-many-older-adults.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/05/driving-anxiety-experienced-by-many-older-adults/index.html
+layout: layout.njk
 ---
 Driving anxiety experienced by many older adults
 ================================================

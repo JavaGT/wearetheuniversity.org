@@ -1,9 +1,12 @@
 ---
 slug: volunteering-every-minute-counts
-title: "Volunteering – Every Minute Counts"
-date: 2011-06-21
-source-url: https://www.scoop.co.nz/stories/PA1106/S00350/volunteering-every-minute-counts.htm
+title: Volunteering – Every Minute Counts
+date: 2011-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00350/volunteering-every-minute-counts.htm
 author: te-pati-maori
+permalink: /archive/2011/06/21/volunteering-every-minute-counts/index.html
+layout: layout.njk
 ---
 Volunteering – Every Minute Counts
 ==================================

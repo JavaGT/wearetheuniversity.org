@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-launch-of-homelessness-paper
-title: "Rahui Katene:  Launch of Homelessness Paper"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/PA0903/S00340/rahui-katene-launch-of-homelessness-paper.htm
+title: 'Rahui Katene:  Launch of Homelessness Paper'
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00340/rahui-katene-launch-of-homelessness-paper.htm
 author: te-pati-maori
+permalink: /archive/2009/03/24/rahui-katene-launch-of-homelessness-paper/index.html
+layout: layout.njk
 ---
 Rahui Katene: Launch of Homelessness Paper
 ==========================================

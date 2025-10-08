@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-outlines-bold-future-strategy
-title: "VICTORIA UNIVERSITY OUTLINES BOLD FUTURE STRATEGY"
-date: 2000-09-11
-source-url: https://www.scoop.co.nz/stories/ED0009/S00021/victoria-university-outlines-bold-future-strategy.htm
+title: VICTORIA UNIVERSITY OUTLINES BOLD FUTURE STRATEGY
+date: 2000-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00021/victoria-university-outlines-bold-future-strategy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/09/11/victoria-university-outlines-bold-future-strategy/index.html
+layout: layout.njk
 ---
 VICTORIA UNIVERSITY OUTLINES BOLD FUTURE STRATEGY
 =================================================

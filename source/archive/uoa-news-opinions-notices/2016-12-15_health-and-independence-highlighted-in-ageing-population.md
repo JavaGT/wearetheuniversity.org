@@ -1,8 +1,12 @@
 ---
 slug: health-and-independence-highlighted-in-ageing-population
-title: "Health and independence highlighted in ageing population"
-date: 2016-12-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/health-and-independence-highlighted-in-ageing-population.html
+title: Health and independence highlighted in ageing population
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/health-and-independence-highlighted-in-ageing-population.html
+permalink: >-
+  /archive/2016/12/15/health-and-independence-highlighted-in-ageing-population/index.html
+layout: layout.njk
 ---
 Health and independence highlighted in ageing population
 ========================================================

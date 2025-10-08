@@ -1,9 +1,13 @@
 ---
 slug: how-to-prepare-for-the-next-pandemic-prof-michael-plank
-title: "How To Prepare For The Next Pandemic - Prof Michael Plank"
-date: 2021-05-18
-source-url: https://www.scoop.co.nz/stories/GE2105/S00092/how-to-prepare-for-the-next-pandemic-prof-michael-plank.htm
+title: How To Prepare For The Next Pandemic - Prof Michael Plank
+date: 2021-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2105/S00092/how-to-prepare-for-the-next-pandemic-prof-michael-plank.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/18/how-to-prepare-for-the-next-pandemic-prof-michael-plank/index.html
+layout: layout.njk
 ---
 How To Prepare For The Next Pandemic - Prof Michael Plank
 =========================================================

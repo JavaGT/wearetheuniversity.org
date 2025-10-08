@@ -1,9 +1,12 @@
 ---
 slug: briefing-papers-show-big-issues-for-tertiary-ed
-title: "Briefing papers show big issues for tertiary ed."
-date: 2002-09-09
-source-url: https://www.scoop.co.nz/stories/PA0209/S00113/briefing-papers-show-big-issues-for-tertiary-ed.htm
+title: Briefing papers show big issues for tertiary ed.
+date: 2002-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00113/briefing-papers-show-big-issues-for-tertiary-ed.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/09/briefing-papers-show-big-issues-for-tertiary-ed/index.html
+layout: layout.njk
 ---
 Briefing papers show big issues for tertiary ed.
 ================================================

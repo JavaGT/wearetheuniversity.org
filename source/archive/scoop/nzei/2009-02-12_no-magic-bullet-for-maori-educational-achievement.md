@@ -1,9 +1,13 @@
 ---
 slug: no-magic-bullet-for-maori-educational-achievement
-title: "No Magic Bullet For Maori Educational Achievement"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/ED0902/S00040/no-magic-bullet-for-maori-educational-achievement.htm
+title: No Magic Bullet For Maori Educational Achievement
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00040/no-magic-bullet-for-maori-educational-achievement.htm
 author: nzei
+permalink: >-
+  /archive/2009/02/12/no-magic-bullet-for-maori-educational-achievement/index.html
+layout: layout.njk
 ---
 No Magic Bullet For Maori Educational Achievement
 =================================================

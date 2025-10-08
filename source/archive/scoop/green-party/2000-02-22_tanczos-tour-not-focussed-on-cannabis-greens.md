@@ -1,9 +1,12 @@
 ---
 slug: tanczos-tour-not-focussed-on-cannabis-greens
-title: "Tanczos Tour Not Focussed On Cannabis - Greens"
-date: 2000-02-22
-source-url: https://www.scoop.co.nz/stories/PA0002/S00288/tanczos-tour-not-focussed-on-cannabis-greens.htm
+title: Tanczos Tour Not Focussed On Cannabis - Greens
+date: 2000-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00288/tanczos-tour-not-focussed-on-cannabis-greens.htm
 author: green-party
+permalink: /archive/2000/02/22/tanczos-tour-not-focussed-on-cannabis-greens/index.html
+layout: layout.njk
 ---
 Tanczos Tour Not Focussed On Cannabis - Greens
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: adb-highlights-private-sector-as-driver-of-growth
-title: "ADB highlights private sector as driver of growth"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/WO1607/S00058/adb-highlights-private-sector-as-driver-of-growth.htm
+title: ADB highlights private sector as driver of growth
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1607/S00058/adb-highlights-private-sector-as-driver-of-growth.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2016/07/19/adb-highlights-private-sector-as-driver-of-growth/index.html
+layout: layout.njk
 ---
 ADB highlights private sector as driver of growth
 =================================================

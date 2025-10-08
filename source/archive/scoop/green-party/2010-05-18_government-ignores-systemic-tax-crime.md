@@ -1,9 +1,12 @@
 ---
 slug: government-ignores-systemic-tax-crime
-title: "Government ignores systemic tax crime"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/PA1005/S00241/government-ignores-systemic-tax-crime.htm
+title: Government ignores systemic tax crime
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00241/government-ignores-systemic-tax-crime.htm
 author: green-party
+permalink: /archive/2010/05/18/government-ignores-systemic-tax-crime/index.html
+layout: layout.njk
 ---
 Government ignores systemic tax crime
 =====================================

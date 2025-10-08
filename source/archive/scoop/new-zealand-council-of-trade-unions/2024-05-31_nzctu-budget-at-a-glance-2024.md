@@ -1,9 +1,12 @@
 ---
 slug: nzctu-budget-at-a-glance-2024
-title: "NZCTU: Budget At A Glance 2024"
-date: 2024-05-31
-source-url: https://www.scoop.co.nz/stories/PO2405/S00165/nzctu-budget-at-a-glance-2024.htm
+title: 'NZCTU: Budget At A Glance 2024'
+date: 2024-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2405/S00165/nzctu-budget-at-a-glance-2024.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2024/05/31/nzctu-budget-at-a-glance-2024/index.html
+layout: layout.njk
 ---
 NZCTU: Budget At A Glance 2024
 ==============================

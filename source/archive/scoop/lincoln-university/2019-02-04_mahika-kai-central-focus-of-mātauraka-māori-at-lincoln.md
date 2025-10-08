@@ -1,9 +1,12 @@
 ---
 slug: mahika-kai-central-focus-of-mātauraka-māori-at-lincoln
-title: "Mahika kai central focus of mātauraka Māori at Lincoln"
-date: 2019-02-04
-source-url: https://www.scoop.co.nz/stories/ED1902/S00007/mahika-kai-central-focus-of-matauraka-maori-at-lincoln.htm
+title: Mahika kai central focus of mātauraka Māori at Lincoln
+date: 2019-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00007/mahika-kai-central-focus-of-matauraka-maori-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2019/02/04/mahika-kai-central-focus-of-m/index.html
+layout: layout.njk
 ---
 Mahika kai central focus of mātauraka Māori at Lincoln
 ======================================================

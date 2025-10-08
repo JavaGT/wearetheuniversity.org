@@ -1,9 +1,12 @@
 ---
 slug: has-the-govt-lost-its-moral-compass
-title: "Has the Govt lost its moral compass?"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/PA1608/S00348/has-the-govt-lost-its-moral-compass.htm
+title: Has the Govt lost its moral compass?
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00348/has-the-govt-lost-its-moral-compass.htm
 author: green-party
+permalink: /archive/2016/08/19/has-the-govt-lost-its-moral-compass/index.html
+layout: layout.njk
 ---
 Has the Govt lost its moral compass?
 ====================================

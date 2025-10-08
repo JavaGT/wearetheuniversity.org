@@ -1,9 +1,13 @@
 ---
 slug: exploring-post-lunch-dip-psychological-phenomena
-title: "Exploring Post-Lunch Dip Psychological Phenomena"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/ED0404/S00040/exploring-post-lunch-dip-psychological-phenomena.htm
+title: Exploring Post-Lunch Dip Psychological Phenomena
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00040/exploring-post-lunch-dip-psychological-phenomena.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/04/14/exploring-post-lunch-dip-psychological-phenomena/index.html
+layout: layout.njk
 ---
 Exploring Post-Lunch Dip Psychological Phenomena
 ================================================

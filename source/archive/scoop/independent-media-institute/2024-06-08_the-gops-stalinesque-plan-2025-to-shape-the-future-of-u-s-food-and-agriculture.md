@@ -1,9 +1,15 @@
 ---
 slug: the-gops-stalinesque-plan-2025-to-shape-the-future-of-u-s-food-and-agriculture
-title: "The GOP’s Stalinesque Plan 2025 To Shape The Future Of U.S. Food And Agriculture"
-date: 2024-06-08
-source-url: https://www.scoop.co.nz/stories/GE2406/S00038/the-gops-stalinesque-plan-2025-to-shape-the-future-of-us-food-and-agriculture.htm
+title: >-
+  The GOP’s Stalinesque Plan 2025 To Shape The Future Of U.S. Food And
+  Agriculture
+date: 2024-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2406/S00038/the-gops-stalinesque-plan-2025-to-shape-the-future-of-us-food-and-agriculture.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/06/08/the-gops-stalinesque-plan-2025-to-shape-the-future-of-u-s-food-and-agriculture/index.html
+layout: layout.njk
 ---
 The GOP’s Stalinesque Plan 2025 To Shape The Future Of U.S. Food And Agriculture
 ================================================================================

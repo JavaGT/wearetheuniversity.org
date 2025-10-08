@@ -1,9 +1,12 @@
 ---
 slug: nothing-in-budget-for-secondary-education
-title: "Nothing In Budget For Secondary Education"
-date: 2002-04-30
-source-url: https://www.scoop.co.nz/stories/PA0204/S00447/nothing-in-budget-for-secondary-education.htm
+title: Nothing In Budget For Secondary Education
+date: 2002-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00447/nothing-in-budget-for-secondary-education.htm
 author: act-new-zealand
+permalink: /archive/2002/04/30/nothing-in-budget-for-secondary-education/index.html
+layout: layout.njk
 ---
 Nothing In Budget For Secondary Education
 =========================================

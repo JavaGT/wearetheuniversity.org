@@ -1,9 +1,12 @@
 ---
 slug: seriously-alarming-policies-on-water
-title: "Seriously Alarming policies on water"
-date: 2017-09-01
-source-url: https://www.scoop.co.nz/stories/PA1709/S00009/seriously-alarming-policies-on-water.htm
+title: Seriously Alarming policies on water
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00009/seriously-alarming-policies-on-water.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/01/seriously-alarming-policies-on-water/index.html
+layout: layout.njk
 ---
 Seriously Alarming policies on water
 ====================================

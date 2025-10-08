@@ -1,9 +1,13 @@
 ---
 slug: victoria-management-school-celebrates-top-billing
-title: "Victoria Management School celebrates top billing"
-date: 2004-04-29
-source-url: https://www.scoop.co.nz/stories/ED0404/S00112/victoria-management-school-celebrates-top-billing.htm
+title: Victoria Management School celebrates top billing
+date: 2004-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00112/victoria-management-school-celebrates-top-billing.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/04/29/victoria-management-school-celebrates-top-billing/index.html
+layout: layout.njk
 ---
 Victoria Management School celebrates top billing
 =================================================

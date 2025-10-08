@@ -1,9 +1,12 @@
 ---
 slug: technology-revitalises-te-reo-māori-for-next-generation
-title: "Technology revitalises te reo Māori for next generation"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/ED1405/S00048/technology-revitalises-te-reo-maori-for-next-generation.htm
+title: Technology revitalises te reo Māori for next generation
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00048/technology-revitalises-te-reo-maori-for-next-generation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/09/technology-revitalises-te-reo-m/index.html
+layout: layout.njk
 ---
 Technology revitalises te reo Māori for next generation
 =======================================================

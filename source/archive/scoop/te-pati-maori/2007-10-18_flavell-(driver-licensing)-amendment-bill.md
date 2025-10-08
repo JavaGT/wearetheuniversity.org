@@ -1,9 +1,12 @@
 ---
 slug: flavell-(driver-licensing)-amendment-bill
-title: "Flavell: (Driver Licensing) Amendment Bill"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00366/flavell-driver-licensing-amendment-bill.htm
+title: 'Flavell: (Driver Licensing) Amendment Bill'
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00366/flavell-driver-licensing-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/10/18/flavell-/index.html
+layout: layout.njk
 ---
 Flavell: (Driver Licensing) Amendment Bill
 ==========================================

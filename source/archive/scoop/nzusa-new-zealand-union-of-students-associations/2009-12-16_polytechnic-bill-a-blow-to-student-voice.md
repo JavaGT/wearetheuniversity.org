@@ -1,9 +1,12 @@
 ---
 slug: polytechnic-bill-a-blow-to-student-voice
-title: "Polytechnic Bill a blow to student voice"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PO0912/S00200/polytechnic-bill-a-blow-to-student-voice.htm
+title: Polytechnic Bill a blow to student voice
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00200/polytechnic-bill-a-blow-to-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/12/16/polytechnic-bill-a-blow-to-student-voice/index.html
+layout: layout.njk
 ---
 Polytechnic Bill a blow to student voice
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-overrides-rule-of-law-again
-title: "Government overrides rule of law again"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PA1306/S00085/government-overrides-rule-of-law-again.htm
+title: Government overrides rule of law again
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00085/government-overrides-rule-of-law-again.htm
 author: green-party
+permalink: /archive/2013/06/06/government-overrides-rule-of-law-again/index.html
+layout: layout.njk
 ---
 Government overrides rule of law again
 ======================================

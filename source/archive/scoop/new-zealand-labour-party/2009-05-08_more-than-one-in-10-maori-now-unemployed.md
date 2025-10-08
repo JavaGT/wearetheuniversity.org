@@ -1,9 +1,12 @@
 ---
 slug: more-than-one-in-10-maori-now-unemployed
-title: "More than one in 10 Maori now unemployed"
-date: 2009-05-08
-source-url: https://www.scoop.co.nz/stories/PA0905/S00146/more-than-one-in-10-maori-now-unemployed.htm
+title: More than one in 10 Maori now unemployed
+date: 2009-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00146/more-than-one-in-10-maori-now-unemployed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/08/more-than-one-in-10-maori-now-unemployed/index.html
+layout: layout.njk
 ---
 More than one in 10 Maori now unemployed
 ========================================

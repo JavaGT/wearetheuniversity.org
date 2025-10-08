@@ -1,9 +1,12 @@
 ---
 slug: stream-in-integrated-farming-as-good-as-organic
-title: "Stream in integrated farming as good as organic"
-date: 2010-09-20
-source-url: https://www.scoop.co.nz/stories/SC1009/S00024/stream-in-integrated-farming-as-good-as-organic.htm
+title: Stream in integrated farming as good as organic
+date: 2010-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00024/stream-in-integrated-farming-as-good-as-organic.htm
 author: university-of-otago
+permalink: /archive/2010/09/20/stream-in-integrated-farming-as-good-as-organic/index.html
+layout: layout.njk
 ---
 Stream in integrated farming as good as organic
 ===============================================

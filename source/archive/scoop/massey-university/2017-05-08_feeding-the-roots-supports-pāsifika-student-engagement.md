@@ -1,9 +1,12 @@
 ---
 slug: feeding-the-roots-supports-pāsifika-student-engagement
-title: "‘Feeding the Roots’ supports Pāsifika student engagement"
-date: 2017-05-08
-source-url: https://www.scoop.co.nz/stories/ED1705/S00031/feeding-the-roots-supports-pasifika-student-engagement.htm
+title: ‘Feeding the Roots’ supports Pāsifika student engagement
+date: 2017-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00031/feeding-the-roots-supports-pasifika-student-engagement.htm
 author: massey-university
+permalink: /archive/2017/05/08/feeding-the-roots-supports-p/index.html
+layout: layout.njk
 ---
 ‘Feeding the Roots’ supports Pāsifika student engagement
 ========================================================

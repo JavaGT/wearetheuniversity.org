@@ -1,9 +1,13 @@
 ---
 slug: whales-dolphins-and-porpoises-sleep-with-half-a-brain
-title: "Whales, dolphins and porpoises sleep with half a brain"
-date: 2017-11-10
-source-url: https://www.scoop.co.nz/stories/SC1711/S00028/whales-dolphins-and-porpoises-sleep-with-half-a-brain.htm
+title: Whales, dolphins and porpoises sleep with half a brain
+date: 2017-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1711/S00028/whales-dolphins-and-porpoises-sleep-with-half-a-brain.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/10/whales-dolphins-and-porpoises-sleep-with-half-a-brain/index.html
+layout: layout.njk
 ---
 Whales, dolphins and porpoises sleep with half a brain
 ======================================================

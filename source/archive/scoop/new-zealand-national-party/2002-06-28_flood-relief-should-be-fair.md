@@ -1,9 +1,11 @@
 ---
 slug: flood-relief-should-be-fair
-title: "Flood Relief Should Be Fair"
-date: 2002-06-28
+title: Flood Relief Should Be Fair
+date: 2002-06-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00519/flood-relief-should-be-fair.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/28/flood-relief-should-be-fair/index.html
+layout: layout.njk
 ---
 Flood Relief Should Be Fair
 ===========================

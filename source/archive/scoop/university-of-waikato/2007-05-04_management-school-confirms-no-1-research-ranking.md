@@ -1,9 +1,13 @@
 ---
 slug: management-school-confirms-no-1-research-ranking
-title: "Management School confirms No 1 research ranking"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00018/management-school-confirms-no-1-research-ranking.htm
+title: Management School confirms No 1 research ranking
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00018/management-school-confirms-no-1-research-ranking.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/05/04/management-school-confirms-no-1-research-ranking/index.html
+layout: layout.njk
 ---
 Management School confirms No 1 research ranking
 ================================================

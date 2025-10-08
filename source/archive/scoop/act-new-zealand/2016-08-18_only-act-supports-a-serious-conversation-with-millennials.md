@@ -1,9 +1,13 @@
 ---
 slug: only-act-supports-a-serious-conversation-with-millennials
-title: "Only ACT supports a serious conversation with millennials"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/PA1608/S00332/only-act-supports-a-serious-conversation-with-millennials.htm
+title: Only ACT supports a serious conversation with millennials
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00332/only-act-supports-a-serious-conversation-with-millennials.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/08/18/only-act-supports-a-serious-conversation-with-millennials/index.html
+layout: layout.njk
 ---
 Only ACT supports a serious conversation with millennials
 =========================================================

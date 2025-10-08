@@ -1,9 +1,12 @@
 ---
 slug: kiwibank-outlets-sitting-ducks
-title: "Kiwibank Outlets Sitting Ducks"
-date: 2002-01-09
-source-url: https://www.scoop.co.nz/stories/PA0201/S00021/kiwibank-outlets-sitting-ducks.htm
+title: Kiwibank Outlets Sitting Ducks
+date: 2002-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00021/kiwibank-outlets-sitting-ducks.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/09/kiwibank-outlets-sitting-ducks/index.html
+layout: layout.njk
 ---
 Kiwibank Outlets Sitting Ducks
 ==============================

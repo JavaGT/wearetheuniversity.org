@@ -1,9 +1,12 @@
 ---
 slug: national-selects-northland-candidate
-title: "National selects Northland candidate"
-date: 2016-11-26
-source-url: https://www.scoop.co.nz/stories/PO1611/S00384/national-selects-northland-candidate.htm
+title: National selects Northland candidate
+date: 2016-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00384/national-selects-northland-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2016/11/26/national-selects-northland-candidate/index.html
+layout: layout.njk
 ---
 National selects Northland candidate
 ====================================

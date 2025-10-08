@@ -1,9 +1,12 @@
 ---
 slug: housing-policy-puts-needs-of-children-first
-title: "Housing policy puts needs of children first"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00473/housing-policy-puts-needs-of-children-first.htm
+title: Housing policy puts needs of children first
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00473/housing-policy-puts-needs-of-children-first.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/23/housing-policy-puts-needs-of-children-first/index.html
+layout: layout.njk
 ---
 Housing policy puts needs of children first
 ===========================================

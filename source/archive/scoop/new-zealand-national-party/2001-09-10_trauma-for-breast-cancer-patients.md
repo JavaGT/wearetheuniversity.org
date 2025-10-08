@@ -1,9 +1,12 @@
 ---
 slug: trauma-for-breast-cancer-patients
-title: "Trauma For Breast Cancer Patients"
-date: 2001-09-10
-source-url: https://www.scoop.co.nz/stories/PA0109/S00109/trauma-for-breast-cancer-patients.htm
+title: Trauma For Breast Cancer Patients
+date: 2001-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00109/trauma-for-breast-cancer-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/10/trauma-for-breast-cancer-patients/index.html
+layout: layout.njk
 ---
 Trauma For Breast Cancer Patients
 =================================

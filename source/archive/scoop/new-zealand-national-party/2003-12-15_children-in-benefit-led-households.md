@@ -1,9 +1,12 @@
 ---
 slug: children-in-benefit-led-households
-title: "Children in benefit-led households"
-date: 2003-12-15
-source-url: https://www.scoop.co.nz/stories/PA0312/S00360/children-in-benefit-led-households.htm
+title: Children in benefit-led households
+date: 2003-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00360/children-in-benefit-led-households.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/15/children-in-benefit-led-households/index.html
+layout: layout.njk
 ---
 Children in benefit-led households
 ==================================

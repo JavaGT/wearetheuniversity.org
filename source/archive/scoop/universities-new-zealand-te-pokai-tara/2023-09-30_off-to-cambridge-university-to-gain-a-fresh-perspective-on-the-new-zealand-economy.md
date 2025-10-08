@@ -1,9 +1,16 @@
 ---
-slug: off-to-cambridge-university-to-gain-a-fresh-perspective-on-the-new-zealand-economy
-title: "Off To Cambridge University To Gain A Fresh Perspective On The New Zealand Economy"
-date: 2023-09-30
-source-url: https://www.scoop.co.nz/stories/ED2309/S00052/off-to-cambridge-university-to-gain-a-fresh-perspective-on-the-new-zealand-economy.htm
+slug: >-
+  off-to-cambridge-university-to-gain-a-fresh-perspective-on-the-new-zealand-economy
+title: >-
+  Off To Cambridge University To Gain A Fresh Perspective On The New Zealand
+  Economy
+date: 2023-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00052/off-to-cambridge-university-to-gain-a-fresh-perspective-on-the-new-zealand-economy.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/09/30/off-to-cambridge-university-to-gain-a-fresh-perspective-on-the-new-zealand-economy/index.html
+layout: layout.njk
 ---
 Off To Cambridge University To Gain A Fresh Perspective On The New Zealand Economy
 ==================================================================================

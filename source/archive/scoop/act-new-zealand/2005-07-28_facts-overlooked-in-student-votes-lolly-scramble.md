@@ -1,9 +1,13 @@
 ---
 slug: facts-overlooked-in-student-votes-lolly-scramble
-title: "Facts overlooked in student votes lolly scramble"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/ED0507/S00121/facts-overlooked-in-student-votes-lolly-scramble.htm
+title: Facts overlooked in student votes lolly scramble
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00121/facts-overlooked-in-student-votes-lolly-scramble.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/07/28/facts-overlooked-in-student-votes-lolly-scramble/index.html
+layout: layout.njk
 ---
 Facts overlooked in student votes lolly scramble
 ================================================

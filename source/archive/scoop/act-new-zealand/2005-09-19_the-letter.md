@@ -1,9 +1,11 @@
 ---
 slug: the-letter
-title: "The Letter"
-date: 2005-09-19
+title: The Letter
+date: 2005-09-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00459/the-letter.htm
 author: act-new-zealand
+permalink: /archive/2005/09/19/the-letter/index.html
+layout: layout.njk
 ---
 The Letter
 ==========

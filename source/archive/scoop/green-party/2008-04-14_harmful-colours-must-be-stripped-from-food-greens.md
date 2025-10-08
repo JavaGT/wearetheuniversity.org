@@ -1,9 +1,13 @@
 ---
 slug: harmful-colours-must-be-stripped-from-food-greens
-title: "Harmful colours must be stripped from food: Greens"
-date: 2008-04-14
-source-url: https://www.scoop.co.nz/stories/PA0804/S00325/harmful-colours-must-be-stripped-from-food-greens.htm
+title: 'Harmful colours must be stripped from food: Greens'
+date: 2008-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00325/harmful-colours-must-be-stripped-from-food-greens.htm
 author: green-party
+permalink: >-
+  /archive/2008/04/14/harmful-colours-must-be-stripped-from-food-greens/index.html
+layout: layout.njk
 ---
 Harmful colours must be stripped from food: Greens
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: eminent-speakers-feature-in-symposium-at-otago
-title: "Eminent Speakers Feature In Symposium At Otago"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/ED0503/S00054/eminent-speakers-feature-in-symposium-at-otago.htm
+title: Eminent Speakers Feature In Symposium At Otago
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00054/eminent-speakers-feature-in-symposium-at-otago.htm
 author: university-of-otago
+permalink: /archive/2005/03/17/eminent-speakers-feature-in-symposium-at-otago/index.html
+layout: layout.njk
 ---
 Eminent Speakers Feature In Symposium At Otago
 ==============================================

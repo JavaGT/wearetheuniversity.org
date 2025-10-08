@@ -1,9 +1,12 @@
 ---
 slug: greater-scrutiny-needed-on-food-packaging
-title: "Greater Scrutiny Needed On Food Packaging"
-date: 2022-06-30
-source-url: https://www.scoop.co.nz/stories/BU2206/S00473/greater-scrutiny-needed-on-food-packaging.htm
+title: Greater Scrutiny Needed On Food Packaging
+date: 2022-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2206/S00473/greater-scrutiny-needed-on-food-packaging.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/30/greater-scrutiny-needed-on-food-packaging/index.html
+layout: layout.njk
 ---
 Greater Scrutiny Needed On Food Packaging
 =========================================

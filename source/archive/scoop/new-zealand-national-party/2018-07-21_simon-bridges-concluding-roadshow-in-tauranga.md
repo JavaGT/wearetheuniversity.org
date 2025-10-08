@@ -1,9 +1,12 @@
 ---
 slug: simon-bridges-concluding-roadshow-in-tauranga
-title: "Simon Bridges concluding roadshow in Tauranga"
-date: 2018-07-21
-source-url: https://www.scoop.co.nz/stories/PA1807/S00178/simon-bridges-concluding-roadshow-in-tauranga.htm
+title: Simon Bridges concluding roadshow in Tauranga
+date: 2018-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00178/simon-bridges-concluding-roadshow-in-tauranga.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/21/simon-bridges-concluding-roadshow-in-tauranga/index.html
+layout: layout.njk
 ---
 Simon Bridges concluding roadshow in Tauranga
 =============================================

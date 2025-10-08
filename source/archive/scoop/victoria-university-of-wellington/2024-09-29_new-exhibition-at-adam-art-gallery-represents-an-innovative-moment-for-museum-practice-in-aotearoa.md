@@ -1,9 +1,16 @@
 ---
-slug: new-exhibition-at-adam-art-gallery-represents-an-innovative-moment-for-museum-practice-in-aotearoa
-title: "New Exhibition At Adam Art Gallery Represents An Innovative Moment For Museum Practice In Aotearoa"
-date: 2024-09-29
-source-url: https://www.scoop.co.nz/stories/CU2409/S00302/new-exhibition-at-adam-art-gallery-represents-an-innovative-moment-for-museum-practice-in-aotearoa.htm
+slug: >-
+  new-exhibition-at-adam-art-gallery-represents-an-innovative-moment-for-museum-practice-in-aotearoa
+title: >-
+  New Exhibition At Adam Art Gallery Represents An Innovative Moment For Museum
+  Practice In Aotearoa
+date: 2024-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2409/S00302/new-exhibition-at-adam-art-gallery-represents-an-innovative-moment-for-museum-practice-in-aotearoa.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/09/29/new-exhibition-at-adam-art-gallery-represents-an-innovative-moment-for-museum-practice-in-aotearoa/index.html
+layout: layout.njk
 ---
 New Exhibition At Adam Art Gallery Represents An Innovative Moment For Museum Practice In Aotearoa
 ==================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-professor-of-orthodontics
-title: "University appoints Professor of Orthodontics"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/ED0904/S00027/university-appoints-professor-of-orthodontics.htm
+title: University appoints Professor of Orthodontics
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00027/university-appoints-professor-of-orthodontics.htm
 author: university-of-otago
+permalink: /archive/2009/04/09/university-appoints-professor-of-orthodontics/index.html
+layout: layout.njk
 ---
 University appoints Professor of Orthodontics
 =============================================

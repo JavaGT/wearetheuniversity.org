@@ -1,9 +1,12 @@
 ---
 slug: all-blacks-surrender-no-1-rating
-title: "All Blacks surrender No.1 rating"
-date: 2004-08-19
-source-url: https://www.scoop.co.nz/stories/CU0408/S00139/all-blacks-surrender-no1-rating.htm
+title: All Blacks surrender No.1 rating
+date: 2004-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0408/S00139/all-blacks-surrender-no1-rating.htm
 author: massey-university
+permalink: /archive/2004/08/19/all-blacks-surrender-no-1-rating/index.html
+layout: layout.njk
 ---
 All Blacks surrender No.1 rating
 ================================

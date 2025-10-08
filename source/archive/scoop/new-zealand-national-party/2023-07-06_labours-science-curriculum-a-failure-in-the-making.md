@@ -1,9 +1,13 @@
 ---
 slug: labours-science-curriculum-a-failure-in-the-making
-title: "Labour’s Science Curriculum A Failure In The Making"
-date: 2023-07-06
-source-url: https://www.scoop.co.nz/stories/PA2307/S00022/labours-science-curriculum-a-failure-in-the-making.htm
+title: Labour’s Science Curriculum A Failure In The Making
+date: 2023-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00022/labours-science-curriculum-a-failure-in-the-making.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/06/labours-science-curriculum-a-failure-in-the-making/index.html
+layout: layout.njk
 ---
 Labour’s Science Curriculum A Failure In The Making
 ===================================================

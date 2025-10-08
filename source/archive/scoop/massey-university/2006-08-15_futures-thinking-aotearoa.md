@@ -1,9 +1,11 @@
 ---
 slug: futures-thinking-aotearoa
-title: "Futures Thinking Aotearoa"
-date: 2006-08-15
+title: Futures Thinking Aotearoa
+date: 2006-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0608/S00255/futures-thinking-aotearoa.htm
 author: massey-university
+permalink: /archive/2006/08/15/futures-thinking-aotearoa/index.html
+layout: layout.njk
 ---
 Futures Thinking Aotearoa
 =========================

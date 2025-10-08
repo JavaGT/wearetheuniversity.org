@@ -1,9 +1,12 @@
 ---
 slug: clayton-cosgrove-robustly-ravaged-in-godzone…
-title: "Clayton Cosgrove: Robustly Ravaged in Godzone…."
-date: 2000-06-23
-source-url: https://www.scoop.co.nz/stories/PA0006/S00533/clayton-cosgrove-robustly-ravaged-in-godzone.htm
+title: 'Clayton Cosgrove: Robustly Ravaged in Godzone….'
+date: 2000-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00533/clayton-cosgrove-robustly-ravaged-in-godzone.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/06/23/clayton-cosgrove-robustly-ravaged-in-godzone/index.html
+layout: layout.njk
 ---
 Clayton Cosgrove: Robustly Ravaged in Godzone….
 ===============================================

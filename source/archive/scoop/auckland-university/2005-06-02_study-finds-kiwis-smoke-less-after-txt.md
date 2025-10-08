@@ -1,9 +1,12 @@
 ---
 slug: study-finds-kiwis-smoke-less-after-txt
-title: "Study finds Kiwis smoke less after TXT"
-date: 2005-06-02
-source-url: https://www.scoop.co.nz/stories/GE0506/S00006/study-finds-kiwis-smoke-less-after-txt.htm
+title: Study finds Kiwis smoke less after TXT
+date: 2005-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00006/study-finds-kiwis-smoke-less-after-txt.htm
 author: auckland-university
+permalink: /archive/2005/06/02/study-finds-kiwis-smoke-less-after-txt/index.html
+layout: layout.njk
 ---
 Study finds Kiwis smoke less after TXT
 ======================================

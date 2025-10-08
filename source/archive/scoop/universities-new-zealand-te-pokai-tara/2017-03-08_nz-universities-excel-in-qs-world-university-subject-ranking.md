@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-excel-in-qs-world-university-subject-ranking
-title: "NZ universities excel in QS World University Subject ranking"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/ED1703/S00033/nz-universities-excel-in-qs-world-university-subject-ranking.htm
+title: NZ universities excel in QS World University Subject ranking
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00033/nz-universities-excel-in-qs-world-university-subject-ranking.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/03/08/nz-universities-excel-in-qs-world-university-subject-ranking/index.html
+layout: layout.njk
 ---
 NZ universities excel in QS World University Subject ranking
 ============================================================

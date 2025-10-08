@@ -1,11 +1,14 @@
 ---
-title: "The Government’s disregard for evidence is an own goal"
+title: The Government’s disregard for evidence is an own goal
 slug: the-governments-disregard-for-evidence-is-an-own-goal
-date: 2016-06-20
+date: 2016-06-20T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: >-
+  /archive/2016/06/20/the-governments-disregard-for-evidence-is-an-own-goal/index.html
+layout: layout.njk
 ---
 
 The New Zealand Association of Scientists (Inc.)

@@ -1,9 +1,12 @@
 ---
 slug: sir-john-key-to-receive-honorary-doctorate
-title: "Sir John Key to receive Honorary Doctorate"
-date: 2017-08-07
-source-url: https://www.scoop.co.nz/stories/PO1708/S00124/sir-john-key-to-receive-honorary-doctorate.htm
+title: Sir John Key to receive Honorary Doctorate
+date: 2017-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00124/sir-john-key-to-receive-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/07/sir-john-key-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Sir John Key to receive Honorary Doctorate
 ==========================================

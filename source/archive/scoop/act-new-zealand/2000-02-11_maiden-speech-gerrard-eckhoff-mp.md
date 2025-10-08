@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-gerrard-eckhoff-mp
-title: "Maiden Speech, Gerrard Eckhoff MP"
-date: 2000-02-11
-source-url: https://www.scoop.co.nz/stories/PA0002/S00129/maiden-speech-gerrard-eckhoff-mp.htm
+title: Maiden Speech, Gerrard Eckhoff MP
+date: 2000-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00129/maiden-speech-gerrard-eckhoff-mp.htm
 author: act-new-zealand
+permalink: /archive/2000/02/11/maiden-speech-gerrard-eckhoff-mp/index.html
+layout: layout.njk
 ---
 Maiden Speech, Gerrard Eckhoff MP
 =================================

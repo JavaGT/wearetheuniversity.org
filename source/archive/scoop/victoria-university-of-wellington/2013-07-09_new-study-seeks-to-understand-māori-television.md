@@ -1,9 +1,12 @@
 ---
 slug: new-study-seeks-to-understand-māori-television
-title: "New study seeks to understand Māori Television"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/CU1307/S00153/new-study-seeks-to-understand-maori-television.htm
+title: New study seeks to understand Māori Television
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00153/new-study-seeks-to-understand-maori-television.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/09/new-study-seeks-to-understand-m/index.html
+layout: layout.njk
 ---
 New study seeks to understand Māori Television
 ==============================================

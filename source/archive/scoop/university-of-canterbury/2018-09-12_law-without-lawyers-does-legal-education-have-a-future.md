@@ -1,9 +1,13 @@
 ---
 slug: law-without-lawyers-does-legal-education-have-a-future
-title: "Law without lawyers: does legal education have a future?"
-date: 2018-09-12
-source-url: https://www.scoop.co.nz/stories/ED1809/S00025/law-without-lawyers-does-legal-education-have-a-future.htm
+title: 'Law without lawyers: does legal education have a future?'
+date: 2018-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00025/law-without-lawyers-does-legal-education-have-a-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/09/12/law-without-lawyers-does-legal-education-have-a-future/index.html
+layout: layout.njk
 ---
 Law without lawyers: does legal education have a future?
 ========================================================

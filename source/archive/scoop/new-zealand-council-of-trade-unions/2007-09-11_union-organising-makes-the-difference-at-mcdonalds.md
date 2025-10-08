@@ -1,9 +1,13 @@
 ---
 slug: union-organising-makes-the-difference-at-mcdonalds
-title: "Union organising makes the difference at McDonalds"
-date: 2007-09-11
-source-url: https://www.scoop.co.nz/stories/PO0709/S00163/union-organising-makes-the-difference-at-mcdonalds.htm
+title: Union organising makes the difference at McDonalds
+date: 2007-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00163/union-organising-makes-the-difference-at-mcdonalds.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2007/09/11/union-organising-makes-the-difference-at-mcdonalds/index.html
+layout: layout.njk
 ---
 Union organising makes the difference at McDonalds
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-launches-special-pg-earthquake-engineering-courses
-title: "UC Launches Special PG Earthquake Engineering Courses"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/ED1301/S00092/uc-launches-special-pg-earthquake-engineering-courses.htm
+title: UC Launches Special PG Earthquake Engineering Courses
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00092/uc-launches-special-pg-earthquake-engineering-courses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/29/uc-launches-special-pg-earthquake-engineering-courses/index.html
+layout: layout.njk
 ---
 UC Launches Special PG Earthquake Engineering Courses
 =====================================================

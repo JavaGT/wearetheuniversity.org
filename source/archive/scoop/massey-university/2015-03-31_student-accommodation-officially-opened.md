@@ -1,9 +1,12 @@
 ---
 slug: student-accommodation-officially-opened
-title: "Student accommodation officially opened"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/AK1503/S00823/student-accommodation-officially-opened.htm
+title: Student accommodation officially opened
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00823/student-accommodation-officially-opened.htm
 author: massey-university
+permalink: /archive/2015/03/31/student-accommodation-officially-opened/index.html
+layout: layout.njk
 ---
 Student accommodation officially opened
 =======================================

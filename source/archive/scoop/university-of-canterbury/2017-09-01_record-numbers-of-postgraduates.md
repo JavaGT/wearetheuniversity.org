@@ -1,9 +1,12 @@
 ---
 slug: record-numbers-of-postgraduates
-title: "Record numbers of postgraduates"
-date: 2017-09-01
-source-url: https://www.scoop.co.nz/stories/ED1709/S00010/record-numbers-of-postgraduates.htm
+title: Record numbers of postgraduates
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00010/record-numbers-of-postgraduates.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/01/record-numbers-of-postgraduates/index.html
+layout: layout.njk
 ---
 Record numbers of postgraduates
 ===============================

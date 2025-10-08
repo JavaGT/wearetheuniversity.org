@@ -1,9 +1,12 @@
 ---
 slug: home-ownership-the-impossible-dream
-title: "Home Ownership - The Impossible Dream"
-date: 2004-07-29
-source-url: https://www.scoop.co.nz/stories/PA0407/S00498/home-ownership-the-impossible-dream.htm
+title: Home Ownership - The Impossible Dream
+date: 2004-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00498/home-ownership-the-impossible-dream.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/29/home-ownership-the-impossible-dream/index.html
+layout: layout.njk
 ---
 Home Ownership - The Impossible Dream
 =====================================

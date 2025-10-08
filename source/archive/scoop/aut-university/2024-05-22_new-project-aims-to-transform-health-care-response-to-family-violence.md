@@ -1,9 +1,13 @@
 ---
 slug: new-project-aims-to-transform-health-care-response-to-family-violence
-title: "New Project Aims To Transform Health Care Response To Family Violence"
-date: 2024-05-22
-source-url: https://www.scoop.co.nz/stories/GE2405/S00098/new-project-aims-to-transform-health-care-response-to-family-violence.htm
+title: New Project Aims To Transform Health Care Response To Family Violence
+date: 2024-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2405/S00098/new-project-aims-to-transform-health-care-response-to-family-violence.htm
 author: aut-university
+permalink: >-
+  /archive/2024/05/22/new-project-aims-to-transform-health-care-response-to-family-violence/index.html
+layout: layout.njk
 ---
 New Project Aims To Transform Health Care Response To Family Violence
 =====================================================================

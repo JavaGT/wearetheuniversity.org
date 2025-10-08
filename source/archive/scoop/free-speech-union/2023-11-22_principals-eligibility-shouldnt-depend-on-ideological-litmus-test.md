@@ -1,9 +1,13 @@
 ---
 slug: principals-eligibility-shouldnt-depend-on-ideological-litmus-test
-title: "Principal’s Eligibility Shouldn’t Depend On Ideological Litmus Test"
-date: 2023-11-22
-source-url: https://www.scoop.co.nz/stories/PO2311/S00124/principals-eligibility-shouldnt-depend-on-ideological-litmus-test.htm
+title: Principal’s Eligibility Shouldn’t Depend On Ideological Litmus Test
+date: 2023-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00124/principals-eligibility-shouldnt-depend-on-ideological-litmus-test.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/11/22/principals-eligibility-shouldnt-depend-on-ideological-litmus-test/index.html
+layout: layout.njk
 ---
 Principal’s Eligibility Shouldn’t Depend On Ideological Litmus Test
 ===================================================================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-plans-to-simplify-tax-for-smes
-title: "Green Party plans to simplify tax for SMEs"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PA1111/S00438/green-party-plans-to-simplify-tax-for-smes.htm
+title: Green Party plans to simplify tax for SMEs
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00438/green-party-plans-to-simplify-tax-for-smes.htm
 author: green-party
+permalink: /archive/2011/11/22/green-party-plans-to-simplify-tax-for-smes/index.html
+layout: layout.njk
 ---
 Green Party plans to simplify tax for SMEs
 ==========================================

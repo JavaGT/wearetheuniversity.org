@@ -1,9 +1,12 @@
 ---
 slug: mapping-health-needs-geohealth-conference
-title: "Mapping Health Needs: GeoHealth Conference"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/SC0212/S00004/mapping-health-needs-geohealth-conference.htm
+title: 'Mapping Health Needs: GeoHealth Conference'
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0212/S00004/mapping-health-needs-geohealth-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/12/02/mapping-health-needs-geohealth-conference/index.html
+layout: layout.njk
 ---
 Mapping Health Needs: GeoHealth Conference
 ==========================================

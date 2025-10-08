@@ -1,9 +1,12 @@
 ---
 slug: participants-required-for-exercise-app-research
-title: "Participants required for exercise app research"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/SC1505/S00018/participants-required-for-exercise-app-research.htm
+title: Participants required for exercise app research
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00018/participants-required-for-exercise-app-research.htm
 author: university-of-waikato
+permalink: /archive/2015/05/07/participants-required-for-exercise-app-research/index.html
+layout: layout.njk
 ---
 Participants required for exercise app research
 ===============================================

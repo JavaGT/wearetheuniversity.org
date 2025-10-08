@@ -1,9 +1,13 @@
 ---
 slug: animal-urban-search-and-rescue-team-ready-to-respond
-title: "Animal urban search and rescue team ready to respond"
-date: 2011-02-25
-source-url: https://www.scoop.co.nz/stories/ED1102/S00075/animal-urban-search-and-rescue-team-ready-to-respond.htm
+title: Animal urban search and rescue team ready to respond
+date: 2011-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00075/animal-urban-search-and-rescue-team-ready-to-respond.htm
 author: massey-university
+permalink: >-
+  /archive/2011/02/25/animal-urban-search-and-rescue-team-ready-to-respond/index.html
+layout: layout.njk
 ---
 Animal urban search and rescue team ready to respond
 ====================================================

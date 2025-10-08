@@ -1,9 +1,13 @@
 ---
 slug: quakes-women-turned-to-unhealthy-food-to-cope-with-stress
-title: "Quakes: Women Turned To Unhealthy Food To Cope With Stress"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00179/quakes-women-turned-to-unhealthy-food-to-cope-with-stress.htm
+title: 'Quakes: Women Turned To Unhealthy Food To Cope With Stress'
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00179/quakes-women-turned-to-unhealthy-food-to-cope-with-stress.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/26/quakes-women-turned-to-unhealthy-food-to-cope-with-stress/index.html
+layout: layout.njk
 ---
 Quakes: Women Turned To Unhealthy Food To Cope With Stress
 ==========================================================

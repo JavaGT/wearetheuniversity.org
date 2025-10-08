@@ -1,9 +1,12 @@
 ---
 slug: wanted-more-business-savvy-science-people
-title: "Wanted: More business-savvy science people"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/ED0702/S00062/wanted-more-business-savvy-science-people.htm
+title: 'Wanted: More business-savvy science people'
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00062/wanted-more-business-savvy-science-people.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/16/wanted-more-business-savvy-science-people/index.html
+layout: layout.njk
 ---
 Wanted: More business-savvy science people
 ==========================================

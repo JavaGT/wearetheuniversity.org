@@ -1,9 +1,12 @@
 ---
 slug: wood-confirmed-as-lincoln-vice-chancellor
-title: "Wood Confirmed As Lincoln Vice-Chancellor"
-date: 2002-02-21
-source-url: https://www.scoop.co.nz/stories/ED0202/S00026/wood-confirmed-as-lincoln-vice-chancellor.htm
+title: Wood Confirmed As Lincoln Vice-Chancellor
+date: 2002-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00026/wood-confirmed-as-lincoln-vice-chancellor.htm
 author: lincoln-university
+permalink: /archive/2002/02/21/wood-confirmed-as-lincoln-vice-chancellor/index.html
+layout: layout.njk
 ---
 Wood Confirmed As Lincoln Vice-Chancellor
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-fee-increases-bad-news-for-everyone
-title: "Tertiary Fee Increases Bad News For Everyone"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PO0004/S00077/tertiary-fee-increases-bad-news-for-everyone.htm
+title: Tertiary Fee Increases Bad News For Everyone
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00077/tertiary-fee-increases-bad-news-for-everyone.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/04/17/tertiary-fee-increases-bad-news-for-everyone/index.html
+layout: layout.njk
 ---
 Tertiary Fee Increases Bad News For Everyone
 ============================================

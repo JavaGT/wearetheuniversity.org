@@ -1,9 +1,12 @@
 ---
 slug: consumer-choice-a-key-issue-of-gm
-title: "Consumer choice a key issue of GM"
-date: 2001-10-18
-source-url: https://www.scoop.co.nz/stories/PA0110/S00374/consumer-choice-a-key-issue-of-gm.htm
+title: Consumer choice a key issue of GM
+date: 2001-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00374/consumer-choice-a-key-issue-of-gm.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/18/consumer-choice-a-key-issue-of-gm/index.html
+layout: layout.njk
 ---
 Consumer choice a key issue of GM
 =================================

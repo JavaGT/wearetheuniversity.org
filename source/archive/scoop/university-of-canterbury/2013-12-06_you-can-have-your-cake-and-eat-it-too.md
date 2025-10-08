@@ -1,9 +1,12 @@
 ---
 slug: you-can-have-your-cake-and-eat-it-too
-title: "You can have your cake and eat it too"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/SC1312/S00028/you-can-have-your-cake-and-eat-it-too.htm
+title: You can have your cake and eat it too
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00028/you-can-have-your-cake-and-eat-it-too.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/06/you-can-have-your-cake-and-eat-it-too/index.html
+layout: layout.njk
 ---
 You can have your cake and eat it too
 =====================================

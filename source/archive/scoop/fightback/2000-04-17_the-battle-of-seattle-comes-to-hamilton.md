@@ -1,9 +1,12 @@
 ---
 slug: the-battle-of-seattle-comes-to-hamilton
-title: "The Battle of Seattle comes to Hamilton"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PO0004/S00074/the-battle-of-seattle-comes-to-hamilton.htm
+title: The Battle of Seattle comes to Hamilton
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00074/the-battle-of-seattle-comes-to-hamilton.htm
 author: fightback
+permalink: /archive/2000/04/17/the-battle-of-seattle-comes-to-hamilton/index.html
+layout: layout.njk
 ---
 The Battle of Seattle comes to Hamilton
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: sarah-walker-to-speak-at-nutrition-symposium
-title: "Sarah Walker to speak at nutrition symposium"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/GE1404/S00086/sarah-walker-to-speak-at-nutrition-symposium.htm
+title: Sarah Walker to speak at nutrition symposium
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1404/S00086/sarah-walker-to-speak-at-nutrition-symposium.htm
 author: massey-university
+permalink: /archive/2014/04/29/sarah-walker-to-speak-at-nutrition-symposium/index.html
+layout: layout.njk
 ---
 Sarah Walker to speak at nutrition symposium
 ============================================

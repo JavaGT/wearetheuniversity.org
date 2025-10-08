@@ -1,9 +1,13 @@
 ---
 slug: having-our-say-in-southlands-vocational-education
-title: "Having our say in Southland’s Vocational Education"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/PA1908/S00006/having-our-say-in-southlands-vocational-education.htm
+title: Having our say in Southland’s Vocational Education
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00006/having-our-say-in-southlands-vocational-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/08/01/having-our-say-in-southlands-vocational-education/index.html
+layout: layout.njk
 ---
 Having our say in Southland’s Vocational Education
 ==================================================

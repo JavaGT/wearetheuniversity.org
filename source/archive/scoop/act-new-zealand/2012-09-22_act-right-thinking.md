@@ -1,9 +1,11 @@
 ---
 slug: act-right-thinking
-title: "ACT - Right Thinking"
-date: 2012-09-22
+title: ACT - Right Thinking
+date: 2012-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1209/S00289/act-right-thinking.htm
 author: act-new-zealand
+permalink: /archive/2012/09/22/act-right-thinking/index.html
+layout: layout.njk
 ---
 ACT - Right Thinking
 ====================

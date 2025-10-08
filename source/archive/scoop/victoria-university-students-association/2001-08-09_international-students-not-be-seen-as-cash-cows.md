@@ -1,9 +1,12 @@
 ---
 slug: international-students-not-be-seen-as-cash-cows
-title: "International Students Not Be Seen As Cash Cows"
-date: 2001-08-09
-source-url: https://www.scoop.co.nz/stories/ED0108/S00038/international-students-not-be-seen-as-cash-cows.htm
+title: International Students Not Be Seen As Cash Cows
+date: 2001-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00038/international-students-not-be-seen-as-cash-cows.htm
 author: victoria-university-students-association
+permalink: /archive/2001/08/09/international-students-not-be-seen-as-cash-cows/index.html
+layout: layout.njk
 ---
 International Students Not Be Seen As Cash Cows
 ===============================================

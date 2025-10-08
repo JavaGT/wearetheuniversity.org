@@ -1,9 +1,12 @@
 ---
 slug: new-eyes-to-see-the-infinite-possibilities
-title: "'New Eyes to See the Infinite Possibilities'"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00500/new-eyes-to-see-the-infinite-possibilities.htm
+title: '''New Eyes to See the Infinite Possibilities'''
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00500/new-eyes-to-see-the-infinite-possibilities.htm
 author: te-pati-maori
+permalink: /archive/2006/09/22/new-eyes-to-see-the-infinite-possibilities/index.html
+layout: layout.njk
 ---
 'New Eyes to See the Infinite Possibilities'
 ============================================

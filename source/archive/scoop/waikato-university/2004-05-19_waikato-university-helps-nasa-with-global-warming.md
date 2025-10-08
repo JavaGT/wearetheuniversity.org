@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-helps-nasa-with-global-warming
-title: "Waikato University Helps Nasa With Global Warming"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/ED0405/S00069/waikato-university-helps-nasa-with-global-warming.htm
+title: Waikato University Helps Nasa With Global Warming
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00069/waikato-university-helps-nasa-with-global-warming.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/05/19/waikato-university-helps-nasa-with-global-warming/index.html
+layout: layout.njk
 ---
 Waikato University Helps Nasa With Global Warming
 =================================================

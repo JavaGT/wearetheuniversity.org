@@ -1,9 +1,13 @@
 ---
 slug: pm-must-raise-west-papua-in-todays-indonesia-talks
-title: "PM must raise West Papua in today’s Indonesia talks"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/PA1607/S00258/pm-must-raise-west-papua-in-todays-indonesia-talks.htm
+title: PM must raise West Papua in today’s Indonesia talks
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00258/pm-must-raise-west-papua-in-todays-indonesia-talks.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/18/pm-must-raise-west-papua-in-todays-indonesia-talks/index.html
+layout: layout.njk
 ---
 PM must raise West Papua in today’s Indonesia talks
 ===================================================

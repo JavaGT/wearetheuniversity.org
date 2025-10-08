@@ -1,9 +1,12 @@
 ---
 slug: is-mr-peters-sincere-on-the-treaty
-title: "Is Mr Peters Sincere On The Treaty?"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/PA0409/S00587/is-mr-peters-sincere-on-the-treaty.htm
+title: Is Mr Peters Sincere On The Treaty?
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00587/is-mr-peters-sincere-on-the-treaty.htm
 author: act-new-zealand
+permalink: /archive/2004/09/30/is-mr-peters-sincere-on-the-treaty/index.html
+layout: layout.njk
 ---
 Is Mr Peters Sincere On The Treaty?
 ===================================

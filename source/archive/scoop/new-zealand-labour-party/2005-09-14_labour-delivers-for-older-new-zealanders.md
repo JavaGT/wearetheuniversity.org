@@ -1,9 +1,12 @@
 ---
 slug: labour-delivers-for-older-new-zealanders
-title: "Labour delivers for older New Zealanders"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00361/labour-delivers-for-older-new-zealanders.htm
+title: Labour delivers for older New Zealanders
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00361/labour-delivers-for-older-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/14/labour-delivers-for-older-new-zealanders/index.html
+layout: layout.njk
 ---
 Labour delivers for older New Zealanders
 ========================================

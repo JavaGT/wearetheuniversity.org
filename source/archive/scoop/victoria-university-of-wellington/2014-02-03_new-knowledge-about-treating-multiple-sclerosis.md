@@ -1,9 +1,12 @@
 ---
 slug: new-knowledge-about-treating-multiple-sclerosis
-title: "New knowledge about treating multiple sclerosis"
-date: 2014-02-03
-source-url: https://www.scoop.co.nz/stories/ED1402/S00006/new-knowledge-about-treating-multiple-sclerosis.htm
+title: New knowledge about treating multiple sclerosis
+date: 2014-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00006/new-knowledge-about-treating-multiple-sclerosis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/03/new-knowledge-about-treating-multiple-sclerosis/index.html
+layout: layout.njk
 ---
 New knowledge about treating multiple sclerosis
 ===============================================

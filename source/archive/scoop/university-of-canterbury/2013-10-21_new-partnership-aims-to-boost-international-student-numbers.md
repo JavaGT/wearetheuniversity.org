@@ -1,9 +1,13 @@
 ---
 slug: new-partnership-aims-to-boost-international-student-numbers
-title: "New partnership aims to boost international student numbers"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/ED1310/S00134/new-partnership-aims-to-boost-international-student-numbers.htm
+title: New partnership aims to boost international student numbers
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00134/new-partnership-aims-to-boost-international-student-numbers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/21/new-partnership-aims-to-boost-international-student-numbers/index.html
+layout: layout.njk
 ---
 New partnership aims to boost international student numbers
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: north-campus-development-$2-2-million-over-budget
-title: "North Campus Development $2.2 Million Over Budget"
-date: 2004-05-14
-source-url: https://www.scoop.co.nz/stories/ED0405/S00062/north-campus-development-22-million-over-budget.htm
+title: North Campus Development $2.2 Million Over Budget
+date: 2004-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00062/north-campus-development-22-million-over-budget.htm
 author: otago-university-students-association
+permalink: /archive/2004/05/14/north-campus-development-/index.html
+layout: layout.njk
 ---
 North Campus Development $2.2 Million Over Budget
 =================================================

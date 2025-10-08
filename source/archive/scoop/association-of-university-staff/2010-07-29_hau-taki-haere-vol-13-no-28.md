@@ -1,9 +1,11 @@
 ---
 slug: hau-taki-haere-vol-13-no-28
-title: "Hau Taki Haere, Vol 13, No 28"
-date: 2010-07-29
+title: Hau Taki Haere, Vol 13, No 28
+date: 2010-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1007/S00104/hau-taki-haere-vol-13-no-28.htm
 author: association-of-university-staff
+permalink: /archive/2010/07/29/hau-taki-haere-vol-13-no-28/index.html
+layout: layout.njk
 ---
 Hau Taki Haere, Vol 13, No 28
 =============================

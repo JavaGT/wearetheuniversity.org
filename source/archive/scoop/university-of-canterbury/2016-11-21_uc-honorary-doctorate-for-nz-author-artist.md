@@ -1,9 +1,12 @@
 ---
 slug: uc-honorary-doctorate-for-nz-author-artist
-title: "UC Honorary Doctorate for NZ author-artist"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/CU1611/S00273/uc-honorary-doctorate-for-nz-author-artist.htm
+title: UC Honorary Doctorate for NZ author-artist
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00273/uc-honorary-doctorate-for-nz-author-artist.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/21/uc-honorary-doctorate-for-nz-author-artist/index.html
+layout: layout.njk
 ---
 UC Honorary Doctorate for NZ author-artist
 ==========================================

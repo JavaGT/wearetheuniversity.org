@@ -1,9 +1,12 @@
 ---
 slug: otagonational-centre-for-peace-studies
-title: "OtagoNational Centre for Peace Studies"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/ED0710/S00083/otagonational-centre-for-peace-studies.htm
+title: OtagoNational Centre for Peace Studies
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00083/otagonational-centre-for-peace-studies.htm
 author: university-of-otago
+permalink: /archive/2007/10/26/otagonational-centre-for-peace-studies/index.html
+layout: layout.njk
 ---
 OtagoNational Centre for Peace Studies
 ======================================

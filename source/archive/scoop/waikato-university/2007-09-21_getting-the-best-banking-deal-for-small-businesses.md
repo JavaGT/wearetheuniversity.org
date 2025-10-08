@@ -1,9 +1,13 @@
 ---
 slug: getting-the-best-banking-deal-for-small-businesses
-title: "Getting the best banking deal for small businesses"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/BU0709/S00419/getting-the-best-banking-deal-for-small-businesses.htm
+title: Getting the best banking deal for small businesses
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0709/S00419/getting-the-best-banking-deal-for-small-businesses.htm
 author: waikato-university
+permalink: >-
+  /archive/2007/09/21/getting-the-best-banking-deal-for-small-businesses/index.html
+layout: layout.njk
 ---
 Getting the best banking deal for small businesses
 ==================================================

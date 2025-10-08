@@ -1,9 +1,13 @@
 ---
 slug: sheep-shipments-will-slaughter-nzs-overseas-image
-title: "Sheep shipments will slaughter NZ's overseas image"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/PA0903/S00337/sheep-shipments-will-slaughter-nzs-overseas-image.htm
+title: Sheep shipments will slaughter NZ's overseas image
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00337/sheep-shipments-will-slaughter-nzs-overseas-image.htm
 author: green-party
+permalink: >-
+  /archive/2009/03/24/sheep-shipments-will-slaughter-nzs-overseas-image/index.html
+layout: layout.njk
 ---
 Sheep shipments will slaughter NZ's overseas image
 ==================================================

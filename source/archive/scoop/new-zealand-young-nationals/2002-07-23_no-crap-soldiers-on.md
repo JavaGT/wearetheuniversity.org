@@ -1,9 +1,11 @@
 ---
 slug: no-crap-soldiers-on
-title: "NO CRAP soldiers on"
-date: 2002-07-23
+title: NO CRAP soldiers on
+date: 2002-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0207/S00224/no-crap-soldiers-on.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/07/23/no-crap-soldiers-on/index.html
+layout: layout.njk
 ---
 NO CRAP soldiers on
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: cautious-buyers-leave-housing-market-subdued
-title: "Cautious buyers leave housing market subdued"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/BU1109/S00693/cautious-buyers-leave-housing-market-subdued.htm
+title: Cautious buyers leave housing market subdued
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00693/cautious-buyers-leave-housing-market-subdued.htm
 author: massey-university
+permalink: /archive/2011/09/23/cautious-buyers-leave-housing-market-subdued/index.html
+layout: layout.njk
 ---
 Cautious buyers leave housing market subdued
 ============================================

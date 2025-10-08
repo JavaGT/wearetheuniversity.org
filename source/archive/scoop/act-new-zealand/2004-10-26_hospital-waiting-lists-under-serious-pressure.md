@@ -1,9 +1,12 @@
 ---
 slug: hospital-waiting-lists-under-serious-pressure
-title: "Hospital Waiting Lists Under Serious Pressure"
-date: 2004-10-26
-source-url: https://www.scoop.co.nz/stories/PA0410/S00413/hospital-waiting-lists-under-serious-pressure.htm
+title: Hospital Waiting Lists Under Serious Pressure
+date: 2004-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00413/hospital-waiting-lists-under-serious-pressure.htm
 author: act-new-zealand
+permalink: /archive/2004/10/26/hospital-waiting-lists-under-serious-pressure/index.html
+layout: layout.njk
 ---
 Hospital Waiting Lists Under Serious Pressure
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwisaver-kick-start-for-all-new-zealand-babies
-title: "Kiwisaver Kick Start for All New Zealand Babies"
-date: 2014-08-10
-source-url: https://www.scoop.co.nz/stories/PA1408/S00170/kiwisaver-kick-start-for-all-new-zealand-babies.htm
+title: Kiwisaver Kick Start for All New Zealand Babies
+date: 2014-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00170/kiwisaver-kick-start-for-all-new-zealand-babies.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/10/kiwisaver-kick-start-for-all-new-zealand-babies/index.html
+layout: layout.njk
 ---
 Kiwisaver Kick Start for All New Zealand Babies
 ===============================================

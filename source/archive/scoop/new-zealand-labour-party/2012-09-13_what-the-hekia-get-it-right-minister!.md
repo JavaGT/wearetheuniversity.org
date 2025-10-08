@@ -1,9 +1,12 @@
 ---
 slug: what-the-hekia-get-it-right-minister!
-title: "What the Hekia? Get it right, Minister!"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00215/what-the-hekia-get-it-right-minister.htm
+title: What the Hekia? Get it right, Minister!
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00215/what-the-hekia-get-it-right-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/13/what-the-hekia-get-it-right-minister/index.html
+layout: layout.njk
 ---
 What the Hekia? Get it right, Minister!
 =======================================

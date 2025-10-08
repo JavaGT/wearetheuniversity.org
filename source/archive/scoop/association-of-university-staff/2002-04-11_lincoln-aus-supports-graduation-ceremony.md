@@ -1,9 +1,12 @@
 ---
 slug: lincoln-aus-supports-graduation-ceremony
-title: "Lincoln AUS Supports Graduation Ceremony"
-date: 2002-04-11
-source-url: https://www.scoop.co.nz/stories/ED0204/S00015/lincoln-aus-supports-graduation-ceremony.htm
+title: Lincoln AUS Supports Graduation Ceremony
+date: 2002-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00015/lincoln-aus-supports-graduation-ceremony.htm
 author: association-of-university-staff
+permalink: /archive/2002/04/11/lincoln-aus-supports-graduation-ceremony/index.html
+layout: layout.njk
 ---
 Lincoln AUS Supports Graduation Ceremony
 ========================================

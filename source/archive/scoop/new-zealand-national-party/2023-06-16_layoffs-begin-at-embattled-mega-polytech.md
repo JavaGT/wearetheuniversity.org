@@ -1,9 +1,12 @@
 ---
 slug: layoffs-begin-at-embattled-mega-polytech
-title: "Layoffs Begin At Embattled Mega Polytech"
-date: 2023-06-16
-source-url: https://www.scoop.co.nz/stories/PA2306/S00109/layoffs-begin-at-embattled-mega-polytech.htm
+title: Layoffs Begin At Embattled Mega Polytech
+date: 2023-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00109/layoffs-begin-at-embattled-mega-polytech.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/16/layoffs-begin-at-embattled-mega-polytech/index.html
+layout: layout.njk
 ---
 Layoffs Begin At Embattled Mega Polytech
 ========================================

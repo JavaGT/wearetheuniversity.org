@@ -1,9 +1,12 @@
 ---
 slug: goff-speech-to-local-government-nz-conference
-title: "Goff Speech To Local Government NZ Conference"
-date: 2010-07-27
-source-url: https://www.scoop.co.nz/stories/PA1007/S00420/goff-speech-to-local-government-nz-conference.htm
+title: Goff Speech To Local Government NZ Conference
+date: 2010-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00420/goff-speech-to-local-government-nz-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/27/goff-speech-to-local-government-nz-conference/index.html
+layout: layout.njk
 ---
 Goff Speech To Local Government NZ Conference
 =============================================

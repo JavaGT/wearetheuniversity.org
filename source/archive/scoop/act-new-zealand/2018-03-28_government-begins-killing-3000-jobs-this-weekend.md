@@ -1,9 +1,13 @@
 ---
 slug: government-begins-killing-3000-jobs-this-weekend
-title: "Government begins killing 3000 jobs this weekend"
-date: 2018-03-28
-source-url: https://www.scoop.co.nz/stories/PA1803/S00310/government-begins-killing-3000-jobs-this-weekend.htm
+title: Government begins killing 3000 jobs this weekend
+date: 2018-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00310/government-begins-killing-3000-jobs-this-weekend.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/03/28/government-begins-killing-3000-jobs-this-weekend/index.html
+layout: layout.njk
 ---
 Government begins killing 3000 jobs this weekend
 ================================================

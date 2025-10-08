@@ -1,9 +1,13 @@
 ---
 slug: hiko-hub-launches-new-co-working-precinct-opens-at-the-university-of-waikato
-title: "HIKO Hub Launches: New Co-working Precinct Opens At The University Of Waikato"
-date: 2024-05-16
-source-url: https://www.scoop.co.nz/stories/BU2405/S00251/hiko-hub-launches-new-co-working-precinct-opens-at-the-university-of-waikato.htm
+title: 'HIKO Hub Launches: New Co-working Precinct Opens At The University Of Waikato'
+date: 2024-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2405/S00251/hiko-hub-launches-new-co-working-precinct-opens-at-the-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/05/16/hiko-hub-launches-new-co-working-precinct-opens-at-the-university-of-waikato/index.html
+layout: layout.njk
 ---
 HIKO Hub Launches: New Co-working Precinct Opens At The University Of Waikato
 =============================================================================

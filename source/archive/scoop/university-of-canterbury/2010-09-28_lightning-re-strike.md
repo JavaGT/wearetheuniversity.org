@@ -1,9 +1,11 @@
 ---
 slug: lightning-re-strike
-title: "Lightning Re-strike"
-date: 2010-09-28
+title: Lightning Re-strike
+date: 2010-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1009/S00037/lightning-re-strike.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/28/lightning-re-strike/index.html
+layout: layout.njk
 ---
 Lightning Re-strike
 ===================

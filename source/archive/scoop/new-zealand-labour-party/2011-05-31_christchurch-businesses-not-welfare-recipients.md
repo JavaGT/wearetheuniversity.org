@@ -1,9 +1,12 @@
 ---
 slug: christchurch-businesses-not-welfare-recipients
-title: "Christchurch businesses not welfare recipients"
-date: 2011-05-31
-source-url: https://www.scoop.co.nz/stories/PA1105/S00618/christchurch-businesses-not-welfare-recipients.htm
+title: Christchurch businesses not welfare recipients
+date: 2011-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00618/christchurch-businesses-not-welfare-recipients.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/31/christchurch-businesses-not-welfare-recipients/index.html
+layout: layout.njk
 ---
 Christchurch businesses not welfare recipients
 ==============================================

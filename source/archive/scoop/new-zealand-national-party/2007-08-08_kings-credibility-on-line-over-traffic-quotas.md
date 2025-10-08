@@ -1,9 +1,12 @@
 ---
 slug: kings-credibility-on-line-over-traffic-quotas
-title: "King’s credibility on line over traffic quotas"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/PA0708/S00131/kings-credibility-on-line-over-traffic-quotas.htm
+title: King’s credibility on line over traffic quotas
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00131/kings-credibility-on-line-over-traffic-quotas.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/08/kings-credibility-on-line-over-traffic-quotas/index.html
+layout: layout.njk
 ---
 King’s credibility on line over traffic quotas
 ==============================================

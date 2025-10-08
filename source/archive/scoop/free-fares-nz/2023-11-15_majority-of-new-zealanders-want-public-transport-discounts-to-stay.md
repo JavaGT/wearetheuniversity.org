@@ -1,9 +1,13 @@
 ---
 slug: majority-of-new-zealanders-want-public-transport-discounts-to-stay
-title: "Majority Of New Zealanders Want Public Transport Discounts To Stay"
-date: 2023-11-15
-source-url: https://www.scoop.co.nz/stories/PO2311/S00083/majority-of-new-zealanders-want-public-transport-discounts-to-stay.htm
+title: Majority Of New Zealanders Want Public Transport Discounts To Stay
+date: 2023-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00083/majority-of-new-zealanders-want-public-transport-discounts-to-stay.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/11/15/majority-of-new-zealanders-want-public-transport-discounts-to-stay/index.html
+layout: layout.njk
 ---
 Majority Of New Zealanders Want Public Transport Discounts To Stay
 ==================================================================

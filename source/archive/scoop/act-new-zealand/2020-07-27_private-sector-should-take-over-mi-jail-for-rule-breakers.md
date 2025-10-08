@@ -1,9 +1,13 @@
 ---
 slug: private-sector-should-take-over-mi-jail-for-rule-breakers
-title: "Private Sector Should Take Over MI, Jail For Rule-breakers"
-date: 2020-07-27
-source-url: https://www.scoop.co.nz/stories/PA2007/S00261/private-sector-should-take-over-mi-jail-for-rule-breakers.htm
+title: Private Sector Should Take Over MI, Jail For Rule-breakers
+date: 2020-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00261/private-sector-should-take-over-mi-jail-for-rule-breakers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/27/private-sector-should-take-over-mi-jail-for-rule-breakers/index.html
+layout: layout.njk
 ---
 Private Sector Should Take Over MI, Jail For Rule-breakers
 ==========================================================

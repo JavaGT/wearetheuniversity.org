@@ -1,9 +1,12 @@
 ---
 slug: students-mourn-the-loss-of-rod-donald
-title: "Students mourn the loss of Rod Donald"
-date: 2005-11-06
-source-url: https://www.scoop.co.nz/stories/ED0511/S00026/students-mourn-the-loss-of-rod-donald.htm
+title: Students mourn the loss of Rod Donald
+date: 2005-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00026/students-mourn-the-loss-of-rod-donald.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/11/06/students-mourn-the-loss-of-rod-donald/index.html
+layout: layout.njk
 ---
 Students mourn the loss of Rod Donald
 =====================================

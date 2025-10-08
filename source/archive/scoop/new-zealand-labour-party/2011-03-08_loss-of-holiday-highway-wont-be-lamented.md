@@ -1,9 +1,12 @@
 ---
 slug: loss-of-holiday-highway-wont-be-lamented
-title: "Loss of holiday highway won't be lamented"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PA1103/S00087/loss-of-holiday-highway-wont-be-lamented.htm
+title: Loss of holiday highway won't be lamented
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00087/loss-of-holiday-highway-wont-be-lamented.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/08/loss-of-holiday-highway-wont-be-lamented/index.html
+layout: layout.njk
 ---
 Loss of holiday highway won't be lamented
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-pointless-headline-hunting
-title: "Māori Party Pointless Headline Hunting"
-date: 2016-08-02
-source-url: https://www.scoop.co.nz/stories/PA1608/S00035/maori-party-pointless-headline-hunting.htm
+title: Māori Party Pointless Headline Hunting
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00035/maori-party-pointless-headline-hunting.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/02/m/index.html
+layout: layout.njk
 ---
 Māori Party Pointless Headline Hunting
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: parliament-affirms-right-to-freedom-of-association
-title: "Parliament Affirms Right to Freedom of Association"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/PO1109/S00441/parliament-affirms-right-to-freedom-of-association.htm
+title: Parliament Affirms Right to Freedom of Association
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00441/parliament-affirms-right-to-freedom-of-association.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/09/29/parliament-affirms-right-to-freedom-of-association/index.html
+layout: layout.njk
 ---
 Parliament Affirms Right to Freedom of Association
 ==================================================

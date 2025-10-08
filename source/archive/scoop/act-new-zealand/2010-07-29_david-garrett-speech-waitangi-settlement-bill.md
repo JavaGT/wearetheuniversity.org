@@ -1,9 +1,12 @@
 ---
 slug: david-garrett-speech-waitangi-settlement-bill
-title: "David Garrett Speech - Waitangi Settlement Bill"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00485/david-garrett-speech-waitangi-settlement-bill.htm
+title: David Garrett Speech - Waitangi Settlement Bill
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00485/david-garrett-speech-waitangi-settlement-bill.htm
 author: act-new-zealand
+permalink: /archive/2010/07/29/david-garrett-speech-waitangi-settlement-bill/index.html
+layout: layout.njk
 ---
 David Garrett Speech - Waitangi Settlement Bill
 ===============================================

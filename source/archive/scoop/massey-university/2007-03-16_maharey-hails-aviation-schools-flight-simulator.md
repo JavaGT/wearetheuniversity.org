@@ -1,9 +1,12 @@
 ---
 slug: maharey-hails-aviation-schools-flight-simulator
-title: "Maharey hails Aviation School’s flight simulator"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/ED0703/S00058/maharey-hails-aviation-schools-flight-simulator.htm
+title: Maharey hails Aviation School’s flight simulator
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00058/maharey-hails-aviation-schools-flight-simulator.htm
 author: massey-university
+permalink: /archive/2007/03/16/maharey-hails-aviation-schools-flight-simulator/index.html
+layout: layout.njk
 ---
 Maharey hails Aviation School’s flight simulator
 ================================================

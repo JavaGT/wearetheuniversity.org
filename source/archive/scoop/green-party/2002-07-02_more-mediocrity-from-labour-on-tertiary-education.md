@@ -1,9 +1,13 @@
 ---
 slug: more-mediocrity-from-labour-on-tertiary-education
-title: "More Mediocrity From Labour On Tertiary Education"
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/PA0207/S00069/more-mediocrity-from-labour-on-tertiary-education.htm
+title: More Mediocrity From Labour On Tertiary Education
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00069/more-mediocrity-from-labour-on-tertiary-education.htm
 author: green-party
+permalink: >-
+  /archive/2002/07/02/more-mediocrity-from-labour-on-tertiary-education/index.html
+layout: layout.njk
 ---
 More Mediocrity From Labour On Tertiary Education
 =================================================

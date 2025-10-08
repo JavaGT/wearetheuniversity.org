@@ -1,9 +1,13 @@
 ---
 slug: increasing-housing-supply-a-matter-of-life-or-death
-title: "Increasing housing supply a matter of life or death"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PA1707/S00023/increasing-housing-supply-a-matter-of-life-or-death.htm
+title: Increasing housing supply a matter of life or death
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00023/increasing-housing-supply-a-matter-of-life-or-death.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/07/03/increasing-housing-supply-a-matter-of-life-or-death/index.html
+layout: layout.njk
 ---
 Increasing housing supply a matter of life or death
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: groundbreaking-polar-weather-research-initiative-launched
-title: "Groundbreaking Polar Weather Research Initiative Launched"
-date: 2024-10-02
-source-url: https://www.scoop.co.nz/stories/SC2410/S00005/groundbreaking-polar-weather-research-initiative-launched.htm
+title: Groundbreaking Polar Weather Research Initiative Launched
+date: 2024-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2410/S00005/groundbreaking-polar-weather-research-initiative-launched.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/02/groundbreaking-polar-weather-research-initiative-launched/index.html
+layout: layout.njk
 ---
 Groundbreaking Polar Weather Research Initiative Launched
 =========================================================
@@ -24,14 +28,7 @@ PCAPS, championed by the World Meteorological Organization’s (WMO) World Weath
 Associate Professor Liggett, from UC’s School of Earth and Environment, has a strong research interest in environmental management and tourism regulation in extreme environments, and is leading the social-science component of PCAPS.
 
 She says in polar regions, accurate weather predictions such as wind, visibility and cloud cover forecasts are essential for various activities including tourism, fishing, and scientific research.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “In the polar regions, we have much poorer data coverage and forecasting availability and reliability than elsewhere in the world. This is a great gap because operations there are always of much higher risk,” Associate Professor Liggett says.
+“In the polar regions, we have much poorer data coverage and forecasting availability and reliability than elsewhere in the world. This is a great gap because operations there are always of much higher risk,” Associate Professor Liggett says.
 
 “Despite its size, New Zealand has a significant impact on research and governance in the Antarctic, particularly through its involvement with MetService New Zealand and Maritime New Zealand.
 

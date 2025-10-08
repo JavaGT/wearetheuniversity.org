@@ -1,9 +1,12 @@
 ---
 slug: activists-reunite-for-kīngitanga-day
-title: "Activists reunite for Kīngitanga Day"
-date: 2017-09-08
-source-url: https://www.scoop.co.nz/stories/ED1709/S00031/activists-reunite-for-kingitanga-day.htm
+title: Activists reunite for Kīngitanga Day
+date: 2017-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00031/activists-reunite-for-kingitanga-day.htm
 author: university-of-waikato
+permalink: /archive/2017/09/08/activists-reunite-for-k/index.html
+layout: layout.njk
 ---
 Activists reunite for Kīngitanga Day
 ====================================

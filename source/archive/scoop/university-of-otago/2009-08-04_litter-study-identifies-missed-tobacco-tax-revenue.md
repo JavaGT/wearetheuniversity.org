@@ -1,9 +1,13 @@
 ---
 slug: litter-study-identifies-missed-tobacco-tax-revenue
-title: "Litter study identifies missed tobacco tax revenue"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/PO0908/S00026/litter-study-identifies-missed-tobacco-tax-revenue.htm
+title: Litter study identifies missed tobacco tax revenue
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00026/litter-study-identifies-missed-tobacco-tax-revenue.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/08/04/litter-study-identifies-missed-tobacco-tax-revenue/index.html
+layout: layout.njk
 ---
 Litter study identifies missed tobacco tax revenue
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: all-black-brand-will-win-regardless-of-cup-outcome
-title: "All Black brand will win regardless of Cup outcome"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/BU0310/S00133/all-black-brand-will-win-regardless-of-cup-outcome.htm
+title: All Black brand will win regardless of Cup outcome
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0310/S00133/all-black-brand-will-win-regardless-of-cup-outcome.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/10/14/all-black-brand-will-win-regardless-of-cup-outcome/index.html
+layout: layout.njk
 ---
 All Black brand will win regardless of Cup outcome
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: government-delivers-half-a-tobacco-control-policy
-title: "Government delivers half a tobacco control policy"
-date: 2010-11-05
-source-url: https://www.scoop.co.nz/stories/PA1011/S00104/government-delivers-half-a-tobacco-control-policy.htm
+title: Government delivers half a tobacco control policy
+date: 2010-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00104/government-delivers-half-a-tobacco-control-policy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/05/government-delivers-half-a-tobacco-control-policy/index.html
+layout: layout.njk
 ---
 Government delivers half a tobacco control policy
 =================================================

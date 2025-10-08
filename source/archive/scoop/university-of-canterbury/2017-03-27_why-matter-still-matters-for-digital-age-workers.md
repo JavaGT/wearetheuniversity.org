@@ -1,9 +1,13 @@
 ---
 slug: why-matter-still-matters-for-digital-age-workers
-title: "Why matter still matters for digital-age workers"
-date: 2017-03-27
-source-url: https://www.scoop.co.nz/stories/CU1703/S00471/why-matter-still-matters-for-digital-age-workers.htm
+title: Why matter still matters for digital-age workers
+date: 2017-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1703/S00471/why-matter-still-matters-for-digital-age-workers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/27/why-matter-still-matters-for-digital-age-workers/index.html
+layout: layout.njk
 ---
 Why matter still matters for digital-age workers
 ================================================

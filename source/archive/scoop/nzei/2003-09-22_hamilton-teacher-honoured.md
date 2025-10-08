@@ -1,9 +1,11 @@
 ---
 slug: hamilton-teacher-honoured
-title: "Hamilton Teacher Honoured"
-date: 2003-09-22
+title: Hamilton Teacher Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00090/hamilton-teacher-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/hamilton-teacher-honoured/index.html
+layout: layout.njk
 ---
 Hamilton Teacher Honoured
 =========================

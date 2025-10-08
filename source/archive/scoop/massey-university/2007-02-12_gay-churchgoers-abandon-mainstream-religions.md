@@ -1,9 +1,12 @@
 ---
 slug: gay-churchgoers-abandon-mainstream-religions
-title: "Gay churchgoers abandon mainstream religions"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/PO0702/S00146/gay-churchgoers-abandon-mainstream-religions.htm
+title: Gay churchgoers abandon mainstream religions
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0702/S00146/gay-churchgoers-abandon-mainstream-religions.htm
 author: massey-university
+permalink: /archive/2007/02/12/gay-churchgoers-abandon-mainstream-religions/index.html
+layout: layout.njk
 ---
 Gay churchgoers abandon mainstream religions
 ============================================

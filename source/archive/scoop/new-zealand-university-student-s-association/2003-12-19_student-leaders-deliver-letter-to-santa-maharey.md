@@ -1,9 +1,12 @@
 ---
 slug: student-leaders-deliver-letter-to-santa-maharey
-title: "Student Leaders Deliver Letter to \"Santa\" Maharey"
-date: 2003-12-19
-source-url: https://www.scoop.co.nz/stories/ED0312/S00075/student-leaders-deliver-letter-to-santa-maharey.htm
+title: Student Leaders Deliver Letter to "Santa" Maharey
+date: 2003-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00075/student-leaders-deliver-letter-to-santa-maharey.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/12/19/student-leaders-deliver-letter-to-santa-maharey/index.html
+layout: layout.njk
 ---
 Student Leaders Deliver Letter to "Santa" Maharey
 =================================================

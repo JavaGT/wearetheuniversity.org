@@ -1,9 +1,11 @@
 ---
 slug: changing-views
-title: "Changing views"
-date: 2014-08-19
+title: Changing views
+date: 2014-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1408/S00294/changing-views.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/19/changing-views/index.html
+layout: layout.njk
 ---
 Changing views
 ==============

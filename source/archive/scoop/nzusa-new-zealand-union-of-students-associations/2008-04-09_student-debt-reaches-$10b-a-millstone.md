@@ -1,9 +1,12 @@
 ---
 slug: student-debt-reaches-$10b-a-millstone
-title: "Student debt reaches $10b – a millstone"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PO0804/S00147/student-debt-reaches-10b-a-millstone.htm
+title: Student debt reaches $10b – a millstone
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00147/student-debt-reaches-10b-a-millstone.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/04/09/student-debt-reaches-/index.html
+layout: layout.njk
 ---
 Student debt reaches $10b – a millstone
 =======================================

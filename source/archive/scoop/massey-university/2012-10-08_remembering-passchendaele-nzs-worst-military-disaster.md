@@ -1,9 +1,13 @@
 ---
 slug: remembering-passchendaele-nzs-worst-military-disaster
-title: "Remembering Passchendaele: NZ’s worst military disaster"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00054/remembering-passchendaele-nzs-worst-military-disaster.htm
+title: 'Remembering Passchendaele: NZ’s worst military disaster'
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00054/remembering-passchendaele-nzs-worst-military-disaster.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/08/remembering-passchendaele-nzs-worst-military-disaster/index.html
+layout: layout.njk
 ---
 Remembering Passchendaele: NZ’s worst military disaster
 =======================================================

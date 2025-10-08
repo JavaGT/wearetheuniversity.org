@@ -1,9 +1,13 @@
 ---
 slug: christchurch-parents-in-uni-survey-prefer-fluoridation
-title: "Christchurch parents in uni' survey prefer fluoridation"
-date: 2014-06-29
-source-url: https://www.scoop.co.nz/stories/PO1406/S00467/christchurch-parents-in-uni-survey-prefer-fluoridation.htm
+title: Christchurch parents in uni' survey prefer fluoridation
+date: 2014-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00467/christchurch-parents-in-uni-survey-prefer-fluoridation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/29/christchurch-parents-in-uni-survey-prefer-fluoridation/index.html
+layout: layout.njk
 ---
 Christchurch parents in uni' survey prefer fluoridation
 =======================================================

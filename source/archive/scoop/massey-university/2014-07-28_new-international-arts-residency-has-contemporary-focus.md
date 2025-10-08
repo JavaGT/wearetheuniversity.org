@@ -1,9 +1,13 @@
 ---
 slug: new-international-arts-residency-has-contemporary-focus
-title: "New international arts residency has contemporary focus"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/ED1407/S00132/new-international-arts-residency-has-contemporary-focus.htm
+title: New international arts residency has contemporary focus
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00132/new-international-arts-residency-has-contemporary-focus.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/28/new-international-arts-residency-has-contemporary-focus/index.html
+layout: layout.njk
 ---
 New international arts residency has contemporary focus
 =======================================================

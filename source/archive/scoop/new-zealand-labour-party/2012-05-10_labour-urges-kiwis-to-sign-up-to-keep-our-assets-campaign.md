@@ -1,9 +1,13 @@
 ---
 slug: labour-urges-kiwis-to-sign-up-to-keep-our-assets-campaign
-title: "Labour urges Kiwis to sign up to Keep our Assets campaign"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00168/labour-urges-kiwis-to-sign-up-to-keep-our-assets-campaign.htm
+title: Labour urges Kiwis to sign up to Keep our Assets campaign
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00168/labour-urges-kiwis-to-sign-up-to-keep-our-assets-campaign.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/10/labour-urges-kiwis-to-sign-up-to-keep-our-assets-campaign/index.html
+layout: layout.njk
 ---
 Labour urges Kiwis to sign up to Keep our Assets campaign
 =========================================================

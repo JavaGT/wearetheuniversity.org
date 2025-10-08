@@ -1,9 +1,11 @@
 ---
 slug: sex-and-ethics
-title: "Sex and Ethics"
-date: 2009-07-13
+title: Sex and Ethics
+date: 2009-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00053/sex-and-ethics.htm
 author: salient
+permalink: /archive/2009/07/13/sex-and-ethics/index.html
+layout: layout.njk
 ---
 Sex and Ethics
 ==============

@@ -1,9 +1,12 @@
 ---
 slug: need-for-end-to-government-complacency
-title: "Need for end to Government complacency"
-date: 2010-10-05
-source-url: https://www.scoop.co.nz/stories/BU1010/S00099/need-for-end-to-government-complacency.htm
+title: Need for end to Government complacency
+date: 2010-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1010/S00099/need-for-end-to-government-complacency.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/05/need-for-end-to-government-complacency/index.html
+layout: layout.njk
 ---
 Need for end to Government complacency
 ======================================

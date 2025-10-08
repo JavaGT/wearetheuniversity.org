@@ -1,9 +1,12 @@
 ---
 slug: inflammation-and-depression-in-pacific-youth
-title: "Inflammation and depression in Pacific youth"
-date: 2018-11-26
-source-url: https://www.scoop.co.nz/stories/GE1811/S00093/inflammation-and-depression-in-pacific-youth.htm
+title: Inflammation and depression in Pacific youth
+date: 2018-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00093/inflammation-and-depression-in-pacific-youth.htm
 author: aut-university
+permalink: /archive/2018/11/26/inflammation-and-depression-in-pacific-youth/index.html
+layout: layout.njk
 ---
 Inflammation and depression in Pacific youth
 ============================================

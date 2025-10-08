@@ -1,9 +1,13 @@
 ---
 slug: fellowships-support-musicians-to-up-the-tempo-overseas
-title: "Fellowships Support Musicians To Up The Tempo Overseas"
-date: 2022-11-01
-source-url: https://www.scoop.co.nz/stories/ED2211/S00002/fellowships-support-musicians-to-up-the-tempo-overseas.htm
+title: Fellowships Support Musicians To Up The Tempo Overseas
+date: 2022-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00002/fellowships-support-musicians-to-up-the-tempo-overseas.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/11/01/fellowships-support-musicians-to-up-the-tempo-overseas/index.html
+layout: layout.njk
 ---
 Fellowships Support Musicians To Up The Tempo Overseas
 ======================================================

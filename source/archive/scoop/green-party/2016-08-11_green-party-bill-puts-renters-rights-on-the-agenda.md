@@ -1,9 +1,13 @@
 ---
 slug: green-party-bill-puts-renters-rights-on-the-agenda
-title: "Green Party Bill puts renters’ rights on the agenda"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00190/green-party-bill-puts-renters-rights-on-the-agenda.htm
+title: Green Party Bill puts renters’ rights on the agenda
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00190/green-party-bill-puts-renters-rights-on-the-agenda.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/11/green-party-bill-puts-renters-rights-on-the-agenda/index.html
+layout: layout.njk
 ---
 Green Party Bill puts renters’ rights on the agenda
 ===================================================

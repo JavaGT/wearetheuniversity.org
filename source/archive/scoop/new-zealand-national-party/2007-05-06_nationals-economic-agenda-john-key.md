@@ -1,9 +1,12 @@
 ---
 slug: nationals-economic-agenda-john-key
-title: "National’s Economic Agenda - John Key"
-date: 2007-05-06
-source-url: https://www.scoop.co.nz/stories/PA0705/S00155/nationals-economic-agenda-john-key.htm
+title: National’s Economic Agenda - John Key
+date: 2007-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00155/nationals-economic-agenda-john-key.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/06/nationals-economic-agenda-john-key/index.html
+layout: layout.njk
 ---
 National’s Economic Agenda - John Key
 =====================================

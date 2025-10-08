@@ -1,9 +1,12 @@
 ---
 slug: labour-is-desperate-to-distract-on-health
-title: "Labour Is Desperate To Distract On Health"
-date: 2023-07-04
-source-url: https://www.scoop.co.nz/stories/PA2307/S00011/labour-is-desperate-to-distract-on-health.htm
+title: Labour Is Desperate To Distract On Health
+date: 2023-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00011/labour-is-desperate-to-distract-on-health.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/04/labour-is-desperate-to-distract-on-health/index.html
+layout: layout.njk
 ---
 Labour Is Desperate To Distract On Health
 =========================================

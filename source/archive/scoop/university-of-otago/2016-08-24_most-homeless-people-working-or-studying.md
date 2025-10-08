@@ -1,9 +1,12 @@
 ---
 slug: most-homeless-people-working-or-studying
-title: "Most homeless people working or studying"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PO1608/S00274/most-homeless-people-working-or-studying.htm
+title: Most homeless people working or studying
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00274/most-homeless-people-working-or-studying.htm
 author: university-of-otago
+permalink: /archive/2016/08/24/most-homeless-people-working-or-studying/index.html
+layout: layout.njk
 ---
 Most homeless people working or studying
 ========================================

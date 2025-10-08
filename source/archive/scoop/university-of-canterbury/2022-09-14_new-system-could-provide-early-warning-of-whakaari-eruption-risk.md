@@ -1,9 +1,13 @@
 ---
 slug: new-system-could-provide-early-warning-of-whakaari-eruption-risk
-title: "New System Could Provide Early Warning Of Whakaari Eruption Risk"
-date: 2022-09-14
-source-url: https://www.scoop.co.nz/stories/SC2209/S00022/new-system-could-provide-early-warning-of-whakaari-eruption-risk.htm
+title: New System Could Provide Early Warning Of Whakaari Eruption Risk
+date: 2022-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2209/S00022/new-system-could-provide-early-warning-of-whakaari-eruption-risk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/14/new-system-could-provide-early-warning-of-whakaari-eruption-risk/index.html
+layout: layout.njk
 ---
 New System Could Provide Early Warning Of Whakaari Eruption Risk
 ================================================================

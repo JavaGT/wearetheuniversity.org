@@ -1,9 +1,12 @@
 ---
 slug: government-can-and-must-target-child-poverty
-title: "Government can and must target child poverty"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/PA1610/S00014/government-can-and-must-target-child-poverty.htm
+title: Government can and must target child poverty
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00014/government-can-and-must-target-child-poverty.htm
 author: green-party
+permalink: /archive/2016/10/03/government-can-and-must-target-child-poverty/index.html
+layout: layout.njk
 ---
 Government can and must target child poverty
 ============================================

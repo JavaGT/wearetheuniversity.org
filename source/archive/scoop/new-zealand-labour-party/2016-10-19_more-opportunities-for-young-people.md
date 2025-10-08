@@ -1,9 +1,12 @@
 ---
 slug: more-opportunities-for-young-people
-title: "More opportunities for young people"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/PA1610/S00287/more-opportunities-for-young-people.htm
+title: More opportunities for young people
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00287/more-opportunities-for-young-people.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/19/more-opportunities-for-young-people/index.html
+layout: layout.njk
 ---
 More opportunities for young people
 ===================================

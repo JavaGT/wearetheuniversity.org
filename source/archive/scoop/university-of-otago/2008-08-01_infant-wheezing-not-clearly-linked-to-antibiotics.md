@@ -1,9 +1,13 @@
 ---
 slug: infant-wheezing-not-clearly-linked-to-antibiotics
-title: "Infant wheezing not clearly linked to antibiotics"
-date: 2008-08-01
-source-url: https://www.scoop.co.nz/stories/GE0808/S00001/infant-wheezing-not-clearly-linked-to-antibiotics.htm
+title: Infant wheezing not clearly linked to antibiotics
+date: 2008-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00001/infant-wheezing-not-clearly-linked-to-antibiotics.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/08/01/infant-wheezing-not-clearly-linked-to-antibiotics/index.html
+layout: layout.njk
 ---
 Infant wheezing not clearly linked to antibiotics
 =================================================

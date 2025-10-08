@@ -1,9 +1,11 @@
 ---
 slug: teachers-turned-food-police
-title: "Teachers turned food police"
-date: 2006-09-22
+title: Teachers turned food police
+date: 2006-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00501/teachers-turned-food-police.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/22/teachers-turned-food-police/index.html
+layout: layout.njk
 ---
 Teachers turned food police
 ===========================

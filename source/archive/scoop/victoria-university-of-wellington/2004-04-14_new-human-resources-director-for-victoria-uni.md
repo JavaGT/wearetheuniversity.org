@@ -1,9 +1,12 @@
 ---
 slug: new-human-resources-director-for-victoria-uni
-title: "New Human Resources Director for Victoria Uni"
-date: 2004-04-14
-source-url: https://www.scoop.co.nz/stories/ED0404/S00042/new-human-resources-director-for-victoria-uni.htm
+title: New Human Resources Director for Victoria Uni
+date: 2004-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00042/new-human-resources-director-for-victoria-uni.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/14/new-human-resources-director-for-victoria-uni/index.html
+layout: layout.njk
 ---
 New Human Resources Director for Victoria Uni
 =============================================

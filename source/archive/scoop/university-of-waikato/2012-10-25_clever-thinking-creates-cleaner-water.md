@@ -1,9 +1,12 @@
 ---
 slug: clever-thinking-creates-cleaner-water
-title: "Clever thinking creates cleaner water"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00152/clever-thinking-creates-cleaner-water.htm
+title: Clever thinking creates cleaner water
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00152/clever-thinking-creates-cleaner-water.htm
 author: university-of-waikato
+permalink: /archive/2012/10/25/clever-thinking-creates-cleaner-water/index.html
+layout: layout.njk
 ---
 Clever thinking creates cleaner water
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: dinosaur-bypass-will-cheat-commuters
-title: "\"Dinosaur\" bypass will cheat commuters"
-date: 2004-04-27
-source-url: https://www.scoop.co.nz/stories/PA0404/S00420/dinosaur-bypass-will-cheat-commuters.htm
+title: '"Dinosaur" bypass will cheat commuters'
+date: 2004-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00420/dinosaur-bypass-will-cheat-commuters.htm
 author: green-party
+permalink: /archive/2004/04/27/dinosaur-bypass-will-cheat-commuters/index.html
+layout: layout.njk
 ---
 "Dinosaur" bypass will cheat commuters
 ======================================

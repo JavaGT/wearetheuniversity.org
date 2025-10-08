@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-study-finds-inequities-in-bowel-cancer-treatment
-title: "University Of Waikato Study Finds Inequities In Bowel Cancer Treatment"
-date: 2020-08-21
-source-url: https://www.scoop.co.nz/stories/GE2008/S00119/university-of-waikato-study-finds-inequities-in-bowel-cancer-treatment.htm
+title: University Of Waikato Study Finds Inequities In Bowel Cancer Treatment
+date: 2020-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2008/S00119/university-of-waikato-study-finds-inequities-in-bowel-cancer-treatment.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/08/21/university-of-waikato-study-finds-inequities-in-bowel-cancer-treatment/index.html
+layout: layout.njk
 ---
 University Of Waikato Study Finds Inequities In Bowel Cancer Treatment
 ======================================================================

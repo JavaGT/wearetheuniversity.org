@@ -1,9 +1,11 @@
 ---
 slug: acts-plan-to-boost-wages
-title: "ACT’s plan to boost wages"
-date: 2015-04-24
+title: ACT’s plan to boost wages
+date: 2015-04-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1504/S00319/acts-plan-to-boost-wages.htm
 author: act-new-zealand
+permalink: /archive/2015/04/24/acts-plan-to-boost-wages/index.html
+layout: layout.njk
 ---
 ACT’s plan to boost wages
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: innovation-and-competition-cut-out-of-tertiary-ed
-title: "Innovation and competition cut out of tertiary ed."
-date: 2001-07-24
-source-url: https://www.scoop.co.nz/stories/PA0107/S00406/innovation-and-competition-cut-out-of-tertiary-ed.htm
+title: Innovation and competition cut out of tertiary ed.
+date: 2001-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00406/innovation-and-competition-cut-out-of-tertiary-ed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/07/24/innovation-and-competition-cut-out-of-tertiary-ed/index.html
+layout: layout.njk
 ---
 Innovation and competition cut out of tertiary ed.
 ==================================================

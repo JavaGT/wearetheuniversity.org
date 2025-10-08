@@ -1,9 +1,12 @@
 ---
 slug: possible-political-interference-in-maori-tv
-title: "Possible Political Interference In Maori TV"
-date: 2002-04-30
-source-url: https://www.scoop.co.nz/stories/PA0204/S00473/possible-political-interference-in-maori-tv.htm
+title: Possible Political Interference In Maori TV
+date: 2002-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00473/possible-political-interference-in-maori-tv.htm
 author: green-party
+permalink: /archive/2002/04/30/possible-political-interference-in-maori-tv/index.html
+layout: layout.njk
 ---
 Possible Political Interference In Maori TV
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: target-the-tinny-houses-urge-greens
-title: "Target the tinny houses, urge Greens"
-date: 2002-09-27
-source-url: https://www.scoop.co.nz/stories/PA0209/S00459/target-the-tinny-houses-urge-greens.htm
+title: Target the tinny houses, urge Greens
+date: 2002-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00459/target-the-tinny-houses-urge-greens.htm
 author: green-party
+permalink: /archive/2002/09/27/target-the-tinny-houses-urge-greens/index.html
+layout: layout.njk
 ---
 Target the tinny houses, urge Greens
 ====================================

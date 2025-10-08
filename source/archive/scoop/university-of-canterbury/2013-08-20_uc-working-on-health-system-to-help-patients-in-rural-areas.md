@@ -1,9 +1,13 @@
 ---
 slug: uc-working-on-health-system-to-help-patients-in-rural-areas
-title: "UC working on health system to help patients in rural areas"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/GE1308/S00096/uc-working-on-health-system-to-help-patients-in-rural-areas.htm
+title: UC working on health system to help patients in rural areas
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00096/uc-working-on-health-system-to-help-patients-in-rural-areas.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/20/uc-working-on-health-system-to-help-patients-in-rural-areas/index.html
+layout: layout.njk
 ---
 UC working on health system to help patients in rural areas
 ===========================================================

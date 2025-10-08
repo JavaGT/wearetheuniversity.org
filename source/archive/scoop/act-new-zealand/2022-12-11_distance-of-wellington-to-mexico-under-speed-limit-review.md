@@ -1,9 +1,13 @@
 ---
 slug: distance-of-wellington-to-mexico-under-speed-limit-review
-title: "Distance Of Wellington To Mexico Under Speed Limit Review"
-date: 2022-12-11
-source-url: https://www.scoop.co.nz/stories/PA2212/S00099/distance-of-wellington-to-mexico-under-speed-limit-review.htm
+title: Distance Of Wellington To Mexico Under Speed Limit Review
+date: 2022-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00099/distance-of-wellington-to-mexico-under-speed-limit-review.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/12/11/distance-of-wellington-to-mexico-under-speed-limit-review/index.html
+layout: layout.njk
 ---
 Distance Of Wellington To Mexico Under Speed Limit Review
 =========================================================

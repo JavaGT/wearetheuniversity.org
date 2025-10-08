@@ -1,9 +1,13 @@
 ---
 slug: inbreeding-threatens-long-islands-little-spotted-kiwi
-title: "Inbreeding threatens Long Island’s little spotted kiwi"
-date: 2017-01-18
-source-url: https://www.scoop.co.nz/stories/SC1701/S00028/inbreeding-threatens-long-islands-little-spotted-kiwi.htm
+title: Inbreeding threatens Long Island’s little spotted kiwi
+date: 2017-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1701/S00028/inbreeding-threatens-long-islands-little-spotted-kiwi.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/01/18/inbreeding-threatens-long-islands-little-spotted-kiwi/index.html
+layout: layout.njk
 ---
 Inbreeding threatens Long Island’s little spotted kiwi
 ======================================================

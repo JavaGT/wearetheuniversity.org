@@ -1,9 +1,12 @@
 ---
 slug: lincolns-wildlife-warriors-take-fight-to-pests
-title: "Lincoln’s wildlife warriors take fight to pests"
-date: 2014-11-18
-source-url: https://www.scoop.co.nz/stories/SC1411/S00052/lincolns-wildlife-warriors-take-fight-to-pests.htm
+title: Lincoln’s wildlife warriors take fight to pests
+date: 2014-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00052/lincolns-wildlife-warriors-take-fight-to-pests.htm
 author: lincoln-university
+permalink: /archive/2014/11/18/lincolns-wildlife-warriors-take-fight-to-pests/index.html
+layout: layout.njk
 ---
 Lincoln’s wildlife warriors take fight to pests
 ===============================================

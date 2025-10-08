@@ -1,9 +1,13 @@
 ---
 slug: hours-owed-in-annual-leave-compromising-patient-care
-title: "Hours owed in annual leave compromising patient care"
-date: 2015-11-08
-source-url: https://www.scoop.co.nz/stories/PA1511/S00125/hours-owed-in-annual-leave-compromising-patient-care.htm
+title: Hours owed in annual leave compromising patient care
+date: 2015-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00125/hours-owed-in-annual-leave-compromising-patient-care.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/11/08/hours-owed-in-annual-leave-compromising-patient-care/index.html
+layout: layout.njk
 ---
 Hours owed in annual leave compromising patient care
 ====================================================

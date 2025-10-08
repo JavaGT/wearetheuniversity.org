@@ -1,9 +1,11 @@
 ---
 slug: turia-address-and-reply
-title: "Turia: Address and Reply"
-date: 2012-02-15
+title: 'Turia: Address and Reply'
+date: 2012-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00167/turia-address-and-reply.htm
 author: te-pati-maori
+permalink: /archive/2012/02/15/turia-address-and-reply/index.html
+layout: layout.njk
 ---
 Turia: Address and Reply
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: dads-air-force-use-by-navy-a-bizarre-insult
-title: "Dad's Air Force use by Navy a bizarre insult"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/PA0202/S00252/dads-air-force-use-by-navy-a-bizarre-insult.htm
+title: Dad's Air Force use by Navy a bizarre insult
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00252/dads-air-force-use-by-navy-a-bizarre-insult.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/18/dads-air-force-use-by-navy-a-bizarre-insult/index.html
+layout: layout.njk
 ---
 Dad's Air Force use by Navy a bizarre insult
 ============================================

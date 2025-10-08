@@ -1,9 +1,12 @@
 ---
 slug: wage-subsidy-changes-deeply-unfair
-title: "Wage Subsidy Changes Deeply Unfair"
-date: 2020-03-28
-source-url: https://www.scoop.co.nz/stories/PA2003/S00190/wage-subsidy-changes-deeply-unfair.htm
+title: Wage Subsidy Changes Deeply Unfair
+date: 2020-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00190/wage-subsidy-changes-deeply-unfair.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/28/wage-subsidy-changes-deeply-unfair/index.html
+layout: layout.njk
 ---
 Wage Subsidy Changes Deeply Unfair
 ==================================

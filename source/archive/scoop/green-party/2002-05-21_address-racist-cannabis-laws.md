@@ -1,9 +1,11 @@
 ---
 slug: address-racist-cannabis-laws
-title: "Address Racist Cannabis Laws"
-date: 2002-05-21
+title: Address Racist Cannabis Laws
+date: 2002-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0205/S00427/address-racist-cannabis-laws.htm
 author: green-party
+permalink: /archive/2002/05/21/address-racist-cannabis-laws/index.html
+layout: layout.njk
 ---
 Address Racist Cannabis Laws
 ============================

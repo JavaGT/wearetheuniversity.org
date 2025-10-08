@@ -1,9 +1,12 @@
 ---
 slug: national-to-hold-education-meetings-across-nz
-title: "National to hold Education meetings across NZ"
-date: 2018-12-29
-source-url: https://www.scoop.co.nz/stories/PA1812/S00294/national-to-hold-education-meetings-across-nz.htm
+title: National to hold Education meetings across NZ
+date: 2018-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00294/national-to-hold-education-meetings-across-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/29/national-to-hold-education-meetings-across-nz/index.html
+layout: layout.njk
 ---
 National to hold Education meetings across NZ
 =============================================

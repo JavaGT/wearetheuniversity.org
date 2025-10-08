@@ -1,9 +1,12 @@
 ---
 slug: new-era-in-coastal-science-kicks-off
-title: "New era in coastal science kicks off"
-date: 2011-01-20
-source-url: https://www.scoop.co.nz/stories/SC1101/S00040/new-era-in-coastal-science-kicks-off.htm
+title: New era in coastal science kicks off
+date: 2011-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00040/new-era-in-coastal-science-kicks-off.htm
 author: waikato-university
+permalink: /archive/2011/01/20/new-era-in-coastal-science-kicks-off/index.html
+layout: layout.njk
 ---
 New era in coastal science kicks off
 ====================================

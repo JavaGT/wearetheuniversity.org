@@ -1,9 +1,11 @@
 ---
 slug: celebrating-23-years
-title: "Celebrating 23 Years"
-date: 2016-07-18
+title: Celebrating 23 Years
+date: 2016-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1607/S00261/celebrating-23-years.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/18/celebrating-23-years/index.html
+layout: layout.njk
 ---
 Celebrating 23 Years
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: animal-rights-advocate-speaking-in-auckland
-title: "Animal Rights Advocate Speaking In Auckland"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/ED0704/S00033/animal-rights-advocate-speaking-in-auckland.htm
+title: Animal Rights Advocate Speaking In Auckland
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00033/animal-rights-advocate-speaking-in-auckland.htm
 author: auckland-university
+permalink: /archive/2007/04/12/animal-rights-advocate-speaking-in-auckland/index.html
+layout: layout.njk
 ---
 Animal Rights Advocate Speaking In Auckland
 ===========================================

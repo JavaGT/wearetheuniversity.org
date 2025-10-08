@@ -1,9 +1,12 @@
 ---
 slug: new-national-student-president-elected
-title: "New national student president elected"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/ED1611/S00110/new-national-student-president-elected.htm
+title: New national student president elected
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00110/new-national-student-president-elected.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/11/23/new-national-student-president-elected/index.html
+layout: layout.njk
 ---
 New national student president elected
 ======================================

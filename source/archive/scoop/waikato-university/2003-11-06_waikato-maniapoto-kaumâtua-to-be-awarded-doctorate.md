@@ -1,9 +1,12 @@
 ---
 slug: waikato-maniapoto-kaumâtua-to-be-awarded-doctorate
-title: "Waikato-Maniapoto kaumâtua to be awarded doctorate"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/ED0311/S00023/waikato-maniapoto-kaumatua-to-be-awarded-doctorate.htm
+title: Waikato-Maniapoto kaumâtua to be awarded doctorate
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00023/waikato-maniapoto-kaumatua-to-be-awarded-doctorate.htm
 author: waikato-university
+permalink: /archive/2003/11/06/waikato-maniapoto-kaum/index.html
+layout: layout.njk
 ---
 Waikato-Maniapoto kaumâtua to be awarded doctorate
 ==================================================

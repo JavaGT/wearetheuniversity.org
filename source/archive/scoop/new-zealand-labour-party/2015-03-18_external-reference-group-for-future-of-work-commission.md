@@ -1,9 +1,13 @@
 ---
 slug: external-reference-group-for-future-of-work-commission
-title: "External reference group for Future of Work Commission"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00261/external-reference-group-for-future-of-work-commission.htm
+title: External reference group for Future of Work Commission
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00261/external-reference-group-for-future-of-work-commission.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/18/external-reference-group-for-future-of-work-commission/index.html
+layout: layout.njk
 ---
 External reference group for Future of Work Commission
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-10-november-2006
-title: "The Mapp Report - 10 November 2006"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/PA0611/S00199/the-mapp-report-10-november-2006.htm
+title: The Mapp Report - 10 November 2006
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00199/the-mapp-report-10-november-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/10/the-mapp-report-10-november-2006/index.html
+layout: layout.njk
 ---
 The Mapp Report - 10 November 2006
 ==================================

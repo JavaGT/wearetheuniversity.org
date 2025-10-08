@@ -1,9 +1,12 @@
 ---
 slug: regional-issues-top-agenda-for-election-debate
-title: "Regional issues top agenda for election debate"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/PO1408/S00299/regional-issues-top-agenda-for-election-debate.htm
+title: Regional issues top agenda for election debate
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00299/regional-issues-top-agenda-for-election-debate.htm
 author: massey-university
+permalink: /archive/2014/08/19/regional-issues-top-agenda-for-election-debate/index.html
+layout: layout.njk
 ---
 Regional issues top agenda for election debate
 ==============================================

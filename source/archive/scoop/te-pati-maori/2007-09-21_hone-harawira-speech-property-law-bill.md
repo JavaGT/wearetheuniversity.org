@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-speech-property-law-bill
-title: "Hone Harawira Speech: Property Law Bill"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PA0709/S00371/hone-harawira-speech-property-law-bill.htm
+title: 'Hone Harawira Speech: Property Law Bill'
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00371/hone-harawira-speech-property-law-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/21/hone-harawira-speech-property-law-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira Speech: Property Law Bill
 =======================================

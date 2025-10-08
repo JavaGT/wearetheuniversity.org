@@ -1,9 +1,12 @@
 ---
 slug: professor-in-precision-agriculture-appointed
-title: "Professor in Precision Agriculture appointed"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/AK1011/S00288/professor-in-precision-agriculture-appointed.htm
+title: Professor in Precision Agriculture appointed
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00288/professor-in-precision-agriculture-appointed.htm
 author: massey-university
+permalink: /archive/2010/11/16/professor-in-precision-agriculture-appointed/index.html
+layout: layout.njk
 ---
 Professor in Precision Agriculture appointed
 ============================================

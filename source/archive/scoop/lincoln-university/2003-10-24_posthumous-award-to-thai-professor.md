@@ -1,9 +1,12 @@
 ---
 slug: posthumous-award-to-thai-professor
-title: "Posthumous award to Thai professor"
-date: 2003-10-24
-source-url: https://www.scoop.co.nz/stories/ED0310/S00102/posthumous-award-to-thai-professor.htm
+title: Posthumous award to Thai professor
+date: 2003-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00102/posthumous-award-to-thai-professor.htm
 author: lincoln-university
+permalink: /archive/2003/10/24/posthumous-award-to-thai-professor/index.html
+layout: layout.njk
 ---
 Posthumous award to Thai professor
 ==================================

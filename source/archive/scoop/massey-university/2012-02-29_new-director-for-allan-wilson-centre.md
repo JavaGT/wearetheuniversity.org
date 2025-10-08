@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-allan-wilson-centre
-title: "New director for Allan Wilson Centre"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/ED1202/S00133/new-director-for-allan-wilson-centre.htm
+title: New director for Allan Wilson Centre
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00133/new-director-for-allan-wilson-centre.htm
 author: massey-university
+permalink: /archive/2012/02/29/new-director-for-allan-wilson-centre/index.html
+layout: layout.njk
 ---
 New director for Allan Wilson Centre
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: wrong-approach-to-investment-in-early-childhood-education
-title: "Wrong approach to investment in early childhood education"
-date: 2011-11-16
-source-url: https://www.scoop.co.nz/stories/PO1111/S00404/wrong-approach-to-investment-in-early-childhood-education.htm
+title: Wrong approach to investment in early childhood education
+date: 2011-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00404/wrong-approach-to-investment-in-early-childhood-education.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/16/wrong-approach-to-investment-in-early-childhood-education/index.html
+layout: layout.njk
 ---
 Wrong approach to investment in early childhood education
 =========================================================

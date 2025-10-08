@@ -1,9 +1,13 @@
 ---
 slug: students-to-present-35000-signatures-to-parliament
-title: "Students To Present 35000 Signatures To Parliament"
-date: 2004-07-28
-source-url: https://www.scoop.co.nz/stories/ED0407/S00078/students-to-present-35000-signatures-to-parliament.htm
+title: Students To Present 35000 Signatures To Parliament
+date: 2004-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00078/students-to-present-35000-signatures-to-parliament.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/07/28/students-to-present-35000-signatures-to-parliament/index.html
+layout: layout.njk
 ---
 Students To Present 35000 Signatures To Parliament
 ==================================================

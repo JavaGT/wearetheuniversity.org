@@ -1,9 +1,13 @@
 ---
 slug: latest-lottery-grants-fund-wide-range-of-health-research
-title: "Latest Lottery grants fund wide range of health research"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00045/latest-lottery-grants-fund-wide-range-of-health-research.htm
+title: Latest Lottery grants fund wide range of health research
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00045/latest-lottery-grants-fund-wide-range-of-health-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/14/latest-lottery-grants-fund-wide-range-of-health-research/index.html
+layout: layout.njk
 ---
 Latest Lottery grants fund wide range of health research
 ========================================================

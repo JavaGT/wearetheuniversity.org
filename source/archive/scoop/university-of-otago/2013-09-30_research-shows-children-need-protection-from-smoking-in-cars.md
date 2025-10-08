@@ -1,9 +1,13 @@
 ---
 slug: research-shows-children-need-protection-from-smoking-in-cars
-title: "Research shows children need protection from smoking in cars"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/GE1309/S00161/research-shows-children-need-protection-from-smoking-in-cars.htm
+title: Research shows children need protection from smoking in cars
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00161/research-shows-children-need-protection-from-smoking-in-cars.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/30/research-shows-children-need-protection-from-smoking-in-cars/index.html
+layout: layout.njk
 ---
 Research shows children need protection from smoking in cars
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-shows-he-is-behind-the-times
-title: "Brash shows he is behind the times"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00337/brash-shows-he-is-behind-the-times.htm
+title: Brash shows he is behind the times
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00337/brash-shows-he-is-behind-the-times.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/13/brash-shows-he-is-behind-the-times/index.html
+layout: layout.njk
 ---
 Brash shows he is behind the times
 ==================================

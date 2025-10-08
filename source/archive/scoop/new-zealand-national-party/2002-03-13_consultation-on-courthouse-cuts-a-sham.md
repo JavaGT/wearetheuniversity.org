@@ -1,9 +1,12 @@
 ---
 slug: consultation-on-courthouse-cuts-a-sham
-title: "Consultation On Courthouse Cuts A Sham"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/PA0203/S00199/consultation-on-courthouse-cuts-a-sham.htm
+title: Consultation On Courthouse Cuts A Sham
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00199/consultation-on-courthouse-cuts-a-sham.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/13/consultation-on-courthouse-cuts-a-sham/index.html
+layout: layout.njk
 ---
 Consultation On Courthouse Cuts A Sham
 ======================================

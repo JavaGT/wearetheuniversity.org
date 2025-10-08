@@ -1,9 +1,13 @@
 ---
 slug: arts-and-science-collaboration-breaks-new-ground
-title: "Arts and science collaboration breaks new ground"
-date: 2010-01-21
-source-url: https://www.scoop.co.nz/stories/ED1001/S00024/arts-and-science-collaboration-breaks-new-ground.htm
+title: Arts and science collaboration breaks new ground
+date: 2010-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00024/arts-and-science-collaboration-breaks-new-ground.htm
 author: massey-university
+permalink: >-
+  /archive/2010/01/21/arts-and-science-collaboration-breaks-new-ground/index.html
+layout: layout.njk
 ---
 Arts and science collaboration breaks new ground
 ================================================

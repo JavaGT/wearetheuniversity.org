@@ -1,9 +1,12 @@
 ---
 slug: minister-moves-to-silence-nzaid
-title: "Minister moves to silence NZAID"
-date: 2009-03-22
-source-url: https://www.scoop.co.nz/stories/PA0903/S00318/minister-moves-to-silence-nzaid.htm
+title: Minister moves to silence NZAID
+date: 2009-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00318/minister-moves-to-silence-nzaid.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/22/minister-moves-to-silence-nzaid/index.html
+layout: layout.njk
 ---
 Minister moves to silence NZAID
 ===============================

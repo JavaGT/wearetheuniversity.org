@@ -1,9 +1,12 @@
 ---
 slug: students-launch-maori-thursdays-in-black
-title: "Students launch Maori ‘Thursdays In Black’"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00056/students-launch-maori-thursdays-in-black.htm
+title: Students launch Maori ‘Thursdays In Black’
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00056/students-launch-maori-thursdays-in-black.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/10/14/students-launch-maori-thursdays-in-black/index.html
+layout: layout.njk
 ---
 Students launch Maori ‘Thursdays In Black’
 ==========================================

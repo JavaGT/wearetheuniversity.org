@@ -1,9 +1,12 @@
 ---
 slug: pacific-flavour-for-nzs-biggest-ir-conference
-title: "Pacific flavour for NZ’s biggest IR conference"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/ED1006/S00041/pacific-flavour-for-nzs-biggest-ir-conference.htm
+title: Pacific flavour for NZ’s biggest IR conference
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00041/pacific-flavour-for-nzs-biggest-ir-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/06/11/pacific-flavour-for-nzs-biggest-ir-conference/index.html
+layout: layout.njk
 ---
 Pacific flavour for NZ’s biggest IR conference
 ==============================================

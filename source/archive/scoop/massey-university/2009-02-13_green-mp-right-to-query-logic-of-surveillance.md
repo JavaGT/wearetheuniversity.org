@@ -1,9 +1,12 @@
 ---
 slug: green-mp-right-to-query-logic-of-surveillance
-title: "Green MP right to query logic of surveillance"
-date: 2009-02-13
-source-url: https://www.scoop.co.nz/stories/PO0902/S00130/green-mp-right-to-query-logic-of-surveillance.htm
+title: Green MP right to query logic of surveillance
+date: 2009-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00130/green-mp-right-to-query-logic-of-surveillance.htm
 author: massey-university
+permalink: /archive/2009/02/13/green-mp-right-to-query-logic-of-surveillance/index.html
+layout: layout.njk
 ---
 Green MP right to query logic of surveillance
 =============================================

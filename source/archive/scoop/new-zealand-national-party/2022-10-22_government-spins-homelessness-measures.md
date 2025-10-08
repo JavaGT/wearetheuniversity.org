@@ -1,9 +1,12 @@
 ---
 slug: government-spins-homelessness-measures
-title: "Government Spins Homelessness Measures"
-date: 2022-10-22
-source-url: https://www.scoop.co.nz/stories/PA2210/S00166/government-spins-homelessness-measures.htm
+title: Government Spins Homelessness Measures
+date: 2022-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00166/government-spins-homelessness-measures.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/22/government-spins-homelessness-measures/index.html
+layout: layout.njk
 ---
 Government Spins Homelessness Measures
 ======================================

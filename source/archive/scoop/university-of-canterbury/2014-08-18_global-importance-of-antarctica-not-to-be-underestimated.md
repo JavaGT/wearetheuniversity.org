@@ -1,9 +1,13 @@
 ---
 slug: global-importance-of-antarctica-not-to-be-underestimated
-title: "Global importance of Antarctica not to be underestimated"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/SC1408/S00046/global-importance-of-antarctica-not-to-be-underestimated.htm
+title: Global importance of Antarctica not to be underestimated
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00046/global-importance-of-antarctica-not-to-be-underestimated.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/18/global-importance-of-antarctica-not-to-be-underestimated/index.html
+layout: layout.njk
 ---
 Global importance of Antarctica not to be underestimated
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: smokers-would-quit-if-electronic-cigarettes-were-available
-title: "Smokers Would Quit If Electronic Cigarettes Were Available"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/ED1303/S00030/smokers-would-quit-if-electronic-cigarettes-were-available.htm
+title: Smokers Would Quit If Electronic Cigarettes Were Available
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00030/smokers-would-quit-if-electronic-cigarettes-were-available.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/06/smokers-would-quit-if-electronic-cigarettes-were-available/index.html
+layout: layout.njk
 ---
 Smokers Would Quit If Electronic Cigarettes Were Available
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: defending-the-dignity-of-victims
-title: "Defending The Dignity Of Victims"
-date: 2022-08-16
-source-url: https://www.scoop.co.nz/stories/PA2208/S00142/defending-the-dignity-of-victims.htm
+title: Defending The Dignity Of Victims
+date: 2022-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00142/defending-the-dignity-of-victims.htm
 author: act-new-zealand
+permalink: /archive/2022/08/16/defending-the-dignity-of-victims/index.html
+layout: layout.njk
 ---
 Defending The Dignity Of Victims
 ================================

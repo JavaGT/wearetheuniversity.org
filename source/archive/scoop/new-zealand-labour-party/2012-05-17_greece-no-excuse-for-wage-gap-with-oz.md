@@ -1,9 +1,12 @@
 ---
 slug: greece-no-excuse-for-wage-gap-with-oz
-title: "Greece no excuse for wage gap with Oz"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/PA1205/S00297/greece-no-excuse-for-wage-gap-with-oz.htm
+title: Greece no excuse for wage gap with Oz
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00297/greece-no-excuse-for-wage-gap-with-oz.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/17/greece-no-excuse-for-wage-gap-with-oz/index.html
+layout: layout.njk
 ---
 Greece no excuse for wage gap with Oz
 =====================================

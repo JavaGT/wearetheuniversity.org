@@ -1,9 +1,12 @@
 ---
 slug: vital-to-learn-lessons-from-royal-commission
-title: "Vital to learn lessons from Royal Commission"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/PA1212/S00157/vital-to-learn-lessons-from-royal-commission.htm
+title: Vital to learn lessons from Royal Commission
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00157/vital-to-learn-lessons-from-royal-commission.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/10/vital-to-learn-lessons-from-royal-commission/index.html
+layout: layout.njk
 ---
 Vital to learn lessons from Royal Commission
 ============================================

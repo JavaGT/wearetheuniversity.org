@@ -1,9 +1,12 @@
 ---
 slug: international-recognition-for-waikato-professor
-title: "International recognition for Waikato Professor"
-date: 2003-07-21
-source-url: https://www.scoop.co.nz/stories/ED0307/S00051/international-recognition-for-waikato-professor.htm
+title: International recognition for Waikato Professor
+date: 2003-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00051/international-recognition-for-waikato-professor.htm
 author: waikato-university
+permalink: /archive/2003/07/21/international-recognition-for-waikato-professor/index.html
+layout: layout.njk
 ---
 International recognition for Waikato Professor
 ===============================================

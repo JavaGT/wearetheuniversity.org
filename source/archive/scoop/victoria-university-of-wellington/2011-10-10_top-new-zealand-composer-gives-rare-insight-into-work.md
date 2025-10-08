@@ -1,9 +1,13 @@
 ---
 slug: top-new-zealand-composer-gives-rare-insight-into-work
-title: "Top New Zealand composer gives rare insight into work"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/ED1110/S00035/top-new-zealand-composer-gives-rare-insight-into-work.htm
+title: Top New Zealand composer gives rare insight into work
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00035/top-new-zealand-composer-gives-rare-insight-into-work.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/10/top-new-zealand-composer-gives-rare-insight-into-work/index.html
+layout: layout.njk
 ---
 Top New Zealand composer gives rare insight into work
 =====================================================

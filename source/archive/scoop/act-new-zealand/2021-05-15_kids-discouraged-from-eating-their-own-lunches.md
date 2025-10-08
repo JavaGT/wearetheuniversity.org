@@ -1,9 +1,12 @@
 ---
 slug: kids-discouraged-from-eating-their-own-lunches
-title: "Kids Discouraged From Eating Their Own Lunches"
-date: 2021-05-15
-source-url: https://www.scoop.co.nz/stories/PO2105/S00134/kids-discouraged-from-eating-their-own-lunches.htm
+title: Kids Discouraged From Eating Their Own Lunches
+date: 2021-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2105/S00134/kids-discouraged-from-eating-their-own-lunches.htm
 author: act-new-zealand
+permalink: /archive/2021/05/15/kids-discouraged-from-eating-their-own-lunches/index.html
+layout: layout.njk
 ---
 Kids Discouraged From Eating Their Own Lunches
 ==============================================

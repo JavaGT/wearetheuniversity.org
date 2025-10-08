@@ -1,9 +1,12 @@
 ---
 slug: otago-honours-maori-health-leader
-title: "Otago honours Maori health leader"
-date: 2008-07-09
-source-url: https://www.scoop.co.nz/stories/ED0807/S00026/otago-honours-maori-health-leader.htm
+title: Otago honours Maori health leader
+date: 2008-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00026/otago-honours-maori-health-leader.htm
 author: university-of-otago
+permalink: /archive/2008/07/09/otago-honours-maori-health-leader/index.html
+layout: layout.njk
 ---
 Otago honours Maori health leader
 =================================

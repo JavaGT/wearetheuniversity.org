@@ -1,9 +1,13 @@
 ---
 slug: academic-supports-mps-land-wars-national-day-campaign
-title: "Academic supports MP’s Land Wars national day campaign"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/CU1512/S00128/academic-supports-mps-land-wars-national-day-campaign.htm
+title: Academic supports MP’s Land Wars national day campaign
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00128/academic-supports-mps-land-wars-national-day-campaign.htm
 author: aut-university
+permalink: >-
+  /archive/2015/12/08/academic-supports-mps-land-wars-national-day-campaign/index.html
+layout: layout.njk
 ---
 Academic supports MP’s Land Wars national day campaign
 ======================================================

@@ -1,8 +1,11 @@
 ---
 slug: singers-take-home-blues
-title: "Singers take home Blues"
-date: 2016-09-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/singers-take-home-blues.html
+title: Singers take home Blues
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/singers-take-home-blues.html
+permalink: /archive/2016/09/29/singers-take-home-blues/index.html
+layout: layout.njk
 ---
 Singers take home Blues
 =======================

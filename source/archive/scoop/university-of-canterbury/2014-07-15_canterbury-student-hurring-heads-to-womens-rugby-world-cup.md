@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-hurring-heads-to-womens-rugby-world-cup
-title: "Canterbury student Hurring heads to women’s Rugby World Cup"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/ED1407/S00076/canterbury-student-hurring-heads-to-womens-rugby-world-cup.htm
+title: Canterbury student Hurring heads to women’s Rugby World Cup
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00076/canterbury-student-hurring-heads-to-womens-rugby-world-cup.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/15/canterbury-student-hurring-heads-to-womens-rugby-world-cup/index.html
+layout: layout.njk
 ---
 Canterbury student Hurring heads to women’s Rugby World Cup
 ===========================================================

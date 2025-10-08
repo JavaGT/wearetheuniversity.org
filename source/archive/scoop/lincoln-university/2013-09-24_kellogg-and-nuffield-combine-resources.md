@@ -1,9 +1,12 @@
 ---
 slug: kellogg-and-nuffield-combine-resources
-title: "Kellogg and Nuffield combine resources"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/ED1309/S00145/kellogg-and-nuffield-combine-resources.htm
+title: Kellogg and Nuffield combine resources
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00145/kellogg-and-nuffield-combine-resources.htm
 author: lincoln-university
+permalink: /archive/2013/09/24/kellogg-and-nuffield-combine-resources/index.html
+layout: layout.njk
 ---
 Kellogg and Nuffield combine resources
 ======================================

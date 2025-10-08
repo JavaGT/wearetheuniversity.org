@@ -1,9 +1,12 @@
 ---
 slug: kauri-dieback-plan-nowhere-to-be-seen
-title: "Kauri dieback plan nowhere to be seen"
-date: 2019-12-26
-source-url: https://www.scoop.co.nz/stories/PA1912/S00209/kauri-dieback-plan-nowhere-to-be-seen.htm
+title: Kauri dieback plan nowhere to be seen
+date: 2019-12-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00209/kauri-dieback-plan-nowhere-to-be-seen.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/26/kauri-dieback-plan-nowhere-to-be-seen/index.html
+layout: layout.njk
 ---
 Kauri dieback plan nowhere to be seen
 =====================================

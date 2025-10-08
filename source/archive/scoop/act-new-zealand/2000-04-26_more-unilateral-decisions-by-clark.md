@@ -1,9 +1,12 @@
 ---
 slug: more-unilateral-decisions-by-clark
-title: "More Unilateral Decisions By Clark"
-date: 2000-04-26
-source-url: https://www.scoop.co.nz/stories/PA0004/S00331/more-unilateral-decisions-by-clark.htm
+title: More Unilateral Decisions By Clark
+date: 2000-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00331/more-unilateral-decisions-by-clark.htm
 author: act-new-zealand
+permalink: /archive/2000/04/26/more-unilateral-decisions-by-clark/index.html
+layout: layout.njk
 ---
 More Unilateral Decisions By Clark
 ==================================

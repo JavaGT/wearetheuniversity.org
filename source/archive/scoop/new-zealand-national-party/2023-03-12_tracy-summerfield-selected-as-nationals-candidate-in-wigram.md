@@ -1,9 +1,13 @@
 ---
 slug: tracy-summerfield-selected-as-nationals-candidate-in-wigram
-title: "Tracy Summerfield Selected As National’s Candidate In Wigram"
-date: 2023-03-12
-source-url: https://www.scoop.co.nz/stories/PA2303/S00089/tracy-summerfield-selected-as-nationals-candidate-in-wigram.htm
+title: Tracy Summerfield Selected As National’s Candidate In Wigram
+date: 2023-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00089/tracy-summerfield-selected-as-nationals-candidate-in-wigram.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/12/tracy-summerfield-selected-as-nationals-candidate-in-wigram/index.html
+layout: layout.njk
 ---
 Tracy Summerfield Selected As National’s Candidate In Wigram
 ============================================================

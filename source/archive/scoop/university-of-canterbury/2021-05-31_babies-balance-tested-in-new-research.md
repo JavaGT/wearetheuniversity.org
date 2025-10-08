@@ -1,9 +1,12 @@
 ---
 slug: babies-balance-tested-in-new-research
-title: "Babies’ Balance Tested In New Research"
-date: 2021-05-31
-source-url: https://www.scoop.co.nz/stories/GE2105/S00146/babies-balance-tested-in-new-research.htm
+title: Babies’ Balance Tested In New Research
+date: 2021-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2105/S00146/babies-balance-tested-in-new-research.htm
 author: university-of-canterbury
+permalink: /archive/2021/05/31/babies-balance-tested-in-new-research/index.html
+layout: layout.njk
 ---
 Babies’ Balance Tested In New Research
 ======================================

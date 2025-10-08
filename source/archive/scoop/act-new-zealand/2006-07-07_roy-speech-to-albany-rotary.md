@@ -1,9 +1,11 @@
 ---
 slug: roy-speech-to-albany-rotary
-title: "Roy: Speech to Albany Rotary"
-date: 2006-07-07
+title: 'Roy: Speech to Albany Rotary'
+date: 2006-07-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00089/roy-speech-to-albany-rotary.htm
 author: act-new-zealand
+permalink: /archive/2006/07/07/roy-speech-to-albany-rotary/index.html
+layout: layout.njk
 ---
 Roy: Speech to Albany Rotary
 ============================

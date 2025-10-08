@@ -1,9 +1,12 @@
 ---
 slug: scientist-behind-t1-2-timber-damns-product
-title: "Scientist behind T1.2 timber damns product"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00645/scientist-behind-t12-timber-damns-product.htm
+title: Scientist behind T1.2 timber damns product
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00645/scientist-behind-t12-timber-damns-product.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/28/scientist-behind-t1-2-timber-damns-product/index.html
+layout: layout.njk
 ---
 Scientist behind T1.2 timber damns product
 ==========================================

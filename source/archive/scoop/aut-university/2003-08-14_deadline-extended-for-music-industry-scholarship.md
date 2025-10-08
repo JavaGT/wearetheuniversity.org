@@ -1,9 +1,13 @@
 ---
 slug: deadline-extended-for-music-industry-scholarship
-title: "Deadline Extended For Music Industry Scholarship"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/ED0308/S00044/deadline-extended-for-music-industry-scholarship.htm
+title: Deadline Extended For Music Industry Scholarship
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00044/deadline-extended-for-music-industry-scholarship.htm
 author: aut-university
+permalink: >-
+  /archive/2003/08/14/deadline-extended-for-music-industry-scholarship/index.html
+layout: layout.njk
 ---
 Deadline Extended For Music Industry Scholarship
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-investigating-cheaper-power-for-pacific
-title: "UC researcher investigating cheaper power for Pacific"
-date: 2013-05-26
-source-url: https://www.scoop.co.nz/stories/ED1305/S00168/uc-researcher-investigating-cheaper-power-for-pacific.htm
+title: UC researcher investigating cheaper power for Pacific
+date: 2013-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00168/uc-researcher-investigating-cheaper-power-for-pacific.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/26/uc-researcher-investigating-cheaper-power-for-pacific/index.html
+layout: layout.njk
 ---
 UC researcher investigating cheaper power for Pacific
 =====================================================

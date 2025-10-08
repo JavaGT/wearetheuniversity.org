@@ -1,9 +1,12 @@
 ---
 slug: act-seeks-parliamentary-scrutiny
-title: "ACT seeks Parliamentary scrutiny"
-date: 1999-12-22
-source-url: https://www.scoop.co.nz/stories/PA9912/S00118/act-seeks-parliamentary-scrutiny.htm
+title: ACT seeks Parliamentary scrutiny
+date: 1999-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00118/act-seeks-parliamentary-scrutiny.htm
 author: act-new-zealand
+permalink: /archive/1999/12/22/act-seeks-parliamentary-scrutiny/index.html
+layout: layout.njk
 ---
 ACT seeks Parliamentary scrutiny
 ================================

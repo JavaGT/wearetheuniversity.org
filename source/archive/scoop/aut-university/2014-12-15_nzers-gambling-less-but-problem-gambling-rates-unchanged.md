@@ -1,9 +1,13 @@
 ---
 slug: nzers-gambling-less-but-problem-gambling-rates-unchanged
-title: "NZers gambling less, but problem gambling rates unchanged"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00093/nzers-gambling-less-but-problem-gambling-rates-unchanged.htm
+title: NZers gambling less, but problem gambling rates unchanged
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00093/nzers-gambling-less-but-problem-gambling-rates-unchanged.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/15/nzers-gambling-less-but-problem-gambling-rates-unchanged/index.html
+layout: layout.njk
 ---
 NZers gambling less, but problem gambling rates unchanged
 =========================================================

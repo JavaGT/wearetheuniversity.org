@@ -1,9 +1,12 @@
 ---
 slug: us-service-medal-for-massey-soldier
-title: "US service medal for Massey soldier"
-date: 2011-11-28
-source-url: https://www.scoop.co.nz/stories/CU1111/S00354/us-service-medal-for-massey-soldier.htm
+title: US service medal for Massey soldier
+date: 2011-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1111/S00354/us-service-medal-for-massey-soldier.htm
 author: massey-university
+permalink: /archive/2011/11/28/us-service-medal-for-massey-soldier/index.html
+layout: layout.njk
 ---
 US service medal for Massey soldier
 ===================================

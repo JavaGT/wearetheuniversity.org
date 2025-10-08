@@ -1,9 +1,12 @@
 ---
 slug: medical-faculty-enters-new-era-of-growth
-title: "Medical Faculty Enters New Era Of Growth"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/ED0205/S00070/medical-faculty-enters-new-era-of-growth.htm
+title: Medical Faculty Enters New Era Of Growth
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00070/medical-faculty-enters-new-era-of-growth.htm
 author: auckland-university
+permalink: /archive/2002/05/30/medical-faculty-enters-new-era-of-growth/index.html
+layout: layout.njk
 ---
 Medical Faculty Enters New Era Of Growth
 ========================================

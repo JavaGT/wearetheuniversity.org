@@ -1,9 +1,13 @@
 ---
 slug: massey-east-houses-a-start-but-smith-should-think-bigger
-title: "Massey East houses a start but Smith should think bigger"
-date: 2016-06-17
-source-url: https://www.scoop.co.nz/stories/PA1606/S00313/massey-east-houses-a-start-but-smith-should-think-bigger.htm
+title: Massey East houses a start but Smith should think bigger
+date: 2016-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00313/massey-east-houses-a-start-but-smith-should-think-bigger.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/17/massey-east-houses-a-start-but-smith-should-think-bigger/index.html
+layout: layout.njk
 ---
 Massey East houses a start but Smith should think bigger
 ========================================================

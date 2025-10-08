@@ -1,9 +1,13 @@
 ---
 slug: south-auckland-students-explore-health-career-options
-title: "South Auckland students explore Health career options"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/ED1704/S00061/south-auckland-students-explore-health-career-options.htm
+title: South Auckland students explore Health career options
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00061/south-auckland-students-explore-health-career-options.htm
 author: massey-university
+permalink: >-
+  /archive/2017/04/24/south-auckland-students-explore-health-career-options/index.html
+layout: layout.njk
 ---
 South Auckland students explore Health career options
 =====================================================

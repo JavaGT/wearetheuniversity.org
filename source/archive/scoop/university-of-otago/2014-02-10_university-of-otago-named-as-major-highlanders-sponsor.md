@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-named-as-major-highlanders-sponsor
-title: "University of Otago named as major Highlanders sponsor"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/ED1402/S00030/university-of-otago-named-as-major-highlanders-sponsor.htm
+title: University of Otago named as major Highlanders sponsor
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00030/university-of-otago-named-as-major-highlanders-sponsor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/10/university-of-otago-named-as-major-highlanders-sponsor/index.html
+layout: layout.njk
 ---
 University of Otago named as major Highlanders sponsor
 ======================================================

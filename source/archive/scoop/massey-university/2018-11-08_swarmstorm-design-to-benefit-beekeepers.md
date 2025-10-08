@@ -1,9 +1,12 @@
 ---
 slug: swarmstorm-design-to-benefit-beekeepers
-title: "Swarmstorm design to benefit beekeepers"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/BU1811/S00251/swarmstorm-design-to-benefit-beekeepers.htm
+title: Swarmstorm design to benefit beekeepers
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1811/S00251/swarmstorm-design-to-benefit-beekeepers.htm
 author: massey-university
+permalink: /archive/2018/11/08/swarmstorm-design-to-benefit-beekeepers/index.html
+layout: layout.njk
 ---
 Swarmstorm design to benefit beekeepers
 =======================================

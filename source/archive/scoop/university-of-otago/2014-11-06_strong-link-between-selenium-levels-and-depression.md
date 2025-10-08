@@ -1,9 +1,13 @@
 ---
 slug: strong-link-between-selenium-levels-and-depression
-title: "Strong link between selenium levels and depression"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/SC1411/S00013/strong-link-between-selenium-levels-and-depression.htm
+title: Strong link between selenium levels and depression
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00013/strong-link-between-selenium-levels-and-depression.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/06/strong-link-between-selenium-levels-and-depression/index.html
+layout: layout.njk
 ---
 Strong link between selenium levels and depression
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-wahine-purotu-evening-2008-maori-women
-title: "Turia: Wahine Purotu Evening 2008 Maori Women"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/PA0810/S00045/turia-wahine-purotu-evening-2008-maori-women.htm
+title: 'Turia: Wahine Purotu Evening 2008 Maori Women'
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00045/turia-wahine-purotu-evening-2008-maori-women.htm
 author: te-pati-maori
+permalink: /archive/2008/10/02/turia-wahine-purotu-evening-2008-maori-women/index.html
+layout: layout.njk
 ---
 Turia: Wahine Purotu Evening 2008 Maori Women
 =============================================

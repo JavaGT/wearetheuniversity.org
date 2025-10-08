@@ -1,9 +1,11 @@
 ---
 slug: science-talk-wins-award
-title: "Science Talk Wins Award"
-date: 2005-11-08
+title: Science Talk Wins Award
+date: 2005-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0511/S00021/science-talk-wins-award.htm
 author: waikato-university
+permalink: /archive/2005/11/08/science-talk-wins-award/index.html
+layout: layout.njk
 ---
 Science Talk Wins Award
 =======================

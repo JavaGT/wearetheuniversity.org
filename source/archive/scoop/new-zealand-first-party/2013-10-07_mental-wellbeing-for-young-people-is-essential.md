@@ -1,9 +1,12 @@
 ---
 slug: mental-wellbeing-for-young-people-is-essential
-title: "Mental Wellbeing for Young People is Essential"
-date: 2013-10-07
-source-url: https://www.scoop.co.nz/stories/PA1310/S00120/mental-wellbeing-for-young-people-is-essential.htm
+title: Mental Wellbeing for Young People is Essential
+date: 2013-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00120/mental-wellbeing-for-young-people-is-essential.htm
 author: new-zealand-first-party
+permalink: /archive/2013/10/07/mental-wellbeing-for-young-people-is-essential/index.html
+layout: layout.njk
 ---
 Mental Wellbeing for Young People is Essential
 ==============================================

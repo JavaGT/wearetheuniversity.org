@@ -1,9 +1,13 @@
 ---
 slug: world-authority-appointed-to-new-leadership-role
-title: "World authority appointed to new leadership role"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/ED0312/S00038/world-authority-appointed-to-new-leadership-role.htm
+title: World authority appointed to new leadership role
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00038/world-authority-appointed-to-new-leadership-role.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2003/12/09/world-authority-appointed-to-new-leadership-role/index.html
+layout: layout.njk
 ---
 World authority appointed to new leadership role
 ================================================

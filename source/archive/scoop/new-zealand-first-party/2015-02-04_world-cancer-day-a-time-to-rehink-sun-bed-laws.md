@@ -1,9 +1,12 @@
 ---
 slug: world-cancer-day-a-time-to-rehink-sun-bed-laws
-title: "World Cancer Day a Time to Rehink Sun Bed Laws"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/PA1502/S00040/world-cancer-day-a-time-to-rehink-sun-bed-laws.htm
+title: World Cancer Day a Time to Rehink Sun Bed Laws
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00040/world-cancer-day-a-time-to-rehink-sun-bed-laws.htm
 author: new-zealand-first-party
+permalink: /archive/2015/02/04/world-cancer-day-a-time-to-rehink-sun-bed-laws/index.html
+layout: layout.njk
 ---
 World Cancer Day a Time to Rehink Sun Bed Laws
 ==============================================

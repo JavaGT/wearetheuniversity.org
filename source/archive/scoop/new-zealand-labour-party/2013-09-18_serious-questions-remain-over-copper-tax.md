@@ -1,9 +1,12 @@
 ---
 slug: serious-questions-remain-over-copper-tax
-title: "Serious questions remain over copper tax"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/PA1309/S00351/serious-questions-remain-over-copper-tax.htm
+title: Serious questions remain over copper tax
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00351/serious-questions-remain-over-copper-tax.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/18/serious-questions-remain-over-copper-tax/index.html
+layout: layout.njk
 ---
 Serious questions remain over copper tax
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: crafty-maths-maths-craft-day-returns-to-christchurch
-title: "Crafty maths – Maths Craft Day returns to Christchurch"
-date: 2018-06-26
-source-url: https://www.scoop.co.nz/stories/ED1806/S00072/crafty-maths-maths-craft-day-returns-to-christchurch.htm
+title: Crafty maths – Maths Craft Day returns to Christchurch
+date: 2018-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00072/crafty-maths-maths-craft-day-returns-to-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/26/crafty-maths-maths-craft-day-returns-to-christchurch/index.html
+layout: layout.njk
 ---
 Crafty maths – Maths Craft Day returns to Christchurch
 ======================================================

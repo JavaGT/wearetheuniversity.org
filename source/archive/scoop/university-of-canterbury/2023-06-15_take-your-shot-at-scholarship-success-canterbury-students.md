@@ -1,9 +1,13 @@
 ---
 slug: take-your-shot-at-scholarship-success-canterbury-students
-title: "\"Take Your Shot At Scholarship Success\" – Canterbury Students"
-date: 2023-06-15
-source-url: https://www.scoop.co.nz/stories/ED2306/S00019/take-your-shot-at-scholarship-success-canterbury-students.htm
+title: '"Take Your Shot At Scholarship Success" – Canterbury Students'
+date: 2023-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00019/take-your-shot-at-scholarship-success-canterbury-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/06/15/take-your-shot-at-scholarship-success-canterbury-students/index.html
+layout: layout.njk
 ---
 “Take Your Shot At Scholarship Success” – Canterbury Students
 =============================================================

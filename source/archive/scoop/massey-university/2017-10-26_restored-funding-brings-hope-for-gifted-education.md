@@ -1,9 +1,13 @@
 ---
 slug: restored-funding-brings-hope-for-gifted-education
-title: "Restored funding brings hope for gifted education"
-date: 2017-10-26
-source-url: https://www.scoop.co.nz/stories/ED1710/S00081/restored-funding-brings-hope-for-gifted-education.htm
+title: Restored funding brings hope for gifted education
+date: 2017-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00081/restored-funding-brings-hope-for-gifted-education.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/26/restored-funding-brings-hope-for-gifted-education/index.html
+layout: layout.njk
 ---
 Restored funding brings hope for gifted education
 =================================================

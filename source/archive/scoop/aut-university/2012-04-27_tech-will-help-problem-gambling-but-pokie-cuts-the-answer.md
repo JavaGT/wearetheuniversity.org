@@ -1,9 +1,13 @@
 ---
 slug: tech-will-help-problem-gambling-but-pokie-cuts-the-answer
-title: "Tech will help problem gambling but pokie cuts the answer"
-date: 2012-04-27
-source-url: https://www.scoop.co.nz/stories/GE1204/S00106/tech-will-help-problem-gambling-but-pokie-cuts-the-answer.htm
+title: Tech will help problem gambling but pokie cuts the answer
+date: 2012-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00106/tech-will-help-problem-gambling-but-pokie-cuts-the-answer.htm
 author: aut-university
+permalink: >-
+  /archive/2012/04/27/tech-will-help-problem-gambling-but-pokie-cuts-the-answer/index.html
+layout: layout.njk
 ---
 Tech will help problem gambling but pokie cuts the answer
 =========================================================

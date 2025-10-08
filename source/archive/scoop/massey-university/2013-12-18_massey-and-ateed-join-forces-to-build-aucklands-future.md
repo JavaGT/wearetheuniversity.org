@@ -1,9 +1,13 @@
 ---
 slug: massey-and-ateed-join-forces-to-build-aucklands-future
-title: "Massey and ATEED join forces to build Auckland’s future"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/ED1312/S00118/massey-and-ateed-join-forces-to-build-aucklands-future.htm
+title: Massey and ATEED join forces to build Auckland’s future
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00118/massey-and-ateed-join-forces-to-build-aucklands-future.htm
 author: massey-university
+permalink: >-
+  /archive/2013/12/18/massey-and-ateed-join-forces-to-build-aucklands-future/index.html
+layout: layout.njk
 ---
 Massey and ATEED join forces to build Auckland’s future
 =======================================================

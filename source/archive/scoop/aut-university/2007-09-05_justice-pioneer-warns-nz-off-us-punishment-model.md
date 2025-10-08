@@ -1,9 +1,13 @@
 ---
 slug: justice-pioneer-warns-nz-off-us-punishment-model
-title: "Justice pioneer warns NZ off US punishment model"
-date: 2007-09-05
-source-url: https://www.scoop.co.nz/stories/PO0709/S00065/justice-pioneer-warns-nz-off-us-punishment-model.htm
+title: Justice pioneer warns NZ off US punishment model
+date: 2007-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00065/justice-pioneer-warns-nz-off-us-punishment-model.htm
 author: aut-university
+permalink: >-
+  /archive/2007/09/05/justice-pioneer-warns-nz-off-us-punishment-model/index.html
+layout: layout.njk
 ---
 Justice pioneer warns NZ off US punishment model
 ================================================

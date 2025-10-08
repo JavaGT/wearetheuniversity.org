@@ -1,9 +1,13 @@
 ---
 slug: ge-report-says-royal-commission-advice-now-dated
-title: "GE report says Royal Commission advice now dated"
-date: 2003-09-24
-source-url: https://www.scoop.co.nz/stories/PA0309/S00519/ge-report-says-royal-commission-advice-now-dated.htm
+title: GE report says Royal Commission advice now dated
+date: 2003-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00519/ge-report-says-royal-commission-advice-now-dated.htm
 author: green-party
+permalink: >-
+  /archive/2003/09/24/ge-report-says-royal-commission-advice-now-dated/index.html
+layout: layout.njk
 ---
 GE report says Royal Commission advice now dated
 ================================================

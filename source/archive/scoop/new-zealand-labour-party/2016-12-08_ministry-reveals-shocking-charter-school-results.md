@@ -1,9 +1,13 @@
 ---
 slug: ministry-reveals-shocking-charter-school-results
-title: "Ministry reveals shocking charter school results"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/PA1612/S00130/ministry-reveals-shocking-charter-school-results.htm
+title: Ministry reveals shocking charter school results
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00130/ministry-reveals-shocking-charter-school-results.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/08/ministry-reveals-shocking-charter-school-results/index.html
+layout: layout.njk
 ---
 Ministry reveals shocking charter school results
 ================================================

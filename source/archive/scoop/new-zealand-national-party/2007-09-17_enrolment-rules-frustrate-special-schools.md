@@ -1,9 +1,12 @@
 ---
 slug: enrolment-rules-frustrate-special-schools
-title: "Enrolment rules frustrate special schools"
-date: 2007-09-17
-source-url: https://www.scoop.co.nz/stories/PA0709/S00286/enrolment-rules-frustrate-special-schools.htm
+title: Enrolment rules frustrate special schools
+date: 2007-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00286/enrolment-rules-frustrate-special-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/17/enrolment-rules-frustrate-special-schools/index.html
+layout: layout.njk
 ---
 Enrolment rules frustrate special schools
 =========================================

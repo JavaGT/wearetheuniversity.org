@@ -1,9 +1,12 @@
 ---
 slug: confidence-rattled-in-scholarship-yet-again
-title: "Confidence rattled in scholarship - yet again"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PA0603/S00437/confidence-rattled-in-scholarship-yet-again.htm
+title: Confidence rattled in scholarship - yet again
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00437/confidence-rattled-in-scholarship-yet-again.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/27/confidence-rattled-in-scholarship-yet-again/index.html
+layout: layout.njk
 ---
 Confidence rattled in scholarship - yet again
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: top-honour-to-victoria-professor
-title: "Top honour to Victoria professor"
-date: 2005-12-31
-source-url: https://www.scoop.co.nz/stories/ED0512/S00102/top-honour-to-victoria-professor.htm
+title: Top honour to Victoria professor
+date: 2005-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00102/top-honour-to-victoria-professor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/31/top-honour-to-victoria-professor/index.html
+layout: layout.njk
 ---
 Top honour to Victoria professor
 ================================

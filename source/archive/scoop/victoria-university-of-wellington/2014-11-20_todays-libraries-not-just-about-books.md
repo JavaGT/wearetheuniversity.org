@@ -1,9 +1,12 @@
 ---
 slug: todays-libraries-not-just-about-books
-title: "Today’s libraries not just about books"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/CU1411/S00359/todays-libraries-not-just-about-books.htm
+title: Today’s libraries not just about books
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00359/todays-libraries-not-just-about-books.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/20/todays-libraries-not-just-about-books/index.html
+layout: layout.njk
 ---
 Today’s libraries not just about books
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: historian-searching-for-letters-from-gallipoli
-title: "Historian Searching For Letters from Gallipoli"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/CU0907/S00450/historian-searching-for-letters-from-gallipoli.htm
+title: Historian Searching For Letters from Gallipoli
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00450/historian-searching-for-letters-from-gallipoli.htm
 author: auckland-university-press
+permalink: /archive/2009/07/31/historian-searching-for-letters-from-gallipoli/index.html
+layout: layout.njk
 ---
 Historian Searching For Letters from Gallipoli
 ==============================================

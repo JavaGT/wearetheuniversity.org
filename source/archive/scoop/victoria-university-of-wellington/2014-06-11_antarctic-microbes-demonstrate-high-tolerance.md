@@ -1,9 +1,12 @@
 ---
 slug: antarctic-microbes-demonstrate-high-tolerance
-title: "Antarctic microbes demonstrate high tolerance"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/SC1406/S00030/antarctic-microbes-demonstrate-high-tolerance.htm
+title: Antarctic microbes demonstrate high tolerance
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00030/antarctic-microbes-demonstrate-high-tolerance.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/11/antarctic-microbes-demonstrate-high-tolerance/index.html
+layout: layout.njk
 ---
 Antarctic microbes demonstrate high tolerance
 =============================================

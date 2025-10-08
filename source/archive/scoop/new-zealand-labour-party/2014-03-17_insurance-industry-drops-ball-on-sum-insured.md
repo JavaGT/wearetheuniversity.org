@@ -1,9 +1,12 @@
 ---
 slug: insurance-industry-drops-ball-on-sum-insured
-title: "Insurance industry drops ball on sum insured"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/PA1403/S00316/insurance-industry-drops-ball-on-sum-insured.htm
+title: Insurance industry drops ball on sum insured
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00316/insurance-industry-drops-ball-on-sum-insured.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/17/insurance-industry-drops-ball-on-sum-insured/index.html
+layout: layout.njk
 ---
 Insurance industry drops ball on sum insured
 ============================================

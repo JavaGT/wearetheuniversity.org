@@ -1,9 +1,13 @@
 ---
 slug: a-lifetime-in-politics-the-memoirs-of-warren-free
-title: "A Lifetime In Politics: The Memoirs of Warren Free"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/PO0406/S00259/a-lifetime-in-politics-the-memoirs-of-warren-free.htm
+title: 'A Lifetime In Politics: The Memoirs of Warren Free'
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00259/a-lifetime-in-politics-the-memoirs-of-warren-free.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2004/06/25/a-lifetime-in-politics-the-memoirs-of-warren-free/index.html
+layout: layout.njk
 ---
 A Lifetime In Politics: The Memoirs of Warren Free
 ==================================================

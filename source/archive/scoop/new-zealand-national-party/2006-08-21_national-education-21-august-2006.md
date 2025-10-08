@@ -1,9 +1,12 @@
 ---
 slug: national-education-21-august-2006
-title: "National Education - 21 August 2006"
-date: 2006-08-21
-source-url: https://www.scoop.co.nz/stories/PA0608/S00352/national-education-21-august-2006.htm
+title: National Education - 21 August 2006
+date: 2006-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00352/national-education-21-august-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/21/national-education-21-august-2006/index.html
+layout: layout.njk
 ---
 National Education - 21 August 2006
 ===================================

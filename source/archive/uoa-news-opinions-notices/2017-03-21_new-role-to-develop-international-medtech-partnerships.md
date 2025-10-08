@@ -1,8 +1,12 @@
 ---
 slug: new-role-to-develop-international-medtech-partnerships
-title: "New role to develop international MedTech partnerships"
-date: 2017-03-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/new-role-to-develop-international-medtech-partnerships.html
+title: New role to develop international MedTech partnerships
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/new-role-to-develop-international-medtech-partnerships.html
+permalink: >-
+  /archive/2017/03/21/new-role-to-develop-international-medtech-partnerships/index.html
+layout: layout.njk
 ---
 New role to develop international MedTech partnerships
 ======================================================

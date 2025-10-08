@@ -1,9 +1,12 @@
 ---
 slug: nzqa-hear-no-evil-see-no-evil-speak-no-evil
-title: "NZQA: hear no evil, see no evil, speak no evil"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/PA0502/S00513/nzqa-hear-no-evil-see-no-evil-speak-no-evil.htm
+title: 'NZQA: hear no evil, see no evil, speak no evil'
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00513/nzqa-hear-no-evil-see-no-evil-speak-no-evil.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/24/nzqa-hear-no-evil-see-no-evil-speak-no-evil/index.html
+layout: layout.njk
 ---
 NZQA: hear no evil, see no evil, speak no evil
 ==============================================

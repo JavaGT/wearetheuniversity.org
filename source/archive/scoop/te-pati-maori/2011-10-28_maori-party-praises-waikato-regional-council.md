@@ -1,9 +1,12 @@
 ---
 slug: maori-party-praises-waikato-regional-council
-title: "Maori Party praises Waikato Regional Council"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/PO1110/S00503/maori-party-praises-waikato-regional-council.htm
+title: Maori Party praises Waikato Regional Council
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00503/maori-party-praises-waikato-regional-council.htm
 author: te-pati-maori
+permalink: /archive/2011/10/28/maori-party-praises-waikato-regional-council/index.html
+layout: layout.njk
 ---
 Maori Party praises Waikato Regional Council
 ============================================

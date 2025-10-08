@@ -1,9 +1,13 @@
 ---
 slug: resignation-to-benefit-the-performing-arts-sector
-title: "Resignation to benefit the performing arts sector"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/CU0403/S00169/resignation-to-benefit-the-performing-arts-sector.htm
+title: Resignation to benefit the performing arts sector
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0403/S00169/resignation-to-benefit-the-performing-arts-sector.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/03/30/resignation-to-benefit-the-performing-arts-sector/index.html
+layout: layout.njk
 ---
 Resignation to benefit the performing arts sector
 =================================================

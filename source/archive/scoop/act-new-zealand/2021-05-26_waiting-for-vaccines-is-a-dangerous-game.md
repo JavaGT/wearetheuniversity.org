@@ -1,9 +1,12 @@
 ---
 slug: waiting-for-vaccines-is-a-dangerous-game
-title: "Waiting For Vaccines Is A Dangerous Game"
-date: 2021-05-26
-source-url: https://www.scoop.co.nz/stories/PA2105/S00227/waiting-for-vaccines-is-a-dangerous-game.htm
+title: Waiting For Vaccines Is A Dangerous Game
+date: 2021-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00227/waiting-for-vaccines-is-a-dangerous-game.htm
 author: act-new-zealand
+permalink: /archive/2021/05/26/waiting-for-vaccines-is-a-dangerous-game/index.html
+layout: layout.njk
 ---
 Waiting For Vaccines Is A Dangerous Game
 ========================================

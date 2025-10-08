@@ -1,9 +1,12 @@
 ---
 slug: whale-oil-blogger-takes-out-quote-of-the-year
-title: "Whale Oil blogger takes out Quote of the Year"
-date: 2014-12-19
-source-url: https://www.scoop.co.nz/stories/PO1412/S00251/whale-oil-blogger-takes-out-quote-of-the-year.htm
+title: Whale Oil blogger takes out Quote of the Year
+date: 2014-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00251/whale-oil-blogger-takes-out-quote-of-the-year.htm
 author: massey-university
+permalink: /archive/2014/12/19/whale-oil-blogger-takes-out-quote-of-the-year/index.html
+layout: layout.njk
 ---
 Whale Oil blogger takes out Quote of the Year
 =============================================

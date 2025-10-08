@@ -1,9 +1,11 @@
 ---
 slug: black-widow-at-large
-title: "Black Widow At Large"
-date: 2002-07-22
+title: Black Widow At Large
+date: 2002-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00577/black-widow-at-large.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/22/black-widow-at-large/index.html
+layout: layout.njk
 ---
 Black Widow At Large
 ====================

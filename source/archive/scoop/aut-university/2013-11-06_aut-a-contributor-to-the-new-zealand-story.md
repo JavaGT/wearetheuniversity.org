@@ -1,9 +1,12 @@
 ---
 slug: aut-a-contributor-to-the-new-zealand-story
-title: "AUT a contributor to the New Zealand Story"
-date: 2013-11-06
-source-url: https://www.scoop.co.nz/stories/ED1311/S00047/aut-a-contributor-to-the-new-zealand-story.htm
+title: AUT a contributor to the New Zealand Story
+date: 2013-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00047/aut-a-contributor-to-the-new-zealand-story.htm
 author: aut-university
+permalink: /archive/2013/11/06/aut-a-contributor-to-the-new-zealand-story/index.html
+layout: layout.njk
 ---
 AUT a contributor to the New Zealand Story
 ==========================================

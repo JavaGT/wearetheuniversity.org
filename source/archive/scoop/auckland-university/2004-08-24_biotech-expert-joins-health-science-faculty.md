@@ -1,9 +1,12 @@
 ---
 slug: biotech-expert-joins-health-science-faculty
-title: "Biotech Expert Joins Health-Science Faculty"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/ED0408/S00100/biotech-expert-joins-health-science-faculty.htm
+title: Biotech Expert Joins Health-Science Faculty
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00100/biotech-expert-joins-health-science-faculty.htm
 author: auckland-university
+permalink: /archive/2004/08/24/biotech-expert-joins-health-science-faculty/index.html
+layout: layout.njk
 ---
 Biotech Expert Joins Health-Science Faculty
 ===========================================

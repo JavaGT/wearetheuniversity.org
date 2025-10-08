@@ -1,9 +1,12 @@
 ---
 slug: top-maori-fellowship-for-chef-turned-chemist
-title: "Top Maori fellowship for chef-turned-chemist"
-date: 2010-02-23
-source-url: https://www.scoop.co.nz/stories/ED1002/S00085/top-maori-fellowship-for-chef-turned-chemist.htm
+title: Top Maori fellowship for chef-turned-chemist
+date: 2010-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00085/top-maori-fellowship-for-chef-turned-chemist.htm
 author: waikato-university
+permalink: /archive/2010/02/23/top-maori-fellowship-for-chef-turned-chemist/index.html
+layout: layout.njk
 ---
 Top Maori fellowship for chef-turned-chemist
 ============================================

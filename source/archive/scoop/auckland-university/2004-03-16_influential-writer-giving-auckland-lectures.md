@@ -1,9 +1,12 @@
 ---
 slug: influential-writer-giving-auckland-lectures
-title: "Influential Writer Giving Auckland Lectures"
-date: 2004-03-16
-source-url: https://www.scoop.co.nz/stories/ED0403/S00064/influential-writer-giving-auckland-lectures.htm
+title: Influential Writer Giving Auckland Lectures
+date: 2004-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00064/influential-writer-giving-auckland-lectures.htm
 author: auckland-university
+permalink: /archive/2004/03/16/influential-writer-giving-auckland-lectures/index.html
+layout: layout.njk
 ---
 Influential Writer Giving Auckland Lectures
 ===========================================

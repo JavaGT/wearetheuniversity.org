@@ -1,9 +1,12 @@
 ---
 slug: students-to-gain-insight-into-the-future-of-ict
-title: "Students to gain insight into the future of ICT"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/ED1708/S00049/students-to-gain-insight-into-the-future-of-ict.htm
+title: Students to gain insight into the future of ICT
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00049/students-to-gain-insight-into-the-future-of-ict.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/08/14/students-to-gain-insight-into-the-future-of-ict/index.html
+layout: layout.njk
 ---
 Students to gain insight into the future of ICT
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-offer-nothing-to-most-maori-families
-title: "Tax cuts offer nothing to most Maori families"
-date: 2009-03-31
-source-url: https://www.scoop.co.nz/stories/PA0903/S00447/tax-cuts-offer-nothing-to-most-maori-families.htm
+title: Tax cuts offer nothing to most Maori families
+date: 2009-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00447/tax-cuts-offer-nothing-to-most-maori-families.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/31/tax-cuts-offer-nothing-to-most-maori-families/index.html
+layout: layout.njk
 ---
 Tax cuts offer nothing to most Maori families
 =============================================

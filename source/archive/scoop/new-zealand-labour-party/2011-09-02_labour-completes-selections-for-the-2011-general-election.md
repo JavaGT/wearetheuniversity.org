@@ -1,9 +1,13 @@
 ---
 slug: labour-completes-selections-for-the-2011-general-election
-title: "Labour completes selections for the 2011 General Election"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PA1109/S00048/labour-completes-selections-for-the-2011-general-election.htm
+title: Labour completes selections for the 2011 General Election
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00048/labour-completes-selections-for-the-2011-general-election.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/02/labour-completes-selections-for-the-2011-general-election/index.html
+layout: layout.njk
 ---
 Labour completes selections for the 2011 General Election
 =========================================================

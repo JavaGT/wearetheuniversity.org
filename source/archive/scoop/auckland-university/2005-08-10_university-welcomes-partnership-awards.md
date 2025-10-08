@@ -1,9 +1,12 @@
 ---
 slug: university-welcomes-partnership-awards
-title: "University Welcomes Partnership  Awards"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00046/university-welcomes-partnership-awards.htm
+title: University Welcomes Partnership  Awards
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00046/university-welcomes-partnership-awards.htm
 author: auckland-university
+permalink: /archive/2005/08/10/university-welcomes-partnership-awards/index.html
+layout: layout.njk
 ---
 University Welcomes Partnership Awards
 ======================================

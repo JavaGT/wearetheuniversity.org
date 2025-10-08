@@ -1,9 +1,12 @@
 ---
 slug: media-advisory-national-student-conference
-title: "Media Advisory National Student Conference"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00030/media-advisory-national-student-conference.htm
+title: Media Advisory National Student Conference
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00030/media-advisory-national-student-conference.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/07/11/media-advisory-national-student-conference/index.html
+layout: layout.njk
 ---
 Media Advisory National Student Conference
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-aut-research-shows-covid-19s-impact-on-nzs-pacific-workforce
-title: "New AUT Research Shows Covid-19's Impact On NZ's Pacific Workforce"
-date: 2022-07-25
-source-url: https://www.scoop.co.nz/stories/BU2207/S00354/new-aut-research-shows-covid-19s-impact-on-nzs-pacific-workforce.htm
+title: New AUT Research Shows Covid-19's Impact On NZ's Pacific Workforce
+date: 2022-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2207/S00354/new-aut-research-shows-covid-19s-impact-on-nzs-pacific-workforce.htm
 author: aut-university
+permalink: >-
+  /archive/2022/07/25/new-aut-research-shows-covid-19s-impact-on-nzs-pacific-workforce/index.html
+layout: layout.njk
 ---
 New AUT Research Shows Covid-19's Impact On NZ's Pacific Workforce
 ==================================================================

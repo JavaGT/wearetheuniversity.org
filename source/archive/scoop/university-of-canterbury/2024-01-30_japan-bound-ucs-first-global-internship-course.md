@@ -1,9 +1,12 @@
 ---
 slug: japan-bound-ucs-first-global-internship-course
-title: "Japan Bound: UC’s First Global Internship Course"
-date: 2024-01-30
-source-url: https://www.scoop.co.nz/stories/ED2401/S00014/japan-bound-ucs-first-global-internship-course.htm
+title: 'Japan Bound: UC’s First Global Internship Course'
+date: 2024-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2401/S00014/japan-bound-ucs-first-global-internship-course.htm
 author: university-of-canterbury
+permalink: /archive/2024/01/30/japan-bound-ucs-first-global-internship-course/index.html
+layout: layout.njk
 ---
 Japan Bound: UC’s First Global Internship Course
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: medical-board-tests-negative-for-relevance
-title: "Medical Board tests negative for relevance"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/PA0711/S00026/medical-board-tests-negative-for-relevance.htm
+title: Medical Board tests negative for relevance
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00026/medical-board-tests-negative-for-relevance.htm
 author: green-party
+permalink: /archive/2007/11/01/medical-board-tests-negative-for-relevance/index.html
+layout: layout.njk
 ---
 Medical Board tests negative for relevance
 ==========================================

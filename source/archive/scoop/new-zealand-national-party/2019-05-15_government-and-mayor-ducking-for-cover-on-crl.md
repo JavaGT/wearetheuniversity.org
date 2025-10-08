@@ -1,9 +1,12 @@
 ---
 slug: government-and-mayor-ducking-for-cover-on-crl
-title: "Government and mayor ducking for cover on CRL"
-date: 2019-05-15
-source-url: https://www.scoop.co.nz/stories/PA1905/S00151/government-and-mayor-ducking-for-cover-on-crl.htm
+title: Government and mayor ducking for cover on CRL
+date: 2019-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00151/government-and-mayor-ducking-for-cover-on-crl.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/15/government-and-mayor-ducking-for-cover-on-crl/index.html
+layout: layout.njk
 ---
 Government and mayor ducking for cover on CRL
 =============================================

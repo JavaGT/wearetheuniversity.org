@@ -1,9 +1,13 @@
 ---
 slug: what-if-health-statistics-were-not-as-they-appeared
-title: "What if health statistics were not as they appeared?"
-date: 2013-04-07
-source-url: https://www.scoop.co.nz/stories/GE1304/S00022/what-if-health-statistics-were-not-as-they-appeared.htm
+title: What if health statistics were not as they appeared?
+date: 2013-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1304/S00022/what-if-health-statistics-were-not-as-they-appeared.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/07/what-if-health-statistics-were-not-as-they-appeared/index.html
+layout: layout.njk
 ---
 What if health statistics were not as they appeared?
 ====================================================

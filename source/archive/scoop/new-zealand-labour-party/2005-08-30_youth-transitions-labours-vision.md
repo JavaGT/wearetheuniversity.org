@@ -1,9 +1,12 @@
 ---
 slug: youth-transitions-labours-vision
-title: "Youth Transitions - Labour’s Vision"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00768/youth-transitions-labours-vision.htm
+title: Youth Transitions - Labour’s Vision
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00768/youth-transitions-labours-vision.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/30/youth-transitions-labours-vision/index.html
+layout: layout.njk
 ---
 Youth Transitions - Labour’s Vision
 ===================================

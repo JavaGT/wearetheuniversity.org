@@ -1,9 +1,12 @@
 ---
 slug: kaipara-station-not-the-solution-for-aks-energy
-title: "Kaipara station not the solution for Ak's energy"
-date: 2005-07-06
-source-url: https://www.scoop.co.nz/stories/PA0507/S00126/kaipara-station-not-the-solution-for-aks-energy.htm
+title: Kaipara station not the solution for Ak's energy
+date: 2005-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00126/kaipara-station-not-the-solution-for-aks-energy.htm
 author: green-party
+permalink: /archive/2005/07/06/kaipara-station-not-the-solution-for-aks-energy/index.html
+layout: layout.njk
 ---
 Kaipara station not the solution for Ak's energy
 ================================================

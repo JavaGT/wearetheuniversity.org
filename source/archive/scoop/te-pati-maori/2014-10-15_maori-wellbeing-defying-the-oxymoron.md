@@ -1,9 +1,12 @@
 ---
 slug: maori-wellbeing-defying-the-oxymoron
-title: "Maori Wellbeing - Defying the Oxymoron"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/PO1410/S00154/maori-wellbeing-defying-the-oxymoron.htm
+title: Maori Wellbeing - Defying the Oxymoron
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00154/maori-wellbeing-defying-the-oxymoron.htm
 author: te-pati-maori
+permalink: /archive/2014/10/15/maori-wellbeing-defying-the-oxymoron/index.html
+layout: layout.njk
 ---
 Maori Wellbeing - Defying the Oxymoron
 ======================================

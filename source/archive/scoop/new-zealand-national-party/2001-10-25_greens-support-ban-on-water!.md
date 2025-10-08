@@ -1,9 +1,11 @@
 ---
 slug: greens-support-ban-on-water!
-title: "Greens Support Ban On Water!"
-date: 2001-10-25
+title: Greens Support Ban On Water!
+date: 2001-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00440/greens-support-ban-on-water.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/25/greens-support-ban-on-water/index.html
+layout: layout.njk
 ---
 Greens Support Ban On Water!
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-bill-to-protect-marine-mammals
-title: "Green Party Launches Bill To Protect Marine Mammals"
-date: 2023-07-27
-source-url: https://www.scoop.co.nz/stories/PO2307/S00192/green-party-launches-bill-to-protect-marine-mammals.htm
+title: Green Party Launches Bill To Protect Marine Mammals
+date: 2023-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00192/green-party-launches-bill-to-protect-marine-mammals.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/27/green-party-launches-bill-to-protect-marine-mammals/index.html
+layout: layout.njk
 ---
 Green Party Launches Bill To Protect Marine Mammals
 ===================================================

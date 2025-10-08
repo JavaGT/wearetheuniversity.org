@@ -1,9 +1,12 @@
 ---
 slug: consistent-under-reporting-of-sea-lion-bycatch
-title: "Consistent under-reporting of sea-lion bycatch"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PO1205/S00319/consistent-under-reporting-of-sea-lion-bycatch.htm
+title: Consistent under-reporting of sea-lion bycatch
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00319/consistent-under-reporting-of-sea-lion-bycatch.htm
 author: university-of-otago
+permalink: /archive/2012/05/22/consistent-under-reporting-of-sea-lion-bycatch/index.html
+layout: layout.njk
 ---
 Consistent under-reporting of sea-lion bycatch
 ==============================================

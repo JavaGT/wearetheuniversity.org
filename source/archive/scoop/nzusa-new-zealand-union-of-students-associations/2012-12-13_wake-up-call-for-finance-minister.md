@@ -1,9 +1,12 @@
 ---
 slug: wake-up-call-for-finance-minister
-title: "Wake up call for Finance Minister"
-date: 2012-12-13
-source-url: https://www.scoop.co.nz/stories/ED1212/S00101/wake-up-call-for-finance-minister.htm
+title: Wake up call for Finance Minister
+date: 2012-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00101/wake-up-call-for-finance-minister.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/12/13/wake-up-call-for-finance-minister/index.html
+layout: layout.njk
 ---
 Wake up call for Finance Minister
 =================================

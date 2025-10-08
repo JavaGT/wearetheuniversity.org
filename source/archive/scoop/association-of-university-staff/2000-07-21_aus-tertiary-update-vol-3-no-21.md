@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-21
-title: "AUS Tertiary Update, Vol.3 No.21"
-date: 2000-07-21
-source-url: https://www.scoop.co.nz/stories/ED0007/S00031/aus-tertiary-update-vol3-no21.htm
+title: AUS Tertiary Update, Vol.3 No.21
+date: 2000-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00031/aus-tertiary-update-vol3-no21.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/21/aus-tertiary-update-vol-3-no-21/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update, Vol.3 No.21
 ================================

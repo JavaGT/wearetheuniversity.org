@@ -1,9 +1,11 @@
 ---
 slug: act-board-election-results
-title: "ACT Board Election Results"
-date: 2006-03-27
+title: ACT Board Election Results
+date: 2006-03-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00436/act-board-election-results.htm
 author: act-new-zealand
+permalink: /archive/2006/03/27/act-board-election-results/index.html
+layout: layout.njk
 ---
 ACT Board Election Results
 ==========================

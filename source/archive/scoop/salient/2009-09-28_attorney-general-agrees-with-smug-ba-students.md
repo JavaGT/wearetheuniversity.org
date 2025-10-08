@@ -1,9 +1,12 @@
 ---
 slug: attorney-general-agrees-with-smug-ba-students
-title: "Attorney-General agrees with smug BA students"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/HL0909/S00245/attorney-general-agrees-with-smug-ba-students.htm
+title: Attorney-General agrees with smug BA students
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00245/attorney-general-agrees-with-smug-ba-students.htm
 author: salient
+permalink: /archive/2009/09/28/attorney-general-agrees-with-smug-ba-students/index.html
+layout: layout.njk
 ---
 Attorney-General agrees with smug BA students
 =============================================

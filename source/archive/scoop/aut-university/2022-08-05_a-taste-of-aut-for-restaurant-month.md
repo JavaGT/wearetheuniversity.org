@@ -1,9 +1,12 @@
 ---
 slug: a-taste-of-aut-for-restaurant-month
-title: "A Taste Of AUT For Restaurant Month"
-date: 2022-08-05
-source-url: https://www.scoop.co.nz/stories/ED2208/S00006/a-taste-of-aut-for-restaurant-month.htm
+title: A Taste Of AUT For Restaurant Month
+date: 2022-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00006/a-taste-of-aut-for-restaurant-month.htm
 author: aut-university
+permalink: /archive/2022/08/05/a-taste-of-aut-for-restaurant-month/index.html
+layout: layout.njk
 ---
 A Taste Of AUT For Restaurant Month
 ===================================

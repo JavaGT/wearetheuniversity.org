@@ -1,9 +1,12 @@
 ---
 slug: minister-needs-to-keep-his-head-down-on-vsm
-title: "Minister needs to keep his head down on VSM"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00516/minister-needs-to-keep-his-head-down-on-vsm.htm
+title: Minister needs to keep his head down on VSM
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00516/minister-needs-to-keep-his-head-down-on-vsm.htm
 author: green-party
+permalink: /archive/2011/09/28/minister-needs-to-keep-his-head-down-on-vsm/index.html
+layout: layout.njk
 ---
 Minister needs to keep his head down on VSM
 ===========================================

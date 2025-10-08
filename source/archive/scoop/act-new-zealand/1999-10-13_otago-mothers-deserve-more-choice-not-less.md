@@ -1,9 +1,12 @@
 ---
 slug: otago-mothers-deserve-more-choice-not-less
-title: "Otago mothers deserve more choice, not less"
-date: 1999-10-13
-source-url: https://www.scoop.co.nz/stories/PA9910/S00275/otago-mothers-deserve-more-choice-not-less.htm
+title: Otago mothers deserve more choice, not less
+date: 1999-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00275/otago-mothers-deserve-more-choice-not-less.htm
 author: act-new-zealand
+permalink: /archive/1999/10/13/otago-mothers-deserve-more-choice-not-less/index.html
+layout: layout.njk
 ---
 Otago mothers deserve more choice, not less
 ===========================================

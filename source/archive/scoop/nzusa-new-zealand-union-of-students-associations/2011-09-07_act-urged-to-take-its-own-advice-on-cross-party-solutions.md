@@ -1,9 +1,13 @@
 ---
 slug: act-urged-to-take-its-own-advice-on-cross-party-solutions
-title: "ACT urged to take its own advice on cross-party solutions"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PO1109/S00101/act-urged-to-take-its-own-advice-on-cross-party-solutions.htm
+title: ACT urged to take its own advice on cross-party solutions
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00101/act-urged-to-take-its-own-advice-on-cross-party-solutions.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/07/act-urged-to-take-its-own-advice-on-cross-party-solutions/index.html
+layout: layout.njk
 ---
 ACT urged to take its own advice on cross-party solutions
 =========================================================

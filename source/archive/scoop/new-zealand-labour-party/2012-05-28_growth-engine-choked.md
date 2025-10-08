@@ -1,9 +1,11 @@
 ---
 slug: growth-engine-choked
-title: "Growth Engine Choked"
-date: 2012-05-28
+title: Growth Engine Choked
+date: 2012-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00501/growth-engine-choked.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/28/growth-engine-choked/index.html
+layout: layout.njk
 ---
 Growth Engine Choked
 ====================

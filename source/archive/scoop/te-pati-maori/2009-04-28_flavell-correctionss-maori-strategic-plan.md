@@ -1,9 +1,12 @@
 ---
 slug: flavell-correctionss-maori-strategic-plan
-title: "Flavell: Corrections’s Maori Strategic Plan"
-date: 2009-04-28
-source-url: https://www.scoop.co.nz/stories/PA0904/S00335/flavell-correctionss-maori-strategic-plan.htm
+title: 'Flavell: Corrections’s Maori Strategic Plan'
+date: 2009-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00335/flavell-correctionss-maori-strategic-plan.htm
 author: te-pati-maori
+permalink: /archive/2009/04/28/flavell-correctionss-maori-strategic-plan/index.html
+layout: layout.njk
 ---
 Flavell: Corrections’s Maori Strategic Plan
 ===========================================

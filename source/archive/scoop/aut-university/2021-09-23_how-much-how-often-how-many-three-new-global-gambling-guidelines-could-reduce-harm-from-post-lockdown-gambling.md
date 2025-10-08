@@ -1,9 +1,16 @@
 ---
-slug: how-much-how-often-how-many-three-new-global-gambling-guidelines-could-reduce-harm-from-post-lockdown-gambling
-title: "How Much, How Often, How Many - Three New Global Gambling Guidelines Could Reduce Harm From Post-lockdown Gambling"
-date: 2021-09-23
-source-url: https://www.scoop.co.nz/stories/CU2109/S00195/how-much-how-often-how-many-three-new-global-gambling-guidelines-could-reduce-harm-from-post-lockdown-gambling.htm
+slug: >-
+  how-much-how-often-how-many-three-new-global-gambling-guidelines-could-reduce-harm-from-post-lockdown-gambling
+title: >-
+  How Much, How Often, How Many - Three New Global Gambling Guidelines Could
+  Reduce Harm From Post-lockdown Gambling
+date: 2021-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2109/S00195/how-much-how-often-how-many-three-new-global-gambling-guidelines-could-reduce-harm-from-post-lockdown-gambling.htm
 author: aut-university
+permalink: >-
+  /archive/2021/09/23/how-much-how-often-how-many-three-new-global-gambling-guidelines-could-reduce-harm-from-post-lockdown-gambling/index.html
+layout: layout.njk
 ---
 How Much, How Often, How Many - Three New Global Gambling Guidelines Could Reduce Harm From Post-lockdown Gambling
 ==================================================================================================================

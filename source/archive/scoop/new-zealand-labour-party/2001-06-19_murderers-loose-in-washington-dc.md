@@ -1,9 +1,12 @@
 ---
 slug: murderers-loose-in-washington-dc
-title: "Murderers Loose In Washington DC"
-date: 2001-06-19
-source-url: https://www.scoop.co.nz/stories/PO0106/S00066/murderers-loose-in-washington-dc.htm
+title: Murderers Loose In Washington DC
+date: 2001-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0106/S00066/murderers-loose-in-washington-dc.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/06/19/murderers-loose-in-washington-dc/index.html
+layout: layout.njk
 ---
 Murderers Loose In Washington DC
 ================================

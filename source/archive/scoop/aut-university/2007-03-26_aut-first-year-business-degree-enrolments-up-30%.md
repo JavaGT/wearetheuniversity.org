@@ -1,9 +1,12 @@
 ---
 slug: aut-first-year-business-degree-enrolments-up-30%
-title: "AUT first year business degree enrolments up 30%"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/ED0703/S00091/aut-first-year-business-degree-enrolments-up-30.htm
+title: AUT first year business degree enrolments up 30%
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00091/aut-first-year-business-degree-enrolments-up-30.htm
 author: aut-university
+permalink: /archive/2007/03/26/aut-first-year-business-degree-enrolments-up-30/index.html
+layout: layout.njk
 ---
 AUT first year business degree enrolments up 30%
 ================================================

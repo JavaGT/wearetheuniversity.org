@@ -1,9 +1,12 @@
 ---
 slug: tamaki-college-to-open-service-academy-in-2010
-title: "Tamaki College to open Service Academy in 2010"
-date: 2009-12-14
-source-url: https://www.scoop.co.nz/stories/PA0912/S00218/tamaki-college-to-open-service-academy-in-2010.htm
+title: Tamaki College to open Service Academy in 2010
+date: 2009-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00218/tamaki-college-to-open-service-academy-in-2010.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/14/tamaki-college-to-open-service-academy-in-2010/index.html
+layout: layout.njk
 ---
 Tamaki College to open Service Academy in 2010
 ==============================================

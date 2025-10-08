@@ -1,9 +1,12 @@
 ---
 slug: this-is-the-week-average-wage-workers-lose-$1060
-title: "This is the week average wage workers lose $1060"
-date: 2017-12-11
-source-url: https://www.scoop.co.nz/stories/PA1712/S00099/this-is-the-week-average-wage-workers-lose-1060.htm
+title: This is the week average wage workers lose $1060
+date: 2017-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00099/this-is-the-week-average-wage-workers-lose-1060.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/11/this-is-the-week-average-wage-workers-lose-/index.html
+layout: layout.njk
 ---
 This is the week average wage workers lose $1060
 ================================================

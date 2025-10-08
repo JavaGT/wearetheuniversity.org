@@ -1,9 +1,12 @@
 ---
 slug: adjunct-professor-role-for-eminent-businessman
-title: "Adjunct professor role for eminent businessman"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/ED1011/S00062/adjunct-professor-role-for-eminent-businessman.htm
+title: Adjunct professor role for eminent businessman
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00062/adjunct-professor-role-for-eminent-businessman.htm
 author: massey-university
+permalink: /archive/2010/11/16/adjunct-professor-role-for-eminent-businessman/index.html
+layout: layout.njk
 ---
 Adjunct professor role for eminent businessman
 ==============================================

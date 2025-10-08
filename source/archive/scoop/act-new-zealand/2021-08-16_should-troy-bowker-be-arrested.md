@@ -1,9 +1,12 @@
 ---
 slug: should-troy-bowker-be-arrested
-title: "Should Troy Bowker be arrested?"
-date: 2021-08-16
-source-url: https://www.scoop.co.nz/stories/PA2108/S00141/should-troy-bowker-be-arrested.htm
+title: Should Troy Bowker be arrested?
+date: 2021-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00141/should-troy-bowker-be-arrested.htm
 author: act-new-zealand
+permalink: /archive/2021/08/16/should-troy-bowker-be-arrested/index.html
+layout: layout.njk
 ---
 Should Troy Bowker be arrested?
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: nearly-one-million-post-quake-tweets-examined
-title: "Nearly one million post-quake tweets examined"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/AK1502/S00057/nearly-one-million-post-quake-tweets-examined.htm
+title: Nearly one million post-quake tweets examined
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00057/nearly-one-million-post-quake-tweets-examined.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/04/nearly-one-million-post-quake-tweets-examined/index.html
+layout: layout.njk
 ---
 Nearly one million post-quake tweets examined
 =============================================

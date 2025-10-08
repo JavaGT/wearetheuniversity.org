@@ -1,9 +1,12 @@
 ---
 slug: nationals-housing-crisis-worsens
-title: "National’s housing crisis worsens"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PA1707/S00321/nationals-housing-crisis-worsens.htm
+title: National’s housing crisis worsens
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00321/nationals-housing-crisis-worsens.htm
 author: green-party
+permalink: /archive/2017/07/21/nationals-housing-crisis-worsens/index.html
+layout: layout.njk
 ---
 National’s housing crisis worsens
 =================================

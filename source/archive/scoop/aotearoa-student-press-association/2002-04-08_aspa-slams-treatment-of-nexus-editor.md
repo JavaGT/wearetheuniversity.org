@@ -1,9 +1,12 @@
 ---
 slug: aspa-slams-treatment-of-nexus-editor
-title: "ASPA Slams Treatment Of Nexus Editor"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/ED0204/S00009/aspa-slams-treatment-of-nexus-editor.htm
+title: ASPA Slams Treatment Of Nexus Editor
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00009/aspa-slams-treatment-of-nexus-editor.htm
 author: aotearoa-student-press-association
+permalink: /archive/2002/04/08/aspa-slams-treatment-of-nexus-editor/index.html
+layout: layout.njk
 ---
 ASPA Slams Treatment Of Nexus Editor
 ====================================

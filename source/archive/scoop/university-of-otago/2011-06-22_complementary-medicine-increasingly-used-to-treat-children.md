@@ -1,9 +1,13 @@
 ---
 slug: complementary-medicine-increasingly-used-to-treat-children
-title: "Complementary medicine increasingly used to treat children"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/GE1106/S00098/complementary-medicine-increasingly-used-to-treat-children.htm
+title: Complementary medicine increasingly used to treat children
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1106/S00098/complementary-medicine-increasingly-used-to-treat-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/06/22/complementary-medicine-increasingly-used-to-treat-children/index.html
+layout: layout.njk
 ---
 Complementary medicine increasingly used to treat children
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-turei-if-not-for-the-greens-then-who
-title: "Speech: Turei - If not for the Greens, then who?"
-date: 2014-05-31
-source-url: https://www.scoop.co.nz/stories/PA1405/S00609/speech-turei-if-not-for-the-greens-then-who.htm
+title: 'Speech: Turei - If not for the Greens, then who?'
+date: 2014-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00609/speech-turei-if-not-for-the-greens-then-who.htm
 author: green-party
+permalink: /archive/2014/05/31/speech-turei-if-not-for-the-greens-then-who/index.html
+layout: layout.njk
 ---
 Speech: Turei - If not for the Greens, then who?
 ================================================

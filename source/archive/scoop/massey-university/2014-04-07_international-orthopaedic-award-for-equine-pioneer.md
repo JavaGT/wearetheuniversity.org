@@ -1,9 +1,13 @@
 ---
 slug: international-orthopaedic-award-for-equine-pioneer
-title: "International orthopaedic award for equine pioneer"
-date: 2014-04-07
-source-url: https://www.scoop.co.nz/stories/ED1404/S00033/international-orthopaedic-award-for-equine-pioneer.htm
+title: International orthopaedic award for equine pioneer
+date: 2014-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00033/international-orthopaedic-award-for-equine-pioneer.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/07/international-orthopaedic-award-for-equine-pioneer/index.html
+layout: layout.njk
 ---
 International orthopaedic award for equine pioneer
 ==================================================

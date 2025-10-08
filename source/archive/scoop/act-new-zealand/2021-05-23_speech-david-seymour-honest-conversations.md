@@ -1,9 +1,12 @@
 ---
 slug: speech-david-seymour-honest-conversations
-title: "Speech: David Seymour – Honest Conversations"
-date: 2021-05-23
-source-url: https://www.scoop.co.nz/stories/PA2105/S00206/speech-david-seymour-honest-conversations.htm
+title: 'Speech: David Seymour – Honest Conversations'
+date: 2021-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00206/speech-david-seymour-honest-conversations.htm
 author: act-new-zealand
+permalink: /archive/2021/05/23/speech-david-seymour-honest-conversations/index.html
+layout: layout.njk
 ---
 Speech: David Seymour – Honest Conversations
 ============================================

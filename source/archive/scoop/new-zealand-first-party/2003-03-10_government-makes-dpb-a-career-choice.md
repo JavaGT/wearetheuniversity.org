@@ -1,9 +1,12 @@
 ---
 slug: government-makes-dpb-a-career-choice
-title: "Government Makes Dpb A Career Choice"
-date: 2003-03-10
-source-url: https://www.scoop.co.nz/stories/PA0303/S00157/government-makes-dpb-a-career-choice.htm
+title: Government Makes Dpb A Career Choice
+date: 2003-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00157/government-makes-dpb-a-career-choice.htm
 author: new-zealand-first-party
+permalink: /archive/2003/03/10/government-makes-dpb-a-career-choice/index.html
+layout: layout.njk
 ---
 Government Makes Dpb A Career Choice
 ====================================

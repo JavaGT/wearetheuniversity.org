@@ -1,9 +1,12 @@
 ---
 slug: nzusa-welcomes-housing-big-step
-title: "NZUSA welcomes housing \"big step\""
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/PO1507/S00078/nzusa-welcomes-housing-big-step.htm
+title: NZUSA welcomes housing "big step"
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00078/nzusa-welcomes-housing-big-step.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/07/09/nzusa-welcomes-housing-big-step/index.html
+layout: layout.njk
 ---
 NZUSA welcomes housing “big step”
 =================================

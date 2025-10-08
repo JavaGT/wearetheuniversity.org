@@ -1,9 +1,14 @@
 ---
 slug: uc-launches-futureu-$7500-grants-for-businesses-employees-affected-by-covid-19
-title: "UC Launches FutureU $7500 Grants For Businesses, Employees Affected By COVID-19"
-date: 2020-05-11
-source-url: https://www.scoop.co.nz/stories/ED2005/S00022/uc-launches-futureu-7500-grants-for-businesses-employees-affected-by-covid-19.htm
+title: >-
+  UC Launches FutureU $7500 Grants For Businesses, Employees Affected By
+  COVID-19
+date: 2020-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00022/uc-launches-futureu-7500-grants-for-businesses-employees-affected-by-covid-19.htm
 author: university-of-canterbury
+permalink: /archive/2020/05/11/uc-launches-futureu-/index.html
+layout: layout.njk
 ---
 UC Launches FutureU $7500 Grants For Businesses, Employees Affected By COVID-19
 ===============================================================================

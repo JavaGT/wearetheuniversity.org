@@ -1,9 +1,12 @@
 ---
 slug: making-something-from-(almost)-nothing-in-the-icu
-title: "Making something from (almost) nothing in the ICU"
-date: 2016-04-18
-source-url: https://www.scoop.co.nz/stories/GE1604/S00060/making-something-from-almost-nothing-in-the-icu.htm
+title: Making something from (almost) nothing in the ICU
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00060/making-something-from-almost-nothing-in-the-icu.htm
 author: university-of-otago
+permalink: /archive/2016/04/18/making-something-from-/index.html
+layout: layout.njk
 ---
 Making something from (almost) nothing in the ICU
 =================================================

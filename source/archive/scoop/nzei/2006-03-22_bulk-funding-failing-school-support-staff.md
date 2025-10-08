@@ -1,9 +1,12 @@
 ---
 slug: bulk-funding-failing-school-support-staff
-title: "Bulk Funding Failing School Support Staff"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/ED0603/S00057/bulk-funding-failing-school-support-staff.htm
+title: Bulk Funding Failing School Support Staff
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00057/bulk-funding-failing-school-support-staff.htm
 author: nzei
+permalink: /archive/2006/03/22/bulk-funding-failing-school-support-staff/index.html
+layout: layout.njk
 ---
 Bulk Funding Failing School Support Staff
 =========================================

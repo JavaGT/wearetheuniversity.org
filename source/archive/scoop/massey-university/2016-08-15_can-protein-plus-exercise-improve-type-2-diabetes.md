@@ -1,9 +1,13 @@
 ---
 slug: can-protein-plus-exercise-improve-type-2-diabetes
-title: "Can protein plus exercise improve type 2 diabetes?"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/GE1608/S00058/can-protein-plus-exercise-improve-type-2-diabetes.htm
+title: Can protein plus exercise improve type 2 diabetes?
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00058/can-protein-plus-exercise-improve-type-2-diabetes.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/15/can-protein-plus-exercise-improve-type-2-diabetes/index.html
+layout: layout.njk
 ---
 Can protein plus exercise improve type 2 diabetes?
 ==================================================

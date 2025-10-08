@@ -1,9 +1,12 @@
 ---
 slug: researchers-call-for-end-to-fat-stigma
-title: "Researchers call for end to fat stigma"
-date: 2018-10-11
-source-url: https://www.scoop.co.nz/stories/PO1810/S00159/researchers-call-for-end-to-fat-stigma.htm
+title: Researchers call for end to fat stigma
+date: 2018-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00159/researchers-call-for-end-to-fat-stigma.htm
 author: university-of-otago
+permalink: /archive/2018/10/11/researchers-call-for-end-to-fat-stigma/index.html
+layout: layout.njk
 ---
 Researchers call for end to fat stigma
 ======================================

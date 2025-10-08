@@ -1,9 +1,16 @@
 ---
-slug: report-shows-urgent-need-for-overhaul-of-funding-and-support-for-education-for-disabled-children-nzei-te-riu-roa
-title: "Report Shows Urgent Need For Overhaul Of Funding And Support For Education For Disabled Children - NZEI Te Riu Roa"
-date: 2022-09-28
-source-url: https://www.scoop.co.nz/stories/ED2209/S00046/report-shows-urgent-need-for-overhaul-of-funding-and-support-for-education-for-disabled-children-nzei-te-riu-roa.htm
+slug: >-
+  report-shows-urgent-need-for-overhaul-of-funding-and-support-for-education-for-disabled-children-nzei-te-riu-roa
+title: >-
+  Report Shows Urgent Need For Overhaul Of Funding And Support For Education For
+  Disabled Children - NZEI Te Riu Roa
+date: 2022-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00046/report-shows-urgent-need-for-overhaul-of-funding-and-support-for-education-for-disabled-children-nzei-te-riu-roa.htm
 author: nzei
+permalink: >-
+  /archive/2022/09/28/report-shows-urgent-need-for-overhaul-of-funding-and-support-for-education-for-disabled-children-nzei-te-riu-roa/index.html
+layout: layout.njk
 ---
 Report Shows Urgent Need For Overhaul Of Funding And Support For Education For Disabled Children - NZEI Te Riu Roa
 ==================================================================================================================

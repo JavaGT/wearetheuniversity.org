@@ -1,9 +1,13 @@
 ---
 slug: college-of-creative-arts-affirmed-among-best-of-the-best
-title: "College of Creative Arts affirmed among Best of the Best"
-date: 2021-09-06
-source-url: https://www.scoop.co.nz/stories/ED2109/S00009/college-of-creative-arts-affirmed-among-best-of-the-best.htm
+title: College of Creative Arts affirmed among Best of the Best
+date: 2021-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00009/college-of-creative-arts-affirmed-among-best-of-the-best.htm
 author: massey-university
+permalink: >-
+  /archive/2021/09/06/college-of-creative-arts-affirmed-among-best-of-the-best/index.html
+layout: layout.njk
 ---
 College of Creative Arts affirmed among Best of the Best
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: two-massey-health-researchers-secure-over-$6m-in-hrc-funding
-title: "Two Massey Health Researchers Secure Over $6M in HRC Funding"
-date: 2017-06-15
-source-url: https://www.scoop.co.nz/stories/GE1706/S00053/two-massey-health-researchers-secure-over-6m-in-hrc-funding.htm
+title: Two Massey Health Researchers Secure Over $6M in HRC Funding
+date: 2017-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00053/two-massey-health-researchers-secure-over-6m-in-hrc-funding.htm
 author: massey-university
+permalink: /archive/2017/06/15/two-massey-health-researchers-secure-over-/index.html
+layout: layout.njk
 ---
 Two Massey Health Researchers Secure Over $6M in HRC Funding
 ============================================================

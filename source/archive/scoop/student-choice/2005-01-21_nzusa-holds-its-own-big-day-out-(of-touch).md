@@ -1,9 +1,12 @@
 ---
 slug: nzusa-holds-its-own-big-day-out-(of-touch)
-title: "NZUSA holds its own Big Day Out (of touch)"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/ED0501/S00045/nzusa-holds-its-own-big-day-out-of-touch.htm
+title: NZUSA holds its own Big Day Out (of touch)
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00045/nzusa-holds-its-own-big-day-out-of-touch.htm
 author: student-choice
+permalink: /archive/2005/01/21/nzusa-holds-its-own-big-day-out-/index.html
+layout: layout.njk
 ---
 NZUSA holds its own Big Day Out (of touch)
 ==========================================

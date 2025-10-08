@@ -1,9 +1,13 @@
 ---
 slug: universities-to-host-new-centres-of-asia-pacific-excellence
-title: "Universities to host new Centres of Asia-Pacific Excellence"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/ED1606/S00062/universities-to-host-new-centres-of-asia-pacific-excellence.htm
+title: Universities to host new Centres of Asia-Pacific Excellence
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00062/universities-to-host-new-centres-of-asia-pacific-excellence.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/06/16/universities-to-host-new-centres-of-asia-pacific-excellence/index.html
+layout: layout.njk
 ---
 Universities to host new Centres of Asia-Pacific Excellence
 ===========================================================

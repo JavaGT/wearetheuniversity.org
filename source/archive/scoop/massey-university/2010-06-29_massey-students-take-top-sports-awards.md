@@ -1,9 +1,12 @@
 ---
 slug: massey-students-take-top-sports-awards
-title: "Massey students take top sports awards"
-date: 2010-06-29
-source-url: https://www.scoop.co.nz/stories/SP1006/S00020/massey-students-take-top-sports-awards.htm
+title: Massey students take top sports awards
+date: 2010-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1006/S00020/massey-students-take-top-sports-awards.htm
 author: massey-university
+permalink: /archive/2010/06/29/massey-students-take-top-sports-awards/index.html
+layout: layout.njk
 ---
 Massey students take top sports awards
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: green-mps-write-directly-to-grand-ayatollah-khamenei-of-iran
-title: "Green MPs Write Directly To Grand Ayatollah Khamenei Of Iran"
-date: 2023-01-09
-source-url: https://www.scoop.co.nz/stories/PA2301/S00014/green-mps-write-directly-to-grand-ayatollah-khamenei-of-iran.htm
+title: Green MPs Write Directly To Grand Ayatollah Khamenei Of Iran
+date: 2023-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00014/green-mps-write-directly-to-grand-ayatollah-khamenei-of-iran.htm
 author: green-party
+permalink: >-
+  /archive/2023/01/09/green-mps-write-directly-to-grand-ayatollah-khamenei-of-iran/index.html
+layout: layout.njk
 ---
 Green MPs Write Directly To Grand Ayatollah Khamenei Of Iran
 ============================================================

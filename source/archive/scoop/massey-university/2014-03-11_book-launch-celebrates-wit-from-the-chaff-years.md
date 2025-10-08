@@ -1,9 +1,12 @@
 ---
 slug: book-launch-celebrates-wit-from-the-chaff-years
-title: "Book launch celebrates wit from the CHAFF years"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/CU1403/S00200/book-launch-celebrates-wit-from-the-chaff-years.htm
+title: Book launch celebrates wit from the CHAFF years
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00200/book-launch-celebrates-wit-from-the-chaff-years.htm
 author: massey-university
+permalink: /archive/2014/03/11/book-launch-celebrates-wit-from-the-chaff-years/index.html
+layout: layout.njk
 ---
 Book launch celebrates wit from the CHAFF years
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: full-list-of-green-mps-reallocated-policy-portfol
-title: "Full list of Green MPs' reallocated policy portfol"
-date: 2005-11-24
-source-url: https://www.scoop.co.nz/stories/PA0511/S00353/full-list-of-green-mps-reallocated-policy-portfol.htm
+title: Full list of Green MPs' reallocated policy portfol
+date: 2005-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00353/full-list-of-green-mps-reallocated-policy-portfol.htm
 author: green-party
+permalink: >-
+  /archive/2005/11/24/full-list-of-green-mps-reallocated-policy-portfol/index.html
+layout: layout.njk
 ---
 Full list of Green MPs' reallocated policy portfol
 ==================================================

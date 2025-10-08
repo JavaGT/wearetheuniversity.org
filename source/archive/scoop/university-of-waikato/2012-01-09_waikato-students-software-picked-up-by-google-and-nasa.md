@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-software-picked-up-by-google-and-nasa
-title: "Waikato student’s software picked up by Google and NASA"
-date: 2012-01-09
-source-url: https://www.scoop.co.nz/stories/ED1201/S00002/waikato-students-software-picked-up-by-google-and-nasa.htm
+title: Waikato student’s software picked up by Google and NASA
+date: 2012-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00002/waikato-students-software-picked-up-by-google-and-nasa.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/01/09/waikato-students-software-picked-up-by-google-and-nasa/index.html
+layout: layout.njk
 ---
 Waikato student’s software picked up by Google and NASA
 =======================================================

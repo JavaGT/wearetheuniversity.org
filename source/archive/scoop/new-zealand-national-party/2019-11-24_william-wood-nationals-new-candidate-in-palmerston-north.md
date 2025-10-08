@@ -1,9 +1,13 @@
 ---
 slug: william-wood-nationals-new-candidate-in-palmerston-north
-title: "William Wood National’s new candidate in Palmerston North"
-date: 2019-11-24
-source-url: https://www.scoop.co.nz/stories/PO1911/S00295/william-wood-nationals-new-candidate-in-palmerston-north.htm
+title: William Wood National’s new candidate in Palmerston North
+date: 2019-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00295/william-wood-nationals-new-candidate-in-palmerston-north.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/24/william-wood-nationals-new-candidate-in-palmerston-north/index.html
+layout: layout.njk
 ---
 William Wood National’s new candidate in Palmerston North
 =========================================================

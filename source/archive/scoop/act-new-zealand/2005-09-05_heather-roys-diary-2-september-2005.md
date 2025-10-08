@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-2-september-2005
-title: "Heather Roy's Diary 2 September 2005"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00099/heather-roys-diary-2-september-2005.htm
+title: Heather Roy's Diary 2 September 2005
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00099/heather-roys-diary-2-september-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/09/05/heather-roys-diary-2-september-2005/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary 2 September 2005
 ====================================

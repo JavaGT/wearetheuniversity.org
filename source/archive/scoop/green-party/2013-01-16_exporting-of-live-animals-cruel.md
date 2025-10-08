@@ -1,9 +1,12 @@
 ---
 slug: exporting-of-live-animals-cruel
-title: "Exporting of live animals cruel"
-date: 2013-01-16
-source-url: https://www.scoop.co.nz/stories/PA1301/S00041/exporting-of-live-animals-cruel.htm
+title: Exporting of live animals cruel
+date: 2013-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00041/exporting-of-live-animals-cruel.htm
 author: green-party
+permalink: /archive/2013/01/16/exporting-of-live-animals-cruel/index.html
+layout: layout.njk
 ---
 Exporting of live animals cruel
 ===============================

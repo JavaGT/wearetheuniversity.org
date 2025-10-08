@@ -1,9 +1,12 @@
 ---
 slug: mallards-remarks-insulting-says-donnelly
-title: "Mallard’s Remarks  Insulting - says Donnelly"
-date: 2001-11-14
-source-url: https://www.scoop.co.nz/stories/PA0111/S00268/mallards-remarks-insulting-says-donnelly.htm
+title: Mallard’s Remarks  Insulting - says Donnelly
+date: 2001-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00268/mallards-remarks-insulting-says-donnelly.htm
 author: new-zealand-first-party
+permalink: /archive/2001/11/14/mallards-remarks-insulting-says-donnelly/index.html
+layout: layout.njk
 ---
 Mallard’s Remarks Insulting - says Donnelly
 ===========================================

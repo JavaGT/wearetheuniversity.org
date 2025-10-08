@@ -1,9 +1,12 @@
 ---
 slug: road-blocked-waioeka-gorge-bay-of-plenty
-title: "Road Blocked, Waioeka Gorge - Bay Of Plenty"
-date: 2020-11-26
-source-url: https://www.scoop.co.nz/stories/AK2011/S00586/road-blocked-waioeka-gorge-bay-of-plenty.htm
+title: Road Blocked, Waioeka Gorge - Bay Of Plenty
+date: 2020-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2011/S00586/road-blocked-waioeka-gorge-bay-of-plenty.htm
 author: victoria-university-of-wellington
+permalink: /archive/2020/11/26/road-blocked-waioeka-gorge-bay-of-plenty/index.html
+layout: layout.njk
 ---
 Road Blocked, Waioeka Gorge - Bay Of Plenty
 ===========================================

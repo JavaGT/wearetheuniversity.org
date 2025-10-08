@@ -1,9 +1,13 @@
 ---
 slug: government-sitting-on-its-hands-on-trade-training-in-chch
-title: "Government sitting on its hands on trade training in Chch"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/PA1206/S00275/government-sitting-on-its-hands-on-trade-training-in-chch.htm
+title: Government sitting on its hands on trade training in Chch
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00275/government-sitting-on-its-hands-on-trade-training-in-chch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/20/government-sitting-on-its-hands-on-trade-training-in-chch/index.html
+layout: layout.njk
 ---
 Government sitting on its hands on trade training in Chch
 =========================================================

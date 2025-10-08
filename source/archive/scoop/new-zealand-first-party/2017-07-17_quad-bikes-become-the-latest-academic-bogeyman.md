@@ -1,9 +1,12 @@
 ---
 slug: quad-bikes-become-the-latest-academic-bogeyman
-title: "Quad Bikes Become the Latest Academic Bogeyman"
-date: 2017-07-17
-source-url: https://www.scoop.co.nz/stories/PA1707/S00250/quad-bikes-become-the-latest-academic-bogeyman.htm
+title: Quad Bikes Become the Latest Academic Bogeyman
+date: 2017-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00250/quad-bikes-become-the-latest-academic-bogeyman.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/17/quad-bikes-become-the-latest-academic-bogeyman/index.html
+layout: layout.njk
 ---
 Quad Bikes Become the Latest Academic Bogeyman
 ==============================================

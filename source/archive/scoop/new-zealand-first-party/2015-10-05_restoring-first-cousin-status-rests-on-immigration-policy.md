@@ -1,9 +1,13 @@
 ---
 slug: restoring-first-cousin-status-rests-on-immigration-policy
-title: "Restoring ‘First Cousin’ Status Rests on Immigration Policy"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/PA1510/S00042/restoring-first-cousin-status-rests-on-immigration-policy.htm
+title: Restoring ‘First Cousin’ Status Rests on Immigration Policy
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00042/restoring-first-cousin-status-rests-on-immigration-policy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/05/restoring-first-cousin-status-rests-on-immigration-policy/index.html
+layout: layout.njk
 ---
 Restoring ‘First Cousin’ Status Rests on Immigration Policy
 ===========================================================

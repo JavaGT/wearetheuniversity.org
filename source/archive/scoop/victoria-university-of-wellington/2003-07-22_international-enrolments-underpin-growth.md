@@ -1,9 +1,12 @@
 ---
 slug: international-enrolments-underpin-growth
-title: "International enrolments underpin  growth"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/ED0307/S00056/international-enrolments-underpin-growth.htm
+title: International enrolments underpin  growth
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00056/international-enrolments-underpin-growth.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/22/international-enrolments-underpin-growth/index.html
+layout: layout.njk
 ---
 International enrolments underpin growth
 ========================================

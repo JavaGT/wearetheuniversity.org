@@ -1,9 +1,12 @@
 ---
 slug: dealing-with-treaty-issues-crucial-for-growth
-title: "Dealing with Treaty issues crucial for growth"
-date: 2006-05-06
-source-url: https://www.scoop.co.nz/stories/PA0605/S00155/dealing-with-treaty-issues-crucial-for-growth.htm
+title: Dealing with Treaty issues crucial for growth
+date: 2006-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00155/dealing-with-treaty-issues-crucial-for-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/06/dealing-with-treaty-issues-crucial-for-growth/index.html
+layout: layout.njk
 ---
 Dealing with Treaty issues crucial for growth
 =============================================

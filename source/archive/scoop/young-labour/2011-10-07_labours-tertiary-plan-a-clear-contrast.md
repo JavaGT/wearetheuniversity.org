@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-plan-a-clear-contrast
-title: "Labour's Tertiary Plan a Clear Contrast"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/PO1110/S00117/labours-tertiary-plan-a-clear-contrast.htm
+title: Labour's Tertiary Plan a Clear Contrast
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00117/labours-tertiary-plan-a-clear-contrast.htm
 author: young-labour
+permalink: /archive/2011/10/07/labours-tertiary-plan-a-clear-contrast/index.html
+layout: layout.njk
 ---
 Labour's Tertiary Plan a Clear Contrast
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: national-and-labour-to-outline-economic-visions
-title: "National and Labour to outline economic visions"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PO1408/S00427/national-and-labour-to-outline-economic-visions.htm
+title: National and Labour to outline economic visions
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00427/national-and-labour-to-outline-economic-visions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/26/national-and-labour-to-outline-economic-visions/index.html
+layout: layout.njk
 ---
 National and Labour to outline economic visions
 ===============================================

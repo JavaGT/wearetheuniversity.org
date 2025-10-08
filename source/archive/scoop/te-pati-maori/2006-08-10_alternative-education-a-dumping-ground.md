@@ -1,9 +1,12 @@
 ---
 slug: alternative-education-a-dumping-ground
-title: "Alternative Education a dumping ground"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/PA0608/S00173/alternative-education-a-dumping-ground.htm
+title: Alternative Education a dumping ground
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00173/alternative-education-a-dumping-ground.htm
 author: te-pati-maori
+permalink: /archive/2006/08/10/alternative-education-a-dumping-ground/index.html
+layout: layout.njk
 ---
 Alternative Education a dumping ground
 ======================================

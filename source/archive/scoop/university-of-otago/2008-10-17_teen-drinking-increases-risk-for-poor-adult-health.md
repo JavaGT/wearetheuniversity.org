@@ -1,9 +1,13 @@
 ---
 slug: teen-drinking-increases-risk-for-poor-adult-health
-title: "Teen drinking increases risk for poor adult health"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/GE0810/S00082/teen-drinking-increases-risk-for-poor-adult-health.htm
+title: Teen drinking increases risk for poor adult health
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00082/teen-drinking-increases-risk-for-poor-adult-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/10/17/teen-drinking-increases-risk-for-poor-adult-health/index.html
+layout: layout.njk
 ---
 Teen drinking increases risk for poor adult health
 ==================================================

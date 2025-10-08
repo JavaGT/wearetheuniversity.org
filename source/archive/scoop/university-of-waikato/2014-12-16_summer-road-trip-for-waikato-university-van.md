@@ -1,9 +1,12 @@
 ---
 slug: summer-road-trip-for-waikato-university-van
-title: "Summer road trip for Waikato University van"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/ED1412/S00105/summer-road-trip-for-waikato-university-van.htm
+title: Summer road trip for Waikato University van
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00105/summer-road-trip-for-waikato-university-van.htm
 author: university-of-waikato
+permalink: /archive/2014/12/16/summer-road-trip-for-waikato-university-van/index.html
+layout: layout.njk
 ---
 Summer road trip for Waikato University van
 ===========================================

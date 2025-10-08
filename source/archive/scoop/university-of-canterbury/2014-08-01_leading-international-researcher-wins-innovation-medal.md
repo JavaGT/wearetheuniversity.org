@@ -1,9 +1,13 @@
 ---
 slug: leading-international-researcher-wins-innovation-medal
-title: "Leading international researcher wins Innovation Medal"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/AK1408/S00023/leading-international-researcher-wins-innovation-medal.htm
+title: Leading international researcher wins Innovation Medal
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00023/leading-international-researcher-wins-innovation-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/01/leading-international-researcher-wins-innovation-medal/index.html
+layout: layout.njk
 ---
 Leading international researcher wins Innovation Medal
 ======================================================

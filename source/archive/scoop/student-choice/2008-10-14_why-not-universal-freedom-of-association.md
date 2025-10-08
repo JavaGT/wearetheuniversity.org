@@ -1,9 +1,12 @@
 ---
 slug: why-not-universal-freedom-of-association
-title: "Why not universal freedom of association?"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/ED0810/S00049/why-not-universal-freedom-of-association.htm
+title: Why not universal freedom of association?
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00049/why-not-universal-freedom-of-association.htm
 author: student-choice
+permalink: /archive/2008/10/14/why-not-universal-freedom-of-association/index.html
+layout: layout.njk
 ---
 Why not universal freedom of association?
 =========================================

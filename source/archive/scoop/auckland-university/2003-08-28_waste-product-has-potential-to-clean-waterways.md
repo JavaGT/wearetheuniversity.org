@@ -1,9 +1,12 @@
 ---
 slug: waste-product-has-potential-to-clean-waterways
-title: "Waste Product has Potential to Clean Waterways"
-date: 2003-08-28
-source-url: https://www.scoop.co.nz/stories/ED0308/S00094/waste-product-has-potential-to-clean-waterways.htm
+title: Waste Product has Potential to Clean Waterways
+date: 2003-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00094/waste-product-has-potential-to-clean-waterways.htm
 author: auckland-university
+permalink: /archive/2003/08/28/waste-product-has-potential-to-clean-waterways/index.html
+layout: layout.njk
 ---
 Waste Product has Potential to Clean Waterways
 ==============================================

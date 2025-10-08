@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-teaching-excellence-awards-announced
-title: "University of Otago Teaching Excellence Awards Announced"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/ED1207/S00045/university-of-otago-teaching-excellence-awards-announced.htm
+title: University of Otago Teaching Excellence Awards Announced
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00045/university-of-otago-teaching-excellence-awards-announced.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/07/12/university-of-otago-teaching-excellence-awards-announced/index.html
+layout: layout.njk
 ---
 University of Otago Teaching Excellence Awards Announced
 ========================================================

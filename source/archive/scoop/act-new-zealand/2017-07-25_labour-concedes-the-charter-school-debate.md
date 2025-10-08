@@ -1,9 +1,12 @@
 ---
 slug: labour-concedes-the-charter-school-debate
-title: "Labour concedes the charter school debate"
-date: 2017-07-25
-source-url: https://www.scoop.co.nz/stories/PA1707/S00362/labour-concedes-the-charter-school-debate.htm
+title: Labour concedes the charter school debate
+date: 2017-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00362/labour-concedes-the-charter-school-debate.htm
 author: act-new-zealand
+permalink: /archive/2017/07/25/labour-concedes-the-charter-school-debate/index.html
+layout: layout.njk
 ---
 Labour concedes the charter school debate
 =========================================

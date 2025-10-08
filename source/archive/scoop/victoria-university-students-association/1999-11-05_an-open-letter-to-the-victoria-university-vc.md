@@ -1,9 +1,12 @@
 ---
 slug: an-open-letter-to-the-victoria-university-vc
-title: "An Open Letter to the Victoria University VC"
-date: 1999-11-05
-source-url: https://www.scoop.co.nz/stories/BU9911/S00020/an-open-letter-to-the-victoria-university-vc.htm
+title: An Open Letter to the Victoria University VC
+date: 1999-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU9911/S00020/an-open-letter-to-the-victoria-university-vc.htm
 author: victoria-university-students-association
+permalink: /archive/1999/11/05/an-open-letter-to-the-victoria-university-vc/index.html
+layout: layout.njk
 ---
 An Open Letter to the Victoria University VC
 ============================================

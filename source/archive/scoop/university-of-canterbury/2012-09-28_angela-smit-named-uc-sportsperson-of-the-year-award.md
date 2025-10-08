@@ -1,9 +1,13 @@
 ---
 slug: angela-smit-named-uc-sportsperson-of-the-year-award
-title: "Angela Smit named UC sportsperson of the year award"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/CU1209/S00528/angela-smit-named-uc-sportsperson-of-the-year-award.htm
+title: Angela Smit named UC sportsperson of the year award
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1209/S00528/angela-smit-named-uc-sportsperson-of-the-year-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/28/angela-smit-named-uc-sportsperson-of-the-year-award/index.html
+layout: layout.njk
 ---
 Angela Smit named UC sportsperson of the year award
 ===================================================

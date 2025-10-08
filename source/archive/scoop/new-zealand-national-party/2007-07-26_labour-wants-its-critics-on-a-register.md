@@ -1,9 +1,12 @@
 ---
 slug: labour-wants-its-critics-on-a-register
-title: "Labour wants its critics on a register"
-date: 2007-07-26
-source-url: https://www.scoop.co.nz/stories/PA0707/S00466/labour-wants-its-critics-on-a-register.htm
+title: Labour wants its critics on a register
+date: 2007-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00466/labour-wants-its-critics-on-a-register.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/26/labour-wants-its-critics-on-a-register/index.html
+layout: layout.njk
 ---
 Labour wants its critics on a register
 ======================================

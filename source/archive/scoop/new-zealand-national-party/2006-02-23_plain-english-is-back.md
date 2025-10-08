@@ -1,9 +1,11 @@
 ---
 slug: plain-english-is-back
-title: "Plain English is back"
-date: 2006-02-23
+title: Plain English is back
+date: 2006-02-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00374/plain-english-is-back.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/23/plain-english-is-back/index.html
+layout: layout.njk
 ---
 Plain English is back
 =====================

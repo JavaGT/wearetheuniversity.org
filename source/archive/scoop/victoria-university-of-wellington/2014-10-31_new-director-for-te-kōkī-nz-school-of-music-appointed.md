@@ -1,9 +1,12 @@
 ---
 slug: new-director-for-te-kōkī-nz-school-of-music-appointed
-title: "New Director for Te Kōkī NZ School of Music appointed"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/ED1410/S00169/new-director-for-te-koki-nz-school-of-music-appointed.htm
+title: New Director for Te Kōkī NZ School of Music appointed
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00169/new-director-for-te-koki-nz-school-of-music-appointed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/31/new-director-for-te-k/index.html
+layout: layout.njk
 ---
 New Director for Te Kōkī NZ School of Music appointed
 =====================================================

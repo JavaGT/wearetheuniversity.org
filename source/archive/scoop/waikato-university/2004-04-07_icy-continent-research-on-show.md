@@ -1,9 +1,12 @@
 ---
 slug: icy-continent-research-on-show
-title: "Icy continent research on show"
-date: 2004-04-07
-source-url: https://www.scoop.co.nz/stories/SC0404/S00023/icy-continent-research-on-show.htm
+title: Icy continent research on show
+date: 2004-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0404/S00023/icy-continent-research-on-show.htm
 author: waikato-university
+permalink: /archive/2004/04/07/icy-continent-research-on-show/index.html
+layout: layout.njk
 ---
 Icy continent research on show
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: labours-law-ensured-local-election-debacle
-title: "Labour's law ensured local election debacle"
-date: 2004-10-12
-source-url: https://www.scoop.co.nz/stories/PA0410/S00209/labours-law-ensured-local-election-debacle.htm
+title: Labour's law ensured local election debacle
+date: 2004-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00209/labours-law-ensured-local-election-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/12/labours-law-ensured-local-election-debacle/index.html
+layout: layout.njk
 ---
 Labour's law ensured local election debacle
 ===========================================

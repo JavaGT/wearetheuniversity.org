@@ -1,9 +1,11 @@
 ---
 slug: dance-routine-sould-out!
-title: "Dance Routine -  Soul’d Out!"
-date: 2003-11-13
+title: Dance Routine -  Soul’d Out!
+date: 2003-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0311/S00077/dance-routine-sould-out.htm
 author: aut-university
+permalink: /archive/2003/11/13/dance-routine-sould-out/index.html
+layout: layout.njk
 ---
 Dance Routine - Soul’d Out!
 ===========================

@@ -1,9 +1,11 @@
 ---
 slug: mccully-co-nz-24-june-2005
-title: "McCully.co.nz 24 June 2005"
-date: 2005-06-24
+title: McCully.co.nz 24 June 2005
+date: 2005-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00613/mccullyconz-24-june-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/24/mccully-co-nz-24-june-2005/index.html
+layout: layout.njk
 ---
 McCully.co.nz 24 June 2005
 ==========================

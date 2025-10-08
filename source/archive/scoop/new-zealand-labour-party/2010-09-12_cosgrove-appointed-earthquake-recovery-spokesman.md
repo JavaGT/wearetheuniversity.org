@@ -1,9 +1,13 @@
 ---
 slug: cosgrove-appointed-earthquake-recovery-spokesman
-title: "Cosgrove Appointed Earthquake Recovery Spokesman"
-date: 2010-09-12
-source-url: https://www.scoop.co.nz/stories/PA1009/S00191/cosgrove-appointed-earthquake-recovery-spokesman.htm
+title: Cosgrove Appointed Earthquake Recovery Spokesman
+date: 2010-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00191/cosgrove-appointed-earthquake-recovery-spokesman.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/12/cosgrove-appointed-earthquake-recovery-spokesman/index.html
+layout: layout.njk
 ---
 Cosgrove Appointed Earthquake Recovery Spokesman
 ================================================

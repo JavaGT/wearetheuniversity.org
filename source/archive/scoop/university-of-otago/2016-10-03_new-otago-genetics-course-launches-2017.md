@@ -1,9 +1,12 @@
 ---
 slug: new-otago-genetics-course-launches-2017
-title: "New Otago genetics course launches 2017"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/ED1610/S00003/new-otago-genetics-course-launches-2017.htm
+title: New Otago genetics course launches 2017
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00003/new-otago-genetics-course-launches-2017.htm
 author: university-of-otago
+permalink: /archive/2016/10/03/new-otago-genetics-course-launches-2017/index.html
+layout: layout.njk
 ---
 New Otago genetics course launches 2017
 =======================================

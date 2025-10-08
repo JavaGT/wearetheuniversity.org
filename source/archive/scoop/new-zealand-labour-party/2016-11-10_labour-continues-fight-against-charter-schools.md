@@ -1,9 +1,12 @@
 ---
 slug: labour-continues-fight-against-charter-schools
-title: "Labour continues fight against Charter schools"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/PA1611/S00214/labour-continues-fight-against-charter-schools.htm
+title: Labour continues fight against Charter schools
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00214/labour-continues-fight-against-charter-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/10/labour-continues-fight-against-charter-schools/index.html
+layout: layout.njk
 ---
 Labour continues fight against Charter schools
 ==============================================

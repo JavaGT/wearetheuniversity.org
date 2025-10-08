@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-slip-in-qs-world-university-subject-rankings
-title: "NZ universities slip in QS World University Subject rankings"
-date: 2019-02-27
-source-url: https://www.scoop.co.nz/stories/ED1902/S00089/nz-universities-slip-in-qs-world-university-subject-rankings.htm
+title: NZ universities slip in QS World University Subject rankings
+date: 2019-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00089/nz-universities-slip-in-qs-world-university-subject-rankings.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/02/27/nz-universities-slip-in-qs-world-university-subject-rankings/index.html
+layout: layout.njk
 ---
 NZ universities slip in QS World University Subject rankings
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: sociologist-to-receive-highest-honour-at-massey-graduation
-title: "Sociologist to Receive Highest Honour at Massey Graduation"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/ED1711/S00085/sociologist-to-receive-highest-honour-at-massey-graduation.htm
+title: Sociologist to Receive Highest Honour at Massey Graduation
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00085/sociologist-to-receive-highest-honour-at-massey-graduation.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/22/sociologist-to-receive-highest-honour-at-massey-graduation/index.html
+layout: layout.njk
 ---
 Sociologist to Receive Highest Honour at Massey Graduation
 ==========================================================

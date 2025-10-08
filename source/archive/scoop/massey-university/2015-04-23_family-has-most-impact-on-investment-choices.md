@@ -1,9 +1,12 @@
 ---
 slug: family-has-most-impact-on-investment-choices
-title: "Family has most impact on investment choices"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/ED1504/S00064/family-has-most-impact-on-investment-choices.htm
+title: Family has most impact on investment choices
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00064/family-has-most-impact-on-investment-choices.htm
 author: massey-university
+permalink: /archive/2015/04/23/family-has-most-impact-on-investment-choices/index.html
+layout: layout.njk
 ---
 Family has most impact on investment choices
 ============================================

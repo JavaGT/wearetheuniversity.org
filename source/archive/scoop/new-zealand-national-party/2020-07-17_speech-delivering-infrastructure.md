@@ -1,9 +1,12 @@
 ---
 slug: speech-delivering-infrastructure
-title: "SPEECH: Delivering Infrastructure"
-date: 2020-07-17
-source-url: https://www.scoop.co.nz/stories/PA2007/S00159/speech-delivering-infrastructure.htm
+title: 'SPEECH: Delivering Infrastructure'
+date: 2020-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00159/speech-delivering-infrastructure.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/17/speech-delivering-infrastructure/index.html
+layout: layout.njk
 ---
 SPEECH: Delivering Infrastructure
 =================================

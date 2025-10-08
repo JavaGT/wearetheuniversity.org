@@ -1,9 +1,12 @@
 ---
 slug: new-role-will-support-mäori-doctoral-candidates
-title: "New role will support Mäori doctoral candidates"
-date: 2009-01-13
-source-url: https://www.scoop.co.nz/stories/ED0901/S00014/new-role-will-support-maori-doctoral-candidates.htm
+title: New role will support Mäori doctoral candidates
+date: 2009-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00014/new-role-will-support-maori-doctoral-candidates.htm
 author: massey-university
+permalink: /archive/2009/01/13/new-role-will-support-m/index.html
+layout: layout.njk
 ---
 New role will support Mäori doctoral candidates
 ===============================================

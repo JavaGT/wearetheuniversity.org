@@ -1,9 +1,12 @@
 ---
 slug: university-women-demand-more-rights-for-women
-title: "University women demand more rights for women"
-date: 2001-03-05
-source-url: https://www.scoop.co.nz/stories/PO0103/S00019/university-women-demand-more-rights-for-women.htm
+title: University women demand more rights for women
+date: 2001-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00019/university-women-demand-more-rights-for-women.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/05/university-women-demand-more-rights-for-women/index.html
+layout: layout.njk
 ---
 University women demand more rights for women
 =============================================

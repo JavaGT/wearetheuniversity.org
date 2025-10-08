@@ -1,9 +1,13 @@
 ---
 slug: new-onefarm-website-offers-enhanced-online-content
-title: "New OneFarm website offers enhanced online content"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/BU1302/S00379/new-onefarm-website-offers-enhanced-online-content.htm
+title: New OneFarm website offers enhanced online content
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1302/S00379/new-onefarm-website-offers-enhanced-online-content.htm
 author: massey-university
+permalink: >-
+  /archive/2013/02/12/new-onefarm-website-offers-enhanced-online-content/index.html
+layout: layout.njk
 ---
 New OneFarm website offers enhanced online content
 ==================================================

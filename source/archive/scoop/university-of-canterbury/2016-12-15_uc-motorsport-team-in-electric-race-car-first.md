@@ -1,9 +1,12 @@
 ---
 slug: uc-motorsport-team-in-electric-race-car-first
-title: "UC Motorsport team in electric race car first"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/CU1612/S00258/uc-motorsport-team-in-electric-race-car-first.htm
+title: UC Motorsport team in electric race car first
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00258/uc-motorsport-team-in-electric-race-car-first.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/15/uc-motorsport-team-in-electric-race-car-first/index.html
+layout: layout.njk
 ---
 UC Motorsport team in electric race car first
 =============================================

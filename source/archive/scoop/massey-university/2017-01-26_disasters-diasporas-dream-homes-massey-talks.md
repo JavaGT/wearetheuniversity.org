@@ -1,9 +1,12 @@
 ---
 slug: disasters-diasporas-dream-homes-massey-talks
-title: "Disasters, diasporas, dream homes – Massey talks"
-date: 2017-01-26
-source-url: https://www.scoop.co.nz/stories/ED1701/S00046/disasters-diasporas-dream-homes-massey-talks.htm
+title: Disasters, diasporas, dream homes – Massey talks
+date: 2017-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00046/disasters-diasporas-dream-homes-massey-talks.htm
 author: massey-university
+permalink: /archive/2017/01/26/disasters-diasporas-dream-homes-massey-talks/index.html
+layout: layout.njk
 ---
 Disasters, diasporas, dream homes – Massey talks
 ================================================

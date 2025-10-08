@@ -1,9 +1,12 @@
 ---
 slug: beehive-banner-drop-highlights-crippling-debt
-title: "Beehive Banner Drop Highlights Crippling Debt"
-date: 1999-11-24
-source-url: https://www.scoop.co.nz/stories/ED9911/S00048/beehive-banner-drop-highlights-crippling-debt.htm
+title: Beehive Banner Drop Highlights Crippling Debt
+date: 1999-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9911/S00048/beehive-banner-drop-highlights-crippling-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/11/24/beehive-banner-drop-highlights-crippling-debt/index.html
+layout: layout.njk
 ---
 Beehive Banner Drop Highlights Crippling Debt
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: activists-and-academics-intersect-at-sustainability-awards
-title: "Activists and academics intersect at Sustainability Awards"
-date: 2019-10-02
-source-url: https://www.scoop.co.nz/stories/SC1910/S00005/activists-and-academics-intersect-at-sustainability-awards.htm
+title: Activists and academics intersect at Sustainability Awards
+date: 2019-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00005/activists-and-academics-intersect-at-sustainability-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/02/activists-and-academics-intersect-at-sustainability-awards/index.html
+layout: layout.njk
 ---
 Activists and academics intersect at Sustainability Awards
 ==========================================================

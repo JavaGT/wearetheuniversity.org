@@ -1,9 +1,12 @@
 ---
 slug: public-meeting-on-changes-to-sale-of-liquor-act
-title: "Public Meeting on changes to Sale of Liquor Act"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/PA0906/S00093/public-meeting-on-changes-to-sale-of-liquor-act.htm
+title: Public Meeting on changes to Sale of Liquor Act
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00093/public-meeting-on-changes-to-sale-of-liquor-act.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/08/public-meeting-on-changes-to-sale-of-liquor-act/index.html
+layout: layout.njk
 ---
 Public Meeting on changes to Sale of Liquor Act
 ===============================================

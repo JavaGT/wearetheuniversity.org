@@ -1,9 +1,12 @@
 ---
 slug: research-few-children-receive-a-healthy-lunch
-title: "Research: few children receive a healthy lunch"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/GE0711/S00066/research-few-children-receive-a-healthy-lunch.htm
+title: 'Research: few children receive a healthy lunch'
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00066/research-few-children-receive-a-healthy-lunch.htm
 author: massey-university
+permalink: /archive/2007/11/12/research-few-children-receive-a-healthy-lunch/index.html
+layout: layout.njk
 ---
 Research: few children receive a healthy lunch
 ==============================================

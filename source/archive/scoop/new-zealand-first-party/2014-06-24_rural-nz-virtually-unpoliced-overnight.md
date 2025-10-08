@@ -1,9 +1,12 @@
 ---
 slug: rural-nz-virtually-unpoliced-overnight
-title: "Rural NZ Virtually Unpoliced Overnight"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/PA1406/S00372/rural-nz-virtually-unpoliced-overnight.htm
+title: Rural NZ Virtually Unpoliced Overnight
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00372/rural-nz-virtually-unpoliced-overnight.htm
 author: new-zealand-first-party
+permalink: /archive/2014/06/24/rural-nz-virtually-unpoliced-overnight/index.html
+layout: layout.njk
 ---
 Rural NZ Virtually Unpoliced Overnight
 ======================================

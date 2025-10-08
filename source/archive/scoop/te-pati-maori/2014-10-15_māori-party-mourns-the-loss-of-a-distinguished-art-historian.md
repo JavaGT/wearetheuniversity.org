@@ -1,9 +1,12 @@
 ---
 slug: māori-party-mourns-the-loss-of-a-distinguished-art-historian
-title: "Māori Party mourns the loss of a distinguished art historian"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/PA1410/S00075/maori-party-mourns-the-loss-of-a-distinguished-art-historian.htm
+title: Māori Party mourns the loss of a distinguished art historian
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00075/maori-party-mourns-the-loss-of-a-distinguished-art-historian.htm
 author: te-pati-maori
+permalink: /archive/2014/10/15/m/index.html
+layout: layout.njk
 ---
 Māori Party mourns the loss of a distinguished art historian
 ============================================================

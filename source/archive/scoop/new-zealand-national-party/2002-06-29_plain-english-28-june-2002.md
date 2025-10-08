@@ -1,9 +1,11 @@
 ---
 slug: plain-english-28-june-2002
-title: "Plain English  -  28 June 2002"
-date: 2002-06-29
+title: Plain English  -  28 June 2002
+date: 2002-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00554/plain-english-28-june-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/29/plain-english-28-june-2002/index.html
+layout: layout.njk
 ---
 Plain English - 28 June 2002
 ============================

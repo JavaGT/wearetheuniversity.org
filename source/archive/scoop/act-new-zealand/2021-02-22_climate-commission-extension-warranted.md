@@ -1,9 +1,12 @@
 ---
 slug: climate-commission-extension-warranted
-title: "Climate Commission Extension Warranted"
-date: 2021-02-22
-source-url: https://www.scoop.co.nz/stories/PA2102/S00117/climate-commission-extension-warranted.htm
+title: Climate Commission Extension Warranted
+date: 2021-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00117/climate-commission-extension-warranted.htm
 author: act-new-zealand
+permalink: /archive/2021/02/22/climate-commission-extension-warranted/index.html
+layout: layout.njk
 ---
 Climate Commission Extension Warranted
 ======================================

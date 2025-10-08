@@ -1,9 +1,13 @@
 ---
 slug: national-mixes-experience-and-new-talent-in-2014-list
-title: "National mixes experience and new talent in 2014 list"
-date: 2014-07-27
-source-url: https://www.scoop.co.nz/stories/PA1407/S00523/national-mixes-experience-and-new-talent-in-2014-list.htm
+title: National mixes experience and new talent in 2014 list
+date: 2014-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00523/national-mixes-experience-and-new-talent-in-2014-list.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/07/27/national-mixes-experience-and-new-talent-in-2014-list/index.html
+layout: layout.njk
 ---
 National mixes experience and new talent in 2014 list
 =====================================================

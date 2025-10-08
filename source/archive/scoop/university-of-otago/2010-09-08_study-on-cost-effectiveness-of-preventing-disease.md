@@ -1,9 +1,13 @@
 ---
 slug: study-on-cost-effectiveness-of-preventing-disease
-title: "Study on cost-effectiveness of preventing disease"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/GE1009/S00037/study-on-cost-effectiveness-of-preventing-disease.htm
+title: Study on cost-effectiveness of preventing disease
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00037/study-on-cost-effectiveness-of-preventing-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/09/08/study-on-cost-effectiveness-of-preventing-disease/index.html
+layout: layout.njk
 ---
 Study on cost-effectiveness of preventing disease
 =================================================

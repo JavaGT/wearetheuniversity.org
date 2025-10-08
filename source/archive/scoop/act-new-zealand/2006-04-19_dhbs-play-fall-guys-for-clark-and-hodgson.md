@@ -1,9 +1,12 @@
 ---
 slug: dhbs-play-fall-guys-for-clark-and-hodgson
-title: "DHBs Play \"Fall Guys\" For Clark And Hodgson"
-date: 2006-04-19
-source-url: https://www.scoop.co.nz/stories/PA0604/S00297/dhbs-play-fall-guys-for-clark-and-hodgson.htm
+title: DHBs Play "Fall Guys" For Clark And Hodgson
+date: 2006-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00297/dhbs-play-fall-guys-for-clark-and-hodgson.htm
 author: act-new-zealand
+permalink: /archive/2006/04/19/dhbs-play-fall-guys-for-clark-and-hodgson/index.html
+layout: layout.njk
 ---
 DHBs Play "Fall Guys" For Clark And Hodgson
 ===========================================

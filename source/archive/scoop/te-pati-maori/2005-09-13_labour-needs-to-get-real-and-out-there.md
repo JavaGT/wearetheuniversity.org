@@ -1,9 +1,12 @@
 ---
 slug: labour-needs-to-get-real-and-out-there
-title: "Labour needs to get real and out there"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00351/labour-needs-to-get-real-and-out-there.htm
+title: Labour needs to get real and out there
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00351/labour-needs-to-get-real-and-out-there.htm
 author: te-pati-maori
+permalink: /archive/2005/09/13/labour-needs-to-get-real-and-out-there/index.html
+layout: layout.njk
 ---
 Labour needs to get real and out there
 ======================================

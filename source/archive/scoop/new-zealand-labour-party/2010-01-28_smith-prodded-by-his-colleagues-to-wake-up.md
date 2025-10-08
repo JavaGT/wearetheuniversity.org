@@ -1,9 +1,12 @@
 ---
 slug: smith-prodded-by-his-colleagues-to-wake-up
-title: "Smith prodded by his colleagues to ‘wake up’"
-date: 2010-01-28
-source-url: https://www.scoop.co.nz/stories/PA1001/S00132/smith-prodded-by-his-colleagues-to-wake-up.htm
+title: Smith prodded by his colleagues to ‘wake up’
+date: 2010-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00132/smith-prodded-by-his-colleagues-to-wake-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/28/smith-prodded-by-his-colleagues-to-wake-up/index.html
+layout: layout.njk
 ---
 Smith prodded by his colleagues to ‘wake up’
 ============================================

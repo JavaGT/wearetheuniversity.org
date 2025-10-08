@@ -1,9 +1,12 @@
 ---
 slug: nzs-grim-marine-bycatch-toll-under-spotlight
-title: "NZ's Grim Marine Bycatch Toll Under Spotlight"
-date: 2009-10-27
-source-url: https://www.scoop.co.nz/stories/PO0910/S00383/nzs-grim-marine-bycatch-toll-under-spotlight.htm
+title: NZ's Grim Marine Bycatch Toll Under Spotlight
+date: 2009-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00383/nzs-grim-marine-bycatch-toll-under-spotlight.htm
 author: university-of-otago
+permalink: /archive/2009/10/27/nzs-grim-marine-bycatch-toll-under-spotlight/index.html
+layout: layout.njk
 ---
 NZ's Grim Marine Bycatch Toll Under Spotlight
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: six-months-paid-parental-leave-back-on-the-agenda
-title: "Six months’ paid parental leave back on the agenda"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/PA1507/S00383/six-months-paid-parental-leave-back-on-the-agenda.htm
+title: Six months’ paid parental leave back on the agenda
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00383/six-months-paid-parental-leave-back-on-the-agenda.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/23/six-months-paid-parental-leave-back-on-the-agenda/index.html
+layout: layout.njk
 ---
 Six months’ paid parental leave back on the agenda
 ==================================================

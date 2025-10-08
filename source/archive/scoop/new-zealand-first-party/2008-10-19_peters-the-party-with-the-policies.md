@@ -1,9 +1,12 @@
 ---
 slug: peters-the-party-with-the-policies
-title: "Peters: The Party With The Policies"
-date: 2008-10-19
-source-url: https://www.scoop.co.nz/stories/PA0810/S00436/peters-the-party-with-the-policies.htm
+title: 'Peters: The Party With The Policies'
+date: 2008-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00436/peters-the-party-with-the-policies.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/19/peters-the-party-with-the-policies/index.html
+layout: layout.njk
 ---
 Peters: The Party With The Policies
 ===================================

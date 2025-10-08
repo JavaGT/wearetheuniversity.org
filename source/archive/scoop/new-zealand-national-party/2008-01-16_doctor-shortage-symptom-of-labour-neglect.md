@@ -1,9 +1,12 @@
 ---
 slug: doctor-shortage-symptom-of-labour-neglect
-title: "Doctor shortage symptom of Labour neglect"
-date: 2008-01-16
-source-url: https://www.scoop.co.nz/stories/PA0801/S00105/doctor-shortage-symptom-of-labour-neglect.htm
+title: Doctor shortage symptom of Labour neglect
+date: 2008-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00105/doctor-shortage-symptom-of-labour-neglect.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/16/doctor-shortage-symptom-of-labour-neglect/index.html
+layout: layout.njk
 ---
 Doctor shortage symptom of Labour neglect
 =========================================

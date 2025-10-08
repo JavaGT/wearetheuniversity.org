@@ -1,9 +1,12 @@
 ---
 slug: the-mechanics-of-a-parkour-landing
-title: "The mechanics of a parkour landing"
-date: 2018-03-26
-source-url: https://www.scoop.co.nz/stories/ED1803/S00079/the-mechanics-of-a-parkour-landing.htm
+title: The mechanics of a parkour landing
+date: 2018-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00079/the-mechanics-of-a-parkour-landing.htm
 author: massey-university
+permalink: /archive/2018/03/26/the-mechanics-of-a-parkour-landing/index.html
+layout: layout.njk
 ---
 The mechanics of a parkour landing
 ==================================

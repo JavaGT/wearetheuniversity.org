@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-steffan-browning
-title: "Maiden Speech - Steffan Browning"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00178/maiden-speech-steffan-browning.htm
+title: Maiden Speech - Steffan Browning
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00178/maiden-speech-steffan-browning.htm
 author: green-party
+permalink: /archive/2012/02/15/maiden-speech-steffan-browning/index.html
+layout: layout.njk
 ---
 Maiden Speech - Steffan Browning
 ================================

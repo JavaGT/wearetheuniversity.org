@@ -1,9 +1,12 @@
 ---
 slug: youngest-magic-player-a-waikato-uni-scholar
-title: "Youngest Magic player a Waikato Uni Scholar"
-date: 2010-03-03
-source-url: https://www.scoop.co.nz/stories/ED1003/S00015/youngest-magic-player-a-waikato-uni-scholar.htm
+title: Youngest Magic player a Waikato Uni Scholar
+date: 2010-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00015/youngest-magic-player-a-waikato-uni-scholar.htm
 author: university-of-waikato
+permalink: /archive/2010/03/03/youngest-magic-player-a-waikato-uni-scholar/index.html
+layout: layout.njk
 ---
 Youngest Magic player a Waikato Uni Scholar
 ===========================================

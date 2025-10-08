@@ -1,9 +1,13 @@
 ---
 slug: new-recommendations-on-flying-drones-over-marine-animals
-title: "New recommendations on flying drones over marine animals"
-date: 2019-07-10
-source-url: https://www.scoop.co.nz/stories/SC1907/S00020/new-recommendations-on-flying-drones-over-marine-animals.htm
+title: New recommendations on flying drones over marine animals
+date: 2019-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1907/S00020/new-recommendations-on-flying-drones-over-marine-animals.htm
 author: aut-university
+permalink: >-
+  /archive/2019/07/10/new-recommendations-on-flying-drones-over-marine-animals/index.html
+layout: layout.njk
 ---
 New recommendations on flying drones over marine animals
 ========================================================

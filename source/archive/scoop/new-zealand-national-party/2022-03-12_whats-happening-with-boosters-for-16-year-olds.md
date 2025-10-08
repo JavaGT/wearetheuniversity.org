@@ -1,9 +1,12 @@
 ---
 slug: whats-happening-with-boosters-for-16-year-olds
-title: "What’s Happening With Boosters For 16 Year Olds?"
-date: 2022-03-12
-source-url: https://www.scoop.co.nz/stories/PA2203/S00095/whats-happening-with-boosters-for-16-year-olds.htm
+title: What’s Happening With Boosters For 16 Year Olds?
+date: 2022-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00095/whats-happening-with-boosters-for-16-year-olds.htm
 author: new-zealand-national-party
+permalink: /archive/2022/03/12/whats-happening-with-boosters-for-16-year-olds/index.html
+layout: layout.njk
 ---
 What’s Happening With Boosters For 16 Year Olds?
 ================================================

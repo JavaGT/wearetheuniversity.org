@@ -1,9 +1,12 @@
 ---
 slug: getting-ahead-with-lower-taxes
-title: "Getting Ahead With Lower Taxes"
-date: 2004-12-10
-source-url: https://www.scoop.co.nz/stories/PA0412/S00268/getting-ahead-with-lower-taxes.htm
+title: Getting Ahead With Lower Taxes
+date: 2004-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00268/getting-ahead-with-lower-taxes.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/10/getting-ahead-with-lower-taxes/index.html
+layout: layout.njk
 ---
 Getting Ahead With Lower Taxes
 ==============================

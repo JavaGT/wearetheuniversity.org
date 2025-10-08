@@ -1,8 +1,12 @@
 ---
 slug: applications-for-admission-for-semester-one-2012-close-on-8-december
-title: "Applications for admission for semester one 2012 close on 8 December"
-date: 2011-12-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/12/02/Applications-for-admission-for-semester-one-2012-close-on-8-December.html
+title: Applications for admission for semester one 2012 close on 8 December
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/12/02/Applications-for-admission-for-semester-one-2012-close-on-8-December.html
+permalink: >-
+  /archive/2011/12/02/applications-for-admission-for-semester-one-2012-close-on-8-december/index.html
+layout: layout.njk
 ---
 Applications for admission for semester one 2012 close on 8 December
 ====================================================================

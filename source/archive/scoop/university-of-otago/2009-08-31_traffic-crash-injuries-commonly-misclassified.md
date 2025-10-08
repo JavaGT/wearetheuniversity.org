@@ -1,9 +1,12 @@
 ---
 slug: traffic-crash-injuries-commonly-misclassified
-title: "Traffic Crash Injuries Commonly Misclassified"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/GE0908/S00141/traffic-crash-injuries-commonly-misclassified.htm
+title: Traffic Crash Injuries Commonly Misclassified
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00141/traffic-crash-injuries-commonly-misclassified.htm
 author: university-of-otago
+permalink: /archive/2009/08/31/traffic-crash-injuries-commonly-misclassified/index.html
+layout: layout.njk
 ---
 Traffic Crash Injuries Commonly Misclassified
 =============================================

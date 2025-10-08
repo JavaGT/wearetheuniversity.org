@@ -1,9 +1,12 @@
 ---
 slug: govt-must-fix-rma-rather-than-pick-favourites
-title: "Govt must fix RMA rather than pick favourites"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/PA0309/S00475/govt-must-fix-rma-rather-than-pick-favourites.htm
+title: Govt must fix RMA rather than pick favourites
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00475/govt-must-fix-rma-rather-than-pick-favourites.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/22/govt-must-fix-rma-rather-than-pick-favourites/index.html
+layout: layout.njk
 ---
 Govt must fix RMA rather than pick favourites
 =============================================

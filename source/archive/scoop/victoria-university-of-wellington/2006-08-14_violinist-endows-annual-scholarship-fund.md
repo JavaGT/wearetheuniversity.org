@@ -1,9 +1,12 @@
 ---
 slug: violinist-endows-annual-scholarship-fund
-title: "Violinist endows annual scholarship fund"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/CU0608/S00132/violinist-endows-annual-scholarship-fund.htm
+title: Violinist endows annual scholarship fund
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00132/violinist-endows-annual-scholarship-fund.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/14/violinist-endows-annual-scholarship-fund/index.html
+layout: layout.njk
 ---
 Violinist endows annual scholarship fund
 ========================================

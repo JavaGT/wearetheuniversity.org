@@ -1,9 +1,12 @@
 ---
 slug: nash-rorting-kiwis-should-be-put-on-notice
-title: "Nash: Rorting Kiwis should be put on notice"
-date: 2010-01-21
-source-url: https://www.scoop.co.nz/stories/PA1001/S00084/nash-rorting-kiwis-should-be-put-on-notice.htm
+title: 'Nash: Rorting Kiwis should be put on notice'
+date: 2010-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00084/nash-rorting-kiwis-should-be-put-on-notice.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/21/nash-rorting-kiwis-should-be-put-on-notice/index.html
+layout: layout.njk
 ---
 Nash: Rorting Kiwis should be put on notice
 ===========================================

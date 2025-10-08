@@ -1,9 +1,11 @@
 ---
 slug: wowing-children-with-science
-title: "Wowing children with science"
-date: 2005-06-22
+title: Wowing children with science
+date: 2005-06-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0506/S00046/wowing-children-with-science.htm
 author: auckland-university
+permalink: /archive/2005/06/22/wowing-children-with-science/index.html
+layout: layout.njk
 ---
 Wowing children with science
 ============================

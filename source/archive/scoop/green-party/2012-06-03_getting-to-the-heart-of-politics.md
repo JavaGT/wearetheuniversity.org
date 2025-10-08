@@ -1,9 +1,12 @@
 ---
 slug: getting-to-the-heart-of-politics
-title: "Getting to the Heart of Politics"
-date: 2012-06-03
-source-url: https://www.scoop.co.nz/stories/PA1206/S00024/getting-to-the-heart-of-politics.htm
+title: Getting to the Heart of Politics
+date: 2012-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00024/getting-to-the-heart-of-politics.htm
 author: green-party
+permalink: /archive/2012/06/03/getting-to-the-heart-of-politics/index.html
+layout: layout.njk
 ---
 Getting to the Heart of Politics
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-forest-industry-heading-for-a-crash
-title: "NZ Forest Industry Heading for a Crash"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/PA1607/S00375/nz-forest-industry-heading-for-a-crash.htm
+title: NZ Forest Industry Heading for a Crash
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00375/nz-forest-industry-heading-for-a-crash.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/27/nz-forest-industry-heading-for-a-crash/index.html
+layout: layout.njk
 ---
 NZ Forest Industry Heading for a Crash
 ======================================

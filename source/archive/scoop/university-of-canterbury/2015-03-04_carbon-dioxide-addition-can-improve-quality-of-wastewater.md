@@ -1,9 +1,13 @@
 ---
 slug: carbon-dioxide-addition-can-improve-quality-of-wastewater
-title: "Carbon dioxide addition can improve quality of wastewater"
-date: 2015-03-04
-source-url: https://www.scoop.co.nz/stories/SC1503/S00018/carbon-dioxide-addition-can-improve-quality-of-wastewater.htm
+title: Carbon dioxide addition can improve quality of wastewater
+date: 2015-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00018/carbon-dioxide-addition-can-improve-quality-of-wastewater.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/04/carbon-dioxide-addition-can-improve-quality-of-wastewater/index.html
+layout: layout.njk
 ---
 Carbon dioxide addition can improve quality of wastewater
 =========================================================

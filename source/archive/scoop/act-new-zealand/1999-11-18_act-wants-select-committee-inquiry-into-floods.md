@@ -1,9 +1,12 @@
 ---
 slug: act-wants-select-committee-inquiry-into-floods
-title: "ACT Wants Select Committee Inquiry Into Floods"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PA9911/S00430/act-wants-select-committee-inquiry-into-floods.htm
+title: ACT Wants Select Committee Inquiry Into Floods
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00430/act-wants-select-committee-inquiry-into-floods.htm
 author: act-new-zealand
+permalink: /archive/1999/11/18/act-wants-select-committee-inquiry-into-floods/index.html
+layout: layout.njk
 ---
 ACT Wants Select Committee Inquiry Into Floods
 ==============================================

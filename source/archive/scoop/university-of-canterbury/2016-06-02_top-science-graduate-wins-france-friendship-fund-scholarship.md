@@ -1,9 +1,13 @@
 ---
 slug: top-science-graduate-wins-france-friendship-fund-scholarship
-title: "Top Science graduate wins France Friendship Fund Scholarship"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/ED1606/S00005/top-science-graduate-wins-france-friendship-fund-scholarship.htm
+title: Top Science graduate wins France Friendship Fund Scholarship
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00005/top-science-graduate-wins-france-friendship-fund-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/02/top-science-graduate-wins-france-friendship-fund-scholarship/index.html
+layout: layout.njk
 ---
 Top Science graduate wins France Friendship Fund Scholarship
 ============================================================

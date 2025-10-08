@@ -1,8 +1,11 @@
 ---
 slug: top-award-for-sleep-and-compassion-expert
-title: "Top award for sleep and compassion expert"
-date: 2015-12-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/top-award-for-sleep-and-compassion-expert-.html
+title: Top award for sleep and compassion expert
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/top-award-for-sleep-and-compassion-expert-.html
+permalink: /archive/2015/12/08/top-award-for-sleep-and-compassion-expert/index.html
+layout: layout.njk
 ---
 Top award for sleep and compassion expert
 =========================================

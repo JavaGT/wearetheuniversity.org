@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-welcomes-central-city-plan
-title: "University of Canterbury welcomes Central City Plan"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/ED1207/S00112/university-of-canterbury-welcomes-central-city-plan.htm
+title: University of Canterbury welcomes Central City Plan
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00112/university-of-canterbury-welcomes-central-city-plan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/07/30/university-of-canterbury-welcomes-central-city-plan/index.html
+layout: layout.njk
 ---
 University of Canterbury welcomes Central City Plan
 ===================================================

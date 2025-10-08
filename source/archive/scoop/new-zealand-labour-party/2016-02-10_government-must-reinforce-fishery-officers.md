@@ -1,9 +1,12 @@
 ---
 slug: government-must-reinforce-fishery-officers
-title: "Government must reinforce fishery officers"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/PA1602/S00110/government-must-reinforce-fishery-officers.htm
+title: Government must reinforce fishery officers
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00110/government-must-reinforce-fishery-officers.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/10/government-must-reinforce-fishery-officers/index.html
+layout: layout.njk
 ---
 Government must reinforce fishery officers
 ==========================================

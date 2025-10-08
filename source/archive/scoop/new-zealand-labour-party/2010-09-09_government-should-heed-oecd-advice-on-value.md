@@ -1,9 +1,12 @@
 ---
 slug: government-should-heed-oecd-advice-on-value
-title: "Government should heed OECD advice on value"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00134/government-should-heed-oecd-advice-on-value.htm
+title: Government should heed OECD advice on value
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00134/government-should-heed-oecd-advice-on-value.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/09/government-should-heed-oecd-advice-on-value/index.html
+layout: layout.njk
 ---
 Government should heed OECD advice on value
 ===========================================

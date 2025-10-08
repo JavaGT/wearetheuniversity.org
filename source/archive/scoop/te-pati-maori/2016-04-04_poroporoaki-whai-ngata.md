@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-whai-ngata
-title: "Poroporoaki: Whai Ngata"
-date: 2016-04-04
+title: 'Poroporoaki: Whai Ngata'
+date: 2016-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1604/S00044/poroporoaki-whai-ngata.htm
 author: te-pati-maori
+permalink: /archive/2016/04/04/poroporoaki-whai-ngata/index.html
+layout: layout.njk
 ---
 Poroporoaki: Whai Ngata
 =======================

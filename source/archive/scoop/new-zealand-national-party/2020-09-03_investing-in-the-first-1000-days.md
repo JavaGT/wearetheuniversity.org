@@ -1,9 +1,12 @@
 ---
 slug: investing-in-the-first-1000-days
-title: "Investing In The First 1000 Days"
-date: 2020-09-03
-source-url: https://www.scoop.co.nz/stories/PA2009/S00019/investing-in-the-first-1000-days.htm
+title: Investing In The First 1000 Days
+date: 2020-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00019/investing-in-the-first-1000-days.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/03/investing-in-the-first-1000-days/index.html
+layout: layout.njk
 ---
 Investing In The First 1000 Days
 ================================

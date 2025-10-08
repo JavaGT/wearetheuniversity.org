@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-issues-list-for-2011-general-election
-title: "New Zealand First Issues List For 2011 General Election"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/PO1111/S00005/new-zealand-first-issues-list-for-2011-general-election.htm
+title: New Zealand First Issues List For 2011 General Election
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00005/new-zealand-first-issues-list-for-2011-general-election.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/11/01/new-zealand-first-issues-list-for-2011-general-election/index.html
+layout: layout.njk
 ---
 New Zealand First Issues List For 2011 General Election
 =======================================================

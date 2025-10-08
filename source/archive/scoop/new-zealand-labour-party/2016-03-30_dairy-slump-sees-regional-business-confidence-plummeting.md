@@ -1,9 +1,13 @@
 ---
 slug: dairy-slump-sees-regional-business-confidence-plummeting
-title: "Dairy slump sees regional business confidence plummeting"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/PA1603/S00476/dairy-slump-sees-regional-business-confidence-plummeting.htm
+title: Dairy slump sees regional business confidence plummeting
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00476/dairy-slump-sees-regional-business-confidence-plummeting.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/30/dairy-slump-sees-regional-business-confidence-plummeting/index.html
+layout: layout.njk
 ---
 Dairy slump sees regional business confidence plummeting
 ========================================================

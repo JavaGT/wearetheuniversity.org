@@ -1,9 +1,12 @@
 ---
 slug: national-response-needed-to-school-violence
-title: "National response needed to school violence"
-date: 2008-09-04
-source-url: https://www.scoop.co.nz/stories/PA0809/S00076/national-response-needed-to-school-violence.htm
+title: National response needed to school violence
+date: 2008-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00076/national-response-needed-to-school-violence.htm
 author: te-pati-maori
+permalink: /archive/2008/09/04/national-response-needed-to-school-violence/index.html
+layout: layout.njk
 ---
 National response needed to school violence
 ===========================================

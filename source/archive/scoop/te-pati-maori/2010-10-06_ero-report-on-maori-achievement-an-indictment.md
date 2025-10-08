@@ -1,9 +1,12 @@
 ---
 slug: ero-report-on-maori-achievement-an-indictment
-title: "ERO report on Maori achievement an indictment"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/PA1010/S00057/ero-report-on-maori-achievement-an-indictment.htm
+title: ERO report on Maori achievement an indictment
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00057/ero-report-on-maori-achievement-an-indictment.htm
 author: te-pati-maori
+permalink: /archive/2010/10/06/ero-report-on-maori-achievement-an-indictment/index.html
+layout: layout.njk
 ---
 ERO report on Maori achievement an indictment
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: log-onto-facebook-contribute-to-scientific-research
-title: "Log onto Facebook, contribute to scientific research"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/SC1202/S00017/log-onto-facebook-contribute-to-scientific-research.htm
+title: Log onto Facebook, contribute to scientific research
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1202/S00017/log-onto-facebook-contribute-to-scientific-research.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/02/09/log-onto-facebook-contribute-to-scientific-research/index.html
+layout: layout.njk
 ---
 Log onto Facebook, contribute to scientific research
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-childrens-family-lives-often-complex-and-fluid
-title: "NZ children’s family lives often complex and fluid"
-date: 2016-08-29
-source-url: https://www.scoop.co.nz/stories/PO1608/S00327/nz-childrens-family-lives-often-complex-and-fluid.htm
+title: NZ children’s family lives often complex and fluid
+date: 2016-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00327/nz-childrens-family-lives-often-complex-and-fluid.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/29/nz-childrens-family-lives-often-complex-and-fluid/index.html
+layout: layout.njk
 ---
 NZ children’s family lives often complex and fluid
 ==================================================

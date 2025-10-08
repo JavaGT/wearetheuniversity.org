@@ -1,9 +1,13 @@
 ---
 slug: single-parent-families-not-a-risk-factor-for-child
-title: "Single parent families not a risk factor for child"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/SC0709/S00048/single-parent-families-not-a-risk-factor-for-child.htm
+title: Single parent families not a risk factor for child
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0709/S00048/single-parent-families-not-a-risk-factor-for-child.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/09/20/single-parent-families-not-a-risk-factor-for-child/index.html
+layout: layout.njk
 ---
 Single parent families not a risk factor for child
 ==================================================

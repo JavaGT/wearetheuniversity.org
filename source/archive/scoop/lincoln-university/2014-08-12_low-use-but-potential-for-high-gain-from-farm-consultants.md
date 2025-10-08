@@ -1,9 +1,13 @@
 ---
 slug: low-use-but-potential-for-high-gain-from-farm-consultants
-title: "Low use but potential for high gain from farm consultants"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/ED1408/S00062/low-use-but-potential-for-high-gain-from-farm-consultants.htm
+title: Low use but potential for high gain from farm consultants
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00062/low-use-but-potential-for-high-gain-from-farm-consultants.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/08/12/low-use-but-potential-for-high-gain-from-farm-consultants/index.html
+layout: layout.njk
 ---
 Low use but potential for high gain from farm consultants
 =========================================================

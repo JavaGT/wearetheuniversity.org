@@ -1,9 +1,12 @@
 ---
 slug: hospital-productivity-what-does-it-mean
-title: "Hospital Productivity: What Does It Mean?"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/GE0810/S00141/hospital-productivity-what-does-it-mean.htm
+title: 'Hospital Productivity: What Does It Mean?'
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00141/hospital-productivity-what-does-it-mean.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/10/30/hospital-productivity-what-does-it-mean/index.html
+layout: layout.njk
 ---
 Hospital Productivity: What Does It Mean?
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-responsible-for-increase-in-student-debt
-title: "Govt. Responsible For Increase In Student Debt"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/PA0002/S00323/govt-responsible-for-increase-in-student-debt.htm
+title: Govt. Responsible For Increase In Student Debt
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00323/govt-responsible-for-increase-in-student-debt.htm
 author: act-new-zealand
+permalink: /archive/2000/02/24/govt-responsible-for-increase-in-student-debt/index.html
+layout: layout.njk
 ---
 Govt. Responsible For Increase In Student Debt
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-school-students-becoming-attracted-to-computer-science
-title: "NZ school students becoming attracted to computer science"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/ED1308/S00111/nz-school-students-becoming-attracted-to-computer-science.htm
+title: NZ school students becoming attracted to computer science
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00111/nz-school-students-becoming-attracted-to-computer-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/23/nz-school-students-becoming-attracted-to-computer-science/index.html
+layout: layout.njk
 ---
 NZ school students becoming attracted to computer science
 =========================================================

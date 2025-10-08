@@ -1,9 +1,16 @@
 ---
-slug: book-my-vaccine-still-not-updated-for-four-month-bookings-my-vaccine-pass-still-not-linked-to-actual-vaccination-date
-title: "Book My Vaccine Still Not Updated For Four-month Bookings, My Vaccine Pass Still Not Linked To Actual Vaccination Date"
-date: 2021-12-28
-source-url: https://www.scoop.co.nz/stories/PA2112/S00188/book-my-vaccine-still-not-updated-for-four-month-bookings-my-vaccine-pass-still-not-linked-to-actual-vaccination-date.htm
+slug: >-
+  book-my-vaccine-still-not-updated-for-four-month-bookings-my-vaccine-pass-still-not-linked-to-actual-vaccination-date
+title: >-
+  Book My Vaccine Still Not Updated For Four-month Bookings, My Vaccine Pass
+  Still Not Linked To Actual Vaccination Date
+date: 2021-12-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00188/book-my-vaccine-still-not-updated-for-four-month-bookings-my-vaccine-pass-still-not-linked-to-actual-vaccination-date.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/12/28/book-my-vaccine-still-not-updated-for-four-month-bookings-my-vaccine-pass-still-not-linked-to-actual-vaccination-date/index.html
+layout: layout.njk
 ---
 Book My Vaccine Still Not Updated For Four-month Bookings, My Vaccine Pass Still Not Linked To Actual Vaccination Date
 ======================================================================================================================

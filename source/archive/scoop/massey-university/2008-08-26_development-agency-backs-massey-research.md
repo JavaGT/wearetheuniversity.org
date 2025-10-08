@@ -1,9 +1,12 @@
 ---
 slug: development-agency-backs-massey-research
-title: "Development agency backs Massey research"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/PO0808/S00315/development-agency-backs-massey-research.htm
+title: Development agency backs Massey research
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00315/development-agency-backs-massey-research.htm
 author: massey-university
+permalink: /archive/2008/08/26/development-agency-backs-massey-research/index.html
+layout: layout.njk
 ---
 Development agency backs Massey research
 ========================================

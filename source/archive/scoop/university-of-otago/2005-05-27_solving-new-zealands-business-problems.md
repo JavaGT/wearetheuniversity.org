@@ -1,9 +1,12 @@
 ---
 slug: solving-new-zealands-business-problems
-title: "Solving New Zealand’s Business Problems"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/ED0505/S00125/solving-new-zealands-business-problems.htm
+title: Solving New Zealand’s Business Problems
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00125/solving-new-zealands-business-problems.htm
 author: university-of-otago
+permalink: /archive/2005/05/27/solving-new-zealands-business-problems/index.html
+layout: layout.njk
 ---
 Solving New Zealand’s Business Problems
 =======================================

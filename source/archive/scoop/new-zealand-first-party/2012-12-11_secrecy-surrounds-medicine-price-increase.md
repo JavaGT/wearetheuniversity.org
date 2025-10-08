@@ -1,9 +1,12 @@
 ---
 slug: secrecy-surrounds-medicine-price-increase
-title: "Secrecy Surrounds Medicine Price Increase"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PA1212/S00181/secrecy-surrounds-medicine-price-increase.htm
+title: Secrecy Surrounds Medicine Price Increase
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00181/secrecy-surrounds-medicine-price-increase.htm
 author: new-zealand-first-party
+permalink: /archive/2012/12/11/secrecy-surrounds-medicine-price-increase/index.html
+layout: layout.njk
 ---
 Secrecy Surrounds Medicine Price Increase
 =========================================

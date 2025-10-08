@@ -1,9 +1,12 @@
 ---
 slug: afml-application-shows-lack-of-leadership
-title: "AFML application shows lack of leadership"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/PO0703/S00339/afml-application-shows-lack-of-leadership.htm
+title: AFML application shows lack of leadership
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00339/afml-application-shows-lack-of-leadership.htm
 author: victoria-university-students-association
+permalink: /archive/2007/03/27/afml-application-shows-lack-of-leadership/index.html
+layout: layout.njk
 ---
 AFML application shows lack of leadership
 =========================================

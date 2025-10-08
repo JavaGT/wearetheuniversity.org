@@ -1,9 +1,12 @@
 ---
 slug: local-electoral-(maori-representation)-amendment
-title: "Local Electoral (Maori Representation) Amendment"
-date: 2010-06-17
-source-url: https://www.scoop.co.nz/stories/PA1006/S00259/local-electoral-maori-representation-amendment.htm
+title: Local Electoral (Maori Representation) Amendment
+date: 2010-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00259/local-electoral-maori-representation-amendment.htm
 author: te-pati-maori
+permalink: /archive/2010/06/17/local-electoral-/index.html
+layout: layout.njk
 ---
 Local Electoral (Maori Representation) Amendment
 ================================================

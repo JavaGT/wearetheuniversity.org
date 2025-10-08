@@ -1,9 +1,12 @@
 ---
 slug: standards-for-teachers-but-not-pupils
-title: "Standards for teachers - but not pupils"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/PA0704/S00373/standards-for-teachers-but-not-pupils.htm
+title: Standards for teachers - but not pupils
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00373/standards-for-teachers-but-not-pupils.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/23/standards-for-teachers-but-not-pupils/index.html
+layout: layout.njk
 ---
 Standards for teachers - but not pupils
 =======================================

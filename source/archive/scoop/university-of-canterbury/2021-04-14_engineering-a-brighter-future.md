@@ -1,9 +1,12 @@
 ---
 slug: engineering-a-brighter-future
-title: "Engineering A Brighter Future"
-date: 2021-04-14
-source-url: https://www.scoop.co.nz/stories/ED2104/S00014/engineering-a-brighter-future.htm
+title: Engineering A Brighter Future
+date: 2021-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00014/engineering-a-brighter-future.htm
 author: university-of-canterbury
+permalink: /archive/2021/04/14/engineering-a-brighter-future/index.html
+layout: layout.njk
 ---
 Engineering A Brighter Future
 =============================

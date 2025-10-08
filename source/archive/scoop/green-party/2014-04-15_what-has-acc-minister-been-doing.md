@@ -1,9 +1,12 @@
 ---
 slug: what-has-acc-minister-been-doing
-title: "What has ACC Minister been doing?"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/PA1404/S00263/what-has-acc-minister-been-doing.htm
+title: What has ACC Minister been doing?
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00263/what-has-acc-minister-been-doing.htm
 author: green-party
+permalink: /archive/2014/04/15/what-has-acc-minister-been-doing/index.html
+layout: layout.njk
 ---
 What has ACC Minister been doing?
 =================================

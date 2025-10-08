@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-friends-and-allies
-title: "Heather Roy's Diary:  Friends And Allies"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/PA0907/S00078/heather-roys-diary-friends-and-allies.htm
+title: 'Heather Roy''s Diary:  Friends And Allies'
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00078/heather-roys-diary-friends-and-allies.htm
 author: act-new-zealand
+permalink: /archive/2009/07/03/heather-roys-diary-friends-and-allies/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Friends And Allies
 =======================================

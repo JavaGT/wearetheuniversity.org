@@ -1,9 +1,12 @@
 ---
 slug: ecoman-shares-his-story-with-students
-title: "Ecoman shares his story with students"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/ED1505/S00030/ecoman-shares-his-story-with-students.htm
+title: Ecoman shares his story with students
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00030/ecoman-shares-his-story-with-students.htm
 author: lincoln-university
+permalink: /archive/2015/05/06/ecoman-shares-his-story-with-students/index.html
+layout: layout.njk
 ---
 Ecoman shares his story with students
 =====================================

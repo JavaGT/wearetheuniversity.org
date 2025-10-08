@@ -1,9 +1,12 @@
 ---
 slug: labours-health-agenda-unveiled
-title: "Labour’s health agenda unveiled"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/ED1111/S00071/labours-health-agenda-unveiled.htm
+title: Labour’s health agenda unveiled
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00071/labours-health-agenda-unveiled.htm
 author: aut-university
+permalink: /archive/2011/11/10/labours-health-agenda-unveiled/index.html
+layout: layout.njk
 ---
 Labour’s health agenda unveiled
 ===============================

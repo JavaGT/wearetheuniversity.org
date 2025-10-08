@@ -1,9 +1,12 @@
 ---
 slug: bank-survey-halves-kiwibanks-support
-title: "Bank Survey Halves \"Kiwibank's\" Support"
-date: 2001-11-05
-source-url: https://www.scoop.co.nz/stories/PA0111/S00086/bank-survey-halves-kiwibanks-support.htm
+title: Bank Survey Halves "Kiwibank's" Support
+date: 2001-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00086/bank-survey-halves-kiwibanks-support.htm
 author: act-new-zealand
+permalink: /archive/2001/11/05/bank-survey-halves-kiwibanks-support/index.html
+layout: layout.njk
 ---
 Bank Survey Halves "Kiwibank's" Support
 =======================================

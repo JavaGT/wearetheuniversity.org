@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-canterbury-earthquake-recovery-bill
-title: "Te Ururoa Flavell: Canterbury Earthquake Recovery Bill"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/PA1104/S00411/te-ururoa-flavell-canterbury-earthquake-recovery-bill.htm
+title: 'Te Ururoa Flavell: Canterbury Earthquake Recovery Bill'
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00411/te-ururoa-flavell-canterbury-earthquake-recovery-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/19/te-ururoa-flavell-canterbury-earthquake-recovery-bill/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Canterbury Earthquake Recovery Bill
 ======================================================

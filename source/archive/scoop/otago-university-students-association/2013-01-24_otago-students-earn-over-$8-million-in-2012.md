@@ -1,9 +1,12 @@
 ---
 slug: otago-students-earn-over-$8-million-in-2012
-title: "Otago Students Earn over $8 Million in 2012"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00069/otago-students-earn-over-8-million-in-2012.htm
+title: Otago Students Earn over $8 Million in 2012
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00069/otago-students-earn-over-8-million-in-2012.htm
 author: otago-university-students-association
+permalink: /archive/2013/01/24/otago-students-earn-over-/index.html
+layout: layout.njk
 ---
 Otago Students Earn over $8 Million in 2012
 ===========================================

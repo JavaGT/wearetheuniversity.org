@@ -1,9 +1,13 @@
 ---
 slug: education-consultation-group-masks-real-government-agenda
-title: "Education consultation group masks real Government agenda"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/ED1310/S00201/education-consultation-group-masks-real-government-agenda.htm
+title: Education consultation group masks real Government agenda
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00201/education-consultation-group-masks-real-government-agenda.htm
 author: nzei
+permalink: >-
+  /archive/2013/10/31/education-consultation-group-masks-real-government-agenda/index.html
+layout: layout.njk
 ---
 Education consultation group masks real Government agenda
 =========================================================

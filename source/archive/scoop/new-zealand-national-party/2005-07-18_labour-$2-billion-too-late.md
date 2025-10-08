@@ -1,9 +1,11 @@
 ---
 slug: labour-$2-billion-too-late
-title: "Labour - $2 billion, too late"
-date: 2005-07-18
+title: Labour - $2 billion, too late
+date: 2005-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00363/labour-2-billion-too-late.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/18/labour-/index.html
+layout: layout.njk
 ---
 Labour - $2 billion, too late
 =============================

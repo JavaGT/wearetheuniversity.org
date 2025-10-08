@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-for-new-zealanders
-title: "New Zealand for New Zealanders"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/PA0508/S00499/new-zealand-for-new-zealanders.htm
+title: New Zealand for New Zealanders
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00499/new-zealand-for-new-zealanders.htm
 author: green-party
+permalink: /archive/2005/08/19/new-zealand-for-new-zealanders/index.html
+layout: layout.njk
 ---
 New Zealand for New Zealanders
 ==============================

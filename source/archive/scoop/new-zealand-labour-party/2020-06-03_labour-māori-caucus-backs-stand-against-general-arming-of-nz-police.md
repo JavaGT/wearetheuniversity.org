@@ -1,9 +1,12 @@
 ---
 slug: labour-māori-caucus-backs-stand-against-general-arming-of-nz-police
-title: "Labour Māori Caucus Backs Stand Against General Arming Of NZ Police"
-date: 2020-06-03
-source-url: https://www.scoop.co.nz/stories/PA2006/S00033/labour-maori-caucus-backs-stand-against-general-arming-of-nz-police.htm
+title: Labour Māori Caucus Backs Stand Against General Arming Of NZ Police
+date: 2020-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00033/labour-maori-caucus-backs-stand-against-general-arming-of-nz-police.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/06/03/labour-m/index.html
+layout: layout.njk
 ---
 Labour Māori Caucus Backs Stand Against General Arming Of NZ Police
 ===================================================================

@@ -1,9 +1,11 @@
 ---
 slug: a-week-of-real-change
-title: "A Week Of Real Change"
-date: 2024-12-12
+title: A Week Of Real Change
+date: 2024-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2412/S00113/a-week-of-real-change.htm
 author: act-new-zealand
+permalink: /archive/2024/12/12/a-week-of-real-change/index.html
+layout: layout.njk
 ---
 A Week Of Real Change
 =====================

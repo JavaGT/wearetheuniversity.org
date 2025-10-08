@@ -1,9 +1,12 @@
 ---
 slug: todays-protesters-must-play-by-level-2-rules
-title: "Today's Protesters Must Play By Level 2 Rules"
-date: 2020-06-01
-source-url: https://www.scoop.co.nz/stories/PA2006/S00007/todays-protesters-must-play-by-level-2-rules.htm
+title: Today's Protesters Must Play By Level 2 Rules
+date: 2020-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00007/todays-protesters-must-play-by-level-2-rules.htm
 author: act-new-zealand
+permalink: /archive/2020/06/01/todays-protesters-must-play-by-level-2-rules/index.html
+layout: layout.njk
 ---
 Today's Protesters Must Play By Level 2 Rules
 =============================================

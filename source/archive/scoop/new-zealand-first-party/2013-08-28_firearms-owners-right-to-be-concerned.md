@@ -1,9 +1,12 @@
 ---
 slug: firearms-owners-right-to-be-concerned
-title: "Firearms Owners Right to Be Concerned"
-date: 2013-08-28
-source-url: https://www.scoop.co.nz/stories/PA1308/S00460/firearms-owners-right-to-be-concerned.htm
+title: Firearms Owners Right to Be Concerned
+date: 2013-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00460/firearms-owners-right-to-be-concerned.htm
 author: new-zealand-first-party
+permalink: /archive/2013/08/28/firearms-owners-right-to-be-concerned/index.html
+layout: layout.njk
 ---
 Firearms Owners Right to Be Concerned
 =====================================

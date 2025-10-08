@@ -1,9 +1,12 @@
 ---
 slug: true-life-story-script-wins-embassy-trust-prize
-title: "True-life story script wins Embassy Trust Prize"
-date: 2007-12-12
-source-url: https://www.scoop.co.nz/stories/CU0712/S00143/true-life-story-script-wins-embassy-trust-prize.htm
+title: True-life story script wins Embassy Trust Prize
+date: 2007-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0712/S00143/true-life-story-script-wins-embassy-trust-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/12/true-life-story-script-wins-embassy-trust-prize/index.html
+layout: layout.njk
 ---
 True-life story script wins Embassy Trust Prize
 ===============================================

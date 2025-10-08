@@ -1,9 +1,12 @@
 ---
 slug: lifting-standards-and-closing-gaps-in-schools
-title: "Lifting standards and closing gaps in schools"
-date: 1999-07-26
-source-url: https://www.scoop.co.nz/stories/ED9907/S00024/lifting-standards-and-closing-gaps-in-schools.htm
+title: Lifting standards and closing gaps in schools
+date: 1999-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00024/lifting-standards-and-closing-gaps-in-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/26/lifting-standards-and-closing-gaps-in-schools/index.html
+layout: layout.njk
 ---
 Lifting standards and closing gaps in schools
 =============================================

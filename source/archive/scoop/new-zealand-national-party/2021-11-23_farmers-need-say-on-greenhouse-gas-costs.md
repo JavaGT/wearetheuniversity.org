@@ -1,9 +1,12 @@
 ---
 slug: farmers-need-say-on-greenhouse-gas-costs
-title: "Farmers Need Say On Greenhouse Gas Costs"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PA2111/S00252/farmers-need-say-on-greenhouse-gas-costs.htm
+title: Farmers Need Say On Greenhouse Gas Costs
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00252/farmers-need-say-on-greenhouse-gas-costs.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/23/farmers-need-say-on-greenhouse-gas-costs/index.html
+layout: layout.njk
 ---
 Farmers Need Say On Greenhouse Gas Costs
 ========================================

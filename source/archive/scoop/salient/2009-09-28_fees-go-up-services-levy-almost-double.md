@@ -1,9 +1,12 @@
 ---
 slug: fees-go-up-services-levy-almost-double
-title: "Fees go up, services levy almost double"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/ED0909/S00112/fees-go-up-services-levy-almost-double.htm
+title: Fees go up, services levy almost double
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00112/fees-go-up-services-levy-almost-double.htm
 author: salient
+permalink: /archive/2009/09/28/fees-go-up-services-levy-almost-double/index.html
+layout: layout.njk
 ---
 Fees go up, services levy almost double
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-to-give-extra-day-for-easter-anzac-break
-title: "Victoria to give extra day for Easter/ANZAC break"
-date: 2000-02-28
-source-url: https://www.scoop.co.nz/stories/ED0002/S00041/victoria-to-give-extra-day-for-easteranzac-break.htm
+title: Victoria to give extra day for Easter/ANZAC break
+date: 2000-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00041/victoria-to-give-extra-day-for-easteranzac-break.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/02/28/victoria-to-give-extra-day-for-easter-anzac-break/index.html
+layout: layout.njk
 ---
 Victoria to give extra day for Easter/ANZAC break
 =================================================

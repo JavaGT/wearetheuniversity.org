@@ -1,9 +1,12 @@
 ---
 slug: emplyment-changes-in-nz-explored-by-new-book
-title: "Emplyment Changes in NZ  Explored By New Book"
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/BU0502/S00084/emplyment-changes-in-nz-explored-by-new-book.htm
+title: Emplyment Changes in NZ  Explored By New Book
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0502/S00084/emplyment-changes-in-nz-explored-by-new-book.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/02/08/emplyment-changes-in-nz-explored-by-new-book/index.html
+layout: layout.njk
 ---
 Emplyment Changes in NZ Explored By New Book
 ============================================

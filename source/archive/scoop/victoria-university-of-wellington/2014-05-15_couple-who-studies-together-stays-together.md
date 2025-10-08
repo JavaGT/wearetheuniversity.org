@@ -1,9 +1,12 @@
 ---
 slug: couple-who-studies-together-stays-together
-title: "Couple who studies together, stays together"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00081/couple-who-studies-together-stays-together.htm
+title: Couple who studies together, stays together
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00081/couple-who-studies-together-stays-together.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/15/couple-who-studies-together-stays-together/index.html
+layout: layout.njk
 ---
 Couple who studies together, stays together
 ===========================================

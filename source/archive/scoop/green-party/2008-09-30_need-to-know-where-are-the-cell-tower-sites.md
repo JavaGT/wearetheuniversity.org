@@ -1,9 +1,12 @@
 ---
 slug: need-to-know-where-are-the-cell-tower-sites
-title: "Need to know - 'where are the cell tower sites'?"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PA0809/S00649/need-to-know-where-are-the-cell-tower-sites.htm
+title: Need to know - 'where are the cell tower sites'?
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00649/need-to-know-where-are-the-cell-tower-sites.htm
 author: green-party
+permalink: /archive/2008/09/30/need-to-know-where-are-the-cell-tower-sites/index.html
+layout: layout.njk
 ---
 Need to know - 'where are the cell tower sites'?
 ================================================

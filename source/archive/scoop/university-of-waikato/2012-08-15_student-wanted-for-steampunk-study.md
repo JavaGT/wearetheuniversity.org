@@ -1,9 +1,12 @@
 ---
 slug: student-wanted-for-steampunk-study
-title: "Student Wanted for Steampunk Study"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/ED1208/S00085/student-wanted-for-steampunk-study.htm
+title: Student Wanted for Steampunk Study
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00085/student-wanted-for-steampunk-study.htm
 author: university-of-waikato
+permalink: /archive/2012/08/15/student-wanted-for-steampunk-study/index.html
+layout: layout.njk
 ---
 Student Wanted for Steampunk Study
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-campus-to-re-open-on-tuesday-23-july
-title: "Wellington Campus to Re-Open On Tuesday, 23 July"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/ED1307/S00116/wellington-campus-to-re-open-on-tuesday-23-july.htm
+title: Wellington Campus to Re-Open On Tuesday, 23 July
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00116/wellington-campus-to-re-open-on-tuesday-23-july.htm
 author: massey-university
+permalink: /archive/2013/07/22/wellington-campus-to-re-open-on-tuesday-23-july/index.html
+layout: layout.njk
 ---
 Wellington Campus to Re-Open On Tuesday, 23 July
 ================================================

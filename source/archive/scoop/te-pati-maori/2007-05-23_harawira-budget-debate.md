@@ -1,9 +1,11 @@
 ---
 slug: harawira-budget-debate
-title: "Harawira - Budget Debate"
-date: 2007-05-23
+title: Harawira - Budget Debate
+date: 2007-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00613/harawira-budget-debate.htm
 author: te-pati-maori
+permalink: /archive/2007/05/23/harawira-budget-debate/index.html
+layout: layout.njk
 ---
 Harawira - Budget Debate
 ========================

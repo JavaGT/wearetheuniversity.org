@@ -1,9 +1,12 @@
 ---
 slug: why-diversity-management-isnt-enough
-title: "Why diversity management isn’t enough"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/BU1308/S00652/why-diversity-management-isnt-enough.htm
+title: Why diversity management isn’t enough
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00652/why-diversity-management-isnt-enough.htm
 author: massey-university
+permalink: /archive/2013/08/19/why-diversity-management-isnt-enough/index.html
+layout: layout.njk
 ---
 Why diversity management isn’t enough
 =====================================

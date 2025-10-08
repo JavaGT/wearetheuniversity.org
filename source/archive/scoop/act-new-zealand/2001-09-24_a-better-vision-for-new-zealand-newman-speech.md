@@ -1,9 +1,12 @@
 ---
 slug: a-better-vision-for-new-zealand-newman-speech
-title: "A Better Vision for New Zealand - Newman Speech"
-date: 2001-09-24
-source-url: https://www.scoop.co.nz/stories/PA0109/S00380/a-better-vision-for-new-zealand-newman-speech.htm
+title: A Better Vision for New Zealand - Newman Speech
+date: 2001-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00380/a-better-vision-for-new-zealand-newman-speech.htm
 author: act-new-zealand
+permalink: /archive/2001/09/24/a-better-vision-for-new-zealand-newman-speech/index.html
+layout: layout.njk
 ---
 A Better Vision for New Zealand - Newman Speech
 ===============================================

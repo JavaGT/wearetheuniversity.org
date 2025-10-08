@@ -1,9 +1,13 @@
 ---
 slug: nz-painted-as-pensioners-paradise-for-elderly-chinese
-title: "NZ Painted as Pensioners’ Paradise for Elderly Chinese"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00508/nz-painted-as-pensioners-paradise-for-elderly-chinese.htm
+title: NZ Painted as Pensioners’ Paradise for Elderly Chinese
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00508/nz-painted-as-pensioners-paradise-for-elderly-chinese.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/28/nz-painted-as-pensioners-paradise-for-elderly-chinese/index.html
+layout: layout.njk
 ---
 NZ Painted as Pensioners’ Paradise for Elderly Chinese
 ======================================================

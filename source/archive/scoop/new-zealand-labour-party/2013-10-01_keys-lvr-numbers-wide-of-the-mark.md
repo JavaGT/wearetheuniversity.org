@@ -1,9 +1,12 @@
 ---
 slug: keys-lvr-numbers-wide-of-the-mark
-title: "Key’s LVR numbers wide of the mark"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/PA1310/S00022/keys-lvr-numbers-wide-of-the-mark.htm
+title: Key’s LVR numbers wide of the mark
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00022/keys-lvr-numbers-wide-of-the-mark.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/01/keys-lvr-numbers-wide-of-the-mark/index.html
+layout: layout.njk
 ---
 Key’s LVR numbers wide of the mark
 ==================================

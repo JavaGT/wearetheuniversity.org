@@ -1,9 +1,12 @@
 ---
 slug: govt-failing-to-address-truancy-crisis
-title: "Govt Failing To Address Truancy Crisis"
-date: 2022-11-10
-source-url: https://www.scoop.co.nz/stories/PA2211/S00080/govt-failing-to-address-truancy-crisis.htm
+title: Govt Failing To Address Truancy Crisis
+date: 2022-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00080/govt-failing-to-address-truancy-crisis.htm
 author: act-new-zealand
+permalink: /archive/2022/11/10/govt-failing-to-address-truancy-crisis/index.html
+layout: layout.njk
 ---
 Govt Failing To Address Truancy Crisis
 ======================================

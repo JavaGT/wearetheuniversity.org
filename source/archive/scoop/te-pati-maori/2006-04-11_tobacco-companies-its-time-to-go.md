@@ -1,9 +1,12 @@
 ---
 slug: tobacco-companies-its-time-to-go
-title: "Tobacco Companies – It’s Time To Go"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/PA0604/S00210/tobacco-companies-its-time-to-go.htm
+title: Tobacco Companies – It’s Time To Go
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00210/tobacco-companies-its-time-to-go.htm
 author: te-pati-maori
+permalink: /archive/2006/04/11/tobacco-companies-its-time-to-go/index.html
+layout: layout.njk
 ---
 Tobacco Companies – It’s Time To Go
 ===================================

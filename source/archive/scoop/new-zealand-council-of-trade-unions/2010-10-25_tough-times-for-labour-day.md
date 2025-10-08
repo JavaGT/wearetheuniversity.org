@@ -1,9 +1,11 @@
 ---
 slug: tough-times-for-labour-day
-title: "Tough times for Labour Day"
-date: 2010-10-25
+title: Tough times for Labour Day
+date: 2010-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1010/S00728/tough-times-for-labour-day.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/25/tough-times-for-labour-day/index.html
+layout: layout.njk
 ---
 Tough times for Labour Day
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-at-risk-of-losing-pre-quake-memories
-title: "Christchurch at risk of losing pre-quake memories"
-date: 2013-03-17
-source-url: https://www.scoop.co.nz/stories/AK1303/S00389/christchurch-at-risk-of-losing-pre-quake-memories.htm
+title: Christchurch at risk of losing pre-quake memories
+date: 2013-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1303/S00389/christchurch-at-risk-of-losing-pre-quake-memories.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/17/christchurch-at-risk-of-losing-pre-quake-memories/index.html
+layout: layout.njk
 ---
 Christchurch at risk of losing pre-quake memories
 =================================================

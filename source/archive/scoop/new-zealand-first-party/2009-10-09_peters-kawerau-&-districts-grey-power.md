@@ -1,9 +1,12 @@
 ---
 slug: peters-kawerau-&-districts-grey-power
-title: "Peters: Kawerau & Districts Grey Power"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/PO0910/S00129/peters-kawerau-districts-grey-power.htm
+title: 'Peters: Kawerau & Districts Grey Power'
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00129/peters-kawerau-districts-grey-power.htm
 author: new-zealand-first-party
+permalink: /archive/2009/10/09/peters-kawerau-/index.html
+layout: layout.njk
 ---
 Peters: Kawerau & Districts Grey Power
 ======================================

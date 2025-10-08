@@ -1,9 +1,13 @@
 ---
 slug: conference-energy-innovation-for-a-sustainable-society
-title: "Conference: Energy innovation for a sustainable society"
-date: 2013-02-11
-source-url: https://www.scoop.co.nz/stories/ED1302/S00050/conference-energy-innovation-for-a-sustainable-society.htm
+title: 'Conference: Energy innovation for a sustainable society'
+date: 2013-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00050/conference-energy-innovation-for-a-sustainable-society.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/02/11/conference-energy-innovation-for-a-sustainable-society/index.html
+layout: layout.njk
 ---
 Conference: Energy innovation for a sustainable society
 =======================================================

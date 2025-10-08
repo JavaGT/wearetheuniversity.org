@@ -1,9 +1,12 @@
 ---
 slug: crazy-creative-clusters-light-up-lux
-title: "Crazy, creative clusters light up LUX"
-date: 2018-05-16
-source-url: https://www.scoop.co.nz/stories/CU1805/S00168/crazy-creative-clusters-light-up-lux.htm
+title: Crazy, creative clusters light up LUX
+date: 2018-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1805/S00168/crazy-creative-clusters-light-up-lux.htm
 author: massey-university
+permalink: /archive/2018/05/16/crazy-creative-clusters-light-up-lux/index.html
+layout: layout.njk
 ---
 Crazy, creative clusters light up LUX
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: shared-parenting
-title: "Shared Parenting"
-date: 2001-01-19
+title: Shared Parenting
+date: 2001-01-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0101/S00065/shared-parenting.htm
 author: act-new-zealand
+permalink: /archive/2001/01/19/shared-parenting/index.html
+layout: layout.njk
 ---
 Shared Parenting
 ================

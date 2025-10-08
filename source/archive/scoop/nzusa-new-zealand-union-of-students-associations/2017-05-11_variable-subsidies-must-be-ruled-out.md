@@ -1,9 +1,12 @@
 ---
 slug: variable-subsidies-must-be-ruled-out
-title: "Variable subsidies must be ruled out"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/PO1705/S00135/variable-subsidies-must-be-ruled-out.htm
+title: Variable subsidies must be ruled out
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00135/variable-subsidies-must-be-ruled-out.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/05/11/variable-subsidies-must-be-ruled-out/index.html
+layout: layout.njk
 ---
 Variable subsidies must be ruled out
 ====================================

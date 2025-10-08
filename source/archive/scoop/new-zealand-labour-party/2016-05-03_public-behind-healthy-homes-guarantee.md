@@ -1,9 +1,12 @@
 ---
 slug: public-behind-healthy-homes-guarantee
-title: "Public behind Healthy Homes Guarantee"
-date: 2016-05-03
-source-url: https://www.scoop.co.nz/stories/PA1605/S00038/public-behind-healthy-homes-guarantee.htm
+title: Public behind Healthy Homes Guarantee
+date: 2016-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00038/public-behind-healthy-homes-guarantee.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/03/public-behind-healthy-homes-guarantee/index.html
+layout: layout.njk
 ---
 Public behind Healthy Homes Guarantee
 =====================================

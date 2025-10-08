@@ -1,9 +1,12 @@
 ---
 slug: otago-partners-with-university-of-medicine
-title: "Otago Partners with University of Medicine"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/ED1301/S00109/otago-partners-with-university-of-medicine.htm
+title: Otago Partners with University of Medicine
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00109/otago-partners-with-university-of-medicine.htm
 author: university-of-otago
+permalink: /archive/2013/01/31/otago-partners-with-university-of-medicine/index.html
+layout: layout.njk
 ---
 Otago Partners with University of Medicine
 ==========================================

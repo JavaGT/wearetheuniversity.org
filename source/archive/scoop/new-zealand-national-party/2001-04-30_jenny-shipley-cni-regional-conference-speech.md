@@ -1,9 +1,12 @@
 ---
 slug: jenny-shipley-cni-regional-conference-speech
-title: "Jenny Shipley: CNI Regional Conference Speech"
-date: 2001-04-30
-source-url: https://www.scoop.co.nz/stories/PA0104/S00451/jenny-shipley-cni-regional-conference-speech.htm
+title: 'Jenny Shipley: CNI Regional Conference Speech'
+date: 2001-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00451/jenny-shipley-cni-regional-conference-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/30/jenny-shipley-cni-regional-conference-speech/index.html
+layout: layout.njk
 ---
 Jenny Shipley: CNI Regional Conference Speech
 =============================================

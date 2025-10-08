@@ -1,9 +1,12 @@
 ---
 slug: key-new-zealand-society-of-actuaries
-title: "Key: New Zealand Society of Actuaries"
-date: 2006-11-29
-source-url: https://www.scoop.co.nz/stories/PA0611/S00551/key-new-zealand-society-of-actuaries.htm
+title: 'Key: New Zealand Society of Actuaries'
+date: 2006-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00551/key-new-zealand-society-of-actuaries.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/29/key-new-zealand-society-of-actuaries/index.html
+layout: layout.njk
 ---
 Key: New Zealand Society of Actuaries
 =====================================

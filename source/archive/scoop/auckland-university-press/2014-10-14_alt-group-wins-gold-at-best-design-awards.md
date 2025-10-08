@@ -1,9 +1,12 @@
 ---
 slug: alt-group-wins-gold-at-best-design-awards
-title: "Alt Group wins gold at Best Design Awards"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00084/alt-group-wins-gold-at-best-design-awards.htm
+title: Alt Group wins gold at Best Design Awards
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00084/alt-group-wins-gold-at-best-design-awards.htm
 author: auckland-university-press
+permalink: /archive/2014/10/14/alt-group-wins-gold-at-best-design-awards/index.html
+layout: layout.njk
 ---
 Alt Group wins gold at Best Design Awards
 =========================================

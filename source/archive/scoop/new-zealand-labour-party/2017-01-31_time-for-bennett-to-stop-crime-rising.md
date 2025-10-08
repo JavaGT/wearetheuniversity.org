@@ -1,9 +1,12 @@
 ---
 slug: time-for-bennett-to-stop-crime-rising
-title: "Time for Bennett to stop crime rising"
-date: 2017-01-31
-source-url: https://www.scoop.co.nz/stories/PA1701/S00161/time-for-bennett-to-stop-crime-rising.htm
+title: Time for Bennett to stop crime rising
+date: 2017-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00161/time-for-bennett-to-stop-crime-rising.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/31/time-for-bennett-to-stop-crime-rising/index.html
+layout: layout.njk
 ---
 Time for Bennett to stop crime rising
 =====================================

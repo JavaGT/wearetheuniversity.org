@@ -1,9 +1,11 @@
 ---
 slug: new-president-at-vusa
-title: "New President At VUSA"
-date: 2004-01-07
+title: New President At VUSA
+date: 2004-01-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0401/S00003/new-president-at-vusa.htm
 author: victoria-university-students-association
+permalink: /archive/2004/01/07/new-president-at-vusa/index.html
+layout: layout.njk
 ---
 New President At VUSA
 =====================

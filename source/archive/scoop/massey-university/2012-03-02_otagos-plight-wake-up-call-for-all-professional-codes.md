@@ -1,9 +1,13 @@
 ---
 slug: otagos-plight-wake-up-call-for-all-professional-codes
-title: "Otago’s plight 'wake-up call' for all professional codes"
-date: 2012-03-02
-source-url: https://www.scoop.co.nz/stories/CU1203/S00039/otagos-plight-wake-up-call-for-all-professional-codes.htm
+title: Otago’s plight 'wake-up call' for all professional codes
+date: 2012-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00039/otagos-plight-wake-up-call-for-all-professional-codes.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/02/otagos-plight-wake-up-call-for-all-professional-codes/index.html
+layout: layout.njk
 ---
 Otago’s plight 'wake-up call' for all professional codes
 ========================================================

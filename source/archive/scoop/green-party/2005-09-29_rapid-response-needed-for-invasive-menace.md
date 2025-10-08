@@ -1,9 +1,12 @@
 ---
 slug: rapid-response-needed-for-invasive-menace
-title: "Rapid response needed for invasive menace"
-date: 2005-09-29
-source-url: https://www.scoop.co.nz/stories/PA0509/S00504/rapid-response-needed-for-invasive-menace.htm
+title: Rapid response needed for invasive menace
+date: 2005-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00504/rapid-response-needed-for-invasive-menace.htm
 author: green-party
+permalink: /archive/2005/09/29/rapid-response-needed-for-invasive-menace/index.html
+layout: layout.njk
 ---
 Rapid response needed for invasive menace
 =========================================

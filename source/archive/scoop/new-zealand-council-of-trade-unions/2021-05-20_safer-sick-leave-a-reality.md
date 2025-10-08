@@ -1,9 +1,11 @@
 ---
 slug: safer-sick-leave-a-reality
-title: "Safer Sick Leave A Reality"
-date: 2021-05-20
+title: Safer Sick Leave A Reality
+date: 2021-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2105/S00176/safer-sick-leave-a-reality.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2021/05/20/safer-sick-leave-a-reality/index.html
+layout: layout.njk
 ---
 Safer Sick Leave A Reality
 ==========================

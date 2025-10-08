@@ -1,9 +1,12 @@
 ---
 slug: peters-with-real-representation-real-progress
-title: "Peters: With Real Representation, Real Progress"
-date: 2014-08-22
-source-url: https://www.scoop.co.nz/stories/PA1408/S00342/peters-with-real-representation-real-progress.htm
+title: 'Peters: With Real Representation, Real Progress'
+date: 2014-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00342/peters-with-real-representation-real-progress.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/22/peters-with-real-representation-real-progress/index.html
+layout: layout.njk
 ---
 Peters: With Real Representation, Real Progress
 ===============================================

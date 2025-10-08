@@ -1,9 +1,13 @@
 ---
 slug: vast-majority-of-submitters-opposed-to-euthanasia
-title: "Vast Majority of Submitters Opposed to Euthanasia"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/PO1708/S00052/vast-majority-of-submitters-opposed-to-euthanasia.htm
+title: Vast Majority of Submitters Opposed to Euthanasia
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00052/vast-majority-of-submitters-opposed-to-euthanasia.htm
 author: maxim-institute
+permalink: >-
+  /archive/2017/08/02/vast-majority-of-submitters-opposed-to-euthanasia/index.html
+layout: layout.njk
 ---
 Vast Majority of Submitters Opposed to Euthanasia
 =================================================

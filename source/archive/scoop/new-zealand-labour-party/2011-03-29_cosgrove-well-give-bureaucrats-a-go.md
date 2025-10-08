@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-well-give-bureaucrats-a-go
-title: "Cosgrove: We’ll give bureaucrats a go"
-date: 2011-03-29
-source-url: https://www.scoop.co.nz/stories/PA1103/S00474/cosgrove-well-give-bureaucrats-a-go.htm
+title: 'Cosgrove: We’ll give bureaucrats a go'
+date: 2011-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00474/cosgrove-well-give-bureaucrats-a-go.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/29/cosgrove-well-give-bureaucrats-a-go/index.html
+layout: layout.njk
 ---
 Cosgrove: We’ll give bureaucrats a go
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: national-has-serious-questions-to-answer-over-fuel-crisis
-title: "National has serious questions to answer over fuel crisis"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/PA1709/S00204/national-has-serious-questions-to-answer-over-fuel-crisis.htm
+title: National has serious questions to answer over fuel crisis
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00204/national-has-serious-questions-to-answer-over-fuel-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/09/18/national-has-serious-questions-to-answer-over-fuel-crisis/index.html
+layout: layout.njk
 ---
 National has serious questions to answer over fuel crisis
 =========================================================

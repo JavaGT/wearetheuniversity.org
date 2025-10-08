@@ -1,9 +1,13 @@
 ---
 slug: govt-can-improve-human-health-by-tackling-climate-change
-title: "Govt can improve human health by tackling climate change"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/PA1506/S00407/govt-can-improve-human-health-by-tackling-climate-change.htm
+title: Govt can improve human health by tackling climate change
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00407/govt-can-improve-human-health-by-tackling-climate-change.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/23/govt-can-improve-human-health-by-tackling-climate-change/index.html
+layout: layout.njk
 ---
 Govt can improve human health by tackling climate change
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-shearer-grey-power-auckland
-title: "Speech: Shearer - Grey Power  Auckland"
-date: 2012-08-07
-source-url: https://www.scoop.co.nz/stories/PA1208/S00094/speech-shearer-grey-power-auckland.htm
+title: 'Speech: Shearer - Grey Power  Auckland'
+date: 2012-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00094/speech-shearer-grey-power-auckland.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/07/speech-shearer-grey-power-auckland/index.html
+layout: layout.njk
 ---
 Speech: Shearer - Grey Power Auckland
 =====================================

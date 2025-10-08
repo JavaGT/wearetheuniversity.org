@@ -1,9 +1,12 @@
 ---
 slug: pharmac-bungles-drug-supplies…again
-title: "Pharmac Bungles Drug Supplies…Again"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/PA0701/S00160/pharmac-bungles-drug-suppliesagain.htm
+title: Pharmac Bungles Drug Supplies…Again
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00160/pharmac-bungles-drug-suppliesagain.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/26/pharmac-bungles-drug-supplies/index.html
+layout: layout.njk
 ---
 Pharmac Bungles Drug Supplies…Again
 ===================================

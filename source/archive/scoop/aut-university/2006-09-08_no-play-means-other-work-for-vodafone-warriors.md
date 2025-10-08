@@ -1,9 +1,12 @@
 ---
 slug: no-play-means-other-work-for-vodafone-warriors
-title: "No play means other work for Vodafone Warriors"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/ED0609/S00033/no-play-means-other-work-for-vodafone-warriors.htm
+title: No play means other work for Vodafone Warriors
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00033/no-play-means-other-work-for-vodafone-warriors.htm
 author: aut-university
+permalink: /archive/2006/09/08/no-play-means-other-work-for-vodafone-warriors/index.html
+layout: layout.njk
 ---
 No play means other work for Vodafone Warriors
 ==============================================

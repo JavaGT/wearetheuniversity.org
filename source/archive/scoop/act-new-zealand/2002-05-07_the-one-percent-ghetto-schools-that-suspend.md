@@ -1,9 +1,12 @@
 ---
 slug: the-one-percent-ghetto-schools-that-suspend
-title: "The One Percent: Ghetto Schools That Suspend"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PA0205/S00157/the-one-percent-ghetto-schools-that-suspend.htm
+title: 'The One Percent: Ghetto Schools That Suspend'
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00157/the-one-percent-ghetto-schools-that-suspend.htm
 author: act-new-zealand
+permalink: /archive/2002/05/07/the-one-percent-ghetto-schools-that-suspend/index.html
+layout: layout.njk
 ---
 The One Percent: Ghetto Schools That Suspend
 ============================================

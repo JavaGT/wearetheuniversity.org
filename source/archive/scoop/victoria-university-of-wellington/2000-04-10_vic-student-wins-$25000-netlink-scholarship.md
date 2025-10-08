@@ -1,9 +1,12 @@
 ---
 slug: vic-student-wins-$25000-netlink-scholarship
-title: "Vic student wins $25,000 NetLink scholarship"
-date: 2000-04-10
-source-url: https://www.scoop.co.nz/stories/ED0004/S00009/vic-student-wins-25000-netlink-scholarship.htm
+title: Vic student wins $25,000 NetLink scholarship
+date: 2000-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00009/vic-student-wins-25000-netlink-scholarship.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/04/10/vic-student-wins-/index.html
+layout: layout.njk
 ---
 Vic student wins $25,000 NetLink scholarship
 ============================================

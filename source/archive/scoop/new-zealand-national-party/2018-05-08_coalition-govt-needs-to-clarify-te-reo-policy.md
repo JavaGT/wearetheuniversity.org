@@ -1,9 +1,12 @@
 ---
 slug: coalition-govt-needs-to-clarify-te-reo-policy
-title: "Coalition Govt needs to clarify Te Reo policy"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/PA1805/S00090/coalition-govt-needs-to-clarify-te-reo-policy.htm
+title: Coalition Govt needs to clarify Te Reo policy
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00090/coalition-govt-needs-to-clarify-te-reo-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/08/coalition-govt-needs-to-clarify-te-reo-policy/index.html
+layout: layout.njk
 ---
 Coalition Govt needs to clarify Te Reo policy
 =============================================

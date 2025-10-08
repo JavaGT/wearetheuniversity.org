@@ -1,9 +1,12 @@
 ---
 slug: national-will-deliver-for-māori
-title: "National Will Deliver For Māori"
-date: 2023-08-20
-source-url: https://www.scoop.co.nz/stories/PO2308/S00202/national-will-deliver-for-maori.htm
+title: National Will Deliver For Māori
+date: 2023-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00202/national-will-deliver-for-maori.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/20/national-will-deliver-for-m/index.html
+layout: layout.njk
 ---
 National Will Deliver For Māori
 ===============================

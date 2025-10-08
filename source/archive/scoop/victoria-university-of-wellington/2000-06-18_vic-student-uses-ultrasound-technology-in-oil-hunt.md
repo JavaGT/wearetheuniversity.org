@@ -1,9 +1,13 @@
 ---
 slug: vic-student-uses-ultrasound-technology-in-oil-hunt
-title: "Vic student uses ultrasound technology in oil hunt"
-date: 2000-06-18
-source-url: https://www.scoop.co.nz/stories/SC0006/S00011/vic-student-uses-ultrasound-technology-in-oil-hunt.htm
+title: Vic student uses ultrasound technology in oil hunt
+date: 2000-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00011/vic-student-uses-ultrasound-technology-in-oil-hunt.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/06/18/vic-student-uses-ultrasound-technology-in-oil-hunt/index.html
+layout: layout.njk
 ---
 Vic student uses ultrasound technology in oil hunt
 ==================================================

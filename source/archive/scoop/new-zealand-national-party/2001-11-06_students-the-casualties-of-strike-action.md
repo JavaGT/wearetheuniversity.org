@@ -1,9 +1,12 @@
 ---
 slug: students-the-casualties-of-strike-action
-title: "Students the casualties of strike action"
-date: 2001-11-06
-source-url: https://www.scoop.co.nz/stories/PA0111/S00098/students-the-casualties-of-strike-action.htm
+title: Students the casualties of strike action
+date: 2001-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00098/students-the-casualties-of-strike-action.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/06/students-the-casualties-of-strike-action/index.html
+layout: layout.njk
 ---
 Students the casualties of strike action
 ========================================

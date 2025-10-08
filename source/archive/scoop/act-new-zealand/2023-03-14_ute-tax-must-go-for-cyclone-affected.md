@@ -1,9 +1,12 @@
 ---
 slug: ute-tax-must-go-for-cyclone-affected
-title: "Ute Tax Must Go For Cyclone-affected"
-date: 2023-03-14
-source-url: https://www.scoop.co.nz/stories/PA2303/S00111/ute-tax-must-go-for-cyclone-affected.htm
+title: Ute Tax Must Go For Cyclone-affected
+date: 2023-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00111/ute-tax-must-go-for-cyclone-affected.htm
 author: act-new-zealand
+permalink: /archive/2023/03/14/ute-tax-must-go-for-cyclone-affected/index.html
+layout: layout.njk
 ---
 Ute Tax Must Go For Cyclone-affected
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: rail-line-could-run-from-capital-to-north-of-waikanae
-title: "Rail line could run from capital to north of Waikanae"
-date: 2017-02-17
-source-url: https://www.scoop.co.nz/stories/PA1702/S00242/rail-line-could-run-from-capital-to-north-of-waikanae.htm
+title: Rail line could run from capital to north of Waikanae
+date: 2017-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00242/rail-line-could-run-from-capital-to-north-of-waikanae.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/17/rail-line-could-run-from-capital-to-north-of-waikanae/index.html
+layout: layout.njk
 ---
 Rail line could run from capital to north of Waikanae
 =====================================================

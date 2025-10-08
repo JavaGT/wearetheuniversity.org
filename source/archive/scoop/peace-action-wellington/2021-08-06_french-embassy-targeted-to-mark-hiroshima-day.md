@@ -1,9 +1,12 @@
 ---
 slug: french-embassy-targeted-to-mark-hiroshima-day
-title: "French Embassy Targeted To Mark Hiroshima Day"
-date: 2021-08-06
-source-url: https://www.scoop.co.nz/stories/PO2108/S00035/french-embassy-targeted-to-mark-hiroshima-day.htm
+title: French Embassy Targeted To Mark Hiroshima Day
+date: 2021-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2108/S00035/french-embassy-targeted-to-mark-hiroshima-day.htm
 author: peace-action-wellington
+permalink: /archive/2021/08/06/french-embassy-targeted-to-mark-hiroshima-day/index.html
+layout: layout.njk
 ---
 French Embassy Targeted To Mark Hiroshima Day
 =============================================

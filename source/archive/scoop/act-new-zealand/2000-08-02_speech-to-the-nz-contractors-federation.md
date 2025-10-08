@@ -1,9 +1,12 @@
 ---
 slug: speech-to-the-nz-contractors-federation
-title: "Speech To The NZ Contractors' Federation"
-date: 2000-08-02
-source-url: https://www.scoop.co.nz/stories/PA0008/S00048/speech-to-the-nz-contractors-federation.htm
+title: Speech To The NZ Contractors' Federation
+date: 2000-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00048/speech-to-the-nz-contractors-federation.htm
 author: act-new-zealand
+permalink: /archive/2000/08/02/speech-to-the-nz-contractors-federation/index.html
+layout: layout.njk
 ---
 Speech To The NZ Contractors' Federation
 ========================================

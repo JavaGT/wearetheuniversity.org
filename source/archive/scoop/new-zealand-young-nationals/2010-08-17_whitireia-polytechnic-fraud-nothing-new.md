@@ -1,9 +1,12 @@
 ---
 slug: whitireia-polytechnic-fraud-nothing-new
-title: "Whitireia Polytechnic Fraud – Nothing New"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/PO1008/S00193/whitireia-polytechnic-fraud-nothing-new.htm
+title: Whitireia Polytechnic Fraud – Nothing New
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00193/whitireia-polytechnic-fraud-nothing-new.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/08/17/whitireia-polytechnic-fraud-nothing-new/index.html
+layout: layout.njk
 ---
 Whitireia Polytechnic Fraud – Nothing New
 =========================================

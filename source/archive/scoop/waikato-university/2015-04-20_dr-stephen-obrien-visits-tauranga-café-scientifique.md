@@ -1,9 +1,12 @@
 ---
 slug: dr-stephen-obrien-visits-tauranga-café-scientifique
-title: "Dr Stephen O’Brien visits Tauranga Café Scientifique"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/SC1504/S00051/dr-stephen-obrien-visits-tauranga-cafe-scientifique.htm
+title: Dr Stephen O’Brien visits Tauranga Café Scientifique
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00051/dr-stephen-obrien-visits-tauranga-cafe-scientifique.htm
 author: waikato-university
+permalink: /archive/2015/04/20/dr-stephen-obrien-visits-tauranga-caf/index.html
+layout: layout.njk
 ---
 Dr Stephen O’Brien visits Tauranga Café Scientifique
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-would-have-lifted-minimum-wage-to-$15-hr-immediately
-title: "Greens would have lifted minimum wage to $15/hr immediately"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/PA1402/S00338/greens-would-have-lifted-minimum-wage-to-15hr-immediately.htm
+title: Greens would have lifted minimum wage to $15/hr immediately
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00338/greens-would-have-lifted-minimum-wage-to-15hr-immediately.htm
 author: green-party
+permalink: /archive/2014/02/24/greens-would-have-lifted-minimum-wage-to-/index.html
+layout: layout.njk
 ---
 Greens would have lifted minimum wage to $15/hr immediately
 ===========================================================

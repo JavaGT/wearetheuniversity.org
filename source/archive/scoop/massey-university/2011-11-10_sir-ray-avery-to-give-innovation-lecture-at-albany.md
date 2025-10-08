@@ -1,9 +1,13 @@
 ---
 slug: sir-ray-avery-to-give-innovation-lecture-at-albany
-title: "Sir Ray Avery to give innovation lecture at Albany"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/ED1111/S00074/sir-ray-avery-to-give-innovation-lecture-at-albany.htm
+title: Sir Ray Avery to give innovation lecture at Albany
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00074/sir-ray-avery-to-give-innovation-lecture-at-albany.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/10/sir-ray-avery-to-give-innovation-lecture-at-albany/index.html
+layout: layout.njk
 ---
 Sir Ray Avery to give innovation lecture at Albany
 ==================================================

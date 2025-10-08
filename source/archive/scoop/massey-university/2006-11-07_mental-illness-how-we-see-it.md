@@ -1,9 +1,11 @@
 ---
 slug: mental-illness-how-we-see-it
-title: "Mental illness – how we see it"
-date: 2006-11-07
+title: Mental illness – how we see it
+date: 2006-11-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0611/S00030/mental-illness-how-we-see-it.htm
 author: massey-university
+permalink: /archive/2006/11/07/mental-illness-how-we-see-it/index.html
+layout: layout.njk
 ---
 Mental illness – how we see it
 ==============================

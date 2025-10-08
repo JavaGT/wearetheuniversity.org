@@ -1,9 +1,11 @@
 ---
 slug: kiwi-economist-invited-to-us
-title: "Kiwi economist invited to US"
-date: 2007-06-13
+title: Kiwi economist invited to US
+date: 2007-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0706/S00122/kiwi-economist-invited-to-us.htm
 author: auckland-university
+permalink: /archive/2007/06/13/kiwi-economist-invited-to-us/index.html
+layout: layout.njk
 ---
 Kiwi economist invited to US
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: trump-and-musk-are-a-match-leading-us-to-hell
-title: "Trump And Musk Are A Match Leading Us To Hell"
-date: 2024-11-01
-source-url: https://www.scoop.co.nz/stories/PO2411/S00001/trump-and-musk-are-a-match-leading-us-to-hell.htm
+title: Trump And Musk Are A Match Leading Us To Hell
+date: 2024-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2411/S00001/trump-and-musk-are-a-match-leading-us-to-hell.htm
 author: independent-media-institute
+permalink: /archive/2024/11/01/trump-and-musk-are-a-match-leading-us-to-hell/index.html
+layout: layout.njk
 ---
 Trump And Musk Are A Match Leading Us To Hell
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: education-amendment-bill-third-reading-speech-john-banks
-title: "Education Amendment Bill - Third Reading Speech John Banks"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/PA1306/S00041/education-amendment-bill-third-reading-speech-john-banks.htm
+title: Education Amendment Bill - Third Reading Speech John Banks
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00041/education-amendment-bill-third-reading-speech-john-banks.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/06/05/education-amendment-bill-third-reading-speech-john-banks/index.html
+layout: layout.njk
 ---
 Education Amendment Bill - Third Reading Speech John Banks
 ==========================================================

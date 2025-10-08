@@ -1,9 +1,12 @@
 ---
 slug: government-limits-opportunity-for-māori-development
-title: "Government limits opportunity for Māori development"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/PA1403/S00203/government-limits-opportunity-for-maori-development.htm
+title: Government limits opportunity for Māori development
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00203/government-limits-opportunity-for-maori-development.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/12/government-limits-opportunity-for-m/index.html
+layout: layout.njk
 ---
 Government limits opportunity for Māori development
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: harawira-taxation-bill
-title: "Harawira: Taxation Bill"
-date: 2006-03-16
+title: 'Harawira: Taxation Bill'
+date: 2006-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00280/harawira-taxation-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/16/harawira-taxation-bill/index.html
+layout: layout.njk
 ---
 Harawira: Taxation Bill
 =======================

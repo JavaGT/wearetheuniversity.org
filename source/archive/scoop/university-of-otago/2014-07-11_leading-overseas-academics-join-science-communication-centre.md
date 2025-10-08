@@ -1,9 +1,13 @@
 ---
 slug: leading-overseas-academics-join-science-communication-centre
-title: "Leading overseas academics join Science Communication Centre"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/ED1407/S00068/leading-overseas-academics-join-science-communication-centre.htm
+title: Leading overseas academics join Science Communication Centre
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00068/leading-overseas-academics-join-science-communication-centre.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/11/leading-overseas-academics-join-science-communication-centre/index.html
+layout: layout.njk
 ---
 Leading overseas academics join Science Communication Centre
 ============================================================

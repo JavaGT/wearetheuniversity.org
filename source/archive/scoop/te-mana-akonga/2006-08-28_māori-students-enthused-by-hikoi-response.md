@@ -1,9 +1,12 @@
 ---
 slug: māori-students-enthused-by-hikoi-response
-title: "Māori students enthused by Hikoi response"
-date: 2006-08-28
-source-url: https://www.scoop.co.nz/stories/ED0608/S00083/maori-students-enthused-by-hikoi-response.htm
+title: Māori students enthused by Hikoi response
+date: 2006-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00083/maori-students-enthused-by-hikoi-response.htm
 author: te-mana-akonga
+permalink: /archive/2006/08/28/m/index.html
+layout: layout.njk
 ---
 Māori students enthused by Hikoi response
 =========================================

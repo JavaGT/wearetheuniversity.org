@@ -1,9 +1,12 @@
 ---
 slug: nz-legal-system-can-perpetuate-financial-abuse
-title: "NZ Legal System Can Perpetuate Financial Abuse"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/PO1911/S00044/nz-legal-system-can-perpetuate-financial-abuse.htm
+title: NZ Legal System Can Perpetuate Financial Abuse
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00044/nz-legal-system-can-perpetuate-financial-abuse.htm
 author: aut-university
+permalink: /archive/2019/11/05/nz-legal-system-can-perpetuate-financial-abuse/index.html
+layout: layout.njk
 ---
 NZ Legal System Can Perpetuate Financial Abuse
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: conference-to-grapple-with-major-cultural-issues
-title: "Conference to grapple with major cultural issues"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00043/conference-to-grapple-with-major-cultural-issues.htm
+title: Conference to grapple with major cultural issues
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00043/conference-to-grapple-with-major-cultural-issues.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/08/10/conference-to-grapple-with-major-cultural-issues/index.html
+layout: layout.njk
 ---
 Conference to grapple with major cultural issues
 ================================================

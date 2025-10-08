@@ -1,9 +1,12 @@
 ---
 slug: fast-treatment-for-glacier-modelling
-title: "Fast treatment for glacier modelling"
-date: 2010-11-10
-source-url: https://www.scoop.co.nz/stories/SC1011/S00031/fast-treatment-for-glacier-modelling.htm
+title: Fast treatment for glacier modelling
+date: 2010-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00031/fast-treatment-for-glacier-modelling.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/10/fast-treatment-for-glacier-modelling/index.html
+layout: layout.njk
 ---
 Fast treatment for glacier modelling
 ====================================

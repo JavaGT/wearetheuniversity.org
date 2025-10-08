@@ -1,9 +1,12 @@
 ---
 slug: more-questions-raised-on-cera-conflicts
-title: "More questions raised on CERA conflicts"
-date: 2017-04-12
-source-url: https://www.scoop.co.nz/stories/PA1704/S00159/more-questions-raised-on-cera-conflicts.htm
+title: More questions raised on CERA conflicts
+date: 2017-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00159/more-questions-raised-on-cera-conflicts.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/12/more-questions-raised-on-cera-conflicts/index.html
+layout: layout.njk
 ---
 More questions raised on CERA conflicts
 =======================================

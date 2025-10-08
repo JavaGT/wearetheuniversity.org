@@ -1,9 +1,12 @@
 ---
 slug: peters-address-to-plimmerton-rotary-club
-title: "Peters Address To Plimmerton Rotary Club"
-date: 2008-06-27
-source-url: https://www.scoop.co.nz/stories/PA0806/S00456/peters-address-to-plimmerton-rotary-club.htm
+title: Peters Address To Plimmerton Rotary Club
+date: 2008-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00456/peters-address-to-plimmerton-rotary-club.htm
 author: new-zealand-first-party
+permalink: /archive/2008/06/27/peters-address-to-plimmerton-rotary-club/index.html
+layout: layout.njk
 ---
 Peters Address To Plimmerton Rotary Club
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-rebuild-more-certain-than-australian-dream
-title: "Christchurch rebuild more certain than Australian Dream"
-date: 2013-05-26
-source-url: https://www.scoop.co.nz/stories/AK1305/S00553/christchurch-rebuild-more-certain-than-australian-dream.htm
+title: Christchurch rebuild more certain than Australian Dream
+date: 2013-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00553/christchurch-rebuild-more-certain-than-australian-dream.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/26/christchurch-rebuild-more-certain-than-australian-dream/index.html
+layout: layout.njk
 ---
 Christchurch rebuild more certain than Australian Dream
 =======================================================

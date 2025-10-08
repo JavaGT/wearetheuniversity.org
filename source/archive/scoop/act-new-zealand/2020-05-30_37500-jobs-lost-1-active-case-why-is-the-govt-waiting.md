@@ -1,9 +1,13 @@
 ---
 slug: 37500-jobs-lost-1-active-case-why-is-the-govt-waiting
-title: "37,500 Jobs Lost, 1 Active Case – Why Is The Govt Waiting?"
-date: 2020-05-30
-source-url: https://www.scoop.co.nz/stories/PA2005/S00249/37500-jobs-lost-1-active-case-why-is-the-govt-waiting.htm
+title: 37,500 Jobs Lost, 1 Active Case – Why Is The Govt Waiting?
+date: 2020-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00249/37500-jobs-lost-1-active-case-why-is-the-govt-waiting.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/05/30/37500-jobs-lost-1-active-case-why-is-the-govt-waiting/index.html
+layout: layout.njk
 ---
 37,500 Jobs Lost, 1 Active Case – Why Is The Govt Waiting?
 ==========================================================

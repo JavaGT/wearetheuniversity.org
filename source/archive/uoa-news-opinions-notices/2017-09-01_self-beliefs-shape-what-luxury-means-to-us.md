@@ -1,8 +1,11 @@
 ---
 slug: self-beliefs-shape-what-luxury-means-to-us
-title: "Self-beliefs shape what luxury means to us"
-date: 2017-09-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/self-beliefs-shape-what-luxury-means-to-us.html
+title: Self-beliefs shape what luxury means to us
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/self-beliefs-shape-what-luxury-means-to-us.html
+permalink: /archive/2017/09/01/self-beliefs-shape-what-luxury-means-to-us/index.html
+layout: layout.njk
 ---
 Self-beliefs shape what luxury means to us
 ==========================================

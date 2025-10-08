@@ -1,9 +1,12 @@
 ---
 slug: tony-sewell-appointed-to-uc-council
-title: "Tony Sewell appointed to UC Council"
-date: 2010-06-11
-source-url: https://www.scoop.co.nz/stories/ED1006/S00042/tony-sewell-appointed-to-uc-council.htm
+title: Tony Sewell appointed to UC Council
+date: 2010-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00042/tony-sewell-appointed-to-uc-council.htm
 author: university-of-canterbury
+permalink: /archive/2010/06/11/tony-sewell-appointed-to-uc-council/index.html
+layout: layout.njk
 ---
 Tony Sewell appointed to UC Council
 ===================================

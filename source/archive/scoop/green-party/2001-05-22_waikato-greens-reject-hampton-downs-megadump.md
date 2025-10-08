@@ -1,9 +1,12 @@
 ---
 slug: waikato-greens-reject-hampton-downs-megadump
-title: "Waikato Greens Reject Hampton Downs Megadump"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/PA0105/S00430/waikato-greens-reject-hampton-downs-megadump.htm
+title: Waikato Greens Reject Hampton Downs Megadump
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00430/waikato-greens-reject-hampton-downs-megadump.htm
 author: green-party
+permalink: /archive/2001/05/22/waikato-greens-reject-hampton-downs-megadump/index.html
+layout: layout.njk
 ---
 Waikato Greens Reject Hampton Downs Megadump
 ============================================

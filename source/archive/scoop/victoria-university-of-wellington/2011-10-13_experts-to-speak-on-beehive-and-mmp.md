@@ -1,9 +1,12 @@
 ---
 slug: experts-to-speak-on-beehive-and-mmp
-title: "Experts to speak on Beehive and MMP"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/ED1110/S00046/experts-to-speak-on-beehive-and-mmp.htm
+title: Experts to speak on Beehive and MMP
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00046/experts-to-speak-on-beehive-and-mmp.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/10/13/experts-to-speak-on-beehive-and-mmp/index.html
+layout: layout.njk
 ---
 Experts to speak on Beehive and MMP
 ===================================

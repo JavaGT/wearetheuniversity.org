@@ -1,9 +1,12 @@
 ---
 slug: clearing-the-way-for-big-future
-title: "Clearing the way for big future"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/ED1505/S00018/clearing-the-way-for-big-future.htm
+title: Clearing the way for big future
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00018/clearing-the-way-for-big-future.htm
 author: lincoln-university
+permalink: /archive/2015/05/05/clearing-the-way-for-big-future/index.html
+layout: layout.njk
 ---
 Clearing the way for big future
 ===============================

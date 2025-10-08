@@ -1,9 +1,12 @@
 ---
 slug: student-summit-demands-an-end-to-debt
-title: "Student Summit demands an end to Debt"
-date: 2005-06-30
-source-url: https://www.scoop.co.nz/stories/ED0506/S00083/student-summit-demands-an-end-to-debt.htm
+title: Student Summit demands an end to Debt
+date: 2005-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00083/student-summit-demands-an-end-to-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/06/30/student-summit-demands-an-end-to-debt/index.html
+layout: layout.njk
 ---
 Student Summit demands an end to Debt
 =====================================

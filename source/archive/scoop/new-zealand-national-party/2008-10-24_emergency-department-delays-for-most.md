@@ -1,9 +1,12 @@
 ---
 slug: emergency-department-delays-for-most
-title: "Emergency department delays for most"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/PA0810/S00578/emergency-department-delays-for-most.htm
+title: Emergency department delays for most
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00578/emergency-department-delays-for-most.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/24/emergency-department-delays-for-most/index.html
+layout: layout.njk
 ---
 Emergency department delays for most
 ====================================

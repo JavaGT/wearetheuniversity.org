@@ -1,9 +1,13 @@
 ---
 slug: union-legislation-takes-effect-confidence-plummets
-title: "Union Legislation Takes Effect Confidence Plummets"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/PA0504/S00589/union-legislation-takes-effect-confidence-plummets.htm
+title: Union Legislation Takes Effect Confidence Plummets
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00589/union-legislation-takes-effect-confidence-plummets.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/04/29/union-legislation-takes-effect-confidence-plummets/index.html
+layout: layout.njk
 ---
 Union Legislation Takes Effect Confidence Plummets
 ==================================================

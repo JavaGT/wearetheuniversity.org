@@ -1,9 +1,12 @@
 ---
 slug: porn-birth-is-liberalness-gone-too-far
-title: "Porn birth is liberalness gone too far"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00274/porn-birth-is-liberalness-gone-too-far.htm
+title: Porn birth is liberalness gone too far
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00274/porn-birth-is-liberalness-gone-too-far.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/14/porn-birth-is-liberalness-gone-too-far/index.html
+layout: layout.njk
 ---
 Porn birth is liberalness gone too far
 ======================================

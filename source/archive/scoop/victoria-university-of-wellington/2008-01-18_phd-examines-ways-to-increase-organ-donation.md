@@ -1,9 +1,12 @@
 ---
 slug: phd-examines-ways-to-increase-organ-donation
-title: "PhD examines ways to increase organ donation"
-date: 2008-01-18
-source-url: https://www.scoop.co.nz/stories/ED0801/S00014/phd-examines-ways-to-increase-organ-donation.htm
+title: PhD examines ways to increase organ donation
+date: 2008-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00014/phd-examines-ways-to-increase-organ-donation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/01/18/phd-examines-ways-to-increase-organ-donation/index.html
+layout: layout.njk
 ---
 PhD examines ways to increase organ donation
 ============================================

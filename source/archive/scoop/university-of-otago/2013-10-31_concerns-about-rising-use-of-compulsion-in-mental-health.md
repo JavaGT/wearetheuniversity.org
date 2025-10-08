@@ -1,9 +1,13 @@
 ---
 slug: concerns-about-rising-use-of-compulsion-in-mental-health
-title: "Concerns about rising use of compulsion in mental health"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/GE1310/S00168/concerns-about-rising-use-of-compulsion-in-mental-health.htm
+title: Concerns about rising use of compulsion in mental health
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00168/concerns-about-rising-use-of-compulsion-in-mental-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/31/concerns-about-rising-use-of-compulsion-in-mental-health/index.html
+layout: layout.njk
 ---
 Concerns about rising use of compulsion in mental health
 ========================================================

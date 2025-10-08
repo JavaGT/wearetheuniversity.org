@@ -1,9 +1,16 @@
 ---
-slug: lincoln-universitys-new-student-social-spaces-opened-today-by-hon-poto-williams
-title: "Lincoln University's New Student Social Spaces Opened Today By Hon Poto Williams"
-date: 2020-07-31
-source-url: https://www.scoop.co.nz/stories/ED2007/S00045/lincoln-universitys-new-student-social-spaces-opened-today-by-hon-poto-williams.htm
+slug: >-
+  lincoln-universitys-new-student-social-spaces-opened-today-by-hon-poto-williams
+title: >-
+  Lincoln University's New Student Social Spaces Opened Today By Hon Poto
+  Williams
+date: 2020-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00045/lincoln-universitys-new-student-social-spaces-opened-today-by-hon-poto-williams.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/07/31/lincoln-universitys-new-student-social-spaces-opened-today-by-hon-poto-williams/index.html
+layout: layout.njk
 ---
 Lincoln University's New Student Social Spaces Opened Today By Hon Poto Williams
 ================================================================================

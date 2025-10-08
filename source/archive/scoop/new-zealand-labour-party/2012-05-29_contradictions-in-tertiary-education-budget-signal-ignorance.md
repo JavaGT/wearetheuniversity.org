@@ -1,9 +1,13 @@
 ---
 slug: contradictions-in-tertiary-education-budget-signal-ignorance
-title: "Contradictions in Tertiary Education Budget Signal Ignorance"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/PA1205/S00522/contradictions-in-tertiary-education-budget-signal-ignorance.htm
+title: Contradictions in Tertiary Education Budget Signal Ignorance
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00522/contradictions-in-tertiary-education-budget-signal-ignorance.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/29/contradictions-in-tertiary-education-budget-signal-ignorance/index.html
+layout: layout.njk
 ---
 Contradictions in Tertiary Education Budget Signal Ignorance
 ============================================================

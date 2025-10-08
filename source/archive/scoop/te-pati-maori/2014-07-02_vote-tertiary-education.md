@@ -1,9 +1,11 @@
 ---
 slug: vote-tertiary-education
-title: "Vote Tertiary Education"
-date: 2014-07-02
+title: Vote Tertiary Education
+date: 2014-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1407/S00032/vote-tertiary-education.htm
 author: te-pati-maori
+permalink: /archive/2014/07/02/vote-tertiary-education/index.html
+layout: layout.njk
 ---
 Vote Tertiary Education
 =======================

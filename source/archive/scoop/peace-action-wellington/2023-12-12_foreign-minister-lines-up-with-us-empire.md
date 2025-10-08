@@ -1,9 +1,12 @@
 ---
 slug: foreign-minister-lines-up-with-us-empire
-title: "Foreign Minister Lines Up With US Empire"
-date: 2023-12-12
-source-url: https://www.scoop.co.nz/stories/PO2312/S00086/foreign-minister-lines-up-with-us-empire.htm
+title: Foreign Minister Lines Up With US Empire
+date: 2023-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00086/foreign-minister-lines-up-with-us-empire.htm
 author: peace-action-wellington
+permalink: /archive/2023/12/12/foreign-minister-lines-up-with-us-empire/index.html
+layout: layout.njk
 ---
 Foreign Minister Lines Up With US Empire
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: tokoroa-culture-on-display
-title: "Tokoroa Culture On Display"
-date: 2004-07-20
+title: Tokoroa Culture On Display
+date: 2004-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00061/tokoroa-culture-on-display.htm
 author: waikato-university
+permalink: /archive/2004/07/20/tokoroa-culture-on-display/index.html
+layout: layout.njk
 ---
 Tokoroa Culture On Display
 ==========================

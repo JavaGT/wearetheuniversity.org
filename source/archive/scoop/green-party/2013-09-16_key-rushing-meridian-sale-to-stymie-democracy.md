@@ -1,9 +1,12 @@
 ---
 slug: key-rushing-meridian-sale-to-stymie-democracy
-title: "Key rushing Meridian sale to stymie democracy"
-date: 2013-09-16
-source-url: https://www.scoop.co.nz/stories/PA1309/S00283/key-rushing-meridian-sale-to-stymie-democracy.htm
+title: Key rushing Meridian sale to stymie democracy
+date: 2013-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00283/key-rushing-meridian-sale-to-stymie-democracy.htm
 author: green-party
+permalink: /archive/2013/09/16/key-rushing-meridian-sale-to-stymie-democracy/index.html
+layout: layout.njk
 ---
 Key rushing Meridian sale to stymie democracy
 =============================================

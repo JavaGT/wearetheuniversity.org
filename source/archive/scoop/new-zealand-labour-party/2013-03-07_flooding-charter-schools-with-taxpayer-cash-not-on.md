@@ -1,9 +1,13 @@
 ---
 slug: flooding-charter-schools-with-taxpayer-cash-not-on
-title: "Flooding charter schools with taxpayer cash not on"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/PA1303/S00105/flooding-charter-schools-with-taxpayer-cash-not-on.htm
+title: Flooding charter schools with taxpayer cash not on
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00105/flooding-charter-schools-with-taxpayer-cash-not-on.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/07/flooding-charter-schools-with-taxpayer-cash-not-on/index.html
+layout: layout.njk
 ---
 Flooding charter schools with taxpayer cash not on
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: asian-signs-show-citys-cosmopolitan-character
-title: "Asian signs show city’s cosmopolitan character"
-date: 2012-05-18
-source-url: https://www.scoop.co.nz/stories/ED1205/S00078/asian-signs-show-citys-cosmopolitan-character.htm
+title: Asian signs show city’s cosmopolitan character
+date: 2012-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00078/asian-signs-show-citys-cosmopolitan-character.htm
 author: massey-university
+permalink: /archive/2012/05/18/asian-signs-show-citys-cosmopolitan-character/index.html
+layout: layout.njk
 ---
 Asian signs show city’s cosmopolitan character
 ==============================================

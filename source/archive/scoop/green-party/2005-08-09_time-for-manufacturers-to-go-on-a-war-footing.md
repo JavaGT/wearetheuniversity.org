@@ -1,9 +1,12 @@
 ---
 slug: time-for-manufacturers-to-go-on-a-war-footing
-title: "Time for manufacturers to go on a war footing"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/PA0508/S00237/time-for-manufacturers-to-go-on-a-war-footing.htm
+title: Time for manufacturers to go on a war footing
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00237/time-for-manufacturers-to-go-on-a-war-footing.htm
 author: green-party
+permalink: /archive/2005/08/09/time-for-manufacturers-to-go-on-a-war-footing/index.html
+layout: layout.njk
 ---
 Time for manufacturers to go on a war footing
 =============================================

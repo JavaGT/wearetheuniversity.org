@@ -1,9 +1,12 @@
 ---
 slug: what-does-this-government-have-against-youth
-title: "What Does This Government Have Against Youth"
-date: 2010-02-11
-source-url: https://www.scoop.co.nz/stories/PA1002/S00149/what-does-this-government-have-against-youth.htm
+title: What Does This Government Have Against Youth
+date: 2010-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00149/what-does-this-government-have-against-youth.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/11/what-does-this-government-have-against-youth/index.html
+layout: layout.njk
 ---
 What Does This Government Have Against Youth
 ============================================

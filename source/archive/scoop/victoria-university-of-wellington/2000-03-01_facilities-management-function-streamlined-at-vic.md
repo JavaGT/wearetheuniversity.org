@@ -1,9 +1,13 @@
 ---
 slug: facilities-management-function-streamlined-at-vic
-title: "Facilities management function streamlined at Vic"
-date: 2000-03-01
-source-url: https://www.scoop.co.nz/stories/ED0003/S00001/facilities-management-function-streamlined-at-vic.htm
+title: Facilities management function streamlined at Vic
+date: 2000-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00001/facilities-management-function-streamlined-at-vic.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/03/01/facilities-management-function-streamlined-at-vic/index.html
+layout: layout.njk
 ---
 Facilities management function streamlined at Vic
 =================================================

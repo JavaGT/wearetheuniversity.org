@@ -1,9 +1,13 @@
 ---
 slug: russel-norman-comments-at-twin-coast-cycle-trail
-title: "Russel Norman comments at Twin Coast Cycle Trail"
-date: 2015-05-03
-source-url: https://www.scoop.co.nz/stories/PA1505/S00024/russel-norman-comments-at-twin-coast-cycle-trail.htm
+title: Russel Norman comments at Twin Coast Cycle Trail
+date: 2015-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00024/russel-norman-comments-at-twin-coast-cycle-trail.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/03/russel-norman-comments-at-twin-coast-cycle-trail/index.html
+layout: layout.njk
 ---
 Russel Norman comments at Twin Coast Cycle Trail
 ================================================

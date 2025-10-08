@@ -1,9 +1,16 @@
 ---
-slug: unions-to-hold-nationwide-day-of-action-in-opposition-to-govts-anti-worker-agenda
-title: "Unions To Hold Nationwide Day Of Action In Opposition To Govt’s Anti-worker Agenda"
-date: 2024-10-21
-source-url: https://www.scoop.co.nz/stories/PO2410/S00123/unions-to-hold-nationwide-day-of-action-in-opposition-to-govts-anti-worker-agenda.htm
+slug: >-
+  unions-to-hold-nationwide-day-of-action-in-opposition-to-govts-anti-worker-agenda
+title: >-
+  Unions To Hold Nationwide Day Of Action In Opposition To Govt’s Anti-worker
+  Agenda
+date: 2024-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2410/S00123/unions-to-hold-nationwide-day-of-action-in-opposition-to-govts-anti-worker-agenda.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/10/21/unions-to-hold-nationwide-day-of-action-in-opposition-to-govts-anti-worker-agenda/index.html
+layout: layout.njk
 ---
 Unions To Hold Nationwide Day Of Action In Opposition To Govt’s Anti-worker Agenda
 ==================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: tax-reform-on-greens-equality-agenda
-title: "Tax Reform on Greens Equality Agenda"
-date: 2010-01-26
-source-url: https://www.scoop.co.nz/stories/PA1001/S00105/tax-reform-on-greens-equality-agenda.htm
+title: Tax Reform on Greens Equality Agenda
+date: 2010-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00105/tax-reform-on-greens-equality-agenda.htm
 author: green-party
+permalink: /archive/2010/01/26/tax-reform-on-greens-equality-agenda/index.html
+layout: layout.njk
 ---
 Tax Reform on Greens Equality Agenda
 ====================================

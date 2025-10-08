@@ -1,9 +1,11 @@
 ---
 slug: record-rents-under-labour
-title: "Record Rents Under Labour"
-date: 2023-09-11
+title: Record Rents Under Labour
+date: 2023-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2309/S00060/record-rents-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/11/record-rents-under-labour/index.html
+layout: layout.njk
 ---
 Record Rents Under Labour
 =========================

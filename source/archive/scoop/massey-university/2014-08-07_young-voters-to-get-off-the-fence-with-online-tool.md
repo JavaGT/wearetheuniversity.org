@@ -1,9 +1,13 @@
 ---
 slug: young-voters-to-get-off-the-fence-with-online-tool
-title: "Young voters to get off the fence with online tool"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/PO1408/S00105/young-voters-to-get-off-the-fence-with-online-tool.htm
+title: Young voters to get off the fence with online tool
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00105/young-voters-to-get-off-the-fence-with-online-tool.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/07/young-voters-to-get-off-the-fence-with-online-tool/index.html
+layout: layout.njk
 ---
 Young voters to get off the fence with online tool
 ==================================================

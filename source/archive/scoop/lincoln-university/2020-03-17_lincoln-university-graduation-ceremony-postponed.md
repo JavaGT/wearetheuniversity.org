@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-graduation-ceremony-postponed
-title: "Lincoln University Graduation Ceremony Postponed"
-date: 2020-03-17
-source-url: https://www.scoop.co.nz/stories/ED2003/S00027/lincoln-university-graduation-ceremony-postponed.htm
+title: Lincoln University Graduation Ceremony Postponed
+date: 2020-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2003/S00027/lincoln-university-graduation-ceremony-postponed.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/03/17/lincoln-university-graduation-ceremony-postponed/index.html
+layout: layout.njk
 ---
 Lincoln University Graduation Ceremony Postponed
 ================================================

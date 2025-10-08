@@ -1,9 +1,12 @@
 ---
 slug: 5100-jobs-killed-by-minimum-wage-hike
-title: "5,100 Jobs Killed By Minimum Wage Hike"
-date: 2023-03-31
-source-url: https://www.scoop.co.nz/stories/PA2303/S00274/5100-jobs-killed-by-minimum-wage-hike.htm
+title: 5,100 Jobs Killed By Minimum Wage Hike
+date: 2023-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00274/5100-jobs-killed-by-minimum-wage-hike.htm
 author: act-new-zealand
+permalink: /archive/2023/03/31/5100-jobs-killed-by-minimum-wage-hike/index.html
+layout: layout.njk
 ---
 5,100 Jobs Killed By Minimum Wage Hike
 ======================================

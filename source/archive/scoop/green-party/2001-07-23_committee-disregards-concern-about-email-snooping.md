@@ -1,9 +1,13 @@
 ---
 slug: committee-disregards-concern-about-email-snooping
-title: "Committee Disregards Concern About Email Snooping"
-date: 2001-07-23
-source-url: https://www.scoop.co.nz/stories/PA0107/S00349/committee-disregards-concern-about-email-snooping.htm
+title: Committee Disregards Concern About Email Snooping
+date: 2001-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00349/committee-disregards-concern-about-email-snooping.htm
 author: green-party
+permalink: >-
+  /archive/2001/07/23/committee-disregards-concern-about-email-snooping/index.html
+layout: layout.njk
 ---
 Committee Disregards Concern About Email Snooping
 =================================================

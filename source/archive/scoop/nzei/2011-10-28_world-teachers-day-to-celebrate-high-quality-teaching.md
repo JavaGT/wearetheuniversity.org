@@ -1,9 +1,13 @@
 ---
 slug: world-teachers-day-to-celebrate-high-quality-teaching
-title: "World Teachers Day to celebrate high quality teaching"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/ED1110/S00131/world-teachers-day-to-celebrate-high-quality-teaching.htm
+title: World Teachers Day to celebrate high quality teaching
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00131/world-teachers-day-to-celebrate-high-quality-teaching.htm
 author: nzei
+permalink: >-
+  /archive/2011/10/28/world-teachers-day-to-celebrate-high-quality-teaching/index.html
+layout: layout.njk
 ---
 World Teachers Day to celebrate high quality teaching
 =====================================================

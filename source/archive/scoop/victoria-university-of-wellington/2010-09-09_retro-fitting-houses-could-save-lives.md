@@ -1,9 +1,12 @@
 ---
 slug: retro-fitting-houses-could-save-lives
-title: "Retro-fitting houses could save lives"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/ED1009/S00047/retro-fitting-houses-could-save-lives.htm
+title: Retro-fitting houses could save lives
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00047/retro-fitting-houses-could-save-lives.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/09/retro-fitting-houses-could-save-lives/index.html
+layout: layout.njk
 ---
 Retro-fitting houses could save lives
 =====================================

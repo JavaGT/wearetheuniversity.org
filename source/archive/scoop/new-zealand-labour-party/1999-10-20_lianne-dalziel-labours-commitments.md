@@ -1,9 +1,12 @@
 ---
 slug: lianne-dalziel-labours-commitments
-title: "Lianne Dalziel - Labour's commitments"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00455/lianne-dalziel-labours-commitments.htm
+title: Lianne Dalziel - Labour's commitments
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00455/lianne-dalziel-labours-commitments.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/lianne-dalziel-labours-commitments/index.html
+layout: layout.njk
 ---
 Lianne Dalziel - Labour's commitments
 =====================================

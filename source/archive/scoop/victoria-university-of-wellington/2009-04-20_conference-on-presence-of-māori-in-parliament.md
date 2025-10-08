@@ -1,9 +1,12 @@
 ---
 slug: conference-on-presence-of-māori-in-parliament
-title: "Conference on presence of Māori in Parliament"
-date: 2009-04-20
-source-url: https://www.scoop.co.nz/stories/PO0904/S00166/conference-on-presence-of-maori-in-parliament.htm
+title: Conference on presence of Māori in Parliament
+date: 2009-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00166/conference-on-presence-of-maori-in-parliament.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/20/conference-on-presence-of-m/index.html
+layout: layout.njk
 ---
 Conference on presence of Māori in Parliament
 =============================================

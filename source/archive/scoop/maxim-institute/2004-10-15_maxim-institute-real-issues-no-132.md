@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-132
-title: "Maxim Institute - Real Issues - No. 132"
-date: 2004-10-15
-source-url: https://www.scoop.co.nz/stories/PO0410/S00166/maxim-institute-real-issues-no-132.htm
+title: Maxim Institute - Real Issues - No. 132
+date: 2004-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0410/S00166/maxim-institute-real-issues-no-132.htm
 author: maxim-institute
+permalink: /archive/2004/10/15/maxim-institute-real-issues-no-132/index.html
+layout: layout.njk
 ---
 Maxim Institute - Real Issues - No. 132
 =======================================

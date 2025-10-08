@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-96
-title: "Maxim Institute - real issues - No. 96"
-date: 2004-02-05
-source-url: https://www.scoop.co.nz/stories/PO0402/S00043/maxim-institute-real-issues-no-96.htm
+title: Maxim Institute - real issues - No. 96
+date: 2004-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00043/maxim-institute-real-issues-no-96.htm
 author: maxim-institute
+permalink: /archive/2004/02/05/maxim-institute-real-issues-no-96/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 96
 ======================================

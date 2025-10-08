@@ -1,9 +1,12 @@
 ---
 slug: pupils-trade-togs-for-test-tubes-at-nanocamp
-title: "Pupils trade togs for test tubes at NanoCamp"
-date: 2009-01-21
-source-url: https://www.scoop.co.nz/stories/SC0901/S00027/pupils-trade-togs-for-test-tubes-at-nanocamp.htm
+title: Pupils trade togs for test tubes at NanoCamp
+date: 2009-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0901/S00027/pupils-trade-togs-for-test-tubes-at-nanocamp.htm
 author: massey-university
+permalink: /archive/2009/01/21/pupils-trade-togs-for-test-tubes-at-nanocamp/index.html
+layout: layout.njk
 ---
 Pupils trade togs for test tubes at NanoCamp
 ============================================

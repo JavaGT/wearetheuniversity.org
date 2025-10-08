@@ -1,9 +1,12 @@
 ---
 slug: profit-before-people-agenda-hits-again
-title: "Profit Before People Agenda Hits Again"
-date: 2015-08-07
-source-url: https://www.scoop.co.nz/stories/PA1508/S00095/profit-before-people-agenda-hits-again.htm
+title: Profit Before People Agenda Hits Again
+date: 2015-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00095/profit-before-people-agenda-hits-again.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/07/profit-before-people-agenda-hits-again/index.html
+layout: layout.njk
 ---
 Profit Before People Agenda Hits Again
 ======================================

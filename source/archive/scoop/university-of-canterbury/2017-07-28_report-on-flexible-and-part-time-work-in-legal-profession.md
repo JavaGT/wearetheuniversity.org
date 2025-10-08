@@ -1,9 +1,13 @@
 ---
 slug: report-on-flexible-and-part-time-work-in-legal-profession
-title: "Report on flexible and part-time work in legal profession"
-date: 2017-07-28
-source-url: https://www.scoop.co.nz/stories/BU1707/S00748/report-on-flexible-and-part-time-work-in-legal-profession.htm
+title: Report on flexible and part-time work in legal profession
+date: 2017-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1707/S00748/report-on-flexible-and-part-time-work-in-legal-profession.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/28/report-on-flexible-and-part-time-work-in-legal-profession/index.html
+layout: layout.njk
 ---
 Report on flexible and part-time work in legal profession
 =========================================================

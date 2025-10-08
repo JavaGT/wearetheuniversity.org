@@ -1,9 +1,13 @@
 ---
 slug: waikato-phd-research-to-strengthen-titanium-industry
-title: "Waikato PhD research to strengthen titanium industry"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/ED1409/S00025/waikato-phd-research-to-strengthen-titanium-industry.htm
+title: Waikato PhD research to strengthen titanium industry
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00025/waikato-phd-research-to-strengthen-titanium-industry.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/04/waikato-phd-research-to-strengthen-titanium-industry/index.html
+layout: layout.njk
 ---
 Waikato PhD research to strengthen titanium industry
 ====================================================

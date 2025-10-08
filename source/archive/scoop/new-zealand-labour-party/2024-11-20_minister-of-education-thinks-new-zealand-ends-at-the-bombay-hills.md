@@ -1,9 +1,13 @@
 ---
 slug: minister-of-education-thinks-new-zealand-ends-at-the-bombay-hills
-title: "Minister Of Education Thinks New Zealand Ends At The Bombay Hills"
-date: 2024-11-20
-source-url: https://www.scoop.co.nz/stories/PA2411/S00147/minister-of-education-thinks-new-zealand-ends-at-the-bombay-hills.htm
+title: Minister Of Education Thinks New Zealand Ends At The Bombay Hills
+date: 2024-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00147/minister-of-education-thinks-new-zealand-ends-at-the-bombay-hills.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/20/minister-of-education-thinks-new-zealand-ends-at-the-bombay-hills/index.html
+layout: layout.njk
 ---
 Minister Of Education Thinks New Zealand Ends At The Bombay Hills
 =================================================================

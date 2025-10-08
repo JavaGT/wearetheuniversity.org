@@ -1,9 +1,12 @@
 ---
 slug: ece-policy-your-family-your-choice
-title: "ECE policy: Your family - your choice"
-date: 2008-07-11
-source-url: https://www.scoop.co.nz/stories/PA0807/S00222/ece-policy-your-family-your-choice.htm
+title: 'ECE policy: Your family - your choice'
+date: 2008-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00222/ece-policy-your-family-your-choice.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/11/ece-policy-your-family-your-choice/index.html
+layout: layout.njk
 ---
 ECE policy: Your family - your choice
 =====================================

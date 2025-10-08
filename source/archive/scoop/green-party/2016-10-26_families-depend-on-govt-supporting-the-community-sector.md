@@ -1,9 +1,13 @@
 ---
 slug: families-depend-on-govt-supporting-the-community-sector
-title: "Families depend on Govt supporting the community sector"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PA1610/S00391/families-depend-on-govt-supporting-the-community-sector.htm
+title: Families depend on Govt supporting the community sector
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00391/families-depend-on-govt-supporting-the-community-sector.htm
 author: green-party
+permalink: >-
+  /archive/2016/10/26/families-depend-on-govt-supporting-the-community-sector/index.html
+layout: layout.njk
 ---
 Families depend on Govt supporting the community sector
 =======================================================

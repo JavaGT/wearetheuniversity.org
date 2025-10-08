@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-8-july-2005
-title: "www.mccully.co.nz -8 July 2005"
-date: 2005-07-08
+title: www.mccully.co.nz -8 July 2005
+date: 2005-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00187/wwwmccullyconz-8-july-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/08/www-mccully-co-nz-8-july-2005/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz -8 July 2005
 ==============================

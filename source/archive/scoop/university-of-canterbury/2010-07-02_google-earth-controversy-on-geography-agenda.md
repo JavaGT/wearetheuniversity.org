@@ -1,9 +1,12 @@
 ---
 slug: google-earth-controversy-on-geography-agenda
-title: "Google Earth controversy on geography agenda"
-date: 2010-07-02
-source-url: https://www.scoop.co.nz/stories/ED1007/S00007/google-earth-controversy-on-geography-agenda.htm
+title: Google Earth controversy on geography agenda
+date: 2010-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00007/google-earth-controversy-on-geography-agenda.htm
 author: university-of-canterbury
+permalink: /archive/2010/07/02/google-earth-controversy-on-geography-agenda/index.html
+layout: layout.njk
 ---
 Google Earth controversy on geography agenda
 ============================================

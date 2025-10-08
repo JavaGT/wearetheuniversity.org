@@ -1,9 +1,12 @@
 ---
 slug: shutting-the-university-doors-students-say-no
-title: "Shutting The University Doors – Students Say NO"
-date: 2007-12-03
-source-url: https://www.scoop.co.nz/stories/ED0712/S00003/shutting-the-university-doors-students-say-no.htm
+title: Shutting The University Doors – Students Say NO
+date: 2007-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00003/shutting-the-university-doors-students-say-no.htm
 author: auckland-university-students-association
+permalink: /archive/2007/12/03/shutting-the-university-doors-students-say-no/index.html
+layout: layout.njk
 ---
 Shutting The University Doors – Students Say NO
 ===============================================

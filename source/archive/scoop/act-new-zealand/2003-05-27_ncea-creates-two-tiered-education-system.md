@@ -1,9 +1,12 @@
 ---
 slug: ncea-creates-two-tiered-education-system
-title: "NCEA Creates Two-Tiered Education System"
-date: 2003-05-27
-source-url: https://www.scoop.co.nz/stories/PA0305/S00659/ncea-creates-two-tiered-education-system.htm
+title: NCEA Creates Two-Tiered Education System
+date: 2003-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00659/ncea-creates-two-tiered-education-system.htm
 author: act-new-zealand
+permalink: /archive/2003/05/27/ncea-creates-two-tiered-education-system/index.html
+layout: layout.njk
 ---
 NCEA Creates Two-Tiered Education System
 ========================================

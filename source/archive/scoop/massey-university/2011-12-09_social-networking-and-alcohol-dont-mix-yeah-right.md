@@ -1,9 +1,13 @@
 ---
 slug: social-networking-and-alcohol-dont-mix-yeah-right
-title: "Social networking and alcohol don’t mix –Yeah right"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/CU1112/S00165/social-networking-and-alcohol-dont-mix-yeah-right.htm
+title: Social networking and alcohol don’t mix –Yeah right
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00165/social-networking-and-alcohol-dont-mix-yeah-right.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/09/social-networking-and-alcohol-dont-mix-yeah-right/index.html
+layout: layout.njk
 ---
 Social networking and alcohol don’t mix –Yeah right
 ===================================================

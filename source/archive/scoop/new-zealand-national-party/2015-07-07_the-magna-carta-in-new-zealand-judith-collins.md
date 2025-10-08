@@ -1,9 +1,12 @@
 ---
 slug: the-magna-carta-in-new-zealand-judith-collins
-title: "The Magna Carta in New Zealand - Judith Collins"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/PA1507/S00113/the-magna-carta-in-new-zealand-judith-collins.htm
+title: The Magna Carta in New Zealand - Judith Collins
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00113/the-magna-carta-in-new-zealand-judith-collins.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/07/the-magna-carta-in-new-zealand-judith-collins/index.html
+layout: layout.njk
 ---
 The Magna Carta in New Zealand - Judith Collins
 ===============================================

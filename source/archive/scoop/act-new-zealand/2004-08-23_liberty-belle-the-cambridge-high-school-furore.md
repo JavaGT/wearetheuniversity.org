@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-the-cambridge-high-school-furore
-title: "Liberty Belle: The Cambridge High School Furore"
-date: 2004-08-23
-source-url: https://www.scoop.co.nz/stories/PA0408/S00367/liberty-belle-the-cambridge-high-school-furore.htm
+title: 'Liberty Belle: The Cambridge High School Furore'
+date: 2004-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00367/liberty-belle-the-cambridge-high-school-furore.htm
 author: act-new-zealand
+permalink: /archive/2004/08/23/liberty-belle-the-cambridge-high-school-furore/index.html
+layout: layout.njk
 ---
 Liberty Belle: The Cambridge High School Furore
 ===============================================

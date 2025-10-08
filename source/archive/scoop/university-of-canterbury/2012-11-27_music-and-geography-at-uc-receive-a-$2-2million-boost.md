@@ -1,9 +1,12 @@
 ---
 slug: music-and-geography-at-uc-receive-a-$2-2million-boost
-title: "Music and geography at UC receive a $2.2million boost"
-date: 2012-11-27
-source-url: https://www.scoop.co.nz/stories/ED1211/S00193/music-and-geography-at-uc-receive-a-22million-boost.htm
+title: Music and geography at UC receive a $2.2million boost
+date: 2012-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00193/music-and-geography-at-uc-receive-a-22million-boost.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/27/music-and-geography-at-uc-receive-a-/index.html
+layout: layout.njk
 ---
 Music and geography at UC receive a $2.2million boost
 =====================================================

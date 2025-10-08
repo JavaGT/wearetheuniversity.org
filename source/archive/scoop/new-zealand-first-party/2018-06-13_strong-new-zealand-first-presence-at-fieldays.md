@@ -1,9 +1,12 @@
 ---
 slug: strong-new-zealand-first-presence-at-fieldays
-title: "Strong New Zealand First presence at Fieldays"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/PA1806/S00126/strong-new-zealand-first-presence-at-fieldays.htm
+title: Strong New Zealand First presence at Fieldays
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00126/strong-new-zealand-first-presence-at-fieldays.htm
 author: new-zealand-first-party
+permalink: /archive/2018/06/13/strong-new-zealand-first-presence-at-fieldays/index.html
+layout: layout.njk
 ---
 Strong New Zealand First presence at Fieldays
 =============================================

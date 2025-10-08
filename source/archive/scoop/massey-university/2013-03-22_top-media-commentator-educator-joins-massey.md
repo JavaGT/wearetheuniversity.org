@@ -1,9 +1,12 @@
 ---
 slug: top-media-commentator-educator-joins-massey
-title: "Top media commentator, educator joins Massey"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00151/top-media-commentator-educator-joins-massey.htm
+title: Top media commentator, educator joins Massey
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00151/top-media-commentator-educator-joins-massey.htm
 author: massey-university
+permalink: /archive/2013/03/22/top-media-commentator-educator-joins-massey/index.html
+layout: layout.njk
 ---
 Top media commentator, educator joins Massey
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: not-too-late-to-put-openness-into-tppa
-title: "Not Too Late to Put Openness into TPPA"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00258/not-too-late-to-put-openness-into-tppa.htm
+title: Not Too Late to Put Openness into TPPA
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00258/not-too-late-to-put-openness-into-tppa.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/15/not-too-late-to-put-openness-into-tppa/index.html
+layout: layout.njk
 ---
 Not Too Late to Put Openness into TPPA
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: truancy-spirals-out-of-control-as-govt-dithers
-title: "Truancy spirals out of control as Govt dithers"
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/PA0209/S00146/truancy-spirals-out-of-control-as-govt-dithers.htm
+title: Truancy spirals out of control as Govt dithers
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00146/truancy-spirals-out-of-control-as-govt-dithers.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/10/truancy-spirals-out-of-control-as-govt-dithers/index.html
+layout: layout.njk
 ---
 Truancy spirals out of control as Govt dithers
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: ero-praises-primary-teacher-success
-title: "ERO Praises Primary Teacher Success"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/ED0503/S00011/ero-praises-primary-teacher-success.htm
+title: ERO Praises Primary Teacher Success
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00011/ero-praises-primary-teacher-success.htm
 author: nzei
+permalink: /archive/2005/03/03/ero-praises-primary-teacher-success/index.html
+layout: layout.njk
 ---
 ERO Praises Primary Teacher Success
 ===================================

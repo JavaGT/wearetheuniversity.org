@@ -1,9 +1,12 @@
 ---
 slug: whanganui-dhb-needs-to-live-up-to-good-health
-title: "Whanganui DHB Needs to live up to 'Good Health'"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/PA0708/S00555/whanganui-dhb-needs-to-live-up-to-good-health.htm
+title: Whanganui DHB Needs to live up to 'Good Health'
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00555/whanganui-dhb-needs-to-live-up-to-good-health.htm
 author: te-pati-maori
+permalink: /archive/2007/08/31/whanganui-dhb-needs-to-live-up-to-good-health/index.html
+layout: layout.njk
 ---
 Whanganui DHB Needs to live up to 'Good Health'
 ===============================================

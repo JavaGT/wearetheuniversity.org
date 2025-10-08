@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-bestows-posthumous-honorary-doctorate
-title: "Waikato Uni bestows posthumous honorary doctorate"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/ED0906/S00081/waikato-uni-bestows-posthumous-honorary-doctorate.htm
+title: Waikato Uni bestows posthumous honorary doctorate
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00081/waikato-uni-bestows-posthumous-honorary-doctorate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/06/29/waikato-uni-bestows-posthumous-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Waikato Uni bestows posthumous honorary doctorate
 =================================================

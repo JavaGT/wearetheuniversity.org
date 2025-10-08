@@ -1,9 +1,12 @@
 ---
 slug: labour-congratulates-merkel-on-election-victory
-title: "Labour congratulates Merkel on election victory"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/PA0909/S00400/labour-congratulates-merkel-on-election-victory.htm
+title: Labour congratulates Merkel on election victory
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00400/labour-congratulates-merkel-on-election-victory.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/28/labour-congratulates-merkel-on-election-victory/index.html
+layout: layout.njk
 ---
 Labour congratulates Merkel on election victory
 ===============================================

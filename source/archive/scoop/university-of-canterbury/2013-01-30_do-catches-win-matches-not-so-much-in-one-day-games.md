@@ -1,9 +1,13 @@
 ---
 slug: do-catches-win-matches-not-so-much-in-one-day-games
-title: "Do Catches Win Matches? Not So Much In One-Day Games"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/CU1301/S00463/do-catches-win-matches-not-so-much-in-one-day-games.htm
+title: Do Catches Win Matches? Not So Much In One-Day Games
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1301/S00463/do-catches-win-matches-not-so-much-in-one-day-games.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/30/do-catches-win-matches-not-so-much-in-one-day-games/index.html
+layout: layout.njk
 ---
 Do Catches Win Matches? Not So Much In One-Day Games
 ====================================================

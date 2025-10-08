@@ -1,8 +1,11 @@
 ---
 slug: carbon-tax-could-lower-emissions-and-gst
-title: "Carbon tax could lower emissions and GST"
-date: 2016-07-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/carbon-tax-could-lower-emissions-and-gst-.html
+title: Carbon tax could lower emissions and GST
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/carbon-tax-could-lower-emissions-and-gst-.html
+permalink: /archive/2016/07/22/carbon-tax-could-lower-emissions-and-gst/index.html
+layout: layout.njk
 ---
 Carbon tax could lower emissions and GST
 ========================================

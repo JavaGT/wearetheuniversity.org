@@ -1,9 +1,11 @@
 ---
 slug: why-kaupapa-maori-cant-help
-title: "Why kaupapa Maori can’t help"
-date: 2004-09-24
+title: Why kaupapa Maori can’t help
+date: 2004-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0409/S00115/why-kaupapa-maori-cant-help.htm
 author: auckland-university
+permalink: /archive/2004/09/24/why-kaupapa-maori-cant-help/index.html
+layout: layout.njk
 ---
 Why kaupapa Maori can’t help
 ============================

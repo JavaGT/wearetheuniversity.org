@@ -1,9 +1,12 @@
 ---
 slug: nz-first-candidate-for-east-coast-announced
-title: "NZ First candidate for East Coast announced"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/PO1408/S00152/nz-first-candidate-for-east-coast-announced.htm
+title: NZ First candidate for East Coast announced
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00152/nz-first-candidate-for-east-coast-announced.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/11/nz-first-candidate-for-east-coast-announced/index.html
+layout: layout.njk
 ---
 NZ First candidate for East Coast announced
 ===========================================

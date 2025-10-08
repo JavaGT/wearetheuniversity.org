@@ -1,9 +1,12 @@
 ---
 slug: pms-promise-205-new-jobs-a-day
-title: "PM’s Promise:  205 New Jobs a Day"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/PA1410/S00009/pms-promise-205-new-jobs-a-day.htm
+title: 'PM’s Promise:  205 New Jobs a Day'
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00009/pms-promise-205-new-jobs-a-day.htm
 author: new-zealand-first-party
+permalink: /archive/2014/10/02/pms-promise-205-new-jobs-a-day/index.html
+layout: layout.njk
 ---
 PM’s Promise: 205 New Jobs a Day
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-dairy-industry-restructuring-second-reading
-title: "Rahui Katene - Dairy Industry Restructuring Second Reading"
-date: 2011-05-03
-source-url: https://www.scoop.co.nz/stories/PA1105/S00047/rahui-katene-dairy-industry-restructuring-second-reading.htm
+title: Rahui Katene - Dairy Industry Restructuring Second Reading
+date: 2011-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00047/rahui-katene-dairy-industry-restructuring-second-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/03/rahui-katene-dairy-industry-restructuring-second-reading/index.html
+layout: layout.njk
 ---
 Rahui Katene - Dairy Industry Restructuring Second Reading
 ==========================================================

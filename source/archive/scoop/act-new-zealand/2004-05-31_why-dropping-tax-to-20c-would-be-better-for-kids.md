@@ -1,9 +1,13 @@
 ---
 slug: why-dropping-tax-to-20c-would-be-better-for-kids
-title: "Why Dropping Tax To 20c Would Be Better For Kids"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00666/why-dropping-tax-to-20c-would-be-better-for-kids.htm
+title: Why Dropping Tax To 20c Would Be Better For Kids
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00666/why-dropping-tax-to-20c-would-be-better-for-kids.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/05/31/why-dropping-tax-to-20c-would-be-better-for-kids/index.html
+layout: layout.njk
 ---
 Why Dropping Tax To 20c Would Be Better For Kids
 ================================================

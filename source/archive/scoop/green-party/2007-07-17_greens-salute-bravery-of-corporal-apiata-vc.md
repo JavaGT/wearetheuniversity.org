@@ -1,9 +1,12 @@
 ---
 slug: greens-salute-bravery-of-corporal-apiata-vc
-title: "Greens salute bravery of Corporal Apiata VC"
-date: 2007-07-17
-source-url: https://www.scoop.co.nz/stories/PA0707/S00251/greens-salute-bravery-of-corporal-apiata-vc.htm
+title: Greens salute bravery of Corporal Apiata VC
+date: 2007-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00251/greens-salute-bravery-of-corporal-apiata-vc.htm
 author: green-party
+permalink: /archive/2007/07/17/greens-salute-bravery-of-corporal-apiata-vc/index.html
+layout: layout.njk
 ---
 Greens salute bravery of Corporal Apiata VC
 ===========================================

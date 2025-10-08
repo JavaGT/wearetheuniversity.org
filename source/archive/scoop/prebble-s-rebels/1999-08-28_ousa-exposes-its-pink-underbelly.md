@@ -1,9 +1,12 @@
 ---
 slug: ousa-exposes-its-pink-underbelly
-title: "OUSA Exposes Its Pink Underbelly"
-date: 1999-08-28
-source-url: https://www.scoop.co.nz/stories/PO9908/S00109/ousa-exposes-its-pink-underbelly.htm
+title: OUSA Exposes Its Pink Underbelly
+date: 1999-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9908/S00109/ousa-exposes-its-pink-underbelly.htm
 author: prebble-s-rebels
+permalink: /archive/1999/08/28/ousa-exposes-its-pink-underbelly/index.html
+layout: layout.njk
 ---
 OUSA Exposes Its Pink Underbelly
 ================================

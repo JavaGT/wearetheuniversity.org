@@ -1,9 +1,12 @@
 ---
 slug: simon-upton-speech-what-sort-of-a-nation-is-nz
-title: "Simon Upton Speech: What Sort of a Nation is NZ?"
-date: 2000-12-06
-source-url: https://www.scoop.co.nz/stories/PA0012/S00099/simon-upton-speech-what-sort-of-a-nation-is-nz.htm
+title: 'Simon Upton Speech: What Sort of a Nation is NZ?'
+date: 2000-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00099/simon-upton-speech-what-sort-of-a-nation-is-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/06/simon-upton-speech-what-sort-of-a-nation-is-nz/index.html
+layout: layout.njk
 ---
 Simon Upton Speech: What Sort of a Nation is NZ?
 ================================================

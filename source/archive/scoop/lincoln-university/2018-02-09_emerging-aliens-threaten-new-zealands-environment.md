@@ -1,9 +1,13 @@
 ---
 slug: emerging-aliens-threaten-new-zealands-environment
-title: "Emerging aliens threaten New Zealand’s environment"
-date: 2018-02-09
-source-url: https://www.scoop.co.nz/stories/SC1802/S00020/emerging-aliens-threaten-new-zealands-environment.htm
+title: Emerging aliens threaten New Zealand’s environment
+date: 2018-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00020/emerging-aliens-threaten-new-zealands-environment.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/02/09/emerging-aliens-threaten-new-zealands-environment/index.html
+layout: layout.njk
 ---
 Emerging aliens threaten New Zealand’s environment
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-timber-engineering-professor-wins-nz-architect-award
-title: "UC Timber Engineering Professor Wins NZ Architect Award"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/AK1305/S00588/uc-timber-engineering-professor-wins-nz-architect-award.htm
+title: UC Timber Engineering Professor Wins NZ Architect Award
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00588/uc-timber-engineering-professor-wins-nz-architect-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/27/uc-timber-engineering-professor-wins-nz-architect-award/index.html
+layout: layout.njk
 ---
 UC Timber Engineering Professor Wins NZ Architect Award
 =======================================================

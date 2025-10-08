@@ -1,9 +1,12 @@
 ---
 slug: exhibition-highlights-māori-deaf-students-experiences
-title: "Exhibition highlights Māori Deaf students’ experiences"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/CU1407/S00233/exhibition-highlights-maori-deaf-students-experiences.htm
+title: Exhibition highlights Māori Deaf students’ experiences
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00233/exhibition-highlights-maori-deaf-students-experiences.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/16/exhibition-highlights-m/index.html
+layout: layout.njk
 ---
 Exhibition highlights Māori Deaf students’ experiences
 ======================================================

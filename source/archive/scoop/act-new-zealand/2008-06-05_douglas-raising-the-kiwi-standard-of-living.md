@@ -1,9 +1,12 @@
 ---
 slug: douglas-raising-the-kiwi-standard-of-living
-title: "Douglas: Raising The Kiwi Standard Of Living"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/PO0806/S00047/douglas-raising-the-kiwi-standard-of-living.htm
+title: 'Douglas: Raising The Kiwi Standard Of Living'
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0806/S00047/douglas-raising-the-kiwi-standard-of-living.htm
 author: act-new-zealand
+permalink: /archive/2008/06/05/douglas-raising-the-kiwi-standard-of-living/index.html
+layout: layout.njk
 ---
 Douglas: Raising The Kiwi Standard Of Living
 ============================================

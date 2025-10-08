@@ -1,9 +1,12 @@
 ---
 slug: meremere-fatality-requires-government-action
-title: "Meremere fatality requires Government action"
-date: 2003-01-06
-source-url: https://www.scoop.co.nz/stories/PA0301/S00017/meremere-fatality-requires-government-action.htm
+title: Meremere fatality requires Government action
+date: 2003-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00017/meremere-fatality-requires-government-action.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/06/meremere-fatality-requires-government-action/index.html
+layout: layout.njk
 ---
 Meremere fatality requires Government action
 ============================================

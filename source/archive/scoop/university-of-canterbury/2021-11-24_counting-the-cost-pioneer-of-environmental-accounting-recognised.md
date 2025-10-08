@@ -1,9 +1,13 @@
 ---
 slug: counting-the-cost-pioneer-of-environmental-accounting-recognised
-title: "Counting The Cost – Pioneer Of Environmental Accounting Recognised"
-date: 2021-11-24
-source-url: https://www.scoop.co.nz/stories/PO2111/S00222/counting-the-cost-pioneer-of-environmental-accounting-recognised.htm
+title: Counting The Cost – Pioneer Of Environmental Accounting Recognised
+date: 2021-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00222/counting-the-cost-pioneer-of-environmental-accounting-recognised.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/24/counting-the-cost-pioneer-of-environmental-accounting-recognised/index.html
+layout: layout.njk
 ---
 Counting The Cost – Pioneer Of Environmental Accounting Recognised
 ==================================================================

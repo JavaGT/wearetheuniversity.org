@@ -1,9 +1,12 @@
 ---
 slug: wellington-software-firm-funds-annual-award
-title: "Wellington Software Firm Funds Annual Award"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/ED0603/S00020/wellington-software-firm-funds-annual-award.htm
+title: Wellington Software Firm Funds Annual Award
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00020/wellington-software-firm-funds-annual-award.htm
 author: university-of-otago
+permalink: /archive/2006/03/06/wellington-software-firm-funds-annual-award/index.html
+layout: layout.njk
 ---
 Wellington Software Firm Funds Annual Award
 ===========================================

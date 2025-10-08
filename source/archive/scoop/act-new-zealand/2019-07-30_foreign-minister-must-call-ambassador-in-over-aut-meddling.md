@@ -1,9 +1,13 @@
 ---
 slug: foreign-minister-must-call-ambassador-in-over-aut-meddling
-title: "Foreign Minister must call Ambassador in over AUT meddling"
-date: 2019-07-30
-source-url: https://www.scoop.co.nz/stories/PA1907/S00241/foreign-minister-must-call-ambassador-in-over-aut-meddling.htm
+title: Foreign Minister must call Ambassador in over AUT meddling
+date: 2019-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00241/foreign-minister-must-call-ambassador-in-over-aut-meddling.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/07/30/foreign-minister-must-call-ambassador-in-over-aut-meddling/index.html
+layout: layout.njk
 ---
 Foreign Minister must call Ambassador in over AUT meddling
 ==========================================================

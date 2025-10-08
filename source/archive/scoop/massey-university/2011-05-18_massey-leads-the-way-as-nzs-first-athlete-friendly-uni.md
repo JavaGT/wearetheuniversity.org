@@ -1,9 +1,13 @@
 ---
 slug: massey-leads-the-way-as-nzs-first-athlete-friendly-uni
-title: "Massey leads the way as NZ’s first athlete friendly uni"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/ED1105/S00070/massey-leads-the-way-as-nzs-first-athlete-friendly-uni.htm
+title: Massey leads the way as NZ’s first athlete friendly uni
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00070/massey-leads-the-way-as-nzs-first-athlete-friendly-uni.htm
 author: massey-university
+permalink: >-
+  /archive/2011/05/18/massey-leads-the-way-as-nzs-first-athlete-friendly-uni/index.html
+layout: layout.njk
 ---
 Massey leads the way as NZ’s first athlete friendly uni
 =======================================================

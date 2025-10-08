@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-on-truancy
-title: "Too little, too late on truancy"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/PA0310/S00306/too-little-too-late-on-truancy.htm
+title: Too little, too late on truancy
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00306/too-little-too-late-on-truancy.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/14/too-little-too-late-on-truancy/index.html
+layout: layout.njk
 ---
 Too little, too late on truancy
 ===============================

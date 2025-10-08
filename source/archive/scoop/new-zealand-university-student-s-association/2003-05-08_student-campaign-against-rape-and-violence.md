@@ -1,9 +1,12 @@
 ---
 slug: student-campaign-against-rape-and-violence
-title: "Student campaign against rape and violence"
-date: 2003-05-08
-source-url: https://www.scoop.co.nz/stories/ED0305/S00022/student-campaign-against-rape-and-violence.htm
+title: Student campaign against rape and violence
+date: 2003-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00022/student-campaign-against-rape-and-violence.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/05/08/student-campaign-against-rape-and-violence/index.html
+layout: layout.njk
 ---
 Student campaign against rape and violence
 ==========================================

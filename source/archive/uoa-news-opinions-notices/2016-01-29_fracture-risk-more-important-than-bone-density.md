@@ -1,8 +1,11 @@
 ---
 slug: fracture-risk-more-important-than-bone-density
-title: "Fracture risk more important than bone density"
-date: 2016-01-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/-fracture-risk-more-important-than-bone-density.html
+title: Fracture risk more important than bone density
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/-fracture-risk-more-important-than-bone-density.html
+permalink: /archive/2016/01/29/fracture-risk-more-important-than-bone-density/index.html
+layout: layout.njk
 ---
 Fracture risk more important than bone density
 ==============================================

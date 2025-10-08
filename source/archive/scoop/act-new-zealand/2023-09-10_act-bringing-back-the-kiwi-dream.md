@@ -1,9 +1,12 @@
 ---
 slug: act-bringing-back-the-kiwi-dream
-title: "ACT Bringing Back The Kiwi Dream"
-date: 2023-09-10
-source-url: https://www.scoop.co.nz/stories/PA2309/S00055/act-bringing-back-the-kiwi-dream.htm
+title: ACT Bringing Back The Kiwi Dream
+date: 2023-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00055/act-bringing-back-the-kiwi-dream.htm
 author: act-new-zealand
+permalink: /archive/2023/09/10/act-bringing-back-the-kiwi-dream/index.html
+layout: layout.njk
 ---
 ACT Bringing Back The Kiwi Dream
 ================================

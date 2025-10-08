@@ -1,9 +1,12 @@
 ---
 slug: support-for-the-civil-union-bill
-title: "Support For The Civil Union Bill"
-date: 2004-12-08
-source-url: https://www.scoop.co.nz/stories/PO0412/S00088/support-for-the-civil-union-bill.htm
+title: Support For The Civil Union Bill
+date: 2004-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00088/support-for-the-civil-union-bill.htm
 author: victoria-university-students-association
+permalink: /archive/2004/12/08/support-for-the-civil-union-bill/index.html
+layout: layout.njk
 ---
 Support For The Civil Union Bill
 ================================

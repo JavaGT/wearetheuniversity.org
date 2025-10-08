@@ -1,9 +1,12 @@
 ---
 slug: govt-dragging-its-heels-on-auckland-schools
-title: "Govt dragging its heels on Auckland schools"
-date: 2018-04-18
-source-url: https://www.scoop.co.nz/stories/PA1804/S00214/govt-dragging-its-heels-on-auckland-schools.htm
+title: Govt dragging its heels on Auckland schools
+date: 2018-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00214/govt-dragging-its-heels-on-auckland-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/18/govt-dragging-its-heels-on-auckland-schools/index.html
+layout: layout.njk
 ---
 Govt dragging its heels on Auckland schools
 ===========================================

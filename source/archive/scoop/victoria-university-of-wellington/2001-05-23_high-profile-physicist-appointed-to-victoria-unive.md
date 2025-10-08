@@ -1,9 +1,13 @@
 ---
 slug: high-profile-physicist-appointed-to-victoria-unive
-title: "High profile physicist appointed to Victoria Unive"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/SC0105/S00065/high-profile-physicist-appointed-to-victoria-unive.htm
+title: High profile physicist appointed to Victoria Unive
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0105/S00065/high-profile-physicist-appointed-to-victoria-unive.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/05/23/high-profile-physicist-appointed-to-victoria-unive/index.html
+layout: layout.njk
 ---
 High profile physicist appointed to Victoria Unive
 ==================================================

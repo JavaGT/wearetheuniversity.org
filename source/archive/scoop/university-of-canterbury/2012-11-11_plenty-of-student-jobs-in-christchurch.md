@@ -1,9 +1,12 @@
 ---
 slug: plenty-of-student-jobs-in-christchurch
-title: "Plenty of student jobs in Christchurch"
-date: 2012-11-11
-source-url: https://www.scoop.co.nz/stories/AK1211/S00284/plenty-of-student-jobs-in-christchurch.htm
+title: Plenty of student jobs in Christchurch
+date: 2012-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1211/S00284/plenty-of-student-jobs-in-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/11/plenty-of-student-jobs-in-christchurch/index.html
+layout: layout.njk
 ---
 Plenty of student jobs in Christchurch
 ======================================

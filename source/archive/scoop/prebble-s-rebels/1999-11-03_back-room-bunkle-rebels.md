@@ -1,9 +1,11 @@
 ---
 slug: back-room-bunkle-rebels
-title: "Back-Room Bunkle - Rebels"
-date: 1999-11-03
+title: Back-Room Bunkle - Rebels
+date: 1999-11-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9911/S00015/back-room-bunkle-rebels.htm
 author: prebble-s-rebels
+permalink: /archive/1999/11/03/back-room-bunkle-rebels/index.html
+layout: layout.njk
 ---
 Back-Room Bunkle - Rebels
 =========================

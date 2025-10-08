@@ -1,9 +1,12 @@
 ---
 slug: students-at-risk-from-lame-duck-leadership
-title: "Students at risk from lame duck leadership"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/PA0505/S00173/students-at-risk-from-lame-duck-leadership.htm
+title: Students at risk from lame duck leadership
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00173/students-at-risk-from-lame-duck-leadership.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/09/students-at-risk-from-lame-duck-leadership/index.html
+layout: layout.njk
 ---
 Students at risk from lame duck leadership
 ==========================================

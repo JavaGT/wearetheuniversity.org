@@ -1,9 +1,12 @@
 ---
 slug: action-needed-not-more-consultation
-title: "Action needed, not more consultation"
-date: 2003-03-12
-source-url: https://www.scoop.co.nz/stories/PA0303/S00199/action-needed-not-more-consultation.htm
+title: Action needed, not more consultation
+date: 2003-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00199/action-needed-not-more-consultation.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/12/action-needed-not-more-consultation/index.html
+layout: layout.njk
 ---
 Action needed, not more consultation
 ====================================

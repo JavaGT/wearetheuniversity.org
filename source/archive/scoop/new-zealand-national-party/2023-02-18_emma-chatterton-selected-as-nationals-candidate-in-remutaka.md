@@ -1,9 +1,13 @@
 ---
 slug: emma-chatterton-selected-as-nationals-candidate-in-remutaka
-title: "Emma Chatterton selected as National’s candidate in Remutaka"
-date: 2023-02-18
-source-url: https://www.scoop.co.nz/stories/PO2302/S00096/emma-chatterton-selected-as-nationals-candidate-in-remutaka.htm
+title: Emma Chatterton selected as National’s candidate in Remutaka
+date: 2023-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00096/emma-chatterton-selected-as-nationals-candidate-in-remutaka.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/18/emma-chatterton-selected-as-nationals-candidate-in-remutaka/index.html
+layout: layout.njk
 ---
 Emma Chatterton selected as National’s candidate in Remutaka
 ============================================================

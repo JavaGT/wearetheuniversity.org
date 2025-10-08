@@ -1,9 +1,13 @@
 ---
 slug: medical-marvels-exhibition-14-december-to-15-march
-title: "Medical Marvels  Exhibition - 14 December to 15 March"
-date: 2018-12-10
-source-url: https://www.scoop.co.nz/stories/AK1812/S00222/medical-marvels-exhibition-14-december-to-15-march.htm
+title: Medical Marvels  Exhibition - 14 December to 15 March
+date: 2018-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1812/S00222/medical-marvels-exhibition-14-december-to-15-march.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/12/10/medical-marvels-exhibition-14-december-to-15-march/index.html
+layout: layout.njk
 ---
 Medical Marvels Exhibition - 14 December to 15 March
 ====================================================

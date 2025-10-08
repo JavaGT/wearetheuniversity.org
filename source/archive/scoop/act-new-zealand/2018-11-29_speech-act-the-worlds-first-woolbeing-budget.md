@@ -1,9 +1,12 @@
 ---
 slug: speech-act-the-worlds-first-woolbeing-budget
-title: "Speech: ACT - The World’s First Woolbeing Budget"
-date: 2018-11-29
-source-url: https://www.scoop.co.nz/stories/PA1811/S00323/speech-act-the-worlds-first-woolbeing-budget.htm
+title: 'Speech: ACT - The World’s First Woolbeing Budget'
+date: 2018-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00323/speech-act-the-worlds-first-woolbeing-budget.htm
 author: act-new-zealand
+permalink: /archive/2018/11/29/speech-act-the-worlds-first-woolbeing-budget/index.html
+layout: layout.njk
 ---
 Speech: ACT - The World’s First Woolbeing Budget
 ================================================

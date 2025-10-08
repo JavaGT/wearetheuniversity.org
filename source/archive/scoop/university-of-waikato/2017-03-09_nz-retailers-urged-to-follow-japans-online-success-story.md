@@ -1,9 +1,13 @@
 ---
 slug: nz-retailers-urged-to-follow-japans-online-success-story
-title: "NZ retailers urged to follow Japan’s online success story"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/BU1703/S00333/nz-retailers-urged-to-follow-japans-online-success-story.htm
+title: NZ retailers urged to follow Japan’s online success story
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1703/S00333/nz-retailers-urged-to-follow-japans-online-success-story.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/03/09/nz-retailers-urged-to-follow-japans-online-success-story/index.html
+layout: layout.njk
 ---
 NZ retailers urged to follow Japan’s online success story
 =========================================================

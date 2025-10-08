@@ -1,9 +1,12 @@
 ---
 slug: top-albany-student-athletes-named
-title: "Top Albany student-athletes named"
-date: 2009-10-06
-source-url: https://www.scoop.co.nz/stories/CU0910/S00083/top-albany-student-athletes-named.htm
+title: Top Albany student-athletes named
+date: 2009-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00083/top-albany-student-athletes-named.htm
 author: massey-university
+permalink: /archive/2009/10/06/top-albany-student-athletes-named/index.html
+layout: layout.njk
 ---
 Top Albany student-athletes named
 =================================

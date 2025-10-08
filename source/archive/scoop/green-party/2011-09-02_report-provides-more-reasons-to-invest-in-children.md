@@ -1,9 +1,13 @@
 ---
 slug: report-provides-more-reasons-to-invest-in-children
-title: "Report provides more reasons to invest in children"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/PA1109/S00035/report-provides-more-reasons-to-invest-in-children.htm
+title: Report provides more reasons to invest in children
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00035/report-provides-more-reasons-to-invest-in-children.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/02/report-provides-more-reasons-to-invest-in-children/index.html
+layout: layout.njk
 ---
 Report provides more reasons to invest in children
 ==================================================

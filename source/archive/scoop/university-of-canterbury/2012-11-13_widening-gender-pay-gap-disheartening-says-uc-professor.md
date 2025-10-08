@@ -1,9 +1,13 @@
 ---
 slug: widening-gender-pay-gap-disheartening-says-uc-professor
-title: "Widening gender pay gap disheartening, says UC professor"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/PO1211/S00182/widening-gender-pay-gap-disheartening-says-uc-professor.htm
+title: Widening gender pay gap disheartening, says UC professor
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00182/widening-gender-pay-gap-disheartening-says-uc-professor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/13/widening-gender-pay-gap-disheartening-says-uc-professor/index.html
+layout: layout.njk
 ---
 Widening gender pay gap disheartening, says UC professor
 ========================================================

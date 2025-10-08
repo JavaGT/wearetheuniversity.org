@@ -1,9 +1,13 @@
 ---
 slug: bishop-welcomes-new-classroom-for-maungaraki-school
-title: "Bishop welcomes new classroom for Maungaraki School"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/PA1707/S00413/bishop-welcomes-new-classroom-for-maungaraki-school.htm
+title: Bishop welcomes new classroom for Maungaraki School
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00413/bishop-welcomes-new-classroom-for-maungaraki-school.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/07/27/bishop-welcomes-new-classroom-for-maungaraki-school/index.html
+layout: layout.njk
 ---
 Bishop welcomes new classroom for Maungaraki School
 ===================================================

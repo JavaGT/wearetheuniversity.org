@@ -1,9 +1,12 @@
 ---
 slug: government-should-front-up-on-student-loans
-title: "Government should front up on student loans"
-date: 2010-08-26
-source-url: https://www.scoop.co.nz/stories/PA1008/S00424/government-should-front-up-on-student-loans.htm
+title: Government should front up on student loans
+date: 2010-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00424/government-should-front-up-on-student-loans.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/26/government-should-front-up-on-student-loans/index.html
+layout: layout.njk
 ---
 Government should front up on student loans
 ===========================================

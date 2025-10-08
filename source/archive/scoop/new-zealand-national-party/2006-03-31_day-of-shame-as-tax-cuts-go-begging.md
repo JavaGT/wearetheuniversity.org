@@ -1,9 +1,12 @@
 ---
 slug: day-of-shame-as-tax-cuts-go-begging
-title: "Day of shame as tax cuts go begging"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/PA0603/S00591/day-of-shame-as-tax-cuts-go-begging.htm
+title: Day of shame as tax cuts go begging
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00591/day-of-shame-as-tax-cuts-go-begging.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/31/day-of-shame-as-tax-cuts-go-begging/index.html
+layout: layout.njk
 ---
 Day of shame as tax cuts go begging
 ===================================

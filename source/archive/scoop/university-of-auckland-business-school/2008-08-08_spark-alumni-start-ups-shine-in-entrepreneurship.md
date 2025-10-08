@@ -1,9 +1,13 @@
 ---
 slug: spark-alumni-start-ups-shine-in-entrepreneurship
-title: "Spark alumni start-ups shine in entrepreneurship"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/ED0808/S00017/spark-alumni-start-ups-shine-in-entrepreneurship.htm
+title: Spark alumni start-ups shine in entrepreneurship
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00017/spark-alumni-start-ups-shine-in-entrepreneurship.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2008/08/08/spark-alumni-start-ups-shine-in-entrepreneurship/index.html
+layout: layout.njk
 ---
 Spark alumni start-ups shine in entrepreneurship
 ================================================

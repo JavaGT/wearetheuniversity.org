@@ -1,9 +1,13 @@
 ---
 slug: northland-children-missing-out-on-meningitis-vaccines
-title: "Northland children missing out on meningitis vaccines"
-date: 2019-01-07
-source-url: https://www.scoop.co.nz/stories/PA1901/S00010/northland-children-missing-out-on-meningitis-vaccines.htm
+title: Northland children missing out on meningitis vaccines
+date: 2019-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00010/northland-children-missing-out-on-meningitis-vaccines.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/01/07/northland-children-missing-out-on-meningitis-vaccines/index.html
+layout: layout.njk
 ---
 Northland children missing out on meningitis vaccines
 =====================================================

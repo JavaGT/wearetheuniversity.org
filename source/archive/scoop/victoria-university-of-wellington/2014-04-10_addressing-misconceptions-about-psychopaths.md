@@ -1,9 +1,12 @@
 ---
 slug: addressing-misconceptions-about-psychopaths
-title: "Addressing misconceptions about psychopaths"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/ED1404/S00045/addressing-misconceptions-about-psychopaths.htm
+title: Addressing misconceptions about psychopaths
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00045/addressing-misconceptions-about-psychopaths.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/10/addressing-misconceptions-about-psychopaths/index.html
+layout: layout.njk
 ---
 Addressing misconceptions about psychopaths
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: opposition-leader-condemns-christchurch-attacks
-title: "Opposition Leader condemns Christchurch attacks"
-date: 2019-03-15
-source-url: https://www.scoop.co.nz/stories/PA1903/S00111/opposition-leader-condemns-christchurch-attacks.htm
+title: Opposition Leader condemns Christchurch attacks
+date: 2019-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00111/opposition-leader-condemns-christchurch-attacks.htm
 author: new-zealand-national-party
+permalink: /archive/2019/03/15/opposition-leader-condemns-christchurch-attacks/index.html
+layout: layout.njk
 ---
 Opposition Leader condemns Christchurch attacks
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: hague-trip-perfect-finale-for-phd
-title: "Hague trip perfect finale for PhD"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/ED1306/S00127/hague-trip-perfect-finale-for-phd.htm
+title: Hague trip perfect finale for PhD
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00127/hague-trip-perfect-finale-for-phd.htm
 author: university-of-waikato
+permalink: /archive/2013/06/24/hague-trip-perfect-finale-for-phd/index.html
+layout: layout.njk
 ---
 Hague trip perfect finale for PhD
 =================================

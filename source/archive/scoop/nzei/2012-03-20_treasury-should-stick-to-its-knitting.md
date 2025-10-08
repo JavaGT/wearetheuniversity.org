@@ -1,9 +1,12 @@
 ---
 slug: treasury-should-stick-to-its-knitting
-title: "Treasury should stick to its knitting"
-date: 2012-03-20
-source-url: https://www.scoop.co.nz/stories/PO1203/S00259/treasury-should-stick-to-its-knitting.htm
+title: Treasury should stick to its knitting
+date: 2012-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00259/treasury-should-stick-to-its-knitting.htm
 author: nzei
+permalink: /archive/2012/03/20/treasury-should-stick-to-its-knitting/index.html
+layout: layout.njk
 ---
 Treasury should stick to its knitting
 =====================================

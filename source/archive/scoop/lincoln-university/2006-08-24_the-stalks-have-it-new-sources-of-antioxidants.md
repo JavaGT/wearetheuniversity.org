@@ -1,9 +1,12 @@
 ---
 slug: the-stalks-have-it-new-sources-of-antioxidants
-title: "The stalks have it: new sources of antioxidants"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/SC0608/S00053/the-stalks-have-it-new-sources-of-antioxidants.htm
+title: 'The stalks have it: new sources of antioxidants'
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00053/the-stalks-have-it-new-sources-of-antioxidants.htm
 author: lincoln-university
+permalink: /archive/2006/08/24/the-stalks-have-it-new-sources-of-antioxidants/index.html
+layout: layout.njk
 ---
 The stalks have it: new sources of antioxidants
 ===============================================

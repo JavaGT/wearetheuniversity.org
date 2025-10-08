@@ -1,9 +1,12 @@
 ---
 slug: budget-2009-russel-normans-speech
-title: "Budget 2009 – Russel Norman’s Speech"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PA0905/S00549/budget-2009-russel-normans-speech.htm
+title: Budget 2009 – Russel Norman’s Speech
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00549/budget-2009-russel-normans-speech.htm
 author: green-party
+permalink: /archive/2009/05/29/budget-2009-russel-normans-speech/index.html
+layout: layout.njk
 ---
 Budget 2009 – Russel Norman’s Speech
 ====================================

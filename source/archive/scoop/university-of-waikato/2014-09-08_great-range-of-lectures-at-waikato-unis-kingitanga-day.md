@@ -1,9 +1,13 @@
 ---
 slug: great-range-of-lectures-at-waikato-unis-kingitanga-day
-title: "Great range of lectures at Waikato Uni's Kingitanga Day"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/ED1409/S00041/great-range-of-lectures-at-waikato-unis-kingitanga-day.htm
+title: Great range of lectures at Waikato Uni's Kingitanga Day
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00041/great-range-of-lectures-at-waikato-unis-kingitanga-day.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/09/08/great-range-of-lectures-at-waikato-unis-kingitanga-day/index.html
+layout: layout.njk
 ---
 Great range of lectures at Waikato Uni's Kingitanga Day
 =======================================================

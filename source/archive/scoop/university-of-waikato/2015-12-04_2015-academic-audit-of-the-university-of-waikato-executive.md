@@ -1,9 +1,13 @@
 ---
 slug: 2015-academic-audit-of-the-university-of-waikato-executive
-title: "2015 Academic Audit of the University of Waikato Executive"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/ED1512/S00018/2015-academic-audit-of-the-university-of-waikato-executive.htm
+title: 2015 Academic Audit of the University of Waikato Executive
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00018/2015-academic-audit-of-the-university-of-waikato-executive.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/12/04/2015-academic-audit-of-the-university-of-waikato-executive/index.html
+layout: layout.njk
 ---
 2015 Academic Audit of the University of Waikato Executive
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: david-cunliffe-whangarei-speech-2-september-2013
-title: "David Cunliffe Whangarei Speech - 2 September 2013"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/PA1309/S00027/david-cunliffe-whangarei-speech-2-september-2013.htm
+title: David Cunliffe Whangarei Speech - 2 September 2013
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00027/david-cunliffe-whangarei-speech-2-september-2013.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/03/david-cunliffe-whangarei-speech-2-september-2013/index.html
+layout: layout.njk
 ---
 David Cunliffe Whangarei Speech - 2 September 2013
 ==================================================

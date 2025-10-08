@@ -1,9 +1,12 @@
 ---
 slug: auckland-to-get-a-taste-of-wellington-style
-title: "Auckland to get a taste of Wellington style"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/ED0505/S00018/auckland-to-get-a-taste-of-wellington-style.htm
+title: Auckland to get a taste of Wellington style
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00018/auckland-to-get-a-taste-of-wellington-style.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/05/05/auckland-to-get-a-taste-of-wellington-style/index.html
+layout: layout.njk
 ---
 Auckland to get a taste of Wellington style
 ===========================================

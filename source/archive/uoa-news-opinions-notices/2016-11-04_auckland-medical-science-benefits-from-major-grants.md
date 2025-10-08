@@ -1,8 +1,12 @@
 ---
-slug: auckland-medical-science-benefits-from-major-grants
-title: "Auckland medical science benefits from major grants"
-date: 2016-11-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/auckland-medical-science-benefits-from-major-grants.html
+slug: auckland-medical-science-benefits-from-major-grants-2
+title: Auckland medical science benefits from major grants
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/auckland-medical-science-benefits-from-major-grants.html
+permalink: >-
+  /archive/2016/11/04/auckland-medical-science-benefits-from-major-grants-2/index.html
+layout: layout.njk
 ---
 Auckland medical science benefits from major grants
 ===================================================

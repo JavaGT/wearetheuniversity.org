@@ -1,9 +1,13 @@
 ---
 slug: calling-off-novopay-debt-collectors-is-welcome-but-too-late
-title: "Calling off Novopay debt collectors is welcome but too late"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/ED1303/S00092/calling-off-novopay-debt-collectors-is-welcome-but-too-late.htm
+title: Calling off Novopay debt collectors is welcome but too late
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00092/calling-off-novopay-debt-collectors-is-welcome-but-too-late.htm
 author: nzei
+permalink: >-
+  /archive/2013/03/13/calling-off-novopay-debt-collectors-is-welcome-but-too-late/index.html
+layout: layout.njk
 ---
 Calling off Novopay debt collectors is welcome but too late
 ===========================================================

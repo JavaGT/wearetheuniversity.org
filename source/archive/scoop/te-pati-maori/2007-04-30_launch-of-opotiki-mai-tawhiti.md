@@ -1,9 +1,12 @@
 ---
 slug: launch-of-opotiki-mai-tawhiti
-title: "Launch of ‘Opotiki-Mai-Tawhiti"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PA0704/S00482/launch-of-opotiki-mai-tawhiti.htm
+title: Launch of ‘Opotiki-Mai-Tawhiti
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00482/launch-of-opotiki-mai-tawhiti.htm
 author: te-pati-maori
+permalink: /archive/2007/04/30/launch-of-opotiki-mai-tawhiti/index.html
+layout: layout.njk
 ---
 Launch of ‘Opotiki-Mai-Tawhiti
 ==============================

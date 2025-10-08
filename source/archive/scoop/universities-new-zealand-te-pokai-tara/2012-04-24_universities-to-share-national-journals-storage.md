@@ -1,9 +1,12 @@
 ---
 slug: universities-to-share-national-journals-storage
-title: "Universities’ To Share National Journals Storage"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/ED1204/S00096/universities-to-share-national-journals-storage.htm
+title: Universities’ To Share National Journals Storage
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00096/universities-to-share-national-journals-storage.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2012/04/24/universities-to-share-national-journals-storage/index.html
+layout: layout.njk
 ---
 Universities’ To Share National Journals Storage
 ================================================

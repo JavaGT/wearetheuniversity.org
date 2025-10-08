@@ -1,9 +1,12 @@
 ---
 slug: vietnam-adventure-for-waikato-marine-scientists
-title: "Vietnam adventure for Waikato marine scientists"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/SC1504/S00032/vietnam-adventure-for-waikato-marine-scientists.htm
+title: Vietnam adventure for Waikato marine scientists
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00032/vietnam-adventure-for-waikato-marine-scientists.htm
 author: university-of-waikato
+permalink: /archive/2015/04/13/vietnam-adventure-for-waikato-marine-scientists/index.html
+layout: layout.njk
 ---
 Vietnam adventure for Waikato marine scientists
 ===============================================

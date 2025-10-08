@@ -1,9 +1,12 @@
 ---
 slug: student-loan-scheme-amendment-bill-(no-2)
-title: "Student Loan Scheme Amendment Bill (No 2)"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00402/student-loan-scheme-amendment-bill-no-2.htm
+title: Student Loan Scheme Amendment Bill (No 2)
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00402/student-loan-scheme-amendment-bill-no-2.htm
 author: te-pati-maori
+permalink: /archive/2007/03/21/student-loan-scheme-amendment-bill-/index.html
+layout: layout.njk
 ---
 Student Loan Scheme Amendment Bill (No 2)
 =========================================

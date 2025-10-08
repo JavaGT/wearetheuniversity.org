@@ -1,9 +1,12 @@
 ---
 slug: united-future-again-urged-to-stand-up-to-govt
-title: "United Future again urged to stand up to Govt"
-date: 2003-01-28
-source-url: https://www.scoop.co.nz/stories/PA0301/S00241/united-future-again-urged-to-stand-up-to-govt.htm
+title: United Future again urged to stand up to Govt
+date: 2003-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00241/united-future-again-urged-to-stand-up-to-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/28/united-future-again-urged-to-stand-up-to-govt/index.html
+layout: layout.njk
 ---
 United Future again urged to stand up to Govt
 =============================================

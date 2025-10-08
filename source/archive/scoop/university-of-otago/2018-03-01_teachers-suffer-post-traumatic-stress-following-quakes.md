@@ -1,9 +1,13 @@
 ---
 slug: teachers-suffer-post-traumatic-stress-following-quakes
-title: "Teachers suffer post-traumatic stress following ‘quakes"
-date: 2018-03-01
-source-url: https://www.scoop.co.nz/stories/AK1803/S00014/teachers-suffer-post-traumatic-stress-following-quakes.htm
+title: Teachers suffer post-traumatic stress following ‘quakes
+date: 2018-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1803/S00014/teachers-suffer-post-traumatic-stress-following-quakes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/01/teachers-suffer-post-traumatic-stress-following-quakes/index.html
+layout: layout.njk
 ---
 Teachers suffer post-traumatic stress following ‘quakes
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: multivitamins-improve-health-of-mother-and-baby
-title: "Multivitamins improve health of mother and baby"
-date: 2010-04-27
-source-url: https://www.scoop.co.nz/stories/GE1004/S00126/multivitamins-improve-health-of-mother-and-baby.htm
+title: Multivitamins improve health of mother and baby
+date: 2010-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1004/S00126/multivitamins-improve-health-of-mother-and-baby.htm
 author: massey-university
+permalink: /archive/2010/04/27/multivitamins-improve-health-of-mother-and-baby/index.html
+layout: layout.njk
 ---
 Multivitamins improve health of mother and baby
 ===============================================

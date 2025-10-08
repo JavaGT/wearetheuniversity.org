@@ -1,9 +1,11 @@
 ---
 slug: new-national-party-line-up
-title: "New National Party Line-up"
-date: 2001-01-31
+title: New National Party Line-up
+date: 2001-01-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0101/S00174/new-national-party-line-up.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/31/new-national-party-line-up/index.html
+layout: layout.njk
 ---
 New National Party Line-up
 ==========================

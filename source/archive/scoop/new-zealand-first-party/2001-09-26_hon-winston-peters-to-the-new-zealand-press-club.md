@@ -1,9 +1,13 @@
 ---
 slug: hon-winston-peters-to-the-new-zealand-press-club
-title: "Hon Winston Peters to the New Zealand Press Club"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/PA0109/S00422/hon-winston-peters-to-the-new-zealand-press-club.htm
+title: Hon Winston Peters to the New Zealand Press Club
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00422/hon-winston-peters-to-the-new-zealand-press-club.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2001/09/26/hon-winston-peters-to-the-new-zealand-press-club/index.html
+layout: layout.njk
 ---
 Hon Winston Peters to the New Zealand Press Club
 ================================================

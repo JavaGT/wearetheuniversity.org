@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-forming-a-government-for-the-people
-title: "Speech: Peters - Forming a Government For The People"
-date: 2011-07-31
-source-url: https://www.scoop.co.nz/stories/PO1107/S00357/speech-peters-forming-a-government-for-the-people.htm
+title: 'Speech: Peters - Forming a Government For The People'
+date: 2011-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00357/speech-peters-forming-a-government-for-the-people.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/07/31/speech-peters-forming-a-government-for-the-people/index.html
+layout: layout.njk
 ---
 Speech: Peters - Forming a Government For The People
 ====================================================

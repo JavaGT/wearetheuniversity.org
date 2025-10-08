@@ -1,9 +1,12 @@
 ---
 slug: christchurch-hospital-emergency-department-&-the-earthquake
-title: "Christchurch Hospital Emergency Department & the earthquake"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/GE1204/S00053/christchurch-hospital-emergency-department-the-earthquake.htm
+title: Christchurch Hospital Emergency Department & the earthquake
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00053/christchurch-hospital-emergency-department-the-earthquake.htm
 author: university-of-otago
+permalink: /archive/2012/04/16/christchurch-hospital-emergency-department-/index.html
+layout: layout.njk
 ---
 Christchurch Hospital Emergency Department & the earthquake
 ===========================================================

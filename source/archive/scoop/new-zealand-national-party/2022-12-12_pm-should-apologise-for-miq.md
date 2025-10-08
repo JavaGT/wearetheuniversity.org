@@ -1,9 +1,11 @@
 ---
 slug: pm-should-apologise-for-miq
-title: "PM Should Apologise For MIQ"
-date: 2022-12-12
+title: PM Should Apologise For MIQ
+date: 2022-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2212/S00104/pm-should-apologise-for-miq.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/12/pm-should-apologise-for-miq/index.html
+layout: layout.njk
 ---
 PM Should Apologise For MIQ
 ===========================

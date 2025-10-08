@@ -1,9 +1,12 @@
 ---
 slug: more-data-breaches-at-arts-culture-&-heritage-ministry
-title: "More data breaches at Arts, Culture & Heritage Ministry"
-date: 2019-12-03
-source-url: https://www.scoop.co.nz/stories/PA1912/S00027/more-data-breaches-at-arts-culture-heritage-ministry.htm
+title: More data breaches at Arts, Culture & Heritage Ministry
+date: 2019-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00027/more-data-breaches-at-arts-culture-heritage-ministry.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/03/more-data-breaches-at-arts-culture-/index.html
+layout: layout.njk
 ---
 More data breaches at Arts, Culture & Heritage Ministry
 =======================================================

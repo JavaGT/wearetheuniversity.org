@@ -1,9 +1,12 @@
 ---
 slug: new-professors-appointed-at-aut
-title: "New professors appointed at AUT"
-date: 2006-06-30
-source-url: https://www.scoop.co.nz/stories/ED0606/S00093/new-professors-appointed-at-aut.htm
+title: New professors appointed at AUT
+date: 2006-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00093/new-professors-appointed-at-aut.htm
 author: aut-university
+permalink: /archive/2006/06/30/new-professors-appointed-at-aut/index.html
+layout: layout.njk
 ---
 New professors appointed at AUT
 ===============================

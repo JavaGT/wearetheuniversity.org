@@ -1,9 +1,12 @@
 ---
 slug: recognition-for-university-of-waikato-staff
-title: "Recognition for University of Waikato staff"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00061/recognition-for-university-of-waikato-staff.htm
+title: Recognition for University of Waikato staff
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00061/recognition-for-university-of-waikato-staff.htm
 author: university-of-waikato
+permalink: /archive/2013/04/11/recognition-for-university-of-waikato-staff/index.html
+layout: layout.njk
 ---
 Recognition for University of Waikato staff
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-park-three-waters-plans
-title: "Government Must Park Three Waters Plans"
-date: 2021-09-12
-source-url: https://www.scoop.co.nz/stories/PA2109/S00106/government-must-park-three-waters-plans.htm
+title: Government Must Park Three Waters Plans
+date: 2021-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00106/government-must-park-three-waters-plans.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/12/government-must-park-three-waters-plans/index.html
+layout: layout.njk
 ---
 Government Must Park Three Waters Plans
 =======================================

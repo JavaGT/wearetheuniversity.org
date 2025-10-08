@@ -1,9 +1,12 @@
 ---
 slug: jan-ritch-frel-the-new-grand-tour
-title: "Jan Ritch-Frel: The New Grand Tour"
-date: 2023-11-21
-source-url: https://www.scoop.co.nz/stories/WO2311/S00138/jan-ritch-frel-the-new-grand-tour.htm
+title: 'Jan Ritch-Frel: The New Grand Tour'
+date: 2023-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2311/S00138/jan-ritch-frel-the-new-grand-tour.htm
 author: independent-media-institute
+permalink: /archive/2023/11/21/jan-ritch-frel-the-new-grand-tour/index.html
+layout: layout.njk
 ---
 Jan Ritch-Frel: The New Grand Tour
 ==================================

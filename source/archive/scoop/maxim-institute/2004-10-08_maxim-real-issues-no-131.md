@@ -1,9 +1,11 @@
 ---
 slug: maxim-real-issues-no-131
-title: "Maxim Real Issues - No. 131"
-date: 2004-10-08
+title: Maxim Real Issues - No. 131
+date: 2004-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0410/S00079/maxim-real-issues-no-131.htm
 author: maxim-institute
+permalink: /archive/2004/10/08/maxim-real-issues-no-131/index.html
+layout: layout.njk
 ---
 Maxim Real Issues - No. 131
 ===========================

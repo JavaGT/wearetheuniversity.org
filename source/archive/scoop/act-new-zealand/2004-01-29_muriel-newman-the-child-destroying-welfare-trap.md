@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-the-child-destroying-welfare-trap
-title: "Muriel Newman: The Child-Destroying Welfare Trap"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/PA0401/S00269/muriel-newman-the-child-destroying-welfare-trap.htm
+title: 'Muriel Newman: The Child-Destroying Welfare Trap'
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00269/muriel-newman-the-child-destroying-welfare-trap.htm
 author: act-new-zealand
+permalink: /archive/2004/01/29/muriel-newman-the-child-destroying-welfare-trap/index.html
+layout: layout.njk
 ---
 Muriel Newman: The Child-Destroying Welfare Trap
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-officially-opens-coastal-research-field-centre
-title: "Waikato Uni officially opens coastal research field centre"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/ED1111/S00176/waikato-uni-officially-opens-coastal-research-field-centre.htm
+title: Waikato Uni officially opens coastal research field centre
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00176/waikato-uni-officially-opens-coastal-research-field-centre.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/24/waikato-uni-officially-opens-coastal-research-field-centre/index.html
+layout: layout.njk
 ---
 Waikato Uni officially opens coastal research field centre
 ==========================================================

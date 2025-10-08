@@ -1,9 +1,12 @@
 ---
 slug: international-vocalists-to-take-the-stage
-title: "International vocalists to take the stage"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/CU0909/S00050/international-vocalists-to-take-the-stage.htm
+title: International vocalists to take the stage
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00050/international-vocalists-to-take-the-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/03/international-vocalists-to-take-the-stage/index.html
+layout: layout.njk
 ---
 International vocalists to take the stage
 =========================================

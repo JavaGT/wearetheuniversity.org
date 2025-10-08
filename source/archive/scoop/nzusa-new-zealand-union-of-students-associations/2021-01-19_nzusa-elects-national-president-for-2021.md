@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-national-president-for-2021
-title: "NZUSA Elects National President For 2021"
-date: 2021-01-19
-source-url: https://www.scoop.co.nz/stories/PO2101/S00051/nzusa-elects-national-president-for-2021.htm
+title: NZUSA Elects National President For 2021
+date: 2021-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2101/S00051/nzusa-elects-national-president-for-2021.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2021/01/19/nzusa-elects-national-president-for-2021/index.html
+layout: layout.njk
 ---
 NZUSA Elects National President For 2021
 ========================================

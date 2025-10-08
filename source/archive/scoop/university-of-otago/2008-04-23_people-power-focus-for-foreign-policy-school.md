@@ -1,9 +1,12 @@
 ---
 slug: people-power-focus-for-foreign-policy-school
-title: "\"People Power\" focus for Foreign Policy School"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/ED0804/S00071/people-power-focus-for-foreign-policy-school.htm
+title: '"People Power" focus for Foreign Policy School'
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00071/people-power-focus-for-foreign-policy-school.htm
 author: university-of-otago
+permalink: /archive/2008/04/23/people-power-focus-for-foreign-policy-school/index.html
+layout: layout.njk
 ---
 “People Power” focus for Foreign Policy School
 ==============================================

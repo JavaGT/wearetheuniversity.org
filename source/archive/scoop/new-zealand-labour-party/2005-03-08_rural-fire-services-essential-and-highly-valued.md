@@ -1,9 +1,12 @@
 ---
 slug: rural-fire-services-essential-and-highly-valued
-title: "Rural fire services essential and highly valued"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/PA0503/S00150/rural-fire-services-essential-and-highly-valued.htm
+title: Rural fire services essential and highly valued
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00150/rural-fire-services-essential-and-highly-valued.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/03/08/rural-fire-services-essential-and-highly-valued/index.html
+layout: layout.njk
 ---
 Rural fire services essential and highly valued
 ===============================================

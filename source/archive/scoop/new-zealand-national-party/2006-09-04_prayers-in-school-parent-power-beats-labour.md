@@ -1,9 +1,12 @@
 ---
 slug: prayers-in-school-parent-power-beats-labour
-title: "Prayers in school: parent power beats Labour"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00063/prayers-in-school-parent-power-beats-labour.htm
+title: 'Prayers in school: parent power beats Labour'
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00063/prayers-in-school-parent-power-beats-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/prayers-in-school-parent-power-beats-labour/index.html
+layout: layout.njk
 ---
 Prayers in school: parent power beats Labour
 ============================================

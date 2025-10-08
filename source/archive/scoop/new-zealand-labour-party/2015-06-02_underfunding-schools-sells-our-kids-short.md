@@ -1,9 +1,12 @@
 ---
 slug: underfunding-schools-sells-our-kids-short
-title: "Underfunding schools sells our kids short"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/PA1506/S00013/underfunding-schools-sells-our-kids-short.htm
+title: Underfunding schools sells our kids short
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00013/underfunding-schools-sells-our-kids-short.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/02/underfunding-schools-sells-our-kids-short/index.html
+layout: layout.njk
 ---
 Underfunding schools sells our kids short
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-economic-spin-is-over
-title: "Time for economic spin is over"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/PA1507/S00120/time-for-economic-spin-is-over.htm
+title: Time for economic spin is over
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00120/time-for-economic-spin-is-over.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/07/time-for-economic-spin-is-over/index.html
+layout: layout.njk
 ---
 Time for economic spin is over
 ==============================

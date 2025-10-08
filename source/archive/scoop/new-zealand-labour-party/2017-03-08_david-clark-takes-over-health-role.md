@@ -1,9 +1,12 @@
 ---
 slug: david-clark-takes-over-health-role
-title: "David Clark takes over health role"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/PA1703/S00127/david-clark-takes-over-health-role.htm
+title: David Clark takes over health role
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00127/david-clark-takes-over-health-role.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/08/david-clark-takes-over-health-role/index.html
+layout: layout.njk
 ---
 David Clark takes over health role
 ==================================

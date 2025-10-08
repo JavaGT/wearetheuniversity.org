@@ -1,9 +1,12 @@
 ---
 slug: spark*-finalists-display-diverse-talents
-title: "Spark* Finalists Display Diverse Talents"
-date: 2003-08-08
-source-url: https://www.scoop.co.nz/stories/ED0308/S00027/spark-finalists-display-diverse-talents.htm
+title: Spark* Finalists Display Diverse Talents
+date: 2003-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00027/spark-finalists-display-diverse-talents.htm
 author: auckland-university
+permalink: /archive/2003/08/08/spark/index.html
+layout: layout.njk
 ---
 Spark\* Finalists Display Diverse Talents
 =========================================

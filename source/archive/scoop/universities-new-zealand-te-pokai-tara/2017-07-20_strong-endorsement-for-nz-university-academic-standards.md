@@ -1,9 +1,13 @@
 ---
 slug: strong-endorsement-for-nz-university-academic-standards
-title: "Strong endorsement for NZ university academic standards"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/ED1707/S00067/strong-endorsement-for-nz-university-academic-standards.htm
+title: Strong endorsement for NZ university academic standards
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00067/strong-endorsement-for-nz-university-academic-standards.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/07/20/strong-endorsement-for-nz-university-academic-standards/index.html
+layout: layout.njk
 ---
 Strong endorsement for NZ university academic standards
 =======================================================

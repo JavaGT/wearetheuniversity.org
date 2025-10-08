@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-bill-english-to-stop-disciplining-hnz
-title: "Greens call on Bill English to stop ‘disciplining’ HNZ"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00381/greens-call-on-bill-english-to-stop-disciplining-hnz.htm
+title: Greens call on Bill English to stop ‘disciplining’ HNZ
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00381/greens-call-on-bill-english-to-stop-disciplining-hnz.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/20/greens-call-on-bill-english-to-stop-disciplining-hnz/index.html
+layout: layout.njk
 ---
 Greens call on Bill English to stop ‘disciplining’ HNZ
 ======================================================

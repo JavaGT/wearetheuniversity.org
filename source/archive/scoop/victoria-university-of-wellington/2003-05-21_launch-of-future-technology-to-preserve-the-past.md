@@ -1,9 +1,13 @@
 ---
 slug: launch-of-future-technology-to-preserve-the-past
-title: "Launch of future technology to preserve the past"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00073/launch-of-future-technology-to-preserve-the-past.htm
+title: Launch of future technology to preserve the past
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00073/launch-of-future-technology-to-preserve-the-past.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/05/21/launch-of-future-technology-to-preserve-the-past/index.html
+layout: layout.njk
 ---
 Launch of future technology to preserve the past
 ================================================

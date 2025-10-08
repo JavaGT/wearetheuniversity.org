@@ -1,9 +1,13 @@
 ---
 slug: landscape-architecture-students-design-for-a-tranquil-chch
-title: "Landscape Architecture Students Design For A 'Tranquil' Chch"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/ED1204/S00032/landscape-architecture-students-design-for-a-tranquil-chch.htm
+title: Landscape Architecture Students Design For A 'Tranquil' Chch
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00032/landscape-architecture-students-design-for-a-tranquil-chch.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/04/05/landscape-architecture-students-design-for-a-tranquil-chch/index.html
+layout: layout.njk
 ---
 Landscape Architecture Students Design For A 'Tranquil' Chch
 ============================================================

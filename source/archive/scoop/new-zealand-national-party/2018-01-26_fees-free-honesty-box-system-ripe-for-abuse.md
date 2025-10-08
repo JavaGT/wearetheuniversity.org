@@ -1,9 +1,12 @@
 ---
 slug: fees-free-honesty-box-system-ripe-for-abuse
-title: "Fees-free honesty box system ripe for abuse"
-date: 2018-01-26
-source-url: https://www.scoop.co.nz/stories/PA1801/S00075/fees-free-honesty-box-system-ripe-for-abuse.htm
+title: Fees-free honesty box system ripe for abuse
+date: 2018-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00075/fees-free-honesty-box-system-ripe-for-abuse.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/26/fees-free-honesty-box-system-ripe-for-abuse/index.html
+layout: layout.njk
 ---
 Fees-free honesty box system ripe for abuse
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: overhaul-resource-management-act
-title: "Overhaul Resource Management  Act"
-date: 1999-09-03
-source-url: https://www.scoop.co.nz/stories/PO9909/S00027/overhaul-resource-management-act.htm
+title: Overhaul Resource Management  Act
+date: 1999-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00027/overhaul-resource-management-act.htm
 author: act-new-zealand
+permalink: /archive/1999/09/03/overhaul-resource-management-act/index.html
+layout: layout.njk
 ---
 Overhaul Resource Management Act
 ================================

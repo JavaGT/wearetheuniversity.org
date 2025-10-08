@@ -1,9 +1,12 @@
 ---
 slug: pharmaceutical-scientists-join-un-physicists
-title: "Pharmaceutical Scientists Join UN Physicists"
-date: 2004-06-30
-source-url: https://www.scoop.co.nz/stories/SC0406/S00073/pharmaceutical-scientists-join-un-physicists.htm
+title: Pharmaceutical Scientists Join UN Physicists
+date: 2004-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0406/S00073/pharmaceutical-scientists-join-un-physicists.htm
 author: university-of-otago
+permalink: /archive/2004/06/30/pharmaceutical-scientists-join-un-physicists/index.html
+layout: layout.njk
 ---
 Pharmaceutical Scientists Join UN Physicists
 ============================================

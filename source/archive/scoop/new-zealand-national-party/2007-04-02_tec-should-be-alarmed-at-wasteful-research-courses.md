@@ -1,9 +1,13 @@
 ---
 slug: tec-should-be-alarmed-at-wasteful-research-courses
-title: "TEC should be alarmed at wasteful research courses"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00005/tec-should-be-alarmed-at-wasteful-research-courses.htm
+title: TEC should be alarmed at wasteful research courses
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00005/tec-should-be-alarmed-at-wasteful-research-courses.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/04/02/tec-should-be-alarmed-at-wasteful-research-courses/index.html
+layout: layout.njk
 ---
 TEC should be alarmed at wasteful research courses
 ==================================================

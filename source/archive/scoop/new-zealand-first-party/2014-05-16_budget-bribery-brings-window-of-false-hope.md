@@ -1,9 +1,12 @@
 ---
 slug: budget-bribery-brings-window-of-false-hope
-title: "Budget Bribery Brings Window of False Hope"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PA1405/S00324/budget-bribery-brings-window-of-false-hope.htm
+title: Budget Bribery Brings Window of False Hope
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00324/budget-bribery-brings-window-of-false-hope.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/16/budget-bribery-brings-window-of-false-hope/index.html
+layout: layout.njk
 ---
 Budget Bribery Brings Window of False Hope
 ==========================================

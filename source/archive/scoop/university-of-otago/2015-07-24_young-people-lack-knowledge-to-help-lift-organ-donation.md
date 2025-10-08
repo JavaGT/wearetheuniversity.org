@@ -1,9 +1,13 @@
 ---
 slug: young-people-lack-knowledge-to-help-lift-organ-donation
-title: "Young people lack knowledge to help lift organ donation"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PO1507/S00216/young-people-lack-knowledge-to-help-lift-organ-donation.htm
+title: Young people lack knowledge to help lift organ donation
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00216/young-people-lack-knowledge-to-help-lift-organ-donation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/07/24/young-people-lack-knowledge-to-help-lift-organ-donation/index.html
+layout: layout.njk
 ---
 Young people lack knowledge to help lift organ donation
 =======================================================

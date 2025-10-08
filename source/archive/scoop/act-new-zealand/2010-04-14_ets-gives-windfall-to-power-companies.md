@@ -1,9 +1,12 @@
 ---
 slug: ets-gives-windfall-to-power-companies
-title: "ETS Gives Windfall To Power Companies"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00129/ets-gives-windfall-to-power-companies.htm
+title: ETS Gives Windfall To Power Companies
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00129/ets-gives-windfall-to-power-companies.htm
 author: act-new-zealand
+permalink: /archive/2010/04/14/ets-gives-windfall-to-power-companies/index.html
+layout: layout.njk
 ---
 ETS Gives Windfall To Power Companies
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-backs-return-to-university-democracy
-title: "Labour backs return to university democracy"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/PA1503/S00291/labour-backs-return-to-university-democracy.htm
+title: Labour backs return to university democracy
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00291/labour-backs-return-to-university-democracy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/19/labour-backs-return-to-university-democracy/index.html
+layout: layout.njk
 ---
 Labour backs return to university democracy
 ===========================================

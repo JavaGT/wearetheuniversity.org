@@ -1,9 +1,13 @@
 ---
 slug: uc-ecologist-leads-urgent-global-call-to-save-rivers
-title: "UC ecologist leads urgent global call to save rivers"
-date: 2019-06-19
-source-url: https://www.scoop.co.nz/stories/WO1906/S00129/uc-ecologist-leads-urgent-global-call-to-save-rivers.htm
+title: UC ecologist leads urgent global call to save rivers
+date: 2019-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1906/S00129/uc-ecologist-leads-urgent-global-call-to-save-rivers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/19/uc-ecologist-leads-urgent-global-call-to-save-rivers/index.html
+layout: layout.njk
 ---
 UC ecologist leads urgent global call to save rivers
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: justice-ministry-should-be-prosecuted-for-bungle
-title: "Justice Ministry should be prosecuted for bungle"
-date: 2005-10-12
-source-url: https://www.scoop.co.nz/stories/PA0510/S00057/justice-ministry-should-be-prosecuted-for-bungle.htm
+title: Justice Ministry should be prosecuted for bungle
+date: 2005-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00057/justice-ministry-should-be-prosecuted-for-bungle.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/10/12/justice-ministry-should-be-prosecuted-for-bungle/index.html
+layout: layout.njk
 ---
 Justice Ministry should be prosecuted for bungle
 ================================================

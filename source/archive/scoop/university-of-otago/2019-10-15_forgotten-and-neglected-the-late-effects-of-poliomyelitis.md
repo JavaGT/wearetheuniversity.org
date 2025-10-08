@@ -1,9 +1,13 @@
 ---
 slug: forgotten-and-neglected-the-late-effects-of-poliomyelitis
-title: "Forgotten and neglected:  The late effects of poliomyelitis"
-date: 2019-10-15
-source-url: https://www.scoop.co.nz/stories/GE1910/S00060/forgotten-and-neglected-the-late-effects-of-poliomyelitis.htm
+title: 'Forgotten and neglected:  The late effects of poliomyelitis'
+date: 2019-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1910/S00060/forgotten-and-neglected-the-late-effects-of-poliomyelitis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/10/15/forgotten-and-neglected-the-late-effects-of-poliomyelitis/index.html
+layout: layout.njk
 ---
 Forgotten and neglected: The late effects of poliomyelitis
 ==========================================================

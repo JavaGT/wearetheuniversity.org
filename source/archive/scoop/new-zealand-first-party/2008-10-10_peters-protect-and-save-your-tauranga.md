@@ -1,9 +1,12 @@
 ---
 slug: peters-protect-and-save-your-tauranga
-title: "Peters: Protect and Save YOUR Tauranga"
-date: 2008-10-10
-source-url: https://www.scoop.co.nz/stories/PA0810/S00236/peters-protect-and-save-your-tauranga.htm
+title: 'Peters: Protect and Save YOUR Tauranga'
+date: 2008-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00236/peters-protect-and-save-your-tauranga.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/10/peters-protect-and-save-your-tauranga/index.html
+layout: layout.njk
 ---
 Peters: Protect and Save YOUR Tauranga
 ======================================

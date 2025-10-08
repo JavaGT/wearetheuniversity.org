@@ -1,9 +1,12 @@
 ---
 slug: find-out-more-at-the-annual-study-at-vic-day
-title: "Find out more at the annual ‘Study at Vic’ day"
-date: 2009-08-26
-source-url: https://www.scoop.co.nz/stories/ED0908/S00095/find-out-more-at-the-annual-study-at-vic-day.htm
+title: Find out more at the annual ‘Study at Vic’ day
+date: 2009-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00095/find-out-more-at-the-annual-study-at-vic-day.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/26/find-out-more-at-the-annual-study-at-vic-day/index.html
+layout: layout.njk
 ---
 Find out more at the annual ‘Study at Vic’ day
 ==============================================

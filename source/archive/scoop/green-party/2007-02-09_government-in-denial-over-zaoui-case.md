@@ -1,9 +1,12 @@
 ---
 slug: government-in-denial-over-zaoui-case
-title: "Government in denial over Zaoui case"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/PA0702/S00127/government-in-denial-over-zaoui-case.htm
+title: Government in denial over Zaoui case
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00127/government-in-denial-over-zaoui-case.htm
 author: green-party
+permalink: /archive/2007/02/09/government-in-denial-over-zaoui-case/index.html
+layout: layout.njk
 ---
 Government in denial over Zaoui case
 ====================================

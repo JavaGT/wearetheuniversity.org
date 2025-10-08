@@ -1,9 +1,12 @@
 ---
 slug: university-medal-for-education-advocate
-title: "University Medal For Education Advocate"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/ED1301/S00114/university-medal-for-education-advocate.htm
+title: University Medal For Education Advocate
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00114/university-medal-for-education-advocate.htm
 author: university-of-waikato
+permalink: /archive/2013/01/31/university-medal-for-education-advocate/index.html
+layout: layout.njk
 ---
 University Medal For Education Advocate
 =======================================

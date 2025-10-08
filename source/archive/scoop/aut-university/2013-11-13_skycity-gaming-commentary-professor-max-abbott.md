@@ -1,9 +1,12 @@
 ---
 slug: skycity-gaming-commentary-professor-max-abbott
-title: "SkyCity gaming commentary - Professor Max Abbott"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/ED1311/S00099/skycity-gaming-commentary-professor-max-abbott.htm
+title: SkyCity gaming commentary - Professor Max Abbott
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00099/skycity-gaming-commentary-professor-max-abbott.htm
 author: aut-university
+permalink: /archive/2013/11/13/skycity-gaming-commentary-professor-max-abbott/index.html
+layout: layout.njk
 ---
 SkyCity gaming commentary - Professor Max Abbott
 ================================================

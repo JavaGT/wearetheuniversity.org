@@ -1,9 +1,13 @@
 ---
 slug: why-are-young-working-class-men-more-conservative
-title: "Why Are Young Working-Class Men More ‘Conservative’?"
-date: 2024-10-19
-source-url: https://www.scoop.co.nz/stories/WO2410/S00233/why-are-young-working-class-men-more-conservative.htm
+title: Why Are Young Working-Class Men More ‘Conservative’?
+date: 2024-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00233/why-are-young-working-class-men-more-conservative.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/19/why-are-young-working-class-men-more-conservative/index.html
+layout: layout.njk
 ---
 Why Are Young Working-Class Men More ‘Conservative’?
 ====================================================

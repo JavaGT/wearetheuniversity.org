@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-leading-academic-surgeon-to-chair
-title: "Otago Appoints Leading Academic Surgeon To Chair"
-date: 2010-04-13
-source-url: https://www.scoop.co.nz/stories/ED1004/S00022/otago-appoints-leading-academic-surgeon-to-chair.htm
+title: Otago Appoints Leading Academic Surgeon To Chair
+date: 2010-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00022/otago-appoints-leading-academic-surgeon-to-chair.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/04/13/otago-appoints-leading-academic-surgeon-to-chair/index.html
+layout: layout.njk
 ---
 Otago Appoints Leading Academic Surgeon To Chair
 ================================================

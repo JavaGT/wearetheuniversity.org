@@ -1,9 +1,12 @@
 ---
 slug: massey-university-information-day
-title: "Massey University Information Day"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/ED0108/S00012/massey-university-information-day.htm
+title: Massey University Information Day
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00012/massey-university-information-day.htm
 author: massey-university
+permalink: /archive/2001/08/02/massey-university-information-day/index.html
+layout: layout.njk
 ---
 Massey University Information Day
 =================================

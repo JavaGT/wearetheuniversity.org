@@ -1,9 +1,13 @@
 ---
 slug: sociologist-honoured-for-race-relations-research
-title: "Sociologist honoured for race relations research"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/ED0910/S00024/sociologist-honoured-for-race-relations-research.htm
+title: Sociologist honoured for race relations research
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00024/sociologist-honoured-for-race-relations-research.htm
 author: massey-university
+permalink: >-
+  /archive/2009/10/07/sociologist-honoured-for-race-relations-research/index.html
+layout: layout.njk
 ---
 Sociologist honoured for race relations research
 ================================================

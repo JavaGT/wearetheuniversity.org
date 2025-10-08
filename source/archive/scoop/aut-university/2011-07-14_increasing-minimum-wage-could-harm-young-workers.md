@@ -1,9 +1,13 @@
 ---
 slug: increasing-minimum-wage-could-harm-young-workers
-title: "Increasing minimum wage could harm young workers"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/ED1107/S00055/increasing-minimum-wage-could-harm-young-workers.htm
+title: Increasing minimum wage could harm young workers
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00055/increasing-minimum-wage-could-harm-young-workers.htm
 author: aut-university
+permalink: >-
+  /archive/2011/07/14/increasing-minimum-wage-could-harm-young-workers/index.html
+layout: layout.njk
 ---
 Increasing minimum wage could harm young workers
 ================================================

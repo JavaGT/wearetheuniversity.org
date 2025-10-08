@@ -1,9 +1,13 @@
 ---
 slug: new-diagnostic-model-for-psychiatric-disorders-proposed
-title: "New diagnostic model for psychiatric disorders proposed"
-date: 2017-04-05
-source-url: https://www.scoop.co.nz/stories/GE1704/S00024/new-diagnostic-model-for-psychiatric-disorders-proposed.htm
+title: New diagnostic model for psychiatric disorders proposed
+date: 2017-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00024/new-diagnostic-model-for-psychiatric-disorders-proposed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/04/05/new-diagnostic-model-for-psychiatric-disorders-proposed/index.html
+layout: layout.njk
 ---
 New diagnostic model for psychiatric disorders proposed
 =======================================================

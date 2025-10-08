@@ -1,9 +1,13 @@
 ---
 slug: management-school-economist-wins-excellence-award
-title: "Management School economist wins Excellence Award"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00069/management-school-economist-wins-excellence-award.htm
+title: Management School economist wins Excellence Award
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00069/management-school-economist-wins-excellence-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/06/28/management-school-economist-wins-excellence-award/index.html
+layout: layout.njk
 ---
 Management School economist wins Excellence Award
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: mighty-rivers-profits-plunge-another-reason-to-stop-sales
-title: "Mighty River’s profits plunge another reason to stop sales"
-date: 2012-08-28
-source-url: https://www.scoop.co.nz/stories/PA1208/S00407/mighty-rivers-profits-plunge-another-reason-to-stop-sales.htm
+title: Mighty River’s profits plunge another reason to stop sales
+date: 2012-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00407/mighty-rivers-profits-plunge-another-reason-to-stop-sales.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/28/mighty-rivers-profits-plunge-another-reason-to-stop-sales/index.html
+layout: layout.njk
 ---
 Mighty River’s profits plunge another reason to stop sales
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-universitys-absurd-maori-policy
-title: "Otago University's Absurd Maori Policy"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00446/otago-universitys-absurd-maori-policy.htm
+title: Otago University's Absurd Maori Policy
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00446/otago-universitys-absurd-maori-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2003/02/25/otago-universitys-absurd-maori-policy/index.html
+layout: layout.njk
 ---
 Otago University's Absurd Maori Policy
 ======================================

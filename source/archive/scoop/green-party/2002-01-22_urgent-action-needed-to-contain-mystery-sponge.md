@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-to-contain-mystery-sponge
-title: "Urgent Action Needed To Contain Mystery Sponge"
-date: 2002-01-22
-source-url: https://www.scoop.co.nz/stories/PA0201/S00086/urgent-action-needed-to-contain-mystery-sponge.htm
+title: Urgent Action Needed To Contain Mystery Sponge
+date: 2002-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00086/urgent-action-needed-to-contain-mystery-sponge.htm
 author: green-party
+permalink: /archive/2002/01/22/urgent-action-needed-to-contain-mystery-sponge/index.html
+layout: layout.njk
 ---
 Urgent Action Needed To Contain Mystery Sponge
 ==============================================

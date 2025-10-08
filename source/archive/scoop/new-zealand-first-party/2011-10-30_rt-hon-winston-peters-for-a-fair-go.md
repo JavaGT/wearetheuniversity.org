@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-for-a-fair-go
-title: "Rt. Hon Winston Peters: \"For a Fair Go\""
-date: 2011-10-30
-source-url: https://www.scoop.co.nz/stories/PO1110/S00543/rt-hon-winston-peters-for-a-fair-go.htm
+title: 'Rt. Hon Winston Peters: "For a Fair Go"'
+date: 2011-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00543/rt-hon-winston-peters-for-a-fair-go.htm
 author: new-zealand-first-party
+permalink: /archive/2011/10/30/rt-hon-winston-peters-for-a-fair-go/index.html
+layout: layout.njk
 ---
 Rt. Hon Winston Peters: “For a Fair Go”
 =======================================

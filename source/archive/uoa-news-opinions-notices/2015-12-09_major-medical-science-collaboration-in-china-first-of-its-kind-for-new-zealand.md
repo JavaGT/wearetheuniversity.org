@@ -1,8 +1,12 @@
 ---
 slug: major-medical-science-collaboration-in-china-first-of-its-kind-for-new-zealand
-title: "Major medical science collaboration in China first of its kind for New Zealand"
-date: 2015-12-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/major-medical-science-collaboration-in-china-first-of-its-kind.html
+title: Major medical science collaboration in China first of its kind for New Zealand
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/major-medical-science-collaboration-in-china-first-of-its-kind.html
+permalink: >-
+  /archive/2015/12/09/major-medical-science-collaboration-in-china-first-of-its-kind-for-new-zealand/index.html
+layout: layout.njk
 ---
 Major medical science collaboration in China first of its kind for New Zealand
 ==============================================================================

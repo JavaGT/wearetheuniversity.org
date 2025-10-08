@@ -1,9 +1,13 @@
 ---
 slug: canterbury-forms-alliance-with-chinese-university
-title: "Canterbury forms alliance with Chinese University"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/ED0512/S00055/canterbury-forms-alliance-with-chinese-university.htm
+title: Canterbury forms alliance with Chinese University
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00055/canterbury-forms-alliance-with-chinese-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/12/13/canterbury-forms-alliance-with-chinese-university/index.html
+layout: layout.njk
 ---
 Canterbury forms alliance with Chinese University
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-a-climate-laboratory-for-the-world
-title: "New Zealand a climate laboratory for the world"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/SC1009/S00012/new-zealand-a-climate-laboratory-for-the-world.htm
+title: New Zealand a climate laboratory for the world
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00012/new-zealand-a-climate-laboratory-for-the-world.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/09/new-zealand-a-climate-laboratory-for-the-world/index.html
+layout: layout.njk
 ---
 New Zealand a climate laboratory for the world
 ==============================================

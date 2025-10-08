@@ -1,9 +1,13 @@
 ---
 slug: committee-requested-to-defer-consideration-of-bill
-title: "Committee requested to defer consideration of Bill"
-date: 2001-03-28
-source-url: https://www.scoop.co.nz/stories/PO0103/S00093/committee-requested-to-defer-consideration-of-bill.htm
+title: Committee requested to defer consideration of Bill
+date: 2001-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00093/committee-requested-to-defer-consideration-of-bill.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2001/03/28/committee-requested-to-defer-consideration-of-bill/index.html
+layout: layout.njk
 ---
 Committee requested to defer consideration of Bill
 ==================================================

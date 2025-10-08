@@ -1,9 +1,12 @@
 ---
 slug: trialling-ncea-but-not-national-standards-daft
-title: "Trialling NCEA but not National Standards daft"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00065/trialling-ncea-but-not-national-standards-daft.htm
+title: Trialling NCEA but not National Standards daft
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00065/trialling-ncea-but-not-national-standards-daft.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/05/trialling-ncea-but-not-national-standards-daft/index.html
+layout: layout.njk
 ---
 Trialling NCEA but not National Standards daft
 ==============================================

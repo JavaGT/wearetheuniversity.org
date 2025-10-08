@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-will-own-foreshore-and-seabed
-title: "New Zealanders Will Own Foreshore And Seabed"
-date: 2004-11-10
-source-url: https://www.scoop.co.nz/stories/PA0411/S00235/new-zealanders-will-own-foreshore-and-seabed.htm
+title: New Zealanders Will Own Foreshore And Seabed
+date: 2004-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00235/new-zealanders-will-own-foreshore-and-seabed.htm
 author: new-zealand-first-party
+permalink: /archive/2004/11/10/new-zealanders-will-own-foreshore-and-seabed/index.html
+layout: layout.njk
 ---
 New Zealanders Will Own Foreshore And Seabed
 ============================================

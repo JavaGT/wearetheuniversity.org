@@ -1,9 +1,12 @@
 ---
 slug: parents-not-consulted-over-abolition-of-exams
-title: "Parents Not Consulted Over Abolition Of Exams"
-date: 2000-11-29
-source-url: https://www.scoop.co.nz/stories/PA0011/S00520/parents-not-consulted-over-abolition-of-exams.htm
+title: Parents Not Consulted Over Abolition Of Exams
+date: 2000-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00520/parents-not-consulted-over-abolition-of-exams.htm
 author: act-new-zealand
+permalink: /archive/2000/11/29/parents-not-consulted-over-abolition-of-exams/index.html
+layout: layout.njk
 ---
 Parents Not Consulted Over Abolition Of Exams
 =============================================

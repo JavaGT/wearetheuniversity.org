@@ -1,9 +1,12 @@
 ---
 slug: hamilton-school-principal-re-elected
-title: "Hamilton School Principal Re-Elected"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00117/hamilton-school-principal-re-elected.htm
+title: Hamilton School Principal Re-Elected
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00117/hamilton-school-principal-re-elected.htm
 author: nzei
+permalink: /archive/2006/09/27/hamilton-school-principal-re-elected/index.html
+layout: layout.njk
 ---
 Hamilton School Principal Re-Elected
 ====================================

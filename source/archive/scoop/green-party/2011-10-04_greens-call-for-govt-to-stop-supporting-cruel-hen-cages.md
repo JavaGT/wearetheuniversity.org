@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-govt-to-stop-supporting-cruel-hen-cages
-title: "Greens call for Govt to stop supporting cruel hen cages"
-date: 2011-10-04
-source-url: https://www.scoop.co.nz/stories/PA1110/S00034/greens-call-for-govt-to-stop-supporting-cruel-hen-cages.htm
+title: Greens call for Govt to stop supporting cruel hen cages
+date: 2011-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00034/greens-call-for-govt-to-stop-supporting-cruel-hen-cages.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/04/greens-call-for-govt-to-stop-supporting-cruel-hen-cages/index.html
+layout: layout.njk
 ---
 Greens call for Govt to stop supporting cruel hen cages
 =======================================================

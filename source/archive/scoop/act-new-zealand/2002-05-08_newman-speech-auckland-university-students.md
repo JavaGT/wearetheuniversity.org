@@ -1,9 +1,12 @@
 ---
 slug: newman-speech-auckland-university-students
-title: "Newman Speech: Auckland University Students"
-date: 2002-05-08
-source-url: https://www.scoop.co.nz/stories/PA0205/S00179/newman-speech-auckland-university-students.htm
+title: 'Newman Speech: Auckland University Students'
+date: 2002-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00179/newman-speech-auckland-university-students.htm
 author: act-new-zealand
+permalink: /archive/2002/05/08/newman-speech-auckland-university-students/index.html
+layout: layout.njk
 ---
 Newman Speech: Auckland University Students
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-names-top-suspending-schools
-title: "Minister Names Top Suspending Schools"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/PA0305/S00076/minister-names-top-suspending-schools.htm
+title: Minister Names Top Suspending Schools
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00076/minister-names-top-suspending-schools.htm
 author: act-new-zealand
+permalink: /archive/2003/05/05/minister-names-top-suspending-schools/index.html
+layout: layout.njk
 ---
 Minister Names Top Suspending Schools
 =====================================

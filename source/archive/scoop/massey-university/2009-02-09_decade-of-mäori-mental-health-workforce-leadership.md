@@ -1,9 +1,12 @@
 ---
 slug: decade-of-mäori-mental-health-workforce-leadership
-title: "Decade of Mäori mental health workforce leadership"
-date: 2009-02-09
-source-url: https://www.scoop.co.nz/stories/GE0902/S00033/decade-of-maori-mental-health-workforce-leadership.htm
+title: Decade of Mäori mental health workforce leadership
+date: 2009-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00033/decade-of-maori-mental-health-workforce-leadership.htm
 author: massey-university
+permalink: /archive/2009/02/09/decade-of-m/index.html
+layout: layout.njk
 ---
 Decade of Mäori mental health workforce leadership
 ==================================================

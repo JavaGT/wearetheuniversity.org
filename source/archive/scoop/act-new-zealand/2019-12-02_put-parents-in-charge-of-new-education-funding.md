@@ -1,9 +1,12 @@
 ---
 slug: put-parents-in-charge-of-new-education-funding
-title: "Put parents in charge of new education funding"
-date: 2019-12-02
-source-url: https://www.scoop.co.nz/stories/PA1912/S00008/put-parents-in-charge-of-new-education-funding.htm
+title: Put parents in charge of new education funding
+date: 2019-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00008/put-parents-in-charge-of-new-education-funding.htm
 author: act-new-zealand
+permalink: /archive/2019/12/02/put-parents-in-charge-of-new-education-funding/index.html
+layout: layout.njk
 ---
 Put parents in charge of new education funding
 ==============================================

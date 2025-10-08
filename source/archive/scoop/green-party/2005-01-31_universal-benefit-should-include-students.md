@@ -1,9 +1,12 @@
 ---
 slug: universal-benefit-should-include-students
-title: "Universal Benefit Should Include Students"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PA0501/S00314/universal-benefit-should-include-students.htm
+title: Universal Benefit Should Include Students
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00314/universal-benefit-should-include-students.htm
 author: green-party
+permalink: /archive/2005/01/31/universal-benefit-should-include-students/index.html
+layout: layout.njk
 ---
 Universal Benefit Should Include Students
 =========================================

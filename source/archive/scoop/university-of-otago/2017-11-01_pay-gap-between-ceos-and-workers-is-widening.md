@@ -1,9 +1,12 @@
 ---
 slug: pay-gap-between-ceos-and-workers-is-widening
-title: "Pay gap between CEOs and workers is widening"
-date: 2017-11-01
-source-url: https://www.scoop.co.nz/stories/PO1711/S00010/pay-gap-between-ceos-and-workers-is-widening.htm
+title: Pay gap between CEOs and workers is widening
+date: 2017-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00010/pay-gap-between-ceos-and-workers-is-widening.htm
 author: university-of-otago
+permalink: /archive/2017/11/01/pay-gap-between-ceos-and-workers-is-widening/index.html
+layout: layout.njk
 ---
 Pay gap between CEOs and workers is widening
 ============================================

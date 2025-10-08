@@ -1,9 +1,13 @@
 ---
 slug: nzs-invisible-anglo-indians-in-new-research-focus
-title: "NZ’s ‘invisible’ Anglo-Indians in new research focus"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/ED1508/S00087/nzs-invisible-anglo-indians-in-new-research-focus.htm
+title: NZ’s ‘invisible’ Anglo-Indians in new research focus
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00087/nzs-invisible-anglo-indians-in-new-research-focus.htm
 author: massey-university
+permalink: >-
+  /archive/2015/08/18/nzs-invisible-anglo-indians-in-new-research-focus/index.html
+layout: layout.njk
 ---
 NZ’s ‘invisible’ Anglo-Indians in new research focus
 ====================================================

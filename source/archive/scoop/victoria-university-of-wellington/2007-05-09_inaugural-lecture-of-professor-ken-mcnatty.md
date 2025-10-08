@@ -1,9 +1,12 @@
 ---
 slug: inaugural-lecture-of-professor-ken-mcnatty
-title: "Inaugural lecture of Professor Ken McNatty"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/ED0705/S00040/inaugural-lecture-of-professor-ken-mcnatty.htm
+title: Inaugural lecture of Professor Ken McNatty
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00040/inaugural-lecture-of-professor-ken-mcnatty.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/09/inaugural-lecture-of-professor-ken-mcnatty/index.html
+layout: layout.njk
 ---
 Inaugural lecture of Professor Ken McNatty
 ==========================================

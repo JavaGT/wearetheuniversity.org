@@ -1,9 +1,13 @@
 ---
 slug: kiwisaver-changes-will-punish-first-home-buyers-twice
-title: "KiwiSaver changes will punish first home buyers twice"
-date: 2013-07-21
-source-url: https://www.scoop.co.nz/stories/PA1307/S00329/kiwisaver-changes-will-punish-first-home-buyers-twice.htm
+title: KiwiSaver changes will punish first home buyers twice
+date: 2013-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00329/kiwisaver-changes-will-punish-first-home-buyers-twice.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/21/kiwisaver-changes-will-punish-first-home-buyers-twice/index.html
+layout: layout.njk
 ---
 KiwiSaver changes will punish first home buyers twice
 =====================================================

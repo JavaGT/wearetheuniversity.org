@@ -1,9 +1,13 @@
 ---
 slug: delivering-our-promises-more-than-2000-new-police
-title: "Delivering Our Promises: More than 2000 New Police"
-date: 2020-02-27
-source-url: https://www.scoop.co.nz/stories/PA2002/S00186/delivering-our-promises-more-than-2000-new-police.htm
+title: 'Delivering Our Promises: More than 2000 New Police'
+date: 2020-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00186/delivering-our-promises-more-than-2000-new-police.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/02/27/delivering-our-promises-more-than-2000-new-police/index.html
+layout: layout.njk
 ---
 Delivering Our Promises: More than 2000 New Police
 ==================================================

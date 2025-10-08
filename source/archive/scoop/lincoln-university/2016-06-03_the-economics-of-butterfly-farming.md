@@ -1,9 +1,12 @@
 ---
 slug: the-economics-of-butterfly-farming
-title: "The economics of butterfly farming"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/BU1606/S00114/the-economics-of-butterfly-farming.htm
+title: The economics of butterfly farming
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1606/S00114/the-economics-of-butterfly-farming.htm
 author: lincoln-university
+permalink: /archive/2016/06/03/the-economics-of-butterfly-farming/index.html
+layout: layout.njk
 ---
 The economics of butterfly farming
 ==================================

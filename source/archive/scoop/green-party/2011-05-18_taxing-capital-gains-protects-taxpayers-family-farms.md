@@ -1,9 +1,13 @@
 ---
 slug: taxing-capital-gains-protects-taxpayers-family-farms
-title: "Taxing capital gains protects taxpayers, family farms"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PA1105/S00366/taxing-capital-gains-protects-taxpayers-family-farms.htm
+title: Taxing capital gains protects taxpayers, family farms
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00366/taxing-capital-gains-protects-taxpayers-family-farms.htm
 author: green-party
+permalink: >-
+  /archive/2011/05/18/taxing-capital-gains-protects-taxpayers-family-farms/index.html
+layout: layout.njk
 ---
 Taxing capital gains protects taxpayers, family farms
 =====================================================

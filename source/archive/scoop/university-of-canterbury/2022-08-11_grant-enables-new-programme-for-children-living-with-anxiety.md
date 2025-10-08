@@ -1,9 +1,13 @@
 ---
 slug: grant-enables-new-programme-for-children-living-with-anxiety
-title: "Grant Enables New Programme For Children Living With Anxiety"
-date: 2022-08-11
-source-url: https://www.scoop.co.nz/stories/GE2208/S00025/grant-enables-new-programme-for-children-living-with-anxiety.htm
+title: Grant Enables New Programme For Children Living With Anxiety
+date: 2022-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2208/S00025/grant-enables-new-programme-for-children-living-with-anxiety.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/08/11/grant-enables-new-programme-for-children-living-with-anxiety/index.html
+layout: layout.njk
 ---
 Grant Enables New Programme For Children Living With Anxiety
 ============================================================

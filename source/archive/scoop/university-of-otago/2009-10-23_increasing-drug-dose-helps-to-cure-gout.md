@@ -1,9 +1,12 @@
 ---
 slug: increasing-drug-dose-helps-to-cure-gout
-title: "Increasing drug dose helps to cure gout"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/GE0910/S00103/increasing-drug-dose-helps-to-cure-gout.htm
+title: Increasing drug dose helps to cure gout
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0910/S00103/increasing-drug-dose-helps-to-cure-gout.htm
 author: university-of-otago
+permalink: /archive/2009/10/23/increasing-drug-dose-helps-to-cure-gout/index.html
+layout: layout.njk
 ---
 Increasing drug dose helps to cure gout
 =======================================

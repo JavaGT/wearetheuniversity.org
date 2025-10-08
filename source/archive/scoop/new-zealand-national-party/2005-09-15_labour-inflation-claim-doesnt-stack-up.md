@@ -1,9 +1,12 @@
 ---
 slug: labour-inflation-claim-doesnt-stack-up
-title: "Labour inflation claim doesn’t stack up"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00403/labour-inflation-claim-doesnt-stack-up.htm
+title: Labour inflation claim doesn’t stack up
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00403/labour-inflation-claim-doesnt-stack-up.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/15/labour-inflation-claim-doesnt-stack-up/index.html
+layout: layout.njk
 ---
 Labour inflation claim doesn’t stack up
 =======================================

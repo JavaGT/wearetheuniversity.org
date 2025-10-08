@@ -1,9 +1,12 @@
 ---
 slug: waka-kotahi-heading-up-the-wrong-street
-title: "Waka Kotahi Heading Up The Wrong Street"
-date: 2021-07-29
-source-url: https://www.scoop.co.nz/stories/PA2107/S00215/waka-kotahi-heading-up-the-wrong-street.htm
+title: Waka Kotahi Heading Up The Wrong Street
+date: 2021-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00215/waka-kotahi-heading-up-the-wrong-street.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/29/waka-kotahi-heading-up-the-wrong-street/index.html
+layout: layout.njk
 ---
 Waka Kotahi Heading Up The Wrong Street
 =======================================

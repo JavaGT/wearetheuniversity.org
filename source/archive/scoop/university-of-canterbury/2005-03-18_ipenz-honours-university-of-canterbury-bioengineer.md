@@ -1,9 +1,13 @@
 ---
 slug: ipenz-honours-university-of-canterbury-bioengineer
-title: "IPENZ honours University of Canterbury bioengineer"
-date: 2005-03-18
-source-url: https://www.scoop.co.nz/stories/ED0503/S00064/ipenz-honours-university-of-canterbury-bioengineer.htm
+title: IPENZ honours University of Canterbury bioengineer
+date: 2005-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00064/ipenz-honours-university-of-canterbury-bioengineer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/03/18/ipenz-honours-university-of-canterbury-bioengineer/index.html
+layout: layout.njk
 ---
 IPENZ honours University of Canterbury bioengineer
 ==================================================

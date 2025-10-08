@@ -1,9 +1,13 @@
 ---
 slug: acts-three-point-plan-to-respond-to-global-economic-shock
-title: "ACT’s three point plan to respond to global Economic Shock"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/PO1408/S00284/acts-three-point-plan-to-respond-to-global-economic-shock.htm
+title: ACT’s three point plan to respond to global Economic Shock
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00284/acts-three-point-plan-to-respond-to-global-economic-shock.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/18/acts-three-point-plan-to-respond-to-global-economic-shock/index.html
+layout: layout.njk
 ---
 ACT’s three point plan to respond to global Economic Shock
 ==========================================================

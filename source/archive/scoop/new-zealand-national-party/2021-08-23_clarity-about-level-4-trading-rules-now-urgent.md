@@ -1,9 +1,12 @@
 ---
 slug: clarity-about-level-4-trading-rules-now-urgent
-title: "Clarity About Level 4 Trading Rules Now Urgent"
-date: 2021-08-23
-source-url: https://www.scoop.co.nz/stories/PA2108/S00191/clarity-about-level-4-trading-rules-now-urgent.htm
+title: Clarity About Level 4 Trading Rules Now Urgent
+date: 2021-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00191/clarity-about-level-4-trading-rules-now-urgent.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/23/clarity-about-level-4-trading-rules-now-urgent/index.html
+layout: layout.njk
 ---
 Clarity About Level 4 Trading Rules Now Urgent
 ==============================================

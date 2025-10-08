@@ -1,9 +1,13 @@
 ---
 slug: novel-nicotine-inhaler-doubles-smoking-quit-rates
-title: "Novel nicotine inhaler doubles smoking quit rates"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/SC1605/S00036/novel-nicotine-inhaler-doubles-smoking-quit-rates.htm
+title: Novel nicotine inhaler doubles smoking quit rates
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00036/novel-nicotine-inhaler-doubles-smoking-quit-rates.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/17/novel-nicotine-inhaler-doubles-smoking-quit-rates/index.html
+layout: layout.njk
 ---
 Novel nicotine inhaler doubles smoking quit rates
 =================================================

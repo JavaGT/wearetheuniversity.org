@@ -1,9 +1,13 @@
 ---
 slug: vup-a-vital-part-of-new-zealands-reading-culture
-title: "VUP a vital part of New Zealand’s reading culture"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/CU1409/S00044/vup-a-vital-part-of-new-zealands-reading-culture.htm
+title: VUP a vital part of New Zealand’s reading culture
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00044/vup-a-vital-part-of-new-zealands-reading-culture.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2014/09/02/vup-a-vital-part-of-new-zealands-reading-culture/index.html
+layout: layout.njk
 ---
 VUP a vital part of New Zealand’s reading culture
 =================================================

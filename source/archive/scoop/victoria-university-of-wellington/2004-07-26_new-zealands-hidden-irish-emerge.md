@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-hidden-irish-emerge
-title: "New Zealand’s ‘hidden Irish’ emerge"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/ED0407/S00070/new-zealands-hidden-irish-emerge.htm
+title: New Zealand’s ‘hidden Irish’ emerge
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00070/new-zealands-hidden-irish-emerge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/26/new-zealands-hidden-irish-emerge/index.html
+layout: layout.njk
 ---
 New Zealand’s ‘hidden Irish’ emerge
 ===================================

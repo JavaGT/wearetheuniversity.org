@@ -1,9 +1,12 @@
 ---
 slug: maths-prof-swaps-beach-for-teach-this-summer
-title: "Maths prof swaps ‘beach’ for ‘teach’ this summer"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/ED1209/S00088/maths-prof-swaps-beach-for-teach-this-summer.htm
+title: Maths prof swaps ‘beach’ for ‘teach’ this summer
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00088/maths-prof-swaps-beach-for-teach-this-summer.htm
 author: massey-university
+permalink: /archive/2012/09/12/maths-prof-swaps-beach-for-teach-this-summer/index.html
+layout: layout.njk
 ---
 Maths prof swaps ‘beach’ for ‘teach’ this summer
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-light-cast-on-past-human-responses-to-climate-change
-title: "New light cast on past human responses to climate change"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/SC1702/S00043/new-light-cast-on-past-human-responses-to-climate-change.htm
+title: New light cast on past human responses to climate change
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00043/new-light-cast-on-past-human-responses-to-climate-change.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/02/15/new-light-cast-on-past-human-responses-to-climate-change/index.html
+layout: layout.njk
 ---
 New light cast on past human responses to climate change
 ========================================================

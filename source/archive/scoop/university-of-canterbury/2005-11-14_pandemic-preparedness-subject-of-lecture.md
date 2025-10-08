@@ -1,9 +1,12 @@
 ---
 slug: pandemic-preparedness-subject-of-lecture
-title: "Pandemic preparedness subject of  lecture"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/ED0511/S00055/pandemic-preparedness-subject-of-lecture.htm
+title: Pandemic preparedness subject of  lecture
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00055/pandemic-preparedness-subject-of-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2005/11/14/pandemic-preparedness-subject-of-lecture/index.html
+layout: layout.njk
 ---
 Pandemic preparedness subject of lecture
 ========================================

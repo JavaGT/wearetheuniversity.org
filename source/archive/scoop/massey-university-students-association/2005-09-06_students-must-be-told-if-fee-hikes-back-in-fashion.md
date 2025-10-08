@@ -1,9 +1,13 @@
 ---
 slug: students-must-be-told-if-fee-hikes-back-in-fashion
-title: "Students Must Be Told If Fee Hikes Back In Fashion"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/ED0509/S00012/students-must-be-told-if-fee-hikes-back-in-fashion.htm
+title: Students Must Be Told If Fee Hikes Back In Fashion
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00012/students-must-be-told-if-fee-hikes-back-in-fashion.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2005/09/06/students-must-be-told-if-fee-hikes-back-in-fashion/index.html
+layout: layout.njk
 ---
 Students Must Be Told If Fee Hikes Back In Fashion
 ==================================================

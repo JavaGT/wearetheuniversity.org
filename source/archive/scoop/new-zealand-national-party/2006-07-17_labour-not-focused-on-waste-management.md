@@ -1,9 +1,12 @@
 ---
 slug: labour-not-focused-on-waste-management
-title: "Labour not focused on waste management"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PA0607/S00239/labour-not-focused-on-waste-management.htm
+title: Labour not focused on waste management
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00239/labour-not-focused-on-waste-management.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/17/labour-not-focused-on-waste-management/index.html
+layout: layout.njk
 ---
 Labour not focused on waste management
 ======================================

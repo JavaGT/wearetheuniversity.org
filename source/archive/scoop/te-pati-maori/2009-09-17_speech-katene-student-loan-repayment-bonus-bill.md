@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-student-loan-repayment-bonus-bill
-title: "Speech: Katene - Student Loan Repayment Bonus Bill"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/PA0909/S00253/speech-katene-student-loan-repayment-bonus-bill.htm
+title: 'Speech: Katene - Student Loan Repayment Bonus Bill'
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00253/speech-katene-student-loan-repayment-bonus-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/09/17/speech-katene-student-loan-repayment-bonus-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Student Loan Repayment Bonus Bill
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: members-bill-to-notify-schools-of-sex-offenders-drawn
-title: "Member’s Bill To Notify Schools Of Sex Offenders Drawn"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/PA2007/S00215/members-bill-to-notify-schools-of-sex-offenders-drawn.htm
+title: Member’s Bill To Notify Schools Of Sex Offenders Drawn
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00215/members-bill-to-notify-schools-of-sex-offenders-drawn.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/23/members-bill-to-notify-schools-of-sex-offenders-drawn/index.html
+layout: layout.njk
 ---
 Member’s Bill To Notify Schools Of Sex Offenders Drawn
 ======================================================

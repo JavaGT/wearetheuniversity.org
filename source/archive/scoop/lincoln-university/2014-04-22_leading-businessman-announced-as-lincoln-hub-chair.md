@@ -1,9 +1,13 @@
 ---
 slug: leading-businessman-announced-as-lincoln-hub-chair
-title: "Leading businessman announced as Lincoln Hub chair"
-date: 2014-04-22
-source-url: https://www.scoop.co.nz/stories/ED1404/S00078/leading-businessman-announced-as-lincoln-hub-chair.htm
+title: Leading businessman announced as Lincoln Hub chair
+date: 2014-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00078/leading-businessman-announced-as-lincoln-hub-chair.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/04/22/leading-businessman-announced-as-lincoln-hub-chair/index.html
+layout: layout.njk
 ---
 Leading businessman announced as Lincoln Hub chair
 ==================================================

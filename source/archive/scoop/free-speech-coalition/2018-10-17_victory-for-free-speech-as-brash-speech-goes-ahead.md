@@ -1,9 +1,13 @@
 ---
 slug: victory-for-free-speech-as-brash-speech-goes-ahead
-title: "Victory for free speech as Brash speech goes ahead"
-date: 2018-10-17
-source-url: https://www.scoop.co.nz/stories/ED1810/S00036/victory-for-free-speech-as-brash-speech-goes-ahead.htm
+title: Victory for free speech as Brash speech goes ahead
+date: 2018-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00036/victory-for-free-speech-as-brash-speech-goes-ahead.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2018/10/17/victory-for-free-speech-as-brash-speech-goes-ahead/index.html
+layout: layout.njk
 ---
 Victory for free speech as Brash speech goes ahead
 ==================================================

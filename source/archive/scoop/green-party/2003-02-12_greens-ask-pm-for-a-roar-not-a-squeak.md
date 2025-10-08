@@ -1,9 +1,12 @@
 ---
 slug: greens-ask-pm-for-a-roar-not-a-squeak
-title: "Greens ask PM for a roar, not a squeak"
-date: 2003-02-12
-source-url: https://www.scoop.co.nz/stories/PA0302/S00159/greens-ask-pm-for-a-roar-not-a-squeak.htm
+title: Greens ask PM for a roar, not a squeak
+date: 2003-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00159/greens-ask-pm-for-a-roar-not-a-squeak.htm
 author: green-party
+permalink: /archive/2003/02/12/greens-ask-pm-for-a-roar-not-a-squeak/index.html
+layout: layout.njk
 ---
 Greens ask PM for a roar, not a squeak
 ======================================

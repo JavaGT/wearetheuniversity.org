@@ -1,9 +1,13 @@
 ---
 slug: phosphorus-recovery-a-game-of-snakes-and-ladders
-title: "Phosphorus recovery a game of snakes and ladders"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/ED1605/S00021/phosphorus-recovery-a-game-of-snakes-and-ladders.htm
+title: Phosphorus recovery a game of snakes and ladders
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00021/phosphorus-recovery-a-game-of-snakes-and-ladders.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/05/09/phosphorus-recovery-a-game-of-snakes-and-ladders/index.html
+layout: layout.njk
 ---
 Phosphorus recovery a game of snakes and ladders
 ================================================

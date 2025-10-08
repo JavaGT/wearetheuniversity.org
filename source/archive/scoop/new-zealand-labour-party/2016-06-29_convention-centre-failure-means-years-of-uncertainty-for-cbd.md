@@ -1,9 +1,13 @@
 ---
 slug: convention-centre-failure-means-years-of-uncertainty-for-cbd
-title: "Convention centre failure means years of uncertainty for CBD"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00495/convention-centre-failure-means-years-of-uncertainty-for-cbd.htm
+title: Convention centre failure means years of uncertainty for CBD
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00495/convention-centre-failure-means-years-of-uncertainty-for-cbd.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/29/convention-centre-failure-means-years-of-uncertainty-for-cbd/index.html
+layout: layout.njk
 ---
 Convention centre failure means years of uncertainty for CBD
 ============================================================

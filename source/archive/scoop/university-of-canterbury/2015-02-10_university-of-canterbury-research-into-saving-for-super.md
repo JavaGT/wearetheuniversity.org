@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-research-into-saving-for-super
-title: "University of Canterbury research into saving for super"
-date: 2015-02-10
-source-url: https://www.scoop.co.nz/stories/PO1502/S00103/university-of-canterbury-research-into-saving-for-super.htm
+title: University of Canterbury research into saving for super
+date: 2015-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00103/university-of-canterbury-research-into-saving-for-super.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/10/university-of-canterbury-research-into-saving-for-super/index.html
+layout: layout.njk
 ---
 University of Canterbury research into saving for super
 =======================================================

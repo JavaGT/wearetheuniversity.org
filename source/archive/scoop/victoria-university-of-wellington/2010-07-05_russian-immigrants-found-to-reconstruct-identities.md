@@ -1,9 +1,13 @@
 ---
 slug: russian-immigrants-found-to-reconstruct-identities
-title: "Russian immigrants found to reconstruct identities"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/ED1007/S00017/russian-immigrants-found-to-reconstruct-identities.htm
+title: Russian immigrants found to reconstruct identities
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00017/russian-immigrants-found-to-reconstruct-identities.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/07/05/russian-immigrants-found-to-reconstruct-identities/index.html
+layout: layout.njk
 ---
 Russian immigrants found to reconstruct identities
 ==================================================

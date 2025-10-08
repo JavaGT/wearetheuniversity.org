@@ -1,9 +1,12 @@
 ---
 slug: maori-party-recognises-kingitanga
-title: "Maori Party Recognises Kingitanga"
-date: 2008-05-01
-source-url: https://www.scoop.co.nz/stories/PA0805/S00013/maori-party-recognises-kingitanga.htm
+title: Maori Party Recognises Kingitanga
+date: 2008-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00013/maori-party-recognises-kingitanga.htm
 author: te-pati-maori
+permalink: /archive/2008/05/01/maori-party-recognises-kingitanga/index.html
+layout: layout.njk
 ---
 Maori Party Recognises Kingitanga
 =================================

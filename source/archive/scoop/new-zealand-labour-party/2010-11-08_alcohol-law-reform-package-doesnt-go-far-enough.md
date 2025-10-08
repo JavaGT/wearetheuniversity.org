@@ -1,9 +1,12 @@
 ---
 slug: alcohol-law-reform-package-doesnt-go-far-enough
-title: "Alcohol law reform package doesn’t go far enough"
-date: 2010-11-08
-source-url: https://www.scoop.co.nz/stories/PA1011/S00135/alcohol-law-reform-package-doesnt-go-far-enough.htm
+title: Alcohol law reform package doesn’t go far enough
+date: 2010-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00135/alcohol-law-reform-package-doesnt-go-far-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/08/alcohol-law-reform-package-doesnt-go-far-enough/index.html
+layout: layout.njk
 ---
 Alcohol law reform package doesn’t go far enough
 ================================================

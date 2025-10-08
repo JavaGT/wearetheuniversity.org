@@ -1,9 +1,12 @@
 ---
 slug: jazz-musician-appointed-composer-in-residence
-title: "Jazz musician appointed composer in residence"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/CU0904/S00425/jazz-musician-appointed-composer-in-residence.htm
+title: Jazz musician appointed composer in residence
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00425/jazz-musician-appointed-composer-in-residence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/30/jazz-musician-appointed-composer-in-residence/index.html
+layout: layout.njk
 ---
 Jazz musician appointed composer in residence
 =============================================

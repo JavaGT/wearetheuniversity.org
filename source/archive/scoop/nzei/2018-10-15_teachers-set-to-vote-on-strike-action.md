@@ -1,9 +1,12 @@
 ---
 slug: teachers-set-to-vote-on-strike-action
-title: "Teachers set to vote on strike action"
-date: 2018-10-15
-source-url: https://www.scoop.co.nz/stories/PO1810/S00211/teachers-set-to-vote-on-strike-action.htm
+title: Teachers set to vote on strike action
+date: 2018-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00211/teachers-set-to-vote-on-strike-action.htm
 author: nzei
+permalink: /archive/2018/10/15/teachers-set-to-vote-on-strike-action/index.html
+layout: layout.njk
 ---
 Teachers set to vote on strike action
 =====================================

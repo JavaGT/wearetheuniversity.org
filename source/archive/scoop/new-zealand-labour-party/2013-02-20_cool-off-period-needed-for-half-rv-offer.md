@@ -1,9 +1,12 @@
 ---
 slug: cool-off-period-needed-for-half-rv-offer
-title: "Cool-off period needed for half-RV offer"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/PA1302/S00299/cool-off-period-needed-for-half-rv-offer.htm
+title: Cool-off period needed for half-RV offer
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00299/cool-off-period-needed-for-half-rv-offer.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/20/cool-off-period-needed-for-half-rv-offer/index.html
+layout: layout.njk
 ---
 Cool-off period needed for half-RV offer
 ========================================

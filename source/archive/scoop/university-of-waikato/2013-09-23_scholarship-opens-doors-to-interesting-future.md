@@ -1,9 +1,12 @@
 ---
 slug: scholarship-opens-doors-to-interesting-future
-title: "Scholarship opens doors to interesting future"
-date: 2013-09-23
-source-url: https://www.scoop.co.nz/stories/ED1309/S00132/scholarship-opens-doors-to-interesting-future.htm
+title: Scholarship opens doors to interesting future
+date: 2013-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00132/scholarship-opens-doors-to-interesting-future.htm
 author: university-of-waikato
+permalink: /archive/2013/09/23/scholarship-opens-doors-to-interesting-future/index.html
+layout: layout.njk
 ---
 Scholarship opens doors to interesting future
 =============================================

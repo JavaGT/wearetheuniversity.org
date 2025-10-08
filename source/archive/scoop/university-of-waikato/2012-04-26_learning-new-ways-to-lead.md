@@ -1,9 +1,11 @@
 ---
 slug: learning-new-ways-to-lead
-title: "Learning new ways to lead"
-date: 2012-04-26
+title: Learning new ways to lead
+date: 2012-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1204/S00100/learning-new-ways-to-lead.htm
 author: university-of-waikato
+permalink: /archive/2012/04/26/learning-new-ways-to-lead/index.html
+layout: layout.njk
 ---
 Learning new ways to lead
 =========================

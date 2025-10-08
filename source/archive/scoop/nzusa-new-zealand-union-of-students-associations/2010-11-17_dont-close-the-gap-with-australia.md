@@ -1,9 +1,12 @@
 ---
 slug: dont-close-the-gap-with-australia
-title: "Don’t close the gap with Australia"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/PO1011/S00216/dont-close-the-gap-with-australia.htm
+title: Don’t close the gap with Australia
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00216/dont-close-the-gap-with-australia.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/11/17/dont-close-the-gap-with-australia/index.html
+layout: layout.njk
 ---
 Don’t close the gap with Australia
 ==================================

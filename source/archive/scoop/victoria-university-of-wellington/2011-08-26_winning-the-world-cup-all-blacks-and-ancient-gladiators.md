@@ -1,9 +1,13 @@
 ---
 slug: winning-the-world-cup-all-blacks-and-ancient-gladiators
-title: "Winning the World Cup: All Blacks and Ancient Gladiators"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/ED1108/S00146/winning-the-world-cup-all-blacks-and-ancient-gladiators.htm
+title: 'Winning the World Cup: All Blacks and Ancient Gladiators'
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00146/winning-the-world-cup-all-blacks-and-ancient-gladiators.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/26/winning-the-world-cup-all-blacks-and-ancient-gladiators/index.html
+layout: layout.njk
 ---
 Winning the World Cup: All Blacks and Ancient Gladiators
 ========================================================

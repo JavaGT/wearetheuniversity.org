@@ -1,9 +1,13 @@
 ---
 slug: massey-joins-lincoln-in-precision-agriculture-push
-title: "Massey joins Lincoln in precision agriculture push"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/ED1108/S00155/massey-joins-lincoln-in-precision-agriculture-push.htm
+title: Massey joins Lincoln in precision agriculture push
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00155/massey-joins-lincoln-in-precision-agriculture-push.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/30/massey-joins-lincoln-in-precision-agriculture-push/index.html
+layout: layout.njk
 ---
 Massey joins Lincoln in precision agriculture push
 ==================================================

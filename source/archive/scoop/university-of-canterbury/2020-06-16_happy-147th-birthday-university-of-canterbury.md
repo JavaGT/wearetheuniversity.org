@@ -1,9 +1,12 @@
 ---
 slug: happy-147th-birthday-university-of-canterbury
-title: "Happy 147th Birthday, University Of Canterbury"
-date: 2020-06-16
-source-url: https://www.scoop.co.nz/stories/ED2006/S00016/happy-147th-birthday-university-of-canterbury.htm
+title: Happy 147th Birthday, University Of Canterbury
+date: 2020-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00016/happy-147th-birthday-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2020/06/16/happy-147th-birthday-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Happy 147th Birthday, University Of Canterbury
 ==============================================

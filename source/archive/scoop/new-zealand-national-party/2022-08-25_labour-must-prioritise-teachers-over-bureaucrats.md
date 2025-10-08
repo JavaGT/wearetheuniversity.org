@@ -1,9 +1,13 @@
 ---
 slug: labour-must-prioritise-teachers-over-bureaucrats
-title: "Labour Must Prioritise Teachers Over Bureaucrats"
-date: 2022-08-25
-source-url: https://www.scoop.co.nz/stories/PA2208/S00208/labour-must-prioritise-teachers-over-bureaucrats.htm
+title: Labour Must Prioritise Teachers Over Bureaucrats
+date: 2022-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00208/labour-must-prioritise-teachers-over-bureaucrats.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/08/25/labour-must-prioritise-teachers-over-bureaucrats/index.html
+layout: layout.njk
 ---
 Labour Must Prioritise Teachers Over Bureaucrats
 ================================================

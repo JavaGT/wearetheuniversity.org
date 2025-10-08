@@ -1,9 +1,13 @@
 ---
 slug: hon-richard-prebbles-state-of-the-nation-address
-title: "Hon Richard Prebble’s State Of The Nation Address"
-date: 2001-01-16
-source-url: https://www.scoop.co.nz/stories/PA0101/S00023/hon-richard-prebbles-state-of-the-nation-address.htm
+title: Hon Richard Prebble’s State Of The Nation Address
+date: 2001-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00023/hon-richard-prebbles-state-of-the-nation-address.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/01/16/hon-richard-prebbles-state-of-the-nation-address/index.html
+layout: layout.njk
 ---
 Hon Richard Prebble’s State Of The Nation Address
 =================================================

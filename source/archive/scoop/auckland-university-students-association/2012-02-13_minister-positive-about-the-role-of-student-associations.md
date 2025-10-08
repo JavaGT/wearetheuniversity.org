@@ -1,9 +1,13 @@
 ---
 slug: minister-positive-about-the-role-of-student-associations
-title: "Minister positive about the role of student associations"
-date: 2012-02-13
-source-url: https://www.scoop.co.nz/stories/ED1202/S00049/minister-positive-about-the-role-of-student-associations.htm
+title: Minister positive about the role of student associations
+date: 2012-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00049/minister-positive-about-the-role-of-student-associations.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2012/02/13/minister-positive-about-the-role-of-student-associations/index.html
+layout: layout.njk
 ---
 Minister positive about the role of student associations
 ========================================================

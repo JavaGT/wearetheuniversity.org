@@ -1,9 +1,12 @@
 ---
 slug: art-guide-for-kiwi-kids-wins-nz-post-book-award
-title: "Art Guide for Kiwi Kids Wins NZ Post Book Award"
-date: 2009-05-21
-source-url: https://www.scoop.co.nz/stories/CU0905/S00282/art-guide-for-kiwi-kids-wins-nz-post-book-award.htm
+title: Art Guide for Kiwi Kids Wins NZ Post Book Award
+date: 2009-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00282/art-guide-for-kiwi-kids-wins-nz-post-book-award.htm
 author: auckland-university-press
+permalink: /archive/2009/05/21/art-guide-for-kiwi-kids-wins-nz-post-book-award/index.html
+layout: layout.njk
 ---
 Art Guide for Kiwi Kids Wins NZ Post Book Award
 ===============================================

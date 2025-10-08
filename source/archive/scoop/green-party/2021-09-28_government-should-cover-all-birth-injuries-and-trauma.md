@@ -1,9 +1,13 @@
 ---
 slug: government-should-cover-all-birth-injuries-and-trauma
-title: "Government Should Cover All Birth Injuries And Trauma"
-date: 2021-09-28
-source-url: https://www.scoop.co.nz/stories/PA2109/S00237/government-should-cover-all-birth-injuries-and-trauma.htm
+title: Government Should Cover All Birth Injuries And Trauma
+date: 2021-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00237/government-should-cover-all-birth-injuries-and-trauma.htm
 author: green-party
+permalink: >-
+  /archive/2021/09/28/government-should-cover-all-birth-injuries-and-trauma/index.html
+layout: layout.njk
 ---
 Government Should Cover All Birth Injuries And Trauma
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-refuses-to-recognise-palestine-even-after-104-years
-title: "Labour Refuses To Recognise Palestine – Even After 104 Years"
-date: 2023-10-04
-source-url: https://www.scoop.co.nz/stories/PO2310/S00035/labour-refuses-to-recognise-palestine-even-after-104-years.htm
+title: Labour Refuses To Recognise Palestine – Even After 104 Years
+date: 2023-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00035/labour-refuses-to-recognise-palestine-even-after-104-years.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2023/10/04/labour-refuses-to-recognise-palestine-even-after-104-years/index.html
+layout: layout.njk
 ---
 Labour Refuses To Recognise Palestine – Even After 104 Years
 ============================================================

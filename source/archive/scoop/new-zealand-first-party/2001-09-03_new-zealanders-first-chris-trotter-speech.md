@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-first-chris-trotter-speech
-title: "New Zealanders First - Chris Trotter Speech"
-date: 2001-09-03
-source-url: https://www.scoop.co.nz/stories/PA0109/S00013/new-zealanders-first-chris-trotter-speech.htm
+title: New Zealanders First - Chris Trotter Speech
+date: 2001-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00013/new-zealanders-first-chris-trotter-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2001/09/03/new-zealanders-first-chris-trotter-speech/index.html
+layout: layout.njk
 ---
 New Zealanders First - Chris Trotter Speech
 ===========================================

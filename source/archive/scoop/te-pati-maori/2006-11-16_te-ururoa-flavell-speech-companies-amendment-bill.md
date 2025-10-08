@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-speech-companies-amendment-bill
-title: "Te Ururoa Flavell Speech: Companies Amendment Bill"
-date: 2006-11-16
-source-url: https://www.scoop.co.nz/stories/PA0611/S00298/te-ururoa-flavell-speech-companies-amendment-bill.htm
+title: 'Te Ururoa Flavell Speech: Companies Amendment Bill'
+date: 2006-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00298/te-ururoa-flavell-speech-companies-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/11/16/te-ururoa-flavell-speech-companies-amendment-bill/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Speech: Companies Amendment Bill
 ==================================================

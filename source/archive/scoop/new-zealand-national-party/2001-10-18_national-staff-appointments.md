@@ -1,9 +1,11 @@
 ---
 slug: national-staff-appointments
-title: "National staff appointments"
-date: 2001-10-18
+title: National staff appointments
+date: 2001-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00348/national-staff-appointments.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/18/national-staff-appointments/index.html
+layout: layout.njk
 ---
 National staff appointments
 ===========================

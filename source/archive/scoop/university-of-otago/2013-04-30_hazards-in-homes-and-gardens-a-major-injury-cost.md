@@ -1,9 +1,13 @@
 ---
 slug: hazards-in-homes-and-gardens-a-major-injury-cost
-title: "Hazards In Homes and Gardens a Major Injury Cost"
-date: 2013-04-30
-source-url: https://www.scoop.co.nz/stories/SC1304/S00055/hazards-in-homes-and-gardens-a-major-injury-cost.htm
+title: Hazards In Homes and Gardens a Major Injury Cost
+date: 2013-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00055/hazards-in-homes-and-gardens-a-major-injury-cost.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/30/hazards-in-homes-and-gardens-a-major-injury-cost/index.html
+layout: layout.njk
 ---
 Hazards In Homes and Gardens a Major Injury Cost
 ================================================

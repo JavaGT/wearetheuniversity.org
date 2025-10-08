@@ -1,9 +1,12 @@
 ---
 slug: maori-words-borrowed-into-new-zealand-english
-title: "Maori words borrowed into New Zealand English"
-date: 2000-06-29
-source-url: https://www.scoop.co.nz/stories/ED0006/S00046/maori-words-borrowed-into-new-zealand-english.htm
+title: Maori words borrowed into New Zealand English
+date: 2000-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00046/maori-words-borrowed-into-new-zealand-english.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/29/maori-words-borrowed-into-new-zealand-english/index.html
+layout: layout.njk
 ---
 Maori words borrowed into New Zealand English
 =============================================

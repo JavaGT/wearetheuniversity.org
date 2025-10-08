@@ -1,9 +1,12 @@
 ---
 slug: speech-when-new-zealand-was-all-about-fairness
-title: "Speech: When New Zealand was all about fairness"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00394/speech-when-new-zealand-was-all-about-fairness.htm
+title: 'Speech: When New Zealand was all about fairness'
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00394/speech-when-new-zealand-was-all-about-fairness.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/20/speech-when-new-zealand-was-all-about-fairness/index.html
+layout: layout.njk
 ---
 Speech: When New Zealand was all about fairness
 ===============================================

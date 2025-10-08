@@ -1,9 +1,12 @@
 ---
 slug: individual-student-debt-level-tops-$130000
-title: "Individual Student Debt Level Tops $130,000"
-date: 2000-05-31
-source-url: https://www.scoop.co.nz/stories/ED0005/S00051/individual-student-debt-level-tops-130000.htm
+title: Individual Student Debt Level Tops $130,000
+date: 2000-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00051/individual-student-debt-level-tops-130000.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/05/31/individual-student-debt-level-tops-/index.html
+layout: layout.njk
 ---
 Individual Student Debt Level Tops $130,000
 ===========================================

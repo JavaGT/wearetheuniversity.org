@@ -1,9 +1,11 @@
 ---
 slug: land-based-piracy
-title: "Land Based Piracy"
-date: 2004-06-28
+title: Land Based Piracy
+date: 2004-06-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00438/land-based-piracy.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/28/land-based-piracy/index.html
+layout: layout.njk
 ---
 Land Based Piracy
 =================

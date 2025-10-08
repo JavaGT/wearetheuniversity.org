@@ -1,9 +1,13 @@
 ---
 slug: celebration-is-in-order-for-lincoln-university-graduands
-title: "Celebration is in order for Lincoln University graduands"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/ED1304/S00048/celebration-is-in-order-for-lincoln-university-graduands.htm
+title: Celebration is in order for Lincoln University graduands
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00048/celebration-is-in-order-for-lincoln-university-graduands.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/04/10/celebration-is-in-order-for-lincoln-university-graduands/index.html
+layout: layout.njk
 ---
 Celebration is in order for Lincoln University graduands
 ========================================================

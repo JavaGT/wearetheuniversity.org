@@ -1,9 +1,12 @@
 ---
 slug: labour-minister-supports-freedom-of-association
-title: "Labour minister supports freedom of association"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PO0803/S00183/labour-minister-supports-freedom-of-association.htm
+title: Labour minister supports freedom of association
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0803/S00183/labour-minister-supports-freedom-of-association.htm
 author: student-choice
+permalink: /archive/2008/03/19/labour-minister-supports-freedom-of-association/index.html
+layout: layout.njk
 ---
 Labour minister supports freedom of association
 ===============================================

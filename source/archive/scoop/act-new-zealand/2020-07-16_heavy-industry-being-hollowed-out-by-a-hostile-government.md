@@ -1,9 +1,13 @@
 ---
 slug: heavy-industry-being-hollowed-out-by-a-hostile-government
-title: "Heavy Industry Being Hollowed Out By A Hostile Government"
-date: 2020-07-16
-source-url: https://www.scoop.co.nz/stories/PA2007/S00146/heavy-industry-being-hollowed-out-by-a-hostile-government.htm
+title: Heavy Industry Being Hollowed Out By A Hostile Government
+date: 2020-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00146/heavy-industry-being-hollowed-out-by-a-hostile-government.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/16/heavy-industry-being-hollowed-out-by-a-hostile-government/index.html
+layout: layout.njk
 ---
 Heavy Industry Being Hollowed Out By A Hostile Government
 =========================================================

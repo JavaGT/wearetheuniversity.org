@@ -1,9 +1,12 @@
 ---
 slug: sharples-specialist-classroom-teachers-hui
-title: "Sharples: Specialist Classroom Teachers Hui"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/PA0705/S00098/sharples-specialist-classroom-teachers-hui.htm
+title: 'Sharples: Specialist Classroom Teachers Hui'
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00098/sharples-specialist-classroom-teachers-hui.htm
 author: te-pati-maori
+permalink: /archive/2007/05/03/sharples-specialist-classroom-teachers-hui/index.html
+layout: layout.njk
 ---
 Sharples: Specialist Classroom Teachers Hui
 ===========================================

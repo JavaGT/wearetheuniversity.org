@@ -1,9 +1,12 @@
 ---
 slug: funding-boost-to-test-anti-cancer-marine-sponge
-title: "Funding boost to test anti-cancer marine sponge"
-date: 2002-06-18
-source-url: https://www.scoop.co.nz/stories/SC0206/S00030/funding-boost-to-test-anti-cancer-marine-sponge.htm
+title: Funding boost to test anti-cancer marine sponge
+date: 2002-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0206/S00030/funding-boost-to-test-anti-cancer-marine-sponge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/06/18/funding-boost-to-test-anti-cancer-marine-sponge/index.html
+layout: layout.njk
 ---
 Funding boost to test anti-cancer marine sponge
 ===============================================

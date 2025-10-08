@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-to-draw-inspiration-in-wellington
-title: "Student leaders to draw inspiration in Wellington"
-date: 2010-01-25
-source-url: https://www.scoop.co.nz/stories/ED1001/S00030/student-leaders-to-draw-inspiration-in-wellington.htm
+title: Student leaders to draw inspiration in Wellington
+date: 2010-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00030/student-leaders-to-draw-inspiration-in-wellington.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/01/25/student-leaders-to-draw-inspiration-in-wellington/index.html
+layout: layout.njk
 ---
 Student leaders to draw inspiration in Wellington
 =================================================

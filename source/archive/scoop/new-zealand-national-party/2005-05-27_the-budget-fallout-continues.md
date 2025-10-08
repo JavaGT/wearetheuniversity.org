@@ -1,9 +1,11 @@
 ---
 slug: the-budget-fallout-continues
-title: "The Budget Fallout continues"
-date: 2005-05-27
+title: The Budget Fallout continues
+date: 2005-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00695/the-budget-fallout-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/27/the-budget-fallout-continues/index.html
+layout: layout.njk
 ---
 The Budget Fallout continues
 ============================

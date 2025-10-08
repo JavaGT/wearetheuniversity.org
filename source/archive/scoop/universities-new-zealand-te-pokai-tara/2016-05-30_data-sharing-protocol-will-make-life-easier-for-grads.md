@@ -1,9 +1,13 @@
 ---
 slug: data-sharing-protocol-will-make-life-easier-for-grads
-title: "Data sharing protocol will make life easier for grads"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/ED1605/S00124/data-sharing-protocol-will-make-life-easier-for-grads.htm
+title: Data sharing protocol will make life easier for grads
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00124/data-sharing-protocol-will-make-life-easier-for-grads.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/05/30/data-sharing-protocol-will-make-life-easier-for-grads/index.html
+layout: layout.njk
 ---
 Data sharing protocol will make life easier for grads
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: annual-bank-customer-survey-results-23rd-sept
-title: "Annual Bank Customer Survey - Results 23rd Sept."
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/BU0209/S00058/annual-bank-customer-survey-results-23rd-sept.htm
+title: Annual Bank Customer Survey - Results 23rd Sept.
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0209/S00058/annual-bank-customer-survey-results-23rd-sept.htm
 author: auckland-university
+permalink: /archive/2002/09/10/annual-bank-customer-survey-results-23rd-sept/index.html
+layout: layout.njk
 ---
 Annual Bank Customer Survey - Results 23rd Sept.
 ================================================

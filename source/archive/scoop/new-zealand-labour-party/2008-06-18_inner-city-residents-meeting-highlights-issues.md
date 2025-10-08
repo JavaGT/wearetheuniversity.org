@@ -1,9 +1,12 @@
 ---
 slug: inner-city-residents-meeting-highlights-issues
-title: "Inner City residents meeting highlights issues"
-date: 2008-06-18
-source-url: https://www.scoop.co.nz/stories/AK0806/S00171/inner-city-residents-meeting-highlights-issues.htm
+title: Inner City residents meeting highlights issues
+date: 2008-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0806/S00171/inner-city-residents-meeting-highlights-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/06/18/inner-city-residents-meeting-highlights-issues/index.html
+layout: layout.njk
 ---
 Inner City residents meeting highlights issues
 ==============================================

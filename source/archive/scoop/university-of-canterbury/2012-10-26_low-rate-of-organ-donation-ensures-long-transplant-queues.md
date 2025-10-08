@@ -1,9 +1,13 @@
 ---
 slug: low-rate-of-organ-donation-ensures-long-transplant-queues
-title: "Low rate of organ donation ensures long transplant queues"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/GE1210/S00110/low-rate-of-organ-donation-ensures-long-transplant-queues.htm
+title: Low rate of organ donation ensures long transplant queues
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00110/low-rate-of-organ-donation-ensures-long-transplant-queues.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/26/low-rate-of-organ-donation-ensures-long-transplant-queues/index.html
+layout: layout.njk
 ---
 Low rate of organ donation ensures long transplant queues
 =========================================================

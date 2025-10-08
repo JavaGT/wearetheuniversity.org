@@ -1,9 +1,12 @@
 ---
 slug: for-real-tax-cuts-cut-the-$1b-welfare-abuse
-title: "For real tax cuts - cut the $1b welfare abuse"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PA0507/S00340/for-real-tax-cuts-cut-the-1b-welfare-abuse.htm
+title: For real tax cuts - cut the $1b welfare abuse
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00340/for-real-tax-cuts-cut-the-1b-welfare-abuse.htm
 author: act-new-zealand
+permalink: /archive/2005/07/18/for-real-tax-cuts-cut-the-/index.html
+layout: layout.njk
 ---
 For real tax cuts - cut the $1b welfare abuse
 =============================================

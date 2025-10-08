@@ -1,9 +1,13 @@
 ---
 slug: speech-turei-our-goals-our-achievements-our-position
-title: "Speech: Turei - Our Goals, Our Achievements, Our Position"
-date: 2011-06-05
-source-url: https://www.scoop.co.nz/stories/PA1106/S00082/speech-turei-our-goals-our-achievements-our-position.htm
+title: 'Speech: Turei - Our Goals, Our Achievements, Our Position'
+date: 2011-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00082/speech-turei-our-goals-our-achievements-our-position.htm
 author: green-party
+permalink: >-
+  /archive/2011/06/05/speech-turei-our-goals-our-achievements-our-position/index.html
+layout: layout.njk
 ---
 Speech: Turei - Our Goals, Our Achievements, Our Position
 =========================================================

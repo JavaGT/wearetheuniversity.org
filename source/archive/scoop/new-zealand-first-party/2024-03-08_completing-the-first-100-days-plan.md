@@ -1,9 +1,12 @@
 ---
 slug: completing-the-first-100-days-plan
-title: "Completing The First 100 Days Plan"
-date: 2024-03-08
-source-url: https://www.scoop.co.nz/stories/PA2403/S00044/completing-the-first-100-days-plan.htm
+title: Completing The First 100 Days Plan
+date: 2024-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00044/completing-the-first-100-days-plan.htm
 author: new-zealand-first-party
+permalink: /archive/2024/03/08/completing-the-first-100-days-plan/index.html
+layout: layout.njk
 ---
 Completing The First 100 Days Plan
 ==================================

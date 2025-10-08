@@ -1,9 +1,13 @@
 ---
 slug: will-labour-give-pie-warmers-back-to-the-workers
-title: "Will Labour give pie-warmers back to the workers?"
-date: 2000-06-02
-source-url: https://www.scoop.co.nz/stories/PA0006/S00054/will-labour-give-pie-warmers-back-to-the-workers.htm
+title: Will Labour give pie-warmers back to the workers?
+date: 2000-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00054/will-labour-give-pie-warmers-back-to-the-workers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/06/02/will-labour-give-pie-warmers-back-to-the-workers/index.html
+layout: layout.njk
 ---
 Will Labour give pie-warmers back to the workers?
 =================================================

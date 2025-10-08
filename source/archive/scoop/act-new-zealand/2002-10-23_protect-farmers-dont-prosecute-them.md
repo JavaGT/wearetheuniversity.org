@@ -1,9 +1,12 @@
 ---
 slug: protect-farmers-dont-prosecute-them
-title: "Protect Farmers, Don't Prosecute Them"
-date: 2002-10-23
-source-url: https://www.scoop.co.nz/stories/PA0210/S00514/protect-farmers-dont-prosecute-them.htm
+title: Protect Farmers, Don't Prosecute Them
+date: 2002-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00514/protect-farmers-dont-prosecute-them.htm
 author: act-new-zealand
+permalink: /archive/2002/10/23/protect-farmers-dont-prosecute-them/index.html
+layout: layout.njk
 ---
 Protect Farmers, Don't Prosecute Them
 =====================================

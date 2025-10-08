@@ -1,9 +1,12 @@
 ---
 slug: killer-road-claims-another-life
-title: "‘Killer road’ claims another life"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00420/killer-road-claims-another-life.htm
+title: ‘Killer road’ claims another life
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00420/killer-road-claims-another-life.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/21/killer-road-claims-another-life/index.html
+layout: layout.njk
 ---
 ‘Killer road’ claims another life
 =================================

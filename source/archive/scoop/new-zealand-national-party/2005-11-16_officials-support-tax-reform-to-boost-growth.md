@@ -1,9 +1,12 @@
 ---
 slug: officials-support-tax-reform-to-boost-growth
-title: "Officials support tax reform to boost growth"
-date: 2005-11-16
-source-url: https://www.scoop.co.nz/stories/PA0511/S00221/officials-support-tax-reform-to-boost-growth.htm
+title: Officials support tax reform to boost growth
+date: 2005-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00221/officials-support-tax-reform-to-boost-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/16/officials-support-tax-reform-to-boost-growth/index.html
+layout: layout.njk
 ---
 Officials support tax reform to boost growth
 ============================================

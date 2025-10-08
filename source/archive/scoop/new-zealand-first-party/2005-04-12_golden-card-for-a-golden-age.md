@@ -1,9 +1,11 @@
 ---
 slug: golden-card-for-a-golden-age
-title: "Golden Card For A Golden Age"
-date: 2005-04-12
+title: Golden Card For A Golden Age
+date: 2005-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00228/golden-card-for-a-golden-age.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/12/golden-card-for-a-golden-age/index.html
+layout: layout.njk
 ---
 Golden Card For A Golden Age
 ============================

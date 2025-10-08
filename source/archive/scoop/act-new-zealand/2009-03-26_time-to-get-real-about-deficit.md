@@ -1,9 +1,12 @@
 ---
 slug: time-to-get-real-about-deficit
-title: "Time To Get Real About Deficit"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/PA0903/S00387/time-to-get-real-about-deficit.htm
+title: Time To Get Real About Deficit
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00387/time-to-get-real-about-deficit.htm
 author: act-new-zealand
+permalink: /archive/2009/03/26/time-to-get-real-about-deficit/index.html
+layout: layout.njk
 ---
 Time To Get Real About Deficit
 ==============================

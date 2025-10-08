@@ -1,9 +1,12 @@
 ---
 slug: new-professor-of-māori-studies-announced
-title: "New Professor of Māori Studies announced"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/ED0805/S00060/new-professor-of-maori-studies-announced.htm
+title: New Professor of Māori Studies announced
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00060/new-professor-of-maori-studies-announced.htm
 author: university-of-otago
+permalink: /archive/2008/05/19/new-professor-of-m/index.html
+layout: layout.njk
 ---
 New Professor of Māori Studies announced
 ========================================

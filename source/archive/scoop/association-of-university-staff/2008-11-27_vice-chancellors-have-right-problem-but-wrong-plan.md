@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellors-have-right-problem-but-wrong-plan
-title: "Vice Chancellors have right problem but wrong plan"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/ED0811/S00079/vice-chancellors-have-right-problem-but-wrong-plan.htm
+title: Vice Chancellors have right problem but wrong plan
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00079/vice-chancellors-have-right-problem-but-wrong-plan.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/11/27/vice-chancellors-have-right-problem-but-wrong-plan/index.html
+layout: layout.njk
 ---
 Vice Chancellors have right problem but wrong plan
 ==================================================

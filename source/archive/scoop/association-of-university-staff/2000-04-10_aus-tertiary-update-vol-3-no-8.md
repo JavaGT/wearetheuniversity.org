@@ -1,9 +1,11 @@
 ---
 slug: aus-tertiary-update-vol-3-no-8
-title: "AUS Tertiary Update  Vol.3  No.8"
-date: 2000-04-10
+title: AUS Tertiary Update  Vol.3  No.8
+date: 2000-04-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0004/S00010/aus-tertiary-update-vol3-no8.htm
 author: association-of-university-staff
+permalink: /archive/2000/04/10/aus-tertiary-update-vol-3-no-8/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.8
 ==============================

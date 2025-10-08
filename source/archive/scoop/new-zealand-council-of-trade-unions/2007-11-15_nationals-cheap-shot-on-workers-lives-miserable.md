@@ -1,9 +1,12 @@
 ---
 slug: nationals-cheap-shot-on-workers-lives-miserable
-title: "National's Cheap Shot on Workers Lives Miserable"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/PO0711/S00261/nationals-cheap-shot-on-workers-lives-miserable.htm
+title: National's Cheap Shot on Workers Lives Miserable
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00261/nationals-cheap-shot-on-workers-lives-miserable.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/11/15/nationals-cheap-shot-on-workers-lives-miserable/index.html
+layout: layout.njk
 ---
 National's Cheap Shot on Workers Lives Miserable
 ================================================

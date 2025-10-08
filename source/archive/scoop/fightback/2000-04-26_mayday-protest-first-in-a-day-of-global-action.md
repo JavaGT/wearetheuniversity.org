@@ -1,9 +1,12 @@
 ---
 slug: mayday-protest-first-in-a-day-of-global-action
-title: "MayDay Protest- first in a day of Global Action"
-date: 2000-04-26
-source-url: https://www.scoop.co.nz/stories/PO0004/S00097/mayday-protest-first-in-a-day-of-global-action.htm
+title: MayDay Protest- first in a day of Global Action
+date: 2000-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00097/mayday-protest-first-in-a-day-of-global-action.htm
 author: fightback
+permalink: /archive/2000/04/26/mayday-protest-first-in-a-day-of-global-action/index.html
+layout: layout.njk
 ---
 MayDay Protest- first in a day of Global Action
 ===============================================

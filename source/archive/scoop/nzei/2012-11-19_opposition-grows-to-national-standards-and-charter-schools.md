@@ -1,9 +1,13 @@
 ---
 slug: opposition-grows-to-national-standards-and-charter-schools
-title: "Opposition grows to National Standards and Charter Schools"
-date: 2012-11-19
-source-url: https://www.scoop.co.nz/stories/ED1211/S00127/opposition-grows-to-national-standards-and-charter-schools.htm
+title: Opposition grows to National Standards and Charter Schools
+date: 2012-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00127/opposition-grows-to-national-standards-and-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/19/opposition-grows-to-national-standards-and-charter-schools/index.html
+layout: layout.njk
 ---
 Opposition grows to National Standards and Charter Schools
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-to-maori-media-awards-2005
-title: "Turia Speech to Maori Media Awards 2005"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00419/turia-speech-to-maori-media-awards-2005.htm
+title: Turia Speech to Maori Media Awards 2005
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00419/turia-speech-to-maori-media-awards-2005.htm
 author: te-pati-maori
+permalink: /archive/2005/03/21/turia-speech-to-maori-media-awards-2005/index.html
+layout: layout.njk
 ---
 Turia Speech to Maori Media Awards 2005
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellor-slams-justified-future-investment
-title: "Vice-Chancellor slams justified future investment"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/ED0807/S00064/vice-chancellor-slams-justified-future-investment.htm
+title: Vice-Chancellor slams justified future investment
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00064/vice-chancellor-slams-justified-future-investment.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2008/07/21/vice-chancellor-slams-justified-future-investment/index.html
+layout: layout.njk
 ---
 Vice-Chancellor slams justified future investment
 =================================================

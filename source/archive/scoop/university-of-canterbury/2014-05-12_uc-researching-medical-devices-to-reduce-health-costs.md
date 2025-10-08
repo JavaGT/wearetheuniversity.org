@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-medical-devices-to-reduce-health-costs
-title: "UC researching medical devices to reduce health costs"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/ED1405/S00061/uc-researching-medical-devices-to-reduce-health-costs.htm
+title: UC researching medical devices to reduce health costs
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00061/uc-researching-medical-devices-to-reduce-health-costs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/12/uc-researching-medical-devices-to-reduce-health-costs/index.html
+layout: layout.njk
 ---
 UC researching medical devices to reduce health costs
 =====================================================

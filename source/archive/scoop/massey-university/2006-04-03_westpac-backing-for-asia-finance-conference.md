@@ -1,9 +1,12 @@
 ---
 slug: westpac-backing-for-asia-finance-conference
-title: "Westpac backing for Asia Finance Conference"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/BU0604/S00048/westpac-backing-for-asia-finance-conference.htm
+title: Westpac backing for Asia Finance Conference
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00048/westpac-backing-for-asia-finance-conference.htm
 author: massey-university
+permalink: /archive/2006/04/03/westpac-backing-for-asia-finance-conference/index.html
+layout: layout.njk
 ---
 Westpac backing for Asia Finance Conference
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: ousa-vsm-and-our-broken-hearts
-title: "OUSA VSM and Our Broken Hearts"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00031/ousa-vsm-and-our-broken-hearts.htm
+title: OUSA VSM and Our Broken Hearts
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00031/ousa-vsm-and-our-broken-hearts.htm
 author: ousa
+permalink: /archive/2011/08/04/ousa-vsm-and-our-broken-hearts/index.html
+layout: layout.njk
 ---
 OUSA VSM and Our Broken Hearts
 ==============================

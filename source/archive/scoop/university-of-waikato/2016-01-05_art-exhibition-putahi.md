@@ -1,9 +1,11 @@
 ---
 slug: art-exhibition-putahi
-title: "Art Exhibition: ‘PUTAHI’"
-date: 2016-01-05
+title: 'Art Exhibition: ‘PUTAHI’'
+date: 2016-01-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1601/S00016/art-exhibition-putahi.htm
 author: university-of-waikato
+permalink: /archive/2016/01/05/art-exhibition-putahi/index.html
+layout: layout.njk
 ---
 Art Exhibition: ‘PUTAHI’
 ========================

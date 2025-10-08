@@ -1,9 +1,13 @@
 ---
 slug: university-survey-bags-govts-business-development
-title: "University Survey Bags Govt's Business Development"
-date: 2000-10-19
-source-url: https://www.scoop.co.nz/stories/PA0010/S00402/university-survey-bags-govts-business-development.htm
+title: University Survey Bags Govt's Business Development
+date: 2000-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00402/university-survey-bags-govts-business-development.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/10/19/university-survey-bags-govts-business-development/index.html
+layout: layout.njk
 ---
 University Survey Bags Govt's Business Development
 ==================================================

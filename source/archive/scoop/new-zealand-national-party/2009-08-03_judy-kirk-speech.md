@@ -1,9 +1,11 @@
 ---
 slug: judy-kirk-speech
-title: "Judy Kirk Speech"
-date: 2009-08-03
+title: Judy Kirk Speech
+date: 2009-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0908/S00005/judy-kirk-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2009/08/03/judy-kirk-speech/index.html
+layout: layout.njk
 ---
 Judy Kirk Speech
 ================

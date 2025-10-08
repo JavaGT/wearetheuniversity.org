@@ -1,9 +1,12 @@
 ---
 slug: can-contact-tracing-apps-save-us-from-covid-19
-title: "Can Contact Tracing Apps Save Us From COVID-19?"
-date: 2020-04-07
-source-url: https://www.scoop.co.nz/stories/SC2004/S00012/can-contact-tracing-apps-save-us-from-covid-19.htm
+title: Can Contact Tracing Apps Save Us From COVID-19?
+date: 2020-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2004/S00012/can-contact-tracing-apps-save-us-from-covid-19.htm
 author: university-of-canterbury
+permalink: /archive/2020/04/07/can-contact-tracing-apps-save-us-from-covid-19/index.html
+layout: layout.njk
 ---
 Can Contact Tracing Apps Save Us From COVID-19?
 ===============================================

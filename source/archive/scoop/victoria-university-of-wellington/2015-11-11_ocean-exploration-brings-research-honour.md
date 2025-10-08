@@ -1,9 +1,12 @@
 ---
 slug: ocean-exploration-brings-research-honour
-title: "Ocean exploration brings research honour"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/SC1511/S00038/ocean-exploration-brings-research-honour.htm
+title: Ocean exploration brings research honour
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00038/ocean-exploration-brings-research-honour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/11/11/ocean-exploration-brings-research-honour/index.html
+layout: layout.njk
 ---
 Ocean exploration brings research honour
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: family-of-five-making-a-splash-at-victoria
-title: "Family of five making a splash at Victoria"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/ED1205/S00077/family-of-five-making-a-splash-at-victoria.htm
+title: Family of five making a splash at Victoria
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00077/family-of-five-making-a-splash-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/05/17/family-of-five-making-a-splash-at-victoria/index.html
+layout: layout.njk
 ---
 Family of five making a splash at Victoria
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: teac-what-happened-on-the-way-to-the-printer
-title: "TEAC - What happened on the way to the printer?"
-date: 2001-08-01
-source-url: https://www.scoop.co.nz/stories/PA0108/S00002/teac-what-happened-on-the-way-to-the-printer.htm
+title: TEAC - What happened on the way to the printer?
+date: 2001-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00002/teac-what-happened-on-the-way-to-the-printer.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/01/teac-what-happened-on-the-way-to-the-printer/index.html
+layout: layout.njk
 ---
 TEAC - What happened on the way to the printer?
 ===============================================

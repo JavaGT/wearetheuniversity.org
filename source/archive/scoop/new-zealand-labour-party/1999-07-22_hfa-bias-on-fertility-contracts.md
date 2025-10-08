@@ -1,9 +1,12 @@
 ---
 slug: hfa-bias-on-fertility-contracts
-title: "HFA bias on fertility contracts"
-date: 1999-07-22
-source-url: https://www.scoop.co.nz/stories/PA9907/S00403/hfa-bias-on-fertility-contracts.htm
+title: HFA bias on fertility contracts
+date: 1999-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00403/hfa-bias-on-fertility-contracts.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/22/hfa-bias-on-fertility-contracts/index.html
+layout: layout.njk
 ---
 HFA bias on fertility contracts
 ===============================

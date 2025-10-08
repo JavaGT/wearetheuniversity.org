@@ -1,9 +1,13 @@
 ---
 slug: better-trained-and-skilled-workforce-under-labour
-title: "Better trained and skilled workforce under Labour"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PA1409/S00071/better-trained-and-skilled-workforce-under-labour.htm
+title: Better trained and skilled workforce under Labour
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00071/better-trained-and-skilled-workforce-under-labour.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/04/better-trained-and-skilled-workforce-under-labour/index.html
+layout: layout.njk
 ---
 Better trained and skilled workforce under Labour
 =================================================

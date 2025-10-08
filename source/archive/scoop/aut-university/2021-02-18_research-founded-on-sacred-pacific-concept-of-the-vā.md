@@ -1,9 +1,13 @@
 ---
 slug: research-founded-on-sacred-pacific-concept-of-the-vā
-title: "Research Founded On Sacred Pacific Concept Of The Vā"
-date: 2021-02-18
-source-url: https://www.scoop.co.nz/stories/ED2102/S00027/research-founded-on-sacred-pacific-concept-of-the-va.htm
+title: Research Founded On Sacred Pacific Concept Of The Vā
+date: 2021-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00027/research-founded-on-sacred-pacific-concept-of-the-va.htm
 author: aut-university
+permalink: >-
+  /archive/2021/02/18/research-founded-on-sacred-pacific-concept-of-the-v/index.html
+layout: layout.njk
 ---
 Research Founded On Sacred Pacific Concept Of The Vā
 ====================================================

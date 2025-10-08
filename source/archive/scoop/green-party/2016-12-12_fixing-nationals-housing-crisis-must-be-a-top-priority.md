@@ -1,9 +1,13 @@
 ---
 slug: fixing-nationals-housing-crisis-must-be-a-top-priority
-title: "Fixing National’s housing crisis must be a top priority"
-date: 2016-12-12
-source-url: https://www.scoop.co.nz/stories/PA1612/S00187/fixing-nationals-housing-crisis-must-be-a-top-priority.htm
+title: Fixing National’s housing crisis must be a top priority
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00187/fixing-nationals-housing-crisis-must-be-a-top-priority.htm
 author: green-party
+permalink: >-
+  /archive/2016/12/12/fixing-nationals-housing-crisis-must-be-a-top-priority/index.html
+layout: layout.njk
 ---
 Fixing National’s housing crisis must be a top priority
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: google-dream-a-reality-for-victoria-student
-title: "Google dream a reality for Victoria student"
-date: 2014-11-18
-source-url: https://www.scoop.co.nz/stories/ED1411/S00108/google-dream-a-reality-for-victoria-student.htm
+title: Google dream a reality for Victoria student
+date: 2014-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00108/google-dream-a-reality-for-victoria-student.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/18/google-dream-a-reality-for-victoria-student/index.html
+layout: layout.njk
 ---
 Google dream a reality for Victoria student
 ===========================================

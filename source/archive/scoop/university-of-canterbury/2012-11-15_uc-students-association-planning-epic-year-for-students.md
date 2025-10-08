@@ -1,9 +1,13 @@
 ---
 slug: uc-students-association-planning-epic-year-for-students
-title: "UC Students Association planning epic year for students"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00105/uc-students-association-planning-epic-year-for-students.htm
+title: UC Students Association planning epic year for students
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00105/uc-students-association-planning-epic-year-for-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/15/uc-students-association-planning-epic-year-for-students/index.html
+layout: layout.njk
 ---
 UC Students Association planning epic year for students
 =======================================================

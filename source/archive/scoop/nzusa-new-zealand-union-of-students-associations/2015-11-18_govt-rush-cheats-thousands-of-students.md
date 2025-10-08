@@ -1,9 +1,12 @@
 ---
 slug: govt-rush-cheats-thousands-of-students
-title: "Govt rush cheats thousands of students"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/ED1511/S00088/govt-rush-cheats-thousands-of-students.htm
+title: Govt rush cheats thousands of students
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00088/govt-rush-cheats-thousands-of-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/11/18/govt-rush-cheats-thousands-of-students/index.html
+layout: layout.njk
 ---
 Govt rush cheats thousands of students
 ======================================

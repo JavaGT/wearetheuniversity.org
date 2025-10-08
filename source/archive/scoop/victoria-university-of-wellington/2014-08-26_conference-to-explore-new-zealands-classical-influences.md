@@ -1,9 +1,13 @@
 ---
 slug: conference-to-explore-new-zealands-classical-influences
-title: "Conference to explore New Zealand’s classical influences"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/ED1408/S00136/conference-to-explore-new-zealands-classical-influences.htm
+title: Conference to explore New Zealand’s classical influences
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00136/conference-to-explore-new-zealands-classical-influences.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/08/26/conference-to-explore-new-zealands-classical-influences/index.html
+layout: layout.njk
 ---
 Conference to explore New Zealand’s classical influences
 ========================================================

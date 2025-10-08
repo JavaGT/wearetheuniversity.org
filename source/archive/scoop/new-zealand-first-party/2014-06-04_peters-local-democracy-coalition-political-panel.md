@@ -1,9 +1,13 @@
 ---
 slug: peters-local-democracy-coalition-political-panel
-title: "Peters: Local Democracy Coalition Political Panel"
-date: 2014-06-04
-source-url: https://www.scoop.co.nz/stories/PA1406/S00045/peters-local-democracy-coalition-political-panel.htm
+title: 'Peters: Local Democracy Coalition Political Panel'
+date: 2014-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00045/peters-local-democracy-coalition-political-panel.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/06/04/peters-local-democracy-coalition-political-panel/index.html
+layout: layout.njk
 ---
 Peters: Local Democracy Coalition Political Panel
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: technology-enhances-outdoor-experience
-title: "Technology enhances outdoor experience"
-date: 2016-10-06
-source-url: https://www.scoop.co.nz/stories/ED1610/S00014/technology-enhances-outdoor-experience.htm
+title: Technology enhances outdoor experience
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00014/technology-enhances-outdoor-experience.htm
 author: lincoln-university
+permalink: /archive/2016/10/06/technology-enhances-outdoor-experience/index.html
+layout: layout.njk
 ---
 Technology enhances outdoor experience
 ======================================

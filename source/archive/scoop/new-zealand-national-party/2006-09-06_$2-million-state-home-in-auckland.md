@@ -1,9 +1,12 @@
 ---
 slug: $2-million-state-home-in-auckland
-title: "$2 million state home in Auckland"
-date: 2006-09-06
-source-url: https://www.scoop.co.nz/stories/PA0609/S00141/2-million-state-home-in-auckland.htm
+title: $2 million state home in Auckland
+date: 2006-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00141/2-million-state-home-in-auckland.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/06/2-million-state-home-in-auckland/index.html
+layout: layout.njk
 ---
 $2 million state home in Auckland
 =================================

@@ -1,8 +1,12 @@
 ---
 slug: app-makes-low-salt-and-gluten-free-shopping-easy
-title: "App makes low salt and gluten-free shopping easy"
-date: 2016-03-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/app-makes-low-salt-and-gluten-free-shopping-easy.html
+title: App makes low salt and gluten-free shopping easy
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/app-makes-low-salt-and-gluten-free-shopping-easy.html
+permalink: >-
+  /archive/2016/03/03/app-makes-low-salt-and-gluten-free-shopping-easy/index.html
+layout: layout.njk
 ---
 App makes low salt and gluten-free shopping easy
 ================================================

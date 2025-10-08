@@ -1,9 +1,13 @@
 ---
 slug: paul-foster-bell-selected-as-wellington-central-candidate
-title: "Paul Foster-Bell selected as Wellington Central Candidate"
-date: 2011-04-21
-source-url: https://www.scoop.co.nz/stories/PO1104/S00276/paul-foster-bell-selected-as-wellington-central-candidate.htm
+title: Paul Foster-Bell selected as Wellington Central Candidate
+date: 2011-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00276/paul-foster-bell-selected-as-wellington-central-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/04/21/paul-foster-bell-selected-as-wellington-central-candidate/index.html
+layout: layout.njk
 ---
 Paul Foster-Bell selected as Wellington Central Candidate
 =========================================================

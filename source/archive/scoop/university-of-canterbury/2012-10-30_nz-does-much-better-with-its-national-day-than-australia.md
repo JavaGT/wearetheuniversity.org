@@ -1,9 +1,13 @@
 ---
 slug: nz-does-much-better-with-its-national-day-than-australia
-title: "NZ Does Much Better With Its National Day Than Australia"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/ED1210/S00172/nz-does-much-better-with-its-national-day-than-australia.htm
+title: NZ Does Much Better With Its National Day Than Australia
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00172/nz-does-much-better-with-its-national-day-than-australia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/30/nz-does-much-better-with-its-national-day-than-australia/index.html
+layout: layout.njk
 ---
 NZ Does Much Better With Its National Day Than Australia
 ========================================================

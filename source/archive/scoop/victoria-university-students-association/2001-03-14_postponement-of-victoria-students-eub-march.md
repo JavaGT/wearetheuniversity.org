@@ -1,9 +1,12 @@
 ---
 slug: postponement-of-victoria-students-eub-march
-title: "Postponement Of Victoria  Students’ EUB March"
-date: 2001-03-14
-source-url: https://www.scoop.co.nz/stories/ED0103/S00027/postponement-of-victoria-students-eub-march.htm
+title: Postponement Of Victoria  Students’ EUB March
+date: 2001-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00027/postponement-of-victoria-students-eub-march.htm
 author: victoria-university-students-association
+permalink: /archive/2001/03/14/postponement-of-victoria-students-eub-march/index.html
+layout: layout.njk
 ---
 Postponement Of Victoria Students’ EUB March
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: why-you-shouldnt-cut-marketing-during-a-recession
-title: "Why you shouldn’t cut marketing during a recession"
-date: 2012-03-14
-source-url: https://www.scoop.co.nz/stories/PO1203/S00174/why-you-shouldnt-cut-marketing-during-a-recession.htm
+title: Why you shouldn’t cut marketing during a recession
+date: 2012-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00174/why-you-shouldnt-cut-marketing-during-a-recession.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/14/why-you-shouldnt-cut-marketing-during-a-recession/index.html
+layout: layout.njk
 ---
 Why you shouldn’t cut marketing during a recession
 ==================================================

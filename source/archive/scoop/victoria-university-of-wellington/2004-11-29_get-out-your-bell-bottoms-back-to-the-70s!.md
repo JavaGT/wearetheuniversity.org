@@ -1,9 +1,12 @@
 ---
 slug: get-out-your-bell-bottoms-back-to-the-70s!
-title: "Get out your bell bottoms – back to the 70s!"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/ED0411/S00090/get-out-your-bell-bottoms-back-to-the-70s.htm
+title: Get out your bell bottoms – back to the 70s!
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00090/get-out-your-bell-bottoms-back-to-the-70s.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/29/get-out-your-bell-bottoms-back-to-the-70s/index.html
+layout: layout.njk
 ---
 Get out your bell bottoms – back to the 70s!
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: politician-of-the-year-more-like-financial-jester
-title: "Politician of the Year – More Like Financial Jester"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/PA1312/S00039/politician-of-the-year-more-like-financial-jester.htm
+title: Politician of the Year – More Like Financial Jester
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00039/politician-of-the-year-more-like-financial-jester.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/12/03/politician-of-the-year-more-like-financial-jester/index.html
+layout: layout.njk
 ---
 Politician of the Year – More Like Financial Jester
 ===================================================

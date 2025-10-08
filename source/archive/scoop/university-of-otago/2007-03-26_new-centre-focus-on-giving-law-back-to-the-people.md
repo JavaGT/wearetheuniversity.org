@@ -1,9 +1,13 @@
 ---
 slug: new-centre-focus-on-giving-law-back-to-the-people
-title: "New centre focus on giving law back to the people"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/ED0703/S00090/new-centre-focus-on-giving-law-back-to-the-people.htm
+title: New centre focus on giving law back to the people
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00090/new-centre-focus-on-giving-law-back-to-the-people.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/03/26/new-centre-focus-on-giving-law-back-to-the-people/index.html
+layout: layout.njk
 ---
 New centre focus on giving law back to the people
 =================================================

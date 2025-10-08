@@ -1,9 +1,12 @@
 ---
 slug: zooper-news-for-highlanders-fans
-title: "‘Zooper’ news for Highlanders fans"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/AK1410/S00697/zooper-news-for-highlanders-fans.htm
+title: ‘Zooper’ news for Highlanders fans
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1410/S00697/zooper-news-for-highlanders-fans.htm
 author: ousa
+permalink: /archive/2014/10/28/zooper-news-for-highlanders-fans/index.html
+layout: layout.njk
 ---
 ‘Zooper’ news for Highlanders fans
 ==================================

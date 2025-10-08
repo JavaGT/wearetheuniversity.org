@@ -1,9 +1,13 @@
 ---
 slug: its-time-for-new-zealand-to-talk-about-leadership
-title: "It's time for New Zealand to talk about leadership"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/BU0607/S00261/its-time-for-new-zealand-to-talk-about-leadership.htm
+title: It's time for New Zealand to talk about leadership
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0607/S00261/its-time-for-new-zealand-to-talk-about-leadership.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/07/17/its-time-for-new-zealand-to-talk-about-leadership/index.html
+layout: layout.njk
 ---
 It's time for New Zealand to talk about leadership
 ==================================================

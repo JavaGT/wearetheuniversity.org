@@ -1,9 +1,13 @@
 ---
 slug: scholarship-programme-supports-maori-mental-health
-title: "Scholarship programme supports Maori mental health"
-date: 2008-12-09
-source-url: https://www.scoop.co.nz/stories/ED0812/S00030/scholarship-programme-supports-maori-mental-health.htm
+title: Scholarship programme supports Maori mental health
+date: 2008-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00030/scholarship-programme-supports-maori-mental-health.htm
 author: massey-university
+permalink: >-
+  /archive/2008/12/09/scholarship-programme-supports-maori-mental-health/index.html
+layout: layout.njk
 ---
 Scholarship programme supports Maori mental health
 ==================================================

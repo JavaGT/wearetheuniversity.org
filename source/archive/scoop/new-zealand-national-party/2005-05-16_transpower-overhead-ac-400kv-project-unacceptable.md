@@ -1,9 +1,13 @@
 ---
 slug: transpower-overhead-ac-400kv-project-unacceptable
-title: "Transpower overhead AC 400kV project unacceptable"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/PA0505/S00345/transpower-overhead-ac-400kv-project-unacceptable.htm
+title: Transpower overhead AC 400kV project unacceptable
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00345/transpower-overhead-ac-400kv-project-unacceptable.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/05/16/transpower-overhead-ac-400kv-project-unacceptable/index.html
+layout: layout.njk
 ---
 Transpower overhead AC 400kV project unacceptable
 =================================================

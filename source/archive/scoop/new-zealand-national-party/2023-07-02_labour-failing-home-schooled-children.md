@@ -1,9 +1,12 @@
 ---
 slug: labour-failing-home-schooled-children
-title: "Labour Failing Home Schooled Children"
-date: 2023-07-02
-source-url: https://www.scoop.co.nz/stories/PA2307/S00006/labour-failing-home-schooled-children.htm
+title: Labour Failing Home Schooled Children
+date: 2023-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00006/labour-failing-home-schooled-children.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/02/labour-failing-home-schooled-children/index.html
+layout: layout.njk
 ---
 Labour Failing Home Schooled Children
 =====================================

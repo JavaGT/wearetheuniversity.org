@@ -1,9 +1,13 @@
 ---
 slug: loss-of-coromandel-rescue-helicopter-a-cruel-blow
-title: "Loss of Coromandel rescue helicopter a cruel blow"
-date: 2019-12-28
-source-url: https://www.scoop.co.nz/stories/PA1912/S00213/loss-of-coromandel-rescue-helicopter-a-cruel-blow.htm
+title: Loss of Coromandel rescue helicopter a cruel blow
+date: 2019-12-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00213/loss-of-coromandel-rescue-helicopter-a-cruel-blow.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/28/loss-of-coromandel-rescue-helicopter-a-cruel-blow/index.html
+layout: layout.njk
 ---
 Loss of Coromandel rescue helicopter a cruel blow
 =================================================

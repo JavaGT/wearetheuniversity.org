@@ -1,9 +1,13 @@
 ---
 slug: science-and-innovation-needed-to-address-food-crisis
-title: "Science and innovation needed to address food crisis"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00025/science-and-innovation-needed-to-address-food-crisis.htm
+title: Science and innovation needed to address food crisis
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00025/science-and-innovation-needed-to-address-food-crisis.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/05/science-and-innovation-needed-to-address-food-crisis/index.html
+layout: layout.njk
 ---
 Science and innovation needed to address food crisis
 ====================================================

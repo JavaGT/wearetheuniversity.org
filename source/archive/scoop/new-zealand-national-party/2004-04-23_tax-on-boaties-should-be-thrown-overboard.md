@@ -1,9 +1,12 @@
 ---
 slug: tax-on-boaties-should-be-thrown-overboard
-title: "Tax on boaties should be thrown overboard"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/PA0404/S00368/tax-on-boaties-should-be-thrown-overboard.htm
+title: Tax on boaties should be thrown overboard
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00368/tax-on-boaties-should-be-thrown-overboard.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/23/tax-on-boaties-should-be-thrown-overboard/index.html
+layout: layout.njk
 ---
 Tax on boaties should be thrown overboard
 =========================================

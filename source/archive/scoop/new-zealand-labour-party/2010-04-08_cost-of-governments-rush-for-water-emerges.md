@@ -1,9 +1,12 @@
 ---
 slug: cost-of-governments-rush-for-water-emerges
-title: "Cost of Government’s rush for water emerges"
-date: 2010-04-08
-source-url: https://www.scoop.co.nz/stories/PA1004/S00078/cost-of-governments-rush-for-water-emerges.htm
+title: Cost of Government’s rush for water emerges
+date: 2010-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00078/cost-of-governments-rush-for-water-emerges.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/08/cost-of-governments-rush-for-water-emerges/index.html
+layout: layout.njk
 ---
 Cost of Government’s rush for water emerges
 ===========================================

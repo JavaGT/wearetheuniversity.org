@@ -1,9 +1,13 @@
 ---
 slug: landscape-students-to-showcase-their-design-work
-title: "Landscape students to showcase their design work"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/CU1210/S00414/landscape-students-to-showcase-their-design-work.htm
+title: Landscape students to showcase their design work
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00414/landscape-students-to-showcase-their-design-work.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/23/landscape-students-to-showcase-their-design-work/index.html
+layout: layout.njk
 ---
 Landscape students to showcase their design work
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: whoops!-we-forgot-to-mention-that-bit
-title: "Whoops! We Forgot To Mention That Bit"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00643/whoops-we-forgot-to-mention-that-bit.htm
+title: Whoops! We Forgot To Mention That Bit
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00643/whoops-we-forgot-to-mention-that-bit.htm
 author: new-zealand-national-party
+permalink: /archive/1999/09/30/whoops/index.html
+layout: layout.njk
 ---
 Whoops! We Forgot To Mention That Bit
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: opera-staged-for-the-first-time-in-christchurch
-title: "Opera staged for the first time in Christchurch"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/CU0608/S00108/opera-staged-for-the-first-time-in-christchurch.htm
+title: Opera staged for the first time in Christchurch
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00108/opera-staged-for-the-first-time-in-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2006/08/10/opera-staged-for-the-first-time-in-christchurch/index.html
+layout: layout.njk
 ---
 Opera staged for the first time in Christchurch
 ===============================================

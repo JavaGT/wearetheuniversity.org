@@ -1,9 +1,12 @@
 ---
 slug: speech-hipkins-working-with-others
-title: "SPEECH: Hipkins - Working With Others"
-date: 2023-08-27
-source-url: https://www.scoop.co.nz/stories/PO2308/S00252/speech-hipkins-working-with-others.htm
+title: 'SPEECH: Hipkins - Working With Others'
+date: 2023-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00252/speech-hipkins-working-with-others.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/08/27/speech-hipkins-working-with-others/index.html
+layout: layout.njk
 ---
 SPEECH: Hipkins - Working With Others
 =====================================

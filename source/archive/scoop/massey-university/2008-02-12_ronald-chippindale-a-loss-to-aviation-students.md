@@ -1,9 +1,12 @@
 ---
 slug: ronald-chippindale-a-loss-to-aviation-students
-title: "Ronald Chippindale a loss to aviation students"
-date: 2008-02-12
-source-url: https://www.scoop.co.nz/stories/ED0802/S00022/ronald-chippindale-a-loss-to-aviation-students.htm
+title: Ronald Chippindale a loss to aviation students
+date: 2008-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00022/ronald-chippindale-a-loss-to-aviation-students.htm
 author: massey-university
+permalink: /archive/2008/02/12/ronald-chippindale-a-loss-to-aviation-students/index.html
+layout: layout.njk
 ---
 Ronald Chippindale a loss to aviation students
 ==============================================

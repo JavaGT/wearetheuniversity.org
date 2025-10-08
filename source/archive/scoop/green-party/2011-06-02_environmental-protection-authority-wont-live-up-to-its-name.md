@@ -1,9 +1,13 @@
 ---
 slug: environmental-protection-authority-wont-live-up-to-its-name
-title: "Environmental Protection Authority won’t live up to its name"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/PA1106/S00043/environmental-protection-authority-wont-live-up-to-its-name.htm
+title: Environmental Protection Authority won’t live up to its name
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00043/environmental-protection-authority-wont-live-up-to-its-name.htm
 author: green-party
+permalink: >-
+  /archive/2011/06/02/environmental-protection-authority-wont-live-up-to-its-name/index.html
+layout: layout.njk
 ---
 Environmental Protection Authority won’t live up to its name
 ============================================================

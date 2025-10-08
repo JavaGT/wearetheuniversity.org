@@ -1,9 +1,13 @@
 ---
 slug: greens-join-animal-welfare-groups-opposing-cruel-hen-cages
-title: "Greens join animal welfare groups opposing cruel hen cages"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/PA1110/S00025/greens-join-animal-welfare-groups-opposing-cruel-hen-cages.htm
+title: Greens join animal welfare groups opposing cruel hen cages
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00025/greens-join-animal-welfare-groups-opposing-cruel-hen-cages.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/03/greens-join-animal-welfare-groups-opposing-cruel-hen-cages/index.html
+layout: layout.njk
 ---
 Greens join animal welfare groups opposing cruel hen cages
 ==========================================================

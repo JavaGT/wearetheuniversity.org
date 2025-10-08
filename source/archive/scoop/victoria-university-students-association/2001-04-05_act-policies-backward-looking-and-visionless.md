@@ -1,9 +1,12 @@
 ---
 slug: act-policies-backward-looking-and-visionless
-title: "ACT Policies Backward Looking And Visionless"
-date: 2001-04-05
-source-url: https://www.scoop.co.nz/stories/ED0104/S00002/act-policies-backward-looking-and-visionless.htm
+title: ACT Policies Backward Looking And Visionless
+date: 2001-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00002/act-policies-backward-looking-and-visionless.htm
 author: victoria-university-students-association
+permalink: /archive/2001/04/05/act-policies-backward-looking-and-visionless/index.html
+layout: layout.njk
 ---
 ACT Policies Backward Looking And Visionless
 ============================================

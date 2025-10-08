@@ -1,9 +1,13 @@
 ---
 slug: luxon-risks-burning-down-five-years-of-climate-progress
-title: "Luxon Risks Burning Down Five Years Of Climate Progress"
-date: 2022-11-03
-source-url: https://www.scoop.co.nz/stories/PA2211/S00028/luxon-risks-burning-down-five-years-of-climate-progress.htm
+title: Luxon Risks Burning Down Five Years Of Climate Progress
+date: 2022-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00028/luxon-risks-burning-down-five-years-of-climate-progress.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/03/luxon-risks-burning-down-five-years-of-climate-progress/index.html
+layout: layout.njk
 ---
 Luxon Risks Burning Down Five Years Of Climate Progress
 =======================================================

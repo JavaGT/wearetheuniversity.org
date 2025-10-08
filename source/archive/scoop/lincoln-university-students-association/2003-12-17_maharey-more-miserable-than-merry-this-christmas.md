@@ -1,9 +1,13 @@
 ---
 slug: maharey-more-miserable-than-merry-this-christmas
-title: "Maharey more miserable than merry this Christmas"
-date: 2003-12-17
-source-url: https://www.scoop.co.nz/stories/ED0312/S00066/maharey-more-miserable-than-merry-this-christmas.htm
+title: Maharey more miserable than merry this Christmas
+date: 2003-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00066/maharey-more-miserable-than-merry-this-christmas.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2003/12/17/maharey-more-miserable-than-merry-this-christmas/index.html
+layout: layout.njk
 ---
 Maharey more miserable than merry this Christmas
 ================================================

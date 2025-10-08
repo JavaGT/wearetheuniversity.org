@@ -1,9 +1,12 @@
 ---
 slug: common-sense-needed-in-mental-health-staffing
-title: "Common sense needed in mental health staffing"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/PA0609/S00577/common-sense-needed-in-mental-health-staffing.htm
+title: Common sense needed in mental health staffing
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00577/common-sense-needed-in-mental-health-staffing.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/27/common-sense-needed-in-mental-health-staffing/index.html
+layout: layout.njk
 ---
 Common sense needed in mental health staffing
 =============================================

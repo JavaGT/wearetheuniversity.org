@@ -1,9 +1,13 @@
 ---
 slug: hpv-vaccination-for-school-boys-not-yet-cost-effective
-title: "HPV vaccination for school boys not yet cost-effective"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/GE1407/S00050/hpv-vaccination-for-school-boys-not-yet-cost-effective.htm
+title: HPV vaccination for school boys not yet cost-effective
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00050/hpv-vaccination-for-school-boys-not-yet-cost-effective.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/14/hpv-vaccination-for-school-boys-not-yet-cost-effective/index.html
+layout: layout.njk
 ---
 HPV vaccination for school boys not yet cost-effective
 ======================================================

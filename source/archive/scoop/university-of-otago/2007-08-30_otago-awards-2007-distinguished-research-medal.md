@@ -1,9 +1,12 @@
 ---
 slug: otago-awards-2007-distinguished-research-medal
-title: "Otago awards 2007 Distinguished Research Medal"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/SC0708/S00071/otago-awards-2007-distinguished-research-medal.htm
+title: Otago awards 2007 Distinguished Research Medal
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0708/S00071/otago-awards-2007-distinguished-research-medal.htm
 author: university-of-otago
+permalink: /archive/2007/08/30/otago-awards-2007-distinguished-research-medal/index.html
+layout: layout.njk
 ---
 Otago awards 2007 Distinguished Research Medal
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: jazz-improvisation-classes-for-teachers
-title: "Jazz improvisation classes for teachers"
-date: 2002-07-04
-source-url: https://www.scoop.co.nz/stories/ED0207/S00006/jazz-improvisation-classes-for-teachers.htm
+title: Jazz improvisation classes for teachers
+date: 2002-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00006/jazz-improvisation-classes-for-teachers.htm
 author: auckland-university
+permalink: /archive/2002/07/04/jazz-improvisation-classes-for-teachers/index.html
+layout: layout.njk
 ---
 Jazz improvisation classes for teachers
 =======================================

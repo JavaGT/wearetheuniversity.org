@@ -1,9 +1,12 @@
 ---
 slug: new-funding-framework-must-bring-fees-down
-title: "New Funding Framework Must Bring Fees Down"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00043/new-funding-framework-must-bring-fees-down.htm
+title: New Funding Framework Must Bring Fees Down
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00043/new-funding-framework-must-bring-fees-down.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/23/new-funding-framework-must-bring-fees-down/index.html
+layout: layout.njk
 ---
 New Funding Framework Must Bring Fees Down
 ==========================================

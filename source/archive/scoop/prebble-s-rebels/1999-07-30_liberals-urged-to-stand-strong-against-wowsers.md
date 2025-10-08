@@ -1,9 +1,12 @@
 ---
 slug: liberals-urged-to-stand-strong-against-wowsers
-title: "Liberals Urged to Stand Strong against Wowsers"
-date: 1999-07-30
-source-url: https://www.scoop.co.nz/stories/PO9907/S00086/liberals-urged-to-stand-strong-against-wowsers.htm
+title: Liberals Urged to Stand Strong against Wowsers
+date: 1999-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00086/liberals-urged-to-stand-strong-against-wowsers.htm
 author: prebble-s-rebels
+permalink: /archive/1999/07/30/liberals-urged-to-stand-strong-against-wowsers/index.html
+layout: layout.njk
 ---
 Liberals Urged to Stand Strong against Wowsers
 ==============================================

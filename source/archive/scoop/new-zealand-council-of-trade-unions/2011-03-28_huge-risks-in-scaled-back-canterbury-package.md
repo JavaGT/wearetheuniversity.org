@@ -1,9 +1,12 @@
 ---
 slug: huge-risks-in-scaled-back-canterbury-package
-title: "Huge Risks in Scaled Back Canterbury Package"
-date: 2011-03-28
-source-url: https://www.scoop.co.nz/stories/PO1103/S00264/huge-risks-in-scaled-back-canterbury-package.htm
+title: Huge Risks in Scaled Back Canterbury Package
+date: 2011-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00264/huge-risks-in-scaled-back-canterbury-package.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/03/28/huge-risks-in-scaled-back-canterbury-package/index.html
+layout: layout.njk
 ---
 Huge Risks in Scaled Back Canterbury Package
 ============================================

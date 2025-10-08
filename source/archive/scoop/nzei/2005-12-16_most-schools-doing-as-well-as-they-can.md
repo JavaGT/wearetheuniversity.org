@@ -1,9 +1,12 @@
 ---
 slug: most-schools-doing-as-well-as-they-can
-title: "Most Schools Doing As Well As They Can"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/ED0512/S00073/most-schools-doing-as-well-as-they-can.htm
+title: Most Schools Doing As Well As They Can
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00073/most-schools-doing-as-well-as-they-can.htm
 author: nzei
+permalink: /archive/2005/12/16/most-schools-doing-as-well-as-they-can/index.html
+layout: layout.njk
 ---
 Most Schools Doing As Well As They Can
 ======================================

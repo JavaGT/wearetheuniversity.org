@@ -1,11 +1,14 @@
 ---
 title: Students in Auckland plan rally
 slug: students-in-auckland-plan-rally
-date: 2011-09-26
-source: https://web.archive.org/web/20130208031033/http://wearetheuniversity.org.nz/press-releases/press-release-26th-september-2011/
+date: 2011-09-26T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031033/http://wearetheuniversity.org.nz/press-releases/press-release-26th-september-2011/
 source-name: wearetheuniversity.org.nz (archived)
 author: We Are The University
 author-slug: we-are-the-university
+permalink: /archive/2011/09/26/students-in-auckland-plan-rally/index.html
+layout: layout.njk
 ---
 
 **26th<sup>nd</sup> September 2011**

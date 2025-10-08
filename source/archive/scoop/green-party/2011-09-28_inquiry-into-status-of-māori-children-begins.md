@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-status-of-māori-children-begins
-title: "Inquiry into status of Māori children begins"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00539/inquiry-into-status-of-maori-children-begins.htm
+title: Inquiry into status of Māori children begins
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00539/inquiry-into-status-of-maori-children-begins.htm
 author: green-party
+permalink: /archive/2011/09/28/inquiry-into-status-of-m/index.html
+layout: layout.njk
 ---
 Inquiry into status of Māori children begins
 ============================================

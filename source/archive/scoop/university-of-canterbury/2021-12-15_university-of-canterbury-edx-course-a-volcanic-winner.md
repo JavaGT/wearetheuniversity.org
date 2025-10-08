@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-edx-course-a-volcanic-winner
-title: "University Of Canterbury EdX Course A Volcanic Winner"
-date: 2021-12-15
-source-url: https://www.scoop.co.nz/stories/ED2112/S00029/university-of-canterbury-edx-course-a-volcanic-winner.htm
+title: University Of Canterbury EdX Course A Volcanic Winner
+date: 2021-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00029/university-of-canterbury-edx-course-a-volcanic-winner.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/12/15/university-of-canterbury-edx-course-a-volcanic-winner/index.html
+layout: layout.njk
 ---
 University Of Canterbury EdX Course A Volcanic Winner
 =====================================================

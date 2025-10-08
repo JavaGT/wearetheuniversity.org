@@ -1,9 +1,12 @@
 ---
 slug: aut-hosts-arthritis-education-series
-title: "AUT hosts Arthritis education series"
-date: 2011-06-08
-source-url: https://www.scoop.co.nz/stories/GE1106/S00034/aut-hosts-arthritis-education-series.htm
+title: AUT hosts Arthritis education series
+date: 2011-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1106/S00034/aut-hosts-arthritis-education-series.htm
 author: aut-university
+permalink: /archive/2011/06/08/aut-hosts-arthritis-education-series/index.html
+layout: layout.njk
 ---
 AUT hosts Arthritis education series
 ====================================

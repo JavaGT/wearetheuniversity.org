@@ -1,9 +1,12 @@
 ---
 slug: come-on-mrs-tolley-moderation-or-not
-title: "Come on Mrs Tolley – moderation or not?"
-date: 2010-03-30
-source-url: https://www.scoop.co.nz/stories/PA1003/S00477/come-on-mrs-tolley-moderation-or-not.htm
+title: Come on Mrs Tolley – moderation or not?
+date: 2010-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00477/come-on-mrs-tolley-moderation-or-not.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/30/come-on-mrs-tolley-moderation-or-not/index.html
+layout: layout.njk
 ---
 Come on Mrs Tolley – moderation or not?
 =======================================

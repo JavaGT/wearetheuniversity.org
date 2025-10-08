@@ -1,9 +1,12 @@
 ---
 slug: minister-throws-good-money-after-bad
-title: "Minister throws good money after bad"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/PO1507/S00227/minister-throws-good-money-after-bad.htm
+title: Minister throws good money after bad
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00227/minister-throws-good-money-after-bad.htm
 author: nzei
+permalink: /archive/2015/07/24/minister-throws-good-money-after-bad/index.html
+layout: layout.njk
 ---
 Minister throws good money after bad
 ====================================

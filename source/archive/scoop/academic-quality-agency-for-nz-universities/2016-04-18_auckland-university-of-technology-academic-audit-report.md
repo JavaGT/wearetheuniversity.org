@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-of-technology-academic-audit-report
-title: "Auckland University of Technology academic audit report"
-date: 2016-04-18
-source-url: https://www.scoop.co.nz/stories/ED1604/S00061/auckland-university-of-technology-academic-audit-report.htm
+title: Auckland University of Technology academic audit report
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00061/auckland-university-of-technology-academic-audit-report.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2016/04/18/auckland-university-of-technology-academic-audit-report/index.html
+layout: layout.njk
 ---
 Auckland University of Technology academic audit report
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-meeting-on-leaky-homes
-title: "Wellington meeting on leaky homes"
-date: 2002-09-30
-source-url: https://www.scoop.co.nz/stories/PA0209/S00483/wellington-meeting-on-leaky-homes.htm
+title: Wellington meeting on leaky homes
+date: 2002-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00483/wellington-meeting-on-leaky-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/30/wellington-meeting-on-leaky-homes/index.html
+layout: layout.njk
 ---
 Wellington meeting on leaky homes
 =================================

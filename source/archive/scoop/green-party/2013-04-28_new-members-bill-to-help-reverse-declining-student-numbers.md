@@ -1,9 +1,13 @@
 ---
 slug: new-members-bill-to-help-reverse-declining-student-numbers
-title: "New Member’s Bill to help reverse declining student numbers"
-date: 2013-04-28
-source-url: https://www.scoop.co.nz/stories/PA1304/S00522/new-members-bill-to-help-reverse-declining-student-numbers.htm
+title: New Member’s Bill to help reverse declining student numbers
+date: 2013-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00522/new-members-bill-to-help-reverse-declining-student-numbers.htm
 author: green-party
+permalink: >-
+  /archive/2013/04/28/new-members-bill-to-help-reverse-declining-student-numbers/index.html
+layout: layout.njk
 ---
 New Member’s Bill to help reverse declining student numbers
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: poetry-reading-by-international-poet-karen-solie
-title: "Poetry reading by international poet Karen Solie"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/CU1303/S00100/poetry-reading-by-international-poet-karen-solie.htm
+title: Poetry reading by international poet Karen Solie
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00100/poetry-reading-by-international-poet-karen-solie.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/05/poetry-reading-by-international-poet-karen-solie/index.html
+layout: layout.njk
 ---
 Poetry reading by international poet Karen Solie
 ================================================

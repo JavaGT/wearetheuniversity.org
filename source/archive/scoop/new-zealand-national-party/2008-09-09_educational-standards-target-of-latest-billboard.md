@@ -1,9 +1,13 @@
 ---
 slug: educational-standards-target-of-latest-billboard
-title: "Educational standards target of latest billboard"
-date: 2008-09-09
-source-url: https://www.scoop.co.nz/stories/PA0809/S00194/educational-standards-target-of-latest-billboard.htm
+title: Educational standards target of latest billboard
+date: 2008-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00194/educational-standards-target-of-latest-billboard.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/09/09/educational-standards-target-of-latest-billboard/index.html
+layout: layout.njk
 ---
 Educational standards target of latest billboard
 ================================================

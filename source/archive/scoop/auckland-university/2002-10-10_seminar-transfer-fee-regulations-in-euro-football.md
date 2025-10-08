@@ -1,9 +1,13 @@
 ---
 slug: seminar-transfer-fee-regulations-in-euro-football
-title: "Seminar: Transfer Fee Regulations In Euro Football"
-date: 2002-10-10
-source-url: https://www.scoop.co.nz/stories/ED0210/S00030/seminar-transfer-fee-regulations-in-euro-football.htm
+title: 'Seminar: Transfer Fee Regulations In Euro Football'
+date: 2002-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00030/seminar-transfer-fee-regulations-in-euro-football.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/10/10/seminar-transfer-fee-regulations-in-euro-football/index.html
+layout: layout.njk
 ---
 Seminar: Transfer Fee Regulations In Euro Football
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: volunteers-sought-for-cultural-identity-study
-title: "Volunteers sought for cultural identity study"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00008/volunteers-sought-for-cultural-identity-study.htm
+title: Volunteers sought for cultural identity study
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00008/volunteers-sought-for-cultural-identity-study.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/04/volunteers-sought-for-cultural-identity-study/index.html
+layout: layout.njk
 ---
 Volunteers sought for cultural identity study
 =============================================

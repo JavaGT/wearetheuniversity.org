@@ -1,9 +1,12 @@
 ---
 slug: flavell-dog-control-amendment-bill
-title: "Flavell: Dog Control Amendment Bill"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00294/flavell-dog-control-amendment-bill.htm
+title: 'Flavell: Dog Control Amendment Bill'
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00294/flavell-dog-control-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/13/flavell-dog-control-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Dog Control Amendment Bill
 ===================================

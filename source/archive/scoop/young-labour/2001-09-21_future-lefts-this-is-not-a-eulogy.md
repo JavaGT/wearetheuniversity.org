@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-this-is-not-a-eulogy
-title: "Future Lefts - This is not a Eulogy"
-date: 2001-09-21
-source-url: https://www.scoop.co.nz/stories/PO0109/S00076/future-lefts-this-is-not-a-eulogy.htm
+title: Future Lefts - This is not a Eulogy
+date: 2001-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0109/S00076/future-lefts-this-is-not-a-eulogy.htm
 author: young-labour
+permalink: /archive/2001/09/21/future-lefts-this-is-not-a-eulogy/index.html
+layout: layout.njk
 ---
 Future Lefts - This is not a Eulogy
 ===================================

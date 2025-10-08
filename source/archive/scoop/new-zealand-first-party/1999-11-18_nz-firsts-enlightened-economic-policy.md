@@ -1,9 +1,12 @@
 ---
 slug: nz-firsts-enlightened-economic-policy
-title: "NZ First’s Enlightened Economic Policy"
-date: 1999-11-18
-source-url: https://www.scoop.co.nz/stories/PA9911/S00435/nz-firsts-enlightened-economic-policy.htm
+title: NZ First’s Enlightened Economic Policy
+date: 1999-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00435/nz-firsts-enlightened-economic-policy.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/18/nz-firsts-enlightened-economic-policy/index.html
+layout: layout.njk
 ---
 NZ First’s Enlightened Economic Policy
 ======================================

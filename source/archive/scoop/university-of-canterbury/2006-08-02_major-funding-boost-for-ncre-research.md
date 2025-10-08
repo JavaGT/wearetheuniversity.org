@@ -1,9 +1,12 @@
 ---
 slug: major-funding-boost-for-ncre-research
-title: "Major funding boost for NCRE research"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/ED0608/S00010/major-funding-boost-for-ncre-research.htm
+title: Major funding boost for NCRE research
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00010/major-funding-boost-for-ncre-research.htm
 author: university-of-canterbury
+permalink: /archive/2006/08/02/major-funding-boost-for-ncre-research/index.html
+layout: layout.njk
 ---
 Major funding boost for NCRE research
 =====================================

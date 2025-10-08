@@ -1,9 +1,12 @@
 ---
 slug: key-must-apologise-to-the-jon-stephenson
-title: "Key must apologise to the Jon Stephenson"
-date: 2016-03-01
-source-url: https://www.scoop.co.nz/stories/PA1603/S00004/key-must-apologise-to-the-jon-stephenson.htm
+title: Key must apologise to the Jon Stephenson
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00004/key-must-apologise-to-the-jon-stephenson.htm
 author: green-party
+permalink: /archive/2016/03/01/key-must-apologise-to-the-jon-stephenson/index.html
+layout: layout.njk
 ---
 Key must apologise to the Jon Stephenson
 ========================================

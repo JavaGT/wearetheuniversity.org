@@ -1,9 +1,16 @@
 ---
-slug: marsden-funds-to-help-tackle-challenges-from-climate-change-to-teaching-our-history
-title: "Marsden Funds To Help Tackle Challenges From Climate Change To Teaching Our History"
-date: 2021-11-03
-source-url: https://www.scoop.co.nz/stories/ED2111/S00008/marsden-funds-to-help-tackle-challenges-from-climate-change-to-teaching-our-history.htm
+slug: >-
+  marsden-funds-to-help-tackle-challenges-from-climate-change-to-teaching-our-history
+title: >-
+  Marsden Funds To Help Tackle Challenges From Climate Change To Teaching Our
+  History
+date: 2021-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00008/marsden-funds-to-help-tackle-challenges-from-climate-change-to-teaching-our-history.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/11/03/marsden-funds-to-help-tackle-challenges-from-climate-change-to-teaching-our-history/index.html
+layout: layout.njk
 ---
 Marsden Funds To Help Tackle Challenges From Climate Change To Teaching Our History
 ===================================================================================

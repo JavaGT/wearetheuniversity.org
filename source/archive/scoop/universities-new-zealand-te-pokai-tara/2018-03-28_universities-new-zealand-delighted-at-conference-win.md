@@ -1,9 +1,13 @@
 ---
 slug: universities-new-zealand-delighted-at-conference-win
-title: "Universities New Zealand delighted at conference win"
-date: 2018-03-28
-source-url: https://www.scoop.co.nz/stories/ED1803/S00087/universities-new-zealand-delighted-at-conference-win.htm
+title: Universities New Zealand delighted at conference win
+date: 2018-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00087/universities-new-zealand-delighted-at-conference-win.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/03/28/universities-new-zealand-delighted-at-conference-win/index.html
+layout: layout.njk
 ---
 Universities New Zealand delighted at conference win
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: petrel-protection-plan-part-of-project
-title: "Petrel protection plan part of project"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/AK1410/S00817/petrel-protection-plan-part-of-project.htm
+title: Petrel protection plan part of project
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1410/S00817/petrel-protection-plan-part-of-project.htm
 author: lincoln-university
+permalink: /archive/2014/10/31/petrel-protection-plan-part-of-project/index.html
+layout: layout.njk
 ---
 Petrel protection plan part of project
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: free-speech-coalition-will-defend-free-speech-rights
-title: "Free Speech Coalition will defend free speech rights"
-date: 2019-03-31
-source-url: https://www.scoop.co.nz/stories/PO1903/S00321/free-speech-coalition-will-defend-free-speech-rights.htm
+title: Free Speech Coalition will defend free speech rights
+date: 2019-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00321/free-speech-coalition-will-defend-free-speech-rights.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2019/03/31/free-speech-coalition-will-defend-free-speech-rights/index.html
+layout: layout.njk
 ---
 Free Speech Coalition will defend free speech rights
 ====================================================

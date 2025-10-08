@@ -1,9 +1,16 @@
 ---
-slug: usp-vice-chancellor-and-president-professor-pal-ahluwalia-a-champion-for-good-governance
-title: "USP Vice-Chancellor And President Professor Pal Ahluwalia - A Champion For Good Governance"
-date: 2021-08-09
-source-url: https://www.scoop.co.nz/stories/WO2108/S00073/usp-vice-chancellor-and-president-professor-pal-ahluwalia-a-champion-for-good-governance.htm
+slug: >-
+  usp-vice-chancellor-and-president-professor-pal-ahluwalia-a-champion-for-good-governance
+title: >-
+  USP Vice-Chancellor And President Professor Pal Ahluwalia - A Champion For
+  Good Governance
+date: 2021-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2108/S00073/usp-vice-chancellor-and-president-professor-pal-ahluwalia-a-champion-for-good-governance.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2021/08/09/usp-vice-chancellor-and-president-professor-pal-ahluwalia-a-champion-for-good-governance/index.html
+layout: layout.njk
 ---
 USP Vice-Chancellor And President Professor Pal Ahluwalia - A Champion For Good Governance
 ==========================================================================================

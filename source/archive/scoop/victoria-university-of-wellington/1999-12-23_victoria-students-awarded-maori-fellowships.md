@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-awarded-maori-fellowships
-title: "Victoria students awarded Maori Fellowships"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/ED9912/S00014/victoria-students-awarded-maori-fellowships.htm
+title: Victoria students awarded Maori Fellowships
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00014/victoria-students-awarded-maori-fellowships.htm
 author: victoria-university-of-wellington
+permalink: /archive/1999/12/23/victoria-students-awarded-maori-fellowships/index.html
+layout: layout.njk
 ---
 Victoria students awarded Maori Fellowships
 ===========================================

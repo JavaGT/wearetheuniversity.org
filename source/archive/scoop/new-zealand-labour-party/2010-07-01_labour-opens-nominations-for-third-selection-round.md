@@ -1,9 +1,13 @@
 ---
 slug: labour-opens-nominations-for-third-selection-round
-title: "Labour opens nominations for third selection round"
-date: 2010-07-01
-source-url: https://www.scoop.co.nz/stories/PO1007/S00015/labour-opens-nominations-for-third-selection-round.htm
+title: Labour opens nominations for third selection round
+date: 2010-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1007/S00015/labour-opens-nominations-for-third-selection-round.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/01/labour-opens-nominations-for-third-selection-round/index.html
+layout: layout.njk
 ---
 Labour opens nominations for third selection round
 ==================================================

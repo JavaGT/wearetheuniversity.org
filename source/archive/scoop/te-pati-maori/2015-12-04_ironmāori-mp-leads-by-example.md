@@ -1,9 +1,12 @@
 ---
 slug: ironmāori-mp-leads-by-example
-title: "IronMāori MP leads by example"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/PA1512/S00125/ironmaori-mp-leads-by-example.htm
+title: IronMāori MP leads by example
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00125/ironmaori-mp-leads-by-example.htm
 author: te-pati-maori
+permalink: /archive/2015/12/04/ironm/index.html
+layout: layout.njk
 ---
 IronMāori MP leads by example
 =============================

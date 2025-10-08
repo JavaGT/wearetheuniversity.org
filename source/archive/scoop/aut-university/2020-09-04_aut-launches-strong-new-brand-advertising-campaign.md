@@ -1,9 +1,13 @@
 ---
 slug: aut-launches-strong-new-brand-advertising-campaign
-title: "AUT Launches Strong New Brand Advertising Campaign"
-date: 2020-09-04
-source-url: https://www.scoop.co.nz/stories/ED2009/S00005/aut-launches-strong-new-brand-advertising-campaign.htm
+title: AUT Launches Strong New Brand Advertising Campaign
+date: 2020-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00005/aut-launches-strong-new-brand-advertising-campaign.htm
 author: aut-university
+permalink: >-
+  /archive/2020/09/04/aut-launches-strong-new-brand-advertising-campaign/index.html
+layout: layout.njk
 ---
 AUT Launches Strong New Brand Advertising Campaign
 ==================================================

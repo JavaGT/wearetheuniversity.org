@@ -1,9 +1,12 @@
 ---
 slug: top-ecologist-named-new-dean-at-waikato
-title: "Top ecologist named new dean at Waikato"
-date: 2010-07-12
-source-url: https://www.scoop.co.nz/stories/ED1007/S00040/top-ecologist-named-new-dean-at-waikato.htm
+title: Top ecologist named new dean at Waikato
+date: 2010-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00040/top-ecologist-named-new-dean-at-waikato.htm
 author: waikato-university
+permalink: /archive/2010/07/12/top-ecologist-named-new-dean-at-waikato/index.html
+layout: layout.njk
 ---
 Top ecologist named new dean at Waikato
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: national-told-to-get-real-on-student-debt
-title: "National Told To \"Get  Real\" On Student Debt"
-date: 2001-01-15
-source-url: https://www.scoop.co.nz/stories/ED0101/S00001/national-told-to-get-real-on-student-debt.htm
+title: National Told To "Get  Real" On Student Debt
+date: 2001-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00001/national-told-to-get-real-on-student-debt.htm
 author: otago-university-students-association
+permalink: /archive/2001/01/15/national-told-to-get-real-on-student-debt/index.html
+layout: layout.njk
 ---
 National Told To “Get Real” On Student Debt
 ===========================================

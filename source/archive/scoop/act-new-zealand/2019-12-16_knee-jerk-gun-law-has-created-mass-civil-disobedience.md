@@ -1,9 +1,13 @@
 ---
 slug: knee-jerk-gun-law-has-created-mass-civil-disobedience
-title: "Knee-jerk gun law has created mass civil disobedience"
-date: 2019-12-16
-source-url: https://www.scoop.co.nz/stories/PA1912/S00145/knee-jerk-gun-law-has-created-mass-civil-disobedience.htm
+title: Knee-jerk gun law has created mass civil disobedience
+date: 2019-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00145/knee-jerk-gun-law-has-created-mass-civil-disobedience.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/12/16/knee-jerk-gun-law-has-created-mass-civil-disobedience/index.html
+layout: layout.njk
 ---
 Knee-jerk gun law has created mass civil disobedience
 =====================================================

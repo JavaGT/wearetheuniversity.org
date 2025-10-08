@@ -1,9 +1,12 @@
 ---
 slug: waitangi-day-meaningless-says-academic
-title: "Waitangi Day ‘meaningless’ says academic"
-date: 2006-02-01
-source-url: https://www.scoop.co.nz/stories/ED0602/S00001/waitangi-day-meaningless-says-academic.htm
+title: Waitangi Day ‘meaningless’ says academic
+date: 2006-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00001/waitangi-day-meaningless-says-academic.htm
 author: aut-university
+permalink: /archive/2006/02/01/waitangi-day-meaningless-says-academic/index.html
+layout: layout.njk
 ---
 Waitangi Day ‘meaningless’ says academic
 ========================================

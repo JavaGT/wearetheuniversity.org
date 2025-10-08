@@ -1,9 +1,12 @@
 ---
 slug: nzqa-talking-statistical-nonsense
-title: "NZQA Talking Statistical Nonsense"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/PA0502/S00531/nzqa-talking-statistical-nonsense.htm
+title: NZQA Talking Statistical Nonsense
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00531/nzqa-talking-statistical-nonsense.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/24/nzqa-talking-statistical-nonsense/index.html
+layout: layout.njk
 ---
 NZQA Talking Statistical Nonsense
 =================================

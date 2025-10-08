@@ -1,9 +1,12 @@
 ---
 slug: standards-must-focus-on-students-not-schools
-title: "Standards must focus on students not schools"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/PA0910/S00367/standards-must-focus-on-students-not-schools.htm
+title: Standards must focus on students not schools
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00367/standards-must-focus-on-students-not-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/23/standards-must-focus-on-students-not-schools/index.html
+layout: layout.njk
 ---
 Standards must focus on students not schools
 ============================================

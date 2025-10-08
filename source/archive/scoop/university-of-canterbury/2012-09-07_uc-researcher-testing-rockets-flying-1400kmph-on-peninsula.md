@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-testing-rockets-flying-1400kmph-on-peninsula
-title: "UC researcher testing rockets flying 1400kmph on Peninsula"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/SC1209/S00006/uc-researcher-testing-rockets-flying-1400kmph-on-peninsula.htm
+title: UC researcher testing rockets flying 1400kmph on Peninsula
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00006/uc-researcher-testing-rockets-flying-1400kmph-on-peninsula.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/07/uc-researcher-testing-rockets-flying-1400kmph-on-peninsula/index.html
+layout: layout.njk
 ---
 UC researcher testing rockets flying 1400kmph on Peninsula
 ==========================================================

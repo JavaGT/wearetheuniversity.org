@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcome-extra-funding
-title: "University staff welcome extra funding"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/ED0705/S00047/university-staff-welcome-extra-funding.htm
+title: University staff welcome extra funding
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00047/university-staff-welcome-extra-funding.htm
 author: association-of-university-staff
+permalink: /archive/2007/05/10/university-staff-welcome-extra-funding/index.html
+layout: layout.njk
 ---
 University staff welcome extra funding
 ======================================

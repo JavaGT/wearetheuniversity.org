@@ -1,9 +1,12 @@
 ---
 slug: end-rape-and-violence-on-working-womens-day
-title: "End Rape And Violence On Working Women's Day"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/ED0103/S00013/end-rape-and-violence-on-working-womens-day.htm
+title: End Rape And Violence On Working Women's Day
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00013/end-rape-and-violence-on-working-womens-day.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/07/end-rape-and-violence-on-working-womens-day/index.html
+layout: layout.njk
 ---
 End Rape And Violence On Working Women's Day
 ============================================

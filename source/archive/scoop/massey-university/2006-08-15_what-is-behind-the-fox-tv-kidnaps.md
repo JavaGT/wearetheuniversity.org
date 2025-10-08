@@ -1,9 +1,12 @@
 ---
 slug: what-is-behind-the-fox-tv-kidnaps
-title: "What is behind the Fox TV kidnaps?"
-date: 2006-08-15
-source-url: https://www.scoop.co.nz/stories/ED0608/S00052/what-is-behind-the-fox-tv-kidnaps.htm
+title: What is behind the Fox TV kidnaps?
+date: 2006-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00052/what-is-behind-the-fox-tv-kidnaps.htm
 author: massey-university
+permalink: /archive/2006/08/15/what-is-behind-the-fox-tv-kidnaps/index.html
+layout: layout.njk
 ---
 What is behind the Fox TV kidnaps?
 ==================================

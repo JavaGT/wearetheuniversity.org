@@ -1,9 +1,13 @@
 ---
 slug: child-poverty-casts-long-shadow-on-oral-health-care
-title: "Child poverty casts long shadow on oral health care"
-date: 2018-05-07
-source-url: https://www.scoop.co.nz/stories/GE1805/S00032/child-poverty-casts-long-shadow-on-oral-health-care.htm
+title: Child poverty casts long shadow on oral health care
+date: 2018-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00032/child-poverty-casts-long-shadow-on-oral-health-care.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/07/child-poverty-casts-long-shadow-on-oral-health-care/index.html
+layout: layout.njk
 ---
 Child poverty casts long shadow on oral health care
 ===================================================

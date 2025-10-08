@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-a-campaign-to-fight-for-our-rivers
-title: "Green Party launches a campaign to fight for our rivers"
-date: 2016-06-05
-source-url: https://www.scoop.co.nz/stories/PA1606/S00095/green-party-launches-a-campaign-to-fight-for-our-rivers.htm
+title: Green Party launches a campaign to fight for our rivers
+date: 2016-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00095/green-party-launches-a-campaign-to-fight-for-our-rivers.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/05/green-party-launches-a-campaign-to-fight-for-our-rivers/index.html
+layout: layout.njk
 ---
 Green Party launches a campaign to fight for our rivers
 =======================================================

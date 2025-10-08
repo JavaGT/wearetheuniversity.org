@@ -1,9 +1,13 @@
 ---
 slug: uc-booming-with-students-and-building-for-the-future
-title: "UC booming with students and building for the future"
-date: 2019-03-05
-source-url: https://www.scoop.co.nz/stories/ED1903/S00008/uc-booming-with-students-and-building-for-the-future.htm
+title: UC booming with students and building for the future
+date: 2019-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00008/uc-booming-with-students-and-building-for-the-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/03/05/uc-booming-with-students-and-building-for-the-future/index.html
+layout: layout.njk
 ---
 UC booming with students and building for the future
 ====================================================

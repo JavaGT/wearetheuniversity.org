@@ -1,9 +1,12 @@
 ---
 slug: hauraki-waikato-mourns-dame-nganeko-minhinnick
-title: "Hauraki - Waikato mourns Dame Nganeko Minhinnick"
-date: 2017-06-15
-source-url: https://www.scoop.co.nz/stories/PA1706/S00264/hauraki-waikato-mourns-dame-nganeko-minhinnick.htm
+title: Hauraki - Waikato mourns Dame Nganeko Minhinnick
+date: 2017-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00264/hauraki-waikato-mourns-dame-nganeko-minhinnick.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/06/15/hauraki-waikato-mourns-dame-nganeko-minhinnick/index.html
+layout: layout.njk
 ---
 Hauraki - Waikato mourns Dame Nganeko Minhinnick
 ================================================

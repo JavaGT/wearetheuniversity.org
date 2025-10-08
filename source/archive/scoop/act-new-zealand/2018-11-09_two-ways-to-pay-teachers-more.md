@@ -1,9 +1,12 @@
 ---
 slug: two-ways-to-pay-teachers-more
-title: "Two ways to pay teachers more"
-date: 2018-11-09
-source-url: https://www.scoop.co.nz/stories/PA1811/S00113/two-ways-to-pay-teachers-more.htm
+title: Two ways to pay teachers more
+date: 2018-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00113/two-ways-to-pay-teachers-more.htm
 author: act-new-zealand
+permalink: /archive/2018/11/09/two-ways-to-pay-teachers-more/index.html
+layout: layout.njk
 ---
 Two ways to pay teachers more
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: government-spin-reaches-new-heights
-title: "Government Spin Reaches New Heights"
-date: 2001-04-11
-source-url: https://www.scoop.co.nz/stories/PA0104/S00197/government-spin-reaches-new-heights.htm
+title: Government Spin Reaches New Heights
+date: 2001-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00197/government-spin-reaches-new-heights.htm
 author: act-new-zealand
+permalink: /archive/2001/04/11/government-spin-reaches-new-heights/index.html
+layout: layout.njk
 ---
 Government Spin Reaches New Heights
 ===================================

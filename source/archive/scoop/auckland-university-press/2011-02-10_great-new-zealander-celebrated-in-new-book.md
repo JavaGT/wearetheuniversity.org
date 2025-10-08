@@ -1,9 +1,12 @@
 ---
 slug: great-new-zealander-celebrated-in-new-book
-title: "\"Great New Zealander\" Celebrated in New Book"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/CU1102/S00145/great-new-zealander-celebrated-in-new-book.htm
+title: '"Great New Zealander" Celebrated in New Book'
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1102/S00145/great-new-zealander-celebrated-in-new-book.htm
 author: auckland-university-press
+permalink: /archive/2011/02/10/great-new-zealander-celebrated-in-new-book/index.html
+layout: layout.njk
 ---
 “Great New Zealander” Celebrated in New Book
 ============================================

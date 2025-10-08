@@ -1,9 +1,13 @@
 ---
 slug: statement-from-labour-mental-health-spokesperson-ingrid-leary
-title: "Statement From Labour Mental Health Spokesperson Ingrid Leary"
-date: 2024-07-04
-source-url: https://www.scoop.co.nz/stories/PA2407/S00037/statement-from-labour-mental-health-spokesperson-ingrid-leary.htm
+title: Statement From Labour Mental Health Spokesperson Ingrid Leary
+date: 2024-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00037/statement-from-labour-mental-health-spokesperson-ingrid-leary.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/07/04/statement-from-labour-mental-health-spokesperson-ingrid-leary/index.html
+layout: layout.njk
 ---
 Statement From Labour Mental Health Spokesperson Ingrid Leary
 =============================================================

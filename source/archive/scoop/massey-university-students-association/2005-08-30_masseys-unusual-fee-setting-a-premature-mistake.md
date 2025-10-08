@@ -1,9 +1,12 @@
 ---
 slug: masseys-unusual-fee-setting-a-premature-mistake
-title: "Massey’s Unusual Fee-Setting a Premature Mistake"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/ED0508/S00115/masseys-unusual-fee-setting-a-premature-mistake.htm
+title: Massey’s Unusual Fee-Setting a Premature Mistake
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00115/masseys-unusual-fee-setting-a-premature-mistake.htm
 author: massey-university-students-association
+permalink: /archive/2005/08/30/masseys-unusual-fee-setting-a-premature-mistake/index.html
+layout: layout.njk
 ---
 Massey’s Unusual Fee-Setting a Premature Mistake
 ================================================

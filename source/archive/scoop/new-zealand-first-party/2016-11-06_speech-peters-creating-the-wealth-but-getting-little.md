@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-creating-the-wealth-but-getting-little
-title: "Speech: Peters - Creating the wealth but getting little"
-date: 2016-11-06
-source-url: https://www.scoop.co.nz/stories/PA1611/S00115/speech-peters-creating-the-wealth-but-getting-little.htm
+title: 'Speech: Peters - Creating the wealth but getting little'
+date: 2016-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00115/speech-peters-creating-the-wealth-but-getting-little.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/06/speech-peters-creating-the-wealth-but-getting-little/index.html
+layout: layout.njk
 ---
 Speech: Peters - Creating the wealth but getting little
 =======================================================

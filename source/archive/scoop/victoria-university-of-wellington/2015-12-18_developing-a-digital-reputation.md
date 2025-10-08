@@ -1,9 +1,12 @@
 ---
 slug: developing-a-digital-reputation
-title: "Developing a digital reputation"
-date: 2015-12-18
-source-url: https://www.scoop.co.nz/stories/ED1512/S00083/developing-a-digital-reputation.htm
+title: Developing a digital reputation
+date: 2015-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00083/developing-a-digital-reputation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/12/18/developing-a-digital-reputation/index.html
+layout: layout.njk
 ---
 Developing a digital reputation
 ===============================

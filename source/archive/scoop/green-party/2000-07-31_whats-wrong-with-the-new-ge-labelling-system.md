@@ -1,9 +1,12 @@
 ---
 slug: whats-wrong-with-the-new-ge-labelling-system
-title: "What's wrong with the new GE labelling system"
-date: 2000-07-31
-source-url: https://www.scoop.co.nz/stories/PA0007/S00499/whats-wrong-with-the-new-ge-labelling-system.htm
+title: What's wrong with the new GE labelling system
+date: 2000-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00499/whats-wrong-with-the-new-ge-labelling-system.htm
 author: green-party
+permalink: /archive/2000/07/31/whats-wrong-with-the-new-ge-labelling-system/index.html
+layout: layout.njk
 ---
 What's wrong with the new GE labelling system
 =============================================

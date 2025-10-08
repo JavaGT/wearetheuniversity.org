@@ -1,9 +1,12 @@
 ---
 slug: first-student-editors-for-waikato-law-review
-title: "First Student Editors for Waikato Law Review"
-date: 2011-05-09
-source-url: https://www.scoop.co.nz/stories/ED1105/S00028/first-student-editors-for-waikato-law-review.htm
+title: First Student Editors for Waikato Law Review
+date: 2011-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00028/first-student-editors-for-waikato-law-review.htm
 author: university-of-waikato
+permalink: /archive/2011/05/09/first-student-editors-for-waikato-law-review/index.html
+layout: layout.njk
 ---
 First Student Editors for Waikato Law Review
 ============================================

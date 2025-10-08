@@ -1,9 +1,12 @@
 ---
 slug: organisations-contribute-to-workplace-bullying
-title: "Organisations contribute to workplace bullying"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/ED1110/S00064/organisations-contribute-to-workplace-bullying.htm
+title: Organisations contribute to workplace bullying
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00064/organisations-contribute-to-workplace-bullying.htm
 author: waikato-university
+permalink: /archive/2011/10/17/organisations-contribute-to-workplace-bullying/index.html
+layout: layout.njk
 ---
 Organisations contribute to workplace bullying
 ==============================================

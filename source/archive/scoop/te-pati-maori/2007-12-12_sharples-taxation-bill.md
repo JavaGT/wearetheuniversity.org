@@ -1,9 +1,11 @@
 ---
 slug: sharples-taxation-bill
-title: "Sharples: Taxation Bill"
-date: 2007-12-12
+title: 'Sharples: Taxation Bill'
+date: 2007-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0712/S00244/sharples-taxation-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/12/sharples-taxation-bill/index.html
+layout: layout.njk
 ---
 Sharples: Taxation Bill
 =======================

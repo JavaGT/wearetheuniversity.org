@@ -1,9 +1,11 @@
 ---
 slug: passing-of-vine-deloria
-title: "Passing of Vine Deloria"
-date: 2005-11-15
+title: Passing of Vine Deloria
+date: 2005-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00194/passing-of-vine-deloria.htm
 author: te-pati-maori
+permalink: /archive/2005/11/15/passing-of-vine-deloria/index.html
+layout: layout.njk
 ---
 Passing of Vine Deloria
 =======================

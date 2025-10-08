@@ -1,9 +1,16 @@
 ---
-slug: select-committee-hearings-prove-racist-motives-behind-govt-removal-of-māori-wards
-title: "Select Committee Hearings Prove Racist Motives Behind Govt Removal Of Māori Wards"
-date: 2024-06-09
-source-url: https://www.scoop.co.nz/stories/PA2406/S00043/select-committee-hearings-prove-racist-motives-behind-govt-removal-of-maori-wards.htm
+slug: >-
+  select-committee-hearings-prove-racist-motives-behind-govt-removal-of-māori-wards
+title: >-
+  Select Committee Hearings Prove Racist Motives Behind Govt Removal Of Māori
+  Wards
+date: 2024-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00043/select-committee-hearings-prove-racist-motives-behind-govt-removal-of-maori-wards.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2024/06/09/select-committee-hearings-prove-racist-motives-behind-govt-removal-of-m/index.html
+layout: layout.njk
 ---
 Select Committee Hearings Prove Racist Motives Behind Govt Removal Of Māori Wards
 =================================================================================

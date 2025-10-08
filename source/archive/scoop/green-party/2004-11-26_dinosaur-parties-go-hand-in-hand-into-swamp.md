@@ -1,9 +1,12 @@
 ---
 slug: dinosaur-parties-go-hand-in-hand-into-swamp
-title: "Dinosaur parties go hand-in-hand into swamp"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/PA0411/S00572/dinosaur-parties-go-hand-in-hand-into-swamp.htm
+title: Dinosaur parties go hand-in-hand into swamp
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00572/dinosaur-parties-go-hand-in-hand-into-swamp.htm
 author: green-party
+permalink: /archive/2004/11/26/dinosaur-parties-go-hand-in-hand-into-swamp/index.html
+layout: layout.njk
 ---
 Dinosaur parties go hand-in-hand into swamp
 ===========================================

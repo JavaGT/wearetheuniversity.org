@@ -1,9 +1,12 @@
 ---
 slug: vuw-council-makes-student-debt-worse
-title: "VUW Council makes student debt worse"
-date: 2008-10-07
-source-url: https://www.scoop.co.nz/stories/PO0810/S00088/vuw-council-makes-student-debt-worse.htm
+title: VUW Council makes student debt worse
+date: 2008-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00088/vuw-council-makes-student-debt-worse.htm
 author: victoria-university-students-association
+permalink: /archive/2008/10/07/vuw-council-makes-student-debt-worse/index.html
+layout: layout.njk
 ---
 VUW Council makes student debt worse
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: plain-english-special-remembering-september-11
-title: "Plain English Special - Remembering September 11"
-date: 2002-09-11
-source-url: https://www.scoop.co.nz/stories/PA0209/S00193/plain-english-special-remembering-september-11.htm
+title: Plain English Special - Remembering September 11
+date: 2002-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00193/plain-english-special-remembering-september-11.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/11/plain-english-special-remembering-september-11/index.html
+layout: layout.njk
 ---
 Plain English Special - Remembering September 11
 ================================================

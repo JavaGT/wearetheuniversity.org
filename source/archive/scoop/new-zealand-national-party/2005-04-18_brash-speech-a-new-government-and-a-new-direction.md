@@ -1,9 +1,13 @@
 ---
 slug: brash-speech-a-new-government-and-a-new-direction
-title: "Brash Speech: A new government and a new direction"
-date: 2005-04-18
-source-url: https://www.scoop.co.nz/stories/PA0504/S00365/brash-speech-a-new-government-and-a-new-direction.htm
+title: 'Brash Speech: A new government and a new direction'
+date: 2005-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00365/brash-speech-a-new-government-and-a-new-direction.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/04/18/brash-speech-a-new-government-and-a-new-direction/index.html
+layout: layout.njk
 ---
 Brash Speech: A new government and a new direction
 ==================================================

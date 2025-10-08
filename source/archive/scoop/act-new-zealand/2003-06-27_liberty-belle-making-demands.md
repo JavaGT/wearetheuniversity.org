@@ -1,9 +1,11 @@
 ---
 slug: liberty-belle-making-demands
-title: "Liberty Belle: Making Demands"
-date: 2003-06-27
+title: 'Liberty Belle: Making Demands'
+date: 2003-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0306/S00526/liberty-belle-making-demands.htm
 author: act-new-zealand
+permalink: /archive/2003/06/27/liberty-belle-making-demands/index.html
+layout: layout.njk
 ---
 Liberty Belle: Making Demands
 =============================

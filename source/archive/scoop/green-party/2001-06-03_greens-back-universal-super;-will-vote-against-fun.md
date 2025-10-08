@@ -1,9 +1,12 @@
 ---
 slug: greens-back-universal-super;-will-vote-against-fun
-title: "Greens back universal super; will vote against fun"
-date: 2001-06-03
-source-url: https://www.scoop.co.nz/stories/PA0106/S00016/greens-back-universal-super-will-vote-against-fun.htm
+title: Greens back universal super; will vote against fun
+date: 2001-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00016/greens-back-universal-super-will-vote-against-fun.htm
 author: green-party
+permalink: /archive/2001/06/03/greens-back-universal-super/index.html
+layout: layout.njk
 ---
 Greens back universal super; will vote against fun
 ==================================================

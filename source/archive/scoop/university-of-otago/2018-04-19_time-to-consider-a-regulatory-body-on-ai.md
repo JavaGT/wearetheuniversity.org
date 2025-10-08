@@ -1,9 +1,12 @@
 ---
 slug: time-to-consider-a-regulatory-body-on-ai
-title: "Time to consider a regulatory body on AI"
-date: 2018-04-19
-source-url: https://www.scoop.co.nz/stories/SC1804/S00027/time-to-consider-a-regulatory-body-on-ai.htm
+title: Time to consider a regulatory body on AI
+date: 2018-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1804/S00027/time-to-consider-a-regulatory-body-on-ai.htm
 author: university-of-otago
+permalink: /archive/2018/04/19/time-to-consider-a-regulatory-body-on-ai/index.html
+layout: layout.njk
 ---
 Time to consider a regulatory body on AI
 ========================================

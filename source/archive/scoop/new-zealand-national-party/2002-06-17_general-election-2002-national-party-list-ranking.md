@@ -1,9 +1,13 @@
 ---
 slug: general-election-2002-national-party-list-ranking
-title: "General Election 2002- National Party List Ranking"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00251/general-election-2002-national-party-list-ranking.htm
+title: General Election 2002- National Party List Ranking
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00251/general-election-2002-national-party-list-ranking.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/06/17/general-election-2002-national-party-list-ranking/index.html
+layout: layout.njk
 ---
 General Election 2002- National Party List Ranking
 ==================================================

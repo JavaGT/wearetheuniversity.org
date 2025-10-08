@@ -1,9 +1,12 @@
 ---
 slug: tolley-takes-the-cake-with-extraordinary-claim
-title: "Tolley ‘takes the cake’ with extraordinary claim"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/PA1008/S00257/tolley-takes-the-cake-with-extraordinary-claim.htm
+title: Tolley ‘takes the cake’ with extraordinary claim
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00257/tolley-takes-the-cake-with-extraordinary-claim.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/17/tolley-takes-the-cake-with-extraordinary-claim/index.html
+layout: layout.njk
 ---
 Tolley ‘takes the cake’ with extraordinary claim
 ================================================

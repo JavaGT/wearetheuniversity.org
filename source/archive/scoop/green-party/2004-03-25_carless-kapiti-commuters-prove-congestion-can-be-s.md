@@ -1,9 +1,13 @@
 ---
 slug: carless-kapiti-commuters-prove-congestion-can-be-s
-title: "Carless Kapiti commuters prove congestion can be s"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/PA0403/S00569/carless-kapiti-commuters-prove-congestion-can-be-s.htm
+title: Carless Kapiti commuters prove congestion can be s
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00569/carless-kapiti-commuters-prove-congestion-can-be-s.htm
 author: green-party
+permalink: >-
+  /archive/2004/03/25/carless-kapiti-commuters-prove-congestion-can-be-s/index.html
+layout: layout.njk
 ---
 Carless Kapiti commuters prove congestion can be s
 ==================================================

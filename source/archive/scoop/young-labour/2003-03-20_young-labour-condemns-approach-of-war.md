@@ -1,9 +1,12 @@
 ---
 slug: young-labour-condemns-approach-of-war
-title: "Young Labour Condemns Approach of War"
-date: 2003-03-20
-source-url: https://www.scoop.co.nz/stories/PO0303/S00167/young-labour-condemns-approach-of-war.htm
+title: Young Labour Condemns Approach of War
+date: 2003-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00167/young-labour-condemns-approach-of-war.htm
 author: young-labour
+permalink: /archive/2003/03/20/young-labour-condemns-approach-of-war/index.html
+layout: layout.njk
 ---
 Young Labour Condemns Approach of War
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-community-support-for-campaign
-title: "Students welcome community support for campaign"
-date: 2010-03-05
-source-url: https://www.scoop.co.nz/stories/ED1003/S00028/students-welcome-community-support-for-campaign.htm
+title: Students welcome community support for campaign
+date: 2010-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00028/students-welcome-community-support-for-campaign.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/05/students-welcome-community-support-for-campaign/index.html
+layout: layout.njk
 ---
 Students welcome community support for campaign
 ===============================================

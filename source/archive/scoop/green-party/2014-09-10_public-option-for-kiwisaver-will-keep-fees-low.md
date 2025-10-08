@@ -1,9 +1,12 @@
 ---
 slug: public-option-for-kiwisaver-will-keep-fees-low
-title: "Public option for KiwiSaver will keep fees low"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PA1409/S00153/public-option-for-kiwisaver-will-keep-fees-low.htm
+title: Public option for KiwiSaver will keep fees low
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00153/public-option-for-kiwisaver-will-keep-fees-low.htm
 author: green-party
+permalink: /archive/2014/09/10/public-option-for-kiwisaver-will-keep-fees-low/index.html
+layout: layout.njk
 ---
 Public option for KiwiSaver will keep fees low
 ==============================================

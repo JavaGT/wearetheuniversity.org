@@ -1,9 +1,13 @@
 ---
 slug: study-explores-multiple-aspects-of-sexual-orientat
-title: "Study explores multiple aspects of sexual orientat"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/ED1007/S00073/study-explores-multiple-aspects-of-sexual-orientat.htm
+title: Study explores multiple aspects of sexual orientat
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00073/study-explores-multiple-aspects-of-sexual-orientat.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/07/22/study-explores-multiple-aspects-of-sexual-orientat/index.html
+layout: layout.njk
 ---
 Study explores multiple aspects of sexual orientat
 ==================================================

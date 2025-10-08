@@ -1,9 +1,12 @@
 ---
 slug: simon-upton-resignation-from-parliament
-title: "Simon Upton Resignation from Parliament"
-date: 2000-09-21
-source-url: https://www.scoop.co.nz/stories/PA0009/S00346/simon-upton-resignation-from-parliament.htm
+title: Simon Upton Resignation from Parliament
+date: 2000-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00346/simon-upton-resignation-from-parliament.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/21/simon-upton-resignation-from-parliament/index.html
+layout: layout.njk
 ---
 Simon Upton Resignation from Parliament
 =======================================

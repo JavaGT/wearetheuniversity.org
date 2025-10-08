@@ -1,9 +1,12 @@
 ---
 slug: cyclone-legislation-doesnt-do-enough
-title: "Cyclone Legislation Doesn’t Do Enough"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/PA2303/S00140/cyclone-legislation-doesnt-do-enough.htm
+title: Cyclone Legislation Doesn’t Do Enough
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00140/cyclone-legislation-doesnt-do-enough.htm
 author: act-new-zealand
+permalink: /archive/2023/03/16/cyclone-legislation-doesnt-do-enough/index.html
+layout: layout.njk
 ---
 Cyclone Legislation Doesn’t Do Enough
 =====================================

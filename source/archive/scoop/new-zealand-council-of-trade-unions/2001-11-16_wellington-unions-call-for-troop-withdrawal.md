@@ -1,9 +1,12 @@
 ---
 slug: wellington-unions-call-for-troop-withdrawal
-title: "Wellington Unions call for troop withdrawal"
-date: 2001-11-16
-source-url: https://www.scoop.co.nz/stories/PO0111/S00101/wellington-unions-call-for-troop-withdrawal.htm
+title: Wellington Unions call for troop withdrawal
+date: 2001-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0111/S00101/wellington-unions-call-for-troop-withdrawal.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2001/11/16/wellington-unions-call-for-troop-withdrawal/index.html
+layout: layout.njk
 ---
 Wellington Unions call for troop withdrawal
 ===========================================

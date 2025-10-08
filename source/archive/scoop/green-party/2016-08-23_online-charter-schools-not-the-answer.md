@@ -1,9 +1,12 @@
 ---
 slug: online-charter-schools-not-the-answer
-title: "Online charter schools not the answer"
-date: 2016-08-23
-source-url: https://www.scoop.co.nz/stories/PA1608/S00420/online-charter-schools-not-the-answer.htm
+title: Online charter schools not the answer
+date: 2016-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00420/online-charter-schools-not-the-answer.htm
 author: green-party
+permalink: /archive/2016/08/23/online-charter-schools-not-the-answer/index.html
+layout: layout.njk
 ---
 Online charter schools not the answer
 =====================================

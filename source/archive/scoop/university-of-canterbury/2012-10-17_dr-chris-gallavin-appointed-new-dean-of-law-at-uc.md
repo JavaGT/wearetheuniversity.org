@@ -1,9 +1,13 @@
 ---
 slug: dr-chris-gallavin-appointed-new-dean-of-law-at-uc
-title: "Dr Chris Gallavin appointed new Dean of Law at UC"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/ED1210/S00099/dr-chris-gallavin-appointed-new-dean-of-law-at-uc.htm
+title: Dr Chris Gallavin appointed new Dean of Law at UC
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00099/dr-chris-gallavin-appointed-new-dean-of-law-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/17/dr-chris-gallavin-appointed-new-dean-of-law-at-uc/index.html
+layout: layout.njk
 ---
 Dr Chris Gallavin appointed new Dean of Law at UC
 =================================================

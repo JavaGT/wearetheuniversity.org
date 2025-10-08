@@ -1,9 +1,13 @@
 ---
 slug: whanganui-river-settlement-acknowledges-te-awa-tupua-status
-title: "Whanganui River Settlement Acknowledges Te Awa Tupua Status"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/PA1408/S00068/whanganui-river-settlement-acknowledges-te-awa-tupua-status.htm
+title: Whanganui River Settlement Acknowledges Te Awa Tupua Status
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00068/whanganui-river-settlement-acknowledges-te-awa-tupua-status.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/08/05/whanganui-river-settlement-acknowledges-te-awa-tupua-status/index.html
+layout: layout.njk
 ---
 Whanganui River Settlement Acknowledges Te Awa Tupua Status
 ===========================================================

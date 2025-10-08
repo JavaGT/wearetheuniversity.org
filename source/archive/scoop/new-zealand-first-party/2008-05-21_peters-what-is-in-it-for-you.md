@@ -1,9 +1,11 @@
 ---
 slug: peters-what-is-in-it-for-you
-title: "Peters: What Is In It For You?"
-date: 2008-05-21
+title: 'Peters: What Is In It For You?'
+date: 2008-05-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00366/peters-what-is-in-it-for-you.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/21/peters-what-is-in-it-for-you/index.html
+layout: layout.njk
 ---
 Peters: What Is In It For You?
 ==============================

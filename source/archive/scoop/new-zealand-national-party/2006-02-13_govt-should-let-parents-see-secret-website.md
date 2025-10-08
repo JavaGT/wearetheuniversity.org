@@ -1,9 +1,12 @@
 ---
 slug: govt-should-let-parents-see-secret-website
-title: "Govt should let parents see secret website"
-date: 2006-02-13
-source-url: https://www.scoop.co.nz/stories/PA0602/S00144/govt-should-let-parents-see-secret-website.htm
+title: Govt should let parents see secret website
+date: 2006-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00144/govt-should-let-parents-see-secret-website.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/13/govt-should-let-parents-see-secret-website/index.html
+layout: layout.njk
 ---
 Govt should let parents see secret website
 ==========================================

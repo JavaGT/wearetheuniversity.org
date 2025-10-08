@@ -1,9 +1,13 @@
 ---
 slug: uc-project-looking-at-impact-of-wellington-earthquake
-title: "UC project looking at impact of Wellington earthquake"
-date: 2013-11-17
-source-url: https://www.scoop.co.nz/stories/AK1311/S00481/uc-project-looking-at-impact-of-wellington-earthquake.htm
+title: UC project looking at impact of Wellington earthquake
+date: 2013-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00481/uc-project-looking-at-impact-of-wellington-earthquake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/17/uc-project-looking-at-impact-of-wellington-earthquake/index.html
+layout: layout.njk
 ---
 UC project looking at impact of Wellington earthquake
 =====================================================

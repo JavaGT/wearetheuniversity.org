@@ -1,9 +1,13 @@
 ---
 slug: budget-2023-greens-on-board-with-more-affordable-buses-and-trains
-title: "Budget 2023: Greens On Board With More Affordable Buses And Trains"
-date: 2023-05-18
-source-url: https://www.scoop.co.nz/stories/PA2305/S00136/budget-2023-greens-on-board-with-more-affordable-buses-and-trains.htm
+title: 'Budget 2023: Greens On Board With More Affordable Buses And Trains'
+date: 2023-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00136/budget-2023-greens-on-board-with-more-affordable-buses-and-trains.htm
 author: green-party
+permalink: >-
+  /archive/2023/05/18/budget-2023-greens-on-board-with-more-affordable-buses-and-trains/index.html
+layout: layout.njk
 ---
 Budget 2023: Greens On Board With More Affordable Buses And Trains
 ==================================================================

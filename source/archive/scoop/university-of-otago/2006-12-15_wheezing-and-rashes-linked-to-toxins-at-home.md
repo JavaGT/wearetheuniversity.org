@@ -1,9 +1,12 @@
 ---
 slug: wheezing-and-rashes-linked-to-toxins-at-home
-title: "Wheezing And Rashes Linked To Toxins At Home"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/GE0612/S00070/wheezing-and-rashes-linked-to-toxins-at-home.htm
+title: Wheezing And Rashes Linked To Toxins At Home
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0612/S00070/wheezing-and-rashes-linked-to-toxins-at-home.htm
 author: university-of-otago
+permalink: /archive/2006/12/15/wheezing-and-rashes-linked-to-toxins-at-home/index.html
+layout: layout.njk
 ---
 Wheezing And Rashes Linked To Toxins At Home
 ============================================

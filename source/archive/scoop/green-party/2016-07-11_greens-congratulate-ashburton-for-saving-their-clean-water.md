@@ -1,9 +1,13 @@
 ---
 slug: greens-congratulate-ashburton-for-saving-their-clean-water
-title: "Greens congratulate Ashburton for saving their clean water"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PA1607/S00170/greens-congratulate-ashburton-for-saving-their-clean-water.htm
+title: Greens congratulate Ashburton for saving their clean water
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00170/greens-congratulate-ashburton-for-saving-their-clean-water.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/11/greens-congratulate-ashburton-for-saving-their-clean-water/index.html
+layout: layout.njk
 ---
 Greens congratulate Ashburton for saving their clean water
 ==========================================================

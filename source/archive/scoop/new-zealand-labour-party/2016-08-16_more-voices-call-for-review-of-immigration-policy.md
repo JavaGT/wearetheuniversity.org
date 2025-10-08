@@ -1,9 +1,13 @@
 ---
 slug: more-voices-call-for-review-of-immigration-policy
-title: "More voices call for review of immigration policy"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/PA1608/S00257/more-voices-call-for-review-of-immigration-policy.htm
+title: More voices call for review of immigration policy
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00257/more-voices-call-for-review-of-immigration-policy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/16/more-voices-call-for-review-of-immigration-policy/index.html
+layout: layout.njk
 ---
 More voices call for review of immigration policy
 =================================================

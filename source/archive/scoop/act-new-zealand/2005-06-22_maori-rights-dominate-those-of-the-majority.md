@@ -1,9 +1,12 @@
 ---
 slug: maori-rights-dominate-those-of-the-majority
-title: "Maori rights dominate those of the majority"
-date: 2005-06-22
-source-url: https://www.scoop.co.nz/stories/PA0506/S00487/maori-rights-dominate-those-of-the-majority.htm
+title: Maori rights dominate those of the majority
+date: 2005-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00487/maori-rights-dominate-those-of-the-majority.htm
 author: act-new-zealand
+permalink: /archive/2005/06/22/maori-rights-dominate-those-of-the-majority/index.html
+layout: layout.njk
 ---
 Maori rights dominate those of the majority
 ===========================================

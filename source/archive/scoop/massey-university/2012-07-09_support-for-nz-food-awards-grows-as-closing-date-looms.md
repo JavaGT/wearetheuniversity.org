@@ -1,9 +1,13 @@
 ---
 slug: support-for-nz-food-awards-grows-as-closing-date-looms
-title: "Support for NZ Food Awards grows as closing date looms"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/CU1207/S00116/support-for-nz-food-awards-grows-as-closing-date-looms.htm
+title: Support for NZ Food Awards grows as closing date looms
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00116/support-for-nz-food-awards-grows-as-closing-date-looms.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/09/support-for-nz-food-awards-grows-as-closing-date-looms/index.html
+layout: layout.njk
 ---
 Support for NZ Food Awards grows as closing date looms
 ======================================================

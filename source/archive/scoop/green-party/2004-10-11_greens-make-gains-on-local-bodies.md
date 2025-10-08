@@ -1,9 +1,12 @@
 ---
 slug: greens-make-gains-on-local-bodies
-title: "Greens make gains on local bodies"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/PA0410/S00159/greens-make-gains-on-local-bodies.htm
+title: Greens make gains on local bodies
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00159/greens-make-gains-on-local-bodies.htm
 author: green-party
+permalink: /archive/2004/10/11/greens-make-gains-on-local-bodies/index.html
+layout: layout.njk
 ---
 Greens make gains on local bodies
 =================================

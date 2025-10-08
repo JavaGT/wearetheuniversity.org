@@ -1,9 +1,12 @@
 ---
 slug: research-predicts-the-future-of-leisure
-title: "Research predicts the future of leisure"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/SC1306/S00066/research-predicts-the-future-of-leisure.htm
+title: Research predicts the future of leisure
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00066/research-predicts-the-future-of-leisure.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/26/research-predicts-the-future-of-leisure/index.html
+layout: layout.njk
 ---
 Research predicts the future of leisure
 =======================================

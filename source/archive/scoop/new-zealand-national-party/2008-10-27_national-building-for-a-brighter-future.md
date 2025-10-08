@@ -1,9 +1,12 @@
 ---
 slug: national-building-for-a-brighter-future
-title: "National: Building for a Brighter future"
-date: 2008-10-27
-source-url: https://www.scoop.co.nz/stories/PA0810/S00592/national-building-for-a-brighter-future.htm
+title: 'National: Building for a Brighter future'
+date: 2008-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00592/national-building-for-a-brighter-future.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/27/national-building-for-a-brighter-future/index.html
+layout: layout.njk
 ---
 National: Building for a Brighter future
 ========================================

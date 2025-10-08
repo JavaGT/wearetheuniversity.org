@@ -1,8 +1,12 @@
 ---
 slug: the-modern-dilemma-pedestrians-and-personal-music-players
-title: "The modern dilemma: pedestrians and personal music players"
-date: 2017-07-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/pedestrians-and-personal-music-players.html
+title: 'The modern dilemma: pedestrians and personal music players'
+date: 2017-07-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/pedestrians-and-personal-music-players.html
+permalink: >-
+  /archive/2017/07/10/the-modern-dilemma-pedestrians-and-personal-music-players/index.html
+layout: layout.njk
 ---
 The modern dilemma: pedestrians and personal music players
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-9-june-2006
-title: "The Mapp Report - 9 June 2006"
-date: 2006-06-09
+title: The Mapp Report - 9 June 2006
+date: 2006-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00152/the-mapp-report-9-june-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/09/the-mapp-report-9-june-2006/index.html
+layout: layout.njk
 ---
 The Mapp Report - 9 June 2006
 =============================

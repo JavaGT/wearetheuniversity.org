@@ -1,9 +1,11 @@
 ---
 slug: end-secret-courts
-title: "End Secret Courts"
-date: 2014-08-24
+title: End Secret Courts
+date: 2014-08-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1408/S00389/end-secret-courts.htm
 author: act-new-zealand
+permalink: /archive/2014/08/24/end-secret-courts/index.html
+layout: layout.njk
 ---
 End Secret Courts
 =================

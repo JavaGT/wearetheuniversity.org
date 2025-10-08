@@ -1,9 +1,12 @@
 ---
 slug: survey-to-investigate-gifted-education
-title: "Survey to investigate gifted education"
-date: 2012-08-06
-source-url: https://www.scoop.co.nz/stories/ED1208/S00036/survey-to-investigate-gifted-education.htm
+title: Survey to investigate gifted education
+date: 2012-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00036/survey-to-investigate-gifted-education.htm
 author: massey-university
+permalink: /archive/2012/08/06/survey-to-investigate-gifted-education/index.html
+layout: layout.njk
 ---
 Survey to investigate gifted education
 ======================================

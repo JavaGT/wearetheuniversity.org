@@ -1,9 +1,12 @@
 ---
 slug: children-sick-because-of-state-of-nzs-housing
-title: "Children sick because of state of NZ’s housing"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/PA1707/S00290/children-sick-because-of-state-of-nzs-housing.htm
+title: Children sick because of state of NZ’s housing
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00290/children-sick-because-of-state-of-nzs-housing.htm
 author: green-party
+permalink: /archive/2017/07/20/children-sick-because-of-state-of-nzs-housing/index.html
+layout: layout.njk
 ---
 Children sick because of state of NZ’s housing
 ==============================================

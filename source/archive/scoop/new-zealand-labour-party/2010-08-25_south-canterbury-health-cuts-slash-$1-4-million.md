@@ -1,9 +1,12 @@
 ---
 slug: south-canterbury-health-cuts-slash-$1-4-million
-title: "South Canterbury health cuts slash $1.4 million"
-date: 2010-08-25
-source-url: https://www.scoop.co.nz/stories/PA1008/S00381/south-canterbury-health-cuts-slash-14-million.htm
+title: South Canterbury health cuts slash $1.4 million
+date: 2010-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00381/south-canterbury-health-cuts-slash-14-million.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/25/south-canterbury-health-cuts-slash-/index.html
+layout: layout.njk
 ---
 South Canterbury health cuts slash $1.4 million
 ===============================================

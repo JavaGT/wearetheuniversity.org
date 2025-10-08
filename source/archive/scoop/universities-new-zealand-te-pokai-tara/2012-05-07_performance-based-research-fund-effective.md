@@ -1,9 +1,12 @@
 ---
 slug: performance-based-research-fund-effective
-title: "Performance-Based Research Fund Effective"
-date: 2012-05-07
-source-url: https://www.scoop.co.nz/stories/ED1205/S00027/performance-based-research-fund-effective.htm
+title: Performance-Based Research Fund Effective
+date: 2012-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00027/performance-based-research-fund-effective.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2012/05/07/performance-based-research-fund-effective/index.html
+layout: layout.njk
 ---
 Performance-Based Research Fund Effective
 =========================================

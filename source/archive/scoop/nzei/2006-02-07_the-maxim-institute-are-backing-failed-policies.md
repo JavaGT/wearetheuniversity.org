@@ -1,9 +1,12 @@
 ---
 slug: the-maxim-institute-are-backing-failed-policies
-title: "The Maxim Institute Are Backing Failed Policies"
-date: 2006-02-07
-source-url: https://www.scoop.co.nz/stories/ED0602/S00013/the-maxim-institute-are-backing-failed-policies.htm
+title: The Maxim Institute Are Backing Failed Policies
+date: 2006-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00013/the-maxim-institute-are-backing-failed-policies.htm
 author: nzei
+permalink: /archive/2006/02/07/the-maxim-institute-are-backing-failed-policies/index.html
+layout: layout.njk
 ---
 The Maxim Institute Are Backing Failed Policies
 ===============================================

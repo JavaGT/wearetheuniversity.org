@@ -1,9 +1,13 @@
 ---
 slug: acts-plan-for-efficient-and-effective-public-services
-title: "ACT’s Plan For Efficient And Effective Public Services"
-date: 2023-08-20
-source-url: https://www.scoop.co.nz/stories/PO2308/S00203/acts-plan-for-efficient-and-effective-public-services.htm
+title: ACT’s Plan For Efficient And Effective Public Services
+date: 2023-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00203/acts-plan-for-efficient-and-effective-public-services.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/20/acts-plan-for-efficient-and-effective-public-services/index.html
+layout: layout.njk
 ---
 ACT’s Plan For Efficient And Effective Public Services
 ======================================================

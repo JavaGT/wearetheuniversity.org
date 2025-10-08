@@ -1,9 +1,12 @@
 ---
 slug: the-pros-and-cons-of-acc-bill-bradford
-title: "The Pros And Cons Of ACC Bill - Bradford"
-date: 2000-12-14
-source-url: https://www.scoop.co.nz/stories/PA0012/S00242/the-pros-and-cons-of-acc-bill-bradford.htm
+title: The Pros And Cons Of ACC Bill - Bradford
+date: 2000-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00242/the-pros-and-cons-of-acc-bill-bradford.htm
 author: green-party
+permalink: /archive/2000/12/14/the-pros-and-cons-of-acc-bill-bradford/index.html
+layout: layout.njk
 ---
 The Pros And Cons Of ACC Bill - Bradford
 ========================================

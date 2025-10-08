@@ -1,9 +1,12 @@
 ---
 slug: award-extended-for-business-school
-title: "Award Extended For Business School"
-date: 2021-11-19
-source-url: https://www.scoop.co.nz/stories/ED2111/S00039/award-extended-for-business-school.htm
+title: Award Extended For Business School
+date: 2021-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00039/award-extended-for-business-school.htm
 author: aut-university
+permalink: /archive/2021/11/19/award-extended-for-business-school/index.html
+layout: layout.njk
 ---
 Award Extended For Business School
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-a-hotbed-of-corruption-of-student-politics
-title: "Waikato a hotbed of corruption of student politics"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/ED0010/S00022/waikato-a-hotbed-of-corruption-of-student-politics.htm
+title: Waikato a hotbed of corruption of student politics
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00022/waikato-a-hotbed-of-corruption-of-student-politics.htm
 author: student-choice
+permalink: >-
+  /archive/2000/10/16/waikato-a-hotbed-of-corruption-of-student-politics/index.html
+layout: layout.njk
 ---
 Waikato a hotbed of corruption of student politics
 ==================================================

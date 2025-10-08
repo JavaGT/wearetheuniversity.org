@@ -1,9 +1,13 @@
 ---
 slug: auckland-campus-celebrates-chinese-language-week
-title: "Auckland campus celebrates Chinese Language Week"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/ED1609/S00058/auckland-campus-celebrates-chinese-language-week.htm
+title: Auckland campus celebrates Chinese Language Week
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00058/auckland-campus-celebrates-chinese-language-week.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/13/auckland-campus-celebrates-chinese-language-week/index.html
+layout: layout.njk
 ---
 Auckland campus celebrates Chinese Language Week
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: excellent-educator
-title: "Excellent educator"
-date: 2003-10-20
+title: Excellent educator
+date: 2003-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00079/excellent-educator.htm
 author: waikato-university
+permalink: /archive/2003/10/20/excellent-educator/index.html
+layout: layout.njk
 ---
 Excellent educator
 ==================

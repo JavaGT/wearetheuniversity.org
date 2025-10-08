@@ -1,9 +1,12 @@
 ---
 slug: wise-heads-want-wise-response
-title: "Wise heads want wise response"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00149/wise-heads-want-wise-response.htm
+title: Wise heads want wise response
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00149/wise-heads-want-wise-response.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/09/wise-heads-want-wise-response/index.html
+layout: layout.njk
 ---
 Wise heads want wise response
 =============================

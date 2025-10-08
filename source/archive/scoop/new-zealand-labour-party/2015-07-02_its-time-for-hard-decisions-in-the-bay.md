@@ -1,9 +1,12 @@
 ---
 slug: its-time-for-hard-decisions-in-the-bay
-title: "It’s time for hard decisions in the Bay"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00037/its-time-for-hard-decisions-in-the-bay.htm
+title: It’s time for hard decisions in the Bay
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00037/its-time-for-hard-decisions-in-the-bay.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/02/its-time-for-hard-decisions-in-the-bay/index.html
+layout: layout.njk
 ---
 It’s time for hard decisions in the Bay
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: john-key-speech-to-southern-regional-conference
-title: "John Key: Speech To Southern Regional Conference"
-date: 2008-05-11
-source-url: https://www.scoop.co.nz/stories/PA0805/S00175/john-key-speech-to-southern-regional-conference.htm
+title: 'John Key: Speech To Southern Regional Conference'
+date: 2008-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00175/john-key-speech-to-southern-regional-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/11/john-key-speech-to-southern-regional-conference/index.html
+layout: layout.njk
 ---
 John Key: Speech To Southern Regional Conference
 ================================================

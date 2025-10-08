@@ -1,9 +1,12 @@
 ---
 slug: national-radio-midday-bulletin
-title: "National Radio Midday Bulletin"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/NM9912/S00133/national-radio-midday-bulletin.htm
+title: National Radio Midday Bulletin
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/NM9912/S00133/national-radio-midday-bulletin.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/23/national-radio-midday-bulletin/index.html
+layout: layout.njk
 ---
 National Radio Midday Bulletin
 ==============================

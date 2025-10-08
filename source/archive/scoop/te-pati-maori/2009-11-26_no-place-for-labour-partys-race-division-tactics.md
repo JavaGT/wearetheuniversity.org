@@ -1,9 +1,13 @@
 ---
 slug: no-place-for-labour-partys-race-division-tactics
-title: "No place for Labour Party’s race division tactics"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00409/no-place-for-labour-partys-race-division-tactics.htm
+title: No place for Labour Party’s race division tactics
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00409/no-place-for-labour-partys-race-division-tactics.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2009/11/26/no-place-for-labour-partys-race-division-tactics/index.html
+layout: layout.njk
 ---
 No place for Labour Party’s race division tactics
 =================================================

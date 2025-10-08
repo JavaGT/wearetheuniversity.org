@@ -1,9 +1,13 @@
 ---
 slug: conference-aims-to-demystify-small-business-devt
-title: "Conference aims to demystify small business dev't"
-date: 2007-09-13
-source-url: https://www.scoop.co.nz/stories/ED0709/S00047/conference-aims-to-demystify-small-business-devt.htm
+title: Conference aims to demystify small business dev't
+date: 2007-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00047/conference-aims-to-demystify-small-business-devt.htm
 author: waikato-university
+permalink: >-
+  /archive/2007/09/13/conference-aims-to-demystify-small-business-devt/index.html
+layout: layout.njk
 ---
 Conference aims to demystify small business dev't
 =================================================

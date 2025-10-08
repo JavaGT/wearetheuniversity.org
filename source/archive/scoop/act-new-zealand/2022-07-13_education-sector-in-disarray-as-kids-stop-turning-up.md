@@ -1,9 +1,13 @@
 ---
 slug: education-sector-in-disarray-as-kids-stop-turning-up
-title: "Education Sector In Disarray As Kids Stop Turning Up"
-date: 2022-07-13
-source-url: https://www.scoop.co.nz/stories/PA2207/S00091/education-sector-in-disarray-as-kids-stop-turning-up.htm
+title: Education Sector In Disarray As Kids Stop Turning Up
+date: 2022-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00091/education-sector-in-disarray-as-kids-stop-turning-up.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/07/13/education-sector-in-disarray-as-kids-stop-turning-up/index.html
+layout: layout.njk
 ---
 Education Sector In Disarray As Kids Stop Turning Up
 ====================================================

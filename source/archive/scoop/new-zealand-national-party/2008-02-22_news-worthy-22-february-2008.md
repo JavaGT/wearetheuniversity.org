@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-22-february-2008
-title: "News Worthy: 22 February 2008"
-date: 2008-02-22
+title: 'News Worthy: 22 February 2008'
+date: 2008-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0802/S00374/news-worthy-22-february-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/22/news-worthy-22-february-2008/index.html
+layout: layout.njk
 ---
 News Worthy: 22 February 2008
 =============================

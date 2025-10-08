@@ -1,9 +1,12 @@
 ---
 slug: māori-science-academy-ready-to-take-off
-title: "Māori science academy ready to take off"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/SC1512/S00076/maori-science-academy-ready-to-take-off.htm
+title: Māori science academy ready to take off
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00076/maori-science-academy-ready-to-take-off.htm
 author: massey-university
+permalink: /archive/2015/12/21/m/index.html
+layout: layout.njk
 ---
 Māori science academy ready to take off
 =======================================

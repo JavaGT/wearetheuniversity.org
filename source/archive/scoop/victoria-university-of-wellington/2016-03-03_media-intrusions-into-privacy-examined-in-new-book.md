@@ -1,9 +1,13 @@
 ---
 slug: media-intrusions-into-privacy-examined-in-new-book
-title: "Media intrusions into privacy examined in new book"
-date: 2016-03-03
-source-url: https://www.scoop.co.nz/stories/PO1603/S00050/media-intrusions-into-privacy-examined-in-new-book.htm
+title: Media intrusions into privacy examined in new book
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00050/media-intrusions-into-privacy-examined-in-new-book.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/03/03/media-intrusions-into-privacy-examined-in-new-book/index.html
+layout: layout.njk
 ---
 Media intrusions into privacy examined in new book
 ==================================================

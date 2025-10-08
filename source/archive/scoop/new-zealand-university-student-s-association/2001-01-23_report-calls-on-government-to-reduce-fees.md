@@ -1,9 +1,12 @@
 ---
 slug: report-calls-on-government-to-reduce-fees
-title: "Report Calls On Government To Reduce Fees"
-date: 2001-01-23
-source-url: https://www.scoop.co.nz/stories/ED0101/S00009/report-calls-on-government-to-reduce-fees.htm
+title: Report Calls On Government To Reduce Fees
+date: 2001-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00009/report-calls-on-government-to-reduce-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/01/23/report-calls-on-government-to-reduce-fees/index.html
+layout: layout.njk
 ---
 Report Calls On Government To Reduce Fees
 =========================================

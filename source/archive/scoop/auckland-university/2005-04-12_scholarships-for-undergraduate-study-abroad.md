@@ -1,9 +1,12 @@
 ---
 slug: scholarships-for-undergraduate-study-abroad
-title: "Scholarships for undergraduate study abroad"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/ED0504/S00031/scholarships-for-undergraduate-study-abroad.htm
+title: Scholarships for undergraduate study abroad
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00031/scholarships-for-undergraduate-study-abroad.htm
 author: auckland-university
+permalink: /archive/2005/04/12/scholarships-for-undergraduate-study-abroad/index.html
+layout: layout.njk
 ---
 Scholarships for undergraduate study abroad
 ===========================================

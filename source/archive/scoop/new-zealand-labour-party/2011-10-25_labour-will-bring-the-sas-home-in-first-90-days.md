@@ -1,9 +1,12 @@
 ---
 slug: labour-will-bring-the-sas-home-in-first-90-days
-title: "Labour will bring the SAS home in first 90 days"
-date: 2011-10-25
-source-url: https://www.scoop.co.nz/stories/PA1110/S00391/labour-will-bring-the-sas-home-in-first-90-days.htm
+title: Labour will bring the SAS home in first 90 days
+date: 2011-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00391/labour-will-bring-the-sas-home-in-first-90-days.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/25/labour-will-bring-the-sas-home-in-first-90-days/index.html
+layout: layout.njk
 ---
 Labour will bring the SAS home in first 90 days
 ===============================================

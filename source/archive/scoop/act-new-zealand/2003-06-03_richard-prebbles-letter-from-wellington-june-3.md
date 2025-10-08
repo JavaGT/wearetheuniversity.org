@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wellington-june-3
-title: "Richard Prebble's Letter From Wellington - June 3"
-date: 2003-06-03
-source-url: https://www.scoop.co.nz/stories/PA0306/S00012/richard-prebbles-letter-from-wellington-june-3.htm
+title: Richard Prebble's Letter From Wellington - June 3
+date: 2003-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00012/richard-prebbles-letter-from-wellington-june-3.htm
 author: act-new-zealand
+permalink: /archive/2003/06/03/richard-prebbles-letter-from-wellington-june-3/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter From Wellington - June 3
 =================================================

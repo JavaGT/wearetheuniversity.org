@@ -1,8 +1,15 @@
 ---
-slug: call-for-papers-cities-in-a-climate-of-change-public-art-and-environmental-and-social-ecologies
-title: "Call for papers - Cities in a Climate of Change: Public Art and Environmental and Social Ecologies"
-date: 2015-03-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/cities-in-a-climate-of-change--public-art-and-environmental-and-.html
+slug: >-
+  call-for-papers-cities-in-a-climate-of-change-public-art-and-environmental-and-social-ecologies
+title: >-
+  Call for papers - Cities in a Climate of Change: Public Art and Environmental
+  and Social Ecologies
+date: 2015-03-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/cities-in-a-climate-of-change--public-art-and-environmental-and-.html
+permalink: >-
+  /archive/2015/03/17/call-for-papers-cities-in-a-climate-of-change-public-art-and-environmental-and-social-ecologies/index.html
+layout: layout.njk
 ---
 Call for papers - Cities in a Climate of Change: Public Art and Environmental and Social Ecologies
 ==================================================================================================

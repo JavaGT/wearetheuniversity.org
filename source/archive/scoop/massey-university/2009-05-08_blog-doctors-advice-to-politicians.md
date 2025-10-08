@@ -1,9 +1,12 @@
 ---
 slug: blog-doctors-advice-to-politicians
-title: "Blog doctor’s advice to politicians"
-date: 2009-05-08
-source-url: https://www.scoop.co.nz/stories/PO0905/S00114/blog-doctors-advice-to-politicians.htm
+title: Blog doctor’s advice to politicians
+date: 2009-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00114/blog-doctors-advice-to-politicians.htm
 author: massey-university
+permalink: /archive/2009/05/08/blog-doctors-advice-to-politicians/index.html
+layout: layout.njk
 ---
 Blog doctor’s advice to politicians
 ===================================

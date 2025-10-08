@@ -1,9 +1,13 @@
 ---
 slug: cosgrove-finds-sticker-sponsor-to-provide-funding
-title: "Cosgrove finds sticker sponsor to provide funding"
-date: 2000-05-17
-source-url: https://www.scoop.co.nz/stories/PA0005/S00377/cosgrove-finds-sticker-sponsor-to-provide-funding.htm
+title: Cosgrove finds sticker sponsor to provide funding
+date: 2000-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00377/cosgrove-finds-sticker-sponsor-to-provide-funding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2000/05/17/cosgrove-finds-sticker-sponsor-to-provide-funding/index.html
+layout: layout.njk
 ---
 Cosgrove finds sticker sponsor to provide funding
 =================================================

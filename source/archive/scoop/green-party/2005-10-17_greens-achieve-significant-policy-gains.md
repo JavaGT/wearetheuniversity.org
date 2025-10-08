@@ -1,9 +1,12 @@
 ---
 slug: greens-achieve-significant-policy-gains
-title: "Greens achieve significant policy gains"
-date: 2005-10-17
-source-url: https://www.scoop.co.nz/stories/PA0510/S00082/greens-achieve-significant-policy-gains.htm
+title: Greens achieve significant policy gains
+date: 2005-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00082/greens-achieve-significant-policy-gains.htm
 author: green-party
+permalink: /archive/2005/10/17/greens-achieve-significant-policy-gains/index.html
+layout: layout.njk
 ---
 Greens achieve significant policy gains
 =======================================

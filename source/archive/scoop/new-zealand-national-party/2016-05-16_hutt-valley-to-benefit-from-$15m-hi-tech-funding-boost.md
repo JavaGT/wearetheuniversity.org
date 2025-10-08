@@ -1,9 +1,12 @@
 ---
 slug: hutt-valley-to-benefit-from-$15m-hi-tech-funding-boost
-title: "Hutt Valley to benefit from $15m hi-tech funding boost"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PA1605/S00279/hutt-valley-to-benefit-from-15m-hi-tech-funding-boost.htm
+title: Hutt Valley to benefit from $15m hi-tech funding boost
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00279/hutt-valley-to-benefit-from-15m-hi-tech-funding-boost.htm
 author: new-zealand-national-party
+permalink: /archive/2016/05/16/hutt-valley-to-benefit-from-/index.html
+layout: layout.njk
 ---
 Hutt Valley to benefit from $15m hi-tech funding boost
 ======================================================

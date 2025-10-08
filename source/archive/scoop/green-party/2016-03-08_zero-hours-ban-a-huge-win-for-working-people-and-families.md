@@ -1,9 +1,13 @@
 ---
 slug: zero-hours-ban-a-huge-win-for-working-people-and-families
-title: "Zero hours ban a huge win for working people and families"
-date: 2016-03-08
-source-url: https://www.scoop.co.nz/stories/PA1603/S00134/zero-hours-ban-a-huge-win-for-working-people-and-families.htm
+title: Zero hours ban a huge win for working people and families
+date: 2016-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00134/zero-hours-ban-a-huge-win-for-working-people-and-families.htm
 author: green-party
+permalink: >-
+  /archive/2016/03/08/zero-hours-ban-a-huge-win-for-working-people-and-families/index.html
+layout: layout.njk
 ---
 Zero hours ban a huge win for working people and families
 =========================================================

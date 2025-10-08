@@ -1,9 +1,12 @@
 ---
 slug: engineering-a-solution-for-corner-collisions
-title: "Engineering a solution for corner collisions"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/ED1303/S00056/engineering-a-solution-for-corner-collisions.htm
+title: Engineering a solution for corner collisions
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00056/engineering-a-solution-for-corner-collisions.htm
 author: university-of-waikato
+permalink: /archive/2013/03/08/engineering-a-solution-for-corner-collisions/index.html
+layout: layout.njk
 ---
 Engineering a solution for corner collisions
 ============================================

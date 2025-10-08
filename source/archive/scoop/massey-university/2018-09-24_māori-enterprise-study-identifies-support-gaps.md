@@ -1,9 +1,12 @@
 ---
 slug: māori-enterprise-study-identifies-support-gaps
-title: "Māori enterprise study identifies support gaps"
-date: 2018-09-24
-source-url: https://www.scoop.co.nz/stories/BU1809/S00615/maori-enterprise-study-identifies-support-gaps.htm
+title: Māori enterprise study identifies support gaps
+date: 2018-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1809/S00615/maori-enterprise-study-identifies-support-gaps.htm
 author: massey-university
+permalink: /archive/2018/09/24/m/index.html
+layout: layout.njk
 ---
 Māori enterprise study identifies support gaps
 ==============================================

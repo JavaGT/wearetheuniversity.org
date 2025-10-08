@@ -1,9 +1,12 @@
 ---
 slug: glossing-over-infrastructure-issues
-title: "Glossing over infrastructure issues"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/PA1211/S00022/glossing-over-infrastructure-issues.htm
+title: Glossing over infrastructure issues
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00022/glossing-over-infrastructure-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/01/glossing-over-infrastructure-issues/index.html
+layout: layout.njk
 ---
 Glossing over infrastructure issues
 ===================================

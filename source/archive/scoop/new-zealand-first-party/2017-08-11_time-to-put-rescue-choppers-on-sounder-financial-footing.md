@@ -1,9 +1,13 @@
 ---
 slug: time-to-put-rescue-choppers-on-sounder-financial-footing
-title: "Time to Put Rescue Choppers on Sounder Financial Footing"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PA1708/S00242/time-to-put-rescue-choppers-on-sounder-financial-footing.htm
+title: Time to Put Rescue Choppers on Sounder Financial Footing
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00242/time-to-put-rescue-choppers-on-sounder-financial-footing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/08/11/time-to-put-rescue-choppers-on-sounder-financial-footing/index.html
+layout: layout.njk
 ---
 Time to Put Rescue Choppers on Sounder Financial Footing
 ========================================================

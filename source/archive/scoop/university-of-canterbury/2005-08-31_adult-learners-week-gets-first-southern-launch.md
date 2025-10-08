@@ -1,9 +1,12 @@
 ---
 slug: adult-learners-week-gets-first-southern-launch
-title: "Adult Learners’ Week gets first southern launch"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/ED0508/S00125/adult-learners-week-gets-first-southern-launch.htm
+title: Adult Learners’ Week gets first southern launch
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00125/adult-learners-week-gets-first-southern-launch.htm
 author: university-of-canterbury
+permalink: /archive/2005/08/31/adult-learners-week-gets-first-southern-launch/index.html
+layout: layout.njk
 ---
 Adult Learners’ Week gets first southern launch
 ===============================================

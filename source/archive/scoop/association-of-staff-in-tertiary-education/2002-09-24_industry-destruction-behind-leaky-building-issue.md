@@ -1,9 +1,13 @@
 ---
 slug: industry-destruction-behind-leaky-building-issue
-title: "Industry destruction behind leaky building issue"
-date: 2002-09-24
-source-url: https://www.scoop.co.nz/stories/ED0209/S00049/industry-destruction-behind-leaky-building-issue.htm
+title: Industry destruction behind leaky building issue
+date: 2002-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00049/industry-destruction-behind-leaky-building-issue.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2002/09/24/industry-destruction-behind-leaky-building-issue/index.html
+layout: layout.njk
 ---
 Industry destruction behind leaky building issue
 ================================================

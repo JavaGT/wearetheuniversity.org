@@ -1,9 +1,12 @@
 ---
 slug: english-its-time-to-listen-to-parents
-title: "English: It's time to listen to parents"
-date: 2004-12-21
-source-url: https://www.scoop.co.nz/stories/PA0412/S00525/english-its-time-to-listen-to-parents.htm
+title: 'English: It''s time to listen to parents'
+date: 2004-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00525/english-its-time-to-listen-to-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/21/english-its-time-to-listen-to-parents/index.html
+layout: layout.njk
 ---
 English: It's time to listen to parents
 =======================================

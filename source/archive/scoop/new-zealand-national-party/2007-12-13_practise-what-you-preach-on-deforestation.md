@@ -1,9 +1,12 @@
 ---
 slug: practise-what-you-preach-on-deforestation
-title: "Practise what you preach on deforestation"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00283/practise-what-you-preach-on-deforestation.htm
+title: Practise what you preach on deforestation
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00283/practise-what-you-preach-on-deforestation.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/13/practise-what-you-preach-on-deforestation/index.html
+layout: layout.njk
 ---
 Practise what you preach on deforestation
 =========================================

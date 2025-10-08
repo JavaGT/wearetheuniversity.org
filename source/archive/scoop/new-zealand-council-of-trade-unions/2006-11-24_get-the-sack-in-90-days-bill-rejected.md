@@ -1,9 +1,12 @@
 ---
 slug: get-the-sack-in-90-days-bill-rejected
-title: "Get-The-Sack-In-90-Days Bill Rejected"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/PO0611/S00354/get-the-sack-in-90-days-bill-rejected.htm
+title: Get-The-Sack-In-90-Days Bill Rejected
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00354/get-the-sack-in-90-days-bill-rejected.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/11/24/get-the-sack-in-90-days-bill-rejected/index.html
+layout: layout.njk
 ---
 Get-The-Sack-In-90-Days Bill Rejected
 =====================================

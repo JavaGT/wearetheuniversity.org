@@ -1,9 +1,12 @@
 ---
 slug: govt-in-damage-control-over-pacific-fibre
-title: "Govt in damage control over Pacific Fibre"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/PA1208/S00053/govt-in-damage-control-over-pacific-fibre.htm
+title: Govt in damage control over Pacific Fibre
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00053/govt-in-damage-control-over-pacific-fibre.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/02/govt-in-damage-control-over-pacific-fibre/index.html
+layout: layout.njk
 ---
 Govt in damage control over Pacific Fibre
 =========================================

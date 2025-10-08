@@ -1,9 +1,13 @@
 ---
 slug: online-surveys-under-threat-how-ai-can-corrupt-society
-title: "Online Surveys Under Threat: How AI Can Corrupt Society"
-date: 2024-03-06
-source-url: https://www.scoop.co.nz/stories/ED2403/S00005/online-surveys-under-threat-how-ai-can-corrupt-society.htm
+title: 'Online Surveys Under Threat: How AI Can Corrupt Society'
+date: 2024-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00005/online-surveys-under-threat-how-ai-can-corrupt-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/03/06/online-surveys-under-threat-how-ai-can-corrupt-society/index.html
+layout: layout.njk
 ---
 Online Surveys Under Threat: How AI Can Corrupt Society
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: most-native-freshwater-species-are-threatened-in-nz
-title: "Most native freshwater species are threatened in NZ"
-date: 2015-01-29
-source-url: https://www.scoop.co.nz/stories/SC1501/S00057/most-native-freshwater-species-are-threatened-in-nz.htm
+title: Most native freshwater species are threatened in NZ
+date: 2015-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00057/most-native-freshwater-species-are-threatened-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/29/most-native-freshwater-species-are-threatened-in-nz/index.html
+layout: layout.njk
 ---
 Most native freshwater species are threatened in NZ
 ===================================================

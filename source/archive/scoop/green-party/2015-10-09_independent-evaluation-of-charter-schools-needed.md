@@ -1,9 +1,13 @@
 ---
 slug: independent-evaluation-of-charter-schools-needed
-title: "Independent evaluation of Charter Schools needed"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/PA1510/S00133/independent-evaluation-of-charter-schools-needed.htm
+title: Independent evaluation of Charter Schools needed
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00133/independent-evaluation-of-charter-schools-needed.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/09/independent-evaluation-of-charter-schools-needed/index.html
+layout: layout.njk
 ---
 Independent evaluation of Charter Schools needed
 ================================================

@@ -1,9 +1,16 @@
 ---
-slug: a-call-for-new-zealanders-reach-out-to-protect-the-health-of-the-elderly-with-the-move-to-level-3
-title: "A Call For New Zealanders - Reach Out To Protect The Health Of The Elderly With The Move To Level 3"
-date: 2021-09-01
-source-url: https://www.scoop.co.nz/stories/GE2109/S00002/a-call-for-new-zealanders-reach-out-to-protect-the-health-of-the-elderly-with-the-move-to-level-3.htm
+slug: >-
+  a-call-for-new-zealanders-reach-out-to-protect-the-health-of-the-elderly-with-the-move-to-level-3
+title: >-
+  A Call For New Zealanders - Reach Out To Protect The Health Of The Elderly
+  With The Move To Level 3
+date: 2021-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2109/S00002/a-call-for-new-zealanders-reach-out-to-protect-the-health-of-the-elderly-with-the-move-to-level-3.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/09/01/a-call-for-new-zealanders-reach-out-to-protect-the-health-of-the-elderly-with-the-move-to-level-3/index.html
+layout: layout.njk
 ---
 A Call For New Zealanders - Reach Out To Protect The Health Of The Elderly With The Move To Level 3
 ===================================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-moves-ahead-with-renewed-vigour-and-confidence
-title: "Lincoln moves ahead with renewed vigour and confidence"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/ED1703/S00005/lincoln-moves-ahead-with-renewed-vigour-and-confidence.htm
+title: Lincoln moves ahead with renewed vigour and confidence
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00005/lincoln-moves-ahead-with-renewed-vigour-and-confidence.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/03/01/lincoln-moves-ahead-with-renewed-vigour-and-confidence/index.html
+layout: layout.njk
 ---
 Lincoln moves ahead with renewed vigour and confidence
 ======================================================

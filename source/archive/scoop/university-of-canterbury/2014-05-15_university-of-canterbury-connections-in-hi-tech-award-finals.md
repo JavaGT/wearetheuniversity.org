@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-connections-in-hi-tech-award-finals
-title: "University of Canterbury connections in Hi Tech award finals"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00075/university-of-canterbury-connections-in-hi-tech-award-finals.htm
+title: University of Canterbury connections in Hi Tech award finals
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00075/university-of-canterbury-connections-in-hi-tech-award-finals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/15/university-of-canterbury-connections-in-hi-tech-award-finals/index.html
+layout: layout.njk
 ---
 University of Canterbury connections in Hi Tech award finals
 ============================================================

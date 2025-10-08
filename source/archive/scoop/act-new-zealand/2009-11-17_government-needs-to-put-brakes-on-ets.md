@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-put-brakes-on-ets
-title: "Government Needs To Put Brakes On ETS"
-date: 2009-11-17
-source-url: https://www.scoop.co.nz/stories/PA0911/S00204/government-needs-to-put-brakes-on-ets.htm
+title: Government Needs To Put Brakes On ETS
+date: 2009-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00204/government-needs-to-put-brakes-on-ets.htm
 author: act-new-zealand
+permalink: /archive/2009/11/17/government-needs-to-put-brakes-on-ets/index.html
+layout: layout.njk
 ---
 Government Needs To Put Brakes On ETS
 =====================================

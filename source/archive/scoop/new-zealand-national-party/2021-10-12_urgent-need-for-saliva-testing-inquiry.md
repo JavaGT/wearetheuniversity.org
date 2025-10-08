@@ -1,9 +1,12 @@
 ---
 slug: urgent-need-for-saliva-testing-inquiry
-title: "Urgent Need For Saliva Testing Inquiry"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/PA2110/S00116/urgent-need-for-saliva-testing-inquiry.htm
+title: Urgent Need For Saliva Testing Inquiry
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00116/urgent-need-for-saliva-testing-inquiry.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/12/urgent-need-for-saliva-testing-inquiry/index.html
+layout: layout.njk
 ---
 Urgent Need For Saliva Testing Inquiry
 ======================================

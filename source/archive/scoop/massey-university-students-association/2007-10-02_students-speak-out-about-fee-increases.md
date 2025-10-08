@@ -1,9 +1,12 @@
 ---
 slug: students-speak-out-about-fee-increases
-title: "Students speak out about fee increases"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/ED0710/S00010/students-speak-out-about-fee-increases.htm
+title: Students speak out about fee increases
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00010/students-speak-out-about-fee-increases.htm
 author: massey-university-students-association
+permalink: /archive/2007/10/02/students-speak-out-about-fee-increases/index.html
+layout: layout.njk
 ---
 Students speak out about fee increases
 ======================================

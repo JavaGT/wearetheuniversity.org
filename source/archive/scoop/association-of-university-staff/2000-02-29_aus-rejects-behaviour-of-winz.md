@@ -1,9 +1,12 @@
 ---
 slug: aus-rejects-behaviour-of-winz
-title: "AUS rejects Behaviour of WINZ"
-date: 2000-02-29
-source-url: https://www.scoop.co.nz/stories/ED0002/S00042/aus-rejects-behaviour-of-winz.htm
+title: AUS rejects Behaviour of WINZ
+date: 2000-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00042/aus-rejects-behaviour-of-winz.htm
 author: association-of-university-staff
+permalink: /archive/2000/02/29/aus-rejects-behaviour-of-winz/index.html
+layout: layout.njk
 ---
 AUS rejects Behaviour of WINZ
 =============================

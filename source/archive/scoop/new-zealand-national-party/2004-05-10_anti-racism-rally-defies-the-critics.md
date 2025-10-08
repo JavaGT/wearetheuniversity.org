@@ -1,9 +1,12 @@
 ---
 slug: anti-racism-rally-defies-the-critics
-title: "Anti-racism rally defies the critics"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00149/anti-racism-rally-defies-the-critics.htm
+title: Anti-racism rally defies the critics
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00149/anti-racism-rally-defies-the-critics.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/10/anti-racism-rally-defies-the-critics/index.html
+layout: layout.njk
 ---
 Anti-racism rally defies the critics
 ====================================

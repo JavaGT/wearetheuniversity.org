@@ -1,9 +1,12 @@
 ---
 slug: impact-of-emerging-coms-technologies-examined
-title: "Impact of emerging coms technologies examined"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/ED0505/S00129/impact-of-emerging-coms-technologies-examined.htm
+title: Impact of emerging coms technologies examined
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00129/impact-of-emerging-coms-technologies-examined.htm
 author: university-of-otago
+permalink: /archive/2005/05/30/impact-of-emerging-coms-technologies-examined/index.html
+layout: layout.njk
 ---
 Impact of emerging coms technologies examined
 =============================================

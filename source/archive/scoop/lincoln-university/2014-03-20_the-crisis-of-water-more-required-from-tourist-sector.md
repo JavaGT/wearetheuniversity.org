@@ -1,9 +1,13 @@
 ---
 slug: the-crisis-of-water-more-required-from-tourist-sector
-title: "The crisis of water: More required from tourist sector"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/ED1403/S00117/the-crisis-of-water-more-required-from-tourist-sector.htm
+title: 'The crisis of water: More required from tourist sector'
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00117/the-crisis-of-water-more-required-from-tourist-sector.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/03/20/the-crisis-of-water-more-required-from-tourist-sector/index.html
+layout: layout.njk
 ---
 The crisis of water: More required from tourist sector
 ======================================================

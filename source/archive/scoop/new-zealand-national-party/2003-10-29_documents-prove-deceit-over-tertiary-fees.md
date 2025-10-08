@@ -1,9 +1,12 @@
 ---
 slug: documents-prove-deceit-over-tertiary-fees
-title: "Documents prove deceit over tertiary fees"
-date: 2003-10-29
-source-url: https://www.scoop.co.nz/stories/PA0310/S00662/documents-prove-deceit-over-tertiary-fees.htm
+title: Documents prove deceit over tertiary fees
+date: 2003-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00662/documents-prove-deceit-over-tertiary-fees.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/29/documents-prove-deceit-over-tertiary-fees/index.html
+layout: layout.njk
 ---
 Documents prove deceit over tertiary fees
 =========================================

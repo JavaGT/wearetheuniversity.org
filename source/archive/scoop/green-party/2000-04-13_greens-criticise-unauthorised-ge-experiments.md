@@ -1,9 +1,12 @@
 ---
 slug: greens-criticise-unauthorised-ge-experiments
-title: "Greens criticise unauthorised GE experiments"
-date: 2000-04-13
-source-url: https://www.scoop.co.nz/stories/PA0004/S00186/greens-criticise-unauthorised-ge-experiments.htm
+title: Greens criticise unauthorised GE experiments
+date: 2000-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00186/greens-criticise-unauthorised-ge-experiments.htm
 author: green-party
+permalink: /archive/2000/04/13/greens-criticise-unauthorised-ge-experiments/index.html
+layout: layout.njk
 ---
 Greens criticise unauthorised GE experiments
 ============================================

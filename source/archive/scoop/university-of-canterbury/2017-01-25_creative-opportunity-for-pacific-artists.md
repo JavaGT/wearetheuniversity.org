@@ -1,9 +1,12 @@
 ---
 slug: creative-opportunity-for-pacific-artists
-title: "Creative opportunity for Pacific artists"
-date: 2017-01-25
-source-url: https://www.scoop.co.nz/stories/ED1701/S00040/creative-opportunity-for-pacific-artists.htm
+title: Creative opportunity for Pacific artists
+date: 2017-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00040/creative-opportunity-for-pacific-artists.htm
 author: university-of-canterbury
+permalink: /archive/2017/01/25/creative-opportunity-for-pacific-artists/index.html
+layout: layout.njk
 ---
 Creative opportunity for Pacific artists
 ========================================

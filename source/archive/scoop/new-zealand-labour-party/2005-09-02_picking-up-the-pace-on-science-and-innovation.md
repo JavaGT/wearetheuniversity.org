@@ -1,9 +1,12 @@
 ---
 slug: picking-up-the-pace-on-science-and-innovation
-title: "Picking up the pace on science and innovation"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00048/picking-up-the-pace-on-science-and-innovation.htm
+title: Picking up the pace on science and innovation
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00048/picking-up-the-pace-on-science-and-innovation.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/02/picking-up-the-pace-on-science-and-innovation/index.html
+layout: layout.njk
 ---
 Picking up the pace on science and innovation
 =============================================

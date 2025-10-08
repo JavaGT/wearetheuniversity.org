@@ -1,9 +1,12 @@
 ---
 slug: otago-secures-major-marsden-funding
-title: "Otago secures major Marsden funding"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/ED0709/S00021/otago-secures-major-marsden-funding.htm
+title: Otago secures major Marsden funding
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00021/otago-secures-major-marsden-funding.htm
 author: university-of-otago
+permalink: /archive/2007/09/06/otago-secures-major-marsden-funding/index.html
+layout: layout.njk
 ---
 Otago secures major Marsden funding
 ===================================

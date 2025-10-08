@@ -1,9 +1,12 @@
 ---
 slug: govts-credibility-gap-on-the-economy
-title: "Govt's credibility gap on the economy"
-date: 2019-02-08
-source-url: https://www.scoop.co.nz/stories/PA1902/S00061/govts-credibility-gap-on-the-economy.htm
+title: Govt's credibility gap on the economy
+date: 2019-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00061/govts-credibility-gap-on-the-economy.htm
 author: act-new-zealand
+permalink: /archive/2019/02/08/govts-credibility-gap-on-the-economy/index.html
+layout: layout.njk
 ---
 Govt's credibility gap on the economy
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: hidden-costs-of-sex
-title: "Hidden costs of sex"
-date: 2005-03-31
+title: Hidden costs of sex
+date: 2005-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0503/S00081/hidden-costs-of-sex.htm
 author: auckland-university
+permalink: /archive/2005/03/31/hidden-costs-of-sex/index.html
+layout: layout.njk
 ---
 Hidden costs of sex
 ===================

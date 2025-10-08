@@ -1,9 +1,13 @@
 ---
 slug: chinese-kiwis-defend-new-zealand-on-social-media
-title: "Chinese Kiwis defend New Zealand on social media"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/PO1308/S00226/chinese-kiwis-defend-new-zealand-on-social-media.htm
+title: Chinese Kiwis defend New Zealand on social media
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00226/chinese-kiwis-defend-new-zealand-on-social-media.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/15/chinese-kiwis-defend-new-zealand-on-social-media/index.html
+layout: layout.njk
 ---
 Chinese Kiwis defend New Zealand on social media
 ================================================

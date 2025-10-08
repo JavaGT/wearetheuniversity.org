@@ -1,9 +1,12 @@
 ---
 slug: pioneering-mental-health-care-in-gp-clinic
-title: "Pioneering mental health care in GP clinic"
-date: 2018-08-06
-source-url: https://www.scoop.co.nz/stories/GE1808/S00014/pioneering-mental-health-care-in-gp-clinic.htm
+title: Pioneering mental health care in GP clinic
+date: 2018-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00014/pioneering-mental-health-care-in-gp-clinic.htm
 author: massey-university
+permalink: /archive/2018/08/06/pioneering-mental-health-care-in-gp-clinic/index.html
+layout: layout.njk
 ---
 Pioneering mental health care in GP clinic
 ==========================================

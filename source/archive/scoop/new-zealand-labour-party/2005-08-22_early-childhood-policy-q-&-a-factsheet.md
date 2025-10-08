@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-policy-q-&-a-factsheet
-title: "Early Childhood Policy, Q & A, Factsheet"
-date: 2005-08-22
-source-url: https://www.scoop.co.nz/stories/PA0508/S00544/early-childhood-policy-q-a-factsheet.htm
+title: Early Childhood Policy, Q & A, Factsheet
+date: 2005-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00544/early-childhood-policy-q-a-factsheet.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/22/early-childhood-policy-q-/index.html
+layout: layout.njk
 ---
 Early Childhood Policy, Q & A, Factsheet
 ========================================

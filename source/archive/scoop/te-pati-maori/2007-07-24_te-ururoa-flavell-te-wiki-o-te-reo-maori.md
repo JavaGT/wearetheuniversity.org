@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-te-wiki-o-te-reo-maori
-title: "Te Ururoa Flavell - Te Wiki o te Reo Maori"
-date: 2007-07-24
-source-url: https://www.scoop.co.nz/stories/PA0707/S00379/te-ururoa-flavell-te-wiki-o-te-reo-maori.htm
+title: Te Ururoa Flavell - Te Wiki o te Reo Maori
+date: 2007-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00379/te-ururoa-flavell-te-wiki-o-te-reo-maori.htm
 author: te-pati-maori
+permalink: /archive/2007/07/24/te-ururoa-flavell-te-wiki-o-te-reo-maori/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Te Wiki o te Reo Maori
 ==========================================

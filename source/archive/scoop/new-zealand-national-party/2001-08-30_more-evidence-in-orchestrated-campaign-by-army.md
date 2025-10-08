@@ -1,9 +1,12 @@
 ---
 slug: more-evidence-in-orchestrated-campaign-by-army
-title: "More Evidence In Orchestrated Campaign By Army"
-date: 2001-08-30
-source-url: https://www.scoop.co.nz/stories/PA0108/S00574/more-evidence-in-orchestrated-campaign-by-army.htm
+title: More Evidence In Orchestrated Campaign By Army
+date: 2001-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00574/more-evidence-in-orchestrated-campaign-by-army.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/30/more-evidence-in-orchestrated-campaign-by-army/index.html
+layout: layout.njk
 ---
 More Evidence In Orchestrated Campaign By Army
 ==============================================

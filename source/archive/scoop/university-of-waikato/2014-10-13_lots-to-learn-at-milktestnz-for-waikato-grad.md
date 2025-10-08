@@ -1,9 +1,12 @@
 ---
 slug: lots-to-learn-at-milktestnz-for-waikato-grad
-title: "Lots to learn at MilkTestNZ for Waikato grad"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/ED1410/S00074/lots-to-learn-at-milktestnz-for-waikato-grad.htm
+title: Lots to learn at MilkTestNZ for Waikato grad
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00074/lots-to-learn-at-milktestnz-for-waikato-grad.htm
 author: university-of-waikato
+permalink: /archive/2014/10/13/lots-to-learn-at-milktestnz-for-waikato-grad/index.html
+layout: layout.njk
 ---
 Lots to learn at MilkTestNZ for Waikato grad
 ============================================

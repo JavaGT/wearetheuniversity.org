@@ -1,9 +1,12 @@
 ---
 slug: improving-prepayment-electricity-schemes
-title: "Improving prepayment electricity schemes"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/BU1407/S00676/improving-prepayment-electricity-schemes.htm
+title: Improving prepayment electricity schemes
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1407/S00676/improving-prepayment-electricity-schemes.htm
 author: university-of-otago
+permalink: /archive/2014/07/21/improving-prepayment-electricity-schemes/index.html
+layout: layout.njk
 ---
 Improving prepayment electricity schemes
 ========================================

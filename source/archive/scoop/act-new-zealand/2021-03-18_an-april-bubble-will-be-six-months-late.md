@@ -1,9 +1,12 @@
 ---
 slug: an-april-bubble-will-be-six-months-late
-title: "An April Bubble Will Be Six Months Late"
-date: 2021-03-18
-source-url: https://www.scoop.co.nz/stories/PA2103/S00131/an-april-bubble-will-be-six-months-late.htm
+title: An April Bubble Will Be Six Months Late
+date: 2021-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00131/an-april-bubble-will-be-six-months-late.htm
 author: act-new-zealand
+permalink: /archive/2021/03/18/an-april-bubble-will-be-six-months-late/index.html
+layout: layout.njk
 ---
 An April Bubble Will Be Six Months Late
 =======================================

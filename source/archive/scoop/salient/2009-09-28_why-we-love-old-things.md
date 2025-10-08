@@ -1,9 +1,11 @@
 ---
 slug: why-we-love-old-things
-title: "Why we love old things"
-date: 2009-09-28
+title: Why we love old things
+date: 2009-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0909/S00247/why-we-love-old-things.htm
 author: salient
+permalink: /archive/2009/09/28/why-we-love-old-things/index.html
+layout: layout.njk
 ---
 Why we love old things
 ======================

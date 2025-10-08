@@ -1,9 +1,13 @@
 ---
 slug: new-book-offers-unique-insight-into-new-zealand-philosopher
-title: "New book offers unique insight into New Zealand philosopher"
-date: 2018-11-12
-source-url: https://www.scoop.co.nz/stories/CU1811/S00124/new-book-offers-unique-insight-into-new-zealand-philosopher.htm
+title: New book offers unique insight into New Zealand philosopher
+date: 2018-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1811/S00124/new-book-offers-unique-insight-into-new-zealand-philosopher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/11/12/new-book-offers-unique-insight-into-new-zealand-philosopher/index.html
+layout: layout.njk
 ---
 New book offers unique insight into New Zealand philosopher
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-speech-rotorua-energy-centre
-title: "Te Ururoa Flavell Speech:  Rotorua Energy Centre"
-date: 2011-09-20
-source-url: https://www.scoop.co.nz/stories/PA1109/S00377/te-ururoa-flavell-speech-rotorua-energy-centre.htm
+title: 'Te Ururoa Flavell Speech:  Rotorua Energy Centre'
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00377/te-ururoa-flavell-speech-rotorua-energy-centre.htm
 author: te-pati-maori
+permalink: /archive/2011/09/20/te-ururoa-flavell-speech-rotorua-energy-centre/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Speech: Rotorua Energy Centre
 ===============================================

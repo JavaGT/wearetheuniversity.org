@@ -1,9 +1,13 @@
 ---
 slug: researcher-looking-at-post-earthquake-legal-headaches
-title: "Researcher looking at post-earthquake legal headaches"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/AK1306/S00348/researcher-looking-at-post-earthquake-legal-headaches.htm
+title: Researcher looking at post-earthquake legal headaches
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00348/researcher-looking-at-post-earthquake-legal-headaches.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/17/researcher-looking-at-post-earthquake-legal-headaches/index.html
+layout: layout.njk
 ---
 Researcher looking at post-earthquake legal headaches
 =====================================================

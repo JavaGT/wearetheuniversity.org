@@ -1,9 +1,12 @@
 ---
 slug: students-want-return-from-3-4%-fee-increase
-title: "Students Want Return From 3.4% Fee Increase"
-date: 2003-10-29
-source-url: https://www.scoop.co.nz/stories/ED0310/S00109/students-want-return-from-34-fee-increase.htm
+title: Students Want Return From 3.4% Fee Increase
+date: 2003-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00109/students-want-return-from-34-fee-increase.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/10/29/students-want-return-from-3-4/index.html
+layout: layout.njk
 ---
 Students Want Return From 3.4% Fee Increase
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: key-north-shore-national-party-luncheon
-title: "Key: North Shore National Party luncheon"
-date: 2006-11-28
-source-url: https://www.scoop.co.nz/stories/PA0611/S00538/key-north-shore-national-party-luncheon.htm
+title: 'Key: North Shore National Party luncheon'
+date: 2006-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00538/key-north-shore-national-party-luncheon.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/28/key-north-shore-national-party-luncheon/index.html
+layout: layout.njk
 ---
 Key: North Shore National Party luncheon
 ========================================

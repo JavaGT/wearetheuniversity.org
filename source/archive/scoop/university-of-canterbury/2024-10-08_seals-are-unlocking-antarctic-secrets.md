@@ -1,9 +1,12 @@
 ---
 slug: seals-are-unlocking-antarctic-secrets
-title: "Seals Are Unlocking Antarctic Secrets"
-date: 2024-10-08
-source-url: https://www.scoop.co.nz/stories/SC2410/S00015/seals-are-unlocking-antarctic-secrets.htm
+title: Seals Are Unlocking Antarctic Secrets
+date: 2024-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2410/S00015/seals-are-unlocking-antarctic-secrets.htm
 author: university-of-canterbury
+permalink: /archive/2024/10/08/seals-are-unlocking-antarctic-secrets/index.html
+layout: layout.njk
 ---
 Seals Are Unlocking Antarctic Secrets
 =====================================

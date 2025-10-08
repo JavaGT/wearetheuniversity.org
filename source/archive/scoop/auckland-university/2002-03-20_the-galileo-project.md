@@ -1,9 +1,11 @@
 ---
 slug: the-galileo-project
-title: "The Galileo Project"
-date: 2002-03-20
+title: The Galileo Project
+date: 2002-03-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0203/S00039/the-galileo-project.htm
 author: auckland-university
+permalink: /archive/2002/03/20/the-galileo-project/index.html
+layout: layout.njk
 ---
 The Galileo Project
 ===================

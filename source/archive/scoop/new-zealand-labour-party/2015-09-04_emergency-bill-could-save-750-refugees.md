@@ -1,9 +1,12 @@
 ---
 slug: emergency-bill-could-save-750-refugees
-title: "Emergency bill could save 750 refugees"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/PA1509/S00086/emergency-bill-could-save-750-refugees.htm
+title: Emergency bill could save 750 refugees
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00086/emergency-bill-could-save-750-refugees.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/04/emergency-bill-could-save-750-refugees/index.html
+layout: layout.njk
 ---
 Emergency bill could save 750 refugees
 ======================================

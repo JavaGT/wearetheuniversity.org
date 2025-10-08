@@ -1,9 +1,12 @@
 ---
 slug: professor-of-fine-arts-wins-prestigious-award
-title: "Professor of Fine Arts wins prestigious award"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/SC0808/S00074/professor-of-fine-arts-wins-prestigious-award.htm
+title: Professor of Fine Arts wins prestigious award
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0808/S00074/professor-of-fine-arts-wins-prestigious-award.htm
 author: massey-university
+permalink: /archive/2008/08/28/professor-of-fine-arts-wins-prestigious-award/index.html
+layout: layout.njk
 ---
 Professor of Fine Arts wins prestigious award
 =============================================

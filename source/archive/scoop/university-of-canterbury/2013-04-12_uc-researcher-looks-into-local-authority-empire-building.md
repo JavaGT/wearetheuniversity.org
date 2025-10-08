@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-looks-into-local-authority-empire-building
-title: "UC Researcher Looks Into Local Authority Empire Building"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00073/uc-researcher-looks-into-local-authority-empire-building.htm
+title: UC Researcher Looks Into Local Authority Empire Building
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00073/uc-researcher-looks-into-local-authority-empire-building.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/12/uc-researcher-looks-into-local-authority-empire-building/index.html
+layout: layout.njk
 ---
 UC Researcher Looks Into Local Authority Empire Building
 ========================================================

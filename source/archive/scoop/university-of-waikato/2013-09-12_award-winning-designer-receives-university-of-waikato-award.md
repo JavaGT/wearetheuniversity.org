@@ -1,9 +1,13 @@
 ---
 slug: award-winning-designer-receives-university-of-waikato-award
-title: "Award-winning designer receives University of Waikato award"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/ED1309/S00071/award-winning-designer-receives-university-of-waikato-award.htm
+title: Award-winning designer receives University of Waikato award
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00071/award-winning-designer-receives-university-of-waikato-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/12/award-winning-designer-receives-university-of-waikato-award/index.html
+layout: layout.njk
 ---
 Award-winning designer receives University of Waikato award
 ===========================================================

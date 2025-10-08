@@ -1,9 +1,12 @@
 ---
 slug: national-researchers-and-clinicians-symposium
-title: "National researchers and clinicians symposium"
-date: 2004-02-26
-source-url: https://www.scoop.co.nz/stories/ED0402/S00081/national-researchers-and-clinicians-symposium.htm
+title: National researchers and clinicians symposium
+date: 2004-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00081/national-researchers-and-clinicians-symposium.htm
 author: auckland-university
+permalink: /archive/2004/02/26/national-researchers-and-clinicians-symposium/index.html
+layout: layout.njk
 ---
 National researchers and clinicians symposium
 =============================================

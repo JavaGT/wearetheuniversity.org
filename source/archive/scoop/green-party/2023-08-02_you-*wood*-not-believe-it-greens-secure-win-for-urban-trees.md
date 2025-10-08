@@ -1,9 +1,12 @@
 ---
 slug: you-*wood*-not-believe-it-greens-secure-win-for-urban-trees
-title: "You *wood* Not Believe It: Greens Secure Win For Urban Trees"
-date: 2023-08-02
-source-url: https://www.scoop.co.nz/stories/PA2308/S00007/you-wood-not-believe-it-greens-secure-win-for-urban-trees.htm
+title: 'You *wood* Not Believe It: Greens Secure Win For Urban Trees'
+date: 2023-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00007/you-wood-not-believe-it-greens-secure-win-for-urban-trees.htm
 author: green-party
+permalink: /archive/2023/08/02/you-/index.html
+layout: layout.njk
 ---
 You \*wood\* Not Believe It: Greens Secure Win For Urban Trees
 ==============================================================

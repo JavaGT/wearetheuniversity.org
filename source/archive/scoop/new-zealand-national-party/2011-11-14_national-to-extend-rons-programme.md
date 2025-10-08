@@ -1,9 +1,12 @@
 ---
 slug: national-to-extend-rons-programme
-title: "National to extend RONS programme"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/PA1111/S00268/national-to-extend-rons-programme.htm
+title: National to extend RONS programme
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00268/national-to-extend-rons-programme.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/14/national-to-extend-rons-programme/index.html
+layout: layout.njk
 ---
 National to extend RONS programme
 =================================

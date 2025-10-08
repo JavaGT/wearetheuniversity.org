@@ -1,9 +1,12 @@
 ---
 slug: volunteer-work-leads-to-a-new-career-direction
-title: "Volunteer work leads to a new career direction"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/ED1204/S00072/volunteer-work-leads-to-a-new-career-direction.htm
+title: Volunteer work leads to a new career direction
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00072/volunteer-work-leads-to-a-new-career-direction.htm
 author: waikato-university
+permalink: /archive/2012/04/19/volunteer-work-leads-to-a-new-career-direction/index.html
+layout: layout.njk
 ---
 Volunteer work leads to a new career direction
 ==============================================

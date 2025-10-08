@@ -1,9 +1,12 @@
 ---
 slug: honesty-no-longer-the-policy-of-the-police
-title: "Honesty No Longer The Policy Of The Police?"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/PA0305/S00536/honesty-no-longer-the-policy-of-the-police.htm
+title: Honesty No Longer The Policy Of The Police?
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00536/honesty-no-longer-the-policy-of-the-police.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/21/honesty-no-longer-the-policy-of-the-police/index.html
+layout: layout.njk
 ---
 Honesty No Longer The Policy Of The Police?
 ===========================================

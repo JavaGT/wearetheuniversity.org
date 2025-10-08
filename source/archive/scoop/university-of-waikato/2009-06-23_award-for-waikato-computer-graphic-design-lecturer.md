@@ -1,9 +1,13 @@
 ---
 slug: award-for-waikato-computer-graphic-design-lecturer
-title: "Award for Waikato computer graphic design lecturer"
-date: 2009-06-23
-source-url: https://www.scoop.co.nz/stories/ED0906/S00066/award-for-waikato-computer-graphic-design-lecturer.htm
+title: Award for Waikato computer graphic design lecturer
+date: 2009-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00066/award-for-waikato-computer-graphic-design-lecturer.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/06/23/award-for-waikato-computer-graphic-design-lecturer/index.html
+layout: layout.njk
 ---
 Award for Waikato computer graphic design lecturer
 ==================================================

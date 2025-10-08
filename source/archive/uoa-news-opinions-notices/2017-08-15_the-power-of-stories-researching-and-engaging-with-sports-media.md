@@ -1,8 +1,12 @@
 ---
 slug: the-power-of-stories-researching-and-engaging-with-sports-media
-title: "The Power of stories: Researching and Engaging with Sports Media"
-date: 2017-08-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/the-power-of-stories--researching-and-engaging-with-sports-media.html
+title: 'The Power of stories: Researching and Engaging with Sports Media'
+date: 2017-08-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/the-power-of-stories--researching-and-engaging-with-sports-media.html
+permalink: >-
+  /archive/2017/08/15/the-power-of-stories-researching-and-engaging-with-sports-media/index.html
+layout: layout.njk
 ---
 The Power of stories: Researching and Engaging with Sports Media
 ================================================================

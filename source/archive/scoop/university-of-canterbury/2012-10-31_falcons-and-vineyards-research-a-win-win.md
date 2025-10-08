@@ -1,9 +1,12 @@
 ---
 slug: falcons-and-vineyards-research-a-win-win
-title: "Falcons and vineyards research a win-win"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/SC1210/S00059/falcons-and-vineyards-research-a-win-win.htm
+title: Falcons and vineyards research a win-win
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00059/falcons-and-vineyards-research-a-win-win.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/31/falcons-and-vineyards-research-a-win-win/index.html
+layout: layout.njk
 ---
 Falcons and vineyards research a win-win
 ========================================

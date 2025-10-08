@@ -1,9 +1,13 @@
 ---
 slug: govt-closing-the-doors-on-380-traumatised-children
-title: "Govt closing the doors on 380 traumatised children"
-date: 2018-05-10
-source-url: https://www.scoop.co.nz/stories/PA1805/S00120/govt-closing-the-doors-on-380-traumatised-children.htm
+title: Govt closing the doors on 380 traumatised children
+date: 2018-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00120/govt-closing-the-doors-on-380-traumatised-children.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/05/10/govt-closing-the-doors-on-380-traumatised-children/index.html
+layout: layout.njk
 ---
 Govt closing the doors on 380 traumatised children
 ==================================================

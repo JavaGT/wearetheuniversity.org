@@ -1,9 +1,12 @@
 ---
 slug: cullen-fund-gambles-on-proven-loser
-title: "Cullen Fund gambles on proven loser"
-date: 2003-04-16
-source-url: https://www.scoop.co.nz/stories/PA0304/S00346/cullen-fund-gambles-on-proven-loser.htm
+title: Cullen Fund gambles on proven loser
+date: 2003-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00346/cullen-fund-gambles-on-proven-loser.htm
 author: green-party
+permalink: /archive/2003/04/16/cullen-fund-gambles-on-proven-loser/index.html
+layout: layout.njk
 ---
 Cullen Fund gambles on proven loser
 ===================================

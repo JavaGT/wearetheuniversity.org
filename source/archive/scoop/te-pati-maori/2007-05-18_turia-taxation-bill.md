@@ -1,9 +1,11 @@
 ---
 slug: turia-taxation-bill
-title: "Turia - Taxation Bill"
-date: 2007-05-18
+title: Turia - Taxation Bill
+date: 2007-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00491/turia-taxation-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/05/18/turia-taxation-bill/index.html
+layout: layout.njk
 ---
 Turia - Taxation Bill
 =====================

@@ -1,9 +1,13 @@
 ---
 slug: unemployed-kiwi-youth-rate-no-cause-for-celebration
-title: "Unemployed Kiwi youth rate no cause for celebration"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/PA1305/S00150/unemployed-kiwi-youth-rate-no-cause-for-celebration.htm
+title: Unemployed Kiwi youth rate no cause for celebration
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00150/unemployed-kiwi-youth-rate-no-cause-for-celebration.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/09/unemployed-kiwi-youth-rate-no-cause-for-celebration/index.html
+layout: layout.njk
 ---
 Unemployed Kiwi youth rate no cause for celebration
 ===================================================

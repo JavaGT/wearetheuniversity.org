@@ -1,9 +1,12 @@
 ---
 slug: the-straight-right-20th-september-2002
-title: "The Straight Right - 20th September 2002"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/PA0209/S00376/the-straight-right-20th-september-2002.htm
+title: The Straight Right - 20th September 2002
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00376/the-straight-right-20th-september-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/23/the-straight-right-20th-september-2002/index.html
+layout: layout.njk
 ---
 The Straight Right - 20th September 2002
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-makes-plea-for-global-food-security
-title: "UC Researcher Makes Plea For Global Food Security"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00039/uc-researcher-makes-plea-for-global-food-security.htm
+title: UC Researcher Makes Plea For Global Food Security
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00039/uc-researcher-makes-plea-for-global-food-security.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/07/uc-researcher-makes-plea-for-global-food-security/index.html
+layout: layout.njk
 ---
 UC Researcher Makes Plea For Global Food Security
 =================================================

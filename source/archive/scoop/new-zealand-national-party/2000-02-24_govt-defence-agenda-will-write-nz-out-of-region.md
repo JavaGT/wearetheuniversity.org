@@ -1,9 +1,12 @@
 ---
 slug: govt-defence-agenda-will-write-nz-out-of-region
-title: "Govt defence agenda will write NZ out of region"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/PA0002/S00331/govt-defence-agenda-will-write-nz-out-of-region.htm
+title: Govt defence agenda will write NZ out of region
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00331/govt-defence-agenda-will-write-nz-out-of-region.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/24/govt-defence-agenda-will-write-nz-out-of-region/index.html
+layout: layout.njk
 ---
 Govt defence agenda will write NZ out of region
 ===============================================

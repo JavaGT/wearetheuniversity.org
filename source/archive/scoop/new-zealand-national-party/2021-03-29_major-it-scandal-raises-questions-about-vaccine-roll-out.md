@@ -1,9 +1,13 @@
 ---
 slug: major-it-scandal-raises-questions-about-vaccine-roll-out
-title: "Major IT Scandal Raises Questions About Vaccine Roll Out"
-date: 2021-03-29
-source-url: https://www.scoop.co.nz/stories/PA2103/S00221/major-it-scandal-raises-questions-about-vaccine-roll-out.htm
+title: Major IT Scandal Raises Questions About Vaccine Roll Out
+date: 2021-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00221/major-it-scandal-raises-questions-about-vaccine-roll-out.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/03/29/major-it-scandal-raises-questions-about-vaccine-roll-out/index.html
+layout: layout.njk
 ---
 Major IT Scandal Raises Questions About Vaccine Roll Out
 ========================================================

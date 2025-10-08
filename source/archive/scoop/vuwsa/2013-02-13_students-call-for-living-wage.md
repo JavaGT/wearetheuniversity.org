@@ -1,9 +1,12 @@
 ---
 slug: students-call-for-living-wage
-title: "Students call for Living Wage"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PO1302/S00114/students-call-for-living-wage.htm
+title: Students call for Living Wage
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00114/students-call-for-living-wage.htm
 author: vuwsa
+permalink: /archive/2013/02/13/students-call-for-living-wage/index.html
+layout: layout.njk
 ---
 Students call for Living Wage
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: dams-could-be-sold-under-partial-privatisation
-title: "Dams could be sold under partial privatisation"
-date: 2012-02-29
-source-url: https://www.scoop.co.nz/stories/PA1202/S00336/dams-could-be-sold-under-partial-privatisation.htm
+title: Dams could be sold under partial privatisation
+date: 2012-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00336/dams-could-be-sold-under-partial-privatisation.htm
 author: green-party
+permalink: /archive/2012/02/29/dams-could-be-sold-under-partial-privatisation/index.html
+layout: layout.njk
 ---
 Dams could be sold under partial privatisation
 ==============================================

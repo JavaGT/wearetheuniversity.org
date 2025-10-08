@@ -1,9 +1,16 @@
 ---
-slug: student-volunteer-army-to-expand-into-other-regions-with-the-supportof-hyundai-new-zealand
-title: "Student Volunteer Army To Expand Into Other Regions With The SupportOf Hyundai New Zealand"
-date: 2020-04-12
-source-url: https://www.scoop.co.nz/stories/AK2004/S00275/student-volunteer-army-to-expand-into-other-regions-with-the-supportof-hyundai-new-zealand.htm
+slug: >-
+  student-volunteer-army-to-expand-into-other-regions-with-the-supportof-hyundai-new-zealand
+title: >-
+  Student Volunteer Army To Expand Into Other Regions With The SupportOf Hyundai
+  New Zealand
+date: 2020-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2004/S00275/student-volunteer-army-to-expand-into-other-regions-with-the-supportof-hyundai-new-zealand.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2020/04/12/student-volunteer-army-to-expand-into-other-regions-with-the-supportof-hyundai-new-zealand/index.html
+layout: layout.njk
 ---
 Student Volunteer Army To Expand Into Other Regions With The SupportOf Hyundai New Zealand
 ==========================================================================================

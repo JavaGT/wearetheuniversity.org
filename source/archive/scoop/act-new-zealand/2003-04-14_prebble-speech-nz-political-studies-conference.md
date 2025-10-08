@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-nz-political-studies-conference
-title: "Prebble Speech NZ Political Studies Conference"
-date: 2003-04-14
-source-url: https://www.scoop.co.nz/stories/PA0304/S00265/prebble-speech-nz-political-studies-conference.htm
+title: Prebble Speech NZ Political Studies Conference
+date: 2003-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00265/prebble-speech-nz-political-studies-conference.htm
 author: act-new-zealand
+permalink: /archive/2003/04/14/prebble-speech-nz-political-studies-conference/index.html
+layout: layout.njk
 ---
 Prebble Speech NZ Political Studies Conference
 ==============================================

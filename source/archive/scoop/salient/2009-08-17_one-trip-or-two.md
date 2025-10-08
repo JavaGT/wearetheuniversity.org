@@ -1,9 +1,11 @@
 ---
 slug: one-trip-or-two
-title: "One trip or two?"
-date: 2009-08-17
+title: One trip or two?
+date: 2009-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0908/S00128/one-trip-or-two.htm
 author: salient
+permalink: /archive/2009/08/17/one-trip-or-two/index.html
+layout: layout.njk
 ---
 One trip or two?
 ================

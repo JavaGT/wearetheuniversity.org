@@ -1,9 +1,12 @@
 ---
 slug: vision-realised-through-gift-to-university
-title: "Vision realised through gift to University"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/ED1411/S00042/vision-realised-through-gift-to-university.htm
+title: Vision realised through gift to University
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00042/vision-realised-through-gift-to-university.htm
 author: lincoln-university
+permalink: /archive/2014/11/06/vision-realised-through-gift-to-university/index.html
+layout: layout.njk
 ---
 Vision realised through gift to University
 ==========================================

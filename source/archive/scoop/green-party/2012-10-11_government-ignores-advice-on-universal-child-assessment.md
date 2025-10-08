@@ -1,9 +1,13 @@
 ---
 slug: government-ignores-advice-on-universal-child-assessment
-title: "Government ignores advice on universal child assessment"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PA1210/S00207/government-ignores-advice-on-universal-child-assessment.htm
+title: Government ignores advice on universal child assessment
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00207/government-ignores-advice-on-universal-child-assessment.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/11/government-ignores-advice-on-universal-child-assessment/index.html
+layout: layout.njk
 ---
 Government ignores advice on universal child assessment
 =======================================================

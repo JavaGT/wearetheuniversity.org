@@ -1,9 +1,13 @@
 ---
 slug: commission-must-think-wider-than-just-electricity
-title: "Commission must think wider than just electricity"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PA0504/S00285/commission-must-think-wider-than-just-electricity.htm
+title: Commission must think wider than just electricity
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00285/commission-must-think-wider-than-just-electricity.htm
 author: green-party
+permalink: >-
+  /archive/2005/04/13/commission-must-think-wider-than-just-electricity/index.html
+layout: layout.njk
 ---
 Commission must think wider than just electricity
 =================================================

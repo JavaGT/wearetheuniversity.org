@@ -1,9 +1,16 @@
 ---
-slug: victoria-university-students-stage-sit-in-on-campus-to-protest-against-investments-in-israel
-title: "Victoria University Students Stage Sit-in On Campus To Protest Against Investments In Israel"
-date: 2024-08-16
-source-url: https://www.scoop.co.nz/stories/ED2408/S00036/victoria-university-students-stage-sit-in-on-campus-to-protest-against-investments-in-israel.htm
+slug: >-
+  victoria-university-students-stage-sit-in-on-campus-to-protest-against-investments-in-israel
+title: >-
+  Victoria University Students Stage Sit-in On Campus To Protest Against
+  Investments In Israel
+date: 2024-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00036/victoria-university-students-stage-sit-in-on-campus-to-protest-against-investments-in-israel.htm
 author: student-justice-for-palestine-poneke
+permalink: >-
+  /archive/2024/08/16/victoria-university-students-stage-sit-in-on-campus-to-protest-against-investments-in-israel/index.html
+layout: layout.njk
 ---
 Victoria University Students Stage Sit-in On Campus To Protest Against Investments In Israel
 ============================================================================================

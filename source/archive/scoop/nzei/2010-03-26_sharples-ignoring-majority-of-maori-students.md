@@ -1,9 +1,12 @@
 ---
 slug: sharples-ignoring-majority-of-maori-students
-title: "Sharples Ignoring Majority of Maori Students"
-date: 2010-03-26
-source-url: https://www.scoop.co.nz/stories/ED1003/S00124/sharples-ignoring-majority-of-maori-students.htm
+title: Sharples Ignoring Majority of Maori Students
+date: 2010-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00124/sharples-ignoring-majority-of-maori-students.htm
 author: nzei
+permalink: /archive/2010/03/26/sharples-ignoring-majority-of-maori-students/index.html
+layout: layout.njk
 ---
 Sharples Ignoring Majority of Maori Students
 ============================================

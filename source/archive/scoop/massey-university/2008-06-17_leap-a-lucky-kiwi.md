@@ -1,9 +1,11 @@
 ---
 slug: leap-a-lucky-kiwi
-title: "Leap a lucky kiwi"
-date: 2008-06-17
+title: Leap a lucky kiwi
+date: 2008-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0806/S00051/leap-a-lucky-kiwi.htm
 author: massey-university
+permalink: /archive/2008/06/17/leap-a-lucky-kiwi/index.html
+layout: layout.njk
 ---
 Leap a lucky kiwi
 =================

@@ -1,9 +1,13 @@
 ---
 slug: marine-protected-areas-not-sufficient-protection
-title: "Marine protected areas not sufficient protection"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/SC0606/S00054/marine-protected-areas-not-sufficient-protection.htm
+title: Marine protected areas not sufficient protection
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00054/marine-protected-areas-not-sufficient-protection.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/06/23/marine-protected-areas-not-sufficient-protection/index.html
+layout: layout.njk
 ---
 Marine protected areas not sufficient protection
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: usp-surges-up-2025-times-higher-education-world-university-rankings
-title: "USP Surges Up 2025 Times Higher Education World University Rankings"
-date: 2024-10-10
-source-url: https://www.scoop.co.nz/stories/WO2410/S00146/usp-surges-up-2025-times-higher-education-world-university-rankings.htm
+title: USP Surges Up 2025 Times Higher Education World University Rankings
+date: 2024-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00146/usp-surges-up-2025-times-higher-education-world-university-rankings.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/10/10/usp-surges-up-2025-times-higher-education-world-university-rankings/index.html
+layout: layout.njk
 ---
 USP Surges Up 2025 Times Higher Education World University Rankings
 ===================================================================

@@ -1,9 +1,13 @@
 ---
 slug: turia-award-ceremony-for-whanau-ora-reo-poster-contest
-title: "Turia: Award Ceremony for Whanau Ora Reo Poster Contest"
-date: 2012-06-22
-source-url: https://www.scoop.co.nz/stories/PA1206/S00345/turia-award-ceremony-for-whanau-ora-reo-poster-contest.htm
+title: 'Turia: Award Ceremony for Whanau Ora Reo Poster Contest'
+date: 2012-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00345/turia-award-ceremony-for-whanau-ora-reo-poster-contest.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/06/22/turia-award-ceremony-for-whanau-ora-reo-poster-contest/index.html
+layout: layout.njk
 ---
 Turia: Award Ceremony for Whanau Ora Reo Poster Contest
 =======================================================

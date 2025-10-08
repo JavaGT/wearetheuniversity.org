@@ -1,9 +1,12 @@
 ---
 slug: green-party-makes-pledge-to-renters
-title: "Green Party Makes Pledge To Renters"
-date: 2023-07-02
-source-url: https://www.scoop.co.nz/stories/PO2307/S00002/green-party-makes-pledge-to-renters.htm
+title: Green Party Makes Pledge To Renters
+date: 2023-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00002/green-party-makes-pledge-to-renters.htm
 author: green-party
+permalink: /archive/2023/07/02/green-party-makes-pledge-to-renters/index.html
+layout: layout.njk
 ---
 Green Party Makes Pledge To Renters
 ===================================

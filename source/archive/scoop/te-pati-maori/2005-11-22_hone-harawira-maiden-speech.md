@@ -1,9 +1,11 @@
 ---
 slug: hone-harawira-maiden-speech
-title: "Hone Harawira - Maiden Speech"
-date: 2005-11-22
+title: Hone Harawira - Maiden Speech
+date: 2005-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00321/hone-harawira-maiden-speech.htm
 author: te-pati-maori
+permalink: /archive/2005/11/22/hone-harawira-maiden-speech/index.html
+layout: layout.njk
 ---
 Hone Harawira - Maiden Speech
 =============================

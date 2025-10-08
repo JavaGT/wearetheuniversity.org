@@ -1,9 +1,13 @@
 ---
 slug: canterbury-leads-the-way-with-innovative-university-council
-title: "Canterbury leads the way with innovative University Council"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/ED1507/S00123/canterbury-leads-the-way-with-innovative-university-council.htm
+title: Canterbury leads the way with innovative University Council
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00123/canterbury-leads-the-way-with-innovative-university-council.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/29/canterbury-leads-the-way-with-innovative-university-council/index.html
+layout: layout.njk
 ---
 Canterbury leads the way with innovative University Council
 ===========================================================

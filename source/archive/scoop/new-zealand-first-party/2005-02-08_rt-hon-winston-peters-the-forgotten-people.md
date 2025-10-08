@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-the-forgotten-people
-title: "Rt Hon Winston Peters: \"The Forgotten People\""
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/PA0502/S00155/rt-hon-winston-peters-the-forgotten-people.htm
+title: 'Rt Hon Winston Peters: "The Forgotten People"'
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00155/rt-hon-winston-peters-the-forgotten-people.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/08/rt-hon-winston-peters-the-forgotten-people/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters: “The Forgotten People”
 =============================================

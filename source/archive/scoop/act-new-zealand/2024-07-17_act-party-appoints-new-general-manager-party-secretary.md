@@ -1,9 +1,13 @@
 ---
 slug: act-party-appoints-new-general-manager-party-secretary
-title: "ACT Party Appoints New General Manager/Party Secretary"
-date: 2024-07-17
-source-url: https://www.scoop.co.nz/stories/PA2407/S00111/act-party-appoints-new-general-managerparty-secretary.htm
+title: ACT Party Appoints New General Manager/Party Secretary
+date: 2024-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00111/act-party-appoints-new-general-managerparty-secretary.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/07/17/act-party-appoints-new-general-manager-party-secretary/index.html
+layout: layout.njk
 ---
 ACT Party Appoints New General Manager/Party Secretary
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: whales-at-risk-again-from-japanese-hunting
-title: "Whales at risk again from Japanese hunting"
-date: 2005-05-26
-source-url: https://www.scoop.co.nz/stories/SC0505/S00063/whales-at-risk-again-from-japanese-hunting.htm
+title: Whales at risk again from Japanese hunting
+date: 2005-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0505/S00063/whales-at-risk-again-from-japanese-hunting.htm
 author: auckland-university
+permalink: /archive/2005/05/26/whales-at-risk-again-from-japanese-hunting/index.html
+layout: layout.njk
 ---
 Whales at risk again from Japanese hunting
 ==========================================

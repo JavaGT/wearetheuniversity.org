@@ -1,9 +1,12 @@
 ---
 slug: taiwanese-cultural-night-pays-homage-to-monga
-title: "\"Taiwanese Cultural Night pays homage to MONGA\""
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/CU1004/S00160/taiwanese-cultural-night-pays-homage-to-monga.htm
+title: '"Taiwanese Cultural Night pays homage to MONGA"'
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00160/taiwanese-cultural-night-pays-homage-to-monga.htm
 author: ousa
+permalink: /archive/2010/04/14/taiwanese-cultural-night-pays-homage-to-monga/index.html
+layout: layout.njk
 ---
 “Taiwanese Cultural Night pays homage to MONGA”
 ===============================================

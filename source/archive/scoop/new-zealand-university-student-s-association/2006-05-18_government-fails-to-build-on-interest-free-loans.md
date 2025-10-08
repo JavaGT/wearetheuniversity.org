@@ -1,9 +1,13 @@
 ---
 slug: government-fails-to-build-on-interest-free-loans
-title: "Government fails to build on interest free loans"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/ED0605/S00060/government-fails-to-build-on-interest-free-loans.htm
+title: Government fails to build on interest free loans
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00060/government-fails-to-build-on-interest-free-loans.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2006/05/18/government-fails-to-build-on-interest-free-loans/index.html
+layout: layout.njk
 ---
 Government fails to build on interest free loans
 ================================================

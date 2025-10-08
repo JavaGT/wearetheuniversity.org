@@ -1,9 +1,12 @@
 ---
 slug: legal-settlement-warning-to-universities
-title: "Legal Settlement Warning to Universities"
-date: 1999-06-25
-source-url: https://www.scoop.co.nz/stories/ED9906/S00008/legal-settlement-warning-to-universities.htm
+title: Legal Settlement Warning to Universities
+date: 1999-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9906/S00008/legal-settlement-warning-to-universities.htm
 author: victoria-university-students-association
+permalink: /archive/1999/06/25/legal-settlement-warning-to-universities/index.html
+layout: layout.njk
 ---
 Legal Settlement Warning to Universities
 ========================================

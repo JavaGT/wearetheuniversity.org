@@ -1,9 +1,12 @@
 ---
 slug: students-issue-warning-over-polytech-mergers
-title: "Students issue warning over polytech mergers"
-date: 2015-07-30
-source-url: https://www.scoop.co.nz/stories/ED1507/S00128/students-issue-warning-over-polytech-mergers.htm
+title: Students issue warning over polytech mergers
+date: 2015-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00128/students-issue-warning-over-polytech-mergers.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/07/30/students-issue-warning-over-polytech-mergers/index.html
+layout: layout.njk
 ---
 Students issue warning over polytech mergers
 ============================================

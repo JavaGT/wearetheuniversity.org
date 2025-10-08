@@ -1,9 +1,12 @@
 ---
 slug: te-pūkenga-teaching-staff-must-have-their-academic-freedom-upheld-and-affirmed
-title: "Te Pūkenga Teaching Staff Must Have Their Academic Freedom Upheld And Affirmed"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/PO2303/S00120/te-pukenga-teaching-staff-must-have-their-academic-freedom-upheld-and-affirmed.htm
+title: Te Pūkenga Teaching Staff Must Have Their Academic Freedom Upheld And Affirmed
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00120/te-pukenga-teaching-staff-must-have-their-academic-freedom-upheld-and-affirmed.htm
 author: free-speech-union
+permalink: /archive/2023/03/16/te-p/index.html
+layout: layout.njk
 ---
 Te Pūkenga Teaching Staff Must Have Their Academic Freedom Upheld And Affirmed
 ==============================================================================

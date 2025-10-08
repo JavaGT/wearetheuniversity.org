@@ -1,9 +1,12 @@
 ---
 slug: chch-&-wgtn-can-benefit-from-uc-research-into-tokyo-rivers
-title: "Chch & Wgtn can benefit from UC research into Tokyo rivers"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/SC1308/S00050/chch-wgtn-can-benefit-from-uc-research-into-tokyo-rivers.htm
+title: Chch & Wgtn can benefit from UC research into Tokyo rivers
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00050/chch-wgtn-can-benefit-from-uc-research-into-tokyo-rivers.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/23/chch-/index.html
+layout: layout.njk
 ---
 Chch & Wgtn can benefit from UC research into Tokyo rivers
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: 1200-agents-operating-in-india-in-joyces-unregulated-circus
-title: "1200 Agents Operating in India in Joyce’s Unregulated Circus"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00108/1200-agents-operating-in-india-in-joyces-unregulated-circus.htm
+title: 1200 Agents Operating in India in Joyce’s Unregulated Circus
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00108/1200-agents-operating-in-india-in-joyces-unregulated-circus.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/07/1200-agents-operating-in-india-in-joyces-unregulated-circus/index.html
+layout: layout.njk
 ---
 1200 Agents Operating in India in Joyce’s Unregulated Circus
 ============================================================

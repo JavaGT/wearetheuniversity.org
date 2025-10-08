@@ -1,9 +1,13 @@
 ---
 slug: speech-comvoices-parliamentary-breakfast-tariana-turia
-title: "Speech: ComVoices Parliamentary Breakfast - Tariana Turia"
-date: 2011-03-15
-source-url: https://www.scoop.co.nz/stories/PA1103/S00209/speech-comvoices-parliamentary-breakfast-tariana-turia.htm
+title: 'Speech: ComVoices Parliamentary Breakfast - Tariana Turia'
+date: 2011-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00209/speech-comvoices-parliamentary-breakfast-tariana-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/15/speech-comvoices-parliamentary-breakfast-tariana-turia/index.html
+layout: layout.njk
 ---
 Speech: ComVoices Parliamentary Breakfast - Tariana Turia
 =========================================================

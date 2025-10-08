@@ -1,9 +1,12 @@
 ---
 slug: judges-charmed-by-nz-food-awards-entries
-title: "Judges ‘charmed’ by NZ Food Awards entries"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/ED1108/S00104/judges-charmed-by-nz-food-awards-entries.htm
+title: Judges ‘charmed’ by NZ Food Awards entries
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00104/judges-charmed-by-nz-food-awards-entries.htm
 author: massey-university
+permalink: /archive/2011/08/18/judges-charmed-by-nz-food-awards-entries/index.html
+layout: layout.njk
 ---
 Judges ‘charmed’ by NZ Food Awards entries
 ==========================================

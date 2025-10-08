@@ -1,9 +1,12 @@
 ---
 slug: massey-university-staff-settle-agreement
-title: "Massey University staff settle agreement"
-date: 2002-05-10
-source-url: https://www.scoop.co.nz/stories/ED0205/S00017/massey-university-staff-settle-agreement.htm
+title: Massey University staff settle agreement
+date: 2002-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00017/massey-university-staff-settle-agreement.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/10/massey-university-staff-settle-agreement/index.html
+layout: layout.njk
 ---
 Massey University staff settle agreement
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: protest-mars-council-meeting
-title: "Protest mars council meeting"
-date: 2009-09-28
+title: Protest mars council meeting
+date: 2009-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0909/S00110/protest-mars-council-meeting.htm
 author: salient
+permalink: /archive/2009/09/28/protest-mars-council-meeting/index.html
+layout: layout.njk
 ---
 Protest mars council meeting
 ============================

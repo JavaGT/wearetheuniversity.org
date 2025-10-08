@@ -1,9 +1,12 @@
 ---
 slug: more-questions-raised-about-tec
-title: "More questions raised about TEC"
-date: 2001-07-05
-source-url: https://www.scoop.co.nz/stories/PA0107/S00093/more-questions-raised-about-tec.htm
+title: More questions raised about TEC
+date: 2001-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00093/more-questions-raised-about-tec.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/05/more-questions-raised-about-tec/index.html
+layout: layout.njk
 ---
 More questions raised about TEC
 ===============================

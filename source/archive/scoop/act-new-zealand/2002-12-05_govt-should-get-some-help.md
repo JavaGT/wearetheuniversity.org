@@ -1,9 +1,11 @@
 ---
 slug: govt-should-get-some-help
-title: "Govt Should Get Some Help"
-date: 2002-12-05
+title: Govt Should Get Some Help
+date: 2002-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0212/S00152/govt-should-get-some-help.htm
 author: act-new-zealand
+permalink: /archive/2002/12/05/govt-should-get-some-help/index.html
+layout: layout.njk
 ---
 Govt Should Get Some Help
 =========================

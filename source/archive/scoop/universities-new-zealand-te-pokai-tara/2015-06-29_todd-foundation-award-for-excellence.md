@@ -1,9 +1,12 @@
 ---
 slug: todd-foundation-award-for-excellence
-title: "Todd Foundation Award for Excellence"
-date: 2015-06-29
-source-url: https://www.scoop.co.nz/stories/ED1506/S00140/todd-foundation-award-for-excellence.htm
+title: Todd Foundation Award for Excellence
+date: 2015-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00140/todd-foundation-award-for-excellence.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/06/29/todd-foundation-award-for-excellence/index.html
+layout: layout.njk
 ---
 Todd Foundation Award for Excellence
 ====================================

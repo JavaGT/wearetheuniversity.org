@@ -1,9 +1,12 @@
 ---
 slug: cancellations-part-of-labours-180600-disgrace
-title: "Cancellations part of Labour’s 180,600 disgrace"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/PA0507/S00398/cancellations-part-of-labours-180600-disgrace.htm
+title: Cancellations part of Labour’s 180,600 disgrace
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00398/cancellations-part-of-labours-180600-disgrace.htm
 author: act-new-zealand
+permalink: /archive/2005/07/19/cancellations-part-of-labours-180600-disgrace/index.html
+layout: layout.njk
 ---
 Cancellations part of Labour’s 180,600 disgrace
 ===============================================

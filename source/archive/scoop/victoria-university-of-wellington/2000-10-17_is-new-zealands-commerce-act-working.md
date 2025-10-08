@@ -1,9 +1,12 @@
 ---
 slug: is-new-zealands-commerce-act-working
-title: "Is New Zealand's Commerce Act Working?"
-date: 2000-10-17
-source-url: https://www.scoop.co.nz/stories/BU0010/S00127/is-new-zealands-commerce-act-working.htm
+title: Is New Zealand's Commerce Act Working?
+date: 2000-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0010/S00127/is-new-zealands-commerce-act-working.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/10/17/is-new-zealands-commerce-act-working/index.html
+layout: layout.njk
 ---
 Is New Zealand's Commerce Act Working?
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: necessities-and-the-government-push-up-cost-of-living
-title: "Necessities and the government push up cost of living"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/BU1104/S00550/necessities-and-the-government-push-up-cost-of-living.htm
+title: Necessities and the government push up cost of living
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00550/necessities-and-the-government-push-up-cost-of-living.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/04/18/necessities-and-the-government-push-up-cost-of-living/index.html
+layout: layout.njk
 ---
 Necessities and the government push up cost of living
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: exercise-crucial-for-childrens-long-term-health
-title: "Exercise crucial for children’s long term health"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/ED1403/S00152/exercise-crucial-for-childrens-long-term-health.htm
+title: Exercise crucial for children’s long term health
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00152/exercise-crucial-for-childrens-long-term-health.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/26/exercise-crucial-for-childrens-long-term-health/index.html
+layout: layout.njk
 ---
 Exercise crucial for children’s long term health
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-focus-on-postgraduate-research
-title: "University focus on postgraduate research"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/ED1009/S00070/university-focus-on-postgraduate-research.htm
+title: University focus on postgraduate research
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00070/university-focus-on-postgraduate-research.htm
 author: university-of-waikato
+permalink: /archive/2010/09/15/university-focus-on-postgraduate-research/index.html
+layout: layout.njk
 ---
 University focus on postgraduate research
 =========================================

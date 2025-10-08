@@ -1,9 +1,12 @@
 ---
 slug: fair-trade-coffee-good-for-cafés-and-growers
-title: "Fair trade coffee - good for cafés and growers"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/BU1205/S00164/fair-trade-coffee-good-for-cafes-and-growers.htm
+title: Fair trade coffee - good for cafés and growers
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00164/fair-trade-coffee-good-for-cafes-and-growers.htm
 author: massey-university
+permalink: /archive/2012/05/04/fair-trade-coffee-good-for-caf/index.html
+layout: layout.njk
 ---
 Fair trade coffee - good for cafés and growers
 ==============================================

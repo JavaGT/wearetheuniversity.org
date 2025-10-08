@@ -1,9 +1,12 @@
 ---
 slug: new-research-explores-nature-of-wellbeing
-title: "New research explores nature of wellbeing"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/SC1505/S00062/new-research-explores-nature-of-wellbeing.htm
+title: New research explores nature of wellbeing
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00062/new-research-explores-nature-of-wellbeing.htm
 author: lincoln-university
+permalink: /archive/2015/05/20/new-research-explores-nature-of-wellbeing/index.html
+layout: layout.njk
 ---
 New research explores nature of wellbeing
 =========================================

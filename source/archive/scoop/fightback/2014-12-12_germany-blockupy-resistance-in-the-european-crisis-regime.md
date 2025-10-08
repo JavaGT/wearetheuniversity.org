@@ -1,9 +1,13 @@
 ---
 slug: germany-blockupy-resistance-in-the-european-crisis-regime
-title: "GERMANY: Blockupy – resistance in the European crisis regime"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/HL1412/S00075/germany-blockupy-resistance-in-the-european-crisis-regime.htm
+title: 'GERMANY: Blockupy – resistance in the European crisis regime'
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1412/S00075/germany-blockupy-resistance-in-the-european-crisis-regime.htm
 author: fightback
+permalink: >-
+  /archive/2014/12/12/germany-blockupy-resistance-in-the-european-crisis-regime/index.html
+layout: layout.njk
 ---
 GERMANY: Blockupy – resistance in the European crisis regime
 ============================================================

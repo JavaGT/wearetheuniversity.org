@@ -1,9 +1,13 @@
 ---
 slug: 600000-disabled-kiwis-negotiating-footpaths-is-tough
-title: "600,000 disabled Kiwis – negotiating footpaths is tough"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/PO1210/S00002/600000-disabled-kiwis-negotiating-footpaths-is-tough.htm
+title: 600,000 disabled Kiwis – negotiating footpaths is tough
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00002/600000-disabled-kiwis-negotiating-footpaths-is-tough.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/01/600000-disabled-kiwis-negotiating-footpaths-is-tough/index.html
+layout: layout.njk
 ---
 600,000 disabled Kiwis – negotiating footpaths is tough
 =======================================================

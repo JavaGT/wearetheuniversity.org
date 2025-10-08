@@ -1,9 +1,12 @@
 ---
 slug: $3-25m-in-new-projects-for-ageing-well
-title: "$3.25m in new projects for Ageing Well"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/SC1611/S00038/325m-in-new-projects-for-ageing-well.htm
+title: $3.25m in new projects for Ageing Well
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00038/325m-in-new-projects-for-ageing-well.htm
 author: university-of-otago
+permalink: /archive/2016/11/17/3-25m-in-new-projects-for-ageing-well/index.html
+layout: layout.njk
 ---
 $3.25m in new projects for Ageing Well
 ======================================

@@ -1,8 +1,12 @@
 ---
 slug: sleep-disorders-can-lead-to-problem-behaviours-in-children
-title: "Sleep disorders can lead to problem behaviours in children"
-date: 2016-10-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/sleep-disorders-can-lead-to-problem-behaviours-in-children.html
+title: Sleep disorders can lead to problem behaviours in children
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/sleep-disorders-can-lead-to-problem-behaviours-in-children.html
+permalink: >-
+  /archive/2016/10/06/sleep-disorders-can-lead-to-problem-behaviours-in-children/index.html
+layout: layout.njk
 ---
 Sleep disorders can lead to problem behaviours in children
 ==========================================================

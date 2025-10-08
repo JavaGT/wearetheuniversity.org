@@ -1,9 +1,13 @@
 ---
 slug: focus-on-nz-brands-needed-in-face-of-trade-uncertainty
-title: "Focus on NZ brands needed in face of trade uncertainty"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/PO1712/S00021/focus-on-nz-brands-needed-in-face-of-trade-uncertainty.htm
+title: Focus on NZ brands needed in face of trade uncertainty
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1712/S00021/focus-on-nz-brands-needed-in-face-of-trade-uncertainty.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/12/04/focus-on-nz-brands-needed-in-face-of-trade-uncertainty/index.html
+layout: layout.njk
 ---
 Focus on NZ brands needed in face of trade uncertainty
 ======================================================

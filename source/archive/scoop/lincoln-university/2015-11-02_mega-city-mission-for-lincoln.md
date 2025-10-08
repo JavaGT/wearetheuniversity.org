@@ -1,9 +1,12 @@
 ---
 slug: mega-city-mission-for-lincoln
-title: "Mega-city mission for Lincoln"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/ED1511/S00004/mega-city-mission-for-lincoln.htm
+title: Mega-city mission for Lincoln
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00004/mega-city-mission-for-lincoln.htm
 author: lincoln-university
+permalink: /archive/2015/11/02/mega-city-mission-for-lincoln/index.html
+layout: layout.njk
 ---
 Mega-city mission for Lincoln
 =============================

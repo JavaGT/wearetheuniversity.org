@@ -1,9 +1,12 @@
 ---
 slug: kiwis-must-have-a-say-on-tppa
-title: "Kiwis must have a say on TPPA"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/PA1511/S00112/kiwis-must-have-a-say-on-tppa.htm
+title: Kiwis must have a say on TPPA
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00112/kiwis-must-have-a-say-on-tppa.htm
 author: green-party
+permalink: /archive/2015/11/06/kiwis-must-have-a-say-on-tppa/index.html
+layout: layout.njk
 ---
 Kiwis must have a say on TPPA
 =============================

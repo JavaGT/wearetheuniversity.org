@@ -1,9 +1,13 @@
 ---
 slug: university-and-regional-council-combine-for-regional-benefit
-title: "University and regional council combine for regional benefit"
-date: 2015-04-08
-source-url: https://www.scoop.co.nz/stories/ED1504/S00018/university-and-regional-council-combine-for-regional-benefit.htm
+title: University and regional council combine for regional benefit
+date: 2015-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00018/university-and-regional-council-combine-for-regional-benefit.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/04/08/university-and-regional-council-combine-for-regional-benefit/index.html
+layout: layout.njk
 ---
 University and regional council combine for regional benefit
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: 10-things-you-need-to-know-about-the-tongan-election
-title: "10 things you need to know about the Tongan election"
-date: 2017-11-15
-source-url: https://www.scoop.co.nz/stories/WO1711/S00188/10-things-you-need-to-know-about-the-tongan-election.htm
+title: 10 things you need to know about the Tongan election
+date: 2017-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1711/S00188/10-things-you-need-to-know-about-the-tongan-election.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/15/10-things-you-need-to-know-about-the-tongan-election/index.html
+layout: layout.njk
 ---
 10 things you need to know about the Tongan election
 ====================================================

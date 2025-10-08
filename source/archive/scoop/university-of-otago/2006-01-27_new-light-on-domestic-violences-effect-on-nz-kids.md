@@ -1,9 +1,13 @@
 ---
 slug: new-light-on-domestic-violences-effect-on-nz-kids
-title: "New Light on Domestic Violence’s Effect on NZ kids"
-date: 2006-01-27
-source-url: https://www.scoop.co.nz/stories/ED0601/S00027/new-light-on-domestic-violences-effect-on-nz-kids.htm
+title: New Light on Domestic Violence’s Effect on NZ kids
+date: 2006-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00027/new-light-on-domestic-violences-effect-on-nz-kids.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/01/27/new-light-on-domestic-violences-effect-on-nz-kids/index.html
+layout: layout.njk
 ---
 New Light on Domestic Violence’s Effect on NZ kids
 ==================================================

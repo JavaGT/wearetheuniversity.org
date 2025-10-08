@@ -1,9 +1,13 @@
 ---
 slug: nz-business-leader-in-plant-based-medicine-earns-phd
-title: "NZ business leader in plant-based medicine earns PhD"
-date: 2019-12-04
-source-url: https://www.scoop.co.nz/stories/ED1912/S00011/nz-business-leader-in-plant-based-medicine-earns-phd.htm
+title: NZ business leader in plant-based medicine earns PhD
+date: 2019-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00011/nz-business-leader-in-plant-based-medicine-earns-phd.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/04/nz-business-leader-in-plant-based-medicine-earns-phd/index.html
+layout: layout.njk
 ---
 NZ business leader in plant-based medicine earns PhD
 ====================================================

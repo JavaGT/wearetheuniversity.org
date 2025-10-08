@@ -1,9 +1,13 @@
 ---
 slug: maori-party-co-leader-disgusted-at-claim-against-kingitanga
-title: "Maori Party Co-leader disgusted at claim against Kingitanga"
-date: 2011-06-08
-source-url: https://www.scoop.co.nz/stories/PA1106/S00111/maori-party-co-leader-disgusted-at-claim-against-kingitanga.htm
+title: Maori Party Co-leader disgusted at claim against Kingitanga
+date: 2011-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00111/maori-party-co-leader-disgusted-at-claim-against-kingitanga.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/08/maori-party-co-leader-disgusted-at-claim-against-kingitanga/index.html
+layout: layout.njk
 ---
 Maori Party Co-leader disgusted at claim against Kingitanga
 ===========================================================

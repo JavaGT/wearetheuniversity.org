@@ -1,9 +1,13 @@
 ---
 slug: ema-tavola-appointed-pacific-studies-artist-in-residence
-title: "Ema Tavola appointed Pacific Studies Artist in Residence"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/ED1706/S00054/ema-tavola-appointed-pacific-studies-artist-in-residence.htm
+title: Ema Tavola appointed Pacific Studies Artist in Residence
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00054/ema-tavola-appointed-pacific-studies-artist-in-residence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/16/ema-tavola-appointed-pacific-studies-artist-in-residence/index.html
+layout: layout.njk
 ---
 Ema Tavola appointed Pacific Studies Artist in Residence
 ========================================================

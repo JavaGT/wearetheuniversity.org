@@ -1,9 +1,12 @@
 ---
 slug: neuroscientist-appointed-to-senior-otago-post
-title: "Neuroscientist Appointed To Senior Otago Post"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/ED0409/S00009/neuroscientist-appointed-to-senior-otago-post.htm
+title: Neuroscientist Appointed To Senior Otago Post
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00009/neuroscientist-appointed-to-senior-otago-post.htm
 author: university-of-otago
+permalink: /archive/2004/09/01/neuroscientist-appointed-to-senior-otago-post/index.html
+layout: layout.njk
 ---
 Neuroscientist Appointed To Senior Otago Post
 =============================================

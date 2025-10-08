@@ -1,9 +1,12 @@
 ---
 slug: hollow-rhetoric-on-maori-education-exposed
-title: "Hollow rhetoric on Maori education exposed"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/PA0909/S00451/hollow-rhetoric-on-maori-education-exposed.htm
+title: Hollow rhetoric on Maori education exposed
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00451/hollow-rhetoric-on-maori-education-exposed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/30/hollow-rhetoric-on-maori-education-exposed/index.html
+layout: layout.njk
 ---
 Hollow rhetoric on Maori education exposed
 ==========================================

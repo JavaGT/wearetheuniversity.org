@@ -1,9 +1,12 @@
 ---
 slug: history-curriculum-sent-to-the-future
-title: "History Curriculum Sent To The Future"
-date: 2022-01-27
-source-url: https://www.scoop.co.nz/stories/PA2201/S00098/history-curriculum-sent-to-the-future.htm
+title: History Curriculum Sent To The Future
+date: 2022-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00098/history-curriculum-sent-to-the-future.htm
 author: act-new-zealand
+permalink: /archive/2022/01/27/history-curriculum-sent-to-the-future/index.html
+layout: layout.njk
 ---
 History Curriculum Sent To The Future
 =====================================

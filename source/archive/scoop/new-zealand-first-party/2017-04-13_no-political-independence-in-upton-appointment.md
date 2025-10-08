@@ -1,9 +1,12 @@
 ---
 slug: no-political-independence-in-upton-appointment
-title: "No Political Independence in Upton Appointment"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/PA1704/S00178/no-political-independence-in-upton-appointment.htm
+title: No Political Independence in Upton Appointment
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00178/no-political-independence-in-upton-appointment.htm
 author: new-zealand-first-party
+permalink: /archive/2017/04/13/no-political-independence-in-upton-appointment/index.html
+layout: layout.njk
 ---
 No Political Independence in Upton Appointment
 ==============================================

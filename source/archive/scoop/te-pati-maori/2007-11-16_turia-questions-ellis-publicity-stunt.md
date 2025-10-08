@@ -1,9 +1,12 @@
 ---
 slug: turia-questions-ellis-publicity-stunt
-title: "Turia Questions Ellis' Publicity Stunt"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/PA0711/S00316/turia-questions-ellis-publicity-stunt.htm
+title: Turia Questions Ellis' Publicity Stunt
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00316/turia-questions-ellis-publicity-stunt.htm
 author: te-pati-maori
+permalink: /archive/2007/11/16/turia-questions-ellis-publicity-stunt/index.html
+layout: layout.njk
 ---
 Turia Questions Ellis' Publicity Stunt
 ======================================

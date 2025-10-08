@@ -1,9 +1,13 @@
 ---
 slug: hospital-asthma-admissions-linked-to-electricity-prices
-title: "Hospital Asthma Admissions Linked To Electricity Prices"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/ED1304/S00033/hospital-asthma-admissions-linked-to-electricity-prices.htm
+title: Hospital Asthma Admissions Linked To Electricity Prices
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00033/hospital-asthma-admissions-linked-to-electricity-prices.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/09/hospital-asthma-admissions-linked-to-electricity-prices/index.html
+layout: layout.njk
 ---
 Hospital Asthma Admissions Linked To Electricity Prices
 =======================================================

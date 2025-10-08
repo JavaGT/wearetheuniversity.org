@@ -1,9 +1,13 @@
 ---
 slug: students-with-learning-disabilities-snubbed-by-government
-title: "Students with Learning Disabilities Snubbed By Government"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/PA1209/S00354/students-with-learning-disabilities-snubbed-by-government.htm
+title: Students with Learning Disabilities Snubbed By Government
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00354/students-with-learning-disabilities-snubbed-by-government.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/09/21/students-with-learning-disabilities-snubbed-by-government/index.html
+layout: layout.njk
 ---
 Students with Learning Disabilities Snubbed By Government
 =========================================================

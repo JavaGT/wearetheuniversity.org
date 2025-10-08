@@ -1,9 +1,11 @@
 ---
 slug: city-blueprint-in-tatters
-title: "City Blueprint in tatters"
-date: 2016-06-24
+title: City Blueprint in tatters
+date: 2016-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1606/S00813/city-blueprint-in-tatters.htm
 author: lincoln-university
+permalink: /archive/2016/06/24/city-blueprint-in-tatters/index.html
+layout: layout.njk
 ---
 City Blueprint in tatters
 =========================

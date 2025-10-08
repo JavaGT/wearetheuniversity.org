@@ -1,9 +1,12 @@
 ---
 slug: national-creates-stalemate-on-standards
-title: "National creates stalemate on standards"
-date: 2011-08-21
-source-url: https://www.scoop.co.nz/stories/PA1108/S00442/national-creates-stalemate-on-standards.htm
+title: National creates stalemate on standards
+date: 2011-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00442/national-creates-stalemate-on-standards.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/21/national-creates-stalemate-on-standards/index.html
+layout: layout.njk
 ---
 National creates stalemate on standards
 =======================================

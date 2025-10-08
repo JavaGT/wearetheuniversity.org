@@ -1,9 +1,12 @@
 ---
 slug: hall-of-fame-for-pacific-educator
-title: "Hall of Fame for Pacific educator"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/ED1209/S00166/hall-of-fame-for-pacific-educator.htm
+title: Hall of Fame for Pacific educator
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00166/hall-of-fame-for-pacific-educator.htm
 author: university-of-waikato
+permalink: /archive/2012/09/21/hall-of-fame-for-pacific-educator/index.html
+layout: layout.njk
 ---
 Hall of Fame for Pacific educator
 =================================

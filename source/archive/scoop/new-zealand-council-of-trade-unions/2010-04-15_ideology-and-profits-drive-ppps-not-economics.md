@@ -1,9 +1,12 @@
 ---
 slug: ideology-and-profits-drive-ppps-not-economics
-title: "Ideology And Profits Drive PPPs, Not Economics"
-date: 2010-04-15
-source-url: https://www.scoop.co.nz/stories/PO1004/S00143/ideology-and-profits-drive-ppps-not-economics.htm
+title: Ideology And Profits Drive PPPs, Not Economics
+date: 2010-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00143/ideology-and-profits-drive-ppps-not-economics.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/04/15/ideology-and-profits-drive-ppps-not-economics/index.html
+layout: layout.njk
 ---
 Ideology And Profits Drive PPPs, Not Economics
 ==============================================

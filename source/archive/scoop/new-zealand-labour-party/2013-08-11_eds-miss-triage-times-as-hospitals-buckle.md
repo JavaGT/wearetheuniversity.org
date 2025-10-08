@@ -1,9 +1,12 @@
 ---
 slug: eds-miss-triage-times-as-hospitals-buckle
-title: "EDs miss triage times as hospitals buckle"
-date: 2013-08-11
-source-url: https://www.scoop.co.nz/stories/PA1308/S00183/eds-miss-triage-times-as-hospitals-buckle.htm
+title: EDs miss triage times as hospitals buckle
+date: 2013-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00183/eds-miss-triage-times-as-hospitals-buckle.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/11/eds-miss-triage-times-as-hospitals-buckle/index.html
+layout: layout.njk
 ---
 EDs miss triage times as hospitals buckle
 =========================================

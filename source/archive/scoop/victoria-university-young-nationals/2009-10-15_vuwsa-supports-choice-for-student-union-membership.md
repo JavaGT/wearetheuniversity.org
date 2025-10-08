@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-supports-choice-for-student-union-membership
-title: "VUWSA supports choice for Student Union Membership"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/ED0910/S00062/vuwsa-supports-choice-for-student-union-membership.htm
+title: VUWSA supports choice for Student Union Membership
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00062/vuwsa-supports-choice-for-student-union-membership.htm
 author: victoria-university-young-nationals
+permalink: >-
+  /archive/2009/10/15/vuwsa-supports-choice-for-student-union-membership/index.html
+layout: layout.njk
 ---
 VUWSA supports choice for Student Union Membership
 ==================================================

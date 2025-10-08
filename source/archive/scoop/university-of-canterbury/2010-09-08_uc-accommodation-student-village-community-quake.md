@@ -1,9 +1,13 @@
 ---
 slug: uc-accommodation-student-village-community-quake
-title: "UC Accommodation Student Village Community Quake"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00044/uc-accommodation-student-village-community-quake.htm
+title: UC Accommodation Student Village Community Quake
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00044/uc-accommodation-student-village-community-quake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/09/08/uc-accommodation-student-village-community-quake/index.html
+layout: layout.njk
 ---
 UC Accommodation Student Village Community Quake
 ================================================

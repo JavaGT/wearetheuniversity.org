@@ -1,9 +1,13 @@
 ---
 slug: mullins-a-worthy-inductee-into-nz-business-hall-of-fame
-title: "Mullins a worthy inductee into NZ Business Hall of Fame"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/PA1707/S00433/mullins-a-worthy-inductee-into-nz-business-hall-of-fame.htm
+title: Mullins a worthy inductee into NZ Business Hall of Fame
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00433/mullins-a-worthy-inductee-into-nz-business-hall-of-fame.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/07/27/mullins-a-worthy-inductee-into-nz-business-hall-of-fame/index.html
+layout: layout.njk
 ---
 Mullins a worthy inductee into NZ Business Hall of Fame
 =======================================================

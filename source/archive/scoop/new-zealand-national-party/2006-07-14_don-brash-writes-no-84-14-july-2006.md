@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-84-14-july-2006
-title: "Don Brash Writes - No. 84, 14 July 2006"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/PA0607/S00213/don-brash-writes-no-84-14-july-2006.htm
+title: Don Brash Writes - No. 84, 14 July 2006
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00213/don-brash-writes-no-84-14-july-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/14/don-brash-writes-no-84-14-july-2006/index.html
+layout: layout.njk
 ---
 Don Brash Writes - No. 84, 14 July 2006
 =======================================

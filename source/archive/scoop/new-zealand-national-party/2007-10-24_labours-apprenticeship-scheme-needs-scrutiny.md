@@ -1,9 +1,12 @@
 ---
 slug: labours-apprenticeship-scheme-needs-scrutiny
-title: "Labour's apprenticeship scheme needs scrutiny"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/PA0710/S00431/labours-apprenticeship-scheme-needs-scrutiny.htm
+title: Labour's apprenticeship scheme needs scrutiny
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00431/labours-apprenticeship-scheme-needs-scrutiny.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/24/labours-apprenticeship-scheme-needs-scrutiny/index.html
+layout: layout.njk
 ---
 Labour's apprenticeship scheme needs scrutiny
 =============================================

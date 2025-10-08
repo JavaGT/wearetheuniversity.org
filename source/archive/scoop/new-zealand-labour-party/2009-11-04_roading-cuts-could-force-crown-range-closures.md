@@ -1,9 +1,12 @@
 ---
 slug: roading-cuts-could-force-crown-range-closures
-title: "Roading cuts could force Crown Range closures"
-date: 2009-11-04
-source-url: https://www.scoop.co.nz/stories/PA0911/S00042/roading-cuts-could-force-crown-range-closures.htm
+title: Roading cuts could force Crown Range closures
+date: 2009-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00042/roading-cuts-could-force-crown-range-closures.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/04/roading-cuts-could-force-crown-range-closures/index.html
+layout: layout.njk
 ---
 Roading cuts could force Crown Range closures
 =============================================

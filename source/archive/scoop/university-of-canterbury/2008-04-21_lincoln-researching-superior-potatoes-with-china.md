@@ -1,9 +1,13 @@
 ---
 slug: lincoln-researching-superior-potatoes-with-china
-title: "Lincoln researching superior potatoes with China"
-date: 2008-04-21
-source-url: https://www.scoop.co.nz/stories/SC0804/S00049/lincoln-researching-superior-potatoes-with-china.htm
+title: Lincoln researching superior potatoes with China
+date: 2008-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00049/lincoln-researching-superior-potatoes-with-china.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2008/04/21/lincoln-researching-superior-potatoes-with-china/index.html
+layout: layout.njk
 ---
 Lincoln researching superior potatoes with China
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: crunch-meetings-ahead-for-school-support-staff
-title: "Crunch Meetings Ahead For School Support Staff"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/ED0810/S00075/crunch-meetings-ahead-for-school-support-staff.htm
+title: Crunch Meetings Ahead For School Support Staff
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00075/crunch-meetings-ahead-for-school-support-staff.htm
 author: nzei
+permalink: /archive/2008/10/17/crunch-meetings-ahead-for-school-support-staff/index.html
+layout: layout.njk
 ---
 Crunch Meetings Ahead For School Support Staff
 ==============================================

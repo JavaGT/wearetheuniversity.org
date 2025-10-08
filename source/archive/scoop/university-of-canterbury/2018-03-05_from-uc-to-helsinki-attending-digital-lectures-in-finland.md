@@ -1,9 +1,13 @@
 ---
 slug: from-uc-to-helsinki-attending-digital-lectures-in-finland
-title: "From UC to Helsinki: attending digital lectures in Finland"
-date: 2018-03-05
-source-url: https://www.scoop.co.nz/stories/ED1803/S00014/from-uc-to-helsinki-attending-digital-lectures-in-finland.htm
+title: 'From UC to Helsinki: attending digital lectures in Finland'
+date: 2018-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00014/from-uc-to-helsinki-attending-digital-lectures-in-finland.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/05/from-uc-to-helsinki-attending-digital-lectures-in-finland/index.html
+layout: layout.njk
 ---
 From UC to Helsinki: attending digital lectures in Finland
 ==========================================================

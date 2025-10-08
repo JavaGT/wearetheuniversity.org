@@ -1,9 +1,13 @@
 ---
 slug: university-rankings-treaty-obsession-risks-international-irrelevance
-title: "University Rankings: Treaty Obsession Risks International Irrelevance"
-date: 2024-10-10
-source-url: https://www.scoop.co.nz/stories/PA2410/S00083/university-rankings-treaty-obsession-risks-international-irrelevance.htm
+title: 'University Rankings: Treaty Obsession Risks International Irrelevance'
+date: 2024-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00083/university-rankings-treaty-obsession-risks-international-irrelevance.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/10/10/university-rankings-treaty-obsession-risks-international-irrelevance/index.html
+layout: layout.njk
 ---
 University Rankings: Treaty Obsession Risks International Irrelevance
 =====================================================================
@@ -22,14 +26,7 @@ University Rankings: Treaty Obsession Risks International Irrelevance
 “Take the example of the University of Auckland, which has fallen out of the top 150 for the first time since 2020, and within three years has fallen 6.1 percentage points in its international outlook score.
 
 “From next year, the University plans to force all first-year students to complete a ‘Waipapa Taumata Rau’ course covering the Treaty of Waitangi and traditional Māori knowledge systems.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “This compulsory course will not effectively serve international students, who make up 31 percent of the student body. Nor will it effectively serve Kiwi students who want to prepare themselves for an international career.
+“This compulsory course will not effectively serve international students, who make up 31 percent of the student body. Nor will it effectively serve Kiwi students who want to prepare themselves for an international career.
 
 “The University of Auckland’s compulsory course is just one example. Academics and students from multiple universities have told ACT that indigenous knowledge and Treaty propaganda has diffused into almost every area of study. How will universities attract international lecturers by asking them to put a local indigenous lens over their years of hard-studied subject-matter expertise?
 

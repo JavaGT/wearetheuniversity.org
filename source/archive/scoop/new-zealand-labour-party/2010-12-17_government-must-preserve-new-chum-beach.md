@@ -1,9 +1,12 @@
 ---
 slug: government-must-preserve-new-chum-beach
-title: "Government must preserve New Chum Beach"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/PA1012/S00344/government-must-preserve-new-chum-beach.htm
+title: Government must preserve New Chum Beach
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00344/government-must-preserve-new-chum-beach.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/17/government-must-preserve-new-chum-beach/index.html
+layout: layout.njk
 ---
 Government must preserve New Chum Beach
 =======================================

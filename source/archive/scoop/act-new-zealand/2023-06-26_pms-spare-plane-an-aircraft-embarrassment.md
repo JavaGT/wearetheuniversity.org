@@ -1,9 +1,12 @@
 ---
 slug: pms-spare-plane-an-aircraft-embarrassment
-title: "PM's Spare Plane An Aircraft Embarrassment"
-date: 2023-06-26
-source-url: https://www.scoop.co.nz/stories/PA2306/S00164/pms-spare-plane-an-aircraft-embarrassment.htm
+title: PM's Spare Plane An Aircraft Embarrassment
+date: 2023-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00164/pms-spare-plane-an-aircraft-embarrassment.htm
 author: act-new-zealand
+permalink: /archive/2023/06/26/pms-spare-plane-an-aircraft-embarrassment/index.html
+layout: layout.njk
 ---
 PM's Spare Plane An Aircraft Embarrassment
 ==========================================

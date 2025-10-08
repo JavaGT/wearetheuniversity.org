@@ -1,9 +1,12 @@
 ---
 slug: series-of-three-lectures-to-focus-on-nz-english
-title: "Series of three lectures to focus on NZ English"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/ED0509/S00023/series-of-three-lectures-to-focus-on-nz-english.htm
+title: Series of three lectures to focus on NZ English
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00023/series-of-three-lectures-to-focus-on-nz-english.htm
 author: university-of-canterbury
+permalink: /archive/2005/09/08/series-of-three-lectures-to-focus-on-nz-english/index.html
+layout: layout.njk
 ---
 Series of three lectures to focus on NZ English
 ===============================================

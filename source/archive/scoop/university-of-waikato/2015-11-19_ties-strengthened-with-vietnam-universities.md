@@ -1,9 +1,12 @@
 ---
 slug: ties-strengthened-with-vietnam-universities
-title: "Ties strengthened with Vietnam universities"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/ED1511/S00095/ties-strengthened-with-vietnam-universities.htm
+title: Ties strengthened with Vietnam universities
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00095/ties-strengthened-with-vietnam-universities.htm
 author: university-of-waikato
+permalink: /archive/2015/11/19/ties-strengthened-with-vietnam-universities/index.html
+layout: layout.njk
 ---
 Ties strengthened with Vietnam universities
 ===========================================

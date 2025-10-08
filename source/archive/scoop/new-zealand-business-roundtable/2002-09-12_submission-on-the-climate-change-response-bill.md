@@ -1,9 +1,12 @@
 ---
 slug: submission-on-the-climate-change-response-bill
-title: "Submission On The Climate Change Response Bill"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PO0209/S00058/submission-on-the-climate-change-response-bill.htm
+title: Submission On The Climate Change Response Bill
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0209/S00058/submission-on-the-climate-change-response-bill.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2002/09/12/submission-on-the-climate-change-response-bill/index.html
+layout: layout.njk
 ---
 Submission On The Climate Change Response Bill
 ==============================================

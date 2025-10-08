@@ -1,9 +1,11 @@
 ---
 slug: immigration-or-you
-title: "Immigration Or You?"
-date: 2002-07-01
+title: Immigration Or You?
+date: 2002-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00003/immigration-or-you.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/01/immigration-or-you/index.html
+layout: layout.njk
 ---
 Immigration Or You?
 ===================

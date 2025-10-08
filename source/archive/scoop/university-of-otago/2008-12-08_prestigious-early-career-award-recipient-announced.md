@@ -1,9 +1,13 @@
 ---
 slug: prestigious-early-career-award-recipient-announced
-title: "Prestigious early-career award recipient announced"
-date: 2008-12-08
-source-url: https://www.scoop.co.nz/stories/ED0812/S00023/prestigious-early-career-award-recipient-announced.htm
+title: Prestigious early-career award recipient announced
+date: 2008-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00023/prestigious-early-career-award-recipient-announced.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/12/08/prestigious-early-career-award-recipient-announced/index.html
+layout: layout.njk
 ---
 Prestigious early-career award recipient announced
 ==================================================

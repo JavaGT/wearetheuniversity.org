@@ -1,9 +1,13 @@
 ---
 slug: national-standards-data-not-comparable-enough-to-release
-title: "National standards data not comparable enough to release"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/ED1305/S00156/national-standards-data-not-comparable-enough-to-release.htm
+title: National standards data not comparable enough to release
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00156/national-standards-data-not-comparable-enough-to-release.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/23/national-standards-data-not-comparable-enough-to-release/index.html
+layout: layout.njk
 ---
 National standards data not comparable enough to release
 ========================================================

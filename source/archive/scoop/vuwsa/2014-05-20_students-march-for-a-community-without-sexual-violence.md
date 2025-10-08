@@ -1,9 +1,13 @@
 ---
 slug: students-march-for-a-community-without-sexual-violence
-title: "Students March for a Community Without Sexual violence"
-date: 2014-05-20
-source-url: https://www.scoop.co.nz/stories/PO1405/S00334/students-march-for-a-community-without-sexual-violence.htm
+title: Students March for a Community Without Sexual violence
+date: 2014-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00334/students-march-for-a-community-without-sexual-violence.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/05/20/students-march-for-a-community-without-sexual-violence/index.html
+layout: layout.njk
 ---
 Students March for a Community Without Sexual violence
 ======================================================

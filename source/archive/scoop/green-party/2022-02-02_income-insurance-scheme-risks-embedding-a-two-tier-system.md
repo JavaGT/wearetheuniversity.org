@@ -1,9 +1,13 @@
 ---
 slug: income-insurance-scheme-risks-embedding-a-two-tier-system
-title: "Income Insurance Scheme Risks Embedding A Two-tier System"
-date: 2022-02-02
-source-url: https://www.scoop.co.nz/stories/PA2202/S00015/income-insurance-scheme-risks-embedding-a-two-tier-system.htm
+title: Income Insurance Scheme Risks Embedding A Two-tier System
+date: 2022-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00015/income-insurance-scheme-risks-embedding-a-two-tier-system.htm
 author: green-party
+permalink: >-
+  /archive/2022/02/02/income-insurance-scheme-risks-embedding-a-two-tier-system/index.html
+layout: layout.njk
 ---
 Income Insurance Scheme Risks Embedding A Two-tier System
 =========================================================

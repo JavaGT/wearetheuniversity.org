@@ -1,9 +1,13 @@
 ---
 slug: student-avoids-suicide-bombings-and-kidnappings-in-kabul
-title: "Student avoids suicide bombings and kidnappings in Kabul"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00078/student-avoids-suicide-bombings-and-kidnappings-in-kabul.htm
+title: Student avoids suicide bombings and kidnappings in Kabul
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00078/student-avoids-suicide-bombings-and-kidnappings-in-kabul.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/29/student-avoids-suicide-bombings-and-kidnappings-in-kabul/index.html
+layout: layout.njk
 ---
 Student avoids suicide bombings and kidnappings in Kabul
 ========================================================

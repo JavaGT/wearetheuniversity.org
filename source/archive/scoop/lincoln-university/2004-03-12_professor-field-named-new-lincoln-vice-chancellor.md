@@ -1,9 +1,13 @@
 ---
 slug: professor-field-named-new-lincoln-vice-chancellor
-title: "Professor Field named new Lincoln  Vice-Chancellor"
-date: 2004-03-12
-source-url: https://www.scoop.co.nz/stories/ED0403/S00048/professor-field-named-new-lincoln-vice-chancellor.htm
+title: Professor Field named new Lincoln  Vice-Chancellor
+date: 2004-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00048/professor-field-named-new-lincoln-vice-chancellor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2004/03/12/professor-field-named-new-lincoln-vice-chancellor/index.html
+layout: layout.njk
 ---
 Professor Field named new Lincoln Vice-Chancellor
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: top-farmers-to-host-lamb-production-field-day
-title: "Top farmers to host lamb production field day"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/BU0603/S00284/top-farmers-to-host-lamb-production-field-day.htm
+title: Top farmers to host lamb production field day
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00284/top-farmers-to-host-lamb-production-field-day.htm
 author: lincoln-university
+permalink: /archive/2006/03/20/top-farmers-to-host-lamb-production-field-day/index.html
+layout: layout.njk
 ---
 Top farmers to host lamb production field day
 =============================================

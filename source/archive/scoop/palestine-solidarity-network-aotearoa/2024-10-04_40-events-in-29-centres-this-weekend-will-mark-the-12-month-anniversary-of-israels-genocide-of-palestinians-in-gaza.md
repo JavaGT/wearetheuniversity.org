@@ -1,9 +1,16 @@
 ---
-slug: 40-events-in-29-centres-this-weekend-will-mark-the-12-month-anniversary-of-israels-genocide-of-palestinians-in-gaza
-title: "40 Events In 29 Centres This Weekend Will Mark The 12-month Anniversary Of Israel’s Genocide Of Palestinians In Gaza"
-date: 2024-10-04
-source-url: https://www.scoop.co.nz/stories/AK2410/S00162/40-events-in-29-centres-this-weekend-will-mark-the-12-month-anniversary-of-israels-genocide-of-palestinians-in-gaza.htm
+slug: >-
+  40-events-in-29-centres-this-weekend-will-mark-the-12-month-anniversary-of-israels-genocide-of-palestinians-in-gaza
+title: >-
+  40 Events In 29 Centres This Weekend Will Mark The 12-month Anniversary Of
+  Israel’s Genocide Of Palestinians In Gaza
+date: 2024-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2410/S00162/40-events-in-29-centres-this-weekend-will-mark-the-12-month-anniversary-of-israels-genocide-of-palestinians-in-gaza.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2024/10/04/40-events-in-29-centres-this-weekend-will-mark-the-12-month-anniversary-of-israels-genocide-of-palestinians-in-gaza/index.html
+layout: layout.njk
 ---
 40 Events In 29 Centres This Weekend Will Mark The 12-month Anniversary Of Israel’s Genocide Of Palestinians In Gaza
 ====================================================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-picnic-for-the-planet-2005
-title: "Jeanette Fitzsimons: \"Picnic for the Planet 2005\""
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/PA0501/S00108/jeanette-fitzsimons-picnic-for-the-planet-2005.htm
+title: 'Jeanette Fitzsimons: "Picnic for the Planet 2005"'
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00108/jeanette-fitzsimons-picnic-for-the-planet-2005.htm
 author: green-party
+permalink: /archive/2005/01/17/jeanette-fitzsimons-picnic-for-the-planet-2005/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons: “Picnic for the Planet 2005”
 =================================================

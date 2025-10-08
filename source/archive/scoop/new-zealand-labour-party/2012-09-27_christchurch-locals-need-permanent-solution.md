@@ -1,9 +1,12 @@
 ---
 slug: christchurch-locals-need-permanent-solution
-title: "Christchurch locals need permanent solution"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/PA1209/S00423/christchurch-locals-need-permanent-solution.htm
+title: Christchurch locals need permanent solution
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00423/christchurch-locals-need-permanent-solution.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/27/christchurch-locals-need-permanent-solution/index.html
+layout: layout.njk
 ---
 Christchurch locals need permanent solution
 ===========================================

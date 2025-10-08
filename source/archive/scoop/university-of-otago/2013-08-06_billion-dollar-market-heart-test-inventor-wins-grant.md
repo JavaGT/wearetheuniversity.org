@@ -1,9 +1,13 @@
 ---
 slug: billion-dollar-market-heart-test-inventor-wins-grant
-title: "\"Billion dollar market\" heart test inventor wins grant"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/GE1308/S00029/billion-dollar-market-heart-test-inventor-wins-grant.htm
+title: '"Billion dollar market" heart test inventor wins grant'
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00029/billion-dollar-market-heart-test-inventor-wins-grant.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/06/billion-dollar-market-heart-test-inventor-wins-grant/index.html
+layout: layout.njk
 ---
 “Billion dollar market’’ heart test inventor wins grant
 =======================================================

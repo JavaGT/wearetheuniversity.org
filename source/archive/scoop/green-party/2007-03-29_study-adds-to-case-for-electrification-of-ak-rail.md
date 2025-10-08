@@ -1,9 +1,13 @@
 ---
 slug: study-adds-to-case-for-electrification-of-ak-rail
-title: "Study adds to case for electrification of Ak Rail"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00620/study-adds-to-case-for-electrification-of-ak-rail.htm
+title: Study adds to case for electrification of Ak Rail
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00620/study-adds-to-case-for-electrification-of-ak-rail.htm
 author: green-party
+permalink: >-
+  /archive/2007/03/29/study-adds-to-case-for-electrification-of-ak-rail/index.html
+layout: layout.njk
 ---
 Study adds to case for electrification of Ak Rail
 =================================================

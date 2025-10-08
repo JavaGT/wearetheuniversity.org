@@ -1,9 +1,12 @@
 ---
 slug: nationals-credibility-continues-to-decline
-title: "National’s credibility continues to decline"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/PA1212/S00056/nationals-credibility-continues-to-decline.htm
+title: National’s credibility continues to decline
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00056/nationals-credibility-continues-to-decline.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/05/nationals-credibility-continues-to-decline/index.html
+layout: layout.njk
 ---
 National’s credibility continues to decline
 ===========================================

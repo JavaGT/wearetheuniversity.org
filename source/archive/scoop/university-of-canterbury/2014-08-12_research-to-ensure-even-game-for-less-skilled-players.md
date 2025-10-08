@@ -1,9 +1,13 @@
 ---
 slug: research-to-ensure-even-game-for-less-skilled-players
-title: "Research to ensure even game for less skilled players"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/CU1408/S00144/research-to-ensure-even-game-for-less-skilled-players.htm
+title: Research to ensure even game for less skilled players
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00144/research-to-ensure-even-game-for-less-skilled-players.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/12/research-to-ensure-even-game-for-less-skilled-players/index.html
+layout: layout.njk
 ---
 Research to ensure even game for less skilled players
 =====================================================

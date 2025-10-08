@@ -1,9 +1,12 @@
 ---
 slug: alcohol-often-cheaper-than-bottled-water
-title: "Alcohol often cheaper than bottled water"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/GE1010/S00072/alcohol-often-cheaper-than-bottled-water.htm
+title: Alcohol often cheaper than bottled water
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00072/alcohol-often-cheaper-than-bottled-water.htm
 author: university-of-otago
+permalink: /archive/2010/10/15/alcohol-often-cheaper-than-bottled-water/index.html
+layout: layout.njk
 ---
 Alcohol often cheaper than bottled water
 ========================================

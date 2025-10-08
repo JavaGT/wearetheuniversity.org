@@ -1,9 +1,13 @@
 ---
 slug: soaring-immigration-gives-way-to-corrupt-employment
-title: "Soaring Immigration Gives Way to Corrupt Employment"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/PA1512/S00424/soaring-immigration-gives-way-to-corrupt-employment.htm
+title: Soaring Immigration Gives Way to Corrupt Employment
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00424/soaring-immigration-gives-way-to-corrupt-employment.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/21/soaring-immigration-gives-way-to-corrupt-employment/index.html
+layout: layout.njk
 ---
 Soaring Immigration Gives Way to Corrupt Employment
 ===================================================

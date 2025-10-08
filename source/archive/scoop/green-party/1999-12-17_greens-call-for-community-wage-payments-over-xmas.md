@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-community-wage-payments-over-xmas
-title: "Greens call for community wage payments over XMas"
-date: 1999-12-17
-source-url: https://www.scoop.co.nz/stories/PA9912/S00072/greens-call-for-community-wage-payments-over-xmas.htm
+title: Greens call for community wage payments over XMas
+date: 1999-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00072/greens-call-for-community-wage-payments-over-xmas.htm
 author: green-party
+permalink: >-
+  /archive/1999/12/17/greens-call-for-community-wage-payments-over-xmas/index.html
+layout: layout.njk
 ---
 Greens call for community wage payments over XMas
 =================================================

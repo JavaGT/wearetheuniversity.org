@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-not-even-a-ripple
-title: "Knowledge Wave Not Even A Ripple"
-date: 2002-09-09
-source-url: https://www.scoop.co.nz/stories/PA0209/S00119/knowledge-wave-not-even-a-ripple.htm
+title: Knowledge Wave Not Even A Ripple
+date: 2002-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00119/knowledge-wave-not-even-a-ripple.htm
 author: act-new-zealand
+permalink: /archive/2002/09/09/knowledge-wave-not-even-a-ripple/index.html
+layout: layout.njk
 ---
 Knowledge Wave Not Even A Ripple
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: postgrad-degree-boosts-career-prospects
-title: "Postgrad Degree Boosts Career Prospects"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/ED1808/S00013/postgrad-degree-boosts-career-prospects.htm
+title: Postgrad Degree Boosts Career Prospects
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00013/postgrad-degree-boosts-career-prospects.htm
 author: aut-university
+permalink: /archive/2018/08/07/postgrad-degree-boosts-career-prospects/index.html
+layout: layout.njk
 ---
 Postgrad Degree Boosts Career Prospects
 =======================================

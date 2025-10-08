@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-change-have-the-power-to-make-it-happen
-title: "Students call for change, have the power to make it happen"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PO1409/S00089/students-call-for-change-have-the-power-to-make-it-happen.htm
+title: Students call for change, have the power to make it happen
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00089/students-call-for-change-have-the-power-to-make-it-happen.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/09/04/students-call-for-change-have-the-power-to-make-it-happen/index.html
+layout: layout.njk
 ---
 Students call for change, have the power to make it happen
 ==========================================================

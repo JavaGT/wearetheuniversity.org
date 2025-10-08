@@ -1,9 +1,13 @@
 ---
 slug: massey-vet-students-to-be-hardest-hit-by-fee-hike
-title: "Massey Vet Students to be Hardest Hit by Fee Hike"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/ED0508/S00117/massey-vet-students-to-be-hardest-hit-by-fee-hike.htm
+title: Massey Vet Students to be Hardest Hit by Fee Hike
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00117/massey-vet-students-to-be-hardest-hit-by-fee-hike.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2005/08/30/massey-vet-students-to-be-hardest-hit-by-fee-hike/index.html
+layout: layout.njk
 ---
 Massey Vet Students to be Hardest Hit by Fee Hike
 =================================================

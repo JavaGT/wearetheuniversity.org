@@ -1,9 +1,12 @@
 ---
 slug: claims-on-maori-health-illogical
-title: "Claims On Maori Health Illogical"
-date: 2003-07-10
-source-url: https://www.scoop.co.nz/stories/PA0307/S00206/claims-on-maori-health-illogical.htm
+title: Claims On Maori Health Illogical
+date: 2003-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00206/claims-on-maori-health-illogical.htm
 author: act-new-zealand
+permalink: /archive/2003/07/10/claims-on-maori-health-illogical/index.html
+layout: layout.njk
 ---
 Claims On Maori Health Illogical
 ================================

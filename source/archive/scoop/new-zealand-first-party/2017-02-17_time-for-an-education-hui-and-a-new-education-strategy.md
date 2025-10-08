@@ -1,9 +1,13 @@
 ---
 slug: time-for-an-education-hui-and-a-new-education-strategy
-title: "Time for an Education Hui and a new education strategy"
-date: 2017-02-17
-source-url: https://www.scoop.co.nz/stories/PA1702/S00241/time-for-an-education-hui-and-a-new-education-strategy.htm
+title: Time for an Education Hui and a new education strategy
+date: 2017-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00241/time-for-an-education-hui-and-a-new-education-strategy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/17/time-for-an-education-hui-and-a-new-education-strategy/index.html
+layout: layout.njk
 ---
 Time for an Education Hui and a new education strategy
 ======================================================

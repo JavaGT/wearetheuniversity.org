@@ -1,9 +1,12 @@
 ---
 slug: 3-great-reasons-to-celebrate-for-welly-seniors
-title: "3 Great Reasons To Celebrate For Welly Seniors"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PO0809/S00458/3-great-reasons-to-celebrate-for-welly-seniors.htm
+title: 3 Great Reasons To Celebrate For Welly Seniors
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00458/3-great-reasons-to-celebrate-for-welly-seniors.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/09/30/3-great-reasons-to-celebrate-for-welly-seniors/index.html
+layout: layout.njk
 ---
 3 Great Reasons To Celebrate For Welly Seniors
 ==============================================

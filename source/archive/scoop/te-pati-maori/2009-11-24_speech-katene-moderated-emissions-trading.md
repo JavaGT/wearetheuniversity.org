@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-moderated-emissions-trading
-title: "Speech: Katene - Moderated Emissions Trading"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/PA0911/S00359/speech-katene-moderated-emissions-trading.htm
+title: 'Speech: Katene - Moderated Emissions Trading'
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00359/speech-katene-moderated-emissions-trading.htm
 author: te-pati-maori
+permalink: /archive/2009/11/24/speech-katene-moderated-emissions-trading/index.html
+layout: layout.njk
 ---
 Speech: Katene - Moderated Emissions Trading
 ============================================

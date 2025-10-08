@@ -1,9 +1,13 @@
 ---
 slug: julie-anne-genter-proud-to-have-worked-with-the-people
-title: "Julie Anne Genter proud to have worked with the people"
-date: 2017-02-26
-source-url: https://www.scoop.co.nz/stories/PA1702/S00355/julie-anne-genter-proud-to-have-worked-with-the-people.htm
+title: Julie Anne Genter proud to have worked with the people
+date: 2017-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00355/julie-anne-genter-proud-to-have-worked-with-the-people.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/26/julie-anne-genter-proud-to-have-worked-with-the-people/index.html
+layout: layout.njk
 ---
 Julie Anne Genter proud to have worked with the people
 ======================================================

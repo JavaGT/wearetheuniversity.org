@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-withdraws-from-nzusa
-title: "VUWSA withdraws from NZUSA"
-date: 2014-09-26
+title: VUWSA withdraws from NZUSA
+date: 2014-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1409/S00646/vuwsa-withdraws-from-nzusa.htm
 author: victoria-university-students-association
+permalink: /archive/2014/09/26/vuwsa-withdraws-from-nzusa/index.html
+layout: layout.njk
 ---
 VUWSA withdraws from NZUSA
 ==========================

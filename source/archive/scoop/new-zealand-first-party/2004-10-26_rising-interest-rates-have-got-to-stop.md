@@ -1,9 +1,12 @@
 ---
 slug: rising-interest-rates-have-got-to-stop
-title: "Rising Interest Rates Have Got To Stop"
-date: 2004-10-26
-source-url: https://www.scoop.co.nz/stories/PA0410/S00435/rising-interest-rates-have-got-to-stop.htm
+title: Rising Interest Rates Have Got To Stop
+date: 2004-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00435/rising-interest-rates-have-got-to-stop.htm
 author: new-zealand-first-party
+permalink: /archive/2004/10/26/rising-interest-rates-have-got-to-stop/index.html
+layout: layout.njk
 ---
 Rising Interest Rates Have Got To Stop
 ======================================

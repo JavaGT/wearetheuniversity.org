@@ -1,9 +1,13 @@
 ---
 slug: election-of-a-student-member-of-university-council
-title: "Election of a student member of University Council"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/ED1203/S00060/election-of-a-student-member-of-university-council.htm
+title: Election of a student member of University Council
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00060/election-of-a-student-member-of-university-council.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/13/election-of-a-student-member-of-university-council/index.html
+layout: layout.njk
 ---
 Election of a student member of University Council
 ==================================================

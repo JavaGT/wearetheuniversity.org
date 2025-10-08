@@ -1,9 +1,13 @@
 ---
 slug: blaming-underchievement-for-housing-crisis-a-disgrace
-title: "Blaming underchievement for housing crisis a disgrace"
-date: 2016-06-10
-source-url: https://www.scoop.co.nz/stories/PA1606/S00193/blaming-underchievement-for-housing-crisis-a-disgrace.htm
+title: Blaming underchievement for housing crisis a disgrace
+date: 2016-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00193/blaming-underchievement-for-housing-crisis-a-disgrace.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/10/blaming-underchievement-for-housing-crisis-a-disgrace/index.html
+layout: layout.njk
 ---
 Blaming underchievement for housing crisis a disgrace
 =====================================================

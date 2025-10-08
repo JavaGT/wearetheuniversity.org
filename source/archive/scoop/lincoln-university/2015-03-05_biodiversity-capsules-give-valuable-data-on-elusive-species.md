@@ -1,9 +1,13 @@
 ---
 slug: biodiversity-capsules-give-valuable-data-on-elusive-species
-title: "Biodiversity capsules give valuable data on elusive species"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/SC1503/S00029/biodiversity-capsules-give-valuable-data-on-elusive-species.htm
+title: Biodiversity capsules give valuable data on elusive species
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00029/biodiversity-capsules-give-valuable-data-on-elusive-species.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/05/biodiversity-capsules-give-valuable-data-on-elusive-species/index.html
+layout: layout.njk
 ---
 Biodiversity capsules give valuable data on elusive species
 ===========================================================

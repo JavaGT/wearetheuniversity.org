@@ -1,9 +1,12 @@
 ---
 slug: ministry-unfit-to-run-cervical-programme
-title: "Ministry Unfit To Run Cervical Programme"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/PA0309/S00472/ministry-unfit-to-run-cervical-programme.htm
+title: Ministry Unfit To Run Cervical Programme
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00472/ministry-unfit-to-run-cervical-programme.htm
 author: act-new-zealand
+permalink: /archive/2003/09/22/ministry-unfit-to-run-cervical-programme/index.html
+layout: layout.njk
 ---
 Ministry Unfit To Run Cervical Programme
 ========================================

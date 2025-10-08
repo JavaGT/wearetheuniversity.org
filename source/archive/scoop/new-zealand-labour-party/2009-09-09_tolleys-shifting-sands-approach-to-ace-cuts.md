@@ -1,9 +1,12 @@
 ---
 slug: tolleys-shifting-sands-approach-to-ace-cuts
-title: "Tolley’s shifting sands approach to ACE cuts"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/PA0909/S00119/tolleys-shifting-sands-approach-to-ace-cuts.htm
+title: Tolley’s shifting sands approach to ACE cuts
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00119/tolleys-shifting-sands-approach-to-ace-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/09/tolleys-shifting-sands-approach-to-ace-cuts/index.html
+layout: layout.njk
 ---
 Tolley’s shifting sands approach to ACE cuts
 ============================================

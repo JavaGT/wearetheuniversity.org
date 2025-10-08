@@ -1,9 +1,13 @@
 ---
 slug: social-factors-contribute-to-emergence-of-coronavirus
-title: "Social factors contribute to emergence of coronavirus"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/GE1305/S00095/social-factors-contribute-to-emergence-of-coronavirus.htm
+title: Social factors contribute to emergence of coronavirus
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00095/social-factors-contribute-to-emergence-of-coronavirus.htm
 author: massey-university
+permalink: >-
+  /archive/2013/05/15/social-factors-contribute-to-emergence-of-coronavirus/index.html
+layout: layout.njk
 ---
 Social factors contribute to emergence of coronavirus
 =====================================================

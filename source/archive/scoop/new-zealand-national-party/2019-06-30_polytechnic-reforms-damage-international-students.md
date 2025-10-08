@@ -1,9 +1,13 @@
 ---
 slug: polytechnic-reforms-damage-international-students
-title: "Polytechnic reforms damage international students"
-date: 2019-06-30
-source-url: https://www.scoop.co.nz/stories/PA1906/S00275/polytechnic-reforms-damage-international-students.htm
+title: Polytechnic reforms damage international students
+date: 2019-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00275/polytechnic-reforms-damage-international-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/06/30/polytechnic-reforms-damage-international-students/index.html
+layout: layout.njk
 ---
 Polytechnic reforms damage international students
 =================================================

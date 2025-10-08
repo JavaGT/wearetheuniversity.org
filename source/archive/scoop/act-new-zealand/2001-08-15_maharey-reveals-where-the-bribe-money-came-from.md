@@ -1,9 +1,12 @@
 ---
 slug: maharey-reveals-where-the-bribe-money-came-from
-title: "Maharey Reveals Where the Bribe Money Came From"
-date: 2001-08-15
-source-url: https://www.scoop.co.nz/stories/PA0108/S00319/maharey-reveals-where-the-bribe-money-came-from.htm
+title: Maharey Reveals Where the Bribe Money Came From
+date: 2001-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00319/maharey-reveals-where-the-bribe-money-came-from.htm
 author: act-new-zealand
+permalink: /archive/2001/08/15/maharey-reveals-where-the-bribe-money-came-from/index.html
+layout: layout.njk
 ---
 Maharey Reveals Where the Bribe Money Came From
 ===============================================

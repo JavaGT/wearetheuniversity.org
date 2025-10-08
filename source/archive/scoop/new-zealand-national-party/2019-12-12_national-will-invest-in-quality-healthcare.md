@@ -1,9 +1,12 @@
 ---
 slug: national-will-invest-in-quality-healthcare
-title: "National will invest in quality healthcare"
-date: 2019-12-12
-source-url: https://www.scoop.co.nz/stories/PA1912/S00103/national-will-invest-in-quality-healthcare.htm
+title: National will invest in quality healthcare
+date: 2019-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00103/national-will-invest-in-quality-healthcare.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/12/national-will-invest-in-quality-healthcare/index.html
+layout: layout.njk
 ---
 National will invest in quality healthcare
 ==========================================

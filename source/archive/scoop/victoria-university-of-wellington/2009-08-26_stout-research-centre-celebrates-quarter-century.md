@@ -1,9 +1,13 @@
 ---
 slug: stout-research-centre-celebrates-quarter-century
-title: "Stout Research Centre celebrates quarter century"
-date: 2009-08-26
-source-url: https://www.scoop.co.nz/stories/ED0908/S00089/stout-research-centre-celebrates-quarter-century.htm
+title: Stout Research Centre celebrates quarter century
+date: 2009-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00089/stout-research-centre-celebrates-quarter-century.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/08/26/stout-research-centre-celebrates-quarter-century/index.html
+layout: layout.njk
 ---
 Stout Research Centre celebrates quarter century
 ================================================

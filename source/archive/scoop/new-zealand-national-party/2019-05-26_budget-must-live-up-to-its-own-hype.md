@@ -1,9 +1,12 @@
 ---
 slug: budget-must-live-up-to-its-own-hype
-title: "Budget must live up to its own hype"
-date: 2019-05-26
-source-url: https://www.scoop.co.nz/stories/PA1905/S00257/budget-must-live-up-to-its-own-hype.htm
+title: Budget must live up to its own hype
+date: 2019-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00257/budget-must-live-up-to-its-own-hype.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/26/budget-must-live-up-to-its-own-hype/index.html
+layout: layout.njk
 ---
 Budget must live up to its own hype
 ===================================

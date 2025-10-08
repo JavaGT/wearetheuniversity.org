@@ -1,9 +1,11 @@
 ---
 slug: smarter-software-development
-title: "Smarter software development"
-date: 2011-06-02
+title: Smarter software development
+date: 2011-06-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1106/S00008/smarter-software-development.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/02/smarter-software-development/index.html
+layout: layout.njk
 ---
 Smarter software development
 ============================

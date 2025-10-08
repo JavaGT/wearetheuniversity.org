@@ -1,9 +1,12 @@
 ---
 slug: resourcing-of-tertiary-ed-must-be-addressed
-title: "Resourcing Of Tertiary Ed Must Be Addressed"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/ED0201/S00008/resourcing-of-tertiary-ed-must-be-addressed.htm
+title: Resourcing Of Tertiary Ed Must Be Addressed
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00008/resourcing-of-tertiary-ed-must-be-addressed.htm
 author: association-of-university-staff
+permalink: /archive/2002/01/24/resourcing-of-tertiary-ed-must-be-addressed/index.html
+layout: layout.njk
 ---
 Resourcing Of Tertiary Ed Must Be Addressed
 ===========================================

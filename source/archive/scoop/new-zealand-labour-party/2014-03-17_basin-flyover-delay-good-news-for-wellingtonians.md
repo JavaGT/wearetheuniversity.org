@@ -1,9 +1,13 @@
 ---
 slug: basin-flyover-delay-good-news-for-wellingtonians
-title: "Basin flyover delay good news for Wellingtonians"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/PA1403/S00325/basin-flyover-delay-good-news-for-wellingtonians.htm
+title: Basin flyover delay good news for Wellingtonians
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00325/basin-flyover-delay-good-news-for-wellingtonians.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/03/17/basin-flyover-delay-good-news-for-wellingtonians/index.html
+layout: layout.njk
 ---
 Basin flyover delay good news for Wellingtonians
 ================================================

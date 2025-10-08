@@ -1,9 +1,12 @@
 ---
 slug: radio-telescope-launch-a-milestone
-title: "Radio telescope launch a milestone"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/ED0810/S00019/radio-telescope-launch-a-milestone.htm
+title: Radio telescope launch a milestone
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00019/radio-telescope-launch-a-milestone.htm
 author: aut-university
+permalink: /archive/2008/10/06/radio-telescope-launch-a-milestone/index.html
+layout: layout.njk
 ---
 Radio telescope launch a milestone
 ==================================

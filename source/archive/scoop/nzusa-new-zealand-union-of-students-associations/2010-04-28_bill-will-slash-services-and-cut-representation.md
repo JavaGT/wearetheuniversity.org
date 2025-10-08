@@ -1,9 +1,12 @@
 ---
 slug: bill-will-slash-services-and-cut-representation
-title: "Bill will slash services and cut representation"
-date: 2010-04-28
-source-url: https://www.scoop.co.nz/stories/ED1004/S00094/bill-will-slash-services-and-cut-representation.htm
+title: Bill will slash services and cut representation
+date: 2010-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00094/bill-will-slash-services-and-cut-representation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/04/28/bill-will-slash-services-and-cut-representation/index.html
+layout: layout.njk
 ---
 Bill will slash services and cut representation
 ===============================================

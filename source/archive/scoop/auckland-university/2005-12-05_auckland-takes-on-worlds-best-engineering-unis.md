@@ -1,9 +1,12 @@
 ---
 slug: auckland-takes-on-worlds-best-engineering-unis
-title: "Auckland Takes On World’s Best Engineering Unis"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00011/auckland-takes-on-worlds-best-engineering-unis.htm
+title: Auckland Takes On World’s Best Engineering Unis
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00011/auckland-takes-on-worlds-best-engineering-unis.htm
 author: auckland-university
+permalink: /archive/2005/12/05/auckland-takes-on-worlds-best-engineering-unis/index.html
+layout: layout.njk
 ---
 Auckland Takes On World’s Best Engineering Unis
 ===============================================

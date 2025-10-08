@@ -1,9 +1,12 @@
 ---
 slug: ocean-is-responding-to-climate-change
-title: "Ocean is responding to climate change"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/SC1610/S00045/ocean-is-responding-to-climate-change.htm
+title: Ocean is responding to climate change
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00045/ocean-is-responding-to-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/10/17/ocean-is-responding-to-climate-change/index.html
+layout: layout.njk
 ---
 Ocean is responding to climate change
 =====================================

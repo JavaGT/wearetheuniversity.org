@@ -1,9 +1,12 @@
 ---
 slug: call-to-protest-us-and-nz-war-crimes!
-title: "Call To  Protest US and NZ war crimes!"
-date: 2010-11-03
-source-url: https://www.scoop.co.nz/stories/PO1011/S00034/call-to-protest-us-and-nz-war-crimes.htm
+title: Call To  Protest US and NZ war crimes!
+date: 2010-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00034/call-to-protest-us-and-nz-war-crimes.htm
 author: peace-action-wellington
+permalink: /archive/2010/11/03/call-to-protest-us-and-nz-war-crimes/index.html
+layout: layout.njk
 ---
 Call To Protest US and NZ war crimes!
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: beware-the-bold-visionary
-title: "Beware the bold visionary"
-date: 2016-07-04
+title: Beware the bold visionary
+date: 2016-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1607/S00007/beware-the-bold-visionary.htm
 author: massey-university
+permalink: /archive/2016/07/04/beware-the-bold-visionary/index.html
+layout: layout.njk
 ---
 Beware the bold visionary
 =========================

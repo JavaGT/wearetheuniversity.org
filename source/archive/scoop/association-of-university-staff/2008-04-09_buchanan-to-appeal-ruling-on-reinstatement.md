@@ -1,9 +1,12 @@
 ---
 slug: buchanan-to-appeal-ruling-on-reinstatement
-title: "Buchanan to appeal ruling on reinstatement"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/ED0804/S00023/buchanan-to-appeal-ruling-on-reinstatement.htm
+title: Buchanan to appeal ruling on reinstatement
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00023/buchanan-to-appeal-ruling-on-reinstatement.htm
 author: association-of-university-staff
+permalink: /archive/2008/04/09/buchanan-to-appeal-ruling-on-reinstatement/index.html
+layout: layout.njk
 ---
 Buchanan to appeal ruling on reinstatement
 ==========================================

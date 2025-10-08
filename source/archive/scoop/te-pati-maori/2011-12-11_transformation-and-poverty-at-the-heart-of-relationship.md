@@ -1,9 +1,13 @@
 ---
 slug: transformation-and-poverty-at-the-heart-of-relationship
-title: "Transformation and Poverty at the Heart of Relationship"
-date: 2011-12-11
-source-url: https://www.scoop.co.nz/stories/PA1112/S00070/transformation-and-poverty-at-the-heart-of-relationship.htm
+title: Transformation and Poverty at the Heart of Relationship
+date: 2011-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00070/transformation-and-poverty-at-the-heart-of-relationship.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/12/11/transformation-and-poverty-at-the-heart-of-relationship/index.html
+layout: layout.njk
 ---
 Transformation and Poverty at the Heart of Relationship
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: allied-staff-@-unitec-to-take-industrial-action
-title: "Allied Staff @ Unitec To Take Industrial Action"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/GE0602/S00049/allied-staff-unitec-to-take-industrial-action.htm
+title: Allied Staff @ Unitec To Take Industrial Action
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0602/S00049/allied-staff-unitec-to-take-industrial-action.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2006/02/20/allied-staff-/index.html
+layout: layout.njk
 ---
 Allied Staff @ Unitec To Take Industrial Action
 ===============================================

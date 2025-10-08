@@ -1,9 +1,13 @@
 ---
 slug: unique-disease-fighting-chemistry-found-in-the-nz-glowworm
-title: "Unique disease fighting chemistry found in the NZ glowworm"
-date: 2018-02-20
-source-url: https://www.scoop.co.nz/stories/GE1802/S00059/unique-disease-fighting-chemistry-found-in-the-nz-glowworm.htm
+title: Unique disease fighting chemistry found in the NZ glowworm
+date: 2018-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00059/unique-disease-fighting-chemistry-found-in-the-nz-glowworm.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/20/unique-disease-fighting-chemistry-found-in-the-nz-glowworm/index.html
+layout: layout.njk
 ---
 Unique disease fighting chemistry found in the NZ glowworm
 ==========================================================

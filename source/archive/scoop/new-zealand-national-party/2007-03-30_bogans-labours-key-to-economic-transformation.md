@@ -1,9 +1,12 @@
 ---
 slug: bogans-labours-key-to-economic-transformation
-title: "Bogans – Labour’s key to ‘economic transformation’"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/PA0703/S00648/bogans-labours-key-to-economic-transformation.htm
+title: Bogans – Labour’s key to ‘economic transformation’
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00648/bogans-labours-key-to-economic-transformation.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/30/bogans-labours-key-to-economic-transformation/index.html
+layout: layout.njk
 ---
 Bogans – Labour’s key to ‘economic transformation’
 ==================================================

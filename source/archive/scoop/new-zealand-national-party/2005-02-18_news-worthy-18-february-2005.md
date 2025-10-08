@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-18-february-2005
-title: "News Worthy - 18 February 2005"
-date: 2005-02-18
+title: News Worthy - 18 February 2005
+date: 2005-02-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00420/news-worthy-18-february-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/18/news-worthy-18-february-2005/index.html
+layout: layout.njk
 ---
 News Worthy - 18 February 2005
 ==============================

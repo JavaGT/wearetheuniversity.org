@@ -1,9 +1,11 @@
 ---
 slug: another-speed-camera-scam
-title: "Another speed camera scam"
-date: 2003-11-25
+title: Another speed camera scam
+date: 2003-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00502/another-speed-camera-scam.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/25/another-speed-camera-scam/index.html
+layout: layout.njk
 ---
 Another speed camera scam
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: otago-nutrition-researcher-awarded-international-prize
-title: "Otago nutrition researcher awarded international prize"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/SC1304/S00026/otago-nutrition-researcher-awarded-international-prize.htm
+title: Otago nutrition researcher awarded international prize
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00026/otago-nutrition-researcher-awarded-international-prize.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/15/otago-nutrition-researcher-awarded-international-prize/index.html
+layout: layout.njk
 ---
 Otago nutrition researcher awarded international prize
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-takes-top-prize-at-2015-kiwinet-awards
-title: "UC researcher takes top prize at 2015 KiwiNet Awards"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/BU1506/S00675/uc-researcher-takes-top-prize-at-2015-kiwinet-awards.htm
+title: UC researcher takes top prize at 2015 KiwiNet Awards
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00675/uc-researcher-takes-top-prize-at-2015-kiwinet-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/06/18/uc-researcher-takes-top-prize-at-2015-kiwinet-awards/index.html
+layout: layout.njk
 ---
 UC researcher takes top prize at 2015 KiwiNet Awards
 ====================================================

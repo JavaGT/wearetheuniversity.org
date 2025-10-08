@@ -1,9 +1,12 @@
 ---
 slug: staff-warn-about-lowering-degree-standards
-title: "Staff Warn About Lowering Degree Standards"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/ED0405/S00051/staff-warn-about-lowering-degree-standards.htm
+title: Staff Warn About Lowering Degree Standards
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00051/staff-warn-about-lowering-degree-standards.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/12/staff-warn-about-lowering-degree-standards/index.html
+layout: layout.njk
 ---
 Staff Warn About Lowering Degree Standards
 ==========================================

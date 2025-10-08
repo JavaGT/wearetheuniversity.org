@@ -1,9 +1,12 @@
 ---
 slug: massey-university-lecture-series-simon-power-mp
-title: "Massey University Lecture Series - Simon Power MP"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/PA0404/S00330/massey-university-lecture-series-simon-power-mp.htm
+title: Massey University Lecture Series - Simon Power MP
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00330/massey-university-lecture-series-simon-power-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/21/massey-university-lecture-series-simon-power-mp/index.html
+layout: layout.njk
 ---
 Massey University Lecture Series - Simon Power MP
 =================================================

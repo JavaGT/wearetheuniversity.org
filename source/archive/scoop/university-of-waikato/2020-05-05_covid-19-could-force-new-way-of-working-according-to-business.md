@@ -1,9 +1,13 @@
 ---
 slug: covid-19-could-force-new-way-of-working-according-to-business
-title: "Covid-19 Could Force New Way Of Working According To Business"
-date: 2020-05-05
-source-url: https://www.scoop.co.nz/stories/BU2005/S00076/covid-19-could-force-new-way-of-working-according-to-business.htm
+title: Covid-19 Could Force New Way Of Working According To Business
+date: 2020-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2005/S00076/covid-19-could-force-new-way-of-working-according-to-business.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/05/covid-19-could-force-new-way-of-working-according-to-business/index.html
+layout: layout.njk
 ---
 Covid-19 Could Force New Way Of Working According To Business
 =============================================================

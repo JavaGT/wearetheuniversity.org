@@ -1,9 +1,12 @@
 ---
 slug: mental-health-problems-for-those-with-disease
-title: "Mental health problems for those with disease"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/GE1010/S00048/mental-health-problems-for-those-with-disease.htm
+title: Mental health problems for those with disease
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1010/S00048/mental-health-problems-for-those-with-disease.htm
 author: aut-university
+permalink: /archive/2010/10/08/mental-health-problems-for-those-with-disease/index.html
+layout: layout.njk
 ---
 Mental health problems for those with disease
 =============================================

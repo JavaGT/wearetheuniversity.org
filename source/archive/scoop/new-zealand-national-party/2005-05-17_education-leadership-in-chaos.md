@@ -1,9 +1,12 @@
 ---
 slug: education-leadership-in-chaos
-title: "Education leadership in chaos"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/PA0505/S00403/education-leadership-in-chaos.htm
+title: Education leadership in chaos
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00403/education-leadership-in-chaos.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/17/education-leadership-in-chaos/index.html
+layout: layout.njk
 ---
 Education leadership in chaos
 =============================

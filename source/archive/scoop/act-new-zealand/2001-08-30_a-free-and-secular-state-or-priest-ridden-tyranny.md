@@ -1,9 +1,13 @@
 ---
 slug: a-free-and-secular-state-or-priest-ridden-tyranny
-title: "A Free and Secular State, or Priest-Ridden Tyranny"
-date: 2001-08-30
-source-url: https://www.scoop.co.nz/stories/PA0108/S00585/a-free-and-secular-state-or-priest-ridden-tyranny.htm
+title: A Free and Secular State, or Priest-Ridden Tyranny
+date: 2001-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00585/a-free-and-secular-state-or-priest-ridden-tyranny.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/08/30/a-free-and-secular-state-or-priest-ridden-tyranny/index.html
+layout: layout.njk
 ---
 A Free and Secular State, or Priest-Ridden Tyranny
 ==================================================

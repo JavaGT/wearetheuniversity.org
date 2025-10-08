@@ -1,9 +1,12 @@
 ---
 slug: wider-debate-vital-as-trade-treaty-nears
-title: "Wider Debate Vital As Trade Treaty Nears"
-date: 2000-09-14
-source-url: https://www.scoop.co.nz/stories/PO0009/S00072/wider-debate-vital-as-trade-treaty-nears.htm
+title: Wider Debate Vital As Trade Treaty Nears
+date: 2000-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0009/S00072/wider-debate-vital-as-trade-treaty-nears.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/09/14/wider-debate-vital-as-trade-treaty-nears/index.html
+layout: layout.njk
 ---
 Wider Debate Vital As Trade Treaty Nears
 ========================================

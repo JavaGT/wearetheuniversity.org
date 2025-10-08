@@ -1,9 +1,13 @@
 ---
 slug: students-celebrate-10th-birthday-of-student-debt
-title: "Students Celebrate 10th Birthday of Student Debt"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/ED0202/S00015/students-celebrate-10th-birthday-of-student-debt.htm
+title: Students Celebrate 10th Birthday of Student Debt
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00015/students-celebrate-10th-birthday-of-student-debt.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2002/02/18/students-celebrate-10th-birthday-of-student-debt/index.html
+layout: layout.njk
 ---
 Students Celebrate 10th Birthday of Student Debt
 ================================================

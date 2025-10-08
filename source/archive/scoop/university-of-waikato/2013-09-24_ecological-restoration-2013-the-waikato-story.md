@@ -1,9 +1,12 @@
 ---
 slug: ecological-restoration-2013-the-waikato-story
-title: "Ecological Restoration 2013: The Waikato Story"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/SC1309/S00063/ecological-restoration-2013-the-waikato-story.htm
+title: 'Ecological Restoration 2013: The Waikato Story'
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00063/ecological-restoration-2013-the-waikato-story.htm
 author: university-of-waikato
+permalink: /archive/2013/09/24/ecological-restoration-2013-the-waikato-story/index.html
+layout: layout.njk
 ---
 Ecological Restoration 2013: The Waikato Story
 ==============================================

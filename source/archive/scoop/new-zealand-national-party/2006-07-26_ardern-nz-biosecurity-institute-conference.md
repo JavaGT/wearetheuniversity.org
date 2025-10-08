@@ -1,9 +1,12 @@
 ---
 slug: ardern-nz-biosecurity-institute-conference
-title: "Ardern: NZ Biosecurity Institute Conference"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00419/ardern-nz-biosecurity-institute-conference.htm
+title: 'Ardern: NZ Biosecurity Institute Conference'
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00419/ardern-nz-biosecurity-institute-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/26/ardern-nz-biosecurity-institute-conference/index.html
+layout: layout.njk
 ---
 Ardern: NZ Biosecurity Institute Conference
 ===========================================

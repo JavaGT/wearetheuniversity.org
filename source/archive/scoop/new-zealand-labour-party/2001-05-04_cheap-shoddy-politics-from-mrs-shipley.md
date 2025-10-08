@@ -1,9 +1,12 @@
 ---
 slug: cheap-shoddy-politics-from-mrs-shipley
-title: "Cheap Shoddy politics from Mrs Shipley"
-date: 2001-05-04
-source-url: https://www.scoop.co.nz/stories/PA0105/S00112/cheap-shoddy-politics-from-mrs-shipley.htm
+title: Cheap Shoddy politics from Mrs Shipley
+date: 2001-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00112/cheap-shoddy-politics-from-mrs-shipley.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/05/04/cheap-shoddy-politics-from-mrs-shipley/index.html
+layout: layout.njk
 ---
 Cheap Shoddy politics from Mrs Shipley
 ======================================

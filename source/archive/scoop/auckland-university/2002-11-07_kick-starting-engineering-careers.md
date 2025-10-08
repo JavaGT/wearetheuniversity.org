@@ -1,9 +1,12 @@
 ---
 slug: kick-starting-engineering-careers
-title: "Kick Starting engineering careers"
-date: 2002-11-07
-source-url: https://www.scoop.co.nz/stories/ED0211/S00016/kick-starting-engineering-careers.htm
+title: Kick Starting engineering careers
+date: 2002-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00016/kick-starting-engineering-careers.htm
 author: auckland-university
+permalink: /archive/2002/11/07/kick-starting-engineering-careers/index.html
+layout: layout.njk
 ---
 Kick Starting engineering careers
 =================================

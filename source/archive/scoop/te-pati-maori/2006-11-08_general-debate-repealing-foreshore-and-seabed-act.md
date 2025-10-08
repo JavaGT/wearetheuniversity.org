@@ -1,9 +1,13 @@
 ---
 slug: general-debate-repealing-foreshore-and-seabed-act
-title: "General Debate: Repealing Foreshore and Seabed Act"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/PA0611/S00151/general-debate-repealing-foreshore-and-seabed-act.htm
+title: 'General Debate: Repealing Foreshore and Seabed Act'
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00151/general-debate-repealing-foreshore-and-seabed-act.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/11/08/general-debate-repealing-foreshore-and-seabed-act/index.html
+layout: layout.njk
 ---
 General Debate: Repealing Foreshore and Seabed Act
 ==================================================

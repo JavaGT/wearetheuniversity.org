@@ -1,9 +1,12 @@
 ---
 slug: creative-arts-festival-nears-lift-off
-title: "Creative arts festival nears lift-off"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/CU1010/S00158/creative-arts-festival-nears-lift-off.htm
+title: Creative arts festival nears lift-off
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00158/creative-arts-festival-nears-lift-off.htm
 author: massey-university
+permalink: /archive/2010/10/12/creative-arts-festival-nears-lift-off/index.html
+layout: layout.njk
 ---
 Creative arts festival nears lift-off
 =====================================

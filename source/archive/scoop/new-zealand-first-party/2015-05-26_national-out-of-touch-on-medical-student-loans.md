@@ -1,9 +1,12 @@
 ---
 slug: national-out-of-touch-on-medical-student-loans
-title: "National Out of Touch on Medical Student Loans"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/PA1505/S00455/national-out-of-touch-on-medical-student-loans.htm
+title: National Out of Touch on Medical Student Loans
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00455/national-out-of-touch-on-medical-student-loans.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/26/national-out-of-touch-on-medical-student-loans/index.html
+layout: layout.njk
 ---
 National Out of Touch on Medical Student Loans
 ==============================================

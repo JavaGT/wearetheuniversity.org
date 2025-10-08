@@ -1,9 +1,12 @@
 ---
 slug: latest-polytech-merger-result-of-budget-cuts
-title: "Latest polytech merger result of budget cuts"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/PA1507/S00241/latest-polytech-merger-result-of-budget-cuts.htm
+title: Latest polytech merger result of budget cuts
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00241/latest-polytech-merger-result-of-budget-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/15/latest-polytech-merger-result-of-budget-cuts/index.html
+layout: layout.njk
 ---
 Latest polytech merger result of budget cuts
 ============================================

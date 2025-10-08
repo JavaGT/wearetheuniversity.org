@@ -1,9 +1,13 @@
 ---
 slug: national-to-invest-in-quality-education-for-our-kids
-title: "National to invest in quality education for our kids"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/PA1911/S00096/national-to-invest-in-quality-education-for-our-kids.htm
+title: National to invest in quality education for our kids
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00096/national-to-invest-in-quality-education-for-our-kids.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/13/national-to-invest-in-quality-education-for-our-kids/index.html
+layout: layout.njk
 ---
 National to invest in quality education for our kids
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: young-labour-slams-right-wing-arrogance
-title: "Young Labour slams right wing arrogance"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PO9909/S00108/young-labour-slams-right-wing-arrogance.htm
+title: Young Labour slams right wing arrogance
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00108/young-labour-slams-right-wing-arrogance.htm
 author: young-labour
+permalink: /archive/1999/09/29/young-labour-slams-right-wing-arrogance/index.html
+layout: layout.njk
 ---
 Young Labour slams right wing arrogance
 =======================================

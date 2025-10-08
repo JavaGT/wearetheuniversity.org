@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-to-student-council-hui
-title: "Turia: Speech to Student Council Hui"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/PA0409/S00546/turia-speech-to-student-council-hui.htm
+title: 'Turia: Speech to Student Council Hui'
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00546/turia-speech-to-student-council-hui.htm
 author: te-pati-maori
+permalink: /archive/2004/09/27/turia-speech-to-student-council-hui/index.html
+layout: layout.njk
 ---
 Turia: Speech to Student Council Hui
 ====================================

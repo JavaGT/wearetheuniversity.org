@@ -1,9 +1,12 @@
 ---
 slug: brace-yourself-for-another-immigrant-invasion
-title: "Brace Yourself For Another Immigrant Invasion"
-date: 2004-07-06
-source-url: https://www.scoop.co.nz/stories/PA0407/S00104/brace-yourself-for-another-immigrant-invasion.htm
+title: Brace Yourself For Another Immigrant Invasion
+date: 2004-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00104/brace-yourself-for-another-immigrant-invasion.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/06/brace-yourself-for-another-immigrant-invasion/index.html
+layout: layout.njk
 ---
 Brace Yourself For Another Immigrant Invasion
 =============================================

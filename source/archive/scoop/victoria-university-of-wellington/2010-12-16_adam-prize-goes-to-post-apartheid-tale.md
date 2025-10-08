@@ -1,9 +1,12 @@
 ---
 slug: adam-prize-goes-to-post-apartheid-tale
-title: "Adam Prize goes to post-apartheid tale"
-date: 2010-12-16
-source-url: https://www.scoop.co.nz/stories/CU1012/S00207/adam-prize-goes-to-post-apartheid-tale.htm
+title: Adam Prize goes to post-apartheid tale
+date: 2010-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1012/S00207/adam-prize-goes-to-post-apartheid-tale.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/16/adam-prize-goes-to-post-apartheid-tale/index.html
+layout: layout.njk
 ---
 Adam Prize goes to post-apartheid tale
 ======================================

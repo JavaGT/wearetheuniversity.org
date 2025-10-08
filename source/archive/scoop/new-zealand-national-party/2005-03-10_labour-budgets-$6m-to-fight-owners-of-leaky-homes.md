@@ -1,9 +1,12 @@
 ---
 slug: labour-budgets-$6m-to-fight-owners-of-leaky-homes
-title: "Labour budgets $6m to fight owners of leaky homes"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/PA0503/S00212/labour-budgets-6m-to-fight-owners-of-leaky-homes.htm
+title: Labour budgets $6m to fight owners of leaky homes
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00212/labour-budgets-6m-to-fight-owners-of-leaky-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/10/labour-budgets-/index.html
+layout: layout.njk
 ---
 Labour budgets $6m to fight owners of leaky homes
 =================================================

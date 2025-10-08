@@ -1,9 +1,13 @@
 ---
 slug: universities-mourn-her-majesty-and-praise-her-support-for-higher-education
-title: "Universities Mourn Her Majesty And Praise Her Support For Higher Education"
-date: 2022-09-09
-source-url: https://www.scoop.co.nz/stories/PO2209/S00063/universities-mourn-her-majesty-and-praise-her-support-for-higher-education.htm
+title: Universities Mourn Her Majesty And Praise Her Support For Higher Education
+date: 2022-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00063/universities-mourn-her-majesty-and-praise-her-support-for-higher-education.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/09/09/universities-mourn-her-majesty-and-praise-her-support-for-higher-education/index.html
+layout: layout.njk
 ---
 Universities Mourn Her Majesty And Praise Her Support For Higher Education
 ==========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: happy-birthday-kingi-tuheitia
-title: "Happy birthday Kingi Tuheitia"
-date: 2009-04-21
-source-url: https://www.scoop.co.nz/stories/PA0904/S00252/happy-birthday-kingi-tuheitia.htm
+title: Happy birthday Kingi Tuheitia
+date: 2009-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00252/happy-birthday-kingi-tuheitia.htm
 author: te-pati-maori
+permalink: /archive/2009/04/21/happy-birthday-kingi-tuheitia/index.html
+layout: layout.njk
 ---
 Happy birthday Kingi Tuheitia
 =============================

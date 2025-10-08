@@ -1,9 +1,12 @@
 ---
 slug: aut-researchers-give-auckland-super-city-a-b
-title: "AUT researchers give Auckland Super City a ‘B’"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/AK1308/S00882/aut-researchers-give-auckland-super-city-a-b.htm
+title: AUT researchers give Auckland Super City a ‘B’
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00882/aut-researchers-give-auckland-super-city-a-b.htm
 author: aut-university
+permalink: /archive/2013/08/30/aut-researchers-give-auckland-super-city-a-b/index.html
+layout: layout.njk
 ---
 AUT researchers give Auckland Super City a ‘B’
 ==============================================

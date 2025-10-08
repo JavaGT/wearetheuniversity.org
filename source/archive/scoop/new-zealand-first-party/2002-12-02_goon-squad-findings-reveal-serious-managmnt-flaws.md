@@ -1,9 +1,13 @@
 ---
 slug: goon-squad-findings-reveal-serious-managmnt-flaws
-title: "Goon Squad Findings Reveal Serious Managmnt. Flaws"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00019/goon-squad-findings-reveal-serious-managmnt-flaws.htm
+title: Goon Squad Findings Reveal Serious Managmnt. Flaws
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00019/goon-squad-findings-reveal-serious-managmnt-flaws.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/12/02/goon-squad-findings-reveal-serious-managmnt-flaws/index.html
+layout: layout.njk
 ---
 Goon Squad Findings Reveal Serious Managmnt. Flaws
 ==================================================

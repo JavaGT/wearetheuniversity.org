@@ -1,9 +1,13 @@
 ---
 slug: fighting-rape-culture-in-aotearoa-a-survivors-perspective
-title: "Fighting Rape Culture in Aotearoa: A Survivor’s Perspective"
-date: 2013-11-25
-source-url: https://www.scoop.co.nz/stories/HL1311/S00218/fighting-rape-culture-in-aotearoa-a-survivors-perspective.htm
+title: 'Fighting Rape Culture in Aotearoa: A Survivor’s Perspective'
+date: 2013-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1311/S00218/fighting-rape-culture-in-aotearoa-a-survivors-perspective.htm
 author: fightback
+permalink: >-
+  /archive/2013/11/25/fighting-rape-culture-in-aotearoa-a-survivors-perspective/index.html
+layout: layout.njk
 ---
 Fighting Rape Culture in Aotearoa: A Survivor’s Perspective
 ===========================================================

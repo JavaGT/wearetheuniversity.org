@@ -1,9 +1,13 @@
 ---
 slug: uc-launches-special-research-project-to-help-antarctic-seals
-title: "UC launches special research project to help Antarctic seals"
-date: 2013-02-17
-source-url: https://www.scoop.co.nz/stories/ED1302/S00083/uc-launches-special-research-project-to-help-antarctic-seals.htm
+title: UC launches special research project to help Antarctic seals
+date: 2013-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00083/uc-launches-special-research-project-to-help-antarctic-seals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/17/uc-launches-special-research-project-to-help-antarctic-seals/index.html
+layout: layout.njk
 ---
 UC launches special research project to help Antarctic seals
 ============================================================

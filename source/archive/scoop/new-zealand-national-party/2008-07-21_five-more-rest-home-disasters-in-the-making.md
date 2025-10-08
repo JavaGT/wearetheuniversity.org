@@ -1,9 +1,12 @@
 ---
 slug: five-more-rest-home-disasters-in-the-making
-title: "Five more rest home disasters in the making?"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/PA0807/S00353/five-more-rest-home-disasters-in-the-making.htm
+title: Five more rest home disasters in the making?
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00353/five-more-rest-home-disasters-in-the-making.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/21/five-more-rest-home-disasters-in-the-making/index.html
+layout: layout.njk
 ---
 Five more rest home disasters in the making?
 ============================================

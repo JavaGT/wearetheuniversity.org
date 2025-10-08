@@ -1,9 +1,12 @@
 ---
 slug: smart-meters-get-the-safety-nod
-title: "Smart meters get the safety nod"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/SC1205/S00042/smart-meters-get-the-safety-nod.htm
+title: Smart meters get the safety nod
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00042/smart-meters-get-the-safety-nod.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/17/smart-meters-get-the-safety-nod/index.html
+layout: layout.njk
 ---
 Smart meters get the safety nod
 ===============================

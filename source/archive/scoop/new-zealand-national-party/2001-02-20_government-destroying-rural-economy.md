@@ -1,9 +1,12 @@
 ---
 slug: government-destroying-rural-economy
-title: "Government destroying rural economy"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00309/government-destroying-rural-economy.htm
+title: Government destroying rural economy
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00309/government-destroying-rural-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/20/government-destroying-rural-economy/index.html
+layout: layout.njk
 ---
 Government destroying rural economy
 ===================================

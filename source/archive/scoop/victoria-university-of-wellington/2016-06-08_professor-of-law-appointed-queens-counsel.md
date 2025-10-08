@@ -1,9 +1,12 @@
 ---
 slug: professor-of-law-appointed-queens-counsel
-title: "Professor of Law appointed Queen’s Counsel"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/BU1606/S00165/professor-of-law-appointed-queens-counsel.htm
+title: Professor of Law appointed Queen’s Counsel
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1606/S00165/professor-of-law-appointed-queens-counsel.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/06/08/professor-of-law-appointed-queens-counsel/index.html
+layout: layout.njk
 ---
 Professor of Law appointed Queen’s Counsel
 ==========================================

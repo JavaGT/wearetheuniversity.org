@@ -1,9 +1,12 @@
 ---
 slug: nationals-zero-budget-=-zero-jobs
-title: "National’s ‘Zero Budget’ = zero jobs"
-date: 2012-12-19
-source-url: https://www.scoop.co.nz/stories/PA1212/S00350/nationals-zero-budget-zero-jobs.htm
+title: National’s ‘Zero Budget’ = zero jobs
+date: 2012-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00350/nationals-zero-budget-zero-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/19/nationals-zero-budget-/index.html
+layout: layout.njk
 ---
 National’s ‘Zero Budget’ = zero jobs
 ====================================

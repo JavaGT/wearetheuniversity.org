@@ -1,9 +1,11 @@
 ---
 slug: equal-access-for-fruit-juice
-title: "Equal access for fruit juice"
-date: 2006-12-13
+title: Equal access for fruit juice
+date: 2006-12-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0612/S00037/equal-access-for-fruit-juice.htm
 author: massey-university
+permalink: /archive/2006/12/13/equal-access-for-fruit-juice/index.html
+layout: layout.njk
 ---
 Equal access for fruit juice
 ============================

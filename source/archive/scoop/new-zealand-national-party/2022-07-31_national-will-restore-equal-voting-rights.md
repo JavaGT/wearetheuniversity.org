@@ -1,9 +1,12 @@
 ---
 slug: national-will-restore-equal-voting-rights
-title: "National Will Restore Equal Voting Rights"
-date: 2022-07-31
-source-url: https://www.scoop.co.nz/stories/PA2207/S00215/national-will-restore-equal-voting-rights.htm
+title: National Will Restore Equal Voting Rights
+date: 2022-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00215/national-will-restore-equal-voting-rights.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/31/national-will-restore-equal-voting-rights/index.html
+layout: layout.njk
 ---
 National Will Restore Equal Voting Rights
 =========================================

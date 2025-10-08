@@ -1,9 +1,12 @@
 ---
 slug: budget-2014-just-crumbs-on-the-table
-title: "Budget 2014 just crumbs on the table"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/PA1405/S00405/budget-2014-just-crumbs-on-the-table.htm
+title: Budget 2014 just crumbs on the table
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00405/budget-2014-just-crumbs-on-the-table.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/21/budget-2014-just-crumbs-on-the-table/index.html
+layout: layout.njk
 ---
 Budget 2014 just crumbs on the table
 ====================================

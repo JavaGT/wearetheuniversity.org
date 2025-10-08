@@ -1,9 +1,12 @@
 ---
 slug: harawira-speech-appropriation-bill
-title: "Harawira Speech: Appropriation Bill"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/PA0610/S00330/harawira-speech-appropriation-bill.htm
+title: 'Harawira Speech: Appropriation Bill'
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00330/harawira-speech-appropriation-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/18/harawira-speech-appropriation-bill/index.html
+layout: layout.njk
 ---
 Harawira Speech: Appropriation Bill
 ===================================

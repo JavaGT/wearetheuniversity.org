@@ -1,9 +1,12 @@
 ---
 slug: prominent-lawyer-appointed-adjunct-professor
-title: "Prominent lawyer appointed Adjunct Professor"
-date: 2000-02-03
-source-url: https://www.scoop.co.nz/stories/ED0002/S00004/prominent-lawyer-appointed-adjunct-professor.htm
+title: Prominent lawyer appointed Adjunct Professor
+date: 2000-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00004/prominent-lawyer-appointed-adjunct-professor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/03/prominent-lawyer-appointed-adjunct-professor/index.html
+layout: layout.njk
 ---
 Prominent lawyer appointed Adjunct Professor
 ============================================

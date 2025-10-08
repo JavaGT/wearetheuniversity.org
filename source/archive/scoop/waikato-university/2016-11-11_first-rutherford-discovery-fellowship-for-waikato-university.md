@@ -1,9 +1,13 @@
 ---
 slug: first-rutherford-discovery-fellowship-for-waikato-university
-title: "First Rutherford Discovery Fellowship for Waikato University"
-date: 2016-11-11
-source-url: https://www.scoop.co.nz/stories/SC1611/S00017/first-rutherford-discovery-fellowship-for-waikato-university.htm
+title: First Rutherford Discovery Fellowship for Waikato University
+date: 2016-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00017/first-rutherford-discovery-fellowship-for-waikato-university.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/11/11/first-rutherford-discovery-fellowship-for-waikato-university/index.html
+layout: layout.njk
 ---
 First Rutherford Discovery Fellowship for Waikato University
 ============================================================

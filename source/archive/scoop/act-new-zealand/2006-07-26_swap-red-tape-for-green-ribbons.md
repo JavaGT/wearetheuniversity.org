@@ -1,9 +1,12 @@
 ---
 slug: swap-red-tape-for-green-ribbons
-title: "Swap Red Tape For Green Ribbons"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00420/swap-red-tape-for-green-ribbons.htm
+title: Swap Red Tape For Green Ribbons
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00420/swap-red-tape-for-green-ribbons.htm
 author: act-new-zealand
+permalink: /archive/2006/07/26/swap-red-tape-for-green-ribbons/index.html
+layout: layout.njk
 ---
 Swap Red Tape For Green Ribbons
 ===============================

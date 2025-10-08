@@ -1,9 +1,13 @@
 ---
 slug: graduates-demand-university-divestment-for-their-futures
-title: "Graduates demand university divestment for their futures"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PO1705/S00019/graduates-demand-university-divestment-for-their-futures.htm
+title: Graduates demand university divestment for their futures
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00019/graduates-demand-university-divestment-for-their-futures.htm
 author: fossil-free-auckland
+permalink: >-
+  /archive/2017/05/02/graduates-demand-university-divestment-for-their-futures/index.html
+layout: layout.njk
 ---
 Graduates demand university divestment for their futures
 ========================================================

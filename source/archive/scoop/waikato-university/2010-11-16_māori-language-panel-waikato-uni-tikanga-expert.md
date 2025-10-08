@@ -1,9 +1,12 @@
 ---
 slug: māori-language-panel-waikato-uni-tikanga-expert
-title: "Māori language Panel: Waikato Uni tikanga expert"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/ED1011/S00061/maori-language-panel-waikato-uni-tikanga-expert.htm
+title: 'Māori language Panel: Waikato Uni tikanga expert'
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00061/maori-language-panel-waikato-uni-tikanga-expert.htm
 author: waikato-university
+permalink: /archive/2010/11/16/m/index.html
+layout: layout.njk
 ---
 Māori language Panel: Waikato Uni tikanga expert
 ================================================

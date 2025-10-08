@@ -1,9 +1,12 @@
 ---
 slug: wider-scope-for-birth-injuries-bill-celebrated
-title: "Wider Scope For Birth Injuries Bill Celebrated"
-date: 2022-07-28
-source-url: https://www.scoop.co.nz/stories/PO2207/S00168/wider-scope-for-birth-injuries-bill-celebrated.htm
+title: Wider Scope For Birth Injuries Bill Celebrated
+date: 2022-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2207/S00168/wider-scope-for-birth-injuries-bill-celebrated.htm
 author: green-party
+permalink: /archive/2022/07/28/wider-scope-for-birth-injuries-bill-celebrated/index.html
+layout: layout.njk
 ---
 Wider Scope For Birth Injuries Bill Celebrated
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: national-seeks-auditor-general-investigation-into-mongrel-mob-funding
-title: "National Seeks Auditor General Investigation Into Mongrel-Mob Funding"
-date: 2021-07-19
-source-url: https://www.scoop.co.nz/stories/PA2107/S00140/national-seeks-auditor-general-investigation-into-mongrel-mob-funding.htm
+title: National Seeks Auditor General Investigation Into Mongrel-Mob Funding
+date: 2021-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00140/national-seeks-auditor-general-investigation-into-mongrel-mob-funding.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/19/national-seeks-auditor-general-investigation-into-mongrel-mob-funding/index.html
+layout: layout.njk
 ---
 National Seeks Auditor General Investigation Into Mongrel-Mob Funding
 =====================================================================

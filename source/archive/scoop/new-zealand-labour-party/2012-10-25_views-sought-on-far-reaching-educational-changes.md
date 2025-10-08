@@ -1,9 +1,13 @@
 ---
 slug: views-sought-on-far-reaching-educational-changes
-title: "Views Sought On Far-Reaching Educational Changes"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/PA1210/S00438/views-sought-on-far-reaching-educational-changes.htm
+title: Views Sought On Far-Reaching Educational Changes
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00438/views-sought-on-far-reaching-educational-changes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/25/views-sought-on-far-reaching-educational-changes/index.html
+layout: layout.njk
 ---
 Views Sought On Far-Reaching Educational Changes
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: tourism-reset-would-hurt-agricultural-exporters
-title: "Tourism Reset Would Hurt Agricultural Exporters"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/BU2110/S00640/tourism-reset-would-hurt-agricultural-exporters.htm
+title: Tourism Reset Would Hurt Agricultural Exporters
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2110/S00640/tourism-reset-would-hurt-agricultural-exporters.htm
 author: lincoln-university
+permalink: /archive/2021/10/26/tourism-reset-would-hurt-agricultural-exporters/index.html
+layout: layout.njk
 ---
 Tourism Reset Would Hurt Agricultural Exporters
 ===============================================

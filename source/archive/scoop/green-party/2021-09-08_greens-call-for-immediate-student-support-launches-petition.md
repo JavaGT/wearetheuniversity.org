@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-immediate-student-support-launches-petition
-title: "Greens call for immediate student support, launches petition"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/PA2109/S00068/greens-call-for-immediate-student-support-launches-petition.htm
+title: Greens call for immediate student support, launches petition
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00068/greens-call-for-immediate-student-support-launches-petition.htm
 author: green-party
+permalink: >-
+  /archive/2021/09/08/greens-call-for-immediate-student-support-launches-petition/index.html
+layout: layout.njk
 ---
 Greens call for immediate student support, launches petition
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: industrial-action-looms-at-massey
-title: "Industrial action looms at Massey"
-date: 2001-11-13
-source-url: https://www.scoop.co.nz/stories/ED0111/S00030/industrial-action-looms-at-massey.htm
+title: Industrial action looms at Massey
+date: 2001-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00030/industrial-action-looms-at-massey.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/13/industrial-action-looms-at-massey/index.html
+layout: layout.njk
 ---
 Industrial action looms at Massey
 =================================

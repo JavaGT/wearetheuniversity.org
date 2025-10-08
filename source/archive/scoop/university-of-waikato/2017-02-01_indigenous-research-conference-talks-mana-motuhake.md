@@ -1,9 +1,13 @@
 ---
 slug: indigenous-research-conference-talks-mana-motuhake
-title: "Indigenous research conference talks Mana Motuhake"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/ED1702/S00003/indigenous-research-conference-talks-mana-motuhake.htm
+title: Indigenous research conference talks Mana Motuhake
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00003/indigenous-research-conference-talks-mana-motuhake.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/02/01/indigenous-research-conference-talks-mana-motuhake/index.html
+layout: layout.njk
 ---
 Indigenous research conference talks Mana Motuhake
 ==================================================

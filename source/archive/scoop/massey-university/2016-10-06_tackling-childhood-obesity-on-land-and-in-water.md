@@ -1,9 +1,12 @@
 ---
 slug: tackling-childhood-obesity-on-land-and-in-water
-title: "Tackling childhood obesity on land and in water"
-date: 2016-10-06
-source-url: https://www.scoop.co.nz/stories/GE1610/S00020/tackling-childhood-obesity-on-land-and-in-water.htm
+title: Tackling childhood obesity on land and in water
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1610/S00020/tackling-childhood-obesity-on-land-and-in-water.htm
 author: massey-university
+permalink: /archive/2016/10/06/tackling-childhood-obesity-on-land-and-in-water/index.html
+layout: layout.njk
 ---
 Tackling childhood obesity on land and in water
 ===============================================

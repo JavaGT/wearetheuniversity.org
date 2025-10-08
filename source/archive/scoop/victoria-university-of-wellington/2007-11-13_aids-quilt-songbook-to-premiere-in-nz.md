@@ -1,9 +1,12 @@
 ---
 slug: aids-quilt-songbook-to-premiere-in-nz
-title: "AIDS Quilt Songbook to premiere in NZ"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/CU0711/S00184/aids-quilt-songbook-to-premiere-in-nz.htm
+title: AIDS Quilt Songbook to premiere in NZ
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0711/S00184/aids-quilt-songbook-to-premiere-in-nz.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/13/aids-quilt-songbook-to-premiere-in-nz/index.html
+layout: layout.njk
 ---
 AIDS Quilt Songbook to premiere in NZ
 =====================================

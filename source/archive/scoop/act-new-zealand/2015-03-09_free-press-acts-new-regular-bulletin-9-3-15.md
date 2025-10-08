@@ -1,9 +1,12 @@
 ---
 slug: free-press-acts-new-regular-bulletin-9-3-15
-title: "Free Press - ACT’s new regular bulletin - 9/3/15"
-date: 2015-03-09
-source-url: https://www.scoop.co.nz/stories/PA1503/S00097/free-press-acts-new-regular-bulletin-9315.htm
+title: Free Press - ACT’s new regular bulletin - 9/3/15
+date: 2015-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00097/free-press-acts-new-regular-bulletin-9315.htm
 author: act-new-zealand
+permalink: /archive/2015/03/09/free-press-acts-new-regular-bulletin-9-3-15/index.html
+layout: layout.njk
 ---
 Free Press - ACT’s new regular bulletin - 9/3/15
 ================================================

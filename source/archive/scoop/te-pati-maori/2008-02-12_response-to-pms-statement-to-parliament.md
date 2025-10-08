@@ -1,9 +1,12 @@
 ---
 slug: response-to-pms-statement-to-parliament
-title: "Response to PM's Statement to Parliament"
-date: 2008-02-12
-source-url: https://www.scoop.co.nz/stories/PA0802/S00148/response-to-pms-statement-to-parliament.htm
+title: Response to PM's Statement to Parliament
+date: 2008-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00148/response-to-pms-statement-to-parliament.htm
 author: te-pati-maori
+permalink: /archive/2008/02/12/response-to-pms-statement-to-parliament/index.html
+layout: layout.njk
 ---
 Response to PM's Statement to Parliament
 ========================================

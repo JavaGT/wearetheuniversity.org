@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-policy-on-environment
-title: "Greens Launch Policy On Environment"
-date: 2002-07-04
-source-url: https://www.scoop.co.nz/stories/PA0207/S00139/greens-launch-policy-on-environment.htm
+title: Greens Launch Policy On Environment
+date: 2002-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00139/greens-launch-policy-on-environment.htm
 author: green-party
+permalink: /archive/2002/07/04/greens-launch-policy-on-environment/index.html
+layout: layout.njk
 ---
 Greens Launch Policy On Environment
 ===================================

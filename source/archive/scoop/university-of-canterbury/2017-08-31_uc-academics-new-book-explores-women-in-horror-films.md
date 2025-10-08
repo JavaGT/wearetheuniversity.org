@@ -1,9 +1,13 @@
 ---
 slug: uc-academics-new-book-explores-women-in-horror-films
-title: "UC academic’s new book explores women in horror films"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/CU1708/S00537/uc-academics-new-book-explores-women-in-horror-films.htm
+title: UC academic’s new book explores women in horror films
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1708/S00537/uc-academics-new-book-explores-women-in-horror-films.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/31/uc-academics-new-book-explores-women-in-horror-films/index.html
+layout: layout.njk
 ---
 UC academic’s new book explores women in horror films
 =====================================================

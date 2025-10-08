@@ -1,9 +1,13 @@
 ---
 slug: medicinal-cannabis-finally-on-parliaments-agenda
-title: "Medicinal cannabis finally on Parliament’s agenda"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/PA1706/S00134/medicinal-cannabis-finally-on-parliaments-agenda.htm
+title: Medicinal cannabis finally on Parliament’s agenda
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00134/medicinal-cannabis-finally-on-parliaments-agenda.htm
 author: green-party
+permalink: >-
+  /archive/2017/06/08/medicinal-cannabis-finally-on-parliaments-agenda/index.html
+layout: layout.njk
 ---
 Medicinal cannabis finally on Parliament’s agenda
 =================================================

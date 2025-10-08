@@ -1,9 +1,13 @@
 ---
 slug: opera-brought-to-life-outside-concentration-camp
-title: "Opera brought to life outside concentration camp"
-date: 2014-04-24
-source-url: https://www.scoop.co.nz/stories/CU1404/S00359/opera-brought-to-life-outside-concentration-camp.htm
+title: Opera brought to life outside concentration camp
+date: 2014-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00359/opera-brought-to-life-outside-concentration-camp.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/04/24/opera-brought-to-life-outside-concentration-camp/index.html
+layout: layout.njk
 ---
 Opera brought to life outside concentration camp
 ================================================

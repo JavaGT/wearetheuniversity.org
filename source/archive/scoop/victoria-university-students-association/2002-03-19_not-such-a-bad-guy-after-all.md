@@ -1,9 +1,11 @@
 ---
 slug: not-such-a-bad-guy-after-all
-title: "Not Such A Bad Guy After All"
-date: 2002-03-19
+title: Not Such A Bad Guy After All
+date: 2002-03-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0203/S00038/not-such-a-bad-guy-after-all.htm
 author: victoria-university-students-association
+permalink: /archive/2002/03/19/not-such-a-bad-guy-after-all/index.html
+layout: layout.njk
 ---
 Not Such A Bad Guy After All
 ============================

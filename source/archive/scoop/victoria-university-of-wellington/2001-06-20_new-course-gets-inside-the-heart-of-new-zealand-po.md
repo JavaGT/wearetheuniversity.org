@@ -1,9 +1,13 @@
 ---
 slug: new-course-gets-inside-the-heart-of-new-zealand-po
-title: "New course gets inside the heart of New Zealand po"
-date: 2001-06-20
-source-url: https://www.scoop.co.nz/stories/PO0106/S00075/new-course-gets-inside-the-heart-of-new-zealand-po.htm
+title: New course gets inside the heart of New Zealand po
+date: 2001-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0106/S00075/new-course-gets-inside-the-heart-of-new-zealand-po.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/06/20/new-course-gets-inside-the-heart-of-new-zealand-po/index.html
+layout: layout.njk
 ---
 New course gets inside the heart of New Zealand po
 ==================================================

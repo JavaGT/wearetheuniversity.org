@@ -1,9 +1,12 @@
 ---
 slug: act-deputy-leader-chases-votes-in-uk
-title: "ACT Deputy Leader Chases Votes in UK"
-date: 2002-07-09
-source-url: https://www.scoop.co.nz/stories/PA0207/S00260/act-deputy-leader-chases-votes-in-uk.htm
+title: ACT Deputy Leader Chases Votes in UK
+date: 2002-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00260/act-deputy-leader-chases-votes-in-uk.htm
 author: act-new-zealand
+permalink: /archive/2002/07/09/act-deputy-leader-chases-votes-in-uk/index.html
+layout: layout.njk
 ---
 ACT Deputy Leader Chases Votes in UK
 ====================================

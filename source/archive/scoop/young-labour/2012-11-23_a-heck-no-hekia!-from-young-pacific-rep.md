@@ -1,9 +1,12 @@
 ---
 slug: a-heck-no-hekia!-from-young-pacific-rep
-title: "A \"Heck No, Hekia!\" from Young Pacific Rep"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/PO1211/S00339/a-heck-no-hekia-from-young-pacific-rep.htm
+title: A "Heck No, Hekia!" from Young Pacific Rep
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00339/a-heck-no-hekia-from-young-pacific-rep.htm
 author: young-labour
+permalink: /archive/2012/11/23/a-heck-no-hekia/index.html
+layout: layout.njk
 ---
 A “Heck No, Hekia!” from Young Pacific Rep
 ==========================================

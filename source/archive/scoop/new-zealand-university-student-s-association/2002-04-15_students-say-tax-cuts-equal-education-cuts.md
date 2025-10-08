@@ -1,9 +1,12 @@
 ---
 slug: students-say-tax-cuts-equal-education-cuts
-title: "Students Say Tax Cuts Equal Education Cuts"
-date: 2002-04-15
-source-url: https://www.scoop.co.nz/stories/PO0204/S00092/students-say-tax-cuts-equal-education-cuts.htm
+title: Students Say Tax Cuts Equal Education Cuts
+date: 2002-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0204/S00092/students-say-tax-cuts-equal-education-cuts.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/04/15/students-say-tax-cuts-equal-education-cuts/index.html
+layout: layout.njk
 ---
 Students Say Tax Cuts Equal Education Cuts
 ==========================================

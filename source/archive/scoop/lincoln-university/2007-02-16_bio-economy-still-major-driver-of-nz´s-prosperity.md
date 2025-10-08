@@ -1,9 +1,12 @@
 ---
 slug: bio-economy-`still-major-driver-of-nz´s-prosperity
-title: "Bio-economy `still major driver of NZ´s prosperity"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/AK0702/S00170/bio-economy-still-major-driver-of-nzs-prosperity.htm
+title: Bio-economy `still major driver of NZ´s prosperity
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0702/S00170/bio-economy-still-major-driver-of-nzs-prosperity.htm
 author: lincoln-university
+permalink: /archive/2007/02/16/bio-economy-/index.html
+layout: layout.njk
 ---
 Bio-economy \`still major driver of NZ´s prosperity
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: performance-pay-could-cut-teacher-salaries
-title: "Performance Pay Could Cut Teacher Salaries"
-date: 2012-05-20
-source-url: https://www.scoop.co.nz/stories/PO1205/S00297/performance-pay-could-cut-teacher-salaries.htm
+title: Performance Pay Could Cut Teacher Salaries
+date: 2012-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00297/performance-pay-could-cut-teacher-salaries.htm
 author: nzei
+permalink: /archive/2012/05/20/performance-pay-could-cut-teacher-salaries/index.html
+layout: layout.njk
 ---
 Performance Pay Could Cut Teacher Salaries
 ==========================================

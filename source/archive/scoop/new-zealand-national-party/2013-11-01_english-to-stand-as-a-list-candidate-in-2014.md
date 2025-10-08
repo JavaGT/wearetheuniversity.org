@@ -1,9 +1,12 @@
 ---
 slug: english-to-stand-as-a-list-candidate-in-2014
-title: "English to stand as a list candidate in 2014"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/PA1311/S00014/english-to-stand-as-a-list-candidate-in-2014.htm
+title: English to stand as a list candidate in 2014
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00014/english-to-stand-as-a-list-candidate-in-2014.htm
 author: new-zealand-national-party
+permalink: /archive/2013/11/01/english-to-stand-as-a-list-candidate-in-2014/index.html
+layout: layout.njk
 ---
 English to stand as a list candidate in 2014
 ============================================

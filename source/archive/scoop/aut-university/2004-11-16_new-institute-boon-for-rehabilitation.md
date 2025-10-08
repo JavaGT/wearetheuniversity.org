@@ -1,9 +1,12 @@
 ---
 slug: new-institute-boon-for-rehabilitation
-title: "New institute boon for rehabilitation"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/ED0411/S00052/new-institute-boon-for-rehabilitation.htm
+title: New institute boon for rehabilitation
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00052/new-institute-boon-for-rehabilitation.htm
 author: aut-university
+permalink: /archive/2004/11/16/new-institute-boon-for-rehabilitation/index.html
+layout: layout.njk
 ---
 New institute boon for rehabilitation
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: ero-report-bolsters-case-for-history-curriculum-revamp
-title: "ERO Report Bolsters Case For History Curriculum Revamp"
-date: 2024-04-04
-source-url: https://www.scoop.co.nz/stories/PA2404/S00017/ero-report-bolsters-case-for-history-curriculum-revamp.htm
+title: ERO Report Bolsters Case For History Curriculum Revamp
+date: 2024-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00017/ero-report-bolsters-case-for-history-curriculum-revamp.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/04/04/ero-report-bolsters-case-for-history-curriculum-revamp/index.html
+layout: layout.njk
 ---
 ERO Report Bolsters Case For History Curriculum Revamp
 ======================================================

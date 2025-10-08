@@ -1,9 +1,13 @@
 ---
 slug: open-letter-to-the-university-of-auckland-councillors
-title: "Open Letter to the University Of Auckland Councillors"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/ED1310/S00122/open-letter-to-the-university-of-auckland-councillors.htm
+title: Open Letter to the University Of Auckland Councillors
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00122/open-letter-to-the-university-of-auckland-councillors.htm
 author: reclaim-uoa
+permalink: >-
+  /archive/2013/10/18/open-letter-to-the-university-of-auckland-councillors/index.html
+layout: layout.njk
 ---
 Open Letter to the University Of Auckland Councillors
 =====================================================

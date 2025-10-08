@@ -1,9 +1,13 @@
 ---
 slug: criminologist-plays-down-police-sting-on-gang-drug-activity
-title: "Criminologist plays down police sting on gang drug activity"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/AK1309/S00115/criminologist-plays-down-police-sting-on-gang-drug-activity.htm
+title: Criminologist plays down police sting on gang drug activity
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00115/criminologist-plays-down-police-sting-on-gang-drug-activity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/04/criminologist-plays-down-police-sting-on-gang-drug-activity/index.html
+layout: layout.njk
 ---
 Criminologist plays down police sting on gang drug activity
 ===========================================================

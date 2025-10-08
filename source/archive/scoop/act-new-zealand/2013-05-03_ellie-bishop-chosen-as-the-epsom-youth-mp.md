@@ -1,9 +1,12 @@
 ---
 slug: ellie-bishop-chosen-as-the-epsom-youth-mp
-title: "Ellie Bishop Chosen as the Epsom Youth MP"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/PA1305/S00038/ellie-bishop-chosen-as-the-epsom-youth-mp.htm
+title: Ellie Bishop Chosen as the Epsom Youth MP
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00038/ellie-bishop-chosen-as-the-epsom-youth-mp.htm
 author: act-new-zealand
+permalink: /archive/2013/05/03/ellie-bishop-chosen-as-the-epsom-youth-mp/index.html
+layout: layout.njk
 ---
 Ellie Bishop Chosen as the Epsom Youth MP
 =========================================

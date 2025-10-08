@@ -1,9 +1,13 @@
 ---
 slug: nz-has-highest-mortality-rate-from-motor-neuron-disease
-title: "NZ has highest mortality rate from motor neuron disease"
-date: 2018-11-27
-source-url: https://www.scoop.co.nz/stories/GE1811/S00098/nz-has-highest-mortality-rate-from-motor-neuron-disease.htm
+title: NZ has highest mortality rate from motor neuron disease
+date: 2018-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00098/nz-has-highest-mortality-rate-from-motor-neuron-disease.htm
 author: aut-university
+permalink: >-
+  /archive/2018/11/27/nz-has-highest-mortality-rate-from-motor-neuron-disease/index.html
+layout: layout.njk
 ---
 NZ has highest mortality rate from motor neuron disease
 =======================================================

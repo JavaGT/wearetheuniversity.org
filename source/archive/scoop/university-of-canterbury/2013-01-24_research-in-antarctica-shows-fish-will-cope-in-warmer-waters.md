@@ -1,9 +1,13 @@
 ---
 slug: research-in-antarctica-shows-fish-will-cope-in-warmer-waters
-title: "Research in Antarctica shows fish will cope in warmer waters"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/SC1301/S00048/research-in-antarctica-shows-fish-will-cope-in-warmer-waters.htm
+title: Research in Antarctica shows fish will cope in warmer waters
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00048/research-in-antarctica-shows-fish-will-cope-in-warmer-waters.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/24/research-in-antarctica-shows-fish-will-cope-in-warmer-waters/index.html
+layout: layout.njk
 ---
 Research in Antarctica shows fish will cope in warmer waters
 ============================================================

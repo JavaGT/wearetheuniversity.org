@@ -1,9 +1,13 @@
 ---
 slug: lecture-by-us-professor-on-aggression-and-international-law
-title: "Lecture by US Professor on aggression and international law"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PA1607/S00173/lecture-by-us-professor-on-aggression-and-international-law.htm
+title: Lecture by US Professor on aggression and international law
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00173/lecture-by-us-professor-on-aggression-and-international-law.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/11/lecture-by-us-professor-on-aggression-and-international-law/index.html
+layout: layout.njk
 ---
 Lecture by US Professor on aggression and international law
 ===========================================================

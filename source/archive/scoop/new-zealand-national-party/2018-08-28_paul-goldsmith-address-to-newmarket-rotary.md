@@ -1,9 +1,12 @@
 ---
 slug: paul-goldsmith-address-to-newmarket-rotary
-title: "Paul Goldsmith: address to Newmarket Rotary"
-date: 2018-08-28
-source-url: https://www.scoop.co.nz/stories/PA1808/S00315/paul-goldsmith-address-to-newmarket-rotary.htm
+title: 'Paul Goldsmith: address to Newmarket Rotary'
+date: 2018-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00315/paul-goldsmith-address-to-newmarket-rotary.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/28/paul-goldsmith-address-to-newmarket-rotary/index.html
+layout: layout.njk
 ---
 Paul Goldsmith: address to Newmarket Rotary
 ===========================================

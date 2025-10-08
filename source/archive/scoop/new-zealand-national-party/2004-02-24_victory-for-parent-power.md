@@ -1,9 +1,11 @@
 ---
 slug: victory-for-parent-power
-title: "Victory for parent power"
-date: 2004-02-24
+title: Victory for parent power
+date: 2004-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0402/S00397/victory-for-parent-power.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/24/victory-for-parent-power/index.html
+layout: layout.njk
 ---
 Victory for parent power
 ========================

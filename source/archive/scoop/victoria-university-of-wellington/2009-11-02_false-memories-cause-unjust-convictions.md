@@ -1,9 +1,12 @@
 ---
 slug: false-memories-cause-unjust-convictions
-title: "False memories cause unjust convictions"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/ED0911/S00001/false-memories-cause-unjust-convictions.htm
+title: False memories cause unjust convictions
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00001/false-memories-cause-unjust-convictions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/02/false-memories-cause-unjust-convictions/index.html
+layout: layout.njk
 ---
 False memories cause unjust convictions
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: developing-moral-fibre-key-findings-of-coaches-survey
-title: "Developing moral fibre, key findings of coaches’ survey"
-date: 2015-03-01
-source-url: https://www.scoop.co.nz/stories/ED1503/S00001/developing-moral-fibre-key-findings-of-coaches-survey.htm
+title: Developing moral fibre, key findings of coaches’ survey
+date: 2015-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00001/developing-moral-fibre-key-findings-of-coaches-survey.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/01/developing-moral-fibre-key-findings-of-coaches-survey/index.html
+layout: layout.njk
 ---
 Developing moral fibre, key findings of coaches’ survey
 =======================================================

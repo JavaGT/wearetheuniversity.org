@@ -1,9 +1,12 @@
 ---
 slug: new-approach-to-earthquake-strengthening
-title: "New approach to earthquake strengthening"
-date: 2000-03-14
-source-url: https://www.scoop.co.nz/stories/GE0003/S00034/new-approach-to-earthquake-strengthening.htm
+title: New approach to earthquake strengthening
+date: 2000-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0003/S00034/new-approach-to-earthquake-strengthening.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/14/new-approach-to-earthquake-strengthening/index.html
+layout: layout.njk
 ---
 New approach to earthquake strengthening
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: review-it!-another-success-for-students-associations
-title: "‘Review It!’ another success for students’ associations"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/ED1107/S00094/review-it-another-success-for-students-associations.htm
+title: ‘Review It!’ another success for students’ associations
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00094/review-it-another-success-for-students-associations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/07/21/review-it/index.html
+layout: layout.njk
 ---
 ‘Review It!’ another success for students’ associations
 =======================================================

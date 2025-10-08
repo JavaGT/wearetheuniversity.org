@@ -1,9 +1,12 @@
 ---
 slug: a-great-step-forward-for-young-workers
-title: "A great step forward for young workers"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PA0603/S00448/a-great-step-forward-for-young-workers.htm
+title: A great step forward for young workers
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00448/a-great-step-forward-for-young-workers.htm
 author: green-party
+permalink: /archive/2006/03/27/a-great-step-forward-for-young-workers/index.html
+layout: layout.njk
 ---
 A great step forward for young workers
 ======================================

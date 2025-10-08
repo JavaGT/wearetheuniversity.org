@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellor-to-receive-wellington-welcome
-title: "Vice-Chancellor to receive Wellington welcome"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/ED0810/S00122/vice-chancellor-to-receive-wellington-welcome.htm
+title: Vice-Chancellor to receive Wellington welcome
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00122/vice-chancellor-to-receive-wellington-welcome.htm
 author: massey-university
+permalink: /archive/2008/10/30/vice-chancellor-to-receive-wellington-welcome/index.html
+layout: layout.njk
 ---
 Vice-Chancellor to receive Wellington welcome
 =============================================

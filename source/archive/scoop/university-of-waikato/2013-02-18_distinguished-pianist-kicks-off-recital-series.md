@@ -1,9 +1,12 @@
 ---
 slug: distinguished-pianist-kicks-off-recital-series
-title: "Distinguished Pianist  Kicks Off Recital Series"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/CU1302/S00465/distinguished-pianist-kicks-off-recital-series.htm
+title: Distinguished Pianist  Kicks Off Recital Series
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1302/S00465/distinguished-pianist-kicks-off-recital-series.htm
 author: university-of-waikato
+permalink: /archive/2013/02/18/distinguished-pianist-kicks-off-recital-series/index.html
+layout: layout.njk
 ---
 Distinguished Pianist Kicks Off Recital Series
 ==============================================

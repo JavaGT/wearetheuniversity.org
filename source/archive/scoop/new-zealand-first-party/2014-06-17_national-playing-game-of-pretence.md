@@ -1,9 +1,12 @@
 ---
 slug: national-playing-game-of-pretence
-title: "National Playing Game of Pretence"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/PA1406/S00233/national-playing-game-of-pretence.htm
+title: National Playing Game of Pretence
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00233/national-playing-game-of-pretence.htm
 author: new-zealand-first-party
+permalink: /archive/2014/06/17/national-playing-game-of-pretence/index.html
+layout: layout.njk
 ---
 National Playing Game of Pretence
 =================================

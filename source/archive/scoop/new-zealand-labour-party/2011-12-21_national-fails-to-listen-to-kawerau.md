@@ -1,9 +1,12 @@
 ---
 slug: national-fails-to-listen-to-kawerau
-title: "National fails to listen to Kawerau"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/PA1112/S00162/national-fails-to-listen-to-kawerau.htm
+title: National fails to listen to Kawerau
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00162/national-fails-to-listen-to-kawerau.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/21/national-fails-to-listen-to-kawerau/index.html
+layout: layout.njk
 ---
 National fails to listen to Kawerau
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: announcement-on-telford-a-vote-of-confidence-in-southland
-title: "Announcement on Telford a Vote of Confidence in Southland"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/PA1908/S00080/announcement-on-telford-a-vote-of-confidence-in-southland.htm
+title: Announcement on Telford a Vote of Confidence in Southland
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00080/announcement-on-telford-a-vote-of-confidence-in-southland.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/08/07/announcement-on-telford-a-vote-of-confidence-in-southland/index.html
+layout: layout.njk
 ---
 Announcement on Telford a Vote of Confidence in Southland
 =========================================================

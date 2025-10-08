@@ -1,9 +1,12 @@
 ---
 slug: teacher-trainees-face-30%-fee-increase
-title: "Teacher Trainees Face 30% Fee Increase"
-date: 2004-11-11
-source-url: https://www.scoop.co.nz/stories/ED0411/S00037/teacher-trainees-face-30-fee-increase.htm
+title: Teacher Trainees Face 30% Fee Increase
+date: 2004-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00037/teacher-trainees-face-30-fee-increase.htm
 author: victoria-university-students-association
+permalink: /archive/2004/11/11/teacher-trainees-face-30/index.html
+layout: layout.njk
 ---
 Teacher Trainees Face 30% Fee Increase
 ======================================

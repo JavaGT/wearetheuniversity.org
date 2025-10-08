@@ -1,9 +1,11 @@
 ---
 slug: the-end-of-tolerance
-title: "The End Of Tolerance"
-date: 2005-07-28
+title: The End Of Tolerance
+date: 2005-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00649/the-end-of-tolerance.htm
 author: new-zealand-first-party
+permalink: /archive/2005/07/28/the-end-of-tolerance/index.html
+layout: layout.njk
 ---
 The End Of Tolerance
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: port-job-cuts-wrong-signal-to-region
-title: "Port job cuts wrong signal to region"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/PA1109/S00616/port-job-cuts-wrong-signal-to-region.htm
+title: Port job cuts wrong signal to region
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00616/port-job-cuts-wrong-signal-to-region.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/30/port-job-cuts-wrong-signal-to-region/index.html
+layout: layout.njk
 ---
 Port job cuts wrong signal to region
 ====================================

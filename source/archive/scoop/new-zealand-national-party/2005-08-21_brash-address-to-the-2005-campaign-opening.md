@@ -1,9 +1,12 @@
 ---
 slug: brash-address-to-the-2005-campaign-opening
-title: "Brash Address to the 2005 Campaign Opening"
-date: 2005-08-21
-source-url: https://www.scoop.co.nz/stories/PA0508/S00526/brash-address-to-the-2005-campaign-opening.htm
+title: Brash Address to the 2005 Campaign Opening
+date: 2005-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00526/brash-address-to-the-2005-campaign-opening.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/21/brash-address-to-the-2005-campaign-opening/index.html
+layout: layout.njk
 ---
 Brash Address to the 2005 Campaign Opening
 ==========================================

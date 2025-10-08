@@ -1,9 +1,12 @@
 ---
 slug: otago-university-and-te-papa-sign-mou
-title: "Otago University and Te Papa sign MOU"
-date: 2016-01-27
-source-url: https://www.scoop.co.nz/stories/ED1601/S00038/otago-university-and-te-papa-sign-mou.htm
+title: Otago University and Te Papa sign MOU
+date: 2016-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00038/otago-university-and-te-papa-sign-mou.htm
 author: university-of-otago
+permalink: /archive/2016/01/27/otago-university-and-te-papa-sign-mou/index.html
+layout: layout.njk
 ---
 Otago University and Te Papa sign MOU
 =====================================

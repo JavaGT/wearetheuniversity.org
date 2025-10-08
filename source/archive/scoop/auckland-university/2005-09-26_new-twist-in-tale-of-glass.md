@@ -1,9 +1,11 @@
 ---
 slug: new-twist-in-tale-of-glass
-title: "New twist in tale of glass"
-date: 2005-09-26
+title: New twist in tale of glass
+date: 2005-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00080/new-twist-in-tale-of-glass.htm
 author: auckland-university
+permalink: /archive/2005/09/26/new-twist-in-tale-of-glass/index.html
+layout: layout.njk
 ---
 New twist in tale of glass
 ==========================

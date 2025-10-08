@@ -1,9 +1,13 @@
 ---
 slug: teaching-conference-focuses-on-equity-and-accountability
-title: "Teaching conference focuses on equity and accountability"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/ED1401/S00021/teaching-conference-focuses-on-equity-and-accountability.htm
+title: Teaching conference focuses on equity and accountability
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00021/teaching-conference-focuses-on-equity-and-accountability.htm
 author: nzei
+permalink: >-
+  /archive/2014/01/21/teaching-conference-focuses-on-equity-and-accountability/index.html
+layout: layout.njk
 ---
 Teaching conference focuses on equity and accountability
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: plunketline-delivering-for-parents
-title: "PlunketLine delivering for parents"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00625/plunketline-delivering-for-parents.htm
+title: PlunketLine delivering for parents
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00625/plunketline-delivering-for-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/29/plunketline-delivering-for-parents/index.html
+layout: layout.njk
 ---
 PlunketLine delivering for parents
 ==================================

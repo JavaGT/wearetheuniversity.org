@@ -1,9 +1,13 @@
 ---
 slug: how-labour-and-national-let-zealots-experiment-with-kids
-title: "How Labour And National Let Zealots Experiment With Kids"
-date: 2022-09-20
-source-url: https://www.scoop.co.nz/stories/PA2209/S00102/how-labour-and-national-let-zealots-experiment-with-kids.htm
+title: How Labour And National Let Zealots Experiment With Kids
+date: 2022-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00102/how-labour-and-national-let-zealots-experiment-with-kids.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/09/20/how-labour-and-national-let-zealots-experiment-with-kids/index.html
+layout: layout.njk
 ---
 How Labour And National Let Zealots Experiment With Kids
 ========================================================

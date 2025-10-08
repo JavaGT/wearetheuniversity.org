@@ -1,9 +1,12 @@
 ---
 slug: flavell-minimum-wage-(new-entrant)-bill
-title: "Flavell: Minimum Wage (New Entrant) Bill"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/PA0709/S00069/flavell-minimum-wage-new-entrant-bill.htm
+title: 'Flavell: Minimum Wage (New Entrant) Bill'
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00069/flavell-minimum-wage-new-entrant-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/06/flavell-minimum-wage-/index.html
+layout: layout.njk
 ---
 Flavell: Minimum Wage (New Entrant) Bill
 ========================================

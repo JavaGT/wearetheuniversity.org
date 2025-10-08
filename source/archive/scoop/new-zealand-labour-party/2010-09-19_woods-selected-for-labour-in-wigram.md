@@ -1,9 +1,12 @@
 ---
 slug: woods-selected-for-labour-in-wigram
-title: "Woods Selected For Labour In Wigram"
-date: 2010-09-19
-source-url: https://www.scoop.co.nz/stories/PA1009/S00281/woods-selected-for-labour-in-wigram.htm
+title: Woods Selected For Labour In Wigram
+date: 2010-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00281/woods-selected-for-labour-in-wigram.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/19/woods-selected-for-labour-in-wigram/index.html
+layout: layout.njk
 ---
 Woods Selected For Labour In Wigram
 ===================================

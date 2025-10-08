@@ -1,8 +1,12 @@
 ---
 slug: science-funding-at-university-of-auckland-receives-major-boost
-title: "Science funding at University of Auckland receives major boost"
-date: 2016-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/science-funding-at-university-of-auckland-receives-major-boost.html
+title: Science funding at University of Auckland receives major boost
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/science-funding-at-university-of-auckland-receives-major-boost.html
+permalink: >-
+  /archive/2016/11/03/science-funding-at-university-of-auckland-receives-major-boost/index.html
+layout: layout.njk
 ---
 Science funding at University of Auckland receives major boost
 ==============================================================

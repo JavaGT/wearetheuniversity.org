@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-up-with-the-best
-title: "University of Waikato up with the best"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/ED1305/S00048/university-of-waikato-up-with-the-best.htm
+title: University of Waikato up with the best
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00048/university-of-waikato-up-with-the-best.htm
 author: university-of-waikato
+permalink: /archive/2013/05/08/university-of-waikato-up-with-the-best/index.html
+layout: layout.njk
 ---
 University of Waikato up with the best
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: rheumatoid-arthritis-gene-link-proven
-title: "Rheumatoid arthritis gene link proven"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/GE0507/S00015/rheumatoid-arthritis-gene-link-proven.htm
+title: Rheumatoid arthritis gene link proven
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0507/S00015/rheumatoid-arthritis-gene-link-proven.htm
 author: university-of-otago
+permalink: /archive/2005/07/04/rheumatoid-arthritis-gene-link-proven/index.html
+layout: layout.njk
 ---
 Rheumatoid arthritis gene link proven
 =====================================

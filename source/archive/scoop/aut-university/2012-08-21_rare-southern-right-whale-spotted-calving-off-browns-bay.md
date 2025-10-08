@@ -1,9 +1,13 @@
 ---
 slug: rare-southern-right-whale-spotted-calving-off-browns-bay
-title: "Rare Southern Right Whale Spotted Calving off Browns Bay"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/SC1208/S00049/rare-southern-right-whale-spotted-calving-off-browns-bay.htm
+title: Rare Southern Right Whale Spotted Calving off Browns Bay
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00049/rare-southern-right-whale-spotted-calving-off-browns-bay.htm
 author: aut-university
+permalink: >-
+  /archive/2012/08/21/rare-southern-right-whale-spotted-calving-off-browns-bay/index.html
+layout: layout.njk
 ---
 Rare Southern Right Whale Spotted Calving off Browns Bay
 ========================================================

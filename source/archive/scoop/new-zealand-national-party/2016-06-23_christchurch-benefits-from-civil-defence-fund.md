@@ -1,9 +1,12 @@
 ---
 slug: christchurch-benefits-from-civil-defence-fund
-title: "Christchurch benefits from civil defence fund"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00392/christchurch-benefits-from-civil-defence-fund.htm
+title: Christchurch benefits from civil defence fund
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00392/christchurch-benefits-from-civil-defence-fund.htm
 author: new-zealand-national-party
+permalink: /archive/2016/06/23/christchurch-benefits-from-civil-defence-fund/index.html
+layout: layout.njk
 ---
 Christchurch benefits from civil defence fund
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-denies-it-denied-cancer-patients-treatment
-title: "Govt Denies It Denied Cancer Patients Treatment"
-date: 2002-05-16
-source-url: https://www.scoop.co.nz/stories/PA0205/S00340/govt-denies-it-denied-cancer-patients-treatment.htm
+title: Govt Denies It Denied Cancer Patients Treatment
+date: 2002-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00340/govt-denies-it-denied-cancer-patients-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/16/govt-denies-it-denied-cancer-patients-treatment/index.html
+layout: layout.njk
 ---
 Govt Denies It Denied Cancer Patients Treatment
 ===============================================

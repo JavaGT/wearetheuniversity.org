@@ -1,9 +1,11 @@
 ---
 slug: tariana-turia-speech
-title: "Tariana Turia - Speech"
-date: 2007-06-09
+title: Tariana Turia - Speech
+date: 2007-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0706/S00163/tariana-turia-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/06/09/tariana-turia-speech/index.html
+layout: layout.njk
 ---
 Tariana Turia - Speech
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: upcoming-public-history-lectures
-title: "Upcoming Public History Lectures"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/CU1506/S00423/upcoming-public-history-lectures.htm
+title: Upcoming Public History Lectures
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1506/S00423/upcoming-public-history-lectures.htm
 author: waikato-university
+permalink: /archive/2015/06/22/upcoming-public-history-lectures/index.html
+layout: layout.njk
 ---
 Upcoming Public History Lectures
 ================================

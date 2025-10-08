@@ -1,9 +1,13 @@
 ---
 slug: suggestion-to-drop-loan-repayment-threshold-beyond-the-pale
-title: "Suggestion to Drop Loan Repayment Threshold Beyond the Pale"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PO1205/S00029/suggestion-to-drop-loan-repayment-threshold-beyond-the-pale.htm
+title: Suggestion to Drop Loan Repayment Threshold Beyond the Pale
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00029/suggestion-to-drop-loan-repayment-threshold-beyond-the-pale.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/05/02/suggestion-to-drop-loan-repayment-threshold-beyond-the-pale/index.html
+layout: layout.njk
 ---
 Suggestion to Drop Loan Repayment Threshold Beyond the Pale
 ===========================================================

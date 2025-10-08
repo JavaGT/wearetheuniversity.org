@@ -1,9 +1,12 @@
 ---
 slug: diabetes-prevention-strategy-involves-15000-mâori
-title: "Diabetes prevention strategy involves 15,000 Mâori"
-date: 2003-12-19
-source-url: https://www.scoop.co.nz/stories/ED0312/S00076/diabetes-prevention-strategy-involves-15000-maori.htm
+title: Diabetes prevention strategy involves 15,000 Mâori
+date: 2003-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00076/diabetes-prevention-strategy-involves-15000-maori.htm
 author: aut-university
+permalink: /archive/2003/12/19/diabetes-prevention-strategy-involves-15000-m/index.html
+layout: layout.njk
 ---
 Diabetes prevention strategy involves 15,000 Mâori
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: miracle-materials-and-mystery-particles
-title: "Miracle materials and mystery particles"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/ED1306/S00010/miracle-materials-and-mystery-particles.htm
+title: Miracle materials and mystery particles
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00010/miracle-materials-and-mystery-particles.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/04/miracle-materials-and-mystery-particles/index.html
+layout: layout.njk
 ---
 Miracle materials and mystery particles
 =======================================

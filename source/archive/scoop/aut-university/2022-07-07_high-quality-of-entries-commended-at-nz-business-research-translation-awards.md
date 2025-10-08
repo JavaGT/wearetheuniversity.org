@@ -1,9 +1,13 @@
 ---
 slug: high-quality-of-entries-commended-at-nz-business-research-translation-awards
-title: "High Quality Of Entries Commended At Nz Business Research Translation Awards"
-date: 2022-07-07
-source-url: https://www.scoop.co.nz/stories/ED2207/S00012/high-quality-of-entries-commended-at-nz-business-research-translation-awards.htm
+title: High Quality Of Entries Commended At Nz Business Research Translation Awards
+date: 2022-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00012/high-quality-of-entries-commended-at-nz-business-research-translation-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2022/07/07/high-quality-of-entries-commended-at-nz-business-research-translation-awards/index.html
+layout: layout.njk
 ---
 High Quality Of Entries Commended At Nz Business Research Translation Awards
 ============================================================================

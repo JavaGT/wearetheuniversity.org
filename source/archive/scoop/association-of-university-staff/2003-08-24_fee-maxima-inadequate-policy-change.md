@@ -1,9 +1,12 @@
 ---
 slug: fee-maxima-inadequate-policy-change
-title: "FEE MAXIMA – INADEQUATE POLICY CHANGE"
-date: 2003-08-24
-source-url: https://www.scoop.co.nz/stories/ED0308/S00085/fee-maxima-inadequate-policy-change.htm
+title: FEE MAXIMA – INADEQUATE POLICY CHANGE
+date: 2003-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00085/fee-maxima-inadequate-policy-change.htm
 author: association-of-university-staff
+permalink: /archive/2003/08/24/fee-maxima-inadequate-policy-change/index.html
+layout: layout.njk
 ---
 FEE MAXIMA – INADEQUATE POLICY CHANGE
 =====================================

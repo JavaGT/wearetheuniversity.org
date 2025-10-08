@@ -1,9 +1,13 @@
 ---
 slug: report-shows-govt-is-letting-down-the-most-vulnerable-kiwis
-title: "Report shows Govt is letting down the most vulnerable Kiwis"
-date: 2015-08-03
-source-url: https://www.scoop.co.nz/stories/PA1508/S00024/report-shows-govt-is-letting-down-the-most-vulnerable-kiwis.htm
+title: Report shows Govt is letting down the most vulnerable Kiwis
+date: 2015-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00024/report-shows-govt-is-letting-down-the-most-vulnerable-kiwis.htm
 author: green-party
+permalink: >-
+  /archive/2015/08/03/report-shows-govt-is-letting-down-the-most-vulnerable-kiwis/index.html
+layout: layout.njk
 ---
 Report shows Govt is letting down the most vulnerable Kiwis
 ===========================================================

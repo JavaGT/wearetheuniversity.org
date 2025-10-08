@@ -1,9 +1,12 @@
 ---
 slug: celebrating-those-who-do-a-world-of-good
-title: "Celebrating those who do a world of good"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/PA0812/S00039/celebrating-those-who-do-a-world-of-good.htm
+title: Celebrating those who do a world of good
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00039/celebrating-those-who-do-a-world-of-good.htm
 author: te-pati-maori
+permalink: /archive/2008/12/05/celebrating-those-who-do-a-world-of-good/index.html
+layout: layout.njk
 ---
 Celebrating those who do a world of good
 ========================================

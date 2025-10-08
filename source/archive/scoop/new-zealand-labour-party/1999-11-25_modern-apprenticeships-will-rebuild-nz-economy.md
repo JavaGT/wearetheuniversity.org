@@ -1,9 +1,12 @@
 ---
 slug: modern-apprenticeships-will-rebuild-nz-economy
-title: "Modern apprenticeships will rebuild NZ economy"
-date: 1999-11-25
-source-url: https://www.scoop.co.nz/stories/PA9911/S00603/modern-apprenticeships-will-rebuild-nz-economy.htm
+title: Modern apprenticeships will rebuild NZ economy
+date: 1999-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00603/modern-apprenticeships-will-rebuild-nz-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/25/modern-apprenticeships-will-rebuild-nz-economy/index.html
+layout: layout.njk
 ---
 Modern apprenticeships will rebuild NZ economy
 ==============================================

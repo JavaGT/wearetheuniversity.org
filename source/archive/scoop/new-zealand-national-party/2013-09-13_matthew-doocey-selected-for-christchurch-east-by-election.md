@@ -1,9 +1,13 @@
 ---
 slug: matthew-doocey-selected-for-christchurch-east-by-election
-title: "Matthew Doocey selected for Christchurch East by-election"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/AK1309/S00442/matthew-doocey-selected-for-christchurch-east-by-election.htm
+title: Matthew Doocey selected for Christchurch East by-election
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00442/matthew-doocey-selected-for-christchurch-east-by-election.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/09/13/matthew-doocey-selected-for-christchurch-east-by-election/index.html
+layout: layout.njk
 ---
 Matthew Doocey selected for Christchurch East by-election
 =========================================================

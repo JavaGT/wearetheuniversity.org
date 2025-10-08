@@ -1,9 +1,12 @@
 ---
 slug: qantas-vision-truly-inspiring-maori-party
-title: "Qantas vision truly inspiring – Maori Party"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/PA1206/S00016/qantas-vision-truly-inspiring-maori-party.htm
+title: Qantas vision truly inspiring – Maori Party
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00016/qantas-vision-truly-inspiring-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2012/06/01/qantas-vision-truly-inspiring-maori-party/index.html
+layout: layout.njk
 ---
 Qantas vision truly inspiring – Maori Party
 ===========================================

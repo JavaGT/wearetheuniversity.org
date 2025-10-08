@@ -1,9 +1,12 @@
 ---
 slug: hone-hekes-return-to-draw-thousands
-title: "Hone Heke’s return to draw thousands"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/CU0603/S00187/hone-hekes-return-to-draw-thousands.htm
+title: Hone Heke’s return to draw thousands
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0603/S00187/hone-hekes-return-to-draw-thousands.htm
 author: aut-university
+permalink: /archive/2006/03/27/hone-hekes-return-to-draw-thousands/index.html
+layout: layout.njk
 ---
 Hone Heke’s return to draw thousands
 ====================================

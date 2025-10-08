@@ -1,9 +1,13 @@
 ---
 slug: first-study-of-inflammatory-bowel-disease-rates-in-kiwi-kids
-title: "First study of inflammatory bowel disease rates in Kiwi kids"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/GE1709/S00113/first-study-of-inflammatory-bowel-disease-rates-in-kiwi-kids.htm
+title: First study of inflammatory bowel disease rates in Kiwi kids
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1709/S00113/first-study-of-inflammatory-bowel-disease-rates-in-kiwi-kids.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/22/first-study-of-inflammatory-bowel-disease-rates-in-kiwi-kids/index.html
+layout: layout.njk
 ---
 First study of inflammatory bowel disease rates in Kiwi kids
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: radiographer-strike-will-affect-thousands
-title: "Radiographer strike will affect thousands"
-date: 2006-09-10
-source-url: https://www.scoop.co.nz/stories/PA0609/S00225/radiographer-strike-will-affect-thousands.htm
+title: Radiographer strike will affect thousands
+date: 2006-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00225/radiographer-strike-will-affect-thousands.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/10/radiographer-strike-will-affect-thousands/index.html
+layout: layout.njk
 ---
 Radiographer strike will affect thousands
 =========================================

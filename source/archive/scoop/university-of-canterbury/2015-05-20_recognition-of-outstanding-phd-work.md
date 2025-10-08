@@ -1,9 +1,12 @@
 ---
 slug: recognition-of-outstanding-phd-work
-title: "Recognition of outstanding PhD work"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/ED1505/S00079/recognition-of-outstanding-phd-work.htm
+title: Recognition of outstanding PhD work
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00079/recognition-of-outstanding-phd-work.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/20/recognition-of-outstanding-phd-work/index.html
+layout: layout.njk
 ---
 Recognition of outstanding PhD work
 ===================================

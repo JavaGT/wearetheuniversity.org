@@ -1,9 +1,12 @@
 ---
 slug: defiant-stand-on-national-standards
-title: "Defiant stand on National Standards"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/PA1108/S00210/defiant-stand-on-national-standards.htm
+title: Defiant stand on National Standards
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00210/defiant-stand-on-national-standards.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/10/defiant-stand-on-national-standards/index.html
+layout: layout.njk
 ---
 Defiant stand on National Standards
 ===================================

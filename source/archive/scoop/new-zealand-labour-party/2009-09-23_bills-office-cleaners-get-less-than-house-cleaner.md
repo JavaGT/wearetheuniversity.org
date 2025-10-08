@@ -1,9 +1,13 @@
 ---
 slug: bills-office-cleaners-get-less-than-house-cleaner
-title: "Bill’s office cleaners get less than house cleaner"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00335/bills-office-cleaners-get-less-than-house-cleaner.htm
+title: Bill’s office cleaners get less than house cleaner
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00335/bills-office-cleaners-get-less-than-house-cleaner.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/23/bills-office-cleaners-get-less-than-house-cleaner/index.html
+layout: layout.njk
 ---
 Bill’s office cleaners get less than house cleaner
 ==================================================

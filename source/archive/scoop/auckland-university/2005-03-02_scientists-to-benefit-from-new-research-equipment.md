@@ -1,9 +1,13 @@
 ---
 slug: scientists-to-benefit-from-new-research-equipment
-title: "Scientists to benefit from new research equipment"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/ED0503/S00006/scientists-to-benefit-from-new-research-equipment.htm
+title: Scientists to benefit from new research equipment
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00006/scientists-to-benefit-from-new-research-equipment.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/03/02/scientists-to-benefit-from-new-research-equipment/index.html
+layout: layout.njk
 ---
 Scientists to benefit from new research equipment
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: vic-launches-nz-institute-for-research-on-ageing
-title: "Vic launches NZ Institute for Research on Ageing"
-date: 2000-06-02
-source-url: https://www.scoop.co.nz/stories/ED0006/S00005/vic-launches-nz-institute-for-research-on-ageing.htm
+title: Vic launches NZ Institute for Research on Ageing
+date: 2000-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00005/vic-launches-nz-institute-for-research-on-ageing.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/06/02/vic-launches-nz-institute-for-research-on-ageing/index.html
+layout: layout.njk
 ---
 Vic launches NZ Institute for Research on Ageing
 ================================================

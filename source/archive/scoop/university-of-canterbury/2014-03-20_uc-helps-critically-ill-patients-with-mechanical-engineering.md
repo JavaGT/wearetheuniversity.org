@@ -1,9 +1,13 @@
 ---
 slug: uc-helps-critically-ill-patients-with-mechanical-engineering
-title: "UC helps critically ill patients with mechanical engineering"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/GE1403/S00098/uc-helps-critically-ill-patients-with-mechanical-engineering.htm
+title: UC helps critically ill patients with mechanical engineering
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00098/uc-helps-critically-ill-patients-with-mechanical-engineering.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/20/uc-helps-critically-ill-patients-with-mechanical-engineering/index.html
+layout: layout.njk
 ---
 UC helps critically ill patients with mechanical engineering
 ============================================================

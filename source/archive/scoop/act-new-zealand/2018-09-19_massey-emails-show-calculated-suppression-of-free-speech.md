@@ -1,9 +1,13 @@
 ---
 slug: massey-emails-show-calculated-suppression-of-free-speech
-title: "Massey Emails Show Calculated Suppression of Free Speech"
-date: 2018-09-19
-source-url: https://www.scoop.co.nz/stories/PA1809/S00241/massey-emails-show-calculated-suppression-of-free-speech.htm
+title: Massey Emails Show Calculated Suppression of Free Speech
+date: 2018-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00241/massey-emails-show-calculated-suppression-of-free-speech.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/09/19/massey-emails-show-calculated-suppression-of-free-speech/index.html
+layout: layout.njk
 ---
 Massey Emails Show Calculated Suppression of Free Speech
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-immune-system—when-does-a-friend-become-an-enemy
-title: "The immune system—when does a friend become an enemy?"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/GE1608/S00022/the-immune-system-when-does-a-friend-become-an-enemy.htm
+title: The immune system—when does a friend become an enemy?
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00022/the-immune-system-when-does-a-friend-become-an-enemy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/08/03/the-immune-system/index.html
+layout: layout.njk
 ---
 The immune system—when does a friend become an enemy?
 =====================================================

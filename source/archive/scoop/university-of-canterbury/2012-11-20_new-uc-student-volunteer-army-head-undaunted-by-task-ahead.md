@@ -1,9 +1,13 @@
 ---
 slug: new-uc-student-volunteer-army-head-undaunted-by-task-ahead
-title: "New UC Student Volunteer Army Head Undaunted By Task Ahead"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00132/new-uc-student-volunteer-army-head-undaunted-by-task-ahead.htm
+title: New UC Student Volunteer Army Head Undaunted By Task Ahead
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00132/new-uc-student-volunteer-army-head-undaunted-by-task-ahead.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/20/new-uc-student-volunteer-army-head-undaunted-by-task-ahead/index.html
+layout: layout.njk
 ---
 New UC Student Volunteer Army Head Undaunted By Task Ahead
 ==========================================================

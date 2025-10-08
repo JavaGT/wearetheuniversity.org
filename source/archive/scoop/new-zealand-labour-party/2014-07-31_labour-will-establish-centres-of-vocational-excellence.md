@@ -1,9 +1,13 @@
 ---
 slug: labour-will-establish-centres-of-vocational-excellence
-title: "Labour will establish Centres of Vocational Excellence"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/PA1407/S00635/labour-will-establish-centres-of-vocational-excellence.htm
+title: Labour will establish Centres of Vocational Excellence
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00635/labour-will-establish-centres-of-vocational-excellence.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/31/labour-will-establish-centres-of-vocational-excellence/index.html
+layout: layout.njk
 ---
 Labour will establish Centres of Vocational Excellence
 ======================================================

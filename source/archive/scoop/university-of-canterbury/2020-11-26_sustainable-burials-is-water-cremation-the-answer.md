@@ -1,9 +1,13 @@
 ---
 slug: sustainable-burials-is-water-cremation-the-answer
-title: "Sustainable Burials – Is Water Cremation The Answer?"
-date: 2020-11-26
-source-url: https://www.scoop.co.nz/stories/ED2011/S00052/sustainable-burials-is-water-cremation-the-answer.htm
+title: Sustainable Burials – Is Water Cremation The Answer?
+date: 2020-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00052/sustainable-burials-is-water-cremation-the-answer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/26/sustainable-burials-is-water-cremation-the-answer/index.html
+layout: layout.njk
 ---
 Sustainable Burials – Is Water Cremation The Answer?
 ====================================================

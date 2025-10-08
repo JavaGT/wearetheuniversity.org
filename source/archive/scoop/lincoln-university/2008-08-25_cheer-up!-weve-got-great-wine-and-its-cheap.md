@@ -1,9 +1,12 @@
 ---
 slug: cheer-up!-weve-got-great-wine-and-its-cheap
-title: "Cheer Up! We’ve got Great Wine, and its Cheap"
-date: 2008-08-25
-source-url: https://www.scoop.co.nz/stories/ED0808/S00067/cheer-up-weve-got-great-wine-and-its-cheap.htm
+title: Cheer Up! We’ve got Great Wine, and its Cheap
+date: 2008-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00067/cheer-up-weve-got-great-wine-and-its-cheap.htm
 author: lincoln-university
+permalink: /archive/2008/08/25/cheer-up/index.html
+layout: layout.njk
 ---
 Cheer Up! We’ve got Great Wine, and its Cheap
 =============================================

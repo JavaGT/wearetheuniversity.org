@@ -1,9 +1,13 @@
 ---
 slug: horsing-around-naked-ninth-year-for-barely-there
-title: "Horsing around naked – ninth year for Barely There"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/CU1405/S00053/horsing-around-naked-ninth-year-for-barely-there.htm
+title: Horsing around naked – ninth year for Barely There
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00053/horsing-around-naked-ninth-year-for-barely-there.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/05/horsing-around-naked-ninth-year-for-barely-there/index.html
+layout: layout.njk
 ---
 Horsing around naked – ninth year for Barely There
 ==================================================

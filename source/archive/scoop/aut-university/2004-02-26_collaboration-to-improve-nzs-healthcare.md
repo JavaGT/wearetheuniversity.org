@@ -1,9 +1,12 @@
 ---
 slug: collaboration-to-improve-nzs-healthcare
-title: "Collaboration to Improve NZ's Healthcare"
-date: 2004-02-26
-source-url: https://www.scoop.co.nz/stories/ED0402/S00082/collaboration-to-improve-nzs-healthcare.htm
+title: Collaboration to Improve NZ's Healthcare
+date: 2004-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00082/collaboration-to-improve-nzs-healthcare.htm
 author: aut-university
+permalink: /archive/2004/02/26/collaboration-to-improve-nzs-healthcare/index.html
+layout: layout.njk
 ---
 Collaboration to Improve NZ's Healthcare
 ========================================

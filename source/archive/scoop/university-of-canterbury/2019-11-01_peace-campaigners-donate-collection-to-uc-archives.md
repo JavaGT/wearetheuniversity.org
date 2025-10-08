@@ -1,9 +1,13 @@
 ---
 slug: peace-campaigners-donate-collection-to-uc-archives
-title: "Peace campaigners donate collection to UC archives"
-date: 2019-11-01
-source-url: https://www.scoop.co.nz/stories/ED1911/S00004/peace-campaigners-donate-collection-to-uc-archives.htm
+title: Peace campaigners donate collection to UC archives
+date: 2019-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00004/peace-campaigners-donate-collection-to-uc-archives.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/01/peace-campaigners-donate-collection-to-uc-archives/index.html
+layout: layout.njk
 ---
 Peace campaigners donate collection to UC archives
 ==================================================

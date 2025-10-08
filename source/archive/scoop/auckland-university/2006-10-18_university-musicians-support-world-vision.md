@@ -1,9 +1,12 @@
 ---
 slug: university-musicians-support-world-vision
-title: "University musicians support World Vision"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/CU0610/S00167/university-musicians-support-world-vision.htm
+title: University musicians support World Vision
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0610/S00167/university-musicians-support-world-vision.htm
 author: auckland-university
+permalink: /archive/2006/10/18/university-musicians-support-world-vision/index.html
+layout: layout.njk
 ---
 University musicians support World Vision
 =========================================

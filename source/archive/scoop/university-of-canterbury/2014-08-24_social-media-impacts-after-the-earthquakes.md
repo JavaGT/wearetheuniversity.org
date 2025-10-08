@@ -1,9 +1,12 @@
 ---
 slug: social-media-impacts-after-the-earthquakes
-title: "Social media impacts after the earthquakes"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/AK1408/S00472/social-media-impacts-after-the-earthquakes.htm
+title: Social media impacts after the earthquakes
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00472/social-media-impacts-after-the-earthquakes.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/24/social-media-impacts-after-the-earthquakes/index.html
+layout: layout.njk
 ---
 Social media impacts after the earthquakes
 ==========================================

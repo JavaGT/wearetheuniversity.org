@@ -1,9 +1,13 @@
 ---
 slug: ethical-dilemmas-ahead-as-face-transplants-ahead
-title: "Ethical dilemmas ahead as face transplants ahead"
-date: 2003-11-24
-source-url: https://www.scoop.co.nz/stories/GE0311/S00107/ethical-dilemmas-ahead-as-face-transplants-ahead.htm
+title: Ethical dilemmas ahead as face transplants ahead
+date: 2003-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0311/S00107/ethical-dilemmas-ahead-as-face-transplants-ahead.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/11/24/ethical-dilemmas-ahead-as-face-transplants-ahead/index.html
+layout: layout.njk
 ---
 Ethical dilemmas ahead as face transplants ahead
 ================================================

@@ -1,8 +1,11 @@
 ---
 slug: māori-need-culturally-safe-cancer-research
-title: "Māori need culturally safe cancer research"
-date: 2016-03-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/m_ori-need-culturally-safe-cancer-research.html
+title: Māori need culturally safe cancer research
+date: 2016-03-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/m_ori-need-culturally-safe-cancer-research.html
+permalink: /archive/2016/03/23/m/index.html
+layout: layout.njk
 ---
 Māori need culturally safe cancer research
 ==========================================

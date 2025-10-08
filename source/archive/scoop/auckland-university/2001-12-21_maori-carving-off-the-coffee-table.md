@@ -1,9 +1,12 @@
 ---
 slug: maori-carving-off-the-coffee-table
-title: "Maori carving off the coffee table"
-date: 2001-12-21
-source-url: https://www.scoop.co.nz/stories/CU0112/S00039/maori-carving-off-the-coffee-table.htm
+title: Maori carving off the coffee table
+date: 2001-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0112/S00039/maori-carving-off-the-coffee-table.htm
 author: auckland-university
+permalink: /archive/2001/12/21/maori-carving-off-the-coffee-table/index.html
+layout: layout.njk
 ---
 Maori carving off the coffee table
 ==================================

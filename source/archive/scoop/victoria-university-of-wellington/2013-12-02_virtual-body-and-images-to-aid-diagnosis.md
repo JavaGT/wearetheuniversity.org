@@ -1,9 +1,12 @@
 ---
 slug: virtual-body-and-images-to-aid-diagnosis
-title: "Virtual body and images to aid diagnosis"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/SC1312/S00002/virtual-body-and-images-to-aid-diagnosis.htm
+title: Virtual body and images to aid diagnosis
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00002/virtual-body-and-images-to-aid-diagnosis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/02/virtual-body-and-images-to-aid-diagnosis/index.html
+layout: layout.njk
 ---
 Virtual body and images to aid diagnosis
 ========================================

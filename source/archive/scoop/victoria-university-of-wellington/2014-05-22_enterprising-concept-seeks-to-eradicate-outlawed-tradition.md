@@ -1,9 +1,13 @@
 ---
 slug: enterprising-concept-seeks-to-eradicate-outlawed-tradition
-title: "Enterprising concept seeks to eradicate outlawed tradition"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/BU1405/S00794/enterprising-concept-seeks-to-eradicate-outlawed-tradition.htm
+title: Enterprising concept seeks to eradicate outlawed tradition
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00794/enterprising-concept-seeks-to-eradicate-outlawed-tradition.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/22/enterprising-concept-seeks-to-eradicate-outlawed-tradition/index.html
+layout: layout.njk
 ---
 Enterprising concept seeks to eradicate outlawed tradition
 ==========================================================

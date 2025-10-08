@@ -1,9 +1,12 @@
 ---
 slug: tackling-waste-crucial-to-christchurch-recovery
-title: "Tackling Waste Crucial To Christchurch Recovery"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/PA1103/S00382/tackling-waste-crucial-to-christchurch-recovery.htm
+title: Tackling Waste Crucial To Christchurch Recovery
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00382/tackling-waste-crucial-to-christchurch-recovery.htm
 author: act-new-zealand
+permalink: /archive/2011/03/23/tackling-waste-crucial-to-christchurch-recovery/index.html
+layout: layout.njk
 ---
 Tackling Waste Crucial To Christchurch Recovery
 ===============================================

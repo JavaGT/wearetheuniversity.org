@@ -1,9 +1,13 @@
 ---
 slug: consensus-grows-for-a-wellbeing-approach-to-covid-19
-title: "Consensus Grows For A Wellbeing Approach To COVID-19"
-date: 2020-08-21
-source-url: https://www.scoop.co.nz/stories/PA2008/S00169/consensus-grows-for-a-wellbeing-approach-to-covid-19.htm
+title: Consensus Grows For A Wellbeing Approach To COVID-19
+date: 2020-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00169/consensus-grows-for-a-wellbeing-approach-to-covid-19.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/21/consensus-grows-for-a-wellbeing-approach-to-covid-19/index.html
+layout: layout.njk
 ---
 Consensus Grows For A Wellbeing Approach To COVID-19
 ====================================================

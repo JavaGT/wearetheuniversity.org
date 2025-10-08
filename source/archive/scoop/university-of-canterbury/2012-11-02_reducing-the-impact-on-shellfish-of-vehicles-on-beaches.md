@@ -1,9 +1,13 @@
 ---
 slug: reducing-the-impact-on-shellfish-of-vehicles-on-beaches
-title: "Reducing the impact on shellfish of vehicles on beaches"
-date: 2012-11-02
-source-url: https://www.scoop.co.nz/stories/SC1211/S00011/reducing-the-impact-on-shellfish-of-vehicles-on-beaches.htm
+title: Reducing the impact on shellfish of vehicles on beaches
+date: 2012-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00011/reducing-the-impact-on-shellfish-of-vehicles-on-beaches.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/02/reducing-the-impact-on-shellfish-of-vehicles-on-beaches/index.html
+layout: layout.njk
 ---
 Reducing the impact on shellfish of vehicles on beaches
 =======================================================

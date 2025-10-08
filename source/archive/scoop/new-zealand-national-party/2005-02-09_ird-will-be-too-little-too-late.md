@@ -1,9 +1,12 @@
 ---
 slug: ird-will-be-too-little-too-late
-title: "IRD will be too little, too late"
-date: 2005-02-09
-source-url: https://www.scoop.co.nz/stories/BU0502/S00101/ird-will-be-too-little-too-late.htm
+title: IRD will be too little, too late
+date: 2005-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0502/S00101/ird-will-be-too-little-too-late.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/09/ird-will-be-too-little-too-late/index.html
+layout: layout.njk
 ---
 IRD will be too little, too late
 ================================

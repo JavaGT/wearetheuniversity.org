@@ -1,9 +1,12 @@
 ---
 slug: pho-study-shows-no-improvement-in-health
-title: "PHO study shows no improvement in health"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00741/pho-study-shows-no-improvement-in-health.htm
+title: PHO study shows no improvement in health
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00741/pho-study-shows-no-improvement-in-health.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/30/pho-study-shows-no-improvement-in-health/index.html
+layout: layout.njk
 ---
 PHO study shows no improvement in health
 ========================================

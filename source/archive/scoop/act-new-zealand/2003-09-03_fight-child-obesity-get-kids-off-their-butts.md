@@ -1,9 +1,12 @@
 ---
 slug: fight-child-obesity-get-kids-off-their-butts
-title: "Fight Child Obesity: Get Kids Off Their Butts"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/PA0309/S00065/fight-child-obesity-get-kids-off-their-butts.htm
+title: 'Fight Child Obesity: Get Kids Off Their Butts'
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00065/fight-child-obesity-get-kids-off-their-butts.htm
 author: act-new-zealand
+permalink: /archive/2003/09/03/fight-child-obesity-get-kids-off-their-butts/index.html
+layout: layout.njk
 ---
 Fight Child Obesity: Get Kids Off Their Butts
 =============================================

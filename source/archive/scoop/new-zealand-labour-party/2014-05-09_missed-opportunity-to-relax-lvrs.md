@@ -1,9 +1,12 @@
 ---
 slug: missed-opportunity-to-relax-lvrs
-title: "Missed opportunity to relax LVRs"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/PA1405/S00168/missed-opportunity-to-relax-lvrs.htm
+title: Missed opportunity to relax LVRs
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00168/missed-opportunity-to-relax-lvrs.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/09/missed-opportunity-to-relax-lvrs/index.html
+layout: layout.njk
 ---
 Missed opportunity to relax LVRs
 ================================

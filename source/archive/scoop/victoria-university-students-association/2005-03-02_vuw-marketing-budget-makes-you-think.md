@@ -1,9 +1,12 @@
 ---
 slug: vuw-marketing-budget-makes-you-think
-title: "VUW Marketing Budget \"Makes You Think\""
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/ED0503/S00005/vuw-marketing-budget-makes-you-think.htm
+title: VUW Marketing Budget "Makes You Think"
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00005/vuw-marketing-budget-makes-you-think.htm
 author: victoria-university-students-association
+permalink: /archive/2005/03/02/vuw-marketing-budget-makes-you-think/index.html
+layout: layout.njk
 ---
 VUW Marketing Budget “Makes You Think”
 ======================================

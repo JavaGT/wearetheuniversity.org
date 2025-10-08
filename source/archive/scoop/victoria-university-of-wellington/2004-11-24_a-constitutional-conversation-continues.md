@@ -1,9 +1,12 @@
 ---
 slug: a-constitutional-conversation-continues
-title: "A Constitutional Conversation Continues"
-date: 2004-11-24
-source-url: https://www.scoop.co.nz/stories/ED0411/S00074/a-constitutional-conversation-continues.htm
+title: A Constitutional Conversation Continues
+date: 2004-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00074/a-constitutional-conversation-continues.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/24/a-constitutional-conversation-continues/index.html
+layout: layout.njk
 ---
 A Constitutional Conversation Continues
 =======================================

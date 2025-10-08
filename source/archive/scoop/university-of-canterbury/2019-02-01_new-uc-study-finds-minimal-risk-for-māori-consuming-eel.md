@@ -1,9 +1,12 @@
 ---
 slug: new-uc-study-finds-minimal-risk-for-māori-consuming-eel
-title: "New UC study finds minimal risk for Māori consuming eel"
-date: 2019-02-01
-source-url: https://www.scoop.co.nz/stories/SC1902/S00004/new-uc-study-finds-minimal-risk-for-maori-consuming-eel.htm
+title: New UC study finds minimal risk for Māori consuming eel
+date: 2019-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1902/S00004/new-uc-study-finds-minimal-risk-for-maori-consuming-eel.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/01/new-uc-study-finds-minimal-risk-for-m/index.html
+layout: layout.njk
 ---
 New UC study finds minimal risk for Māori consuming eel
 =======================================================

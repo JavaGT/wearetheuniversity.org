@@ -1,9 +1,13 @@
 ---
 slug: $1-million-donation-to-take-antarctic-research-fur
-title: "$1 million donation to take Antarctic research fur"
-date: 2007-06-19
-source-url: https://www.scoop.co.nz/stories/ED0706/S00079/1-million-donation-to-take-antarctic-research-fur.htm
+title: $1 million donation to take Antarctic research fur
+date: 2007-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00079/1-million-donation-to-take-antarctic-research-fur.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/06/19/1-million-donation-to-take-antarctic-research-fur/index.html
+layout: layout.njk
 ---
 $1 million donation to take Antarctic research fur
 ==================================================

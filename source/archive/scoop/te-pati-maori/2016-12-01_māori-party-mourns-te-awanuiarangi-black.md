@@ -1,9 +1,12 @@
 ---
 slug: māori-party-mourns-te-awanuiarangi-black
-title: "Māori Party mourns Te Awanuiarangi Black"
-date: 2016-12-01
-source-url: https://www.scoop.co.nz/stories/PA1612/S00006/maori-party-mourns-te-awanuiarangi-black.htm
+title: Māori Party mourns Te Awanuiarangi Black
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00006/maori-party-mourns-te-awanuiarangi-black.htm
 author: te-pati-maori
+permalink: /archive/2016/12/01/m/index.html
+layout: layout.njk
 ---
 Māori Party mourns Te Awanuiarangi Black
 ========================================

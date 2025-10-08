@@ -1,9 +1,12 @@
 ---
 slug: next-generation-roads-of-national-significance
-title: "Next generation Roads of National Significance"
-date: 2017-08-20
-source-url: https://www.scoop.co.nz/stories/PA1708/S00374/next-generation-roads-of-national-significance.htm
+title: Next generation Roads of National Significance
+date: 2017-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00374/next-generation-roads-of-national-significance.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/20/next-generation-roads-of-national-significance/index.html
+layout: layout.njk
 ---
 Next generation Roads of National Significance
 ==============================================

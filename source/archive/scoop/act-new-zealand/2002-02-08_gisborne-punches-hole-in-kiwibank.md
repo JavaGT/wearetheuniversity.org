@@ -1,9 +1,12 @@
 ---
 slug: gisborne-punches-hole-in-kiwibank
-title: "Gisborne Punches Hole In Kiwibank"
-date: 2002-02-08
-source-url: https://www.scoop.co.nz/stories/PA0202/S00067/gisborne-punches-hole-in-kiwibank.htm
+title: Gisborne Punches Hole In Kiwibank
+date: 2002-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00067/gisborne-punches-hole-in-kiwibank.htm
 author: act-new-zealand
+permalink: /archive/2002/02/08/gisborne-punches-hole-in-kiwibank/index.html
+layout: layout.njk
 ---
 Gisborne Punches Hole In Kiwibank
 =================================

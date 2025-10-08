@@ -1,9 +1,13 @@
 ---
 slug: poet-laureate-to-speak-frankly-at-university-of-waikato
-title: "Poet Laureate to speak frankly at University of Waikato"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/CU1108/S00399/poet-laureate-to-speak-frankly-at-university-of-waikato.htm
+title: Poet Laureate to speak frankly at University of Waikato
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00399/poet-laureate-to-speak-frankly-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/08/24/poet-laureate-to-speak-frankly-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 Poet Laureate to speak frankly at University of Waikato
 =======================================================

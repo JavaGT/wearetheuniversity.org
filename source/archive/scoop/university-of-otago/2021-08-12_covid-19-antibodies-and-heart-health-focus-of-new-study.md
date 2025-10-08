@@ -1,9 +1,13 @@
 ---
 slug: covid-19-antibodies-and-heart-health-focus-of-new-study
-title: "COVID-19 Antibodies And Heart Health, Focus Of New Study"
-date: 2021-08-12
-source-url: https://www.scoop.co.nz/stories/GE2108/S00060/covid-19-antibodies-and-heart-health-focus-of-new-study.htm
+title: COVID-19 Antibodies And Heart Health, Focus Of New Study
+date: 2021-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2108/S00060/covid-19-antibodies-and-heart-health-focus-of-new-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/08/12/covid-19-antibodies-and-heart-health-focus-of-new-study/index.html
+layout: layout.njk
 ---
 COVID-19 Antibodies And Heart Health, Focus Of New Study
 ========================================================

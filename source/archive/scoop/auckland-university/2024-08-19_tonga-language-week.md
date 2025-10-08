@@ -1,9 +1,11 @@
 ---
 slug: tonga-language-week
-title: "Tonga Language Week"
-date: 2024-08-19
+title: Tonga Language Week
+date: 2024-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2408/S00038/tonga-language-week.htm
 author: auckland-university
+permalink: /archive/2024/08/19/tonga-language-week/index.html
+layout: layout.njk
 ---
 Tonga Language Week
 ===================

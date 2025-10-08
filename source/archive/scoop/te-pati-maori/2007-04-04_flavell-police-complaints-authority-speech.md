@@ -1,9 +1,12 @@
 ---
 slug: flavell-police-complaints-authority-speech
-title: "Flavell: Police Complaints Authority Speech"
-date: 2007-04-04
-source-url: https://www.scoop.co.nz/stories/PA0704/S00076/flavell-police-complaints-authority-speech.htm
+title: 'Flavell: Police Complaints Authority Speech'
+date: 2007-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00076/flavell-police-complaints-authority-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/04/04/flavell-police-complaints-authority-speech/index.html
+layout: layout.njk
 ---
 Flavell: Police Complaints Authority Speech
 ===========================================

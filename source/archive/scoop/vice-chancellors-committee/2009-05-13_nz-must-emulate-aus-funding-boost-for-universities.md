@@ -1,9 +1,13 @@
 ---
 slug: nz-must-emulate-aus-funding-boost-for-universities
-title: "NZ Must Emulate Aus Funding Boost For Universities"
-date: 2009-05-13
-source-url: https://www.scoop.co.nz/stories/ED0905/S00050/nz-must-emulate-aus-funding-boost-for-universities.htm
+title: NZ Must Emulate Aus Funding Boost For Universities
+date: 2009-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00050/nz-must-emulate-aus-funding-boost-for-universities.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/05/13/nz-must-emulate-aus-funding-boost-for-universities/index.html
+layout: layout.njk
 ---
 NZ Must Emulate Aus Funding Boost For Universities
 ==================================================

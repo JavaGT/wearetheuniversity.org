@@ -1,9 +1,13 @@
 ---
 slug: otago-university-tops-national-educational-performance
-title: "Otago University tops national educational performance"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/ED1709/S00065/otago-university-tops-national-educational-performance.htm
+title: Otago University tops national educational performance
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00065/otago-university-tops-national-educational-performance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/18/otago-university-tops-national-educational-performance/index.html
+layout: layout.njk
 ---
 Otago University tops national educational performance
 ======================================================

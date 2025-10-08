@@ -1,8 +1,12 @@
 ---
 slug: elegant-flute-performance-wins-graduation-gala-concerto-competition
-title: "Elegant flute performance wins Graduation Gala Concerto Competition"
-date: 2016-05-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/elegant-flute-performance-wins-.html
+title: Elegant flute performance wins Graduation Gala Concerto Competition
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/elegant-flute-performance-wins-.html
+permalink: >-
+  /archive/2016/05/17/elegant-flute-performance-wins-graduation-gala-concerto-competition/index.html
+layout: layout.njk
 ---
 Elegant flute performance wins Graduation Gala Concerto Competition
 ===================================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-head-for-marketing-&-international-business
-title: "New Head for Marketing & International Business"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/ED0501/S00058/new-head-for-marketing-international-business.htm
+title: New Head for Marketing & International Business
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00058/new-head-for-marketing-international-business.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/27/new-head-for-marketing-/index.html
+layout: layout.njk
 ---
 New Head for Marketing & International Business
 ===============================================

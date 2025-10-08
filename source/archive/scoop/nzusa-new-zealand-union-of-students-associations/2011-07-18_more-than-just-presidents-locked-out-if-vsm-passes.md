@@ -1,9 +1,13 @@
 ---
 slug: more-than-just-presidents-locked-out-if-vsm-passes
-title: "More than just presidents locked out if VSM passes"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/ED1107/S00072/more-than-just-presidents-locked-out-if-vsm-passes.htm
+title: More than just presidents locked out if VSM passes
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00072/more-than-just-presidents-locked-out-if-vsm-passes.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/07/18/more-than-just-presidents-locked-out-if-vsm-passes/index.html
+layout: layout.njk
 ---
 More than just presidents locked out if VSM passes
 ==================================================

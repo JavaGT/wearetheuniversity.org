@@ -1,9 +1,12 @@
 ---
 slug: auckland-stadium-polls-may-be-misleading
-title: "Auckland stadium polls may be misleading"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PO0611/S00349/auckland-stadium-polls-may-be-misleading.htm
+title: Auckland stadium polls may be misleading
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00349/auckland-stadium-polls-may-be-misleading.htm
 author: massey-university
+permalink: /archive/2006/11/23/auckland-stadium-polls-may-be-misleading/index.html
+layout: layout.njk
 ---
 Auckland stadium polls may be misleading
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: john-keys-stance-on-donations-reeks-of-hypocrisy
-title: "John Key’s stance on donations reeks of hypocrisy"
-date: 2014-03-08
-source-url: https://www.scoop.co.nz/stories/PA1403/S00143/john-keys-stance-on-donations-reeks-of-hypocrisy.htm
+title: John Key’s stance on donations reeks of hypocrisy
+date: 2014-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00143/john-keys-stance-on-donations-reeks-of-hypocrisy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/03/08/john-keys-stance-on-donations-reeks-of-hypocrisy/index.html
+layout: layout.njk
 ---
 John Key’s stance on donations reeks of hypocrisy
 =================================================

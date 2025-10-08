@@ -1,9 +1,12 @@
 ---
 slug: splinter-business-group-pandering-to-pm
-title: "Splinter business group pandering to PM"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/PA0308/S00292/splinter-business-group-pandering-to-pm.htm
+title: Splinter business group pandering to PM
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00292/splinter-business-group-pandering-to-pm.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/14/splinter-business-group-pandering-to-pm/index.html
+layout: layout.njk
 ---
 Splinter business group pandering to PM
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-sentencing-act-strikes-again
-title: "Labour?s Sentencing Act Strikes Again"
-date: 2002-11-27
-source-url: https://www.scoop.co.nz/stories/PA0211/S00633/labours-sentencing-act-strikes-again.htm
+title: Labour?s Sentencing Act Strikes Again
+date: 2002-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00633/labours-sentencing-act-strikes-again.htm
 author: act-new-zealand
+permalink: /archive/2002/11/27/labours-sentencing-act-strikes-again/index.html
+layout: layout.njk
 ---
 Labour?s Sentencing Act Strikes Again
 =====================================

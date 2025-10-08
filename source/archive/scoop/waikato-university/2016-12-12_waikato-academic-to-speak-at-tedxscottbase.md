@@ -1,9 +1,12 @@
 ---
 slug: waikato-academic-to-speak-at-tedxscottbase
-title: "Waikato academic to speak at TEDxScottBase"
-date: 2016-12-12
-source-url: https://www.scoop.co.nz/stories/SC1612/S00025/waikato-academic-to-speak-at-tedxscottbase.htm
+title: Waikato academic to speak at TEDxScottBase
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1612/S00025/waikato-academic-to-speak-at-tedxscottbase.htm
 author: waikato-university
+permalink: /archive/2016/12/12/waikato-academic-to-speak-at-tedxscottbase/index.html
+layout: layout.njk
 ---
 Waikato academic to speak at TEDxScottBase
 ==========================================

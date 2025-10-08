@@ -1,9 +1,13 @@
 ---
 slug: sowry-address-to-electricty-industry-reform-conf
-title: "Sowry Address To Electricty Industry Reform Conf."
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00693/sowry-address-to-electricty-industry-reform-conf.htm
+title: Sowry Address To Electricty Industry Reform Conf.
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00693/sowry-address-to-electricty-industry-reform-conf.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/05/31/sowry-address-to-electricty-industry-reform-conf/index.html
+layout: layout.njk
 ---
 Sowry Address To Electricty Industry Reform Conf.
 =================================================

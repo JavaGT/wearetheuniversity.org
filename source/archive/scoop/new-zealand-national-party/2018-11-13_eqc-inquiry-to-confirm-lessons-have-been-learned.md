@@ -1,9 +1,13 @@
 ---
 slug: eqc-inquiry-to-confirm-lessons-have-been-learned
-title: "EQC inquiry to confirm lessons have been learned"
-date: 2018-11-13
-source-url: https://www.scoop.co.nz/stories/PA1811/S00140/eqc-inquiry-to-confirm-lessons-have-been-learned.htm
+title: EQC inquiry to confirm lessons have been learned
+date: 2018-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00140/eqc-inquiry-to-confirm-lessons-have-been-learned.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/13/eqc-inquiry-to-confirm-lessons-have-been-learned/index.html
+layout: layout.njk
 ---
 EQC inquiry to confirm lessons have been learned
 ================================================

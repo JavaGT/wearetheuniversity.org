@@ -1,9 +1,12 @@
 ---
 slug: open-cast-coal-wont-make-us-richer
-title: "Open-cast coal won’t make us richer"
-date: 2011-09-03
-source-url: https://www.scoop.co.nz/stories/PA1109/S00057/open-cast-coal-wont-make-us-richer.htm
+title: Open-cast coal won’t make us richer
+date: 2011-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00057/open-cast-coal-wont-make-us-richer.htm
 author: green-party
+permalink: /archive/2011/09/03/open-cast-coal-wont-make-us-richer/index.html
+layout: layout.njk
 ---
 Open-cast coal won’t make us richer
 ===================================

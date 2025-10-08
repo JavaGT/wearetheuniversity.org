@@ -1,9 +1,12 @@
 ---
 slug: immigration-econ-bubble-will-burst-warns-peters
-title: "Immigration Econ Bubble Will Burst Warns Peters"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00386/immigration-econ-bubble-will-burst-warns-peters.htm
+title: Immigration Econ Bubble Will Burst Warns Peters
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00386/immigration-econ-bubble-will-burst-warns-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/15/immigration-econ-bubble-will-burst-warns-peters/index.html
+layout: layout.njk
 ---
 Immigration Econ Bubble Will Burst Warns Peters
 ===============================================

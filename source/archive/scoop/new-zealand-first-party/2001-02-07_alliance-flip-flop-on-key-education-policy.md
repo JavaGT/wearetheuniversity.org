@@ -1,9 +1,12 @@
 ---
 slug: alliance-flip-flop-on-key-education-policy
-title: "Alliance Flip-Flop On Key Education Policy"
-date: 2001-02-07
-source-url: https://www.scoop.co.nz/stories/PA0102/S00077/alliance-flip-flop-on-key-education-policy.htm
+title: Alliance Flip-Flop On Key Education Policy
+date: 2001-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00077/alliance-flip-flop-on-key-education-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2001/02/07/alliance-flip-flop-on-key-education-policy/index.html
+layout: layout.njk
 ---
 Alliance Flip-Flop On Key Education Policy
 ==========================================

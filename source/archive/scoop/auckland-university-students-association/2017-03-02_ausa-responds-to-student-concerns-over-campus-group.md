@@ -1,9 +1,13 @@
 ---
 slug: ausa-responds-to-student-concerns-over-campus-group
-title: "AUSA responds to student concerns over campus group"
-date: 2017-03-02
-source-url: https://www.scoop.co.nz/stories/ED1703/S00009/ausa-responds-to-student-concerns-over-campus-group.htm
+title: AUSA responds to student concerns over campus group
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00009/ausa-responds-to-student-concerns-over-campus-group.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2017/03/02/ausa-responds-to-student-concerns-over-campus-group/index.html
+layout: layout.njk
 ---
 AUSA responds to student concerns over campus group
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: govt-caving-in-to-iwi-group
-title: "Govt Caving in to Iwi Group"
-date: 2016-02-24
+title: Govt Caving in to Iwi Group
+date: 2016-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1602/S00356/govt-caving-in-to-iwi-group.htm
 author: new-zealand-first-party
+permalink: /archive/2016/02/24/govt-caving-in-to-iwi-group/index.html
+layout: layout.njk
 ---
 Govt Caving in to Iwi Group
 ===========================

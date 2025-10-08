@@ -1,9 +1,12 @@
 ---
 slug: science-appointment-may-turn-be-a-bitter-irony
-title: "Science appointment may turn be a bitter irony"
-date: 2009-05-20
-source-url: https://www.scoop.co.nz/stories/PA0905/S00365/science-appointment-may-turn-be-a-bitter-irony.htm
+title: Science appointment may turn be a bitter irony
+date: 2009-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00365/science-appointment-may-turn-be-a-bitter-irony.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/20/science-appointment-may-turn-be-a-bitter-irony/index.html
+layout: layout.njk
 ---
 Science appointment may turn be a bitter irony
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-new-minister
-title: "Students welcome new Minister"
-date: 2010-01-27
-source-url: https://www.scoop.co.nz/stories/ED1001/S00038/students-welcome-new-minister.htm
+title: Students welcome new Minister
+date: 2010-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00038/students-welcome-new-minister.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/01/27/students-welcome-new-minister/index.html
+layout: layout.njk
 ---
 Students welcome new Minister
 =============================

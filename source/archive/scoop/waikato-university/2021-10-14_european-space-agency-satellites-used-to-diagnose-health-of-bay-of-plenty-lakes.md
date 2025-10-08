@@ -1,9 +1,16 @@
 ---
-slug: european-space-agency-satellites-used-to-diagnose-health-of-bay-of-plenty-lakes
-title: "European Space Agency Satellites Used To Diagnose Health Of Bay Of Plenty Lakes"
-date: 2021-10-14
-source-url: https://www.scoop.co.nz/stories/SC2110/S00044/european-space-agency-satellites-used-to-diagnose-health-of-bay-of-plenty-lakes.htm
+slug: >-
+  european-space-agency-satellites-used-to-diagnose-health-of-bay-of-plenty-lakes
+title: >-
+  European Space Agency Satellites Used To Diagnose Health Of Bay Of Plenty
+  Lakes
+date: 2021-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2110/S00044/european-space-agency-satellites-used-to-diagnose-health-of-bay-of-plenty-lakes.htm
 author: waikato-university
+permalink: >-
+  /archive/2021/10/14/european-space-agency-satellites-used-to-diagnose-health-of-bay-of-plenty-lakes/index.html
+layout: layout.njk
 ---
 European Space Agency Satellites Used To Diagnose Health Of Bay Of Plenty Lakes
 ===============================================================================

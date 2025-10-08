@@ -1,9 +1,12 @@
 ---
 slug: what-should-the-government-spend-our-money-on
-title: "What Should The Government Spend Our Money On?"
-date: 2021-05-17
-source-url: https://www.scoop.co.nz/stories/BU2105/S00270/what-should-the-government-spend-our-money-on.htm
+title: What Should The Government Spend Our Money On?
+date: 2021-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2105/S00270/what-should-the-government-spend-our-money-on.htm
 author: university-of-canterbury
+permalink: /archive/2021/05/17/what-should-the-government-spend-our-money-on/index.html
+layout: layout.njk
 ---
 What Should The Government Spend Our Money On?
 ==============================================

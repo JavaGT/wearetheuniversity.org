@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-consider-economic-support-for-bop-businesses
-title: "Govt. needs to consider economic support for BOP businesses"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/PA1110/S00253/govt-needs-to-consider-economic-support-for-bop-businesses.htm
+title: Govt. needs to consider economic support for BOP businesses
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00253/govt-needs-to-consider-economic-support-for-bop-businesses.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/13/govt-needs-to-consider-economic-support-for-bop-businesses/index.html
+layout: layout.njk
 ---
 Govt. needs to consider economic support for BOP businesses
 ===========================================================

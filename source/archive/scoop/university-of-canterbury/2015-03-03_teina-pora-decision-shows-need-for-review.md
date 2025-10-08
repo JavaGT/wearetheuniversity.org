@@ -1,9 +1,12 @@
 ---
 slug: teina-pora-decision-shows-need-for-review
-title: "Teina Pora decision shows need for review"
-date: 2015-03-03
-source-url: https://www.scoop.co.nz/stories/PO1503/S00040/teina-pora-decision-shows-need-for-review.htm
+title: Teina Pora decision shows need for review
+date: 2015-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00040/teina-pora-decision-shows-need-for-review.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/03/teina-pora-decision-shows-need-for-review/index.html
+layout: layout.njk
 ---
 Teina Pora decision shows need for review
 =========================================

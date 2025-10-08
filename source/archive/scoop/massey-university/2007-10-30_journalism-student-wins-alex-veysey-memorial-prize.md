@@ -1,9 +1,13 @@
 ---
 slug: journalism-student-wins-alex-veysey-memorial-prize
-title: "Journalism student wins Alex Veysey Memorial Prize"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/ED0710/S00090/journalism-student-wins-alex-veysey-memorial-prize.htm
+title: Journalism student wins Alex Veysey Memorial Prize
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00090/journalism-student-wins-alex-veysey-memorial-prize.htm
 author: massey-university
+permalink: >-
+  /archive/2007/10/30/journalism-student-wins-alex-veysey-memorial-prize/index.html
+layout: layout.njk
 ---
 Journalism student wins Alex Veysey Memorial Prize
 ==================================================

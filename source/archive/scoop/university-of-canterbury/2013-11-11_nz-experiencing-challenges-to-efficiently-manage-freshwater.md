@@ -1,9 +1,13 @@
 ---
 slug: nz-experiencing-challenges-to-efficiently-manage-freshwater
-title: "NZ experiencing challenges to efficiently manage freshwater"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/AK1311/S00289/nz-experiencing-challenges-to-efficiently-manage-freshwater.htm
+title: NZ experiencing challenges to efficiently manage freshwater
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00289/nz-experiencing-challenges-to-efficiently-manage-freshwater.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/11/nz-experiencing-challenges-to-efficiently-manage-freshwater/index.html
+layout: layout.njk
 ---
 NZ experiencing challenges to efficiently manage freshwater
 ===========================================================

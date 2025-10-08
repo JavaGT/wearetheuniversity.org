@@ -1,9 +1,12 @@
 ---
 slug: underground-transpower-line-says-nz-first
-title: "Underground Transpower Line Says NZ First"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/PA0502/S00358/underground-transpower-line-says-nz-first.htm
+title: Underground Transpower Line Says NZ First
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00358/underground-transpower-line-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/16/underground-transpower-line-says-nz-first/index.html
+layout: layout.njk
 ---
 Underground Transpower Line Says NZ First
 =========================================

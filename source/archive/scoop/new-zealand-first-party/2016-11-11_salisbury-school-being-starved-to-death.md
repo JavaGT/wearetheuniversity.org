@@ -1,9 +1,12 @@
 ---
 slug: salisbury-school-being-starved-to-death
-title: "Salisbury School Being ‘Starved’ to Death"
-date: 2016-11-11
-source-url: https://www.scoop.co.nz/stories/PA1611/S00242/salisbury-school-being-starved-to-death.htm
+title: Salisbury School Being ‘Starved’ to Death
+date: 2016-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00242/salisbury-school-being-starved-to-death.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/11/salisbury-school-being-starved-to-death/index.html
+layout: layout.njk
 ---
 Salisbury School Being ‘Starved’ to Death
 =========================================

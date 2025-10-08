@@ -1,9 +1,13 @@
 ---
 slug: speech-tamihere-broken-promises-one-nation-two-classes-of-citizen
-title: "Speech: Tamihere - Broken Promises - One Nation - Two Classes Of Citizen"
-date: 2020-03-08
-source-url: https://www.scoop.co.nz/stories/PO2003/S00076/speech-tamihere-broken-promises-one-nation-two-classes-of-citizen.htm
+title: 'Speech: Tamihere - Broken Promises - One Nation - Two Classes Of Citizen'
+date: 2020-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00076/speech-tamihere-broken-promises-one-nation-two-classes-of-citizen.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2020/03/08/speech-tamihere-broken-promises-one-nation-two-classes-of-citizen/index.html
+layout: layout.njk
 ---
 Speech: Tamihere - Broken Promises - One Nation - Two Classes Of Citizen
 ========================================================================

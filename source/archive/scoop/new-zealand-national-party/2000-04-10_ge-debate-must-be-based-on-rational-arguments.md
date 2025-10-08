@@ -1,9 +1,12 @@
 ---
 slug: ge-debate-must-be-based-on-rational-arguments
-title: "GE debate must be based on rational  arguments"
-date: 2000-04-10
-source-url: https://www.scoop.co.nz/stories/PA0004/S00108/ge-debate-must-be-based-on-rational-arguments.htm
+title: GE debate must be based on rational  arguments
+date: 2000-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00108/ge-debate-must-be-based-on-rational-arguments.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/10/ge-debate-must-be-based-on-rational-arguments/index.html
+layout: layout.njk
 ---
 GE debate must be based on rational arguments
 =============================================

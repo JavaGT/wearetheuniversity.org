@@ -1,9 +1,12 @@
 ---
 slug: alliance-betrays-student-supporters
-title: "Alliance Betrays Student Supporters"
-date: 2000-08-18
-source-url: https://www.scoop.co.nz/stories/PO0008/S00129/alliance-betrays-student-supporters.htm
+title: Alliance Betrays Student Supporters
+date: 2000-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00129/alliance-betrays-student-supporters.htm
 author: prebble-s-rebels
+permalink: /archive/2000/08/18/alliance-betrays-student-supporters/index.html
+layout: layout.njk
 ---
 Alliance Betrays Student Supporters
 ===================================

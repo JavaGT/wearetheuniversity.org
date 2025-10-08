@@ -1,9 +1,12 @@
 ---
 slug: heart-unit-closure-disaster-for-otago-&-southland
-title: "Heart unit closure disaster for Otago & Southland"
-date: 2002-02-19
-source-url: https://www.scoop.co.nz/stories/PA0202/S00271/heart-unit-closure-disaster-for-otago-southland.htm
+title: Heart unit closure disaster for Otago & Southland
+date: 2002-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00271/heart-unit-closure-disaster-for-otago-southland.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/19/heart-unit-closure-disaster-for-otago-/index.html
+layout: layout.njk
 ---
 Heart unit closure disaster for Otago & Southland
 =================================================

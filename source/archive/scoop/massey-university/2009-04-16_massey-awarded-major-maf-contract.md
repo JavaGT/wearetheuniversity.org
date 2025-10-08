@@ -1,9 +1,12 @@
 ---
 slug: massey-awarded-major-maf-contract
-title: "Massey awarded major MAF contract"
-date: 2009-04-16
-source-url: https://www.scoop.co.nz/stories/SC0904/S00023/massey-awarded-major-maf-contract.htm
+title: Massey awarded major MAF contract
+date: 2009-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00023/massey-awarded-major-maf-contract.htm
 author: massey-university
+permalink: /archive/2009/04/16/massey-awarded-major-maf-contract/index.html
+layout: layout.njk
 ---
 Massey awarded major MAF contract
 =================================

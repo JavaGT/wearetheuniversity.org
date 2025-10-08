@@ -1,9 +1,12 @@
 ---
 slug: future-māori-leaders-celebrated
-title: "Future Māori leaders celebrated"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/PA1406/S00310/future-maori-leaders-celebrated.htm
+title: Future Māori leaders celebrated
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00310/future-maori-leaders-celebrated.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/20/future-m/index.html
+layout: layout.njk
 ---
 Future Māori leaders celebrated
 ===============================

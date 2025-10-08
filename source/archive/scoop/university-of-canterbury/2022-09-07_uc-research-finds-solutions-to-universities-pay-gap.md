@@ -1,9 +1,13 @@
 ---
 slug: uc-research-finds-solutions-to-universities-pay-gap
-title: "UC Research Finds Solutions To Universities’ Pay Gap"
-date: 2022-09-07
-source-url: https://www.scoop.co.nz/stories/ED2209/S00011/uc-research-finds-solutions-to-universities-pay-gap.htm
+title: UC Research Finds Solutions To Universities’ Pay Gap
+date: 2022-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2209/S00011/uc-research-finds-solutions-to-universities-pay-gap.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/07/uc-research-finds-solutions-to-universities-pay-gap/index.html
+layout: layout.njk
 ---
 UC Research Finds Solutions To Universities’ Pay Gap
 ====================================================

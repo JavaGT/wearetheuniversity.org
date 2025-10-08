@@ -1,9 +1,13 @@
 ---
 slug: universities-take-leading-role-in-growing-innovation
-title: "Universities take leading role in growing innovation"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/ED1103/S00095/universities-take-leading-role-in-growing-innovation.htm
+title: Universities take leading role in growing innovation
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00095/universities-take-leading-role-in-growing-innovation.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/03/23/universities-take-leading-role-in-growing-innovation/index.html
+layout: layout.njk
 ---
 Universities take leading role in growing innovation
 ====================================================

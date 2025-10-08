@@ -1,9 +1,13 @@
 ---
 slug: growing-stronger-more-vibrant-pacific-communities
-title: "Growing stronger, more vibrant Pacific communities"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00389/growing-stronger-more-vibrant-pacific-communities.htm
+title: Growing stronger, more vibrant Pacific communities
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00389/growing-stronger-more-vibrant-pacific-communities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/11/18/growing-stronger-more-vibrant-pacific-communities/index.html
+layout: layout.njk
 ---
 Growing stronger, more vibrant Pacific communities
 ==================================================

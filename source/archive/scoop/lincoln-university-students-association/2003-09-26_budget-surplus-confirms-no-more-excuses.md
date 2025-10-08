@@ -1,9 +1,12 @@
 ---
 slug: budget-surplus-confirms-no-more-excuses
-title: "Budget surplus confirms: no more excuses"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/ED0309/S00128/budget-surplus-confirms-no-more-excuses.htm
+title: 'Budget surplus confirms: no more excuses'
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00128/budget-surplus-confirms-no-more-excuses.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/09/26/budget-surplus-confirms-no-more-excuses/index.html
+layout: layout.njk
 ---
 Budget surplus confirms: no more excuses
 ========================================

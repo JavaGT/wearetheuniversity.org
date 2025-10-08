@@ -1,9 +1,13 @@
 ---
 slug: safety-warning-labels-needed-on-fresh-chicken-researchers
-title: "Safety warning labels needed on fresh chicken: researchers"
-date: 2018-04-17
-source-url: https://www.scoop.co.nz/stories/GE1804/S00051/safety-warning-labels-needed-on-fresh-chicken-researchers.htm
+title: 'Safety warning labels needed on fresh chicken: researchers'
+date: 2018-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00051/safety-warning-labels-needed-on-fresh-chicken-researchers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/17/safety-warning-labels-needed-on-fresh-chicken-researchers/index.html
+layout: layout.njk
 ---
 Safety warning labels needed on fresh chicken: researchers
 ==========================================================

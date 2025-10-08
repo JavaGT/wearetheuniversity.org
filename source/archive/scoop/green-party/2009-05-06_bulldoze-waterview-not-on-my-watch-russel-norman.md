@@ -1,9 +1,13 @@
 ---
 slug: bulldoze-waterview-not-on-my-watch-russel-norman
-title: "Bulldoze Waterview? Not on my watch: Russel Norman"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/PA0905/S00080/bulldoze-waterview-not-on-my-watch-russel-norman.htm
+title: 'Bulldoze Waterview? Not on my watch: Russel Norman'
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00080/bulldoze-waterview-not-on-my-watch-russel-norman.htm
 author: green-party
+permalink: >-
+  /archive/2009/05/06/bulldoze-waterview-not-on-my-watch-russel-norman/index.html
+layout: layout.njk
 ---
 Bulldoze Waterview? Not on my watch: Russel Norman
 ==================================================

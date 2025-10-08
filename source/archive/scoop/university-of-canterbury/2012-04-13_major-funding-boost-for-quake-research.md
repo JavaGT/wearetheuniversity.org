@@ -1,9 +1,12 @@
 ---
 slug: major-funding-boost-for-quake-research
-title: "Major funding boost for quake research"
-date: 2012-04-13
-source-url: https://www.scoop.co.nz/stories/SC1204/S00017/major-funding-boost-for-quake-research.htm
+title: Major funding boost for quake research
+date: 2012-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1204/S00017/major-funding-boost-for-quake-research.htm
 author: university-of-canterbury
+permalink: /archive/2012/04/13/major-funding-boost-for-quake-research/index.html
+layout: layout.njk
 ---
 Major funding boost for quake research
 ======================================

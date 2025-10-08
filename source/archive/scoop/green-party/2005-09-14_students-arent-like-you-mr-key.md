@@ -1,9 +1,12 @@
 ---
 slug: students-arent-like-you-mr-key
-title: "Students aren't like you, Mr Key"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00381/students-arent-like-you-mr-key.htm
+title: Students aren't like you, Mr Key
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00381/students-arent-like-you-mr-key.htm
 author: green-party
+permalink: /archive/2005/09/14/students-arent-like-you-mr-key/index.html
+layout: layout.njk
 ---
 Students aren't like you, Mr Key
 ================================

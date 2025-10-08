@@ -1,9 +1,13 @@
 ---
 slug: exclusive-brethren-schools-save-government-money
-title: "Exclusive Brethren Schools Save Government Money"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/PA0610/S00187/exclusive-brethren-schools-save-government-money.htm
+title: Exclusive Brethren Schools Save Government Money
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00187/exclusive-brethren-schools-save-government-money.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2006/10/11/exclusive-brethren-schools-save-government-money/index.html
+layout: layout.njk
 ---
 Exclusive Brethren Schools Save Government Money
 ================================================

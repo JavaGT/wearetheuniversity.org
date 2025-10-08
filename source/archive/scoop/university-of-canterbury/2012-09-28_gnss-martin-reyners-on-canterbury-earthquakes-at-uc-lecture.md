@@ -1,9 +1,13 @@
 ---
 slug: gnss-martin-reyners-on-canterbury-earthquakes-at-uc-lecture
-title: "GNS’s Martin Reyners on Canterbury earthquakes at UC lecture"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/AK1209/S00632/gnss-martin-reyners-on-canterbury-earthquakes-at-uc-lecture.htm
+title: GNS’s Martin Reyners on Canterbury earthquakes at UC lecture
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00632/gnss-martin-reyners-on-canterbury-earthquakes-at-uc-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/28/gnss-martin-reyners-on-canterbury-earthquakes-at-uc-lecture/index.html
+layout: layout.njk
 ---
 GNS’s Martin Reyners on Canterbury earthquakes at UC lecture
 ============================================================

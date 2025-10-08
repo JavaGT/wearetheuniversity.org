@@ -1,9 +1,12 @@
 ---
 slug: pathways-to-achieve-smokefree-nz-new-research
-title: "Pathways to Achieve Smokefree NZ – new research"
-date: 2017-06-29
-source-url: https://www.scoop.co.nz/stories/GE1706/S00116/pathways-to-achieve-smokefree-nz-new-research.htm
+title: Pathways to Achieve Smokefree NZ – new research
+date: 2017-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00116/pathways-to-achieve-smokefree-nz-new-research.htm
 author: university-of-otago
+permalink: /archive/2017/06/29/pathways-to-achieve-smokefree-nz-new-research/index.html
+layout: layout.njk
 ---
 Pathways to Achieve Smokefree NZ – new research
 ===============================================

@@ -1,8 +1,12 @@
 ---
 slug: professor-on-first-international-panel-on-chronic-respiratory-diseases
-title: "Professor on first international panel on chronic respiratory diseases"
-date: 2017-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/professor-on-first-international-panel-on-chronic-respiratory-di.html
+title: Professor on first international panel on chronic respiratory diseases
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/professor-on-first-international-panel-on-chronic-respiratory-di.html
+permalink: >-
+  /archive/2017/02/23/professor-on-first-international-panel-on-chronic-respiratory-diseases/index.html
+layout: layout.njk
 ---
 Professor on first international panel on chronic respiratory diseases
 ======================================================================

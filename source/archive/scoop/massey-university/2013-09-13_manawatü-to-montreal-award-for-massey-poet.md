@@ -1,9 +1,12 @@
 ---
 slug: manawatü-to-montreal-award-for-massey-poet
-title: "Manawatü to Montreal award for Massey poet"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/ED1309/S00076/manawatu-to-montreal-award-for-massey-poet.htm
+title: Manawatü to Montreal award for Massey poet
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00076/manawatu-to-montreal-award-for-massey-poet.htm
 author: massey-university
+permalink: /archive/2013/09/13/manawat/index.html
+layout: layout.njk
 ---
 Manawatü to Montreal award for Massey poet
 ==========================================

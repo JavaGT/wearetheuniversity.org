@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-18-march-2004
-title: "Maxim Institute Real Issues - 18 March 2004"
-date: 2004-03-19
-source-url: https://www.scoop.co.nz/stories/PO0403/S00147/maxim-institute-real-issues-18-march-2004.htm
+title: Maxim Institute Real Issues - 18 March 2004
+date: 2004-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00147/maxim-institute-real-issues-18-march-2004.htm
 author: maxim-institute
+permalink: /archive/2004/03/19/maxim-institute-real-issues-18-march-2004/index.html
+layout: layout.njk
 ---
 Maxim Institute Real Issues - 18 March 2004
 ===========================================

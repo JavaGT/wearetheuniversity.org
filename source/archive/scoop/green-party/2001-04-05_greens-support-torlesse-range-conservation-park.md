@@ -1,9 +1,12 @@
 ---
 slug: greens-support-torlesse-range-conservation-park
-title: "Greens Support Torlesse Range Conservation Park"
-date: 2001-04-05
-source-url: https://www.scoop.co.nz/stories/PA0104/S00098/greens-support-torlesse-range-conservation-park.htm
+title: Greens Support Torlesse Range Conservation Park
+date: 2001-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00098/greens-support-torlesse-range-conservation-park.htm
 author: green-party
+permalink: /archive/2001/04/05/greens-support-torlesse-range-conservation-park/index.html
+layout: layout.njk
 ---
 Greens Support Torlesse Range Conservation Park
 ===============================================

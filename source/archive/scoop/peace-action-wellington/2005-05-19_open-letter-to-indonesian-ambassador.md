@@ -1,9 +1,12 @@
 ---
 slug: open-letter-to-indonesian-ambassador
-title: "Open Letter to Indonesian Ambassador"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PO0505/S00190/open-letter-to-indonesian-ambassador.htm
+title: Open Letter to Indonesian Ambassador
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00190/open-letter-to-indonesian-ambassador.htm
 author: peace-action-wellington
+permalink: /archive/2005/05/19/open-letter-to-indonesian-ambassador/index.html
+layout: layout.njk
 ---
 Open Letter to Indonesian Ambassador
 ====================================

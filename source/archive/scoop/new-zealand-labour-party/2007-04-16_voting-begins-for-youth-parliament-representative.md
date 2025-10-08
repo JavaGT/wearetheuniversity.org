@@ -1,9 +1,13 @@
 ---
 slug: voting-begins-for-youth-parliament-representative
-title: "Voting begins for Youth Parliament representative"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/PA0704/S00274/voting-begins-for-youth-parliament-representative.htm
+title: Voting begins for Youth Parliament representative
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00274/voting-begins-for-youth-parliament-representative.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2007/04/16/voting-begins-for-youth-parliament-representative/index.html
+layout: layout.njk
 ---
 Voting begins for Youth Parliament representative
 =================================================

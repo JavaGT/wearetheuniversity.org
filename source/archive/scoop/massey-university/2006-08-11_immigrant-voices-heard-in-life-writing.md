@@ -1,9 +1,12 @@
 ---
 slug: immigrant-voices-heard-in-life-writing
-title: "Immigrant voices heard in Life Writing"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/ED0608/S00041/immigrant-voices-heard-in-life-writing.htm
+title: Immigrant voices heard in Life Writing
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00041/immigrant-voices-heard-in-life-writing.htm
 author: massey-university
+permalink: /archive/2006/08/11/immigrant-voices-heard-in-life-writing/index.html
+layout: layout.njk
 ---
 Immigrant voices heard in Life Writing
 ======================================

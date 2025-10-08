@@ -1,8 +1,12 @@
 ---
 slug: far-north-school-trials-arts-integrative-learning
-title: "Far North school trials arts-integrative learning"
-date: 2017-10-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/far-north-school-trials-arts-integrative-learning.html
+title: Far North school trials arts-integrative learning
+date: 2017-10-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/far-north-school-trials-arts-integrative-learning.html
+permalink: >-
+  /archive/2017/10/31/far-north-school-trials-arts-integrative-learning/index.html
+layout: layout.njk
 ---
 Far North school trials arts-integrative learning
 =================================================

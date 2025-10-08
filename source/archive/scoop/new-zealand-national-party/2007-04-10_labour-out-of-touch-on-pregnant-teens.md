@@ -1,9 +1,12 @@
 ---
 slug: labour-out-of-touch-on-pregnant-teens
-title: "Labour out of touch on pregnant teens"
-date: 2007-04-10
-source-url: https://www.scoop.co.nz/stories/PA0704/S00163/labour-out-of-touch-on-pregnant-teens.htm
+title: Labour out of touch on pregnant teens
+date: 2007-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00163/labour-out-of-touch-on-pregnant-teens.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/10/labour-out-of-touch-on-pregnant-teens/index.html
+layout: layout.njk
 ---
 Labour out of touch on pregnant teens
 =====================================

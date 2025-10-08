@@ -1,9 +1,13 @@
 ---
 slug: fund-full-pay-parity-for-ece-educators-before-paying-landlords
-title: "Fund Full Pay Parity For ECE Educators Before Paying Landlords"
-date: 2023-11-29
-source-url: https://www.scoop.co.nz/stories/ED2311/S00046/fund-full-pay-parity-for-ece-educators-before-paying-landlords.htm
+title: Fund Full Pay Parity For ECE Educators Before Paying Landlords
+date: 2023-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2311/S00046/fund-full-pay-parity-for-ece-educators-before-paying-landlords.htm
 author: nzei
+permalink: >-
+  /archive/2023/11/29/fund-full-pay-parity-for-ece-educators-before-paying-landlords/index.html
+layout: layout.njk
 ---
 Fund Full Pay Parity For ECE Educators Before Paying Landlords
 ==============================================================

@@ -1,9 +1,13 @@
 ---
 slug: governor-general-announces-rhodes-scholars-for-2017
-title: "Governor-General announces Rhodes Scholars for 2017"
-date: 2016-11-03
-source-url: https://www.scoop.co.nz/stories/ED1611/S00011/governor-general-announces-rhodes-scholars-for-2017.htm
+title: Governor-General announces Rhodes Scholars for 2017
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00011/governor-general-announces-rhodes-scholars-for-2017.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/11/03/governor-general-announces-rhodes-scholars-for-2017/index.html
+layout: layout.njk
 ---
 Governor-General announces Rhodes Scholars for 2017
 ===================================================

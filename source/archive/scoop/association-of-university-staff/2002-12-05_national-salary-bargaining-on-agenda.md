@@ -1,9 +1,12 @@
 ---
 slug: national-salary-bargaining-on-agenda
-title: "National salary bargaining on agenda"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/ED0212/S00009/national-salary-bargaining-on-agenda.htm
+title: National salary bargaining on agenda
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00009/national-salary-bargaining-on-agenda.htm
 author: association-of-university-staff
+permalink: /archive/2002/12/05/national-salary-bargaining-on-agenda/index.html
+layout: layout.njk
 ---
 National salary bargaining on agenda
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: managing-land-into-the-future
-title: "Managing land into the future"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/SC1409/S00089/managing-land-into-the-future.htm
+title: Managing land into the future
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00089/managing-land-into-the-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/23/managing-land-into-the-future/index.html
+layout: layout.njk
 ---
 Managing land into the future
 =============================

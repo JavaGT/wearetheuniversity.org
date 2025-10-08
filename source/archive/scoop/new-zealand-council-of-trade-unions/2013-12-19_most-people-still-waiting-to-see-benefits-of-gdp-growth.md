@@ -1,9 +1,13 @@
 ---
 slug: most-people-still-waiting-to-see-benefits-of-gdp-growth
-title: "Most people still waiting to see benefits of GDP growth"
-date: 2013-12-19
-source-url: https://www.scoop.co.nz/stories/PO1312/S00273/most-people-still-waiting-to-see-benefits-of-gdp-growth.htm
+title: Most people still waiting to see benefits of GDP growth
+date: 2013-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00273/most-people-still-waiting-to-see-benefits-of-gdp-growth.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/12/19/most-people-still-waiting-to-see-benefits-of-gdp-growth/index.html
+layout: layout.njk
 ---
 Most people still waiting to see benefits of GDP growth
 =======================================================

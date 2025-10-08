@@ -1,9 +1,12 @@
 ---
 slug: memo-spells-beginning-of-end-for-kiwibank
-title: "Memo Spells Beginning Of End For Kiwibank"
-date: 2002-01-11
-source-url: https://www.scoop.co.nz/stories/PA0201/S00027/memo-spells-beginning-of-end-for-kiwibank.htm
+title: Memo Spells Beginning Of End For Kiwibank
+date: 2002-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00027/memo-spells-beginning-of-end-for-kiwibank.htm
 author: act-new-zealand
+permalink: /archive/2002/01/11/memo-spells-beginning-of-end-for-kiwibank/index.html
+layout: layout.njk
 ---
 Memo Spells Beginning Of End For Kiwibank
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-funding-for-medicine-and-dentistry-teaching
-title: "New funding for Medicine and Dentistry teaching"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/ED0612/S00020/new-funding-for-medicine-and-dentistry-teaching.htm
+title: New funding for Medicine and Dentistry teaching
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00020/new-funding-for-medicine-and-dentistry-teaching.htm
 author: association-of-university-staff
+permalink: /archive/2006/12/07/new-funding-for-medicine-and-dentistry-teaching/index.html
+layout: layout.njk
 ---
 New funding for Medicine and Dentistry teaching
 ===============================================

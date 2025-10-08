@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-32
-title: "AUS Tertiary Update Vol 5 No.32"
-date: 2002-09-05
-source-url: https://www.scoop.co.nz/stories/ED0209/S00011/aus-tertiary-update-vol-5-no32.htm
+title: AUS Tertiary Update Vol 5 No.32
+date: 2002-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00011/aus-tertiary-update-vol-5-no32.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/05/aus-tertiary-update-vol-5-no-32/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 5 No.32
 ===============================

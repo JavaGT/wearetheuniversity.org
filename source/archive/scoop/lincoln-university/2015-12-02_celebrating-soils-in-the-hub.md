@@ -1,9 +1,11 @@
 ---
 slug: celebrating-soils-in-the-hub
-title: "Celebrating soils in the Hub"
-date: 2015-12-02
+title: Celebrating soils in the Hub
+date: 2015-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1512/S00011/celebrating-soils-in-the-hub.htm
 author: lincoln-university
+permalink: /archive/2015/12/02/celebrating-soils-in-the-hub/index.html
+layout: layout.njk
 ---
 Celebrating soils in the Hub
 ============================

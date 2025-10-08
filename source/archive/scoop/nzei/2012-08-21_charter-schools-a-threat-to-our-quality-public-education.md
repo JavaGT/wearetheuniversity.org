@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-a-threat-to-our-quality-public-education
-title: "Charter Schools - A Threat To Our Quality Public Education"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/ED1208/S00107/charter-schools-a-threat-to-our-quality-public-education.htm
+title: Charter Schools - A Threat To Our Quality Public Education
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00107/charter-schools-a-threat-to-our-quality-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/21/charter-schools-a-threat-to-our-quality-public-education/index.html
+layout: layout.njk
 ---
 Charter Schools - A Threat To Our Quality Public Education
 ==========================================================

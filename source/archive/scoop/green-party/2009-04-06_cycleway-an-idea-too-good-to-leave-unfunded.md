@@ -1,9 +1,12 @@
 ---
 slug: cycleway-an-idea-too-good-to-leave-unfunded
-title: "Cycleway an idea too good to leave unfunded"
-date: 2009-04-06
-source-url: https://www.scoop.co.nz/stories/PA0904/S00078/cycleway-an-idea-too-good-to-leave-unfunded.htm
+title: Cycleway an idea too good to leave unfunded
+date: 2009-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00078/cycleway-an-idea-too-good-to-leave-unfunded.htm
 author: green-party
+permalink: /archive/2009/04/06/cycleway-an-idea-too-good-to-leave-unfunded/index.html
+layout: layout.njk
 ---
 Cycleway an idea too good to leave unfunded
 ===========================================

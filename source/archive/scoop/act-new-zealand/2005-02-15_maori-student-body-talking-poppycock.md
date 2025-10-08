@@ -1,9 +1,12 @@
 ---
 slug: maori-student-body-talking-poppycock
-title: "Maori student body talking poppycock"
-date: 2005-02-15
-source-url: https://www.scoop.co.nz/stories/PA0502/S00320/maori-student-body-talking-poppycock.htm
+title: Maori student body talking poppycock
+date: 2005-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00320/maori-student-body-talking-poppycock.htm
 author: act-new-zealand
+permalink: /archive/2005/02/15/maori-student-body-talking-poppycock/index.html
+layout: layout.njk
 ---
 Maori student body talking poppycock
 ====================================

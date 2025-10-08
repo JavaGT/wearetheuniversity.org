@@ -1,9 +1,12 @@
 ---
 slug: german-nz-academic-links-agreement-signed
-title: "German-NZ Academic Links Agreement Signed"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/ED0606/S00079/german-nz-academic-links-agreement-signed.htm
+title: German-NZ Academic Links Agreement Signed
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00079/german-nz-academic-links-agreement-signed.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/06/29/german-nz-academic-links-agreement-signed/index.html
+layout: layout.njk
 ---
 German-NZ Academic Links Agreement Signed
 =========================================

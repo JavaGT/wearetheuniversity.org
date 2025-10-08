@@ -1,9 +1,12 @@
 ---
 slug: never-again!-demo-against-holocaust-denial
-title: "\"Never Again!\" Demo Against Holocaust Denial"
-date: 2000-05-09
-source-url: https://www.scoop.co.nz/stories/ED0005/S00012/never-again-demo-against-holocaust-denial.htm
+title: '"Never Again!" Demo Against Holocaust Denial'
+date: 2000-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00012/never-again-demo-against-holocaust-denial.htm
 author: fightback
+permalink: /archive/2000/05/09/never-again/index.html
+layout: layout.njk
 ---
 "Never Again!" Demo Against Holocaust Denial
 ============================================

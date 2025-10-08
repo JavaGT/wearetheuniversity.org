@@ -1,9 +1,12 @@
 ---
 slug: national-is-failing-disabled-new-zealanders
-title: "National is failing disabled New Zealanders"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/PA1210/S00396/national-is-failing-disabled-new-zealanders.htm
+title: National is failing disabled New Zealanders
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00396/national-is-failing-disabled-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/24/national-is-failing-disabled-new-zealanders/index.html
+layout: layout.njk
 ---
 National is failing disabled New Zealanders
 ===========================================

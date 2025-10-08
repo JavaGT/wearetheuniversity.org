@@ -1,9 +1,13 @@
 ---
 slug: minister-needs-to-keep-to-novopay-timetable-promise
-title: "Minister needs to keep to Novopay timetable promise"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/ED1305/S00033/minister-needs-to-keep-to-novopay-timetable-promise.htm
+title: Minister needs to keep to Novopay timetable promise
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00033/minister-needs-to-keep-to-novopay-timetable-promise.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/07/minister-needs-to-keep-to-novopay-timetable-promise/index.html
+layout: layout.njk
 ---
 Minister needs to keep to Novopay timetable promise
 ===================================================

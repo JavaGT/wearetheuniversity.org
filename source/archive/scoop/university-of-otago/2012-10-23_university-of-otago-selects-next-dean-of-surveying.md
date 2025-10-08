@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-selects-next-dean-of-surveying
-title: "University of Otago selects next Dean of Surveying"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/ED1210/S00119/university-of-otago-selects-next-dean-of-surveying.htm
+title: University of Otago selects next Dean of Surveying
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00119/university-of-otago-selects-next-dean-of-surveying.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/23/university-of-otago-selects-next-dean-of-surveying/index.html
+layout: layout.njk
 ---
 University of Otago selects next Dean of Surveying
 ==================================================

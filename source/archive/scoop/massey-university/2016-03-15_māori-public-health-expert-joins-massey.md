@@ -1,9 +1,12 @@
 ---
 slug: māori-public-health-expert-joins-massey
-title: "Māori public health expert joins Massey"
-date: 2016-03-15
-source-url: https://www.scoop.co.nz/stories/GE1603/S00052/maori-public-health-expert-joins-massey.htm
+title: Māori public health expert joins Massey
+date: 2016-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1603/S00052/maori-public-health-expert-joins-massey.htm
 author: massey-university
+permalink: /archive/2016/03/15/m/index.html
+layout: layout.njk
 ---
 Māori public health expert joins Massey
 =======================================

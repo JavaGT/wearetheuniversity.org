@@ -1,9 +1,12 @@
 ---
 slug: japanese-earthquake-warning-specialist-speaks
-title: "Japanese Earthquake Warning Specialist Speaks"
-date: 2011-07-04
-source-url: https://www.scoop.co.nz/stories/ED1107/S00012/japanese-earthquake-warning-specialist-speaks.htm
+title: Japanese Earthquake Warning Specialist Speaks
+date: 2011-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00012/japanese-earthquake-warning-specialist-speaks.htm
 author: massey-university
+permalink: /archive/2011/07/04/japanese-earthquake-warning-specialist-speaks/index.html
+layout: layout.njk
 ---
 Japanese Earthquake Warning Specialist Speaks
 =============================================

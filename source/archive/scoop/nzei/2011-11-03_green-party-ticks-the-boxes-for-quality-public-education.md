@@ -1,9 +1,13 @@
 ---
 slug: green-party-ticks-the-boxes-for-quality-public-education
-title: "Green Party ticks the boxes for quality public education"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/ED1111/S00025/green-party-ticks-the-boxes-for-quality-public-education.htm
+title: Green Party ticks the boxes for quality public education
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00025/green-party-ticks-the-boxes-for-quality-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/03/green-party-ticks-the-boxes-for-quality-public-education/index.html
+layout: layout.njk
 ---
 Green Party ticks the boxes for quality public education
 ========================================================

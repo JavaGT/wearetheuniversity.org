@@ -1,9 +1,12 @@
 ---
 slug: uc-music-and-classics-move-to-arts-centre
-title: "UC Music and Classics move to Arts Centre"
-date: 2016-04-19
-source-url: https://www.scoop.co.nz/stories/ED1604/S00066/uc-music-and-classics-move-to-arts-centre.htm
+title: UC Music and Classics move to Arts Centre
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00066/uc-music-and-classics-move-to-arts-centre.htm
 author: university-of-canterbury
+permalink: /archive/2016/04/19/uc-music-and-classics-move-to-arts-centre/index.html
+layout: layout.njk
 ---
 UC Music and Classics move to Arts Centre
 =========================================

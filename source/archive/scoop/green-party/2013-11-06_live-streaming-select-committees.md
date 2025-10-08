@@ -1,9 +1,12 @@
 ---
 slug: live-streaming-select-committees
-title: "Live-streaming select committees"
-date: 2013-11-06
-source-url: https://www.scoop.co.nz/stories/PA1311/S00069/live-streaming-select-committees.htm
+title: Live-streaming select committees
+date: 2013-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00069/live-streaming-select-committees.htm
 author: green-party
+permalink: /archive/2013/11/06/live-streaming-select-committees/index.html
+layout: layout.njk
 ---
 Live-streaming select committees
 ================================

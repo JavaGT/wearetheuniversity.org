@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-where-act-leads-others-follow
-title: "Prebble Speech: Where ACT Leads, Others Follow"
-date: 2004-03-08
-source-url: https://www.scoop.co.nz/stories/PA0403/S00144/prebble-speech-where-act-leads-others-follow.htm
+title: 'Prebble Speech: Where ACT Leads, Others Follow'
+date: 2004-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00144/prebble-speech-where-act-leads-others-follow.htm
 author: act-new-zealand
+permalink: /archive/2004/03/08/prebble-speech-where-act-leads-others-follow/index.html
+layout: layout.njk
 ---
 Prebble Speech: Where ACT Leads, Others Follow
 ==============================================

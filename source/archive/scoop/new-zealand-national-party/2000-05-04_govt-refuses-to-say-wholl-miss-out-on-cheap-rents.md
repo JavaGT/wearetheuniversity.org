@@ -1,9 +1,13 @@
 ---
 slug: govt-refuses-to-say-wholl-miss-out-on-cheap-rents
-title: "Govt refuses to say who'll miss out on cheap rents"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PA0005/S00112/govt-refuses-to-say-wholl-miss-out-on-cheap-rents.htm
+title: Govt refuses to say who'll miss out on cheap rents
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00112/govt-refuses-to-say-wholl-miss-out-on-cheap-rents.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/05/04/govt-refuses-to-say-wholl-miss-out-on-cheap-rents/index.html
+layout: layout.njk
 ---
 Govt refuses to say who'll miss out on cheap rents
 ==================================================

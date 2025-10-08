@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-tuesday-26-oct-2004
-title: "ACT's The Letter - Tuesday 26 Oct 2004"
-date: 2004-10-27
-source-url: https://www.scoop.co.nz/stories/PA0410/S00457/acts-the-letter-tuesday-26-oct-2004.htm
+title: ACT's The Letter - Tuesday 26 Oct 2004
+date: 2004-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00457/acts-the-letter-tuesday-26-oct-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/10/27/acts-the-letter-tuesday-26-oct-2004/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Tuesday 26 Oct 2004
 ======================================

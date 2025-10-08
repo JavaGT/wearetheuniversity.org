@@ -1,9 +1,12 @@
 ---
 slug: students-support-government-fee-regulation
-title: "Students support government fee regulation"
-date: 2002-05-29
-source-url: https://www.scoop.co.nz/stories/ED0205/S00068/students-support-government-fee-regulation.htm
+title: Students support government fee regulation
+date: 2002-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00068/students-support-government-fee-regulation.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/29/students-support-government-fee-regulation/index.html
+layout: layout.njk
 ---
 Students support government fee regulation
 ==========================================

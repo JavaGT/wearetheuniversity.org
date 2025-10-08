@@ -1,9 +1,12 @@
 ---
 slug: shower-boss-wins-sustainabile-design-award
-title: "Shower Boss wins sustainabile design award"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/ED0812/S00016/shower-boss-wins-sustainabile-design-award.htm
+title: Shower Boss wins sustainabile design award
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00016/shower-boss-wins-sustainabile-design-award.htm
 author: aut-university
+permalink: /archive/2008/12/04/shower-boss-wins-sustainabile-design-award/index.html
+layout: layout.njk
 ---
 Shower Boss wins sustainabile design award
 ==========================================

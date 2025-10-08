@@ -1,9 +1,12 @@
 ---
 slug: quake-brain-affecting-our-memory-and-abilities
-title: "‘Quake brain’ affecting our memory and abilities"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/GE1703/S00085/quake-brain-affecting-our-memory-and-abilities.htm
+title: ‘Quake brain’ affecting our memory and abilities
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00085/quake-brain-affecting-our-memory-and-abilities.htm
 author: university-of-otago
+permalink: /archive/2017/03/29/quake-brain-affecting-our-memory-and-abilities/index.html
+layout: layout.njk
 ---
 ‘Quake brain’ affecting our memory and abilities
 ================================================

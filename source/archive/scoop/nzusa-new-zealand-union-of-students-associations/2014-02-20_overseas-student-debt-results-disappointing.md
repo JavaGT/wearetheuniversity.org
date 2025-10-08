@@ -1,9 +1,12 @@
 ---
 slug: overseas-student-debt-results-disappointing
-title: "Overseas student debt results disappointing"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PO1402/S00238/overseas-student-debt-results-disappointing.htm
+title: Overseas student debt results disappointing
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00238/overseas-student-debt-results-disappointing.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/02/20/overseas-student-debt-results-disappointing/index.html
+layout: layout.njk
 ---
 Overseas student debt results disappointing
 ===========================================

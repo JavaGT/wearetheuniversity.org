@@ -1,9 +1,13 @@
 ---
 slug: realism-and-commonsense-not-political-platitudes
-title: "\"Realism And Commonsense - Not Political Platitudes\""
-date: 2023-08-27
-source-url: https://www.scoop.co.nz/stories/PA2308/S00172/realism-and-commonsense-not-political-platitudes.htm
+title: '"Realism And Commonsense - Not Political Platitudes"'
+date: 2023-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00172/realism-and-commonsense-not-political-platitudes.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2023/08/27/realism-and-commonsense-not-political-platitudes/index.html
+layout: layout.njk
 ---
 “Realism And Commonsense - Not Political Platitudes”
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-act-deputy-leader-statement-on-xinjiang
-title: "Speech: ACT Deputy Leader Statement On Xinjiang"
-date: 2021-05-05
-source-url: https://www.scoop.co.nz/stories/PA2105/S00038/speech-act-deputy-leader-statement-on-xinjiang.htm
+title: 'Speech: ACT Deputy Leader Statement On Xinjiang'
+date: 2021-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00038/speech-act-deputy-leader-statement-on-xinjiang.htm
 author: act-new-zealand
+permalink: /archive/2021/05/05/speech-act-deputy-leader-statement-on-xinjiang/index.html
+layout: layout.njk
 ---
 Speech: ACT Deputy Leader Statement On Xinjiang
 ===============================================

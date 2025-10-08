@@ -1,9 +1,11 @@
 ---
 slug: seminar-is-rare-opportunity
-title: "Seminar Is Rare Opportunity"
-date: 2007-10-11
+title: Seminar Is Rare Opportunity
+date: 2007-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0710/S00143/seminar-is-rare-opportunity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/11/seminar-is-rare-opportunity/index.html
+layout: layout.njk
 ---
 Seminar Is Rare Opportunity
 ===========================

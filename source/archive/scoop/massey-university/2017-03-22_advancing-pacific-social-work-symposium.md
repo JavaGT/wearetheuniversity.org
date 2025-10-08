@@ -1,9 +1,12 @@
 ---
 slug: advancing-pacific-social-work-symposium
-title: "Advancing Pacific Social Work Symposium"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/ED1703/S00097/advancing-pacific-social-work-symposium.htm
+title: Advancing Pacific Social Work Symposium
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00097/advancing-pacific-social-work-symposium.htm
 author: massey-university
+permalink: /archive/2017/03/22/advancing-pacific-social-work-symposium/index.html
+layout: layout.njk
 ---
 Advancing Pacific Social Work Symposium
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-launches-paper-on-gangs-for-second-semester
-title: "UC launches paper on gangs for second semester"
-date: 2013-06-29
-source-url: https://www.scoop.co.nz/stories/ED1306/S00163/uc-launches-paper-on-gangs-for-second-semester.htm
+title: UC launches paper on gangs for second semester
+date: 2013-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00163/uc-launches-paper-on-gangs-for-second-semester.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/29/uc-launches-paper-on-gangs-for-second-semester/index.html
+layout: layout.njk
 ---
 UC launches paper on gangs for second semester
 ==============================================

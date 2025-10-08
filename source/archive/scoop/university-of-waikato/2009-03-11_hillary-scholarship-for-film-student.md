@@ -1,9 +1,12 @@
 ---
 slug: hillary-scholarship-for-film-student
-title: "Hillary Scholarship for film student"
-date: 2009-03-11
-source-url: https://www.scoop.co.nz/stories/CU0903/S00162/hillary-scholarship-for-film-student.htm
+title: Hillary Scholarship for film student
+date: 2009-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00162/hillary-scholarship-for-film-student.htm
 author: university-of-waikato
+permalink: /archive/2009/03/11/hillary-scholarship-for-film-student/index.html
+layout: layout.njk
 ---
 Hillary Scholarship for film student
 ====================================

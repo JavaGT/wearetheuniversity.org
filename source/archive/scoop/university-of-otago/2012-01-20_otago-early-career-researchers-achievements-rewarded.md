@@ -1,9 +1,13 @@
 ---
 slug: otago-early-career-researchers-achievements-rewarded
-title: "Otago early-career researcher’s achievements rewarded"
-date: 2012-01-20
-source-url: https://www.scoop.co.nz/stories/ED1201/S00034/otago-early-career-researchers-achievements-rewarded.htm
+title: Otago early-career researcher’s achievements rewarded
+date: 2012-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00034/otago-early-career-researchers-achievements-rewarded.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/01/20/otago-early-career-researchers-achievements-rewarded/index.html
+layout: layout.njk
 ---
 Otago early-career researcher’s achievements rewarded
 =====================================================

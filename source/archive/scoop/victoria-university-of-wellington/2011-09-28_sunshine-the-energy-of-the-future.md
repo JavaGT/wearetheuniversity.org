@@ -1,9 +1,12 @@
 ---
 slug: sunshine-the-energy-of-the-future
-title: "Sunshine the energy of the future"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/SC1109/S00066/sunshine-the-energy-of-the-future.htm
+title: Sunshine the energy of the future
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00066/sunshine-the-energy-of-the-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/28/sunshine-the-energy-of-the-future/index.html
+layout: layout.njk
 ---
 Sunshine the energy of the future
 =================================

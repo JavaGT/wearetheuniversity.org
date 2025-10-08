@@ -1,9 +1,13 @@
 ---
 slug: national-selects-karl-varley-as-wigram-candidate
-title: "National selects Karl Varley as Wigram candidate"
-date: 2014-05-10
-source-url: https://www.scoop.co.nz/stories/PO1405/S00156/national-selects-karl-varley-as-wigram-candidate.htm
+title: National selects Karl Varley as Wigram candidate
+date: 2014-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00156/national-selects-karl-varley-as-wigram-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/10/national-selects-karl-varley-as-wigram-candidate/index.html
+layout: layout.njk
 ---
 National selects Karl Varley as Wigram candidate
 ================================================

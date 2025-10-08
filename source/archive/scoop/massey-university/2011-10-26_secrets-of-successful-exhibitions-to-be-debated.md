@@ -1,9 +1,12 @@
 ---
 slug: secrets-of-successful-exhibitions-to-be-debated
-title: "Secrets of successful exhibitions to be debated"
-date: 2011-10-26
-source-url: https://www.scoop.co.nz/stories/CU1110/S00378/secrets-of-successful-exhibitions-to-be-debated.htm
+title: Secrets of successful exhibitions to be debated
+date: 2011-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00378/secrets-of-successful-exhibitions-to-be-debated.htm
 author: massey-university
+permalink: /archive/2011/10/26/secrets-of-successful-exhibitions-to-be-debated/index.html
+layout: layout.njk
 ---
 Secrets of successful exhibitions to be debated
 ===============================================

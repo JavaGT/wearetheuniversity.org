@@ -1,9 +1,12 @@
 ---
 slug: bright-future-doesnt-address-real-issues
-title: "\"Bright Future\" Doesn't Address Real Issues"
-date: 1999-08-19
-source-url: https://www.scoop.co.nz/stories/ED9908/S00016/bright-future-doesnt-address-real-issues.htm
+title: '"Bright Future" Doesn''t Address Real Issues'
+date: 1999-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9908/S00016/bright-future-doesnt-address-real-issues.htm
 author: victoria-university-students-association
+permalink: /archive/1999/08/19/bright-future-doesnt-address-real-issues/index.html
+layout: layout.njk
 ---
 "Bright Future" Doesn't Address Real Issues
 ===========================================

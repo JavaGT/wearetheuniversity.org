@@ -1,9 +1,12 @@
 ---
 slug: synlaits-expansion-at-expense-of-environment
-title: "Synlait’s Expansion At Expense Of Environment"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/PA1007/S00289/synlaits-expansion-at-expense-of-environment.htm
+title: Synlait’s Expansion At Expense Of Environment
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00289/synlaits-expansion-at-expense-of-environment.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/19/synlaits-expansion-at-expense-of-environment/index.html
+layout: layout.njk
 ---
 Synlait’s Expansion At Expense Of Environment
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: national-to-invest-in-whanganuis-velodrome
-title: "National to invest in Whanganui’s Velodrome"
-date: 2017-09-09
-source-url: https://www.scoop.co.nz/stories/PA1709/S00094/national-to-invest-in-whanganuis-velodrome.htm
+title: National to invest in Whanganui’s Velodrome
+date: 2017-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00094/national-to-invest-in-whanganuis-velodrome.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/09/national-to-invest-in-whanganuis-velodrome/index.html
+layout: layout.njk
 ---
 National to invest in Whanganui’s Velodrome
 ===========================================

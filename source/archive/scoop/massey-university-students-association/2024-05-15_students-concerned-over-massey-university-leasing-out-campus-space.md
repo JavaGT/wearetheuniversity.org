@@ -1,9 +1,13 @@
 ---
 slug: students-concerned-over-massey-university-leasing-out-campus-space
-title: "Students Concerned Over Massey University Leasing Out Campus Space"
-date: 2024-05-15
-source-url: https://www.scoop.co.nz/stories/ED2405/S00065/students-concerned-over-massey-university-leasing-out-campus-space.htm
+title: Students Concerned Over Massey University Leasing Out Campus Space
+date: 2024-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00065/students-concerned-over-massey-university-leasing-out-campus-space.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2024/05/15/students-concerned-over-massey-university-leasing-out-campus-space/index.html
+layout: layout.njk
 ---
 Students Concerned Over Massey University Leasing Out Campus Space
 ==================================================================

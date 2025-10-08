@@ -1,9 +1,12 @@
 ---
 slug: international-jurist-to-receive-honorary-degree
-title: "International jurist to receive honorary degree"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/ED0408/S00051/international-jurist-to-receive-honorary-degree.htm
+title: International jurist to receive honorary degree
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00051/international-jurist-to-receive-honorary-degree.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/12/international-jurist-to-receive-honorary-degree/index.html
+layout: layout.njk
 ---
 International jurist to receive honorary degree
 ===============================================

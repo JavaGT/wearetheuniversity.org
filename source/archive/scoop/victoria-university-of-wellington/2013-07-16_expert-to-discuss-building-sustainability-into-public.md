@@ -1,9 +1,13 @@
 ---
 slug: expert-to-discuss-building-sustainability-into-public
-title: "Expert to discuss building sustainability into public"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/CU1307/S00285/expert-to-discuss-building-sustainability-into-public.htm
+title: Expert to discuss building sustainability into public
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00285/expert-to-discuss-building-sustainability-into-public.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/16/expert-to-discuss-building-sustainability-into-public/index.html
+layout: layout.njk
 ---
 Expert to discuss building sustainability into public
 =====================================================

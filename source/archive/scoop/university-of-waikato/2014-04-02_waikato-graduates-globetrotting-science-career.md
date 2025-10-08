@@ -1,9 +1,12 @@
 ---
 slug: waikato-graduates-globetrotting-science-career
-title: "Waikato graduate’s globetrotting science career"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/ED1404/S00011/waikato-graduates-globetrotting-science-career.htm
+title: Waikato graduate’s globetrotting science career
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00011/waikato-graduates-globetrotting-science-career.htm
 author: university-of-waikato
+permalink: /archive/2014/04/02/waikato-graduates-globetrotting-science-career/index.html
+layout: layout.njk
 ---
 Waikato graduate’s globetrotting science career
 ===============================================

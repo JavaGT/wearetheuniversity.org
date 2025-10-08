@@ -1,9 +1,12 @@
 ---
 slug: more-businesses-must-be-able-to-operate-safely
-title: "More Businesses Must Be Able To Operate Safely"
-date: 2020-04-05
-source-url: https://www.scoop.co.nz/stories/PA2004/S00024/more-businesses-must-be-able-to-operate-safely.htm
+title: More Businesses Must Be Able To Operate Safely
+date: 2020-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00024/more-businesses-must-be-able-to-operate-safely.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/05/more-businesses-must-be-able-to-operate-safely/index.html
+layout: layout.njk
 ---
 More Businesses Must Be Able To Operate Safely
 ==============================================

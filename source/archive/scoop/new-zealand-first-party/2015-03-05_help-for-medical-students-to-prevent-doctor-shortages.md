@@ -1,9 +1,13 @@
 ---
 slug: help-for-medical-students-to-prevent-doctor-shortages
-title: "Help for Medical Students to Prevent Doctor Shortages"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/PA1503/S00058/help-for-medical-students-to-prevent-doctor-shortages.htm
+title: Help for Medical Students to Prevent Doctor Shortages
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00058/help-for-medical-students-to-prevent-doctor-shortages.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/03/05/help-for-medical-students-to-prevent-doctor-shortages/index.html
+layout: layout.njk
 ---
 Help for Medical Students to Prevent Doctor Shortages
 =====================================================

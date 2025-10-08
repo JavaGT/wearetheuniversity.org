@@ -1,9 +1,12 @@
 ---
 slug: turia-all-talk-and-no-action-on-tobacco-control
-title: "Turia all talk and no action on tobacco control"
-date: 2009-06-04
-source-url: https://www.scoop.co.nz/stories/PA0906/S00068/turia-all-talk-and-no-action-on-tobacco-control.htm
+title: Turia all talk and no action on tobacco control
+date: 2009-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00068/turia-all-talk-and-no-action-on-tobacco-control.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/04/turia-all-talk-and-no-action-on-tobacco-control/index.html
+layout: layout.njk
 ---
 Turia all talk and no action on tobacco control
 ===============================================

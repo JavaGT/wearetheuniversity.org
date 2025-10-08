@@ -1,9 +1,12 @@
 ---
 slug: building-high-wage-quality-economy-says-ctu
-title: "Building High Wage, Quality Economy says CTU"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/BU0604/S00080/building-high-wage-quality-economy-says-ctu.htm
+title: Building High Wage, Quality Economy says CTU
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00080/building-high-wage-quality-economy-says-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/04/04/building-high-wage-quality-economy-says-ctu/index.html
+layout: layout.njk
 ---
 Building High Wage, Quality Economy says CTU
 ============================================

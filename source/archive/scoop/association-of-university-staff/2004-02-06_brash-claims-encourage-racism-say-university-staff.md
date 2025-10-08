@@ -1,9 +1,13 @@
 ---
 slug: brash-claims-encourage-racism-say-university-staff
-title: "Brash claims encourage racism say university staff"
-date: 2004-02-06
-source-url: https://www.scoop.co.nz/stories/PO0402/S00046/brash-claims-encourage-racism-say-university-staff.htm
+title: Brash claims encourage racism say university staff
+date: 2004-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00046/brash-claims-encourage-racism-say-university-staff.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2004/02/06/brash-claims-encourage-racism-say-university-staff/index.html
+layout: layout.njk
 ---
 Brash claims encourage racism say university staff
 ==================================================

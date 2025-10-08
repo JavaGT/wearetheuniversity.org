@@ -1,9 +1,13 @@
 ---
 slug: international-collaborations-shown-to-benefit-nz-inc
-title: "International collaborations shown to benefit NZ Inc."
-date: 2018-03-08
-source-url: https://www.scoop.co.nz/stories/PO1803/S00141/international-collaborations-shown-to-benefit-nz-inc.htm
+title: International collaborations shown to benefit NZ Inc.
+date: 2018-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00141/international-collaborations-shown-to-benefit-nz-inc.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/03/08/international-collaborations-shown-to-benefit-nz-inc/index.html
+layout: layout.njk
 ---
 International collaborations shown to benefit NZ Inc.
 =====================================================

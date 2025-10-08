@@ -1,9 +1,12 @@
 ---
 slug: greens-help-build-healthy-houses
-title: "Greens help build healthy houses"
-date: 2004-08-03
-source-url: https://www.scoop.co.nz/stories/PA0408/S00055/greens-help-build-healthy-houses.htm
+title: Greens help build healthy houses
+date: 2004-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00055/greens-help-build-healthy-houses.htm
 author: green-party
+permalink: /archive/2004/08/03/greens-help-build-healthy-houses/index.html
+layout: layout.njk
 ---
 Greens help build healthy houses
 ================================

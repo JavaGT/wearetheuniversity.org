@@ -1,9 +1,13 @@
 ---
 slug: seymour-to-party-leaders-lets-cooperate-on-nz-super
-title: "Seymour to party leaders: Let’s cooperate on NZ Super"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PA1502/S00285/seymour-to-party-leaders-lets-cooperate-on-nz-super.htm
+title: 'Seymour to party leaders: Let’s cooperate on NZ Super'
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00285/seymour-to-party-leaders-lets-cooperate-on-nz-super.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/02/24/seymour-to-party-leaders-lets-cooperate-on-nz-super/index.html
+layout: layout.njk
 ---
 Seymour to party leaders: Let’s cooperate on NZ Super
 =====================================================

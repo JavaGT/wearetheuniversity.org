@@ -1,9 +1,13 @@
 ---
 slug: taxpayer-to-fork-out-millions-for-novopay-rescue
-title: "Taxpayer to fork out millions for Novopay rescue"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PA1407/S00589/taxpayer-to-fork-out-millions-for-novopay-rescue.htm
+title: Taxpayer to fork out millions for Novopay rescue
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00589/taxpayer-to-fork-out-millions-for-novopay-rescue.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/30/taxpayer-to-fork-out-millions-for-novopay-rescue/index.html
+layout: layout.njk
 ---
 Taxpayer to fork out millions for Novopay rescue
 ================================================

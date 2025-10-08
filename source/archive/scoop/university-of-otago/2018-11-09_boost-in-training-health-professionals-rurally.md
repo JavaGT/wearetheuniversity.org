@@ -1,9 +1,12 @@
 ---
 slug: boost-in-training-health-professionals-rurally
-title: "Boost in training health professionals rurally"
-date: 2018-11-09
-source-url: https://www.scoop.co.nz/stories/GE1811/S00037/boost-in-training-health-professionals-rurally.htm
+title: Boost in training health professionals rurally
+date: 2018-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00037/boost-in-training-health-professionals-rurally.htm
 author: university-of-otago
+permalink: /archive/2018/11/09/boost-in-training-health-professionals-rurally/index.html
+layout: layout.njk
 ---
 Boost in training health professionals rurally
 ==============================================

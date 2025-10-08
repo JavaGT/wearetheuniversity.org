@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-rangiora-public-meeting
-title: "Winston Peters: Speech - Rangiora Public Meeting"
-date: 2017-09-06
-source-url: https://www.scoop.co.nz/stories/PA1709/S00059/winston-peters-speech-rangiora-public-meeting.htm
+title: 'Winston Peters: Speech - Rangiora Public Meeting'
+date: 2017-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00059/winston-peters-speech-rangiora-public-meeting.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/06/winston-peters-speech-rangiora-public-meeting/index.html
+layout: layout.njk
 ---
 Winston Peters: Speech - Rangiora Public Meeting
 ================================================

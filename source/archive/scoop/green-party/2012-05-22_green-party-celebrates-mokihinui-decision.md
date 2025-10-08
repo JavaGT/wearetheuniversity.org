@@ -1,9 +1,12 @@
 ---
 slug: green-party-celebrates-mokihinui-decision
-title: "Green Party Celebrates Mokihinui Decision"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PA1205/S00349/green-party-celebrates-mokihinui-decision.htm
+title: Green Party Celebrates Mokihinui Decision
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00349/green-party-celebrates-mokihinui-decision.htm
 author: green-party
+permalink: /archive/2012/05/22/green-party-celebrates-mokihinui-decision/index.html
+layout: layout.njk
 ---
 Green Party Celebrates Mokihinui Decision
 =========================================

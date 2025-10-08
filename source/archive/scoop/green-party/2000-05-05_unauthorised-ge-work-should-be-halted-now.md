@@ -1,9 +1,12 @@
 ---
 slug: unauthorised-ge-work-should-be-halted-now
-title: "Unauthorised GE work should be halted now"
-date: 2000-05-05
-source-url: https://www.scoop.co.nz/stories/PA0005/S00125/unauthorised-ge-work-should-be-halted-now.htm
+title: Unauthorised GE work should be halted now
+date: 2000-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00125/unauthorised-ge-work-should-be-halted-now.htm
 author: green-party
+permalink: /archive/2000/05/05/unauthorised-ge-work-should-be-halted-now/index.html
+layout: layout.njk
 ---
 Unauthorised GE work should be halted now
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: disparities-in-death-rates-no-longer-widening
-title: "Disparities in Death Rates No Longer Widening"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/GE0708/S00090/disparities-in-death-rates-no-longer-widening.htm
+title: Disparities in Death Rates No Longer Widening
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00090/disparities-in-death-rates-no-longer-widening.htm
 author: university-of-otago
+permalink: /archive/2007/08/23/disparities-in-death-rates-no-longer-widening/index.html
+layout: layout.njk
 ---
 Disparities in Death Rates No Longer Widening
 =============================================

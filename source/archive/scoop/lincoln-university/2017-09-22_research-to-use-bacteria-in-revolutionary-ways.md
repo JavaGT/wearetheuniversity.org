@@ -1,9 +1,12 @@
 ---
 slug: research-to-use-bacteria-in-revolutionary-ways
-title: "Research to Use Bacteria in Revolutionary Ways"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/SC1709/S00033/research-to-use-bacteria-in-revolutionary-ways.htm
+title: Research to Use Bacteria in Revolutionary Ways
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1709/S00033/research-to-use-bacteria-in-revolutionary-ways.htm
 author: lincoln-university
+permalink: /archive/2017/09/22/research-to-use-bacteria-in-revolutionary-ways/index.html
+layout: layout.njk
 ---
 Research to Use Bacteria in Revolutionary Ways
 ==============================================

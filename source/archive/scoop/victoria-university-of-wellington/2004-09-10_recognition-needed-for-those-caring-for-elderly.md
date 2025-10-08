@@ -1,9 +1,12 @@
 ---
 slug: recognition-needed-for-those-caring-for-elderly
-title: "Recognition needed for those caring for elderly"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00043/recognition-needed-for-those-caring-for-elderly.htm
+title: Recognition needed for those caring for elderly
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00043/recognition-needed-for-those-caring-for-elderly.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/10/recognition-needed-for-those-caring-for-elderly/index.html
+layout: layout.njk
 ---
 Recognition needed for those caring for elderly
 ===============================================

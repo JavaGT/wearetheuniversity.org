@@ -1,9 +1,13 @@
 ---
 slug: national-in-la-la-land-increasing-youth-court-age
-title: "National in La-La Land Increasing Youth Court Age"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/PA1612/S00150/national-in-la-la-land-increasing-youth-court-age.htm
+title: National in La-La Land Increasing Youth Court Age
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00150/national-in-la-la-land-increasing-youth-court-age.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/12/08/national-in-la-la-land-increasing-youth-court-age/index.html
+layout: layout.njk
 ---
 National in La-La Land Increasing Youth Court Age
 =================================================

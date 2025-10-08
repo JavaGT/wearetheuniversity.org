@@ -1,9 +1,11 @@
 ---
 slug: union-bill-condemns-youth
-title: "Union Bill Condemns Youth"
-date: 2000-03-14
+title: Union Bill Condemns Youth
+date: 2000-03-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0003/S00067/union-bill-condemns-youth.htm
 author: prebble-s-rebels
+permalink: /archive/2000/03/14/union-bill-condemns-youth/index.html
+layout: layout.njk
 ---
 Union Bill Condemns Youth
 =========================

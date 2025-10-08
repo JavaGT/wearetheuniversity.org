@@ -1,9 +1,12 @@
 ---
 slug: nz-first-asks-will-parliaments-prayer-remain
-title: "NZ First Asks: Will Parliament's Prayer Remain?"
-date: 2005-03-04
-source-url: https://www.scoop.co.nz/stories/PA0503/S00124/nz-first-asks-will-parliaments-prayer-remain.htm
+title: 'NZ First Asks: Will Parliament''s Prayer Remain?'
+date: 2005-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00124/nz-first-asks-will-parliaments-prayer-remain.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/04/nz-first-asks-will-parliaments-prayer-remain/index.html
+layout: layout.njk
 ---
 NZ First Asks: Will Parliament's Prayer Remain?
 ===============================================

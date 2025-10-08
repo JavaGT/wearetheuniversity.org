@@ -1,9 +1,12 @@
 ---
 slug: correspondence-school-inquiry-called-for
-title: "Correspondence School inquiry called for"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/PA0710/S00457/correspondence-school-inquiry-called-for.htm
+title: Correspondence School inquiry called for
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00457/correspondence-school-inquiry-called-for.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/25/correspondence-school-inquiry-called-for/index.html
+layout: layout.njk
 ---
 Correspondence School inquiry called for
 ========================================

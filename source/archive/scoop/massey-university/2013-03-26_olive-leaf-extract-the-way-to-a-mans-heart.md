@@ -1,9 +1,12 @@
 ---
 slug: olive-leaf-extract-the-way-to-a-mans-heart
-title: "Olive leaf extract the way to a man’s heart?"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/SC1303/S00042/olive-leaf-extract-the-way-to-a-mans-heart.htm
+title: Olive leaf extract the way to a man’s heart?
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00042/olive-leaf-extract-the-way-to-a-mans-heart.htm
 author: massey-university
+permalink: /archive/2013/03/26/olive-leaf-extract-the-way-to-a-mans-heart/index.html
+layout: layout.njk
 ---
 Olive leaf extract the way to a man’s heart?
 ============================================

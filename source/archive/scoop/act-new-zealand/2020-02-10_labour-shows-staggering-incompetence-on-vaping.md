@@ -1,9 +1,12 @@
 ---
 slug: labour-shows-staggering-incompetence-on-vaping
-title: "Labour shows staggering incompetence on vaping"
-date: 2020-02-10
-source-url: https://www.scoop.co.nz/stories/PA2002/S00049/labour-shows-staggering-incompetence-on-vaping.htm
+title: Labour shows staggering incompetence on vaping
+date: 2020-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00049/labour-shows-staggering-incompetence-on-vaping.htm
 author: act-new-zealand
+permalink: /archive/2020/02/10/labour-shows-staggering-incompetence-on-vaping/index.html
+layout: layout.njk
 ---
 Labour shows staggering incompetence on vaping
 ==============================================

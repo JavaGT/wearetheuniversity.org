@@ -1,9 +1,13 @@
 ---
 slug: universities-key-to-economic-recovery-and-growth
-title: "Universities Key To Economic Recovery And Growth"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/ED0904/S00053/universities-key-to-economic-recovery-and-growth.htm
+title: Universities Key To Economic Recovery And Growth
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00053/universities-key-to-economic-recovery-and-growth.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/04/24/universities-key-to-economic-recovery-and-growth/index.html
+layout: layout.njk
 ---
 Universities Key To Economic Recovery And Growth
 ================================================

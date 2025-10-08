@@ -1,9 +1,12 @@
 ---
 slug: will-the-real-alliance-please-stand-up
-title: "Will The Real Alliance Please Stand Up"
-date: 2002-03-12
-source-url: https://www.scoop.co.nz/stories/PO0203/S00051/will-the-real-alliance-please-stand-up.htm
+title: Will The Real Alliance Please Stand Up
+date: 2002-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00051/will-the-real-alliance-please-stand-up.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/03/12/will-the-real-alliance-please-stand-up/index.html
+layout: layout.njk
 ---
 Will The Real Alliance Please Stand Up
 ======================================

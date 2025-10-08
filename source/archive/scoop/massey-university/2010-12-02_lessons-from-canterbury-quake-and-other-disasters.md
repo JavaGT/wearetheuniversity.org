@@ -1,9 +1,13 @@
 ---
 slug: lessons-from-canterbury-quake-and-other-disasters
-title: "Lessons from Canterbury quake and other disasters"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/SC1012/S00005/lessons-from-canterbury-quake-and-other-disasters.htm
+title: Lessons from Canterbury quake and other disasters
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1012/S00005/lessons-from-canterbury-quake-and-other-disasters.htm
 author: massey-university
+permalink: >-
+  /archive/2010/12/02/lessons-from-canterbury-quake-and-other-disasters/index.html
+layout: layout.njk
 ---
 Lessons from Canterbury quake and other disasters
 =================================================

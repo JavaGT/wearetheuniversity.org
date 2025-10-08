@@ -1,9 +1,12 @@
 ---
 slug: shocking-diabetes-rates-can-be-reduced
-title: "Shocking diabetes rates can be reduced"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/SC1108/S00041/shocking-diabetes-rates-can-be-reduced.htm
+title: Shocking diabetes rates can be reduced
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00041/shocking-diabetes-rates-can-be-reduced.htm
 author: university-of-otago
+permalink: /archive/2011/08/12/shocking-diabetes-rates-can-be-reduced/index.html
+layout: layout.njk
 ---
 Shocking diabetes rates can be reduced
 ======================================

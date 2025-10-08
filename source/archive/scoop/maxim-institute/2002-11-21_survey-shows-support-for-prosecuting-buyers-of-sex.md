@@ -1,9 +1,13 @@
 ---
 slug: survey-shows-support-for-prosecuting-buyers-of-sex
-title: "Survey shows support for prosecuting buyers of sex"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/PO0211/S00158/survey-shows-support-for-prosecuting-buyers-of-sex.htm
+title: Survey shows support for prosecuting buyers of sex
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0211/S00158/survey-shows-support-for-prosecuting-buyers-of-sex.htm
 author: maxim-institute
+permalink: >-
+  /archive/2002/11/21/survey-shows-support-for-prosecuting-buyers-of-sex/index.html
+layout: layout.njk
 ---
 Survey shows support for prosecuting buyers of sex
 ==================================================

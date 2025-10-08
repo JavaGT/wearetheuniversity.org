@@ -1,9 +1,16 @@
 ---
-slug: professor-baker-backs-acts-call-for-investigation-national-public-health-agency
-title: "Professor Baker Backs ACT’s Call For Investigation, National Public Health Agency"
-date: 2020-06-08
-source-url: https://www.scoop.co.nz/stories/PA2006/S00063/professor-baker-backs-acts-call-for-investigation-national-public-health-agency.htm
+slug: >-
+  professor-baker-backs-acts-call-for-investigation-national-public-health-agency
+title: >-
+  Professor Baker Backs ACT’s Call For Investigation, National Public Health
+  Agency
+date: 2020-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00063/professor-baker-backs-acts-call-for-investigation-national-public-health-agency.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/08/professor-baker-backs-acts-call-for-investigation-national-public-health-agency/index.html
+layout: layout.njk
 ---
 Professor Baker Backs ACT’s Call For Investigation, National Public Health Agency
 =================================================================================

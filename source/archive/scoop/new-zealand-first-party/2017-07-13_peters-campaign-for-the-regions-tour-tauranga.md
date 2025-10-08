@@ -1,9 +1,12 @@
 ---
 slug: peters-campaign-for-the-regions-tour-tauranga
-title: "Peters: Campaign for the Regions tour - Tauranga"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/PA1707/S00206/peters-campaign-for-the-regions-tour-tauranga.htm
+title: 'Peters: Campaign for the Regions tour - Tauranga'
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00206/peters-campaign-for-the-regions-tour-tauranga.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/13/peters-campaign-for-the-regions-tour-tauranga/index.html
+layout: layout.njk
 ---
 Peters: Campaign for the Regions tour - Tauranga
 ================================================

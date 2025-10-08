@@ -1,9 +1,13 @@
 ---
 slug: nationals-tertiary-policy-applies-to-all-students
-title: "National's tertiary policy applies to all students"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00218/nationals-tertiary-policy-applies-to-all-students.htm
+title: National's tertiary policy applies to all students
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00218/nationals-tertiary-policy-applies-to-all-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/07/08/nationals-tertiary-policy-applies-to-all-students/index.html
+layout: layout.njk
 ---
 National's tertiary policy applies to all students
 ==================================================

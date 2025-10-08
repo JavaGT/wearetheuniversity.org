@@ -1,9 +1,12 @@
 ---
 slug: norman-rod-donald-memorial-lecture-2014
-title: "Norman: Rod Donald Memorial Lecture 2014"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/PA1411/S00373/norman-rod-donald-memorial-lecture-2014.htm
+title: 'Norman: Rod Donald Memorial Lecture 2014'
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00373/norman-rod-donald-memorial-lecture-2014.htm
 author: green-party
+permalink: /archive/2014/11/27/norman-rod-donald-memorial-lecture-2014/index.html
+layout: layout.njk
 ---
 Norman: Rod Donald Memorial Lecture 2014
 ========================================

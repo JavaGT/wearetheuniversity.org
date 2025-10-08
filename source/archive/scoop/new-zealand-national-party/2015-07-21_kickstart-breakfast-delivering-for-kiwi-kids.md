@@ -1,9 +1,12 @@
 ---
 slug: kickstart-breakfast-delivering-for-kiwi-kids
-title: "KickStart Breakfast delivering for kiwi kids"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/PA1507/S00329/kickstart-breakfast-delivering-for-kiwi-kids.htm
+title: KickStart Breakfast delivering for kiwi kids
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00329/kickstart-breakfast-delivering-for-kiwi-kids.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/21/kickstart-breakfast-delivering-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 KickStart Breakfast delivering for kiwi kids
 ============================================

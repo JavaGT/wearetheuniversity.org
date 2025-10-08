@@ -1,9 +1,13 @@
 ---
 slug: royal-society-fellowships-for-victoria-researchers
-title: "Royal Society fellowships for Victoria researchers"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/ED0711/S00048/royal-society-fellowships-for-victoria-researchers.htm
+title: Royal Society fellowships for Victoria researchers
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00048/royal-society-fellowships-for-victoria-researchers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/11/08/royal-society-fellowships-for-victoria-researchers/index.html
+layout: layout.njk
 ---
 Royal Society fellowships for Victoria researchers
 ==================================================

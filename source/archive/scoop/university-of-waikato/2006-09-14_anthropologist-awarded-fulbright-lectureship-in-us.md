@@ -1,9 +1,13 @@
 ---
 slug: anthropologist-awarded-fulbright-lectureship-in-us
-title: "Anthropologist awarded Fulbright Lectureship in US"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00058/anthropologist-awarded-fulbright-lectureship-in-us.htm
+title: Anthropologist awarded Fulbright Lectureship in US
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00058/anthropologist-awarded-fulbright-lectureship-in-us.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/09/14/anthropologist-awarded-fulbright-lectureship-in-us/index.html
+layout: layout.njk
 ---
 Anthropologist awarded Fulbright Lectureship in US
 ==================================================

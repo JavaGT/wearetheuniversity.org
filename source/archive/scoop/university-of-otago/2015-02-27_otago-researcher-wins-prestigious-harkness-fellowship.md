@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-wins-prestigious-harkness-fellowship
-title: "Otago researcher wins prestigious Harkness Fellowship"
-date: 2015-02-27
-source-url: https://www.scoop.co.nz/stories/ED1502/S00095/otago-researcher-wins-prestigious-harkness-fellowship.htm
+title: Otago researcher wins prestigious Harkness Fellowship
+date: 2015-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00095/otago-researcher-wins-prestigious-harkness-fellowship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/02/27/otago-researcher-wins-prestigious-harkness-fellowship/index.html
+layout: layout.njk
 ---
 Otago researcher wins prestigious Harkness Fellowship
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: how-do-we-solve-new-zealands-healthcare-challenges
-title: "How do we solve New Zealand’s healthcare challenges?"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/GE1508/S00055/how-do-we-solve-new-zealands-healthcare-challenges.htm
+title: How do we solve New Zealand’s healthcare challenges?
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00055/how-do-we-solve-new-zealands-healthcare-challenges.htm
 author: massey-university
+permalink: >-
+  /archive/2015/08/17/how-do-we-solve-new-zealands-healthcare-challenges/index.html
+layout: layout.njk
 ---
 How do we solve New Zealand’s healthcare challenges?
 ====================================================

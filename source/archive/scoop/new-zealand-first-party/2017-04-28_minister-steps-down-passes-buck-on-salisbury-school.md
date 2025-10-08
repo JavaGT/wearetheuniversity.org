@@ -1,9 +1,13 @@
 ---
 slug: minister-steps-down-passes-buck-on-salisbury-school
-title: "Minister Steps Down, Passes Buck on Salisbury School"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/PA1704/S00348/minister-steps-down-passes-buck-on-salisbury-school.htm
+title: Minister Steps Down, Passes Buck on Salisbury School
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00348/minister-steps-down-passes-buck-on-salisbury-school.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/28/minister-steps-down-passes-buck-on-salisbury-school/index.html
+layout: layout.njk
 ---
 Minister Steps Down, Passes Buck on Salisbury School
 ====================================================

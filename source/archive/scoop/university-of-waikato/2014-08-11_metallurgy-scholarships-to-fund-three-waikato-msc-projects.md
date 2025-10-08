@@ -1,9 +1,13 @@
 ---
 slug: metallurgy-scholarships-to-fund-three-waikato-msc-projects
-title: "Metallurgy scholarships to fund three Waikato MSc projects"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/ED1408/S00052/metallurgy-scholarships-to-fund-three-waikato-msc-projects.htm
+title: Metallurgy scholarships to fund three Waikato MSc projects
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00052/metallurgy-scholarships-to-fund-three-waikato-msc-projects.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/11/metallurgy-scholarships-to-fund-three-waikato-msc-projects/index.html
+layout: layout.njk
 ---
 Metallurgy scholarships to fund three Waikato MSc projects
 ==========================================================

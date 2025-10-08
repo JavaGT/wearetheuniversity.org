@@ -1,9 +1,12 @@
 ---
 slug: why-choice-in-education-really-is-choice
-title: "Why Choice In Education Really Is Choice"
-date: 2024-06-18
-source-url: https://www.scoop.co.nz/stories/ED2406/S00042/why-choice-in-education-really-is-choice.htm
+title: Why Choice In Education Really Is Choice
+date: 2024-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00042/why-choice-in-education-really-is-choice.htm
 author: maxim-institute
+permalink: /archive/2024/06/18/why-choice-in-education-really-is-choice/index.html
+layout: layout.njk
 ---
 Why Choice In Education Really Is Choice
 ========================================

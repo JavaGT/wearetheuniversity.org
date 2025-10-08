@@ -1,9 +1,13 @@
 ---
 slug: conference-explores-latest-trends-in-nz-immigration
-title: "Conference explores latest trends in NZ immigration"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/PO1802/S00030/conference-explores-latest-trends-in-nz-immigration.htm
+title: Conference explores latest trends in NZ immigration
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00030/conference-explores-latest-trends-in-nz-immigration.htm
 author: massey-university
+permalink: >-
+  /archive/2018/02/02/conference-explores-latest-trends-in-nz-immigration/index.html
+layout: layout.njk
 ---
 Conference explores latest trends in NZ immigration
 ===================================================

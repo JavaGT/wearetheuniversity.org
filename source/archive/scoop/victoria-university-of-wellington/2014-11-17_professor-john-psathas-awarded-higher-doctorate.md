@@ -1,9 +1,12 @@
 ---
 slug: professor-john-psathas-awarded-higher-doctorate
-title: "Professor John Psathas awarded Higher Doctorate"
-date: 2014-11-17
-source-url: https://www.scoop.co.nz/stories/CU1411/S00293/professor-john-psathas-awarded-higher-doctorate.htm
+title: Professor John Psathas awarded Higher Doctorate
+date: 2014-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00293/professor-john-psathas-awarded-higher-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/17/professor-john-psathas-awarded-higher-doctorate/index.html
+layout: layout.njk
 ---
 Professor John Psathas awarded Higher Doctorate
 ===============================================

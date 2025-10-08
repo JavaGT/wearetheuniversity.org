@@ -1,9 +1,13 @@
 ---
 slug: executive-receives-prestigious-university-of-waikato-award
-title: "Executive receives prestigious University of Waikato award"
-date: 2014-09-01
-source-url: https://www.scoop.co.nz/stories/ED1409/S00001/executive-receives-prestigious-university-of-waikato-award.htm
+title: Executive receives prestigious University of Waikato award
+date: 2014-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00001/executive-receives-prestigious-university-of-waikato-award.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/09/01/executive-receives-prestigious-university-of-waikato-award/index.html
+layout: layout.njk
 ---
 Executive receives prestigious University of Waikato award
 ==========================================================

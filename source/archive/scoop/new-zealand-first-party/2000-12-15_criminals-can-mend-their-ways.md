@@ -1,9 +1,12 @@
 ---
 slug: criminals-can-mend-their-ways
-title: "Criminals Can Mend Their Ways"
-date: 2000-12-15
-source-url: https://www.scoop.co.nz/stories/PA0012/S00267/criminals-can-mend-their-ways.htm
+title: Criminals Can Mend Their Ways
+date: 2000-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00267/criminals-can-mend-their-ways.htm
 author: new-zealand-first-party
+permalink: /archive/2000/12/15/criminals-can-mend-their-ways/index.html
+layout: layout.njk
 ---
 Criminals Can Mend Their Ways
 =============================

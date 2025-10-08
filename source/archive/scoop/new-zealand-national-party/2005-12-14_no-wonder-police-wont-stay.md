@@ -1,9 +1,11 @@
 ---
 slug: no-wonder-police-wont-stay
-title: "No wonder police won't stay"
-date: 2005-12-14
+title: No wonder police won't stay
+date: 2005-12-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00202/no-wonder-police-wont-stay.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/14/no-wonder-police-wont-stay/index.html
+layout: layout.njk
 ---
 No wonder police won't stay
 ===========================

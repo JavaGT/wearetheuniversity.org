@@ -1,9 +1,13 @@
 ---
 slug: key-should-be-held-accountable-for-free-political-hit
-title: "Key should be held accountable for free political hit"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/PA1202/S00114/key-should-be-held-accountable-for-free-political-hit.htm
+title: Key should be held accountable for free political hit
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00114/key-should-be-held-accountable-for-free-political-hit.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/02/09/key-should-be-held-accountable-for-free-political-hit/index.html
+layout: layout.njk
 ---
 Key should be held accountable for free political hit
 =====================================================

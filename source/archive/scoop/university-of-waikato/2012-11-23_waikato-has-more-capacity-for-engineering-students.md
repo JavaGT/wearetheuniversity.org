@@ -1,9 +1,13 @@
 ---
 slug: waikato-has-more-capacity-for-engineering-students
-title: "Waikato has more capacity for engineering students"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/ED1211/S00182/waikato-has-more-capacity-for-engineering-students.htm
+title: Waikato has more capacity for engineering students
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00182/waikato-has-more-capacity-for-engineering-students.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/23/waikato-has-more-capacity-for-engineering-students/index.html
+layout: layout.njk
 ---
 Waikato has more capacity for engineering students
 ==================================================

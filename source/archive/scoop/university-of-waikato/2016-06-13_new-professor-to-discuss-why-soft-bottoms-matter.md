@@ -1,9 +1,13 @@
 ---
 slug: new-professor-to-discuss-why-soft-bottoms-matter
-title: "New professor to discuss why soft bottoms matter"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/SC1606/S00020/new-professor-to-discuss-why-soft-bottoms-matter.htm
+title: New professor to discuss why soft bottoms matter
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00020/new-professor-to-discuss-why-soft-bottoms-matter.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/13/new-professor-to-discuss-why-soft-bottoms-matter/index.html
+layout: layout.njk
 ---
 New professor to discuss why soft bottoms matter
 ================================================

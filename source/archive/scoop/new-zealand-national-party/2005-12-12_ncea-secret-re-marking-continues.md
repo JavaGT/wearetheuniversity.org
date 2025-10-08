@@ -1,9 +1,12 @@
 ---
 slug: ncea-secret-re-marking-continues
-title: "NCEA: secret re-marking continues"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00151/ncea-secret-re-marking-continues.htm
+title: 'NCEA: secret re-marking continues'
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00151/ncea-secret-re-marking-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/12/ncea-secret-re-marking-continues/index.html
+layout: layout.njk
 ---
 NCEA: secret re-marking continues
 =================================

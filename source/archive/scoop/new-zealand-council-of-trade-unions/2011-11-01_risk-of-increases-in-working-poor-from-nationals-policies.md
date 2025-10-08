@@ -1,9 +1,13 @@
 ---
 slug: risk-of-increases-in-working-poor-from-nationals-policies
-title: "Risk of increases in ‘working poor’ from National’s policies"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/PO1111/S00025/risk-of-increases-in-working-poor-from-nationals-policies.htm
+title: Risk of increases in ‘working poor’ from National’s policies
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00025/risk-of-increases-in-working-poor-from-nationals-policies.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/11/01/risk-of-increases-in-working-poor-from-nationals-policies/index.html
+layout: layout.njk
 ---
 Risk of increases in ‘working poor’ from National’s policies
 ============================================================

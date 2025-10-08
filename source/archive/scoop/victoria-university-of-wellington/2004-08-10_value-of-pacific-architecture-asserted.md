@@ -1,9 +1,12 @@
 ---
 slug: value-of-pacific-architecture-asserted
-title: "Value of Pacific architecture asserted"
-date: 2004-08-10
-source-url: https://www.scoop.co.nz/stories/ED0408/S00032/value-of-pacific-architecture-asserted.htm
+title: Value of Pacific architecture asserted
+date: 2004-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00032/value-of-pacific-architecture-asserted.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/10/value-of-pacific-architecture-asserted/index.html
+layout: layout.njk
 ---
 Value of Pacific architecture asserted
 ======================================

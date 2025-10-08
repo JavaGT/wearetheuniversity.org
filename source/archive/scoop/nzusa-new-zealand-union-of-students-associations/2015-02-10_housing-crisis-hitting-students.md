@@ -1,9 +1,12 @@
 ---
 slug: housing-crisis-hitting-students
-title: "\"Housing crisis hitting students\""
-date: 2015-02-10
-source-url: https://www.scoop.co.nz/stories/PO1502/S00108/housing-crisis-hitting-students.htm
+title: '"Housing crisis hitting students"'
+date: 2015-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00108/housing-crisis-hitting-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/02/10/housing-crisis-hitting-students/index.html
+layout: layout.njk
 ---
 “Housing crisis hitting students”
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: 30-year-plan-to-build-new-schools-and-classrooms
-title: "30-year Plan To Build New Schools And Classrooms"
-date: 2020-08-31
-source-url: https://www.scoop.co.nz/stories/PA2008/S00242/30-year-plan-to-build-new-schools-and-classrooms.htm
+title: 30-year Plan To Build New Schools And Classrooms
+date: 2020-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00242/30-year-plan-to-build-new-schools-and-classrooms.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/31/30-year-plan-to-build-new-schools-and-classrooms/index.html
+layout: layout.njk
 ---
 30-year Plan To Build New Schools And Classrooms
 ================================================

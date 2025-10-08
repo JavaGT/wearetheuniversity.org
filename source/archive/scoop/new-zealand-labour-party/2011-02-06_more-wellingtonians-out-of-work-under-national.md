@@ -1,9 +1,12 @@
 ---
 slug: more-wellingtonians-out-of-work-under-national
-title: "More Wellingtonians out of work under National"
-date: 2011-02-06
-source-url: https://www.scoop.co.nz/stories/PA1102/S00073/more-wellingtonians-out-of-work-under-national.htm
+title: More Wellingtonians out of work under National
+date: 2011-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00073/more-wellingtonians-out-of-work-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/02/06/more-wellingtonians-out-of-work-under-national/index.html
+layout: layout.njk
 ---
 More Wellingtonians out of work under National
 ==============================================

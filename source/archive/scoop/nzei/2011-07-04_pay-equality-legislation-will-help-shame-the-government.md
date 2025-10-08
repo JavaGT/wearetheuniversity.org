@@ -1,9 +1,13 @@
 ---
 slug: pay-equality-legislation-will-help-shame-the-government
-title: "Pay equality legislation will help shame the government"
-date: 2011-07-04
-source-url: https://www.scoop.co.nz/stories/PO1107/S00038/pay-equality-legislation-will-help-shame-the-government.htm
+title: Pay equality legislation will help shame the government
+date: 2011-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00038/pay-equality-legislation-will-help-shame-the-government.htm
 author: nzei
+permalink: >-
+  /archive/2011/07/04/pay-equality-legislation-will-help-shame-the-government/index.html
+layout: layout.njk
 ---
 Pay equality legislation will help shame the government
 =======================================================

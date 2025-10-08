@@ -1,9 +1,12 @@
 ---
 slug: school-of-māori-and-pacific-development-celebrates-five-phds
-title: "School of Māori and Pacific Development celebrates five PhDs"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/ED1410/S00171/school-of-maori-and-pacific-development-celebrates-five-phds.htm
+title: School of Māori and Pacific Development celebrates five PhDs
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00171/school-of-maori-and-pacific-development-celebrates-five-phds.htm
 author: university-of-waikato
+permalink: /archive/2014/10/31/school-of-m/index.html
+layout: layout.njk
 ---
 School of Māori and Pacific Development celebrates five PhDs
 ============================================================

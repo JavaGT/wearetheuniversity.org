@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-proud-to-be-new-zealand-schools-debating-council-2024-named-sponsor
-title: "Free Speech Union Proud To Be New Zealand Schools’ Debating Council 2024 Named-sponsor"
-date: 2024-05-02
-source-url: https://www.scoop.co.nz/stories/AK2405/S00074/free-speech-union-proud-to-be-new-zealand-schools-debating-council-2024-named-sponsor.htm
+slug: >-
+  free-speech-union-proud-to-be-new-zealand-schools-debating-council-2024-named-sponsor
+title: >-
+  Free Speech Union Proud To Be New Zealand Schools’ Debating Council 2024
+  Named-sponsor
+date: 2024-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00074/free-speech-union-proud-to-be-new-zealand-schools-debating-council-2024-named-sponsor.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/02/free-speech-union-proud-to-be-new-zealand-schools-debating-council-2024-named-sponsor/index.html
+layout: layout.njk
 ---
 Free Speech Union Proud To Be New Zealand Schools’ Debating Council 2024 Named-sponsor
 ======================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: young-nationals-support-change-to-anti-nuke-laws
-title: "Young Nationals support change to anti-nuke laws"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PO0310/S00063/young-nationals-support-change-to-anti-nuke-laws.htm
+title: Young Nationals support change to anti-nuke laws
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0310/S00063/young-nationals-support-change-to-anti-nuke-laws.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2003/10/09/young-nationals-support-change-to-anti-nuke-laws/index.html
+layout: layout.njk
 ---
 Young Nationals support change to anti-nuke laws
 ================================================

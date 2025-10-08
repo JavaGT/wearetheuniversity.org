@@ -1,9 +1,12 @@
 ---
 slug: 15%-of-students-in-financial-distress
-title: "15% Of Students In Financial Distress"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/AK1204/S00527/15-of-students-in-financial-distress.htm
+title: 15% Of Students In Financial Distress
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1204/S00527/15-of-students-in-financial-distress.htm
 author: auckland-university-students-association
+permalink: /archive/2012/04/23/15/index.html
+layout: layout.njk
 ---
 15% Of Students In Financial Distress
 =====================================

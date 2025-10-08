@@ -1,9 +1,12 @@
 ---
 slug: shovel-ready-buries-opportunities-for-women
-title: "‘Shovel-ready’ Buries Opportunities For Women"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/PA2008/S00065/shovel-ready-buries-opportunities-for-women.htm
+title: ‘Shovel-ready’ Buries Opportunities For Women
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00065/shovel-ready-buries-opportunities-for-women.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/06/shovel-ready-buries-opportunities-for-women/index.html
+layout: layout.njk
 ---
 ‘Shovel-ready’ Buries Opportunities For Women
 =============================================

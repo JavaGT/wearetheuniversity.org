@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-maori-fisheries-conference
-title: "Speech: Sharples - Maori Fisheries Conference"
-date: 2009-04-06
-source-url: https://www.scoop.co.nz/stories/PA0904/S00080/speech-sharples-maori-fisheries-conference.htm
+title: 'Speech: Sharples - Maori Fisheries Conference'
+date: 2009-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00080/speech-sharples-maori-fisheries-conference.htm
 author: te-pati-maori
+permalink: /archive/2009/04/06/speech-sharples-maori-fisheries-conference/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Maori Fisheries Conference
 =============================================

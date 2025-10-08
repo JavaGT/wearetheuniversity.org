@@ -1,9 +1,13 @@
 ---
 slug: aut-moves-up-another-50-places-in-world-rankings
-title: "AUT moves up another 50 places in world rankings"
-date: 2019-09-12
-source-url: https://www.scoop.co.nz/stories/ED1909/S00035/aut-moves-up-another-50-places-in-world-rankings.htm
+title: AUT moves up another 50 places in world rankings
+date: 2019-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00035/aut-moves-up-another-50-places-in-world-rankings.htm
 author: aut-university
+permalink: >-
+  /archive/2019/09/12/aut-moves-up-another-50-places-in-world-rankings/index.html
+layout: layout.njk
 ---
 AUT moves up another 50 places in world rankings
 ================================================

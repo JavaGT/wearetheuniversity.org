@@ -1,9 +1,13 @@
 ---
 slug: massey-proposals-will-erode-the-quality-of-teacher-training
-title: "Massey proposals will erode the quality of teacher training"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00141/massey-proposals-will-erode-the-quality-of-teacher-training.htm
+title: Massey proposals will erode the quality of teacher training
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00141/massey-proposals-will-erode-the-quality-of-teacher-training.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/30/massey-proposals-will-erode-the-quality-of-teacher-training/index.html
+layout: layout.njk
 ---
 Massey proposals will erode the quality of teacher training
 ===========================================================

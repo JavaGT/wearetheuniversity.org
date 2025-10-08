@@ -1,9 +1,13 @@
 ---
 slug: united-stand-needed-against-national-attacks-on-universities
-title: "United stand needed against National attacks on universities"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/PA1310/S00328/united-stand-needed-against-national-attacks-on-universities.htm
+title: United stand needed against National attacks on universities
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00328/united-stand-needed-against-national-attacks-on-universities.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/21/united-stand-needed-against-national-attacks-on-universities/index.html
+layout: layout.njk
 ---
 United stand needed against National attacks on universities
 ============================================================

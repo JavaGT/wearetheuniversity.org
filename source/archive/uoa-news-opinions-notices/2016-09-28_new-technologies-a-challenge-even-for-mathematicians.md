@@ -1,8 +1,12 @@
 ---
 slug: new-technologies-a-challenge-even-for-mathematicians
-title: "New technologies a challenge even for mathematicians"
-date: 2016-09-28
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/new-technologies-a-challenge-even-for-mathematicians.html
+title: New technologies a challenge even for mathematicians
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/new-technologies-a-challenge-even-for-mathematicians.html
+permalink: >-
+  /archive/2016/09/28/new-technologies-a-challenge-even-for-mathematicians/index.html
+layout: layout.njk
 ---
 New technologies a challenge even for mathematicians
 ====================================================

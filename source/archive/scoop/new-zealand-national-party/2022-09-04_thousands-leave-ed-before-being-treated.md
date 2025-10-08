@@ -1,9 +1,12 @@
 ---
 slug: thousands-leave-ed-before-being-treated
-title: "Thousands Leave ED Before Being Treated"
-date: 2022-09-04
-source-url: https://www.scoop.co.nz/stories/PA2209/S00014/thousands-leave-ed-before-being-treated.htm
+title: Thousands Leave ED Before Being Treated
+date: 2022-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00014/thousands-leave-ed-before-being-treated.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/04/thousands-leave-ed-before-being-treated/index.html
+layout: layout.njk
 ---
 Thousands Leave ED Before Being Treated
 =======================================

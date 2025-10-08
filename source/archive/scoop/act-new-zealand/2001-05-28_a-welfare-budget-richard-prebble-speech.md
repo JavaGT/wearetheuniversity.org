@@ -1,9 +1,12 @@
 ---
 slug: a-welfare-budget-richard-prebble-speech
-title: "A Welfare Budget - Richard Prebble Speech"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/PA0105/S00588/a-welfare-budget-richard-prebble-speech.htm
+title: A Welfare Budget - Richard Prebble Speech
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00588/a-welfare-budget-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2001/05/28/a-welfare-budget-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 A Welfare Budget - Richard Prebble Speech
 =========================================

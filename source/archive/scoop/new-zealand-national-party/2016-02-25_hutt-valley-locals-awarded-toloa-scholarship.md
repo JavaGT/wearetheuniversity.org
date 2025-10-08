@@ -1,9 +1,12 @@
 ---
 slug: hutt-valley-locals-awarded-toloa-scholarship
-title: "Hutt Valley locals awarded Toloa Scholarship"
-date: 2016-02-25
-source-url: https://www.scoop.co.nz/stories/PA1602/S00387/hutt-valley-locals-awarded-toloa-scholarship.htm
+title: Hutt Valley locals awarded Toloa Scholarship
+date: 2016-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00387/hutt-valley-locals-awarded-toloa-scholarship.htm
 author: new-zealand-national-party
+permalink: /archive/2016/02/25/hutt-valley-locals-awarded-toloa-scholarship/index.html
+layout: layout.njk
 ---
 Hutt Valley locals awarded Toloa Scholarship
 ============================================

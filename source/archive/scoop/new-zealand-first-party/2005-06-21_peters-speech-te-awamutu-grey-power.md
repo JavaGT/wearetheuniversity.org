@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-te-awamutu-grey-power
-title: "Peters Speech: Te Awamutu Grey Power"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/PA0506/S00471/peters-speech-te-awamutu-grey-power.htm
+title: 'Peters Speech: Te Awamutu Grey Power'
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00471/peters-speech-te-awamutu-grey-power.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/21/peters-speech-te-awamutu-grey-power/index.html
+layout: layout.njk
 ---
 Peters Speech: Te Awamutu Grey Power
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: rachel-boyack-labours-2020-candidate-for-nelson
-title: "Rachel Boyack Labour’s 2020 candidate for Nelson"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/PO1911/S00139/rachel-boyack-labours-2020-candidate-for-nelson.htm
+title: Rachel Boyack Labour’s 2020 candidate for Nelson
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00139/rachel-boyack-labours-2020-candidate-for-nelson.htm
 author: new-zealand-labour-party
+permalink: /archive/2019/11/12/rachel-boyack-labours-2020-candidate-for-nelson/index.html
+layout: layout.njk
 ---
 Rachel Boyack Labour’s 2020 candidate for Nelson
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-report-highlights-university-underfunding
-title: "NZVCC Report Highlights University Underfunding"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/ED0611/S00028/nzvcc-report-highlights-university-underfunding.htm
+title: NZVCC Report Highlights University Underfunding
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00028/nzvcc-report-highlights-university-underfunding.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/11/07/nzvcc-report-highlights-university-underfunding/index.html
+layout: layout.njk
 ---
 NZVCC Report Highlights University Underfunding
 ===============================================

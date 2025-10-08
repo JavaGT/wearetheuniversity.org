@@ -1,9 +1,13 @@
 ---
 slug: uc-names-college-of-engineering-building-after-john-britten
-title: "UC names College of Engineering building after John Britten"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/ED1509/S00063/uc-names-college-of-engineering-building-after-john-britten.htm
+title: UC names College of Engineering building after John Britten
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00063/uc-names-college-of-engineering-building-after-john-britten.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/10/uc-names-college-of-engineering-building-after-john-britten/index.html
+layout: layout.njk
 ---
 UC names College of Engineering building after John Britten
 ===========================================================

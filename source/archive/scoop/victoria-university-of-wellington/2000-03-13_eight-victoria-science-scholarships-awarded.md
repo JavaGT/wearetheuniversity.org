@@ -1,9 +1,12 @@
 ---
 slug: eight-victoria-science-scholarships-awarded
-title: "Eight Victoria Science Scholarships Awarded"
-date: 2000-03-13
-source-url: https://www.scoop.co.nz/stories/SC0003/S00011/eight-victoria-science-scholarships-awarded.htm
+title: Eight Victoria Science Scholarships Awarded
+date: 2000-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0003/S00011/eight-victoria-science-scholarships-awarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/13/eight-victoria-science-scholarships-awarded/index.html
+layout: layout.njk
 ---
 Eight Victoria Science Scholarships Awarded
 ===========================================

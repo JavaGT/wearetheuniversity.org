@@ -1,9 +1,13 @@
 ---
 slug: strong-culture-of-volunteering-helps-students-succeed
-title: "Strong culture of volunteering helps students succeed"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/ED1406/S00111/strong-culture-of-volunteering-helps-students-succeed.htm
+title: Strong culture of volunteering helps students succeed
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00111/strong-culture-of-volunteering-helps-students-succeed.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/06/20/strong-culture-of-volunteering-helps-students-succeed/index.html
+layout: layout.njk
 ---
 Strong culture of volunteering helps students succeed
 =====================================================

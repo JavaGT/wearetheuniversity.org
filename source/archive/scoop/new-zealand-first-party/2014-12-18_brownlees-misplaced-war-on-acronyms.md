@@ -1,9 +1,12 @@
 ---
 slug: brownlees-misplaced-war-on-acronyms
-title: "Brownlee’s Misplaced War on Acronyms"
-date: 2014-12-18
-source-url: https://www.scoop.co.nz/stories/PO1412/S00244/brownlees-misplaced-war-on-acronyms.htm
+title: Brownlee’s Misplaced War on Acronyms
+date: 2014-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00244/brownlees-misplaced-war-on-acronyms.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/18/brownlees-misplaced-war-on-acronyms/index.html
+layout: layout.njk
 ---
 Brownlee’s Misplaced War on Acronyms
 ====================================

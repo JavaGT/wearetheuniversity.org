@@ -1,9 +1,12 @@
 ---
 slug: questions-in-wake-of-henderson-killing
-title: "Questions in wake of Henderson killing"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PA1406/S00135/questions-in-wake-of-henderson-killing.htm
+title: Questions in wake of Henderson killing
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00135/questions-in-wake-of-henderson-killing.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/11/questions-in-wake-of-henderson-killing/index.html
+layout: layout.njk
 ---
 Questions in wake of Henderson killing
 ======================================

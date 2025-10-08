@@ -1,9 +1,13 @@
 ---
 slug: key-should-explain-cosy-creech-carter-relationship
-title: "Key should explain cosy Creech-Carter relationship"
-date: 2010-06-15
-source-url: https://www.scoop.co.nz/stories/PA1006/S00232/key-should-explain-cosy-creech-carter-relationship.htm
+title: Key should explain cosy Creech-Carter relationship
+date: 2010-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00232/key-should-explain-cosy-creech-carter-relationship.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/15/key-should-explain-cosy-creech-carter-relationship/index.html
+layout: layout.njk
 ---
 Key should explain cosy Creech-Carter relationship
 ==================================================

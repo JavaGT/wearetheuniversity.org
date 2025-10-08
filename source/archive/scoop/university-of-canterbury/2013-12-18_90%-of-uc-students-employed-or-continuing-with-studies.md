@@ -1,9 +1,12 @@
 ---
 slug: 90%-of-uc-students-employed-or-continuing-with-studies
-title: "90% of UC students employed or continuing with studies"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/ED1312/S00115/90-of-uc-students-employed-or-continuing-with-studies.htm
+title: 90% of UC students employed or continuing with studies
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00115/90-of-uc-students-employed-or-continuing-with-studies.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/18/90/index.html
+layout: layout.njk
 ---
 90% of UC students employed or continuing with studies
 ======================================================

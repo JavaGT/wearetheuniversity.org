@@ -1,9 +1,13 @@
 ---
 slug: beware-of-political-correctness-in-sex-education
-title: "Beware of political correctness in sex education"
-date: 2000-12-04
-source-url: https://www.scoop.co.nz/stories/PA0012/S00036/beware-of-political-correctness-in-sex-education.htm
+title: Beware of political correctness in sex education
+date: 2000-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00036/beware-of-political-correctness-in-sex-education.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/12/04/beware-of-political-correctness-in-sex-education/index.html
+layout: layout.njk
 ---
 Beware of political correctness in sex education
 ================================================

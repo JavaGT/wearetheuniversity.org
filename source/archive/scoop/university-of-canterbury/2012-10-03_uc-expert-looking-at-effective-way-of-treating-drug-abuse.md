@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-looking-at-effective-way-of-treating-drug-abuse
-title: "UC expert looking at effective way of treating drug abuse"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/GE1210/S00019/uc-expert-looking-at-effective-way-of-treating-drug-abuse.htm
+title: UC expert looking at effective way of treating drug abuse
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00019/uc-expert-looking-at-effective-way-of-treating-drug-abuse.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/03/uc-expert-looking-at-effective-way-of-treating-drug-abuse/index.html
+layout: layout.njk
 ---
 UC expert looking at effective way of treating drug abuse
 =========================================================

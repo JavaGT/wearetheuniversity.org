@@ -1,9 +1,13 @@
 ---
 slug: samuel-marsden-school-project-turns-into-election-event
-title: "Samuel Marsden School Project Turns into Election Event"
-date: 2017-08-23
-source-url: https://www.scoop.co.nz/stories/PO1708/S00468/samuel-marsden-school-project-turns-into-election-event.htm
+title: Samuel Marsden School Project Turns into Election Event
+date: 2017-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00468/samuel-marsden-school-project-turns-into-election-event.htm
 author: nzei
+permalink: >-
+  /archive/2017/08/23/samuel-marsden-school-project-turns-into-election-event/index.html
+layout: layout.njk
 ---
 Samuel Marsden School Project Turns into Election Event
 =======================================================

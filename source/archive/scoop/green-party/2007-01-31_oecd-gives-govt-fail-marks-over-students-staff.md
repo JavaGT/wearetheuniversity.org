@@ -1,9 +1,12 @@
 ---
 slug: oecd-gives-govt-fail-marks-over-students-staff
-title: "OECD gives Govt fail marks over students, staff"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/PA0701/S00220/oecd-gives-govt-fail-marks-over-students-staff.htm
+title: OECD gives Govt fail marks over students, staff
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00220/oecd-gives-govt-fail-marks-over-students-staff.htm
 author: green-party
+permalink: /archive/2007/01/31/oecd-gives-govt-fail-marks-over-students-staff/index.html
+layout: layout.njk
 ---
 OECD gives Govt fail marks over students, staff
 ===============================================

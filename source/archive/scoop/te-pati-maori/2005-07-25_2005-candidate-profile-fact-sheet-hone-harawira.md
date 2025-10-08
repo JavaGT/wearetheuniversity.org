@@ -1,9 +1,12 @@
 ---
 slug: 2005-candidate-profile-fact-sheet-hone-harawira
-title: "2005 Candidate Profile Fact Sheet - Hone Harawira"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00505/2005-candidate-profile-fact-sheet-hone-harawira.htm
+title: 2005 Candidate Profile Fact Sheet - Hone Harawira
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00505/2005-candidate-profile-fact-sheet-hone-harawira.htm
 author: te-pati-maori
+permalink: /archive/2005/07/25/2005-candidate-profile-fact-sheet-hone-harawira/index.html
+layout: layout.njk
 ---
 2005 Candidate Profile Fact Sheet - Hone Harawira
 =================================================

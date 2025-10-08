@@ -1,9 +1,12 @@
 ---
 slug: two-years-to-go-down-the-road!
-title: "Two years to go down the road!"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/PA0110/S00410/two-years-to-go-down-the-road.htm
+title: Two years to go down the road!
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00410/two-years-to-go-down-the-road.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/23/two-years-to-go-down-the-road/index.html
+layout: layout.njk
 ---
 Two years to go down the road!
 ==============================

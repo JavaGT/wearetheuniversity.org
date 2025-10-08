@@ -1,9 +1,12 @@
 ---
 slug: raising-insulation-standards-long-overdue
-title: "Raising insulation standards long overdue"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/ED0710/S00094/raising-insulation-standards-long-overdue.htm
+title: Raising insulation standards long overdue
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00094/raising-insulation-standards-long-overdue.htm
 author: university-of-otago
+permalink: /archive/2007/10/30/raising-insulation-standards-long-overdue/index.html
+layout: layout.njk
 ---
 Raising insulation standards long overdue
 =========================================

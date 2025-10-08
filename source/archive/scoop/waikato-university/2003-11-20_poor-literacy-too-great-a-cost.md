@@ -1,9 +1,12 @@
 ---
 slug: poor-literacy-too-great-a-cost
-title: "Poor Literacy Too Great a Cost"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/ED0311/S00068/poor-literacy-too-great-a-cost.htm
+title: Poor Literacy Too Great a Cost
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00068/poor-literacy-too-great-a-cost.htm
 author: waikato-university
+permalink: /archive/2003/11/20/poor-literacy-too-great-a-cost/index.html
+layout: layout.njk
 ---
 Poor Literacy Too Great a Cost
 ==============================

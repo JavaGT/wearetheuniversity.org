@@ -1,9 +1,12 @@
 ---
 slug: loss-of-funding-affects-research-world-leader
-title: "Loss of Funding Affects Research World Leader"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/ED0405/S00043/loss-of-funding-affects-research-world-leader.htm
+title: Loss of Funding Affects Research World Leader
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00043/loss-of-funding-affects-research-world-leader.htm
 author: auckland-university
+permalink: /archive/2004/05/12/loss-of-funding-affects-research-world-leader/index.html
+layout: layout.njk
 ---
 Loss of Funding Affects Research World Leader
 =============================================

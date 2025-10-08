@@ -1,9 +1,12 @@
 ---
 slug: youth-guarantee-no-guarantee-of-success
-title: "Youth guarantee no guarantee of success"
-date: 2012-08-19
-source-url: https://www.scoop.co.nz/stories/PA1208/S00266/youth-guarantee-no-guarantee-of-success.htm
+title: Youth guarantee no guarantee of success
+date: 2012-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00266/youth-guarantee-no-guarantee-of-success.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/19/youth-guarantee-no-guarantee-of-success/index.html
+layout: layout.njk
 ---
 Youth guarantee no guarantee of success
 =======================================

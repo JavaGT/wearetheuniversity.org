@@ -1,9 +1,13 @@
 ---
 slug: link-between-obesity-and-high-birth-weights-questioned
-title: "Link between obesity and high birth weights questioned"
-date: 2013-07-13
-source-url: https://www.scoop.co.nz/stories/GE1307/S00069/link-between-obesity-and-high-birth-weights-questioned.htm
+title: Link between obesity and high birth weights questioned
+date: 2013-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00069/link-between-obesity-and-high-birth-weights-questioned.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/13/link-between-obesity-and-high-birth-weights-questioned/index.html
+layout: layout.njk
 ---
 Link between obesity and high birth weights questioned
 ======================================================

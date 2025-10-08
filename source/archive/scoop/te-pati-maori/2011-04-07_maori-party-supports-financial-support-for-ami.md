@@ -1,9 +1,12 @@
 ---
 slug: maori-party-supports-financial-support-for-ami
-title: "Maori Party Supports Financial Support for AMI"
-date: 2011-04-07
-source-url: https://www.scoop.co.nz/stories/PA1104/S00160/maori-party-supports-financial-support-for-ami.htm
+title: Maori Party Supports Financial Support for AMI
+date: 2011-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00160/maori-party-supports-financial-support-for-ami.htm
 author: te-pati-maori
+permalink: /archive/2011/04/07/maori-party-supports-financial-support-for-ami/index.html
+layout: layout.njk
 ---
 Maori Party Supports Financial Support for AMI
 ==============================================

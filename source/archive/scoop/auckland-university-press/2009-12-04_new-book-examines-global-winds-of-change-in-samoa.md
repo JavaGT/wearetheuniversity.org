@@ -1,9 +1,13 @@
 ---
 slug: new-book-examines-global-winds-of-change-in-samoa
-title: "New book examines global winds of change in Samoa"
-date: 2009-12-04
-source-url: https://www.scoop.co.nz/stories/CU0912/S00059/new-book-examines-global-winds-of-change-in-samoa.htm
+title: New book examines global winds of change in Samoa
+date: 2009-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0912/S00059/new-book-examines-global-winds-of-change-in-samoa.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2009/12/04/new-book-examines-global-winds-of-change-in-samoa/index.html
+layout: layout.njk
 ---
 New book examines global winds of change in Samoa
 =================================================

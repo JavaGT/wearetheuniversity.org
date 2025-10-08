@@ -1,9 +1,13 @@
 ---
 slug: prescription-co-payments-linked-to-more-hospital-admissions-study-finds
-title: "Prescription Co-payments Linked To More Hospital Admissions, Study Finds"
-date: 2024-05-17
-source-url: https://www.scoop.co.nz/stories/GE2405/S00073/prescription-co-payments-linked-to-more-hospital-admissions-study-finds.htm
+title: Prescription Co-payments Linked To More Hospital Admissions, Study Finds
+date: 2024-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2405/S00073/prescription-co-payments-linked-to-more-hospital-admissions-study-finds.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/05/17/prescription-co-payments-linked-to-more-hospital-admissions-study-finds/index.html
+layout: layout.njk
 ---
 Prescription Co-payments Linked To More Hospital Admissions, Study Finds
 ========================================================================

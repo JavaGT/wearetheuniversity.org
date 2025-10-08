@@ -1,9 +1,12 @@
 ---
 slug: māori-party-disappointed-kelvin-davis-demoted
-title: "Māori Party Disappointed Kelvin Davis Demoted"
-date: 2020-11-02
-source-url: https://www.scoop.co.nz/stories/PO2011/S00006/maori-party-disappointed-kelvin-davis-demoted.htm
+title: Māori Party Disappointed Kelvin Davis Demoted
+date: 2020-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2011/S00006/maori-party-disappointed-kelvin-davis-demoted.htm
 author: te-pati-maori
+permalink: /archive/2020/11/02/m/index.html
+layout: layout.njk
 ---
 Māori Party Disappointed Kelvin Davis Demoted
 =============================================

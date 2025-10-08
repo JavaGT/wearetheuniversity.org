@@ -1,9 +1,13 @@
 ---
 slug: celebrating-university-of-aucklands-125th-jubilee
-title: "Celebrating University of Auckland’s 125th Jubilee"
-date: 2008-05-02
-source-url: https://www.scoop.co.nz/stories/BU0805/S00039/celebrating-university-of-aucklands-125th-jubilee.htm
+title: Celebrating University of Auckland’s 125th Jubilee
+date: 2008-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00039/celebrating-university-of-aucklands-125th-jubilee.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2008/05/02/celebrating-university-of-aucklands-125th-jubilee/index.html
+layout: layout.njk
 ---
 Celebrating University of Auckland’s 125th Jubilee
 ==================================================

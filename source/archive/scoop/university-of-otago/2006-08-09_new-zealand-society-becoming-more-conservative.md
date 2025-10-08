@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-society-becoming-more-conservative
-title: "New Zealand Society Becoming More Conservative"
-date: 2006-08-09
-source-url: https://www.scoop.co.nz/stories/ED0608/S00029/new-zealand-society-becoming-more-conservative.htm
+title: New Zealand Society Becoming More Conservative
+date: 2006-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00029/new-zealand-society-becoming-more-conservative.htm
 author: university-of-otago
+permalink: /archive/2006/08/09/new-zealand-society-becoming-more-conservative/index.html
+layout: layout.njk
 ---
 New Zealand Society Becoming More Conservative
 ==============================================

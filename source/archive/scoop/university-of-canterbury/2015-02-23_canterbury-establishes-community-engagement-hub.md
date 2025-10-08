@@ -1,9 +1,12 @@
 ---
 slug: canterbury-establishes-community-engagement-hub
-title: "Canterbury establishes Community Engagement Hub"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/AK1502/S00527/canterbury-establishes-community-engagement-hub.htm
+title: Canterbury establishes Community Engagement Hub
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00527/canterbury-establishes-community-engagement-hub.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/23/canterbury-establishes-community-engagement-hub/index.html
+layout: layout.njk
 ---
 Canterbury establishes Community Engagement Hub
 ===============================================

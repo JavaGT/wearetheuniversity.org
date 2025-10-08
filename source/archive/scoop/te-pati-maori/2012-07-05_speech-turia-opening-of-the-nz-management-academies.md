@@ -1,9 +1,13 @@
 ---
 slug: speech-turia-opening-of-the-nz-management-academies
-title: "Speech: Turia - Opening of the NZ Management Academies"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00058/speech-turia-opening-of-the-nz-management-academies.htm
+title: 'Speech: Turia - Opening of the NZ Management Academies'
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00058/speech-turia-opening-of-the-nz-management-academies.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/07/05/speech-turia-opening-of-the-nz-management-academies/index.html
+layout: layout.njk
 ---
 Speech: Turia - Opening of the NZ Management Academies
 ======================================================

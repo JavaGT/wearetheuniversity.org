@@ -1,9 +1,13 @@
 ---
 slug: paula-bennett-hoodwinking-kiwis-on-benefit-numbers
-title: "Paula Bennett hoodwinking Kiwis on benefit numbers"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00170/paula-bennett-hoodwinking-kiwis-on-benefit-numbers.htm
+title: Paula Bennett hoodwinking Kiwis on benefit numbers
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00170/paula-bennett-hoodwinking-kiwis-on-benefit-numbers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/09/paula-bennett-hoodwinking-kiwis-on-benefit-numbers/index.html
+layout: layout.njk
 ---
 Paula Bennett hoodwinking Kiwis on benefit numbers
 ==================================================

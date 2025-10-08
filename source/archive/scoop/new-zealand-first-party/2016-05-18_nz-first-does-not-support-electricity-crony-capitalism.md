@@ -1,9 +1,13 @@
 ---
 slug: nz-first-does-not-support-electricity-crony-capitalism
-title: "NZ First Does Not Support Electricity ‘Crony Capitalism’"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/PA1605/S00342/nz-first-does-not-support-electricity-crony-capitalism.htm
+title: NZ First Does Not Support Electricity ‘Crony Capitalism’
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00342/nz-first-does-not-support-electricity-crony-capitalism.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/18/nz-first-does-not-support-electricity-crony-capitalism/index.html
+layout: layout.njk
 ---
 NZ First Does Not Support Electricity ‘Crony Capitalism’
 ========================================================

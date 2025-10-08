@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-update-1-march-2011
-title: "Student Volunteer Army - Update 1 March  2011"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/AK1103/S00070/student-volunteer-army-update-1-march-2011.htm
+title: Student Volunteer Army - Update 1 March  2011
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00070/student-volunteer-army-update-1-march-2011.htm
 author: student-volunteer-army
+permalink: /archive/2011/03/01/student-volunteer-army-update-1-march-2011/index.html
+layout: layout.njk
 ---
 Student Volunteer Army - Update 1 March 2011
 ============================================

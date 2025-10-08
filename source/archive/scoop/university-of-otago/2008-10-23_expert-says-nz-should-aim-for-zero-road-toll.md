@@ -1,9 +1,12 @@
 ---
 slug: expert-says-nz-should-aim-for-zero-road-toll
-title: "Expert says NZ should aim for zero road toll"
-date: 2008-10-23
-source-url: https://www.scoop.co.nz/stories/ED0810/S00098/expert-says-nz-should-aim-for-zero-road-toll.htm
+title: Expert says NZ should aim for zero road toll
+date: 2008-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00098/expert-says-nz-should-aim-for-zero-road-toll.htm
 author: university-of-otago
+permalink: /archive/2008/10/23/expert-says-nz-should-aim-for-zero-road-toll/index.html
+layout: layout.njk
 ---
 Expert says NZ should aim for zero road toll
 ============================================

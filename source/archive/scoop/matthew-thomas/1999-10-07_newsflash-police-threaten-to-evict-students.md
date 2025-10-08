@@ -1,9 +1,12 @@
 ---
 slug: newsflash-police-threaten-to-evict-students
-title: "NEWSFLASH: Police threaten to evict students"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/HL9910/S00027/newsflash-police-threaten-to-evict-students.htm
+title: 'NEWSFLASH: Police threaten to evict students'
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL9910/S00027/newsflash-police-threaten-to-evict-students.htm
 author: matthew-thomas
+permalink: /archive/1999/10/07/newsflash-police-threaten-to-evict-students/index.html
+layout: layout.njk
 ---
 NEWSFLASH: Police threaten to evict students
 ============================================

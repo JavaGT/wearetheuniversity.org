@@ -1,9 +1,12 @@
 ---
 slug: communicating-through-the-catwalk
-title: "Communicating Through the Catwalk"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/CU1708/S00375/communicating-through-the-catwalk.htm
+title: Communicating Through the Catwalk
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1708/S00375/communicating-through-the-catwalk.htm
 author: massey-university
+permalink: /archive/2017/08/24/communicating-through-the-catwalk/index.html
+layout: layout.njk
 ---
 Communicating Through the Catwalk
 =================================

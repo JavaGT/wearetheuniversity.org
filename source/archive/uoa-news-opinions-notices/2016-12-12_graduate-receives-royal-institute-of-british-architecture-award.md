@@ -1,8 +1,12 @@
 ---
 slug: graduate-receives-royal-institute-of-british-architecture-award
-title: "Graduate receives Royal Institute of British Architecture award"
-date: 2016-12-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/graduate-receives-royal-institute-of-british-architecture-award-.html
+title: Graduate receives Royal Institute of British Architecture award
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/graduate-receives-royal-institute-of-british-architecture-award-.html
+permalink: >-
+  /archive/2016/12/12/graduate-receives-royal-institute-of-british-architecture-award/index.html
+layout: layout.njk
 ---
 Graduate receives Royal Institute of British Architecture award
 ===============================================================

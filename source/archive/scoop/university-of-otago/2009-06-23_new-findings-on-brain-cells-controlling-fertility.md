@@ -1,9 +1,13 @@
 ---
 slug: new-findings-on-brain-cells-controlling-fertility
-title: "New findings on brain cells controlling fertility"
-date: 2009-06-23
-source-url: https://www.scoop.co.nz/stories/SC0906/S00031/new-findings-on-brain-cells-controlling-fertility.htm
+title: New findings on brain cells controlling fertility
+date: 2009-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00031/new-findings-on-brain-cells-controlling-fertility.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/06/23/new-findings-on-brain-cells-controlling-fertility/index.html
+layout: layout.njk
 ---
 New findings on brain cells controlling fertility
 =================================================

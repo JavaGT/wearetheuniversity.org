@@ -1,9 +1,12 @@
 ---
 slug: government-fails-to-explain-ncea-flip-flop
-title: "Government fails to explain NCEA flip-flop"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/PA0703/S00466/government-fails-to-explain-ncea-flip-flop.htm
+title: Government fails to explain NCEA flip-flop
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00466/government-fails-to-explain-ncea-flip-flop.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/22/government-fails-to-explain-ncea-flip-flop/index.html
+layout: layout.njk
 ---
 Government fails to explain NCEA flip-flop
 ==========================================

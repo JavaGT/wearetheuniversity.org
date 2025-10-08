@@ -1,9 +1,12 @@
 ---
 slug: online-performance-mashes-up-air-guitar
-title: "Online performance mashes up air guitar"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/CU0706/S00310/online-performance-mashes-up-air-guitar.htm
+title: Online performance mashes up air guitar
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0706/S00310/online-performance-mashes-up-air-guitar.htm
 author: massey-university
+permalink: /archive/2007/06/29/online-performance-mashes-up-air-guitar/index.html
+layout: layout.njk
 ---
 Online performance mashes up air guitar
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-misrepresentation-fuelled-support-for-vsm
-title: "NZUSA misrepresentation fuelled support for vsm"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/PO1108/S00101/nzusa-misrepresentation-fuelled-support-for-vsm.htm
+title: NZUSA misrepresentation fuelled support for vsm
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00101/nzusa-misrepresentation-fuelled-support-for-vsm.htm
 author: student-choice
+permalink: /archive/2011/08/08/nzusa-misrepresentation-fuelled-support-for-vsm/index.html
+layout: layout.njk
 ---
 NZUSA misrepresentation fuelled support for vsm
 ===============================================

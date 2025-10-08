@@ -1,8 +1,11 @@
 ---
 slug: dangerous-ideas-in-planning
-title: "Dangerous ideas in planning"
-date: 2016-05-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/dangerous-ideas-in-planning-.html
+title: Dangerous ideas in planning
+date: 2016-05-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/dangerous-ideas-in-planning-.html
+permalink: /archive/2016/05/24/dangerous-ideas-in-planning/index.html
+layout: layout.njk
 ---
 Dangerous ideas in planning
 ===========================

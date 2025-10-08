@@ -1,9 +1,12 @@
 ---
 slug: australian-senator-guest-speaker-at-green-conf
-title: "Australian Senator guest speaker at Green conf."
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/PA0205/S00595/australian-senator-guest-speaker-at-green-conf.htm
+title: Australian Senator guest speaker at Green conf.
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00595/australian-senator-guest-speaker-at-green-conf.htm
 author: green-party
+permalink: /archive/2002/05/24/australian-senator-guest-speaker-at-green-conf/index.html
+layout: layout.njk
 ---
 Australian Senator guest speaker at Green conf.
 ===============================================

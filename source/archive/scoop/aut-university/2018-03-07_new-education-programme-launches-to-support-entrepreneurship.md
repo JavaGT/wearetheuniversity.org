@@ -1,9 +1,13 @@
 ---
 slug: new-education-programme-launches-to-support-entrepreneurship
-title: "New education programme launches to support entrepreneurship"
-date: 2018-03-07
-source-url: https://www.scoop.co.nz/stories/BU1803/S00190/new-education-programme-launches-to-support-entrepreneurship.htm
+title: New education programme launches to support entrepreneurship
+date: 2018-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1803/S00190/new-education-programme-launches-to-support-entrepreneurship.htm
 author: aut-university
+permalink: >-
+  /archive/2018/03/07/new-education-programme-launches-to-support-entrepreneurship/index.html
+layout: layout.njk
 ---
 New education programme launches to support entrepreneurship
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: new-hunter-fellows-announced
-title: "New Hunter Fellows announced"
-date: 2011-11-15
+title: New Hunter Fellows announced
+date: 2011-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1111/S00097/new-hunter-fellows-announced.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/11/15/new-hunter-fellows-announced/index.html
+layout: layout.njk
 ---
 New Hunter Fellows announced
 ============================

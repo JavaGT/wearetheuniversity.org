@@ -1,9 +1,12 @@
 ---
 slug: you-dont-have-to-take-it-any-more
-title: "You Don’t Have to Take It Any More"
-date: 2015-05-01
-source-url: https://www.scoop.co.nz/stories/PA1505/S00012/you-dont-have-to-take-it-any-more.htm
+title: You Don’t Have to Take It Any More
+date: 2015-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00012/you-dont-have-to-take-it-any-more.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/01/you-dont-have-to-take-it-any-more/index.html
+layout: layout.njk
 ---
 You Don’t Have to Take It Any More
 ==================================

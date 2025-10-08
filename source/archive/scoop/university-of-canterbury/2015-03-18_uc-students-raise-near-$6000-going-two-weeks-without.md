@@ -1,9 +1,12 @@
 ---
 slug: uc-students-raise-near-$6000-going-two-weeks-without
-title: "UC students raise near $6000 going Two Weeks Without"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/ED1503/S00074/uc-students-raise-near-6000-going-two-weeks-without.htm
+title: UC students raise near $6000 going Two Weeks Without
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00074/uc-students-raise-near-6000-going-two-weeks-without.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/18/uc-students-raise-near-/index.html
+layout: layout.njk
 ---
 UC students raise near $6000 going Two Weeks Without
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-(new-entrants)-amendment-bill
-title: "Minimum Wage (New Entrants) Amendment Bill"
-date: 2007-09-06
-source-url: https://www.scoop.co.nz/stories/PA0709/S00075/minimum-wage-new-entrants-amendment-bill.htm
+title: Minimum Wage (New Entrants) Amendment Bill
+date: 2007-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00075/minimum-wage-new-entrants-amendment-bill.htm
 author: green-party
+permalink: /archive/2007/09/06/minimum-wage-/index.html
+layout: layout.njk
 ---
 Minimum Wage (New Entrants) Amendment Bill
 ==========================================

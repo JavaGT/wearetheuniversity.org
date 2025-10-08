@@ -1,9 +1,12 @@
 ---
 slug: does-pm-accept-benson-popes-word
-title: "Does PM Accept Benson-Pope's Word?"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00170/does-pm-accept-benson-popes-word.htm
+title: Does PM Accept Benson-Pope's Word?
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00170/does-pm-accept-benson-popes-word.htm
 author: act-new-zealand
+permalink: /archive/2005/12/12/does-pm-accept-benson-popes-word/index.html
+layout: layout.njk
 ---
 Does PM Accept Benson-Pope's Word?
 ==================================

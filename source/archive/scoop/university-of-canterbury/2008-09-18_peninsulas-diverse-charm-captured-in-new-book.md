@@ -1,9 +1,12 @@
 ---
 slug: peninsulas-diverse-charm-captured-in-new-book
-title: "Peninsula’s diverse charm captured in new book"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/CU0809/S00265/peninsulas-diverse-charm-captured-in-new-book.htm
+title: Peninsula’s diverse charm captured in new book
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00265/peninsulas-diverse-charm-captured-in-new-book.htm
 author: university-of-canterbury
+permalink: /archive/2008/09/18/peninsulas-diverse-charm-captured-in-new-book/index.html
+layout: layout.njk
 ---
 Peninsula’s diverse charm captured in new book
 ==============================================

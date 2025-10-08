@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-better-supporting-new-zealand-low-wage-work
-title: "UC research into better supporting New Zealand low-wage work"
-date: 2014-05-20
-source-url: https://www.scoop.co.nz/stories/PO1405/S00326/uc-research-into-better-supporting-new-zealand-low-wage-work.htm
+title: UC research into better supporting New Zealand low-wage work
+date: 2014-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00326/uc-research-into-better-supporting-new-zealand-low-wage-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/20/uc-research-into-better-supporting-new-zealand-low-wage-work/index.html
+layout: layout.njk
 ---
 UC research into better supporting New Zealand low-wage work
 ============================================================

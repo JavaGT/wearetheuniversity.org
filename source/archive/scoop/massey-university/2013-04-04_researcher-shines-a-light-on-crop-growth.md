@@ -1,9 +1,12 @@
 ---
 slug: researcher-shines-a-light-on-crop-growth
-title: "Researcher shines a light on crop growth"
-date: 2013-04-04
-source-url: https://www.scoop.co.nz/stories/SC1304/S00010/researcher-shines-a-light-on-crop-growth.htm
+title: Researcher shines a light on crop growth
+date: 2013-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00010/researcher-shines-a-light-on-crop-growth.htm
 author: massey-university
+permalink: /archive/2013/04/04/researcher-shines-a-light-on-crop-growth/index.html
+layout: layout.njk
 ---
 Researcher shines a light on crop growth
 ========================================

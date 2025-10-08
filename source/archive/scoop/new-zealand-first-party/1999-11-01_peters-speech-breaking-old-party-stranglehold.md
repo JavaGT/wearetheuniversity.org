@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-breaking-old-party-stranglehold
-title: "Peters Speech: Breaking Old Party Stranglehold"
-date: 1999-11-01
-source-url: https://www.scoop.co.nz/stories/PA9911/S00002/peters-speech-breaking-old-party-stranglehold.htm
+title: 'Peters Speech: Breaking Old Party Stranglehold'
+date: 1999-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00002/peters-speech-breaking-old-party-stranglehold.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/01/peters-speech-breaking-old-party-stranglehold/index.html
+layout: layout.njk
 ---
 Peters Speech: Breaking Old Party Stranglehold
 ==============================================

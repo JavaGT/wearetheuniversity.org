@@ -1,9 +1,12 @@
 ---
 slug: us-jazz-legends-come-together-for-nz-gigs
-title: "US jazz legends come together for NZ gigs"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/ED1108/S00089/us-jazz-legends-come-together-for-nz-gigs.htm
+title: US jazz legends come together for NZ gigs
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00089/us-jazz-legends-come-together-for-nz-gigs.htm
 author: massey-university
+permalink: /archive/2011/08/15/us-jazz-legends-come-together-for-nz-gigs/index.html
+layout: layout.njk
 ---
 US jazz legends come together for NZ gigs
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: paying-for-the-price-of-convenience
-title: "Paying for The Price of Convenience"
-date: 2017-06-20
-source-url: https://www.scoop.co.nz/stories/CU1706/S00330/paying-for-the-price-of-convenience.htm
+title: Paying for The Price of Convenience
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00330/paying-for-the-price-of-convenience.htm
 author: auckland-university
+permalink: /archive/2017/06/20/paying-for-the-price-of-convenience/index.html
+layout: layout.njk
 ---
 Paying for The Price of Convenience
 ===================================

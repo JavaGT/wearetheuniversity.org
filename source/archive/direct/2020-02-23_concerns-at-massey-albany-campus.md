@@ -1,11 +1,13 @@
 ---
-title: "NZ Association of Scientists Reacts to Concerns at Massey Albany"
+title: NZ Association of Scientists Reacts to Concerns at Massey Albany
 slug: concerns-at-massey-albany-campus
-date: 2020-02-23
+date: 2020-02-23T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2020/02/23/concerns-at-massey-albany-campus/index.html
+layout: layout.njk
 ---
 
 23-Feb-2020

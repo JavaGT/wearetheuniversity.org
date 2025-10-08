@@ -1,9 +1,13 @@
 ---
 slug: cs4hs-open-to-more-digital-technology-teachers-in-2022
-title: "CS4HS Open To More Digital Technology Teachers In 2022"
-date: 2022-02-04
-source-url: https://www.scoop.co.nz/stories/ED2202/S00008/cs4hs-open-to-more-digital-technology-teachers-in-2022.htm
+title: CS4HS Open To More Digital Technology Teachers In 2022
+date: 2022-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00008/cs4hs-open-to-more-digital-technology-teachers-in-2022.htm
 author: aut-university
+permalink: >-
+  /archive/2022/02/04/cs4hs-open-to-more-digital-technology-teachers-in-2022/index.html
+layout: layout.njk
 ---
 CS4HS Open To More Digital Technology Teachers In 2022
 ======================================================

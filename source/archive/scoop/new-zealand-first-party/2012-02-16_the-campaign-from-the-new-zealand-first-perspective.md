@@ -1,9 +1,13 @@
 ---
 slug: the-campaign-from-the-new-zealand-first-perspective
-title: "The Campaign From The New Zealand First Perspective"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/PA1202/S00193/the-campaign-from-the-new-zealand-first-perspective.htm
+title: The Campaign From The New Zealand First Perspective
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00193/the-campaign-from-the-new-zealand-first-perspective.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/02/16/the-campaign-from-the-new-zealand-first-perspective/index.html
+layout: layout.njk
 ---
 The Campaign From The New Zealand First Perspective
 ===================================================

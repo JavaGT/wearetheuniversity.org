@@ -1,9 +1,13 @@
 ---
 slug: uc-honorary-doctorates-artist-judgetongan-politician
-title: "UC Honorary Doctorates: Artist, Judge,Tongan Politician"
-date: 2013-02-11
-source-url: https://www.scoop.co.nz/stories/ED1302/S00044/uc-honorary-doctorates-artist-judgetongan-politician.htm
+title: 'UC Honorary Doctorates: Artist, Judge,Tongan Politician'
+date: 2013-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00044/uc-honorary-doctorates-artist-judgetongan-politician.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/11/uc-honorary-doctorates-artist-judgetongan-politician/index.html
+layout: layout.njk
 ---
 UC Honorary Doctorates: Artist, Judge,Tongan Politician
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-survey-shows-special-needs-students-missing-out
-title: "NZEI survey shows special needs students missing out"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/ED1602/S00030/nzei-survey-shows-special-needs-students-missing-out.htm
+title: NZEI survey shows special needs students missing out
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00030/nzei-survey-shows-special-needs-students-missing-out.htm
 author: nzei
+permalink: >-
+  /archive/2016/02/09/nzei-survey-shows-special-needs-students-missing-out/index.html
+layout: layout.njk
 ---
 NZEI survey shows special needs students missing out
 ====================================================

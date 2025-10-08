@@ -1,9 +1,13 @@
 ---
 slug: ipenz-head-to-give-lecture-at-university-of-canterbury
-title: "IPENZ head to give lecture at University of Canterbury"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/AK1409/S00309/ipenz-head-to-give-lecture-at-university-of-canterbury.htm
+title: IPENZ head to give lecture at University of Canterbury
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00309/ipenz-head-to-give-lecture-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/12/ipenz-head-to-give-lecture-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 IPENZ head to give lecture at University of Canterbury
 ======================================================

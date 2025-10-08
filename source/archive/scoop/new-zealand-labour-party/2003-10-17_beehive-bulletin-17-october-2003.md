@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-17-october-2003
-title: "Beehive Bulletin - 17 October 2003"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/PA0310/S00433/beehive-bulletin-17-october-2003.htm
+title: Beehive Bulletin - 17 October 2003
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00433/beehive-bulletin-17-october-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/10/17/beehive-bulletin-17-october-2003/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - 17 October 2003
 ==================================

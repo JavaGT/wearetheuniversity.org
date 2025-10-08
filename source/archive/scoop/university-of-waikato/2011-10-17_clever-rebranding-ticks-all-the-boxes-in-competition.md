@@ -1,9 +1,13 @@
 ---
 slug: clever-rebranding-ticks-all-the-boxes-in-competition
-title: "Clever rebranding ticks all the boxes in competition"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/BU1110/S00497/clever-rebranding-ticks-all-the-boxes-in-competition.htm
+title: Clever rebranding ticks all the boxes in competition
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1110/S00497/clever-rebranding-ticks-all-the-boxes-in-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/10/17/clever-rebranding-ticks-all-the-boxes-in-competition/index.html
+layout: layout.njk
 ---
 Clever rebranding ticks all the boxes in competition
 ====================================================

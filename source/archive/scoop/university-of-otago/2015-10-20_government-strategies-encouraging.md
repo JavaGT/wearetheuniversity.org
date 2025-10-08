@@ -1,9 +1,12 @@
 ---
 slug: government-strategies-encouraging
-title: "Government strategies encouraging"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/PO1510/S00335/government-strategies-encouraging.htm
+title: Government strategies encouraging
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00335/government-strategies-encouraging.htm
 author: university-of-otago
+permalink: /archive/2015/10/20/government-strategies-encouraging/index.html
+layout: layout.njk
 ---
 Government strategies encouraging
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: innovative-tech-could-generate-renewable-energy-&-capture-carbon
-title: "Innovative Tech Could Generate Renewable Energy & Capture Carbon"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/SC2205/S00022/innovative-tech-could-generate-renewable-energy-capture-carbon.htm
+title: Innovative Tech Could Generate Renewable Energy & Capture Carbon
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00022/innovative-tech-could-generate-renewable-energy-capture-carbon.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/16/innovative-tech-could-generate-renewable-energy-/index.html
+layout: layout.njk
 ---
 Innovative Tech Could Generate Renewable Energy & Capture Carbon
 ================================================================

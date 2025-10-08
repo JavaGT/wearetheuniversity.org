@@ -1,9 +1,13 @@
 ---
 slug: nsurance-policy-and-behaviour-to-be-publicly-scrutinised
-title: "nsurance policy and behaviour to be publicly scrutinised"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/ED1512/S00010/nsurance-policy-and-behaviour-to-be-publicly-scrutinised.htm
+title: nsurance policy and behaviour to be publicly scrutinised
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00010/nsurance-policy-and-behaviour-to-be-publicly-scrutinised.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/02/nsurance-policy-and-behaviour-to-be-publicly-scrutinised/index.html
+layout: layout.njk
 ---
 nsurance policy and behaviour to be publicly scrutinised
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: international-legal-scholar-visits-waikato-university
-title: "International Legal Scholar visits Waikato University"
-date: 2016-08-23
-source-url: https://www.scoop.co.nz/stories/ED1608/S00072/international-legal-scholar-visits-waikato-university.htm
+title: International Legal Scholar visits Waikato University
+date: 2016-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00072/international-legal-scholar-visits-waikato-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/08/23/international-legal-scholar-visits-waikato-university/index.html
+layout: layout.njk
 ---
 International Legal Scholar visits Waikato University
 =====================================================

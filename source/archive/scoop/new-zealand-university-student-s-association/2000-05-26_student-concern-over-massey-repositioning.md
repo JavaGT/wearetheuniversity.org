@@ -1,9 +1,12 @@
 ---
 slug: student-concern-over-massey-repositioning
-title: "Student Concern over Massey Repositioning"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/ED0005/S00035/student-concern-over-massey-repositioning.htm
+title: Student Concern over Massey Repositioning
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00035/student-concern-over-massey-repositioning.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/05/26/student-concern-over-massey-repositioning/index.html
+layout: layout.njk
 ---
 Student Concern over Massey Repositioning
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-support-burma-solidarity-vigil
-title: "Students support Burma solidarity vigil"
-date: 2008-05-13
-source-url: https://www.scoop.co.nz/stories/PO0805/S00199/students-support-burma-solidarity-vigil.htm
+title: Students support Burma solidarity vigil
+date: 2008-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00199/students-support-burma-solidarity-vigil.htm
 author: auckland-university-students-association
+permalink: /archive/2008/05/13/students-support-burma-solidarity-vigil/index.html
+layout: layout.njk
 ---
 Students support Burma solidarity vigil
 =======================================

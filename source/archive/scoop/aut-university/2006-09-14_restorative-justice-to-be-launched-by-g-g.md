@@ -1,9 +1,12 @@
 ---
 slug: restorative-justice-to-be-launched-by-g-g
-title: "Restorative justice to be launched by G-G"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00049/restorative-justice-to-be-launched-by-g-g.htm
+title: Restorative justice to be launched by G-G
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00049/restorative-justice-to-be-launched-by-g-g.htm
 author: aut-university
+permalink: /archive/2006/09/14/restorative-justice-to-be-launched-by-g-g/index.html
+layout: layout.njk
 ---
 Restorative justice to be launched by G-G
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: closed-door-deal-angers-students
-title: "Closed Door Deal Angers Students"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/ED0403/S00122/closed-door-deal-angers-students.htm
+title: Closed Door Deal Angers Students
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00122/closed-door-deal-angers-students.htm
 author: student-choice
+permalink: /archive/2004/03/29/closed-door-deal-angers-students/index.html
+layout: layout.njk
 ---
 Closed Door Deal Angers Students
 ================================

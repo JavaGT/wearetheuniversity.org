@@ -1,9 +1,12 @@
 ---
 slug: celebrating-te-wiki-o-te-reo-maori
-title: "Celebrating Te Wiki o te Reo Maori"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/CU1107/S00076/celebrating-te-wiki-o-te-reo-maori.htm
+title: Celebrating Te Wiki o te Reo Maori
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00076/celebrating-te-wiki-o-te-reo-maori.htm
 author: auckland-university-press
+permalink: /archive/2011/07/05/celebrating-te-wiki-o-te-reo-maori/index.html
+layout: layout.njk
 ---
 Celebrating Te Wiki o te Reo Maori
 ==================================

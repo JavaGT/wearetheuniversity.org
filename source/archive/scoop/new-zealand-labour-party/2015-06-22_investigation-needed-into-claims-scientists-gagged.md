@@ -1,9 +1,13 @@
 ---
 slug: investigation-needed-into-claims-scientists-gagged
-title: "Investigation needed into claims scientists gagged"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/PA1506/S00380/investigation-needed-into-claims-scientists-gagged.htm
+title: Investigation needed into claims scientists gagged
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00380/investigation-needed-into-claims-scientists-gagged.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/22/investigation-needed-into-claims-scientists-gagged/index.html
+layout: layout.njk
 ---
 Investigation needed into claims scientists gagged
 ==================================================

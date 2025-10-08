@@ -1,9 +1,13 @@
 ---
 slug: marsden-funding-success-for-victoria-researchers
-title: "Marsden funding success for Victoria researchers"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00011/marsden-funding-success-for-victoria-researchers.htm
+title: Marsden funding success for Victoria researchers
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00011/marsden-funding-success-for-victoria-researchers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/04/marsden-funding-success-for-victoria-researchers/index.html
+layout: layout.njk
 ---
 Marsden funding success for Victoria researchers
 ================================================

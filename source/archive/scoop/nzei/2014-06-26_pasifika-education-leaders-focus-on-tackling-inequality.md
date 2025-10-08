@@ -1,9 +1,13 @@
 ---
 slug: pasifika-education-leaders-focus-on-tackling-inequality
-title: "Pasifika education leaders focus on tackling inequality"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/ED1406/S00141/pasifika-education-leaders-focus-on-tackling-inequality.htm
+title: Pasifika education leaders focus on tackling inequality
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00141/pasifika-education-leaders-focus-on-tackling-inequality.htm
 author: nzei
+permalink: >-
+  /archive/2014/06/26/pasifika-education-leaders-focus-on-tackling-inequality/index.html
+layout: layout.njk
 ---
 Pasifika education leaders focus on tackling inequality
 =======================================================

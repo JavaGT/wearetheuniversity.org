@@ -1,9 +1,12 @@
 ---
 slug: true-carnage-of-tolleys-cuts-finally-exposed
-title: "True carnage of Tolley’s cuts finally exposed"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/PA0910/S00078/true-carnage-of-tolleys-cuts-finally-exposed.htm
+title: True carnage of Tolley’s cuts finally exposed
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00078/true-carnage-of-tolleys-cuts-finally-exposed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/07/true-carnage-of-tolleys-cuts-finally-exposed/index.html
+layout: layout.njk
 ---
 True carnage of Tolley’s cuts finally exposed
 =============================================

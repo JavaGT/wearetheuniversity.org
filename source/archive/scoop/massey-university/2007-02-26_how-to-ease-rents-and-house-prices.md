@@ -1,9 +1,12 @@
 ---
 slug: how-to-ease-rents-and-house-prices
-title: "How to ease rents and house prices"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/ED0702/S00096/how-to-ease-rents-and-house-prices.htm
+title: How to ease rents and house prices
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00096/how-to-ease-rents-and-house-prices.htm
 author: massey-university
+permalink: /archive/2007/02/26/how-to-ease-rents-and-house-prices/index.html
+layout: layout.njk
 ---
 How to ease rents and house prices
 ==================================

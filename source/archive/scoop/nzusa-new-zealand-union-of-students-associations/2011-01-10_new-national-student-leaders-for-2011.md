@@ -1,9 +1,12 @@
 ---
 slug: new-national-student-leaders-for-2011
-title: "New national student leaders for 2011"
-date: 2011-01-10
-source-url: https://www.scoop.co.nz/stories/ED1101/S00003/new-national-student-leaders-for-2011.htm
+title: New national student leaders for 2011
+date: 2011-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00003/new-national-student-leaders-for-2011.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/01/10/new-national-student-leaders-for-2011/index.html
+layout: layout.njk
 ---
 New national student leaders for 2011
 =====================================

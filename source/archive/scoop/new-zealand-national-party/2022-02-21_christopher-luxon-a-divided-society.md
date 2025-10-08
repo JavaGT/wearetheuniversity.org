@@ -1,9 +1,12 @@
 ---
 slug: christopher-luxon-a-divided-society
-title: "Christopher Luxon - A Divided Society"
-date: 2022-02-21
-source-url: https://www.scoop.co.nz/stories/PA2202/S00145/christopher-luxon-a-divided-society.htm
+title: Christopher Luxon - A Divided Society
+date: 2022-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00145/christopher-luxon-a-divided-society.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/21/christopher-luxon-a-divided-society/index.html
+layout: layout.njk
 ---
 Christopher Luxon - A Divided Society
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-students-achieve-worlds-highest-recorded-rocket-flight
-title: "UC students achieve world’s highest recorded rocket flight"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/SC1408/S00024/uc-students-achieve-worlds-highest-recorded-rocket-flight.htm
+title: UC students achieve world’s highest recorded rocket flight
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00024/uc-students-achieve-worlds-highest-recorded-rocket-flight.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2014/08/08/uc-students-achieve-worlds-highest-recorded-rocket-flight/index.html
+layout: layout.njk
 ---
 UC students achieve world’s highest recorded rocket flight
 ==========================================================

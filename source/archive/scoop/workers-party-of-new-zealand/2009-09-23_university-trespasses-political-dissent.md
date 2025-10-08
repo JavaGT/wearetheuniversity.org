@@ -1,9 +1,12 @@
 ---
 slug: university-trespasses-political-dissent
-title: "University Trespasses Political Dissent"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/ED0909/S00084/university-trespasses-political-dissent.htm
+title: University Trespasses Political Dissent
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00084/university-trespasses-political-dissent.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/09/23/university-trespasses-political-dissent/index.html
+layout: layout.njk
 ---
 University Trespasses Political Dissent
 =======================================

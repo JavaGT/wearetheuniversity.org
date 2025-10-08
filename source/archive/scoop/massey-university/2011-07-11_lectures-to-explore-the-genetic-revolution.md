@@ -1,9 +1,12 @@
 ---
 slug: lectures-to-explore-the-genetic-revolution
-title: "Lectures to explore the genetic revolution"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/SC1107/S00027/lectures-to-explore-the-genetic-revolution.htm
+title: Lectures to explore the genetic revolution
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00027/lectures-to-explore-the-genetic-revolution.htm
 author: massey-university
+permalink: /archive/2011/07/11/lectures-to-explore-the-genetic-revolution/index.html
+layout: layout.njk
 ---
 Lectures to explore the genetic revolution
 ==========================================

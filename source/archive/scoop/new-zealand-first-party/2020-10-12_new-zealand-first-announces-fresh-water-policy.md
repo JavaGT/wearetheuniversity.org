@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-announces-fresh-water-policy
-title: "New Zealand First Announces Fresh Water Policy"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/PA2010/S00076/new-zealand-first-announces-fresh-water-policy.htm
+title: New Zealand First Announces Fresh Water Policy
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00076/new-zealand-first-announces-fresh-water-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2020/10/12/new-zealand-first-announces-fresh-water-policy/index.html
+layout: layout.njk
 ---
 New Zealand First Announces Fresh Water Policy
 ==============================================

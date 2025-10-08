@@ -1,9 +1,13 @@
 ---
 slug: christchurch-flood-victims-cut-out-of-budget-2014
-title: "Christchurch flood victims cut out of Budget 2014"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00288/christchurch-flood-victims-cut-out-of-budget-2014.htm
+title: Christchurch flood victims cut out of Budget 2014
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00288/christchurch-flood-victims-cut-out-of-budget-2014.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/15/christchurch-flood-victims-cut-out-of-budget-2014/index.html
+layout: layout.njk
 ---
 Christchurch flood victims cut out of Budget 2014
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-band-aid-wont-sort-dispute
-title: "Government Band Aid Won't Sort Dispute"
-date: 2002-07-15
-source-url: https://www.scoop.co.nz/stories/PA0207/S00377/government-band-aid-wont-sort-dispute.htm
+title: Government Band Aid Won't Sort Dispute
+date: 2002-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00377/government-band-aid-wont-sort-dispute.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/15/government-band-aid-wont-sort-dispute/index.html
+layout: layout.njk
 ---
 Government Band Aid Won't Sort Dispute
 ======================================

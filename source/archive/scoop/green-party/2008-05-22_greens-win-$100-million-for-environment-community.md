@@ -1,9 +1,12 @@
 ---
 slug: greens-win-$100-million-for-environment-community
-title: "Greens win $100 million for environment, community"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PA0805/S00416/greens-win-100-million-for-environment-community.htm
+title: Greens win $100 million for environment, community
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00416/greens-win-100-million-for-environment-community.htm
 author: green-party
+permalink: /archive/2008/05/22/greens-win-/index.html
+layout: layout.njk
 ---
 Greens win $100 million for environment, community
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: bills-budget-blunder-students-out-in-the-cold
-title: "Bill's Budget Blunder – Students out in the Cold"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PO0905/S00403/bills-budget-blunder-students-out-in-the-cold.htm
+title: Bill's Budget Blunder – Students out in the Cold
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00403/bills-budget-blunder-students-out-in-the-cold.htm
 author: otago-university-students-association
+permalink: /archive/2009/05/29/bills-budget-blunder-students-out-in-the-cold/index.html
+layout: layout.njk
 ---
 Bill's Budget Blunder – Students out in the Cold
 ================================================

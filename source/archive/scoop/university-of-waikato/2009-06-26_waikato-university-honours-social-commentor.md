@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-honours-social-commentor
-title: "Waikato University honours social commentor"
-date: 2009-06-26
-source-url: https://www.scoop.co.nz/stories/ED0906/S00077/waikato-university-honours-social-commentor.htm
+title: Waikato University honours social commentor
+date: 2009-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00077/waikato-university-honours-social-commentor.htm
 author: university-of-waikato
+permalink: /archive/2009/06/26/waikato-university-honours-social-commentor/index.html
+layout: layout.njk
 ---
 Waikato University honours social commentor
 ===========================================

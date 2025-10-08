@@ -1,9 +1,12 @@
 ---
 slug: kakapo-hatch-a-name-2005-competition-winners
-title: "Kakapo Hatch a Name 2005 Competition Winners"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/PA0509/S00194/kakapo-hatch-a-name-2005-competition-winners.htm
+title: Kakapo Hatch a Name 2005 Competition Winners
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00194/kakapo-hatch-a-name-2005-competition-winners.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/07/kakapo-hatch-a-name-2005-competition-winners/index.html
+layout: layout.njk
 ---
 Kakapo Hatch a Name 2005 Competition Winners
 ============================================

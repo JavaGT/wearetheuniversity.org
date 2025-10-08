@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorate-for-former-reserve-bank-governor
-title: "Honorary doctorate for former Reserve Bank Governor"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/ED1211/S00232/honorary-doctorate-for-former-reserve-bank-governor.htm
+title: Honorary doctorate for former Reserve Bank Governor
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00232/honorary-doctorate-for-former-reserve-bank-governor.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/30/honorary-doctorate-for-former-reserve-bank-governor/index.html
+layout: layout.njk
 ---
 Honorary doctorate for former Reserve Bank Governor
 ===================================================

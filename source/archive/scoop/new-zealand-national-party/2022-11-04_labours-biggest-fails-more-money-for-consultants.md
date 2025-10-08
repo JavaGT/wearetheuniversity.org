@@ -1,9 +1,13 @@
 ---
 slug: labours-biggest-fails-more-money-for-consultants
-title: "Labour’s Biggest Fails: More Money For Consultants"
-date: 2022-11-04
-source-url: https://www.scoop.co.nz/stories/PA2211/S00033/labours-biggest-fails-more-money-for-consultants.htm
+title: 'Labour’s Biggest Fails: More Money For Consultants'
+date: 2022-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00033/labours-biggest-fails-more-money-for-consultants.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/04/labours-biggest-fails-more-money-for-consultants/index.html
+layout: layout.njk
 ---
 Labour’s Biggest Fails: More Money For Consultants
 ==================================================

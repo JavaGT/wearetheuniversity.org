@@ -1,9 +1,12 @@
 ---
 slug: teacher-buy-in-vital-for-code-of-ethics-success
-title: "Teacher Buy in Vital for Code of Ethics Success"
-date: 2003-03-21
-source-url: https://www.scoop.co.nz/stories/ED0303/S00036/teacher-buy-in-vital-for-code-of-ethics-success.htm
+title: Teacher Buy in Vital for Code of Ethics Success
+date: 2003-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00036/teacher-buy-in-vital-for-code-of-ethics-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/21/teacher-buy-in-vital-for-code-of-ethics-success/index.html
+layout: layout.njk
 ---
 Teacher Buy in Vital for Code of Ethics Success
 ===============================================

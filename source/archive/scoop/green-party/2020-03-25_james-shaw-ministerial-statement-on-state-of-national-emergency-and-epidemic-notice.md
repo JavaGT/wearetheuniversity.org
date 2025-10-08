@@ -1,9 +1,16 @@
 ---
-slug: james-shaw-ministerial-statement-on-state-of-national-emergency-and-epidemic-notice
-title: "James Shaw – Ministerial Statement On State Of National Emergency And Epidemic Notice"
-date: 2020-03-25
-source-url: https://www.scoop.co.nz/stories/PA2003/S00179/james-shaw-ministerial-statement-on-state-of-national-emergency-and-epidemic-notice.htm
+slug: >-
+  james-shaw-ministerial-statement-on-state-of-national-emergency-and-epidemic-notice
+title: >-
+  James Shaw – Ministerial Statement On State Of National Emergency And Epidemic
+  Notice
+date: 2020-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00179/james-shaw-ministerial-statement-on-state-of-national-emergency-and-epidemic-notice.htm
 author: green-party
+permalink: >-
+  /archive/2020/03/25/james-shaw-ministerial-statement-on-state-of-national-emergency-and-epidemic-notice/index.html
+layout: layout.njk
 ---
 James Shaw – Ministerial Statement On State Of National Emergency And Epidemic Notice
 =====================================================================================

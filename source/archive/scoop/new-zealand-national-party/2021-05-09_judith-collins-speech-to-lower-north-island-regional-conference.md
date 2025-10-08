@@ -1,9 +1,13 @@
 ---
 slug: judith-collins-speech-to-lower-north-island-regional-conference
-title: "Judith Collins - Speech To Lower North Island Regional Conference"
-date: 2021-05-09
-source-url: https://www.scoop.co.nz/stories/PA2105/S00072/judith-collins-speech-to-lower-north-island-regional-conference.htm
+title: Judith Collins - Speech To Lower North Island Regional Conference
+date: 2021-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00072/judith-collins-speech-to-lower-north-island-regional-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/09/judith-collins-speech-to-lower-north-island-regional-conference/index.html
+layout: layout.njk
 ---
 Judith Collins - Speech To Lower North Island Regional Conference
 =================================================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-people-prepared-to-walk-further-to-bus-stops
-title: "Christchurch people prepared to walk further to bus stops"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/ED1412/S00053/christchurch-people-prepared-to-walk-further-to-bus-stops.htm
+title: Christchurch people prepared to walk further to bus stops
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00053/christchurch-people-prepared-to-walk-further-to-bus-stops.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/09/christchurch-people-prepared-to-walk-further-to-bus-stops/index.html
+layout: layout.njk
 ---
 Christchurch people prepared to walk further to bus stops
 =========================================================

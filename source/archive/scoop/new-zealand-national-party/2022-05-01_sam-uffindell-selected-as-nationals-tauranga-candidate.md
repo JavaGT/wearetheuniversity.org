@@ -1,9 +1,13 @@
 ---
 slug: sam-uffindell-selected-as-nationals-tauranga-candidate
-title: "Sam Uffindell Selected As National’s Tauranga Candidate"
-date: 2022-05-01
-source-url: https://www.scoop.co.nz/stories/PO2205/S00002/sam-uffindell-selected-as-nationals-tauranga-candidate.htm
+title: Sam Uffindell Selected As National’s Tauranga Candidate
+date: 2022-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00002/sam-uffindell-selected-as-nationals-tauranga-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/05/01/sam-uffindell-selected-as-nationals-tauranga-candidate/index.html
+layout: layout.njk
 ---
 Sam Uffindell Selected As National’s Tauranga Candidate
 =======================================================

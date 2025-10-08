@@ -1,9 +1,12 @@
 ---
 slug: unions-value-new-spending-on-tertiary-workforce
-title: "Unions Value New Spending On Tertiary, Workforce"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PO0704/S00373/unions-value-new-spending-on-tertiary-workforce.htm
+title: Unions Value New Spending On Tertiary, Workforce
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00373/unions-value-new-spending-on-tertiary-workforce.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/04/30/unions-value-new-spending-on-tertiary-workforce/index.html
+layout: layout.njk
 ---
 Unions Value New Spending On Tertiary, Workforce
 ================================================

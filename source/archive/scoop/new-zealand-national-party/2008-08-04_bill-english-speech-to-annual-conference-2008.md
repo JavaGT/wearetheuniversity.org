@@ -1,9 +1,12 @@
 ---
 slug: bill-english-speech-to-annual-conference-2008
-title: "Bill English: Speech to Annual Conference 2008"
-date: 2008-08-04
-source-url: https://www.scoop.co.nz/stories/PA0808/S00036/bill-english-speech-to-annual-conference-2008.htm
+title: 'Bill English: Speech to Annual Conference 2008'
+date: 2008-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00036/bill-english-speech-to-annual-conference-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/04/bill-english-speech-to-annual-conference-2008/index.html
+layout: layout.njk
 ---
 Bill English: Speech to Annual Conference 2008
 ==============================================

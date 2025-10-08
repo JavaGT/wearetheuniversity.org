@@ -1,9 +1,12 @@
 ---
 slug: no-singin-in-the-rain-says-peters
-title: "No Singin' In The Rain Says Peters"
-date: 2002-11-27
-source-url: https://www.scoop.co.nz/stories/PA0211/S00616/no-singin-in-the-rain-says-peters.htm
+title: No Singin' In The Rain Says Peters
+date: 2002-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00616/no-singin-in-the-rain-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/27/no-singin-in-the-rain-says-peters/index.html
+layout: layout.njk
 ---
 No Singin' In The Rain Says Peters
 ==================================

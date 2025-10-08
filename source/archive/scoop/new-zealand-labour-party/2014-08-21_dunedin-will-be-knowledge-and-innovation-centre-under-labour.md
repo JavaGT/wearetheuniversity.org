@@ -1,9 +1,13 @@
 ---
 slug: dunedin-will-be-knowledge-and-innovation-centre-under-labour
-title: "Dunedin will be knowledge and innovation centre under Labour"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PA1408/S00330/dunedin-will-be-knowledge-and-innovation-centre-under-labour.htm
+title: Dunedin will be knowledge and innovation centre under Labour
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00330/dunedin-will-be-knowledge-and-innovation-centre-under-labour.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/21/dunedin-will-be-knowledge-and-innovation-centre-under-labour/index.html
+layout: layout.njk
 ---
 Dunedin will be knowledge and innovation centre under Labour
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: support-for-modern-scientific-facilities-welcomed-by-lincoln
-title: "Support for modern scientific facilities welcomed by Lincoln"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/ED1211/S00213/support-for-modern-scientific-facilities-welcomed-by-lincoln.htm
+title: Support for modern scientific facilities welcomed by Lincoln
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00213/support-for-modern-scientific-facilities-welcomed-by-lincoln.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/11/29/support-for-modern-scientific-facilities-welcomed-by-lincoln/index.html
+layout: layout.njk
 ---
 Support for modern scientific facilities welcomed by Lincoln
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: easy-information-about-money-key-to-empowerment
-title: "Easy information about money key to empowerment"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/ED1508/S00088/easy-information-about-money-key-to-empowerment.htm
+title: Easy information about money key to empowerment
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00088/easy-information-about-money-key-to-empowerment.htm
 author: massey-university
+permalink: /archive/2015/08/18/easy-information-about-money-key-to-empowerment/index.html
+layout: layout.njk
 ---
 Easy information about money key to empowerment
 ===============================================

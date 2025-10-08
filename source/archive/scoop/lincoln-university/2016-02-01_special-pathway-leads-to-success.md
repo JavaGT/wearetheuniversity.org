@@ -1,9 +1,12 @@
 ---
 slug: special-pathway-leads-to-success
-title: "Special pathway leads to success"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/ED1602/S00007/special-pathway-leads-to-success.htm
+title: Special pathway leads to success
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00007/special-pathway-leads-to-success.htm
 author: lincoln-university
+permalink: /archive/2016/02/01/special-pathway-leads-to-success/index.html
+layout: layout.njk
 ---
 Special pathway leads to success
 ================================

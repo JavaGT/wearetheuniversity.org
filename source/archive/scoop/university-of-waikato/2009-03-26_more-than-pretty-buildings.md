@@ -1,9 +1,11 @@
 ---
 slug: more-than-pretty-buildings
-title: "More than pretty buildings"
-date: 2009-03-26
+title: More than pretty buildings
+date: 2009-03-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0903/S00402/more-than-pretty-buildings.htm
 author: university-of-waikato
+permalink: /archive/2009/03/26/more-than-pretty-buildings/index.html
+layout: layout.njk
 ---
 More than pretty buildings
 ==========================

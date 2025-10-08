@@ -1,9 +1,12 @@
 ---
 slug: alliance-spending-sends-runner-around-the-globe
-title: "Alliance Spending Sends Runner Around The Globe"
-date: 1999-10-01
-source-url: https://www.scoop.co.nz/stories/PA9910/S00016/alliance-spending-sends-runner-around-the-globe.htm
+title: Alliance Spending Sends Runner Around The Globe
+date: 1999-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00016/alliance-spending-sends-runner-around-the-globe.htm
 author: act-new-zealand
+permalink: /archive/1999/10/01/alliance-spending-sends-runner-around-the-globe/index.html
+layout: layout.njk
 ---
 Alliance Spending Sends Runner Around The Globe
 ===============================================

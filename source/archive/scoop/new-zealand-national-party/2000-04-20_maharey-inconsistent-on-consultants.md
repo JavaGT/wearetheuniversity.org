@@ -1,9 +1,12 @@
 ---
 slug: maharey-inconsistent-on-consultants
-title: "Maharey inconsistent on consultants"
-date: 2000-04-20
-source-url: https://www.scoop.co.nz/stories/PA0004/S00291/maharey-inconsistent-on-consultants.htm
+title: Maharey inconsistent on consultants
+date: 2000-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00291/maharey-inconsistent-on-consultants.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/20/maharey-inconsistent-on-consultants/index.html
+layout: layout.njk
 ---
 Maharey inconsistent on consultants
 ===================================

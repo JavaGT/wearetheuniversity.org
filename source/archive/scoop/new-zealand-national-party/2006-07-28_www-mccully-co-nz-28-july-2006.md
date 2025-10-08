@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-28-july-2006
-title: "www.mccully.co.nz - 28 July 2006"
-date: 2006-07-28
+title: www.mccully.co.nz - 28 July 2006
+date: 2006-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00522/wwwmccullyconz-28-july-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/28/www-mccully-co-nz-28-july-2006/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 28 July 2006
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: chancellor-re-elected-at-victoria-university
-title: "Chancellor re-elected at Victoria University"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/ED1212/S00028/chancellor-re-elected-at-victoria-university.htm
+title: Chancellor re-elected at Victoria University
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00028/chancellor-re-elected-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/06/chancellor-re-elected-at-victoria-university/index.html
+layout: layout.njk
 ---
 Chancellor re-elected at Victoria University
 ============================================

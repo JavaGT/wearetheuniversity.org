@@ -1,9 +1,12 @@
 ---
 slug: aviation-student-wins-scholarship
-title: "Aviation student wins scholarship"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/ED0905/S00115/aviation-student-wins-scholarship.htm
+title: Aviation student wins scholarship
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00115/aviation-student-wins-scholarship.htm
 author: massey-university
+permalink: /archive/2009/05/28/aviation-student-wins-scholarship/index.html
+layout: layout.njk
 ---
 Aviation student wins scholarship
 =================================

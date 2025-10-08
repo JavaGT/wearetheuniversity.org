@@ -1,9 +1,12 @@
 ---
 slug: green-vision-and-action-rod-donald-speech
-title: "Green Vision and Action - Rod Donald Speech"
-date: 2001-02-14
-source-url: https://www.scoop.co.nz/stories/PA0102/S00200/green-vision-and-action-rod-donald-speech.htm
+title: Green Vision and Action - Rod Donald Speech
+date: 2001-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00200/green-vision-and-action-rod-donald-speech.htm
 author: green-party
+permalink: /archive/2001/02/14/green-vision-and-action-rod-donald-speech/index.html
+layout: layout.njk
 ---
 Green Vision and Action - Rod Donald Speech
 ===========================================

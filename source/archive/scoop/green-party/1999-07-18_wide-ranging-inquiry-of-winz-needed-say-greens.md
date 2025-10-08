@@ -1,9 +1,12 @@
 ---
 slug: wide-ranging-inquiry-of-winz-needed-say-greens
-title: "Wide Ranging Inquiry Of WINZ Needed Say Greens"
-date: 1999-07-18
-source-url: https://www.scoop.co.nz/stories/PA9907/S00303/wide-ranging-inquiry-of-winz-needed-say-greens.htm
+title: Wide Ranging Inquiry Of WINZ Needed Say Greens
+date: 1999-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00303/wide-ranging-inquiry-of-winz-needed-say-greens.htm
 author: green-party
+permalink: /archive/1999/07/18/wide-ranging-inquiry-of-winz-needed-say-greens/index.html
+layout: layout.njk
 ---
 Wide Ranging Inquiry Of WINZ Needed Say Greens
 ==============================================

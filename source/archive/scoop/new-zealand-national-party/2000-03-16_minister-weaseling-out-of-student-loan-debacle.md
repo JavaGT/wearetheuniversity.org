@@ -1,9 +1,12 @@
 ---
 slug: minister-weaseling-out-of-student-loan-debacle
-title: "Minister weaseling out of student loan debacle"
-date: 2000-03-16
-source-url: https://www.scoop.co.nz/stories/PA0003/S00247/minister-weaseling-out-of-student-loan-debacle.htm
+title: Minister weaseling out of student loan debacle
+date: 2000-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00247/minister-weaseling-out-of-student-loan-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/16/minister-weaseling-out-of-student-loan-debacle/index.html
+layout: layout.njk
 ---
 Minister weaseling out of student loan debacle
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: young-director-gets-inspiration-from-an-old-master
-title: "Young Director Gets Inspiration from an Old Master"
-date: 2007-08-28
-source-url: https://www.scoop.co.nz/stories/CU0708/S00321/young-director-gets-inspiration-from-an-old-master.htm
+title: Young Director Gets Inspiration from an Old Master
+date: 2007-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00321/young-director-gets-inspiration-from-an-old-master.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/08/28/young-director-gets-inspiration-from-an-old-master/index.html
+layout: layout.njk
 ---
 Young Director Gets Inspiration from an Old Master
 ==================================================

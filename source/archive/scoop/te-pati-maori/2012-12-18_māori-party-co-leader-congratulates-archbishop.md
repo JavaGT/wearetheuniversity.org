@@ -1,9 +1,12 @@
 ---
 slug: māori-party-co-leader-congratulates-archbishop
-title: "Māori Party co-leader congratulates Archbishop"
-date: 2012-12-18
-source-url: https://www.scoop.co.nz/stories/PA1212/S00340/maori-party-co-leader-congratulates-archbishop.htm
+title: Māori Party co-leader congratulates Archbishop
+date: 2012-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00340/maori-party-co-leader-congratulates-archbishop.htm
 author: te-pati-maori
+permalink: /archive/2012/12/18/m/index.html
+layout: layout.njk
 ---
 Māori Party co-leader congratulates Archbishop
 ==============================================

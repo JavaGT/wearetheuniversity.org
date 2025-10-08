@@ -1,9 +1,13 @@
 ---
 slug: call-for-stronger-regulation-of-roll-your-own-tobacco
-title: "Call for stronger regulation of roll-your-own tobacco"
-date: 2016-09-19
-source-url: https://www.scoop.co.nz/stories/GE1609/S00097/call-for-stronger-regulation-of-roll-your-own-tobacco.htm
+title: Call for stronger regulation of roll-your-own tobacco
+date: 2016-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1609/S00097/call-for-stronger-regulation-of-roll-your-own-tobacco.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/19/call-for-stronger-regulation-of-roll-your-own-tobacco/index.html
+layout: layout.njk
 ---
 Call for stronger regulation of roll-your-own tobacco
 =====================================================

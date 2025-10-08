@@ -1,9 +1,12 @@
 ---
 slug: treating-pneumonia-in-the-home-does-it-work
-title: "Treating Pneumonia In The Home. Does It Work?"
-date: 2002-11-01
-source-url: https://www.scoop.co.nz/stories/ED0211/S00002/treating-pneumonia-in-the-home-does-it-work.htm
+title: Treating Pneumonia In The Home. Does It Work?
+date: 2002-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00002/treating-pneumonia-in-the-home-does-it-work.htm
 author: university-of-otago
+permalink: /archive/2002/11/01/treating-pneumonia-in-the-home-does-it-work/index.html
+layout: layout.njk
 ---
 Treating Pneumonia In The Home. Does It Work?
 =============================================

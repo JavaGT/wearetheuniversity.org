@@ -1,9 +1,12 @@
 ---
 slug: tell-the-real-story-mrs-shipley!
-title: "Tell the real story Mrs Shipley!"
-date: 1999-11-02
-source-url: https://www.scoop.co.nz/stories/PA9911/S00046/tell-the-real-story-mrs-shipley.htm
+title: Tell the real story Mrs Shipley!
+date: 1999-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00046/tell-the-real-story-mrs-shipley.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/02/tell-the-real-story-mrs-shipley/index.html
+layout: layout.njk
 ---
 Tell the real story Mrs Shipley!
 ================================

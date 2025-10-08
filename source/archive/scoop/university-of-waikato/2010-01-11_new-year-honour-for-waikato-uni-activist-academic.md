@@ -1,9 +1,13 @@
 ---
 slug: new-year-honour-for-waikato-uni-activist-academic
-title: "New Year honour for Waikato Uni activist academic"
-date: 2010-01-11
-source-url: https://www.scoop.co.nz/stories/ED1001/S00012/new-year-honour-for-waikato-uni-activist-academic.htm
+title: New Year honour for Waikato Uni activist academic
+date: 2010-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00012/new-year-honour-for-waikato-uni-activist-academic.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/01/11/new-year-honour-for-waikato-uni-activist-academic/index.html
+layout: layout.njk
 ---
 New Year honour for Waikato Uni activist academic
 =================================================

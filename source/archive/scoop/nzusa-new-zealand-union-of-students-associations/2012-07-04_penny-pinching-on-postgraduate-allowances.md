@@ -1,9 +1,12 @@
 ---
 slug: penny-pinching-on-postgraduate-allowances
-title: "Penny pinching on postgraduate allowances"
-date: 2012-07-04
-source-url: https://www.scoop.co.nz/stories/ED1207/S00013/penny-pinching-on-postgraduate-allowances.htm
+title: Penny pinching on postgraduate allowances
+date: 2012-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00013/penny-pinching-on-postgraduate-allowances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/07/04/penny-pinching-on-postgraduate-allowances/index.html
+layout: layout.njk
 ---
 Penny pinching on postgraduate allowances
 =========================================

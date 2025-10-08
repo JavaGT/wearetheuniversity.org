@@ -1,9 +1,12 @@
 ---
 slug: foreign-students-just-a-commodity-to-national
-title: "Foreign Students just a commodity to National"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/PA1609/S00464/foreign-students-just-a-commodity-to-national.htm
+title: Foreign Students just a commodity to National
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00464/foreign-students-just-a-commodity-to-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/26/foreign-students-just-a-commodity-to-national/index.html
+layout: layout.njk
 ---
 Foreign Students just a commodity to National
 =============================================

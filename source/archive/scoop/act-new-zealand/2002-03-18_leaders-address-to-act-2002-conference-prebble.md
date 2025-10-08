@@ -1,9 +1,12 @@
 ---
 slug: leaders-address-to-act-2002-conference-prebble
-title: "Leader's Address to ACT 2002 Conference -- Prebble"
-date: 2002-03-18
-source-url: https://www.scoop.co.nz/stories/PA0203/S00304/leaders-address-to-act-2002-conference-prebble.htm
+title: Leader's Address to ACT 2002 Conference -- Prebble
+date: 2002-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00304/leaders-address-to-act-2002-conference-prebble.htm
 author: act-new-zealand
+permalink: /archive/2002/03/18/leaders-address-to-act-2002-conference-prebble/index.html
+layout: layout.njk
 ---
 Leader's Address to ACT 2002 Conference -- Prebble
 ==================================================

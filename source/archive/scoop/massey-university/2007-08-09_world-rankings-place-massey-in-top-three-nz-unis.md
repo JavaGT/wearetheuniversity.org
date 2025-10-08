@@ -1,9 +1,13 @@
 ---
 slug: world-rankings-place-massey-in-top-three-nz-unis
-title: "World rankings place Massey in top three NZ Unis"
-date: 2007-08-09
-source-url: https://www.scoop.co.nz/stories/ED0708/S00025/world-rankings-place-massey-in-top-three-nz-unis.htm
+title: World rankings place Massey in top three NZ Unis
+date: 2007-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00025/world-rankings-place-massey-in-top-three-nz-unis.htm
 author: massey-university
+permalink: >-
+  /archive/2007/08/09/world-rankings-place-massey-in-top-three-nz-unis/index.html
+layout: layout.njk
 ---
 World rankings place Massey in top three NZ Unis
 ================================================

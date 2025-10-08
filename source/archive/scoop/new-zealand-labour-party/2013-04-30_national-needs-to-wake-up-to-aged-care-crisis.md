@@ -1,9 +1,12 @@
 ---
 slug: national-needs-to-wake-up-to-aged-care-crisis
-title: "National needs to wake up to aged care crisis"
-date: 2013-04-30
-source-url: https://www.scoop.co.nz/stories/PA1304/S00566/national-needs-to-wake-up-to-aged-care-crisis.htm
+title: National needs to wake up to aged care crisis
+date: 2013-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00566/national-needs-to-wake-up-to-aged-care-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/30/national-needs-to-wake-up-to-aged-care-crisis/index.html
+layout: layout.njk
 ---
 National needs to wake up to aged care crisis
 =============================================

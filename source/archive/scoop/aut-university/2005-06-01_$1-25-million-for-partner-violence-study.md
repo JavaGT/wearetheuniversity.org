@@ -1,9 +1,12 @@
 ---
 slug: $1-25-million-for-partner-violence-study
-title: "$1.25 million for partner violence study"
-date: 2005-06-01
-source-url: https://www.scoop.co.nz/stories/ED0506/S00005/125-million-for-partner-violence-study.htm
+title: $1.25 million for partner violence study
+date: 2005-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00005/125-million-for-partner-violence-study.htm
 author: aut-university
+permalink: /archive/2005/06/01/1-25-million-for-partner-violence-study/index.html
+layout: layout.njk
 ---
 $1.25 million for partner violence study
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: cab-opening-on-campus-a-nz-first
-title: "CAB opening on campus a NZ first"
-date: 2006-02-21
-source-url: https://www.scoop.co.nz/stories/ED0602/S00051/cab-opening-on-campus-a-nz-first.htm
+title: CAB opening on campus a NZ first
+date: 2006-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00051/cab-opening-on-campus-a-nz-first.htm
 author: waikato-university
+permalink: /archive/2006/02/21/cab-opening-on-campus-a-nz-first/index.html
+layout: layout.njk
 ---
 CAB opening on campus a NZ first
 ================================

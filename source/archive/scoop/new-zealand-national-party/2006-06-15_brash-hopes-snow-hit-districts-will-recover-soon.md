@@ -1,9 +1,13 @@
 ---
 slug: brash-hopes-snow-hit-districts-will-recover-soon
-title: "Brash hopes snow-hit districts will recover soon"
-date: 2006-06-15
-source-url: https://www.scoop.co.nz/stories/PA0606/S00284/brash-hopes-snow-hit-districts-will-recover-soon.htm
+title: Brash hopes snow-hit districts will recover soon
+date: 2006-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00284/brash-hopes-snow-hit-districts-will-recover-soon.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/06/15/brash-hopes-snow-hit-districts-will-recover-soon/index.html
+layout: layout.njk
 ---
 Brash hopes snow-hit districts will recover soon
 ================================================

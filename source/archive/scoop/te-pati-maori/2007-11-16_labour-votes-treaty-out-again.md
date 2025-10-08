@@ -1,9 +1,12 @@
 ---
 slug: labour-votes-treaty-out-again
-title: "Labour Votes Treaty out, Again"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/PA0711/S00331/labour-votes-treaty-out-again.htm
+title: Labour Votes Treaty out, Again
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00331/labour-votes-treaty-out-again.htm
 author: te-pati-maori
+permalink: /archive/2007/11/16/labour-votes-treaty-out-again/index.html
+layout: layout.njk
 ---
 Labour Votes Treaty out, Again
 ==============================

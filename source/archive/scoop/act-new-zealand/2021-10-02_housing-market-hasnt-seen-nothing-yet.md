@@ -1,9 +1,12 @@
 ---
 slug: housing-market-hasnt-seen-nothing-yet
-title: "Housing Market Hasn’t Seen Nothing Yet"
-date: 2021-10-02
-source-url: https://www.scoop.co.nz/stories/PA2110/S00012/housing-market-hasnt-seen-nothing-yet.htm
+title: Housing Market Hasn’t Seen Nothing Yet
+date: 2021-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00012/housing-market-hasnt-seen-nothing-yet.htm
 author: act-new-zealand
+permalink: /archive/2021/10/02/housing-market-hasnt-seen-nothing-yet/index.html
+layout: layout.njk
 ---
 Housing Market Hasn’t Seen Nothing Yet
 ======================================

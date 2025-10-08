@@ -1,9 +1,13 @@
 ---
 slug: free-trade-in-education-already-failing-students
-title: "Free trade in education already failing students"
-date: 2003-07-31
-source-url: https://www.scoop.co.nz/stories/ED0307/S00079/free-trade-in-education-already-failing-students.htm
+title: Free trade in education already failing students
+date: 2003-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00079/free-trade-in-education-already-failing-students.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/07/31/free-trade-in-education-already-failing-students/index.html
+layout: layout.njk
 ---
 Free trade in education already failing students
 ================================================

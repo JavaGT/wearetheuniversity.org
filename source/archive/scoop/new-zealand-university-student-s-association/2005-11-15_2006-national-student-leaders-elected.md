@@ -1,9 +1,12 @@
 ---
 slug: 2006-national-student-leaders-elected
-title: "2006 National Student Leaders Elected"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/ED0511/S00059/2006-national-student-leaders-elected.htm
+title: 2006 National Student Leaders Elected
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00059/2006-national-student-leaders-elected.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/11/15/2006-national-student-leaders-elected/index.html
+layout: layout.njk
 ---
 2006 National Student Leaders Elected
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: pay-jolt-not-a-political-football
-title: "Pay Jolt Not A Political Football"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/ED0810/S00006/pay-jolt-not-a-political-football.htm
+title: Pay Jolt Not A Political Football
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00006/pay-jolt-not-a-political-football.htm
 author: nzei
+permalink: /archive/2008/10/01/pay-jolt-not-a-political-football/index.html
+layout: layout.njk
 ---
 Pay Jolt Not A Political Football
 =================================

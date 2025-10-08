@@ -1,9 +1,12 @@
 ---
 slug: maori-truancy-figures-time-bomb
-title: "Maori truancy figures ‘time bomb’"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/PA0705/S00063/maori-truancy-figures-time-bomb.htm
+title: Maori truancy figures ‘time bomb’
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00063/maori-truancy-figures-time-bomb.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/02/maori-truancy-figures-time-bomb/index.html
+layout: layout.njk
 ---
 Maori truancy figures ‘time bomb’
 =================================

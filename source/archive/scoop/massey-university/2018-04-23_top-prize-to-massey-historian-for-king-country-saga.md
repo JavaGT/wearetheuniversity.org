@@ -1,9 +1,13 @@
 ---
 slug: top-prize-to-massey-historian-for-king-country-saga
-title: "Top prize to Massey historian for King Country saga"
-date: 2018-04-23
-source-url: https://www.scoop.co.nz/stories/ED1804/S00056/top-prize-to-massey-historian-for-king-country-saga.htm
+title: Top prize to Massey historian for King Country saga
+date: 2018-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00056/top-prize-to-massey-historian-for-king-country-saga.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/23/top-prize-to-massey-historian-for-king-country-saga/index.html
+layout: layout.njk
 ---
 Top prize to Massey historian for King Country saga
 ===================================================

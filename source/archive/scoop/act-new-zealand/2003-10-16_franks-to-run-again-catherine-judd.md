@@ -1,9 +1,12 @@
 ---
 slug: franks-to-run-again-catherine-judd
-title: "Franks To Run Again -- Catherine Judd"
-date: 2003-10-16
-source-url: https://www.scoop.co.nz/stories/PA0310/S00373/franks-to-run-again-catherine-judd.htm
+title: Franks To Run Again -- Catherine Judd
+date: 2003-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00373/franks-to-run-again-catherine-judd.htm
 author: act-new-zealand
+permalink: /archive/2003/10/16/franks-to-run-again-catherine-judd/index.html
+layout: layout.njk
 ---
 Franks To Run Again -- Catherine Judd
 =====================================

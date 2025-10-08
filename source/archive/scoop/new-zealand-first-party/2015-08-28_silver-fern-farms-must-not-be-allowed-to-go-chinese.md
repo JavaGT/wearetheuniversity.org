@@ -1,9 +1,13 @@
 ---
 slug: silver-fern-farms-must-not-be-allowed-to-go-chinese
-title: "Silver Fern Farms Must Not Be Allowed to Go Chinese"
-date: 2015-08-28
-source-url: https://www.scoop.co.nz/stories/PA1508/S00507/silver-fern-farms-must-not-be-allowed-to-go-chinese.htm
+title: Silver Fern Farms Must Not Be Allowed to Go Chinese
+date: 2015-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00507/silver-fern-farms-must-not-be-allowed-to-go-chinese.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/28/silver-fern-farms-must-not-be-allowed-to-go-chinese/index.html
+layout: layout.njk
 ---
 Silver Fern Farms Must Not Be Allowed to Go Chinese
 ===================================================

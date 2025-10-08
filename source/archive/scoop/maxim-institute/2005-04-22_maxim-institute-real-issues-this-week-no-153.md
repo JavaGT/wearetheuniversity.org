@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-this-week-no-153
-title: "Maxim Institute - real issues this week: No. 153"
-date: 2005-04-22
-source-url: https://www.scoop.co.nz/stories/PO0504/S00269/maxim-institute-real-issues-this-week-no-153.htm
+title: 'Maxim Institute - real issues this week: No. 153'
+date: 2005-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00269/maxim-institute-real-issues-this-week-no-153.htm
 author: maxim-institute
+permalink: /archive/2005/04/22/maxim-institute-real-issues-this-week-no-153/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues this week: No. 153
 ================================================

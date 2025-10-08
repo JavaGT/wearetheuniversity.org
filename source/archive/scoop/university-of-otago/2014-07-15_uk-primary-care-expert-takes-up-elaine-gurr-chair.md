@@ -1,9 +1,13 @@
 ---
 slug: uk-primary-care-expert-takes-up-elaine-gurr-chair
-title: "UK primary care expert takes up Elaine Gurr Chair"
-date: 2014-07-15
-source-url: https://www.scoop.co.nz/stories/ED1407/S00078/uk-primary-care-expert-takes-up-elaine-gurr-chair.htm
+title: UK primary care expert takes up Elaine Gurr Chair
+date: 2014-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00078/uk-primary-care-expert-takes-up-elaine-gurr-chair.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/15/uk-primary-care-expert-takes-up-elaine-gurr-chair/index.html
+layout: layout.njk
 ---
 UK primary care expert takes up Elaine Gurr Chair
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: philanthropist-to-receive-honorary-degree
-title: "Philanthropist to receive honorary degree"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/ED0608/S00048/philanthropist-to-receive-honorary-degree.htm
+title: Philanthropist to receive honorary degree
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00048/philanthropist-to-receive-honorary-degree.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/14/philanthropist-to-receive-honorary-degree/index.html
+layout: layout.njk
 ---
 Philanthropist to receive honorary degree
 =========================================

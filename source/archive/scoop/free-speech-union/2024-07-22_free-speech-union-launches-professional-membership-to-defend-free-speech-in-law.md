@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-launches-professional-membership-to-defend-free-speech-in-law
-title: "Free Speech Union Launches Professional Membership To Defend Free Speech In Law"
-date: 2024-07-22
-source-url: https://www.scoop.co.nz/stories/PO2407/S00126/free-speech-union-launches-professional-membership-to-defend-free-speech-in-law.htm
+slug: >-
+  free-speech-union-launches-professional-membership-to-defend-free-speech-in-law
+title: >-
+  Free Speech Union Launches Professional Membership To Defend Free Speech In
+  Law
+date: 2024-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00126/free-speech-union-launches-professional-membership-to-defend-free-speech-in-law.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/07/22/free-speech-union-launches-professional-membership-to-defend-free-speech-in-law/index.html
+layout: layout.njk
 ---
 Free Speech Union Launches Professional Membership To Defend Free Speech In Law
 ===============================================================================

@@ -1,9 +1,12 @@
 ---
 slug: arson-attack-at-kura-kaupapa-is-just-agony
-title: "Arson attack at Kura Kaupapa is just \"agony\""
-date: 2008-03-25
-source-url: https://www.scoop.co.nz/stories/PA0803/S00412/arson-attack-at-kura-kaupapa-is-just-agony.htm
+title: Arson attack at Kura Kaupapa is just "agony"
+date: 2008-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00412/arson-attack-at-kura-kaupapa-is-just-agony.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/03/25/arson-attack-at-kura-kaupapa-is-just-agony/index.html
+layout: layout.njk
 ---
 Arson attack at Kura Kaupapa is just “agony”
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: workers-to-get-a-better-fairer-deal-under-green-party
-title: "Workers to get a better, fairer deal under Green Party"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00019/workers-to-get-a-better-fairer-deal-under-green-party.htm
+title: Workers to get a better, fairer deal under Green Party
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00019/workers-to-get-a-better-fairer-deal-under-green-party.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/02/workers-to-get-a-better-fairer-deal-under-green-party/index.html
+layout: layout.njk
 ---
 Workers to get a better, fairer deal under Green Party
 ======================================================

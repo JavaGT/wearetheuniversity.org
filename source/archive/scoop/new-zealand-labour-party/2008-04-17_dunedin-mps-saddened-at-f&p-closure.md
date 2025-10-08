@@ -1,9 +1,12 @@
 ---
 slug: dunedin-mps-saddened-at-f&p-closure
-title: "Dunedin MPs saddened at F&P closure"
-date: 2008-04-17
-source-url: https://www.scoop.co.nz/stories/PA0804/S00455/dunedin-mps-saddened-at-fp-closure.htm
+title: Dunedin MPs saddened at F&P closure
+date: 2008-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00455/dunedin-mps-saddened-at-fp-closure.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/04/17/dunedin-mps-saddened-at-f/index.html
+layout: layout.njk
 ---
 Dunedin MPs saddened at F&P closure
 ===================================

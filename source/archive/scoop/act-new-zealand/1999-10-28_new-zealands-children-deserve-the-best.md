@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-children-deserve-the-best
-title: "New Zealand's Children Deserve The Best"
-date: 1999-10-28
-source-url: https://www.scoop.co.nz/stories/PA9910/S00643/new-zealands-children-deserve-the-best.htm
+title: New Zealand's Children Deserve The Best
+date: 1999-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00643/new-zealands-children-deserve-the-best.htm
 author: act-new-zealand
+permalink: /archive/1999/10/28/new-zealands-children-deserve-the-best/index.html
+layout: layout.njk
 ---
 New Zealand's Children Deserve The Best
 =======================================

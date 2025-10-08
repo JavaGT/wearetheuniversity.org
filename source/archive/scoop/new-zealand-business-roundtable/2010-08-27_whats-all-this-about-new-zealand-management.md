@@ -1,9 +1,12 @@
 ---
 slug: whats-all-this-about-new-zealand-management
-title: "What’s All This About New Zealand Management?"
-date: 2010-08-27
-source-url: https://www.scoop.co.nz/stories/BU1008/S00895/whats-all-this-about-new-zealand-management.htm
+title: What’s All This About New Zealand Management?
+date: 2010-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1008/S00895/whats-all-this-about-new-zealand-management.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/08/27/whats-all-this-about-new-zealand-management/index.html
+layout: layout.njk
 ---
 What’s All This About New Zealand Management?
 =============================================

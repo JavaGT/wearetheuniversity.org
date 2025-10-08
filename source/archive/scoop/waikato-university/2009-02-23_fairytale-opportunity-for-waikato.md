@@ -1,9 +1,12 @@
 ---
 slug: fairytale-opportunity-for-waikato
-title: "Fairytale opportunity for Waikato"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/ED0902/S00074/fairytale-opportunity-for-waikato.htm
+title: Fairytale opportunity for Waikato
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00074/fairytale-opportunity-for-waikato.htm
 author: waikato-university
+permalink: /archive/2009/02/23/fairytale-opportunity-for-waikato/index.html
+layout: layout.njk
 ---
 Fairytale opportunity for Waikato
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-boost-to-financial-support
-title: "Students welcome boost to financial support"
-date: 2017-11-21
-source-url: https://www.scoop.co.nz/stories/PO1711/S00236/students-welcome-boost-to-financial-support.htm
+title: Students welcome boost to financial support
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00236/students-welcome-boost-to-financial-support.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/11/21/students-welcome-boost-to-financial-support/index.html
+layout: layout.njk
 ---
 Students welcome boost to financial support
 ===========================================

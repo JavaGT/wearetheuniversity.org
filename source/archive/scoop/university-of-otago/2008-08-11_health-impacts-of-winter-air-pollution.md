@@ -1,9 +1,12 @@
 ---
 slug: health-impacts-of-winter-air-pollution
-title: "Health impacts of winter air pollution"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/GE0808/S00060/health-impacts-of-winter-air-pollution.htm
+title: Health impacts of winter air pollution
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00060/health-impacts-of-winter-air-pollution.htm
 author: university-of-otago
+permalink: /archive/2008/08/11/health-impacts-of-winter-air-pollution/index.html
+layout: layout.njk
 ---
 Health impacts of winter air pollution
 ======================================

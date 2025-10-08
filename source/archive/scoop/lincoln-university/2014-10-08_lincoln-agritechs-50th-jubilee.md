@@ -1,9 +1,12 @@
 ---
 slug: lincoln-agritechs-50th-jubilee
-title: "Lincoln Agritech’s 50th Jubilee"
-date: 2014-10-08
-source-url: https://www.scoop.co.nz/stories/SC1410/S00029/lincoln-agritechs-50th-jubilee.htm
+title: Lincoln Agritech’s 50th Jubilee
+date: 2014-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00029/lincoln-agritechs-50th-jubilee.htm
 author: lincoln-university
+permalink: /archive/2014/10/08/lincoln-agritechs-50th-jubilee/index.html
+layout: layout.njk
 ---
 Lincoln Agritech’s 50th Jubilee
 ===============================

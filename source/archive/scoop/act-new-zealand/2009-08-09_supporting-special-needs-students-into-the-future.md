@@ -1,9 +1,13 @@
 ---
 slug: supporting-special-needs-students-into-the-future
-title: "Supporting Special Needs Students Into The Future"
-date: 2009-08-09
-source-url: https://www.scoop.co.nz/stories/PA0908/S00125/supporting-special-needs-students-into-the-future.htm
+title: Supporting Special Needs Students Into The Future
+date: 2009-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00125/supporting-special-needs-students-into-the-future.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2009/08/09/supporting-special-needs-students-into-the-future/index.html
+layout: layout.njk
 ---
 Supporting Special Needs Students Into The Future
 =================================================

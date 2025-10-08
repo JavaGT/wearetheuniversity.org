@@ -1,9 +1,12 @@
 ---
 slug: governments-liquor-decisions-sensible
-title: "Government’s Liquor Decisions Sensible"
-date: 2010-08-23
-source-url: https://www.scoop.co.nz/stories/BU1008/S00694/governments-liquor-decisions-sensible.htm
+title: Government’s Liquor Decisions Sensible
+date: 2010-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1008/S00694/governments-liquor-decisions-sensible.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/08/23/governments-liquor-decisions-sensible/index.html
+layout: layout.njk
 ---
 Government’s Liquor Decisions Sensible
 ======================================

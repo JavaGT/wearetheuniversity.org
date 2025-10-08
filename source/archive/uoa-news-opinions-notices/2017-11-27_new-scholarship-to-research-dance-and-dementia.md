@@ -1,8 +1,11 @@
 ---
 slug: new-scholarship-to-research-dance-and-dementia
-title: "New scholarship to research dance and dementia"
-date: 2017-11-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/new-scholarship-to-research-dance-and-dementia.html
+title: New scholarship to research dance and dementia
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/new-scholarship-to-research-dance-and-dementia.html
+permalink: /archive/2017/11/27/new-scholarship-to-research-dance-and-dementia/index.html
+layout: layout.njk
 ---
 New scholarship to research dance and dementia
 ==============================================

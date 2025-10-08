@@ -1,9 +1,12 @@
 ---
 slug: give-parenting-back-to-parents
-title: "Give parenting back to parents"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/PA0406/S00052/give-parenting-back-to-parents.htm
+title: Give parenting back to parents
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00052/give-parenting-back-to-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/02/give-parenting-back-to-parents/index.html
+layout: layout.njk
 ---
 Give parenting back to parents
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: patience-called-for-at-massey
-title: "Patience called for at Massey"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/ED0005/S00036/patience-called-for-at-massey.htm
+title: Patience called for at Massey
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00036/patience-called-for-at-massey.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/26/patience-called-for-at-massey/index.html
+layout: layout.njk
 ---
 Patience called for at Massey
 =============================

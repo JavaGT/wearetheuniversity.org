@@ -1,9 +1,12 @@
 ---
 slug: ousa-announces-supreme-supervisors
-title: "OUSA Announces Supreme Supervisors"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/ED1208/S00014/ousa-announces-supreme-supervisors.htm
+title: OUSA Announces Supreme Supervisors
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00014/ousa-announces-supreme-supervisors.htm
 author: otago-university-students-association
+permalink: /archive/2012/08/02/ousa-announces-supreme-supervisors/index.html
+layout: layout.njk
 ---
 OUSA Announces Supreme Supervisors
 ==================================

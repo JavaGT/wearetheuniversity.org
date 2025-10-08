@@ -1,9 +1,12 @@
 ---
 slug: brownlee-sweeps-past-checks-and-balances
-title: "Brownlee sweeps past checks and balances"
-date: 2012-07-25
-source-url: https://www.scoop.co.nz/stories/PA1207/S00342/brownlee-sweeps-past-checks-and-balances.htm
+title: Brownlee sweeps past checks and balances
+date: 2012-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00342/brownlee-sweeps-past-checks-and-balances.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/25/brownlee-sweeps-past-checks-and-balances/index.html
+layout: layout.njk
 ---
 Brownlee sweeps past checks and balances
 ========================================

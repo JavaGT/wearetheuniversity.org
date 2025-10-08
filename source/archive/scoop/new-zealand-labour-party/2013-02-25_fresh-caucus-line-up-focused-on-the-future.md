@@ -1,9 +1,12 @@
 ---
 slug: fresh-caucus-line-up-focused-on-the-future
-title: "Fresh caucus line-up focused on the future"
-date: 2013-02-25
-source-url: https://www.scoop.co.nz/stories/PA1302/S00371/fresh-caucus-line-up-focused-on-the-future.htm
+title: Fresh caucus line-up focused on the future
+date: 2013-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00371/fresh-caucus-line-up-focused-on-the-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/25/fresh-caucus-line-up-focused-on-the-future/index.html
+layout: layout.njk
 ---
 Fresh caucus line-up focused on the future
 ==========================================

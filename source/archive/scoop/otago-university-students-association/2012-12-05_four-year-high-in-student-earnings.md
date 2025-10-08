@@ -1,9 +1,12 @@
 ---
 slug: four-year-high-in-student-earnings
-title: "Four year high in student earnings"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/PO1212/S00054/four-year-high-in-student-earnings.htm
+title: Four year high in student earnings
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1212/S00054/four-year-high-in-student-earnings.htm
 author: otago-university-students-association
+permalink: /archive/2012/12/05/four-year-high-in-student-earnings/index.html
+layout: layout.njk
 ---
 Four year high in student earnings
 ==================================

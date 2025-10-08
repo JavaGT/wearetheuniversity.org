@@ -1,9 +1,12 @@
 ---
 slug: tertiary-changes-require-greater-investment
-title: "Tertiary Changes Require Greater Investment"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/ED0607/S00091/tertiary-changes-require-greater-investment.htm
+title: Tertiary Changes Require Greater Investment
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00091/tertiary-changes-require-greater-investment.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/07/28/tertiary-changes-require-greater-investment/index.html
+layout: layout.njk
 ---
 Tertiary Changes Require Greater Investment
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: online-learning-wave-of-the-future
-title: "Online learning Wave Of The Future"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00136/online-learning-wave-of-the-future.htm
+title: Online learning Wave Of The Future
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00136/online-learning-wave-of-the-future.htm
 author: waikato-university
+permalink: /archive/2004/09/30/online-learning-wave-of-the-future/index.html
+layout: layout.njk
 ---
 Online learning Wave Of The Future
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: university-welcomes-students-with-live-musical-performance
-title: "University Welcomes Students With Live Musical Performance"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/WO1202/S00434/university-welcomes-students-with-live-musical-performance.htm
+title: University Welcomes Students With Live Musical Performance
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00434/university-welcomes-students-with-live-musical-performance.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2012/02/16/university-welcomes-students-with-live-musical-performance/index.html
+layout: layout.njk
 ---
 University Welcomes Students With Live Musical Performance
 ==========================================================

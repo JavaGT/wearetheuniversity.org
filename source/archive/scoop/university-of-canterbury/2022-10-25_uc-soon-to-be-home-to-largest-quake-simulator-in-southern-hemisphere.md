@@ -1,9 +1,13 @@
 ---
 slug: uc-soon-to-be-home-to-largest-quake-simulator-in-southern-hemisphere
-title: "UC Soon To Be Home To Largest Quake Simulator In Southern Hemisphere"
-date: 2022-10-25
-source-url: https://www.scoop.co.nz/stories/SC2210/S00045/uc-soon-to-be-home-to-largest-quake-simulator-in-southern-hemisphere.htm
+title: UC Soon To Be Home To Largest Quake Simulator In Southern Hemisphere
+date: 2022-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00045/uc-soon-to-be-home-to-largest-quake-simulator-in-southern-hemisphere.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/25/uc-soon-to-be-home-to-largest-quake-simulator-in-southern-hemisphere/index.html
+layout: layout.njk
 ---
 UC Soon To Be Home To Largest Quake Simulator In Southern Hemisphere
 ====================================================================

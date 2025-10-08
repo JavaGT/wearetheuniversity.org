@@ -1,9 +1,12 @@
 ---
-slug: nominations-sought-for-$60000-prize
-title: "Nominations sought for $60,000 prize"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00065/nominations-sought-for-60000-prize.htm
+slug: nominations-sought-for--2$60000-prize
+title: Nominations sought for $60,000 prize
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00065/nominations-sought-for-60000-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/21/nominations-sought-for--2/index.html
+layout: layout.njk
 ---
 Nominations sought for $60,000 prize
 ====================================

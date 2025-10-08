@@ -1,9 +1,12 @@
 ---
 slug: government-drops-the-ball-aussies-score-again
-title: "Government Drops The Ball, Aussies Score Again"
-date: 2021-04-28
-source-url: https://www.scoop.co.nz/stories/PA2104/S00177/government-drops-the-ball-aussies-score-again.htm
+title: Government Drops The Ball, Aussies Score Again
+date: 2021-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00177/government-drops-the-ball-aussies-score-again.htm
 author: act-new-zealand
+permalink: /archive/2021/04/28/government-drops-the-ball-aussies-score-again/index.html
+layout: layout.njk
 ---
 Government Drops The Ball, Aussies Score Again
 ==============================================

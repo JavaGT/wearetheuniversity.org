@@ -1,9 +1,12 @@
 ---
 slug: what-if-we-all-drove-electric-vehicles
-title: "What If we all Drove Electric Vehicles?"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/SC1505/S00079/what-if-we-all-drove-electric-vehicles.htm
+title: What If we all Drove Electric Vehicles?
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00079/what-if-we-all-drove-electric-vehicles.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/25/what-if-we-all-drove-electric-vehicles/index.html
+layout: layout.njk
 ---
 What If we all Drove Electric Vehicles?
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: bmw-car-designer-to-reveal-clay-techniques-in-nz
-title: "BMW car designer to reveal clay techniques in NZ"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/ED0903/S00039/bmw-car-designer-to-reveal-clay-techniques-in-nz.htm
+title: BMW car designer to reveal clay techniques in NZ
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00039/bmw-car-designer-to-reveal-clay-techniques-in-nz.htm
 author: massey-university
+permalink: >-
+  /archive/2009/03/12/bmw-car-designer-to-reveal-clay-techniques-in-nz/index.html
+layout: layout.njk
 ---
 BMW car designer to reveal clay techniques in NZ
 ================================================

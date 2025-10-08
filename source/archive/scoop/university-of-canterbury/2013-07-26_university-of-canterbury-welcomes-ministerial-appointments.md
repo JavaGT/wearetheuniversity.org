@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-welcomes-ministerial-appointments
-title: "University of Canterbury welcomes Ministerial appointments"
-date: 2013-07-26
-source-url: https://www.scoop.co.nz/stories/ED1307/S00142/university-of-canterbury-welcomes-ministerial-appointments.htm
+title: University of Canterbury welcomes Ministerial appointments
+date: 2013-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00142/university-of-canterbury-welcomes-ministerial-appointments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/26/university-of-canterbury-welcomes-ministerial-appointments/index.html
+layout: layout.njk
 ---
 University of Canterbury welcomes Ministerial appointments
 ==========================================================

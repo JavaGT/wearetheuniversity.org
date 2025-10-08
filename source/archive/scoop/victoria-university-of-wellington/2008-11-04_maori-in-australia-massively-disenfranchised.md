@@ -1,9 +1,12 @@
 ---
 slug: maori-in-australia-massively-disenfranchised
-title: "Maori in Australia massively disenfranchised"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/PO0811/S00047/maori-in-australia-massively-disenfranchised.htm
+title: Maori in Australia massively disenfranchised
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00047/maori-in-australia-massively-disenfranchised.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/11/04/maori-in-australia-massively-disenfranchised/index.html
+layout: layout.njk
 ---
 Maori in Australia massively disenfranchised
 ============================================

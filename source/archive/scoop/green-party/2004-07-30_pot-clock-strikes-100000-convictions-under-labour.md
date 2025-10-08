@@ -1,9 +1,13 @@
 ---
 slug: pot-clock-strikes-100000-convictions-under-labour
-title: "Pot clock strikes 100,000 convictions under Labour"
-date: 2004-07-30
-source-url: https://www.scoop.co.nz/stories/PA0407/S00538/pot-clock-strikes-100000-convictions-under-labour.htm
+title: Pot clock strikes 100,000 convictions under Labour
+date: 2004-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00538/pot-clock-strikes-100000-convictions-under-labour.htm
 author: green-party
+permalink: >-
+  /archive/2004/07/30/pot-clock-strikes-100000-convictions-under-labour/index.html
+layout: layout.njk
 ---
 Pot clock strikes 100,000 convictions under Labour
 ==================================================

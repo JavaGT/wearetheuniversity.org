@@ -1,9 +1,11 @@
 ---
 slug: the-skys-the-limit
-title: "The sky’s the limit"
-date: 2014-04-23
+title: The sky’s the limit
+date: 2014-04-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1404/S00080/the-skys-the-limit.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/23/the-skys-the-limit/index.html
+layout: layout.njk
 ---
 The sky’s the limit
 ===================

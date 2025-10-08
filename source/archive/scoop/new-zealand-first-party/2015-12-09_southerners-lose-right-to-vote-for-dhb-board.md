@@ -1,9 +1,12 @@
 ---
 slug: southerners-lose-right-to-vote-for-dhb-board
-title: "Southerners Lose Right to Vote for DHB Board"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/PA1512/S00203/southerners-lose-right-to-vote-for-dhb-board.htm
+title: Southerners Lose Right to Vote for DHB Board
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00203/southerners-lose-right-to-vote-for-dhb-board.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/09/southerners-lose-right-to-vote-for-dhb-board/index.html
+layout: layout.njk
 ---
 Southerners Lose Right to Vote for DHB Board
 ============================================

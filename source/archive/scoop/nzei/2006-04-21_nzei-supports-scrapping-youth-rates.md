@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-scrapping-youth-rates
-title: "NZEI Supports Scrapping Youth Rates"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/ED0604/S00073/nzei-supports-scrapping-youth-rates.htm
+title: NZEI Supports Scrapping Youth Rates
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00073/nzei-supports-scrapping-youth-rates.htm
 author: nzei
+permalink: /archive/2006/04/21/nzei-supports-scrapping-youth-rates/index.html
+layout: layout.njk
 ---
 NZEI Supports Scrapping Youth Rates
 ===================================

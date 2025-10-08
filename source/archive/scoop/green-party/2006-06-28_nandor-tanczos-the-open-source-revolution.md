@@ -1,9 +1,12 @@
 ---
 slug: nandor-tanczos-the-open-source-revolution
-title: "Nandor Tanczos – The Open Source Revolution"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/PA0606/S00555/nandor-tanczos-the-open-source-revolution.htm
+title: Nandor Tanczos – The Open Source Revolution
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00555/nandor-tanczos-the-open-source-revolution.htm
 author: green-party
+permalink: /archive/2006/06/28/nandor-tanczos-the-open-source-revolution/index.html
+layout: layout.njk
 ---
 Nandor Tanczos – The Open Source Revolution
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-qian-xun-thousands-search
-title: "Pansy Speak: Qian Xun – Thousands Search"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PA0709/S00392/pansy-speak-qian-xun-thousands-search.htm
+title: 'Pansy Speak: Qian Xun – Thousands Search'
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00392/pansy-speak-qian-xun-thousands-search.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/21/pansy-speak-qian-xun-thousands-search/index.html
+layout: layout.njk
 ---
 Pansy Speak: Qian Xun – Thousands Search
 ========================================

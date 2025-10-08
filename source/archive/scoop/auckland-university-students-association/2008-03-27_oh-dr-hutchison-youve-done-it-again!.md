@@ -1,9 +1,12 @@
 ---
 slug: oh-dr-hutchison-youve-done-it-again!
-title: "Oh Dr Hutchison, you’ve done it again!"
-date: 2008-03-27
-source-url: https://www.scoop.co.nz/stories/ED0803/S00067/oh-dr-hutchison-youve-done-it-again.htm
+title: Oh Dr Hutchison, you’ve done it again!
+date: 2008-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00067/oh-dr-hutchison-youve-done-it-again.htm
 author: auckland-university-students-association
+permalink: /archive/2008/03/27/oh-dr-hutchison-youve-done-it-again/index.html
+layout: layout.njk
 ---
 Oh Dr Hutchison, you’ve done it again!
 ======================================

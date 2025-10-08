@@ -1,9 +1,13 @@
 ---
 slug: joyce-ignored-warnings-on-dodgy-foreign-student-visas
-title: "Joyce Ignored Warnings on Dodgy Foreign Student Visas"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PA1606/S00385/joyce-ignored-warnings-on-dodgy-foreign-student-visas.htm
+title: Joyce Ignored Warnings on Dodgy Foreign Student Visas
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00385/joyce-ignored-warnings-on-dodgy-foreign-student-visas.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/22/joyce-ignored-warnings-on-dodgy-foreign-student-visas/index.html
+layout: layout.njk
 ---
 Joyce Ignored Warnings on Dodgy Foreign Student Visas
 =====================================================

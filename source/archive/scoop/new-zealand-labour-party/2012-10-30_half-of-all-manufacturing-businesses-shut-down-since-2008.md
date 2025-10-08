@@ -1,9 +1,13 @@
 ---
 slug: half-of-all-manufacturing-businesses-shut-down-since-2008
-title: "Half of all manufacturing businesses shut down since 2008"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/PA1210/S00511/half-of-all-manufacturing-businesses-shut-down-since-2008.htm
+title: Half of all manufacturing businesses shut down since 2008
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00511/half-of-all-manufacturing-businesses-shut-down-since-2008.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/30/half-of-all-manufacturing-businesses-shut-down-since-2008/index.html
+layout: layout.njk
 ---
 Half of all manufacturing businesses shut down since 2008
 =========================================================

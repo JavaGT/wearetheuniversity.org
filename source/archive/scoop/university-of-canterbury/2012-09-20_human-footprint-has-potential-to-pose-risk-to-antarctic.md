@@ -1,9 +1,13 @@
 ---
 slug: human-footprint-has-potential-to-pose-risk-to-antarctic
-title: "Human footprint has potential to pose risk to Antarctic"
-date: 2012-09-20
-source-url: https://www.scoop.co.nz/stories/SC1209/S00040/human-footprint-has-potential-to-pose-risk-to-antarctic.htm
+title: Human footprint has potential to pose risk to Antarctic
+date: 2012-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00040/human-footprint-has-potential-to-pose-risk-to-antarctic.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/20/human-footprint-has-potential-to-pose-risk-to-antarctic/index.html
+layout: layout.njk
 ---
 Human footprint has potential to pose risk to Antarctic
 =======================================================

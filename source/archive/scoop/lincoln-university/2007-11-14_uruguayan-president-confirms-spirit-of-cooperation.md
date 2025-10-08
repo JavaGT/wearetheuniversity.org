@@ -1,9 +1,13 @@
 ---
 slug: uruguayan-president-confirms-spirit-of-cooperation
-title: "Uruguayan President confirms spirit of cooperation"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/SC0711/S00042/uruguayan-president-confirms-spirit-of-cooperation.htm
+title: Uruguayan President confirms spirit of cooperation
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00042/uruguayan-president-confirms-spirit-of-cooperation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/11/14/uruguayan-president-confirms-spirit-of-cooperation/index.html
+layout: layout.njk
 ---
 Uruguayan President confirms spirit of cooperation
 ==================================================

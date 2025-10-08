@@ -1,9 +1,12 @@
 ---
 slug: tough-stance-needed-for-parents-of-truants
-title: "Tough stance needed for parents of truants"
-date: 2007-03-07
-source-url: https://www.scoop.co.nz/stories/PA0703/S00110/tough-stance-needed-for-parents-of-truants.htm
+title: Tough stance needed for parents of truants
+date: 2007-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00110/tough-stance-needed-for-parents-of-truants.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/07/tough-stance-needed-for-parents-of-truants/index.html
+layout: layout.njk
 ---
 Tough stance needed for parents of truants
 ==========================================

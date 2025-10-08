@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-on-the-bow-wave-of-global-change
-title: "New Zealand on the bow wave of global change"
-date: 2014-12-18
-source-url: https://www.scoop.co.nz/stories/SC1412/S00056/new-zealand-on-the-bow-wave-of-global-change.htm
+title: New Zealand on the bow wave of global change
+date: 2014-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00056/new-zealand-on-the-bow-wave-of-global-change.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/18/new-zealand-on-the-bow-wave-of-global-change/index.html
+layout: layout.njk
 ---
 New Zealand on the bow wave of global change
 ============================================

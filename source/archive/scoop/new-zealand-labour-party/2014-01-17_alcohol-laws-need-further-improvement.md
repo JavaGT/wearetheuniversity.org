@@ -1,9 +1,12 @@
 ---
 slug: alcohol-laws-need-further-improvement
-title: "Alcohol laws need further improvement"
-date: 2014-01-17
-source-url: https://www.scoop.co.nz/stories/PA1401/S00067/alcohol-laws-need-further-improvement.htm
+title: Alcohol laws need further improvement
+date: 2014-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00067/alcohol-laws-need-further-improvement.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/17/alcohol-laws-need-further-improvement/index.html
+layout: layout.njk
 ---
 Alcohol laws need further improvement
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-engineering-students-tramp-3000km-in-100-days
-title: "Waikato engineering students tramp 3000km in 100 days"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/CU1403/S00319/waikato-engineering-students-tramp-3000km-in-100-days.htm
+title: Waikato engineering students tramp 3000km in 100 days
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00319/waikato-engineering-students-tramp-3000km-in-100-days.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/17/waikato-engineering-students-tramp-3000km-in-100-days/index.html
+layout: layout.njk
 ---
 Waikato engineering students tramp 3000km in 100 days
 =====================================================

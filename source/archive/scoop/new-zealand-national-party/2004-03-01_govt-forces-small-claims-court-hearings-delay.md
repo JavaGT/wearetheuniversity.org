@@ -1,9 +1,12 @@
 ---
 slug: govt-forces-small-claims-court-hearings-delay
-title: "Govt forces Small Claims Court hearings delay"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/PA0403/S00005/govt-forces-small-claims-court-hearings-delay.htm
+title: Govt forces Small Claims Court hearings delay
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00005/govt-forces-small-claims-court-hearings-delay.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/01/govt-forces-small-claims-court-hearings-delay/index.html
+layout: layout.njk
 ---
 Govt forces Small Claims Court hearings delay
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: inequalities-of-ies-exposed
-title: "Inequalities of IES exposed"
-date: 2015-03-23
+title: Inequalities of IES exposed
+date: 2015-03-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1503/S00263/inequalities-of-ies-exposed.htm
 author: nzei
+permalink: /archive/2015/03/23/inequalities-of-ies-exposed/index.html
+layout: layout.njk
 ---
 Inequalities of IES exposed
 ===========================

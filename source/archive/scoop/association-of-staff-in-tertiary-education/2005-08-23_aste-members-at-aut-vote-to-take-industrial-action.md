@@ -1,9 +1,13 @@
 ---
 slug: aste-members-at-aut-vote-to-take-industrial-action
-title: "ASTE Members at AUT Vote to take Industrial Action"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/ED0508/S00097/aste-members-at-aut-vote-to-take-industrial-action.htm
+title: ASTE Members at AUT Vote to take Industrial Action
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00097/aste-members-at-aut-vote-to-take-industrial-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2005/08/23/aste-members-at-aut-vote-to-take-industrial-action/index.html
+layout: layout.njk
 ---
 ASTE Members at AUT Vote to take Industrial Action
 ==================================================

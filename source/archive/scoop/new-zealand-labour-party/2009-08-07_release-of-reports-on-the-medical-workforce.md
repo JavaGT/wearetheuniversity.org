@@ -1,9 +1,12 @@
 ---
 slug: release-of-reports-on-the-medical-workforce
-title: "Release of reports on the medical workforce"
-date: 2009-08-07
-source-url: https://www.scoop.co.nz/stories/PA0908/S00103/release-of-reports-on-the-medical-workforce.htm
+title: Release of reports on the medical workforce
+date: 2009-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00103/release-of-reports-on-the-medical-workforce.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/07/release-of-reports-on-the-medical-workforce/index.html
+layout: layout.njk
 ---
 Release of reports on the medical workforce
 ===========================================

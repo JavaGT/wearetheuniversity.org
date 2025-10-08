@@ -1,9 +1,13 @@
 ---
 slug: we-need-500000-houses-nick-smiths-reforms-arent-helping
-title: "We need 500,000 houses, Nick Smith’s reforms aren’t helping"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/PA1704/S00067/we-need-500000-houses-nick-smiths-reforms-arent-helping.htm
+title: We need 500,000 houses, Nick Smith’s reforms aren’t helping
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00067/we-need-500000-houses-nick-smiths-reforms-arent-helping.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/04/06/we-need-500000-houses-nick-smiths-reforms-arent-helping/index.html
+layout: layout.njk
 ---
 We need 500,000 houses, Nick Smith’s reforms aren’t helping
 ===========================================================

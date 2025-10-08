@@ -1,9 +1,11 @@
 ---
 slug: taewa-elusive-this-year
-title: "Taewa elusive this year"
-date: 2007-04-26
+title: Taewa elusive this year
+date: 2007-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0704/S00091/taewa-elusive-this-year.htm
 author: massey-university
+permalink: /archive/2007/04/26/taewa-elusive-this-year/index.html
+layout: layout.njk
 ---
 Taewa elusive this year
 =======================

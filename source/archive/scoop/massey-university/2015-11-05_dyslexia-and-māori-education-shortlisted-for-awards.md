@@ -1,9 +1,12 @@
 ---
 slug: dyslexia-and-māori-education-shortlisted-for-awards
-title: "Dyslexia and Māori education shortlisted for awards"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/ED1511/S00034/dyslexia-and-maori-education-shortlisted-for-awards.htm
+title: Dyslexia and Māori education shortlisted for awards
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00034/dyslexia-and-maori-education-shortlisted-for-awards.htm
 author: massey-university
+permalink: /archive/2015/11/05/dyslexia-and-m/index.html
+layout: layout.njk
 ---
 Dyslexia and Māori education shortlisted for awards
 ===================================================

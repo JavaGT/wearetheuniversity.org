@@ -1,9 +1,12 @@
 ---
 slug: maharey-fails-students-after-years-of-promises
-title: "Maharey fails students after years of promises"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00127/maharey-fails-students-after-years-of-promises.htm
+title: Maharey fails students after years of promises
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00127/maharey-fails-students-after-years-of-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/08/maharey-fails-students-after-years-of-promises/index.html
+layout: layout.njk
 ---
 Maharey fails students after years of promises
 ==============================================

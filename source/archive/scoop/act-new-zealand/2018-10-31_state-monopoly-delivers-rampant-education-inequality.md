@@ -1,9 +1,13 @@
 ---
 slug: state-monopoly-delivers-rampant-education-inequality
-title: "State monopoly delivers rampant education inequality"
-date: 2018-10-31
-source-url: https://www.scoop.co.nz/stories/PA1810/S00303/state-monopoly-delivers-rampant-education-inequality.htm
+title: State monopoly delivers rampant education inequality
+date: 2018-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00303/state-monopoly-delivers-rampant-education-inequality.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/10/31/state-monopoly-delivers-rampant-education-inequality/index.html
+layout: layout.njk
 ---
 State monopoly delivers rampant education inequality
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: critic-named-best-student-publication-once-again
-title: "Critic named Best Student Publication once again"
-date: 2006-10-09
-source-url: https://www.scoop.co.nz/stories/ED0610/S00028/critic-named-best-student-publication-once-again.htm
+title: Critic named Best Student Publication once again
+date: 2006-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00028/critic-named-best-student-publication-once-again.htm
 author: aotearoa-student-press-association
+permalink: >-
+  /archive/2006/10/09/critic-named-best-student-publication-once-again/index.html
+layout: layout.njk
 ---
 Critic named Best Student Publication once again
 ================================================

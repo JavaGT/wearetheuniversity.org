@@ -1,9 +1,12 @@
 ---
 slug: ongoing-trouble-regardless-of-teacher-vote
-title: "Ongoing Trouble Regardless Of Teacher Vote"
-date: 2002-06-10
-source-url: https://www.scoop.co.nz/stories/PA0206/S00108/ongoing-trouble-regardless-of-teacher-vote.htm
+title: Ongoing Trouble Regardless Of Teacher Vote
+date: 2002-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00108/ongoing-trouble-regardless-of-teacher-vote.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/10/ongoing-trouble-regardless-of-teacher-vote/index.html
+layout: layout.njk
 ---
 Ongoing Trouble Regardless Of Teacher Vote
 ==========================================

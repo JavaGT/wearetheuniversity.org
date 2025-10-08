@@ -1,9 +1,11 @@
 ---
 slug: who-does-the-unpaid-work
-title: "Who does the unpaid work?"
-date: 2006-04-26
+title: Who does the unpaid work?
+date: 2006-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0604/S00086/who-does-the-unpaid-work.htm
 author: massey-university
+permalink: /archive/2006/04/26/who-does-the-unpaid-work/index.html
+layout: layout.njk
 ---
 Who does the unpaid work?
 =========================

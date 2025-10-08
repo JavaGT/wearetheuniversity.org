@@ -1,9 +1,13 @@
 ---
 slug: kiwi-music-scholarship-launching-classical-stars-onto-the-global-stage
-title: "Kiwi Music Scholarship: Launching Classical Stars Onto The Global Stage"
-date: 2024-10-02
-source-url: https://www.scoop.co.nz/stories/CU2410/S00017/kiwi-music-scholarship-launching-classical-stars-onto-the-global-stage.htm
+title: 'Kiwi Music Scholarship: Launching Classical Stars Onto The Global Stage'
+date: 2024-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2410/S00017/kiwi-music-scholarship-launching-classical-stars-onto-the-global-stage.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/10/02/kiwi-music-scholarship-launching-classical-stars-onto-the-global-stage/index.html
+layout: layout.njk
 ---
 Kiwi Music Scholarship: Launching Classical Stars Onto The Global Stage
 =======================================================================

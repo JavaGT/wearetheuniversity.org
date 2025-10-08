@@ -1,9 +1,13 @@
 ---
 slug: ministry-of-health-renews-contract-for-ehi-programme
-title: "Ministry of Health renews contract for EHI programme"
-date: 2018-08-23
-source-url: https://www.scoop.co.nz/stories/GE1808/S00057/ministry-of-health-renews-contract-for-ehi-programme.htm
+title: Ministry of Health renews contract for EHI programme
+date: 2018-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00057/ministry-of-health-renews-contract-for-ehi-programme.htm
 author: massey-university
+permalink: >-
+  /archive/2018/08/23/ministry-of-health-renews-contract-for-ehi-programme/index.html
+layout: layout.njk
 ---
 Ministry of Health renews contract for EHI programme
 ====================================================

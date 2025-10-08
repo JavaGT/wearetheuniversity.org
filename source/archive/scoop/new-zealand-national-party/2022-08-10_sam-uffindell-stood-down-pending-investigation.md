@@ -1,9 +1,12 @@
 ---
 slug: sam-uffindell-stood-down-pending-investigation
-title: "Sam Uffindell Stood Down Pending Investigation"
-date: 2022-08-10
-source-url: https://www.scoop.co.nz/stories/PA2208/S00095/sam-uffindell-stood-down-pending-investigation.htm
+title: Sam Uffindell Stood Down Pending Investigation
+date: 2022-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00095/sam-uffindell-stood-down-pending-investigation.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/10/sam-uffindell-stood-down-pending-investigation/index.html
+layout: layout.njk
 ---
 Sam Uffindell Stood Down Pending Investigation
 ==============================================

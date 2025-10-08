@@ -1,9 +1,12 @@
 ---
 slug: english-must-resign-over-scf-mishandling
-title: "English must resign over SCF mishandling"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00061/english-must-resign-over-scf-mishandling.htm
+title: English must resign over SCF mishandling
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00061/english-must-resign-over-scf-mishandling.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/05/english-must-resign-over-scf-mishandling/index.html
+layout: layout.njk
 ---
 English must resign over SCF mishandling
 ========================================

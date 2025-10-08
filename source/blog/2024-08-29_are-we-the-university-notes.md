@@ -1,11 +1,21 @@
 ---
-title: Notes on Adam Cragie's 'Are We The University? A Rupture of the Political Opportunity Structure'
+layout: layout.njk
+title: >-
+  Notes on Adam Cragie's 'Are We The University? A Rupture of the Political
+  Opportunity Structure'
 slug: are-we-the-university-notes
-date: 2024-08-29
+date: 2024-08-29T00:00:00.000Z
 source: Adam Cragie (We Are The University)
 author: Java Grant
 author-slug: java-grant
 hidden: true
+permalink: /blog/2024/08/29/are-we-the-university-notes/index.html
+excerpt: >-
+  This is a summary/key highlights taken by Java of Adam Cragie's Master's
+  thesis. The thesis is subtitled "Analysis of We Are The University's
+  Experience" and was submitted in 2013. Key Questions A good key question: "Why
+  has a student protest movement finally emerged adter a decade of student
+  apathy?" 1...
 ---
 
 This is a summary/key highlights taken by Java of Adam Cragie's Master's thesis. The thesis is subtitled "Analysis of We Are The University's Experience" and was submitted in 2013.

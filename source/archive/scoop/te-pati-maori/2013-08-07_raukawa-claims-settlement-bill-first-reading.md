@@ -1,9 +1,12 @@
 ---
 slug: raukawa-claims-settlement-bill-first-reading
-title: "Raukawa Claims Settlement Bill – First Reading"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/PA1308/S00107/raukawa-claims-settlement-bill-first-reading.htm
+title: Raukawa Claims Settlement Bill – First Reading
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00107/raukawa-claims-settlement-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2013/08/07/raukawa-claims-settlement-bill-first-reading/index.html
+layout: layout.njk
 ---
 Raukawa Claims Settlement Bill – First Reading
 ==============================================

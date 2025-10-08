@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-128-16-september
-title: "Maxim Real Issues No. 128,   16 SEPTEMBER"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/PO0409/S00162/maxim-real-issues-no-128-16-september.htm
+title: Maxim Real Issues No. 128,   16 SEPTEMBER
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0409/S00162/maxim-real-issues-no-128-16-september.htm
 author: maxim-institute
+permalink: /archive/2004/09/17/maxim-real-issues-no-128-16-september/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 128, 16 SEPTEMBER
 =======================================

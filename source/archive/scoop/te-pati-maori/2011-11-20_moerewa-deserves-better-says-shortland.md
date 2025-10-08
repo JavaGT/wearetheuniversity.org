@@ -1,9 +1,12 @@
 ---
 slug: moerewa-deserves-better-says-shortland
-title: "Moerewa Deserves Better says Shortland"
-date: 2011-11-20
-source-url: https://www.scoop.co.nz/stories/PO1111/S00509/moerewa-deserves-better-says-shortland.htm
+title: Moerewa Deserves Better says Shortland
+date: 2011-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00509/moerewa-deserves-better-says-shortland.htm
 author: te-pati-maori
+permalink: /archive/2011/11/20/moerewa-deserves-better-says-shortland/index.html
+layout: layout.njk
 ---
 Moerewa Deserves Better says Shortland
 ======================================

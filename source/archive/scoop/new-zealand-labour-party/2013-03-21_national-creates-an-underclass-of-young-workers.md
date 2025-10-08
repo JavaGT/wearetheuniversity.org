@@ -1,9 +1,12 @@
 ---
 slug: national-creates-an-underclass-of-young-workers
-title: "National creates an underclass of young workers"
-date: 2013-03-21
-source-url: https://www.scoop.co.nz/stories/PA1303/S00390/national-creates-an-underclass-of-young-workers.htm
+title: National creates an underclass of young workers
+date: 2013-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00390/national-creates-an-underclass-of-young-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/21/national-creates-an-underclass-of-young-workers/index.html
+layout: layout.njk
 ---
 National creates an underclass of young workers
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: unions-help-denmark-prosper
-title: "Unions Help Denmark Prosper"
-date: 2003-09-10
+title: Unions Help Denmark Prosper
+date: 2003-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0309/S00093/unions-help-denmark-prosper.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/09/10/unions-help-denmark-prosper/index.html
+layout: layout.njk
 ---
 Unions Help Denmark Prosper
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: beach-safe-student-aims-to-predict-rips
-title: "Beach safe: Student aims to predict rips"
-date: 2009-02-02
-source-url: https://www.scoop.co.nz/stories/ED0902/S00005/beach-safe-student-aims-to-predict-rips.htm
+title: 'Beach safe: Student aims to predict rips'
+date: 2009-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00005/beach-safe-student-aims-to-predict-rips.htm
 author: university-of-waikato
+permalink: /archive/2009/02/02/beach-safe-student-aims-to-predict-rips/index.html
+layout: layout.njk
 ---
 Beach safe: Student aims to predict rips
 ========================================

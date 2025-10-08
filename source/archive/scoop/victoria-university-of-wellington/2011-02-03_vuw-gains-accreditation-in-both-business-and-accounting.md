@@ -1,9 +1,13 @@
 ---
 slug: vuw-gains-accreditation-in-both-business-and-accounting
-title: "VUW gains accreditation in both business and accounting"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/ED1102/S00011/vuw-gains-accreditation-in-both-business-and-accounting.htm
+title: VUW gains accreditation in both business and accounting
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00011/vuw-gains-accreditation-in-both-business-and-accounting.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/02/03/vuw-gains-accreditation-in-both-business-and-accounting/index.html
+layout: layout.njk
 ---
 VUW gains accreditation in both business and accounting
 =======================================================

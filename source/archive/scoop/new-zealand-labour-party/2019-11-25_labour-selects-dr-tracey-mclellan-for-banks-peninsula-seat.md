@@ -1,9 +1,13 @@
 ---
 slug: labour-selects-dr-tracey-mclellan-for-banks-peninsula-seat
-title: "Labour selects Dr Tracey McLellan for Banks Peninsula seat"
-date: 2019-11-25
-source-url: https://www.scoop.co.nz/stories/PO1911/S00308/labour-selects-dr-tracey-mclellan-for-banks-peninsula-seat.htm
+title: Labour selects Dr Tracey McLellan for Banks Peninsula seat
+date: 2019-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00308/labour-selects-dr-tracey-mclellan-for-banks-peninsula-seat.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/11/25/labour-selects-dr-tracey-mclellan-for-banks-peninsula-seat/index.html
+layout: layout.njk
 ---
 Labour selects Dr Tracey McLellan for Banks Peninsula seat
 ==========================================================

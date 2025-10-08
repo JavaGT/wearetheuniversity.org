@@ -1,9 +1,12 @@
 ---
 slug: major-literacy-conference-opens-in-auckland
-title: "Major Literacy Conference Opens in Auckland"
-date: 2000-05-18
-source-url: https://www.scoop.co.nz/stories/PA0005/S00417/major-literacy-conference-opens-in-auckland.htm
+title: Major Literacy Conference Opens in Auckland
+date: 2000-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00417/major-literacy-conference-opens-in-auckland.htm
 author: act-new-zealand
+permalink: /archive/2000/05/18/major-literacy-conference-opens-in-auckland/index.html
+layout: layout.njk
 ---
 Major Literacy Conference Opens in Auckland
 ===========================================

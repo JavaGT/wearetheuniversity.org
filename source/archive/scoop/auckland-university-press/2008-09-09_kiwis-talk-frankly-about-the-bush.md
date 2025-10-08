@@ -1,9 +1,12 @@
 ---
 slug: kiwis-talk-frankly-about-the-bush
-title: "Kiwis Talk Frankly About The Bush"
-date: 2008-09-09
-source-url: https://www.scoop.co.nz/stories/CU0809/S00114/kiwis-talk-frankly-about-the-bush.htm
+title: Kiwis Talk Frankly About The Bush
+date: 2008-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00114/kiwis-talk-frankly-about-the-bush.htm
 author: auckland-university-press
+permalink: /archive/2008/09/09/kiwis-talk-frankly-about-the-bush/index.html
+layout: layout.njk
 ---
 Kiwis Talk Frankly About The Bush
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: delivering-better-housing-for-new-zealanders
-title: "Delivering better housing for New Zealanders"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00364/delivering-better-housing-for-new-zealanders.htm
+title: Delivering better housing for New Zealanders
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00364/delivering-better-housing-for-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/24/delivering-better-housing-for-new-zealanders/index.html
+layout: layout.njk
 ---
 Delivering better housing for New Zealanders
 ============================================

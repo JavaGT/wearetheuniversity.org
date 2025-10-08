@@ -1,9 +1,12 @@
 ---
 slug: uc-advocates-preserving-opportunities
-title: "UC Advocates Preserving Opportunities"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/ED1008/S00045/uc-advocates-preserving-opportunities.htm
+title: UC Advocates Preserving Opportunities
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00045/uc-advocates-preserving-opportunities.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/10/uc-advocates-preserving-opportunities/index.html
+layout: layout.njk
 ---
 UC Advocates Preserving Opportunities
 =====================================

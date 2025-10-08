@@ -1,9 +1,13 @@
 ---
 slug: honorary-degrees-for-michael-cullen-trevor-scott
-title: "Honorary degrees for Michael Cullen, Trevor Scott"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/ED0912/S00025/honorary-degrees-for-michael-cullen-trevor-scott.htm
+title: Honorary degrees for Michael Cullen, Trevor Scott
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00025/honorary-degrees-for-michael-cullen-trevor-scott.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/12/09/honorary-degrees-for-michael-cullen-trevor-scott/index.html
+layout: layout.njk
 ---
 Honorary degrees for Michael Cullen, Trevor Scott
 =================================================

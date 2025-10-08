@@ -1,9 +1,12 @@
 ---
 slug: usps-bachelor-of-engineering-(civil)-programme-receives-wscuc-approval
-title: "USP’s Bachelor Of Engineering (Civil) Programme Receives WSCUC Approval"
-date: 2021-05-18
-source-url: https://www.scoop.co.nz/stories/ED2105/S00037/usps-bachelor-of-engineering-civil-programme-receives-wscuc-approval.htm
+title: USP’s Bachelor Of Engineering (Civil) Programme Receives WSCUC Approval
+date: 2021-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00037/usps-bachelor-of-engineering-civil-programme-receives-wscuc-approval.htm
 author: university-of-the-south-pacific
+permalink: /archive/2021/05/18/usps-bachelor-of-engineering-/index.html
+layout: layout.njk
 ---
 USP’s Bachelor Of Engineering (Civil) Programme Receives WSCUC Approval
 =======================================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-nationwide-study-of-listeria-in-mothers-and-babies
-title: "First nationwide study of listeria in mothers and babies"
-date: 2018-12-12
-source-url: https://www.scoop.co.nz/stories/GE1812/S00060/first-nationwide-study-of-listeria-in-mothers-and-babies.htm
+title: First nationwide study of listeria in mothers and babies
+date: 2018-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1812/S00060/first-nationwide-study-of-listeria-in-mothers-and-babies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/12/12/first-nationwide-study-of-listeria-in-mothers-and-babies/index.html
+layout: layout.njk
 ---
 First nationwide study of listeria in mothers and babies
 ========================================================

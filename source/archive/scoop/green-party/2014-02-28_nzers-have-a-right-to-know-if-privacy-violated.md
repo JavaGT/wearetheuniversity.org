@@ -1,9 +1,12 @@
 ---
 slug: nzers-have-a-right-to-know-if-privacy-violated
-title: "NZers have a right to know if privacy violated"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/PA1402/S00406/nzers-have-a-right-to-know-if-privacy-violated.htm
+title: NZers have a right to know if privacy violated
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00406/nzers-have-a-right-to-know-if-privacy-violated.htm
 author: green-party
+permalink: /archive/2014/02/28/nzers-have-a-right-to-know-if-privacy-violated/index.html
+layout: layout.njk
 ---
 NZers have a right to know if privacy violated
 ==============================================

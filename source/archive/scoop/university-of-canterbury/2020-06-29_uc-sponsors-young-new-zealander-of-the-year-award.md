@@ -1,9 +1,13 @@
 ---
 slug: uc-sponsors-young-new-zealander-of-the-year-award
-title: "UC Sponsors Young New Zealander Of The Year Award"
-date: 2020-06-29
-source-url: https://www.scoop.co.nz/stories/CU2006/S00191/uc-sponsors-young-new-zealander-of-the-year-award.htm
+title: UC Sponsors Young New Zealander Of The Year Award
+date: 2020-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2006/S00191/uc-sponsors-young-new-zealander-of-the-year-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/29/uc-sponsors-young-new-zealander-of-the-year-award/index.html
+layout: layout.njk
 ---
 UC Sponsors Young New Zealander Of The Year Award
 =================================================

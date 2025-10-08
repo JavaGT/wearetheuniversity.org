@@ -1,9 +1,12 @@
 ---
 slug: act-letter-to-editor-otago-daily-times
-title: "ACT Letter to Editor Otago Daily Times"
-date: 2000-10-12
-source-url: https://www.scoop.co.nz/stories/PA0010/S00261/act-letter-to-editor-otago-daily-times.htm
+title: ACT Letter to Editor Otago Daily Times
+date: 2000-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00261/act-letter-to-editor-otago-daily-times.htm
 author: act-new-zealand
+permalink: /archive/2000/10/12/act-letter-to-editor-otago-daily-times/index.html
+layout: layout.njk
 ---
 ACT Letter to Editor Otago Daily Times
 ======================================

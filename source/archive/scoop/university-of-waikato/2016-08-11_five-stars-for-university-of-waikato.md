@@ -1,9 +1,12 @@
 ---
 slug: five-stars-for-university-of-waikato
-title: "Five stars for University of Waikato"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/ED1608/S00022/five-stars-for-university-of-waikato.htm
+title: Five stars for University of Waikato
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00022/five-stars-for-university-of-waikato.htm
 author: university-of-waikato
+permalink: /archive/2016/08/11/five-stars-for-university-of-waikato/index.html
+layout: layout.njk
 ---
 Five stars for University of Waikato
 ====================================

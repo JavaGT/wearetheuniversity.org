@@ -1,9 +1,12 @@
 ---
 slug: terrifying-young-children-unacceptable-carter
-title: "Terrifying Young Children Unacceptable - Carter"
-date: 2002-10-28
-source-url: https://www.scoop.co.nz/stories/PA0210/S00550/terrifying-young-children-unacceptable-carter.htm
+title: Terrifying Young Children Unacceptable - Carter
+date: 2002-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00550/terrifying-young-children-unacceptable-carter.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/10/28/terrifying-young-children-unacceptable-carter/index.html
+layout: layout.njk
 ---
 Terrifying Young Children Unacceptable - Carter
 ===============================================

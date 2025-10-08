@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-kiwis-to-send-a-message-to-helen
-title: "Greens urge Kiwis to send a message to Helen"
-date: 2005-07-13
-source-url: https://www.scoop.co.nz/stories/PA0507/S00267/greens-urge-kiwis-to-send-a-message-to-helen.htm
+title: Greens urge Kiwis to send a message to Helen
+date: 2005-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00267/greens-urge-kiwis-to-send-a-message-to-helen.htm
 author: green-party
+permalink: /archive/2005/07/13/greens-urge-kiwis-to-send-a-message-to-helen/index.html
+layout: layout.njk
 ---
 Greens urge Kiwis to send a message to Helen
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: many-chch-quake-survivors-avoided-post-traumatic-stress
-title: "Many Chch quake survivors avoided post-traumatic stress"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/GE1309/S00090/many-chch-quake-survivors-avoided-post-traumatic-stress.htm
+title: Many Chch quake survivors avoided post-traumatic stress
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00090/many-chch-quake-survivors-avoided-post-traumatic-stress.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/18/many-chch-quake-survivors-avoided-post-traumatic-stress/index.html
+layout: layout.njk
 ---
 Many Chch quake survivors avoided post-traumatic stress
 =======================================================

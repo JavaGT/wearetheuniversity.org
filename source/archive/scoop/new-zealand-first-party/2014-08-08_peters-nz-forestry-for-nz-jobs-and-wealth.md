@@ -1,9 +1,12 @@
 ---
 slug: peters-nz-forestry-for-nz-jobs-and-wealth
-title: "Peters: NZ Forestry for NZ Jobs and Wealth"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/PA1408/S00152/peters-nz-forestry-for-nz-jobs-and-wealth.htm
+title: 'Peters: NZ Forestry for NZ Jobs and Wealth'
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00152/peters-nz-forestry-for-nz-jobs-and-wealth.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/08/peters-nz-forestry-for-nz-jobs-and-wealth/index.html
+layout: layout.njk
 ---
 Peters: NZ Forestry for NZ Jobs and Wealth
 ==========================================

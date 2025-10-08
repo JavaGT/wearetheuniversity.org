@@ -1,9 +1,13 @@
 ---
 slug: the-politics-of-evidence-assessment-under-the-spotlight
-title: "The politics of evidence assessment under the spotlight"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/ED1405/S00059/the-politics-of-evidence-assessment-under-the-spotlight.htm
+title: The politics of evidence assessment under the spotlight
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00059/the-politics-of-evidence-assessment-under-the-spotlight.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/12/the-politics-of-evidence-assessment-under-the-spotlight/index.html
+layout: layout.njk
 ---
 The politics of evidence assessment under the spotlight
 =======================================================

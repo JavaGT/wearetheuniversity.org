@@ -1,9 +1,12 @@
 ---
 slug: labour-deceiving-elderly-says-peters
-title: "Labour Deceiving Elderly Says Peters"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/PA0504/S00235/labour-deceiving-elderly-says-peters.htm
+title: Labour Deceiving Elderly Says Peters
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00235/labour-deceiving-elderly-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/12/labour-deceiving-elderly-says-peters/index.html
+layout: layout.njk
 ---
 Labour Deceiving Elderly Says Peters
 ====================================

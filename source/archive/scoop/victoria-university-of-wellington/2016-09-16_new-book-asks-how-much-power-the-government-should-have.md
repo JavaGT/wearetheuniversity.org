@@ -1,9 +1,13 @@
 ---
 slug: new-book-asks-how-much-power-the-government-should-have
-title: "New book asks how much power the government should have"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/PO1609/S00205/new-book-asks-how-much-power-the-government-should-have.htm
+title: New book asks how much power the government should have
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00205/new-book-asks-how-much-power-the-government-should-have.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/16/new-book-asks-how-much-power-the-government-should-have/index.html
+layout: layout.njk
 ---
 New book asks how much power the government should have
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: bill-english-speech-treaty-grows-another-leg
-title: "Bill English Speech: \"Treaty Grows Another Leg\""
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00441/bill-english-speech-treaty-grows-another-leg.htm
+title: 'Bill English Speech: "Treaty Grows Another Leg"'
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00441/bill-english-speech-treaty-grows-another-leg.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/25/bill-english-speech-treaty-grows-another-leg/index.html
+layout: layout.njk
 ---
 Bill English Speech: \"Treaty Grows Another Leg"
 ===============================================

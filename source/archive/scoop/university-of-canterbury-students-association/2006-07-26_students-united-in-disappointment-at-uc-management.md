@@ -1,9 +1,13 @@
 ---
 slug: students-united-in-disappointment-at-uc-management
-title: "Students united in disappointment at UC Management"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/ED0607/S00080/students-united-in-disappointment-at-uc-management.htm
+title: Students united in disappointment at UC Management
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00080/students-united-in-disappointment-at-uc-management.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2006/07/26/students-united-in-disappointment-at-uc-management/index.html
+layout: layout.njk
 ---
 Students united in disappointment at UC Management
 ==================================================

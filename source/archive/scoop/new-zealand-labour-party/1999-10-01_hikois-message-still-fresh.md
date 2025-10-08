@@ -1,9 +1,11 @@
 ---
 slug: hikois-message-still-fresh
-title: "Hikoi's message still fresh"
-date: 1999-10-01
+title: Hikoi's message still fresh
+date: 1999-10-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00001/hikois-message-still-fresh.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/01/hikois-message-still-fresh/index.html
+layout: layout.njk
 ---
 Hikoi's message still fresh
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: speech-simon-bridges-our-priorities-for-nz-families
-title: "SPEECH: Simon Bridges - Our priorities for NZ families"
-date: 2018-11-26
-source-url: https://www.scoop.co.nz/stories/PA1811/S00255/speech-simon-bridges-our-priorities-for-nz-families.htm
+title: 'SPEECH: Simon Bridges - Our priorities for NZ families'
+date: 2018-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00255/speech-simon-bridges-our-priorities-for-nz-families.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/26/speech-simon-bridges-our-priorities-for-nz-families/index.html
+layout: layout.njk
 ---
 SPEECH: Simon Bridges - Our priorities for NZ families
 ======================================================

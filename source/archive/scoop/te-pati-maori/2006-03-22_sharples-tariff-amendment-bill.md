@@ -1,9 +1,12 @@
 ---
 slug: sharples-tariff-amendment-bill
-title: "Sharples: Tariff Amendment Bill"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/PA0603/S00373/sharples-tariff-amendment-bill.htm
+title: 'Sharples: Tariff Amendment Bill'
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00373/sharples-tariff-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/22/sharples-tariff-amendment-bill/index.html
+layout: layout.njk
 ---
 Sharples: Tariff Amendment Bill
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: green-mp-to-speak-on-anniversary-of-nuclear-weapons-decision
-title: "Green MP to speak on anniversary of nuclear weapons decision"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00130/green-mp-to-speak-on-anniversary-of-nuclear-weapons-decision.htm
+title: Green MP to speak on anniversary of nuclear weapons decision
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00130/green-mp-to-speak-on-anniversary-of-nuclear-weapons-decision.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/07/green-mp-to-speak-on-anniversary-of-nuclear-weapons-decision/index.html
+layout: layout.njk
 ---
 Green MP to speak on anniversary of nuclear weapons decision
 ============================================================

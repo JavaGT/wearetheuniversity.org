@@ -1,9 +1,13 @@
 ---
 slug: sweet-potato-weaning-food-to-improve-infant-nutrition
-title: "Sweet potato weaning food to improve infant nutrition"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00176/sweet-potato-weaning-food-to-improve-infant-nutrition.htm
+title: Sweet potato weaning food to improve infant nutrition
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00176/sweet-potato-weaning-food-to-improve-infant-nutrition.htm
 author: massey-university
+permalink: >-
+  /archive/2013/03/26/sweet-potato-weaning-food-to-improve-infant-nutrition/index.html
+layout: layout.njk
 ---
 Sweet potato weaning food to improve infant nutrition
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: fenton-bill-for-redundancy-protections-drawn
-title: "Fenton Bill for redundancy protections drawn"
-date: 2009-08-05
-source-url: https://www.scoop.co.nz/stories/PA0908/S00056/fenton-bill-for-redundancy-protections-drawn.htm
+title: Fenton Bill for redundancy protections drawn
+date: 2009-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00056/fenton-bill-for-redundancy-protections-drawn.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/05/fenton-bill-for-redundancy-protections-drawn/index.html
+layout: layout.njk
 ---
 Fenton Bill for redundancy protections drawn
 ============================================

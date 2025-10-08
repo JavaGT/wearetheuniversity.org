@@ -1,9 +1,12 @@
 ---
 slug: new-qualification-to-benefit-aluminium-industry
-title: "New qualification to benefit aluminium industry"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/ED0412/S00023/new-qualification-to-benefit-aluminium-industry.htm
+title: New qualification to benefit aluminium industry
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00023/new-qualification-to-benefit-aluminium-industry.htm
 author: auckland-university
+permalink: /archive/2004/12/06/new-qualification-to-benefit-aluminium-industry/index.html
+layout: layout.njk
 ---
 New qualification to benefit aluminium industry
 ===============================================

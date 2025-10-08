@@ -1,9 +1,13 @@
 ---
 slug: student-presidents-call-on-mps-to-strengthen-bill
-title: "Student presidents call on MPs to strengthen Bill"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/PO1810/S00220/student-presidents-call-on-mps-to-strengthen-bill.htm
+title: Student presidents call on MPs to strengthen Bill
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00220/student-presidents-call-on-mps-to-strengthen-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/10/16/student-presidents-call-on-mps-to-strengthen-bill/index.html
+layout: layout.njk
 ---
 Student presidents call on MPs to strengthen Bill
 =================================================

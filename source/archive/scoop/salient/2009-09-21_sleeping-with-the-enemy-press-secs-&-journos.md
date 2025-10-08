@@ -1,9 +1,12 @@
 ---
 slug: sleeping-with-the-enemy-press-secs-&-journos
-title: "Sleeping with the enemy: press secs & journos"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/HL0909/S00180/sleeping-with-the-enemy-press-secs-journos.htm
+title: 'Sleeping with the enemy: press secs & journos'
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00180/sleeping-with-the-enemy-press-secs-journos.htm
 author: salient
+permalink: /archive/2009/09/21/sleeping-with-the-enemy-press-secs-/index.html
+layout: layout.njk
 ---
 Sleeping with the enemy: press secs & journos
 =============================================

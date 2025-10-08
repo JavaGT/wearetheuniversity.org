@@ -1,9 +1,13 @@
 ---
 slug: joyces-stubborn-refusal-to-accept-high-dollar-costs-jobs
-title: "Joyce’s stubborn refusal to accept high dollar costs jobs"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/PA1210/S00129/joyces-stubborn-refusal-to-accept-high-dollar-costs-jobs.htm
+title: Joyce’s stubborn refusal to accept high dollar costs jobs
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00129/joyces-stubborn-refusal-to-accept-high-dollar-costs-jobs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/08/joyces-stubborn-refusal-to-accept-high-dollar-costs-jobs/index.html
+layout: layout.njk
 ---
 Joyce’s stubborn refusal to accept high dollar costs jobs
 =========================================================

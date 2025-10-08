@@ -1,9 +1,11 @@
 ---
 slug: self-care-for-nurses-a-must
-title: "Self-care for nurses a must"
-date: 2017-05-16
+title: Self-care for nurses a must
+date: 2017-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1705/S00103/self-care-for-nurses-a-must.htm
 author: massey-university
+permalink: /archive/2017/05/16/self-care-for-nurses-a-must/index.html
+layout: layout.njk
 ---
 Self-care for nurses a must
 ===========================

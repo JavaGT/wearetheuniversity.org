@@ -1,9 +1,12 @@
 ---
 slug: poll-shows-govt-misjudges-defence
-title: "Poll Shows Govt Misjudges Defence"
-date: 2001-04-12
-source-url: https://www.scoop.co.nz/stories/PA0104/S00224/poll-shows-govt-misjudges-defence.htm
+title: Poll Shows Govt Misjudges Defence
+date: 2001-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00224/poll-shows-govt-misjudges-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/12/poll-shows-govt-misjudges-defence/index.html
+layout: layout.njk
 ---
 Poll Shows Govt Misjudges Defence
 =================================

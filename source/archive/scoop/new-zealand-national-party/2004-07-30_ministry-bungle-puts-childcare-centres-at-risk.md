@@ -1,9 +1,12 @@
 ---
 slug: ministry-bungle-puts-childcare-centres-at-risk
-title: "Ministry bungle puts childcare centres at risk"
-date: 2004-07-30
-source-url: https://www.scoop.co.nz/stories/PA0407/S00530/ministry-bungle-puts-childcare-centres-at-risk.htm
+title: Ministry bungle puts childcare centres at risk
+date: 2004-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00530/ministry-bungle-puts-childcare-centres-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/30/ministry-bungle-puts-childcare-centres-at-risk/index.html
+layout: layout.njk
 ---
 Ministry bungle puts childcare centres at risk
 ==============================================

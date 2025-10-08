@@ -1,9 +1,13 @@
 ---
 slug: students-call-on-council-to-retain-key-bus-route
-title: "Students call on Council to retain key bus route"
-date: 2015-02-19
-source-url: https://www.scoop.co.nz/stories/AK1502/S00455/students-call-on-council-to-retain-key-bus-route.htm
+title: Students call on Council to retain key bus route
+date: 2015-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00455/students-call-on-council-to-retain-key-bus-route.htm
 author: vuwsa
+permalink: >-
+  /archive/2015/02/19/students-call-on-council-to-retain-key-bus-route/index.html
+layout: layout.njk
 ---
 Students call on Council to retain key bus route
 ================================================

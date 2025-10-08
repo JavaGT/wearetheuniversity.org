@@ -1,9 +1,12 @@
 ---
 slug: judicial-activists-strike-again
-title: "Judicial Activists Strike Again"
-date: 2004-09-03
-source-url: https://www.scoop.co.nz/stories/PA0409/S00074/judicial-activists-strike-again.htm
+title: Judicial Activists Strike Again
+date: 2004-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00074/judicial-activists-strike-again.htm
 author: act-new-zealand
+permalink: /archive/2004/09/03/judicial-activists-strike-again/index.html
+layout: layout.njk
 ---
 Judicial Activists Strike Again
 ===============================

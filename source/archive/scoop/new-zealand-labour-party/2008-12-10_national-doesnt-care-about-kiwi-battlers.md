@@ -1,9 +1,12 @@
 ---
 slug: national-doesnt-care-about-kiwi-battlers
-title: "National doesn’t care about Kiwi battlers"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/PA0812/S00096/national-doesnt-care-about-kiwi-battlers.htm
+title: National doesn’t care about Kiwi battlers
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00096/national-doesnt-care-about-kiwi-battlers.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/10/national-doesnt-care-about-kiwi-battlers/index.html
+layout: layout.njk
 ---
 National doesn’t care about Kiwi battlers
 =========================================

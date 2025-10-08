@@ -1,9 +1,12 @@
 ---
 slug: correspondence-schools-performance-slides
-title: "Correspondence School’s performance slides"
-date: 2007-06-27
-source-url: https://www.scoop.co.nz/stories/PA0706/S00527/correspondence-schools-performance-slides.htm
+title: Correspondence School’s performance slides
+date: 2007-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00527/correspondence-schools-performance-slides.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/27/correspondence-schools-performance-slides/index.html
+layout: layout.njk
 ---
 Correspondence School’s performance slides
 ==========================================

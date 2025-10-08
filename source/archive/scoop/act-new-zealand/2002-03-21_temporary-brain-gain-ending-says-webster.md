@@ -1,9 +1,12 @@
 ---
 slug: temporary-brain-gain-ending-says-webster
-title: "Temporary Brain Gain Ending Says Webster"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/PA0203/S00404/temporary-brain-gain-ending-says-webster.htm
+title: Temporary Brain Gain Ending Says Webster
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00404/temporary-brain-gain-ending-says-webster.htm
 author: act-new-zealand
+permalink: /archive/2002/03/21/temporary-brain-gain-ending-says-webster/index.html
+layout: layout.njk
 ---
 Temporary Brain Gain Ending Says Webster
 ========================================

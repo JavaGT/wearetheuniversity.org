@@ -1,9 +1,13 @@
 ---
 slug: act-would-abolish-role-of-human-rights-commissioner
-title: "ACT Would Abolish Role of Human Rights Commissioner"
-date: 2018-10-03
-source-url: https://www.scoop.co.nz/stories/PA1810/S00027/act-would-abolish-role-of-human-rights-commissioner.htm
+title: ACT Would Abolish Role of Human Rights Commissioner
+date: 2018-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00027/act-would-abolish-role-of-human-rights-commissioner.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/10/03/act-would-abolish-role-of-human-rights-commissioner/index.html
+layout: layout.njk
 ---
 ACT Would Abolish Role of Human Rights Commissioner
 ===================================================

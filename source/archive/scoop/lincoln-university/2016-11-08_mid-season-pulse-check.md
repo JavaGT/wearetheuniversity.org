@@ -1,9 +1,11 @@
 ---
 slug: mid-season-pulse-check
-title: "Mid-season pulse check"
-date: 2016-11-08
+title: Mid-season pulse check
+date: 2016-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1611/S00300/mid-season-pulse-check.htm
 author: lincoln-university
+permalink: /archive/2016/11/08/mid-season-pulse-check/index.html
+layout: layout.njk
 ---
 Mid-season pulse check
 ======================

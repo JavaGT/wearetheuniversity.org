@@ -1,9 +1,12 @@
 ---
 slug: hamilton-principal-elected-new-nzei-president
-title: "Hamilton Principal Elected New NZEI President"
-date: 2005-09-28
-source-url: https://www.scoop.co.nz/stories/ED0509/S00091/hamilton-principal-elected-new-nzei-president.htm
+title: Hamilton Principal Elected New NZEI President
+date: 2005-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00091/hamilton-principal-elected-new-nzei-president.htm
 author: nzei
+permalink: /archive/2005/09/28/hamilton-principal-elected-new-nzei-president/index.html
+layout: layout.njk
 ---
 Hamilton Principal Elected New NZEI President
 =============================================

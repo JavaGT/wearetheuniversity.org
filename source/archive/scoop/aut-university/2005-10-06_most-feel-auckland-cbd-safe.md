@@ -1,9 +1,11 @@
 ---
 slug: most-feel-auckland-cbd-safe
-title: "Most feel Auckland CBD safe"
-date: 2005-10-06
+title: Most feel Auckland CBD safe
+date: 2005-10-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0510/S00036/most-feel-auckland-cbd-safe.htm
 author: aut-university
+permalink: /archive/2005/10/06/most-feel-auckland-cbd-safe/index.html
+layout: layout.njk
 ---
 Most feel Auckland CBD safe
 ===========================

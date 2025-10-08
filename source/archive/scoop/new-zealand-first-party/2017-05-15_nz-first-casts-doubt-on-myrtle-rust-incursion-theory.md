@@ -1,9 +1,13 @@
 ---
 slug: nz-first-casts-doubt-on-myrtle-rust-incursion-theory
-title: "NZ First Casts Doubt on Myrtle Rust Incursion Theory"
-date: 2017-05-15
-source-url: https://www.scoop.co.nz/stories/PA1705/S00314/nz-first-casts-doubt-on-myrtle-rust-incursion-theory.htm
+title: NZ First Casts Doubt on Myrtle Rust Incursion Theory
+date: 2017-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00314/nz-first-casts-doubt-on-myrtle-rust-incursion-theory.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/15/nz-first-casts-doubt-on-myrtle-rust-incursion-theory/index.html
+layout: layout.njk
 ---
 NZ First Casts Doubt on Myrtle Rust Incursion Theory
 ====================================================

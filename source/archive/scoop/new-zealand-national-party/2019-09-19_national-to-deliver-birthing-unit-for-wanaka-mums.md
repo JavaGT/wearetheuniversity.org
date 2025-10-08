@@ -1,9 +1,13 @@
 ---
 slug: national-to-deliver-birthing-unit-for-wanaka-mums
-title: "National to deliver birthing unit for Wanaka mums"
-date: 2019-09-19
-source-url: https://www.scoop.co.nz/stories/PA1909/S00147/national-to-deliver-birthing-unit-for-wanaka-mums.htm
+title: National to deliver birthing unit for Wanaka mums
+date: 2019-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00147/national-to-deliver-birthing-unit-for-wanaka-mums.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/19/national-to-deliver-birthing-unit-for-wanaka-mums/index.html
+layout: layout.njk
 ---
 National to deliver birthing unit for Wanaka mums
 =================================================

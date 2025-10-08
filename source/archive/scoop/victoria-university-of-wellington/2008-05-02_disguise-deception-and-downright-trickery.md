@@ -1,9 +1,12 @@
 ---
 slug: disguise-deception-and-downright-trickery
-title: "Disguise, deception and downright trickery..."
-date: 2008-05-02
-source-url: https://www.scoop.co.nz/stories/CU0805/S00028/disguise-deception-and-downright-trickery.htm
+title: Disguise, deception and downright trickery...
+date: 2008-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0805/S00028/disguise-deception-and-downright-trickery.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/02/disguise-deception-and-downright-trickery/index.html
+layout: layout.njk
 ---
 Disguise, deception and downright trickery...
 =============================================

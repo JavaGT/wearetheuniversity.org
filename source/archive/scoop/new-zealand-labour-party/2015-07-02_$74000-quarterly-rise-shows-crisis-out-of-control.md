@@ -1,9 +1,13 @@
 ---
 slug: $74000-quarterly-rise-shows-crisis-out-of-control
-title: "$74,000 quarterly rise shows crisis out of control"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00052/74000-quarterly-rise-shows-crisis-out-of-control.htm
+title: $74,000 quarterly rise shows crisis out of control
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00052/74000-quarterly-rise-shows-crisis-out-of-control.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/02/74-000-quarterly-rise-shows-crisis-out-of-control/index.html
+layout: layout.njk
 ---
 $74,000 quarterly rise shows crisis out of control
 ==================================================

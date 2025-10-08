@@ -1,9 +1,12 @@
 ---
 slug: act-claims-ffp-extension-is-unavoidable
-title: "ACT Claims FFP Extension Is Unavoidable"
-date: 2022-09-23
-source-url: https://www.scoop.co.nz/stories/PO2209/S00161/act-claims-ffp-extension-is-unavoidable.htm
+title: ACT Claims FFP Extension Is Unavoidable
+date: 2022-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00161/act-claims-ffp-extension-is-unavoidable.htm
 author: act-new-zealand
+permalink: /archive/2022/09/23/act-claims-ffp-extension-is-unavoidable/index.html
+layout: layout.njk
 ---
 ACT Claims FFP Extension Is Unavoidable
 =======================================

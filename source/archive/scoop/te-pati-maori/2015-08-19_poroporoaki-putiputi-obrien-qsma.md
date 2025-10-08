@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-putiputi-obrien-qsma
-title: "POROPOROAKI: Putiputi O’Brien QSMa"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/PA1508/S00324/poroporoaki-putiputi-obrien-qsma.htm
+title: 'POROPOROAKI: Putiputi O’Brien QSMa'
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00324/poroporoaki-putiputi-obrien-qsma.htm
 author: te-pati-maori
+permalink: /archive/2015/08/19/poroporoaki-putiputi-obrien-qsma/index.html
+layout: layout.njk
 ---
 POROPOROAKI: Putiputi O’Brien QSMa
 ==================================

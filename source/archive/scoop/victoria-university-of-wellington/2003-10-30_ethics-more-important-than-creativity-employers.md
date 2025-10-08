@@ -1,9 +1,12 @@
 ---
 slug: ethics-more-important-than-creativity-employers
-title: "Ethics more important than creativity: Employers"
-date: 2003-10-30
-source-url: https://www.scoop.co.nz/stories/ED0310/S00118/ethics-more-important-than-creativity-employers.htm
+title: 'Ethics more important than creativity: Employers'
+date: 2003-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00118/ethics-more-important-than-creativity-employers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/30/ethics-more-important-than-creativity-employers/index.html
+layout: layout.njk
 ---
 Ethics more important than creativity: Employers
 ================================================

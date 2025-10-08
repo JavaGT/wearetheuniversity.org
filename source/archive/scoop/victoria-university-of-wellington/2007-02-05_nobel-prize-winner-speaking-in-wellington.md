@@ -1,9 +1,12 @@
 ---
 slug: nobel-prize-winner-speaking-in-wellington
-title: "Nobel Prize winner speaking in Wellington"
-date: 2007-02-05
-source-url: https://www.scoop.co.nz/stories/ED0702/S00012/nobel-prize-winner-speaking-in-wellington.htm
+title: Nobel Prize winner speaking in Wellington
+date: 2007-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00012/nobel-prize-winner-speaking-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/05/nobel-prize-winner-speaking-in-wellington/index.html
+layout: layout.njk
 ---
 Nobel Prize winner speaking in Wellington
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-committing-educational-infanticide
-title: "Government Committing Educational Infanticide"
-date: 2007-06-12
-source-url: https://www.scoop.co.nz/stories/PA0706/S00205/government-committing-educational-infanticide.htm
+title: Government Committing Educational Infanticide
+date: 2007-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00205/government-committing-educational-infanticide.htm
 author: new-zealand-first-party
+permalink: /archive/2007/06/12/government-committing-educational-infanticide/index.html
+layout: layout.njk
 ---
 Government Committing Educational Infanticide
 =============================================

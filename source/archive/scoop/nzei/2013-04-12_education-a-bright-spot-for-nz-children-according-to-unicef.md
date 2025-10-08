@@ -1,9 +1,13 @@
 ---
 slug: education-a-bright-spot-for-nz-children-according-to-unicef
-title: "Education a bright spot for NZ children according to UNICEF"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00080/education-a-bright-spot-for-nz-children-according-to-unicef.htm
+title: Education a bright spot for NZ children according to UNICEF
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00080/education-a-bright-spot-for-nz-children-according-to-unicef.htm
 author: nzei
+permalink: >-
+  /archive/2013/04/12/education-a-bright-spot-for-nz-children-according-to-unicef/index.html
+layout: layout.njk
 ---
 Education a bright spot for NZ children according to UNICEF
 ===========================================================

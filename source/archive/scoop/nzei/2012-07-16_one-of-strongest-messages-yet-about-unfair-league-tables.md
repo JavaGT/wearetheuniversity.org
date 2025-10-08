@@ -1,9 +1,13 @@
 ---
 slug: one-of-strongest-messages-yet-about-unfair-league-tables
-title: "One of strongest messages yet about unfair league tables"
-date: 2012-07-16
-source-url: https://www.scoop.co.nz/stories/ED1207/S00058/one-of-strongest-messages-yet-about-unfair-league-tables.htm
+title: One of strongest messages yet about unfair league tables
+date: 2012-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00058/one-of-strongest-messages-yet-about-unfair-league-tables.htm
 author: nzei
+permalink: >-
+  /archive/2012/07/16/one-of-strongest-messages-yet-about-unfair-league-tables/index.html
+layout: layout.njk
 ---
 One of strongest messages yet about unfair league tables
 ========================================================

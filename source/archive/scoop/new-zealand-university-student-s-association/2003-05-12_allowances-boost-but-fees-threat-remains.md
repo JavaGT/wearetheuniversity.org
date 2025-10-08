@@ -1,9 +1,12 @@
 ---
 slug: allowances-boost-but-fees-threat-remains
-title: "Allowances boost but fees threat remains"
-date: 2003-05-12
-source-url: https://www.scoop.co.nz/stories/ED0305/S00026/allowances-boost-but-fees-threat-remains.htm
+title: Allowances boost but fees threat remains
+date: 2003-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00026/allowances-boost-but-fees-threat-remains.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/05/12/allowances-boost-but-fees-threat-remains/index.html
+layout: layout.njk
 ---
 Allowances boost but fees threat remains
 ========================================

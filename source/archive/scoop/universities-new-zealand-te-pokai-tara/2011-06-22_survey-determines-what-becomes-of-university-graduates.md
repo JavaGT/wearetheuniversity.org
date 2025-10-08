@@ -1,9 +1,13 @@
 ---
 slug: survey-determines-what-becomes-of-university-graduates
-title: "Survey determines what becomes of university graduates"
-date: 2011-06-22
-source-url: https://www.scoop.co.nz/stories/ED1106/S00087/survey-determines-what-becomes-of-university-graduates.htm
+title: Survey determines what becomes of university graduates
+date: 2011-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00087/survey-determines-what-becomes-of-university-graduates.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2011/06/22/survey-determines-what-becomes-of-university-graduates/index.html
+layout: layout.njk
 ---
 Survey determines what becomes of university graduates
 ======================================================

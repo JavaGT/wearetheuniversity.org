@@ -1,9 +1,12 @@
 ---
 slug: labours-policy-good-news-for-students
-title: "Labour's policy good news for students"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/ED9909/S00055/labours-policy-good-news-for-students.htm
+title: Labour's policy good news for students
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00055/labours-policy-good-news-for-students.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/29/labours-policy-good-news-for-students/index.html
+layout: layout.njk
 ---
 Labour's policy good news for students
 ======================================

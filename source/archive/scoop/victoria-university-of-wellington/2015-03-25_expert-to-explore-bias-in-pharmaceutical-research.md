@@ -1,9 +1,13 @@
 ---
 slug: expert-to-explore-bias-in-pharmaceutical-research
-title: "Expert to explore bias in pharmaceutical research"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/SC1503/S00088/expert-to-explore-bias-in-pharmaceutical-research.htm
+title: Expert to explore bias in pharmaceutical research
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00088/expert-to-explore-bias-in-pharmaceutical-research.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/03/25/expert-to-explore-bias-in-pharmaceutical-research/index.html
+layout: layout.njk
 ---
 Expert to explore bias in pharmaceutical research
 =================================================

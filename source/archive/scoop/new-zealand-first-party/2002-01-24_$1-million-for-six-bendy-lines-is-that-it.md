@@ -1,9 +1,12 @@
 ---
 slug: $1-million-for-six-bendy-lines-is-that-it
-title: "$1 Million For Six Bendy Lines. Is That It?"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00147/1-million-for-six-bendy-lines-is-that-it.htm
+title: $1 Million For Six Bendy Lines. Is That It?
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00147/1-million-for-six-bendy-lines-is-that-it.htm
 author: new-zealand-first-party
+permalink: /archive/2002/01/24/1-million-for-six-bendy-lines-is-that-it/index.html
+layout: layout.njk
 ---
 $1 Million For Six Bendy Lines. Is That It?
 ===========================================

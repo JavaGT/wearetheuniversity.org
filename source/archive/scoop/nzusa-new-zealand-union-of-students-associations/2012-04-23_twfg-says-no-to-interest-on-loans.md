@@ -1,9 +1,12 @@
 ---
 slug: twfg-says-no-to-interest-on-loans
-title: "TWFG says NO to interest on loans"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00089/twfg-says-no-to-interest-on-loans.htm
+title: TWFG says NO to interest on loans
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00089/twfg-says-no-to-interest-on-loans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/04/23/twfg-says-no-to-interest-on-loans/index.html
+layout: layout.njk
 ---
 TWFG says NO to interest on loans
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: council-abusing-important-powers-act-mp
-title: "Council Abusing Important Powers - ACT MP"
-date: 2000-01-19
-source-url: https://www.scoop.co.nz/stories/PA0001/S00056/council-abusing-important-powers-act-mp.htm
+title: Council Abusing Important Powers - ACT MP
+date: 2000-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00056/council-abusing-important-powers-act-mp.htm
 author: act-new-zealand
+permalink: /archive/2000/01/19/council-abusing-important-powers-act-mp/index.html
+layout: layout.njk
 ---
 Council Abusing Important Powers - ACT MP
 =========================================

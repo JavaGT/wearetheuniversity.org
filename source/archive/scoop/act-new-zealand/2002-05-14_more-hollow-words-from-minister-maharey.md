@@ -1,9 +1,12 @@
 ---
 slug: more-hollow-words-from-minister-maharey
-title: "More Hollow Words from Minister Maharey"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/PA0205/S00282/more-hollow-words-from-minister-maharey.htm
+title: More Hollow Words from Minister Maharey
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00282/more-hollow-words-from-minister-maharey.htm
 author: act-new-zealand
+permalink: /archive/2002/05/14/more-hollow-words-from-minister-maharey/index.html
+layout: layout.njk
 ---
 More Hollow Words from Minister Maharey
 =======================================

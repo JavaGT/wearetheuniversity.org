@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-students-create-printing-app
-title: "Waikato University students create printing app"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/BU1210/S00908/waikato-university-students-create-printing-app.htm
+title: Waikato University students create printing app
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00908/waikato-university-students-create-printing-app.htm
 author: university-of-waikato
+permalink: /archive/2012/10/24/waikato-university-students-create-printing-app/index.html
+layout: layout.njk
 ---
 Waikato University students create printing app
 ===============================================

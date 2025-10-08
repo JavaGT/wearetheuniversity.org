@@ -1,9 +1,13 @@
 ---
 slug: nemp-provides-useful-info-on-student-performance
-title: "Nemp Provides Useful Info On Student Performance"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/ED0308/S00025/nemp-provides-useful-info-on-student-performance.htm
+title: Nemp Provides Useful Info On Student Performance
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00025/nemp-provides-useful-info-on-student-performance.htm
 author: nzei
+permalink: >-
+  /archive/2003/08/07/nemp-provides-useful-info-on-student-performance/index.html
+layout: layout.njk
 ---
 Nemp Provides Useful Info On Student Performance
 ================================================

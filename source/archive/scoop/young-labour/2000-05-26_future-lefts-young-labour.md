@@ -1,9 +1,11 @@
 ---
 slug: future-lefts-young-labour
-title: "Future Lefts – Young Labour"
-date: 2000-05-26
+title: Future Lefts – Young Labour
+date: 2000-05-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0005/S00150/future-lefts-young-labour.htm
 author: young-labour
+permalink: /archive/2000/05/26/future-lefts-young-labour/index.html
+layout: layout.njk
 ---
 Future Lefts – Young Labour
 ===========================

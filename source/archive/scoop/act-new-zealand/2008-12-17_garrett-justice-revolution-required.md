@@ -1,9 +1,12 @@
 ---
 slug: garrett-justice-revolution-required
-title: "Garrett: Justice Revolution Required"
-date: 2008-12-17
-source-url: https://www.scoop.co.nz/stories/PA0812/S00212/garrett-justice-revolution-required.htm
+title: 'Garrett: Justice Revolution Required'
+date: 2008-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00212/garrett-justice-revolution-required.htm
 author: act-new-zealand
+permalink: /archive/2008/12/17/garrett-justice-revolution-required/index.html
+layout: layout.njk
 ---
 Garrett: Justice Revolution Required
 ====================================

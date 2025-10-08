@@ -1,9 +1,11 @@
 ---
 slug: rural-tour-a-flop-labour
-title: "Rural tour a flop - Labour"
-date: 1999-07-09
+title: Rural tour a flop - Labour
+date: 1999-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9907/S00017/rural-tour-a-flop-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/09/rural-tour-a-flop-labour/index.html
+layout: layout.njk
 ---
 Rural tour a flop - Labour
 ==========================

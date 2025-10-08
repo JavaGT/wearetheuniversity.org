@@ -1,9 +1,11 @@
 ---
 slug: hiv-ignorance-isnt-bliss
-title: "HIV ignorance isn’t bliss"
-date: 2016-11-21
+title: HIV ignorance isn’t bliss
+date: 2016-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1611/S00091/hiv-ignorance-isnt-bliss.htm
 author: massey-university
+permalink: /archive/2016/11/21/hiv-ignorance-isnt-bliss/index.html
+layout: layout.njk
 ---
 HIV ignorance isn’t bliss
 =========================

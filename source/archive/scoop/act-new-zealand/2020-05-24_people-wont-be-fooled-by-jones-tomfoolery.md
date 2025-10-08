@@ -1,9 +1,12 @@
 ---
 slug: people-wont-be-fooled-by-jones-tomfoolery
-title: "People Won't Be Fooled By Jones' Tomfoolery"
-date: 2020-05-24
-source-url: https://www.scoop.co.nz/stories/PO2005/S00319/people-wont-be-fooled-by-jones-tomfoolery.htm
+title: People Won't Be Fooled By Jones' Tomfoolery
+date: 2020-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00319/people-wont-be-fooled-by-jones-tomfoolery.htm
 author: act-new-zealand
+permalink: /archive/2020/05/24/people-wont-be-fooled-by-jones-tomfoolery/index.html
+layout: layout.njk
 ---
 People Won't Be Fooled By Jones' Tomfoolery
 ===========================================

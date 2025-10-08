@@ -1,9 +1,12 @@
 ---
 slug: labour-will-restore-democracy-to-ecan
-title: "Labour will restore democracy to ECan"
-date: 2010-04-27
-source-url: https://www.scoop.co.nz/stories/PA1004/S00355/labour-will-restore-democracy-to-ecan.htm
+title: Labour will restore democracy to ECan
+date: 2010-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00355/labour-will-restore-democracy-to-ecan.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/27/labour-will-restore-democracy-to-ecan/index.html
+layout: layout.njk
 ---
 Labour will restore democracy to ECan
 =====================================

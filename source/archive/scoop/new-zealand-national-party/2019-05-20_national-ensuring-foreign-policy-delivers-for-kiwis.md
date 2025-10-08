@@ -1,9 +1,13 @@
 ---
 slug: national-ensuring-foreign-policy-delivers-for-kiwis
-title: "National ensuring foreign policy delivers for Kiwis"
-date: 2019-05-20
-source-url: https://www.scoop.co.nz/stories/PA1905/S00194/national-ensuring-foreign-policy-delivers-for-kiwis.htm
+title: National ensuring foreign policy delivers for Kiwis
+date: 2019-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00194/national-ensuring-foreign-policy-delivers-for-kiwis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/05/20/national-ensuring-foreign-policy-delivers-for-kiwis/index.html
+layout: layout.njk
 ---
 National ensuring foreign policy delivers for Kiwis
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: aut-sixteenth-in-world-in-university-sustainability-rankings
-title: "AUT sixteenth in world in university sustainability rankings"
-date: 2019-04-04
-source-url: https://www.scoop.co.nz/stories/ED1904/S00009/aut-sixteenth-in-world-in-university-sustainability-rankings.htm
+title: AUT sixteenth in world in university sustainability rankings
+date: 2019-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00009/aut-sixteenth-in-world-in-university-sustainability-rankings.htm
 author: aut-university
+permalink: >-
+  /archive/2019/04/04/aut-sixteenth-in-world-in-university-sustainability-rankings/index.html
+layout: layout.njk
 ---
 AUT sixteenth in world in university sustainability rankings
 ============================================================

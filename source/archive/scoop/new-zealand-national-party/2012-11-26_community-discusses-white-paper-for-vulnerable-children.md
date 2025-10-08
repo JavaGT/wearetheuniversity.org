@@ -1,9 +1,13 @@
 ---
 slug: community-discusses-white-paper-for-vulnerable-children
-title: "Community discusses White Paper for Vulnerable Children"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/PA1211/S00431/community-discusses-white-paper-for-vulnerable-children.htm
+title: Community discusses White Paper for Vulnerable Children
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00431/community-discusses-white-paper-for-vulnerable-children.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2012/11/26/community-discusses-white-paper-for-vulnerable-children/index.html
+layout: layout.njk
 ---
 Community discusses White Paper for Vulnerable Children
 =======================================================

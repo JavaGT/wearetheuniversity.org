@@ -1,9 +1,12 @@
 ---
 slug: nats-continue-to-take-act-ideas
-title: "Nats continue to take ACT ideas"
-date: 2019-07-27
-source-url: https://www.scoop.co.nz/stories/PA1907/S00225/nats-continue-to-take-act-ideas.htm
+title: Nats continue to take ACT ideas
+date: 2019-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00225/nats-continue-to-take-act-ideas.htm
 author: act-new-zealand
+permalink: /archive/2019/07/27/nats-continue-to-take-act-ideas/index.html
+layout: layout.njk
 ---
 Nats continue to take ACT ideas
 ===============================

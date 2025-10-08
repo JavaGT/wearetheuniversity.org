@@ -1,9 +1,12 @@
 ---
 slug: aus-celebrates-university-general-staff
-title: "AUS celebrates university general staff"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/ED0809/S00020/aus-celebrates-university-general-staff.htm
+title: AUS celebrates university general staff
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00020/aus-celebrates-university-general-staff.htm
 author: association-of-university-staff
+permalink: /archive/2008/09/08/aus-celebrates-university-general-staff/index.html
+layout: layout.njk
 ---
 AUS celebrates university general staff
 =======================================

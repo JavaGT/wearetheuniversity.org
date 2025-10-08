@@ -1,9 +1,13 @@
 ---
 slug: massey-scientists-to-lead-international-protein-project
-title: "Massey scientists to lead international protein project"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/GE1612/S00044/massey-scientists-to-lead-international-protein-project.htm
+title: Massey scientists to lead international protein project
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00044/massey-scientists-to-lead-international-protein-project.htm
 author: massey-university
+permalink: >-
+  /archive/2016/12/08/massey-scientists-to-lead-international-protein-project/index.html
+layout: layout.njk
 ---
 Massey scientists to lead international protein project
 =======================================================

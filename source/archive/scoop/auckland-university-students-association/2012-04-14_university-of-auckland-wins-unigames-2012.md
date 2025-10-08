@@ -1,9 +1,12 @@
 ---
 slug: university-of-auckland-wins-unigames-2012
-title: "University of Auckland wins UniGames 2012"
-date: 2012-04-14
-source-url: https://www.scoop.co.nz/stories/ED1204/S00054/university-of-auckland-wins-unigames-2012.htm
+title: University of Auckland wins UniGames 2012
+date: 2012-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00054/university-of-auckland-wins-unigames-2012.htm
 author: auckland-university-students-association
+permalink: /archive/2012/04/14/university-of-auckland-wins-unigames-2012/index.html
+layout: layout.njk
 ---
 University of Auckland wins UniGames 2012
 =========================================

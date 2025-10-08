@@ -1,9 +1,12 @@
 ---
 slug: nz-first-supports-universal-student-allowance
-title: "NZ First Supports Universal Student Allowance"
-date: 2008-09-19
-source-url: https://www.scoop.co.nz/stories/PA0809/S00423/nz-first-supports-universal-student-allowance.htm
+title: NZ First Supports Universal Student Allowance
+date: 2008-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00423/nz-first-supports-universal-student-allowance.htm
 author: new-zealand-first-party
+permalink: /archive/2008/09/19/nz-first-supports-universal-student-allowance/index.html
+layout: layout.njk
 ---
 NZ First Supports Universal Student Allowance
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: huge-reading-gap-for-six-year-olds
-title: "Huge reading gap for six-year-olds"
-date: 2005-04-26
-source-url: https://www.scoop.co.nz/stories/PA0504/S00509/huge-reading-gap-for-six-year-olds.htm
+title: Huge reading gap for six-year-olds
+date: 2005-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00509/huge-reading-gap-for-six-year-olds.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/26/huge-reading-gap-for-six-year-olds/index.html
+layout: layout.njk
 ---
 Huge reading gap for six-year-olds
 ==================================

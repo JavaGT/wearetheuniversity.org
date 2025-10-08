@@ -1,9 +1,13 @@
 ---
 slug: auditor-gen-report-shows-need-for-stronger-water-regulation
-title: "Auditor-Gen report shows need for stronger water regulation"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/PA1109/S00487/auditor-gen-report-shows-need-for-stronger-water-regulation.htm
+title: Auditor-Gen report shows need for stronger water regulation
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00487/auditor-gen-report-shows-need-for-stronger-water-regulation.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/27/auditor-gen-report-shows-need-for-stronger-water-regulation/index.html
+layout: layout.njk
 ---
 Auditor-Gen report shows need for stronger water regulation
 ===========================================================

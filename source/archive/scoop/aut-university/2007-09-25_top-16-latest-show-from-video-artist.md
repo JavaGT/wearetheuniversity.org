@@ -1,9 +1,12 @@
 ---
 slug: top-16-latest-show-from-video-artist
-title: "Top 16, Latest Show From Video Artist"
-date: 2007-09-25
-source-url: https://www.scoop.co.nz/stories/CU0709/S00288/top-16-latest-show-from-video-artist.htm
+title: Top 16, Latest Show From Video Artist
+date: 2007-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0709/S00288/top-16-latest-show-from-video-artist.htm
 author: aut-university
+permalink: /archive/2007/09/25/top-16-latest-show-from-video-artist/index.html
+layout: layout.njk
 ---
 Top 16, Latest Show From Video Artist
 =====================================

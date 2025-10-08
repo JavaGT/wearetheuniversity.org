@@ -1,9 +1,12 @@
 ---
 slug: unions-applaud-retraining-for-laid-off-workers
-title: "Unions Applaud Retraining For Laid-Off Workers"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PO0810/S00171/unions-applaud-retraining-for-laid-off-workers.htm
+title: Unions Applaud Retraining For Laid-Off Workers
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00171/unions-applaud-retraining-for-laid-off-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/10/13/unions-applaud-retraining-for-laid-off-workers/index.html
+layout: layout.njk
 ---
 Unions Applaud Retraining For Laid-Off Workers
 ==============================================

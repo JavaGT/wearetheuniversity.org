@@ -1,9 +1,12 @@
 ---
 slug: policies-for-whole-life-not-just-student-life
-title: "Policies for Whole Life, Not Just Student Life"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00132/policies-for-whole-life-not-just-student-life.htm
+title: Policies for Whole Life, Not Just Student Life
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00132/policies-for-whole-life-not-just-student-life.htm
 author: act-new-zealand
+permalink: /archive/1999/10/07/policies-for-whole-life-not-just-student-life/index.html
+layout: layout.njk
 ---
 Policies for Whole Life, Not Just Student Life
 ==============================================

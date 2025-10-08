@@ -1,9 +1,12 @@
 ---
 slug: govt-holds-tertiary-institutions-to-ransom
-title: "Govt Holds Tertiary Institutions To Ransom"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/PA0105/S00472/govt-holds-tertiary-institutions-to-ransom.htm
+title: Govt Holds Tertiary Institutions To Ransom
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00472/govt-holds-tertiary-institutions-to-ransom.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/23/govt-holds-tertiary-institutions-to-ransom/index.html
+layout: layout.njk
 ---
 Govt Holds Tertiary Institutions To Ransom
 ==========================================

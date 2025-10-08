@@ -1,9 +1,12 @@
 ---
 slug: experts-unveil-latest-research-on-diabetes
-title: "Experts Unveil Latest Research On Diabetes"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00111/experts-unveil-latest-research-on-diabetes.htm
+title: Experts Unveil Latest Research On Diabetes
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00111/experts-unveil-latest-research-on-diabetes.htm
 author: university-of-otago
+permalink: /archive/2004/08/25/experts-unveil-latest-research-on-diabetes/index.html
+layout: layout.njk
 ---
 Experts Unveil Latest Research On Diabetes
 ==========================================

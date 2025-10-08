@@ -1,9 +1,13 @@
 ---
 slug: appointment-affirms-lincolns-food-science-credentials
-title: "Appointment affirms Lincoln’s food science credentials"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/ED1505/S00073/appointment-affirms-lincolns-food-science-credentials.htm
+title: Appointment affirms Lincoln’s food science credentials
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00073/appointment-affirms-lincolns-food-science-credentials.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/15/appointment-affirms-lincolns-food-science-credentials/index.html
+layout: layout.njk
 ---
 Appointment affirms Lincoln’s food science credentials
 ======================================================

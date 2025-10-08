@@ -1,9 +1,12 @@
 ---
 slug: marlborough-colleges-co-location-under-threat
-title: "Marlborough Colleges co-location under threat"
-date: 2018-04-10
-source-url: https://www.scoop.co.nz/stories/PA1804/S00094/marlborough-colleges-co-location-under-threat.htm
+title: Marlborough Colleges co-location under threat
+date: 2018-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00094/marlborough-colleges-co-location-under-threat.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/10/marlborough-colleges-co-location-under-threat/index.html
+layout: layout.njk
 ---
 Marlborough Colleges co-location under threat
 =============================================

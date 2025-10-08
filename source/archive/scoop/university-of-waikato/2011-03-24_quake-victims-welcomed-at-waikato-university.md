@@ -1,9 +1,12 @@
 ---
 slug: quake-victims-welcomed-at-waikato-university
-title: "Quake victims welcomed at Waikato University"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/ED1103/S00098/quake-victims-welcomed-at-waikato-university.htm
+title: Quake victims welcomed at Waikato University
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00098/quake-victims-welcomed-at-waikato-university.htm
 author: university-of-waikato
+permalink: /archive/2011/03/24/quake-victims-welcomed-at-waikato-university/index.html
+layout: layout.njk
 ---
 Quake victims welcomed at Waikato University
 ============================================

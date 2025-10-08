@@ -1,9 +1,12 @@
 ---
 slug: national-govt-will-make-more-people-poorer
-title: "National Govt Will Make More People Poorer"
-date: 2024-02-11
-source-url: https://www.scoop.co.nz/stories/PO2402/S00056/national-govt-will-make-more-people-poorer.htm
+title: National Govt Will Make More People Poorer
+date: 2024-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2402/S00056/national-govt-will-make-more-people-poorer.htm
 author: green-party
+permalink: /archive/2024/02/11/national-govt-will-make-more-people-poorer/index.html
+layout: layout.njk
 ---
 National Govt Will Make More People Poorer
 ==========================================

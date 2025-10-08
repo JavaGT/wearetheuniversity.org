@@ -1,9 +1,12 @@
 ---
 slug: victoria-expands-international-links
-title: "Victoria Expands International Links"
-date: 2003-09-30
-source-url: https://www.scoop.co.nz/stories/ED0309/S00137/victoria-expands-international-links.htm
+title: Victoria Expands International Links
+date: 2003-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00137/victoria-expands-international-links.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/30/victoria-expands-international-links/index.html
+layout: layout.njk
 ---
 Victoria Expands International Links
 ====================================

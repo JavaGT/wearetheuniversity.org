@@ -1,9 +1,13 @@
 ---
 slug: antarctica-the-last-frontier-may-come-under-threat
-title: "Antarctica the last frontier may come under threat"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/ED1209/S00136/antarctica-the-last-frontier-may-come-under-threat.htm
+title: Antarctica the last frontier may come under threat
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00136/antarctica-the-last-frontier-may-come-under-threat.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/19/antarctica-the-last-frontier-may-come-under-threat/index.html
+layout: layout.njk
 ---
 Antarctica the last frontier may come under threat
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-sold-out-in-nzdl-sale-to-russians
-title: "Kiwis Sold Out In NZDL Sale To Russians"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00554/kiwis-sold-out-in-nzdl-sale-to-russians.htm
+title: Kiwis Sold Out In NZDL Sale To Russians
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00554/kiwis-sold-out-in-nzdl-sale-to-russians.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/27/kiwis-sold-out-in-nzdl-sale-to-russians/index.html
+layout: layout.njk
 ---
 Kiwis Sold Out In NZDL Sale To Russians
 =======================================

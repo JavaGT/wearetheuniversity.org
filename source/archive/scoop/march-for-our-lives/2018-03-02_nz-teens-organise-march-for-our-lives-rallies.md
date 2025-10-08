@@ -1,9 +1,12 @@
 ---
 slug: nz-teens-organise-march-for-our-lives-rallies
-title: "NZ Teens Organise March for Our Lives Rallies"
-date: 2018-03-02
-source-url: https://www.scoop.co.nz/stories/PO1803/S00037/nz-teens-organise-march-for-our-lives-rallies.htm
+title: NZ Teens Organise March for Our Lives Rallies
+date: 2018-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00037/nz-teens-organise-march-for-our-lives-rallies.htm
 author: march-for-our-lives
+permalink: /archive/2018/03/02/nz-teens-organise-march-for-our-lives-rallies/index.html
+layout: layout.njk
 ---
 NZ Teens Organise March for Our Lives Rallies
 =============================================

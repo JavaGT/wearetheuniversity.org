@@ -1,9 +1,12 @@
 ---
 slug: minister-ignores-parents-concerns-on-education
-title: "Minister ignores parents’ concerns on education"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/PA1205/S00390/minister-ignores-parents-concerns-on-education.htm
+title: Minister ignores parents’ concerns on education
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00390/minister-ignores-parents-concerns-on-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/23/minister-ignores-parents-concerns-on-education/index.html
+layout: layout.njk
 ---
 Minister ignores parents’ concerns on education
 ===============================================

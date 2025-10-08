@@ -1,9 +1,12 @@
 ---
 slug: govt-should-take-aid-approach-to-int-students
-title: "Govt should take aid approach to int. students"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/ED0405/S00044/govt-should-take-aid-approach-to-int-students.htm
+title: Govt should take aid approach to int. students
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00044/govt-should-take-aid-approach-to-int-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/12/govt-should-take-aid-approach-to-int-students/index.html
+layout: layout.njk
 ---
 Govt should take aid approach to int. students
 ==============================================

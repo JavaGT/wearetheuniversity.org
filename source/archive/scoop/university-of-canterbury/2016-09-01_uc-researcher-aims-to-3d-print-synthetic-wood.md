@@ -1,9 +1,12 @@
 ---
 slug: uc-researcher-aims-to-3d-print-synthetic-wood
-title: "UC researcher aims to 3D-print synthetic wood"
-date: 2016-09-01
-source-url: https://www.scoop.co.nz/stories/ED1609/S00005/uc-researcher-aims-to-3d-print-synthetic-wood.htm
+title: UC researcher aims to 3D-print synthetic wood
+date: 2016-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00005/uc-researcher-aims-to-3d-print-synthetic-wood.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/01/uc-researcher-aims-to-3d-print-synthetic-wood/index.html
+layout: layout.njk
 ---
 UC researcher aims to 3D-print synthetic wood
 =============================================

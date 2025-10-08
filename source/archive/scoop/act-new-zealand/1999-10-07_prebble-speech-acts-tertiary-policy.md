@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-acts-tertiary-policy
-title: "Prebble Speech: ACT’s Tertiary Policy"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00133/prebble-speech-acts-tertiary-policy.htm
+title: 'Prebble Speech: ACT’s Tertiary Policy'
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00133/prebble-speech-acts-tertiary-policy.htm
 author: act-new-zealand
+permalink: /archive/1999/10/07/prebble-speech-acts-tertiary-policy/index.html
+layout: layout.njk
 ---
 Prebble Speech: ACT’s Tertiary Policy
 =====================================

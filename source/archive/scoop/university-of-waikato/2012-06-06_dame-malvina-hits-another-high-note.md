@@ -1,9 +1,12 @@
 ---
 slug: dame-malvina-hits-another-high-note
-title: "Dame Malvina hits another high note"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/CU1206/S00049/dame-malvina-hits-another-high-note.htm
+title: Dame Malvina hits another high note
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00049/dame-malvina-hits-another-high-note.htm
 author: university-of-waikato
+permalink: /archive/2012/06/06/dame-malvina-hits-another-high-note/index.html
+layout: layout.njk
 ---
 Dame Malvina hits another high note
 ===================================

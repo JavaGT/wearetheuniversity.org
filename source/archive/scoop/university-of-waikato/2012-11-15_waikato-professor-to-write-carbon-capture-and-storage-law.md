@@ -1,9 +1,13 @@
 ---
 slug: waikato-professor-to-write-carbon-capture-and-storage-law
-title: "Waikato professor to write carbon capture and storage law"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/SC1211/S00042/waikato-professor-to-write-carbon-capture-and-storage-law.htm
+title: Waikato professor to write carbon capture and storage law
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00042/waikato-professor-to-write-carbon-capture-and-storage-law.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/15/waikato-professor-to-write-carbon-capture-and-storage-law/index.html
+layout: layout.njk
 ---
 Waikato professor to write carbon capture and storage law
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-evidence-of-rhinos-ability-to-correct-sex-imbalance
-title: "First evidence of rhinos’ ability to correct sex imbalance"
-date: 2017-03-07
-source-url: https://www.scoop.co.nz/stories/SC1703/S00018/first-evidence-of-rhinos-ability-to-correct-sex-imbalance.htm
+title: First evidence of rhinos’ ability to correct sex imbalance
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00018/first-evidence-of-rhinos-ability-to-correct-sex-imbalance.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/03/07/first-evidence-of-rhinos-ability-to-correct-sex-imbalance/index.html
+layout: layout.njk
 ---
 First evidence of rhinos’ ability to correct sex imbalance
 ==========================================================

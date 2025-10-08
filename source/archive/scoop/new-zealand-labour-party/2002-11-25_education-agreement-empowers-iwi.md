@@ -1,9 +1,12 @@
 ---
 slug: education-agreement-empowers-iwi
-title: "Education Agreement Empowers Iwi"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00555/education-agreement-empowers-iwi.htm
+title: Education Agreement Empowers Iwi
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00555/education-agreement-empowers-iwi.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/11/25/education-agreement-empowers-iwi/index.html
+layout: layout.njk
 ---
 Education Agreement Empowers Iwi
 ================================

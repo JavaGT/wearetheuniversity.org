@@ -1,9 +1,12 @@
 ---
 slug: students-black-out-university-hub
-title: "Students Black Out University Hub"
-date: 2015-07-13
-source-url: https://www.scoop.co.nz/stories/PO1507/S00102/students-black-out-university-hub.htm
+title: Students Black Out University Hub
+date: 2015-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00102/students-black-out-university-hub.htm
 author: vuwsa
+permalink: /archive/2015/07/13/students-black-out-university-hub/index.html
+layout: layout.njk
 ---
 Students Black Out University Hub
 =================================

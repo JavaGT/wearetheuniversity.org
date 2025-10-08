@@ -1,9 +1,12 @@
 ---
 slug: money-not-the-key-to-happiness-but-its-a-start
-title: "Money not the key to happiness, but it’s a start"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/ED1002/S00080/money-not-the-key-to-happiness-but-its-a-start.htm
+title: Money not the key to happiness, but it’s a start
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00080/money-not-the-key-to-happiness-but-its-a-start.htm
 author: aut-university
+permalink: /archive/2010/02/22/money-not-the-key-to-happiness-but-its-a-start/index.html
+layout: layout.njk
 ---
 Money not the key to happiness, but it’s a start
 ================================================

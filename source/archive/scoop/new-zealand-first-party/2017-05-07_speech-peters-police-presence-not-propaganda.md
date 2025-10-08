@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-police-presence-not-propaganda
-title: "Speech: Peters - Police Presence Not Propaganda"
-date: 2017-05-07
-source-url: https://www.scoop.co.nz/stories/PA1705/S00138/speech-peters-police-presence-not-propaganda.htm
+title: 'Speech: Peters - Police Presence Not Propaganda'
+date: 2017-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00138/speech-peters-police-presence-not-propaganda.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/07/speech-peters-police-presence-not-propaganda/index.html
+layout: layout.njk
 ---
 Speech: Peters - Police Presence Not Propaganda
 ===============================================

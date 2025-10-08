@@ -1,9 +1,12 @@
 ---
 slug: grecian-urns-satisfy-classic-student-yearns
-title: "Grecian urns satisfy Classic student yearns"
-date: 2000-02-28
-source-url: https://www.scoop.co.nz/stories/ED0002/S00040/grecian-urns-satisfy-classic-student-yearns.htm
+title: Grecian urns satisfy Classic student yearns
+date: 2000-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00040/grecian-urns-satisfy-classic-student-yearns.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/28/grecian-urns-satisfy-classic-student-yearns/index.html
+layout: layout.njk
 ---
 Grecian urns satisfy Classic student yearns
 ===========================================

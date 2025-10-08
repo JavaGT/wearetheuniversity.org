@@ -1,9 +1,12 @@
 ---
 slug: $7-billion-in-student-debt-labour-govts-shame
-title: "$7 Billion In Student Debt:  Labour Govt’s Shame"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/ED0404/S00102/7-billion-in-student-debt-labour-govts-shame.htm
+title: '$7 Billion In Student Debt:  Labour Govt’s Shame'
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00102/7-billion-in-student-debt-labour-govts-shame.htm
 author: victoria-university-students-association
+permalink: /archive/2004/04/28/7-billion-in-student-debt-labour-govt-s-shame/index.html
+layout: layout.njk
 ---
 $7 Billion In Student Debt: Labour Govt’s Shame
 ===============================================

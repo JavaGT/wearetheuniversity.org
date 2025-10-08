@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-bill-to-protect-residents-from-mining
-title: "Green Party launches bill to protect residents from mining"
-date: 2013-11-10
-source-url: https://www.scoop.co.nz/stories/PA1311/S00162/green-party-launches-bill-to-protect-residents-from-mining.htm
+title: Green Party launches bill to protect residents from mining
+date: 2013-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00162/green-party-launches-bill-to-protect-residents-from-mining.htm
 author: green-party
+permalink: >-
+  /archive/2013/11/10/green-party-launches-bill-to-protect-residents-from-mining/index.html
+layout: layout.njk
 ---
 Green Party launches bill to protect residents from mining
 ==========================================================

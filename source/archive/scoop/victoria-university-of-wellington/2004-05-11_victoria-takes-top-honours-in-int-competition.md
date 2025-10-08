@@ -1,9 +1,12 @@
 ---
 slug: victoria-takes-top-honours-in-int-competition
-title: "Victoria Takes Top Honours in Int. Competition"
-date: 2004-05-11
-source-url: https://www.scoop.co.nz/stories/ED0405/S00038/victoria-takes-top-honours-in-int-competition.htm
+title: Victoria Takes Top Honours in Int. Competition
+date: 2004-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00038/victoria-takes-top-honours-in-int-competition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/11/victoria-takes-top-honours-in-int-competition/index.html
+layout: layout.njk
 ---
 Victoria Takes Top Honours in Int. Competition
 ==============================================

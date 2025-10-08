@@ -1,9 +1,12 @@
 ---
 slug: proportion-of-huge-student-debts-growing
-title: "Proportion of huge student debts growing"
-date: 2004-02-13
-source-url: https://www.scoop.co.nz/stories/ED0402/S00031/proportion-of-huge-student-debts-growing.htm
+title: Proportion of huge student debts growing
+date: 2004-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00031/proportion-of-huge-student-debts-growing.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/02/13/proportion-of-huge-student-debts-growing/index.html
+layout: layout.njk
 ---
 Proportion of huge student debts growing
 ========================================

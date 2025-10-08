@@ -1,9 +1,12 @@
 ---
 slug: greens-bullying-the-vulnerable
-title: "Greens bullying the vulnerable"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/PA1403/S00220/greens-bullying-the-vulnerable.htm
+title: Greens bullying the vulnerable
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00220/greens-bullying-the-vulnerable.htm
 author: act-new-zealand
+permalink: /archive/2014/03/12/greens-bullying-the-vulnerable/index.html
+layout: layout.njk
 ---
 Greens bullying the vulnerable
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: algebra-advocate-wins-prestigious-maths-award
-title: "Algebra advocate wins prestigious maths award"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00020/algebra-advocate-wins-prestigious-maths-award.htm
+title: Algebra advocate wins prestigious maths award
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00020/algebra-advocate-wins-prestigious-maths-award.htm
 author: massey-university
+permalink: /archive/2015/07/02/algebra-advocate-wins-prestigious-maths-award/index.html
+layout: layout.njk
 ---
 Algebra advocate wins prestigious maths award
 =============================================

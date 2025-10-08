@@ -1,9 +1,12 @@
 ---
 slug: freedom-of-choice-better-than-cash
-title: "Freedom Of Choice Better Than Cash"
-date: 2003-01-27
-source-url: https://www.scoop.co.nz/stories/PA0301/S00219/freedom-of-choice-better-than-cash.htm
+title: Freedom Of Choice Better Than Cash
+date: 2003-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00219/freedom-of-choice-better-than-cash.htm
 author: act-new-zealand
+permalink: /archive/2003/01/27/freedom-of-choice-better-than-cash/index.html
+layout: layout.njk
 ---
 Freedom Of Choice Better Than Cash
 ==================================

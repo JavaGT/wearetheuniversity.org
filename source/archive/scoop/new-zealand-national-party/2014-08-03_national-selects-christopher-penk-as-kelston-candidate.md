@@ -1,9 +1,13 @@
 ---
 slug: national-selects-christopher-penk-as-kelston-candidate
-title: "National selects Christopher Penk as Kelston candidate"
-date: 2014-08-03
-source-url: https://www.scoop.co.nz/stories/PO1408/S00030/national-selects-christopher-penk-as-kelston-candidate.htm
+title: National selects Christopher Penk as Kelston candidate
+date: 2014-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00030/national-selects-christopher-penk-as-kelston-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/08/03/national-selects-christopher-penk-as-kelston-candidate/index.html
+layout: layout.njk
 ---
 National selects Christopher Penk as Kelston candidate
 ======================================================

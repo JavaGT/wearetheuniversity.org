@@ -1,9 +1,13 @@
 ---
 slug: bold-action-needed-on-food-prices-and-supermarket-profits
-title: "Bold Action Needed On Food Prices And Supermarket Profits"
-date: 2022-11-11
-source-url: https://www.scoop.co.nz/stories/PA2211/S00101/bold-action-needed-on-food-prices-and-supermarket-profits.htm
+title: Bold Action Needed On Food Prices And Supermarket Profits
+date: 2022-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00101/bold-action-needed-on-food-prices-and-supermarket-profits.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/11/bold-action-needed-on-food-prices-and-supermarket-profits/index.html
+layout: layout.njk
 ---
 Bold Action Needed On Food Prices And Supermarket Profits
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-housing-failure-sees-big-borrowing-rise
-title: "Govt housing failure sees big borrowing rise"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/PA1606/S00010/govt-housing-failure-sees-big-borrowing-rise.htm
+title: Govt housing failure sees big borrowing rise
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00010/govt-housing-failure-sees-big-borrowing-rise.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/01/govt-housing-failure-sees-big-borrowing-rise/index.html
+layout: layout.njk
 ---
 Govt housing failure sees big borrowing rise
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-saddened-by-news-of-faanānā-efeso-collins
-title: "Labour Saddened By News Of Fa’anānā Efeso Collins"
-date: 2024-02-21
-source-url: https://www.scoop.co.nz/stories/PA2402/S00063/labour-saddened-by-news-of-faanana-efeso-collins.htm
+title: Labour Saddened By News Of Fa’anānā Efeso Collins
+date: 2024-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2402/S00063/labour-saddened-by-news-of-faanana-efeso-collins.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/02/21/labour-saddened-by-news-of-faan/index.html
+layout: layout.njk
 ---
 Labour Saddened By News Of Fa’anānā Efeso Collins
 =================================================

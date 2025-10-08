@@ -1,9 +1,12 @@
 ---
 slug: community-enjoys-diwali-and-cultural-festival
-title: "Community enjoys Diwali and Cultural Festival"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/CU1310/S00196/community-enjoys-diwali-and-cultural-festival.htm
+title: Community enjoys Diwali and Cultural Festival
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00196/community-enjoys-diwali-and-cultural-festival.htm
 author: massey-university
+permalink: /archive/2013/10/10/community-enjoys-diwali-and-cultural-festival/index.html
+layout: layout.njk
 ---
 Community enjoys Diwali and Cultural Festival
 =============================================

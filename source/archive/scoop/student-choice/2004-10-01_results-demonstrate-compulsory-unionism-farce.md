@@ -1,9 +1,12 @@
 ---
 slug: results-demonstrate-compulsory-unionism-farce
-title: "Results Demonstrate Compulsory Unionism Farce"
-date: 2004-10-01
-source-url: https://www.scoop.co.nz/stories/ED0410/S00001/results-demonstrate-compulsory-unionism-farce.htm
+title: Results Demonstrate Compulsory Unionism Farce
+date: 2004-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00001/results-demonstrate-compulsory-unionism-farce.htm
 author: student-choice
+permalink: /archive/2004/10/01/results-demonstrate-compulsory-unionism-farce/index.html
+layout: layout.njk
 ---
 Results Demonstrate Compulsory Unionism Farce
 =============================================

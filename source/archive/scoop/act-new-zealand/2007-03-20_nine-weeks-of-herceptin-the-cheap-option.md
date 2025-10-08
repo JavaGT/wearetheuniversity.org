@@ -1,9 +1,12 @@
 ---
 slug: nine-weeks-of-herceptin-the-cheap-option
-title: "Nine Weeks Of Herceptin - The Cheap Option"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/PA0703/S00383/nine-weeks-of-herceptin-the-cheap-option.htm
+title: Nine Weeks Of Herceptin - The Cheap Option
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00383/nine-weeks-of-herceptin-the-cheap-option.htm
 author: act-new-zealand
+permalink: /archive/2007/03/20/nine-weeks-of-herceptin-the-cheap-option/index.html
+layout: layout.njk
 ---
 Nine Weeks Of Herceptin - The Cheap Option
 ==========================================

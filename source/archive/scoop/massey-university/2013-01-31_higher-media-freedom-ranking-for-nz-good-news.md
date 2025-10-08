@@ -1,9 +1,12 @@
 ---
 slug: higher-media-freedom-ranking-for-nz-good-news
-title: "Higher media freedom ranking for NZ \"good news\""
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/PO1301/S00147/higher-media-freedom-ranking-for-nz-good-news.htm
+title: Higher media freedom ranking for NZ "good news"
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1301/S00147/higher-media-freedom-ranking-for-nz-good-news.htm
 author: massey-university
+permalink: /archive/2013/01/31/higher-media-freedom-ranking-for-nz-good-news/index.html
+layout: layout.njk
 ---
 Higher media freedom ranking for NZ “good news”
 ===============================================

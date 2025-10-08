@@ -1,9 +1,13 @@
 ---
 slug: nz-wars-petition-adds-weight-to-the-call-for-a-national-day
-title: "NZ Wars petition adds weight to the call for a national day"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/PA1512/S00174/nz-wars-petition-adds-weight-to-the-call-for-a-national-day.htm
+title: NZ Wars petition adds weight to the call for a national day
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00174/nz-wars-petition-adds-weight-to-the-call-for-a-national-day.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2015/12/08/nz-wars-petition-adds-weight-to-the-call-for-a-national-day/index.html
+layout: layout.njk
 ---
 NZ Wars petition adds weight to the call for a national day
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: modern-uses-for-ancient-māori-knowledge
-title: "Modern uses for ancient Māori knowledge"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/SC1306/S00043/modern-uses-for-ancient-maori-knowledge.htm
+title: Modern uses for ancient Māori knowledge
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00043/modern-uses-for-ancient-maori-knowledge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/17/modern-uses-for-ancient-m/index.html
+layout: layout.njk
 ---
 Modern uses for ancient Māori knowledge
 =======================================

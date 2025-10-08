@@ -1,9 +1,13 @@
 ---
 slug: greens-mystified-by-opposition-to-matrimonial-bill
-title: "Greens mystified by opposition to Matrimonial Bill"
-date: 2000-05-24
-source-url: https://www.scoop.co.nz/stories/PA0005/S00508/greens-mystified-by-opposition-to-matrimonial-bill.htm
+title: Greens mystified by opposition to Matrimonial Bill
+date: 2000-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00508/greens-mystified-by-opposition-to-matrimonial-bill.htm
 author: green-party
+permalink: >-
+  /archive/2000/05/24/greens-mystified-by-opposition-to-matrimonial-bill/index.html
+layout: layout.njk
 ---
 Greens mystified by opposition to Matrimonial Bill
 ==================================================

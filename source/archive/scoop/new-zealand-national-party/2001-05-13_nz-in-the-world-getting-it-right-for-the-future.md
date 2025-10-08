@@ -1,9 +1,12 @@
 ---
 slug: nz-in-the-world-getting-it-right-for-the-future
-title: "NZ in the World - Getting it Right for the Future"
-date: 2001-05-13
-source-url: https://www.scoop.co.nz/stories/PA0105/S00279/nz-in-the-world-getting-it-right-for-the-future.htm
+title: NZ in the World - Getting it Right for the Future
+date: 2001-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00279/nz-in-the-world-getting-it-right-for-the-future.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/13/nz-in-the-world-getting-it-right-for-the-future/index.html
+layout: layout.njk
 ---
 NZ in the World - Getting it Right for the Future
 =================================================

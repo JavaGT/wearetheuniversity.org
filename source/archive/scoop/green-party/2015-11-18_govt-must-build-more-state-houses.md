@@ -1,9 +1,12 @@
 ---
 slug: govt-must-build-more-state-houses
-title: "Govt must build more state houses"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/PA1511/S00333/govt-must-build-more-state-houses.htm
+title: Govt must build more state houses
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00333/govt-must-build-more-state-houses.htm
 author: green-party
+permalink: /archive/2015/11/18/govt-must-build-more-state-houses/index.html
+layout: layout.njk
 ---
 Govt must build more state houses
 =================================

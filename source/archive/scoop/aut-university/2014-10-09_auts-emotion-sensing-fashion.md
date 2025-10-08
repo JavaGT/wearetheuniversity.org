@@ -1,9 +1,11 @@
 ---
 slug: auts-emotion-sensing-fashion
-title: "AUT’s Emotion Sensing Fashion"
-date: 2014-10-09
+title: AUT’s Emotion Sensing Fashion
+date: 2014-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1410/S00052/auts-emotion-sensing-fashion.htm
 author: aut-university
+permalink: /archive/2014/10/09/auts-emotion-sensing-fashion/index.html
+layout: layout.njk
 ---
 AUT’s Emotion Sensing Fashion
 =============================

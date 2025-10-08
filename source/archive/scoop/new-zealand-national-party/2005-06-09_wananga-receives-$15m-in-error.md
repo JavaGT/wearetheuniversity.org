@@ -1,9 +1,12 @@
 ---
 slug: wananga-receives-$15m-in-error
-title: "Wananga receives $15m in error"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00200/wananga-receives-15m-in-error.htm
+title: Wananga receives $15m in error
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00200/wananga-receives-15m-in-error.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/09/wananga-receives-/index.html
+layout: layout.njk
 ---
 Wananga receives $15m in error
 ==============================

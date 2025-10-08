@@ -1,9 +1,13 @@
 ---
 slug: more-support-needed-for-children-born-very-pre-term
-title: "More Support Needed For Children Born Very Pre-term"
-date: 2020-03-09
-source-url: https://www.scoop.co.nz/stories/SC2003/S00016/more-support-needed-for-children-born-very-pre-term.htm
+title: More Support Needed For Children Born Very Pre-term
+date: 2020-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2003/S00016/more-support-needed-for-children-born-very-pre-term.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/03/09/more-support-needed-for-children-born-very-pre-term/index.html
+layout: layout.njk
 ---
 More Support Needed For Children Born Very Pre-term
 ===================================================

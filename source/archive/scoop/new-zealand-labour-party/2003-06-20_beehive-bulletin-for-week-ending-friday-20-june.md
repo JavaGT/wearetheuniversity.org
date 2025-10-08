@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-for-week-ending-friday-20-june
-title: "Beehive Bulletin For Week Ending Friday 20 June"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00379/beehive-bulletin-for-week-ending-friday-20-june.htm
+title: Beehive Bulletin For Week Ending Friday 20 June
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00379/beehive-bulletin-for-week-ending-friday-20-june.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/06/20/beehive-bulletin-for-week-ending-friday-20-june/index.html
+layout: layout.njk
 ---
 Beehive Bulletin For Week Ending Friday 20 June
 ===============================================

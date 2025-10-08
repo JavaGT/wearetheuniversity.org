@@ -1,8 +1,11 @@
 ---
 slug: kiwi-behind-silicon-valley-start-up
-title: "Kiwi behind Silicon Valley start-up"
-date: 2015-11-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/kiwi-behind-silicon-valley-start-up.html
+title: Kiwi behind Silicon Valley start-up
+date: 2015-11-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/kiwi-behind-silicon-valley-start-up.html
+permalink: /archive/2015/11/17/kiwi-behind-silicon-valley-start-up/index.html
+layout: layout.njk
 ---
 Kiwi behind Silicon Valley start-up
 ===================================

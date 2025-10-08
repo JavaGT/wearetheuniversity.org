@@ -1,9 +1,13 @@
 ---
 slug: nz-first-speech-to-new-zealand-trainers-association
-title: "NZ First: Speech to New Zealand Trainers' Association"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/PA1408/S00026/nz-first-speech-to-new-zealand-trainers-association.htm
+title: 'NZ First: Speech to New Zealand Trainers'' Association'
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00026/nz-first-speech-to-new-zealand-trainers-association.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/08/01/nz-first-speech-to-new-zealand-trainers-association/index.html
+layout: layout.njk
 ---
 NZ First: Speech to New Zealand Trainers' Association
 =====================================================

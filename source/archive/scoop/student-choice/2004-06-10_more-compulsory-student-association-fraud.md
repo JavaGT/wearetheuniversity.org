@@ -1,9 +1,12 @@
 ---
 slug: more-compulsory-student-association-fraud
-title: "More Compulsory Student Association Fraud"
-date: 2004-06-10
-source-url: https://www.scoop.co.nz/stories/ED0406/S00052/more-compulsory-student-association-fraud.htm
+title: More Compulsory Student Association Fraud
+date: 2004-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00052/more-compulsory-student-association-fraud.htm
 author: student-choice
+permalink: /archive/2004/06/10/more-compulsory-student-association-fraud/index.html
+layout: layout.njk
 ---
 More Compulsory Student Association Fraud
 =========================================

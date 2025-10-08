@@ -1,9 +1,12 @@
 ---
 slug: nzusa-and-atsa-dont-represent-all-students
-title: "NZUSA And ATSA Don't Represent All Students"
-date: 2001-11-12
-source-url: https://www.scoop.co.nz/stories/ED0111/S00029/nzusa-and-atsa-dont-represent-all-students.htm
+title: NZUSA And ATSA Don't Represent All Students
+date: 2001-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00029/nzusa-and-atsa-dont-represent-all-students.htm
 author: student-choice
+permalink: /archive/2001/11/12/nzusa-and-atsa-dont-represent-all-students/index.html
+layout: layout.njk
 ---
 NZUSA And ATSA Don't Represent All Students
 ===========================================

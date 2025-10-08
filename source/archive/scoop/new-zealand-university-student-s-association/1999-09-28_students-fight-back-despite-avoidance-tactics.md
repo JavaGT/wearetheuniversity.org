@@ -1,9 +1,12 @@
 ---
 slug: students-fight-back-despite-avoidance-tactics
-title: "Students Fight Back Despite Avoidance Tactics"
-date: 1999-09-28
-source-url: https://www.scoop.co.nz/stories/ED9909/S00048/students-fight-back-despite-avoidance-tactics.htm
+title: Students Fight Back Despite Avoidance Tactics
+date: 1999-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00048/students-fight-back-despite-avoidance-tactics.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/28/students-fight-back-despite-avoidance-tactics/index.html
+layout: layout.njk
 ---
 Students Fight Back Despite Avoidance Tactics
 =============================================

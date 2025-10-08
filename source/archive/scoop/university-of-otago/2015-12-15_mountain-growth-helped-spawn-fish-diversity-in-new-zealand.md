@@ -1,9 +1,13 @@
 ---
 slug: mountain-growth-helped-spawn-fish-diversity-in-new-zealand
-title: "Mountain growth helped spawn fish diversity in New Zealand"
-date: 2015-12-15
-source-url: https://www.scoop.co.nz/stories/SC1512/S00064/mountain-growth-helped-spawn-fish-diversity-in-new-zealand.htm
+title: Mountain growth helped spawn fish diversity in New Zealand
+date: 2015-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00064/mountain-growth-helped-spawn-fish-diversity-in-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/15/mountain-growth-helped-spawn-fish-diversity-in-new-zealand/index.html
+layout: layout.njk
 ---
 Mountain growth helped spawn fish diversity in New Zealand
 ==========================================================

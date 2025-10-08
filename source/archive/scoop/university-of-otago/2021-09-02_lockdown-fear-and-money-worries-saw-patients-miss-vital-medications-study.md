@@ -1,9 +1,13 @@
 ---
 slug: lockdown-fear-and-money-worries-saw-patients-miss-vital-medications-study
-title: "Lockdown 'Fear' And Money Worries Saw Patients Miss Vital Medications - Study"
-date: 2021-09-02
-source-url: https://www.scoop.co.nz/stories/GE2109/S00011/lockdown-fear-and-money-worries-saw-patients-miss-vital-medications-study.htm
+title: Lockdown 'Fear' And Money Worries Saw Patients Miss Vital Medications - Study
+date: 2021-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2109/S00011/lockdown-fear-and-money-worries-saw-patients-miss-vital-medications-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/09/02/lockdown-fear-and-money-worries-saw-patients-miss-vital-medications-study/index.html
+layout: layout.njk
 ---
 Lockdown 'Fear' And Money Worries Saw Patients Miss Vital Medications - Study
 =============================================================================

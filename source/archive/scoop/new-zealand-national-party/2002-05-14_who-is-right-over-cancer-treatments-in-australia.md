@@ -1,9 +1,13 @@
 ---
 slug: who-is-right-over-cancer-treatments-in-australia
-title: "Who is right over cancer treatments in Australia?"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/PA0205/S00281/who-is-right-over-cancer-treatments-in-australia.htm
+title: Who is right over cancer treatments in Australia?
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00281/who-is-right-over-cancer-treatments-in-australia.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/05/14/who-is-right-over-cancer-treatments-in-australia/index.html
+layout: layout.njk
 ---
 Who is right over cancer treatments in Australia?
 =================================================

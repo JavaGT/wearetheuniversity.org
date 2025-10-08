@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-atom-breakthrough-represents
-title: "University of Otago atom breakthrough represents"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/ED1009/S00122/university-of-otago-atom-breakthrough-represents.htm
+title: University of Otago atom breakthrough represents
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00122/university-of-otago-atom-breakthrough-represents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/09/27/university-of-otago-atom-breakthrough-represents/index.html
+layout: layout.njk
 ---
 University of Otago atom breakthrough represents
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: climate-bill-will-save-jobs-and-meet-obligations
-title: "Climate Bill Will Save Jobs And Meet Obligations"
-date: 2024-01-11
-source-url: https://www.scoop.co.nz/stories/PA2401/S00009/climate-bill-will-save-jobs-and-meet-obligations.htm
+title: Climate Bill Will Save Jobs And Meet Obligations
+date: 2024-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00009/climate-bill-will-save-jobs-and-meet-obligations.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/01/11/climate-bill-will-save-jobs-and-meet-obligations/index.html
+layout: layout.njk
 ---
 Climate Bill Will Save Jobs And Meet Obligations
 ================================================

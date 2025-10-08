@@ -1,9 +1,12 @@
 ---
 slug: aut-to-teach-mental-impact-of-adoption
-title: "AUT to teach mental impact of adoption"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/ED0606/S00047/aut-to-teach-mental-impact-of-adoption.htm
+title: AUT to teach mental impact of adoption
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00047/aut-to-teach-mental-impact-of-adoption.htm
 author: aut-university
+permalink: /archive/2006/06/21/aut-to-teach-mental-impact-of-adoption/index.html
+layout: layout.njk
 ---
 AUT to teach mental impact of adoption
 ======================================

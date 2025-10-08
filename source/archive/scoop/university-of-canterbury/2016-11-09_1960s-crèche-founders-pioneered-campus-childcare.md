@@ -1,9 +1,12 @@
 ---
 slug: 1960s-crèche-founders-pioneered-campus-childcare
-title: "1960s crèche founders pioneered campus childcare"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/ED1611/S00050/1960s-creche-founders-pioneered-campus-childcare.htm
+title: 1960s crèche founders pioneered campus childcare
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00050/1960s-creche-founders-pioneered-campus-childcare.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/09/1960s-cr/index.html
+layout: layout.njk
 ---
 1960s crèche founders pioneered campus childcare
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: helen-clark-on-the-1st-100-days-of-a-labour-govt
-title: "Helen Clark on the 1st 100 days of a Labour Govt"
-date: 1999-11-21
-source-url: https://www.scoop.co.nz/stories/PA9911/S00480/helen-clark-on-the-1st-100-days-of-a-labour-govt.htm
+title: Helen Clark on the 1st 100 days of a Labour Govt
+date: 1999-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00480/helen-clark-on-the-1st-100-days-of-a-labour-govt.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/11/21/helen-clark-on-the-1st-100-days-of-a-labour-govt/index.html
+layout: layout.njk
 ---
 Helen Clark on the 1st 100 days of a Labour Govt
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: pursuing-social-justice-in-new-zealand
-title: "Pursuing Social Justice in New Zealand"
-date: 2007-03-06
-source-url: https://www.scoop.co.nz/stories/PO0703/S00070/pursuing-social-justice-in-new-zealand.htm
+title: Pursuing Social Justice in New Zealand
+date: 2007-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00070/pursuing-social-justice-in-new-zealand.htm
 author: maxim-institute
+permalink: /archive/2007/03/06/pursuing-social-justice-in-new-zealand/index.html
+layout: layout.njk
 ---
 Pursuing Social Justice in New Zealand
 ======================================

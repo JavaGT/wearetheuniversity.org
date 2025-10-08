@@ -1,9 +1,12 @@
 ---
 slug: catching-thieves-not-a-priority-for-govt
-title: "Catching Thieves Not A Priority For Govt"
-date: 2021-08-04
-source-url: https://www.scoop.co.nz/stories/PA2108/S00039/catching-thieves-not-a-priority-for-govt.htm
+title: Catching Thieves Not A Priority For Govt
+date: 2021-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00039/catching-thieves-not-a-priority-for-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/04/catching-thieves-not-a-priority-for-govt/index.html
+layout: layout.njk
 ---
 Catching Thieves Not A Priority For Govt
 ========================================

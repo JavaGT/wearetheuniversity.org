@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-speech-to-green-party-agm-2016
-title: "Andrew Little - Speech to Green Party AGM 2016"
-date: 2016-06-04
-source-url: https://www.scoop.co.nz/stories/PA1606/S00090/andrew-little-speech-to-green-party-agm-2016.htm
+title: Andrew Little - Speech to Green Party AGM 2016
+date: 2016-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00090/andrew-little-speech-to-green-party-agm-2016.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/04/andrew-little-speech-to-green-party-agm-2016/index.html
+layout: layout.njk
 ---
 Andrew Little - Speech to Green Party AGM 2016
 ==============================================

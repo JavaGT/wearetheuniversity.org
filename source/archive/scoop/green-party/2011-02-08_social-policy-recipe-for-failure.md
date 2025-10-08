@@ -1,9 +1,12 @@
 ---
 slug: social-policy-recipe-for-failure
-title: "Social policy recipe for failure"
-date: 2011-02-08
-source-url: https://www.scoop.co.nz/stories/PA1102/S00104/social-policy-recipe-for-failure.htm
+title: Social policy recipe for failure
+date: 2011-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00104/social-policy-recipe-for-failure.htm
 author: green-party
+permalink: /archive/2011/02/08/social-policy-recipe-for-failure/index.html
+layout: layout.njk
 ---
 Social policy recipe for failure
 ================================

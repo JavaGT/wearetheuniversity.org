@@ -1,9 +1,16 @@
 ---
-slug: labours-energy-policy-shows-progress-but-more-action-needed-to-protect-the-planet
-title: "Labour’s Energy Policy Shows Progress, But More Action Needed To Protect The Planet"
-date: 2020-09-10
-source-url: https://www.scoop.co.nz/stories/PA2009/S00087/labours-energy-policy-shows-progress-but-more-action-needed-to-protect-the-planet.htm
+slug: >-
+  labours-energy-policy-shows-progress-but-more-action-needed-to-protect-the-planet
+title: >-
+  Labour’s Energy Policy Shows Progress, But More Action Needed To Protect The
+  Planet
+date: 2020-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00087/labours-energy-policy-shows-progress-but-more-action-needed-to-protect-the-planet.htm
 author: green-party
+permalink: >-
+  /archive/2020/09/10/labours-energy-policy-shows-progress-but-more-action-needed-to-protect-the-planet/index.html
+layout: layout.njk
 ---
 Labour’s Energy Policy Shows Progress, But More Action Needed To Protect The Planet
 ===================================================================================

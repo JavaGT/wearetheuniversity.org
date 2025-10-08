@@ -1,9 +1,12 @@
 ---
 slug: finding-a-virus-is-not-all-bad-news
-title: "Finding a virus is not all bad news"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/ED0603/S00021/finding-a-virus-is-not-all-bad-news.htm
+title: Finding a virus is not all bad news
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00021/finding-a-virus-is-not-all-bad-news.htm
 author: auckland-university
+permalink: /archive/2006/03/06/finding-a-virus-is-not-all-bad-news/index.html
+layout: layout.njk
 ---
 Finding a virus is not all bad news
 ===================================

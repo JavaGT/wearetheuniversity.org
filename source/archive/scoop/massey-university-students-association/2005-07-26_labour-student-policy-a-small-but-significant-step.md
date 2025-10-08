@@ -1,9 +1,13 @@
 ---
 slug: labour-student-policy-a-small-but-significant-step
-title: "Labour Student Policy a Small but Significant Step"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00097/labour-student-policy-a-small-but-significant-step.htm
+title: Labour Student Policy a Small but Significant Step
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00097/labour-student-policy-a-small-but-significant-step.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2005/07/26/labour-student-policy-a-small-but-significant-step/index.html
+layout: layout.njk
 ---
 Labour Student Policy a Small but Significant Step
 ==================================================

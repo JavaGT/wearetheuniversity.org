@@ -1,9 +1,12 @@
 ---
 slug: bitter-disappointment-at-mallards-actions
-title: "Bitter disappointment at Mallard's actions"
-date: 2000-02-17
-source-url: https://www.scoop.co.nz/stories/PA0002/S00236/bitter-disappointment-at-mallards-actions.htm
+title: Bitter disappointment at Mallard's actions
+date: 2000-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00236/bitter-disappointment-at-mallards-actions.htm
 author: act-new-zealand
+permalink: /archive/2000/02/17/bitter-disappointment-at-mallards-actions/index.html
+layout: layout.njk
 ---
 Bitter disappointment at Mallard's actions
 ==========================================

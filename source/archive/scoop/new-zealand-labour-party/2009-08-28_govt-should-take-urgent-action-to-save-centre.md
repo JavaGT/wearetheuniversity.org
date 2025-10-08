@@ -1,9 +1,12 @@
 ---
 slug: govt-should-take-urgent-action-to-save-centre
-title: "Govt should take urgent action to save Centre"
-date: 2009-08-28
-source-url: https://www.scoop.co.nz/stories/PA0908/S00430/govt-should-take-urgent-action-to-save-centre.htm
+title: Govt should take urgent action to save Centre
+date: 2009-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00430/govt-should-take-urgent-action-to-save-centre.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/28/govt-should-take-urgent-action-to-save-centre/index.html
+layout: layout.njk
 ---
 Govt should take urgent action to save Centre
 =============================================

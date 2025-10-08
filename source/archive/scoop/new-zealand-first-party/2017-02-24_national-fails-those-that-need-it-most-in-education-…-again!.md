@@ -1,9 +1,13 @@
 ---
 slug: national-fails-those-that-need-it-most-in-education-…-again!
-title: "National Fails Those That Need It Most in Education … Again!"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/PA1702/S00336/national-fails-those-that-need-it-most-in-education-again.htm
+title: National Fails Those That Need It Most in Education … Again!
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00336/national-fails-those-that-need-it-most-in-education-again.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/24/national-fails-those-that-need-it-most-in-education-/index.html
+layout: layout.njk
 ---
 National Fails Those That Need It Most in Education … Again!
 ============================================================

@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-launches-professional-membership-for-academics-to-fight-culture-of-fear-in-universities
-title: "Free Speech Union Launches Professional Membership For Academics To Fight ‘Culture Of Fear’ In Universities"
-date: 2024-05-08
-source-url: https://www.scoop.co.nz/stories/ED2405/S00036/free-speech-union-launches-professional-membership-for-academics-to-fight-culture-of-fear-in-universities.htm
+slug: >-
+  free-speech-union-launches-professional-membership-for-academics-to-fight-culture-of-fear-in-universities
+title: >-
+  Free Speech Union Launches Professional Membership For Academics To Fight
+  ‘Culture Of Fear’ In Universities
+date: 2024-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00036/free-speech-union-launches-professional-membership-for-academics-to-fight-culture-of-fear-in-universities.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/08/free-speech-union-launches-professional-membership-for-academics-to-fight-culture-of-fear-in-universities/index.html
+layout: layout.njk
 ---
 Free Speech Union Launches Professional Membership For Academics To Fight ‘Culture Of Fear’ In Universities
 ===========================================================================================================

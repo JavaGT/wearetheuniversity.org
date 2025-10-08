@@ -1,9 +1,12 @@
 ---
 slug: kids-a-means-to-greens-ideological-ends
-title: "Kids a means to Greens’ ideological ends"
-date: 2018-09-10
-source-url: https://www.scoop.co.nz/stories/PA1809/S00119/kids-a-means-to-greens-ideological-ends.htm
+title: Kids a means to Greens’ ideological ends
+date: 2018-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00119/kids-a-means-to-greens-ideological-ends.htm
 author: act-new-zealand
+permalink: /archive/2018/09/10/kids-a-means-to-greens-ideological-ends/index.html
+layout: layout.njk
 ---
 Kids a means to Greens’ ideological ends
 ========================================

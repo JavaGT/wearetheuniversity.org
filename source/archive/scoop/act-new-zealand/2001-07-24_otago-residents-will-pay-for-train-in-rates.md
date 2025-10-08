@@ -1,9 +1,12 @@
 ---
 slug: otago-residents-will-pay-for-train-in-rates
-title: "Otago Residents Will Pay For Train In Rates"
-date: 2001-07-24
-source-url: https://www.scoop.co.nz/stories/PA0107/S00374/otago-residents-will-pay-for-train-in-rates.htm
+title: Otago Residents Will Pay For Train In Rates
+date: 2001-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00374/otago-residents-will-pay-for-train-in-rates.htm
 author: act-new-zealand
+permalink: /archive/2001/07/24/otago-residents-will-pay-for-train-in-rates/index.html
+layout: layout.njk
 ---
 Otago Residents Will Pay For Train In Rates
 ===========================================

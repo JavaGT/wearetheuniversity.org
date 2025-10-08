@@ -1,9 +1,13 @@
 ---
 slug: nzers-need-full-information-about-tppa-costs-and-trade-offs
-title: "NZers need full information about TPPA costs and trade-offs"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PA1601/S00090/nzers-need-full-information-about-tppa-costs-and-trade-offs.htm
+title: NZers need full information about TPPA costs and trade-offs
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00090/nzers-need-full-information-about-tppa-costs-and-trade-offs.htm
 author: green-party
+permalink: >-
+  /archive/2016/01/22/nzers-need-full-information-about-tppa-costs-and-trade-offs/index.html
+layout: layout.njk
 ---
 NZers need full information about TPPA costs and trade-offs
 ===========================================================

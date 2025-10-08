@@ -1,9 +1,12 @@
 ---
 slug: drug-testing-a-tool-not-the-sole-solution
-title: "Drug testing a tool not the sole solution"
-date: 2012-01-03
-source-url: https://www.scoop.co.nz/stories/PA1201/S00003/drug-testing-a-tool-not-the-sole-solution.htm
+title: Drug testing a tool not the sole solution
+date: 2012-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00003/drug-testing-a-tool-not-the-sole-solution.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/01/03/drug-testing-a-tool-not-the-sole-solution/index.html
+layout: layout.njk
 ---
 Drug testing a tool not the sole solution
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: what-we-can-learn-from-gen-z-workers
-title: "What We Can Learn From Gen Z Workers"
-date: 2024-10-04
-source-url: https://www.scoop.co.nz/stories/BU2410/S00083/what-we-can-learn-from-gen-z-workers.htm
+title: What We Can Learn From Gen Z Workers
+date: 2024-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2410/S00083/what-we-can-learn-from-gen-z-workers.htm
 author: independent-media-institute
+permalink: /archive/2024/10/04/what-we-can-learn-from-gen-z-workers/index.html
+layout: layout.njk
 ---
 What We Can Learn From Gen Z Workers
 ====================================

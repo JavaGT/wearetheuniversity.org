@@ -1,9 +1,12 @@
 ---
 slug: judge-to-address-family-court-seminar
-title: "Judge to address Family Court seminar"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00105/judge-to-address-family-court-seminar.htm
+title: Judge to address Family Court seminar
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00105/judge-to-address-family-court-seminar.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/25/judge-to-address-family-court-seminar/index.html
+layout: layout.njk
 ---
 Judge to address Family Court seminar
 =====================================

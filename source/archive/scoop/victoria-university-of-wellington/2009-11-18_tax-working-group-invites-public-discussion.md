@@ -1,9 +1,12 @@
 ---
 slug: tax-working-group-invites-public-discussion
-title: "Tax Working Group invites public discussion"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/BU0911/S00555/tax-working-group-invites-public-discussion.htm
+title: Tax Working Group invites public discussion
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00555/tax-working-group-invites-public-discussion.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/18/tax-working-group-invites-public-discussion/index.html
+layout: layout.njk
 ---
 Tax Working Group invites public discussion
 ===========================================

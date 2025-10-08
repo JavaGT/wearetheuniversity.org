@@ -1,9 +1,13 @@
 ---
 slug: confronting-climate-change-critical-issues-for-nz
-title: "Confronting Climate Change: Critical Issues for NZ"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/PO0611/S00115/confronting-climate-change-critical-issues-for-nz.htm
+title: 'Confronting Climate Change: Critical Issues for NZ'
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00115/confronting-climate-change-critical-issues-for-nz.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2006/11/08/confronting-climate-change-critical-issues-for-nz/index.html
+layout: layout.njk
 ---
 Confronting Climate Change: Critical Issues for NZ
 ==================================================

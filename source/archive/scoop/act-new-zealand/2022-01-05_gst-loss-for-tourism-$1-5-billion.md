@@ -1,9 +1,12 @@
 ---
 slug: gst-loss-for-tourism-$1-5-billion
-title: "GST Loss For Tourism $1.5 Billion"
-date: 2022-01-05
-source-url: https://www.scoop.co.nz/stories/PA2201/S00010/gst-loss-for-tourism-15-billion.htm
+title: GST Loss For Tourism $1.5 Billion
+date: 2022-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00010/gst-loss-for-tourism-15-billion.htm
 author: act-new-zealand
+permalink: /archive/2022/01/05/gst-loss-for-tourism-/index.html
+layout: layout.njk
 ---
 GST Loss For Tourism $1.5 Billion
 =================================

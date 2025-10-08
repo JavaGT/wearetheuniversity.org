@@ -1,9 +1,12 @@
 ---
 slug: the-burgeoning-cost-of-cancer-in-nz-study
-title: "The burgeoning cost of cancer in NZ – study"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/GE1504/S00051/the-burgeoning-cost-of-cancer-in-nz-study.htm
+title: The burgeoning cost of cancer in NZ – study
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00051/the-burgeoning-cost-of-cancer-in-nz-study.htm
 author: university-of-otago
+permalink: /archive/2015/04/14/the-burgeoning-cost-of-cancer-in-nz-study/index.html
+layout: layout.njk
 ---
 The burgeoning cost of cancer in NZ – study
 ===========================================

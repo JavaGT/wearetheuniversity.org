@@ -1,9 +1,12 @@
 ---
 slug: john-key-ditches-his-own-school
-title: "John Key Ditches His Own School"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/PO0811/S00093/john-key-ditches-his-own-school.htm
+title: John Key Ditches His Own School
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00093/john-key-ditches-his-own-school.htm
 author: te-pati-maori
+permalink: /archive/2008/11/06/john-key-ditches-his-own-school/index.html
+layout: layout.njk
 ---
 John Key Ditches His Own School
 ===============================

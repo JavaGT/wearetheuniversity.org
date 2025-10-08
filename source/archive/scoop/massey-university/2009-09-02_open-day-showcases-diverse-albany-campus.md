@@ -1,9 +1,12 @@
 ---
 slug: open-day-showcases-diverse-albany-campus
-title: "Open Day showcases diverse Albany campus"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/ED0909/S00009/open-day-showcases-diverse-albany-campus.htm
+title: Open Day showcases diverse Albany campus
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00009/open-day-showcases-diverse-albany-campus.htm
 author: massey-university
+permalink: /archive/2009/09/02/open-day-showcases-diverse-albany-campus/index.html
+layout: layout.njk
 ---
 Open Day showcases diverse Albany campus
 ========================================

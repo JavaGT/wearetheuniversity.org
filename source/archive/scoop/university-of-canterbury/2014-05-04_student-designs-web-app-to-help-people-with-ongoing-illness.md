@@ -1,9 +1,13 @@
 ---
 slug: student-designs-web-app-to-help-people-with-ongoing-illness
-title: "Student designs web app to help people with ongoing illness"
-date: 2014-05-04
-source-url: https://www.scoop.co.nz/stories/GE1405/S00017/student-designs-web-app-to-help-people-with-ongoing-illness.htm
+title: Student designs web app to help people with ongoing illness
+date: 2014-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00017/student-designs-web-app-to-help-people-with-ongoing-illness.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/04/student-designs-web-app-to-help-people-with-ongoing-illness/index.html
+layout: layout.njk
 ---
 Student designs web app to help people with ongoing illness
 ===========================================================

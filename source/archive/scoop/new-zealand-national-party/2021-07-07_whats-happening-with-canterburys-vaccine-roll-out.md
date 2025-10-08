@@ -1,9 +1,13 @@
 ---
 slug: whats-happening-with-canterburys-vaccine-roll-out
-title: "What’s Happening With Canterbury’s Vaccine Roll Out?"
-date: 2021-07-07
-source-url: https://www.scoop.co.nz/stories/PA2107/S00067/whats-happening-with-canterburys-vaccine-roll-out.htm
+title: What’s Happening With Canterbury’s Vaccine Roll Out?
+date: 2021-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00067/whats-happening-with-canterburys-vaccine-roll-out.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/07/whats-happening-with-canterburys-vaccine-roll-out/index.html
+layout: layout.njk
 ---
 What’s Happening With Canterbury’s Vaccine Roll Out?
 ====================================================

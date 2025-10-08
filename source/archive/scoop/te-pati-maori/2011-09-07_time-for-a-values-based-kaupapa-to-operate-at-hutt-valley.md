@@ -1,9 +1,13 @@
 ---
 slug: time-for-a-values-based-kaupapa-to-operate-at-hutt-valley
-title: "Time for a values based kaupapa to operate at Hutt Valley"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00128/time-for-a-values-based-kaupapa-to-operate-at-hutt-valley.htm
+title: Time for a values based kaupapa to operate at Hutt Valley
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00128/time-for-a-values-based-kaupapa-to-operate-at-hutt-valley.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/07/time-for-a-values-based-kaupapa-to-operate-at-hutt-valley/index.html
+layout: layout.njk
 ---
 Time for a values based kaupapa to operate at Hutt Valley
 =========================================================

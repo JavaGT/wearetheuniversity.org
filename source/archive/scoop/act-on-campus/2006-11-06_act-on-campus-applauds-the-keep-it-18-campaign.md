@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-applauds-the-keep-it-18-campaign
-title: "ACT On Campus Applauds The Keep it 18 Campaign"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/PO0611/S00084/act-on-campus-applauds-the-keep-it-18-campaign.htm
+title: ACT On Campus Applauds The Keep it 18 Campaign
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00084/act-on-campus-applauds-the-keep-it-18-campaign.htm
 author: act-on-campus
+permalink: /archive/2006/11/06/act-on-campus-applauds-the-keep-it-18-campaign/index.html
+layout: layout.njk
 ---
 ACT On Campus Applauds The Keep it 18 Campaign
 ==============================================

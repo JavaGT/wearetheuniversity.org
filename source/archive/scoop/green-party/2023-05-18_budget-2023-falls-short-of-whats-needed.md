@@ -1,9 +1,12 @@
 ---
 slug: budget-2023-falls-short-of-whats-needed
-title: "Budget 2023 Falls Short Of What’s Needed"
-date: 2023-05-18
-source-url: https://www.scoop.co.nz/stories/PA2305/S00129/budget-2023-falls-short-of-whats-needed.htm
+title: Budget 2023 Falls Short Of What’s Needed
+date: 2023-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00129/budget-2023-falls-short-of-whats-needed.htm
 author: green-party
+permalink: /archive/2023/05/18/budget-2023-falls-short-of-whats-needed/index.html
+layout: layout.njk
 ---
 Budget 2023 Falls Short Of What’s Needed
 ========================================

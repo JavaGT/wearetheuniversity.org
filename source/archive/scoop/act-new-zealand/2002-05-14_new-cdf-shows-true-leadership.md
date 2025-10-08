@@ -1,9 +1,12 @@
 ---
 slug: new-cdf-shows-true-leadership
-title: "New CDF Shows True Leadership"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/PA0205/S00285/new-cdf-shows-true-leadership.htm
+title: New CDF Shows True Leadership
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00285/new-cdf-shows-true-leadership.htm
 author: act-new-zealand
+permalink: /archive/2002/05/14/new-cdf-shows-true-leadership/index.html
+layout: layout.njk
 ---
 New CDF Shows True Leadership
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: guinness-nod-for-transatlantic-crossing
-title: "Guinness nod for transatlantic crossing"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/CU0810/S00226/guinness-nod-for-transatlantic-crossing.htm
+title: Guinness nod for transatlantic crossing
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00226/guinness-nod-for-transatlantic-crossing.htm
 author: auckland-university
+permalink: /archive/2008/10/21/guinness-nod-for-transatlantic-crossing/index.html
+layout: layout.njk
 ---
 Guinness nod for transatlantic crossing
 =======================================

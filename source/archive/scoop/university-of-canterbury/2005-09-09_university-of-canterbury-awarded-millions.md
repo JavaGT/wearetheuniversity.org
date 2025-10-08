@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-awarded-millions
-title: "University of Canterbury awarded millions"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/ED0509/S00031/university-of-canterbury-awarded-millions.htm
+title: University of Canterbury awarded millions
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00031/university-of-canterbury-awarded-millions.htm
 author: university-of-canterbury
+permalink: /archive/2005/09/09/university-of-canterbury-awarded-millions/index.html
+layout: layout.njk
 ---
 University of Canterbury awarded millions
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: student-fee-increases-fund-huge-advertising-binge
-title: "Student fee increases fund huge advertising binge"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/ED0502/S00098/student-fee-increases-fund-huge-advertising-binge.htm
+title: Student fee increases fund huge advertising binge
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00098/student-fee-increases-fund-huge-advertising-binge.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/02/28/student-fee-increases-fund-huge-advertising-binge/index.html
+layout: layout.njk
 ---
 Student fee increases fund huge advertising binge
 =================================================

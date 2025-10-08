@@ -1,9 +1,12 @@
 ---
 slug: uc-psychologist-wins-top-us-award
-title: "UC psychologist wins top US award"
-date: 2011-05-30
-source-url: https://www.scoop.co.nz/stories/ED1105/S00129/uc-psychologist-wins-top-us-award.htm
+title: UC psychologist wins top US award
+date: 2011-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00129/uc-psychologist-wins-top-us-award.htm
 author: university-of-canterbury
+permalink: /archive/2011/05/30/uc-psychologist-wins-top-us-award/index.html
+layout: layout.njk
 ---
 UC psychologist wins top US award
 =================================

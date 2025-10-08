@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-candidate-for-te-tai-tokerau
-title: "Labour Selects Candidate for Te Tai Tokerau"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/PA1105/S00201/labour-selects-candidate-for-te-tai-tokerau.htm
+title: Labour Selects Candidate for Te Tai Tokerau
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00201/labour-selects-candidate-for-te-tai-tokerau.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/10/labour-selects-candidate-for-te-tai-tokerau/index.html
+layout: layout.njk
 ---
 Labour Selects Candidate for Te Tai Tokerau
 ===========================================

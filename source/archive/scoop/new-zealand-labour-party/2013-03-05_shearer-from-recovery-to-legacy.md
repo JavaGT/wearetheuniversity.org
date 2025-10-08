@@ -1,9 +1,12 @@
 ---
 slug: shearer-from-recovery-to-legacy
-title: "Shearer: From Recovery To Legacy"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/PA1303/S00054/shearer-from-recovery-to-legacy.htm
+title: 'Shearer: From Recovery To Legacy'
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00054/shearer-from-recovery-to-legacy.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/05/shearer-from-recovery-to-legacy/index.html
+layout: layout.njk
 ---
 Shearer: From Recovery To Legacy
 ================================

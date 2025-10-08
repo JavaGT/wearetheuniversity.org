@@ -1,9 +1,12 @@
 ---
 slug: rock-star-economy-hitting-the-rocks
-title: "‘Rock star’ economy hitting the rocks"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PA1408/S00399/rock-star-economy-hitting-the-rocks.htm
+title: ‘Rock star’ economy hitting the rocks
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00399/rock-star-economy-hitting-the-rocks.htm
 author: green-party
+permalink: /archive/2014/08/26/rock-star-economy-hitting-the-rocks/index.html
+layout: layout.njk
 ---
 ‘Rock star’ economy hitting the rocks
 =====================================

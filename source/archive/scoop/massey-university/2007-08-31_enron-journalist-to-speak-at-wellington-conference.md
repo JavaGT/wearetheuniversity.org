@@ -1,9 +1,13 @@
 ---
 slug: enron-journalist-to-speak-at-wellington-conference
-title: "Enron Journalist To Speak At Wellington Conference"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/BU0708/S00633/enron-journalist-to-speak-at-wellington-conference.htm
+title: Enron Journalist To Speak At Wellington Conference
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00633/enron-journalist-to-speak-at-wellington-conference.htm
 author: massey-university
+permalink: >-
+  /archive/2007/08/31/enron-journalist-to-speak-at-wellington-conference/index.html
+layout: layout.njk
 ---
 Enron Journalist To Speak At Wellington Conference
 ==================================================

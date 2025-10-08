@@ -1,9 +1,12 @@
 ---
 slug: working-group-set-up-to-take-heat-off-minister
-title: "Working Group set up to Take Heat off Minister"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PA1205/S00499/working-group-set-up-to-take-heat-off-minister.htm
+title: Working Group set up to Take Heat off Minister
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00499/working-group-set-up-to-take-heat-off-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/28/working-group-set-up-to-take-heat-off-minister/index.html
+layout: layout.njk
 ---
 Working Group set up to Take Heat off Minister
 ==============================================

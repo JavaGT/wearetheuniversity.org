@@ -1,9 +1,12 @@
 ---
 slug: uncertainty-over-student-health-service-costs
-title: "Uncertainty Over Student Health Service Costs"
-date: 2001-07-02
-source-url: https://www.scoop.co.nz/stories/ED0107/S00002/uncertainty-over-student-health-service-costs.htm
+title: Uncertainty Over Student Health Service Costs
+date: 2001-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00002/uncertainty-over-student-health-service-costs.htm
 author: otago-university-students-association
+permalink: /archive/2001/07/02/uncertainty-over-student-health-service-costs/index.html
+layout: layout.njk
 ---
 Uncertainty Over Student Health Service Costs
 =============================================

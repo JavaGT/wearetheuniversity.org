@@ -1,9 +1,13 @@
 ---
 slug: turia-maraeroa-a-and-b-blocks-claims-settlement-bill
-title: "Turia: Maraeroa A and B Blocks Claims Settlement Bill"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/PA1207/S00364/turia-maraeroa-a-and-b-blocks-claims-settlement-bill.htm
+title: 'Turia: Maraeroa A and B Blocks Claims Settlement Bill'
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00364/turia-maraeroa-a-and-b-blocks-claims-settlement-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/07/26/turia-maraeroa-a-and-b-blocks-claims-settlement-bill/index.html
+layout: layout.njk
 ---
 Turia: Maraeroa A and B Blocks Claims Settlement Bill
 =====================================================

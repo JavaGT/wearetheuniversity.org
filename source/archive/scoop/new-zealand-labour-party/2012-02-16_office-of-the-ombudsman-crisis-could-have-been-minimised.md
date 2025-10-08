@@ -1,9 +1,13 @@
 ---
 slug: office-of-the-ombudsman-crisis-could-have-been-minimised
-title: "Office of the Ombudsman crisis could have been minimised"
-date: 2012-02-16
-source-url: https://www.scoop.co.nz/stories/PA1202/S00198/office-of-the-ombudsman-crisis-could-have-been-minimised.htm
+title: Office of the Ombudsman crisis could have been minimised
+date: 2012-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00198/office-of-the-ombudsman-crisis-could-have-been-minimised.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/02/16/office-of-the-ombudsman-crisis-could-have-been-minimised/index.html
+layout: layout.njk
 ---
 Office of the Ombudsman crisis could have been minimised
 ========================================================

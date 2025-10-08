@@ -1,9 +1,11 @@
 ---
 slug: kris-faafois-maiden-speech
-title: "Kris Faafoi’s Maiden Speech"
-date: 2010-12-15
+title: Kris Faafoi’s Maiden Speech
+date: 2010-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1012/S00269/kris-faafois-maiden-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/15/kris-faafois-maiden-speech/index.html
+layout: layout.njk
 ---
 Kris Faafoi’s Maiden Speech
 ===========================

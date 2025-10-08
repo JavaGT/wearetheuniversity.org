@@ -1,9 +1,13 @@
 ---
 slug: students-slam-public-funding-of-private-tertiary
-title: "Students Slam Public Funding Of Private Tertiary"
-date: 2001-05-15
-source-url: https://www.scoop.co.nz/stories/ED0105/S00024/students-slam-public-funding-of-private-tertiary.htm
+title: Students Slam Public Funding Of Private Tertiary
+date: 2001-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00024/students-slam-public-funding-of-private-tertiary.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/05/15/students-slam-public-funding-of-private-tertiary/index.html
+layout: layout.njk
 ---
 Students Slam Public Funding Of Private Tertiary
 ================================================

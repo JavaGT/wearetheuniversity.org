@@ -1,9 +1,12 @@
 ---
 slug: no-mental-health-nurses-in-six-months
-title: "No Mental Health Nurses In Six Months"
-date: 2023-05-17
-source-url: https://www.scoop.co.nz/stories/PA2305/S00110/no-mental-health-nurses-in-six-months.htm
+title: No Mental Health Nurses In Six Months
+date: 2023-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00110/no-mental-health-nurses-in-six-months.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/17/no-mental-health-nurses-in-six-months/index.html
+layout: layout.njk
 ---
 No Mental Health Nurses In Six Months
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: national-mp-rankings-announced
-title: "National MP Rankings Announced"
-date: 2001-02-12
-source-url: https://www.scoop.co.nz/stories/PA0102/S00143/national-mp-rankings-announced.htm
+title: National MP Rankings Announced
+date: 2001-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00143/national-mp-rankings-announced.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/12/national-mp-rankings-announced/index.html
+layout: layout.njk
 ---
 National MP Rankings Announced
 ==============================

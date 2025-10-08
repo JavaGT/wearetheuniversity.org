@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-universities-still-in-top-3%-globally
-title: "New Zealand universities still in top 3% globally"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00019/new-zealand-universities-still-in-top-3-globally.htm
+title: New Zealand universities still in top 3% globally
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00019/new-zealand-universities-still-in-top-3-globally.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2014/10/02/new-zealand-universities-still-in-top-3/index.html
+layout: layout.njk
 ---
 New Zealand universities still in top 3% globally
 =================================================

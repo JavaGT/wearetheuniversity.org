@@ -1,9 +1,13 @@
 ---
 slug: punitive-benefit-plan-will-force-more-into-poverty
-title: "Punitive benefit plan will force more into poverty"
-date: 2017-09-06
-source-url: https://www.scoop.co.nz/stories/PA1709/S00062/punitive-benefit-plan-will-force-more-into-poverty.htm
+title: Punitive benefit plan will force more into poverty
+date: 2017-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00062/punitive-benefit-plan-will-force-more-into-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/06/punitive-benefit-plan-will-force-more-into-poverty/index.html
+layout: layout.njk
 ---
 Punitive benefit plan will force more into poverty
 ==================================================

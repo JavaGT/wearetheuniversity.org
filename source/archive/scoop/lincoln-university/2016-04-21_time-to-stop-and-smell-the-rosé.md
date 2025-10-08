@@ -1,9 +1,12 @@
 ---
 slug: time-to-stop-and-smell-the-rosé
-title: "Time to stop and smell the rosé"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/BU1604/S00663/time-to-stop-and-smell-the-rose.htm
+title: Time to stop and smell the rosé
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1604/S00663/time-to-stop-and-smell-the-rose.htm
 author: lincoln-university
+permalink: /archive/2016/04/21/time-to-stop-and-smell-the-ros/index.html
+layout: layout.njk
 ---
 Time to stop and smell the rosé
 ===============================

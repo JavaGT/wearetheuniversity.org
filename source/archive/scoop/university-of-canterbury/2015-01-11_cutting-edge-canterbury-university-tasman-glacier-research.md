@@ -1,9 +1,13 @@
 ---
 slug: cutting-edge-canterbury-university-tasman-glacier-research
-title: "Cutting edge Canterbury University Tasman Glacier research"
-date: 2015-01-11
-source-url: https://www.scoop.co.nz/stories/SC1501/S00022/cutting-edge-canterbury-university-tasman-glacier-research.htm
+title: Cutting edge Canterbury University Tasman Glacier research
+date: 2015-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00022/cutting-edge-canterbury-university-tasman-glacier-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/11/cutting-edge-canterbury-university-tasman-glacier-research/index.html
+layout: layout.njk
 ---
 Cutting edge Canterbury University Tasman Glacier research
 ==========================================================

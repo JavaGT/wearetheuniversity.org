@@ -1,9 +1,12 @@
 ---
 slug: referendum-yes-maybe-yeah-yes-i-think-yes
-title: "Referendum: Yes. Maybe? Yeah. Yes. I think. Yes."
-date: 2009-07-13
-source-url: https://www.scoop.co.nz/stories/HL0907/S00139/referendum-yes-maybe-yeah-yes-i-think-yes.htm
+title: 'Referendum: Yes. Maybe? Yeah. Yes. I think. Yes.'
+date: 2009-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0907/S00139/referendum-yes-maybe-yeah-yes-i-think-yes.htm
 author: salient
+permalink: /archive/2009/07/13/referendum-yes-maybe-yeah-yes-i-think-yes/index.html
+layout: layout.njk
 ---
 Referendum: Yes. Maybe? Yeah. Yes. I think. Yes.
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: hydrogen-sulphide-study-launched-in-rotorua
-title: "Hydrogen sulphide study launched in Rotorua"
-date: 2008-04-02
-source-url: https://www.scoop.co.nz/stories/SC0804/S00008/hydrogen-sulphide-study-launched-in-rotorua.htm
+title: Hydrogen sulphide study launched in Rotorua
+date: 2008-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00008/hydrogen-sulphide-study-launched-in-rotorua.htm
 author: university-of-otago
+permalink: /archive/2008/04/02/hydrogen-sulphide-study-launched-in-rotorua/index.html
+layout: layout.njk
 ---
 Hydrogen sulphide study launched in Rotorua
 ===========================================

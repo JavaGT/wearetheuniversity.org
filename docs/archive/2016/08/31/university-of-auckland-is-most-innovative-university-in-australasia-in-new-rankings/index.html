@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>University of Auckland is most innovative university in Australasia in new rankings – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>University of Auckland is most innovative university in Australasia in new rankings</h2><h3><span></span></h3><p>Wed Aug 31 2016 12:00:00 GMT+1200 (New Zealand Standard Time)</p><p><h1>University of Auckland is most innovative university in Australasia in new rankings</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University of Auckland is most innovative university in Australasia in new rankings</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>University of Auckland is most innovative university in Australasia in new rankings</h1>
 <p>31 August 2016</p>
 <p>The University of Auckland has been ranked as the most innovative university in New Zealand and Australia in the inaugural Reuters Top 75: Asia’s Most Innovative Universities rankings.</p>
 <p>In the newly-launched rankings, the University of Auckland was placed 27th, ahead of the leading Australian universities. No other New Zealand university was ranked in the top 75.</p>
@@ -17,8 +41,37 @@
 <li>University of South Australia (74)</li>
 </ul>
 <h3>More information contact</h3>
-<p><strong>Gabriella Davila</strong><br>Communications Manager<br>The University of Auckland</p>
-<p>Phone: + 64 9 923 2249<br>Mobile: + 64 (0)21 373 118<br>Email: <a href="mailto:g.davila@auckland.ac.nz">g.davila@auckland.ac.nz</a></p>
-<p><strong>Alison Lees</strong><br>Media Relations Team Leader<br>The University of Auckland</p>
-<p>Tel: +64 9 373 7698<br>Mobile: + 64 (0)21 926 408<br>Email: <a href="mailto:a.lees@auckland.ac.nz">a.lees@auckland.ac.nz</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+<p><strong>Gabriella Davila</strong><br>
+Communications Manager<br>
+The University of Auckland</p>
+<p>Phone: + 64 9 923 2249<br>
+Mobile: + 64 (0)21 373 118<br>
+Email: <a href="mailto:g.davila@auckland.ac.nz">g.davila@auckland.ac.nz</a></p>
+<p><strong>Alison Lees</strong><br>
+Media Relations Team Leader<br>
+The University of Auckland</p>
+<p>Tel: +64 9 373 7698<br>
+Mobile: + 64 (0)21 926 408<br>
+Email: <a href="mailto:a.lees@auckland.ac.nz">a.lees@auckland.ac.nz</a></p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

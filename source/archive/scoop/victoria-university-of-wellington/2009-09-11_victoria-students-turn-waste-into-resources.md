@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-turn-waste-into-resources
-title: "Victoria students turn waste into resources"
-date: 2009-09-11
-source-url: https://www.scoop.co.nz/stories/CU0909/S00159/victoria-students-turn-waste-into-resources.htm
+title: Victoria students turn waste into resources
+date: 2009-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00159/victoria-students-turn-waste-into-resources.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/11/victoria-students-turn-waste-into-resources/index.html
+layout: layout.njk
 ---
 Victoria students turn waste into resources
 ===========================================

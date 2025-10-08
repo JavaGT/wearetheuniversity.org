@@ -1,9 +1,13 @@
 ---
 slug: welfare-reform-will-fail-without-job-creation-policies
-title: "Welfare reform will fail without job creation policies"
-date: 2011-08-14
-source-url: https://www.scoop.co.nz/stories/PA1108/S00281/welfare-reform-will-fail-without-job-creation-policies.htm
+title: Welfare reform will fail without job creation policies
+date: 2011-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00281/welfare-reform-will-fail-without-job-creation-policies.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/14/welfare-reform-will-fail-without-job-creation-policies/index.html
+layout: layout.njk
 ---
 Welfare reform will fail without job creation policies
 ======================================================

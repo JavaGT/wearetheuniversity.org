@@ -1,9 +1,12 @@
 ---
 slug: kiwi-smes-too-independent-says-academic
-title: "Kiwi SMEs too independent, says academic"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/BU1212/S00308/kiwi-smes-too-independent-says-academic.htm
+title: Kiwi SMEs too independent, says academic
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00308/kiwi-smes-too-independent-says-academic.htm
 author: massey-university
+permalink: /archive/2012/12/10/kiwi-smes-too-independent-says-academic/index.html
+layout: layout.njk
 ---
 Kiwi SMEs too independent, says academic
 ========================================

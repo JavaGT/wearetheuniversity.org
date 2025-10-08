@@ -1,9 +1,13 @@
 ---
 slug: evolutionary-biologist-gets-to-bottom-of-goodness
-title: "Evolutionary biologist gets to bottom of goodness"
-date: 2014-04-24
-source-url: https://www.scoop.co.nz/stories/SC1404/S00084/evolutionary-biologist-gets-to-bottom-of-goodness.htm
+title: Evolutionary biologist gets to bottom of goodness
+date: 2014-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00084/evolutionary-biologist-gets-to-bottom-of-goodness.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/24/evolutionary-biologist-gets-to-bottom-of-goodness/index.html
+layout: layout.njk
 ---
 Evolutionary biologist gets to bottom of goodness
 =================================================

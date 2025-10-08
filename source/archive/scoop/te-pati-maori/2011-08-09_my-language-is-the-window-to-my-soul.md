@@ -1,9 +1,12 @@
 ---
 slug: my-language-is-the-window-to-my-soul
-title: "\"my language is the window to my soul\""
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/HL1108/S00115/my-language-is-the-window-to-my-soul.htm
+title: '"my language is the window to my soul"'
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1108/S00115/my-language-is-the-window-to-my-soul.htm
 author: te-pati-maori
+permalink: /archive/2011/08/09/my-language-is-the-window-to-my-soul/index.html
+layout: layout.njk
 ---
 \"my language is the window to my soul"
 ======================================

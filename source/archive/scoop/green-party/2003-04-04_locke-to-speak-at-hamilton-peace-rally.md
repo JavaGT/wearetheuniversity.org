@@ -1,9 +1,12 @@
 ---
 slug: locke-to-speak-at-hamilton-peace-rally
-title: "Locke to speak at Hamilton peace rally"
-date: 2003-04-04
-source-url: https://www.scoop.co.nz/stories/PA0304/S00086/locke-to-speak-at-hamilton-peace-rally.htm
+title: Locke to speak at Hamilton peace rally
+date: 2003-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00086/locke-to-speak-at-hamilton-peace-rally.htm
 author: green-party
+permalink: /archive/2003/04/04/locke-to-speak-at-hamilton-peace-rally/index.html
+layout: layout.njk
 ---
 Locke to speak at Hamilton peace rally
 ======================================

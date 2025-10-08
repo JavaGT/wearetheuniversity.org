@@ -1,9 +1,12 @@
 ---
 slug: students-target-labour-on-summer-allowance
-title: "Students Target Labour On Summer Allowance"
-date: 2001-02-05
-source-url: https://www.scoop.co.nz/stories/ED0102/S00004/students-target-labour-on-summer-allowance.htm
+title: Students Target Labour On Summer Allowance
+date: 2001-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00004/students-target-labour-on-summer-allowance.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/02/05/students-target-labour-on-summer-allowance/index.html
+layout: layout.njk
 ---
 Students Target Labour On Summer Allowance
 ==========================================

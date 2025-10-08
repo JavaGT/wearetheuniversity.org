@@ -1,9 +1,11 @@
 ---
 slug: new-national-party-maori-vp
-title: "New National Party Maori VP"
-date: 2000-04-20
+title: New National Party Maori VP
+date: 2000-04-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0004/S00288/new-national-party-maori-vp.htm
 author: new-zealand-national-party
+permalink: /archive/2000/04/20/new-national-party-maori-vp/index.html
+layout: layout.njk
 ---
 New National Party Maori VP
 ===========================

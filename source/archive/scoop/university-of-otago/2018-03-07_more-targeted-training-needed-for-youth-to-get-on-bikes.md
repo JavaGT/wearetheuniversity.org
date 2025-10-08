@@ -1,9 +1,13 @@
 ---
 slug: more-targeted-training-needed-for-youth-to-get-on-bikes
-title: "More targeted training needed for youth to get on bikes"
-date: 2018-03-07
-source-url: https://www.scoop.co.nz/stories/PO1803/S00087/more-targeted-training-needed-for-youth-to-get-on-bikes.htm
+title: More targeted training needed for youth to get on bikes
+date: 2018-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00087/more-targeted-training-needed-for-youth-to-get-on-bikes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/07/more-targeted-training-needed-for-youth-to-get-on-bikes/index.html
+layout: layout.njk
 ---
 More targeted training needed for youth to get on bikes
 =======================================================

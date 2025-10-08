@@ -1,9 +1,12 @@
 ---
 slug: te-reo-online-journal-takes-off
-title: "Te Reo online journal takes off"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/ED1104/S00017/te-reo-online-journal-takes-off.htm
+title: Te Reo online journal takes off
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00017/te-reo-online-journal-takes-off.htm
 author: university-of-waikato
+permalink: /archive/2011/04/06/te-reo-online-journal-takes-off/index.html
+layout: layout.njk
 ---
 Te Reo online journal takes off
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: workers-have-right-to-be-heard-in-law-reform
-title: "Workers Have Right to be Heard in Law Reform"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/BU0402/S00018/workers-have-right-to-be-heard-in-law-reform.htm
+title: Workers Have Right to be Heard in Law Reform
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0402/S00018/workers-have-right-to-be-heard-in-law-reform.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/02/02/workers-have-right-to-be-heard-in-law-reform/index.html
+layout: layout.njk
 ---
 Workers Have Right to be Heard in Law Reform
 ============================================

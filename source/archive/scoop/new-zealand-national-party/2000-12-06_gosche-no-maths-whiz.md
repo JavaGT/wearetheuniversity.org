@@ -1,9 +1,11 @@
 ---
 slug: gosche-no-maths-whiz
-title: "Gosche No Maths Whiz"
-date: 2000-12-06
+title: Gosche No Maths Whiz
+date: 2000-12-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0012/S00072/gosche-no-maths-whiz.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/06/gosche-no-maths-whiz/index.html
+layout: layout.njk
 ---
 Gosche No Maths Whiz
 ====================

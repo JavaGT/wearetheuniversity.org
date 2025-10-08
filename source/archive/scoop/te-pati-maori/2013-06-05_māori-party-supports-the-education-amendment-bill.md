@@ -1,9 +1,12 @@
 ---
 slug: māori-party-supports-the-education-amendment-bill
-title: "Māori Party supports the Education Amendment Bill"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/PA1306/S00042/maori-party-supports-the-education-amendment-bill.htm
+title: Māori Party supports the Education Amendment Bill
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00042/maori-party-supports-the-education-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2013/06/05/m/index.html
+layout: layout.njk
 ---
 Māori Party supports the Education Amendment Bill
 =================================================

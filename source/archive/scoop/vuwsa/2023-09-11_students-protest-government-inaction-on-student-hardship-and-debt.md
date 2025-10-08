@@ -1,9 +1,13 @@
 ---
 slug: students-protest-government-inaction-on-student-hardship-and-debt
-title: "Students Protest Government Inaction On Student Hardship And Debt"
-date: 2023-09-11
-source-url: https://www.scoop.co.nz/stories/ED2309/S00023/students-protest-government-inaction-on-student-hardship-and-debt.htm
+title: Students Protest Government Inaction On Student Hardship And Debt
+date: 2023-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00023/students-protest-government-inaction-on-student-hardship-and-debt.htm
 author: vuwsa
+permalink: >-
+  /archive/2023/09/11/students-protest-government-inaction-on-student-hardship-and-debt/index.html
+layout: layout.njk
 ---
 Students Protest Government Inaction On Student Hardship And Debt
 =================================================================

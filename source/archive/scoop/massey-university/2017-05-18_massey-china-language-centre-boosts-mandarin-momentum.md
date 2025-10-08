@@ -1,9 +1,13 @@
 ---
 slug: massey-china-language-centre-boosts-mandarin-momentum
-title: "Massey-China language centre boosts Mandarin momentum"
-date: 2017-05-18
-source-url: https://www.scoop.co.nz/stories/ED1705/S00085/massey-china-language-centre-boosts-mandarin-momentum.htm
+title: Massey-China language centre boosts Mandarin momentum
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00085/massey-china-language-centre-boosts-mandarin-momentum.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/18/massey-china-language-centre-boosts-mandarin-momentum/index.html
+layout: layout.njk
 ---
 Massey-China language centre boosts Mandarin momentum
 =====================================================

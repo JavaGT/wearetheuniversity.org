@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki;-saana-murray
-title: "Poroporoaki; Saana Murray"
-date: 2011-09-05
+title: Poroporoaki; Saana Murray
+date: 2011-09-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00065/poroporoaki-saana-murray.htm
 author: te-pati-maori
+permalink: /archive/2011/09/05/poroporoaki/index.html
+layout: layout.njk
 ---
 Poroporoaki; Saana Murray
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: first-home-buyers-shut-out-as-lvrs-bite
-title: "First home buyers shut out as LVRs bite"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/PA1404/S00174/first-home-buyers-shut-out-as-lvrs-bite.htm
+title: First home buyers shut out as LVRs bite
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00174/first-home-buyers-shut-out-as-lvrs-bite.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/10/first-home-buyers-shut-out-as-lvrs-bite/index.html
+layout: layout.njk
 ---
 First home buyers shut out as LVRs bite
 =======================================

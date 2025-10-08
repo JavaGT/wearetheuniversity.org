@@ -1,9 +1,13 @@
 ---
 slug: procurement-policies-better-very-late-than-never
-title: "Procurement policies better very late than never"
-date: 2013-03-08
-source-url: https://www.scoop.co.nz/stories/PA1303/S00121/procurement-policies-better-very-late-than-never.htm
+title: Procurement policies better very late than never
+date: 2013-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00121/procurement-policies-better-very-late-than-never.htm
 author: green-party
+permalink: >-
+  /archive/2013/03/08/procurement-policies-better-very-late-than-never/index.html
+layout: layout.njk
 ---
 Procurement policies better very late than never
 ================================================

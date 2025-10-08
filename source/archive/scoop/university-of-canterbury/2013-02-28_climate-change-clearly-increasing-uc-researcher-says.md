@@ -1,9 +1,13 @@
 ---
 slug: climate-change-clearly-increasing-uc-researcher-says
-title: "Climate Change Clearly Increasing, UC Researcher Says"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/ED1302/S00157/climate-change-clearly-increasing-uc-researcher-says.htm
+title: Climate Change Clearly Increasing, UC Researcher Says
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00157/climate-change-clearly-increasing-uc-researcher-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/28/climate-change-clearly-increasing-uc-researcher-says/index.html
+layout: layout.njk
 ---
 Climate Change Clearly Increasing, UC Researcher Says
 =====================================================

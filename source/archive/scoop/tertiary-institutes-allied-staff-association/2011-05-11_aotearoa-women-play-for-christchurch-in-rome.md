@@ -1,9 +1,12 @@
 ---
 slug: aotearoa-women-play-for-christchurch-in-rome
-title: "Aotearoa Women Play for Christchurch - in Rome"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/AK1105/S00317/aotearoa-women-play-for-christchurch-in-rome.htm
+title: Aotearoa Women Play for Christchurch - in Rome
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1105/S00317/aotearoa-women-play-for-christchurch-in-rome.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2011/05/11/aotearoa-women-play-for-christchurch-in-rome/index.html
+layout: layout.njk
 ---
 Aotearoa Women Play for Christchurch - in Rome
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: $1-million-for-victoria-vanity-project
-title: "$1 million for Victoria vanity project"
-date: 2018-07-30
-source-url: https://www.scoop.co.nz/stories/PA1807/S00267/1-million-for-victoria-vanity-project.htm
+title: $1 million for Victoria vanity project
+date: 2018-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00267/1-million-for-victoria-vanity-project.htm
 author: act-new-zealand
+permalink: /archive/2018/07/30/1-million-for-victoria-vanity-project/index.html
+layout: layout.njk
 ---
 $1 million for Victoria vanity project
 ======================================

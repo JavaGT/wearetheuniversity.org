@@ -1,9 +1,13 @@
 ---
 slug: international-student-of-the-year-wins-four-year-scholarship
-title: "International Student of the Year wins four-year scholarship"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/ED1202/S00105/international-student-of-the-year-wins-four-year-scholarship.htm
+title: International Student of the Year wins four-year scholarship
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00105/international-student-of-the-year-wins-four-year-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/02/23/international-student-of-the-year-wins-four-year-scholarship/index.html
+layout: layout.njk
 ---
 International Student of the Year wins four-year scholarship
 ============================================================

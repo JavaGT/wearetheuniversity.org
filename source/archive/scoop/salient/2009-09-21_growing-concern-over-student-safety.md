@@ -1,9 +1,12 @@
 ---
 slug: growing-concern-over-student-safety
-title: "Growing concern over student safety"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/ED0909/S00069/growing-concern-over-student-safety.htm
+title: Growing concern over student safety
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00069/growing-concern-over-student-safety.htm
 author: salient
+permalink: /archive/2009/09/21/growing-concern-over-student-safety/index.html
+layout: layout.njk
 ---
 Growing concern over student safety
 ===================================

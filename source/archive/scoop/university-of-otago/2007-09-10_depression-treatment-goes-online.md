@@ -1,9 +1,12 @@
 ---
 slug: depression-treatment-goes-online
-title: "Depression treatment goes online"
-date: 2007-09-10
-source-url: https://www.scoop.co.nz/stories/GE0709/S00035/depression-treatment-goes-online.htm
+title: Depression treatment goes online
+date: 2007-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0709/S00035/depression-treatment-goes-online.htm
 author: university-of-otago
+permalink: /archive/2007/09/10/depression-treatment-goes-online/index.html
+layout: layout.njk
 ---
 Depression treatment goes online
 ================================

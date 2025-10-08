@@ -1,9 +1,12 @@
 ---
 slug: new-nicotine-replacement-product-offers-hope
-title: "New nicotine replacement product offers hope"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/ED1003/S00077/new-nicotine-replacement-product-offers-hope.htm
+title: New nicotine replacement product offers hope
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00077/new-nicotine-replacement-product-offers-hope.htm
 author: university-of-otago
+permalink: /archive/2010/03/17/new-nicotine-replacement-product-offers-hope/index.html
+layout: layout.njk
 ---
 New nicotine replacement product offers hope
 ============================================

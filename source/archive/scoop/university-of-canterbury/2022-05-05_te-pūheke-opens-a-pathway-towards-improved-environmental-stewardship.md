@@ -1,9 +1,12 @@
 ---
 slug: te-pūheke-opens-a-pathway-towards-improved-environmental-stewardship
-title: "Te Pūheke Opens A Pathway Towards Improved Environmental Stewardship"
-date: 2022-05-05
-source-url: https://www.scoop.co.nz/stories/ED2205/S00012/te-puheke-opens-a-pathway-towards-improved-environmental-stewardship.htm
+title: Te Pūheke Opens A Pathway Towards Improved Environmental Stewardship
+date: 2022-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00012/te-puheke-opens-a-pathway-towards-improved-environmental-stewardship.htm
 author: university-of-canterbury
+permalink: /archive/2022/05/05/te-p/index.html
+layout: layout.njk
 ---
 Te Pūheke Opens A Pathway Towards Improved Environmental Stewardship
 ====================================================================

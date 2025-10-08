@@ -1,9 +1,12 @@
 ---
 slug: the-two-speed-economy-and-how-to-fix-it
-title: "The two-speed economy and how to fix it"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00354/the-two-speed-economy-and-how-to-fix-it.htm
+title: The two-speed economy and how to fix it
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00354/the-two-speed-economy-and-how-to-fix-it.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/17/the-two-speed-economy-and-how-to-fix-it/index.html
+layout: layout.njk
 ---
 The two-speed economy and how to fix it
 =======================================

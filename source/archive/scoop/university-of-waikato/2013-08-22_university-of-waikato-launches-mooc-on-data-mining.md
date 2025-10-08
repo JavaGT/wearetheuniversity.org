@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-launches-mooc-on-data-mining
-title: "University of Waikato launches MOOC on data mining"
-date: 2013-08-22
-source-url: https://www.scoop.co.nz/stories/ED1308/S00102/university-of-waikato-launches-mooc-on-data-mining.htm
+title: University of Waikato launches MOOC on data mining
+date: 2013-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00102/university-of-waikato-launches-mooc-on-data-mining.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/08/22/university-of-waikato-launches-mooc-on-data-mining/index.html
+layout: layout.njk
 ---
 University of Waikato launches MOOC on data mining
 ==================================================

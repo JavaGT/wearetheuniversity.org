@@ -1,9 +1,12 @@
 ---
 slug: clock-strikes-on-new-executive-structure
-title: "Clock Strikes On New Executive Structure"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/ED1008/S00003/clock-strikes-on-new-executive-structure.htm
+title: Clock Strikes On New Executive Structure
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00003/clock-strikes-on-new-executive-structure.htm
 author: otago-university-students-association
+permalink: /archive/2010/08/02/clock-strikes-on-new-executive-structure/index.html
+layout: layout.njk
 ---
 Clock Strikes On New Executive Structure
 ========================================

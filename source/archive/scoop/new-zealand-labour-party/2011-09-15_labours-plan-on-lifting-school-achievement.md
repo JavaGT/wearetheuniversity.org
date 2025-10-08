@@ -1,9 +1,12 @@
 ---
 slug: labours-plan-on-lifting-school-achievement
-title: "Labour’s plan on lifting school achievement"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/PA1109/S00295/labours-plan-on-lifting-school-achievement.htm
+title: Labour’s plan on lifting school achievement
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00295/labours-plan-on-lifting-school-achievement.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/15/labours-plan-on-lifting-school-achievement/index.html
+layout: layout.njk
 ---
 Labour’s plan on lifting school achievement
 ===========================================

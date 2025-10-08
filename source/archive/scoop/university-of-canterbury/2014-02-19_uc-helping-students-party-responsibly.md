@@ -1,9 +1,12 @@
 ---
 slug: uc-helping-students-party-responsibly
-title: "UC Helping Students Party Responsibly"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/ED1402/S00076/uc-helping-students-party-responsibly.htm
+title: UC Helping Students Party Responsibly
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00076/uc-helping-students-party-responsibly.htm
 author: university-of-canterbury
+permalink: /archive/2014/02/19/uc-helping-students-party-responsibly/index.html
+layout: layout.njk
 ---
 UC Helping Students Party Responsibly
 =====================================

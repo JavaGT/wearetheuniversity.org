@@ -1,9 +1,12 @@
 ---
 slug: labour-committed-to-making-students-starve
-title: "Labour Committed To Making Students Starve"
-date: 2001-03-01
-source-url: https://www.scoop.co.nz/stories/ED0103/S00002/labour-committed-to-making-students-starve.htm
+title: Labour Committed To Making Students Starve
+date: 2001-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00002/labour-committed-to-making-students-starve.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/01/labour-committed-to-making-students-starve/index.html
+layout: layout.njk
 ---
 Labour Committed To Making Students Starve
 ==========================================

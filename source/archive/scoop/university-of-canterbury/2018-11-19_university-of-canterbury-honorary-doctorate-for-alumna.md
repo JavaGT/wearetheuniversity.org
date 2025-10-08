@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-honorary-doctorate-for-alumna
-title: "University of Canterbury honorary doctorate for alumna"
-date: 2018-11-19
-source-url: https://www.scoop.co.nz/stories/ED1811/S00042/university-of-canterbury-honorary-doctorate-for-alumna.htm
+title: University of Canterbury honorary doctorate for alumna
+date: 2018-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00042/university-of-canterbury-honorary-doctorate-for-alumna.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/11/19/university-of-canterbury-honorary-doctorate-for-alumna/index.html
+layout: layout.njk
 ---
 University of Canterbury honorary doctorate for alumna
 ======================================================

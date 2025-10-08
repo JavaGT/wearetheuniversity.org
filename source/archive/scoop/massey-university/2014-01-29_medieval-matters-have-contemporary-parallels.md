@@ -1,9 +1,12 @@
 ---
 slug: medieval-matters-have-contemporary-parallels
-title: "Medieval matters have contemporary parallels"
-date: 2014-01-29
-source-url: https://www.scoop.co.nz/stories/ED1401/S00054/medieval-matters-have-contemporary-parallels.htm
+title: Medieval matters have contemporary parallels
+date: 2014-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00054/medieval-matters-have-contemporary-parallels.htm
 author: massey-university
+permalink: /archive/2014/01/29/medieval-matters-have-contemporary-parallels/index.html
+layout: layout.njk
 ---
 Medieval matters have contemporary parallels
 ============================================

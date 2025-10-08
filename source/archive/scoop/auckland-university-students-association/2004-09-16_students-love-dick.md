@@ -1,9 +1,11 @@
 ---
 slug: students-love-dick
-title: "Students Love Dick"
-date: 2004-09-16
+title: Students Love Dick
+date: 2004-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0409/S00177/students-love-dick.htm
 author: auckland-university-students-association
+permalink: /archive/2004/09/16/students-love-dick/index.html
+layout: layout.njk
 ---
 Students Love Dick
 ==================

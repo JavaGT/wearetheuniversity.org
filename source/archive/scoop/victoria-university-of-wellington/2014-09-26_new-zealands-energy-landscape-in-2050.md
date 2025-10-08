@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-energy-landscape-in-2050
-title: "New Zealand’s energy landscape in 2050"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/ED1409/S00157/new-zealands-energy-landscape-in-2050.htm
+title: New Zealand’s energy landscape in 2050
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00157/new-zealands-energy-landscape-in-2050.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/26/new-zealands-energy-landscape-in-2050/index.html
+layout: layout.njk
 ---
 New Zealand’s energy landscape in 2050
 ======================================

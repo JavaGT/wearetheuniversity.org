@@ -1,9 +1,13 @@
 ---
 slug: politics-is-an-advance-auction-sale-of-stolen-goods
-title: "Politics is an advance auction sale of stolen goods?"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/PO1408/S00159/politics-is-an-advance-auction-sale-of-stolen-goods.htm
+title: Politics is an advance auction sale of stolen goods?
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00159/politics-is-an-advance-auction-sale-of-stolen-goods.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/11/politics-is-an-advance-auction-sale-of-stolen-goods/index.html
+layout: layout.njk
 ---
 Politics is an advance auction sale of stolen goods?
 ====================================================

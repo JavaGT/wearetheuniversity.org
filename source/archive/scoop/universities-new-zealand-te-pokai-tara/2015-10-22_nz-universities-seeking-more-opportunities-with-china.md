@@ -1,9 +1,13 @@
 ---
 slug: nz-universities-seeking-more-opportunities-with-china
-title: "NZ universities seeking more opportunities with China"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00115/nz-universities-seeking-more-opportunities-with-china.htm
+title: NZ universities seeking more opportunities with China
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00115/nz-universities-seeking-more-opportunities-with-china.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/10/22/nz-universities-seeking-more-opportunities-with-china/index.html
+layout: layout.njk
 ---
 NZ universities seeking more opportunities with China
 =====================================================

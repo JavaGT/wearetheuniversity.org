@@ -1,9 +1,12 @@
 ---
 slug: race-based-waitlists-indefensible
-title: "Race-based Waitlists Indefensible"
-date: 2023-06-19
-source-url: https://www.scoop.co.nz/stories/PA2306/S00115/race-based-waitlists-indefensible.htm
+title: Race-based Waitlists Indefensible
+date: 2023-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00115/race-based-waitlists-indefensible.htm
 author: act-new-zealand
+permalink: /archive/2023/06/19/race-based-waitlists-indefensible/index.html
+layout: layout.njk
 ---
 Race-based Waitlists Indefensible
 =================================

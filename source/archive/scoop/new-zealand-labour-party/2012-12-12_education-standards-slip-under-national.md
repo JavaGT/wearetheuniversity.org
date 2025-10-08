@@ -1,9 +1,12 @@
 ---
 slug: education-standards-slip-under-national
-title: "Education standards slip under National"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/PA1212/S00234/education-standards-slip-under-national.htm
+title: Education standards slip under National
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00234/education-standards-slip-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/12/education-standards-slip-under-national/index.html
+layout: layout.njk
 ---
 Education standards slip under National
 =======================================

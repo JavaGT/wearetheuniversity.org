@@ -1,9 +1,13 @@
 ---
 slug: nzei-backs-the-call-for-compulsory-te-reo-in-schools
-title: "NZEI backs the call for compulsory Te Reo in schools"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/ED1209/S00008/nzei-backs-the-call-for-compulsory-te-reo-in-schools.htm
+title: NZEI backs the call for compulsory Te Reo in schools
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00008/nzei-backs-the-call-for-compulsory-te-reo-in-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/03/nzei-backs-the-call-for-compulsory-te-reo-in-schools/index.html
+layout: layout.njk
 ---
 NZEI backs the call for compulsory Te Reo in schools
 ====================================================

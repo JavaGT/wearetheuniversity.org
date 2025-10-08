@@ -1,9 +1,12 @@
 ---
 slug: german-research-award-for-massey-scientist
-title: "German research award for Massey scientist"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/ED1404/S00040/german-research-award-for-massey-scientist.htm
+title: German research award for Massey scientist
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00040/german-research-award-for-massey-scientist.htm
 author: massey-university
+permalink: /archive/2014/04/08/german-research-award-for-massey-scientist/index.html
+layout: layout.njk
 ---
 German research award for Massey scientist
 ==========================================

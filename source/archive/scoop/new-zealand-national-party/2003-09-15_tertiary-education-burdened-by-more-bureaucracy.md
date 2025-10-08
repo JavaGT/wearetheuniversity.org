@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-burdened-by-more-bureaucracy
-title: "Tertiary education burdened by more bureaucracy"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/PA0309/S00315/tertiary-education-burdened-by-more-bureaucracy.htm
+title: Tertiary education burdened by more bureaucracy
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00315/tertiary-education-burdened-by-more-bureaucracy.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/15/tertiary-education-burdened-by-more-bureaucracy/index.html
+layout: layout.njk
 ---
 Tertiary education burdened by more bureaucracy
 ===============================================

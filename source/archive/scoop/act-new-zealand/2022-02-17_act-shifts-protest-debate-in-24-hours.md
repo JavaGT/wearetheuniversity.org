@@ -1,9 +1,12 @@
 ---
 slug: act-shifts-protest-debate-in-24-hours
-title: "ACT Shifts Protest Debate In 24 Hours"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/PA2202/S00125/act-shifts-protest-debate-in-24-hours.htm
+title: ACT Shifts Protest Debate In 24 Hours
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00125/act-shifts-protest-debate-in-24-hours.htm
 author: act-new-zealand
+permalink: /archive/2022/02/17/act-shifts-protest-debate-in-24-hours/index.html
+layout: layout.njk
 ---
 ACT Shifts Protest Debate In 24 Hours
 =====================================

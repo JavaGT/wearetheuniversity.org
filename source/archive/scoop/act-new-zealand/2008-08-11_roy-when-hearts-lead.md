@@ -1,9 +1,11 @@
 ---
 slug: roy-when-hearts-lead
-title: "Roy: When Hearts Lead"
-date: 2008-08-11
+title: 'Roy: When Hearts Lead'
+date: 2008-08-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00166/roy-when-hearts-lead.htm
 author: act-new-zealand
+permalink: /archive/2008/08/11/roy-when-hearts-lead/index.html
+layout: layout.njk
 ---
 Roy: When Hearts Lead
 =====================

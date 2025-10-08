@@ -1,9 +1,13 @@
 ---
 slug: research-considering-changes-to-pedestrian-crossing-laws
-title: "Research considering changes to pedestrian crossing laws"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/PO1408/S00449/research-considering-changes-to-pedestrian-crossing-laws.htm
+title: Research considering changes to pedestrian crossing laws
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00449/research-considering-changes-to-pedestrian-crossing-laws.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/27/research-considering-changes-to-pedestrian-crossing-laws/index.html
+layout: layout.njk
 ---
 Research considering changes to pedestrian crossing laws
 ========================================================

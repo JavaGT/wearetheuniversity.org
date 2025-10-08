@@ -1,9 +1,12 @@
 ---
 slug: how-product-designers-will-shape-the-world
-title: "How Product Designers Will Shape the World"
-date: 2017-10-02
-source-url: https://www.scoop.co.nz/stories/ED1710/S00006/how-product-designers-will-shape-the-world.htm
+title: How Product Designers Will Shape the World
+date: 2017-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00006/how-product-designers-will-shape-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2017/10/02/how-product-designers-will-shape-the-world/index.html
+layout: layout.njk
 ---
 How Product Designers Will Shape the World
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: newman-online-july-7th
-title: "Newman-Online July 7th"
-date: 2004-07-08
+title: Newman-Online July 7th
+date: 2004-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00145/newman-online-july-7th.htm
 author: act-new-zealand
+permalink: /archive/2004/07/08/newman-online-july-7th/index.html
+layout: layout.njk
 ---
 Newman-Online July 7th
 ======================

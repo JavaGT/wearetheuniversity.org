@@ -1,9 +1,12 @@
 ---
 slug: victoria-appoints-chair-in-statistics
-title: "Victoria appoints Chair in Statistics"
-date: 2000-03-24
-source-url: https://www.scoop.co.nz/stories/SC0003/S00022/victoria-appoints-chair-in-statistics.htm
+title: Victoria appoints Chair in Statistics
+date: 2000-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0003/S00022/victoria-appoints-chair-in-statistics.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/24/victoria-appoints-chair-in-statistics/index.html
+layout: layout.njk
 ---
 Victoria appoints Chair in Statistics
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-welcomes-māori-centre-of-research-excellence
-title: "Māori Party Welcomes Māori Centre of Research Excellence"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/PA1505/S00178/maori-party-welcomes-maori-centre-of-research-excellence.htm
+title: Māori Party Welcomes Māori Centre of Research Excellence
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00178/maori-party-welcomes-maori-centre-of-research-excellence.htm
 author: te-pati-maori
+permalink: /archive/2015/05/11/m/index.html
+layout: layout.njk
 ---
 Māori Party Welcomes Māori Centre of Research Excellence
 ========================================================

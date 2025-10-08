@@ -1,9 +1,12 @@
 ---
 slug: rethinking-health-care-for-long-term-illnesses
-title: "Rethinking Health Care for Long-Term Illnesses"
-date: 2017-11-27
-source-url: https://www.scoop.co.nz/stories/GE1711/S00107/rethinking-health-care-for-long-term-illnesses.htm
+title: Rethinking Health Care for Long-Term Illnesses
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00107/rethinking-health-care-for-long-term-illnesses.htm
 author: massey-university
+permalink: /archive/2017/11/27/rethinking-health-care-for-long-term-illnesses/index.html
+layout: layout.njk
 ---
 Rethinking Health Care for Long-Term Illnesses
 ==============================================

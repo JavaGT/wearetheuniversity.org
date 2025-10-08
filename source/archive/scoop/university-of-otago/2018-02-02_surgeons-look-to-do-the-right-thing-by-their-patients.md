@@ -1,9 +1,13 @@
 ---
 slug: surgeons-look-to-do-the-right-thing-by-their-patients
-title: "Surgeons look to do the right thing by their patients"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/GE1802/S00007/surgeons-look-to-do-the-right-thing-by-their-patients.htm
+title: Surgeons look to do the right thing by their patients
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00007/surgeons-look-to-do-the-right-thing-by-their-patients.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/02/surgeons-look-to-do-the-right-thing-by-their-patients/index.html
+layout: layout.njk
 ---
 Surgeons look to do the right thing by their patients
 =====================================================

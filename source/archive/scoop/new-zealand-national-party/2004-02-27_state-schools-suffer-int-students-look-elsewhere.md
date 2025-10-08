@@ -1,9 +1,13 @@
 ---
 slug: state-schools-suffer-int-students-look-elsewhere
-title: "State Schools Suffer Int. Students Look Elsewhere"
-date: 2004-02-27
-source-url: https://www.scoop.co.nz/stories/PA0402/S00496/state-schools-suffer-int-students-look-elsewhere.htm
+title: State Schools Suffer Int. Students Look Elsewhere
+date: 2004-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00496/state-schools-suffer-int-students-look-elsewhere.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/02/27/state-schools-suffer-int-students-look-elsewhere/index.html
+layout: layout.njk
 ---
 State Schools Suffer Int. Students Look Elsewhere
 =================================================

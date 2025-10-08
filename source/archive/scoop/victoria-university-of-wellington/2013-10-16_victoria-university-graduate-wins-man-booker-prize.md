@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-graduate-wins-man-booker-prize
-title: "Victoria University graduate wins Man Booker Prize"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/CU1310/S00292/victoria-university-graduate-wins-man-booker-prize.htm
+title: Victoria University graduate wins Man Booker Prize
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00292/victoria-university-graduate-wins-man-booker-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/16/victoria-university-graduate-wins-man-booker-prize/index.html
+layout: layout.njk
 ---
 Victoria University graduate wins Man Booker Prize
 ==================================================

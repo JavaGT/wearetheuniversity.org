@@ -1,9 +1,13 @@
 ---
 slug: svas-annual-city-care-connect-the-community-event
-title: "SVA's Annual ‘City Care Connect the Community’ Event"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/AK1505/S00523/svas-annual-city-care-connect-the-community-event.htm
+title: SVA's Annual ‘City Care Connect the Community’ Event
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1505/S00523/svas-annual-city-care-connect-the-community-event.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2015/05/21/svas-annual-city-care-connect-the-community-event/index.html
+layout: layout.njk
 ---
 SVA's Annual ‘City Care Connect the Community’ Event
 ====================================================

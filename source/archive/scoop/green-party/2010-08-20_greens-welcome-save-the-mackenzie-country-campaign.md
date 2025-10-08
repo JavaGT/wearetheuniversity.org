@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-save-the-mackenzie-country-campaign
-title: "Greens welcome Save the Mackenzie Country campaign"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/PA1008/S00310/greens-welcome-save-the-mackenzie-country-campaign.htm
+title: Greens welcome Save the Mackenzie Country campaign
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00310/greens-welcome-save-the-mackenzie-country-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2010/08/20/greens-welcome-save-the-mackenzie-country-campaign/index.html
+layout: layout.njk
 ---
 Greens welcome Save the Mackenzie Country campaign
 ==================================================

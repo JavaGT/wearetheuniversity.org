@@ -1,9 +1,12 @@
 ---
 slug: māori-party-celebrates-diverse-talents-of-those-honoured
-title: "Māori Party Celebrates Diverse Talents of those honoured"
-date: 2012-06-04
-source-url: https://www.scoop.co.nz/stories/PA1206/S00032/maori-party-celebrates-diverse-talents-of-those-honoured.htm
+title: Māori Party Celebrates Diverse Talents of those honoured
+date: 2012-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00032/maori-party-celebrates-diverse-talents-of-those-honoured.htm
 author: te-pati-maori
+permalink: /archive/2012/06/04/m/index.html
+layout: layout.njk
 ---
 Māori Party Celebrates Diverse Talents of those honoured
 ========================================================

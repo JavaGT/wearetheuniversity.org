@@ -1,9 +1,12 @@
 ---
 slug: achievement-of-school-leavers-falling-ncea-data
-title: "Achievement Of School Leavers Falling – NCEA Data"
-date: 2023-08-01
-source-url: https://www.scoop.co.nz/stories/PA2308/S00006/achievement-of-school-leavers-falling-ncea-data.htm
+title: Achievement Of School Leavers Falling – NCEA Data
+date: 2023-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00006/achievement-of-school-leavers-falling-ncea-data.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/01/achievement-of-school-leavers-falling-ncea-data/index.html
+layout: layout.njk
 ---
 Achievement Of School Leavers Falling – NCEA Data
 =================================================

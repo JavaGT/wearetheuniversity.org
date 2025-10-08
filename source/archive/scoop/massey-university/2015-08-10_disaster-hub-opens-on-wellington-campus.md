@@ -1,9 +1,12 @@
 ---
 slug: disaster-hub-opens-on-wellington-campus
-title: "Disaster hub opens on Wellington campus"
-date: 2015-08-10
-source-url: https://www.scoop.co.nz/stories/ED1508/S00029/disaster-hub-opens-on-wellington-campus.htm
+title: Disaster hub opens on Wellington campus
+date: 2015-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00029/disaster-hub-opens-on-wellington-campus.htm
 author: massey-university
+permalink: /archive/2015/08/10/disaster-hub-opens-on-wellington-campus/index.html
+layout: layout.njk
 ---
 Disaster hub opens on Wellington campus
 =======================================

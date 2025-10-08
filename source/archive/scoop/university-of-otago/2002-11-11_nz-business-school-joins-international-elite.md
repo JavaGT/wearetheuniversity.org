@@ -1,9 +1,12 @@
 ---
 slug: nz-business-school-joins-international-elite
-title: "NZ Business School Joins International Elite"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/ED0211/S00023/nz-business-school-joins-international-elite.htm
+title: NZ Business School Joins International Elite
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00023/nz-business-school-joins-international-elite.htm
 author: university-of-otago
+permalink: /archive/2002/11/11/nz-business-school-joins-international-elite/index.html
+layout: layout.njk
 ---
 NZ Business School Joins International Elite
 ============================================

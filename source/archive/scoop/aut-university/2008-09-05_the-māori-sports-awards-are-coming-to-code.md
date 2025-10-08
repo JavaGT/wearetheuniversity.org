@@ -1,9 +1,12 @@
 ---
 slug: the-māori-sports-awards-are-coming-to-code
-title: "The Māori Sports Awards are coming to CODE"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/CU0809/S00078/the-maori-sports-awards-are-coming-to-code.htm
+title: The Māori Sports Awards are coming to CODE
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00078/the-maori-sports-awards-are-coming-to-code.htm
 author: aut-university
+permalink: /archive/2008/09/05/the-m/index.html
+layout: layout.njk
 ---
 The Māori Sports Awards are coming to CODE
 ==========================================

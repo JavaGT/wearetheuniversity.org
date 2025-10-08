@@ -1,9 +1,13 @@
 ---
 slug: in-a-more-dangerous-world-foreign-policy-becomes-a-bread-and-butter-issue
-title: "In A More Dangerous World, Foreign Policy Becomes A Bread And Butter Issue"
-date: 2023-02-13
-source-url: https://www.scoop.co.nz/stories/PO2302/S00067/in-a-more-dangerous-world-foreign-policy-becomes-a-bread-and-butter-issue.htm
+title: In A More Dangerous World, Foreign Policy Becomes A Bread And Butter Issue
+date: 2023-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00067/in-a-more-dangerous-world-foreign-policy-becomes-a-bread-and-butter-issue.htm
 author: maxim-institute
+permalink: >-
+  /archive/2023/02/13/in-a-more-dangerous-world-foreign-policy-becomes-a-bread-and-butter-issue/index.html
+layout: layout.njk
 ---
 In A More Dangerous World, Foreign Policy Becomes A Bread And Butter Issue
 ==========================================================================

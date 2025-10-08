@@ -1,9 +1,13 @@
 ---
 slug: expert-disagrees-with-us-court-declaring-sea-shepherd-pirate
-title: "Expert Disagrees With US Court Declaring Sea Shepherd Pirate"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/ED1303/S00002/expert-disagrees-with-us-court-declaring-sea-shepherd-pirate.htm
+title: Expert Disagrees With US Court Declaring Sea Shepherd Pirate
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00002/expert-disagrees-with-us-court-declaring-sea-shepherd-pirate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/01/expert-disagrees-with-us-court-declaring-sea-shepherd-pirate/index.html
+layout: layout.njk
 ---
 Expert Disagrees With US Court Declaring Sea Shepherd Pirate
 ============================================================

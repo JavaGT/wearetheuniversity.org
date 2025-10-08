@@ -1,9 +1,13 @@
 ---
 slug: maungakiekie-mp-welcomes-inquiry-into-pacific-languages
-title: "Maungakiekie MP Welcomes Inquiry into Pacific Languages"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/PA1205/S00241/maungakiekie-mp-welcomes-inquiry-into-pacific-languages.htm
+title: Maungakiekie MP Welcomes Inquiry into Pacific Languages
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00241/maungakiekie-mp-welcomes-inquiry-into-pacific-languages.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2012/05/14/maungakiekie-mp-welcomes-inquiry-into-pacific-languages/index.html
+layout: layout.njk
 ---
 Maungakiekie MP Welcomes Inquiry into Pacific Languages
 =======================================================

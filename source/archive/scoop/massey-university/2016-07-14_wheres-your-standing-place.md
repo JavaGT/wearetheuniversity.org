@@ -1,9 +1,11 @@
 ---
 slug: wheres-your-standing-place
-title: "Where’s your ‘standing place’?"
-date: 2016-07-14
+title: Where’s your ‘standing place’?
+date: 2016-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1607/S00060/wheres-your-standing-place.htm
 author: massey-university
+permalink: /archive/2016/07/14/wheres-your-standing-place/index.html
+layout: layout.njk
 ---
 Where’s your ‘standing place’?
 ==============================

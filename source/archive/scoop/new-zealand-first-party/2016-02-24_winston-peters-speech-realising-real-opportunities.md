@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-speech-realising-real-opportunities
-title: "Winston Peters Speech: Realising Real Opportunities"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/PA1602/S00340/winston-peters-speech-realising-real-opportunities.htm
+title: 'Winston Peters Speech: Realising Real Opportunities'
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00340/winston-peters-speech-realising-real-opportunities.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/02/24/winston-peters-speech-realising-real-opportunities/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: Realising Real Opportunities
 ===================================================

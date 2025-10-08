@@ -1,9 +1,12 @@
 ---
 slug: excellence-in-education-don-brash-statement
-title: "Excellence in education - Don Brash Statement"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PA0504/S00287/excellence-in-education-don-brash-statement.htm
+title: Excellence in education - Don Brash Statement
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00287/excellence-in-education-don-brash-statement.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/13/excellence-in-education-don-brash-statement/index.html
+layout: layout.njk
 ---
 Excellence in education - Don Brash Statement
 =============================================

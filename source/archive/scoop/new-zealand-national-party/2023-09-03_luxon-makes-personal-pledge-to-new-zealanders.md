@@ -1,9 +1,12 @@
 ---
 slug: luxon-makes-personal-pledge-to-new-zealanders
-title: "Luxon Makes Personal Pledge To New Zealanders"
-date: 2023-09-03
-source-url: https://www.scoop.co.nz/stories/PA2309/S00012/luxon-makes-personal-pledge-to-new-zealanders.htm
+title: Luxon Makes Personal Pledge To New Zealanders
+date: 2023-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00012/luxon-makes-personal-pledge-to-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/03/luxon-makes-personal-pledge-to-new-zealanders/index.html
+layout: layout.njk
 ---
 Luxon Makes Personal Pledge To New Zealanders
 =============================================

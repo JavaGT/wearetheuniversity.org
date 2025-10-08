@@ -1,9 +1,12 @@
 ---
 slug: true-cost-of-extra-police-doubles
-title: "True cost of extra police doubles"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/PA0612/S00202/true-cost-of-extra-police-doubles.htm
+title: True cost of extra police doubles
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00202/true-cost-of-extra-police-doubles.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/11/true-cost-of-extra-police-doubles/index.html
+layout: layout.njk
 ---
 True cost of extra police doubles
 =================================

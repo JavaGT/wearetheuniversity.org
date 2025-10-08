@@ -1,9 +1,13 @@
 ---
 slug: smokefree-city-streets-not-a-problem-for-business
-title: "Smokefree city streets not a problem for business"
-date: 2012-06-11
-source-url: https://www.scoop.co.nz/stories/ED1206/S00039/smokefree-city-streets-not-a-problem-for-business.htm
+title: Smokefree city streets not a problem for business
+date: 2012-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00039/smokefree-city-streets-not-a-problem-for-business.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/11/smokefree-city-streets-not-a-problem-for-business/index.html
+layout: layout.njk
 ---
 Smokefree city streets not a problem for business
 =================================================

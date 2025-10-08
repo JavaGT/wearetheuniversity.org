@@ -1,9 +1,12 @@
 ---
 slug: action-is-needed-on-child-poverty-now
-title: "Action is needed on child poverty now"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/PA1209/S00345/action-is-needed-on-child-poverty-now.htm
+title: Action is needed on child poverty now
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00345/action-is-needed-on-child-poverty-now.htm
 author: green-party
+permalink: /archive/2012/09/21/action-is-needed-on-child-poverty-now/index.html
+layout: layout.njk
 ---
 Action is needed on child poverty now
 =====================================

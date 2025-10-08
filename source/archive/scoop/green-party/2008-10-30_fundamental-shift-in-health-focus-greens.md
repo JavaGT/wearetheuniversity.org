@@ -1,9 +1,12 @@
 ---
 slug: fundamental-shift-in-health-focus-greens
-title: "Fundamental shift in health focus: Greens"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PA0810/S00654/fundamental-shift-in-health-focus-greens.htm
+title: 'Fundamental shift in health focus: Greens'
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00654/fundamental-shift-in-health-focus-greens.htm
 author: green-party
+permalink: /archive/2008/10/30/fundamental-shift-in-health-focus-greens/index.html
+layout: layout.njk
 ---
 Fundamental shift in health focus: Greens
 =========================================

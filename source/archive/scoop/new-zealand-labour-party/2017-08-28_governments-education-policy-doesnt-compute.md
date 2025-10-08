@@ -1,9 +1,12 @@
 ---
 slug: governments-education-policy-doesnt-compute
-title: "Government’s education policy doesn’t compute"
-date: 2017-08-28
-source-url: https://www.scoop.co.nz/stories/PA1708/S00503/governments-education-policy-doesnt-compute.htm
+title: Government’s education policy doesn’t compute
+date: 2017-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00503/governments-education-policy-doesnt-compute.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/28/governments-education-policy-doesnt-compute/index.html
+layout: layout.njk
 ---
 Government’s education policy doesn’t compute
 =============================================

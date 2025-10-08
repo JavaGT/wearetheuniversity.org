@@ -1,9 +1,12 @@
 ---
 slug: maharey-all-talk-no-action-on-tertiary-strategy
-title: "Maharey all talk, no action on tertiary strategy"
-date: 2004-09-16
-source-url: https://www.scoop.co.nz/stories/PA0409/S00345/maharey-all-talk-no-action-on-tertiary-strategy.htm
+title: Maharey all talk, no action on tertiary strategy
+date: 2004-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00345/maharey-all-talk-no-action-on-tertiary-strategy.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/16/maharey-all-talk-no-action-on-tertiary-strategy/index.html
+layout: layout.njk
 ---
 Maharey all talk, no action on tertiary strategy
 ================================================

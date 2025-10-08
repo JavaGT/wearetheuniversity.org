@@ -1,9 +1,13 @@
 ---
 slug: new-online-system-streamlines-enrolments-for-lincoln
-title: "New online system streamlines enrolments for Lincoln"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/ED1509/S00011/new-online-system-streamlines-enrolments-for-lincoln.htm
+title: New online system streamlines enrolments for Lincoln
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00011/new-online-system-streamlines-enrolments-for-lincoln.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/09/02/new-online-system-streamlines-enrolments-for-lincoln/index.html
+layout: layout.njk
 ---
 New online system streamlines enrolments for Lincoln
 ====================================================

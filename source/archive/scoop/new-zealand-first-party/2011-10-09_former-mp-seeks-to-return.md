@@ -1,9 +1,11 @@
 ---
 slug: former-mp-seeks-to-return
-title: "\"Former MP seeks to return\""
-date: 2011-10-09
+title: '"Former MP seeks to return"'
+date: 2011-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1110/S00133/former-mp-seeks-to-return.htm
 author: new-zealand-first-party
+permalink: /archive/2011/10/09/former-mp-seeks-to-return/index.html
+layout: layout.njk
 ---
 “Former MP seeks to return”
 ===========================

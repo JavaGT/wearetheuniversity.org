@@ -1,9 +1,12 @@
 ---
 slug: phd-research-examines-the-behaviour-of-cyclones
-title: "PhD research examines the behaviour of cyclones"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/SC0906/S00019/phd-research-examines-the-behaviour-of-cyclones.htm
+title: PhD research examines the behaviour of cyclones
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0906/S00019/phd-research-examines-the-behaviour-of-cyclones.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/06/11/phd-research-examines-the-behaviour-of-cyclones/index.html
+layout: layout.njk
 ---
 PhD research examines the behaviour of cyclones
 ===============================================

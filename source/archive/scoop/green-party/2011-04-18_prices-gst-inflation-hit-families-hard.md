@@ -1,9 +1,12 @@
 ---
 slug: prices-gst-inflation-hit-families-hard
-title: "Prices, GST, inflation hit families hard"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PA1104/S00378/prices-gst-inflation-hit-families-hard.htm
+title: Prices, GST, inflation hit families hard
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00378/prices-gst-inflation-hit-families-hard.htm
 author: green-party
+permalink: /archive/2011/04/18/prices-gst-inflation-hit-families-hard/index.html
+layout: layout.njk
 ---
 Prices, GST, inflation hit families hard
 ========================================

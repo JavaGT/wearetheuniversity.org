@@ -1,9 +1,12 @@
 ---
 slug: broadcasting-amendment-bill-harawira
-title: "Broadcasting Amendment Bill - Harawira"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/PA0803/S00087/broadcasting-amendment-bill-harawira.htm
+title: Broadcasting Amendment Bill - Harawira
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00087/broadcasting-amendment-bill-harawira.htm
 author: te-pati-maori
+permalink: /archive/2008/03/06/broadcasting-amendment-bill-harawira/index.html
+layout: layout.njk
 ---
 Broadcasting Amendment Bill - Harawira
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: lawtech-bootcamp-aims-to-break-new-ground
-title: "LawTech Bootcamp aims to break new ground"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/ED1708/S00028/lawtech-bootcamp-aims-to-break-new-ground.htm
+title: LawTech Bootcamp aims to break new ground
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00028/lawtech-bootcamp-aims-to-break-new-ground.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/09/lawtech-bootcamp-aims-to-break-new-ground/index.html
+layout: layout.njk
 ---
 LawTech Bootcamp aims to break new ground
 =========================================

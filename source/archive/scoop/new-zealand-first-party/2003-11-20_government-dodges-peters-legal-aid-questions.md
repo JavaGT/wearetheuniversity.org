@@ -1,9 +1,12 @@
 ---
 slug: government-dodges-peters-legal-aid-questions
-title: "Government Dodges Peters’ Legal Aid Questions"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/PA0311/S00428/government-dodges-peters-legal-aid-questions.htm
+title: Government Dodges Peters’ Legal Aid Questions
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00428/government-dodges-peters-legal-aid-questions.htm
 author: new-zealand-first-party
+permalink: /archive/2003/11/20/government-dodges-peters-legal-aid-questions/index.html
+layout: layout.njk
 ---
 Government Dodges Peters’ Legal Aid Questions
 =============================================

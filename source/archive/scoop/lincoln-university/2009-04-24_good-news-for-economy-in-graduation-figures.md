@@ -1,9 +1,12 @@
 ---
 slug: good-news-for-economy-in-graduation-figures
-title: "‘Good news for economy’ in graduation figures"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/ED0904/S00054/good-news-for-economy-in-graduation-figures.htm
+title: ‘Good news for economy’ in graduation figures
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00054/good-news-for-economy-in-graduation-figures.htm
 author: lincoln-university
+permalink: /archive/2009/04/24/good-news-for-economy-in-graduation-figures/index.html
+layout: layout.njk
 ---
 ‘Good news for economy’ in graduation figures
 =============================================

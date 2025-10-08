@@ -1,9 +1,12 @@
 ---
 slug: job-losses-mit-announce-major-staffing-review
-title: "Job losses: MIT announce major staffing review"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/ED1410/S00092/job-losses-mit-announce-major-staffing-review.htm
+title: 'Job losses: MIT announce major staffing review'
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00092/job-losses-mit-announce-major-staffing-review.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2014/10/15/job-losses-mit-announce-major-staffing-review/index.html
+layout: layout.njk
 ---
 Job losses: MIT announce major staffing review
 ==============================================

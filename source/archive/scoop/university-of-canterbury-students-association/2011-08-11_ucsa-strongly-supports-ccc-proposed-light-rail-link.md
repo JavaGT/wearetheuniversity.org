@@ -1,9 +1,13 @@
 ---
 slug: ucsa-strongly-supports-ccc-proposed-light-rail-link
-title: "UCSA strongly supports CCC proposed light rail link"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/AK1108/S00305/ucsa-strongly-supports-ccc-proposed-light-rail-link.htm
+title: UCSA strongly supports CCC proposed light rail link
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1108/S00305/ucsa-strongly-supports-ccc-proposed-light-rail-link.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2011/08/11/ucsa-strongly-supports-ccc-proposed-light-rail-link/index.html
+layout: layout.njk
 ---
 UCSA strongly supports CCC proposed light rail link
 ===================================================

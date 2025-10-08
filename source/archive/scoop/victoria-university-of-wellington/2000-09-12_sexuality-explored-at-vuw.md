@@ -1,9 +1,11 @@
 ---
 slug: sexuality-explored-at-vuw
-title: "Sexuality explored at VUW"
-date: 2000-09-12
+title: Sexuality explored at VUW
+date: 2000-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0009/S00024/sexuality-explored-at-vuw.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/09/12/sexuality-explored-at-vuw/index.html
+layout: layout.njk
 ---
 Sexuality explored at VUW
 =========================

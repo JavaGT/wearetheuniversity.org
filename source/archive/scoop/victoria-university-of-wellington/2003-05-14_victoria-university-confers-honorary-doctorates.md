@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-confers-honorary-doctorates
-title: "Victoria University Confers Honorary Doctorates"
-date: 2003-05-14
-source-url: https://www.scoop.co.nz/stories/ED0305/S00034/victoria-university-confers-honorary-doctorates.htm
+title: Victoria University Confers Honorary Doctorates
+date: 2003-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00034/victoria-university-confers-honorary-doctorates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/14/victoria-university-confers-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Victoria University Confers Honorary Doctorates
 ===============================================

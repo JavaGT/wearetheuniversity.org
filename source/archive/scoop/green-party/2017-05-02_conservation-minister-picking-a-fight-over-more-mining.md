@@ -1,9 +1,13 @@
 ---
 slug: conservation-minister-picking-a-fight-over-more-mining
-title: "Conservation Minister picking a fight over more mining"
-date: 2017-05-02
-source-url: https://www.scoop.co.nz/stories/PA1705/S00021/conservation-minister-picking-a-fight-over-more-mining.htm
+title: Conservation Minister picking a fight over more mining
+date: 2017-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00021/conservation-minister-picking-a-fight-over-more-mining.htm
 author: green-party
+permalink: >-
+  /archive/2017/05/02/conservation-minister-picking-a-fight-over-more-mining/index.html
+layout: layout.njk
 ---
 Conservation Minister picking a fight over more mining
 ======================================================

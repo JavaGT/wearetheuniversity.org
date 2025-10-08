@@ -1,9 +1,11 @@
 ---
 slug: how-well-do-you-sing
-title: "How well do you sing?"
-date: 2012-07-23
+title: How well do you sing?
+date: 2012-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1207/S00361/how-well-do-you-sing.htm
 author: university-of-waikato
+permalink: /archive/2012/07/23/how-well-do-you-sing/index.html
+layout: layout.njk
 ---
 How well do you sing?
 =====================

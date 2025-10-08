@@ -1,9 +1,13 @@
 ---
 slug: british-govt-advisor-to-collaborate-w-genome-work
-title: "British Govt Advisor to Collaborate w Genome Work"
-date: 2005-10-31
-source-url: https://www.scoop.co.nz/stories/ED0510/S00092/british-govt-advisor-to-collaborate-w-genome-work.htm
+title: British Govt Advisor to Collaborate w Genome Work
+date: 2005-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00092/british-govt-advisor-to-collaborate-w-genome-work.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/10/31/british-govt-advisor-to-collaborate-w-genome-work/index.html
+layout: layout.njk
 ---
 British Govt Advisor to Collaborate w Genome Work
 =================================================

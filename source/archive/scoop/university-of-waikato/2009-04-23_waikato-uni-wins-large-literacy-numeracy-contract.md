@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-wins-large-literacy-numeracy-contract
-title: "Waikato Uni wins large literacy, numeracy contract"
-date: 2009-04-23
-source-url: https://www.scoop.co.nz/stories/ED0904/S00052/waikato-uni-wins-large-literacy-numeracy-contract.htm
+title: Waikato Uni wins large literacy, numeracy contract
+date: 2009-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00052/waikato-uni-wins-large-literacy-numeracy-contract.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/04/23/waikato-uni-wins-large-literacy-numeracy-contract/index.html
+layout: layout.njk
 ---
 Waikato Uni wins large literacy, numeracy contract
 ==================================================

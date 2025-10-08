@@ -1,9 +1,12 @@
 ---
 slug: call-for-review-of-civil-justice-system
-title: "Call for review of civil justice system"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/PO1511/S00323/call-for-review-of-civil-justice-system.htm
+title: Call for review of civil justice system
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00323/call-for-review-of-civil-justice-system.htm
 author: university-of-otago
+permalink: /archive/2015/11/20/call-for-review-of-civil-justice-system/index.html
+layout: layout.njk
 ---
 Call for review of civil justice system
 =======================================

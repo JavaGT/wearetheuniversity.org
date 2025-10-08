@@ -1,9 +1,12 @@
 ---
 slug: ministry-spends-$100k-a-day-on-consultants
-title: "Ministry spends $100K a day on consultants"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PA1602/S00138/ministry-spends-100k-a-day-on-consultants.htm
+title: Ministry spends $100K a day on consultants
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00138/ministry-spends-100k-a-day-on-consultants.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/11/ministry-spends-/index.html
+layout: layout.njk
 ---
 Ministry spends $100K a day on consultants
 ==========================================

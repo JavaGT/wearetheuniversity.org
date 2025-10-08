@@ -1,9 +1,12 @@
 ---
 slug: santa-claus-ruse-embarrassing
-title: "Santa Claus Ruse Embarrassing"
-date: 2020-12-04
-source-url: https://www.scoop.co.nz/stories/PA2012/S00033/santa-claus-ruse-embarrassing.htm
+title: Santa Claus Ruse Embarrassing
+date: 2020-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00033/santa-claus-ruse-embarrassing.htm
 author: act-new-zealand
+permalink: /archive/2020/12/04/santa-claus-ruse-embarrassing/index.html
+layout: layout.njk
 ---
 Santa Claus Ruse Embarrassing
 =============================

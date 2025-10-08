@@ -1,9 +1,11 @@
 ---
 slug: uc-appoints-new-chancellor
-title: "UC appoints new Chancellor"
-date: 2008-11-26
+title: UC appoints new Chancellor
+date: 2008-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0811/S00074/uc-appoints-new-chancellor.htm
 author: university-of-canterbury
+permalink: /archive/2008/11/26/uc-appoints-new-chancellor/index.html
+layout: layout.njk
 ---
 UC appoints new Chancellor
 ==========================

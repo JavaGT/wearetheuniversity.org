@@ -1,9 +1,13 @@
 ---
 slug: backdown-on-feminist-conference-requires-justification
-title: "Backdown on Feminist Conference Requires Justification"
-date: 2019-10-17
-source-url: https://www.scoop.co.nz/stories/PA1910/S00131/backdown-on-feminist-conference-requires-justification.htm
+title: Backdown on Feminist Conference Requires Justification
+date: 2019-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00131/backdown-on-feminist-conference-requires-justification.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/17/backdown-on-feminist-conference-requires-justification/index.html
+layout: layout.njk
 ---
 Backdown on Feminist Conference Requires Justification
 ======================================================

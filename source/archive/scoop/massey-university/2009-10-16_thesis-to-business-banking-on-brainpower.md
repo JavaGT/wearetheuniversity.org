@@ -1,9 +1,12 @@
 ---
 slug: thesis-to-business-banking-on-brainpower
-title: "Thesis to business – banking on brainpower"
-date: 2009-10-16
-source-url: https://www.scoop.co.nz/stories/ED0910/S00072/thesis-to-business-banking-on-brainpower.htm
+title: Thesis to business – banking on brainpower
+date: 2009-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00072/thesis-to-business-banking-on-brainpower.htm
 author: massey-university
+permalink: /archive/2009/10/16/thesis-to-business-banking-on-brainpower/index.html
+layout: layout.njk
 ---
 Thesis to business – banking on brainpower
 ==========================================

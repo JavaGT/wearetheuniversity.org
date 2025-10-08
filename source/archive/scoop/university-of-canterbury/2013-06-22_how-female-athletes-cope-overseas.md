@@ -1,9 +1,12 @@
 ---
 slug: how-female-athletes-cope-overseas
-title: "How female athletes cope overseas"
-date: 2013-06-22
-source-url: https://www.scoop.co.nz/stories/CU1306/S00313/how-female-athletes-cope-overseas.htm
+title: How female athletes cope overseas
+date: 2013-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00313/how-female-athletes-cope-overseas.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/22/how-female-athletes-cope-overseas/index.html
+layout: layout.njk
 ---
 How female athletes cope overseas
 =================================

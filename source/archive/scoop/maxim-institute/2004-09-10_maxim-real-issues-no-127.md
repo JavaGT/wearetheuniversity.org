@@ -1,9 +1,11 @@
 ---
 slug: maxim-real-issues-no-127
-title: "Maxim Real Issues No. 127,"
-date: 2004-09-10
+title: Maxim Real Issues No. 127,
+date: 2004-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0409/S00077/maxim-real-issues-no-127.htm
 author: maxim-institute
+permalink: /archive/2004/09/10/maxim-real-issues-no-127/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 127,
 ==========================

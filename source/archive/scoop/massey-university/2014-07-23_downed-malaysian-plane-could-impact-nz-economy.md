@@ -1,9 +1,12 @@
 ---
 slug: downed-malaysian-plane-could-impact-nz-economy
-title: "Downed Malaysian Plane Could Impact NZ Economy"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/ED1407/S00112/downed-malaysian-plane-could-impact-nz-economy.htm
+title: Downed Malaysian Plane Could Impact NZ Economy
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00112/downed-malaysian-plane-could-impact-nz-economy.htm
 author: massey-university
+permalink: /archive/2014/07/23/downed-malaysian-plane-could-impact-nz-economy/index.html
+layout: layout.njk
 ---
 Downed Malaysian Plane Could Impact NZ Economy
 ==============================================

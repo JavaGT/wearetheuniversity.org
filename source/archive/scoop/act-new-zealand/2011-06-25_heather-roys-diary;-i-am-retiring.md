@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary;-i-am-retiring
-title: "Heather Roy's Diary; I am retiring"
-date: 2011-06-25
-source-url: https://www.scoop.co.nz/stories/PA1106/S00446/heather-roys-diary-i-am-retiring.htm
+title: Heather Roy's Diary; I am retiring
+date: 2011-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00446/heather-roys-diary-i-am-retiring.htm
 author: act-new-zealand
+permalink: /archive/2011/06/25/heather-roys-diary/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary; I am retiring
 ==================================

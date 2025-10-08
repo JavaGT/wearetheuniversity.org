@@ -1,9 +1,12 @@
 ---
 slug: new-mâori-and-pacific-island-scholarships
-title: "New Mâori and Pacific Island Scholarships"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/ED0510/S00059/new-maori-and-pacific-island-scholarships.htm
+title: New Mâori and Pacific Island Scholarships
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00059/new-maori-and-pacific-island-scholarships.htm
 author: university-of-otago
+permalink: /archive/2005/10/19/new-m/index.html
+layout: layout.njk
 ---
 New Mâori and Pacific Island Scholarships
 =========================================

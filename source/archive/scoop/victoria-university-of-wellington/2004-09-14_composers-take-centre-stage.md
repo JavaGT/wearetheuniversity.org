@@ -1,9 +1,11 @@
 ---
 slug: composers-take-centre-stage
-title: "Composers take centre stage"
-date: 2004-09-14
+title: Composers take centre stage
+date: 2004-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0409/S00054/composers-take-centre-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/14/composers-take-centre-stage/index.html
+layout: layout.njk
 ---
 Composers take centre stage
 ===========================

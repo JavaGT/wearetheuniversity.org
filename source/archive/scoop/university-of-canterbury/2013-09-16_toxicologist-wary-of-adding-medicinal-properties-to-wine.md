@@ -1,9 +1,13 @@
 ---
 slug: toxicologist-wary-of-adding-medicinal-properties-to-wine
-title: "Toxicologist wary of adding medicinal properties to wine"
-date: 2013-09-16
-source-url: https://www.scoop.co.nz/stories/SC1309/S00041/toxicologist-wary-of-adding-medicinal-properties-to-wine.htm
+title: Toxicologist wary of adding medicinal properties to wine
+date: 2013-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00041/toxicologist-wary-of-adding-medicinal-properties-to-wine.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/16/toxicologist-wary-of-adding-medicinal-properties-to-wine/index.html
+layout: layout.njk
 ---
 Toxicologist wary of adding medicinal properties to wine
 ========================================================

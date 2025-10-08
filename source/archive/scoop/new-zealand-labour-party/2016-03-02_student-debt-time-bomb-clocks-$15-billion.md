@@ -1,9 +1,12 @@
 ---
 slug: student-debt-time-bomb-clocks-$15-billion
-title: "Student debt time bomb clocks $15 billion"
-date: 2016-03-02
-source-url: https://www.scoop.co.nz/stories/PA1603/S00021/student-debt-time-bomb-clocks-15-billion.htm
+title: Student debt time bomb clocks $15 billion
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00021/student-debt-time-bomb-clocks-15-billion.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/02/student-debt-time-bomb-clocks-/index.html
+layout: layout.njk
 ---
 Student debt time bomb clocks $15 billion
 =========================================

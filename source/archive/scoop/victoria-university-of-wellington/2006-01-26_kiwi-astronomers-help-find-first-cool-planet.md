@@ -1,9 +1,12 @@
 ---
 slug: kiwi-astronomers-help-find-first-cool-planet
-title: "Kiwi astronomers help find first \"cool\" planet"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/ED0601/S00023/kiwi-astronomers-help-find-first-cool-planet.htm
+title: Kiwi astronomers help find first "cool" planet
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00023/kiwi-astronomers-help-find-first-cool-planet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/01/26/kiwi-astronomers-help-find-first-cool-planet/index.html
+layout: layout.njk
 ---
 Kiwi astronomers help find first “cool” planet
 ==============================================

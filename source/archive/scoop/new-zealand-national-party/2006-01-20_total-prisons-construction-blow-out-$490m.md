@@ -1,9 +1,12 @@
 ---
 slug: total-prisons-construction-blow-out-$490m
-title: "Total prisons construction blow-out $490m"
-date: 2006-01-20
-source-url: https://www.scoop.co.nz/stories/PA0601/S00076/total-prisons-construction-blow-out-490m.htm
+title: Total prisons construction blow-out $490m
+date: 2006-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00076/total-prisons-construction-blow-out-490m.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/20/total-prisons-construction-blow-out-/index.html
+layout: layout.njk
 ---
 Total prisons construction blow-out $490m
 =========================================

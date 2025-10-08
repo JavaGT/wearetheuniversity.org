@@ -1,9 +1,13 @@
 ---
 slug: rethink-needed-over-dairy-farm-planting-incentives
-title: "Rethink needed over dairy farm planting incentives"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/BU1602/S00056/rethink-needed-over-dairy-farm-planting-incentives.htm
+title: Rethink needed over dairy farm planting incentives
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1602/S00056/rethink-needed-over-dairy-farm-planting-incentives.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/02/02/rethink-needed-over-dairy-farm-planting-incentives/index.html
+layout: layout.njk
 ---
 Rethink needed over dairy farm planting incentives
 ==================================================

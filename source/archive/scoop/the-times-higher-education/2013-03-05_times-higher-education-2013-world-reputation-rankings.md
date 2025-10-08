@@ -1,9 +1,13 @@
 ---
 slug: times-higher-education-2013-world-reputation-rankings
-title: "Times Higher Education: 2013 World Reputation Rankings"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/ED1303/S00025/times-higher-education-2013-world-reputation-rankings.htm
+title: 'Times Higher Education: 2013 World Reputation Rankings'
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00025/times-higher-education-2013-world-reputation-rankings.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2013/03/05/times-higher-education-2013-world-reputation-rankings/index.html
+layout: layout.njk
 ---
 Times Higher Education: 2013 World Reputation Rankings
 ======================================================

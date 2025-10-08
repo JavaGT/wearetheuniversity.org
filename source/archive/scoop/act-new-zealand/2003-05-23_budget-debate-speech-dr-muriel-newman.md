@@ -1,9 +1,12 @@
 ---
 slug: budget-debate-speech-dr-muriel-newman
-title: "Budget Debate Speech: Dr MURIEL NEWMAN"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/PA0305/S00618/budget-debate-speech-dr-muriel-newman.htm
+title: 'Budget Debate Speech: Dr MURIEL NEWMAN'
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00618/budget-debate-speech-dr-muriel-newman.htm
 author: act-new-zealand
+permalink: /archive/2003/05/23/budget-debate-speech-dr-muriel-newman/index.html
+layout: layout.njk
 ---
 Budget Debate Speech: Dr MURIEL NEWMAN
 ======================================

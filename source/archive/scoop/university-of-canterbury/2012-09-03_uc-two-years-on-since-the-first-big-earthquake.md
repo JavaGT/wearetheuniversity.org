@@ -1,9 +1,12 @@
 ---
 slug: uc-two-years-on-since-the-first-big-earthquake
-title: "UC, two years on since the first big earthquake"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/ED1209/S00016/uc-two-years-on-since-the-first-big-earthquake.htm
+title: UC, two years on since the first big earthquake
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00016/uc-two-years-on-since-the-first-big-earthquake.htm
 author: university-of-canterbury
+permalink: /archive/2012/09/03/uc-two-years-on-since-the-first-big-earthquake/index.html
+layout: layout.njk
 ---
 UC, two years on since the first big earthquake
 ===============================================

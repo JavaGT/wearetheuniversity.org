@@ -1,9 +1,12 @@
 ---
 slug: govt-failing-auckland-commuters
-title: "Govt failing Auckland commuters"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/PA1509/S00419/govt-failing-auckland-commuters.htm
+title: Govt failing Auckland commuters
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00419/govt-failing-auckland-commuters.htm
 author: green-party
+permalink: /archive/2015/09/24/govt-failing-auckland-commuters/index.html
+layout: layout.njk
 ---
 Govt failing Auckland commuters
 ===============================

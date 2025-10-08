@@ -1,9 +1,12 @@
 ---
 slug: pm-debate-hone-harawira-on-the-foreshore
-title: "PM debate - Hone Harawira on the foreshore"
-date: 2010-02-16
-source-url: https://www.scoop.co.nz/stories/PA1002/S00209/pm-debate-hone-harawira-on-the-foreshore.htm
+title: PM debate - Hone Harawira on the foreshore
+date: 2010-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00209/pm-debate-hone-harawira-on-the-foreshore.htm
 author: te-pati-maori
+permalink: /archive/2010/02/16/pm-debate-hone-harawira-on-the-foreshore/index.html
+layout: layout.njk
 ---
 PM debate - Hone Harawira on the foreshore
 ==========================================

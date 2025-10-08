@@ -1,9 +1,11 @@
 ---
 slug: lincoln-votes-ge-free
-title: "Lincoln Votes GE Free"
-date: 2002-05-08
+title: Lincoln Votes GE Free
+date: 2002-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0205/S00013/lincoln-votes-ge-free.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/05/08/lincoln-votes-ge-free/index.html
+layout: layout.njk
 ---
 Lincoln Votes GE Free
 =====================

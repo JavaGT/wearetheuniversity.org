@@ -1,9 +1,12 @@
 ---
 slug: state-housing-issues-addressed-in-exhibition
-title: "State housing issues addressed in exhibition"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/CU1406/S00152/state-housing-issues-addressed-in-exhibition.htm
+title: State housing issues addressed in exhibition
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00152/state-housing-issues-addressed-in-exhibition.htm
 author: aut-university
+permalink: /archive/2014/06/12/state-housing-issues-addressed-in-exhibition/index.html
+layout: layout.njk
 ---
 State housing issues addressed in exhibition
 ============================================

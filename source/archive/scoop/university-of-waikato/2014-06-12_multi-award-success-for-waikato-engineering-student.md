@@ -1,9 +1,13 @@
 ---
 slug: multi-award-success-for-waikato-engineering-student
-title: "Multi-award success for Waikato engineering student"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/ED1406/S00069/multi-award-success-for-waikato-engineering-student.htm
+title: Multi-award success for Waikato engineering student
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00069/multi-award-success-for-waikato-engineering-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/12/multi-award-success-for-waikato-engineering-student/index.html
+layout: layout.njk
 ---
 Multi-award success for Waikato engineering student
 ===================================================

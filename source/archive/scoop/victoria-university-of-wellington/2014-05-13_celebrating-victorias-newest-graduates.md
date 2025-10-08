@@ -1,9 +1,12 @@
 ---
 slug: celebrating-victorias-newest-graduates
-title: "Celebrating Victoria’s newest graduates"
-date: 2014-05-13
-source-url: https://www.scoop.co.nz/stories/AK1405/S00215/celebrating-victorias-newest-graduates.htm
+title: Celebrating Victoria’s newest graduates
+date: 2014-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00215/celebrating-victorias-newest-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/13/celebrating-victorias-newest-graduates/index.html
+layout: layout.njk
 ---
 Celebrating Victoria’s newest graduates
 =======================================

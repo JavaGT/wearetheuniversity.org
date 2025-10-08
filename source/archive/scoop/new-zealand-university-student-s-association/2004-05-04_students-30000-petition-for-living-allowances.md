@@ -1,9 +1,12 @@
 ---
 slug: students-30000-petition-for-living-allowances
-title: "Students 30,000 petition for living allowances"
-date: 2004-05-04
-source-url: https://www.scoop.co.nz/stories/ED0405/S00009/students-30000-petition-for-living-allowances.htm
+title: Students 30,000 petition for living allowances
+date: 2004-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00009/students-30000-petition-for-living-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/04/students-30000-petition-for-living-allowances/index.html
+layout: layout.njk
 ---
 Students 30,000 petition for living allowances
 ==============================================

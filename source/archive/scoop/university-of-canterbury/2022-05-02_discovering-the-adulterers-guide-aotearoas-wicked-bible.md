@@ -1,9 +1,13 @@
 ---
 slug: discovering-the-adulterers-guide-aotearoas-wicked-bible
-title: "Discovering The Adulterer’s Guide: Aotearoa’s Wicked Bible"
-date: 2022-05-02
-source-url: https://www.scoop.co.nz/stories/ED2205/S00003/discovering-the-adulterers-guide-aotearoas-wicked-bible.htm
+title: 'Discovering The Adulterer’s Guide: Aotearoa’s Wicked Bible'
+date: 2022-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00003/discovering-the-adulterers-guide-aotearoas-wicked-bible.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/02/discovering-the-adulterers-guide-aotearoas-wicked-bible/index.html
+layout: layout.njk
 ---
 Discovering The Adulterer’s Guide: Aotearoa’s Wicked Bible
 ==========================================================

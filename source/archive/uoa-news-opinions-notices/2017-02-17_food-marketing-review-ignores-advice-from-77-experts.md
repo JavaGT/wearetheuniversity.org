@@ -1,8 +1,12 @@
 ---
 slug: food-marketing-review-ignores-advice-from-77-experts
-title: "Food marketing review ignores advice from 77 experts"
-date: 2017-02-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/food-marketing-review-ignores-advice-from-77-experts.html
+title: Food marketing review ignores advice from 77 experts
+date: 2017-02-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/food-marketing-review-ignores-advice-from-77-experts.html
+permalink: >-
+  /archive/2017/02/17/food-marketing-review-ignores-advice-from-77-experts/index.html
+layout: layout.njk
 ---
 Food marketing review ignores advice from 77 experts
 ====================================================

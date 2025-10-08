@@ -1,9 +1,12 @@
 ---
 slug: a-tribute-to-hon-brian-donnelly-qso
-title: "A Tribute To Hon Brian Donnelly QSO"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/PA0809/S00571/a-tribute-to-hon-brian-donnelly-qso.htm
+title: A Tribute To Hon Brian Donnelly QSO
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00571/a-tribute-to-hon-brian-donnelly-qso.htm
 author: new-zealand-first-party
+permalink: /archive/2008/09/25/a-tribute-to-hon-brian-donnelly-qso/index.html
+layout: layout.njk
 ---
 A Tribute To Hon Brian Donnelly QSO
 ===================================

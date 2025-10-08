@@ -1,9 +1,16 @@
 ---
-slug: investment-in-community-and-jobs-in-southland-and-otago-welcomed-by-new-zealand-first
-title: "Investment In Community And Jobs In Southland And Otago Welcomed By New Zealand First"
-date: 2020-07-16
-source-url: https://www.scoop.co.nz/stories/PA2007/S00152/investment-in-community-and-jobs-in-southland-and-otago-welcomed-by-new-zealand-first.htm
+slug: >-
+  investment-in-community-and-jobs-in-southland-and-otago-welcomed-by-new-zealand-first
+title: >-
+  Investment In Community And Jobs In Southland And Otago Welcomed By New
+  Zealand First
+date: 2020-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00152/investment-in-community-and-jobs-in-southland-and-otago-welcomed-by-new-zealand-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/16/investment-in-community-and-jobs-in-southland-and-otago-welcomed-by-new-zealand-first/index.html
+layout: layout.njk
 ---
 Investment In Community And Jobs In Southland And Otago Welcomed By New Zealand First
 =====================================================================================

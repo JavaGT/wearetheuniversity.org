@@ -1,9 +1,13 @@
 ---
 slug: book-award-winners-for-victoria-university-press
-title: "Book award winners for Victoria University Press"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/CU1307/S00314/book-award-winners-for-victoria-university-press.htm
+title: Book award winners for Victoria University Press
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00314/book-award-winners-for-victoria-university-press.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2013/07/17/book-award-winners-for-victoria-university-press/index.html
+layout: layout.njk
 ---
 Book award winners for Victoria University Press
 ================================================

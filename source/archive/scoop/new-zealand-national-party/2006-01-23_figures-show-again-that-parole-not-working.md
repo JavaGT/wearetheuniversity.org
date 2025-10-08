@@ -1,9 +1,12 @@
 ---
 slug: figures-show-again-that-parole-not-working
-title: "Figures show again that parole not working"
-date: 2006-01-23
-source-url: https://www.scoop.co.nz/stories/PA0601/S00092/figures-show-again-that-parole-not-working.htm
+title: Figures show again that parole not working
+date: 2006-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00092/figures-show-again-that-parole-not-working.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/23/figures-show-again-that-parole-not-working/index.html
+layout: layout.njk
 ---
 Figures show again that parole not working
 ==========================================

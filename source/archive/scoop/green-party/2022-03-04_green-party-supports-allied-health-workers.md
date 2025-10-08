@@ -1,9 +1,12 @@
 ---
 slug: green-party-supports-allied-health-workers
-title: "Green Party Supports Allied Health Workers"
-date: 2022-03-04
-source-url: https://www.scoop.co.nz/stories/PA2203/S00029/green-party-supports-allied-health-workers.htm
+title: Green Party Supports Allied Health Workers
+date: 2022-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00029/green-party-supports-allied-health-workers.htm
 author: green-party
+permalink: /archive/2022/03/04/green-party-supports-allied-health-workers/index.html
+layout: layout.njk
 ---
 Green Party Supports Allied Health Workers
 ==========================================

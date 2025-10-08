@@ -1,9 +1,13 @@
 ---
 slug: a-statistical-revolution-is-happening-at-waikato
-title: "A statistical revolution is happening at Waikato"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/ED0405/S00023/a-statistical-revolution-is-happening-at-waikato.htm
+title: A statistical revolution is happening at Waikato
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00023/a-statistical-revolution-is-happening-at-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/05/05/a-statistical-revolution-is-happening-at-waikato/index.html
+layout: layout.njk
 ---
 A statistical revolution is happening at Waikato
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: visit-by-veronique-de-rugy
-title: "Visit by Veronique de Rugy"
-date: 2005-02-08
+title: Visit by Veronique de Rugy
+date: 2005-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0502/S00086/visit-by-veronique-de-rugy.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/02/08/visit-by-veronique-de-rugy/index.html
+layout: layout.njk
 ---
 Visit by Veronique de Rugy
 ==========================

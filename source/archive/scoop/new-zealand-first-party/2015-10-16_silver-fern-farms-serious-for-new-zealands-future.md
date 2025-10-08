@@ -1,9 +1,13 @@
 ---
 slug: silver-fern-farms-serious-for-new-zealands-future
-title: "Silver Fern Farms Serious for New Zealand’s Future"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/PA1510/S00291/silver-fern-farms-serious-for-new-zealands-future.htm
+title: Silver Fern Farms Serious for New Zealand’s Future
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00291/silver-fern-farms-serious-for-new-zealands-future.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/10/16/silver-fern-farms-serious-for-new-zealands-future/index.html
+layout: layout.njk
 ---
 Silver Fern Farms Serious for New Zealand’s Future
 ==================================================

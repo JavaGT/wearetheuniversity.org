@@ -1,9 +1,11 @@
 ---
 slug: students-want-fees-back
-title: "Students Want Fees Back"
-date: 2002-03-04
+title: Students Want Fees Back
+date: 2002-03-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0203/S00006/students-want-fees-back.htm
 author: victoria-university-students-association
+permalink: /archive/2002/03/04/students-want-fees-back/index.html
+layout: layout.njk
 ---
 Students Want Fees Back
 =======================

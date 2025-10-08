@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-sports-trials-this-week
-title: "Lincoln University Sports Trials This Week"
-date: 2007-10-15
-source-url: https://www.scoop.co.nz/stories/ED0710/S00044/lincoln-university-sports-trials-this-week.htm
+title: Lincoln University Sports Trials This Week
+date: 2007-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00044/lincoln-university-sports-trials-this-week.htm
 author: lincoln-university
+permalink: /archive/2007/10/15/lincoln-university-sports-trials-this-week/index.html
+layout: layout.njk
 ---
 Lincoln University Sports Trials This Week
 ==========================================

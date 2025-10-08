@@ -1,9 +1,12 @@
 ---
 slug: uc-students-optimise-chch-airports-parking
-title: "UC students optimise Chch Airport’s parking"
-date: 2019-09-06
-source-url: https://www.scoop.co.nz/stories/ED1909/S00019/uc-students-optimise-chch-airports-parking.htm
+title: UC students optimise Chch Airport’s parking
+date: 2019-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00019/uc-students-optimise-chch-airports-parking.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/06/uc-students-optimise-chch-airports-parking/index.html
+layout: layout.njk
 ---
 UC students optimise Chch Airport’s parking
 ===========================================

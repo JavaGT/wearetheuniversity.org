@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-2-december-2005
-title: "The Mapp Report  - 2 December 2005"
-date: 2005-12-02
-source-url: https://www.scoop.co.nz/stories/PA0512/S00037/the-mapp-report-2-december-2005.htm
+title: The Mapp Report  - 2 December 2005
+date: 2005-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00037/the-mapp-report-2-december-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/02/the-mapp-report-2-december-2005/index.html
+layout: layout.njk
 ---
 The Mapp Report - 2 December 2005
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-2005-conference-speech
-title: "Rod Donald - 2005 Conference Speech"
-date: 2005-06-06
-source-url: https://www.scoop.co.nz/stories/PA0506/S00106/rod-donald-2005-conference-speech.htm
+title: Rod Donald - 2005 Conference Speech
+date: 2005-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00106/rod-donald-2005-conference-speech.htm
 author: green-party
+permalink: /archive/2005/06/06/rod-donald-2005-conference-speech/index.html
+layout: layout.njk
 ---
 Rod Donald - 2005 Conference Speech
 ===================================

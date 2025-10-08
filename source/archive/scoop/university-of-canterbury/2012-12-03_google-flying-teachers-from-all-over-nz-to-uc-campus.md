@@ -1,9 +1,13 @@
 ---
 slug: google-flying-teachers-from-all-over-nz-to-uc-campus
-title: "Google flying teachers from all over NZ to UC campus"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/ED1212/S00003/google-flying-teachers-from-all-over-nz-to-uc-campus.htm
+title: Google flying teachers from all over NZ to UC campus
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00003/google-flying-teachers-from-all-over-nz-to-uc-campus.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/03/google-flying-teachers-from-all-over-nz-to-uc-campus/index.html
+layout: layout.njk
 ---
 Google flying teachers from all over NZ to UC campus
 ====================================================

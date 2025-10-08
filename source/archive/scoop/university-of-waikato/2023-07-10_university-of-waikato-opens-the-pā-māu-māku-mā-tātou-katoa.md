@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-opens-the-pā-māu-māku-mā-tātou-katoa
-title: "University Of Waikato Opens The Pā: Māu, Māku, Mā Tātou Katoa"
-date: 2023-07-10
-source-url: https://www.scoop.co.nz/stories/AK2307/S00146/university-of-waikato-opens-the-pa-mau-maku-ma-tatou-katoa.htm
+title: 'University Of Waikato Opens The Pā: Māu, Māku, Mā Tātou Katoa'
+date: 2023-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2307/S00146/university-of-waikato-opens-the-pa-mau-maku-ma-tatou-katoa.htm
 author: university-of-waikato
+permalink: /archive/2023/07/10/university-of-waikato-opens-the-p/index.html
+layout: layout.njk
 ---
 University Of Waikato Opens The Pā: Māu, Māku, Mā Tātou Katoa
 =============================================================

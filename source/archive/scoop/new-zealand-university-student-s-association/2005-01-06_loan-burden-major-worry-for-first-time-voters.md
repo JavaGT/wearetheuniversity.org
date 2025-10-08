@@ -1,9 +1,12 @@
 ---
 slug: loan-burden-major-worry-for-first-time-voters
-title: "Loan burden major worry for first time voters"
-date: 2005-01-06
-source-url: https://www.scoop.co.nz/stories/ED0501/S00011/loan-burden-major-worry-for-first-time-voters.htm
+title: Loan burden major worry for first time voters
+date: 2005-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00011/loan-burden-major-worry-for-first-time-voters.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/01/06/loan-burden-major-worry-for-first-time-voters/index.html
+layout: layout.njk
 ---
 Loan burden major worry for first time voters
 =============================================

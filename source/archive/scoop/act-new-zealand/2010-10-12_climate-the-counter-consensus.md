@@ -1,9 +1,12 @@
 ---
 slug: climate-the-counter-consensus
-title: "Climate: The Counter Consensus"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00139/climate-the-counter-consensus.htm
+title: 'Climate: The Counter Consensus'
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00139/climate-the-counter-consensus.htm
 author: act-new-zealand
+permalink: /archive/2010/10/12/climate-the-counter-consensus/index.html
+layout: layout.njk
 ---
 Climate: The Counter Consensus
 ==============================

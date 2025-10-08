@@ -1,9 +1,13 @@
 ---
 slug: maungakiekie-mp-welcomes-further-assistance-to-tonga
-title: "Maungakiekie MP welcomes further assistance to Tonga"
-date: 2014-01-17
-source-url: https://www.scoop.co.nz/stories/PA1401/S00071/maungakiekie-mp-welcomes-further-assistance-to-tonga.htm
+title: Maungakiekie MP welcomes further assistance to Tonga
+date: 2014-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00071/maungakiekie-mp-welcomes-further-assistance-to-tonga.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/01/17/maungakiekie-mp-welcomes-further-assistance-to-tonga/index.html
+layout: layout.njk
 ---
 Maungakiekie MP welcomes further assistance to Tonga
 ====================================================

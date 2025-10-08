@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-time-for-earthquake-plan-and-tax
-title: "Winston Peters: \"Time for Earthquake Plan and Tax\""
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/PO1109/S00316/winston-peters-time-for-earthquake-plan-and-tax.htm
+title: 'Winston Peters: "Time for Earthquake Plan and Tax"'
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00316/winston-peters-time-for-earthquake-plan-and-tax.htm
 author: new-zealand-first-party
+permalink: /archive/2011/09/21/winston-peters-time-for-earthquake-plan-and-tax/index.html
+layout: layout.njk
 ---
 Winston Peters: “Time for Earthquake Plan and Tax”
 ==================================================

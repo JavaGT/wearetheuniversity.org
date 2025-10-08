@@ -1,9 +1,12 @@
 ---
 slug: education-the-next-steps-forward
-title: "Education – the next steps forward"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00102/education-the-next-steps-forward.htm
+title: Education – the next steps forward
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00102/education-the-next-steps-forward.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/03/education-the-next-steps-forward/index.html
+layout: layout.njk
 ---
 Education – the next steps forward
 ==================================

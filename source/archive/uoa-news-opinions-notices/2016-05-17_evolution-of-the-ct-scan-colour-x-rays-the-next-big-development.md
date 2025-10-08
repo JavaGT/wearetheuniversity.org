@@ -1,8 +1,12 @@
 ---
 slug: evolution-of-the-ct-scan-colour-x-rays-the-next-big-development
-title: "Evolution of the CT scan: colour x-rays the next big development"
-date: 2016-05-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/evolution-of-the-ct-scan.html
+title: 'Evolution of the CT scan: colour x-rays the next big development'
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/evolution-of-the-ct-scan.html
+permalink: >-
+  /archive/2016/05/17/evolution-of-the-ct-scan-colour-x-rays-the-next-big-development/index.html
+layout: layout.njk
 ---
 Evolution of the CT scan: colour x-rays the next big development
 ================================================================

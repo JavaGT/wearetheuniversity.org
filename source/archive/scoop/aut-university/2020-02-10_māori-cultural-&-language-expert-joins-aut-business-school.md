@@ -1,9 +1,12 @@
 ---
 slug: māori-cultural-&-language-expert-joins-aut-business-school
-title: "Māori cultural & language expert joins AUT Business School"
-date: 2020-02-10
-source-url: https://www.scoop.co.nz/stories/ED2002/S00011/maori-cultural-language-expert-joins-aut-business-school.htm
+title: Māori cultural & language expert joins AUT Business School
+date: 2020-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2002/S00011/maori-cultural-language-expert-joins-aut-business-school.htm
 author: aut-university
+permalink: /archive/2020/02/10/m/index.html
+layout: layout.njk
 ---
 Māori cultural & language expert joins AUT Business School
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: parker-in-wonderland-wishes-impossible-things-at-breakfast
-title: "Parker in Wonderland wishes impossible things at breakfast"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/PA1404/S00430/parker-in-wonderland-wishes-impossible-things-at-breakfast.htm
+title: Parker in Wonderland wishes impossible things at breakfast
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00430/parker-in-wonderland-wishes-impossible-things-at-breakfast.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/04/29/parker-in-wonderland-wishes-impossible-things-at-breakfast/index.html
+layout: layout.njk
 ---
 Parker in Wonderland wishes impossible things at breakfast
 ==========================================================

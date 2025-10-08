@@ -1,9 +1,12 @@
 ---
 slug: lockdowns-impact-on-student-learning-dire
-title: "Lockdown’s Impact On Student Learning Dire"
-date: 2021-03-03
-source-url: https://www.scoop.co.nz/stories/PA2103/S00019/lockdowns-impact-on-student-learning-dire.htm
+title: Lockdown’s Impact On Student Learning Dire
+date: 2021-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00019/lockdowns-impact-on-student-learning-dire.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/03/lockdowns-impact-on-student-learning-dire/index.html
+layout: layout.njk
 ---
 Lockdown’s Impact On Student Learning Dire
 ==========================================

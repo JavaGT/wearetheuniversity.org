@@ -1,9 +1,12 @@
 ---
 slug: moroney-launches-petition-for-pay-equity
-title: "Moroney: launches petition for pay equity"
-date: 2009-03-06
-source-url: https://www.scoop.co.nz/stories/PA0903/S00106/moroney-launches-petition-for-pay-equity.htm
+title: 'Moroney: launches petition for pay equity'
+date: 2009-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00106/moroney-launches-petition-for-pay-equity.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/06/moroney-launches-petition-for-pay-equity/index.html
+layout: layout.njk
 ---
 Moroney: launches petition for pay equity
 =========================================

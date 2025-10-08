@@ -1,9 +1,13 @@
 ---
 slug: mike-butterick-nationals-new-candidate-in-wairarapa
-title: "Mike Butterick National’s New Candidate In Wairarapa"
-date: 2020-05-30
-source-url: https://www.scoop.co.nz/stories/PA2005/S00251/mike-butterick-nationals-new-candidate-in-wairarapa.htm
+title: Mike Butterick National’s New Candidate In Wairarapa
+date: 2020-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00251/mike-butterick-nationals-new-candidate-in-wairarapa.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/30/mike-butterick-nationals-new-candidate-in-wairarapa/index.html
+layout: layout.njk
 ---
 Mike Butterick National’s New Candidate In Wairarapa
 ====================================================

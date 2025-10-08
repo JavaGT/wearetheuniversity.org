@@ -1,9 +1,12 @@
 ---
 slug: nestle-plant-closure-sad-eckhoff
-title: "Nestle Plant Closure \"Sad\"-Eckhoff"
-date: 2000-11-03
-source-url: https://www.scoop.co.nz/stories/PA0011/S00068/nestle-plant-closure-sad-eckhoff.htm
+title: Nestle Plant Closure "Sad"-Eckhoff
+date: 2000-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00068/nestle-plant-closure-sad-eckhoff.htm
 author: act-new-zealand
+permalink: /archive/2000/11/03/nestle-plant-closure-sad-eckhoff/index.html
+layout: layout.njk
 ---
 Nestle Plant Closure "Sad"-Eckhoff
 ==================================

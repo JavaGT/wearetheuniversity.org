@@ -1,9 +1,12 @@
 ---
 slug: over-100000-ready-to-drop-cover-and-hold
-title: "Over 100,000 ready to Drop, Cover and Hold"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00549/over-100000-ready-to-drop-cover-and-hold.htm
+title: Over 100,000 ready to Drop, Cover and Hold
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00549/over-100000-ready-to-drop-cover-and-hold.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/30/over-100000-ready-to-drop-cover-and-hold/index.html
+layout: layout.njk
 ---
 Over 100,000 ready to Drop, Cover and Hold
 ==========================================

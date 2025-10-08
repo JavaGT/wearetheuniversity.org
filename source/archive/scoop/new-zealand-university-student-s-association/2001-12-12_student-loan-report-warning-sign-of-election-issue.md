@@ -1,9 +1,13 @@
 ---
 slug: student-loan-report-warning-sign-of-election-issue
-title: "Student loan report warning sign of election issue"
-date: 2001-12-12
-source-url: https://www.scoop.co.nz/stories/ED0112/S00014/student-loan-report-warning-sign-of-election-issue.htm
+title: Student loan report warning sign of election issue
+date: 2001-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00014/student-loan-report-warning-sign-of-election-issue.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/12/12/student-loan-report-warning-sign-of-election-issue/index.html
+layout: layout.njk
 ---
 Student loan report warning sign of election issue
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: student-investigating-national-happiness-selected-for-forum
-title: "Student investigating national happiness selected for forum"
-date: 2015-01-13
-source-url: https://www.scoop.co.nz/stories/ED1501/S00020/student-investigating-national-happiness-selected-for-forum.htm
+title: Student investigating national happiness selected for forum
+date: 2015-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00020/student-investigating-national-happiness-selected-for-forum.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/13/student-investigating-national-happiness-selected-for-forum/index.html
+layout: layout.njk
 ---
 Student investigating national happiness selected for forum
 ===========================================================

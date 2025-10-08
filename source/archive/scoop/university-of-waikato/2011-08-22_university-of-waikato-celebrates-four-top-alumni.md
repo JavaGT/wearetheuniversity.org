@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-celebrates-four-top-alumni
-title: "University of Waikato celebrates four top alumni"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/ED1108/S00113/university-of-waikato-celebrates-four-top-alumni.htm
+title: University of Waikato celebrates four top alumni
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00113/university-of-waikato-celebrates-four-top-alumni.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/08/22/university-of-waikato-celebrates-four-top-alumni/index.html
+layout: layout.njk
 ---
 University of Waikato celebrates four top alumni
 ================================================

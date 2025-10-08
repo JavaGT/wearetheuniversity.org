@@ -1,9 +1,12 @@
 ---
 slug: good-news-for-cats-and-carpets
-title: "Good news for cats and carpets"
-date: 2006-04-28
-source-url: https://www.scoop.co.nz/stories/ED0604/S00094/good-news-for-cats-and-carpets.htm
+title: Good news for cats and carpets
+date: 2006-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00094/good-news-for-cats-and-carpets.htm
 author: massey-university
+permalink: /archive/2006/04/28/good-news-for-cats-and-carpets/index.html
+layout: layout.njk
 ---
 Good news for cats and carpets
 ==============================

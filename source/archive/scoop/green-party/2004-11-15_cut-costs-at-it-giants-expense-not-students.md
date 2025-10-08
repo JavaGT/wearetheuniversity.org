@@ -1,9 +1,12 @@
 ---
 slug: cut-costs-at-it-giants-expense-not-students
-title: "Cut Costs At IT Giants' Expense, Not Students"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/PA0411/S00339/cut-costs-at-it-giants-expense-not-students.htm
+title: Cut Costs At IT Giants' Expense, Not Students
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00339/cut-costs-at-it-giants-expense-not-students.htm
 author: green-party
+permalink: /archive/2004/11/15/cut-costs-at-it-giants-expense-not-students/index.html
+layout: layout.njk
 ---
 Cut Costs At IT Giants' Expense, Not Students
 =============================================

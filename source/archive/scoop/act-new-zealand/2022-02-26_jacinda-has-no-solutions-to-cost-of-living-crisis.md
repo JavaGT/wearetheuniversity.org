@@ -1,9 +1,13 @@
 ---
 slug: jacinda-has-no-solutions-to-cost-of-living-crisis
-title: "Jacinda Has No Solutions To Cost Of Living Crisis"
-date: 2022-02-26
-source-url: https://www.scoop.co.nz/stories/PA2202/S00199/jacinda-has-no-solutions-to-cost-of-living-crisis.htm
+title: Jacinda Has No Solutions To Cost Of Living Crisis
+date: 2022-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00199/jacinda-has-no-solutions-to-cost-of-living-crisis.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/02/26/jacinda-has-no-solutions-to-cost-of-living-crisis/index.html
+layout: layout.njk
 ---
 Jacinda Has No Solutions To Cost Of Living Crisis
 =================================================

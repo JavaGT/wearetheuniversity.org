@@ -1,9 +1,12 @@
 ---
 slug: students-still-waiting-for-$223-million
-title: "Students still waiting for $223 million"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/PA0505/S00085/students-still-waiting-for-223-million.htm
+title: Students still waiting for $223 million
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00085/students-still-waiting-for-223-million.htm
 author: green-party
+permalink: /archive/2005/05/04/students-still-waiting-for-/index.html
+layout: layout.njk
 ---
 Students still waiting for $223 million
 =======================================

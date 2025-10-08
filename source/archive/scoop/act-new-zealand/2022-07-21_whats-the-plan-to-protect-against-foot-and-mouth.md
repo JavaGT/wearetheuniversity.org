@@ -1,9 +1,13 @@
 ---
 slug: whats-the-plan-to-protect-against-foot-and-mouth
-title: "What’s The Plan To Protect Against Foot-and-Mouth"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PA2207/S00151/whats-the-plan-to-protect-against-foot-and-mouth.htm
+title: What’s The Plan To Protect Against Foot-and-Mouth
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00151/whats-the-plan-to-protect-against-foot-and-mouth.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/07/21/whats-the-plan-to-protect-against-foot-and-mouth/index.html
+layout: layout.njk
 ---
 What’s The Plan To Protect Against Foot-and-Mouth
 =================================================

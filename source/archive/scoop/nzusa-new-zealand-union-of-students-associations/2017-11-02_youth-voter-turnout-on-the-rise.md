@@ -1,9 +1,12 @@
 ---
 slug: youth-voter-turnout-on-the-rise
-title: "Youth voter turnout on the rise"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/PO1711/S00025/youth-voter-turnout-on-the-rise.htm
+title: Youth voter turnout on the rise
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00025/youth-voter-turnout-on-the-rise.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/11/02/youth-voter-turnout-on-the-rise/index.html
+layout: layout.njk
 ---
 Youth voter turnout on the rise
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: te-whetu-kahurangi-ten-year-celebration
-title: "Te Whetu Kahurangi Ten Year Celebration"
-date: 2007-12-07
-source-url: https://www.scoop.co.nz/stories/PA0712/S00163/te-whetu-kahurangi-ten-year-celebration.htm
+title: Te Whetu Kahurangi Ten Year Celebration
+date: 2007-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00163/te-whetu-kahurangi-ten-year-celebration.htm
 author: te-pati-maori
+permalink: /archive/2007/12/07/te-whetu-kahurangi-ten-year-celebration/index.html
+layout: layout.njk
 ---
 Te Whetu Kahurangi Ten Year Celebration
 =======================================

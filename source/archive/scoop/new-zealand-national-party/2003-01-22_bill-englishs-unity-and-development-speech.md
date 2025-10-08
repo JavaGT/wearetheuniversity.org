@@ -1,9 +1,12 @@
 ---
 slug: bill-englishs-unity-and-development-speech
-title: "Bill English's Unity And Development Speech"
-date: 2003-01-22
-source-url: https://www.scoop.co.nz/stories/PA0301/S00155/bill-englishs-unity-and-development-speech.htm
+title: Bill English's Unity And Development Speech
+date: 2003-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00155/bill-englishs-unity-and-development-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/22/bill-englishs-unity-and-development-speech/index.html
+layout: layout.njk
 ---
 Bill English's Unity And Development Speech
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-joyce-is-wrong-again
-title: "Minister Joyce is Wrong Again"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/PO1505/S00331/minister-joyce-is-wrong-again.htm
+title: Minister Joyce is Wrong Again
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00331/minister-joyce-is-wrong-again.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2015/05/25/minister-joyce-is-wrong-again/index.html
+layout: layout.njk
 ---
 Minister Joyce is Wrong Again
 =============================

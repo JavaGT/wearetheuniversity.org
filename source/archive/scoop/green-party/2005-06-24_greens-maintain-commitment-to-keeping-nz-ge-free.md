@@ -1,9 +1,13 @@
 ---
 slug: greens-maintain-commitment-to-keeping-nz-ge-free
-title: "Greens maintain commitment to keeping NZ GE-Free"
-date: 2005-06-24
-source-url: https://www.scoop.co.nz/stories/PA0506/S00600/greens-maintain-commitment-to-keeping-nz-ge-free.htm
+title: Greens maintain commitment to keeping NZ GE-Free
+date: 2005-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00600/greens-maintain-commitment-to-keeping-nz-ge-free.htm
 author: green-party
+permalink: >-
+  /archive/2005/06/24/greens-maintain-commitment-to-keeping-nz-ge-free/index.html
+layout: layout.njk
 ---
 Greens maintain commitment to keeping NZ GE-Free
 ================================================

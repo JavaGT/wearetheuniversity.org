@@ -1,9 +1,12 @@
 ---
 slug: labour-lets-police-recruitment-standards-slip
-title: "Labour lets police recruitment standards slip"
-date: 2007-10-17
-source-url: https://www.scoop.co.nz/stories/PA0710/S00330/labour-lets-police-recruitment-standards-slip.htm
+title: Labour lets police recruitment standards slip
+date: 2007-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00330/labour-lets-police-recruitment-standards-slip.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/17/labour-lets-police-recruitment-standards-slip/index.html
+layout: layout.njk
 ---
 Labour lets police recruitment standards slip
 =============================================

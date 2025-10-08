@@ -1,9 +1,13 @@
 ---
 slug: uc-students-cycle-the-length-of-new-zealand-for-charity
-title: "UC students cycle the length of New Zealand for charity"
-date: 2016-01-27
-source-url: https://www.scoop.co.nz/stories/CU1601/S00241/uc-students-cycle-the-length-of-new-zealand-for-charity.htm
+title: UC students cycle the length of New Zealand for charity
+date: 2016-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1601/S00241/uc-students-cycle-the-length-of-new-zealand-for-charity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/27/uc-students-cycle-the-length-of-new-zealand-for-charity/index.html
+layout: layout.njk
 ---
 UC students cycle the length of New Zealand for charity
 =======================================================

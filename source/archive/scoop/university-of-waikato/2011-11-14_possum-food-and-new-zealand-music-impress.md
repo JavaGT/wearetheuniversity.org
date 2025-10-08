@@ -1,9 +1,12 @@
 ---
 slug: possum-food-and-new-zealand-music-impress
-title: "Possum Food And New Zealand Music Impress"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/ED1111/S00094/possum-food-and-new-zealand-music-impress.htm
+title: Possum Food And New Zealand Music Impress
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00094/possum-food-and-new-zealand-music-impress.htm
 author: university-of-waikato
+permalink: /archive/2011/11/14/possum-food-and-new-zealand-music-impress/index.html
+layout: layout.njk
 ---
 Possum Food And New Zealand Music Impress
 =========================================

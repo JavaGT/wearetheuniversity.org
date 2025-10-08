@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-hitting-the-right-notes-internationally
-title: "UC academic hitting the right notes internationally"
-date: 2014-10-24
-source-url: https://www.scoop.co.nz/stories/ED1410/S00134/uc-academic-hitting-the-right-notes-internationally.htm
+title: UC academic hitting the right notes internationally
+date: 2014-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00134/uc-academic-hitting-the-right-notes-internationally.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/24/uc-academic-hitting-the-right-notes-internationally/index.html
+layout: layout.njk
 ---
 UC academic hitting the right notes internationally
 ===================================================

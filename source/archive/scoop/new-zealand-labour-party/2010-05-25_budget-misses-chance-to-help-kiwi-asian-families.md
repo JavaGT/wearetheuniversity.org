@@ -1,9 +1,13 @@
 ---
 slug: budget-misses-chance-to-help-kiwi-asian-families
-title: "Budget misses chance to help Kiwi-Asian families"
-date: 2010-05-25
-source-url: https://www.scoop.co.nz/stories/PA1005/S00418/budget-misses-chance-to-help-kiwi-asian-families.htm
+title: Budget misses chance to help Kiwi-Asian families
+date: 2010-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00418/budget-misses-chance-to-help-kiwi-asian-families.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/05/25/budget-misses-chance-to-help-kiwi-asian-families/index.html
+layout: layout.njk
 ---
 Budget misses chance to help Kiwi-Asian families
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: arctic-sea-ice-algae-attract-plastics-new-research-shows
-title: "Arctic sea-ice algae attract plastics, new research shows"
-date: 2023-04-22
-source-url: https://www.scoop.co.nz/stories/SC2304/S00031/arctic-sea-ice-algae-attract-plastics-new-research-shows.htm
+title: Arctic sea-ice algae attract plastics, new research shows
+date: 2023-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2304/S00031/arctic-sea-ice-algae-attract-plastics-new-research-shows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/04/22/arctic-sea-ice-algae-attract-plastics-new-research-shows/index.html
+layout: layout.njk
 ---
 Arctic sea-ice algae attract plastics, new research shows
 =========================================================

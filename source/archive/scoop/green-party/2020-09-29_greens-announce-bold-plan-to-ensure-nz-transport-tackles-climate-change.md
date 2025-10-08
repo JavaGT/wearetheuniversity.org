@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change
-title: "Greens Announce Bold Plan To Ensure NZ Transport Tackles Climate Change"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/PO2009/S00440/greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change.htm
+title: Greens Announce Bold Plan To Ensure NZ Transport Tackles Climate Change
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00440/greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change.htm
 author: green-party
+permalink: >-
+  /archive/2020/09/29/greens-announce-bold-plan-to-ensure-nz-transport-tackles-climate-change/index.html
+layout: layout.njk
 ---
 Greens Announce Bold Plan To Ensure NZ Transport Tackles Climate Change
 =======================================================================

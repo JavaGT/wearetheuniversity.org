@@ -1,9 +1,11 @@
 ---
 slug: when-david-beat-goliath
-title: "When David beat Goliath"
-date: 2013-05-13
+title: When David beat Goliath
+date: 2013-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1305/S00207/when-david-beat-goliath.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/13/when-david-beat-goliath/index.html
+layout: layout.njk
 ---
 When David beat Goliath
 =======================

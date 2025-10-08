@@ -1,9 +1,12 @@
 ---
 slug: labour-should-come-clean-on-contracting-out
-title: "Labour Should Come Clean on Contracting Out"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/PA0207/S00294/labour-should-come-clean-on-contracting-out.htm
+title: Labour Should Come Clean on Contracting Out
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00294/labour-should-come-clean-on-contracting-out.htm
 author: act-new-zealand
+permalink: /archive/2002/07/10/labour-should-come-clean-on-contracting-out/index.html
+layout: layout.njk
 ---
 Labour Should Come Clean on Contracting Out
 ===========================================

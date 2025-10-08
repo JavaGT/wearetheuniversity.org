@@ -1,9 +1,12 @@
 ---
 slug: gala-evening-maori-documentary-film-evening
-title: "Gala Evening : Maori Documentary Film Evening"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/PO0810/S00518/gala-evening-maori-documentary-film-evening.htm
+title: 'Gala Evening : Maori Documentary Film Evening'
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00518/gala-evening-maori-documentary-film-evening.htm
 author: te-pati-maori
+permalink: /archive/2008/10/31/gala-evening-maori-documentary-film-evening/index.html
+layout: layout.njk
 ---
 Gala Evening : Maori Documentary Film Evening
 =============================================

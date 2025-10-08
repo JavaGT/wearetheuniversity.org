@@ -1,9 +1,12 @@
 ---
 slug: time-to-get-tough-on-parole-says-national
-title: "Time to get tough on parole, says National"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PA0405/S00352/time-to-get-tough-on-parole-says-national.htm
+title: Time to get tough on parole, says National
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00352/time-to-get-tough-on-parole-says-national.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/18/time-to-get-tough-on-parole-says-national/index.html
+layout: layout.njk
 ---
 Time to get tough on parole, says National
 ==========================================

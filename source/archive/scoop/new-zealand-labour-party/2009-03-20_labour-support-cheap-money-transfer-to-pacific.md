@@ -1,9 +1,12 @@
 ---
 slug: labour-support-cheap-money-transfer-to-pacific
-title: "Labour support cheap money transfer to Pacific"
-date: 2009-03-20
-source-url: https://www.scoop.co.nz/stories/PA0903/S00306/labour-support-cheap-money-transfer-to-pacific.htm
+title: Labour support cheap money transfer to Pacific
+date: 2009-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00306/labour-support-cheap-money-transfer-to-pacific.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/20/labour-support-cheap-money-transfer-to-pacific/index.html
+layout: layout.njk
 ---
 Labour support cheap money transfer to Pacific
 ==============================================

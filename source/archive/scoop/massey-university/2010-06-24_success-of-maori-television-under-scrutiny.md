@@ -1,9 +1,12 @@
 ---
 slug: success-of-maori-television-under-scrutiny
-title: "Success of Maori Television under scrutiny"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/ED1006/S00082/success-of-maori-television-under-scrutiny.htm
+title: Success of Maori Television under scrutiny
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00082/success-of-maori-television-under-scrutiny.htm
 author: massey-university
+permalink: /archive/2010/06/24/success-of-maori-television-under-scrutiny/index.html
+layout: layout.njk
 ---
 Success of Maori Television under scrutiny
 ==========================================

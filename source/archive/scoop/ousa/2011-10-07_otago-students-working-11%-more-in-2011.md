@@ -1,9 +1,12 @@
 ---
 slug: otago-students-working-11%-more-in-2011
-title: "Otago students working 11% more in 2011"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/ED1110/S00030/otago-students-working-11-more-in-2011.htm
+title: Otago students working 11% more in 2011
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00030/otago-students-working-11-more-in-2011.htm
 author: ousa
+permalink: /archive/2011/10/07/otago-students-working-11/index.html
+layout: layout.njk
 ---
 Otago students working 11% more in 2011
 =======================================

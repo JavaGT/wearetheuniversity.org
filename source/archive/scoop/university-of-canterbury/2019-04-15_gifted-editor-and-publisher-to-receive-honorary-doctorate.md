@@ -1,9 +1,13 @@
 ---
 slug: gifted-editor-and-publisher-to-receive-honorary-doctorate
-title: "Gifted editor and publisher to receive honorary doctorate"
-date: 2019-04-15
-source-url: https://www.scoop.co.nz/stories/ED1904/S00028/gifted-editor-and-publisher-to-receive-honorary-doctorate.htm
+title: Gifted editor and publisher to receive honorary doctorate
+date: 2019-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00028/gifted-editor-and-publisher-to-receive-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/04/15/gifted-editor-and-publisher-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Gifted editor and publisher to receive honorary doctorate
 =========================================================

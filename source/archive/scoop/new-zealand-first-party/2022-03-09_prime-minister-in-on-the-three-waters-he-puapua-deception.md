@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-in-on-the-three-waters-he-puapua-deception
-title: "Prime Minister In On The Three Waters He Puapua Deception"
-date: 2022-03-09
-source-url: https://www.scoop.co.nz/stories/PA2203/S00065/prime-minister-in-on-the-three-waters-he-puapua-deception.htm
+title: Prime Minister In On The Three Waters He Puapua Deception
+date: 2022-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00065/prime-minister-in-on-the-three-waters-he-puapua-deception.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/03/09/prime-minister-in-on-the-three-waters-he-puapua-deception/index.html
+layout: layout.njk
 ---
 Prime Minister In On The Three Waters He Puapua Deception
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: $85k-in-prizes-awarded-to-entrepreneurial-students
-title: "$85k in prizes awarded to entrepreneurial students"
-date: 2019-10-04
-source-url: https://www.scoop.co.nz/stories/ED1910/S00011/85k-in-prizes-awarded-to-entrepreneurial-students.htm
+title: $85k in prizes awarded to entrepreneurial students
+date: 2019-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00011/85k-in-prizes-awarded-to-entrepreneurial-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/04/85k-in-prizes-awarded-to-entrepreneurial-students/index.html
+layout: layout.njk
 ---
 $85k in prizes awarded to entrepreneurial students
 ==================================================

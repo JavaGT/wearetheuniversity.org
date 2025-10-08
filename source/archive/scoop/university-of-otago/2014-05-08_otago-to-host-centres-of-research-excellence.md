@@ -1,9 +1,12 @@
 ---
 slug: otago-to-host-centres-of-research-excellence
-title: "Otago to host Centres of Research Excellence"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/ED1405/S00039/otago-to-host-centres-of-research-excellence.htm
+title: Otago to host Centres of Research Excellence
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00039/otago-to-host-centres-of-research-excellence.htm
 author: university-of-otago
+permalink: /archive/2014/05/08/otago-to-host-centres-of-research-excellence/index.html
+layout: layout.njk
 ---
 Otago to host Centres of Research Excellence
 ============================================

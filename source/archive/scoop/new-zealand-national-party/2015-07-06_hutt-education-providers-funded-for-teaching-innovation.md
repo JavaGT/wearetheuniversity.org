@@ -1,9 +1,13 @@
 ---
 slug: hutt-education-providers-funded-for-teaching-innovation
-title: "Hutt education providers funded for teaching innovation"
-date: 2015-07-06
-source-url: https://www.scoop.co.nz/stories/PA1507/S00097/hutt-education-providers-funded-for-teaching-innovation.htm
+title: Hutt education providers funded for teaching innovation
+date: 2015-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00097/hutt-education-providers-funded-for-teaching-innovation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/07/06/hutt-education-providers-funded-for-teaching-innovation/index.html
+layout: layout.njk
 ---
 Hutt education providers funded for teaching innovation
 =======================================================

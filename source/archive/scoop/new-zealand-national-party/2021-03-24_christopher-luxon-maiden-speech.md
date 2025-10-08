@@ -1,9 +1,12 @@
 ---
 slug: christopher-luxon-maiden-speech
-title: "Christopher Luxon – Maiden Speech"
-date: 2021-03-24
-source-url: https://www.scoop.co.nz/stories/PA2103/S00191/christopher-luxon-maiden-speech.htm
+title: Christopher Luxon – Maiden Speech
+date: 2021-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00191/christopher-luxon-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/24/christopher-luxon-maiden-speech/index.html
+layout: layout.njk
 ---
 Christopher Luxon – Maiden Speech
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-has-no-credibility-in-education
-title: "Labour has no credibility in education"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/PA0508/S00144/labour-has-no-credibility-in-education.htm
+title: Labour has no credibility in education
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00144/labour-has-no-credibility-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/04/labour-has-no-credibility-in-education/index.html
+layout: layout.njk
 ---
 Labour has no credibility in education
 ======================================

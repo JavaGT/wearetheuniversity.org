@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-values-general-staff
-title: "Victoria University values general staff"
-date: 2004-06-10
-source-url: https://www.scoop.co.nz/stories/ED0406/S00050/victoria-university-values-general-staff.htm
+title: Victoria University values general staff
+date: 2004-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00050/victoria-university-values-general-staff.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/06/10/victoria-university-values-general-staff/index.html
+layout: layout.njk
 ---
 Victoria University values general staff
 ========================================

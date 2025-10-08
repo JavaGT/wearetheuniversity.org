@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-helps-put-shakespeare-into-schools
-title: "Waikato Uni helps put Shakespeare into schools"
-date: 2008-12-08
-source-url: https://www.scoop.co.nz/stories/ED0812/S00027/waikato-uni-helps-put-shakespeare-into-schools.htm
+title: Waikato Uni helps put Shakespeare into schools
+date: 2008-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00027/waikato-uni-helps-put-shakespeare-into-schools.htm
 author: university-of-waikato
+permalink: /archive/2008/12/08/waikato-uni-helps-put-shakespeare-into-schools/index.html
+layout: layout.njk
 ---
 Waikato Uni helps put Shakespeare into schools
 ==============================================

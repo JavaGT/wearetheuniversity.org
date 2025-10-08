@@ -1,9 +1,13 @@
 ---
 slug: free-public-lecture-inspired-by-nature-engineering-as-art
-title: "Free public lecture – Inspired by Nature: Engineering as Art"
-date: 2019-05-06
-source-url: https://www.scoop.co.nz/stories/ED1905/S00018/free-public-lecture-inspired-by-nature-engineering-as-art.htm
+title: 'Free public lecture – Inspired by Nature: Engineering as Art'
+date: 2019-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00018/free-public-lecture-inspired-by-nature-engineering-as-art.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/06/free-public-lecture-inspired-by-nature-engineering-as-art/index.html
+layout: layout.njk
 ---
 Free public lecture – Inspired by Nature: Engineering as Art
 ============================================================

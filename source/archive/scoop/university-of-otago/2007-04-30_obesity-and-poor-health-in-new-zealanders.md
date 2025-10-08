@@ -1,9 +1,12 @@
 ---
 slug: obesity-and-poor-health-in-new-zealanders
-title: "Obesity And Poor Health In New Zealanders"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/GE0704/S00107/obesity-and-poor-health-in-new-zealanders.htm
+title: Obesity And Poor Health In New Zealanders
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0704/S00107/obesity-and-poor-health-in-new-zealanders.htm
 author: university-of-otago
+permalink: /archive/2007/04/30/obesity-and-poor-health-in-new-zealanders/index.html
+layout: layout.njk
 ---
 Obesity And Poor Health In New Zealanders
 =========================================

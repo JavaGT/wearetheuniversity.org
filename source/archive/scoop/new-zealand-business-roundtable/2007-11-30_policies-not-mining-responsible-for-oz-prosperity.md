@@ -1,9 +1,13 @@
 ---
 slug: policies-not-mining-responsible-for-oz-prosperity
-title: "Policies Not Mining Responsible for Oz Prosperity"
-date: 2007-11-30
-source-url: https://www.scoop.co.nz/stories/BU0711/S00657/policies-not-mining-responsible-for-oz-prosperity.htm
+title: Policies Not Mining Responsible for Oz Prosperity
+date: 2007-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00657/policies-not-mining-responsible-for-oz-prosperity.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2007/11/30/policies-not-mining-responsible-for-oz-prosperity/index.html
+layout: layout.njk
 ---
 Policies Not Mining Responsible for Oz Prosperity
 =================================================

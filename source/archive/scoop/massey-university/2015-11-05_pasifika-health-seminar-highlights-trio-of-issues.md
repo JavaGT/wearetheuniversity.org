@@ -1,9 +1,13 @@
 ---
 slug: pasifika-health-seminar-highlights-trio-of-issues
-title: "Pasifika health seminar highlights trio of issues"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/GE1511/S00019/pasifika-health-seminar-highlights-trio-of-issues.htm
+title: Pasifika health seminar highlights trio of issues
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1511/S00019/pasifika-health-seminar-highlights-trio-of-issues.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/05/pasifika-health-seminar-highlights-trio-of-issues/index.html
+layout: layout.njk
 ---
 Pasifika health seminar highlights trio of issues
 =================================================

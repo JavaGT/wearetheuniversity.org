@@ -1,9 +1,11 @@
 ---
 slug: the-truth-behind-dover
-title: "The Truth Behind Dover"
-date: 2000-06-30
+title: The Truth Behind Dover
+date: 2000-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0006/S00676/the-truth-behind-dover.htm
 author: act-new-zealand
+permalink: /archive/2000/06/30/the-truth-behind-dover/index.html
+layout: layout.njk
 ---
 The Truth Behind Dover
 ======================

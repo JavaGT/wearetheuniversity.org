@@ -1,9 +1,12 @@
 ---
 slug: oh-goody-another-league-table-from-national
-title: "Oh goody, another league table from National"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/PA1301/S00070/oh-goody-another-league-table-from-national.htm
+title: Oh goody, another league table from National
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00070/oh-goody-another-league-table-from-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/22/oh-goody-another-league-table-from-national/index.html
+layout: layout.njk
 ---
 Oh goody, another league table from National
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: 400-jobs-go-in-four-days-200-in-28-hours
-title: "400 jobs go in four days, 200 in 28 hours"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/PA1302/S00187/400-jobs-go-in-four-days-200-in-28-hours.htm
+title: 400 jobs go in four days, 200 in 28 hours
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00187/400-jobs-go-in-four-days-200-in-28-hours.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/14/400-jobs-go-in-four-days-200-in-28-hours/index.html
+layout: layout.njk
 ---
 400 jobs go in four days, 200 in 28 hours
 =========================================

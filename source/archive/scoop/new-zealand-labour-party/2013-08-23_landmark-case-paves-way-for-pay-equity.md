@@ -1,9 +1,12 @@
 ---
 slug: landmark-case-paves-way-for-pay-equity
-title: "Landmark case paves way for pay equity"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/PA1308/S00385/landmark-case-paves-way-for-pay-equity.htm
+title: Landmark case paves way for pay equity
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00385/landmark-case-paves-way-for-pay-equity.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/23/landmark-case-paves-way-for-pay-equity/index.html
+layout: layout.njk
 ---
 Landmark case paves way for pay equity
 ======================================

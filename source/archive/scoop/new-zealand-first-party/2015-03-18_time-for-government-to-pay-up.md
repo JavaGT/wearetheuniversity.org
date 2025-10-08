@@ -1,9 +1,12 @@
 ---
 slug: time-for-government-to-pay-up
-title: "Time for Government to Pay up"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/PA1503/S00260/time-for-government-to-pay-up.htm
+title: Time for Government to Pay up
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00260/time-for-government-to-pay-up.htm
 author: new-zealand-first-party
+permalink: /archive/2015/03/18/time-for-government-to-pay-up/index.html
+layout: layout.njk
 ---
 Time for Government to Pay up
 =============================

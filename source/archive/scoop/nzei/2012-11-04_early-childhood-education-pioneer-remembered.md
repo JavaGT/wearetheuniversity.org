@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-education-pioneer-remembered
-title: "Early Childhood Education Pioneer Remembered"
-date: 2012-11-04
-source-url: https://www.scoop.co.nz/stories/AK1211/S00099/early-childhood-education-pioneer-remembered.htm
+title: Early Childhood Education Pioneer Remembered
+date: 2012-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1211/S00099/early-childhood-education-pioneer-remembered.htm
 author: nzei
+permalink: /archive/2012/11/04/early-childhood-education-pioneer-remembered/index.html
+layout: layout.njk
 ---
 Early Childhood Education Pioneer Remembered
 ============================================

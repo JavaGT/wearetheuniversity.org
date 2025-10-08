@@ -1,9 +1,13 @@
 ---
 slug: doctoral-research-informed-by-global-and-local-crisis
-title: "Doctoral research informed by global and local crisis"
-date: 2017-05-23
-source-url: https://www.scoop.co.nz/stories/GE1705/S00150/doctoral-research-informed-by-global-and-local-crisis.htm
+title: Doctoral research informed by global and local crisis
+date: 2017-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00150/doctoral-research-informed-by-global-and-local-crisis.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/23/doctoral-research-informed-by-global-and-local-crisis/index.html
+layout: layout.njk
 ---
 Doctoral research informed by global and local crisis
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: top-young-victoria-scientists-recognised
-title: "Top young Victoria scientists recognised"
-date: 2007-06-22
-source-url: https://www.scoop.co.nz/stories/ED0706/S00095/top-young-victoria-scientists-recognised.htm
+title: Top young Victoria scientists recognised
+date: 2007-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00095/top-young-victoria-scientists-recognised.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/22/top-young-victoria-scientists-recognised/index.html
+layout: layout.njk
 ---
 Top young Victoria scientists recognised
 ========================================

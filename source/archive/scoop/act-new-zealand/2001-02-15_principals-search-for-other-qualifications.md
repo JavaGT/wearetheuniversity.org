@@ -1,9 +1,12 @@
 ---
 slug: principals-search-for-other-qualifications
-title: "Principals Search For Other Qualifications"
-date: 2001-02-15
-source-url: https://www.scoop.co.nz/stories/PA0102/S00230/principals-search-for-other-qualifications.htm
+title: Principals Search For Other Qualifications
+date: 2001-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00230/principals-search-for-other-qualifications.htm
 author: act-new-zealand
+permalink: /archive/2001/02/15/principals-search-for-other-qualifications/index.html
+layout: layout.njk
 ---
 Principals Search For Other Qualifications
 ==========================================

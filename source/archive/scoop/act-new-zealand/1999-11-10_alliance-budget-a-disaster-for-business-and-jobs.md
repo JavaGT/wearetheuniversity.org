@@ -1,9 +1,13 @@
 ---
 slug: alliance-budget-a-disaster-for-business-and-jobs
-title: "Alliance Budget A Disaster for Business And Jobs"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00252/alliance-budget-a-disaster-for-business-and-jobs.htm
+title: Alliance Budget A Disaster for Business And Jobs
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00252/alliance-budget-a-disaster-for-business-and-jobs.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/11/10/alliance-budget-a-disaster-for-business-and-jobs/index.html
+layout: layout.njk
 ---
 Alliance Budget A Disaster for Business And Jobs
 ================================================

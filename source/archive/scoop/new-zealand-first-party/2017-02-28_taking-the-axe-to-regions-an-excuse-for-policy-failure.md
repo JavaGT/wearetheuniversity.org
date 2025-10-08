@@ -1,9 +1,13 @@
 ---
 slug: taking-the-axe-to-regions-an-excuse-for-policy-failure
-title: "Taking the Axe to Regions an Excuse for Policy Failure"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/PA1702/S00397/taking-the-axe-to-regions-an-excuse-for-policy-failure.htm
+title: Taking the Axe to Regions an Excuse for Policy Failure
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00397/taking-the-axe-to-regions-an-excuse-for-policy-failure.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/28/taking-the-axe-to-regions-an-excuse-for-policy-failure/index.html
+layout: layout.njk
 ---
 Taking the Axe to Regions an Excuse for Policy Failure
 ======================================================

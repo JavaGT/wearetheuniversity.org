@@ -1,9 +1,13 @@
 ---
 slug: govt-looks-set-to-repeat-tppa-mistakes-with-rcep
-title: "Govt looks set to repeat TPPA mistakes with RCEP"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PA1606/S00274/govt-looks-set-to-repeat-tppa-mistakes-with-rcep.htm
+title: Govt looks set to repeat TPPA mistakes with RCEP
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00274/govt-looks-set-to-repeat-tppa-mistakes-with-rcep.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/16/govt-looks-set-to-repeat-tppa-mistakes-with-rcep/index.html
+layout: layout.njk
 ---
 Govt looks set to repeat TPPA mistakes with RCEP
 ================================================

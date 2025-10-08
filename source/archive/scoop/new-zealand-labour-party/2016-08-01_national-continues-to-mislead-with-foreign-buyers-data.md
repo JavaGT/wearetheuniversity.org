@@ -1,9 +1,13 @@
 ---
 slug: national-continues-to-mislead-with-foreign-buyers-data
-title: "National continues to mislead with foreign buyers data"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/PA1608/S00018/national-continues-to-mislead-with-foreign-buyers-data.htm
+title: National continues to mislead with foreign buyers data
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00018/national-continues-to-mislead-with-foreign-buyers-data.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/01/national-continues-to-mislead-with-foreign-buyers-data/index.html
+layout: layout.njk
 ---
 National continues to mislead with foreign buyers data
 ======================================================

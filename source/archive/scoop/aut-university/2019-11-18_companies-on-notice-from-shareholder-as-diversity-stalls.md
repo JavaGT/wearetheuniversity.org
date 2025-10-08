@@ -1,9 +1,13 @@
 ---
 slug: companies-on-notice-from-shareholder-as-diversity-stalls
-title: "Companies on notice from shareholder as diversity stalls"
-date: 2019-11-18
-source-url: https://www.scoop.co.nz/stories/BU1911/S00345/companies-on-notice-from-shareholder-as-diversity-stalls.htm
+title: Companies on notice from shareholder as diversity stalls
+date: 2019-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1911/S00345/companies-on-notice-from-shareholder-as-diversity-stalls.htm
 author: aut-university
+permalink: >-
+  /archive/2019/11/18/companies-on-notice-from-shareholder-as-diversity-stalls/index.html
+layout: layout.njk
 ---
 Companies on notice from shareholder as diversity stalls
 ========================================================

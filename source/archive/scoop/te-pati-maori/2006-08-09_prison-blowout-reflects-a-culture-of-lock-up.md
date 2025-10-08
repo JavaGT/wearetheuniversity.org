@@ -1,9 +1,12 @@
 ---
 slug: prison-blowout-reflects-a-culture-of-lock-up
-title: "Prison Blowout Reflects a Culture of Lock Up"
-date: 2006-08-09
-source-url: https://www.scoop.co.nz/stories/PA0608/S00154/prison-blowout-reflects-a-culture-of-lock-up.htm
+title: Prison Blowout Reflects a Culture of Lock Up
+date: 2006-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00154/prison-blowout-reflects-a-culture-of-lock-up.htm
 author: te-pati-maori
+permalink: /archive/2006/08/09/prison-blowout-reflects-a-culture-of-lock-up/index.html
+layout: layout.njk
 ---
 Prison Blowout Reflects a Culture of Lock Up
 ============================================

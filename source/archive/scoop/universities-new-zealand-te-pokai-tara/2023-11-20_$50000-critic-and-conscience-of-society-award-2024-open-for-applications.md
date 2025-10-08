@@ -1,9 +1,13 @@
 ---
 slug: $50000-critic-and-conscience-of-society-award-2024-open-for-applications
-title: "$50,000 Critic And Conscience Of Society Award 2024 Open For Applications"
-date: 2023-11-20
-source-url: https://www.scoop.co.nz/stories/ED2311/S00035/50000-critic-and-conscience-of-society-award-2024-open-for-applications.htm
+title: $50,000 Critic And Conscience Of Society Award 2024 Open For Applications
+date: 2023-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2311/S00035/50000-critic-and-conscience-of-society-award-2024-open-for-applications.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/11/20/50-000-critic-and-conscience-of-society-award-2024-open-for-applications/index.html
+layout: layout.njk
 ---
 $50,000 Critic And Conscience Of Society Award 2024 Open For Applications
 =========================================================================

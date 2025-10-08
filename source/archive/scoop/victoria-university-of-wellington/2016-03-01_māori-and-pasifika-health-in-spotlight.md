@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pasifika-health-in-spotlight
-title: "Māori and Pasifika health in spotlight"
-date: 2016-03-01
-source-url: https://www.scoop.co.nz/stories/SC1603/S00002/maori-and-pasifika-health-in-spotlight.htm
+title: Māori and Pasifika health in spotlight
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00002/maori-and-pasifika-health-in-spotlight.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/03/01/m/index.html
+layout: layout.njk
 ---
 Māori and Pasifika health in spotlight
 ======================================

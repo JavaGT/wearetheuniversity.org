@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholarships-awarded-to-future-leaders
-title: "Rhodes Scholarships Awarded To Future Leaders"
-date: 2020-11-06
-source-url: https://www.scoop.co.nz/stories/ED2011/S00014/rhodes-scholarships-awarded-to-future-leaders.htm
+title: Rhodes Scholarships Awarded To Future Leaders
+date: 2020-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00014/rhodes-scholarships-awarded-to-future-leaders.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2020/11/06/rhodes-scholarships-awarded-to-future-leaders/index.html
+layout: layout.njk
 ---
 Rhodes Scholarships Awarded To Future Leaders
 =============================================

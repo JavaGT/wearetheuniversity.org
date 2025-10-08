@@ -1,9 +1,12 @@
 ---
 slug: clean-sweep-in-woolf-fisher-scholarships
-title: "Clean sweep in Woolf Fisher Scholarships"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/ED1509/S00090/clean-sweep-in-woolf-fisher-scholarships.htm
+title: Clean sweep in Woolf Fisher Scholarships
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00090/clean-sweep-in-woolf-fisher-scholarships.htm
 author: auckland-university
+permalink: /archive/2015/09/15/clean-sweep-in-woolf-fisher-scholarships/index.html
+layout: layout.njk
 ---
 Clean sweep in Woolf Fisher Scholarships
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: student-to-trial-blades-to-become-fastest-disabled-sprinter
-title: "Student to trial blades to become fastest disabled sprinter"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/SC1310/S00035/student-to-trial-blades-to-become-fastest-disabled-sprinter.htm
+title: Student to trial blades to become fastest disabled sprinter
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00035/student-to-trial-blades-to-become-fastest-disabled-sprinter.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/16/student-to-trial-blades-to-become-fastest-disabled-sprinter/index.html
+layout: layout.njk
 ---
 Student to trial blades to become fastest disabled sprinter
 ===========================================================

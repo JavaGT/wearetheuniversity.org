@@ -1,9 +1,12 @@
 ---
 slug: ministry-of-education-says-schools-can-reopen
-title: "Ministry Of Education Says Schools Can Reopen"
-date: 2023-02-01
-source-url: https://www.scoop.co.nz/stories/PA2302/S00010/ministry-of-education-says-schools-can-reopen.htm
+title: Ministry Of Education Says Schools Can Reopen
+date: 2023-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00010/ministry-of-education-says-schools-can-reopen.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/01/ministry-of-education-says-schools-can-reopen/index.html
+layout: layout.njk
 ---
 Ministry Of Education Says Schools Can Reopen
 =============================================

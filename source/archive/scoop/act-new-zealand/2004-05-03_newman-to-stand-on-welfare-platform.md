@@ -1,9 +1,12 @@
 ---
 slug: newman-to-stand-on-welfare-platform
-title: "Newman To Stand On Welfare Platform"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00018/newman-to-stand-on-welfare-platform.htm
+title: Newman To Stand On Welfare Platform
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00018/newman-to-stand-on-welfare-platform.htm
 author: act-new-zealand
+permalink: /archive/2004/05/03/newman-to-stand-on-welfare-platform/index.html
+layout: layout.njk
 ---
 Newman To Stand On Welfare Platform
 ===================================

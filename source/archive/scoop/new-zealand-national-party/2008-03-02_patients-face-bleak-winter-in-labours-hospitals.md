@@ -1,9 +1,12 @@
 ---
 slug: patients-face-bleak-winter-in-labours-hospitals
-title: "Patients face bleak winter in Labour's hospitals"
-date: 2008-03-02
-source-url: https://www.scoop.co.nz/stories/PA0803/S00009/patients-face-bleak-winter-in-labours-hospitals.htm
+title: Patients face bleak winter in Labour's hospitals
+date: 2008-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00009/patients-face-bleak-winter-in-labours-hospitals.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/02/patients-face-bleak-winter-in-labours-hospitals/index.html
+layout: layout.njk
 ---
 Patients face bleak winter in Labour's hospitals
 ================================================

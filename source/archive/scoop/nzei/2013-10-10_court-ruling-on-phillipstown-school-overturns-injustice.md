@@ -1,9 +1,13 @@
 ---
 slug: court-ruling-on-phillipstown-school-overturns-injustice
-title: "Court ruling on Phillipstown School overturns injustice"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/ED1310/S00080/court-ruling-on-phillipstown-school-overturns-injustice.htm
+title: Court ruling on Phillipstown School overturns injustice
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00080/court-ruling-on-phillipstown-school-overturns-injustice.htm
 author: nzei
+permalink: >-
+  /archive/2013/10/10/court-ruling-on-phillipstown-school-overturns-injustice/index.html
+layout: layout.njk
 ---
 Court ruling on Phillipstown School overturns injustice
 =======================================================

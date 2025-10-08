@@ -1,9 +1,13 @@
 ---
 slug: nzei-joins-chorus-of-concern-at-ratemyteachers-com
-title: "NZEI joins chorus of concern at ratemyteachers.com"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/ED0606/S00017/nzei-joins-chorus-of-concern-at-ratemyteacherscom.htm
+title: NZEI joins chorus of concern at ratemyteachers.com
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00017/nzei-joins-chorus-of-concern-at-ratemyteacherscom.htm
 author: nzei
+permalink: >-
+  /archive/2006/06/09/nzei-joins-chorus-of-concern-at-ratemyteachers-com/index.html
+layout: layout.njk
 ---
 NZEI joins chorus of concern at ratemyteachers.com
 ==================================================

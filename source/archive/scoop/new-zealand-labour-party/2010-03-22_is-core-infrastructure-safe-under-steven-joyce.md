@@ -1,9 +1,12 @@
 ---
 slug: is-core-infrastructure-safe-under-steven-joyce
-title: "Is core infrastructure safe under Steven Joyce?"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/PA1003/S00309/is-core-infrastructure-safe-under-steven-joyce.htm
+title: Is core infrastructure safe under Steven Joyce?
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00309/is-core-infrastructure-safe-under-steven-joyce.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/22/is-core-infrastructure-safe-under-steven-joyce/index.html
+layout: layout.njk
 ---
 Is core infrastructure safe under Steven Joyce?
 ===============================================

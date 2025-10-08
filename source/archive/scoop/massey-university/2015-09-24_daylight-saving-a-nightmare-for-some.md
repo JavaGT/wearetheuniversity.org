@@ -1,9 +1,12 @@
 ---
 slug: daylight-saving-a-nightmare-for-some
-title: "Daylight saving a nightmare for some"
-date: 2015-09-24
-source-url: https://www.scoop.co.nz/stories/GE1509/S00119/daylight-saving-a-nightmare-for-some.htm
+title: Daylight saving a nightmare for some
+date: 2015-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1509/S00119/daylight-saving-a-nightmare-for-some.htm
 author: massey-university
+permalink: /archive/2015/09/24/daylight-saving-a-nightmare-for-some/index.html
+layout: layout.njk
 ---
 Daylight saving a nightmare for some
 ====================================

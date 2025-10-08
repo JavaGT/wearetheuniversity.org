@@ -1,9 +1,13 @@
 ---
 slug: moral-philosopher-laurie-calhoun-challenges-complacency
-title: "Moral Philosopher Laurie Calhoun Challenges Complacency"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/ED1510/S00007/moral-philosopher-laurie-calhoun-challenges-complacency.htm
+title: Moral Philosopher Laurie Calhoun Challenges Complacency
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00007/moral-philosopher-laurie-calhoun-challenges-complacency.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/01/moral-philosopher-laurie-calhoun-challenges-complacency/index.html
+layout: layout.njk
 ---
 Moral Philosopher Laurie Calhoun Challenges Complacency
 =======================================================

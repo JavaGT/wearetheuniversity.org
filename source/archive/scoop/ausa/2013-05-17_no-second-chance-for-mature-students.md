@@ -1,9 +1,12 @@
 ---
 slug: no-second-chance-for-mature-students
-title: "No second chance for mature students"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PO1305/S00264/no-second-chance-for-mature-students.htm
+title: No second chance for mature students
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00264/no-second-chance-for-mature-students.htm
 author: ausa
+permalink: /archive/2013/05/17/no-second-chance-for-mature-students/index.html
+layout: layout.njk
 ---
 No second chance for mature students
 ====================================

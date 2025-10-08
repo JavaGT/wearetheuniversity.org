@@ -1,9 +1,12 @@
 ---
 slug: fec-calls-in-auditor-general-on-transend
-title: "FEC Calls In Auditor-General On Transend"
-date: 2002-04-26
-source-url: https://www.scoop.co.nz/stories/PA0204/S00401/fec-calls-in-auditor-general-on-transend.htm
+title: FEC Calls In Auditor-General On Transend
+date: 2002-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00401/fec-calls-in-auditor-general-on-transend.htm
 author: act-new-zealand
+permalink: /archive/2002/04/26/fec-calls-in-auditor-general-on-transend/index.html
+layout: layout.njk
 ---
 FEC Calls In Auditor-General On Transend
 ========================================

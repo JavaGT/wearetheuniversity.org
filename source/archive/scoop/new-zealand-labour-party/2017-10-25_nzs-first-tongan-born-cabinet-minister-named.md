@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-tongan-born-cabinet-minister-named
-title: "NZ’s first Tongan-born Cabinet Minister named"
-date: 2017-10-25
-source-url: https://www.scoop.co.nz/stories/PA1710/S00063/nzs-first-tongan-born-cabinet-minister-named.htm
+title: NZ’s first Tongan-born Cabinet Minister named
+date: 2017-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1710/S00063/nzs-first-tongan-born-cabinet-minister-named.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/10/25/nzs-first-tongan-born-cabinet-minister-named/index.html
+layout: layout.njk
 ---
 NZ’s first Tongan-born Cabinet Minister named
 =============================================

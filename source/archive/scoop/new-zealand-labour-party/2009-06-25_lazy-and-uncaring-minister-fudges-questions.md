@@ -1,9 +1,12 @@
 ---
 slug: lazy-and-uncaring-minister-fudges-questions
-title: "Lazy and Uncaring Minister Fudges Questions"
-date: 2009-06-25
-source-url: https://www.scoop.co.nz/stories/PA0906/S00369/lazy-and-uncaring-minister-fudges-questions.htm
+title: Lazy and Uncaring Minister Fudges Questions
+date: 2009-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00369/lazy-and-uncaring-minister-fudges-questions.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/25/lazy-and-uncaring-minister-fudges-questions/index.html
+layout: layout.njk
 ---
 Lazy and Uncaring Minister Fudges Questions
 ===========================================

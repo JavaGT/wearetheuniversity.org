@@ -1,9 +1,12 @@
 ---
 slug: rising-student-interest-in-council-elections
-title: "Rising Student Interest In Council Elections"
-date: 2013-09-20
-source-url: https://www.scoop.co.nz/stories/ED1309/S00123/rising-student-interest-in-council-elections.htm
+title: Rising Student Interest In Council Elections
+date: 2013-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00123/rising-student-interest-in-council-elections.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/09/20/rising-student-interest-in-council-elections/index.html
+layout: layout.njk
 ---
 Rising Student Interest In Council Elections
 ============================================

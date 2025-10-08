@@ -1,9 +1,13 @@
 ---
 slug: community-urged-to-protect-womens-health-in-whanganui
-title: "Community urged to protect women’s health in Whanganui"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/PA1202/S00132/community-urged-to-protect-womens-health-in-whanganui.htm
+title: Community urged to protect women’s health in Whanganui
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00132/community-urged-to-protect-womens-health-in-whanganui.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/02/10/community-urged-to-protect-womens-health-in-whanganui/index.html
+layout: layout.njk
 ---
 Community urged to protect women’s health in Whanganui
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-board-for-allan-wilson-centre
-title: "New board for Allan Wilson Centre"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/ED0703/S00003/new-board-for-allan-wilson-centre.htm
+title: New board for Allan Wilson Centre
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00003/new-board-for-allan-wilson-centre.htm
 author: massey-university
+permalink: /archive/2007/03/01/new-board-for-allan-wilson-centre/index.html
+layout: layout.njk
 ---
 New board for Allan Wilson Centre
 =================================

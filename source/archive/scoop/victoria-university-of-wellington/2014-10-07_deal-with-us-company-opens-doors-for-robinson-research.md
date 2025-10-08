@@ -1,9 +1,13 @@
 ---
 slug: deal-with-us-company-opens-doors-for-robinson-research
-title: "Deal with US company opens doors for Robinson Research"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/BU1410/S00211/deal-with-us-company-opens-doors-for-robinson-research.htm
+title: Deal with US company opens doors for Robinson Research
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1410/S00211/deal-with-us-company-opens-doors-for-robinson-research.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/07/deal-with-us-company-opens-doors-for-robinson-research/index.html
+layout: layout.njk
 ---
 Deal with US company opens doors for Robinson Research
 ======================================================

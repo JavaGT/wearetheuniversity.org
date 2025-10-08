@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-launches-vege-market-on-campus
-title: "VUWSA Launches Vege Market on Campus"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/PO1509/S00201/vuwsa-launches-vege-market-on-campus.htm
+title: VUWSA Launches Vege Market on Campus
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00201/vuwsa-launches-vege-market-on-campus.htm
 author: vuwsa
+permalink: /archive/2015/09/16/vuwsa-launches-vege-market-on-campus/index.html
+layout: layout.njk
 ---
 VUWSA Launches Vege Market on Campus
 ====================================

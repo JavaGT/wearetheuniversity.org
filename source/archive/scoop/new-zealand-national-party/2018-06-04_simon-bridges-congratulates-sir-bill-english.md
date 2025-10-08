@@ -1,9 +1,12 @@
 ---
 slug: simon-bridges-congratulates-sir-bill-english
-title: "Simon Bridges congratulates Sir Bill English"
-date: 2018-06-04
-source-url: https://www.scoop.co.nz/stories/PA1806/S00029/simon-bridges-congratulates-sir-bill-english.htm
+title: Simon Bridges congratulates Sir Bill English
+date: 2018-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00029/simon-bridges-congratulates-sir-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/04/simon-bridges-congratulates-sir-bill-english/index.html
+layout: layout.njk
 ---
 Simon Bridges congratulates Sir Bill English
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-diagnosis-delays-for-bowel-cancer
-title: "Research reveals diagnosis delays for bowel cancer"
-date: 2018-10-05
-source-url: https://www.scoop.co.nz/stories/GE1810/S00026/research-reveals-diagnosis-delays-for-bowel-cancer.htm
+title: Research reveals diagnosis delays for bowel cancer
+date: 2018-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00026/research-reveals-diagnosis-delays-for-bowel-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/05/research-reveals-diagnosis-delays-for-bowel-cancer/index.html
+layout: layout.njk
 ---
 Research reveals diagnosis delays for bowel cancer
 ==================================================

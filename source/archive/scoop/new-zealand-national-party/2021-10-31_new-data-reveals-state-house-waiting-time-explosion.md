@@ -1,9 +1,13 @@
 ---
 slug: new-data-reveals-state-house-waiting-time-explosion
-title: "New Data Reveals State House Waiting Time Explosion"
-date: 2021-10-31
-source-url: https://www.scoop.co.nz/stories/PA2110/S00320/new-data-reveals-state-house-waiting-time-explosion.htm
+title: New Data Reveals State House Waiting Time Explosion
+date: 2021-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00320/new-data-reveals-state-house-waiting-time-explosion.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/31/new-data-reveals-state-house-waiting-time-explosion/index.html
+layout: layout.njk
 ---
 New Data Reveals State House Waiting Time Explosion
 ===================================================

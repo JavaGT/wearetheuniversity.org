@@ -1,9 +1,12 @@
 ---
 slug: compulsory-te-reo-māori-in-schools-would-help
-title: "Compulsory Te Reo Māori in Schools Would Help"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/ED1010/S00083/compulsory-te-reo-maori-in-schools-would-help.htm
+title: Compulsory Te Reo Māori in Schools Would Help
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00083/compulsory-te-reo-maori-in-schools-would-help.htm
 author: nzei
+permalink: /archive/2010/10/21/compulsory-te-reo-m/index.html
+layout: layout.njk
 ---
 Compulsory Te Reo Māori in Schools Would Help
 =============================================

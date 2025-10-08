@@ -1,9 +1,12 @@
 ---
 slug: green-party-to-stand-in-mt-albert-by-election
-title: "Green Party to stand in Mt Albert by-election"
-date: 2016-12-23
-source-url: https://www.scoop.co.nz/stories/PA1612/S00356/green-party-to-stand-in-mt-albert-by-election.htm
+title: Green Party to stand in Mt Albert by-election
+date: 2016-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00356/green-party-to-stand-in-mt-albert-by-election.htm
 author: green-party
+permalink: /archive/2016/12/23/green-party-to-stand-in-mt-albert-by-election/index.html
+layout: layout.njk
 ---
 Green Party to stand in Mt Albert by-election
 =============================================

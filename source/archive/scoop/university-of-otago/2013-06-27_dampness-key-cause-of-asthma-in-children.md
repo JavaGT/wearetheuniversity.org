@@ -1,9 +1,12 @@
 ---
 slug: dampness-key-cause-of-asthma-in-children
-title: "Dampness key cause of asthma in children"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/SC1306/S00068/dampness-key-cause-of-asthma-in-children.htm
+title: Dampness key cause of asthma in children
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00068/dampness-key-cause-of-asthma-in-children.htm
 author: university-of-otago
+permalink: /archive/2013/06/27/dampness-key-cause-of-asthma-in-children/index.html
+layout: layout.njk
 ---
 Dampness key cause of asthma in children
 ========================================

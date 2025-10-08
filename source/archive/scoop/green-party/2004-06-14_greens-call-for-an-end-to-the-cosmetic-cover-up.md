@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-an-end-to-the-cosmetic-cover-up
-title: "Greens call for an end to the cosmetic cover-up"
-date: 2004-06-14
-source-url: https://www.scoop.co.nz/stories/PA0406/S00186/greens-call-for-an-end-to-the-cosmetic-cover-up.htm
+title: Greens call for an end to the cosmetic cover-up
+date: 2004-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00186/greens-call-for-an-end-to-the-cosmetic-cover-up.htm
 author: green-party
+permalink: /archive/2004/06/14/greens-call-for-an-end-to-the-cosmetic-cover-up/index.html
+layout: layout.njk
 ---
 Greens call for an end to the cosmetic cover-up
 ===============================================

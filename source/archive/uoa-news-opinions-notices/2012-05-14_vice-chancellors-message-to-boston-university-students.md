@@ -1,8 +1,12 @@
 ---
 slug: vice-chancellors-message-to-boston-university-students
-title: "Vice-Chancellor’s message to Boston University Students"
-date: 2012-05-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/05/14/Vice-Chancellors-message-to-Boston-University-Students.html
+title: Vice-Chancellor’s message to Boston University Students
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2012/2012/05/14/Vice-Chancellors-message-to-Boston-University-Students.html
+permalink: >-
+  /archive/2012/05/14/vice-chancellors-message-to-boston-university-students/index.html
+layout: layout.njk
 ---
 Vice-Chancellor’s message to Boston University Students
 =======================================================

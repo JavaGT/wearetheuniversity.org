@@ -1,11 +1,16 @@
 ---
-title: "The New Zealand Association of Scientists (NZAS) commends steps taken by the University of Adelaide to investigate bullying by a senior member of its academic staff."
+title: >-
+  The New Zealand Association of Scientists (NZAS) commends steps taken by the
+  University of Adelaide to investigate bullying by a senior member of its
+  academic staff.
 slug: bullying-in-science
-date: 2019-09-04
+date: 2019-09-04T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2019/09/04/bullying-in-science/index.html
+layout: layout.njk
 ---
 
 1

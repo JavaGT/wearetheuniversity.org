@@ -1,9 +1,13 @@
 ---
 slug: cancer-geneticist-to-receive-otagos-highest-honour
-title: "Cancer geneticist to receive Otago’s highest honour"
-date: 2017-10-03
-source-url: https://www.scoop.co.nz/stories/SC1710/S00006/cancer-geneticist-to-receive-otagos-highest-honour.htm
+title: Cancer geneticist to receive Otago’s highest honour
+date: 2017-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00006/cancer-geneticist-to-receive-otagos-highest-honour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/03/cancer-geneticist-to-receive-otagos-highest-honour/index.html
+layout: layout.njk
 ---
 Cancer geneticist to receive Otago’s highest honour
 ===================================================

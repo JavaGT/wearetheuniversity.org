@@ -1,9 +1,11 @@
 ---
 slug: labours-strategy-for-growth
-title: "Labour's Strategy for Growth"
-date: 2002-07-08
+title: Labour's Strategy for Growth
+date: 2002-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00252/labours-strategy-for-growth.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/08/labours-strategy-for-growth/index.html
+layout: layout.njk
 ---
 Labour's Strategy for Growth
 ============================

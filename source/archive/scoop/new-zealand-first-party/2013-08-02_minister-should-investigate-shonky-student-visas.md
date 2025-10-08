@@ -1,9 +1,13 @@
 ---
 slug: minister-should-investigate-shonky-student-visas
-title: "Minister Should Investigate Shonky Student Visas"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/PA1308/S00048/minister-should-investigate-shonky-student-visas.htm
+title: Minister Should Investigate Shonky Student Visas
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00048/minister-should-investigate-shonky-student-visas.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/08/02/minister-should-investigate-shonky-student-visas/index.html
+layout: layout.njk
 ---
 Minister Should Investigate Shonky Student Visas
 ================================================

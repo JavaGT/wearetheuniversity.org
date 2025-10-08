@@ -1,9 +1,12 @@
 ---
 slug: university-tupuānuku-hall-of-residence-wins-asia-pacific-excellence-award
-title: "University Tupuānuku Hall Of Residence Wins Asia-Pacific Excellence Award"
-date: 2021-12-10
-source-url: https://www.scoop.co.nz/stories/ED2112/S00020/university-tupuanuku-hall-of-residence-wins-asia-pacific-excellence-award.htm
+title: University Tupuānuku Hall Of Residence Wins Asia-Pacific Excellence Award
+date: 2021-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00020/university-tupuanuku-hall-of-residence-wins-asia-pacific-excellence-award.htm
 author: university-of-canterbury
+permalink: /archive/2021/12/10/university-tupu/index.html
+layout: layout.njk
 ---
 University Tupuānuku Hall Of Residence Wins Asia-Pacific Excellence Award
 =========================================================================

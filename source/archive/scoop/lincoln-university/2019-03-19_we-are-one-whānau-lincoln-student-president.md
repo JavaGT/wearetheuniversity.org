@@ -1,9 +1,12 @@
 ---
 slug: we-are-one-whānau-lincoln-student-president
-title: "‘We are one whānau’ – Lincoln student president"
-date: 2019-03-19
-source-url: https://www.scoop.co.nz/stories/AK1903/S00569/we-are-one-whanau-lincoln-student-president.htm
+title: ‘We are one whānau’ – Lincoln student president
+date: 2019-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1903/S00569/we-are-one-whanau-lincoln-student-president.htm
 author: lincoln-university
+permalink: /archive/2019/03/19/we-are-one-wh/index.html
+layout: layout.njk
 ---
 ‘We are one whānau’ – Lincoln student president
 ===============================================

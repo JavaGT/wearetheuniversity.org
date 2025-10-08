@@ -1,9 +1,12 @@
 ---
 slug: more-victims-created-by-novopay-fallout
-title: "More Victims Created By Novopay Fallout"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/PA1308/S00322/more-victims-created-by-novopay-fallout.htm
+title: More Victims Created By Novopay Fallout
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00322/more-victims-created-by-novopay-fallout.htm
 author: new-zealand-first-party
+permalink: /archive/2013/08/20/more-victims-created-by-novopay-fallout/index.html
+layout: layout.njk
 ---
 More Victims Created By Novopay Fallout
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: united-future-well-received-on-campus
-title: "United Future well-received on campus"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PO0810/S00223/united-future-well-received-on-campus.htm
+title: United Future well-received on campus
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00223/united-future-well-received-on-campus.htm
 author: ausa
+permalink: /archive/2008/10/14/united-future-well-received-on-campus/index.html
+layout: layout.njk
 ---
 United Future well-received on campus
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: conference-focus-on-increasing-power-of-women
-title: "Conference Focus on Increasing Power of Women"
-date: 2005-06-20
-source-url: https://www.scoop.co.nz/stories/PO0506/S00202/conference-focus-on-increasing-power-of-women.htm
+title: Conference Focus on Increasing Power of Women
+date: 2005-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00202/conference-focus-on-increasing-power-of-women.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/06/20/conference-focus-on-increasing-power-of-women/index.html
+layout: layout.njk
 ---
 Conference Focus on Increasing Power of Women
 =============================================

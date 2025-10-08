@@ -1,9 +1,13 @@
 ---
 slug: dialogue-has-commenced-on-refreshing-lincoln-university
-title: "Dialogue has commenced on refreshing Lincoln University"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/ED1608/S00056/dialogue-has-commenced-on-refreshing-lincoln-university.htm
+title: Dialogue has commenced on refreshing Lincoln University
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00056/dialogue-has-commenced-on-refreshing-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/08/19/dialogue-has-commenced-on-refreshing-lincoln-university/index.html
+layout: layout.njk
 ---
 Dialogue has commenced on refreshing Lincoln University
 =======================================================

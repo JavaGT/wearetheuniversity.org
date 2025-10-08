@@ -1,9 +1,12 @@
 ---
 slug: over-72000-young-people-now-unemployed
-title: "Over 72,000 Young People Now Unemployed"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/PA1002/S00064/over-72000-young-people-now-unemployed.htm
+title: Over 72,000 Young People Now Unemployed
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00064/over-72000-young-people-now-unemployed.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/04/over-72000-young-people-now-unemployed/index.html
+layout: layout.njk
 ---
 Over 72,000 Young People Now Unemployed
 =======================================

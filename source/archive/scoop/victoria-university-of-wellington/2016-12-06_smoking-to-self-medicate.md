@@ -1,9 +1,11 @@
 ---
 slug: smoking-to-self-medicate
-title: "Smoking to self-medicate"
-date: 2016-12-06
+title: Smoking to self-medicate
+date: 2016-12-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1612/S00011/smoking-to-self-medicate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/12/06/smoking-to-self-medicate/index.html
+layout: layout.njk
 ---
 Smoking to self-medicate
 ========================

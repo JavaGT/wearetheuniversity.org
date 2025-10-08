@@ -1,9 +1,12 @@
 ---
 slug: maternity-services-back-in-spotlight
-title: "Maternity Services Back In Spotlight"
-date: 2008-10-08
-source-url: https://www.scoop.co.nz/stories/GE0810/S00040/maternity-services-back-in-spotlight.htm
+title: Maternity Services Back In Spotlight
+date: 2008-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00040/maternity-services-back-in-spotlight.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/08/maternity-services-back-in-spotlight/index.html
+layout: layout.njk
 ---
 Maternity Services Back In Spotlight
 ====================================

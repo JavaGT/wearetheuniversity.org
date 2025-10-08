@@ -1,9 +1,12 @@
 ---
 slug: where-we-grow-up-may-influence-mental-health
-title: "Where We Grow Up May Influence Mental Health"
-date: 2024-11-26
-source-url: https://www.scoop.co.nz/stories/GE2411/S00100/where-we-grow-up-may-influence-mental-health.htm
+title: Where We Grow Up May Influence Mental Health
+date: 2024-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2411/S00100/where-we-grow-up-may-influence-mental-health.htm
 author: university-of-canterbury
+permalink: /archive/2024/11/26/where-we-grow-up-may-influence-mental-health/index.html
+layout: layout.njk
 ---
 Where We Grow Up May Influence Mental Health
 ============================================

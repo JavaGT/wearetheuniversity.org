@@ -1,9 +1,12 @@
 ---
 slug: new-research-highlights-lack-of-consultation
-title: "New Research Highlights Lack of Consultation"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/PA0706/S00100/new-research-highlights-lack-of-consultation.htm
+title: New Research Highlights Lack of Consultation
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00100/new-research-highlights-lack-of-consultation.htm
 author: te-pati-maori
+permalink: /archive/2007/06/07/new-research-highlights-lack-of-consultation/index.html
+layout: layout.njk
 ---
 New Research Highlights Lack of Consultation
 ============================================

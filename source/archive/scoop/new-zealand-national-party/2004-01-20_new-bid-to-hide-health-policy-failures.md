@@ -1,9 +1,12 @@
 ---
 slug: new-bid-to-hide-health-policy-failures
-title: "New bid to hide health policy failures"
-date: 2004-01-20
-source-url: https://www.scoop.co.nz/stories/PA0401/S00121/new-bid-to-hide-health-policy-failures.htm
+title: New bid to hide health policy failures
+date: 2004-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00121/new-bid-to-hide-health-policy-failures.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/20/new-bid-to-hide-health-policy-failures/index.html
+layout: layout.njk
 ---
 New bid to hide health policy failures
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: students-blow-the-whistle-on-violence
-title: "Students Blow the Whistle on Violence"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/ED1109/S00040/students-blow-the-whistle-on-violence.htm
+title: Students Blow the Whistle on Violence
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00040/students-blow-the-whistle-on-violence.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/09/13/students-blow-the-whistle-on-violence/index.html
+layout: layout.njk
 ---
 Students Blow the Whistle on Violence
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: whats-the-issue-over-the-bail-bill
-title: "What’s The Issue Over The Bail Bill?"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00011/whats-the-issue-over-the-bail-bill.htm
+title: What’s The Issue Over The Bail Bill?
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00011/whats-the-issue-over-the-bail-bill.htm
 author: act-new-zealand
+permalink: /archive/2000/06/01/whats-the-issue-over-the-bail-bill/index.html
+layout: layout.njk
 ---
 What’s The Issue Over The Bail Bill?
 ====================================

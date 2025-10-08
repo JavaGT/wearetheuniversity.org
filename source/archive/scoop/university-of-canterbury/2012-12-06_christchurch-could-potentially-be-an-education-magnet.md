@@ -1,9 +1,13 @@
 ---
 slug: christchurch-could-potentially-be-an-education-magnet
-title: "Christchurch could potentially be an education magnet"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/ED1212/S00035/christchurch-could-potentially-be-an-education-magnet.htm
+title: Christchurch could potentially be an education magnet
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00035/christchurch-could-potentially-be-an-education-magnet.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/06/christchurch-could-potentially-be-an-education-magnet/index.html
+layout: layout.njk
 ---
 Christchurch could potentially be an education magnet
 =====================================================

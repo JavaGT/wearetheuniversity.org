@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-is-leaving-behind-a-mess
-title: "Prime Minister is leaving behind a mess"
-date: 2019-09-17
-source-url: https://www.scoop.co.nz/stories/PA1909/S00121/prime-minister-is-leaving-behind-a-mess.htm
+title: Prime Minister is leaving behind a mess
+date: 2019-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00121/prime-minister-is-leaving-behind-a-mess.htm
 author: new-zealand-national-party
+permalink: /archive/2019/09/17/prime-minister-is-leaving-behind-a-mess/index.html
+layout: layout.njk
 ---
 Prime Minister is leaving behind a mess
 =======================================

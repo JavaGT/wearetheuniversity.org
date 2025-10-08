@@ -1,9 +1,12 @@
 ---
 slug: blackcurrant-research-reveals-health-benefits
-title: "Blackcurrant research reveals health benefits"
-date: 2011-03-10
-source-url: https://www.scoop.co.nz/stories/SC1103/S00030/blackcurrant-research-reveals-health-benefits.htm
+title: Blackcurrant research reveals health benefits
+date: 2011-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00030/blackcurrant-research-reveals-health-benefits.htm
 author: massey-university
+permalink: /archive/2011/03/10/blackcurrant-research-reveals-health-benefits/index.html
+layout: layout.njk
 ---
 Blackcurrant research reveals health benefits
 =============================================

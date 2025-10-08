@@ -1,9 +1,13 @@
 ---
 slug: karen-chhours-speech-at-acts-change-makers-rally
-title: "Karen Chhour's Speech At ACT's 'Change Makers' Rally"
-date: 2024-06-09
-source-url: https://www.scoop.co.nz/stories/PA2406/S00049/karen-chhours-speech-at-acts-change-makers-rally.htm
+title: Karen Chhour's Speech At ACT's 'Change Makers' Rally
+date: 2024-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00049/karen-chhours-speech-at-acts-change-makers-rally.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/06/09/karen-chhours-speech-at-acts-change-makers-rally/index.html
+layout: layout.njk
 ---
 Karen Chhour's Speech At ACT's 'Change Makers' Rally
 ====================================================

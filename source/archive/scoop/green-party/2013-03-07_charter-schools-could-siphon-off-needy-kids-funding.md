@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-could-siphon-off-needy-kids-funding
-title: "Charter schools could siphon off needy kids’ funding"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/PA1303/S00110/charter-schools-could-siphon-off-needy-kids-funding.htm
+title: Charter schools could siphon off needy kids’ funding
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00110/charter-schools-could-siphon-off-needy-kids-funding.htm
 author: green-party
+permalink: >-
+  /archive/2013/03/07/charter-schools-could-siphon-off-needy-kids-funding/index.html
+layout: layout.njk
 ---
 Charter schools could siphon off needy kids’ funding
 ====================================================

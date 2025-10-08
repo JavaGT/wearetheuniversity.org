@@ -1,9 +1,12 @@
 ---
 slug: maharey-rearranges-the-deck-chairs
-title: "Maharey rearranges the deck chairs"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/PA0707/S00089/maharey-rearranges-the-deck-chairs.htm
+title: Maharey rearranges the deck chairs
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00089/maharey-rearranges-the-deck-chairs.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/05/maharey-rearranges-the-deck-chairs/index.html
+layout: layout.njk
 ---
 Maharey rearranges the deck chairs
 ==================================

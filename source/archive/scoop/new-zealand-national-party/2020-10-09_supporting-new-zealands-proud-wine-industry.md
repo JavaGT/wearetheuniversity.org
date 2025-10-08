@@ -1,9 +1,12 @@
 ---
 slug: supporting-new-zealands-proud-wine-industry
-title: "Supporting New Zealand’s Proud Wine Industry"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/PA2010/S00063/supporting-new-zealands-proud-wine-industry.htm
+title: Supporting New Zealand’s Proud Wine Industry
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00063/supporting-new-zealands-proud-wine-industry.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/09/supporting-new-zealands-proud-wine-industry/index.html
+layout: layout.njk
 ---
 Supporting New Zealand’s Proud Wine Industry
 ============================================

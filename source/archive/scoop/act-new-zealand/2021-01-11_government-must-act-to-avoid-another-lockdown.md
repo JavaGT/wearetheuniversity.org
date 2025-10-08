@@ -1,9 +1,12 @@
 ---
 slug: government-must-act-to-avoid-another-lockdown
-title: "Government Must Act To Avoid Another Lockdown"
-date: 2021-01-11
-source-url: https://www.scoop.co.nz/stories/PA2101/S00017/government-must-act-to-avoid-another-lockdown.htm
+title: Government Must Act To Avoid Another Lockdown
+date: 2021-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00017/government-must-act-to-avoid-another-lockdown.htm
 author: act-new-zealand
+permalink: /archive/2021/01/11/government-must-act-to-avoid-another-lockdown/index.html
+layout: layout.njk
 ---
 Government Must Act To Avoid Another Lockdown
 =============================================

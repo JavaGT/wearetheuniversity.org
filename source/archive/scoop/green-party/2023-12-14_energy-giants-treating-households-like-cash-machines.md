@@ -1,9 +1,13 @@
 ---
 slug: energy-giants-treating-households-like-cash-machines
-title: "Energy Giants Treating Households Like Cash Machines"
-date: 2023-12-14
-source-url: https://www.scoop.co.nz/stories/PA2312/S00048/energy-giants-treating-households-like-cash-machines.htm
+title: Energy Giants Treating Households Like Cash Machines
+date: 2023-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00048/energy-giants-treating-households-like-cash-machines.htm
 author: green-party
+permalink: >-
+  /archive/2023/12/14/energy-giants-treating-households-like-cash-machines/index.html
+layout: layout.njk
 ---
 Energy Giants Treating Households Like Cash Machines
 ====================================================

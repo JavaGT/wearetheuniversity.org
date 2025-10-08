@@ -1,9 +1,12 @@
 ---
 slug: 108yrs-of-pacific-research-captured-in-index
-title: "108yrs of Pacific research captured in index"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/CU0903/S00025/108yrs-of-pacific-research-captured-in-index.htm
+title: 108yrs of Pacific research captured in index
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00025/108yrs-of-pacific-research-captured-in-index.htm
 author: aut-university
+permalink: /archive/2009/03/02/108yrs-of-pacific-research-captured-in-index/index.html
+layout: layout.njk
 ---
 108yrs of Pacific research captured in index
 ============================================

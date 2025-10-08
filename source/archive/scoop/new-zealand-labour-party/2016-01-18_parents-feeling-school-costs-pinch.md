@@ -1,9 +1,12 @@
 ---
 slug: parents-feeling-school-costs-pinch
-title: "Parents feeling school costs pinch"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/PA1601/S00044/parents-feeling-school-costs-pinch.htm
+title: Parents feeling school costs pinch
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00044/parents-feeling-school-costs-pinch.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/18/parents-feeling-school-costs-pinch/index.html
+layout: layout.njk
 ---
 Parents feeling school costs pinch
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: a-quick-look-at-our-announcements-this-week
-title: "A quick look at our announcements this week"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/PA1409/S00096/a-quick-look-at-our-announcements-this-week.htm
+title: A quick look at our announcements this week
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00096/a-quick-look-at-our-announcements-this-week.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/05/a-quick-look-at-our-announcements-this-week/index.html
+layout: layout.njk
 ---
 A quick look at our announcements this week
 ===========================================

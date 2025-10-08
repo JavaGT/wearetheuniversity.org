@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-presents-honorary-doctorate-in-uk
-title: "Waikato Uni presents honorary doctorate in UK"
-date: 2009-04-08
-source-url: https://www.scoop.co.nz/stories/ED0904/S00020/waikato-uni-presents-honorary-doctorate-in-uk.htm
+title: Waikato Uni presents honorary doctorate in UK
+date: 2009-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00020/waikato-uni-presents-honorary-doctorate-in-uk.htm
 author: waikato-university
+permalink: /archive/2009/04/08/waikato-uni-presents-honorary-doctorate-in-uk/index.html
+layout: layout.njk
 ---
 Waikato Uni presents honorary doctorate in UK
 =============================================

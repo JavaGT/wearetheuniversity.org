@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-industrial-action-to-contine
-title: "Victoria University industrial action to contine"
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/ED0204/S00016/victoria-university-industrial-action-to-contine.htm
+title: Victoria University industrial action to contine
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00016/victoria-university-industrial-action-to-contine.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/04/12/victoria-university-industrial-action-to-contine/index.html
+layout: layout.njk
 ---
 Victoria University industrial action to contine
 ================================================

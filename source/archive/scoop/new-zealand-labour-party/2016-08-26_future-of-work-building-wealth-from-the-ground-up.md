@@ -1,9 +1,13 @@
 ---
 slug: future-of-work-building-wealth-from-the-ground-up
-title: "Future of Work:  Building Wealth from the Ground Up"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/PA1608/S00496/future-of-work-building-wealth-from-the-ground-up.htm
+title: 'Future of Work:  Building Wealth from the Ground Up'
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00496/future-of-work-building-wealth-from-the-ground-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/26/future-of-work-building-wealth-from-the-ground-up/index.html
+layout: layout.njk
 ---
 Future of Work: Building Wealth from the Ground Up
 ==================================================

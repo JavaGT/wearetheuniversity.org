@@ -1,9 +1,12 @@
 ---
 slug: industry-growth-brings-gamers-together
-title: "Industry Growth Brings Gamers Together"
-date: 2004-06-22
-source-url: https://www.scoop.co.nz/stories/ED0406/S00078/industry-growth-brings-gamers-together.htm
+title: Industry Growth Brings Gamers Together
+date: 2004-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00078/industry-growth-brings-gamers-together.htm
 author: university-of-otago
+permalink: /archive/2004/06/22/industry-growth-brings-gamers-together/index.html
+layout: layout.njk
 ---
 Industry Growth Brings Gamers Together
 ======================================

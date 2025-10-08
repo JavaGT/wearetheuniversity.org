@@ -1,9 +1,13 @@
 ---
 slug: unaffordable-housing-sends-teachers-packing-from-auckland
-title: "Unaffordable housing sends teachers packing from Auckland"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/PA1703/S00171/unaffordable-housing-sends-teachers-packing-from-auckland.htm
+title: Unaffordable housing sends teachers packing from Auckland
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00171/unaffordable-housing-sends-teachers-packing-from-auckland.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/10/unaffordable-housing-sends-teachers-packing-from-auckland/index.html
+layout: layout.njk
 ---
 Unaffordable housing sends teachers packing from Auckland
 =========================================================

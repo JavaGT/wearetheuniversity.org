@@ -1,9 +1,13 @@
 ---
 slug: widespread-caution-on-tertiary-league-tables-justified
-title: "Widespread caution on tertiary league tables justified"
-date: 2015-09-30
-source-url: https://www.scoop.co.nz/stories/PA1509/S00514/widespread-caution-on-tertiary-league-tables-justified.htm
+title: Widespread caution on tertiary league tables justified
+date: 2015-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00514/widespread-caution-on-tertiary-league-tables-justified.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/30/widespread-caution-on-tertiary-league-tables-justified/index.html
+layout: layout.njk
 ---
 Widespread caution on tertiary league tables justified
 ======================================================

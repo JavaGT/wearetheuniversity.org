@@ -1,9 +1,12 @@
 ---
 slug: cleveland-hotel-finally-pays-up
-title: "Cleveland Hotel Finally Pays Up"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/ED1006/S00004/cleveland-hotel-finally-pays-up.htm
+title: Cleveland Hotel Finally Pays Up
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00004/cleveland-hotel-finally-pays-up.htm
 author: salient
+permalink: /archive/2010/06/01/cleveland-hotel-finally-pays-up/index.html
+layout: layout.njk
 ---
 Cleveland Hotel Finally Pays Up
 ===============================

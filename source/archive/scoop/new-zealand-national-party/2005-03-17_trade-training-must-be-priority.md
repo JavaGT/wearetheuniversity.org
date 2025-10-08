@@ -1,9 +1,12 @@
 ---
 slug: trade-training-must-be-priority
-title: "Trade training must be priority"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/PA0503/S00378/trade-training-must-be-priority.htm
+title: Trade training must be priority
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00378/trade-training-must-be-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/17/trade-training-must-be-priority/index.html
+layout: layout.njk
 ---
 Trade training must be priority
 ===============================

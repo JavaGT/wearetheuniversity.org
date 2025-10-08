@@ -1,9 +1,12 @@
 ---
 slug: police-budget-stretched-beyond-the-limit
-title: "Police Budget Stretched Beyond The Limit"
-date: 2000-11-22
-source-url: https://www.scoop.co.nz/stories/PA0011/S00400/police-budget-stretched-beyond-the-limit.htm
+title: Police Budget Stretched Beyond The Limit
+date: 2000-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00400/police-budget-stretched-beyond-the-limit.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/22/police-budget-stretched-beyond-the-limit/index.html
+layout: layout.njk
 ---
 Police Budget Stretched Beyond The Limit
 ========================================

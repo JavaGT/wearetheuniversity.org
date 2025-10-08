@@ -1,9 +1,12 @@
 ---
 slug: nzqa-stalling-over-scholarship-results
-title: "NZQA stalling over scholarship results"
-date: 2005-02-07
-source-url: https://www.scoop.co.nz/stories/PA0502/S00140/nzqa-stalling-over-scholarship-results.htm
+title: NZQA stalling over scholarship results
+date: 2005-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00140/nzqa-stalling-over-scholarship-results.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/07/nzqa-stalling-over-scholarship-results/index.html
+layout: layout.njk
 ---
 NZQA stalling over scholarship results
 ======================================

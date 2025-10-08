@@ -1,9 +1,12 @@
 ---
 slug: institute-will-tackle-aucklands-energy-problems
-title: "Institute will tackle Auckland's Energy Problems"
-date: 2005-11-25
-source-url: https://www.scoop.co.nz/stories/SC0511/S00053/institute-will-tackle-aucklands-energy-problems.htm
+title: Institute will tackle Auckland's Energy Problems
+date: 2005-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0511/S00053/institute-will-tackle-aucklands-energy-problems.htm
 author: auckland-university
+permalink: /archive/2005/11/25/institute-will-tackle-aucklands-energy-problems/index.html
+layout: layout.njk
 ---
 Institute will tackle Auckland's Energy Problems
 ================================================

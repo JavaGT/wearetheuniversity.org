@@ -1,9 +1,12 @@
 ---
 slug: victoria-student-scores-feature-film-role
-title: "Victoria student scores feature film role"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/CU1408/S00313/victoria-student-scores-feature-film-role.htm
+title: Victoria student scores feature film role
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00313/victoria-student-scores-feature-film-role.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/20/victoria-student-scores-feature-film-role/index.html
+layout: layout.njk
 ---
 Victoria student scores feature film role
 =========================================

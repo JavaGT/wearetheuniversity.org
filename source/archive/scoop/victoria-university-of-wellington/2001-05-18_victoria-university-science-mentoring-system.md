@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-science-mentoring-system
-title: "Victoria University science mentoring system"
-date: 2001-05-18
-source-url: https://www.scoop.co.nz/stories/ED0105/S00035/victoria-university-science-mentoring-system.htm
+title: Victoria University science mentoring system
+date: 2001-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00035/victoria-university-science-mentoring-system.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/05/18/victoria-university-science-mentoring-system/index.html
+layout: layout.njk
 ---
 Victoria University science mentoring system
 ============================================

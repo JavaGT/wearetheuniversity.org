@@ -1,9 +1,13 @@
 ---
 slug: lockdown-study-sheds-light-on-pasifika-achievement-in-education
-title: "Lockdown Study Sheds Light On Pasifika Achievement In Education"
-date: 2020-05-12
-source-url: https://www.scoop.co.nz/stories/ED2005/S00026/lockdown-study-sheds-light-on-pasifika-achievement-in-education.htm
+title: Lockdown Study Sheds Light On Pasifika Achievement In Education
+date: 2020-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00026/lockdown-study-sheds-light-on-pasifika-achievement-in-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/12/lockdown-study-sheds-light-on-pasifika-achievement-in-education/index.html
+layout: layout.njk
 ---
 Lockdown Study Sheds Light On Pasifika Achievement In Education
 ===============================================================

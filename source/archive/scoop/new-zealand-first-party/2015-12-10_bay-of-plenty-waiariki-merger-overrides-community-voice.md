@@ -1,9 +1,13 @@
 ---
 slug: bay-of-plenty-waiariki-merger-overrides-community-voice
-title: "Bay of Plenty–Waiariki Merger Overrides Community Voice"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/PA1512/S00247/bay-of-plenty-waiariki-merger-overrides-community-voice.htm
+title: Bay of Plenty–Waiariki Merger Overrides Community Voice
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00247/bay-of-plenty-waiariki-merger-overrides-community-voice.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/10/bay-of-plenty-waiariki-merger-overrides-community-voice/index.html
+layout: layout.njk
 ---
 Bay of Plenty–Waiariki Merger Overrides Community Voice
 =======================================================

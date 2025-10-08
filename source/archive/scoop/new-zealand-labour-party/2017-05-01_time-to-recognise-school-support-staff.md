@@ -1,9 +1,12 @@
 ---
 slug: time-to-recognise-school-support-staff
-title: "Time to recognise school support staff"
-date: 2017-05-01
-source-url: https://www.scoop.co.nz/stories/PA1705/S00015/time-to-recognise-school-support-staff.htm
+title: Time to recognise school support staff
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00015/time-to-recognise-school-support-staff.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/01/time-to-recognise-school-support-staff/index.html
+layout: layout.njk
 ---
 Time to recognise school support staff
 ======================================

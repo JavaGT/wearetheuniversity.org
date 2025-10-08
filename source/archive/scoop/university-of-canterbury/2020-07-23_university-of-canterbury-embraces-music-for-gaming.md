@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-embraces-music-for-gaming
-title: "University Of Canterbury Embraces Music For Gaming"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/CU2007/S00149/university-of-canterbury-embraces-music-for-gaming.htm
+title: University Of Canterbury Embraces Music For Gaming
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2007/S00149/university-of-canterbury-embraces-music-for-gaming.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/23/university-of-canterbury-embraces-music-for-gaming/index.html
+layout: layout.njk
 ---
 University Of Canterbury Embraces Music For Gaming
 ==================================================

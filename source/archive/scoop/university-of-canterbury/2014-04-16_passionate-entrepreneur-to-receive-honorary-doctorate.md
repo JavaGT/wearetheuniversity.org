@@ -1,9 +1,13 @@
 ---
 slug: passionate-entrepreneur-to-receive-honorary-doctorate
-title: "Passionate entrepreneur to receive honorary doctorate"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/ED1404/S00061/passionate-entrepreneur-to-receive-honorary-doctorate.htm
+title: Passionate entrepreneur to receive honorary doctorate
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00061/passionate-entrepreneur-to-receive-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/16/passionate-entrepreneur-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Passionate entrepreneur to receive honorary doctorate
 =====================================================

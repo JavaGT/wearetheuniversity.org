@@ -1,9 +1,13 @@
 ---
 slug: more-than-500-people-expected-at-bridge-building-competition
-title: "More than 500 people expected at bridge building competition"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/AK1408/S00352/more-than-500-people-expected-at-bridge-building-competition.htm
+title: More than 500 people expected at bridge building competition
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00352/more-than-500-people-expected-at-bridge-building-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/19/more-than-500-people-expected-at-bridge-building-competition/index.html
+layout: layout.njk
 ---
 More than 500 people expected at bridge building competition
 ============================================================

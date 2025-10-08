@@ -1,9 +1,11 @@
 ---
 slug: the-dragon-and-the-taniwha
-title: "The Dragon And the Taniwha"
-date: 2009-03-31
+title: The Dragon And the Taniwha
+date: 2009-03-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0903/S00420/the-dragon-and-the-taniwha.htm
 author: auckland-university-press
+permalink: /archive/2009/03/31/the-dragon-and-the-taniwha/index.html
+layout: layout.njk
 ---
 The Dragon And the Taniwha
 ==========================

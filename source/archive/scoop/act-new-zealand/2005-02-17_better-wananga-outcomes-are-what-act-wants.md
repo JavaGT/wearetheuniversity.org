@@ -1,9 +1,12 @@
 ---
 slug: better-wananga-outcomes-are-what-act-wants
-title: "Better wananga outcomes are what ACT wants"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00389/better-wananga-outcomes-are-what-act-wants.htm
+title: Better wananga outcomes are what ACT wants
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00389/better-wananga-outcomes-are-what-act-wants.htm
 author: act-new-zealand
+permalink: /archive/2005/02/17/better-wananga-outcomes-are-what-act-wants/index.html
+layout: layout.njk
 ---
 Better wananga outcomes are what ACT wants
 ==========================================

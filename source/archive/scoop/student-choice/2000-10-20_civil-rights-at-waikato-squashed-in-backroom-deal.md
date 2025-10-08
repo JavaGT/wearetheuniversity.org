@@ -1,9 +1,13 @@
 ---
 slug: civil-rights-at-waikato-squashed-in-backroom-deal
-title: "Civil Rights at Waikato Squashed in Backroom Deal"
-date: 2000-10-20
-source-url: https://www.scoop.co.nz/stories/ED0010/S00030/civil-rights-at-waikato-squashed-in-backroom-deal.htm
+title: Civil Rights at Waikato Squashed in Backroom Deal
+date: 2000-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00030/civil-rights-at-waikato-squashed-in-backroom-deal.htm
 author: student-choice
+permalink: >-
+  /archive/2000/10/20/civil-rights-at-waikato-squashed-in-backroom-deal/index.html
+layout: layout.njk
 ---
 Civil Rights at Waikato Squashed in Backroom Deal
 =================================================

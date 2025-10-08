@@ -1,9 +1,12 @@
 ---
 slug: cuts-to-vuw-schools-unsustainable
-title: "Cuts to VUW schools 'unsustainable.'"
-date: 2000-10-10
-source-url: https://www.scoop.co.nz/stories/ED0010/S00011/cuts-to-vuw-schools-unsustainable.htm
+title: Cuts to VUW schools 'unsustainable.'
+date: 2000-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00011/cuts-to-vuw-schools-unsustainable.htm
 author: association-of-university-staff
+permalink: /archive/2000/10/10/cuts-to-vuw-schools-unsustainable/index.html
+layout: layout.njk
 ---
 Cuts to VUW schools 'unsustainable.'
 ====================================

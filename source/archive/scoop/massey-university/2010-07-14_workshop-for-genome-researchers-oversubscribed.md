@@ -1,9 +1,12 @@
 ---
 slug: workshop-for-genome-researchers-oversubscribed
-title: "Workshop for genome researchers oversubscribed"
-date: 2010-07-14
-source-url: https://www.scoop.co.nz/stories/SC1007/S00026/workshop-for-genome-researchers-oversubscribed.htm
+title: Workshop for genome researchers oversubscribed
+date: 2010-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1007/S00026/workshop-for-genome-researchers-oversubscribed.htm
 author: massey-university
+permalink: /archive/2010/07/14/workshop-for-genome-researchers-oversubscribed/index.html
+layout: layout.njk
 ---
 Workshop for genome researchers oversubscribed
 ==============================================

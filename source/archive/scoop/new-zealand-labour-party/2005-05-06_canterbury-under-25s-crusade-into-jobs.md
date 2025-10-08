@@ -1,9 +1,12 @@
 ---
 slug: canterbury-under-25s-crusade-into-jobs
-title: "Canterbury under 25s crusade into jobs"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00130/canterbury-under-25s-crusade-into-jobs.htm
+title: Canterbury under 25s crusade into jobs
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00130/canterbury-under-25s-crusade-into-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/05/06/canterbury-under-25s-crusade-into-jobs/index.html
+layout: layout.njk
 ---
 Canterbury under 25s crusade into jobs
 ======================================

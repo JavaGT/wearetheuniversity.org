@@ -1,9 +1,11 @@
 ---
 slug: fonterra-ceo-speculation
-title: "Fonterra CEO Speculation"
-date: 2003-04-09
+title: Fonterra CEO Speculation
+date: 2003-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0304/S00023/fonterra-ceo-speculation.htm
 author: auckland-university
+permalink: /archive/2003/04/09/fonterra-ceo-speculation/index.html
+layout: layout.njk
 ---
 Fonterra CEO Speculation
 ========================

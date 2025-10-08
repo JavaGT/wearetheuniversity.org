@@ -1,9 +1,13 @@
 ---
 slug: transforming-education-through-personalised-learni
-title: "Transforming Education Through Personalised Learni"
-date: 2006-05-19
-source-url: https://www.scoop.co.nz/stories/ED0605/S00071/transforming-education-through-personalised-learni.htm
+title: Transforming Education Through Personalised Learni
+date: 2006-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00071/transforming-education-through-personalised-learni.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/05/19/transforming-education-through-personalised-learni/index.html
+layout: layout.njk
 ---
 Transforming Education Through Personalised Learni
 ==================================================

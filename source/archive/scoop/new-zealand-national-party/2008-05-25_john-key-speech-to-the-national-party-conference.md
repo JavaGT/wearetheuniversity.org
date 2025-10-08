@@ -1,9 +1,13 @@
 ---
 slug: john-key-speech-to-the-national-party-conference
-title: "John Key: Speech to the National Party Conference"
-date: 2008-05-25
-source-url: https://www.scoop.co.nz/stories/PA0805/S00490/john-key-speech-to-the-national-party-conference.htm
+title: 'John Key: Speech to the National Party Conference'
+date: 2008-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00490/john-key-speech-to-the-national-party-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/05/25/john-key-speech-to-the-national-party-conference/index.html
+layout: layout.njk
 ---
 John Key: Speech to the National Party Conference
 =================================================

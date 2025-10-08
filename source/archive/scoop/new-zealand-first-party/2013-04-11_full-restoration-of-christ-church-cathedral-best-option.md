@@ -1,9 +1,13 @@
 ---
 slug: full-restoration-of-christ-church-cathedral-best-option
-title: "Full Restoration of Christ Church Cathedral Best Option"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00214/full-restoration-of-christ-church-cathedral-best-option.htm
+title: Full Restoration of Christ Church Cathedral Best Option
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00214/full-restoration-of-christ-church-cathedral-best-option.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/04/11/full-restoration-of-christ-church-cathedral-best-option/index.html
+layout: layout.njk
 ---
 Full Restoration of Christ Church Cathedral Best Option
 =======================================================

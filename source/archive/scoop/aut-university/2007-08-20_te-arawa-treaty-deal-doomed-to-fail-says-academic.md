@@ -1,9 +1,13 @@
 ---
 slug: te-arawa-treaty-deal-doomed-to-fail-says-academic
-title: "Te Arawa Treaty deal doomed to fail, says academic"
-date: 2007-08-20
-source-url: https://www.scoop.co.nz/stories/PO0708/S00267/te-arawa-treaty-deal-doomed-to-fail-says-academic.htm
+title: Te Arawa Treaty deal doomed to fail, says academic
+date: 2007-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0708/S00267/te-arawa-treaty-deal-doomed-to-fail-says-academic.htm
 author: aut-university
+permalink: >-
+  /archive/2007/08/20/te-arawa-treaty-deal-doomed-to-fail-says-academic/index.html
+layout: layout.njk
 ---
 Te Arawa Treaty deal doomed to fail, says academic
 ==================================================

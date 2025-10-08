@@ -1,9 +1,13 @@
 ---
 slug: building-critical-mass-around-key-academic-leaders
-title: "Building Critical Mass Around Key Academic Leaders"
-date: 2009-11-03
-source-url: https://www.scoop.co.nz/stories/ED0911/S00011/building-critical-mass-around-key-academic-leaders.htm
+title: Building Critical Mass Around Key Academic Leaders
+date: 2009-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00011/building-critical-mass-around-key-academic-leaders.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/11/03/building-critical-mass-around-key-academic-leaders/index.html
+layout: layout.njk
 ---
 Building Critical Mass Around Key Academic Leaders
 ==================================================

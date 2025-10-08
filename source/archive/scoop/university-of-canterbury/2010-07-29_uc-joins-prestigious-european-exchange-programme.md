@@ -1,9 +1,13 @@
 ---
 slug: uc-joins-prestigious-european-exchange-programme
-title: "UC joins prestigious European exchange programme"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/ED1007/S00106/uc-joins-prestigious-european-exchange-programme.htm
+title: UC joins prestigious European exchange programme
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00106/uc-joins-prestigious-european-exchange-programme.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/07/29/uc-joins-prestigious-european-exchange-programme/index.html
+layout: layout.njk
 ---
 UC joins prestigious European exchange programme
 ================================================

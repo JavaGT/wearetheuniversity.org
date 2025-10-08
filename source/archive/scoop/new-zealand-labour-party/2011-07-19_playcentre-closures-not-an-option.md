@@ -1,9 +1,12 @@
 ---
 slug: playcentre-closures-not-an-option
-title: "Playcentre closures not an option"
-date: 2011-07-19
-source-url: https://www.scoop.co.nz/stories/PA1107/S00329/playcentre-closures-not-an-option.htm
+title: Playcentre closures not an option
+date: 2011-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00329/playcentre-closures-not-an-option.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/19/playcentre-closures-not-an-option/index.html
+layout: layout.njk
 ---
 Playcentre closures not an option
 =================================

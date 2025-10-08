@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-the-canterbury-earthquake
-title: "Speech: Katene - the Canterbury Earthquake"
-date: 2010-11-12
-source-url: https://www.scoop.co.nz/stories/PA1011/S00246/speech-katene-the-canterbury-earthquake.htm
+title: 'Speech: Katene - the Canterbury Earthquake'
+date: 2010-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00246/speech-katene-the-canterbury-earthquake.htm
 author: te-pati-maori
+permalink: /archive/2010/11/12/speech-katene-the-canterbury-earthquake/index.html
+layout: layout.njk
 ---
 Speech: Katene - the Canterbury Earthquake
 ==========================================

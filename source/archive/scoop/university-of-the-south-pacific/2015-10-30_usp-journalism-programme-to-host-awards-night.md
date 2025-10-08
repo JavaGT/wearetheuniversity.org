@@ -1,9 +1,12 @@
 ---
 slug: usp-journalism-programme-to-host-awards-night
-title: "USP Journalism Programme to host awards night"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/WO1510/S00083/usp-journalism-programme-to-host-awards-night.htm
+title: USP Journalism Programme to host awards night
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1510/S00083/usp-journalism-programme-to-host-awards-night.htm
 author: university-of-the-south-pacific
+permalink: /archive/2015/10/30/usp-journalism-programme-to-host-awards-night/index.html
+layout: layout.njk
 ---
 USP Journalism Programme to host awards night
 =============================================

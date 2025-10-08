@@ -1,9 +1,12 @@
 ---
 slug: happy-feet-given-every-chance-of-survival
-title: "Happy Feet given every chance of survival"
-date: 2011-08-28
-source-url: https://www.scoop.co.nz/stories/SC1108/S00075/happy-feet-given-every-chance-of-survival.htm
+title: Happy Feet given every chance of survival
+date: 2011-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00075/happy-feet-given-every-chance-of-survival.htm
 author: massey-university
+permalink: /archive/2011/08/28/happy-feet-given-every-chance-of-survival/index.html
+layout: layout.njk
 ---
 Happy Feet given every chance of survival
 =========================================

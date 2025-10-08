@@ -1,9 +1,12 @@
 ---
 slug: another-rejected-offer-&-more-teacher-strikes-likely
-title: "Another rejected offer & more teacher strikes likely"
-date: 2018-10-02
-source-url: https://www.scoop.co.nz/stories/PA1810/S00013/another-rejected-offer-more-teacher-strikes-likely.htm
+title: Another rejected offer & more teacher strikes likely
+date: 2018-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00013/another-rejected-offer-more-teacher-strikes-likely.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/02/another-rejected-offer-/index.html
+layout: layout.njk
 ---
 Another rejected offer & more teacher strikes likely
 ====================================================

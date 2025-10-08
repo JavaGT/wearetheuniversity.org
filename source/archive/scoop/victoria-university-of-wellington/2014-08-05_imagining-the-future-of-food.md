@@ -1,9 +1,11 @@
 ---
 slug: imagining-the-future-of-food
-title: "Imagining the future of food"
-date: 2014-08-05
+title: Imagining the future of food
+date: 2014-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1408/S00016/imagining-the-future-of-food.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/05/imagining-the-future-of-food/index.html
+layout: layout.njk
 ---
 Imagining the future of food
 ============================

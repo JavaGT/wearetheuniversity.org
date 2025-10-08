@@ -1,9 +1,12 @@
 ---
 slug: canterbury-benefits-from-apprentice-programme
-title: "Canterbury benefits from Apprentice Programme"
-date: 2000-07-27
-source-url: https://www.scoop.co.nz/stories/PA0007/S00461/canterbury-benefits-from-apprentice-programme.htm
+title: Canterbury benefits from Apprentice Programme
+date: 2000-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00461/canterbury-benefits-from-apprentice-programme.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/07/27/canterbury-benefits-from-apprentice-programme/index.html
+layout: layout.njk
 ---
 Canterbury benefits from Apprentice Programme
 =============================================

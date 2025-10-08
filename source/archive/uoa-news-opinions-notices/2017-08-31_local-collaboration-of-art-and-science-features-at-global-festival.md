@@ -1,8 +1,12 @@
 ---
 slug: local-collaboration-of-art-and-science-features-at-global-festival
-title: "Local collaboration of art and science features at global festival"
-date: 2017-08-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/local-collaboration-of-art-and-science-features-at-global-festiv.html
+title: Local collaboration of art and science features at global festival
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/local-collaboration-of-art-and-science-features-at-global-festiv.html
+permalink: >-
+  /archive/2017/08/31/local-collaboration-of-art-and-science-features-at-global-festival/index.html
+layout: layout.njk
 ---
 Local collaboration of art and science features at global festival
 ==================================================================

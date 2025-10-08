@@ -1,9 +1,13 @@
 ---
 slug: ncea-results-show-more-students-achieving-in-mt-albert
-title: "NCEA results show more students achieving in Mt Albert"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/PA1304/S00390/ncea-results-show-more-students-achieving-in-mt-albert.htm
+title: NCEA results show more students achieving in Mt Albert
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00390/ncea-results-show-more-students-achieving-in-mt-albert.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/04/19/ncea-results-show-more-students-achieving-in-mt-albert/index.html
+layout: layout.njk
 ---
 NCEA results show more students achieving in Mt Albert
 ======================================================

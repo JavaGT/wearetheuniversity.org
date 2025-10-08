@@ -1,9 +1,12 @@
 ---
 slug: future-leaders-scholars-about-to-shave-to-save
-title: "Future Leaders scholars about to ‘shave to save’"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/AK1205/S00297/future-leaders-scholars-about-to-shave-to-save.htm
+title: Future Leaders scholars about to ‘shave to save’
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1205/S00297/future-leaders-scholars-about-to-shave-to-save.htm
 author: lincoln-university
+permalink: /archive/2012/05/14/future-leaders-scholars-about-to-shave-to-save/index.html
+layout: layout.njk
 ---
 Future Leaders scholars about to ‘shave to save’
 ================================================

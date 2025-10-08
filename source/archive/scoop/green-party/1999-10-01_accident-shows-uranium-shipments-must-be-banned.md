@@ -1,9 +1,12 @@
 ---
 slug: accident-shows-uranium-shipments-must-be-banned
-title: "Accident shows uranium shipments must be banned"
-date: 1999-10-01
-source-url: https://www.scoop.co.nz/stories/PA9910/S00019/accident-shows-uranium-shipments-must-be-banned.htm
+title: Accident shows uranium shipments must be banned
+date: 1999-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00019/accident-shows-uranium-shipments-must-be-banned.htm
 author: green-party
+permalink: /archive/1999/10/01/accident-shows-uranium-shipments-must-be-banned/index.html
+layout: layout.njk
 ---
 Accident shows uranium shipments must be banned
 ===============================================

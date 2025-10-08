@@ -1,9 +1,13 @@
 ---
 slug: new-ecentre-chief-has-plans-to-scale-up-services
-title: "New ecentre chief has plans to scale up services"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/ED1706/S00071/new-ecentre-chief-has-plans-to-scale-up-services.htm
+title: New ecentre chief has plans to scale up services
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00071/new-ecentre-chief-has-plans-to-scale-up-services.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/21/new-ecentre-chief-has-plans-to-scale-up-services/index.html
+layout: layout.njk
 ---
 New ecentre chief has plans to scale up services
 ================================================

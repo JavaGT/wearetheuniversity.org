@@ -1,9 +1,13 @@
 ---
 slug: zebrafish-study-sheds-new-light-on-human-heart-defects
-title: "Zebrafish study sheds new light on human heart defects"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/SC1510/S00048/zebrafish-study-sheds-new-light-on-human-heart-defects.htm
+title: Zebrafish study sheds new light on human heart defects
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00048/zebrafish-study-sheds-new-light-on-human-heart-defects.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/16/zebrafish-study-sheds-new-light-on-human-heart-defects/index.html
+layout: layout.njk
 ---
 Zebrafish study sheds new light on human heart defects
 ======================================================

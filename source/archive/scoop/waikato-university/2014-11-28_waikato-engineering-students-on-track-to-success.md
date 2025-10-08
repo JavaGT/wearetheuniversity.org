@@ -1,9 +1,13 @@
 ---
 slug: waikato-engineering-students-on-track-to-success
-title: "Waikato engineering students on track to success"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/ED1411/S00180/waikato-engineering-students-on-track-to-success.htm
+title: Waikato engineering students on track to success
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00180/waikato-engineering-students-on-track-to-success.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/11/28/waikato-engineering-students-on-track-to-success/index.html
+layout: layout.njk
 ---
 Waikato engineering students on track to success
 ================================================

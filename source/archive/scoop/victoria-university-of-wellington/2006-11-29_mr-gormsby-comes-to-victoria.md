@@ -1,9 +1,11 @@
 ---
 slug: mr-gormsby-comes-to-victoria
-title: "Mr Gormsby Comes to Victoria"
-date: 2006-11-29
+title: Mr Gormsby Comes to Victoria
+date: 2006-11-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0611/S00112/mr-gormsby-comes-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/29/mr-gormsby-comes-to-victoria/index.html
+layout: layout.njk
 ---
 Mr Gormsby Comes to Victoria
 ============================

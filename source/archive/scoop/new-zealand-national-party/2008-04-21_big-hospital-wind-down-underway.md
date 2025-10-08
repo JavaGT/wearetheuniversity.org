@@ -1,9 +1,12 @@
 ---
 slug: big-hospital-wind-down-underway
-title: "Big hospital wind down underway"
-date: 2008-04-21
-source-url: https://www.scoop.co.nz/stories/PA0804/S00491/big-hospital-wind-down-underway.htm
+title: Big hospital wind down underway
+date: 2008-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00491/big-hospital-wind-down-underway.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/21/big-hospital-wind-down-underway/index.html
+layout: layout.njk
 ---
 Big hospital wind down underway
 ===============================

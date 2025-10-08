@@ -1,9 +1,11 @@
 ---
 slug: new-pathway-to-teaching
-title: "New pathway to teaching"
-date: 2016-10-28
+title: New pathway to teaching
+date: 2016-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1610/S00104/new-pathway-to-teaching.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/28/new-pathway-to-teaching/index.html
+layout: layout.njk
 ---
 New pathway to teaching
 =======================

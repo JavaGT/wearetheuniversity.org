@@ -1,9 +1,12 @@
 ---
 slug: waikato-scores-high-in-global-mba-rankings-2017
-title: "Waikato scores high in Global MBA Rankings 2017"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/ED1704/S00021/waikato-scores-high-in-global-mba-rankings-2017.htm
+title: Waikato scores high in Global MBA Rankings 2017
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00021/waikato-scores-high-in-global-mba-rankings-2017.htm
 author: university-of-waikato
+permalink: /archive/2017/04/06/waikato-scores-high-in-global-mba-rankings-2017/index.html
+layout: layout.njk
 ---
 Waikato scores high in Global MBA Rankings 2017
 ===============================================

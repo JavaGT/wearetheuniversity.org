@@ -1,9 +1,12 @@
 ---
 slug: national-must-listen-to-maori-tppa-concerns
-title: "National must listen to Maori TPPA concerns"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/PA1601/S00166/national-must-listen-to-maori-tppa-concerns.htm
+title: National must listen to Maori TPPA concerns
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00166/national-must-listen-to-maori-tppa-concerns.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/29/national-must-listen-to-maori-tppa-concerns/index.html
+layout: layout.njk
 ---
 National must listen to Maori TPPA concerns
 ===========================================

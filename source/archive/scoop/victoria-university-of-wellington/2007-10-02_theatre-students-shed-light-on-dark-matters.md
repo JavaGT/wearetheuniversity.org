@@ -1,9 +1,12 @@
 ---
 slug: theatre-students-shed-light-on-dark-matters
-title: "Theatre Students Shed Light on Dark Matters"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/ED0710/S00006/theatre-students-shed-light-on-dark-matters.htm
+title: Theatre Students Shed Light on Dark Matters
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00006/theatre-students-shed-light-on-dark-matters.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/02/theatre-students-shed-light-on-dark-matters/index.html
+layout: layout.njk
 ---
 Theatre Students Shed Light on Dark Matters
 ===========================================

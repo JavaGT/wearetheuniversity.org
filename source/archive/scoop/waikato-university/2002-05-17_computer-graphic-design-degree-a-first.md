@@ -1,9 +1,12 @@
 ---
 slug: computer-graphic-design-degree-a-first
-title: "Computer Graphic Design Degree A First"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/ED0205/S00029/computer-graphic-design-degree-a-first.htm
+title: Computer Graphic Design Degree A First
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00029/computer-graphic-design-degree-a-first.htm
 author: waikato-university
+permalink: /archive/2002/05/17/computer-graphic-design-degree-a-first/index.html
+layout: layout.njk
 ---
 Computer Graphic Design Degree A First
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-student-gains-award-in-australasian-business-final
-title: "UC student gains award in Australasian business final"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/BU1210/S00184/uc-student-gains-award-in-australasian-business-final.htm
+title: UC student gains award in Australasian business final
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00184/uc-student-gains-award-in-australasian-business-final.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/04/uc-student-gains-award-in-australasian-business-final/index.html
+layout: layout.njk
 ---
 UC student gains award in Australasian business final
 =====================================================

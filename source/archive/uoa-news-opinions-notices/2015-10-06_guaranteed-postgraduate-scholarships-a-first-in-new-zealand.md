@@ -1,8 +1,12 @@
 ---
 slug: guaranteed-postgraduate-scholarships-a-first-in-new-zealand
-title: "Guaranteed postgraduate scholarships a first in New Zealand"
-date: 2015-10-06
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/guaranteed-postgraduate-scholarships-a-first-in-new-zealand.html
+title: Guaranteed postgraduate scholarships a first in New Zealand
+date: 2015-10-06T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/guaranteed-postgraduate-scholarships-a-first-in-new-zealand.html
+permalink: >-
+  /archive/2015/10/06/guaranteed-postgraduate-scholarships-a-first-in-new-zealand/index.html
+layout: layout.njk
 ---
 Guaranteed postgraduate scholarships a first in New Zealand
 ===========================================================

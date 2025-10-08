@@ -1,9 +1,12 @@
 ---
 slug: polytechnic-takeover-a-backwards-step
-title: "Polytechnic takeover a backwards step"
-date: 2009-08-21
-source-url: https://www.scoop.co.nz/stories/PA0908/S00323/polytechnic-takeover-a-backwards-step.htm
+title: Polytechnic takeover a backwards step
+date: 2009-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00323/polytechnic-takeover-a-backwards-step.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/21/polytechnic-takeover-a-backwards-step/index.html
+layout: layout.njk
 ---
 Polytechnic takeover a backwards step
 =====================================

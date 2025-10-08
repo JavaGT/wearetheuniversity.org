@@ -1,9 +1,13 @@
 ---
 slug: top-researchers-elected-as-royal-society-fellows
-title: "Top researchers elected as Royal Society Fellows"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00047/top-researchers-elected-as-royal-society-fellows.htm
+title: Top researchers elected as Royal Society Fellows
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00047/top-researchers-elected-as-royal-society-fellows.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/07/top-researchers-elected-as-royal-society-fellows/index.html
+layout: layout.njk
 ---
 Top researchers elected as Royal Society Fellows
 ================================================

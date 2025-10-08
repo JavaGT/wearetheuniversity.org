@@ -1,9 +1,12 @@
 ---
 slug: tomorrows-schools-recommendations-welcomed
-title: "Tomorrow's Schools recommendations welcomed"
-date: 2018-12-07
-source-url: https://www.scoop.co.nz/stories/ED1812/S00021/tomorrows-schools-recommendations-welcomed.htm
+title: Tomorrow's Schools recommendations welcomed
+date: 2018-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00021/tomorrows-schools-recommendations-welcomed.htm
 author: nzei
+permalink: /archive/2018/12/07/tomorrows-schools-recommendations-welcomed/index.html
+layout: layout.njk
 ---
 Tomorrow's Schools recommendations welcomed
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: the-future-of-new-zealand-media-even-more-unpredictable
-title: "The future of New Zealand media even more unpredictable"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/BU1211/S00923/the-future-of-new-zealand-media-even-more-unpredictable.htm
+title: The future of New Zealand media even more unpredictable
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00923/the-future-of-new-zealand-media-even-more-unpredictable.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/23/the-future-of-new-zealand-media-even-more-unpredictable/index.html
+layout: layout.njk
 ---
 The future of New Zealand media even more unpredictable
 =======================================================

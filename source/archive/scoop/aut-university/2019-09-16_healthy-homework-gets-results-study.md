@@ -1,9 +1,12 @@
 ---
 slug: healthy-homework-gets-results-study
-title: "Healthy homework gets results: study"
-date: 2019-09-16
-source-url: https://www.scoop.co.nz/stories/ED1909/S00045/healthy-homework-gets-results-study.htm
+title: 'Healthy homework gets results: study'
+date: 2019-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00045/healthy-homework-gets-results-study.htm
 author: aut-university
+permalink: /archive/2019/09/16/healthy-homework-gets-results-study/index.html
+layout: layout.njk
 ---
 Healthy homework gets results: study
 ====================================

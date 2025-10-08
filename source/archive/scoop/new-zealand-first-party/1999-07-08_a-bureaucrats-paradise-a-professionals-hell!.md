@@ -1,9 +1,12 @@
 ---
 slug: a-bureaucrats-paradise-a-professionals-hell!
-title: "A Bureaucrat's Paradise, A Professional's Hell!"
-date: 1999-07-08
-source-url: https://www.scoop.co.nz/stories/PA9907/S00120/a-bureaucrats-paradise-a-professionals-hell.htm
+title: A Bureaucrat's Paradise, A Professional's Hell!
+date: 1999-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00120/a-bureaucrats-paradise-a-professionals-hell.htm
 author: new-zealand-first-party
+permalink: /archive/1999/07/08/a-bureaucrats-paradise-a-professionals-hell/index.html
+layout: layout.njk
 ---
 A Bureaucrat's Paradise, A Professional's Hell!
 ===============================================

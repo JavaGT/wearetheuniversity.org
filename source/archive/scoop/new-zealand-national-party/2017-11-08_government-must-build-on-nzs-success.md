@@ -1,9 +1,12 @@
 ---
 slug: government-must-build-on-nzs-success
-title: "Government must build on NZ’s success"
-date: 2017-11-08
-source-url: https://www.scoop.co.nz/stories/PA1711/S00045/government-must-build-on-nzs-success.htm
+title: Government must build on NZ’s success
+date: 2017-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00045/government-must-build-on-nzs-success.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/08/government-must-build-on-nzs-success/index.html
+layout: layout.njk
 ---
 Government must build on NZ’s success
 =====================================

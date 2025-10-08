@@ -1,9 +1,12 @@
 ---
 slug: nz-first-product-development-study-launched
-title: "NZ-First Product Development Study Launched"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/ED0407/S00045/nz-first-product-development-study-launched.htm
+title: NZ-First Product Development Study Launched
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00045/nz-first-product-development-study-launched.htm
 author: massey-university
+permalink: /archive/2004/07/13/nz-first-product-development-study-launched/index.html
+layout: layout.njk
 ---
 NZ-First Product Development Study Launched
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: no-basis-for-three-waters-co-government-arrangement
-title: "No Basis For Three Waters Co-government Arrangement"
-date: 2023-05-02
-source-url: https://www.scoop.co.nz/stories/PA2305/S00014/no-basis-for-three-waters-co-government-arrangement.htm
+title: No Basis For Three Waters Co-government Arrangement
+date: 2023-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00014/no-basis-for-three-waters-co-government-arrangement.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/05/02/no-basis-for-three-waters-co-government-arrangement/index.html
+layout: layout.njk
 ---
 No Basis For Three Waters Co-government Arrangement
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: agrifood-sector-needs-rapid-response-group
-title: "Agrifood sector needs rapid response group"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/SC1505/S00086/agrifood-sector-needs-rapid-response-group.htm
+title: Agrifood sector needs rapid response group
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00086/agrifood-sector-needs-rapid-response-group.htm
 author: massey-university
+permalink: /archive/2015/05/27/agrifood-sector-needs-rapid-response-group/index.html
+layout: layout.njk
 ---
 Agrifood sector needs rapid response group
 ==========================================

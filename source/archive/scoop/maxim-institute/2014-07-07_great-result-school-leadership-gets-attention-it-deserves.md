@@ -1,9 +1,13 @@
 ---
 slug: great-result-school-leadership-gets-attention-it-deserves
-title: "Great Result: School Leadership Gets Attention It Deserves"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00038/great-result-school-leadership-gets-attention-it-deserves.htm
+title: 'Great Result: School Leadership Gets Attention It Deserves'
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00038/great-result-school-leadership-gets-attention-it-deserves.htm
 author: maxim-institute
+permalink: >-
+  /archive/2014/07/07/great-result-school-leadership-gets-attention-it-deserves/index.html
+layout: layout.njk
 ---
 Great Result: School Leadership Gets Attention It Deserves
 ==========================================================

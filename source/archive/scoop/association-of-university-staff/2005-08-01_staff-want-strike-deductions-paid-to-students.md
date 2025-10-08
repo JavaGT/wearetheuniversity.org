@@ -1,9 +1,12 @@
 ---
 slug: staff-want-strike-deductions-paid-to-students
-title: "Staff want strike deductions paid to students"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/ED0508/S00003/staff-want-strike-deductions-paid-to-students.htm
+title: Staff want strike deductions paid to students
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00003/staff-want-strike-deductions-paid-to-students.htm
 author: association-of-university-staff
+permalink: /archive/2005/08/01/staff-want-strike-deductions-paid-to-students/index.html
+layout: layout.njk
 ---
 Staff want strike deductions paid to students
 =============================================

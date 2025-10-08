@@ -1,9 +1,13 @@
 ---
 slug: lead-author-comments-on-the-ipccs-sixth-global-warming-report
-title: "Lead Author Comments On The IPCC’s Sixth Global Warming Report"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/SC2203/S00003/lead-author-comments-on-the-ipccs-sixth-global-warming-report.htm
+title: Lead Author Comments On The IPCC’s Sixth Global Warming Report
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00003/lead-author-comments-on-the-ipccs-sixth-global-warming-report.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/01/lead-author-comments-on-the-ipccs-sixth-global-warming-report/index.html
+layout: layout.njk
 ---
 Lead Author Comments On The IPCC’s Sixth Global Warming Report
 ==============================================================

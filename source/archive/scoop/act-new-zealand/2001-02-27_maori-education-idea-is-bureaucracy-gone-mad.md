@@ -1,9 +1,12 @@
 ---
 slug: maori-education-idea-is-bureaucracy-gone-mad
-title: "Maori Education Idea Is Bureaucracy Gone Mad"
-date: 2001-02-27
-source-url: https://www.scoop.co.nz/stories/PA0102/S00420/maori-education-idea-is-bureaucracy-gone-mad.htm
+title: Maori Education Idea Is Bureaucracy Gone Mad
+date: 2001-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00420/maori-education-idea-is-bureaucracy-gone-mad.htm
 author: act-new-zealand
+permalink: /archive/2001/02/27/maori-education-idea-is-bureaucracy-gone-mad/index.html
+layout: layout.njk
 ---
 Maori Education Idea Is Bureaucracy Gone Mad
 ============================================

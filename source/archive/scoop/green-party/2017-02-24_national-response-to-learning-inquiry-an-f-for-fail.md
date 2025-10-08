@@ -1,9 +1,13 @@
 ---
 slug: national-response-to-learning-inquiry-an-f-for-fail
-title: "National response to Learning Inquiry an F for fail"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/PA1702/S00340/national-response-to-learning-inquiry-an-f-for-fail.htm
+title: National response to Learning Inquiry an F for fail
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00340/national-response-to-learning-inquiry-an-f-for-fail.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/24/national-response-to-learning-inquiry-an-f-for-fail/index.html
+layout: layout.njk
 ---
 National response to Learning Inquiry an F for fail
 ===================================================

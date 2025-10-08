@@ -1,9 +1,13 @@
 ---
 slug: james-shaws-speech-at-the-green-party-2023-campaign-launch
-title: "James Shaw's Speech At The Green Party 2023 Campaign Launch"
-date: 2023-07-23
-source-url: https://www.scoop.co.nz/stories/PO2307/S00149/james-shaws-speech-at-the-green-party-2023-campaign-launch.htm
+title: James Shaw's Speech At The Green Party 2023 Campaign Launch
+date: 2023-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00149/james-shaws-speech-at-the-green-party-2023-campaign-launch.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/23/james-shaws-speech-at-the-green-party-2023-campaign-launch/index.html
+layout: layout.njk
 ---
 James Shaw's Speech At The Green Party 2023 Campaign Launch
 ===========================================================

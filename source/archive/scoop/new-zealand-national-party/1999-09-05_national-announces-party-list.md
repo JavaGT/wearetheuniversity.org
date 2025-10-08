@@ -1,9 +1,12 @@
 ---
 slug: national-announces-party-list
-title: "National Announces Party List"
-date: 1999-09-05
-source-url: https://www.scoop.co.nz/stories/PA9909/S00099/national-announces-party-list.htm
+title: National Announces Party List
+date: 1999-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00099/national-announces-party-list.htm
 author: new-zealand-national-party
+permalink: /archive/1999/09/05/national-announces-party-list/index.html
+layout: layout.njk
 ---
 National Announces Party List
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: secrecy-ends-for-uni-of-waikato-alumnus-with-xbox-one-unveil
-title: "Secrecy ends for Uni of Waikato alumnus with Xbox One Unveil"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/ED1307/S00066/secrecy-ends-for-uni-of-waikato-alumnus-with-xbox-one-unveil.htm
+title: Secrecy ends for Uni of Waikato alumnus with Xbox One Unveil
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00066/secrecy-ends-for-uni-of-waikato-alumnus-with-xbox-one-unveil.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/07/11/secrecy-ends-for-uni-of-waikato-alumnus-with-xbox-one-unveil/index.html
+layout: layout.njk
 ---
 Secrecy ends for Uni of Waikato alumnus with Xbox One Unveil
 ============================================================

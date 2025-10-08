@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-hnz-fronting-on-meth-testing-scandal
-title: "Green Party welcomes HNZ fronting on meth testing scandal"
-date: 2018-06-06
-source-url: https://www.scoop.co.nz/stories/PA1806/S00053/green-party-welcomes-hnz-fronting-on-meth-testing-scandal.htm
+title: Green Party welcomes HNZ fronting on meth testing scandal
+date: 2018-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00053/green-party-welcomes-hnz-fronting-on-meth-testing-scandal.htm
 author: green-party
+permalink: >-
+  /archive/2018/06/06/green-party-welcomes-hnz-fronting-on-meth-testing-scandal/index.html
+layout: layout.njk
 ---
 Green Party welcomes HNZ fronting on meth testing scandal
 =========================================================

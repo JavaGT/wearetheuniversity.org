@@ -1,9 +1,13 @@
 ---
 slug: strong-winds-failed-to-deter-the-student-volunteer-army
-title: "Strong winds failed to deter the Student Volunteer Army"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/AK1103/S00142/strong-winds-failed-to-deter-the-student-volunteer-army.htm
+title: Strong winds failed to deter the Student Volunteer Army
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00142/strong-winds-failed-to-deter-the-student-volunteer-army.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2011/03/03/strong-winds-failed-to-deter-the-student-volunteer-army/index.html
+layout: layout.njk
 ---
 Strong winds failed to deter the Student Volunteer Army
 =======================================================

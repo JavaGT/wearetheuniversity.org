@@ -1,9 +1,12 @@
 ---
 slug: bill-restoring-samoan-citizenship-progresses
-title: "Bill Restoring Samoan Citizenship Progresses"
-date: 2024-10-09
-source-url: https://www.scoop.co.nz/stories/PA2410/S00074/bill-restoring-samoan-citizenship-progresses.htm
+title: Bill Restoring Samoan Citizenship Progresses
+date: 2024-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00074/bill-restoring-samoan-citizenship-progresses.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/10/09/bill-restoring-samoan-citizenship-progresses/index.html
+layout: layout.njk
 ---
 Bill Restoring Samoan Citizenship Progresses
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: time-for-government-action-on-reducing-alcohol-related-harm
-title: "Time for Government action on reducing alcohol-related harm"
-date: 2018-07-27
-source-url: https://www.scoop.co.nz/stories/GE1807/S00122/time-for-government-action-on-reducing-alcohol-related-harm.htm
+title: Time for Government action on reducing alcohol-related harm
+date: 2018-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00122/time-for-government-action-on-reducing-alcohol-related-harm.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/27/time-for-government-action-on-reducing-alcohol-related-harm/index.html
+layout: layout.njk
 ---
 Time for Government action on reducing alcohol-related harm
 ===========================================================

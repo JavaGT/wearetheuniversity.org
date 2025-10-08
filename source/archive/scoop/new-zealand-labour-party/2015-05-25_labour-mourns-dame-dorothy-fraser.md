@@ -1,9 +1,12 @@
 ---
 slug: labour-mourns-dame-dorothy-fraser
-title: "Labour mourns Dame Dorothy Fraser"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/PA1505/S00452/labour-mourns-dame-dorothy-fraser.htm
+title: Labour mourns Dame Dorothy Fraser
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00452/labour-mourns-dame-dorothy-fraser.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/25/labour-mourns-dame-dorothy-fraser/index.html
+layout: layout.njk
 ---
 Labour mourns Dame Dorothy Fraser
 =================================

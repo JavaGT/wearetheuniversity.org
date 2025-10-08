@@ -1,9 +1,12 @@
 ---
 slug: kang-disadvantaged-now-as-a-māori-party-candidat
-title: "Kang disadvantaged now as a Māori Party candidat"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PO1709/S00218/kang-disadvantaged-now-as-a-maori-party-candidat.htm
+title: Kang disadvantaged now as a Māori Party candidat
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00218/kang-disadvantaged-now-as-a-maori-party-candidat.htm
 author: te-pati-maori
+permalink: /archive/2017/09/12/kang-disadvantaged-now-as-a-m/index.html
+layout: layout.njk
 ---
 Kang disadvantaged now as a Māori Party candidat
 ================================================

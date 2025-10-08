@@ -1,9 +1,12 @@
 ---
 slug: getting-comfortable-with-māori-cultural-practices
-title: "Getting comfortable with Māori cultural practices"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/CU1308/S00087/getting-comfortable-with-maori-cultural-practices.htm
+title: Getting comfortable with Māori cultural practices
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00087/getting-comfortable-with-maori-cultural-practices.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/06/getting-comfortable-with-m/index.html
+layout: layout.njk
 ---
 Getting comfortable with Māori cultural practices
 =================================================

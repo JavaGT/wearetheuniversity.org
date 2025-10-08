@@ -1,9 +1,12 @@
 ---
 slug: figures-teenagers-straight-from-school-to-dole
-title: "Figures - Teenagers Straight From School To Dole"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PA0004/S00213/figures-teenagers-straight-from-school-to-dole.htm
+title: Figures - Teenagers Straight From School To Dole
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00213/figures-teenagers-straight-from-school-to-dole.htm
 author: act-new-zealand
+permalink: /archive/2000/04/17/figures-teenagers-straight-from-school-to-dole/index.html
+layout: layout.njk
 ---
 Figures - Teenagers Straight From School To Dole
 ================================================

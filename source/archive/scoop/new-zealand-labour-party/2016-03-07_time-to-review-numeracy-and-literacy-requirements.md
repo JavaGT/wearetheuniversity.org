@@ -1,9 +1,13 @@
 ---
 slug: time-to-review-numeracy-and-literacy-requirements
-title: "Time to review numeracy and literacy requirements"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/PO1603/S00094/time-to-review-numeracy-and-literacy-requirements.htm
+title: Time to review numeracy and literacy requirements
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00094/time-to-review-numeracy-and-literacy-requirements.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/07/time-to-review-numeracy-and-literacy-requirements/index.html
+layout: layout.njk
 ---
 Time to review numeracy and literacy requirements
 =================================================

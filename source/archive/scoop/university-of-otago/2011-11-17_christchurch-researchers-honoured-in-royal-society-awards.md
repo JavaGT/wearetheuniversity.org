@@ -1,9 +1,13 @@
 ---
 slug: christchurch-researchers-honoured-in-royal-society-awards
-title: "Christchurch researchers honoured in Royal Society awards"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/ED1111/S00110/christchurch-researchers-honoured-in-royal-society-awards.htm
+title: Christchurch researchers honoured in Royal Society awards
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00110/christchurch-researchers-honoured-in-royal-society-awards.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/17/christchurch-researchers-honoured-in-royal-society-awards/index.html
+layout: layout.njk
 ---
 Christchurch researchers honoured in Royal Society awards
 =========================================================

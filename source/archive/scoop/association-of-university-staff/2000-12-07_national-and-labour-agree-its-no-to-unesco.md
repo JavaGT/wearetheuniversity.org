@@ -1,9 +1,12 @@
 ---
 slug: national-and-labour-agree-its-no-to-unesco
-title: "NATIONAL AND LABOUR AGREE - ITS \"NO\" TO UNESCO"
-date: 2000-12-07
-source-url: https://www.scoop.co.nz/stories/ED0012/S00005/national-and-labour-agree-its-no-to-unesco.htm
+title: NATIONAL AND LABOUR AGREE - ITS "NO" TO UNESCO
+date: 2000-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00005/national-and-labour-agree-its-no-to-unesco.htm
 author: association-of-university-staff
+permalink: /archive/2000/12/07/national-and-labour-agree-its-no-to-unesco/index.html
+layout: layout.njk
 ---
 NATIONAL AND LABOUR AGREE - ITS "NO" TO UNESCO
 ==============================================

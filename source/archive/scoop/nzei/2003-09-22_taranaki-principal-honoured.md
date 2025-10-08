@@ -1,9 +1,11 @@
 ---
 slug: taranaki-principal-honoured
-title: "Taranaki Principal Honoured"
-date: 2003-09-22
+title: Taranaki Principal Honoured
+date: 2003-09-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00094/taranaki-principal-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/taranaki-principal-honoured/index.html
+layout: layout.njk
 ---
 Taranaki Principal Honoured
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-to-launch-young-voters-app-next-week
-title: "Canterbury student to launch young voters’ app next week"
-date: 2014-08-17
-source-url: https://www.scoop.co.nz/stories/PO1408/S00260/canterbury-student-to-launch-young-voters-app-next-week.htm
+title: Canterbury student to launch young voters’ app next week
+date: 2014-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00260/canterbury-student-to-launch-young-voters-app-next-week.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/17/canterbury-student-to-launch-young-voters-app-next-week/index.html
+layout: layout.njk
 ---
 Canterbury student to launch young voters’ app next week
 ========================================================

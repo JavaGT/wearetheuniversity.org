@@ -1,9 +1,12 @@
 ---
 slug: government-at-odds-on-overseas-driver-crashes
-title: "Government at odds on overseas driver crashes"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PA1502/S00327/government-at-odds-on-overseas-driver-crashes.htm
+title: Government at odds on overseas driver crashes
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00327/government-at-odds-on-overseas-driver-crashes.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/25/government-at-odds-on-overseas-driver-crashes/index.html
+layout: layout.njk
 ---
 Government at odds on overseas driver crashes
 =============================================

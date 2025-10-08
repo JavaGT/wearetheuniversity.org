@@ -1,9 +1,12 @@
 ---
 slug: $90m-flyover-for-90-seconds-doesnt-add-up
-title: "$90m flyover for 90 seconds doesn’t add up"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/PA1402/S00088/90m-flyover-for-90-seconds-doesnt-add-up.htm
+title: $90m flyover for 90 seconds doesn’t add up
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00088/90m-flyover-for-90-seconds-doesnt-add-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/10/90m-flyover-for-90-seconds-doesn-t-add-up/index.html
+layout: layout.njk
 ---
 $90m flyover for 90 seconds doesn’t add up
 ==========================================

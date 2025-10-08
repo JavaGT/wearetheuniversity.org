@@ -1,9 +1,12 @@
 ---
 slug: builders-&-homeowners-need-answers-on-t1-2-timber
-title: "Builders & homeowners need answers on T1.2 timber"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00260/builders-homeowners-need-answers-on-t12-timber.htm
+title: Builders & homeowners need answers on T1.2 timber
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00260/builders-homeowners-need-answers-on-t12-timber.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/10/builders-/index.html
+layout: layout.njk
 ---
 Builders & homeowners need answers on T1.2 timber
 =================================================

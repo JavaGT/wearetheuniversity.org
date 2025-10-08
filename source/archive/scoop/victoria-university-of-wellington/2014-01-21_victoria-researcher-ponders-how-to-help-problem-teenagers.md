@@ -1,9 +1,13 @@
 ---
 slug: victoria-researcher-ponders-how-to-help-problem-teenagers
-title: "Victoria researcher ponders how to help problem teenagers"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/CU1401/S00341/victoria-researcher-ponders-how-to-help-problem-teenagers.htm
+title: Victoria researcher ponders how to help problem teenagers
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00341/victoria-researcher-ponders-how-to-help-problem-teenagers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/01/21/victoria-researcher-ponders-how-to-help-problem-teenagers/index.html
+layout: layout.njk
 ---
 Victoria researcher ponders how to help problem teenagers
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-ministers-sell-out-maori-students-education
-title: "Maori Ministers sell-out Maori students education"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00248/maori-ministers-sell-out-maori-students-education.htm
+title: Maori Ministers sell-out Maori students education
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00248/maori-ministers-sell-out-maori-students-education.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/06/17/maori-ministers-sell-out-maori-students-education/index.html
+layout: layout.njk
 ---
 Maori Ministers sell-out Maori students education
 =================================================

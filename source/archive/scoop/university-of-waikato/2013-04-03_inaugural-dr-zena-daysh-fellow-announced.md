@@ -1,9 +1,12 @@
 ---
 slug: inaugural-dr-zena-daysh-fellow-announced
-title: "Inaugural Dr Zena Daysh Fellow announced"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/ED1304/S00009/inaugural-dr-zena-daysh-fellow-announced.htm
+title: Inaugural Dr Zena Daysh Fellow announced
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00009/inaugural-dr-zena-daysh-fellow-announced.htm
 author: university-of-waikato
+permalink: /archive/2013/04/03/inaugural-dr-zena-daysh-fellow-announced/index.html
+layout: layout.njk
 ---
 Inaugural Dr Zena Daysh Fellow announced
 ========================================

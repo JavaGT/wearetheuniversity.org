@@ -1,9 +1,13 @@
 ---
 slug: nz-maple-syrup-mission-taps-into-hi-tech-imaging
-title: "NZ Maple Syrup Mission Taps Into Hi-tech Imaging"
-date: 2023-05-17
-source-url: https://www.scoop.co.nz/stories/BU2305/S00272/nz-maple-syrup-mission-taps-into-hi-tech-imaging.htm
+title: NZ Maple Syrup Mission Taps Into Hi-tech Imaging
+date: 2023-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2305/S00272/nz-maple-syrup-mission-taps-into-hi-tech-imaging.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/17/nz-maple-syrup-mission-taps-into-hi-tech-imaging/index.html
+layout: layout.njk
 ---
 NZ Maple Syrup Mission Taps Into Hi-tech Imaging
 ================================================

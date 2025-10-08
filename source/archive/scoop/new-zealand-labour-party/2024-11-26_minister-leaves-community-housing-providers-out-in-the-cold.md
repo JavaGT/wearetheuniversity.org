@@ -1,9 +1,13 @@
 ---
 slug: minister-leaves-community-housing-providers-out-in-the-cold
-title: "Minister Leaves Community Housing Providers Out In The Cold"
-date: 2024-11-26
-source-url: https://www.scoop.co.nz/stories/PA2411/S00208/minister-leaves-community-housing-providers-out-in-the-cold.htm
+title: Minister Leaves Community Housing Providers Out In The Cold
+date: 2024-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00208/minister-leaves-community-housing-providers-out-in-the-cold.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/26/minister-leaves-community-housing-providers-out-in-the-cold/index.html
+layout: layout.njk
 ---
 Minister Leaves Community Housing Providers Out In The Cold
 ===========================================================

@@ -1,9 +1,11 @@
 ---
 slug: a-challenge-to-bill-english
-title: "A challenge to Bill English"
-date: 2017-09-14
+title: A challenge to Bill English
+date: 2017-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1709/S00250/a-challenge-to-bill-english.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/14/a-challenge-to-bill-english/index.html
+layout: layout.njk
 ---
 A challenge to Bill English
 ===========================

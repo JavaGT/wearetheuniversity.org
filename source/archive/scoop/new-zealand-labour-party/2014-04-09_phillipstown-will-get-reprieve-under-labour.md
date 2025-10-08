@@ -1,9 +1,12 @@
 ---
 slug: phillipstown-will-get-reprieve-under-labour
-title: "Phillipstown will get reprieve under Labour"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00139/phillipstown-will-get-reprieve-under-labour.htm
+title: Phillipstown will get reprieve under Labour
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00139/phillipstown-will-get-reprieve-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/09/phillipstown-will-get-reprieve-under-labour/index.html
+layout: layout.njk
 ---
 Phillipstown will get reprieve under Labour
 ===========================================

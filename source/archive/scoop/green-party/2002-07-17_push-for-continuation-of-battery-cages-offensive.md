@@ -1,9 +1,13 @@
 ---
 slug: push-for-continuation-of-battery-cages-offensive
-title: "Push For Continuation Of Battery Cages Offensive"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/PA0207/S00448/push-for-continuation-of-battery-cages-offensive.htm
+title: Push For Continuation Of Battery Cages Offensive
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00448/push-for-continuation-of-battery-cages-offensive.htm
 author: green-party
+permalink: >-
+  /archive/2002/07/17/push-for-continuation-of-battery-cages-offensive/index.html
+layout: layout.njk
 ---
 Push For Continuation Of Battery Cages Offensive
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: high-hopes-for-new-china-research-centre
-title: "High hopes for new China Research Centre"
-date: 2009-02-26
-source-url: https://www.scoop.co.nz/stories/ED0902/S00097/high-hopes-for-new-china-research-centre.htm
+title: High hopes for new China Research Centre
+date: 2009-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00097/high-hopes-for-new-china-research-centre.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/26/high-hopes-for-new-china-research-centre/index.html
+layout: layout.njk
 ---
 High hopes for new China Research Centre
 ========================================

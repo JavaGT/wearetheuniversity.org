@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-boasts-world-class-research
-title: "Waikato Uni boasts world-class research"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00070/waikato-uni-boasts-world-class-research.htm
+title: Waikato Uni boasts world-class research
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00070/waikato-uni-boasts-world-class-research.htm
 author: university-of-waikato
+permalink: /archive/2013/04/12/waikato-uni-boasts-world-class-research/index.html
+layout: layout.njk
 ---
 Waikato Uni boasts world-class research
 =======================================

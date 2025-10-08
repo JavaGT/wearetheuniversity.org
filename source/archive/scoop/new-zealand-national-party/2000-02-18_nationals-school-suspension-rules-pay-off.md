@@ -1,9 +1,12 @@
 ---
 slug: nationals-school-suspension-rules-pay-off
-title: "National's school suspension rules pay off"
-date: 2000-02-18
-source-url: https://www.scoop.co.nz/stories/PA0002/S00257/nationals-school-suspension-rules-pay-off.htm
+title: National's school suspension rules pay off
+date: 2000-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00257/nationals-school-suspension-rules-pay-off.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/18/nationals-school-suspension-rules-pay-off/index.html
+layout: layout.njk
 ---
 National's school suspension rules pay off
 ==========================================

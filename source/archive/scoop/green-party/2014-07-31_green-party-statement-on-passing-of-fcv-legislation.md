@@ -1,9 +1,13 @@
 ---
 slug: green-party-statement-on-passing-of-fcv-legislation
-title: "Green Party statement on passing of FCV legislation"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/PA1407/S00642/green-party-statement-on-passing-of-fcv-legislation.htm
+title: Green Party statement on passing of FCV legislation
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00642/green-party-statement-on-passing-of-fcv-legislation.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/31/green-party-statement-on-passing-of-fcv-legislation/index.html
+layout: layout.njk
 ---
 Green Party statement on passing of FCV legislation
 ===================================================

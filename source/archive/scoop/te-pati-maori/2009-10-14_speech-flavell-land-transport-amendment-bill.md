@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-land-transport-amendment-bill
-title: "Speech: Flavell - Land Transport Amendment Bill"
-date: 2009-10-14
-source-url: https://www.scoop.co.nz/stories/PA0910/S00152/speech-flavell-land-transport-amendment-bill.htm
+title: 'Speech: Flavell - Land Transport Amendment Bill'
+date: 2009-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00152/speech-flavell-land-transport-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/10/14/speech-flavell-land-transport-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Land Transport Amendment Bill
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: rural-leaders-programme-fosters-young-farmer-talent
-title: "Rural leaders programme fosters Young Farmer talent"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/ED1305/S00090/rural-leaders-programme-fosters-young-farmer-talent.htm
+title: Rural leaders programme fosters Young Farmer talent
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00090/rural-leaders-programme-fosters-young-farmer-talent.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/05/15/rural-leaders-programme-fosters-young-farmer-talent/index.html
+layout: layout.njk
 ---
 Rural leaders programme fosters Young Farmer talent
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: some-in-national-want-act-to-disappear
-title: "Some In National Want ACT To Disappear"
-date: 2004-06-01
-source-url: https://www.scoop.co.nz/stories/PA0406/S00006/some-in-national-want-act-to-disappear.htm
+title: Some In National Want ACT To Disappear
+date: 2004-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00006/some-in-national-want-act-to-disappear.htm
 author: act-new-zealand
+permalink: /archive/2004/06/01/some-in-national-want-act-to-disappear/index.html
+layout: layout.njk
 ---
 Some In National Want ACT To Disappear
 ======================================

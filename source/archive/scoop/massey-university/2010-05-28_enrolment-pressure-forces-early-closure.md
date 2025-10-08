@@ -1,9 +1,12 @@
 ---
 slug: enrolment-pressure-forces-early-closure
-title: "Enrolment pressure forces early closure"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/ED1005/S00141/enrolment-pressure-forces-early-closure.htm
+title: Enrolment pressure forces early closure
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00141/enrolment-pressure-forces-early-closure.htm
 author: massey-university
+permalink: /archive/2010/05/28/enrolment-pressure-forces-early-closure/index.html
+layout: layout.njk
 ---
 Enrolment pressure forces early closure
 =======================================

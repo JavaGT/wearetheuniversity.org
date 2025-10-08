@@ -1,9 +1,12 @@
 ---
 slug: taking-theatre-into-the-workplace
-title: "Taking theatre into the workplace"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/ED1307/S00052/taking-theatre-into-the-workplace.htm
+title: Taking theatre into the workplace
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00052/taking-theatre-into-the-workplace.htm
 author: massey-university
+permalink: /archive/2013/07/10/taking-theatre-into-the-workplace/index.html
+layout: layout.njk
 ---
 Taking theatre into the workplace
 =================================

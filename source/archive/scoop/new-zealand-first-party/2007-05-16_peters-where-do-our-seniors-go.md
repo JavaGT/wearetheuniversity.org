@@ -1,9 +1,12 @@
 ---
 slug: peters-where-do-our-seniors-go
-title: "Peters: Where Do Our Seniors Go?"
-date: 2007-05-16
-source-url: https://www.scoop.co.nz/stories/PA0705/S00383/peters-where-do-our-seniors-go.htm
+title: 'Peters: Where Do Our Seniors Go?'
+date: 2007-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00383/peters-where-do-our-seniors-go.htm
 author: new-zealand-first-party
+permalink: /archive/2007/05/16/peters-where-do-our-seniors-go/index.html
+layout: layout.njk
 ---
 Peters: Where Do Our Seniors Go?
 ================================

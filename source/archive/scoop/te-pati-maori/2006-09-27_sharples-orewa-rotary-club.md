@@ -1,9 +1,11 @@
 ---
 slug: sharples-orewa-rotary-club
-title: "Sharples: Orewa Rotary Club"
-date: 2006-09-27
+title: 'Sharples: Orewa Rotary Club'
+date: 2006-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00578/sharples-orewa-rotary-club.htm
 author: te-pati-maori
+permalink: /archive/2006/09/27/sharples-orewa-rotary-club/index.html
+layout: layout.njk
 ---
 Sharples: Orewa Rotary Club
 ===========================

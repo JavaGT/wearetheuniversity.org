@@ -1,9 +1,13 @@
 ---
 slug: government-ignores-earthquake-in-defence-announcement
-title: "Government Ignores Earthquake in Defence Announcement"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/PA1611/S00301/government-ignores-earthquake-in-defence-announcement.htm
+title: Government Ignores Earthquake in Defence Announcement
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00301/government-ignores-earthquake-in-defence-announcement.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/17/government-ignores-earthquake-in-defence-announcement/index.html
+layout: layout.njk
 ---
 Government Ignores Earthquake in Defence Announcement
 =====================================================

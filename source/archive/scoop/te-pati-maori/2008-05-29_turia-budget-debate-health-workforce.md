@@ -1,9 +1,12 @@
 ---
 slug: turia-budget-debate-health-workforce
-title: "Turia: Budget Debate- Health Workforce"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/PA0805/S00597/turia-budget-debate-health-workforce.htm
+title: 'Turia: Budget Debate- Health Workforce'
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00597/turia-budget-debate-health-workforce.htm
 author: te-pati-maori
+permalink: /archive/2008/05/29/turia-budget-debate-health-workforce/index.html
+layout: layout.njk
 ---
 Turia: Budget Debate- Health Workforce
 ======================================

@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-no-54
-title: "News Worthy No. 54"
-date: 2005-11-18
+title: News Worthy No. 54
+date: 2005-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00269/news-worthy-no-54.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/18/news-worthy-no-54/index.html
+layout: layout.njk
 ---
 News Worthy No. 54
 ==================

@@ -1,9 +1,12 @@
 ---
 slug: national-fails-lifelong-learners
-title: "National fails lifelong learners"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00336/national-fails-lifelong-learners.htm
+title: National fails lifelong learners
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00336/national-fails-lifelong-learners.htm
 author: green-party
+permalink: /archive/2013/05/16/national-fails-lifelong-learners/index.html
+layout: layout.njk
 ---
 National fails lifelong learners
 ================================

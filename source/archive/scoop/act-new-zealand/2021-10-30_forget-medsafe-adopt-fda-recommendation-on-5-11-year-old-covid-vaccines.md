@@ -1,9 +1,13 @@
 ---
 slug: forget-medsafe-adopt-fda-recommendation-on-5-11-year-old-covid-vaccines
-title: "Forget Medsafe, Adopt FDA Recommendation On 5–11-year-old COVID Vaccines"
-date: 2021-10-30
-source-url: https://www.scoop.co.nz/stories/PA2110/S00316/forget-medsafe-adopt-fda-recommendation-on-5-11-year-old-covid-vaccines.htm
+title: Forget Medsafe, Adopt FDA Recommendation On 5–11-year-old COVID Vaccines
+date: 2021-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00316/forget-medsafe-adopt-fda-recommendation-on-5-11-year-old-covid-vaccines.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/10/30/forget-medsafe-adopt-fda-recommendation-on-5-11-year-old-covid-vaccines/index.html
+layout: layout.njk
 ---
 Forget Medsafe, Adopt FDA Recommendation On 5–11-year-old COVID Vaccines
 ========================================================================

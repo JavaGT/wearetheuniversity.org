@@ -1,9 +1,12 @@
 ---
 slug: students-applaud-prostitution-law-reform
-title: "Students applaud prostitution law reform"
-date: 2003-06-26
-source-url: https://www.scoop.co.nz/stories/PO0306/S00168/students-applaud-prostitution-law-reform.htm
+title: Students applaud prostitution law reform
+date: 2003-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0306/S00168/students-applaud-prostitution-law-reform.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/06/26/students-applaud-prostitution-law-reform/index.html
+layout: layout.njk
 ---
 Students applaud prostitution law reform
 ========================================

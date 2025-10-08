@@ -1,9 +1,12 @@
 ---
 slug: a-coalition-of-broken-promises
-title: "A Coalition Of Broken Promises"
-date: 1999-12-06
-source-url: https://www.scoop.co.nz/stories/PO9912/S00008/a-coalition-of-broken-promises.htm
+title: A Coalition Of Broken Promises
+date: 1999-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9912/S00008/a-coalition-of-broken-promises.htm
 author: prebble-s-rebels
+permalink: /archive/1999/12/06/a-coalition-of-broken-promises/index.html
+layout: layout.njk
 ---
 A Coalition Of Broken Promises
 ==============================

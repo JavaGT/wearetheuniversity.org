@@ -1,9 +1,13 @@
 ---
 slug: representation-in-a-democracy-is-a-basic-human-right
-title: "Representation in a democracy is a basic human right"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00248/representation-in-a-democracy-is-a-basic-human-right.htm
+title: Representation in a democracy is a basic human right
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00248/representation-in-a-democracy-is-a-basic-human-right.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/06/18/representation-in-a-democracy-is-a-basic-human-right/index.html
+layout: layout.njk
 ---
 Representation in a democracy is a basic human right
 ====================================================

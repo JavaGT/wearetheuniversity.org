@@ -1,9 +1,13 @@
 ---
 slug: ministry-must-not-drop-the-ball-on-school-staffing
-title: "Ministry Must Not Drop The Ball On School Staffing"
-date: 2008-05-14
-source-url: https://www.scoop.co.nz/stories/ED0805/S00044/ministry-must-not-drop-the-ball-on-school-staffing.htm
+title: Ministry Must Not Drop The Ball On School Staffing
+date: 2008-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00044/ministry-must-not-drop-the-ball-on-school-staffing.htm
 author: nzei
+permalink: >-
+  /archive/2008/05/14/ministry-must-not-drop-the-ball-on-school-staffing/index.html
+layout: layout.njk
 ---
 Ministry Must Not Drop The Ball On School Staffing
 ==================================================

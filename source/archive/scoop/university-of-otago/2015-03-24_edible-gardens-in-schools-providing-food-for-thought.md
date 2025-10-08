@@ -1,9 +1,13 @@
 ---
 slug: edible-gardens-in-schools-providing-food-for-thought
-title: "Edible gardens in schools providing food for thought"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/GE1503/S00096/edible-gardens-in-schools-providing-food-for-thought.htm
+title: Edible gardens in schools providing food for thought
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1503/S00096/edible-gardens-in-schools-providing-food-for-thought.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/24/edible-gardens-in-schools-providing-food-for-thought/index.html
+layout: layout.njk
 ---
 Edible gardens in schools providing food for thought
 ====================================================

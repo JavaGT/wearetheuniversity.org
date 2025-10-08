@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-65
-title: "Maxim Institute - real issues - No. 65"
-date: 2003-05-29
-source-url: https://www.scoop.co.nz/stories/PO0305/S00261/maxim-institute-real-issues-no-65.htm
+title: Maxim Institute - real issues - No. 65
+date: 2003-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0305/S00261/maxim-institute-real-issues-no-65.htm
 author: maxim-institute
+permalink: /archive/2003/05/29/maxim-institute-real-issues-no-65/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 65
 ======================================

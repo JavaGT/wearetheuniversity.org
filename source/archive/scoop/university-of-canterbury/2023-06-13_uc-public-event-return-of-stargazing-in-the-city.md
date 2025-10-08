@@ -1,9 +1,13 @@
 ---
 slug: uc-public-event-return-of-stargazing-in-the-city
-title: "UC Public Event: Return Of Stargazing In The City"
-date: 2023-06-13
-source-url: https://www.scoop.co.nz/stories/SC2306/S00021/uc-public-event-return-of-stargazing-in-the-city.htm
+title: 'UC Public Event: Return Of Stargazing In The City'
+date: 2023-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2306/S00021/uc-public-event-return-of-stargazing-in-the-city.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/06/13/uc-public-event-return-of-stargazing-in-the-city/index.html
+layout: layout.njk
 ---
 UC Public Event: Return Of Stargazing In The City
 =================================================

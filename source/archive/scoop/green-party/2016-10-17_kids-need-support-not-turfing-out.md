@@ -1,9 +1,12 @@
 ---
 slug: kids-need-support-not-turfing-out
-title: "Kids need support, not turfing out"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/PA1610/S00234/kids-need-support-not-turfing-out.htm
+title: Kids need support, not turfing out
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00234/kids-need-support-not-turfing-out.htm
 author: green-party
+permalink: /archive/2016/10/17/kids-need-support-not-turfing-out/index.html
+layout: layout.njk
 ---
 Kids need support, not turfing out
 ==================================

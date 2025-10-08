@@ -1,9 +1,12 @@
 ---
 slug: shapeshifter-to-headline-event
-title: "Shapeshifter To Headline Event"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/CU0701/S00066/shapeshifter-to-headline-event.htm
+title: Shapeshifter To Headline Event
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00066/shapeshifter-to-headline-event.htm
 author: aut-university
+permalink: /archive/2007/01/15/shapeshifter-to-headline-event/index.html
+layout: layout.njk
 ---
 Shapeshifter To Headline Event
 ==============================

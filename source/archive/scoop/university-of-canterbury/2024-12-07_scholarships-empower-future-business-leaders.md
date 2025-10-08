@@ -1,9 +1,12 @@
 ---
 slug: scholarships-empower-future-business-leaders
-title: "Scholarships Empower Future Business Leaders"
-date: 2024-12-07
-source-url: https://www.scoop.co.nz/stories/ED2412/S00017/scholarships-empower-future-business-leaders.htm
+title: Scholarships Empower Future Business Leaders
+date: 2024-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2412/S00017/scholarships-empower-future-business-leaders.htm
 author: university-of-canterbury
+permalink: /archive/2024/12/07/scholarships-empower-future-business-leaders/index.html
+layout: layout.njk
 ---
 Scholarships Empower Future Business Leaders
 ============================================

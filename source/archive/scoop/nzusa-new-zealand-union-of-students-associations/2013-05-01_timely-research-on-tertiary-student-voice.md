@@ -1,9 +1,12 @@
 ---
 slug: timely-research-on-tertiary-student-voice
-title: "Timely Research On Tertiary Student Voice"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/ED1305/S00001/timely-research-on-tertiary-student-voice.htm
+title: Timely Research On Tertiary Student Voice
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00001/timely-research-on-tertiary-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/05/01/timely-research-on-tertiary-student-voice/index.html
+layout: layout.njk
 ---
 Timely Research On Tertiary Student Voice
 =========================================

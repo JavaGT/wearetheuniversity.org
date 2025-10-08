@@ -1,9 +1,12 @@
 ---
 slug: labours-lies-painted-up-as-promise-of-pay-rise
-title: "Labour's Lies Painted Up As Promise Of Pay-Rise"
-date: 2007-08-16
-source-url: https://www.scoop.co.nz/stories/PA0708/S00287/labours-lies-painted-up-as-promise-of-pay-rise.htm
+title: Labour's Lies Painted Up As Promise Of Pay-Rise
+date: 2007-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00287/labours-lies-painted-up-as-promise-of-pay-rise.htm
 author: te-pati-maori
+permalink: /archive/2007/08/16/labours-lies-painted-up-as-promise-of-pay-rise/index.html
+layout: layout.njk
 ---
 Labour's Lies Painted Up As Promise Of Pay-Rise
 ===============================================

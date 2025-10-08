@@ -1,9 +1,12 @@
 ---
 slug: don-brashs-sexist-attitude-unacceptable
-title: "Don Brash’s sexist attitude unacceptable"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/ED0508/S00104/don-brashs-sexist-attitude-unacceptable.htm
+title: Don Brash’s sexist attitude unacceptable
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00104/don-brashs-sexist-attitude-unacceptable.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/08/24/don-brashs-sexist-attitude-unacceptable/index.html
+layout: layout.njk
 ---
 Don Brash’s sexist attitude unacceptable
 ========================================

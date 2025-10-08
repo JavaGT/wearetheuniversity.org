@@ -1,9 +1,12 @@
 ---
 slug: act-biggest-gainer-with-chinese-voters
-title: "ACT Biggest Gainer With Chinese Voters"
-date: 2020-08-26
-source-url: https://www.scoop.co.nz/stories/PA2008/S00204/act-biggest-gainer-with-chinese-voters.htm
+title: ACT Biggest Gainer With Chinese Voters
+date: 2020-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00204/act-biggest-gainer-with-chinese-voters.htm
 author: act-new-zealand
+permalink: /archive/2020/08/26/act-biggest-gainer-with-chinese-voters/index.html
+layout: layout.njk
 ---
 ACT Biggest Gainer With Chinese Voters
 ======================================

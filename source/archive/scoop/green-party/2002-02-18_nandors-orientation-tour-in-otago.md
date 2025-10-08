@@ -1,9 +1,12 @@
 ---
 slug: nandors-orientation-tour-in-otago
-title: "Nandor's orientation tour in Otago"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/PA0202/S00247/nandors-orientation-tour-in-otago.htm
+title: Nandor's orientation tour in Otago
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00247/nandors-orientation-tour-in-otago.htm
 author: green-party
+permalink: /archive/2002/02/18/nandors-orientation-tour-in-otago/index.html
+layout: layout.njk
 ---
 Nandor's orientation tour in Otago
 ==================================

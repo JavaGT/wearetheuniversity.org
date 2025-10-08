@@ -1,9 +1,12 @@
 ---
 slug: council-building-levies-could-be-detrimental
-title: "Council Building Levies Could Be Detrimental"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/PA0412/S00441/council-building-levies-could-be-detrimental.htm
+title: Council Building Levies Could Be Detrimental
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00441/council-building-levies-could-be-detrimental.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/16/council-building-levies-could-be-detrimental/index.html
+layout: layout.njk
 ---
 Council Building Levies Could Be Detrimental
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: enviroschools-future-focus-the-way-forward-says-flavell
-title: "Enviroschools \"future focus\" the way forward says Flavell"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/PA1205/S00171/enviroschools-future-focus-the-way-forward-says-flavell.htm
+title: Enviroschools "future focus" the way forward says Flavell
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00171/enviroschools-future-focus-the-way-forward-says-flavell.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/05/10/enviroschools-future-focus-the-way-forward-says-flavell/index.html
+layout: layout.njk
 ---
 Enviroschools “future focus” the way forward says Flavell
 =========================================================

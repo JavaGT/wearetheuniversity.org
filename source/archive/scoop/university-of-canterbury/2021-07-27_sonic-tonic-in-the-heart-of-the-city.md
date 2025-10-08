@@ -1,9 +1,12 @@
 ---
 slug: sonic-tonic-in-the-heart-of-the-city
-title: "Sonic Tonic In The Heart Of The City"
-date: 2021-07-27
-source-url: https://www.scoop.co.nz/stories/CU2107/S00183/sonic-tonic-in-the-heart-of-the-city.htm
+title: Sonic Tonic In The Heart Of The City
+date: 2021-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2107/S00183/sonic-tonic-in-the-heart-of-the-city.htm
 author: university-of-canterbury
+permalink: /archive/2021/07/27/sonic-tonic-in-the-heart-of-the-city/index.html
+layout: layout.njk
 ---
 Sonic Tonic In The Heart Of The City
 ====================================

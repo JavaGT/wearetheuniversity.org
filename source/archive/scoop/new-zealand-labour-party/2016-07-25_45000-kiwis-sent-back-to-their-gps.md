@@ -1,9 +1,12 @@
 ---
 slug: 45000-kiwis-sent-back-to-their-gps
-title: "45,000 Kiwis sent back to their GPs"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00328/45000-kiwis-sent-back-to-their-gps.htm
+title: 45,000 Kiwis sent back to their GPs
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00328/45000-kiwis-sent-back-to-their-gps.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/25/45000-kiwis-sent-back-to-their-gps/index.html
+layout: layout.njk
 ---
 45,000 Kiwis sent back to their GPs
 ===================================

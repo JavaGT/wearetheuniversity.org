@@ -1,9 +1,12 @@
 ---
 slug: instant-graduate-display-too-good-to-resist
-title: "Instant graduate display too good to resist"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/ED0808/S00057/instant-graduate-display-too-good-to-resist.htm
+title: Instant graduate display too good to resist
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00057/instant-graduate-display-too-good-to-resist.htm
 author: massey-university
+permalink: /archive/2008/08/21/instant-graduate-display-too-good-to-resist/index.html
+layout: layout.njk
 ---
 Instant graduate display too good to resist
 ===========================================

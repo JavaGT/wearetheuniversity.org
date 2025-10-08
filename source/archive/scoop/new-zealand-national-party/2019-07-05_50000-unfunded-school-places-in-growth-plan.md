@@ -1,9 +1,12 @@
 ---
 slug: 50000-unfunded-school-places-in-growth-plan
-title: "50,000 unfunded school places in growth plan"
-date: 2019-07-05
-source-url: https://www.scoop.co.nz/stories/PA1907/S00049/50000-unfunded-school-places-in-growth-plan.htm
+title: 50,000 unfunded school places in growth plan
+date: 2019-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00049/50000-unfunded-school-places-in-growth-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/05/50000-unfunded-school-places-in-growth-plan/index.html
+layout: layout.njk
 ---
 50,000 unfunded school places in growth plan
 ============================================

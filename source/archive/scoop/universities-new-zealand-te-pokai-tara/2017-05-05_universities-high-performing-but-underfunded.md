@@ -1,9 +1,12 @@
 ---
 slug: universities-high-performing-but-underfunded
-title: "Universities high performing but underfunded"
-date: 2017-05-05
-source-url: https://www.scoop.co.nz/stories/ED1705/S00029/universities-high-performing-but-underfunded.htm
+title: Universities high performing but underfunded
+date: 2017-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00029/universities-high-performing-but-underfunded.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/05/05/universities-high-performing-but-underfunded/index.html
+layout: layout.njk
 ---
 Universities high performing but underfunded
 ============================================

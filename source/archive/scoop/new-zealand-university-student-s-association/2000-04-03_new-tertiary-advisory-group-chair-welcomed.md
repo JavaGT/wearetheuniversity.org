@@ -1,9 +1,12 @@
 ---
 slug: new-tertiary-advisory-group-chair-welcomed
-title: "New Tertiary Advisory Group Chair Welcomed"
-date: 2000-04-03
-source-url: https://www.scoop.co.nz/stories/ED0004/S00003/new-tertiary-advisory-group-chair-welcomed.htm
+title: New Tertiary Advisory Group Chair Welcomed
+date: 2000-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00003/new-tertiary-advisory-group-chair-welcomed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/04/03/new-tertiary-advisory-group-chair-welcomed/index.html
+layout: layout.njk
 ---
 New Tertiary Advisory Group Chair Welcomed
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: policing-of-gst-for-online-shoppers
-title: "Policing of GST for online shoppers"
-date: 2013-07-13
-source-url: https://www.scoop.co.nz/stories/PO1307/S00154/policing-of-gst-for-online-shoppers.htm
+title: Policing of GST for online shoppers
+date: 2013-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00154/policing-of-gst-for-online-shoppers.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/13/policing-of-gst-for-online-shoppers/index.html
+layout: layout.njk
 ---
 Policing of GST for online shoppers
 ===================================

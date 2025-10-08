@@ -1,9 +1,12 @@
 ---
 slug: speech-james-shaw-green-party-agm-2019
-title: "Speech: James Shaw - Green Party AGM 2019"
-date: 2019-08-03
-source-url: https://www.scoop.co.nz/stories/PA1908/S00038/speech-james-shaw-green-party-agm-2019.htm
+title: 'Speech: James Shaw - Green Party AGM 2019'
+date: 2019-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00038/speech-james-shaw-green-party-agm-2019.htm
 author: green-party
+permalink: /archive/2019/08/03/speech-james-shaw-green-party-agm-2019/index.html
+layout: layout.njk
 ---
 Speech: James Shaw - Green Party AGM 2019
 =========================================

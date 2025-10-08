@@ -1,9 +1,13 @@
 ---
 slug: ice-telescope-uncovers-mysteries-of-the-universe
-title: "Ice telescope uncovers mysteries of the universe"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/SC1410/S00005/ice-telescope-uncovers-mysteries-of-the-universe.htm
+title: Ice telescope uncovers mysteries of the universe
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00005/ice-telescope-uncovers-mysteries-of-the-universe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/01/ice-telescope-uncovers-mysteries-of-the-universe/index.html
+layout: layout.njk
 ---
 Ice telescope uncovers mysteries of the universe
 ================================================

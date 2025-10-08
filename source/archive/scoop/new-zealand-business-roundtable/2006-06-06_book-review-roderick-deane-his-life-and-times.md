@@ -1,9 +1,12 @@
 ---
 slug: book-review-roderick-deane-his-life-and-times
-title: "Book Review: Roderick Deane: His Life and Times"
-date: 2006-06-06
-source-url: https://www.scoop.co.nz/stories/BU0606/S00063/book-review-roderick-deane-his-life-and-times.htm
+title: 'Book Review: Roderick Deane: His Life and Times'
+date: 2006-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0606/S00063/book-review-roderick-deane-his-life-and-times.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/06/06/book-review-roderick-deane-his-life-and-times/index.html
+layout: layout.njk
 ---
 Book Review: Roderick Deane: His Life and Times
 ===============================================

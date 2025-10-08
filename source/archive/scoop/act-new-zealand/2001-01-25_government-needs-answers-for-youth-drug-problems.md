@@ -1,9 +1,13 @@
 ---
 slug: government-needs-answers-for-youth-drug-problems
-title: "Government Needs Answers for Youth Drug Problems"
-date: 2001-01-25
-source-url: https://www.scoop.co.nz/stories/PA0101/S00114/government-needs-answers-for-youth-drug-problems.htm
+title: Government Needs Answers for Youth Drug Problems
+date: 2001-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00114/government-needs-answers-for-youth-drug-problems.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/01/25/government-needs-answers-for-youth-drug-problems/index.html
+layout: layout.njk
 ---
 Government Needs Answers for Youth Drug Problems
 ================================================

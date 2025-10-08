@@ -1,9 +1,12 @@
 ---
 slug: thinning-blue-line-result-of-budget-cuts
-title: "Thinning blue line result of Budget cuts"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/PA1305/S00220/thinning-blue-line-result-of-budget-cuts.htm
+title: Thinning blue line result of Budget cuts
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00220/thinning-blue-line-result-of-budget-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/14/thinning-blue-line-result-of-budget-cuts/index.html
+layout: layout.njk
 ---
 Thinning blue line result of Budget cuts
 ========================================

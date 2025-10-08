@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-student-loan-repayment-bonus
-title: "Speech: Flavell - Student Loan Repayment Bonus"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/PA0905/S00004/speech-flavell-student-loan-repayment-bonus.htm
+title: 'Speech: Flavell - Student Loan Repayment Bonus'
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00004/speech-flavell-student-loan-repayment-bonus.htm
 author: te-pati-maori
+permalink: /archive/2009/05/01/speech-flavell-student-loan-repayment-bonus/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Student Loan Repayment Bonus
 ==============================================

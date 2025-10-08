@@ -1,9 +1,13 @@
 ---
 slug: early-start-successful-decade-of-school-of-medine
-title: "Early Start: Successful Decade of School of Medine"
-date: 2005-11-16
-source-url: https://www.scoop.co.nz/stories/ED0511/S00062/early-start-successful-decade-of-school-of-medine.htm
+title: 'Early Start: Successful Decade of School of Medine'
+date: 2005-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00062/early-start-successful-decade-of-school-of-medine.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/11/16/early-start-successful-decade-of-school-of-medine/index.html
+layout: layout.njk
 ---
 Early Start: Successful Decade of School of Medine
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: speech;-sharples-treaty-settlement-symposium
-title: "Speech; Sharples - Treaty Settlement Symposium"
-date: 2010-11-29
-source-url: https://www.scoop.co.nz/stories/PA1011/S00554/speech-sharples-treaty-settlement-symposium.htm
+title: Speech; Sharples - Treaty Settlement Symposium
+date: 2010-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00554/speech-sharples-treaty-settlement-symposium.htm
 author: te-pati-maori
+permalink: /archive/2010/11/29/speech/index.html
+layout: layout.njk
 ---
 Speech; Sharples - Treaty Settlement Symposium
 ==============================================

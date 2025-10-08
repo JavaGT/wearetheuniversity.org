@@ -1,9 +1,12 @@
 ---
 slug: most-homeless-are-working-poor-otago-uni
-title: "Most homeless are working poor – Otago Uni"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00443/most-homeless-are-working-poor-otago-uni.htm
+title: Most homeless are working poor – Otago Uni
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00443/most-homeless-are-working-poor-otago-uni.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/24/most-homeless-are-working-poor-otago-uni/index.html
+layout: layout.njk
 ---
 Most homeless are working poor – Otago Uni
 ==========================================

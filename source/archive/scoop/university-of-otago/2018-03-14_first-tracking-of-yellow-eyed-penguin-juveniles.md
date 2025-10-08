@@ -1,9 +1,12 @@
 ---
 slug: first-tracking-of-yellow-eyed-penguin-juveniles
-title: "First tracking of yellow-eyed penguin juveniles"
-date: 2018-03-14
-source-url: https://www.scoop.co.nz/stories/SC1803/S00030/first-tracking-of-yellow-eyed-penguin-juveniles.htm
+title: First tracking of yellow-eyed penguin juveniles
+date: 2018-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00030/first-tracking-of-yellow-eyed-penguin-juveniles.htm
 author: university-of-otago
+permalink: /archive/2018/03/14/first-tracking-of-yellow-eyed-penguin-juveniles/index.html
+layout: layout.njk
 ---
 First tracking of yellow-eyed penguin juveniles
 ===============================================

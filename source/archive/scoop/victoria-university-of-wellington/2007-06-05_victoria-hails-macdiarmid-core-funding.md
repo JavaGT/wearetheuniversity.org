@@ -1,9 +1,12 @@
 ---
 slug: victoria-hails-macdiarmid-core-funding
-title: "Victoria hails MacDiarmid CoRE funding"
-date: 2007-06-05
-source-url: https://www.scoop.co.nz/stories/ED0706/S00012/victoria-hails-macdiarmid-core-funding.htm
+title: Victoria hails MacDiarmid CoRE funding
+date: 2007-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00012/victoria-hails-macdiarmid-core-funding.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/05/victoria-hails-macdiarmid-core-funding/index.html
+layout: layout.njk
 ---
 Victoria hails MacDiarmid CoRE funding
 ======================================

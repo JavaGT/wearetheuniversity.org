@@ -1,9 +1,12 @@
 ---
 slug: david-cunliffe-pre-budget-speech
-title: "David Cunliffe Pre-Budget Speech"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/PA1105/S00325/david-cunliffe-pre-budget-speech.htm
+title: David Cunliffe Pre-Budget Speech
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00325/david-cunliffe-pre-budget-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/17/david-cunliffe-pre-budget-speech/index.html
+layout: layout.njk
 ---
 David Cunliffe Pre-Budget Speech
 ================================

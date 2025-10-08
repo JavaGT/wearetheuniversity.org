@@ -1,9 +1,12 @@
 ---
 slug: students-send-out-warning-on-interest-free
-title: "Students send out warning on interest free"
-date: 2007-06-15
-source-url: https://www.scoop.co.nz/stories/ED0706/S00063/students-send-out-warning-on-interest-free.htm
+title: Students send out warning on interest free
+date: 2007-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00063/students-send-out-warning-on-interest-free.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/06/15/students-send-out-warning-on-interest-free/index.html
+layout: layout.njk
 ---
 Students send out warning on interest free
 ==========================================

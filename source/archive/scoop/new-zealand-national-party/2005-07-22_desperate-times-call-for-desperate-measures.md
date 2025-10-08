@@ -1,9 +1,12 @@
 ---
 slug: desperate-times-call-for-desperate-measures
-title: "Desperate times call for desperate measures"
-date: 2005-07-22
-source-url: https://www.scoop.co.nz/stories/PA0507/S00469/desperate-times-call-for-desperate-measures.htm
+title: Desperate times call for desperate measures
+date: 2005-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00469/desperate-times-call-for-desperate-measures.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/22/desperate-times-call-for-desperate-measures/index.html
+layout: layout.njk
 ---
 Desperate times call for desperate measures
 ===========================================

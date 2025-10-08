@@ -1,9 +1,11 @@
 ---
 slug: linguist-to-lecture-at-vic
-title: "Linguist to lecture at Vic"
-date: 2007-08-14
+title: Linguist to lecture at Vic
+date: 2007-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0708/S00037/linguist-to-lecture-at-vic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/14/linguist-to-lecture-at-vic/index.html
+layout: layout.njk
 ---
 Linguist to lecture at Vic
 ==========================

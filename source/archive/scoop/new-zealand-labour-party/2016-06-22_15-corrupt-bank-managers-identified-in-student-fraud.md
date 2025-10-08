@@ -1,9 +1,13 @@
 ---
 slug: 15-corrupt-bank-managers-identified-in-student-fraud
-title: "15 corrupt bank managers identified in student fraud"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/PA1606/S00373/15-corrupt-bank-managers-identified-in-student-fraud.htm
+title: 15 corrupt bank managers identified in student fraud
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00373/15-corrupt-bank-managers-identified-in-student-fraud.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/06/22/15-corrupt-bank-managers-identified-in-student-fraud/index.html
+layout: layout.njk
 ---
 15 corrupt bank managers identified in student fraud
 ====================================================

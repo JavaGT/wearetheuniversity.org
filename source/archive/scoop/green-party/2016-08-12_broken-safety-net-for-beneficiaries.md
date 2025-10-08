@@ -1,9 +1,12 @@
 ---
 slug: broken-safety-net-for-beneficiaries
-title: "Broken safety net for beneficiaries"
-date: 2016-08-12
-source-url: https://www.scoop.co.nz/stories/PA1608/S00206/broken-safety-net-for-beneficiaries.htm
+title: Broken safety net for beneficiaries
+date: 2016-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00206/broken-safety-net-for-beneficiaries.htm
 author: green-party
+permalink: /archive/2016/08/12/broken-safety-net-for-beneficiaries/index.html
+layout: layout.njk
 ---
 Broken safety net for beneficiaries
 ===================================

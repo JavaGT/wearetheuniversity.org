@@ -1,9 +1,12 @@
 ---
 slug: the-rt-hon-winston-peters-agm-address
-title: "The Rt Hon Winston Peters - AGM Address"
-date: 2021-06-20
-source-url: https://www.scoop.co.nz/stories/PA2106/S00156/the-rt-hon-winston-peters-agm-address.htm
+title: The Rt Hon Winston Peters - AGM Address
+date: 2021-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00156/the-rt-hon-winston-peters-agm-address.htm
 author: new-zealand-first-party
+permalink: /archive/2021/06/20/the-rt-hon-winston-peters-agm-address/index.html
+layout: layout.njk
 ---
 The Rt Hon Winston Peters - AGM Address
 =======================================

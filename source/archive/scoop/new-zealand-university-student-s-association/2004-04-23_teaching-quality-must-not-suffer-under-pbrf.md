@@ -1,9 +1,12 @@
 ---
 slug: teaching-quality-must-not-suffer-under-pbrf
-title: "Teaching quality must not suffer under PBRF"
-date: 2004-04-23
-source-url: https://www.scoop.co.nz/stories/ED0404/S00081/teaching-quality-must-not-suffer-under-pbrf.htm
+title: Teaching quality must not suffer under PBRF
+date: 2004-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00081/teaching-quality-must-not-suffer-under-pbrf.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/04/23/teaching-quality-must-not-suffer-under-pbrf/index.html
+layout: layout.njk
 ---
 Teaching quality must not suffer under PBRF
 ===========================================

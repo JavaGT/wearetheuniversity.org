@@ -1,9 +1,13 @@
 ---
 slug: university-raises-tuition-fees-ahead-of-inflation-yet-again
-title: "University raises tuition fees ahead of inflation yet again"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/ED1310/S00140/university-raises-tuition-fees-ahead-of-inflation-yet-again.htm
+title: University raises tuition fees ahead of inflation yet again
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00140/university-raises-tuition-fees-ahead-of-inflation-yet-again.htm
 author: ausa
+permalink: >-
+  /archive/2013/10/22/university-raises-tuition-fees-ahead-of-inflation-yet-again/index.html
+layout: layout.njk
 ---
 University raises tuition fees ahead of inflation yet again
 ===========================================================

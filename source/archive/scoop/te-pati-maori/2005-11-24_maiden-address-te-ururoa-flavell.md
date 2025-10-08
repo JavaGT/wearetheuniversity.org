@@ -1,9 +1,12 @@
 ---
 slug: maiden-address-te-ururoa-flavell
-title: "Maiden Address: Te Ururoa Flavell"
-date: 2005-11-24
-source-url: https://www.scoop.co.nz/stories/PA0511/S00364/maiden-address-te-ururoa-flavell.htm
+title: 'Maiden Address: Te Ururoa Flavell'
+date: 2005-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00364/maiden-address-te-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2005/11/24/maiden-address-te-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Maiden Address: Te Ururoa Flavell
 =================================

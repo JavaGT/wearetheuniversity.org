@@ -1,9 +1,12 @@
 ---
 slug: the-deadweight-costs-of-taxation
-title: "The Deadweight Costs of Taxation"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/BU0609/S00131/the-deadweight-costs-of-taxation.htm
+title: The Deadweight Costs of Taxation
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0609/S00131/the-deadweight-costs-of-taxation.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/09/08/the-deadweight-costs-of-taxation/index.html
+layout: layout.njk
 ---
 The Deadweight Costs of Taxation
 ================================

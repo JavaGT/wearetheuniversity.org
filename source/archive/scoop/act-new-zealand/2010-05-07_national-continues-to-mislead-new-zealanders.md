@@ -1,9 +1,12 @@
 ---
 slug: national-continues-to-mislead-new-zealanders
-title: "National Continues to Mislead New Zealanders"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/PA1005/S00136/national-continues-to-mislead-new-zealanders.htm
+title: National Continues to Mislead New Zealanders
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00136/national-continues-to-mislead-new-zealanders.htm
 author: act-new-zealand
+permalink: /archive/2010/05/07/national-continues-to-mislead-new-zealanders/index.html
+layout: layout.njk
 ---
 National Continues to Mislead New Zealanders
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-win-inaugural-kupe-scholarships
-title: "Waikato students win inaugural Kupe Scholarships"
-date: 2015-10-27
-source-url: https://www.scoop.co.nz/stories/ED1510/S00123/waikato-students-win-inaugural-kupe-scholarships.htm
+title: Waikato students win inaugural Kupe Scholarships
+date: 2015-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00123/waikato-students-win-inaugural-kupe-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/27/waikato-students-win-inaugural-kupe-scholarships/index.html
+layout: layout.njk
 ---
 Waikato students win inaugural Kupe Scholarships
 ================================================

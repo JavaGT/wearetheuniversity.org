@@ -1,9 +1,12 @@
 ---
 slug: cunliffe-waitakere-ranges-heritage-bill
-title: "Cunliffe: Waitakere Ranges Heritage Bill"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/PA0804/S00087/cunliffe-waitakere-ranges-heritage-bill.htm
+title: 'Cunliffe: Waitakere Ranges Heritage Bill'
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00087/cunliffe-waitakere-ranges-heritage-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/04/03/cunliffe-waitakere-ranges-heritage-bill/index.html
+layout: layout.njk
 ---
 Cunliffe: Waitakere Ranges Heritage Bill
 ========================================

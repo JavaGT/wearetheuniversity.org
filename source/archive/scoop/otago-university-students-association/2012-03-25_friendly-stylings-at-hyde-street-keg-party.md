@@ -1,9 +1,12 @@
 ---
 slug: friendly-stylings-at-hyde-street-keg-party
-title: "Friendly Stylings at Hyde Street Keg Party"
-date: 2012-03-25
-source-url: https://www.scoop.co.nz/stories/AK1203/S00654/friendly-stylings-at-hyde-street-keg-party.htm
+title: Friendly Stylings at Hyde Street Keg Party
+date: 2012-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1203/S00654/friendly-stylings-at-hyde-street-keg-party.htm
 author: otago-university-students-association
+permalink: /archive/2012/03/25/friendly-stylings-at-hyde-street-keg-party/index.html
+layout: layout.njk
 ---
 Friendly Stylings at Hyde Street Keg Party
 ==========================================

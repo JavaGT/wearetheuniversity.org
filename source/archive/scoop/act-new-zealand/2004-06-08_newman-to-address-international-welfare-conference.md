@@ -1,9 +1,13 @@
 ---
 slug: newman-to-address-international-welfare-conference
-title: "Newman To Address International Welfare Conference"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/PA0406/S00118/newman-to-address-international-welfare-conference.htm
+title: Newman To Address International Welfare Conference
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00118/newman-to-address-international-welfare-conference.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/06/08/newman-to-address-international-welfare-conference/index.html
+layout: layout.njk
 ---
 Newman To Address International Welfare Conference
 ==================================================

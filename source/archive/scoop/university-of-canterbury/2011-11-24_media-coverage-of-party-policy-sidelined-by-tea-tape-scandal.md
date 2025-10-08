@@ -1,9 +1,13 @@
 ---
 slug: media-coverage-of-party-policy-sidelined-by-tea-tape-scandal
-title: "Media coverage of party policy sidelined by tea tape scandal"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PO1111/S00678/media-coverage-of-party-policy-sidelined-by-tea-tape-scandal.htm
+title: Media coverage of party policy sidelined by tea tape scandal
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00678/media-coverage-of-party-policy-sidelined-by-tea-tape-scandal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/11/24/media-coverage-of-party-policy-sidelined-by-tea-tape-scandal/index.html
+layout: layout.njk
 ---
 Media coverage of party policy sidelined by tea tape scandal
 ============================================================

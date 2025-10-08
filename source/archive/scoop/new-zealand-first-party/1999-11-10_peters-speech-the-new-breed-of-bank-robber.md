@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-the-new-breed-of-bank-robber
-title: "Peters Speech - The New Breed Of Bank Robber"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00239/peters-speech-the-new-breed-of-bank-robber.htm
+title: Peters Speech - The New Breed Of Bank Robber
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00239/peters-speech-the-new-breed-of-bank-robber.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/10/peters-speech-the-new-breed-of-bank-robber/index.html
+layout: layout.njk
 ---
 Peters Speech - The New Breed Of Bank Robber
 ============================================

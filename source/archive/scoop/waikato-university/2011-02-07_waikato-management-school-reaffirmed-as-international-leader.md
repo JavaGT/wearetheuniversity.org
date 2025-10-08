@@ -1,9 +1,13 @@
 ---
 slug: waikato-management-school-reaffirmed-as-international-leader
-title: "Waikato Management School reaffirmed as international leader"
-date: 2011-02-07
-source-url: https://www.scoop.co.nz/stories/ED1102/S00019/waikato-management-school-reaffirmed-as-international-leader.htm
+title: Waikato Management School reaffirmed as international leader
+date: 2011-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00019/waikato-management-school-reaffirmed-as-international-leader.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/02/07/waikato-management-school-reaffirmed-as-international-leader/index.html
+layout: layout.njk
 ---
 Waikato Management School reaffirmed as international leader
 ============================================================

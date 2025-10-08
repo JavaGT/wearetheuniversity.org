@@ -1,9 +1,12 @@
 ---
 slug: diabetes-get-checked-scheme-failing
-title: "Diabetes 'Get Checked' scheme failing"
-date: 2006-07-06
-source-url: https://www.scoop.co.nz/stories/PA0607/S00079/diabetes-get-checked-scheme-failing.htm
+title: Diabetes 'Get Checked' scheme failing
+date: 2006-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00079/diabetes-get-checked-scheme-failing.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/06/diabetes-get-checked-scheme-failing/index.html
+layout: layout.njk
 ---
 Diabetes 'Get Checked' scheme failing
 =====================================

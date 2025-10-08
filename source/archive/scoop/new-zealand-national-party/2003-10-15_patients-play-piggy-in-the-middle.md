@@ -1,9 +1,12 @@
 ---
 slug: patients-play-piggy-in-the-middle
-title: "Patients play piggy in the middle"
-date: 2003-10-15
-source-url: https://www.scoop.co.nz/stories/PA0310/S00352/patients-play-piggy-in-the-middle.htm
+title: Patients play piggy in the middle
+date: 2003-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00352/patients-play-piggy-in-the-middle.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/15/patients-play-piggy-in-the-middle/index.html
+layout: layout.njk
 ---
 Patients play piggy in the middle
 =================================

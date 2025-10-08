@@ -1,9 +1,12 @@
 ---
 slug: act-welcomes-chips-initiative
-title: "ACT Welcomes \"CHiPs\" Initiative"
-date: 2000-06-08
-source-url: https://www.scoop.co.nz/stories/PA0006/S00135/act-welcomes-chips-initiative.htm
+title: ACT Welcomes "CHiPs" Initiative
+date: 2000-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00135/act-welcomes-chips-initiative.htm
 author: act-new-zealand
+permalink: /archive/2000/06/08/act-welcomes-chips-initiative/index.html
+layout: layout.njk
 ---
 ACT Welcomes “CHiPs” Initiative
 ===============================

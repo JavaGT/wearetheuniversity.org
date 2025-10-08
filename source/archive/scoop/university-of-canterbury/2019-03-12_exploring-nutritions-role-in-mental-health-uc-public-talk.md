@@ -1,9 +1,13 @@
 ---
 slug: exploring-nutritions-role-in-mental-health-uc-public-talk
-title: "Exploring nutrition’s role in mental health – UC public talk"
-date: 2019-03-12
-source-url: https://www.scoop.co.nz/stories/SC1903/S00020/exploring-nutritions-role-in-mental-health-uc-public-talk.htm
+title: Exploring nutrition’s role in mental health – UC public talk
+date: 2019-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1903/S00020/exploring-nutritions-role-in-mental-health-uc-public-talk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/03/12/exploring-nutritions-role-in-mental-health-uc-public-talk/index.html
+layout: layout.njk
 ---
 Exploring nutrition’s role in mental health – UC public talk
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: resolving-conflict-an-issue-for-many-franchises
-title: "Resolving conflict an issue for many franchises"
-date: 2012-01-17
-source-url: https://www.scoop.co.nz/stories/BU1201/S00296/resolving-conflict-an-issue-for-many-franchises.htm
+title: Resolving conflict an issue for many franchises
+date: 2012-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1201/S00296/resolving-conflict-an-issue-for-many-franchises.htm
 author: massey-university
+permalink: /archive/2012/01/17/resolving-conflict-an-issue-for-many-franchises/index.html
+layout: layout.njk
 ---
 Resolving conflict an issue for many franchises
 ===============================================

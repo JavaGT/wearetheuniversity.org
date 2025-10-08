@@ -1,9 +1,11 @@
 ---
 slug: arts-good-for-the-psyche
-title: "Arts good for the psyche"
-date: 2009-06-04
+title: Arts good for the psyche
+date: 2009-06-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0906/S00012/arts-good-for-the-psyche.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/06/04/arts-good-for-the-psyche/index.html
+layout: layout.njk
 ---
 Arts good for the psyche
 ========================

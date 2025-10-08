@@ -1,9 +1,12 @@
 ---
 slug: workers-submissions-call-for-tougher-safety-law
-title: "Workers’ Submissions Call For Tougher Safety Law"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PO0203/S00005/workers-submissions-call-for-tougher-safety-law.htm
+title: Workers’ Submissions Call For Tougher Safety Law
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00005/workers-submissions-call-for-tougher-safety-law.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/03/01/workers-submissions-call-for-tougher-safety-law/index.html
+layout: layout.njk
 ---
 Workers’ Submissions Call For Tougher Safety Law
 ================================================

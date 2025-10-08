@@ -1,9 +1,12 @@
 ---
 slug: green-mp-to-join-womens-peace-flotilla
-title: "Green MP to join Women’s Peace Flotilla"
-date: 2016-07-22
-source-url: https://www.scoop.co.nz/stories/PA1607/S00323/green-mp-to-join-womens-peace-flotilla.htm
+title: Green MP to join Women’s Peace Flotilla
+date: 2016-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00323/green-mp-to-join-womens-peace-flotilla.htm
 author: green-party
+permalink: /archive/2016/07/22/green-mp-to-join-womens-peace-flotilla/index.html
+layout: layout.njk
 ---
 Green MP to join Women’s Peace Flotilla
 =======================================

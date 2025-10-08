@@ -1,9 +1,13 @@
 ---
 slug: no-surprise-in-rise-of-annual-road-toll-uc-transport-expert
-title: "No surprise in rise of annual road toll, UC transport expert"
-date: 2012-12-22
-source-url: https://www.scoop.co.nz/stories/AK1212/S00606/no-surprise-in-rise-of-annual-road-toll-uc-transport-expert.htm
+title: No surprise in rise of annual road toll, UC transport expert
+date: 2012-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00606/no-surprise-in-rise-of-annual-road-toll-uc-transport-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/22/no-surprise-in-rise-of-annual-road-toll-uc-transport-expert/index.html
+layout: layout.njk
 ---
 No surprise in rise of annual road toll, UC transport expert
 ============================================================

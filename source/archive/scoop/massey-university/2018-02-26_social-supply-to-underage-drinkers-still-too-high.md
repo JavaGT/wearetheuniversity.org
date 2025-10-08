@@ -1,9 +1,13 @@
 ---
 slug: social-supply-to-underage-drinkers-still-too-high
-title: "Social supply to underage drinkers still too high"
-date: 2018-02-26
-source-url: https://www.scoop.co.nz/stories/PO1802/S00293/social-supply-to-underage-drinkers-still-too-high.htm
+title: Social supply to underage drinkers still too high
+date: 2018-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00293/social-supply-to-underage-drinkers-still-too-high.htm
 author: massey-university
+permalink: >-
+  /archive/2018/02/26/social-supply-to-underage-drinkers-still-too-high/index.html
+layout: layout.njk
 ---
 Social supply to underage drinkers still too high
 =================================================

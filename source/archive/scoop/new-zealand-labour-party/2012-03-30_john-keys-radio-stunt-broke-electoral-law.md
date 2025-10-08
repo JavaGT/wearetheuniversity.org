@@ -1,9 +1,12 @@
 ---
 slug: john-keys-radio-stunt-broke-electoral-law
-title: "John Key’s radio stunt broke electoral law"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/PA1203/S00421/john-keys-radio-stunt-broke-electoral-law.htm
+title: John Key’s radio stunt broke electoral law
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00421/john-keys-radio-stunt-broke-electoral-law.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/30/john-keys-radio-stunt-broke-electoral-law/index.html
+layout: layout.njk
 ---
 John Key’s radio stunt broke electoral law
 ==========================================

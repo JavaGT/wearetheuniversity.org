@@ -1,9 +1,13 @@
 ---
 slug: researchers-bring-new-thinking-to-dolphin-tourism-activity
-title: "Researchers bring new thinking to dolphin tourism activity"
-date: 2018-05-01
-source-url: https://www.scoop.co.nz/stories/SC1805/S00002/researchers-bring-new-thinking-to-dolphin-tourism-activity.htm
+title: Researchers bring new thinking to dolphin tourism activity
+date: 2018-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00002/researchers-bring-new-thinking-to-dolphin-tourism-activity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/01/researchers-bring-new-thinking-to-dolphin-tourism-activity/index.html
+layout: layout.njk
 ---
 Researchers bring new thinking to dolphin tourism activity
 ==========================================================

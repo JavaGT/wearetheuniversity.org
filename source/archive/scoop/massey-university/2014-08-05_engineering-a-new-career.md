@@ -1,9 +1,11 @@
 ---
 slug: engineering-a-new-career
-title: "Engineering a new career"
-date: 2014-08-05
+title: Engineering a new career
+date: 2014-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1408/S00023/engineering-a-new-career.htm
 author: massey-university
+permalink: /archive/2014/08/05/engineering-a-new-career/index.html
+layout: layout.njk
 ---
 Engineering a new career
 ========================

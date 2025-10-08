@@ -1,9 +1,12 @@
 ---
 slug: mallard-deceives-students-over-loans
-title: "Mallard deceives students over loans"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00641/mallard-deceives-students-over-loans.htm
+title: Mallard deceives students over loans
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00641/mallard-deceives-students-over-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/28/mallard-deceives-students-over-loans/index.html
+layout: layout.njk
 ---
 Mallard deceives students over loans
 ====================================

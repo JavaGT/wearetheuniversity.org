@@ -1,9 +1,12 @@
 ---
 slug: the-economy-&-the-superfund-weighing-the-evidence
-title: "The Economy & The Superfund: Weighing The Evidence"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/PA0105/S00673/the-economy-the-superfund-weighing-the-evidence.htm
+title: 'The Economy & The Superfund: Weighing The Evidence'
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00673/the-economy-the-superfund-weighing-the-evidence.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/31/the-economy-/index.html
+layout: layout.njk
 ---
 The Economy & The Superfund: Weighing The Evidence
 ==================================================

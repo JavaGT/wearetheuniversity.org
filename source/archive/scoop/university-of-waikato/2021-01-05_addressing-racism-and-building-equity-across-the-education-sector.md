@@ -1,9 +1,13 @@
 ---
 slug: addressing-racism-and-building-equity-across-the-education-sector
-title: "Addressing Racism And Building Equity Across The Education Sector"
-date: 2021-01-05
-source-url: https://www.scoop.co.nz/stories/ED2101/S00001/addressing-racism-and-building-equity-across-the-education-sector.htm
+title: Addressing Racism And Building Equity Across The Education Sector
+date: 2021-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2101/S00001/addressing-racism-and-building-equity-across-the-education-sector.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/01/05/addressing-racism-and-building-equity-across-the-education-sector/index.html
+layout: layout.njk
 ---
 Addressing Racism And Building Equity Across The Education Sector
 =================================================================

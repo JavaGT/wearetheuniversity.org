@@ -1,9 +1,11 @@
 ---
 slug: campus-calling-out-for-art!
-title: "Campus Calling Out for Art!"
-date: 2014-06-09
+title: Campus Calling Out for Art!
+date: 2014-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1406/S00104/campus-calling-out-for-art.htm
 author: ousa
+permalink: /archive/2014/06/09/campus-calling-out-for-art/index.html
+layout: layout.njk
 ---
 Campus Calling Out for Art!
 ===========================

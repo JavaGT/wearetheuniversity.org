@@ -1,9 +1,13 @@
 ---
 slug: research-team-studying-changes-in-maori-language
-title: "Research team studying changes in Maori language"
-date: 2004-07-22
-source-url: https://www.scoop.co.nz/stories/ED0407/S00067/research-team-studying-changes-in-maori-language.htm
+title: Research team studying changes in Maori language
+date: 2004-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00067/research-team-studying-changes-in-maori-language.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/07/22/research-team-studying-changes-in-maori-language/index.html
+layout: layout.njk
 ---
 Research team studying changes in Maori language
 ================================================

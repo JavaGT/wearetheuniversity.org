@@ -1,9 +1,12 @@
 ---
 slug: further-boost-to-ict-funding-in-schools
-title: "Further boost to ICT funding in schools"
-date: 2009-12-03
-source-url: https://www.scoop.co.nz/stories/PA0912/S00053/further-boost-to-ict-funding-in-schools.htm
+title: Further boost to ICT funding in schools
+date: 2009-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00053/further-boost-to-ict-funding-in-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/03/further-boost-to-ict-funding-in-schools/index.html
+layout: layout.njk
 ---
 Further boost to ICT funding in schools
 =======================================

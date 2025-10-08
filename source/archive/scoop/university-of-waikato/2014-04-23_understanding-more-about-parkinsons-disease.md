@@ -1,9 +1,12 @@
 ---
 slug: understanding-more-about-parkinsons-disease
-title: "Understanding more about Parkinson’s disease"
-date: 2014-04-23
-source-url: https://www.scoop.co.nz/stories/SC1404/S00081/understanding-more-about-parkinsons-disease.htm
+title: Understanding more about Parkinson’s disease
+date: 2014-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00081/understanding-more-about-parkinsons-disease.htm
 author: university-of-waikato
+permalink: /archive/2014/04/23/understanding-more-about-parkinsons-disease/index.html
+layout: layout.njk
 ---
 Understanding more about Parkinson’s disease
 ============================================

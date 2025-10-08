@@ -1,9 +1,12 @@
 ---
 slug: national-to-support-growth-of-aerospace-sector
-title: "National To Support Growth Of Aerospace Sector"
-date: 2023-10-05
-source-url: https://www.scoop.co.nz/stories/PA2310/S00045/national-to-support-growth-of-aerospace-sector.htm
+title: National To Support Growth Of Aerospace Sector
+date: 2023-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00045/national-to-support-growth-of-aerospace-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2023/10/05/national-to-support-growth-of-aerospace-sector/index.html
+layout: layout.njk
 ---
 National To Support Growth Of Aerospace Sector
 ==============================================

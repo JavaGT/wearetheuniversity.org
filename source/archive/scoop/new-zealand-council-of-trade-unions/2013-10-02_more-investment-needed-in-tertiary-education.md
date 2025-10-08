@@ -1,9 +1,12 @@
 ---
 slug: more-investment-needed-in-tertiary-education
-title: "More investment needed in tertiary education"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PO1310/S00022/more-investment-needed-in-tertiary-education.htm
+title: More investment needed in tertiary education
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00022/more-investment-needed-in-tertiary-education.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/10/02/more-investment-needed-in-tertiary-education/index.html
+layout: layout.njk
 ---
 More investment needed in tertiary education
 ============================================

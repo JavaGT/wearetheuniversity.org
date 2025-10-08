@@ -1,9 +1,13 @@
 ---
 slug: bonding-concept-could-offer-additional-choice-for-graduates
-title: "Bonding Concept Could Offer Additional Choice for Graduates"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/ED1608/S00018/bonding-concept-could-offer-additional-choice-for-graduates.htm
+title: Bonding Concept Could Offer Additional Choice for Graduates
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00018/bonding-concept-could-offer-additional-choice-for-graduates.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/08/10/bonding-concept-could-offer-additional-choice-for-graduates/index.html
+layout: layout.njk
 ---
 Bonding Concept Could Offer Additional Choice for Graduates
 ===========================================================

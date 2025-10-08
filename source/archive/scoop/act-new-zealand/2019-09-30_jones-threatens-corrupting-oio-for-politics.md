@@ -1,9 +1,12 @@
 ---
 slug: jones-threatens-corrupting-oio-for-politics
-title: "Jones Threatens Corrupting OIO for Politics"
-date: 2019-09-30
-source-url: https://www.scoop.co.nz/stories/PA1909/S00275/jones-threatens-corrupting-oio-for-politics.htm
+title: Jones Threatens Corrupting OIO for Politics
+date: 2019-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00275/jones-threatens-corrupting-oio-for-politics.htm
 author: act-new-zealand
+permalink: /archive/2019/09/30/jones-threatens-corrupting-oio-for-politics/index.html
+layout: layout.njk
 ---
 Jones Threatens Corrupting OIO for Politics
 ===========================================

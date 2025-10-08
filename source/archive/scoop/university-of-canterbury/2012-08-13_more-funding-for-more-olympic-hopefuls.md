@@ -1,9 +1,12 @@
 ---
 slug: more-funding-for-more-olympic-hopefuls
-title: "More funding for more Olympic hopefuls"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/PO1208/S00165/more-funding-for-more-olympic-hopefuls.htm
+title: More funding for more Olympic hopefuls
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00165/more-funding-for-more-olympic-hopefuls.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/13/more-funding-for-more-olympic-hopefuls/index.html
+layout: layout.njk
 ---
 More funding for more Olympic hopefuls
 ======================================

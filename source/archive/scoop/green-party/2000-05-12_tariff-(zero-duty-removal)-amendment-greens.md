@@ -1,9 +1,12 @@
 ---
 slug: tariff-(zero-duty-removal)-amendment-greens
-title: "Tariff (Zero Duty Removal) Amendment  - Greens"
-date: 2000-05-12
-source-url: https://www.scoop.co.nz/stories/PA0005/S00282/tariff-zero-duty-removal-amendment-greens.htm
+title: Tariff (Zero Duty Removal) Amendment  - Greens
+date: 2000-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00282/tariff-zero-duty-removal-amendment-greens.htm
 author: green-party
+permalink: /archive/2000/05/12/tariff-/index.html
+layout: layout.njk
 ---
 Tariff (Zero Duty Removal) Amendment - Greens
 =============================================

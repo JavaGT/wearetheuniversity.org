@@ -1,9 +1,13 @@
 ---
 slug: nz-gift-to-royal-baby-woven-by-textile-design-graduate
-title: "NZ gift to royal baby woven by textile design graduate"
-date: 2018-04-27
-source-url: https://www.scoop.co.nz/stories/CU1804/S00261/nz-gift-to-royal-baby-woven-by-textile-design-graduate.htm
+title: NZ gift to royal baby woven by textile design graduate
+date: 2018-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1804/S00261/nz-gift-to-royal-baby-woven-by-textile-design-graduate.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/27/nz-gift-to-royal-baby-woven-by-textile-design-graduate/index.html
+layout: layout.njk
 ---
 NZ gift to royal baby woven by textile design graduate
 ======================================================

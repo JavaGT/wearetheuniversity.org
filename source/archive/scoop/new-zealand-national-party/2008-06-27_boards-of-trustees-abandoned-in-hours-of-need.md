@@ -1,9 +1,12 @@
 ---
 slug: boards-of-trustees-abandoned-in-hours-of-need
-title: "Boards of trustees abandoned in hours of need"
-date: 2008-06-27
-source-url: https://www.scoop.co.nz/stories/PA0806/S00467/boards-of-trustees-abandoned-in-hours-of-need.htm
+title: Boards of trustees abandoned in hours of need
+date: 2008-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00467/boards-of-trustees-abandoned-in-hours-of-need.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/27/boards-of-trustees-abandoned-in-hours-of-need/index.html
+layout: layout.njk
 ---
 Boards of trustees abandoned in hours of need
 =============================================

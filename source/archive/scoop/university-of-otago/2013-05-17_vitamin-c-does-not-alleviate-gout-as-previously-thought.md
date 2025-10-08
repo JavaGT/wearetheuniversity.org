@@ -1,9 +1,13 @@
 ---
 slug: vitamin-c-does-not-alleviate-gout-as-previously-thought
-title: "Vitamin C does not alleviate gout as previously thought"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/GE1305/S00113/vitamin-c-does-not-alleviate-gout-as-previously-thought.htm
+title: Vitamin C does not alleviate gout as previously thought
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00113/vitamin-c-does-not-alleviate-gout-as-previously-thought.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/17/vitamin-c-does-not-alleviate-gout-as-previously-thought/index.html
+layout: layout.njk
 ---
 Vitamin C does not alleviate gout as previously thought
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-to-investigate-possibility-of-cadmium-free-potatoes
-title: "Research to investigate possibility of cadmium-free potatoes"
-date: 2013-10-15
-source-url: https://www.scoop.co.nz/stories/SC1310/S00031/research-to-investigate-possibility-of-cadmium-free-potatoes.htm
+title: Research to investigate possibility of cadmium-free potatoes
+date: 2013-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00031/research-to-investigate-possibility-of-cadmium-free-potatoes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/15/research-to-investigate-possibility-of-cadmium-free-potatoes/index.html
+layout: layout.njk
 ---
 Research to investigate possibility of cadmium-free potatoes
 ============================================================

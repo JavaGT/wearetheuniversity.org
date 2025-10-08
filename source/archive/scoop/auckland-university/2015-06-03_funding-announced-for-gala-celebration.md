@@ -1,9 +1,12 @@
 ---
 slug: funding-announced-for-gala-celebration
-title: "Funding announced for gala celebration"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/SC1506/S00010/funding-announced-for-gala-celebration.htm
+title: Funding announced for gala celebration
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00010/funding-announced-for-gala-celebration.htm
 author: auckland-university
+permalink: /archive/2015/06/03/funding-announced-for-gala-celebration/index.html
+layout: layout.njk
 ---
 Funding announced for gala celebration
 ======================================

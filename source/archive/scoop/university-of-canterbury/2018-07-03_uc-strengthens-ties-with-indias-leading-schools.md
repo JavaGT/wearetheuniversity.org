@@ -1,9 +1,12 @@
 ---
 slug: uc-strengthens-ties-with-indias-leading-schools
-title: "UC strengthens ties with India’s leading schools"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/ED1807/S00007/uc-strengthens-ties-with-indias-leading-schools.htm
+title: UC strengthens ties with India’s leading schools
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00007/uc-strengthens-ties-with-indias-leading-schools.htm
 author: university-of-canterbury
+permalink: /archive/2018/07/03/uc-strengthens-ties-with-indias-leading-schools/index.html
+layout: layout.njk
 ---
 UC strengthens ties with India’s leading schools
 ================================================

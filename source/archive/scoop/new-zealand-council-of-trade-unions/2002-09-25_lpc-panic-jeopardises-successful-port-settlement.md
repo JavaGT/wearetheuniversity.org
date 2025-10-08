@@ -1,9 +1,13 @@
 ---
 slug: lpc-panic-jeopardises-successful-port-settlement
-title: "LPC Panic Jeopardises Successful Port Settlement"
-date: 2002-09-25
-source-url: https://www.scoop.co.nz/stories/BU0209/S00157/lpc-panic-jeopardises-successful-port-settlement.htm
+title: LPC Panic Jeopardises Successful Port Settlement
+date: 2002-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0209/S00157/lpc-panic-jeopardises-successful-port-settlement.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2002/09/25/lpc-panic-jeopardises-successful-port-settlement/index.html
+layout: layout.njk
 ---
 LPC Panic Jeopardises Successful Port Settlement
 ================================================

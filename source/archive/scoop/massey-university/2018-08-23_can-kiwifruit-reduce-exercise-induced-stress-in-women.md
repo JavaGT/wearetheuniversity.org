@@ -1,9 +1,13 @@
 ---
 slug: can-kiwifruit-reduce-exercise-induced-stress-in-women
-title: "Can kiwifruit reduce exercise-induced stress in women?"
-date: 2018-08-23
-source-url: https://www.scoop.co.nz/stories/SC1808/S00040/can-kiwifruit-reduce-exercise-induced-stress-in-women.htm
+title: Can kiwifruit reduce exercise-induced stress in women?
+date: 2018-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00040/can-kiwifruit-reduce-exercise-induced-stress-in-women.htm
 author: massey-university
+permalink: >-
+  /archive/2018/08/23/can-kiwifruit-reduce-exercise-induced-stress-in-women/index.html
+layout: layout.njk
 ---
 Can kiwifruit reduce exercise-induced stress in women?
 ======================================================

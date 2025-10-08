@@ -1,9 +1,12 @@
 ---
 slug: no-hat-no-play-not-always-otago-research
-title: "No hat, no play? Not always: Otago research"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/GE1712/S00026/no-hat-no-play-not-always-otago-research.htm
+title: 'No hat, no play? Not always: Otago research'
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1712/S00026/no-hat-no-play-not-always-otago-research.htm
 author: university-of-otago
+permalink: /archive/2017/12/07/no-hat-no-play-not-always-otago-research/index.html
+layout: layout.njk
 ---
 No hat, no play? Not always: Otago research
 ===========================================

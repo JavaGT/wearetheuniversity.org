@@ -1,9 +1,13 @@
 ---
 slug: gambling-differences-between-ethnicity-and-gender
-title: "Gambling Differences Between Ethnicity And Gender"
-date: 2008-12-03
-source-url: https://www.scoop.co.nz/stories/CU0812/S00048/gambling-differences-between-ethnicity-and-gender.htm
+title: Gambling Differences Between Ethnicity And Gender
+date: 2008-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0812/S00048/gambling-differences-between-ethnicity-and-gender.htm
 author: aut-university
+permalink: >-
+  /archive/2008/12/03/gambling-differences-between-ethnicity-and-gender/index.html
+layout: layout.njk
 ---
 Gambling Differences Between Ethnicity And Gender
 =================================================

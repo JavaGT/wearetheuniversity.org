@@ -1,9 +1,13 @@
 ---
 slug: lessons-from-christchurch-will-make-cities-more-resilient
-title: "Lessons from Christchurch will make cities more resilient"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/ED1305/S00206/lessons-from-christchurch-will-make-cities-more-resilient.htm
+title: Lessons from Christchurch will make cities more resilient
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00206/lessons-from-christchurch-will-make-cities-more-resilient.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/31/lessons-from-christchurch-will-make-cities-more-resilient/index.html
+layout: layout.njk
 ---
 Lessons from Christchurch will make cities more resilient
 =========================================================

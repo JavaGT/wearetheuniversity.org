@@ -1,9 +1,11 @@
 ---
 slug: dr-pita-sharples-speech
-title: "Dr Pita Sharples, Speech"
-date: 2007-02-28
+title: Dr Pita Sharples, Speech
+date: 2007-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00522/dr-pita-sharples-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/02/28/dr-pita-sharples-speech/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples, Speech
 ========================

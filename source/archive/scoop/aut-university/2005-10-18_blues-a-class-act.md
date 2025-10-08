@@ -1,9 +1,11 @@
 ---
 slug: blues-a-class-act
-title: "Blues a class act"
-date: 2005-10-18
+title: Blues a class act
+date: 2005-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0510/S00051/blues-a-class-act.htm
 author: aut-university
+permalink: /archive/2005/10/18/blues-a-class-act/index.html
+layout: layout.njk
 ---
 Blues a class act
 =================

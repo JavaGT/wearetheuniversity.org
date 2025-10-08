@@ -1,9 +1,13 @@
 ---
 slug: first-image-of-milky-way-neutrinos-detected-by-icecube
-title: "First Image Of Milky Way Neutrinos Detected By IceCube"
-date: 2023-07-01
-source-url: https://www.scoop.co.nz/stories/SC2307/S00001/first-image-of-milky-way-neutrinos-detected-by-icecube.htm
+title: First Image Of Milky Way Neutrinos Detected By IceCube
+date: 2023-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2307/S00001/first-image-of-milky-way-neutrinos-detected-by-icecube.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/07/01/first-image-of-milky-way-neutrinos-detected-by-icecube/index.html
+layout: layout.njk
 ---
 First Image Of Milky Way Neutrinos Detected By IceCube
 ======================================================

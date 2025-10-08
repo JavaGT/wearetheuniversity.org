@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-helping-nz-athletes-for-the-olympics
-title: "Canterbury students helping NZ athletes for the Olympics"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/ED1501/S00090/canterbury-students-helping-nz-athletes-for-the-olympics.htm
+title: Canterbury students helping NZ athletes for the Olympics
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00090/canterbury-students-helping-nz-athletes-for-the-olympics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/30/canterbury-students-helping-nz-athletes-for-the-olympics/index.html
+layout: layout.njk
 ---
 Canterbury students helping NZ athletes for the Olympics
 ========================================================

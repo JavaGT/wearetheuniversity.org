@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-on-bastion-point
-title: "Hone Harawira on Bastion Point"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/PA0805/S00574/hone-harawira-on-bastion-point.htm
+title: Hone Harawira on Bastion Point
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00574/hone-harawira-on-bastion-point.htm
 author: te-pati-maori
+permalink: /archive/2008/05/28/hone-harawira-on-bastion-point/index.html
+layout: layout.njk
 ---
 Hone Harawira on Bastion Point
 ==============================

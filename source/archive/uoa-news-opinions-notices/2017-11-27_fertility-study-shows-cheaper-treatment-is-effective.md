@@ -1,8 +1,12 @@
 ---
 slug: fertility-study-shows-cheaper-treatment-is-effective
-title: "Fertility study shows cheaper treatment is effective"
-date: 2017-11-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/fertility-study-shows-cheaper-treatment-is-effective.html
+title: Fertility study shows cheaper treatment is effective
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/fertility-study-shows-cheaper-treatment-is-effective.html
+permalink: >-
+  /archive/2017/11/27/fertility-study-shows-cheaper-treatment-is-effective/index.html
+layout: layout.njk
 ---
 Fertility study shows cheaper treatment is effective
 ====================================================

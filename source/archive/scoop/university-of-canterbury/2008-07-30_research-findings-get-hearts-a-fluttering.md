@@ -1,9 +1,12 @@
 ---
 slug: research-findings-get-hearts-a-fluttering
-title: "Research findings get hearts a fluttering"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/GE0807/S00157/research-findings-get-hearts-a-fluttering.htm
+title: Research findings get hearts a fluttering
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0807/S00157/research-findings-get-hearts-a-fluttering.htm
 author: university-of-canterbury
+permalink: /archive/2008/07/30/research-findings-get-hearts-a-fluttering/index.html
+layout: layout.njk
 ---
 Research findings get hearts a fluttering
 =========================================

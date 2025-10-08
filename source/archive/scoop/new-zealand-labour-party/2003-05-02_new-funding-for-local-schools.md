@@ -1,9 +1,12 @@
 ---
 slug: new-funding-for-local-schools
-title: "New Funding For Local Schools"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/PA0305/S00044/new-funding-for-local-schools.htm
+title: New Funding For Local Schools
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00044/new-funding-for-local-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/05/02/new-funding-for-local-schools/index.html
+layout: layout.njk
 ---
 New Funding For Local Schools
 =============================

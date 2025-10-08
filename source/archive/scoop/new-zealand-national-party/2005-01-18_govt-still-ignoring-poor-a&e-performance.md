@@ -1,9 +1,12 @@
 ---
 slug: govt-still-ignoring-poor-a&e-performance
-title: "Govt Still Ignoring Poor A&E Performance"
-date: 2005-01-18
-source-url: https://www.scoop.co.nz/stories/PA0501/S00131/govt-still-ignoring-poor-ae-performance.htm
+title: Govt Still Ignoring Poor A&E Performance
+date: 2005-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00131/govt-still-ignoring-poor-ae-performance.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/18/govt-still-ignoring-poor-a/index.html
+layout: layout.njk
 ---
 Govt Still Ignoring Poor A&E Performance
 ========================================

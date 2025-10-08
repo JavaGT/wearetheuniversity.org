@@ -1,9 +1,13 @@
 ---
 slug: submissions-sought-on-victoria-university-charter
-title: "Submissions Sought On Victoria University Charter"
-date: 2003-07-15
-source-url: https://www.scoop.co.nz/stories/ED0307/S00040/submissions-sought-on-victoria-university-charter.htm
+title: Submissions Sought On Victoria University Charter
+date: 2003-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00040/submissions-sought-on-victoria-university-charter.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/07/15/submissions-sought-on-victoria-university-charter/index.html
+layout: layout.njk
 ---
 Submissions Sought On Victoria University Charter
 =================================================

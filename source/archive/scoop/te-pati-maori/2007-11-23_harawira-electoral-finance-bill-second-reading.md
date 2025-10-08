@@ -1,9 +1,12 @@
 ---
 slug: harawira-electoral-finance-bill-second-reading
-title: "Harawira - Electoral Finance Bill Second Reading"
-date: 2007-11-23
-source-url: https://www.scoop.co.nz/stories/PA0711/S00458/harawira-electoral-finance-bill-second-reading.htm
+title: Harawira - Electoral Finance Bill Second Reading
+date: 2007-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00458/harawira-electoral-finance-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2007/11/23/harawira-electoral-finance-bill-second-reading/index.html
+layout: layout.njk
 ---
 Harawira - Electoral Finance Bill Second Reading
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-fiddles-parental-reunion-figures
-title: "\"Government Fiddles Parental Reunion Figures\""
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/PA1307/S00463/government-fiddles-parental-reunion-figures.htm
+title: '"Government Fiddles Parental Reunion Figures"'
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00463/government-fiddles-parental-reunion-figures.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/31/government-fiddles-parental-reunion-figures/index.html
+layout: layout.njk
 ---
 \"Government Fiddles Parental Reunion Figures"
 =============================================

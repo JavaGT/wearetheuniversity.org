@@ -1,9 +1,12 @@
 ---
 slug: government-wipes-off-$5-billion-in-tax-debt
-title: "Government wipes off $5 billion in tax debt"
-date: 2015-01-11
-source-url: https://www.scoop.co.nz/stories/PA1501/S00023/government-wipes-off-5-billion-in-tax-debt.htm
+title: Government wipes off $5 billion in tax debt
+date: 2015-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00023/government-wipes-off-5-billion-in-tax-debt.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/01/11/government-wipes-off-/index.html
+layout: layout.njk
 ---
 Government wipes off $5 billion in tax debt
 ===========================================

@@ -1,9 +1,16 @@
 ---
-slug: massey-university-cuts-funding-to-aotearoas-first-co-governed-students-association
-title: "Massey University Cuts Funding To Aotearoa’s First Co-Governed Students’ Association"
-date: 2024-11-22
-source-url: https://www.scoop.co.nz/stories/ED2411/S00041/massey-university-cuts-funding-to-aotearoas-first-co-governed-students-association.htm
+slug: >-
+  massey-university-cuts-funding-to-aotearoas-first-co-governed-students-association
+title: >-
+  Massey University Cuts Funding To Aotearoa’s First Co-Governed Students’
+  Association
+date: 2024-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00041/massey-university-cuts-funding-to-aotearoas-first-co-governed-students-association.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2024/11/22/massey-university-cuts-funding-to-aotearoas-first-co-governed-students-association/index.html
+layout: layout.njk
 ---
 Massey University Cuts Funding To Aotearoa’s First Co-Governed Students’ Association
 ====================================================================================

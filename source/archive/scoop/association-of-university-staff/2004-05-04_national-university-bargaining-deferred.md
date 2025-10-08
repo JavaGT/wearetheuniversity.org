@@ -1,9 +1,12 @@
 ---
 slug: national-university-bargaining-deferred
-title: "National university bargaining deferred"
-date: 2004-05-04
-source-url: https://www.scoop.co.nz/stories/ED0405/S00011/national-university-bargaining-deferred.htm
+title: National university bargaining deferred
+date: 2004-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00011/national-university-bargaining-deferred.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/04/national-university-bargaining-deferred/index.html
+layout: layout.njk
 ---
 National university bargaining deferred
 =======================================

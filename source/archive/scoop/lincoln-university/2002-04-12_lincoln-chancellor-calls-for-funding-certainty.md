@@ -1,9 +1,12 @@
 ---
 slug: lincoln-chancellor-calls-for-funding-certainty
-title: "Lincoln Chancellor Calls For Funding Certainty"
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/ED0204/S00019/lincoln-chancellor-calls-for-funding-certainty.htm
+title: Lincoln Chancellor Calls For Funding Certainty
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00019/lincoln-chancellor-calls-for-funding-certainty.htm
 author: lincoln-university
+permalink: /archive/2002/04/12/lincoln-chancellor-calls-for-funding-certainty/index.html
+layout: layout.njk
 ---
 Lincoln Chancellor Calls For Funding Certainty
 ==============================================

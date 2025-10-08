@@ -1,9 +1,13 @@
 ---
 slug: govt-opens-mauis-dolphin-habitat-for-petroleum-exploration
-title: "Govt opens Maui’s dolphin habitat for petroleum exploration"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00252/govt-opens-mauis-dolphin-habitat-for-petroleum-exploration.htm
+title: Govt opens Maui’s dolphin habitat for petroleum exploration
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00252/govt-opens-mauis-dolphin-habitat-for-petroleum-exploration.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/18/govt-opens-mauis-dolphin-habitat-for-petroleum-exploration/index.html
+layout: layout.njk
 ---
 Govt opens Maui’s dolphin habitat for petroleum exploration
 ===========================================================

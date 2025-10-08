@@ -1,9 +1,12 @@
 ---
 slug: government-forces-schools-to-blackmail-parents
-title: "Government Forces Schools To Blackmail Parents"
-date: 2002-01-16
-source-url: https://www.scoop.co.nz/stories/PA0201/S00061/government-forces-schools-to-blackmail-parents.htm
+title: Government Forces Schools To Blackmail Parents
+date: 2002-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00061/government-forces-schools-to-blackmail-parents.htm
 author: act-new-zealand
+permalink: /archive/2002/01/16/government-forces-schools-to-blackmail-parents/index.html
+layout: layout.njk
 ---
 Government Forces Schools To Blackmail Parents
 ==============================================

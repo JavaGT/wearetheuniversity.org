@@ -1,9 +1,12 @@
 ---
 slug: doctors-say-maori-will-suffer-from-ets
-title: "Doctors say Maori will suffer from ETS"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/GE0911/S00058/doctors-say-maori-will-suffer-from-ets.htm
+title: Doctors say Maori will suffer from ETS
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0911/S00058/doctors-say-maori-will-suffer-from-ets.htm
 author: auckland-university
+permalink: /archive/2009/11/20/doctors-say-maori-will-suffer-from-ets/index.html
+layout: layout.njk
 ---
 Doctors say Maori will suffer from ETS
 ======================================

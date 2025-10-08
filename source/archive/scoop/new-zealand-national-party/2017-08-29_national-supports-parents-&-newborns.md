@@ -1,9 +1,12 @@
 ---
 slug: national-supports-parents-&-newborns
-title: "National Supports Parents & Newborns"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00516/national-supports-parents-newborns.htm
+title: National Supports Parents & Newborns
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00516/national-supports-parents-newborns.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/29/national-supports-parents-/index.html
+layout: layout.njk
 ---
 National Supports Parents & Newborns
 ====================================

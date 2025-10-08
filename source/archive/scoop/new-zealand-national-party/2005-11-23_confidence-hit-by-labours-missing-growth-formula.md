@@ -1,9 +1,13 @@
 ---
 slug: confidence-hit-by-labours-missing-growth-formula
-title: "Confidence hit by Labour's missing growth formula"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PA0511/S00333/confidence-hit-by-labours-missing-growth-formula.htm
+title: Confidence hit by Labour's missing growth formula
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00333/confidence-hit-by-labours-missing-growth-formula.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/11/23/confidence-hit-by-labours-missing-growth-formula/index.html
+layout: layout.njk
 ---
 Confidence hit by Labour's missing growth formula
 =================================================

@@ -1,9 +1,16 @@
 ---
-slug: chinas-state-sponsored-digital-currency-impacts-on-fintech-third-party-payment-platforms
-title: "China’s State-Sponsored Digital Currency: Impacts On Fintech/Third-Party Payment Platforms"
-date: 2022-12-07
-source-url: https://www.scoop.co.nz/stories/BU2212/S00108/chinas-state-sponsored-digital-currency-impacts-on-fintechthird-party-payment-platforms.htm
+slug: >-
+  chinas-state-sponsored-digital-currency-impacts-on-fintech-third-party-payment-platforms
+title: >-
+  China’s State-Sponsored Digital Currency: Impacts On Fintech/Third-Party
+  Payment Platforms
+date: 2022-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2212/S00108/chinas-state-sponsored-digital-currency-impacts-on-fintechthird-party-payment-platforms.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2022/12/07/chinas-state-sponsored-digital-currency-impacts-on-fintech-third-party-payment-platforms/index.html
+layout: layout.njk
 ---
 China’s State-Sponsored Digital Currency: Impacts On Fintech/Third-Party Payment Platforms
 ==========================================================================================

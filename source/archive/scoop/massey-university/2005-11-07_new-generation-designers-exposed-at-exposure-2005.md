@@ -1,9 +1,13 @@
 ---
 slug: new-generation-designers-exposed-at-exposure-2005
-title: "New Generation Designers Exposed at Exposure 2005"
-date: 2005-11-07
-source-url: https://www.scoop.co.nz/stories/ED0511/S00031/new-generation-designers-exposed-at-exposure-2005.htm
+title: New Generation Designers Exposed at Exposure 2005
+date: 2005-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00031/new-generation-designers-exposed-at-exposure-2005.htm
 author: massey-university
+permalink: >-
+  /archive/2005/11/07/new-generation-designers-exposed-at-exposure-2005/index.html
+layout: layout.njk
 ---
 New Generation Designers Exposed at Exposure 2005
 =================================================

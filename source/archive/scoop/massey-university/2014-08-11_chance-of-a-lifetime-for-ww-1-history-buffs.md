@@ -1,9 +1,12 @@
 ---
 slug: chance-of-a-lifetime-for-ww-1-history-buffs
-title: "Chance of a lifetime for WW 1 history buffs"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/ED1408/S00056/chance-of-a-lifetime-for-ww-1-history-buffs.htm
+title: Chance of a lifetime for WW 1 history buffs
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00056/chance-of-a-lifetime-for-ww-1-history-buffs.htm
 author: massey-university
+permalink: /archive/2014/08/11/chance-of-a-lifetime-for-ww-1-history-buffs/index.html
+layout: layout.njk
 ---
 Chance of a lifetime for WW 1 history buffs
 ===========================================

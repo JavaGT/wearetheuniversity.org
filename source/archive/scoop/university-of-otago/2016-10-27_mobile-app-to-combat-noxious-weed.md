@@ -1,9 +1,12 @@
 ---
 slug: mobile-app-to-combat-noxious-weed
-title: "Mobile app to combat noxious weed"
-date: 2016-10-27
-source-url: https://www.scoop.co.nz/stories/BU1610/S00891/mobile-app-to-combat-noxious-weed.htm
+title: Mobile app to combat noxious weed
+date: 2016-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1610/S00891/mobile-app-to-combat-noxious-weed.htm
 author: university-of-otago
+permalink: /archive/2016/10/27/mobile-app-to-combat-noxious-weed/index.html
+layout: layout.njk
 ---
 Mobile app to combat noxious weed
 =================================

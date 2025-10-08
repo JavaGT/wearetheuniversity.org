@@ -1,9 +1,12 @@
 ---
 slug: govt-must-come-clean-on-contact-payout
-title: "Govt must come clean on Contact payout"
-date: 1999-11-23
-source-url: https://www.scoop.co.nz/stories/PA9911/S00544/govt-must-come-clean-on-contact-payout.htm
+title: Govt must come clean on Contact payout
+date: 1999-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00544/govt-must-come-clean-on-contact-payout.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/23/govt-must-come-clean-on-contact-payout/index.html
+layout: layout.njk
 ---
 Govt must come clean on Contact payout
 ======================================

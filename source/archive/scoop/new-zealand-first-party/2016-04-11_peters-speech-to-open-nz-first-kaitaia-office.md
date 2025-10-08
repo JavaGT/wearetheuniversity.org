@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-to-open-nz-first-kaitaia-office
-title: "Peters: Speech to open NZ First Kaitaia Office"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/PA1604/S00164/peters-speech-to-open-nz-first-kaitaia-office.htm
+title: 'Peters: Speech to open NZ First Kaitaia Office'
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00164/peters-speech-to-open-nz-first-kaitaia-office.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/11/peters-speech-to-open-nz-first-kaitaia-office/index.html
+layout: layout.njk
 ---
 Peters: Speech to open NZ First Kaitaia Office
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: local-team-favourite-in-debating-championships
-title: "Local team favourite in debating championships"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/AK0606/S00311/local-team-favourite-in-debating-championships.htm
+title: Local team favourite in debating championships
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0606/S00311/local-team-favourite-in-debating-championships.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/28/local-team-favourite-in-debating-championships/index.html
+layout: layout.njk
 ---
 Local team favourite in debating championships
 ==============================================

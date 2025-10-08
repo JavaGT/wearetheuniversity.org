@@ -1,9 +1,13 @@
 ---
 slug: low-condom-use-alcohol-linked-with-rwc-related-sex
-title: "Low condom use, alcohol, linked with RWC-related sex"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/GE1210/S00079/low-condom-use-alcohol-linked-with-rwc-related-sex.htm
+title: Low condom use, alcohol, linked with RWC-related sex
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00079/low-condom-use-alcohol-linked-with-rwc-related-sex.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/16/low-condom-use-alcohol-linked-with-rwc-related-sex/index.html
+layout: layout.njk
 ---
 Low condom use, alcohol, linked with RWC-related sex
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-117
-title: "Maxim Institute - real issues - No. 117"
-date: 2004-07-02
-source-url: https://www.scoop.co.nz/stories/PO0407/S00010/maxim-institute-real-issues-no-117.htm
+title: Maxim Institute - real issues - No. 117
+date: 2004-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0407/S00010/maxim-institute-real-issues-no-117.htm
 author: maxim-institute
+permalink: /archive/2004/07/02/maxim-institute-real-issues-no-117/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 117
 =======================================

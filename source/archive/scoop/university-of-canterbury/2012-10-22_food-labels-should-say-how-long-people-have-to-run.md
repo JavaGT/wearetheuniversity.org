@@ -1,9 +1,13 @@
 ---
 slug: food-labels-should-say-how-long-people-have-to-run
-title: "Food labels should say how long people have to run"
-date: 2012-10-22
-source-url: https://www.scoop.co.nz/stories/GE1210/S00096/food-labels-should-say-how-long-people-have-to-run.htm
+title: Food labels should say how long people have to run
+date: 2012-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00096/food-labels-should-say-how-long-people-have-to-run.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/22/food-labels-should-say-how-long-people-have-to-run/index.html
+layout: layout.njk
 ---
 Food labels should say how long people have to run
 ==================================================

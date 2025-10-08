@@ -1,9 +1,12 @@
 ---
 slug: pauatahanui-burial-ground-bill-ururoa-flavell
-title: "Pauatahanui Burial Ground Bill - Ururoa Flavell"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/PA0706/S00591/pauatahanui-burial-ground-bill-ururoa-flavell.htm
+title: Pauatahanui Burial Ground Bill - Ururoa Flavell
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00591/pauatahanui-burial-ground-bill-ururoa-flavell.htm
 author: te-pati-maori
+permalink: /archive/2007/06/29/pauatahanui-burial-ground-bill-ururoa-flavell/index.html
+layout: layout.njk
 ---
 Pauatahanui Burial Ground Bill - Ururoa Flavell
 ===============================================

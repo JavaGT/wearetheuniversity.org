@@ -1,9 +1,13 @@
 ---
 slug: mussel-power-fit-for-monitoring-the-kiwi-coastline
-title: "Mussel power - fit for monitoring the Kiwi coastline"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/SC1211/S00005/mussel-power-fit-for-monitoring-the-kiwi-coastline.htm
+title: Mussel power - fit for monitoring the Kiwi coastline
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00005/mussel-power-fit-for-monitoring-the-kiwi-coastline.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/01/mussel-power-fit-for-monitoring-the-kiwi-coastline/index.html
+layout: layout.njk
 ---
 Mussel power - fit for monitoring the Kiwi coastline
 ====================================================

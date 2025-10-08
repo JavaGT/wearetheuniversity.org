@@ -1,9 +1,13 @@
 ---
 slug: researcher-studying-children-of-mothers-on-methadone
-title: "Researcher studying children of mothers on methadone"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/SC1406/S00032/researcher-studying-children-of-mothers-on-methadone.htm
+title: Researcher studying children of mothers on methadone
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00032/researcher-studying-children-of-mothers-on-methadone.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/11/researcher-studying-children-of-mothers-on-methadone/index.html
+layout: layout.njk
 ---
 Researcher studying children of mothers on methadone
 ====================================================

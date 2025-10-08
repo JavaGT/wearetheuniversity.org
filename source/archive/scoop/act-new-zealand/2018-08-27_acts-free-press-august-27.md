@@ -1,9 +1,11 @@
 ---
 slug: acts-free-press-august-27
-title: "ACT’s Free Press August 27"
-date: 2018-08-27
+title: ACT’s Free Press August 27
+date: 2018-08-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1808/S00347/acts-free-press-august-27.htm
 author: act-new-zealand
+permalink: /archive/2018/08/27/acts-free-press-august-27/index.html
+layout: layout.njk
 ---
 ACT’s Free Press August 27
 ==========================

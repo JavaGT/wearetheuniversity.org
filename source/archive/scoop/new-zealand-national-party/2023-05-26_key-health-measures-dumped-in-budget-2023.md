@@ -1,9 +1,12 @@
 ---
 slug: key-health-measures-dumped-in-budget-2023
-title: "Key Health Measures Dumped In Budget 2023"
-date: 2023-05-26
-source-url: https://www.scoop.co.nz/stories/PA2305/S00195/key-health-measures-dumped-in-budget-2023.htm
+title: Key Health Measures Dumped In Budget 2023
+date: 2023-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00195/key-health-measures-dumped-in-budget-2023.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/26/key-health-measures-dumped-in-budget-2023/index.html
+layout: layout.njk
 ---
 Key Health Measures Dumped In Budget 2023
 =========================================

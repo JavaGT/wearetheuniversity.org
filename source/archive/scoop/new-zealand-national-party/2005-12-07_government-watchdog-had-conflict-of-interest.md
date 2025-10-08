@@ -1,9 +1,12 @@
 ---
 slug: government-watchdog-had-conflict-of-interest
-title: "Government watchdog had conflict of interest"
-date: 2005-12-07
-source-url: https://www.scoop.co.nz/stories/PA0512/S00090/government-watchdog-had-conflict-of-interest.htm
+title: Government watchdog had conflict of interest
+date: 2005-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00090/government-watchdog-had-conflict-of-interest.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/07/government-watchdog-had-conflict-of-interest/index.html
+layout: layout.njk
 ---
 Government watchdog had conflict of interest
 ============================================

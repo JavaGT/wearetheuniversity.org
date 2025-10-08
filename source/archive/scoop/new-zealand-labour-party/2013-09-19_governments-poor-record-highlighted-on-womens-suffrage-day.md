@@ -1,9 +1,13 @@
 ---
 slug: governments-poor-record-highlighted-on-womens-suffrage-day
-title: "Government’s poor record highlighted on Women’s Suffrage Day"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PA1309/S00376/governments-poor-record-highlighted-on-womens-suffrage-day.htm
+title: Government’s poor record highlighted on Women’s Suffrage Day
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00376/governments-poor-record-highlighted-on-womens-suffrage-day.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/19/governments-poor-record-highlighted-on-womens-suffrage-day/index.html
+layout: layout.njk
 ---
 Government’s poor record highlighted on Women’s Suffrage Day
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: disillusioned-digital-divide
-title: "Disillusioned digital divide"
-date: 2016-02-11
+title: Disillusioned digital divide
+date: 2016-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1602/S00121/disillusioned-digital-divide.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/11/disillusioned-digital-divide/index.html
+layout: layout.njk
 ---
 Disillusioned digital divide
 ============================

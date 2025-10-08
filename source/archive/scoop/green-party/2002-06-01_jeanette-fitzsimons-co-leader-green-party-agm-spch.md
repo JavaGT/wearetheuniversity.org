@@ -1,9 +1,13 @@
 ---
 slug: jeanette-fitzsimons-co-leader-green-party-agm-spch
-title: "Jeanette Fitzsimons Co-leader Green Party AGM Spch"
-date: 2002-06-01
-source-url: https://www.scoop.co.nz/stories/PA0206/S00002/jeanette-fitzsimons-co-leader-green-party-agm-spch.htm
+title: Jeanette Fitzsimons Co-leader Green Party AGM Spch
+date: 2002-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00002/jeanette-fitzsimons-co-leader-green-party-agm-spch.htm
 author: green-party
+permalink: >-
+  /archive/2002/06/01/jeanette-fitzsimons-co-leader-green-party-agm-spch/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons Co-leader Green Party AGM Spch
 ==================================================

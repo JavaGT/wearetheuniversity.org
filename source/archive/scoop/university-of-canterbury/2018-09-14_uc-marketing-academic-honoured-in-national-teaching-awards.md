@@ -1,9 +1,13 @@
 ---
 slug: uc-marketing-academic-honoured-in-national-teaching-awards
-title: "UC Marketing academic honoured in national teaching awards"
-date: 2018-09-14
-source-url: https://www.scoop.co.nz/stories/ED1809/S00038/uc-marketing-academic-honoured-in-national-teaching-awards.htm
+title: UC Marketing academic honoured in national teaching awards
+date: 2018-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00038/uc-marketing-academic-honoured-in-national-teaching-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/09/14/uc-marketing-academic-honoured-in-national-teaching-awards/index.html
+layout: layout.njk
 ---
 UC Marketing academic honoured in national teaching awards
 ==========================================================

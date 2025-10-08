@@ -1,9 +1,12 @@
 ---
 slug: a-world-first-for-university-of-canterbury
-title: "A world first for University of Canterbury"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/SC1208/S00039/a-world-first-for-university-of-canterbury.htm
+title: A world first for University of Canterbury
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00039/a-world-first-for-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/16/a-world-first-for-university-of-canterbury/index.html
+layout: layout.njk
 ---
 A world first for University of Canterbury
 ==========================================

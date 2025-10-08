@@ -1,9 +1,13 @@
 ---
 slug: well-meaning-tourists-pose-a-threat-to-kea-study-shows
-title: "Well-Meaning Tourists Pose A Threat To Kea, Study Shows"
-date: 2024-07-01
-source-url: https://www.scoop.co.nz/stories/ED2407/S00001/well-meaning-tourists-pose-a-threat-to-kea-study-shows.htm
+title: Well-Meaning Tourists Pose A Threat To Kea, Study Shows
+date: 2024-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00001/well-meaning-tourists-pose-a-threat-to-kea-study-shows.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/07/01/well-meaning-tourists-pose-a-threat-to-kea-study-shows/index.html
+layout: layout.njk
 ---
 Well-Meaning Tourists Pose A Threat To Kea, Study Shows
 =======================================================

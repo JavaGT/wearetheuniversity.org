@@ -1,9 +1,13 @@
 ---
 slug: open-government-partnership-a-chance-to-have-your-say
-title: "Open Government Partnership: A chance to have your say"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/PO1509/S00015/open-government-partnership-a-chance-to-have-your-say.htm
+title: 'Open Government Partnership: A chance to have your say'
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00015/open-government-partnership-a-chance-to-have-your-say.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/02/open-government-partnership-a-chance-to-have-your-say/index.html
+layout: layout.njk
 ---
 Open Government Partnership: A chance to have your say
 ======================================================

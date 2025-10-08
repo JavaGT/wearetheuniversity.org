@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-slams-impotent-nzusa
-title: "ACT on Campus slams impotent NZUSA"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/ED0502/S00013/act-on-campus-slams-impotent-nzusa.htm
+title: ACT on Campus slams impotent NZUSA
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00013/act-on-campus-slams-impotent-nzusa.htm
 author: act-on-campus
+permalink: /archive/2005/02/02/act-on-campus-slams-impotent-nzusa/index.html
+layout: layout.njk
 ---
 ACT on Campus slams impotent NZUSA
 ==================================

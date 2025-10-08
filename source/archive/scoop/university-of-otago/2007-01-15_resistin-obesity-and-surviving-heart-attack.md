@@ -1,9 +1,12 @@
 ---
 slug: resistin-obesity-and-surviving-heart-attack
-title: "Resistin, Obesity And Surviving Heart Attack"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/GE0701/S00028/resistin-obesity-and-surviving-heart-attack.htm
+title: Resistin, Obesity And Surviving Heart Attack
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0701/S00028/resistin-obesity-and-surviving-heart-attack.htm
 author: university-of-otago
+permalink: /archive/2007/01/15/resistin-obesity-and-surviving-heart-attack/index.html
+layout: layout.njk
 ---
 Resistin, Obesity And Surviving Heart Attack
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: tens-of-thousands-of-kiwi-workers-sacked
-title: "Tens of thousands of Kiwi workers sacked"
-date: 2019-03-05
-source-url: https://www.scoop.co.nz/stories/PO1903/S00039/tens-of-thousands-of-kiwi-workers-sacked.htm
+title: Tens of thousands of Kiwi workers sacked
+date: 2019-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00039/tens-of-thousands-of-kiwi-workers-sacked.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2019/03/05/tens-of-thousands-of-kiwi-workers-sacked/index.html
+layout: layout.njk
 ---
 Tens of thousands of Kiwi workers sacked
 ========================================

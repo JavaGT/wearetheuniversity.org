@@ -1,9 +1,13 @@
 ---
 slug: landmark-climate-change-conference-to-unite-pacific
-title: "Landmark Climate Change Conference to Unite Pacific"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/ED1602/S00040/landmark-climate-change-conference-to-unite-pacific.htm
+title: Landmark Climate Change Conference to Unite Pacific
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00040/landmark-climate-change-conference-to-unite-pacific.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/02/10/landmark-climate-change-conference-to-unite-pacific/index.html
+layout: layout.njk
 ---
 Landmark Climate Change Conference to Unite Pacific
 ===================================================

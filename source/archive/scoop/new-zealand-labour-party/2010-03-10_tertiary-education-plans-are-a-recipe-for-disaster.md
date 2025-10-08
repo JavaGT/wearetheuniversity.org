@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-plans-are-a-recipe-for-disaster
-title: "Tertiary education plans are a recipe for disaster"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/PA1003/S00127/tertiary-education-plans-are-a-recipe-for-disaster.htm
+title: Tertiary education plans are a recipe for disaster
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00127/tertiary-education-plans-are-a-recipe-for-disaster.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/10/tertiary-education-plans-are-a-recipe-for-disaster/index.html
+layout: layout.njk
 ---
 Tertiary education plans are a recipe for disaster
 ==================================================

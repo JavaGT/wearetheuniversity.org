@@ -1,9 +1,13 @@
 ---
 slug: labour-ministers-at-odds-over-tertiary-education
-title: "Labour Ministers at odds over tertiary education"
-date: 2007-12-16
-source-url: https://www.scoop.co.nz/stories/PA0712/S00357/labour-ministers-at-odds-over-tertiary-education.htm
+title: Labour Ministers at odds over tertiary education
+date: 2007-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00357/labour-ministers-at-odds-over-tertiary-education.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/12/16/labour-ministers-at-odds-over-tertiary-education/index.html
+layout: layout.njk
 ---
 Labour Ministers at odds over tertiary education
 ================================================

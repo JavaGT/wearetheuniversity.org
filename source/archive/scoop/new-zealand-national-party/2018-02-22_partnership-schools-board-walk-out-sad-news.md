@@ -1,9 +1,12 @@
 ---
 slug: partnership-schools-board-walk-out-sad-news
-title: "Partnership Schools Board walk out sad news"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00215/partnership-schools-board-walk-out-sad-news.htm
+title: Partnership Schools Board walk out sad news
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00215/partnership-schools-board-walk-out-sad-news.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/22/partnership-schools-board-walk-out-sad-news/index.html
+layout: layout.njk
 ---
 Partnership Schools Board walk out sad news
 ===========================================

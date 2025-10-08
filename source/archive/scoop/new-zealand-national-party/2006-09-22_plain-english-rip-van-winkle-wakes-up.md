@@ -1,9 +1,12 @@
 ---
 slug: plain-english-rip-van-winkle-wakes-up
-title: "Plain English: Rip Van Winkle Wakes Up"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00495/plain-english-rip-van-winkle-wakes-up.htm
+title: 'Plain English: Rip Van Winkle Wakes Up'
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00495/plain-english-rip-van-winkle-wakes-up.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/22/plain-english-rip-van-winkle-wakes-up/index.html
+layout: layout.njk
 ---
 Plain English: Rip Van Winkle Wakes Up
 ======================================

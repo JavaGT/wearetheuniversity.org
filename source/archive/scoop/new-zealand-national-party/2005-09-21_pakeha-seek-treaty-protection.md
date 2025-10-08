@@ -1,9 +1,12 @@
 ---
 slug: pakeha-seek-treaty-protection
-title: "Pakeha seek Treaty protection"
-date: 2005-09-21
-source-url: https://www.scoop.co.nz/stories/PA0509/S00467/pakeha-seek-treaty-protection.htm
+title: Pakeha seek Treaty protection
+date: 2005-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00467/pakeha-seek-treaty-protection.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/21/pakeha-seek-treaty-protection/index.html
+layout: layout.njk
 ---
 Pakeha seek Treaty protection
 =============================

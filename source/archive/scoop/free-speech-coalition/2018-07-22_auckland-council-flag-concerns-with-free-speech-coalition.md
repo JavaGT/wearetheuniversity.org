@@ -1,9 +1,13 @@
 ---
 slug: auckland-council-flag-concerns-with-free-speech-coalition
-title: "Auckland Council flag concerns with Free Speech Coalition"
-date: 2018-07-22
-source-url: https://www.scoop.co.nz/stories/PO1807/S00247/auckland-council-flag-concerns-with-free-speech-coalition.htm
+title: Auckland Council flag concerns with Free Speech Coalition
+date: 2018-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00247/auckland-council-flag-concerns-with-free-speech-coalition.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2018/07/22/auckland-council-flag-concerns-with-free-speech-coalition/index.html
+layout: layout.njk
 ---
 Auckland Council flag concerns with Free Speech Coalition
 =========================================================

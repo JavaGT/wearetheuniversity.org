@@ -1,9 +1,12 @@
 ---
 slug: trade-and-governance-on-the-international-stage
-title: "Trade and Governance on the International Stage"
-date: 2003-07-04
-source-url: https://www.scoop.co.nz/stories/ED0307/S00010/trade-and-governance-on-the-international-stage.htm
+title: Trade and Governance on the International Stage
+date: 2003-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00010/trade-and-governance-on-the-international-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/04/trade-and-governance-on-the-international-stage/index.html
+layout: layout.njk
 ---
 Trade and Governance on the International Stage
 ===============================================

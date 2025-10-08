@@ -1,9 +1,13 @@
 ---
 slug: members-bill-to-tighten-penalties-for-human-trafficking
-title: "Member’s Bill To Tighten Penalties For Human Trafficking"
-date: 2024-03-21
-source-url: https://www.scoop.co.nz/stories/PA2403/S00112/members-bill-to-tighten-penalties-for-human-trafficking.htm
+title: Member’s Bill To Tighten Penalties For Human Trafficking
+date: 2024-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00112/members-bill-to-tighten-penalties-for-human-trafficking.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2024/03/21/members-bill-to-tighten-penalties-for-human-trafficking/index.html
+layout: layout.njk
 ---
 Member’s Bill To Tighten Penalties For Human Trafficking
 ========================================================

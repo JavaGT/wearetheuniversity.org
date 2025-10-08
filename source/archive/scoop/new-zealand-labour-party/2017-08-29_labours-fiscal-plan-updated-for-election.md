@@ -1,9 +1,12 @@
 ---
 slug: labours-fiscal-plan-updated-for-election
-title: "Labour’s fiscal plan updated for election"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00511/labours-fiscal-plan-updated-for-election.htm
+title: Labour’s fiscal plan updated for election
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00511/labours-fiscal-plan-updated-for-election.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/29/labours-fiscal-plan-updated-for-election/index.html
+layout: layout.njk
 ---
 Labour’s fiscal plan updated for election
 =========================================

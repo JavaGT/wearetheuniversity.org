@@ -1,9 +1,12 @@
 ---
 slug: honour-goes-to-distinguished-writer
-title: "Honour goes to distinguished writer"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/ED0504/S00013/honour-goes-to-distinguished-writer.htm
+title: Honour goes to distinguished writer
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00013/honour-goes-to-distinguished-writer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/04/07/honour-goes-to-distinguished-writer/index.html
+layout: layout.njk
 ---
 Honour goes to distinguished writer
 ===================================

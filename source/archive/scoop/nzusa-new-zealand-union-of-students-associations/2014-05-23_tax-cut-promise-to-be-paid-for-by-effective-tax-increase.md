@@ -1,9 +1,13 @@
 ---
 slug: tax-cut-promise-to-be-paid-for-by-effective-tax-increase
-title: "Tax Cut Promise to be paid for by Effective Tax Increase"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/PO1405/S00378/tax-cut-promise-to-be-paid-for-by-effective-tax-increase.htm
+title: Tax Cut Promise to be paid for by Effective Tax Increase
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00378/tax-cut-promise-to-be-paid-for-by-effective-tax-increase.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/05/23/tax-cut-promise-to-be-paid-for-by-effective-tax-increase/index.html
+layout: layout.njk
 ---
 Tax Cut Promise to be paid for by Effective Tax Increase
 ========================================================

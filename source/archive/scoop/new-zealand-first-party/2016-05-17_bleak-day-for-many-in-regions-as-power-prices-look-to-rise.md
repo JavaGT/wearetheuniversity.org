@@ -1,9 +1,13 @@
 ---
 slug: bleak-day-for-many-in-regions-as-power-prices-look-to-rise
-title: "Bleak Day for Many in Regions as Power Prices Look To Rise"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/PA1605/S00299/bleak-day-for-many-in-regions-as-power-prices-look-to-rise.htm
+title: Bleak Day for Many in Regions as Power Prices Look To Rise
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00299/bleak-day-for-many-in-regions-as-power-prices-look-to-rise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/17/bleak-day-for-many-in-regions-as-power-prices-look-to-rise/index.html
+layout: layout.njk
 ---
 Bleak Day for Many in Regions as Power Prices Look To Rise
 ==========================================================

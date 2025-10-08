@@ -1,9 +1,12 @@
 ---
 slug: strike-action-looms-at-massey
-title: "Strike action looms at Massey"
-date: 2000-08-30
-source-url: https://www.scoop.co.nz/stories/ED0008/S00055/strike-action-looms-at-massey.htm
+title: Strike action looms at Massey
+date: 2000-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00055/strike-action-looms-at-massey.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/30/strike-action-looms-at-massey/index.html
+layout: layout.njk
 ---
 Strike action looms at Massey
 =============================

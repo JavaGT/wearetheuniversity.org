@@ -1,9 +1,11 @@
 ---
 slug: green-list-makes-history
-title: "Green List Makes History"
-date: 2002-06-26
+title: Green List Makes History
+date: 2002-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00466/green-list-makes-history.htm
 author: green-party
+permalink: /archive/2002/06/26/green-list-makes-history/index.html
+layout: layout.njk
 ---
 Green List Makes History
 ========================

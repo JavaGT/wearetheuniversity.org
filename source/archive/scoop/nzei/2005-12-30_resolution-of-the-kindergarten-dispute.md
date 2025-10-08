@@ -1,9 +1,12 @@
 ---
 slug: resolution-of-the-kindergarten-dispute
-title: "Resolution Of The Kindergarten Dispute"
-date: 2005-12-30
-source-url: https://www.scoop.co.nz/stories/ED0512/S00101/resolution-of-the-kindergarten-dispute.htm
+title: Resolution Of The Kindergarten Dispute
+date: 2005-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00101/resolution-of-the-kindergarten-dispute.htm
 author: nzei
+permalink: /archive/2005/12/30/resolution-of-the-kindergarten-dispute/index.html
+layout: layout.njk
 ---
 Resolution Of The Kindergarten Dispute
 ======================================

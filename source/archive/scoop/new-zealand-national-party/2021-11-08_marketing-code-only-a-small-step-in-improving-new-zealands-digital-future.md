@@ -1,9 +1,13 @@
 ---
 slug: marketing-code-only-a-small-step-in-improving-new-zealands-digital-future
-title: "Marketing Code Only A Small Step In Improving New Zealand’s Digital Future"
-date: 2021-11-08
-source-url: https://www.scoop.co.nz/stories/PA2111/S00084/marketing-code-only-a-small-step-in-improving-new-zealands-digital-future.htm
+title: Marketing Code Only A Small Step In Improving New Zealand’s Digital Future
+date: 2021-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00084/marketing-code-only-a-small-step-in-improving-new-zealands-digital-future.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/08/marketing-code-only-a-small-step-in-improving-new-zealands-digital-future/index.html
+layout: layout.njk
 ---
 Marketing Code Only A Small Step In Improving New Zealand’s Digital Future
 ==========================================================================

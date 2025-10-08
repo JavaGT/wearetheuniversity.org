@@ -1,9 +1,13 @@
 ---
 slug: bank-policy-plan-could-cause-widespread-hardship
-title: "Bank policy plan could cause widespread hardship"
-date: 2011-07-07
-source-url: https://www.scoop.co.nz/stories/BU1107/S00211/bank-policy-plan-could-cause-widespread-hardship.htm
+title: Bank policy plan could cause widespread hardship
+date: 2011-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00211/bank-policy-plan-could-cause-widespread-hardship.htm
 author: massey-university
+permalink: >-
+  /archive/2011/07/07/bank-policy-plan-could-cause-widespread-hardship/index.html
+layout: layout.njk
 ---
 Bank policy plan could cause widespread hardship
 ================================================

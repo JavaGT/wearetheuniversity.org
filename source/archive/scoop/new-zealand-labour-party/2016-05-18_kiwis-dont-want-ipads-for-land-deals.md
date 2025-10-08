@@ -1,9 +1,12 @@
 ---
 slug: kiwis-dont-want-ipads-for-land-deals
-title: "Kiwis don’t want iPads for Land deals"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/PA1605/S00310/kiwis-dont-want-ipads-for-land-deals.htm
+title: Kiwis don’t want iPads for Land deals
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00310/kiwis-dont-want-ipads-for-land-deals.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/18/kiwis-dont-want-ipads-for-land-deals/index.html
+layout: layout.njk
 ---
 Kiwis don’t want iPads for Land deals
 =====================================

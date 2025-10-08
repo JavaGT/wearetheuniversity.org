@@ -1,9 +1,13 @@
 ---
 slug: we-all-scream-for-ice-cream-at-kids-choice-award
-title: "We all scream for ice cream at Kids’ Choice award"
-date: 2010-04-28
-source-url: https://www.scoop.co.nz/stories/CU1004/S00351/we-all-scream-for-ice-cream-at-kids-choice-award.htm
+title: We all scream for ice cream at Kids’ Choice award
+date: 2010-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00351/we-all-scream-for-ice-cream-at-kids-choice-award.htm
 author: massey-university
+permalink: >-
+  /archive/2010/04/28/we-all-scream-for-ice-cream-at-kids-choice-award/index.html
+layout: layout.njk
 ---
 We all scream for ice cream at Kids’ Choice award
 =================================================

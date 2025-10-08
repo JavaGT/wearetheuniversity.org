@@ -1,9 +1,13 @@
 ---
 slug: ctu-concerned-by-research-findings-in-tertiary-sector
-title: "CTU concerned by research findings in tertiary sector"
-date: 2019-05-01
-source-url: https://www.scoop.co.nz/stories/PO1905/S00013/ctu-concerned-by-research-findings-in-tertiary-sector.htm
+title: CTU concerned by research findings in tertiary sector
+date: 2019-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00013/ctu-concerned-by-research-findings-in-tertiary-sector.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2019/05/01/ctu-concerned-by-research-findings-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 CTU concerned by research findings in tertiary sector
 =====================================================

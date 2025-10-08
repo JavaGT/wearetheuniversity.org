@@ -1,9 +1,12 @@
 ---
 slug: five-year-study-will-support-troubled-youth
-title: "Five-year study will support troubled youth"
-date: 2008-03-27
-source-url: https://www.scoop.co.nz/stories/ED0803/S00070/five-year-study-will-support-troubled-youth.htm
+title: Five-year study will support troubled youth
+date: 2008-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00070/five-year-study-will-support-troubled-youth.htm
 author: massey-university
+permalink: /archive/2008/03/27/five-year-study-will-support-troubled-youth/index.html
+layout: layout.njk
 ---
 Five-year study will support troubled youth
 ===========================================

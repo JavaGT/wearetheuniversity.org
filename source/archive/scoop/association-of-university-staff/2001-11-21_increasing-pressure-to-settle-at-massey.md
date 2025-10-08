@@ -1,9 +1,12 @@
 ---
 slug: increasing-pressure-to-settle-at-massey
-title: "Increasing pressure to settle at Massey"
-date: 2001-11-21
-source-url: https://www.scoop.co.nz/stories/ED0111/S00041/increasing-pressure-to-settle-at-massey.htm
+title: Increasing pressure to settle at Massey
+date: 2001-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00041/increasing-pressure-to-settle-at-massey.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/21/increasing-pressure-to-settle-at-massey/index.html
+layout: layout.njk
 ---
 Increasing pressure to settle at Massey
 =======================================

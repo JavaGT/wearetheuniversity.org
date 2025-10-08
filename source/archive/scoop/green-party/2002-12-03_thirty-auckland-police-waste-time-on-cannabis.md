@@ -1,9 +1,12 @@
 ---
 slug: thirty-auckland-police-waste-time-on-cannabis
-title: "Thirty Auckland police waste time on cannabis"
-date: 2002-12-03
-source-url: https://www.scoop.co.nz/stories/PA0212/S00051/thirty-auckland-police-waste-time-on-cannabis.htm
+title: Thirty Auckland police waste time on cannabis
+date: 2002-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00051/thirty-auckland-police-waste-time-on-cannabis.htm
 author: green-party
+permalink: /archive/2002/12/03/thirty-auckland-police-waste-time-on-cannabis/index.html
+layout: layout.njk
 ---
 Thirty Auckland police waste time on cannabis
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: poetic-licence-drives-poetry-day-at-university
-title: "Poetic licence drives poetry day at University"
-date: 2006-07-12
-source-url: https://www.scoop.co.nz/stories/ED0607/S00034/poetic-licence-drives-poetry-day-at-university.htm
+title: Poetic licence drives poetry day at University
+date: 2006-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00034/poetic-licence-drives-poetry-day-at-university.htm
 author: auckland-university
+permalink: /archive/2006/07/12/poetic-licence-drives-poetry-day-at-university/index.html
+layout: layout.njk
 ---
 Poetic licence drives poetry day at University
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-joyce-to-clean-up-tolleys-mess
-title: "Time For Joyce To Clean Up Tolley’s Mess"
-date: 2010-02-11
-source-url: https://www.scoop.co.nz/stories/PA1002/S00150/time-for-joyce-to-clean-up-tolleys-mess.htm
+title: Time For Joyce To Clean Up Tolley’s Mess
+date: 2010-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00150/time-for-joyce-to-clean-up-tolleys-mess.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/11/time-for-joyce-to-clean-up-tolleys-mess/index.html
+layout: layout.njk
 ---
 Time For Joyce To Clean Up Tolley’s Mess
 ========================================

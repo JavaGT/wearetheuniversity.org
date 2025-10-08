@@ -1,9 +1,12 @@
 ---
 slug: bob-harveys-exit-would-be-timely-for-south
-title: "Bob Harvey's exit would be timely for South"
-date: 2000-06-09
-source-url: https://www.scoop.co.nz/stories/PA0006/S00177/bob-harveys-exit-would-be-timely-for-south.htm
+title: Bob Harvey's exit would be timely for South
+date: 2000-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00177/bob-harveys-exit-would-be-timely-for-south.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/09/bob-harveys-exit-would-be-timely-for-south/index.html
+layout: layout.njk
 ---
 Bob Harvey's exit would be timely for South
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-bring-back-the-richard-seddon-vision
-title: "Peters: Bring Back The Richard Seddon Vision"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/PA1403/S00406/peters-bring-back-the-richard-seddon-vision.htm
+title: 'Peters: Bring Back The Richard Seddon Vision'
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00406/peters-bring-back-the-richard-seddon-vision.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/20/peters-bring-back-the-richard-seddon-vision/index.html
+layout: layout.njk
 ---
 Peters: Bring Back The Richard Seddon Vision
 ============================================

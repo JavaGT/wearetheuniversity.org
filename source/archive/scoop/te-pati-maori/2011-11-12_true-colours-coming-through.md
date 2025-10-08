@@ -1,9 +1,11 @@
 ---
 slug: true-colours-coming-through
-title: "'True Colours Coming Through'"
-date: 2011-11-12
+title: '''True Colours Coming Through'''
+date: 2011-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00239/true-colours-coming-through.htm
 author: te-pati-maori
+permalink: /archive/2011/11/12/true-colours-coming-through/index.html
+layout: layout.njk
 ---
 'True Colours Coming Through'
 =============================

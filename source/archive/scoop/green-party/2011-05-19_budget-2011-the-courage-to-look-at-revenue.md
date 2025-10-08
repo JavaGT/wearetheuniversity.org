@@ -1,9 +1,12 @@
 ---
 slug: budget-2011-the-courage-to-look-at-revenue
-title: "Budget 2011: The courage to look at revenue"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00446/budget-2011-the-courage-to-look-at-revenue.htm
+title: 'Budget 2011: The courage to look at revenue'
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00446/budget-2011-the-courage-to-look-at-revenue.htm
 author: green-party
+permalink: /archive/2011/05/19/budget-2011-the-courage-to-look-at-revenue/index.html
+layout: layout.njk
 ---
 Budget 2011: The courage to look at revenue
 ===========================================

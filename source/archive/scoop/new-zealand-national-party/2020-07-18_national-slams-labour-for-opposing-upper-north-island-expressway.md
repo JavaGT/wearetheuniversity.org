@@ -1,9 +1,13 @@
 ---
 slug: national-slams-labour-for-opposing-upper-north-island-expressway
-title: "National Slams Labour For Opposing Upper North Island Expressway"
-date: 2020-07-18
-source-url: https://www.scoop.co.nz/stories/PA2007/S00170/national-slams-labour-for-opposing-upper-north-island-expressway.htm
+title: National Slams Labour For Opposing Upper North Island Expressway
+date: 2020-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00170/national-slams-labour-for-opposing-upper-north-island-expressway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/18/national-slams-labour-for-opposing-upper-north-island-expressway/index.html
+layout: layout.njk
 ---
 National Slams Labour For Opposing Upper North Island Expressway
 ================================================================

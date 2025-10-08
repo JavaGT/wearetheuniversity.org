@@ -1,9 +1,12 @@
 ---
 slug: change-needed-in-tertiary-sector
-title: "Change needed in tertiary sector"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/PA1311/S00172/change-needed-in-tertiary-sector.htm
+title: Change needed in tertiary sector
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00172/change-needed-in-tertiary-sector.htm
 author: green-party
+permalink: /archive/2013/11/11/change-needed-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 Change needed in tertiary sector
 ================================

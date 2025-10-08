@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter
-title: "ACT's The Letter"
-date: 2004-12-21
+title: ACT's The Letter
+date: 2004-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00505/acts-the-letter.htm
 author: act-new-zealand
+permalink: /archive/2004/12/21/acts-the-letter/index.html
+layout: layout.njk
 ---
 ACT's The Letter
 ================

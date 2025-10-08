@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-welcomes-mandeville-decision
-title: "Cosgrove Welcomes Mandeville Decision"
-date: 2001-05-29
-source-url: https://www.scoop.co.nz/stories/PA0105/S00620/cosgrove-welcomes-mandeville-decision.htm
+title: Cosgrove Welcomes Mandeville Decision
+date: 2001-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00620/cosgrove-welcomes-mandeville-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/05/29/cosgrove-welcomes-mandeville-decision/index.html
+layout: layout.njk
 ---
 Cosgrove Welcomes Mandeville Decision
 =====================================

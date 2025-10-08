@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-needs-a-clear-economic-roadmap
-title: "New Zealand Needs A Clear Economic Roadmap"
-date: 2021-10-05
-source-url: https://www.scoop.co.nz/stories/PA2110/S00051/new-zealand-needs-a-clear-economic-roadmap.htm
+title: New Zealand Needs A Clear Economic Roadmap
+date: 2021-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00051/new-zealand-needs-a-clear-economic-roadmap.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/05/new-zealand-needs-a-clear-economic-roadmap/index.html
+layout: layout.njk
 ---
 New Zealand Needs A Clear Economic Roadmap
 ==========================================

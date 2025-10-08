@@ -1,9 +1,12 @@
 ---
 slug: aut-spinout-secures-$1-5-m-investment-for-innovative-respiratory-technology
-title: "AUT Spinout Secures $1.5 M Investment For Innovative Respiratory Technology"
-date: 2022-01-26
-source-url: https://www.scoop.co.nz/stories/ED2201/S00013/aut-spinout-secures-15-m-investment-for-innovative-respiratory-technology.htm
+title: AUT Spinout Secures $1.5 M Investment For Innovative Respiratory Technology
+date: 2022-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2201/S00013/aut-spinout-secures-15-m-investment-for-innovative-respiratory-technology.htm
 author: aut-university
+permalink: /archive/2022/01/26/aut-spinout-secures-/index.html
+layout: layout.njk
 ---
 AUT Spinout Secures $1.5 M Investment For Innovative Respiratory Technology
 ===========================================================================

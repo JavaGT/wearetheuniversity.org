@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-strategy-tick-off!
-title: "Tertiary Education Strategy?  Tick Off!"
-date: 2001-12-14
-source-url: https://www.scoop.co.nz/stories/PA0112/S00260/tertiary-education-strategy-tick-off.htm
+title: Tertiary Education Strategy?  Tick Off!
+date: 2001-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00260/tertiary-education-strategy-tick-off.htm
 author: new-zealand-national-party
+permalink: /archive/2001/12/14/tertiary-education-strategy-tick-off/index.html
+layout: layout.njk
 ---
 Tertiary Education Strategy? Tick Off!
 ======================================

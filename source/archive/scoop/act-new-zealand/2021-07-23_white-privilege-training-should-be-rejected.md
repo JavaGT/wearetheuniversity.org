@@ -1,9 +1,12 @@
 ---
 slug: white-privilege-training-should-be-rejected
-title: "White Privilege Training Should Be Rejected"
-date: 2021-07-23
-source-url: https://www.scoop.co.nz/stories/PA2107/S00169/white-privilege-training-should-be-rejected.htm
+title: White Privilege Training Should Be Rejected
+date: 2021-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00169/white-privilege-training-should-be-rejected.htm
 author: act-new-zealand
+permalink: /archive/2021/07/23/white-privilege-training-should-be-rejected/index.html
+layout: layout.njk
 ---
 White Privilege Training Should Be Rejected
 ===========================================

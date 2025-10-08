@@ -1,9 +1,12 @@
 ---
 slug: another-reason-to-end-secrecy-on-schoolsmart
-title: "Another reason to end secrecy on SchoolSmart"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/PA0606/S00148/another-reason-to-end-secrecy-on-schoolsmart.htm
+title: Another reason to end secrecy on SchoolSmart
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00148/another-reason-to-end-secrecy-on-schoolsmart.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/09/another-reason-to-end-secrecy-on-schoolsmart/index.html
+layout: layout.njk
 ---
 Another reason to end secrecy on SchoolSmart
 ============================================

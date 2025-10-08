@@ -1,9 +1,12 @@
 ---
 slug: greens-back-ihcs-human-rights-complaint
-title: "Greens back IHC's human rights complaint"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/PA0807/S00571/greens-back-ihcs-human-rights-complaint.htm
+title: Greens back IHC's human rights complaint
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00571/greens-back-ihcs-human-rights-complaint.htm
 author: green-party
+permalink: /archive/2008/07/31/greens-back-ihcs-human-rights-complaint/index.html
+layout: layout.njk
 ---
 Greens back IHC's human rights complaint
 ========================================

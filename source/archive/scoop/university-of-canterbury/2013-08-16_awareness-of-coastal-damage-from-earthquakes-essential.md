@@ -1,9 +1,13 @@
 ---
 slug: awareness-of-coastal-damage-from-earthquakes-essential
-title: "Awareness of coastal damage from earthquakes essential"
-date: 2013-08-16
-source-url: https://www.scoop.co.nz/stories/SC1308/S00040/awareness-of-coastal-damage-from-earthquakes-essential.htm
+title: Awareness of coastal damage from earthquakes essential
+date: 2013-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00040/awareness-of-coastal-damage-from-earthquakes-essential.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/16/awareness-of-coastal-damage-from-earthquakes-essential/index.html
+layout: layout.njk
 ---
 Awareness of coastal damage from earthquakes essential
 ======================================================

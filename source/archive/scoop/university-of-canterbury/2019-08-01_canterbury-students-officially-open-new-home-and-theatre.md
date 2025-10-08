@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-officially-open-new-home-and-theatre
-title: "Canterbury students officially open new home and theatre"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/ED1908/S00008/canterbury-students-officially-open-new-home-and-theatre.htm
+title: Canterbury students officially open new home and theatre
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00008/canterbury-students-officially-open-new-home-and-theatre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/01/canterbury-students-officially-open-new-home-and-theatre/index.html
+layout: layout.njk
 ---
 Canterbury students officially open new home and theatre
 ========================================================

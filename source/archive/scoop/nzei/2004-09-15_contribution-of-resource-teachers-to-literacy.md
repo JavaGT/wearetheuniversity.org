@@ -1,9 +1,12 @@
 ---
 slug: contribution-of-resource-teachers-to-literacy
-title: "Contribution Of Resource Teachers To Literacy"
-date: 2004-09-15
-source-url: https://www.scoop.co.nz/stories/ED0409/S00065/contribution-of-resource-teachers-to-literacy.htm
+title: Contribution Of Resource Teachers To Literacy
+date: 2004-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00065/contribution-of-resource-teachers-to-literacy.htm
 author: nzei
+permalink: /archive/2004/09/15/contribution-of-resource-teachers-to-literacy/index.html
+layout: layout.njk
 ---
 Contribution Of Resource Teachers To Literacy
 =============================================

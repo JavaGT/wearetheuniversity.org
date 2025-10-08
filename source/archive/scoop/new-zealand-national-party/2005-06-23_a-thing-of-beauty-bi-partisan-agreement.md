@@ -1,9 +1,12 @@
 ---
 slug: a-thing-of-beauty-bi-partisan-agreement
-title: "A Thing of Beauty - Bi Partisan Agreement"
-date: 2005-06-23
-source-url: https://www.scoop.co.nz/stories/PA0506/S00568/a-thing-of-beauty-bi-partisan-agreement.htm
+title: A Thing of Beauty - Bi Partisan Agreement
+date: 2005-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00568/a-thing-of-beauty-bi-partisan-agreement.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/23/a-thing-of-beauty-bi-partisan-agreement/index.html
+layout: layout.njk
 ---
 A Thing of Beauty - Bi Partisan Agreement
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-bridges-accounting-gap-in-schools
-title: "Lincoln bridges accounting gap in schools"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/ED1505/S00045/lincoln-bridges-accounting-gap-in-schools.htm
+title: Lincoln bridges accounting gap in schools
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00045/lincoln-bridges-accounting-gap-in-schools.htm
 author: lincoln-university
+permalink: /archive/2015/05/08/lincoln-bridges-accounting-gap-in-schools/index.html
+layout: layout.njk
 ---
 Lincoln bridges accounting gap in schools
 =========================================

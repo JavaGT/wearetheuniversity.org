@@ -1,9 +1,12 @@
 ---
 slug: split-ppta-vote-spells-trouble
-title: "Split PPTA Vote Spells Trouble"
-date: 2002-06-21
-source-url: https://www.scoop.co.nz/stories/PA0206/S00392/split-ppta-vote-spells-trouble.htm
+title: Split PPTA Vote Spells Trouble
+date: 2002-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00392/split-ppta-vote-spells-trouble.htm
 author: act-new-zealand
+permalink: /archive/2002/06/21/split-ppta-vote-spells-trouble/index.html
+layout: layout.njk
 ---
 Split PPTA Vote Spells Trouble
 ==============================

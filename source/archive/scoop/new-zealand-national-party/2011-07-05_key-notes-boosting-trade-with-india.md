@@ -1,9 +1,12 @@
 ---
 slug: key-notes-boosting-trade-with-india
-title: "Key Notes: Boosting Trade With India"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/PA1107/S00057/key-notes-boosting-trade-with-india.htm
+title: 'Key Notes: Boosting Trade With India'
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00057/key-notes-boosting-trade-with-india.htm
 author: new-zealand-national-party
+permalink: /archive/2011/07/05/key-notes-boosting-trade-with-india/index.html
+layout: layout.njk
 ---
 Key Notes: Boosting Trade With India
 ====================================

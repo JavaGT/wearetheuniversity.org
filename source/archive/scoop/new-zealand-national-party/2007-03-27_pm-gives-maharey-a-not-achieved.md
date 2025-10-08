@@ -1,9 +1,12 @@
 ---
 slug: pm-gives-maharey-a-not-achieved
-title: "PM gives Maharey a ‘not achieved’"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/PA0703/S00539/pm-gives-maharey-a-not-achieved.htm
+title: PM gives Maharey a ‘not achieved’
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00539/pm-gives-maharey-a-not-achieved.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/27/pm-gives-maharey-a-not-achieved/index.html
+layout: layout.njk
 ---
 PM gives Maharey a ‘not achieved’
 =================================

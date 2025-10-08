@@ -1,9 +1,13 @@
 ---
 slug: 3d-design-experts-to-show-students-imagination-is-the-limit
-title: "3D-design experts to show students imagination is the limit"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/ED1703/S00048/3d-design-experts-to-show-students-imagination-is-the-limit.htm
+title: 3D-design experts to show students imagination is the limit
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00048/3d-design-experts-to-show-students-imagination-is-the-limit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/09/3d-design-experts-to-show-students-imagination-is-the-limit/index.html
+layout: layout.njk
 ---
 3D-design experts to show students imagination is the limit
 ===========================================================

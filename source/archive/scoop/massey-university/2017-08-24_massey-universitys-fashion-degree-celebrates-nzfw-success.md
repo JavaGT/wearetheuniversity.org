@@ -1,9 +1,13 @@
 ---
 slug: massey-universitys-fashion-degree-celebrates-nzfw-success
-title: "Massey University’s Fashion Degree Celebrates NZFW Success"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/ED1708/S00086/massey-universitys-fashion-degree-celebrates-nzfw-success.htm
+title: Massey University’s Fashion Degree Celebrates NZFW Success
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00086/massey-universitys-fashion-degree-celebrates-nzfw-success.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/24/massey-universitys-fashion-degree-celebrates-nzfw-success/index.html
+layout: layout.njk
 ---
 Massey University’s Fashion Degree Celebrates NZFW Success
 ==========================================================

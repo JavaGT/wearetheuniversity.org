@@ -1,9 +1,13 @@
 ---
 slug: we-need-a-plan-for-the-transition-to-renewable-energy
-title: "We Need A Plan For The Transition To Renewable Energy"
-date: 2024-03-15
-source-url: https://www.scoop.co.nz/stories/HL2403/S00025/we-need-a-plan-for-the-transition-to-renewable-energy.htm
+title: We Need A Plan For The Transition To Renewable Energy
+date: 2024-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2403/S00025/we-need-a-plan-for-the-transition-to-renewable-energy.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/03/15/we-need-a-plan-for-the-transition-to-renewable-energy/index.html
+layout: layout.njk
 ---
 We Need A Plan For The Transition To Renewable Energy
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: horrendous-conditions-on-pig-farm-show-mpi-failing
-title: "Horrendous conditions on pig farm show MPI failing"
-date: 2014-06-29
-source-url: https://www.scoop.co.nz/stories/PA1406/S00460/horrendous-conditions-on-pig-farm-show-mpi-failing.htm
+title: Horrendous conditions on pig farm show MPI failing
+date: 2014-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00460/horrendous-conditions-on-pig-farm-show-mpi-failing.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/29/horrendous-conditions-on-pig-farm-show-mpi-failing/index.html
+layout: layout.njk
 ---
 Horrendous conditions on pig farm show MPI failing
 ==================================================

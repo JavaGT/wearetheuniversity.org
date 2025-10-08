@@ -1,9 +1,12 @@
 ---
 slug: harawira-pitch-invasion-speech
-title: "Harawira: Pitch invasion Speech"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PA0704/S00142/harawira-pitch-invasion-speech.htm
+title: 'Harawira: Pitch invasion Speech'
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00142/harawira-pitch-invasion-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/04/05/harawira-pitch-invasion-speech/index.html
+layout: layout.njk
 ---
 Harawira: Pitch invasion Speech
 ===============================

@@ -1,8 +1,15 @@
 ---
-slug: the-dark-side-of-religion-how-ritual-human-sacrifice-helped-create-unequal-societies
-title: "The dark side of religion: how ritual human sacrifice helped create unequal societies"
-date: 2016-04-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-dark-side-of-religion.html
+slug: >-
+  the-dark-side-of-religion-how-ritual-human-sacrifice-helped-create-unequal-societies
+title: >-
+  The dark side of religion: how ritual human sacrifice helped create unequal
+  societies
+date: 2016-04-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-dark-side-of-religion.html
+permalink: >-
+  /archive/2016/04/05/the-dark-side-of-religion-how-ritual-human-sacrifice-helped-create-unequal-societies/index.html
+layout: layout.njk
 ---
 The dark side of religion: how ritual human sacrifice helped create unequal societies
 =====================================================================================

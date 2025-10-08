@@ -1,9 +1,13 @@
 ---
 slug: summer-shakespeare-returns-to-the-dell-with-beloved-comedy
-title: "Summer Shakespeare returns to the Dell with beloved comedy"
-date: 2012-01-18
-source-url: https://www.scoop.co.nz/stories/CU1201/S00191/summer-shakespeare-returns-to-the-dell-with-beloved-comedy.htm
+title: Summer Shakespeare returns to the Dell with beloved comedy
+date: 2012-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1201/S00191/summer-shakespeare-returns-to-the-dell-with-beloved-comedy.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/01/18/summer-shakespeare-returns-to-the-dell-with-beloved-comedy/index.html
+layout: layout.njk
 ---
 Summer Shakespeare returns to the Dell with beloved comedy
 ==========================================================

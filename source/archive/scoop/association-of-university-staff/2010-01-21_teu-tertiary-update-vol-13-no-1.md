@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-1
-title: "TEU Tertiary Update Vol 13 No 1"
-date: 2010-01-21
-source-url: https://www.scoop.co.nz/stories/ED1001/S00023/teu-tertiary-update-vol-13-no-1.htm
+title: TEU Tertiary Update Vol 13 No 1
+date: 2010-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00023/teu-tertiary-update-vol-13-no-1.htm
 author: association-of-university-staff
+permalink: /archive/2010/01/21/teu-tertiary-update-vol-13-no-1/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 1
 ===============================

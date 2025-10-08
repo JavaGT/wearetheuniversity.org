@@ -1,9 +1,12 @@
 ---
 slug: student-interest-astronomical
-title: "Student interest astronomical"
-date: 1999-11-11
-source-url: https://www.scoop.co.nz/stories/PA9911/S00280/student-interest-astronomical.htm
+title: Student interest astronomical
+date: 1999-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00280/student-interest-astronomical.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/11/student-interest-astronomical/index.html
+layout: layout.njk
 ---
 Student interest astronomical
 =============================

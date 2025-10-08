@@ -1,9 +1,12 @@
 ---
 slug: key-must-release-syrian-briefings
-title: "Key must release Syrian briefings"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/PA1308/S00473/key-must-release-syrian-briefings.htm
+title: Key must release Syrian briefings
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00473/key-must-release-syrian-briefings.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/29/key-must-release-syrian-briefings/index.html
+layout: layout.njk
 ---
 Key must release Syrian briefings
 =================================

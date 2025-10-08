@@ -1,9 +1,13 @@
 ---
 slug: tech-park-takes-incubated-cos-new-revenue-heights
-title: "Tech Park takes incubated co's new revenue heights"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/BU0611/S00450/tech-park-takes-incubated-cos-new-revenue-heights.htm
+title: Tech Park takes incubated co's new revenue heights
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0611/S00450/tech-park-takes-incubated-cos-new-revenue-heights.htm
 author: aut-university
+permalink: >-
+  /archive/2006/11/24/tech-park-takes-incubated-cos-new-revenue-heights/index.html
+layout: layout.njk
 ---
 Tech Park takes incubated co's new revenue heights
 ==================================================

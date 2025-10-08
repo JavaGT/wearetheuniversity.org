@@ -1,9 +1,13 @@
 ---
 slug: canterbury-fulbright-scholar-to-study-california-earthquakes
-title: "Canterbury Fulbright Scholar to study California earthquakes"
-date: 2016-01-21
-source-url: https://www.scoop.co.nz/stories/ED1601/S00027/canterbury-fulbright-scholar-to-study-california-earthquakes.htm
+title: Canterbury Fulbright Scholar to study California earthquakes
+date: 2016-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00027/canterbury-fulbright-scholar-to-study-california-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/21/canterbury-fulbright-scholar-to-study-california-earthquakes/index.html
+layout: layout.njk
 ---
 Canterbury Fulbright Scholar to study California earthquakes
 ============================================================

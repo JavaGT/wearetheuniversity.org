@@ -1,9 +1,11 @@
 ---
 slug: hope-fading-fast-for-hipkins
-title: "Hope Fading Fast For Hipkins"
-date: 2023-01-23
+title: Hope Fading Fast For Hipkins
+date: 2023-01-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2301/S00054/hope-fading-fast-for-hipkins.htm
 author: act-new-zealand
+permalink: /archive/2023/01/23/hope-fading-fast-for-hipkins/index.html
+layout: layout.njk
 ---
 Hope Fading Fast For Hipkins
 ============================

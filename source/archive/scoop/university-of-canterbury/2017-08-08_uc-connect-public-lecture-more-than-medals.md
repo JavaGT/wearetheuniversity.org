@@ -1,9 +1,12 @@
 ---
 slug: uc-connect-public-lecture-more-than-medals
-title: "UC Connect public lecture: More than medals"
-date: 2017-08-08
-source-url: https://www.scoop.co.nz/stories/ED1708/S00020/uc-connect-public-lecture-more-than-medals.htm
+title: 'UC Connect public lecture: More than medals'
+date: 2017-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00020/uc-connect-public-lecture-more-than-medals.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/08/uc-connect-public-lecture-more-than-medals/index.html
+layout: layout.njk
 ---
 UC Connect public lecture: More than medals
 ===========================================

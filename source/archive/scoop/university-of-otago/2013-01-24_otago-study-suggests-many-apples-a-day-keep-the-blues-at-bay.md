@@ -1,9 +1,13 @@
 ---
 slug: otago-study-suggests-many-apples-a-day-keep-the-blues-at-bay
-title: "Otago Study Suggests Many Apples A Day Keep The Blues At Bay"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00076/otago-study-suggests-many-apples-a-day-keep-the-blues-at-bay.htm
+title: Otago Study Suggests Many Apples A Day Keep The Blues At Bay
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00076/otago-study-suggests-many-apples-a-day-keep-the-blues-at-bay.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/24/otago-study-suggests-many-apples-a-day-keep-the-blues-at-bay/index.html
+layout: layout.njk
 ---
 Otago Study Suggests Many Apples A Day Keep The Blues At Bay
 ============================================================

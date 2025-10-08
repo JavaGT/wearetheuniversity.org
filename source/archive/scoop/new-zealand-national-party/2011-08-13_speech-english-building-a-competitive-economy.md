@@ -1,9 +1,12 @@
 ---
 slug: speech-english-building-a-competitive-economy
-title: "Speech: English - Building a competitive economy"
-date: 2011-08-13
-source-url: https://www.scoop.co.nz/stories/PA1108/S00265/speech-english-building-a-competitive-economy.htm
+title: 'Speech: English - Building a competitive economy'
+date: 2011-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00265/speech-english-building-a-competitive-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/08/13/speech-english-building-a-competitive-economy/index.html
+layout: layout.njk
 ---
 Speech: English - Building a competitive economy
 ================================================

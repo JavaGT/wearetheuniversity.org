@@ -1,9 +1,13 @@
 ---
 slug: lincoln-graduation-returns-to-town-after-11-years-away
-title: "Lincoln Graduation Returns To Town After 11 Years Away"
-date: 2021-05-07
-source-url: https://www.scoop.co.nz/stories/ED2105/S00008/lincoln-graduation-returns-to-town-after-11-years-away.htm
+title: Lincoln Graduation Returns To Town After 11 Years Away
+date: 2021-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00008/lincoln-graduation-returns-to-town-after-11-years-away.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/05/07/lincoln-graduation-returns-to-town-after-11-years-away/index.html
+layout: layout.njk
 ---
 Lincoln Graduation Returns To Town After 11 Years Away
 ======================================================

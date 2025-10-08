@@ -1,9 +1,12 @@
 ---
 slug: fight-against-weeds-goes-hi-tech
-title: "Fight against weeds goes hi-tech"
-date: 2015-03-30
-source-url: https://www.scoop.co.nz/stories/SC1503/S00102/fight-against-weeds-goes-hi-tech.htm
+title: Fight against weeds goes hi-tech
+date: 2015-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00102/fight-against-weeds-goes-hi-tech.htm
 author: university-of-otago
+permalink: /archive/2015/03/30/fight-against-weeds-goes-hi-tech/index.html
+layout: layout.njk
 ---
 Fight against weeds goes hi-tech
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: six-thousand-fewer-elective-surgeries
-title: "Six thousand fewer elective surgeries"
-date: 2019-12-08
-source-url: https://www.scoop.co.nz/stories/PA1912/S00066/six-thousand-fewer-elective-surgeries.htm
+title: Six thousand fewer elective surgeries
+date: 2019-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00066/six-thousand-fewer-elective-surgeries.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/08/six-thousand-fewer-elective-surgeries/index.html
+layout: layout.njk
 ---
 Six thousand fewer elective surgeries
 =====================================

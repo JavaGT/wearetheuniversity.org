@@ -1,9 +1,13 @@
 ---
 slug: urinary-tract-infections-and-antibiotic-resistance
-title: "Urinary Tract Infections And Antibiotic Resistance"
-date: 2005-08-08
-source-url: https://www.scoop.co.nz/stories/GE0508/S00035/urinary-tract-infections-and-antibiotic-resistance.htm
+title: Urinary Tract Infections And Antibiotic Resistance
+date: 2005-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0508/S00035/urinary-tract-infections-and-antibiotic-resistance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/08/08/urinary-tract-infections-and-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 Urinary Tract Infections And Antibiotic Resistance
 ==================================================

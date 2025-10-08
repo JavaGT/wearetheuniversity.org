@@ -1,9 +1,12 @@
 ---
 slug: turia-good-health-starts-at-the-breast
-title: "Turia -  'Good health starts at the breast'"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/PA0607/S00539/turia-good-health-starts-at-the-breast.htm
+title: Turia -  'Good health starts at the breast'
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00539/turia-good-health-starts-at-the-breast.htm
 author: te-pati-maori
+permalink: /archive/2006/07/31/turia-good-health-starts-at-the-breast/index.html
+layout: layout.njk
 ---
 Turia - 'Good health starts at the breast'
 ==========================================

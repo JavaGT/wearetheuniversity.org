@@ -1,9 +1,12 @@
 ---
 slug: living-costs-component-will-continue-to-rise
-title: "Living Costs Component Will Continue To Rise"
-date: 2002-08-02
-source-url: https://www.scoop.co.nz/stories/ED0208/S00002/living-costs-component-will-continue-to-rise.htm
+title: Living Costs Component Will Continue To Rise
+date: 2002-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00002/living-costs-component-will-continue-to-rise.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/08/02/living-costs-component-will-continue-to-rise/index.html
+layout: layout.njk
 ---
 Living Costs Component Will Continue To Rise
 ============================================

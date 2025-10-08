@@ -1,9 +1,12 @@
 ---
 slug: flavell-maori-dental-association-hui
-title: "Flavell: Maori Dental Association Hui"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/PA0703/S00335/flavell-maori-dental-association-hui.htm
+title: 'Flavell: Maori Dental Association Hui'
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00335/flavell-maori-dental-association-hui.htm
 author: te-pati-maori
+permalink: /archive/2007/03/16/flavell-maori-dental-association-hui/index.html
+layout: layout.njk
 ---
 Flavell: Maori Dental Association Hui
 =====================================

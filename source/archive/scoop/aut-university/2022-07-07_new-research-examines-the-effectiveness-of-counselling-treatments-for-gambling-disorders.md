@@ -1,9 +1,16 @@
 ---
-slug: new-research-examines-the-effectiveness-of-counselling-treatments-for-gambling-disorders
-title: "New Research Examines The Effectiveness Of Counselling Treatments For Gambling Disorders."
-date: 2022-07-07
-source-url: https://www.scoop.co.nz/stories/GE2207/S00021/new-research-examines-the-effectiveness-of-counselling-treatments-for-gambling-disorders.htm
+slug: >-
+  new-research-examines-the-effectiveness-of-counselling-treatments-for-gambling-disorders
+title: >-
+  New Research Examines The Effectiveness Of Counselling Treatments For Gambling
+  Disorders.
+date: 2022-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2207/S00021/new-research-examines-the-effectiveness-of-counselling-treatments-for-gambling-disorders.htm
 author: aut-university
+permalink: >-
+  /archive/2022/07/07/new-research-examines-the-effectiveness-of-counselling-treatments-for-gambling-disorders/index.html
+layout: layout.njk
 ---
 New Research Examines The Effectiveness Of Counselling Treatments For Gambling Disorders.
 =========================================================================================

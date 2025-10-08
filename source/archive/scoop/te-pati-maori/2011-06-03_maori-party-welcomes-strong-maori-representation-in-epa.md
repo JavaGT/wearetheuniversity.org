@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-strong-maori-representation-in-epa
-title: "Maori Party welcomes strong Maori representation in EPA"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/PA1106/S00075/maori-party-welcomes-strong-maori-representation-in-epa.htm
+title: Maori Party welcomes strong Maori representation in EPA
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00075/maori-party-welcomes-strong-maori-representation-in-epa.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/03/maori-party-welcomes-strong-maori-representation-in-epa/index.html
+layout: layout.njk
 ---
 Maori Party welcomes strong Maori representation in EPA
 =======================================================

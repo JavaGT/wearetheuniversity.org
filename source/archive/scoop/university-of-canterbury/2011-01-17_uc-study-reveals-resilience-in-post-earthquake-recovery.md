@@ -1,9 +1,13 @@
 ---
 slug: uc-study-reveals-resilience-in-post-earthquake-recovery
-title: "UC study reveals resilience in post- earthquake recovery"
-date: 2011-01-17
-source-url: https://www.scoop.co.nz/stories/AK1101/S00291/uc-study-reveals-resilience-in-post-earthquake-recovery.htm
+title: UC study reveals resilience in post- earthquake recovery
+date: 2011-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1101/S00291/uc-study-reveals-resilience-in-post-earthquake-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/01/17/uc-study-reveals-resilience-in-post-earthquake-recovery/index.html
+layout: layout.njk
 ---
 UC study reveals resilience in post- earthquake recovery
 ========================================================

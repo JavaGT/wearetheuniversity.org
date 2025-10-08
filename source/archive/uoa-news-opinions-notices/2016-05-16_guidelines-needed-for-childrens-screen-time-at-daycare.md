@@ -1,8 +1,12 @@
 ---
 slug: guidelines-needed-for-childrens-screen-time-at-daycare
-title: "Guidelines needed for children’s screen time at daycare"
-date: 2016-05-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/guidelines-needed-for-childrens-screen-time.html
+title: Guidelines needed for children’s screen time at daycare
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/guidelines-needed-for-childrens-screen-time.html
+permalink: >-
+  /archive/2016/05/16/guidelines-needed-for-childrens-screen-time-at-daycare/index.html
+layout: layout.njk
 ---
 Guidelines needed for children’s screen time at daycare
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-campaign-for-election-year-a-new-look-for-the-greens
-title: "First campaign for election year – a new look for the Greens"
-date: 2017-04-04
-source-url: https://www.scoop.co.nz/stories/PO1704/S00029/first-campaign-for-election-year-a-new-look-for-the-greens.htm
+title: First campaign for election year – a new look for the Greens
+date: 2017-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00029/first-campaign-for-election-year-a-new-look-for-the-greens.htm
 author: green-party
+permalink: >-
+  /archive/2017/04/04/first-campaign-for-election-year-a-new-look-for-the-greens/index.html
+layout: layout.njk
 ---
 First campaign for election year – a new look for the Greens
 ============================================================

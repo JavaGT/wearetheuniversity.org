@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-call-for-support
-title: "NZEI Welcomes Call For Support"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/ED0703/S00068/nzei-welcomes-call-for-support.htm
+title: NZEI Welcomes Call For Support
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00068/nzei-welcomes-call-for-support.htm
 author: nzei
+permalink: /archive/2007/03/20/nzei-welcomes-call-for-support/index.html
+layout: layout.njk
 ---
 NZEI Welcomes Call For Support
 ==============================

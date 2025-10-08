@@ -1,9 +1,13 @@
 ---
 slug: bullrush-ban-symptom-of-major-physical-ed-failure
-title: "Bullrush ban symptom of major physical ed failure"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/ED0909/S00018/bullrush-ban-symptom-of-major-physical-ed-failure.htm
+title: Bullrush ban symptom of major physical ed failure
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00018/bullrush-ban-symptom-of-major-physical-ed-failure.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/07/bullrush-ban-symptom-of-major-physical-ed-failure/index.html
+layout: layout.njk
 ---
 Bullrush ban symptom of major physical ed failure
 =================================================

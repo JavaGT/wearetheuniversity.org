@@ -1,9 +1,13 @@
 ---
 slug: aups-ian-wedde-announced-as-new-zealand-poet-laureate
-title: "AUP’s Ian Wedde Announced as New Zealand Poet Laureate"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00035/aups-ian-wedde-announced-as-new-zealand-poet-laureate.htm
+title: AUP’s Ian Wedde Announced as New Zealand Poet Laureate
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00035/aups-ian-wedde-announced-as-new-zealand-poet-laureate.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/08/04/aups-ian-wedde-announced-as-new-zealand-poet-laureate/index.html
+layout: layout.njk
 ---
 AUP’s Ian Wedde Announced as New Zealand Poet Laureate
 ======================================================

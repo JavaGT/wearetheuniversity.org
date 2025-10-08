@@ -1,8 +1,11 @@
 ---
 slug: first-heritage-conservation-degree-conferred
-title: "First heritage conservation degree conferred"
-date: 2017-09-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/first-heritage-conservation-degree-conferred.html
+title: First heritage conservation degree conferred
+date: 2017-09-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/first-heritage-conservation-degree-conferred.html
+permalink: /archive/2017/09/27/first-heritage-conservation-degree-conferred/index.html
+layout: layout.njk
 ---
 First heritage conservation degree conferred
 ============================================

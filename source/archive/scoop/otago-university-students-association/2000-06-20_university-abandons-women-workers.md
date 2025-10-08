@@ -1,9 +1,12 @@
 ---
 slug: university-abandons-women-workers
-title: "University abandons women workers"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/ED0006/S00028/university-abandons-women-workers.htm
+title: University abandons women workers
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00028/university-abandons-women-workers.htm
 author: otago-university-students-association
+permalink: /archive/2000/06/20/university-abandons-women-workers/index.html
+layout: layout.njk
 ---
 University abandons women workers
 =================================

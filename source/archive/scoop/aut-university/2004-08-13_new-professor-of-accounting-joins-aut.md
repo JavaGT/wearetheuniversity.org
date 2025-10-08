@@ -1,9 +1,12 @@
 ---
 slug: new-professor-of-accounting-joins-aut
-title: "New Professor of Accounting Joins AUT"
-date: 2004-08-13
-source-url: https://www.scoop.co.nz/stories/ED0408/S00062/new-professor-of-accounting-joins-aut.htm
+title: New Professor of Accounting Joins AUT
+date: 2004-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00062/new-professor-of-accounting-joins-aut.htm
 author: aut-university
+permalink: /archive/2004/08/13/new-professor-of-accounting-joins-aut/index.html
+layout: layout.njk
 ---
 New Professor of Accounting Joins AUT
 =====================================

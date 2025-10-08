@@ -1,9 +1,11 @@
 ---
 slug: nandor-in-napier
-title: "Nandor In Napier"
-date: 2002-06-17
+title: Nandor In Napier
+date: 2002-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00285/nandor-in-napier.htm
 author: green-party
+permalink: /archive/2002/06/17/nandor-in-napier/index.html
+layout: layout.njk
 ---
 Nandor In Napier
 ================

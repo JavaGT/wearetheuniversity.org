@@ -1,9 +1,12 @@
 ---
 slug: ozzie-(mis)adventure-for-intrepid-trio
-title: "Ozzie (mis)adventure for intrepid trio"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/ED1503/S00068/ozzie-misadventure-for-intrepid-trio.htm
+title: Ozzie (mis)adventure for intrepid trio
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00068/ozzie-misadventure-for-intrepid-trio.htm
 author: university-of-waikato
+permalink: /archive/2015/03/16/ozzie-/index.html
+layout: layout.njk
 ---
 Ozzie (mis)adventure for intrepid trio
 ======================================

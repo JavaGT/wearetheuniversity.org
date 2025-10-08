@@ -1,9 +1,12 @@
 ---
 slug: moving-schools-from-good-to-great
-title: "Moving Schools From Good To Great"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00176/moving-schools-from-good-to-great.htm
+title: Moving Schools From Good To Great
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00176/moving-schools-from-good-to-great.htm
 author: act-new-zealand
+permalink: /archive/2004/05/10/moving-schools-from-good-to-great/index.html
+layout: layout.njk
 ---
 Moving Schools From Good To Great
 =================================

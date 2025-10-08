@@ -1,9 +1,12 @@
 ---
 slug: its-the-maharey-principle-again
-title: "It's the Maharey Principle again"
-date: 2002-10-09
-source-url: https://www.scoop.co.nz/stories/PA0210/S00172/its-the-maharey-principle-again.htm
+title: It's the Maharey Principle again
+date: 2002-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00172/its-the-maharey-principle-again.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/09/its-the-maharey-principle-again/index.html
+layout: layout.njk
 ---
 It's the Maharey Principle again
 ================================

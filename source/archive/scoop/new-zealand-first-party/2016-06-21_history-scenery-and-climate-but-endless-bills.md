@@ -1,9 +1,12 @@
 ---
 slug: history-scenery-and-climate-but-endless-bills
-title: "History, scenery and climate – but endless bills"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/PA1606/S00359/history-scenery-and-climate-but-endless-bills.htm
+title: History, scenery and climate – but endless bills
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00359/history-scenery-and-climate-but-endless-bills.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/21/history-scenery-and-climate-but-endless-bills/index.html
+layout: layout.njk
 ---
 History, scenery and climate – but endless bills
 ================================================

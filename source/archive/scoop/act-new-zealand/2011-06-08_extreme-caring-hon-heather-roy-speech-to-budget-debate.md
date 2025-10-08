@@ -1,9 +1,13 @@
 ---
 slug: extreme-caring-hon-heather-roy-speech-to-budget-debate
-title: "Extreme Caring – Hon Heather Roy Speech To Budget Debate"
-date: 2011-06-08
-source-url: https://www.scoop.co.nz/stories/PA1106/S00113/extreme-caring-hon-heather-roy-speech-to-budget-debate.htm
+title: Extreme Caring – Hon Heather Roy Speech To Budget Debate
+date: 2011-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00113/extreme-caring-hon-heather-roy-speech-to-budget-debate.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/06/08/extreme-caring-hon-heather-roy-speech-to-budget-debate/index.html
+layout: layout.njk
 ---
 Extreme Caring – Hon Heather Roy Speech To Budget Debate
 ========================================================

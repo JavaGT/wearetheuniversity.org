@@ -1,9 +1,13 @@
 ---
 slug: northland-only-rates-a-mention-misses-out-on-big-projects
-title: "Northland Only Rates a Mention, Misses Out on Big Projects"
-date: 2016-01-27
-source-url: https://www.scoop.co.nz/stories/PA1601/S00135/northland-only-rates-a-mention-misses-out-on-big-projects.htm
+title: Northland Only Rates a Mention, Misses Out on Big Projects
+date: 2016-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00135/northland-only-rates-a-mention-misses-out-on-big-projects.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/01/27/northland-only-rates-a-mention-misses-out-on-big-projects/index.html
+layout: layout.njk
 ---
 Northland Only Rates a Mention, Misses Out on Big Projects
 ==========================================================

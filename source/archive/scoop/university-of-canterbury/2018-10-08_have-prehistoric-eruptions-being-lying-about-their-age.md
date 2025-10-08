@@ -1,9 +1,13 @@
 ---
 slug: have-prehistoric-eruptions-being-lying-about-their-age
-title: "Have prehistoric eruptions being lying about their age?"
-date: 2018-10-08
-source-url: https://www.scoop.co.nz/stories/SC1810/S00037/have-prehistoric-eruptions-being-lying-about-their-age.htm
+title: Have prehistoric eruptions being lying about their age?
+date: 2018-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00037/have-prehistoric-eruptions-being-lying-about-their-age.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/08/have-prehistoric-eruptions-being-lying-about-their-age/index.html
+layout: layout.njk
 ---
 Have prehistoric eruptions being lying about their age?
 =======================================================

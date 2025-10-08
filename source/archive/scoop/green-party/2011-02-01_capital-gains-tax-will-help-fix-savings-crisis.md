@@ -1,9 +1,12 @@
 ---
 slug: capital-gains-tax-will-help-fix-savings-crisis
-title: "Capital gains tax will help fix savings crisis"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/PA1102/S00014/capital-gains-tax-will-help-fix-savings-crisis.htm
+title: Capital gains tax will help fix savings crisis
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00014/capital-gains-tax-will-help-fix-savings-crisis.htm
 author: green-party
+permalink: /archive/2011/02/01/capital-gains-tax-will-help-fix-savings-crisis/index.html
+layout: layout.njk
 ---
 Capital gains tax will help fix savings crisis
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: removing-cap-on-fees-will-knee-cap-students
-title: "Removing cap on fees will knee-cap students"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/PA0811/S00213/removing-cap-on-fees-will-knee-cap-students.htm
+title: Removing cap on fees will knee-cap students
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00213/removing-cap-on-fees-will-knee-cap-students.htm
 author: green-party
+permalink: /archive/2008/11/27/removing-cap-on-fees-will-knee-cap-students/index.html
+layout: layout.njk
 ---
 Removing cap on fees will knee-cap students
 ===========================================

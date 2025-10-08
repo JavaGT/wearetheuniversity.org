@@ -1,9 +1,12 @@
 ---
 slug: pasifika-ed-plan-takes-wrong-turn-under-nats
-title: "Pasifika Ed plan takes wrong turn under Nats"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00455/pasifika-ed-plan-takes-wrong-turn-under-nats.htm
+title: Pasifika Ed plan takes wrong turn under Nats
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00455/pasifika-ed-plan-takes-wrong-turn-under-nats.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/27/pasifika-ed-plan-takes-wrong-turn-under-nats/index.html
+layout: layout.njk
 ---
 Pasifika Ed plan takes wrong turn under Nats
 ============================================

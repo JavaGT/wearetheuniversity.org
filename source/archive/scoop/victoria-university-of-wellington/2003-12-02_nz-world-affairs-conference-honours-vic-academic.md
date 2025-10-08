@@ -1,9 +1,13 @@
 ---
 slug: nz-world-affairs-conference-honours-vic-academic
-title: "NZ World Affairs – conference honours Vic Academic"
-date: 2003-12-02
-source-url: https://www.scoop.co.nz/stories/ED0312/S00004/nz-world-affairs-conference-honours-vic-academic.htm
+title: NZ World Affairs – conference honours Vic Academic
+date: 2003-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00004/nz-world-affairs-conference-honours-vic-academic.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/12/02/nz-world-affairs-conference-honours-vic-academic/index.html
+layout: layout.njk
 ---
 NZ World Affairs – conference honours Vic Academic
 ==================================================

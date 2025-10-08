@@ -1,9 +1,13 @@
 ---
 slug: unfortunate-experiment-to-be-unleashed-on-nz-children
-title: "Unfortunate experiment to be unleashed on NZ children"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/ED1305/S00087/unfortunate-experiment-to-be-unleashed-on-nz-children.htm
+title: Unfortunate experiment to be unleashed on NZ children
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00087/unfortunate-experiment-to-be-unleashed-on-nz-children.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/14/unfortunate-experiment-to-be-unleashed-on-nz-children/index.html
+layout: layout.njk
 ---
 Unfortunate experiment to be unleashed on NZ children
 =====================================================

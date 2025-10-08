@@ -1,9 +1,12 @@
 ---
 slug: key-notes-12-2-10-our-priorities-for-2010
-title: "Key Notes 12/2/10 – Our Priorities for 2010"
-date: 2010-02-12
-source-url: https://www.scoop.co.nz/stories/PA1002/S00170/key-notes-12210-our-priorities-for-2010.htm
+title: Key Notes 12/2/10 – Our Priorities for 2010
+date: 2010-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00170/key-notes-12210-our-priorities-for-2010.htm
 author: new-zealand-national-party
+permalink: /archive/2010/02/12/key-notes-12-2-10-our-priorities-for-2010/index.html
+layout: layout.njk
 ---
 Key Notes 12/2/10 – Our Priorities for 2010
 ===========================================

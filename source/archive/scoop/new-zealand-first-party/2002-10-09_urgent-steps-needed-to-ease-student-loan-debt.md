@@ -1,9 +1,12 @@
 ---
 slug: urgent-steps-needed-to-ease-student-loan-debt
-title: "Urgent Steps Needed To Ease Student Loan Debt"
-date: 2002-10-09
-source-url: https://www.scoop.co.nz/stories/PA0210/S00169/urgent-steps-needed-to-ease-student-loan-debt.htm
+title: Urgent Steps Needed To Ease Student Loan Debt
+date: 2002-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00169/urgent-steps-needed-to-ease-student-loan-debt.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/09/urgent-steps-needed-to-ease-student-loan-debt/index.html
+layout: layout.njk
 ---
 Urgent Steps Needed To Ease Student Loan Debt
 =============================================

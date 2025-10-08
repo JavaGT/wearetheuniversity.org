@@ -1,9 +1,13 @@
 ---
 slug: govt-warned-of-dangers-of-direct-vioxx-marketing
-title: "Govt warned of dangers of direct Vioxx marketing"
-date: 2004-10-01
-source-url: https://www.scoop.co.nz/stories/PA0410/S00005/govt-warned-of-dangers-of-direct-vioxx-marketing.htm
+title: Govt warned of dangers of direct Vioxx marketing
+date: 2004-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00005/govt-warned-of-dangers-of-direct-vioxx-marketing.htm
 author: green-party
+permalink: >-
+  /archive/2004/10/01/govt-warned-of-dangers-of-direct-vioxx-marketing/index.html
+layout: layout.njk
 ---
 Govt warned of dangers of direct Vioxx marketing
 ================================================

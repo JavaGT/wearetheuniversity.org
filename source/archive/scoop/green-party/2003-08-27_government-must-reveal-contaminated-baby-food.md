@@ -1,9 +1,12 @@
 ---
 slug: government-must-reveal-contaminated-baby-food
-title: "Government must reveal contaminated baby food"
-date: 2003-08-27
-source-url: https://www.scoop.co.nz/stories/PA0308/S00518/government-must-reveal-contaminated-baby-food.htm
+title: Government must reveal contaminated baby food
+date: 2003-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00518/government-must-reveal-contaminated-baby-food.htm
 author: green-party
+permalink: /archive/2003/08/27/government-must-reveal-contaminated-baby-food/index.html
+layout: layout.njk
 ---
 Government must reveal contaminated baby food
 =============================================

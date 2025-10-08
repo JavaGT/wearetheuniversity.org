@@ -1,9 +1,13 @@
 ---
 slug: legal-action-against-education-ministry-over-pay
-title: "Legal Action Against Education Ministry Over Pay"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/ED1005/S00069/legal-action-against-education-ministry-over-pay.htm
+title: Legal Action Against Education Ministry Over Pay
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00069/legal-action-against-education-ministry-over-pay.htm
 author: nzei
+permalink: >-
+  /archive/2010/05/18/legal-action-against-education-ministry-over-pay/index.html
+layout: layout.njk
 ---
 Legal Action Against Education Ministry Over Pay
 ================================================

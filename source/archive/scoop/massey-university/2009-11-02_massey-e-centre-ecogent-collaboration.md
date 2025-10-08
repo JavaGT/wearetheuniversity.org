@@ -1,9 +1,12 @@
 ---
 slug: massey-e-centre-ecogent-collaboration
-title: "Massey e-centre/eCOGENT Collaboration"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/BU0911/S00025/massey-e-centreecogent-collaboration.htm
+title: Massey e-centre/eCOGENT Collaboration
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00025/massey-e-centreecogent-collaboration.htm
 author: massey-university
+permalink: /archive/2009/11/02/massey-e-centre-ecogent-collaboration/index.html
+layout: layout.njk
 ---
 Massey e-centre/eCOGENT Collaboration
 =====================================

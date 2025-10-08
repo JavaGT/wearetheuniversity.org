@@ -1,9 +1,12 @@
 ---
 slug: what-a-difference-a-decent-tax-cut-would-make
-title: "What a difference a decent tax cut would make"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/PA0501/S00256/what-a-difference-a-decent-tax-cut-would-make.htm
+title: What a difference a decent tax cut would make
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00256/what-a-difference-a-decent-tax-cut-would-make.htm
 author: act-new-zealand
+permalink: /archive/2005/01/27/what-a-difference-a-decent-tax-cut-would-make/index.html
+layout: layout.njk
 ---
 What a difference a decent tax cut would make
 =============================================

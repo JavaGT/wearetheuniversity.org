@@ -1,9 +1,12 @@
 ---
 slug: students-incensed-by-loans-review
-title: "Students Incensed By Loans Review"
-date: 2002-05-06
-source-url: https://www.scoop.co.nz/stories/PO0205/S00059/students-incensed-by-loans-review.htm
+title: Students Incensed By Loans Review
+date: 2002-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00059/students-incensed-by-loans-review.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/06/students-incensed-by-loans-review/index.html
+layout: layout.njk
 ---
 Students Incensed By Loans Review
 =================================

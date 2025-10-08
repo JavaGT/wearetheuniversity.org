@@ -1,9 +1,12 @@
 ---
 slug: anz-focused-on-customer-satisfaction
-title: "ANZ focused on customer satisfaction"
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/ED0310/S00050/anz-focused-on-customer-satisfaction.htm
+title: ANZ focused on customer satisfaction
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00050/anz-focused-on-customer-satisfaction.htm
 author: auckland-university
+permalink: /archive/2003/10/13/anz-focused-on-customer-satisfaction/index.html
+layout: layout.njk
 ---
 ANZ focused on customer satisfaction
 ====================================

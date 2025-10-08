@@ -1,9 +1,12 @@
 ---
 slug: generations-written-off-in-night-class-cuts
-title: "Generations written off in night class cuts"
-date: 2009-09-21
-source-url: https://www.scoop.co.nz/stories/PA0909/S00284/generations-written-off-in-night-class-cuts.htm
+title: Generations written off in night class cuts
+date: 2009-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00284/generations-written-off-in-night-class-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/21/generations-written-off-in-night-class-cuts/index.html
+layout: layout.njk
 ---
 Generations written off in night class cuts
 ===========================================

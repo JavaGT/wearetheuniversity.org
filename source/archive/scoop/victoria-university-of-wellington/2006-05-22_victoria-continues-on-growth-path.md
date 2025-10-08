@@ -1,9 +1,12 @@
 ---
 slug: victoria-continues-on-growth-path
-title: "Victoria continues on growth path"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/ED0605/S00077/victoria-continues-on-growth-path.htm
+title: Victoria continues on growth path
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00077/victoria-continues-on-growth-path.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/22/victoria-continues-on-growth-path/index.html
+layout: layout.njk
 ---
 Victoria continues on growth path
 =================================

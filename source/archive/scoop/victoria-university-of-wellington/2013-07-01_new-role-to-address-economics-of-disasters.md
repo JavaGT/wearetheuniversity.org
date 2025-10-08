@@ -1,9 +1,12 @@
 ---
 slug: new-role-to-address-economics-of-disasters
-title: "New role to address economics of disasters"
-date: 2013-07-01
-source-url: https://www.scoop.co.nz/stories/ED1307/S00003/new-role-to-address-economics-of-disasters.htm
+title: New role to address economics of disasters
+date: 2013-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00003/new-role-to-address-economics-of-disasters.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/01/new-role-to-address-economics-of-disasters/index.html
+layout: layout.njk
 ---
 New role to address economics of disasters
 ==========================================

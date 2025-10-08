@@ -1,9 +1,13 @@
 ---
 slug: queens-birthday-honours-for-services-to-universities
-title: "Queen’s Birthday Honours for services to universities"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00006/queens-birthday-honours-for-services-to-universities.htm
+title: Queen’s Birthday Honours for services to universities
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00006/queens-birthday-honours-for-services-to-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/06/03/queens-birthday-honours-for-services-to-universities/index.html
+layout: layout.njk
 ---
 Queen’s Birthday Honours for services to universities
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-runs-interference-on-returns-of-soes
-title: "National runs interference on returns of SOEs"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/PA1202/S00122/national-runs-interference-on-returns-of-soes.htm
+title: National runs interference on returns of SOEs
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00122/national-runs-interference-on-returns-of-soes.htm
 author: green-party
+permalink: /archive/2012/02/10/national-runs-interference-on-returns-of-soes/index.html
+layout: layout.njk
 ---
 National runs interference on returns of SOEs
 =============================================

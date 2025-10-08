@@ -1,9 +1,12 @@
 ---
 slug: māori-party-on-the-security-council-notice-of-motion
-title: "Māori Party on the Security Council notice of motion"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/PA1410/S00119/maori-party-on-the-security-council-notice-of-motion.htm
+title: Māori Party on the Security Council notice of motion
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00119/maori-party-on-the-security-council-notice-of-motion.htm
 author: te-pati-maori
+permalink: /archive/2014/10/22/m/index.html
+layout: layout.njk
 ---
 Māori Party on the Security Council notice of motion
 ====================================================

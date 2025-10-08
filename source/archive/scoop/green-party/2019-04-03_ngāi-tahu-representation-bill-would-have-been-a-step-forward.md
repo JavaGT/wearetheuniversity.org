@@ -1,9 +1,12 @@
 ---
 slug: ngāi-tahu-representation-bill-would-have-been-a-step-forward
-title: "Ngāi Tahu Representation Bill would have been a step forward"
-date: 2019-04-03
-source-url: https://www.scoop.co.nz/stories/PA1904/S00034/ngai-tahu-representation-bill-would-have-been-a-step-forward.htm
+title: Ngāi Tahu Representation Bill would have been a step forward
+date: 2019-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00034/ngai-tahu-representation-bill-would-have-been-a-step-forward.htm
 author: green-party
+permalink: /archive/2019/04/03/ng/index.html
+layout: layout.njk
 ---
 Ngāi Tahu Representation Bill would have been a step forward
 ============================================================

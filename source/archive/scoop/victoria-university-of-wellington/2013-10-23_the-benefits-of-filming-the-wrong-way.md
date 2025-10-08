@@ -1,9 +1,12 @@
 ---
 slug: the-benefits-of-filming-the-wrong-way
-title: "The benefits of filming the ‘wrong way’"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/SC1310/S00060/the-benefits-of-filming-the-wrong-way.htm
+title: The benefits of filming the ‘wrong way’
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00060/the-benefits-of-filming-the-wrong-way.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/23/the-benefits-of-filming-the-wrong-way/index.html
+layout: layout.njk
 ---
 The benefits of filming the ‘wrong way’
 =======================================

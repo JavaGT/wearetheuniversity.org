@@ -1,9 +1,12 @@
 ---
 slug: misconduct-bridget-van-der-zijpp
-title: "Misconduct: Bridget van der Zijpp"
-date: 2008-04-01
-source-url: https://www.scoop.co.nz/stories/CU0804/S00001/misconduct-bridget-van-der-zijpp.htm
+title: 'Misconduct: Bridget van der Zijpp'
+date: 2008-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0804/S00001/misconduct-bridget-van-der-zijpp.htm
 author: victoria-university-press
+permalink: /archive/2008/04/01/misconduct-bridget-van-der-zijpp/index.html
+layout: layout.njk
 ---
 Misconduct: Bridget van der Zijpp
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: urban-forests-forgetting-epiphytes
-title: "Urban forests forgetting epiphytes"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/ED1110/S00017/urban-forests-forgetting-epiphytes.htm
+title: Urban forests forgetting epiphytes
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00017/urban-forests-forgetting-epiphytes.htm
 author: waikato-university
+permalink: /archive/2011/10/05/urban-forests-forgetting-epiphytes/index.html
+layout: layout.njk
 ---
 Urban forests forgetting epiphytes
 ==================================

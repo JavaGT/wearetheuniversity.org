@@ -1,9 +1,12 @@
 ---
 slug: troubled-waters-ahead-for-marine-life
-title: "Troubled waters ahead for marine life"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/SC1607/S00022/troubled-waters-ahead-for-marine-life.htm
+title: Troubled waters ahead for marine life
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00022/troubled-waters-ahead-for-marine-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/07/07/troubled-waters-ahead-for-marine-life/index.html
+layout: layout.njk
 ---
 Troubled waters ahead for marine life
 =====================================

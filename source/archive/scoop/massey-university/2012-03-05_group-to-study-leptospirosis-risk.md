@@ -1,9 +1,12 @@
 ---
 slug: group-to-study-leptospirosis-risk
-title: "Group to study leptospirosis risk"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/ED1203/S00014/group-to-study-leptospirosis-risk.htm
+title: Group to study leptospirosis risk
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00014/group-to-study-leptospirosis-risk.htm
 author: massey-university
+permalink: /archive/2012/03/05/group-to-study-leptospirosis-risk/index.html
+layout: layout.njk
 ---
 Group to study leptospirosis risk
 =================================

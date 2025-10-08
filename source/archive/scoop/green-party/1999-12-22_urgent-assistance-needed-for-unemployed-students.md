@@ -1,9 +1,13 @@
 ---
 slug: urgent-assistance-needed-for-unemployed-students
-title: "Urgent Assistance Needed For Unemployed Students"
-date: 1999-12-22
-source-url: https://www.scoop.co.nz/stories/PA9912/S00115/urgent-assistance-needed-for-unemployed-students.htm
+title: Urgent Assistance Needed For Unemployed Students
+date: 1999-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00115/urgent-assistance-needed-for-unemployed-students.htm
 author: green-party
+permalink: >-
+  /archive/1999/12/22/urgent-assistance-needed-for-unemployed-students/index.html
+layout: layout.njk
 ---
 Urgent Assistance Needed For Unemployed Students
 ================================================

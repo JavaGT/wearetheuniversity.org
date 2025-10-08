@@ -1,9 +1,12 @@
 ---
 slug: genome-researcher-finds-less-is-more
-title: "Genome researcher finds less is more"
-date: 2010-10-05
-source-url: https://www.scoop.co.nz/stories/SC1010/S00007/genome-researcher-finds-less-is-more.htm
+title: Genome researcher finds less is more
+date: 2010-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1010/S00007/genome-researcher-finds-less-is-more.htm
 author: massey-university
+permalink: /archive/2010/10/05/genome-researcher-finds-less-is-more/index.html
+layout: layout.njk
 ---
 Genome researcher finds less is more
 ====================================

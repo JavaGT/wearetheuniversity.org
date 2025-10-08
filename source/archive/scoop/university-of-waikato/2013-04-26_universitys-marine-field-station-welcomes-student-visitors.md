@@ -1,9 +1,13 @@
 ---
 slug: universitys-marine-field-station-welcomes-student-visitors
-title: "University’s Marine Field Station welcomes student visitors"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/ED1304/S00149/universitys-marine-field-station-welcomes-student-visitors.htm
+title: University’s Marine Field Station welcomes student visitors
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00149/universitys-marine-field-station-welcomes-student-visitors.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/26/universitys-marine-field-station-welcomes-student-visitors/index.html
+layout: layout.njk
 ---
 University’s Marine Field Station welcomes student visitors
 ===========================================================

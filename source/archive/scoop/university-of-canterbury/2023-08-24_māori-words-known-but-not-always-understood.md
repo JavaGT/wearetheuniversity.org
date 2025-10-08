@@ -1,9 +1,12 @@
 ---
 slug: māori-words-known-but-not-always-understood
-title: "Māori Words Known But Not Always Understood"
-date: 2023-08-24
-source-url: https://www.scoop.co.nz/stories/AK2308/S00397/maori-words-known-but-not-always-understood.htm
+title: Māori Words Known But Not Always Understood
+date: 2023-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2308/S00397/maori-words-known-but-not-always-understood.htm
 author: university-of-canterbury
+permalink: /archive/2023/08/24/m/index.html
+layout: layout.njk
 ---
 Māori Words Known But Not Always Understood
 ===========================================

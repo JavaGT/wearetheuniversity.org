@@ -1,9 +1,12 @@
 ---
 slug: national-right-behind-farmers
-title: "National right behind farmers"
-date: 2006-05-06
-source-url: https://www.scoop.co.nz/stories/PA0605/S00156/national-right-behind-farmers.htm
+title: National right behind farmers
+date: 2006-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00156/national-right-behind-farmers.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/06/national-right-behind-farmers/index.html
+layout: layout.njk
 ---
 National right behind farmers
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: students-to-quiz-mayoral-candidates
-title: "Students To Quiz Mayoral Candidates"
-date: 2001-09-06
-source-url: https://www.scoop.co.nz/stories/ED0109/S00003/students-to-quiz-mayoral-candidates.htm
+title: Students To Quiz Mayoral Candidates
+date: 2001-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0109/S00003/students-to-quiz-mayoral-candidates.htm
 author: victoria-university-students-association
+permalink: /archive/2001/09/06/students-to-quiz-mayoral-candidates/index.html
+layout: layout.njk
 ---
 Students To Quiz Mayoral Candidates
 ===================================

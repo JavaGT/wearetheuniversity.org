@@ -1,9 +1,12 @@
 ---
 slug: genome-research-approves-genetic-screening
-title: "Genome Research Approves Genetic Screening"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/SC0608/S00007/genome-research-approves-genetic-screening.htm
+title: Genome Research Approves Genetic Screening
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0608/S00007/genome-research-approves-genetic-screening.htm
 author: university-of-otago
+permalink: /archive/2006/08/02/genome-research-approves-genetic-screening/index.html
+layout: layout.njk
 ---
 Genome Research Approves Genetic Screening
 ==========================================

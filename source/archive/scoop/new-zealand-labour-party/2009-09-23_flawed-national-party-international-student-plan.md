@@ -1,9 +1,13 @@
 ---
 slug: flawed-national-party-international-student-plan
-title: "Flawed National Party international student plan"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00325/flawed-national-party-international-student-plan.htm
+title: Flawed National Party international student plan
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00325/flawed-national-party-international-student-plan.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/23/flawed-national-party-international-student-plan/index.html
+layout: layout.njk
 ---
 Flawed National Party international student plan
 ================================================

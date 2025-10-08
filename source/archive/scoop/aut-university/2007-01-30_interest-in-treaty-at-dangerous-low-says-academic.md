@@ -1,9 +1,13 @@
 ---
 slug: interest-in-treaty-at-dangerous-low-says-academic
-title: "Interest in Treaty at dangerous low, says academic"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/ED0701/S00034/interest-in-treaty-at-dangerous-low-says-academic.htm
+title: Interest in Treaty at dangerous low, says academic
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00034/interest-in-treaty-at-dangerous-low-says-academic.htm
 author: aut-university
+permalink: >-
+  /archive/2007/01/30/interest-in-treaty-at-dangerous-low-says-academic/index.html
+layout: layout.njk
 ---
 Interest in Treaty at dangerous low, says academic
 ==================================================

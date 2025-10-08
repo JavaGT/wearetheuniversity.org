@@ -1,9 +1,13 @@
 ---
 slug: frustration-and-disappointment-leads-to-withdrawal-from-nsg
-title: "Frustration and disappointment leads to withdrawal from NSG"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/PO1102/S00149/frustration-and-disappointment-leads-to-withdrawal-from-nsg.htm
+title: Frustration and disappointment leads to withdrawal from NSG
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00149/frustration-and-disappointment-leads-to-withdrawal-from-nsg.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/17/frustration-and-disappointment-leads-to-withdrawal-from-nsg/index.html
+layout: layout.njk
 ---
 Frustration and disappointment leads to withdrawal from NSG
 ===========================================================

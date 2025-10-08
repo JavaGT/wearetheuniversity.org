@@ -1,8 +1,11 @@
 ---
 slug: actions-needed-to-curb-leading-causes-of-death
-title: "Actions needed to curb leading causes of death"
-date: 2015-12-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/actions-needed-to-curb-leading-causes-of-death-.html
+title: Actions needed to curb leading causes of death
+date: 2015-12-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/actions-needed-to-curb-leading-causes-of-death-.html
+permalink: /archive/2015/12/18/actions-needed-to-curb-leading-causes-of-death/index.html
+layout: layout.njk
 ---
 Actions needed to curb leading causes of death
 ==============================================

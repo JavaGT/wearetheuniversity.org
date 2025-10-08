@@ -1,9 +1,12 @@
 ---
 slug: turia-te-wakahuia-manawatu-hauora-trust-board
-title: "Turia: Te Wakahuia Manawatu Hauora Trust Board"
-date: 2008-08-29
-source-url: https://www.scoop.co.nz/stories/PA0808/S00497/turia-te-wakahuia-manawatu-hauora-trust-board.htm
+title: 'Turia: Te Wakahuia Manawatu Hauora Trust Board'
+date: 2008-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00497/turia-te-wakahuia-manawatu-hauora-trust-board.htm
 author: te-pati-maori
+permalink: /archive/2008/08/29/turia-te-wakahuia-manawatu-hauora-trust-board/index.html
+layout: layout.njk
 ---
 Turia: Te Wakahuia Manawatu Hauora Trust Board
 ==============================================

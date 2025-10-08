@@ -1,9 +1,12 @@
 ---
 slug: act-launches-school-zoning-campaign-in-auckland
-title: "ACT Launches School Zoning Campaign in Auckland"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/PA0201/S00188/act-launches-school-zoning-campaign-in-auckland.htm
+title: ACT Launches School Zoning Campaign in Auckland
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00188/act-launches-school-zoning-campaign-in-auckland.htm
 author: act-new-zealand
+permalink: /archive/2002/01/28/act-launches-school-zoning-campaign-in-auckland/index.html
+layout: layout.njk
 ---
 ACT Launches School Zoning Campaign in Auckland
 ===============================================

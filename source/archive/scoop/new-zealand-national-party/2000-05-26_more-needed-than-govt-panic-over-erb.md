@@ -1,9 +1,12 @@
 ---
 slug: more-needed-than-govt-panic-over-erb
-title: "More needed than Govt panic over ERB"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/PA0005/S00589/more-needed-than-govt-panic-over-erb.htm
+title: More needed than Govt panic over ERB
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00589/more-needed-than-govt-panic-over-erb.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/26/more-needed-than-govt-panic-over-erb/index.html
+layout: layout.njk
 ---
 More needed than Govt panic over ERB
 ====================================

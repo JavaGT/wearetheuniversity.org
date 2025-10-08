@@ -1,9 +1,12 @@
 ---
 slug: otago-disappointed-by-core-outcome
-title: "Otago disappointed by CoRE outcome"
-date: 2007-06-05
-source-url: https://www.scoop.co.nz/stories/ED0706/S00013/otago-disappointed-by-core-outcome.htm
+title: Otago disappointed by CoRE outcome
+date: 2007-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00013/otago-disappointed-by-core-outcome.htm
 author: university-of-otago
+permalink: /archive/2007/06/05/otago-disappointed-by-core-outcome/index.html
+layout: layout.njk
 ---
 Otago disappointed by CoRE outcome
 ==================================

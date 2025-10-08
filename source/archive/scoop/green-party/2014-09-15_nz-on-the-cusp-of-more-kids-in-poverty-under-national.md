@@ -1,9 +1,13 @@
 ---
 slug: nz-on-the-cusp-of-more-kids-in-poverty-under-national
-title: "NZ on the cusp of more kids in poverty under National"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PA1409/S00207/nz-on-the-cusp-of-more-kids-in-poverty-under-national.htm
+title: NZ on the cusp of more kids in poverty under National
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00207/nz-on-the-cusp-of-more-kids-in-poverty-under-national.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/15/nz-on-the-cusp-of-more-kids-in-poverty-under-national/index.html
+layout: layout.njk
 ---
 NZ on the cusp of more kids in poverty under National
 =====================================================

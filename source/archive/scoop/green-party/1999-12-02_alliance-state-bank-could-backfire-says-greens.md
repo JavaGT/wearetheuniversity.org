@@ -1,9 +1,12 @@
 ---
 slug: alliance-state-bank-could-backfire-says-greens
-title: "Alliance ‘state bank’ could backfire says Greens"
-date: 1999-12-02
-source-url: https://www.scoop.co.nz/stories/PA9912/S00008/alliance-state-bank-could-backfire-says-greens.htm
+title: Alliance ‘state bank’ could backfire says Greens
+date: 1999-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00008/alliance-state-bank-could-backfire-says-greens.htm
 author: green-party
+permalink: /archive/1999/12/02/alliance-state-bank-could-backfire-says-greens/index.html
+layout: layout.njk
 ---
 Alliance ‘state bank’ could backfire says Greens
 ================================================

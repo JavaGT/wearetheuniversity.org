@@ -1,9 +1,13 @@
 ---
 slug: vuw-new-chair-to-school-of-government-advisory-board
-title: "VUW: New Chair to School of Government Advisory Board"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/ED1108/S00014/vuw-new-chair-to-school-of-government-advisory-board.htm
+title: 'VUW: New Chair to School of Government Advisory Board'
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00014/vuw-new-chair-to-school-of-government-advisory-board.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/02/vuw-new-chair-to-school-of-government-advisory-board/index.html
+layout: layout.njk
 ---
 VUW: New Chair to School of Government Advisory Board
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: killer-toothaches-likely-cause-misery-for-captive-orca
-title: "'Killer' toothaches likely cause misery for captive orca"
-date: 2017-10-12
-source-url: https://www.scoop.co.nz/stories/SC1710/S00024/killer-toothaches-likely-cause-misery-for-captive-orca.htm
+title: '''Killer'' toothaches likely cause misery for captive orca'
+date: 2017-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00024/killer-toothaches-likely-cause-misery-for-captive-orca.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/12/killer-toothaches-likely-cause-misery-for-captive-orca/index.html
+layout: layout.njk
 ---
 'Killer' toothaches likely cause misery for captive orca
 ========================================================

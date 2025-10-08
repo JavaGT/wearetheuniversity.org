@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-academics-win-top-teaching-accolades
-title: "University of Auckland academics win top teaching accolades"
-date: 2016-08-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/university-of-auckland-academics-win-top-teaching-accolades.html
+title: University of Auckland academics win top teaching accolades
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/university-of-auckland-academics-win-top-teaching-accolades.html
+permalink: >-
+  /archive/2016/08/18/university-of-auckland-academics-win-top-teaching-accolades/index.html
+layout: layout.njk
 ---
 University of Auckland academics win top teaching accolades
 ===========================================================

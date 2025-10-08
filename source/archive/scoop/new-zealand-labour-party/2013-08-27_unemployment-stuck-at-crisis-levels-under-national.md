@@ -1,9 +1,13 @@
 ---
 slug: unemployment-stuck-at-crisis-levels-under-national
-title: "Unemployment stuck at crisis levels under National"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/PA1308/S00424/unemployment-stuck-at-crisis-levels-under-national.htm
+title: Unemployment stuck at crisis levels under National
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00424/unemployment-stuck-at-crisis-levels-under-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/27/unemployment-stuck-at-crisis-levels-under-national/index.html
+layout: layout.njk
 ---
 Unemployment stuck at crisis levels under National
 ==================================================

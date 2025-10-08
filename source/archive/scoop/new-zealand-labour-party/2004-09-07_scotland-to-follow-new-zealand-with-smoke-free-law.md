@@ -1,9 +1,13 @@
 ---
 slug: scotland-to-follow-new-zealand-with-smoke-free-law
-title: "Scotland to follow New Zealand with Smoke Free Law"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/PA0409/S00138/scotland-to-follow-new-zealand-with-smoke-free-law.htm
+title: Scotland to follow New Zealand with Smoke Free Law
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00138/scotland-to-follow-new-zealand-with-smoke-free-law.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2004/09/07/scotland-to-follow-new-zealand-with-smoke-free-law/index.html
+layout: layout.njk
 ---
 Scotland to follow New Zealand with Smoke Free Law
 ==================================================

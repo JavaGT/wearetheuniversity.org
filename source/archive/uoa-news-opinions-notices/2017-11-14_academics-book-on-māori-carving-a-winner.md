@@ -1,8 +1,11 @@
 ---
 slug: academics-book-on-māori-carving-a-winner
-title: "Academic’s book on Māori carving a winner"
-date: 2017-11-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academics-book-on-maori-carving-a-winner.html
+title: Academic’s book on Māori carving a winner
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/academics-book-on-maori-carving-a-winner.html
+permalink: /archive/2017/11/14/academics-book-on-m/index.html
+layout: layout.njk
 ---
 Academic’s book on Māori carving a winner
 =========================================

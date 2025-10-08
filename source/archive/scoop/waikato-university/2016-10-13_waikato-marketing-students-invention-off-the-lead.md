@@ -1,9 +1,13 @@
 ---
 slug: waikato-marketing-students-invention-off-the-lead
-title: "Waikato marketing students’ invention off the lead"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/ED1610/S00035/waikato-marketing-students-invention-off-the-lead.htm
+title: Waikato marketing students’ invention off the lead
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00035/waikato-marketing-students-invention-off-the-lead.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/10/13/waikato-marketing-students-invention-off-the-lead/index.html
+layout: layout.njk
 ---
 Waikato marketing students’ invention off the lead
 ==================================================

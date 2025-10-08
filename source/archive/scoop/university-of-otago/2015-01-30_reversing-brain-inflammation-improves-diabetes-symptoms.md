@@ -1,9 +1,13 @@
 ---
 slug: reversing-brain-inflammation-improves-diabetes-symptoms
-title: "Reversing brain inflammation improves diabetes symptoms"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/SC1501/S00059/reversing-brain-inflammation-improves-diabetes-symptoms.htm
+title: Reversing brain inflammation improves diabetes symptoms
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00059/reversing-brain-inflammation-improves-diabetes-symptoms.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/30/reversing-brain-inflammation-improves-diabetes-symptoms/index.html
+layout: layout.njk
 ---
 Reversing brain inflammation improves diabetes symptoms
 =======================================================

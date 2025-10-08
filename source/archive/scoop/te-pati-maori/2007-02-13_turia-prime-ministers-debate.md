@@ -1,9 +1,11 @@
 ---
 slug: turia-prime-ministers-debate
-title: "Turia: Prime Minister’s Debate"
-date: 2007-02-13
+title: 'Turia: Prime Minister’s Debate'
+date: 2007-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00208/turia-prime-ministers-debate.htm
 author: te-pati-maori
+permalink: /archive/2007/02/13/turia-prime-ministers-debate/index.html
+layout: layout.njk
 ---
 Turia: Prime Minister’s Debate
 ==============================

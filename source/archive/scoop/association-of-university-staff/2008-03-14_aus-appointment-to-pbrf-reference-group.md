@@ -1,9 +1,12 @@
 ---
 slug: aus-appointment-to-pbrf-reference-group
-title: "AUS appointment to PBRF reference group"
-date: 2008-03-14
-source-url: https://www.scoop.co.nz/stories/ED0803/S00038/aus-appointment-to-pbrf-reference-group.htm
+title: AUS appointment to PBRF reference group
+date: 2008-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00038/aus-appointment-to-pbrf-reference-group.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/14/aus-appointment-to-pbrf-reference-group/index.html
+layout: layout.njk
 ---
 AUS appointment to PBRF reference group
 =======================================

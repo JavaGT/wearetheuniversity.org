@@ -1,9 +1,12 @@
 ---
 slug: history-teaching-breaches-treaty-principles
-title: "History Teaching Breaches Treaty Principles"
-date: 2010-02-05
-source-url: https://www.scoop.co.nz/stories/ED1002/S00015/history-teaching-breaches-treaty-principles.htm
+title: History Teaching Breaches Treaty Principles
+date: 2010-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00015/history-teaching-breaches-treaty-principles.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/05/history-teaching-breaches-treaty-principles/index.html
+layout: layout.njk
 ---
 History Teaching Breaches Treaty Principles
 ===========================================

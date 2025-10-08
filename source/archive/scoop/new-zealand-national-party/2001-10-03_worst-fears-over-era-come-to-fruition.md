@@ -1,9 +1,12 @@
 ---
 slug: worst-fears-over-era-come-to-fruition
-title: "Worst fears over ERA come to fruition"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00061/worst-fears-over-era-come-to-fruition.htm
+title: Worst fears over ERA come to fruition
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00061/worst-fears-over-era-come-to-fruition.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/03/worst-fears-over-era-come-to-fruition/index.html
+layout: layout.njk
 ---
 Worst fears over ERA come to fruition
 =====================================

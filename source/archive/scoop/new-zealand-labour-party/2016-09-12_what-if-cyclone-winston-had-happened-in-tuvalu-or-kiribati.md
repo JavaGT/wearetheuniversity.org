@@ -1,9 +1,13 @@
 ---
 slug: what-if-cyclone-winston-had-happened-in-tuvalu-or-kiribati
-title: "What if Cyclone Winston had happened in Tuvalu or Kiribati?"
-date: 2016-09-12
-source-url: https://www.scoop.co.nz/stories/PA1609/S00200/what-if-cyclone-winston-had-happened-in-tuvalu-or-kiribati.htm
+title: What if Cyclone Winston had happened in Tuvalu or Kiribati?
+date: 2016-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00200/what-if-cyclone-winston-had-happened-in-tuvalu-or-kiribati.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/12/what-if-cyclone-winston-had-happened-in-tuvalu-or-kiribati/index.html
+layout: layout.njk
 ---
 What if Cyclone Winston had happened in Tuvalu or Kiribati?
 ===========================================================

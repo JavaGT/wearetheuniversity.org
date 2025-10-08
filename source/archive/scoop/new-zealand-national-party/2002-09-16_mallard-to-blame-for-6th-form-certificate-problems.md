@@ -1,9 +1,13 @@
 ---
 slug: mallard-to-blame-for-6th-form-certificate-problems
-title: "Mallard to blame for 6th Form Certificate problems"
-date: 2002-09-16
-source-url: https://www.scoop.co.nz/stories/PA0209/S00257/mallard-to-blame-for-6th-form-certificate-problems.htm
+title: Mallard to blame for 6th Form Certificate problems
+date: 2002-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00257/mallard-to-blame-for-6th-form-certificate-problems.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/09/16/mallard-to-blame-for-6th-form-certificate-problems/index.html
+layout: layout.njk
 ---
 Mallard to blame for 6th Form Certificate problems
 ==================================================

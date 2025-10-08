@@ -1,9 +1,13 @@
 ---
 slug: victoria-appoints-senior-leader-in-digital-technologies
-title: "Victoria appoints senior leader in digital technologies"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/ED1609/S00022/victoria-appoints-senior-leader-in-digital-technologies.htm
+title: Victoria appoints senior leader in digital technologies
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00022/victoria-appoints-senior-leader-in-digital-technologies.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/05/victoria-appoints-senior-leader-in-digital-technologies/index.html
+layout: layout.njk
 ---
 Victoria appoints senior leader in digital technologies
 =======================================================

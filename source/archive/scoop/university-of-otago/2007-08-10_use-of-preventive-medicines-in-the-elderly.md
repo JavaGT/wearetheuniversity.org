@@ -1,9 +1,12 @@
 ---
 slug: use-of-preventive-medicines-in-the-elderly
-title: "Use of preventive medicines in the elderly"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/ED0708/S00031/use-of-preventive-medicines-in-the-elderly.htm
+title: Use of preventive medicines in the elderly
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00031/use-of-preventive-medicines-in-the-elderly.htm
 author: university-of-otago
+permalink: /archive/2007/08/10/use-of-preventive-medicines-in-the-elderly/index.html
+layout: layout.njk
 ---
 Use of preventive medicines in the elderly
 ==========================================

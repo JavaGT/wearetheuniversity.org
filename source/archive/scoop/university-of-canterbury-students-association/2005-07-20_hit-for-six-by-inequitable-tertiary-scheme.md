@@ -1,9 +1,12 @@
 ---
 slug: hit-for-six-by-inequitable-tertiary-scheme
-title: "\"Hit for Six\" by Inequitable Tertiary Scheme"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/ED0507/S00077/hit-for-six-by-inequitable-tertiary-scheme.htm
+title: '"Hit for Six" by Inequitable Tertiary Scheme'
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00077/hit-for-six-by-inequitable-tertiary-scheme.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2005/07/20/hit-for-six-by-inequitable-tertiary-scheme/index.html
+layout: layout.njk
 ---
 “Hit for Six” by Inequitable Tertiary Scheme
 ============================================

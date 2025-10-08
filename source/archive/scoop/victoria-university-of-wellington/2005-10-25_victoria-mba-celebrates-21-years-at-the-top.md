@@ -1,9 +1,12 @@
 ---
 slug: victoria-mba-celebrates-21-years-at-the-top
-title: "Victoria MBA celebrates 21 years at the top"
-date: 2005-10-25
-source-url: https://www.scoop.co.nz/stories/ED0510/S00074/victoria-mba-celebrates-21-years-at-the-top.htm
+title: Victoria MBA celebrates 21 years at the top
+date: 2005-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00074/victoria-mba-celebrates-21-years-at-the-top.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/25/victoria-mba-celebrates-21-years-at-the-top/index.html
+layout: layout.njk
 ---
 Victoria MBA celebrates 21 years at the top
 ===========================================

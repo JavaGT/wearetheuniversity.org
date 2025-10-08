@@ -1,9 +1,13 @@
 ---
 slug: quiet-pages-the-reporting-of-suicide-in-nz-media
-title: "Quiet pages: the reporting of suicide in NZ media"
-date: 2009-05-18
-source-url: https://www.scoop.co.nz/stories/PO0905/S00235/quiet-pages-the-reporting-of-suicide-in-nz-media.htm
+title: 'Quiet pages: the reporting of suicide in NZ media'
+date: 2009-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00235/quiet-pages-the-reporting-of-suicide-in-nz-media.htm
 author: salient
+permalink: >-
+  /archive/2009/05/18/quiet-pages-the-reporting-of-suicide-in-nz-media/index.html
+layout: layout.njk
 ---
 Quiet pages: the reporting of suicide in NZ media
 =================================================

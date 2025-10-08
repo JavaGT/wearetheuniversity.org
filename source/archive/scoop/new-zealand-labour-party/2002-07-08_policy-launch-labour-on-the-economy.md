@@ -1,9 +1,12 @@
 ---
 slug: policy-launch-labour-on-the-economy
-title: "Policy Launch: Labour On The Economy"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00243/policy-launch-labour-on-the-economy.htm
+title: 'Policy Launch: Labour On The Economy'
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00243/policy-launch-labour-on-the-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/08/policy-launch-labour-on-the-economy/index.html
+layout: layout.njk
 ---
 Policy Launch: Labour On The Economy
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: brightest-teaching-talent-recognised
-title: "Brightest teaching talent recognised"
-date: 2011-05-13
-source-url: https://www.scoop.co.nz/stories/ED1105/S00051/brightest-teaching-talent-recognised.htm
+title: Brightest teaching talent recognised
+date: 2011-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00051/brightest-teaching-talent-recognised.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/13/brightest-teaching-talent-recognised/index.html
+layout: layout.njk
 ---
 Brightest teaching talent recognised
 ====================================

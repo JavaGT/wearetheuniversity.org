@@ -1,9 +1,15 @@
 ---
-slug: pōneke-collective-for-public-transport-equity-calls-on-wellingtonians-to-submit-to-fare-review
-title: "Pōneke Collective For Public Transport Equity Calls On Wellingtonians To Submit To Fare Review"
-date: 2022-07-06
-source-url: https://www.scoop.co.nz/stories/PO2207/S00029/poneke-collective-for-public-transport-equity-calls-on-wellingtonians-to-submit-to-fare-review.htm
+slug: >-
+  pōneke-collective-for-public-transport-equity-calls-on-wellingtonians-to-submit-to-fare-review
+title: >-
+  Pōneke Collective For Public Transport Equity Calls On Wellingtonians To
+  Submit To Fare Review
+date: 2022-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2207/S00029/poneke-collective-for-public-transport-equity-calls-on-wellingtonians-to-submit-to-fare-review.htm
 author: free-fares-nz
+permalink: /archive/2022/07/06/p/index.html
+layout: layout.njk
 ---
 Pōneke Collective For Public Transport Equity Calls On Wellingtonians To Submit To Fare Review
 ==============================================================================================

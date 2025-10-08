@@ -1,9 +1,13 @@
 ---
 slug: resources-needed-to-reduce-violence-in-schools-not-police
-title: "Resources needed to reduce violence in schools – not police"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/ED1704/S00028/resources-needed-to-reduce-violence-in-schools-not-police.htm
+title: Resources needed to reduce violence in schools – not police
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00028/resources-needed-to-reduce-violence-in-schools-not-police.htm
 author: nzei
+permalink: >-
+  /archive/2017/04/07/resources-needed-to-reduce-violence-in-schools-not-police/index.html
+layout: layout.njk
 ---
 Resources needed to reduce violence in schools – not police
 ===========================================================

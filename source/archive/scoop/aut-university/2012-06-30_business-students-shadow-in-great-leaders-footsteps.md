@@ -1,9 +1,13 @@
 ---
 slug: business-students-shadow-in-great-leaders-footsteps
-title: "Business students shadow in great leaders’ footsteps"
-date: 2012-06-30
-source-url: https://www.scoop.co.nz/stories/ED1206/S00141/business-students-shadow-in-great-leaders-footsteps.htm
+title: Business students shadow in great leaders’ footsteps
+date: 2012-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00141/business-students-shadow-in-great-leaders-footsteps.htm
 author: aut-university
+permalink: >-
+  /archive/2012/06/30/business-students-shadow-in-great-leaders-footsteps/index.html
+layout: layout.njk
 ---
 Business students shadow in great leaders’ footsteps
 ====================================================

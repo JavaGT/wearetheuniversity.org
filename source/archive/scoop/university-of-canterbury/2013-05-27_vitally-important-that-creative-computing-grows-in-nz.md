@@ -1,9 +1,13 @@
 ---
 slug: vitally-important-that-creative-computing-grows-in-nz
-title: "Vitally Important That Creative Computing Grows In Nz"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/ED1305/S00173/vitally-important-that-creative-computing-grows-in-nz.htm
+title: Vitally Important That Creative Computing Grows In Nz
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00173/vitally-important-that-creative-computing-grows-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/27/vitally-important-that-creative-computing-grows-in-nz/index.html
+layout: layout.njk
 ---
 Vitally Important That Creative Computing Grows In Nz
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzusa-welcomes-new-learner-wellbeing-and-safety-code
-title: "NZUSA Welcomes New Learner Wellbeing And Safety Code"
-date: 2021-07-16
-source-url: https://www.scoop.co.nz/stories/PO2107/S00142/nzusa-welcomes-new-learner-wellbeing-and-safety-code.htm
+title: NZUSA Welcomes New Learner Wellbeing And Safety Code
+date: 2021-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2107/S00142/nzusa-welcomes-new-learner-wellbeing-and-safety-code.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/07/16/nzusa-welcomes-new-learner-wellbeing-and-safety-code/index.html
+layout: layout.njk
 ---
 NZUSA Welcomes New Learner Wellbeing And Safety Code
 ====================================================

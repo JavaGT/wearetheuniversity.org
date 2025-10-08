@@ -1,9 +1,12 @@
 ---
 slug: port-unions-reject-silly-claim
-title: "Port Unions reject 'silly' claim"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/AK0210/S00087/port-unions-reject-silly-claim.htm
+title: Port Unions reject 'silly' claim
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0210/S00087/port-unions-reject-silly-claim.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/10/17/port-unions-reject-silly-claim/index.html
+layout: layout.njk
 ---
 Port Unions reject 'silly' claim
 ================================

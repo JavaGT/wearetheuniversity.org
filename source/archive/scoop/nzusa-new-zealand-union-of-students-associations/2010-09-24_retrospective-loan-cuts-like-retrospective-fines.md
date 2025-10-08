@@ -1,9 +1,13 @@
 ---
 slug: retrospective-loan-cuts-like-retrospective-fines
-title: "Retrospective loan cuts like retrospective fines"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/PO1009/S00301/retrospective-loan-cuts-like-retrospective-fines.htm
+title: Retrospective loan cuts like retrospective fines
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00301/retrospective-loan-cuts-like-retrospective-fines.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/09/24/retrospective-loan-cuts-like-retrospective-fines/index.html
+layout: layout.njk
 ---
 Retrospective loan cuts like retrospective fines
 ================================================

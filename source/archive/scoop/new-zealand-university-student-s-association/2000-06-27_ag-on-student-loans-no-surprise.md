@@ -1,9 +1,12 @@
 ---
 slug: ag-on-student-loans-no-surprise
-title: "AG On Student Loans No Surprise"
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/ED0006/S00038/ag-on-student-loans-no-surprise.htm
+title: AG On Student Loans No Surprise
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00038/ag-on-student-loans-no-surprise.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/06/27/ag-on-student-loans-no-surprise/index.html
+layout: layout.njk
 ---
 AG On Student Loans No Surprise
 ===============================

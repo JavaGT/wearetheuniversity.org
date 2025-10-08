@@ -1,9 +1,12 @@
 ---
 slug: getting-enough-iodine-not-eating-bread
-title: "Getting enough Iodine? Not eating bread?"
-date: 2017-06-28
-source-url: https://www.scoop.co.nz/stories/ED1706/S00095/getting-enough-iodine-not-eating-bread.htm
+title: Getting enough Iodine? Not eating bread?
+date: 2017-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00095/getting-enough-iodine-not-eating-bread.htm
 author: massey-university
+permalink: /archive/2017/06/28/getting-enough-iodine-not-eating-bread/index.html
+layout: layout.njk
 ---
 Getting enough Iodine? Not eating bread?
 ========================================

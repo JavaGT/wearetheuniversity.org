@@ -1,9 +1,12 @@
 ---
 slug: experts-address-population-health-challenges
-title: "Experts address population health challenges"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/ED0405/S00081/experts-address-population-health-challenges.htm
+title: Experts address population health challenges
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00081/experts-address-population-health-challenges.htm
 author: auckland-university
+permalink: /archive/2004/05/20/experts-address-population-health-challenges/index.html
+layout: layout.njk
 ---
 Experts address population health challenges
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-november-14th-earthquake-response
-title: "Student Volunteer Army November 14th Earthquake Response"
-date: 2016-11-14
-source-url: https://www.scoop.co.nz/stories/PO1611/S00193/student-volunteer-army-november-14th-earthquake-response.htm
+title: Student Volunteer Army November 14th Earthquake Response
+date: 2016-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00193/student-volunteer-army-november-14th-earthquake-response.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2016/11/14/student-volunteer-army-november-14th-earthquake-response/index.html
+layout: layout.njk
 ---
 Student Volunteer Army November 14th Earthquake Response
 ========================================================

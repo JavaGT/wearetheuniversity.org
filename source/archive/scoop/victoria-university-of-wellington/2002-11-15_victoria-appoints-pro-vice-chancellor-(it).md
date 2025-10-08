@@ -1,9 +1,12 @@
 ---
 slug: victoria-appoints-pro-vice-chancellor-(it)
-title: "Victoria appoints Pro Vice-Chancellor (IT)"
-date: 2002-11-15
-source-url: https://www.scoop.co.nz/stories/ED0211/S00035/victoria-appoints-pro-vice-chancellor-it.htm
+title: Victoria appoints Pro Vice-Chancellor (IT)
+date: 2002-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00035/victoria-appoints-pro-vice-chancellor-it.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/11/15/victoria-appoints-pro-vice-chancellor-/index.html
+layout: layout.njk
 ---
 Victoria appoints Pro Vice-Chancellor (IT)
 ==========================================

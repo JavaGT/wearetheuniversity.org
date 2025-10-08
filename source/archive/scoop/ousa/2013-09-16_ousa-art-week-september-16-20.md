@@ -1,9 +1,12 @@
 ---
 slug: ousa-art-week-september-16-20
-title: "OUSA Art Week: September 16-20"
-date: 2013-09-16
-source-url: https://www.scoop.co.nz/stories/CU1309/S00284/ousa-art-week-september-16-20.htm
+title: 'OUSA Art Week: September 16-20'
+date: 2013-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00284/ousa-art-week-september-16-20.htm
 author: ousa
+permalink: /archive/2013/09/16/ousa-art-week-september-16-20/index.html
+layout: layout.njk
 ---
 OUSA Art Week: September 16-20
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: education-in-2020-focus-of-major-seminar
-title: "Education in 2020 focus of major seminar"
-date: 2002-08-08
-source-url: https://www.scoop.co.nz/stories/ED0208/S00008/education-in-2020-focus-of-major-seminar.htm
+title: Education in 2020 focus of major seminar
+date: 2002-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00008/education-in-2020-focus-of-major-seminar.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/08/08/education-in-2020-focus-of-major-seminar/index.html
+layout: layout.njk
 ---
 Education in 2020 focus of major seminar
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: making-tertiary-education-more-accessible-to-māori
-title: "Making tertiary education more accessible to Māori"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PO1408/S00503/making-tertiary-education-more-accessible-to-maori.htm
+title: Making tertiary education more accessible to Māori
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00503/making-tertiary-education-more-accessible-to-maori.htm
 author: te-pati-maori
+permalink: /archive/2014/08/29/making-tertiary-education-more-accessible-to-m/index.html
+layout: layout.njk
 ---
 Making tertiary education more accessible to Māori
 ==================================================

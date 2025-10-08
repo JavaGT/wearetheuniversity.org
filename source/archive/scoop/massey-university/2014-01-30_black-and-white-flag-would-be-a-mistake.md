@@ -1,9 +1,12 @@
 ---
 slug: black-and-white-flag-would-be-a-mistake
-title: "Black and white flag would be a mistake"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/PO1401/S00141/black-and-white-flag-would-be-a-mistake.htm
+title: Black and white flag would be a mistake
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00141/black-and-white-flag-would-be-a-mistake.htm
 author: massey-university
+permalink: /archive/2014/01/30/black-and-white-flag-would-be-a-mistake/index.html
+layout: layout.njk
 ---
 Black and white flag would be a mistake
 =======================================

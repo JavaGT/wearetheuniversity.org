@@ -1,9 +1,13 @@
 ---
 slug: maori-party-thinks-you-can-get-two-bites-of-the-cherry
-title: "Maori Party thinks you can get two bites of the cherry"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00422/maori-party-thinks-you-can-get-two-bites-of-the-cherry.htm
+title: Maori Party thinks you can get two bites of the cherry
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00422/maori-party-thinks-you-can-get-two-bites-of-the-cherry.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/21/maori-party-thinks-you-can-get-two-bites-of-the-cherry/index.html
+layout: layout.njk
 ---
 Maori Party thinks you can get two bites of the cherry
 ======================================================

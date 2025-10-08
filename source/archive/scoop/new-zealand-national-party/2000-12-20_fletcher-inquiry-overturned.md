@@ -1,9 +1,11 @@
 ---
 slug: fletcher-inquiry-overturned
-title: "Fletcher Inquiry overturned"
-date: 2000-12-20
+title: Fletcher Inquiry overturned
+date: 2000-12-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0012/S00358/fletcher-inquiry-overturned.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/20/fletcher-inquiry-overturned/index.html
+layout: layout.njk
 ---
 Fletcher Inquiry overturned
 ===========================

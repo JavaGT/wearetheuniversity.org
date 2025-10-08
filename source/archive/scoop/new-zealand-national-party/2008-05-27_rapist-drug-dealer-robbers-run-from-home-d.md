@@ -1,9 +1,12 @@
 ---
 slug: rapist-drug-dealer-robbers-run-from-home-d
-title: "Rapist, drug dealer, robbers, run from home D"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00550/rapist-drug-dealer-robbers-run-from-home-d.htm
+title: Rapist, drug dealer, robbers, run from home D
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00550/rapist-drug-dealer-robbers-run-from-home-d.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/27/rapist-drug-dealer-robbers-run-from-home-d/index.html
+layout: layout.njk
 ---
 Rapist, drug dealer, robbers, run from home D
 =============================================

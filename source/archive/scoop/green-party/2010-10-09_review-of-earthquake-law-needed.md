@@ -1,9 +1,12 @@
 ---
 slug: review-of-earthquake-law-needed
-title: "Review of Earthquake Law Needed"
-date: 2010-10-09
-source-url: https://www.scoop.co.nz/stories/PA1010/S00110/review-of-earthquake-law-needed.htm
+title: Review of Earthquake Law Needed
+date: 2010-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00110/review-of-earthquake-law-needed.htm
 author: green-party
+permalink: /archive/2010/10/09/review-of-earthquake-law-needed/index.html
+layout: layout.njk
 ---
 Review of Earthquake Law Needed
 ===============================

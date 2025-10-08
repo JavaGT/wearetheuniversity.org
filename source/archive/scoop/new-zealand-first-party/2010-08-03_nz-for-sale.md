@@ -1,9 +1,11 @@
 ---
 slug: nz-for-sale
-title: "NZ For Sale"
-date: 2010-08-03
+title: NZ For Sale
+date: 2010-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1008/S00013/nz-for-sale.htm
 author: new-zealand-first-party
+permalink: /archive/2010/08/03/nz-for-sale/index.html
+layout: layout.njk
 ---
 NZ For Sale
 ===========

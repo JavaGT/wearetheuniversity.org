@@ -1,9 +1,12 @@
 ---
 slug: this-week-critical-for-wellington-companies
-title: "This week \"critical\" for Wellington companies"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/AK1308/S00625/this-week-critical-for-wellington-companies.htm
+title: This week "critical" for Wellington companies
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00625/this-week-critical-for-wellington-companies.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/21/this-week-critical-for-wellington-companies/index.html
+layout: layout.njk
 ---
 This week "critical" for Wellington companies
 =============================================

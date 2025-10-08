@@ -1,9 +1,11 @@
 ---
 slug: cellist-king-returns
-title: "Cellist King Returns"
-date: 2013-03-13
+title: Cellist King Returns
+date: 2013-03-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1303/S00252/cellist-king-returns.htm
 author: waikato-university
+permalink: /archive/2013/03/13/cellist-king-returns/index.html
+layout: layout.njk
 ---
 Cellist King Returns
 ====================

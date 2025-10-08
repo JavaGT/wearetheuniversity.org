@@ -1,9 +1,11 @@
 ---
 slug: successful-act-conference
-title: "Successful ACT Conference"
-date: 2018-08-15
+title: Successful ACT Conference
+date: 2018-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1808/S00159/successful-act-conference.htm
 author: act-new-zealand
+permalink: /archive/2018/08/15/successful-act-conference/index.html
+layout: layout.njk
 ---
 Successful ACT Conference
 =========================

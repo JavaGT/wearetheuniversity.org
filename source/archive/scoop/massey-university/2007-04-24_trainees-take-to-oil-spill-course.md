@@ -1,9 +1,12 @@
 ---
 slug: trainees-take-to-oil-spill-course
-title: "Trainees take to oil-spill  course"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/ED0704/S00085/trainees-take-to-oil-spill-course.htm
+title: Trainees take to oil-spill  course
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00085/trainees-take-to-oil-spill-course.htm
 author: massey-university
+permalink: /archive/2007/04/24/trainees-take-to-oil-spill-course/index.html
+layout: layout.njk
 ---
 Trainees take to oil-spill course
 =================================

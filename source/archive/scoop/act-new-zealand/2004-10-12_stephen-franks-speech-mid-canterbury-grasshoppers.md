@@ -1,9 +1,13 @@
 ---
 slug: stephen-franks-speech-mid-canterbury-grasshoppers
-title: "Stephen Franks Speech Mid Canterbury Grasshoppers"
-date: 2004-10-12
-source-url: https://www.scoop.co.nz/stories/PA0410/S00182/stephen-franks-speech-mid-canterbury-grasshoppers.htm
+title: Stephen Franks Speech Mid Canterbury Grasshoppers
+date: 2004-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00182/stephen-franks-speech-mid-canterbury-grasshoppers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/10/12/stephen-franks-speech-mid-canterbury-grasshoppers/index.html
+layout: layout.njk
 ---
 Stephen Franks Speech Mid Canterbury Grasshoppers
 =================================================

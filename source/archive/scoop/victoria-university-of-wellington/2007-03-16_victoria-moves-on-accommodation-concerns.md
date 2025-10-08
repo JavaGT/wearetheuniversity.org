@@ -1,9 +1,12 @@
 ---
 slug: victoria-moves-on-accommodation-concerns
-title: "Victoria moves on accommodation concerns"
-date: 2007-03-16
-source-url: https://www.scoop.co.nz/stories/ED0703/S00057/victoria-moves-on-accommodation-concerns.htm
+title: Victoria moves on accommodation concerns
+date: 2007-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00057/victoria-moves-on-accommodation-concerns.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/03/16/victoria-moves-on-accommodation-concerns/index.html
+layout: layout.njk
 ---
 Victoria moves on accommodation concerns
 ========================================

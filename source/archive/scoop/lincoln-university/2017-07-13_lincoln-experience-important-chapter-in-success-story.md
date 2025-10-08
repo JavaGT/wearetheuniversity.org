@@ -1,9 +1,13 @@
 ---
 slug: lincoln-experience-important-chapter-in-success-story
-title: "Lincoln experience important chapter in success story"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/ED1707/S00053/lincoln-experience-important-chapter-in-success-story.htm
+title: Lincoln experience important chapter in success story
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00053/lincoln-experience-important-chapter-in-success-story.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/07/13/lincoln-experience-important-chapter-in-success-story/index.html
+layout: layout.njk
 ---
 Lincoln experience important chapter in success story
 =====================================================

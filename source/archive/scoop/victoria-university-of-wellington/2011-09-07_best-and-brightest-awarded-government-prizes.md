@@ -1,9 +1,12 @@
 ---
 slug: best-and-brightest-awarded-government-prizes
-title: "Best and brightest awarded Government prizes"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/ED1109/S00018/best-and-brightest-awarded-government-prizes.htm
+title: Best and brightest awarded Government prizes
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00018/best-and-brightest-awarded-government-prizes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/07/best-and-brightest-awarded-government-prizes/index.html
+layout: layout.njk
 ---
 Best and brightest awarded Government prizes
 ============================================

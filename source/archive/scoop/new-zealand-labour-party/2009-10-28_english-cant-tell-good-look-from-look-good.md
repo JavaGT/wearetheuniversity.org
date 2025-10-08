@@ -1,9 +1,12 @@
 ---
 slug: english-cant-tell-good-look-from-look-good
-title: "English can't tell 'good look' from 'look good'"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/PA0910/S00423/english-cant-tell-good-look-from-look-good.htm
+title: English can't tell 'good look' from 'look good'
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00423/english-cant-tell-good-look-from-look-good.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/28/english-cant-tell-good-look-from-look-good/index.html
+layout: layout.njk
 ---
 English can't tell 'good look' from 'look good'
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-dismisses-act-party-claims-of-race-privilege
-title: "Māori Party dismisses Act Party claims of race privilege"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PA1407/S00584/maori-party-dismisses-act-party-claims-of-race-privilege.htm
+title: Māori Party dismisses Act Party claims of race privilege
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00584/maori-party-dismisses-act-party-claims-of-race-privilege.htm
 author: te-pati-maori
+permalink: /archive/2014/07/30/m/index.html
+layout: layout.njk
 ---
 Māori Party dismisses Act Party claims of race privilege
 ========================================================

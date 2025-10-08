@@ -1,9 +1,13 @@
 ---
 slug: brazils-lula-remerges-in-a-very-different-political-world
-title: "Brazil’s Lula Remerges - In A Very Different Political World"
-date: 2022-10-11
-source-url: https://www.scoop.co.nz/stories/WO2210/S00071/brazils-lula-remerges-in-a-very-different-political-world.htm
+title: Brazil’s Lula Remerges - In A Very Different Political World
+date: 2022-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2210/S00071/brazils-lula-remerges-in-a-very-different-political-world.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2022/10/11/brazils-lula-remerges-in-a-very-different-political-world/index.html
+layout: layout.njk
 ---
 Brazil’s Lula Remerges - In A Very Different Political World
 ============================================================

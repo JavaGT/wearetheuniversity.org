@@ -1,9 +1,12 @@
 ---
 slug: new-aut-university-campus-for-manukau-city
-title: "New AUT University campus for Manukau City"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/ED0807/S00009/new-aut-university-campus-for-manukau-city.htm
+title: New AUT University campus for Manukau City
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00009/new-aut-university-campus-for-manukau-city.htm
 author: aut-university
+permalink: /archive/2008/07/03/new-aut-university-campus-for-manukau-city/index.html
+layout: layout.njk
 ---
 New AUT University campus for Manukau City
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: meritorious-voluntary-service-medal-awarded
-title: "Meritorious Voluntary Service Medal Awarded"
-date: 2012-08-01
-source-url: https://www.scoop.co.nz/stories/ED1208/S00004/meritorious-voluntary-service-medal-awarded.htm
+title: Meritorious Voluntary Service Medal Awarded
+date: 2012-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00004/meritorious-voluntary-service-medal-awarded.htm
 author: lincoln-university
+permalink: /archive/2012/08/01/meritorious-voluntary-service-medal-awarded/index.html
+layout: layout.njk
 ---
 Meritorious Voluntary Service Medal Awarded
 ===========================================

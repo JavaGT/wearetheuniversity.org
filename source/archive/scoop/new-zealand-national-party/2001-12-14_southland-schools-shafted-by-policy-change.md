@@ -1,9 +1,12 @@
 ---
 slug: southland-schools-shafted-by-policy-change
-title: "Southland Schools Shafted By Policy Change"
-date: 2001-12-14
-source-url: https://www.scoop.co.nz/stories/PA0112/S00277/southland-schools-shafted-by-policy-change.htm
+title: Southland Schools Shafted By Policy Change
+date: 2001-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00277/southland-schools-shafted-by-policy-change.htm
 author: new-zealand-national-party
+permalink: /archive/2001/12/14/southland-schools-shafted-by-policy-change/index.html
+layout: layout.njk
 ---
 Southland Schools Shafted By Policy Change
 ==========================================

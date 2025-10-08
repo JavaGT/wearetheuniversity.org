@@ -1,9 +1,13 @@
 ---
 slug: uc-wins-a-green-gown-award-for-okeover-stream-project
-title: "UC wins a Green Gown Award for Okeover Stream Project"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/CU1110/S00270/uc-wins-a-green-gown-award-for-okeover-stream-project.htm
+title: UC wins a Green Gown Award for Okeover Stream Project
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1110/S00270/uc-wins-a-green-gown-award-for-okeover-stream-project.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/10/19/uc-wins-a-green-gown-award-for-okeover-stream-project/index.html
+layout: layout.njk
 ---
 UC wins a Green Gown Award for Okeover Stream Project
 =====================================================

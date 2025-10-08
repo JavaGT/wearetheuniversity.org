@@ -1,9 +1,12 @@
 ---
 slug: labour-mp-accepts-conversion-therapy-petition
-title: "Labour MP accepts conversion therapy petition"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/PA1808/S00081/labour-mp-accepts-conversion-therapy-petition.htm
+title: Labour MP accepts conversion therapy petition
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00081/labour-mp-accepts-conversion-therapy-petition.htm
 author: new-zealand-labour-party
+permalink: /archive/2018/08/08/labour-mp-accepts-conversion-therapy-petition/index.html
+layout: layout.njk
 ---
 Labour MP accepts conversion therapy petition
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: professing-a-life-long-love-of-learning
-title: "Professing a life-long love of learning"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/ED1612/S00058/professing-a-life-long-love-of-learning.htm
+title: Professing a life-long love of learning
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00058/professing-a-life-long-love-of-learning.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/15/professing-a-life-long-love-of-learning/index.html
+layout: layout.njk
 ---
 Professing a life-long love of learning
 =======================================

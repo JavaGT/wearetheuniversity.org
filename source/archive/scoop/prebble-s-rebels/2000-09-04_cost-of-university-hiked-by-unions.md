@@ -1,9 +1,12 @@
 ---
 slug: cost-of-university-hiked-by-unions
-title: "Cost Of University Hiked By Unions"
-date: 2000-09-04
-source-url: https://www.scoop.co.nz/stories/ED0009/S00003/cost-of-university-hiked-by-unions.htm
+title: Cost Of University Hiked By Unions
+date: 2000-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00003/cost-of-university-hiked-by-unions.htm
 author: prebble-s-rebels
+permalink: /archive/2000/09/04/cost-of-university-hiked-by-unions/index.html
+layout: layout.njk
 ---
 Cost Of University Hiked By Unions
 ==================================

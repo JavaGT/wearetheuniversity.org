@@ -1,9 +1,13 @@
 ---
 slug: universities-academic-cooperation-arrangement-with-taiwan
-title: "Universities' Academic Cooperation Arrangement with Taiwan"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/ED1205/S00132/universities-academic-cooperation-arrangement-with-taiwan.htm
+title: Universities' Academic Cooperation Arrangement with Taiwan
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00132/universities-academic-cooperation-arrangement-with-taiwan.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/05/25/universities-academic-cooperation-arrangement-with-taiwan/index.html
+layout: layout.njk
 ---
 Universities' Academic Cooperation Arrangement with Taiwan
 ==========================================================

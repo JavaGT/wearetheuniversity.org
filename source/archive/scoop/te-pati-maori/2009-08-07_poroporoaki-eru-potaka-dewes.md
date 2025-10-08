@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-eru-potaka-dewes
-title: "Poroporoaki: Eru Potaka-Dewes"
-date: 2009-08-07
+title: 'Poroporoaki: Eru Potaka-Dewes'
+date: 2009-08-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0908/S00114/poroporoaki-eru-potaka-dewes.htm
 author: te-pati-maori
+permalink: /archive/2009/08/07/poroporoaki-eru-potaka-dewes/index.html
+layout: layout.njk
 ---
 Poroporoaki: Eru Potaka-Dewes
 =============================

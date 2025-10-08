@@ -1,9 +1,11 @@
 ---
 slug: members-strike-at-aut
-title: "Members Strike at AUT"
-date: 2005-08-29
+title: Members Strike at AUT
+date: 2005-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0508/S00112/members-strike-at-aut.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/08/29/members-strike-at-aut/index.html
+layout: layout.njk
 ---
 Members Strike at AUT
 =====================

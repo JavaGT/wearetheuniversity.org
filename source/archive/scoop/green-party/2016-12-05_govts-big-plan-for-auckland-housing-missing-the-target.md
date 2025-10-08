@@ -1,9 +1,13 @@
 ---
 slug: govts-big-plan-for-auckland-housing-missing-the-target
-title: "Govt’s big plan for Auckland housing missing the target"
-date: 2016-12-05
-source-url: https://www.scoop.co.nz/stories/PA1612/S00068/govts-big-plan-for-auckland-housing-missing-the-target.htm
+title: Govt’s big plan for Auckland housing missing the target
+date: 2016-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00068/govts-big-plan-for-auckland-housing-missing-the-target.htm
 author: green-party
+permalink: >-
+  /archive/2016/12/05/govts-big-plan-for-auckland-housing-missing-the-target/index.html
+layout: layout.njk
 ---
 Govt’s big plan for Auckland housing missing the target
 =======================================================

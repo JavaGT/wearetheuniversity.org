@@ -1,9 +1,12 @@
 ---
 slug: nz-festival-administrator-launches-new-career
-title: "NZ Festival Administrator Launches New Career"
-date: 2002-02-28
-source-url: https://www.scoop.co.nz/stories/CU0202/S00073/nz-festival-administrator-launches-new-career.htm
+title: NZ Festival Administrator Launches New Career
+date: 2002-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0202/S00073/nz-festival-administrator-launches-new-career.htm
 author: auckland-university-press
+permalink: /archive/2002/02/28/nz-festival-administrator-launches-new-career/index.html
+layout: layout.njk
 ---
 NZ Festival Administrator Launches New Career
 =============================================

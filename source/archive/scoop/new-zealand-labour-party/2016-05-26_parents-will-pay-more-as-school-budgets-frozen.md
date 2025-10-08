@@ -1,9 +1,12 @@
 ---
 slug: parents-will-pay-more-as-school-budgets-frozen
-title: "Parents will pay more as school budgets frozen"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00568/parents-will-pay-more-as-school-budgets-frozen.htm
+title: Parents will pay more as school budgets frozen
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00568/parents-will-pay-more-as-school-budgets-frozen.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/26/parents-will-pay-more-as-school-budgets-frozen/index.html
+layout: layout.njk
 ---
 Parents will pay more as school budgets frozen
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: engineering-innovation-focus-of-lecture
-title: "Engineering innovation focus of lecture"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/BU0508/S00186/engineering-innovation-focus-of-lecture.htm
+title: Engineering innovation focus of lecture
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0508/S00186/engineering-innovation-focus-of-lecture.htm
 author: university-of-canterbury
+permalink: /archive/2005/08/10/engineering-innovation-focus-of-lecture/index.html
+layout: layout.njk
 ---
 Engineering innovation focus of lecture
 =======================================

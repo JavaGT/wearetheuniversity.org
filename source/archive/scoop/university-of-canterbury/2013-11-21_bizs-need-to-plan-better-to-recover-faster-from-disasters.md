@@ -1,9 +1,13 @@
 ---
 slug: bizs-need-to-plan-better-to-recover-faster-from-disasters
-title: "Biz's need to plan better to recover faster from disasters"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/BU1311/S00721/bizs-need-to-plan-better-to-recover-faster-from-disasters.htm
+title: Biz's need to plan better to recover faster from disasters
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1311/S00721/bizs-need-to-plan-better-to-recover-faster-from-disasters.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/21/bizs-need-to-plan-better-to-recover-faster-from-disasters/index.html
+layout: layout.njk
 ---
 Biz's need to plan better to recover faster from disasters
 ==========================================================

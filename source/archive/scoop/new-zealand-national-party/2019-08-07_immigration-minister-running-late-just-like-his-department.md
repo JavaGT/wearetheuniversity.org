@@ -1,9 +1,13 @@
 ---
 slug: immigration-minister-running-late-just-like-his-department
-title: "Immigration Minister running late – just like his department"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/PA1908/S00077/immigration-minister-running-late-just-like-his-department.htm
+title: Immigration Minister running late – just like his department
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00077/immigration-minister-running-late-just-like-his-department.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/08/07/immigration-minister-running-late-just-like-his-department/index.html
+layout: layout.njk
 ---
 Immigration Minister running late – just like his department
 ============================================================

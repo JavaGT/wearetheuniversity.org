@@ -1,9 +1,12 @@
 ---
 slug: dumbing-down-new-zealand-richard-prebble-speech
-title: "Dumbing Down New Zealand: Richard Prebble Speech"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/PA0010/S00305/dumbing-down-new-zealand-richard-prebble-speech.htm
+title: 'Dumbing Down New Zealand: Richard Prebble Speech'
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00305/dumbing-down-new-zealand-richard-prebble-speech.htm
 author: act-new-zealand
+permalink: /archive/2000/10/16/dumbing-down-new-zealand-richard-prebble-speech/index.html
+layout: layout.njk
 ---
 Dumbing Down New Zealand: Richard Prebble Speech
 ================================================

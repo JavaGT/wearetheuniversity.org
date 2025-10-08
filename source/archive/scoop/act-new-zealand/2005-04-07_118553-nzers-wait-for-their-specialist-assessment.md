@@ -1,9 +1,13 @@
 ---
 slug: 118553-nzers-wait-for-their-specialist-assessment
-title: "118,553 NZers wait for their Specialist Assessment"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/PA0504/S00144/118553-nzers-wait-for-their-specialist-assessment.htm
+title: 118,553 NZers wait for their Specialist Assessment
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00144/118553-nzers-wait-for-their-specialist-assessment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/04/07/118553-nzers-wait-for-their-specialist-assessment/index.html
+layout: layout.njk
 ---
 118,553 NZers wait for their Specialist Assessment
 ==================================================

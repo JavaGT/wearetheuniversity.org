@@ -1,9 +1,12 @@
 ---
 slug: hard-budget-decisions-loom-for-primary-schools
-title: "Hard budget decisions loom for primary schools"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PO1505/S00275/hard-budget-decisions-loom-for-primary-schools.htm
+title: Hard budget decisions loom for primary schools
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00275/hard-budget-decisions-loom-for-primary-schools.htm
 author: nzei
+permalink: /archive/2015/05/21/hard-budget-decisions-loom-for-primary-schools/index.html
+layout: layout.njk
 ---
 Hard budget decisions loom for primary schools
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: performing-with-the-very-best
-title: "Performing with the very best"
-date: 2015-09-29
-source-url: https://www.scoop.co.nz/stories/ED1509/S00172/performing-with-the-very-best.htm
+title: Performing with the very best
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00172/performing-with-the-very-best.htm
 author: university-of-waikato
+permalink: /archive/2015/09/29/performing-with-the-very-best/index.html
+layout: layout.njk
 ---
 Performing with the very best
 =============================

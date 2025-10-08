@@ -1,9 +1,12 @@
 ---
 slug: act-to-vote-against-zero-carbon-bil
-title: "ACT to vote against Zero Carbon Bil"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/PA1911/S00034/act-to-vote-against-zero-carbon-bil.htm
+title: ACT to vote against Zero Carbon Bil
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00034/act-to-vote-against-zero-carbon-bil.htm
 author: act-new-zealand
+permalink: /archive/2019/11/05/act-to-vote-against-zero-carbon-bil/index.html
+layout: layout.njk
 ---
 ACT to vote against Zero Carbon Bil
 ===================================

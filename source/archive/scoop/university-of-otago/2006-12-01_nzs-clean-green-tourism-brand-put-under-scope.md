@@ -1,9 +1,12 @@
 ---
 slug: nzs-clean-green-tourism-brand-put-under-scope
-title: "NZ’s clean, green tourism brand put under 'scope"
-date: 2006-12-01
-source-url: https://www.scoop.co.nz/stories/ED0612/S00003/nzs-clean-green-tourism-brand-put-under-scope.htm
+title: NZ’s clean, green tourism brand put under 'scope
+date: 2006-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00003/nzs-clean-green-tourism-brand-put-under-scope.htm
 author: university-of-otago
+permalink: /archive/2006/12/01/nzs-clean-green-tourism-brand-put-under-scope/index.html
+layout: layout.njk
 ---
 NZ’s clean, green tourism brand put under 'scope
 ================================================

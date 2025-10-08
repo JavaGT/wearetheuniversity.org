@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-sign-language-goes-digital
-title: "New Zealand Sign Language goes digital"
-date: 2011-06-24
-source-url: https://www.scoop.co.nz/stories/ED1106/S00099/new-zealand-sign-language-goes-digital.htm
+title: New Zealand Sign Language goes digital
+date: 2011-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00099/new-zealand-sign-language-goes-digital.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/24/new-zealand-sign-language-goes-digital/index.html
+layout: layout.njk
 ---
 New Zealand Sign Language goes digital
 ======================================

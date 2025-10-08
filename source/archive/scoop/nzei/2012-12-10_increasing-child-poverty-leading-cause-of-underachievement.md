@@ -1,9 +1,13 @@
 ---
 slug: increasing-child-poverty-leading-cause-of-underachievement
-title: "Increasing Child Poverty Leading Cause Of Underachievement"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/ED1212/S00057/increasing-child-poverty-leading-cause-of-underachievement.htm
+title: Increasing Child Poverty Leading Cause Of Underachievement
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00057/increasing-child-poverty-leading-cause-of-underachievement.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/10/increasing-child-poverty-leading-cause-of-underachievement/index.html
+layout: layout.njk
 ---
 Increasing Child Poverty Leading Cause Of Underachievement
 ==========================================================

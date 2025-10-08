@@ -1,9 +1,12 @@
 ---
 slug: jade-software-joins-ict-innovation-institute
-title: "Jade Software joins ICT Innovation Institute"
-date: 2005-12-06
-source-url: https://www.scoop.co.nz/stories/ED0512/S00029/jade-software-joins-ict-innovation-institute.htm
+title: Jade Software joins ICT Innovation Institute
+date: 2005-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00029/jade-software-joins-ict-innovation-institute.htm
 author: university-of-canterbury
+permalink: /archive/2005/12/06/jade-software-joins-ict-innovation-institute/index.html
+layout: layout.njk
 ---
 Jade Software joins ICT Innovation Institute
 ============================================

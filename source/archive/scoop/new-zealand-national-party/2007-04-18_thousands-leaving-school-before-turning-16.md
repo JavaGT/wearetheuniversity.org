@@ -1,9 +1,12 @@
 ---
 slug: thousands-leaving-school-before-turning-16
-title: "Thousands leaving school before turning 16"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/PA0704/S00298/thousands-leaving-school-before-turning-16.htm
+title: Thousands leaving school before turning 16
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00298/thousands-leaving-school-before-turning-16.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/18/thousands-leaving-school-before-turning-16/index.html
+layout: layout.njk
 ---
 Thousands leaving school before turning 16
 ==========================================

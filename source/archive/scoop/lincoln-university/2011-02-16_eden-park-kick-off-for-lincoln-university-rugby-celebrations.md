@@ -1,9 +1,13 @@
 ---
 slug: eden-park-kick-off-for-lincoln-university-rugby-celebrations
-title: "Eden Park kick-off for Lincoln University rugby celebrations"
-date: 2011-02-16
-source-url: https://www.scoop.co.nz/stories/ED1102/S00052/eden-park-kick-off-for-lincoln-university-rugby-celebrations.htm
+title: Eden Park kick-off for Lincoln University rugby celebrations
+date: 2011-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00052/eden-park-kick-off-for-lincoln-university-rugby-celebrations.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/02/16/eden-park-kick-off-for-lincoln-university-rugby-celebrations/index.html
+layout: layout.njk
 ---
 Eden Park kick-off for Lincoln University rugby celebrations
 ============================================================

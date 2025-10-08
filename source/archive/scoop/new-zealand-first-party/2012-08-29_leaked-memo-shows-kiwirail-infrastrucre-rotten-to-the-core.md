@@ -1,9 +1,13 @@
 ---
 slug: leaked-memo-shows-kiwirail-infrastrucre-rotten-to-the-core
-title: "Leaked Memo Shows Kiwirail Infrastrucre Rotten to the Core"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/PA1208/S00437/leaked-memo-shows-kiwirail-infrastrucre-rotten-to-the-core.htm
+title: Leaked Memo Shows Kiwirail Infrastrucre Rotten to the Core
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00437/leaked-memo-shows-kiwirail-infrastrucre-rotten-to-the-core.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/08/29/leaked-memo-shows-kiwirail-infrastrucre-rotten-to-the-core/index.html
+layout: layout.njk
 ---
 Leaked Memo Shows Kiwirail Infrastrucre Rotten to the Core
 ==========================================================

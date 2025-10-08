@@ -1,9 +1,12 @@
 ---
 slug: recycling-facility-boost-for-local-jobs
-title: "Recycling facility boost for local jobs"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PO1408/S00187/recycling-facility-boost-for-local-jobs.htm
+title: Recycling facility boost for local jobs
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00187/recycling-facility-boost-for-local-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/12/recycling-facility-boost-for-local-jobs/index.html
+layout: layout.njk
 ---
 Recycling facility boost for local jobs
 =======================================

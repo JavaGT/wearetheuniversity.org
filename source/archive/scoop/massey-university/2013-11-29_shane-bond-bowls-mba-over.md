@@ -1,9 +1,11 @@
 ---
 slug: shane-bond-bowls-mba-over
-title: "Shane Bond bowls MBA over"
-date: 2013-11-29
+title: Shane Bond bowls MBA over
+date: 2013-11-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1311/S00210/shane-bond-bowls-mba-over.htm
 author: massey-university
+permalink: /archive/2013/11/29/shane-bond-bowls-mba-over/index.html
+layout: layout.njk
 ---
 Shane Bond bowls MBA over
 =========================

@@ -1,8 +1,12 @@
 ---
 slug: interactive-display-picks-library-books-based-on-your-mood-and-the-weather
-title: "Interactive display picks library books based on your mood and the weather"
-date: 2017-10-04
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/interactive-display-picks-library-books.html
+title: Interactive display picks library books based on your mood and the weather
+date: 2017-10-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/interactive-display-picks-library-books.html
+permalink: >-
+  /archive/2017/10/04/interactive-display-picks-library-books-based-on-your-mood-and-the-weather/index.html
+layout: layout.njk
 ---
 Interactive display picks library books based on your mood and the weather
 ==========================================================================

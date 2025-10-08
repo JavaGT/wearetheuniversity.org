@@ -1,9 +1,13 @@
 ---
 slug: women-working-for-free-until-the-end-of-the-year
-title: "Women working for free until the end of the year"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/PO0911/S00185/women-working-for-free-until-the-end-of-the-year.htm
+title: Women working for free until the end of the year
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00185/women-working-for-free-until-the-end-of-the-year.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2009/11/18/women-working-for-free-until-the-end-of-the-year/index.html
+layout: layout.njk
 ---
 Women working for free until the end of the year
 ================================================

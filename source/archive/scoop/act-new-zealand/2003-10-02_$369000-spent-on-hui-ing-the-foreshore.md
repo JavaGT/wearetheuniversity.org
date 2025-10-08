@@ -1,9 +1,12 @@
 ---
 slug: $369000-spent-on-hui-ing-the-foreshore
-title: "$369,000 Spent on Hui-ing the Foreshore"
-date: 2003-10-02
-source-url: https://www.scoop.co.nz/stories/PA0310/S00040/369000-spent-on-hui-ing-the-foreshore.htm
+title: $369,000 Spent on Hui-ing the Foreshore
+date: 2003-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00040/369000-spent-on-hui-ing-the-foreshore.htm
 author: act-new-zealand
+permalink: /archive/2003/10/02/369-000-spent-on-hui-ing-the-foreshore/index.html
+layout: layout.njk
 ---
 $369,000 Spent on Hui-ing the Foreshore
 =======================================

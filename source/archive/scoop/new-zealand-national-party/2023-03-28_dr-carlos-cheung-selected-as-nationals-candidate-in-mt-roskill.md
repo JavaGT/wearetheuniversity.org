@@ -1,9 +1,13 @@
 ---
 slug: dr-carlos-cheung-selected-as-nationals-candidate-in-mt-roskill
-title: "Dr Carlos Cheung Selected As National’s Candidate In Mt Roskill"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/PO2303/S00216/dr-carlos-cheung-selected-as-nationals-candidate-in-mt-roskill.htm
+title: Dr Carlos Cheung Selected As National’s Candidate In Mt Roskill
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00216/dr-carlos-cheung-selected-as-nationals-candidate-in-mt-roskill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/28/dr-carlos-cheung-selected-as-nationals-candidate-in-mt-roskill/index.html
+layout: layout.njk
 ---
 Dr Carlos Cheung Selected As National’s Candidate In Mt Roskill
 ===============================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-conductor-for-christchurch-youth-orchestra
-title: "New conductor for Christchurch Youth Orchestra"
-date: 2015-12-23
-source-url: https://www.scoop.co.nz/stories/CU1512/S00350/new-conductor-for-christchurch-youth-orchestra.htm
+title: New conductor for Christchurch Youth Orchestra
+date: 2015-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00350/new-conductor-for-christchurch-youth-orchestra.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/23/new-conductor-for-christchurch-youth-orchestra/index.html
+layout: layout.njk
 ---
 New conductor for Christchurch Youth Orchestra
 ==============================================

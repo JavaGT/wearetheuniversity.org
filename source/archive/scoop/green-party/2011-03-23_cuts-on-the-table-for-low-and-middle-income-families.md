@@ -1,9 +1,13 @@
 ---
 slug: cuts-on-the-table-for-low-and-middle-income-families
-title: "Cuts on the table for low and middle income families"
-date: 2011-03-23
-source-url: https://www.scoop.co.nz/stories/PA1103/S00381/cuts-on-the-table-for-low-and-middle-income-families.htm
+title: Cuts on the table for low and middle income families
+date: 2011-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00381/cuts-on-the-table-for-low-and-middle-income-families.htm
 author: green-party
+permalink: >-
+  /archive/2011/03/23/cuts-on-the-table-for-low-and-middle-income-families/index.html
+layout: layout.njk
 ---
 Cuts on the table for low and middle income families
 ====================================================

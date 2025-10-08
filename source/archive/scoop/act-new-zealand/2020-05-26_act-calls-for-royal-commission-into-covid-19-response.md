@@ -1,9 +1,13 @@
 ---
 slug: act-calls-for-royal-commission-into-covid-19-response
-title: "ACT Calls For Royal Commission Into COVID-19 Response"
-date: 2020-05-26
-source-url: https://www.scoop.co.nz/stories/PO2005/S00345/act-calls-for-royal-commission-into-covid-19-response.htm
+title: ACT Calls For Royal Commission Into COVID-19 Response
+date: 2020-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00345/act-calls-for-royal-commission-into-covid-19-response.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/05/26/act-calls-for-royal-commission-into-covid-19-response/index.html
+layout: layout.njk
 ---
 ACT Calls For Royal Commission Into COVID-19 Response
 =====================================================

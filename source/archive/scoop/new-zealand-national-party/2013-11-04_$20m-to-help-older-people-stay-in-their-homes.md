@@ -1,9 +1,12 @@
 ---
 slug: $20m-to-help-older-people-stay-in-their-homes
-title: "$20m to help older people stay in their homes"
-date: 2013-11-04
-source-url: https://www.scoop.co.nz/stories/PA1311/S00038/20m-to-help-older-people-stay-in-their-homes.htm
+title: $20m to help older people stay in their homes
+date: 2013-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00038/20m-to-help-older-people-stay-in-their-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2013/11/04/20m-to-help-older-people-stay-in-their-homes/index.html
+layout: layout.njk
 ---
 $20m to help older people stay in their homes
 =============================================

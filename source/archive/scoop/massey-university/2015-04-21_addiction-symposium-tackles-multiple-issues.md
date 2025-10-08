@@ -1,9 +1,12 @@
 ---
 slug: addiction-symposium-tackles-multiple-issues
-title: "Addiction symposium tackles multiple issues"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/GE1504/S00094/addiction-symposium-tackles-multiple-issues.htm
+title: Addiction symposium tackles multiple issues
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00094/addiction-symposium-tackles-multiple-issues.htm
 author: massey-university
+permalink: /archive/2015/04/21/addiction-symposium-tackles-multiple-issues/index.html
+layout: layout.njk
 ---
 Addiction symposium tackles multiple issues
 ===========================================

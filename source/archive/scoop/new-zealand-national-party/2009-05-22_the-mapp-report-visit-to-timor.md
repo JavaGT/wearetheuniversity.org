@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-visit-to-timor
-title: "The Mapp Report - Visit To Timor"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/PA0905/S00407/the-mapp-report-visit-to-timor.htm
+title: The Mapp Report - Visit To Timor
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00407/the-mapp-report-visit-to-timor.htm
 author: new-zealand-national-party
+permalink: /archive/2009/05/22/the-mapp-report-visit-to-timor/index.html
+layout: layout.njk
 ---
 The Mapp Report - Visit To Timor
 ================================

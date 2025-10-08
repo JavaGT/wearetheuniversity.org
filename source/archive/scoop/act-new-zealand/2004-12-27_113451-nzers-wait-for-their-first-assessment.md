@@ -1,9 +1,12 @@
 ---
 slug: 113451-nzers-wait-for-their-first-assessment
-title: "113,451 NZers wait for their First Assessment"
-date: 2004-12-27
-source-url: https://www.scoop.co.nz/stories/PA0412/S00592/113451-nzers-wait-for-their-first-assessment.htm
+title: 113,451 NZers wait for their First Assessment
+date: 2004-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00592/113451-nzers-wait-for-their-first-assessment.htm
 author: act-new-zealand
+permalink: /archive/2004/12/27/113451-nzers-wait-for-their-first-assessment/index.html
+layout: layout.njk
 ---
 113,451 NZers wait for their First Assessment
 =============================================

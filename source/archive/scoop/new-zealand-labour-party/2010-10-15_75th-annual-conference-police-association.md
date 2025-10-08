@@ -1,9 +1,12 @@
 ---
 slug: 75th-annual-conference-police-association
-title: "75th annual conference, Police Association"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00253/75th-annual-conference-police-association.htm
+title: 75th annual conference, Police Association
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00253/75th-annual-conference-police-association.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/15/75th-annual-conference-police-association/index.html
+layout: layout.njk
 ---
 75th annual conference, Police Association
 ==========================================

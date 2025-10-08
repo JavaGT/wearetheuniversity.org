@@ -1,9 +1,12 @@
 ---
 slug: brash-welcomes-foreshore-support
-title: "Brash welcomes foreshore support"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/PA0402/S00379/brash-welcomes-foreshore-support.htm
+title: Brash welcomes foreshore support
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00379/brash-welcomes-foreshore-support.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/23/brash-welcomes-foreshore-support/index.html
+layout: layout.njk
 ---
 Brash welcomes foreshore support
 ================================

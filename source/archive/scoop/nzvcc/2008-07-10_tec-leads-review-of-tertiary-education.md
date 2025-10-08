@@ -1,9 +1,12 @@
 ---
 slug: tec-leads-review-of-tertiary-education
-title: "TEC leads review of tertiary education"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/ED0807/S00029/tec-leads-review-of-tertiary-education.htm
+title: TEC leads review of tertiary education
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00029/tec-leads-review-of-tertiary-education.htm
 author: nzvcc
+permalink: /archive/2008/07/10/tec-leads-review-of-tertiary-education/index.html
+layout: layout.njk
 ---
 TEC leads review of tertiary education
 ======================================

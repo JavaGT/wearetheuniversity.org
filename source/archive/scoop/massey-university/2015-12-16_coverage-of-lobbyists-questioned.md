@@ -1,9 +1,12 @@
 ---
 slug: coverage-of-lobbyists-questioned
-title: "Coverage of lobbyists questioned"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PO1512/S00244/coverage-of-lobbyists-questioned.htm
+title: Coverage of lobbyists questioned
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00244/coverage-of-lobbyists-questioned.htm
 author: massey-university
+permalink: /archive/2015/12/16/coverage-of-lobbyists-questioned/index.html
+layout: layout.njk
 ---
 Coverage of lobbyists questioned
 ================================

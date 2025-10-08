@@ -1,9 +1,13 @@
 ---
 slug: tertiary-qualifications-not-answer-for-winz-staff
-title: "Tertiary qualifications not answer for WINZ staff"
-date: 1999-12-16
-source-url: https://www.scoop.co.nz/stories/PA9912/S00066/tertiary-qualifications-not-answer-for-winz-staff.htm
+title: Tertiary qualifications not answer for WINZ staff
+date: 1999-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00066/tertiary-qualifications-not-answer-for-winz-staff.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/1999/12/16/tertiary-qualifications-not-answer-for-winz-staff/index.html
+layout: layout.njk
 ---
 Tertiary qualifications not answer for WINZ staff
 =================================================

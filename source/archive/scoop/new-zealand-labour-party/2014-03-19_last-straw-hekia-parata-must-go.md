@@ -1,9 +1,12 @@
 ---
 slug: last-straw-hekia-parata-must-go
-title: "Last straw: Hekia Parata must go"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/PA1403/S00382/last-straw-hekia-parata-must-go.htm
+title: 'Last straw: Hekia Parata must go'
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00382/last-straw-hekia-parata-must-go.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/19/last-straw-hekia-parata-must-go/index.html
+layout: layout.njk
 ---
 Last straw: Hekia Parata must go
 ================================

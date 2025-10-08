@@ -1,9 +1,12 @@
 ---
 slug: nzmsa-statement-on-the-pgy1-position-shortage
-title: "NZMSA Statement On The PGY1 Position Shortage"
-date: 2022-09-08
-source-url: https://www.scoop.co.nz/stories/AK2209/S00170/nzmsa-statement-on-the-pgy1-position-shortage.htm
+title: NZMSA Statement On The PGY1 Position Shortage
+date: 2022-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2209/S00170/nzmsa-statement-on-the-pgy1-position-shortage.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2022/09/08/nzmsa-statement-on-the-pgy1-position-shortage/index.html
+layout: layout.njk
 ---
 NZMSA Statement On The PGY1 Position Shortage
 =============================================

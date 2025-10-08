@@ -1,9 +1,12 @@
 ---
 slug: what-about-freedom-of-association-mr-de-bres
-title: "What about freedom of association, Mr de Bres?"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00383/what-about-freedom-of-association-mr-de-bres.htm
+title: What about freedom of association, Mr de Bres?
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00383/what-about-freedom-of-association-mr-de-bres.htm
 author: act-new-zealand
+permalink: /archive/2005/02/17/what-about-freedom-of-association-mr-de-bres/index.html
+layout: layout.njk
 ---
 What about freedom of association, Mr de Bres?
 ==============================================

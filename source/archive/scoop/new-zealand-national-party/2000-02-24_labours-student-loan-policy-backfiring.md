@@ -1,9 +1,12 @@
 ---
 slug: labours-student-loan-policy-backfiring
-title: "Labour's student loan policy backfiring"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/PA0002/S00333/labours-student-loan-policy-backfiring.htm
+title: Labour's student loan policy backfiring
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00333/labours-student-loan-policy-backfiring.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/24/labours-student-loan-policy-backfiring/index.html
+layout: layout.njk
 ---
 Labour's student loan policy backfiring
 =======================================

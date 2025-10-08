@@ -1,9 +1,13 @@
 ---
 slug: first-new-zealand-study-of-pathological-hoarding
-title: "First New Zealand study of pathological hoarding"
-date: 2017-11-06
-source-url: https://www.scoop.co.nz/stories/GE1711/S00015/first-new-zealand-study-of-pathological-hoarding.htm
+title: First New Zealand study of pathological hoarding
+date: 2017-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00015/first-new-zealand-study-of-pathological-hoarding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/11/06/first-new-zealand-study-of-pathological-hoarding/index.html
+layout: layout.njk
 ---
 First New Zealand study of pathological hoarding
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-persuade-fec-to-call-for-greater-scrutiny
-title: "Greens Persuade FEC To Call For Greater Scrutiny"
-date: 2001-04-06
-source-url: https://www.scoop.co.nz/stories/PA0104/S00120/greens-persuade-fec-to-call-for-greater-scrutiny.htm
+title: Greens Persuade FEC To Call For Greater Scrutiny
+date: 2001-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00120/greens-persuade-fec-to-call-for-greater-scrutiny.htm
 author: green-party
+permalink: >-
+  /archive/2001/04/06/greens-persuade-fec-to-call-for-greater-scrutiny/index.html
+layout: layout.njk
 ---
 Greens Persuade FEC To Call For Greater Scrutiny
 ================================================

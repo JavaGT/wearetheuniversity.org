@@ -1,9 +1,13 @@
 ---
 slug: 20th-anniversary-of-world-court-anti-nuclear-judgment
-title: "20th anniversary of World Court anti-nuclear judgment"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/AK1606/S00982/20th-anniversary-of-world-court-anti-nuclear-judgment.htm
+title: 20th anniversary of World Court anti-nuclear judgment
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1606/S00982/20th-anniversary-of-world-court-anti-nuclear-judgment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/30/20th-anniversary-of-world-court-anti-nuclear-judgment/index.html
+layout: layout.njk
 ---
 20th anniversary of World Court anti-nuclear judgment
 =====================================================

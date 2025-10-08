@@ -1,9 +1,12 @@
 ---
 slug: labours-positive-education-plan
-title: "Labour’s positive education plan"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PA1708/S00232/labours-positive-education-plan.htm
+title: Labour’s positive education plan
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00232/labours-positive-education-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/11/labours-positive-education-plan/index.html
+layout: layout.njk
 ---
 Labour’s positive education plan
 ================================

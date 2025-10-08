@@ -1,9 +1,12 @@
 ---
 slug: king-denies-poor-health-ministry-reports
-title: "King denies poor Health Ministry reports"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00195/king-denies-poor-health-ministry-reports.htm
+title: King denies poor Health Ministry reports
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00195/king-denies-poor-health-ministry-reports.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/09/king-denies-poor-health-ministry-reports/index.html
+layout: layout.njk
 ---
 King denies poor Health Ministry reports
 ========================================

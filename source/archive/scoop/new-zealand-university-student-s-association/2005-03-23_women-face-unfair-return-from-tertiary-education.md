@@ -1,9 +1,13 @@
 ---
 slug: women-face-unfair-return-from-tertiary-education
-title: "Women Face Unfair Return from Tertiary Education"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/ED0503/S00078/women-face-unfair-return-from-tertiary-education.htm
+title: Women Face Unfair Return from Tertiary Education
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00078/women-face-unfair-return-from-tertiary-education.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/03/23/women-face-unfair-return-from-tertiary-education/index.html
+layout: layout.njk
 ---
 Women Face Unfair Return from Tertiary Education
 ================================================

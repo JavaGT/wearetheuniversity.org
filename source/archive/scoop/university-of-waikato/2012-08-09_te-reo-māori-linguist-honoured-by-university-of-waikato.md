@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-linguist-honoured-by-university-of-waikato
-title: "Te Reo Māori linguist honoured by University of Waikato"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/CU1208/S00164/te-reo-maori-linguist-honoured-by-university-of-waikato.htm
+title: Te Reo Māori linguist honoured by University of Waikato
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00164/te-reo-maori-linguist-honoured-by-university-of-waikato.htm
 author: university-of-waikato
+permalink: /archive/2012/08/09/te-reo-m/index.html
+layout: layout.njk
 ---
 Te Reo Māori linguist honoured by University of Waikato
 =======================================================

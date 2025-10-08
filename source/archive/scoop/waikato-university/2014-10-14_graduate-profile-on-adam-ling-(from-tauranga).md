@@ -1,9 +1,12 @@
 ---
 slug: graduate-profile-on-adam-ling-(from-tauranga)
-title: "Graduate profile on Adam Ling (from Tauranga)"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00076/graduate-profile-on-adam-ling-from-tauranga.htm
+title: Graduate profile on Adam Ling (from Tauranga)
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00076/graduate-profile-on-adam-ling-from-tauranga.htm
 author: waikato-university
+permalink: /archive/2014/10/14/graduate-profile-on-adam-ling-/index.html
+layout: layout.njk
 ---
 Graduate profile on Adam Ling (from Tauranga)
 =============================================

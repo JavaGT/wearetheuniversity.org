@@ -1,9 +1,12 @@
 ---
 slug: tim-and-neil-finn-receive-honorary-doctorates
-title: "Tim and Neil Finn receive Honorary Doctorates"
-date: 2001-11-26
-source-url: https://www.scoop.co.nz/stories/CU0111/S00073/tim-and-neil-finn-receive-honorary-doctorates.htm
+title: Tim and Neil Finn receive Honorary Doctorates
+date: 2001-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0111/S00073/tim-and-neil-finn-receive-honorary-doctorates.htm
 author: waikato-university
+permalink: /archive/2001/11/26/tim-and-neil-finn-receive-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Tim and Neil Finn receive Honorary Doctorates
 =============================================

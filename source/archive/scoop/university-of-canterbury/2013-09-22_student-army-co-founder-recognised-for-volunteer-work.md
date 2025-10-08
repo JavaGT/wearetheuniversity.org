@@ -1,9 +1,13 @@
 ---
 slug: student-army-co-founder-recognised-for-volunteer-work
-title: "Student Army co-founder recognised for volunteer work"
-date: 2013-09-22
-source-url: https://www.scoop.co.nz/stories/AK1309/S00722/student-army-co-founder-recognised-for-volunteer-work.htm
+title: Student Army co-founder recognised for volunteer work
+date: 2013-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00722/student-army-co-founder-recognised-for-volunteer-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/22/student-army-co-founder-recognised-for-volunteer-work/index.html
+layout: layout.njk
 ---
 Student Army co-founder recognised for volunteer work
 =====================================================

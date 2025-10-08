@@ -1,9 +1,13 @@
 ---
 slug: ctu-welcomes-canterbury-health-and-safety-funding
-title: "CTU Welcomes Canterbury Health and Safety Funding"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/PO1308/S00128/ctu-welcomes-canterbury-health-and-safety-funding.htm
+title: CTU Welcomes Canterbury Health and Safety Funding
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00128/ctu-welcomes-canterbury-health-and-safety-funding.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/08/08/ctu-welcomes-canterbury-health-and-safety-funding/index.html
+layout: layout.njk
 ---
 CTU Welcomes Canterbury Health and Safety Funding
 =================================================

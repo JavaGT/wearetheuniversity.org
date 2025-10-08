@@ -1,9 +1,12 @@
 ---
 slug: more-students-achieving-in-palmerston-north
-title: "More students achieving in Palmerston North"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/PA1507/S00386/more-students-achieving-in-palmerston-north.htm
+title: More students achieving in Palmerston North
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00386/more-students-achieving-in-palmerston-north.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/23/more-students-achieving-in-palmerston-north/index.html
+layout: layout.njk
 ---
 More students achieving in Palmerston North
 ===========================================

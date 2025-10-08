@@ -1,9 +1,12 @@
 ---
 slug: captain-planet-and-the-first-vx
-title: "Captain Planet and the First VX"
-date: 2021-09-21
-source-url: https://www.scoop.co.nz/stories/PA2109/S00175/captain-planet-and-the-first-vx.htm
+title: Captain Planet and the First VX
+date: 2021-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00175/captain-planet-and-the-first-vx.htm
 author: act-new-zealand
+permalink: /archive/2021/09/21/captain-planet-and-the-first-vx/index.html
+layout: layout.njk
 ---
 Captain Planet and the First VX
 ===============================

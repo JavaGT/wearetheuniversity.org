@@ -1,9 +1,11 @@
 ---
 slug: party-pills-toxicity-unknown
-title: "Party Pills Toxicity Unknown"
-date: 2006-04-13
+title: Party Pills Toxicity Unknown
+date: 2006-04-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00267/party-pills-toxicity-unknown.htm
 author: new-zealand-first-party
+permalink: /archive/2006/04/13/party-pills-toxicity-unknown/index.html
+layout: layout.njk
 ---
 Party Pills Toxicity Unknown
 ============================

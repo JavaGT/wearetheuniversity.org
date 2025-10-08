@@ -1,9 +1,13 @@
 ---
 slug: communication-leader-to-head-college-of-business
-title: "Communication leader to head College of Business"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/ED1111/S00132/communication-leader-to-head-college-of-business.htm
+title: Communication leader to head College of Business
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00132/communication-leader-to-head-college-of-business.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/21/communication-leader-to-head-college-of-business/index.html
+layout: layout.njk
 ---
 Communication leader to head College of Business
 ================================================

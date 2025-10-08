@@ -1,9 +1,13 @@
 ---
 slug: adventurer-wins-prestigious-university-of-waikato-award
-title: "Adventurer wins prestigious University of Waikato award"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/CU1408/S00336/adventurer-wins-prestigious-university-of-waikato-award.htm
+title: Adventurer wins prestigious University of Waikato award
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00336/adventurer-wins-prestigious-university-of-waikato-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/20/adventurer-wins-prestigious-university-of-waikato-award/index.html
+layout: layout.njk
 ---
 Adventurer wins prestigious University of Waikato award
 =======================================================

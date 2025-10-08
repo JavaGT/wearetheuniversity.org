@@ -1,9 +1,12 @@
 ---
 slug: marsden-fund-boost-for-invasive-plant-research
-title: "Marsden Fund Boost For Invasive Plant Research"
-date: 2020-11-11
-source-url: https://www.scoop.co.nz/stories/SC2011/S00017/marsden-fund-boost-for-invasive-plant-research.htm
+title: Marsden Fund Boost For Invasive Plant Research
+date: 2020-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00017/marsden-fund-boost-for-invasive-plant-research.htm
 author: lincoln-university
+permalink: /archive/2020/11/11/marsden-fund-boost-for-invasive-plant-research/index.html
+layout: layout.njk
 ---
 Marsden Fund Boost For Invasive Plant Research
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: save-saddle-hill-petition-a-community-driven-campaign
-title: "Save Saddle Hill petition a community-driven campaign"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/PA1507/S00271/save-saddle-hill-petition-a-community-driven-campaign.htm
+title: Save Saddle Hill petition a community-driven campaign
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00271/save-saddle-hill-petition-a-community-driven-campaign.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/16/save-saddle-hill-petition-a-community-driven-campaign/index.html
+layout: layout.njk
 ---
 Save Saddle Hill petition a community-driven campaign
 =====================================================

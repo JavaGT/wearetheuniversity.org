@@ -1,9 +1,13 @@
 ---
 slug: uc-business-researcher-investigating-promotion-of-recovery
-title: "UC business researcher investigating promotion of recovery"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/AK1308/S00158/uc-business-researcher-investigating-promotion-of-recovery.htm
+title: UC business researcher investigating promotion of recovery
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00158/uc-business-researcher-investigating-promotion-of-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/07/uc-business-researcher-investigating-promotion-of-recovery/index.html
+layout: layout.njk
 ---
 UC business researcher investigating promotion of recovery
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: productivity-commission-report-need-for-green-innovation
-title: "Productivity Commission report: need for green innovation"
-date: 2015-02-05
-source-url: https://www.scoop.co.nz/stories/PA1502/S00048/productivity-commission-report-need-for-green-innovation.htm
+title: 'Productivity Commission report: need for green innovation'
+date: 2015-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00048/productivity-commission-report-need-for-green-innovation.htm
 author: green-party
+permalink: >-
+  /archive/2015/02/05/productivity-commission-report-need-for-green-innovation/index.html
+layout: layout.njk
 ---
 Productivity Commission report: need for green innovation
 =========================================================

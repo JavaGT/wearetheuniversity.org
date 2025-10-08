@@ -1,9 +1,12 @@
 ---
 slug: lets-keep-the-bills-down-for-families
-title: "Let’s keep the bills down for families"
-date: 2010-12-15
-source-url: https://www.scoop.co.nz/stories/PA1012/S00277/lets-keep-the-bills-down-for-families.htm
+title: Let’s keep the bills down for families
+date: 2010-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00277/lets-keep-the-bills-down-for-families.htm
 author: green-party
+permalink: /archive/2010/12/15/lets-keep-the-bills-down-for-families/index.html
+layout: layout.njk
 ---
 Let’s keep the bills down for families
 ======================================

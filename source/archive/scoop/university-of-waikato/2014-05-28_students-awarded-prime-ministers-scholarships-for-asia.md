@@ -1,9 +1,13 @@
 ---
 slug: students-awarded-prime-ministers-scholarships-for-asia
-title: "Students awarded Prime Minister’s Scholarships for Asia"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/ED1405/S00141/students-awarded-prime-ministers-scholarships-for-asia.htm
+title: Students awarded Prime Minister’s Scholarships for Asia
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00141/students-awarded-prime-ministers-scholarships-for-asia.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/28/students-awarded-prime-ministers-scholarships-for-asia/index.html
+layout: layout.njk
 ---
 Students awarded Prime Minister’s Scholarships for Asia
 =======================================================

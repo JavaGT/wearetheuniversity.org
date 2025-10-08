@@ -1,9 +1,12 @@
 ---
 slug: the-business-of-system-failure
-title: "'The business of system failure'"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00252/the-business-of-system-failure.htm
+title: '''The business of system failure'''
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00252/the-business-of-system-failure.htm
 author: te-pati-maori
+permalink: /archive/2007/02/14/the-business-of-system-failure/index.html
+layout: layout.njk
 ---
 'The business of system failure'
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-links-with-top-us-university
-title: "Massey links with top US university"
-date: 2012-03-09
-source-url: https://www.scoop.co.nz/stories/ED1203/S00041/massey-links-with-top-us-university.htm
+title: Massey links with top US university
+date: 2012-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00041/massey-links-with-top-us-university.htm
 author: massey-university
+permalink: /archive/2012/03/09/massey-links-with-top-us-university/index.html
+layout: layout.njk
 ---
 Massey links with top US university
 ===================================

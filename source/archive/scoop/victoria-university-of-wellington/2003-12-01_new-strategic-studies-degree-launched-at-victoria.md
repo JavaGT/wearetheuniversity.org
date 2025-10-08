@@ -1,9 +1,13 @@
 ---
 slug: new-strategic-studies-degree-launched-at-victoria
-title: "New strategic studies degree launched at Victoria"
-date: 2003-12-01
-source-url: https://www.scoop.co.nz/stories/ED0312/S00003/new-strategic-studies-degree-launched-at-victoria.htm
+title: New strategic studies degree launched at Victoria
+date: 2003-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00003/new-strategic-studies-degree-launched-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/12/01/new-strategic-studies-degree-launched-at-victoria/index.html
+layout: layout.njk
 ---
 New strategic studies degree launched at Victoria
 =================================================

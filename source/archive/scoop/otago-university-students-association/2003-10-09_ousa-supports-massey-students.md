@@ -1,9 +1,12 @@
 ---
 slug: ousa-supports-massey-students
-title: "OUSA supports Massey students"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00031/ousa-supports-massey-students.htm
+title: OUSA supports Massey students
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00031/ousa-supports-massey-students.htm
 author: otago-university-students-association
+permalink: /archive/2003/10/09/ousa-supports-massey-students/index.html
+layout: layout.njk
 ---
 OUSA supports Massey students
 =============================

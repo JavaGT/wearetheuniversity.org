@@ -1,9 +1,11 @@
 ---
 slug: undrip-lets-get-on-with-it
-title: "UNDRIP – Let’s Get On With It"
-date: 2022-04-22
+title: UNDRIP – Let’s Get On With It
+date: 2022-04-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2204/S00165/undrip-lets-get-on-with-it.htm
 author: green-party
+permalink: /archive/2022/04/22/undrip-lets-get-on-with-it/index.html
+layout: layout.njk
 ---
 UNDRIP – Let’s Get On With It
 =============================

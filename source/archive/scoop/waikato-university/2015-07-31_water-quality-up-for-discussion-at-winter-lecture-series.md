@@ -1,9 +1,13 @@
 ---
 slug: water-quality-up-for-discussion-at-winter-lecture-series
-title: "Water quality up for discussion at Winter Lecture Series"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/SC1507/S00081/water-quality-up-for-discussion-at-winter-lecture-series.htm
+title: Water quality up for discussion at Winter Lecture Series
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00081/water-quality-up-for-discussion-at-winter-lecture-series.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/31/water-quality-up-for-discussion-at-winter-lecture-series/index.html
+layout: layout.njk
 ---
 Water quality up for discussion at Winter Lecture Series
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: wellington-conference-highlights-importance-of-student-voice
-title: "Wellington conference highlights importance of Student Voice"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/PO1312/S00077/wellington-conference-highlights-importance-of-student-voice.htm
+title: Wellington conference highlights importance of Student Voice
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00077/wellington-conference-highlights-importance-of-student-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/12/06/wellington-conference-highlights-importance-of-student-voice/index.html
+layout: layout.njk
 ---
 Wellington conference highlights importance of Student Voice
 ============================================================

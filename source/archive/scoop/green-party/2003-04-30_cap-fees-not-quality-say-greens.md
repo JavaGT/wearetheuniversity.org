@@ -1,9 +1,12 @@
 ---
 slug: cap-fees-not-quality-say-greens
-title: "Cap fees, not quality say Greens"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/PA0304/S00569/cap-fees-not-quality-say-greens.htm
+title: Cap fees, not quality say Greens
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00569/cap-fees-not-quality-say-greens.htm
 author: green-party
+permalink: /archive/2003/04/30/cap-fees-not-quality-say-greens/index.html
+layout: layout.njk
 ---
 Cap fees, not quality say Greens
 ================================

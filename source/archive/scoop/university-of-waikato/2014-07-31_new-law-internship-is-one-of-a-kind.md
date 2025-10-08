@@ -1,9 +1,12 @@
 ---
 slug: new-law-internship-is-one-of-a-kind
-title: "New law internship is one of a kind"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/ED1407/S00155/new-law-internship-is-one-of-a-kind.htm
+title: New law internship is one of a kind
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00155/new-law-internship-is-one-of-a-kind.htm
 author: university-of-waikato
+permalink: /archive/2014/07/31/new-law-internship-is-one-of-a-kind/index.html
+layout: layout.njk
 ---
 New law internship is one of a kind
 ===================================

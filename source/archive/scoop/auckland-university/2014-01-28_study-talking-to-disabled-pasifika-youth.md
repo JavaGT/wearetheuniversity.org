@@ -1,9 +1,12 @@
 ---
 slug: study-talking-to-disabled-pasifika-youth
-title: "Study talking to disabled Pasifika youth"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/ED1401/S00049/study-talking-to-disabled-pasifika-youth.htm
+title: Study talking to disabled Pasifika youth
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00049/study-talking-to-disabled-pasifika-youth.htm
 author: auckland-university
+permalink: /archive/2014/01/28/study-talking-to-disabled-pasifika-youth/index.html
+layout: layout.njk
 ---
 Study talking to disabled Pasifika youth
 ========================================

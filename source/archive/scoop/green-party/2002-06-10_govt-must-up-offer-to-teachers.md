@@ -1,9 +1,12 @@
 ---
 slug: govt-must-up-offer-to-teachers
-title: "Gov't Must Up Offer To Teachers"
-date: 2002-06-10
-source-url: https://www.scoop.co.nz/stories/PA0206/S00115/govt-must-up-offer-to-teachers.htm
+title: Gov't Must Up Offer To Teachers
+date: 2002-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00115/govt-must-up-offer-to-teachers.htm
 author: green-party
+permalink: /archive/2002/06/10/govt-must-up-offer-to-teachers/index.html
+layout: layout.njk
 ---
 Gov't Must Up Offer To Teachers
 ===============================

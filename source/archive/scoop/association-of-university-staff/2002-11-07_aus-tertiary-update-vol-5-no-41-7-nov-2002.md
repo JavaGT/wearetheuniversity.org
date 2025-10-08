@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-41-7-nov-2002
-title: "AUS Tertiary Update Vol. 5  No. 41, 7 Nov 2002"
-date: 2002-11-07
-source-url: https://www.scoop.co.nz/stories/ED0211/S00015/aus-tertiary-update-vol-5-no-41-7-nov-2002.htm
+title: AUS Tertiary Update Vol. 5  No. 41, 7 Nov 2002
+date: 2002-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00015/aus-tertiary-update-vol-5-no-41-7-nov-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/11/07/aus-tertiary-update-vol-5-no-41-7-nov-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 41, 7 Nov 2002
 =============================================

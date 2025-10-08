@@ -1,9 +1,12 @@
 ---
 slug: the-brash-report-no-26-24-march-2004
-title: "The Brash-Report - No. 26, 24 March 2004"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00523/the-brash-report-no-26-24-march-2004.htm
+title: The Brash-Report - No. 26, 24 March 2004
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00523/the-brash-report-no-26-24-march-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/24/the-brash-report-no-26-24-march-2004/index.html
+layout: layout.njk
 ---
 The Brash-Report - No. 26, 24 March 2004
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: plain-english-13-july-2005
-title: "Plain English - 13 July 2005"
-date: 2005-07-13
+title: Plain English - 13 July 2005
+date: 2005-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00282/plain-english-13-july-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/13/plain-english-13-july-2005/index.html
+layout: layout.njk
 ---
 Plain English - 13 July 2005
 ============================

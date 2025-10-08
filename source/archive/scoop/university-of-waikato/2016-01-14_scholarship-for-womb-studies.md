@@ -1,9 +1,11 @@
 ---
 slug: scholarship-for-womb-studies
-title: "Scholarship for womb studies"
-date: 2016-01-14
+title: Scholarship for womb studies
+date: 2016-01-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1601/S00013/scholarship-for-womb-studies.htm
 author: university-of-waikato
+permalink: /archive/2016/01/14/scholarship-for-womb-studies/index.html
+layout: layout.njk
 ---
 Scholarship for womb studies
 ============================

@@ -1,9 +1,11 @@
 ---
 slug: education-minister-cant-cope
-title: "Education Minister Can't Cope"
-date: 2003-11-03
+title: Education Minister Can't Cope
+date: 2003-11-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00004/education-minister-cant-cope.htm
 author: act-new-zealand
+permalink: /archive/2003/11/03/education-minister-cant-cope/index.html
+layout: layout.njk
 ---
 Education Minister Can't Cope
 =============================

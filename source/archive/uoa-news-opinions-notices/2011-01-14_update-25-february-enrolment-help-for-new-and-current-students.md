@@ -1,8 +1,12 @@
 ---
 slug: update-25-february-enrolment-help-for-new-and-current-students
-title: "Update [25 February]: Enrolment help for new and current students"
-date: 2011-01-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/01/14/Update-25-February-Enrolment-help-for-new-and-current-students.html
+title: 'Update [25 February]: Enrolment help for new and current students'
+date: 2011-01-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/01/14/Update-25-February-Enrolment-help-for-new-and-current-students.html
+permalink: >-
+  /archive/2011/01/14/update-25-february-enrolment-help-for-new-and-current-students/index.html
+layout: layout.njk
 ---
 Update \[25 February\]: Enrolment help for new and current students
 ===================================================================

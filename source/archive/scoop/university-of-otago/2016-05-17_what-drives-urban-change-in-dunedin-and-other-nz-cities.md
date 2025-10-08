@@ -1,9 +1,13 @@
 ---
 slug: what-drives-urban-change-in-dunedin-and-other-nz-cities
-title: "What drives urban change in Dunedin and other NZ cities?"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/SC1605/S00041/what-drives-urban-change-in-dunedin-and-other-nz-cities.htm
+title: What drives urban change in Dunedin and other NZ cities?
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00041/what-drives-urban-change-in-dunedin-and-other-nz-cities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/17/what-drives-urban-change-in-dunedin-and-other-nz-cities/index.html
+layout: layout.njk
 ---
 What drives urban change in Dunedin and other NZ cities?
 ========================================================

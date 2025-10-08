@@ -1,9 +1,12 @@
 ---
 slug: era-youth-friendly-young-labour
-title: "ERA Youth Friendly - Young Labour"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/PO0008/S00114/era-youth-friendly-young-labour.htm
+title: ERA Youth Friendly - Young Labour
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00114/era-youth-friendly-young-labour.htm
 author: young-labour
+permalink: /archive/2000/08/17/era-youth-friendly-young-labour/index.html
+layout: layout.njk
 ---
 ERA Youth Friendly - Young Labour
 =================================

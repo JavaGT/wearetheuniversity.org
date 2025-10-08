@@ -1,9 +1,11 @@
 ---
 slug: hone-harawira-ae-marika!
-title: "Hone Harawira: Ae Marika!"
-date: 2006-10-03
+title: 'Hone Harawira: Ae Marika!'
+date: 2006-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00037/hone-harawira-ae-marika.htm
 author: te-pati-maori
+permalink: /archive/2006/10/03/hone-harawira-ae-marika/index.html
+layout: layout.njk
 ---
 Hone Harawira: Ae Marika!
 =========================

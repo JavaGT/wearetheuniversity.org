@@ -1,9 +1,12 @@
 ---
 slug: private-investment-threatens-public-education
-title: "Private Investment Threatens Public Education"
-date: 2009-07-23
-source-url: https://www.scoop.co.nz/stories/PO0907/S00244/private-investment-threatens-public-education.htm
+title: Private Investment Threatens Public Education
+date: 2009-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00244/private-investment-threatens-public-education.htm
 author: nzei
+permalink: /archive/2009/07/23/private-investment-threatens-public-education/index.html
+layout: layout.njk
 ---
 Private Investment Threatens Public Education
 =============================================

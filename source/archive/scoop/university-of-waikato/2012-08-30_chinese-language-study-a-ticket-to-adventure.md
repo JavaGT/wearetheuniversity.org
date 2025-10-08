@@ -1,9 +1,12 @@
 ---
 slug: chinese-language-study-a-ticket-to-adventure
-title: "Chinese language study a ticket to adventure"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/ED1208/S00174/chinese-language-study-a-ticket-to-adventure.htm
+title: Chinese language study a ticket to adventure
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00174/chinese-language-study-a-ticket-to-adventure.htm
 author: university-of-waikato
+permalink: /archive/2012/08/30/chinese-language-study-a-ticket-to-adventure/index.html
+layout: layout.njk
 ---
 Chinese language study a ticket to adventure
 ============================================

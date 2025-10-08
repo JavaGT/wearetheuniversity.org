@@ -1,9 +1,12 @@
 ---
 slug: new-research-on-disease-fighting-foods
-title: "New Research on Disease Fighting Foods"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/SC0211/S00017/new-research-on-disease-fighting-foods.htm
+title: New Research on Disease Fighting Foods
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0211/S00017/new-research-on-disease-fighting-foods.htm
 author: auckland-university
+permalink: /archive/2002/11/11/new-research-on-disease-fighting-foods/index.html
+layout: layout.njk
 ---
 New Research on Disease Fighting Foods
 ======================================

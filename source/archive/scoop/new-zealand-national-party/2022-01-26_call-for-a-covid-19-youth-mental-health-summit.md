@@ -1,9 +1,12 @@
 ---
 slug: call-for-a-covid-19-youth-mental-health-summit
-title: "Call For A Covid-19 Youth Mental Health Summit"
-date: 2022-01-26
-source-url: https://www.scoop.co.nz/stories/PA2201/S00093/call-for-a-covid-19-youth-mental-health-summit.htm
+title: Call For A Covid-19 Youth Mental Health Summit
+date: 2022-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00093/call-for-a-covid-19-youth-mental-health-summit.htm
 author: new-zealand-national-party
+permalink: /archive/2022/01/26/call-for-a-covid-19-youth-mental-health-summit/index.html
+layout: layout.njk
 ---
 Call For A Covid-19 Youth Mental Health Summit
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: sharples-keeping-kids-safe
-title: "Sharples: 'Keeping Kids Safe'"
-date: 2008-04-14
+title: 'Sharples: ''Keeping Kids Safe'''
+date: 2008-04-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00333/sharples-keeping-kids-safe.htm
 author: te-pati-maori
+permalink: /archive/2008/04/14/sharples-keeping-kids-safe/index.html
+layout: layout.njk
 ---
 Sharples: 'Keeping Kids Safe'
 =============================

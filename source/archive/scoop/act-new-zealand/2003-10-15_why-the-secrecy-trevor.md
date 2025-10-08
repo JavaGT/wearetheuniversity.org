@@ -1,9 +1,11 @@
 ---
 slug: why-the-secrecy-trevor
-title: "Why The Secrecy, Trevor?"
-date: 2003-10-15
+title: Why The Secrecy, Trevor?
+date: 2003-10-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00354/why-the-secrecy-trevor.htm
 author: act-new-zealand
+permalink: /archive/2003/10/15/why-the-secrecy-trevor/index.html
+layout: layout.njk
 ---
 Why The Secrecy, Trevor?
 ========================

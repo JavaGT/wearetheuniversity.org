@@ -1,9 +1,11 @@
 ---
 slug: what-helen-should-tell-hu
-title: "What Helen should tell Hu"
-date: 2003-10-23
+title: What Helen should tell Hu
+date: 2003-10-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00556/what-helen-should-tell-hu.htm
 author: green-party
+permalink: /archive/2003/10/23/what-helen-should-tell-hu/index.html
+layout: layout.njk
 ---
 What Helen should tell Hu
 =========================

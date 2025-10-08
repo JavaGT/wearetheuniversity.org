@@ -1,9 +1,13 @@
 ---
 slug: students-rally-against-funding-cuts-to-massey-university-students-association
-title: "Students Rally Against Funding Cuts To Massey University Students’ Association"
-date: 2024-11-06
-source-url: https://www.scoop.co.nz/stories/ED2411/S00012/students-rally-against-funding-cuts-to-massey-university-students-association.htm
+title: Students Rally Against Funding Cuts To Massey University Students’ Association
+date: 2024-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00012/students-rally-against-funding-cuts-to-massey-university-students-association.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2024/11/06/students-rally-against-funding-cuts-to-massey-university-students-association/index.html
+layout: layout.njk
 ---
 Students Rally Against Funding Cuts To Massey University Students’ Association
 ==============================================================================

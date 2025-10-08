@@ -1,9 +1,12 @@
 ---
 slug: māori-party-candidate-calls-for-christian-leadership
-title: "Māori Party Candidate Calls for Christian Leadership"
-date: 2017-09-07
-source-url: https://www.scoop.co.nz/stories/PO1709/S00102/maori-party-candidate-calls-for-christian-leadership.htm
+title: Māori Party Candidate Calls for Christian Leadership
+date: 2017-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00102/maori-party-candidate-calls-for-christian-leadership.htm
 author: te-pati-maori
+permalink: /archive/2017/09/07/m/index.html
+layout: layout.njk
 ---
 Māori Party Candidate Calls for Christian Leadership
 ====================================================

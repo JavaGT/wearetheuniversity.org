@@ -1,9 +1,11 @@
 ---
 slug: ge-decision-sensible
-title: "GE decision sensible"
-date: 2001-10-31
+title: GE decision sensible
+date: 2001-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0110/S00195/ge-decision-sensible.htm
 author: massey-university
+permalink: /archive/2001/10/31/ge-decision-sensible/index.html
+layout: layout.njk
 ---
 GE decision sensible
 ====================

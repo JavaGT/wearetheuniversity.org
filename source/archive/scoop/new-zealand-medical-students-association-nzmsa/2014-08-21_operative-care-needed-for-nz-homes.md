@@ -1,9 +1,12 @@
 ---
 slug: operative-care-needed-for-nz-homes
-title: "Operative care needed for NZ homes"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/GE1408/S00099/operative-care-needed-for-nz-homes.htm
+title: Operative care needed for NZ homes
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00099/operative-care-needed-for-nz-homes.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: /archive/2014/08/21/operative-care-needed-for-nz-homes/index.html
+layout: layout.njk
 ---
 Operative care needed for NZ homes
 ==================================

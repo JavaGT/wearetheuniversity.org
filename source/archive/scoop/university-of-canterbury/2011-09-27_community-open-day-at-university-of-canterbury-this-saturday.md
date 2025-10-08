@@ -1,9 +1,13 @@
 ---
 slug: community-open-day-at-university-of-canterbury-this-saturday
-title: "Community Open Day at University of Canterbury this Saturday"
-date: 2011-09-27
-source-url: https://www.scoop.co.nz/stories/ED1109/S00121/community-open-day-at-university-of-canterbury-this-saturday.htm
+title: Community Open Day at University of Canterbury this Saturday
+date: 2011-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00121/community-open-day-at-university-of-canterbury-this-saturday.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/09/27/community-open-day-at-university-of-canterbury-this-saturday/index.html
+layout: layout.njk
 ---
 Community Open Day at University of Canterbury this Saturday
 ============================================================

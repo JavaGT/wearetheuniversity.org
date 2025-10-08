@@ -1,9 +1,13 @@
 ---
 slug: uc-student-entrepreneur-summer-startup-winners-announced
-title: "UC student-entrepreneur Summer Startup winners announced"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/ED1802/S00029/uc-student-entrepreneur-summer-startup-winners-announced.htm
+title: UC student-entrepreneur Summer Startup winners announced
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00029/uc-student-entrepreneur-summer-startup-winners-announced.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/12/uc-student-entrepreneur-summer-startup-winners-announced/index.html
+layout: layout.njk
 ---
 UC student-entrepreneur Summer Startup winners announced
 ========================================================

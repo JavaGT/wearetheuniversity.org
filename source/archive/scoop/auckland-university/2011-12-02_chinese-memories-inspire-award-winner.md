@@ -1,9 +1,12 @@
 ---
 slug: chinese-memories-inspire-award-winner
-title: "Chinese memories inspire award winner"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/ED1112/S00014/chinese-memories-inspire-award-winner.htm
+title: Chinese memories inspire award winner
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00014/chinese-memories-inspire-award-winner.htm
 author: auckland-university
+permalink: /archive/2011/12/02/chinese-memories-inspire-award-winner/index.html
+layout: layout.njk
 ---
 Chinese memories inspire award winner
 =====================================

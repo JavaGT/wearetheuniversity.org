@@ -1,9 +1,13 @@
 ---
 slug: public-consultation-on-our-climate-target-needed
-title: "Public consultation on our climate target needed"
-date: 2015-03-01
-source-url: https://www.scoop.co.nz/stories/PA1503/S00005/public-consultation-on-our-climate-target-needed.htm
+title: Public consultation on our climate target needed
+date: 2015-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00005/public-consultation-on-our-climate-target-needed.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/01/public-consultation-on-our-climate-target-needed/index.html
+layout: layout.njk
 ---
 Public consultation on our climate target needed
 ================================================

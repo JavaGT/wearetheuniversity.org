@@ -1,9 +1,16 @@
 ---
-slug: govts-90-cent-cost-of-living-increase-pales-compared-to-housing-crisis-hikes-for-students
-title: "Govt’s 90 cent Cost of Living increase pales compared to Housing Crisis Hikes for Students"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PO1502/S00261/govts-90-cent-cost-of-living-increase-pales-compared-to-housing-crisis-hikes-for-students.htm
+slug: >-
+  govts-90-cent-cost-of-living-increase-pales-compared-to-housing-crisis-hikes-for-students
+title: >-
+  Govt’s 90 cent Cost of Living increase pales compared to Housing Crisis Hikes
+  for Students
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00261/govts-90-cent-cost-of-living-increase-pales-compared-to-housing-crisis-hikes-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/02/24/govts-90-cent-cost-of-living-increase-pales-compared-to-housing-crisis-hikes-for-students/index.html
+layout: layout.njk
 ---
 Govt’s 90 cent Cost of Living increase pales compared to Housing Crisis Hikes for Students
 ==========================================================================================

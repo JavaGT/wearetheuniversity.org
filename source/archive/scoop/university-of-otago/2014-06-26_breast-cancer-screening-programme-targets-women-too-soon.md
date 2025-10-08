@@ -1,9 +1,13 @@
 ---
 slug: breast-cancer-screening-programme-targets-women-too-soon
-title: "Breast cancer screening programme targets women too soon"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/GE1406/S00114/breast-cancer-screening-programme-targets-women-too-soon.htm
+title: Breast cancer screening programme targets women too soon
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00114/breast-cancer-screening-programme-targets-women-too-soon.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/26/breast-cancer-screening-programme-targets-women-too-soon/index.html
+layout: layout.njk
 ---
 Breast cancer screening programme targets women too soon
 ========================================================

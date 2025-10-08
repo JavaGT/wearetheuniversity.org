@@ -1,9 +1,13 @@
 ---
 slug: failure-on-housing-crisis-drives-reserve-bank-to-add-tools
-title: "Failure on housing crisis drives Reserve Bank to add tools"
-date: 2016-10-25
-source-url: https://www.scoop.co.nz/stories/PA1610/S00379/failure-on-housing-crisis-drives-reserve-bank-to-add-tools.htm
+title: Failure on housing crisis drives Reserve Bank to add tools
+date: 2016-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00379/failure-on-housing-crisis-drives-reserve-bank-to-add-tools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/10/25/failure-on-housing-crisis-drives-reserve-bank-to-add-tools/index.html
+layout: layout.njk
 ---
 Failure on housing crisis drives Reserve Bank to add tools
 ==========================================================

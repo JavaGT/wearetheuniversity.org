@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-public-lecture-series
-title: "New Zealand Public Lecture Series"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/ED0611/S00035/new-zealand-public-lecture-series.htm
+title: New Zealand Public Lecture Series
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00035/new-zealand-public-lecture-series.htm
 author: massey-university
+permalink: /archive/2006/11/08/new-zealand-public-lecture-series/index.html
+layout: layout.njk
 ---
 New Zealand Public Lecture Series
 =================================

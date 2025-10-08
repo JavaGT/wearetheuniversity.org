@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-gisborne-rotary-club
-title: "Cullen Address to Gisborne Rotary Club"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00004/cullen-address-to-gisborne-rotary-club.htm
+title: Cullen Address to Gisborne Rotary Club
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00004/cullen-address-to-gisborne-rotary-club.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/01/cullen-address-to-gisborne-rotary-club/index.html
+layout: layout.njk
 ---
 Cullen Address to Gisborne Rotary Club
 ======================================

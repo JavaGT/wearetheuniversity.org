@@ -1,9 +1,12 @@
 ---
 slug: nationals-privatisation-trojan-horse
-title: "National’s privatisation Trojan horse"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00445/nationals-privatisation-trojan-horse.htm
+title: National’s privatisation Trojan horse
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00445/nationals-privatisation-trojan-horse.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/24/nationals-privatisation-trojan-horse/index.html
+layout: layout.njk
 ---
 National’s privatisation Trojan horse
 =====================================

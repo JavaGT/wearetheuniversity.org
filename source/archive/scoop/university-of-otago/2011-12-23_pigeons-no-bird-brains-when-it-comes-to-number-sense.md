@@ -1,9 +1,13 @@
 ---
 slug: pigeons-no-bird-brains-when-it-comes-to-number-sense
-title: "Pigeons no bird brains when it comes to number sense"
-date: 2011-12-23
-source-url: https://www.scoop.co.nz/stories/SC1112/S00051/pigeons-no-bird-brains-when-it-comes-to-number-sense.htm
+title: Pigeons no bird brains when it comes to number sense
+date: 2011-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00051/pigeons-no-bird-brains-when-it-comes-to-number-sense.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/23/pigeons-no-bird-brains-when-it-comes-to-number-sense/index.html
+layout: layout.njk
 ---
 Pigeons no bird brains when it comes to number sense
 ====================================================

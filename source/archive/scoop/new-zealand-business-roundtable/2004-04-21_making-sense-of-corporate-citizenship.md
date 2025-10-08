@@ -1,9 +1,12 @@
 ---
 slug: making-sense-of-corporate-citizenship
-title: "Making Sense of Corporate Citizenship"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/BU0404/S00208/making-sense-of-corporate-citizenship.htm
+title: Making Sense of Corporate Citizenship
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0404/S00208/making-sense-of-corporate-citizenship.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/04/21/making-sense-of-corporate-citizenship/index.html
+layout: layout.njk
 ---
 Making Sense of Corporate Citizenship
 =====================================

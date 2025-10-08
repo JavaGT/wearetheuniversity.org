@@ -1,9 +1,13 @@
 ---
 slug: more-evidence-of-skills-shortage-in-labours-cabinet
-title: "More Evidence Of Skills Shortage In Labour's Cabinet"
-date: 2020-10-23
-source-url: https://www.scoop.co.nz/stories/PA2010/S00109/more-evidence-of-skills-shortage-in-labours-cabinet.htm
+title: More Evidence Of Skills Shortage In Labour's Cabinet
+date: 2020-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00109/more-evidence-of-skills-shortage-in-labours-cabinet.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/10/23/more-evidence-of-skills-shortage-in-labours-cabinet/index.html
+layout: layout.njk
 ---
 More Evidence Of Skills Shortage In Labour's Cabinet
 ====================================================

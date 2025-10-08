@@ -1,9 +1,13 @@
 ---
 slug: understanding-local-government-challenges-in-new-zealand
-title: "Understanding local government challenges in New Zealand"
-date: 2016-10-12
-source-url: https://www.scoop.co.nz/stories/PO1610/S00183/understanding-local-government-challenges-in-new-zealand.htm
+title: Understanding local government challenges in New Zealand
+date: 2016-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00183/understanding-local-government-challenges-in-new-zealand.htm
 author: massey-university
+permalink: >-
+  /archive/2016/10/12/understanding-local-government-challenges-in-new-zealand/index.html
+layout: layout.njk
 ---
 Understanding local government challenges in New Zealand
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: lets-have-more-of-it-say-university-staff
-title: "Let's have more of it say university staff"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/ED0108/S00049/lets-have-more-of-it-say-university-staff.htm
+title: Let's have more of it say university staff
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00049/lets-have-more-of-it-say-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/16/lets-have-more-of-it-say-university-staff/index.html
+layout: layout.njk
 ---
 Let's have more of it say university staff
 ==========================================

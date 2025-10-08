@@ -1,9 +1,12 @@
 ---
 slug: high-building-costs-message-slow-to-get-through
-title: "High Building Costs Message Slow to Get through"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/PA1311/S00113/high-building-costs-message-slow-to-get-through.htm
+title: High Building Costs Message Slow to Get through
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00113/high-building-costs-message-slow-to-get-through.htm
 author: new-zealand-first-party
+permalink: /archive/2013/11/07/high-building-costs-message-slow-to-get-through/index.html
+layout: layout.njk
 ---
 High Building Costs Message Slow to Get through
 ===============================================

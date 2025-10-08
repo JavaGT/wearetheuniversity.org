@@ -1,9 +1,12 @@
 ---
 slug: literacy-and-numeracy-are-still-declining
-title: "Literacy And Numeracy Are Still Declining"
-date: 2022-05-06
-source-url: https://www.scoop.co.nz/stories/PA2205/S00053/literacy-and-numeracy-are-still-declining.htm
+title: Literacy And Numeracy Are Still Declining
+date: 2022-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00053/literacy-and-numeracy-are-still-declining.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/06/literacy-and-numeracy-are-still-declining/index.html
+layout: layout.njk
 ---
 Literacy And Numeracy Are Still Declining
 =========================================

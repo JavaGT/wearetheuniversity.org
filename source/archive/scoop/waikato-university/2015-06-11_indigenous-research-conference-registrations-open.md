@@ -1,9 +1,13 @@
 ---
 slug: indigenous-research-conference-registrations-open
-title: "Indigenous research conference registrations open"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/ED1506/S00057/indigenous-research-conference-registrations-open.htm
+title: Indigenous research conference registrations open
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00057/indigenous-research-conference-registrations-open.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/06/11/indigenous-research-conference-registrations-open/index.html
+layout: layout.njk
 ---
 Indigenous research conference registrations open
 =================================================

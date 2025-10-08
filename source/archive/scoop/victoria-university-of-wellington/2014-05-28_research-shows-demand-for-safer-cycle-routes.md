@@ -1,9 +1,12 @@
 ---
 slug: research-shows-demand-for-safer-cycle-routes
-title: "Research shows demand for safer cycle routes"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/CU1405/S00420/research-shows-demand-for-safer-cycle-routes.htm
+title: Research shows demand for safer cycle routes
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00420/research-shows-demand-for-safer-cycle-routes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/28/research-shows-demand-for-safer-cycle-routes/index.html
+layout: layout.njk
 ---
 Research shows demand for safer cycle routes
 ============================================

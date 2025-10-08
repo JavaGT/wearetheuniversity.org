@@ -1,9 +1,12 @@
 ---
 slug: fulbright-scholar-tackles-nitrogen-run-off
-title: "Fulbright scholar tackles nitrogen run-off"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/SC1302/S00057/fulbright-scholar-tackles-nitrogen-run-off.htm
+title: Fulbright scholar tackles nitrogen run-off
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00057/fulbright-scholar-tackles-nitrogen-run-off.htm
 author: university-of-waikato
+permalink: /archive/2013/02/27/fulbright-scholar-tackles-nitrogen-run-off/index.html
+layout: layout.njk
 ---
 Fulbright scholar tackles nitrogen run-off
 ==========================================

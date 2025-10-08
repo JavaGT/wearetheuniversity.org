@@ -1,9 +1,12 @@
 ---
 slug: pay-settlements-to-kick-off-school-year
-title: "Pay Settlements To Kick Off School Year"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/ED0802/S00005/pay-settlements-to-kick-off-school-year.htm
+title: Pay Settlements To Kick Off School Year
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00005/pay-settlements-to-kick-off-school-year.htm
 author: nzei
+permalink: /archive/2008/02/04/pay-settlements-to-kick-off-school-year/index.html
+layout: layout.njk
 ---
 Pay Settlements To Kick Off School Year
 =======================================

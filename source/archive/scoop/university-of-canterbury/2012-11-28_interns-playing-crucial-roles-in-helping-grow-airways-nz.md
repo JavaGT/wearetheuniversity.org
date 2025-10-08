@@ -1,9 +1,13 @@
 ---
 slug: interns-playing-crucial-roles-in-helping-grow-airways-nz
-title: "Interns playing crucial roles in helping grow Airways NZ"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/ED1211/S00200/interns-playing-crucial-roles-in-helping-grow-airways-nz.htm
+title: Interns playing crucial roles in helping grow Airways NZ
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00200/interns-playing-crucial-roles-in-helping-grow-airways-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/28/interns-playing-crucial-roles-in-helping-grow-airways-nz/index.html
+layout: layout.njk
 ---
 Interns playing crucial roles in helping grow Airways NZ
 ========================================================

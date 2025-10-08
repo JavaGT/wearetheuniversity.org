@@ -1,9 +1,13 @@
 ---
 slug: under-payment-for-some-and-low-pay-issues-rife-in-ece
-title: "Under-payment for some, and low pay issues rife in ECE"
-date: 2018-10-01
-source-url: https://www.scoop.co.nz/stories/PO1810/S00007/under-payment-for-some-and-low-pay-issues-rife-in-ece.htm
+title: Under-payment for some, and low pay issues rife in ECE
+date: 2018-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00007/under-payment-for-some-and-low-pay-issues-rife-in-ece.htm
 author: nzei
+permalink: >-
+  /archive/2018/10/01/under-payment-for-some-and-low-pay-issues-rife-in-ece/index.html
+layout: layout.njk
 ---
 Under-payment for some, and low pay issues rife in ECE
 ======================================================

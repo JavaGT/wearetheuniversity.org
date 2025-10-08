@@ -1,9 +1,13 @@
 ---
 slug: celebrating-women-philosophers-on-world-philosophy-day
-title: "Celebrating Women Philosophers on World Philosophy Day"
-date: 2017-11-16
-source-url: https://www.scoop.co.nz/stories/ED1711/S00061/celebrating-women-philosophers-on-world-philosophy-day.htm
+title: Celebrating Women Philosophers on World Philosophy Day
+date: 2017-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00061/celebrating-women-philosophers-on-world-philosophy-day.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/16/celebrating-women-philosophers-on-world-philosophy-day/index.html
+layout: layout.njk
 ---
 Celebrating Women Philosophers on World Philosophy Day
 ======================================================

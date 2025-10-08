@@ -1,9 +1,16 @@
 ---
-slug: research-to-address-inequities-in-maternal-health-services-for-māori-receives-nsc-funding
-title: "Research To Address Inequities In Maternal Health Services For Māori Receives NSC Funding"
-date: 2020-05-20
-source-url: https://www.scoop.co.nz/stories/ED2005/S00052/research-to-address-inequities-in-maternal-health-services-for-maori-receives-nsc-funding.htm
+slug: >-
+  research-to-address-inequities-in-maternal-health-services-for-māori-receives-nsc-funding
+title: >-
+  Research To Address Inequities In Maternal Health Services For Māori Receives
+  NSC Funding
+date: 2020-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00052/research-to-address-inequities-in-maternal-health-services-for-maori-receives-nsc-funding.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/20/research-to-address-inequities-in-maternal-health-services-for-m/index.html
+layout: layout.njk
 ---
 Research To Address Inequities In Maternal Health Services For Māori Receives NSC Funding
 =========================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: internal-external-collaboration-=-success
-title: "Internal, external collaboration = success"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/ED0807/S00072/internal-external-collaboration-success.htm
+title: Internal, external collaboration = success
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00072/internal-external-collaboration-success.htm
 author: university-of-auckland-business-school
+permalink: /archive/2008/07/23/internal-external-collaboration-/index.html
+layout: layout.njk
 ---
 Internal, external collaboration = success
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: marine-scientists-gather-at-university-of-waikato
-title: "Marine scientists gather at University of Waikato"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/SC1307/S00074/marine-scientists-gather-at-university-of-waikato.htm
+title: Marine scientists gather at University of Waikato
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00074/marine-scientists-gather-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/07/29/marine-scientists-gather-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 Marine scientists gather at University of Waikato
 =================================================

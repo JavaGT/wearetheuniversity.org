@@ -1,9 +1,13 @@
 ---
 slug: greens-to-march-in-hikoi-on-maori-representation
-title: "Greens to march in Hikoi on Maori representation"
-date: 2009-05-24
-source-url: https://www.scoop.co.nz/stories/PO0905/S00318/greens-to-march-in-hikoi-on-maori-representation.htm
+title: Greens to march in Hikoi on Maori representation
+date: 2009-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00318/greens-to-march-in-hikoi-on-maori-representation.htm
 author: green-party
+permalink: >-
+  /archive/2009/05/24/greens-to-march-in-hikoi-on-maori-representation/index.html
+layout: layout.njk
 ---
 Greens to march in Hikoi on Maori representation
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: patents-provide-insight-on-wall-street-technology-arms-race
-title: "Patents provide insight on Wall Street technology arms race"
-date: 2015-01-26
-source-url: https://www.scoop.co.nz/stories/ED1501/S00073/patents-provide-insight-on-wall-street-technology-arms-race.htm
+title: Patents provide insight on Wall Street technology arms race
+date: 2015-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00073/patents-provide-insight-on-wall-street-technology-arms-race.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/26/patents-provide-insight-on-wall-street-technology-arms-race/index.html
+layout: layout.njk
 ---
 Patents provide insight on Wall Street technology arms race
 ===========================================================

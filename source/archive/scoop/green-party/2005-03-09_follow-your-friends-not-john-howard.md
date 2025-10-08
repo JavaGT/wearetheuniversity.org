@@ -1,9 +1,12 @@
 ---
 slug: follow-your-friends-not-john-howard
-title: "Follow your friends, not John Howard"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/PA0503/S00185/follow-your-friends-not-john-howard.htm
+title: Follow your friends, not John Howard
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00185/follow-your-friends-not-john-howard.htm
 author: green-party
+permalink: /archive/2005/03/09/follow-your-friends-not-john-howard/index.html
+layout: layout.njk
 ---
 Follow your friends, not John Howard
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: another-ncea-exam-is-tweaked
-title: "Another NCEA exam is ‘tweaked’"
-date: 2005-12-05
+title: Another NCEA exam is ‘tweaked’
+date: 2005-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00044/another-ncea-exam-is-tweaked.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/05/another-ncea-exam-is-tweaked/index.html
+layout: layout.njk
 ---
 Another NCEA exam is ‘tweaked’
 ==============================

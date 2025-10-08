@@ -1,9 +1,12 @@
 ---
 slug: greens-issue-two-tier-welfare-policy
-title: "Greens issue two-tier welfare policy"
-date: 1999-10-10
-source-url: https://www.scoop.co.nz/stories/PO9910/S00040/greens-issue-two-tier-welfare-policy.htm
+title: Greens issue two-tier welfare policy
+date: 1999-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00040/greens-issue-two-tier-welfare-policy.htm
 author: green-party
+permalink: /archive/1999/10/10/greens-issue-two-tier-welfare-policy/index.html
+layout: layout.njk
 ---
 Greens issue two-tier welfare policy
 ====================================

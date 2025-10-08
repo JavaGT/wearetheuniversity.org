@@ -1,9 +1,13 @@
 ---
 slug: global-index-proposed-to-avoid-delays-on-climate-policies
-title: "Global index proposed to avoid delays on climate policies"
-date: 2015-08-04
-source-url: https://www.scoop.co.nz/stories/SC1508/S00009/global-index-proposed-to-avoid-delays-on-climate-policies.htm
+title: Global index proposed to avoid delays on climate policies
+date: 2015-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00009/global-index-proposed-to-avoid-delays-on-climate-policies.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/08/04/global-index-proposed-to-avoid-delays-on-climate-policies/index.html
+layout: layout.njk
 ---
 Global index proposed to avoid delays on climate policies
 =========================================================

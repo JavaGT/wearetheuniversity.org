@@ -1,9 +1,12 @@
 ---
 slug: bill-english-national-education-19-july-2006
-title: "Bill English National Education - 19 July 2006"
-date: 2006-07-21
-source-url: https://www.scoop.co.nz/stories/PA0607/S00346/bill-english-national-education-19-july-2006.htm
+title: Bill English National Education - 19 July 2006
+date: 2006-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00346/bill-english-national-education-19-july-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/21/bill-english-national-education-19-july-2006/index.html
+layout: layout.njk
 ---
 Bill English National Education - 19 July 2006
 ==============================================

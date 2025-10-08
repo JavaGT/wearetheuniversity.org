@@ -1,9 +1,12 @@
 ---
 slug: petition-launched-to-stop-labours-car-tax
-title: "Petition launched to stop Labour’s car tax"
-date: 2019-08-04
-source-url: https://www.scoop.co.nz/stories/PA1908/S00040/petition-launched-to-stop-labours-car-tax.htm
+title: Petition launched to stop Labour’s car tax
+date: 2019-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00040/petition-launched-to-stop-labours-car-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/04/petition-launched-to-stop-labours-car-tax/index.html
+layout: layout.njk
 ---
 Petition launched to stop Labour’s car tax
 ==========================================

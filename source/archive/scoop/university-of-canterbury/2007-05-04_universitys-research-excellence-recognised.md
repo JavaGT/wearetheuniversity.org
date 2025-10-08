@@ -1,9 +1,12 @@
 ---
 slug: universitys-research-excellence-recognised
-title: "University's research excellence recognised"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/ED0705/S00017/universitys-research-excellence-recognised.htm
+title: University's research excellence recognised
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00017/universitys-research-excellence-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2007/05/04/universitys-research-excellence-recognised/index.html
+layout: layout.njk
 ---
 University's research excellence recognised
 ===========================================

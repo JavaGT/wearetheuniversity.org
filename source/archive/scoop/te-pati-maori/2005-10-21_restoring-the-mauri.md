@@ -1,9 +1,11 @@
 ---
 slug: restoring-the-mauri
-title: "Restoring the Mauri"
-date: 2005-10-21
+title: Restoring the Mauri
+date: 2005-10-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0510/S00134/restoring-the-mauri.htm
 author: te-pati-maori
+permalink: /archive/2005/10/21/restoring-the-mauri/index.html
+layout: layout.njk
 ---
 Restoring the Mauri
 ===================

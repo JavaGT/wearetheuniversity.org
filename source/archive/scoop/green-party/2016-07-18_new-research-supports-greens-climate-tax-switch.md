@@ -1,9 +1,12 @@
 ---
 slug: new-research-supports-greens-climate-tax-switch
-title: "New research supports Greens’ climate tax switch"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/PA1607/S00263/new-research-supports-greens-climate-tax-switch.htm
+title: New research supports Greens’ climate tax switch
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00263/new-research-supports-greens-climate-tax-switch.htm
 author: green-party
+permalink: /archive/2016/07/18/new-research-supports-greens-climate-tax-switch/index.html
+layout: layout.njk
 ---
 New research supports Greens’ climate tax switch
 ================================================

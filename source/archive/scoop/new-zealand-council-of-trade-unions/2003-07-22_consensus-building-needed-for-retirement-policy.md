@@ -1,9 +1,12 @@
 ---
 slug: consensus-building-needed-for-retirement-policy
-title: "Consensus-Building Needed for Retirement Policy"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/PO0307/S00114/consensus-building-needed-for-retirement-policy.htm
+title: Consensus-Building Needed for Retirement Policy
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00114/consensus-building-needed-for-retirement-policy.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/07/22/consensus-building-needed-for-retirement-policy/index.html
+layout: layout.njk
 ---
 Consensus-Building Needed for Retirement Policy
 ===============================================

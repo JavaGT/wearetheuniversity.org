@@ -1,9 +1,12 @@
 ---
 slug: more-angst-and-anguish-for-red-zone-locals
-title: "More angst and anguish for red zone locals"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/PA1504/S00288/more-angst-and-anguish-for-red-zone-locals.htm
+title: More angst and anguish for red zone locals
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00288/more-angst-and-anguish-for-red-zone-locals.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/22/more-angst-and-anguish-for-red-zone-locals/index.html
+layout: layout.njk
 ---
 More angst and anguish for red zone locals
 ==========================================

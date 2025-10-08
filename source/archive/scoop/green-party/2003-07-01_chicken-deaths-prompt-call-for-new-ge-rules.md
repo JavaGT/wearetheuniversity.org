@@ -1,9 +1,12 @@
 ---
 slug: chicken-deaths-prompt-call-for-new-ge-rules
-title: "Chicken deaths prompt call for new GE rules"
-date: 2003-07-01
-source-url: https://www.scoop.co.nz/stories/PA0307/S00003/chicken-deaths-prompt-call-for-new-ge-rules.htm
+title: Chicken deaths prompt call for new GE rules
+date: 2003-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00003/chicken-deaths-prompt-call-for-new-ge-rules.htm
 author: green-party
+permalink: /archive/2003/07/01/chicken-deaths-prompt-call-for-new-ge-rules/index.html
+layout: layout.njk
 ---
 Chicken deaths prompt call for new GE rules
 ===========================================

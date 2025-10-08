@@ -1,9 +1,12 @@
 ---
 slug: pm-expects-big-influx-of-migrant-workers
-title: "PM Expects Big Influx of Migrant Workers"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/PA1702/S00178/pm-expects-big-influx-of-migrant-workers.htm
+title: PM Expects Big Influx of Migrant Workers
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00178/pm-expects-big-influx-of-migrant-workers.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/14/pm-expects-big-influx-of-migrant-workers/index.html
+layout: layout.njk
 ---
 PM Expects Big Influx of Migrant Workers
 ========================================

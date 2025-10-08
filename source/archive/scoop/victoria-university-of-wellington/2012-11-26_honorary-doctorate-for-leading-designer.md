@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-leading-designer
-title: "Honorary Doctorate For Leading Designer"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/ED1211/S00189/honorary-doctorate-for-leading-designer.htm
+title: Honorary Doctorate For Leading Designer
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00189/honorary-doctorate-for-leading-designer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/11/26/honorary-doctorate-for-leading-designer/index.html
+layout: layout.njk
 ---
 Honorary Doctorate For Leading Designer
 =======================================

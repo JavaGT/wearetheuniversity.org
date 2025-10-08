@@ -1,9 +1,11 @@
 ---
 slug: 32-pages-of-labour-waffle
-title: "32 pages of Labour waffle"
-date: 2011-11-18
+title: 32 pages of Labour waffle
+date: 2011-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00383/32-pages-of-labour-waffle.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/18/32-pages-of-labour-waffle/index.html
+layout: layout.njk
 ---
 32 pages of Labour waffle
 =========================

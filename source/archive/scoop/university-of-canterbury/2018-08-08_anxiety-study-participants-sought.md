@@ -1,9 +1,12 @@
 ---
 slug: anxiety-study-participants-sought
-title: "Anxiety study participants sought"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/SC1808/S00015/anxiety-study-participants-sought.htm
+title: Anxiety study participants sought
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00015/anxiety-study-participants-sought.htm
 author: university-of-canterbury
+permalink: /archive/2018/08/08/anxiety-study-participants-sought/index.html
+layout: layout.njk
 ---
 Anxiety study participants sought
 =================================

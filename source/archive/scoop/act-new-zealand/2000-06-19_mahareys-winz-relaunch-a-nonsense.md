@@ -1,9 +1,12 @@
 ---
 slug: mahareys-winz-relaunch-a-nonsense
-title: "Maharey’s WINZ Relaunch A Nonsense"
-date: 2000-06-19
-source-url: https://www.scoop.co.nz/stories/PA0006/S00402/mahareys-winz-relaunch-a-nonsense.htm
+title: Maharey’s WINZ Relaunch A Nonsense
+date: 2000-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00402/mahareys-winz-relaunch-a-nonsense.htm
 author: act-new-zealand
+permalink: /archive/2000/06/19/mahareys-winz-relaunch-a-nonsense/index.html
+layout: layout.njk
 ---
 Maharey’s WINZ Relaunch A Nonsense
 ==================================

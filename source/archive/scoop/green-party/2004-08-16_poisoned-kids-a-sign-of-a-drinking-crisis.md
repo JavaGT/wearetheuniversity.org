@@ -1,9 +1,12 @@
 ---
 slug: poisoned-kids-a-sign-of-a-drinking-crisis
-title: "Poisoned kids a sign of a drinking crisis"
-date: 2004-08-16
-source-url: https://www.scoop.co.nz/stories/PA0408/S00279/poisoned-kids-a-sign-of-a-drinking-crisis.htm
+title: Poisoned kids a sign of a drinking crisis
+date: 2004-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00279/poisoned-kids-a-sign-of-a-drinking-crisis.htm
 author: green-party
+permalink: /archive/2004/08/16/poisoned-kids-a-sign-of-a-drinking-crisis/index.html
+layout: layout.njk
 ---
 Poisoned kids a sign of a drinking crisis
 =========================================

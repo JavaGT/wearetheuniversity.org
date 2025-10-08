@@ -1,9 +1,12 @@
 ---
 slug: speech-launch-of-whanau-ora-centres
-title: "Speech: Launch of Whanau Ora Centres"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/PA1011/S00405/speech-launch-of-whanau-ora-centres.htm
+title: 'Speech: Launch of Whanau Ora Centres'
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00405/speech-launch-of-whanau-ora-centres.htm
 author: te-pati-maori
+permalink: /archive/2010/11/19/speech-launch-of-whanau-ora-centres/index.html
+layout: layout.njk
 ---
 Speech: Launch of Whanau Ora Centres
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: will-student-opportunities-be-history
-title: "Will student opportunities be history?"
-date: 2010-10-18
-source-url: https://www.scoop.co.nz/stories/ED1010/S00062/will-student-opportunities-be-history.htm
+title: Will student opportunities be history?
+date: 2010-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00062/will-student-opportunities-be-history.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/10/18/will-student-opportunities-be-history/index.html
+layout: layout.njk
 ---
 Will student opportunities be history?
 ======================================

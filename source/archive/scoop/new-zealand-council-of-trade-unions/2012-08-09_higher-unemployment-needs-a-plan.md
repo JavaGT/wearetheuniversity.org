@@ -1,9 +1,12 @@
 ---
 slug: higher-unemployment-needs-a-plan
-title: "Higher unemployment needs a plan"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PO1208/S00128/higher-unemployment-needs-a-plan.htm
+title: Higher unemployment needs a plan
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00128/higher-unemployment-needs-a-plan.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/08/09/higher-unemployment-needs-a-plan/index.html
+layout: layout.njk
 ---
 Higher unemployment needs a plan
 ================================

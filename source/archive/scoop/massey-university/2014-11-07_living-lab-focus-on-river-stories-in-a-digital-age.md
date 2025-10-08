@@ -1,9 +1,13 @@
 ---
 slug: living-lab-focus-on-river-stories-in-a-digital-age
-title: "Living Lab focus on river stories in a digital age"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00053/living-lab-focus-on-river-stories-in-a-digital-age.htm
+title: Living Lab focus on river stories in a digital age
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00053/living-lab-focus-on-river-stories-in-a-digital-age.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/07/living-lab-focus-on-river-stories-in-a-digital-age/index.html
+layout: layout.njk
 ---
 Living Lab focus on river stories in a digital age
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: steps-to-fix-teacher-shortage-are-welcome-but
-title: "Steps to fix teacher shortage are welcome but..."
-date: 2018-10-14
-source-url: https://www.scoop.co.nz/stories/PO1810/S00194/steps-to-fix-teacher-shortage-are-welcome-but.htm
+title: Steps to fix teacher shortage are welcome but...
+date: 2018-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00194/steps-to-fix-teacher-shortage-are-welcome-but.htm
 author: nzei
+permalink: /archive/2018/10/14/steps-to-fix-teacher-shortage-are-welcome-but/index.html
+layout: layout.njk
 ---
 Steps to fix teacher shortage are welcome but...
 ================================================

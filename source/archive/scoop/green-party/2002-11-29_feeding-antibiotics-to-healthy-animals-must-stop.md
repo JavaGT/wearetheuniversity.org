@@ -1,9 +1,13 @@
 ---
 slug: feeding-antibiotics-to-healthy-animals-must-stop
-title: "Feeding antibiotics to healthy animals must stop"
-date: 2002-11-29
-source-url: https://www.scoop.co.nz/stories/PA0211/S00675/feeding-antibiotics-to-healthy-animals-must-stop.htm
+title: Feeding antibiotics to healthy animals must stop
+date: 2002-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00675/feeding-antibiotics-to-healthy-animals-must-stop.htm
 author: green-party
+permalink: >-
+  /archive/2002/11/29/feeding-antibiotics-to-healthy-animals-must-stop/index.html
+layout: layout.njk
 ---
 Feeding antibiotics to healthy animals must stop
 ================================================

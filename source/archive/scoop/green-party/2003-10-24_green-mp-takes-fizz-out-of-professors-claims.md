@@ -1,9 +1,12 @@
 ---
 slug: green-mp-takes-fizz-out-of-professors-claims
-title: "Green MP takes fizz out of professor's claims"
-date: 2003-10-24
-source-url: https://www.scoop.co.nz/stories/PA0310/S00582/green-mp-takes-fizz-out-of-professors-claims.htm
+title: Green MP takes fizz out of professor's claims
+date: 2003-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00582/green-mp-takes-fizz-out-of-professors-claims.htm
 author: green-party
+permalink: /archive/2003/10/24/green-mp-takes-fizz-out-of-professors-claims/index.html
+layout: layout.njk
 ---
 Green MP takes fizz out of professor's claims
 =============================================

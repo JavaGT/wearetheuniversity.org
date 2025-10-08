@@ -1,9 +1,12 @@
 ---
 slug: healthcare-advocacy-recommended-for-māori-with-disabilities
-title: "Healthcare advocacy recommended for Māori with disabilities"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/GE1405/S00019/healthcare-advocacy-recommended-for-maori-with-disabilities.htm
+title: Healthcare advocacy recommended for Māori with disabilities
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00019/healthcare-advocacy-recommended-for-maori-with-disabilities.htm
 author: university-of-otago
+permalink: /archive/2014/05/05/healthcare-advocacy-recommended-for-m/index.html
+layout: layout.njk
 ---
 Healthcare advocacy recommended for Māori with disabilities
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-backs-call-for-living-wage-for-the-sake-of-childrens-e
-title: "NZEI backs call for living wage for the sake of children’s e"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/PA1208/S00469/nzei-backs-call-for-living-wage-for-the-sake-of-childrens-e.htm
+title: NZEI backs call for living wage for the sake of children’s e
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00469/nzei-backs-call-for-living-wage-for-the-sake-of-childrens-e.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/30/nzei-backs-call-for-living-wage-for-the-sake-of-childrens-e/index.html
+layout: layout.njk
 ---
 NZEI backs call for living wage for the sake of children’s e
 ============================================================

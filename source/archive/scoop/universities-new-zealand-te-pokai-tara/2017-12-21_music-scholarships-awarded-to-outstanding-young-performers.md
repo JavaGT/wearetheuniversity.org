@@ -1,9 +1,13 @@
 ---
 slug: music-scholarships-awarded-to-outstanding-young-performers
-title: "Music Scholarships Awarded to Outstanding Young Performers"
-date: 2017-12-21
-source-url: https://www.scoop.co.nz/stories/CU1712/S00307/music-scholarships-awarded-to-outstanding-young-performers.htm
+title: Music Scholarships Awarded to Outstanding Young Performers
+date: 2017-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00307/music-scholarships-awarded-to-outstanding-young-performers.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/12/21/music-scholarships-awarded-to-outstanding-young-performers/index.html
+layout: layout.njk
 ---
 Music Scholarships Awarded to Outstanding Young Performers
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: sue-wood-to-stand-for-national-list
-title: "Sue Wood To Stand For National List"
-date: 2002-05-02
-source-url: https://www.scoop.co.nz/stories/PO0205/S00025/sue-wood-to-stand-for-national-list.htm
+title: Sue Wood To Stand For National List
+date: 2002-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00025/sue-wood-to-stand-for-national-list.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/02/sue-wood-to-stand-for-national-list/index.html
+layout: layout.njk
 ---
 Sue Wood To Stand For National List
 ===================================
