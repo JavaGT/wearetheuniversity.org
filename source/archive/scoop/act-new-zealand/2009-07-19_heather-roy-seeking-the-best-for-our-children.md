@@ -1,9 +1,12 @@
 ---
 slug: heather-roy-seeking-the-best-for-our-children
-title: "Heather Roy: Seeking The Best For Our Children"
-date: 2009-07-19
-source-url: https://www.scoop.co.nz/stories/PA0907/S00204/heather-roy-seeking-the-best-for-our-children.htm
+title: 'Heather Roy: Seeking The Best For Our Children'
+date: 2009-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00204/heather-roy-seeking-the-best-for-our-children.htm
 author: act-new-zealand
+permalink: /archive/2009/07/19/heather-roy-seeking-the-best-for-our-children/index.html
+layout: layout.njk
 ---
 Heather Roy: Seeking The Best For Our Children
 ==============================================

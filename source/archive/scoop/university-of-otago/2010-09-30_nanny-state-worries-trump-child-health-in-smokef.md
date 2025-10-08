@@ -1,9 +1,13 @@
 ---
 slug: nanny-state-worries-trump-child-health-in-smokef
-title: "\"Nanny State\" worries trump child health in smokef"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/ED1009/S00142/nanny-state-worries-trump-child-health-in-smokef.htm
+title: '"Nanny State" worries trump child health in smokef'
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00142/nanny-state-worries-trump-child-health-in-smokef.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/09/30/nanny-state-worries-trump-child-health-in-smokef/index.html
+layout: layout.njk
 ---
 “Nanny State” worries trump child health in smokef
 ==================================================

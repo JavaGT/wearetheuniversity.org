@@ -1,9 +1,13 @@
 ---
 slug: nz-diversity-survey-benchmarking-workplace-diversity
-title: "NZ Diversity Survey - benchmarking workplace diversity"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/PO1410/S00333/nz-diversity-survey-benchmarking-workplace-diversity.htm
+title: NZ Diversity Survey - benchmarking workplace diversity
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00333/nz-diversity-survey-benchmarking-workplace-diversity.htm
 author: aut-university
+permalink: >-
+  /archive/2014/10/31/nz-diversity-survey-benchmarking-workplace-diversity/index.html
+layout: layout.njk
 ---
 NZ Diversity Survey - benchmarking workplace diversity
 ======================================================

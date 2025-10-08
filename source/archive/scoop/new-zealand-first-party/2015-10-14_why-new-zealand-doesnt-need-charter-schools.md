@@ -1,9 +1,12 @@
 ---
 slug: why-new-zealand-doesnt-need-charter-schools
-title: "Why New Zealand Doesn’t Need Charter Schools"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00211/why-new-zealand-doesnt-need-charter-schools.htm
+title: Why New Zealand Doesn’t Need Charter Schools
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00211/why-new-zealand-doesnt-need-charter-schools.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/14/why-new-zealand-doesnt-need-charter-schools/index.html
+layout: layout.njk
 ---
 Why New Zealand Doesn’t Need Charter Schools
 ============================================

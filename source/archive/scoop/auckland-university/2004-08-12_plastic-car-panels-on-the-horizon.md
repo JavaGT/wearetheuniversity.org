@@ -1,9 +1,12 @@
 ---
 slug: plastic-car-panels-on-the-horizon
-title: "Plastic car panels on the horizon"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/SC0408/S00037/plastic-car-panels-on-the-horizon.htm
+title: Plastic car panels on the horizon
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0408/S00037/plastic-car-panels-on-the-horizon.htm
 author: auckland-university
+permalink: /archive/2004/08/12/plastic-car-panels-on-the-horizon/index.html
+layout: layout.njk
 ---
 Plastic car panels on the horizon
 =================================

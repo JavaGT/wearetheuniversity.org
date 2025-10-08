@@ -1,9 +1,12 @@
 ---
 slug: tatua-dairy-company-shows-way-ahead-for-dairy
-title: "Tatua Dairy Company Shows Way Ahead For Dairy"
-date: 2000-04-18
-source-url: https://www.scoop.co.nz/stories/PA0004/S00240/tatua-dairy-company-shows-way-ahead-for-dairy.htm
+title: Tatua Dairy Company Shows Way Ahead For Dairy
+date: 2000-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00240/tatua-dairy-company-shows-way-ahead-for-dairy.htm
 author: act-new-zealand
+permalink: /archive/2000/04/18/tatua-dairy-company-shows-way-ahead-for-dairy/index.html
+layout: layout.njk
 ---
 Tatua Dairy Company Shows Way Ahead For Dairy
 =============================================

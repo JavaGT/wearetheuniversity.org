@@ -1,9 +1,12 @@
 ---
 slug: lectures-sustainable-development-time-to-act
-title: "Lectures: Sustainable Development – Time to Act"
-date: 2007-02-25
-source-url: https://www.scoop.co.nz/stories/ED0702/S00091/lectures-sustainable-development-time-to-act.htm
+title: 'Lectures: Sustainable Development – Time to Act'
+date: 2007-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00091/lectures-sustainable-development-time-to-act.htm
 author: auckland-university
+permalink: /archive/2007/02/25/lectures-sustainable-development-time-to-act/index.html
+layout: layout.njk
 ---
 Lectures: Sustainable Development – Time to Act
 ===============================================

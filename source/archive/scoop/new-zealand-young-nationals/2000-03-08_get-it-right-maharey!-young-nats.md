@@ -1,9 +1,12 @@
 ---
 slug: get-it-right-maharey!-young-nats
-title: "'Get It Right Maharey!' - Young Nats"
-date: 2000-03-08
-source-url: https://www.scoop.co.nz/stories/PO0003/S00038/get-it-right-maharey-young-nats.htm
+title: '''Get It Right Maharey!'' - Young Nats'
+date: 2000-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00038/get-it-right-maharey-young-nats.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/03/08/get-it-right-maharey/index.html
+layout: layout.njk
 ---
 'Get It Right Maharey!' - Young Nats
 ====================================

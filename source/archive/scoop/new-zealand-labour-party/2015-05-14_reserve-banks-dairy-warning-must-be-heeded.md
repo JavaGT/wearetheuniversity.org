@@ -1,9 +1,12 @@
 ---
 slug: reserve-banks-dairy-warning-must-be-heeded
-title: "Reserve Bank’s dairy warning must be heeded"
-date: 2015-05-14
-source-url: https://www.scoop.co.nz/stories/PA1505/S00217/reserve-banks-dairy-warning-must-be-heeded.htm
+title: Reserve Bank’s dairy warning must be heeded
+date: 2015-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00217/reserve-banks-dairy-warning-must-be-heeded.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/14/reserve-banks-dairy-warning-must-be-heeded/index.html
+layout: layout.njk
 ---
 Reserve Bank’s dairy warning must be heeded
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-projects-aim-to-inspire-youth
-title: "UC projects aim to inspire youth"
-date: 2017-12-13
-source-url: https://www.scoop.co.nz/stories/ED1712/S00051/uc-projects-aim-to-inspire-youth.htm
+title: UC projects aim to inspire youth
+date: 2017-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00051/uc-projects-aim-to-inspire-youth.htm
 author: university-of-canterbury
+permalink: /archive/2017/12/13/uc-projects-aim-to-inspire-youth/index.html
+layout: layout.njk
 ---
 UC projects aim to inspire youth
 ================================

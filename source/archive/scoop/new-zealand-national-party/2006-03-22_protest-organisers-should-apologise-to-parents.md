@@ -1,9 +1,12 @@
 ---
 slug: protest-organisers-should-apologise-to-parents
-title: "Protest organisers should apologise to parents"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/PA0603/S00363/protest-organisers-should-apologise-to-parents.htm
+title: Protest organisers should apologise to parents
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00363/protest-organisers-should-apologise-to-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/22/protest-organisers-should-apologise-to-parents/index.html
+layout: layout.njk
 ---
 Protest organisers should apologise to parents
 ==============================================

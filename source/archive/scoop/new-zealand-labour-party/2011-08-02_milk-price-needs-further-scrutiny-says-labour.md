@@ -1,9 +1,12 @@
 ---
 slug: milk-price-needs-further-scrutiny-says-labour
-title: "Milk price needs further scrutiny says Labour"
-date: 2011-08-02
-source-url: https://www.scoop.co.nz/stories/PA1108/S00023/milk-price-needs-further-scrutiny-says-labour.htm
+title: Milk price needs further scrutiny says Labour
+date: 2011-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00023/milk-price-needs-further-scrutiny-says-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/02/milk-price-needs-further-scrutiny-says-labour/index.html
+layout: layout.njk
 ---
 Milk price needs further scrutiny says Labour
 =============================================

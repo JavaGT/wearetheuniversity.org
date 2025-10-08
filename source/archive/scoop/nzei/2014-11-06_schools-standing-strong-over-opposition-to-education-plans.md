@@ -1,9 +1,13 @@
 ---
 slug: schools-standing-strong-over-opposition-to-education-plans
-title: "Schools standing strong over opposition to education plans"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/PO1411/S00061/schools-standing-strong-over-opposition-to-education-plans.htm
+title: Schools standing strong over opposition to education plans
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00061/schools-standing-strong-over-opposition-to-education-plans.htm
 author: nzei
+permalink: >-
+  /archive/2014/11/06/schools-standing-strong-over-opposition-to-education-plans/index.html
+layout: layout.njk
 ---
 Schools standing strong over opposition to education plans
 ==========================================================

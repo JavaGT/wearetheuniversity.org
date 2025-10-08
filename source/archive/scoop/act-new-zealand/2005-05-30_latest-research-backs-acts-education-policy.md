@@ -1,9 +1,12 @@
 ---
 slug: latest-research-backs-acts-education-policy
-title: "Latest research backs ACT's education policy"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00728/latest-research-backs-acts-education-policy.htm
+title: Latest research backs ACT's education policy
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00728/latest-research-backs-acts-education-policy.htm
 author: act-new-zealand
+permalink: /archive/2005/05/30/latest-research-backs-acts-education-policy/index.html
+layout: layout.njk
 ---
 Latest research backs ACT's education policy
 ============================================

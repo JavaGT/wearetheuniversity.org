@@ -1,9 +1,12 @@
 ---
 slug: act-mp-wins-tighter-controls-for-legal-aid
-title: "ACT MP Wins Tighter Controls For Legal Aid"
-date: 1999-08-01
-source-url: https://www.scoop.co.nz/stories/PA9908/S00001/act-mp-wins-tighter-controls-for-legal-aid.htm
+title: ACT MP Wins Tighter Controls For Legal Aid
+date: 1999-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00001/act-mp-wins-tighter-controls-for-legal-aid.htm
 author: act-new-zealand
+permalink: /archive/1999/08/01/act-mp-wins-tighter-controls-for-legal-aid/index.html
+layout: layout.njk
 ---
 ACT MP Wins Tighter Controls For Legal Aid
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-professor-appointed-to-marsden-fund-council
-title: "Vic Professor Appointed To Marsden Fund Council"
-date: 2003-07-10
-source-url: https://www.scoop.co.nz/stories/ED0307/S00027/vic-professor-appointed-to-marsden-fund-council.htm
+title: Vic Professor Appointed To Marsden Fund Council
+date: 2003-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00027/vic-professor-appointed-to-marsden-fund-council.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/10/vic-professor-appointed-to-marsden-fund-council/index.html
+layout: layout.njk
 ---
 Vic Professor Appointed To Marsden Fund Council
 ===============================================

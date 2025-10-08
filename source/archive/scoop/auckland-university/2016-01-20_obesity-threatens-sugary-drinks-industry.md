@@ -1,9 +1,12 @@
 ---
 slug: obesity-threatens-sugary-drinks-industry
-title: "Obesity threatens sugary drinks industry"
-date: 2016-01-20
-source-url: https://www.scoop.co.nz/stories/GE1601/S00034/obesity-threatens-sugary-drinks-industry.htm
+title: Obesity threatens sugary drinks industry
+date: 2016-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1601/S00034/obesity-threatens-sugary-drinks-industry.htm
 author: auckland-university
+permalink: /archive/2016/01/20/obesity-threatens-sugary-drinks-industry/index.html
+layout: layout.njk
 ---
 Obesity threatens sugary drinks industry
 ========================================

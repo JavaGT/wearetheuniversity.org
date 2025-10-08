@@ -1,9 +1,13 @@
 ---
 slug: healthy-food-and-quality-early-childhood-education-vital
-title: "Healthy food and quality early childhood education vital"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00075/healthy-food-and-quality-early-childhood-education-vital.htm
+title: Healthy food and quality early childhood education vital
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00075/healthy-food-and-quality-early-childhood-education-vital.htm
 author: nzei
+permalink: >-
+  /archive/2012/12/11/healthy-food-and-quality-early-childhood-education-vital/index.html
+layout: layout.njk
 ---
 Healthy food and quality early childhood education vital
 ========================================================

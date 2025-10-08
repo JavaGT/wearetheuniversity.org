@@ -1,9 +1,12 @@
 ---
 slug: welfare-numbers-up-as-anti-growth-policies-bite
-title: "Welfare numbers up as anti-growth policies bite"
-date: 2019-04-18
-source-url: https://www.scoop.co.nz/stories/PA1904/S00178/welfare-numbers-up-as-anti-growth-policies-bite.htm
+title: Welfare numbers up as anti-growth policies bite
+date: 2019-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00178/welfare-numbers-up-as-anti-growth-policies-bite.htm
 author: act-new-zealand
+permalink: /archive/2019/04/18/welfare-numbers-up-as-anti-growth-policies-bite/index.html
+layout: layout.njk
 ---
 Welfare numbers up as anti-growth policies bite
 ===============================================

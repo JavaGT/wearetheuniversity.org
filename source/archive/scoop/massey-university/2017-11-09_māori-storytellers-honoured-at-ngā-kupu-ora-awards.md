@@ -1,9 +1,12 @@
 ---
 slug: māori-storytellers-honoured-at-ngā-kupu-ora-awards
-title: "Māori Storytellers Honoured at Ngā Kupu Ora Awards"
-date: 2017-11-09
-source-url: https://www.scoop.co.nz/stories/CU1711/S00170/maori-storytellers-honoured-at-nga-kupu-ora-awards.htm
+title: Māori Storytellers Honoured at Ngā Kupu Ora Awards
+date: 2017-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1711/S00170/maori-storytellers-honoured-at-nga-kupu-ora-awards.htm
 author: massey-university
+permalink: /archive/2017/11/09/m/index.html
+layout: layout.njk
 ---
 Māori Storytellers Honoured at Ngā Kupu Ora Awards
 ==================================================

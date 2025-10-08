@@ -1,9 +1,12 @@
 ---
 slug: three-brothers-will-boost-lambing-output
-title: "'Three brothers' will boost lambing output"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/ED0809/S00066/three-brothers-will-boost-lambing-output.htm
+title: '''Three brothers'' will boost lambing output'
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00066/three-brothers-will-boost-lambing-output.htm
 author: massey-university
+permalink: /archive/2008/09/22/three-brothers-will-boost-lambing-output/index.html
+layout: layout.njk
 ---
 'Three brothers' will boost lambing output
 ==========================================

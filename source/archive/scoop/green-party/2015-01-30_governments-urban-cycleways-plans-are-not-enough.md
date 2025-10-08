@@ -1,9 +1,13 @@
 ---
 slug: governments-urban-cycleways-plans-are-not-enough
-title: "Government’s urban cycleways plans are not enough"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/PA1501/S00170/governments-urban-cycleways-plans-are-not-enough.htm
+title: Government’s urban cycleways plans are not enough
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00170/governments-urban-cycleways-plans-are-not-enough.htm
 author: green-party
+permalink: >-
+  /archive/2015/01/30/governments-urban-cycleways-plans-are-not-enough/index.html
+layout: layout.njk
 ---
 Government’s urban cycleways plans are not enough
 =================================================

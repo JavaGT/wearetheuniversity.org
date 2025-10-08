@@ -1,9 +1,13 @@
 ---
 slug: hutt-valley-encouraged-to-unlock-its-curious-mind
-title: "Hutt Valley encouraged to unlock its curious mind"
-date: 2016-01-15
-source-url: https://www.scoop.co.nz/stories/PA1601/S00037/hutt-valley-encouraged-to-unlock-its-curious-mind.htm
+title: Hutt Valley encouraged to unlock its curious mind
+date: 2016-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00037/hutt-valley-encouraged-to-unlock-its-curious-mind.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/01/15/hutt-valley-encouraged-to-unlock-its-curious-mind/index.html
+layout: layout.njk
 ---
 Hutt Valley encouraged to unlock its curious mind
 =================================================

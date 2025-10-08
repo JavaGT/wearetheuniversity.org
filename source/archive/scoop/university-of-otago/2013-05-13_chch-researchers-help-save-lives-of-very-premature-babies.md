@@ -1,9 +1,13 @@
 ---
 slug: chch-researchers-help-save-lives-of-very-premature-babies
-title: "Chch Researchers Help Save Lives of Very Premature Babies"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/GE1305/S00077/chch-researchers-help-save-lives-of-very-premature-babies.htm
+title: Chch Researchers Help Save Lives of Very Premature Babies
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00077/chch-researchers-help-save-lives-of-very-premature-babies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/13/chch-researchers-help-save-lives-of-very-premature-babies/index.html
+layout: layout.njk
 ---
 Chch Researchers Help Save Lives of Very Premature Babies
 =========================================================

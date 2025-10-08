@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-child-sexual-abuse
-title: "Speech: Sharples - Child Sexual Abuse"
-date: 2009-05-14
-source-url: https://www.scoop.co.nz/stories/PA0905/S00263/speech-sharples-child-sexual-abuse.htm
+title: 'Speech: Sharples - Child Sexual Abuse'
+date: 2009-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00263/speech-sharples-child-sexual-abuse.htm
 author: te-pati-maori
+permalink: /archive/2009/05/14/speech-sharples-child-sexual-abuse/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Child Sexual Abuse
 =====================================

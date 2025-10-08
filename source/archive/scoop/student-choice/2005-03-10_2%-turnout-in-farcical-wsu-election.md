@@ -1,9 +1,12 @@
 ---
 slug: 2%-turnout-in-farcical-wsu-election
-title: "2% Turnout In Farcical Wsu Election"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/ED0503/S00031/2-turnout-in-farcical-wsu-election.htm
+title: 2% Turnout In Farcical Wsu Election
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00031/2-turnout-in-farcical-wsu-election.htm
 author: student-choice
+permalink: /archive/2005/03/10/2/index.html
+layout: layout.njk
 ---
 2% Turnout In Farcical Wsu Election
 ===================================

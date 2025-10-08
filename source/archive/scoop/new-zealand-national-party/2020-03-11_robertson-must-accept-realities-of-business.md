@@ -1,9 +1,12 @@
 ---
 slug: robertson-must-accept-realities-of-business
-title: "Robertson Must Accept Realities Of Business"
-date: 2020-03-11
-source-url: https://www.scoop.co.nz/stories/PA2003/S00085/robertson-must-accept-realities-of-business.htm
+title: Robertson Must Accept Realities Of Business
+date: 2020-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00085/robertson-must-accept-realities-of-business.htm
 author: new-zealand-national-party
+permalink: /archive/2020/03/11/robertson-must-accept-realities-of-business/index.html
+layout: layout.njk
 ---
 Robertson Must Accept Realities Of Business
 ===========================================

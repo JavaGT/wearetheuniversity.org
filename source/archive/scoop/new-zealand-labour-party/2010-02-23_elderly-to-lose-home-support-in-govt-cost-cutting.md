@@ -1,9 +1,13 @@
 ---
 slug: elderly-to-lose-home-support-in-govt-cost-cutting
-title: "Elderly to lose home support in Govt cost-cutting"
-date: 2010-02-23
-source-url: https://www.scoop.co.nz/stories/PA1002/S00326/elderly-to-lose-home-support-in-govt-cost-cutting.htm
+title: Elderly to lose home support in Govt cost-cutting
+date: 2010-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00326/elderly-to-lose-home-support-in-govt-cost-cutting.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/23/elderly-to-lose-home-support-in-govt-cost-cutting/index.html
+layout: layout.njk
 ---
 Elderly to lose home support in Govt cost-cutting
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: research-helping-combat-drug-addiction
-title: "Research helping combat drug addiction"
-date: 2012-01-13
-source-url: https://www.scoop.co.nz/stories/SC1201/S00012/research-helping-combat-drug-addiction.htm
+title: Research helping combat drug addiction
+date: 2012-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1201/S00012/research-helping-combat-drug-addiction.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/13/research-helping-combat-drug-addiction/index.html
+layout: layout.njk
 ---
 Research helping combat drug addiction
 ======================================

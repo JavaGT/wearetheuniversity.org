@@ -1,9 +1,11 @@
 ---
 slug: catching-australia-by-2025
-title: "Catching Australia By 2025"
-date: 2009-12-07
+title: Catching Australia By 2025
+date: 2009-12-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0912/S00080/catching-australia-by-2025.htm
 author: act-new-zealand
+permalink: /archive/2009/12/07/catching-australia-by-2025/index.html
+layout: layout.njk
 ---
 Catching Australia By 2025
 ==========================

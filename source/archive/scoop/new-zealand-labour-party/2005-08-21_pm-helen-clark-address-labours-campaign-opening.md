@@ -1,9 +1,12 @@
 ---
 slug: pm-helen-clark-address-labours-campaign-opening
-title: "PM Helen Clark Address - Labour's Campaign Opening"
-date: 2005-08-21
-source-url: https://www.scoop.co.nz/stories/PA0508/S00524/pm-helen-clark-address-labours-campaign-opening.htm
+title: PM Helen Clark Address - Labour's Campaign Opening
+date: 2005-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00524/pm-helen-clark-address-labours-campaign-opening.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/21/pm-helen-clark-address-labours-campaign-opening/index.html
+layout: layout.njk
 ---
 PM Helen Clark Address - Labour's Campaign Opening
 ==================================================

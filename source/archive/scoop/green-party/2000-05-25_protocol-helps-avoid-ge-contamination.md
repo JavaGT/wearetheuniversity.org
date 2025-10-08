@@ -1,9 +1,12 @@
 ---
 slug: protocol-helps-avoid-ge-contamination
-title: "Protocol helps avoid GE contamination"
-date: 2000-05-25
-source-url: https://www.scoop.co.nz/stories/PA0005/S00544/protocol-helps-avoid-ge-contamination.htm
+title: Protocol helps avoid GE contamination
+date: 2000-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00544/protocol-helps-avoid-ge-contamination.htm
 author: green-party
+permalink: /archive/2000/05/25/protocol-helps-avoid-ge-contamination/index.html
+layout: layout.njk
 ---
 Protocol helps avoid GE contamination
 =====================================

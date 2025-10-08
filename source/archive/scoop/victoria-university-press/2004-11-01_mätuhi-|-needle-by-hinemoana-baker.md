@@ -1,9 +1,12 @@
 ---
 slug: mätuhi-|-needle-by-hinemoana-baker
-title: "mätuhi | needle by Hinemoana Baker"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/CU0411/S00009/matuhi-needle-by-hinemoana-baker.htm
+title: mätuhi | needle by Hinemoana Baker
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0411/S00009/matuhi-needle-by-hinemoana-baker.htm
 author: victoria-university-press
+permalink: /archive/2004/11/01/m/index.html
+layout: layout.njk
 ---
 mätuhi | needle by Hinemoana Baker
 ==================================

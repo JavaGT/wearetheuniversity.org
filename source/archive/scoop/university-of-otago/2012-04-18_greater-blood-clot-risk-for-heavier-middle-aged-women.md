@@ -1,9 +1,13 @@
 ---
 slug: greater-blood-clot-risk-for-heavier-middle-aged-women
-title: "Greater blood clot risk for heavier middle-aged women"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/GE1204/S00061/greater-blood-clot-risk-for-heavier-middle-aged-women.htm
+title: Greater blood clot risk for heavier middle-aged women
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00061/greater-blood-clot-risk-for-heavier-middle-aged-women.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/18/greater-blood-clot-risk-for-heavier-middle-aged-women/index.html
+layout: layout.njk
 ---
 Greater blood clot risk for heavier middle-aged women
 =====================================================

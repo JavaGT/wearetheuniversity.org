@@ -1,9 +1,13 @@
 ---
 slug: more-house-buying-gloom-for-auckland-with-record-migration
-title: "More House Buying Gloom for Auckland with Record Migration"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/AK1504/S00547/more-house-buying-gloom-for-auckland-with-record-migration.htm
+title: More House Buying Gloom for Auckland with Record Migration
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1504/S00547/more-house-buying-gloom-for-auckland-with-record-migration.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/04/23/more-house-buying-gloom-for-auckland-with-record-migration/index.html
+layout: layout.njk
 ---
 More House Buying Gloom for Auckland with Record Migration
 ==========================================================

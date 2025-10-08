@@ -1,9 +1,12 @@
 ---
 slug: seven-year-science-wait-wasnt-worth-it
-title: "Seven year science wait wasn’t worth it"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/PA1510/S00055/seven-year-science-wait-wasnt-worth-it.htm
+title: Seven year science wait wasn’t worth it
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00055/seven-year-science-wait-wasnt-worth-it.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/05/seven-year-science-wait-wasnt-worth-it/index.html
+layout: layout.njk
 ---
 Seven year science wait wasn’t worth it
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: good-progress-on-regulatory-responsibility
-title: "Good Progress on Regulatory Responsibility"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/BU0806/S00121/good-progress-on-regulatory-responsibility.htm
+title: Good Progress on Regulatory Responsibility
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00121/good-progress-on-regulatory-responsibility.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/06/06/good-progress-on-regulatory-responsibility/index.html
+layout: layout.njk
 ---
 Good Progress on Regulatory Responsibility
 ==========================================

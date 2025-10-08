@@ -1,9 +1,11 @@
 ---
 slug: bulk-funding-double-standard
-title: "Bulk Funding Double Standard"
-date: 2000-03-28
+title: Bulk Funding Double Standard
+date: 2000-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0003/S00475/bulk-funding-double-standard.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/28/bulk-funding-double-standard/index.html
+layout: layout.njk
 ---
 Bulk Funding Double Standard
 ============================

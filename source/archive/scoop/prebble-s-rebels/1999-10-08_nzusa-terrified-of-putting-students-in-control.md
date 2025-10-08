@@ -1,9 +1,12 @@
 ---
 slug: nzusa-terrified-of-putting-students-in-control
-title: "NZUSA Terrified Of Putting Students In Control"
-date: 1999-10-08
-source-url: https://www.scoop.co.nz/stories/ED9910/S00022/nzusa-terrified-of-putting-students-in-control.htm
+title: NZUSA Terrified Of Putting Students In Control
+date: 1999-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00022/nzusa-terrified-of-putting-students-in-control.htm
 author: prebble-s-rebels
+permalink: /archive/1999/10/08/nzusa-terrified-of-putting-students-in-control/index.html
+layout: layout.njk
 ---
 NZUSA Terrified Of Putting Students In Control
 ==============================================

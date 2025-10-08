@@ -1,9 +1,12 @@
 ---
 slug: massey-historians-ensure-anzacs-in-us-war-books
-title: "Massey historians ensure Anzacs in US war books"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/CU1411/S00394/massey-historians-ensure-anzacs-in-us-war-books.htm
+title: Massey historians ensure Anzacs in US war books
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00394/massey-historians-ensure-anzacs-in-us-war-books.htm
 author: massey-university
+permalink: /archive/2014/11/21/massey-historians-ensure-anzacs-in-us-war-books/index.html
+layout: layout.njk
 ---
 Massey historians ensure Anzacs in US war books
 ===============================================

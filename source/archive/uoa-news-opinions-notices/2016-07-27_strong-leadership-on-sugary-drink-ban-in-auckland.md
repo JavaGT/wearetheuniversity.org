@@ -1,8 +1,12 @@
 ---
 slug: strong-leadership-on-sugary-drink-ban-in-auckland
-title: "Strong leadership on sugary drink ban in Auckland"
-date: 2016-07-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/strong-leadership-on-sugary-drink-ban-in-auckland-.html
+title: Strong leadership on sugary drink ban in Auckland
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/strong-leadership-on-sugary-drink-ban-in-auckland-.html
+permalink: >-
+  /archive/2016/07/27/strong-leadership-on-sugary-drink-ban-in-auckland/index.html
+layout: layout.njk
 ---
 Strong leadership on sugary drink ban in Auckland
 =================================================

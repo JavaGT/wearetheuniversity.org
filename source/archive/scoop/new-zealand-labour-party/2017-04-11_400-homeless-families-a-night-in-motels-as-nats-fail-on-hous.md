@@ -1,9 +1,13 @@
 ---
 slug: 400-homeless-families-a-night-in-motels-as-nats-fail-on-hous
-title: "400 homeless families a night in motels as Nats fail on hous"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/PA1704/S00133/400-homeless-families-a-night-in-motels-as-nats-fail-on-hous.htm
+title: 400 homeless families a night in motels as Nats fail on hous
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00133/400-homeless-families-a-night-in-motels-as-nats-fail-on-hous.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/11/400-homeless-families-a-night-in-motels-as-nats-fail-on-hous/index.html
+layout: layout.njk
 ---
 400 homeless families a night in motels as Nats fail on hous
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: antarctic-research-strengthens-w-greater-awareness
-title: "Antarctic research strengthens w greater awareness"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/SC0712/S00036/antarctic-research-strengthens-w-greater-awareness.htm
+title: Antarctic research strengthens w greater awareness
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0712/S00036/antarctic-research-strengthens-w-greater-awareness.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/12/13/antarctic-research-strengthens-w-greater-awareness/index.html
+layout: layout.njk
 ---
 Antarctic research strengthens w greater awareness
 ==================================================

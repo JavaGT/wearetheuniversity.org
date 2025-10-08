@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-governments-wellbeing-announcement-for-educators
-title: "NZEI Te Riu Roa Welcomes Government's Wellbeing Announcement For Educators"
-date: 2020-09-30
-source-url: https://www.scoop.co.nz/stories/ED2009/S00065/nzei-te-riu-roa-welcomes-governments-wellbeing-announcement-for-educators.htm
+title: NZEI Te Riu Roa Welcomes Government's Wellbeing Announcement For Educators
+date: 2020-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00065/nzei-te-riu-roa-welcomes-governments-wellbeing-announcement-for-educators.htm
 author: nzei
+permalink: >-
+  /archive/2020/09/30/nzei-te-riu-roa-welcomes-governments-wellbeing-announcement-for-educators/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Welcomes Government's Wellbeing Announcement For Educators
 ==========================================================================

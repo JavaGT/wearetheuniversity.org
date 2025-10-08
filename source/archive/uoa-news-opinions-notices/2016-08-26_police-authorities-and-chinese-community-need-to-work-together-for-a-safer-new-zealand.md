@@ -1,8 +1,15 @@
 ---
-slug: police-authorities-and-chinese-community-need-to-work-together-for-a-safer-new-zealand
-title: "Police, authorities and Chinese community need to work together for a safer New Zealand"
-date: 2016-08-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/Chinese-feel-unsafe-in-NZ-survey.html
+slug: >-
+  police-authorities-and-chinese-community-need-to-work-together-for-a-safer-new-zealand
+title: >-
+  Police, authorities and Chinese community need to work together for a safer
+  New Zealand
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/Chinese-feel-unsafe-in-NZ-survey.html
+permalink: >-
+  /archive/2016/08/26/police-authorities-and-chinese-community-need-to-work-together-for-a-safer-new-zealand/index.html
+layout: layout.njk
 ---
 Police, authorities and Chinese community need to work together for a safer New Zealand
 =======================================================================================

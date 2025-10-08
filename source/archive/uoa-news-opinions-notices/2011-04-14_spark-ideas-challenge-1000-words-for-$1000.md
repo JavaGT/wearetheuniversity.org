@@ -1,8 +1,11 @@
 ---
 slug: spark-ideas-challenge-1000-words-for-$1000
-title: "Spark Ideas Challenge – 1,000 words for $1,000"
-date: 2011-04-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/04/14/Spark-Ideas-Challenge-1-000-words-for-1-000.html
+title: Spark Ideas Challenge – 1,000 words for $1,000
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/04/14/Spark-Ideas-Challenge-1-000-words-for-1-000.html
+permalink: /archive/2011/04/14/spark-ideas-challenge-1000-words-for-/index.html
+layout: layout.njk
 ---
 Spark Ideas Challenge – 1,000 words for $1,000
 ==============================================

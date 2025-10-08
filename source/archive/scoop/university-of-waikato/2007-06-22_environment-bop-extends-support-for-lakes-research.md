@@ -1,9 +1,13 @@
 ---
 slug: environment-bop-extends-support-for-lakes-research
-title: "Environment BoP extends support for lakes research"
-date: 2007-06-22
-source-url: https://www.scoop.co.nz/stories/SC0706/S00056/environment-bop-extends-support-for-lakes-research.htm
+title: Environment BoP extends support for lakes research
+date: 2007-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0706/S00056/environment-bop-extends-support-for-lakes-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/06/22/environment-bop-extends-support-for-lakes-research/index.html
+layout: layout.njk
 ---
 Environment BoP extends support for lakes research
 ==================================================

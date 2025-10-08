@@ -1,9 +1,12 @@
 ---
 slug: local-body-action-on-national-standards
-title: "Local Body Action on National Standards"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/ED1012/S00048/local-body-action-on-national-standards.htm
+title: Local Body Action on National Standards
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00048/local-body-action-on-national-standards.htm
 author: nzei
+permalink: /archive/2010/12/09/local-body-action-on-national-standards/index.html
+layout: layout.njk
 ---
 Local Body Action on National Standards
 =======================================

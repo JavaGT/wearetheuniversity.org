@@ -1,9 +1,12 @@
 ---
 slug: otago-a-sun-microsystems-centre-of-excellence
-title: "Otago A Sun Microsystems Centre of Excellence"
-date: 2008-07-24
-source-url: https://www.scoop.co.nz/stories/GE0807/S00128/otago-a-sun-microsystems-centre-of-excellence.htm
+title: Otago A Sun Microsystems Centre of Excellence
+date: 2008-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0807/S00128/otago-a-sun-microsystems-centre-of-excellence.htm
 author: university-of-otago
+permalink: /archive/2008/07/24/otago-a-sun-microsystems-centre-of-excellence/index.html
+layout: layout.njk
 ---
 Otago A Sun Microsystems Centre of Excellence
 =============================================

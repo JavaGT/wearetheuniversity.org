@@ -1,9 +1,13 @@
 ---
 slug: housing-crisis-will-lead-to-more-aucklanders-sleeping-rough
-title: "Housing crisis will lead to more Aucklanders sleeping rough"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/PA1605/S00149/housing-crisis-will-lead-to-more-aucklanders-sleeping-rough.htm
+title: Housing crisis will lead to more Aucklanders sleeping rough
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00149/housing-crisis-will-lead-to-more-aucklanders-sleeping-rough.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/09/housing-crisis-will-lead-to-more-aucklanders-sleeping-rough/index.html
+layout: layout.njk
 ---
 Housing crisis will lead to more Aucklanders sleeping rough
 ===========================================================

@@ -1,9 +1,12 @@
 ---
-slug: ousa-gutted-the-vsm-bill-is-being-debated
-title: "OUSA gutted the VSM Bill is being debated"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00054/ousa-gutted-the-vsm-bill-is-being-debated.htm
+slug: ousa-gutted-the-vsm-bill-is-being-debated-2
+title: OUSA gutted the VSM Bill is being debated
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00054/ousa-gutted-the-vsm-bill-is-being-debated.htm
 author: otago-university-students-association
+permalink: /archive/2011/08/04/ousa-gutted-the-vsm-bill-is-being-debated-2/index.html
+layout: layout.njk
 ---
 OUSA gutted the VSM Bill is being debated
 =========================================

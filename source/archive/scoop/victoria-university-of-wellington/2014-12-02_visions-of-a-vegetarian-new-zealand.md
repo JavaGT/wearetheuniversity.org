@@ -1,9 +1,12 @@
 ---
 slug: visions-of-a-vegetarian-new-zealand
-title: "Visions of a vegetarian New Zealand"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/CU1412/S00045/visions-of-a-vegetarian-new-zealand.htm
+title: Visions of a vegetarian New Zealand
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00045/visions-of-a-vegetarian-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/02/visions-of-a-vegetarian-new-zealand/index.html
+layout: layout.njk
 ---
 Visions of a vegetarian New Zealand
 ===================================

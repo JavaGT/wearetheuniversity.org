@@ -1,9 +1,11 @@
 ---
 slug: isnt-if-freezing-down-there
-title: "Isn’t If Freezing Down There?"
-date: 2001-08-17
+title: Isn’t If Freezing Down There?
+date: 2001-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00050/isnt-if-freezing-down-there.htm
 author: otago-university-students-association
+permalink: /archive/2001/08/17/isnt-if-freezing-down-there/index.html
+layout: layout.njk
 ---
 Isn’t If Freezing Down There?
 =============================

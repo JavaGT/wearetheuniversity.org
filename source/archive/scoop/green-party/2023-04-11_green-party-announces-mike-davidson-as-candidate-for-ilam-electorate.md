@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-mike-davidson-as-candidate-for-ilam-electorate
-title: "Green Party Announces Mike Davidson As Candidate For Ilam Electorate"
-date: 2023-04-11
-source-url: https://www.scoop.co.nz/stories/PA2304/S00048/green-party-announces-mike-davidson-as-candidate-for-ilam-electorate.htm
+title: Green Party Announces Mike Davidson As Candidate For Ilam Electorate
+date: 2023-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00048/green-party-announces-mike-davidson-as-candidate-for-ilam-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/04/11/green-party-announces-mike-davidson-as-candidate-for-ilam-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Mike Davidson As Candidate For Ilam Electorate
 ====================================================================

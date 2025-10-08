@@ -1,9 +1,12 @@
 ---
 slug: national-seeks-boost-for-kids-sport
-title: "National seeks boost for kids' sport"
-date: 2008-06-30
-source-url: https://www.scoop.co.nz/stories/PA0806/S00499/national-seeks-boost-for-kids-sport.htm
+title: National seeks boost for kids' sport
+date: 2008-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00499/national-seeks-boost-for-kids-sport.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/30/national-seeks-boost-for-kids-sport/index.html
+layout: layout.njk
 ---
 National seeks boost for kids' sport
 ====================================

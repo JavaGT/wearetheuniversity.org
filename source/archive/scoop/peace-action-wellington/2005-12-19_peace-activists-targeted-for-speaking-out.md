@@ -1,9 +1,12 @@
 ---
 slug: peace-activists-targeted-for-speaking-out
-title: "Peace activists targeted for speaking out"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PO0512/S00153/peace-activists-targeted-for-speaking-out.htm
+title: Peace activists targeted for speaking out
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0512/S00153/peace-activists-targeted-for-speaking-out.htm
 author: peace-action-wellington
+permalink: /archive/2005/12/19/peace-activists-targeted-for-speaking-out/index.html
+layout: layout.njk
 ---
 Peace activists targeted for speaking out
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: briefing-to-incoming-minister-ignores-consumers
-title: "Briefing to incoming minister ignores consumers"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/PA0812/S00116/briefing-to-incoming-minister-ignores-consumers.htm
+title: Briefing to incoming minister ignores consumers
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00116/briefing-to-incoming-minister-ignores-consumers.htm
 author: green-party
+permalink: /archive/2008/12/11/briefing-to-incoming-minister-ignores-consumers/index.html
+layout: layout.njk
 ---
 Briefing to incoming minister ignores consumers
 ===============================================

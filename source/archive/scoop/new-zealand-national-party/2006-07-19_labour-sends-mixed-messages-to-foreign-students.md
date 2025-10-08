@@ -1,9 +1,12 @@
 ---
 slug: labour-sends-mixed-messages-to-foreign-students
-title: "Labour sends mixed messages to foreign students"
-date: 2006-07-19
-source-url: https://www.scoop.co.nz/stories/PA0607/S00288/labour-sends-mixed-messages-to-foreign-students.htm
+title: Labour sends mixed messages to foreign students
+date: 2006-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00288/labour-sends-mixed-messages-to-foreign-students.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/19/labour-sends-mixed-messages-to-foreign-students/index.html
+layout: layout.njk
 ---
 Labour sends mixed messages to foreign students
 ===============================================

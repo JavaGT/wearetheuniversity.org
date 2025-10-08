@@ -1,9 +1,13 @@
 ---
 slug: massey-student-takes-prestigious-zonta-scholarship
-title: "Massey student takes prestigious Zonta scholarship"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/ED0810/S00126/massey-student-takes-prestigious-zonta-scholarship.htm
+title: Massey student takes prestigious Zonta scholarship
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00126/massey-student-takes-prestigious-zonta-scholarship.htm
 author: massey-university
+permalink: >-
+  /archive/2008/10/31/massey-student-takes-prestigious-zonta-scholarship/index.html
+layout: layout.njk
 ---
 Massey student takes prestigious Zonta scholarship
 ==================================================

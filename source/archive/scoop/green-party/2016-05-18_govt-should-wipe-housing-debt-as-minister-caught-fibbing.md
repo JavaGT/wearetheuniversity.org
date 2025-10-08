@@ -1,9 +1,13 @@
 ---
 slug: govt-should-wipe-housing-debt-as-minister-caught-fibbing
-title: "Govt should wipe housing debt as Minister caught fibbing"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/PA1605/S00317/govt-should-wipe-housing-debt-as-minister-caught-fibbing.htm
+title: Govt should wipe housing debt as Minister caught fibbing
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00317/govt-should-wipe-housing-debt-as-minister-caught-fibbing.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/18/govt-should-wipe-housing-debt-as-minister-caught-fibbing/index.html
+layout: layout.njk
 ---
 Govt should wipe housing debt as Minister caught fibbing
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: icu-bed-numbers-slump-in-auckland
-title: "ICU Bed Numbers Slump In Auckland"
-date: 2021-11-11
-source-url: https://www.scoop.co.nz/stories/PA2111/S00127/icu-bed-numbers-slump-in-auckland.htm
+title: ICU Bed Numbers Slump In Auckland
+date: 2021-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00127/icu-bed-numbers-slump-in-auckland.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/11/icu-bed-numbers-slump-in-auckland/index.html
+layout: layout.njk
 ---
 ICU Bed Numbers Slump In Auckland
 =================================

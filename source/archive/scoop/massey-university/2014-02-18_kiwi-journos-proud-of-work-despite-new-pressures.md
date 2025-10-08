@@ -1,9 +1,13 @@
 ---
 slug: kiwi-journos-proud-of-work-despite-new-pressures
-title: "Kiwi journos proud of work, despite new pressures"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/BU1402/S00469/kiwi-journos-proud-of-work-despite-new-pressures.htm
+title: Kiwi journos proud of work, despite new pressures
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1402/S00469/kiwi-journos-proud-of-work-despite-new-pressures.htm
 author: massey-university
+permalink: >-
+  /archive/2014/02/18/kiwi-journos-proud-of-work-despite-new-pressures/index.html
+layout: layout.njk
 ---
 Kiwi journos proud of work, despite new pressures
 =================================================

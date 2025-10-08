@@ -1,9 +1,12 @@
 ---
 slug: ryalls-fairy-dust-at-work-again
-title: "Ryall’s fairy dust at work again"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/PA1310/S00085/ryalls-fairy-dust-at-work-again.htm
+title: Ryall’s fairy dust at work again
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00085/ryalls-fairy-dust-at-work-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/03/ryalls-fairy-dust-at-work-again/index.html
+layout: layout.njk
 ---
 Ryall’s fairy dust at work again
 ================================

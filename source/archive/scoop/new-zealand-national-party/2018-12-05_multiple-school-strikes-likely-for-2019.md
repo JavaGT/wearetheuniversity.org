@@ -1,9 +1,12 @@
 ---
 slug: multiple-school-strikes-likely-for-2019
-title: "Multiple school strikes likely for 2019"
-date: 2018-12-05
-source-url: https://www.scoop.co.nz/stories/PA1812/S00043/multiple-school-strikes-likely-for-2019.htm
+title: Multiple school strikes likely for 2019
+date: 2018-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00043/multiple-school-strikes-likely-for-2019.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/05/multiple-school-strikes-likely-for-2019/index.html
+layout: layout.njk
 ---
 Multiple school strikes likely for 2019
 =======================================

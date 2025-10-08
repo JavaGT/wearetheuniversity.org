@@ -1,9 +1,13 @@
 ---
 slug: otago-demonstrates-its-commitment-to-rural-health
-title: "Otago demonstrates its commitment to rural health"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/GE1808/S00015/otago-demonstrates-its-commitment-to-rural-health.htm
+title: Otago demonstrates its commitment to rural health
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00015/otago-demonstrates-its-commitment-to-rural-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/07/otago-demonstrates-its-commitment-to-rural-health/index.html
+layout: layout.njk
 ---
 Otago demonstrates its commitment to rural health
 =================================================

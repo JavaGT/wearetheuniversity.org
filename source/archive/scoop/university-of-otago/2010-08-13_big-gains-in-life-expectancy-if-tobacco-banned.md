@@ -1,9 +1,12 @@
 ---
 slug: big-gains-in-life-expectancy-if-tobacco-banned
-title: "Big gains in life expectancy if tobacco banned"
-date: 2010-08-13
-source-url: https://www.scoop.co.nz/stories/GE1008/S00059/big-gains-in-life-expectancy-if-tobacco-banned.htm
+title: Big gains in life expectancy if tobacco banned
+date: 2010-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1008/S00059/big-gains-in-life-expectancy-if-tobacco-banned.htm
 author: university-of-otago
+permalink: /archive/2010/08/13/big-gains-in-life-expectancy-if-tobacco-banned/index.html
+layout: layout.njk
 ---
 Big gains in life expectancy if tobacco banned
 ==============================================

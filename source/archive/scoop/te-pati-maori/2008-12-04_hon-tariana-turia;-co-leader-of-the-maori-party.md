@@ -1,9 +1,12 @@
 ---
 slug: hon-tariana-turia;-co-leader-of-the-maori-party
-title: "Hon Tariana Turia; Co-Leader Of The Maori Party"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/PA0812/S00033/hon-tariana-turia-co-leader-of-the-maori-party.htm
+title: Hon Tariana Turia; Co-Leader Of The Maori Party
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00033/hon-tariana-turia-co-leader-of-the-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/12/04/hon-tariana-turia/index.html
+layout: layout.njk
 ---
 Hon Tariana Turia; Co-Leader Of The Maori Party
 ===============================================

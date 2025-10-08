@@ -1,9 +1,12 @@
 ---
 slug: new-book-sheds-light-on-maori-culture-history
-title: "New Book Sheds Light On Maori Culture History"
-date: 2000-10-12
-source-url: https://www.scoop.co.nz/stories/CU0010/S00026/new-book-sheds-light-on-maori-culture-history.htm
+title: New Book Sheds Light On Maori Culture History
+date: 2000-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0010/S00026/new-book-sheds-light-on-maori-culture-history.htm
 author: auckland-university-press
+permalink: /archive/2000/10/12/new-book-sheds-light-on-maori-culture-history/index.html
+layout: layout.njk
 ---
 New Book Sheds Light On Maori Culture History
 =============================================

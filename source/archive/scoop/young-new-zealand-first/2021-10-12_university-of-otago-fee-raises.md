@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-fee-raises
-title: "University Of Otago Fee Raises"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/ED2110/S00009/university-of-otago-fee-raises.htm
+title: University Of Otago Fee Raises
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00009/university-of-otago-fee-raises.htm
 author: young-new-zealand-first
+permalink: /archive/2021/10/12/university-of-otago-fee-raises/index.html
+layout: layout.njk
 ---
 University Of Otago Fee Raises
 ==============================

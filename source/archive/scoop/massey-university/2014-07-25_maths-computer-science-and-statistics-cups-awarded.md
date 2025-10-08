@@ -1,9 +1,13 @@
 ---
 slug: maths-computer-science-and-statistics-cups-awarded
-title: "Maths, computer science and statistics cups awarded"
-date: 2014-07-25
-source-url: https://www.scoop.co.nz/stories/ED1407/S00125/maths-computer-science-and-statistics-cups-awarded.htm
+title: Maths, computer science and statistics cups awarded
+date: 2014-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00125/maths-computer-science-and-statistics-cups-awarded.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/25/maths-computer-science-and-statistics-cups-awarded/index.html
+layout: layout.njk
 ---
 Maths, computer science and statistics cups awarded
 ===================================================

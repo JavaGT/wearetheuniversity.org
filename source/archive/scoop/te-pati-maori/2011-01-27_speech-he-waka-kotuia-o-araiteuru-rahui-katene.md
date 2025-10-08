@@ -1,9 +1,12 @@
 ---
 slug: speech-he-waka-kotuia-o-araiteuru-rahui-katene
-title: "Speech - He Waka Kotuia o Araiteuru : Rahui Katene"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PA1101/S00124/speech-he-waka-kotuia-o-araiteuru-rahui-katene.htm
+title: 'Speech - He Waka Kotuia o Araiteuru : Rahui Katene'
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00124/speech-he-waka-kotuia-o-araiteuru-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/01/27/speech-he-waka-kotuia-o-araiteuru-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech - He Waka Kotuia o Araiteuru : Rahui Katene
 ==================================================

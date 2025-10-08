@@ -1,9 +1,12 @@
 ---
 slug: student-allowance-adjustments-just-dont-cut-it
-title: "Student allowance adjustments just don’t cut it"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/ED0804/S00012/student-allowance-adjustments-just-dont-cut-it.htm
+title: Student allowance adjustments just don’t cut it
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00012/student-allowance-adjustments-just-dont-cut-it.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2008/04/03/student-allowance-adjustments-just-dont-cut-it/index.html
+layout: layout.njk
 ---
 Student allowance adjustments just don’t cut it
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: child-support-law-needs-radical-re-examination
-title: "Child support law needs radical re-examination"
-date: 2000-05-29
-source-url: https://www.scoop.co.nz/stories/GE0005/S00056/child-support-law-needs-radical-re-examination.htm
+title: Child support law needs radical re-examination
+date: 2000-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0005/S00056/child-support-law-needs-radical-re-examination.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/29/child-support-law-needs-radical-re-examination/index.html
+layout: layout.njk
 ---
 Child support law needs radical re-examination
 ==============================================

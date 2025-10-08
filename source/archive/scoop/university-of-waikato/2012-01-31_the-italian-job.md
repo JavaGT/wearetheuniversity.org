@@ -1,9 +1,11 @@
 ---
 slug: the-italian-job
-title: "The Italian Job"
-date: 2012-01-31
+title: The Italian Job
+date: 2012-01-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1201/S00371/the-italian-job.htm
 author: university-of-waikato
+permalink: /archive/2012/01/31/the-italian-job/index.html
+layout: layout.njk
 ---
 The Italian Job
 ===============

@@ -1,9 +1,12 @@
 ---
 slug: grosers-travel-costs-should-go-to-rsa-veterans
-title: "Groser’s Travel Costs Should Go to RSA Veterans"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/PA1304/S00515/grosers-travel-costs-should-go-to-rsa-veterans.htm
+title: Groser’s Travel Costs Should Go to RSA Veterans
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00515/grosers-travel-costs-should-go-to-rsa-veterans.htm
 author: new-zealand-first-party
+permalink: /archive/2013/04/26/grosers-travel-costs-should-go-to-rsa-veterans/index.html
+layout: layout.njk
 ---
 Groser’s Travel Costs Should Go to RSA Veterans
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: job-loss-figures-show-scale-of-economic-challenge
-title: "Job Loss Figures Show Scale Of Economic Challenge"
-date: 2020-09-04
-source-url: https://www.scoop.co.nz/stories/PA2009/S00029/job-loss-figures-show-scale-of-economic-challenge.htm
+title: Job Loss Figures Show Scale Of Economic Challenge
+date: 2020-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00029/job-loss-figures-show-scale-of-economic-challenge.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/04/job-loss-figures-show-scale-of-economic-challenge/index.html
+layout: layout.njk
 ---
 Job Loss Figures Show Scale Of Economic Challenge
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-signals-major-assault-on-waiting-lists
-title: "National signals major assault on waiting lists"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PA0509/S00141/national-signals-major-assault-on-waiting-lists.htm
+title: National signals major assault on waiting lists
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00141/national-signals-major-assault-on-waiting-lists.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/06/national-signals-major-assault-on-waiting-lists/index.html
+layout: layout.njk
 ---
 National signals major assault on waiting lists
 ===============================================

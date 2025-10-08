@@ -1,9 +1,12 @@
 ---
 slug: hb-suffers-while-government-on-holiday
-title: "HB suffers while Government on holiday"
-date: 2007-01-16
-source-url: https://www.scoop.co.nz/stories/WO0701/S00165/hb-suffers-while-government-on-holiday.htm
+title: HB suffers while Government on holiday
+date: 2007-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0701/S00165/hb-suffers-while-government-on-holiday.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/16/hb-suffers-while-government-on-holiday/index.html
+layout: layout.njk
 ---
 HB suffers while Government on holiday
 ======================================

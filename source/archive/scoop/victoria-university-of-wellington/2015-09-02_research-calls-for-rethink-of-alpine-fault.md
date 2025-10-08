@@ -1,9 +1,12 @@
 ---
 slug: research-calls-for-rethink-of-alpine-fault
-title: "Research calls for rethink of Alpine Fault"
-date: 2015-09-02
-source-url: https://www.scoop.co.nz/stories/SC1509/S00003/research-calls-for-rethink-of-alpine-fault.htm
+title: Research calls for rethink of Alpine Fault
+date: 2015-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00003/research-calls-for-rethink-of-alpine-fault.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/09/02/research-calls-for-rethink-of-alpine-fault/index.html
+layout: layout.njk
 ---
 Research calls for rethink of Alpine Fault
 ==========================================

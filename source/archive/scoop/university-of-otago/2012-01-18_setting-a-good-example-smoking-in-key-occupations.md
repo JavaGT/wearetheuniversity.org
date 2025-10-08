@@ -1,9 +1,13 @@
 ---
 slug: setting-a-good-example-smoking-in-key-occupations
-title: "Setting a good example?  Smoking in key occupations"
-date: 2012-01-18
-source-url: https://www.scoop.co.nz/stories/GE1201/S00028/setting-a-good-example-smoking-in-key-occupations.htm
+title: Setting a good example?  Smoking in key occupations
+date: 2012-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1201/S00028/setting-a-good-example-smoking-in-key-occupations.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/01/18/setting-a-good-example-smoking-in-key-occupations/index.html
+layout: layout.njk
 ---
 Setting a good example? Smoking in key occupations
 ==================================================

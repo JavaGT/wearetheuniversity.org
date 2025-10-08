@@ -1,9 +1,12 @@
 ---
 slug: stuart-nash-appointed-to-aut-university
-title: "Stuart Nash appointed to AUT University"
-date: 2006-05-15
-source-url: https://www.scoop.co.nz/stories/ED0605/S00049/stuart-nash-appointed-to-aut-university.htm
+title: Stuart Nash appointed to AUT University
+date: 2006-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00049/stuart-nash-appointed-to-aut-university.htm
 author: aut-university
+permalink: /archive/2006/05/15/stuart-nash-appointed-to-aut-university/index.html
+layout: layout.njk
 ---
 Stuart Nash appointed to AUT University
 =======================================

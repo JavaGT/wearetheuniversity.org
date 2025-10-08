@@ -1,9 +1,12 @@
 ---
 slug: make-it-about-the-game-not-the-gambling
-title: "Make it about the game, not the gambling"
-date: 2015-10-07
-source-url: https://www.scoop.co.nz/stories/CU1510/S00080/make-it-about-the-game-not-the-gambling.htm
+title: Make it about the game, not the gambling
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1510/S00080/make-it-about-the-game-not-the-gambling.htm
 author: aut-university
+permalink: /archive/2015/10/07/make-it-about-the-game-not-the-gambling/index.html
+layout: layout.njk
 ---
 Make it about the game, not the gambling
 ========================================

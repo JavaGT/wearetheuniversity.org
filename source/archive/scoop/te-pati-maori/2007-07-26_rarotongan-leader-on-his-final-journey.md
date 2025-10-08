@@ -1,9 +1,12 @@
 ---
 slug: rarotongan-leader-on-his-final-journey
-title: "Rarotongan Leader on His Final Journey"
-date: 2007-07-26
-source-url: https://www.scoop.co.nz/stories/PA0707/S00435/rarotongan-leader-on-his-final-journey.htm
+title: Rarotongan Leader on His Final Journey
+date: 2007-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00435/rarotongan-leader-on-his-final-journey.htm
 author: te-pati-maori
+permalink: /archive/2007/07/26/rarotongan-leader-on-his-final-journey/index.html
+layout: layout.njk
 ---
 Rarotongan Leader on His Final Journey
 ======================================

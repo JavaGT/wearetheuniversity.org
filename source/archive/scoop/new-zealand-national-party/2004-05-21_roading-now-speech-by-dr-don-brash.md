@@ -1,9 +1,12 @@
 ---
 slug: roading-now-speech-by-dr-don-brash
-title: "Roading Now - Speech by Dr Don Brash"
-date: 2004-05-21
-source-url: https://www.scoop.co.nz/stories/PA0405/S00453/roading-now-speech-by-dr-don-brash.htm
+title: Roading Now - Speech by Dr Don Brash
+date: 2004-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00453/roading-now-speech-by-dr-don-brash.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/21/roading-now-speech-by-dr-don-brash/index.html
+layout: layout.njk
 ---
 Roading Now - Speech by Dr Don Brash
 ====================================

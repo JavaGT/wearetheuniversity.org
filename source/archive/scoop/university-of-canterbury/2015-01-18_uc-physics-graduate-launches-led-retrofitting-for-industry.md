@@ -1,9 +1,13 @@
 ---
 slug: uc-physics-graduate-launches-led-retrofitting-for-industry
-title: "UC physics graduate launches LED retrofitting for industry"
-date: 2015-01-18
-source-url: https://www.scoop.co.nz/stories/ED1501/S00039/uc-physics-graduate-launches-led-retrofitting-for-industry.htm
+title: UC physics graduate launches LED retrofitting for industry
+date: 2015-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00039/uc-physics-graduate-launches-led-retrofitting-for-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/18/uc-physics-graduate-launches-led-retrofitting-for-industry/index.html
+layout: layout.njk
 ---
 UC physics graduate launches LED retrofitting for industry
 ==========================================================

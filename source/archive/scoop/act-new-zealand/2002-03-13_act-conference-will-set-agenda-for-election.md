@@ -1,9 +1,12 @@
 ---
 slug: act-conference-will-set-agenda-for-election
-title: "ACT Conference Will Set Agenda For Election"
-date: 2002-03-13
-source-url: https://www.scoop.co.nz/stories/PA0203/S00217/act-conference-will-set-agenda-for-election.htm
+title: ACT Conference Will Set Agenda For Election
+date: 2002-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00217/act-conference-will-set-agenda-for-election.htm
 author: act-new-zealand
+permalink: /archive/2002/03/13/act-conference-will-set-agenda-for-election/index.html
+layout: layout.njk
 ---
 ACT Conference Will Set Agenda For Election
 ===========================================

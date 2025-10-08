@@ -1,9 +1,12 @@
 ---
 slug: much-to-celebrate-in-support-staff-week-2020
-title: "Much To Celebrate In Support Staff Week 2020"
-date: 2020-06-08
-source-url: https://www.scoop.co.nz/stories/PO2006/S00062/much-to-celebrate-in-support-staff-week-2020.htm
+title: Much To Celebrate In Support Staff Week 2020
+date: 2020-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00062/much-to-celebrate-in-support-staff-week-2020.htm
 author: nzei
+permalink: /archive/2020/06/08/much-to-celebrate-in-support-staff-week-2020/index.html
+layout: layout.njk
 ---
 Much To Celebrate In Support Staff Week 2020
 ============================================

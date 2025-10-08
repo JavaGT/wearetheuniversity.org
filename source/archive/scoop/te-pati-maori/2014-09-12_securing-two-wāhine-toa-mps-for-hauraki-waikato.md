@@ -1,9 +1,12 @@
 ---
 slug: securing-two-wāhine-toa-mps-for-hauraki-waikato
-title: "Securing Two Wāhine Toa Mps for Hauraki-Waikato"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PO1409/S00281/securing-two-wahine-toa-mps-for-hauraki-waikato.htm
+title: Securing Two Wāhine Toa Mps for Hauraki-Waikato
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00281/securing-two-wahine-toa-mps-for-hauraki-waikato.htm
 author: te-pati-maori
+permalink: /archive/2014/09/12/securing-two-w/index.html
+layout: layout.njk
 ---
 Securing Two Wāhine Toa Mps for Hauraki-Waikato
 ===============================================

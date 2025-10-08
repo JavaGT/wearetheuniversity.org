@@ -1,9 +1,13 @@
 ---
 slug: fonterra-must-act-on-dirty-dairying-to-protect-nz
-title: "Fonterra must act on dirty dairying to protect NZ"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/PA0907/S00251/fonterra-must-act-on-dirty-dairying-to-protect-nz.htm
+title: Fonterra must act on dirty dairying to protect NZ
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00251/fonterra-must-act-on-dirty-dairying-to-protect-nz.htm
 author: green-party
+permalink: >-
+  /archive/2009/07/22/fonterra-must-act-on-dirty-dairying-to-protect-nz/index.html
+layout: layout.njk
 ---
 Fonterra must act on dirty dairying to protect NZ
 =================================================

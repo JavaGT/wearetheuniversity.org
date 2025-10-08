@@ -1,9 +1,12 @@
 ---
 slug: tec-confirms-scam-claim-and-there-may-be-more
-title: "TEC confirms scam claim - and there may be more"
-date: 2007-05-01
-source-url: https://www.scoop.co.nz/stories/PA0705/S00017/tec-confirms-scam-claim-and-there-may-be-more.htm
+title: TEC confirms scam claim - and there may be more
+date: 2007-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00017/tec-confirms-scam-claim-and-there-may-be-more.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/01/tec-confirms-scam-claim-and-there-may-be-more/index.html
+layout: layout.njk
 ---
 TEC confirms scam claim - and there may be more
 ===============================================

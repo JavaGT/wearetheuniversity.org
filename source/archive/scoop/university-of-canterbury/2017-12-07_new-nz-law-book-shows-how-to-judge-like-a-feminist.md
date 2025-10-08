@@ -1,9 +1,13 @@
 ---
 slug: new-nz-law-book-shows-how-to-judge-like-a-feminist
-title: "New NZ law book shows how to judge like a feminist"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/CU1712/S00119/new-nz-law-book-shows-how-to-judge-like-a-feminist.htm
+title: New NZ law book shows how to judge like a feminist
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00119/new-nz-law-book-shows-how-to-judge-like-a-feminist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/07/new-nz-law-book-shows-how-to-judge-like-a-feminist/index.html
+layout: layout.njk
 ---
 New NZ law book shows how to judge like a feminist
 ==================================================

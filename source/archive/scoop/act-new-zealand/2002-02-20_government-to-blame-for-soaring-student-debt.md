@@ -1,9 +1,12 @@
 ---
 slug: government-to-blame-for-soaring-student-debt
-title: "Government to Blame for Soaring Student Debt"
-date: 2002-02-20
-source-url: https://www.scoop.co.nz/stories/PA0202/S00296/government-to-blame-for-soaring-student-debt.htm
+title: Government to Blame for Soaring Student Debt
+date: 2002-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00296/government-to-blame-for-soaring-student-debt.htm
 author: act-new-zealand
+permalink: /archive/2002/02/20/government-to-blame-for-soaring-student-debt/index.html
+layout: layout.njk
 ---
 Government to Blame for Soaring Student Debt
 ============================================

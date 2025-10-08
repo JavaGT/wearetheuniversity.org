@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-post-study-work-rights-proposals
-title: "Universities welcome post-study work rights proposals"
-date: 2018-06-02
-source-url: https://www.scoop.co.nz/stories/ED1806/S00008/universities-welcome-post-study-work-rights-proposals.htm
+title: Universities welcome post-study work rights proposals
+date: 2018-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00008/universities-welcome-post-study-work-rights-proposals.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/06/02/universities-welcome-post-study-work-rights-proposals/index.html
+layout: layout.njk
 ---
 Universities welcome post-study work rights proposals
 =====================================================

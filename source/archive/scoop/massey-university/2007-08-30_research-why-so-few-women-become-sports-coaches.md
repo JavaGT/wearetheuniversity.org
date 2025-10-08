@@ -1,9 +1,12 @@
 ---
 slug: research-why-so-few-women-become-sports-coaches
-title: "Research: why so few women become sports coaches"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/ED0708/S00097/research-why-so-few-women-become-sports-coaches.htm
+title: 'Research: why so few women become sports coaches'
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00097/research-why-so-few-women-become-sports-coaches.htm
 author: massey-university
+permalink: /archive/2007/08/30/research-why-so-few-women-become-sports-coaches/index.html
+layout: layout.njk
 ---
 Research: why so few women become sports coaches
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: vaping-red-tape-protects-tobacco-revenue
-title: "Vaping red tape protects tobacco revenue"
-date: 2018-11-23
-source-url: https://www.scoop.co.nz/stories/PA1811/S00241/vaping-red-tape-protects-tobacco-revenue.htm
+title: Vaping red tape protects tobacco revenue
+date: 2018-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00241/vaping-red-tape-protects-tobacco-revenue.htm
 author: act-new-zealand
+permalink: /archive/2018/11/23/vaping-red-tape-protects-tobacco-revenue/index.html
+layout: layout.njk
 ---
 Vaping red tape protects tobacco revenue
 ========================================

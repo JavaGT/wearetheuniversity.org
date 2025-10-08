@@ -1,9 +1,12 @@
 ---
 slug: lets-tackle-the-student-debt-monster
-title: "Let’s tackle the student debt monster"
-date: 2017-08-30
-source-url: https://www.scoop.co.nz/stories/PA1708/S00529/lets-tackle-the-student-debt-monster.htm
+title: Let’s tackle the student debt monster
+date: 2017-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00529/lets-tackle-the-student-debt-monster.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/30/lets-tackle-the-student-debt-monster/index.html
+layout: layout.njk
 ---
 Let’s tackle the student debt monster
 =====================================

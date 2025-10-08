@@ -1,9 +1,13 @@
 ---
 slug: rejecting-vitamin-k-at-birth-predicts-vaccination-refusal
-title: "Rejecting Vitamin K at birth predicts vaccination refusal"
-date: 2015-04-16
-source-url: https://www.scoop.co.nz/stories/SC1504/S00042/rejecting-vitamin-k-at-birth-predicts-vaccination-refusal.htm
+title: Rejecting Vitamin K at birth predicts vaccination refusal
+date: 2015-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00042/rejecting-vitamin-k-at-birth-predicts-vaccination-refusal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/16/rejecting-vitamin-k-at-birth-predicts-vaccination-refusal/index.html
+layout: layout.njk
 ---
 Rejecting Vitamin K at birth predicts vaccination refusal
 =========================================================

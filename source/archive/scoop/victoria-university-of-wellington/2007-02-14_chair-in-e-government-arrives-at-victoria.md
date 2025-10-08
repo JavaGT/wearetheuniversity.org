@@ -1,9 +1,12 @@
 ---
 slug: chair-in-e-government-arrives-at-victoria
-title: "Chair in E-Government arrives at Victoria"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/ED0702/S00051/chair-in-e-government-arrives-at-victoria.htm
+title: Chair in E-Government arrives at Victoria
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00051/chair-in-e-government-arrives-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/14/chair-in-e-government-arrives-at-victoria/index.html
+layout: layout.njk
 ---
 Chair in E-Government arrives at Victoria
 =========================================

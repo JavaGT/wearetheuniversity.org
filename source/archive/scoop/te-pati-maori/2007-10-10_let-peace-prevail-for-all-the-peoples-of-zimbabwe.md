@@ -1,9 +1,13 @@
 ---
 slug: let-peace-prevail-for-all-the-peoples-of-zimbabwe
-title: "Let peace prevail for all the peoples of Zimbabwe"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/PA0710/S00153/let-peace-prevail-for-all-the-peoples-of-zimbabwe.htm
+title: Let peace prevail for all the peoples of Zimbabwe
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00153/let-peace-prevail-for-all-the-peoples-of-zimbabwe.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/10/10/let-peace-prevail-for-all-the-peoples-of-zimbabwe/index.html
+layout: layout.njk
 ---
 Let peace prevail for all the peoples of Zimbabwe
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddington-goes-to-cambridge
-title: "Deborah Coddington Goes to Cambridge"
-date: 2003-04-17
-source-url: https://www.scoop.co.nz/stories/PA0304/S00367/deborah-coddington-goes-to-cambridge.htm
+title: Deborah Coddington Goes to Cambridge
+date: 2003-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00367/deborah-coddington-goes-to-cambridge.htm
 author: act-new-zealand
+permalink: /archive/2003/04/17/deborah-coddington-goes-to-cambridge/index.html
+layout: layout.njk
 ---
 Deborah Coddington Goes to Cambridge
 ====================================

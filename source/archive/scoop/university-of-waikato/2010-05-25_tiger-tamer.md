@@ -1,9 +1,11 @@
 ---
 slug: tiger-tamer
-title: "Tiger tamer?"
-date: 2010-05-25
+title: Tiger tamer?
+date: 2010-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1005/S00115/tiger-tamer.htm
 author: university-of-waikato
+permalink: /archive/2010/05/25/tiger-tamer/index.html
+layout: layout.njk
 ---
 Tiger tamer?
 ============

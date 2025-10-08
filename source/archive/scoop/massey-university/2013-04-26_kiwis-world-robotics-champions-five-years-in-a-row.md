@@ -1,9 +1,13 @@
 ---
 slug: kiwis-world-robotics-champions-five-years-in-a-row
-title: "Kiwis World Robotics Champions five years in a row"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/ED1304/S00150/kiwis-world-robotics-champions-five-years-in-a-row.htm
+title: Kiwis World Robotics Champions five years in a row
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00150/kiwis-world-robotics-champions-five-years-in-a-row.htm
 author: massey-university
+permalink: >-
+  /archive/2013/04/26/kiwis-world-robotics-champions-five-years-in-a-row/index.html
+layout: layout.njk
 ---
 Kiwis World Robotics Champions five years in a row
 ==================================================

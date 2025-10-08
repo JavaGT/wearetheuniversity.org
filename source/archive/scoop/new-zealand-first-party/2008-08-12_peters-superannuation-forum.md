@@ -1,9 +1,11 @@
 ---
 slug: peters-superannuation-forum
-title: "Peters: Superannuation Forum"
-date: 2008-08-12
+title: 'Peters: Superannuation Forum'
+date: 2008-08-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00196/peters-superannuation-forum.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/12/peters-superannuation-forum/index.html
+layout: layout.njk
 ---
 Peters: Superannuation Forum
 ============================

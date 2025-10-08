@@ -1,9 +1,13 @@
 ---
 slug: cips-accredits-new-aut-master-of-supply-chain-management
-title: "CIPS Accredits New AUT Master Of Supply Chain Management"
-date: 2022-04-26
-source-url: https://www.scoop.co.nz/stories/ED2204/S00020/cips-accredits-new-aut-master-of-supply-chain-management.htm
+title: CIPS Accredits New AUT Master Of Supply Chain Management
+date: 2022-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00020/cips-accredits-new-aut-master-of-supply-chain-management.htm
 author: aut-university
+permalink: >-
+  /archive/2022/04/26/cips-accredits-new-aut-master-of-supply-chain-management/index.html
+layout: layout.njk
 ---
 CIPS Accredits New AUT Master Of Supply Chain Management
 ========================================================

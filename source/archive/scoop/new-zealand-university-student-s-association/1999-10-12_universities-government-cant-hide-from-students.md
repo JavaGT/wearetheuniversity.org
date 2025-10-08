@@ -1,9 +1,12 @@
 ---
 slug: universities-government-cant-hide-from-students
-title: "Universities / Government Can’t Hide From Students"
-date: 1999-10-12
-source-url: https://www.scoop.co.nz/stories/ED9910/S00028/universities-government-cant-hide-from-students.htm
+title: Universities / Government Can’t Hide From Students
+date: 1999-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00028/universities-government-cant-hide-from-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/12/universities-government-cant-hide-from-students/index.html
+layout: layout.njk
 ---
 Universities / Government Can’t Hide From Students
 ==================================================

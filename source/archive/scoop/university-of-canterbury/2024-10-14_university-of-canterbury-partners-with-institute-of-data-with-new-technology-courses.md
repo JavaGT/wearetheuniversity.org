@@ -1,9 +1,16 @@
 ---
-slug: university-of-canterbury-partners-with-institute-of-data-with-new-technology-courses
-title: "University Of Canterbury Partners With Institute Of Data With New Technology Courses"
-date: 2024-10-14
-source-url: https://www.scoop.co.nz/stories/ED2410/S00018/university-of-canterbury-partners-with-institute-of-data-with-new-technology-courses.htm
+slug: >-
+  university-of-canterbury-partners-with-institute-of-data-with-new-technology-courses
+title: >-
+  University Of Canterbury Partners With Institute Of Data With New Technology
+  Courses
+date: 2024-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00018/university-of-canterbury-partners-with-institute-of-data-with-new-technology-courses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/14/university-of-canterbury-partners-with-institute-of-data-with-new-technology-courses/index.html
+layout: layout.njk
 ---
 University Of Canterbury Partners With Institute Of Data With New Technology Courses
 ====================================================================================
@@ -22,14 +29,7 @@ The courses, starting on 15 October, are designed to equip students with the tec
 Peter Harpur, CEO of IoD, says the courses were designed to rapidly train mid-career professionals with the skills that industry need right now. He said feedback from employers is that IoD certified professionals have valuable skills and are able to make a difference immediately, whereas other graduates can take up to three months of on the job training.
 
 “Even through challenging economic times, NZ Tech recently reported the number of tech jobs in New Zealand grew by 3,560 roles in 2023.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “New Zealand has a critical need for workers in data science, AI, cyber security and software engineering, but the challenge is finding workers with the right skills needed to immediately contribute. We’re thrilled to be working with the University of Canterbury’s UC Online team to train mid-career professionals that would not otherwise consider going back to university.
+“New Zealand has a critical need for workers in data science, AI, cyber security and software engineering, but the challenge is finding workers with the right skills needed to immediately contribute. We’re thrilled to be working with the University of Canterbury’s UC Online team to train mid-career professionals that would not otherwise consider going back to university.
 
 Harpur recognises it’s increasingly difficult to secure employment in the current job market, but IoD graduates are adept in the latest technologies and are a step ahead of other job applicants.
 

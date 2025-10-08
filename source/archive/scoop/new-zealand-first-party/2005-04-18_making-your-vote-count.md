@@ -1,9 +1,11 @@
 ---
 slug: making-your-vote-count
-title: "\"Making Your Vote Count\""
-date: 2005-04-18
+title: '"Making Your Vote Count"'
+date: 2005-04-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00382/making-your-vote-count.htm
 author: new-zealand-first-party
+permalink: /archive/2005/04/18/making-your-vote-count/index.html
+layout: layout.njk
 ---
 “Making Your Vote Count”
 ========================

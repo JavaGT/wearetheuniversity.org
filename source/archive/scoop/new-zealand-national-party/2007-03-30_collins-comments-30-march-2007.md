@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-30-march-2007
-title: "Collins Comments -  30 March 2007"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/PA0703/S00656/collins-comments-30-march-2007.htm
+title: Collins Comments -  30 March 2007
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00656/collins-comments-30-march-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/30/collins-comments-30-march-2007/index.html
+layout: layout.njk
 ---
 Collins Comments - 30 March 2007
 ================================

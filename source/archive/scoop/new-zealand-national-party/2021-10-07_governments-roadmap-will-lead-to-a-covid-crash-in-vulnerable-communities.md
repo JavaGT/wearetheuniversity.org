@@ -1,9 +1,13 @@
 ---
 slug: governments-roadmap-will-lead-to-a-covid-crash-in-vulnerable-communities
-title: "Government’s ‘roadmap’ Will Lead To A Covid Crash In Vulnerable Communities"
-date: 2021-10-07
-source-url: https://www.scoop.co.nz/stories/PA2110/S00075/governments-roadmap-will-lead-to-a-covid-crash-in-vulnerable-communities.htm
+title: Government’s ‘roadmap’ Will Lead To A Covid Crash In Vulnerable Communities
+date: 2021-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00075/governments-roadmap-will-lead-to-a-covid-crash-in-vulnerable-communities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/07/governments-roadmap-will-lead-to-a-covid-crash-in-vulnerable-communities/index.html
+layout: layout.njk
 ---
 Government’s ‘roadmap’ Will Lead To A Covid Crash In Vulnerable Communities
 ===========================================================================

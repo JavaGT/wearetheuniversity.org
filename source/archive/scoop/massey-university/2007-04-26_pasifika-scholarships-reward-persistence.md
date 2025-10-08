@@ -1,9 +1,12 @@
 ---
 slug: pasifika-scholarships-reward-persistence
-title: "Pasifika scholarships reward persistence"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/ED0704/S00086/pasifika-scholarships-reward-persistence.htm
+title: Pasifika scholarships reward persistence
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00086/pasifika-scholarships-reward-persistence.htm
 author: massey-university
+permalink: /archive/2007/04/26/pasifika-scholarships-reward-persistence/index.html
+layout: layout.njk
 ---
 Pasifika scholarships reward persistence
 ========================================

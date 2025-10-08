@@ -1,9 +1,12 @@
 ---
 slug: students-onto-a-winning-football-score
-title: "Students onto a winning football score"
-date: 2006-07-10
-source-url: https://www.scoop.co.nz/stories/ED0607/S00021/students-onto-a-winning-football-score.htm
+title: Students onto a winning football score
+date: 2006-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00021/students-onto-a-winning-football-score.htm
 author: auckland-university
+permalink: /archive/2006/07/10/students-onto-a-winning-football-score/index.html
+layout: layout.njk
 ---
 Students onto a winning football score
 ======================================

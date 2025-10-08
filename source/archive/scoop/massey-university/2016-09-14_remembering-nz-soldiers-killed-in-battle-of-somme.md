@@ -1,9 +1,13 @@
 ---
 slug: remembering-nz-soldiers-killed-in-battle-of-somme
-title: "Remembering NZ soldiers killed in Battle of Somme"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/CU1609/S00229/remembering-nz-soldiers-killed-in-battle-of-somme.htm
+title: Remembering NZ soldiers killed in Battle of Somme
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00229/remembering-nz-soldiers-killed-in-battle-of-somme.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/14/remembering-nz-soldiers-killed-in-battle-of-somme/index.html
+layout: layout.njk
 ---
 Remembering NZ soldiers killed in Battle of Somme
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: stop-dilly-dallying-and-declare-drought
-title: "Stop Dilly-Dallying And Declare Drought"
-date: 2015-02-03
-source-url: https://www.scoop.co.nz/stories/PA1502/S00016/stop-dilly-dallying-and-declare-drought.htm
+title: Stop Dilly-Dallying And Declare Drought
+date: 2015-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00016/stop-dilly-dallying-and-declare-drought.htm
 author: new-zealand-first-party
+permalink: /archive/2015/02/03/stop-dilly-dallying-and-declare-drought/index.html
+layout: layout.njk
 ---
 Stop Dilly-Dallying And Declare Drought
 =======================================

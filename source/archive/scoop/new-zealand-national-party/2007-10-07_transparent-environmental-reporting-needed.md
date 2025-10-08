@@ -1,9 +1,12 @@
 ---
 slug: transparent-environmental-reporting-needed
-title: "Transparent environmental reporting needed"
-date: 2007-10-07
-source-url: https://www.scoop.co.nz/stories/PA0710/S00103/transparent-environmental-reporting-needed.htm
+title: Transparent environmental reporting needed
+date: 2007-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00103/transparent-environmental-reporting-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/07/transparent-environmental-reporting-needed/index.html
+layout: layout.njk
 ---
 Transparent environmental reporting needed
 ==========================================

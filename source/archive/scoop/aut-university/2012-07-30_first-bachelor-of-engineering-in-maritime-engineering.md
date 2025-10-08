@@ -1,9 +1,13 @@
 ---
 slug: first-bachelor-of-engineering-in-maritime-engineering
-title: "First Bachelor of Engineering in Maritime Engineering"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/ED1207/S00111/first-bachelor-of-engineering-in-maritime-engineering.htm
+title: First Bachelor of Engineering in Maritime Engineering
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00111/first-bachelor-of-engineering-in-maritime-engineering.htm
 author: aut-university
+permalink: >-
+  /archive/2012/07/30/first-bachelor-of-engineering-in-maritime-engineering/index.html
+layout: layout.njk
 ---
 First Bachelor of Engineering in Maritime Engineering
 =====================================================

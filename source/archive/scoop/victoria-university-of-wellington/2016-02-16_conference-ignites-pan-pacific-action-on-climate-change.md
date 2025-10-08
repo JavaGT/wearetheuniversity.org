@@ -1,9 +1,13 @@
 ---
 slug: conference-ignites-pan-pacific-action-on-climate-change
-title: "Conference ignites pan-Pacific action on climate change"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/WO1602/S00040/conference-ignites-pan-pacific-action-on-climate-change.htm
+title: Conference ignites pan-Pacific action on climate change
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1602/S00040/conference-ignites-pan-pacific-action-on-climate-change.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/02/16/conference-ignites-pan-pacific-action-on-climate-change/index.html
+layout: layout.njk
 ---
 Conference ignites pan-Pacific action on climate change
 =======================================================

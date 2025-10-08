@@ -1,9 +1,13 @@
 ---
 slug: new-research-collaboration-aims-for-tobacco-free-nz
-title: "New research collaboration aims for tobacco-free NZ"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/CU1107/S00351/new-research-collaboration-aims-for-tobacco-free-nz.htm
+title: New research collaboration aims for tobacco-free NZ
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00351/new-research-collaboration-aims-for-tobacco-free-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/21/new-research-collaboration-aims-for-tobacco-free-nz/index.html
+layout: layout.njk
 ---
 New research collaboration aims for tobacco-free NZ
 ===================================================

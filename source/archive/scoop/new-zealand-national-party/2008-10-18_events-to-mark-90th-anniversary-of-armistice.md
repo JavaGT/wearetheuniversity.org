@@ -1,9 +1,12 @@
 ---
 slug: events-to-mark-90th-anniversary-of-armistice
-title: "Events to mark 90th anniversary of Armistice"
-date: 2008-10-18
-source-url: https://www.scoop.co.nz/stories/PA0810/S00427/events-to-mark-90th-anniversary-of-armistice.htm
+title: Events to mark 90th anniversary of Armistice
+date: 2008-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00427/events-to-mark-90th-anniversary-of-armistice.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/18/events-to-mark-90th-anniversary-of-armistice/index.html
+layout: layout.njk
 ---
 Events to mark 90th anniversary of Armistice
 ============================================

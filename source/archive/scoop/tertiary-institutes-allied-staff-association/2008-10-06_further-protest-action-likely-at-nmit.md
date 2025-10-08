@@ -1,9 +1,12 @@
 ---
 slug: further-protest-action-likely-at-nmit
-title: "Further Protest Action Likely At NMIT"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/ED0810/S00013/further-protest-action-likely-at-nmit.htm
+title: Further Protest Action Likely At NMIT
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00013/further-protest-action-likely-at-nmit.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2008/10/06/further-protest-action-likely-at-nmit/index.html
+layout: layout.njk
 ---
 Further Protest Action Likely At NMIT
 =====================================

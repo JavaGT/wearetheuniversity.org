@@ -1,9 +1,13 @@
 ---
 slug: govt-not-resourcing-police-to-target-organised-crime
-title: "Govt Not Resourcing Police To Target Organised Crime"
-date: 2021-02-14
-source-url: https://www.scoop.co.nz/stories/PA2102/S00064/govt-not-resourcing-police-to-target-organised-crime.htm
+title: Govt Not Resourcing Police To Target Organised Crime
+date: 2021-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00064/govt-not-resourcing-police-to-target-organised-crime.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/02/14/govt-not-resourcing-police-to-target-organised-crime/index.html
+layout: layout.njk
 ---
 Govt Not Resourcing Police To Target Organised Crime
 ====================================================

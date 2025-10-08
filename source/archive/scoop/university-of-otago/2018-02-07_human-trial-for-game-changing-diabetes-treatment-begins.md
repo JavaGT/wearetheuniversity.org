@@ -1,9 +1,13 @@
 ---
 slug: human-trial-for-game-changing-diabetes-treatment-begins
-title: "Human trial for game-changing diabetes treatment begins"
-date: 2018-02-07
-source-url: https://www.scoop.co.nz/stories/GE1802/S00020/human-trial-for-game-changing-diabetes-treatment-begins.htm
+title: Human trial for game-changing diabetes treatment begins
+date: 2018-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00020/human-trial-for-game-changing-diabetes-treatment-begins.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/07/human-trial-for-game-changing-diabetes-treatment-begins/index.html
+layout: layout.njk
 ---
 Human trial for game-changing diabetes treatment begins
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-engineering-better-health-in-africa
-title: "Canterbury students engineering better health in Africa"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/CU1810/S00324/canterbury-students-engineering-better-health-in-africa.htm
+title: Canterbury students engineering better health in Africa
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00324/canterbury-students-engineering-better-health-in-africa.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/26/canterbury-students-engineering-better-health-in-africa/index.html
+layout: layout.njk
 ---
 Canterbury students engineering better health in Africa
 =======================================================

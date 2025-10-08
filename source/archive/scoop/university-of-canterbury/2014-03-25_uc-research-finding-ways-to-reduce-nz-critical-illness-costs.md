@@ -1,9 +1,13 @@
 ---
 slug: uc-research-finding-ways-to-reduce-nz-critical-illness-costs
-title: "UC research finding ways to reduce NZ critical illness costs"
-date: 2014-03-25
-source-url: https://www.scoop.co.nz/stories/GE1403/S00117/uc-research-finding-ways-to-reduce-nz-critical-illness-costs.htm
+title: UC research finding ways to reduce NZ critical illness costs
+date: 2014-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1403/S00117/uc-research-finding-ways-to-reduce-nz-critical-illness-costs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/25/uc-research-finding-ways-to-reduce-nz-critical-illness-costs/index.html
+layout: layout.njk
 ---
 UC research finding ways to reduce NZ critical illness costs
 ============================================================

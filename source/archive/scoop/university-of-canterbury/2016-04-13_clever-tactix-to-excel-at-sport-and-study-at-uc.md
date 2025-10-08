@@ -1,9 +1,12 @@
 ---
 slug: clever-tactix-to-excel-at-sport-and-study-at-uc
-title: "Clever Tactix to excel at sport and study at UC"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/ED1604/S00040/clever-tactix-to-excel-at-sport-and-study-at-uc.htm
+title: Clever Tactix to excel at sport and study at UC
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00040/clever-tactix-to-excel-at-sport-and-study-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2016/04/13/clever-tactix-to-excel-at-sport-and-study-at-uc/index.html
+layout: layout.njk
 ---
 Clever Tactix to excel at sport and study at UC
 ===============================================

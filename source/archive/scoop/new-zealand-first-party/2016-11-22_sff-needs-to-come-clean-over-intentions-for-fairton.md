@@ -1,9 +1,13 @@
 ---
 slug: sff-needs-to-come-clean-over-intentions-for-fairton
-title: "SFF Needs to Come Clean Over Intentions for Fairton"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/PA1611/S00413/sff-needs-to-come-clean-over-intentions-for-fairton.htm
+title: SFF Needs to Come Clean Over Intentions for Fairton
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00413/sff-needs-to-come-clean-over-intentions-for-fairton.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/22/sff-needs-to-come-clean-over-intentions-for-fairton/index.html
+layout: layout.njk
 ---
 SFF Needs to Come Clean Over Intentions for Fairton
 ===================================================

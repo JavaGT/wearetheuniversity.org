@@ -1,9 +1,13 @@
 ---
 slug: three-minute-thesis-winner-flies-across-the-ditch
-title: "Three minute thesis winner flies across the ditch"
-date: 2010-08-24
-source-url: https://www.scoop.co.nz/stories/ED1008/S00093/three-minute-thesis-winner-flies-across-the-ditch.htm
+title: Three minute thesis winner flies across the ditch
+date: 2010-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00093/three-minute-thesis-winner-flies-across-the-ditch.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/24/three-minute-thesis-winner-flies-across-the-ditch/index.html
+layout: layout.njk
 ---
 Three minute thesis winner flies across the ditch
 =================================================

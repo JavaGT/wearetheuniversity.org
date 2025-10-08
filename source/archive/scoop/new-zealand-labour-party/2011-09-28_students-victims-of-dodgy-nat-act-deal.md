@@ -1,9 +1,12 @@
 ---
 slug: students-victims-of-dodgy-nat-act-deal
-title: "Students victims of dodgy Nat-ACT deal"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00527/students-victims-of-dodgy-nat-act-deal.htm
+title: Students victims of dodgy Nat-ACT deal
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00527/students-victims-of-dodgy-nat-act-deal.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/28/students-victims-of-dodgy-nat-act-deal/index.html
+layout: layout.njk
 ---
 Students victims of dodgy Nat-ACT deal
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: transport-plan-for-canterbury-welcomed
-title: "Transport plan for Canterbury welcomed"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00001/transport-plan-for-canterbury-welcomed.htm
+title: Transport plan for Canterbury welcomed
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00001/transport-plan-for-canterbury-welcomed.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/02/01/transport-plan-for-canterbury-welcomed/index.html
+layout: layout.njk
 ---
 Transport plan for Canterbury welcomed
 ======================================

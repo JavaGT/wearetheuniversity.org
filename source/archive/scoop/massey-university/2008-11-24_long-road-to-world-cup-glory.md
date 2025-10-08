@@ -1,9 +1,11 @@
 ---
 slug: long-road-to-world-cup-glory
-title: "Long road to world cup glory"
-date: 2008-11-24
+title: Long road to world cup glory
+date: 2008-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0811/S00064/long-road-to-world-cup-glory.htm
 author: massey-university
+permalink: /archive/2008/11/24/long-road-to-world-cup-glory/index.html
+layout: layout.njk
 ---
 Long road to world cup glory
 ============================

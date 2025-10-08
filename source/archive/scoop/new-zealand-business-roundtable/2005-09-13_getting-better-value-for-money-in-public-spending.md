@@ -1,9 +1,13 @@
 ---
 slug: getting-better-value-for-money-in-public-spending
-title: "Getting Better Value for Money in Public Spending"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PO0509/S00153/getting-better-value-for-money-in-public-spending.htm
+title: Getting Better Value for Money in Public Spending
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00153/getting-better-value-for-money-in-public-spending.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2005/09/13/getting-better-value-for-money-in-public-spending/index.html
+layout: layout.njk
 ---
 Getting Better Value for Money in Public Spending
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: wartime-cat-and-dog-massacre-examined
-title: "Wartime cat and dog massacre examined"
-date: 2009-07-16
-source-url: https://www.scoop.co.nz/stories/CU0907/S00217/wartime-cat-and-dog-massacre-examined.htm
+title: Wartime cat and dog massacre examined
+date: 2009-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00217/wartime-cat-and-dog-massacre-examined.htm
 author: massey-university
+permalink: /archive/2009/07/16/wartime-cat-and-dog-massacre-examined/index.html
+layout: layout.njk
 ---
 Wartime cat and dog massacre examined
 =====================================

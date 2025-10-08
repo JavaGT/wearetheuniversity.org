@@ -1,9 +1,11 @@
 ---
 slug: art-by-mistake
-title: "Art by mistake?"
-date: 2010-08-03
+title: Art by mistake?
+date: 2010-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1008/S00009/art-by-mistake.htm
 author: university-of-waikato
+permalink: /archive/2010/08/03/art-by-mistake/index.html
+layout: layout.njk
 ---
 Art by mistake?
 ===============

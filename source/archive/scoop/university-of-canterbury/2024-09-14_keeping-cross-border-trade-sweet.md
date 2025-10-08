@@ -1,9 +1,12 @@
 ---
 slug: keeping-cross-border-trade-sweet
-title: "Keeping Cross-Border Trade Sweet"
-date: 2024-09-14
-source-url: https://www.scoop.co.nz/stories/BU2409/S00055/keeping-cross-border-trade-sweet.htm
+title: Keeping Cross-Border Trade Sweet
+date: 2024-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2409/S00055/keeping-cross-border-trade-sweet.htm
 author: university-of-canterbury
+permalink: /archive/2024/09/14/keeping-cross-border-trade-sweet/index.html
+layout: layout.njk
 ---
 Keeping Cross-Border Trade Sweet
 ================================

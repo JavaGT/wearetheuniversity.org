@@ -1,9 +1,12 @@
 ---
 slug: students-slam-loan-review-sham
-title: "Students Slam Loan Review Sham"
-date: 2001-10-30
-source-url: https://www.scoop.co.nz/stories/ED0110/S00037/students-slam-loan-review-sham.htm
+title: Students Slam Loan Review Sham
+date: 2001-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00037/students-slam-loan-review-sham.htm
 author: otago-university-students-association
+permalink: /archive/2001/10/30/students-slam-loan-review-sham/index.html
+layout: layout.njk
 ---
 Students Slam Loan Review Sham
 ==============================

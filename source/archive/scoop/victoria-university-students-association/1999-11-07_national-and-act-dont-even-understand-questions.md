@@ -1,9 +1,12 @@
 ---
 slug: national-and-act-dont-even-understand-questions
-title: "National and Act Don't Even Understand Questions"
-date: 1999-11-07
-source-url: https://www.scoop.co.nz/stories/PO9911/S00051/national-and-act-dont-even-understand-questions.htm
+title: National and Act Don't Even Understand Questions
+date: 1999-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00051/national-and-act-dont-even-understand-questions.htm
 author: victoria-university-students-association
+permalink: /archive/1999/11/07/national-and-act-dont-even-understand-questions/index.html
+layout: layout.njk
 ---
 National and Act Don't Even Understand Questions
 ================================================

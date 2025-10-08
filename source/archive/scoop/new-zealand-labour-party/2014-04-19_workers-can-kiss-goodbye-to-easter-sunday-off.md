@@ -1,9 +1,12 @@
 ---
 slug: workers-can-kiss-goodbye-to-easter-sunday-off
-title: "Workers can kiss goodbye to Easter Sunday off"
-date: 2014-04-19
-source-url: https://www.scoop.co.nz/stories/PA1404/S00341/workers-can-kiss-goodbye-to-easter-sunday-off.htm
+title: Workers can kiss goodbye to Easter Sunday off
+date: 2014-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00341/workers-can-kiss-goodbye-to-easter-sunday-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/19/workers-can-kiss-goodbye-to-easter-sunday-off/index.html
+layout: layout.njk
 ---
 Workers can kiss goodbye to Easter Sunday off
 =============================================

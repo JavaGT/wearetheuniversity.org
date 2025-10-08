@@ -1,9 +1,12 @@
 ---
 slug: bleak-prospects-for-sacked-telecom-workers
-title: "Bleak Prospects For Sacked Telecom Workers"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/PA1302/S00343/bleak-prospects-for-sacked-telecom-workers.htm
+title: Bleak Prospects For Sacked Telecom Workers
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00343/bleak-prospects-for-sacked-telecom-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/22/bleak-prospects-for-sacked-telecom-workers/index.html
+layout: layout.njk
 ---
 Bleak Prospects For Sacked Telecom Workers
 ==========================================

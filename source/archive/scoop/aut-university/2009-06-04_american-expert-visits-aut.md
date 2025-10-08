@@ -1,9 +1,11 @@
 ---
 slug: american-expert-visits-aut
-title: "American expert visits AUT"
-date: 2009-06-04
+title: American expert visits AUT
+date: 2009-06-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0906/S00077/american-expert-visits-aut.htm
 author: aut-university
+permalink: /archive/2009/06/04/american-expert-visits-aut/index.html
+layout: layout.njk
 ---
 American expert visits AUT
 ==========================

@@ -1,9 +1,16 @@
 ---
-slug: the-free-fares-campaign-urges-the-incoming-government-to-preserve-vital-public-transport-discounts
-title: "The Free Fares Campaign Urges The Incoming Government To Preserve Vital Public Transport Discounts"
-date: 2023-10-17
-source-url: https://www.scoop.co.nz/stories/AK2310/S00284/the-free-fares-campaign-urges-the-incoming-government-to-preserve-vital-public-transport-discounts.htm
+slug: >-
+  the-free-fares-campaign-urges-the-incoming-government-to-preserve-vital-public-transport-discounts
+title: >-
+  The Free Fares Campaign Urges The Incoming Government To Preserve Vital Public
+  Transport Discounts
+date: 2023-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2310/S00284/the-free-fares-campaign-urges-the-incoming-government-to-preserve-vital-public-transport-discounts.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2023/10/17/the-free-fares-campaign-urges-the-incoming-government-to-preserve-vital-public-transport-discounts/index.html
+layout: layout.njk
 ---
 The Free Fares Campaign Urges The Incoming Government To Preserve Vital Public Transport Discounts
 ==================================================================================================

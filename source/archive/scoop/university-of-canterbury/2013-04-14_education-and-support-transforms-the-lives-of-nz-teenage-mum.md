@@ -1,9 +1,13 @@
 ---
 slug: education-and-support-transforms-the-lives-of-nz-teenage-mum
-title: "Education and support transforms the lives of NZ teenage mum"
-date: 2013-04-14
-source-url: https://www.scoop.co.nz/stories/ED1304/S00089/education-and-support-transforms-the-lives-of-nz-teenage-mum.htm
+title: Education and support transforms the lives of NZ teenage mum
+date: 2013-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00089/education-and-support-transforms-the-lives-of-nz-teenage-mum.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/14/education-and-support-transforms-the-lives-of-nz-teenage-mum/index.html
+layout: layout.njk
 ---
 Education and support transforms the lives of NZ teenage mum
 ============================================================

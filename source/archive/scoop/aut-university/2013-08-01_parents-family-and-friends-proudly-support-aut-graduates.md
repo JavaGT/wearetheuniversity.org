@@ -1,9 +1,13 @@
 ---
 slug: parents-family-and-friends-proudly-support-aut-graduates
-title: "Parents, family and friends proudly support AUT graduates"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/ED1308/S00006/parents-family-and-friends-proudly-support-aut-graduates.htm
+title: Parents, family and friends proudly support AUT graduates
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00006/parents-family-and-friends-proudly-support-aut-graduates.htm
 author: aut-university
+permalink: >-
+  /archive/2013/08/01/parents-family-and-friends-proudly-support-aut-graduates/index.html
+layout: layout.njk
 ---
 Parents, family and friends proudly support AUT graduates
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: quarter-of-a-century-of-failed-cannabis-policy
-title: "Quarter Of A Century Of Failed Cannabis Policy"
-date: 2000-10-10
-source-url: https://www.scoop.co.nz/stories/PA0010/S00203/quarter-of-a-century-of-failed-cannabis-policy.htm
+title: Quarter Of A Century Of Failed Cannabis Policy
+date: 2000-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00203/quarter-of-a-century-of-failed-cannabis-policy.htm
 author: green-party
+permalink: /archive/2000/10/10/quarter-of-a-century-of-failed-cannabis-policy/index.html
+layout: layout.njk
 ---
 Quarter Of A Century Of Failed Cannabis Policy
 ==============================================

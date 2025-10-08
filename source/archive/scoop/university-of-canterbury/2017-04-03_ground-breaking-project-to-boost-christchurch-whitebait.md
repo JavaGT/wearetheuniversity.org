@@ -1,9 +1,13 @@
 ---
 slug: ground-breaking-project-to-boost-christchurch-whitebait
-title: "Ground-breaking project to boost Christchurch whitebait"
-date: 2017-04-03
-source-url: https://www.scoop.co.nz/stories/SC1704/S00004/ground-breaking-project-to-boost-christchurch-whitebait.htm
+title: Ground-breaking project to boost Christchurch whitebait
+date: 2017-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00004/ground-breaking-project-to-boost-christchurch-whitebait.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/03/ground-breaking-project-to-boost-christchurch-whitebait/index.html
+layout: layout.njk
 ---
 Ground-breaking project to boost Christchurch whitebait
 =======================================================

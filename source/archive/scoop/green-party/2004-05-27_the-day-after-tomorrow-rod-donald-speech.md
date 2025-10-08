@@ -1,9 +1,12 @@
 ---
 slug: the-day-after-tomorrow-rod-donald-speech
-title: "The Day After Tomorrow - Rod Donald Speech"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00625/the-day-after-tomorrow-rod-donald-speech.htm
+title: The Day After Tomorrow - Rod Donald Speech
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00625/the-day-after-tomorrow-rod-donald-speech.htm
 author: green-party
+permalink: /archive/2004/05/27/the-day-after-tomorrow-rod-donald-speech/index.html
+layout: layout.njk
 ---
 The Day After Tomorrow - Rod Donald Speech
 ==========================================

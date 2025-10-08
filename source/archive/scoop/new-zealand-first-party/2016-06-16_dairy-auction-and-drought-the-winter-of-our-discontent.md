@@ -1,9 +1,13 @@
 ---
 slug: dairy-auction-and-drought-the-winter-of-our-discontent
-title: "Dairy Auction And Drought \"the Winter of Our Discontent\""
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PA1606/S00270/dairy-auction-and-drought-the-winter-of-our-discontent.htm
+title: Dairy Auction And Drought "the Winter of Our Discontent"
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00270/dairy-auction-and-drought-the-winter-of-our-discontent.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/16/dairy-auction-and-drought-the-winter-of-our-discontent/index.html
+layout: layout.njk
 ---
 Dairy Auction And Drought “the Winter of Our Discontent”
 ========================================================

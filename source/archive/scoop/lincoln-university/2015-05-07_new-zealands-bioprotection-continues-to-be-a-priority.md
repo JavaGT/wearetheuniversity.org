@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-bioprotection-continues-to-be-a-priority
-title: "New Zealand’s bioprotection continues to be a priority"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/SC1505/S00020/new-zealands-bioprotection-continues-to-be-a-priority.htm
+title: New Zealand’s bioprotection continues to be a priority
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00020/new-zealands-bioprotection-continues-to-be-a-priority.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/07/new-zealands-bioprotection-continues-to-be-a-priority/index.html
+layout: layout.njk
 ---
 New Zealand’s bioprotection continues to be a priority
 ======================================================

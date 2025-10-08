@@ -1,9 +1,12 @@
 ---
 slug: university-leads-the-way-with-cyber-security
-title: "University leads the way with cyber security"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/ED1406/S00118/university-leads-the-way-with-cyber-security.htm
+title: University leads the way with cyber security
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00118/university-leads-the-way-with-cyber-security.htm
 author: university-of-waikato
+permalink: /archive/2014/06/23/university-leads-the-way-with-cyber-security/index.html
+layout: layout.njk
 ---
 University leads the way with cyber security
 ============================================

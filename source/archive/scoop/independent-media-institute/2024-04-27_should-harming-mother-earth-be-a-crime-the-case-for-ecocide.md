@@ -1,9 +1,13 @@
 ---
 slug: should-harming-mother-earth-be-a-crime-the-case-for-ecocide
-title: "Should Harming Mother Earth Be A Crime? The Case For Ecocide"
-date: 2024-04-27
-source-url: https://www.scoop.co.nz/stories/WO2404/S00230/should-harming-mother-earth-be-a-crime-the-case-for-ecocide.htm
+title: Should Harming Mother Earth Be A Crime? The Case For Ecocide
+date: 2024-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2404/S00230/should-harming-mother-earth-be-a-crime-the-case-for-ecocide.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/04/27/should-harming-mother-earth-be-a-crime-the-case-for-ecocide/index.html
+layout: layout.njk
 ---
 Should Harming Mother Earth Be A Crime? The Case For Ecocide
 ============================================================

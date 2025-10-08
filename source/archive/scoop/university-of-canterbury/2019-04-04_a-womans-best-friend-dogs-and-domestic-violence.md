@@ -1,9 +1,12 @@
 ---
 slug: a-womans-best-friend-dogs-and-domestic-violence
-title: "A woman’s best friend – dogs and domestic violence"
-date: 2019-04-04
-source-url: https://www.scoop.co.nz/stories/CU1904/S00071/a-womans-best-friend-dogs-and-domestic-violence.htm
+title: A woman’s best friend – dogs and domestic violence
+date: 2019-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1904/S00071/a-womans-best-friend-dogs-and-domestic-violence.htm
 author: university-of-canterbury
+permalink: /archive/2019/04/04/a-womans-best-friend-dogs-and-domestic-violence/index.html
+layout: layout.njk
 ---
 A woman’s best friend – dogs and domestic violence
 ==================================================

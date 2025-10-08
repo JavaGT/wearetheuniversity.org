@@ -1,9 +1,12 @@
 ---
 slug: nz-to-assist-earthquake-relief-efforts-in-peru
-title: "NZ to assist earthquake relief efforts in Peru"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/PA0708/S00558/nz-to-assist-earthquake-relief-efforts-in-peru.htm
+title: NZ to assist earthquake relief efforts in Peru
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00558/nz-to-assist-earthquake-relief-efforts-in-peru.htm
 author: green-party
+permalink: /archive/2007/08/31/nz-to-assist-earthquake-relief-efforts-in-peru/index.html
+layout: layout.njk
 ---
 NZ to assist earthquake relief efforts in Peru
 ==============================================

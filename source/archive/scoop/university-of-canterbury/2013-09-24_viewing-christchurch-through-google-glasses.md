@@ -1,9 +1,12 @@
 ---
 slug: viewing-christchurch-through-google-glasses
-title: "Viewing Christchurch Through Google Glasses"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/AK1309/S00787/viewing-christchurch-through-google-glasses.htm
+title: Viewing Christchurch Through Google Glasses
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00787/viewing-christchurch-through-google-glasses.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/24/viewing-christchurch-through-google-glasses/index.html
+layout: layout.njk
 ---
 Viewing Christchurch Through Google Glasses
 ===========================================

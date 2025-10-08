@@ -1,9 +1,12 @@
 ---
 slug: students-frustrated-by-nine-billion-dollar-debt
-title: "Students Frustrated by Nine Billion Dollar Debt"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00104/students-frustrated-by-nine-billion-dollar-debt.htm
+title: Students Frustrated by Nine Billion Dollar Debt
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00104/students-frustrated-by-nine-billion-dollar-debt.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2007/03/28/students-frustrated-by-nine-billion-dollar-debt/index.html
+layout: layout.njk
 ---
 Students Frustrated by Nine Billion Dollar Debt
 ===============================================

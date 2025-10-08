@@ -1,9 +1,12 @@
 ---
 slug: heart-patients-at-risk-inquiry-needed
-title: "Heart patients at risk - inquiry needed"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00464/heart-patients-at-risk-inquiry-needed.htm
+title: Heart patients at risk - inquiry needed
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00464/heart-patients-at-risk-inquiry-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/25/heart-patients-at-risk-inquiry-needed/index.html
+layout: layout.njk
 ---
 Heart patients at risk - inquiry needed
 =======================================

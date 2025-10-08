@@ -1,9 +1,12 @@
 ---
 slug: clinicians-reject-smiths-acc-abuse-guidelines
-title: "Clinicians reject Smith’s ACC abuse guidelines"
-date: 2010-04-01
-source-url: https://www.scoop.co.nz/stories/PA1004/S00028/clinicians-reject-smiths-acc-abuse-guidelines.htm
+title: Clinicians reject Smith’s ACC abuse guidelines
+date: 2010-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00028/clinicians-reject-smiths-acc-abuse-guidelines.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/01/clinicians-reject-smiths-acc-abuse-guidelines/index.html
+layout: layout.njk
 ---
 Clinicians reject Smith’s ACC abuse guidelines
 ==============================================

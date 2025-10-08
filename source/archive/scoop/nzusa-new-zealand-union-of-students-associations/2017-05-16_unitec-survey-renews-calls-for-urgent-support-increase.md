@@ -1,9 +1,13 @@
 ---
 slug: unitec-survey-renews-calls-for-urgent-support-increase
-title: "Unitec survey renews calls for urgent support increase"
-date: 2017-05-16
-source-url: https://www.scoop.co.nz/stories/PO1705/S00200/unitec-survey-renews-calls-for-urgent-support-increase.htm
+title: Unitec survey renews calls for urgent support increase
+date: 2017-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00200/unitec-survey-renews-calls-for-urgent-support-increase.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/05/16/unitec-survey-renews-calls-for-urgent-support-increase/index.html
+layout: layout.njk
 ---
 Unitec survey renews calls for urgent support increase
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: hide-speech-why-i-believe-in-freedom
-title: "Hide Speech: Why I Believe In Freedom"
-date: 2004-06-21
-source-url: https://www.scoop.co.nz/stories/PA0406/S00300/hide-speech-why-i-believe-in-freedom.htm
+title: 'Hide Speech: Why I Believe In Freedom'
+date: 2004-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00300/hide-speech-why-i-believe-in-freedom.htm
 author: act-new-zealand
+permalink: /archive/2004/06/21/hide-speech-why-i-believe-in-freedom/index.html
+layout: layout.njk
 ---
 Hide Speech: Why I Believe In Freedom
 =====================================

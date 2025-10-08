@@ -1,9 +1,12 @@
 ---
 slug: census-colonial-politicians-prediction-wrong
-title: "Census: Colonial Politician’s Prediction Wrong"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00414/census-colonial-politicians-prediction-wrong.htm
+title: 'Census: Colonial Politician’s Prediction Wrong'
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00414/census-colonial-politicians-prediction-wrong.htm
 author: te-pati-maori
+permalink: /archive/2007/03/21/census-colonial-politicians-prediction-wrong/index.html
+layout: layout.njk
 ---
 Census: Colonial Politician’s Prediction Wrong
 ==============================================

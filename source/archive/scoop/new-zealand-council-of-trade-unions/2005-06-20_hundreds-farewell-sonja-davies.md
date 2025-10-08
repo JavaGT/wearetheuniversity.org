@@ -1,9 +1,12 @@
 ---
 slug: hundreds-farewell-sonja-davies
-title: "Hundreds Farewell Sonja Davies"
-date: 2005-06-20
-source-url: https://www.scoop.co.nz/stories/CU0506/S00147/hundreds-farewell-sonja-davies.htm
+title: Hundreds Farewell Sonja Davies
+date: 2005-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0506/S00147/hundreds-farewell-sonja-davies.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/06/20/hundreds-farewell-sonja-davies/index.html
+layout: layout.njk
 ---
 Hundreds Farewell Sonja Davies
 ==============================

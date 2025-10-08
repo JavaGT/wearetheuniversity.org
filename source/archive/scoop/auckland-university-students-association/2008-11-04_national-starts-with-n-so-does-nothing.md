@@ -1,9 +1,12 @@
 ---
 slug: national-starts-with-n-so-does-nothing
-title: "'National' starts with 'N'...so does 'Nothing'"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/ED0811/S00003/national-starts-with-nso-does-nothing.htm
+title: '''National'' starts with ''N''...so does ''Nothing'''
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00003/national-starts-with-nso-does-nothing.htm
 author: auckland-university-students-association
+permalink: /archive/2008/11/04/national-starts-with-n-so-does-nothing/index.html
+layout: layout.njk
 ---
 'National' starts with 'N'...so does 'Nothing'
 ==============================================

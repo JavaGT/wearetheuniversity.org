@@ -1,9 +1,13 @@
 ---
 slug: constitution-conversation-roadshow-comes-to-auckland
-title: "Constitution Conversation Roadshow Comes to Auckland"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/PO1303/S00024/constitution-conversation-roadshow-comes-to-auckland.htm
+title: Constitution Conversation Roadshow Comes to Auckland
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00024/constitution-conversation-roadshow-comes-to-auckland.htm
 author: ausa
+permalink: >-
+  /archive/2013/03/01/constitution-conversation-roadshow-comes-to-auckland/index.html
+layout: layout.njk
 ---
 Constitution Conversation Roadshow Comes to Auckland
 ====================================================

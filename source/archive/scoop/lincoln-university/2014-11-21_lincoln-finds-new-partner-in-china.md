@@ -1,9 +1,12 @@
 ---
 slug: lincoln-finds-new-partner-in-china
-title: "Lincoln finds new partner in China"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/BU1411/S00874/lincoln-finds-new-partner-in-china.htm
+title: Lincoln finds new partner in China
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1411/S00874/lincoln-finds-new-partner-in-china.htm
 author: lincoln-university
+permalink: /archive/2014/11/21/lincoln-finds-new-partner-in-china/index.html
+layout: layout.njk
 ---
 Lincoln finds new partner in China
 ==================================

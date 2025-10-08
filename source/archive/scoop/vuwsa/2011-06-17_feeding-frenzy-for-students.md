@@ -1,9 +1,11 @@
 ---
 slug: feeding-frenzy-for-students
-title: "Feeding frenzy for students"
-date: 2011-06-17
+title: Feeding frenzy for students
+date: 2011-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1106/S00072/feeding-frenzy-for-students.htm
 author: vuwsa
+permalink: /archive/2011/06/17/feeding-frenzy-for-students/index.html
+layout: layout.njk
 ---
 Feeding frenzy for students
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-powers-allow-govt-to-ignore-public
-title: "Christchurch powers allow Govt to ignore public"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/PA1502/S00069/christchurch-powers-allow-govt-to-ignore-public.htm
+title: Christchurch powers allow Govt to ignore public
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00069/christchurch-powers-allow-govt-to-ignore-public.htm
 author: green-party
+permalink: /archive/2015/02/09/christchurch-powers-allow-govt-to-ignore-public/index.html
+layout: layout.njk
 ---
 Christchurch powers allow Govt to ignore public
 ===============================================

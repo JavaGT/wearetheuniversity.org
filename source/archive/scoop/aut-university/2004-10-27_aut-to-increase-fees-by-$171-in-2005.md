@@ -1,9 +1,12 @@
 ---
 slug: aut-to-increase-fees-by-$171-in-2005
-title: "AUT to increase fees by $171 in 2005"
-date: 2004-10-27
-source-url: https://www.scoop.co.nz/stories/ED0410/S00093/aut-to-increase-fees-by-171-in-2005.htm
+title: AUT to increase fees by $171 in 2005
+date: 2004-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00093/aut-to-increase-fees-by-171-in-2005.htm
 author: aut-university
+permalink: /archive/2004/10/27/aut-to-increase-fees-by-/index.html
+layout: layout.njk
 ---
 AUT to increase fees by $171 in 2005
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: protecting-pasture-from-predators
-title: "Protecting pasture from predators"
-date: 2009-01-16
-source-url: https://www.scoop.co.nz/stories/SC0901/S00023/protecting-pasture-from-predators.htm
+title: Protecting pasture from predators
+date: 2009-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0901/S00023/protecting-pasture-from-predators.htm
 author: lincoln-university
+permalink: /archive/2009/01/16/protecting-pasture-from-predators/index.html
+layout: layout.njk
 ---
 Protecting pasture from predators
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: corporate-bullying-in-east-asia-in-three-minutes
-title: "Corporate bullying in East Asia in three minutes"
-date: 2010-10-29
-source-url: https://www.scoop.co.nz/stories/ED1010/S00105/corporate-bullying-in-east-asia-in-three-minutes.htm
+title: Corporate bullying in East Asia in three minutes
+date: 2010-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00105/corporate-bullying-in-east-asia-in-three-minutes.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/10/29/corporate-bullying-in-east-asia-in-three-minutes/index.html
+layout: layout.njk
 ---
 Corporate bullying in East Asia in three minutes
 ================================================

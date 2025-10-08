@@ -1,9 +1,13 @@
 ---
 slug: high-school-students-role-models-of-youth-leadership
-title: "High school students role models of youth leadership"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/ED1108/S00125/high-school-students-role-models-of-youth-leadership.htm
+title: High school students role models of youth leadership
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00125/high-school-students-role-models-of-youth-leadership.htm
 author: aut-university
+permalink: >-
+  /archive/2011/08/24/high-school-students-role-models-of-youth-leadership/index.html
+layout: layout.njk
 ---
 High school students role models of youth leadership
 ====================================================

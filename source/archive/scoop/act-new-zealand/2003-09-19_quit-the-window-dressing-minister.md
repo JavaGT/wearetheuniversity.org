@@ -1,9 +1,12 @@
 ---
 slug: quit-the-window-dressing-minister
-title: "Quit The Window Dressing Minister"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/PA0309/S00437/quit-the-window-dressing-minister.htm
+title: Quit The Window Dressing Minister
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00437/quit-the-window-dressing-minister.htm
 author: act-new-zealand
+permalink: /archive/2003/09/19/quit-the-window-dressing-minister/index.html
+layout: layout.njk
 ---
 Quit The Window Dressing Minister
 =================================

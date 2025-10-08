@@ -1,9 +1,13 @@
 ---
 slug: new-study-reveals-massive-impact-of-concussions-on-nz-incomes-and-employment
-title: "New Study Reveals \"Massive\" Impact Of Concussions On NZ Incomes And Employment"
-date: 2024-09-26
-source-url: https://www.scoop.co.nz/stories/GE2409/S00103/new-study-reveals-massive-impact-of-concussions-on-nz-incomes-and-employment.htm
+title: New Study Reveals "Massive" Impact Of Concussions On NZ Incomes And Employment
+date: 2024-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2409/S00103/new-study-reveals-massive-impact-of-concussions-on-nz-incomes-and-employment.htm
 author: aut-university
+permalink: >-
+  /archive/2024/09/26/new-study-reveals-massive-impact-of-concussions-on-nz-incomes-and-employment/index.html
+layout: layout.njk
 ---
 New Study Reveals “Massive” Impact Of Concussions On NZ Incomes And Employment
 ==============================================================================

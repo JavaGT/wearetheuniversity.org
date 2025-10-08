@@ -1,9 +1,13 @@
 ---
 slug: bishops-to-receive-university-of-waikatos-highest-honour
-title: "Bishops to receive University of Waikato’s highest honour"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/ED1604/S00031/bishops-to-receive-university-of-waikatos-highest-honour.htm
+title: Bishops to receive University of Waikato’s highest honour
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00031/bishops-to-receive-university-of-waikatos-highest-honour.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/04/11/bishops-to-receive-university-of-waikatos-highest-honour/index.html
+layout: layout.njk
 ---
 Bishops to receive University of Waikato’s highest honour
 =========================================================

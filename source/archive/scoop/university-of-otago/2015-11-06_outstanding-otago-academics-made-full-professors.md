@@ -1,9 +1,13 @@
 ---
 slug: outstanding-otago-academics-made-full-professors
-title: "Outstanding Otago academics made full professors"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/ED1511/S00043/outstanding-otago-academics-made-full-professors.htm
+title: Outstanding Otago academics made full professors
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00043/outstanding-otago-academics-made-full-professors.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/06/outstanding-otago-academics-made-full-professors/index.html
+layout: layout.njk
 ---
 Outstanding Otago academics made full professors
 ================================================

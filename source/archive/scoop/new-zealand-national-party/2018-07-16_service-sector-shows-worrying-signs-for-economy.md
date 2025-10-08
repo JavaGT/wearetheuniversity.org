@@ -1,9 +1,12 @@
 ---
 slug: service-sector-shows-worrying-signs-for-economy
-title: "Service sector shows worrying signs for economy"
-date: 2018-07-16
-source-url: https://www.scoop.co.nz/stories/PA1807/S00134/service-sector-shows-worrying-signs-for-economy.htm
+title: Service sector shows worrying signs for economy
+date: 2018-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00134/service-sector-shows-worrying-signs-for-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/16/service-sector-shows-worrying-signs-for-economy/index.html
+layout: layout.njk
 ---
 Service sector shows worrying signs for economy
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: black-budget-for-students
-title: "Black Budget for Students"
-date: 2012-05-01
+title: Black Budget for Students
+date: 2012-05-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00022/black-budget-for-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/01/black-budget-for-students/index.html
+layout: layout.njk
 ---
 Black Budget for Students
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: action-on-npsfm-needed-urgently
-title: "Action On NPSFM Needed Urgently"
-date: 2024-09-26
-source-url: https://www.scoop.co.nz/stories/PA2409/S00257/action-on-npsfm-needed-urgently.htm
+title: Action On NPSFM Needed Urgently
+date: 2024-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00257/action-on-npsfm-needed-urgently.htm
 author: act-new-zealand
+permalink: /archive/2024/09/26/action-on-npsfm-needed-urgently/index.html
+layout: layout.njk
 ---
 Action On NPSFM Needed Urgently
 ===============================

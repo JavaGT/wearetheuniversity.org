@@ -1,9 +1,12 @@
 ---
 slug: miq-changes-dont-go-nearly-far-enough
-title: "MIQ Changes Don’t Go Nearly Far Enough"
-date: 2021-10-28
-source-url: https://www.scoop.co.nz/stories/PA2110/S00296/miq-changes-dont-go-nearly-far-enough.htm
+title: MIQ Changes Don’t Go Nearly Far Enough
+date: 2021-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00296/miq-changes-dont-go-nearly-far-enough.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/28/miq-changes-dont-go-nearly-far-enough/index.html
+layout: layout.njk
 ---
 MIQ Changes Don’t Go Nearly Far Enough
 ======================================

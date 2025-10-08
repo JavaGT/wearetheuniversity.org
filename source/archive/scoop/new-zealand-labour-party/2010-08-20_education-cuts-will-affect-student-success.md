@@ -1,9 +1,12 @@
 ---
 slug: education-cuts-will-affect-student-success
-title: "Education cuts will affect student success"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/PA1008/S00313/education-cuts-will-affect-student-success.htm
+title: Education cuts will affect student success
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00313/education-cuts-will-affect-student-success.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/20/education-cuts-will-affect-student-success/index.html
+layout: layout.njk
 ---
 Education cuts will affect student success
 ==========================================

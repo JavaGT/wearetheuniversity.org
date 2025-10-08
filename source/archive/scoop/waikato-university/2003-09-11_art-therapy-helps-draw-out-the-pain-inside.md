@@ -1,9 +1,12 @@
 ---
 slug: art-therapy-helps-draw-out-the-pain-inside
-title: "Art Therapy Helps Draw Out The Pain Inside"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/ED0309/S00054/art-therapy-helps-draw-out-the-pain-inside.htm
+title: Art Therapy Helps Draw Out The Pain Inside
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00054/art-therapy-helps-draw-out-the-pain-inside.htm
 author: waikato-university
+permalink: /archive/2003/09/11/art-therapy-helps-draw-out-the-pain-inside/index.html
+layout: layout.njk
 ---
 Art Therapy Helps Draw Out The Pain Inside
 ==========================================

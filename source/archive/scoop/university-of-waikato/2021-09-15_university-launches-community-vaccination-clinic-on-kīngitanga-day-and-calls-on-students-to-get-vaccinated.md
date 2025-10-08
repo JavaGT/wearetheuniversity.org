@@ -1,9 +1,16 @@
 ---
-slug: university-launches-community-vaccination-clinic-on-kīngitanga-day-and-calls-on-students-to-get-vaccinated
-title: "University launches community vaccination clinic on Kīngitanga Day and calls on students to get vaccinated"
-date: 2021-09-15
-source-url: https://www.scoop.co.nz/stories/ED2109/S00027/university-launches-community-vaccination-clinic-on-kingitanga-day-and-calls-on-students-to-get-vaccinated.htm
+slug: >-
+  university-launches-community-vaccination-clinic-on-kīngitanga-day-and-calls-on-students-to-get-vaccinated
+title: >-
+  University launches community vaccination clinic on Kīngitanga Day and calls
+  on students to get vaccinated
+date: 2021-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00027/university-launches-community-vaccination-clinic-on-kingitanga-day-and-calls-on-students-to-get-vaccinated.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/09/15/university-launches-community-vaccination-clinic-on-k/index.html
+layout: layout.njk
 ---
 University launches community vaccination clinic on Kīngitanga Day and calls on students to get vaccinated
 ==========================================================================================================

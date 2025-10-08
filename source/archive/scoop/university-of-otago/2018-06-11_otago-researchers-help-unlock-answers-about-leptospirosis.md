@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-help-unlock-answers-about-leptospirosis
-title: "Otago researchers help unlock answers about leptospirosis"
-date: 2018-06-11
-source-url: https://www.scoop.co.nz/stories/SC1806/S00022/otago-researchers-help-unlock-answers-about-leptospirosis.htm
+title: Otago researchers help unlock answers about leptospirosis
+date: 2018-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00022/otago-researchers-help-unlock-answers-about-leptospirosis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/11/otago-researchers-help-unlock-answers-about-leptospirosis/index.html
+layout: layout.njk
 ---
 Otago researchers help unlock answers about leptospirosis
 =========================================================

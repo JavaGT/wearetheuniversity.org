@@ -1,9 +1,12 @@
 ---
 slug: student-health-charge-to-double-next-year
-title: "Student Health charge to double next year"
-date: 2000-09-26
-source-url: https://www.scoop.co.nz/stories/ED0009/S00044/student-health-charge-to-double-next-year.htm
+title: Student Health charge to double next year
+date: 2000-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00044/student-health-charge-to-double-next-year.htm
 author: otago-university-students-association
+permalink: /archive/2000/09/26/student-health-charge-to-double-next-year/index.html
+layout: layout.njk
 ---
 Student Health charge to double next year
 =========================================

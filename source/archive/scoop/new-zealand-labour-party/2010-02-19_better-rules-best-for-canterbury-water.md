@@ -1,9 +1,12 @@
 ---
 slug: better-rules-best-for-canterbury-water
-title: "Better Rules Best For Canterbury Water"
-date: 2010-02-19
-source-url: https://www.scoop.co.nz/stories/PA1002/S00289/better-rules-best-for-canterbury-water.htm
+title: Better Rules Best For Canterbury Water
+date: 2010-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00289/better-rules-best-for-canterbury-water.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/19/better-rules-best-for-canterbury-water/index.html
+layout: layout.njk
 ---
 Better Rules Best For Canterbury Water
 ======================================

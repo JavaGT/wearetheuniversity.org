@@ -1,9 +1,12 @@
 ---
 slug: study-aims-to-boost-rugby-players-prowess
-title: "Study aims to boost rugby players’ prowess"
-date: 2016-03-08
-source-url: https://www.scoop.co.nz/stories/CU1603/S00175/study-aims-to-boost-rugby-players-prowess.htm
+title: Study aims to boost rugby players’ prowess
+date: 2016-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00175/study-aims-to-boost-rugby-players-prowess.htm
 author: lincoln-university
+permalink: /archive/2016/03/08/study-aims-to-boost-rugby-players-prowess/index.html
+layout: layout.njk
 ---
 Study aims to boost rugby players’ prowess
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: taiwan-tapping-into-ucs-ict-strengths
-title: "Taiwan tapping into UC's ICT strengths"
-date: 2008-09-04
-source-url: https://www.scoop.co.nz/stories/BU0809/S00091/taiwan-tapping-into-ucs-ict-strengths.htm
+title: Taiwan tapping into UC's ICT strengths
+date: 2008-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0809/S00091/taiwan-tapping-into-ucs-ict-strengths.htm
 author: university-of-canterbury
+permalink: /archive/2008/09/04/taiwan-tapping-into-ucs-ict-strengths/index.html
+layout: layout.njk
 ---
 Taiwan tapping into UC's ICT strengths
 ======================================

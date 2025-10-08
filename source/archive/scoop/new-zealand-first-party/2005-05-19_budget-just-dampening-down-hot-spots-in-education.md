@@ -1,9 +1,13 @@
 ---
 slug: budget-just-dampening-down-hot-spots-in-education
-title: "Budget Just Dampening Down Hot Spots In Education"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00520/budget-just-dampening-down-hot-spots-in-education.htm
+title: Budget Just Dampening Down Hot Spots In Education
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00520/budget-just-dampening-down-hot-spots-in-education.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2005/05/19/budget-just-dampening-down-hot-spots-in-education/index.html
+layout: layout.njk
 ---
 Budget Just Dampening Down Hot Spots In Education
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-debt-funds-budget-surplus
-title: "Student Debt Funds Budget Surplus"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/ED0705/S00073/student-debt-funds-budget-surplus.htm
+title: Student Debt Funds Budget Surplus
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00073/student-debt-funds-budget-surplus.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/05/18/student-debt-funds-budget-surplus/index.html
+layout: layout.njk
 ---
 Student Debt Funds Budget Surplus
 =================================

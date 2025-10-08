@@ -1,9 +1,13 @@
 ---
 slug: victoria-professor-advocates-simplified-accounting-standards
-title: "Victoria professor advocates simplified accounting standards"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/BU1108/S00103/victoria-professor-advocates-simplified-accounting-standards.htm
+title: Victoria professor advocates simplified accounting standards
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S00103/victoria-professor-advocates-simplified-accounting-standards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/03/victoria-professor-advocates-simplified-accounting-standards/index.html
+layout: layout.njk
 ---
 Victoria professor advocates simplified accounting standards
 ============================================================

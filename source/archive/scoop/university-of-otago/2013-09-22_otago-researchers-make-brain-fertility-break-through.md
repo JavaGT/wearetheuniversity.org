@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-make-brain-fertility-break-through
-title: "Otago researchers make brain fertility break-through"
-date: 2013-09-22
-source-url: https://www.scoop.co.nz/stories/SC1309/S00056/otago-researchers-make-brain-fertility-break-through.htm
+title: Otago researchers make brain fertility break-through
+date: 2013-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00056/otago-researchers-make-brain-fertility-break-through.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/22/otago-researchers-make-brain-fertility-break-through/index.html
+layout: layout.njk
 ---
 Otago researchers make brain fertility break-through
 ====================================================

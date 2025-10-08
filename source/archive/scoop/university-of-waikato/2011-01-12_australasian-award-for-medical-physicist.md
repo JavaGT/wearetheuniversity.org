@@ -1,9 +1,12 @@
 ---
 slug: australasian-award-for-medical-physicist
-title: "Australasian award for medical physicist"
-date: 2011-01-12
-source-url: https://www.scoop.co.nz/stories/GE1101/S00018/australasian-award-for-medical-physicist.htm
+title: Australasian award for medical physicist
+date: 2011-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1101/S00018/australasian-award-for-medical-physicist.htm
 author: university-of-waikato
+permalink: /archive/2011/01/12/australasian-award-for-medical-physicist/index.html
+layout: layout.njk
 ---
 Australasian award for medical physicist
 ========================================

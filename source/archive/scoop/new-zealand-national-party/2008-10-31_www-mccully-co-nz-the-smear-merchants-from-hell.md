@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-the-smear-merchants-from-hell
-title: "www.mccully.co.nz - The Smear Merchants from Hell"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/PA0810/S00689/wwwmccullyconz-the-smear-merchants-from-hell.htm
+title: www.mccully.co.nz - The Smear Merchants from Hell
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00689/wwwmccullyconz-the-smear-merchants-from-hell.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/31/www-mccully-co-nz-the-smear-merchants-from-hell/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - The Smear Merchants from Hell
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: does-labour-think-kiwis-are-stupid
-title: "Does Labour Think Kiwis Are Stupid?"
-date: 2023-04-19
-source-url: https://www.scoop.co.nz/stories/PA2304/S00125/does-labour-think-kiwis-are-stupid.htm
+title: Does Labour Think Kiwis Are Stupid?
+date: 2023-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00125/does-labour-think-kiwis-are-stupid.htm
 author: act-new-zealand
+permalink: /archive/2023/04/19/does-labour-think-kiwis-are-stupid/index.html
+layout: layout.njk
 ---
 Does Labour Think Kiwis Are Stupid?
 ===================================

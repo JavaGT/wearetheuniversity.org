@@ -1,9 +1,11 @@
 ---
 slug: smoke-mirrors-and-jam-jars
-title: "Smoke, mirrors and jam jars"
-date: 2011-10-31
+title: Smoke, mirrors and jam jars
+date: 2011-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1110/S00558/smoke-mirrors-and-jam-jars.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/10/31/smoke-mirrors-and-jam-jars/index.html
+layout: layout.njk
 ---
 Smoke, mirrors and jam jars
 ===========================

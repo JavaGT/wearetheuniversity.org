@@ -1,9 +1,12 @@
 ---
 slug: dawn-blessing-for-masseys-new-student-central
-title: "Dawn blessing for Massey’s new ‘Student Central’"
-date: 2012-02-10
-source-url: https://www.scoop.co.nz/stories/ED1202/S00048/dawn-blessing-for-masseys-new-student-central.htm
+title: Dawn blessing for Massey’s new ‘Student Central’
+date: 2012-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00048/dawn-blessing-for-masseys-new-student-central.htm
 author: massey-university
+permalink: /archive/2012/02/10/dawn-blessing-for-masseys-new-student-central/index.html
+layout: layout.njk
 ---
 Dawn blessing for Massey’s new ‘Student Central’
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-collaboration-between-tertiary-orgs
-title: "Call for collaboration between tertiary orgs"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/ED0701/S00036/call-for-collaboration-between-tertiary-orgs.htm
+title: Call for collaboration between tertiary orgs
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00036/call-for-collaboration-between-tertiary-orgs.htm
 author: association-of-university-staff
+permalink: /archive/2007/01/30/call-for-collaboration-between-tertiary-orgs/index.html
+layout: layout.njk
 ---
 Call for collaboration between tertiary orgs
 ============================================

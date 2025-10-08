@@ -1,9 +1,13 @@
 ---
 slug: opening-door-to-nth-auckland-bluff-oyster-fishery
-title: "Opening Door To Nth. Auckland Bluff Oyster Fishery"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/SC0202/S00004/opening-door-to-nth-auckland-bluff-oyster-fishery.htm
+title: Opening Door To Nth. Auckland Bluff Oyster Fishery
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0202/S00004/opening-door-to-nth-auckland-bluff-oyster-fishery.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/02/07/opening-door-to-nth-auckland-bluff-oyster-fishery/index.html
+layout: layout.njk
 ---
 Opening Door To Nth. Auckland Bluff Oyster Fishery
 ==================================================

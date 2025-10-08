@@ -1,9 +1,12 @@
 ---
 slug: taskforce-recommendations-take-education-back
-title: "Taskforce Recommendations Take Education Back"
-date: 2009-12-01
-source-url: https://www.scoop.co.nz/stories/ED0912/S00001/taskforce-recommendations-take-education-back.htm
+title: Taskforce Recommendations Take Education Back
+date: 2009-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00001/taskforce-recommendations-take-education-back.htm
 author: nzei
+permalink: /archive/2009/12/01/taskforce-recommendations-take-education-back/index.html
+layout: layout.njk
 ---
 Taskforce Recommendations Take Education Back
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: choc-rewards-prompts-survey-buy-in
-title: "Choc rewards prompts survey buy-in"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/ED0604/S00053/choc-rewards-prompts-survey-buy-in.htm
+title: Choc rewards prompts survey buy-in
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00053/choc-rewards-prompts-survey-buy-in.htm
 author: massey-university
+permalink: /archive/2006/04/13/choc-rewards-prompts-survey-buy-in/index.html
+layout: layout.njk
 ---
 Choc rewards prompts survey buy-in
 ==================================

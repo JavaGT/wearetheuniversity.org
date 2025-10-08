@@ -1,9 +1,12 @@
 ---
 slug: government-must-fund-staff-pay-increases
-title: "Government must fund staff pay increases"
-date: 2005-04-18
-source-url: https://www.scoop.co.nz/stories/ED0504/S00067/government-must-fund-staff-pay-increases.htm
+title: Government must fund staff pay increases
+date: 2005-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00067/government-must-fund-staff-pay-increases.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/04/18/government-must-fund-staff-pay-increases/index.html
+layout: layout.njk
 ---
 Government must fund staff pay increases
 ========================================

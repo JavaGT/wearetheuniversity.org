@@ -1,9 +1,12 @@
 ---
 slug: nzusa-joins-the-education-&-academic-stakeholder-group
-title: "NZUSA Joins the Education & Academic Stakeholder Group"
-date: 2023-03-26
-source-url: https://www.scoop.co.nz/stories/ED2303/S00041/nzusa-joins-the-education-academic-stakeholder-group.htm
+title: NZUSA Joins the Education & Academic Stakeholder Group
+date: 2023-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00041/nzusa-joins-the-education-academic-stakeholder-group.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2023/03/26/nzusa-joins-the-education-/index.html
+layout: layout.njk
 ---
 NZUSA Joins the Education & Academic Stakeholder Group
 ======================================================

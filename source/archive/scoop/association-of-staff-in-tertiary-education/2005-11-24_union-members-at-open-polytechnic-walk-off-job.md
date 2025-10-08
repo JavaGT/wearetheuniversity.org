@@ -1,9 +1,12 @@
 ---
 slug: union-members-at-open-polytechnic-walk-off-job
-title: "Union Members at  Open Polytechnic Walk off Job"
-date: 2005-11-24
-source-url: https://www.scoop.co.nz/stories/ED0511/S00081/union-members-at-open-polytechnic-walk-off-job.htm
+title: Union Members at  Open Polytechnic Walk off Job
+date: 2005-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00081/union-members-at-open-polytechnic-walk-off-job.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/11/24/union-members-at-open-polytechnic-walk-off-job/index.html
+layout: layout.njk
 ---
 Union Members at Open Polytechnic Walk off Job
 ==============================================

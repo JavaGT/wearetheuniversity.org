@@ -1,9 +1,12 @@
 ---
 slug: the-column-stuff-wouldnt-publish
-title: "The Column Stuff Wouldn't Publish"
-date: 2021-07-28
-source-url: https://www.scoop.co.nz/stories/PA2107/S00212/the-column-stuff-wouldnt-publish.htm
+title: The Column Stuff Wouldn't Publish
+date: 2021-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00212/the-column-stuff-wouldnt-publish.htm
 author: act-new-zealand
+permalink: /archive/2021/07/28/the-column-stuff-wouldnt-publish/index.html
+layout: layout.njk
 ---
 The Column Stuff Wouldn't Publish
 =================================

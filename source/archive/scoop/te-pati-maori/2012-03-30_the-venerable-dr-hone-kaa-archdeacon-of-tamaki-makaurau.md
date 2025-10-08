@@ -1,9 +1,13 @@
 ---
 slug: the-venerable-dr-hone-kaa-archdeacon-of-tamaki-makaurau
-title: "The Venerable Dr Hone Kaa, Archdeacon of Tamaki Makaurau"
-date: 2012-03-30
-source-url: https://www.scoop.co.nz/stories/PA1203/S00407/the-venerable-dr-hone-kaa-archdeacon-of-tamaki-makaurau.htm
+title: The Venerable Dr Hone Kaa, Archdeacon of Tamaki Makaurau
+date: 2012-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00407/the-venerable-dr-hone-kaa-archdeacon-of-tamaki-makaurau.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/03/30/the-venerable-dr-hone-kaa-archdeacon-of-tamaki-makaurau/index.html
+layout: layout.njk
 ---
 The Venerable Dr Hone Kaa, Archdeacon of Tamaki Makaurau
 ========================================================

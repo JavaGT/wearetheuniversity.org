@@ -1,9 +1,13 @@
 ---
 slug: phoney-campaign-in-northland-ignores-hungry-schoolchildren
-title: "Phoney Campaign in Northland Ignores Hungry Schoolchildren"
-date: 2016-06-08
-source-url: https://www.scoop.co.nz/stories/PA1606/S00149/phoney-campaign-in-northland-ignores-hungry-schoolchildren.htm
+title: Phoney Campaign in Northland Ignores Hungry Schoolchildren
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00149/phoney-campaign-in-northland-ignores-hungry-schoolchildren.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/08/phoney-campaign-in-northland-ignores-hungry-schoolchildren/index.html
+layout: layout.njk
 ---
 Phoney Campaign in Northland Ignores Hungry Schoolchildren
 ==========================================================

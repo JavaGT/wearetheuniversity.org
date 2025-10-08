@@ -1,9 +1,12 @@
 ---
 slug: sci-tech-aut-brings-science-&-technology-to-school-students
-title: "Sci-Tech: AUT brings science & technology to school students"
-date: 2012-07-04
-source-url: https://www.scoop.co.nz/stories/SC1207/S00007/sci-tech-aut-brings-science-technology-to-school-students.htm
+title: 'Sci-Tech: AUT brings science & technology to school students'
+date: 2012-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1207/S00007/sci-tech-aut-brings-science-technology-to-school-students.htm
 author: aut-university
+permalink: /archive/2012/07/04/sci-tech-aut-brings-science-/index.html
+layout: layout.njk
 ---
 Sci-Tech: AUT brings science & technology to school students
 ============================================================

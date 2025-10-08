@@ -1,9 +1,12 @@
 ---
 slug: better-hospital-care-needed-for-obese-patients
-title: "Better hospital care needed for obese patients"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/GE1504/S00106/better-hospital-care-needed-for-obese-patients.htm
+title: Better hospital care needed for obese patients
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00106/better-hospital-care-needed-for-obese-patients.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/04/23/better-hospital-care-needed-for-obese-patients/index.html
+layout: layout.njk
 ---
 Better hospital care needed for obese patients
 ==============================================

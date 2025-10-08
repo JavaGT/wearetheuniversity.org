@@ -1,9 +1,12 @@
 ---
 slug: address-in-reply-speech-jeanette-fitzsimons
-title: "Address In Reply Speech - Jeanette Fitzsimons"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/PA0402/S00141/address-in-reply-speech-jeanette-fitzsimons.htm
+title: Address In Reply Speech - Jeanette Fitzsimons
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00141/address-in-reply-speech-jeanette-fitzsimons.htm
 author: green-party
+permalink: /archive/2004/02/10/address-in-reply-speech-jeanette-fitzsimons/index.html
+layout: layout.njk
 ---
 Address In Reply Speech - Jeanette Fitzsimons
 =============================================

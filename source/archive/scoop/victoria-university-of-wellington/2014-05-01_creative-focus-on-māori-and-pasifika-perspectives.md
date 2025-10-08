@@ -1,9 +1,12 @@
 ---
 slug: creative-focus-on-māori-and-pasifika-perspectives
-title: "Creative focus on Māori and Pasifika perspectives"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/ED1405/S00001/creative-focus-on-maori-and-pasifika-perspectives.htm
+title: Creative focus on Māori and Pasifika perspectives
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00001/creative-focus-on-maori-and-pasifika-perspectives.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/01/creative-focus-on-m/index.html
+layout: layout.njk
 ---
 Creative focus on Māori and Pasifika perspectives
 =================================================

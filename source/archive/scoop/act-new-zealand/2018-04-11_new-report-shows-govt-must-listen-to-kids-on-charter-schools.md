@@ -1,9 +1,13 @@
 ---
 slug: new-report-shows-govt-must-listen-to-kids-on-charter-schools
-title: "New report shows Govt must listen to kids on charter schools"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/PA1804/S00112/new-report-shows-govt-must-listen-to-kids-on-charter-schools.htm
+title: New report shows Govt must listen to kids on charter schools
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00112/new-report-shows-govt-must-listen-to-kids-on-charter-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/04/11/new-report-shows-govt-must-listen-to-kids-on-charter-schools/index.html
+layout: layout.njk
 ---
 New report shows Govt must listen to kids on charter schools
 ============================================================

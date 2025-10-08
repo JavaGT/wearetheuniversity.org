@@ -1,9 +1,12 @@
 ---
 slug: students-say-sjs-service-improving
-title: "Students Say SJS Service Improving"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/ED1406/S00040/students-say-sjs-service-improving.htm
+title: Students Say SJS Service Improving
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00040/students-say-sjs-service-improving.htm
 author: otago-university-students-association
+permalink: /archive/2014/06/09/students-say-sjs-service-improving/index.html
+layout: layout.njk
 ---
 Students Say SJS Service Improving
 ==================================

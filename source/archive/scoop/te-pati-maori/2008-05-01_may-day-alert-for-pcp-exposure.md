@@ -1,9 +1,12 @@
 ---
 slug: may-day-alert-for-pcp-exposure
-title: "May Day Alert for PCP Exposure"
-date: 2008-05-01
-source-url: https://www.scoop.co.nz/stories/PA0805/S00001/may-day-alert-for-pcp-exposure.htm
+title: May Day Alert for PCP Exposure
+date: 2008-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00001/may-day-alert-for-pcp-exposure.htm
 author: te-pati-maori
+permalink: /archive/2008/05/01/may-day-alert-for-pcp-exposure/index.html
+layout: layout.njk
 ---
 May Day Alert for PCP Exposure
 ==============================

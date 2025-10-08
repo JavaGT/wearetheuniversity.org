@@ -1,9 +1,11 @@
 ---
 slug: speech-flavell-te-hapai-o
-title: "Speech: Flavell - Te Hapai O"
-date: 2012-03-08
+title: 'Speech: Flavell - Te Hapai O'
+date: 2012-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1203/S00126/speech-flavell-te-hapai-o.htm
 author: te-pati-maori
+permalink: /archive/2012/03/08/speech-flavell-te-hapai-o/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Te Hapai O
 ============================

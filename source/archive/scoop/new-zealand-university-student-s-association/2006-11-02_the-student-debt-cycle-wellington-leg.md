@@ -1,9 +1,12 @@
 ---
 slug: the-student-debt-cycle-wellington-leg
-title: "The Student Debt Cycle – Wellington Leg"
-date: 2006-11-02
-source-url: https://www.scoop.co.nz/stories/ED0611/S00006/the-student-debt-cycle-wellington-leg.htm
+title: The Student Debt Cycle – Wellington Leg
+date: 2006-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00006/the-student-debt-cycle-wellington-leg.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/11/02/the-student-debt-cycle-wellington-leg/index.html
+layout: layout.njk
 ---
 The Student Debt Cycle – Wellington Leg
 =======================================

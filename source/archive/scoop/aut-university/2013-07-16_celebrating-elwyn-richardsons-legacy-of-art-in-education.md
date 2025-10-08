@@ -1,9 +1,13 @@
 ---
 slug: celebrating-elwyn-richardsons-legacy-of-art-in-education
-title: "Celebrating Elwyn Richardson’s legacy of art in education"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/ED1307/S00098/celebrating-elwyn-richardsons-legacy-of-art-in-education.htm
+title: Celebrating Elwyn Richardson’s legacy of art in education
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00098/celebrating-elwyn-richardsons-legacy-of-art-in-education.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/16/celebrating-elwyn-richardsons-legacy-of-art-in-education/index.html
+layout: layout.njk
 ---
 Celebrating Elwyn Richardson’s legacy of art in education
 =========================================================

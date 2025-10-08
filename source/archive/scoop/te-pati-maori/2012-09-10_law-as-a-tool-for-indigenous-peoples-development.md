@@ -1,9 +1,13 @@
 ---
 slug: law-as-a-tool-for-indigenous-peoples-development
-title: "Law as a Tool for Indigenous Peoples’ Development"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/PA1209/S00109/law-as-a-tool-for-indigenous-peoples-development.htm
+title: Law as a Tool for Indigenous Peoples’ Development
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00109/law-as-a-tool-for-indigenous-peoples-development.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/09/10/law-as-a-tool-for-indigenous-peoples-development/index.html
+layout: layout.njk
 ---
 Law as a Tool for Indigenous Peoples’ Development
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: charter-school-roll-plunge
-title: "Charter school roll plunge"
-date: 2014-11-30
+title: Charter school roll plunge
+date: 2014-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1411/S00416/charter-school-roll-plunge.htm
 author: green-party
+permalink: /archive/2014/11/30/charter-school-roll-plunge/index.html
+layout: layout.njk
 ---
 Charter school roll plunge
 ==========================

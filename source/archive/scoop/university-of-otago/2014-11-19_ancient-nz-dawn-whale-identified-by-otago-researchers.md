@@ -1,9 +1,13 @@
 ---
 slug: ancient-nz-dawn-whale-identified-by-otago-researchers
-title: "Ancient NZ ‘Dawn Whale’ identified by Otago researchers"
-date: 2014-11-19
-source-url: https://www.scoop.co.nz/stories/SC1411/S00055/ancient-nz-dawn-whale-identified-by-otago-researchers.htm
+title: Ancient NZ ‘Dawn Whale’ identified by Otago researchers
+date: 2014-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00055/ancient-nz-dawn-whale-identified-by-otago-researchers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/19/ancient-nz-dawn-whale-identified-by-otago-researchers/index.html
+layout: layout.njk
 ---
 Ancient NZ ‘Dawn Whale’ identified by Otago researchers
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: unique-heritage-needs-protecting
-title: "Unique heritage needs protecting"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/PA1407/S00069/unique-heritage-needs-protecting.htm
+title: Unique heritage needs protecting
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00069/unique-heritage-needs-protecting.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/03/unique-heritage-needs-protecting/index.html
+layout: layout.njk
 ---
 Unique heritage needs protecting
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: scholars-urge-minister-to-take-decisive-action-on-nauru
-title: "Scholars urge minister to take decisive action on Nauru"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/WO1507/S00025/scholars-urge-minister-to-take-decisive-action-on-nauru.htm
+title: Scholars urge minister to take decisive action on Nauru
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1507/S00025/scholars-urge-minister-to-take-decisive-action-on-nauru.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/07/02/scholars-urge-minister-to-take-decisive-action-on-nauru/index.html
+layout: layout.njk
 ---
 Scholars urge minister to take decisive action on Nauru
 =======================================================

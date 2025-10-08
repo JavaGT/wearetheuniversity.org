@@ -1,9 +1,12 @@
 ---
 slug: international-flavour-to-festival-of-new-arts
-title: "International flavour to Festival of New Arts"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/CU0809/S00399/international-flavour-to-festival-of-new-arts.htm
+title: International flavour to Festival of New Arts
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00399/international-flavour-to-festival-of-new-arts.htm
 author: massey-university
+permalink: /archive/2008/09/29/international-flavour-to-festival-of-new-arts/index.html
+layout: layout.njk
 ---
 International flavour to Festival of New Arts
 =============================================

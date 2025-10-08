@@ -1,9 +1,12 @@
 ---
 slug: mallard-buries-his-head-in-the-sand-on-literacy
-title: "Mallard buries his head in the sand on literacy"
-date: 2003-04-10
-source-url: https://www.scoop.co.nz/stories/PA0304/S00210/mallard-buries-his-head-in-the-sand-on-literacy.htm
+title: Mallard buries his head in the sand on literacy
+date: 2003-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00210/mallard-buries-his-head-in-the-sand-on-literacy.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/10/mallard-buries-his-head-in-the-sand-on-literacy/index.html
+layout: layout.njk
 ---
 Mallard buries his head in the sand on literacy
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: poto-williams-throws-jacinda-ardern-under-the-bus
-title: "Poto Williams Throws Jacinda Ardern Under The Bus"
-date: 2021-09-22
-source-url: https://www.scoop.co.nz/stories/PA2109/S00198/poto-williams-throws-jacinda-ardern-under-the-bus.htm
+title: Poto Williams Throws Jacinda Ardern Under The Bus
+date: 2021-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00198/poto-williams-throws-jacinda-ardern-under-the-bus.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/09/22/poto-williams-throws-jacinda-ardern-under-the-bus/index.html
+layout: layout.njk
 ---
 Poto Williams Throws Jacinda Ardern Under The Bus
 =================================================

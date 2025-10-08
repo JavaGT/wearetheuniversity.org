@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-workers-call-for-a-liveable-minimum-wage
-title: "Thousands Of Workers Call For A Liveable Minimum Wage"
-date: 2021-12-21
-source-url: https://www.scoop.co.nz/stories/PO2112/S00175/thousands-of-workers-call-for-a-liveable-minimum-wage.htm
+title: Thousands Of Workers Call For A Liveable Minimum Wage
+date: 2021-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2112/S00175/thousands-of-workers-call-for-a-liveable-minimum-wage.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2021/12/21/thousands-of-workers-call-for-a-liveable-minimum-wage/index.html
+layout: layout.njk
 ---
 Thousands Of Workers Call For A Liveable Minimum Wage
 =====================================================

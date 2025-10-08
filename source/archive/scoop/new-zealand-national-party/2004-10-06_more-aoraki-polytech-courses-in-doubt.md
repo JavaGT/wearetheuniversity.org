@@ -1,9 +1,12 @@
 ---
 slug: more-aoraki-polytech-courses-in-doubt
-title: "More Aoraki Polytech courses in doubt"
-date: 2004-10-06
-source-url: https://www.scoop.co.nz/stories/PA0410/S00082/more-aoraki-polytech-courses-in-doubt.htm
+title: More Aoraki Polytech courses in doubt
+date: 2004-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00082/more-aoraki-polytech-courses-in-doubt.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/06/more-aoraki-polytech-courses-in-doubt/index.html
+layout: layout.njk
 ---
 More Aoraki Polytech courses in doubt
 =====================================

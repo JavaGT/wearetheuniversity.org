@@ -1,9 +1,13 @@
 ---
 slug: line-up-to-focus-on-creating-new-kiwi-prosperity
-title: "Line-Up To Focus On Creating New Kiwi Prosperity"
-date: 2001-05-31
-source-url: https://www.scoop.co.nz/stories/PO0105/S00141/line-up-to-focus-on-creating-new-kiwi-prosperity.htm
+title: Line-Up To Focus On Creating New Kiwi Prosperity
+date: 2001-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0105/S00141/line-up-to-focus-on-creating-new-kiwi-prosperity.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/05/31/line-up-to-focus-on-creating-new-kiwi-prosperity/index.html
+layout: layout.njk
 ---
 Line-Up To Focus On Creating New Kiwi Prosperity
 ================================================

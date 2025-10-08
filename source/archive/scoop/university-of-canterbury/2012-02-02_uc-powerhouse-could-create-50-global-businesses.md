@@ -1,9 +1,12 @@
 ---
 slug: uc-powerhouse-could-create-50-global-businesses
-title: "UC/powerHouse could create 50 global businesses"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/BU1202/S00060/ucpowerhouse-could-create-50-global-businesses.htm
+title: UC/powerHouse could create 50 global businesses
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1202/S00060/ucpowerhouse-could-create-50-global-businesses.htm
 author: university-of-canterbury
+permalink: /archive/2012/02/02/uc-powerhouse-could-create-50-global-businesses/index.html
+layout: layout.njk
 ---
 UC/powerHouse could create 50 global businesses
 ===============================================

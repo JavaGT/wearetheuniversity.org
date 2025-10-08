@@ -1,9 +1,13 @@
 ---
 slug: one-in-10-parents-experienced-severe-burnout-in-lockdown-study-finds
-title: "One In 10 Parents Experienced Severe Burnout In Lockdown, Study Finds"
-date: 2020-11-18
-source-url: https://www.scoop.co.nz/stories/GE2011/S00097/one-in-10-parents-experienced-severe-burnout-in-lockdown-study-finds.htm
+title: One In 10 Parents Experienced Severe Burnout In Lockdown, Study Finds
+date: 2020-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2011/S00097/one-in-10-parents-experienced-severe-burnout-in-lockdown-study-finds.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/18/one-in-10-parents-experienced-severe-burnout-in-lockdown-study-finds/index.html
+layout: layout.njk
 ---
 One In 10 Parents Experienced Severe Burnout In Lockdown, Study Finds
 =====================================================================
@@ -22,14 +26,7 @@ She found that 10.5% of parents in this country experienced high levels of paren
 Interestingly, lockdown itself was not a strong predictor of parental burnout. “For some parents, lockdown was a positive experience that gave them more quality time with their children. Forced restrictions allowed time for family, creativity, and exercise and some parents valued this time. For others, they missed the natural break that regular childcare arrangements and social activities provided. Parenting during lockdown was constant, parents didn’t get a break. Lockdown seemed to exacerbate existing challenges for some whānau.”
 
 The study results show that 83.7 % of parents said Covid-19 had a positive impact on their parenting, compared to 26.8% of parents who said Covid-19 had a negative impact.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “Those who had a negative experience were typically already challenged before lockdown. Parents who used violent parenting behaviours, parents who had difficulty shifting focus from themselves to their child, parents who were not working or in paid employment, and those parents living in a relatively disadvantaged neighbourhoods were at highest risk for parental burnout during the lockdown period.”
+“Those who had a negative experience were typically already challenged before lockdown. Parents who used violent parenting behaviours, parents who had difficulty shifting focus from themselves to their child, parents who were not working or in paid employment, and those parents living in a relatively disadvantaged neighbourhoods were at highest risk for parental burnout during the lockdown period.”
 
 There were also protective factors that helped parents to weather lockdown. These included the independence of children and parents’ ability to regulate their own emotions. For Christchurch parents there was some benefit of having developed resilience through the tragic events of the earthquakes and the mosque attacks.
 

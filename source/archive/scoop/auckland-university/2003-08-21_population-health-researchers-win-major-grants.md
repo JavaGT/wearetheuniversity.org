@@ -1,9 +1,12 @@
 ---
 slug: population-health-researchers-win-major-grants
-title: "Population Health Researchers Win Major Grants"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/GE0308/S00063/population-health-researchers-win-major-grants.htm
+title: Population Health Researchers Win Major Grants
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0308/S00063/population-health-researchers-win-major-grants.htm
 author: auckland-university
+permalink: /archive/2003/08/21/population-health-researchers-win-major-grants/index.html
+layout: layout.njk
 ---
 Population Health Researchers Win Major Grants
 ==============================================

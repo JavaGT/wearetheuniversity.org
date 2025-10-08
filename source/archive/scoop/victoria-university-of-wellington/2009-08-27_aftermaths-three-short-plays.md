@@ -1,9 +1,11 @@
 ---
 slug: aftermaths-three-short-plays
-title: "Aftermaths: Three Short Plays"
-date: 2009-08-27
+title: 'Aftermaths: Three Short Plays'
+date: 2009-08-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0908/S00437/aftermaths-three-short-plays.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/27/aftermaths-three-short-plays/index.html
+layout: layout.njk
 ---
 Aftermaths: Three Short Plays
 =============================

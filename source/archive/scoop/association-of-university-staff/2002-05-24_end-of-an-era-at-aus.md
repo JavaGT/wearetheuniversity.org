@@ -1,9 +1,11 @@
 ---
 slug: end-of-an-era-at-aus
-title: "End of an era at AUS"
-date: 2002-05-24
+title: End of an era at AUS
+date: 2002-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0205/S00058/end-of-an-era-at-aus.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/24/end-of-an-era-at-aus/index.html
+layout: layout.njk
 ---
 End of an era at AUS
 ====================

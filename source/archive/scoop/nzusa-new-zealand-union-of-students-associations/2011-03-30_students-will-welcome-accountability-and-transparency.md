@@ -1,9 +1,13 @@
 ---
 slug: students-will-welcome-accountability-and-transparency
-title: "Students will welcome accountability and transparency"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/PO1103/S00302/students-will-welcome-accountability-and-transparency.htm
+title: Students will welcome accountability and transparency
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00302/students-will-welcome-accountability-and-transparency.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/03/30/students-will-welcome-accountability-and-transparency/index.html
+layout: layout.njk
 ---
 Students will welcome accountability and transparency
 =====================================================

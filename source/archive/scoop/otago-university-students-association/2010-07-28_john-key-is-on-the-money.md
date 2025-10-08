@@ -1,9 +1,11 @@
 ---
 slug: john-key-is-on-the-money
-title: "John Key is on the money"
-date: 2010-07-28
+title: John Key is on the money
+date: 2010-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1007/S00101/john-key-is-on-the-money.htm
 author: otago-university-students-association
+permalink: /archive/2010/07/28/john-key-is-on-the-money/index.html
+layout: layout.njk
 ---
 John Key is on the money
 ========================

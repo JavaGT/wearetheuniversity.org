@@ -1,9 +1,12 @@
 ---
 slug: school-induction-to-marketing-hall-of-fame
-title: "School induction to Marketing Hall of Fame"
-date: 2008-09-01
-source-url: https://www.scoop.co.nz/stories/ED0809/S00002/school-induction-to-marketing-hall-of-fame.htm
+title: School induction to Marketing Hall of Fame
+date: 2008-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00002/school-induction-to-marketing-hall-of-fame.htm
 author: university-of-auckland-business-school
+permalink: /archive/2008/09/01/school-induction-to-marketing-hall-of-fame/index.html
+layout: layout.njk
 ---
 School induction to Marketing Hall of Fame
 ==========================================

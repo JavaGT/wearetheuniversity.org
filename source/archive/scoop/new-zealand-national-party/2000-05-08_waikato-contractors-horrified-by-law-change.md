@@ -1,9 +1,12 @@
 ---
 slug: waikato-contractors-horrified-by-law-change
-title: "Waikato contractors horrified by law change"
-date: 2000-05-08
-source-url: https://www.scoop.co.nz/stories/PA0005/S00155/waikato-contractors-horrified-by-law-change.htm
+title: Waikato contractors horrified by law change
+date: 2000-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00155/waikato-contractors-horrified-by-law-change.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/08/waikato-contractors-horrified-by-law-change/index.html
+layout: layout.njk
 ---
 Waikato contractors horrified by law change
 ===========================================

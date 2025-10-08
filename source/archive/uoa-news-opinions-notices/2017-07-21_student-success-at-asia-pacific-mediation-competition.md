@@ -1,8 +1,12 @@
 ---
 slug: student-success-at-asia-pacific-mediation-competition
-title: "Student success at Asia-Pacific mediation competition"
-date: 2017-07-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/student-success-at-asia-pacific-mediation-competition.html
+title: Student success at Asia-Pacific mediation competition
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/student-success-at-asia-pacific-mediation-competition.html
+permalink: >-
+  /archive/2017/07/21/student-success-at-asia-pacific-mediation-competition/index.html
+layout: layout.njk
 ---
 Student success at Asia-Pacific mediation competition
 =====================================================

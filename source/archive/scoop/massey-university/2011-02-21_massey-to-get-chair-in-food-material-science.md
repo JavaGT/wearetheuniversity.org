@@ -1,9 +1,12 @@
 ---
 slug: massey-to-get-chair-in-food-material-science
-title: "Massey to get chair in food material science"
-date: 2011-02-21
-source-url: https://www.scoop.co.nz/stories/ED1102/S00065/massey-to-get-chair-in-food-material-science.htm
+title: Massey to get chair in food material science
+date: 2011-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00065/massey-to-get-chair-in-food-material-science.htm
 author: massey-university
+permalink: /archive/2011/02/21/massey-to-get-chair-in-food-material-science/index.html
+layout: layout.njk
 ---
 Massey to get chair in food material science
 ============================================

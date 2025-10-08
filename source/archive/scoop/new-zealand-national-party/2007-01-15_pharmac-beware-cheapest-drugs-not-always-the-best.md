@@ -1,9 +1,13 @@
 ---
 slug: pharmac-beware-cheapest-drugs-not-always-the-best
-title: "Pharmac beware: Cheapest drugs not always the best"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/PA0701/S00054/pharmac-beware-cheapest-drugs-not-always-the-best.htm
+title: 'Pharmac beware: Cheapest drugs not always the best'
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00054/pharmac-beware-cheapest-drugs-not-always-the-best.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/01/15/pharmac-beware-cheapest-drugs-not-always-the-best/index.html
+layout: layout.njk
 ---
 Pharmac beware: Cheapest drugs not always the best
 ==================================================

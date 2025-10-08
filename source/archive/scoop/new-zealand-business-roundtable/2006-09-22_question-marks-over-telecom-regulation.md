@@ -1,9 +1,12 @@
 ---
 slug: question-marks-over-telecom-regulation
-title: "Question Marks Over Telecom Regulation"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/BU0609/S00386/question-marks-over-telecom-regulation.htm
+title: Question Marks Over Telecom Regulation
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0609/S00386/question-marks-over-telecom-regulation.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/09/22/question-marks-over-telecom-regulation/index.html
+layout: layout.njk
 ---
 Question Marks Over Telecom Regulation
 ======================================

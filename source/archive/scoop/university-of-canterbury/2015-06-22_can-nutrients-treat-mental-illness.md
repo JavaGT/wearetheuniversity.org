@@ -1,9 +1,12 @@
 ---
 slug: can-nutrients-treat-mental-illness
-title: "Can nutrients treat mental illness?"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/SC1506/S00089/can-nutrients-treat-mental-illness.htm
+title: Can nutrients treat mental illness?
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00089/can-nutrients-treat-mental-illness.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/22/can-nutrients-treat-mental-illness/index.html
+layout: layout.njk
 ---
 Can nutrients treat mental illness?
 ===================================

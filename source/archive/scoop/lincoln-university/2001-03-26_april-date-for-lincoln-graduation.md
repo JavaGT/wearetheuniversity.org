@@ -1,9 +1,12 @@
 ---
 slug: april-date-for-lincoln-graduation
-title: "April date for Lincoln graduation"
-date: 2001-03-26
-source-url: https://www.scoop.co.nz/stories/ED0103/S00051/april-date-for-lincoln-graduation.htm
+title: April date for Lincoln graduation
+date: 2001-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00051/april-date-for-lincoln-graduation.htm
 author: lincoln-university
+permalink: /archive/2001/03/26/april-date-for-lincoln-graduation/index.html
+layout: layout.njk
 ---
 April date for Lincoln graduation
 =================================

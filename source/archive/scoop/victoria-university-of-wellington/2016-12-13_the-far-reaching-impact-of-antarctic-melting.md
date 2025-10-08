@@ -1,9 +1,12 @@
 ---
 slug: the-far-reaching-impact-of-antarctic-melting
-title: "The far-reaching impact of Antarctic melting"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/ED1612/S00046/the-far-reaching-impact-of-antarctic-melting.htm
+title: The far-reaching impact of Antarctic melting
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00046/the-far-reaching-impact-of-antarctic-melting.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/12/13/the-far-reaching-impact-of-antarctic-melting/index.html
+layout: layout.njk
 ---
 The far-reaching impact of Antarctic melting
 ============================================

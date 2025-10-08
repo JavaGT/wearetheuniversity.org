@@ -1,9 +1,13 @@
 ---
 slug: ethel-benjamin-scholarship-winner-to-attend-yale-law-school
-title: "Ethel Benjamin Scholarship Winner To Attend Yale Law School"
-date: 2023-06-13
-source-url: https://www.scoop.co.nz/stories/ED2306/S00018/ethel-benjamin-scholarship-winner-to-attend-yale-law-school.htm
+title: Ethel Benjamin Scholarship Winner To Attend Yale Law School
+date: 2023-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00018/ethel-benjamin-scholarship-winner-to-attend-yale-law-school.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/06/13/ethel-benjamin-scholarship-winner-to-attend-yale-law-school/index.html
+layout: layout.njk
 ---
 Ethel Benjamin Scholarship Winner To Attend Yale Law School
 ===========================================================

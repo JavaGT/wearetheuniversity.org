@@ -1,9 +1,12 @@
 ---
 slug: fart-tax-one-more-case-of-mad-cows-disease
-title: "Fart Tax - One more case of mad cows disease"
-date: 2003-08-22
-source-url: https://www.scoop.co.nz/stories/PA0308/S00448/fart-tax-one-more-case-of-mad-cows-disease.htm
+title: Fart Tax - One more case of mad cows disease
+date: 2003-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00448/fart-tax-one-more-case-of-mad-cows-disease.htm
 author: new-zealand-first-party
+permalink: /archive/2003/08/22/fart-tax-one-more-case-of-mad-cows-disease/index.html
+layout: layout.njk
 ---
 Fart Tax - One more case of mad cows disease
 ============================================

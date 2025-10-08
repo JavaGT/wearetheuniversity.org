@@ -1,9 +1,13 @@
 ---
 slug: ministerial-fingerprints-all-over-botched-foreign-buyer-data
-title: "Ministerial fingerprints all over botched foreign buyer data"
-date: 2016-08-02
-source-url: https://www.scoop.co.nz/stories/PA1608/S00033/ministerial-fingerprints-all-over-botched-foreign-buyer-data.htm
+title: Ministerial fingerprints all over botched foreign buyer data
+date: 2016-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00033/ministerial-fingerprints-all-over-botched-foreign-buyer-data.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/02/ministerial-fingerprints-all-over-botched-foreign-buyer-data/index.html
+layout: layout.njk
 ---
 Ministerial fingerprints all over botched foreign buyer data
 ============================================================

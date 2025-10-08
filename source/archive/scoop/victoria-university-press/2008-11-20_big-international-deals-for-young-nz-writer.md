@@ -1,9 +1,12 @@
 ---
 slug: big-international-deals-for-young-nz-writer
-title: "Big International Deals for Young NZ Writer"
-date: 2008-11-20
-source-url: https://www.scoop.co.nz/stories/CU0811/S00200/big-international-deals-for-young-nz-writer.htm
+title: Big International Deals for Young NZ Writer
+date: 2008-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0811/S00200/big-international-deals-for-young-nz-writer.htm
 author: victoria-university-press
+permalink: /archive/2008/11/20/big-international-deals-for-young-nz-writer/index.html
+layout: layout.njk
 ---
 Big International Deals for Young NZ Writer
 ===========================================

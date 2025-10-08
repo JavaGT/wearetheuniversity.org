@@ -1,9 +1,12 @@
 ---
 slug: hamilton-boys-high-win-chemquest-…again
-title: "Hamilton Boys’ High win ChemQuest …again"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/ED1410/S00132/hamilton-boys-high-win-chemquest-again.htm
+title: Hamilton Boys’ High win ChemQuest …again
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00132/hamilton-boys-high-win-chemquest-again.htm
 author: university-of-waikato
+permalink: /archive/2014/10/23/hamilton-boys-high-win-chemquest-/index.html
+layout: layout.njk
 ---
 Hamilton Boys’ High win ChemQuest …again
 ========================================

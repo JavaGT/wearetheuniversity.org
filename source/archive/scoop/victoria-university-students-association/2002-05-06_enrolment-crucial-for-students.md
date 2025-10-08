@@ -1,9 +1,12 @@
 ---
 slug: enrolment-crucial-for-students
-title: "Enrolment Crucial For Students"
-date: 2002-05-06
-source-url: https://www.scoop.co.nz/stories/PO0205/S00053/enrolment-crucial-for-students.htm
+title: Enrolment Crucial For Students
+date: 2002-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00053/enrolment-crucial-for-students.htm
 author: victoria-university-students-association
+permalink: /archive/2002/05/06/enrolment-crucial-for-students/index.html
+layout: layout.njk
 ---
 Enrolment Crucial For Students
 ==============================

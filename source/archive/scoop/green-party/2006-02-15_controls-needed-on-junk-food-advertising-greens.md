@@ -1,9 +1,12 @@
 ---
 slug: controls-needed-on-junk-food-advertising-greens
-title: "Controls needed on junk food advertising - Greens"
-date: 2006-02-15
-source-url: https://www.scoop.co.nz/stories/PA0602/S00187/controls-needed-on-junk-food-advertising-greens.htm
+title: Controls needed on junk food advertising - Greens
+date: 2006-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00187/controls-needed-on-junk-food-advertising-greens.htm
 author: green-party
+permalink: /archive/2006/02/15/controls-needed-on-junk-food-advertising-greens/index.html
+layout: layout.njk
 ---
 Controls needed on junk food advertising - Greens
 =================================================

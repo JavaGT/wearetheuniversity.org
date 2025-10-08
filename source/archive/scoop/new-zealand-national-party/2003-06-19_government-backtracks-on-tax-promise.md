@@ -1,9 +1,12 @@
 ---
 slug: government-backtracks-on-tax-promise
-title: "Government backtracks on tax promise"
-date: 2003-06-19
-source-url: https://www.scoop.co.nz/stories/PA0306/S00356/government-backtracks-on-tax-promise.htm
+title: Government backtracks on tax promise
+date: 2003-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00356/government-backtracks-on-tax-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/19/government-backtracks-on-tax-promise/index.html
+layout: layout.njk
 ---
 Government backtracks on tax promise
 ====================================

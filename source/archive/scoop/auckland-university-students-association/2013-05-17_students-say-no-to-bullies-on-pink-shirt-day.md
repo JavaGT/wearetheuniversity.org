@@ -1,9 +1,12 @@
 ---
 slug: students-say-no-to-bullies-on-pink-shirt-day
-title: "Students Say No to Bullies On Pink Shirt Day"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PO1305/S00284/students-say-no-to-bullies-on-pink-shirt-day.htm
+title: Students Say No to Bullies On Pink Shirt Day
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00284/students-say-no-to-bullies-on-pink-shirt-day.htm
 author: auckland-university-students-association
+permalink: /archive/2013/05/17/students-say-no-to-bullies-on-pink-shirt-day/index.html
+layout: layout.njk
 ---
 Students Say No to Bullies On Pink Shirt Day
 ============================================

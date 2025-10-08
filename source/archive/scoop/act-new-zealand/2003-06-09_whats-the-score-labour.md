@@ -1,9 +1,11 @@
 ---
 slug: whats-the-score-labour
-title: "What's The Score, Labour?"
-date: 2003-06-09
+title: What's The Score, Labour?
+date: 2003-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0306/S00119/whats-the-score-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/06/09/whats-the-score-labour/index.html
+layout: layout.njk
 ---
 What's The Score, Labour?
 =========================

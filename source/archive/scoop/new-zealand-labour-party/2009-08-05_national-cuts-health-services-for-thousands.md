@@ -1,9 +1,12 @@
 ---
 slug: national-cuts-health-services-for-thousands
-title: "National cuts health services for thousands"
-date: 2009-08-05
-source-url: https://www.scoop.co.nz/stories/PA0908/S00059/national-cuts-health-services-for-thousands.htm
+title: National cuts health services for thousands
+date: 2009-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00059/national-cuts-health-services-for-thousands.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/05/national-cuts-health-services-for-thousands/index.html
+layout: layout.njk
 ---
 National cuts health services for thousands
 ===========================================

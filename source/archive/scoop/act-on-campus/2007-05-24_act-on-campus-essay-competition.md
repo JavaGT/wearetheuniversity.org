@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-essay-competition
-title: "ACT on Campus essay competition"
-date: 2007-05-24
-source-url: https://www.scoop.co.nz/stories/ED0705/S00102/act-on-campus-essay-competition.htm
+title: ACT on Campus essay competition
+date: 2007-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00102/act-on-campus-essay-competition.htm
 author: act-on-campus
+permalink: /archive/2007/05/24/act-on-campus-essay-competition/index.html
+layout: layout.njk
 ---
 ACT on Campus essay competition
 ===============================

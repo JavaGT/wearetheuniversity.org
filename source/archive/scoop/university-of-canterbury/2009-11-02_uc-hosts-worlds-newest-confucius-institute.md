@@ -1,9 +1,12 @@
 ---
 slug: uc-hosts-worlds-newest-confucius-institute
-title: "UC hosts world’s newest Confucius Institute"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/ED0911/S00004/uc-hosts-worlds-newest-confucius-institute.htm
+title: UC hosts world’s newest Confucius Institute
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00004/uc-hosts-worlds-newest-confucius-institute.htm
 author: university-of-canterbury
+permalink: /archive/2009/11/02/uc-hosts-worlds-newest-confucius-institute/index.html
+layout: layout.njk
 ---
 UC hosts world’s newest Confucius Institute
 ===========================================

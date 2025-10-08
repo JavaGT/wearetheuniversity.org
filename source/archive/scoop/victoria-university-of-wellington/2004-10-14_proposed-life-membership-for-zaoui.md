@@ -1,9 +1,12 @@
 ---
 slug: proposed-life-membership-for-zaoui
-title: "Proposed Life Membership For Zaoui"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00060/proposed-life-membership-for-zaoui.htm
+title: Proposed Life Membership For Zaoui
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00060/proposed-life-membership-for-zaoui.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/14/proposed-life-membership-for-zaoui/index.html
+layout: layout.njk
 ---
 Proposed Life Membership For Zaoui
 ==================================

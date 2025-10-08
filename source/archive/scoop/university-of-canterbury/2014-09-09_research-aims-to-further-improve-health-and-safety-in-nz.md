@@ -1,9 +1,13 @@
 ---
 slug: research-aims-to-further-improve-health-and-safety-in-nz
-title: "Research aims to further improve health and safety in NZ"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/GE1409/S00046/research-aims-to-further-improve-health-and-safety-in-nz.htm
+title: Research aims to further improve health and safety in NZ
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00046/research-aims-to-further-improve-health-and-safety-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/09/research-aims-to-further-improve-health-and-safety-in-nz/index.html
+layout: layout.njk
 ---
 Research aims to further improve health and safety in NZ
 ========================================================

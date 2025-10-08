@@ -1,9 +1,12 @@
 ---
 slug: great-placing-for-new-zealand-olympians
-title: "Great placing for New Zealand Olympians"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/ED0508/S00070/great-placing-for-new-zealand-olympians.htm
+title: Great placing for New Zealand Olympians
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00070/great-placing-for-new-zealand-olympians.htm
 author: auckland-university
+permalink: /archive/2005/08/15/great-placing-for-new-zealand-olympians/index.html
+layout: layout.njk
 ---
 Great placing for New Zealand Olympians
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: inspiring-education-pioneer-remembered
-title: "Inspiring Education Pioneer Remembered"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/PA1211/S00057/inspiring-education-pioneer-remembered.htm
+title: Inspiring Education Pioneer Remembered
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00057/inspiring-education-pioneer-remembered.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/05/inspiring-education-pioneer-remembered/index.html
+layout: layout.njk
 ---
 Inspiring Education Pioneer Remembered
 ======================================

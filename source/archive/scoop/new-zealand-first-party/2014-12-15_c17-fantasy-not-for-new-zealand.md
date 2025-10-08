@@ -1,9 +1,12 @@
 ---
 slug: c17-fantasy-not-for-new-zealand
-title: "C17 Fantasy Not for New Zealand"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/PO1412/S00191/c17-fantasy-not-for-new-zealand.htm
+title: C17 Fantasy Not for New Zealand
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00191/c17-fantasy-not-for-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/15/c17-fantasy-not-for-new-zealand/index.html
+layout: layout.njk
 ---
 C17 Fantasy Not for New Zealand
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: confidence-in-cera-at-an-all-time-low
-title: "Confidence in CERA at an all-time low"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PA1602/S00125/confidence-in-cera-at-an-all-time-low.htm
+title: Confidence in CERA at an all-time low
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00125/confidence-in-cera-at-an-all-time-low.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/11/confidence-in-cera-at-an-all-time-low/index.html
+layout: layout.njk
 ---
 Confidence in CERA at an all-time low
 =====================================

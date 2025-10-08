@@ -1,9 +1,12 @@
 ---
 slug: john-key-address-to-forest-&-bird-conference
-title: "John Key Address to Forest & Bird Conference"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/PA0706/S00478/john-key-address-to-forest-bird-conference.htm
+title: John Key Address to Forest & Bird Conference
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00478/john-key-address-to-forest-bird-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/25/john-key-address-to-forest-/index.html
+layout: layout.njk
 ---
 John Key Address to Forest & Bird Conference
 ============================================

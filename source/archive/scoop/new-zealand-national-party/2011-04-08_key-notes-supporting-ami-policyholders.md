@@ -1,9 +1,12 @@
 ---
 slug: key-notes-supporting-ami-policyholders
-title: "Key Notes: Supporting AMI Policyholders"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/PA1104/S00186/key-notes-supporting-ami-policyholders.htm
+title: 'Key Notes: Supporting AMI Policyholders'
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00186/key-notes-supporting-ami-policyholders.htm
 author: new-zealand-national-party
+permalink: /archive/2011/04/08/key-notes-supporting-ami-policyholders/index.html
+layout: layout.njk
 ---
 Key Notes: Supporting AMI Policyholders
 =======================================

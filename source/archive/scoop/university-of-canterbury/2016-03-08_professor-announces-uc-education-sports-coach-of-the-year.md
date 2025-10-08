@@ -1,9 +1,13 @@
 ---
 slug: professor-announces-uc-education-sports-coach-of-the-year
-title: "Professor announces UC Education Sports Coach of the Year"
-date: 2016-03-08
-source-url: https://www.scoop.co.nz/stories/CU1603/S00186/professor-announces-uc-education-sports-coach-of-the-year.htm
+title: Professor announces UC Education Sports Coach of the Year
+date: 2016-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00186/professor-announces-uc-education-sports-coach-of-the-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/08/professor-announces-uc-education-sports-coach-of-the-year/index.html
+layout: layout.njk
 ---
 Professor announces UC Education Sports Coach of the Year
 =========================================================

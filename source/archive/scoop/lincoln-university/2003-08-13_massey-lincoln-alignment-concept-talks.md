@@ -1,9 +1,12 @@
 ---
 slug: massey-lincoln-alignment-concept-talks
-title: "Massey-Lincoln alignment concept talks"
-date: 2003-08-13
-source-url: https://www.scoop.co.nz/stories/ED0308/S00040/massey-lincoln-alignment-concept-talks.htm
+title: Massey-Lincoln alignment concept talks
+date: 2003-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00040/massey-lincoln-alignment-concept-talks.htm
 author: lincoln-university
+permalink: /archive/2003/08/13/massey-lincoln-alignment-concept-talks/index.html
+layout: layout.njk
 ---
 Massey-Lincoln alignment concept talks
 ======================================

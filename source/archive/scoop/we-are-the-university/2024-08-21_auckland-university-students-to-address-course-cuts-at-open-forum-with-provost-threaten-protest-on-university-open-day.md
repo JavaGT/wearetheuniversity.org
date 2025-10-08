@@ -1,9 +1,16 @@
 ---
-slug: auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day
-title: "Auckland University Students To Address Course Cuts At Open Forum With Provost, Threaten Protest On University Open Day"
-date: 2024-08-21
-source-url: https://www.scoop.co.nz/stories/ED2408/S00045/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day.htm
+slug: >-
+  auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day-2
+title: >-
+  Auckland University Students To Address Course Cuts At Open Forum With
+  Provost, Threaten Protest On University Open Day
+date: 2024-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00045/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2024/08/21/auckland-university-students-to-address-course-cuts-at-open-forum-with-provost-threaten-protest-on-university-open-day-2/index.html
+layout: layout.njk
 ---
 Auckland University Students To Address Course Cuts At Open Forum With Provost, Threaten Protest On University Open Day
 =======================================================================================================================

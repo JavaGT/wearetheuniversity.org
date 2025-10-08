@@ -1,9 +1,13 @@
 ---
 slug: sick-new-zealanders-will-pay-under-john-keys-tppa
-title: "Sick New Zealanders will pay under John Key’s TPPA"
-date: 2015-07-28
-source-url: https://www.scoop.co.nz/stories/PA1507/S00477/sick-new-zealanders-will-pay-under-john-keys-tppa.htm
+title: Sick New Zealanders will pay under John Key’s TPPA
+date: 2015-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00477/sick-new-zealanders-will-pay-under-john-keys-tppa.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/28/sick-new-zealanders-will-pay-under-john-keys-tppa/index.html
+layout: layout.njk
 ---
 Sick New Zealanders will pay under John Key’s TPPA
 ==================================================

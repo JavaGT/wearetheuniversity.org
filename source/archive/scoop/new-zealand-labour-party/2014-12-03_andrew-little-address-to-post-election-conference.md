@@ -1,9 +1,13 @@
 ---
 slug: andrew-little-address-to-post-election-conference
-title: "Andrew Little address to Post-Election Conference"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/PA1412/S00056/andrew-little-address-to-post-election-conference.htm
+title: Andrew Little address to Post-Election Conference
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00056/andrew-little-address-to-post-election-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/03/andrew-little-address-to-post-election-conference/index.html
+layout: layout.njk
 ---
 Andrew Little address to Post-Election Conference
 =================================================

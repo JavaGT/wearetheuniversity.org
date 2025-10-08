@@ -1,9 +1,13 @@
 ---
 slug: john-key-address-inaugural-jenny-shipley-lecture
-title: "John Key Address: Inaugural Jenny Shipley Lecture"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/PA0612/S00302/john-key-address-inaugural-jenny-shipley-lecture.htm
+title: 'John Key Address: Inaugural Jenny Shipley Lecture'
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00302/john-key-address-inaugural-jenny-shipley-lecture.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/12/15/john-key-address-inaugural-jenny-shipley-lecture/index.html
+layout: layout.njk
 ---
 John Key Address: Inaugural Jenny Shipley Lecture
 =================================================

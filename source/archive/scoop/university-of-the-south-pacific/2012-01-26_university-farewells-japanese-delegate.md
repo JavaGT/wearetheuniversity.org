@@ -1,9 +1,12 @@
 ---
 slug: university-farewells-japanese-delegate
-title: "University Farewells Japanese Delegate"
-date: 2012-01-26
-source-url: https://www.scoop.co.nz/stories/ED1201/S00054/university-farewells-japanese-delegate.htm
+title: University Farewells Japanese Delegate
+date: 2012-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00054/university-farewells-japanese-delegate.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/01/26/university-farewells-japanese-delegate/index.html
+layout: layout.njk
 ---
 University Farewells Japanese Delegate
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: sue-kedgleys-valedictory-speech
-title: "Sue Kedgley’s Valedictory speech"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PA1109/S00507/sue-kedgleys-valedictory-speech.htm
+title: Sue Kedgley’s Valedictory speech
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00507/sue-kedgleys-valedictory-speech.htm
 author: green-party
+permalink: /archive/2011/09/28/sue-kedgleys-valedictory-speech/index.html
+layout: layout.njk
 ---
 Sue Kedgley’s Valedictory speech
 ================================

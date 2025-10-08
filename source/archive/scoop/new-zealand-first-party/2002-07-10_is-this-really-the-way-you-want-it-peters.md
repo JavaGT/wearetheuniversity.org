@@ -1,9 +1,12 @@
 ---
 slug: is-this-really-the-way-you-want-it-peters
-title: "Is This Really The Way You Want It? - Peters"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/PA0207/S00303/is-this-really-the-way-you-want-it-peters.htm
+title: Is This Really The Way You Want It? - Peters
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00303/is-this-really-the-way-you-want-it-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/10/is-this-really-the-way-you-want-it-peters/index.html
+layout: layout.njk
 ---
 Is This Really The Way You Want It? - Peters
 ============================================

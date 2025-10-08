@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-your-carbon-footprint
-title: "Heather Roy's Diary -  Your Carbon Footprint?"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PA0709/S00385/heather-roys-diary-your-carbon-footprint.htm
+title: Heather Roy's Diary -  Your Carbon Footprint?
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00385/heather-roys-diary-your-carbon-footprint.htm
 author: act-new-zealand
+permalink: /archive/2007/09/21/heather-roys-diary-your-carbon-footprint/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Your Carbon Footprint?
 ============================================

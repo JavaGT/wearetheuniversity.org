@@ -1,9 +1,11 @@
 ---
 slug: rebels-launch-new-web-home
-title: "Rebels Launch New Web Home"
-date: 2000-01-17
+title: Rebels Launch New Web Home
+date: 2000-01-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0001/S00011/rebels-launch-new-web-home.htm
 author: prebble-s-rebels
+permalink: /archive/2000/01/17/rebels-launch-new-web-home/index.html
+layout: layout.njk
 ---
 Rebels Launch New Web Home
 ==========================

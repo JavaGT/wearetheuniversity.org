@@ -1,9 +1,12 @@
 ---
 slug: students-counter-protest-against-own-union
-title: "Students Counter-Protest Against Own Union"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/ED1012/S00007/students-counter-protest-against-own-union.htm
+title: Students Counter-Protest Against Own Union
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00007/students-counter-protest-against-own-union.htm
 author: act-on-campus
+permalink: /archive/2010/12/01/students-counter-protest-against-own-union/index.html
+layout: layout.njk
 ---
 Students Counter-Protest Against Own Union
 ==========================================

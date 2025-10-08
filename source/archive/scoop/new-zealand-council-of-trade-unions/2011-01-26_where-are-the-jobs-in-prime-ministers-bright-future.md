@@ -1,9 +1,13 @@
 ---
 slug: where-are-the-jobs-in-prime-ministers-bright-future
-title: "Where are the jobs in Prime Minister’s ‘bright future’?"
-date: 2011-01-26
-source-url: https://www.scoop.co.nz/stories/PO1101/S00109/where-are-the-jobs-in-prime-ministers-bright-future.htm
+title: Where are the jobs in Prime Minister’s ‘bright future’?
+date: 2011-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00109/where-are-the-jobs-in-prime-ministers-bright-future.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/01/26/where-are-the-jobs-in-prime-ministers-bright-future/index.html
+layout: layout.njk
 ---
 Where are the jobs in Prime Minister’s ‘bright future’?
 =======================================================

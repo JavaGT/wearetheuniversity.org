@@ -1,9 +1,11 @@
 ---
 slug: the-letter-1-september-2014
-title: "The Letter 1 September 2014"
-date: 2014-09-01
+title: The Letter 1 September 2014
+date: 2014-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1409/S00018/the-letter-1-september-2014.htm
 author: act-new-zealand
+permalink: /archive/2014/09/01/the-letter-1-september-2014/index.html
+layout: layout.njk
 ---
 The Letter 1 September 2014
 ===========================

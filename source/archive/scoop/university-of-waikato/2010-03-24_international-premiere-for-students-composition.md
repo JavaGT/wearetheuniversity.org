@@ -1,9 +1,12 @@
 ---
 slug: international-premiere-for-students-composition
-title: "International premiere for  student's composition"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/CU1003/S00364/international-premiere-for-students-composition.htm
+title: International premiere for  student's composition
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00364/international-premiere-for-students-composition.htm
 author: university-of-waikato
+permalink: /archive/2010/03/24/international-premiere-for-students-composition/index.html
+layout: layout.njk
 ---
 International premiere for student's composition
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-entry-restrictions-a-matter-for-concern
-title: "University entry restrictions a matter for concern"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/ED0712/S00007/university-entry-restrictions-a-matter-for-concern.htm
+title: University entry restrictions a matter for concern
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00007/university-entry-restrictions-a-matter-for-concern.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2007/12/04/university-entry-restrictions-a-matter-for-concern/index.html
+layout: layout.njk
 ---
 University entry restrictions a matter for concern
 ==================================================

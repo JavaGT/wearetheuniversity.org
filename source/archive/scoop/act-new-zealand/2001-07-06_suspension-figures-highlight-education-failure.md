@@ -1,9 +1,12 @@
 ---
 slug: suspension-figures-highlight-education-failure
-title: "Suspension Figures Highlight Education Failure"
-date: 2001-07-06
-source-url: https://www.scoop.co.nz/stories/PA0107/S00102/suspension-figures-highlight-education-failure.htm
+title: Suspension Figures Highlight Education Failure
+date: 2001-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00102/suspension-figures-highlight-education-failure.htm
 author: act-new-zealand
+permalink: /archive/2001/07/06/suspension-figures-highlight-education-failure/index.html
+layout: layout.njk
 ---
 Suspension Figures Highlight Education Failure
 ==============================================

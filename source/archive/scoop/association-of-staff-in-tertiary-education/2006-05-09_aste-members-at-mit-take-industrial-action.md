@@ -1,9 +1,12 @@
 ---
 slug: aste-members-at-mit-take-industrial-action
-title: "ASTE Members at MIT take Industrial Action"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/ED0605/S00032/aste-members-at-mit-take-industrial-action.htm
+title: ASTE Members at MIT take Industrial Action
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00032/aste-members-at-mit-take-industrial-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/05/09/aste-members-at-mit-take-industrial-action/index.html
+layout: layout.njk
 ---
 ASTE Members at MIT take Industrial Action
 ==========================================

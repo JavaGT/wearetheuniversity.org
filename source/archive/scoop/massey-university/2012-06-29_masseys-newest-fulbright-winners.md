@@ -1,9 +1,12 @@
 ---
 slug: masseys-newest-fulbright-winners
-title: "Massey’s newest Fulbright winners"
-date: 2012-06-29
-source-url: https://www.scoop.co.nz/stories/ED1206/S00136/masseys-newest-fulbright-winners.htm
+title: Massey’s newest Fulbright winners
+date: 2012-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00136/masseys-newest-fulbright-winners.htm
 author: massey-university
+permalink: /archive/2012/06/29/masseys-newest-fulbright-winners/index.html
+layout: layout.njk
 ---
 Massey’s newest Fulbright winners
 =================================

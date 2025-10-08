@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-to-national-party-canterbury-westland
-title: "Judy Kirk - to National Party Canterbury-Westland"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00692/judy-kirk-to-national-party-canterbury-westland.htm
+title: Judy Kirk - to National Party Canterbury-Westland
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00692/judy-kirk-to-national-party-canterbury-westland.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/31/judy-kirk-to-national-party-canterbury-westland/index.html
+layout: layout.njk
 ---
 Judy Kirk - to National Party Canterbury-Westland
 =================================================

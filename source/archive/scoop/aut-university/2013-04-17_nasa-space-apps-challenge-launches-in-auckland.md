@@ -1,9 +1,12 @@
 ---
 slug: nasa-space-apps-challenge-launches-in-auckland
-title: "NASA Space Apps Challenge launches in Auckland"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/ED1304/S00112/nasa-space-apps-challenge-launches-in-auckland.htm
+title: NASA Space Apps Challenge launches in Auckland
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00112/nasa-space-apps-challenge-launches-in-auckland.htm
 author: aut-university
+permalink: /archive/2013/04/17/nasa-space-apps-challenge-launches-in-auckland/index.html
+layout: layout.njk
 ---
 NASA Space Apps Challenge launches in Auckland
 ==============================================

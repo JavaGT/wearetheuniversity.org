@@ -1,9 +1,12 @@
 ---
 slug: nuclear-free-nz-to-be-debated-at-otago
-title: "Nuclear-free NZ to be debated at Otago"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PO0508/S00194/nuclear-free-nz-to-be-debated-at-otago.htm
+title: Nuclear-free NZ to be debated at Otago
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00194/nuclear-free-nz-to-be-debated-at-otago.htm
 author: otago-university-students-association
+permalink: /archive/2005/08/17/nuclear-free-nz-to-be-debated-at-otago/index.html
+layout: layout.njk
 ---
 Nuclear-free NZ to be debated at Otago
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: avc-academic-and-open-learning-appointed
-title: "AVC Academic and Open Learning appointed"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00126/avc-academic-and-open-learning-appointed.htm
+title: AVC Academic and Open Learning appointed
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00126/avc-academic-and-open-learning-appointed.htm
 author: massey-university
+permalink: /archive/2009/05/29/avc-academic-and-open-learning-appointed/index.html
+layout: layout.njk
 ---
 AVC Academic and Open Learning appointed
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: four-train-strikes-in-four-months-of-a-labour-govt
-title: "Four train strikes in four months of a Labour Govt"
-date: 2018-03-02
-source-url: https://www.scoop.co.nz/stories/PA1803/S00025/four-train-strikes-in-four-months-of-a-labour-govt.htm
+title: Four train strikes in four months of a Labour Govt
+date: 2018-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00025/four-train-strikes-in-four-months-of-a-labour-govt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/03/02/four-train-strikes-in-four-months-of-a-labour-govt/index.html
+layout: layout.njk
 ---
 Four train strikes in four months of a Labour Govt
 ==================================================

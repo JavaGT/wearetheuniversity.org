@@ -1,9 +1,12 @@
 ---
 slug: the-letter-7-july-2014-election-year-conference
-title: "The Letter - 7 July 2014: Election year conference"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PO1407/S00132/the-letter-7-july-2014-election-year-conference.htm
+title: 'The Letter - 7 July 2014: Election year conference'
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00132/the-letter-7-july-2014-election-year-conference.htm
 author: act-new-zealand
+permalink: /archive/2014/07/08/the-letter-7-july-2014-election-year-conference/index.html
+layout: layout.njk
 ---
 The Letter - 7 July 2014: Election year conference
 ==================================================

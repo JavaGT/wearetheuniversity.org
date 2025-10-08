@@ -1,9 +1,16 @@
 ---
-slug: lincoln-university-launches-joint-institute-with-huazhong-agricultural-university
-title: "Lincoln University Launches Joint Institute With Huazhong Agricultural University"
-date: 2024-06-17
-source-url: https://www.scoop.co.nz/stories/ED2406/S00039/lincoln-university-launches-joint-institute-with-huazhong-agricultural-university.htm
+slug: >-
+  lincoln-university-launches-joint-institute-with-huazhong-agricultural-university
+title: >-
+  Lincoln University Launches Joint Institute With Huazhong Agricultural
+  University
+date: 2024-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00039/lincoln-university-launches-joint-institute-with-huazhong-agricultural-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/06/17/lincoln-university-launches-joint-institute-with-huazhong-agricultural-university/index.html
+layout: layout.njk
 ---
 Lincoln University Launches Joint Institute With Huazhong Agricultural University
 =================================================================================

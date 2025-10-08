@@ -1,9 +1,12 @@
 ---
 slug: masseys-agrifood-expertise-wanted-by-beijing
-title: "Massey's agrifood expertise wanted by Beijing"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/ED1211/S00101/masseys-agrifood-expertise-wanted-by-beijing.htm
+title: Massey's agrifood expertise wanted by Beijing
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00101/masseys-agrifood-expertise-wanted-by-beijing.htm
 author: massey-university
+permalink: /archive/2012/11/14/masseys-agrifood-expertise-wanted-by-beijing/index.html
+layout: layout.njk
 ---
 Massey's agrifood expertise wanted by Beijing
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: rainey-appointed-to-prestigious-max-planck-society
-title: "Rainey appointed to prestigious Max Planck Society"
-date: 2011-03-28
-source-url: https://www.scoop.co.nz/stories/SC1103/S00089/rainey-appointed-to-prestigious-max-planck-society.htm
+title: Rainey appointed to prestigious Max Planck Society
+date: 2011-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00089/rainey-appointed-to-prestigious-max-planck-society.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/28/rainey-appointed-to-prestigious-max-planck-society/index.html
+layout: layout.njk
 ---
 Rainey appointed to prestigious Max Planck Society
 ==================================================

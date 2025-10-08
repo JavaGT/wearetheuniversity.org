@@ -1,9 +1,12 @@
 ---
 slug: presidents-speech-to-the-act-conference
-title: "President's Speech to the ACT Conference"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/PO0603/S00206/presidents-speech-to-the-act-conference.htm
+title: President's Speech to the ACT Conference
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0603/S00206/presidents-speech-to-the-act-conference.htm
 author: act-new-zealand
+permalink: /archive/2006/03/27/presidents-speech-to-the-act-conference/index.html
+layout: layout.njk
 ---
 President's Speech to the ACT Conference
 ========================================

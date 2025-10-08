@@ -1,9 +1,13 @@
 ---
 slug: turia-tipu-ora-certificate-in-hauora-maori-health
-title: "Turia: Tipu Ora Certificate in Hauora Maori Health"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00417/turia-tipu-ora-certificate-in-hauora-maori-health.htm
+title: 'Turia: Tipu Ora Certificate in Hauora Maori Health'
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00417/turia-tipu-ora-certificate-in-hauora-maori-health.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/10/17/turia-tipu-ora-certificate-in-hauora-maori-health/index.html
+layout: layout.njk
 ---
 Turia: Tipu Ora Certificate in Hauora Maori Health
 ==================================================

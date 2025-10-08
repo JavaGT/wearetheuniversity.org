@@ -1,9 +1,12 @@
 ---
 slug: science-faculty-aims-to-meet-student-demand
-title: "Science Faculty aims to meet student demand"
-date: 2000-02-23
-source-url: https://www.scoop.co.nz/stories/ED0002/S00032/science-faculty-aims-to-meet-student-demand.htm
+title: Science Faculty aims to meet student demand
+date: 2000-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00032/science-faculty-aims-to-meet-student-demand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/23/science-faculty-aims-to-meet-student-demand/index.html
+layout: layout.njk
 ---
 Science Faculty aims to meet student demand
 ===========================================

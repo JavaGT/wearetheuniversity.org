@@ -1,9 +1,11 @@
 ---
 slug: address-in-reply-budget-2016
-title: "Address in Reply, Budget 2016"
-date: 2016-05-26
+title: Address in Reply, Budget 2016
+date: 2016-05-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1605/S00557/address-in-reply-budget-2016.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/26/address-in-reply-budget-2016/index.html
+layout: layout.njk
 ---
 Address in Reply, Budget 2016
 =============================

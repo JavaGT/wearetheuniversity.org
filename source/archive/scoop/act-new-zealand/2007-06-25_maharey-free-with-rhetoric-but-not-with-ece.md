@@ -1,9 +1,12 @@
 ---
 slug: maharey-free-with-rhetoric-but-not-with-ece
-title: "Maharey Free With Rhetoric, But Not With ECE"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/PA0706/S00498/maharey-free-with-rhetoric-but-not-with-ece.htm
+title: Maharey Free With Rhetoric, But Not With ECE
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00498/maharey-free-with-rhetoric-but-not-with-ece.htm
 author: act-new-zealand
+permalink: /archive/2007/06/25/maharey-free-with-rhetoric-but-not-with-ece/index.html
+layout: layout.njk
 ---
 Maharey Free With Rhetoric, But Not With ECE
 ============================================

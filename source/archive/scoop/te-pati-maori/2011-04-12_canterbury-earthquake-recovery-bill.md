@@ -1,9 +1,12 @@
 ---
 slug: canterbury-earthquake-recovery-bill
-title: "Canterbury Earthquake Recovery Bill"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/PA1104/S00257/canterbury-earthquake-recovery-bill.htm
+title: Canterbury Earthquake Recovery Bill
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00257/canterbury-earthquake-recovery-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/04/12/canterbury-earthquake-recovery-bill/index.html
+layout: layout.njk
 ---
 Canterbury Earthquake Recovery Bill
 ===================================

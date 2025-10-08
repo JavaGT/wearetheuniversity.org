@@ -1,9 +1,11 @@
 ---
 slug: eqc-hiding-another-botch-up
-title: "EQC hiding another botch up"
-date: 2016-03-07
+title: EQC hiding another botch up
+date: 2016-03-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00105/eqc-hiding-another-botch-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/07/eqc-hiding-another-botch-up/index.html
+layout: layout.njk
 ---
 EQC hiding another botch up
 ===========================

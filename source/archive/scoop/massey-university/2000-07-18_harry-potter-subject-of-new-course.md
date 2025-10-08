@@ -1,9 +1,12 @@
 ---
 slug: harry-potter-subject-of-new-course
-title: "Harry Potter subject of new course"
-date: 2000-07-18
-source-url: https://www.scoop.co.nz/stories/CU0007/S00033/harry-potter-subject-of-new-course.htm
+title: Harry Potter subject of new course
+date: 2000-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0007/S00033/harry-potter-subject-of-new-course.htm
 author: massey-university
+permalink: /archive/2000/07/18/harry-potter-subject-of-new-course/index.html
+layout: layout.njk
 ---
 Harry Potter subject of new course
 ==================================

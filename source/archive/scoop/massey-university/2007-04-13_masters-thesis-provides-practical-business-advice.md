@@ -1,9 +1,13 @@
 ---
 slug: masters-thesis-provides-practical-business-advice
-title: "Masters thesis provides practical business advice"
-date: 2007-04-13
-source-url: https://www.scoop.co.nz/stories/ED0704/S00039/masters-thesis-provides-practical-business-advice.htm
+title: Masters thesis provides practical business advice
+date: 2007-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00039/masters-thesis-provides-practical-business-advice.htm
 author: massey-university
+permalink: >-
+  /archive/2007/04/13/masters-thesis-provides-practical-business-advice/index.html
+layout: layout.njk
 ---
 Masters thesis provides practical business advice
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-coastal-research-centre-agreement-signed
-title: "New coastal research centre agreement signed"
-date: 2014-04-17
-source-url: https://www.scoop.co.nz/stories/SC1404/S00071/new-coastal-research-centre-agreement-signed.htm
+title: New coastal research centre agreement signed
+date: 2014-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00071/new-coastal-research-centre-agreement-signed.htm
 author: university-of-waikato
+permalink: /archive/2014/04/17/new-coastal-research-centre-agreement-signed/index.html
+layout: layout.njk
 ---
 New coastal research centre agreement signed
 ============================================

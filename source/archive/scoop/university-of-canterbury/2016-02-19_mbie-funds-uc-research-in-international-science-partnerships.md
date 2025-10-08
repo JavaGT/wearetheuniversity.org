@@ -1,9 +1,13 @@
 ---
 slug: mbie-funds-uc-research-in-international-science-partnerships
-title: "MBIE funds UC research in international science partnerships"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/SC1602/S00054/mbie-funds-uc-research-in-international-science-partnerships.htm
+title: MBIE funds UC research in international science partnerships
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00054/mbie-funds-uc-research-in-international-science-partnerships.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/02/19/mbie-funds-uc-research-in-international-science-partnerships/index.html
+layout: layout.njk
 ---
 MBIE funds UC research in international science partnerships
 ============================================================

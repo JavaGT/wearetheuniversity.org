@@ -1,9 +1,12 @@
 ---
 slug: experts-see-sea-ice-as-climate-change-indicator
-title: "Experts see sea ice as climate-change indicator"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/ED0511/S00094/experts-see-sea-ice-as-climate-change-indicator.htm
+title: Experts see sea ice as climate-change indicator
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00094/experts-see-sea-ice-as-climate-change-indicator.htm
 author: university-of-otago
+permalink: /archive/2005/11/29/experts-see-sea-ice-as-climate-change-indicator/index.html
+layout: layout.njk
 ---
 Experts see sea ice as climate-change indicator
 ===============================================

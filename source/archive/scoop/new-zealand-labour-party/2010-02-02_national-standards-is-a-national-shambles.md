@@ -1,9 +1,12 @@
 ---
 slug: national-standards-is-a-national-shambles
-title: "National Standards is a national shambles"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/PA1002/S00028/national-standards-is-a-national-shambles.htm
+title: National Standards is a national shambles
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00028/national-standards-is-a-national-shambles.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/02/national-standards-is-a-national-shambles/index.html
+layout: layout.njk
 ---
 National Standards is a national shambles
 =========================================

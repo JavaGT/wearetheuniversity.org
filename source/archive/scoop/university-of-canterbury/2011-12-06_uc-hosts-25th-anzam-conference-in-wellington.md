@@ -1,9 +1,12 @@
 ---
 slug: uc-hosts-25th-anzam-conference-in-wellington
-title: "UC hosts 25th ANZAM conference in Wellington"
-date: 2011-12-06
-source-url: https://www.scoop.co.nz/stories/ED1112/S00033/uc-hosts-25th-anzam-conference-in-wellington.htm
+title: UC hosts 25th ANZAM conference in Wellington
+date: 2011-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00033/uc-hosts-25th-anzam-conference-in-wellington.htm
 author: university-of-canterbury
+permalink: /archive/2011/12/06/uc-hosts-25th-anzam-conference-in-wellington/index.html
+layout: layout.njk
 ---
 UC hosts 25th ANZAM conference in Wellington
 ============================================

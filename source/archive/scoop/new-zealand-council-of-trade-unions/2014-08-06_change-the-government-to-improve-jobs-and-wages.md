@@ -1,9 +1,12 @@
 ---
 slug: change-the-government-to-improve-jobs-and-wages
-title: "Change the Government to improve jobs and wages"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PO1408/S00081/change-the-government-to-improve-jobs-and-wages.htm
+title: Change the Government to improve jobs and wages
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00081/change-the-government-to-improve-jobs-and-wages.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/08/06/change-the-government-to-improve-jobs-and-wages/index.html
+layout: layout.njk
 ---
 Change the Government to improve jobs and wages
 ===============================================

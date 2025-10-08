@@ -1,9 +1,12 @@
 ---
 slug: engineering-student-joins-illustrious-list
-title: "Engineering student joins illustrious list"
-date: 2004-12-10
-source-url: https://www.scoop.co.nz/stories/ED0412/S00037/engineering-student-joins-illustrious-list.htm
+title: Engineering student joins illustrious list
+date: 2004-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00037/engineering-student-joins-illustrious-list.htm
 author: auckland-university
+permalink: /archive/2004/12/10/engineering-student-joins-illustrious-list/index.html
+layout: layout.njk
 ---
 Engineering student joins illustrious list
 ==========================================

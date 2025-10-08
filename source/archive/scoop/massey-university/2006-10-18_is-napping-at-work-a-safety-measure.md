@@ -1,9 +1,12 @@
 ---
 slug: is-napping-at-work-a-safety-measure
-title: "Is napping at work a safety measure?"
-date: 2006-10-18
-source-url: https://www.scoop.co.nz/stories/SC0610/S00039/is-napping-at-work-a-safety-measure.htm
+title: Is napping at work a safety measure?
+date: 2006-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0610/S00039/is-napping-at-work-a-safety-measure.htm
 author: massey-university
+permalink: /archive/2006/10/18/is-napping-at-work-a-safety-measure/index.html
+layout: layout.njk
 ---
 Is napping at work a safety measure?
 ====================================

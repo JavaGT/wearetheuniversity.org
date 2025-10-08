@@ -1,9 +1,13 @@
 ---
 slug: university-backs-comments-on-impact-of-funding-decision
-title: "University backs comments on impact of funding decision"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/ED1403/S00086/university-backs-comments-on-impact-of-funding-decision.htm
+title: University backs comments on impact of funding decision
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00086/university-backs-comments-on-impact-of-funding-decision.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/14/university-backs-comments-on-impact-of-funding-decision/index.html
+layout: layout.njk
 ---
 University backs comments on impact of funding decision
 =======================================================

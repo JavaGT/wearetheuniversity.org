@@ -1,9 +1,12 @@
 ---
 slug: uc-phd-gets-a-top-job-at-nasa-funded-institute
-title: "UC PhD gets a top job at NASA-funded institute"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/ED1211/S00069/uc-phd-gets-a-top-job-at-nasa-funded-institute.htm
+title: UC PhD gets a top job at NASA-funded institute
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00069/uc-phd-gets-a-top-job-at-nasa-funded-institute.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/08/uc-phd-gets-a-top-job-at-nasa-funded-institute/index.html
+layout: layout.njk
 ---
 UC PhD gets a top job at NASA-funded institute
 ==============================================

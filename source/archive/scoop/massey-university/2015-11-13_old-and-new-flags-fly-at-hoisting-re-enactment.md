@@ -1,9 +1,12 @@
 ---
 slug: old-and-new-flags-fly-at-hoisting-re-enactment
-title: "Old and new flags fly at hoisting re-enactment"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/ED1511/S00077/old-and-new-flags-fly-at-hoisting-re-enactment.htm
+title: Old and new flags fly at hoisting re-enactment
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00077/old-and-new-flags-fly-at-hoisting-re-enactment.htm
 author: massey-university
+permalink: /archive/2015/11/13/old-and-new-flags-fly-at-hoisting-re-enactment/index.html
+layout: layout.njk
 ---
 Old and new flags fly at hoisting re-enactment
 ==============================================

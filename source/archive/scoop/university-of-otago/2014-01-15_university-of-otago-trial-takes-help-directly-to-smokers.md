@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-trial-takes-help-directly-to-smokers
-title: "University of Otago trial takes help directly to smokers"
-date: 2014-01-15
-source-url: https://www.scoop.co.nz/stories/SC1401/S00027/university-of-otago-trial-takes-help-directly-to-smokers.htm
+title: University of Otago trial takes help directly to smokers
+date: 2014-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00027/university-of-otago-trial-takes-help-directly-to-smokers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/01/15/university-of-otago-trial-takes-help-directly-to-smokers/index.html
+layout: layout.njk
 ---
 University of Otago trial takes help directly to smokers
 ========================================================

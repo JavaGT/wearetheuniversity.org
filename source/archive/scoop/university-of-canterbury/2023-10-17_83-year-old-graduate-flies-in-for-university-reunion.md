@@ -1,9 +1,13 @@
 ---
 slug: 83-year-old-graduate-flies-in-for-university-reunion
-title: "83-year-old Graduate Flies In For University Reunion"
-date: 2023-10-17
-source-url: https://www.scoop.co.nz/stories/CU2310/S00116/83-year-old-graduate-flies-in-for-university-reunion.htm
+title: 83-year-old Graduate Flies In For University Reunion
+date: 2023-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2310/S00116/83-year-old-graduate-flies-in-for-university-reunion.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/10/17/83-year-old-graduate-flies-in-for-university-reunion/index.html
+layout: layout.njk
 ---
 83-year-old Graduate Flies In For University Reunion
 ====================================================

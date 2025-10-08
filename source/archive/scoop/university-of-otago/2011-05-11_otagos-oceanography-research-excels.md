@@ -1,9 +1,12 @@
 ---
 slug: otagos-oceanography-research-excels
-title: "Otago’s oceanography research excels"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/ED1105/S00040/otagos-oceanography-research-excels.htm
+title: Otago’s oceanography research excels
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00040/otagos-oceanography-research-excels.htm
 author: university-of-otago
+permalink: /archive/2011/05/11/otagos-oceanography-research-excels/index.html
+layout: layout.njk
 ---
 Otago’s oceanography research excels
 ====================================

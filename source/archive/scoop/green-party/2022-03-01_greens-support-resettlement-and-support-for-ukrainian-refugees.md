@@ -1,9 +1,13 @@
 ---
 slug: greens-support-resettlement-and-support-for-ukrainian-refugees
-title: "Greens Support Resettlement And Support For Ukrainian Refugees"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/PA2203/S00007/greens-support-resettlement-and-support-for-ukrainian-refugees.htm
+title: Greens Support Resettlement And Support For Ukrainian Refugees
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00007/greens-support-resettlement-and-support-for-ukrainian-refugees.htm
 author: green-party
+permalink: >-
+  /archive/2022/03/01/greens-support-resettlement-and-support-for-ukrainian-refugees/index.html
+layout: layout.njk
 ---
 Greens Support Resettlement And Support For Ukrainian Refugees
 ==============================================================

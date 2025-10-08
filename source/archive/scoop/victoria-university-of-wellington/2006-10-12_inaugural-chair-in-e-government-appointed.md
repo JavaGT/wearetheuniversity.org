@@ -1,9 +1,12 @@
 ---
 slug: inaugural-chair-in-e-government-appointed
-title: "Inaugural Chair in E-Government appointed"
-date: 2006-10-12
-source-url: https://www.scoop.co.nz/stories/ED0610/S00052/inaugural-chair-in-e-government-appointed.htm
+title: Inaugural Chair in E-Government appointed
+date: 2006-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00052/inaugural-chair-in-e-government-appointed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/12/inaugural-chair-in-e-government-appointed/index.html
+layout: layout.njk
 ---
 Inaugural Chair in E-Government appointed
 =========================================

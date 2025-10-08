@@ -1,9 +1,11 @@
 ---
 slug: wake-up-national
-title: "Wake up National"
-date: 2012-10-19
+title: Wake up National
+date: 2012-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1210/S00356/wake-up-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/19/wake-up-national/index.html
+layout: layout.njk
 ---
 Wake up National
 ================

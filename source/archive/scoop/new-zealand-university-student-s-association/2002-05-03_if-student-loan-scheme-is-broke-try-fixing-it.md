@@ -1,9 +1,12 @@
 ---
 slug: if-student-loan-scheme-is-broke-try-fixing-it
-title: "If Student Loan Scheme Is Broke Try Fixing It"
-date: 2002-05-03
-source-url: https://www.scoop.co.nz/stories/PO0205/S00046/if-student-loan-scheme-is-broke-try-fixing-it.htm
+title: If Student Loan Scheme Is Broke Try Fixing It
+date: 2002-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00046/if-student-loan-scheme-is-broke-try-fixing-it.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/03/if-student-loan-scheme-is-broke-try-fixing-it/index.html
+layout: layout.njk
 ---
 If Student Loan Scheme Is Broke Try Fixing It
 =============================================

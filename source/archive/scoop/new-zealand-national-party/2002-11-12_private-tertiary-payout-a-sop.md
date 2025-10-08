@@ -1,9 +1,12 @@
 ---
 slug: private-tertiary-payout-a-sop
-title: "Private tertiary payout a sop"
-date: 2002-11-12
-source-url: https://www.scoop.co.nz/stories/PA0211/S00262/private-tertiary-payout-a-sop.htm
+title: Private tertiary payout a sop
+date: 2002-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00262/private-tertiary-payout-a-sop.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/12/private-tertiary-payout-a-sop/index.html
+layout: layout.njk
 ---
 Private tertiary payout a sop
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: unravelling-the-legend-behind-homo-floresiensis
-title: "Unravelling The Legend Behind Homo Floresiensis"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/SC1211/S00007/unravelling-the-legend-behind-homo-floresiensis.htm
+title: Unravelling The Legend Behind Homo Floresiensis
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00007/unravelling-the-legend-behind-homo-floresiensis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/11/01/unravelling-the-legend-behind-homo-floresiensis/index.html
+layout: layout.njk
 ---
 Unravelling The Legend Behind Homo Floresiensis
 ===============================================

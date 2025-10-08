@@ -1,9 +1,12 @@
 ---
 slug: uc-investing-$2-6m-in-cutting-edge-research-equipment
-title: "UC investing $2.6m in cutting edge research equipment"
-date: 2019-08-27
-source-url: https://www.scoop.co.nz/stories/SC1908/S00062/uc-investing-26m-in-cutting-edge-research-equipment.htm
+title: UC investing $2.6m in cutting edge research equipment
+date: 2019-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00062/uc-investing-26m-in-cutting-edge-research-equipment.htm
 author: university-of-canterbury
+permalink: /archive/2019/08/27/uc-investing-/index.html
+layout: layout.njk
 ---
 UC investing $2.6m in cutting edge research equipment
 =====================================================

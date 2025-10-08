@@ -1,9 +1,12 @@
 ---
 slug: speech-to-act-northern-regional-conference
-title: "Speech to ACT Northern Regional Conference"
-date: 2014-06-28
-source-url: https://www.scoop.co.nz/stories/PO1406/S00459/speech-to-act-northern-regional-conference.htm
+title: Speech to ACT Northern Regional Conference
+date: 2014-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00459/speech-to-act-northern-regional-conference.htm
 author: act-new-zealand
+permalink: /archive/2014/06/28/speech-to-act-northern-regional-conference/index.html
+layout: layout.njk
 ---
 Speech to ACT Northern Regional Conference
 ==========================================

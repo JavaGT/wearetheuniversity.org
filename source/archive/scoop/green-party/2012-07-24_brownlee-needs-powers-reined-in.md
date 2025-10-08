@@ -1,9 +1,12 @@
 ---
 slug: brownlee-needs-powers-reined-in
-title: "Brownlee needs powers reined in"
-date: 2012-07-24
-source-url: https://www.scoop.co.nz/stories/PA1207/S00317/brownlee-needs-powers-reined-in.htm
+title: Brownlee needs powers reined in
+date: 2012-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00317/brownlee-needs-powers-reined-in.htm
 author: green-party
+permalink: /archive/2012/07/24/brownlee-needs-powers-reined-in/index.html
+layout: layout.njk
 ---
 Brownlee needs powers reined in
 ===============================

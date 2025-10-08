@@ -1,9 +1,13 @@
 ---
 slug: aut-business-school-excellence-in-business-support-awards
-title: "AUT Business School Excellence in Business Support Awards"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/ED1406/S00050/aut-business-school-excellence-in-business-support-awards.htm
+title: AUT Business School Excellence in Business Support Awards
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00050/aut-business-school-excellence-in-business-support-awards.htm
 author: aut-university
+permalink: >-
+  /archive/2014/06/10/aut-business-school-excellence-in-business-support-awards/index.html
+layout: layout.njk
 ---
 AUT Business School Excellence in Business Support Awards
 =========================================================

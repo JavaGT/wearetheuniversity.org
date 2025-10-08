@@ -1,9 +1,13 @@
 ---
 slug: low-levels-of-vitamin-d-linked-to-pneumonia-deaths
-title: "Low levels of vitamin D linked to pneumonia deaths"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/SC1105/S00032/low-levels-of-vitamin-d-linked-to-pneumonia-deaths.htm
+title: Low levels of vitamin D linked to pneumonia deaths
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00032/low-levels-of-vitamin-d-linked-to-pneumonia-deaths.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/05/11/low-levels-of-vitamin-d-linked-to-pneumonia-deaths/index.html
+layout: layout.njk
 ---
 Low levels of vitamin D linked to pneumonia deaths
 ==================================================

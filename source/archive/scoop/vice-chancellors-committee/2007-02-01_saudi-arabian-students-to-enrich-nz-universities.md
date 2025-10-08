@@ -1,9 +1,13 @@
 ---
 slug: saudi-arabian-students-to-enrich-nz-universities
-title: "Saudi Arabian Students To Enrich NZ Universities"
-date: 2007-02-01
-source-url: https://www.scoop.co.nz/stories/ED0702/S00001/saudi-arabian-students-to-enrich-nz-universities.htm
+title: Saudi Arabian Students To Enrich NZ Universities
+date: 2007-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00001/saudi-arabian-students-to-enrich-nz-universities.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2007/02/01/saudi-arabian-students-to-enrich-nz-universities/index.html
+layout: layout.njk
 ---
 Saudi Arabian Students To Enrich NZ Universities
 ================================================

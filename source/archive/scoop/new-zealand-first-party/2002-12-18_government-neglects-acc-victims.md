@@ -1,9 +1,12 @@
 ---
 slug: government-neglects-acc-victims
-title: "Government Neglects Acc Victims"
-date: 2002-12-18
-source-url: https://www.scoop.co.nz/stories/PA0212/S00464/government-neglects-acc-victims.htm
+title: Government Neglects Acc Victims
+date: 2002-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00464/government-neglects-acc-victims.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/18/government-neglects-acc-victims/index.html
+layout: layout.njk
 ---
 Government Neglects Acc Victims
 ===============================

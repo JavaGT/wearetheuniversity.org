@@ -1,9 +1,11 @@
 ---
 slug: giving-is-good-for-business
-title: "Giving Is good for business"
-date: 2006-09-28
+title: Giving Is good for business
+date: 2006-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0609/S00478/giving-is-good-for-business.htm
 author: aut-university
+permalink: /archive/2006/09/28/giving-is-good-for-business/index.html
+layout: layout.njk
 ---
 Giving Is good for business
 ===========================

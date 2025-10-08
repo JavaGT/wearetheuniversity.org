@@ -1,9 +1,13 @@
 ---
 slug: outstanding-young-musicians-receive-kiwi-music-scholarships
-title: "Outstanding Young Musicians Receive Kiwi Music Scholarships"
-date: 2020-10-27
-source-url: https://www.scoop.co.nz/stories/ED2010/S00044/outstanding-young-musicians-receive-kiwi-music-scholarships.htm
+title: Outstanding Young Musicians Receive Kiwi Music Scholarships
+date: 2020-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00044/outstanding-young-musicians-receive-kiwi-music-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/10/27/outstanding-young-musicians-receive-kiwi-music-scholarships/index.html
+layout: layout.njk
 ---
 Outstanding Young Musicians Receive Kiwi Music Scholarships
 ===========================================================

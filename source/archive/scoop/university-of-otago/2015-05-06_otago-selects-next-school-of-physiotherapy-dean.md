@@ -1,9 +1,12 @@
 ---
 slug: otago-selects-next-school-of-physiotherapy-dean
-title: "Otago selects next School of Physiotherapy Dean"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/ED1505/S00026/otago-selects-next-school-of-physiotherapy-dean.htm
+title: Otago selects next School of Physiotherapy Dean
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00026/otago-selects-next-school-of-physiotherapy-dean.htm
 author: university-of-otago
+permalink: /archive/2015/05/06/otago-selects-next-school-of-physiotherapy-dean/index.html
+layout: layout.njk
 ---
 Otago selects next School of Physiotherapy Dean
 ===============================================

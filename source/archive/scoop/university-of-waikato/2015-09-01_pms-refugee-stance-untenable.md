@@ -1,9 +1,11 @@
 ---
 slug: pms-refugee-stance-untenable
-title: "PM’s refugee stance untenable"
-date: 2015-09-01
+title: PM’s refugee stance untenable
+date: 2015-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1509/S00004/pms-refugee-stance-untenable.htm
 author: university-of-waikato
+permalink: /archive/2015/09/01/pms-refugee-stance-untenable/index.html
+layout: layout.njk
 ---
 PM’s refugee stance untenable
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: uc-quake-experts-gain-eqc-funding-for-research
-title: "UC quake experts gain EQC funding for research"
-date: 2018-02-01
-source-url: https://www.scoop.co.nz/stories/SC1802/S00005/uc-quake-experts-gain-eqc-funding-for-research.htm
+title: UC quake experts gain EQC funding for research
+date: 2018-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00005/uc-quake-experts-gain-eqc-funding-for-research.htm
 author: university-of-canterbury
+permalink: /archive/2018/02/01/uc-quake-experts-gain-eqc-funding-for-research/index.html
+layout: layout.njk
 ---
 UC quake experts gain EQC funding for research
 ==============================================

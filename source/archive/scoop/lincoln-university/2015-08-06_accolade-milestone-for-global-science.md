@@ -1,9 +1,12 @@
 ---
 slug: accolade-milestone-for-global-science
-title: "Accolade milestone for global science"
-date: 2015-08-06
-source-url: https://www.scoop.co.nz/stories/ED1508/S00018/accolade-milestone-for-global-science.htm
+title: Accolade milestone for global science
+date: 2015-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00018/accolade-milestone-for-global-science.htm
 author: lincoln-university
+permalink: /archive/2015/08/06/accolade-milestone-for-global-science/index.html
+layout: layout.njk
 ---
 Accolade milestone for global science
 =====================================

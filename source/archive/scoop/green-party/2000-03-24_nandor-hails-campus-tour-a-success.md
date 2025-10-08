@@ -1,9 +1,12 @@
 ---
 slug: nandor-hails-campus-tour-a-success
-title: "Nandor Hails Campus Tour A Success"
-date: 2000-03-24
-source-url: https://www.scoop.co.nz/stories/PA0003/S00408/nandor-hails-campus-tour-a-success.htm
+title: Nandor Hails Campus Tour A Success
+date: 2000-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00408/nandor-hails-campus-tour-a-success.htm
 author: green-party
+permalink: /archive/2000/03/24/nandor-hails-campus-tour-a-success/index.html
+layout: layout.njk
 ---
 Nandor Hails Campus Tour A Success
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: the-unintended-consequences-of-abolishing-youth-rates
-title: "The Unintended Consequences Of Abolishing Youth Rates"
-date: 2012-03-26
-source-url: https://www.scoop.co.nz/stories/PA1203/S00331/the-unintended-consequences-of-abolishing-youth-rates.htm
+title: The Unintended Consequences Of Abolishing Youth Rates
+date: 2012-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00331/the-unintended-consequences-of-abolishing-youth-rates.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2012/03/26/the-unintended-consequences-of-abolishing-youth-rates/index.html
+layout: layout.njk
 ---
 The Unintended Consequences Of Abolishing Youth Rates
 =====================================================

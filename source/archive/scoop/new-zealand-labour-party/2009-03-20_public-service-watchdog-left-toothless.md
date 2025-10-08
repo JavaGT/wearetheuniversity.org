@@ -1,9 +1,12 @@
 ---
 slug: public-service-watchdog-left-toothless
-title: "Public service watchdog left toothless"
-date: 2009-03-20
-source-url: https://www.scoop.co.nz/stories/PA0903/S00299/public-service-watchdog-left-toothless.htm
+title: Public service watchdog left toothless
+date: 2009-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00299/public-service-watchdog-left-toothless.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/20/public-service-watchdog-left-toothless/index.html
+layout: layout.njk
 ---
 Public service watchdog left toothless
 ======================================

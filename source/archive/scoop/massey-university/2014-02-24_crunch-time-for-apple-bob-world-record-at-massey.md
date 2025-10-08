@@ -1,9 +1,13 @@
 ---
 slug: crunch-time-for-apple-bob-world-record-at-massey
-title: "Crunch time for apple-bob world record at Massey"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/CU1402/S00470/crunch-time-for-apple-bob-world-record-at-massey.htm
+title: Crunch time for apple-bob world record at Massey
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00470/crunch-time-for-apple-bob-world-record-at-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2014/02/24/crunch-time-for-apple-bob-world-record-at-massey/index.html
+layout: layout.njk
 ---
 Crunch time for apple-bob world record at Massey
 ================================================

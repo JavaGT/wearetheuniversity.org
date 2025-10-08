@@ -1,9 +1,13 @@
 ---
 slug: maori-party-do-not-vote-for-labour-due-to-euthanasia
-title: "Maori Party - Do Not Vote for Labour Due to Euthanasia"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PO1709/S00292/maori-party-do-not-vote-for-labour-due-to-euthanasia.htm
+title: Maori Party - Do Not Vote for Labour Due to Euthanasia
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00292/maori-party-do-not-vote-for-labour-due-to-euthanasia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/09/15/maori-party-do-not-vote-for-labour-due-to-euthanasia/index.html
+layout: layout.njk
 ---
 Maori Party - Do Not Vote for Labour Due to Euthanasia
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: study-helps-give-kids-the-best-start-to-reduce-obesity-rates
-title: "Study helps give kids the best start to reduce obesity rates"
-date: 2015-12-21
-source-url: https://www.scoop.co.nz/stories/GE1512/S00096/study-helps-give-kids-the-best-start-to-reduce-obesity-rates.htm
+title: Study helps give kids the best start to reduce obesity rates
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1512/S00096/study-helps-give-kids-the-best-start-to-reduce-obesity-rates.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/21/study-helps-give-kids-the-best-start-to-reduce-obesity-rates/index.html
+layout: layout.njk
 ---
 Study helps give kids the best start to reduce obesity rates
 ============================================================

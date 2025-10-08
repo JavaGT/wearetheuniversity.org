@@ -1,9 +1,12 @@
 ---
 slug: international-interest-in-beatles-study
-title: "International Interest In Beatles Study"
-date: 2007-03-13
-source-url: https://www.scoop.co.nz/stories/ED0703/S00036/international-interest-in-beatles-study.htm
+title: International Interest In Beatles Study
+date: 2007-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00036/international-interest-in-beatles-study.htm
 author: massey-university
+permalink: /archive/2007/03/13/international-interest-in-beatles-study/index.html
+layout: layout.njk
 ---
 International Interest In Beatles Study
 =======================================

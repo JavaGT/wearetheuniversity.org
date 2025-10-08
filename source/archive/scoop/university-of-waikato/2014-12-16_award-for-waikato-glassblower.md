@@ -1,9 +1,12 @@
 ---
 slug: award-for-waikato-glassblower
-title: "Award for Waikato glassblower"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/SC1412/S00051/award-for-waikato-glassblower.htm
+title: Award for Waikato glassblower
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00051/award-for-waikato-glassblower.htm
 author: university-of-waikato
+permalink: /archive/2014/12/16/award-for-waikato-glassblower/index.html
+layout: layout.njk
 ---
 Award for Waikato glassblower
 =============================

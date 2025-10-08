@@ -1,9 +1,12 @@
 ---
 slug: association-saddened-by-students-death
-title: "Association Saddened By Students’ Death"
-date: 2001-03-01
-source-url: https://www.scoop.co.nz/stories/ED0103/S00003/association-saddened-by-students-death.htm
+title: Association Saddened By Students’ Death
+date: 2001-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00003/association-saddened-by-students-death.htm
 author: otago-university-students-association
+permalink: /archive/2001/03/01/association-saddened-by-students-death/index.html
+layout: layout.njk
 ---
 Association Saddened By Students’ Death
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: fulbright-scholar-awarded-the-adam-writing-prize
-title: "Fulbright Scholar awarded the Adam Writing Prize"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/ED0312/S00040/fulbright-scholar-awarded-the-adam-writing-prize.htm
+title: Fulbright Scholar awarded the Adam Writing Prize
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00040/fulbright-scholar-awarded-the-adam-writing-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/12/09/fulbright-scholar-awarded-the-adam-writing-prize/index.html
+layout: layout.njk
 ---
 Fulbright Scholar awarded the Adam Writing Prize
 ================================================

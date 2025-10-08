@@ -1,9 +1,12 @@
 ---
 slug: young-nats-launch-campaign-to-fix-studylink
-title: "Young Nats launch campaign to fix StudyLink"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/PO1304/S00366/young-nats-launch-campaign-to-fix-studylink.htm
+title: Young Nats launch campaign to fix StudyLink
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00366/young-nats-launch-campaign-to-fix-studylink.htm
 author: new-zealand-young-nationals
+permalink: /archive/2013/04/29/young-nats-launch-campaign-to-fix-studylink/index.html
+layout: layout.njk
 ---
 Young Nats launch campaign to fix StudyLink
 ===========================================

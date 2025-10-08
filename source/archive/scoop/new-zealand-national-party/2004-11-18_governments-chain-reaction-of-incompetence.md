@@ -1,9 +1,12 @@
 ---
 slug: governments-chain-reaction-of-incompetence
-title: "Government's chain reaction of incompetence"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/PA0411/S00395/governments-chain-reaction-of-incompetence.htm
+title: Government's chain reaction of incompetence
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00395/governments-chain-reaction-of-incompetence.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/18/governments-chain-reaction-of-incompetence/index.html
+layout: layout.njk
 ---
 Government's chain reaction of incompetence
 ===========================================

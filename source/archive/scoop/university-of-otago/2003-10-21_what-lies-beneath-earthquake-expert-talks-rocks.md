@@ -1,9 +1,12 @@
 ---
 slug: what-lies-beneath-earthquake-expert-talks-rocks
-title: "What Lies Beneath? Earthquake Expert Talks Rocks"
-date: 2003-10-21
-source-url: https://www.scoop.co.nz/stories/SC0310/S00073/what-lies-beneath-earthquake-expert-talks-rocks.htm
+title: What Lies Beneath? Earthquake Expert Talks Rocks
+date: 2003-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0310/S00073/what-lies-beneath-earthquake-expert-talks-rocks.htm
 author: university-of-otago
+permalink: /archive/2003/10/21/what-lies-beneath-earthquake-expert-talks-rocks/index.html
+layout: layout.njk
 ---
 What Lies Beneath? Earthquake Expert Talks Rocks
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: refusal-to-reimburse-fees-disappoints-students
-title: "Refusal To Reimburse Fees Disappoints Students"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/ED0205/S00016/refusal-to-reimburse-fees-disappoints-students.htm
+title: Refusal To Reimburse Fees Disappoints Students
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00016/refusal-to-reimburse-fees-disappoints-students.htm
 author: victoria-university-students-association
+permalink: /archive/2002/05/09/refusal-to-reimburse-fees-disappoints-students/index.html
+layout: layout.njk
 ---
 Refusal To Reimburse Fees Disappoints Students
 ==============================================

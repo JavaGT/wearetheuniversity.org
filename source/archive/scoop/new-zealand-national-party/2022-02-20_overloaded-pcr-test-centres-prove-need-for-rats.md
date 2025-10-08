@@ -1,9 +1,12 @@
 ---
 slug: overloaded-pcr-test-centres-prove-need-for-rats
-title: "Overloaded PCR Test Centres Prove Need For RATs"
-date: 2022-02-20
-source-url: https://www.scoop.co.nz/stories/PA2202/S00138/overloaded-pcr-test-centres-prove-need-for-rats.htm
+title: Overloaded PCR Test Centres Prove Need For RATs
+date: 2022-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00138/overloaded-pcr-test-centres-prove-need-for-rats.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/20/overloaded-pcr-test-centres-prove-need-for-rats/index.html
+layout: layout.njk
 ---
 Overloaded PCR Test Centres Prove Need For RATs
 ===============================================

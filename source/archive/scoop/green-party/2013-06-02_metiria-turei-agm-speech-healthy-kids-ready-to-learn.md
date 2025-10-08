@@ -1,9 +1,13 @@
 ---
 slug: metiria-turei-agm-speech-healthy-kids-ready-to-learn
-title: "Metiria Turei AGM Speech: Healthy Kids Ready to Learn"
-date: 2013-06-02
-source-url: https://www.scoop.co.nz/stories/PA1306/S00006/metiria-turei-agm-speech-healthy-kids-ready-to-learn.htm
+title: 'Metiria Turei AGM Speech: Healthy Kids Ready to Learn'
+date: 2013-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00006/metiria-turei-agm-speech-healthy-kids-ready-to-learn.htm
 author: green-party
+permalink: >-
+  /archive/2013/06/02/metiria-turei-agm-speech-healthy-kids-ready-to-learn/index.html
+layout: layout.njk
 ---
 Metiria Turei AGM Speech: Healthy Kids Ready to Learn
 =====================================================

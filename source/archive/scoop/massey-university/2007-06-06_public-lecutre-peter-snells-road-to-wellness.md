@@ -1,9 +1,12 @@
 ---
 slug: public-lecutre-peter-snells-road-to-wellness
-title: "Public Lecutre: Peter Snell’s road to wellness"
-date: 2007-06-06
-source-url: https://www.scoop.co.nz/stories/ED0706/S00015/public-lecutre-peter-snells-road-to-wellness.htm
+title: 'Public Lecutre: Peter Snell’s road to wellness'
+date: 2007-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00015/public-lecutre-peter-snells-road-to-wellness.htm
 author: massey-university
+permalink: /archive/2007/06/06/public-lecutre-peter-snells-road-to-wellness/index.html
+layout: layout.njk
 ---
 Public Lecutre: Peter Snell’s road to wellness
 ==============================================

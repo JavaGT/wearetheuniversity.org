@@ -1,9 +1,12 @@
 ---
 slug: time-to-move-family-law-forward
-title: "Time to Move Family Law Forward"
-date: 2000-11-22
-source-url: https://www.scoop.co.nz/stories/PA0011/S00405/time-to-move-family-law-forward.htm
+title: Time to Move Family Law Forward
+date: 2000-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00405/time-to-move-family-law-forward.htm
 author: act-new-zealand
+permalink: /archive/2000/11/22/time-to-move-family-law-forward/index.html
+layout: layout.njk
 ---
 Time to Move Family Law Forward
 ===============================

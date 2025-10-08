@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-bug-collection-going-digital
-title: "Lincoln University’s ‘bug’ collection going digital"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/ED1205/S00163/lincoln-universitys-bug-collection-going-digital.htm
+title: Lincoln University’s ‘bug’ collection going digital
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00163/lincoln-universitys-bug-collection-going-digital.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/05/31/lincoln-universitys-bug-collection-going-digital/index.html
+layout: layout.njk
 ---
 Lincoln University’s ‘bug’ collection going digital
 ===================================================

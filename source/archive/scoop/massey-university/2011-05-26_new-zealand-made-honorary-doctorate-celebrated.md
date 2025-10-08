@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-made-honorary-doctorate-celebrated
-title: "‘New Zealand Made’ Honorary Doctorate Celebrated"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/ED1105/S00112/new-zealand-made-honorary-doctorate-celebrated.htm
+title: ‘New Zealand Made’ Honorary Doctorate Celebrated
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00112/new-zealand-made-honorary-doctorate-celebrated.htm
 author: massey-university
+permalink: /archive/2011/05/26/new-zealand-made-honorary-doctorate-celebrated/index.html
+layout: layout.njk
 ---
 ‘New Zealand Made’ Honorary Doctorate Celebrated
 ================================================

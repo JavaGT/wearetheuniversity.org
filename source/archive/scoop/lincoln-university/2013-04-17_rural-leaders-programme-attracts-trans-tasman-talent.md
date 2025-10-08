@@ -1,9 +1,13 @@
 ---
 slug: rural-leaders-programme-attracts-trans-tasman-talent
-title: "Rural Leaders Programme Attracts Trans-Tasman Talent"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/ED1304/S00108/rural-leaders-programme-attracts-trans-tasman-talent.htm
+title: Rural Leaders Programme Attracts Trans-Tasman Talent
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00108/rural-leaders-programme-attracts-trans-tasman-talent.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/04/17/rural-leaders-programme-attracts-trans-tasman-talent/index.html
+layout: layout.njk
 ---
 Rural Leaders Programme Attracts Trans-Tasman Talent
 ====================================================

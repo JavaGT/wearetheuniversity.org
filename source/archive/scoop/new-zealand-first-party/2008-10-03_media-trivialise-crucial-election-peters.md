@@ -1,9 +1,12 @@
 ---
 slug: media-trivialise-crucial-election-peters
-title: "Media Trivialise Crucial Election - Peters"
-date: 2008-10-03
-source-url: https://www.scoop.co.nz/stories/PA0810/S00081/media-trivialise-crucial-election-peters.htm
+title: Media Trivialise Crucial Election - Peters
+date: 2008-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00081/media-trivialise-crucial-election-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/03/media-trivialise-crucial-election-peters/index.html
+layout: layout.njk
 ---
 Media Trivialise Crucial Election - Peters
 ==========================================

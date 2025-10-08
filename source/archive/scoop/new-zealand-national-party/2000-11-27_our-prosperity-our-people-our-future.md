@@ -1,9 +1,12 @@
 ---
 slug: our-prosperity-our-people-our-future
-title: "Our Prosperity, Our People, Our Future"
-date: 2000-11-27
-source-url: https://www.scoop.co.nz/stories/PA0011/S00473/our-prosperity-our-people-our-future.htm
+title: Our Prosperity, Our People, Our Future
+date: 2000-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00473/our-prosperity-our-people-our-future.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/27/our-prosperity-our-people-our-future/index.html
+layout: layout.njk
 ---
 Our Prosperity, Our People, Our Future
 ======================================

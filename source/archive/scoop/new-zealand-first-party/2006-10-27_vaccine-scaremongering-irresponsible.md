@@ -1,9 +1,12 @@
 ---
 slug: vaccine-scaremongering-irresponsible
-title: "Vaccine Scaremongering Irresponsible"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PA0610/S00531/vaccine-scaremongering-irresponsible.htm
+title: Vaccine Scaremongering Irresponsible
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00531/vaccine-scaremongering-irresponsible.htm
 author: new-zealand-first-party
+permalink: /archive/2006/10/27/vaccine-scaremongering-irresponsible/index.html
+layout: layout.njk
 ---
 Vaccine Scaremongering Irresponsible
 ====================================

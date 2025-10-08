@@ -1,9 +1,12 @@
 ---
 slug: child-health-research-receives-shot-in-the-arm
-title: "Child health research receives shot in the arm"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/ED0504/S00056/child-health-research-receives-shot-in-the-arm.htm
+title: Child health research receives shot in the arm
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00056/child-health-research-receives-shot-in-the-arm.htm
 author: auckland-university
+permalink: /archive/2005/04/14/child-health-research-receives-shot-in-the-arm/index.html
+layout: layout.njk
 ---
 Child health research receives shot in the arm
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-green-party-advocates-continuity-of-employment
-title: "The Green Party Advocates Continuity of Employment"
-date: 2000-08-14
-source-url: https://www.scoop.co.nz/stories/PA0008/S00239/the-green-party-advocates-continuity-of-employment.htm
+title: The Green Party Advocates Continuity of Employment
+date: 2000-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00239/the-green-party-advocates-continuity-of-employment.htm
 author: green-party
+permalink: >-
+  /archive/2000/08/14/the-green-party-advocates-continuity-of-employment/index.html
+layout: layout.njk
 ---
 The Green Party Advocates Continuity of Employment
 ==================================================

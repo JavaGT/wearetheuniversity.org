@@ -1,9 +1,12 @@
 ---
 slug: ncea-more-evidence-of-re-marking
-title: "NCEA: more evidence of re-marking"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/PA0512/S00192/ncea-more-evidence-of-re-marking.htm
+title: 'NCEA: more evidence of re-marking'
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00192/ncea-more-evidence-of-re-marking.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/13/ncea-more-evidence-of-re-marking/index.html
+layout: layout.njk
 ---
 NCEA: more evidence of re-marking
 =================================

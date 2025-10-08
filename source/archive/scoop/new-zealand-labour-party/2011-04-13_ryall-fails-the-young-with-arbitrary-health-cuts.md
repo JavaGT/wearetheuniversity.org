@@ -1,9 +1,13 @@
 ---
 slug: ryall-fails-the-young-with-arbitrary-health-cuts
-title: "Ryall fails the young with arbitrary health cuts"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/PA1104/S00272/ryall-fails-the-young-with-arbitrary-health-cuts.htm
+title: Ryall fails the young with arbitrary health cuts
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00272/ryall-fails-the-young-with-arbitrary-health-cuts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/13/ryall-fails-the-young-with-arbitrary-health-cuts/index.html
+layout: layout.njk
 ---
 Ryall fails the young with arbitrary health cuts
 ================================================

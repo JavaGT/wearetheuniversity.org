@@ -1,9 +1,13 @@
 ---
 slug: labour-in-a-whirl-over-media-spin-of-maori-members
-title: "Labour in a Whirl over Media Spin of Maori Members"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/PA0603/S00505/labour-in-a-whirl-over-media-spin-of-maori-members.htm
+title: Labour in a Whirl over Media Spin of Maori Members
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00505/labour-in-a-whirl-over-media-spin-of-maori-members.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/03/29/labour-in-a-whirl-over-media-spin-of-maori-members/index.html
+layout: layout.njk
 ---
 Labour in a Whirl over Media Spin of Maori Members
 ==================================================

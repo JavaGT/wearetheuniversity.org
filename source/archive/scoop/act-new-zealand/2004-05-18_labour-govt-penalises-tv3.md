@@ -1,9 +1,11 @@
 ---
 slug: labour-govt-penalises-tv3
-title: "Labour Govt Penalises TV3"
-date: 2004-05-18
+title: Labour Govt Penalises TV3
+date: 2004-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00379/labour-govt-penalises-tv3.htm
 author: act-new-zealand
+permalink: /archive/2004/05/18/labour-govt-penalises-tv3/index.html
+layout: layout.njk
 ---
 Labour Govt Penalises TV3
 =========================

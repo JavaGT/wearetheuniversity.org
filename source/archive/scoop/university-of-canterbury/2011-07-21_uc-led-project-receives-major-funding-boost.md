@@ -1,9 +1,12 @@
 ---
 slug: uc-led-project-receives-major-funding-boost
-title: "UC-led project receives major funding boost"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/SC1107/S00048/uc-led-project-receives-major-funding-boost.htm
+title: UC-led project receives major funding boost
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00048/uc-led-project-receives-major-funding-boost.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/21/uc-led-project-receives-major-funding-boost/index.html
+layout: layout.njk
 ---
 UC-led project receives major funding boost
 ===========================================

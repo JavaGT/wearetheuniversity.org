@@ -1,9 +1,13 @@
 ---
 slug: new-environmental-research-institute-need-for-sound-science
-title: "New environmental research institute: Need for sound science"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/SC1108/S00073/new-environmental-research-institute-need-for-sound-science.htm
+title: 'New environmental research institute: Need for sound science'
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00073/new-environmental-research-institute-need-for-sound-science.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/08/26/new-environmental-research-institute-need-for-sound-science/index.html
+layout: layout.njk
 ---
 New environmental research institute: Need for sound science
 ============================================================

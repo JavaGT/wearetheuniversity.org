@@ -1,9 +1,13 @@
 ---
 slug: white-ribbon-day-a-time-to-remember-sexual-violence-victims
-title: "White Ribbon Day a time to remember sexual violence victims"
-date: 2013-11-24
-source-url: https://www.scoop.co.nz/stories/PA1311/S00451/white-ribbon-day-a-time-to-remember-sexual-violence-victims.htm
+title: White Ribbon Day a time to remember sexual violence victims
+date: 2013-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00451/white-ribbon-day-a-time-to-remember-sexual-violence-victims.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/11/24/white-ribbon-day-a-time-to-remember-sexual-violence-victims/index.html
+layout: layout.njk
 ---
 White Ribbon Day a time to remember sexual violence victims
 ===========================================================

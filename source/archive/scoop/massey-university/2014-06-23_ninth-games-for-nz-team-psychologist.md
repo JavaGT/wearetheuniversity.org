@@ -1,9 +1,12 @@
 ---
 slug: ninth-games-for-nz-team-psychologist
-title: "Ninth Games for NZ team psychologist"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/CU1406/S00307/ninth-games-for-nz-team-psychologist.htm
+title: Ninth Games for NZ team psychologist
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00307/ninth-games-for-nz-team-psychologist.htm
 author: massey-university
+permalink: /archive/2014/06/23/ninth-games-for-nz-team-psychologist/index.html
+layout: layout.njk
 ---
 Ninth Games for NZ team psychologist
 ====================================

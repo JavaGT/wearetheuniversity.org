@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-president-oks-fee-increase
-title: "VUWSA president OKs fee increase"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/ED0607/S00102/vuwsa-president-oks-fee-increase.htm
+title: VUWSA president OKs fee increase
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00102/vuwsa-president-oks-fee-increase.htm
 author: student-choice
+permalink: /archive/2006/07/31/vuwsa-president-oks-fee-increase/index.html
+layout: layout.njk
 ---
 VUWSA president OKs fee increase
 ================================

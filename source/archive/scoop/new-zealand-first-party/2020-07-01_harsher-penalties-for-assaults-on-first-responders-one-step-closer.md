@@ -1,9 +1,13 @@
 ---
 slug: harsher-penalties-for-assaults-on-first-responders-one-step-closer
-title: "Harsher Penalties For Assaults On First Responders One Step Closer"
-date: 2020-07-01
-source-url: https://www.scoop.co.nz/stories/PA2007/S00017/harsher-penalties-for-assaults-on-first-responders-one-step-closer.htm
+title: Harsher Penalties For Assaults On First Responders One Step Closer
+date: 2020-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00017/harsher-penalties-for-assaults-on-first-responders-one-step-closer.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/01/harsher-penalties-for-assaults-on-first-responders-one-step-closer/index.html
+layout: layout.njk
 ---
 Harsher Penalties For Assaults On First Responders One Step Closer
 ==================================================================

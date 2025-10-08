@@ -1,9 +1,13 @@
 ---
 slug: satellite-observations-provide-new-insight-into-sea-levels
-title: "Satellite observations provide new insight into sea levels"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/SC1611/S00069/satellite-observations-provide-new-insight-into-sea-levels.htm
+title: Satellite observations provide new insight into sea levels
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00069/satellite-observations-provide-new-insight-into-sea-levels.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/11/23/satellite-observations-provide-new-insight-into-sea-levels/index.html
+layout: layout.njk
 ---
 Satellite observations provide new insight into sea levels
 ==========================================================

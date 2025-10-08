@@ -1,9 +1,12 @@
 ---
 slug: peters-vision-regulations-alcohol-laws-safety-&-security
-title: "Peters: Vision, Regulations, Alcohol Laws, Safety & Security"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00263/peters-vision-regulations-alcohol-laws-safety-security.htm
+title: 'Peters: Vision, Regulations, Alcohol Laws, Safety & Security'
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00263/peters-vision-regulations-alcohol-laws-safety-security.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/17/peters-vision-regulations-alcohol-laws-safety-/index.html
+layout: layout.njk
 ---
 Peters: Vision, Regulations, Alcohol Laws, Safety & Security
 ============================================================

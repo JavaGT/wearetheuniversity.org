@@ -1,9 +1,12 @@
 ---
 slug: nzers-denied-hearing-on-private-lives
-title: "NZers denied hearing on private lives"
-date: 2000-05-05
-source-url: https://www.scoop.co.nz/stories/PA0005/S00135/nzers-denied-hearing-on-private-lives.htm
+title: NZers denied hearing on private lives
+date: 2000-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00135/nzers-denied-hearing-on-private-lives.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/05/nzers-denied-hearing-on-private-lives/index.html
+layout: layout.njk
 ---
 NZers denied hearing on private lives
 =====================================

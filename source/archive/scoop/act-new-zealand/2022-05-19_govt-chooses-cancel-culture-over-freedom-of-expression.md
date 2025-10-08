@@ -1,9 +1,13 @@
 ---
 slug: govt-chooses-cancel-culture-over-freedom-of-expression
-title: "Govt Chooses Cancel Culture Over Freedom Of Expression"
-date: 2022-05-19
-source-url: https://www.scoop.co.nz/stories/PA2205/S00164/govt-chooses-cancel-culture-over-freedom-of-expression.htm
+title: Govt Chooses Cancel Culture Over Freedom Of Expression
+date: 2022-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00164/govt-chooses-cancel-culture-over-freedom-of-expression.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/05/19/govt-chooses-cancel-culture-over-freedom-of-expression/index.html
+layout: layout.njk
 ---
 Govt Chooses Cancel Culture Over Freedom Of Expression
 ======================================================

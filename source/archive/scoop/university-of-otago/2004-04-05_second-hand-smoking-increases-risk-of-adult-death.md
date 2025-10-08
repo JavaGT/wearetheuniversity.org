@@ -1,9 +1,13 @@
 ---
 slug: second-hand-smoking-increases-risk-of-adult-death
-title: "Second-Hand Smoking Increases Risk Of Adult Death"
-date: 2004-04-05
-source-url: https://www.scoop.co.nz/stories/ED0404/S00011/second-hand-smoking-increases-risk-of-adult-death.htm
+title: Second-Hand Smoking Increases Risk Of Adult Death
+date: 2004-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00011/second-hand-smoking-increases-risk-of-adult-death.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/04/05/second-hand-smoking-increases-risk-of-adult-death/index.html
+layout: layout.njk
 ---
 Second-Hand Smoking Increases Risk Of Adult Death
 =================================================

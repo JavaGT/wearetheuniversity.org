@@ -1,9 +1,12 @@
 ---
 slug: national-predicts-census-2023-will-be-delayed
-title: "National Predicts Census 2023 Will Be Delayed"
-date: 2022-03-17
-source-url: https://www.scoop.co.nz/stories/PA2203/S00146/national-predicts-census-2023-will-be-delayed.htm
+title: National Predicts Census 2023 Will Be Delayed
+date: 2022-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00146/national-predicts-census-2023-will-be-delayed.htm
 author: new-zealand-national-party
+permalink: /archive/2022/03/17/national-predicts-census-2023-will-be-delayed/index.html
+layout: layout.njk
 ---
 National Predicts Census 2023 Will Be Delayed
 =============================================

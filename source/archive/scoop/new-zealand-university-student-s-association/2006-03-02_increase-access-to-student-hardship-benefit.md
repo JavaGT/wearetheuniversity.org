@@ -1,9 +1,12 @@
 ---
 slug: increase-access-to-student-hardship-benefit
-title: "Increase access to Student Hardship Benefit"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/ED0603/S00010/increase-access-to-student-hardship-benefit.htm
+title: Increase access to Student Hardship Benefit
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00010/increase-access-to-student-hardship-benefit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/03/02/increase-access-to-student-hardship-benefit/index.html
+layout: layout.njk
 ---
 Increase access to Student Hardship Benefit
 ===========================================

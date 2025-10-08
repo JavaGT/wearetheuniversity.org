@@ -1,9 +1,12 @@
 ---
 slug: university-library-collection-becomes-a-legacy
-title: "University Library Collection Becomes a Legacy"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/ED1002/S00081/university-library-collection-becomes-a-legacy.htm
+title: University Library Collection Becomes a Legacy
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00081/university-library-collection-becomes-a-legacy.htm
 author: university-of-waikato
+permalink: /archive/2010/02/22/university-library-collection-becomes-a-legacy/index.html
+layout: layout.njk
 ---
 University Library Collection Becomes a Legacy
 ==============================================

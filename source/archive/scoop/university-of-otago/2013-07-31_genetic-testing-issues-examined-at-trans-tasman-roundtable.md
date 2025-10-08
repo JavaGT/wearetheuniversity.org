@@ -1,9 +1,13 @@
 ---
 slug: genetic-testing-issues-examined-at-trans-tasman-roundtable
-title: "Genetic testing issues examined at Trans-Tasman roundtable"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/SC1307/S00077/genetic-testing-issues-examined-at-trans-tasman-roundtable.htm
+title: Genetic testing issues examined at Trans-Tasman roundtable
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00077/genetic-testing-issues-examined-at-trans-tasman-roundtable.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/31/genetic-testing-issues-examined-at-trans-tasman-roundtable/index.html
+layout: layout.njk
 ---
 Genetic testing issues examined at Trans-Tasman roundtable
 ==========================================================

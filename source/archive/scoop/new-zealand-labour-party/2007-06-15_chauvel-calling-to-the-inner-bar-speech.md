@@ -1,9 +1,12 @@
 ---
 slug: chauvel-calling-to-the-inner-bar-speech
-title: "Chauvel: Calling to the Inner Bar Speech"
-date: 2007-06-15
-source-url: https://www.scoop.co.nz/stories/PA0706/S00313/chauvel-calling-to-the-inner-bar-speech.htm
+title: 'Chauvel: Calling to the Inner Bar Speech'
+date: 2007-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00313/chauvel-calling-to-the-inner-bar-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/06/15/chauvel-calling-to-the-inner-bar-speech/index.html
+layout: layout.njk
 ---
 Chauvel: Calling to the Inner Bar Speech
 ========================================

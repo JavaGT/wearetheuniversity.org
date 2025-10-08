@@ -1,9 +1,12 @@
 ---
 slug: real-issues-this-week-no-sixty-four
-title: "real issues: this week: No. Sixty-Four"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/PO0305/S00211/real-issues-this-week-no-sixty-four.htm
+title: 'real issues: this week: No. Sixty-Four'
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0305/S00211/real-issues-this-week-no-sixty-four.htm
 author: maxim-institute
+permalink: /archive/2003/05/23/real-issues-this-week-no-sixty-four/index.html
+layout: layout.njk
 ---
 real issues: this week: No. Sixty-Four
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: government-policies-hurt-exporters
-title: "Government Policies Hurt Exporters"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/PA0309/S00492/government-policies-hurt-exporters.htm
+title: Government Policies Hurt Exporters
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00492/government-policies-hurt-exporters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/23/government-policies-hurt-exporters/index.html
+layout: layout.njk
 ---
 Government Policies Hurt Exporters
 ==================================

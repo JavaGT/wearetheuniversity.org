@@ -1,9 +1,12 @@
 ---
 slug: surprise-win-for-waikato-student-boat-builders
-title: "Surprise win for Waikato student boat builders"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/AK1406/S00188/surprise-win-for-waikato-student-boat-builders.htm
+title: Surprise win for Waikato student boat builders
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00188/surprise-win-for-waikato-student-boat-builders.htm
 author: university-of-waikato
+permalink: /archive/2014/06/10/surprise-win-for-waikato-student-boat-builders/index.html
+layout: layout.njk
 ---
 Surprise win for Waikato student boat builders
 ==============================================

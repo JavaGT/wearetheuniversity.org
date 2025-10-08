@@ -1,9 +1,12 @@
 ---
 slug: government-wont-lead-on-waste
-title: "Government won’t lead on waste"
-date: 2010-07-07
-source-url: https://www.scoop.co.nz/stories/PA1007/S00132/government-wont-lead-on-waste.htm
+title: Government won’t lead on waste
+date: 2010-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00132/government-wont-lead-on-waste.htm
 author: green-party
+permalink: /archive/2010/07/07/government-wont-lead-on-waste/index.html
+layout: layout.njk
 ---
 Government won’t lead on waste
 ==============================

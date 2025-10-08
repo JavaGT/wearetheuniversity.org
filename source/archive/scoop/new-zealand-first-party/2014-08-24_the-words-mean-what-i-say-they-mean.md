@@ -1,9 +1,12 @@
 ---
 slug: the-words-mean-what-i-say-they-mean
-title: "\"The Words Mean What I Say They Mean\""
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00367/the-words-mean-what-i-say-they-mean.htm
+title: '"The Words Mean What I Say They Mean"'
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00367/the-words-mean-what-i-say-they-mean.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/24/the-words-mean-what-i-say-they-mean/index.html
+layout: layout.njk
 ---
 “The Words Mean What I Say They Mean”
 =====================================

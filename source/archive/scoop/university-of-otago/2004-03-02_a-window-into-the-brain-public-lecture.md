@@ -1,9 +1,12 @@
 ---
 slug: a-window-into-the-brain-public-lecture
-title: "A Window into the Brain?  - Public Lecture"
-date: 2004-03-02
-source-url: https://www.scoop.co.nz/stories/GE0403/S00011/a-window-into-the-brain-public-lecture.htm
+title: A Window into the Brain?  - Public Lecture
+date: 2004-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0403/S00011/a-window-into-the-brain-public-lecture.htm
 author: university-of-otago
+permalink: /archive/2004/03/02/a-window-into-the-brain-public-lecture/index.html
+layout: layout.njk
 ---
 A Window into the Brain? - Public Lecture
 =========================================

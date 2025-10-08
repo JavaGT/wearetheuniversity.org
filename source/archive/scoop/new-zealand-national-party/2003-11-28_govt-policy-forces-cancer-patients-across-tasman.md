@@ -1,9 +1,13 @@
 ---
 slug: govt-policy-forces-cancer-patients-across-tasman
-title: "Govt policy forces cancer patients across Tasman"
-date: 2003-11-28
-source-url: https://www.scoop.co.nz/stories/PA0311/S00559/govt-policy-forces-cancer-patients-across-tasman.htm
+title: Govt policy forces cancer patients across Tasman
+date: 2003-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00559/govt-policy-forces-cancer-patients-across-tasman.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/11/28/govt-policy-forces-cancer-patients-across-tasman/index.html
+layout: layout.njk
 ---
 Govt policy forces cancer patients across Tasman
 ================================================

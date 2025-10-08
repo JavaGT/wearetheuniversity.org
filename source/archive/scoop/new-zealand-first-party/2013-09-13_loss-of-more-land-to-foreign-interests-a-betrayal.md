@@ -1,9 +1,13 @@
 ---
 slug: loss-of-more-land-to-foreign-interests-a-betrayal
-title: "Loss of More Land to Foreign Interests a Betrayal"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/PA1309/S00257/loss-of-more-land-to-foreign-interests-a-betrayal.htm
+title: Loss of More Land to Foreign Interests a Betrayal
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00257/loss-of-more-land-to-foreign-interests-a-betrayal.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/09/13/loss-of-more-land-to-foreign-interests-a-betrayal/index.html
+layout: layout.njk
 ---
 Loss of More Land to Foreign Interests a Betrayal
 =================================================

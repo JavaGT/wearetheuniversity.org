@@ -1,9 +1,13 @@
 ---
 slug: universities-returning-to-white-middle-class-root
-title: "Universities Returning to White, Middle Class Root"
-date: 2000-04-27
-source-url: https://www.scoop.co.nz/stories/ED0004/S00031/universities-returning-to-white-middle-class-root.htm
+title: Universities Returning to White, Middle Class Root
+date: 2000-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00031/universities-returning-to-white-middle-class-root.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2000/04/27/universities-returning-to-white-middle-class-root/index.html
+layout: layout.njk
 ---
 Universities Returning to White, Middle Class Root
 ==================================================

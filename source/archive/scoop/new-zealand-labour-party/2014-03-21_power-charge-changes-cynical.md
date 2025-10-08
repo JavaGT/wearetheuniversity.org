@@ -1,9 +1,11 @@
 ---
 slug: power-charge-changes-cynical
-title: "Power charge changes cynical"
-date: 2014-03-21
+title: Power charge changes cynical
+date: 2014-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1403/S00427/power-charge-changes-cynical.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/21/power-charge-changes-cynical/index.html
+layout: layout.njk
 ---
 Power charge changes cynical
 ============================

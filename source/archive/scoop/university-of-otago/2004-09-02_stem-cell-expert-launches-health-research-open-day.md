@@ -1,9 +1,13 @@
 ---
 slug: stem-cell-expert-launches-health-research-open-day
-title: "Stem Cell Expert Launches Health Research Open Day"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/SC0409/S00005/stem-cell-expert-launches-health-research-open-day.htm
+title: Stem Cell Expert Launches Health Research Open Day
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0409/S00005/stem-cell-expert-launches-health-research-open-day.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/09/02/stem-cell-expert-launches-health-research-open-day/index.html
+layout: layout.njk
 ---
 Stem Cell Expert Launches Health Research Open Day
 ==================================================

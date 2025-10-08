@@ -1,9 +1,12 @@
 ---
 slug: national-standards-site-should-be-pulled
-title: "National Standards site should be pulled"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/PA1210/S00045/national-standards-site-should-be-pulled.htm
+title: National Standards site should be pulled
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00045/national-standards-site-should-be-pulled.htm
 author: green-party
+permalink: /archive/2012/10/03/national-standards-site-should-be-pulled/index.html
+layout: layout.njk
 ---
 National Standards site should be pulled
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: mp-calls-for-hui-with-st-stephens-families
-title: "MP Calls For Hui With St Stephens’ Families"
-date: 2000-05-17
-source-url: https://www.scoop.co.nz/stories/PA0005/S00374/mp-calls-for-hui-with-st-stephens-families.htm
+title: MP Calls For Hui With St Stephens’ Families
+date: 2000-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00374/mp-calls-for-hui-with-st-stephens-families.htm
 author: act-new-zealand
+permalink: /archive/2000/05/17/mp-calls-for-hui-with-st-stephens-families/index.html
+layout: layout.njk
 ---
 MP Calls For Hui With St Stephens’ Families
 ===========================================

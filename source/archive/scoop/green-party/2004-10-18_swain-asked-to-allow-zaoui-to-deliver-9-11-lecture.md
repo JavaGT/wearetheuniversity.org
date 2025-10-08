@@ -1,9 +1,13 @@
 ---
 slug: swain-asked-to-allow-zaoui-to-deliver-9-11-lecture
-title: "Swain Asked To Allow Zaoui To Deliver 9/11 Lecture"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/PA0410/S00305/swain-asked-to-allow-zaoui-to-deliver-911-lecture.htm
+title: Swain Asked To Allow Zaoui To Deliver 9/11 Lecture
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00305/swain-asked-to-allow-zaoui-to-deliver-911-lecture.htm
 author: green-party
+permalink: >-
+  /archive/2004/10/18/swain-asked-to-allow-zaoui-to-deliver-9-11-lecture/index.html
+layout: layout.njk
 ---
 Swain Asked To Allow Zaoui To Deliver 9/11 Lecture
 ==================================================

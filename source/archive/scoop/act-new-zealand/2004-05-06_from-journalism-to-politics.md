@@ -1,9 +1,11 @@
 ---
 slug: from-journalism-to-politics
-title: "From Journalism To Politics"
-date: 2004-05-06
+title: From Journalism To Politics
+date: 2004-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00104/from-journalism-to-politics.htm
 author: act-new-zealand
+permalink: /archive/2004/05/06/from-journalism-to-politics/index.html
+layout: layout.njk
 ---
 From Journalism To Politics
 ===========================

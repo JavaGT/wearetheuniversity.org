@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-21-december-2006
-title: "Maxim Institute - 21 December 2006"
-date: 2006-12-22
-source-url: https://www.scoop.co.nz/stories/PO0612/S00281/maxim-institute-21-december-2006.htm
+title: Maxim Institute - 21 December 2006
+date: 2006-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0612/S00281/maxim-institute-21-december-2006.htm
 author: maxim-institute
+permalink: /archive/2006/12/22/maxim-institute-21-december-2006/index.html
+layout: layout.njk
 ---
 Maxim Institute - 21 December 2006
 ==================================

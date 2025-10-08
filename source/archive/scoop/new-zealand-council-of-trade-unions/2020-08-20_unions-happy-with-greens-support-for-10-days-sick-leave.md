@@ -1,9 +1,13 @@
 ---
 slug: unions-happy-with-greens-support-for-10-days-sick-leave
-title: "Unions Happy With Greens Support For 10 Days Sick Leave"
-date: 2020-08-20
-source-url: https://www.scoop.co.nz/stories/PO2008/S00243/unions-happy-with-greens-support-for-10-days-sick-leave.htm
+title: Unions Happy With Greens Support For 10 Days Sick Leave
+date: 2020-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00243/unions-happy-with-greens-support-for-10-days-sick-leave.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2020/08/20/unions-happy-with-greens-support-for-10-days-sick-leave/index.html
+layout: layout.njk
 ---
 Unions Happy With Greens Support For 10 Days Sick Leave
 =======================================================

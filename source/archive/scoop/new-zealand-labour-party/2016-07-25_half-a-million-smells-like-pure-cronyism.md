@@ -1,9 +1,12 @@
 ---
 slug: half-a-million-smells-like-pure-cronyism
-title: "Half a million smells like pure cronyism"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00336/half-a-million-smells-like-pure-cronyism.htm
+title: Half a million smells like pure cronyism
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00336/half-a-million-smells-like-pure-cronyism.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/25/half-a-million-smells-like-pure-cronyism/index.html
+layout: layout.njk
 ---
 Half a million smells like pure cronyism
 ========================================

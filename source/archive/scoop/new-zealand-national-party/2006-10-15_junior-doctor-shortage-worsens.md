@@ -1,9 +1,12 @@
 ---
 slug: junior-doctor-shortage-worsens
-title: "Junior doctor shortage worsens"
-date: 2006-10-15
-source-url: https://www.scoop.co.nz/stories/PA0610/S00262/junior-doctor-shortage-worsens.htm
+title: Junior doctor shortage worsens
+date: 2006-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00262/junior-doctor-shortage-worsens.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/15/junior-doctor-shortage-worsens/index.html
+layout: layout.njk
 ---
 Junior doctor shortage worsens
 ==============================

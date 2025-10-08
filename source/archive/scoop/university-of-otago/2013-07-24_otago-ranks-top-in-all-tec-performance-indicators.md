@@ -1,9 +1,13 @@
 ---
 slug: otago-ranks-top-in-all-tec-performance-indicators
-title: "Otago Ranks Top In All TEC Performance Indicators"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/ED1307/S00126/otago-ranks-top-in-all-tec-performance-indicators.htm
+title: Otago Ranks Top In All TEC Performance Indicators
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00126/otago-ranks-top-in-all-tec-performance-indicators.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/24/otago-ranks-top-in-all-tec-performance-indicators/index.html
+layout: layout.njk
 ---
 Otago Ranks Top In All TEC Performance Indicators
 =================================================

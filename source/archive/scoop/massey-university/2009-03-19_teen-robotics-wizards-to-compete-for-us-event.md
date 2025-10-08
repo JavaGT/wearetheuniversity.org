@@ -1,9 +1,12 @@
 ---
 slug: teen-robotics-wizards-to-compete-for-us-event
-title: "Teen robotics wizards to compete for US event"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/ED0903/S00067/teen-robotics-wizards-to-compete-for-us-event.htm
+title: Teen robotics wizards to compete for US event
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00067/teen-robotics-wizards-to-compete-for-us-event.htm
 author: massey-university
+permalink: /archive/2009/03/19/teen-robotics-wizards-to-compete-for-us-event/index.html
+layout: layout.njk
 ---
 Teen robotics wizards to compete for US event
 =============================================

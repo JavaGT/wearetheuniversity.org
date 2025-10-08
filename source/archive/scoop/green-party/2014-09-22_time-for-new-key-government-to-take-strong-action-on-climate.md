@@ -1,9 +1,13 @@
 ---
 slug: time-for-new-key-government-to-take-strong-action-on-climate
-title: "Time for new Key Government to take strong action on climate"
-date: 2014-09-22
-source-url: https://www.scoop.co.nz/stories/PA1409/S00292/time-for-new-key-government-to-take-strong-action-on-climate.htm
+title: Time for new Key Government to take strong action on climate
+date: 2014-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00292/time-for-new-key-government-to-take-strong-action-on-climate.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/22/time-for-new-key-government-to-take-strong-action-on-climate/index.html
+layout: layout.njk
 ---
 Time for new Key Government to take strong action on climate
 ============================================================

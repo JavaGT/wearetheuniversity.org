@@ -1,9 +1,12 @@
 ---
 slug: upcoming-events-at-victoria-university-13-09-10
-title: "Upcoming events at Victoria University 13/09/10"
-date: 2010-09-13
-source-url: https://www.scoop.co.nz/stories/GE1009/S00079/upcoming-events-at-victoria-university-130910.htm
+title: Upcoming events at Victoria University 13/09/10
+date: 2010-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00079/upcoming-events-at-victoria-university-130910.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/13/upcoming-events-at-victoria-university-13-09-10/index.html
+layout: layout.njk
 ---
 Upcoming events at Victoria University 13/09/10
 ===============================================

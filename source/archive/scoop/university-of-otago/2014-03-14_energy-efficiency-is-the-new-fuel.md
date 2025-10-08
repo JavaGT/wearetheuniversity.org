@@ -1,9 +1,12 @@
 ---
 slug: energy-efficiency-is-the-new-fuel
-title: "Energy efficiency is the new fuel"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/ED1403/S00081/energy-efficiency-is-the-new-fuel.htm
+title: Energy efficiency is the new fuel
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00081/energy-efficiency-is-the-new-fuel.htm
 author: university-of-otago
+permalink: /archive/2014/03/14/energy-efficiency-is-the-new-fuel/index.html
+layout: layout.njk
 ---
 Energy efficiency is the new fuel
 =================================

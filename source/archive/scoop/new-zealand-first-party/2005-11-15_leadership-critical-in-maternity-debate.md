@@ -1,9 +1,12 @@
 ---
 slug: leadership-critical-in-maternity-debate
-title: "Leadership Critical In Maternity Debate"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/PA0511/S00189/leadership-critical-in-maternity-debate.htm
+title: Leadership Critical In Maternity Debate
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00189/leadership-critical-in-maternity-debate.htm
 author: new-zealand-first-party
+permalink: /archive/2005/11/15/leadership-critical-in-maternity-debate/index.html
+layout: layout.njk
 ---
 Leadership Critical In Maternity Debate
 =======================================

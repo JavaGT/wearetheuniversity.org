@@ -1,9 +1,11 @@
 ---
 slug: how-did-they-get-it-so-wrong
-title: "How Did They Get It So Wrong?"
-date: 2015-06-25
+title: How Did They Get It So Wrong?
+date: 2015-06-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1506/S00451/how-did-they-get-it-so-wrong.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/25/how-did-they-get-it-so-wrong/index.html
+layout: layout.njk
 ---
 How Did They Get It So Wrong?
 =============================

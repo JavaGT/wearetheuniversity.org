@@ -1,9 +1,12 @@
 ---
 slug: adult-sentences-for-adult-crimes
-title: "Adult Sentences For Adult Crimes"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/PA0404/S00028/adult-sentences-for-adult-crimes.htm
+title: Adult Sentences For Adult Crimes
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00028/adult-sentences-for-adult-crimes.htm
 author: act-new-zealand
+permalink: /archive/2004/04/01/adult-sentences-for-adult-crimes/index.html
+layout: layout.njk
 ---
 Adult Sentences For Adult Crimes
 ================================

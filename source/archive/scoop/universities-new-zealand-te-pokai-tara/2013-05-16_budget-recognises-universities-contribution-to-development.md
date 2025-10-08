@@ -1,9 +1,13 @@
 ---
 slug: budget-recognises-universities-contribution-to-development
-title: "Budget recognises universities’ contribution to development"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/ED1305/S00108/budget-recognises-universities-contribution-to-development.htm
+title: Budget recognises universities’ contribution to development
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00108/budget-recognises-universities-contribution-to-development.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/05/16/budget-recognises-universities-contribution-to-development/index.html
+layout: layout.njk
 ---
 Budget recognises universities’ contribution to development
 ===========================================================

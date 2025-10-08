@@ -1,9 +1,13 @@
 ---
 slug: peters-what-lessons-for-young-when-you-ignore-crooks
-title: "Peters: What Lessons For Young When You Ignore Crooks?"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PO1108/S00250/peters-what-lessons-for-young-when-you-ignore-crooks.htm
+title: 'Peters: What Lessons For Young When You Ignore Crooks?'
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00250/peters-what-lessons-for-young-when-you-ignore-crooks.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/08/18/peters-what-lessons-for-young-when-you-ignore-crooks/index.html
+layout: layout.njk
 ---
 Peters: What Lessons For Young When You Ignore Crooks?
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: nandor-launches-tertiary-tour
-title: "Nandor Launches Tertiary Tour"
-date: 2002-02-01
-source-url: https://www.scoop.co.nz/stories/PA0202/S00002/nandor-launches-tertiary-tour.htm
+title: Nandor Launches Tertiary Tour
+date: 2002-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00002/nandor-launches-tertiary-tour.htm
 author: green-party
+permalink: /archive/2002/02/01/nandor-launches-tertiary-tour/index.html
+layout: layout.njk
 ---
 Nandor Launches Tertiary Tour
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: cost-of-universal-allowances-lower-than-reported
-title: "Cost of universal allowances lower than reported"
-date: 2008-08-20
-source-url: https://www.scoop.co.nz/stories/PO0808/S00242/cost-of-universal-allowances-lower-than-reported.htm
+title: Cost of universal allowances lower than reported
+date: 2008-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00242/cost-of-universal-allowances-lower-than-reported.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2008/08/20/cost-of-universal-allowances-lower-than-reported/index.html
+layout: layout.njk
 ---
 Cost of universal allowances lower than reported
 ================================================

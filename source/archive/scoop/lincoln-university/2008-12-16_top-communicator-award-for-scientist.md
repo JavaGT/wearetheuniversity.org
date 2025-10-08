@@ -1,9 +1,12 @@
 ---
 slug: top-communicator-award-for-scientist
-title: "Top communicator award for scientist"
-date: 2008-12-16
-source-url: https://www.scoop.co.nz/stories/SC0812/S00043/top-communicator-award-for-scientist.htm
+title: Top communicator award for scientist
+date: 2008-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0812/S00043/top-communicator-award-for-scientist.htm
 author: lincoln-university
+permalink: /archive/2008/12/16/top-communicator-award-for-scientist/index.html
+layout: layout.njk
 ---
 Top communicator award for scientist
 ====================================

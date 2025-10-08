@@ -1,9 +1,12 @@
 ---
 slug: cer-no-level-playing-field-locke
-title: "CER No Level Playing Field - Locke"
-date: 2002-04-30
-source-url: https://www.scoop.co.nz/stories/PA0204/S00465/cer-no-level-playing-field-locke.htm
+title: CER No Level Playing Field - Locke
+date: 2002-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00465/cer-no-level-playing-field-locke.htm
 author: green-party
+permalink: /archive/2002/04/30/cer-no-level-playing-field-locke/index.html
+layout: layout.njk
 ---
 CER No Level Playing Field - Locke
 ==================================

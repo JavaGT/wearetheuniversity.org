@@ -1,9 +1,11 @@
 ---
 slug: ousa-shuttles-take-flight
-title: "OUSA Shuttles Take Flight"
-date: 2013-10-02
+title: OUSA Shuttles Take Flight
+date: 2013-10-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1310/S00012/ousa-shuttles-take-flight.htm
 author: ousa
+permalink: /archive/2013/10/02/ousa-shuttles-take-flight/index.html
+layout: layout.njk
 ---
 OUSA Shuttles Take Flight
 =========================

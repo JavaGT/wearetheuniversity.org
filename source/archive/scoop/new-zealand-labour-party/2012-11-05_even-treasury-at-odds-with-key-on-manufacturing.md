@@ -1,9 +1,12 @@
 ---
 slug: even-treasury-at-odds-with-key-on-manufacturing
-title: "Even Treasury at odds with Key on manufacturing"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/PA1211/S00067/even-treasury-at-odds-with-key-on-manufacturing.htm
+title: Even Treasury at odds with Key on manufacturing
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00067/even-treasury-at-odds-with-key-on-manufacturing.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/05/even-treasury-at-odds-with-key-on-manufacturing/index.html
+layout: layout.njk
 ---
 Even Treasury at odds with Key on manufacturing
 ===============================================

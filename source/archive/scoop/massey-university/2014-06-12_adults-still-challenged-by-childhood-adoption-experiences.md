@@ -1,9 +1,13 @@
 ---
 slug: adults-still-challenged-by-childhood-adoption-experiences
-title: "Adults still challenged by childhood adoption experiences"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/CU1406/S00145/adults-still-challenged-by-childhood-adoption-experiences.htm
+title: Adults still challenged by childhood adoption experiences
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00145/adults-still-challenged-by-childhood-adoption-experiences.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/12/adults-still-challenged-by-childhood-adoption-experiences/index.html
+layout: layout.njk
 ---
 Adults still challenged by childhood adoption experiences
 =========================================================

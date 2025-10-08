@@ -1,9 +1,11 @@
 ---
 slug: lets-walk-and-talk-gerry
-title: "Let’s walk and talk Gerry"
-date: 2009-12-16
+title: Let’s walk and talk Gerry
+date: 2009-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0912/S00290/lets-walk-and-talk-gerry.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/16/lets-walk-and-talk-gerry/index.html
+layout: layout.njk
 ---
 Let’s walk and talk Gerry
 =========================

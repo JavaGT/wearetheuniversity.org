@@ -1,9 +1,12 @@
 ---
 slug: songwriter-of-brave-work-scoops-top-award
-title: "Songwriter of ‘Brave Work’ Scoops Top Award"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/CU1410/S00120/songwriter-of-brave-work-scoops-top-award.htm
+title: Songwriter of ‘Brave Work’ Scoops Top Award
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00120/songwriter-of-brave-work-scoops-top-award.htm
 author: auckland-university
+permalink: /archive/2014/10/06/songwriter-of-brave-work-scoops-top-award/index.html
+layout: layout.njk
 ---
 Songwriter of ‘Brave Work’ Scoops Top Award
 ===========================================

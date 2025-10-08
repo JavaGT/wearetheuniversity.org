@@ -1,9 +1,12 @@
 ---
 slug: students-cautious-in-praise-of-winz
-title: "Students Cautious In Praise Of WINZ"
-date: 2001-04-19
-source-url: https://www.scoop.co.nz/stories/ED0104/S00015/students-cautious-in-praise-of-winz.htm
+title: Students Cautious In Praise Of WINZ
+date: 2001-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00015/students-cautious-in-praise-of-winz.htm
 author: victoria-university-students-association
+permalink: /archive/2001/04/19/students-cautious-in-praise-of-winz/index.html
+layout: layout.njk
 ---
 Students Cautious In Praise Of WINZ
 ===================================

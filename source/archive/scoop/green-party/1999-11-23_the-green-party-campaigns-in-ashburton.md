@@ -1,9 +1,12 @@
 ---
 slug: the-green-party-campaigns-in-ashburton
-title: "The Green Party campaigns in Ashburton"
-date: 1999-11-23
-source-url: https://www.scoop.co.nz/stories/PA9911/S00551/the-green-party-campaigns-in-ashburton.htm
+title: The Green Party campaigns in Ashburton
+date: 1999-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00551/the-green-party-campaigns-in-ashburton.htm
 author: green-party
+permalink: /archive/1999/11/23/the-green-party-campaigns-in-ashburton/index.html
+layout: layout.njk
 ---
 The Green Party campaigns in Ashburton
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-should-back-english-or-sack-him
-title: "Brash should back English or sack him"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/PA0408/S00559/brash-should-back-english-or-sack-him.htm
+title: Brash should back English or sack him
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00559/brash-should-back-english-or-sack-him.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/31/brash-should-back-english-or-sack-him/index.html
+layout: layout.njk
 ---
 Brash should back English or sack him
 =====================================

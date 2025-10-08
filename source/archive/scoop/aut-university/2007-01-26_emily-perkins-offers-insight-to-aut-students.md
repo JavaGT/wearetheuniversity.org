@@ -1,9 +1,12 @@
 ---
 slug: emily-perkins-offers-insight-to-aut-students
-title: "Emily Perkins Offers Insight To AUT Students"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/ED0701/S00027/emily-perkins-offers-insight-to-aut-students.htm
+title: Emily Perkins Offers Insight To AUT Students
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00027/emily-perkins-offers-insight-to-aut-students.htm
 author: aut-university
+permalink: /archive/2007/01/26/emily-perkins-offers-insight-to-aut-students/index.html
+layout: layout.njk
 ---
 Emily Perkins Offers Insight To AUT Students
 ============================================

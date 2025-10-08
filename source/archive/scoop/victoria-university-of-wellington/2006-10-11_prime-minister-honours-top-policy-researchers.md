@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-honours-top-policy-researchers
-title: "Prime Minister honours top policy researchers"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/ED0610/S00045/prime-minister-honours-top-policy-researchers.htm
+title: Prime Minister honours top policy researchers
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00045/prime-minister-honours-top-policy-researchers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/11/prime-minister-honours-top-policy-researchers/index.html
+layout: layout.njk
 ---
 Prime Minister honours top policy researchers
 =============================================

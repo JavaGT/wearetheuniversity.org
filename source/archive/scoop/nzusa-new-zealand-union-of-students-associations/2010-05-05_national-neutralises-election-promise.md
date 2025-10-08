@@ -1,9 +1,12 @@
 ---
 slug: national-neutralises-election-promise
-title: "National neutralises election promise"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/ED1005/S00021/national-neutralises-election-promise.htm
+title: National neutralises election promise
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00021/national-neutralises-election-promise.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/05/05/national-neutralises-election-promise/index.html
+layout: layout.njk
 ---
 National neutralises election promise
 =====================================

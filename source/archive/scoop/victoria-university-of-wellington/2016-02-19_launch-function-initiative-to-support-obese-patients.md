@@ -1,9 +1,13 @@
 ---
 slug: launch-function-initiative-to-support-obese-patients
-title: "Launch function: Initiative to support obese patients"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/GE1602/S00061/launch-function-initiative-to-support-obese-patients.htm
+title: 'Launch function: Initiative to support obese patients'
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00061/launch-function-initiative-to-support-obese-patients.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/02/19/launch-function-initiative-to-support-obese-patients/index.html
+layout: layout.njk
 ---
 Launch function: Initiative to support obese patients
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: health-workforce-planning-paralysis-by-analysis
-title: "Health workforce planning 'paralysis by analysis'"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/PA0605/S00647/health-workforce-planning-paralysis-by-analysis.htm
+title: Health workforce planning 'paralysis by analysis'
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00647/health-workforce-planning-paralysis-by-analysis.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/26/health-workforce-planning-paralysis-by-analysis/index.html
+layout: layout.njk
 ---
 Health workforce planning 'paralysis by analysis'
 =================================================

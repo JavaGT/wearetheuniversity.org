@@ -1,9 +1,12 @@
 ---
 slug: members-bill-will-give-export-education-a-boost
-title: "Members Bill will give export education a boost"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/PA1210/S00062/members-bill-will-give-export-education-a-boost.htm
+title: Members Bill will give export education a boost
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00062/members-bill-will-give-export-education-a-boost.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/03/members-bill-will-give-export-education-a-boost/index.html
+layout: layout.njk
 ---
 Members Bill will give export education a boost
 ===============================================

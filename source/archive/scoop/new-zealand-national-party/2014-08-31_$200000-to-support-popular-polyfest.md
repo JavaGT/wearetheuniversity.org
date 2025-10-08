@@ -1,9 +1,12 @@
 ---
 slug: $200000-to-support-popular-polyfest
-title: "$200,000 to support popular Polyfest"
-date: 2014-08-31
-source-url: https://www.scoop.co.nz/stories/PA1408/S00470/200000-to-support-popular-polyfest.htm
+title: $200,000 to support popular Polyfest
+date: 2014-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00470/200000-to-support-popular-polyfest.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/31/200-000-to-support-popular-polyfest/index.html
+layout: layout.njk
 ---
 $200,000 to support popular Polyfest
 ====================================

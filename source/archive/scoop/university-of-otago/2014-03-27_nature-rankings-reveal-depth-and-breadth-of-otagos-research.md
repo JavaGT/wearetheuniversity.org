@@ -1,9 +1,13 @@
 ---
 slug: nature-rankings-reveal-depth-and-breadth-of-otagos-research
-title: "Nature rankings reveal depth and breadth of Otago’s research"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/ED1403/S00165/nature-rankings-reveal-depth-and-breadth-of-otagos-research.htm
+title: Nature rankings reveal depth and breadth of Otago’s research
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00165/nature-rankings-reveal-depth-and-breadth-of-otagos-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/27/nature-rankings-reveal-depth-and-breadth-of-otagos-research/index.html
+layout: layout.njk
 ---
 Nature rankings reveal depth and breadth of Otago’s research
 ============================================================

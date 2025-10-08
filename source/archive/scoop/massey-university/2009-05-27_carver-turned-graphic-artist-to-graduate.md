@@ -1,9 +1,12 @@
 ---
 slug: carver-turned-graphic-artist-to-graduate
-title: "Carver turned graphic artist to graduate"
-date: 2009-05-27
-source-url: https://www.scoop.co.nz/stories/ED0905/S00112/carver-turned-graphic-artist-to-graduate.htm
+title: Carver turned graphic artist to graduate
+date: 2009-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00112/carver-turned-graphic-artist-to-graduate.htm
 author: massey-university
+permalink: /archive/2009/05/27/carver-turned-graphic-artist-to-graduate/index.html
+layout: layout.njk
 ---
 Carver turned graphic artist to graduate
 ========================================

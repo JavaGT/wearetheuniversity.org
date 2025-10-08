@@ -1,9 +1,12 @@
 ---
 slug: south-island-unemployment-rises-32%-in-2015
-title: "South Island unemployment rises 32% in 2015"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/PA1512/S00049/south-island-unemployment-rises-32-in-2015.htm
+title: South Island unemployment rises 32% in 2015
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00049/south-island-unemployment-rises-32-in-2015.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/02/south-island-unemployment-rises-32/index.html
+layout: layout.njk
 ---
 South Island unemployment rises 32% in 2015
 ===========================================

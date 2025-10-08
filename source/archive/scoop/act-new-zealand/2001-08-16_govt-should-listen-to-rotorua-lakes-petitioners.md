@@ -1,9 +1,12 @@
 ---
 slug: govt-should-listen-to-rotorua-lakes-petitioners
-title: "Govt Should Listen To Rotorua Lakes Petitioners"
-date: 2001-08-16
-source-url: https://www.scoop.co.nz/stories/PA0108/S00328/govt-should-listen-to-rotorua-lakes-petitioners.htm
+title: Govt Should Listen To Rotorua Lakes Petitioners
+date: 2001-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00328/govt-should-listen-to-rotorua-lakes-petitioners.htm
 author: act-new-zealand
+permalink: /archive/2001/08/16/govt-should-listen-to-rotorua-lakes-petitioners/index.html
+layout: layout.njk
 ---
 Govt Should Listen To Rotorua Lakes Petitioners
 ===============================================

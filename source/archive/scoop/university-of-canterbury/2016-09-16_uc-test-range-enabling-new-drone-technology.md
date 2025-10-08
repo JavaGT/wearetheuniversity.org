@@ -1,9 +1,12 @@
 ---
 slug: uc-test-range-enabling-new-drone-technology
-title: "UC Test Range enabling new drone technology"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/SC1609/S00050/uc-test-range-enabling-new-drone-technology.htm
+title: UC Test Range enabling new drone technology
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00050/uc-test-range-enabling-new-drone-technology.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/16/uc-test-range-enabling-new-drone-technology/index.html
+layout: layout.njk
 ---
 UC Test Range enabling new drone technology
 ===========================================

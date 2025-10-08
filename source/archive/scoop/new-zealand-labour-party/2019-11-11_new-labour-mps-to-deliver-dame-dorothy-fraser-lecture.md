@@ -1,9 +1,13 @@
 ---
 slug: new-labour-mps-to-deliver-dame-dorothy-fraser-lecture
-title: "New Labour MPs to deliver Dame Dorothy Fraser Lecture"
-date: 2019-11-11
-source-url: https://www.scoop.co.nz/stories/PA1911/S00074/new-labour-mps-to-deliver-dame-dorothy-fraser-lecture.htm
+title: New Labour MPs to deliver Dame Dorothy Fraser Lecture
+date: 2019-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00074/new-labour-mps-to-deliver-dame-dorothy-fraser-lecture.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/11/11/new-labour-mps-to-deliver-dame-dorothy-fraser-lecture/index.html
+layout: layout.njk
 ---
 New Labour MPs to deliver Dame Dorothy Fraser Lecture
 =====================================================

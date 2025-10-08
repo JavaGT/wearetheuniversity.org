@@ -1,9 +1,12 @@
 ---
 slug: bradford-where-to-for-welfare
-title: "Bradford: Where to For Welfare?"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00422/bradford-where-to-for-welfare.htm
+title: 'Bradford: Where to For Welfare?'
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00422/bradford-where-to-for-welfare.htm
 author: green-party
+permalink: /archive/2007/03/21/bradford-where-to-for-welfare/index.html
+layout: layout.njk
 ---
 Bradford: Where to For Welfare?
 ===============================

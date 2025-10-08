@@ -1,9 +1,13 @@
 ---
 slug: mpi-must-stop-letting-commercial-fishers-off-the-hook
-title: "MPI must stop letting commercial fishers off the hook"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/PA1609/S00306/mpi-must-stop-letting-commercial-fishers-off-the-hook.htm
+title: MPI must stop letting commercial fishers off the hook
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00306/mpi-must-stop-letting-commercial-fishers-off-the-hook.htm
 author: green-party
+permalink: >-
+  /archive/2016/09/16/mpi-must-stop-letting-commercial-fishers-off-the-hook/index.html
+layout: layout.njk
 ---
 MPI must stop letting commercial fishers off the hook
 =====================================================

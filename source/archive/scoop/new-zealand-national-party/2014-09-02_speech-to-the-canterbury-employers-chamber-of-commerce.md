@@ -1,9 +1,13 @@
 ---
 slug: speech-to-the-canterbury-employers-chamber-of-commerce
-title: "Speech to the Canterbury Employers’ Chamber of Commerce"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00024/speech-to-the-canterbury-employers-chamber-of-commerce.htm
+title: Speech to the Canterbury Employers’ Chamber of Commerce
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00024/speech-to-the-canterbury-employers-chamber-of-commerce.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/02/speech-to-the-canterbury-employers-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Speech to the Canterbury Employers’ Chamber of Commerce
 =======================================================

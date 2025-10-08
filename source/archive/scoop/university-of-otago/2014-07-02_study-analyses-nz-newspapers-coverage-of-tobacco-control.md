@@ -1,9 +1,13 @@
 ---
 slug: study-analyses-nz-newspapers-coverage-of-tobacco-control
-title: "Study analyses NZ newspapers’ coverage of tobacco control"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/PO1407/S00021/study-analyses-nz-newspapers-coverage-of-tobacco-control.htm
+title: Study analyses NZ newspapers’ coverage of tobacco control
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00021/study-analyses-nz-newspapers-coverage-of-tobacco-control.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/02/study-analyses-nz-newspapers-coverage-of-tobacco-control/index.html
+layout: layout.njk
 ---
 Study analyses NZ newspapers’ coverage of tobacco control
 =========================================================

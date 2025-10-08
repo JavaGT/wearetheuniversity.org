@@ -1,9 +1,12 @@
 ---
 slug: continued-strikes-show-need-for-bold-action
-title: "Continued Strikes Show Need For Bold Action"
-date: 2023-03-29
-source-url: https://www.scoop.co.nz/stories/PA2303/S00237/continued-strikes-show-need-for-bold-action.htm
+title: Continued Strikes Show Need For Bold Action
+date: 2023-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00237/continued-strikes-show-need-for-bold-action.htm
 author: green-party
+permalink: /archive/2023/03/29/continued-strikes-show-need-for-bold-action/index.html
+layout: layout.njk
 ---
 Continued Strikes Show Need For Bold Action
 ===========================================

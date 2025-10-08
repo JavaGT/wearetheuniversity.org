@@ -1,9 +1,12 @@
 ---
 slug: select-committee-scrutiny-a-must
-title: "Select Committee Scrutiny A Must"
-date: 2000-05-23
-source-url: https://www.scoop.co.nz/stories/PA0005/S00488/select-committee-scrutiny-a-must.htm
+title: Select Committee Scrutiny A Must
+date: 2000-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00488/select-committee-scrutiny-a-must.htm
 author: act-new-zealand
+permalink: /archive/2000/05/23/select-committee-scrutiny-a-must/index.html
+layout: layout.njk
 ---
 Select Committee Scrutiny A Must
 ================================

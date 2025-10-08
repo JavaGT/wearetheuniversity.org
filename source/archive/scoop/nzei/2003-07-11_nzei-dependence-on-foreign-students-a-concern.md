@@ -1,9 +1,12 @@
 ---
 slug: nzei-dependence-on-foreign-students-a-concern
-title: "NZEI: Dependence On Foreign Students A Concern"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00029/nzei-dependence-on-foreign-students-a-concern.htm
+title: 'NZEI: Dependence On Foreign Students A Concern'
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00029/nzei-dependence-on-foreign-students-a-concern.htm
 author: nzei
+permalink: /archive/2003/07/11/nzei-dependence-on-foreign-students-a-concern/index.html
+layout: layout.njk
 ---
 NZEI: Dependence On Foreign Students A Concern
 ==============================================

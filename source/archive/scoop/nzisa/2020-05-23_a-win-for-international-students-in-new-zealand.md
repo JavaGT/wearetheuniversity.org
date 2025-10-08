@@ -1,9 +1,12 @@
 ---
 slug: a-win-for-international-students-in-new-zealand
-title: "A Win For International Students In New Zealand"
-date: 2020-05-23
-source-url: https://www.scoop.co.nz/stories/ED2005/S00058/a-win-for-international-students-in-new-zealand.htm
+title: A Win For International Students In New Zealand
+date: 2020-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00058/a-win-for-international-students-in-new-zealand.htm
 author: nzisa
+permalink: /archive/2020/05/23/a-win-for-international-students-in-new-zealand/index.html
+layout: layout.njk
 ---
 A Win For International Students In New Zealand
 ===============================================

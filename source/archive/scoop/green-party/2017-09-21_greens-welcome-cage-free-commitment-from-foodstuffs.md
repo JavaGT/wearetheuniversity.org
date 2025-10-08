@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-cage-free-commitment-from-foodstuffs
-title: "Greens welcome cage-free commitment from Foodstuffs"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/PA1709/S00261/greens-welcome-cage-free-commitment-from-foodstuffs.htm
+title: Greens welcome cage-free commitment from Foodstuffs
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00261/greens-welcome-cage-free-commitment-from-foodstuffs.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/21/greens-welcome-cage-free-commitment-from-foodstuffs/index.html
+layout: layout.njk
 ---
 Greens welcome cage-free commitment from Foodstuffs
 ===================================================

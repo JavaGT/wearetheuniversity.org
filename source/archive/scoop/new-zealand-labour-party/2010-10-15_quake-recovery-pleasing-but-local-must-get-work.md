@@ -1,9 +1,12 @@
 ---
 slug: quake-recovery-pleasing-but-local-must-get-work
-title: "Quake recovery pleasing but local must get work"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00264/quake-recovery-pleasing-but-local-must-get-work.htm
+title: Quake recovery pleasing but local must get work
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00264/quake-recovery-pleasing-but-local-must-get-work.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/15/quake-recovery-pleasing-but-local-must-get-work/index.html
+layout: layout.njk
 ---
 Quake recovery pleasing but local must get work
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: act-leader-david-seymour-mourns-the-passing-of-neil-christensen
-title: "ACT Leader David Seymour Mourns The Passing Of Neil Christensen"
-date: 2023-10-09
-source-url: https://www.scoop.co.nz/stories/PA2310/S00067/act-leader-david-seymour-mourns-the-passing-of-neil-christensen.htm
+title: ACT Leader David Seymour Mourns The Passing Of Neil Christensen
+date: 2023-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00067/act-leader-david-seymour-mourns-the-passing-of-neil-christensen.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/10/09/act-leader-david-seymour-mourns-the-passing-of-neil-christensen/index.html
+layout: layout.njk
 ---
 ACT Leader David Seymour Mourns The Passing Of Neil Christensen
 ===============================================================

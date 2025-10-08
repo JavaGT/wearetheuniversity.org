@@ -1,9 +1,13 @@
 ---
 slug: wwi-and-its-aftermath-health-impacts-on-new-zealand
-title: "WWI and its aftermath – health impacts on New Zealand"
-date: 2018-10-30
-source-url: https://www.scoop.co.nz/stories/CU1810/S00370/wwi-and-its-aftermath-health-impacts-on-new-zealand.htm
+title: WWI and its aftermath – health impacts on New Zealand
+date: 2018-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00370/wwi-and-its-aftermath-health-impacts-on-new-zealand.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/30/wwi-and-its-aftermath-health-impacts-on-new-zealand/index.html
+layout: layout.njk
 ---
 WWI and its aftermath – health impacts on New Zealand
 =====================================================

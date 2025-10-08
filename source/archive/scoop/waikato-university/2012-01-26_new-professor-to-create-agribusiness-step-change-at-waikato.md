@@ -1,9 +1,13 @@
 ---
 slug: new-professor-to-create-agribusiness-step-change-at-waikato
-title: "New professor to create agribusiness step-change at Waikato"
-date: 2012-01-26
-source-url: https://www.scoop.co.nz/stories/ED1201/S00056/new-professor-to-create-agribusiness-step-change-at-waikato.htm
+title: New professor to create agribusiness step-change at Waikato
+date: 2012-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00056/new-professor-to-create-agribusiness-step-change-at-waikato.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/01/26/new-professor-to-create-agribusiness-step-change-at-waikato/index.html
+layout: layout.njk
 ---
 New professor to create agribusiness step-change at Waikato
 ===========================================================

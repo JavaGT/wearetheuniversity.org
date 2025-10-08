@@ -1,9 +1,12 @@
 ---
 slug: warm-up-nz-scheme-too-much-too-soon
-title: "‘Warm up NZ’ scheme too much, too soon"
-date: 2010-03-02
-source-url: https://www.scoop.co.nz/stories/PA1003/S00027/warm-up-nz-scheme-too-much-too-soon.htm
+title: ‘Warm up NZ’ scheme too much, too soon
+date: 2010-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00027/warm-up-nz-scheme-too-much-too-soon.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/02/warm-up-nz-scheme-too-much-too-soon/index.html
+layout: layout.njk
 ---
 ‘Warm up NZ’ scheme too much, too soon
 ======================================

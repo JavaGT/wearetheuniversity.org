@@ -1,9 +1,12 @@
 ---
 slug: slow-increase-in-house-prices-but-sales-steady
-title: "Slow increase in house prices but sales steady"
-date: 2006-07-06
-source-url: https://www.scoop.co.nz/stories/BU0607/S00089/slow-increase-in-house-prices-but-sales-steady.htm
+title: Slow increase in house prices but sales steady
+date: 2006-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0607/S00089/slow-increase-in-house-prices-but-sales-steady.htm
 author: massey-university
+permalink: /archive/2006/07/06/slow-increase-in-house-prices-but-sales-steady/index.html
+layout: layout.njk
 ---
 Slow increase in house prices but sales steady
 ==============================================

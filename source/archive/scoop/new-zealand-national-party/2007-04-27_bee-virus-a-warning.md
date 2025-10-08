@@ -1,9 +1,11 @@
 ---
 slug: bee-virus-a-warning
-title: "Bee virus a warning"
-date: 2007-04-27
+title: Bee virus a warning
+date: 2007-04-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0704/S00466/bee-virus-a-warning.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/27/bee-virus-a-warning/index.html
+layout: layout.njk
 ---
 Bee virus a warning
 ===================

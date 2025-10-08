@@ -1,8 +1,11 @@
 ---
 slug: robots-help-with-rural-elderly-healthcare
-title: "Robots help with rural elderly healthcare"
-date: 2015-11-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/robots-help-with-rural-elderly-healthcare.html
+title: Robots help with rural elderly healthcare
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/robots-help-with-rural-elderly-healthcare.html
+permalink: /archive/2015/11/02/robots-help-with-rural-elderly-healthcare/index.html
+layout: layout.njk
 ---
 Robots help with rural elderly healthcare
 =========================================

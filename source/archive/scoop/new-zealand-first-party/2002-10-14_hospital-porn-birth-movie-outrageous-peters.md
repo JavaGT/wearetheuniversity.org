@@ -1,9 +1,12 @@
 ---
 slug: hospital-porn-birth-movie-outrageous-peters
-title: "Hospital Porn Birth Movie \"Outrageous\" -  Peters"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00276/hospital-porn-birth-movie-outrageous-peters.htm
+title: Hospital Porn Birth Movie "Outrageous" -  Peters
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00276/hospital-porn-birth-movie-outrageous-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/14/hospital-porn-birth-movie-outrageous-peters/index.html
+layout: layout.njk
 ---
 Hospital Porn Birth Movie "Outrageous" - Peters
 ===============================================

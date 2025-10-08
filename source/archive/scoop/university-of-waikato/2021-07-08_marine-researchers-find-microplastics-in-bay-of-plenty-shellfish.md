@@ -1,9 +1,13 @@
 ---
 slug: marine-researchers-find-microplastics-in-bay-of-plenty-shellfish
-title: "Marine Researchers Find Microplastics In Bay Of Plenty Shellfish"
-date: 2021-07-08
-source-url: https://www.scoop.co.nz/stories/SC2107/S00021/marine-researchers-find-microplastics-in-bay-of-plenty-shellfish.htm
+title: Marine Researchers Find Microplastics In Bay Of Plenty Shellfish
+date: 2021-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00021/marine-researchers-find-microplastics-in-bay-of-plenty-shellfish.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/07/08/marine-researchers-find-microplastics-in-bay-of-plenty-shellfish/index.html
+layout: layout.njk
 ---
 Marine Researchers Find Microplastics In Bay Of Plenty Shellfish
 ================================================================

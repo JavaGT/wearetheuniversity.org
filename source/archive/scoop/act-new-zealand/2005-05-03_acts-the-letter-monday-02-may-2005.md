@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-02-may-2005
-title: "ACT's The Letter  Monday, 02 May 2005"
-date: 2005-05-03
-source-url: https://www.scoop.co.nz/stories/PA0505/S00035/acts-the-letter-monday-02-may-2005.htm
+title: ACT's The Letter  Monday, 02 May 2005
+date: 2005-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00035/acts-the-letter-monday-02-may-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/05/03/acts-the-letter-monday-02-may-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter Monday, 02 May 2005
 ====================================

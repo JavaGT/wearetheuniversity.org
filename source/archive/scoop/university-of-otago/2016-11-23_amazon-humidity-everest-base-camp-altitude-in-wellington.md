@@ -1,9 +1,13 @@
 ---
 slug: amazon-humidity-everest-base-camp-altitude-in-wellington
-title: "Amazon humidity, Everest Base Camp altitude...in Wellington"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/ED1611/S00108/amazon-humidity-everest-base-camp-altitudein-wellington.htm
+title: Amazon humidity, Everest Base Camp altitude...in Wellington
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00108/amazon-humidity-everest-base-camp-altitudein-wellington.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/23/amazon-humidity-everest-base-camp-altitude-in-wellington/index.html
+layout: layout.njk
 ---
 Amazon humidity, Everest Base Camp altitude...in Wellington
 ===========================================================

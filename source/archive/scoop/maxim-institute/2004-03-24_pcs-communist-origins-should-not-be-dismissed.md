@@ -1,9 +1,12 @@
 ---
 slug: pcs-communist-origins-should-not-be-dismissed
-title: "PC’s communist origins should not be dismissed"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PO0403/S00173/pcs-communist-origins-should-not-be-dismissed.htm
+title: PC’s communist origins should not be dismissed
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00173/pcs-communist-origins-should-not-be-dismissed.htm
 author: maxim-institute
+permalink: /archive/2004/03/24/pcs-communist-origins-should-not-be-dismissed/index.html
+layout: layout.njk
 ---
 PC’s communist origins should not be dismissed
 ==============================================

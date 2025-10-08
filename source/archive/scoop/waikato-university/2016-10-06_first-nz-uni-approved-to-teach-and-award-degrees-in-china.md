@@ -1,9 +1,13 @@
 ---
 slug: first-nz-uni-approved-to-teach-and-award-degrees-in-china
-title: "First NZ uni approved to teach and award degrees in China"
-date: 2016-10-06
-source-url: https://www.scoop.co.nz/stories/ED1610/S00011/first-nz-uni-approved-to-teach-and-award-degrees-in-china.htm
+title: First NZ uni approved to teach and award degrees in China
+date: 2016-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00011/first-nz-uni-approved-to-teach-and-award-degrees-in-china.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/10/06/first-nz-uni-approved-to-teach-and-award-degrees-in-china/index.html
+layout: layout.njk
 ---
 First NZ uni approved to teach and award degrees in China
 =========================================================

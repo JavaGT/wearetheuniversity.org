@@ -1,9 +1,12 @@
 ---
 slug: get-cracking-tracking-kiwi-dodgers-in-aussie
-title: "Get cracking tracking Kiwi dodgers in Aussie"
-date: 2005-01-13
-source-url: https://www.scoop.co.nz/stories/PA0501/S00080/get-cracking-tracking-kiwi-dodgers-in-aussie.htm
+title: Get cracking tracking Kiwi dodgers in Aussie
+date: 2005-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00080/get-cracking-tracking-kiwi-dodgers-in-aussie.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/13/get-cracking-tracking-kiwi-dodgers-in-aussie/index.html
+layout: layout.njk
 ---
 Get cracking tracking Kiwi dodgers in Aussie
 ============================================

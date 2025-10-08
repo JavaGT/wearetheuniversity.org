@@ -1,9 +1,13 @@
 ---
 slug: che-fu-headlines-aut-universitys-south-campus-housewarming
-title: "Che Fu headlines AUT University's South Campus Housewarming"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/CU1402/S00268/che-fu-headlines-aut-universitys-south-campus-housewarming.htm
+title: Che Fu headlines AUT University's South Campus Housewarming
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1402/S00268/che-fu-headlines-aut-universitys-south-campus-housewarming.htm
 author: aut-university
+permalink: >-
+  /archive/2014/02/13/che-fu-headlines-aut-universitys-south-campus-housewarming/index.html
+layout: layout.njk
 ---
 Che Fu headlines AUT University's South Campus Housewarming
 ===========================================================

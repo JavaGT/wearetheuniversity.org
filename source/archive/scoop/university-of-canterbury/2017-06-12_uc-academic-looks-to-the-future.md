@@ -1,9 +1,12 @@
 ---
 slug: uc-academic-looks-to-the-future
-title: "UC academic looks to the future"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/ED1706/S00034/uc-academic-looks-to-the-future.htm
+title: UC academic looks to the future
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00034/uc-academic-looks-to-the-future.htm
 author: university-of-canterbury
+permalink: /archive/2017/06/12/uc-academic-looks-to-the-future/index.html
+layout: layout.njk
 ---
 UC academic looks to the future
 ===============================

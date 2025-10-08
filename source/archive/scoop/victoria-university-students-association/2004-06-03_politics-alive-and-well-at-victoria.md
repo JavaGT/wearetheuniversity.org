@@ -1,9 +1,12 @@
 ---
 slug: politics-alive-and-well-at-victoria
-title: "Politics Alive And Well At Victoria"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/ED0406/S00020/politics-alive-and-well-at-victoria.htm
+title: Politics Alive And Well At Victoria
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00020/politics-alive-and-well-at-victoria.htm
 author: victoria-university-students-association
+permalink: /archive/2004/06/03/politics-alive-and-well-at-victoria/index.html
+layout: layout.njk
 ---
 Politics Alive And Well At Victoria
 ===================================

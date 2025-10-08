@@ -1,9 +1,12 @@
 ---
 slug: maori-students-face-to-face-with-dwi
-title: "Maori students – Face to face with DWI"
-date: 2000-07-18
-source-url: https://www.scoop.co.nz/stories/ED0007/S00025/maori-students-face-to-face-with-dwi.htm
+title: Maori students – Face to face with DWI
+date: 2000-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00025/maori-students-face-to-face-with-dwi.htm
 author: te-mana-akonga
+permalink: /archive/2000/07/18/maori-students-face-to-face-with-dwi/index.html
+layout: layout.njk
 ---
 Maori students – Face to face with DWI
 ======================================

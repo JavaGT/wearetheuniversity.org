@@ -1,9 +1,12 @@
 ---
 slug: trans-pacific-partnership-public-lectures
-title: "Trans-Pacific Partnership public lectures"
-date: 2016-04-18
-source-url: https://www.scoop.co.nz/stories/PO1604/S00235/trans-pacific-partnership-public-lectures.htm
+title: Trans-Pacific Partnership public lectures
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00235/trans-pacific-partnership-public-lectures.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/04/18/trans-pacific-partnership-public-lectures/index.html
+layout: layout.njk
 ---
 Trans-Pacific Partnership public lectures
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-study-confirms-that-sperm-quality-decreases-with-age
-title: "Otago study confirms that sperm quality decreases with age"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/GE1412/S00004/otago-study-confirms-that-sperm-quality-decreases-with-age.htm
+title: Otago study confirms that sperm quality decreases with age
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1412/S00004/otago-study-confirms-that-sperm-quality-decreases-with-age.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/01/otago-study-confirms-that-sperm-quality-decreases-with-age/index.html
+layout: layout.njk
 ---
 Otago study confirms that sperm quality decreases with age
 ==========================================================

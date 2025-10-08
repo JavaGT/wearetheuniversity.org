@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-releases-briefing-to-incoming-government-outlining-key-areas-of-policy-to-protect-free-speech
-title: "Free Speech Union Releases Briefing To Incoming Government, Outlining Key Areas Of Policy To Protect Free Speech"
-date: 2023-12-08
-source-url: https://www.scoop.co.nz/stories/PO2312/S00071/free-speech-union-releases-briefing-to-incoming-government-outlining-key-areas-of-policy-to-protect-free-speech.htm
+slug: >-
+  free-speech-union-releases-briefing-to-incoming-government-outlining-key-areas-of-policy-to-protect-free-speech
+title: >-
+  Free Speech Union Releases Briefing To Incoming Government, Outlining Key
+  Areas Of Policy To Protect Free Speech
+date: 2023-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00071/free-speech-union-releases-briefing-to-incoming-government-outlining-key-areas-of-policy-to-protect-free-speech.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/12/08/free-speech-union-releases-briefing-to-incoming-government-outlining-key-areas-of-policy-to-protect-free-speech/index.html
+layout: layout.njk
 ---
 Free Speech Union Releases Briefing To Incoming Government, Outlining Key Areas Of Policy To Protect Free Speech
 ================================================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: fund-success-for-university-of-canterbury-research
-title: "Fund success for University of Canterbury research"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/ED0609/S00026/fund-success-for-university-of-canterbury-research.htm
+title: Fund success for University of Canterbury research
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00026/fund-success-for-university-of-canterbury-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/09/07/fund-success-for-university-of-canterbury-research/index.html
+layout: layout.njk
 ---
 Fund success for University of Canterbury research
 ==================================================

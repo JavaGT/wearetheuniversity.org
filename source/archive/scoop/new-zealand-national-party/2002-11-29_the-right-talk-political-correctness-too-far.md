@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-political-correctness-too-far
-title: "The Right Talk  - Political Correctness Too Far"
-date: 2002-11-29
-source-url: https://www.scoop.co.nz/stories/PA0211/S00682/the-right-talk-political-correctness-too-far.htm
+title: The Right Talk  - Political Correctness Too Far
+date: 2002-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00682/the-right-talk-political-correctness-too-far.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/29/the-right-talk-political-correctness-too-far/index.html
+layout: layout.njk
 ---
 The Right Talk - Political Correctness Too Far
 ==============================================

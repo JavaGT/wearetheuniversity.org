@@ -1,9 +1,13 @@
 ---
 slug: scholarship-for-commitment-towards-wetland-research
-title: "Scholarship for commitment towards wetland research"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/SC1109/S00026/scholarship-for-commitment-towards-wetland-research.htm
+title: Scholarship for commitment towards wetland research
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00026/scholarship-for-commitment-towards-wetland-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/09/15/scholarship-for-commitment-towards-wetland-research/index.html
+layout: layout.njk
 ---
 Scholarship for commitment towards wetland research
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: will-ge-cows-help-multiple-sclerosis-sufferers
-title: "Will GE cows help multiple sclerosis sufferers?"
-date: 2001-05-09
-source-url: https://www.scoop.co.nz/stories/PA0105/S00210/will-ge-cows-help-multiple-sclerosis-sufferers.htm
+title: Will GE cows help multiple sclerosis sufferers?
+date: 2001-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00210/will-ge-cows-help-multiple-sclerosis-sufferers.htm
 author: green-party
+permalink: /archive/2001/05/09/will-ge-cows-help-multiple-sclerosis-sufferers/index.html
+layout: layout.njk
 ---
 Will GE cows help multiple sclerosis sufferers?
 ===============================================

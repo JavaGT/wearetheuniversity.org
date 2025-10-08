@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-believe-robots-can-persuade-people-to-conform
-title: "UC researchers believe robots can persuade people to conform"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/SC1403/S00054/uc-researchers-believe-robots-can-persuade-people-to-conform.htm
+title: UC researchers believe robots can persuade people to conform
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00054/uc-researchers-believe-robots-can-persuade-people-to-conform.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/24/uc-researchers-believe-robots-can-persuade-people-to-conform/index.html
+layout: layout.njk
 ---
 UC researchers believe robots can persuade people to conform
 ============================================================

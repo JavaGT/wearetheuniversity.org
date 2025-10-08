@@ -1,9 +1,12 @@
 ---
 slug: bailout-is-band-aid-economics-of-labours-making
-title: "Bailout Is Band-aid Economics Of Labour’s Making"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00180/bailout-is-band-aid-economics-of-labours-making.htm
+title: Bailout Is Band-aid Economics Of Labour’s Making
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00180/bailout-is-band-aid-economics-of-labours-making.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/27/bailout-is-band-aid-economics-of-labours-making/index.html
+layout: layout.njk
 ---
 Bailout Is Band-aid Economics Of Labour’s Making
 ================================================

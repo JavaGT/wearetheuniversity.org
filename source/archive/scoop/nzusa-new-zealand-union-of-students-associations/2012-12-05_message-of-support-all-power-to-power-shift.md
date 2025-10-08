@@ -1,9 +1,12 @@
 ---
 slug: message-of-support-all-power-to-power-shift
-title: "Message Of Support: All Power To Power Shift"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/PO1212/S00052/message-of-support-all-power-to-power-shift.htm
+title: 'Message Of Support: All Power To Power Shift'
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1212/S00052/message-of-support-all-power-to-power-shift.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/12/05/message-of-support-all-power-to-power-shift/index.html
+layout: layout.njk
 ---
 Message Of Support: All Power To Power Shift
 ============================================

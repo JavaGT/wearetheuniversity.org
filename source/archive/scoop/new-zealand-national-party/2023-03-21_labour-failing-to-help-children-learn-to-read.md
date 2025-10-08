@@ -1,9 +1,12 @@
 ---
 slug: labour-failing-to-help-children-learn-to-read
-title: "Labour Failing To Help Children Learn To Read"
-date: 2023-03-21
-source-url: https://www.scoop.co.nz/stories/PA2303/S00176/labour-failing-to-help-children-learn-to-read.htm
+title: Labour Failing To Help Children Learn To Read
+date: 2023-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00176/labour-failing-to-help-children-learn-to-read.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/21/labour-failing-to-help-children-learn-to-read/index.html
+layout: layout.njk
 ---
 Labour Failing To Help Children Learn To Read
 =============================================

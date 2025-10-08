@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-better-medicine-management
-title: "Greens call for better medicine management"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00789/greens-call-for-better-medicine-management.htm
+title: Greens call for better medicine management
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00789/greens-call-for-better-medicine-management.htm
 author: green-party
+permalink: /archive/2005/08/30/greens-call-for-better-medicine-management/index.html
+layout: layout.njk
 ---
 Greens call for better medicine management
 ==========================================

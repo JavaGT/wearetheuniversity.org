@@ -1,9 +1,12 @@
 ---
 slug: new-book-helps-to-de-mystify-dyslexia
-title: "New book helps to de-mystify dyslexia"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/ED1503/S00065/new-book-helps-to-de-mystify-dyslexia.htm
+title: New book helps to de-mystify dyslexia
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00065/new-book-helps-to-de-mystify-dyslexia.htm
 author: massey-university
+permalink: /archive/2015/03/16/new-book-helps-to-de-mystify-dyslexia/index.html
+layout: layout.njk
 ---
 New book helps to de-mystify dyslexia
 =====================================

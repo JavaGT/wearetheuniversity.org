@@ -1,9 +1,12 @@
 ---
 slug: massey-students-drive-freshwater-change
-title: "Massey students drive freshwater change"
-date: 2016-03-20
-source-url: https://www.scoop.co.nz/stories/SC1603/S00045/massey-students-drive-freshwater-change.htm
+title: Massey students drive freshwater change
+date: 2016-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00045/massey-students-drive-freshwater-change.htm
 author: massey-university
+permalink: /archive/2016/03/20/massey-students-drive-freshwater-change/index.html
+layout: layout.njk
 ---
 Massey students drive freshwater change
 =======================================

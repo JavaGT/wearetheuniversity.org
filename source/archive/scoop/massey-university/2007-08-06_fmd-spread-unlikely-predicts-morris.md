@@ -1,9 +1,12 @@
 ---
 slug: fmd-spread-unlikely-predicts-morris
-title: "FMD spread unlikely, predicts Morris"
-date: 2007-08-06
-source-url: https://www.scoop.co.nz/stories/SC0708/S00013/fmd-spread-unlikely-predicts-morris.htm
+title: FMD spread unlikely, predicts Morris
+date: 2007-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0708/S00013/fmd-spread-unlikely-predicts-morris.htm
 author: massey-university
+permalink: /archive/2007/08/06/fmd-spread-unlikely-predicts-morris/index.html
+layout: layout.njk
 ---
 FMD spread unlikely, predicts Morris
 ====================================

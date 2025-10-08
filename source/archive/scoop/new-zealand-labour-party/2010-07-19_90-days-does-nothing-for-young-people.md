@@ -1,9 +1,12 @@
 ---
 slug: 90-days-does-nothing-for-young-people
-title: "90 days does nothing for young people"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/PA1007/S00275/90-days-does-nothing-for-young-people.htm
+title: 90 days does nothing for young people
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00275/90-days-does-nothing-for-young-people.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/19/90-days-does-nothing-for-young-people/index.html
+layout: layout.njk
 ---
 90 days does nothing for young people
 =====================================

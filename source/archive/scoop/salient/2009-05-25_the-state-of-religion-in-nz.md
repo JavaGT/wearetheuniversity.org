@@ -1,9 +1,11 @@
 ---
 slug: the-state-of-religion-in-nz
-title: "The State of Religion in NZ"
-date: 2009-05-25
+title: The State of Religion in NZ
+date: 2009-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0905/S00097/the-state-of-religion-in-nz.htm
 author: salient
+permalink: /archive/2009/05/25/the-state-of-religion-in-nz/index.html
+layout: layout.njk
 ---
 The State of Religion in NZ
 ===========================

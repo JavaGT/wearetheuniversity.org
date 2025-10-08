@@ -1,9 +1,13 @@
 ---
 slug: emails-reveal-booklet-could-have-meant-higher-settlements
-title: "Emails reveal booklet could have meant higher settlements"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00444/emails-reveal-booklet-could-have-meant-higher-settlements.htm
+title: Emails reveal booklet could have meant higher settlements
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00444/emails-reveal-booklet-could-have-meant-higher-settlements.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/24/emails-reveal-booklet-could-have-meant-higher-settlements/index.html
+layout: layout.njk
 ---
 Emails reveal booklet could have meant higher settlements
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māoris-grim-century-subject-of-public-lecture
-title: "Te Reo Māori’s \"grim century\" subject of public lecture"
-date: 2015-07-28
-source-url: https://www.scoop.co.nz/stories/CU1507/S00406/te-reo-maoris-grim-century-subject-of-public-lecture.htm
+title: Te Reo Māori’s "grim century" subject of public lecture
+date: 2015-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1507/S00406/te-reo-maoris-grim-century-subject-of-public-lecture.htm
 author: aut-university
+permalink: /archive/2015/07/28/te-reo-m/index.html
+layout: layout.njk
 ---
 Te Reo Māori’s “grim century” subject of public lecture
 =======================================================

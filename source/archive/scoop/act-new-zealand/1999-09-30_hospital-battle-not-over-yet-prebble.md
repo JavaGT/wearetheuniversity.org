@@ -1,9 +1,12 @@
 ---
 slug: hospital-battle-not-over-yet-prebble
-title: "Hospital battle not over yet  -  Prebble"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00653/hospital-battle-not-over-yet-prebble.htm
+title: Hospital battle not over yet  -  Prebble
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00653/hospital-battle-not-over-yet-prebble.htm
 author: act-new-zealand
+permalink: /archive/1999/09/30/hospital-battle-not-over-yet-prebble/index.html
+layout: layout.njk
 ---
 Hospital battle not over yet - Prebble
 ======================================

@@ -1,9 +1,11 @@
 ---
 slug: mr-me-too-strikes-again
-title: "Mr 'Me Too' strikes again"
-date: 1999-11-18
+title: Mr 'Me Too' strikes again
+date: 1999-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9911/S00040/mr-me-too-strikes-again.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/18/mr-me-too-strikes-again/index.html
+layout: layout.njk
 ---
 Mr 'Me Too' strikes again
 =========================

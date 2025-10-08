@@ -1,9 +1,12 @@
 ---
 slug: research-on-identifying-water-values-wins-award
-title: "Research on identifying water values wins award"
-date: 2015-03-03
-source-url: https://www.scoop.co.nz/stories/SC1503/S00015/research-on-identifying-water-values-wins-award.htm
+title: Research on identifying water values wins award
+date: 2015-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00015/research-on-identifying-water-values-wins-award.htm
 author: lincoln-university
+permalink: /archive/2015/03/03/research-on-identifying-water-values-wins-award/index.html
+layout: layout.njk
 ---
 Research on identifying water values wins award
 ===============================================

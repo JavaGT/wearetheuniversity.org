@@ -1,9 +1,12 @@
 ---
 slug: students-offered-online-fee-payment-system
-title: "Students offered online fee payment system"
-date: 2003-06-09
-source-url: https://www.scoop.co.nz/stories/ED0306/S00008/students-offered-online-fee-payment-system.htm
+title: Students offered online fee payment system
+date: 2003-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00008/students-offered-online-fee-payment-system.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/09/students-offered-online-fee-payment-system/index.html
+layout: layout.njk
 ---
 Students offered online fee payment system
 ==========================================

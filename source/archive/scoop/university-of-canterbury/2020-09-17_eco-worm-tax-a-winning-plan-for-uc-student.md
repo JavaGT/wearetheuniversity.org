@@ -1,9 +1,12 @@
 ---
 slug: eco-worm-tax-a-winning-plan-for-uc-student
-title: "‘Eco Worm Tax’ A Winning Plan For UC Student"
-date: 2020-09-17
-source-url: https://www.scoop.co.nz/stories/ED2009/S00038/eco-worm-tax-a-winning-plan-for-uc-student.htm
+title: ‘Eco Worm Tax’ A Winning Plan For UC Student
+date: 2020-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00038/eco-worm-tax-a-winning-plan-for-uc-student.htm
 author: university-of-canterbury
+permalink: /archive/2020/09/17/eco-worm-tax-a-winning-plan-for-uc-student/index.html
+layout: layout.njk
 ---
 ‘Eco Worm Tax’ A Winning Plan For UC Student
 ============================================

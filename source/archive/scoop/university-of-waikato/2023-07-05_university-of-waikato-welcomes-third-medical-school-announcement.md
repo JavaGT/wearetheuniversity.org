@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-welcomes-third-medical-school-announcement
-title: "University Of Waikato Welcomes Third Medical School Announcement"
-date: 2023-07-05
-source-url: https://www.scoop.co.nz/stories/PO2307/S00019/university-of-waikato-welcomes-third-medical-school-announcement.htm
+title: University Of Waikato Welcomes Third Medical School Announcement
+date: 2023-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00019/university-of-waikato-welcomes-third-medical-school-announcement.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/07/05/university-of-waikato-welcomes-third-medical-school-announcement/index.html
+layout: layout.njk
 ---
 University Of Waikato Welcomes Third Medical School Announcement
 ================================================================

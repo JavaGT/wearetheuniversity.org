@@ -1,9 +1,12 @@
 ---
 slug: alcohol-still-impacting-ed-despite-legislation
-title: "Alcohol still impacting ED despite legislation"
-date: 2018-10-05
-source-url: https://www.scoop.co.nz/stories/GE1810/S00024/alcohol-still-impacting-ed-despite-legislation.htm
+title: Alcohol still impacting ED despite legislation
+date: 2018-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00024/alcohol-still-impacting-ed-despite-legislation.htm
 author: university-of-otago
+permalink: /archive/2018/10/05/alcohol-still-impacting-ed-despite-legislation/index.html
+layout: layout.njk
 ---
 Alcohol still impacting ED despite legislation
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-turia-reply-to-the-prime-ministers-speech
-title: "Minister Turia: Reply to the Prime Minister’s Speech"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/PA1401/S00173/minister-turia-reply-to-the-prime-ministers-speech.htm
+title: 'Minister Turia: Reply to the Prime Minister’s Speech'
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00173/minister-turia-reply-to-the-prime-ministers-speech.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/01/28/minister-turia-reply-to-the-prime-ministers-speech/index.html
+layout: layout.njk
 ---
 Minister Turia: Reply to the Prime Minister’s Speech
 ====================================================

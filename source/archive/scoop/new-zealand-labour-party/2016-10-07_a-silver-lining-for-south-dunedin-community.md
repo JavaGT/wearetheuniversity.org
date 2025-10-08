@@ -1,9 +1,12 @@
 ---
 slug: a-silver-lining-for-south-dunedin-community
-title: "A silver lining for South Dunedin Community"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/PA1610/S00098/a-silver-lining-for-south-dunedin-community.htm
+title: A silver lining for South Dunedin Community
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00098/a-silver-lining-for-south-dunedin-community.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/07/a-silver-lining-for-south-dunedin-community/index.html
+layout: layout.njk
 ---
 A silver lining for South Dunedin Community
 ===========================================

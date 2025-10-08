@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-awarded-$6-1-million-to-predict-grape-growth
-title: "UC Researchers Awarded $6.1 Million To Predict Grape Growth"
-date: 2023-11-08
-source-url: https://www.scoop.co.nz/stories/ED2311/S00019/uc-researchers-awarded-61-million-to-predict-grape-growth.htm
+title: UC Researchers Awarded $6.1 Million To Predict Grape Growth
+date: 2023-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2311/S00019/uc-researchers-awarded-61-million-to-predict-grape-growth.htm
 author: university-of-canterbury
+permalink: /archive/2023/11/08/uc-researchers-awarded-/index.html
+layout: layout.njk
 ---
 UC Researchers Awarded $6.1 Million To Predict Grape Growth
 ===========================================================

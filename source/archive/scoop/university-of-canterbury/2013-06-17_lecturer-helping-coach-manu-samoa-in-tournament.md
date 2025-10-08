@@ -1,9 +1,12 @@
 ---
 slug: lecturer-helping-coach-manu-samoa-in-tournament
-title: "Lecturer helping coach Manu Samoa in tournament"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/SP1306/S00037/lecturer-helping-coach-manu-samoa-in-tournament.htm
+title: Lecturer helping coach Manu Samoa in tournament
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1306/S00037/lecturer-helping-coach-manu-samoa-in-tournament.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/17/lecturer-helping-coach-manu-samoa-in-tournament/index.html
+layout: layout.njk
 ---
 Lecturer helping coach Manu Samoa in tournament
 ===============================================

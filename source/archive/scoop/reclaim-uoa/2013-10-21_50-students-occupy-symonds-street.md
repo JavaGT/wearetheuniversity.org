@@ -1,9 +1,12 @@
 ---
 slug: 50-students-occupy-symonds-street
-title: "50 Students Occupy Symonds Street"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/PO1310/S00214/50-students-occupy-symonds-street.htm
+title: 50 Students Occupy Symonds Street
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00214/50-students-occupy-symonds-street.htm
 author: reclaim-uoa
+permalink: /archive/2013/10/21/50-students-occupy-symonds-street/index.html
+layout: layout.njk
 ---
 50 Students Occupy Symonds Street
 =================================

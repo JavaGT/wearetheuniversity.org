@@ -1,9 +1,13 @@
 ---
 slug: otago-ranked-as-nzs-top-high-quality-research-contributor
-title: "Otago ranked as NZ’s top high-quality research contributor"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/SC1604/S00040/otago-ranked-as-nzs-top-high-quality-research-contributor.htm
+title: Otago ranked as NZ’s top high-quality research contributor
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00040/otago-ranked-as-nzs-top-high-quality-research-contributor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/21/otago-ranked-as-nzs-top-high-quality-research-contributor/index.html
+layout: layout.njk
 ---
 Otago ranked as NZ’s top high-quality research contributor
 ==========================================================

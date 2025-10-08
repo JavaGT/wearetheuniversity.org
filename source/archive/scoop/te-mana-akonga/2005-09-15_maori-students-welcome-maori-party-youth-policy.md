@@ -1,9 +1,12 @@
 ---
 slug: maori-students-welcome-maori-party-youth-policy
-title: "Maori students welcome Maori Party youth policy"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/ED0509/S00058/maori-students-welcome-maori-party-youth-policy.htm
+title: Maori students welcome Maori Party youth policy
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00058/maori-students-welcome-maori-party-youth-policy.htm
 author: te-mana-akonga
+permalink: /archive/2005/09/15/maori-students-welcome-maori-party-youth-policy/index.html
+layout: layout.njk
 ---
 Maori students welcome Maori Party youth policy
 ===============================================

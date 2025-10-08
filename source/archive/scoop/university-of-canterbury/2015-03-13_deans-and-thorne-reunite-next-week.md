@@ -1,9 +1,12 @@
 ---
 slug: deans-and-thorne-reunite-next-week
-title: "Deans and Thorne reunite next week"
-date: 2015-03-13
-source-url: https://www.scoop.co.nz/stories/ED1503/S00057/deans-and-thorne-reunite-next-week.htm
+title: Deans and Thorne reunite next week
+date: 2015-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00057/deans-and-thorne-reunite-next-week.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/13/deans-and-thorne-reunite-next-week/index.html
+layout: layout.njk
 ---
 Deans and Thorne reunite next week
 ==================================

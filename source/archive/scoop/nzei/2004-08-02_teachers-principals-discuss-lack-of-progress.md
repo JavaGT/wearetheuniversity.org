@@ -1,9 +1,12 @@
 ---
 slug: teachers-principals-discuss-lack-of-progress
-title: "Teachers/Principals Discuss Lack Of Progress"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/ED0408/S00004/teachersprincipals-discuss-lack-of-progress.htm
+title: Teachers/Principals Discuss Lack Of Progress
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00004/teachersprincipals-discuss-lack-of-progress.htm
 author: nzei
+permalink: /archive/2004/08/02/teachers-principals-discuss-lack-of-progress/index.html
+layout: layout.njk
 ---
 Teachers/Principals Discuss Lack Of Progress
 ============================================

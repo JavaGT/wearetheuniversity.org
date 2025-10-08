@@ -1,9 +1,12 @@
 ---
 slug: vino-and-two-silver-awards-for-aut-ad-students
-title: "Vino and two silver awards for AUT ad students"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/ED0610/S00036/vino-and-two-silver-awards-for-aut-ad-students.htm
+title: Vino and two silver awards for AUT ad students
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00036/vino-and-two-silver-awards-for-aut-ad-students.htm
 author: aut-university
+permalink: /archive/2006/10/10/vino-and-two-silver-awards-for-aut-ad-students/index.html
+layout: layout.njk
 ---
 Vino and two silver awards for AUT ad students
 ==============================================

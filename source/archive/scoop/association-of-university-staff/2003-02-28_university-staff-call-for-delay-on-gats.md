@@ -1,9 +1,12 @@
 ---
 slug: university-staff-call-for-delay-on-gats
-title: "University staff call for delay on GATS"
-date: 2003-02-28
-source-url: https://www.scoop.co.nz/stories/ED0302/S00052/university-staff-call-for-delay-on-gats.htm
+title: University staff call for delay on GATS
+date: 2003-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00052/university-staff-call-for-delay-on-gats.htm
 author: association-of-university-staff
+permalink: /archive/2003/02/28/university-staff-call-for-delay-on-gats/index.html
+layout: layout.njk
 ---
 University staff call for delay on GATS
 =======================================

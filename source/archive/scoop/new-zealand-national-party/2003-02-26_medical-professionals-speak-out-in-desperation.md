@@ -1,9 +1,12 @@
 ---
 slug: medical-professionals-speak-out-in-desperation
-title: "Medical professionals speak out in desperation"
-date: 2003-02-26
-source-url: https://www.scoop.co.nz/stories/PA0302/S00493/medical-professionals-speak-out-in-desperation.htm
+title: Medical professionals speak out in desperation
+date: 2003-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00493/medical-professionals-speak-out-in-desperation.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/26/medical-professionals-speak-out-in-desperation/index.html
+layout: layout.njk
 ---
 Medical professionals speak out in desperation
 ==============================================

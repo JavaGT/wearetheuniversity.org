@@ -1,9 +1,13 @@
 ---
 slug: two-new-professors-for-waikato-management-school
-title: "Two new professors for Waikato Management School"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00019/two-new-professors-for-waikato-management-school.htm
+title: Two new professors for Waikato Management School
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00019/two-new-professors-for-waikato-management-school.htm
 author: waikato-university
+permalink: >-
+  /archive/2005/12/05/two-new-professors-for-waikato-management-school/index.html
+layout: layout.njk
 ---
 Two new professors for Waikato Management School
 ================================================

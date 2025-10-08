@@ -1,9 +1,12 @@
 ---
 slug: a-degree-is-a-smart-investment
-title: "A degree is a smart investment"
-date: 2017-01-24
-source-url: https://www.scoop.co.nz/stories/ED1701/S00035/a-degree-is-a-smart-investment.htm
+title: A degree is a smart investment
+date: 2017-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00035/a-degree-is-a-smart-investment.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/01/24/a-degree-is-a-smart-investment/index.html
+layout: layout.njk
 ---
 A degree is a smart investment
 ==============================

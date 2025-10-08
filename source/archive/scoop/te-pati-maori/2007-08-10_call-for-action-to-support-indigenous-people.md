@@ -1,9 +1,12 @@
 ---
 slug: call-for-action-to-support-indigenous-people
-title: "Call for action to support Indigenous People"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/PA0708/S00188/call-for-action-to-support-indigenous-people.htm
+title: Call for action to support Indigenous People
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00188/call-for-action-to-support-indigenous-people.htm
 author: te-pati-maori
+permalink: /archive/2007/08/10/call-for-action-to-support-indigenous-people/index.html
+layout: layout.njk
 ---
 Call for action to support Indigenous People
 ============================================

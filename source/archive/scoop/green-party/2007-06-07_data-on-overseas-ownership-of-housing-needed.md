@@ -1,9 +1,12 @@
 ---
 slug: data-on-overseas-ownership-of-housing-needed
-title: "Data on overseas ownership of housing needed"
-date: 2007-06-07
-source-url: https://www.scoop.co.nz/stories/PA0706/S00111/data-on-overseas-ownership-of-housing-needed.htm
+title: Data on overseas ownership of housing needed
+date: 2007-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00111/data-on-overseas-ownership-of-housing-needed.htm
 author: green-party
+permalink: /archive/2007/06/07/data-on-overseas-ownership-of-housing-needed/index.html
+layout: layout.njk
 ---
 Data on overseas ownership of housing needed
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: supermarket-reform-must-be-one-step-of-many
-title: "Supermarket Reform Must Be One Step Of Many"
-date: 2022-08-24
-source-url: https://www.scoop.co.nz/stories/PA2208/S00203/supermarket-reform-must-be-one-step-of-many.htm
+title: Supermarket Reform Must Be One Step Of Many
+date: 2022-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00203/supermarket-reform-must-be-one-step-of-many.htm
 author: green-party
+permalink: /archive/2022/08/24/supermarket-reform-must-be-one-step-of-many/index.html
+layout: layout.njk
 ---
 Supermarket Reform Must Be One Step Of Many
 ===========================================

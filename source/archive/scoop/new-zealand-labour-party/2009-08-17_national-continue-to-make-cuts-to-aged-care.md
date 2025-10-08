@@ -1,9 +1,12 @@
 ---
 slug: national-continue-to-make-cuts-to-aged-care
-title: "National continue to make cuts to aged care"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/PA0908/S00219/national-continue-to-make-cuts-to-aged-care.htm
+title: National continue to make cuts to aged care
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00219/national-continue-to-make-cuts-to-aged-care.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/17/national-continue-to-make-cuts-to-aged-care/index.html
+layout: layout.njk
 ---
 National continue to make cuts to aged care
 ===========================================

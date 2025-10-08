@@ -1,9 +1,12 @@
 ---
 slug: another-ird-botch-up-cullen-must-act
-title: "Another IRD Botch Up - Cullen Must Act"
-date: 2000-05-03
-source-url: https://www.scoop.co.nz/stories/PA0005/S00072/another-ird-botch-up-cullen-must-act.htm
+title: Another IRD Botch Up - Cullen Must Act
+date: 2000-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00072/another-ird-botch-up-cullen-must-act.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/03/another-ird-botch-up-cullen-must-act/index.html
+layout: layout.njk
 ---
 Another IRD Botch Up - Cullen Must Act
 ======================================

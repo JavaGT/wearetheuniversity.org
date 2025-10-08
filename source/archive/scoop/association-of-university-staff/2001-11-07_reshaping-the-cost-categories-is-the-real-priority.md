@@ -1,9 +1,13 @@
 ---
 slug: reshaping-the-cost-categories-is-the-real-priority
-title: "RESHAPING THE COST CATEGORIES IS THE REAL PRIORITY"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/ED0111/S00021/reshaping-the-cost-categories-is-the-real-priority.htm
+title: RESHAPING THE COST CATEGORIES IS THE REAL PRIORITY
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00021/reshaping-the-cost-categories-is-the-real-priority.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2001/11/07/reshaping-the-cost-categories-is-the-real-priority/index.html
+layout: layout.njk
 ---
 RESHAPING THE COST CATEGORIES IS THE REAL PRIORITY
 ==================================================

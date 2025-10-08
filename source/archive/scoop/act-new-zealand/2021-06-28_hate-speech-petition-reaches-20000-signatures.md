@@ -1,9 +1,12 @@
 ---
 slug: hate-speech-petition-reaches-20000-signatures
-title: "Hate Speech Petition Reaches 20,000 Signatures"
-date: 2021-06-28
-source-url: https://www.scoop.co.nz/stories/PA2106/S00223/hate-speech-petition-reaches-20000-signatures.htm
+title: Hate Speech Petition Reaches 20,000 Signatures
+date: 2021-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00223/hate-speech-petition-reaches-20000-signatures.htm
 author: act-new-zealand
+permalink: /archive/2021/06/28/hate-speech-petition-reaches-20000-signatures/index.html
+layout: layout.njk
 ---
 Hate Speech Petition Reaches 20,000 Signatures
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: dcd-may-have-unintended-effects-on-aquatic-environment
-title: "DCD may have unintended effects on aquatic environment"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/SC1301/S00068/dcd-may-have-unintended-effects-on-aquatic-environment.htm
+title: DCD may have unintended effects on aquatic environment
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00068/dcd-may-have-unintended-effects-on-aquatic-environment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/31/dcd-may-have-unintended-effects-on-aquatic-environment/index.html
+layout: layout.njk
 ---
 DCD may have unintended effects on aquatic environment
 ======================================================

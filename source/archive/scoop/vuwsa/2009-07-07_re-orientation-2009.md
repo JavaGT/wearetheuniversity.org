@@ -1,9 +1,11 @@
 ---
 slug: re-orientation-2009
-title: "Re-Orientation 2009"
-date: 2009-07-07
+title: Re-Orientation 2009
+date: 2009-07-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00030/re-orientation-2009.htm
 author: vuwsa
+permalink: /archive/2009/07/07/re-orientation-2009/index.html
+layout: layout.njk
 ---
 Re-Orientation 2009
 ===================

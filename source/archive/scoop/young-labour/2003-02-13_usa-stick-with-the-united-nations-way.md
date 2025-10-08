@@ -1,9 +1,12 @@
 ---
 slug: usa-stick-with-the-united-nations-way
-title: "USA: Stick with the United Nations way"
-date: 2003-02-13
-source-url: https://www.scoop.co.nz/stories/PO0302/S00083/usa-stick-with-the-united-nations-way.htm
+title: 'USA: Stick with the United Nations way'
+date: 2003-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0302/S00083/usa-stick-with-the-united-nations-way.htm
 author: young-labour
+permalink: /archive/2003/02/13/usa-stick-with-the-united-nations-way/index.html
+layout: layout.njk
 ---
 USA: Stick with the United Nations way
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: clark-national-has-nothing-to-be-proud-of
-title: "Clark: National has nothing to be proud of"
-date: 1999-10-05
-source-url: https://www.scoop.co.nz/stories/PA9910/S00064/clark-national-has-nothing-to-be-proud-of.htm
+title: 'Clark: National has nothing to be proud of'
+date: 1999-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00064/clark-national-has-nothing-to-be-proud-of.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/05/clark-national-has-nothing-to-be-proud-of/index.html
+layout: layout.njk
 ---
 Clark: National has nothing to be proud of
 ==========================================

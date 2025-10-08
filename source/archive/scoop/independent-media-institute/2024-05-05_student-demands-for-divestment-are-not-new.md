@@ -1,9 +1,12 @@
 ---
 slug: student-demands-for-divestment-are-not-new
-title: "Student Demands For Divestment Are Not New"
-date: 2024-05-05
-source-url: https://www.scoop.co.nz/stories/WO2405/S00058/student-demands-for-divestment-are-not-new.htm
+title: Student Demands For Divestment Are Not New
+date: 2024-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2405/S00058/student-demands-for-divestment-are-not-new.htm
 author: independent-media-institute
+permalink: /archive/2024/05/05/student-demands-for-divestment-are-not-new/index.html
+layout: layout.njk
 ---
 Student Demands For Divestment Are Not New
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: plans-to-revitalise-support-for-itp-student-associations
-title: "Plans to revitalise support for ITP student associations"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PO1210/S00135/plans-to-revitalise-support-for-itp-student-associations.htm
+title: Plans to revitalise support for ITP student associations
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00135/plans-to-revitalise-support-for-itp-student-associations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/10/plans-to-revitalise-support-for-itp-student-associations/index.html
+layout: layout.njk
 ---
 Plans to revitalise support for ITP student associations
 ========================================================

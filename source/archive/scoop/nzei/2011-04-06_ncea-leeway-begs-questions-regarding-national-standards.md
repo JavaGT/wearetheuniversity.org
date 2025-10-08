@@ -1,9 +1,13 @@
 ---
 slug: ncea-leeway-begs-questions-regarding-national-standards
-title: "NCEA Leeway Begs Questions Regarding National Standards"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/ED1104/S00021/ncea-leeway-begs-questions-regarding-national-standards.htm
+title: NCEA Leeway Begs Questions Regarding National Standards
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00021/ncea-leeway-begs-questions-regarding-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/04/06/ncea-leeway-begs-questions-regarding-national-standards/index.html
+layout: layout.njk
 ---
 NCEA Leeway Begs Questions Regarding National Standards
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwi-culture-&-values-under-threat-peters-speech
-title: "Kiwi Culture & Values Under Threat - Peters Speech"
-date: 2002-06-21
-source-url: https://www.scoop.co.nz/stories/PA0206/S00382/kiwi-culture-values-under-threat-peters-speech.htm
+title: Kiwi Culture & Values Under Threat - Peters Speech
+date: 2002-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00382/kiwi-culture-values-under-threat-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/21/kiwi-culture-/index.html
+layout: layout.njk
 ---
 Kiwi Culture & Values Under Threat - Peters Speech
 ==================================================

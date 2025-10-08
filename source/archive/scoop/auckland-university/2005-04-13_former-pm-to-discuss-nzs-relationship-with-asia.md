@@ -1,9 +1,12 @@
 ---
 slug: former-pm-to-discuss-nzs-relationship-with-asia
-title: "Former PM to discuss NZ’s relationship with Asia"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/ED0504/S00036/former-pm-to-discuss-nzs-relationship-with-asia.htm
+title: Former PM to discuss NZ’s relationship with Asia
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00036/former-pm-to-discuss-nzs-relationship-with-asia.htm
 author: auckland-university
+permalink: /archive/2005/04/13/former-pm-to-discuss-nzs-relationship-with-asia/index.html
+layout: layout.njk
 ---
 Former PM to discuss NZ’s relationship with Asia
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: ncea-cover-up-continues
-title: "NCEA cover-up continues"
-date: 2005-03-18
+title: NCEA cover-up continues
+date: 2005-03-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00397/ncea-cover-up-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/18/ncea-cover-up-continues/index.html
+layout: layout.njk
 ---
 NCEA cover-up continues
 =======================

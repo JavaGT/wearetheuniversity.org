@@ -1,9 +1,12 @@
 ---
 slug: citizen-science-helping-endangered-species
-title: "Citizen Science Helping Endangered Species"
-date: 2022-06-02
-source-url: https://www.scoop.co.nz/stories/SC2206/S00002/citizen-science-helping-endangered-species.htm
+title: Citizen Science Helping Endangered Species
+date: 2022-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00002/citizen-science-helping-endangered-species.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/02/citizen-science-helping-endangered-species/index.html
+layout: layout.njk
 ---
 Citizen Science Helping Endangered Species
 ==========================================

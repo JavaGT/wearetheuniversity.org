@@ -1,9 +1,12 @@
 ---
 slug: inaugural-recipients-of-the-te-ataata-residency
-title: "Inaugural recipients of the Te Ataata Residency"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/ED1507/S00100/inaugural-recipients-of-the-te-ataata-residency.htm
+title: Inaugural recipients of the Te Ataata Residency
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00100/inaugural-recipients-of-the-te-ataata-residency.htm
 author: aut-university
+permalink: /archive/2015/07/22/inaugural-recipients-of-the-te-ataata-residency/index.html
+layout: layout.njk
 ---
 Inaugural recipients of the Te Ataata Residency
 ===============================================

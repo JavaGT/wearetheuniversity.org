@@ -1,9 +1,12 @@
 ---
 slug: council-must-front-up-with-explanation
-title: "Council must front up with explanation"
-date: 2008-02-07
-source-url: https://www.scoop.co.nz/stories/PA0802/S00074/council-must-front-up-with-explanation.htm
+title: Council must front up with explanation
+date: 2008-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00074/council-must-front-up-with-explanation.htm
 author: green-party
+permalink: /archive/2008/02/07/council-must-front-up-with-explanation/index.html
+layout: layout.njk
 ---
 Council must front up with explanation
 ======================================

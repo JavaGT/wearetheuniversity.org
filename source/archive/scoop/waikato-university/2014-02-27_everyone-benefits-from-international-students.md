@@ -1,9 +1,12 @@
 ---
 slug: everyone-benefits-from-international-students
-title: "Everyone benefits from international students"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/ED1402/S00118/everyone-benefits-from-international-students.htm
+title: Everyone benefits from international students
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00118/everyone-benefits-from-international-students.htm
 author: waikato-university
+permalink: /archive/2014/02/27/everyone-benefits-from-international-students/index.html
+layout: layout.njk
 ---
 Everyone benefits from international students
 =============================================

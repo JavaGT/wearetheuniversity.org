@@ -1,9 +1,12 @@
 ---
 slug: new-study-lends-weight-to-deans-call-for-action
-title: "New Study Lends Weight to Dean's Call for Action"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/PA0604/S00234/new-study-lends-weight-to-deans-call-for-action.htm
+title: New Study Lends Weight to Dean's Call for Action
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00234/new-study-lends-weight-to-deans-call-for-action.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/12/new-study-lends-weight-to-deans-call-for-action/index.html
+layout: layout.njk
 ---
 New Study Lends Weight to Dean's Call for Action
 ================================================

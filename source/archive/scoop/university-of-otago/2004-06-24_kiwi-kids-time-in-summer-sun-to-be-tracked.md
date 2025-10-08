@@ -1,9 +1,12 @@
 ---
 slug: kiwi-kids-time-in-summer-sun-to-be-tracked
-title: "Kiwi Kids’ Time In Summer Sun To Be Tracked"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/ED0406/S00088/kiwi-kids-time-in-summer-sun-to-be-tracked.htm
+title: Kiwi Kids’ Time In Summer Sun To Be Tracked
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00088/kiwi-kids-time-in-summer-sun-to-be-tracked.htm
 author: university-of-otago
+permalink: /archive/2004/06/24/kiwi-kids-time-in-summer-sun-to-be-tracked/index.html
+layout: layout.njk
 ---
 Kiwi Kids’ Time In Summer Sun To Be Tracked
 ===========================================

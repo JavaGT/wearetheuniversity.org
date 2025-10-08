@@ -1,9 +1,12 @@
 ---
 slug: education-workers-will-welcome-commitment
-title: "Education workers will welcome commitment"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/ED1109/S00077/education-workers-will-welcome-commitment.htm
+title: Education workers will welcome commitment
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00077/education-workers-will-welcome-commitment.htm
 author: nzei
+permalink: /archive/2011/09/19/education-workers-will-welcome-commitment/index.html
+layout: layout.njk
 ---
 Education workers will welcome commitment
 =========================================

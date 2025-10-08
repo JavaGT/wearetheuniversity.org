@@ -1,9 +1,12 @@
 ---
 slug: newman-on-line-grassroots-democracy
-title: "Newman On-Line: Grassroots Democracy"
-date: 2004-09-25
-source-url: https://www.scoop.co.nz/stories/PA0409/S00528/newman-on-line-grassroots-democracy.htm
+title: 'Newman On-Line: Grassroots Democracy'
+date: 2004-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00528/newman-on-line-grassroots-democracy.htm
 author: act-new-zealand
+permalink: /archive/2004/09/25/newman-on-line-grassroots-democracy/index.html
+layout: layout.njk
 ---
 Newman On-Line: Grassroots Democracy
 ====================================

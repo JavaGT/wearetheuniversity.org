@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-when-spin-runs-thin
-title: "Winston Peters: When Spin Runs Thin"
-date: 2014-08-16
-source-url: https://www.scoop.co.nz/stories/PA1408/S00259/winston-peters-when-spin-runs-thin.htm
+title: 'Winston Peters: When Spin Runs Thin'
+date: 2014-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00259/winston-peters-when-spin-runs-thin.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/16/winston-peters-when-spin-runs-thin/index.html
+layout: layout.njk
 ---
 Winston Peters: When Spin Runs Thin
 ===================================

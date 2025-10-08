@@ -1,9 +1,13 @@
 ---
 slug: damning-report-card-for-womens-advancement-in-2015
-title: "Damning report card for women’s advancement in 2015"
-date: 2015-03-08
-source-url: https://www.scoop.co.nz/stories/PA1503/S00087/damning-report-card-for-womens-advancement-in-2015.htm
+title: Damning report card for women’s advancement in 2015
+date: 2015-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00087/damning-report-card-for-womens-advancement-in-2015.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/08/damning-report-card-for-womens-advancement-in-2015/index.html
+layout: layout.njk
 ---
 Damning report card for women’s advancement in 2015
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: 35000-students-miss-out-on-numeracy
-title: "35,000 students miss out on numeracy"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/PA0607/S00207/35000-students-miss-out-on-numeracy.htm
+title: 35,000 students miss out on numeracy
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00207/35000-students-miss-out-on-numeracy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/14/35000-students-miss-out-on-numeracy/index.html
+layout: layout.njk
 ---
 35,000 students miss out on numeracy
 ====================================

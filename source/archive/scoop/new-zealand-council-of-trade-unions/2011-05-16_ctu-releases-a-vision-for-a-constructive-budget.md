@@ -1,9 +1,12 @@
 ---
 slug: ctu-releases-a-vision-for-a-constructive-budget
-title: "CTU releases a vision for a constructive Budget"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/PO1105/S00214/ctu-releases-a-vision-for-a-constructive-budget.htm
+title: CTU releases a vision for a constructive Budget
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00214/ctu-releases-a-vision-for-a-constructive-budget.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/16/ctu-releases-a-vision-for-a-constructive-budget/index.html
+layout: layout.njk
 ---
 CTU releases a vision for a constructive Budget
 ===============================================

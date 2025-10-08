@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-speech-to-waiariki-iot
-title: "Te Ururoa Flavell - Speech To Waiariki IOT"
-date: 2006-08-27
-source-url: https://www.scoop.co.nz/stories/PA0608/S00468/te-ururoa-flavell-speech-to-waiariki-iot.htm
+title: Te Ururoa Flavell - Speech To Waiariki IOT
+date: 2006-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00468/te-ururoa-flavell-speech-to-waiariki-iot.htm
 author: te-pati-maori
+permalink: /archive/2006/08/27/te-ururoa-flavell-speech-to-waiariki-iot/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Speech To Waiariki IOT
 ==========================================

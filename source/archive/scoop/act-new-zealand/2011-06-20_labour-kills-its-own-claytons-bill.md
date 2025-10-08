@@ -1,9 +1,12 @@
 ---
 slug: labour-kills-its-own-claytons-bill
-title: "Labour Kills Its Own ‘Clayton’s’ Bill"
-date: 2011-06-20
-source-url: https://www.scoop.co.nz/stories/PA1106/S00314/labour-kills-its-own-claytons-bill.htm
+title: Labour Kills Its Own ‘Clayton’s’ Bill
+date: 2011-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00314/labour-kills-its-own-claytons-bill.htm
 author: act-new-zealand
+permalink: /archive/2011/06/20/labour-kills-its-own-claytons-bill/index.html
+layout: layout.njk
 ---
 Labour Kills Its Own ‘Clayton’s’ Bill
 =====================================

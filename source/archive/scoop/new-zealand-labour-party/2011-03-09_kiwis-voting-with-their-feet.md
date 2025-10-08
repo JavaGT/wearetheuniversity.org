@@ -1,9 +1,11 @@
 ---
 slug: kiwis-voting-with-their-feet
-title: "Kiwis voting with their feet"
-date: 2011-03-09
+title: Kiwis voting with their feet
+date: 2011-03-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1103/S00122/kiwis-voting-with-their-feet.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/09/kiwis-voting-with-their-feet/index.html
+layout: layout.njk
 ---
 Kiwis voting with their feet
 ============================

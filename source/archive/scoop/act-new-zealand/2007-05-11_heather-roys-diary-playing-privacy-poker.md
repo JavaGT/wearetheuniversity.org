@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-playing-privacy-poker
-title: "Heather Roy's Diary - Playing Privacy Poker"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/PA0705/S00300/heather-roys-diary-playing-privacy-poker.htm
+title: Heather Roy's Diary - Playing Privacy Poker
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00300/heather-roys-diary-playing-privacy-poker.htm
 author: act-new-zealand
+permalink: /archive/2007/05/11/heather-roys-diary-playing-privacy-poker/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Playing Privacy Poker
 ===========================================

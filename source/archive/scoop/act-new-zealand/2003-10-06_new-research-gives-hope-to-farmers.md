@@ -1,9 +1,12 @@
 ---
 slug: new-research-gives-hope-to-farmers
-title: "New Research Gives Hope To Farmers"
-date: 2003-10-06
-source-url: https://www.scoop.co.nz/stories/PA0310/S00075/new-research-gives-hope-to-farmers.htm
+title: New Research Gives Hope To Farmers
+date: 2003-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00075/new-research-gives-hope-to-farmers.htm
 author: act-new-zealand
+permalink: /archive/2003/10/06/new-research-gives-hope-to-farmers/index.html
+layout: layout.njk
 ---
 New Research Gives Hope To Farmers
 ==================================

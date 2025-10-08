@@ -1,9 +1,12 @@
 ---
 slug: massive-student-debt-increase-since-2004
-title: "Massive student debt increase since 2004"
-date: 2008-01-25
-source-url: https://www.scoop.co.nz/stories/ED0801/S00025/massive-student-debt-increase-since-2004.htm
+title: Massive student debt increase since 2004
+date: 2008-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00025/massive-student-debt-increase-since-2004.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/01/25/massive-student-debt-increase-since-2004/index.html
+layout: layout.njk
 ---
 Massive student debt increase since 2004
 ========================================

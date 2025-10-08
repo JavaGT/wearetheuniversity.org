@@ -1,9 +1,12 @@
 ---
 slug: freeze-on-loan-interest-rates-welcomed
-title: "Freeze on loan interest rates welcomed"
-date: 2000-02-18
-source-url: https://www.scoop.co.nz/stories/ED0002/S00026/freeze-on-loan-interest-rates-welcomed.htm
+title: Freeze on loan interest rates welcomed
+date: 2000-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00026/freeze-on-loan-interest-rates-welcomed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/02/18/freeze-on-loan-interest-rates-welcomed/index.html
+layout: layout.njk
 ---
 Freeze on loan interest rates welcomed
 ======================================

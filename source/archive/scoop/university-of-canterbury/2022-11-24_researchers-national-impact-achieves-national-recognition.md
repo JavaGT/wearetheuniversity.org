@@ -1,9 +1,13 @@
 ---
 slug: researchers-national-impact-achieves-national-recognition
-title: "Researcher’s National Impact Achieves National Recognition"
-date: 2022-11-24
-source-url: https://www.scoop.co.nz/stories/ED2211/S00045/researchers-national-impact-achieves-national-recognition.htm
+title: Researcher’s National Impact Achieves National Recognition
+date: 2022-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00045/researchers-national-impact-achieves-national-recognition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/24/researchers-national-impact-achieves-national-recognition/index.html
+layout: layout.njk
 ---
 Researcher’s National Impact Achieves National Recognition
 ==========================================================

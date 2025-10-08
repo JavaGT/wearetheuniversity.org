@@ -1,9 +1,12 @@
 ---
 slug: govt-sits-on-hands-while-immigration-soars
-title: "Govt Sits on Hands While Immigration Soars"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/PA1608/S00355/govt-sits-on-hands-while-immigration-soars.htm
+title: Govt Sits on Hands While Immigration Soars
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00355/govt-sits-on-hands-while-immigration-soars.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/19/govt-sits-on-hands-while-immigration-soars/index.html
+layout: layout.njk
 ---
 Govt Sits on Hands While Immigration Soars
 ==========================================

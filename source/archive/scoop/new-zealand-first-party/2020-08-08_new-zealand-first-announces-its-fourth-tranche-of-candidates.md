@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-announces-its-fourth-tranche-of-candidates
-title: "New Zealand First Announces Its Fourth Tranche Of Candidates"
-date: 2020-08-08
-source-url: https://www.scoop.co.nz/stories/PO2008/S00095/new-zealand-first-announces-its-fourth-tranche-of-candidates.htm
+title: New Zealand First Announces Its Fourth Tranche Of Candidates
+date: 2020-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00095/new-zealand-first-announces-its-fourth-tranche-of-candidates.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/08/08/new-zealand-first-announces-its-fourth-tranche-of-candidates/index.html
+layout: layout.njk
 ---
 New Zealand First Announces Its Fourth Tranche Of Candidates
 ============================================================

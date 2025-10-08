@@ -1,9 +1,12 @@
 ---
 slug: labour-underlines-backing-for-pasifika-culture
-title: "Labour underlines backing for Pasifika culture"
-date: 2017-08-26
-source-url: https://www.scoop.co.nz/stories/PA1708/S00489/labour-underlines-backing-for-pasifika-culture.htm
+title: Labour underlines backing for Pasifika culture
+date: 2017-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00489/labour-underlines-backing-for-pasifika-culture.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/26/labour-underlines-backing-for-pasifika-culture/index.html
+layout: layout.njk
 ---
 Labour underlines backing for Pasifika culture
 ==============================================

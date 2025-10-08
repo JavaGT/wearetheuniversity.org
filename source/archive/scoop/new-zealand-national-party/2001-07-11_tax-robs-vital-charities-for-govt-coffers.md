@@ -1,9 +1,12 @@
 ---
 slug: tax-robs-vital-charities-for-govt-coffers
-title: "Tax Robs Vital Charities For Govt Coffers"
-date: 2001-07-11
-source-url: https://www.scoop.co.nz/stories/PA0107/S00171/tax-robs-vital-charities-for-govt-coffers.htm
+title: Tax Robs Vital Charities For Govt Coffers
+date: 2001-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00171/tax-robs-vital-charities-for-govt-coffers.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/11/tax-robs-vital-charities-for-govt-coffers/index.html
+layout: layout.njk
 ---
 Tax Robs Vital Charities For Govt Coffers
 =========================================

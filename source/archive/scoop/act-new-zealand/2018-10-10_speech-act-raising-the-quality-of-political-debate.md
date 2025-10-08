@@ -1,9 +1,13 @@
 ---
 slug: speech-act-raising-the-quality-of-political-debate
-title: "Speech: ACT - Raising the Quality of Political Debate"
-date: 2018-10-10
-source-url: https://www.scoop.co.nz/stories/PA1810/S00094/speech-act-raising-the-quality-of-political-debate.htm
+title: 'Speech: ACT - Raising the Quality of Political Debate'
+date: 2018-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00094/speech-act-raising-the-quality-of-political-debate.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/10/10/speech-act-raising-the-quality-of-political-debate/index.html
+layout: layout.njk
 ---
 Speech: ACT - Raising the Quality of Political Debate
 =====================================================

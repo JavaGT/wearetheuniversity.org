@@ -1,9 +1,13 @@
 ---
 slug: bureaucrats-preventing-schools-from-protecting-kids
-title: "Bureaucrats preventing schools from protecting kids"
-date: 2019-09-02
-source-url: https://www.scoop.co.nz/stories/PA1909/S00013/bureaucrats-preventing-schools-from-protecting-kids.htm
+title: Bureaucrats preventing schools from protecting kids
+date: 2019-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00013/bureaucrats-preventing-schools-from-protecting-kids.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/09/02/bureaucrats-preventing-schools-from-protecting-kids/index.html
+layout: layout.njk
 ---
 Bureaucrats preventing schools from protecting kids
 ===================================================

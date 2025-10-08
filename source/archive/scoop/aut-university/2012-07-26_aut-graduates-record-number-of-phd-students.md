@@ -1,9 +1,12 @@
 ---
 slug: aut-graduates-record-number-of-phd-students
-title: "AUT graduates record number of PhD students"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/ED1207/S00097/aut-graduates-record-number-of-phd-students.htm
+title: AUT graduates record number of PhD students
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00097/aut-graduates-record-number-of-phd-students.htm
 author: aut-university
+permalink: /archive/2012/07/26/aut-graduates-record-number-of-phd-students/index.html
+layout: layout.njk
 ---
 AUT graduates record number of PhD students
 ===========================================

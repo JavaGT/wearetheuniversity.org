@@ -1,9 +1,12 @@
 ---
 slug: kiwi-dossing-film-wins-uk-award
-title: "Kiwi 'Dossing' Film Wins Uk Award"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/ED0310/S00040/kiwi-dossing-film-wins-uk-award.htm
+title: Kiwi 'Dossing' Film Wins Uk Award
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00040/kiwi-dossing-film-wins-uk-award.htm
 author: waikato-university
+permalink: /archive/2003/10/09/kiwi-dossing-film-wins-uk-award/index.html
+layout: layout.njk
 ---
 Kiwi 'Dossing' Film Wins Uk Award
 =================================

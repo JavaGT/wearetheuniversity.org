@@ -1,9 +1,13 @@
 ---
 slug: significant-gaps-in-legal-services-identified-in-otago-study
-title: "Significant gaps in legal services identified in Otago study"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/PO1805/S00365/significant-gaps-in-legal-services-identified-in-otago-study.htm
+title: Significant gaps in legal services identified in Otago study
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00365/significant-gaps-in-legal-services-identified-in-otago-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/24/significant-gaps-in-legal-services-identified-in-otago-study/index.html
+layout: layout.njk
 ---
 Significant gaps in legal services identified in Otago study
 ============================================================

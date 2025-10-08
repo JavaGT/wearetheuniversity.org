@@ -1,9 +1,13 @@
 ---
 slug: failure-to-train-young-people-contributes-to-housing-stall
-title: "Failure to train young people contributes to housing stall"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/PA1707/S00014/failure-to-train-young-people-contributes-to-housing-stall.htm
+title: Failure to train young people contributes to housing stall
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00014/failure-to-train-young-people-contributes-to-housing-stall.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/07/03/failure-to-train-young-people-contributes-to-housing-stall/index.html
+layout: layout.njk
 ---
 Failure to train young people contributes to housing stall
 ==========================================================

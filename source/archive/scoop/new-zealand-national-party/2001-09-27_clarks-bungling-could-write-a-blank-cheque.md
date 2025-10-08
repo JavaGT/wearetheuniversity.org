@@ -1,9 +1,12 @@
 ---
 slug: clarks-bungling-could-write-a-blank-cheque
-title: "Clark's bungling could write a blank cheque"
-date: 2001-09-27
-source-url: https://www.scoop.co.nz/stories/PA0109/S00455/clarks-bungling-could-write-a-blank-cheque.htm
+title: Clark's bungling could write a blank cheque
+date: 2001-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00455/clarks-bungling-could-write-a-blank-cheque.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/27/clarks-bungling-could-write-a-blank-cheque/index.html
+layout: layout.njk
 ---
 Clark's bungling could write a blank cheque
 ===========================================

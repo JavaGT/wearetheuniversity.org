@@ -1,9 +1,13 @@
 ---
 slug: deadline-for-school-is-cool-competition-extended
-title: "Deadline for \"School is Cool\" competition extended"
-date: 2011-06-27
-source-url: https://www.scoop.co.nz/stories/ED1106/S00105/deadline-for-school-is-cool-competition-extended.htm
+title: Deadline for "School is Cool" competition extended
+date: 2011-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00105/deadline-for-school-is-cool-competition-extended.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/27/deadline-for-school-is-cool-competition-extended/index.html
+layout: layout.njk
 ---
 Deadline for “School is Cool” competition extended
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-yet-to-deliver-to-university-staff
-title: "Government yet to deliver to university staff"
-date: 2003-03-05
-source-url: https://www.scoop.co.nz/stories/ED0303/S00010/government-yet-to-deliver-to-university-staff.htm
+title: Government yet to deliver to university staff
+date: 2003-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00010/government-yet-to-deliver-to-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2003/03/05/government-yet-to-deliver-to-university-staff/index.html
+layout: layout.njk
 ---
 Government yet to deliver to university staff
 =============================================

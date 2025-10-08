@@ -1,9 +1,12 @@
 ---
 slug: maharey-unable-to-explain-youth-justice-delays
-title: "Maharey Unable To Explain Youth Justice Delays"
-date: 2001-05-03
-source-url: https://www.scoop.co.nz/stories/PA0105/S00056/maharey-unable-to-explain-youth-justice-delays.htm
+title: Maharey Unable To Explain Youth Justice Delays
+date: 2001-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00056/maharey-unable-to-explain-youth-justice-delays.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/03/maharey-unable-to-explain-youth-justice-delays/index.html
+layout: layout.njk
 ---
 Maharey Unable To Explain Youth Justice Delays
 ==============================================

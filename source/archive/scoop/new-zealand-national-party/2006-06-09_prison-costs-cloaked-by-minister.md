@@ -1,9 +1,12 @@
 ---
 slug: prison-costs-cloaked-by-minister
-title: "Prison costs cloaked by Minister"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/PA0606/S00145/prison-costs-cloaked-by-minister.htm
+title: Prison costs cloaked by Minister
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00145/prison-costs-cloaked-by-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/09/prison-costs-cloaked-by-minister/index.html
+layout: layout.njk
 ---
 Prison costs cloaked by Minister
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-claim-to-marine-areas-a-mabo-problem-for-gov
-title: "Maori Claim to Marine Areas a Mabo Problem for Gov"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00368/maori-claim-to-marine-areas-a-mabo-problem-for-gov.htm
+title: Maori Claim to Marine Areas a Mabo Problem for Gov
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00368/maori-claim-to-marine-areas-a-mabo-problem-for-gov.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/06/20/maori-claim-to-marine-areas-a-mabo-problem-for-gov/index.html
+layout: layout.njk
 ---
 Maori Claim to Marine Areas a Mabo Problem for Gov
 ==================================================

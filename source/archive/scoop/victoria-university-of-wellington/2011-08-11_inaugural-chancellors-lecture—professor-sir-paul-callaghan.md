@@ -1,9 +1,12 @@
 ---
 slug: inaugural-chancellors-lecture—professor-sir-paul-callaghan
-title: "Inaugural Chancellor’s Lecture—Professor Sir Paul Callaghan"
-date: 2011-08-11
-source-url: https://www.scoop.co.nz/stories/ED1108/S00069/inaugural-chancellors-lecture-professor-sir-paul-callaghan.htm
+title: Inaugural Chancellor’s Lecture—Professor Sir Paul Callaghan
+date: 2011-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00069/inaugural-chancellors-lecture-professor-sir-paul-callaghan.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/08/11/inaugural-chancellors-lecture/index.html
+layout: layout.njk
 ---
 Inaugural Chancellor’s Lecture—Professor Sir Paul Callaghan
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: taxes-up-last-year-no-money-this-year
-title: "Taxes Up Last Year – No Money This Year"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/PA0105/S00586/taxes-up-last-year-no-money-this-year.htm
+title: Taxes Up Last Year – No Money This Year
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00586/taxes-up-last-year-no-money-this-year.htm
 author: act-new-zealand
+permalink: /archive/2001/05/28/taxes-up-last-year-no-money-this-year/index.html
+layout: layout.njk
 ---
 Taxes Up Last Year – No Money This Year
 =======================================

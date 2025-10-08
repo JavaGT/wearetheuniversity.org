@@ -1,9 +1,13 @@
 ---
 slug: show-us-the-data-health-waitlist-data-delayed-again
-title: "Show Us The Data - Health Waitlist Data Delayed Again"
-date: 2023-08-05
-source-url: https://www.scoop.co.nz/stories/PA2308/S00040/show-us-the-data-health-waitlist-data-delayed-again.htm
+title: Show Us The Data - Health Waitlist Data Delayed Again
+date: 2023-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00040/show-us-the-data-health-waitlist-data-delayed-again.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/08/05/show-us-the-data-health-waitlist-data-delayed-again/index.html
+layout: layout.njk
 ---
 Show Us The Data - Health Waitlist Data Delayed Again
 =====================================================

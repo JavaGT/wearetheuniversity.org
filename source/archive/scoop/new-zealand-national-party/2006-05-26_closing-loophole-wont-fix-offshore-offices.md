@@ -1,9 +1,12 @@
 ---
 slug: closing-loophole-wont-fix-offshore-offices
-title: "Closing loophole won’t fix offshore offices"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/PA0605/S00642/closing-loophole-wont-fix-offshore-offices.htm
+title: Closing loophole won’t fix offshore offices
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00642/closing-loophole-wont-fix-offshore-offices.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/26/closing-loophole-wont-fix-offshore-offices/index.html
+layout: layout.njk
 ---
 Closing loophole won’t fix offshore offices
 ===========================================

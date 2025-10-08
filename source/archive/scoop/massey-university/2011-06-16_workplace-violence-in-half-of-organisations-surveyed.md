@@ -1,9 +1,13 @@
 ---
 slug: workplace-violence-in-half-of-organisations-surveyed
-title: "‘Workplace violence in half of organisations surveyed’"
-date: 2011-06-16
-source-url: https://www.scoop.co.nz/stories/BU1106/S00511/workplace-violence-in-half-of-organisations-surveyed.htm
+title: ‘Workplace violence in half of organisations surveyed’
+date: 2011-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1106/S00511/workplace-violence-in-half-of-organisations-surveyed.htm
 author: massey-university
+permalink: >-
+  /archive/2011/06/16/workplace-violence-in-half-of-organisations-surveyed/index.html
+layout: layout.njk
 ---
 ‘Workplace violence in half of organisations surveyed’
 ======================================================

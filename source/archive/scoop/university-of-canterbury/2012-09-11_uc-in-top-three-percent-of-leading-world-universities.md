@@ -1,9 +1,13 @@
 ---
 slug: uc-in-top-three-percent-of-leading-world-universities
-title: "UC in top three percent of leading world universities"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/ED1209/S00072/uc-in-top-three-percent-of-leading-world-universities.htm
+title: UC in top three percent of leading world universities
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00072/uc-in-top-three-percent-of-leading-world-universities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/11/uc-in-top-three-percent-of-leading-world-universities/index.html
+layout: layout.njk
 ---
 UC in top three percent of leading world universities
 =====================================================

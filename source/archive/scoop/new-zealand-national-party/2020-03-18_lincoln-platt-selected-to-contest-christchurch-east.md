@@ -1,9 +1,13 @@
 ---
 slug: lincoln-platt-selected-to-contest-christchurch-east
-title: "Lincoln Platt Selected To Contest Christchurch East"
-date: 2020-03-18
-source-url: https://www.scoop.co.nz/stories/PA2003/S00131/lincoln-platt-selected-to-contest-christchurch-east.htm
+title: Lincoln Platt Selected To Contest Christchurch East
+date: 2020-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00131/lincoln-platt-selected-to-contest-christchurch-east.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/03/18/lincoln-platt-selected-to-contest-christchurch-east/index.html
+layout: layout.njk
 ---
 Lincoln Platt Selected To Contest Christchurch East
 ===================================================

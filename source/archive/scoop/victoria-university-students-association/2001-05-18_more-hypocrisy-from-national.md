@@ -1,9 +1,11 @@
 ---
 slug: more-hypocrisy-from-national
-title: "More Hypocrisy From National"
-date: 2001-05-18
+title: More Hypocrisy From National
+date: 2001-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0105/S00034/more-hypocrisy-from-national.htm
 author: victoria-university-students-association
+permalink: /archive/2001/05/18/more-hypocrisy-from-national/index.html
+layout: layout.njk
 ---
 More Hypocrisy From National
 ============================

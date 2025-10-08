@@ -1,9 +1,13 @@
 ---
 slug: new-government-must-grant-students-their-freedom
-title: "New Government Must Grant Students Their Freedom"
-date: 2008-11-11
-source-url: https://www.scoop.co.nz/stories/PO0811/S00156/new-government-must-grant-students-their-freedom.htm
+title: New Government Must Grant Students Their Freedom
+date: 2008-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00156/new-government-must-grant-students-their-freedom.htm
 author: student-choice
+permalink: >-
+  /archive/2008/11/11/new-government-must-grant-students-their-freedom/index.html
+layout: layout.njk
 ---
 New Government Must Grant Students Their Freedom
 ================================================

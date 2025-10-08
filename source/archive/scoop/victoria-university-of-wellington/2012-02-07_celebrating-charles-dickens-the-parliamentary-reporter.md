@@ -1,9 +1,13 @@
 ---
 slug: celebrating-charles-dickens-the-parliamentary-reporter
-title: "Celebrating Charles Dickens the parliamentary reporter"
-date: 2012-02-07
-source-url: https://www.scoop.co.nz/stories/PO1202/S00060/celebrating-charles-dickens-the-parliamentary-reporter.htm
+title: Celebrating Charles Dickens the parliamentary reporter
+date: 2012-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00060/celebrating-charles-dickens-the-parliamentary-reporter.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/02/07/celebrating-charles-dickens-the-parliamentary-reporter/index.html
+layout: layout.njk
 ---
 Celebrating Charles Dickens the parliamentary reporter
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-man-helps-footballers-prepare-for-olympics
-title: "Massey man helps footballers prepare for Olympics"
-date: 2008-07-16
-source-url: https://www.scoop.co.nz/stories/CU0807/S00148/massey-man-helps-footballers-prepare-for-olympics.htm
+title: Massey man helps footballers prepare for Olympics
+date: 2008-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00148/massey-man-helps-footballers-prepare-for-olympics.htm
 author: massey-university
+permalink: >-
+  /archive/2008/07/16/massey-man-helps-footballers-prepare-for-olympics/index.html
+layout: layout.njk
 ---
 Massey man helps footballers prepare for Olympics
 =================================================

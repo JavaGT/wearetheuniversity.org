@@ -1,9 +1,12 @@
 ---
 slug: prebble-on-govts-first-10-months-in-office
-title: "Prebble On Govt's First 10 Months In Office"
-date: 2000-09-05
-source-url: https://www.scoop.co.nz/stories/PA0009/S00042/prebble-on-govts-first-10-months-in-office.htm
+title: Prebble On Govt's First 10 Months In Office
+date: 2000-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00042/prebble-on-govts-first-10-months-in-office.htm
 author: act-new-zealand
+permalink: /archive/2000/09/05/prebble-on-govts-first-10-months-in-office/index.html
+layout: layout.njk
 ---
 Prebble On Govt's First 10 Months In Office
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: labours-child-poverty-bill-will-address-concerns
-title: "Labour’s child poverty bill will address concerns"
-date: 2014-05-02
-source-url: https://www.scoop.co.nz/stories/PA1405/S00031/labours-child-poverty-bill-will-address-concerns.htm
+title: Labour’s child poverty bill will address concerns
+date: 2014-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00031/labours-child-poverty-bill-will-address-concerns.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/02/labours-child-poverty-bill-will-address-concerns/index.html
+layout: layout.njk
 ---
 Labour’s child poverty bill will address concerns
 =================================================

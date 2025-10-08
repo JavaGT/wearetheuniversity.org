@@ -1,9 +1,12 @@
 ---
 slug: more-tolerance-needed-on-electorate-boundaries
-title: "More tolerance needed on electorate boundaries"
-date: 2001-09-18
-source-url: https://www.scoop.co.nz/stories/PA0109/S00284/more-tolerance-needed-on-electorate-boundaries.htm
+title: More tolerance needed on electorate boundaries
+date: 2001-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00284/more-tolerance-needed-on-electorate-boundaries.htm
 author: green-party
+permalink: /archive/2001/09/18/more-tolerance-needed-on-electorate-boundaries/index.html
+layout: layout.njk
 ---
 More tolerance needed on electorate boundaries
 ==============================================

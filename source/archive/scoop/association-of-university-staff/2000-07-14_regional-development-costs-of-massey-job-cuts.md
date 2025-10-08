@@ -1,9 +1,12 @@
 ---
 slug: regional-development-costs-of-massey-job-cuts
-title: "Regional development costs of Massey job cuts"
-date: 2000-07-14
-source-url: https://www.scoop.co.nz/stories/ED0007/S00016/regional-development-costs-of-massey-job-cuts.htm
+title: Regional development costs of Massey job cuts
+date: 2000-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00016/regional-development-costs-of-massey-job-cuts.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/14/regional-development-costs-of-massey-job-cuts/index.html
+layout: layout.njk
 ---
 Regional development costs of Massey job cuts
 =============================================

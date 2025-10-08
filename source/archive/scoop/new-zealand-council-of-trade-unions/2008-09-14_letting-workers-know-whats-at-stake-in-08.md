@@ -1,9 +1,12 @@
 ---
 slug: letting-workers-know-whats-at-stake-in-08
-title: "Letting workers know ‘what’s at stake in 08’"
-date: 2008-09-14
-source-url: https://www.scoop.co.nz/stories/PO0809/S00195/letting-workers-know-whats-at-stake-in-08.htm
+title: Letting workers know ‘what’s at stake in 08’
+date: 2008-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00195/letting-workers-know-whats-at-stake-in-08.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/09/14/letting-workers-know-whats-at-stake-in-08/index.html
+layout: layout.njk
 ---
 Letting workers know ‘what’s at stake in 08’
 ============================================

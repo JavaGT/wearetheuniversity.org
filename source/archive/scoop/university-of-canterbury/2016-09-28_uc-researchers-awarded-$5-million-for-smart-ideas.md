@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-awarded-$5-million-for-smart-ideas
-title: "UC researchers awarded $5 million for smart ideas"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/ED1609/S00144/uc-researchers-awarded-5-million-for-smart-ideas.htm
+title: UC researchers awarded $5 million for smart ideas
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00144/uc-researchers-awarded-5-million-for-smart-ideas.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/28/uc-researchers-awarded-/index.html
+layout: layout.njk
 ---
 UC researchers awarded $5 million for smart ideas
 =================================================

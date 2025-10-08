@@ -1,9 +1,13 @@
 ---
 slug: uni-of-canterbury-experiencing-surge-in-student-applications
-title: "Uni of Canterbury experiencing surge in student applications"
-date: 2014-01-09
-source-url: https://www.scoop.co.nz/stories/ED1401/S00007/uni-of-canterbury-experiencing-surge-in-student-applications.htm
+title: Uni of Canterbury experiencing surge in student applications
+date: 2014-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00007/uni-of-canterbury-experiencing-surge-in-student-applications.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/09/uni-of-canterbury-experiencing-surge-in-student-applications/index.html
+layout: layout.njk
 ---
 Uni of Canterbury experiencing surge in student applications
 ============================================================

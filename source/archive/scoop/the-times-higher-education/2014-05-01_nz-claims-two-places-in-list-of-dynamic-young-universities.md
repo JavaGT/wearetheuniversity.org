@@ -1,9 +1,13 @@
 ---
 slug: nz-claims-two-places-in-list-of-dynamic-young-universities
-title: "NZ claims two places in list of dynamic young universities"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/ED1405/S00005/nz-claims-two-places-in-list-of-dynamic-young-universities.htm
+title: NZ claims two places in list of dynamic young universities
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00005/nz-claims-two-places-in-list-of-dynamic-young-universities.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2014/05/01/nz-claims-two-places-in-list-of-dynamic-young-universities/index.html
+layout: layout.njk
 ---
 NZ claims two places in list of dynamic young universities
 ==========================================================

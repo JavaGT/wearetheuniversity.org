@@ -1,9 +1,13 @@
 ---
 slug: maori-party-celebrates-release-of-kidnapped-schoolgirls
-title: "Maori Party celebrates release of kidnapped schoolgirls"
-date: 2014-10-19
-source-url: https://www.scoop.co.nz/stories/PA1410/S00102/maori-party-celebrates-release-of-kidnapped-schoolgirls.htm
+title: Maori Party celebrates release of kidnapped schoolgirls
+date: 2014-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00102/maori-party-celebrates-release-of-kidnapped-schoolgirls.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/10/19/maori-party-celebrates-release-of-kidnapped-schoolgirls/index.html
+layout: layout.njk
 ---
 Maori Party celebrates release of kidnapped schoolgirls
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: vampire-spiders-among-animal-behaviour-topics
-title: "Vampire spiders among animal behaviour topics"
-date: 2009-04-14
-source-url: https://www.scoop.co.nz/stories/SC0904/S00017/vampire-spiders-among-animal-behaviour-topics.htm
+title: Vampire spiders among animal behaviour topics
+date: 2009-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00017/vampire-spiders-among-animal-behaviour-topics.htm
 author: massey-university
+permalink: /archive/2009/04/14/vampire-spiders-among-animal-behaviour-topics/index.html
+layout: layout.njk
 ---
 Vampire spiders among animal behaviour topics
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: welfare-symposium-provides-food-for-thought
-title: "Welfare Symposium Provides Food For Thought"
-date: 2004-08-18
-source-url: https://www.scoop.co.nz/stories/PA0408/S00316/welfare-symposium-provides-food-for-thought.htm
+title: Welfare Symposium Provides Food For Thought
+date: 2004-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00316/welfare-symposium-provides-food-for-thought.htm
 author: act-new-zealand
+permalink: /archive/2004/08/18/welfare-symposium-provides-food-for-thought/index.html
+layout: layout.njk
 ---
 Welfare Symposium Provides Food For Thought
 ===========================================

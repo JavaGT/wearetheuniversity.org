@@ -1,9 +1,12 @@
 ---
 slug: budget-supports-maori-tertiary-students
-title: "Budget supports Maori tertiary students"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/ED0405/S00107/budget-supports-maori-tertiary-students.htm
+title: Budget supports Maori tertiary students
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00107/budget-supports-maori-tertiary-students.htm
 author: te-mana-akonga
+permalink: /archive/2004/05/27/budget-supports-maori-tertiary-students/index.html
+layout: layout.njk
 ---
 Budget supports Maori tertiary students
 =======================================

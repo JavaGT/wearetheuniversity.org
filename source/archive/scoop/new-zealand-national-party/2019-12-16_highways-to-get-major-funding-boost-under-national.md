@@ -1,9 +1,13 @@
 ---
 slug: highways-to-get-major-funding-boost-under-national
-title: "Highways to get major funding boost under National"
-date: 2019-12-16
-source-url: https://www.scoop.co.nz/stories/PA1912/S00149/highways-to-get-major-funding-boost-under-national.htm
+title: Highways to get major funding boost under National
+date: 2019-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00149/highways-to-get-major-funding-boost-under-national.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/16/highways-to-get-major-funding-boost-under-national/index.html
+layout: layout.njk
 ---
 Highways to get major funding boost under National
 ==================================================

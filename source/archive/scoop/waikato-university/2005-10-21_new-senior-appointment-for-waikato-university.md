@@ -1,9 +1,12 @@
 ---
 slug: new-senior-appointment-for-waikato-university
-title: "New senior appointment for Waikato University"
-date: 2005-10-21
-source-url: https://www.scoop.co.nz/stories/ED0510/S00068/new-senior-appointment-for-waikato-university.htm
+title: New senior appointment for Waikato University
+date: 2005-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00068/new-senior-appointment-for-waikato-university.htm
 author: waikato-university
+permalink: /archive/2005/10/21/new-senior-appointment-for-waikato-university/index.html
+layout: layout.njk
 ---
 New senior appointment for Waikato University
 =============================================

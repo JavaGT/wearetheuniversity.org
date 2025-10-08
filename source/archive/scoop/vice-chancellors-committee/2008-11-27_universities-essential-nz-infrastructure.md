@@ -1,9 +1,12 @@
 ---
 slug: universities-essential-nz-infrastructure
-title: "Universities - essential NZ infrastructure"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/ED0811/S00086/universities-essential-nz-infrastructure.htm
+title: Universities - essential NZ infrastructure
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00086/universities-essential-nz-infrastructure.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/11/27/universities-essential-nz-infrastructure/index.html
+layout: layout.njk
 ---
 Universities - essential NZ infrastructure
 ==========================================

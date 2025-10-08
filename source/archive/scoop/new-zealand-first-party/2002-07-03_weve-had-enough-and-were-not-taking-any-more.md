@@ -1,9 +1,12 @@
 ---
 slug: weve-had-enough-and-were-not-taking-any-more
-title: "We’ve Had Enough And We’re Not Taking Any More"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00092/weve-had-enough-and-were-not-taking-any-more.htm
+title: We’ve Had Enough And We’re Not Taking Any More
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00092/weve-had-enough-and-were-not-taking-any-more.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/03/weve-had-enough-and-were-not-taking-any-more/index.html
+layout: layout.njk
 ---
 We’ve Had Enough And We’re Not Taking Any More
 ==============================================

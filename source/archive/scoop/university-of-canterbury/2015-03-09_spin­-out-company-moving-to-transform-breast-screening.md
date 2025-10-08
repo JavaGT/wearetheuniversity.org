@@ -1,9 +1,12 @@
 ---
 slug: spin­-out-company-moving-to-transform-breast-screening
-title: "Spin­-out company moving to transform breast screening"
-date: 2015-03-09
-source-url: https://www.scoop.co.nz/stories/SC1503/S00036/spin-out-company-moving-to-transform-breast-screening.htm
+title: Spin­-out company moving to transform breast screening
+date: 2015-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00036/spin-out-company-moving-to-transform-breast-screening.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/09/spin/index.html
+layout: layout.njk
 ---
 Spin­-out company moving to transform breast screening
 ======================================================

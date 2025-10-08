@@ -1,9 +1,12 @@
 ---
 slug: green-party-members-bills-pulled-from-ballot
-title: "Green Party Members’ Bills pulled from ballot"
-date: 2016-12-01
-source-url: https://www.scoop.co.nz/stories/PA1612/S00021/green-party-members-bills-pulled-from-ballot.htm
+title: Green Party Members’ Bills pulled from ballot
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00021/green-party-members-bills-pulled-from-ballot.htm
 author: green-party
+permalink: /archive/2016/12/01/green-party-members-bills-pulled-from-ballot/index.html
+layout: layout.njk
 ---
 Green Party Members’ Bills pulled from ballot
 =============================================

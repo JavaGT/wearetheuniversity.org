@@ -1,9 +1,13 @@
 ---
 slug: nz-australia-ready-for-next-generation-telescope
-title: "NZ, Australia ready for next generation telescope"
-date: 2005-10-21
-source-url: https://www.scoop.co.nz/stories/SC0510/S00052/nz-australia-ready-for-next-generation-telescope.htm
+title: NZ, Australia ready for next generation telescope
+date: 2005-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00052/nz-australia-ready-for-next-generation-telescope.htm
 author: aut-university
+permalink: >-
+  /archive/2005/10/21/nz-australia-ready-for-next-generation-telescope/index.html
+layout: layout.njk
 ---
 NZ, Australia ready for next generation telescope
 =================================================

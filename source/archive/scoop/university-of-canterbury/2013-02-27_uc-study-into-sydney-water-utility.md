@@ -1,9 +1,12 @@
 ---
 slug: uc-study-into-sydney-water-utility
-title: "UC study into Sydney water utility"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/WO1302/S00248/uc-study-into-sydney-water-utility.htm
+title: UC study into Sydney water utility
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1302/S00248/uc-study-into-sydney-water-utility.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/27/uc-study-into-sydney-water-utility/index.html
+layout: layout.njk
 ---
 UC study into Sydney water utility
 ==================================

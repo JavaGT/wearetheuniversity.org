@@ -1,9 +1,12 @@
 ---
 slug: gendered-expectations-&-workplace-conflict
-title: "Gendered Expectations & Workplace Conflict"
-date: 2017-06-20
-source-url: https://www.scoop.co.nz/stories/ED1706/S00060/gendered-expectations-workplace-conflict.htm
+title: Gendered Expectations & Workplace Conflict
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00060/gendered-expectations-workplace-conflict.htm
 author: massey-university
+permalink: /archive/2017/06/20/gendered-expectations-/index.html
+layout: layout.njk
 ---
 Gendered Expectations & Workplace Conflict
 ==========================================

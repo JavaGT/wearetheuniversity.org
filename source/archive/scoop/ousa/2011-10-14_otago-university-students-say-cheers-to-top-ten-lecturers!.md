@@ -1,9 +1,13 @@
 ---
 slug: otago-university-students-say-cheers-to-top-ten-lecturers!
-title: "Otago University students say CHEERS to Top Ten Lecturers!"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/ED1110/S00061/otago-university-students-say-cheers-to-top-ten-lecturers.htm
+title: Otago University students say CHEERS to Top Ten Lecturers!
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00061/otago-university-students-say-cheers-to-top-ten-lecturers.htm
 author: ousa
+permalink: >-
+  /archive/2011/10/14/otago-university-students-say-cheers-to-top-ten-lecturers/index.html
+layout: layout.njk
 ---
 Otago University students say CHEERS to Top Ten Lecturers!
 ==========================================================

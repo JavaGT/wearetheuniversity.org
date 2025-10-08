@@ -1,8 +1,11 @@
 ---
 slug: university-of-auckland-aotearoa-māori-business-leaders-awards-2017-winners
-title: "University of Auckland Aotearoa Māori Business Leaders Awards 2017 winners"
-date: 2017-05-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/maori-business-leaders-awards-2017-winners.html
+title: University of Auckland Aotearoa Māori Business Leaders Awards 2017 winners
+date: 2017-05-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/maori-business-leaders-awards-2017-winners.html
+permalink: /archive/2017/05/13/university-of-auckland-aotearoa-m/index.html
+layout: layout.njk
 ---
 University of Auckland Aotearoa Māori Business Leaders Awards 2017 winners
 ==========================================================================

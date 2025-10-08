@@ -1,9 +1,12 @@
 ---
 slug: nz-must-withdraw-approval-for-ge-food
-title: "NZ must withdraw approval for GE food"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/PA0911/S00005/nz-must-withdraw-approval-for-ge-food.htm
+title: NZ must withdraw approval for GE food
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00005/nz-must-withdraw-approval-for-ge-food.htm
 author: green-party
+permalink: /archive/2009/11/02/nz-must-withdraw-approval-for-ge-food/index.html
+layout: layout.njk
 ---
 NZ must withdraw approval for GE food
 =====================================

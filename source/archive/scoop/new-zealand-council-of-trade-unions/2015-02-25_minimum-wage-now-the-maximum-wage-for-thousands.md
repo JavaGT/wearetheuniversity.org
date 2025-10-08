@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-now-the-maximum-wage-for-thousands
-title: "Minimum wage now the maximum wage for thousands"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PO1502/S00277/minimum-wage-now-the-maximum-wage-for-thousands.htm
+title: Minimum wage now the maximum wage for thousands
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00277/minimum-wage-now-the-maximum-wage-for-thousands.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/02/25/minimum-wage-now-the-maximum-wage-for-thousands/index.html
+layout: layout.njk
 ---
 Minimum wage now the maximum wage for thousands
 ===============================================

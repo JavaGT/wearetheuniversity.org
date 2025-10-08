@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-gets-public-health-backing
-title: "Victoria University gets public health backing"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/ED0211/S00056/victoria-university-gets-public-health-backing.htm
+title: Victoria University gets public health backing
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00056/victoria-university-gets-public-health-backing.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/11/21/victoria-university-gets-public-health-backing/index.html
+layout: layout.njk
 ---
 Victoria University gets public health backing
 ==============================================

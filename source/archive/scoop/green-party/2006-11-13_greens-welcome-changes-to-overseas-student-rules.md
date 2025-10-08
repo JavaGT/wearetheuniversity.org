@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-changes-to-overseas-student-rules
-title: "Greens welcome changes to overseas student rules"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/PA0611/S00238/greens-welcome-changes-to-overseas-student-rules.htm
+title: Greens welcome changes to overseas student rules
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00238/greens-welcome-changes-to-overseas-student-rules.htm
 author: green-party
+permalink: >-
+  /archive/2006/11/13/greens-welcome-changes-to-overseas-student-rules/index.html
+layout: layout.njk
 ---
 Greens welcome changes to overseas student rules
 ================================================

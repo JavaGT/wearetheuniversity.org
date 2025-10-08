@@ -1,9 +1,11 @@
 ---
 slug: newsworthy-tax-special
-title: "Newsworthy Tax Special"
-date: 2005-08-23
+title: Newsworthy Tax Special
+date: 2005-08-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00572/newsworthy-tax-special.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/23/newsworthy-tax-special/index.html
+layout: layout.njk
 ---
 Newsworthy Tax Special
 ======================

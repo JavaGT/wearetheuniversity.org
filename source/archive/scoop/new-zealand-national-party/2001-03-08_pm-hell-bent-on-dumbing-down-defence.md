@@ -1,9 +1,12 @@
 ---
 slug: pm-hell-bent-on-dumbing-down-defence
-title: "PM Hell-Bent On Dumbing Down Defence"
-date: 2001-03-08
-source-url: https://www.scoop.co.nz/stories/PA0103/S00114/pm-hell-bent-on-dumbing-down-defence.htm
+title: PM Hell-Bent On Dumbing Down Defence
+date: 2001-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00114/pm-hell-bent-on-dumbing-down-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/08/pm-hell-bent-on-dumbing-down-defence/index.html
+layout: layout.njk
 ---
 PM Hell-Bent On Dumbing Down Defence
 ====================================

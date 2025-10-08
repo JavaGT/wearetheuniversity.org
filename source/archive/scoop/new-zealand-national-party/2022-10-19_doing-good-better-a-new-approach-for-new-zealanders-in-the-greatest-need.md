@@ -1,9 +1,13 @@
 ---
 slug: doing-good-better-a-new-approach-for-new-zealanders-in-the-greatest-need
-title: "Doing Good, Better: A New Approach For New Zealanders In The Greatest Need"
-date: 2022-10-19
-source-url: https://www.scoop.co.nz/stories/PA2210/S00129/doing-good-better-a-new-approach-for-new-zealanders-in-the-greatest-need.htm
+title: 'Doing Good, Better: A New Approach For New Zealanders In The Greatest Need'
+date: 2022-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00129/doing-good-better-a-new-approach-for-new-zealanders-in-the-greatest-need.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/19/doing-good-better-a-new-approach-for-new-zealanders-in-the-greatest-need/index.html
+layout: layout.njk
 ---
 Doing Good, Better: A New Approach For New Zealanders In The Greatest Need
 ==========================================================================

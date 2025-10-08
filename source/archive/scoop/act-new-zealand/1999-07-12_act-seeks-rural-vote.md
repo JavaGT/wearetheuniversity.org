@@ -1,9 +1,11 @@
 ---
 slug: act-seeks-rural-vote
-title: "ACT seeks rural vote"
-date: 1999-07-12
+title: ACT seeks rural vote
+date: 1999-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9907/S00176/act-seeks-rural-vote.htm
 author: act-new-zealand
+permalink: /archive/1999/07/12/act-seeks-rural-vote/index.html
+layout: layout.njk
 ---
 ACT seeks rural vote
 ====================

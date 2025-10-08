@@ -1,9 +1,12 @@
 ---
 slug: adam-prize-goes-to-exploration-of-awkwardness
-title: "Adam Prize goes to exploration of ‘awkwardness’"
-date: 2009-12-17
-source-url: https://www.scoop.co.nz/stories/CU0912/S00232/adam-prize-goes-to-exploration-of-awkwardness.htm
+title: Adam Prize goes to exploration of ‘awkwardness’
+date: 2009-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0912/S00232/adam-prize-goes-to-exploration-of-awkwardness.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/12/17/adam-prize-goes-to-exploration-of-awkwardness/index.html
+layout: layout.njk
 ---
 Adam Prize goes to exploration of ‘awkwardness’
 ===============================================

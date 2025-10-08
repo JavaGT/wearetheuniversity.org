@@ -1,9 +1,12 @@
 ---
 slug: nz-health-sector-data-rich-information-poor
-title: "NZ health sector ‘data rich, information poor’"
-date: 2017-07-10
-source-url: https://www.scoop.co.nz/stories/ED1707/S00031/nz-health-sector-data-rich-information-poor.htm
+title: NZ health sector ‘data rich, information poor’
+date: 2017-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00031/nz-health-sector-data-rich-information-poor.htm
 author: massey-university
+permalink: /archive/2017/07/10/nz-health-sector-data-rich-information-poor/index.html
+layout: layout.njk
 ---
 NZ health sector ‘data rich, information poor’
 ==============================================

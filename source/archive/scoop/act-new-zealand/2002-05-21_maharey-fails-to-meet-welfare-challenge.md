@@ -1,9 +1,12 @@
 ---
 slug: maharey-fails-to-meet-welfare-challenge
-title: "Maharey fails to Meet Welfare Challenge"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00445/maharey-fails-to-meet-welfare-challenge.htm
+title: Maharey fails to Meet Welfare Challenge
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00445/maharey-fails-to-meet-welfare-challenge.htm
 author: act-new-zealand
+permalink: /archive/2002/05/21/maharey-fails-to-meet-welfare-challenge/index.html
+layout: layout.njk
 ---
 Maharey fails to Meet Welfare Challenge
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: $13m-in-untendered-contracts-at-ministry-of-health
-title: "$13m in untendered contracts at Ministry of Health"
-date: 2006-11-15
-source-url: https://www.scoop.co.nz/stories/PA0611/S00273/13m-in-untendered-contracts-at-ministry-of-health.htm
+title: $13m in untendered contracts at Ministry of Health
+date: 2006-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00273/13m-in-untendered-contracts-at-ministry-of-health.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/11/15/13m-in-untendered-contracts-at-ministry-of-health/index.html
+layout: layout.njk
 ---
 $13m in untendered contracts at Ministry of Health
 ==================================================

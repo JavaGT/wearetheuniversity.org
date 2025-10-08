@@ -1,9 +1,13 @@
 ---
 slug: australasian-partners-join-animal-welfare-centre
-title: "Australasian partners join animal welfare centre"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00120/australasian-partners-join-animal-welfare-centre.htm
+title: Australasian partners join animal welfare centre
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00120/australasian-partners-join-animal-welfare-centre.htm
 author: massey-university
+permalink: >-
+  /archive/2009/05/29/australasian-partners-join-animal-welfare-centre/index.html
+layout: layout.njk
 ---
 Australasian partners join animal welfare centre
 ================================================

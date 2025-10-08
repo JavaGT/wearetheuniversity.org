@@ -1,9 +1,12 @@
 ---
 slug: don-brash-speech-one-law-for-all
-title: "Don Brash Speech: One Law For All?"
-date: 2011-09-09
-source-url: https://www.scoop.co.nz/stories/PA1109/S00204/don-brash-speech-one-law-for-all.htm
+title: 'Don Brash Speech: One Law For All?'
+date: 2011-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00204/don-brash-speech-one-law-for-all.htm
 author: act-new-zealand
+permalink: /archive/2011/09/09/don-brash-speech-one-law-for-all/index.html
+layout: layout.njk
 ---
 Don Brash Speech: One Law For All?
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: role-in-indonesian-agricultural-project-formalised
-title: "Role in Indonesian agricultural project formalised"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/ED1605/S00092/role-in-indonesian-agricultural-project-formalised.htm
+title: Role in Indonesian agricultural project formalised
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00092/role-in-indonesian-agricultural-project-formalised.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/05/23/role-in-indonesian-agricultural-project-formalised/index.html
+layout: layout.njk
 ---
 Role in Indonesian agricultural project formalised
 ==================================================

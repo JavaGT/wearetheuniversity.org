@@ -1,9 +1,12 @@
 ---
 slug: hospitality-going-back-to-the-future
-title: "Hospitality going back to the future"
-date: 2013-10-31
-source-url: https://www.scoop.co.nz/stories/ED1310/S00196/hospitality-going-back-to-the-future.htm
+title: Hospitality going back to the future
+date: 2013-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00196/hospitality-going-back-to-the-future.htm
 author: university-of-waikato
+permalink: /archive/2013/10/31/hospitality-going-back-to-the-future/index.html
+layout: layout.njk
 ---
 Hospitality going back to the future
 ====================================

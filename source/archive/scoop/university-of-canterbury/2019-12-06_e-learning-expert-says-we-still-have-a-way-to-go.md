@@ -1,9 +1,13 @@
 ---
 slug: e-learning-expert-says-we-still-have-a-way-to-go
-title: "e-learning expert says we still have a way to go"
-date: 2019-12-06
-source-url: https://www.scoop.co.nz/stories/ED1912/S00025/e-learning-expert-says-we-still-have-a-way-to-go.htm
+title: e-learning expert says we still have a way to go
+date: 2019-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00025/e-learning-expert-says-we-still-have-a-way-to-go.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/06/e-learning-expert-says-we-still-have-a-way-to-go/index.html
+layout: layout.njk
 ---
 e-learning expert says we still have a way to go
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: public-need-reassurance-about-navy-ship
-title: "Public need reassurance about navy ship"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/PA0802/S00039/public-need-reassurance-about-navy-ship.htm
+title: Public need reassurance about navy ship
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00039/public-need-reassurance-about-navy-ship.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/04/public-need-reassurance-about-navy-ship/index.html
+layout: layout.njk
 ---
 Public need reassurance about navy ship
 =======================================

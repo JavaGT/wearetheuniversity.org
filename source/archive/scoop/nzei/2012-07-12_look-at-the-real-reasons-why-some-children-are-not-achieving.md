@@ -1,9 +1,13 @@
 ---
 slug: look-at-the-real-reasons-why-some-children-are-not-achieving
-title: "Look at the real reasons why some children are not achieving"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/ED1207/S00048/look-at-the-real-reasons-why-some-children-are-not-achieving.htm
+title: Look at the real reasons why some children are not achieving
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00048/look-at-the-real-reasons-why-some-children-are-not-achieving.htm
 author: nzei
+permalink: >-
+  /archive/2012/07/12/look-at-the-real-reasons-why-some-children-are-not-achieving/index.html
+layout: layout.njk
 ---
 Look at the real reasons why some children are not achieving
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: immigration-pushes-up-house-prices-peters
-title: "Immigration Pushes Up House Prices - Peters"
-date: 2003-01-23
-source-url: https://www.scoop.co.nz/stories/PA0301/S00171/immigration-pushes-up-house-prices-peters.htm
+title: Immigration Pushes Up House Prices - Peters
+date: 2003-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00171/immigration-pushes-up-house-prices-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/01/23/immigration-pushes-up-house-prices-peters/index.html
+layout: layout.njk
 ---
 Immigration Pushes Up House Prices - Peters
 ===========================================

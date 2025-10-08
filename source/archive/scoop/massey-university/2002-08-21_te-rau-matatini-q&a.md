@@ -1,9 +1,11 @@
 ---
 slug: te-rau-matatini-q&a
-title: "Te Rau Matatini Q&A"
-date: 2002-08-21
+title: Te Rau Matatini Q&A
+date: 2002-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0208/S00029/te-rau-matatini-qa.htm
 author: massey-university
+permalink: /archive/2002/08/21/te-rau-matatini-q/index.html
+layout: layout.njk
 ---
 Te Rau Matatini Q&A
 ===================

@@ -1,9 +1,11 @@
 ---
 slug: computer-girls
-title: "Computer Girls"
-date: 2004-07-22
+title: Computer Girls
+date: 2004-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00066/computer-girls.htm
 author: waikato-university
+permalink: /archive/2004/07/22/computer-girls/index.html
+layout: layout.njk
 ---
 Computer Girls
 ==============

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-23rd-birthday-celebration
-title: "New Zealand First 23rd birthday celebration"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00332/new-zealand-first-23rd-birthday-celebration.htm
+title: New Zealand First 23rd birthday celebration
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00332/new-zealand-first-23rd-birthday-celebration.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/25/new-zealand-first-23rd-birthday-celebration/index.html
+layout: layout.njk
 ---
 New Zealand First 23rd birthday celebration
 ===========================================

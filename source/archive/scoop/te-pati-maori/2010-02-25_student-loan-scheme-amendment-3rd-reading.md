@@ -1,9 +1,12 @@
 ---
 slug: student-loan-scheme-amendment-3rd-reading
-title: "Student Loan Scheme Amendment - 3rd Reading"
-date: 2010-02-25
-source-url: https://www.scoop.co.nz/stories/PA1002/S00369/student-loan-scheme-amendment-3rd-reading.htm
+title: Student Loan Scheme Amendment - 3rd Reading
+date: 2010-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00369/student-loan-scheme-amendment-3rd-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/02/25/student-loan-scheme-amendment-3rd-reading/index.html
+layout: layout.njk
 ---
 Student Loan Scheme Amendment - 3rd Reading
 ===========================================

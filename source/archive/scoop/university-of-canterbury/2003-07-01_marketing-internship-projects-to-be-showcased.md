@@ -1,9 +1,12 @@
 ---
 slug: marketing-internship-projects-to-be-showcased
-title: "Marketing internship projects to be showcased"
-date: 2003-07-01
-source-url: https://www.scoop.co.nz/stories/ED0307/S00003/marketing-internship-projects-to-be-showcased.htm
+title: Marketing internship projects to be showcased
+date: 2003-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00003/marketing-internship-projects-to-be-showcased.htm
 author: university-of-canterbury
+permalink: /archive/2003/07/01/marketing-internship-projects-to-be-showcased/index.html
+layout: layout.njk
 ---
 Marketing internship projects to be showcased
 =============================================

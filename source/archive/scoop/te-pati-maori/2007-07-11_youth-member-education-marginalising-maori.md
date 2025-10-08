@@ -1,9 +1,12 @@
 ---
 slug: youth-member-education-marginalising-maori
-title: "Youth Member: Education - Marginalising Maori"
-date: 2007-07-11
-source-url: https://www.scoop.co.nz/stories/PO0707/S00105/youth-member-education-marginalising-maori.htm
+title: 'Youth Member: Education - Marginalising Maori'
+date: 2007-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00105/youth-member-education-marginalising-maori.htm
 author: te-pati-maori
+permalink: /archive/2007/07/11/youth-member-education-marginalising-maori/index.html
+layout: layout.njk
 ---
 Youth Member: Education - Marginalising Maori
 =============================================

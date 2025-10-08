@@ -1,9 +1,13 @@
 ---
 slug: phone-charge-booster-idea-wins-uc-entre-business-competition
-title: "Phone charge booster idea wins UC entre business competition"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/ED1404/S00017/phone-charge-booster-idea-wins-uc-entre-business-competition.htm
+title: Phone charge booster idea wins UC entre business competition
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00017/phone-charge-booster-idea-wins-uc-entre-business-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/03/phone-charge-booster-idea-wins-uc-entre-business-competition/index.html
+layout: layout.njk
 ---
 Phone charge booster idea wins UC entre business competition
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-contributes-to-global-report
-title: "NZ contributes to global report"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/ED1604/S00081/nz-contributes-to-global-report.htm
+title: NZ contributes to global report
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00081/nz-contributes-to-global-report.htm
 author: university-of-otago
+permalink: /archive/2016/04/21/nz-contributes-to-global-report/index.html
+layout: layout.njk
 ---
 NZ contributes to global report
 ===============================

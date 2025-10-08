@@ -1,9 +1,12 @@
 ---
 slug: training-mothers-improves-childrens-memory
-title: "Training Mothers Improves Children’s Memory"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/GE0707/S00088/training-mothers-improves-childrens-memory.htm
+title: Training Mothers Improves Children’s Memory
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0707/S00088/training-mothers-improves-childrens-memory.htm
 author: university-of-otago
+permalink: /archive/2007/07/20/training-mothers-improves-childrens-memory/index.html
+layout: layout.njk
 ---
 Training Mothers Improves Children’s Memory
 ===========================================

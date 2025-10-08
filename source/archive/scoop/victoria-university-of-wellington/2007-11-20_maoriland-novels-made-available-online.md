@@ -1,9 +1,12 @@
 ---
 slug: maoriland-novels-made-available-online
-title: "‘Maoriland’ novels made available online"
-date: 2007-11-20
-source-url: https://www.scoop.co.nz/stories/CU0711/S00257/maoriland-novels-made-available-online.htm
+title: ‘Maoriland’ novels made available online
+date: 2007-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0711/S00257/maoriland-novels-made-available-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/20/maoriland-novels-made-available-online/index.html
+layout: layout.njk
 ---
 ‘Maoriland’ novels made available online
 ========================================

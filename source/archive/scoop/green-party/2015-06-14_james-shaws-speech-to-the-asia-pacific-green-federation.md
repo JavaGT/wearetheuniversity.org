@@ -1,9 +1,13 @@
 ---
 slug: james-shaws-speech-to-the-asia-pacific-green-federation
-title: "James Shaw’s speech to the Asia-Pacific Green Federation"
-date: 2015-06-14
-source-url: https://www.scoop.co.nz/stories/PA1506/S00225/james-shaws-speech-to-the-asia-pacific-green-federation.htm
+title: James Shaw’s speech to the Asia-Pacific Green Federation
+date: 2015-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00225/james-shaws-speech-to-the-asia-pacific-green-federation.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/14/james-shaws-speech-to-the-asia-pacific-green-federation/index.html
+layout: layout.njk
 ---
 James Shaw’s speech to the Asia-Pacific Green Federation
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: masseys-industrial-design-school-among-best-in-the-world
-title: "Massey’s industrial design school among best in the world"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/ED1205/S00013/masseys-industrial-design-school-among-best-in-the-world.htm
+title: Massey’s industrial design school among best in the world
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00013/masseys-industrial-design-school-among-best-in-the-world.htm
 author: massey-university
+permalink: >-
+  /archive/2012/05/02/masseys-industrial-design-school-among-best-in-the-world/index.html
+layout: layout.njk
 ---
 Massey’s industrial design school among best in the world
 =========================================================

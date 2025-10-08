@@ -1,9 +1,12 @@
 ---
 slug: lowering-the-ncea-bar-is-not-the-answer
-title: "Lowering The NCEA Bar Is Not The Answer"
-date: 2022-08-10
-source-url: https://www.scoop.co.nz/stories/PA2208/S00103/lowering-the-ncea-bar-is-not-the-answer.htm
+title: Lowering The NCEA Bar Is Not The Answer
+date: 2022-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00103/lowering-the-ncea-bar-is-not-the-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/10/lowering-the-ncea-bar-is-not-the-answer/index.html
+layout: layout.njk
 ---
 Lowering The NCEA Bar Is Not The Answer
 =======================================

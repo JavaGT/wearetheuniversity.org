@@ -1,9 +1,12 @@
 ---
 slug: robertson-wrong-and-lacking-credibility
-title: "Robertson wrong and lacking credibility"
-date: 2019-01-31
-source-url: https://www.scoop.co.nz/stories/PA1901/S00106/robertson-wrong-and-lacking-credibility.htm
+title: Robertson wrong and lacking credibility
+date: 2019-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00106/robertson-wrong-and-lacking-credibility.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/31/robertson-wrong-and-lacking-credibility/index.html
+layout: layout.njk
 ---
 Robertson wrong and lacking credibility
 =======================================

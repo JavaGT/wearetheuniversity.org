@@ -1,9 +1,12 @@
 ---
 slug: nz-academic-salaries-lag-behind-competition
-title: "NZ Academic Salaries Lag Behind Competition"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/ED0805/S00124/nz-academic-salaries-lag-behind-competition.htm
+title: NZ Academic Salaries Lag Behind Competition
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00124/nz-academic-salaries-lag-behind-competition.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/05/28/nz-academic-salaries-lag-behind-competition/index.html
+layout: layout.njk
 ---
 NZ Academic Salaries Lag Behind Competition
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: heads-should-roll-over-botched-maoritv-appointment
-title: "Heads Should Roll Over Botched MaoriTV Appointment"
-date: 2002-04-29
-source-url: https://www.scoop.co.nz/stories/PA0204/S00435/heads-should-roll-over-botched-maoritv-appointment.htm
+title: Heads Should Roll Over Botched MaoriTV Appointment
+date: 2002-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00435/heads-should-roll-over-botched-maoritv-appointment.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/04/29/heads-should-roll-over-botched-maoritv-appointment/index.html
+layout: layout.njk
 ---
 Heads Should Roll Over Botched MaoriTV Appointment
 ==================================================

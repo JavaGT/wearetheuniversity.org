@@ -1,9 +1,12 @@
 ---
 slug: loan-scheme-suggestions-a-blast-from-the-past
-title: "Loan Scheme Suggestions A Blast From The Past"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PA0205/S00126/loan-scheme-suggestions-a-blast-from-the-past.htm
+title: Loan Scheme Suggestions A Blast From The Past
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00126/loan-scheme-suggestions-a-blast-from-the-past.htm
 author: green-party
+permalink: /archive/2002/05/07/loan-scheme-suggestions-a-blast-from-the-past/index.html
+layout: layout.njk
 ---
 Loan Scheme Suggestions A Blast From The Past
 =============================================

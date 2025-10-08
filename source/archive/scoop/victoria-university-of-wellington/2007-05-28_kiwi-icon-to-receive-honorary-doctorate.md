@@ -1,9 +1,12 @@
 ---
 slug: kiwi-icon-to-receive-honorary-doctorate
-title: "Kiwi icon to receive honorary doctorate"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/ED0705/S00108/kiwi-icon-to-receive-honorary-doctorate.htm
+title: Kiwi icon to receive honorary doctorate
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00108/kiwi-icon-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/28/kiwi-icon-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Kiwi icon to receive honorary doctorate
 =======================================

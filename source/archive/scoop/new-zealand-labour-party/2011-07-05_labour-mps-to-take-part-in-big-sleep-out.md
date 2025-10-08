@@ -1,9 +1,12 @@
 ---
 slug: labour-mps-to-take-part-in-big-sleep-out
-title: "Labour MPs to take part in Big Sleep Out"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/PA1107/S00056/labour-mps-to-take-part-in-big-sleep-out.htm
+title: Labour MPs to take part in Big Sleep Out
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00056/labour-mps-to-take-part-in-big-sleep-out.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/05/labour-mps-to-take-part-in-big-sleep-out/index.html
+layout: layout.njk
 ---
 Labour MPs to take part in Big Sleep Out
 ========================================

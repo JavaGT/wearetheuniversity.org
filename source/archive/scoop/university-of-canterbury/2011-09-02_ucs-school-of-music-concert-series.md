@@ -1,9 +1,12 @@
 ---
 slug: ucs-school-of-music-concert-series
-title: "UC’s School of Music Concert Series"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/ED1109/S00010/ucs-school-of-music-concert-series.htm
+title: UC’s School of Music Concert Series
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00010/ucs-school-of-music-concert-series.htm
 author: university-of-canterbury
+permalink: /archive/2011/09/02/ucs-school-of-music-concert-series/index.html
+layout: layout.njk
 ---
 UC’s School of Music Concert Series
 ===================================

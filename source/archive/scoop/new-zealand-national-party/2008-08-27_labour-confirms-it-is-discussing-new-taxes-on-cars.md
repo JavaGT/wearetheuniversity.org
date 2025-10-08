@@ -1,9 +1,13 @@
 ---
 slug: labour-confirms-it-is-discussing-new-taxes-on-cars
-title: "Labour confirms it is discussing new taxes on cars"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/PA0808/S00396/labour-confirms-it-is-discussing-new-taxes-on-cars.htm
+title: Labour confirms it is discussing new taxes on cars
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00396/labour-confirms-it-is-discussing-new-taxes-on-cars.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/08/27/labour-confirms-it-is-discussing-new-taxes-on-cars/index.html
+layout: layout.njk
 ---
 Labour confirms it is discussing new taxes on cars
 ==================================================

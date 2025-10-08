@@ -1,9 +1,13 @@
 ---
-slug: students-frustrated-with-further-fee-increases
-title: "Students frustrated with further fee increases"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PO1210/S00232/students-frustrated-with-further-fee-increases.htm
+slug: students-frustrated-with-further-fee-increases-2
+title: Students frustrated with further fee increases
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00232/students-frustrated-with-further-fee-increases.htm
 author: ausa
+permalink: >-
+  /archive/2012/10/15/students-frustrated-with-further-fee-increases-2/index.html
+layout: layout.njk
 ---
 Students frustrated with further fee increases
 ==============================================

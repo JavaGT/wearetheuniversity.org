@@ -1,9 +1,13 @@
 ---
 slug: experts-to-discuss-tax-policy-and-accounting-standards
-title: "Experts to discuss tax policy and accounting standards"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/ED1303/S00049/experts-to-discuss-tax-policy-and-accounting-standards.htm
+title: Experts to discuss tax policy and accounting standards
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00049/experts-to-discuss-tax-policy-and-accounting-standards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/07/experts-to-discuss-tax-policy-and-accounting-standards/index.html
+layout: layout.njk
 ---
 Experts to discuss tax policy and accounting standards
 ======================================================

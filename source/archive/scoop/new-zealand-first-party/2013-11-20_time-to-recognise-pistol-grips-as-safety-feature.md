@@ -1,9 +1,13 @@
 ---
 slug: time-to-recognise-pistol-grips-as-safety-feature
-title: "Time to Recognise Pistol Grips As Safety Feature"
-date: 2013-11-20
-source-url: https://www.scoop.co.nz/stories/PA1311/S00349/time-to-recognise-pistol-grips-as-safety-feature.htm
+title: Time to Recognise Pistol Grips As Safety Feature
+date: 2013-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00349/time-to-recognise-pistol-grips-as-safety-feature.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/11/20/time-to-recognise-pistol-grips-as-safety-feature/index.html
+layout: layout.njk
 ---
 Time to Recognise Pistol Grips As Safety Feature
 ================================================

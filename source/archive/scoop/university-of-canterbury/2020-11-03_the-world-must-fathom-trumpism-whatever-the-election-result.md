@@ -1,9 +1,13 @@
 ---
 slug: the-world-must-fathom-trumpism-whatever-the-election-result
-title: "The World Must Fathom ‘Trumpism’ – Whatever The Election Result"
-date: 2020-11-03
-source-url: https://www.scoop.co.nz/stories/PO2011/S00039/the-world-must-fathom-trumpism-whatever-the-election-result.htm
+title: The World Must Fathom ‘Trumpism’ – Whatever The Election Result
+date: 2020-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2011/S00039/the-world-must-fathom-trumpism-whatever-the-election-result.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/03/the-world-must-fathom-trumpism-whatever-the-election-result/index.html
+layout: layout.njk
 ---
 The World Must Fathom ‘Trumpism’ – Whatever The Election Result
 ===============================================================

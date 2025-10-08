@@ -1,9 +1,12 @@
 ---
 slug: mau-moko-a-student-favourite-off-shore
-title: "Mau Moko a student favourite off shore"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/ED1111/S00158/mau-moko-a-student-favourite-off-shore.htm
+title: Mau Moko a student favourite off shore
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00158/mau-moko-a-student-favourite-off-shore.htm
 author: waikato-university
+permalink: /archive/2011/11/23/mau-moko-a-student-favourite-off-shore/index.html
+layout: layout.njk
 ---
 Mau Moko a student favourite off shore
 ======================================

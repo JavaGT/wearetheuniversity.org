@@ -1,9 +1,12 @@
 ---
 slug: new-avenues-for-treatment-of-cocaine-addiction
-title: "New avenues for treatment of cocaine addiction"
-date: 2014-04-27
-source-url: https://www.scoop.co.nz/stories/SC1404/S00091/new-avenues-for-treatment-of-cocaine-addiction.htm
+title: New avenues for treatment of cocaine addiction
+date: 2014-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00091/new-avenues-for-treatment-of-cocaine-addiction.htm
 author: university-of-canterbury
+permalink: /archive/2014/04/27/new-avenues-for-treatment-of-cocaine-addiction/index.html
+layout: layout.njk
 ---
 New avenues for treatment of cocaine addiction
 ==============================================

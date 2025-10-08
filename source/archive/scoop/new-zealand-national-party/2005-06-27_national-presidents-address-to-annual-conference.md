@@ -1,9 +1,13 @@
 ---
 slug: national-presidents-address-to-annual-conference
-title: "National President’s Address To Annual Conference"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00620/national-presidents-address-to-annual-conference.htm
+title: National President’s Address To Annual Conference
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00620/national-presidents-address-to-annual-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/06/27/national-presidents-address-to-annual-conference/index.html
+layout: layout.njk
 ---
 National President’s Address To Annual Conference
 =================================================

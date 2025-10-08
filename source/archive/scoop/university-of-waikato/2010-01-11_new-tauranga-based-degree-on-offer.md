@@ -1,9 +1,12 @@
 ---
 slug: new-tauranga-based-degree-on-offer
-title: "New Tauranga-based degree on offer"
-date: 2010-01-11
-source-url: https://www.scoop.co.nz/stories/ED1001/S00011/new-tauranga-based-degree-on-offer.htm
+title: New Tauranga-based degree on offer
+date: 2010-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00011/new-tauranga-based-degree-on-offer.htm
 author: university-of-waikato
+permalink: /archive/2010/01/11/new-tauranga-based-degree-on-offer/index.html
+layout: layout.njk
 ---
 New Tauranga-based degree on offer
 ==================================

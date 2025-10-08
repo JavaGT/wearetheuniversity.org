@@ -1,9 +1,13 @@
 ---
 slug: imminent-ocr-rises-highlight-nationals-big-economic-fail
-title: "Imminent OCR rises highlight National’s big economic fail"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/PA1401/S00200/imminent-ocr-rises-highlight-nationals-big-economic-fail.htm
+title: Imminent OCR rises highlight National’s big economic fail
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00200/imminent-ocr-rises-highlight-nationals-big-economic-fail.htm
 author: green-party
+permalink: >-
+  /archive/2014/01/30/imminent-ocr-rises-highlight-nationals-big-economic-fail/index.html
+layout: layout.njk
 ---
 Imminent OCR rises highlight National’s big economic fail
 =========================================================

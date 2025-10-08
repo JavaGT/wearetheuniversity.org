@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-no-135-4-november-2004
-title: "Maxim Institute: No. 135,   4 NOVEMBER 2004"
-date: 2004-11-05
-source-url: https://www.scoop.co.nz/stories/PO0411/S00050/maxim-institute-no-135-4-november-2004.htm
+title: 'Maxim Institute: No. 135,   4 NOVEMBER 2004'
+date: 2004-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00050/maxim-institute-no-135-4-november-2004.htm
 author: maxim-institute
+permalink: /archive/2004/11/05/maxim-institute-no-135-4-november-2004/index.html
+layout: layout.njk
 ---
 Maxim Institute: No. 135, 4 NOVEMBER 2004
 =========================================

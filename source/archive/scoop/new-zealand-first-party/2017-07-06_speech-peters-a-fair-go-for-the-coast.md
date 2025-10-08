@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-a-fair-go-for-the-coast
-title: "Speech: Peters - a Fair Go for the Coast"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/PA1707/S00108/speech-peters-a-fair-go-for-the-coast.htm
+title: 'Speech: Peters - a Fair Go for the Coast'
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00108/speech-peters-a-fair-go-for-the-coast.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/06/speech-peters-a-fair-go-for-the-coast/index.html
+layout: layout.njk
 ---
 Speech: Peters - a Fair Go for the Coast
 ========================================

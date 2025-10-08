@@ -1,9 +1,12 @@
 ---
 slug: easy-solution-but-ryall-not-interested
-title: "Easy solution, but Ryall not interested"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/PA1309/S00348/easy-solution-but-ryall-not-interested.htm
+title: Easy solution, but Ryall not interested
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00348/easy-solution-but-ryall-not-interested.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/09/18/easy-solution-but-ryall-not-interested/index.html
+layout: layout.njk
 ---
 Easy solution, but Ryall not interested
 =======================================

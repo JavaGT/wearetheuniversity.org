@@ -1,9 +1,13 @@
 ---
 slug: labour-revamping-dental-services-for-young-nzers
-title: "Labour revamping dental services for young NZers"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/PA0508/S00831/labour-revamping-dental-services-for-young-nzers.htm
+title: Labour revamping dental services for young NZers
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00831/labour-revamping-dental-services-for-young-nzers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/08/31/labour-revamping-dental-services-for-young-nzers/index.html
+layout: layout.njk
 ---
 Labour revamping dental services for young NZers
 ================================================

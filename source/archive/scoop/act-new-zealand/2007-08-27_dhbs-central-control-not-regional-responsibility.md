@@ -1,9 +1,13 @@
 ---
 slug: dhbs-central-control-not-regional-responsibility
-title: "DHBs: Central Control, Not Regional Responsibility"
-date: 2007-08-27
-source-url: https://www.scoop.co.nz/stories/PA0708/S00456/dhbs-central-control-not-regional-responsibility.htm
+title: 'DHBs: Central Control, Not Regional Responsibility'
+date: 2007-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00456/dhbs-central-control-not-regional-responsibility.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2007/08/27/dhbs-central-control-not-regional-responsibility/index.html
+layout: layout.njk
 ---
 DHBs: Central Control, Not Regional Responsibility
 ==================================================

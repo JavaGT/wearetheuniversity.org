@@ -1,9 +1,11 @@
 ---
 slug: does-education-shape-society
-title: "Does education shape society?"
-date: 2006-08-31
+title: Does education shape society?
+date: 2006-08-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0608/S00102/does-education-shape-society.htm
 author: waikato-university
+permalink: /archive/2006/08/31/does-education-shape-society/index.html
+layout: layout.njk
 ---
 Does education shape society?
 =============================

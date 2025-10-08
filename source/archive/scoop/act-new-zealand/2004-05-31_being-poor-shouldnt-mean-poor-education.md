@@ -1,9 +1,12 @@
 ---
 slug: being-poor-shouldnt-mean-poor-education
-title: "Being Poor Shouldn't Mean Poor Education"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00690/being-poor-shouldnt-mean-poor-education.htm
+title: Being Poor Shouldn't Mean Poor Education
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00690/being-poor-shouldnt-mean-poor-education.htm
 author: act-new-zealand
+permalink: /archive/2004/05/31/being-poor-shouldnt-mean-poor-education/index.html
+layout: layout.njk
 ---
 Being Poor Shouldn't Mean Poor Education
 ========================================

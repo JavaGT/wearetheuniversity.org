@@ -1,9 +1,12 @@
 ---
 slug: labours-house-ban-risks-trade-jobs
-title: "Labour’s house ban risks trade jobs"
-date: 2017-09-11
-source-url: https://www.scoop.co.nz/stories/PA1709/S00122/labours-house-ban-risks-trade-jobs.htm
+title: Labour’s house ban risks trade jobs
+date: 2017-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00122/labours-house-ban-risks-trade-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2017/09/11/labours-house-ban-risks-trade-jobs/index.html
+layout: layout.njk
 ---
 Labour’s house ban risks trade jobs
 ===================================

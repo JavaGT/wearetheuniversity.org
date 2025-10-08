@@ -1,9 +1,13 @@
 ---
 slug: launch-of-nzs-first-science-communication-centre
-title: "Launch of NZ’s first Science Communication Centre"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/SC0802/S00029/launch-of-nzs-first-science-communication-centre.htm
+title: Launch of NZ’s first Science Communication Centre
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0802/S00029/launch-of-nzs-first-science-communication-centre.htm
 author: university-of-otago
+permalink: >-
+  /archive/2008/02/15/launch-of-nzs-first-science-communication-centre/index.html
+layout: layout.njk
 ---
 Launch of NZ’s first Science Communication Centre
 =================================================

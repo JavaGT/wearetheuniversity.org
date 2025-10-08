@@ -1,9 +1,13 @@
 ---
 slug: zero-carbon-bill-inspires-new-zealands-first-energy-demonstration-farm
-title: "Zero Carbon Bill Inspires New Zealand’s First Energy Demonstration Farm"
-date: 2020-03-19
-source-url: https://www.scoop.co.nz/stories/SC2003/S00031/zero-carbon-bill-inspires-new-zealands-first-energy-demonstration-farm.htm
+title: Zero Carbon Bill Inspires New Zealand’s First Energy Demonstration Farm
+date: 2020-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2003/S00031/zero-carbon-bill-inspires-new-zealands-first-energy-demonstration-farm.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/03/19/zero-carbon-bill-inspires-new-zealands-first-energy-demonstration-farm/index.html
+layout: layout.njk
 ---
 Zero Carbon Bill Inspires New Zealand’s First Energy Demonstration Farm
 =======================================================================

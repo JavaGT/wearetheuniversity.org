@@ -1,9 +1,12 @@
 ---
 slug: cullen-sends-out-his-army-of-bureaucrats
-title: "Cullen Sends Out His Army of Bureaucrats"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/PA0208/S00177/cullen-sends-out-his-army-of-bureaucrats.htm
+title: Cullen Sends Out His Army of Bureaucrats
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00177/cullen-sends-out-his-army-of-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2002/08/22/cullen-sends-out-his-army-of-bureaucrats/index.html
+layout: layout.njk
 ---
 Cullen Sends Out His Army of Bureaucrats
 ========================================

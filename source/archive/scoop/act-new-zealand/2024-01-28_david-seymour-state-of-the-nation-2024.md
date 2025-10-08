@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-state-of-the-nation-2024
-title: "David Seymour: State of the Nation 2024"
-date: 2024-01-28
-source-url: https://www.scoop.co.nz/stories/PA2401/S00039/david-seymour-state-of-the-nation-2024.htm
+title: 'David Seymour: State of the Nation 2024'
+date: 2024-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00039/david-seymour-state-of-the-nation-2024.htm
 author: act-new-zealand
+permalink: /archive/2024/01/28/david-seymour-state-of-the-nation-2024/index.html
+layout: layout.njk
 ---
 David Seymour: State of the Nation 2024
 =======================================

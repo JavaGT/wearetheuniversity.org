@@ -1,9 +1,12 @@
 ---
 slug: pm-contradicts-herself-on-free-speech
-title: "PM contradicts herself on free speech"
-date: 2018-08-07
-source-url: https://www.scoop.co.nz/stories/PA1808/S00069/pm-contradicts-herself-on-free-speech.htm
+title: PM contradicts herself on free speech
+date: 2018-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00069/pm-contradicts-herself-on-free-speech.htm
 author: act-new-zealand
+permalink: /archive/2018/08/07/pm-contradicts-herself-on-free-speech/index.html
+layout: layout.njk
 ---
 PM contradicts herself on free speech
 =====================================

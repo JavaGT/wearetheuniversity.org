@@ -1,9 +1,13 @@
 ---
 slug: fingerprints-on-the-treaty-footprints-in-the-sand
-title: "Fingerprints On The Treaty, Footprints In The Sand"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/PA0403/S00407/fingerprints-on-the-treaty-footprints-in-the-sand.htm
+title: Fingerprints On The Treaty, Footprints In The Sand
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00407/fingerprints-on-the-treaty-footprints-in-the-sand.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2004/03/18/fingerprints-on-the-treaty-footprints-in-the-sand/index.html
+layout: layout.njk
 ---
 Fingerprints On The Treaty, Footprints In The Sand
 ==================================================

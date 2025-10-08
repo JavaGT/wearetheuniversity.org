@@ -1,9 +1,12 @@
 ---
 slug: donnelly-to-accept-anti-pot-petition
-title: "Donnelly To Accept Anti-Pot Petition"
-date: 2001-08-06
-source-url: https://www.scoop.co.nz/stories/PA0108/S00104/donnelly-to-accept-anti-pot-petition.htm
+title: Donnelly To Accept Anti-Pot Petition
+date: 2001-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00104/donnelly-to-accept-anti-pot-petition.htm
 author: new-zealand-first-party
+permalink: /archive/2001/08/06/donnelly-to-accept-anti-pot-petition/index.html
+layout: layout.njk
 ---
 Donnelly To Accept Anti-Pot Petition
 ====================================

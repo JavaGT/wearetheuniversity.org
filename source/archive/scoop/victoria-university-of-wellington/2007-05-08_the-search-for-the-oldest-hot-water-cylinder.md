@@ -1,9 +1,12 @@
 ---
 slug: the-search-for-the-oldest-hot-water-cylinder
-title: "The search for the oldest hot water cylinder"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/ED0705/S00034/the-search-for-the-oldest-hot-water-cylinder.htm
+title: The search for the oldest hot water cylinder
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00034/the-search-for-the-oldest-hot-water-cylinder.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/08/the-search-for-the-oldest-hot-water-cylinder/index.html
+layout: layout.njk
 ---
 The search for the oldest hot water cylinder
 ============================================

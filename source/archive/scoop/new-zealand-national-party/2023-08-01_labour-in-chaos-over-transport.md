@@ -1,9 +1,12 @@
 ---
 slug: labour-in-chaos-over-transport
-title: "Labour In Chaos Over Transport"
-date: 2023-08-01
-source-url: https://www.scoop.co.nz/stories/PA2308/S00001/labour-in-chaos-over-transport.htm
+title: Labour In Chaos Over Transport
+date: 2023-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00001/labour-in-chaos-over-transport.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/01/labour-in-chaos-over-transport/index.html
+layout: layout.njk
 ---
 Labour In Chaos Over Transport
 ==============================

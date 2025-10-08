@@ -1,9 +1,12 @@
 ---
 slug: peters-calls-for-independent-bio-security-audit
-title: "Peters Calls For Independent Bio-Security Audit"
-date: 2001-03-23
-source-url: https://www.scoop.co.nz/stories/PA0103/S00407/peters-calls-for-independent-bio-security-audit.htm
+title: Peters Calls For Independent Bio-Security Audit
+date: 2001-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00407/peters-calls-for-independent-bio-security-audit.htm
 author: new-zealand-first-party
+permalink: /archive/2001/03/23/peters-calls-for-independent-bio-security-audit/index.html
+layout: layout.njk
 ---
 Peters Calls For Independent Bio-Security Audit
 ===============================================

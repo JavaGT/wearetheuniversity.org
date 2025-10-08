@@ -1,9 +1,13 @@
 ---
 slug: pay-inequality-continues-to-be-ignored-in-this-country-too
-title: "Pay inequality continues to be ignored in this country too"
-date: 2015-02-24
-source-url: https://www.scoop.co.nz/stories/PO1502/S00264/pay-inequality-continues-to-be-ignored-in-this-country-too.htm
+title: Pay inequality continues to be ignored in this country too
+date: 2015-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00264/pay-inequality-continues-to-be-ignored-in-this-country-too.htm
 author: nzei
+permalink: >-
+  /archive/2015/02/24/pay-inequality-continues-to-be-ignored-in-this-country-too/index.html
+layout: layout.njk
 ---
 Pay inequality continues to be ignored in this country too
 ==========================================================

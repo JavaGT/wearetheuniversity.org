@@ -1,9 +1,12 @@
 ---
 slug: less-money-in-most-peoples-pockets-this-april
-title: "Less Money In Most People’s Pockets This April"
-date: 2024-03-31
-source-url: https://www.scoop.co.nz/stories/PA2403/S00183/less-money-in-most-peoples-pockets-this-april.htm
+title: Less Money In Most People’s Pockets This April
+date: 2024-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00183/less-money-in-most-peoples-pockets-this-april.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/03/31/less-money-in-most-peoples-pockets-this-april/index.html
+layout: layout.njk
 ---
 Less Money In Most People’s Pockets This April
 ==============================================

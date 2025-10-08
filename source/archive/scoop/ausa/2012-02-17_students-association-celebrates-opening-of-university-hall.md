@@ -1,9 +1,13 @@
 ---
 slug: students-association-celebrates-opening-of-university-hall
-title: "Students' Association celebrates opening of University Hall"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/ED1202/S00076/students-association-celebrates-opening-of-university-hall.htm
+title: Students' Association celebrates opening of University Hall
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00076/students-association-celebrates-opening-of-university-hall.htm
 author: ausa
+permalink: >-
+  /archive/2012/02/17/students-association-celebrates-opening-of-university-hall/index.html
+layout: layout.njk
 ---
 Students' Association celebrates opening of University Hall
 ===========================================================

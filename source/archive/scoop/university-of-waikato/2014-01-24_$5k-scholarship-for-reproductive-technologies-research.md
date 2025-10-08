@@ -1,9 +1,13 @@
 ---
 slug: $5k-scholarship-for-reproductive-technologies-research
-title: "$5k scholarship for reproductive technologies research"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/SC1401/S00053/5k-scholarship-for-reproductive-technologies-research.htm
+title: $5k scholarship for reproductive technologies research
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00053/5k-scholarship-for-reproductive-technologies-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/01/24/5k-scholarship-for-reproductive-technologies-research/index.html
+layout: layout.njk
 ---
 $5k scholarship for reproductive technologies research
 ======================================================

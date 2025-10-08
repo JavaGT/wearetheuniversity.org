@@ -1,9 +1,12 @@
 ---
 slug: nearly-sixty-thousand-kiwis-declined-treatment
-title: "Nearly sixty thousand Kiwis declined treatment"
-date: 2017-02-02
-source-url: https://www.scoop.co.nz/stories/PA1702/S00041/nearly-sixty-thousand-kiwis-declined-treatment.htm
+title: Nearly sixty thousand Kiwis declined treatment
+date: 2017-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00041/nearly-sixty-thousand-kiwis-declined-treatment.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/02/nearly-sixty-thousand-kiwis-declined-treatment/index.html
+layout: layout.njk
 ---
 Nearly sixty thousand Kiwis declined treatment
 ==============================================

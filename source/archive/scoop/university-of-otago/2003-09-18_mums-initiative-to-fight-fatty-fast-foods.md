@@ -1,9 +1,12 @@
 ---
 slug: mums-initiative-to-fight-fatty-fast-foods
-title: "Mum’s Initiative To Fight Fatty Fast Foods"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/ED0309/S00078/mums-initiative-to-fight-fatty-fast-foods.htm
+title: Mum’s Initiative To Fight Fatty Fast Foods
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00078/mums-initiative-to-fight-fatty-fast-foods.htm
 author: university-of-otago
+permalink: /archive/2003/09/18/mums-initiative-to-fight-fatty-fast-foods/index.html
+layout: layout.njk
 ---
 Mum’s Initiative To Fight Fatty Fast Foods
 ==========================================

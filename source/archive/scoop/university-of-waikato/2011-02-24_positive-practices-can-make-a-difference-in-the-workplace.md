@@ -1,9 +1,13 @@
 ---
 slug: positive-practices-can-make-a-difference-in-the-workplace
-title: "Positive practices can make a difference in the workplace"
-date: 2011-02-24
-source-url: https://www.scoop.co.nz/stories/AK1102/S00946/positive-practices-can-make-a-difference-in-the-workplace.htm
+title: Positive practices can make a difference in the workplace
+date: 2011-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00946/positive-practices-can-make-a-difference-in-the-workplace.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/02/24/positive-practices-can-make-a-difference-in-the-workplace/index.html
+layout: layout.njk
 ---
 Positive practices can make a difference in the workplace
 =========================================================

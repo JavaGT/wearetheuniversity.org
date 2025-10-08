@@ -1,9 +1,12 @@
 ---
 slug: wellington-annual-apartment-versus-flats-games
-title: "Wellington annual apartment versus flats games"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/ED0809/S00064/wellington-annual-apartment-versus-flats-games.htm
+title: Wellington annual apartment versus flats games
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00064/wellington-annual-apartment-versus-flats-games.htm
 author: massey-university
+permalink: /archive/2008/09/22/wellington-annual-apartment-versus-flats-games/index.html
+layout: layout.njk
 ---
 Wellington annual apartment versus flats games
 ==============================================

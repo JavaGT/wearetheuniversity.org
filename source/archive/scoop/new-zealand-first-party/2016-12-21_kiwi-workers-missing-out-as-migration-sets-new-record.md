@@ -1,9 +1,13 @@
 ---
 slug: kiwi-workers-missing-out-as-migration-sets-new-record
-title: "Kiwi Workers Missing Out as Migration Sets New Record"
-date: 2016-12-21
-source-url: https://www.scoop.co.nz/stories/PA1612/S00337/kiwi-workers-missing-out-as-migration-sets-new-record.htm
+title: Kiwi Workers Missing Out as Migration Sets New Record
+date: 2016-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00337/kiwi-workers-missing-out-as-migration-sets-new-record.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/12/21/kiwi-workers-missing-out-as-migration-sets-new-record/index.html
+layout: layout.njk
 ---
 Kiwi Workers Missing Out as Migration Sets New Record
 =====================================================

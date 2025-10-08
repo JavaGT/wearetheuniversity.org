@@ -1,9 +1,13 @@
 ---
 slug: queenstownhospital-decision-victory-for-public-health-system
-title: "QueenstownHospital decision victory for public health system"
-date: 2011-08-31
-source-url: https://www.scoop.co.nz/stories/PA1108/S00600/queenstownhospital-decision-victory-for-public-health-system.htm
+title: QueenstownHospital decision victory for public health system
+date: 2011-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00600/queenstownhospital-decision-victory-for-public-health-system.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/31/queenstownhospital-decision-victory-for-public-health-system/index.html
+layout: layout.njk
 ---
 QueenstownHospital decision victory for public health system
 ============================================================

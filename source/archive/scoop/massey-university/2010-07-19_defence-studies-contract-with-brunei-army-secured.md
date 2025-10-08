@@ -1,9 +1,13 @@
 ---
 slug: defence-studies-contract-with-brunei-army-secured
-title: "Defence studies contract with Brunei Army secured"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/ED1007/S00066/defence-studies-contract-with-brunei-army-secured.htm
+title: Defence studies contract with Brunei Army secured
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00066/defence-studies-contract-with-brunei-army-secured.htm
 author: massey-university
+permalink: >-
+  /archive/2010/07/19/defence-studies-contract-with-brunei-army-secured/index.html
+layout: layout.njk
 ---
 Defence studies contract with Brunei Army secured
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: rod-rolls-out-the-debt-blanket
-title: "Rod rolls out \"The Debt Blanket\""
-date: 2003-07-16
-source-url: https://www.scoop.co.nz/stories/ED0307/S00043/rod-rolls-out-the-debt-blanket.htm
+title: Rod rolls out "The Debt Blanket"
+date: 2003-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00043/rod-rolls-out-the-debt-blanket.htm
 author: otago-university-students-association
+permalink: /archive/2003/07/16/rod-rolls-out-the-debt-blanket/index.html
+layout: layout.njk
 ---
 Rod rolls out \"The Debt Blanket"
 ================================

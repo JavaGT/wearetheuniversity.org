@@ -1,9 +1,13 @@
 ---
 slug: otago-microbiologist-receives-top-american-honour
-title: "Otago Microbiologist Receives Top American Honour"
-date: 2002-05-27
-source-url: https://www.scoop.co.nz/stories/SC0205/S00042/otago-microbiologist-receives-top-american-honour.htm
+title: Otago Microbiologist Receives Top American Honour
+date: 2002-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0205/S00042/otago-microbiologist-receives-top-american-honour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2002/05/27/otago-microbiologist-receives-top-american-honour/index.html
+layout: layout.njk
 ---
 Otago Microbiologist Receives Top American Honour
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-simon-power-mp-for-rangitikei
-title: "Maiden Speech - Simon Power - MP For Rangitikei"
-date: 2000-02-10
-source-url: https://www.scoop.co.nz/stories/PA0002/S00107/maiden-speech-simon-power-mp-for-rangitikei.htm
+title: Maiden Speech - Simon Power - MP For Rangitikei
+date: 2000-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00107/maiden-speech-simon-power-mp-for-rangitikei.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/10/maiden-speech-simon-power-mp-for-rangitikei/index.html
+layout: layout.njk
 ---
 Maiden Speech - Simon Power - MP For Rangitikei
 ===============================================

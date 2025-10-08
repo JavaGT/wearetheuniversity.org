@@ -1,9 +1,13 @@
 ---
 slug: science-junk-science-and-how-to-tell-the-difference
-title: "Science, junk science, and how to tell the difference"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/SC1707/S00024/science-junk-science-and-how-to-tell-the-difference.htm
+title: Science, junk science, and how to tell the difference
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1707/S00024/science-junk-science-and-how-to-tell-the-difference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/13/science-junk-science-and-how-to-tell-the-difference/index.html
+layout: layout.njk
 ---
 Science, junk science, and how to tell the difference
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: families-to-say-if-keys-backflip-good-enough
-title: "Families to say if Key’s backflip good enough"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/PA1108/S00459/families-to-say-if-keys-backflip-good-enough.htm
+title: Families to say if Key’s backflip good enough
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00459/families-to-say-if-keys-backflip-good-enough.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/22/families-to-say-if-keys-backflip-good-enough/index.html
+layout: layout.njk
 ---
 Families to say if Key’s backflip good enough
 =============================================

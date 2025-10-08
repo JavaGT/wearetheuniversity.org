@@ -1,9 +1,13 @@
 ---
 slug: expensive-milk-implications-for-health-inequality
-title: "Expensive milk, Implications for health inequality"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/GE0906/S00120/expensive-milk-implications-for-health-inequality.htm
+title: Expensive milk, Implications for health inequality
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0906/S00120/expensive-milk-implications-for-health-inequality.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/06/19/expensive-milk-implications-for-health-inequality/index.html
+layout: layout.njk
 ---
 Expensive milk, Implications for health inequality
 ==================================================

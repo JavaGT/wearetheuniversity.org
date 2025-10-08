@@ -1,9 +1,12 @@
 ---
 slug: new-research-shows-school-leaver-debt-nightmare
-title: "New research shows school leaver debt nightmare"
-date: 2004-01-08
-source-url: https://www.scoop.co.nz/stories/ED0401/S00005/new-research-shows-school-leaver-debt-nightmare.htm
+title: New research shows school leaver debt nightmare
+date: 2004-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00005/new-research-shows-school-leaver-debt-nightmare.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/08/new-research-shows-school-leaver-debt-nightmare/index.html
+layout: layout.njk
 ---
 New research shows school leaver debt nightmare
 ===============================================

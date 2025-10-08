@@ -1,9 +1,12 @@
 ---
 slug: ministers-hysterical-in-the-face-of-criticism
-title: "Ministers hysterical in the face of criticism"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/PA0409/S00028/ministers-hysterical-in-the-face-of-criticism.htm
+title: Ministers hysterical in the face of criticism
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00028/ministers-hysterical-in-the-face-of-criticism.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/02/ministers-hysterical-in-the-face-of-criticism/index.html
+layout: layout.njk
 ---
 Ministers hysterical in the face of criticism
 =============================================

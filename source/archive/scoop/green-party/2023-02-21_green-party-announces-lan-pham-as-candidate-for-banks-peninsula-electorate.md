@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-lan-pham-as-candidate-for-banks-peninsula-electorate
-title: "Green Party Announces Lan Pham As Candidate For Banks Peninsula Electorate"
-date: 2023-02-21
-source-url: https://www.scoop.co.nz/stories/PO2302/S00107/green-party-announces-lan-pham-as-candidate-for-banks-peninsula-electorate.htm
+title: Green Party Announces Lan Pham As Candidate For Banks Peninsula Electorate
+date: 2023-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00107/green-party-announces-lan-pham-as-candidate-for-banks-peninsula-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/02/21/green-party-announces-lan-pham-as-candidate-for-banks-peninsula-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Lan Pham As Candidate For Banks Peninsula Electorate
 ==========================================================================

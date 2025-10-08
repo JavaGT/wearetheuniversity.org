@@ -1,9 +1,12 @@
 ---
 slug: farmer-survey-a-snapshot-of-occupational-health
-title: "Farmer survey a snapshot of occupational health"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/CU0708/S00042/farmer-survey-a-snapshot-of-occupational-health.htm
+title: Farmer survey a snapshot of occupational health
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00042/farmer-survey-a-snapshot-of-occupational-health.htm
 author: university-of-otago
+permalink: /archive/2007/08/03/farmer-survey-a-snapshot-of-occupational-health/index.html
+layout: layout.njk
 ---
 Farmer survey a snapshot of occupational health
 ===============================================

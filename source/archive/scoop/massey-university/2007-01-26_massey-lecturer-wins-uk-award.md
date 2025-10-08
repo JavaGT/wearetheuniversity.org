@@ -1,9 +1,12 @@
 ---
 slug: massey-lecturer-wins-uk-award
-title: "Massey Lecturer wins UK Award"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/ED0701/S00023/massey-lecturer-wins-uk-award.htm
+title: Massey Lecturer wins UK Award
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00023/massey-lecturer-wins-uk-award.htm
 author: massey-university
+permalink: /archive/2007/01/26/massey-lecturer-wins-uk-award/index.html
+layout: layout.njk
 ---
 Massey Lecturer wins UK Award
 =============================

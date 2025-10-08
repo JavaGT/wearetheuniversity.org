@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-public-lecture-who-speaks-for-the-trees
-title: "UC Connect public lecture: Who speaks for the trees?"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/ED1708/S00066/uc-connect-public-lecture-who-speaks-for-the-trees.htm
+title: 'UC Connect public lecture: Who speaks for the trees?'
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00066/uc-connect-public-lecture-who-speaks-for-the-trees.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/18/uc-connect-public-lecture-who-speaks-for-the-trees/index.html
+layout: layout.njk
 ---
 UC Connect public lecture: Who speaks for the trees?
 ====================================================

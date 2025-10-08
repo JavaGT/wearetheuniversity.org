@@ -1,9 +1,12 @@
 ---
 slug: pay-rise-for-early-childhood-sector
-title: "Pay Rise For Early Childhood Sector"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/PO0911/S00250/pay-rise-for-early-childhood-sector.htm
+title: Pay Rise For Early Childhood Sector
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00250/pay-rise-for-early-childhood-sector.htm
 author: nzei
+permalink: /archive/2009/11/24/pay-rise-for-early-childhood-sector/index.html
+layout: layout.njk
 ---
 Pay Rise For Early Childhood Sector
 ===================================

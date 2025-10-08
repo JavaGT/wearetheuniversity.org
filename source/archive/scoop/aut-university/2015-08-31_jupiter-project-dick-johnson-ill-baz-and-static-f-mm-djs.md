@@ -1,9 +1,13 @@
 ---
 slug: jupiter-project-dick-johnson-ill-baz-and-static-f-mm-djs
-title: "Jupiter Project, Dick Johnson, Ill Baz And Static F\\Mm DJs"
-date: 2015-08-31
-source-url: https://www.scoop.co.nz/stories/CU1508/S00416/jupiter-project-dick-johnson-ill-baz-and-static-fmm-djs.htm
+title: Jupiter Project, Dick Johnson, Ill Baz And Static F\Mm DJs
+date: 2015-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00416/jupiter-project-dick-johnson-ill-baz-and-static-fmm-djs.htm
 author: aut-university
+permalink: >-
+  /archive/2015/08/31/jupiter-project-dick-johnson-ill-baz-and-static-f-mm-djs/index.html
+layout: layout.njk
 ---
 Jupiter Project, Dick Johnson, Ill Baz And Static F\\Mm DJs
 ===========================================================

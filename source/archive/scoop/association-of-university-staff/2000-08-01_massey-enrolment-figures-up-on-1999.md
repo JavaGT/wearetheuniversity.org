@@ -1,9 +1,12 @@
 ---
 slug: massey-enrolment-figures-up-on-1999
-title: "Massey enrolment figures up on 1999"
-date: 2000-08-01
-source-url: https://www.scoop.co.nz/stories/ED0008/S00002/massey-enrolment-figures-up-on-1999.htm
+title: Massey enrolment figures up on 1999
+date: 2000-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00002/massey-enrolment-figures-up-on-1999.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/01/massey-enrolment-figures-up-on-1999/index.html
+layout: layout.njk
 ---
 Massey enrolment figures up on 1999
 ===================================

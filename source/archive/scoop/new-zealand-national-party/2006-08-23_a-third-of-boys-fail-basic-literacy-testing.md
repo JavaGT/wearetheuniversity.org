@@ -1,9 +1,12 @@
 ---
 slug: a-third-of-boys-fail-basic-literacy-testing
-title: "A third of boys fail basic literacy testing"
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/PA0608/S00372/a-third-of-boys-fail-basic-literacy-testing.htm
+title: A third of boys fail basic literacy testing
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00372/a-third-of-boys-fail-basic-literacy-testing.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/23/a-third-of-boys-fail-basic-literacy-testing/index.html
+layout: layout.njk
 ---
 A third of boys fail basic literacy testing
 ===========================================

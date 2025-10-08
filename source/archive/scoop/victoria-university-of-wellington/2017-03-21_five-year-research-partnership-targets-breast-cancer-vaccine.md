@@ -1,9 +1,13 @@
 ---
 slug: five-year-research-partnership-targets-breast-cancer-vaccine
-title: "Five-year research partnership targets breast cancer vaccine"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/SC1703/S00048/five-year-research-partnership-targets-breast-cancer-vaccine.htm
+title: Five-year research partnership targets breast cancer vaccine
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00048/five-year-research-partnership-targets-breast-cancer-vaccine.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/03/21/five-year-research-partnership-targets-breast-cancer-vaccine/index.html
+layout: layout.njk
 ---
 Five-year research partnership targets breast cancer vaccine
 ============================================================

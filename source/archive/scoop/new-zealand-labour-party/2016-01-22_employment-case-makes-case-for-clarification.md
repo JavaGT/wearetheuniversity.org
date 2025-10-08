@@ -1,9 +1,12 @@
 ---
 slug: employment-case-makes-case-for-clarification
-title: "Employment case makes case for clarification"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PA1601/S00087/employment-case-makes-case-for-clarification.htm
+title: Employment case makes case for clarification
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00087/employment-case-makes-case-for-clarification.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/22/employment-case-makes-case-for-clarification/index.html
+layout: layout.njk
 ---
 Employment case makes case for clarification
 ============================================

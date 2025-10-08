@@ -1,9 +1,12 @@
 ---
 slug: decile-review-reveals-rocketing-rate-of-poverty
-title: "Decile Review Reveals Rocketing Rate of Poverty"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/PA1411/S00380/decile-review-reveals-rocketing-rate-of-poverty.htm
+title: Decile Review Reveals Rocketing Rate of Poverty
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00380/decile-review-reveals-rocketing-rate-of-poverty.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/27/decile-review-reveals-rocketing-rate-of-poverty/index.html
+layout: layout.njk
 ---
 Decile Review Reveals Rocketing Rate of Poverty
 ===============================================

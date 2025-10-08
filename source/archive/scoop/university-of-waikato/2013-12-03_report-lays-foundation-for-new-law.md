@@ -1,9 +1,12 @@
 ---
 slug: report-lays-foundation-for-new-law
-title: "Report lays foundation for new law"
-date: 2013-12-03
-source-url: https://www.scoop.co.nz/stories/SC1312/S00009/report-lays-foundation-for-new-law.htm
+title: Report lays foundation for new law
+date: 2013-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00009/report-lays-foundation-for-new-law.htm
 author: university-of-waikato
+permalink: /archive/2013/12/03/report-lays-foundation-for-new-law/index.html
+layout: layout.njk
 ---
 Report lays foundation for new law
 ==================================

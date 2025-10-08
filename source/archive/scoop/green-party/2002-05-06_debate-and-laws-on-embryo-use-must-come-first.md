@@ -1,9 +1,12 @@
 ---
 slug: debate-and-laws-on-embryo-use-must-come-first
-title: "Debate And Laws On Embryo Use Must Come First"
-date: 2002-05-06
-source-url: https://www.scoop.co.nz/stories/PA0205/S00111/debate-and-laws-on-embryo-use-must-come-first.htm
+title: Debate And Laws On Embryo Use Must Come First
+date: 2002-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00111/debate-and-laws-on-embryo-use-must-come-first.htm
 author: green-party
+permalink: /archive/2002/05/06/debate-and-laws-on-embryo-use-must-come-first/index.html
+layout: layout.njk
 ---
 Debate And Laws On Embryo Use Must Come First
 =============================================

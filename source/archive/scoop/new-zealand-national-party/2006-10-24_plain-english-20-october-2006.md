@@ -1,9 +1,12 @@
 ---
 slug: plain-english-20-october-2006
-title: "Plain English - 20 October 2006"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/PA0610/S00427/plain-english-20-october-2006.htm
+title: Plain English - 20 October 2006
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00427/plain-english-20-october-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/24/plain-english-20-october-2006/index.html
+layout: layout.njk
 ---
 Plain English - 20 October 2006
 ===============================

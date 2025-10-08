@@ -1,9 +1,12 @@
 ---
 slug: labours-attack-on-iwi-is-an-attack-on-whanau
-title: "Labour’s attack on iwi is an attack on whanau"
-date: 2009-11-26
-source-url: https://www.scoop.co.nz/stories/PA0911/S00421/labours-attack-on-iwi-is-an-attack-on-whanau.htm
+title: Labour’s attack on iwi is an attack on whanau
+date: 2009-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00421/labours-attack-on-iwi-is-an-attack-on-whanau.htm
 author: te-pati-maori
+permalink: /archive/2009/11/26/labours-attack-on-iwi-is-an-attack-on-whanau/index.html
+layout: layout.njk
 ---
 Labour’s attack on iwi is an attack on whanau
 =============================================

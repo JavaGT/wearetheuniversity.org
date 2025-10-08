@@ -1,9 +1,12 @@
 ---
 slug: arrest-at-border-does-little-to-solve-problem
-title: "Arrest at Border Does Little to Solve Problem"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PO1606/S00034/arrest-at-border-does-little-to-solve-problem.htm
+title: Arrest at Border Does Little to Solve Problem
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00034/arrest-at-border-does-little-to-solve-problem.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/06/03/arrest-at-border-does-little-to-solve-problem/index.html
+layout: layout.njk
 ---
 Arrest at Border Does Little to Solve Problem
 =============================================

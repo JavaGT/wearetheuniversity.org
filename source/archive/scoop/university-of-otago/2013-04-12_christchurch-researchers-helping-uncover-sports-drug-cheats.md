@@ -1,9 +1,13 @@
 ---
 slug: christchurch-researchers-helping-uncover-sports-drug-cheats
-title: "Christchurch Researchers Helping Uncover Sports Drug Cheats"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00075/christchurch-researchers-helping-uncover-sports-drug-cheats.htm
+title: Christchurch Researchers Helping Uncover Sports Drug Cheats
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00075/christchurch-researchers-helping-uncover-sports-drug-cheats.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/12/christchurch-researchers-helping-uncover-sports-drug-cheats/index.html
+layout: layout.njk
 ---
 Christchurch Researchers Helping Uncover Sports Drug Cheats
 ===========================================================

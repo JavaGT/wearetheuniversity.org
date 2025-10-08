@@ -1,9 +1,13 @@
 ---
 slug: university-staff-warn-of-nationals-leap-backwards
-title: "University staff warn of National’s leap backwards"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00107/university-staff-warn-of-nationals-leap-backwards.htm
+title: University staff warn of National’s leap backwards
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00107/university-staff-warn-of-nationals-leap-backwards.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2006/09/27/university-staff-warn-of-nationals-leap-backwards/index.html
+layout: layout.njk
 ---
 University staff warn of National’s leap backwards
 ==================================================

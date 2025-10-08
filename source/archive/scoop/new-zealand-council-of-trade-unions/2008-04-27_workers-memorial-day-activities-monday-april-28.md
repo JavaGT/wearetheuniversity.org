@@ -1,9 +1,12 @@
 ---
 slug: workers-memorial-day-activities-monday-april-28
-title: "Workers Memorial Day Activities - Monday April 28"
-date: 2008-04-27
-source-url: https://www.scoop.co.nz/stories/PO0804/S00389/workers-memorial-day-activities-monday-april-28.htm
+title: Workers Memorial Day Activities - Monday April 28
+date: 2008-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00389/workers-memorial-day-activities-monday-april-28.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/04/27/workers-memorial-day-activities-monday-april-28/index.html
+layout: layout.njk
 ---
 Workers Memorial Day Activities - Monday April 28
 =================================================

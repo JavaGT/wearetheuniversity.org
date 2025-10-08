@@ -1,9 +1,13 @@
 ---
 slug: qantas-lends-a-hand-to-assist-with-uc-exchange-to-adelaide
-title: "Qantas lends a hand to assist with UC exchange to Adelaide"
-date: 2011-03-09
-source-url: https://www.scoop.co.nz/stories/ED1103/S00047/qantas-lends-a-hand-to-assist-with-uc-exchange-to-adelaide.htm
+title: Qantas lends a hand to assist with UC exchange to Adelaide
+date: 2011-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00047/qantas-lends-a-hand-to-assist-with-uc-exchange-to-adelaide.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/09/qantas-lends-a-hand-to-assist-with-uc-exchange-to-adelaide/index.html
+layout: layout.njk
 ---
 Qantas lends a hand to assist with UC exchange to Adelaide
 ==========================================================

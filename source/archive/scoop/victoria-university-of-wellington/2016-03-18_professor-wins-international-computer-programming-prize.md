@@ -1,9 +1,13 @@
 ---
 slug: professor-wins-international-computer-programming-prize
-title: "Professor wins international computer programming prize"
-date: 2016-03-18
-source-url: https://www.scoop.co.nz/stories/SC1603/S00041/professor-wins-international-computer-programming-prize.htm
+title: Professor wins international computer programming prize
+date: 2016-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00041/professor-wins-international-computer-programming-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/03/18/professor-wins-international-computer-programming-prize/index.html
+layout: layout.njk
 ---
 Professor wins international computer programming prize
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwisaver-investors-desert-their-banks
-title: "Kiwisaver Investors Desert Their Banks"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/BU1306/S00196/kiwisaver-investors-desert-their-banks.htm
+title: Kiwisaver Investors Desert Their Banks
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00196/kiwisaver-investors-desert-their-banks.htm
 author: massey-university
+permalink: /archive/2013/06/07/kiwisaver-investors-desert-their-banks/index.html
+layout: layout.njk
 ---
 Kiwisaver Investors Desert Their Banks
 ======================================

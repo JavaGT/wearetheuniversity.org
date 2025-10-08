@@ -1,9 +1,12 @@
 ---
 slug: tragic-loss-of-air-force-lives
-title: "Tragic Loss of Air Force Lives"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/PA1005/S00140/tragic-loss-of-air-force-lives.htm
+title: Tragic Loss of Air Force Lives
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00140/tragic-loss-of-air-force-lives.htm
 author: new-zealand-national-party
+permalink: /archive/2010/05/07/tragic-loss-of-air-force-lives/index.html
+layout: layout.njk
 ---
 Tragic Loss of Air Force Lives
 ==============================

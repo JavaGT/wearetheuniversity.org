@@ -1,9 +1,12 @@
 ---
 slug: fake-psychiatrist-should-face-extradition
-title: "Fake psychiatrist should face extradition"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/PA0410/S00301/fake-psychiatrist-should-face-extradition.htm
+title: Fake psychiatrist should face extradition
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00301/fake-psychiatrist-should-face-extradition.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/18/fake-psychiatrist-should-face-extradition/index.html
+layout: layout.njk
 ---
 Fake psychiatrist should face extradition
 =========================================

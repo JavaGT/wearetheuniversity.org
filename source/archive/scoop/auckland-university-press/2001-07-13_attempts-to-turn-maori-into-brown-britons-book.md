@@ -1,9 +1,12 @@
 ---
 slug: attempts-to-turn-maori-into-brown-britons-book
-title: "Attempts To Turn Maori Into Brown Britons - Book"
-date: 2001-07-13
-source-url: https://www.scoop.co.nz/stories/CU0107/S00042/attempts-to-turn-maori-into-brown-britons-book.htm
+title: Attempts To Turn Maori Into Brown Britons - Book
+date: 2001-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0107/S00042/attempts-to-turn-maori-into-brown-britons-book.htm
 author: auckland-university-press
+permalink: /archive/2001/07/13/attempts-to-turn-maori-into-brown-britons-book/index.html
+layout: layout.njk
 ---
 Attempts To Turn Maori Into Brown Britons - Book
 ================================================

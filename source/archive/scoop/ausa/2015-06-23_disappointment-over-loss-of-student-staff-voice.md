@@ -1,9 +1,12 @@
 ---
 slug: disappointment-over-loss-of-student-staff-voice
-title: "Disappointment over loss of student, staff voice"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/ED1506/S00122/disappointment-over-loss-of-student-staff-voice.htm
+title: Disappointment over loss of student, staff voice
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00122/disappointment-over-loss-of-student-staff-voice.htm
 author: ausa
+permalink: /archive/2015/06/23/disappointment-over-loss-of-student-staff-voice/index.html
+layout: layout.njk
 ---
 Disappointment over loss of student, staff voice
 ================================================

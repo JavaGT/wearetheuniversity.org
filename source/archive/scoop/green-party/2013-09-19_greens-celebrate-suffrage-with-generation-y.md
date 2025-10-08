@@ -1,9 +1,12 @@
 ---
 slug: greens-celebrate-suffrage-with-generation-y
-title: "Greens celebrate suffrage with Generation Y"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PA1309/S00367/greens-celebrate-suffrage-with-generation-y.htm
+title: Greens celebrate suffrage with Generation Y
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00367/greens-celebrate-suffrage-with-generation-y.htm
 author: green-party
+permalink: /archive/2013/09/19/greens-celebrate-suffrage-with-generation-y/index.html
+layout: layout.njk
 ---
 Greens celebrate suffrage with Generation Y
 ===========================================

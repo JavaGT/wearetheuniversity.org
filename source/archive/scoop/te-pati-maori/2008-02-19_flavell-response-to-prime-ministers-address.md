@@ -1,9 +1,12 @@
 ---
 slug: flavell-response-to-prime-ministers-address
-title: "Flavell, Response to Prime Minister's Address"
-date: 2008-02-19
-source-url: https://www.scoop.co.nz/stories/PA0802/S00298/flavell-response-to-prime-ministers-address.htm
+title: Flavell, Response to Prime Minister's Address
+date: 2008-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00298/flavell-response-to-prime-ministers-address.htm
 author: te-pati-maori
+permalink: /archive/2008/02/19/flavell-response-to-prime-ministers-address/index.html
+layout: layout.njk
 ---
 Flavell, Response to Prime Minister's Address
 =============================================

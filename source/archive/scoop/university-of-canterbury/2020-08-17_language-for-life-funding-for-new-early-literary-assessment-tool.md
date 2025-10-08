@@ -1,9 +1,13 @@
 ---
 slug: language-for-life-funding-for-new-early-literary-assessment-tool
-title: "Language For Life: Funding For New Early Literary Assessment Tool"
-date: 2020-08-17
-source-url: https://www.scoop.co.nz/stories/ED2008/S00022/language-for-life-funding-for-new-early-literary-assessment-tool.htm
+title: 'Language For Life: Funding For New Early Literary Assessment Tool'
+date: 2020-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00022/language-for-life-funding-for-new-early-literary-assessment-tool.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/17/language-for-life-funding-for-new-early-literary-assessment-tool/index.html
+layout: layout.njk
 ---
 Language For Life: Funding For New Early Literary Assessment Tool
 =================================================================

@@ -1,9 +1,13 @@
 ---
 slug: arthurs-pass-mountain-named-after-canterbury-lecturer
-title: "Arthur's Pass  mountain named after Canterbury lecturer"
-date: 2015-03-06
-source-url: https://www.scoop.co.nz/stories/CU1503/S00134/arthurs-pass-mountain-named-after-canterbury-lecturer.htm
+title: Arthur's Pass  mountain named after Canterbury lecturer
+date: 2015-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1503/S00134/arthurs-pass-mountain-named-after-canterbury-lecturer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/06/arthurs-pass-mountain-named-after-canterbury-lecturer/index.html
+layout: layout.njk
 ---
 Arthur's Pass mountain named after Canterbury lecturer
 ======================================================

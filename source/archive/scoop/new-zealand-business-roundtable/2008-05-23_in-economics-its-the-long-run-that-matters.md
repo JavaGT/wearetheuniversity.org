@@ -1,9 +1,12 @@
 ---
 slug: in-economics-its-the-long-run-that-matters
-title: "In Economics It's the Long Run that Matters"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/BU0805/S00456/in-economics-its-the-long-run-that-matters.htm
+title: In Economics It's the Long Run that Matters
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00456/in-economics-its-the-long-run-that-matters.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/05/23/in-economics-its-the-long-run-that-matters/index.html
+layout: layout.njk
 ---
 In Economics It's the Long Run that Matters
 ===========================================

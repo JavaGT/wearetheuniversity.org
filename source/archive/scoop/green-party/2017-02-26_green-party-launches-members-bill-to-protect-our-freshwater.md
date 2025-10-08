@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-members-bill-to-protect-our-freshwater
-title: "Green Party launches Member’s Bill to protect our freshwater"
-date: 2017-02-26
-source-url: https://www.scoop.co.nz/stories/PA1702/S00356/green-party-launches-members-bill-to-protect-our-freshwater.htm
+title: Green Party launches Member’s Bill to protect our freshwater
+date: 2017-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00356/green-party-launches-members-bill-to-protect-our-freshwater.htm
 author: green-party
+permalink: >-
+  /archive/2017/02/26/green-party-launches-members-bill-to-protect-our-freshwater/index.html
+layout: layout.njk
 ---
 Green Party launches Member’s Bill to protect our freshwater
 ============================================================

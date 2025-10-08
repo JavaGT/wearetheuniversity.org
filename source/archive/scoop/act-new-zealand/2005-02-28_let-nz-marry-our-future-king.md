@@ -1,9 +1,11 @@
 ---
 slug: let-nz-marry-our-future-king
-title: "Let NZ marry our future king"
-date: 2005-02-28
+title: Let NZ marry our future king
+date: 2005-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00576/let-nz-marry-our-future-king.htm
 author: act-new-zealand
+permalink: /archive/2005/02/28/let-nz-marry-our-future-king/index.html
+layout: layout.njk
 ---
 Let NZ marry our future king
 ============================

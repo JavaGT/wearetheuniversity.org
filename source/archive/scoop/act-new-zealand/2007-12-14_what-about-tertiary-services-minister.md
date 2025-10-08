@@ -1,9 +1,12 @@
 ---
 slug: what-about-tertiary-services-minister
-title: "What About Tertiary Services, Minister?"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00335/what-about-tertiary-services-minister.htm
+title: What About Tertiary Services, Minister?
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00335/what-about-tertiary-services-minister.htm
 author: act-new-zealand
+permalink: /archive/2007/12/14/what-about-tertiary-services-minister/index.html
+layout: layout.njk
 ---
 What About Tertiary Services, Minister?
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-identifies-the-real-tertiary-ed-issues
-title: "Cullen identifies the real tertiary ed issues"
-date: 2006-02-01
-source-url: https://www.scoop.co.nz/stories/ED0602/S00002/cullen-identifies-the-real-tertiary-ed-issues.htm
+title: Cullen identifies the real tertiary ed issues
+date: 2006-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00002/cullen-identifies-the-real-tertiary-ed-issues.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/02/01/cullen-identifies-the-real-tertiary-ed-issues/index.html
+layout: layout.njk
 ---
 Cullen identifies the real tertiary ed issues
 =============================================

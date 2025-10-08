@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-252
-title: "Maxim Institute - real issues - No. 252"
-date: 2007-05-11
-source-url: https://www.scoop.co.nz/stories/PO0705/S00192/maxim-institute-real-issues-no-252.htm
+title: Maxim Institute - real issues - No. 252
+date: 2007-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00192/maxim-institute-real-issues-no-252.htm
 author: maxim-institute
+permalink: /archive/2007/05/11/maxim-institute-real-issues-no-252/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 252
 =======================================

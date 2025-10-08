@@ -1,9 +1,12 @@
 ---
 slug: worlds-top-thinkers-come-together
-title: "World’s top thinkers come together"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/SC0702/S00017/worlds-top-thinkers-come-together.htm
+title: World’s top thinkers come together
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00017/worlds-top-thinkers-come-together.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/09/worlds-top-thinkers-come-together/index.html
+layout: layout.njk
 ---
 World’s top thinkers come together
 ==================================

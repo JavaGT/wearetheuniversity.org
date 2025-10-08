@@ -1,9 +1,12 @@
 ---
 slug: govt-books-getting-worse-as-economy-slows
-title: "Govt books getting worse as economy slows"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/PA1411/S00116/govt-books-getting-worse-as-economy-slows.htm
+title: Govt books getting worse as economy slows
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00116/govt-books-getting-worse-as-economy-slows.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/07/govt-books-getting-worse-as-economy-slows/index.html
+layout: layout.njk
 ---
 Govt books getting worse as economy slows
 =========================================

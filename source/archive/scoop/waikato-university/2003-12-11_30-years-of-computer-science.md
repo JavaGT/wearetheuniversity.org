@@ -1,9 +1,11 @@
 ---
 slug: 30-years-of-computer-science
-title: "30 Years of Computer Science"
-date: 2003-12-11
+title: 30 Years of Computer Science
+date: 2003-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0312/S00052/30-years-of-computer-science.htm
 author: waikato-university
+permalink: /archive/2003/12/11/30-years-of-computer-science/index.html
+layout: layout.njk
 ---
 30 Years of Computer Science
 ============================

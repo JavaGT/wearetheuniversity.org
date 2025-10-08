@@ -1,9 +1,11 @@
 ---
 slug: rnzaf-nh90s-a-scandal
-title: "RNZAF NH90’s a Scandal"
-date: 2015-04-02
+title: RNZAF NH90’s a Scandal
+date: 2015-04-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1504/S00049/rnzaf-nh90s-a-scandal.htm
 author: new-zealand-first-party
+permalink: /archive/2015/04/02/rnzaf-nh90s-a-scandal/index.html
+layout: layout.njk
 ---
 RNZAF NH90’s a Scandal
 ======================

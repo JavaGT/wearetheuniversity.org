@@ -1,9 +1,12 @@
 ---
 slug: wi-pere-book-launch;-rongopai-marae-patutahi-gisborne
-title: "Wi Pere Book Launch; Rongopai Marae, Patutahi, Gisborne"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/PA1011/S00443/wi-pere-book-launch-rongopai-marae-patutahi-gisborne.htm
+title: Wi Pere Book Launch; Rongopai Marae, Patutahi, Gisborne
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00443/wi-pere-book-launch-rongopai-marae-patutahi-gisborne.htm
 author: te-pati-maori
+permalink: /archive/2010/11/22/wi-pere-book-launch/index.html
+layout: layout.njk
 ---
 Wi Pere Book Launch; Rongopai Marae, Patutahi, Gisborne
 =======================================================

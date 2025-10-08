@@ -1,9 +1,12 @@
 ---
 slug: school-of-medicine-inaugural-research-awards
-title: "School of Medicine inaugural Research Awards"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/GE0504/S00104/school-of-medicine-inaugural-research-awards.htm
+title: School of Medicine inaugural Research Awards
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00104/school-of-medicine-inaugural-research-awards.htm
 author: university-of-otago
+permalink: /archive/2005/04/29/school-of-medicine-inaugural-research-awards/index.html
+layout: layout.njk
 ---
 School of Medicine inaugural Research Awards
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-congratulates-democratic-party-of-japan
-title: "Labour congratulates Democratic Party of Japan"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/PA0908/S00448/labour-congratulates-democratic-party-of-japan.htm
+title: Labour congratulates Democratic Party of Japan
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00448/labour-congratulates-democratic-party-of-japan.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/31/labour-congratulates-democratic-party-of-japan/index.html
+layout: layout.njk
 ---
 Labour congratulates Democratic Party of Japan
 ==============================================

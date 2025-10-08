@@ -1,9 +1,13 @@
 ---
 slug: historic-pay-equity-settlement-for-school-librarians-and-science-technicians
-title: "Historic Pay Equity Settlement For School Librarians And Science Technicians"
-date: 2023-03-06
-source-url: https://www.scoop.co.nz/stories/PO2303/S00040/historic-pay-equity-settlement-for-school-librarians-and-science-technicians.htm
+title: Historic Pay Equity Settlement For School Librarians And Science Technicians
+date: 2023-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00040/historic-pay-equity-settlement-for-school-librarians-and-science-technicians.htm
 author: nzei
+permalink: >-
+  /archive/2023/03/06/historic-pay-equity-settlement-for-school-librarians-and-science-technicians/index.html
+layout: layout.njk
 ---
 Historic Pay Equity Settlement For School Librarians And Science Technicians
 ============================================================================

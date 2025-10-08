@@ -1,9 +1,12 @@
 ---
 slug: depreciation-changes-must-be-canned
-title: "Depreciation Changes Must Be Canned"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/PA0410/S00238/depreciation-changes-must-be-canned.htm
+title: Depreciation Changes Must Be Canned
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00238/depreciation-changes-must-be-canned.htm
 author: act-new-zealand
+permalink: /archive/2004/10/14/depreciation-changes-must-be-canned/index.html
+layout: layout.njk
 ---
 Depreciation Changes Must Be Canned
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: tinkering-will-not-fix-ncea-mess
-title: "Tinkering will not fix NCEA mess"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/PA0508/S00123/tinkering-will-not-fix-ncea-mess.htm
+title: Tinkering will not fix NCEA mess
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00123/tinkering-will-not-fix-ncea-mess.htm
 author: act-new-zealand
+permalink: /archive/2005/08/04/tinkering-will-not-fix-ncea-mess/index.html
+layout: layout.njk
 ---
 Tinkering will not fix NCEA mess
 ================================

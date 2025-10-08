@@ -1,9 +1,12 @@
 ---
 slug: māori-in-australia-reluctant-to-lose-ties-to-home
-title: "Māori in Australia reluctant to lose ties to home"
-date: 2007-09-29
-source-url: https://www.scoop.co.nz/stories/PA0709/S00527/maori-in-australia-reluctant-to-lose-ties-to-home.htm
+title: Māori in Australia reluctant to lose ties to home
+date: 2007-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00527/maori-in-australia-reluctant-to-lose-ties-to-home.htm
 author: te-pati-maori
+permalink: /archive/2007/09/29/m/index.html
+layout: layout.njk
 ---
 Māori in Australia reluctant to lose ties to home
 =================================================

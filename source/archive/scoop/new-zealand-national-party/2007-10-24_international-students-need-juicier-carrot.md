@@ -1,9 +1,12 @@
 ---
 slug: international-students-need-juicier-carrot
-title: "International students need juicier carrot"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/PA0710/S00430/international-students-need-juicier-carrot.htm
+title: International students need juicier carrot
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00430/international-students-need-juicier-carrot.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/24/international-students-need-juicier-carrot/index.html
+layout: layout.njk
 ---
 International students need juicier carrot
 ==========================================

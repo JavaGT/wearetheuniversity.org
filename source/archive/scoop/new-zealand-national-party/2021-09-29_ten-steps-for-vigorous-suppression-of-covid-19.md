@@ -1,9 +1,12 @@
 ---
 slug: ten-steps-for-vigorous-suppression-of-covid-19
-title: "Ten Steps For Vigorous Suppression Of Covid-19"
-date: 2021-09-29
-source-url: https://www.scoop.co.nz/stories/PA2109/S00263/ten-steps-for-vigorous-suppression-of-covid-19.htm
+title: Ten Steps For Vigorous Suppression Of Covid-19
+date: 2021-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00263/ten-steps-for-vigorous-suppression-of-covid-19.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/29/ten-steps-for-vigorous-suppression-of-covid-19/index.html
+layout: layout.njk
 ---
 Ten Steps For Vigorous Suppression Of Covid-19
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: pm-accidentally-endorses-partnership-school-model
-title: "PM Accidentally Endorses Partnership School Model"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/PA1712/S00026/pm-accidentally-endorses-partnership-school-model.htm
+title: PM Accidentally Endorses Partnership School Model
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00026/pm-accidentally-endorses-partnership-school-model.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/12/04/pm-accidentally-endorses-partnership-school-model/index.html
+layout: layout.njk
 ---
 PM Accidentally Endorses Partnership School Model
 =================================================

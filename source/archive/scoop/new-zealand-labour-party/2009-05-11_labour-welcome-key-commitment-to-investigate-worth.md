@@ -1,9 +1,13 @@
 ---
 slug: labour-welcome-key-commitment-to-investigate-worth
-title: "Labour welcome Key commitment to investigate Worth"
-date: 2009-05-11
-source-url: https://www.scoop.co.nz/stories/PA0905/S00184/labour-welcome-key-commitment-to-investigate-worth.htm
+title: Labour welcome Key commitment to investigate Worth
+date: 2009-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00184/labour-welcome-key-commitment-to-investigate-worth.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/05/11/labour-welcome-key-commitment-to-investigate-worth/index.html
+layout: layout.njk
 ---
 Labour welcome Key commitment to investigate Worth
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples;-agm-te-puna-whaiora
-title: "Dr Pita Sharples; AGM: Te Puna Whaiora"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PA0610/S00516/dr-pita-sharples-agm-te-puna-whaiora.htm
+title: 'Dr Pita Sharples; AGM: Te Puna Whaiora'
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00516/dr-pita-sharples-agm-te-puna-whaiora.htm
 author: te-pati-maori
+permalink: /archive/2006/10/27/dr-pita-sharples/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples; AGM: Te Puna Whaiora
 ======================================

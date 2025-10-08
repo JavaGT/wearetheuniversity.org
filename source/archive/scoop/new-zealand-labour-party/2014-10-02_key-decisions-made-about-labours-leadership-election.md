@@ -1,9 +1,13 @@
 ---
 slug: key-decisions-made-about-labours-leadership-election
-title: "Key Decisions Made About Labour’s Leadership Election"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/PO1410/S00018/key-decisions-made-about-labours-leadership-election.htm
+title: Key Decisions Made About Labour’s Leadership Election
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00018/key-decisions-made-about-labours-leadership-election.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/10/02/key-decisions-made-about-labours-leadership-election/index.html
+layout: layout.njk
 ---
 Key Decisions Made About Labour’s Leadership Election
 =====================================================

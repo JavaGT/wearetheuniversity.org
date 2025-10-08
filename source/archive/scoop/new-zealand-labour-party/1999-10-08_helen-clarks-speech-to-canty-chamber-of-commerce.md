@@ -1,9 +1,13 @@
 ---
 slug: helen-clarks-speech-to-canty-chamber-of-commerce
-title: "Helen Clark's speech to Cant'y Chamber of Commerce"
-date: 1999-10-08
-source-url: https://www.scoop.co.nz/stories/PA9910/S00168/helen-clarks-speech-to-canty-chamber-of-commerce.htm
+title: Helen Clark's speech to Cant'y Chamber of Commerce
+date: 1999-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00168/helen-clarks-speech-to-canty-chamber-of-commerce.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/10/08/helen-clarks-speech-to-canty-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Helen Clark's speech to Cant'y Chamber of Commerce
 ==================================================

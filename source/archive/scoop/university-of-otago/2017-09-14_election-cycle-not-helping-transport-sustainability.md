@@ -1,9 +1,13 @@
 ---
 slug: election-cycle-not-helping-transport-sustainability
-title: "Election cycle not helping transport sustainability"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/PO1709/S00260/election-cycle-not-helping-transport-sustainability.htm
+title: Election cycle not helping transport sustainability
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00260/election-cycle-not-helping-transport-sustainability.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/09/14/election-cycle-not-helping-transport-sustainability/index.html
+layout: layout.njk
 ---
 Election cycle not helping transport sustainability
 ===================================================

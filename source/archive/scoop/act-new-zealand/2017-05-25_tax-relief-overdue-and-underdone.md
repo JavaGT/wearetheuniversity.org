@@ -1,9 +1,12 @@
 ---
 slug: tax-relief-overdue-and-underdone
-title: "Tax relief overdue and underdone"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/PA1705/S00530/tax-relief-overdue-and-underdone.htm
+title: Tax relief overdue and underdone
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00530/tax-relief-overdue-and-underdone.htm
 author: act-new-zealand
+permalink: /archive/2017/05/25/tax-relief-overdue-and-underdone/index.html
+layout: layout.njk
 ---
 Tax relief overdue and underdone
 ================================

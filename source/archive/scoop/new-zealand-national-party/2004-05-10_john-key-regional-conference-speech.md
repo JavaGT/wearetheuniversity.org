@@ -1,9 +1,12 @@
 ---
 slug: john-key-regional-conference-speech
-title: "John Key Regional Conference Speech:"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00154/john-key-regional-conference-speech.htm
+title: 'John Key Regional Conference Speech:'
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00154/john-key-regional-conference-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/10/john-key-regional-conference-speech/index.html
+layout: layout.njk
 ---
 John Key Regional Conference Speech:
 ====================================

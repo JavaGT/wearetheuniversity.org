@@ -1,9 +1,13 @@
 ---
 slug: china-expert-doing-business-with-china-starts-in-schools
-title: "China expert: Doing business with China starts in schools"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/ED1310/S00081/china-expert-doing-business-with-china-starts-in-schools.htm
+title: 'China expert: Doing business with China starts in schools'
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00081/china-expert-doing-business-with-china-starts-in-schools.htm
 author: massey-university
+permalink: >-
+  /archive/2013/10/10/china-expert-doing-business-with-china-starts-in-schools/index.html
+layout: layout.njk
 ---
 China expert: Doing business with China starts in schools
 =========================================================

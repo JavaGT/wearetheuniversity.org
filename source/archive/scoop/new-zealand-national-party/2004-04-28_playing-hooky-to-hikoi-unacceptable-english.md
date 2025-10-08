@@ -1,9 +1,12 @@
 ---
 slug: playing-hooky-to-hikoi-unacceptable-english
-title: "Playing hooky to hikoi unacceptable - English"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/PA0404/S00455/playing-hooky-to-hikoi-unacceptable-english.htm
+title: Playing hooky to hikoi unacceptable - English
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00455/playing-hooky-to-hikoi-unacceptable-english.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/28/playing-hooky-to-hikoi-unacceptable-english/index.html
+layout: layout.njk
 ---
 Playing hooky to hikoi unacceptable - English
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: older-workers-deserve-ability-to-up-skill
-title: "Older workers deserve ability to up-skill"
-date: 2011-04-17
-source-url: https://www.scoop.co.nz/stories/PA1104/S00368/older-workers-deserve-ability-to-up-skill.htm
+title: Older workers deserve ability to up-skill
+date: 2011-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00368/older-workers-deserve-ability-to-up-skill.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/17/older-workers-deserve-ability-to-up-skill/index.html
+layout: layout.njk
 ---
 Older workers deserve ability to up-skill
 =========================================

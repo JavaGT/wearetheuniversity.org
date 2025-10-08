@@ -1,9 +1,12 @@
 ---
 slug: post-separation-parenting-what-do-we-know
-title: "Post Separation Parenting – What Do We Know?"
-date: 2007-11-02
-source-url: https://www.scoop.co.nz/stories/PO0711/S00038/post-separation-parenting-what-do-we-know.htm
+title: Post Separation Parenting – What Do We Know?
+date: 2007-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00038/post-separation-parenting-what-do-we-know.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/02/post-separation-parenting-what-do-we-know/index.html
+layout: layout.njk
 ---
 Post Separation Parenting – What Do We Know?
 ============================================

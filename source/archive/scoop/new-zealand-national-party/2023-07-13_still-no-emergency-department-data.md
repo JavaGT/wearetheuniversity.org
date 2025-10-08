@@ -1,9 +1,12 @@
 ---
 slug: still-no-emergency-department-data
-title: "Still No Emergency Department Data"
-date: 2023-07-13
-source-url: https://www.scoop.co.nz/stories/PA2307/S00071/still-no-emergency-department-data.htm
+title: Still No Emergency Department Data
+date: 2023-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00071/still-no-emergency-department-data.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/13/still-no-emergency-department-data/index.html
+layout: layout.njk
 ---
 Still No Emergency Department Data
 ==================================

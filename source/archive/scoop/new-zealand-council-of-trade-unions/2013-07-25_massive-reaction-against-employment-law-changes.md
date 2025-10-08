@@ -1,9 +1,12 @@
 ---
 slug: massive-reaction-against-employment-law-changes
-title: "Massive reaction against employment law changes"
-date: 2013-07-25
-source-url: https://www.scoop.co.nz/stories/PO1307/S00319/massive-reaction-against-employment-law-changes.htm
+title: Massive reaction against employment law changes
+date: 2013-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00319/massive-reaction-against-employment-law-changes.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/07/25/massive-reaction-against-employment-law-changes/index.html
+layout: layout.njk
 ---
 Massive reaction against employment law changes
 ===============================================

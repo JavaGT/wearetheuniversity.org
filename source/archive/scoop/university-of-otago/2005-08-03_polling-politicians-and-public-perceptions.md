@@ -1,9 +1,12 @@
 ---
 slug: polling-politicians-and-public-perceptions
-title: "Polling, Politicians And Public Perceptions"
-date: 2005-08-03
-source-url: https://www.scoop.co.nz/stories/PO0508/S00045/polling-politicians-and-public-perceptions.htm
+title: Polling, Politicians And Public Perceptions
+date: 2005-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0508/S00045/polling-politicians-and-public-perceptions.htm
 author: university-of-otago
+permalink: /archive/2005/08/03/polling-politicians-and-public-perceptions/index.html
+layout: layout.njk
 ---
 Polling, Politicians And Public Perceptions
 ===========================================

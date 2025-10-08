@@ -1,9 +1,13 @@
 ---
 slug: school-driving-lessons-benefit-students-in-many-ways
-title: "School driving lessons benefit students in many ways"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/ED1708/S00035/school-driving-lessons-benefit-students-in-many-ways.htm
+title: School driving lessons benefit students in many ways
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00035/school-driving-lessons-benefit-students-in-many-ways.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/10/school-driving-lessons-benefit-students-in-many-ways/index.html
+layout: layout.njk
 ---
 School driving lessons benefit students in many ways
 ====================================================

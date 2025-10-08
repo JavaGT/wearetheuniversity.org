@@ -1,9 +1,12 @@
 ---
 slug: blueprint-highlights-governments-inaction
-title: "Blueprint Highlights Government’s Inaction"
-date: 2012-04-18
-source-url: https://www.scoop.co.nz/stories/PA1204/S00218/blueprint-highlights-governments-inaction.htm
+title: Blueprint Highlights Government’s Inaction
+date: 2012-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00218/blueprint-highlights-governments-inaction.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/18/blueprint-highlights-governments-inaction/index.html
+layout: layout.njk
 ---
 Blueprint Highlights Government’s Inaction
 ==========================================

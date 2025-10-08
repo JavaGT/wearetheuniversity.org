@@ -1,9 +1,12 @@
 ---
 slug: pay-equity-full-picture-of-underpaid-women
-title: "Pay equity – full picture of underpaid women"
-date: 2009-12-14
-source-url: https://www.scoop.co.nz/stories/PO0912/S00180/pay-equity-full-picture-of-underpaid-women.htm
+title: Pay equity – full picture of underpaid women
+date: 2009-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00180/pay-equity-full-picture-of-underpaid-women.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/12/14/pay-equity-full-picture-of-underpaid-women/index.html
+layout: layout.njk
 ---
 Pay equity – full picture of underpaid women
 ============================================

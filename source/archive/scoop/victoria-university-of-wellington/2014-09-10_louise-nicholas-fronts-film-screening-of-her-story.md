@@ -1,9 +1,13 @@
 ---
 slug: louise-nicholas-fronts-film-screening-of-her-story
-title: "Louise Nicholas fronts film screening of her story"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/AK1409/S00235/louise-nicholas-fronts-film-screening-of-her-story.htm
+title: Louise Nicholas fronts film screening of her story
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00235/louise-nicholas-fronts-film-screening-of-her-story.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/10/louise-nicholas-fronts-film-screening-of-her-story/index.html
+layout: layout.njk
 ---
 Louise Nicholas fronts film screening of her story
 ==================================================

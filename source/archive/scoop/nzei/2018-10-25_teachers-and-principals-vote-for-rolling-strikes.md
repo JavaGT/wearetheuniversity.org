@@ -1,9 +1,13 @@
 ---
 slug: teachers-and-principals-vote-for-rolling-strikes
-title: "Teachers and principals vote for rolling strikes"
-date: 2018-10-25
-source-url: https://www.scoop.co.nz/stories/PO1810/S00363/teachers-and-principals-vote-for-rolling-strikes.htm
+title: Teachers and principals vote for rolling strikes
+date: 2018-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00363/teachers-and-principals-vote-for-rolling-strikes.htm
 author: nzei
+permalink: >-
+  /archive/2018/10/25/teachers-and-principals-vote-for-rolling-strikes/index.html
+layout: layout.njk
 ---
 Teachers and principals vote for rolling strikes
 ================================================

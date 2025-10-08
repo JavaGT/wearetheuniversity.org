@@ -1,9 +1,12 @@
 ---
 slug: cost-key-to-accessing-primary-health-care-in-nz
-title: "Cost key to accessing primary health care in NZ"
-date: 2009-07-03
-source-url: https://www.scoop.co.nz/stories/GE0907/S00007/cost-key-to-accessing-primary-health-care-in-nz.htm
+title: Cost key to accessing primary health care in NZ
+date: 2009-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0907/S00007/cost-key-to-accessing-primary-health-care-in-nz.htm
 author: university-of-otago
+permalink: /archive/2009/07/03/cost-key-to-accessing-primary-health-care-in-nz/index.html
+layout: layout.njk
 ---
 Cost key to accessing primary health care in NZ
 ===============================================

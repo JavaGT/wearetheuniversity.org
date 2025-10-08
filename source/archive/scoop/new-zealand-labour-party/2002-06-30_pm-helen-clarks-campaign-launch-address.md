@@ -1,9 +1,12 @@
 ---
 slug: pm-helen-clarks-campaign-launch-address
-title: "PM Helen Clark's Campaign Launch Address"
-date: 2002-06-30
-source-url: https://www.scoop.co.nz/stories/PA0206/S00557/pm-helen-clarks-campaign-launch-address.htm
+title: PM Helen Clark's Campaign Launch Address
+date: 2002-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00557/pm-helen-clarks-campaign-launch-address.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/06/30/pm-helen-clarks-campaign-launch-address/index.html
+layout: layout.njk
 ---
 PM Helen Clark's Campaign Launch Address
 ========================================

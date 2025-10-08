@@ -1,9 +1,12 @@
 ---
 slug: health-checks-dont-go-far-enough
-title: "Health checks don’t go far enough"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/ED0708/S00064/health-checks-dont-go-far-enough.htm
+title: Health checks don’t go far enough
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00064/health-checks-dont-go-far-enough.htm
 author: massey-university
+permalink: /archive/2007/08/22/health-checks-dont-go-far-enough/index.html
+layout: layout.njk
 ---
 Health checks don’t go far enough
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: schools-refuse-to-compromise-on-quality-learning
-title: "Schools Refuse to Compromise on Quality Learning"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/PO1104/S00249/schools-refuse-to-compromise-on-quality-learning.htm
+title: Schools Refuse to Compromise on Quality Learning
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00249/schools-refuse-to-compromise-on-quality-learning.htm
 author: nzei
+permalink: >-
+  /archive/2011/04/19/schools-refuse-to-compromise-on-quality-learning/index.html
+layout: layout.njk
 ---
 Schools Refuse to Compromise on Quality Learning
 ================================================

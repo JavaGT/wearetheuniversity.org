@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduands-end-the-year-on-a-high-note
-title: "Victoria graduands end the year on a high note"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/ED1312/S00076/victoria-graduands-end-the-year-on-a-high-note.htm
+title: Victoria graduands end the year on a high note
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00076/victoria-graduands-end-the-year-on-a-high-note.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/11/victoria-graduands-end-the-year-on-a-high-note/index.html
+layout: layout.njk
 ---
 Victoria graduands end the year on a high note
 ==============================================

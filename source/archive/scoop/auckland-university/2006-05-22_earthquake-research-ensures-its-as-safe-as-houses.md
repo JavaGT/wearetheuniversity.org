@@ -1,9 +1,13 @@
 ---
 slug: earthquake-research-ensures-its-as-safe-as-houses
-title: "Earthquake research ensures it’s as safe as houses"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/ED0605/S00078/earthquake-research-ensures-its-as-safe-as-houses.htm
+title: Earthquake research ensures it’s as safe as houses
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00078/earthquake-research-ensures-its-as-safe-as-houses.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/05/22/earthquake-research-ensures-its-as-safe-as-houses/index.html
+layout: layout.njk
 ---
 Earthquake research ensures it’s as safe as houses
 ==================================================

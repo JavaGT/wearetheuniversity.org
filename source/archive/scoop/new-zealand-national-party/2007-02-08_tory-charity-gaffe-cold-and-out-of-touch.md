@@ -1,9 +1,12 @@
 ---
 slug: tory-charity-gaffe-cold-and-out-of-touch
-title: "‘Tory charity’ gaffe cold and out of touch"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/PA0702/S00096/tory-charity-gaffe-cold-and-out-of-touch.htm
+title: ‘Tory charity’ gaffe cold and out of touch
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00096/tory-charity-gaffe-cold-and-out-of-touch.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/08/tory-charity-gaffe-cold-and-out-of-touch/index.html
+layout: layout.njk
 ---
 ‘Tory charity’ gaffe cold and out of touch
 ==========================================

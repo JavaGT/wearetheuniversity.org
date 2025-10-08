@@ -1,9 +1,13 @@
 ---
 slug: uc-study-supports-use-of-nutrients-in-treatment-of-pms
-title: "UC study supports use of nutrients in treatment of PMS"
-date: 2020-02-10
-source-url: https://www.scoop.co.nz/stories/GE2002/S00025/uc-study-supports-use-of-nutrients-in-treatment-of-pms.htm
+title: UC study supports use of nutrients in treatment of PMS
+date: 2020-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2002/S00025/uc-study-supports-use-of-nutrients-in-treatment-of-pms.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/02/10/uc-study-supports-use-of-nutrients-in-treatment-of-pms/index.html
+layout: layout.njk
 ---
 UC study supports use of nutrients in treatment of PMS
 ======================================================

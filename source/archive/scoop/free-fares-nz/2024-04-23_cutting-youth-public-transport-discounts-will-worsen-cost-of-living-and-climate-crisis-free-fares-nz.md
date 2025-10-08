@@ -1,9 +1,16 @@
 ---
-slug: cutting-youth-public-transport-discounts-will-worsen-cost-of-living-and-climate-crisis-free-fares-nz
-title: "Cutting Youth Public Transport Discounts Will Worsen Cost Of Living And Climate Crisis - Free Fares NZ"
-date: 2024-04-23
-source-url: https://www.scoop.co.nz/stories/AK2404/S00587/cutting-youth-public-transport-discounts-will-worsen-cost-of-living-and-climate-crisis-free-fares-nz.htm
+slug: >-
+  cutting-youth-public-transport-discounts-will-worsen-cost-of-living-and-climate-crisis-free-fares-nz
+title: >-
+  Cutting Youth Public Transport Discounts Will Worsen Cost Of Living And
+  Climate Crisis - Free Fares NZ
+date: 2024-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2404/S00587/cutting-youth-public-transport-discounts-will-worsen-cost-of-living-and-climate-crisis-free-fares-nz.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2024/04/23/cutting-youth-public-transport-discounts-will-worsen-cost-of-living-and-climate-crisis-free-fares-nz/index.html
+layout: layout.njk
 ---
 Cutting Youth Public Transport Discounts Will Worsen Cost Of Living And Climate Crisis - Free Fares NZ
 ======================================================================================================

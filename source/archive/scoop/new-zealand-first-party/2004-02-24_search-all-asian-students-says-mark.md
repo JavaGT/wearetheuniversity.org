@@ -1,9 +1,12 @@
 ---
 slug: search-all-asian-students-says-mark
-title: "Search All Asian Students Says Mark"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/PA0402/S00409/search-all-asian-students-says-mark.htm
+title: Search All Asian Students Says Mark
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00409/search-all-asian-students-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2004/02/24/search-all-asian-students-says-mark/index.html
+layout: layout.njk
 ---
 Search All Asian Students Says Mark
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: government-listens-to-students-better-fees-news
-title: "Government listens to students: better fees news"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/ED0308/S00078/government-listens-to-students-better-fees-news.htm
+title: 'Government listens to students: better fees news'
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00078/government-listens-to-students-better-fees-news.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/08/21/government-listens-to-students-better-fees-news/index.html
+layout: layout.njk
 ---
 Government listens to students: better fees news
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: campus-communists-represent-students
-title: "Campus Communists Represent Students?"
-date: 2000-04-23
-source-url: https://www.scoop.co.nz/stories/ED0004/S00027/campus-communists-represent-students.htm
+title: Campus Communists Represent Students?
+date: 2000-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00027/campus-communists-represent-students.htm
 author: prebble-s-rebels
+permalink: /archive/2000/04/23/campus-communists-represent-students/index.html
+layout: layout.njk
 ---
 Campus Communists Represent Students?
 =====================================

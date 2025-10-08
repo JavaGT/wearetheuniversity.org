@@ -1,9 +1,13 @@
 ---
 slug: the-impact-of-false-recall-on-eyewitness-accounts
-title: "The Impact Of False Recall On Eyewitness Accounts"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/GE0808/S00083/the-impact-of-false-recall-on-eyewitness-accounts.htm
+title: The Impact Of False Recall On Eyewitness Accounts
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00083/the-impact-of-false-recall-on-eyewitness-accounts.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/08/15/the-impact-of-false-recall-on-eyewitness-accounts/index.html
+layout: layout.njk
 ---
 The Impact Of False Recall On Eyewitness Accounts
 =================================================

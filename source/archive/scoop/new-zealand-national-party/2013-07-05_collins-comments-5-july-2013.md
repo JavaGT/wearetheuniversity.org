@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-5-july-2013
-title: "Collins Comments 5 July 2013"
-date: 2013-07-05
+title: Collins Comments 5 July 2013
+date: 2013-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1307/S00104/collins-comments-5-july-2013.htm
 author: new-zealand-national-party
+permalink: /archive/2013/07/05/collins-comments-5-july-2013/index.html
+layout: layout.njk
 ---
 Collins Comments 5 July 2013
 ============================

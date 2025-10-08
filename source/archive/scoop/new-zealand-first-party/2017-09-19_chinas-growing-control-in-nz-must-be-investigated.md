@@ -1,9 +1,13 @@
 ---
 slug: chinas-growing-control-in-nz-must-be-investigated
-title: "China’s Growing Control in NZ Must Be Investigated"
-date: 2017-09-19
-source-url: https://www.scoop.co.nz/stories/PA1709/S00237/chinas-growing-control-in-nz-must-be-investigated.htm
+title: China’s Growing Control in NZ Must Be Investigated
+date: 2017-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00237/chinas-growing-control-in-nz-must-be-investigated.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/19/chinas-growing-control-in-nz-must-be-investigated/index.html
+layout: layout.njk
 ---
 China’s Growing Control in NZ Must Be Investigated
 ==================================================

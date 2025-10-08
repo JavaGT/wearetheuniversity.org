@@ -1,9 +1,11 @@
 ---
 slug: first-for-dance-student
-title: "First for Dance Student"
-date: 2005-10-25
+title: First for Dance Student
+date: 2005-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0510/S00073/first-for-dance-student.htm
 author: aut-university
+permalink: /archive/2005/10/25/first-for-dance-student/index.html
+layout: layout.njk
 ---
 First for Dance Student
 =======================

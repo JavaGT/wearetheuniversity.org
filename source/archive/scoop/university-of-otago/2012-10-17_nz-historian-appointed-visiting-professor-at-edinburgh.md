@@ -1,9 +1,13 @@
 ---
 slug: nz-historian-appointed-visiting-professor-at-edinburgh
-title: "NZ Historian Appointed Visiting Professor at Edinburgh"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/ED1210/S00102/nz-historian-appointed-visiting-professor-at-edinburgh.htm
+title: NZ Historian Appointed Visiting Professor at Edinburgh
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00102/nz-historian-appointed-visiting-professor-at-edinburgh.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/17/nz-historian-appointed-visiting-professor-at-edinburgh/index.html
+layout: layout.njk
 ---
 NZ Historian Appointed Visiting Professor at Edinburgh
 ======================================================

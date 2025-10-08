@@ -1,8 +1,12 @@
 ---
 slug: are-microbes-the-key-to-geographical-differences-in-wine
-title: "Are microbes the key to geographical differences in wine?"
-date: 2015-09-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/are-microbes-the-key-to-geographical-differences-in-wine.html
+title: Are microbes the key to geographical differences in wine?
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/are-microbes-the-key-to-geographical-differences-in-wine.html
+permalink: >-
+  /archive/2015/09/25/are-microbes-the-key-to-geographical-differences-in-wine/index.html
+layout: layout.njk
 ---
 Are microbes the key to geographical differences in wine?
 =========================================================

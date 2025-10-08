@@ -1,9 +1,13 @@
 ---
 slug: maori-party-advocacy-of-bzp-party-pills-is-wacky
-title: "Maori Party advocacy of BZP party pills is wacky"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/PA0803/S00350/maori-party-advocacy-of-bzp-party-pills-is-wacky.htm
+title: Maori Party advocacy of BZP party pills is wacky
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00350/maori-party-advocacy-of-bzp-party-pills-is-wacky.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/03/20/maori-party-advocacy-of-bzp-party-pills-is-wacky/index.html
+layout: layout.njk
 ---
 Maori Party advocacy of BZP party pills is wacky
 ================================================

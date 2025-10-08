@@ -1,9 +1,13 @@
 ---
 slug: an-engineered-win-at-the-albany-lecturer-of-the-year-awards
-title: "An engineered win at the Albany Lecturer of the Year awards"
-date: 2015-11-13
-source-url: https://www.scoop.co.nz/stories/ED1511/S00078/an-engineered-win-at-the-albany-lecturer-of-the-year-awards.htm
+title: An engineered win at the Albany Lecturer of the Year awards
+date: 2015-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00078/an-engineered-win-at-the-albany-lecturer-of-the-year-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/13/an-engineered-win-at-the-albany-lecturer-of-the-year-awards/index.html
+layout: layout.njk
 ---
 An engineered win at the Albany Lecturer of the Year awards
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: what-antarcticas-past-reveals-about-future-climate
-title: "What Antarctica’s past reveals about future climate"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/SC1410/S00070/what-antarcticas-past-reveals-about-future-climate.htm
+title: What Antarctica’s past reveals about future climate
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00070/what-antarcticas-past-reveals-about-future-climate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/10/21/what-antarcticas-past-reveals-about-future-climate/index.html
+layout: layout.njk
 ---
 What Antarctica’s past reveals about future climate
 ===================================================

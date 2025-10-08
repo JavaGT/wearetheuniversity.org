@@ -1,9 +1,13 @@
 ---
 slug: $10m-funding-boost-for-uc-research-into-curbing-carbon
-title: "$10m Funding Boost For UC Research Into Curbing Carbon"
-date: 2024-09-13
-source-url: https://www.scoop.co.nz/stories/SC2409/S00004/10m-funding-boost-for-uc-research-into-curbing-carbon.htm
+title: $10m Funding Boost For UC Research Into Curbing Carbon
+date: 2024-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2409/S00004/10m-funding-boost-for-uc-research-into-curbing-carbon.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/13/10m-funding-boost-for-uc-research-into-curbing-carbon/index.html
+layout: layout.njk
 ---
 $10m Funding Boost For UC Research Into Curbing Carbon
 ======================================================

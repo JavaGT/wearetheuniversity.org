@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-new-qualifications-framework
-title: "Students Welcome New Qualifications Framework"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/ED1007/S00023/students-welcome-new-qualifications-framework.htm
+title: Students Welcome New Qualifications Framework
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00023/students-welcome-new-qualifications-framework.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/07/05/students-welcome-new-qualifications-framework/index.html
+layout: layout.njk
 ---
 Students Welcome New Qualifications Framework
 =============================================

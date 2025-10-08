@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-christchurch-cathedral-decision
-title: "Labour welcomes Christchurch Cathedral decision"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/PA1211/S00298/labour-welcomes-christchurch-cathedral-decision.htm
+title: Labour welcomes Christchurch Cathedral decision
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00298/labour-welcomes-christchurch-cathedral-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/15/labour-welcomes-christchurch-cathedral-decision/index.html
+layout: layout.njk
 ---
 Labour welcomes Christchurch Cathedral decision
 ===============================================

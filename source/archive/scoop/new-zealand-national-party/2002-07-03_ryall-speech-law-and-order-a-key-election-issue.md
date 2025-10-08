@@ -1,9 +1,12 @@
 ---
 slug: ryall-speech-law-and-order-a-key-election-issue
-title: "Ryall Speech: Law and Order - A Key Election Issue"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00095/ryall-speech-law-and-order-a-key-election-issue.htm
+title: 'Ryall Speech: Law and Order - A Key Election Issue'
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00095/ryall-speech-law-and-order-a-key-election-issue.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/03/ryall-speech-law-and-order-a-key-election-issue/index.html
+layout: layout.njk
 ---
 Ryall Speech: Law and Order - A Key Election Issue
 ==================================================

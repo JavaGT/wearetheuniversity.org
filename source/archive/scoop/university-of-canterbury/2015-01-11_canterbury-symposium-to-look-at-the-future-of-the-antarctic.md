@@ -1,9 +1,13 @@
 ---
 slug: canterbury-symposium-to-look-at-the-future-of-the-antarctic
-title: "Canterbury symposium to look at the future of the Antarctic"
-date: 2015-01-11
-source-url: https://www.scoop.co.nz/stories/PO1501/S00027/canterbury-symposium-to-look-at-the-future-of-the-antarctic.htm
+title: Canterbury symposium to look at the future of the Antarctic
+date: 2015-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00027/canterbury-symposium-to-look-at-the-future-of-the-antarctic.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/11/canterbury-symposium-to-look-at-the-future-of-the-antarctic/index.html
+layout: layout.njk
 ---
 Canterbury symposium to look at the future of the Antarctic
 ===========================================================

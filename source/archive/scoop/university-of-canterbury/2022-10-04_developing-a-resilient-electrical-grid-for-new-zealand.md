@@ -1,9 +1,13 @@
 ---
 slug: developing-a-resilient-electrical-grid-for-new-zealand
-title: "Developing A Resilient Electrical Grid For New Zealand"
-date: 2022-10-04
-source-url: https://www.scoop.co.nz/stories/SC2210/S00005/developing-a-resilient-electrical-grid-for-new-zealand.htm
+title: Developing A Resilient Electrical Grid For New Zealand
+date: 2022-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00005/developing-a-resilient-electrical-grid-for-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/04/developing-a-resilient-electrical-grid-for-new-zealand/index.html
+layout: layout.njk
 ---
 Developing A Resilient Electrical Grid For New Zealand
 ======================================================

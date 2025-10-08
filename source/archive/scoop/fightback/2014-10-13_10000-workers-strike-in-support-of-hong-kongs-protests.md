@@ -1,9 +1,13 @@
 ---
 slug: 10000-workers-strike-in-support-of-hong-kongs-protests
-title: "10,000 Workers Strike in Support of Hong Kong’s Protests"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/HL1410/S00056/10000-workers-strike-in-support-of-hong-kongs-protests.htm
+title: 10,000 Workers Strike in Support of Hong Kong’s Protests
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1410/S00056/10000-workers-strike-in-support-of-hong-kongs-protests.htm
 author: fightback
+permalink: >-
+  /archive/2014/10/13/10000-workers-strike-in-support-of-hong-kongs-protests/index.html
+layout: layout.njk
 ---
 10,000 Workers Strike in Support of Hong Kong’s Protests
 ========================================================

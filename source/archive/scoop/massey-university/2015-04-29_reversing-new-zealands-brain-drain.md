@@ -1,9 +1,12 @@
 ---
 slug: reversing-new-zealands-brain-drain
-title: "Reversing New Zealand’s brain drain"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/BU1504/S00787/reversing-new-zealands-brain-drain.htm
+title: Reversing New Zealand’s brain drain
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1504/S00787/reversing-new-zealands-brain-drain.htm
 author: massey-university
+permalink: /archive/2015/04/29/reversing-new-zealands-brain-drain/index.html
+layout: layout.njk
 ---
 Reversing New Zealand’s brain drain
 ===================================

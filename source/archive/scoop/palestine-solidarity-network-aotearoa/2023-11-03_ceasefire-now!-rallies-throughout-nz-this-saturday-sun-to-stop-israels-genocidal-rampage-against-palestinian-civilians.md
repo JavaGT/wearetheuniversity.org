@@ -1,9 +1,15 @@
 ---
-slug: ceasefire-now!-rallies-throughout-nz-this-saturday-sun-to-stop-israels-genocidal-rampage-against-palestinian-civilians
-title: "Ceasefire Now! Rallies Throughout NZ This Saturday/Sun To Stop Israel’s Genocidal Rampage Against Palestinian Civilians"
-date: 2023-11-03
-source-url: https://www.scoop.co.nz/stories/AK2311/S00049/ceasefire-now-rallies-throughout-nz-this-saturdaysun-to-stop-israels-genocidal-rampage-against-palestinian-civilians.htm
+slug: >-
+  ceasefire-now!-rallies-throughout-nz-this-saturday-sun-to-stop-israels-genocidal-rampage-against-palestinian-civilians
+title: >-
+  Ceasefire Now! Rallies Throughout NZ This Saturday/Sun To Stop Israel’s
+  Genocidal Rampage Against Palestinian Civilians
+date: 2023-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2311/S00049/ceasefire-now-rallies-throughout-nz-this-saturdaysun-to-stop-israels-genocidal-rampage-against-palestinian-civilians.htm
 author: palestine-solidarity-network-aotearoa
+permalink: /archive/2023/11/03/ceasefire-now/index.html
+layout: layout.njk
 ---
 Ceasefire Now! Rallies Throughout NZ This Saturday/Sun To Stop Israel’s Genocidal Rampage Against Palestinian Civilians
 =======================================================================================================================

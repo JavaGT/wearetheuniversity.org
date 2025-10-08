@@ -1,9 +1,12 @@
 ---
 slug: infectiousness-of-swine-flu-estimated-for-nz
-title: "Infectiousness of swine flu estimated for NZ"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/SC0907/S00042/infectiousness-of-swine-flu-estimated-for-nz.htm
+title: Infectiousness of swine flu estimated for NZ
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00042/infectiousness-of-swine-flu-estimated-for-nz.htm
 author: university-of-otago
+permalink: /archive/2009/07/24/infectiousness-of-swine-flu-estimated-for-nz/index.html
+layout: layout.njk
 ---
 Infectiousness of swine flu estimated for NZ
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: anne-salmond-appointed-to-the-american-philosophical-society
-title: "Anne Salmond appointed to the American Philosophical Society"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00076/anne-salmond-appointed-to-the-american-philosophical-society.htm
+title: Anne Salmond appointed to the American Philosophical Society
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00076/anne-salmond-appointed-to-the-american-philosophical-society.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/04/29/anne-salmond-appointed-to-the-american-philosophical-society/index.html
+layout: layout.njk
 ---
 Anne Salmond appointed to the American Philosophical Society
 ============================================================

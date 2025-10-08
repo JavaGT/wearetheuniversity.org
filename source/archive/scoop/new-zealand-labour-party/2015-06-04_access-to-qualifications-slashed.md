@@ -1,9 +1,12 @@
 ---
 slug: access-to-qualifications-slashed
-title: "Access to qualifications slashed"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00068/access-to-qualifications-slashed.htm
+title: Access to qualifications slashed
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00068/access-to-qualifications-slashed.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/04/access-to-qualifications-slashed/index.html
+layout: layout.njk
 ---
 Access to qualifications slashed
 ================================

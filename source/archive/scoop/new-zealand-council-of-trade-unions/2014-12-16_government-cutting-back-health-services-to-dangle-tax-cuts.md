@@ -1,9 +1,13 @@
 ---
 slug: government-cutting-back-health-services-to-dangle-tax-cuts
-title: "Government cutting back health services to dangle tax cuts"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/PO1412/S00199/government-cutting-back-health-services-to-dangle-tax-cuts.htm
+title: Government cutting back health services to dangle tax cuts
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00199/government-cutting-back-health-services-to-dangle-tax-cuts.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/12/16/government-cutting-back-health-services-to-dangle-tax-cuts/index.html
+layout: layout.njk
 ---
 Government cutting back health services to dangle tax cuts
 ==========================================================

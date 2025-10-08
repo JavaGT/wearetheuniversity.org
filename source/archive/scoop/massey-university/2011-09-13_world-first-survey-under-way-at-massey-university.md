@@ -1,9 +1,13 @@
 ---
 slug: world-first-survey-under-way-at-massey-university
-title: "World-first survey under way at Massey University"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/ED1109/S00044/world-first-survey-under-way-at-massey-university.htm
+title: World-first survey under way at Massey University
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00044/world-first-survey-under-way-at-massey-university.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/13/world-first-survey-under-way-at-massey-university/index.html
+layout: layout.njk
 ---
 World-first survey under way at Massey University
 =================================================

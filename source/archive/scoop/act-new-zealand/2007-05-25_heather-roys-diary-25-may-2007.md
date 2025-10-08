@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-25-may-2007
-title: "Heather Roy's Diary - 25 May 2007"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/PA0705/S00677/heather-roys-diary-25-may-2007.htm
+title: Heather Roy's Diary - 25 May 2007
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00677/heather-roys-diary-25-may-2007.htm
 author: act-new-zealand
+permalink: /archive/2007/05/25/heather-roys-diary-25-may-2007/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - 25 May 2007
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: supporting-a-young-musicians-first-steps-on-the-world-stage
-title: "Supporting A Young Musician’s First Steps On The World Stage"
-date: 2023-06-01
-source-url: https://www.scoop.co.nz/stories/CU2306/S00001/supporting-a-young-musicians-first-steps-on-the-world-stage.htm
+title: Supporting A Young Musician’s First Steps On The World Stage
+date: 2023-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2306/S00001/supporting-a-young-musicians-first-steps-on-the-world-stage.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/06/01/supporting-a-young-musicians-first-steps-on-the-world-stage/index.html
+layout: layout.njk
 ---
 Supporting A Young Musician’s First Steps On The World Stage
 ============================================================

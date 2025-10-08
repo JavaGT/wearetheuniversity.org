@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-welcomes-government-support
-title: "University of Canterbury welcomes government support"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/ED1211/S00211/university-of-canterbury-welcomes-government-support.htm
+title: University of Canterbury welcomes government support
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00211/university-of-canterbury-welcomes-government-support.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/29/university-of-canterbury-welcomes-government-support/index.html
+layout: layout.njk
 ---
 University of Canterbury welcomes government support
 ====================================================

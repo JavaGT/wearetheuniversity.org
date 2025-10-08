@@ -1,9 +1,13 @@
 ---
 slug: aut-university-partnering-with-leading-diagnostic-company
-title: "AUT University partnering with leading diagnostic company"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/SC1406/S00074/aut-university-partnering-with-leading-diagnostic-company.htm
+title: AUT University partnering with leading diagnostic company
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00074/aut-university-partnering-with-leading-diagnostic-company.htm
 author: aut-university
+permalink: >-
+  /archive/2014/06/27/aut-university-partnering-with-leading-diagnostic-company/index.html
+layout: layout.njk
 ---
 AUT University partnering with leading diagnostic company
 =========================================================

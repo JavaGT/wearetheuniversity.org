@@ -1,9 +1,11 @@
 ---
 slug: parliament-at-risk-of-fines
-title: "Parliament at risk of fines"
-date: 2011-08-10
+title: Parliament at risk of fines
+date: 2011-08-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1108/S00203/parliament-at-risk-of-fines.htm
 author: green-party
+permalink: /archive/2011/08/10/parliament-at-risk-of-fines/index.html
+layout: layout.njk
 ---
 Parliament at risk of fines
 ===========================

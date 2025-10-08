@@ -1,9 +1,12 @@
 ---
 slug: reading-inquiry-will-fix-national-disgrace
-title: "Reading Inquiry Will Fix National Disgrace"
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/PA0108/S00269/reading-inquiry-will-fix-national-disgrace.htm
+title: Reading Inquiry Will Fix National Disgrace
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00269/reading-inquiry-will-fix-national-disgrace.htm
 author: act-new-zealand
+permalink: /archive/2001/08/14/reading-inquiry-will-fix-national-disgrace/index.html
+layout: layout.njk
 ---
 Reading Inquiry Will Fix National Disgrace
 ==========================================

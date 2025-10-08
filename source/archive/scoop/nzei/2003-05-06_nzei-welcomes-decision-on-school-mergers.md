@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-decision-on-school-mergers
-title: "Nzei Welcomes Decision On School Mergers"
-date: 2003-05-06
-source-url: https://www.scoop.co.nz/stories/ED0305/S00019/nzei-welcomes-decision-on-school-mergers.htm
+title: Nzei Welcomes Decision On School Mergers
+date: 2003-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00019/nzei-welcomes-decision-on-school-mergers.htm
 author: nzei
+permalink: /archive/2003/05/06/nzei-welcomes-decision-on-school-mergers/index.html
+layout: layout.njk
 ---
 Nzei Welcomes Decision On School Mergers
 ========================================

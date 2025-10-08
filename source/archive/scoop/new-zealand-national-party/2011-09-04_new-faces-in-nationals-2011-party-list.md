@@ -1,9 +1,12 @@
 ---
 slug: new-faces-in-nationals-2011-party-list
-title: "New Faces In National's 2011 Party List"
-date: 2011-09-04
-source-url: https://www.scoop.co.nz/stories/PA1109/S00063/new-faces-in-nationals-2011-party-list.htm
+title: New Faces In National's 2011 Party List
+date: 2011-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00063/new-faces-in-nationals-2011-party-list.htm
 author: new-zealand-national-party
+permalink: /archive/2011/09/04/new-faces-in-nationals-2011-party-list/index.html
+layout: layout.njk
 ---
 New Faces In National's 2011 Party List
 =======================================

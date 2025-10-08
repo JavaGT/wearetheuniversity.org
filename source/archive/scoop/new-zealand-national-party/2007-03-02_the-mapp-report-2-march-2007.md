@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-2-march-2007
-title: "The Mapp Report 2 March 2007"
-date: 2007-03-02
+title: The Mapp Report 2 March 2007
+date: 2007-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0703/S00046/the-mapp-report-2-march-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/02/the-mapp-report-2-march-2007/index.html
+layout: layout.njk
 ---
 The Mapp Report 2 March 2007
 ============================

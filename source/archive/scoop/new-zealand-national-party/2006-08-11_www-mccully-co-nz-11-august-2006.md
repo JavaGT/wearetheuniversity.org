@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-11-august-2006
-title: "www.mccully.co.nz 11 August 2006"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/PA0608/S00196/wwwmccullyconz-11-august-2006.htm
+title: www.mccully.co.nz 11 August 2006
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00196/wwwmccullyconz-11-august-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/11/www-mccully-co-nz-11-august-2006/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 11 August 2006
 ================================

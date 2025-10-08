@@ -1,9 +1,13 @@
 ---
 slug: green-partys-own-auditor-of-their-budget-finds-it-dodgy
-title: "Green Party’s own Auditor of their Budget finds it dodgy"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PO1408/S00346/green-partys-own-auditor-of-their-budget-finds-it-dodgy.htm
+title: Green Party’s own Auditor of their Budget finds it dodgy
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00346/green-partys-own-auditor-of-their-budget-finds-it-dodgy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/21/green-partys-own-auditor-of-their-budget-finds-it-dodgy/index.html
+layout: layout.njk
 ---
 Green Party’s own Auditor of their Budget finds it dodgy
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-fully-behind-universal-allowance-campaign
-title: "Greens Fully Behind Universal Allowance Campaign"
-date: 2002-05-15
-source-url: https://www.scoop.co.nz/stories/PA0205/S00297/greens-fully-behind-universal-allowance-campaign.htm
+title: Greens Fully Behind Universal Allowance Campaign
+date: 2002-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00297/greens-fully-behind-universal-allowance-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2002/05/15/greens-fully-behind-universal-allowance-campaign/index.html
+layout: layout.njk
 ---
 Greens Fully Behind Universal Allowance Campaign
 ================================================

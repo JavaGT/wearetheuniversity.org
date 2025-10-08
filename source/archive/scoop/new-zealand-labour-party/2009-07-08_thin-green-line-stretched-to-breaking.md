@@ -1,9 +1,12 @@
 ---
 slug: thin-green-line-stretched-to-breaking
-title: "Thin green line stretched to breaking"
-date: 2009-07-08
-source-url: https://www.scoop.co.nz/stories/PA0907/S00124/thin-green-line-stretched-to-breaking.htm
+title: Thin green line stretched to breaking
+date: 2009-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00124/thin-green-line-stretched-to-breaking.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/08/thin-green-line-stretched-to-breaking/index.html
+layout: layout.njk
 ---
 Thin green line stretched to breaking
 =====================================

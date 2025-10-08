@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-and-ge-healthcare-join-forces
-title: "University of Otago and GE Healthcare join forces"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/SC1404/S00055/university-of-otago-and-ge-healthcare-join-forces.htm
+title: University of Otago and GE Healthcare join forces
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00055/university-of-otago-and-ge-healthcare-join-forces.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/15/university-of-otago-and-ge-healthcare-join-forces/index.html
+layout: layout.njk
 ---
 University of Otago and GE Healthcare join forces
 =================================================

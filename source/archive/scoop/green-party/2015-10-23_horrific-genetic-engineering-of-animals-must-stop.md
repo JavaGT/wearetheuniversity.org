@@ -1,9 +1,13 @@
 ---
 slug: horrific-genetic-engineering-of-animals-must-stop
-title: "Horrific genetic engineering of animals must stop"
-date: 2015-10-23
-source-url: https://www.scoop.co.nz/stories/PA1510/S00438/horrific-genetic-engineering-of-animals-must-stop.htm
+title: Horrific genetic engineering of animals must stop
+date: 2015-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00438/horrific-genetic-engineering-of-animals-must-stop.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/23/horrific-genetic-engineering-of-animals-must-stop/index.html
+layout: layout.njk
 ---
 Horrific genetic engineering of animals must stop
 =================================================

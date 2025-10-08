@@ -1,9 +1,12 @@
 ---
 slug: māori-staff-phds-a-boost-for-college-of-business
-title: "Māori staff PhDs a boost for College of Business"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/ED0711/S00121/maori-staff-phds-a-boost-for-college-of-business.htm
+title: Māori staff PhDs a boost for College of Business
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00121/maori-staff-phds-a-boost-for-college-of-business.htm
 author: massey-university
+permalink: /archive/2007/11/29/m/index.html
+layout: layout.njk
 ---
 Māori staff PhDs a boost for College of Business
 ================================================

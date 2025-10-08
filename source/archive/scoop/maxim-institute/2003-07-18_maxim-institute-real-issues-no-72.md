@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-72
-title: "Maxim Institute - real issues - No. 72"
-date: 2003-07-18
-source-url: https://www.scoop.co.nz/stories/PO0307/S00100/maxim-institute-real-issues-no-72.htm
+title: Maxim Institute - real issues - No. 72
+date: 2003-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00100/maxim-institute-real-issues-no-72.htm
 author: maxim-institute
+permalink: /archive/2003/07/18/maxim-institute-real-issues-no-72/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 72
 ======================================

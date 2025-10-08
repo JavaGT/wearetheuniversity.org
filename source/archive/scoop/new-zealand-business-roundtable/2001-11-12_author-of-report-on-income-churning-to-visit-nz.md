@@ -1,9 +1,12 @@
 ---
 slug: author-of-report-on-income-churning-to-visit-nz
-title: "Author Of Report On Income ‘Churning’ To Visit NZ"
-date: 2001-11-12
-source-url: https://www.scoop.co.nz/stories/BU0111/S00100/author-of-report-on-income-churning-to-visit-nz.htm
+title: Author Of Report On Income ‘Churning’ To Visit NZ
+date: 2001-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0111/S00100/author-of-report-on-income-churning-to-visit-nz.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2001/11/12/author-of-report-on-income-churning-to-visit-nz/index.html
+layout: layout.njk
 ---
 Author Of Report On Income ‘Churning’ To Visit NZ
 =================================================

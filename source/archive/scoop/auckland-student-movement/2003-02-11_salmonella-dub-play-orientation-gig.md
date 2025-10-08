@@ -1,9 +1,12 @@
 ---
 slug: salmonella-dub-play-orientation-gig
-title: "Salmonella Dub Play Orientation Gig"
-date: 2003-02-11
-source-url: https://www.scoop.co.nz/stories/ED0302/S00013/salmonella-dub-play-orientation-gig.htm
+title: Salmonella Dub Play Orientation Gig
+date: 2003-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00013/salmonella-dub-play-orientation-gig.htm
 author: auckland-student-movement
+permalink: /archive/2003/02/11/salmonella-dub-play-orientation-gig/index.html
+layout: layout.njk
 ---
 Salmonella Dub Play Orientation Gig
 ===================================

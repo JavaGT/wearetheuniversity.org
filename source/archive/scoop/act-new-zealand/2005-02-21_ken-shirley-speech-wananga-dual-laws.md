@@ -1,9 +1,12 @@
 ---
 slug: ken-shirley-speech-wananga-dual-laws
-title: "Ken Shirley Speech: Wananga - dual laws"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00434/ken-shirley-speech-wananga-dual-laws.htm
+title: 'Ken Shirley Speech: Wananga - dual laws'
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00434/ken-shirley-speech-wananga-dual-laws.htm
 author: act-new-zealand
+permalink: /archive/2005/02/21/ken-shirley-speech-wananga-dual-laws/index.html
+layout: layout.njk
 ---
 Ken Shirley Speech: Wananga - dual laws
 =======================================

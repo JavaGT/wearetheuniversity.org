@@ -1,9 +1,13 @@
 ---
 slug: rights-of-students-breached-by-school-drug-testing
-title: "Rights of students breached by school drug-testing"
-date: 2003-06-09
-source-url: https://www.scoop.co.nz/stories/PA0306/S00111/rights-of-students-breached-by-school-drug-testing.htm
+title: Rights of students breached by school drug-testing
+date: 2003-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00111/rights-of-students-breached-by-school-drug-testing.htm
 author: green-party
+permalink: >-
+  /archive/2003/06/09/rights-of-students-breached-by-school-drug-testing/index.html
+layout: layout.njk
 ---
 Rights of students breached by school drug-testing
 ==================================================

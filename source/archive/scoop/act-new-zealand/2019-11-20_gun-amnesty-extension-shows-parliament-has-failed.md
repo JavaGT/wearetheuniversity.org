@@ -1,9 +1,13 @@
 ---
 slug: gun-amnesty-extension-shows-parliament-has-failed
-title: "Gun amnesty extension shows Parliament has failed"
-date: 2019-11-20
-source-url: https://www.scoop.co.nz/stories/PA1911/S00158/gun-amnesty-extension-shows-parliament-has-failed.htm
+title: Gun amnesty extension shows Parliament has failed
+date: 2019-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00158/gun-amnesty-extension-shows-parliament-has-failed.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/11/20/gun-amnesty-extension-shows-parliament-has-failed/index.html
+layout: layout.njk
 ---
 Gun amnesty extension shows Parliament has failed
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-student-president-to-lead-nzusa
-title: "University of Auckland student president to lead NZUSA"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/ED1312/S00079/university-of-auckland-student-president-to-lead-nzusa.htm
+title: University of Auckland student president to lead NZUSA
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00079/university-of-auckland-student-president-to-lead-nzusa.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/12/11/university-of-auckland-student-president-to-lead-nzusa/index.html
+layout: layout.njk
 ---
 University of Auckland student president to lead NZUSA
 ======================================================

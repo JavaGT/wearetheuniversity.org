@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-pleas-from-struggling-schools
-title: "Labour ignores pleas from struggling schools"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/PA0710/S00143/labour-ignores-pleas-from-struggling-schools.htm
+title: Labour ignores pleas from struggling schools
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00143/labour-ignores-pleas-from-struggling-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/09/labour-ignores-pleas-from-struggling-schools/index.html
+layout: layout.njk
 ---
 Labour ignores pleas from struggling schools
 ============================================

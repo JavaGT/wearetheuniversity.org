@@ -1,9 +1,12 @@
 ---
 slug: sugar-tax-leaves-bitter-taste
-title: "Sugar tax leaves bitter taste"
-date: 2021-08-07
-source-url: https://www.scoop.co.nz/stories/PA2108/S00071/sugar-tax-leaves-bitter-taste.htm
+title: Sugar tax leaves bitter taste
+date: 2021-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00071/sugar-tax-leaves-bitter-taste.htm
 author: act-new-zealand
+permalink: /archive/2021/08/07/sugar-tax-leaves-bitter-taste/index.html
+layout: layout.njk
 ---
 Sugar tax leaves bitter taste
 =============================

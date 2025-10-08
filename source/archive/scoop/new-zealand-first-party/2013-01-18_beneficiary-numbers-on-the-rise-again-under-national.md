@@ -1,9 +1,13 @@
 ---
 slug: beneficiary-numbers-on-the-rise-again-under-national
-title: "Beneficiary Numbers On The Rise Again Under National"
-date: 2013-01-18
-source-url: https://www.scoop.co.nz/stories/PA1301/S00057/beneficiary-numbers-on-the-rise-again-under-national.htm
+title: Beneficiary Numbers On The Rise Again Under National
+date: 2013-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00057/beneficiary-numbers-on-the-rise-again-under-national.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/01/18/beneficiary-numbers-on-the-rise-again-under-national/index.html
+layout: layout.njk
 ---
 Beneficiary Numbers On The Rise Again Under National
 ====================================================

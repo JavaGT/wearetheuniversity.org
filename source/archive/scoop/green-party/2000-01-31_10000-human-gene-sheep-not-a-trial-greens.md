@@ -1,9 +1,12 @@
 ---
 slug: 10000-human-gene-sheep-not-a-trial-greens
-title: "10,000 Human-Gene Sheep Not a Trial - Greens"
-date: 2000-01-31
-source-url: https://www.scoop.co.nz/stories/PA0001/S00151/10000-human-gene-sheep-not-a-trial-greens.htm
+title: 10,000 Human-Gene Sheep Not a Trial - Greens
+date: 2000-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00151/10000-human-gene-sheep-not-a-trial-greens.htm
 author: green-party
+permalink: /archive/2000/01/31/10000-human-gene-sheep-not-a-trial-greens/index.html
+layout: layout.njk
 ---
 10,000 Human-Gene Sheep Not a Trial - Greens
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-debate-on-retirement-income-policy
-title: "Call for debate on retirement income policy"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/GE1012/S00053/call-for-debate-on-retirement-income-policy.htm
+title: Call for debate on retirement income policy
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00053/call-for-debate-on-retirement-income-policy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/10/call-for-debate-on-retirement-income-policy/index.html
+layout: layout.njk
 ---
 Call for debate on retirement income policy
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: one-crime-every-73-seconds-under-labour
-title: "One Crime Every 73 Seconds Under Labour"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/PA0610/S00030/one-crime-every-73-seconds-under-labour.htm
+title: One Crime Every 73 Seconds Under Labour
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00030/one-crime-every-73-seconds-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2006/10/02/one-crime-every-73-seconds-under-labour/index.html
+layout: layout.njk
 ---
 One Crime Every 73 Seconds Under Labour
 =======================================

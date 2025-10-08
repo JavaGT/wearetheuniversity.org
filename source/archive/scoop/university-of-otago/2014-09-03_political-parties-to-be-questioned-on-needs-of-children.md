@@ -1,9 +1,13 @@
 ---
 slug: political-parties-to-be-questioned-on-needs-of-children
-title: "Political parties to be questioned on needs of children"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PO1409/S00058/political-parties-to-be-questioned-on-needs-of-children.htm
+title: Political parties to be questioned on needs of children
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00058/political-parties-to-be-questioned-on-needs-of-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/03/political-parties-to-be-questioned-on-needs-of-children/index.html
+layout: layout.njk
 ---
 Political parties to be questioned on needs of children
 =======================================================

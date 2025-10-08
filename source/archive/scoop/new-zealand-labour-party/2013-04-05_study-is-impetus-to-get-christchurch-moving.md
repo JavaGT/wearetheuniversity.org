@@ -1,9 +1,12 @@
 ---
 slug: study-is-impetus-to-get-christchurch-moving
-title: "Study is impetus to get Christchurch moving"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/PA1304/S00087/study-is-impetus-to-get-christchurch-moving.htm
+title: Study is impetus to get Christchurch moving
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00087/study-is-impetus-to-get-christchurch-moving.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/05/study-is-impetus-to-get-christchurch-moving/index.html
+layout: layout.njk
 ---
 Study is impetus to get Christchurch moving
 ===========================================

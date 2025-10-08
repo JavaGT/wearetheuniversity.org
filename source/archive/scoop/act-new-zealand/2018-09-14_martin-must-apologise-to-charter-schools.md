@@ -1,9 +1,12 @@
 ---
 slug: martin-must-apologise-to-charter-schools
-title: "Martin must apologise to charter schools"
-date: 2018-09-14
-source-url: https://www.scoop.co.nz/stories/PA1809/S00192/martin-must-apologise-to-charter-schools.htm
+title: Martin must apologise to charter schools
+date: 2018-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00192/martin-must-apologise-to-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2018/09/14/martin-must-apologise-to-charter-schools/index.html
+layout: layout.njk
 ---
 Martin must apologise to charter schools
 ========================================

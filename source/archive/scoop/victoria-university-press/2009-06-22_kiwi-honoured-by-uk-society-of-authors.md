@@ -1,9 +1,12 @@
 ---
 slug: kiwi-honoured-by-uk-society-of-authors
-title: "Kiwi Honoured by UK Society of Authors"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/CU0906/S00240/kiwi-honoured-by-uk-society-of-authors.htm
+title: Kiwi Honoured by UK Society of Authors
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0906/S00240/kiwi-honoured-by-uk-society-of-authors.htm
 author: victoria-university-press
+permalink: /archive/2009/06/22/kiwi-honoured-by-uk-society-of-authors/index.html
+layout: layout.njk
 ---
 Kiwi Honoured by UK Society of Authors
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: transpower-scholars-announced
-title: "Transpower Scholars announced"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/ED0504/S00034/transpower-scholars-announced.htm
+title: Transpower Scholars announced
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00034/transpower-scholars-announced.htm
 author: university-of-otago
+permalink: /archive/2005/04/12/transpower-scholars-announced/index.html
+layout: layout.njk
 ---
 Transpower Scholars announced
 =============================

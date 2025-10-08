@@ -1,9 +1,16 @@
 ---
-slug: digital-doctors-healthpod-puts-healthcare-in-the-community-#entrepreneurship-#health
-title: "Digital Doctors’ HealthPod Puts Healthcare In The Community #entrepreneurship #health"
-date: 2020-05-19
-source-url: https://www.scoop.co.nz/stories/SC2005/S00040/digital-doctors-healthpod-puts-healthcare-in-the-community-entrepreneurship-health.htm
+slug: >-
+  digital-doctors-healthpod-puts-healthcare-in-the-community-#entrepreneurship-#health
+title: >-
+  Digital Doctors’ HealthPod Puts Healthcare In The Community #entrepreneurship
+  #health
+date: 2020-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00040/digital-doctors-healthpod-puts-healthcare-in-the-community-entrepreneurship-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/19/digital-doctors-healthpod-puts-healthcare-in-the-community-/index.html
+layout: layout.njk
 ---
 Digital Doctors’ HealthPod Puts Healthcare In The Community #entrepreneurship #health
 =====================================================================================

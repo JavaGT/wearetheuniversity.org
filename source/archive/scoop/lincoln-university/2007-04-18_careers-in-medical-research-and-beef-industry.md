@@ -1,9 +1,12 @@
 ---
 slug: careers-in-medical-research-and-beef-industry
-title: "Careers in medical research and beef industry"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/ED0704/S00056/careers-in-medical-research-and-beef-industry.htm
+title: Careers in medical research and beef industry
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00056/careers-in-medical-research-and-beef-industry.htm
 author: lincoln-university
+permalink: /archive/2007/04/18/careers-in-medical-research-and-beef-industry/index.html
+layout: layout.njk
 ---
 Careers in medical research and beef industry
 =============================================

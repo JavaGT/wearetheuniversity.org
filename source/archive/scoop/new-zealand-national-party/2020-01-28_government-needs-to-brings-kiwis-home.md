@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-brings-kiwis-home
-title: "Government needs to brings Kiwis home"
-date: 2020-01-28
-source-url: https://www.scoop.co.nz/stories/PA2001/S00105/government-needs-to-brings-kiwis-home.htm
+title: Government needs to brings Kiwis home
+date: 2020-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00105/government-needs-to-brings-kiwis-home.htm
 author: new-zealand-national-party
+permalink: /archive/2020/01/28/government-needs-to-brings-kiwis-home/index.html
+layout: layout.njk
 ---
 Government needs to brings Kiwis home
 =====================================

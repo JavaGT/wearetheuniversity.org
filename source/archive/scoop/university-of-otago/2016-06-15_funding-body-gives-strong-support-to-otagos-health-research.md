@@ -1,9 +1,13 @@
 ---
 slug: funding-body-gives-strong-support-to-otagos-health-research
-title: "Funding body gives strong support to Otago’s health research"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00046/funding-body-gives-strong-support-to-otagos-health-research.htm
+title: Funding body gives strong support to Otago’s health research
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00046/funding-body-gives-strong-support-to-otagos-health-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/06/15/funding-body-gives-strong-support-to-otagos-health-research/index.html
+layout: layout.njk
 ---
 Funding body gives strong support to Otago’s health research
 ============================================================

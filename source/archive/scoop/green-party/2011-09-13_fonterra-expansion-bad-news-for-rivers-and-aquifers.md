@@ -1,9 +1,13 @@
 ---
 slug: fonterra-expansion-bad-news-for-rivers-and-aquifers
-title: "Fonterra expansion bad news for rivers and aquifers"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PA1109/S00245/fonterra-expansion-bad-news-for-rivers-and-aquifers.htm
+title: Fonterra expansion bad news for rivers and aquifers
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00245/fonterra-expansion-bad-news-for-rivers-and-aquifers.htm
 author: green-party
+permalink: >-
+  /archive/2011/09/13/fonterra-expansion-bad-news-for-rivers-and-aquifers/index.html
+layout: layout.njk
 ---
 Fonterra expansion bad news for rivers and aquifers
 ===================================================

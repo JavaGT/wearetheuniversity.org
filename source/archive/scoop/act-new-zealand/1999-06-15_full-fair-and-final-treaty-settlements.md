@@ -1,9 +1,12 @@
 ---
 slug: full-fair-and-final-treaty-settlements
-title: "Full, Fair and Final Treaty Settlements"
-date: 1999-06-15
-source-url: https://www.scoop.co.nz/stories/PA9906/S00051/full-fair-and-final-treaty-settlements.htm
+title: Full, Fair and Final Treaty Settlements
+date: 1999-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00051/full-fair-and-final-treaty-settlements.htm
 author: act-new-zealand
+permalink: /archive/1999/06/15/full-fair-and-final-treaty-settlements/index.html
+layout: layout.njk
 ---
 Full, Fair and Final Treaty Settlements
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: climb-every-mountain
-title: "Climb Every Mountain"
-date: 2006-05-30
+title: Climb Every Mountain
+date: 2006-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00690/climb-every-mountain.htm
 author: new-zealand-first-party
+permalink: /archive/2006/05/30/climb-every-mountain/index.html
+layout: layout.njk
 ---
 Climb Every Mountain
 ====================

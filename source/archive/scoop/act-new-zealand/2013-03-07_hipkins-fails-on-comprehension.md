@@ -1,9 +1,12 @@
 ---
 slug: hipkins-fails-on-comprehension
-title: "Hipkins Fails On Comprehension"
-date: 2013-03-07
-source-url: https://www.scoop.co.nz/stories/PA1303/S00116/hipkins-fails-on-comprehension.htm
+title: Hipkins Fails On Comprehension
+date: 2013-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00116/hipkins-fails-on-comprehension.htm
 author: act-new-zealand
+permalink: /archive/2013/03/07/hipkins-fails-on-comprehension/index.html
+layout: layout.njk
 ---
 Hipkins Fails On Comprehension
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: act-on-campus-pleased-with-banks-new-alcohol-position
-title: "ACT on Campus Pleased With Banks' New Alcohol Position"
-date: 2012-07-04
-source-url: https://www.scoop.co.nz/stories/PO1207/S00038/act-on-campus-pleased-with-banks-new-alcohol-position.htm
+title: ACT on Campus Pleased With Banks' New Alcohol Position
+date: 2012-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00038/act-on-campus-pleased-with-banks-new-alcohol-position.htm
 author: act-on-campus
+permalink: >-
+  /archive/2012/07/04/act-on-campus-pleased-with-banks-new-alcohol-position/index.html
+layout: layout.njk
 ---
 ACT on Campus Pleased With Banks' New Alcohol Position
 ======================================================

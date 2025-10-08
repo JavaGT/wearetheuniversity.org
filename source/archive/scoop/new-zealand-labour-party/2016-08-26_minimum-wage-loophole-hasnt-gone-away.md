@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-loophole-hasnt-gone-away
-title: "Minimum wage loophole hasn’t gone away"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/PA1608/S00495/minimum-wage-loophole-hasnt-gone-away.htm
+title: Minimum wage loophole hasn’t gone away
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00495/minimum-wage-loophole-hasnt-gone-away.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/26/minimum-wage-loophole-hasnt-gone-away/index.html
+layout: layout.njk
 ---
 Minimum wage loophole hasn’t gone away
 ======================================

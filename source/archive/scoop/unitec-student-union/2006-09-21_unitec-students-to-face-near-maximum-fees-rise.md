@@ -1,9 +1,12 @@
 ---
 slug: unitec-students-to-face-near-maximum-fees-rise
-title: "Unitec students to face near maximum fees rise"
-date: 2006-09-21
-source-url: https://www.scoop.co.nz/stories/ED0609/S00087/unitec-students-to-face-near-maximum-fees-rise.htm
+title: Unitec students to face near maximum fees rise
+date: 2006-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00087/unitec-students-to-face-near-maximum-fees-rise.htm
 author: unitec-student-union
+permalink: /archive/2006/09/21/unitec-students-to-face-near-maximum-fees-rise/index.html
+layout: layout.njk
 ---
 Unitec students to face near maximum fees rise
 ==============================================

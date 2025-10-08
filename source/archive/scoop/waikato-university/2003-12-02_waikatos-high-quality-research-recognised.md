@@ -1,9 +1,12 @@
 ---
 slug: waikatos-high-quality-research-recognised
-title: "Waikato’s high quality research recognised"
-date: 2003-12-02
-source-url: https://www.scoop.co.nz/stories/ED0312/S00009/waikatos-high-quality-research-recognised.htm
+title: Waikato’s high quality research recognised
+date: 2003-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00009/waikatos-high-quality-research-recognised.htm
 author: waikato-university
+permalink: /archive/2003/12/02/waikatos-high-quality-research-recognised/index.html
+layout: layout.njk
 ---
 Waikato’s high quality research recognised
 ==========================================

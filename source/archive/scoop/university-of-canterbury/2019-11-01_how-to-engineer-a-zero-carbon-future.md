@@ -1,9 +1,12 @@
 ---
 slug: how-to-engineer-a-zero-carbon-future
-title: "How to engineer a zero-carbon future"
-date: 2019-11-01
-source-url: https://www.scoop.co.nz/stories/SC1911/S00002/how-to-engineer-a-zero-carbon-future.htm
+title: How to engineer a zero-carbon future
+date: 2019-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1911/S00002/how-to-engineer-a-zero-carbon-future.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/01/how-to-engineer-a-zero-carbon-future/index.html
+layout: layout.njk
 ---
 How to engineer a zero-carbon future
 ====================================

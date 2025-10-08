@@ -1,9 +1,13 @@
 ---
 slug: brooke-loader-selected-as-labours-candidate-for-waikato
-title: "Brooke Loader selected as Labour’s candidate for Waikato"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/PO1704/S00163/brooke-loader-selected-as-labours-candidate-for-waikato.htm
+title: Brooke Loader selected as Labour’s candidate for Waikato
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00163/brooke-loader-selected-as-labours-candidate-for-waikato.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/13/brooke-loader-selected-as-labours-candidate-for-waikato/index.html
+layout: layout.njk
 ---
 Brooke Loader selected as Labour’s candidate for Waikato
 ========================================================

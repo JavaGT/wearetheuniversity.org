@@ -1,9 +1,11 @@
 ---
 slug: fellowship-for-dog-scientist
-title: "Fellowship for dog scientist"
-date: 2013-10-22
+title: Fellowship for dog scientist
+date: 2013-10-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1310/S00144/fellowship-for-dog-scientist.htm
 author: university-of-waikato
+permalink: /archive/2013/10/22/fellowship-for-dog-scientist/index.html
+layout: layout.njk
 ---
 Fellowship for dog scientist
 ============================

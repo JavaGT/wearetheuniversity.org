@@ -1,9 +1,13 @@
 ---
 slug: mayor-takes-a-virtual-tour-at-the-university-of-canterbury
-title: "Mayor Takes A Virtual Tour At The University Of Canterbury"
-date: 2021-09-28
-source-url: https://www.scoop.co.nz/stories/ED2109/S00043/mayor-takes-a-virtual-tour-at-the-university-of-canterbury.htm
+title: Mayor Takes A Virtual Tour At The University Of Canterbury
+date: 2021-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00043/mayor-takes-a-virtual-tour-at-the-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/09/28/mayor-takes-a-virtual-tour-at-the-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Mayor Takes A Virtual Tour At The University Of Canterbury
 ==========================================================

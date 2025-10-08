@@ -1,9 +1,12 @@
 ---
 slug: waikatos-new-writer-in-residence
-title: "Waikato’s new Writer in Residence"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/ED0812/S00015/waikatos-new-writer-in-residence.htm
+title: Waikato’s new Writer in Residence
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00015/waikatos-new-writer-in-residence.htm
 author: waikato-university
+permalink: /archive/2008/12/04/waikatos-new-writer-in-residence/index.html
+layout: layout.njk
 ---
 Waikato’s new Writer in Residence
 =================================

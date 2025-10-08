@@ -1,9 +1,11 @@
 ---
 slug: judicial-independence-vital
-title: "Judicial Independence Vital"
-date: 2004-11-01
+title: Judicial Independence Vital
+date: 2004-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0411/S00018/judicial-independence-vital.htm
 author: act-new-zealand
+permalink: /archive/2004/11/01/judicial-independence-vital/index.html
+layout: layout.njk
 ---
 Judicial Independence Vital
 ===========================

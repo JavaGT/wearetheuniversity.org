@@ -1,9 +1,11 @@
 ---
 slug: equity-funding-welcomed
-title: "Equity funding welcomed"
-date: 2000-11-02
+title: Equity funding welcomed
+date: 2000-11-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0011/S00004/equity-funding-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/11/02/equity-funding-welcomed/index.html
+layout: layout.njk
 ---
 Equity funding welcomed
 =======================

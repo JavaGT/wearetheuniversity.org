@@ -1,9 +1,12 @@
 ---
 slug: leaf-fossils-co2-and-the-antarctic-ice-sheet
-title: "Leaf fossils, CO2 and the Antarctic ice sheet"
-date: 2016-10-20
-source-url: https://www.scoop.co.nz/stories/SC1610/S00060/leaf-fossils-co2-and-the-antarctic-ice-sheet.htm
+title: Leaf fossils, CO2 and the Antarctic ice sheet
+date: 2016-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00060/leaf-fossils-co2-and-the-antarctic-ice-sheet.htm
 author: university-of-waikato
+permalink: /archive/2016/10/20/leaf-fossils-co2-and-the-antarctic-ice-sheet/index.html
+layout: layout.njk
 ---
 Leaf fossils, CO2 and the Antarctic ice sheet
 =============================================

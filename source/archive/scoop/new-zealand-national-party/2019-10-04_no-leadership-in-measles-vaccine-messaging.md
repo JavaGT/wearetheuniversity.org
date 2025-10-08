@@ -1,9 +1,12 @@
 ---
 slug: no-leadership-in-measles-vaccine-messaging
-title: "No leadership in measles vaccine messaging"
-date: 2019-10-04
-source-url: https://www.scoop.co.nz/stories/PA1910/S00027/no-leadership-in-measles-vaccine-messaging.htm
+title: No leadership in measles vaccine messaging
+date: 2019-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00027/no-leadership-in-measles-vaccine-messaging.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/04/no-leadership-in-measles-vaccine-messaging/index.html
+layout: layout.njk
 ---
 No leadership in measles vaccine messaging
 ==========================================

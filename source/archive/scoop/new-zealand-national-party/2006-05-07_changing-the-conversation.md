@@ -1,9 +1,11 @@
 ---
 slug: changing-the-conversation
-title: "Changing the Conversation"
-date: 2006-05-07
+title: Changing the Conversation
+date: 2006-05-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00165/changing-the-conversation.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/07/changing-the-conversation/index.html
+layout: layout.njk
 ---
 Changing the Conversation
 =========================

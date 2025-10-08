@@ -1,9 +1,12 @@
 ---
 slug: maharey-fee-reduction-promise-welcomed
-title: "Maharey Fee Reduction Promise Welcomed"
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/ED0006/S00041/maharey-fee-reduction-promise-welcomed.htm
+title: Maharey Fee Reduction Promise Welcomed
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00041/maharey-fee-reduction-promise-welcomed.htm
 author: victoria-university-students-association
+permalink: /archive/2000/06/27/maharey-fee-reduction-promise-welcomed/index.html
+layout: layout.njk
 ---
 Maharey Fee Reduction Promise Welcomed
 ======================================

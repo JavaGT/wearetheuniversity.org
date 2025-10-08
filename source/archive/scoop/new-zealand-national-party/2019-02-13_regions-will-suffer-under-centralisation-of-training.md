@@ -1,9 +1,13 @@
 ---
 slug: regions-will-suffer-under-centralisation-of-training
-title: "Regions will suffer under centralisation of training"
-date: 2019-02-13
-source-url: https://www.scoop.co.nz/stories/PA1902/S00100/regions-will-suffer-under-centralisation-of-training.htm
+title: Regions will suffer under centralisation of training
+date: 2019-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00100/regions-will-suffer-under-centralisation-of-training.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/02/13/regions-will-suffer-under-centralisation-of-training/index.html
+layout: layout.njk
 ---
 Regions will suffer under centralisation of training
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-drug-effective-in-lung-cancer-treatment
-title: "New Drug Effective In Lung Cancer Treatment"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/ED0403/S00083/new-drug-effective-in-lung-cancer-treatment.htm
+title: New Drug Effective In Lung Cancer Treatment
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00083/new-drug-effective-in-lung-cancer-treatment.htm
 author: auckland-university
+permalink: /archive/2004/03/18/new-drug-effective-in-lung-cancer-treatment/index.html
+layout: layout.njk
 ---
 New Drug Effective In Lung Cancer Treatment
 ===========================================

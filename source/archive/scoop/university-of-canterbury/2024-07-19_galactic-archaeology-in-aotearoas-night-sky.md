@@ -1,9 +1,12 @@
 ---
 slug: galactic-archaeology-in-aotearoas-night-sky
-title: "Galactic Archaeology In Aotearoa’s Night Sky"
-date: 2024-07-19
-source-url: https://www.scoop.co.nz/stories/ED2407/S00040/galactic-archaeology-in-aotearoas-night-sky.htm
+title: Galactic Archaeology In Aotearoa’s Night Sky
+date: 2024-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00040/galactic-archaeology-in-aotearoas-night-sky.htm
 author: university-of-canterbury
+permalink: /archive/2024/07/19/galactic-archaeology-in-aotearoas-night-sky/index.html
+layout: layout.njk
 ---
 Galactic Archaeology In Aotearoa’s Night Sky
 ============================================

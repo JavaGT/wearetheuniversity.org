@@ -1,9 +1,11 @@
 ---
 slug: waikato-leader-gets-boost
-title: "Waikato leader gets boost"
-date: 2016-05-13
+title: Waikato leader gets boost
+date: 2016-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1605/S00363/waikato-leader-gets-boost.htm
 author: university-of-waikato
+permalink: /archive/2016/05/13/waikato-leader-gets-boost/index.html
+layout: layout.njk
 ---
 Waikato leader gets boost
 =========================

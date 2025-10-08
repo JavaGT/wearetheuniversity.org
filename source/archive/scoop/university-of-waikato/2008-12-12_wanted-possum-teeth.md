@@ -1,9 +1,11 @@
 ---
 slug: wanted-possum-teeth
-title: "Wanted: Possum teeth"
-date: 2008-12-12
+title: 'Wanted: Possum teeth'
+date: 2008-12-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0812/S00028/wanted-possum-teeth.htm
 author: university-of-waikato
+permalink: /archive/2008/12/12/wanted-possum-teeth/index.html
+layout: layout.njk
 ---
 Wanted: Possum teeth
 ====================

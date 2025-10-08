@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-93
-title: "Christchurch Earthquake bulletin edition 93"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PA1108/S00287/christchurch-earthquake-bulletin-edition-93.htm
+title: Christchurch Earthquake bulletin edition 93
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00287/christchurch-earthquake-bulletin-edition-93.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/15/christchurch-earthquake-bulletin-edition-93/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition 93
 ===========================================

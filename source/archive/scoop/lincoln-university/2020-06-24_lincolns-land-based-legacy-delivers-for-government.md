@@ -1,9 +1,13 @@
 ---
 slug: lincolns-land-based-legacy-delivers-for-government
-title: "Lincoln’s Land-based Legacy Delivers For Government"
-date: 2020-06-24
-source-url: https://www.scoop.co.nz/stories/ED2006/S00031/lincolns-land-based-legacy-delivers-for-government.htm
+title: Lincoln’s Land-based Legacy Delivers For Government
+date: 2020-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00031/lincolns-land-based-legacy-delivers-for-government.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/06/24/lincolns-land-based-legacy-delivers-for-government/index.html
+layout: layout.njk
 ---
 Lincoln’s Land-based Legacy Delivers For Government
 ===================================================

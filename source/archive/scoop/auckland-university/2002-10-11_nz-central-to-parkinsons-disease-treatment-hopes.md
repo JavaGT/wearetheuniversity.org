@@ -1,9 +1,13 @@
 ---
 slug: nz-central-to-parkinsons-disease-treatment-hopes
-title: "NZ Central to Parkinson's Disease Treatment Hopes"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/SC0210/S00031/nz-central-to-parkinsons-disease-treatment-hopes.htm
+title: NZ Central to Parkinson's Disease Treatment Hopes
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0210/S00031/nz-central-to-parkinsons-disease-treatment-hopes.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/10/11/nz-central-to-parkinsons-disease-treatment-hopes/index.html
+layout: layout.njk
 ---
 NZ Central to Parkinson's Disease Treatment Hopes
 =================================================

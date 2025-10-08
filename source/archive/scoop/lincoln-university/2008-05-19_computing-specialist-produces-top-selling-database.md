@@ -1,9 +1,13 @@
 ---
 slug: computing-specialist-produces-top-selling-database
-title: "Computing Specialist Produces Top Selling Database"
-date: 2008-05-19
-source-url: https://www.scoop.co.nz/stories/ED0805/S00065/computing-specialist-produces-top-selling-database.htm
+title: Computing Specialist Produces Top Selling Database
+date: 2008-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00065/computing-specialist-produces-top-selling-database.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/05/19/computing-specialist-produces-top-selling-database/index.html
+layout: layout.njk
 ---
 Computing Specialist Produces Top Selling Database
 ==================================================

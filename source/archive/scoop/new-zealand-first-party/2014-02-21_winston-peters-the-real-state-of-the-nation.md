@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-the-real-state-of-the-nation
-title: "Winston Peters: The Real State Of The Nation"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/PA1402/S00309/winston-peters-the-real-state-of-the-nation.htm
+title: 'Winston Peters: The Real State Of The Nation'
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00309/winston-peters-the-real-state-of-the-nation.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/21/winston-peters-the-real-state-of-the-nation/index.html
+layout: layout.njk
 ---
 Winston Peters: The Real State Of The Nation
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-community-feast-champions-ōtautahis-food-resilience
-title: "UC Community Feast Champions Ōtautahi’s Food Resilience"
-date: 2023-04-13
-source-url: https://www.scoop.co.nz/stories/ED2304/S00008/uc-community-feast-champions-otautahis-food-resilience.htm
+title: UC Community Feast Champions Ōtautahi’s Food Resilience
+date: 2023-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2304/S00008/uc-community-feast-champions-otautahis-food-resilience.htm
 author: university-of-canterbury
+permalink: /archive/2023/04/13/uc-community-feast-champions-/index.html
+layout: layout.njk
 ---
 UC Community Feast Champions Ōtautahi’s Food Resilience
 =======================================================

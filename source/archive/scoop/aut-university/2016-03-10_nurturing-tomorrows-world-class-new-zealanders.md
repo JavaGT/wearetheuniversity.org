@@ -1,9 +1,12 @@
 ---
 slug: nurturing-tomorrows-world-class-new-zealanders
-title: "Nurturing tomorrow’s World Class New Zealanders"
-date: 2016-03-10
-source-url: https://www.scoop.co.nz/stories/ED1603/S00039/nurturing-tomorrows-world-class-new-zealanders.htm
+title: Nurturing tomorrow’s World Class New Zealanders
+date: 2016-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00039/nurturing-tomorrows-world-class-new-zealanders.htm
 author: aut-university
+permalink: /archive/2016/03/10/nurturing-tomorrows-world-class-new-zealanders/index.html
+layout: layout.njk
 ---
 Nurturing tomorrow’s World Class New Zealanders
 ===============================================

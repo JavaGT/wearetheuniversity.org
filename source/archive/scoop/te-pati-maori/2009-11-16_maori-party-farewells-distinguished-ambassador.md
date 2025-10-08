@@ -1,9 +1,12 @@
 ---
 slug: maori-party-farewells-distinguished-ambassador
-title: "Maori Party farewells distinguished ambassador"
-date: 2009-11-16
-source-url: https://www.scoop.co.nz/stories/PA0911/S00189/maori-party-farewells-distinguished-ambassador.htm
+title: Maori Party farewells distinguished ambassador
+date: 2009-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00189/maori-party-farewells-distinguished-ambassador.htm
 author: te-pati-maori
+permalink: /archive/2009/11/16/maori-party-farewells-distinguished-ambassador/index.html
+layout: layout.njk
 ---
 Maori Party farewells distinguished ambassador
 ==============================================

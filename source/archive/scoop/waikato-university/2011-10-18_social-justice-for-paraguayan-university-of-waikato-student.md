@@ -1,9 +1,13 @@
 ---
 slug: social-justice-for-paraguayan-university-of-waikato-student
-title: "Social justice for Paraguayan University of Waikato student"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/ED1110/S00078/social-justice-for-paraguayan-university-of-waikato-student.htm
+title: Social justice for Paraguayan University of Waikato student
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00078/social-justice-for-paraguayan-university-of-waikato-student.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/10/18/social-justice-for-paraguayan-university-of-waikato-student/index.html
+layout: layout.njk
 ---
 Social justice for Paraguayan University of Waikato student
 ===========================================================

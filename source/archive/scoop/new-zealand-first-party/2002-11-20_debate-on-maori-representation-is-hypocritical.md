@@ -1,9 +1,12 @@
 ---
 slug: debate-on-maori-representation-is-hypocritical
-title: "Debate On Maori Representation Is Hypocritical"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/PA0211/S00460/debate-on-maori-representation-is-hypocritical.htm
+title: Debate On Maori Representation Is Hypocritical
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00460/debate-on-maori-representation-is-hypocritical.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/20/debate-on-maori-representation-is-hypocritical/index.html
+layout: layout.njk
 ---
 Debate On Maori Representation Is Hypocritical
 ==============================================

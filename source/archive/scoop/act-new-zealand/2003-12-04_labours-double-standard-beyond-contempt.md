@@ -1,9 +1,12 @@
 ---
 slug: labours-double-standard-beyond-contempt
-title: "Labour's Double Standard Beyond Contempt"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/PA0312/S00101/labours-double-standard-beyond-contempt.htm
+title: Labour's Double Standard Beyond Contempt
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00101/labours-double-standard-beyond-contempt.htm
 author: act-new-zealand
+permalink: /archive/2003/12/04/labours-double-standard-beyond-contempt/index.html
+layout: layout.njk
 ---
 Labour's Double Standard Beyond Contempt
 ========================================

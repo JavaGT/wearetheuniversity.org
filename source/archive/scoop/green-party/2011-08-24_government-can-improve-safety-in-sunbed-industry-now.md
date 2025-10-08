@@ -1,9 +1,13 @@
 ---
 slug: government-can-improve-safety-in-sunbed-industry-now
-title: "Government can improve safety in sunbed industry now"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/PA1108/S00485/government-can-improve-safety-in-sunbed-industry-now.htm
+title: Government can improve safety in sunbed industry now
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00485/government-can-improve-safety-in-sunbed-industry-now.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/24/government-can-improve-safety-in-sunbed-industry-now/index.html
+layout: layout.njk
 ---
 Government can improve safety in sunbed industry now
 ====================================================

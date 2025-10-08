@@ -1,9 +1,12 @@
 ---
 slug: bringing-a-bit-of-nz-to-contemporary-music
-title: "Bringing a bit of NZ to contemporary music"
-date: 2009-04-29
-source-url: https://www.scoop.co.nz/stories/CU0904/S00391/bringing-a-bit-of-nz-to-contemporary-music.htm
+title: Bringing a bit of NZ to contemporary music
+date: 2009-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00391/bringing-a-bit-of-nz-to-contemporary-music.htm
 author: university-of-waikato
+permalink: /archive/2009/04/29/bringing-a-bit-of-nz-to-contemporary-music/index.html
+layout: layout.njk
 ---
 Bringing a bit of NZ to contemporary music
 ==========================================

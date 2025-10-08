@@ -1,9 +1,13 @@
 ---
 slug: grant-duncan-opinion-storm-in-a-teacup-turns-to-a-tornado
-title: "Grant Duncan Opinion: Storm in a teacup turns to a tornado"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PO1111/S00475/grant-duncan-opinion-storm-in-a-teacup-turns-to-a-tornado.htm
+title: 'Grant Duncan Opinion: Storm in a teacup turns to a tornado'
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00475/grant-duncan-opinion-storm-in-a-teacup-turns-to-a-tornado.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/18/grant-duncan-opinion-storm-in-a-teacup-turns-to-a-tornado/index.html
+layout: layout.njk
 ---
 Grant Duncan Opinion: Storm in a teacup turns to a tornado
 ==========================================================

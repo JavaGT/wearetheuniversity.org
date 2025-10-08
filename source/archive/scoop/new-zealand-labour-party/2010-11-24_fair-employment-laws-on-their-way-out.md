@@ -1,9 +1,12 @@
 ---
 slug: fair-employment-laws-on-their-way-out
-title: "Fair employment laws on their way out"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PA1011/S00484/fair-employment-laws-on-their-way-out.htm
+title: Fair employment laws on their way out
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00484/fair-employment-laws-on-their-way-out.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/24/fair-employment-laws-on-their-way-out/index.html
+layout: layout.njk
 ---
 Fair employment laws on their way out
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-free-education-farce
-title: "Heather Roy's Diary - Free Education Farce"
-date: 2007-07-06
-source-url: https://www.scoop.co.nz/stories/PA0707/S00123/heather-roys-diary-free-education-farce.htm
+title: Heather Roy's Diary - Free Education Farce
+date: 2007-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00123/heather-roys-diary-free-education-farce.htm
 author: act-new-zealand
+permalink: /archive/2007/07/06/heather-roys-diary-free-education-farce/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Free Education Farce
 ==========================================

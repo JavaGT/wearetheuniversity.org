@@ -1,9 +1,13 @@
 ---
 slug: problems-with-competition-in-the-nz-construction-industry
-title: "Problems with competition in the NZ construction industry"
-date: 2013-12-29
-source-url: https://www.scoop.co.nz/stories/AK1312/S00819/problems-with-competition-in-the-nz-construction-industry.htm
+title: Problems with competition in the NZ construction industry
+date: 2013-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1312/S00819/problems-with-competition-in-the-nz-construction-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/29/problems-with-competition-in-the-nz-construction-industry/index.html
+layout: layout.njk
 ---
 Problems with competition in the NZ construction industry
 =========================================================

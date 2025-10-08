@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-229
-title: "Maxim Institute - real issues - No 229"
-date: 2006-11-03
-source-url: https://www.scoop.co.nz/stories/PO0611/S00037/maxim-institute-real-issues-no-229.htm
+title: Maxim Institute - real issues - No 229
+date: 2006-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00037/maxim-institute-real-issues-no-229.htm
 author: maxim-institute
+permalink: /archive/2006/11/03/maxim-institute-real-issues-no-229/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 229
 ======================================

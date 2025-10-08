@@ -1,9 +1,11 @@
 ---
 slug: dream-on-don!
-title: "Dream on Don!"
-date: 2006-02-01
+title: Dream on Don!
+date: 2006-02-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00004/dream-on-don.htm
 author: green-party
+permalink: /archive/2006/02/01/dream-on-don/index.html
+layout: layout.njk
 ---
 Dream on Don!
 =============

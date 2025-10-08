@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-forty-three
-title: "Real Issues No. Forty Three"
-date: 2002-11-22
+title: Real Issues No. Forty Three
+date: 2002-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0211/S00163/real-issues-no-forty-three.htm
 author: maxim-institute
+permalink: /archive/2002/11/22/real-issues-no-forty-three/index.html
+layout: layout.njk
 ---
 Real Issues No. Forty Three
 ===========================

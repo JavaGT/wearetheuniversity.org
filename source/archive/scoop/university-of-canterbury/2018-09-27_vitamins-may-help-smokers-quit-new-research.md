@@ -1,9 +1,12 @@
 ---
 slug: vitamins-may-help-smokers-quit-new-research
-title: "Vitamins may help smokers quit – new research"
-date: 2018-09-27
-source-url: https://www.scoop.co.nz/stories/GE1809/S00085/vitamins-may-help-smokers-quit-new-research.htm
+title: Vitamins may help smokers quit – new research
+date: 2018-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00085/vitamins-may-help-smokers-quit-new-research.htm
 author: university-of-canterbury
+permalink: /archive/2018/09/27/vitamins-may-help-smokers-quit-new-research/index.html
+layout: layout.njk
 ---
 Vitamins may help smokers quit – new research
 =============================================

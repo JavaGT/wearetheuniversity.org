@@ -1,9 +1,12 @@
 ---
 slug: canterbury-appoints-new-vice-chancellor
-title: "Canterbury appoints new Vice-Chancellor"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/ED0810/S00061/canterbury-appoints-new-vice-chancellor.htm
+title: Canterbury appoints new Vice-Chancellor
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00061/canterbury-appoints-new-vice-chancellor.htm
 author: university-of-canterbury
+permalink: /archive/2008/10/15/canterbury-appoints-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Canterbury appoints new Vice-Chancellor
 =======================================

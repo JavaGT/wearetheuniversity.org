@@ -1,9 +1,12 @@
 ---
 slug: wreath-laying-at-tilomar-timor-leste
-title: "Wreath-laying At Tilomar, Timor-Leste"
-date: 2010-07-15
-source-url: https://www.scoop.co.nz/stories/PA1007/S00232/wreath-laying-at-tilomar-timor-leste.htm
+title: Wreath-laying At Tilomar, Timor-Leste
+date: 2010-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00232/wreath-laying-at-tilomar-timor-leste.htm
 author: act-new-zealand
+permalink: /archive/2010/07/15/wreath-laying-at-tilomar-timor-leste/index.html
+layout: layout.njk
 ---
 Wreath-laying At Tilomar, Timor-Leste
 =====================================

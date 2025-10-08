@@ -1,9 +1,12 @@
 ---
 slug: proof-student-loans-are-damaging-key-services
-title: "Proof student loans are damaging key services"
-date: 2003-10-16
-source-url: https://www.scoop.co.nz/stories/ED0310/S00071/proof-student-loans-are-damaging-key-services.htm
+title: Proof student loans are damaging key services
+date: 2003-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00071/proof-student-loans-are-damaging-key-services.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/10/16/proof-student-loans-are-damaging-key-services/index.html
+layout: layout.njk
 ---
 Proof student loans are damaging key services
 =============================================

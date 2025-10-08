@@ -1,9 +1,11 @@
 ---
 slug: spring-graduation
-title: "Spring Graduation"
-date: 2000-10-03
+title: Spring Graduation
+date: 2000-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0010/S00003/spring-graduation.htm
 author: auckland-university
+permalink: /archive/2000/10/03/spring-graduation/index.html
+layout: layout.njk
 ---
 Spring Graduation
 =================

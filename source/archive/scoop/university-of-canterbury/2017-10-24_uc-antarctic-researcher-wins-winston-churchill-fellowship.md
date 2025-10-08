@@ -1,9 +1,13 @@
 ---
 slug: uc-antarctic-researcher-wins-winston-churchill-fellowship
-title: "UC Antarctic researcher wins Winston Churchill Fellowship"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/ED1710/S00067/uc-antarctic-researcher-wins-winston-churchill-fellowship.htm
+title: UC Antarctic researcher wins Winston Churchill Fellowship
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00067/uc-antarctic-researcher-wins-winston-churchill-fellowship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/24/uc-antarctic-researcher-wins-winston-churchill-fellowship/index.html
+layout: layout.njk
 ---
 UC Antarctic researcher wins Winston Churchill Fellowship
 =========================================================

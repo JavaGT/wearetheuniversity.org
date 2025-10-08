@@ -1,9 +1,12 @@
 ---
 slug: new-company-name-for-lincoln-ventures-ltd
-title: "New company name for Lincoln Ventures Ltd"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/SC1212/S00009/new-company-name-for-lincoln-ventures-ltd.htm
+title: New company name for Lincoln Ventures Ltd
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00009/new-company-name-for-lincoln-ventures-ltd.htm
 author: lincoln-university
+permalink: /archive/2012/12/05/new-company-name-for-lincoln-ventures-ltd/index.html
+layout: layout.njk
 ---
 New company name for Lincoln Ventures Ltd
 =========================================

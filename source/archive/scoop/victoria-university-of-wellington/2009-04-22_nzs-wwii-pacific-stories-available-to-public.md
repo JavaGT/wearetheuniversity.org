@@ -1,9 +1,12 @@
 ---
 slug: nzs-wwii-pacific-stories-available-to-public
-title: "NZ's WWII Pacific stories available to public"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/CU0904/S00286/nzs-wwii-pacific-stories-available-to-public.htm
+title: NZ's WWII Pacific stories available to public
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00286/nzs-wwii-pacific-stories-available-to-public.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/04/22/nzs-wwii-pacific-stories-available-to-public/index.html
+layout: layout.njk
 ---
 NZ's WWII Pacific stories available to public
 =============================================

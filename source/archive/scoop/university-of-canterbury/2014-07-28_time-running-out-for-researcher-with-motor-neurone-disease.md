@@ -1,9 +1,13 @@
 ---
 slug: time-running-out-for-researcher-with-motor-neurone-disease
-title: "Time running out for researcher with motor neurone disease"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/ED1407/S00127/time-running-out-for-researcher-with-motor-neurone-disease.htm
+title: Time running out for researcher with motor neurone disease
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00127/time-running-out-for-researcher-with-motor-neurone-disease.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/28/time-running-out-for-researcher-with-motor-neurone-disease/index.html
+layout: layout.njk
 ---
 Time running out for researcher with motor neurone disease
 ==========================================================

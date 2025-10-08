@@ -1,9 +1,12 @@
 ---
 slug: value-of-research-in-fragile-states-recognised
-title: "Value of research in ‘fragile states’ recognised"
-date: 2015-09-17
-source-url: https://www.scoop.co.nz/stories/ED1509/S00102/value-of-research-in-fragile-states-recognised.htm
+title: Value of research in ‘fragile states’ recognised
+date: 2015-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00102/value-of-research-in-fragile-states-recognised.htm
 author: massey-university
+permalink: /archive/2015/09/17/value-of-research-in-fragile-states-recognised/index.html
+layout: layout.njk
 ---
 Value of research in ‘fragile states’ recognised
 ================================================

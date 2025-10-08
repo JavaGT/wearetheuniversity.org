@@ -1,9 +1,12 @@
 ---
 slug: aus-member-new-zealander-of-the-year
-title: "AUS member New Zealander of the Year"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/ED0712/S00023/aus-member-new-zealander-of-the-year.htm
+title: AUS member New Zealander of the Year
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00023/aus-member-new-zealander-of-the-year.htm
 author: association-of-university-staff
+permalink: /archive/2007/12/06/aus-member-new-zealander-of-the-year/index.html
+layout: layout.njk
 ---
 AUS member New Zealander of the Year
 ====================================

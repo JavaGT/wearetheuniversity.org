@@ -1,9 +1,12 @@
 ---
 slug: wellington-campus-closed-monday-july-22
-title: "Wellington campus closed Monday July 22"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/AK1307/S00554/wellington-campus-closed-monday-july-22.htm
+title: Wellington campus closed Monday July 22
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00554/wellington-campus-closed-monday-july-22.htm
 author: massey-university
+permalink: /archive/2013/07/22/wellington-campus-closed-monday-july-22/index.html
+layout: layout.njk
 ---
 Wellington campus closed Monday July 22
 =======================================

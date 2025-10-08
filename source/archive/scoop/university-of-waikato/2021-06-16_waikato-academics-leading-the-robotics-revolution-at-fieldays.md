@@ -1,9 +1,13 @@
 ---
 slug: waikato-academics-leading-the-robotics-revolution-at-fieldays
-title: "Waikato Academics Leading The Robotics Revolution At Fieldays"
-date: 2021-06-16
-source-url: https://www.scoop.co.nz/stories/AK2106/S00221/waikato-academics-leading-the-robotics-revolution-at-fieldays.htm
+title: Waikato Academics Leading The Robotics Revolution At Fieldays
+date: 2021-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2106/S00221/waikato-academics-leading-the-robotics-revolution-at-fieldays.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/06/16/waikato-academics-leading-the-robotics-revolution-at-fieldays/index.html
+layout: layout.njk
 ---
 Waikato Academics Leading The Robotics Revolution At Fieldays
 =============================================================

@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellors-and-government-must-avert-strike
-title: "Vice Chancellors and Government must avert strike"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/PO0404/S00060/vice-chancellors-and-government-must-avert-strike.htm
+title: Vice Chancellors and Government must avert strike
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00060/vice-chancellors-and-government-must-avert-strike.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/04/08/vice-chancellors-and-government-must-avert-strike/index.html
+layout: layout.njk
 ---
 Vice Chancellors and Government must avert strike
 =================================================

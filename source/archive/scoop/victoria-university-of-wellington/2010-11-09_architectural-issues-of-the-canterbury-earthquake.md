@@ -1,9 +1,13 @@
 ---
 slug: architectural-issues-of-the-canterbury-earthquake
-title: "Architectural issues of the Canterbury earthquake"
-date: 2010-11-09
-source-url: https://www.scoop.co.nz/stories/AK1011/S00148/architectural-issues-of-the-canterbury-earthquake.htm
+title: Architectural issues of the Canterbury earthquake
+date: 2010-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00148/architectural-issues-of-the-canterbury-earthquake.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/11/09/architectural-issues-of-the-canterbury-earthquake/index.html
+layout: layout.njk
 ---
 Architectural issues of the Canterbury earthquake
 =================================================

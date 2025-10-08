@@ -1,9 +1,13 @@
 ---
 slug: dexcel-waikato-educators-collaborate-on-resource
-title: "Dexcel, Waikato educators collaborate on resource"
-date: 2006-03-21
-source-url: https://www.scoop.co.nz/stories/ED0603/S00051/dexcel-waikato-educators-collaborate-on-resource.htm
+title: Dexcel, Waikato educators collaborate on resource
+date: 2006-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00051/dexcel-waikato-educators-collaborate-on-resource.htm
 author: waikato-university
+permalink: >-
+  /archive/2006/03/21/dexcel-waikato-educators-collaborate-on-resource/index.html
+layout: layout.njk
 ---
 Dexcel, Waikato educators collaborate on resource
 =================================================

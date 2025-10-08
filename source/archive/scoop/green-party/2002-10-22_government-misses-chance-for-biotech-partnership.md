@@ -1,9 +1,13 @@
 ---
 slug: government-misses-chance-for-biotech-partnership
-title: "Government misses chance for biotech partnership"
-date: 2002-10-22
-source-url: https://www.scoop.co.nz/stories/PA0210/S00472/government-misses-chance-for-biotech-partnership.htm
+title: Government misses chance for biotech partnership
+date: 2002-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00472/government-misses-chance-for-biotech-partnership.htm
 author: green-party
+permalink: >-
+  /archive/2002/10/22/government-misses-chance-for-biotech-partnership/index.html
+layout: layout.njk
 ---
 Government misses chance for biotech partnership
 ================================================

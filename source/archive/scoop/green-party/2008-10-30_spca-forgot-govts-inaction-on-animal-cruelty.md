@@ -1,9 +1,12 @@
 ---
 slug: spca-forgot-govts-inaction-on-animal-cruelty
-title: "SPCA forgot Govt's inaction on animal cruelty"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PA0810/S00665/spca-forgot-govts-inaction-on-animal-cruelty.htm
+title: SPCA forgot Govt's inaction on animal cruelty
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00665/spca-forgot-govts-inaction-on-animal-cruelty.htm
 author: green-party
+permalink: /archive/2008/10/30/spca-forgot-govts-inaction-on-animal-cruelty/index.html
+layout: layout.njk
 ---
 SPCA forgot Govt's inaction on animal cruelty
 =============================================

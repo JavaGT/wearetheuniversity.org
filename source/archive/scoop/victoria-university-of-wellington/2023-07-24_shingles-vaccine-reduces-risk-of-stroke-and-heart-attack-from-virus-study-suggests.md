@@ -1,9 +1,16 @@
 ---
-slug: shingles-vaccine-reduces-risk-of-stroke-and-heart-attack-from-virus-study-suggests
-title: "Shingles Vaccine Reduces Risk Of Stroke And Heart Attack From Virus, Study Suggests"
-date: 2023-07-24
-source-url: https://www.scoop.co.nz/stories/GE2307/S00058/shingles-vaccine-reduces-risk-of-stroke-and-heart-attack-from-virus-study-suggests.htm
+slug: >-
+  shingles-vaccine-reduces-risk-of-stroke-and-heart-attack-from-virus-study-suggests
+title: >-
+  Shingles Vaccine Reduces Risk Of Stroke And Heart Attack From Virus, Study
+  Suggests
+date: 2023-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2307/S00058/shingles-vaccine-reduces-risk-of-stroke-and-heart-attack-from-virus-study-suggests.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/07/24/shingles-vaccine-reduces-risk-of-stroke-and-heart-attack-from-virus-study-suggests/index.html
+layout: layout.njk
 ---
 Shingles Vaccine Reduces Risk Of Stroke And Heart Attack From Virus, Study Suggests
 ===================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: another-step-towards-pasifika-justice
-title: "Another Step Towards Pasifika Justice"
-date: 2024-10-24
-source-url: https://www.scoop.co.nz/stories/PA2410/S00196/another-step-towards-pasifika-justice.htm
+title: Another Step Towards Pasifika Justice
+date: 2024-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00196/another-step-towards-pasifika-justice.htm
 author: green-party
+permalink: /archive/2024/10/24/another-step-towards-pasifika-justice/index.html
+layout: layout.njk
 ---
 Another Step Towards Pasifika Justice
 =====================================

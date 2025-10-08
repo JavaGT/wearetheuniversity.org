@@ -1,9 +1,12 @@
 ---
 slug: labour-relegates-major-roading-projects
-title: "Labour relegates major roading projects"
-date: 2005-10-31
-source-url: https://www.scoop.co.nz/stories/PA0510/S00196/labour-relegates-major-roading-projects.htm
+title: Labour relegates major roading projects
+date: 2005-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00196/labour-relegates-major-roading-projects.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/31/labour-relegates-major-roading-projects/index.html
+layout: layout.njk
 ---
 Labour relegates major roading projects
 =======================================

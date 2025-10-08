@@ -1,9 +1,12 @@
 ---
 slug: suffrage-day-ending-pay-discrimination
-title: "Suffrage Day: Ending Pay Discrimination"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/PO0609/S00221/suffrage-day-ending-pay-discrimination.htm
+title: 'Suffrage Day: Ending Pay Discrimination'
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00221/suffrage-day-ending-pay-discrimination.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/09/20/suffrage-day-ending-pay-discrimination/index.html
+layout: layout.njk
 ---
 Suffrage Day: Ending Pay Discrimination
 =======================================

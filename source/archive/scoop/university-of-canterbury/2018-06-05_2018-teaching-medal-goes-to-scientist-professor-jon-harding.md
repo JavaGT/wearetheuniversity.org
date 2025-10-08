@@ -1,9 +1,13 @@
 ---
 slug: 2018-teaching-medal-goes-to-scientist-professor-jon-harding
-title: "2018 Teaching Medal goes to scientist Professor Jon Harding"
-date: 2018-06-05
-source-url: https://www.scoop.co.nz/stories/ED1806/S00012/2018-teaching-medal-goes-to-scientist-professor-jon-harding.htm
+title: 2018 Teaching Medal goes to scientist Professor Jon Harding
+date: 2018-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00012/2018-teaching-medal-goes-to-scientist-professor-jon-harding.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/05/2018-teaching-medal-goes-to-scientist-professor-jon-harding/index.html
+layout: layout.njk
 ---
 2018 Teaching Medal goes to scientist Professor Jon Harding
 ===========================================================

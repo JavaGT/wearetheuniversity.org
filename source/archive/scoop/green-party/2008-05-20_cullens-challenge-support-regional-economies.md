@@ -1,9 +1,12 @@
 ---
 slug: cullens-challenge-support-regional-economies
-title: "Cullen's challenge: support regional economies"
-date: 2008-05-20
-source-url: https://www.scoop.co.nz/stories/PA0805/S00343/cullens-challenge-support-regional-economies.htm
+title: 'Cullen''s challenge: support regional economies'
+date: 2008-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00343/cullens-challenge-support-regional-economies.htm
 author: green-party
+permalink: /archive/2008/05/20/cullens-challenge-support-regional-economies/index.html
+layout: layout.njk
 ---
 Cullen's challenge: support regional economies
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-timaru-grey-power-speech
-title: "Rt Hon Winston Peters: Timaru Grey Power Speech"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/PA1407/S00293/rt-hon-winston-peters-timaru-grey-power-speech.htm
+title: 'Rt Hon Winston Peters: Timaru Grey Power Speech'
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00293/rt-hon-winston-peters-timaru-grey-power-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2014/07/16/rt-hon-winston-peters-timaru-grey-power-speech/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters: Timaru Grey Power Speech
 ===============================================

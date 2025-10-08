@@ -1,9 +1,13 @@
 ---
 slug: no-amount-of-scaremongering-can-stop-us-now-says-turia
-title: "No amount of scaremongering can stop us now says Turia"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00453/no-amount-of-scaremongering-can-stop-us-now-says-turia.htm
+title: No amount of scaremongering can stop us now says Turia
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00453/no-amount-of-scaremongering-can-stop-us-now-says-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/11/23/no-amount-of-scaremongering-can-stop-us-now-says-turia/index.html
+layout: layout.njk
 ---
 No amount of scaremongering can stop us now says Turia
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwis-should-demand-the-debate-on-ute-tax
-title: "Kiwis Should Demand The Debate On Ute Tax"
-date: 2021-07-14
-source-url: https://www.scoop.co.nz/stories/PA2107/S00104/kiwis-should-demand-the-debate-on-ute-tax.htm
+title: Kiwis Should Demand The Debate On Ute Tax
+date: 2021-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00104/kiwis-should-demand-the-debate-on-ute-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/14/kiwis-should-demand-the-debate-on-ute-tax/index.html
+layout: layout.njk
 ---
 Kiwis Should Demand The Debate On Ute Tax
 =========================================

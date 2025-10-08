@@ -1,9 +1,12 @@
 ---
 slug: peters-address-to-political-science-students
-title: "Peters: Address to Political Science Students"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/PO1005/S00168/peters-address-to-political-science-students.htm
+title: 'Peters: Address to Political Science Students'
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00168/peters-address-to-political-science-students.htm
 author: new-zealand-first-party
+permalink: /archive/2010/05/18/peters-address-to-political-science-students/index.html
+layout: layout.njk
 ---
 Peters: Address to Political Science Students
 =============================================

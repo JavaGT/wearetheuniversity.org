@@ -1,9 +1,13 @@
 ---
 slug: knowledge-wave-turns-out-to-be-an-elitist-puddle
-title: "Knowledge Wave Turns Out to be an Elitist Puddle"
-date: 2001-08-05
-source-url: https://www.scoop.co.nz/stories/PO0108/S00015/knowledge-wave-turns-out-to-be-an-elitist-puddle.htm
+title: Knowledge Wave Turns Out to be an Elitist Puddle
+date: 2001-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0108/S00015/knowledge-wave-turns-out-to-be-an-elitist-puddle.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2001/08/05/knowledge-wave-turns-out-to-be-an-elitist-puddle/index.html
+layout: layout.njk
 ---
 Knowledge Wave Turns Out to be an Elitist Puddle
 ================================================

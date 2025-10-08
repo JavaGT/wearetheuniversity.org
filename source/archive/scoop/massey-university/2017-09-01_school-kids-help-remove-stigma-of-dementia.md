@@ -1,9 +1,12 @@
 ---
 slug: school-kids-help-remove-stigma-of-dementia
-title: "School kids help remove stigma of dementia"
-date: 2017-09-01
-source-url: https://www.scoop.co.nz/stories/ED1709/S00006/school-kids-help-remove-stigma-of-dementia.htm
+title: School kids help remove stigma of dementia
+date: 2017-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00006/school-kids-help-remove-stigma-of-dementia.htm
 author: massey-university
+permalink: /archive/2017/09/01/school-kids-help-remove-stigma-of-dementia/index.html
+layout: layout.njk
 ---
 School kids help remove stigma of dementia
 ==========================================

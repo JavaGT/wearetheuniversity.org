@@ -1,9 +1,13 @@
 ---
 slug: hamilton-boys-high-make-their-mark-at-chemistry-challenge
-title: "Hamilton Boys’ High make their mark at chemistry challenge"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/ED1606/S00109/hamilton-boys-high-make-their-mark-at-chemistry-challenge.htm
+title: Hamilton Boys’ High make their mark at chemistry challenge
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00109/hamilton-boys-high-make-their-mark-at-chemistry-challenge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/29/hamilton-boys-high-make-their-mark-at-chemistry-challenge/index.html
+layout: layout.njk
 ---
 Hamilton Boys’ High make their mark at chemistry challenge
 ==========================================================

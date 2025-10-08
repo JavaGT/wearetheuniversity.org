@@ -1,9 +1,13 @@
 ---
 slug: hospice-awareness-week-highlights-the-need-for-services
-title: "Hospice Awareness Week highlights the need for services"
-date: 2013-05-13
-source-url: https://www.scoop.co.nz/stories/GE1305/S00079/hospice-awareness-week-highlights-the-need-for-services.htm
+title: Hospice Awareness Week highlights the need for services
+date: 2013-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00079/hospice-awareness-week-highlights-the-need-for-services.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/13/hospice-awareness-week-highlights-the-need-for-services/index.html
+layout: layout.njk
 ---
 Hospice Awareness Week highlights the need for services
 =======================================================

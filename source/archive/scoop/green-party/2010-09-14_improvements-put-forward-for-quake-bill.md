@@ -1,9 +1,12 @@
 ---
 slug: improvements-put-forward-for-quake-bill
-title: "Improvements put forward for Quake Bill"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PA1009/S00206/improvements-put-forward-for-quake-bill.htm
+title: Improvements put forward for Quake Bill
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00206/improvements-put-forward-for-quake-bill.htm
 author: green-party
+permalink: /archive/2010/09/14/improvements-put-forward-for-quake-bill/index.html
+layout: layout.njk
 ---
 Improvements put forward for Quake Bill
 =======================================

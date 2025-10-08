@@ -1,9 +1,13 @@
 ---
 slug: education-leads-rankings-boost-for-university-of-waikato
-title: "Education leads rankings boost for University of Waikato"
-date: 2014-02-26
-source-url: https://www.scoop.co.nz/stories/ED1402/S00116/education-leads-rankings-boost-for-university-of-waikato.htm
+title: Education leads rankings boost for University of Waikato
+date: 2014-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00116/education-leads-rankings-boost-for-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/02/26/education-leads-rankings-boost-for-university-of-waikato/index.html
+layout: layout.njk
 ---
 Education leads rankings boost for University of Waikato
 ========================================================

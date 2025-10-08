@@ -1,9 +1,12 @@
 ---
 slug: what-about-police-vacancies-george
-title: "What about police vacancies George?"
-date: 2001-08-03
-source-url: https://www.scoop.co.nz/stories/PA0108/S00070/what-about-police-vacancies-george.htm
+title: What about police vacancies George?
+date: 2001-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00070/what-about-police-vacancies-george.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/03/what-about-police-vacancies-george/index.html
+layout: layout.njk
 ---
 What about police vacancies George?
 ===================================

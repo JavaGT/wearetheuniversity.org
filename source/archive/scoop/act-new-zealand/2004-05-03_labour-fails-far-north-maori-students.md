@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-far-north-maori-students
-title: "Labour Fails Far North Maori Students"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00029/labour-fails-far-north-maori-students.htm
+title: Labour Fails Far North Maori Students
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00029/labour-fails-far-north-maori-students.htm
 author: act-new-zealand
+permalink: /archive/2004/05/03/labour-fails-far-north-maori-students/index.html
+layout: layout.njk
 ---
 Labour Fails Far North Maori Students
 =====================================

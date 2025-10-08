@@ -1,9 +1,12 @@
 ---
 slug: free-press-the-power-of-equality
-title: "Free Press:The Power of Equality"
-date: 2015-07-06
-source-url: https://www.scoop.co.nz/stories/PA1507/S00108/free-pressthe-power-of-equality.htm
+title: Free Press:The Power of Equality
+date: 2015-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00108/free-pressthe-power-of-equality.htm
 author: act-new-zealand
+permalink: /archive/2015/07/06/free-press-the-power-of-equality/index.html
+layout: layout.njk
 ---
 Free Press:The Power of Equality
 ================================

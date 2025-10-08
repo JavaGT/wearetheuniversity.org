@@ -1,9 +1,13 @@
 ---
 slug: new-appointments-department-of-political-studies
-title: "New appointments Department of Political Studies"
-date: 2002-08-30
-source-url: https://www.scoop.co.nz/stories/PO0208/S00133/new-appointments-department-of-political-studies.htm
+title: New appointments Department of Political Studies
+date: 2002-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00133/new-appointments-department-of-political-studies.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/08/30/new-appointments-department-of-political-studies/index.html
+layout: layout.njk
 ---
 New appointments Department of Political Studies
 ================================================

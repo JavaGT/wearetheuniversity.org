@@ -1,9 +1,12 @@
 ---
 slug: unenrolled-students-nearly-triple-under-labour
-title: "Unenrolled Students Nearly Triple Under Labour"
-date: 2023-06-07
-source-url: https://www.scoop.co.nz/stories/PA2306/S00039/unenrolled-students-nearly-triple-under-labour.htm
+title: Unenrolled Students Nearly Triple Under Labour
+date: 2023-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00039/unenrolled-students-nearly-triple-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/07/unenrolled-students-nearly-triple-under-labour/index.html
+layout: layout.njk
 ---
 Unenrolled Students Nearly Triple Under Labour
 ==============================================

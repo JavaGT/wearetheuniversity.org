@@ -1,9 +1,11 @@
 ---
 slug: what-value-in-dhb-elections
-title: "What Value In DHB Elections?"
-date: 2004-02-10
+title: What Value In DHB Elections?
+date: 2004-02-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0402/S00125/what-value-in-dhb-elections.htm
 author: act-new-zealand
+permalink: /archive/2004/02/10/what-value-in-dhb-elections/index.html
+layout: layout.njk
 ---
 What Value In DHB Elections?
 ============================

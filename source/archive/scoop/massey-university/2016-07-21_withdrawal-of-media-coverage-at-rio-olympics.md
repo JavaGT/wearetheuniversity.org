@@ -1,9 +1,12 @@
 ---
 slug: withdrawal-of-media-coverage-at-rio-olympics
-title: "Withdrawal of media coverage at Rio Olympics"
-date: 2016-07-21
-source-url: https://www.scoop.co.nz/stories/CU1607/S00267/withdrawal-of-media-coverage-at-rio-olympics.htm
+title: Withdrawal of media coverage at Rio Olympics
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1607/S00267/withdrawal-of-media-coverage-at-rio-olympics.htm
 author: massey-university
+permalink: /archive/2016/07/21/withdrawal-of-media-coverage-at-rio-olympics/index.html
+layout: layout.njk
 ---
 Withdrawal of media coverage at Rio Olympics
 ============================================

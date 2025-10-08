@@ -1,9 +1,12 @@
 ---
 slug: polyfest-prepares-future-leaders
-title: "Polyfest Prepares Future Leaders"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/PA0903/S00284/polyfest-prepares-future-leaders.htm
+title: Polyfest Prepares Future Leaders
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00284/polyfest-prepares-future-leaders.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/19/polyfest-prepares-future-leaders/index.html
+layout: layout.njk
 ---
 Polyfest Prepares Future Leaders
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-a-land-full-of-noise
-title: "Winston Peters: A Land Full Of Noise"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PA0809/S00283/winston-peters-a-land-full-of-noise.htm
+title: 'Winston Peters: A Land Full Of Noise'
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00283/winston-peters-a-land-full-of-noise.htm
 author: new-zealand-first-party
+permalink: /archive/2008/09/12/winston-peters-a-land-full-of-noise/index.html
+layout: layout.njk
 ---
 Winston Peters: A Land Full Of Noise
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-pay-parity-claim
-title: "Early Childhood Pay Parity Claim"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/ED0410/S00070/early-childhood-pay-parity-claim.htm
+title: Early Childhood Pay Parity Claim
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00070/early-childhood-pay-parity-claim.htm
 author: nzei
+permalink: /archive/2004/10/18/early-childhood-pay-parity-claim/index.html
+layout: layout.njk
 ---
 Early Childhood Pay Parity Claim
 ================================

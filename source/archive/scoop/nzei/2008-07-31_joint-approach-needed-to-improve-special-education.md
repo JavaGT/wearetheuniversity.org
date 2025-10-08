@@ -1,9 +1,13 @@
 ---
 slug: joint-approach-needed-to-improve-special-education
-title: "Joint Approach Needed To Improve Special Education"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/ED0807/S00096/joint-approach-needed-to-improve-special-education.htm
+title: Joint Approach Needed To Improve Special Education
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00096/joint-approach-needed-to-improve-special-education.htm
 author: nzei
+permalink: >-
+  /archive/2008/07/31/joint-approach-needed-to-improve-special-education/index.html
+layout: layout.njk
 ---
 Joint Approach Needed To Improve Special Education
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: educators-ask-for-funding-to-settle-pay-equity-claims
-title: "Educators ask for funding to settle pay equity claims"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/PO1711/S00250/educators-ask-for-funding-to-settle-pay-equity-claims.htm
+title: Educators ask for funding to settle pay equity claims
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1711/S00250/educators-ask-for-funding-to-settle-pay-equity-claims.htm
 author: nzei
+permalink: >-
+  /archive/2017/11/22/educators-ask-for-funding-to-settle-pay-equity-claims/index.html
+layout: layout.njk
 ---
 Educators ask for funding to settle pay equity claims
 =====================================================

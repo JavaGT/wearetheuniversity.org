@@ -1,9 +1,12 @@
 ---
 slug: nationals-increase-amounts-to-a-cut
-title: "National's  'increase' amounts to a cut"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00026/nationals-increase-amounts-to-a-cut.htm
+title: National's  'increase' amounts to a cut
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00026/nationals-increase-amounts-to-a-cut.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/01/nationals-increase-amounts-to-a-cut/index.html
+layout: layout.njk
 ---
 National's 'increase' amounts to a cut
 ======================================

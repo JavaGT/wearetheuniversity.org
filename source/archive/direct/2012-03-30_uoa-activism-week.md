@@ -1,10 +1,13 @@
 ---
 title: UoA Activism Week
 slug: uoa-activism-week
-date: 2012-03-30
-source: https://web.archive.org/web/20130208031139/http://wearetheuniversity.org.nz/2012/03/30/save-our-port-com/
+date: 2012-03-30T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031139/http://wearetheuniversity.org.nz/2012/03/30/save-our-port-com/
 author: We Are The University
 author-slug: we-are-the-university
+permalink: /archive/2012/03/30/uoa-activism-week/index.html
+layout: layout.njk
 ---
 Monday 14th  
 Workshop 1  

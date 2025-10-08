@@ -1,9 +1,12 @@
 ---
 slug: science-and-religion-are-they-compatible
-title: "Science and Religion: are they compatible?"
-date: 2019-09-06
-source-url: https://www.scoop.co.nz/stories/ED1909/S00017/science-and-religion-are-they-compatible.htm
+title: 'Science and Religion: are they compatible?'
+date: 2019-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00017/science-and-religion-are-they-compatible.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/06/science-and-religion-are-they-compatible/index.html
+layout: layout.njk
 ---
 Science and Religion: are they compatible?
 ==========================================

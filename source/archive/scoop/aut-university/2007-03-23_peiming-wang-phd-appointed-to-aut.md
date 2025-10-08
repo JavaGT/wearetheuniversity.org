@@ -1,9 +1,12 @@
 ---
 slug: peiming-wang-phd-appointed-to-aut
-title: "Peiming Wang PhD Appointed To AUT"
-date: 2007-03-23
-source-url: https://www.scoop.co.nz/stories/ED0703/S00080/peiming-wang-phd-appointed-to-aut.htm
+title: Peiming Wang PhD Appointed To AUT
+date: 2007-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00080/peiming-wang-phd-appointed-to-aut.htm
 author: aut-university
+permalink: /archive/2007/03/23/peiming-wang-phd-appointed-to-aut/index.html
+layout: layout.njk
 ---
 Peiming Wang PhD Appointed To AUT
 =================================

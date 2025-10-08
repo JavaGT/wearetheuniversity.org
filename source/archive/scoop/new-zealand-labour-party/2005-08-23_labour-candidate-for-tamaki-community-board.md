@@ -1,9 +1,12 @@
 ---
 slug: labour-candidate-for-tamaki-community-board
-title: "Labour candidate for Tamaki Community Board"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/AK0508/S00139/labour-candidate-for-tamaki-community-board.htm
+title: Labour candidate for Tamaki Community Board
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0508/S00139/labour-candidate-for-tamaki-community-board.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/23/labour-candidate-for-tamaki-community-board/index.html
+layout: layout.njk
 ---
 Labour candidate for Tamaki Community Board
 ===========================================

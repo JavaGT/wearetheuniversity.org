@@ -1,9 +1,12 @@
 ---
 slug: missed-opportunity-to-crackdown-on-loan-sharks
-title: "Missed opportunity to crackdown on loan sharks"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/PA1403/S00323/missed-opportunity-to-crackdown-on-loan-sharks.htm
+title: Missed opportunity to crackdown on loan sharks
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00323/missed-opportunity-to-crackdown-on-loan-sharks.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/17/missed-opportunity-to-crackdown-on-loan-sharks/index.html
+layout: layout.njk
 ---
 Missed opportunity to crackdown on loan sharks
 ==============================================

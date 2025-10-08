@@ -1,9 +1,13 @@
 ---
 slug: $1-million-forestry-award-for-building-with-hi-tech-wood
-title: "$1 million forestry award for building with hi-tech wood"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/PA1403/S00357/1-million-forestry-award-for-building-with-hi-tech-wood.htm
+title: $1 million forestry award for building with hi-tech wood
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00357/1-million-forestry-award-for-building-with-hi-tech-wood.htm
 author: green-party
+permalink: >-
+  /archive/2014/03/19/1-million-forestry-award-for-building-with-hi-tech-wood/index.html
+layout: layout.njk
 ---
 $1 million forestry award for building with hi-tech wood
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: 10-fold-more-affordable-houses-under-labour
-title: "10-fold more affordable houses under Labour"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PA1607/S00175/10-fold-more-affordable-houses-under-labour.htm
+title: 10-fold more affordable houses under Labour
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00175/10-fold-more-affordable-houses-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/11/10-fold-more-affordable-houses-under-labour/index.html
+layout: layout.njk
 ---
 10-fold more affordable houses under Labour
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-victoria-research-centre-targets-biodiscovery
-title: "New Victoria Research Centre targets biodiscovery"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/ED0403/S00058/new-victoria-research-centre-targets-biodiscovery.htm
+title: New Victoria Research Centre targets biodiscovery
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00058/new-victoria-research-centre-targets-biodiscovery.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/03/15/new-victoria-research-centre-targets-biodiscovery/index.html
+layout: layout.njk
 ---
 New Victoria Research Centre targets biodiscovery
 =================================================

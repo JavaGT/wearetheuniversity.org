@@ -1,9 +1,13 @@
 ---
 slug: research-into-nelson-lakes-national-park-methane-discharge
-title: "Research into Nelson Lakes National Park methane discharge"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/SC1504/S00060/research-into-nelson-lakes-national-park-methane-discharge.htm
+title: Research into Nelson Lakes National Park methane discharge
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00060/research-into-nelson-lakes-national-park-methane-discharge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/21/research-into-nelson-lakes-national-park-methane-discharge/index.html
+layout: layout.njk
 ---
 Research into Nelson Lakes National Park methane discharge
 ==========================================================

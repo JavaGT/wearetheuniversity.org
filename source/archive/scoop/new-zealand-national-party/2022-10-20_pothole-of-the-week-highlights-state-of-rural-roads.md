@@ -1,9 +1,13 @@
 ---
 slug: pothole-of-the-week-highlights-state-of-rural-roads
-title: "Pothole Of The Week Highlights State Of Rural Roads"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00155/pothole-of-the-week-highlights-state-of-rural-roads.htm
+title: Pothole Of The Week Highlights State Of Rural Roads
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00155/pothole-of-the-week-highlights-state-of-rural-roads.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/10/20/pothole-of-the-week-highlights-state-of-rural-roads/index.html
+layout: layout.njk
 ---
 Pothole Of The Week Highlights State Of Rural Roads
 ===================================================

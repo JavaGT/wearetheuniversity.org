@@ -1,9 +1,11 @@
 ---
 slug: budget-2023-fiscal-vandalism
-title: "Budget 2023: Fiscal Vandalism"
-date: 2023-05-19
+title: 'Budget 2023: Fiscal Vandalism'
+date: 2023-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2305/S00149/budget-2023-fiscal-vandalism.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/19/budget-2023-fiscal-vandalism/index.html
+layout: layout.njk
 ---
 Budget 2023: Fiscal Vandalism
 =============================

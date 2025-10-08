@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-must-be-a-public-good-for-all-kiwis
-title: "Tertiary education must be a public good for all Kiwis"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/ED1703/S00088/tertiary-education-must-be-a-public-good-for-all-kiwis.htm
+title: Tertiary education must be a public good for all Kiwis
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00088/tertiary-education-must-be-a-public-good-for-all-kiwis.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2017/03/21/tertiary-education-must-be-a-public-good-for-all-kiwis/index.html
+layout: layout.njk
 ---
 Tertiary education must be a public good for all Kiwis
 ======================================================

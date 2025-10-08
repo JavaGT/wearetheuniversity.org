@@ -1,9 +1,12 @@
 ---
 slug: franks-speech-treaty-of-waitangi-&-maori-affairs
-title: "Franks Speech - Treaty of Waitangi & Maori Affairs"
-date: 2004-04-15
-source-url: https://www.scoop.co.nz/stories/PA0404/S00225/franks-speech-treaty-of-waitangi-maori-affairs.htm
+title: Franks Speech - Treaty of Waitangi & Maori Affairs
+date: 2004-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00225/franks-speech-treaty-of-waitangi-maori-affairs.htm
 author: act-new-zealand
+permalink: /archive/2004/04/15/franks-speech-treaty-of-waitangi-/index.html
+layout: layout.njk
 ---
 Franks Speech - Treaty of Waitangi & Maori Affairs
 ==================================================

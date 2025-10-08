@@ -1,9 +1,12 @@
 ---
 slug: māori-leaders-join-to-inspire-suicide-prevention-approaches
-title: "Māori leaders join to inspire suicide prevention approaches"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/PO1402/S00027/maori-leaders-join-to-inspire-suicide-prevention-approaches.htm
+title: Māori leaders join to inspire suicide prevention approaches
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00027/maori-leaders-join-to-inspire-suicide-prevention-approaches.htm
 author: university-of-otago
+permalink: /archive/2014/02/04/m/index.html
+layout: layout.njk
 ---
 Māori leaders join to inspire suicide prevention approaches
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: ministers-uncaring-treatment-of-charter-schools
-title: "Minister’s uncaring treatment of charter schools"
-date: 2018-06-08
-source-url: https://www.scoop.co.nz/stories/PA1806/S00084/ministers-uncaring-treatment-of-charter-schools.htm
+title: Minister’s uncaring treatment of charter schools
+date: 2018-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00084/ministers-uncaring-treatment-of-charter-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/08/ministers-uncaring-treatment-of-charter-schools/index.html
+layout: layout.njk
 ---
 Minister’s uncaring treatment of charter schools
 ================================================

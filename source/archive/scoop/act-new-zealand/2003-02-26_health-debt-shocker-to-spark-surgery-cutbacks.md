@@ -1,9 +1,12 @@
 ---
 slug: health-debt-shocker-to-spark-surgery-cutbacks
-title: "Health Debt Shocker To Spark Surgery Cutbacks"
-date: 2003-02-26
-source-url: https://www.scoop.co.nz/stories/PA0302/S00483/health-debt-shocker-to-spark-surgery-cutbacks.htm
+title: Health Debt Shocker To Spark Surgery Cutbacks
+date: 2003-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00483/health-debt-shocker-to-spark-surgery-cutbacks.htm
 author: act-new-zealand
+permalink: /archive/2003/02/26/health-debt-shocker-to-spark-surgery-cutbacks/index.html
+layout: layout.njk
 ---
 Health Debt Shocker To Spark Surgery Cutbacks
 =============================================

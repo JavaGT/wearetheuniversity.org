@@ -1,9 +1,12 @@
 ---
 slug: sue-bradford-speech-to-ctu-biennial-conference
-title: "Sue Bradford Speech to CTU Biennial Conference"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/PA0510/S00104/sue-bradford-speech-to-ctu-biennial-conference.htm
+title: Sue Bradford Speech to CTU Biennial Conference
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00104/sue-bradford-speech-to-ctu-biennial-conference.htm
 author: green-party
+permalink: /archive/2005/10/19/sue-bradford-speech-to-ctu-biennial-conference/index.html
+layout: layout.njk
 ---
 Sue Bradford Speech to CTU Biennial Conference
 ==============================================

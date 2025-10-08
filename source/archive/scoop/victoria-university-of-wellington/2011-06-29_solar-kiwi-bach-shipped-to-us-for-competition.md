@@ -1,9 +1,12 @@
 ---
 slug: solar-kiwi-bach-shipped-to-us-for-competition
-title: "Solar Kiwi bach shipped to US for competition"
-date: 2011-06-29
-source-url: https://www.scoop.co.nz/stories/ED1106/S00115/solar-kiwi-bach-shipped-to-us-for-competition.htm
+title: Solar Kiwi bach shipped to US for competition
+date: 2011-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00115/solar-kiwi-bach-shipped-to-us-for-competition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/29/solar-kiwi-bach-shipped-to-us-for-competition/index.html
+layout: layout.njk
 ---
 Solar Kiwi bach shipped to US for competition
 =============================================

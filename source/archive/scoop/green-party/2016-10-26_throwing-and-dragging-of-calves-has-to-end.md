@@ -1,9 +1,12 @@
 ---
 slug: throwing-and-dragging-of-calves-has-to-end
-title: "Throwing and dragging of calves has to end"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PA1610/S00383/throwing-and-dragging-of-calves-has-to-end.htm
+title: Throwing and dragging of calves has to end
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00383/throwing-and-dragging-of-calves-has-to-end.htm
 author: green-party
+permalink: /archive/2016/10/26/throwing-and-dragging-of-calves-has-to-end/index.html
+layout: layout.njk
 ---
 Throwing and dragging of calves has to end
 ==========================================

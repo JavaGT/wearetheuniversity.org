@@ -1,9 +1,12 @@
 ---
 slug: well-being-divided-on-ethnic-grounds
-title: "'Well-being divided on ethnic grounds'"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00359/well-being-divided-on-ethnic-grounds.htm
+title: '''Well-being divided on ethnic grounds'''
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00359/well-being-divided-on-ethnic-grounds.htm
 author: te-pati-maori
+permalink: /archive/2007/10/18/well-being-divided-on-ethnic-grounds/index.html
+layout: layout.njk
 ---
 'Well-being divided on ethnic grounds'
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: senio-scores-with-off-field-game-plan
-title: "Senio scores with off-field game plan"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/ED0610/S00066/senio-scores-with-off-field-game-plan.htm
+title: Senio scores with off-field game plan
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00066/senio-scores-with-off-field-game-plan.htm
 author: aut-university
+permalink: /archive/2006/10/13/senio-scores-with-off-field-game-plan/index.html
+layout: layout.njk
 ---
 Senio scores with off-field game plan
 =====================================

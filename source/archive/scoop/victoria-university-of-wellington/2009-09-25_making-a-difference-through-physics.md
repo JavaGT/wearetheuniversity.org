@@ -1,9 +1,12 @@
 ---
 slug: making-a-difference-through-physics
-title: "Making a difference through physics"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/SC0909/S00051/making-a-difference-through-physics.htm
+title: Making a difference through physics
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00051/making-a-difference-through-physics.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/25/making-a-difference-through-physics/index.html
+layout: layout.njk
 ---
 Making a difference through physics
 ===================================

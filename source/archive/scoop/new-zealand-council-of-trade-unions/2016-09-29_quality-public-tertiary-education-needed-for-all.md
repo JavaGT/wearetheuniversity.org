@@ -1,9 +1,13 @@
 ---
 slug: quality-public-tertiary-education-needed-for-all
-title: "Quality public tertiary education needed for all"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/ED1609/S00158/quality-public-tertiary-education-needed-for-all.htm
+title: Quality public tertiary education needed for all
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00158/quality-public-tertiary-education-needed-for-all.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/09/29/quality-public-tertiary-education-needed-for-all/index.html
+layout: layout.njk
 ---
 Quality public tertiary education needed for all
 ================================================

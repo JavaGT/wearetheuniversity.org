@@ -1,9 +1,13 @@
 ---
 slug: nz-food-partnership-to-combat-global-malnutrition
-title: "NZ food partnership to combat global malnutrition"
-date: 2011-02-21
-source-url: https://www.scoop.co.nz/stories/SC1102/S00062/nz-food-partnership-to-combat-global-malnutrition.htm
+title: NZ food partnership to combat global malnutrition
+date: 2011-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00062/nz-food-partnership-to-combat-global-malnutrition.htm
 author: massey-university
+permalink: >-
+  /archive/2011/02/21/nz-food-partnership-to-combat-global-malnutrition/index.html
+layout: layout.njk
 ---
 NZ food partnership to combat global malnutrition
 =================================================

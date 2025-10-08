@@ -1,9 +1,12 @@
 ---
 slug: ministers-incompetence-hinders-schools
-title: "Minister’s Incompetence Hinders Schools"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/PA0005/S00307/ministers-incompetence-hinders-schools.htm
+title: Minister’s Incompetence Hinders Schools
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00307/ministers-incompetence-hinders-schools.htm
 author: act-new-zealand
+permalink: /archive/2000/05/15/ministers-incompetence-hinders-schools/index.html
+layout: layout.njk
 ---
 Minister’s Incompetence Hinders Schools
 =======================================

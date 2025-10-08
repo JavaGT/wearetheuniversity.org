@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-enrolments-historic-high
-title: "Victoria University Enrolments Historic High"
-date: 2001-08-09
-source-url: https://www.scoop.co.nz/stories/ED0108/S00036/victoria-university-enrolments-historic-high.htm
+title: Victoria University Enrolments Historic High
+date: 2001-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00036/victoria-university-enrolments-historic-high.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/08/09/victoria-university-enrolments-historic-high/index.html
+layout: layout.njk
 ---
 Victoria University Enrolments Historic High
 ============================================

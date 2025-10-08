@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-chance-for-choice
-title: "Students welcome chance for choice"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/PO0908/S00253/students-welcome-chance-for-choice.htm
+title: Students welcome chance for choice
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00253/students-welcome-chance-for-choice.htm
 author: new-zealand-young-nationals
+permalink: /archive/2009/08/20/students-welcome-chance-for-choice/index.html
+layout: layout.njk
 ---
 Students welcome chance for choice
 ==================================

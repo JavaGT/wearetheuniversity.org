@@ -1,9 +1,13 @@
 ---
 slug: study-clears-up-speculation-about-vitamin-d-reducing-colds
-title: "Study clears up speculation about vitamin D reducing colds"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/GE1210/S00035/study-clears-up-speculation-about-vitamin-d-reducing-colds.htm
+title: Study clears up speculation about vitamin D reducing colds
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00035/study-clears-up-speculation-about-vitamin-d-reducing-colds.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/04/study-clears-up-speculation-about-vitamin-d-reducing-colds/index.html
+layout: layout.njk
 ---
 Study clears up speculation about vitamin D reducing colds
 ==========================================================

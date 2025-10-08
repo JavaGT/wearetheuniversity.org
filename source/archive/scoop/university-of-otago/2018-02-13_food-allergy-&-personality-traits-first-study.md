@@ -1,9 +1,12 @@
 ---
 slug: food-allergy-&-personality-traits-first-study
-title: "Food allergy & personality traits - FIRST study"
-date: 2018-02-13
-source-url: https://www.scoop.co.nz/stories/GE1802/S00040/food-allergy-personality-traits-first-study.htm
+title: Food allergy & personality traits - FIRST study
+date: 2018-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00040/food-allergy-personality-traits-first-study.htm
 author: university-of-otago
+permalink: /archive/2018/02/13/food-allergy-/index.html
+layout: layout.njk
 ---
 Food allergy & personality traits - FIRST study
 ===============================================

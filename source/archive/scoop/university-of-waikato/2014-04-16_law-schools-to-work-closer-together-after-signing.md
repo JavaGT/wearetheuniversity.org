@@ -1,9 +1,13 @@
 ---
 slug: law-schools-to-work-closer-together-after-signing
-title: "Law Schools to work closer together after signing"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/ED1404/S00063/law-schools-to-work-closer-together-after-signing.htm
+title: Law Schools to work closer together after signing
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00063/law-schools-to-work-closer-together-after-signing.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/16/law-schools-to-work-closer-together-after-signing/index.html
+layout: layout.njk
 ---
 Law Schools to work closer together after signing
 =================================================

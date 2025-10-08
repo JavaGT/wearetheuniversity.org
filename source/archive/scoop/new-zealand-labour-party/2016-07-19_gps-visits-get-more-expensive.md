@@ -1,9 +1,12 @@
 ---
 slug: gps-visits-get-more-expensive
-title: "GP’s visits get more expensive"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/PA1607/S00281/gps-visits-get-more-expensive.htm
+title: GP’s visits get more expensive
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00281/gps-visits-get-more-expensive.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/19/gps-visits-get-more-expensive/index.html
+layout: layout.njk
 ---
 GP’s visits get more expensive
 ==============================

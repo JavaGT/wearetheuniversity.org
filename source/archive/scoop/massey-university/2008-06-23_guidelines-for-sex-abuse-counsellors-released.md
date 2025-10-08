@@ -1,9 +1,12 @@
 ---
 slug: guidelines-for-sex-abuse-counsellors-released
-title: "Guidelines for sex abuse counsellors released"
-date: 2008-06-23
-source-url: https://www.scoop.co.nz/stories/GE0806/S00067/guidelines-for-sex-abuse-counsellors-released.htm
+title: Guidelines for sex abuse counsellors released
+date: 2008-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0806/S00067/guidelines-for-sex-abuse-counsellors-released.htm
 author: massey-university
+permalink: /archive/2008/06/23/guidelines-for-sex-abuse-counsellors-released/index.html
+layout: layout.njk
 ---
 Guidelines for sex abuse counsellors released
 =============================================

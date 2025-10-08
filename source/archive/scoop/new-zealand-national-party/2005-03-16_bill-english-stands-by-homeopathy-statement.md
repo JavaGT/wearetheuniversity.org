@@ -1,9 +1,12 @@
 ---
 slug: bill-english-stands-by-homeopathy-statement
-title: "Bill English stands by homeopathy statement"
-date: 2005-03-16
-source-url: https://www.scoop.co.nz/stories/PA0503/S00339/bill-english-stands-by-homeopathy-statement.htm
+title: Bill English stands by homeopathy statement
+date: 2005-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00339/bill-english-stands-by-homeopathy-statement.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/16/bill-english-stands-by-homeopathy-statement/index.html
+layout: layout.njk
 ---
 Bill English stands by homeopathy statement
 ===========================================

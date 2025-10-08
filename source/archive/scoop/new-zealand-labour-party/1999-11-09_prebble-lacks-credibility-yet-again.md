@@ -1,9 +1,12 @@
 ---
 slug: prebble-lacks-credibility-yet-again
-title: "Prebble lacks credibility yet again"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PA9911/S00219/prebble-lacks-credibility-yet-again.htm
+title: Prebble lacks credibility yet again
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00219/prebble-lacks-credibility-yet-again.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/09/prebble-lacks-credibility-yet-again/index.html
+layout: layout.njk
 ---
 Prebble lacks credibility yet again
 ===================================

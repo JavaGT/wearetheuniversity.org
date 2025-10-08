@@ -1,9 +1,12 @@
 ---
 slug: to-the-speaker-of-the-house-of-representatives
-title: "To the Speaker of the House of Representatives"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/ED0404/S00107/to-the-speaker-of-the-house-of-representatives.htm
+title: To the Speaker of the House of Representatives
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00107/to-the-speaker-of-the-house-of-representatives.htm
 author: victoria-university-students-association
+permalink: /archive/2004/04/28/to-the-speaker-of-the-house-of-representatives/index.html
+layout: layout.njk
 ---
 To the Speaker of the House of Representatives
 ==============================================

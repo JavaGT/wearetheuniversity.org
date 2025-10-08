@@ -1,9 +1,12 @@
 ---
 slug: doc-in-disarray-over-thar-culling
-title: "DOC In Disarray Over Thar Culling"
-date: 2000-09-22
-source-url: https://www.scoop.co.nz/stories/PA0009/S00373/doc-in-disarray-over-thar-culling.htm
+title: DOC In Disarray Over Thar Culling
+date: 2000-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00373/doc-in-disarray-over-thar-culling.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/22/doc-in-disarray-over-thar-culling/index.html
+layout: layout.njk
 ---
 DOC In Disarray Over Thar Culling
 =================================

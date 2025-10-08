@@ -1,9 +1,12 @@
 ---
 slug: population-health-complex-opening
-title: "Population health complex opening"
-date: 2004-05-25
-source-url: https://www.scoop.co.nz/stories/ED0405/S00088/population-health-complex-opening.htm
+title: Population health complex opening
+date: 2004-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00088/population-health-complex-opening.htm
 author: auckland-university
+permalink: /archive/2004/05/25/population-health-complex-opening/index.html
+layout: layout.njk
 ---
 Population health complex opening
 =================================

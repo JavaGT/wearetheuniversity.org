@@ -1,9 +1,13 @@
 ---
 slug: marvellys-songwriting-debut-a-credit-to-her-english-studies
-title: "Marvelly’s songwriting debut a credit to her English studies"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/CU1407/S00330/marvellys-songwriting-debut-a-credit-to-her-english-studies.htm
+title: Marvelly’s songwriting debut a credit to her English studies
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00330/marvellys-songwriting-debut-a-credit-to-her-english-studies.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/22/marvellys-songwriting-debut-a-credit-to-her-english-studies/index.html
+layout: layout.njk
 ---
 Marvelly’s songwriting debut a credit to her English studies
 ============================================================

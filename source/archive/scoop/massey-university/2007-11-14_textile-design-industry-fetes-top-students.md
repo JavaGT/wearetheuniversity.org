@@ -1,9 +1,12 @@
 ---
 slug: textile-design-industry-fetes-top-students
-title: "Textile design industry fetes top students"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/ED0711/S00072/textile-design-industry-fetes-top-students.htm
+title: Textile design industry fetes top students
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00072/textile-design-industry-fetes-top-students.htm
 author: massey-university
+permalink: /archive/2007/11/14/textile-design-industry-fetes-top-students/index.html
+layout: layout.njk
 ---
 Textile design industry fetes top students
 ==========================================

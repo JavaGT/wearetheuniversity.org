@@ -1,9 +1,12 @@
 ---
 slug: contact-cuts-show-soe-sales-pure-idiocy
-title: "Contact cuts show SOE sales pure idiocy"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/PA1302/S00175/contact-cuts-show-soe-sales-pure-idiocy.htm
+title: Contact cuts show SOE sales pure idiocy
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00175/contact-cuts-show-soe-sales-pure-idiocy.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/14/contact-cuts-show-soe-sales-pure-idiocy/index.html
+layout: layout.njk
 ---
 Contact cuts show SOE sales pure idiocy
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: fpos-another-firearms-failure-from-labour
-title: "FPOs Another Firearms Failure From Labour"
-date: 2023-05-17
-source-url: https://www.scoop.co.nz/stories/PA2305/S00108/fpos-another-firearms-failure-from-labour.htm
+title: FPOs Another Firearms Failure From Labour
+date: 2023-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00108/fpos-another-firearms-failure-from-labour.htm
 author: act-new-zealand
+permalink: /archive/2023/05/17/fpos-another-firearms-failure-from-labour/index.html
+layout: layout.njk
 ---
 FPOs Another Firearms Failure From Labour
 =========================================

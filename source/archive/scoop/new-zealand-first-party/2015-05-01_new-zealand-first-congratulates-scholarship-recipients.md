@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-congratulates-scholarship-recipients
-title: "New Zealand First Congratulates Scholarship Recipients"
-date: 2015-05-01
-source-url: https://www.scoop.co.nz/stories/PA1505/S00018/new-zealand-first-congratulates-scholarship-recipients.htm
+title: New Zealand First Congratulates Scholarship Recipients
+date: 2015-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00018/new-zealand-first-congratulates-scholarship-recipients.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/01/new-zealand-first-congratulates-scholarship-recipients/index.html
+layout: layout.njk
 ---
 New Zealand First Congratulates Scholarship Recipients
 ======================================================

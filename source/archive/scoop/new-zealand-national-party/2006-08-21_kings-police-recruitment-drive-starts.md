@@ -1,9 +1,12 @@
 ---
 slug: kings-police-recruitment-drive-starts
-title: "King’s police recruitment drive starts"
-date: 2006-08-21
-source-url: https://www.scoop.co.nz/stories/PA0608/S00354/kings-police-recruitment-drive-starts.htm
+title: King’s police recruitment drive starts
+date: 2006-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00354/kings-police-recruitment-drive-starts.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/21/kings-police-recruitment-drive-starts/index.html
+layout: layout.njk
 ---
 King’s police recruitment drive starts
 ======================================

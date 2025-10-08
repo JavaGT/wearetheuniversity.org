@@ -1,9 +1,12 @@
 ---
 slug: national-to-cut-$27-million-of-health-services-in-wellington
-title: "National to cut $27 million of health services in Wellington"
-date: 2010-12-03
-source-url: https://www.scoop.co.nz/stories/PA1012/S00041/national-to-cut-27-million-of-health-services-in-wellington.htm
+title: National to cut $27 million of health services in Wellington
+date: 2010-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00041/national-to-cut-27-million-of-health-services-in-wellington.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/03/national-to-cut-/index.html
+layout: layout.njk
 ---
 National to cut $27 million of health services in Wellington
 ============================================================

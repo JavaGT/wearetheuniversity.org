@@ -1,9 +1,13 @@
 ---
 slug: waka-takes-visitors-on-journey-into-maori-culture
-title: "Waka takes visitors on journey into Maori culture"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/PA0711/S00007/waka-takes-visitors-on-journey-into-maori-culture.htm
+title: Waka takes visitors on journey into Maori culture
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00007/waka-takes-visitors-on-journey-into-maori-culture.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/11/01/waka-takes-visitors-on-journey-into-maori-culture/index.html
+layout: layout.njk
 ---
 Waka takes visitors on journey into Maori culture
 =================================================

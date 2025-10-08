@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-ranked-no-1-university-twice
-title: "University of Canterbury ranked No.1 university twice"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/ED1408/S00063/university-of-canterbury-ranked-no1-university-twice.htm
+title: University of Canterbury ranked No.1 university twice
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00063/university-of-canterbury-ranked-no1-university-twice.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/12/university-of-canterbury-ranked-no-1-university-twice/index.html
+layout: layout.njk
 ---
 University of Canterbury ranked No.1 university twice
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: creative-and-integrated-learning-in-the-classroom
-title: "Creative and Integrated Learning in the Classroom"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/AK1305/S00204/creative-and-integrated-learning-in-the-classroom.htm
+title: Creative and Integrated Learning in the Classroom
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00204/creative-and-integrated-learning-in-the-classroom.htm
 author: waikato-university
+permalink: >-
+  /archive/2013/05/09/creative-and-integrated-learning-in-the-classroom/index.html
+layout: layout.njk
 ---
 Creative and Integrated Learning in the Classroom
 =================================================

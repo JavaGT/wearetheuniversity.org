@@ -1,9 +1,13 @@
 ---
 slug: dr-john-wood-re-elected-university-of-canterbury-chancellor
-title: "Dr John Wood re-elected University of Canterbury Chancellor"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00101/dr-john-wood-re-elected-university-of-canterbury-chancellor.htm
+title: Dr John Wood re-elected University of Canterbury Chancellor
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00101/dr-john-wood-re-elected-university-of-canterbury-chancellor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/15/dr-john-wood-re-elected-university-of-canterbury-chancellor/index.html
+layout: layout.njk
 ---
 Dr John Wood re-elected University of Canterbury Chancellor
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-gm-plants-not-being-assessed-for-safety
-title: "New GM Plants Not Being Assessed For Safety"
-date: 2013-03-23
-source-url: https://www.scoop.co.nz/stories/SC1303/S00039/new-gm-plants-not-being-assessed-for-safety.htm
+title: New GM Plants Not Being Assessed For Safety
+date: 2013-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00039/new-gm-plants-not-being-assessed-for-safety.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/23/new-gm-plants-not-being-assessed-for-safety/index.html
+layout: layout.njk
 ---
 New GM Plants Not Being Assessed For Safety
 ===========================================

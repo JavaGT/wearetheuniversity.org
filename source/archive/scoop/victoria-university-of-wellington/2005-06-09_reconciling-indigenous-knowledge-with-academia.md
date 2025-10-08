@@ -1,9 +1,12 @@
 ---
 slug: reconciling-indigenous-knowledge-with-academia
-title: "Reconciling indigenous knowledge with academia"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/ED0506/S00018/reconciling-indigenous-knowledge-with-academia.htm
+title: Reconciling indigenous knowledge with academia
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00018/reconciling-indigenous-knowledge-with-academia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/06/09/reconciling-indigenous-knowledge-with-academia/index.html
+layout: layout.njk
 ---
 Reconciling indigenous knowledge with academia
 ==============================================

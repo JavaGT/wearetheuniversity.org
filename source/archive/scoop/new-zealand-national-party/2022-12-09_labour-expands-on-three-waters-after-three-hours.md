@@ -1,9 +1,13 @@
 ---
 slug: labour-expands-on-three-waters-after-three-hours
-title: "Labour Expands On Three Waters After Three Hours"
-date: 2022-12-09
-source-url: https://www.scoop.co.nz/stories/PA2212/S00094/labour-expands-on-three-waters-after-three-hours.htm
+title: Labour Expands On Three Waters After Three Hours
+date: 2022-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00094/labour-expands-on-three-waters-after-three-hours.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/12/09/labour-expands-on-three-waters-after-three-hours/index.html
+layout: layout.njk
 ---
 Labour Expands On Three Waters After Three Hours
 ================================================

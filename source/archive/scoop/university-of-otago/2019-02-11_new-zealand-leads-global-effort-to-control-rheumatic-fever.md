@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-leads-global-effort-to-control-rheumatic-fever
-title: "New Zealand leads global effort to control rheumatic fever"
-date: 2019-02-11
-source-url: https://www.scoop.co.nz/stories/SC1902/S00026/new-zealand-leads-global-effort-to-control-rheumatic-fever.htm
+title: New Zealand leads global effort to control rheumatic fever
+date: 2019-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1902/S00026/new-zealand-leads-global-effort-to-control-rheumatic-fever.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/02/11/new-zealand-leads-global-effort-to-control-rheumatic-fever/index.html
+layout: layout.njk
 ---
 New Zealand leads global effort to control rheumatic fever
 ==========================================================

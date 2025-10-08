@@ -1,9 +1,12 @@
 ---
 slug: health-results-shock-maori-party
-title: "Health Results Shock Maori Party"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/PA0911/S00061/health-results-shock-maori-party.htm
+title: Health Results Shock Maori Party
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00061/health-results-shock-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2009/11/05/health-results-shock-maori-party/index.html
+layout: layout.njk
 ---
 Health Results Shock Maori Party
 ================================

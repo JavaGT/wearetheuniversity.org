@@ -1,9 +1,12 @@
 ---
 slug: cricket-legend-among-massey-graduates
-title: "Cricket legend among Massey graduates"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/ED1505/S00042/cricket-legend-among-massey-graduates.htm
+title: Cricket legend among Massey graduates
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00042/cricket-legend-among-massey-graduates.htm
 author: massey-university
+permalink: /archive/2015/05/08/cricket-legend-among-massey-graduates/index.html
+layout: layout.njk
 ---
 Cricket legend among Massey graduates
 =====================================

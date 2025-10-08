@@ -1,9 +1,12 @@
 ---
 slug: judges-attitude-to-domestic-violence-outrageous
-title: "Judge's Attitude To Domestic Violence Outrageous"
-date: 2005-10-14
-source-url: https://www.scoop.co.nz/stories/PO0510/S00107/judges-attitude-to-domestic-violence-outrageous.htm
+title: Judge's Attitude To Domestic Violence Outrageous
+date: 2005-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0510/S00107/judges-attitude-to-domestic-violence-outrageous.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/10/14/judges-attitude-to-domestic-violence-outrageous/index.html
+layout: layout.njk
 ---
 Judge's Attitude To Domestic Violence Outrageous
 ================================================

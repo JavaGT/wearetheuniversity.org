@@ -1,9 +1,12 @@
 ---
 slug: timely-unemployment-data-now-available
-title: "Timely Unemployment Data Now Available"
-date: 2021-05-07
-source-url: https://www.scoop.co.nz/stories/SC2105/S00013/timely-unemployment-data-now-available.htm
+title: Timely Unemployment Data Now Available
+date: 2021-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2105/S00013/timely-unemployment-data-now-available.htm
 author: aut-university
+permalink: /archive/2021/05/07/timely-unemployment-data-now-available/index.html
+layout: layout.njk
 ---
 Timely Unemployment Data Now Available
 ======================================

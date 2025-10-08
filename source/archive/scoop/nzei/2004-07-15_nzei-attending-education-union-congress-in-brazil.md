@@ -1,9 +1,13 @@
 ---
 slug: nzei-attending-education-union-congress-in-brazil
-title: "NZEI Attending Education Union Congress In Brazil"
-date: 2004-07-15
-source-url: https://www.scoop.co.nz/stories/ED0407/S00049/nzei-attending-education-union-congress-in-brazil.htm
+title: NZEI Attending Education Union Congress In Brazil
+date: 2004-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00049/nzei-attending-education-union-congress-in-brazil.htm
 author: nzei
+permalink: >-
+  /archive/2004/07/15/nzei-attending-education-union-congress-in-brazil/index.html
+layout: layout.njk
 ---
 NZEI Attending Education Union Congress In Brazil
 =================================================

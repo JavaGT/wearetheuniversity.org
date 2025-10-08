@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-women-buck-global-voting-trend
-title: "New Zealand women buck global voting trend"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/PO1306/S00308/new-zealand-women-buck-global-voting-trend.htm
+title: New Zealand women buck global voting trend
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00308/new-zealand-women-buck-global-voting-trend.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/25/new-zealand-women-buck-global-voting-trend/index.html
+layout: layout.njk
 ---
 New Zealand women buck global voting trend
 ==========================================

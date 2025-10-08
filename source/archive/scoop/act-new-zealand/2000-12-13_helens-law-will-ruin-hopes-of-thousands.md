@@ -1,9 +1,12 @@
 ---
 slug: helens-law-will-ruin-hopes-of-thousands
-title: "‘Helen’s Law’ Will Ruin Hopes Of Thousands"
-date: 2000-12-13
-source-url: https://www.scoop.co.nz/stories/PA0012/S00218/helens-law-will-ruin-hopes-of-thousands.htm
+title: ‘Helen’s Law’ Will Ruin Hopes Of Thousands
+date: 2000-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00218/helens-law-will-ruin-hopes-of-thousands.htm
 author: act-new-zealand
+permalink: /archive/2000/12/13/helens-law-will-ruin-hopes-of-thousands/index.html
+layout: layout.njk
 ---
 ‘Helen’s Law’ Will Ruin Hopes Of Thousands
 ==========================================

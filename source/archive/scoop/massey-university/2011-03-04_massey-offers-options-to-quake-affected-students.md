@@ -1,9 +1,13 @@
 ---
 slug: massey-offers-options-to-quake-affected-students
-title: "Massey offers options to quake-affected students"
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/ED1103/S00030/massey-offers-options-to-quake-affected-students.htm
+title: Massey offers options to quake-affected students
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00030/massey-offers-options-to-quake-affected-students.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/04/massey-offers-options-to-quake-affected-students/index.html
+layout: layout.njk
 ---
 Massey offers options to quake-affected students
 ================================================

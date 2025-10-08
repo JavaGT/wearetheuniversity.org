@@ -1,9 +1,12 @@
 ---
 slug: can-probiotics-help-fight-depression
-title: "Can probiotics help fight depression?"
-date: 2013-07-20
-source-url: https://www.scoop.co.nz/stories/SC1307/S00054/can-probiotics-help-fight-depression.htm
+title: Can probiotics help fight depression?
+date: 2013-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00054/can-probiotics-help-fight-depression.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/20/can-probiotics-help-fight-depression/index.html
+layout: layout.njk
 ---
 Can probiotics help fight depression?
 =====================================

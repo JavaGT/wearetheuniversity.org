@@ -1,9 +1,12 @@
 ---
 slug: greens-warn-of-butterfly-killing-maize-in-nz
-title: "Greens Warn Of Butterfly-killing Maize In NZ"
-date: 1999-08-09
-source-url: https://www.scoop.co.nz/stories/PA9908/S00133/greens-warn-of-butterfly-killing-maize-in-nz.htm
+title: Greens Warn Of Butterfly-killing Maize In NZ
+date: 1999-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00133/greens-warn-of-butterfly-killing-maize-in-nz.htm
 author: green-party
+permalink: /archive/1999/08/09/greens-warn-of-butterfly-killing-maize-in-nz/index.html
+layout: layout.njk
 ---
 Greens Warn Of Butterfly-killing Maize In NZ
 ============================================

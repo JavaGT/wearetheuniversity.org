@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-ordered-rankins-sacking
-title: "Helen Clark Ordered Rankin’s Sacking"
-date: 2001-05-09
-source-url: https://www.scoop.co.nz/stories/PA0105/S00213/helen-clark-ordered-rankins-sacking.htm
+title: Helen Clark Ordered Rankin’s Sacking
+date: 2001-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00213/helen-clark-ordered-rankins-sacking.htm
 author: act-new-zealand
+permalink: /archive/2001/05/09/helen-clark-ordered-rankins-sacking/index.html
+layout: layout.njk
 ---
 Helen Clark Ordered Rankin’s Sacking
 ====================================

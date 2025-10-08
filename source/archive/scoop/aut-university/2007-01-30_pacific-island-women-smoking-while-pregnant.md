@@ -1,9 +1,12 @@
 ---
 slug: pacific-island-women-smoking-while-pregnant
-title: "Pacific Island women smoking while pregnant"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/GE0701/S00057/pacific-island-women-smoking-while-pregnant.htm
+title: Pacific Island women smoking while pregnant
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0701/S00057/pacific-island-women-smoking-while-pregnant.htm
 author: aut-university
+permalink: /archive/2007/01/30/pacific-island-women-smoking-while-pregnant/index.html
+layout: layout.njk
 ---
 Pacific Island women smoking while pregnant
 ===========================================

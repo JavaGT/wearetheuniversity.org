@@ -1,9 +1,12 @@
 ---
 slug: nexus-editor-hypocritical-on-censorship
-title: "Nexus Editor Hypocritical On Censorship"
-date: 2002-08-23
-source-url: https://www.scoop.co.nz/stories/ED0208/S00034/nexus-editor-hypocritical-on-censorship.htm
+title: Nexus Editor Hypocritical On Censorship
+date: 2002-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00034/nexus-editor-hypocritical-on-censorship.htm
 author: student-choice
+permalink: /archive/2002/08/23/nexus-editor-hypocritical-on-censorship/index.html
+layout: layout.njk
 ---
 Nexus Editor Hypocritical On Censorship
 =======================================

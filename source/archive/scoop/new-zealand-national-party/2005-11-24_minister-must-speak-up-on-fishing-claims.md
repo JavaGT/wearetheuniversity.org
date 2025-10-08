@@ -1,9 +1,12 @@
 ---
 slug: minister-must-speak-up-on-fishing-claims
-title: "Minister must speak up on fishing claims"
-date: 2005-11-24
-source-url: https://www.scoop.co.nz/stories/PA0511/S00362/minister-must-speak-up-on-fishing-claims.htm
+title: Minister must speak up on fishing claims
+date: 2005-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00362/minister-must-speak-up-on-fishing-claims.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/24/minister-must-speak-up-on-fishing-claims/index.html
+layout: layout.njk
 ---
 Minister must speak up on fishing claims
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: gallipoli-story-for-children-through-donkeys-eyes
-title: "Gallipoli story for children through donkey’s eyes"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/CU1503/S00510/gallipoli-story-for-children-through-donkeys-eyes.htm
+title: Gallipoli story for children through donkey’s eyes
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1503/S00510/gallipoli-story-for-children-through-donkeys-eyes.htm
 author: massey-university
+permalink: >-
+  /archive/2015/03/25/gallipoli-story-for-children-through-donkeys-eyes/index.html
+layout: layout.njk
 ---
 Gallipoli story for children through donkey’s eyes
 ==================================================

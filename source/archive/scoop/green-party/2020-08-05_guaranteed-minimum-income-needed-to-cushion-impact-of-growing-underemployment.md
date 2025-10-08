@@ -1,9 +1,13 @@
 ---
 slug: guaranteed-minimum-income-needed-to-cushion-impact-of-growing-underemployment
-title: "Guaranteed Minimum Income Needed To Cushion Impact Of Growing Underemployment"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/PA2008/S00039/guaranteed-minimum-income-needed-to-cushion-impact-of-growing-underemployment.htm
+title: Guaranteed Minimum Income Needed To Cushion Impact Of Growing Underemployment
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00039/guaranteed-minimum-income-needed-to-cushion-impact-of-growing-underemployment.htm
 author: green-party
+permalink: >-
+  /archive/2020/08/05/guaranteed-minimum-income-needed-to-cushion-impact-of-growing-underemployment/index.html
+layout: layout.njk
 ---
 Guaranteed Minimum Income Needed To Cushion Impact Of Growing Underemployment
 =============================================================================

@@ -1,9 +1,13 @@
 ---
 slug: from-beijing-to-bavaria-they-are-buying-our-farms
-title: "From Beijing to Bavaria, they are buying our farms"
-date: 2011-02-02
-source-url: https://www.scoop.co.nz/stories/PA1102/S00036/from-beijing-to-bavaria-they-are-buying-our-farms.htm
+title: From Beijing to Bavaria, they are buying our farms
+date: 2011-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00036/from-beijing-to-bavaria-they-are-buying-our-farms.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/02/from-beijing-to-bavaria-they-are-buying-our-farms/index.html
+layout: layout.njk
 ---
 From Beijing to Bavaria, they are buying our farms
 ==================================================

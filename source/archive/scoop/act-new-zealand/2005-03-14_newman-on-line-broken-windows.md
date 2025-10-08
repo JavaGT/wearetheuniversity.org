@@ -1,9 +1,12 @@
 ---
 slug: newman-on-line-broken-windows
-title: "Newman On-Line: 'Broken Windows'"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00274/newman-on-line-broken-windows.htm
+title: 'Newman On-Line: ''Broken Windows'''
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00274/newman-on-line-broken-windows.htm
 author: act-new-zealand
+permalink: /archive/2005/03/14/newman-on-line-broken-windows/index.html
+layout: layout.njk
 ---
 Newman On-Line: 'Broken Windows'
 ================================

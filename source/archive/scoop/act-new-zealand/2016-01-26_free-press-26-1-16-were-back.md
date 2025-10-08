@@ -1,9 +1,11 @@
 ---
 slug: free-press-26-1-16-were-back
-title: "Free Press 26/1/16: We're back"
-date: 2016-01-26
+title: 'Free Press 26/1/16: We''re back'
+date: 2016-01-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1601/S00145/free-press-26116-were-back.htm
 author: act-new-zealand
+permalink: /archive/2016/01/26/free-press-26-1-16-were-back/index.html
+layout: layout.njk
 ---
 Free Press 26/1/16: We're back
 ==============================

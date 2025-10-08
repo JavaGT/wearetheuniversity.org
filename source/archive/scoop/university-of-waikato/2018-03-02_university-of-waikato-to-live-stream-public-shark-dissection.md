@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-to-live-stream-public-shark-dissection
-title: "University of Waikato to live-stream public shark dissection"
-date: 2018-03-02
-source-url: https://www.scoop.co.nz/stories/SC1803/S00003/university-of-waikato-to-live-stream-public-shark-dissection.htm
+title: University of Waikato to live-stream public shark dissection
+date: 2018-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00003/university-of-waikato-to-live-stream-public-shark-dissection.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/03/02/university-of-waikato-to-live-stream-public-shark-dissection/index.html
+layout: layout.njk
 ---
 University of Waikato to live-stream public shark dissection
 ============================================================

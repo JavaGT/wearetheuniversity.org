@@ -1,9 +1,11 @@
 ---
 slug: amy-in-action
-title: "Amy In Action"
-date: 2015-11-24
+title: Amy In Action
+date: 2015-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00453/amy-in-action.htm
 author: new-zealand-national-party
+permalink: /archive/2015/11/24/amy-in-action/index.html
+layout: layout.njk
 ---
 Amy In Action
 =============

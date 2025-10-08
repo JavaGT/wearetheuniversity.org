@@ -1,9 +1,12 @@
 ---
 slug: national-fronts-up-with-submissions
-title: "National fronts up with submissions"
-date: 2002-10-21
-source-url: https://www.scoop.co.nz/stories/PA0210/S00439/national-fronts-up-with-submissions.htm
+title: National fronts up with submissions
+date: 2002-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00439/national-fronts-up-with-submissions.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/21/national-fronts-up-with-submissions/index.html
+layout: layout.njk
 ---
 National fronts up with submissions
 ===================================

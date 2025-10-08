@@ -1,9 +1,12 @@
 ---
 slug: fewer-starving-artists-in-dunedin
-title: "Fewer Starving Artists in Dunedin"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/AK1408/S00201/fewer-starving-artists-in-dunedin.htm
+title: Fewer Starving Artists in Dunedin
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00201/fewer-starving-artists-in-dunedin.htm
 author: ousa
+permalink: /archive/2014/08/12/fewer-starving-artists-in-dunedin/index.html
+layout: layout.njk
 ---
 Fewer Starving Artists in Dunedin
 =================================

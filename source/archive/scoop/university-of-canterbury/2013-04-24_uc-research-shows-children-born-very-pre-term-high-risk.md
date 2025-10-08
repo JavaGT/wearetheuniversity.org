@@ -1,9 +1,13 @@
 ---
 slug: uc-research-shows-children-born-very-pre-term-high-risk
-title: "UC Research Shows Children Born Very Pre-Term High Risk"
-date: 2013-04-24
-source-url: https://www.scoop.co.nz/stories/ED1304/S00142/uc-research-shows-children-born-very-pre-term-high-risk.htm
+title: UC Research Shows Children Born Very Pre-Term High Risk
+date: 2013-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00142/uc-research-shows-children-born-very-pre-term-high-risk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/24/uc-research-shows-children-born-very-pre-term-high-risk/index.html
+layout: layout.njk
 ---
 UC Research Shows Children Born Very Pre-Term High Risk
 =======================================================

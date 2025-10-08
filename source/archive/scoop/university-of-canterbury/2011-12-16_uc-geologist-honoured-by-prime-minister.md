@@ -1,9 +1,12 @@
 ---
 slug: uc-geologist-honoured-by-prime-minister
-title: "UC geologist honoured by Prime Minister"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/SC1112/S00038/uc-geologist-honoured-by-prime-minister.htm
+title: UC geologist honoured by Prime Minister
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00038/uc-geologist-honoured-by-prime-minister.htm
 author: university-of-canterbury
+permalink: /archive/2011/12/16/uc-geologist-honoured-by-prime-minister/index.html
+layout: layout.njk
 ---
 UC geologist honoured by Prime Minister
 =======================================

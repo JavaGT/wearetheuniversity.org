@@ -1,9 +1,13 @@
 ---
 slug: budget-2022-does-not-go-far-enough-to-address-transport-inequity
-title: "Budget 2022 Does Not Go Far Enough To Address Transport Inequity"
-date: 2022-05-19
-source-url: https://www.scoop.co.nz/stories/PO2205/S00171/budget-2022-does-not-go-far-enough-to-address-transport-inequity.htm
+title: Budget 2022 Does Not Go Far Enough To Address Transport Inequity
+date: 2022-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00171/budget-2022-does-not-go-far-enough-to-address-transport-inequity.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/05/19/budget-2022-does-not-go-far-enough-to-address-transport-inequity/index.html
+layout: layout.njk
 ---
 Budget 2022 Does Not Go Far Enough To Address Transport Inequity
 ================================================================

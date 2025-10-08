@@ -1,9 +1,12 @@
 ---
 slug: fraudster-was-involved-in-financial-restructure
-title: "Fraudster was involved in financial restructure"
-date: 2017-03-09
-source-url: https://www.scoop.co.nz/stories/PA1703/S00162/fraudster-was-involved-in-financial-restructure.htm
+title: Fraudster was involved in financial restructure
+date: 2017-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00162/fraudster-was-involved-in-financial-restructure.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/09/fraudster-was-involved-in-financial-restructure/index.html
+layout: layout.njk
 ---
 Fraudster was involved in financial restructure
 ===============================================

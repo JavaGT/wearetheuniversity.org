@@ -1,9 +1,12 @@
 ---
 slug: autism-education-requires-strong-evidence-focus
-title: "Autism education requires strong evidence focus"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/GE1011/S00061/autism-education-requires-strong-evidence-focus.htm
+title: Autism education requires strong evidence focus
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00061/autism-education-requires-strong-evidence-focus.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/16/autism-education-requires-strong-evidence-focus/index.html
+layout: layout.njk
 ---
 Autism education requires strong evidence focus
 ===============================================

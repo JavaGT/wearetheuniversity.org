@@ -1,9 +1,12 @@
 ---
 slug: waikato-occupation-celebration-rally
-title: "Waikato Occupation Celebration Rally"
-date: 2000-03-31
-source-url: https://www.scoop.co.nz/stories/ED0003/S00068/waikato-occupation-celebration-rally.htm
+title: Waikato Occupation Celebration Rally
+date: 2000-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00068/waikato-occupation-celebration-rally.htm
 author: fightback
+permalink: /archive/2000/03/31/waikato-occupation-celebration-rally/index.html
+layout: layout.njk
 ---
 Waikato Occupation Celebration Rally
 ====================================

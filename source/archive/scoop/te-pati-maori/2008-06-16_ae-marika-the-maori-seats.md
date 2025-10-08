@@ -1,9 +1,11 @@
 ---
 slug: ae-marika-the-maori-seats
-title: "Ae Marika: The Maori Seats"
-date: 2008-06-16
+title: 'Ae Marika: The Maori Seats'
+date: 2008-06-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0806/S00217/ae-marika-the-maori-seats.htm
 author: te-pati-maori
+permalink: /archive/2008/06/16/ae-marika-the-maori-seats/index.html
+layout: layout.njk
 ---
 Ae Marika: The Maori Seats
 ==========================

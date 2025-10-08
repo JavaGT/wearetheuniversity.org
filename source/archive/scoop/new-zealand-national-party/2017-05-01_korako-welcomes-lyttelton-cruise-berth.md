@@ -1,9 +1,12 @@
 ---
 slug: korako-welcomes-lyttelton-cruise-berth
-title: "Korako welcomes Lyttelton Cruise Berth"
-date: 2017-05-01
-source-url: https://www.scoop.co.nz/stories/PA1705/S00016/korako-welcomes-lyttelton-cruise-berth.htm
+title: Korako welcomes Lyttelton Cruise Berth
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00016/korako-welcomes-lyttelton-cruise-berth.htm
 author: new-zealand-national-party
+permalink: /archive/2017/05/01/korako-welcomes-lyttelton-cruise-berth/index.html
+layout: layout.njk
 ---
 Korako welcomes Lyttelton Cruise Berth
 ======================================

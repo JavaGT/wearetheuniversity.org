@@ -1,9 +1,16 @@
 ---
-slug: future-human-rights-climate-action-and-healthcare-leaders-recognised-by-rhodes-scholarships
-title: "Future Human Rights, Climate Action And Healthcare Leaders Recognised By Rhodes Scholarships"
-date: 2022-11-04
-source-url: https://www.scoop.co.nz/stories/ED2211/S00014/future-human-rights-climate-action-and-healthcare-leaders-recognised-by-rhodes-scholarships.htm
+slug: >-
+  future-human-rights-climate-action-and-healthcare-leaders-recognised-by-rhodes-scholarships
+title: >-
+  Future Human Rights, Climate Action And Healthcare Leaders Recognised By
+  Rhodes Scholarships
+date: 2022-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00014/future-human-rights-climate-action-and-healthcare-leaders-recognised-by-rhodes-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/11/04/future-human-rights-climate-action-and-healthcare-leaders-recognised-by-rhodes-scholarships/index.html
+layout: layout.njk
 ---
 Future Human Rights, Climate Action And Healthcare Leaders Recognised By Rhodes Scholarships
 ============================================================================================

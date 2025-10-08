@@ -1,9 +1,13 @@
 ---
 slug: speech-notes-from-launch-of-green-transport-policy
-title: "Speech Notes From Launch Of Green Transport Policy"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00634/speech-notes-from-launch-of-green-transport-policy.htm
+title: Speech Notes From Launch Of Green Transport Policy
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00634/speech-notes-from-launch-of-green-transport-policy.htm
 author: green-party
+permalink: >-
+  /archive/2002/07/23/speech-notes-from-launch-of-green-transport-policy/index.html
+layout: layout.njk
 ---
 Speech Notes From Launch Of Green Transport Policy
 ==================================================

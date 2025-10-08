@@ -1,9 +1,13 @@
 ---
 slug: $4-billion-investment-to-end-wellingtons-congestion-woes
-title: "$4 Billion Investment To End Wellington’s Congestion Woes"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/PA2008/S00029/4-billion-investment-to-end-wellingtons-congestion-woes.htm
+title: $4 Billion Investment To End Wellington’s Congestion Woes
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00029/4-billion-investment-to-end-wellingtons-congestion-woes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/05/4-billion-investment-to-end-wellington-s-congestion-woes/index.html
+layout: layout.njk
 ---
 $4 Billion Investment To End Wellington’s Congestion Woes
 =========================================================

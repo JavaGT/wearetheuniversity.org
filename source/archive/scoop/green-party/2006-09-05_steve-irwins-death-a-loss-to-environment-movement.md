@@ -1,9 +1,13 @@
 ---
 slug: steve-irwins-death-a-loss-to-environment-movement
-title: "Steve Irwin's death a loss to environment movement"
-date: 2006-09-05
-source-url: https://www.scoop.co.nz/stories/PA0609/S00107/steve-irwins-death-a-loss-to-environment-movement.htm
+title: Steve Irwin's death a loss to environment movement
+date: 2006-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00107/steve-irwins-death-a-loss-to-environment-movement.htm
 author: green-party
+permalink: >-
+  /archive/2006/09/05/steve-irwins-death-a-loss-to-environment-movement/index.html
+layout: layout.njk
 ---
 Steve Irwin's death a loss to environment movement
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference
-title: "Rt Hon Jacinda Ardern: Speech To 2021 Labour Party Conference"
-date: 2021-11-06
-source-url: https://www.scoop.co.nz/stories/PA2111/S00072/rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference.htm
+title: 'Rt Hon Jacinda Ardern: Speech To 2021 Labour Party Conference'
+date: 2021-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00072/rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2021/11/06/rt-hon-jacinda-ardern-speech-to-2021-labour-party-conference/index.html
+layout: layout.njk
 ---
 Rt Hon Jacinda Ardern: Speech To 2021 Labour Party Conference
 =============================================================

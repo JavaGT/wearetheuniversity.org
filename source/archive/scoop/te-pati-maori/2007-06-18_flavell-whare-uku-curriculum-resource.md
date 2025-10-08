@@ -1,9 +1,12 @@
 ---
 slug: flavell-whare-uku-curriculum-resource
-title: "Flavell: Whare Uku Curriculum Resource"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/PA0706/S00331/flavell-whare-uku-curriculum-resource.htm
+title: 'Flavell: Whare Uku Curriculum Resource'
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00331/flavell-whare-uku-curriculum-resource.htm
 author: te-pati-maori
+permalink: /archive/2007/06/18/flavell-whare-uku-curriculum-resource/index.html
+layout: layout.njk
 ---
 Flavell: Whare Uku Curriculum Resource
 ======================================

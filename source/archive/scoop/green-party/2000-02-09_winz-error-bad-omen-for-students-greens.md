@@ -1,9 +1,12 @@
 ---
 slug: winz-error-bad-omen-for-students-greens
-title: "WINZ Error Bad Omen for Students - Greens"
-date: 2000-02-09
-source-url: https://www.scoop.co.nz/stories/PO0002/S00030/winz-error-bad-omen-for-students-greens.htm
+title: WINZ Error Bad Omen for Students - Greens
+date: 2000-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0002/S00030/winz-error-bad-omen-for-students-greens.htm
 author: green-party
+permalink: /archive/2000/02/09/winz-error-bad-omen-for-students-greens/index.html
+layout: layout.njk
 ---
 WINZ Error Bad Omen for Students - Greens
 =========================================

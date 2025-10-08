@@ -1,9 +1,12 @@
 ---
 slug: far-fewer-cancer-patients-start-treatment
-title: "Far Fewer Cancer Patients Start Treatment"
-date: 2002-04-24
-source-url: https://www.scoop.co.nz/stories/PA0204/S00369/far-fewer-cancer-patients-start-treatment.htm
+title: Far Fewer Cancer Patients Start Treatment
+date: 2002-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00369/far-fewer-cancer-patients-start-treatment.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/24/far-fewer-cancer-patients-start-treatment/index.html
+layout: layout.njk
 ---
 Far Fewer Cancer Patients Start Treatment
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: deal-signed-with-manufacturer-of-energy-efficient-motors
-title: "Deal signed with manufacturer of energy efficient motors"
-date: 2015-07-13
-source-url: https://www.scoop.co.nz/stories/ED1507/S00064/deal-signed-with-manufacturer-of-energy-efficient-motors.htm
+title: Deal signed with manufacturer of energy efficient motors
+date: 2015-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00064/deal-signed-with-manufacturer-of-energy-efficient-motors.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/13/deal-signed-with-manufacturer-of-energy-efficient-motors/index.html
+layout: layout.njk
 ---
 Deal signed with manufacturer of energy efficient motors
 ========================================================

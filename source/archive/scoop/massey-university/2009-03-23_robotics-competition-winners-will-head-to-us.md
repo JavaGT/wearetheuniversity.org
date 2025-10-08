@@ -1,9 +1,12 @@
 ---
 slug: robotics-competition-winners-will-head-to-us
-title: "Robotics competition winners will head to US"
-date: 2009-03-23
-source-url: https://www.scoop.co.nz/stories/SC0903/S00058/robotics-competition-winners-will-head-to-us.htm
+title: Robotics competition winners will head to US
+date: 2009-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0903/S00058/robotics-competition-winners-will-head-to-us.htm
 author: massey-university
+permalink: /archive/2009/03/23/robotics-competition-winners-will-head-to-us/index.html
+layout: layout.njk
 ---
 Robotics competition winners will head to US
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: accolades-for-university-film-makers
-title: "Accolades For University Film-Makers"
-date: 2008-08-14
-source-url: https://www.scoop.co.nz/stories/ED0808/S00032/accolades-for-university-film-makers.htm
+title: Accolades For University Film-Makers
+date: 2008-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00032/accolades-for-university-film-makers.htm
 author: auckland-university
+permalink: /archive/2008/08/14/accolades-for-university-film-makers/index.html
+layout: layout.njk
 ---
 Accolades For University Film-Makers
 ====================================

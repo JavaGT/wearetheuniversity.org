@@ -1,9 +1,12 @@
 ---
 slug: the-letter-24-cent-top-tax-rate
-title: "The Letter: 24 cent TOP tax rate"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/PO1405/S00172/the-letter-24-cent-top-tax-rate.htm
+title: 'The Letter: 24 cent TOP tax rate'
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00172/the-letter-24-cent-top-tax-rate.htm
 author: act-new-zealand
+permalink: /archive/2014/05/12/the-letter-24-cent-top-tax-rate/index.html
+layout: layout.njk
 ---
 The Letter: 24 cent TOP tax rate
 ================================

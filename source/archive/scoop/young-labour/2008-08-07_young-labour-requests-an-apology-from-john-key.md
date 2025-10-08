@@ -1,9 +1,12 @@
 ---
 slug: young-labour-requests-an-apology-from-john-key
-title: "Young Labour requests an apology from John Key"
-date: 2008-08-07
-source-url: https://www.scoop.co.nz/stories/PO0808/S00072/young-labour-requests-an-apology-from-john-key.htm
+title: Young Labour requests an apology from John Key
+date: 2008-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00072/young-labour-requests-an-apology-from-john-key.htm
 author: young-labour
+permalink: /archive/2008/08/07/young-labour-requests-an-apology-from-john-key/index.html
+layout: layout.njk
 ---
 Young Labour requests an apology from John Key
 ==============================================

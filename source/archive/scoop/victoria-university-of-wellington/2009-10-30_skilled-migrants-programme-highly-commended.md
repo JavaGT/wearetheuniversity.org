@@ -1,9 +1,12 @@
 ---
 slug: skilled-migrants-programme-highly-commended
-title: "Skilled Migrants’ Programme Highly Commended"
-date: 2009-10-30
-source-url: https://www.scoop.co.nz/stories/AK0910/S00451/skilled-migrants-programme-highly-commended.htm
+title: Skilled Migrants’ Programme Highly Commended
+date: 2009-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0910/S00451/skilled-migrants-programme-highly-commended.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/30/skilled-migrants-programme-highly-commended/index.html
+layout: layout.njk
 ---
 Skilled Migrants’ Programme Highly Commended
 ============================================

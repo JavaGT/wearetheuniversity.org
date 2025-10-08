@@ -1,9 +1,13 @@
 ---
 slug: major-funding-for-innovative-otago-health-research
-title: "Major funding for innovative Otago health research"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/ED1406/S00045/major-funding-for-innovative-otago-health-research.htm
+title: Major funding for innovative Otago health research
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00045/major-funding-for-innovative-otago-health-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/09/major-funding-for-innovative-otago-health-research/index.html
+layout: layout.njk
 ---
 Major funding for innovative Otago health research
 ==================================================

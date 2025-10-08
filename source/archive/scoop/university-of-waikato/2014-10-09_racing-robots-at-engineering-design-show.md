@@ -1,9 +1,12 @@
 ---
 slug: racing-robots-at-engineering-design-show
-title: "Racing robots at Engineering Design Show"
-date: 2014-10-09
-source-url: https://www.scoop.co.nz/stories/ED1410/S00061/racing-robots-at-engineering-design-show.htm
+title: Racing robots at Engineering Design Show
+date: 2014-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00061/racing-robots-at-engineering-design-show.htm
 author: university-of-waikato
+permalink: /archive/2014/10/09/racing-robots-at-engineering-design-show/index.html
+layout: layout.njk
 ---
 Racing robots at Engineering Design Show
 ========================================

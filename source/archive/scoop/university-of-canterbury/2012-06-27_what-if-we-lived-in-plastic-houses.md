@@ -1,9 +1,12 @@
 ---
 slug: what-if-we-lived-in-plastic-houses
-title: "What if we lived in plastic houses?"
-date: 2012-06-27
-source-url: https://www.scoop.co.nz/stories/SC1206/S00057/what-if-we-lived-in-plastic-houses.htm
+title: What if we lived in plastic houses?
+date: 2012-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00057/what-if-we-lived-in-plastic-houses.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/27/what-if-we-lived-in-plastic-houses/index.html
+layout: layout.njk
 ---
 What if we lived in plastic houses?
 ===================================

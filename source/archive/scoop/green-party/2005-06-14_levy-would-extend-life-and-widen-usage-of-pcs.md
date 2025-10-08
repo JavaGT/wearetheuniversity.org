@@ -1,9 +1,12 @@
 ---
 slug: levy-would-extend-life-and-widen-usage-of-pcs
-title: "Levy would extend life and widen usage of PCs"
-date: 2005-06-14
-source-url: https://www.scoop.co.nz/stories/PA0506/S00292/levy-would-extend-life-and-widen-usage-of-pcs.htm
+title: Levy would extend life and widen usage of PCs
+date: 2005-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00292/levy-would-extend-life-and-widen-usage-of-pcs.htm
 author: green-party
+permalink: /archive/2005/06/14/levy-would-extend-life-and-widen-usage-of-pcs/index.html
+layout: layout.njk
 ---
 Levy would extend life and widen usage of PCs
 =============================================

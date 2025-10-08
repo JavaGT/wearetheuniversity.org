@@ -1,9 +1,12 @@
 ---
 slug: driving-and-mobile-phone-use-likely-to-continue
-title: "Driving and mobile phone use likely to continue"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/CU0909/S00126/driving-and-mobile-phone-use-likely-to-continue.htm
+title: Driving and mobile phone use likely to continue
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00126/driving-and-mobile-phone-use-likely-to-continue.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/09/driving-and-mobile-phone-use-likely-to-continue/index.html
+layout: layout.njk
 ---
 Driving and mobile phone use likely to continue
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: govts-migrant-worker-plan-an-ambulance-at-the-bottom-of-the-cliff
-title: "Govt’s Migrant Worker Plan An Ambulance At The Bottom Of The Cliff"
-date: 2022-09-29
-source-url: https://www.scoop.co.nz/stories/PA2209/S00164/govts-migrant-worker-plan-an-ambulance-at-the-bottom-of-the-cliff.htm
+title: Govt’s Migrant Worker Plan An Ambulance At The Bottom Of The Cliff
+date: 2022-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00164/govts-migrant-worker-plan-an-ambulance-at-the-bottom-of-the-cliff.htm
 author: green-party
+permalink: >-
+  /archive/2022/09/29/govts-migrant-worker-plan-an-ambulance-at-the-bottom-of-the-cliff/index.html
+layout: layout.njk
 ---
 Govt’s Migrant Worker Plan An Ambulance At The Bottom Of The Cliff
 ==================================================================

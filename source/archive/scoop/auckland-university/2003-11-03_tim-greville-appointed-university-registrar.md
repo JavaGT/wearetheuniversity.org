@@ -1,9 +1,12 @@
 ---
 slug: tim-greville-appointed-university-registrar
-title: "Tim Greville Appointed University Registrar"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/ED0311/S00001/tim-greville-appointed-university-registrar.htm
+title: Tim Greville Appointed University Registrar
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00001/tim-greville-appointed-university-registrar.htm
 author: auckland-university
+permalink: /archive/2003/11/03/tim-greville-appointed-university-registrar/index.html
+layout: layout.njk
 ---
 Tim Greville Appointed University Registrar
 ===========================================

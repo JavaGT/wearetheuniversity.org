@@ -1,9 +1,12 @@
 ---
 slug: cullens-arrogance-loss-of-decorum
-title: "Cullen's arrogance, loss of decorum"
-date: 1999-10-06
-source-url: https://www.scoop.co.nz/stories/PA9910/S00111/cullens-arrogance-loss-of-decorum.htm
+title: Cullen's arrogance, loss of decorum
+date: 1999-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00111/cullens-arrogance-loss-of-decorum.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/06/cullens-arrogance-loss-of-decorum/index.html
+layout: layout.njk
 ---
 Cullen's arrogance, loss of decorum
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: stronger-protections-for-casual-workers-welcomed
-title: "Stronger protections for casual workers welcomed"
-date: 2008-06-23
-source-url: https://www.scoop.co.nz/stories/ED0806/S00065/stronger-protections-for-casual-workers-welcomed.htm
+title: Stronger protections for casual workers welcomed
+date: 2008-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00065/stronger-protections-for-casual-workers-welcomed.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2008/06/23/stronger-protections-for-casual-workers-welcomed/index.html
+layout: layout.njk
 ---
 Stronger protections for casual workers welcomed
 ================================================

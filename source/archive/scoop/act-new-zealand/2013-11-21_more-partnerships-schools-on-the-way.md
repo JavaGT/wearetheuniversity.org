@@ -1,9 +1,12 @@
 ---
 slug: more-partnerships-schools-on-the-way
-title: "More Partnerships Schools on the way"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/PA1311/S00399/more-partnerships-schools-on-the-way.htm
+title: More Partnerships Schools on the way
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00399/more-partnerships-schools-on-the-way.htm
 author: act-new-zealand
+permalink: /archive/2013/11/21/more-partnerships-schools-on-the-way/index.html
+layout: layout.njk
 ---
 More Partnerships Schools on the way
 ====================================

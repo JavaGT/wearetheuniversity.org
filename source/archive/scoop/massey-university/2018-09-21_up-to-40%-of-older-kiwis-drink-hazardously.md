@@ -1,9 +1,12 @@
 ---
 slug: up-to-40%-of-older-kiwis-drink-hazardously
-title: "Up to 40% of older Kiwis drink hazardously"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/GE1809/S00074/up-to-40-of-older-kiwis-drink-hazardously.htm
+title: Up to 40% of older Kiwis drink hazardously
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00074/up-to-40-of-older-kiwis-drink-hazardously.htm
 author: massey-university
+permalink: /archive/2018/09/21/up-to-40/index.html
+layout: layout.njk
 ---
 Up to 40% of older Kiwis drink hazardously
 ==========================================

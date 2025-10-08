@@ -1,9 +1,11 @@
 ---
 slug: cross-cultural-explorations
-title: "Cross-Cultural Explorations"
-date: 2004-07-29
+title: Cross-Cultural Explorations
+date: 2004-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0407/S00084/cross-cultural-explorations.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/29/cross-cultural-explorations/index.html
+layout: layout.njk
 ---
 Cross-Cultural Explorations
 ===========================

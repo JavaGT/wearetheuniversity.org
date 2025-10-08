@@ -1,9 +1,13 @@
 ---
 slug: promise-and-promiscuity-breeches-bonnets-and-balls
-title: "\"Promise and Promiscuity\" - Breeches, Bonnets and Balls"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/CU1406/S00274/promise-and-promiscuity-breeches-bonnets-and-balls.htm
+title: '"Promise and Promiscuity" - Breeches, Bonnets and Balls'
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00274/promise-and-promiscuity-breeches-bonnets-and-balls.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/19/promise-and-promiscuity-breeches-bonnets-and-balls/index.html
+layout: layout.njk
 ---
 “Promise and Promiscuity” - Breeches, Bonnets and Balls
 =======================================================

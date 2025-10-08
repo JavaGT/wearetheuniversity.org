@@ -1,9 +1,12 @@
 ---
 slug: ownership-still-murky-under-three-waters-plans
-title: "Ownership Still Murky Under Three Waters Plans"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/PA2110/S00257/ownership-still-murky-under-three-waters-plans.htm
+title: Ownership Still Murky Under Three Waters Plans
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00257/ownership-still-murky-under-three-waters-plans.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/26/ownership-still-murky-under-three-waters-plans/index.html
+layout: layout.njk
 ---
 Ownership Still Murky Under Three Waters Plans
 ==============================================

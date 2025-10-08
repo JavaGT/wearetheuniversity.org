@@ -1,9 +1,13 @@
 ---
 slug: uc-to-help-people-with-critical-breathing-difficulties
-title: "UC to help people with critical breathing difficulties"
-date: 2013-07-22
-source-url: https://www.scoop.co.nz/stories/SC1307/S00055/uc-to-help-people-with-critical-breathing-difficulties.htm
+title: UC to help people with critical breathing difficulties
+date: 2013-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00055/uc-to-help-people-with-critical-breathing-difficulties.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/22/uc-to-help-people-with-critical-breathing-difficulties/index.html
+layout: layout.njk
 ---
 UC to help people with critical breathing difficulties
 ======================================================

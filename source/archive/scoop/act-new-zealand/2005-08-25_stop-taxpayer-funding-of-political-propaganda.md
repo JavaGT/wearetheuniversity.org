@@ -1,9 +1,12 @@
 ---
 slug: stop-taxpayer-funding-of-political-propaganda
-title: "Stop Taxpayer Funding of Political Propaganda"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00630/stop-taxpayer-funding-of-political-propaganda.htm
+title: Stop Taxpayer Funding of Political Propaganda
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00630/stop-taxpayer-funding-of-political-propaganda.htm
 author: act-new-zealand
+permalink: /archive/2005/08/25/stop-taxpayer-funding-of-political-propaganda/index.html
+layout: layout.njk
 ---
 Stop Taxpayer Funding of Political Propaganda
 =============================================

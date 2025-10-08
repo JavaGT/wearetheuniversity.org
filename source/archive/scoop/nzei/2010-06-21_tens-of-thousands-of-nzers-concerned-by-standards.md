@@ -1,9 +1,13 @@
 ---
 slug: tens-of-thousands-of-nzers-concerned-by-standards
-title: "Tens of Thousands of NZers Concerned by Standards"
-date: 2010-06-21
-source-url: https://www.scoop.co.nz/stories/ED1006/S00072/tens-of-thousands-of-nzers-concerned-by-standards.htm
+title: Tens of Thousands of NZers Concerned by Standards
+date: 2010-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00072/tens-of-thousands-of-nzers-concerned-by-standards.htm
 author: nzei
+permalink: >-
+  /archive/2010/06/21/tens-of-thousands-of-nzers-concerned-by-standards/index.html
+layout: layout.njk
 ---
 Tens of Thousands of NZers Concerned by Standards
 =================================================

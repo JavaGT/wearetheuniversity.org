@@ -1,9 +1,13 @@
 ---
 slug: award-winning-sensei-connects-japanese-students-globally
-title: "Award winning \"sensei\" connects Japanese students globally"
-date: 2019-10-30
-source-url: https://www.scoop.co.nz/stories/ED1910/S00063/award-winning-sensei-connects-japanese-students-globally.htm
+title: Award winning "sensei" connects Japanese students globally
+date: 2019-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00063/award-winning-sensei-connects-japanese-students-globally.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/30/award-winning-sensei-connects-japanese-students-globally/index.html
+layout: layout.njk
 ---
 Award winning “sensei” connects Japanese students globally
 ==========================================================

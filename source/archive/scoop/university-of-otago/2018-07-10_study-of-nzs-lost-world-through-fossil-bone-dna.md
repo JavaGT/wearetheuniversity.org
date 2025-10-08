@@ -1,9 +1,12 @@
 ---
 slug: study-of-nzs-lost-world-through-fossil-bone-dna
-title: "Study of NZ's lost world through fossil bone DNA"
-date: 2018-07-10
-source-url: https://www.scoop.co.nz/stories/SC1807/S00026/study-of-nzs-lost-world-through-fossil-bone-dna.htm
+title: Study of NZ's lost world through fossil bone DNA
+date: 2018-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00026/study-of-nzs-lost-world-through-fossil-bone-dna.htm
 author: university-of-otago
+permalink: /archive/2018/07/10/study-of-nzs-lost-world-through-fossil-bone-dna/index.html
+layout: layout.njk
 ---
 Study of NZ's lost world through fossil bone DNA
 ================================================

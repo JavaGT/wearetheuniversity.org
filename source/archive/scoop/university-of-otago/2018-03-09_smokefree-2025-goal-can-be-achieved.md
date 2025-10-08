@@ -1,9 +1,12 @@
 ---
 slug: smokefree-2025-goal-can-be-achieved
-title: "Smokefree 2025 goal can be achieved"
-date: 2018-03-09
-source-url: https://www.scoop.co.nz/stories/GE1803/S00027/smokefree-2025-goal-can-be-achieved.htm
+title: Smokefree 2025 goal can be achieved
+date: 2018-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00027/smokefree-2025-goal-can-be-achieved.htm
 author: university-of-otago
+permalink: /archive/2018/03/09/smokefree-2025-goal-can-be-achieved/index.html
+layout: layout.njk
 ---
 Smokefree 2025 goal can be achieved
 ===================================

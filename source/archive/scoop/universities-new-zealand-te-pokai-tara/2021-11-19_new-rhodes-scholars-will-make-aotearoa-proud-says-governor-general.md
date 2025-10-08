@@ -1,9 +1,13 @@
 ---
 slug: new-rhodes-scholars-will-make-aotearoa-proud-says-governor-general
-title: "New Rhodes Scholars Will Make Aotearoa Proud, Says Governor-General"
-date: 2021-11-19
-source-url: https://www.scoop.co.nz/stories/ED2111/S00040/new-rhodes-scholars-will-make-aotearoa-proud-says-governor-general.htm
+title: New Rhodes Scholars Will Make Aotearoa Proud, Says Governor-General
+date: 2021-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00040/new-rhodes-scholars-will-make-aotearoa-proud-says-governor-general.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/11/19/new-rhodes-scholars-will-make-aotearoa-proud-says-governor-general/index.html
+layout: layout.njk
 ---
 New Rhodes Scholars Will Make Aotearoa Proud, Says Governor-General
 ===================================================================

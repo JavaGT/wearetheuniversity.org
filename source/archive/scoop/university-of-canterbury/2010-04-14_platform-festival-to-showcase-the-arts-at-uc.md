@@ -1,9 +1,12 @@
 ---
 slug: platform-festival-to-showcase-the-arts-at-uc
-title: "Platform festival to showcase the arts at UC"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/CU1004/S00161/platform-festival-to-showcase-the-arts-at-uc.htm
+title: Platform festival to showcase the arts at UC
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00161/platform-festival-to-showcase-the-arts-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2010/04/14/platform-festival-to-showcase-the-arts-at-uc/index.html
+layout: layout.njk
 ---
 Platform festival to showcase the arts at UC
 ============================================

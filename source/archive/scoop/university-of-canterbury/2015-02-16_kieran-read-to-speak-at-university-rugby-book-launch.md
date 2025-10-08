@@ -1,9 +1,13 @@
 ---
 slug: kieran-read-to-speak-at-university-rugby-book-launch
-title: "Kieran Read to speak at University rugby book  launch"
-date: 2015-02-16
-source-url: https://www.scoop.co.nz/stories/CU1502/S00309/kieran-read-to-speak-at-university-rugby-book-launch.htm
+title: Kieran Read to speak at University rugby book  launch
+date: 2015-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00309/kieran-read-to-speak-at-university-rugby-book-launch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/16/kieran-read-to-speak-at-university-rugby-book-launch/index.html
+layout: layout.njk
 ---
 Kieran Read to speak at University rugby book launch
 ====================================================

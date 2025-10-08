@@ -1,9 +1,12 @@
 ---
 slug: eden-park-b-&-b-converts-rugby-world-cup
-title: "Eden Park B & B converts Rugby World Cup"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/BU1007/S00292/eden-park-b-b-converts-rugby-world-cup.htm
+title: Eden Park B & B converts Rugby World Cup
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1007/S00292/eden-park-b-b-converts-rugby-world-cup.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/09/eden-park-b-/index.html
+layout: layout.njk
 ---
 Eden Park B & B converts Rugby World Cup
 ========================================

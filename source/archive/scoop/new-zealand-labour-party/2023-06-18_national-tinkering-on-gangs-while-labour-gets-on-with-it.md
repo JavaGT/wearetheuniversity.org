@@ -1,9 +1,13 @@
 ---
 slug: national-tinkering-on-gangs-while-labour-gets-on-with-it
-title: "National Tinkering On Gangs While Labour Gets On With It"
-date: 2023-06-18
-source-url: https://www.scoop.co.nz/stories/PO2306/S00145/national-tinkering-on-gangs-while-labour-gets-on-with-it.htm
+title: National Tinkering On Gangs While Labour Gets On With It
+date: 2023-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00145/national-tinkering-on-gangs-while-labour-gets-on-with-it.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/06/18/national-tinkering-on-gangs-while-labour-gets-on-with-it/index.html
+layout: layout.njk
 ---
 National Tinkering On Gangs While Labour Gets On With It
 ========================================================

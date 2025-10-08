@@ -1,9 +1,13 @@
 ---
 slug: focusing-on-result-will-only-heighten-rwc-anxiety
-title: "Focusing on result will only heighten RWC anxiety"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/ED1108/S00060/focusing-on-result-will-only-heighten-rwc-anxiety.htm
+title: Focusing on result will only heighten RWC anxiety
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00060/focusing-on-result-will-only-heighten-rwc-anxiety.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/10/focusing-on-result-will-only-heighten-rwc-anxiety/index.html
+layout: layout.njk
 ---
 Focusing on result will only heighten RWC anxiety
 =================================================

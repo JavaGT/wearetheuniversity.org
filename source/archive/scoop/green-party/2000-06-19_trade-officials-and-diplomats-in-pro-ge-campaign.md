@@ -1,9 +1,13 @@
 ---
 slug: trade-officials-and-diplomats-in-pro-ge-campaign
-title: "Trade officials and diplomats in pro-GE campaign"
-date: 2000-06-19
-source-url: https://www.scoop.co.nz/stories/PA0006/S00410/trade-officials-and-diplomats-in-pro-ge-campaign.htm
+title: Trade officials and diplomats in pro-GE campaign
+date: 2000-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00410/trade-officials-and-diplomats-in-pro-ge-campaign.htm
 author: green-party
+permalink: >-
+  /archive/2000/06/19/trade-officials-and-diplomats-in-pro-ge-campaign/index.html
+layout: layout.njk
 ---
 Trade officials and diplomats in pro-GE campaign
 ================================================

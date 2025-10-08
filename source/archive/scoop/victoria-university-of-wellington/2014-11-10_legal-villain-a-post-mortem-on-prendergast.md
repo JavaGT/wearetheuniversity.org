@@ -1,9 +1,12 @@
 ---
 slug: legal-villain-a-post-mortem-on-prendergast
-title: "Legal villain? A post-mortem on Prendergast"
-date: 2014-11-10
-source-url: https://www.scoop.co.nz/stories/CU1411/S00166/legal-villain-a-post-mortem-on-prendergast.htm
+title: Legal villain? A post-mortem on Prendergast
+date: 2014-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00166/legal-villain-a-post-mortem-on-prendergast.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/10/legal-villain-a-post-mortem-on-prendergast/index.html
+layout: layout.njk
 ---
 Legal villain? A post-mortem on Prendergast
 ===========================================

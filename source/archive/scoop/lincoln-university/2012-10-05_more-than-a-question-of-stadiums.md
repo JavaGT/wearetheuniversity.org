@@ -1,9 +1,12 @@
 ---
 slug: more-than-a-question-of-stadiums
-title: "More than a question of stadiums"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/AK1210/S00193/more-than-a-question-of-stadiums.htm
+title: More than a question of stadiums
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00193/more-than-a-question-of-stadiums.htm
 author: lincoln-university
+permalink: /archive/2012/10/05/more-than-a-question-of-stadiums/index.html
+layout: layout.njk
 ---
 More than a question of stadiums
 ================================

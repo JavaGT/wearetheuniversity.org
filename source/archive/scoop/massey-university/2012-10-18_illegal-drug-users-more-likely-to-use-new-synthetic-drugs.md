@@ -1,9 +1,13 @@
 ---
 slug: illegal-drug-users-more-likely-to-use-new-synthetic-drugs
-title: "Illegal drug users more likely to use new synthetic drugs"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/ED1210/S00111/illegal-drug-users-more-likely-to-use-new-synthetic-drugs.htm
+title: Illegal drug users more likely to use new synthetic drugs
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00111/illegal-drug-users-more-likely-to-use-new-synthetic-drugs.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/18/illegal-drug-users-more-likely-to-use-new-synthetic-drugs/index.html
+layout: layout.njk
 ---
 Illegal drug users more likely to use new synthetic drugs
 =========================================================

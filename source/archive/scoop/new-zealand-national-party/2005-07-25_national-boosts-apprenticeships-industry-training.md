@@ -1,9 +1,13 @@
 ---
 slug: national-boosts-apprenticeships-industry-training
-title: "National boosts apprenticeships, industry training"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00499/national-boosts-apprenticeships-industry-training.htm
+title: National boosts apprenticeships, industry training
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00499/national-boosts-apprenticeships-industry-training.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/07/25/national-boosts-apprenticeships-industry-training/index.html
+layout: layout.njk
 ---
 National boosts apprenticeships, industry training
 ==================================================

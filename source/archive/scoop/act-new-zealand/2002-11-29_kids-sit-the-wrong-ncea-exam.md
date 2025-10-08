@@ -1,9 +1,11 @@
 ---
 slug: kids-sit-the-wrong-ncea-exam
-title: "Kids Sit the Wrong NCEA Exam"
-date: 2002-11-29
+title: Kids Sit the Wrong NCEA Exam
+date: 2002-11-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0211/S00668/kids-sit-the-wrong-ncea-exam.htm
 author: act-new-zealand
+permalink: /archive/2002/11/29/kids-sit-the-wrong-ncea-exam/index.html
+layout: layout.njk
 ---
 Kids Sit the Wrong NCEA Exam
 ============================

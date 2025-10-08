@@ -1,9 +1,12 @@
 ---
 slug: new-book-presents-mäori-views-on-the-environment
-title: "New Book Presents Mäori Views On The Environment"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/CU1004/S00242/new-book-presents-maori-views-on-the-environment.htm
+title: New Book Presents Mäori Views On The Environment
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00242/new-book-presents-maori-views-on-the-environment.htm
 author: massey-university
+permalink: /archive/2010/04/19/new-book-presents-m/index.html
+layout: layout.njk
 ---
 New Book Presents Mäori Views On The Environment
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: ilam-press-wins-top-design-award-for-bulletin
-title: "Ilam Press wins top design award for Bulletin"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/CU1505/S00492/ilam-press-wins-top-design-award-for-bulletin.htm
+title: Ilam Press wins top design award for Bulletin
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00492/ilam-press-wins-top-design-award-for-bulletin.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/27/ilam-press-wins-top-design-award-for-bulletin/index.html
+layout: layout.njk
 ---
 Ilam Press wins top design award for Bulletin
 =============================================

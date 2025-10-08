@@ -1,9 +1,11 @@
 ---
 slug: welcome-home-prime-minister
-title: "Welcome Home Prime Minister"
-date: 2022-11-21
+title: Welcome Home Prime Minister
+date: 2022-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2211/S00173/welcome-home-prime-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/21/welcome-home-prime-minister/index.html
+layout: layout.njk
 ---
 Welcome Home Prime Minister
 ===========================

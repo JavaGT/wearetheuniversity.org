@@ -1,9 +1,11 @@
 ---
 slug: turia-property-law-bill
-title: "Turia: Property Law Bill"
-date: 2006-11-15
+title: 'Turia: Property Law Bill'
+date: 2006-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00263/turia-property-law-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/11/15/turia-property-law-bill/index.html
+layout: layout.njk
 ---
 Turia: Property Law Bill
 ========================

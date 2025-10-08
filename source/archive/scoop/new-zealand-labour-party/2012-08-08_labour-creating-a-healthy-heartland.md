@@ -1,9 +1,12 @@
 ---
 slug: labour-creating-a-healthy-heartland
-title: "Labour: Creating a Healthy Heartland"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PA1208/S00103/labour-creating-a-healthy-heartland.htm
+title: 'Labour: Creating a Healthy Heartland'
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00103/labour-creating-a-healthy-heartland.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/08/labour-creating-a-healthy-heartland/index.html
+layout: layout.njk
 ---
 Labour: Creating a Healthy Heartland
 ====================================

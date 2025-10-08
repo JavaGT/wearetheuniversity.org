@@ -1,9 +1,12 @@
 ---
 slug: student-anger-over-vuw-fee-hike
-title: "Student anger over VUW fee hike"
-date: 2005-11-01
-source-url: https://www.scoop.co.nz/stories/ED0511/S00001/student-anger-over-vuw-fee-hike.htm
+title: Student anger over VUW fee hike
+date: 2005-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00001/student-anger-over-vuw-fee-hike.htm
 author: victoria-university-students-association
+permalink: /archive/2005/11/01/student-anger-over-vuw-fee-hike/index.html
+layout: layout.njk
 ---
 Student anger over VUW fee hike
 ===============================

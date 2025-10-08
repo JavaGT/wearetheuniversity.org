@@ -1,9 +1,12 @@
 ---
 slug: speech-nz-at-a-crossroads-rahui-katene
-title: "Speech: NZ at a crossroads - Rahui Katene"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PA1107/S00232/speech-nz-at-a-crossroads-rahui-katene.htm
+title: 'Speech: NZ at a crossroads - Rahui Katene'
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00232/speech-nz-at-a-crossroads-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/07/13/speech-nz-at-a-crossroads-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: NZ at a crossroads - Rahui Katene
 =========================================

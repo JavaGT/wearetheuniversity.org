@@ -1,9 +1,13 @@
 ---
 slug: culturally-targeted-education-vital-to-curb-drownings
-title: "Culturally targeted education vital to curb drownings"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/ED1311/S00104/culturally-targeted-education-vital-to-curb-drownings.htm
+title: Culturally targeted education vital to curb drownings
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00104/culturally-targeted-education-vital-to-curb-drownings.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/14/culturally-targeted-education-vital-to-curb-drownings/index.html
+layout: layout.njk
 ---
 Culturally targeted education vital to curb drownings
 =====================================================

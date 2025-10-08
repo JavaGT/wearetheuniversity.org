@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-lecturer-questions-punitive-punishment
-title: "Vic Uni lecturer questions punitive punishment"
-date: 2002-09-02
-source-url: https://www.scoop.co.nz/stories/ED0209/S00002/vic-uni-lecturer-questions-punitive-punishment.htm
+title: Vic Uni lecturer questions punitive punishment
+date: 2002-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00002/vic-uni-lecturer-questions-punitive-punishment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/09/02/vic-uni-lecturer-questions-punitive-punishment/index.html
+layout: layout.njk
 ---
 Vic Uni lecturer questions punitive punishment
 ==============================================

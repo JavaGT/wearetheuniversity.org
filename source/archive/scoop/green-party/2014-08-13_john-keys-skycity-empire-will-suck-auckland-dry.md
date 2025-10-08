@@ -1,9 +1,12 @@
 ---
 slug: john-keys-skycity-empire-will-suck-auckland-dry
-title: "John Key’s SkyCity empire will suck Auckland dry"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PA1408/S00215/john-keys-skycity-empire-will-suck-auckland-dry.htm
+title: John Key’s SkyCity empire will suck Auckland dry
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00215/john-keys-skycity-empire-will-suck-auckland-dry.htm
 author: green-party
+permalink: /archive/2014/08/13/john-keys-skycity-empire-will-suck-auckland-dry/index.html
+layout: layout.njk
 ---
 John Key’s SkyCity empire will suck Auckland dry
 ================================================

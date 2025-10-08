@@ -1,9 +1,12 @@
 ---
 slug: childrens-antipsychotic-drug-use-scrutinised
-title: "Children’s antipsychotic drug use scrutinised"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/GE0707/S00070/childrens-antipsychotic-drug-use-scrutinised.htm
+title: Children’s antipsychotic drug use scrutinised
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0707/S00070/childrens-antipsychotic-drug-use-scrutinised.htm
 author: university-of-otago
+permalink: /archive/2007/07/18/childrens-antipsychotic-drug-use-scrutinised/index.html
+layout: layout.njk
 ---
 Children’s antipsychotic drug use scrutinised
 =============================================

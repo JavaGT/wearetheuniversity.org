@@ -1,9 +1,12 @@
 ---
 slug: maharey-must-explain-why-nzqa-failed-to-act
-title: "Maharey must explain why NZQA failed to act"
-date: 2007-01-22
-source-url: https://www.scoop.co.nz/stories/PA0701/S00105/maharey-must-explain-why-nzqa-failed-to-act.htm
+title: Maharey must explain why NZQA failed to act
+date: 2007-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00105/maharey-must-explain-why-nzqa-failed-to-act.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/22/maharey-must-explain-why-nzqa-failed-to-act/index.html
+layout: layout.njk
 ---
 Maharey must explain why NZQA failed to act
 ===========================================

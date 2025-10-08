@@ -1,9 +1,13 @@
 ---
 slug: tech-summit-2022-backs-kiwi-start-ups-to-take-on-the-world
-title: "Tech Summit 2022 Backs Kiwi Start-ups To Take On The World"
-date: 2022-11-11
-source-url: https://www.scoop.co.nz/stories/PA2211/S00095/tech-summit-2022-backs-kiwi-start-ups-to-take-on-the-world.htm
+title: Tech Summit 2022 Backs Kiwi Start-ups To Take On The World
+date: 2022-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00095/tech-summit-2022-backs-kiwi-start-ups-to-take-on-the-world.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/11/tech-summit-2022-backs-kiwi-start-ups-to-take-on-the-world/index.html
+layout: layout.njk
 ---
 Tech Summit 2022 Backs Kiwi Start-ups To Take On The World
 ==========================================================

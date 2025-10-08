@@ -1,9 +1,12 @@
 ---
 slug: closing-te-hurihanga-misguided-academic
-title: "Closing Te Hurihanga Misguided - academic"
-date: 2010-02-05
-source-url: https://www.scoop.co.nz/stories/PO1002/S00038/closing-te-hurihanga-misguided-academic.htm
+title: Closing Te Hurihanga Misguided - academic
+date: 2010-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00038/closing-te-hurihanga-misguided-academic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/05/closing-te-hurihanga-misguided-academic/index.html
+layout: layout.njk
 ---
 Closing Te Hurihanga Misguided - academic
 =========================================

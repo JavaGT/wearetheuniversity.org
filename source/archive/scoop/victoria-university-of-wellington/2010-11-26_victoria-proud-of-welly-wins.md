@@ -1,9 +1,11 @@
 ---
 slug: victoria-proud-of-welly-wins
-title: "Victoria proud of Welly wins"
-date: 2010-11-26
+title: Victoria proud of Welly wins
+date: 2010-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1011/S00105/victoria-proud-of-welly-wins.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/26/victoria-proud-of-welly-wins/index.html
+layout: layout.njk
 ---
 Victoria proud of Welly wins
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: mps-release-australian-travel-itinerary
-title: "MPs Release Australian Travel Itinerary"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/PA0708/S00104/mps-release-australian-travel-itinerary.htm
+title: MPs Release Australian Travel Itinerary
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00104/mps-release-australian-travel-itinerary.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/08/07/mps-release-australian-travel-itinerary/index.html
+layout: layout.njk
 ---
 MPs Release Australian Travel Itinerary
 =======================================

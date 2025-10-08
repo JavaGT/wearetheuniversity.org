@@ -1,9 +1,12 @@
 ---
 slug: additional-role-for-victoria-professor
-title: "Additional Role for Victoria Professor"
-date: 2003-03-13
-source-url: https://www.scoop.co.nz/stories/ED0303/S00020/additional-role-for-victoria-professor.htm
+title: Additional Role for Victoria Professor
+date: 2003-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00020/additional-role-for-victoria-professor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/13/additional-role-for-victoria-professor/index.html
+layout: layout.njk
 ---
 Additional Role for Victoria Professor
 ======================================

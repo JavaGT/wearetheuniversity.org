@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-get-on-side-with-kiwi-businesses
-title: "Govt needs to get on side with Kiwi businesses"
-date: 2018-01-30
-source-url: https://www.scoop.co.nz/stories/PA1801/S00095/govt-needs-to-get-on-side-with-kiwi-businesses.htm
+title: Govt needs to get on side with Kiwi businesses
+date: 2018-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00095/govt-needs-to-get-on-side-with-kiwi-businesses.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/30/govt-needs-to-get-on-side-with-kiwi-businesses/index.html
+layout: layout.njk
 ---
 Govt needs to get on side with Kiwi businesses
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: cricket-researcher-makes-game-changing-app
-title: "Cricket researcher makes game-changing app"
-date: 2016-10-12
-source-url: https://www.scoop.co.nz/stories/SC1610/S00031/cricket-researcher-makes-game-changing-app.htm
+title: Cricket researcher makes game-changing app
+date: 2016-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00031/cricket-researcher-makes-game-changing-app.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/12/cricket-researcher-makes-game-changing-app/index.html
+layout: layout.njk
 ---
 Cricket researcher makes game-changing app
 ==========================================

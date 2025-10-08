@@ -1,9 +1,11 @@
 ---
 slug: young-labour-renewed
-title: "Young Labour Renewed"
-date: 2006-04-12
+title: Young Labour Renewed
+date: 2006-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0604/S00105/young-labour-renewed.htm
 author: young-labour
+permalink: /archive/2006/04/12/young-labour-renewed/index.html
+layout: layout.njk
 ---
 Young Labour Renewed
 ====================

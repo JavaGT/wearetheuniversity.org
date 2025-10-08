@@ -1,9 +1,12 @@
 ---
 slug: waikato-academic-reappointed-to-pharmac
-title: "Waikato academic reappointed to PHARMAC"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/SC1608/S00036/waikato-academic-reappointed-to-pharmac.htm
+title: Waikato academic reappointed to PHARMAC
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00036/waikato-academic-reappointed-to-pharmac.htm
 author: university-of-waikato
+permalink: /archive/2016/08/10/waikato-academic-reappointed-to-pharmac/index.html
+layout: layout.njk
 ---
 Waikato academic reappointed to PHARMAC
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-for-anzac-pikia
-title: "Poroporoaki for Anzac Pikia"
-date: 2015-07-29
+title: Poroporoaki for Anzac Pikia
+date: 2015-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1507/S00490/poroporoaki-for-anzac-pikia.htm
 author: te-pati-maori
+permalink: /archive/2015/07/29/poroporoaki-for-anzac-pikia/index.html
+layout: layout.njk
 ---
 Poroporoaki for Anzac Pikia
 ===========================

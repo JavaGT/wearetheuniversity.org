@@ -1,9 +1,12 @@
 ---
 slug: aut-set-to-deliver-millennial-workforce
-title: "AUT set to deliver millennial workforce"
-date: 2018-07-05
-source-url: https://www.scoop.co.nz/stories/ED1807/S00018/aut-set-to-deliver-millennial-workforce.htm
+title: AUT set to deliver millennial workforce
+date: 2018-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00018/aut-set-to-deliver-millennial-workforce.htm
 author: aut-university
+permalink: /archive/2018/07/05/aut-set-to-deliver-millennial-workforce/index.html
+layout: layout.njk
 ---
 AUT set to deliver millennial workforce
 =======================================

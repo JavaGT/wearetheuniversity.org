@@ -1,9 +1,12 @@
 ---
 slug: peters-order-not-chaos-the-politics-of-mmp
-title: "Peters: \"Order Not Chaos – The Politics of MMP\""
-date: 2008-04-15
-source-url: https://www.scoop.co.nz/stories/PA0804/S00357/peters-order-not-chaos-the-politics-of-mmp.htm
+title: 'Peters: "Order Not Chaos – The Politics of MMP"'
+date: 2008-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00357/peters-order-not-chaos-the-politics-of-mmp.htm
 author: new-zealand-first-party
+permalink: /archive/2008/04/15/peters-order-not-chaos-the-politics-of-mmp/index.html
+layout: layout.njk
 ---
 Peters: “Order Not Chaos – The Politics of MMP”
 ===============================================

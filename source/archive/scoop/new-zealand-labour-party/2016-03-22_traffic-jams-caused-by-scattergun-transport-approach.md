@@ -1,9 +1,13 @@
 ---
 slug: traffic-jams-caused-by-scattergun-transport-approach
-title: "Traffic jams caused by scattergun transport approach"
-date: 2016-03-22
-source-url: https://www.scoop.co.nz/stories/PA1603/S00368/traffic-jams-caused-by-scattergun-transport-approach.htm
+title: Traffic jams caused by scattergun transport approach
+date: 2016-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00368/traffic-jams-caused-by-scattergun-transport-approach.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/22/traffic-jams-caused-by-scattergun-transport-approach/index.html
+layout: layout.njk
 ---
 Traffic jams caused by scattergun transport approach
 ====================================================

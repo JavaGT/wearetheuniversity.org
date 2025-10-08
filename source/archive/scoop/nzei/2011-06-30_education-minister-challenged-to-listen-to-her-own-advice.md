@@ -1,9 +1,13 @@
 ---
 slug: education-minister-challenged-to-listen-to-her-own-advice
-title: "Education Minister challenged to listen to her own advice"
-date: 2011-06-30
-source-url: https://www.scoop.co.nz/stories/PO1106/S00360/education-minister-challenged-to-listen-to-her-own-advice.htm
+title: Education Minister challenged to listen to her own advice
+date: 2011-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00360/education-minister-challenged-to-listen-to-her-own-advice.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/30/education-minister-challenged-to-listen-to-her-own-advice/index.html
+layout: layout.njk
 ---
 Education Minister challenged to listen to her own advice
 =========================================================

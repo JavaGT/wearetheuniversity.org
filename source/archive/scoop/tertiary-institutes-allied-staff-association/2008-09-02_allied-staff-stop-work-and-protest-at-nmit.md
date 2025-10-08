@@ -1,9 +1,12 @@
 ---
 slug: allied-staff-stop-work-and-protest-at-nmit
-title: "Allied Staff Stop Work And Protest At NMIT"
-date: 2008-09-02
-source-url: https://www.scoop.co.nz/stories/ED0809/S00006/allied-staff-stop-work-and-protest-at-nmit.htm
+title: Allied Staff Stop Work And Protest At NMIT
+date: 2008-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00006/allied-staff-stop-work-and-protest-at-nmit.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2008/09/02/allied-staff-stop-work-and-protest-at-nmit/index.html
+layout: layout.njk
 ---
 Allied Staff Stop Work And Protest At NMIT
 ==========================================

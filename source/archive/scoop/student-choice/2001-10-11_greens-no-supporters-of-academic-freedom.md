@@ -1,9 +1,12 @@
 ---
 slug: greens-no-supporters-of-academic-freedom
-title: "Greens No Supporters Of Academic Freedom"
-date: 2001-10-11
-source-url: https://www.scoop.co.nz/stories/ED0110/S00010/greens-no-supporters-of-academic-freedom.htm
+title: Greens No Supporters Of Academic Freedom
+date: 2001-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00010/greens-no-supporters-of-academic-freedom.htm
 author: student-choice
+permalink: /archive/2001/10/11/greens-no-supporters-of-academic-freedom/index.html
+layout: layout.njk
 ---
 Greens No Supporters Of Academic Freedom
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-290
-title: "Maxim Institute - real issues - No. 290"
-date: 2008-02-28
-source-url: https://www.scoop.co.nz/stories/PO0802/S00336/maxim-institute-real-issues-no-290.htm
+title: Maxim Institute - real issues - No. 290
+date: 2008-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0802/S00336/maxim-institute-real-issues-no-290.htm
 author: maxim-institute
+permalink: /archive/2008/02/28/maxim-institute-real-issues-no-290/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 290
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: curb-the-candy-consumption-and-have-a-healthy-halloween
-title: "Curb the candy consumption and have a healthy Halloween"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/GE1510/S00106/curb-the-candy-consumption-and-have-a-healthy-halloween.htm
+title: Curb the candy consumption and have a healthy Halloween
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1510/S00106/curb-the-candy-consumption-and-have-a-healthy-halloween.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/28/curb-the-candy-consumption-and-have-a-healthy-halloween/index.html
+layout: layout.njk
 ---
 Curb the candy consumption and have a healthy Halloween
 =======================================================

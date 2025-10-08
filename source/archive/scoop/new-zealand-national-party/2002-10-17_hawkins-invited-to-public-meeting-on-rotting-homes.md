@@ -1,9 +1,13 @@
 ---
 slug: hawkins-invited-to-public-meeting-on-rotting-homes
-title: "Hawkins invited to public meeting on rotting homes"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/PA0210/S00382/hawkins-invited-to-public-meeting-on-rotting-homes.htm
+title: Hawkins invited to public meeting on rotting homes
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00382/hawkins-invited-to-public-meeting-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/17/hawkins-invited-to-public-meeting-on-rotting-homes/index.html
+layout: layout.njk
 ---
 Hawkins invited to public meeting on rotting homes
 ==================================================

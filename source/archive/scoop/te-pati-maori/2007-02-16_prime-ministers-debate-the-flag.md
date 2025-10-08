@@ -1,9 +1,12 @@
 ---
 slug: prime-ministers-debate-the-flag
-title: "Prime Minister’s Debate: The Flag"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/PA0702/S00304/prime-ministers-debate-the-flag.htm
+title: 'Prime Minister’s Debate: The Flag'
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00304/prime-ministers-debate-the-flag.htm
 author: te-pati-maori
+permalink: /archive/2007/02/16/prime-ministers-debate-the-flag/index.html
+layout: layout.njk
 ---
 Prime Minister’s Debate: The Flag
 =================================

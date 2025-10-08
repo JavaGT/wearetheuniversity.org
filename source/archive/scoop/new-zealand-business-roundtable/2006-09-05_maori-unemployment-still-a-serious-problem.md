@@ -1,9 +1,12 @@
 ---
 slug: maori-unemployment-still-a-serious-problem
-title: "Maori Unemployment Still a Serious Problem"
-date: 2006-09-05
-source-url: https://www.scoop.co.nz/stories/PO0609/S00040/maori-unemployment-still-a-serious-problem.htm
+title: Maori Unemployment Still a Serious Problem
+date: 2006-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00040/maori-unemployment-still-a-serious-problem.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/09/05/maori-unemployment-still-a-serious-problem/index.html
+layout: layout.njk
 ---
 Maori Unemployment Still a Serious Problem
 ==========================================

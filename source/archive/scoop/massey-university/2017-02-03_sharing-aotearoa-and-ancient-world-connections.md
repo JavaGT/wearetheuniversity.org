@@ -1,9 +1,12 @@
 ---
 slug: sharing-aotearoa-and-ancient-world-connections
-title: "Sharing Aotearoa and Ancient World connections"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/CU1702/S00077/sharing-aotearoa-and-ancient-world-connections.htm
+title: Sharing Aotearoa and Ancient World connections
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00077/sharing-aotearoa-and-ancient-world-connections.htm
 author: massey-university
+permalink: /archive/2017/02/03/sharing-aotearoa-and-ancient-world-connections/index.html
+layout: layout.njk
 ---
 Sharing Aotearoa and Ancient World connections
 ==============================================

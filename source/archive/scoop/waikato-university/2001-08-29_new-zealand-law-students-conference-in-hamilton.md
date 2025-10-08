@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-law-students-conference-in-hamilton
-title: "New Zealand Law Students Conference in Hamilton"
-date: 2001-08-29
-source-url: https://www.scoop.co.nz/stories/ED0108/S00063/new-zealand-law-students-conference-in-hamilton.htm
+title: New Zealand Law Students Conference in Hamilton
+date: 2001-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00063/new-zealand-law-students-conference-in-hamilton.htm
 author: waikato-university
+permalink: /archive/2001/08/29/new-zealand-law-students-conference-in-hamilton/index.html
+layout: layout.njk
 ---
 New Zealand Law Students Conference in Hamilton
 ===============================================

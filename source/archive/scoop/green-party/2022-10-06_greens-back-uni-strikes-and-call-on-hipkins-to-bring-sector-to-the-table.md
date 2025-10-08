@@ -1,9 +1,13 @@
 ---
 slug: greens-back-uni-strikes-and-call-on-hipkins-to-bring-sector-to-the-table
-title: "Greens Back Uni Strikes And Call On Hipkins To Bring Sector To The Table"
-date: 2022-10-06
-source-url: https://www.scoop.co.nz/stories/PA2210/S00035/greens-back-uni-strikes-and-call-on-hipkins-to-bring-sector-to-the-table.htm
+title: Greens Back Uni Strikes And Call On Hipkins To Bring Sector To The Table
+date: 2022-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00035/greens-back-uni-strikes-and-call-on-hipkins-to-bring-sector-to-the-table.htm
 author: green-party
+permalink: >-
+  /archive/2022/10/06/greens-back-uni-strikes-and-call-on-hipkins-to-bring-sector-to-the-table/index.html
+layout: layout.njk
 ---
 Greens Back Uni Strikes And Call On Hipkins To Bring Sector To The Table
 ========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: ousas-clubs-day-touting-for-members
-title: "OUSA’s Clubs Day: Touting for Members"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/ED1007/S00048/ousas-clubs-day-touting-for-members.htm
+title: 'OUSA’s Clubs Day: Touting for Members'
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00048/ousas-clubs-day-touting-for-members.htm
 author: otago-university-students-association
+permalink: /archive/2010/07/13/ousas-clubs-day-touting-for-members/index.html
+layout: layout.njk
 ---
 OUSA’s Clubs Day: Touting for Members
 =====================================

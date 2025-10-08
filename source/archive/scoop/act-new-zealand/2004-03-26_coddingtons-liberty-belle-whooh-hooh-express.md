@@ -1,9 +1,12 @@
 ---
 slug: coddingtons-liberty-belle-whooh-hooh-express
-title: "Coddington's Liberty Belle: \"Whooh Hooh\" Express"
-date: 2004-03-26
-source-url: https://www.scoop.co.nz/stories/PA0403/S00583/coddingtons-liberty-belle-whooh-hooh-express.htm
+title: 'Coddington''s Liberty Belle: "Whooh Hooh" Express'
+date: 2004-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00583/coddingtons-liberty-belle-whooh-hooh-express.htm
 author: act-new-zealand
+permalink: /archive/2004/03/26/coddingtons-liberty-belle-whooh-hooh-express/index.html
+layout: layout.njk
 ---
 Coddington's Liberty Belle: "Whooh Hooh" Express
 ================================================

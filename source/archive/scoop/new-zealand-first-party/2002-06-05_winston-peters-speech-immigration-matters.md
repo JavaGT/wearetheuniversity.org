@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-immigration-matters
-title: "Winston Peters Speech - Immigration Matters"
-date: 2002-06-05
-source-url: https://www.scoop.co.nz/stories/PA0206/S00046/winston-peters-speech-immigration-matters.htm
+title: Winston Peters Speech - Immigration Matters
+date: 2002-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00046/winston-peters-speech-immigration-matters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/05/winston-peters-speech-immigration-matters/index.html
+layout: layout.njk
 ---
 Winston Peters Speech - Immigration Matters
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: environmental-education-supported-by-nzei
-title: "Environmental Education Supported By NZEI"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/ED0605/S00035/environmental-education-supported-by-nzei.htm
+title: Environmental Education Supported By NZEI
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00035/environmental-education-supported-by-nzei.htm
 author: nzei
+permalink: /archive/2006/05/10/environmental-education-supported-by-nzei/index.html
+layout: layout.njk
 ---
 Environmental Education Supported By NZEI
 =========================================

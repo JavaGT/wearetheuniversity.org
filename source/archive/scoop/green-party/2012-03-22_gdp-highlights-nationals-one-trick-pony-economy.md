@@ -1,9 +1,12 @@
 ---
 slug: gdp-highlights-nationals-one-trick-pony-economy
-title: "GDP highlights National’s ‘one trick pony’ economy"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/PA1203/S00297/gdp-highlights-nationals-one-trick-pony-economy.htm
+title: GDP highlights National’s ‘one trick pony’ economy
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00297/gdp-highlights-nationals-one-trick-pony-economy.htm
 author: green-party
+permalink: /archive/2012/03/22/gdp-highlights-nationals-one-trick-pony-economy/index.html
+layout: layout.njk
 ---
 GDP highlights National’s ‘one trick pony’ economy
 ==================================================

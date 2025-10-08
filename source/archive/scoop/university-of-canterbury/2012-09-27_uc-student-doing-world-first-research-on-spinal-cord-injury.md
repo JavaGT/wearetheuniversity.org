@@ -1,9 +1,13 @@
 ---
 slug: uc-student-doing-world-first-research-on-spinal-cord-injury
-title: "UC student doing world first research on spinal cord injury"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/SC1209/S00065/uc-student-doing-world-first-research-on-spinal-cord-injury.htm
+title: UC student doing world first research on spinal cord injury
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00065/uc-student-doing-world-first-research-on-spinal-cord-injury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/27/uc-student-doing-world-first-research-on-spinal-cord-injury/index.html
+layout: layout.njk
 ---
 UC student doing world first research on spinal cord injury
 ===========================================================

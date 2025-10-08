@@ -1,9 +1,12 @@
 ---
 slug: open-polytechnic-doesnt-impress
-title: "Open Polytechnic Doesn’t Impress"
-date: 2005-11-17
-source-url: https://www.scoop.co.nz/stories/ED0511/S00064/open-polytechnic-doesnt-impress.htm
+title: Open Polytechnic Doesn’t Impress
+date: 2005-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00064/open-polytechnic-doesnt-impress.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/11/17/open-polytechnic-doesnt-impress/index.html
+layout: layout.njk
 ---
 Open Polytechnic Doesn’t Impress
 ================================

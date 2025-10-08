@@ -1,9 +1,12 @@
 ---
 slug: hawkins-claims-a-joke-says-mark
-title: "Hawkins Claims A Joke Says Mark"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00668/hawkins-claims-a-joke-says-mark.htm
+title: Hawkins Claims A Joke Says Mark
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00668/hawkins-claims-a-joke-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/25/hawkins-claims-a-joke-says-mark/index.html
+layout: layout.njk
 ---
 Hawkins Claims A Joke Says Mark
 ===============================

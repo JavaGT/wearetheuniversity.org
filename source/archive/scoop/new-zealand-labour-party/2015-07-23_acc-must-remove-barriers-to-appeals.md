@@ -1,9 +1,12 @@
 ---
 slug: acc-must-remove-barriers-to-appeals
-title: "ACC must remove barriers to appeals"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/PA1507/S00387/acc-must-remove-barriers-to-appeals.htm
+title: ACC must remove barriers to appeals
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00387/acc-must-remove-barriers-to-appeals.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/23/acc-must-remove-barriers-to-appeals/index.html
+layout: layout.njk
 ---
 ACC must remove barriers to appeals
 ===================================

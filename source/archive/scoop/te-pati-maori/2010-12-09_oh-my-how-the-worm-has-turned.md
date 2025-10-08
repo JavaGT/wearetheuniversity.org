@@ -1,9 +1,12 @@
 ---
 slug: oh-my-how-the-worm-has-turned
-title: "Oh my, how the worm has turned"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/PA1012/S00166/oh-my-how-the-worm-has-turned.htm
+title: Oh my, how the worm has turned
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00166/oh-my-how-the-worm-has-turned.htm
 author: te-pati-maori
+permalink: /archive/2010/12/09/oh-my-how-the-worm-has-turned/index.html
+layout: layout.njk
 ---
 Oh my, how the worm has turned
 ==============================

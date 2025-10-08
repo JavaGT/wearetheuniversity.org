@@ -1,9 +1,12 @@
 ---
 slug: uk-research-may-bring-radical-overhaul
-title: "UK research may bring ‘radical overhaul’"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/ED0906/S00084/uk-research-may-bring-radical-overhaul.htm
+title: UK research may bring ‘radical overhaul’
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00084/uk-research-may-bring-radical-overhaul.htm
 author: university-of-otago
+permalink: /archive/2009/06/29/uk-research-may-bring-radical-overhaul/index.html
+layout: layout.njk
 ---
 UK research may bring ‘radical overhaul’
 ========================================

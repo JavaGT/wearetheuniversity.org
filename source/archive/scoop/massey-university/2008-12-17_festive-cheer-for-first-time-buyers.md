@@ -1,9 +1,12 @@
 ---
 slug: festive-cheer-for-first-time-buyers
-title: "Festive cheer for first-time buyers"
-date: 2008-12-17
-source-url: https://www.scoop.co.nz/stories/BU0812/S00366/festive-cheer-for-first-time-buyers.htm
+title: Festive cheer for first-time buyers
+date: 2008-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00366/festive-cheer-for-first-time-buyers.htm
 author: massey-university
+permalink: /archive/2008/12/17/festive-cheer-for-first-time-buyers/index.html
+layout: layout.njk
 ---
 Festive cheer for first-time buyers
 ===================================

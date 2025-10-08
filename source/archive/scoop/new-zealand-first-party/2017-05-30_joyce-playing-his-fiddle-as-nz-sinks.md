@@ -1,9 +1,12 @@
 ---
 slug: joyce-playing-his-fiddle-as-nz-sinks
-title: "Joyce Playing His Fiddle as NZ Sinks"
-date: 2017-05-30
-source-url: https://www.scoop.co.nz/stories/PA1705/S00633/joyce-playing-his-fiddle-as-nz-sinks.htm
+title: Joyce Playing His Fiddle as NZ Sinks
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00633/joyce-playing-his-fiddle-as-nz-sinks.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/30/joyce-playing-his-fiddle-as-nz-sinks/index.html
+layout: layout.njk
 ---
 Joyce Playing His Fiddle as NZ Sinks
 ====================================

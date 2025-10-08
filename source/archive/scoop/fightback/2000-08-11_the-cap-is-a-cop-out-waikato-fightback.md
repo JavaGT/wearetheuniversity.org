@@ -1,9 +1,12 @@
 ---
 slug: the-cap-is-a-cop-out-waikato-fightback
-title: "The Cap is a Cop Out-  Waikato Fightback"
-date: 2000-08-11
-source-url: https://www.scoop.co.nz/stories/ED0008/S00025/the-cap-is-a-cop-out-waikato-fightback.htm
+title: The Cap is a Cop Out-  Waikato Fightback
+date: 2000-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00025/the-cap-is-a-cop-out-waikato-fightback.htm
 author: fightback
+permalink: /archive/2000/08/11/the-cap-is-a-cop-out-waikato-fightback/index.html
+layout: layout.njk
 ---
 The Cap is a Cop Out- Waikato Fightback
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-to-set-up-an-architect-in-residence
-title: "UC to set up an architect in residence"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/ED1403/S00038/uc-to-set-up-an-architect-in-residence.htm
+title: UC to set up an architect in residence
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00038/uc-to-set-up-an-architect-in-residence.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/07/uc-to-set-up-an-architect-in-residence/index.html
+layout: layout.njk
 ---
 UC to set up an architect in residence
 ======================================

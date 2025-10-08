@@ -1,9 +1,12 @@
 ---
 slug: fatal-flaws-the-collapse-of-morandi-bridge
-title: "Fatal flaws: the collapse of Morandi Bridge"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/AK1905/S00034/fatal-flaws-the-collapse-of-morandi-bridge.htm
+title: 'Fatal flaws: the collapse of Morandi Bridge'
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1905/S00034/fatal-flaws-the-collapse-of-morandi-bridge.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/02/fatal-flaws-the-collapse-of-morandi-bridge/index.html
+layout: layout.njk
 ---
 Fatal flaws: the collapse of Morandi Bridge
 ===========================================

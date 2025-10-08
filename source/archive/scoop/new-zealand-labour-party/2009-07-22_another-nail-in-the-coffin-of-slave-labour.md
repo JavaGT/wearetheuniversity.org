@@ -1,9 +1,12 @@
 ---
 slug: another-nail-in-the-coffin-of-slave-labour
-title: "Another nail in the coffin of slave labour"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/PA0907/S00246/another-nail-in-the-coffin-of-slave-labour.htm
+title: Another nail in the coffin of slave labour
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00246/another-nail-in-the-coffin-of-slave-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/22/another-nail-in-the-coffin-of-slave-labour/index.html
+layout: layout.njk
 ---
 Another nail in the coffin of slave labour
 ==========================================

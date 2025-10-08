@@ -1,9 +1,12 @@
 ---
 slug: young-entrepreneurs-take-own-career-path
-title: "Young entrepreneurs take own career path"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/ED0905/S00113/young-entrepreneurs-take-own-career-path.htm
+title: Young entrepreneurs take own career path
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00113/young-entrepreneurs-take-own-career-path.htm
 author: massey-university
+permalink: /archive/2009/05/28/young-entrepreneurs-take-own-career-path/index.html
+layout: layout.njk
 ---
 Young entrepreneurs take own career path
 ========================================

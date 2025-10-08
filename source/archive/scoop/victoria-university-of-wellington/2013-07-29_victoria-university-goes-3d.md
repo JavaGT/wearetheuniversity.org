@@ -1,9 +1,11 @@
 ---
 slug: victoria-university-goes-3d
-title: "Victoria University goes 3D"
-date: 2013-07-29
+title: Victoria University goes 3D
+date: 2013-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1307/S00474/victoria-university-goes-3d.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/29/victoria-university-goes-3d/index.html
+layout: layout.njk
 ---
 Victoria University goes 3D
 ===========================

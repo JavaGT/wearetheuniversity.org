@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-student-loan-scheme-amendment
-title: "Speech: Flavell - Student Loan Scheme Amendment"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/PA0908/S00445/speech-flavell-student-loan-scheme-amendment.htm
+title: 'Speech: Flavell - Student Loan Scheme Amendment'
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00445/speech-flavell-student-loan-scheme-amendment.htm
 author: te-pati-maori
+permalink: /archive/2009/08/31/speech-flavell-student-loan-scheme-amendment/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Student Loan Scheme Amendment
 ===============================================

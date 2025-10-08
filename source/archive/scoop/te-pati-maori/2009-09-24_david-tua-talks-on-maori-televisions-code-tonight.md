@@ -1,9 +1,13 @@
 ---
 slug: david-tua-talks-on-maori-televisions-code-tonight
-title: "David Tua Talks on Maori Television’s Code Tonight"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/CU0909/S00353/david-tua-talks-on-maori-televisions-code-tonight.htm
+title: David Tua Talks on Maori Television’s Code Tonight
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00353/david-tua-talks-on-maori-televisions-code-tonight.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2009/09/24/david-tua-talks-on-maori-televisions-code-tonight/index.html
+layout: layout.njk
 ---
 David Tua Talks on Maori Television’s Code Tonight
 ==================================================

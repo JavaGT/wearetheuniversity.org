@@ -1,9 +1,13 @@
 ---
 slug: uc-looking-into-life-quality-impacts-of-hearing-impairments
-title: "UC looking into life quality impacts of hearing impairments"
-date: 2013-05-05
-source-url: https://www.scoop.co.nz/stories/ED1305/S00023/uc-looking-into-life-quality-impacts-of-hearing-impairments.htm
+title: UC looking into life quality impacts of hearing impairments
+date: 2013-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00023/uc-looking-into-life-quality-impacts-of-hearing-impairments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/05/uc-looking-into-life-quality-impacts-of-hearing-impairments/index.html
+layout: layout.njk
 ---
 UC looking into life quality impacts of hearing impairments
 ===========================================================

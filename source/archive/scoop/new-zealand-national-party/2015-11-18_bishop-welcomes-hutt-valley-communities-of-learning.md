@@ -1,9 +1,13 @@
 ---
 slug: bishop-welcomes-hutt-valley-communities-of-learning
-title: "Bishop welcomes Hutt Valley Communities of Learning"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/PA1511/S00344/bishop-welcomes-hutt-valley-communities-of-learning.htm
+title: Bishop welcomes Hutt Valley Communities of Learning
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00344/bishop-welcomes-hutt-valley-communities-of-learning.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/11/18/bishop-welcomes-hutt-valley-communities-of-learning/index.html
+layout: layout.njk
 ---
 Bishop welcomes Hutt Valley Communities of Learning
 ===================================================

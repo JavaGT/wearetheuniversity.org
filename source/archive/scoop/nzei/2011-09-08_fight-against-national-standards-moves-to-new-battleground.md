@@ -1,9 +1,13 @@
 ---
 slug: fight-against-national-standards-moves-to-new-battleground
-title: "Fight against National Standards moves to new battleground"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/ED1109/S00024/fight-against-national-standards-moves-to-new-battleground.htm
+title: Fight against National Standards moves to new battleground
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00024/fight-against-national-standards-moves-to-new-battleground.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/08/fight-against-national-standards-moves-to-new-battleground/index.html
+layout: layout.njk
 ---
 Fight against National Standards moves to new battleground
 ==========================================================

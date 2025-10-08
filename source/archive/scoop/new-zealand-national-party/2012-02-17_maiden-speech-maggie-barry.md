@@ -1,9 +1,11 @@
 ---
 slug: maiden-speech-maggie-barry
-title: "Maiden Speech: Maggie Barry"
-date: 2012-02-17
+title: 'Maiden Speech: Maggie Barry'
+date: 2012-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1202/S00213/maiden-speech-maggie-barry.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/17/maiden-speech-maggie-barry/index.html
+layout: layout.njk
 ---
 Maiden Speech: Maggie Barry
 ===========================

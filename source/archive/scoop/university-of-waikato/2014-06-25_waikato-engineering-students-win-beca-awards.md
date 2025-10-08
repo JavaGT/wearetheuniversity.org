@@ -1,9 +1,12 @@
 ---
 slug: waikato-engineering-students-win-beca-awards
-title: "Waikato engineering students win Beca Awards"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/ED1406/S00138/waikato-engineering-students-win-beca-awards.htm
+title: Waikato engineering students win Beca Awards
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00138/waikato-engineering-students-win-beca-awards.htm
 author: university-of-waikato
+permalink: /archive/2014/06/25/waikato-engineering-students-win-beca-awards/index.html
+layout: layout.njk
 ---
 Waikato engineering students win Beca Awards
 ============================================

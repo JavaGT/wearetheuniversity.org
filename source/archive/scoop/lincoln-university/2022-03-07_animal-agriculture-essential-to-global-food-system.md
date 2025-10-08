@@ -1,9 +1,13 @@
 ---
 slug: animal-agriculture-essential-to-global-food-system
-title: "Animal Agriculture ‘essential To Global Food System’"
-date: 2022-03-07
-source-url: https://www.scoop.co.nz/stories/SC2203/S00019/animal-agriculture-essential-to-global-food-system.htm
+title: Animal Agriculture ‘essential To Global Food System’
+date: 2022-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00019/animal-agriculture-essential-to-global-food-system.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/03/07/animal-agriculture-essential-to-global-food-system/index.html
+layout: layout.njk
 ---
 Animal Agriculture ‘essential To Global Food System’
 ====================================================

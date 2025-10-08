@@ -1,9 +1,11 @@
 ---
 slug: john-keys-campaign-blog
-title: "John Key's Campaign Blog"
-date: 2008-10-14
+title: John Key's Campaign Blog
+date: 2008-10-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00300/john-keys-campaign-blog.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/14/john-keys-campaign-blog/index.html
+layout: layout.njk
 ---
 John Key's Campaign Blog
 ========================

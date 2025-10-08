@@ -1,9 +1,12 @@
 ---
 slug: solar-powered-kiwi-bach-on-display
-title: "Solar powered Kiwi bach on display"
-date: 2010-11-29
-source-url: https://www.scoop.co.nz/stories/AK1011/S00618/solar-powered-kiwi-bach-on-display.htm
+title: Solar powered Kiwi bach on display
+date: 2010-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00618/solar-powered-kiwi-bach-on-display.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/11/29/solar-powered-kiwi-bach-on-display/index.html
+layout: layout.njk
 ---
 Solar powered Kiwi bach on display
 ==================================

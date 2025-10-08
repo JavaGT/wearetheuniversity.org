@@ -1,9 +1,12 @@
 ---
 slug: dusting-off-child-murder-history
-title: "Dusting off child murder history"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/ED0904/S00026/dusting-off-child-murder-history.htm
+title: Dusting off child murder history
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00026/dusting-off-child-murder-history.htm
 author: waikato-university
+permalink: /archive/2009/04/09/dusting-off-child-murder-history/index.html
+layout: layout.njk
 ---
 Dusting off child murder history
 ================================

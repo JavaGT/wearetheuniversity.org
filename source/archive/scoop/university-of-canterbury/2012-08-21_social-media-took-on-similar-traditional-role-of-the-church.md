@@ -1,9 +1,13 @@
 ---
 slug: social-media-took-on-similar-traditional-role-of-the-church
-title: "Social media took on similar traditional role of the church"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/ED1208/S00106/social-media-took-on-similar-traditional-role-of-the-church.htm
+title: Social media took on similar traditional role of the church
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00106/social-media-took-on-similar-traditional-role-of-the-church.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/21/social-media-took-on-similar-traditional-role-of-the-church/index.html
+layout: layout.njk
 ---
 Social media took on similar traditional role of the church
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: lactation-hormone-also-helps-a-mothers-brain
-title: "Lactation hormone also helps a mother’s brain"
-date: 2017-09-26
-source-url: https://www.scoop.co.nz/stories/BU1709/S00809/lactation-hormone-also-helps-a-mothers-brain.htm
+title: Lactation hormone also helps a mother’s brain
+date: 2017-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1709/S00809/lactation-hormone-also-helps-a-mothers-brain.htm
 author: university-of-otago
+permalink: /archive/2017/09/26/lactation-hormone-also-helps-a-mothers-brain/index.html
+layout: layout.njk
 ---
 Lactation hormone also helps a mother’s brain
 =============================================

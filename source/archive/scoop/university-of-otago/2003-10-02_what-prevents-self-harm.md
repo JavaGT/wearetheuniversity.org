@@ -1,9 +1,11 @@
 ---
 slug: what-prevents-self-harm
-title: "What Prevents Self-Harm?"
-date: 2003-10-02
+title: What Prevents Self-Harm?
+date: 2003-10-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00005/what-prevents-self-harm.htm
 author: university-of-otago
+permalink: /archive/2003/10/02/what-prevents-self-harm/index.html
+layout: layout.njk
 ---
 What Prevents Self-Harm?
 ========================

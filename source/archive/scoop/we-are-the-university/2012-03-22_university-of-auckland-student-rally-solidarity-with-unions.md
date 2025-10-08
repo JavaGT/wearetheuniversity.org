@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-student-rally-solidarity-with-unions
-title: "University of Auckland Student Rally: Solidarity with Unions"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/PO1203/S00284/university-of-auckland-student-rally-solidarity-with-unions.htm
+title: 'University of Auckland Student Rally: Solidarity with Unions'
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00284/university-of-auckland-student-rally-solidarity-with-unions.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2012/03/22/university-of-auckland-student-rally-solidarity-with-unions/index.html
+layout: layout.njk
 ---
 University of Auckland Student Rally: Solidarity with Unions
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: dairy-farming-putting-water-quality-at-risk
-title: "Dairy farming putting water quality at risk"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/PA0708/S00385/dairy-farming-putting-water-quality-at-risk.htm
+title: Dairy farming putting water quality at risk
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00385/dairy-farming-putting-water-quality-at-risk.htm
 author: green-party
+permalink: /archive/2007/08/22/dairy-farming-putting-water-quality-at-risk/index.html
+layout: layout.njk
 ---
 Dairy farming putting water quality at risk
 ===========================================

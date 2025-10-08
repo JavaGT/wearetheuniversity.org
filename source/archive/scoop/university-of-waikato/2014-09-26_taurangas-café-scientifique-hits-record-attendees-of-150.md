@@ -1,9 +1,12 @@
 ---
 slug: taurangas-café-scientifique-hits-record-attendees-of-150
-title: "Tauranga's Café Scientifique hits record attendees of 150"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/ED1409/S00162/taurangas-cafe-scientifique-hits-record-attendees-of-150.htm
+title: Tauranga's Café Scientifique hits record attendees of 150
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00162/taurangas-cafe-scientifique-hits-record-attendees-of-150.htm
 author: university-of-waikato
+permalink: /archive/2014/09/26/taurangas-caf/index.html
+layout: layout.njk
 ---
 Tauranga's Café Scientifique hits record attendees of 150
 =========================================================

@@ -1,8 +1,14 @@
 ---
-slug: six-universities-deliver-a-‘game-changing-master-of-māori-and-indigenous-business-degree
-title: "Six universities deliver a ‘game changing’ Master of Māori and Indigenous Business degree"
-date: 2017-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/six-universities-deliver-game-changing-master-maori-and-indigenous-business-degree.html
+slug: >-
+  six-universities-deliver-a-‘game-changing-master-of-māori-and-indigenous-business-degree
+title: >-
+  Six universities deliver a ‘game changing’ Master of Māori and Indigenous
+  Business degree
+date: 2017-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/six-universities-deliver-game-changing-master-maori-and-indigenous-business-degree.html
+permalink: /archive/2017/11/03/six-universities-deliver-a-/index.html
+layout: layout.njk
 ---
 Six universities deliver a ‘game changing’ Master of Māori and Indigenous Business degree
 =========================================================================================

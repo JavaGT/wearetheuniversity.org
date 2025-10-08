@@ -1,9 +1,13 @@
 ---
 slug: speech-te-ururoa-flavell-on-marriage-amendment-bill
-title: "Speech: Te Ururoa Flavell on Marriage Amendment Bill"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/PA1304/S00339/speech-te-ururoa-flavell-on-marriage-amendment-bill.htm
+title: 'Speech: Te Ururoa Flavell on Marriage Amendment Bill'
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00339/speech-te-ururoa-flavell-on-marriage-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/04/18/speech-te-ururoa-flavell-on-marriage-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Te Ururoa Flavell on Marriage Amendment Bill
 ====================================================

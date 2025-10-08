@@ -1,9 +1,12 @@
 ---
 slug: hamilton-mayor-will-support-fightback-hui
-title: "Hamilton Mayor Will Support Fightback Hui"
-date: 2000-04-21
-source-url: https://www.scoop.co.nz/stories/ED0004/S00026/hamilton-mayor-will-support-fightback-hui.htm
+title: Hamilton Mayor Will Support Fightback Hui
+date: 2000-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00026/hamilton-mayor-will-support-fightback-hui.htm
 author: fightback
+permalink: /archive/2000/04/21/hamilton-mayor-will-support-fightback-hui/index.html
+layout: layout.njk
 ---
 Hamilton Mayor Will Support Fightback Hui
 =========================================

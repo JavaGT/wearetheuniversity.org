@@ -1,9 +1,13 @@
 ---
 slug: covid-restrictions-a-relief-but-we-never-should-have-been-here
-title: "Covid Restrictions A Relief – But We Never Should Have Been Here"
-date: 2020-09-21
-source-url: https://www.scoop.co.nz/stories/PA2009/S00179/covid-restrictions-a-relief-but-we-never-should-have-been-here.htm
+title: Covid Restrictions A Relief – But We Never Should Have Been Here
+date: 2020-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00179/covid-restrictions-a-relief-but-we-never-should-have-been-here.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/21/covid-restrictions-a-relief-but-we-never-should-have-been-here/index.html
+layout: layout.njk
 ---
 Covid Restrictions A Relief – But We Never Should Have Been Here
 ================================================================

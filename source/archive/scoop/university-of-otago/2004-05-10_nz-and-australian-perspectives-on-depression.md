@@ -1,9 +1,12 @@
 ---
 slug: nz-and-australian-perspectives-on-depression
-title: "NZ And Australian Perspectives On Depression"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/ED0405/S00036/nz-and-australian-perspectives-on-depression.htm
+title: NZ And Australian Perspectives On Depression
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00036/nz-and-australian-perspectives-on-depression.htm
 author: university-of-otago
+permalink: /archive/2004/05/10/nz-and-australian-perspectives-on-depression/index.html
+layout: layout.njk
 ---
 NZ And Australian Perspectives On Depression
 ============================================

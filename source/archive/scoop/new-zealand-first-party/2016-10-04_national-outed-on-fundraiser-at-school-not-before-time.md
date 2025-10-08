@@ -1,9 +1,13 @@
 ---
 slug: national-outed-on-fundraiser-at-school-not-before-time
-title: "National Outed On Fundraiser at School – Not Before Time"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/PA1610/S00028/national-outed-on-fundraiser-at-school-not-before-time.htm
+title: National Outed On Fundraiser at School – Not Before Time
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00028/national-outed-on-fundraiser-at-school-not-before-time.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/10/04/national-outed-on-fundraiser-at-school-not-before-time/index.html
+layout: layout.njk
 ---
 National Outed On Fundraiser at School – Not Before Time
 ========================================================

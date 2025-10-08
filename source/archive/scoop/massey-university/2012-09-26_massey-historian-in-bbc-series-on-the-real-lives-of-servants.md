@@ -1,9 +1,13 @@
 ---
 slug: massey-historian-in-bbc-series-on-the-real-lives-of-servants
-title: "Massey historian in BBC series on the real lives of servants"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/CU1209/S00468/massey-historian-in-bbc-series-on-the-real-lives-of-servants.htm
+title: Massey historian in BBC series on the real lives of servants
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1209/S00468/massey-historian-in-bbc-series-on-the-real-lives-of-servants.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/26/massey-historian-in-bbc-series-on-the-real-lives-of-servants/index.html
+layout: layout.njk
 ---
 Massey historian in BBC series on the real lives of servants
 ============================================================

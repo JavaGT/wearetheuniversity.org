@@ -1,9 +1,13 @@
 ---
 slug: university-and-kura-experiment-with-science-in-te-reo-māori
-title: "University and Kura experiment with science in te reo Māori"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/ED1604/S00008/university-and-kura-experiment-with-science-in-te-reo-maori.htm
+title: University and Kura experiment with science in te reo Māori
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00008/university-and-kura-experiment-with-science-in-te-reo-maori.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/04/university-and-kura-experiment-with-science-in-te-reo-m/index.html
+layout: layout.njk
 ---
 University and Kura experiment with science in te reo Māori
 ===========================================================

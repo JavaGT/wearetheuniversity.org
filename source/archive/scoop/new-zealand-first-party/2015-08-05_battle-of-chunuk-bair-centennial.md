@@ -1,9 +1,12 @@
 ---
 slug: battle-of-chunuk-bair-centennial
-title: "Battle of Chunuk Bair Centennial"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/PA1508/S00073/battle-of-chunuk-bair-centennial.htm
+title: Battle of Chunuk Bair Centennial
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00073/battle-of-chunuk-bair-centennial.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/05/battle-of-chunuk-bair-centennial/index.html
+layout: layout.njk
 ---
 Battle of Chunuk Bair Centennial
 ================================

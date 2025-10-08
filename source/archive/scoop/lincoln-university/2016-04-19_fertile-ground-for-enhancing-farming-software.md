@@ -1,9 +1,12 @@
 ---
 slug: fertile-ground-for-enhancing-farming-software
-title: "Fertile ground for enhancing farming software"
-date: 2016-04-19
-source-url: https://www.scoop.co.nz/stories/BU1604/S00591/fertile-ground-for-enhancing-farming-software.htm
+title: Fertile ground for enhancing farming software
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1604/S00591/fertile-ground-for-enhancing-farming-software.htm
 author: lincoln-university
+permalink: /archive/2016/04/19/fertile-ground-for-enhancing-farming-software/index.html
+layout: layout.njk
 ---
 Fertile ground for enhancing farming software
 =============================================

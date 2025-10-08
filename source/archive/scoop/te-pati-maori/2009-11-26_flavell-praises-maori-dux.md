@@ -1,9 +1,11 @@
 ---
 slug: flavell-praises-maori-dux
-title: "Flavell praises Maori dux"
-date: 2009-11-26
+title: Flavell praises Maori dux
+date: 2009-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0911/S00419/flavell-praises-maori-dux.htm
 author: te-pati-maori
+permalink: /archive/2009/11/26/flavell-praises-maori-dux/index.html
+layout: layout.njk
 ---
 Flavell praises Maori dux
 =========================

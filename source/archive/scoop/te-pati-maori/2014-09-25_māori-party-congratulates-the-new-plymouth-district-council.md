@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-the-new-plymouth-district-council
-title: "Māori Party congratulates the New Plymouth District Council"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/PA1409/S00308/maori-party-congratulates-the-new-plymouth-district-council.htm
+title: Māori Party congratulates the New Plymouth District Council
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00308/maori-party-congratulates-the-new-plymouth-district-council.htm
 author: te-pati-maori
+permalink: /archive/2014/09/25/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates the New Plymouth District Council
 ===========================================================

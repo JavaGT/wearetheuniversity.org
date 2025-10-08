@@ -1,9 +1,12 @@
 ---
 slug: plain-english-fri-24-may-2002
-title: "Plain English - Fri, 24 May 2002"
-date: 2002-05-25
-source-url: https://www.scoop.co.nz/stories/PA0205/S00602/plain-english-fri-24-may-2002.htm
+title: Plain English - Fri, 24 May 2002
+date: 2002-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00602/plain-english-fri-24-may-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/25/plain-english-fri-24-may-2002/index.html
+layout: layout.njk
 ---
 Plain English - Fri, 24 May 2002
 ================================

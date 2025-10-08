@@ -1,9 +1,12 @@
 ---
 slug: government-should-apologise-not-appeal
-title: "Government Should Apologise, Not Appeal"
-date: 2022-06-20
-source-url: https://www.scoop.co.nz/stories/PA2206/S00156/government-should-apologise-not-appeal.htm
+title: Government Should Apologise, Not Appeal
+date: 2022-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00156/government-should-apologise-not-appeal.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/20/government-should-apologise-not-appeal/index.html
+layout: layout.njk
 ---
 Government Should Apologise, Not Appeal
 =======================================

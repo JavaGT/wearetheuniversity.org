@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-financial-review-msd
-title: "Speech: Katene - Financial Review – MSD"
-date: 2009-04-08
-source-url: https://www.scoop.co.nz/stories/PA0904/S00111/speech-katene-financial-review-msd.htm
+title: 'Speech: Katene - Financial Review – MSD'
+date: 2009-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00111/speech-katene-financial-review-msd.htm
 author: te-pati-maori
+permalink: /archive/2009/04/08/speech-katene-financial-review-msd/index.html
+layout: layout.njk
 ---
 Speech: Katene - Financial Review – MSD
 =======================================

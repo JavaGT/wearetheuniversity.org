@@ -1,9 +1,12 @@
 ---
 slug: our-hope-for-a-secure-and-liveable-world-turia
-title: "‘Our Hope for a Secure and LivEable World’ - Turia"
-date: 2008-05-14
-source-url: https://www.scoop.co.nz/stories/PA0805/S00219/our-hope-for-a-secure-and-liveable-world-turia.htm
+title: ‘Our Hope for a Secure and LivEable World’ - Turia
+date: 2008-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00219/our-hope-for-a-secure-and-liveable-world-turia.htm
 author: te-pati-maori
+permalink: /archive/2008/05/14/our-hope-for-a-secure-and-liveable-world-turia/index.html
+layout: layout.njk
 ---
 ‘Our Hope for a Secure and LivEable World’ - Turia
 ==================================================

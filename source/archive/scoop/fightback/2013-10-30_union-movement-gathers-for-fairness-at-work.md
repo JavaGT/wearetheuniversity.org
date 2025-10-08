@@ -1,9 +1,12 @@
 ---
 slug: union-movement-gathers-for-fairness-at-work
-title: "Union movement gathers for ‘Fairness at Work’"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/HL1310/S00235/union-movement-gathers-for-fairness-at-work.htm
+title: Union movement gathers for ‘Fairness at Work’
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1310/S00235/union-movement-gathers-for-fairness-at-work.htm
 author: fightback
+permalink: /archive/2013/10/30/union-movement-gathers-for-fairness-at-work/index.html
+layout: layout.njk
 ---
 Union movement gathers for ‘Fairness at Work’
 =============================================

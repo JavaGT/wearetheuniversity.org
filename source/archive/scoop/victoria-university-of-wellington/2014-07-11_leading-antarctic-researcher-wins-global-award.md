@@ -1,9 +1,12 @@
 ---
 slug: leading-antarctic-researcher-wins-global-award
-title: "Leading Antarctic researcher wins global award"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/SC1407/S00029/leading-antarctic-researcher-wins-global-award.htm
+title: Leading Antarctic researcher wins global award
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00029/leading-antarctic-researcher-wins-global-award.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/11/leading-antarctic-researcher-wins-global-award/index.html
+layout: layout.njk
 ---
 Leading Antarctic researcher wins global award
 ==============================================

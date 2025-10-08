@@ -1,9 +1,12 @@
 ---
 slug: social-history-of-medicine-under-the-microscope
-title: "Social history of medicine under the microscope"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/SC1506/S00037/social-history-of-medicine-under-the-microscope.htm
+title: Social history of medicine under the microscope
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00037/social-history-of-medicine-under-the-microscope.htm
 author: waikato-university
+permalink: /archive/2015/06/08/social-history-of-medicine-under-the-microscope/index.html
+layout: layout.njk
 ---
 Social history of medicine under the microscope
 ===============================================

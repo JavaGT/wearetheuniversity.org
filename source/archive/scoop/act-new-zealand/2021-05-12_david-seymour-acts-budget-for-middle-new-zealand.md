@@ -1,9 +1,13 @@
 ---
 slug: david-seymour-acts-budget-for-middle-new-zealand
-title: "David Seymour - ACT's Budget For Middle New Zealand"
-date: 2021-05-12
-source-url: https://www.scoop.co.nz/stories/PA2105/S00100/david-seymour-acts-budget-for-middle-new-zealand.htm
+title: David Seymour - ACT's Budget For Middle New Zealand
+date: 2021-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00100/david-seymour-acts-budget-for-middle-new-zealand.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/05/12/david-seymour-acts-budget-for-middle-new-zealand/index.html
+layout: layout.njk
 ---
 David Seymour - ACT's Budget For Middle New Zealand
 ===================================================

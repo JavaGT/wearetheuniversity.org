@@ -1,9 +1,11 @@
 ---
 slug: poets-in-parliament
-title: "Poets in Parliament"
-date: 2004-06-09
+title: Poets in Parliament
+date: 2004-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0406/S00136/poets-in-parliament.htm
 author: green-party
+permalink: /archive/2004/06/09/poets-in-parliament/index.html
+layout: layout.njk
 ---
 Poets in Parliament
 ===================

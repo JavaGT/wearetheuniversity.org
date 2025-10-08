@@ -1,9 +1,12 @@
 ---
 slug: how-many-modern-apprentices-fail-minister
-title: "How many Modern Apprentices fail Minister?"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/PA0703/S00304/how-many-modern-apprentices-fail-minister.htm
+title: How many Modern Apprentices fail Minister?
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00304/how-many-modern-apprentices-fail-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/15/how-many-modern-apprentices-fail-minister/index.html
+layout: layout.njk
 ---
 How many Modern Apprentices fail Minister?
 ==========================================

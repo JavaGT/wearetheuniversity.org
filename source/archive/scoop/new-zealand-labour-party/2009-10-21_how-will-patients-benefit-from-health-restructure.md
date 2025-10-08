@@ -1,9 +1,13 @@
 ---
 slug: how-will-patients-benefit-from-health-restructure
-title: "How will patients benefit from health restructure?"
-date: 2009-10-21
-source-url: https://www.scoop.co.nz/stories/PA0910/S00309/how-will-patients-benefit-from-health-restructure.htm
+title: How will patients benefit from health restructure?
+date: 2009-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00309/how-will-patients-benefit-from-health-restructure.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/21/how-will-patients-benefit-from-health-restructure/index.html
+layout: layout.njk
 ---
 How will patients benefit from health restructure?
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: aotearoa-socialist-solutions-needed-to-fix-housing-crisis
-title: "Aotearoa: Socialist solutions needed to fix housing crisis"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/HL1311/S00109/aotearoa-socialist-solutions-needed-to-fix-housing-crisis.htm
+title: 'Aotearoa: Socialist solutions needed to fix housing crisis'
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1311/S00109/aotearoa-socialist-solutions-needed-to-fix-housing-crisis.htm
 author: fightback
+permalink: >-
+  /archive/2013/11/13/aotearoa-socialist-solutions-needed-to-fix-housing-crisis/index.html
+layout: layout.njk
 ---
 Aotearoa: Socialist solutions needed to fix housing crisis
 ==========================================================

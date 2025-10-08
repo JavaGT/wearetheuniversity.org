@@ -1,9 +1,12 @@
 ---
 slug: artists-legacy-secures-study-trip
-title: "Artist’s legacy secures study trip"
-date: 2013-12-16
-source-url: https://www.scoop.co.nz/stories/ED1312/S00100/artists-legacy-secures-study-trip.htm
+title: Artist’s legacy secures study trip
+date: 2013-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00100/artists-legacy-secures-study-trip.htm
 author: massey-university
+permalink: /archive/2013/12/16/artists-legacy-secures-study-trip/index.html
+layout: layout.njk
 ---
 Artist’s legacy secures study trip
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: tppa-a-bad-deal-for-workers
-title: "TPPA a bad deal for workers"
-date: 2016-02-03
+title: TPPA a bad deal for workers
+date: 2016-02-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1602/S00029/tppa-a-bad-deal-for-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/03/tppa-a-bad-deal-for-workers/index.html
+layout: layout.njk
 ---
 TPPA a bad deal for workers
 ===========================

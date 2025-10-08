@@ -1,9 +1,12 @@
 ---
 slug: over-700-to-graduate-from-lincoln
-title: "Over 700 to graduate from Lincoln"
-date: 2001-04-26
-source-url: https://www.scoop.co.nz/stories/ED0104/S00022/over-700-to-graduate-from-lincoln.htm
+title: Over 700 to graduate from Lincoln
+date: 2001-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00022/over-700-to-graduate-from-lincoln.htm
 author: lincoln-university
+permalink: /archive/2001/04/26/over-700-to-graduate-from-lincoln/index.html
+layout: layout.njk
 ---
 Over 700 to graduate from Lincoln
 =================================

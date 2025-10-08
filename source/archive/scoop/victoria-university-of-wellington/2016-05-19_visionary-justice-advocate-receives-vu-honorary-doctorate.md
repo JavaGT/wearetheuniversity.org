@@ -1,9 +1,13 @@
 ---
 slug: visionary-justice-advocate-receives-vu-honorary-doctorate
-title: "Visionary justice advocate receives VU Honorary Doctorate"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/ED1605/S00077/visionary-justice-advocate-receives-vu-honorary-doctorate.htm
+title: Visionary justice advocate receives VU Honorary Doctorate
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00077/visionary-justice-advocate-receives-vu-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/19/visionary-justice-advocate-receives-vu-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Visionary justice advocate receives VU Honorary Doctorate
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: 28%-of-nz-olympic-team-massey-made
-title: "28% of NZ Olympic team Massey-made"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/CU1207/S00190/28-of-nz-olympic-team-massey-made.htm
+title: 28% of NZ Olympic team Massey-made
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00190/28-of-nz-olympic-team-massey-made.htm
 author: massey-university
+permalink: /archive/2012/07/12/28/index.html
+layout: layout.njk
 ---
 28% of NZ Olympic team Massey-made
 ==================================

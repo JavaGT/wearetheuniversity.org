@@ -1,9 +1,12 @@
 ---
 slug: major-barriers-for-women-in-industry-training
-title: "Major Barriers For Women In Industry Training"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/ED0409/S00010/major-barriers-for-women-in-industry-training.htm
+title: Major Barriers For Women In Industry Training
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00010/major-barriers-for-women-in-industry-training.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/09/02/major-barriers-for-women-in-industry-training/index.html
+layout: layout.njk
 ---
 Major Barriers For Women In Industry Training
 =============================================

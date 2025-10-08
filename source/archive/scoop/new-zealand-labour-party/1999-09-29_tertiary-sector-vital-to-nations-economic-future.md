@@ -1,9 +1,13 @@
 ---
 slug: tertiary-sector-vital-to-nations-economic-future
-title: "Tertiary sector vital to nation's economic future"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00615/tertiary-sector-vital-to-nations-economic-future.htm
+title: Tertiary sector vital to nation's economic future
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00615/tertiary-sector-vital-to-nations-economic-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/09/29/tertiary-sector-vital-to-nations-economic-future/index.html
+layout: layout.njk
 ---
 Tertiary sector vital to nation's economic future
 =================================================

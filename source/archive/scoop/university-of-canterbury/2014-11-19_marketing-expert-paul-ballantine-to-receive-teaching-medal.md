@@ -1,9 +1,13 @@
 ---
 slug: marketing-expert-paul-ballantine-to-receive-teaching-medal
-title: "Marketing expert Paul Ballantine to receive teaching medal"
-date: 2014-11-19
-source-url: https://www.scoop.co.nz/stories/ED1411/S00120/marketing-expert-paul-ballantine-to-receive-teaching-medal.htm
+title: Marketing expert Paul Ballantine to receive teaching medal
+date: 2014-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00120/marketing-expert-paul-ballantine-to-receive-teaching-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/19/marketing-expert-paul-ballantine-to-receive-teaching-medal/index.html
+layout: layout.njk
 ---
 Marketing expert Paul Ballantine to receive teaching medal
 ==========================================================

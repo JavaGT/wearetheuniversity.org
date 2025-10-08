@@ -1,9 +1,13 @@
 ---
 slug: devil-in-the-details-on-food-taxes-and-subsidies
-title: "Devil in the Details on Food Taxes and Subsidies"
-date: 2013-10-15
-source-url: https://www.scoop.co.nz/stories/GE1310/S00077/devil-in-the-details-on-food-taxes-and-subsidies.htm
+title: Devil in the Details on Food Taxes and Subsidies
+date: 2013-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00077/devil-in-the-details-on-food-taxes-and-subsidies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/15/devil-in-the-details-on-food-taxes-and-subsidies/index.html
+layout: layout.njk
 ---
 Devil in the Details on Food Taxes and Subsidies
 ================================================

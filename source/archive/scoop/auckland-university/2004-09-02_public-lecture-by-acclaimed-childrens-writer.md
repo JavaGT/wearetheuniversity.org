@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-by-acclaimed-childrens-writer
-title: "Public lecture by acclaimed children’s writer"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/CU0409/S00012/public-lecture-by-acclaimed-childrens-writer.htm
+title: Public lecture by acclaimed children’s writer
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0409/S00012/public-lecture-by-acclaimed-childrens-writer.htm
 author: auckland-university
+permalink: /archive/2004/09/02/public-lecture-by-acclaimed-childrens-writer/index.html
+layout: layout.njk
 ---
 Public lecture by acclaimed children’s writer
 =============================================

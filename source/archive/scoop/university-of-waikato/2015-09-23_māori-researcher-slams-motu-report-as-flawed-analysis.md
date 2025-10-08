@@ -1,9 +1,12 @@
 ---
 slug: māori-researcher-slams-motu-report-as-flawed-analysis
-title: "Māori Researcher slams MOTU report as flawed analysis"
-date: 2015-09-23
-source-url: https://www.scoop.co.nz/stories/PO1509/S00295/maori-researcher-slams-motu-report-as-flawed-analysis.htm
+title: Māori Researcher slams MOTU report as flawed analysis
+date: 2015-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00295/maori-researcher-slams-motu-report-as-flawed-analysis.htm
 author: university-of-waikato
+permalink: /archive/2015/09/23/m/index.html
+layout: layout.njk
 ---
 Māori Researcher slams MOTU report as flawed analysis
 =====================================================

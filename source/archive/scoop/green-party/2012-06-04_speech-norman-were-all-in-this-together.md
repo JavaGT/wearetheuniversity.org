@@ -1,9 +1,12 @@
 ---
 slug: speech-norman-were-all-in-this-together
-title: "Speech: Norman - We’re all in this together"
-date: 2012-06-04
-source-url: https://www.scoop.co.nz/stories/PA1206/S00031/speech-norman-were-all-in-this-together.htm
+title: 'Speech: Norman - We’re all in this together'
+date: 2012-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00031/speech-norman-were-all-in-this-together.htm
 author: green-party
+permalink: /archive/2012/06/04/speech-norman-were-all-in-this-together/index.html
+layout: layout.njk
 ---
 Speech: Norman - We’re all in this together
 ===========================================

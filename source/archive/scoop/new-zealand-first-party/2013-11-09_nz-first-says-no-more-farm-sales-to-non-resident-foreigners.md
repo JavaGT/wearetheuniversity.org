@@ -1,9 +1,13 @@
 ---
 slug: nz-first-says-no-more-farm-sales-to-non-resident-foreigners
-title: "NZ First Says No More Farm Sales to Non Resident Foreigners"
-date: 2013-11-09
-source-url: https://www.scoop.co.nz/stories/PA1311/S00157/nz-first-says-no-more-farm-sales-to-non-resident-foreigners.htm
+title: NZ First Says No More Farm Sales to Non Resident Foreigners
+date: 2013-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00157/nz-first-says-no-more-farm-sales-to-non-resident-foreigners.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/11/09/nz-first-says-no-more-farm-sales-to-non-resident-foreigners/index.html
+layout: layout.njk
 ---
 NZ First Says No More Farm Sales to Non Resident Foreigners
 ===========================================================

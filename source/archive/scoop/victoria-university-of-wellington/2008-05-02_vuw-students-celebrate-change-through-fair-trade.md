@@ -1,9 +1,13 @@
 ---
 slug: vuw-students-celebrate-change-through-fair-trade
-title: "VUW Students celebrate change through Fair Trade"
-date: 2008-05-02
-source-url: https://www.scoop.co.nz/stories/PO0805/S00026/vuw-students-celebrate-change-through-fair-trade.htm
+title: VUW Students celebrate change through Fair Trade
+date: 2008-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00026/vuw-students-celebrate-change-through-fair-trade.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/05/02/vuw-students-celebrate-change-through-fair-trade/index.html
+layout: layout.njk
 ---
 VUW Students celebrate change through Fair Trade
 ================================================

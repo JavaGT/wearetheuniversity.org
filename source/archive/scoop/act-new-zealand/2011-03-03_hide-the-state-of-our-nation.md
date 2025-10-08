@@ -1,9 +1,11 @@
 ---
 slug: hide-the-state-of-our-nation
-title: "Hide: The State Of Our Nation"
-date: 2011-03-03
+title: 'Hide: The State Of Our Nation'
+date: 2011-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1103/S00040/hide-the-state-of-our-nation.htm
 author: act-new-zealand
+permalink: /archive/2011/03/03/hide-the-state-of-our-nation/index.html
+layout: layout.njk
 ---
 Hide: The State Of Our Nation
 =============================

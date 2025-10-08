@@ -1,9 +1,12 @@
 ---
 slug: students-protest-happening-at-1pm-today
-title: "Students Protest happening at 1pm today."
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PO1205/S00379/students-protest-happening-at-1pm-today.htm
+title: Students Protest happening at 1pm today.
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00379/students-protest-happening-at-1pm-today.htm
 author: ausa
+permalink: /archive/2012/05/24/students-protest-happening-at-1pm-today/index.html
+layout: layout.njk
 ---
 Students Protest happening at 1pm today.
 ========================================

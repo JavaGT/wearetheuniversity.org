@@ -1,9 +1,12 @@
 ---
 slug: even-cheap-houses-now-unaffordable
-title: "Even cheap houses now unaffordable"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/PA1504/S00379/even-cheap-houses-now-unaffordable.htm
+title: Even cheap houses now unaffordable
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00379/even-cheap-houses-now-unaffordable.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/29/even-cheap-houses-now-unaffordable/index.html
+layout: layout.njk
 ---
 Even cheap houses now unaffordable
 ==================================

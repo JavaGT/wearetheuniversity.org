@@ -1,9 +1,13 @@
 ---
 slug: green-party-will-ensure-clean-safe-drinking-water
-title: "Green Party will ensure clean, safe drinking water"
-date: 2017-07-09
-source-url: https://www.scoop.co.nz/stories/PA1707/S00141/green-party-will-ensure-clean-safe-drinking-water.htm
+title: Green Party will ensure clean, safe drinking water
+date: 2017-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00141/green-party-will-ensure-clean-safe-drinking-water.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/09/green-party-will-ensure-clean-safe-drinking-water/index.html
+layout: layout.njk
 ---
 Green Party will ensure clean, safe drinking water
 ==================================================

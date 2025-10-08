@@ -1,9 +1,12 @@
 ---
 slug: ausa-pleased-with-recent-decision-of-era
-title: "AUSA pleased with recent decision of ERA"
-date: 2013-10-25
-source-url: https://www.scoop.co.nz/stories/ED1310/S00168/ausa-pleased-with-recent-decision-of-era.htm
+title: AUSA pleased with recent decision of ERA
+date: 2013-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00168/ausa-pleased-with-recent-decision-of-era.htm
 author: auckland-university-students-association
+permalink: /archive/2013/10/25/ausa-pleased-with-recent-decision-of-era/index.html
+layout: layout.njk
 ---
 AUSA pleased with recent decision of ERA
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: donald-visits-the-green-capital-of-nz
-title: "Donald visits the Green capital of NZ"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PA0509/S00226/donald-visits-the-green-capital-of-nz.htm
+title: Donald visits the Green capital of NZ
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00226/donald-visits-the-green-capital-of-nz.htm
 author: green-party
+permalink: /archive/2005/09/09/donald-visits-the-green-capital-of-nz/index.html
+layout: layout.njk
 ---
 Donald visits the Green capital of NZ
 =====================================

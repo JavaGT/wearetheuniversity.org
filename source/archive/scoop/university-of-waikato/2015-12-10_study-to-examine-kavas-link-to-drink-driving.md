@@ -1,9 +1,12 @@
 ---
 slug: study-to-examine-kavas-link-to-drink-driving
-title: "Study to examine kava’s link to drink-driving"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/ED1512/S00047/study-to-examine-kavas-link-to-drink-driving.htm
+title: Study to examine kava’s link to drink-driving
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00047/study-to-examine-kavas-link-to-drink-driving.htm
 author: university-of-waikato
+permalink: /archive/2015/12/10/study-to-examine-kavas-link-to-drink-driving/index.html
+layout: layout.njk
 ---
 Study to examine kava’s link to drink-driving
 =============================================

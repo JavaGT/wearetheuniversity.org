@@ -1,9 +1,12 @@
 ---
 slug: assault-on-gaza-should-stop-now
-title: "Assault on Gaza should stop now"
-date: 2008-12-30
-source-url: https://www.scoop.co.nz/stories/PA0812/S00271/assault-on-gaza-should-stop-now.htm
+title: Assault on Gaza should stop now
+date: 2008-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00271/assault-on-gaza-should-stop-now.htm
 author: green-party
+permalink: /archive/2008/12/30/assault-on-gaza-should-stop-now/index.html
+layout: layout.njk
 ---
 Assault on Gaza should stop now
 ===============================

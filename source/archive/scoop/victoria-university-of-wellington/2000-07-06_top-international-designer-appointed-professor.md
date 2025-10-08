@@ -1,9 +1,12 @@
 ---
 slug: top-international-designer-appointed-professor
-title: "Top international designer appointed Professor"
-date: 2000-07-06
-source-url: https://www.scoop.co.nz/stories/ED0007/S00003/top-international-designer-appointed-professor.htm
+title: Top international designer appointed Professor
+date: 2000-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00003/top-international-designer-appointed-professor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/06/top-international-designer-appointed-professor/index.html
+layout: layout.njk
 ---
 Top international designer appointed Professor
 ==============================================

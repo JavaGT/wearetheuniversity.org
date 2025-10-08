@@ -1,9 +1,11 @@
 ---
 slug: labour-must-not-be-alone
-title: "Labour must not be alone"
-date: 2002-06-07
+title: Labour must not be alone
+date: 2002-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0206/S00035/labour-must-not-be-alone.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/06/07/labour-must-not-be-alone/index.html
+layout: layout.njk
 ---
 Labour must not be alone
 ========================

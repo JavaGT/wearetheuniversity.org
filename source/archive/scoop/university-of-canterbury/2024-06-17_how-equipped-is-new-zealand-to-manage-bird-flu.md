@@ -1,9 +1,12 @@
 ---
 slug: how-equipped-is-new-zealand-to-manage-bird-flu
-title: "How Equipped Is New Zealand To Manage Bird Flu?"
-date: 2024-06-17
-source-url: https://www.scoop.co.nz/stories/SC2406/S00054/how-equipped-is-new-zealand-to-manage-bird-flu.htm
+title: How Equipped Is New Zealand To Manage Bird Flu?
+date: 2024-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2406/S00054/how-equipped-is-new-zealand-to-manage-bird-flu.htm
 author: university-of-canterbury
+permalink: /archive/2024/06/17/how-equipped-is-new-zealand-to-manage-bird-flu/index.html
+layout: layout.njk
 ---
 How Equipped Is New Zealand To Manage Bird Flu?
 ===============================================

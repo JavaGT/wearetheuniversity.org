@@ -1,9 +1,12 @@
 ---
 slug: addressing-the-disaster-readiness-gap
-title: "Addressing the disaster readiness gap"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/PO1406/S00016/addressing-the-disaster-readiness-gap.htm
+title: Addressing the disaster readiness gap
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00016/addressing-the-disaster-readiness-gap.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/03/addressing-the-disaster-readiness-gap/index.html
+layout: layout.njk
 ---
 Addressing the disaster readiness gap
 =====================================

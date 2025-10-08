@@ -1,9 +1,12 @@
 ---
 slug: reflections-on-a-life-well-lived
-title: "Reflections On A Life Well Lived"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/AK1008/S00283/reflections-on-a-life-well-lived.htm
+title: Reflections On A Life Well Lived
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1008/S00283/reflections-on-a-life-well-lived.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/08/17/reflections-on-a-life-well-lived/index.html
+layout: layout.njk
 ---
 Reflections On A Life Well Lived
 ================================

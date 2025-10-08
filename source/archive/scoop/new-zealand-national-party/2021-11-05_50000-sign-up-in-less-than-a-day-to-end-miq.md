@@ -1,9 +1,12 @@
 ---
 slug: 50000-sign-up-in-less-than-a-day-to-end-miq
-title: "50,000 Sign Up In Less Than A Day To End MIQ"
-date: 2021-11-05
-source-url: https://www.scoop.co.nz/stories/PA2111/S00066/50000-sign-up-in-less-than-a-day-to-end-miq.htm
+title: 50,000 Sign Up In Less Than A Day To End MIQ
+date: 2021-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00066/50000-sign-up-in-less-than-a-day-to-end-miq.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/05/50000-sign-up-in-less-than-a-day-to-end-miq/index.html
+layout: layout.njk
 ---
 50,000 Sign Up In Less Than A Day To End MIQ
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: from-garage-to-global-cleanflow-systems-sold-to-us-company
-title: "From garage to global: CleanFlow Systems sold to US company"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/BU1109/S00477/from-garage-to-global-cleanflow-systems-sold-to-us-company.htm
+title: 'From garage to global: CleanFlow Systems sold to US company'
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00477/from-garage-to-global-cleanflow-systems-sold-to-us-company.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/15/from-garage-to-global-cleanflow-systems-sold-to-us-company/index.html
+layout: layout.njk
 ---
 From garage to global: CleanFlow Systems sold to US company
 ===========================================================

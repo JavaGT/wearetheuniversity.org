@@ -1,9 +1,11 @@
 ---
 slug: dan-bidois-mp-maiden-speech
-title: "Dan Bidois MP: Maiden Speech"
-date: 2018-07-03
+title: 'Dan Bidois MP: Maiden Speech'
+date: 2018-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1807/S00033/dan-bidois-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/03/dan-bidois-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Dan Bidois MP: Maiden Speech
 ============================

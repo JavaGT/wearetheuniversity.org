@@ -1,9 +1,12 @@
 ---
 slug: national-leaders-speech-at-businessstart-launch
-title: "National Leader’s Speech at BusinessStart launch"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00281/national-leaders-speech-at-businessstart-launch.htm
+title: National Leader’s Speech at BusinessStart launch
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00281/national-leaders-speech-at-businessstart-launch.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/29/national-leaders-speech-at-businessstart-launch/index.html
+layout: layout.njk
 ---
 National Leader’s Speech at BusinessStart launch
 ================================================

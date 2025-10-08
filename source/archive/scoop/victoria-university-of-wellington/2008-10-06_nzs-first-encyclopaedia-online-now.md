@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-encyclopaedia-online-now
-title: "NZ’s first encyclopaedia online now"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/CU0810/S00046/nzs-first-encyclopaedia-online-now.htm
+title: NZ’s first encyclopaedia online now
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00046/nzs-first-encyclopaedia-online-now.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/10/06/nzs-first-encyclopaedia-online-now/index.html
+layout: layout.njk
 ---
 NZ’s first encyclopaedia online now
 ===================================

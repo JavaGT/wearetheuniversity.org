@@ -1,9 +1,12 @@
 ---
 slug: writing-prize-goes-to-teacher-turned-student
-title: "Writing prize goes to teacher-turned-student"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/ED0809/S00072/writing-prize-goes-to-teacher-turned-student.htm
+title: Writing prize goes to teacher-turned-student
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00072/writing-prize-goes-to-teacher-turned-student.htm
 author: massey-university
+permalink: /archive/2008/09/23/writing-prize-goes-to-teacher-turned-student/index.html
+layout: layout.njk
 ---
 Writing prize goes to teacher-turned-student
 ============================================

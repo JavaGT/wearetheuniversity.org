@@ -1,9 +1,13 @@
 ---
 slug: aus-tertiary-update-vol-4-special-edition-7-3-01
-title: "AUS Tertiary Update  Vol.4 Special Edition 7.3.01"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/ED0103/S00014/aus-tertiary-update-vol4-special-edition-7301.htm
+title: AUS Tertiary Update  Vol.4 Special Edition 7.3.01
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00014/aus-tertiary-update-vol4-special-edition-7301.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2001/03/07/aus-tertiary-update-vol-4-special-edition-7-3-01/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.4 Special Edition 7.3.01
 ================================================

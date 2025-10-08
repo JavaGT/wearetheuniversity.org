@@ -1,9 +1,12 @@
 ---
 slug: oecd-report-confirms-student-support-inadequate
-title: "OECD report confirms student support inadequate"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/ED0809/S00051/oecd-report-confirms-student-support-inadequate.htm
+title: OECD report confirms student support inadequate
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00051/oecd-report-confirms-student-support-inadequate.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2008/09/18/oecd-report-confirms-student-support-inadequate/index.html
+layout: layout.njk
 ---
 OECD report confirms student support inadequate
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: earthquakes-produced-enduring-physical-mental-health-impact
-title: "Earthquakes produced enduring physical, mental health impact"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00129/earthquakes-produced-enduring-physical-mental-health-impact.htm
+title: Earthquakes produced enduring physical, mental health impact
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00129/earthquakes-produced-enduring-physical-mental-health-impact.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/27/earthquakes-produced-enduring-physical-mental-health-impact/index.html
+layout: layout.njk
 ---
 Earthquakes produced enduring physical, mental health impact
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-agent-orange-effects
-title: "Collins' Comments: Agent Orange effects"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/PA0607/S00524/collins-comments-agent-orange-effects.htm
+title: 'Collins'' Comments: Agent Orange effects'
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00524/collins-comments-agent-orange-effects.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/28/collins-comments-agent-orange-effects/index.html
+layout: layout.njk
 ---
 Collins' Comments: Agent Orange effects
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: professor-of-maori-sustainable-enterprise
-title: "Professor of Maori Sustainable Enterprise"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/ED0502/S00077/professor-of-maori-sustainable-enterprise.htm
+title: Professor of Maori Sustainable Enterprise
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00077/professor-of-maori-sustainable-enterprise.htm
 author: waikato-university
+permalink: /archive/2005/02/23/professor-of-maori-sustainable-enterprise/index.html
+layout: layout.njk
 ---
 Professor of Maori Sustainable Enterprise
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: home-affordability-now-down-to-1989-levels
-title: "Home affordability now down to 1989 levels"
-date: 2007-01-15
-source-url: https://www.scoop.co.nz/stories/BU0701/S00090/home-affordability-now-down-to-1989-levels.htm
+title: Home affordability now down to 1989 levels
+date: 2007-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0701/S00090/home-affordability-now-down-to-1989-levels.htm
 author: massey-university
+permalink: /archive/2007/01/15/home-affordability-now-down-to-1989-levels/index.html
+layout: layout.njk
 ---
 Home affordability now down to 1989 levels
 ==========================================

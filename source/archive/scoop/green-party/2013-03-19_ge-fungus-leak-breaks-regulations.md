@@ -1,9 +1,12 @@
 ---
 slug: ge-fungus-leak-breaks-regulations
-title: "GE fungus leak breaks regulations"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/PA1303/S00324/ge-fungus-leak-breaks-regulations.htm
+title: GE fungus leak breaks regulations
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00324/ge-fungus-leak-breaks-regulations.htm
 author: green-party
+permalink: /archive/2013/03/19/ge-fungus-leak-breaks-regulations/index.html
+layout: layout.njk
 ---
 GE fungus leak breaks regulations
 =================================

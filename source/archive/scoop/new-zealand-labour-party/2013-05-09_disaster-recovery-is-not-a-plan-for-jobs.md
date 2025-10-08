@@ -1,9 +1,12 @@
 ---
 slug: disaster-recovery-is-not-a-plan-for-jobs
-title: "Disaster recovery is not a plan for jobs"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/PA1305/S00144/disaster-recovery-is-not-a-plan-for-jobs.htm
+title: Disaster recovery is not a plan for jobs
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00144/disaster-recovery-is-not-a-plan-for-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/09/disaster-recovery-is-not-a-plan-for-jobs/index.html
+layout: layout.njk
 ---
 Disaster recovery is not a plan for jobs
 ========================================

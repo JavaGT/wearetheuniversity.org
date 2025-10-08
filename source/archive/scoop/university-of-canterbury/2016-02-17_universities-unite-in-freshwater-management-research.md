@@ -1,9 +1,13 @@
 ---
 slug: universities-unite-in-freshwater-management-research
-title: "Universities unite in freshwater management research"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/SC1602/S00046/universities-unite-in-freshwater-management-research.htm
+title: Universities unite in freshwater management research
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00046/universities-unite-in-freshwater-management-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/02/17/universities-unite-in-freshwater-management-research/index.html
+layout: layout.njk
 ---
 Universities unite in freshwater management research
 ====================================================

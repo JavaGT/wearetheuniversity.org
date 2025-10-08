@@ -1,9 +1,13 @@
 ---
 slug: no-more-animal-secrets-or-no-more-public-funding
-title: "No more animal secrets - or no more public funding"
-date: 2004-07-14
-source-url: https://www.scoop.co.nz/stories/PA0407/S00226/no-more-animal-secrets-or-no-more-public-funding.htm
+title: No more animal secrets - or no more public funding
+date: 2004-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00226/no-more-animal-secrets-or-no-more-public-funding.htm
 author: green-party
+permalink: >-
+  /archive/2004/07/14/no-more-animal-secrets-or-no-more-public-funding/index.html
+layout: layout.njk
 ---
 No more animal secrets - or no more public funding
 ==================================================

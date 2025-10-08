@@ -1,9 +1,12 @@
 ---
 slug: departing-dean-to-fund-fellowship
-title: "Departing Dean to Fund Fellowship"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/ED0505/S00032/departing-dean-to-fund-fellowship.htm
+title: Departing Dean to Fund Fellowship
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00032/departing-dean-to-fund-fellowship.htm
 author: auckland-university
+permalink: /archive/2005/05/09/departing-dean-to-fund-fellowship/index.html
+layout: layout.njk
 ---
 Departing Dean to Fund Fellowship
 =================================

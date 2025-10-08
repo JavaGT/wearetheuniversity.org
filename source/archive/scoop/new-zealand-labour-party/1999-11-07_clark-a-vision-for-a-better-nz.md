@@ -1,9 +1,12 @@
 ---
 slug: clark-a-vision-for-a-better-nz
-title: "Clark: A vision for a better NZ"
-date: 1999-11-07
-source-url: https://www.scoop.co.nz/stories/PA9911/S00158/clark-a-vision-for-a-better-nz.htm
+title: 'Clark: A vision for a better NZ'
+date: 1999-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00158/clark-a-vision-for-a-better-nz.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/07/clark-a-vision-for-a-better-nz/index.html
+layout: layout.njk
 ---
 Clark: A vision for a better NZ
 ===============================

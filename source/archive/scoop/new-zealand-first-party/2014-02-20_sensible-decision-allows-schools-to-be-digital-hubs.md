@@ -1,9 +1,13 @@
 ---
 slug: sensible-decision-allows-schools-to-be-digital-hubs
-title: "Sensible Decision Allows Schools to Be Digital Hubs"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00294/sensible-decision-allows-schools-to-be-digital-hubs.htm
+title: Sensible Decision Allows Schools to Be Digital Hubs
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00294/sensible-decision-allows-schools-to-be-digital-hubs.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/02/20/sensible-decision-allows-schools-to-be-digital-hubs/index.html
+layout: layout.njk
 ---
 Sensible Decision Allows Schools to Be Digital Hubs
 ===================================================

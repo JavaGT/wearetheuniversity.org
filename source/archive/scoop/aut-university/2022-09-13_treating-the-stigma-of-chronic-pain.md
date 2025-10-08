@@ -1,9 +1,12 @@
 ---
 slug: treating-the-stigma-of-chronic-pain
-title: "Treating The Stigma Of Chronic Pain"
-date: 2022-09-13
-source-url: https://www.scoop.co.nz/stories/GE2209/S00047/treating-the-stigma-of-chronic-pain.htm
+title: Treating The Stigma Of Chronic Pain
+date: 2022-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2209/S00047/treating-the-stigma-of-chronic-pain.htm
 author: aut-university
+permalink: /archive/2022/09/13/treating-the-stigma-of-chronic-pain/index.html
+layout: layout.njk
 ---
 Treating The Stigma Of Chronic Pain
 ===================================

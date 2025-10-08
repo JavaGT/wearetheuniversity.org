@@ -1,9 +1,12 @@
 ---
 slug: nz-govt-fiddles-while-gaza-burns
-title: "NZ Govt fiddles while Gaza burns"
-date: 2009-01-03
-source-url: https://www.scoop.co.nz/stories/PA0901/S00005/nz-govt-fiddles-while-gaza-burns.htm
+title: NZ Govt fiddles while Gaza burns
+date: 2009-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0901/S00005/nz-govt-fiddles-while-gaza-burns.htm
 author: green-party
+permalink: /archive/2009/01/03/nz-govt-fiddles-while-gaza-burns/index.html
+layout: layout.njk
 ---
 NZ Govt fiddles while Gaza burns
 ================================

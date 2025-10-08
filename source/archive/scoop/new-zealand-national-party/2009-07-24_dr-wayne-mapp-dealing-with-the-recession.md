@@ -1,9 +1,12 @@
 ---
 slug: dr-wayne-mapp-dealing-with-the-recession
-title: "Dr Wayne Mapp  - Dealing With The Recession"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/PA0907/S00297/dr-wayne-mapp-dealing-with-the-recession.htm
+title: Dr Wayne Mapp  - Dealing With The Recession
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00297/dr-wayne-mapp-dealing-with-the-recession.htm
 author: new-zealand-national-party
+permalink: /archive/2009/07/24/dr-wayne-mapp-dealing-with-the-recession/index.html
+layout: layout.njk
 ---
 Dr Wayne Mapp - Dealing With The Recession
 ==========================================

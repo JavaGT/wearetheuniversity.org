@@ -1,9 +1,12 @@
 ---
 slug: can-tourism-corporations-save-the-world
-title: "Can Tourism Corporations Save The World?"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00085/can-tourism-corporations-save-the-world.htm
+title: Can Tourism Corporations Save The World?
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00085/can-tourism-corporations-save-the-world.htm
 author: lincoln-university
+permalink: /archive/2013/02/18/can-tourism-corporations-save-the-world/index.html
+layout: layout.njk
 ---
 Can Tourism Corporations Save The World?
 ========================================

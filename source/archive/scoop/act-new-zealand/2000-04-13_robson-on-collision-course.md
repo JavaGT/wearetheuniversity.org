@@ -1,9 +1,11 @@
 ---
 slug: robson-on-collision-course
-title: "Robson on collision course"
-date: 2000-04-13
+title: Robson on collision course
+date: 2000-04-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0004/S00170/robson-on-collision-course.htm
 author: act-new-zealand
+permalink: /archive/2000/04/13/robson-on-collision-course/index.html
+layout: layout.njk
 ---
 Robson on collision course
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: otago-climate-predictions-show-importance-of-kyoto
-title: "Otago Climate predictions show importance of Kyoto"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/PA0507/S00061/otago-climate-predictions-show-importance-of-kyoto.htm
+title: Otago Climate predictions show importance of Kyoto
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00061/otago-climate-predictions-show-importance-of-kyoto.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/07/04/otago-climate-predictions-show-importance-of-kyoto/index.html
+layout: layout.njk
 ---
 Otago Climate predictions show importance of Kyoto
 ==================================================

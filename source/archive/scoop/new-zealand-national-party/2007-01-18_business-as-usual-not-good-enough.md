@@ -1,9 +1,12 @@
 ---
 slug: business-as-usual-not-good-enough
-title: "Business as usual not good enough"
-date: 2007-01-18
-source-url: https://www.scoop.co.nz/stories/PA0701/S00096/business-as-usual-not-good-enough.htm
+title: Business as usual not good enough
+date: 2007-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00096/business-as-usual-not-good-enough.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/18/business-as-usual-not-good-enough/index.html
+layout: layout.njk
 ---
 Business as usual not good enough
 =================================

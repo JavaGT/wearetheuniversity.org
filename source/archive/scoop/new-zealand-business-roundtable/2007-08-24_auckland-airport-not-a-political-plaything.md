@@ -1,9 +1,12 @@
 ---
 slug: auckland-airport-not-a-political-plaything
-title: "Auckland Airport Not a Political Plaything"
-date: 2007-08-24
-source-url: https://www.scoop.co.nz/stories/BU0708/S00482/auckland-airport-not-a-political-plaything.htm
+title: Auckland Airport Not a Political Plaything
+date: 2007-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00482/auckland-airport-not-a-political-plaything.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/08/24/auckland-airport-not-a-political-plaything/index.html
+layout: layout.njk
 ---
 Auckland Airport Not a Political Plaything
 ==========================================

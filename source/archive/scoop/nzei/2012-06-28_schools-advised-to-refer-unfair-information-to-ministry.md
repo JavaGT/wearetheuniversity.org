@@ -1,9 +1,13 @@
 ---
 slug: schools-advised-to-refer-unfair-information-to-ministry
-title: "Schools advised to refer unfair information to ministry"
-date: 2012-06-28
-source-url: https://www.scoop.co.nz/stories/ED1206/S00129/schools-advised-to-refer-unfair-information-to-ministry.htm
+title: Schools advised to refer unfair information to ministry
+date: 2012-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00129/schools-advised-to-refer-unfair-information-to-ministry.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/28/schools-advised-to-refer-unfair-information-to-ministry/index.html
+layout: layout.njk
 ---
 Schools advised to refer unfair information to ministry
 =======================================================

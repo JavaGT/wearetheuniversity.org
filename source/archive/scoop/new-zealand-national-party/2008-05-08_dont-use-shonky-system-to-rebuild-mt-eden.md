@@ -1,9 +1,12 @@
 ---
 slug: dont-use-shonky-system-to-rebuild-mt-eden
-title: "Don’t use shonky system to rebuild Mt Eden"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/PA0805/S00127/dont-use-shonky-system-to-rebuild-mt-eden.htm
+title: Don’t use shonky system to rebuild Mt Eden
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00127/dont-use-shonky-system-to-rebuild-mt-eden.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/08/dont-use-shonky-system-to-rebuild-mt-eden/index.html
+layout: layout.njk
 ---
 Don’t use shonky system to rebuild Mt Eden
 ==========================================

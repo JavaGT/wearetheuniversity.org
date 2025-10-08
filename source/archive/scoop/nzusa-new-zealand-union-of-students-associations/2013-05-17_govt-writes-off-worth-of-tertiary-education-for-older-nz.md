@@ -1,9 +1,13 @@
 ---
 slug: govt-writes-off-worth-of-tertiary-education-for-older-nz
-title: "Govt writes off worth of tertiary education for 'older' NZ"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/ED1305/S00114/govt-writes-off-worth-of-tertiary-education-for-older-nz.htm
+title: Govt writes off worth of tertiary education for 'older' NZ
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00114/govt-writes-off-worth-of-tertiary-education-for-older-nz.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/05/17/govt-writes-off-worth-of-tertiary-education-for-older-nz/index.html
+layout: layout.njk
 ---
 Govt writes off worth of tertiary education for 'older' NZ
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: aut-university-fees-set-for-2006
-title: "AUT University fees set for 2006"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/ED0511/S00008/aut-university-fees-set-for-2006.htm
+title: AUT University fees set for 2006
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00008/aut-university-fees-set-for-2006.htm
 author: aut-university
+permalink: /archive/2005/11/02/aut-university-fees-set-for-2006/index.html
+layout: layout.njk
 ---
 AUT University fees set for 2006
 ================================

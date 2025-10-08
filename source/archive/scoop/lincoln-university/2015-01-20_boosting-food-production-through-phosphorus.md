@@ -1,9 +1,12 @@
 ---
 slug: boosting-food-production-through-phosphorus
-title: "Boosting food production through phosphorus"
-date: 2015-01-20
-source-url: https://www.scoop.co.nz/stories/ED1501/S00052/boosting-food-production-through-phosphorus.htm
+title: Boosting food production through phosphorus
+date: 2015-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00052/boosting-food-production-through-phosphorus.htm
 author: lincoln-university
+permalink: /archive/2015/01/20/boosting-food-production-through-phosphorus/index.html
+layout: layout.njk
 ---
 Boosting food production through phosphorus
 ===========================================

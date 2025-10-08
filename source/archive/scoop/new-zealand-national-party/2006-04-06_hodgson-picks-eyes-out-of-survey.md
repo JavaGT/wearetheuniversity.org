@@ -1,9 +1,12 @@
 ---
 slug: hodgson-picks-eyes-out-of-survey
-title: "Hodgson picks eyes out of survey"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/PA0604/S00111/hodgson-picks-eyes-out-of-survey.htm
+title: Hodgson picks eyes out of survey
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00111/hodgson-picks-eyes-out-of-survey.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/06/hodgson-picks-eyes-out-of-survey/index.html
+layout: layout.njk
 ---
 Hodgson picks eyes out of survey
 ================================

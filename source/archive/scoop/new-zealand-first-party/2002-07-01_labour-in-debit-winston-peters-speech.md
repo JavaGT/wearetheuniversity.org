@@ -1,9 +1,12 @@
 ---
 slug: labour-in-debit-winston-peters-speech
-title: "Labour In Debit? - Winston Peters Speech"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PA0207/S00029/labour-in-debit-winston-peters-speech.htm
+title: Labour In Debit? - Winston Peters Speech
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00029/labour-in-debit-winston-peters-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2002/07/01/labour-in-debit-winston-peters-speech/index.html
+layout: layout.njk
 ---
 Labour In Debit? - Winston Peters Speech
 ========================================

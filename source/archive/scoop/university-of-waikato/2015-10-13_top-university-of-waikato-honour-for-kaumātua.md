@@ -1,9 +1,12 @@
 ---
 slug: top-university-of-waikato-honour-for-kaumātua
-title: "Top University of Waikato honour for kaumātua"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/ED1510/S00062/top-university-of-waikato-honour-for-kaumatua.htm
+title: Top University of Waikato honour for kaumātua
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00062/top-university-of-waikato-honour-for-kaumatua.htm
 author: university-of-waikato
+permalink: /archive/2015/10/13/top-university-of-waikato-honour-for-kaum/index.html
+layout: layout.njk
 ---
 Top University of Waikato honour for kaumātua
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: education-unions-combined-executives-to-meet
-title: "Education unions' combined executives to meet"
-date: 2018-11-16
-source-url: https://www.scoop.co.nz/stories/PO1811/S00167/education-unions-combined-executives-to-meet.htm
+title: Education unions' combined executives to meet
+date: 2018-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00167/education-unions-combined-executives-to-meet.htm
 author: nzei
+permalink: /archive/2018/11/16/education-unions-combined-executives-to-meet/index.html
+layout: layout.njk
 ---
 Education unions' combined executives to meet
 =============================================

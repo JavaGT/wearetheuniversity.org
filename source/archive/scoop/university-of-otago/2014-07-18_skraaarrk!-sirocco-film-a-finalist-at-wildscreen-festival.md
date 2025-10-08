@@ -1,9 +1,12 @@
 ---
 slug: skraaarrk!-sirocco-film-a-finalist-at-wildscreen-festival
-title: "Skraaarrk! Sirocco film a finalist at  WildScreen festival"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/CU1407/S00272/skraaarrk-sirocco-film-a-finalist-at-wildscreen-festival.htm
+title: Skraaarrk! Sirocco film a finalist at  WildScreen festival
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00272/skraaarrk-sirocco-film-a-finalist-at-wildscreen-festival.htm
 author: university-of-otago
+permalink: /archive/2014/07/18/skraaarrk/index.html
+layout: layout.njk
 ---
 Skraaarrk! Sirocco film a finalist at WildScreen festival
 =========================================================

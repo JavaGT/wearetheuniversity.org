@@ -1,9 +1,12 @@
 ---
 slug: researcher-explores-end-of-life-care-for-māori
-title: "Researcher explores end-of-life care for Māori"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/ED1408/S00111/researcher-explores-end-of-life-care-for-maori.htm
+title: Researcher explores end-of-life care for Māori
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00111/researcher-explores-end-of-life-care-for-maori.htm
 author: massey-university
+permalink: /archive/2014/08/21/researcher-explores-end-of-life-care-for-m/index.html
+layout: layout.njk
 ---
 Researcher explores end-of-life care for Māori
 ==============================================

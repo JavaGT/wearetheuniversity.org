@@ -1,9 +1,13 @@
 ---
 slug: bennett-privacy-fiasco-a-sideshow-reinstate-t-i-a
-title: "Bennett privacy fiasco a sideshow: Reinstate T.I.A"
-date: 2009-07-29
-source-url: https://www.scoop.co.nz/stories/ED0907/S00100/bennett-privacy-fiasco-a-sideshow-reinstate-tia.htm
+title: 'Bennett privacy fiasco a sideshow: Reinstate T.I.A'
+date: 2009-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00100/bennett-privacy-fiasco-a-sideshow-reinstate-tia.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/07/29/bennett-privacy-fiasco-a-sideshow-reinstate-t-i-a/index.html
+layout: layout.njk
 ---
 Bennett privacy fiasco a sideshow: Reinstate T.I.A
 ==================================================

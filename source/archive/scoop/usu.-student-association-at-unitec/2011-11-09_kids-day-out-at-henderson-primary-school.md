@@ -1,9 +1,12 @@
 ---
 slug: kids-day-out-at-henderson-primary-school
-title: "Kids’ Day Out at Henderson Primary School"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/ED1111/S00064/kids-day-out-at-henderson-primary-school.htm
+title: Kids’ Day Out at Henderson Primary School
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00064/kids-day-out-at-henderson-primary-school.htm
 author: usu.-student-association-at-unitec
+permalink: /archive/2011/11/09/kids-day-out-at-henderson-primary-school/index.html
+layout: layout.njk
 ---
 Kids’ Day Out at Henderson Primary School
 =========================================

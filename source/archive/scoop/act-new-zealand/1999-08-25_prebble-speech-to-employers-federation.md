@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-to-employers-federation
-title: "Prebble Speech To Employers Federation"
-date: 1999-08-25
-source-url: https://www.scoop.co.nz/stories/PA9908/S00420/prebble-speech-to-employers-federation.htm
+title: Prebble Speech To Employers Federation
+date: 1999-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00420/prebble-speech-to-employers-federation.htm
 author: act-new-zealand
+permalink: /archive/1999/08/25/prebble-speech-to-employers-federation/index.html
+layout: layout.njk
 ---
 Prebble Speech To Employers Federation
 ======================================

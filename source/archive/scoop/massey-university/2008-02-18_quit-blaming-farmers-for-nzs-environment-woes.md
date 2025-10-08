@@ -1,9 +1,12 @@
 ---
 slug: quit-blaming-farmers-for-nzs-environment-woes
-title: "Quit blaming farmers for NZ’s environment woes"
-date: 2008-02-18
-source-url: https://www.scoop.co.nz/stories/SC0802/S00036/quit-blaming-farmers-for-nzs-environment-woes.htm
+title: Quit blaming farmers for NZ’s environment woes
+date: 2008-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0802/S00036/quit-blaming-farmers-for-nzs-environment-woes.htm
 author: massey-university
+permalink: /archive/2008/02/18/quit-blaming-farmers-for-nzs-environment-woes/index.html
+layout: layout.njk
 ---
 Quit blaming farmers for NZ’s environment woes
 ==============================================

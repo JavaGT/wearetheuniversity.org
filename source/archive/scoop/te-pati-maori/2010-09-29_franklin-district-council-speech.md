@@ -1,9 +1,12 @@
 ---
 slug: franklin-district-council-speech
-title: "Franklin District Council Speech"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PA1009/S00432/franklin-district-council-speech.htm
+title: Franklin District Council Speech
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00432/franklin-district-council-speech.htm
 author: te-pati-maori
+permalink: /archive/2010/09/29/franklin-district-council-speech/index.html
+layout: layout.njk
 ---
 Franklin District Council Speech
 ================================

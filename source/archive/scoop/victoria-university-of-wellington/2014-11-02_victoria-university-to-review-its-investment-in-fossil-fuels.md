@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-to-review-its-investment-in-fossil-fuels
-title: "Victoria University to review its investment in fossil fuels"
-date: 2014-11-02
-source-url: https://www.scoop.co.nz/stories/AK1411/S00009/victoria-university-to-review-its-investment-in-fossil-fuels.htm
+title: Victoria University to review its investment in fossil fuels
+date: 2014-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00009/victoria-university-to-review-its-investment-in-fossil-fuels.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/02/victoria-university-to-review-its-investment-in-fossil-fuels/index.html
+layout: layout.njk
 ---
 Victoria University to review its investment in fossil fuels
 ============================================================

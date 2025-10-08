@@ -1,9 +1,12 @@
 ---
 slug: georgetti-scholarship-recipients-boost-research
-title: "Georgetti scholarship recipients boost research"
-date: 2022-06-27
-source-url: https://www.scoop.co.nz/stories/ED2206/S00040/georgetti-scholarship-recipients-boost-research.htm
+title: Georgetti scholarship recipients boost research
+date: 2022-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00040/georgetti-scholarship-recipients-boost-research.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2022/06/27/georgetti-scholarship-recipients-boost-research/index.html
+layout: layout.njk
 ---
 Georgetti scholarship recipients boost research
 ===============================================

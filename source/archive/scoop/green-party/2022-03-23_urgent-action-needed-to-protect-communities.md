@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-to-protect-communities
-title: "Urgent Action Needed To Protect Communities"
-date: 2022-03-23
-source-url: https://www.scoop.co.nz/stories/PA2203/S00189/urgent-action-needed-to-protect-communities.htm
+title: Urgent Action Needed To Protect Communities
+date: 2022-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00189/urgent-action-needed-to-protect-communities.htm
 author: green-party
+permalink: /archive/2022/03/23/urgent-action-needed-to-protect-communities/index.html
+layout: layout.njk
 ---
 Urgent Action Needed To Protect Communities
 ===========================================

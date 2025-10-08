@@ -1,9 +1,13 @@
 ---
 slug: customised-careers-advice-a-solution-long-time-coming
-title: "Customised Careers Advice a Solution Long Time Coming"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PO1607/S00297/customised-careers-advice-a-solution-long-time-coming.htm
+title: Customised Careers Advice a Solution Long Time Coming
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00297/customised-careers-advice-a-solution-long-time-coming.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/07/26/customised-careers-advice-a-solution-long-time-coming/index.html
+layout: layout.njk
 ---
 Customised Careers Advice a Solution Long Time Coming
 =====================================================

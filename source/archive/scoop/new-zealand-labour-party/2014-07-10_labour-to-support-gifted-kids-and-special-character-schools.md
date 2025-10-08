@@ -1,9 +1,13 @@
 ---
 slug: labour-to-support-gifted-kids-and-special-character-schools
-title: "Labour to support gifted kids and special character schools"
-date: 2014-07-10
-source-url: https://www.scoop.co.nz/stories/PA1407/S00198/labour-to-support-gifted-kids-and-special-character-schools.htm
+title: Labour to support gifted kids and special character schools
+date: 2014-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00198/labour-to-support-gifted-kids-and-special-character-schools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/07/10/labour-to-support-gifted-kids-and-special-character-schools/index.html
+layout: layout.njk
 ---
 Labour to support gifted kids and special character schools
 ===========================================================

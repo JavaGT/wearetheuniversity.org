@@ -1,9 +1,12 @@
 ---
 slug: key-and-parata-at-odds-over-schools
-title: "Key and Parata At Odds Over Schools"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/PA1209/S00466/key-and-parata-at-odds-over-schools.htm
+title: Key and Parata At Odds Over Schools
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00466/key-and-parata-at-odds-over-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/28/key-and-parata-at-odds-over-schools/index.html
+layout: layout.njk
 ---
 Key and Parata At Odds Over Schools
 ===================================

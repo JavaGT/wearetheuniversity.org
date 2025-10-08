@@ -1,9 +1,12 @@
 ---
 slug: usp-farewells-new-zealand-diplomat
-title: "USP farewells New Zealand diplomat"
-date: 2016-01-11
-source-url: https://www.scoop.co.nz/stories/WO1601/S00006/usp-farewells-new-zealand-diplomat.htm
+title: USP farewells New Zealand diplomat
+date: 2016-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1601/S00006/usp-farewells-new-zealand-diplomat.htm
 author: university-of-the-south-pacific
+permalink: /archive/2016/01/11/usp-farewells-new-zealand-diplomat/index.html
+layout: layout.njk
 ---
 USP farewells New Zealand diplomat
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-broadband-not-keeping-up-with-business-needs
-title: "Govt broadband not keeping up with business needs"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/PA1510/S00474/govt-broadband-not-keeping-up-with-business-needs.htm
+title: Govt broadband not keeping up with business needs
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00474/govt-broadband-not-keeping-up-with-business-needs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/28/govt-broadband-not-keeping-up-with-business-needs/index.html
+layout: layout.njk
 ---
 Govt broadband not keeping up with business needs
 =================================================

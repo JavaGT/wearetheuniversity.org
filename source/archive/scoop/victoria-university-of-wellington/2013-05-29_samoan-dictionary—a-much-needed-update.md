@@ -1,9 +1,12 @@
 ---
 slug: samoan-dictionary—a-much-needed-update
-title: "Samoan dictionary—a much needed update"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/CU1305/S00494/samoan-dictionary-a-much-needed-update.htm
+title: Samoan dictionary—a much needed update
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00494/samoan-dictionary-a-much-needed-update.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/29/samoan-dictionary/index.html
+layout: layout.njk
 ---
 Samoan dictionary—a much needed update
 ======================================

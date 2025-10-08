@@ -1,8 +1,11 @@
 ---
 slug: popular-philosophy-course-now-offered-online
-title: "Popular philosophy course now offered online"
-date: 2015-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/popular-philosophy-course-now-offered-online.html
+title: Popular philosophy course now offered online
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/popular-philosophy-course-now-offered-online.html
+permalink: /archive/2015/11/03/popular-philosophy-course-now-offered-online/index.html
+layout: layout.njk
 ---
 Popular philosophy course now offered online
 ============================================

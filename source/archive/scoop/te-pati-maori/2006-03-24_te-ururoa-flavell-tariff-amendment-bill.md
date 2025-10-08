@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-tariff-amendment-bill
-title: "Te Ururoa Flavell – Tariff Amendment Bill"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/PA0603/S00409/te-ururoa-flavell-tariff-amendment-bill.htm
+title: Te Ururoa Flavell – Tariff Amendment Bill
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00409/te-ururoa-flavell-tariff-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/24/te-ururoa-flavell-tariff-amendment-bill/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell – Tariff Amendment Bill
 =========================================

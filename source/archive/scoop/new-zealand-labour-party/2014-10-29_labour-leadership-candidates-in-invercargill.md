@@ -1,9 +1,12 @@
 ---
 slug: labour-leadership-candidates-in-invercargill
-title: "Labour leadership candidates in Invercargill"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PO1410/S00285/labour-leadership-candidates-in-invercargill.htm
+title: Labour leadership candidates in Invercargill
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00285/labour-leadership-candidates-in-invercargill.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/29/labour-leadership-candidates-in-invercargill/index.html
+layout: layout.njk
 ---
 Labour leadership candidates in Invercargill
 ============================================

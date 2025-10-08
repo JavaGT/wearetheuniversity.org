@@ -1,9 +1,13 @@
 ---
 slug: clark-urged-to-rein-in-mallard-on-school-closures
-title: "Clark urged to rein in Mallard on school closures"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/PA0402/S00123/clark-urged-to-rein-in-mallard-on-school-closures.htm
+title: Clark urged to rein in Mallard on school closures
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00123/clark-urged-to-rein-in-mallard-on-school-closures.htm
 author: green-party
+permalink: >-
+  /archive/2004/02/10/clark-urged-to-rein-in-mallard-on-school-closures/index.html
+layout: layout.njk
 ---
 Clark urged to rein in Mallard on school closures
 =================================================

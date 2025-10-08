@@ -1,9 +1,13 @@
 ---
 slug: why-did-ministry-tell-rako-to-not-reserve-any-public-testing-capacity
-title: "Why Did Ministry Tell Rako To Not Reserve Any Public Testing Capacity?"
-date: 2021-10-14
-source-url: https://www.scoop.co.nz/stories/PA2110/S00141/why-did-ministry-tell-rako-to-not-reserve-any-public-testing-capacity.htm
+title: Why Did Ministry Tell Rako To Not Reserve Any Public Testing Capacity?
+date: 2021-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00141/why-did-ministry-tell-rako-to-not-reserve-any-public-testing-capacity.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/14/why-did-ministry-tell-rako-to-not-reserve-any-public-testing-capacity/index.html
+layout: layout.njk
 ---
 Why Did Ministry Tell Rako To Not Reserve Any Public Testing Capacity?
 ======================================================================

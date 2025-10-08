@@ -1,9 +1,12 @@
 ---
 slug: auckland-households-face-unrelenting-attack
-title: "Auckland households face unrelenting attack"
-date: 2005-02-10
-source-url: https://www.scoop.co.nz/stories/PA0502/S00236/auckland-households-face-unrelenting-attack.htm
+title: Auckland households face unrelenting attack
+date: 2005-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00236/auckland-households-face-unrelenting-attack.htm
 author: act-new-zealand
+permalink: /archive/2005/02/10/auckland-households-face-unrelenting-attack/index.html
+layout: layout.njk
 ---
 Auckland households face unrelenting attack
 ===========================================

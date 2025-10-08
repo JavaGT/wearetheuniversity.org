@@ -1,9 +1,13 @@
 ---
 slug: report-opens-door-to-privatisation-of-social-services
-title: "Report opens door to privatisation of social services"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/PO1509/S00178/report-opens-door-to-privatisation-of-social-services.htm
+title: Report opens door to privatisation of social services
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00178/report-opens-door-to-privatisation-of-social-services.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2015/09/15/report-opens-door-to-privatisation-of-social-services/index.html
+layout: layout.njk
 ---
 Report opens door to privatisation of social services
 =====================================================

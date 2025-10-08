@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-writers-quality-recognised-offshore
-title: "New Zealand writers' quality recognised offshore"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/CU0105/S00020/new-zealand-writers-quality-recognised-offshore.htm
+title: New Zealand writers' quality recognised offshore
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0105/S00020/new-zealand-writers-quality-recognised-offshore.htm
 author: auckland-university
+permalink: /archive/2001/05/07/new-zealand-writers-quality-recognised-offshore/index.html
+layout: layout.njk
 ---
 New Zealand writers' quality recognised offshore
 ================================================

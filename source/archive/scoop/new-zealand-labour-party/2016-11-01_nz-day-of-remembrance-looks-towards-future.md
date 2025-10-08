@@ -1,9 +1,12 @@
 ---
 slug: nz-day-of-remembrance-looks-towards-future
-title: "NZ day of remembrance looks towards future"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/PA1611/S00003/nz-day-of-remembrance-looks-towards-future.htm
+title: NZ day of remembrance looks towards future
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00003/nz-day-of-remembrance-looks-towards-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/01/nz-day-of-remembrance-looks-towards-future/index.html
+layout: layout.njk
 ---
 NZ day of remembrance looks towards future
 ==========================================

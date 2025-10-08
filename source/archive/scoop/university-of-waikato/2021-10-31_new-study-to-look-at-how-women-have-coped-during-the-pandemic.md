@@ -1,9 +1,13 @@
 ---
 slug: new-study-to-look-at-how-women-have-coped-during-the-pandemic
-title: "New Study To Look At How Women Have Coped During The Pandemic"
-date: 2021-10-31
-source-url: https://www.scoop.co.nz/stories/ED2110/S00027/new-study-to-look-at-how-women-have-coped-during-the-pandemic.htm
+title: New Study To Look At How Women Have Coped During The Pandemic
+date: 2021-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00027/new-study-to-look-at-how-women-have-coped-during-the-pandemic.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/31/new-study-to-look-at-how-women-have-coped-during-the-pandemic/index.html
+layout: layout.njk
 ---
 New Study To Look At How Women Have Coped During The Pandemic
 =============================================================

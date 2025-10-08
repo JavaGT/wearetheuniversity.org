@@ -1,9 +1,13 @@
 ---
 slug: auckland-uni-press-book-wins-prestigious-history-award
-title: "Auckland Uni Press Book Wins Prestigious History Award"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00021/auckland-uni-press-book-wins-prestigious-history-award.htm
+title: Auckland Uni Press Book Wins Prestigious History Award
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00021/auckland-uni-press-book-wins-prestigious-history-award.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2014/10/02/auckland-uni-press-book-wins-prestigious-history-award/index.html
+layout: layout.njk
 ---
 Auckland Uni Press Book Wins Prestigious History Award
 ======================================================

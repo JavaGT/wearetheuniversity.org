@@ -1,9 +1,13 @@
 ---
 slug: water-is-the-key-environmental-issue-this-election
-title: "Water is the key environmental issue this election"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PA1111/S00411/water-is-the-key-environmental-issue-this-election.htm
+title: Water is the key environmental issue this election
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00411/water-is-the-key-environmental-issue-this-election.htm
 author: green-party
+permalink: >-
+  /archive/2011/11/21/water-is-the-key-environmental-issue-this-election/index.html
+layout: layout.njk
 ---
 Water is the key environmental issue this election
 ==================================================

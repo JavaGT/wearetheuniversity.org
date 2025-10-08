@@ -1,9 +1,12 @@
 ---
 slug: peters-when-will-they-ever-learn
-title: "Peters: When Will They Ever Learn?"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/PO1104/S00274/peters-when-will-they-ever-learn.htm
+title: 'Peters: When Will They Ever Learn?'
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00274/peters-when-will-they-ever-learn.htm
 author: new-zealand-first-party
+permalink: /archive/2011/04/20/peters-when-will-they-ever-learn/index.html
+layout: layout.njk
 ---
 Peters: When Will They Ever Learn?
 ==================================

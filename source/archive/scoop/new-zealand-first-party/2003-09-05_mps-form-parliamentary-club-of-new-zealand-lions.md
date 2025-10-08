@@ -1,9 +1,13 @@
 ---
 slug: mps-form-parliamentary-club-of-new-zealand-lions
-title: "MPs Form Parliamentary Club Of New Zealand Lions"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/PA0309/S00104/mps-form-parliamentary-club-of-new-zealand-lions.htm
+title: MPs Form Parliamentary Club Of New Zealand Lions
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00104/mps-form-parliamentary-club-of-new-zealand-lions.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/09/05/mps-form-parliamentary-club-of-new-zealand-lions/index.html
+layout: layout.njk
 ---
 MPs Form Parliamentary Club Of New Zealand Lions
 ================================================

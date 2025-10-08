@@ -1,9 +1,12 @@
 ---
 slug: school-swimming-lessons-save-lives
-title: "School swimming lessons save lives"
-date: 2008-12-03
-source-url: https://www.scoop.co.nz/stories/PA0812/S00023/school-swimming-lessons-save-lives.htm
+title: School swimming lessons save lives
+date: 2008-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00023/school-swimming-lessons-save-lives.htm
 author: green-party
+permalink: /archive/2008/12/03/school-swimming-lessons-save-lives/index.html
+layout: layout.njk
 ---
 School swimming lessons save lives
 ==================================

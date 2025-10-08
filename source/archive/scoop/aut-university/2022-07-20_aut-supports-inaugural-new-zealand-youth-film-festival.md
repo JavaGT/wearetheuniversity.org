@@ -1,9 +1,13 @@
 ---
 slug: aut-supports-inaugural-new-zealand-youth-film-festival
-title: "AUT Supports Inaugural New Zealand Youth Film Festival"
-date: 2022-07-20
-source-url: https://www.scoop.co.nz/stories/CU2207/S00113/aut-supports-inaugural-new-zealand-youth-film-festival.htm
+title: AUT Supports Inaugural New Zealand Youth Film Festival
+date: 2022-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2207/S00113/aut-supports-inaugural-new-zealand-youth-film-festival.htm
 author: aut-university
+permalink: >-
+  /archive/2022/07/20/aut-supports-inaugural-new-zealand-youth-film-festival/index.html
+layout: layout.njk
 ---
 AUT Supports Inaugural New Zealand Youth Film Festival
 ======================================================

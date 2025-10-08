@@ -1,9 +1,13 @@
 ---
 slug: canterbury-research-into-auckland-eruption-clean-up
-title: "Canterbury research into Auckland eruption clean up"
-date: 2014-07-13
-source-url: https://www.scoop.co.nz/stories/ED1407/S00072/canterbury-research-into-auckland-eruption-clean-up.htm
+title: Canterbury research into Auckland eruption clean up
+date: 2014-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00072/canterbury-research-into-auckland-eruption-clean-up.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/13/canterbury-research-into-auckland-eruption-clean-up/index.html
+layout: layout.njk
 ---
 Canterbury research into Auckland eruption clean up
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: youth-voices-to-be-heard-at-new-zealands-apec-summit
-title: "Youth Voices To Be Heard At New Zealand’s APEC Summit"
-date: 2021-06-17
-source-url: https://www.scoop.co.nz/stories/ED2106/S00034/youth-voices-to-be-heard-at-new-zealands-apec-summit.htm
+title: Youth Voices To Be Heard At New Zealand’s APEC Summit
+date: 2021-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00034/youth-voices-to-be-heard-at-new-zealands-apec-summit.htm
 author: aut-university
+permalink: >-
+  /archive/2021/06/17/youth-voices-to-be-heard-at-new-zealands-apec-summit/index.html
+layout: layout.njk
 ---
 Youth Voices To Be Heard At New Zealand’s APEC Summit
 =====================================================

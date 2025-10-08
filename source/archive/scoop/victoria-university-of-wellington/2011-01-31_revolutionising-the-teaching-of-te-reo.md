@@ -1,9 +1,12 @@
 ---
 slug: revolutionising-the-teaching-of-te-reo
-title: "Revolutionising the teaching of te reo"
-date: 2011-01-31
-source-url: https://www.scoop.co.nz/stories/ED1101/S00050/revolutionising-the-teaching-of-te-reo.htm
+title: Revolutionising the teaching of te reo
+date: 2011-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00050/revolutionising-the-teaching-of-te-reo.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/01/31/revolutionising-the-teaching-of-te-reo/index.html
+layout: layout.njk
 ---
 Revolutionising the teaching of te reo
 ======================================

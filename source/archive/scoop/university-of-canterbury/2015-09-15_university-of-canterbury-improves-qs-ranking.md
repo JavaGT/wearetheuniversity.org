@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-improves-qs-ranking
-title: "University of Canterbury improves QS ranking"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/ED1509/S00084/university-of-canterbury-improves-qs-ranking.htm
+title: University of Canterbury improves QS ranking
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00084/university-of-canterbury-improves-qs-ranking.htm
 author: university-of-canterbury
+permalink: /archive/2015/09/15/university-of-canterbury-improves-qs-ranking/index.html
+layout: layout.njk
 ---
 University of Canterbury improves QS ranking
 ============================================

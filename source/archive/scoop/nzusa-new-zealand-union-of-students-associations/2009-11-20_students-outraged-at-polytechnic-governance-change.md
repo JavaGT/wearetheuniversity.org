@@ -1,9 +1,13 @@
 ---
 slug: students-outraged-at-polytechnic-governance-change
-title: "Students outraged at Polytechnic governance change"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/ED0911/S00086/students-outraged-at-polytechnic-governance-change.htm
+title: Students outraged at Polytechnic governance change
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00086/students-outraged-at-polytechnic-governance-change.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/11/20/students-outraged-at-polytechnic-governance-change/index.html
+layout: layout.njk
 ---
 Students outraged at Polytechnic governance change
 ==================================================

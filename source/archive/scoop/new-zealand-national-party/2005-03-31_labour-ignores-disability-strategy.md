@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-disability-strategy
-title: "Labour ignores Disability Strategy"
-date: 2005-03-31
-source-url: https://www.scoop.co.nz/stories/PA0503/S00581/labour-ignores-disability-strategy.htm
+title: Labour ignores Disability Strategy
+date: 2005-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00581/labour-ignores-disability-strategy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/31/labour-ignores-disability-strategy/index.html
+layout: layout.njk
 ---
 Labour ignores Disability Strategy
 ==================================

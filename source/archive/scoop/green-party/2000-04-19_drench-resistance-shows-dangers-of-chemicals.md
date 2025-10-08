@@ -1,9 +1,12 @@
 ---
 slug: drench-resistance-shows-dangers-of-chemicals
-title: "Drench Resistance Shows Dangers Of Chemicals"
-date: 2000-04-19
-source-url: https://www.scoop.co.nz/stories/PA0004/S00267/drench-resistance-shows-dangers-of-chemicals.htm
+title: Drench Resistance Shows Dangers Of Chemicals
+date: 2000-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00267/drench-resistance-shows-dangers-of-chemicals.htm
 author: green-party
+permalink: /archive/2000/04/19/drench-resistance-shows-dangers-of-chemicals/index.html
+layout: layout.njk
 ---
 Drench Resistance Shows Dangers Of Chemicals
 ============================================

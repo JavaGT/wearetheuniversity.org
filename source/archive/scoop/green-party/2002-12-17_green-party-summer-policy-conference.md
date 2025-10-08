@@ -1,9 +1,12 @@
 ---
 slug: green-party-summer-policy-conference
-title: "Green Party Summer Policy Conference"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/PA0212/S00392/green-party-summer-policy-conference.htm
+title: Green Party Summer Policy Conference
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00392/green-party-summer-policy-conference.htm
 author: green-party
+permalink: /archive/2002/12/17/green-party-summer-policy-conference/index.html
+layout: layout.njk
 ---
 Green Party Summer Policy Conference
 ====================================

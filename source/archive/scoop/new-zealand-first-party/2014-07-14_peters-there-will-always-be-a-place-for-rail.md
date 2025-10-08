@@ -1,9 +1,12 @@
 ---
 slug: peters-there-will-always-be-a-place-for-rail
-title: "Peters: There Will Always Be a Place for Rail"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00250/peters-there-will-always-be-a-place-for-rail.htm
+title: 'Peters: There Will Always Be a Place for Rail'
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00250/peters-there-will-always-be-a-place-for-rail.htm
 author: new-zealand-first-party
+permalink: /archive/2014/07/14/peters-there-will-always-be-a-place-for-rail/index.html
+layout: layout.njk
 ---
 Peters: There Will Always Be a Place for Rail
 =============================================

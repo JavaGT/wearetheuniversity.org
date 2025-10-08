@@ -1,8 +1,11 @@
 ---
 slug: cie-students-important-notice
-title: "CIE students – important notice"
-date: 2014-01-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/cie-students-_-important-notice.html
+title: CIE students – important notice
+date: 2014-01-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2014/cie-students-_-important-notice.html
+permalink: /archive/2014/01/25/cie-students-important-notice/index.html
+layout: layout.njk
 ---
 CIE students – important notice
 ===============================

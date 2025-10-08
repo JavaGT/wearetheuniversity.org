@@ -1,9 +1,12 @@
 ---
 slug: illustrated-history-of-the-basin-released
-title: "Illustrated history of \"The Basin\" released"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/ED0305/S00017/illustrated-history-of-the-basin-released.htm
+title: Illustrated history of "The Basin" released
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00017/illustrated-history-of-the-basin-released.htm
 author: university-of-canterbury
+permalink: /archive/2003/05/05/illustrated-history-of-the-basin-released/index.html
+layout: layout.njk
 ---
 Illustrated history of “The Basin” released
 ===========================================

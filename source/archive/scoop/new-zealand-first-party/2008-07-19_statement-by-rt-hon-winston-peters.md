@@ -1,9 +1,12 @@
 ---
 slug: statement-by-rt-hon-winston-peters
-title: "Statement By Rt Hon Winston Peters"
-date: 2008-07-19
-source-url: https://www.scoop.co.nz/stories/PA0807/S00344/statement-by-rt-hon-winston-peters.htm
+title: Statement By Rt Hon Winston Peters
+date: 2008-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00344/statement-by-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/19/statement-by-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Statement By Rt Hon Winston Peters
 ==================================

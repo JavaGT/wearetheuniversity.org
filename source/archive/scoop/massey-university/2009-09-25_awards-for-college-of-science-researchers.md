@@ -1,9 +1,12 @@
 ---
 slug: awards-for-college-of-science-researchers
-title: "Awards for College of Science researchers"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/SC0909/S00052/awards-for-college-of-science-researchers.htm
+title: Awards for College of Science researchers
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00052/awards-for-college-of-science-researchers.htm
 author: massey-university
+permalink: /archive/2009/09/25/awards-for-college-of-science-researchers/index.html
+layout: layout.njk
 ---
 Awards for College of Science researchers
 =========================================

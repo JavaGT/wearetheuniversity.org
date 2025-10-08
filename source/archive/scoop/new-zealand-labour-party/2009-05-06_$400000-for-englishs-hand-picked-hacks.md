@@ -1,9 +1,12 @@
 ---
 slug: $400000-for-englishs-hand-picked-hacks
-title: "$400,000 for English’s hand picked hacks"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/PA0905/S00087/400000-for-englishs-hand-picked-hacks.htm
+title: $400,000 for English’s hand picked hacks
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00087/400000-for-englishs-hand-picked-hacks.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/06/400-000-for-english-s-hand-picked-hacks/index.html
+layout: layout.njk
 ---
 $400,000 for English’s hand picked hacks
 ========================================

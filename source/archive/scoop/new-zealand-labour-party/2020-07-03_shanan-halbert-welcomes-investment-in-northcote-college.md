@@ -1,9 +1,13 @@
 ---
 slug: shanan-halbert-welcomes-investment-in-northcote-college
-title: "Shanan Halbert Welcomes Investment In Northcote College"
-date: 2020-07-03
-source-url: https://www.scoop.co.nz/stories/AK2007/S00080/shanan-halbert-welcomes-investment-in-northcote-college.htm
+title: Shanan Halbert Welcomes Investment In Northcote College
+date: 2020-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2007/S00080/shanan-halbert-welcomes-investment-in-northcote-college.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/07/03/shanan-halbert-welcomes-investment-in-northcote-college/index.html
+layout: layout.njk
 ---
 Shanan Halbert Welcomes Investment In Northcote College
 =======================================================

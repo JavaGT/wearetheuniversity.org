@@ -1,9 +1,13 @@
 ---
 slug: jamie-whyte-challenges-labour-on-partnership-schools
-title: "Jamie Whyte challenges Labour on partnership schools"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/PA1402/S00224/jamie-whyte-challenges-labour-on-partnership-schools.htm
+title: Jamie Whyte challenges Labour on partnership schools
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00224/jamie-whyte-challenges-labour-on-partnership-schools.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/02/18/jamie-whyte-challenges-labour-on-partnership-schools/index.html
+layout: layout.njk
 ---
 Jamie Whyte challenges Labour on partnership schools
 ====================================================

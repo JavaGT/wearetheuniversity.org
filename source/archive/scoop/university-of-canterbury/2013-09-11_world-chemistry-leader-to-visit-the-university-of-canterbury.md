@@ -1,9 +1,13 @@
 ---
 slug: world-chemistry-leader-to-visit-the-university-of-canterbury
-title: "World chemistry leader to visit the University of Canterbury"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/SC1309/S00023/world-chemistry-leader-to-visit-the-university-of-canterbury.htm
+title: World chemistry leader to visit the University of Canterbury
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00023/world-chemistry-leader-to-visit-the-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/11/world-chemistry-leader-to-visit-the-university-of-canterbury/index.html
+layout: layout.njk
 ---
 World chemistry leader to visit the University of Canterbury
 ============================================================

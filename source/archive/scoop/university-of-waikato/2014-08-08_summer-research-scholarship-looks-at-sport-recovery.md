@@ -1,9 +1,13 @@
 ---
 slug: summer-research-scholarship-looks-at-sport-recovery
-title: "Summer Research Scholarship looks at sport recovery"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/ED1408/S00042/summer-research-scholarship-looks-at-sport-recovery.htm
+title: Summer Research Scholarship looks at sport recovery
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00042/summer-research-scholarship-looks-at-sport-recovery.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/08/summer-research-scholarship-looks-at-sport-recovery/index.html
+layout: layout.njk
 ---
 Summer Research Scholarship looks at sport recovery
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: chances-of-catching-crooked-bosses-remote
-title: "Chances of Catching Crooked Bosses Remote"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/PA1702/S00315/chances-of-catching-crooked-bosses-remote.htm
+title: Chances of Catching Crooked Bosses Remote
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00315/chances-of-catching-crooked-bosses-remote.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/23/chances-of-catching-crooked-bosses-remote/index.html
+layout: layout.njk
 ---
 Chances of Catching Crooked Bosses Remote
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: could-mothers-bacteria-prevent-obesity-in-c-section-babies
-title: "Could mothers’ bacteria prevent obesity in c-section babies?"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/GE1704/S00049/could-mothers-bacteria-prevent-obesity-in-c-section-babies.htm
+title: Could mothers’ bacteria prevent obesity in c-section babies?
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00049/could-mothers-bacteria-prevent-obesity-in-c-section-babies.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/04/11/could-mothers-bacteria-prevent-obesity-in-c-section-babies/index.html
+layout: layout.njk
 ---
 Could mothers’ bacteria prevent obesity in c-section babies?
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: john-banks-out-of-touch-and-out-of-date
-title: "John Banks’ out of touch and out of date"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PO1205/S00019/john-banks-out-of-touch-and-out-of-date.htm
+title: John Banks’ out of touch and out of date
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00019/john-banks-out-of-touch-and-out-of-date.htm
 author: vuwsa
+permalink: /archive/2012/05/02/john-banks-out-of-touch-and-out-of-date/index.html
+layout: layout.njk
 ---
 John Banks’ out of touch and out of date
 ========================================

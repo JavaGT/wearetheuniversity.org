@@ -1,9 +1,12 @@
 ---
 slug: hostel-students-to-protest-slumlord
-title: "Hostel Students to Protest \"Slumlord"
-date: 2008-08-22
-source-url: https://www.scoop.co.nz/stories/PO0808/S00270/hostel-students-to-protest-slumlord.htm
+title: Hostel Students to Protest "Slumlord
+date: 2008-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00270/hostel-students-to-protest-slumlord.htm
 author: vuwsa
+permalink: /archive/2008/08/22/hostel-students-to-protest-slumlord/index.html
+layout: layout.njk
 ---
 Hostel Students to Protest “Slumlord
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: an-exciting-insight-into-the-power-of-shakespeare
-title: "An Exciting Insight Into The Power Of Shakespeare"
-date: 2005-04-26
-source-url: https://www.scoop.co.nz/stories/CU0504/S00145/an-exciting-insight-into-the-power-of-shakespeare.htm
+title: An Exciting Insight Into The Power Of Shakespeare
+date: 2005-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0504/S00145/an-exciting-insight-into-the-power-of-shakespeare.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/04/26/an-exciting-insight-into-the-power-of-shakespeare/index.html
+layout: layout.njk
 ---
 An Exciting Insight Into The Power Of Shakespeare
 =================================================

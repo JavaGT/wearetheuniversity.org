@@ -1,9 +1,13 @@
 ---
 slug: unions-stand-in-solidarity-with-striking-teachers
-title: "Unions Stand In Solidarity With Striking Teachers"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/PO2303/S00116/unions-stand-in-solidarity-with-striking-teachers.htm
+title: Unions Stand In Solidarity With Striking Teachers
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00116/unions-stand-in-solidarity-with-striking-teachers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/03/16/unions-stand-in-solidarity-with-striking-teachers/index.html
+layout: layout.njk
 ---
 Unions Stand In Solidarity With Striking Teachers
 =================================================

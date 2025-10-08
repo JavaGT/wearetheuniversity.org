@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter
-title: "ACT's The Letter"
-date: 2005-09-26
+title: ACT's The Letter
+date: 2005-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00488/acts-the-letter.htm
 author: act-new-zealand
+permalink: /archive/2005/09/26/acts-the-letter/index.html
+layout: layout.njk
 ---
 ACT's The Letter
 ================

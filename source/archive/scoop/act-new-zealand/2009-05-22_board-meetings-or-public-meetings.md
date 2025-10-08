@@ -1,9 +1,12 @@
 ---
 slug: board-meetings-or-public-meetings
-title: "Board Meetings Or Public Meetings?"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/PA0905/S00397/board-meetings-or-public-meetings.htm
+title: Board Meetings Or Public Meetings?
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00397/board-meetings-or-public-meetings.htm
 author: act-new-zealand
+permalink: /archive/2009/05/22/board-meetings-or-public-meetings/index.html
+layout: layout.njk
 ---
 Board Meetings Or Public Meetings?
 ==================================

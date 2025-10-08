@@ -1,9 +1,13 @@
 ---
 slug: national-standards-opposition-brings-unwarranted-punishment
-title: "National Standards opposition brings unwarranted punishment"
-date: 2011-08-23
-source-url: https://www.scoop.co.nz/stories/ED1108/S00121/national-standards-opposition-brings-unwarranted-punishment.htm
+title: National Standards opposition brings unwarranted punishment
+date: 2011-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00121/national-standards-opposition-brings-unwarranted-punishment.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/23/national-standards-opposition-brings-unwarranted-punishment/index.html
+layout: layout.njk
 ---
 National Standards opposition brings unwarranted punishment
 ===========================================================

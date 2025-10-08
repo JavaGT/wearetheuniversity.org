@@ -1,9 +1,12 @@
 ---
 slug: aust-launches-raid-on-our-best-and-brightest
-title: "Aust launches raid on our best and brightest"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/PA0605/S00217/aust-launches-raid-on-our-best-and-brightest.htm
+title: Aust launches raid on our best and brightest
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00217/aust-launches-raid-on-our-best-and-brightest.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/10/aust-launches-raid-on-our-best-and-brightest/index.html
+layout: layout.njk
 ---
 Aust launches raid on our best and brightest
 ============================================

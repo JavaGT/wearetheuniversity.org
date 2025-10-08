@@ -1,9 +1,11 @@
 ---
 slug: ideas-for-a-free-society
-title: "Ideas for a Free Society"
-date: 2007-03-21
+title: Ideas for a Free Society
+date: 2007-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0703/S00373/ideas-for-a-free-society.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/03/21/ideas-for-a-free-society/index.html
+layout: layout.njk
 ---
 Ideas for a Free Society
 ========================

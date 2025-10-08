@@ -1,9 +1,12 @@
 ---
 slug: self-determination-it-takes-two
-title: "Self-determination: It Takes Two"
-date: 2006-10-12
-source-url: https://www.scoop.co.nz/stories/PA0610/S00222/self-determination-it-takes-two.htm
+title: 'Self-determination: It Takes Two'
+date: 2006-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00222/self-determination-it-takes-two.htm
 author: te-pati-maori
+permalink: /archive/2006/10/12/self-determination-it-takes-two/index.html
+layout: layout.njk
 ---
 Self-determination: It Takes Two
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-must-address-funding-issues
-title: "Govt Must Address Funding Issues"
-date: 2000-09-12
-source-url: https://www.scoop.co.nz/stories/ED0009/S00025/govt-must-address-funding-issues.htm
+title: Govt Must Address Funding Issues
+date: 2000-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00025/govt-must-address-funding-issues.htm
 author: victoria-university-students-association
+permalink: /archive/2000/09/12/govt-must-address-funding-issues/index.html
+layout: layout.njk
 ---
 Govt Must Address Funding Issues
 ================================

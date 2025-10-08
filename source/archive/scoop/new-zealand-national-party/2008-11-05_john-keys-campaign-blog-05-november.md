@@ -1,9 +1,12 @@
 ---
 slug: john-keys-campaign-blog-05-november
-title: "John Key's Campaign Blog: 05 November"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PA0811/S00101/john-keys-campaign-blog-05-november.htm
+title: 'John Key''s Campaign Blog: 05 November'
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00101/john-keys-campaign-blog-05-november.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/05/john-keys-campaign-blog-05-november/index.html
+layout: layout.njk
 ---
 John Key's Campaign Blog: 05 November
 =====================================

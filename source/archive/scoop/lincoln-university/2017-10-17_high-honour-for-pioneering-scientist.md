@@ -1,9 +1,12 @@
 ---
 slug: high-honour-for-pioneering-scientist
-title: "High honour for pioneering scientist"
-date: 2017-10-17
-source-url: https://www.scoop.co.nz/stories/SC1710/S00038/high-honour-for-pioneering-scientist.htm
+title: High honour for pioneering scientist
+date: 2017-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00038/high-honour-for-pioneering-scientist.htm
 author: lincoln-university
+permalink: /archive/2017/10/17/high-honour-for-pioneering-scientist/index.html
+layout: layout.njk
 ---
 High honour for pioneering scientist
 ====================================

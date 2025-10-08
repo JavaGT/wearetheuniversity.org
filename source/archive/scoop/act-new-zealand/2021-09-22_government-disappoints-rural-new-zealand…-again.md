@@ -1,9 +1,12 @@
 ---
 slug: government-disappoints-rural-new-zealand…-again
-title: "Government Disappoints Rural New Zealand… Again"
-date: 2021-09-22
-source-url: https://www.scoop.co.nz/stories/PA2109/S00187/government-disappoints-rural-new-zealand-again.htm
+title: Government Disappoints Rural New Zealand… Again
+date: 2021-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00187/government-disappoints-rural-new-zealand-again.htm
 author: act-new-zealand
+permalink: /archive/2021/09/22/government-disappoints-rural-new-zealand/index.html
+layout: layout.njk
 ---
 Government Disappoints Rural New Zealand… Again
 ===============================================

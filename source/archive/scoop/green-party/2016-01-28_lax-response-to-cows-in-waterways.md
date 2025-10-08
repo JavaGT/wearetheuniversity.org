@@ -1,9 +1,12 @@
 ---
 slug: lax-response-to-cows-in-waterways
-title: "Lax response to cows in waterways"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00150/lax-response-to-cows-in-waterways.htm
+title: Lax response to cows in waterways
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00150/lax-response-to-cows-in-waterways.htm
 author: green-party
+permalink: /archive/2016/01/28/lax-response-to-cows-in-waterways/index.html
+layout: layout.njk
 ---
 Lax response to cows in waterways
 =================================

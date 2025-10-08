@@ -1,9 +1,13 @@
 ---
 slug: calls-for-malnutrition-screening-for-at-risk-elderly
-title: "Calls for Malnutrition Screening for At Risk Elderly"
-date: 2017-10-05
-source-url: https://www.scoop.co.nz/stories/GE1710/S00031/calls-for-malnutrition-screening-for-at-risk-elderly.htm
+title: Calls for Malnutrition Screening for At Risk Elderly
+date: 2017-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00031/calls-for-malnutrition-screening-for-at-risk-elderly.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/05/calls-for-malnutrition-screening-for-at-risk-elderly/index.html
+layout: layout.njk
 ---
 Calls for Malnutrition Screening for At Risk Elderly
 ====================================================

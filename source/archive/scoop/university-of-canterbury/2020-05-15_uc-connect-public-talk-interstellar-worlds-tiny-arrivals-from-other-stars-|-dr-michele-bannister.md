@@ -1,9 +1,16 @@
 ---
-slug: uc-connect-public-talk-interstellar-worlds-tiny-arrivals-from-other-stars-|-dr-michele-bannister
-title: "UC Connect Public Talk - Interstellar Worlds: Tiny Arrivals From Other Stars | Dr Michele Bannister"
-date: 2020-05-15
-source-url: https://www.scoop.co.nz/stories/SC2005/S00033/uc-connect-public-talk-interstellar-worlds-tiny-arrivals-from-other-stars-dr-michele-bannister.htm
+slug: >-
+  uc-connect-public-talk-interstellar-worlds-tiny-arrivals-from-other-stars-|-dr-michele-bannister
+title: >-
+  UC Connect Public Talk - Interstellar Worlds: Tiny Arrivals From Other Stars |
+  Dr Michele Bannister
+date: 2020-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00033/uc-connect-public-talk-interstellar-worlds-tiny-arrivals-from-other-stars-dr-michele-bannister.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/15/uc-connect-public-talk-interstellar-worlds-tiny-arrivals-from-other-stars-/index.html
+layout: layout.njk
 ---
 UC Connect Public Talk - Interstellar Worlds: Tiny Arrivals From Other Stars | Dr Michele Bannister
 ===================================================================================================

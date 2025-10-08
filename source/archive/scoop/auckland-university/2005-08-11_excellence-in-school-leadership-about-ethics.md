@@ -1,9 +1,12 @@
 ---
 slug: excellence-in-school-leadership-about-ethics
-title: "Excellence in school leadership about ethics"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/ED0508/S00055/excellence-in-school-leadership-about-ethics.htm
+title: Excellence in school leadership about ethics
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00055/excellence-in-school-leadership-about-ethics.htm
 author: auckland-university
+permalink: /archive/2005/08/11/excellence-in-school-leadership-about-ethics/index.html
+layout: layout.njk
 ---
 Excellence in school leadership about ethics
 ============================================

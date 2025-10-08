@@ -1,9 +1,13 @@
 ---
 slug: time-for-the-old-guard-to-learn-some-new-tricks-vuwsa
-title: "Time for the old guard to learn some new tricks - VUWSA"
-date: 2018-07-05
-source-url: https://www.scoop.co.nz/stories/PO1807/S00072/time-for-the-old-guard-to-learn-some-new-tricks-vuwsa.htm
+title: Time for the old guard to learn some new tricks - VUWSA
+date: 2018-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00072/time-for-the-old-guard-to-learn-some-new-tricks-vuwsa.htm
 author: vuwsa
+permalink: >-
+  /archive/2018/07/05/time-for-the-old-guard-to-learn-some-new-tricks-vuwsa/index.html
+layout: layout.njk
 ---
 Time for the old guard to learn some new tricks - VUWSA
 =======================================================

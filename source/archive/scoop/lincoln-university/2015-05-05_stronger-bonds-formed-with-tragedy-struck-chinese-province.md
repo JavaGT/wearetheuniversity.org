@@ -1,9 +1,13 @@
 ---
 slug: stronger-bonds-formed-with-tragedy-struck-chinese-province
-title: "Stronger bonds formed with tragedy-struck Chinese province"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/ED1505/S00021/stronger-bonds-formed-with-tragedy-struck-chinese-province.htm
+title: Stronger bonds formed with tragedy-struck Chinese province
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00021/stronger-bonds-formed-with-tragedy-struck-chinese-province.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/05/stronger-bonds-formed-with-tragedy-struck-chinese-province/index.html
+layout: layout.njk
 ---
 Stronger bonds formed with tragedy-struck Chinese province
 ==========================================================

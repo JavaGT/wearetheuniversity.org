@@ -1,9 +1,13 @@
 ---
 slug: first-nz-study-of-cannabis-use-in-people-with-spinal-injury
-title: "First NZ study of cannabis use in people with spinal injury"
-date: 2019-10-27
-source-url: https://www.scoop.co.nz/stories/GE1910/S00106/first-nz-study-of-cannabis-use-in-people-with-spinal-injury.htm
+title: First NZ study of cannabis use in people with spinal injury
+date: 2019-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1910/S00106/first-nz-study-of-cannabis-use-in-people-with-spinal-injury.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/10/27/first-nz-study-of-cannabis-use-in-people-with-spinal-injury/index.html
+layout: layout.njk
 ---
 First NZ study of cannabis use in people with spinal injury
 ===========================================================

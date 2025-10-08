@@ -1,9 +1,12 @@
 ---
 slug: labour-announces-canterbury-housing-kick-start
-title: "Labour announces Canterbury Housing kick-start"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/PA1406/S00445/labour-announces-canterbury-housing-kick-start.htm
+title: Labour announces Canterbury Housing kick-start
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00445/labour-announces-canterbury-housing-kick-start.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/27/labour-announces-canterbury-housing-kick-start/index.html
+layout: layout.njk
 ---
 Labour announces Canterbury Housing kick-start
 ==============================================

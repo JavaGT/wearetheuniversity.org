@@ -1,9 +1,12 @@
 ---
 slug: its-official-ncea-is-fatally-flawed
-title: "It's Official: NCEA Is Fatally Flawed"
-date: 2004-08-30
-source-url: https://www.scoop.co.nz/stories/PA0408/S00519/its-official-ncea-is-fatally-flawed.htm
+title: 'It''s Official: NCEA Is Fatally Flawed'
+date: 2004-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00519/its-official-ncea-is-fatally-flawed.htm
 author: act-new-zealand
+permalink: /archive/2004/08/30/its-official-ncea-is-fatally-flawed/index.html
+layout: layout.njk
 ---
 It's Official: NCEA Is Fatally Flawed
 =====================================

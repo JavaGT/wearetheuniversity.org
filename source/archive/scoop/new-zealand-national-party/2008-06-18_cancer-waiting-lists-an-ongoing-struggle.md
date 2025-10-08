@@ -1,9 +1,12 @@
 ---
 slug: cancer-waiting-lists-an-ongoing-struggle
-title: "Cancer waiting lists – an ongoing struggle"
-date: 2008-06-18
-source-url: https://www.scoop.co.nz/stories/PA0806/S00274/cancer-waiting-lists-an-ongoing-struggle.htm
+title: Cancer waiting lists – an ongoing struggle
+date: 2008-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00274/cancer-waiting-lists-an-ongoing-struggle.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/18/cancer-waiting-lists-an-ongoing-struggle/index.html
+layout: layout.njk
 ---
 Cancer waiting lists – an ongoing struggle
 ==========================================

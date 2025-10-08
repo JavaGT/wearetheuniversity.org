@@ -1,9 +1,13 @@
 ---
 slug: tolley-fails-to-deliver-on-promised-school-funding
-title: "Tolley fails to deliver on promised school funding"
-date: 2009-03-13
-source-url: https://www.scoop.co.nz/stories/PA0903/S00199/tolley-fails-to-deliver-on-promised-school-funding.htm
+title: Tolley fails to deliver on promised school funding
+date: 2009-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00199/tolley-fails-to-deliver-on-promised-school-funding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/13/tolley-fails-to-deliver-on-promised-school-funding/index.html
+layout: layout.njk
 ---
 Tolley fails to deliver on promised school funding
 ==================================================

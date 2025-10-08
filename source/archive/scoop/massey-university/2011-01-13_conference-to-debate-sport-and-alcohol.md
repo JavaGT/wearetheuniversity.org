@@ -1,9 +1,12 @@
 ---
 slug: conference-to-debate-sport-and-alcohol
-title: "Conference to debate sport and alcohol"
-date: 2011-01-13
-source-url: https://www.scoop.co.nz/stories/ED1101/S00014/conference-to-debate-sport-and-alcohol.htm
+title: Conference to debate sport and alcohol
+date: 2011-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00014/conference-to-debate-sport-and-alcohol.htm
 author: massey-university
+permalink: /archive/2011/01/13/conference-to-debate-sport-and-alcohol/index.html
+layout: layout.njk
 ---
 Conference to debate sport and alcohol
 ======================================

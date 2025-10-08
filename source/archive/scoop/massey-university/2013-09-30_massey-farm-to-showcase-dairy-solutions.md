@@ -1,9 +1,12 @@
 ---
 slug: massey-farm-to-showcase-dairy-solutions
-title: "Massey farm to showcase dairy solutions"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/AK1309/S00982/massey-farm-to-showcase-dairy-solutions.htm
+title: Massey farm to showcase dairy solutions
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00982/massey-farm-to-showcase-dairy-solutions.htm
 author: massey-university
+permalink: /archive/2013/09/30/massey-farm-to-showcase-dairy-solutions/index.html
+layout: layout.njk
 ---
 Massey farm to showcase dairy solutions
 =======================================

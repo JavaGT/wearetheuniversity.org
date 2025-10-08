@@ -1,9 +1,12 @@
 ---
 slug: peters-questions-insurance-increase
-title: "Peters Questions Insurance Increase"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/PO1105/S00139/peters-questions-insurance-increase.htm
+title: Peters Questions Insurance Increase
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00139/peters-questions-insurance-increase.htm
 author: new-zealand-first-party
+permalink: /archive/2011/05/10/peters-questions-insurance-increase/index.html
+layout: layout.njk
 ---
 Peters Questions Insurance Increase
 ===================================

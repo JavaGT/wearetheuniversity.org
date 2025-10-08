@@ -1,9 +1,11 @@
 ---
 slug: quieten-down-mallard
-title: "Quieten Down Mallard"
-date: 2003-01-22
+title: Quieten Down Mallard
+date: 2003-01-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00152/quieten-down-mallard.htm
 author: act-new-zealand
+permalink: /archive/2003/01/22/quieten-down-mallard/index.html
+layout: layout.njk
 ---
 Quieten Down Mallard
 ====================

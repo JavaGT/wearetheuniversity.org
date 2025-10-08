@@ -1,9 +1,11 @@
 ---
 slug: surgery-delays-unacceptable
-title: "Surgery Delays Unacceptable"
-date: 2001-05-31
+title: Surgery Delays Unacceptable
+date: 2001-05-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0105/S00672/surgery-delays-unacceptable.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/31/surgery-delays-unacceptable/index.html
+layout: layout.njk
 ---
 Surgery Delays Unacceptable
 ===========================

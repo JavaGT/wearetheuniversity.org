@@ -1,9 +1,12 @@
 ---
 slug: adrenaline-stocks-when-will-pharmac-learn
-title: "Adrenaline stocks – when will Pharmac learn?"
-date: 2007-07-09
-source-url: https://www.scoop.co.nz/stories/PA0707/S00129/adrenaline-stocks-when-will-pharmac-learn.htm
+title: Adrenaline stocks – when will Pharmac learn?
+date: 2007-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00129/adrenaline-stocks-when-will-pharmac-learn.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/09/adrenaline-stocks-when-will-pharmac-learn/index.html
+layout: layout.njk
 ---
 Adrenaline stocks – when will Pharmac learn?
 ============================================

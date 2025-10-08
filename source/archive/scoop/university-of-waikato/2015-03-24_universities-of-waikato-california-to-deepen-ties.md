@@ -1,9 +1,13 @@
 ---
 slug: universities-of-waikato-california-to-deepen-ties
-title: "Universities of Waikato, California to deepen ties"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/ED1503/S00100/universities-of-waikato-california-to-deepen-ties.htm
+title: Universities of Waikato, California to deepen ties
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00100/universities-of-waikato-california-to-deepen-ties.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/03/24/universities-of-waikato-california-to-deepen-ties/index.html
+layout: layout.njk
 ---
 Universities of Waikato, California to deepen ties
 ==================================================

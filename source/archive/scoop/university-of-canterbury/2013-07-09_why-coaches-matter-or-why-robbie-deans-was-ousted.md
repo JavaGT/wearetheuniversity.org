@@ -1,9 +1,13 @@
 ---
 slug: why-coaches-matter-or-why-robbie-deans-was-ousted
-title: "Why coaches matter or why Robbie Deans was ousted"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/CU1307/S00160/why-coaches-matter-or-why-robbie-deans-was-ousted.htm
+title: Why coaches matter or why Robbie Deans was ousted
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00160/why-coaches-matter-or-why-robbie-deans-was-ousted.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/09/why-coaches-matter-or-why-robbie-deans-was-ousted/index.html
+layout: layout.njk
 ---
 Why coaches matter or why Robbie Deans was ousted
 =================================================

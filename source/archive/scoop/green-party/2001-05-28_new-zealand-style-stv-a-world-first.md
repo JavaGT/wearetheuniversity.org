@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-style-stv-a-world-first
-title: "New Zealand-Style STV A World First"
-date: 2001-05-28
-source-url: https://www.scoop.co.nz/stories/PA0105/S00583/new-zealand-style-stv-a-world-first.htm
+title: New Zealand-Style STV A World First
+date: 2001-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00583/new-zealand-style-stv-a-world-first.htm
 author: green-party
+permalink: /archive/2001/05/28/new-zealand-style-stv-a-world-first/index.html
+layout: layout.njk
 ---
 New Zealand-Style STV A World First
 ===================================

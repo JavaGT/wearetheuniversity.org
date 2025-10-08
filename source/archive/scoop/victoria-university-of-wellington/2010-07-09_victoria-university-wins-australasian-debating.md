@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-wins-australasian-debating
-title: "Victoria University wins Australasian Debating"
-date: 2010-07-09
-source-url: https://www.scoop.co.nz/stories/ED1007/S00037/victoria-university-wins-australasian-debating.htm
+title: Victoria University wins Australasian Debating
+date: 2010-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00037/victoria-university-wins-australasian-debating.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/07/09/victoria-university-wins-australasian-debating/index.html
+layout: layout.njk
 ---
 Victoria University wins Australasian Debating
 ==============================================

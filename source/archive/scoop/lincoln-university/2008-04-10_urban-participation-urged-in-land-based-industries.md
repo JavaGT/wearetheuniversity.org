@@ -1,9 +1,13 @@
 ---
 slug: urban-participation-urged-in-land-based-industries
-title: "Urban participation urged in land-based industries"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/ED0804/S00032/urban-participation-urged-in-land-based-industries.htm
+title: Urban participation urged in land-based industries
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00032/urban-participation-urged-in-land-based-industries.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/04/10/urban-participation-urged-in-land-based-industries/index.html
+layout: layout.njk
 ---
 Urban participation urged in land-based industries
 ==================================================

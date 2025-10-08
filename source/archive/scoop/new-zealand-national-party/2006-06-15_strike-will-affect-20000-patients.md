@@ -1,9 +1,12 @@
 ---
 slug: strike-will-affect-20000-patients
-title: "Strike will affect 20,000 patients"
-date: 2006-06-15
-source-url: https://www.scoop.co.nz/stories/PA0606/S00292/strike-will-affect-20000-patients.htm
+title: Strike will affect 20,000 patients
+date: 2006-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00292/strike-will-affect-20000-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/15/strike-will-affect-20000-patients/index.html
+layout: layout.njk
 ---
 Strike will affect 20,000 patients
 ==================================

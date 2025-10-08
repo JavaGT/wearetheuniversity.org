@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-144-17-february-2005
-title: "Maxim: Real Issues No. 144,   17 February 2005"
-date: 2005-02-18
-source-url: https://www.scoop.co.nz/stories/PO0502/S00172/maxim-real-issues-no-144-17-february-2005.htm
+title: 'Maxim: Real Issues No. 144,   17 February 2005'
+date: 2005-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0502/S00172/maxim-real-issues-no-144-17-february-2005.htm
 author: maxim-institute
+permalink: /archive/2005/02/18/maxim-real-issues-no-144-17-february-2005/index.html
+layout: layout.njk
 ---
 Maxim: Real Issues No. 144, 17 February 2005
 ============================================

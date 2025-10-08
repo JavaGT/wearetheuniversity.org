@@ -1,9 +1,12 @@
 ---
 slug: unlocking-maori-business-potential
-title: "Unlocking Maori Business Potential"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/BU1104/S00363/unlocking-maori-business-potential.htm
+title: Unlocking Maori Business Potential
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00363/unlocking-maori-business-potential.htm
 author: university-of-waikato
+permalink: /archive/2011/04/13/unlocking-maori-business-potential/index.html
+layout: layout.njk
 ---
 Unlocking Maori Business Potential
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: shared-roots-and-globalisation-bradford-speech
-title: "Shared Roots And Globalisation - Bradford Speech"
-date: 2001-07-02
-source-url: https://www.scoop.co.nz/stories/PA0107/S00001/shared-roots-and-globalisation-bradford-speech.htm
+title: Shared Roots And Globalisation - Bradford Speech
+date: 2001-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00001/shared-roots-and-globalisation-bradford-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/02/shared-roots-and-globalisation-bradford-speech/index.html
+layout: layout.njk
 ---
 Shared Roots And Globalisation - Bradford Speech
 ================================================

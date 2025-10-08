@@ -1,9 +1,13 @@
 ---
 slug: more-could-be-done-to-alleviate-housing-desperation
-title: "More could be done to alleviate housing desperation"
-date: 2019-01-18
-source-url: https://www.scoop.co.nz/stories/PO1901/S00071/more-could-be-done-to-alleviate-housing-desperation.htm
+title: More could be done to alleviate housing desperation
+date: 2019-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1901/S00071/more-could-be-done-to-alleviate-housing-desperation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/01/18/more-could-be-done-to-alleviate-housing-desperation/index.html
+layout: layout.njk
 ---
 More could be done to alleviate housing desperation
 ===================================================

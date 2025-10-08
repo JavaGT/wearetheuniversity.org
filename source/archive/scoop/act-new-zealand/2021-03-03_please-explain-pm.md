@@ -1,9 +1,11 @@
 ---
 slug: please-explain-pm
-title: "Please Explain, PM"
-date: 2021-03-03
+title: Please Explain, PM
+date: 2021-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2103/S00022/please-explain-pm.htm
 author: act-new-zealand
+permalink: /archive/2021/03/03/please-explain-pm/index.html
+layout: layout.njk
 ---
 Please Explain, PM
 ==================

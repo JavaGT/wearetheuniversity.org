@@ -1,9 +1,13 @@
 ---
 slug: people-more-likely-to-clean-teeth-with-text-messages-prompts
-title: "People more likely to clean teeth with text messages prompts"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/ED1412/S00005/people-more-likely-to-clean-teeth-with-text-messages-prompts.htm
+title: People more likely to clean teeth with text messages prompts
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00005/people-more-likely-to-clean-teeth-with-text-messages-prompts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/01/people-more-likely-to-clean-teeth-with-text-messages-prompts/index.html
+layout: layout.njk
 ---
 People more likely to clean teeth with text messages prompts
 ============================================================

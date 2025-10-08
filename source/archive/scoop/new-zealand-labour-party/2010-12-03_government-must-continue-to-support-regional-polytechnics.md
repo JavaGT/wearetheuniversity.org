@@ -1,9 +1,13 @@
 ---
 slug: government-must-continue-to-support-regional-polytechnics
-title: "Government must continue to support regional polytechnics"
-date: 2010-12-03
-source-url: https://www.scoop.co.nz/stories/PA1012/S00025/government-must-continue-to-support-regional-polytechnics.htm
+title: Government must continue to support regional polytechnics
+date: 2010-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00025/government-must-continue-to-support-regional-polytechnics.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/12/03/government-must-continue-to-support-regional-polytechnics/index.html
+layout: layout.njk
 ---
 Government must continue to support regional polytechnics
 =========================================================

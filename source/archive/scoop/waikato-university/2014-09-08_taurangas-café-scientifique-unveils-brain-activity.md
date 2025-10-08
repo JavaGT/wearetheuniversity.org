@@ -1,9 +1,12 @@
 ---
 slug: taurangas-café-scientifique-unveils-brain-activity
-title: "Tauranga's Café Scientifique unveils brain activity"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/SC1409/S00030/taurangas-cafe-scientifique-unveils-brain-activity.htm
+title: Tauranga's Café Scientifique unveils brain activity
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00030/taurangas-cafe-scientifique-unveils-brain-activity.htm
 author: waikato-university
+permalink: /archive/2014/09/08/taurangas-caf/index.html
+layout: layout.njk
 ---
 Tauranga's Café Scientifique unveils brain activity
 ===================================================

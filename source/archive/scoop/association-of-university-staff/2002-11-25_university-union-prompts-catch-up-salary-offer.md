@@ -1,9 +1,12 @@
 ---
 slug: university-union-prompts-catch-up-salary-offer
-title: "University union prompts 'catch up' salary offer"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/ED0211/S00064/university-union-prompts-catch-up-salary-offer.htm
+title: University union prompts 'catch up' salary offer
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00064/university-union-prompts-catch-up-salary-offer.htm
 author: association-of-university-staff
+permalink: /archive/2002/11/25/university-union-prompts-catch-up-salary-offer/index.html
+layout: layout.njk
 ---
 University union prompts 'catch up' salary offer
 ================================================
