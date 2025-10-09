@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>About</h1>
+<p>We are a community of students and staff who are committed to the University as a site of intellectual expansion and academic freedom. We believe the University should function as the ‘critic and conscience of society’ and as an open space for expression of dissent. The escalating profit-driven and market-oriented agenda of the University over the last thirty fourty years has eroded these principles.</p>
+<h2>Key values</h2>
+<ul>
+<li>&quot;The university&quot; refers to the collective of staff and students who make up the institution. The identity of the university is not defined by upper management.</li>
+<li>University has three core functions: teaching, research, and service to the community. These functions should be the primary focus of the university.</li>
+<li>University is a public good. Accordingly, the university should be free to access.</li>
+</ul>
+<h2>We are committed to:</h2>
+<ul>
+<li>Reclaiming the University, we believe in free, accessible, and quality education.</li>
+<li>Political freedom, and democratic governance of the university.</li>
+<li>No privatisation of education.</li>
+<li>Education and research should be driven by the needs of people, not the interests of the market.</li>
+<li>Management is not the University.</li>
+<li>Students, academics and workers all make this place what it is, and the truth is <strong>we are not a product of the university, WE ARE THE UNIVERSITY!</strong></li>
+</ul>
+<h1>Whakapapa</h1>
+<p>There is great difficulty maintaining student organisations over time, and we applaud the efforts of longstanding grassroots organisations. In it's current form, We Are The University is a rebirth inspired by the work by previous student organisers in the early 2010. We are grateful for the work of those who came before us, and we hope to continue their legacy.</p>
+<p>In this same vein, we intend to invest efforts developing infrastructure for student organising. Our intention is to ensure future students have accessible avenues to the resources, strategies, and tactics we develop. This website is one such investment.</p>
+<p><a href="https://www.flickr.com/photos/67852624@N02/with/6945443611">Photos of We Are The University as it existed in the early 2010s.</a></p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

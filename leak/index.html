@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leak Information</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Leak Information</h1>
+<p>If you have information you believe should be shared with WEARETHEUNIVERSITY, you can leak it safely and anonymously. Here’s how:</p>
+<h2>How to Leak Data Safely</h2>
+<ol>
+<li>
+<p><strong>Remove Metadata:</strong></p>
+<ul>
+<li>Before sharing files, remove any metadata (author, location, device info) from documents, images, and videos.</li>
+<li>Use tools like <a href="https://0xacab.org/jvoisin/mat2">MAT2</a> or <a href="https://exiftool.org/">ExifTool</a> to scrub metadata.</li>
+</ul>
+</li>
+<li>
+<p><strong>Use Secure Channels:</strong></p>
+<ul>
+<li>Prefer encrypted email, secure drop services, or anonymous file sharing platforms.</li>
+<li>Consider using <a href="https://proton.me/">ProtonMail</a> or <a href="https://tutanota.com/">Tutanota</a> for email.</li>
+</ul>
+</li>
+<li>
+<p><strong>Anonymize Your Identity:</strong></p>
+<ul>
+<li>Use Tor Browser or a trusted VPN to hide your IP address.</li>
+<li>Avoid sharing personal details or patterns that could identify you.</li>
+</ul>
+</li>
+<li>
+<p><strong>Contact Us Securely:</strong></p>
+<ul>
+<li>Email: <a href="mailto:leak@wearetheuniversity.org">leak@wearetheuniversity.org</a></li>
+<li>Or use our <a href="/contact/">secure contact form</a> (if available).</li>
+</ul>
+</li>
+<li>
+<p><strong>Legal Notice:</strong></p>
+<ul>
+<li>Ensure you are not violating any laws or putting yourself at risk. Only share information you have the right to disclose.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p>If you have questions about safe leaking, contact us securely for guidance.</p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

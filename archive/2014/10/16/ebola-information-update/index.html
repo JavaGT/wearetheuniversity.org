@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ebola information update</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Ebola information update</h1>
+<p>The Ministry of Health advises that the Ebola risk is minimal for New Zealanders due to our geographical isolation and the fact there are no direct flights here from countries affected by Ebola.</p>
+<p>The current outbreak is mainly affecting four countries in West Africa (Sierra Leone, Guinea, Liberia and Nigeria) although some affected travellers have been identified in other countries. Even in Ebola-affected countries incidence of the disease is not common.</p>
+<p>In line with World Health Organisation (WHO) advice to provide information to travellers, people arriving in New Zealand who have visited an Ebola-affected country in the last 30 days are being questioned by customs officials about their health. Where necessary they will be assessed by public health unit staff. Any traveller who has been to an Ebola-affected country will also be provided information about signs and symptoms of Ebola and advised how to seek medical help in New Zealand if they become unwell.</p>
+<p>If you get sick within a month of arriving/returning to New Zealand please consult a doctor.</p>
+<p>Ideally do not attend the health centre but instead call <strong>0800 611 116 Healthline</strong>.</p>
+<p>See <a href="http://www.health.govt.nz/our-work/diseases-and-conditions/ebola-update">Ministry of Health website for Ebola updates</a></p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

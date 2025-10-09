@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report on Parental Engagement helps lift student achievement</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    
+    
+      <div class="authors-meta" style="margin-top:2em; color:var(--gray-6); font-size:0.95em; text-align:center;">
+        <div><strong>From:</strong> new-zealand-national-party</div>
+        
+      </div>
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

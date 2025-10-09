@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art detective work: did Rembrandt really paint that?</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Art detective work: did Rembrandt really paint that?</h1>
+<p>22 September 2015</p>
+<p>Science-based detective work on some of the world’s most famous paintings is the topic of a public lecture at the University of Auckland tonight.</p>
+<p>Professor Ingrid Daubechies, Duke University Professor of Mathematics and the first woman to be appointed Professor of Mathematics at Princeton University, visits New Zealand for this year’s Maclaurin Lecture.</p>
+<p>She will discuss sophisticated image processing techniques used to help establish the authenticity and age of some of the world’s most famous works of art including paintings by Vincent van Gogh and Rembrandt.</p>
+<p>The technique uses extremely high-resolution x-ray images which provide intense digital magnification of a painting, down to each brush stroke and each thread in the weave of a canvas. Complex computer algorithmic processes are then used to interpret the data.</p>
+<p>In an early demonstration of the technique, Professor Daubechies and a team from Princeton were able to identify one fake van Gogh among a set of six high-resolution images of different works by the artist.</p>
+<p>Scientists from Penn State in the US and Maastricht University in the Netherlands were also able to detect the fake, a copy of van Gogh’s <em>The Reaper</em>.</p>
+<p>Traditionally, establishing a work of art’s authenticity is a painstaking and lengthy process, requiring art experts to count each thread – the actual number of weaves in a canvas – under a microscope and examine every stroke of the paintbrush.</p>
+<p>“Digital imaging can be used not only to detect whether a work is original or not but also to discover which version of a painting a work of art might be because as we know, van Gogh did paint over a work because he could not afford to buy canvases,” Professor Daubechies says.</p>
+<p>Her free public lecture, <em>The Master’s Hand: Can image analysis detect the hand of the master?</em> will discuss the use of digital imaging in the authentication of Rembrandt’s <em>Saul and David</em>, a painting experts had cast doubt over.</p>
+<p>The lecture will be held on Tuesday September 22 at 6pm in Maths Lecture Theatre 2, Building 303, 38 Princes St, at the University of Auckland.</p>
+<p>Light refreshments will be served on the Level 4 Common Room of Building 303 from 5pm.</p>
+<p>For media enquiries, please contact Anne Beston - <a href="mailto:a.beston@auckland.ac.nz">a.beston@auckland.ac.nz</a></p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>
