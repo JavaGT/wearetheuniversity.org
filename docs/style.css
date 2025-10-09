@@ -241,6 +241,7 @@ code {
     padding: 0.5rem 1rem;
     background-color: var(--color-bg-em);
     color: var(--color-text);
+    overflow: scroll;
 }
 
 table {
