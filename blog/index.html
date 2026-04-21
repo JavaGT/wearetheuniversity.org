@@ -32,7 +32,7 @@
     </tr>
   </thead>
   <tbody><tr>
-        <td><small>2025-11-19</small></td>
+        <td><small>2026-04-21</small></td>
         <td><a href="/blog/">Blog</a></td>
         <td>Blog {% for post in collections.blog %} {% if not post.data.draft %} &lt;article &lt;h2&lt;a href=&quot;{{ post.url }}&quot;{{ post.data.title }}&lt;/a&lt;/h2 &lt;p&lt;small{{ post.date date&quot;yyyyMMdd&quot; }}&lt;/small&lt;/p &lt;p{{ post.data.excerpt or &quot;No excerpt available&quot; }}&lt;/p &lt;/article {% endif %} {% endfor %} {% set drafts = collections.blog selectattr&#39;data.draft&#39;, &#39;equalto&#39;, true list %} {% if drafts...</td>
       </tr><tr>
