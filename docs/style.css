@@ -179,7 +179,6 @@ nav ul li a:hover {
     letter-spacing: 0.05em;
     font-size: 2rem;
     margin: 0.5rem 0;
-    display: inline-block;
 }
 
 main {
@@ -235,7 +234,6 @@ print {
 }
 
 code {
-    display: block;
     border: 0.25rem solid var(--color-bg);
     border-radius: var(--border-radius-sm);
     padding: 0.5rem 1rem;
