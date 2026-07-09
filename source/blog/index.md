@@ -1,11 +1,14 @@
 ---
 layout: layout.njk
 title: Blog
-excerpt: "Blog {% for post in collections.blog %} {% if not post.data.draft %} <article <h2<a href=\"{{ post.url }}\"{{ post.data.title }}</a</h2 <p<small{{ post.date date\"yyyyMMdd\" }}</small</p <p{{ post.data.excerpt or \"No excerpt available\" }}</p </article {% endif %} {% endfor %} {% set drafts = collections.blog selectattr'data.draft', 'equalto', true list %} {% if drafts..."
-permalink: /blog/index.html
+permalink: /index.html
 ---
 
-# Blog
+# WATU Blog
+
+Writing, open letters, meeting notes, and campaign updates from We Are The University.
+
+**Organising site:** [wearetheuniversity.org](https://wearetheuniversity.org/) · **Research archive:** [archive.wearetheuniversity.org](https://archive.wearetheuniversity.org/)
 
 <table>
   <thead>
@@ -21,7 +24,7 @@ permalink: /blog/index.html
       <tr>
         <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
         <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
-        <td>{{ post.data.excerpt or "(No excerpt available)" }}</td>
+        <td>{{ post.data.excerpt or "" }}</td>
       </tr>
     {%- endif -%}
   {%- endfor -%}
@@ -40,7 +43,7 @@ permalink: /blog/index.html
       <tr>
         <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
         <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
-        <td>{{ post.data.excerpt or "(No excerpt available)" }}</td>
+        <td>{{ post.data.excerpt or "" }}</td>
       </tr>
     {%- endfor -%}
     </tbody>

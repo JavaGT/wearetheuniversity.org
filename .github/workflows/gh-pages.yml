@@ -1,15 +1,22 @@
-name: Deploy to GitHub Pages
+name: Deploy www + blog + archive
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ This gives github-actions[bot] permission to push
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy-sites
+  cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  build-www:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,16 +24,93 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build site
-        run: npm run build
+      - name: Build apex site (wearetheuniversity.org)
+        run: npm run build:www
 
-      - name: Deploy to GitHub Pages
+      - name: Ensure CNAME + nojekyll
+        run: |
+          echo "wearetheuniversity.org" > docs/CNAME
+          touch docs/.nojekyll
+
+      - name: Commit docs/ for GitHub Pages (main/docs)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs
+          if git diff --staged --quiet; then
+            echo "No docs changes"
+          else
+            git commit -m "chore: rebuild www site [skip ci]"
+            git push
+          fi
+
+  build-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build blog
+        run: npm run build:blog
+
+      - name: Ensure CNAME + nojekyll
+        run: |
+          echo "blog.wearetheuniversity.org" > dist/blog/CNAME
+          touch dist/blog/.nojekyll
+
+      - name: Deploy to blog.wearetheuniversity.org repo
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          personal_token: ${{ secrets.ARCHIVE_DEPLOY_TOKEN || secrets.GITHUB_TOKEN }}
+          external_repository: JavaGT/blog.wearetheuniversity.org
+          publish_dir: ./dist/blog
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: blog.wearetheuniversity.org
+
+  build-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build research archive
+        run: npm run build:archive
+
+      - name: Ensure CNAME + nojekyll
+        run: |
+          echo "archive.wearetheuniversity.org" > dist/archive/CNAME
+          touch dist/archive/.nojekyll
+
+      - name: Deploy to archive.wearetheuniversity.org repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.ARCHIVE_DEPLOY_TOKEN || secrets.GITHUB_TOKEN }}
+          external_repository: JavaGT/archive.wearetheuniversity.org
+          publish_dir: ./dist/archive
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: archive.wearetheuniversity.org

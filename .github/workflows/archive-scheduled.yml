@@ -1,0 +1,54 @@
+# Rebuild + redeploy the research archive on a schedule (and on demand).
+# Keeps archive.wearetheuniversity.org fresh when source emails are added on main.
+name: Scheduled archive rebuild
+
+on:
+  schedule:
+    # Weekly Sunday 06:00 UTC
+    - cron: "0 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: archive-scheduled
+  cancel-in-progress: true
+
+jobs:
+  rebuild-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate archive front matter
+        run: npm run archive:validate
+        continue-on-error: true
+
+      - name: Build research archive
+        run: npm run build:archive
+
+      - name: Ensure CNAME + nojekyll
+        run: |
+          echo "archive.wearetheuniversity.org" > dist/archive/CNAME
+          touch dist/archive/.nojekyll
+
+      - name: Deploy to archive.wearetheuniversity.org
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.ARCHIVE_DEPLOY_TOKEN || secrets.GITHUB_TOKEN }}
+          external_repository: JavaGT/archive.wearetheuniversity.org
+          publish_dir: ./dist/archive
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: archive.wearetheuniversity.org

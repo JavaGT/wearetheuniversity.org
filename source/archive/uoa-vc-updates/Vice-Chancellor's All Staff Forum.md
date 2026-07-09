@@ -3,7 +3,7 @@ layout: layout.njk
 title: Vice-Chancellor's All Staff Forum
 date: '2025-05-25T20:43:33.000Z'
 excerpt: >-
-  Attachment: [undefined](/attachments/attachment_1759965997090) Topic: AI Note:
+  Attachment: [undefined](/attachments/attachment_1783636964690) Topic: AI Note:
   To join the Vice-Chancellor’s All Staff Forum, you must have the Zoom client
   installed on your chosen device and be signed into the Zoom client using your
   University username and password. Instructions are available here:
@@ -15,7 +15,7 @@ author: all-staff-request@list.auckland.ac.nz
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2025/05/25/vice-chancellor-s-all-staff-forum/index.html
 ---
-Attachment: [undefined](/attachments/attachment_1759965997090)
+Attachment: [undefined](/attachments/attachment_1783636964690)
 Topic: AI
 
 Note: To join the Vice-Chancellor’s All Staff Forum, you must have the Zoom client installed on your chosen device and be signed into the Zoom client using your University username and password.

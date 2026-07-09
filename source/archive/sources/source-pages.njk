@@ -1,0 +1,46 @@
+---
+pagination:
+  data: collections.archiveSources
+  size: 1
+  alias: sourceGroup
+permalink: "/archive/sources/{{ sourceGroup.source }}/index.html"
+layout: layout.njk
+eleventyComputed:
+  title: "Archive · {{ sourceGroup.label }}"
+---
+
+# {{ sourceGroup.label }}
+
+<p><a href="/archive/sources/">← All sources</a> · <a href="/">Archive home</a></p>
+
+<p>{{ sourceGroup.count }} items</p>
+
+{% if sourceGroup.source == "scoop" %}
+<p><em>Scoop.co.nz mirror — bulk research dump, not written by We Are The University.</em></p>
+{% endif %}
+
+{% set listLimit = 150 %}
+{% if sourceGroup.count > listLimit %}
+<p>This source has {{ sourceGroup.count }} items — too many for one page. Showing the {{ listLimit }} most recent. Prefer <a href="/archive/years/">browse by year</a>.</p>
+{% endif %}
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Excerpt</th>
+    </tr>
+  </thead>
+  <tbody>
+  {%- for post in sourceGroup.items -%}
+    {%- if not post.data.draft and loop.index0 < listLimit -%}
+    <tr>
+      <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
+      <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
+      <td>{{ post.data.excerpt or "" }}</td>
+    </tr>
+    {%- endif -%}
+  {%- endfor -%}
+  </tbody>
+</table>

@@ -3,7 +3,7 @@ layout: layout.njk
 title: Vice-Chancellor's All Staff Forum
 date: '2023-11-23T03:25:55.000Z'
 excerpt: >-
-  Attachment: [undefined](/attachments/attachment_1759965997074) Topic: Estate
+  Attachment: [undefined](/attachments/attachment_1783636964676) Topic: Estate
   Strategy & Campus Updates Note: To join the Vice-Chancellor’s All Staff Forum,
   you must have the Zoom client installed on your chosen device and be signed
   into the Zoom client using your University username and password. Instructions
@@ -14,7 +14,7 @@ author: Dawn Freshwater <vice-chancellor@auckland.ac.nz>
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2023/11/23/vice-chancellor-s-all-staff-forum/index.html
 ---
-Attachment: [undefined](/attachments/attachment_1759965997074)
+Attachment: [undefined](/attachments/attachment_1783636964676)
 Topic:  Estate Strategy & Campus Updates
 
 Note: To join the Vice-Chancellor’s All Staff Forum, you must have the Zoom client installed on your chosen device and be signed into the Zoom client using your University username and password.

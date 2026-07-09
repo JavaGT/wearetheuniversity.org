@@ -324,13 +324,32 @@ async function saveMarkdown(emlPath, markdown) {
   await fsp.writeFile(mdPath, markdown, 'utf8');
 }
 
+function parseScope(argv) {
+  const arg = argv.find((a) => a.startsWith('--scope='));
+  const scope = arg ? arg.slice('--scope='.length) : 'all';
+  const allowed = new Set(['all', 'blog', 'archive', 'none']);
+  if (!allowed.has(scope)) {
+    logger.warn(`Unknown --scope=${scope}; using all`);
+    return 'all';
+  }
+  return scope;
+}
+
 // Main processing function
 async function main() {
   const forceRebuild = process.argv.includes('--force') || process.argv.includes('-f');
+  const scope = parseScope(process.argv);
+  const skipMdTrack = process.argv.includes('--skip-md-track');
   
   logger.info('Starting archive and blog processing...');
+  logger.info(`Scope: ${scope}${skipMdTrack ? ' (skip markdown tracking)' : ''}`);
   if (forceRebuild) {
     logger.info('Force rebuild mode enabled - ignoring cache');
+  }
+
+  if (scope === 'none') {
+    logger.info('Scope none — nothing to process');
+    return;
   }
   
   try {
@@ -342,12 +361,16 @@ async function main() {
     let emlSkippedCount = 0;
     let mdProcessedCount = 0;
     let mdSkippedCount = 0;
+
+    const dirs = [];
+    if (scope === 'all' || scope === 'blog') dirs.push(BLOG_DIR);
+    if (scope === 'all' || scope === 'archive') dirs.push(ARCHIVE_DIR);
     
     // Process EML files
-    const emlFiles = [
-      ...(await findEMLFiles(BLOG_DIR)),
-      ...(await findEMLFiles(ARCHIVE_DIR))
-    ];
+    let emlFiles = [];
+    for (const dir of dirs) {
+      emlFiles = emlFiles.concat(await findEMLFiles(dir));
+    }
     
     logger.info(`Found ${emlFiles.length} EML files to process`);
     
@@ -363,27 +386,31 @@ async function main() {
         emlSkippedCount++;
       }
     }
-    
-    // Process existing markdown files for hash tracking
-    const mdFiles = [
-      ...(await findAllMarkdownFiles(BLOG_DIR)),
-      ...(await findAllMarkdownFiles(ARCHIVE_DIR))
-    ];
-    
-    // Filter out EML-generated markdown files to avoid double processing
-    const emlGeneratedPaths = new Set(emlFiles.map(f => f.replace(/\.eml$/i, '.md')));
-    const existingMdFiles = mdFiles.filter(f => !emlGeneratedPaths.has(f));
-    
-    logger.info(`Found ${existingMdFiles.length} existing markdown files to track`);
-    
-    for (const mdFile of existingMdFiles) {
-      const wasUpdated = await processMarkdownFile(mdFile, cache, forceRebuild);
-      if (wasUpdated) {
-        mdProcessedCount++;
-        logger.debug(`Tracked changes in MD: ${mdFile}`);
-      } else {
-        mdSkippedCount++;
+
+    if (!skipMdTrack) {
+      // Process existing markdown files for hash tracking
+      let mdFiles = [];
+      for (const dir of dirs) {
+        mdFiles = mdFiles.concat(await findAllMarkdownFiles(dir));
       }
+      
+      // Filter out EML-generated markdown files to avoid double processing
+      const emlGeneratedPaths = new Set(emlFiles.map(f => f.replace(/\.eml$/i, '.md')));
+      const existingMdFiles = mdFiles.filter(f => !emlGeneratedPaths.has(f));
+      
+      logger.info(`Found ${existingMdFiles.length} existing markdown files to track`);
+      
+      for (const mdFile of existingMdFiles) {
+        const wasUpdated = await processMarkdownFile(mdFile, cache, forceRebuild);
+        if (wasUpdated) {
+          mdProcessedCount++;
+          logger.debug(`Tracked changes in MD: ${mdFile}`);
+        } else {
+          mdSkippedCount++;
+        }
+      }
+    } else {
+      logger.info('Skipped markdown hash tracking');
     }
     
     // Save cache

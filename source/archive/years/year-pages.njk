@@ -1,0 +1,42 @@
+---
+pagination:
+  data: collections.archiveYears
+  size: 1
+  alias: yearGroup
+permalink: "/archive/years/{{ yearGroup.year }}/index.html"
+layout: layout.njk
+eleventyComputed:
+  title: "Archive {{ yearGroup.year }}"
+---
+
+# Archive · {{ yearGroup.year }}
+
+<p><a href="/archive/years/">← All years</a> · <a href="/">Archive home</a></p>
+
+<p>{{ yearGroup.count }} items</p>
+
+{% set listLimit = 300 %}
+{% if yearGroup.count > listLimit %}
+<p>Showing {{ listLimit }} most recent for this year (of {{ yearGroup.count }}). Full set is reachable from individual document URLs and <a href="/archive/sources/">sources</a>.</p>
+{% endif %}
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Excerpt</th>
+    </tr>
+  </thead>
+  <tbody>
+  {%- for post in yearGroup.items -%}
+    {%- if not post.data.draft and loop.index0 < listLimit -%}
+    <tr>
+      <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
+      <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
+      <td>{{ post.data.excerpt or "" }}</td>
+    </tr>
+    {%- endif -%}
+  {%- endfor -%}
+  </tbody>
+</table>

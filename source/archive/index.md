@@ -1,48 +1,46 @@
 ---
 layout: layout.njk
 title: Archive
-permalink: /archive/index.html
-slug: archive
+permalink: /index.html
+slug: archive-home
 ---
 
-# Archive
+# WATU Research Archive
+
+This host holds documents and mirrored material for research and accountability — press releases, institutional emails, council records, and a large Scoop.co.nz mirror. It is **not** the organising site.
+
+**Campaign writing, actions, and contact live on** [wearetheuniversity.org](https://wearetheuniversity.org/).
+
+## Browse
+
+| Browse by | |
+|-----------|--|
+| [Year](/archive/years/) | Indexes by publication year |
+| [Source](/archive/sources/) | Scoop, UoA news, VC updates, TEU, Council, etc. |
+
+## Sources at a glance
 
 <table>
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Title</th>
-      <th>Excerpt</th>
+      <th>Source</th>
+      <th>Items</th>
     </tr>
   </thead>
   <tbody>
-  {%- for post in collections.archive | reverse -%}
-    {%- if not post.data.draft -%}
-      <tr>
-        <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
-        <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
-        <td>{{ post.data.excerpt or "(No excerpt available)" }}</td>
-      </tr>
-    {%- endif -%}
+  {%- for src in collections.archiveSources -%}
+    <tr>
+      <td><a href="/archive/sources/{{ src.source }}/">{{ src.label }}</a></td>
+      <td>{{ src.count }}</td>
+    </tr>
   {%- endfor -%}
   </tbody>
 </table>
 
-{% set drafts = collections.archive | selectattr('data.draft', 'equalto', true) | list %}
-{% if drafts %}
-  <h3>Drafts</h3>
-  <table>
-    <thead>
-      <tr><th>Date</th><th>Title</th><th>Excerpt</th></tr>
-    </thead>
-    <tbody>
-    {%- for post in drafts -%}
-      <tr>
-        <td><small>{{ post.date | date("yyyy-MM-dd") }}</small></td>
-        <td><a href="{{ post.url }}">{{ post.data.title }}</a></td>
-        <td>{{ post.data.excerpt or "(No excerpt available)" }}</td>
-      </tr>
-    {%- endfor -%}
-    </tbody>
-  </table>
-{% endif %}
+## Years
+
+<ul class="year-list">
+{%- for y in collections.archiveYears -%}
+  <li><a href="/archive/years/{{ y.year }}/">{{ y.year }}</a> <small>({{ y.count }})</small></li>
+{%- endfor -%}
+</ul>

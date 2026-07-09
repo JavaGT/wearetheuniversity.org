@@ -3,40 +3,79 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or "WEARETHEUNIVERSITY" }}</title>
+  <title>{% if title %}{{ title }} · {% endif %}{{ site.shortName or "WEARETHEUNIVERSITY" }}</title>
+  <meta name="description" content="{{ excerpt or site.name }}">
   <link rel="stylesheet" href="/style.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 </head>
-<body>
+<body class="site-{{ site.kind or 'www' }}">
   <header>
-  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <h1 class="logo">
+      {% if site.isArchive %}
+      <a href="/" style="color:inherit; text-decoration:none;">WATU Archive</a>
+      {% elif site.isBlog %}
+      <a href="/" style="color:inherit; text-decoration:none;">WATU Blog</a>
+      {% else %}
+      <a href="/" style="color:inherit; text-decoration:none;">We Are The University</a>
+      {% endif %}
+    </h1>
     <nav aria-label="Primary">
       <ul>
+        {% if site.isArchive %}
+        <li><a href="/">Archive home</a></li>
+        <li><a href="/archive/years/">By year</a></li>
+        <li><a href="/archive/sources/">By source</a></li>
+        <li><a href="{{ site.blogUrl }}/">Blog ↗</a></li>
+        <li><a href="{{ site.wwwUrl }}/">Organising site ↗</a></li>
+        {% elif site.isBlog %}
+        <li><a href="/">All posts</a></li>
+        <li><a href="{{ site.wwwUrl }}/">Organising site ↗</a></li>
+        <li><a href="{{ site.wwwUrl }}/about/">About ↗</a></li>
+        <li><a href="{{ site.wwwUrl }}/contact/">Contact ↗</a></li>
+        <li><a href="{{ site.archiveUrl }}/">Archive ↗</a></li>
+        {% else %}
         <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/archive">Archive</a></li>
-        <li><a href="/arcade">Arcade</a></li>
-        <li><a href="/tools">Tools</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="{{ site.blogUrl }}/">Blog ↗</a></li>
+        <li><a href="{{ site.archiveUrl }}/">Archive ↗</a></li>
+        <li><a href="/arcade/">Arcade</a></li>
+        <li><a href="/tools/">Tools</a></li>
+        {% endif %}
       </ul>
     </nav>
   </header>
   <main>
     {{ content | safe }}
     {% if author or to %}
-      <div class="authors-meta" style="margin-top:2em; color:var(--gray-6); font-size:0.95em; text-align:center;">
+      <div class="authors-meta">
         {% if author %}<div><strong>From:</strong> {{ author }}</div>{% endif %}
         {% if to %}<div><strong>To:</strong> {{ to }}</div>{% endif %}
       </div>
     {% endif %}
   </main>
-  <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
-    <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+  <footer class="site-footer">
+    {% if site.isArchive %}
+    <p>
+      <a href="/">{{ site.shortName }}</a>
+      · Research archive for
+      <a href="{{ site.wwwUrl }}/">We Are The University</a>
+      · <a href="{{ site.blogUrl }}/">Blog</a>
+    </p>
+    {% elif site.isBlog %}
+    <p>
+      <a href="/">{{ site.shortName }}</a>
+      · Writing from
+      <a href="{{ site.wwwUrl }}/">We Are The University</a>
+      · <a href="{{ site.archiveUrl }}/">Archive</a>
+    </p>
+    {% else %}
+    <p>
+      <a href="/">{{ site.shortName }}</a>
+      · <a href="{{ site.blogUrl }}/">blog.wearetheuniversity.org</a>
+      · <a href="{{ site.archiveUrl }}/">archive.wearetheuniversity.org</a>
+    </p>
+    {% endif %}
   </footer>
-  <script>
-    if (localStorage.getItem('darkMode') === 'true') {
-      document.body.classList.add('dark-mode');
-    }
-  </script>
 </body>
 </html>

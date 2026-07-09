@@ -1,13 +1,24 @@
 {
-  "name": "wearetheuniversity.org2",
+  "name": "wearetheuniversity.org",
   "version": "1.0.0",
-  "description": "",
+  "description": "We Are The University — www + blog + research archive (three hosts)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "reset-eml-md": "find ./source/archive ./source/blog -type f -name '*.eml' -print0 | xargs -0 -I{} sh -c 'md=\"{}\"; md=\"${md%.eml}.md\"; rm -f \"$md\"'",
-    "build": "node ./build/archive-and-blog.mjs && npx eleventy",
-    "serve": "node ./build/archive-and-blog.mjs && npx eleventy --serve"
+    "prebuild:www": "rm -rf docs/archive docs/blog",
+    "build:www": "node ./build/archive-and-blog.mjs --scope=none && npx eleventy --config=eleventy.www.js",
+    "build:blog": "node ./build/archive-and-blog.mjs --scope=blog --skip-md-track && npx eleventy --config=eleventy.blog.js",
+    "build:archive": "node ./build/archive-and-blog.mjs --scope=archive --skip-md-track && npx eleventy --config=eleventy.archive.js",
+    "build": "npm run build:www",
+    "build:all": "npm run build:www && npm run build:blog && npm run build:archive",
+    "serve:www": "node ./build/archive-and-blog.mjs --scope=none && npx eleventy --config=eleventy.www.js --serve",
+    "serve:blog": "node ./build/archive-and-blog.mjs --scope=blog --skip-md-track && npx eleventy --config=eleventy.blog.js --serve",
+    "serve:archive": "node ./build/archive-and-blog.mjs --scope=archive --skip-md-track && npx eleventy --config=eleventy.archive.js --serve",
+    "serve": "npm run serve:www",
+    "archive:ingest": "node ./scripts/archive/ingest-eml.mjs",
+    "archive:validate": "node ./scripts/archive/validate.mjs",
+    "process:eml": "node ./build/archive-and-blog.mjs"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +28,8 @@
     "@11ty/eleventy": "^3.1.2"
   },
   "dependencies": {
+    "js-yaml": "^4.1.0",
+    "luxon": "^3.6.1",
     "mailparser": "^3.7.4"
   }
 }

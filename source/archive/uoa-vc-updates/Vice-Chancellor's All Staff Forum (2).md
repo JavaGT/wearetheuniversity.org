@@ -3,7 +3,7 @@ layout: layout.njk
 title: Vice-Chancellor's All Staff Forum
 date: '2024-08-16T03:43:20.000Z'
 excerpt: >-
-  Attachment: [undefined](/attachments/attachment_1759965997065) Focus: Town
+  Attachment: [undefined](/attachments/attachment_1783636964669) Focus: Town
   Hall and updates on Strategy and UAG etc Note: To join the Vice-Chancellor’s
   All Staff Forum, you must have the Zoom client installed on your chosen device
   and be signed into the Zoom client using your University username and
@@ -14,7 +14,7 @@ author: all-staff-request@list.auckland.ac.nz
 to: all-staff Mailing List <all-staff@list.auckland.ac.nz>
 permalink: /archive/2024/08/16/vice-chancellor-s-all-staff-forum/index.html
 ---
-Attachment: [undefined](/attachments/attachment_1759965997065)
+Attachment: [undefined](/attachments/attachment_1783636964669)
 Focus: Town Hall and updates on Strategy and UAG etc
 
 Note: To join the Vice-Chancellor’s All Staff Forum, you must have the Zoom client installed on your chosen device and be signed into the Zoom client using your University username and password.
